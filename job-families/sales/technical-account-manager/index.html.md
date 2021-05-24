@@ -1,0 +1,332 @@
+---
+layout: job_family_page
+title: "Technical Account Manager"
+---
+
+The Technical Account Management (TAM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment. 
+
+Additionally, our team serves as liaisons between the customer and the GitLab ecosystem, streamlining collaboration with Product Management, Engineering, Sales, Professional Services, and others. [TAM handbook](/handbook/customer-success/tam).
+
+## Responsibilities
+
+- Partner with our customers in taking that established in the pre-sales command plan, and turning the customers desired positive business outcomes into actionable objectives
+- Know the Gitlab platform, our more common best practices, and use cases in order to guide the customer
+- Understand the customer journey and be able to guide them on future adoption
+- Act as the GitLab liaison for GitLab questions, issues, or escalations.  Work with GitLab Support, Product Management (i.e., roadmaps), or other teams as needed
+- Own a book of assigned customers, with a focus on increasing adoption, ensuring retention and growth, and overall customer satisfaction
+- Remain knowledgeable and up-to-date on GitLab releases
+
+## Requirements
+
+- Ability to use GitLab and willing to work with Git and GitLab whenever possible
+- Alignment with our [values](/handbook/values/), and willingness to work in accordance with those values
+- Prior experience in Customer Success or equivalent history of increasing satisfaction, adoption, and retention
+- Familiarity working with customers of all sizes, especially large enterprise organizations
+- Exceptional verbal, written, organizational, presentation, and communications skills
+- Detailed oriented and analytical
+- Strong team player but self-starter
+- Project management experience & skills
+- Strong technical, analytic, and problem-solving skills
+- Share our [values](/handbook/values/), and work in accordance with those values
+
+### Levels
+
+## Junior TAM
+
+The Junior TAM reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+
+### Junior TAM Job Grade
+
+The Junior TAM is a job grade [level 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Junior TAM Responsibilities
+
+* Provide immediate onboarding activities such as installation and training 
+* Work with assigned customers to build Customer Success Plans, establishing critical goals, or other key performance indicators and aid the customer in achieving their goals
+* Manage the assigned customers to the established SLAs
+* Program manage account escalations
+* Provide insights with respect to the availability and applicability of new features in GitLab as relevant
+* Support GitLab Services in identifying and recommending training opportunities
+
+### Junior TAM Requirements
+
+* 3 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+
+## Technical Account Manager (TAM) (Intermediate)
+
+The TAM (Intermediate) reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+
+### TAM (Intermediate) Job Grade
+
+The TAM( Intermediate) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### TAM (Intermediate) Responsibilities
+
+- Extends the TAM (Junior) responsibilities
+- Establish a trusted/strategic advisor relationship with each assigned customer and drive continued value of our solution and services
+- Assist and provide expert deployment, operational best practices, and establishing a GitLab Center of Excellence
+- Assist in workshops to help customers leverage the full value of GitLab solution
+- Measure and monitor customers' achievement of critical and key performance indicators, reporting both internally to GitLab account stakeholders and externally to Customer Sponsors and Executives
+- Establish regular touchpoints with assigned customers per the established SLAs, to review progress against strategic and technical objectives
+
+### TAM (Intermediate) Requirements
+
+- 7 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+- Experience with Ruby on Rails applications and Git
+- Deep knowledge of software development lifecycle and development pipeline
+- Understanding of continuous integration, continuous deployment, chatOps, and cloud-native
+- Above average knowledge of Unix and Unix based Operating Systems
+- Installation and operation of Linux operating systems and hardware investigation/manipulation commands
+- BASH/Shell scripting including systems and init.d startup scripts
+- Package management (RPM, etc. to add/remove/list packages)
+- Understanding of system log files/logging infrastructure
+- B.Sc. in Computer Science or equivalent experience
+- Programming/scripting experience & skill is required (Bash & Ruby)
+- SCM admin and/or PS experience would be a plus
+- Set up HA/DR, working with Containers and Schedulers (Kubernetes preferred) and also experience with AWS stack (EC2, ECS, RDS, ElastiCache)
+
+## Public Sector Technical Account Manager
+
+The Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
+
+### Public Sector Technical Account Manager Job Grade
+
+The Public Sector Technical Account Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Public Sector Technical Account Manager Responsibilities
+
+- In addition to the TAM (Intermediate) responsibilities:
+- Working exclusively with Federal Public Sector customers
+
+### Public Sector Technical Account Manager Requirements
+
+- In addition to the TAM (Intermediate) requirements:
+- TS/SCI Security Clearance if applicable
+- Knowledge of and at least four years of experience with Federal Public Sector customers
+
+## Senior TAM
+
+The Senior TAM reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+
+### Senior TAM Job Grade
+
+The Senior TAM is a job grade [level 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior TAM Responsibilities
+
+* Extends the TAM (Intermediate) responsibilities
+* Strategize on the overall objectives and long-range goals of the team
+* Provide mentorship for Junior and Intermediate TAMs to help them grow in their technical knowledge and provide premium customer experience
+* Work cross-departmentally to find solutions to complex scenarios and integration issues
+* Demonstrate leadership in new feature and technology adoption and teaching by providing regular enablement and solution overview sessions and documentation for customers and other GitLab team-members
+* Help drive team expertise and technical thought leadership
+* Maintain deep knowledge of the GitLab platform
+* Clearly communicate and drive adoption of complex technical solutions, with constant attention to promoting "boring solutions"
+
+### Senior TAM Requirements
+
+* Ability to translate business requirements into business value, and work with sales and marketing to promote value-driven solutions
+* Strong knowledge of Customer Success best practices, with experience defining process and providing enablement programs to promote adoption in CS and across the company
+* Knowledgable in GitLab internals and deployment methods for cloud or on-premise deployments
+* Expert in GitLab usage and able to train others in its usage
+* Advanced knowledge of software development lifecycle and development pipeline
+* Advanced project management experience & skills
+* Advanced SCM admin and/or PS experience
+
+## Senior Public Sector Technical Account Manager
+
+The Senior Public Sector Technical Account Manager reports to the [Manager, Public Sector Technical Account Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-public-sector-technical-account-manager).
+
+### Senior Public Sector Technical Account Manager Job Grade
+
+The Senior Public Sector Technical Account Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior Public Sector Technical Account Manager Responsibilities
+
+- In addition to the Senior TAM (Intermediate) responsibilities:
+- Working exclusively with Federal Public Sector customers
+
+### Senior Public Sector Technical Account Manager Requirements
+
+- In addition to the Senior TAM (Intermediate) requirements:
+- TS/SCI Security Clearance if applicable
+- Knowledge of and at least four years of experience with Federal Public Sector customers
+
+## Manager, TAM
+
+The Manager, TAM, reports to the [Director of Technical Account Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+
+### Manager, TAM Job Grade
+
+The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Manager, TAM Responsibilities
+
+* Mentor and enable the team to exceed company growth and retention forecasts
+* Work with the Customer Success Director to help establish and manage goals and responsibilities for TAMs
+* Manage a team of highly motivated, customer-focused TAMs to manage the overall health and care of accounts (e.g., onboarding customers, stage adoption, executive business reviews, and successful renewals)
+* Ensure the TAMs exceed Gitlab expectations in core knowledge, communication, and execution
+* Challenge the team and yourself to learn and grow as trusted advisors to customers continually
+* Provide leadership and guidance to coach, motivate and lead the team members to their optimum performance levels and career development, providing timely feedback and development assistance
+* Manage resource assignments and staffing levels, including recruitment as needed
+* Identify and implement improvements to the processes and tools used
+* Develop senior-level relationships with customers
+* Partner with other team leaders to ensure the customer is supported in times of escalation
+* Develop strong relationships with Engineering and Product to ensure cohesion and shared understanding of goals, initiatives
+* Oversee initiatives set forth in [OKRs](/company/okrs/)
+* Work together with the other managers to execute strategies and vision with the Director
+* Represent Gitlab leadership and reflect our [Gitlab values](/handbook/values/) in internal and external interactions
+
+### Manager, TAM Requirements
+
+* Proven track record in software/technology sales or consulting
+* Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
+* Experience with software development lifecycle processes and tools as well as agile and/or DevOps practices
+* Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and/or cloud deployment models (AWS, GCP, Azure) is a plus
+* Proven ability to develop strategies, translate them into initiatives and track successful delivery
+* Demonstrated ability to lead managers and successfully manage global, distributed teams across cultures, lines of business, and geographies
+* Possession of a strong management presence and leadership ability, with communication and interpersonal skills that inspire and motivate leaders and teams
+* Demonstration of operational excellence in analytical thinking, process development and improvement, problem-solving, communication, delegation, and planning
+* Ability to collaborate across the organization and with external stakeholders
+* Experience successfully working with senior (C-level) executives
+* Holds strong operational skills that will drive organizational efficiencies and customer satisfaction
+* Comfortable giving and receiving positive and constructive feedback
+* Ability to connect technology with measurable business value
+* Strategic thinking about business, products, and technical challenges
+
+## Manager, Public Sector Technical Account Manager
+
+The Manager, Public Sector Technical Account Manager reports to the [Director, Public Sector Customer Success](https://about.gitlab.com/job-families/sales/director-customer-success/#director-public-sector-customer-success).
+
+### Manager, Public Sector Technical Account Manager Job Grade
+
+The Manager, Public Sector Technical Account Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Manager, Public Sector Technical Account Manager Responsibilities
+
+- In addition to the Manager, TAM responsibilities:
+- Working exclusively with Federal Public Sector customers
+
+### Manager, Public Sector Technical Account Manager Requirements
+
+- In addition to the Manager, TAM requirements:
+- TS/SCI Security Clearance if applicable
+- Knowledge of and at least four years of experience with Federal Public Sector customers
+
+## Senior Manager, TAM
+
+The Senior Manager, TAM reports to the [Director of Technical Account Managers](https://about.gitlab.com/job-families/sales/technical-account-manager/#director-of-technical-account-managers).
+
+### Senior Manager, TAM Job Grade
+
+The Senior Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior Manager, TAM Responsibilities
+
+* Extends the Manager, TAM responsibilities
+* DRI for one or more initiatives beyond the TAM manager role that includes: customer growth, expansion programs, and processes
+* Action upon identified opportunities for continuous improvement across the customer lifecycle
+* Consistent representation of our values to the customer, our TAM team, and the company as a whole. Lead in cross-functional work representing customer success in GitLabs more strategic revenue-focused initiatives
+* Owns and manages more than just the TAM manager purview - defined by looking for and solving larger team or organizational challenges, and owning initiatives that span wider than the TAM manager role
+* Aligned with the objectives of Gitlab and is responsible for ensuring that the TAM team as a whole is contributing to our company objectives
+* Strategic in thinking to solve challenges for the entire TAM team and make improvements that will positively impact all customers
+
+### Senior Manager, TAM Requirements
+
+* Extends the Manager, TAM requirements
+* 2-4 years of management experience leading teams in a software company
+* 2 years experience leading customer success managers, account management or sales teams with team sizes of 5+ people
+* Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
+
+## Director of TAMs
+
+The Director of TAMs reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/). 
+
+###  Director of TAMs Job Grade
+
+The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+###  Director of TAMs Responsibilities
+
+* Set the overall vision and strategic plan for the Account Management organization, focusing on driving product adoption, leading customer outcomes, and experiences, and driving growth through gross renewals and net retention improvements.
+* Architect the post-sales customer experience and lifecycle by building a world-class customer success management practice and organization
+* Partner with the sales, product, engineering and operations teams to deliver the best possible customer experience
+* Drive customer outcomes, product adoption, and customer experience
+  - Influence future lifetime value through higher product adoption, customer satisfaction, and overall health scores
+  - Increase product adoption and drive new business growth through greater advocacy and referenceability
+* Define and optimize customer lifecycle by driving programs and initiatives to improve engagement approaches based on customer segmentation and leading a culture of continuous improvement
+* Develop company-wide customer success motion integrating processes, content and data to/from stakeholder organizations (e,g., Marketing, Sales, Product/Engineering, etc)
+* Proven ability to develop strategies, translate them into initiatives and track successful delivery
+* Build and lead world-class Technical Account Management team:
+  - Recruit and develop a high performing team
+  - Foster collaboration within the GitLab team and across customer stakeholders (i.e., technical, management and executives)
+  - Lead enablement and operational practices to track and improve the performance of the teams and individuals
+* Work closely with the sales management and Regional Directors to align on strategies, renewal forecasting, coverage plans, and account opportunities (i.e., opportunities and risks)
+* Drive account growth goals: 
+  - Expand GitLab product and license adoption, setting up expansion opportunities
+  - Influence future lifetime value through higher product adoption, customer satisfaction/advocacy, and referenceability
+* Be an inspirational role model by challenging and maximizing the team strengths and aligning their efforts to the mission, vision, and organizational strategy
+* Address escalated customer issues with speed and urgency, orchestrating resources across the company as appropriate
+* Build a world-class post-sales organization by implementing technology and processes
+* This role is focused on customer success management and is not a technical support-related role.
+
+###  Director of TAMs Requirements
+
+* 7 - 10 years of management experience leading teams in a software company 
+* 5 years experience leading customer success managers, account management or sales teams with team sizes of 30 people+
+* 3 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+* Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and/or cloud deployment models (AWS, GCP, Azure) is a plus
+* Demonstrated ability to lead managers and successfully manage global, distributed teams across cultures, lines of business, and geographies
+* Possesses a strong management presence and leadership ability, with communication and interpersonal skills that inspire and motivate leaders and teams
+* Demonstrated operational excellence in analytical thinking, process development, and improvement, problem-solving, communication, delegation, and planning
+* Able to collaborate across the organization and with external stakeholders
+* Experience successfully working with senior (C-level) executives
+* Holds strong operational skills that will drive organizational efficiencies and customer satisfaction
+
+## Senior Director of TAMs
+
+The Senior Director of TAMs reports to the [VP of Customer Success](job-families/sales/vp-of-customer-success/)
+
+###  Senior Director of TAMs Job Grade
+
+The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+###  Senior Director of TAMs Responsibilities
+
+* Extends that of the Director of TAMS responsibilities
+* Define and deliver strategies and plans that enhance and integrate into GitLab's Go-To-Market strategies and plans, including Sales, Marketing, Product, Growth, Operations, Channel/Alliance, and Data Teams
+* Build engagement approaches (e.g., onboarding, success plan management, expansion plays, etc.) based on industry best practices while incorporating GitLab's unique value proposition and values
+* Build and iterate on segmentation strategies based on customer economics, propensity to grow, lifecycle stage, and customer preferences, incorporating digital engagement at all segments
+* Manage and nurture executive relationships with customers, including management of executive-level escalations
+
+###  Senior Director of TAMs Requirements
+
+* Extends that of the Director of TAMs requirements
+* 5 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+
+## Specialties
+
+### Enterprise
+
+* Experience leading high-touch customer success management teams for Enterprise customers
+
+## Performance Indicators
+
+* net ARR (i.e., retention and expansion) 
+* [TAM-related metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/).
+
+## Career Ladder
+
+The next steps for the TAM Job Family are to move to the [Manager, Customer Experience](/job-families/sales/manager-customer-experience/) Job Family or the [Director, Customer Success](/job-families/sales/director-customer-success/) Job Family.
+
+## Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
+* Next, candidates will complete an Assessment,  
+* Next, candidates will interview with 2-4 GitLab team members and the hiring manager,
+* Then, candidates will be asked to perform a demonstration, 
+* Finally, candidates may be asked to interview with an executive or the CEO.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
