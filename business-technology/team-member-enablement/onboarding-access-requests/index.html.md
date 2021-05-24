@@ -171,7 +171,7 @@ Therefore the vendor should be able to handle most if not all shipping requireme
 Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop.
 If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.
 
-Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use the same template.
+Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use the same template.
 
 This process can also be followed for laptops that are not broken but old enough that you are having trouble completing your work.
 Please refer to the [spirit of spending company money](/handbook/spending-company-money/) when deciding whether or not it is appropriate to replace your functioning laptop.
