@@ -240,6 +240,7 @@ This content is divided into five key competencies for Product Managers.
 
 - [LinkedIn Learning: Learning Design Thinking](https://www.linkedin.com/learning/learning-design-thinking-lead-change-in-your-organization)
 - [LinkedIn Learning: Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=2255073)
+- [LinkedIn Learning: Dieter Rams: Principles of Good Design](https://www.linkedin.com/learning/dieter-rams-principles-of-good-design)
 
 ##### Books
 
@@ -303,6 +304,8 @@ _Please contribute your favorite resources here_
 
 - [The Engineering Manager: The relationship with Product](https://www.theengineeringmanager.com/growth/the-engineering-product-relationship/) 
 - [Visha Soni: A Practical Prioritization Approach for Technical Debt](https://productcoalition.com/a-practical-prioritization-approach-for-technical-debt-f1eb31b8e409)
+- [Rajat Harlalka: Why You Should Invest in Relationships With Your Engineering Team](https://www.mindtheproduct.com/why-you-should-invest-in-relationships-with-your-engineering-team/)
+
 
 ##### Deeper dive
 
@@ -434,7 +437,7 @@ _Please contribute your favorite resources here_
 
 ##### Online courses 
 
-_Please contribute your favorite resources here_
+- [LinkedIn Learning: Communication for Product Managers](https://www.linkedin.com/learning/communication-for-product-managers/)
 
 ##### Books
 
