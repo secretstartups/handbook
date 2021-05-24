@@ -53,6 +53,23 @@ The SLA score can be seen on the [SLA dashboard], and the SLA target is set as a
 
 More details on definitions of outage, and degradation are on the [incident-management page](/handbook/engineering/infrastructure/incident-management/#definition-of-outage-vs-degraded-vs-disruption)
 
+## Historical Service Level Availability
+
+| **Year Month** | **Availability** | **Comments** |
+| ---- | ----------- | ---- |
+| 2021 May | TBD | will require manual adjustment for [PostgreSQL 12 Upgrade](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/4037)
+| 2021 April | 99.98% | | | 2021 March | 99.34% | |
+| 2021 February | 99.87% | |
+| 2021 January | 99.88% | |
+| 2020 December | 99.96% | |
+| 2020 November | 99.90% | |
+| 2020 October | 99.74% | |
+| 2020 September | 99.95% | |
+| 2020 August | 99.87% | |
+| 2020 July | 99.81% | |
+| 2020 June | 99.56% | |
+| 2020 May | 99.58% | |
+
 ## Related Pages
 
 - [Production Architecture](/handbook/engineering/infrastructure/production-architecture/)
