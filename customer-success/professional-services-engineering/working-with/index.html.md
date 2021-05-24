@@ -67,7 +67,7 @@ Often we are asked "what is your lead time for getting started with a project" o
 As there may be many projects and proposals in flight at any time, there are a few rules we use when prioritizing and scheduling engagements:
 
 * No engagement schedule can be committed to until a signed SOW is received and the Sr. PS Project Coordinator has scheduled the project on the PS Calendar. While we can make a good faith effort to try and match a schedule ahead of that time, to be fair to customers who have committed to a services engagement we must prioritize those first.
-* Our typical lead time for starting an engagement is 4- 6 weeks or less, but this can vary greatly as we scale the team and engagements.
+* Our typical lead time for starting an engagement is 4- 6 weeks or less, but this can vary as we scale the team and engagements.
 * Please, check with the Sr. PS Project Coordinator by tagging the group `@ps-scheduling` for the latest lead time details in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack channel if you need a more accurate estimate.  
 * Depending on the lead time and if the opportunity is working to close the Sr. PS Project Coordinator will track the opportunity and start planning tentative project dates in anticipitation of the executed sow and opportunity updated to "Close/Won". 
  
