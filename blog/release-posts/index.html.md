@@ -1455,11 +1455,13 @@ If you need to set up multiple removals, notify the [Release Post Manager](#rele
 removals:
   - feature_name: Lorem ipsum dolor
     date_of_removal: May 22nd, 2017 # example
+    reporter: bikebilly # item author username
     description: |  # example (supports markdown)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
   - feature_name: Lorem ipsum dolor
     date_of_removal: May 22nd, 2017. # example
+    reporter: bikebilly # item author username
     description: |  # example (supports markdown)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
@@ -1468,6 +1470,8 @@ removals:
 `feature_name` should follow the structure of "XYZ feature or function has been removed."
 
 `date_of_removal` should be the day the removal was releaed, e.g. May 22nd, 2021. 
+
+`reporter` should be the gitlab username of the person reporting the removal. 
 
 `description` should contain a brief description of the feature or functionality being removed.
 
