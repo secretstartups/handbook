@@ -51,6 +51,7 @@ If you have a resource you'd like to include, please open a merge request and co
 
 | Resource | Description |
 | ----- | ----- | 
+| [Women at GitLab Mentorship Program](https://about.gitlab.com/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/) | FY22 Q2-Q3 program opportunity for mentorship at GitLab |
 | [GitLab Internship for Learning](/handbook/people-group/learning-and-development/career-development/#internship-for-learning) | If your manager has coverage, you can spend a percentage of your time working (through an 'internship') with another team |
 | [Growth and Development benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) | This benefit is available for GitLab team members and can be used to cover professional development costs associated with external resources |
 | [CEO Shadow Program](/handbook/ceo/shadow/)| The goal of the CEO Shadow Program is to give current and future directors and senior leaders at GitLab an overview of all aspects of the company |
