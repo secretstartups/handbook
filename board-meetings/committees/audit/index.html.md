@@ -214,7 +214,7 @@ We review the below topics no less frequently than the following schedule:
 1. Once respective DRI's update their slides, review the format, update slides to ensure format is consistent across all the slides.
 1. Set up a call with the Principal Accounting officer on the due date of the deck/ next immediate day to review the deck. Make necessary changes based on the review.
 1. Set up a call for CFO's review along with Principal Accounting Officer. Make necessary changes to the deck based on CFO's review.
-1. Principal Accounting Officer to send the deck to all Audit Committee members (cc DRI's) at least a week before the meeting.
+1. The Sr. EBA to the CFO will upload the final deck to Boardvantage at least a week prior to the meeting. The CFO will notify the Committee members of such via email and copying relevant DRIs.  
 1. Update Audit Committee [meeting notes](https://docs.google.com/document/d/1D6wpUqqx9y_AcMyJr2XmdGsaauvplkLFmgbjUh9ESX0/edit#heading=h.nu90jml2xhx2) with agenda items and DRI’s.
 1. On the meeting day
     - Make note of the follow-up items, add them to the agenda under ask from the Audit Committee section in in the [AC calendar](https://docs.google.com/spreadsheets/d/1C7JOGCtVJYgyjorHNch3oQT8tLtyYL9u4s88arm6d58/edit#gid=1897678424) along with the due date.
