@@ -103,8 +103,7 @@ The labels are (from left to right):
 
 ### Scheduling Professional Services
 
-For scheduling specific customer projects, we are currently scheduling projects in order of when the opportunity is updated to closed/won. If you have a concern about scheduling the project, this should be discussed at the Discovery phase during the [scoping](/handbook/customer-success/professional-services-engineering/scoping) process. If there are lead time or availability questions, ask the Project Coordinator by tagging the group `@ps-scheduling` in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel. 
-You should not commit to dates before receipt of signed SOW, agreements, P.O., Closed/Won opportunity, etc.
+Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. If there are lead time or availability questions, please ask the Project Coordinator by tagging the group @ps-scheduling in the #professional-services Slack Channel.
 Once the opportunity is updated to Close/ Won, here are the next steps:
 
 - The PS Project Coordinator will review the SOW and Order Form and work to set up the consulting project.
