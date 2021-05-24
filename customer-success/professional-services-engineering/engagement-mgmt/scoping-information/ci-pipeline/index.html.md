@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Professional Services Engagement Management"
-description: "Describes the workflow and responsibilities of the GitLab Professional Services Engagement Manager."
+title: "Professional Services EM Scoping - CI/CD Pipeline Migration"
+description: "Describes the process for scoping pipeline migrations from other CI/CD systems to GitLab"
 
 ---
 
@@ -12,6 +12,10 @@ description: "Describes the workflow and responsibilities of the GitLab Professi
 {:toc .hidden-md .hidden-lg}
 
 # CI Migration Details
+
+`:warning: This page is under construction`
+
+
 
 
 

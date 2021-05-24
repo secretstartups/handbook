@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Professional Services Engagement Management"
-description: "Describes the workflow and responsibilities of the GitLab Professional Services Engagement Manager."
+title: "Professional Services EM Opportunity Tracking"
+description: "Describes processes for tracking open PS opportunities."
 
 ---
 
@@ -12,6 +12,8 @@ description: "Describes the workflow and responsibilities of the GitLab Professi
 {:toc .hidden-md .hidden-lg}
 
 # Tracking Opportunities
+
+`:warning: This page is under construction` 
 
 ## Salesforce.com Tracking
 

@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Professional Services Engagement Management"
-description: "Describes the workflow and responsibilities of the GitLab Professional Services Engagement Manager."
+title: "Professional Services EM Scoping Guidelines"
+description: "Describes the process of scoping PS engagements."
 
 ---
 
@@ -11,14 +11,17 @@ description: "Describes the workflow and responsibilities of the GitLab Professi
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+`:warning: This page is under construction` 
+
 # Scoping Information
 
-We use the Engagement Estimate workbook 
+We use the [Engagement Estimate TEMPLATES](https://docs.google.com/spreadsheets/d/1YKMyflzsA-VPEVobB82zC8-n0hlC-uRBtiNB7Fm-kZg/edit?usp=sharing) workbook as a starting point for determining the activities, duration, and price of a Professional Services opportunity.
 
-## Specific Types of Services
+## Scoping Specific Types of Services
 
 See the detailed notes pages for each service type below.
 
-
-
+- [GitLab implementation scoping](customer-success/professional-services-engineering/engagement-mgmt/scoping-information/implementation)
+- [GitLab migration scoping - GitLab, Bitbucket Server, or GitHub (Enterprise or .com) -> GitLab](customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations)
+- [CI pipeline migration scoping](customer-success/professional-services-engineering/engagement-mgmt/scoping-information/ci-pipeline)
 
