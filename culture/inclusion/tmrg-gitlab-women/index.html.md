@@ -40,7 +40,7 @@ Feel free to add a new event using the `Events - Womens TMRG` label and consider
 ## Related Performance Indicators and Goals
 
 * [Women at GitLab](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-at-gitlab)
-* [GitLab Women in Management - 30% Goal](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-in-management)
+* [GitLab Women in Management - 40% Goal](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-in-management)
 * [GitLab Women in Senior Leadership and Executive Roles](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#diversity---women-in-senior-leadership-and-executive-roles)
 
 ## Career Development Resources
