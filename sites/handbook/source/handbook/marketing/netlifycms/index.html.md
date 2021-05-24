@@ -88,7 +88,7 @@ Typeform pages managed through Netlify CMS can be found at [https://about.gitlab
 
 Blog posts can be created and edited using Netlify CMS. Netlify CMS is especially good for starting your blog post, creating the proper markdown file that is structured correctly, and starting a merge request. Blog posts can be created with the traditional merge request workflow or through the Netlify CMS workflow. Be sure to read the [Blog Handbook](https://about.gitlab.com/handbook/marketing/blog/) for all instructions related to writing and creating a blog post.
 
-Blog posts managed through Netlify CMS can be found at [https://about.gitlab.com/blog/](https://about.gitlab.com/blog/). The content is located/stored in the [`/sites/marketing/source/blog/blog-posts`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/blog/blog-posts) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these markdown files.
+Blog posts managed through Netlify CMS can be found at [https://about.gitlab.com/blog/](https://about.gitlab.com/blog/). The content is located/stored in the [`/sites/uncategorized/source/blog/blog-posts`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/blog/blog-posts) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these markdown files.
 
 Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certain category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
 
