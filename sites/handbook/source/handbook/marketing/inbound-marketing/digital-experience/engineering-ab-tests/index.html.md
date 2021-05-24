@@ -54,9 +54,9 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 * [JS: run experiment](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/javascripts/run-experiment.js)
   * This is our in-house javascript created to assist us with running feature-flag based AB tests.
-* [HTML: Experiment structure](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/experiments/structure.html.haml)
+* [HTML: Experiment structure](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/experiments/structure.html.haml)
   * This file is the superstructure that includes the CSS, JS, and optional arguments.
-* [AB test files are stored here](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/marketing/source/experiments)
+* [AB test files are stored here](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/experiments)
 
 ### Tutorials
 

@@ -300,11 +300,11 @@ How to create an analyst report page in 5 not-so-easy steps.
     - This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
 1. Click on the edit tab. It's on the left under the GitLab logo and looks like `</>`
 1. Next to the word “edit”, click on “new file” icon (looks like a page with a plus) then add the path
-    - The path will be `/sites/marketing/source/analysts/includes/` plus the file name for the report you are adding using the `.html.md` file extension. `<analyst>-<report><year>.html.md`
-    - For example: `/sites/marketing/source/analysts/includes/gartner-eapt20.html.md`
+    - The path will be `/sites/uncategorized/source/analysts/includes/` plus the file name for the report you are adding using the `.html.md` file extension. `<analyst>-<report><year>.html.md`
+    - For example: `/sites/uncategorized/source/analysts/includes/gartner-eapt20.html.md`
     - This should create a new empty file for you.
 1. Copy an existing include (be sure to leave in the disclaimer at the bottom)
-    - For example: [https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/analysts/includes/gartner-eapt.html.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/marketing/source/analysts/includes/gartner-eapt.html.md)
+    - For example: [https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/analysts/includes/gartner-eapt.html.md](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/source/analysts/includes/gartner-eapt.html.md)
 1. Update the content
 1. Commit that change to the MR branch
 
@@ -321,9 +321,8 @@ How to create an analyst report page in 5 not-so-easy steps.
 #### AR Part 4: Edit the haml file
 
 1. Open the WebIDE from your MR. This is a tricky step. If you don't’ open the WebIDE from your MR then you’ll be working on a different branch. Changes you make on that branch won’t show up in your MR. Alternatively, you can keep the WebIDE open in a tab and continue to make changes after you add each commit. As long as you commit to the same branch it will update on the same MR.
-2. Type “t” to open up the fuzzy finder and search for the `/sites/marketing/source/includes/forrester-reports.html.haml` file. Open it in the WebIDE
+2. Type “t” to open up the fuzzy finder and search for the `/sites/uncategorized/source/includes/forrester-reports.html.haml` file. Open it in the WebIDE
 3. Copy a “section” and paste it at the top underneath `.forrester-waves-container` This is a tricky step because the indentation needs to be exactly the same as the other sections. When you copy you need to copy all the spaces indenting the line. When you paste, be sure to paste with your current not indented at all. This should give you the same spacing. For example:
-
 ```
   <!–– Gartner ARO 2019 ––>
   .forrester-wave-row
@@ -405,7 +404,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 
 [Categories and stages](/handbook/product/categories/) are defined in the product handbook. Stages are stored in [`data/stages.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/stages.yml) and categories are stored in [`data/categories.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/categories.yml) as the single source of truth for engineering and marketing.
 
-These two files power various parts of the website including the [homepage](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/includes/home/sdlc.html.haml), [product pages](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/product/index.html.haml), and [product categories handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories.erb).
+These two files power various parts of the website including the [homepage](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/includes/home/sdlc.html.haml), [product pages](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/product/index.html.haml), and [product categories handbook](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories.erb).
 
 They are also used by the automated triage operation ["Stage and group labels inference from category labels"](/handbook/engineering/quality/triage-operations/).
 
@@ -796,11 +795,11 @@ If you're interested in getting a pulse on how recently the marketing website ha
 ruby scripts/get-most-recent-commits.rb 
 ```
 
-It doesn't exactly map to URLs on about.GitLab.com, but this should be able to give you a pulse of what gets updated and how frequently. It only checks files in `data/` and `sites/marketing/` for now. For each file tracked in git in both of those folders, it grabs the file name and its most recent commit date (as known to git on your machine - so it will be incorrect if you haven't recently fetched or pulled from master).
+It doesn't exactly map to URLs on about.GitLab.com, but this should be able to give you a pulse of what gets updated and how frequently. It only checks files in `data/` and `sites/uncategorized/` for now. For each file tracked in git in both of those folders, it grabs the file name and its most recent commit date (as known to git on your machine - so it will be incorrect if you haven't recently fetched or pulled from master).
 
 Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for https://about.gitlab.com/topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files. 
 
-The files in `sites/marketing` are a little more complex. Some of them are straightforward, like `sites/marketing/source/get-started/index.html.md` is `https://about.gitlab.com/get-started/`. Others are a little more meta, but still give you good information, like `sites/marketing/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages. 
+The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `https://about.gitlab.com/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages. 
 
 Getting a direct mapping of each URL and its corresponding files is possible, but not practical. The only way we can find that out is by hooking into the [Middleman sitemap](https://www.rubydoc.info/gems/middleman-core/Middleman/Sitemap), which is [only available to us in templates](https://middlemanapp.com/advanced/sitemap/#accessing-the-sitemap-from-code). That means we have to have a Middleman instance running (or run the build process). But getting the most recent commit date requires having Ruby run a [system call](https://www.rubyguides.com/2018/12/ruby-system/) to run `git log -1 --format=%cd --date=short /path/to/file` for each and every file. It takes a long time, and including that in Middleman somewhere would impact the overall pipeline negatively. 
 
