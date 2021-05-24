@@ -115,7 +115,7 @@ _Note: Only 5,000 Accounts can be tracked at at time. To request an account be a
 ### Video Enablement 
 
 - [Gainsight Kickoff and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
-
+- [How a Gainsight Rep Uses Gainsight](https://youtu.be/lnEkbLnxs-8)
 
 **Getting Started with Gainsight** 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3bc8692532e94a37ba693c14e36d1d8a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
