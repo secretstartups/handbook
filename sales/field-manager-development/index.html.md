@@ -22,7 +22,7 @@ All people managers in the GitLab field organization
 Managers will participate in a series of quarterly training & reinforcement exercises throughout FY22. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action.
 - **Q1FY22** (2021-03-22): Program Launch & Recruiting Top Talent (virtual)
 - **Q2FY22** (2021-05-24, 2021-05-26, and 2021-06-02): Field Manager Challenge (virtual)
-- **Q3FY22** (Dates TBD): Field Manager Summit (in-person at Contribute)
+- **Q3FY22** (2021.09.18): Field Manager Summit (in-person at Contribute)
 
 ## Topics
 This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
@@ -49,13 +49,23 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - Please complete Module 1 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-24
 - Building High Performing Teams ([slides](https://docs.google.com/presentation/d/1xEgyPMxNFL7VU5jyGb_-tVykCSNNjpsSh1of6osBq5U/edit?usp=sharing)) (GitLab internal only)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gB5Yfz_MaqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hf8dOLeRvQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Organizational and Team Health
 - Please complete Module 2 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-26
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCxct4CR-To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Giving Feedback and Coaching
 - Please complete Module 3 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0YaXSbLqork" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Management Operating Rhythm
 - Coming later this year
@@ -65,9 +75,10 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - [Josh Zimmerman](/company/team/#Josh_Zimmerman) (Learning & Development Manager)
 - [David Somers](/company/team/#dcsomers) (Sr. Director, Field Enablement)
 - Field Manager Advisors
+    - [Dave Astor](/company/team/#disastor) (Manager, Solutions Architects, US East)
+    - [Robbie Byrne](/company/team/#RobbieB) (Area Sales Manager, EMEA)
+    - [Ed Cepulis](/company/team/#ecepulis) (Sr. Director, Channel Programs and Enablement)
+    - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
     - [Helen Mason](/company/team/#hmason) (Area Sales Manager (SMB), EMEA)
     - [Jacob Potter](/company/team/#jpotter1) (Area Sales Manager, Mid Market First Order)
-    - [Robbie Byrne](/company/team/#RobbieB) (Area Sales Manager, EMEA)
-    - [Dave Astor](/company/team/#disastor) (Manager, Solutions Architects, US East) 
-    - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
 
