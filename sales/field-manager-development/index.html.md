@@ -22,7 +22,7 @@ All people managers in the GitLab field organization
 Managers will participate in a series of quarterly training & reinforcement exercises throughout FY22. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action.
 - **Q1FY22** (2021-03-22): Program Launch & Recruiting Top Talent (virtual)
 - **Q2FY22** (2021-05-24, 2021-05-26, and 2021-06-02): Field Manager Challenge (virtual)
-- **Q3FY22** (2021.09.18): Field Manager Summit (in-person at Contribute)
+- **Q3FY22** (2021-09-18): Field Manager Summit (in-person at Contribute)
 
 ## Topics
 This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
@@ -51,6 +51,8 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gB5Yfz_MaqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hf8dOLeRvQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Organizational and Team Health
@@ -58,12 +60,16 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCxct4CR-To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Giving Feedback and Coaching
 - Please complete Module 3 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YaXSbLqork" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
