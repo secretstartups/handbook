@@ -22,24 +22,24 @@ To improve sales efficiency & predictability as well as excellence in role, the 
 | R7 Reinforcement Module: [Meeting Roles](https://classroom.google.com/c/MTgxMzg1MjQ2NzY2?cjc=7veu3wf) | Ensure each AE/ASM can identify the correct co-selling role and apply in a given sales scenario | 10 min |
 | R7 Certification, Course 2: [Account Ranking](https://classroom.google.com/c/MTY4NzQyNjA0OTIx?cjc=s3kk7jx) | Ensure each AE/ASM can apply the Account Ranking criteria to build pipeline | 20-25 min |
 | R7 Certification, Course 3: [Capturing Key Information](https://classroom.google.com/c/MTgxMzg1MjQ2NzIy?cjc=3fnor2r) and [Logging Call Notes & Updating Next Steps](https://classroom.google.com/c/MTgxMzg1MjQ2NzIy?cjc=3fnor2r) | Ensure each AE/ASM can translate the customers "question behind the question" to capture key information; recall where and how to log call notes; and create actionable next steps | 25 min |
-| R7 Certification, Course 4: Command Plan  | TBD: Scheduled release date: 2020-12-21 | TBD |
-| R7 Certification, Course 5: Keeping Opportunities Up to Date | TBD: Scheduled release date: 2021-03-08 | TBD |
-| R7 Certification, Course 6: Forecasting | TBD: Scheduled release date: 2021-04-08 | TBD |
+| R7 Certification, Course 4: [Command Plan](https://gitlab.edcast.com/pathways/r-course-command-plan) | Ensure each AE/ASM understand the CP architecture and can leverage informed curiosity to create a compelling "why now" and align value drivers with metrics to drive a sale to close | 30 min |
+| R7 Certification, Course 5: [Selling With The Custom Deck](https://gitlab.edcast.com/pathways/r-course-selling-with-the-custom-deck-welcome) | Ensure each AE/ASM can apply the Custom Deck requirements to position GitLab as a differentiated solution | 30 min |
+|  |  |  |
 
 ### Additional Commercial Courses
 
 | Title | Learning Objective | Duration |
 | ----- | ------------------ | -------- |
-| [Selling Services Workshop](https://classroom.google.com/c/MTgxMzg1MjQ2NzM3?cjc=i6kyzzp) | Ensure each AE/ASM can identify and position Professional Service offerings and value  | 90 min |
+| [Selling Services Workshop](https://classroom.google.com/c/MTgxMzg1MjQ2NzM3?cjc=i6kyzzp) | Ensure each AE/ASM can identify and position Professional Service offerings and value | 90 min |
 
 ### Course Assets
 
-| Course Title | Associated Course Asset  |
-| ------------ | ------------------------ |
-| R7 Certification, [Course 1: Effective Meeting Hosting](https://classroom.google.com/c/MTI5NDQzODc5OTgx?cjc=a4rh2jz) | - [Team Asset Folder](https://drive.google.com/drive/folders/1dA72mgExeZ2sFGtbMtN1WbvV51gr374E?usp=sharing) <br> - [Commercial Customer Deck Template](https://docs.google.com/presentation/d/1zUD9Os5ZJbfUykEJoRW2NuegUqU5uRsfcxoX4itwlp8/edit#slide=id.g889353d428_0_0) <br> - [How to custom brand the Commercial Sales Deck](https://docs.google.com/document/d/1ewjz6YshbBS99aI7EYPi3LGZ2MOtS_vS4XcfSFIbD40/edit) <br> - [Video Tutorial: How to custom brand the Commercial Sales Deck](https://drive.google.com/drive/folders/1dA72mgExeZ2sFGtbMtN1WbvV51gr374E) <br> - [Zoom Meeting Checklist](https://docs.google.com/document/d/1gmnYYFfXxMdtLnoEcFJwVffg76SC8FRF9EgTrGSXZuk/edit) <br> - ASMs: [Chorus Feedback Resources](https://drive.google.com/drive/folders/1JYiSFQ9tQ3FFIw7k9-Wjvy_pd2HjkCS3) |
+| Course Title | Associated Course Asset |
+| ------------ | ----------------------- |
+| R7 Certification, [Course 1: Effective Meeting Hosting](https://classroom.google.com/c/MTI5NDQzODc5OTgx?cjc=a4rh2jz) | - [Team Asset Folder](https://drive.google.com/drive/folders/1dA72mgExeZ2sFGtbMtN1WbvV51gr374E?usp=sharing) <br>- [Commercial Customer Deck Template](https://docs.google.com/presentation/d/1zUD9Os5ZJbfUykEJoRW2NuegUqU5uRsfcxoX4itwlp8/edit#slide=id.g889353d428_0_0) <br>- [How to custom brand the Commercial Sales Deck](https://docs.google.com/document/d/1ewjz6YshbBS99aI7EYPi3LGZ2MOtS_vS4XcfSFIbD40/edit) <br>- [Video Tutorial: How to custom brand the Commercial Sales Deck](https://drive.google.com/drive/folders/1dA72mgExeZ2sFGtbMtN1WbvV51gr374E) <br>- [Zoom Meeting Checklist](https://docs.google.com/document/d/1gmnYYFfXxMdtLnoEcFJwVffg76SC8FRF9EgTrGSXZuk/edit) <br>- ASMs: [Chorus Feedback Resources](https://drive.google.com/drive/folders/1JYiSFQ9tQ3FFIw7k9-Wjvy_pd2HjkCS3) |
 | R7 Reinforcement Module: [Meeting Roles](https://classroom.google.com/c/MTgxMzg1MjQ2NzY2?cjc=7veu3wf) | - [Meeting Roles Infographic](https://docs.google.com/document/d/1CoH122bG8EQQlhFMOtFvMkTDrFFYGf6scgPP1eBTCp0/edit) |
 | R7 Certification, Course 2: [Account Ranking](https://classroom.google.com/c/MTY4NzQyNjA0OTIx?cjc=s3kk7jx) | - [Account Ranking Infographic](https://drive.google.com/drive/folders/1e6eU9R2sITDoRGg2zrUh8rGJ7EDk2Exz) |
-| [Selling Services Workshop](https://classroom.google.com/c/MTgxMzg1MjQ2NzM3?cjc=i6kyzzp) | - [Team Asset Folder](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) <br> - [Enablement for CS to Position Professional Services](https://docs.google.com/presentation/d/1NtURhF4TH3mYqhjaDiwDbhq5m5y2GMfOv8BtxOtp2w0/edit#slide=id.g8920d2a269_0_609) <br> - [Professional Services Sales Enablement - Q3FY21](https://docs.google.com/presentation/d/1VGfUC85NO74S5qaaNZ1yQydhZL3Be4ofBTG52xr_LEA/edit#slide=id.g75e3e400c6_6_123)<br>[Internal Positioning Collateral for PS](https://docs.google.com/document/d/1TMZe6yNbvdz9Sfq4pz-i0DHMLnai2Kjqw7HKkqzwpSo/edit#heading=h.jui4rrvyjeoz) <br> - [Nanotronics Deal Spotlight](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) <br> - [EWS Deal Spotlight ](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) |
+| [Selling Services Workshop](https://classroom.google.com/c/MTgxMzg1MjQ2NzM3?cjc=i6kyzzp) | - [Team Asset Folder](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) <br>- [Enablement for CS to Position Professional Services](https://docs.google.com/presentation/d/1NtURhF4TH3mYqhjaDiwDbhq5m5y2GMfOv8BtxOtp2w0/edit#slide=id.g8920d2a269_0_609) <br>- [Professional Services Sales Enablement - Q3FY21](https://docs.google.com/presentation/d/1VGfUC85NO74S5qaaNZ1yQydhZL3Be4ofBTG52xr_LEA/edit#slide=id.g75e3e400c6_6_123)<br>[Internal Positioning Collateral for PS](https://docs.google.com/document/d/1TMZe6yNbvdz9Sfq4pz-i0DHMLnai2Kjqw7HKkqzwpSo/edit#heading=h.jui4rrvyjeoz) <br>- [Nanotronics Deal Spotlight](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) <br>- [EWS Deal Spotlight ](https://drive.google.com/drive/folders/1MMqV7KL2tkNTOzfVp2wZIPyzXEPJ8kZe) |
 
 ### Process for Capturing Customer Requests You've Never Heard Before
 
@@ -64,15 +64,6 @@ With all the uncertainty around Covid-19, we have developed a process to capture
     - Best Practice is to log an activity in ‘activity history’
     - For Call activity types, associate the record with the correct contact(s) list and as needed, include **(ii)** in the record subject to call attention to information inside
 1. Command Plan
-
-**This is what you’re going to learn in this course**
-
-1. Here are all the reasons why ppl say they can’t fill in the Command Plan
-    - I haven’t talked to them yet
-    - They didn’t tell me
-    - I don’t know anything about the account/company
-    - I’m going to learn that on the next call
-1. The above are **not** acceptable reasons not to fill in the required fields listed above.
 
 **How to get each of those required fields**
 
