@@ -46,13 +46,24 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - [Assessing Candidates](https://youtu.be/OZMqIdrnaEg) (10 minutes, GitLab internal only)
 
 ### What is a High Performing Team
-- Please complete the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) by or before 2021-05-24
+- Please complete Module 1 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-24
+- Building High Performing Teams ([slides](https://docs.google.com/presentation/d/1xEgyPMxNFL7VU5jyGb_-tVykCSNNjpsSh1of6osBq5U/edit?usp=sharing)) (GitLab internal only)
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/OM2iujpeKeQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ### Organizational and Team Health
-- Please see pre-work assignment above
+- Please complete Module 2 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-26
 
 ### Giving Feedback and Coaching
-- Please see pre-work assignment above
+- Please complete Module 3 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
 
 ### Management Operating Rhythm
 - Coming later this year
