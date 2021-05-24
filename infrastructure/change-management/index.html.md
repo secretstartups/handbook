@@ -8,7 +8,7 @@ title: "Change Management"
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-### Context and Objectives
+# Purpose
 
 **Change Management** has *traditionally* referred to the processes, procedures, tools and techniques applied in IT environments to carefully manage changes in an operational environment: change tickets and plans, approvals, change review meetings, scheduling, and other *red tape*.
 
@@ -16,7 +16,7 @@ In our context, **Change Management** refers to the guidelines we apply to manag
 
 Our overriding objective is maximize changes that avoid traditional aspects of change management, which is an **iterative process** that will evolve over time. Success is measured by our ability to safely execute changes at the speed required by our business needs.
 
-# Changes
+# Scope
 
 **Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Our [Staging environment](/handbook/engineering/infrastructure/environments/#staging) is crucial to our GitLab.com release process.  Therefore, Staging should be considered within scope for Change Management, as part of GitLab's operational environment. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
 
@@ -29,6 +29,15 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 **Changes** that need to be performed during the resolution of an Incident fall under [Incident Management](/handbook/engineering/infrastructure/incident-management/).
 
 **Operational Environments** are currently defined as `GitLab.com` and `ops.GitLab.net` as well as supporting systems such as Prometheus.
+
+# Roles and Responsibilities
+
+| Role  | Responsibility | 
+|-----------|-----------|
+| Infrastructure | Responsible for implementing and executing this procedures | 
+| Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+# Infrastructure Change Management Procedure
 
 ## Trust
 
@@ -93,7 +102,7 @@ In these situations, we will focus on developing the necessary automation and sa
 
 ### Change Severities
 
-Change severities encapsulate the risk associated with a change in the environment. Said risk entails the potential effects if the change fails and becomes an incident. Change management uses our standarized severity definition, which can be found under out which can be found under [issue workflow documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels).
+Change severities encapsulate the risk associated with a change in the environment. Said risk entails the potential effects if the change fails and becomes an incident. Change management uses our standarized severity definition, which can be found under [issue workflow documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels).
 
 * In order to minimize the number of variables at play, no changes are executed during an active incident.
 * ~S1 and ~S2 changes are always serialized and executed exclusively (i.e., never concurrently).
@@ -379,3 +388,11 @@ Additionally, during an incident investigation, knowing which high-risk features
 - **We have a question that is not answered here?**
 
     Please raise an issue to [Infrastructure team's queue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues) and we will be happy to get back to you as soon as we can.
+
+# Exceptions
+
+Exceptions to this process must be [tracked](https://gitlab.com/gitlab-com/gl-infra/production/-/issues) and approved by Infrastructure.
+
+# References
+* Parent Policy: [Information Security Policy](/handbook/engineering/security/)
+* [Change Management Controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/change-management.html)
