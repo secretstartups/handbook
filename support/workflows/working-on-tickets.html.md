@@ -113,10 +113,35 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    steps align with the action plan that the assignee has described on their
    replies or ticket summary.
 1. Ensure that the subject of a support ticket is both descriptive and accurate. Although the subject is automatically set whenever a customer creates a new ticket you should review and if necessary modify the subject throughout the ticket lifecycle to ensure that it always accurately describes the customer's issue at any given time.  Having a descriptive and accurate subject is pivotal in enabling colleagues in support to quickly identify similar issues and reuse existing information.
-1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
+1. When you send a user an update, the normal action is to set the ticket
+  status to `Pending`, which indicates that you are waiting for a reply
+  from them. Even though at that point there will be no SLA clock running,
+  you might consider setting an expectation with the customer that you'll
+  check back with them after an appropriate amount of time to ensure
+  continued progress. Should you choose to do that, please consider using
+  our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
+  and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+  apps to help you to meet that commitment.
 1. Add research notes to your tickets, as it's important that we clearly document all of our work performed throughout a ticket's lifecycle. Not only is this a good way for you to track your own progress, particularly for lengthy and challenging tickets, but it also provides your colleagues with a clear understanding of what has been tried thus far, and enables a smoother transition if a ticket needs to be reassigned.
-1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
-1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period). Make sure you check with the user that they are comfortable with any timescales you are working towards. If they are not, ensure you understand the impact to their business so that we can react accordingly.
+1. Occasionally you will send a customer a reply letting them know that you're going
+   to follow up with further information.
+   1. In this case you should set the ticket status to `Open` or `On-hold`. Either
+      way ZenDesk still removes the SLA and assigns the ticket to you (if it's not
+      already assigned to someone else).
+   1. In your reply you should also inform the customer when to expect your follow-up
+      message, and invite them to inform you if your chosen schedule does not meet
+      their needs. If it does not, please take steps to ensure you understand the
+      impact to their business so that you can adjust your plans accordingly.
+   1. To help yourself with meeting any schedule expectation you've set, consider
+      using our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
+      and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+      apps.
+1. For any ticket in which the user is waiting on a response from Support, **always
+   provide a timely update** on its status and on the work that has been done. You
+   are encouraged to set your own definition of "timely" by setting the customer's
+   expectations and using the Due Date and Reminders apps, as described in the
+   preceding tip. Otherwise, please aim to provide updates daily, and definitely
+   no less than every four days, which is the on-hold period length.
 1. After 1 on-hold period or a week, generally, an issue should be created in the appropriate tracker especially if there is discussion with the development team.
 1. If you are the assignee of a ticket, and the customer has confirmed that the solution you provided has resolved the issue, add a **closure summary** to the ticket prior to changing the ticket status to solved.  
 The closure summary should provide a brief outline of the confirmed solution. It should be written with the goals of giving clarity to the customer with regard to the solution as well as providing your colleagues with a quick and easy way to see what solved the customer's problem. A good closure summary is helpful when searching for solutions to future tickets. To make it easier for yourself to create a summary, please consider using the [General::Closing Summary](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Closing%20Summary.yaml) macro, which adds a template as an internal note populated with some information. You will then need only to fill in the remaining items with relevant information before copying the completed message to a public comment for the customer.  
