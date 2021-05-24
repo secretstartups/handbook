@@ -1,0 +1,74 @@
+---
+layout: markdown_page
+title: "Improve Ops Quality"
+description: "Work on critical test gaps to mitigate future incidents and empower developers to efficiently work on test coverage"
+canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
+---
+
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Attributes
+
+| Property        | Value           |
+|-----------------|-----------------|
+| Date Created    | March 3rd, 2021 |
+| Target End Date | June 2nd, 2021  |
+| Slack           | [#wg_improve-ops-quality](https://join.slack.com/share/zt-mvpz7iqd-JHTWucxR3YiCayWM~A25Vg) (only accessible from within the company) |
+| Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/11iNJ9-KslGfDr6NtVeimLNSa1kWK_2k4uc2wxS4Baw4/edit) (only accessible from within the company) |
+| Task Board      | [Issue board](https://gitlab.com/groups/gitlab-org/-/boards/2448760) |
+
+## Business Goal
+
+Mitigate future incidents by empowering developers to efficiently work on test coverage; identifying and addressing missing test infrastructure and testing categories; and filling test gaps in high-risk product categories.
+
+### Entry Criteria
+
+1. Identify [high-risk product groups](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/76328).
+
+### Exit Criteria (52% completed)
+
+1. Analyze all high-severity incidents in the past 3 months and list improvement themes needed (e.g. mixed deployments, new staging, load testing, better tests outside unit tests). `=> 100%`
+  * [Review package incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/323340)
+  * [CI/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
+  * [Runner executable E2E environment](https://gitlab.com/gitlab-org/ci-cd/tests/runner-incept)
+1. Add runner executable E2E test environment `=> 100%`
+1. Add test coverage for high risk runner functionality `=> 50%`
+1. [Set up load testing environment for CI](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/832) `=> 20%`
+1. Add new validation points before deployment (new gates) for Runner and Package groups. `=> 0%`
+1. Update our process, documentation, on-boarding, and culture going forward. `=> 43%`
+  * Create risk map for [CI](https://about.gitlab.com/handbook/engineering/development/ops/verify/continuous-integration/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 80%`
+  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/879) `=> 50%`
+  * Document end-to-end testing training tools for Engineers
+
+### Post working group planned improvements
+Items identified to continue work on past the scope of the Working Group but necessary for ongoing improvement of Ops quality.
+
+1. [Runner staging environment](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27684)
+1. [Mixed deployment test environment](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/888)
+1. [Package and Container Registry performance test environments](https://gitlab.com/gitlab-org/gitlab/-/issues/328209)
+1. Add a performance test for CI
+
+### Roles and Responsibilities
+
+| Working Group Role    | Person                | Title                          |
+|-----------------------|-----------------------|--------------------------------|
+| Executive Sponsor     | Mek Stittri           | Director of Quality            |
+| Facilitator           | Joanna Shih           | Quality Engineering Manager, Ops |
+| Functional Lead       | Sofia Vistas          | Software Engineer in Test, Package:Package |
+| Functional Lead       | Tiffany Rea           | Software Engineer in Test, Verify:Continuous Integration |
+| Functional Lead       | Zeff Morgan           | Software Engineer in Test, Verify:Runner |
+| Stakeholder           | Christopher Lefelhocz | VP of Development              |
+| Stakeholder           | Brent Newton          | Director of Infrastructure, Reliability |
+| Member                | Kenny Johnston        | Sr. Director of Product Management, Ops |
+| Member                | Sam Goldstein         | Director of Engineering, Ops   |
+| Member                | Jackie Porter         | Group Manager, Product, Verify   |
+| Member                | Dan Croft             | Sr. Manager, Engineering, Continuous Delivery |
+| Member                | Darby Frey            | Sr. Manager, Engineering, Verify |
+| Member                | Cheryl Li             | Backend Engineering Manager, Verify:Continuous Integration |
+| Member                | Elliot Rushton        | Backend Engineering Manager, Verify:Runner |
+| Member                | Tanya Pazitny         | Quality Engineering Manager, Secure & Enablement |
+| Member                | Nailia Iskhakova      | Software Engineer in Test, Enablement:Distribution |
