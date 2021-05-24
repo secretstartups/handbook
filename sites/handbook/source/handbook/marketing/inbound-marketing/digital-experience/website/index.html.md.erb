@@ -563,7 +563,7 @@ All features and capabilities are listed in a single yaml file
 ([`features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/features.yml)) under the `features` section.
 It is the single source of truth for multiple pages across the website including:
 
-- [Product pages]/(stages-devops-lifecycle/) e.g. [continuous integration](/stages-devops-lifecycle/continuous-integration/)
+- [Product pages](/stages-devops-lifecycle/) e.g. [continuous integration](/stages-devops-lifecycle/continuous-integration/)
 - [Pricing](/pricing/)
 - [Compare](/devops-tools/)
 - [ROI](/calculator/)
@@ -586,7 +586,8 @@ Just put the filename of the screenshot. Feature screenshots must go in the foll
     - <blank>:<a name="feature_status_details"></a> Means that the feature for this particular toolname have a sub-section with details:
         - `valid`: Same as `true` or `false` or `paritally` above
         - `details`: A short statement about the details that need to be shared. For example: "supports 11 languages", or "only supported through 3rd party plug-ins"
-- **pricing_page**: `true` or `false`: this option was created when the pricing page used to be called the "products" page. Setting true cause the feature to show up on the [pricing page](/pricing/#self-managed). Only a limited number of the most important capabilities should be shown on the main pricing page to keep it easily consumable. Folks can click on "see all features" to see the full list of features ([self-managed comparison](/pricing/self-managed/feature-comparison/), [GitLab.com comparison](/pricing/gitlab-com/feature-comparison/)).
+- **pricing_page**: `true` or `false`: This currently has no impact on the primary [pricing page](/pricing/), which is driven off themes. This does still apply to the ([self-managed comparison](/pricing/self-managed/feature-comparison/) and [GitLab.com comparison](/pricing/gitlab-com/feature-comparison/)) pages.
+- **pricing_theme**: Use this option to mark this feature as part of a [pricing theme](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/pricing_themes.yml). The value is a string, which should match the desired string. Features that align to Themes are shown on our [pricing page](/pricing/).
 
 For example:
 
