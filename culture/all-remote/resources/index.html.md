@@ -328,7 +328,7 @@ Here's [a list](/handbook/tools-and-tips/) of the tools we use internally at Git
 
 ##### Meetings
 
-- [Meetter](https://www.meetter.app/)
+- [Remeet](https://www.remeet.com/)
 - [Friday](https://www.friday.app/)
 
 ##### Events, meetups, gatherings
