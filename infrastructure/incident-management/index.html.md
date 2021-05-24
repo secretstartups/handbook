@@ -418,7 +418,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | ----- | ------- |
 | `~self-managed` | Indicates that an incident is **exclusively** an incident for self-managed GitLab. [Example self-managed incident issue](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2651) |
 | `~incident-type::automated traffic` | The incident occurred due to activity from security scanners, crawlers, or other automated traffic |
-| `~incident-type::deployment related` | Indicates that the incident was a deployment failure or that the incident occurred during a deployment. Failures may be caused by failing tests, application bugs, or pipeline problems. Incidents during deploys may be the result of disconnects or other deploy-related errors. |
+| `~incident-type::deployment related` | Indicates that the incident is a failing deployment or that the incident was caused by a deployment. Failures may be caused by failing tests, application bugs, or pipeline problems. Incidents during deploys may be the result of disconnects or other deploy-related errors. |
 | `~group::*` | Any development group(s) related to this incident |
 | `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](#corrective-actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
 
