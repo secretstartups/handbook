@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Verify:Continuous Integration Group"
-description: "The GitLab team page for the Continuous Integration Group."
+title: "Verify:Pipeline Execution Group"
+description: "The GitLab team page for the Pipeline Execution Group."
 ---
 
 ## On this page
@@ -13,12 +13,16 @@ description: "The GitLab team page for the Continuous Integration Group."
 ## Vision
 
 For an understanding of what this team is going to be working on take a look at [the product
-vision](/direction/verify/) and the [Category direction of Continuous Integration](/direction/verify/continuous_integration/)
+vision](/direction/verify/) and is responsible for delivering on the following directions: 
+
+- [Continuous Integration](/direction/verify/continuous_integration/)
+- [Continuous Integration Scaling](/direction/verify/continuous_integration_scaling/)
+- [Merge Trains](/direction/verify/merge_trains/)
 
 ## Mission
 
-The Verify:Continuous Integration Group is focused on all the functionality with respect to
-Continuous Integration. A key focus for the CI group is delivering features that achieve the outcome we track in our performance indicator.
+The Verify:Pipeline Exection Group is focused on supporting the functionality with respect to
+Continuous Integration [use case](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/). A key focus for the PE group is delivering features that achieve the outcome we track in our performance indicator.
 
 This team maps to [Verify](/handbook/product/categories/#verify-stage) devops stage.
 
@@ -33,7 +37,7 @@ This team maps to [Verify](/handbook/product/categories/#verify-stage) devops st
   to operations performed by and for Runners.
 - Job artifacts: storage and management of artifacts is the gateway for many CI/CD features.
 
-Not included in CI group's domain:
+Not included in PE group's domain:
 
 - Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
 - Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
@@ -42,19 +46,19 @@ Not included in CI group's domain:
 
 ## Team Members
 
-The following people are permanent members of the Verify:Continuous Integration group:
+The following people are permanent members of the Verify:Pipeline Execution group:
 
 ### Backend
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', role_regexp: /Continuous Integration/) %>
+<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Pipeline Execution & Verify:Pipeline Authoring', role_regexp: /Pipeline Execution/) %>
 
 ### Frontend
-<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Continuous Integration/) %>
+<%= direct_team(manager_role: 'Frontend Engineering Manager, Verify', role_regexp: /Pipeline Execution/) %>
 
 ## Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Continuous Integration/, direct_manager_role: 'Backend Engineering Manager, Verify:Continuous Integration & Verify:Pipeline Authoring', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Execution/, direct_manager_role: 'Backend Engineering Manager, Verify:Pipeline Execution & Verify:Pipeline Authoring', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
 
 ## Technologies
 
@@ -62,7 +66,7 @@ The following members of other functional teams are our stable counterparts:
 
 ## Useful Links
 
-<%= partial("handbook/engineering/development/ops/verify/includes/useful_links.erb", locals: { group_label: 'group::continuous_integration', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous+integration&scope=all', slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX' }) %>
+<%= partial("handbook/engineering/development/ops/verify/includes/useful_links.erb", locals: { group_label: 'group::pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX' }) %>
 
 ## How We Work
 
@@ -80,7 +84,7 @@ The following members of other functional teams are our stable counterparts:
 
 ### Workflow
 
-We use the [Continuous Integration Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/1372896?milestone_title=%23started) to track what we work on in the current milestone.
+We use the [Pipeline Execution Workflow issue board](https://gitlab.com/groups/gitlab-org/-/boards/1372896?milestone_title=%23started) to track what we work on in the current milestone.
 
 Development moves through workflow states in the following order:
 
@@ -107,7 +111,7 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 
 ### What is priority to on work for this milestone?
 
-In the Continuous Integration Group, we use a series of labels to indicate the highest priority issues in the milestone: `VerifyP1` + `group:continuous integration`. Once all of those issues have been picked up and are in `workflow:in dev` or beyond we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1`s in the following milestones. These future product priorities will typically be `ready for development` and have designs or be weighed with proposals for implementation. Beyond the product `VerifyPX` priorities the `ready for development column will be stack ranked daily, such that each teammate can pull from the top of the column and know they are picking work that will be meaningful. 
+In the Pipeline Execution Group, we use a series of labels to indicate the highest priority issues in the milestone: `VerifyP1` + `group:pipeline execution`. Once all of those issues have been picked up and are in `workflow:in dev` or beyond we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1`s in the following milestones. These future product priorities will typically be `ready for development` and have designs or be weighed with proposals for implementation. Beyond the product `VerifyPX` priorities the `ready for development column will be stack ranked daily, such that each teammate can pull from the top of the column and know they are picking work that will be meaningful. 
 
 When teammates select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely ship in. This is also a good time to re-evaluate the weight in case the teammate picking the issue was not the teammate who originally weighed the issue. The milestone assigned, does not have to be the same milestone that you are currently starting work in. Aspriationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible. So, if you see a faster path to doing that when you get an issue feel free to raise a comment and change the proposal to deliver more value. 
 
@@ -188,7 +192,7 @@ EMs are responsible for manually updating the Health Status of [any inactive iss
 
 #### Category Labels
 
-The Continuous Integration group supports the product marketing categories described below:
+The Pipeline Execution group supports the product marketing categories described below:
 
 | Label                 | |  | | |
 | ----------------------| -------| ----|------------| ---|
@@ -277,7 +281,7 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 ### Risk Mapping
 
-To better understand the risk environment and each risk's causes and consequences, the Continuous Integration team uses the [Risk Map](https://about.gitlab.com/handbook/engineering/development/ops/verify/continuous-integration/risk-map) as our risk management tool to prioritise mitigation strategies and increase Quality.
+To better understand the risk environment and each risk's causes and consequences, the Pipeline Execution team uses the [Risk Map](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map) as our risk management tool to prioritise mitigation strategies and increase Quality.
 
 ### Retrospectives
 
@@ -285,7 +289,7 @@ To better understand the risk environment and each risk's causes and consequence
 
 ### Team Communication
 
-<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group::continuous integration', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous+integration&scope=all', gitlab_subgroup: 'ci-group' }) %>
+<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group:pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', gitlab_subgroup: 'ci-group' }) %>
 
 ## Developer Onboarding
 
