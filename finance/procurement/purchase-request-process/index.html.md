@@ -30,7 +30,7 @@ There are **3 main conditions** that will determine the method of creating a Pur
 1. The dollar amount.
 
 Depending on the conditions above, a Purchase Request can be created by:
-   - Opening a Vendor Contract Request issue to begin the process.
+   - Submiting a Vendor Contract Request issue using GitLab template to begin the process.
    - Creating a Requisition in Coupa.
       - You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/).
 - Check the _[How do I open a Purchase Request?](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request-issue)_ section to understand which method applies to your request. 
@@ -41,7 +41,7 @@ Depending on the conditions above, a Purchase Request can be created by:
 - **Before sharing details and/or confidential information regarding our business needs, please obtain a [Mutual Non-Disclosure Agreement](https://drive.google.com/a/gitlab.com/file/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/view?usp=sharing) from the potential vendor(s).**
 - **Create a purchase request BEFORE you agree to pricing and terms with a vendor.** 
 - If you are running an RFP, open a purchase request before the RFP is closed.
-- Once you obtain a quote from a vendor, inform your vendor it will need to be reviewed and approved through the GitLab purchasing process.
+- Once you obtain a quote from a vendor, inform your vendor that quote will need to be reviewed and approved through the GitLab purchasing process.
 - If you would like procurement to help you obtain a quote, please tag us in the request (Procurement issue or comment section on the Requisition in Coupa) asking for support obtaining a quote.
 
 | New Software | Software Renewal | Field Mktg & Events | Consultants/Professional Svcs |
@@ -49,15 +49,14 @@ Depending on the conditions above, a Purchase Request can be created by:
 | Once initial quote is received, or sooner | 60-90 days before renewal date | Once contract is received | Once initial quote is received |
 
 - If ever in doubt, create a purchase request sooner rather than later. There is no downside to opening a request early. If opened too late however, your project could be delayed and GitLab could be put at risk in multiple areas.
-- If you don't have a contract yet that's OK and you can still create a purchase request. If opening a Procurement issue, title the issue as "WIP" and note the status in the comments field. If requesting in Coupa add current status in the comments section of the requisition.
+- If you don't have a contract yet that's OK and you can still create a purchase request. If opening a Procurement issue, title the issue as "WIP" and note the status in the comments field. If creating request in Coupa add current status in the comments section of the requisition.
 - If you're uncertain, ask us in the #procurement slack channel!!
 
 ## Software Renewal Process
 Procurement Team is monitoring ContractWorks for upcoming contract renewals.
-1. Procurement Team will contact Business Owner 60-90 days before renewal date to confirm vendor contract renewal
-2. Once BO confirms renewal Procurement Team will create WIP: Procurement Issue (and Coupa req?)
-3. If new contract was not already provided by the supplier, Procurement Team will help requestor to obtain it:
-4. Procurement Team will schedule a discussion call with requestor with following [Agenda](https://docs.google.com/document/d/1Qc8CHbE7TIWM7UJ0sI78rN865t_pKjrxIgbE2Ghpdh8/edit?usp=sharing) to understand the need. 
+1. Procurement Team will create a GitLab issue 60-90 days before renewal date and notify a BO about upcoming renewal
+2. Procurement Team will schedule a call with BO with following [Agenda](https://docs.google.com/document/d/1Qc8CHbE7TIWM7UJ0sI78rN865t_pKjrxIgbE2Ghpdh8/edit?usp=sharing) to identify a Business Needs and start a negotiation process with a Vendor
+3. If new contract was not already provided by the supplier, Procurement Team will help requestor to obtain it.
    <br>
 
 If you have a contract that is 60-90 days from renewal date and you have not heard from Procurement yet, please create a [Purchase Request](/handbook/finance/procurement/vendor-contract-saas/) to begin the process in the event the contract is not available in ContractWorks.
@@ -88,23 +87,19 @@ In these instances, the vendor can invoice GitLab in Tipalti, and AP will route 
    * All contracts requiring an RFP will be negotiated. The RFP process should not be closed until procurement is engaged.
 
 ## What is the process for negotiating contracts?
-**For Software <$75K:**
-   * Procurement will assign to our third-party partner, Vendr, to negotiate the transaction. *Procurement reserves the right to engage Vendr at a higher or lower threshold based on current bandwidth.*
-   * If it is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from Contract Works and post to issue (or comment in Coupa?). 
+**For Software >$25K:**
+   
+   * If it is a **renewal/existing vendor**, Procurement Ops Analyst will pull previous contract from Contract Works and post it in an issue/request. 
       * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote, if available.
-      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from requestor.
-      * If requestor does not have the contract, Vendr will request from vendor during the negotiation process.
-   * Ops Analyst will schedule a call with negotiator (Vendr or Sr. Mgr, Procurement), requestor, and finance business partner (as optional).
-   * Procurement Ops Analyst add “Procurement::Vendr” label (what if it's in Coupa?)
+      * If contract is unavailable in Contract Works, Procurement Ops Analyst will request contract from requestor.
+      * If requestor does not have the contract, it will be requested during the negotiation process from a Vendor.
+   * Ops Analyst will schedule an internal call with requestor and finance business partner (as optional) to understand business needs and identify next steps.
 
-**For Software >$75K:**
-   * Procurement will engage directly. 
-   * If this is a renewal/existing vendor, Procurement Ops Analyst will pull previous contract from Contract Works and post to issue (or comment in Coupa?). 
-      * If contract is unavailable in Contract Works, Procurement Ops Analyst to request contract from requestor.
-      * If requestor does not have the contract, Sr. Mgr Procurement will request from vendor during the negotiation process.
-      * Procurement Ops Analyst will note any discrepancy in previous order amount, vs. new quote if available.
-      * Procurement Ops Analyst schedule call with Sr. Mgr Procurement, requestor and finance partner (optional) to review need.
-   * Procurement Ops Analyst add “Procurement::In Negotiation" label (what if it's in Coupa?)
+**For Software >$25K:**
+
+   * If it is a **new vendor**, Procurement will evaluate a new software and a price, and will take an action on negotiation, if needed, by:
+      * Scheduling a call with a requestor to understand a business needs.
+      * Contacting a vendor.
 
 **For Non-Software:**
    * If under $100K, the DRI is responsible for requesting and negotiating the best price for GitLab, unless there is a business reason to engage procurement sooner.
@@ -120,7 +115,7 @@ In these instances, the vendor can invoice GitLab in Tipalti, and AP will route 
 ## What is the process to RFP and negotiate large hosted event contracts greater than $250K
    * RFP created by DRI based on guidance from department lead, and project goals. See [RFP template](https://docs.google.com/document/d/1gTcGBdpfeo9RQWWA8uZ37JQOkAIrcyoYO76byCMOsvM/edit).
 
-   * Finalized RFP is shared with Procurement lead via issue (plus slack notification) (what if it's in Coupa?), finance departmental lead and DRI’s department head to verify we all agree on scope and timelines. Everyone has 1 business week to respond with any changes or requests before RFP is sent out to vendors for quotes and availability. This process will follow the rules based on  ...https://about.gitlab.com/handbook/finance/procurement/ (do we wanna add the correct link here?)
+   * Finalized RFP is shared with Procurement lead via issue (plus slack notification), finance departmental lead and DRI’s department head to verify we all agree on scope and timelines. Everyone has 1 business week to respond with any changes or requests before RFP is sent out to vendors for quotes and availability. This process will follow the rules based on  ...https://about.gitlab.com/handbook/finance/procurement/ (do we wanna add the correct link here?)
 
    * If there are any substantial changes or objections the discussion process will be extended another business week to resolve. 
 
