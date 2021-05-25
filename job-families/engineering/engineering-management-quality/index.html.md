@@ -8,7 +8,6 @@ description: "Engineering Managers in the Quality department are motivated and e
 
 At GitLab Quality is every Engineer's responsibility and the output of the Quality department is instrumental to GitLab’s success.
 
-
 Engineering Managers in the Quality department are motivated and experienced leaders who grow our test automation efforts across the entire GitLab ecosystem.
 They demonstrate a passion for high quality software, strong Engineering principles and methodical problem solving skills.
 
@@ -110,11 +109,11 @@ industry standard libraries (test tooling, orchestration, performance, and etc) 
 
 ## VP of Quality
 
-The VP of Quality Engineering role extends the [Director, Quality Engineering](#director-quality-engineering) role.
+The VP of Quality role extends the [Director, Quality Engineering](#director-quality-engineering) role.
 
 ### Job Grade 
 
-The Director, Quality Engineering is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP of Quality is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
