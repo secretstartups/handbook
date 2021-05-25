@@ -105,7 +105,7 @@ When going out of office, please be sure to [clearly communicate](https://about.
 
 ### Potential list of places to check
 
-The following lists are links to Sentry and other tools where we proactively triage exception reports. 
+The following lists are links to Sentry and other tools where we proactively triage exception reports.
 
 **CustomersDot:**
 
@@ -117,6 +117,19 @@ The following lists are links to Sentry and other tools where we proactively tri
 1. Billing related errors - [Sentry link](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+billing) - again, could be further narrowed down to the various `BillingsController`? (`Groups::`, `Projects::`)
 1. Utilization feature category logs over the last 7 days - [Rails Kibana link](https://log.gprd.gitlab.net/goto/c97cd8d278b9cae18c8588c85a82a2d6) , [Sidekiq Kibana link](https://log.gprd.gitlab.net/goto/7fe39288bc23a368ddbec6ed369c3ab2)
 1. Billable Member API endpoints - [Grafana dashboard link](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1)
+
+### Creating an issue direct from Sentry
+
+There's a way in sentry to create an issue for any error you find.
+
+e.g. https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/2505559/?query=is%3Aunresolved%20UpdateGitlabPlanInfoWorker
+
+See links in the right sidebar:
+
+![](./sentry_issue_creator.png)
+
+Although unhelpfully labelled, the first link is for creating an issue _in the security repo_, the **second should be for the project** (CustomersDot/GitLab) accordingly.
+
 ## Performance Indicators
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Utilization" } %>
