@@ -51,7 +51,7 @@ Functions that have these meetings are:
 *  Finance (Brian Robins - function DRI) scheduled monthly
 *  Infrastructure (Steve Loyd - function DRI) scheduled monthly
 *  Legal (Robin Schulman - function DRI) scheduled monthly
-*  Marketing (Todd Barr - function DRI) scheduled monthly
+*  Marketing (Craig Mestel - function DRI) scheduled monthly
 *  People Group (Wendy Barnes - function DRI) scheduled monthly
 *  Product (Scott Williamson - function DRI) scheduled monthly
 *  Sales (Michael McBride - function DRI) scheduled monthly
