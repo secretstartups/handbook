@@ -61,9 +61,9 @@ When a request is received through Zendesk as a ticket, do the following:
 
 1. For **account deletions**, apply the [**Support::SaaS::Account Deletion Instructions - GitLab.com**](https://gitlab.zendesk.com/agent/admin/macros/360027176693) macro, and mark the ticket as solved.
 
-1. For **data access requests**, apply the [General::Personal Data Access Request Instructions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043149613) macro, and mark the ticket as solved.
+1. For **data access requests**, apply the [**General::Personal Data Access Request Instructions**](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360043149613) macro, and mark the ticket as solved.
 
-This will direct the user to the [Personal Data Request form](https://support.gitlab.io/account-deletion/), in order to have their request processed. The request will then be serviced when received in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk). 
+This will direct the user to the [Personal Data Request form](https://support.gitlab.io/account-deletion/), in order to have their request processed. The request will then be serviced when received in the [Personal Account Requests Service Desk](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk).
 
 The only requests we need to take action on are:
 
