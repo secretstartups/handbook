@@ -1128,9 +1128,15 @@ Note: There is a current transition to move towards the [Territory Success Plann
 
 ## Dashboard Review Videos
 
+### [Marketing Metrics](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cT_IsyWrus" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [SDR Metrics](https://app.periscopedata.com/app/gitlab/641469/SDR-Metrics)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ygeZvKvU9uc1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Useful things to know when it comes to Sisense vs. SFDC data
 Given the way that our systems are connected and synched, you may see a discrepancy in the data within Sisense vs. Sales Force.com. A few things to note: 
