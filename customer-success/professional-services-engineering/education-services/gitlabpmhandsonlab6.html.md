@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Project Management Hands On Guide- Lab 6
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 6- CREATE A WIKI PAGE
 1. Navigate to your previously created project.  
 2. Once you are in your project, in the left hand pane, locate the **Wiki** section and click it.  
