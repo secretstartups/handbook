@@ -6,12 +6,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 # GitLab Project Management Hands On Guide
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 
 ## GitLab Project Management Labs
 * [Lab 1- Review an Example Issue Section](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabpmhandsonlab1.html)
@@ -25,9 +19,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 ## Quick links
 
 Here are some quick links that may be useful when reviewing this Hands On Guide.
-
-* [GitLab Demo Cloud](https://gitlabdemo.com/login)
-- After you redeem your invitation code, select the correct instance for your class type (instructor-led or self-paced)
 
 * [GitLab Project Management Course Description](https://about.gitlab.com/services/education/pm/)
 * [GitLab Project Management Specialist Certifcation Details](https://about.gitlab.com/services/education/gitlab-project-management-specialist/)
