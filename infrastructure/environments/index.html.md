@@ -167,7 +167,3 @@ Reference: https://ops.gitlab.net/gitlab-com/gitlab-com-infrastructure/-/tree/ma
 | Self-Managed | various | Self hosted versions of CE & EE | User specific | User specific | User specific |
 
 These are environments that are run on-premises by the end-user. We have no influence, access or control of these environments.
-
-## Nodes
-
-If you work at GitLab, also see the [list of nodes managed by Chef](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/tree/master/nodes) to get an idea.

@@ -156,7 +156,7 @@ All servers in the production environment managed and maintained by the GitLab i
 
 ### Summary of Patching Strategy
 
-All production servers managed by chef have a base role that configures each server to install and use [`unattended-upgrades`](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/blob/8c522363bde0248f6d66adae0d1b6c233d31d261/roles/gprd-base.json#L31-42) for automatically installing important security packages from the configured apt sources.
+All production servers managed by chef have a base role that configures each server to install and use [`unattended-upgrades`](https://gitlab.com/gitlab-com/gl-infra/chef-repo/blob/8c522363bde0248f6d66adae0d1b6c233d31d261/roles/gprd-base.json#L31-42) for automatically installing important security packages from the configured apt sources.
 `Unattended-upgrades` check for updates everyday between 6 and 7 am UTC. The time is randomized to avoid hitting the mirrors at the same time. All output is logged
 to `/var/log/unattended-upgrades/*.log`.
 

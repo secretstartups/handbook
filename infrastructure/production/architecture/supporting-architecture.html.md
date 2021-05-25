@@ -59,8 +59,8 @@ The instance runs on a single VM, and is using CloudSql as a database backend, a
 [Source](https://drive.google.com/open?id=1QFRpog0jmZyci1UlB291xzwfX_ToMcEm), GitLab internal use only
 
 [gitlab-server]: https://gitlab.com/gitlab-cookbooks/gitlab-server/-/blob/adb75f4574cace07cf75c5c591d30c2107dce685/attributes/default.rb#L105-112
-[chef-repo dev]: https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/381c4de3db52c202de3f5abd6ca02a14c75e5106/roles/dev-gitlab-org.json#L317-319
-[dev backup]: https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/7b995cb11444e37bbafe362195d9ce273ec9b233/roles/dev-gitlab-org.json#L175-182
+[chef-repo dev]: https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/381c4de3db52c202de3f5abd6ca02a14c75e5106/roles/dev-gitlab-org.json#L317-319
+[dev backup]: https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/7b995cb11444e37bbafe362195d9ce273ec9b233/roles/dev-gitlab-org.json#L175-182
 [nightly build]: https://packages.gitlab.com/gitlab/nightly-builds
-[chef-repo ops]: https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/381c4de3db52c202de3f5abd6ca02a14c75e5106/roles/ops-infra-gitlab.json#L276-278
+[chef-repo ops]: https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/381c4de3db52c202de3f5abd6ca02a14c75e5106/roles/ops-infra-gitlab.json#L276-278
 [ee repo]: https://packages.gitlab.com/gitlab/gitlab-ee

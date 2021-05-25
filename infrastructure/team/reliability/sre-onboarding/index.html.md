@@ -88,7 +88,7 @@ repositories are the cookbooks used for GitLab.com. Runlists for the fleets
 are configured in roles. There are repository mirrors for these cookbooks on
 [ops.GitLab.com](https://ops.gitlab.net/gitlab-cookbooks).
 
-1. [chef](https://ops.gitlab.net/gitlab-cookbooks/chef-repo): This
+1. [chef](https://gitlab.com/gitlab-com/gl-infra/chef-repo): This
 repository contains all role and node attributes for GitLab.com infrastructure.
 It also has the environment configurations for production, staging and ops
 for cookbook version pinning.
