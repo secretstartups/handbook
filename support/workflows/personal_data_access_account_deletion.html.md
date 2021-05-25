@@ -24,9 +24,20 @@ Use the appropriate workflow on this page when a user requests one of the follow
 
 Account deletion and data access requests go through a few stages before they can be closed, and it can be difficult to keep track of what stage in the process each request is in at any given time. Consider creating an issue board within the account deletion project and use the `Awaiting::Challenge Answers`, `Awaiting::Deletion`, and `meta-issue` labels to track the progress of each request. See [this board](https://gitlab.com/gitlab-com/gdpr-request/-/boards/2316580?assignee_username=tristan&) for an example.
 
-**NOTE:** The user must now confirm their intent to delete for any account deletion request they submit, otherwise they will not be allowed to send in their request. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
+Users requesting deletion are required to confirm their intent to delete at the time of submission. After submission, the form entries are automatically checked and validated (such as the username, email address, and if the account is part of a paid namespace).
 
 An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project *will be created* for invalid requests, however all invalid requests will have `Invalid request received` in the title of the issue, and are scheduled to automatically close. No action is required for these issues.
+
+The overall flow of this process will look like the following:
+
+```mermaid:
+graph TD
+
+A[User submits request]-->B[Processor validates username/email]
+B-->C[Checks don't pass]
+C-->D[Request is denied and closed]
+B-->E[New issue is opened]
+```
 
 ## Example Requests
 
