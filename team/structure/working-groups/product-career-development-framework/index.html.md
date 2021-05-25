@@ -40,10 +40,11 @@ description: "Learn more about the Product Career Development Framework Working 
 
 ### Exit Criteria
 
-1. Incorporation of research of Product Manager Skill that are industry standards 
-1. Incorporation of research of internal expectations and clear rejection non-accepted internal expectations 
-1. Quantative measures for progress included in the CDF 
-1. Training for how to use the CDF for all managers 
+1. Research and incorporation of industry standards into Product Manager [Skills](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-for-individual-contributors) and [Requirements](/job-families/product/product-manager/#base-requirements-across-all-levels)
+1. Research and incorporation of internal expectations into Product Management [Responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/)
+1. Clear quantative measures for progress [included in the CDF](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-topics-for-product-managers) 
+1. [Training](/handbook/product/product-manager-role/product-CDF-competencies/#people-management-competencies) for how to use the CDF for all [Product Leaders ](/handbook/product/product-leadership/#product-leaders)
+1. Simplification of [PM Competencies](handbook/product/product-manager-role/product-CDF-competencies/)
 
 
 ## Roles and Responsibilities
