@@ -38,16 +38,17 @@ Below is a list of the different technical skill sets found on the Sales System 
 2.  In order to align our working style with the Labels, the Systems team prioritizes working on issues in the order as they get added & the issues get labelled accordingly
 3.  The Systems Label Workflow and Label Description are as follows
 
-      ![The Systems Label Workflow](/handbook/sales/images/sales_systems_label_workflow.png)
+      ![The Systems Label Workflow](/handbook/sales/images/Systemsworkflow.png)
 
-      * ![Sales Systems Label](/handbook/sales/images/salessystems1_label.png) New Issues that are created will be automatically tagged and any existing issues related to sales systems gets tagged in this label
-      * ![Ready For Build](/handbook/sales/images/ready_for_build1_label.png) Issues that are acknowledged(in review)that are not slotted into the next milestones and not assigned to systems team members
-      * ![Need More Information](/handbook/sales/images/need_more_information1_label.png) Issues waiting for more information from the requester, no milestone and not assigned to systems team member
-      * ![Out Of Scope](/handbook/sales/images/out_of_scope1_label.png) Issues that are out of scope or cannot be combined with current functionality and this issue will be closed
-      * ![Build](/handbook/sales/images/build1_label.png) Issues in current milestone, assigned to systems team member worked on
-      * ![Ready To Review](/handbook/sales/images/ready_to_review1_label.png) Issues in current milestones that are near the finish line and needs to be reviewed/demoed
-      * ![Ready To Deploy](/handbook/sales/images/ready_to_deploy1_label.png) Issues in current milestones that are ready to deploy in production
-      * ![Blocked](/handbook/sales/images/blocked_label.png) Issues in the current milestone which are assigned to systems team member which are stalled and blocked due to technical difficulties
+      * ![Sales Systems](/handbook/sales/images/Salessystems.png) New Issues that are created in the systems board are automatically tagged and any existing issues related to sales systems are tagged with this label
+      * ![Need More Information](/handbook/sales/images/SSNeedinformation.png) Issues awaiting for information from the requester, needs more clarity in requirements, no milestone and not assigned to systems team member yet
+      * ![Out Of Scope](/handbook/sales/images/SSOutscope.png) Issues that are outside the parameters of an initiative, cannot be combined with current functionality and this issue will be closed
+      * ![Ready For Assignment](/handbook/sales/images/SSReadyassingment.png) Issues that are acknowledged (in review), gathering requirements, no milestone and not assigned to systems team member
+      * ![Assigned](/handbook/sales/images/SSAssign.png) Issues that are ready to moveforward, slotted to a milestone (not current) & assigned to systems team member's queue
+      * ![Build](/handbook/sales/images/SSBuild.png) Issues that are in the current milestone, assigned to systems team member that are actively to be worked on
+      * ![Ready To Business Owner Review](/handbook/sales/images/SSBusinessowner.png) Issues in current milestone that are near the finish line, needs to be reviewed and demoed to the business owner(s) to sign-off
+      * ![Ready To Deploy](/handbook/sales/images/SSReadydeploy.png) Issues in current milestones, sign-offs given by the business owner that are ready to be deployed by systems team member
+      * ![Blocked](/handbook/sales/images/SSBlocked.png) Issues in the current milestone which are assigned to systems team member which are stalled due to technical difficulties and/or assigned to business owner pending to provide information to the systems member to move forward
 
 4. Please review the status of any issue on our agile [board.](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name[]=SalesSystems)
 5. If there is a severity impacting the flow of business (i.e. No one can make a quote, No accounts are being created, Opportunities cannot be closed Won) follow the process as described above as well as share the issues in the `Sales-Support` Slack Channel
