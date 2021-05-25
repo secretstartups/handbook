@@ -18,7 +18,7 @@ The following items describe some specific settings or how we addressed some of 
 
 ##### Architecture
 
-We have one [Geo secondary node](https://geo.staging.gitlab.com) up and running for [staging.gitlab.com](https://staging.gitlab.com) configured as an [all-in-one box](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/master/roles/gstg-infra-geo-secondary.json) with all components colocated on one single node. We are currently *not* running [a Geo HA deployment](https://docs.gitlab.com/ee/administration/geo/replication/multiple_servers.html).
+We have one [Geo secondary node](https://geo.staging.gitlab.com) up and running for [staging.gitlab.com](https://staging.gitlab.com) configured as an [all-in-one box](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/master/roles/gstg-infra-geo-secondary.json) with all components colocated on one single node. We are currently *not* running [a Geo HA deployment](https://docs.gitlab.com/ee/administration/geo/replication/multiple_servers.html).
 
 ![Geo Staging Diagram](geo_staging_diagram.png)
 
@@ -32,7 +32,7 @@ GitLab Geo uses [PostgreSQL Foreign Data Wrappers (FDW)](https://wiki.postgresql
 
 Originally, the staging environment was still running PostgreSQL 9.6, and Geo benefits from some FDW improvements available only in PostgreSQL 10 and later, such as join push-down and aggregate push-down. This led to some FDW queries timing out during the backfill phase. Since we know this issue is no longer a problem for Geo from PostgreSQL 10 upwards, increasing the statement timeout to 20 minutes on staging was sufficient to allow us to proceed with the backfill.
 
-Since the 13.2 release, we have [improved Geo scalability by simplifying backfill operations](https://gitlab.com/groups/gitlab-org/-/epics/2851), eliminating these cross-database queries and removing the FDW requirement. 
+Since the 13.2 release, we have [improved Geo scalability by simplifying backfill operations](https://gitlab.com/groups/gitlab-org/-/epics/2851), eliminating these cross-database queries and removing the FDW requirement.
 
 ##### PostgreSQL version
 Staging currently uses PostgreSQL version 11.7. In May 2020, we [collaborated with the SRE Datastores team to update the Geo node to use Postgres 11](https://gitlab.com/gitlab-org/gitlab/-/issues/217629).

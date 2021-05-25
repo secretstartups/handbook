@@ -22,7 +22,7 @@ GitLab CI runner manager is responsible for creating build machines for package
 builds.  This node configuration is managed by
 [cookbook-gitlab-runner](https://gitlab.com/gitlab-cookbooks/cookbook-wrapper-gitlab-runner).
 Configuration values are stored in the vault named the same as the node,
-[see example](https://ops.gitlab.net/gitlab-cookbooks/chef-repo/-/blob/a62742886ed1dec291d66df3508e37163431538d/roles/build-trigger-runner-manager-gitlab-org.json#L37).
+[see example](https://gitlab.com/gitlab-com/gl-infra/chef-repo/-/blob/a62742886ed1dec291d66df3508e37163431538d/roles/build-trigger-runner-manager-gitlab-org.json#L37).
 
 Currently, the version of GitLab CI runner is locked. We aim to be close to the
 current version of runner in order to get the fixes that we need without getting
@@ -86,7 +86,7 @@ It spins up the following types of machines:
 **Requirements:**
 
 - Access to the node
-- Access to merge into master on the [ops chef repo](https://ops.gitlab.net/gitlab-cookbooks/chef-repo)
+- Access to merge into master on the [ops chef repo](https://gitlab.com/gitlab-com/gl-infra/chef-repo)
 - Some tasks need access to a Chef Vault admin. At minimum, contact the Engineering Manager,
   Distribution for help.
 

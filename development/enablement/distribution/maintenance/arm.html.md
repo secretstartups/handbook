@@ -36,7 +36,7 @@ they would normally for any other branch.
 
 - Slow speeds cause issues because of runner [issues handling timeouts][timeout-blog].
 - [Scaleway Docker Driver][scaleway-driver] has recurring issues.
-- Sometimes the ARM machines just shut down arbitrarily. 
+- Sometimes the ARM machines just shut down arbitrarily.
 - Machines fall into a ***shut down*** state that count against the runner
   cap but are not actually functional.
   [Follow the procedure for pending builds][pending-builds] when this happens.
@@ -74,4 +74,4 @@ Community Edition.
 [pending-builds]: /handbook/engineering/development/enablement/distribution/maintenance/build-machines.html#when-builds-are-pending-on-devgitlaborg
 [memory requirements]: https://docs.gitlab.com/ee/install/requirements.html#memory
 [quotas]: https://console.scaleway.com/account/profile
-[cap-setting]: https://ops.gitlab.net/gitlab-cookbooks/chef-repo/blob/56d8ce707368fbd529233213d6bb2624b28c13ee/roles/build-runners-gitlab-org.json#L145
+[cap-setting]: https://gitlab.com/gitlab-com/gl-infra/chef-repo/blob/56d8ce707368fbd529233213d6bb2624b28c13ee/roles/build-runners-gitlab-org.json#L145
