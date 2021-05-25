@@ -21,6 +21,7 @@ This job family represents all Managers in the Product Management department. Th
 * Make sure the vision advances in every release and communicate this
 * Communicate our vision though demo's, conference speaking, blogging, and interviews
 * Work closely with Product Marketing, Sales, Engineering, etc.
+* Support direct reports in their career plans at GitLab and beyond
 
 ## Requirements
 * Ability to use GitLab
