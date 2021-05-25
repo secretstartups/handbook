@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Security Essentials Hands On Guide- Lab 2
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 2- Review and create actions on Vulnerabilities
 
 ### View the scanning results in the Security Dashboard 
