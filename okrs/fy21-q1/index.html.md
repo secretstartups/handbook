@@ -123,8 +123,8 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from February 1, 
             1. CMO KR: 20% increase in inbound MQLs
             1. CMO KR: 20% increase in MQL conversion rate to SAO across Large and MM segments
             1. **Director of Brand and Digital Design:** Increase digital funnel conversions:
-                1. Director of Brand and Digital Design KR: Increase a [Value-driver content landing page](https://about.gitlab.com/just-commit/)  organic landing page conversion rate by 33%
-                1. Director of Brand and Digital Design KR: Increase a [Value-driver content landing page](https://about.gitlab.com/just-commit/)  paid landing page conversion rate by 60%
+                1. Director of Brand and Digital Design KR: Increase a [Value-driver content landing page](https://about.gitlab.com//blog/2019/03/27/application-modernization-best-practices/)  organic landing page conversion rate by 33%
+                1. Director of Brand and Digital Design KR: Increase a [Value-driver content landing page](https://about.gitlab.com//blog/2019/03/27/application-modernization-best-practices/)  paid landing page conversion rate by 60%
                 1. Director of Brand and Digital Design KR: Increase [Self-managed free trial landing page](https://about.gitlab.com/free-trial/self-managed/)  conversion rate by 20%.
                 1. Director of Brand and Digital Design KR: Increase [Demo landing page](https://about.gitlab.com/demo)  conversion rate by 50%.
                 1. Director of Brand and Digital Design KR: Increase a [Webcast landing page](https://about.gitlab.com/webcast/cicd-in-your-organization/)  conversion rate by 40%.
