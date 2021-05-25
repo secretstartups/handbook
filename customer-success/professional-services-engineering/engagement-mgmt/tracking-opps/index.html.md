@@ -13,7 +13,7 @@ description: "Describes processes for tracking open PS opportunities."
 
 # Tracking Opportunities
 
-`:warning: This page is under construction` 
+:warning: This page is under construction
 
 ## Salesforce.com Tracking
 

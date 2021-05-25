@@ -11,7 +11,7 @@ description: "Describes the process of scoping PS engagements."
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-`:warning: This page is under construction` 
+:warning: This page is under construction 
 
 # Scoping Information
 
