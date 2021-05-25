@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Project Management Hands On Guide- Lab 3
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 3- CREATE AN ISSUE AND ADD DETAILS TO IT** 
 
 ### Create an Issue
