@@ -13,19 +13,15 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 {:toc .hidden-md .hidden-lg}
 
 ## GitLab Security Essentials Labs
-* [Lab 1- CREATE A PROJECT AND RUN Security Scanning](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.html)
+* [Lab 1- Create A Project and Run Security Scanning](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.html)
 * [Lab 2- Review and create actions on Vulnerabilities](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson2.html)
-* [Lab 3- ADD Manual k6 Load testing](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3.html)
+* [Lab 3- Add Manual k6 Load testing](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3.html)
 * [Lab 4- Run a Fuzz test](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson4.html)
-
-
 
 ## Quick links
 
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
-* [GitLab Demo Cloud](https://gitlabdemo.com/login)
-- After you redeem your invitation code, select the correct instance for your class type (instructor-led or self-paced)
 * [GitLab Security Essentials Course Description](https://about.gitlab.com/services/education/security-essentials/)
 * [GitLab Security Specialist Certifcation Details](https://about.gitlab.com/services/education/gitlab-security-specialist/)
 
