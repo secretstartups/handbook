@@ -56,7 +56,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ### Module 7: Secure
 1. Complete the SAST demo using the instructions in the notes section/lab guide
-2. At the end of the session, please share out the linkfor the [GitLab Training Survey](https://forms.gle/sKcsKSqV1aeXkYyF7)
+2. At the end of the session, please share out the linkfor the [GitLab Training Survey](https://www.surveymonkey.com/r/proservtraining)
 
 ## Cleaning up your Local Comp and Hands on VMs After Class
 
