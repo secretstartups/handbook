@@ -6,13 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Security Essentials Hands On Guide- Lab 1
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
-
 ## LAB 1- CREATE A PROJECT AND RUN Security Scanning
 
 GitLab Security Scanning allows you to analyze your source code for known vulnerabilities. GitLab checks the SAST report and compares the found vulnerabilities between the source and target branches. The purpose of this lab is to run GitLab Security Scanning to identify potential security vulnerabilities in your pipeline.
@@ -32,7 +25,7 @@ GitLab Security Scanning allows you to analyze your source code for known vulner
 4. Locate the new branch and click on it 
 5. Navigate to the **New File** button and click on it.
 6. In the file name dialog box type **“*.gitlab-ci.yml”***
-7. In order to get started, open a new tab in your browser. We are going to Copy the text from the following [snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/java-security-essentials/-/snippets/5384) and paste it into your YAML file.
+7. In order to get started, open a new tab in your browser. We are going to Copy the text from the following [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-security-essentials/sast-demo-project/-/snippets/73) and paste it into your YAML file.
 8. Click the green **Commit Changes** button.
 9. Ensure your pipeline configuration is valid, and then move onto the next step.
 10. After the pipeline runs Merge your Merge Request 
