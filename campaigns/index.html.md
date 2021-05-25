@@ -41,7 +41,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 **Launched (Original): 2020-11-16**
 
 * [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/-/epics/1029)
-* [Live landing page - Manager Persona](https://about.gitlab.com/compare/jenkins-alternative/)
+* [Live landing page - Manager Persona](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/)
 * [Live landing page - Practitioner Persona](https://page.gitlab.com/gitlabci-vs-jenkins-demo.html)
 * [SFDC Campaign - Manager >>](https://gitlab.my.salesforce.com/7014M000001ll99?srPos=0&srKp=701)
 * [SFDC Campaign - Practitioner >>](https://gitlab.my.salesforce.com/7014M000001dlvz?srPos=0&srKp=701)
@@ -175,7 +175,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * *Note: this is being sunsetted in Q4 FY21 and existing records in nurture will continue until all emails have deployed.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/367)
-* [Live landing page](/just-commit/lower-tco/)
+* [Live landing page](/topics/devops/reduce-devops-costs/)
 * [Slack](https://gitlab.slack.com/archives/CCWUCP4MS)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyiL)
 
@@ -189,7 +189,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/363)
-* [Live landing page](/just-commit/reduce-cycle-time/)
+* [Live landing page](/blog/2018/10/12/strategies-to-reduce-cycle-times/)
 * [Campaign brief](https://docs.google.com/document/d/1dbEf1YVLPnSpFzSllRE6iNYB-ntjacENRMjUxCt8WFQ/edit)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000Cyhm?srPos=0&srKp=701)
 
@@ -203,7 +203,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the DevSecOps use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/368)
-* [Live landing page](/just-commit/secure-apps/)
+* [Live landing page](/solutions/dev-sec-ops/)
 * [Campaign brief](https://docs.google.com/document/d/1NzFcUg-8c1eoZ1maHHQu9-ABFfQC65ptihx0Mlyd-64/edit)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000000CyeJ)
 
@@ -218,7 +218,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 * *Note: this is being sunsetted Q2 FY21 and existing records in the nurture will move to the CI use case campaign nurture.*
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/379)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/432)
-* [Live landing page](/compare/single-application-ci/)
+* [Live landing page](/resources/ebook-single-app-cicd/)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001lkp9)
 
 ### 🚀 Competitive campaign
@@ -231,7 +231,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * [Parent epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/10)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/85)
-* [Live landing page](/compare/single-application-ci/)
+* [Live landing page](/resources/ebook-single-app-cicd/)
 * [SFDC Campaign >>](https://gitlab.my.salesforce.com/70161000000VxvJ)
 
 ### 🌄 Just Commit
@@ -244,7 +244,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * [Parent epic with child epics and issues >>](https://gitlab.com/groups/gitlab-com/marketing/-/epics/7)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/50)
-* [Former landing page (repurposed since close of the campaign)](/just-commit/)
+* [Former landing page (repurposed since close of the campaign)](/blog/2019/03/27/application-modernization-best-practices/)
 * [SFDC Campaign](https://gitlab.my.salesforce.com/70161000000VwZq)
 * [Meeting recordings >>](https://drive.google.com/drive/u/1/folders/147CtTEPz-fxa0m1bYxZUbOPBik-dkiYV)
 * [Meeting slide deck >>](https://docs.google.com/presentation/d/1i2OzO13v77ACYo1g-_l3zV4NQ_46GX1z7CNWFsbEPrA/edit#slide=id.g153a2ed090_0_63)
