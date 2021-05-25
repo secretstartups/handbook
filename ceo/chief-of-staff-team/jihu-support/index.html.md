@@ -49,8 +49,8 @@ Process to be added below.
 | https://gitlab.com/gitlab-org/customers-gitlab-com      | https://gitlab.com/gitlab-jh/customers-gitlab-cn           |
 |                                                         | https://gitlab.com/gitlab-jh/cookbook-customers-gitlab-com |
 | https://gitlab.com/gitlab-services/version-gitlab-com   | https://gitlab.com/gitlab-jh/version-gitlab-cn             |
-| https://gitlab.com/gitlab-jh/omnibus-gitlab             | https://gitlab.com/gitlab-jh/omnibus-gitlab                |
-| https://gitlab.com/gitlab-jh/gitlab-environment-toolkit | https://gitlab.com/gitlab-jh/gitlab-environment-toolkit    |
+| https://gitlab.com/gitlab-org/omnibus-gitlab            | https://gitlab.com/gitlab-jh/omnibus-gitlab                |
+| https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit | https://gitlab.com/gitlab-jh/gitlab-environment-toolkit    |
 | https://gitlab.com/gitlab-org/build/CNG                 | https://gitlab.com/gitlab-jh/cng-images                    |
 | https://gitlab.com/gitlab-org/charts/gitlab             | https://gitlab.com/gitlab-jh/jh-team/gitlab                |
 | https://gitlab.com/gitlab-com/www-gitlab-com            | https://gitlab.com/gitlab-jh/jh-team/www-gitlab-com        |
