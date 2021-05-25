@@ -4,11 +4,10 @@ title: GitLab Communication
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
-  {:toc .hidden-md .hidden-lg}
+{:toc .hidden-md .hidden-lg}
 
 We're an [all-remote](/company/culture/all-remote/#advantages-for-organizations) company that allows people to work from [almost anywhere in the world](/jobs/faq/#country-hiring-guidelines). We hire great people regardless of where they live, but with GitLab team members across [more than 60 countries](/company/team/), it's important for us to practice clear communication in ways that help us stay connected and work more efficiently.
 
