@@ -88,13 +88,6 @@ Once you're on the Okta webpage click on your name and then click settings.
 </div>
 <br>
 
-While on the Okta settings page, click the green "Edit Profile" button to edit the page contents.
-
-<div style="text-align:center;">
-  <img src="/handbook/business-technology/Okta-EditProile.png" alt="Okta Edit Profile" width="500"/>
-</div>
-<br>
-
 Scroll down until you see "Extra Verification", once you're there click "remove" to disable that specific MFA and then click setup to configure the new MFA code on your new phone.
 
 <div style="text-align:center;">
