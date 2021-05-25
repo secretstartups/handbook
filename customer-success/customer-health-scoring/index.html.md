@@ -150,18 +150,13 @@ Each of these metrics will be used to guide the account team in knowing when a c
 ### Uptier
 
 1. Desire for guest users
-
-2. 1. They purchased a high number of Premium licenses but could move many to Guest
-
-3. Consuming Free/Premium features that lead to Ultimate
-
-4. 1. DevSecOps
-   2. Agile Planning
-
-5. Success Plan objectives are aligned with Ultimate-level feature sets
-
-6. 1. DevSecOps
-   2. Agile Planning
+   1. They purchased a high number of Premium licenses but could move many to Guest
+1. Consuming Free/Premium features that lead to Ultimate
+   1. DevSecOps
+   1. Agile Planning
+1. Success Plan objectives are aligned with Ultimate-level feature sets
+   1. DevSecOps
+   1. Agile Planning
 
 ### Seat Reduction
 
@@ -172,13 +167,10 @@ Each of these metrics will be used to guide the account team in knowing when a c
 ### Downtier
 
 1. Not using Ultimate-level features
-
-2. 1. DevSecOps
-   2. Agile Planning
-
-3. Success Plan objectives not aligned with Ultimate-level feature sets
-
-4. TAM renewal risk == downtier
+   1. DevSecOps
+   1. Agile Planning
+1. Success Plan objectives not aligned with Ultimate-level feature sets
+1. TAM renewal risk == downtier
 
 ### Churn
 
