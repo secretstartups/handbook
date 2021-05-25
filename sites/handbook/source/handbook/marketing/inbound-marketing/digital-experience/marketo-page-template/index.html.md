@@ -163,7 +163,7 @@ Options
 
 ## Statistics list module
 
-Similar to the bottom section of [this example landing page](https://about.gitlab.com/compare/jenkins-alternative/).
+Similar to the bottom section of [this example landing page](https://about.gitlab.com/blog/2019/11/26/migrating-from-jenkins/).
 
 ![Statistics list](/images/handbook/growth-marketing/marketo-page-template/stats-list.jpg)
 {:.image-box}
