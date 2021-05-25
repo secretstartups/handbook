@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Project Management Hands On Guide- Lab 2
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 2- CREATE A SUB-GROUP AND PROJECT
 
 ### Create a Sub-Group 
