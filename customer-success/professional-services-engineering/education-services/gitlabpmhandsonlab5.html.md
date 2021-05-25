@@ -6,17 +6,11 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Project Management Hands On Guide- Lab 5
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 5- CREATE AND ASSIGN MILESTONES
 
 ### Create 3 Milestones
 1. In your GitLab Sub-Group or Epic, hover over the Issues section on the left hand pane and select Milestones from the menu that appears.  
-2. Click the green **New milestone** button in the upper right corner.  
+2. Click the blue **New milestone** button in the upper right corner.  
 3. In the Title field, type “*Sprint 1*”, in the start date, select today and in the due date, select a date 2 weeks out. In the description field, type “*First sprint of development on Project 1x, x, y, z project outcomes are due*”  
 4. Click **Create milestone**. 
 5. Repeat these steps for Sprints 2 and 3 and continue to phase out the start and due dates so they align two weeks apart. 

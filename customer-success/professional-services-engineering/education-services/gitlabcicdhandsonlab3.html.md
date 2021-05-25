@@ -10,7 +10,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 1. In the GitLab Demo Cloud, locate your CICD Demo project from Lab 2 and open it.
 2. Click on your **.gitlab-ci.yml** file to open it.
-3. Navigate to the sample project in your other tab - locate the [**ci-starter**] (https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training/gitlab-cicd-hands-on-demo/-/snippets) code snippet, once you have the snippet open, click the **Copy File Contents** icon in the upper right corner of the file.  
+3. Navigate to the sample project in your other tab - locate the [**ci-starter**] (https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) code snippet, once you have the snippet open, click the **Copy File Contents** icon in the upper right corner of the file.  
 4. Return to your CICD Demo project in your other tab; replace the code in your yml file with the ci-starter snippet. 
 Note: You should now have a basic CI configuration with only test and build stages.  
 5. In the Commit Message field, type **“CI starter”** and click the **Commit Changes** button. 

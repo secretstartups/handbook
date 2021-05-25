@@ -23,11 +23,11 @@ description: "This Facilitator Guide is intended to walk you through all importa
 
 ### For GitLab Team Members and Contractors
 
-1. Instructor Slides: You will make your own copy of this[Main Presentation](https://docs.google.com/presentation/d/1Eb7m7cGFrmMDfaHF3TRWLqhgSxZpYxl0RzA8DHWIcDU/edit?usp=sharing)-
+1. Instructor Slides: You will make your own copy of this [Main Presentation](https://docs.google.com/presentation/d/1Eb7m7cGFrmMDfaHF3TRWLqhgSxZpYxl0RzA8DHWIcDU/edit?usp=sharing)-
   - Go to File > Make a Copy > Entire Presentation to save a copy of your deck.
   - PDF the presentation at the end of the course to send to the client
   - Save  your copy in the applicable [client folder](https://drive.google.com/drive/u/0/folders/1ozPKiAlUzbKwpkscaYVTp9PVoi9hWm4U)
-2. Hands On Lab Environment: Use the sample projects located in the [GitLab Demo Cloud](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-ci-cd-training)
+2. Hands On Lab Environment: Use the sample projects located in the GitLab Demo Cloud
 3. [Hands On Guide](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandson.html)
 4. [Remote Sessions Tips and Tricks](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-tips/)
 
@@ -77,7 +77,7 @@ description: "This Facilitator Guide is intended to walk you through all importa
 ### Session End
 
 1. Highlight the GitLab Certified CI/CD Specialist Certification and encourage attendees to complete the exams.
-2. Ask attendees to access the link on the last slide to complete the [GitLab Training Survey](https://forms.gle/sKcsKSqV1aeXkYyF7). 
+2. Ask attendees to access the link on the last slide to complete the [GitLab Training Survey](https://www.surveymonkey.com/r/proservtraining). 
 
 
 ## Cleaning up your Local Comp and Hands on Environments After Class

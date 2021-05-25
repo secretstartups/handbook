@@ -15,7 +15,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 ## LAB 3- ADD Manual k6 Load testing
 
 ### Edit the Load testing file with your URL
-1. In the Project **{lastname} SecurityProject1**, Click issues on the left hand menu.  Click the **New Issue** button
+1. In the Project **{lastname} SecurityProject1**, Click issues on the left hand menu. Click the **New Issue** button
 2. In the Title type **create manual load test** submit the issue.  
 3. Create a Merge Request from the Issuee.  Click the **Create Merge Request** button 
 4. Locate the new branch and click on it 

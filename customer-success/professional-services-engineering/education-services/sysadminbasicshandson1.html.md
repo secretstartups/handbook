@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab System Admin Basics Hands On Guide- Lab 1
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 1- GITLAB EE INSTALLATION
 
 The first thing we need to do is install GitLab on a Virtual Machine your instructor has set up for you. You will install your GitLab Instance using your command line.  
@@ -27,7 +21,7 @@ The first thing we need to do is install GitLab on a Virtual Machine your instru
 9. DO NOT INCLUDE the following code when using this command- the VMs we are using do not use Firewall:  
     \# Check if opening the firewall is needed with: sudo systemctl status firewalld 
     sudo firewall-cmd --permanent --add-service=http sudo firewall-cmd --permanent --add-service=https sudo systemctl reload firewalld 
-10. On Step 2- Add the GitLab package repository and install the package; **use the Public IPv4 DNS** assigned to you in the [Lab Setup Instructions](https://docs.google.com/spreadsheets/d/1mQ-KDC2fXp6qxYtZLinLZKO_cc0F39e0TeKa1WX3kK0/edit?ts=5fc9bf7b#gid=0) when setting up your DNS.  
+10. On Step 2- Add the GitLab package repository and install the package; **use the Public IPv4 DNS** assigned to you in the Lab Setup Instructions sent by your instructor when setting up your DNS.  
 *This step may take a few minutes.*  
 11. Once the installation is complete- navigate to the URL and on your first visit, you'll be redirected to a password reset screen. Use the default account's username root to login. 
 

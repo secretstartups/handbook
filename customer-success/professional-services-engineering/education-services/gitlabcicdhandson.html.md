@@ -28,7 +28,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
-* [GitLab Demo Cloud](https://gitlabdemo.com/login)
 * [GitLab CI/CD Course Description](https://about.gitlab.com/services/education/gitlab-ci/)
 * [GitLab CI/CD Specialist Certifcation Details](https://about.gitlab.com/services/education/gitlab-cicd-specialist/)
 
