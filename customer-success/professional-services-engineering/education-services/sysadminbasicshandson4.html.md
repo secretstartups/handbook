@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab System Admin Basics Hands On Guide- Lab 4
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 4- USING GITLAB ADMIN COMMANDS
 
 In this section we will use 3 different commands to start/stop/restart services on your GitLab instance.
