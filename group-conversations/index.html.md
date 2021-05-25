@@ -242,7 +242,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | ------------------ | --- | ----------- | ------------ |
 | [CRO](/handbook/sales/) | Michael McBride | Yes | Monthly |
 | [Finance](/handbook/finance/) | Brian Robins | Yes | Monthly |
-| [Marketing](/handbook/marketing/) | Todd Barr | Yes | Monthly |
+| [Marketing](/handbook/marketing/) |  Craig Mestel | Yes | Monthly |
 | [People](/handbook/people-group/) | Wendy Barnes | Yes | Monthly |
 | [Product](/handbook/product/) | Scott Williamson | Yes | Monthly |
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Monthly |
