@@ -6,11 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab System Admin Basics Hands On Guide- Lab 6
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
 
 ## LAB 6- ENHANCING SECURITY USING THE ADMIN CONSOLE
 
