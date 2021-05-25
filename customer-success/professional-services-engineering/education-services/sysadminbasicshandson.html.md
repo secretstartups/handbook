@@ -6,12 +6,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 # GitLab System Administration Basics Hands On Guide
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## Hands On Lab Setup
 
 1. To begin lab, navigate to the sandbox link: <https://www.gitlabdemo.com/invite>  
@@ -33,7 +27,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 
 Here are some quick links that may be useful when reviewing this Hands On Guide.
 
-* [GitLab Demo Cloud](https://gitlabdemo.com/login)
 * [GitLab System Administration Basics Course Description](https://about.gitlab.com/services/education/admin/)
 
 ### SUGGESTIONS?
