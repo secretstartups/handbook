@@ -102,8 +102,8 @@ In these instances, the vendor can invoice GitLab in Tipalti, and AP will route 
       * Contacting a vendor.
 
 **For Non-Software:**
-   * If under $100K, the DRI is responsible for requesting and negotiating the best price for GitLab, unless there is a business reason to engage procurement sooner.
-   * If greater than $100K, procurement will negotiate non-software agreements on an as-needed basis.
+   * If under $50K, the DRI is responsible for requesting and negotiating the best price for GitLab, unless there is a business reason to engage procurement sooner.
+   * If greater than $50K, procurement will negotiate non-software agreements on an as-needed basis.
    * At any point in time the DRI can engage procurement for additional support to review and/or negotiate the contract regardless of spend.
 
 ## How long does it take to negotiate a contract?
