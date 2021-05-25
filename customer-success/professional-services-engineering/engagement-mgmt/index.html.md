@@ -48,7 +48,6 @@ The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job
 
 ## Engagement Manager - Processes
 
-### [Salesforce - Tracking Professional Services Opportunities](tracking-opps)
-### [Engagement Scoping Information](scoping-information)
-### [SOW Processing](sow-processing)
-
+- [Salesforce - Tracking Professional Services Opportunities](tracking-opps)
+- [Engagement Scoping Information](scoping-information)
+- [SOW Processing](sow-processing)
