@@ -6,12 +6,6 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Project Management Hands On Guide- Lab 7
 {:.no_toc}
 
-## On this page
-{:.no_toc .hidden-md .hidden-lg}
-
-- TOC
-{:toc .hidden-md .hidden-lg}
-
 ## LAB 7- CREATE A NEW BOARD
 
 1. Navigate to Groups -> Click on the groups** 
