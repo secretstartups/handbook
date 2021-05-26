@@ -206,9 +206,7 @@ This lists the steps for the People Experience team to follow when receiving req
 
 #### Letters of Employment 
 
-Once the team member completes the form as listed in the [Handbook](/handbook/people-group/frequent-requests/#letter-of-employment), we will receive an email in the People Experience Inbox to view and audit if the information has been correctly inserted by the team member. 
-- If the information is correct, please proceed with forwarding the Letter of Employment to the team member by email. 
-- If the information is incorrect, please email the team member and provide the details of what is incorrect and ask that they resubmit the form with the correct information. 
+Team Members are able to request a Letter of Employment using the [documented form](/handbook/people-group/frequent-requests/#letter-of-employment) for this purpose.  Once submitted they will receive an auto-populated document utilising the data housed in BambooHR i.e. compensation; length of tenure; nature of employment (full or part-time) etc. along with an indication that GitLab is an all remote company.
 
 #### Employee Verifications
 
