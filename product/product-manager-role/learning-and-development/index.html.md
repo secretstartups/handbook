@@ -327,6 +327,7 @@ _Please contribute your favorite resources here_
 
 - What does [Iteration](https://about.gitlab.com/handbook/values/#iteration) mean for GitLab?
 - What is a [Minimal Viable Change](https://about.gitlab.com/handbook/product/product-principles/#sts=The%20Minimal%20Viable%20Change%20(MVC))?
+- [Product Processes: Iteration Strategies](https://about.gitlab.com/handbook/product/product-processes/#iteration-strategies)
 - A [video by Sid and Leif on iteration](https://www.youtube.com/watch?v=tPTweQlBS54)
 - [Des Traynor: Start with a cupcake](https://www.intercom.com/blog/start-with-a-cupcake/)
 
