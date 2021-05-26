@@ -21,8 +21,6 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 Dutch team members get the customary month of vacation money (Vakantiegeld) in the month of May, as defined [by the government](https://www.rijksoverheid.nl/onderwerpen/vakantiedagen-en-vakantiegeld/vraag-en-antwoord/hoe-hoog-is-mijn-vakantiegeld).
 Note that Vakantiegeld is built into offers as well as our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/).
 
-Note that you can choose to have your vacation money distributed throughout the year.
-To request a change in the way you receive this, please reach out to peopleops@gitlab.com. [This template](https://docs.google.com/document/d/1IizjvTbZsAz1gCq5uYHlxhVvRW8LaEAlMrbHPHkgs1E/edit) should be completed by a member of the People Operations Specialist team, signed by GitLab and the team member and then send to HRSavvy to request the change.
 
 ## Medical
 
