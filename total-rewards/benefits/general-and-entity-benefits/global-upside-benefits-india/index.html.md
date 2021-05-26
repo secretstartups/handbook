@@ -48,7 +48,7 @@ Most companies in India do not offer life insurance as part of the benefits pack
 
 ### Meal Vouchers
 
-Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Card, which can be used at any outlet selling food items and non-alcoholic beverages that accept card payments. If you would like purchase these a deduction from salary will be made each month. All team members are gien the option to opt-in for Sodexo cards during the pre-onboarding process managed by the CES (Candidate Experience Specialist) team.  
+Sodexo Meal Cards are an optional benefit. These Meal Cards work like a Debit Card, which can be used at any outlet selling food items and non-alcoholic beverages that accept card payments. If you would like purchase these a deduction from salary will be made each month. All team members are given the option to opt-in for Sodexo cards during the pre-onboarding process managed by the CES (Candidate Experience Specialist) team.  
 
 ### Global Upside India Parental Leave 
 
