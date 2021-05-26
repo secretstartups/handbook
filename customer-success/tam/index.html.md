@@ -58,6 +58,7 @@ Aligning passionate TAM's with customers to ensure their success by...
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
+- [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
 
 
 
