@@ -62,12 +62,11 @@ This section will list the top three most recent, exciting accomplishments from 
 ## Team Members
 The following people are permanent members of the Verify:Testing group:
 
-<%= direct_team(manager_role: 'Backend Engineering Manager, Verify:Testing') %>
+<%= shared_team_members(role_regexps: [/Verify:Testing/i]) %>
 
 ## Stable Counterparts
-The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify.*Testing/, direct_manager_role: 'Backend Engineering Manager, Verify:Testing', other_manager_roles: ['Frontend Engineering Manager, Verify', 'Backend Engineering Manager, Verify:Pipeline Execution & Verify:Pipeline Authoring', 'Backend Engineering Manager, Verify:Runner']) %>
+To find our stable counterparts look at the Testing [product catgory listing](https://about.gitlab.com/handbook/product/categories/#testing-group).
 
 ## JTBD
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/verify/testing/JTBD/#jobs-to-be-done).
@@ -116,8 +115,8 @@ Once the design issue is ready for development, Product Manager and Product Desi
 #### Technical Investigation
 In the process of refinement we may discover a new feature will require a [blueprint](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/doc/workflow.md) or the team feels input from maintainers will help scope down the problem, ensure the feature is performant and/or reduce future technical debt. When this happens the team will create a Technical Investigation issue for the investigation. This issue will be assigned to one team member. That team member should spend the minimum amount of time to create documentation, a [poc](https://about.gitlab.com/handbook/engineering/development/ops/release/poc.html), or some other artifact that clarifies the approach to the problem, ideally in less than 5 working days. This will help us to gather information, validate the solution with others, and propose a plan to execute. They will answer specific questions outlined in the Technical Investigation issue before work on the feature is started. This process is analogous to the concept of a [Spike](https://about.gitlab.com/handbook/engineering/development/ops/monitor/#spike).
 
-#### Release post checklist issue
-During each milestone, we create a [Release Post Checklist](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/issues/new?issuable_template=Release-Post-Issue) issue that is used by team members to help track the progress of the team [release posts](/handbook/marketing/blog/release-posts/). We use the checklist issue to associate release post merge requests with links to the implementation issue, links to updated documentation, and list which engineers are working on each issue. The checklist issue provides a single place to see all this information.
+#### Prioritizing technical debt
+We follow the [company guidance](https://about.gitlab.com/handbook/engineering/#prioritizing-technical-decisions) in how we prioritize technical debt. In order to manage this effectively we have decided to keep track of technical debt and feature maintenance issues that are ready to be worked on in the "~workflow::scheduling" column, prioritized by Product, but informed by the impact these issues will have on our future velocity. We will try to dedicate a certain percentage (~20%) of our capacity by weight in each milestone to paying down technical debt. We do not consider bugs to be technical debt, and they are prioritized as part of the remaining 80% of capacity by weight.
 
 #### Deliverables in a Milestone
 Engineering managers apply the `Deliverable` label on issues that meet the following criteria:
@@ -146,11 +145,11 @@ Before the team will accept an issue into a milestone for work it must meet thes
 #### Definition of Blocked
 Issues that depend on another issue to be completed before they can be validated on `Canary` are considered blocked, and should have the `~workflow::blocked` label applied. The issues should also be marked as blocked within the [related issues section](https://docs.gitlab.com/ee/user/project/issues/related_issues.html#adding-a-related-issue) of the issues.
 
-#### Prioritizing technical debt
-We follow the [company guidance](https://about.gitlab.com/handbook/engineering/#prioritizing-technical-decisions) in how we prioritize technical debt. In order to manage this effectively we have decided to keep track of technical debt and feature maintenance issues that are ready to be worked on in the "~workflow::scheduling" column, prioritized by Product, but informed by the impact these issues will have on our future velocity. We will try to dedicate a certain percentage (~20%) of our capacity by weight in each milestone to paying down technical debt. We do not consider bugs to be technical debt, and they are prioritized as part of the remaining 80% of capacity by weight.
-
 #### Follow-up Issues
 We utilize a process wherein issues that are follow-ups to other issues and are being worked on in the same milestone they are created will have a `~follow-up` label added to them. Examples of items the team may create and label as `~follow-up` include but is not limited to feature scope-creep, non-blocking requests from code review, additional UI polish, non-blocking refactoring that can be done, Low Priority (P2 or lower) bug fixes, etc.
+
+#### Release post checklist issue
+During each milestone, we create a [Release Post Checklist](https://gitlab.com/gitlab-org/ci-cd/testing-group/-/issues/new?issuable_template=Release-Post-Issue) issue that is used by team members to help track the progress of the team [release posts](/handbook/marketing/blog/release-posts/). We use the checklist issue to associate release post merge requests with links to the implementation issue, links to updated documentation, and list which engineers are working on each issue. The checklist issue provides a single place to see all this information.
 
 ### Workflow
 Unless specifically mentioned below, the Verify:Testing group follows the standard [engineering](/handbook/engineering/workflow/) and [product](/handbook/product-development-flow/) workflows.
