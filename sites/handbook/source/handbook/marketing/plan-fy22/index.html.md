@@ -287,31 +287,27 @@ Upon communication of the events, a GTM Team will commit to the event and be res
 
 A core need from the GTM Team is to develop a **cohesive** experience from the first email invitation to the final email follow up and SDR outreach.
 
-**Usual Needs for Corp Events & Teams as DRIs:**
-* Cohesive event-specific messaging and positioning across event: PMM
-* Consult on tactics to target our efforts to right personas and segements: PMM
-* Website needs: Digital Experience
-* Ad copy: PMM
-* Relevant links for the booth experience: PMM/TMM
-* Invitation email copy: Content
-   - PMM review for cohesive message
-   - Campaigns review for email conversion best practices
-* Email setup: Verticurl (Agency)
-* Follow up email copy: Content
-   - PMM review for cohesive message
-   - Campaigns review for email conversion best practices
-* Post-event Marketo add to nurture: Verticurl (Agency)
-* Marketo program setup: Verticurl (Agency)
-   - when questions on program type arise, work with MOps
-* Define lead nurturing strategy: Campaigns
-* Track lead progression to MQL: Campaigns
-   - look for opportunities to optimize nurture
-* Setup SDR Outreach follow up template: ?? <!-- Do SDRs have these currently? Do they use them? -->
-   - leads may not be MQLs and may require some "heating up" and additional action to MQL
-* List upload: MOps
-* Miscellaneous (examples):
-   - write survey questions: PMM
-   - recruit speaker for sponsored talk: PMM
+**Responsibilities: Produt Marketing**
+* Write cohesive event-specific messaging and positioning across event (emails, ads, booth, etc.)
+* Consult on tactics to target our efforts to right personas and segements
+* Write email copy
+* Recruit speakers for sponsored speaking sessions
+* Outline virtual booth content
+* Define survey questions, when necessary for virtual booths
+
+**Responsibilities: Campaigns Team**
+* Review email communications, including invitations and follow up, for conversion best practices (subject lines, format, CTAs, design)
+* Define follow up strategy via lead nurturing to heat up to MQL
+* (Verticurl Agency) Tactical email setup in Marketo
+* (Verticurl Agency) Tactical addition to nurture programs, until automated in revamped nurture Q3 FY22
+
+**Responsibilities: Technical Marketing**
+* Contribute to content to be used in virtual booth
+
+**Responsibilities: Marketing Operations**
+* Advise on Marketo program type when questions arise (taking into account scoring and program progression statuses)
+* List upload(s) to Marketo programs
+* Confirm Last Interesting Moments trigger appropriately, and leads increase in score based on automated scoring model
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
