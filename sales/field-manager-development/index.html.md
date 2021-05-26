@@ -67,7 +67,8 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hf8dOLeRvQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Organizational and Team Health
-- Please complete Module 2 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-26
+- Pre-work: Module 2 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
+- [Slides](https://docs.google.com/presentation/d/1GCufbe3ceV-ijUCWhqnDsg24185pZPpKPhBKXILzg6Q/edit?usp=sharing) (GitLab internal only)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,7 +77,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCxct4CR-To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Giving Feedback and Coaching
-- Please complete Module 3 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
+- Pre-work: Please complete Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
