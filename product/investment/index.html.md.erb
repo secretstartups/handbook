@@ -60,15 +60,17 @@ As for DevOps stage scores - each driver is scored on a 1-5 basis.  Here is a d
 
 The following table provides scores for each of our DevOps stages and a comparison of the total score to our current development spend allocation as defined by the percentage of total individual contributor developers in product groups.
 
-| Stage | Usage Driver Score | Revenue Driver Score | SAM Driver Score | Combined Score | % of Total Score | Stage Dev | R&D Spend % | Score/Spend Difference |
+| Stage | Usage Driver Score doubled | Revenue Driver Score trippled | SAM Driver Score | Combined Score | % of Total Score | Stage Dev | R&D Spend % | Score/Spend Difference |
 |:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 <% # this calculates the total score across all stages needed to calculate the percent of total score %>
 <% totalMarketingScore = 0 %>
 <% totalMarketingDevelopers = 0 %>
+<% revenue_driver_score_weight = 3 %>
+<% usage_driver_score_weight = 2 %>
 <% data.sections.each do |sectionKey, section| %>
   <% data.stages.stages.select{|stageKey,stage| stage.section==sectionKey}.each do |stageKey, stage| %>
     <% next if !stage.marketing %>
-    <% totalMarketingScore += stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% totalMarketingScore += (stage.usage_driver_score.to_i * usage_driver_score_weight) + (stage.revenue_driver_score.to_i * revenue_driver_score_weight) + stage.sam_driver_score.to_i %>
     <% stage.groups.each do |groupKey, group| %>
       <% totalMarketingDevelopers += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
@@ -82,15 +84,15 @@ The following table provides scores for each of our DevOps stages and a comparis
       <% stage_devs += team_member_count_from_groups(groups: [group.be_team_tag, group.fe_team_tag, group.fs_team_tag])%>
     <% end %>
     <% stageLine=[] %>
-    <% combinedScore = stage.usage_driver_score.to_i + stage.revenue_driver_score.to_i + stage.sam_driver_score.to_i %>
+    <% combinedScore = (stage.usage_driver_score.to_i * usage_driver_score_weight) + (stage.revenue_driver_score.to_i * revenue_driver_score_weight) + stage.sam_driver_score.to_i %>
     <% next if combinedScore == 0 %>
     <% percent_of_total = (combinedScore.to_f/totalMarketingScore.to_f)*100 %>
     <% percent_of_developers = (stage_devs.to_f / totalMarketingDevelopers.to_f)*100 %>
     <% difference = percent_of_developers - percent_of_total%>
     <% stageLine << "#{stage.display_name}"%>
-    <% stageLine << stage.usage_driver_score ? "#{stage.usage_driver_score}" : "0" %>
-    <% stageLine << stage.revenue_driver_score ? "#{stage.revenue_driver_score}" : "0"%>
-    <% stageLine << stage.sam_driver_score ? "#{stage.sam_driver_score}" : "0" %>
+    <% stageLine << (stage.usage_driver_score ? "#{stage.usage_driver_score.to_i * usage_driver_score_weight}" : "0")%>
+    <% stageLine << (stage.revenue_driver_score ? "#{stage.revenue_driver_score.to_i * revenue_driver_score_weight}" : "0")%>
+    <% stageLine << (stage.sam_driver_score ? "#{stage.sam_driver_score}" : "0")%>
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
     <% stageLine << "#{stage_devs}" %>
