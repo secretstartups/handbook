@@ -80,7 +80,7 @@ When you’re adding or editing links in the Handbook (or really, _anywhere_ on 
 Absolute URLs are the ones that look like this:
 
 ```
-/handbook/
+https://about.gitlab.com/handbook/
 ```
 
 With absolute URLs links always load the _live_ version of the site—even when run from a development, testing, or staging context. They're great for sharing URLs via Slack, issue and merge request comments, email, and social media, but _not_ for same-site links.
