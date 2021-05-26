@@ -155,12 +155,15 @@ And many more [here](https://learn.gitlab.com/l/gitops-gtm-content)
 
 ### Services
 
-GitLab Professional Services help customers become efficient in GitLab quickly. GitLab (or a GitLab partner) offers a number of service offerings to support customers:
-* [General Professional Services Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9)
-* [Education Services Catalog](/services/catalog/)
-* [Complete list of professional service offerings](https://about.gitlab.com/services/) include implementation services, migration services, advisory services, integration services, innersourcing services and education services.
-* If the existing catalog does not cover your customer's requirements for GitOps, please register your interest for a GitOps specific offering [here](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/issues/74).
-* Talk with @em in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to learn more.
+GitLab Professional Services help customers become efficient in GitLab quickly. GitLab (or a GitLab partner) offers a number of service offerings to support customers. 
+
+For the GitOps sales play, consider asking your customer about their workforce's proficiency with git, GitLab, and GitLab CI as they are foundational elements to GitOps. If they are not strong in all of these topics, consider positioning [GitLab with git Basics training](https://about.gitlab.com/services/education/gitlab-basics/) and/or [GitLab CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/). 
+
+Advisory/Consulting services to help with GitOps rollout are planned to be rolled out later this year. Please register your interest for a GitOps Advisory offering [here](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/issues/74) to help PS effectively prioritize!
+
+As you position services, you can use our [Services Pitch Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9) to help establsh the value of engaging with PS. Other services can be found in our [Complete list of professional service offerings](https://about.gitlab.com/services/)
+
+Talk with @em in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to learn more. 
 
 ## Sales Play Tactics
 {: .alert .alert-gitlab-orange}
