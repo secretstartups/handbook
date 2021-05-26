@@ -178,7 +178,6 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 | Member                                   | Craig Gomes                     | Backend Engineering Manager (Database and Memory) |
 | Member                                   | Chun Du                         | Director of Engineering, Enablement |
 | Member                                   | Christopher Lefelhocz           | Cleaner |
-| Member                                   | Nick Nguyen                     | Fullstack Engineering Manager, Geo |
 | Member                                   | Adam Hegyi                      | Senior Backend Engineer, Manage |
 | Member                                   | Tanya Pazitny                   | Quality Engineering Manager, Enablement & Secure |
 | Member                                   | Nick Westbury                   | Senior Software Engineer in Test, Geo |
