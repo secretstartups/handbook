@@ -337,7 +337,7 @@ For more detailed answer, see [self-managed release timelines](/handbook/enginee
 ### When will my merge request be deployed?
 
 We currently create an auto-deployment branch at a [specific
-timeline](/handbook/engineering/releases/index.html#gitlabcom-releases-1).
+timeline](/handbook/engineering/releases/index.html#gitlabcom-releases-1). It is not uncommon for this process to take 12 or more hours.
 
 For a merge request with [a specific
 label](/handbook/engineering/releases/index.html#gitlabcom-releases-2), the
