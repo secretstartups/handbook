@@ -285,17 +285,22 @@ In advance of a quarter, the Corporate Team will outline for the GTM Motions an 
 
 Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
 
-A core need from the GTM Team is to develop a **cohesive** experience from the first email invitation to the final email follow up and SDR outreach.
+A core need from the GTM Team is to develop IN ADVANCE a **cohesive** experience from the first email invitation or ad, to the final email follow up and SDR outreach.
+
+These events are a great opportunity to test new messaging, discuss new product features and functionality, and share feedback across the teams to implement to overall marketing strategy and messaging as relevant. In some cases, we will have messaging that worked well in the past that we want to leverage again, and review and revise as needed.
 
 **Responsibilities: Produt Marketing**
-* Write cohesive event-specific messaging and positioning across event (emails, ads, booth, etc.)
-* Consult on tactics to target our efforts to right personas and segements
-* Write email copy
+* Write cohesive event-specific messaging and positioning across event (emails, landing pages, ads, booth, promotional assets, etc.)
+* Consult on topics, content, and activities at the event to engage the right personas and segements
+   - example: for AWS re:Invent, PMM define the target personas, and suggest activities and topics to engage those personas
+* Review email and landing page copy for technical accuracy and consistent messaging/positioning
+* 60 second pitch (in collaboration with TMM)
 * Recruit speakers for sponsored speaking sessions
 * Outline virtual booth content
 * Define survey questions, when necessary for virtual booths
 
 **Responsibilities: Campaigns Team**
+* Email communication and invitation strategy 
 * Review email communications, including invitations and follow up, for conversion best practices (subject lines, format, CTAs, design)
 * Define follow up strategy via lead nurturing to heat up to MQL
 * (Verticurl Agency) Tactical email setup in Marketo
@@ -303,11 +308,30 @@ A core need from the GTM Team is to develop a **cohesive** experience from the f
 
 **Responsibilities: Technical Marketing**
 * Contribute to content to be used in virtual booth
+* Define demo for booth
+* 60 second pitch (in collaboration with PMM)
+
+**Responsibilities: Digital Marketing & ABM**
+* Digital Marketing: Digital Ads Strategy (Paid Search, Paid Social)
+* ABM: Demandbase ABM targeting
+   - For design isssue, is that opened by ABM
+
+**Responsibilities: Brand**
+* Support design and collateral needs
+* Confirm cohesive brand experience throughout experience (from ads, to landing pages, to emails, etc.)
+
+**Responsibilities: Content Marketing**
+* Write email copy, aligned to overall messaging
 
 **Responsibilities: Marketing Operations**
 * Advise on Marketo program type when questions arise (taking into account scoring and program progression statuses)
 * List upload(s) to Marketo programs
 * Confirm Last Interesting Moments trigger appropriately, and leads increase in score based on automated scoring model
+* (Verticurl Agency) Tactical setup of Marketo program and Salesforce
+* Setting up Drift chatbot and tracking to set meetings in advance
+* In-booth meeting setting processes
+* Landing page setup (or digital experience?)
+   - updated process needs to be defined
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
