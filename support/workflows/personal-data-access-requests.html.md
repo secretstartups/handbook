@@ -8,4 +8,4 @@ description: >-
   data
 ---
 
-This page has been moved. Please see the [Personal Data Access and Account Deletion](handbook/support/workflows/personal_data_access_account_deletion.html) page.
+This page has been moved. Please see the [Personal Data Access and Account Deletion](/handbook/support/workflows/personal_data_access_account_deletion.html) page.
