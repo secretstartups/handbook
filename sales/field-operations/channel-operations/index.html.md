@@ -26,6 +26,7 @@ With the new partner program changes that went into effect on May 3, 2021, the C
  - Colleen Farris - Director, Channel Operations
  - Emily Murphy  - Manager, Alliance Operations
  - Kim Stagg - Manager, Channel Operations
+ - Niles Jamshaid - Manager, Sales Operations
  - Dennis Zeissner - Associate Partner Operations Analyst
  
 ### How to Contact Us
@@ -167,6 +168,34 @@ Only GitLab-authorized partners with at least one sales certification are able t
 
 _For more details on Partner Engagement definitions go [here](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-engagement-types)._
 
+
+## Channel Reporting and Tagging
+![Reporting_Tagging_Matrix_FY22Q2](/handbook/sales/field-operations/channel-operations/images/Reporting_Tagging_Matrix_FY22Q2.png)
+
+### Definitions
+1. _Deal Path_: How the deal is transacted. Values can be Channel, Direct, or Web. Also, includes Referral Ops for Channel.
+2. _Deal Reg_: Partner submits a registration for their opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved.
+3. _Initial Source_: SFDC Lead value that is populated based on lead source. Will default to CQL when a Partner submits a Deal Reg and an Opportunity does not already exist in the system.
+4. _SQS_: Who converts/creates the Opportunity in SFDC. **Can only be one value**.
+5. _DR - Partner Engagement_: Partner value on the deal via the Partner Program definitions. This is manually selected in most cases.
+6. _Order Type_: Customer order designation in SFDC. New First Order or Growth.
+
+
+### Use Cases
+
+1. **1 and 3**
+    *   Channel submits Deal Reg and no Opportunity exists in the system. Therefore the Initial source is CQL, and SQS and DR-Partner Engagement default to Channel and Partner Sourced.
+        *   This applies to both New and Growth orders.
+2. **2 and 4** 
+    *   AE Creates Opportunity prior to Deal Reg being submitted - **CAM to escalate for exception**.
+    *   Opportunity stalled and Channel helps to drive to closure - **If channel is simply unsticking an open opp then this is technically Assist. Exceptions can be reviewed**.
+    *   Aged opportunities that are closed and revived due to Channel - **Automated clean up with Sales Ops stale Opp policy** **- Exception:** In the event an exception is needed per the scenarios below and exception can be submitted for review and have the ability “override” and restate these are Channel SQS.
+
+### Default Logic
+1. `Deal Reg = True` and no Opp Exists then `Initial Source = CQL` > `SQS = Channel`, defaults to Partner Sourced.
+2. Alliances: Does not have same logic and currently need to be reported separately.
+
+
 ## Deal Registration
 
 ### Rules of Engagement for Deal Registration
@@ -306,35 +335,31 @@ For more information on quoting or the Partner Program, please visit:
 *   [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts)
 
 
+### Channel Tagging for PubSec FSI Deals - Temporary Exception Process 
+_Effective Q2 FY22_
 
-## Channel Reporting and Tagging
-![Reporting_Tagging_Matrix_FY22Q2](/handbook/sales/field-operations/channel-operations/images/Reporting_Tagging_Matrix_FY22Q2.png)
+This process is specifically designed to recognize FSI Assist opportunities only, that eventually require fulfillment quotes to transact.
 
-### Definitions
-1. _Deal Path_: How the deal is transacted. Values can be Channel, Direct, or Web. Also, includes Referral Ops for Channel.
-2. _Deal Reg_: Partner submits a registration for their opportunity via the Partner Portal. For the purposes of this matrix the assumption is the Deal Reg is approved.
-3. _Initial Source_: SFDC Lead value that is populated based on lead source. Will default to CQL when a Partner submits a Deal Reg and an Opportunity does not already exist in the system.
-4. _SQS_: Who converts/creates the Opportunity in SFDC. **Can only be one value**.
-5. _DR - Partner Engagement_: Partner value on the deal via the Partner Program definitions. This is manually selected in most cases.
-6. _Order Type_: Customer order designation in SFDC. New First Order or Growth.
+In the event an FSI provides Assistance on a deal (per the GitLab Partner Program definition of Assist) then the following tagging on the PubSec Opp can apply. An FSI is a Federal System Integrator and can be identified as part of their Account Record in SFDC.
 
+ - DR - Partner = FSI Partner Account 
+ - DR - Partner Deal Type = Resale
+ - DR - Partner Engagement = Assist
+ - Distributor = [Carahsoft Technology Corporation](https://gitlab.my.salesforce.com/0014M00001ilpft)
+ - Fulfillment Partner = Reseller Partner Account Transacting the Opportunity through Carahsoft Technology Corporation
+ - Channel Manager = Account Owner of the FSI Partner Account
 
-### Use Cases
+![PubSec_DR_Example](/handbook/sales/field-operations/channel-operations/images/PubSec_DR_Example.jpg)
 
-1. **1 and 3**
-    *   Channel submits Deal Reg and no Opportunity exists in the system. Therefore the Initial source is CQL, and SQS and DR-Partner Engagement default to Channel and Partner Sourced.
-        *   This applies to both New and Growth orders.
-2. **2 and 4** 
-    *   AE Creates Opportunity prior to Deal Reg being submitted - **CAM to escalate for exception**.
-    *   Opportunity stalled and Channel helps to drive to closure - **If channel is simply unsticking an open opp then this is technically Assist. Exceptions can be reviewed**.
-    *   Aged opportunities that are closed and revived due to Channel - **Automated clean up with Sales Ops stale Opp policy** **- Exception:** In the event an exception is needed per the scenarios below and exception can be submitted for review and have the ability “override” and restate these are Channel SQS.
+The expectation is that the Quote will receive the Partner Program “Fulfilment” discount instead of the standard Assist discount. Since the Opportunity is tagged as Assist, this will trigger Channel Approvals on these quotes. The following comments should be added to the note section on the approval by the PubSec Channel Director:
 
-### Default Logic
-1. `Deal Reg = True` and no Opp Exists then `Initial Source = CQL` > `SQS = Channel`, defaults to Partner Sourced.
-2. Alliances: Does not have same logic and currently need to be reported separately.
+_“Discount exception approved due to interim FSI process”_
 
+Since PubSec does not qualify for Comp Neutral, comp neutral calculations will not be impacted.
 
+Expectation is that the FSI account owner will receive quota retirement and comp on these Opportunities against their Assist component of their plan. Regional bookings will apply to the Fulfillment Partner owner/rest of the PubSec Channel team. 
 
+For any questions, please reach out to #pub-sec-channels.
 
 
 
