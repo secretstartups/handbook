@@ -46,8 +46,15 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - [Assessing Candidates](https://youtu.be/OZMqIdrnaEg) (10 minutes, GitLab internal only)
 
 ### What is a High Performing Team
-- Please complete Module 1 of the [Q2 Field Manager Development Program pre-work journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-05-24
+- Pre-work: Module 1 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Building High Performing Teams ([slides](https://docs.google.com/presentation/d/1xEgyPMxNFL7VU5jyGb_-tVykCSNNjpsSh1of6osBq5U/edit?usp=sharing)) (GitLab internal only)
+- Welcome ([8am PT Ryan O'Nell edition](https://youtu.be/kNa5eJqLHOM)) (6 minutes) | ([2pm PT Michael McBride edition](https://youtu.be/_3-rdrjAZ2I)) (7.5 minutes)
+- [Field Manager Spotlight: High Performing vs. Low Performing Teams featuring Helen Mason](https://youtu.be/FA3rrxmZVS0) (4 minutes, GitLab internal only)
+- [Breakout Exercise: High Performing vs. Low Performing Teams](https://youtu.be/5k6uxPKOzgk) (3 minutes)
+- [Drexler-Sibbet Team Performance Model Overview](https://youtu.be/EN2clCFoBJk) (3 minutes)
+- [Breakout Exercise: Drexler-Sibbet Team Performance Model Stages 1-4](https://youtu.be/vWShPg_lpro) (18.5 minutes)
+- [Breakout Exercise: Drexler-Sibbet Team Performance Model Stages 5-7](https://youtu.be/4H2wQ8UnFjk) (4 minutes)
+- Key Take-Aways ([8am PT session](https://youtu.be/XnLz-vG5iIo)) (4.5 minutes) | ([2pm PT session](https://youtu.be/E3OG6w-wWLQ) (5.5 minutes))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gB5Yfz_MaqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
