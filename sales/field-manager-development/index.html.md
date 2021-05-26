@@ -22,7 +22,7 @@ All people managers in the GitLab field organization
 Managers will participate in a series of quarterly training & reinforcement exercises throughout FY22. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action.
 - **Q1FY22** (2021-03-22): Program Launch & Recruiting Top Talent (virtual)
 - **Q2FY22** (2021-05-24, 2021-05-26, and 2021-06-02): Field Manager Challenge (virtual)
-- **Q3FY22** (2021-09-18): Field Manager Summit (in-person at Contribute)
+- **Q3FY22** (2021-09-18): Field Manager Summit (in-person at Contribute) ([see the FAQs here](https://web.cvent.com/event/aa9c9e95-4dda-4eea-91ec-a1ebecf42e8b/websitePage:8147b15f-0e1c-4daa-93dc-bb71dc089b09))
 
 ## Topics
 This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
