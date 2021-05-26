@@ -52,7 +52,7 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) to see the full list of your accounts. Once on the C360, 
+Use the [Product Usage - Customer Analytics](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) Dashboard to see the full list of your accounts. Once on the C360, 
 
 
 | Report Name | Description | Application |
