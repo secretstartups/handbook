@@ -32,6 +32,17 @@ GitLab Solutions Architects conduct hands-on workshops as interactive events for
 
 RFx's such as RFI and RFP are common steps in the public sector yet it may be required by enterprise customers to assess, evaluate and procure the software. Solution architects often participate in the RFP process responding to the technical asks and solutions requirements. Information on responding to the RFx can be found on the [RFI/RFP](/handbook/customer-success/solutions-architects/tools-and-resources/rfp) page.
 
+### CS Knowledge Base
+
+[The Customer Success Knowledge Base](https://gitlab.com/gitlab-com/customer-success/solutions-architecture/sa-knowledge-base) is a private project for use primarily by Customer Success to capture important information that we research, discover, or otherwise stumble upon so that it can be reused in the future in responses to customer questions or RFI/RFPs. 
+
+New KB Articles can be added to the project by:
+
+- Creating a new issue directly from the project
+- Reacting to a Slack post in \#cs-questions or \#solutions-architects with the :kb: ![image-2.png](./image-2.png) emoji which will trigger a workflow that
+    - prompts the user with a Slack form to provide a title for the KB issue entry. This needs to be completed within 1 minute
+    - creates a KB Article in the CS Knowlege Base project and then posts a link to the issue in the Slack thread
+
 ### Product Releases
 
 Solution architects have to keep up the pace of the GitLab monthly product releases to position feature sets and capabilities for the prospect and customer needs while demostrating the market leading position. 
