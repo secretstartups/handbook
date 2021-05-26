@@ -34,6 +34,25 @@ The epic code in each section below outlines the necessary issues to open in ord
     * [On-Demand Webcasts](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/)
 * **[Content syndication](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/content-syndication)** (under Digital Marketing): We have promoted our content through a third-party vendor, but do not drive people back to our website. In these cases, we often have given them the resource to make available for download to their audience, and recieve the leads to be uploaded.
 
+## How to pick content for campaigns
+
+**Search the entire Pathfactory Content Library**
+
+https://gitlab.lookbookhq.com/authoring/content-library/content
+
+Filter by one or multiple of the following:
+- Topic
+- Content Type
+- Funnel Stage
+- GTM Motion (Business Unit in Pathfactory)
+- Language
+
+**View reports to see what works**
+
+* **Key metric to analyze: Engagement Time**
+   - *"Why not total views?"* Engagement time is a better indicator of content effectiveness than views, which can be a self-fulfilling prophesy; the more views, the more it is used, the more it continues to climb in comparison to other content. 
+
+
 ## Ungated Content Journeys
 {: #ungated-content-journeys .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -107,7 +126,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 /label ~"Content Marketing" ~"Gated Content" ~"mktg-demandgen" ~"dg-campaigns" ~"mktg-status::wip"
 ```
 
-### External Content Content (i.e. Analyst Relations)
+### External Content (i.e. Analyst Relations)
 {: #ungated-external-content}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 External content can be sourced from Analyst Relations, partners, and other vendors with whom we work. Some examples would be vendor comparisons (i.e. Gartner/Forrester) or industry/market analyses (i.e. DevOps Institute).
