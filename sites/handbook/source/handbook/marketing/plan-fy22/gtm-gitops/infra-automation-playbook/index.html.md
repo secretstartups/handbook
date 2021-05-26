@@ -38,7 +38,7 @@ The persona interested in GitOps is in general different from your development o
 
 More details [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#personas)
 
-### Keywords to hear
+### Keywords to listen for
 {: .alert .alert-gitlab-orange}
 
 | Infrastructure as code | GitOps | Infrastructure automation |
