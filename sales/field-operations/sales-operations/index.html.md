@@ -548,6 +548,15 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 </details>
 
+<details>
+<summary markdown='span'>Sales Operations Reports and Dashboards </summary>
+
+1. [Master SFDC Users Report](https://gitlab.my.salesforce.com/00O61000004IiCF)
+2. [Sales Opeartions Cleanup Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skZj)
+3. [Sales Admin Opps Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM)
+
+</details>
+
 ## **Sales Operations Go To Market**
 
 ### **Ownership & Order Type Rules of Engagement**
