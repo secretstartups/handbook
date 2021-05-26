@@ -28,17 +28,6 @@ Users requesting deletion are required to confirm their intent to delete at the 
 
 An issue in our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project *will be created* for invalid requests, however all invalid requests will have `Invalid request received` in the title of the issue, and are scheduled to automatically close. No action is required for these issues.
 
-The overall flow of this process will look like the following:
-
-```mermaid:
-graph TD
-
-A[User submits request]-->B[Processor validates username/email]
-B-->C[Checks don't pass]
-C-->D[Request is denied and closed]
-B-->E[New issue is opened]
-```
-
 ## Example Requests
 
 Examples of personal requests that you may receive (based on the request type) are below.
