@@ -96,12 +96,12 @@ ADD IMAGE 3
 
 Anytime you are challenged for a 2FA verification code, just launch your authenticator and enter the latest code.
 
-## How to Create a Free-Form Requisition
+### How to Create a Free-Form Requisition
 
 ADD IMAGE 4
 
-1. A Requestor clicks on the ‘Write’ button on the homepage.
-1. Complete the “write” screen with following information:
+- A Requestor clicks on the ‘Write’ button on the homepage.
+- Complete the “write” screen with following information:
    - a) Item Description **(required)**
    - b) Choose if Amt or Qty **(required)**
    - c) Supplier **(required)**
@@ -121,10 +121,38 @@ ADD IMAGE 4
 
 ADD IMAGE 5
 
-1. Click Add to Cart once completed. You can add more items by repeating Step 2.
-1. Once a requester clicks on ‘Add to Cart’, they can review it by clicking on the ‘Cart’ button at the top of the page.
+- Click Add to Cart once completed. You can add more items by repeating Step 2.
+- Once a requester clicks on ‘Add to Cart’, they can review it by clicking on the ‘Cart’ button at the top of the page.
 
+ADD IMAGE 6
 
+- After clicking Review Cart, the requestor will be directed to the ‘Review Cart’ screen and all the cart details will be displayed. (This is your Purchase Request form that will be flipped into an Order when approved). _In the review cart screen a requestor can review and edit cart details as required_
+
+**HEADER LEVEL**
+- a) On Behalf Of (optional. Use this to create a request on behalf of another user).
+- b) Description of Purchase (optional).
+- c) Hide Price (optional. To hide PO price from the Vendor).
+- d) Attachments Unsigned Contract, Previous Contracts, and Security Document (required).
+- e) Vendor has access to red/orange data? (required).
+- f) Vendor’s Security Contact Email (optional).
+- g) Address (required. Click on the magnifying glass icon to select an address).
+- h) Attention (defaults from the User record).
+
+ADD IMAGE 7
+
+**LINE LEVEL**
+- Line Item - click on this section to launch the edit mode. Update line details as needed.
+- Greyed-out fields are non-editable.
+- Fields marked with a red asterisk are required fields.
+- Click Save to apply the changes.
+
+ADD IMAGE 8
+
+#### Approvals
+
+Once all the required information including the billing string is populated on the cart, based on the system approval rules, the applicable approvers are displayed beneath the cart line. _The greater the amount of the requisition, the more approvers will be needed._
+
+ADD IMAGE 9
 
 
 {::options parse_block_html="false" /}
