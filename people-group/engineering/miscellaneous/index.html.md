@@ -34,7 +34,7 @@ Once per day, closed issues in the [training project](https://gitlab.com/gitlab-
 
 ## Letter of employment
 
-Every 15 minutes, a scheduled job checks the letter of employment requests spreadsheet for new entries. For each entry, a letter of employment will be generated using the team member's BambooHR data. The letter is then sent directly to the team member.
+Every 15 minutes, a scheduled job checks the letter of employment requests spreadsheet for new entries. For each entry, a letter of employment will be generated using the team member's BambooHR data. The letter is then sent directly to the team member's work email address.
 
 ## CXC contract renewal email
 
