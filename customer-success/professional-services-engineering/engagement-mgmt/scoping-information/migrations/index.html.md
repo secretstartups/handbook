@@ -52,7 +52,7 @@ This page describes scoping migrations from one GitLab source to another or from
 - Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
 
 ## Bitbucket Source 
-_Note: A project on bitbucket is equivalent to a GitLab group. A Repository on Bitbucket is equivalent to a GitLab project.
+_Note: A project on bitbucket is equivalent to a GitLab group. A Repository on Bitbucket is equivalent to a GitLab project._
 
 ### Bitbucket Server to GitLab Self Managed
 - Theoretically, migrations with this pair of source/destination should be able to be scaled as high as GHE to GL Self Managed. Its safe to increase the projects per wave to 1,000. 
@@ -73,8 +73,14 @@ _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on B
 - GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
 - Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
 
+## Other git based SCMs
+- We can support these customers by using the "bare git" method of migration. This is done through the [Import repo by URL UI](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) or command line using `git push -u. 
+- The customer should provide a list of git urls to iterate over to support the migration. 
+- Data elements outside of the git envelope (e.g. pull request comments, user membership, etc.) will not be migrated. Only git data elements (e.g. branches, commits, files, tags, etc.) will be migrated. 
 
-
+## Non-git based SCMs
+- For sources like CSV, ClearCase, SVN, TFVC we can support non automated migration but there is risk that should be factored into these engagements as we dont have deep experience with these source systems. Consider working with a channel partner to find expertise in these source systems. 
+- Ensure the customer has researched and thought about how their projects will be organized on the destination gitlab system. Often times during the initial transformation from non-git SCM to git scm, there will be splitting of a single trunk of source code to multiple git repositories. 
 
 
 ## Common customer requests
