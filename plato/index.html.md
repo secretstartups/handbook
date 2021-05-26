@@ -10,14 +10,16 @@ For more information on mentoring best practice, visit [Mentoring](/handbook/eng
 
 ## How does it work?
 
-1. A GitLab Team Member is recommended by their Manager to participate in the program.
-2. All Mentees are invited to a KickOff Meeting with Plato
-3. Mentees select one Mentor after viewing three Mentor Plato Profiles while on a Plato Call 
-4. Plato sets up the framework / software to support the Mentoring Relationship
+1. A GitLab Team Member is recommended by their Manager to participate in the program or can reach out to [Roos Takken](https://about.gitlab.com/company/team/#rtakken) if they are interested in participating.
+1. Currently there are 10 seats with Plato. If all filled we will be working with a waiting list for admission. Also team members can leverage their [Growth and Development budget](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) to enroll with Plato. 
+1. All Mentees are invited to a KickOff Meeting with Plato
+1. Mentees select one Mentor after viewing three Mentor Plato Profiles while on a Plato Call 
+1. Plato sets up the framework / software to support the Mentoring Relationship
      * Plato schedules meetings and Zoom sessions (that are recorded) 
      * Plato invites Mentees to Seminars where you hear guest speakers from other companies
-5. Mentees and Mentors meet (average meeting time is 30 minutes) on a regular cadence (typically bi-weekly) based on their preferences
-6. Mentees create all of the Agenda and are the main drivers of the relationship
+1. Mentees and Mentors meet (average meeting time is 30 minutes) on a regular cadence (typically twice monthly) based on their preferences
+1. Mentees create all of the Agenda and are the main drivers of the relationship
+1. If at any point the team member doesn't want to participate anymore they can send an email to Jean-Baptiste Coger of Plato and CC [Roos Takken](https://about.gitlab.com/company/team/#rtakken) to start the offboarding. 
 
 ## Benefits
 
