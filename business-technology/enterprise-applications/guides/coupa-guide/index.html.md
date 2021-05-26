@@ -63,12 +63,12 @@ Account Name contains a number of options related to managing your account in Co
 
 - **Activity**: Displays all of your previous requisitions, related orders, receipts, and invoices.
    - In each transactional tab, you can perform the following:
-      - 1. **View**: allows you to quickly apply sets of filters to display reports such as all requisitions, requisitions requiring receipt, draft requisitions, and a number of other pre built reports, along with option of creating custom reports.
-      - 2. **Report Scheduling**: allows to set up recurring reports that are emailed to recipients on a regular basis (can be daily, weekly, or monthly).
-      - 3. **Advanced**: allows to apply a filter or set of filters to the list of requisitions.
-      - 4. **Search**: allows to quickly search all fields on a requisition for a match.
-      - 5. **Export**: allows downloading a report in CSV or Excel format based on the current filters applied to the list of requisitions.
-      - 6. **Actions**: the icons next to each requisition allow you to edit, copy, cancel, withdraw, and resend requisitions.
+      - 1) **View**: allows you to quickly apply sets of filters to display reports such as all requisitions, requisitions requiring receipt, draft requisitions, and a number of other pre built reports, along with option of creating custom reports.
+      - 2) **Report Scheduling**: allows to set up recurring reports that are emailed to recipients on a regular basis (can be daily, weekly, or monthly).
+      - 3) **Advanced**: allows to apply a filter or set of filters to the list of requisitions.
+      - 4) **Search**: allows to quickly search all fields on a requisition for a match.
+      - 5) **Export**: allows downloading a report in CSV or Excel format based on the current filters applied to the list of requisitions.
+      - 6) **Actions**: the icons next to each requisition allow you to edit, copy, cancel, withdraw, and resend requisitions.
 
 ADD IMAGE 3
 
@@ -97,6 +97,32 @@ ADD IMAGE 3
 Anytime you are challenged for a 2FA verification code, just launch your authenticator and enter the latest code.
 
 ## How to Create a Free-Form Requisition
+
+ADD IMAGE 4
+
+1. A Requestor clicks on the ‘Write’ button on the homepage.
+1. Complete the “write” screen with following information:
+   - a) Item Description **(required)**
+   - b) Choose if Amt or Qty **(required)**
+   - c) Supplier **(required)**
+   - d) Commodity **(required)**
+   - e) Unit Price **(required)**
+   - f) Currency **(required)**
+   - g) Qty **(required if Qty-based)**
+   - h) UOM **(required if Qty-based)**
+   - i) Need by **(optional)**
+   - j) Supplier Part Number **(optional)**
+   - k) Manufacturer Name **(optional)**
+   - l) Manufacturer Part Number **(optional)**
+   - m) Service Start Date **(optional)**
+   - n) Service End Date **(optional)**
+   - o) Attachments **(optional)**
+   - p) Write Multiple Request – tick this box if you will create multiple lines
+
+ADD IMAGE 5
+
+1. Click Add to Cart once completed. You can add more items by repeating Step 2.
+1. Once a requester clicks on ‘Add to Cart’, they can review it by clicking on the ‘Cart’ button at the top of the page.
 
 
 
