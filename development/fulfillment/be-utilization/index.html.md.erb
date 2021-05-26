@@ -101,22 +101,22 @@ When going out of office, please be sure to [clearly communicate](https://about.
 - [13.8 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/139)
 - [13.9 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/149)
 
-## Exception Triage
+## Triage
 
 ### Potential list of places to check
 
-The following lists are links to Sentry and other tools where we proactively triage exception reports.
+The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems
 
 **CustomersDot:**
 
-1. `UpdateGitlabPlanInfoWorker` errors (syncing between CD -> GL) - [Sentry link](https://sentry.gitlab.net/gitlab/customersgitlabcom/?query=is%3Aunresolved+UpdateGitlabPlanInfoWorker)
-
-**GitLab:**
-
-1. Subscription related errors - [Sentry link](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+subscription) - could be further filtered by `SubscriptionsController` maybe?
-1. Billing related errors - [Sentry link](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+billing) - again, could be further narrowed down to the various `BillingsController`? (`Groups::`, `Projects::`)
-1. Utilization feature category logs over the last 7 days - [Rails Kibana link](https://log.gprd.gitlab.net/goto/c97cd8d278b9cae18c8588c85a82a2d6) , [Sidekiq Kibana link](https://log.gprd.gitlab.net/goto/7fe39288bc23a368ddbec6ed369c3ab2)
-1. Billable Member API endpoints - [Grafana dashboard link](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1)
+| Subject | Link | Notes |
+| - | - | - |
+| CustomersDot syncing | [Sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/?query=is%3Aunresolved+UpdateGitlabPlanInfoWorker) | `UpdateGitlabPlanInfoWorker` class is used to sync data between CustomersDot and GitLab |
+| GitLab Subscriptions | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+subscription) | Results could be refined by controller, e.g. `SubscriptionsController` |
+| Billing errors | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+billing) | Results could be further refined by controller, e.g. `Groups::BillingsController`, `Projects::BillingsController` |
+| Rails logs | [Kibana](https://log.gprd.gitlab.net/goto/c97cd8d278b9cae18c8588c85a82a2d6) | Utilization feature category Rails logs for the last 7 days |
+| Sidekiq logs | [Kibana](https://log.gprd.gitlab.net/goto/7fe39288bc23a368ddbec6ed369c3ab2) | Utilization feature category Sidekiq logs for the last 7 days |
+| Billable Member API | [Grafana dashboard](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1) | - |
 
 ### Creating an issue direct from Sentry
 
@@ -128,7 +128,7 @@ See links in the right sidebar:
 
 ![](./sentry_issue_creator.png)
 
-Although unhelpfully labelled, the first link is for creating an issue _in the security repo_, the **second should be for the project** (CustomersDot/GitLab) accordingly.
+Although both links look the same, the first link is for creating an issue _in the security repo_, the **second should be for the project** (CustomersDot/GitLab) accordingly.
 
 ## Performance Indicators
 
