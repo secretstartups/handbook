@@ -467,8 +467,9 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation.
-In many cases, shadows may not understand fully what is being discussed. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. When you do not understand what it is being said, pause to listen and avoid documenting incorrect information. **CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** 
+The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. The notes taken by the shadows are not reviewed by the attendees.
+
+In many cases, shadows may not understand fully what is being discussed, and have in the past documented the opposite of what was said. When you do not understand what is being said, pause to listen to try to avoid documenting incorrect information. **CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** 
 If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 CEO Shadows are not always the DRI for notes and everyone can contribute to taking notes when in a meeting.
 
@@ -481,7 +482,7 @@ Tips:
 1. Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
 1. If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
 1. It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
-1. Sometimes people will provide some color or context before providing the main point. Consider listening to the first setence before documenting to ensure you are capturing main points instead of what they are saying verbatim.
+1. Sometimes people will provide some color or context before providing the main point. Consider listening to the first sentence before documenting to ensure you are capturing main points instead of what they are saying verbatim.
 1. Observe how Sid takes notes as a guide to the level of detail and summarization.
 
 ##### Keeping time
