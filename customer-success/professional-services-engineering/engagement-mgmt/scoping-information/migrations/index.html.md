@@ -27,7 +27,8 @@ This page describes scoping migrations from one GitLab source to another or from
    - [saas_security_configuration_remote](https://gitlab.com/services-calculator/services-calculator.gitlab.io/-/blob/master/public/resources/sow-activites.yml#L2309)
 - see [TEMPLATE Professional Services Presentation](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) for a summary of our migration approach and which features get migrated or not.  This also includes a description of our SaaS Discovery, SSO configuration and Security configuration activities, which we often add for new SaaS customers.
 
-## GitHub Enterprise to GitLab Self Managed
+## GitHub Source 
+### GitHub Enterprise to GitLab Self Managed
 - This is one of our strongest combinations of source and destination systems. We have migrated 7,000+ projects per wave in our best case. 
 - If minimizing the transition period is a concern, we will want to maximize the number of projects per wave.
     - To do this, we need to have full control over the GitHub API Rate limit setting.
@@ -36,19 +37,44 @@ This page describes scoping migrations from one GitLab source to another or from
 - Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.  
 - GitLab self managed should be on 13.7+ or later to take advantage of an API change that allows us to specify a specific github hostname in the import call (rather than defaulting to github.com). 
 
-## GitHub Enterprise to GitLab SaaS
+### GitHub Enterprise to GitLab SaaS
 - The destination system rate limit will be the limiting factor in these migrations. We have no control over gitlab.com rate limit so these will need to be scoped at 200-300 per wave. 
 - GitLab self managed should be on 13.7+ or later to take advantage of an API change that allows us to specify a specific github hostname in the import call (rather than defaulting to github.com). 
+- Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
 
-## Github.com to GitLab Self Managed
+### Github.com to GitLab Self Managed
 - The Github.com API rate limit is very low per user so we workaround by using multiple userIDs provided by the customer. 
 - The total projects migrated per day should not exceed 200 until we deliver this to a customer at scale. We've done it at small scale in terms of number of projects. But some of those projects were gigantic (70K+ Pull Requests).
 - Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
-   
+
+### Github.com to GitLab SaaS
+- We are limited by both the source and destination system rate limits. 
+- Make sure the customer acknowledges that they need to have email addresses public, not private for any migration to work properly.
+
+## Bitbucket Source 
+_Note: A project on bitbucket is equivalent to a GitLab group. A Repository on Bitbucket is equivalent to a GitLab project.
+
+### Bitbucket Server to GitLab Self Managed
+- Theoretically, migrations with this pair of source/destination should be able to be scaled as high as GHE to GL Self Managed. Its safe to increase the projects per wave to 1,000. 
+- If minimizing the transition period is a concern, we will want to maximize the number of projects per wave.
+   - To do this, we need to have full control over the BitBucket API Rate limit setting.
+   - We also want to ensure there is a strong enough network connection between the GHE and GitLab SM instance to support moving the data. We don't have a hard number, but ask them about moving hundreds of GB over a few hours across lots of connections. Their network team should be able to answer.
+- If the customer wants to reorganize their groups/project structure, we can support this (see below common customer requests).
+
+### Bitbucket Cloud to GitLab Self Managed
+- GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
+- Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
+
+### Bitbucket Server to GitLab SaaS
+- We will be limited by the rate limit on GitLab SaaS, which is why our scoping is low (e.g. 200 projects per wave)
 
 
-## Github.com to GitLab SaaS
-- We are limited by both the source and destination system rate limits
+### Bitbucket Cloud to GitLab SaaS
+- GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
+- Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
+
+
+
 
 
 ## Common customer requests
