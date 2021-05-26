@@ -39,7 +39,7 @@ RFx's such as RFI and RFP are common steps in the public sector yet it may be re
 New KB Articles can be added to the project by:
 
 - Creating a new issue directly from the project
-- Reacting to a Slack post in \#cs-questions or \#solutions-architects with the :kb: ![image-2.png](./image-2.png) emoji which will trigger a workflow that
+- Reacting to a Slack post in \#cs-questions or \#solutions-architects with the :kb: ![kb.jpg](./kb.jpg) emoji which will trigger a workflow that
     - prompts the user with a Slack form to provide a title for the KB issue entry. This needs to be completed within 1 minute
     - creates a KB Article in the CS Knowlege Base project and then posts a link to the issue in the Slack thread
 
