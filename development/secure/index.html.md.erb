@@ -201,6 +201,8 @@ _Examples of previous brainstorming topics:_
 
 #### Secure Architectural Council (Slack [#s_secure-architectural-council](https://gitlab.slack.com/archives/C012RKVK231))
 
+[Snippet to use in issues](https://gitlab.com/gitlab-com/www-gitlab-com/-/snippets/2126492).
+
 In order to help the Sec section come to resolution on defining approaches to section-wide issues,
 we have formed an Architectural Council. This group comprises tech leads (and SMEs to provide context)
 in order to keep the team small and nimble. The group is a non-authoritative, supportive group whose members provide representative insights from their respective teams.
@@ -256,59 +258,19 @@ The table below captures characteristics (requirements?) of work that is in-scop
 
 GitLab’s Stance for Architectural issues: https://about.gitlab.com/handbook/engineering/architecture/
 
-##### Architectural Support Paste
-
-<details>
-
-<summary>Issue snippet template for requesting architectural support</summary>
-
-```
-## Architectural Support
-
-* Reminder: 72-hour SLA
-* Due Date: FILL_ME_IN
-* DRI: FILL_ME_IN
-
-### [Scope Checklist](https://docs.google.com/document/d/1rduPR6P0lJzs0C3AO5jnFNvDV2n9e2cL4k_Pk7Bj_LI/edit#heading=h.cubrh02gcoq7)
-
-* [ ] Does not involve architectural decisions
-* [ ] Is after-the-fact
-* [ ] Is not already covered by architecture guidelines/handbook
-* [ ] Has a broad impact within #secure
-* [ ] Is a new unit of work
-* [ ] Is strictly #secure
-* [ ] Could not come to an agreement (escalation)
-* [ ] Involves architectural decisions
-
-See the scope scoring table below to interpret the checkboxes above
-
-<details>
-<summary>Scope Scoring Table</summary>
-
-| Reason                                                     |  in | opt-in | out |
-|------------------------------------------------------------|:---:|:------:|:---:|
-| Does not involve architectural decisions                   |     |        | :x: |
-| Is after-the-fact                                          |     |        | :x: |
-| Is not already covered by architecture guidelines/handbook | :x: |   :x:  |     |
-| Has a broad impact within Secure                           | :x: |        |     |
-| Is a new unit of work                                      | :x: |   :x:  |     |
-| Is strictly Secure                                         | :x: |   :x:  |     |
-| Could not come to an agreement (escalation)                |     |   `?`  |     |
-| Involves architectural decisions                           | :x: |   :x:  |     |
+##### Team Representatives
 
 
-</details>
 
-### Reviewed by
-
-* [ ] @cam_swords
-* [ ] @fcatteau
-* [ ] @markrian
-* [ ] @theoretick
-* [ ] @thiagocsf
-```
-
-</details>
+| Team | Representative |
+| --- | --- |
+| [Composition Analysis](#composition-analysis) | <%= link_to_team_member('fcatteau') %>  |
+| [Container Scanning](/handbook/engineering/development/protect/) | <%= link_to_team_member('mparuszewski') %> |
+| [Dynamic Analysis](#dynamic-analysis) | <%= link_to_team_member('cam_swords') %> |
+| [Static Analysis](#static-analysis) | <%= link_to_team_member('theoretick') %>  |
+| [Analyzer Frontend](#analyzer-frontend-team) | <%= link_to_team_member('markrian') %> |
+| [Threat Insights](#threat-insights) | <%= link_to_team_member('minac') %> |
+| [Vulnerability Research](#vulnerability-research) |  |
 
 #### Product Documentation
 
