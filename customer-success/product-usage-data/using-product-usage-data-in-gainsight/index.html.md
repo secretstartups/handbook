@@ -52,7 +52,7 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) to see the full list of your accounts. Once on the C360, 
+Use the [Product Usage - Customer Analytics](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) Dashboard to see the full list of your accounts. Once on the C360, 
 
 
 | Report Name | Description | Application |
@@ -108,7 +108,7 @@ New self-managed instances come online all the time. The different types include
 
 To make sure we correctly identifying Production vs. other types, use these instructions to see a full list of instances yet to be labeled:
 
-1. Go to TAM Portfolio Dashboard
+1. Go to Product Usage Data Dashboard
 1. Filter to your name
 1. Review Hostnames under Accounts with Unknown Instance Names Report (best to click the "Maximize Report" for viewing)
    1. Optional: if you want to view hostname usage, use this dashboard and filter via Hostname to see the usage for any specific hostnames
