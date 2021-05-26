@@ -28,4 +28,10 @@ This page describes scoping migrations from one GitLab source to another or from
 - see [TEMPLATE Professional Services Presentation](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) for a summary of our migration approach and which features get migrated or not.  This also includes a description of our SaaS Discovery, SSO configuration and Security configuration activities, which we often add for new SaaS customers. 
 
 
+## Common customer requests
+### 1. Can we reorganize our projects and groups during migration?
+- In congregate, we can do this for source systems of Github Enterprise and Bitbucket. The customer must provide a `.csv` file with `source project url` and `destination parent path` to let us know where the projects will land on the destination system. Also the customer or we must create the group structure prior to a migration with this reorganization involved. There should be additional time added for new group hierarcy creation to the scope. 
+- We strongly reccommend against this for gitlab as the source and destination systems. This seems counterintuitive, but becuase gitlab has lots of other data outside of the repository structure that sits in the project/group structure that needs to be maintained, the reorganization step should not happen during the migration. If a customer MUST do this, reccommend doing it as a pre or post migration step using the UI or API to coordinate the local moves of projects and groups.
+   - This can be positioned as additional days of migration advisory time. We need to determine what this is a function of to have objective scoping.
+
 
