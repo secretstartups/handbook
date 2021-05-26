@@ -18,8 +18,8 @@ means that if team members edit that field in the file, this will result in the 
 for this is that we consider BambooHR as the single source of truth for this data. Thus team members and managers will need to
 make adjustments in BambooHR first and this will be automatically propagated in the team page entry.
 
-To determine what to fill in for the specialty, we first look at the multi-select specialty field. If there is nothing present in 
-this field, we look at the single select specialty field. 
+To determine what to fill in for the specialty, we first look at the multi-select specialty field. If there is nothing present in
+this field, we look at the single select specialty field.
 
 ## Parental leave PTO to BambooHR
 
@@ -34,7 +34,13 @@ Every week, a scheduled job queries all PTO events occurring during a ±4 week t
 
 The data team then makes a subset of this information available via Sisense to allow team members to create more accurate charts for metrics like _number of merge requests per team member over a 30-day period_.
 
-## Set closed training issues to confidential 
+## Netherlands accrual adjustments
+
+A scheduled job runs on January first and for each team member located in the Netherlands, if their `Employee Accruals` balance is negative, it is set back to 0 days.
+
+A similar scheduled job also runs on July first, but in this case, for each team member located in the Netherlands, if their `Employee Accruals` balance exceeds 10 days, it is set back to 10 days.
+
+## Set closed training issues to confidential
 
 Once per day, closed issues in the [training project](https://gitlab.com/gitlab-com/people-group/Training) are automatically marked as confidential for compliance.
 
