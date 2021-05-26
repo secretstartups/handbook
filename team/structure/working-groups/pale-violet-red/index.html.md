@@ -28,7 +28,7 @@ Certain aspects of this Working Group are [not public](https://about.gitlab.com/
 
 This Working Group has the following goals:
 
-1. Operate and develop the PaleVioletRed service (as needed)
+1. Operate and develop the PaleVioletRed service
 1. Track PaleVioletRed service workload and effectiveness
 1. Transition the service to a long term owner
 
