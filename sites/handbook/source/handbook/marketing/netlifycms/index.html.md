@@ -142,3 +142,12 @@ When a branch is published through Netlify CMS, the `cms/` branch remains in the
 
 As a stop-gap solution, we are manually deleting merged `cms/` branches at the end of every iteration cycle. 
 
+### Can I still edit content locally or via the GitLab interface?
+
+We hope the Netlify CMS integration is easy and comprehensive enough to meet all your day-to-day content editing needs. But we also understand sometimes people might prefer to edit their content locally through an IDE, or directly through the GitLab interface. 
+
+Netlify CMS is a layer on top of data that still lives in this git repository, and is still accessibile via your local environment or the GitLab interface. In many cases, the content exists as markdown files (for example, blog posts in `sites/marketing/source/blog/blog-posts`). In other cases, the content exists as a YAML file (for example, topic pages in `data/topic`). 
+
+You can determine the relevant file path to content by referencing the [Netlify CMS configuration file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/admin/config.yml). Most of our content types are [folder collections](https://www.netlifycms.org/docs/collection-types/#folder-collections). So if you check the configuration file for `folder` underneath the collection you want to edit, you'll see the path to its data files. From there, you can make edits in your IDE or the GitLab interface. 
+
+Since this manual editing is outside of the Netlify CMS formatting rules, you'll have to be mindful of formatting issues with YAML and Markdown, and may want to double check your local environment or review app before publishing changes.
