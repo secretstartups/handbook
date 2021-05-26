@@ -151,7 +151,7 @@ The event in question must pertain to a GitLab Team Member or the immediate fami
 
 Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restuarant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
 
-When expensing Team member gifts please use the tag FY21_EmployeeGiftsFlowers.
+When expensing Team member gifts please use the tag FY22_EmployeeGiftsFlowers.
 
 ### Team building Budget
 
