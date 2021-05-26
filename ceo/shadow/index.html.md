@@ -467,10 +467,11 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. The notes taken by the shadows are not reviewed by the attendees.
+The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. 
 
-In many cases, shadows may not understand fully what is being discussed, and have in the past documented the opposite of what was said. When you do not understand what is being said, pause to listen to try to avoid documenting incorrect information. **CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** 
-If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
+In many cases shadows are learning about new areas of the company, and may not understand fully what is being discussed. When you do not understand what is being said, pause to listen to try to avoid documenting incorrect information. The notes taken by shadows are not reviewed for accuracy by attendees, and have been the opposite of what was said in the past.
+
+**CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 CEO Shadows are not always the DRI for notes and everyone can contribute to taking notes when in a meeting.
 
 Tips:
