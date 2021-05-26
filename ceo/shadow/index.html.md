@@ -469,7 +469,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 
 The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. 
 
-In many cases shadows are learning about new areas of the company, and may not understand fully what is being discussed. When you do not understand what is being said, pause to listen to try to avoid documenting incorrect information. The notes taken by shadows are not reviewed for accuracy by attendees, and have been incorrect in the past.
+In many instances, when shadows are taking notes during meetings, the discussion is moving too quickly to fully or accurately capture all of the discussion points. Additionally, the shadows may not be fully aware of the full context of the discussion or familiar with certain terminology being used in the meeting. The meeting notes are also not reviewed nor approved by the meeting attendees. Accordingly, meeting notes should not be the SSOT for any meeting as they may not fully or accurately capture the discussion that was had at the meeting.
 
 **CEO Shadows are required to read [these additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit).** If a notes document is not already linked, see the [templates available here](/handbook/eba/#meeting-request-requirements).
 CEO Shadows are not always the DRI for notes and everyone can contribute to taking notes when in a meeting.
