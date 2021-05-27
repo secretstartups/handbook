@@ -719,7 +719,13 @@ To send a digital copy of an Order Form to the customer via DocuSign:
  - You will receive email notifications to your Gitlab email address when the document has been viewed, and when it has been signed. 
 2. **When the document has been fully signed, it will automatically be attached to the opportunity.** 
 
-#### Learning Resources: DocuSign University 
+#### Learning Resources:
+
+**Internal Resources:**
+- For a visual demo of GitLab’s DocuSign instance, review this [LevelUP Webinar from 2021-05-13](https://youtu.be/Dch4zaUQOeg)
+- Note: If you cannot view the video, make sure you are logged in to GitLab Unfiltered. [You can learn more about how to log in or request access to GitLab Unfiltered here!](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube)
+
+**DocuSign University:** 
 - [Send Your First Envelope](https://dsu.docebosaas.com/learn/course/620) 
 - [Configure Envelopes for Sending](https://dsu.docebosaas.com/learn/course/687/play/1849:2112/configure-envelopes-for-sending)
 - [DocuSign Support Page](https://support.docusign.com/en/home)
