@@ -15,6 +15,8 @@ description: "Our marketing team uses analtyics tools to understand how people d
 
 Our marketing team uses analtyics tools to understand how people discover and use our marketing website. The Inbound Marketing team manages the analytics implementation for our public websites, including about.gitlab.com and docs.gitlab.com. Our tools include Google Tag Manager, Google Analytics, and Google dataStudio. 
 
+If you would like direct access to these sources, please make an [Access Request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/)
+
 We use this page to document and share our process.
 
 ### Website analytics dashboards
@@ -24,18 +26,18 @@ We use Google dataStudio to create an easy to share and repeatable process for s
 When we connect data from Google Sheets everyone on the DMP team needs to able to access and edit data as needed. To accomplish this we add all Google Sheets used in dataStudio to the Shared Drive in the [dataStudio sub-folder](https://drive.google.com/drive/folders/1pO0fVLM-K0KrLNu8MWvzI-i96QXFdgeR). Be sure you only share your Google Sheets in the shared drive because dataStudio does not currently support sharing data sources from shared drives.
 
 ### Self-serve Website analytics dashboards
-* Google Analytics traffic: If you would like to check the traffic, referrals, or clicks off of a page hosted on the marketing site (about, docs, etc) just enter your page URL or URLs into the `Page` field in this dataStudio report [Page-level Google Analytics data](https://datastudio.google.com/u/0/reporting/11pNZyzJ1JEudO4jRWaX989etLLcR6wUn/page/KNqS).
-* Google Search results keywords: If you would like to check the keywords from a specific about.gitlab.com page in Google search, just enter your page URL into the `Landing Page` field in this dataStudio report [Google Search Console keyword lookup](https://datastudio.google.com/open/1No1sSsCH2EHkqPyLl-AEEQ1be3_p_kpj).
-* Google Search results pages: If you would like a list of URLs surfacing for a specific keyword surfacing for about.gitlab.com in Google search (about, docs, etc) just enter your keyword into the `Query` field in this dataStudio report [Google Search Console landing page lookup](https://datastudio.google.com/open/10Qa9AgGt11xJWaycUDfvFq1Nn714sJQq).
+* Google Analytics traffic: If you would like to check the traffic, referrals, or clicks off of a page hosted on the marketing site (about, docs, etc) just enter your page URL or URLs into the `Page` field in this dataStudio report [Page-level Google Analytics data](https://datastudio.google.com/u/0/reporting/11pNZyzJ1JEudO4jRWaX989etLLcR6wUn/page/KNqS) TODO: Update Link.
+* Google Search results keywords: If you would like to check the keywords from a specific about.gitlab.com page in Google search, just enter your page URL into the `Landing Page` field in this dataStudio report [Google Search Console keyword lookup](https://datastudio.google.com/open/1No1sSsCH2EHkqPyLl-AEEQ1be3_p_kpj) TODO: Update Link.
+* Google Search results pages: If you would like a list of URLs surfacing for a specific keyword surfacing for about.gitlab.com in Google search (about, docs, etc) just enter your keyword into the `Query` field in this dataStudio report [Google Search Console landing page lookup](https://datastudio.google.com/open/10Qa9AgGt11xJWaycUDfvFq1Nn714sJQq) TODO: Update Link.
 
 #### Active dataStudio dashboards
 
-- [Marketing metrics dashboard](https://datastudio.google.com/reporting/1mvDffnzlIWsr-2S_cvkpRx0X25hiM_TI/page/1M) — Used to generate data for our monthly marketing metrics deck. A few elements update manually, ping the Digital Marketing team in #digitalmarketing if you need updated numbers.
-- [Blog dashboard](https://datastudio.google.com/u/0/reporting/d99537bc-bdfc-475f-b545-bdbe3f885cdd/page/psGyB) — Blog content reports, primarily used by the content team to track traffic to the blog, page visits, new and returning users, and conversion.
-- [Just Commit dashboard](https://datastudio.google.com/reporting/1dbt-3WI6KzySYrnolIUfCufvvtba20f9/page/kWdQ) — Tracks progress of Just Commit integrated campaign.
-- [Job pages dashboard](https://datastudio.google.com/reporting/1w6TwUeGjkQpPZz4jvp9Hye8vdGP6MYel/page/JcPY) — Provides context around job page interactions.
-- [Security releases dashboard](https://datastudio.google.com/reporting/1bP748BOhYmgWRcfeoRiSCOHz7q4NUMkV/page/l7vj) — Website analytics data for security release blog posts.
-- [about.gitlab.com CrUX dashboard](https://datastudio.google.com/reporting/1f-akzELoGzJRdBFPgMTzgHPrSOshUgki/page/cJUR) — *Public* See [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) for definition of report dimensions. This dashboard shows CrUX data for about.gitlab.com, assembled with PageSpeed Insights and Public Google BigQuery.
+- [Marketing metrics dashboard](https://datastudio.google.com/reporting/1mvDffnzlIWsr-2S_cvkpRx0X25hiM_TI/page/1M) TODO: Update Link — Used to generate data for our monthly marketing metrics deck. A few elements update manually, ping the Digital Marketing team in #digitalmarketing if you need updated numbers.
+- [Blog dashboard](https://datastudio.google.com/u/0/reporting/d99537bc-bdfc-475f-b545-bdbe3f885cdd/page/psGyB) TODO: Update Link — Blog content reports, primarily used by the content team to track traffic to the blog, page visits, new and returning users, and conversion.
+- [Just Commit dashboard](https://datastudio.google.com/reporting/1dbt-3WI6KzySYrnolIUfCufvvtba20f9/page/kWdQ) TODO: Update Link — Tracks progress of Just Commit integrated campaign.
+- [Job pages dashboard](https://datastudio.google.com/reporting/1w6TwUeGjkQpPZz4jvp9Hye8vdGP6MYel/page/JcPY) TODO: Update Link — Provides context around job page interactions.
+- [Security releases dashboard](https://datastudio.google.com/reporting/1bP748BOhYmgWRcfeoRiSCOHz7q4NUMkV/page/l7vj) TODO: Update Link — Website analytics data for security release blog posts.
+- [about.gitlab.com CrUX dashboard](https://datastudio.google.com/reporting/1f-akzELoGzJRdBFPgMTzgHPrSOshUgki/page/cJUR)TODO: Update Link — *Public* See [Chrome User Experience Report](https://developers.google.com/web/tools/chrome-user-experience-report/) for definition of report dimensions. This dashboard shows CrUX data for about.gitlab.com, assembled with PageSpeed Insights and Public Google BigQuery.
 
 ## Google data administration
 
