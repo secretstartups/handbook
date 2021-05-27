@@ -1,5 +1,5 @@
 ---
-layout: markdown_page
+layout: handbook-page-toc
 title: "Open Source at GitLab"
 ---
 
