@@ -47,3 +47,4 @@ This Working Group has the following goals:
 | Security Functional Lead    | | |
 | Infrastructure Functional Lead  |  | |
 | Product Functional Lead  |  | |
+| Team member | Wayne Haber | Director Engineering |
