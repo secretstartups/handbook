@@ -38,7 +38,7 @@ Coupa is available via Okta. To access the platform:
 1. Click on the Coupa (Prod) button.
    - A new tab should open with your user logged in.
 
-> If you need access to Coupa, please open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new).
+> If your job function requires you to submit purchase requests, please submit an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Coupa.
 
 ## How to use Coupa
 
@@ -85,16 +85,6 @@ Account Name contains a number of options related to managing your account in Co
 - **Inbox** - Displays all current and previous notifications.
 - **Sign Out** - to exit the application.
 
-#### How to enable Two-Factor Authentication (2FA)
-1. Go to your Account Name > Settings
-2. Click on the Two-Factor Authentication subtab
-3. Click the Enable button
-4. Use your Google Authentication app to scan the QR Code
-5. Enter the 6-digits displayed in the authentication app in the Verification Code field.
-6. Click Submit
-
-> Anytime you are challenged for a 2FA verification code, just launch your authenticator and enter the latest code.
-
 ### How to Create a Requisition
 
 #### Free-Form Requisition
@@ -125,7 +115,7 @@ Account Name contains a number of options related to managing your account in Co
 - m) Service Start Date _(optional)_<br>
 - n) Service End Date _(optional)_<br>
 - o) Attachments _(optional)_<br>
-- p) Write Multiple Request _(tick this box if you will create multiple lines)_<p>
+- p) Write Multiple Request _(tick this box if you will create multiple lines)_<br><br>
 - Click "Add to Cart" once completed.
 - Review your cart by clicking on the ‘Cart’ button at the top of the page.
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
@@ -176,9 +166,9 @@ Account Name contains a number of options related to managing your account in Co
 {: .panel-heading}
 <div class="panel-body">
 
-- If you have any questions about the **class** of the line items or need to request a new one, tag the `@glteam` group in a comment before submitting the requisition for approval.
+- If you have any questions about the **class** of the line items or need to request a new one, tag `@ggonzalez@gitlab.com` in a comment before submitting the requisition for approval.
    - Requisitions can be saved for later.
-- The FP&A and Procurement teams will review the commodity for each line item during their approval and tag the `@glteam` group in a comment if there are any questions.
+- The FP&A and Procurement teams will review the commodity for each line item during their approval and tag the `@ggonzalez@gitlab.com` in a comment if there are any questions.
 
 
 </div>
@@ -239,18 +229,18 @@ Once all the required information (including the billing string) is populated on
 
 There are several ways to approve transactions in Coupa:
 
-- **To Do’s** notification on the homepage screen.
+- **To Do’s** notification on the homepage screen
    - To view the requisition/invoice/PO change request details, click on the subject line.
    - The approver may add comments on the “Approval Comments” section before clicking on the Reject or Approve buttons.
    - All approvers are displayed in the “Approvers” section.
    - When rejected, a requisition goes back to “Draft” status, the requestor needs to make changes and re-submit. (Please, remember leave a comment about the rejection for the requester).
       - When an invoice is rejected, it goes under “Rejected” status and the Accounts Payable needs to edit and resubmit the invoice (or void if necessary).
-- **Inbox**.
+- **Inbox**
    - Users can access all their notifications through the “Inbox” section under “Account Name”.
    - The User can change the report View to "To Do" to filter all notifications requiring action.
 - Via **Activity > “Transactional Tabs” > Requiring My Approval** view.
    - In each Activity transactional subtabs, users can change the report view to Requiring My Approval.
-- **Email**.
+- **Email**
    - The approver receives a system-generated email notifying about the requisition or invoice as soon as a user submits the transaction.
    - All the basic information is displayed on the email.
    - The approver selects an appropriate action (View Req / Approve / Reject).
@@ -258,7 +248,7 @@ There are several ways to approve transactions in Coupa:
    - Once a choice is selected, an automatic email is created. The approver needs to send the e-mail for the approval to be made in Coupa.
    - Once the e-mail is sent, the transaction will move to the next approver based on the approval chain in Coupa.
       - If rejecting the Purchase Request, the approver should include a comment explaining the rationale for rejecting it.
-- **Coupa Mobile App**.
+- **Coupa Mobile App**
    - A mobile application of Coupa can be downloaded either at the Apple or Android stores. Once you download the app you need to sign-in as you normally would to the instance.
    - The app allows you to do approvals for both Requisitions and Invoices:
       - To Approve: Open the requisition or invoice notification, review the information, and approve.
@@ -344,7 +334,7 @@ There may be scenarios where a receipt needs to be voided (e.g. an incorrect rec
 </div>
 </div>
 
-As Central Receiver, follow the below steps:
+As **Central Receiver**, follow the below steps:
 
 1. Go to Inventory tab then "View Receipts".
 1. Search for the line to be voided _(may use Advanced Search)_.
@@ -388,13 +378,23 @@ To raise a New Supplier Request:
 - After supplier submission, the external form will be routed to the Accounts Payable Approval Group for review and approval.
 - After approval, the Supplier details will be integrated to NetSuite and it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available in Coupa when creating Purchase Requests and Invoices.
 
-### How to Seach for a Supplier
+### How to Search for a Supplier
 
 - On the Coupa Homepage, click the "Write request" button.
 - Type the supplier’s name on the Supplier field.
    - If the Supplier is active, the system will display the Supplier. If a "No results" found message popped below the supplier box, then the Supplier is inactive or not yet existing in Coupa.
 
 ![coupa-image-18](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa18.png)
+
+## Coupa Support
+
+### GitLab Internal Escalation Process
+
+During the hypercare period (May 21st - June 25th, 2021) the Finance System Admins will be the first point of contact if users encounter any issues or have any system-related questions.
+
+#### How can I contact the Finance System Admins?
+
+If you have any technical issues, send a message to _#coupa_help_ slack channel with your question and add the `@here` tag to be picked up by the appropriate team member.
 
 
 {::options parse_block_html="false" /}
