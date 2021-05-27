@@ -25,20 +25,20 @@ title: Vendor Contract Issue Process - Software
 
 If yes, then follow the instructions on the table below:
 
-|   | <$25K | >$25K | >$50K |
+|   | <$25K | $25K - $49K | >$50K |
 | ------ | ------ | ------ | ------ |
-| **New Software** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
-| **Software Renewal** | - Create a [Coupa Requisition]() | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
+| **New Software** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
+| **Software Renewal** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
 | **Add on Software** | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
-| Subscriptions<br>**New Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |
-| Subscriptions<br>**Existing Vendor** | - Create a [“New Supplier” form]() in Coupa<br>- Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |  Create a [Coupa Requisition]() |
+| Subscriptions<br>**New Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+| Subscriptions<br>**Existing Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
 
 <div class="panel panel-info">
 **Unsure if your vendor is new or existing?**
 {: .panel-heading}
 <div class="panel-body">
 
-- Check the [How to Search for a Supplier]() section for a detailed guide.
+- Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
 - If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
 
 </div>
@@ -46,7 +46,7 @@ If yes, then follow the instructions on the table below:
 
 ### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
 
-- Check the [How to Create a Requisition in Coupa]() page for a detailed walkthrough guide.
+- Check the [How to Create a Requisition in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) page for a detailed walkthrough guide.
 
 
 ## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
