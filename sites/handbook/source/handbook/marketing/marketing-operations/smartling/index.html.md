@@ -207,9 +207,18 @@ Smartling does not support Google sheets as a file type. If you are working with
 
 File directives are used to define the location of specific data in a file. **CSV requires the use of directives with any upload to Smartling.** Other supported file types listed above do not necessary require directives, depending on how you want to import the translation. If you want to simply upload a separate file for each language, including the source, directives are not required (excluding CSV). Importing one file with multiple languages will require the addition of file directives to ensure that Smartling can read where the keys are located in the file, and where the content you are importing is located in the file. See the [help article on CSVs](https://help.smartling.com/hc/en-us/articles/360008000593) for more info on what directives to use in your file. 
 
-## IDML
+## Design Files
 
-1. [Best Practices for Adobe InDesign Translation](https://help.smartling.com/hc/en-us/articles/115004320454-Best-Practices-for-Adobe-InDesign-Translation)
+We have a workflow in Smartling that will format your file to support the new translation. Desktop Publishing in Smartling will take the new translations and apply them to your design files and return back a formatted file ready to use. Below is the process to follow if you wish for DTP to format your file:
+
+1. Open the job in Smartling and select the workflow called DTP. This workflow will translate your content, allow it go to review with our internal reviewers and then go onto the graphic designer who will format it.
+2. After you upload the file for translation, You will need to upload the file to our Smartling Dropbox Folder . For indesign files, job submitters will need to upload an indesign package with the following files:
+    * All fonts
+    * All linked Images
+    * Source INDD File
+    * Source IDML File
+    * Source PDF.
+3. If you wish to receive a pdf file back, please ask for this in the job notes.
 
 ## Attachments
 
