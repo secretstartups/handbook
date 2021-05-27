@@ -250,6 +250,103 @@ _Ideally_, your workflow should be as follows:
 - MR Review SLO
     - 4 weeks (2 milestones)
 
+### Remove an deletion process
+
+After some time, environments will have software/code/components that are not needed any more. It feels risky to delete software and code, even when its not being used, seems not being used or asked not to being used (i.e. users access). 
+
+Pollution will occur and that is more risky than the actual removal or deletion in a controlled manner.
+
+There are multiple reasons to perform deletions. I.e:
+1. We see software (or parts of software) that is not used anymore
+2. There is a request to remove user access
+3. There is a request to delete a user account
+4. There is a request to indeffintly stop a data pipeline
+
+To address observations and requests, and ensure that deletion will take place in a controlled manner, open an issue with the `code cleanup template`.
+
+#### State down in the issue the scope of deletion
+Write down what will be deleted and where possible link to existings issues. 
+
+#### Calculate a Risk score
+The Risk score is build upon 2 variables.
+1. Probability that it will break something
+2. Impact if the deletion is executed by mistake or is execute wrongly
+
+Each variables will be scored 1 to 3.
+|  Probability | Score |
+| ------------ | ----- |
+| Low          |   1   |
+| Medium       |   2   |
+| High         |   3   |
+
+|  Impact | Score |
+| ------- | ----- |
+| Negligible | 1  |
+| Lenient |   2   |
+| Severe  |   3   |
+
+`Probability ` * `Impact` = `Risk Score`
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1i2r{background-color:#f8ff00;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-706m{background-color:#009901;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-tw5s{background-color:#fe0000;border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky">Risk</th>
+    <th class="tg-0pky">Negligible</th>
+    <th class="tg-0pky">Lenient</th>
+    <th class="tg-0pky">Severe</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Probability</td>
+    <td class="tg-y698"></td>
+    <td class="tg-y698"></td>
+    <td class="tg-y698"></td>
+    <td class="tg-y698"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Low</td>
+    <td class="tg-y698"></td>
+    <td class="tg-706m">1</td>
+    <td class="tg-706m">2</td>
+    <td class="tg-1i2r">3</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Medium</td>
+    <td class="tg-y698"></td>
+    <td class="tg-706m">2</td>
+    <td class="tg-1i2r">4</td>
+    <td class="tg-tw5s">6</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">High</td>
+    <td class="tg-y698"></td>
+    <td class="tg-1i2r">3</td>
+    <td class="tg-tw5s">6</td>
+    <td class="tg-tw5s">9</td>
+  </tr>
+</tbody>
+</table>
+
+| Risk Score | Outcome |
+| ---------- | ------- |
+| 1 - 2      | Create a MR and have it reviewed by 2 code owners |
+| 3 - 4      | Create a MR, tag `@gitlab-data/engineers` with a deadline to object and have it reviewed by 2 code owners |
+| 6 - 9      | Create a MR, to be discussed in the DE-Team meeting and have it reviewed by 2 code owners |
+
 ### Request to Expedite Responses
 
 Requests to expedite responses, triage issues, or review MRs is rare. Given the Data Team's shared-service model, expediting an item is asking to de-prioritize other work. To request an expedited response:
