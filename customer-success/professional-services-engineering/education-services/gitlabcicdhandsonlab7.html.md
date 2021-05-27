@@ -1,33 +1,36 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 7"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 7"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 7
+# GitLab CI/CD Hands-On Guide: Lab 7
 {:.no_toc}
 
-## LAB 7- ARTIFACT HIERARCHY
+## LAB 7: ARTIFACT HIERARCHY
 
-### Add Artifacts to Your Pipeline 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
-2. Click on your gitlab-ci.yml file and click the **Edit** icon. 
-3. In another tab, locate the **ci-artifacts** code snippet and click the **Copy File Contents** icon in the upper right corner of the file.  
-4. Return to your CICD Demo project and place your cursor in the last line in the body of your .gitlab-ci.yml file and ***paste the contents of the ci-artifacts code snippet***. 
-5. In the Commit Message field, type **“adding CI artifacts”** and click the **Commit Changes** button. 
+### Add artifacts to your pipeline 
 
-### Add a Main.Go File
-1. Navigate to the Hands On Demo Project
-2. Click on the main.go file in the repository to open it. 
-3. Click the **Copy file contents** button in the upper right hand corner of the file. 
-4. Navigate back to your GitLab CICD Demo Project and click the **New File** button
-5. In the File Name field, enter “**main.go**” and move your cursor to the beginning of line 1.  
-6. ***Paste the contents you copied from the main.go file at the beginning of line 1.*** 
-7. In the Commit Message field, type **“adding main.go file”** and click the **Commit Changes** button. 
-8. On the left-hand navigation pane, click on CI/CD. 
-9. Locate your last pipeline and click the Retry button in the far right side of the screen. 
-10. Once the pipeline runs, click on the build app job and review the contents, next navigate to the right side of your screen and locate the job artifacts panel.
-11. Click **browse** and notice your application is now available for download. 
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
+1. Open the `ci-artifacts` snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from previous labs.
+1. Click on your `.gitlab-ci.yml` file to view its contents.
+1. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. In the **Commit message** field, type `add CI artifacts`, leave the **Target Branch** set to `master`, and click **Commit changes**. 
 
-### SUGGESTIONS?
+### Add a `main.go` file
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+1. Navigate to the repository of the **CICD Hands On Demo** project.
+1. Click the `main.go` file to open it. 
+1. Click the **Copy file contents** icon in the upper right-hand corner of the file. 
+1. Navigate back to the **Repository** page of your **CICD Demo** project and add a new file by clicking **+ > This directory > New file**
+1. In the **File name** field, enter `main.go`
+1. Paste the code you copied from `main.go` at the beginning of line 1 of the new file.
+1. In the **Commit message** field, type `add main.go file`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the left navigation pane, click **CI/CD > Pipelines** and click the status icon for the pipeline that ran when you added the `build job` definition to `.gitlab-ci.yml` (*hint: it should be the second-to-last pipeline*).
+1. Click the **Retry** icon on the far right of that pipeline's row.
+1. Click the **Running** icon to the left of the pipeline's row. When the `build app` job finishes, click it to review the job's output in a web terminal. *Note: if the job fails with a message about being unable to find `go.mod`, retry it until it passes. This is an intermittent Go build bug.*
+1. In the **Job artifacts** panel on the right of the page, click **Browse** and notice that the `app` artifact created by the **build app** pipeline job is available for download. 
+
+## Suggestions?
+
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

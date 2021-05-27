@@ -1,44 +1,45 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 5"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 5"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 5
+# GitLab CI/CD Hands-On Guide: Lab 5
 {:.no_toc}
 
-## LAB 5- VARIABLE HIERARCHY
+## LAB 5: VARIABLE HIERARCHY
 
-### Add Environment Variables 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from Lab 2 and open it.
-2. Click on your gitlab-ci.yml file and click the **Edit** icon. 
-3. In another tab, locate the ci-variables code snippet and click the **Copy File Contents** icon in the upper right corner of the file.  
-4. Return to your .gitlab-ci.yml file and paste the variable snippet at the end of the file.  
-5. Copy the line: **INLINE\_GLOBAL\_VARIABLE** from the bottom of your .gitlab-ci.yml file. 
-5. Navigate to the top of your .gitlab-ci.yml file and just below stages section, paste the following contents: 
-variables: 
-    INLINE\_GLOBAL\_VARIABLE: “I’m an inline variable declared at the global level in my yml file” 
+### Add custom variables 
 
-Note: Now we will add the global variable to the stage itself.
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CI-CD Hands On Demo** project.
+1. Open the `ci-variables` snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from previous labs.
+1. Click on your `.gitlab-ci.yml` file to view its contents.
+1. In the browser tab with the **CICD Demo** project, click the blue **Edit** button. Paste the snippet at the end of the file.
+1. At the top of your `.gitlab-ci.yml` just below the `stages` section, paste the following: 
+    ```yml
+    variables: 
+      INLINE_GLOBAL_VARIABLE: "I’m an inline variable set at the global level of the CI/CD configuration file"
+    ```
+1. In the section where the `environment variables` job is defined, just below the `stage: build` line, paste the following:
+    ```yml
+    variables:   
+      INLINE_LOCAL_VARIABLE: "I’m an inline variable set at the job level of the CI/CD configuration file"
+    ```
+1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `master`, and click **Commit changes**.
 
-6. Navigate to environment variables section and just below the stage: build line, paste the following: 
-variables:   
-    INLINE\_GLOBAL\_VARIABLE: “I’m an inline variable declared at the global level in my yml file” 
-7. In the Commit Message field, type **“Adding CI Variables”** and click the **Commit Changes** button. 
+### Add group- and project-level variables
 
-### Set Group and Project Level Variables
-1. We will now set our group and project level variables. 
-2. From your .gitlab-ci.yml file -> copy the following line: **group\_level\_variable**
-3. From your GitLab screen, navigate to your group by using the breadcrumbs at the top of the Project **Demo System Users > Username-Group**.
-4. Once you are in your group, on the left-hand navigation page, click on **Settings > CI/CD**.
-5. Locate the **Variable** and click the **Expand** button. 
-6. Click on **Add Variable** and paste the **group\_level\_variable** in the Key dialog box. (This will be shared among multiple projects and sub group) 
-7. Type "I’m a variable set at the group level" in the Value dialog box.
-8. Leave all other options at their defaults and click **Add Variable**.  
-9. Navigate to your project by using the breadcrumbs at the top of the project **Demo System User > Username-Group > Project name**
-11. Repeat steps 4- 8, using **project\_level\_variable**  instead of **group\_level\_variable** and setting its value as "I’m a variable set at the project level". 
-11. Validate that the GitLab YML configuration is valid and that the pipeline is running by hovering over the blue icon in the upper right corner of the file, or clicking on CI/CD > Pipelines on the left-hand navigation pane.  
-12. Click on the widgets for each job and verify your work.    
+1. Navigate to your group by clicking on it in the breadcrumbs at the top of the GitLab page.
+1. In the left-hand navigation pane, click **Settings > CI/CD**
+1. In the **Variables** section, click the **Expand** button.
+1. Click **Add Variable**. Enter `group_level_variable` in the **Key** dialog box. *Hint: watch your spelling, capitalization, and underscores!* This variable will be visible within all subgroups and projects that live in this group.
+1. Type `I'm a variable set at the group level` in the **Value** dialog box.
+1. Leave all other options at their defaults and click **Add variable**.  
+1. Navigate to your project by clicking **My Test Group - \<USERNAME\>** in the breadcrumbs at the top of the page, and then clicking on your project.
+1. Repeat steps 2 to 6, entering `project_level_variable` in **Key** field and `I'm a variable set at the project level` in the **Value** field. 
+1. Setting variables does not trigger a pipeline run, so click **CI/CD > Pipelines** in the left navigation pane, click the green **Run Pipeline** button, and click the second green **Run Pipeline** button.
+1. Click on the widget for the `environment variables` job and verify your work.
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

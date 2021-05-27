@@ -1,21 +1,21 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 4"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 4"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 4
+# GitLab CI/CD Hands-On Guide: Lab 4
 {:.no_toc}
 
-## LAB 4- DEFINE PIPELINE ENVIRONMENTS
+## LAB 4: DISPLAY PIPELINE ENVIRONMENT INFO
 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from Lab 2 and open it.
-2. Click on your gitlab-ci.yml file and click the **Edit** icon. 
-3. In your another tab, locate the ci-environment code snippet- https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets, once you have the snippet open, click the **Copy File Contents** icon in the upper right corner of the file.  
-4. Return to your CICD Demo project; with your cursor in the last line of the body of the file, directly after “echo I am a build image", ***paste the contents at the beginning of line 15***.  
-5. In the Commit Message field, type **“Adding CI Environment Variables”** and click the **Commit Changes** button.  
-Note: Commit to the master branch only.  
-6. Validate that the configuration is valid and that the pipeline is running by Navigating the to CI/CD pipeline.  
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
+1. Open the **ci-environment** snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from previous labs.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Add a blank line on line 15, after `echo "I am a build image"`. Paste the snippet at the beginning of line 16.
+1. In the **Commit message** field type `display pipeline environment info`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the left-hand navigation pane click **CI/CD > Pipelines**. The pipeline that was started when you committed changes is represented by the first row in that table.
+1. Click the status icon at the left of the first row to see the pipeline's jobs. Click the **environment echoes** job and review its output to learn about the environment that the pipeline's jobs run in.
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

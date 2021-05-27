@@ -1,20 +1,20 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 1"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 1"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 1
+# GitLab CI/CD Hands-On Guide: Lab 1
 {:.no_toc}
 
-## LAB 1- REVIEW EXAMPLE GITLAB CI/CD SECTION
+## LAB 1: REVIEW EXAMPLE GITLAB CI/CD SECTION
 
-1. Navigate to the following URL- https://gitlab.com/gitlab-org/gitlab/-/pipelines
-2. Review the Pipeline dashboard and columns with your instructor
-3. Hover over any of the pipelines in the Stages column to see the status of each stage as the pipeline progresses.
-4. View a Pipeline Graph
-5. Click on any of the Running pipelines.
-6. Review the Pipeline Graph that displays the information for all stages and jobs in the pipeline selected.
+1. Navigate to `https://gitlab.com/gitlab-org/gitlab/-/pipelines`
+1. Review the pipeline dashboard and columns with your instructor.
+1. Hover over any of the pipelines in the **Stages** column to see the status of each stage as the pipeline progresses.
+1. Click on any of the running pipelines to view that pipeline's graph.
+1. Review the names of the pipeline's stages.
+1. Click on some of the graph's widgets to see the output from individual jobs within those stages.
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

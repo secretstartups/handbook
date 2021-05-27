@@ -1,22 +1,21 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 3"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 3"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 3
+# GitLab CI/CD Hands-On Guide: Lab 3
 {:.no_toc}
 
-## LAB 3- CREATE A BASIC CI CONFIGURATION
+## LAB 3: CREATE A BASIC CI CONFIGURATION
 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from Lab 2 and open it.
-2. Click on your **.gitlab-ci.yml** file to open it.
-3. Navigate to the sample project in your other tab - locate the [**ci-starter**] (https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) code snippet, once you have the snippet open, click the **Copy File Contents** icon in the upper right corner of the file.  
-4. Return to your CICD Demo project in your other tab; replace the code in your yml file with the ci-starter snippet. 
-Note: You should now have a basic CI configuration with only test and build stages.  
-5. In the Commit Message field, type **“CI starter”** and click the **Commit Changes** button. 
-6. Validate that the configuration is valid and that the pipeline is running by hovering over the blue icon in the upper right corner of the file.  
-7. Click on the **pipeline icon** boxed above the file contents to review the Pipeline Graph for that CI configuration.  
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
+1. Open the **ci-starter** snippet. Click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from the last lab.
+1. Click on your `.gitlab-ci.yml` file to view its contents, click the blue **Edit** button, and replace the code in `.gitlab-ci.yml` with the snippet that you copied. You should now have a basic CI configuration with only `test` and `build` stages.  
+1. In the **Commit message** field, type `add CI starter` and click **Commit changes**.
+1. Refresh the page to make the pipeline status icon appear. Validate that the configuration is valid and that the pipeline is running by hovering over the blue **Pipeline: running** icon or the green **Pipeline: passed** icon in the upper right corner of the page, to the left of the commit's SHA.
+1. When the pipeline status changes to the blue **Pipeline: passed** icon, click it to review the pipeline graph for your CI configuration.
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

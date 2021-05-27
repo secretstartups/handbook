@@ -1,22 +1,21 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 9"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 9"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 9
+# GitLab CI/CD Hands On Guide: Lab 9
 {:.no_toc}
 
-## LAB 9- SECURITY SCANNING
+## LAB 9: SECURITY SCANNING
 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
-2. In a seperate tab, open the **ci-sast snippet** and click the **Copy file contents** icon. 
-3. Return to your CICD Demo project opened in your other tab and open the gitlab-ci.yml file. 
-4. Click the **Edit** icon and **paste the contents of the snippet at the end of the file.**
-5. In the Commit Message field, enter  “**enable sast**” -> **Commit to Master Branch**. 
-6. Navigate to your Pipeline and click on the **gosec-sast** job to ensure it is running. 
-7. To view the results of your scan, on the left-hand pane, click **Security & Compliance > Vunlerabiltiy Report**. 
-8. In the Scanner drop-down list, click on **SAST** to view the results of your most recent scan. 
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
+1. Open the `ci-sast` snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from previous labs.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. In the **Commit message** field, type `enable SAST`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. Navigate to the pipeline that was started by this change and click the `gosec-sast` job to ensure that it's running. *Note: it might take a minute or two for the `Build` stage to complete first.*
+1. To view the results of the SAST scan, click **Security & Compliance > Vulnerability Report** in the left-hand navigation pane. In the **Scanner** drop-down list, select **SAST**
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!

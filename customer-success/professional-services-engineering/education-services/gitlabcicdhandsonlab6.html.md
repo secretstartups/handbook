@@ -1,22 +1,22 @@
 ---
 layout: handbook-page-toc
-title: "GitLab CI/CD Hands On Guide- Lab 6"
-description: "This Hands On Guide Lab is designed to walk you through the lab exercises used in the GitLab CI/CD training course."
+title: "GitLab CI/CD Hands-On Guide: Lab 6"
+description: "This Hands-On Guide walks you through the lab exercises in the GitLab CI/CD course."
 ---
-# GitLab CI/CD Hands On Guide- Lab 6
+# GitLab CI/CD Hands-On Guide: Lab 6
 {:.no_toc}
 
-## LAB 6- JOB POLICY PATTERN
+## LAB 6: JOB POLICY PATTERN
 
-1. In the GitLab Demo Cloud, locate your CICD Demo project from previous labs and open it.
-2. Click on your gitlab-ci.yml file and click the **Edit** icon. 
-3. In another tab, locate the **ci-structure** code snippet and click the **Copy File Contents** icon in the upper right corner of the file.  
-4. Return to your CICD Demo project and place your cursor in the last line in the body of your .gitlab-ci.yml file (under the ci-variables section) and ***paste the contents of the ci-structure code snippet***. 
-5. Scroll to the top of your .gitlab-ci.yml file and add review and deploy to the stages section. 
-6. Type **“Adding CI-structure Variables”** in the Commit message dialog box and click the Commit button.   
-7. Validate that the configuration is valid and that the pipeline is running by hovering over the blue icon in the upper right corner of the file.
-8. Click on widgets and verify your work.  
+1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
+1. Open the `ci-structure` snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. Open your **CICD Demo** project from previous labs.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. At the top of `.gitlab-ci.yml`, in the `stages` section, add `review` and `deploy` stages.
+1. In the **Commit message** field, type `Add CI structure job definitions`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the left navigation pane, click **CI/CD > Pipelines** and click the status icon for the latest pipeline run.
+1. Check the widgets to see what environment the pipeline is deploying the code to. Experiment with triggering the pipeline using different branches and tags. Can you get different pipeline runs to execute the **deploy release**, **deploy release**, and **deploy staging** jobs? Look at the `rules` keyword in the relevant `.gitlab-ci.yml` job definitions to figure out how to do this.
 
-### SUGGESTIONS?
+## Suggestions?
 
-If you wish to make a change to our Hands on Guide for GitLab CI/CD- please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!
