@@ -4,5 +4,5 @@ in future milestones. Full chart [here](https://app.periscopedata.com/app/gitlab
 
 <% chart_ids ||= [7693808, 7693825] %>
 <% chart_ids.each do |chart_id| %>
-  <embed width="<%= 99 / chart_ids.size.to_f %>%" height="300" src="<%= signed_periscope_url(dashboard: 587512, chart: chart_id, embed: 'v2', filters: [{name: 'Milestones', value: [13.4, 13.5, 13.6, 13.7, 13.8, 13.9]}]) %>">
+  <embed width="<%= 99 / chart_ids.size.to_f %>%" height="300" src="<%= signed_periscope_url(dashboard: 587512, chart: chart_id, embed: 'v2', filters: [{name: 'Milestones', value: ["13.10", "13.11", "13.12"]}]) %>">
 <% end %>
