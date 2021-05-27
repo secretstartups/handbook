@@ -406,6 +406,21 @@ To raise a New Supplier Request:
 
 ![coupa-image-18](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa18.png)
 
+### How to complete the Professional Services Request Form
+
+The Professional Services Request form must be filled out **before** creating a requisition for any professional services related purchase.
+
+![coupa-image-21](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa21.png)
+
+To complete the Professional Services Request form:
+1. Click on the "Forms" link on the Homepage and select "Professional Services Request".
+1. Fill out all the form questions and click "Submit".
+   - The cart will be automatically updated with the provided answers in the line item.
+
+![coupa-image-22](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa22.png)
+
+The user can now proceed with the [creation of the purchase request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) by adding the remaining details to the line item.
+
 ## Coupa Training Videos
 
 All Coupa related videos can be found in our ["Coupa" playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) on youtube.
