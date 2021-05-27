@@ -98,20 +98,6 @@ For positions that are included in the GitLab Hiring Plan, the Talent Acquisitio
     - Team Interview stage
     - Stage Transitions:
     - N/A
-1. Create the [Global Self-Identification Survey](/handbook/hiring/greenhouse/#global-self-identification-survey) by creating a job post for the open requisition.
-    - Job Name: Global Self-Identification Survey
-    - Post To: GitLab
-    - Location: Remote
-    - Description: Enter `n/a`
-    - Basic Application Information: (does not matter)
-    - Custom Application Questions: (none)
-    - Send Confirmation Email to Candidates: (unchecked)
-    - Application Confirmation Page: Default
-    - Include Custom Demographic Questions: Global Self-Identification Survey
-    - Include EEOC Questions: (unchecked)
-    - Include 'Apply with SEEK' button: (unchecked)
-    - Publish to Free Job Boards: (unchecked)
-    - Status: Off
 1. Scroll to the bottom of the page and click `Request Approval`.
 1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
 
@@ -124,7 +110,7 @@ Labels: Division and Department
 1. Open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new) and attach to the Child Eric
 1. Open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic.
 
-#### Kick-off & Finalyze Greenhouse Setup (DRI: Recruiter)
+#### Kick-off & Finalize Greenhouse Setup (DRI: Recruiter)
 
 **The Recruiter will:**
 
