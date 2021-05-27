@@ -101,6 +101,35 @@ When going out of office, please be sure to [clearly communicate](https://about.
 - [13.8 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/139)
 - [13.9 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/149)
 
+## Triage
+
+The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems. Proactive triage will not only provide for a more secure and robust application, but also provide for a better user experience especially as we iterate on features, reveal features from behind a feature flag, or introduce a refactoring. It leans into our Bias for Action sub-value and raises our awareness of application performance. 
+
+### Potential list of places to check
+
+**CustomersDot:**
+
+| Subject | Link | Notes |
+| - | - | - |
+| CustomersDot syncing | [Sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/?query=is%3Aunresolved+UpdateGitlabPlanInfoWorker) | `UpdateGitlabPlanInfoWorker` class is used to sync data between CustomersDot and GitLab |
+| GitLab Subscriptions | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+subscription) | Results could be refined by controller, e.g. `SubscriptionsController` |
+| Billing errors | [Sentry](https://sentry.gitlab.net/gitlab/gitlabcom/?query=is%3Aunresolved+billing) | Results could be further refined by controller, e.g. `Groups::BillingsController`, `Projects::BillingsController` |
+| Rails logs | [Kibana](https://log.gprd.gitlab.net/goto/c97cd8d278b9cae18c8588c85a82a2d6) | Utilization feature category Rails logs for the last 7 days |
+| Sidekiq logs | [Kibana](https://log.gprd.gitlab.net/goto/7fe39288bc23a368ddbec6ed369c3ab2) | Utilization feature category Sidekiq logs for the last 7 days |
+| Billable Member API | [Grafana dashboard](https://dashboards.gitlab.net/d/api-rails-controller/api-rails-controller?orgId=1) | - |
+
+### Creating an issue direct from Sentry
+
+There's a way in sentry to create an issue for any error you find.
+
+e.g. https://sentry.gitlab.net/gitlab/customersgitlabcom/issues/2505559/?query=is%3Aunresolved%20UpdateGitlabPlanInfoWorker
+
+See links in the right sidebar:
+
+![](./sentry_issue_creator.png)
+
+Although both links look the same, the first link is for creating an issue _in the security repo_, the **second should be for the project** (CustomersDot/GitLab) accordingly.
+
 ## Performance Indicators
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Utilization" } %>
