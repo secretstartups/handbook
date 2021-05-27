@@ -90,7 +90,7 @@ Account Name contains a number of options related to managing your account in Co
 1. Click “Create” and select a delegate type approval (Receiving, Delegate) for a specified timeframe and give a reason.
 1. Click "Save".
 
-Assigned delegates must be of an equivalent or greater management level.
+Assigned delegates must be of an equivalent or greater management level.<br>
 For approvals as part of an approval group, the individual must be a member of that group.
 {: .alert .alert-info}
 
