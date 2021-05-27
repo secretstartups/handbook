@@ -77,7 +77,7 @@ Account Name contains a number of options related to managing your account in Co
    - **Delegates**: Users can delegate their receiving and approvals to another user by using the Delegates functionality (it is possible to add multiple, overlapping delegates, and enable notifications). _Check the [How to add a Delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) section for more details_.
    - **Reports**: Users can schedule a report by going to a particular report view and specifying the scheduling details (only certain users will have access to reports and report views are dependent on role).
    - **Notifications**: Coupa notifications can be managed. For each type of notification, the User can choose whether they would like to receive notifications via email (Email), within Coupa (Online), both, or neither.
-   - **Two-Factor Authentication (2FA)**: Should be enabled on user profiles to ensure that financial accounts and instruments are protected for control and use by the individual to whom they are intended. This extra authentication layer on the user profile is required before that user can be granted privileged permissions for working with payment features like creating batches for expense and invoice payments, creating accounts, and many other secured payment functions. _Check the [How to enable Two-Factor Authentication (2FA)](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-enable-two-factor-authentication-(2FA)) section for more details_.
+   - **Two-Factor Authentication (2FA)**: Should be enabled on user profiles to ensure that financial accounts and instruments are protected for control and use by the individual to whom they are intended. This extra authentication layer on the user profile is required before that user can be granted privileged permissions for working with payment features like creating batches for expense and invoice payments, creating accounts, and many other secured payment functions. _Check the [How to enable Two-Factor Authentication (2FA)](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-enable-two-factor-authentication) section for more details_.
 - **Inbox** - Displays all current and previous notifications.
 - **Sign Out** - to exit the application.
 
@@ -94,7 +94,7 @@ Assigned delegates must be of an equivalent or greater management level.<br>
 For approvals as part of an approval group, the individual must be a member of that group.
 {: .alert .alert-info}
 
-#### How to Enable Two-Factor Authentication (2FA)
+#### How to Enable Two-Factor Authentication
 1. Go to your "Account Name" > "Settings".
 1. Click on the "Two-Factor Authentication" subtab.
 1. Click the "Enable" button.
