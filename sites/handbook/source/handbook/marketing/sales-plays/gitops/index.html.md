@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "GitOps GTM Sales Play: Infrastructure Automation"
+title: "Sales Play: Infrastructure Automation with GitOps"
 ---
 
 ## Overview
@@ -222,18 +222,6 @@ How to identify if you need to have a GitOps conversation with a lead?
 1. There are a number of high performing outreach sequences available - use one that is already available and customize as required
 1. Use the content from the [GitOps Pathfactory track](https://learn.gitlab.com/l/gitops-gtm-content) to share with your lead. You can get the content links (including tracking) directly from Pathfactory for Sales through SFDC. They are categorized by the stage in the customer's journey. 
 
-
-### Recommended Email templates
-{: .alert .alert-gitlab-orange}
-
-Here are a few recommended email templates you can use based on the stage of the customers journey.
-
-- Awareness: [Here’s how infra teams can move at the pace of development](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.tvxw4uololys)
-- Consideration: [Achieve multi-cloud multi-k8s deployments with GitOps](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.qb2mme6e6mph)
-- Decision/Purchase: [Learn how Kiwi.com deploys infrastructure and application within 3 minutes!](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.6fvbsmo2n7go)
-- Technical Demo: [Here’s how your team can automate infrastructure deployments](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.zedoh58debpr)
-
-
 ### Services
 
 GitLab Professional Services help customers become efficient in GitLab quickly. GitLab (or a GitLab partner) offers a number of service offerings to support customers. 
@@ -247,19 +235,23 @@ As you position services, you can use our [Services Pitch Deck](https://docs.goo
 Talk with @em in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to learn more. 
 
 
-### Finding Last interesting moment and most viewed content on SFDC {#lim-anchor}
+## Resources
 
-- Last interesting moment is in the Marketing info section of SFDC
-![Last Interesting Moment](../images/gitops-last-interesting-moment.png)
+### Recommended Email templates {#email-templates}
+{: .alert .alert-gitlab-orange}
 
-- Top content consumed by time - is in the Pathfactory for sales section of SFDC
-![Top Content Consumed](../images/gitops-top-content-consumed.png)
+Here are a few recommended email templates you can use based on the stage of the customers journey.
+
+- Awareness: [Here’s how infra teams can move at the pace of development](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.tvxw4uololys)
+- Consideration: [Achieve multi-cloud multi-k8s deployments with GitOps](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.qb2mme6e6mph)
+- Decision/Purchase: [Learn how Kiwi.com deploys infrastructure and application within 3 minutes!](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.6fvbsmo2n7go)
+- Technical Demo: [Here’s how your team can automate infrastructure deployments](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.zedoh58debpr)
 
 
-### Resources
-
+### Webinars, e-books, whitepapers, videos
 - [Pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content) to share with customers
 - Complete list of presentations, web pages, whitepapers, blogs and videos available [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#resources).
+- GitOps [Enablement presentation](https://docs.google.com/presentation/d/1o728pUdk1rrNqWAZpzZVdfZ3gzADvTXSssVzqL-6WB4/edit#slide=id.g8d846209b0_25_172)
 
 ### Customer Stories
 
@@ -274,5 +266,12 @@ And many more [here](https://learn.gitlab.com/l/gitops-gtm-content)
 
 - [Gartner Peer Insights](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#gartner-peer-insights)
 
+### Finding Last interesting moment and most viewed content on SFDC {#lim-anchor}
+
+- Last interesting moment is in the Marketing info section of SFDC
+![Last Interesting Moment](images/gitops-last-interesting-moment.png)
+
+- Top content consumed by time - is in the Pathfactory for sales section of SFDC
+![Top Content Consumed](images/gitops-top-content-consumed.png)
 
 
