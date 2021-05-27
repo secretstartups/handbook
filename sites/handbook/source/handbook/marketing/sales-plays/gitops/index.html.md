@@ -26,7 +26,7 @@ Simply said - GitOps takes DevOps best practices used for application developmen
 
 ## Navigating through this salesplay
 
-Hint: Click on the box to go directly to the relevant section
+**Hint**: Click on the box to go directly to the relevant section
 
 <div class="mermaid">
 
@@ -34,34 +34,40 @@ graph TB
   Z1[Getting Started] -.- A1[Who to meet]
   A1 -.- B1[Keywords to listen for]
   B1 -.- C1[How to identify interest]
-  click A1 "./#who-to-meet" _blank
-  click B1 "./#keywords" _blank
-  click C1 "./#identify-interest" _blank
+  click Z1 "./#getting-started"
+  click A1 "./#who-to-meet"
+  click B1 "./#keywords"
+  click C1 "./#identify-interest"
 
   Z2[Value Discovery] -.- A2[Common pain]
   A2 -.- B2[Common benefits]
   B2 -.- C2[Required capabilities]
   C2 -.- D2[Positioning value]
-  click A2 "./#common-pains" _blank
-  click B2 "./#common-benefits" _blank
-  click C2 "./#required-capabilities" _blank
-  click D2 "./#positioning-value" _blank
+  click Z2 "./value-discovery"
+  click A2 "./#common-pains"
+  click B2 "./#common-benefits"
+  click C2 "./#required-capabilities"
+  click D2 "./#positioning-value"
 
   Z3[Sales Tactics] -.- A3[SALs / AEs] 
   A3 -.- B3[SAs / TAMs]
   B3 -.- C3[SDRs]
-  click A3 "./#sals-aes" _blank
-  click B3 "./#sas-tams" _blank
-  click C3 "./#sdrs" _blank
+  click Z3 "./#sales-tactics"
+  click A3 "./#sals-aes" 
+  click B3 "./#sas-tams" 
+  click C3 "./#sdrs" 
 
   Z4[Resources] -.- A4[Email Templates]
   A4 -.- B4[Customer Stories]
   B4 -.- C4[Identifying lead interest]
   C4 -.- D4[All collaterals]
-  click A4 "./#email-templates" _blank
-  click B4 "./#customer-stories" _blank
-  click C4 "./#lim-anchor" _blank
-  click D4 "./#resources-list" _blank
+  D4 -.- E4[Services]
+  click Z4 "./#resources"
+  click A4 "./#email-templates" 
+  click B4 "./#customer-stories" 
+  click C4 "./#lim-anchor" 
+  click D4 "./#resources-list" 
+  click E4 "./#services" 
 
   classDef orange fill:#fca121,stroke:#333,stroke-width:1px;
   class Z1 orange
@@ -71,7 +77,7 @@ graph TB
   
 </div>
 
-## Getting Started
+## Getting Started {#getting-started}
 
 ### Who to meet  {#who-to-meet}
 {: .alert .alert-gitlab-orange}
@@ -111,7 +117,7 @@ Marketing is running a related demand gen campaign.
 
 
 
-### Value discovery
+### Value discovery {#value-discovery}
 {: .alert .alert-gitlab-orange}
 
 ### Common Pains  {#common-pains}
@@ -189,7 +195,7 @@ Typical questions:
 Detailed list of Q&A [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#objection-handling)
 
 
-## Sales Play Tactics
+## Sales Play Tactics {#sales-tactics}
 {: .alert .alert-gitlab-orange}
 
 ### SALs and AEs  {#sals-aes}
@@ -269,20 +275,9 @@ How to identify if you need to have a GitOps conversation with a lead?
 1. There are a number of high performing outreach sequences available - use one that is already available and customize as required
 1. Use the content from the [GitOps Pathfactory track](https://learn.gitlab.com/l/gitops-gtm-content) to share with your lead. You can get the content links (including tracking) directly from Pathfactory for Sales through SFDC. They are categorized by the stage in the customer's journey. 
 
-### Services
-
-GitLab Professional Services help customers become efficient in GitLab quickly. GitLab (or a GitLab partner) offers a number of service offerings to support customers. 
-
-For the GitOps sales play, consider asking your customer about their workforce's proficiency with git, GitLab, and GitLab CI as they are foundational elements to GitOps. If they are not strong in all of these topics, consider positioning [GitLab with git Basics training](https://about.gitlab.com/services/education/gitlab-basics/) and/or [GitLab CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/). 
-
-Advisory/Consulting services to help with GitOps rollout are planned to be rolled out later this year. Please register your interest for a GitOps Advisory offering [here](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/issues/74) to help PS effectively prioritize!
-
-As you position services, you can use our [Services Pitch Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9) to help establsh the value of engaging with PS. Other services can be found in our [Complete list of professional service offerings](https://about.gitlab.com/services/)
-
-Talk with @em in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to learn more. 
 
 
-## Resources
+## Resources {#resources}
 
 ### Recommended Email templates {#email-templates}
 {: .alert .alert-gitlab-orange}
@@ -294,6 +289,17 @@ Here are a few recommended email templates you can use based on the stage of the
 - Decision/Purchase: [Learn how Kiwi.com deploys infrastructure and application within 3 minutes!](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.6fvbsmo2n7go)
 - Technical Demo: [Here’s how your team can automate infrastructure deployments](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.zedoh58debpr)
 
+### Services {#services}
+
+GitLab Professional Services help customers become efficient in GitLab quickly. GitLab (or a GitLab partner) offers a number of service offerings to support customers. 
+
+For the GitOps sales play, consider asking your customer about their workforce's proficiency with git, GitLab, and GitLab CI as they are foundational elements to GitOps. If they are not strong in all of these topics, consider positioning [GitLab with git Basics training](https://about.gitlab.com/services/education/gitlab-basics/) and/or [GitLab CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/). 
+
+Advisory/Consulting services to help with GitOps rollout are planned to be rolled out later this year. Please register your interest for a GitOps Advisory offering [here](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-leadership-team/ps-practice-management/-/issues/74) to help PS effectively prioritize!
+
+As you position services, you can use our [Services Pitch Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g2823c3f9ca_0_9) to help establsh the value of engaging with PS. Other services can be found in our [Complete list of professional service offerings](https://about.gitlab.com/services/)
+
+Talk with @em in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) to learn more. 
 
 ### Webinars, e-books, whitepapers, videos  {#resources-list}
 - [Pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content) to share with customers
