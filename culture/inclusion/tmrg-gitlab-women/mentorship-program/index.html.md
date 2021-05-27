@@ -70,7 +70,7 @@ Existing [resources for mentors](https://about.gitlab.com/handbook/people-group/
 
 #### Benefits of being a mentor
 
-As a mentor, you beneift from:
+As a mentor, you benefit from:
 
 - Fast feedback loop between team members and leadership
 - Opportunity to form relationships with team members in other departments
@@ -81,7 +81,7 @@ As a mentor, you beneift from:
 - You have been with GitLab for at least 3 months at the time of application 
 - You have availability in your schedule to meet with your mentee on a bi-weekly basis for at least 30 minute meetings for the entire length of the program
 - You plan to make every effort to attend all live trainings included in the program structure
-- You are not on a PDP (Performance Development Plan) or PIP (Performance Improvement Plan)
+- You are not on a [Formal Coaching plan](/handbook/leadership/underperformance/#options-for-remediation) or PIP (Performance Improvement Plan)
 - You can complete the [DIB training certification](https://gitlab.edcast.com/journey/ECL-5c978980-c9f0-4479-bf44-45d44fc56d05) before the program begins
 
 
