@@ -336,9 +336,9 @@ The smaller we split things up, the smaller steps we take and the faster we can 
   <iframe src="https://www.youtube.com/embed/FAuwri0vsts" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-## External Executive Networking
+## External Networking
 
-I keep in touch with various industry executives on a regular basis (monthly, quarterly or annually). They are people who have accomplished extraordinary things at prominent companies such as hypergrowth hiring, ambitious revenue growth, or created transformative technologies. In these meetings, I get to learn from and know senior leaders within the industry. This helps me to understand what great looks like as it offers me a lens into other companies and what has made them successful or held them back. I ask questions about how they would approach GitLab's current challenges or opportunities. I often share insights from my conversations with functional leaders and other team members.
+I keep in touch with various industry leaders on a regular basis (monthly, quarterly or annually). They are people who have accomplished extraordinary things at prominent companies such as hypergrowth hiring, ambitious revenue growth, or created transformative technologies. In these meetings, I get to learn from and know senior leaders within the industry. This helps me to understand what great looks like as it offers me a lens into other companies and what has made them successful or held them back. I ask questions about how they would approach GitLab's current challenges or opportunities. I often share insights from my conversations with functional leaders and other team members.
 
 I have these conversations across all functions because it is important for me to have external, subject-specific mentors. Better understanding individual functions helps me set better targets, ask better questions, and be a better partner to functional leaders. This allows me to be a better manager and CEO. 
 
