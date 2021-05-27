@@ -22,11 +22,13 @@ GitLab uses Slack profiles as an internal team directory, where team members can
 ## Letter of Employment
 {: #letter-of-employment}
 
-If you need a letter from GitLab verifying your employment/contractor status or that you work remotely, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The People Experience team will verify the accuracy and send you an email with the signed letter. We will also verify (but not provide) National Identification Numbers. In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
+If you need a letter from GitLab verifying your employment/contractor status or that you work remotely, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeop7IJJtN9OWasZl9S992sH5iNio0j916SJa0mBDgc2-2hNA/viewform). The letter will  be generated and sent to the team directly as per this [automation](/handbook/people-group/engineering/miscellaneous/#letter-of-employment). 
 
-If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiFggqUAA12U_9NV52BLIuuOi7x7oBznIP2iaCcMQYcM39Ag/viewform). 
+If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiFggqUAA12U_9NV52BLIuuOi7x7oBznIP2iaCcMQYcM39Ag/viewform). The People Experience team will verify the details, and then forward to the team member. 
 
 If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. 
+
+In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
 
 ## Employment Verification
 
