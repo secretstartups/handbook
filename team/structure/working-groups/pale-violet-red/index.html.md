@@ -43,7 +43,7 @@ This Working Group has the following goals:
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Christopher Lefelhocz | VP Development            |
 | Facilitator           | Sam Goldstein         | Director Engineering, Ops |
-| Development Functional Lead  | | |
+| Development Functional Lead  | Stan Hu | Engineering Fellow |
 | Security Functional Lead    | | |
 | Infrastructure Functional Lead  |  | |
 | Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
