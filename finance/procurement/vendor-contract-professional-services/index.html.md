@@ -37,7 +37,7 @@ If yes, then follow the instructions on the table below:
 <div class="panel-body">
 
 - Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
-- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps. 
 
 </div>
 </div>
