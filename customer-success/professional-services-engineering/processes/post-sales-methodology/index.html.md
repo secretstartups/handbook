@@ -174,31 +174,7 @@ At the end of a project the Project leader should document the customer value dr
 ### Handoff (Support)
 At the end of a small/medium sized projects or after the initial implementation phase of a large engagement, open a [support ops issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) and add a link to the collaboration project architecture diagram that was deployed. The Support team will load it into a field in Zendesk to help them have context for customer support requests. 
 
-## Employing Subcontractors
 
-If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
-
-1. Confirm that the terms and conditions agreed to with the customer enable the use of a subcontractor.  In some cases, GitLab must first obtain written approval from the customer in order to employ a subcontractor.
-
-1. Generate a list of potential subcontractors.  GitLab has established relationships and signed Master Service Agreements with a collection of professional services firms.  Review the list of firms and select ones that have pools of resources with the correct set of skills and certifications.
-
-1. Contact the GitLab Channel Account Manager (CAM) who owns the relationship for the selected firms.  Provide the  CAM with a description of the services GitLab intends to subcontract along with the project start/end date and an estimate on the quantity of time GitLab intends to procure.
-
-1. Contact the selected firms through an introduction by the CAM.  GitLab should then submit the requirements to the partner firm and request resumes and rates for any resources the partner deems available and suitable for the project.
-Interview proposed resources. GitLab will meet with the proposed resources to determine if the person is a fit technically as well as from the perspective of fitting in with the project team that includes both GitLab and customer personnel.
-
-1. Develop a Statement of Work between GitLab and the selected firm.  The Statement of Work should employ best practices that we use when developing SOW’s for GitLab customers.  The SOW should also align with terms and conditions that GitLab is obligated to follow.
-
-1. Sign Statement of Work.
-
-1. Onboard the resource.  This includes procuring a GitLab email address for the selected partner personnel.  It may also include procuring access to customer systems.
-
-1. Track time.  As described in additional sections on this page, GitLab must account for all time logged against a project.  For subcontracted resources, GitLab will employ the following procedures:
-    * Subcontractor submits a weekly status report outlining billable hours delivered along with a description of the services performed during the submitted hours.
-    * GitLab staff load the time detail into the GitLab time tracking system.
-
-
-1. Offboard the resource.  At the conclusion of the project, remove access and determine how to handle incoming email for the provisioned email address.
 
 
 
