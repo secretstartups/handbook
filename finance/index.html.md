@@ -10,6 +10,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Finance Team READMEs](https://about.gitlab.com/handbook/finance/readmes/)
 
+
 # On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -22,9 +23,13 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 - Please use confidential issues for topics that should only be visible to team members at GitLab.
 
-[Procurement](/handbook/finance/procurement/)
+[Accounts Payable](/handbook/finance/accounts-payable/)
+
+[Expense Guidelines](/handbook/finance/expenses/)
 
 [Operating Metrics](/handbook/finance/operating-metrics/)
+
+[Procurement](/handbook/finance/procurement/)
 
 [Sales Comp Plan](/handbook/finance/sales-comp-plan/)
 
@@ -32,7 +37,6 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Stock Options](/handbook/stock-options/)
 
-[Expense Guidelines](/handbook/finance/expenses/)
 
 ## Forms
 
@@ -43,9 +47,9 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 ## Correspondence
 
 - Please use the `#finance` chat channel in Slack for questions that don't seem appropriate for the issue tracker or internal email correspondence.
-- **Accounts Payable**- inquiries which relate to vendor and merchant invoices, or team member's expenses should be sent to our Accounts Payable mailbox - ap@gitlab.com. You can also reach the AP team on Slack in the `#accountspayable` or `#expense-reporting-inquiries` chat channels.  Invoices that require payment processing should be sent to gitlab@supplierinvoices.com. Electronic copies of all invoices should be sent to this address as soon as they are billed. 
-- **Accounts Receivable**- customer billing inquiries should be sent to our Accounts Receivable mailbox – ar@gitlab.com
-- **Payroll**- inquiries which relate to contractor invoices should be sent to our Payroll mailbox - nonuspayroll@gitlab.com.
+- **Accounts Payable**- inquiries which relate to vendor and merchant invoices, or team member's expenses should be sent to our Accounts Payable mailbox - *ap@gitlab.com*. You can also reach the AP team on Slack in the `#accountspayable` or `#expense-reporting-inquiries` chat channels.  Invoices that require payment processing should be sent to *ap@gitlab.com*.
+- **Accounts Receivable**- customer billing inquiries should be sent to our Accounts Receivable mailbox – *ar@gitlab.com*.
+- **Payroll**- inquiries which relate to contractor invoices should be sent to our Payroll mailbox - *nonuspayroll@gitlab.com*.
 
 - - -
 
@@ -106,8 +110,7 @@ Refer to our [writing style guidelines](/handbook/communication/#writing-style-g
 
 <a name="invoices"></a>
 
-Vendor invoices are to be sent to gitlab@supplierinvoices.com and payroll@gitlab.com for contractors. An [invoice](https://docs.google.com/spreadsheets/d/1sRA2uCpFblOleyVIslqM4YwbW27GkU5DTgwMLhgR_Iw/edit?usp=sharing)
-template can be found in Google Docs by the name of "Invoice Template".
+Vendor invoices are to be sent to ap@gitlab.com and payroll@gitlab.com for contractors. An [invoice](https://docs.google.com/spreadsheets/d/1sRA2uCpFblOleyVIslqM4YwbW27GkU5DTgwMLhgR_Iw/edit?usp=sharing) template can be found in Google Docs by the name of "Invoice Template".
 
 Non-US contractors not from Hungary, Italy, Japan, New Zealand, Nigeria, South Africa, Switzerland, and Ukraine will get pay their monthly wages and expenses through iiPay. Here is the process:
 
