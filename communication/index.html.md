@@ -345,6 +345,7 @@ Some things are **internal**, available internally but not externally. The follo
 1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
 1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
 1. Compensation Changes: GitLab will communicate and train team members on the output of iterations to the Total Rewards offerings (Compensation, Equity, Benefits), but team members will not have visibility into the inputs and decision making of compensation changes.
+1. Information related to early exploratory iniatives in which GitLab Inc. has yet to determine the level of investment or scope of the initiative as early sharing of this information could be confusing or misleading to customers or other external parties. 
 
 ### Limited Access
 
