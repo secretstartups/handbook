@@ -653,6 +653,79 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 1. All requests for custom language or Order Form edits must meet the standards listed in [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). To request edits to an Order Form, tag @Sales-Support in chatter with the request and Deal Desk will evaluate the request and execute the edits via Word doc after necessary approvals are received.
 1. The default template for all transaction types (new, amendment, or renewals) will be the direct (non-channel) quotes that do not show $0 line items. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 
+#### Setting Up DocuSign for the First Time
+The first time you login to DocuSign from SFDC, you will be required to Authorize access and log in. Please follow these steps when prompted:
+
+1. After clicking on the “Send with DocuSign” button, you will be prompted with this screen. Select “Authorize” to continue.
+2. On the next screen, login to your DocuSign account. Enter your GitLab email address and click continue. This will automatically log you in with OKTA.
+3. Once logged in, click “Accept” to grant access to DocuSign.
+4. On the next screen, click “Allow” to grant DocuSign access to Salesforce.
+5. On the final screen, you may be asked to login to Salesforce again. After this access will be granted going forward.
+
+#### How to Send an Order Form to the Customer for Signature via DocuSign
+
+To send a digital copy of an Order Form to the customer via DocuSign:
+
+1. On the Approved quote, Click "Generate Quote PDF", near the top of the page.
+2. Proceed to the related opportunity.
+3. Confirm the PDF has been generated under the “Google Docs, Notes & Attachments” section on the opportunity.
+4. From the Opportunity, select the “Send with DocuSign” button.
+5. Here, a DocuSign window appears with the most recent file selected by default.
+- Preview the document by clicking on the document name.
+- If this is the correct document, click Next.
+- If this is NOT the correct document, uncheck the box next to the document, and add the correct file.
+6. To add one or multiple files, select “Add from Salesforce” or “Upload” from your computer:
+- “Add from Salesforce” will allow you to select any Order Form PDF that has been attached to the opportunity. 
+  - When selecting a document from “Add from Salesforce” make sure the box is checked to the left of the document so it is added to the envelope.
+- “Upload” will allow you to select any PDF from your computer. NOTE that any document not generated from a quote will require signature tags to be placed manually.
+- Make sure to hit “Next” once all the documents have been selected!
+7. Now you must add a Recipient: 
+- At minimum, you must add:
+  - A Signer 
+- Additional Recipients Options: 
+  - Viewer 
+  - Receives a Copy 
+  - Needs to View
+8. Use one of two recommended methods of adding a Recipient:
+- “From Salesforce” - Simply type in the name of a contact in Salesforce. Click Select.
+- “By Name & Email” - Enter Full name and email address. Click Select.
+  - Note: When using this option to add a signer, leave “Role” blank.	
+9. To add a second signer, add a second recipient. Ensure the second signer is marked as “Signer 2.” 
+10. Recipient Messaging
+- After specifying the envelope recipient, modify the email subject line and enter an optional email message. 
+  - By default, the email subject line is prefixed with the words "Please DocuSign:" and will automatically include the name(s) of the file(s) you upload to your envelope.
+  - For example, if you upload a file named "Confidentiality Agreement.docx," your subject line defaults to "Please DocuSign: Confidentiality Agreement.docx." 
+  - You can change the subject line to anything you like. Keep in mind that the subject line is also the envelope title that will display when you view your sent envelopes on the Manage page.
+  - You can also add an email message to the envelope 
+ - You can add reminder options if the envelope has not been opened, signed, or view.
+ - You can set an envelope expiration date when needed
+11. Click Next.
+12. Send Page
+- If you are sending the document to one signer: Review the document to ensure the Signer 1 signature tags are visible on the signature block. These tags are automatically applied to any Order Form PDF generated from the SFDC quote. When ready, click “Send.
+- If you are sending the document to two signers: Select the appropriate signer in the drop down menu on the top left of the screen. Drag and drop  the appropriate signature tags from the “Standard Fields” section onto the signature block on the order form. Repeat for the second signer. 
+  - For each signer, GitLab requires:
+    - Signature 
+    - Date Signed
+    - Full Name
+    - Title
+   - Note: Signature fields can only be added for recipients who need to take action on the document. Fields are not added for recipients who only need to view or receive a copy of the document.
+13. When Complete, click “Send.”
+
+#### How do I check if the customer has signed the Order Form via DocuSign?
+
+1. From the Opportunity level in our Salesforce instance, you can view the status of a document by hovering over the “DocuSign Envelope Status.
+2. Once the document has been sent the status will state “Sent.”
+3. Once the document has been signed the status will update to “Completed.”
+4. You will receive email notifications to your Gitlab email address when the document has been viewed, and when it has been signed. 
+5. When the document has been fully signed, it will automatically be attached to the opportunity. 
+
+#### Learning Resources: DocuSign University 
+- [Send Your First Envelope](https://dsu.docebosaas.com/learn/course/620) 
+- [Configure Envelopes for Sending](https://dsu.docebosaas.com/learn/course/687/play/1849:2112/configure-envelopes-for-sending)
+- [DocuSign Support Page](https://support.docusign.com/en/home)
+
+Note: You must log in with your DocuSign credentials to access these educational resources.
+
 #### How to Send an Order Form to the Customer for Signature via Sertifi
 
 To send a digital copy of an Order Form to the customer via Sertifi:
