@@ -26,7 +26,7 @@ Simply said - GitOps takes DevOps best practices used for application developmen
 
 ## Getting Started
 
-### Who to meet
+### Who to meet  {#who-to-meet}
 {: .alert .alert-gitlab-orange}
 
 The persona interested in GitOps is in general different from your development or engineering organizations. They are most often from the operations, systems, infrastructure, platform and cloud side of the organization. 
@@ -38,7 +38,7 @@ The persona interested in GitOps is in general different from your development o
 
 More details [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#personas)
 
-### Keywords to listen for
+### Keywords to listen for  {#keywords}
 {: .alert .alert-gitlab-orange}
 
 | Infrastructure as code | GitOps | Infrastructure automation |
@@ -46,7 +46,7 @@ More details [here](https://about.gitlab.com/handbook/marketing/strategic-market
 | Terraform | Ansible | AWS Cloud formation |
 | Weaveworks Flux | Argo CD | Terraform Cloud |
 
-#### How to identify interest based on activity
+#### How to identify interest based on activity {#identify-interest}
 
 Customers engage with our content from our website, collaterals, videos and campaigns. We can identify a customer's interest levels based on their latest activity - which you can see on SFDC.
 
@@ -67,7 +67,7 @@ Marketing is running a related demand gen campaign.
 ### Value discovery
 {: .alert .alert-gitlab-orange}
 
-### Common Pains
+### Common Pains  {#common-pains}
 
 | Challenges "before scenarios" | So What? "negative consequences" |
 | ----------------------------- | -------------------------------- |
@@ -78,7 +78,7 @@ Marketing is running a related demand gen campaign.
 More questions [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#discovery-questions)
 
 
-### Common benefits
+### Common benefits  {#common-benefits}
 
 | Desired Future State (“After Scenarios”) | So What? (“Positive Business Outcomes”) |
 | ----------------------------- | -------------------------------- |
@@ -89,7 +89,7 @@ More questions [here](https://about.gitlab.com/handbook/marketing/strategic-mark
 | Reduced security exposure | All changes can be reviewed and approved, security for infrastructure code can be embedded within the pipeline |
 
 
-### Required capabilities
+### Required capabilities  {#required-capabilities}
 
 'GitOps = Infrastructure as Code + Merge Request + CI/CD'
 
@@ -102,7 +102,7 @@ More questions [here](https://about.gitlab.com/handbook/marketing/strategic-mark
 | Rollback |  Lower mean time to repair - can roll back to working definition of infra before troubleshooting |
 
 
-## Positioning value
+## Positioning value  {#positioning-value}
 {: .alert .alert-gitlab-orange}
 
 
@@ -145,7 +145,7 @@ Detailed list of Q&A [here](https://about.gitlab.com/handbook/marketing/strategi
 ## Sales Play Tactics
 {: .alert .alert-gitlab-orange}
 
-### SALs and AEs
+### SALs and AEs  {#sals-aes}
 
 How to identify if you need to lead with a GitOps conversation?
 
@@ -177,7 +177,7 @@ How to identify if you need to lead with a GitOps conversation?
 1. Share the Forrester TEI report from the [pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content)
 1. Use the [ROI calculator](https://about.gitlab.com/calculator/) to showcase the value of using GitLab as a single application over other solutions
 
-### SA
+### SA  {#sas-tams}
 
 How to identify if you need to have to lead with a GitOps conversation?
 
@@ -206,7 +206,7 @@ How to identify if you need to have to lead with a GitOps conversation?
   - GitOps TMM
   - GitOps PM
 
-### SDR
+### SDR  {#sdrs}
 
 How to identify if you need to have a GitOps conversation with a lead?
 
@@ -248,12 +248,12 @@ Here are a few recommended email templates you can use based on the stage of the
 - Technical Demo: [Here’s how your team can automate infrastructure deployments](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#heading=h.zedoh58debpr)
 
 
-### Webinars, e-books, whitepapers, videos
+### Webinars, e-books, whitepapers, videos  {#resources-list}
 - [Pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content) to share with customers
 - Complete list of presentations, web pages, whitepapers, blogs and videos available [here](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/gitops/#resources).
 - GitOps [Enablement presentation](https://docs.google.com/presentation/d/1o728pUdk1rrNqWAZpzZVdfZ3gzADvTXSssVzqL-6WB4/edit#slide=id.g8d846209b0_25_172)
 
-### Customer Stories
+### Customer Stories  {#customer-stories}
 
 - [BI Worldwide](https://learn.gitlab.com/gitops-gtm-all/bi-worldwide-gitlab?lx=AZeFEd)
 - [Wag](https://learn.gitlab.com/gitops-gtm-all/wag-labs-blog-post?lx=AZeFEd)
