@@ -289,8 +289,8 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
-- [*campaign-manager-general](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=*campaign-manager-general)
-  - to be used by Campaign Managers for simpler project management for their own initiated issues
+- *[campaign-manager-wip](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=*campaign-manager-wip)*
+  - to be used by Campaign Managers ONLY for simpler project management for their own initiated issues
   - puts straight in WIP status with pre-set for milestone, due date, and assignment
 - [campaigns-brief](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-brief)
 - [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
