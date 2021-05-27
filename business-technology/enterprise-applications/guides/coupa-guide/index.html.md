@@ -18,11 +18,9 @@ description: "Coupa Procure-to-Pay, Coupa Pay and Supplier Information Managemen
 
 The business had identified the need to optimize the Procure to Pay process with a tool that would allow the creation of Purchase Requests, Purchase Orders, 3-way invoice matching, vendor payments, and accounting protocols for SOX Compliance.
 
-Coupa provides this functionality within one platform and is integrated to decrease procurement approval turn-times and reduce manual workflow delays.
-
 ## Business Solution
 
-The business decided to move forward with the implementation of Coupa for the Procurement and Payment Program. Coupa provides these functionalities within one platform and is integrated to decrease procurement approval turn-times and reduce manual workflow delays
+The business decided to move forward with the implementation of Coupa for the Procurement and Payment Program. Coupa provides these functionalities within one platform and is integrated to decrease procurement approval turn-times and reduce manual workflow delays.
 
 In scope for this first delivery is the implementation of Coupa Pay for the US and Netherlands entities.
 {: .alert .alert-info}
@@ -76,14 +74,35 @@ Account Name contains a number of options related to managing your account in Co
 - **Settings**: Contains consolidated personal settings.
    - **General**: The General tab is where you can load a profile photo and check user forms.
    - **Address Book**: Allows you to view your default shipping address and change it as needed (you can also change the shipping address of a particular requisition on the requisition page).
-   - **Delegates**: Users can delegate their receiving and approvals to another user by using the Delegates functionality (it is possible to add multiple, overlapping delegates, and enable notifications).
-      - Assigned delegates must be of an equivalent or greater management level.
-      - For approvals as part of an approval group, the individual must be a member of that group.
+   - **Delegates**: Users can delegate their receiving and approvals to another user by using the Delegates functionality (it is possible to add multiple, overlapping delegates, and enable notifications). _Check the [How to add a Delegate in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-a-delegate-in-coupa) section for more details_.
    - **Reports**: Users can schedule a report by going to a particular report view and specifying the scheduling details (only certain users will have access to reports and report views are dependent on role).
    - **Notifications**: Coupa notifications can be managed. For each type of notification, the User can choose whether they would like to receive notifications via email (Email), within Coupa (Online), both, or neither.
-   - **Two-Factor Authentication (2FA)**: Should be enabled on user profiles to ensure that financial accounts and instruments are protected for control and use by the individual to whom they are intended. This extra authentication layer on the user profile is required before that user can be granted privileged permissions for working with payment features like creating batches for expense and invoice payments, creating accounts, and many other secured payment functions. _Check the [How to enable Two-Factor Authentication (2FA)]() section for more details_.
+   - **Two-Factor Authentication (2FA)**: Should be enabled on user profiles to ensure that financial accounts and instruments are protected for control and use by the individual to whom they are intended. This extra authentication layer on the user profile is required before that user can be granted privileged permissions for working with payment features like creating batches for expense and invoice payments, creating accounts, and many other secured payment functions. _Check the [How to enable Two-Factor Authentication (2FA)](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-enable-two-factor-authentication-(2FA)) section for more details_.
 - **Inbox** - Displays all current and previous notifications.
 - **Sign Out** - to exit the application.
+
+#### How to add a Delegate in Coupa
+
+![coupa-image-19](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa19.png)
+
+1. Go to your "Account Name" > "Settings".
+1. Click on the "Delegate" subtab.
+1. Click “Create” and select a delegate type approval (Receiving, Delegate) for a specified timeframe and give a reason.
+1. Click "Save".
+
+Assigned delegates must be of an equivalent or greater management level.
+For approvals as part of an approval group, the individual must be a member of that group.
+{: .alert .alert-info}
+
+#### How to Enable Two-Factor Authentication (2FA)
+1. Go to your "Account Name" > "Settings".
+1. Click on the "Two-Factor Authentication" subtab.
+1. Click the "Enable" button.
+1. Use your Google Authentication app to scan the QR Code.
+1. Enter the 6-digits displayed in the authentication app in the Verification Code field.
+1. Click "Submit".
+
+> Anytime you are challenged for a 2FA verification code, just launch your authenticator and enter the latest code.
 
 ### How to Create a Requisition
 
@@ -91,7 +110,7 @@ Account Name contains a number of options related to managing your account in Co
 
 ![coupa-image-4](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa4.png)
 
-- Click on the ‘Write a request’ button on the homepage.
+- Click on the "Write a request" button on the homepage.
 - Complete the form with the following information:
 
 ![coupa-image-5](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5.png)
@@ -102,7 +121,7 @@ Account Name contains a number of options related to managing your account in Co
    - Quantity should be selected for an item-based requisition and Receiving of goods will be required.
    - When Professional Services are bought together with a software, they should be added in different lines (since they will fall under different commodities). Software purchases are usually based in the amount and not the quantity.
 - c) Supplier _(required)_<br>
-   - The supplier has to be onboarded into Coupa in order to be displayed in this dropdown. Check the _[How to Request a New Supplier]()_ section for more information.
+   - The supplier has to be onboarded into Coupa in order to be displayed in this dropdown. Check the _[How to Request a New Supplier](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)_ section for more information.
 - d) Commodity _(required)_<br>
 - e) Unit Price _(required)_<br>
 - f) Currency _(required)_<br>
@@ -117,7 +136,7 @@ Account Name contains a number of options related to managing your account in Co
 - o) Attachments _(optional)_<br>
 - p) Write Multiple Request _(tick this box if you will create multiple lines)_<br><br>
 - Click "Add to Cart" once completed.
-- Review your cart by clicking on the ‘Cart’ button at the top of the page.
+- Review your cart by clicking on the "Cart" button at the top of the page.
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
 
 **REQUISITION HEADER LEVEL**
@@ -238,7 +257,7 @@ There are several ways to approve transactions in Coupa:
 - **Inbox**
    - Users can access all their notifications through the “Inbox” section under “Account Name”.
    - The User can change the report View to "To Do" to filter all notifications requiring action.
-- Via **Activity > “Transactional Tabs” > Requiring My Approval** view.
+- Via **Activity > “Transactional Tabs” > Requiring My Approval** view
    - In each Activity transactional subtabs, users can change the report view to Requiring My Approval.
 - **Email**
    - The approver receives a system-generated email notifying about the requisition or invoice as soon as a user submits the transaction.
@@ -290,7 +309,7 @@ Provided that a Purchase Requisition has not been approved and flipped into an O
 <div class="panel-body">
 
 - On “Activity”, the user can select the “Pending Approval” view.
-- If a Requisition has already been flipped into an Order, the user cannot withdraw the requisition. They will have to create a [Purchase Order Change Request]().
+- If a Requisition has already been flipped into an Order, the user cannot withdraw the requisition. They will have to create a [Purchase Order Change Request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-do-a-purchase-order-change-request).
 
 </div>
 </div>
@@ -343,7 +362,7 @@ As **Central Receiver**, follow the below steps:
 1. Click the "Void Receipt" button.
    - Confirmation prompt appears and status should be Voided.
 
-### How to do a Purchase Order (PO) Change Request
+### How to do a Purchase Order Change Request
 
 Requesters can take certain actions to manage their orders.
 
@@ -380,11 +399,16 @@ To raise a New Supplier Request:
 
 ### How to Search for a Supplier
 
-- On the Coupa Homepage, click the "Write request" button.
+- On the Coupa Homepage, click the "Write a request" button.
 - Type the supplier’s name on the Supplier field.
-   - If the Supplier is active, the system will display the Supplier. If a "No results" found message popped below the supplier box, then the Supplier is inactive or not yet existing in Coupa.
+   - If the Supplier is active, the system will display the Supplier.
+   - If a "No results match" message popped below the supplier box, then the Supplier is inactive or not yet existing in Coupa.
 
 ![coupa-image-18](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa18.png)
+
+## Coupa Training Videos
+
+All Coupa related videos can be found in our ["Coupa" playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kr1PNe_Ycz0x4G5aizUPDbM) on youtube.
 
 ## Coupa Support
 
