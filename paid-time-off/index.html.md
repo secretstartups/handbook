@@ -166,7 +166,34 @@ We do understand that during extended periods of time off team members may still
 
 For managers it is ok to reach out to a team member every 3-4 weeks to just to say hello.  These conversations should remain social and avoid work related topics.  
 
-## Communicating Other Status Using PTO by Roots
+## PTO by Roots
+
+[PTO by Roots](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
+
+[PTO by Roots Training Video](https://vimeo.com/469045356)
+
+Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
+
+
+### Slack Commands
+* `/pto-roots ooo` Create an OOO event.
+* `/pto-roots me` View your OOO dashboard to edit, add or remove OOO events.
+* `/pto-roots whosout` See upcoming OOO for everyone in the channel where this command is used.
+* `/pto-roots @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
+* `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
+* `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
+* `/pto-roots settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+
+### PTO by Roots / BambooHR Time Off Sync
+
+-It should be noted that the sync between PTO by Roots and BambooHR will only take place after an PTO event has taken place. BambooHR cannot see scheduled/future PTO events.  
+
+* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
+* The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
+* The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
+* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots **do not sync** to BambooHR.
+
+### Communicating Other Status Using PTO by Roots
 
 Other OOO options include:
 
@@ -181,14 +208,6 @@ Other OOO options include:
 
 These other types of OOO categories do not count as PTO.  These categories are an easy way to correctly track your time and communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service or Jury Duty, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
-## PTO by Roots
-
-[PTO by Roots](https://treehoppr.com/pto-ninja) allows employees and managers to coordinate time off seamlessly with intuitive Slack commands. The integration from Slack and BambooHR automatically monitors PTO balances and takes action; PTO by Roots will automatically add any time off taken for sick and vacation accruals to BambooHR. PTO by Roots also reminds employees of their upcoming time off and helps them assign roles and tasks for co-workers, giving all parties involved greater alignment and peace of mind.
-
-[PTO by Roots Training Video](https://vimeo.com/469045356)
-
-Please be aware that new team members' PTO by Roots accounts are activated and synced automatically once a day, so if you try to access PTO by Roots on your first day and receive an error message, please attempt to access PTO by Roots on Day 2. If you still receive an error message, let your assigned People Ops Specialist know in your onboarding issue.
-
 ##### Unable to access PTO by Roots 
 
 If you receive an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps. 
@@ -196,33 +215,17 @@ If you receive an error message **"Uh-oh! It doesn't look like you have access t
 1. If these two are not the same exact email then the application will not recognize you as a team member. 
 1. If these two are the same, please reach out in the `#peopleops` channel. 
 
-#### Slack Commands
-* `/pto-roots ooo` Create an OOO event.
-* `/pto-roots me` View your OOO dashboard to edit, add or remove OOO events.
-* `/pto-roots whosout` See upcoming OOO for everyone in the channel where this command is used.
-* `/pto-roots @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
-* `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
-* `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
-* `/pto-roots settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+### Additional Features
 
-#### PTO by Roots / BambooHR Time Off Sync
-
-* The **Vacation** OOO type in PTO by Roots syncs to **Employee Accruals** in the team member's Time Off tab in BambooHR.
-* The **Out Sick** OOO type in PTO by Roots syncs to **Sick Time** in the team member's Time Off tab in BambooHR.
-* The **Parental Leave** OOO type in PTO by Roots syncs to **Parental Leave** in the team member's Time Off tab in BambooHR.
-* The **Public Holiday**, **Bereavement**, **Mandatory Civilian Service**, and **Family and Friends Day** OOO types in PTO by Roots do not sync to BambooHR.
-
-#### Additional Features
-
-##### Google Calendar Sync
+#### Google Calendar Sync
 
 PTO by Roots allows you to sync time off requests with your Google Calendar.
 
-##### Automatic Status + Do Not Disturb Updates
+#### Automatic Status + Do Not Disturb Updates
 
 PTO by Roots can automatically set your OOO status in Slack and apply “Do Not Disturb” settings while you’re away. You must add these permissions individually.
 
-##### Roles and Task Handoffs
+#### Roles and Task Handoffs
 
 PTO by Roots provides an experience that allows you to set roles and tasks for co-workers while
 you’re away. Accepted roles then become a part of a Slack away message that appears as
@@ -231,7 +234,7 @@ co-workers try to tag you in discussions while you’re OOO.
 Before assigning a `#channel` to a role, please ask for permission to do so in that channel.
 Especially in large channels and during popular vacation times, PTO's role reminders could create a lot of noise, so some teams may recommend against them until there is an option to allow turning off the PTO notifications.
 
-##### Bulk Add holidays
+#### Bulk Add holidays
 
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Roots in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
@@ -240,7 +243,7 @@ You can bulk add holidays based on your region and then modify them manually if 
 * Choose the desired year
 * Click on `Bulk Add By Region`
 
-##### Monthly reminder to consider taking PTO
+#### Monthly reminder to consider taking PTO
 
 We get it — life gets busy. So busy, in fact, that you may need a little nudge to consider taking time off to recharge. PTO by Roots allows you to subscribe (and unsubscribe) to a monthly prompt, sent on the first *working* day of each month, reminding you to pause and think about time away from work and prioritizing [mental health](/company/culture/all-remote/mental-health/).
 
@@ -267,18 +270,6 @@ Considering GitLab has a [no ask](/handbook/paid-time-off/#a-gitlab-team-members
 
 You can request a new PTO by Roots feature by using the aforementioned `/pto-roots feedback` command in Slack. If you receive feedback from the PTO by Roots team, or a new feature is implemented, please document the discussion in [this GitLab issue](https://gitlab.com/gitlab-com/people-group/General/issues/285). You can also create an issue in the [People Group general project](https://gitlab.com/gitlab-com/people-group/General) and ping CEO Kevin Corliss `@pto-ninja` and CTO Doug Franklin `@doug17` for review.
 
-### Management’s Role in Paid Time Off
-
-Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off let them know they can do this.
-
-For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth.  Whether a team member is taking one day off, or 25+ days off, all team members must use [PTO by Roots](#pto-by-roots).
-
-If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
-
-If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Experience team at `people-exp @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Experience team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
-
-To make sure that their direct reports are taking enough PTO, every manager has access to the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. When managers generate reports, these reports only shows team members in their reporting tree - direct reports and below. In the PTO by Roots' [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) there is a [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing) which describes how to pull reports. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter. The Total column will show what’s taken/scheduled to be taken during the timeframe selected.
-
 ### Instructions for People Ops and Total Rewards to Update PTO by Roots Events
 
 If a OOO event is in progress:
@@ -298,6 +289,20 @@ If a OOO event has completed and synced to BambooHR:
 1. People Specialist: Monitor BambooHR for the next 24 hours to ensure that the corrected event synced successfully.
 
 To clarify, once the event has completed and synced to BambooHR, both the BambooHR and PTO by Roots events have to be deleted for the new correct event to be saved to BambooHR.
+
+## Management’s Role in Paid Time Off
+
+Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off let them know they can do this.
+
+For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth.  Whether a team member is taking one day off, or 25+ days off, all team members must use [PTO by Roots](#pto-by-roots).
+
+If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
+
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Experience team at `people-exp @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Experience team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
+
+To make sure that their direct reports are taking enough PTO, every manager has access to the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. When managers generate reports, these reports only shows team members in their reporting tree - direct reports and below. In the PTO by Roots' [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) there is a [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing) which describes how to pull reports. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter. The Total column will show what’s taken/scheduled to be taken during the timeframe selected.
+
+
 
 ### Recognizing Burnout
 
@@ -357,7 +362,7 @@ is an option for you, schedule a coffee call with [Marin](slack://user?team=T025
 
 Take care not to burn yourself out!
 
-### Statutory Vacation Requirements
+## Statutory Vacation Requirements
 
 The following is a list of all statutory annual vacation entitlements by entity and country. Once the statutory amounts have been taken, employees can still make use of GitLab's No Ask Time Off policy.
 
@@ -391,7 +396,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
 | Quebec Only                  | 3 weeks after 1 year and going forward        | 6% for the first 9 years, 8% after 9 years |
 | Saskatchewan Only            | 3 weeks after 1 year / 4 weeks after 10 years | 6% for the first 9 years, 8% after 9 years |
 
-#### Processing Vacation Requirements (People Ops Instructions)
+## Processing Vacation Requirements (People Ops Instructions)
 
 Review above section `Statutory Minimum Vacation Time` for questions around dates and amounts. Due to BambooHR's settings, it cannot automatically make some adjustments to the accruals. To keep these figures accurate we must perform some manual work. 
 
