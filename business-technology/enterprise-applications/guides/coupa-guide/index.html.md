@@ -44,7 +44,7 @@ Coupa is available via Okta. To access the platform:
 
 ### Home Page Overview
 
-ADD IMAGE 1
+![coupa-image-1](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa1.png)
 
 1. **Home Icon** - This icon will bring you back to the homepage.
 1. **Account Name** - contains a number of personal settings related to managing your account in Coupa.
@@ -57,7 +57,7 @@ ADD IMAGE 1
 
 ### User Account
 
-ADD IMAGE 2
+![coupa-image-2](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa2.png)
 
 Account Name contains a number of options related to managing your account in Coupa:
 
@@ -70,7 +70,7 @@ Account Name contains a number of options related to managing your account in Co
       - 5) **Export**: allows downloading a report in CSV or Excel format based on the current filters applied to the list of requisitions.
       - 6) **Actions**: the icons next to each requisition allow you to edit, copy, cancel, withdraw, and resend requisitions.
 
-ADD IMAGE 3
+![coupa-image-3](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa3.png)
 
 - **Groups**: Access to Groups setup and allows user to add members in the group he belongs to.
 - **Settings**: Contains consolidated personal settings.
@@ -99,7 +99,7 @@ Anytime you are challenged for a 2FA verification code, just launch your authent
 
 #### Free-Form Requisition
 
-ADD IMAGE 4
+![coupa-image-4](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa4.png)
 
 1. A Requestor clicks on the ‘Write’ button on the homepage.
 1. Complete the “write” screen with following information:
@@ -120,7 +120,7 @@ ADD IMAGE 4
    - o) Attachments **(optional)**
    - p) Write Multiple Request – tick this box if you will create multiple lines
 
-ADD IMAGE 5
+![coupa-image-5](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa5.png)
 
 <div class="panel panel-warning">
 **NOTES**
@@ -138,7 +138,7 @@ ADD IMAGE 5
 1. Click Add to Cart once completed. You can add more items by repeating Step 2.
 1. Once a requester clicks on ‘Add to Cart’, they can review it by clicking on the ‘Cart’ button at the top of the page.
 
-ADD IMAGE 6
+![coupa-image-6](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa6.png)
 
 1. After clicking Review Cart, the requestor will be directed to the ‘Review Cart’ screen and all the cart details will be displayed. (This is your Purchase Request form that will be flipped into an Order when approved). _In the review cart screen a requestor can review and edit cart details as required_
 
@@ -152,7 +152,7 @@ ADD IMAGE 6
 - g) Address (required. Click on the magnifying glass icon to select an address).
 - h) Attention (defaults from the User record).
 
-ADD IMAGE 7
+![coupa-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa7.png)
 
 <div class="panel panel-warning">
 **NOTES**
@@ -171,13 +171,13 @@ ADD IMAGE 7
 - Fields marked with a red asterisk are required fields.
 - Click Save to apply the changes.
 
-ADD IMAGE 8
+![coupa-image-8](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa8.png)
 
 ### Approvals
 
 Once all the required information including the billing string is populated on the cart, based on the system approval rules, the applicable approvers are displayed beneath the cart line. _The greater the amount of the requisition, the more approvers will be needed._
 
-ADD IMAGE 9
+![coupa-image-9](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa9.png)
 
 #### Approvals Section
 
@@ -189,7 +189,7 @@ ADD IMAGE 9
 **NOTE:**A watcher cannot approve or reject the cart but will receive notifications about the requisition.
 {: .alert .alert-info}
 
-ADD IMAGE 10
+![coupa-image-10](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa10.png)
 
 - At the bottom-right section of the review cart screen the user can:
    - a) Save the Purchase Request but not keep it active in their Cart by clicking on “Save for Later”. The Purchase Request will be available on “Draft” status on the user’s “Activity” page under the ”Requisitions” section.
@@ -197,7 +197,7 @@ ADD IMAGE 10
    - c) Once the cart has been verified for correct information, the User can submit the cart for approval by clicking on the “Submit for Approval” button below the approval chain.
 - Once the requisition is submitted, the user sees a green banner with confirmation that the Purchase Request has been sent for approvals.
 
-ADD IMAGE 11
+![coupa-image-11](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa11.png)
 
 #### Methods to Approve Transactions
 
@@ -230,7 +230,7 @@ There are several ways to approve transactions in Coupa:
 
 #### Punchout Requisition
 
-ADD IMAGE 12
+![coupa-image-12](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa12.png)
 
 1. On the Homepage Screen, click on any Punchout supplier located under Additional Stores section.
 1. Clicking on the Punchout link will take you to an approved supplier website where you start ordering your items, just like any online shopping experience.
@@ -240,7 +240,7 @@ ADD IMAGE 12
 1. Once in Coupa Review Cart screen, populate the required information such as the Commodity and Billing Account.
 1. Review completeness of the requisition and click Submit for Approval.
 
-ADD IMAGE 13
+![coupa-image-13](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa13.png)
 
 <div class="panel panel-info">
 **NOTES**
@@ -262,7 +262,7 @@ Users can copy requisitions so they do not have to re-create the same order deta
 2. Click on the “Copy” Icon and a copy of the requisition will automatically be added to your cart.
    - Note: on the “Recent Activity” section you have to click on the “Actions” dropdown to be able to see the “Copy” button.
 
-ADD IMAGE 14
+![coupa-image-14](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa14.png)
 
 <div class="panel panel-warning">
 **Notes*
@@ -282,7 +282,7 @@ Provided that a Purchase Requisition has not been approved and flipped into an O
 1. Go to “Recent Activity” or “Activity” section.
 1. Find your Purchase Request on “Pending Approval” status and click on the “withdraw requisition” icon (Red Arrow).
 
-ADD IMAGE 15
+![coupa-image-15](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa15.png)
 
 <div class="panel panel-warning">
 **NOTES**
@@ -356,7 +356,7 @@ Requesters can take certain actions to manage their orders.
 1. Once submitted, the purchase order will be routed for approval.
 1. The requester can 'Click to view pending change' to view the difference between the original PO and the changed PO.
 
-ADD IMAGE 16
+![coupa-image-16](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa16.png)
 
 <div class="panel panel-info">
 **NOTES**
@@ -368,7 +368,7 @@ ADD IMAGE 16
 </div>
 </div>
 
-### How to do a New Supplier Request
+### How to Request a New Supplier
 
 A supplier must exist in Coupa prior to submitting a requisition for that supplier.
 
@@ -377,14 +377,11 @@ To raise a New Supplier Request:
 1. Complete the form details and click "Review".
 1. Approval Workflow will be displayed. Click Submit for Approval to route to the approvers.
 
-ADD IMAGE 17
+![coupa-image-17](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa17.png)
 
 - Once the New Supplier request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information (the Supplier must complete the form and submit it back).
 - After supplier submission, the external form will be routed to the Accounts Payable Approval Group for review and approval.
 - After approval, the Supplier details will be integrated to NetSuite. Once the supplier is successfully created in NetSuite, it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should now be available when creating Purchase Requests and Invoices.
-
-
-
 
 
 
