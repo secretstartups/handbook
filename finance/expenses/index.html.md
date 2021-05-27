@@ -70,7 +70,7 @@ Take inspiration from our [all-remote page covering key considerations for a com
 
 #### Individual Subscriptions
 
-GitLab does not reimburse individual software subscriptions (e.g. Apple Music, Krisp, etc.). Software subscriptions should be set up through the [company procurement process](/handbook/finance/procurement/), or by [creating an access request for an existing company subscription](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request).
+GitLab does not reimburse individual software subscriptions (e.g. Apple Music, Krisp, etc.). Software subscriptions should be set up through the [company procurement process](/handbook/finance/procurement/), or by [creating an access request for an existing company subscription](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
 ##### Subscription Exceptions
 
