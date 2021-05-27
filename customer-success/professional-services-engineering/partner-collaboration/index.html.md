@@ -71,7 +71,26 @@ Make sure as you (and/or the partner) is delivering the implementation services,
 - All code developed for these services must NOT contain any customer information so we can reuse the project for future customers without reinventing the wheel.
 - [Consulting services](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/consulting) should be built and maintined in the consulting directory of [global practice development](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development)
 
+## Employing Partner/Subcontractors
 
+If the project requirements exceed the current capacity of the available resources then the professional services team may employ a subcontractor to help deliver the project.  The following provides a checklist of items to process before and during the use of a subcontracted resource:
+
+1. Confirm that the terms and conditions agreed to with the customer enable the use of a subcontractor.  In some cases, GitLab must first obtain written approval from the customer in order to employ a subcontractor.
+
+1. Review the list of potential Partners and subcontractors.  GitLab has established relationships and signed Master Service Agreements with a collection of partners.  Review the list of partners and select ones that have resources with the correct set of skills and certifications.
+
+1. Contact the selected partner through an introduction by the GitLab PS Partner Manager.  GitLab should then submit the requirements to the partner and request resumes and rates for any resources the partner deems available and suitable for the project.
+Interview proposed resources. GitLab will meet with the proposed resources to determine if the person is a fit technically as well as from the perspective of fitting in with the project team that includes both GitLab and customer personnel.
+
+1. Share Statement of Work between GitLab and the selected partner.  The Statement of Work should be based on the latest released template to ensure that up to date legal language is included. 
+
+1. Send GitLab signed and stamped Statement of Work to the Partner.
+
+1. Onboard the subcontractor using the [onboarding process](https://gitlab.com/gitlab-com/customer-success/professional-services-group/onboarding-epics).
+
+1. Track time.  As described on the [PS Operations](sites/handbook/source/handbook/customer-success/professional-services-engineering/professional-services-operations) page, GitLab must account for all time logged against a project.  
+
+1. Offboard the resource.  At the conclusion of the project, remove access to Slack channel, internal tools, as needed.
 
 
 
