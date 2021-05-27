@@ -66,8 +66,17 @@ Take inspiration from our [all-remote page covering key considerations for a com
    ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
    configuration](/handbook/security/#laptop-or-desktop-system-configuration).
-1. For smaller short term Subscription purchases please reach out to the `#accountspayable` channel to inquire about the proper procurment steps, and payment methods available.  
+1. [Options are available for smaller short term Subscription purchases](#subscription-exceptions).
 
+#### Individual Subscriptions
+
+GitLab does not reimburse individual software subscriptions (e.g. Apple Music, Krisp, etc.). Software subscriptions should be set up through the [company procurement process](/handbook/finance/procurement/), or by [creating an access request for an existing company subscription](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+
+##### Subscription Exceptions
+
+Certain types of individual subscriptions are reimbursable, such as VPN service. If you are uncertain whether a particular service is reimbursable, please contact Finance in the `#expense-reporting-inquiries` channel.
+
+If you need a short-term or individual software subscription, please reach out to Finance in the `#accountspayable` Slack channel to discuss options.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Hardware
 
@@ -350,7 +359,7 @@ Examples of things we do not reimburse:
 1. Portable Air Conditioners
 1. Home Power Generators 
 1. Air-pods
-1. Individual subscriptions ex. Krisp , apple music
+1. [Individual subscriptions ex. Krisp , apple music](#individual-subscriptions)
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
