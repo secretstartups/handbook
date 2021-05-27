@@ -173,7 +173,7 @@ How to identify if you need to lead with a GitOps conversation?
 1. After your call, consider emailing your customer the [GitOps Demo email template](https://docs.google.com/document/d/1uvZPw39OAExz7sIivIlPi3jNlUXKodVNy0mmIb-X0Cs/edit#) custom made for GitOps conversations.
 
 #### During negotiation / decision making
-1. [Show how we are different](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#differentiators-how-gitlab-does-it-better)
+1. [Show how we are different](#differentiators-how-gitlab-does-it-better)
 1. Share the Forrester TEI report from the [pathfactory track for GitOps](https://learn.gitlab.com/l/gitops-gtm-content)
 1. Use the [ROI calculator](https://about.gitlab.com/calculator/) to showcase the value of using GitLab as a single application over other solutions
 
@@ -183,18 +183,18 @@ How to identify if you need to have to lead with a GitOps conversation?
 
 #### Before discovery
 1. Familiarize yourself with the GitOps sales play above - at a minimum watch the enablement video.
-1. Ensure you are going to meet with one of the right [user personas](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#who-to-meet).
+1. Ensure you are going to meet with one of the right [user personas](#who-to-meet).
 1. Familiarize yourself with the top discovery questions, objection handling and differentiators for GitOps.
 
 #### During discovery
-1. Ask the [discovery questions](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#value-discovery). Listen to the customer and understand their pains and challenges.
+1. Ask the [discovery questions](#value-discovery). Listen to the customer and understand their pains and challenges.
 1. As you hear their pains, challenges, business objectives and priorities, start using their own terms when explaining to them how GitOps with GitLab can help them.
 1. Understand their technical requirements. For example, look to get answers to the following technical discovery questions:
   - Do their applications require a hybrid cloud infrastructure or multi-cloud?
   - Do they have any hard-dependencies on any infrastructure-as-code tool? e.g. Terraform, Ansible, etc.
   - Do they need GitOps for K8s, non-K8s or both?
   - In the case of K8s, are their clusters available outside their firewall?
-1. Be prepared to do some competitive [objection handling](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#handling-objections)
+1. Be prepared to do some competitive [objection handling](#handling-objections)
 
 #### During evaluation
 1. Prepare your own GitOps environment for demo purposes by following the steps from the [GitOps lab](https://gitlab.com/tech-marketing/workshops/cicd/cd-labs-instructions/-/blob/master/11.%20GitOps%20with%20GitLab.md) of the SA CD Workshop. This lab covers AWS as a cloud provider. If you'd like to add Google and/or Azure, you can extend your environment by leveraring our public-facing [GitOps demo](https://gitlab.com/gitops-demo).
@@ -215,7 +215,7 @@ How to identify if you need to have a GitOps conversation with a lead?
 1. Identify if the last interesting moment on 'Pathfactory for Sales' on SFDC is related to GitOps (use the keywords to determine this)
 1. Identify the top content viewed by customer on 'Pathfactory for Sales' on SFDC is related to a GitOps topic
 1. Use the keywords listed above to identify if a lead is interested in a GitOps conversation
-1. Ensure you are talking to the [right persona](https://about.gitlab.com/handbook/marketing/plan-fy22/gtm-gitops/infra-automation-playbook/#who-to-meet) - typically this is not a developer, could be a team lead, system architect, cloud architect -> from the infrastructure / operations side of the house.
+1. Ensure you are talking to the [right persona](#who-to-meet) - typically this is not a developer, could be a team lead, system architect, cloud architect -> from the infrastructure / operations side of the house.
 1. Ensure you are familiar with the top discovery questions, objection handling and differentiators for GitOps. **Note it is very different form other conversations - as the persona we talk to is different**
 
 #### Customer outreach / conversation
