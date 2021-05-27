@@ -31,6 +31,8 @@ Particularly for those who are [seeking a new role with an all-remote or remote-
 
 ### REMOTE by GitLab 
 
+![REMOTE by GitLab banner](/images/all-remote/remote-hopin-banner-dark.png){: .medium.center}
+
 > [REMOTE by GitLab](https://hopin.com/events/remote-by-gitlab?ref=878eab263d97) is a premier event exploring the future of workplace design, strategy, and culture. During this half-day symposium on **June 29, 2021**, attendees will learn how to create and sustain scalable remote practices within their teams and organizations. **REMOTE by GitLab** features sessions from top remote leaders, detailing how remote work is transforming lives, companies, and communities. As one of the largest all-remote companies, GitLab is bringing together the workplace design community to inspire the future of business and culture in the post-office world. 
 > 
 > **[Register now](https://hopin.com/events/remote-by-gitlab?ref=878eab263d97) to save your spot.** 
