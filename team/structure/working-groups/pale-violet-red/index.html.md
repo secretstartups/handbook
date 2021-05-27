@@ -46,5 +46,5 @@ This Working Group has the following goals:
 | Development Functional Lead  | | |
 | Security Functional Lead    | | |
 | Infrastructure Functional Lead  |  | |
-| Product Functional Lead  |  | |
+| Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
 | Team member | Wayne Haber | Director Engineering |
