@@ -120,6 +120,10 @@ All change requests, regardless of the change criticality follow the same [chang
 
 ## Change Criticalities
 
+`C1` and `C2` changes that are labeled `change::in-progress` will block deploys, feature flag changes, and potentially other operations.  Take particular care to have good time estimates for such operations, and ideally have points/controls where they can be safely stopped if they unexpectedly run unacceptably long.
+
+In particular for long running Rails console tasks, it *may* be acceptable to initiate them as a C2 for approvals/awareness and then downgrade to a C3 while running.  However consider carefully the implications of long running code over multiple deployments and the risks of mismatched code/data storage over time; such a label downgrade should ideally have at least 2 sets of eyes (SREs/devs) assess the code being exercised for safety, and management approval is recommended for visibility.
+
 ### Criticality 1
 
 These are changes with high impact or high risk. If a change is going to cause downtime to the environment, it is always categorized a `C1`.
