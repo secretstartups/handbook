@@ -86,6 +86,11 @@ The following explanations will help you fill out the form completely. This is e
 
 Once your issue description is completely filled out, Legal will review all the details in light of the applicable laws and make recommendations to tailor the event. Legal will also provide Terms and Conditions. **Depending on the locale, you may be required to obtain a translation of the Terms and Conditions to locale languages.** Legal does not provide this, so you will need to ensure that you have the ability to procure this through Marketing vendors. Some Terms and Conditions can be translated through automated services, but others may require human translation depending on the prize amounts and jurisdiction.
 
+### Sweepstakes Page
+We keep a listing of sweepstakes rules on the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page. Once you are provided the approved sweepstakes rules, you will be asked to [create a new page](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-new-pages) with those rules and link to the [GitLab Sweepstakes](https://about.gitlab.com/community/sweepstakes/) page.   
+
+**Note:** Please also remember to move your page from the `Current` to `Past` listing once your sweepstake is complete.
+
 ## Marketing Rules and Consent Language
 
 The ability to communicate and market to customers and prospects is an essential activity for GitLab. To do this, we must ensure the collection of personal information and the ability to contact is done in a manner compliant with applicable laws.  It is also beneficial for GitLab to use consistent language across our sites and forms when obtaining consent to communicate with our customers.  [The Marketing Rule Book](https://docs.google.com/document/d/1UEfWo26DP7nRPrWRWo7O7oSrNp_rRuVqyN_vC7SwXME/edit?usp=sharing) is intended to be a reference guide to (a) help understand the email and phones rules for a few select countries; and (b) provide the standard consent language to be used, depending on the scenario. 
