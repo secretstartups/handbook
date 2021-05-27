@@ -196,9 +196,14 @@ Every Monday and Wednesday, the Associate in the rotation will pull the report t
 
 #### Weekly Moo Report
 
-Every week On Tuesday, the People Experience Associate in the rotation creates a Report in BambooHR containing all Active Employees in three columns: their First Name, their Last Name, their GitLab work email. People Experience Associate adds this data to the `GitLab : Moo` spreadsheet in a new weekly tab titled that Tuesday's date (format yyyy-mm-dd) so that our Moo Rep can grab this data and send out email invitations to new team members from the Moo platform.
-
-Please note to only include the new team members for that week.
+Every week on Tuesday, the People Experience Associate in the rotation will send the invites to the new team members starting that week.
+1. The  People Experience Associate will log into Moo
+1. Go to Account
+    1. On the left hand side, click People
+1. Click the box that says, Invite A Person
+1. Add the team member's first name, last name, work email
+1. Select `employee` 
+1. Send Invite
 
 ### Letters of Employment and Employee Verification Requests
 
