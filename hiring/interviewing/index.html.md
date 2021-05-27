@@ -121,7 +121,7 @@ depending on the outcome of the call, the talent acquisition team or manager may
     * **Interviewers will follow the same "no show" policy as the recruiters.** If a candidate does not       show up or reach out to the team, they will be disqualified.
     * **All interviewers will complete interviewing training,** which will be assigned to them from someone on the talent acquisition team; generally the Candidate Experience Specialist. Interview training issues can be found in the [People Group Training issue tracker](https://gitlab.com/gitlab-com/people-group/Training/-/issues).
     *   The individual who created the issue will receive a notification when the issue is closed. The issue should be checked to ensure all tasks are completed. If an issue is closed before all tasks are finished the issue will need to be reopened and tag the assignee that items are missing.
-1. **References**: The hiring manager or the hiring team will contact [references](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-19hm-complete-references) for promising candidates. References will be collected towards the end of the interview stage for final candidates, and they must be checked before an offer is made.
+1. **References**: The hiring manager or the hiring team will contact [references](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) for promising candidates. References will be collected towards the end of the interview stage for final candidates, and they must be checked before an offer is made.
     * Three references will be requested, but at least two references need to be completed, and at least one needs to be a past manager.
     * The talent acquisition team will move the candidate to the "Reference Check" stage in Greenhouse, and email the candidate to request their references' contact details.
     * After the reference checks are completed, the person performing the reference check will input a scorecard in Greenhouse with their findings.
@@ -272,7 +272,7 @@ We [recorded a training](https://www.youtube.com/embed/ng_VQseo5vo) on the subje
 
 ## Reference Check Process
 
-The talent acquisition team will ask candidates for references via email. The hiring manager may also decide to conduct backchannel references. More information on how we conduct reference checks can be found on the [Talent Acquisition Process - Hiring Manager Tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-19hm-complete-references) page.
+The talent acquisition team will ask candidates for references via email. The hiring manager may also decide to conduct backchannel references. More information on how we conduct reference checks can be found on the [Talent Acquisition Process - Hiring Manager Tasks](/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) page.
 
 ## Background checks
 
