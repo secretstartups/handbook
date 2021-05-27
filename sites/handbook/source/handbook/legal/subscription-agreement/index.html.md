@@ -181,7 +181,7 @@ This Subscription Agreement (“Agreement”) is between GitLab Inc. with office
 
 7.6 Each party acknowledges and agrees that the other may suffer irreparable damage in the event of a breach of the terms of this Section 7 and that such party will be entitled to seek injunctive relief (without the necessity of posting a bond) in the event of any such breach.
 
-7.7 Both parties will have the right to disclose Confidential Information in connection with a required filing to a governmental authority (provided such party will use reasonable efforts to obtain confidential treatment or a protective order) or is made on a confidential basis as reasonably necessary to potential investors or acquirers, provided that at all times the Confidential Information shall be protected in a manner no less stringent as set forth in this Section 7.
+7.7 Both parties will have the right to disclose Confidential Information in connection with, (i) a required filing to a governmental authority (provided such party will use reasonable efforts to obtain confidential treatment or a protective order), or (ii) disclosures made to potential investors or acquirers, provided that at all times the Confidential Information shall be protected in a manner no less stringent as set forth in this Section 7.
 
 7.8 GitLab may collect data with respect to, and report on the aggregate response rate and other aggregate measures of, the Software performance and Customer’s usage of the Software. Notwithstanding the foregoing, GitLab will not identify Customer to any third party as the source of any such data without Customer’s prior written consent.
 
