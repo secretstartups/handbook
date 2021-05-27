@@ -314,7 +314,7 @@ Partner Leave
 GitLab does not plan at this time to offer Private Health Insurance benefits because New Zealand residents can access free or subsidised medical care in New Zealand through the public healthcare system. Injuries and accidents are covered by the Accident Compensation Corporation.
 
 ### Pension
-GitLab's KiwiSaver contributions will be 3% on top of base salary. Team members will automatically be enrolled in the KiwiSaver scheme but may elect to opt out within the first 56 days of employment. GitLab will deduct a participating team member's contributions from their before-tax pay at the team member's chosen contribution rate (3%, 4%, 6%, 8% or 10%). If a team member does not choose a contribution rate, the default rate of 3% will be used to calculate deductions.
+GitLab's KiwiSaver contributions will be 3% on top of base salary. Team members will automatically be enrolled in the KiwiSaver scheme but may elect to opt out within the first 56 days of employment. To opt-out they should follow the [process on IRD site](https://www.ird.govt.nz/kiwisaver/kiwisaver-individuals/opting-out-of-kiwisaver/opt-out-of-kiwisaver). GitLab will deduct a participating team member's contributions from their before-tax pay at the team member's chosen contribution rate (3%, 4%, 6%, 8% or 10%). If a team member does not choose a contribution rate, the default rate of 3% will be used to calculate deductions. 
 
 ### Life Insurance
 GitLab does not plan at this time to offer Life Insurance benefits because New Zealanders can access [government payments and services](https://www.workandincome.govt.nz/providers/health-and-disability-practitioners/health-and-disability-related-benefits.html) to help if they get ill, injured or have a disability.
