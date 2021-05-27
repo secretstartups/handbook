@@ -238,7 +238,7 @@ Is our single source of truth (SSoT) for processes and relevant links
 
 **NOTE: this section will be retired (and communicated). Prioritization of activities aligned to demand generation goals, and consideration against current and planned milestones and projects, will take precedence over a time-based requirement to complete work. The [Marketing Campaign Manager role](https://about.gitlab.com/job-families/marketing/marketing-campaign-manager/) requires focus on top-funnel lead generation, and new issues will be reviewed against workload and prioritized accordingly.**
 
-⏱ **The SLA (Service Level Agreement) - 5 business days - begins when all details (including 100% final copy) is provided in the issue.**
+⏱ **The SLA (Service Level Agreement) - 15 business days - begins when all details (including 100% final copy) is provided in the issue.**
 - Tip: Submit issues with full "Submitter Details" complete
 - Tip: Bookmark a view of your issues in Blocked status ([example](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=mktg-status%3A%3Ablocked&assignee_username[]=jgragnola))
 
@@ -264,21 +264,21 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 {: #request-issue-templates}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture)
-- [request-confirm-target-list](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list)
-- [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup)
-- [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation)
-- [request-email-newsletter](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter)
-- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder)
-- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests*
-- [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page)
-- [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track)
-- [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload)
-- [request-pathfactory-upload-bulk](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk)
-- [request-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking)
-- [request-resource-page-addition](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition)
-- [request-sales-nominated](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-sales-nominated)
-- [request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date)
+- [request-add-nurture](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-add-nurture) - these will triage to Verticurl, noting that revamp of Marketo nurture programs in FY22 Q2/Q3 will aim to simplify this approach.
+- [request-confirm-target-list](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-confirm-target-list) - *for customer target lists, please work with Marketing Ops and Data Team.*
+- [request-email-followup](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-followup) - these will triage to Verticurl
+- [request-email-invitation](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-invitation) - these will triage to Verticurl
+- [request-email-newsletter](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-newsletter) - these will triage to Verticurl
+- [request-email-reminder](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email-reminder) - these will triage to Verticurl
+- [request-email](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-email) - *only for general email requests* these will triage to Verticurl. *For customer communications, please work with Marketing Ops.*
+- [request-mkto-landing-page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-mkto-landing-page) - should mainly be used for pre-set processes where epic code includes need for landing page.
+- [request-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track) - creation of pathfactory tracks for one-time use is responsibility of owner. If used for demand generation prescriptive buyer journey, it will be triaged.
+- [request-pathfactory-upload](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload) - the content owner is responsible for uploading to Pathfactory.
+- [request-pathfactory-upload-bulk](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-upload-bulk) - [issue to discuss more efficient process with MOps](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/4946)
+- [request-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-program-tracking) - these will triage to Verticurl, please use correct "Marketo proram type" in related Epic
+- [request-resource-page-addition](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-resource-page-addition) - [issue to discuss leveraging pathfactory for the resources page](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1030))
+- [request-sales-nominated](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-sales-nominated) - process should be used sparingly
+- ~~[request-zoom-license-date](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-zoom-license-date)~~ - please use [this issue template](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/new?issuable_template=request_zoom_license_date) with Field Marketing (owner of Zoom)
 - [request-webcast-dryrun-sched](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-webcast-dryrun-sched)
 - [idea-campaign](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-campaign)
 - [idea-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=idea-webcast)
@@ -289,8 +289,8 @@ Note on timelines: The campaigns team is focused on top-funnel campaign strategy
 
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
-- [*campaign-manager-general](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=*campaign-manager-general)
-  - to be used by Campaign Managers for simpler project management for their own initiated issues
+- *[campaign-manager-wip](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=*campaign-manager-wip)*
+  - to be used by Campaign Managers ONLY for simpler project management for their own initiated issues
   - puts straight in WIP status with pre-set for milestone, due date, and assignment
 - [campaigns-brief](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-brief)
 - [campaigns-landing-page-copy](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-landing-page-copy)
