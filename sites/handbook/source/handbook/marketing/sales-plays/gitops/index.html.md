@@ -24,7 +24,9 @@ Simply said - GitOps takes DevOps best practices used for application developmen
 * Landing new deals with a new persona and usecases
 * Expanding existing customers to new teams and usecases
 
-## Navigating this document
+## Navigating through this salesplay
+
+Hint: Click on the box to go directly to the relevant section
 
 <div class="mermaid">
 
