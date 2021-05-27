@@ -25,7 +25,7 @@ title: Vendor Contract Issue Process - Software
 
 If yes, then follow the instructions on the table below:
 
-|   | <$25K | $25K - $49K | >$50K |
+|   | <$25K | Between $25K - $49K | >$50K |
 | ------ | ------ | ------ | ------ |
 | **New Software** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
 | **Software Renewal** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
