@@ -32,34 +32,34 @@ graph TB
   Z1[Getting Started] -.- A1[Who to meet]
   A1 -.- B1[Keywords to listen for]
   B1 -.- C1[How to identify interest]
-  click A1 "#who-to-meet" _blank
-  click B1 "#keywords" _blank
-  click C1 "#identify-interest" _blank
+  click A1 "./#who-to-meet" _blank
+  click B1 "./#keywords" _blank
+  click C1 "./#identify-interest" _blank
 
   Z2[Value Discovery] -.- A2[Common pain]
   A2 -.- B2[Common benefits]
   B2 -.- C2[Required capabilities]
   C2 -.- D2[Positioning value]
-  click A2 "#common-pains" _blank
-  click B2 "#common-benefits" _blank
-  click C2 "#required-capabilities" _blank
-  click D2 "#positioning-value" _blank
+  click A2 "./#common-pains" _blank
+  click B2 "./#common-benefits" _blank
+  click C2 "./#required-capabilities" _blank
+  click D2 "./#positioning-value" _blank
 
   Z3[Sales Tactics] -.- A3[SALs / AEs] 
   A3 -.- B3[SAs / TAMs]
   B3 -.- C3[SDRs]
-  click A3 "#sals-aes" _blank
-  click B3 "#sas-tams" _blank
-  click C3 "#sdrs" _blank
+  click A3 "./#sals-aes" _blank
+  click B3 "./#sas-tams" _blank
+  click C3 "./#sdrs" _blank
 
   Z4[Resources] -.- A4[Email Templates]
   A4 -.- B4[Customer Stories]
   B4 -.- C4[Identifying lead interest]
   C4 -.- D4[All collaterals]
-  click A4 "#email-templates" _blank
-  click B4 "#customer-stories" _blank
-  click C4 "#lim-anchor" _blank
-  click D4 "#resources-list" _blank
+  click A4 "./#email-templates" _blank
+  click B4 "./#customer-stories" _blank
+  click C4 "./#lim-anchor" _blank
+  click D4 "./#resources-list" _blank
 
   classDef orange fill:#fca121,stroke:#333,stroke-width:1px;
   class Z1 orange
