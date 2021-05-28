@@ -38,11 +38,11 @@ description: "Information about Account Team Meetings (SAL, SA, TAM)"
 
 - *No specific person/role is the boss.  You are a TEAM.*
 - Tasks should be agreed upon during the SALSA-TAM meeting and fall into each person’s area of responsibility.
-- SA’s and SAL’s need to work together to ensure a smooth pre-sales process… from discovery to demo to POC to final sale.
-- SA’s and TAM’s need to work together to ensure a smooth handoff from pre- to post-sales.
+- SA’s and SAL’s need to work together to ensure a smooth sales process… from discovery to demo to POC to final sale.
+- SA’s and TAM’s need to work together to ensure a smooth transition for the customer.
 - TAM’s and SAL’s need to work together to ensure a smooth onboarding, continued customer happiness, growing accounts, driving stage adoption, and to lock in the renewal for years to come.
 
-## Pre-Sales and Post-Sales 
+## Working Together throughout the Customer's Lifecycle  
 
 The SA owns all pre-sales technical relationships and activities. The SA quarterbacks technical conversations prior to the sale. TAM involvement prior to the sale models the expectations for customer relationships after the sale. TAM involvement should supplement, not displace, SA pre-sales ownership of the account. TAM engagement prior to the sale should occur in the following situations:
 - During POC kickoff or when appropriate in deep conversations on technology if no POC will occur
@@ -50,7 +50,7 @@ The SA owns all pre-sales technical relationships and activities. The SA quarter
 - A shared customer issue tracking project has been created that will affect the account long-term
 - As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
 
-The TAM owns the account post-sale. SA's are to remain involved in the following situations:
+The TAM owns the account to drive adoption. SA's are to remain involved in the following situations:
 - Development of expansion plans with the SAL and TAM
 - A new POC or product evaluation begins for a single team or an enterprise-wide upgrade - anything affecting IACV may require SA involvement
 - Any product license expansions that require overviews, education and competitive insights prior to close
@@ -72,7 +72,7 @@ The TAM owns the account post-sale. SA's are to remain involved in the following
 - Make sure to discuss health scores and any changes that may be needed
 - Try to find time to contribute. Demo a new feature, talk about selling strategy, teach each other something new.
 - Establish a process, and let someone different run the meeting each week
-    - Example:  Prospects first, then post-sales updates. Maybe sort by value, or renewal date
+    - Example:  Prospects first, then TAM updates. Maybe sort by value, or renewal date
 - Prioritize, but ensure you cover all accounts on some cadence
 - Regularly check Gainsight for renewals, Triage board, SOW objects, EBR objects
 
