@@ -26,9 +26,11 @@ The Field Enablement team's mission is to: *Design and deliver effective enablem
 
 ## Key Programs
 
+-  [Sales Playbook](/handbook/sales/playbook/)
 -  [Sales Onboarding](/handbook/sales/onboarding/)
 -  [Command of the Message](/handbook/sales/command-of-the-message)
 -  Continuous Learning
+     - [Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel) in GitLab Learn
      - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
      - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
      - [Sales Training Resources](/handbook/sales/training/)
@@ -36,7 +38,6 @@ The Field Enablement team's mission is to: *Design and deliver effective enablem
 -  [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
 -  [Customer Success Enablement](/handbook/customer-success/education-enablement/) 
 -  [Field Certification Program](/handbook/sales/training/field-certification)
-     - [Sales Operating Procedures](/handbook/sales/sales-operating-procedures/)
      - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
 - [Field Manager Development Program](/handbook/sales/field-manager-development/)
      - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)

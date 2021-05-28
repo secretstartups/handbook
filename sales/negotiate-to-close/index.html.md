@@ -52,3 +52,4 @@ While there are [numerous closing techniques](https://spotio.com/blog/sales-clos
 - ["Closing Time"](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005) by Ron Hubsher
 - LinkedIn Learning course: [Sales: Closing Strategies](https://www.linkedin.com/learning/sales-closing-strategies/) (38 minutes)
 - LinkedIn Learning course: [Sales Negotiation](https://www.linkedin.com/learning/sales-negotiation/) (58 minutes)
+- [Finding Success With Procurement](https://audiblereadypodcast.libsyn.com/34-finding-success-with-procurement-w-tim-caito) (podcast, 22 minutes)
