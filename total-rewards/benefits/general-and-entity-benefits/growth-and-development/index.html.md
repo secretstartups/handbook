@@ -60,7 +60,7 @@ If you voluntarily terminate employment with GitLab prior to completing twelve c
 #### Approval Flow for Benefits over $1,000
 
 If requesting over $1,000 for the Growth & Development benefit, the approval flow will follow the following sequence: 
-1. Form uploaded into HelloSign and sent
+1. Form uploaded into DocuSign and sent
 2. Team Member signature
 3. Direct Manager signature
 4. Executive Signature: E-Group or C-Suite Member 
@@ -131,7 +131,7 @@ The following programs have been contributed by leaders across the organization.
 
 1. A new form submission will notify the team that a new entry has been submitted and autofill a Growth and Development Benefit Agreement.
 1. Check the team member's eligibility and check that the team member's year-to-date spend is within the $10,000 USD limit (check the `Tally` tab on the log). Some team members may have granted an exception to spend up to $20,000 USD for academic study. Any exceptions will be marked `Yes` on the `Limit Exception` column.
-1. Download the team member's Growth and Development Benefit Agreement from the "Populated Agreements" folder and stage the document in HelloSign.
+1. Download the team member's Growth and Development Benefit Agreement from the "Populated Agreements" folder and stage the document in DocuSign.
 1. Fill out the Status columns (in blue) on the Growth and Development Benefit Log sheet.
    * For 4th Trimester expenses, tag Total Rewards on the sheet. 
 1. Once all parties have signed the agreement, send an e-mail to the team member to notify them that the agreement has been signed and to send their transcript, certificate of completion or invoice (refer to the [reimbursement category table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements)) once they are ready to receive the reimbursement.
@@ -168,5 +168,97 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 * Ask payroll for the pay stubs
 * Fill out a [Recoupment Notice Form](https://docs.google.com/document/d/1gKJlcLbQ-Y9KZZniYHRptG6qIOzleyDaCdbQWEkswTA/edit?ts=6033d0b3) 
 * Have the form audited by someone in the Total Rewards team
-* Stage the document in HelloSign
+* Stage the document in DocuSign
 * Fill out the Growth & Development Recoupment Log
+
+### Processing Steps for G&D Benefit
+
+The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. 
+
+Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
+
+1. Docusign
+1. [Benefit Log](https://docs.google.com/spreadsheets/d/1OChGPBmet6Ewxr3Zz_Wj4AdwQJxRTM0aGy-HFKa5jm4/edit#gid=1169295845)
+1. BambooHR
+1. [Growth & Development Folder](https://drive.google.com/drive/folders/198MRzlePzA14PoJDh0RgOFrBzEwMGhZH)
+
+This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c922355) includes a walkthrough of the below steps. Note that the recording mentions HelloSign but we have moved to DocuSign. 
+
+#### For all applications
+
+1. An email is triggered for each application submission for both the under and over $1,000 USD applications
+1. When you are added to the application spreadsheet, you will receive and email for each new application. Click in the email spreadsheet attached to each email to see the list of submitted applications
+1. In the form, there are two tabs - for over and under $1,000USD applications. Follow the steps below for each application type:
+
+##### Applications for expenses under $1,00 USD
+
+1. Scroll over to the `amount` column to populate the currency and convert to USD using Google conversions
+1. This is the only step you need to take for requests for under $1,000 USD
+
+##### Applications for expenses over $1,000 USD
+
+1. Scroll over to the `amount` column in the Benefit Log, located in the Growth & Development Folder
+1. Find the newest entry that triggered the notification 
+1. Drag down the formula from a previous entry to populate course amount
+1. If course amount is other than USD, drag down the formula to convert local currency to USD or lookup USD conversion using [the current exchange rates](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)
+1. Check to see if the applicant has record use of the benefit to date by looking through the spreadsheet previous entries. If they have used their full benefit, they cannot apply for reimbursement again. Please notify them they have reached their full amount. 
+1. Navigate to BambooHR to find the employee number and leadership chain. 
+1. Enter the employee number from BambooHR in the Benefit Log. 
+1. Open G&D Google folder and navigate to the Populated Agreements subfolder. When the team member submits the application form, an agreement form is automatically created in this folder. Click `ctrl F` to find their agreement form. 
+1. Download the file as a word document and save to your desktop. 
+1. Log into Docusign to upload the document to be signed
+1. Add correct signers to the document, including the applicant, the applicant's direct manager, and e-group level of their division. Include signature, name, and date. You can find all of this information by following the applicant's management chain in BambooHR. For some organizations, the [e-group signatures is for the VP level](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000). 
+1. Confirm correct dates on the application
+1. Add manager initials to the text box for management check points to ensure that the applicant is in good standing with GitLab
+1. Add initials of c-level to manager business rational and to development objective at the top of the form. 
+1. Add a text box for manager business rationale for manager to fill in. 
+1. Name the file `Growth and Development Form - Applicant Name`. Include the following message when sending the document: `Please review and sign the Growth and Development form for [APPLICANT NAME]`
+1. Send for signature
+1. Return to the application spreadsheet and update the status to `Agreement Staged`
+1. Send the **notification email** below to the team member. Some forms can be hung up during the approval flow, you include in the CC line the other signatures required. 
+1. You will recieve updates via email when documents are signed. When all 4 signatures are complete, you will get a PDF in your email.
+1. When you get the PDF, send the **signatures complete** email below to the applicant.
+1. Upload a copy of the signed agreement to the applicant's BambooHR folder.
+1. For conferences and workshops, team members often request to be [reimbursed in advance](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursement). Go to the next step to kick-off the reimbursement process. Ensure that receipts/proof of registration are added to applicants BambooHR G&D folder. 
+1. When the transcript is sent, update the status to `Payroll Notified` in the application spreadsheet which will notify Payroll to start the reibursement process. It might be helpful to check in with total rewards to make sure that Payroll has been notified but tagging them directly in the document. 
+
+###### Email Templates
+
+**Notification Email**
+
+CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Emails`
+
+Subject: `Growth and Development Benefit Form
+
+Text: 
+
+```
+Hi [Application Name]
+
+Thanks for filling out the Growth & Development form. Just letting you know your agreement has now been staged for signatures. I'll let you know once it's been signed by all parties. If you have any questions, please let us know.
+
+Kind regards,
+
+[Sender Name]
+
+```
+
+**Signatures Complete Email**
+
+CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
+
+Subject: `Growth and Development Benefit Form
+
+```
+Hi [Application Name]
+
+Your tuition reimbursement form has been signed by all parties. Once you receive your transcript, please forward that to us to initiate the reimbursement process.  If you have any questions, please let us know.
+
+Kind regards,
+
+[Sender Name]
+
+```
+
+
+
