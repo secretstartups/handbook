@@ -5,16 +5,22 @@ title: "Accounts Payable"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## On this page
+## Welcome to Accounts Payable
 
 {:.no_toc .hidden-md .hidden-lg}
 
-- TOC
+- Introduction
+- Quick Links
+- General Guidelines
+- FAQs
+- Invoice Payments
+- Expenses
+
   {:toc .hidden-md .hidden-lg}
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Introduction
 
-Welcome to the Accounts Payable page! You should be able to find answers to most of your questions here. If you can't find what you are looking for, then:
+Welcome to the Accounts Payable page! You should be able to find answers to most of your questions in the sections below. If you can't find what you are looking for, then please connect with us:
 
 - **Chat Channel**: `#accountspayable`
 - **Email**: `ap@gitlab.com`
@@ -72,8 +78,14 @@ You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/c
 
 ## Need to get an invoice paid?
 
-GitLab currently uses procurement issues as the first step in the process.
-Next a vendor will be set up in our invoice processing and payment system.
+The first step to getting an invoice paid is to check [procurement process](/handbook/finance/procurement/) to see what type of procurement issue or Coupa PO is required. 
+If the vendor is being used for the first time, we will need to invite them to onboard in either Tipalti or Coupa - depending on the entity they are billing. This instruction is also outlined in the [procurement page](/handbook/finance/procurement/). 
+Regardless of the system used, the procurement portion must ben compelted first. Once that process is complete with all approvals we can process the invoice.
+Invoices should be emailed to *ap@gitlab.com*. The AP team will then process the invoice in the respective system. If there is a PO in Coupa, th einvoice will be matched and paid.  If there is no PO the invoice will be matched to the issue or coded manually and sent out for approvals.  Once all approvals are complete the invoice will be paid. 
+Note that invoices are paid per the due date or the vendors payment terms, whichever comes first. 
+Please note that AP cannot process same day requests for payments. We must follow the process outlined above and ensure all approvals are attained before paying. Payments are set up each Thursday and the money is released to vendors the following Monday. It may take a few days for transfers to reach vendors depending on their location and the bank they use. 
+In order for an invoice to be included on the Thursday, it must have been received and fully approved by the Tuesday. **For example**, if we are doing a payment batch on Thursday June 3rd, the invoice would have to be approved by end of day on Tuesday, June 1 in order to be included. 
+
 Further details on this process can be found at [the Procure to Pay page](handbook/finance/accounting/#procure-to-pay)
 
 ## Expenses
@@ -82,4 +94,4 @@ Please review the page on [Spending Company Money](/handbook/spending-company-mo
 
 GitLab employs a external company called Montgomery Pacific - commonly known as Montpac. They help us to audit and approve / reject expenses according to the Expense Policy.
 
-If your report has been rejected my Montpac or Accounts Payable, please reach out to your manager to discuss further.
+If your report has been rejected by Montpac or Accounts Payable,please reach out to your manager to discuss further.
