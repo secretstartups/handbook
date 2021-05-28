@@ -1,37 +1,83 @@
 ---
 layout: job_family_page
-title: "Manager, Sales Development - Enterprise"
+title: "Manager, Sales Development"
 ---
 
-As a Sales Development Representative (SDR) Manager for the Enterprise segment, you are a player-coach. As a manager your job is threefold: (1) Lead a team of Enterprise SDRs to create qualified opportunities for the sales team, (2) Train other members of the Enterprise SDR team, and (3) take on operational and administrative tasks to help the Enterprise SDR team perform and exceed expectations. You will be a source of knowledge and best practices amongst the Enterprise SDRs, and will help to train, onboard, and mentor new SDRs with the help of the SDR Enablement team.
+As a Sales Development Representative (SDR) Manager is a player-coach. As a manager your job is threefold: (1) Lead a team of SDRs to create qualified opportunities for the sales team, (2) Train other members of the  SDR team, and (3) take on operational and administrative tasks to help the SDR team perform and exceed expectations. You will be a source of knowledge and best practices amongst the SDRs, and will help to train, onboard, and mentor new SDRs with the help of the SDR Enablement team.
 
-## Job Grade
+### Manager, Sales Development
+
+The Manager, Sales Development reports to the Sr. Manager, Sales Development.
+
+#### Manager, Sales Development Job Grade
 
 The Manager, Sales Development is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+#### Manager, Sales Development Responsibilities
 
-* Train other members of the Enterprise SDR Team to identify, contact, and create qualified opportunities.
-* Ensure Enterprise SDR Team members improve performance and abilities over time by providing coaching and feedback in recurring 1:1s
-* Plan for hiring and onboarding new Enterprise SDRs.
+* Train other members of the SDR Team to identify, contact, and create qualified opportunities.
+* Ensure SDR Team members improve performance and abilities over time by providing coaching and feedback in recurring 1:1s
+* Plan for hiring and onboarding new SDRs.
 * Work closely with the Events and Digital teams on Field events and targeted ad and nurture campaigns.
 * Work closely with Sales and other members of the SDR Leadership team to improve opportunity management and qualification processes
-* Work closely with Sales, Senior SDR Manager, as well as the Enterprise Regional Sales Director to identify key company accounts to develop.
+* Work closely with Sales, Senior SDR Manager, as well as the Regional Sales Director's to identify key company accounts to develop.
 * Work in collaboration with Content, Marketing Program Managers, and Product Marketing to develop effective messaging for outbound communications to your team’s assigned accounts.
 
-## Requirements
+#### Manager, Sales Development Requirements
 
 * Excellent spoken and written English
 * Experience in sales, marketing, or customer service for a technical product - leadership experience is highly preferred.
 * Experience with CRM software (Salesforce preferred)
 * Experience in sales operations and/or marketing automation software preferred
 * Understanding of B2B software, Open Source software, and the developer product space is preferred
-* Is your college degree in French foreign politics with a minor in interpretive dance but you’ve been selling and marketing products since you were 12? Perfect. We understand that your college degree isn’t the only thing that prepares you as a potential job candidate.
 * You are obsessed with making customers happy. You know that the slightest trouble in getting started with a product can ruin customer happiness.
 * Passionate about technology and learning more about GitLab
 * Be ready to learn how to use GitLab and Git
 * You share our [values](/handbook/values/), and work in accordance with those values.
 * [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
+
+## Segment
+
+### Manager, Sales Development (Enterprise) 
+
+#### Manager, Sales Development (Enterprise) Responsibilities
+
+* Extends that of the Manager, Sales Development responsibilities but with a focus on GitLab's Enterprise clients and SDR team.
+
+#### Manager, Sales Development (Enterprise) Requirements
+
+* Extends that of the Manager, Sales Development requirements but with a focus on GitLab's Enterprise clients and SDR team.
+
+## Specialties 
+
+### Manager, Sales Development (Efficiency and Strategy)
+
+The Manager, Sales Development (Efficiency and Strategy) reports to the Global Director of Sales Development.
+
+#### Manager, Sales Development (Efficiency and Strategy) Responsibilities
+
+* Oversight of the Global SDR Onboarding Program for Assc SDRs, SDRs and SDR Managers
+* Develop the Associate SDR program and directly manage that team globally
+* Collaborate with Marketing operations business partners on process improvements and efficiencies
+* Manage the execution and development of the Tanuki Tech enablement program with the SR. Solutions Architect
+* Assist Global Director in efficiency manager and reporting with a keen eye on improving time management and SDR ROI.
+* Work individually with SDR team manager to identify needs in process improvement and rep enablement
+* Continuously manage and update the SDR handbook as processes and programs change
+* Assist the Global Director in SDR Leveling management and SDR career progression
+
+#### Manager, Sales Development (Efficiency and Strategy) Requirements
+
+* Extends that of the Manager, Sales Development requirements
+* Track record of leading a team that consistently meets/exceeds goals 
+* Experience in successfully hiring and onboarding SDRs and SDR managers 
+* Experience building out new SDR team segments, including processes and strategies  
+* Proven track record of implementing and executing efficiency measures in a high volume lead flow model.
+
+## Performance Indicators
+
+* Sales Accepted Opportunity Attainment vs Goal
+* Net ARR Pipeline Generated
+* Initial Qualification Meeting (where applicable)
 
 ## Career Ladder
 
@@ -47,6 +93,5 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule two separate interviews with an SDR Manager and an Area Sales Manager
 * Candidates will be invited to schedule an interview with our Senior Director of Revenue Marketing
 * Finally, candidates may be asked to interview with our CMO
-* Successful candidates will subsequently be made an offer via video or phone call
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring)
