@@ -74,13 +74,23 @@ Ensure you are ready for each discussion. The level of preparation for each disc
 
 ## Pitfalls to Avoid
 Other than inadequate preparation, below are common discovery pitfalls you want to be sure to avoid. 
-1. **Happy ears** - Resist the urge to prematurely talk about or begin to position GitLab until you have a thorough understanding of the customer’s challenge(s) as well as the implications of those challenges and if and how they attach to higher-level initiatives, objectives, or goals.
-1. **Not attaching to the biggest problem** 
-1. **Failing to identify the negative consequences of doing nothing**
-1. **Lack of multi-threading** - Review the below resources
-    - [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/) (article/blog)
-    - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/) (article/blog)
-    - [Top Six Ways to Win More Deals with Sales Multi-threading](https://www.ebsta.com/blog/sales/sales-multi-threading/) (blog)
+
+### Happy Ears
+Resist the urge to prematurely talk about or begin to position GitLab until you have a thorough understanding of the customer’s challenge(s), the implications of those challenges, how big the problem is, the urgency of the problem, the implications of not addressing the challenge(s), who cares about the problem and why, and if and how they attach to higher-level initiatives, objectives, or goals.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/EGJlmGxpOv0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Not Attaching to the Biggest Problem 
+
+### Failing to Identify the Negative Consequences of Doing Nothing
+
+### Lack of Multi-Threading
+Review the below resources:
+- [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/) (article/blog)
+- [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/) (article/blog)
+- [Top Six Ways to Win More Deals with Sales Multi-threading](https://www.ebsta.com/blog/sales/sales-multi-threading/) (blog)
 
 # Identify the Buying Process
 The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved.
