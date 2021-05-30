@@ -117,9 +117,17 @@ You must have a solid understanding of the prospect's key business drivers, stra
 <!-- blank line -->
 
 <!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://embed.sounder.fm/play/123519" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe
+  src="https://embed.sounder.fm/play/123519"
+  style="width:100%; height:200px;"
+></iframe>
+<!-- blank line -->
+
+<!-- blank line -->
+<iframe
+  src="https://embed.sounder.fm/play/123519"
+  style="width:100%; height:100px;"
+></iframe>
 <!-- blank line -->
 
 ### Failing to Identify the Negative Consequences of Doing Nothing
@@ -137,4 +145,7 @@ Sales multi-threading refers to the concept of engaging and developing relations
 - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
 
 # Identify the Buying Process
-The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more. Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page and complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal). Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of MEDDPPICC to increase your chances of earning the customer's business.
+The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
+- Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more 
+- Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
+- Complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal)
