@@ -39,7 +39,7 @@ Ensure you are ready for each discussion. The level of preparation for each disc
     - Account activity/engagement history in Salesforce
     - Recent news or press releases
     - Research your contact(s) on LinkedIn, Twitter, and/or other social media platforms
-1. **Understand the persona** - Different toles within the prospect's organization will inherently care about and be motivated by different things. Consider the following:
+1. **Understand the persona** - Different roles within the prospect's organization will inherently care about and be motivated by different things. Consider the following:
     - Understand the persona you are engaging 
         - [Buyer personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
         - [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
@@ -55,22 +55,41 @@ Ensure you are ready for each discussion. The level of preparation for each disc
     - What questions or objections do you anticipate the prospect may have? Are you ready to respond?
 
 ## Key Tips
-1. Approach discovery conversations with a curiosity-led mindset and a desire to better understand the customer’s challenge(s) as well as the implications of those challenges
+
+### Approach With Curiosity
+Approach discovery conversations with a curiosity-led mindset and a desire to better understand the customer’s challenge(s) as well as the implications of those challenges
     - How big is the problem?
     - How does this impact higher-level goals and objectives?
     - How does this challenge impact the person(s) with whom you are talking?
     - Who else in the organization does this challenge impact and how?
-1. Leverage the TED questioning model, e.g.:
+
+### TED
+Leverage the TED questioning model, e.g.:
     - T: **Tell** me more about...
     - E: Can you please **explain** what that is?
-    - D: Will you please *describe** how it happened?
-1. Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?"
-    - [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) (blog)
-    - [The 'Five Whys Technique' to uncover your customer's pain points](https://youtu.be/c2jSn5AdBYY) (video, 1.5 minutes)
-1. Commit to [active and effective listening](/handbook/communication/#effective-listening)
-    - [Improve Your Active Listening Skills](https://podcasts.apple.com/us/podcast/improve-your-active-listening-skills-w-patrick-mcloughlin/id991362894?i=1000498972259) (podcast, 15 minutes)
-1. Master [Command of the Message](/handbook/sales/command-of-the-message)
-    - [Command of the Message e-learning module](https://gitlab.edcast.com/insights/ECL-20f0f2ac-0d50-4384-b473-63cc6d3bb48d) (90 minutes) (GitLab internal with protected IP from Force Management)
+    - D: Will you please **describe** how it happened?
+
+### Five Whys
+Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and/or read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/c2jSn5AdBYY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Active Listening
+Commit to [active and effective listening](/handbook/communication/#effective-listening). Watch the video and check out the resources below. 
+- [Improve Your Active Listening Skills](https://theaudible-readypodcast.sounder.fm/episode/improve-your-active-listening-skills-w-patrick-mc) (podcast, 15 minutes)
+- [Why Are You Talking?](https://theaudible-readypodcast.sounder.fm/episode/why-are-you-talking) (podcast, 9 minutes)
+- [Why Your Active Listening Skills Are Crucial to Hitting Your Number](https://www.forcemanagement.com/seller-blog/why-your-active-listening-skills-are-crucial-to-hitting-your-number) (blog)
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/5pJHlI6C_zU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Master [Command of the Message](/handbook/sales/command-of-the-message)
+Command of the Message is a proven, value-based sales messaging methodology from Force Management that allows GitLab sales team members to effectively uncover customer needs and articulate value and differentiation. Leverage the below resources to ensure you are confident in the methodology and the GitLab-tailored sales resources created to help you be successful and delight your customers.
+- [Command of the Message Handbook page](/handbook/sales/command-of-the-message)
+- [Command of the Message e-learning module](https://gitlab.edcast.com/insights/ECL-20f0f2ac-0d50-4384-b473-63cc6d3bb48d) (90 minutes) (GitLab internal with protected IP from Force Management)
 
 ## Pitfalls to Avoid
 Other than inadequate preparation, below are common discovery pitfalls you want to be sure to avoid. 
@@ -83,14 +102,24 @@ Resist the urge to prematurely talk about or begin to position GitLab until you 
 </figure>
 
 ### Not Attaching to the Biggest Problem 
+You need a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and/or goals to be able to serve as a trusted advisor. These will almost assuredly related to one or more [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issue(s).
+
+<iframe
+  src="https://embed.sounder.fm/play/123519"
+  style="width:100%; height:300px;"
+></iframe>
 
 ### Failing to Identify the Negative Consequences of Doing Nothing
+Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of the prospect's current state. As a salesperson, you need to effectively articulate the difference between the prospect's current state and the future state that GitLab can help deliver in a way that compels them to take action. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/zDh2GwVaK8A" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Lack of Multi-Threading
-Review the below resources:
-- [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/) (article/blog)
-- [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/) (article/blog)
-- [Top Six Ways to Win More Deals with Sales Multi-threading](https://www.ebsta.com/blog/sales/sales-multi-threading/) (blog)
+Sales multi-threading refers to the concept of developing relationships with multiple decision-makers on the purchasing side. In other words, multi-threaded sales are business deals that have more than one stakeholder engaged in a sales process. According to CEB Global, the average B2B deal has 5.8 decision-makers, and that number typically increases along with the size and complexity of the contract. The fact of the matter is that B2B buying decisions are made by multiple stockholders and, in most scenarios, from different levels of the organization. Even if your primary contact has significant authority in the organization, that may be insufficient if the rest of the buying group is not on board with the decision. Therefore, the more connections you have from the buying side, the better your chances of getting a deal closed. To learn more, check out the below articles/blogs:
+- [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/)
+- [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
 
 # Identify the Buying Process
 The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved.
