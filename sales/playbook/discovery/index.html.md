@@ -15,12 +15,18 @@ description: "Effective discovery is critical to thoroughly understanding custom
 # Overview 
 Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcasts to improve your discovery effectiveness.
 - [Executing Great Discovery](https://podcasts.apple.com/us/podcast/33-executing-great-discovery-w-brian-walsh/id991362894?i=1000493740591) (31 minutes)
-- [Remember These Three Phases and Sell More Deals](https://audiblereadypodcast.libsyn.com/37-remember-these-phrases-sell-more-deals-w-john-kaplan) (13 minutes)
+
+<!-- blank line -->
+<iframe
+  src="https://embed.sounder.fm/play/102385"
+  style="width:100%; height:200px;"
+></iframe>
+<!-- blank line -->
 
 # Qualification
 The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**. 
 
-Ideally, effective qualification also includes identification of the prospect's 
+Ideally, effective qualification also includes identification of the prospect's: 
 - Cloud strategy
 - Preferred cloud partner(s)
 - Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)), and 
@@ -61,7 +67,7 @@ Approach discovery conversations with a curiosity-led mindset and a desire to be
 - Who else in the organization does this challenge impact and how?
 
 ### TED
-Leverage the TED questioning model:
+Leverage the TED questioning model (see below) to get the prospect to open up and provide more context and detail about their challenges.
 - T: **Tell** me more about...
 - E: Can you please **explain** the impact of...?
 - D: Will you please **describe** how others are affected by...?
@@ -76,15 +82,26 @@ Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techn
 <!-- blank line -->
 
 ### Active Listening
-Commit to [active and effective listening](/handbook/communication/#effective-listening). Watch the video and check out the resources below. 
-- [Improve Your Active Listening Skills](https://theaudible-readypodcast.sounder.fm/episode/improve-your-active-listening-skills-w-patrick-mc) (podcast, 15 minutes)
-- [Why Are You Talking?](https://theaudible-readypodcast.sounder.fm/episode/why-are-you-talking) (podcast, 9 minutes)
-- [Why Your Active Listening Skills Are Crucial to Hitting Your Number](https://www.forcemanagement.com/seller-blog/why-your-active-listening-skills-are-crucial-to-hitting-your-number) (blog)
+Commit to [active and effective listening](/handbook/communication/#effective-listening). Watch the video, listen to the podcasts, and check out the [Why Your Active Listening Skills Are Crucial to Hitting Your Number](https://www.forcemanagement.com/seller-blog/why-your-active-listening-skills-are-crucial-to-hitting-your-number) blog.
 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/5pJHlI6C_zU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+<!-- blank line -->
+
+<!-- blank line -->
+<iframe
+  src="https://embed.sounder.fm/play/102379"
+  style="width:100%; height:200px;"
+></iframe>
+<!-- blank line -->
+
+<!-- blank line -->
+<iframe
+  src="https://embed.sounder.fm/play/140420"
+  style="width:100%; height:200px;"
+></iframe>
 <!-- blank line -->
 
 ### Master [Command of the Message](/handbook/sales/command-of-the-message)
@@ -112,21 +129,7 @@ You must have a solid understanding of the prospect's key business drivers, stra
 <!-- blank line -->
 <iframe
   src="https://embed.sounder.fm/play/123519"
-  style="width:100%; height:300px;"
-></iframe>
-<!-- blank line -->
-
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/123519"
   style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
-
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/123519"
-  style="width:100%; height:100px;"
 ></iframe>
 <!-- blank line -->
 
@@ -140,9 +143,16 @@ Watch the short video below to learn more about the importance of seeking to und
 <!-- blank line -->
 
 ### Lack of Multi-Threading
-Sales multi-threading refers to the concept of engaging and developing relationships with multiple stakeholders who are involved in your customer's decision-making process. According to CEB Global, the average B2B deal has 5.8 decision-makers, and that number typically increases along with the size and complexity of the contract. Even if your primary contact has significant authority in the organization, that may be insufficient if the rest of the buying group is not on board with the decision. Therefore, the more connections you have from the buying side, the better your chances of getting a deal closed. To learn more, check out the below articles/blogs:
+Sales multi-threading refers to the concept of engaging and developing relationships with multiple stakeholders who are involved in your customer's decision-making process. According to CEB Global, the average B2B deal has 5.8 decision-makers, and that number typically increases along with the size and complexity of the contract. Even if your primary contact has significant authority in the organization, that may be insufficient if the rest of the buying group is not on board with the decision. Therefore, the more connections you have from the buying side, the better your chances of getting a deal closed. To learn more, check out the below articles/blogs and podcast.
 - [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/)
 - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
+
+<!-- blank line -->
+<iframe
+  src="https://embed.sounder.fm/play/123514"
+  style="width:100%; height:200px;"
+></iframe>
+<!-- blank line -->
 
 # Identify the Buying Process
 The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
