@@ -13,8 +13,7 @@ description: "Effective discovery is critical to thoroughly understanding custom
 {::options parse_block_html="true" /}
 
 # Overview 
-Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcasts to improve your discovery effectiveness.
-- [Executing Great Discovery](https://podcasts.apple.com/us/podcast/33-executing-great-discovery-w-brian-walsh/id991362894?i=1000493740591) (31 minutes)
+Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcast to improve your discovery effectiveness.
 
 <!-- blank line -->
 <iframe
@@ -37,25 +36,31 @@ The second phase of discovery uses an iterative insight/question loop, often acr
 
 ## Preparation
 Ensure you are ready for each discussion. The level of preparation for each discovery conversation will vary, so use your best judgment for how deep you go and be sure to leverage the information that has already been collected during Prospecting and Qualification. The key point is to be prepared and to not just wing it. Consider the below recommendations.
-1. **Research the prospect** - This may include but is not limited to:
-    - Annual reports and/or financial statements
-    - Account activity/engagement history in Salesforce
-    - Recent news or press releases
-    - Research your contact(s) on LinkedIn, Twitter, and/or other social media platforms
-    - Insights gleaned from partners that already have relationships with the account
-1. **Understand the persona** - Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging. 
-    - [Buyer personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
-    - [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
-1. **Develop a Pre-Call Plan** - As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing)) job aid, be sure to consider the following:
-    - What is your desired outcome for this conversation or meeting? What do you think the prospect's desired outcome is?
-    - What information do you need to gather to achieve your objective(s)? What discovery questions will you ask, how, and in what sequence? As outlined above, this iterative insight/question loop will often span across multiple meetings or conversations.
-        - Start with [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) to seek to understand your prospect's goals, objectives, and initiatives
-        - Next, ask open-ended [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) in pursuit of understanding your prospect's desired outcomes, current situation and environment and level of satisfaction, and motivations (including personal needs)
-    - As you develop and prioritize your discovery questions, consider what types of questions you can ask that reinforce [GitLab's differentiators](/handbook/sales/command-of-the-message/#gitlab-differentiators)
-        - For a deeper dive, re-review the Defensible Differentiators content in the GitLab Value Framework doc (see top asset highlighted in the [Resources: Core Content](/handbook/sales/command-of-the-message/#resources-core-content) section of the Command of the Message Handbook page)
-    - What agenda will provide the structure needed to help you achieve your meeting or call objectives? Assuming you achieve your objective(s), what are possible next steps you may recommend? How will you close the call or meeting to progress the opportunity further?
-    - What are some potentially relevant success stories (e.g. same industry, geo, anticipated pain points, etc.) and other proof points (e.g. favorable analyst report) that you may want to reference or highlight to build interest and credibility?
-    - What questions or objections do you anticipate the prospect may have? Are you ready to respond?
+
+### Research the Prospect
+Researching your prospect may include but is not limited to:
+- Annual reports and/or financial statements
+- Account activity/engagement history in Salesforce
+- Recent news or press releases
+- Research your contact(s) on LinkedIn, Twitter, and/or other social media platforms
+- Insights gleaned from partners that already have relationships with the account
+
+### Understand the Persona
+Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging. 
+- [Buyer personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
+- [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
+
+### Develop a Pre-Call Plan
+As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing)) job aid, be sure to consider the below questions.
+- What is your desired outcome for this conversation or meeting? What do you think the prospect's desired outcome is?
+- What information do you need to gather to achieve your objective(s)? What discovery questions will you ask, how, and in what sequence? As outlined above, this iterative insight/question loop will often span across multiple meetings or conversations.
+   - Start with [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) to seek to understand your prospect's goals, objectives, and initiatives
+   - Next, ask open-ended [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) in pursuit of understanding your prospect's desired outcomes, current situation and environment and level of satisfaction, and motivations (including personal needs)
+- As you develop and prioritize your discovery questions, what types of questions will you ask that reinforce [GitLab's differentiators](/handbook/sales/command-of-the-message/#gitlab-differentiators)?
+   - For a deeper dive, re-review the Defensible Differentiators content and sample questions in the GitLab Value Framework doc (see top asset highlighted in the [Resources: Core Content](/handbook/sales/command-of-the-message/#resources-core-content) section of the Command of the Message Handbook page)
+- What agenda will provide the structure needed to help you achieve your meeting or call objectives? Assuming you achieve your objective(s), what are possible next steps you may recommend? How will you close the call or meeting to progress the opportunity further?
+- What are some potentially relevant success stories (e.g. same industry, geo, anticipated pain points, etc.) and other proof points (e.g. favorable analyst report) that you may want to reference or highlight to build interest and credibility?
+- What questions or objections do you anticipate the prospect may have? If those indeed come up, are you ready to respond?
 
 ## Key Tips
 
