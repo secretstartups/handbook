@@ -670,7 +670,7 @@ The first time you login to DocuSign from SFDC, you will be required to Authoriz
 
 #### How to Send an Order Form to the Customer for Signature via DocuSign
 
-      ![DocuSign 4](/handbook/sales/images/docusign4.png)
+![DocuSign 4](/handbook/sales/images/docusign4.png)
 
 To send a digital copy of an Order Form to the customer via DocuSign:
 
