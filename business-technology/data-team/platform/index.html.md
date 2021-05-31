@@ -98,7 +98,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 
 Process for adding a new data source:
 
-- Create a new issue in the Analytics project requesting for the data source to be added:
+- Create a [new issue using the New Data Source Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) in the Analytics project requesting for the data source to be added:
     - Document what tables and fields are required
     - Document the questions that this data will help answer
 - Create an issue in the [Security project](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/) and cross-link to the Analytics issue.
@@ -271,9 +271,7 @@ Here are the proper steps for provisioning a new user and user role:
 </div>
 </div>
 
-For a more information, check this recorded pairing session.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-vpH0aSeO9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
 ### Compute Resources
 
