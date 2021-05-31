@@ -35,6 +35,10 @@ If you have a screen shot in your clipboard, you can open the `Preview` and then
 For screen recordings, you can use Quicktime Player to capture an area or the full screen.
 Open the application and, under the `File` menu, select `New Screen Recording`, or press `command + control + n`.
 
+### Screenshot productivity tips
+
+To automatically compress your screenshots and move them to a designated directory, so your `Desktop` directory won't get cluttered with screenshot files, check this GitLab Unfiltered blog post: [One simple trick to make your screenshots 80% smaller](https://about.gitlab.com/blog/2020/01/30/simple-trick-for-smaller-screenshots/).
+
 ## Disabling macOS notification center
 
 During a presentation or screen share, you might want to disable your notifications on macOS to prevent distractions or possible embarrassment.
