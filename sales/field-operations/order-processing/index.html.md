@@ -1019,13 +1019,15 @@ Closing the Deal:
 
 IBM OEM Transactions have a unique process flow, from quoting to opportunity approval. If your customer has chosen to transact via IBM, please note the following:
 
-Opportunity Management (DRI = Sales):
+**Opportunity Management (DRI = Sales):**
 
 1. Once informed by IBM of a potential deal, Sales should create an opportunity under the customer account in SFDC. 
   - **The opportunity name should include "(IBM OEM)."**
   - Add "IBM (OEM)" to the DR - Partner field. Partner Track = Technology, DR - Partner Deal Type = Resale, DR - Partner Engagement = Partner Sourced.
 
-Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations):
+Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
+
+**Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations):**
 
 1. When IBM has closed the deal, an IBM contact will send order details to GitLab. (*GitLab email alias tbd*)
 2. Navigate to the opportunity, create a contact with the following information:
@@ -1045,7 +1047,7 @@ Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations
 6. Chatter Sales Support with links to IBM Email notification, IBM spreadsheet, and Order Form.
 7. Once completed, submit the opportunity for approval.
 
-Closing the Deal:
+**Closing the Deal:**
 
 1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as evidenced by the date of the IBM email notification. **Deal Desk will also update the price to reflect the margin taken by IBM. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 2. Note that the IBM (OEM) account is permanently set to silent, and no invoices created will go to IBM.
