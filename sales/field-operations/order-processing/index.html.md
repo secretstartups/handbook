@@ -1021,7 +1021,7 @@ IBM OEM Transactions have a unique process flow, from quoting to opportunity app
 
 Opportunity Management (DRI = Sales):
 
-1. One informed by IBM of a potential deal, Sales should create an opportunity under the customer account in SFDC. 
+1. Once informed by IBM of a potential deal, Sales should create an opportunity under the customer account in SFDC. 
   - **The opportunity name should include "(IBM OEM)."**
   - Add "IBM (OEM)" to the DR - Partner field. Partner Track = Technology, DR - Partner Deal Type = Resale, DR - Partner Engagement = Partner Sourced.
 
