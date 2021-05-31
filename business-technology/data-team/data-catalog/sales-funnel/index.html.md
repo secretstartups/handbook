@@ -23,6 +23,15 @@ The goal of this page:
     * To learn more about developing Sisense dashboards, take the [Dashboard Developer certification](https://docs.google.com/forms/d/e/1FAIpQLSdWz4VNYM5ItjzmgeU6H3hafY_zycd2NkAlAM4sPXJCqrtoUw/viewform).
 * And overall help everyone contribute!
 
+### Release Train Cadence:
+
+1. Requirements gathering due date: 1 week after the Sales Key Meeting.
+1. Release shipped for UAT: 1 week before Sales Key Meeting.
+
+### Maintenance Schedule:
+
+1. As needed, Scheduled Maintenance will be performed every two weeks on Friday, from 9am to 11am EST.
+
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Targets-vs.-Actuals" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Sales Funnel - Targets vs. Actuals Dashboard</a>
@@ -97,6 +106,12 @@ Facts:
 </summary>
 * There are three critical dates on opportunities to be aware of: created date, accepted date, and closed date. Created date is applicable when calculating the IACV created metrics. Accepted date is applicable when calculating the Sales Accepted Opportunity Metrics (SAOs). Closed date is applicable when calculating the closed won and lost related metrics. 
 * GitLab does not have a specific trial tier for the Gold and Ultimate trials; however, it is helpful to think about trials in the context of product tiers when building the Enterprise Dimensional Model (EDM) and producing insights and analytics from the EDM. We use Ultimate - Trial and Gold - Trial values in our Product Tier Dimension to be able to easily report on and analyze trials across the Enterprise.
+* Boolean flags are available to use in Sisense. These are helpful when creating charts that require repetitive filters.
+1. `is_net_arr_closed_deal` - Calculate metrics such as Net_ARR from Closed Won and Closed Lost-Renewals.
+1. `is_new_logo_first_order` - Calculate metrics such as Net_ARR from First Order Accounts that we acquire.
+1. `is_net_arr_pipeline_created` - Calculate metrics such as Net_ARR from the pipeline that was created.
+1. `is_win_rate_calc` - Fetch opportunities in scope for the win rate calculation.
+1. `is_closed_won` -  Calculate metrics such as Net_ARR for Closed Won deals.
 </details>
 
 <style> #headerformat {
@@ -217,7 +232,7 @@ The [sales management python module](https://gitlab.com/gitlab-data/periscope/-/
   Standard Bookings Cuts
 </summary>
 
-The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance of Booked Net ARR against the Previous Year (Year over Year, Y/Y) and against the financial target by different dimensions.
+The [TD: Standard Bookings Cuts](https://app.periscopedata.com/app/gitlab/831911/TD:-Standard-Bookings-Cuts) dashboard tracks the performance of Booked Net ARR against the Previous Year (Year over Year, Y/Y) and against the quarterly and yearly financial target by different dimensions.
 
 Each cut is composed of a Quarter View and a Fiscal Year View.
 
@@ -245,10 +260,13 @@ To use the dashboard select a Fiscal Quarter in the filters and any of the optio
 * TRX: Number of opportunities
 * %MIX(ARR): Net ARR for a given category / subtotal ARR. E.g. when calculating %MIX(ARR) for the segment SMB and Deal Size 5-25k: `Net ARR for SMB | 5-25k` / `ARR for SMB`
 * % of Bookings: Net ARR for a given category / total ARR for a given quarter
+* % of Total Bookings: Net ARR for a given category / total ARR for a given category subtotal
 * ProServ #: Number of opportunities with a proserv_amount different from zero
+* [A R (Attach Rate)](https://about.gitlab.com/handbook/sales/performance-indicators/#proserve-deal-and-dollar-attach-rate)
 * The `US East` row shown in the sales segment drilldown field is composed of both the `East` and `LATAM` region
 * Sales segment drilldown = APAC is composed of all the regions that are not `East`, `West`, `LATAM` and `EMEA`
 * Sales segment drilldown = SMB is composed of the segment SMB plus all the segments that are not `Large` and `Mid-Market`
+* Channel Type = Fulfilled is composed of the Channel Type Fulfilled plus NULL/Missing Channel Type
 
 </details>
 
