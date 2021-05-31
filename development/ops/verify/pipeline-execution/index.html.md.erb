@@ -170,13 +170,20 @@ At any point, if an issue becomes blocked, it would be in the `workflow::blocked
 
 `Closed` means that all code changes associated with the issue are fully enabled on gitlab.com. If it is being rolled out behind a feature flag, it means the feature flag is enabled for all users on gitlab.com.
 
-### What is priority to on work for this milestone?
+### "What do I work on next?"
 
-In the Pipeline Execution Group, we use a series of labels to indicate the highest priority issues in the milestone: `VerifyP1` + `group:pipeline execution`. Once all of those issues have been picked up and are in `workflow:in dev` or beyond we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1`s in the following milestones. These future product priorities will typically be `ready for development` and have designs or be weighed with proposals for implementation. Beyond the product `VerifyPX` priorities the `ready for development column will be stack ranked daily, such that each teammate can pull from the top of the column and know they are picking work that will be meaningful. 
+#### What are the priorities for this milestone?
 
-When teammates select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely ship in. This is also a good time to re-evaluate the weight in case the teammate picking the issue was not the teammate who originally weighed the issue. The milestone assigned, does not have to be the same milestone that you are currently starting work in. Aspriationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible. So, if you see a faster path to doing that when you get an issue feel free to raise a comment and change the proposal to deliver more value. 
+We use a series of labels to indicate the highest priority issues in the milestone.
 
-#### "What do I work on next?"
+1. The highest priorities for a given milestone would be issues labelled with `VerifyP1` and `group::pipeline execution`.
+1. Once all of the `VerifyP1` issues have been picked up and are in `workflow:in dev` or beyond, we have `VerifyP2` and `VerifyP3` to signal issues that will become `VerifyP1` issues in the following milestones.
+
+Any future product priorities (`VerifyP2` or `VerifyP3` labelled issues) will typically be in `workflow::ready for development` and have designs ready, and ideally already be weighted with proposals for implementation. Beyond the product `VerifyPX` priorities, the `ready for development` column will be stack ranked (or at least reviewed) daily by the Product Manager, so that each team member can pull from the top of the column expecting that it is already ordered in priority.
+
+When DRIs select issues, they will assign themselves to the issue and also add the milestone that they believe the issue will most likely be shipped. This is also a good time to re-evaluate the weight and proposal, in case the DRI picking up the issue was not the same individual who originally weighted and refined the issue. Assigning a milestone to an issue does not necessarily mean that the issue is being started on that same milestone. Aspriationally, we strive to iterate and want to break down the efforts to ship as much value in the milestone for our users as possible, which means if you see a more efficient way forward when you start working on a new issue, free to raise a comment and update the proposal to deliver more iterative value. 
+
+#### Working Right to Left to reduce WIP
 
 Each member of the team can choose which issues to work on during a milestone by assigning the issue to themselves.  When the milestone is well underway and we find ourselves looking for work, we default to working **right to left** on the **issue board** by pulling issues in the right-most column. If there is an issue that a team member can help with on the board, they should do so instead of starting new work. This includes conducting code review on issues that the team member may not be assigned to, if they feel that they can add value and help move the issue along to completion.
 
