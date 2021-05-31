@@ -528,7 +528,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-20</p>
+25</p>
 
    </td>
    <td><p style="text-align: right">
@@ -544,7 +544,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-<strong>17</strong></p>
+<strong>20</strong></p>
 
    </td>
    <td><p style="text-align: right">
