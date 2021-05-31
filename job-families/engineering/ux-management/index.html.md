@@ -7,18 +7,18 @@ title: "UX Management"
 
 Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what Product Designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of UX commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
 
-## Product Design Manager
+## Manager, Product Design
 
-The Product Design Manager reports to the Senior Product Design Manager or the Director of Product Design, and Product Designers report to the Product Design Manager.
+The Manager, Product Design reports to the Senior Manager, Product Design or the Director of Product Design, and Product Designers report to the Manager, Product Design.
 
 ### Job Grade
 
-The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Product Design is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
 * **Product knowledge:** Understand the technology and features of the product areas to which you are assigned, and have working knowledge of the end-to-end GitLab product.
-* **Cross-product collaboration:** Proactively identify large, strategic UX opportunities that span the product areas for which you are responsible and the product as a whole. Work with other Product Design Managers to drive cross-product initiatives.
+* **Cross-product collaboration:** Proactively identify large, strategic UX opportunities that span the product areas for which you are responsible and the product as a whole. Work with other Managers, Product Design to drive cross-product initiatives.
 * **Deliverables:** Review UX deliverables (research, designs, etc.) that your team creates, and provide feedback to ensure high-quality output.
 * **Research:** Identify strategic user research initiatives that span multiple stage groups (and possibly the entire product), and work with other Product Design/Research Managers to organize research efforts.
 * **UX evangelism:** Communicate the value of UX to cross-functional GitLab team members, and influence the Product Managers you support to prioritize UX initiatives.
@@ -38,7 +38,7 @@ The Foundations team works on building a cohesive and consistent user experience
 
 You'll spend your time collaborating with a [cross-functional team](https://about.gitlab.com/handbook/product/categories/#ecosystem-group), helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility standards into our workflows, and defining guidelines and best practices that will inform how teams design and build products. A breakdown of the vision you’ll help to deliver within the FE/UX Foundation category can be found on our [product direction page](https://about.gitlab.com/direction/create/ecosystem/frontend-ux-foundations/).
 
-**What you can expect in a Product Design Manager, FE/UX Foundations role at GitLab:**
+**What you can expect in a Manager, Product Design FE/UX Foundations role at GitLab:**
 
 * Advocate for good product design practices and bring a deep level of subject matter expertise to the team.
 * Act as the experience owner of our [Pajamas Design System](https://design.gitlab.com/).
@@ -82,13 +82,13 @@ You'll spend your time collaborating with a [cross-functional team](https://abou
 * **Interview with Director of Product (Product Management)** In this interview, the interviewer will want to understand how your career experiences will set you up for success at GitLab. They will also look to understand how you work with cross-functional partners, the domains you've worked in previously, and the types of teams you've led. 
 * **Interview with VP of UX** In this interview, the interviewer will want to understand the experience you have as a manager, your experience working remotely, and how these two elements of your career intersect. They will also look to understand your technical skills and the types of products you've worked on previously.  
 
-## Senior Product Design Manager
+## Senior Manager, Product Design
 
-The Senior Product Design Manager reports to the Director of Product Design, and the Product Design Manager reports to the Senior Product Design Manager.
+The Senior Manager, Product Design reports to the Director of Product Design, and the Product Design Manager reports to the Senior Product Design Manager.
 
 ### Job Grade
 
-The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Product Design is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -97,14 +97,14 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 * **Product knowledge:** Help drive cross-product workflows by having an awareness of what's happening across all sections through active participation in design reviews, UX Showcases, and Group Conversations.
 * **Goal setting:** Facilitate the creation and execution of product design [OKRs](https://about.gitlab.com/company/okrs/) in collabration with the Product Design team and UX Leadership.
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
-* **People management:** Coach Product Design Managers on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
+* **People management:** Coach Managers, Product Design on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
 * **Vision and direction**: Have an awareness of Opportunity Canvas reviews, strategy, and vision of the stages you're assigned.
-* **Team building:** Hire and retain a world-class team of Product Designers and Product Design Managers.
+* **Team building:** Hire and retain a world-class team of Product Designers and Managers, Product Design.
 
 ### Requirements
 
-* A minimum of 3 years experience managing Product Design Managers.
+* A minimum of 3 years experience managing Managers, Product Design.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Experience defining the high-level strategy (the why) and helping your team tie design and research back to that strategy.
 * Experience driving organizational change with cross-functional stakeholders.
@@ -119,16 +119,16 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 ### Interview Process
 
 * [Screening call](/handbook/hiring/#screening-call) with a recruiter.
-* Interview with Product Design Manager. In this interview, the interviewer will focus on understanding your experience with driving design strategy, managing managers, and influencing the wider organization in which you worked. Examples of large, complex projects that had a significant impact on product experience will be helpful. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
+* Interview with Manager, Product Design. In this interview, the interviewer will focus on understanding your experience with driving design strategy, managing managers, and influencing the wider organization in which you worked. Examples of large, complex projects that had a significant impact on product experience will be helpful. Broadly, we want to hear how you identified what needed to be done and then guided your team to the end result.
 * Interview with Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, what types of teams you have led and your management style. The interviewer will also want to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
 * Interview with Director of Product (Product Management).
 * Interview with VP of Engineering.
 
 ## Director of Product Design
 
-The Director of Product Design reports to the VP of UX, and Product Design Manager and Senior Product Design Manager report to the Director of Product Design.
+The Director of Product Design reports to the VP of UX, and Manager, Product Design and Senior Manager, Product Design report to the Director of Product Design.
 
-The Director of Product Design role extends the Senior Product Design Manager role.
+The Director of Product Design role extends the Senior Manager, Product Design role.
 
 ### Job Grade
 
@@ -142,10 +142,10 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 * **Goal setting:** Independently manage the creation and execution of product design [OKRs](https://about.gitlab.com/company/okrs/) with feedback from the Product Design team and UX Leadership.
 * **UX evangelism:** Ensure UX is prioritized by working with product leadership to identify opportunities for validation and better cross-functional collaboration.
 * **Design strategy:** Communicate significant product design strategy decisions to leadership and the wider company.
-* **People management:** Coach Product Design Managers on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
+* **People management:** Coach Managers, Product Design on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
 * **Skip levels:** Conduct quarterly skip levels with your reports' direct reports.
 * **Vision and direction**: Have an awareness of Opportunity Canvas reviews, strategy, and visions across the product. 
-* **Team building:** Hire and retain a world-class team of Product Designers and Product Design Managers.
+* **Team building:** Hire and retain a world-class team of Product Designers and Managers, Product Design.
 
 ### Requirements
 
@@ -161,7 +161,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 ### Interview Process
 
 * [Screening call](/handbook/hiring/#screening-call) with a recruiter.
-* Interview with Product Design Manager or Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, as well as what type of teams you have led and your management style. The interviewer will also be looking to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
+* Interview with Manager, Product Design or Director of Product Design. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, as well as what type of teams you have led and your management style. The interviewer will also be looking to understand how you define strategy, how you work with researchers, how you've handled conflict, and how you dealt with difficult situations in the past. Do be prepared to talk about your work, experience with Design Systems, and technical ability, too.
 * Interview with Director of Product (Product Management).
 * Interview with VP of UX.
 
