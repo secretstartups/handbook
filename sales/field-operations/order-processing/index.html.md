@@ -657,12 +657,20 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 The first time you login to DocuSign from SFDC, you will be required to Authorize access and log in. Please follow these steps when prompted:
 
 1. After clicking on the “Send with DocuSign” button, you will be prompted with this screen. Select “Authorize” to continue.
+
+      ![DocuSign 1](/handbook/sales/images/docusign1.png)
+
 2. On the next screen, login to your DocuSign account. Enter your GitLab email address and click continue. This will automatically log you in with OKTA.
+
+      ![DocuSign 2](/handbook/sales/images/docusign2.png)
+
 3. Once logged in, click “Accept” to grant access to DocuSign.
 4. On the next screen, click “Allow” to grant DocuSign access to Salesforce.
 5. On the final screen, you may be asked to login to Salesforce again. After this access will be granted going forward.
 
 #### How to Send an Order Form to the Customer for Signature via DocuSign
+
+      ![DocuSign 4](/handbook/sales/images/docusign4.png)
 
 To send a digital copy of an Order Form to the customer via DocuSign:
 
@@ -670,6 +678,9 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 2. Proceed to the related opportunity.
 3. Confirm the PDF has been generated under the “Google Docs, Notes & Attachments” section on the opportunity.
 4. From the Opportunity, select the “Send with DocuSign” button.
+
+      ![DocuSign 5](/handbook/sales/images/docusign5.png)
+
 5. Here, a DocuSign window appears with the **most recent** file selected by default.
 - Preview the document by clicking on the document name.
 - If this is the correct document, click **Next**.
@@ -714,6 +725,9 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 #### How do I check if the customer has signed the Order Form via DocuSign?
 
 1. From the Opportunity level in our Salesforce instance, you can view the status of a document by hovering over the “DocuSign Envelope Status.
+
+      ![DocuSign 6](/handbook/sales/images/docusign6.png)
+
  - Once the document has been sent the status will state “Sent.”
  - Once the document has been signed the status will update to “Completed.”
  - You will receive email notifications to your Gitlab email address when the document has been viewed, and when it has been signed. 
