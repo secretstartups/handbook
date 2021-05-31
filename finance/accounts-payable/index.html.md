@@ -5,9 +5,10 @@ title: "Accounts Payable"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## Welcome to Accounts Payable
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> On the Accounts Payable Page
+{: #tanuki-orange} 
 
-{:.no_toc .hidden-md .hidden-lg}
+{:.no_toc}
 
 - Introduction
 - Quick Links
@@ -15,12 +16,13 @@ title: "Accounts Payable"
 - FAQs
 - Invoice Payments
 - Expenses
+{:toc}
 
-  {:toc .hidden-md .hidden-lg}
+----
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Introduction
 
-Welcome to Accounts Payable, commonly referred to as AP.  You should be able to find answers to most of your questions in the sections below. If you can't find what you are looking for, then please connect with us:
+Welcome to Accounts Payable, commonly referred to as AP.  You should be able to find answers to most of your questions in the sections below. If you cannot find what you are looking for, then please connect with us:
 
 - **Chat Channel**: `#accountspayable`
 - **Email**: `ap@gitlab.com`
@@ -35,7 +37,7 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> General Guidelines
 
-- Payment Runs are completed on Thursdays. Invoices that are paid on Thursday must be fully approved and vendors successfully onboarded by Wednesday morning of that week to be included in Thursday's payment run.
+- Payment Runs are completed on Thursdays. Invoices that are paid on Thursday must be fully approved and vendors successfully onboarded by end of day Tuesday of that week to be included in Thursday's payment run.
 
 - Invoices are paid strictly by the invoice due dates. Any "Urgent Payment" requests will be paid in the next available payment run as long as they have been fully approved and the vendor has been successfully onboarded. AP cannot accommodate same day payment requests.
 
@@ -49,7 +51,7 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
 
 ## <i class="far fa-question-circle" id="biz-tech-icons"></i> Frequently Asked Questions
 
-1. My invoice has not been paid yet, and my vendor is asking me where their payment is being delayd?
+1. My invoice has not been paid yet, and my vendor is asking me when it will be paid?
 
   - Check if your issue or PO was fully approved. AP cannot send an invoice out for approval until ALL approvals are checked off in the procurement issue and the contract has been uploaded. Likewise, for Coupa POs, all approvals must be received before we can process an invoice against the PO.
   - Check if the invoice was sent to the correct place - an invoice uploaded to an issue will NOT get processed until it is emailed to ap@gitlab.com
@@ -58,15 +60,15 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
   - Further more, AP cannot process an invoice unless the correct VAT has been included on the invoice - per the entity that the vendor is invoicing to.
   If you are sure that all of these things have been done correctly, please ask the vendor to contact the AP team directly, via email _ap@gitlab.com_
 
-2. I do not know which system to push my vendor to.
+2. I do not know which system to push my vendor to?
 
   - Any vendors for Inc, Federal, IT BV and BV will be processed with a PO in Coupa as of June 2021.
   - All other entities will continue to be processed and paid through Tipalti. This includes Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore
 
-3. How do I submit an expense report and when will it get paid?
+3. How do I submit an expense report? And, when will it get paid?
 
   - All questions about expenses can be answered on the [Expense page](/handbook/finance/expenses/).
-  - Reports are paid out on varying timelines depending on which country you are located in. This is also detailed on the Expense page.
+  - Reports are paid out on varying timelines depending on which country you are located in. This is also detailed on the [Expense page](/handbook/finance/expenses/).
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is Coming!
 
@@ -76,7 +78,8 @@ Coupa is a procure-to-pay system that will help us streamline the purchase reque
 
 You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
 
-## Need to get an invoice paid?
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Need to get an Invoice paid? 
+{: #tanuki-orange}
 
 The first step to getting an invoice paid is to review the approrpriate [procurement process](/handbook/finance/procurement/) to see what type of procurement issue or Coupa PO is required. 
 If the vendor is being used for the first time, we will need to invite them to onboard in either Tipalti or Coupa - depending on the entity they are billing. This instruction is also outlined in the [procurement page](/handbook/finance/procurement/). 
@@ -89,7 +92,7 @@ In order for an invoice to be included on the Thursday payment run, it must have
 
 Further details on this process can be found at [the Procure to Pay page](handbook/finance/accounting/#procure-to-pay)
 
-## Expenses
+## <i class="fas fa-receipt" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Expenses
 
 Please review the page on [Spending Company Money](/handbook/spending-company-money/) to ensure that your spend is within GitLab's [Expense policy](/handbook/finance/expenses/).
 
