@@ -66,21 +66,82 @@ The following members of other functional teams are our stable counterparts:
 
 ## Useful Links
 
-<%= partial("handbook/engineering/development/ops/verify/includes/useful_links.erb", locals: { group_label: 'group::pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX' }) %>
+ * [Issue Tracker: `~group::pipeline execution`](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all)
+ * [Slack Channel: `#g_pipeline-execution`](https://gitlab.slack.com/archives/CPCJ8CCCX)
+ * [GitLab Unfiltered: Pipeline Execution group](https://www.youtube.com/playlist?list=PL05JrBw4t0KpsVi6PG4PvDaVM8lKmB6lV)
+
+### Development Docs
+
+For those new to the team, these links may be helpful in learning more about the product and technology.
+
+ * [CI/CD Development Documentation](https://docs.gitlab.com/ee/development/cicd/index.html)
+
+### Engineering Overview
+
+ * [CI Backend Architectural Walkthrough - May 2020](https://www.youtube.com/watch?v=ew4BwohS5OY)
+ * [Frontend CI product / codebase overview - June 2020](https://www.youtube.com/watch?v=7CUd7aAUiWo)
 
 ## How We Work
 
 ### Planning
 
-<%= partial("handbook/engineering/development/ops/verify/includes/issue_refinement.erb") %>
+Issues are refined and weighted prior to scheduling them to an upcoming milestone. We use `candidate::` scoped labels to help with planning work in future iterations. The additional label allows us to filter on the issues we are planning, allowing Product, Engineering and UX to [start async issue refinement on the 4th](/handbook/engineering/workflow/#product-development-timeline).  Weighting also helps with capacity planning with respect to how issues are scheduled in future milestones. 
+
+We create 2 issues as part of our Planning process:
+ 1. Planning issue - Product is the DRI in prioritizing work, with input from Engineering, UX and Technical Writers. This issue is used to discuss scheduling and team capacity. We use an issue list filtered on the group and candidate labels.
+ 1. Needs Weight issue - Engineering is the DRI in ensuring issues are refined asynchronously and weighted accordingly, given what is planned for the milestone. This helps Product understand how much can be scheduled in the future milestone(s), once the complexity and effort of the issues are better understood.  For example, issues may need to be broken down if they are too large for a milestone, or further research may be necessary, so subsequent issues or epics can be created.
+
+Both issues currently rely on the `candidate::` scoped label to determine what issues are to be investigated for the upcoming milestone(s).
+
+#### How Engineering Refines Issues
+
+*side note: we prefer [using Refining over Grooming](/handbook/communication/#top-misused-terms)*
+
+Engineers are expected to allocate approximately 4 hours each milestone to refine and weight issues assigned to them. The purpose of refining an issue is to ensure the problem statement is clear enough to provide a rough effort sizing estimate; the intention is not to provide **solution validation** during refinement.
+
+Engineering uses the [following handbook guidance for determining weights](#weighting-issues). If any issue needs any additional `~frontend ~backend ~Quality ~UX ~documentation` reviews, they are assigned to the respective individual(s). 
+
+##### Checklist for Refining Issues
+
+1. Does the issue have a problem statement in the description?
+1. Does the issue have the expected behaviour described well enough for anyone to understand?
+1. Does the issue explicitly define who the stakeholders are (e.g. BE, FE, PM, UX and/or Tech Writer)?
+1. Does the issue have a proposal in the description? *If so:*
+    1. Does the proposal address the problem statement?
+    1. Are there any unintended side effects of the implementation?
+1. Does the issue have proper labeling matching the job to be done? (e.g. bug, feature, performance)
+
+Any one on the team can contribute to answering the questions in this checklist, but the final decisions are up to the PM and EMs.
+
+##### Steps for Refining and Weighting Issues
+
+Engineers will:
+1. Go through the checklist above for refining issues assigned to them
+1. Add a [weight based on the definitions](#weighting-issues)
+1. Update the `~workflow::` label to the appropriate status, e.g. 
+   * ~"workflow::design" if further design refinement is needed, and let the designer know
+   * ~"workflow::ready for development" when refinement is completed and a weight has been applied, signaling that it's ready for implementation and the issue can be scheduled accordingly
+   * ~"workflow::planning breakdown" if more investigation and research is needed, the status does not move, and the PM and EMs should be pinged
+1. Unassign themselves from the issue when they are done refining and weighting the issue
 
 #### Weighting Issues
 
-<%= partial("handbook/engineering/development/ops/verify/includes/weighting_issues.erb") %>
+We add a `Weight` to issues as a way to estimate the effort needed to complete an issue. We factor in complexity and any additional coordination needed to work on an issue.  We weight issues based on complexity, following the fibonacci sequence:
+
+| Weight | Description  |
+| --- | --- | --- |
+| 1: Trivial | The problem is very well understood, no extra investigation is required, the exact solution is already known and just needs to be implemented, no surprises are expected, and no coordination with other teams or people is required.<br><br>Examples are documentation updates, simple regressions, and other bugs that have already been investigated and discussed and can be fixed with a few lines of code, or technical debt that we know exactly how to address, but just haven't found time for yet. |
+| 2: Small | The problem is well understood and a solution is outlined, but a little bit of extra investigation will probably still be required to realize the solution. Few surprises are expected, if any, and no coordination with other teams or people is required.<br><br>Examples are simple features, like a new API endpoint to expose existing data or functionality, or regular bugs or performance issues where some investigation has already taken place. |
+| 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and some edge cases will be considered, but additional investigation may be required to confirm the approach. Some surprises are expected, and coordination with other team members may be necessary.<br><br>Bugs that are relatively well understood, but additional investigation may be required.  The expectation is that once the problem is verified and major edge cases have been identified, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with backend or frontend dependencies or performance issues. |
+| 5: Large | Features that are well understood, but has more ambiguity and complexity. A solution will be outlined, and major edge cases will be considered, but additional investigation will likely be required to validate the approach. Surprises with specific edge cases are to be expected, and feedback from multiple engineers and/or teams may be required.<br><br>Bugs are complex and may be understood, and may not have an indepth solution defined during issue refinement. Additional investigation is likely necessary, and once the problem is identified, multiple iterations of a solution may be considered.<br><br>Examples are large features with backend and frontend dependencies, or performance issues that have a solution outlined but requires more indepth solution validation.|
+
+The maximum weighted value for an issue is a `5`, and may exceed one milestone to complete given additional dependencies and/or complexity. Consider whether an issue weighted with a `5` can be broken down into smaller iterations.
+
+If an issue requires a feature flag rollout plan, consider increasing the weight by `1` or `2`, according to the effort involved in rolling out the feature flag and monitoring the new behavior.
 
 ### Release Plans
 
-<%= partial("handbook/engineering/development/ops/verify/includes/release_plans.erb") %>
+To encourage more transparency and collaboration amongst the team and additionally align on the [Release Posts](/handbook/marketing/blog/release-posts/) we publish at the end of each milestone, we will be creating a separate issue to highlight a **Feature flag roll out plan** for each feature being released starting in 13.2, based on the [issue template for feature flag roll outs](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Flag%20Roll%20Out.md). The engineer who implements the feature will be responsible for creating this separate issue to highlight the details of when and how the feature flag will be toggled, and subsquently link this issue to their feature issue.  The product manager will tag this issue as a blocker to their release post, so that everyone is aligned on the release plan of the feature.
 
 ### Workflow
 
@@ -184,11 +245,18 @@ The Health Status of these issues should be updated to:
 
 EMs are responsible for manually updating the Health Status of [any inactive issues in the milestone](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Acontinuous%20integration&milestone_title=%23upcoming&not%5Blabel_name%5D%5B%5D=workflow%3A%3Acanary&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+dev&not%5Blabel_name%5D%5B%5D=workflow%3A%3Ain+review&not%5Blabel_name%5D%5B%5D=workflow%3A%3Aproduction&not%5Blabel_name%5D%5B%5D=workflow%3A%3Astaging&not%5Blabel_name%5D%5B%5D=workflow%3A%3Averification&page=2&scope=all&state=opened) accordingly.
 
-
-
 ### Spikes
 
-<%= partial("handbook/engineering/development/ops/verify/includes/spikes.erb") %>
+Spikes are time-boxed investigations typically performed in agile software development. We create Spike issues when there is uncertainty on how to proceed on a feature from a technical perspective before a feature is developed.
+
+#### Guidelines
+
+- Spikes are typically marked as deliverable to ensure clear ownership from engineers
+- Spikes are typically time-boxed to a short duration, sometimes one week, never more than one milestone.
+- We should try to schedule Spikes at the beginning of an iteration so that the investigation will conclude before the planning of the following iteration.
+- Limit no more than 2 Spikes per milestone per group. 
+- Typically multiple team members collaborate on a spike. We want to ensure we get multiple different viewpoints as well as keep the research focused and efficient.
+- Spikes should be assigned to at least one frontend and one backend engineer to ensure we consider the issue from both viewpoints.
 
 #### Category Labels
 
@@ -215,8 +283,11 @@ The Pipeline Execution group supports the product marketing categories described
 
 #### Other Notable Labels
 
-<%= partial("handbook/engineering/development/ops/verify/includes/notable_labels.erb") %>
-
+| Label                 | |  | Description |
+| ----------------------| -------| ----|------------|
+| `CI/CD core platform` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=CI%2FCD%20Core%20Platform) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI%2FCD+Core+Platform) | Any issues and merge requests related to [CI/CD core domain](#core-domain), either as changes to be made or as observable side effects. |
+| `onboarding` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=onboarding) | | Issues that are helpful for someone onboarding as a new team member. |
+| [`Good for 1st time contributors`] | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Apipeline%20authoring&label_name[]=Good%20for%201st%20time%20contributors) | | Issues that are good for first time community contributors, and could similarly be labeled for `onboarding` |
 
 ### Collaboration with UX and Engineering
 
@@ -277,7 +348,44 @@ If we find that solutions are consistently not matching the agreed upon design, 
 
 ### Technical debt
 
-<%= partial("handbook/engineering/development/ops/verify/includes/technical_debt.erb", locals: { group: 'CI', board_id: '1438885' }) %>
+We track our technical debt using the following [Pipeline Execution Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/1438885), where we track issues in the planning phase.
+
+This board has 2 main sections:
+
+1. Issue readiness
+    - In `workflow::planning breakdown` we find issues that are currently being groomed.
+    - In `workflow::ready for development` we find issues that clearly defined and a weight has been assigned.
+
+1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
+   We use the list below as a guideline to grade the impact.
+    - `severity::1` Blocking or Critical
+      - blocking debt that prevents any further changes in the area
+      - we stumble on the same complex code every single time and it causes serious slow down on development
+      - the problem exists in a core part of our domain that represents a dependency for a large number of features
+      - the problem is wild spread throughout several domains
+      - the problem is related to a number of reported `severity::1` bugs
+    - `severity::2` High
+      - blocks many changes in the area or makes them difficult to work around it
+      - the problem exists in an area that changes frequently, causing it or workarounds to spread easily
+      - the problem is related to an important feature (e.g multi-project pipelines)
+      - the problem is very common in a specific domain and leaks into other domains too
+      - the problem is related to a number of reported `severity::2` bugs
+    - `severity::3` Medium
+      - the problem exists in a feature that has a supporting role in our domain
+      - the problem exists in an area that does not change frequently
+      - the problem is very common in a specific domain but limited to its domain boundaries
+      - workarounds slow down development
+      - the problem is related to a number of reported `severity::3` bugs
+    - `severity::4` Low
+      - the problem is very isolated and has low or no impact to development
+      - the area affected does not change frequently
+      - the problem is related to a number of reported `severity::4` bugs
+
+Note that a multiple factors can exist at once. In that case use your judgment to either bump the impact score or lower it. For example:
+- the problem exists in a feature that has a supporting role in our domain but it's related to a number of `severity::2` bugs.
+  Then choose `severity::2`.
+- the problem is related to an important feature but the workaround is acceptable as the code around it does not
+  change frequently. Then choose `severity::3`.
 
 ### Risk Mapping
 
@@ -289,8 +397,14 @@ To better understand the risk environment and each risk's causes and consequence
 
 ### Team Communication
 
-<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_ci', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group:pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', gitlab_subgroup: 'ci-group' }) %>
+<%= partial("handbook/engineering/development/ops/verify/includes/team_communication.erb", locals: { slack_channel: 'g_pipeline-execution', slack_url: 'https://gitlab.slack.com/archives/CPCJ8CCCX', group_label: 'group:pipeline execution', group_issues_url: 'https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=group%3A%3Apipeline+execution&scope=all', gitlab_subgroup: 'pipeline-execution-group' }) %>
 
 ## Developer Onboarding
 
-<%= partial("handbook/engineering/development/ops/verify/includes/developer_onboarding.erb") %>
+Welcome to the team! Whether you're joining GitLab as a new hire, transferring internally or ramping up on the CI domain knowledge to tackle issues in our area, you'll be assigned an [onboarding/shadowing buddy](/handbook/general-onboarding/onboarding-buddies/) so you can have someone to work with as you're getting familiarized with our codebase, our tech stack and general development processes on the Pipeline Execution team.
+
+Read over this page as a starting point, and feel free to set up regular sync or async conversations with your buddy. We recommend setting up weekly touch points at a minimum, and joining our regular team syncs to learn more about how we work. (Reach out to our Engineering Managers for an invite to those recurring meetings). You're also welcome to schedule a few coffee chats to meet some members of our team. There is also a [Pipeline Execution Developer onboarding checklist](https://gitlab.com/gitlab-org/ci-cd/onboarding/-/blob/master/.gitlab/issue_templates/verify-pipeline-execution_developer-onboarding.md) for you to go through if it's helpful, which will have admin tasks to complete (as a new team member, if relevant), and also links to technical documentation, meeting agendas and recordings.
+
+Issues labelled with `~onboarding` are smaller issues to help you get onboarded into the CI feature area. We typically work Kanban, so if there aren't [any `~onboarding` issues in the current milestone](https://gitlab.com/groups/gitlab-org/-/boards/1372896?milestone_title=%23started&label_name[]=onboarding), reach out to the Product Manager and/or Engineering Managers to see which issues you can start on as part of your onboarding period.
+
+In May 2021, we introduced the [CI Shadow Program](https://gitlab.com/gitlab-com/Product/-/issues/2542), which we are trialing as a way to onboard existing GitLab team members from other Engineering teams to the CI domain and contribute to CI features.
