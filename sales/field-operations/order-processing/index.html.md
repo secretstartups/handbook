@@ -1036,9 +1036,13 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Region: NORAM, Sub-Region: US East
 3. Create a quote per standard practice, and enter the following information:
   - Order Form Template = IBM
-  - Invoice Owner = IBM (OEM)
+  - Invoice Owner = IBM OEM (Alliance Partner)
   - Sold To Contact = IBM Ecosystem Project Office
   - Bill To Contact = IBM Ecosystem Project Office
+  - Purchase Order # - Enter PO Number (see "PO" column)
+  - Payment Term = Net 60
+  - Start Date = Date of Transaction Notification Email
+  - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
 4. Generate Order Form.
 5. Attach the following to the opportunity:
   - Screenshot of email notification from IBM noting that the transaction has closed from IBM
