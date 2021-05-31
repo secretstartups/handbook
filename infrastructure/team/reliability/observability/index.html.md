@@ -15,12 +15,14 @@ Observability is:
 
 | Person | Role |
 | ------ | ------ |
-|To be hired|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
-|[Cindy Pallares](/company/team/#cindy)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|Open Position|[Engineering Manager, Reliability](https://about.gitlab.com/job-families/engineering/infrastructure/engineering-management/#engineering-manager-reliability)|
 |[Igor Wiedler](/company/team/#igorwwwwwwwwwwwwwwwwwwww)|[Staff Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 |[Michal Wasilewski](/company/team/#mwasilewski-gitlab)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Matt Smiley](/company/team/#msmiley)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
-|[Craig Furman](/company/team/#craigf)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|[Natan Hoppe](/company/team/#nhoppe1)|[Senior Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|[Rehab Hassanein](/company/team/#rehab)|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|Open Position|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|Open Position|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
+|Open Position|[Site Reliability Engineer](/job-families/engineering/infrastructure/site-reliability-engineer/)|
 
 
 ## Vision
