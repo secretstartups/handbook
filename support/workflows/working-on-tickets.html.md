@@ -486,7 +486,7 @@ Here's an example week for folks working on self-managed tickets:
    <td><strong>Number of self-managed Support Engineers</strong>
    </td>
    <td><p style="text-align: right">
-<strong>50</strong></p>
+<strong>42</strong></p>
 
    </td>
    <td>
@@ -512,7 +512,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-1000</p>
+1050</p>
 
    </td>
    <td><p style="text-align: right">
