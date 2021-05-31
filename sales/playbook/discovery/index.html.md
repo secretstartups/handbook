@@ -62,7 +62,7 @@ As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoD
 - What are some potentially relevant success stories (e.g. same industry, geo, anticipated pain points, etc.) and other proof points (e.g. favorable analyst report) that you may want to reference or highlight to build interest and credibility?
 - What questions or objections do you anticipate the prospect may have? If those indeed come up, are you ready to respond?
 
-## Key Tips
+## Seek to Understand 
 
 ### Approach With Curiosity
 Approach discovery conversations with a curiosity-led mindset and a desire to better understand the customer’s challenges as well as the _implications_ of those challenges.
@@ -114,12 +114,18 @@ Command of the Message is a proven, value-based sales messaging methodology from
 - [Command of the Message Handbook page](/handbook/sales/command-of-the-message)
 - [Command of the Message e-learning module](https://gitlab.edcast.com/insights/ECL-20f0f2ac-0d50-4384-b473-63cc6d3bb48d) (90 minutes) (GitLab internal with protected IP from Force Management)
 
-## Pitfalls to Avoid
+# Identify the Buying Process
+The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
+- Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more 
+- Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
+- Complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal)
 
-### Lack of Preparation
+# Avoid These Discovery Pitfalls
+
+## Lack of Preparation
 See the [above section](/handbook/sales/playbook/discovery/#preparation) for tips to avoid what may be the most common discovery pitfall.
 
-### Happy Ears
+## Happy Ears
 Resist the urge to prematurely talk about or begin to position GitLab until you have a thorough understanding of the customer’s challenges, the implications of those challenges, how big the problem is, the urgency of the problem, who cares about the problem and why, and more (see below).
 
 <!-- blank line -->
@@ -128,7 +134,7 @@ Resist the urge to prematurely talk about or begin to position GitLab until you 
 </figure>
 <!-- blank line -->
 
-### Not Attaching to the Biggest Problem 
+## Not Attaching to the Biggest Problem 
 You must have a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and goals to be able to serve as a trusted advisor. These will almost assuredly relate to one or more [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issues.
 
 <!-- blank line -->
@@ -138,7 +144,7 @@ You must have a solid understanding of the prospect's key business drivers, stra
 ></iframe>
 <!-- blank line -->
 
-### Failing to Identify the Negative Consequences of Doing Nothing
+## Failing to Identify the Negative Consequences of Doing Nothing
 Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
 
 <!-- blank line -->
@@ -147,7 +153,7 @@ Watch the short video below to learn more about the importance of seeking to und
 </figure>
 <!-- blank line -->
 
-### Lack of Multi-Threading
+## Lack of Multi-Threading
 Sales multi-threading refers to the concept of engaging and developing relationships with multiple stakeholders who are involved in your customer's decision-making process. According to CEB Global, the average B2B deal has 5.8 decision-makers, and that number typically increases along with the size and complexity of the contract. Even if your primary contact has significant authority in the organization, that may be insufficient if the rest of the buying group is not on board with the decision. Therefore, the more connections you have from the buying side, the better your chances of getting a deal closed. To learn more, check out the below articles/blogs and podcast.
 - [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/)
 - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
@@ -158,9 +164,3 @@ Sales multi-threading refers to the concept of engaging and developing relations
   style="width:100%; height:200px;"
 ></iframe>
 <!-- blank line -->
-
-# Identify the Buying Process
-The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
-- Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more 
-- Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
-- Complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal)
