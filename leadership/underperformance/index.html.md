@@ -43,7 +43,7 @@ GitLab strives to treat all team members with dignity and respect at all times. 
 Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all leaders manage performance timely and provide team members with clear feedback and guidance.  There are many reasons why a leader may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
 * It is hard, uncomfortable and the leader fears having the hard conversations
-* Favortism
+* Favoritism
 * Unwillingness to admit you made a mistake in the hiring process
 * Believes the performance issue will resolve itself over time
 
