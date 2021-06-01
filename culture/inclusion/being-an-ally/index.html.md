@@ -204,7 +204,7 @@ What will you do:
     1. [Equality Ally Strategies](https://trailhead.salesforce.com/en/content/learn/modules/workplace_equality_ally_strategies)
     1. [Cultivate Equality at Work](https://trailhead.salesforce.com/en/content/learn/trails/champion_workplace_equality\)
     1. [Communicating with Empathy](https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
-    1. [Effective Listening](https://www.linkedin.com/learning/effective-listening/improve-your-listening-skills?u=2255073)
+    1. [Effective Listening](https://www.linkedin.com/learning/improving-your-listening-skills/welcome?autoplay=true&resume=false&u=2255073)
     1. [Building Trust](https://www.linkedin.com/learning/building-trust-6/building-trust?u=2255073)
     1. [The importance of trust](https://www.linkedin.com/learning/why-trust-matters-with-rachel-botsman/the-importance-of-trust?u=2255073)
     1. [How to engage meaniningfully in allyship and anti-racism - OPTIONAL](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
