@@ -451,7 +451,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 
 | Meeting type                     | Notes?         | Timekeeping?   |
 | -------------------------------- | -------------- | -------------- |
-| 1-1                              | Only if stated | Only if stated |
+| 1-1                              | No notes unless requested | No timekeeping unless requested |
 | Legal meeting                    | No notes       | Timekeeping    |
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
