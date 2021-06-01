@@ -44,7 +44,7 @@ The account lists and playbook routing rules that govern how most Drift conversa
 -   Set yourself to away when done working / no longer want to receive chats. Please note: If you set yourself to away, prospects will still be able to interact with the bot, but once they answer the initial questions, they are automatically given the option to book time on your calendar. If you don’t set yourself to away they will have to wait while the bot attempts to notify you. 
 -   SLA: please respond to chats within 30 seconds
 -   If you are routed a chat from outside your territory, assist and qualify by continuing the conversation. If a lead is then created in Salesforce, change it to the appropriate owner.
--   In the event you aren't able to assist a site visitor on your own and escalation is needed, please reach out to your manager and/or the #drift slack channel
+-   In the event you aren't able to assist a site visitor on your own and escalation is needed, please reach out to your manager and/or the #mktgops slack channel
 
 ### Best practices
 * Ensure you set yourself to away when you won't be able to receive Drift notifications. The prospect will still be able to chat with the bot but will be given the option to book a time with you right away as opposed to waiting for the bot to ping you. 
