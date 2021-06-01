@@ -53,7 +53,7 @@ If yes, then follow the instructions on the table below:
 
 > _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
 
-As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Software Vendor Purchase Request issue_](/handbook/finance/procurement/vendor-contract-saas/#-deep-dive-on-the-software-vendor-purchase-request-process) section for a detailed walkthrough guide.
+As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Software Vendor Purchase Request issue_](/handbook/finance/procurement/vendor-contract-saas/#-deep-dive-on-the-software-vendor-purchase-request-issue) section for a detailed walkthrough guide.
 
 
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request issue
