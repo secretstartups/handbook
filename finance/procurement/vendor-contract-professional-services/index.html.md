@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Vendor Contract Issue Process - Professional Services and all Other Contract Types
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -18,15 +20,40 @@ title: Vendor Contract Issue Process - Professional Services and all Other Contr
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for one of the US or Netherlands entities?
+> _GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=professional_services_and_general_vendor_contract_request#) to begin the process.
-1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+If yes, then follow the instructions on the table below:
 
+|   | <$25K | Between $25K - $49K | >$50K |
+| ------ | ------ | ------ | ------ |
+| Professional Services Agency/Contractor<br>**New Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+| Professional Services Agency/Contractor<br>**Existing Vendor** | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+| PS Partner Team | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+
+<div class="panel panel-info">
+**Unsure if your vendor is new or existing?**
+{: .panel-heading}
+<div class="panel-body">
+
+- Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+
+</div>
+</div>
+
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
+
+- Check the [How to Create a Requisition in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) page for a detailed walkthrough guide.
+
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
+
+> _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
+
+As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [Deep Dive on the Professional Services and all Other Purchase Types Request Process](/handbook/finance/procurement/vendor-contract-professional-services/#-deep-dive-on-the-professional-services-and-all-other-purchase-types-request-process) section for a detailed walkthrough guide.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Professional Services and all Other Purchase Types Request Process
-Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
+Review the [Prior to Contacting Procurement](/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
 
 Complete Steps 1-2, the Intake Steps, with as much specificity and detail as possible. Consider that many of the approvers are just now learning about this purchase for the first time and have no context beyond what you share here. This is your chance to provide all information as clearly as possible to expedite approvals as quickly as possible!
 
@@ -191,3 +218,10 @@ More information about this process can be found in the [Team Member Enablement 
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
 If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
+
+## How do I request approval for a purchase?
+
+After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+> Create the requisition **BEFORE** agreeing to business terms and/or pricing.
+
+{::options parse_block_html="false" /}
