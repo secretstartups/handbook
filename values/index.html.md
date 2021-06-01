@@ -62,7 +62,6 @@ _Values are not just things we do but things that actively drive good behaviour.
 1. To **remove** a sub-value from the Handbook page, submit your change through a merge request and explain your reasons in the merge request description.
 1. The GitLab Value Handbook Page owner must approve and merge the request.
 
-
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
 
