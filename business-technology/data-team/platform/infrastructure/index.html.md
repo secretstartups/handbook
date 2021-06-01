@@ -180,7 +180,7 @@ Step 3: Upload the file using gsutil to GCS to postgres_pipeline
 ```
   gsutil cp experiment_subjects.csv gs://postgres_pipeline/
 ```
-Step 4: Prepare the timestamp variable as we are not pushing this through the dataframe to enrich the file with _updated_at column. Hence it needs to be done using the command line. 
+Step 4: Prepare the timestamp variable as we are not pushing this through the dataframe to enrich the file with _uploaded_at column. Hence it needs to be done using the command line.
 ```
   import time 
   print(time.time())
