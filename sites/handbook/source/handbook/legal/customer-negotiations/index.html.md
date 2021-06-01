@@ -50,15 +50,14 @@ _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open ano
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
 ## How do I get an Agreement signed
-### 🎥 [Watch the "How do I get an Agreement" Video](https://www.youtube.com/embed/FzD3j0RI8do)
-*Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab; 3:40 (Log into GitLab Unfiltered)*
+*Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab*
 
 1. **Sales Reps cannot sign any Agreements.** Only certain individuals may execute on behalf of GitLab see Authorization Matrix [here](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix). 
 2. All Agreements require a GitLab Legal stamp in order to be executed. This stamp is placed by a Contract Manager when an executable version is reached. 
-3. Electronic signature requests can be generated from Sertifi in SFDC, OR, HelloSign. 
+3. Once the Agreement has been stamped by GitLab legal, follow the [DocuSign Process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-send-an-order-form-to-the-customer-for-signature-via-docusign) to send the Agreement for signature within SFDC. 
 
 **Additional Resources:**
-[Field Operations Signature Process Overview](/handbook/sales/field-operations/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) 
+Visit the [Sales Order Processing](https://about.gitlab.com/handbook/sales/field-operations/order-processing/) for helpful information
 
 ## Clear Export Review in SFDC
 1. See the [Visual Compliance Overview](https://docs.google.com/presentation/d/1hD1xgEyJL1U1eyvTci6NNlCdIur4PkB16GO52wjZRgk/edit#slide=id.g5dbc2f529a_0_41)
@@ -86,14 +85,13 @@ _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open ano
 3. **ONLY OPEN A LEGAL REQUEST IF:** There is a specific legal question / element being requested within the Vendor Form.
 
 Example: Has GitLab, or board member / executed of GitLab, been subject to a lawsuit? 
-
  
 **As a private company, we will not share the following information in a Vendor Request Form:** 
 - Stock / Share ownership of the company
 - Finances, including annual and/or historical performance 
 
 ## What's needed to close a Deal
-### 🎥 [Watch the "What's needed to close a Deal" Video](www.UPDATE.COM)
+### 🎥 Watch the ["What's needed to close a Deal" Video](https://www.youtube.com/watch?v=EhxHY6xk938)
 
 1. Visit the [Sales Operations](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/) and [Deal Desk](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) Handbook materials to review how to create an Order Form. 
 2. An Order Form with a base Agreement referenced. This will either be the current [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) as found at the [Terms of Service](https://about.gitlab.com/terms/#current-terms-of-use), or, if an executed Agreement is signed, this will be referenced within the Order Form. 
@@ -141,7 +139,6 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 ## Open Source
 
-
 1. For a general introduction to Open Source, including lists of acceptable and unacceptable Open Source licenses for use in GitLab, see [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/).
 1. Helpful external resources on Open Source Software can be found at [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/).
 3. The Open Source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](gitlab.com/gitlab-org/gitlab).
@@ -149,7 +146,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 
 ## GitLab Subscription Agreement 101
-### 🎥 [Watch the "Subscription Agreement Basics" video](Update with video)
+### 🎥 Watch the ["Subscription Agreement Basics" Video](https://www.youtube.com/watch?v=jaX81XXD55w) 
 _Please Note: The purpose of this content is to understand where to find GitLab's terms, as well as, basic knowlege about the rights and obligations stated_
 
 1. GitLab terms can be found at our [Terms of Service](https://about.gitlab.com/terms/)
@@ -175,7 +172,6 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 
 1. The [GitLab Privacy Policy](https://about.gitlab.com/privacy/) explains how GitLab collects, uses and shares customers' personal information, and how they may exercise their rights in respect of that information. More information about privacy compliance at GitLab, including answers to a number of frequently asked questions concerning the GDPR, can be found on the [GitLab Privacy Compliance](https://about.gitlab.com/privacy/privacy-compliance/) handbook page.
 1. The GitLab Data Processing Addendum, usually referred to as the "DPA", can be accessed from the [GitLab Terms of Service page](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf). As stated in the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), the terms of the DPA automatically apply to corporate customers.
-
 
 
 ## Additional Resources
