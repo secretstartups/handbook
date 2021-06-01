@@ -108,5 +108,5 @@ Team members are entitled to at least 20 vacation days which run concurrently wi
 
 * If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less that the team member's salary. 
 
-####During COVID-19
+#### During COVID-19
 During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Total Rewards at total-rewards@gitlab.com. Total Rewards will file this in their BambooHR profile and forward to Payroll for processing. 
