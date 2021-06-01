@@ -34,7 +34,7 @@ Depending on the conditions above, a Purchase Request can be created by:
    - Creating a Requisition in Coupa.
       - You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/).
 
-Check the _[How do I open a Purchase Request?](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request-issue)_ section to understand which method applies to your request. If you're uncertain, ask us in the #procurement slack channel!
+Check the _[How do I open a Purchase Request?](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request)_ section to understand which method applies to your request. If you're uncertain, ask us in the #procurement slack channel!
 {: .alert .alert-info}
 
 ## When should I create a Purchase Request?
