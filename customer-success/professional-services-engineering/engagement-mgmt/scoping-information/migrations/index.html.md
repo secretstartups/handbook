@@ -27,6 +27,11 @@ This page describes scoping migrations from one GitLab source to another or from
    - [saas_security_configuration_remote](https://gitlab.com/services-calculator/services-calculator.gitlab.io/-/blob/master/public/resources/sow-activites.yml#L2309)
 - see [TEMPLATE Professional Services Presentation](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) for a summary of our migration approach and which features get migrated or not.  This also includes a description of our SaaS Discovery, SSO configuration and Security configuration activities, which we often add for new SaaS customers.
 
+## GitLab Self-Managed to GitLab Self-Managed
+- You can use congregate but you also have other options at your disposal:
+   - **Backup and restore** using rake-tasks. This enables you to restore all of the data from one instance of GitLab to another. This can be used to shorten the migration period, but will cause complete downtime as the source instance will need to be locked during the time it takes to backup. Also, this could take many hours to days depedening on the size of the data. 
+   - **Geo Replication**. This method allows you to setup the new gitlab instance as a GEO secondary. The data will sync over the course of time. Then you can perform a failover to make the new instance primary. This tends to be more complex and requires a more specialized skillset than the backup/restore approach. 
+
 ## GitHub Source 
 ### GitHub Enterprise to GitLab Self Managed
 - This is one of our strongest combinations of source and destination systems. We have migrated 7,000+ projects per wave in our best case. 
