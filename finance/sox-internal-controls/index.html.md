@@ -9,9 +9,16 @@ title: "SOX Internal Controls"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Desktop Procedures
 
-[Guidance on updating the Desktop Procedures](/handbook/finance/sox-internal-controls/guidance-on-updating-the-desktop-procedures/)
+### 1. Risk Assessment and Scoping
+
+### 2. [Control Assessment Procedure](/handbook/finance/sox-internal-controls/sarbanes-oxley-sox-management-control-assessment-plan/)
+
+### 3. [Entity Level Controls](/handbook/finance/sox-internal-controls/entity-level-controls/)
+
+### 4. [IT General Controls](/handbook/engineering/security/security-assurance/security-compliance/ITGC/)
+
+### 5. Business Process Controls
 
 1. [Quote to Cash](/handbook/finance/sox-internal-controls/quote-to-cash/) 
 1. [Procure to Pay](/handbook/finance/sox-internal-controls/procure-to-pay/)
@@ -20,13 +27,4 @@ title: "SOX Internal Controls"
 1. [Record to Report](/handbook/finance/sox-internal-controls/record-to-report/)
 1. [Stock Compensation](/handbook/finance/sox-internal-controls/stock-compensation/)
 
-### Entity Level Controls
-[Guidance on Entity Level Controls](/handbook/finance/sox-internal-controls/entity-level-controls/)
-
-
-### IT General Controls
-[Guidance on IT General Controls](/handbook/engineering/security/security-assurance/security-compliance/ITGC/)
-
-
-### SOX Certifications 
-[Guidance on SOX Certifications](/handbook/finance/sox-internal-controls/sox-certifications/)
+### 6. [SOX Certifications](/handbook/finance/sox-internal-controls/sox-certifications/)

@@ -42,7 +42,7 @@ Every individual is ultimately responsible for their career plan and managers ar
 
 To align with career development plans, we will create opportunities for cross training with other team members. This will not only allow for knowledge transfer for growth, it will also allow leadership opportunities for team members that wish to train. 
  
-With the success of several mentorship programs at GitLab, we will create a similar program for the Finance Org. An example for us to align to is the [Women in Sales Mentorship Program](https://about.gitlab.com/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot).
+With the success of several mentorship programs at GitLab, we will create a [similar program for the Finance Org](/handbook/finance/growth-and-development/mentorship/). An example for us to align to is the [Women in Sales Mentorship Program](/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot).
 
 We will create opportunities to shadow finance leaders for team members to gain perspective and business acumen.
 

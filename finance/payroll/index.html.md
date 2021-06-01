@@ -15,15 +15,16 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 -  **Email** your question(s) to one of the following group email addresses:
    *   US team members: uspayroll@gitlab.com
    *   Non-US team members: nonuspayroll@gitlab.com
--  **Chat channel**:  `#payroll` slack channel for questions that is not confidential.
-- Please email all questions related to commission such as calculation, deals, etc... to sales-comp@gitlab.com
+-  **Chat channel**:  `#payroll` Slack channel for questions that are not confidential.
+- For questions related to commission such as calculation, deals, etc. contact sales-comp@gitlab.com
+- For questions related to discretionary and referral bonus payout timing contact Total-Rewards@gitlab.com
 
 ## Legal Entity Payroll providers
 
 - GitLab BV (Netherlands) - HR Savvy
 - GitLab BV (Belgium) - SD Worx
 - GitLab IT BV - iiPay payment service
-- GitLab Federal (US) - ADP
+- GitLab Federal LLC (US) - ADP
 - GitLab Inc (US) - ADP
 - GitLab GmbH (Germany) - CloudPay
 - GitLab LTD (UK) - Vistra
@@ -35,31 +36,23 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 
 ## Pay Date
 
-1. Employees of GitLab Inc and GitLab Federal will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements.
-1. Employees of GitLab BV (Netherlands) will get their salary wired on the 25th of every month, and can see their payslip in their personal portal on
+1. GitLab Inc and GitLab Federal team members will get paid on the 15th and the last day of the month. The payroll schedule and payslips are available on [ADP portal](https://workforcenow.adp.com). To access pay statements, go to Myself -> Pay Statements.
+1. GitLab BV (Netherlands) team members will get their salary wired on the 25th of every month unless it falls on a holiday then it will be the business day before, and can see their payslip in their personal portal on
 [HR Savvy's system](https://hr-savvy.nmbrs.nl/) towards the end of the month.
-1. Employees of GitLab BV (Belgium) will get their salary wired the last day of each month and will receive their payslip in their personal portal on [myworkandme] (https://www.myworkandme.com/portal/)
-1. Employees of GitLab Ltd will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before. Payslips are accessed via a personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month using the login details which is a 9-digit user ID. New hires will recive both a welcome note and password via @webcare2.com while the user id will come from an email sent direct from a Vistra team member usually about two days before paydate. Please contact `nonuspayroll@gitlab.com` if you are having difficuly retrieving or need to have your password reset.
-1. Employees of GitLab GmbH will get their salary wired on the 28th of every month unless it falls on a holiday then it will be the business day before, and Employees can see their payslip via their personal account on [DATEV Arbeitnehmeronline](https://secure10.datev.de/an-online).
-1. Employees of GitLab Canada Corp will get pay bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab PTY Australia will get their salary on the 27th of each month, and they can access their payslip through [iiPay portal](https://pay.iipaysp.com/GITL)
-1. Employees of GitLab PTY NZ will get pay their salary on the 28th of each month, and they can access their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab Ireland Ltd will get their salary on the 28th of every month unless it falls on a holiday then it will be the business day before, and Employees can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab GK Japan will get their salary on the last business day of every month unless it falls on a holiday then it will be the business day before, and Employees can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
-1. Employees of GitLab IT BV that are employed through GitLab's co-employer PE0:
+1. GitLab BV (Belgium) team members will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before and will receive their payslip in their personal portal on [myworkandme](https://www.myworkandme.com).
+1. GitLab Ltd team members will get their salary wired on the 28th of each month unless it falls on a holiday then it will be the business day before. Payslips are accessed via a personal portal on [Vistra's system](https://www.webcare2.com/vistra) towards the end of the month using the login details which is a 9-digit user ID. New hires will recive both a welcome note and password via @webcare2.com while the user id will come from an email sent direct from a Vistra team member usually about two days before paydate. Please contact `nonuspayroll@gitlab.com` if you are having difficuly retrieving or need to have your password reset.
+1. GitLab GmbH team members will get their salary wired on the 28th of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via their personal account on [DATEV Arbeitnehmeronline](https://secure10.datev.de/an-online).
+1. GitLab Canada Corp team members will get paid bi-weekly and they can access their payslip via their personal portal on [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. GitLab PTY Australia team members will get their salary on the 27th of each month, and they can access their payslip through [iiPay portal](https://pay.iipaysp.com/GITL)
+1. GitLab PTY NZ team members will get their salary on the 28th of each month, and they can access their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. GitLab Ireland Ltd team members will get their salary on the 28th of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. GitLab GK Japan team members will get their salary on the last business day of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. GitLab IT BV team members that are employed through GitLab's co-employer PE0:
    - Global Upside (India and China) will get their salary wired by the last day of the month with exception to Philippines having 2 check date-15th and last   day of the month, respectively. Global Upside will send payslips electronically through their HR portal.
    - Safeguard: France are paid monthly and on the last day of the month, Switzerland the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
    - Remote.com will get their salary wired at the last day of the month. Remote.com will send payslips electronically through their HR portal.
 1. Contractors through CXC Global will get paid by the 25th of each month.
 1. All other contractors under GitLab IT BV will get paid by the 22nd of the month by iiPay and remittance advice will send to their gitlab email address.
-
-
-## Tax Statements
-
-Employees of GitLab Inc and GitLab Federal can access their "Form W-2, Wage and Tax Statement" from [ADP portal](https://workforcenow.adp.com).
-To download your W-2 statement, go to Myself -> Pay Statements, then scroll to "Tax Statements" at the bottom of the page.
-Generally W-2 statements are made available in late January.
-Each W-2 will be available to you on this web site for three years.
 
 
 ## US
@@ -111,7 +104,7 @@ Each W-2 will be available to you on this web site for three years.
 
 #### Updating Benefits
 
-Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for all new enrollments along with changes.  Payroll Specialist will covert the information into an import file to update all changes in ADP.
+Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for all new enrollments along with changes.  Payroll team will convert the information into an import file to update all changes in ADP.
 
 1. Download the Diff file from Lumity secured portal
 1. Make a copy of the original Diff tab and name it as "Payroll"
@@ -145,22 +138,23 @@ Lumity will send a “Diff” payroll file to Payroll 5 days before pay date for
    * Payroll Summary
 1. Preview payroll:
    * Total payroll reconciliation (input vs. output)
-   * There are two Payroll Specialists for US payroll
-   * Payroll Specialist processing GitLab Inc will review payroll changes for GitLab Federal payroll and vice versa
-   * Sr. Manager, Global Payroll and Payments will perform a final review and approve the payroll
-   * All validation and reconciliation reports must be sign by the preparer, reviewer, and approver
+   * There are two Payroll Analysts for US payroll
+   * Payroll Analyst processing GitLab Inc will review payroll changes for GitLab Federal LLC payroll and vice versa
+   * Sr. Manager, Global Payroll will perform a final review and approve the payroll
+   * All validation and reconciliation reports must be signed by the preparer, reviewer, and approver
 
 
-#### Reports after Accept payroll
+#### Reports after Accepting payroll
 
-Generate the following reports and saved them on Google Shared drive for Federal and Inc:
+Generate the following reports and saved them on Google Shared drive for Inc and Federal LLC:
 
 1. GL report
-1. Payroll Reports (Payroll Summary, Statistical Summary, and Payroll Register Total)
+1. Payroll Reports (Payroll Summary, Statistical Summary, Payroll Register, and Payroll Register Totals)
 1. Commission and Bonus per check date
 1. Benefits deduction for Lumity
 1. MISC deductions
 1. 401(k) Contribution report
+1. Year to Date Maximum Social Security Tax - end of month payroll only
 
 #### Benefits Funding Process
 
@@ -183,9 +177,36 @@ Generate the following reports and saved them on Google Shared drive for Federal
   * Funds will debit from the Discovery reserve account once the employee submits a claim
   * Discovery will contact GitLab if the reserve is low on funds
 
-  ### Reporting a false unemployment claim to payroll
+### Reporting a false unemployment claim to payroll
 
-If you are a fulltime team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits you may be a victim of unemployment claim fraud.  Before giving out any information to the caller please confirm that you are speaking with an agency employee.  If you confirm with your state's Unemployment Commission that there is a fraudulent claim please report it via email to uspayroll@gitlab.com.   Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud) which lists additional information and contact information.  
+If you are a fulltime team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits you may be a victim of unemployment claim fraud.  Before giving out any information to the caller please confirm that you are speaking with an agency employee.  If you confirm with your state's Unemployment Commission that there is a fraudulent claim please report it via email to uspayroll@gitlab.com.   Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud) which lists additional information and contact information.
+
+### Tax Statements
+
+GitLab Inc and GitLab Federal LLC team members can access their "Form W-2, Wage and Tax Statement" from [ADP portal](https://workforcenow.adp.com).
+To download your W-2 statement, go to Myself > Pay Statements, then scroll to "Tax Statements" at the bottom of the page.
+Generally W-2 statements are made available in late January.
+Each W-2 will be available to you on this web site for three years.
+
+#### W-2c
+
+If there is a discrepancy on your W-2, please send an e-mail to uspayroll@gitlab.com.
+The payroll team will review and submit a W-2c request to ADP. Standard processing time can take approximately 2-3 weeks.
+
+
+### W-4 Tax Withholdings
+
+Team members can update their W-4 tax withholdings directly on the [ADP portal](https://workforcenow.adp.com).
+To update, navigate to Myself > Pay > Tax Withholdings
+
+Changes to tax withholdings received by the payroll cut off date will be reflected in the current pay cycle.
+
+### Former team member support
+
+Former team members will retain access to ADP so they can access pay stubs and W-2s.
+Former team members will need to access [ADP portal](https://workforcenow.adp.com) directly since Okta has been deprovisioned.
+If you experience login issues, please send an e-mail to uspayroll@gitlab.com so the team can assist.
+
 
 ## Non-US
 
@@ -209,9 +230,11 @@ If you are a fulltime team member and you are contacted by your state's Unemploy
 
 ### iiPay - Australia
 
-For employees of GitLab PTY (Australia), to view payslips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
+For team members of GitLab PTY (Australia), to view payslips visit the [iiPay sign-in portal](https://pay.iipaysp.com/GITL).
 
 If you have not received an invitation to create an account, visit the [register URL](https://pay.iipaysp.com/RegisterUser/GITL).
+
+For Leavers, you can request for extended access to the iiPay portal to retrieve any payslips by emailing nonuspayroll@gitlab.com from your personal email address. You will receive a password-reset in your personal email. _Please Note:_ Your _GitLab email_ is your username to reset the password.
 
 #### Contractors:
 
@@ -264,8 +287,16 @@ If you have not received an invitation to create an account, visit the [register
 - Ukraine
 - Greece
 - Czech Republic
+- Slovenia
+- Serbia
 
-Team members from the above countries will get paid through CXC Global. Team members will need to submit their monthly invoice (Salary, bonus, commission, expense, etc.) to CXC Global by the 20th of each month This is [the template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) you could use for any CXC invoice, but this is not mandatory, you can also use your own format. Team members should ensure their expenses are approved on Expensify by the 8th of each month so they can include them on their invoice to CXC. Payroll will submit commission, bonus, and expenses to CXC by the 10th of each month (depending on when the weekend falls, then it will be the working day before).  For new hires starting after the 1st of each month, the pro-rated calculation is: `(monthly salary / # of business days for that month) * actual workdays from the hire date` Team members can email nonuspayroll@gitlab.com if they have any queries for invoicing
+Team members from the above countries will get paid through CXC Global on or around the 25th of each month: 
+
+1. Team members should ensure their expenses are final approved on Expensify before the 8th of each month so they can include them on their invoice to CXC.
+1. Payroll will gather & submit any commission, bonus, and expenses to CXC by the 10th of each month (unless this falls on a weekend then it will be the working day before). This is to give CXC time to invoice GitLab for the cost and for GitLab to turn around the payment to ensure funding.
+1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred. 
+1. CXC checks that the Payroll submission matches with the invoice, thereafter payment is issued.
+1.  New hires starting after the 1st of the relevant month should pro rate using the following calculation: `(monthly salary / # of business days for that month) * actual workdays from the hire date` team members can email nonuspayroll@gitlab.com if they have any queries in regards to their invoice.
 
 ### PEO
 
@@ -299,11 +330,11 @@ Payroll changes will be sent by the 10th of the month.  Global Upside will send 
 - Mexico
 - South Africa
 
-#### Payroll cut off dates
+## Payroll cut off dates
 
 All payroll changes (demographic information, job, bonus/commission payout requests, etc..) must submit to Payroll by the payroll changes deadline date to be included in the current month.  Any new hires start after the payroll changes date will get pay on the following check date.
 
-- GitLab Inc and GitLab Federal [Payroll calendar](https://docs.google.com/spreadsheets/d/12NmHxC8UI5CKK-j7MXO91o3PtcR4Z-lC-elnPkPFhjY/edit#gid=0)
+- GitLab Inc and GitLab Federal LLC [Payroll calendar](https://docs.google.com/spreadsheets/d/12NmHxC8UI5CKK-j7MXO91o3PtcR4Z-lC-elnPkPFhjY/edit#gid=994803634)
 - GitLab Canada Corp [Payroll calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0)
 - GitLab LTD [Payroll Calendar](https://docs.google.com/spreadsheets/d/12Ch7jkpGLD3eQbzOx3zf7FBqsuMRrevj3hALajfj9aY/edit#gid=1241976897)
 - GitLab BV (Netherlands) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1c9bOUTLVsadWtM0gy6tqTHa6DDar0YGT1N4mT02xvOc/edit#gid=887208509)
@@ -314,7 +345,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/10iNM9VBmVWgE-DS-I3QFZq-htHi0pw3-NBkjauIXtOk/edit#gid=412520624)
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
-    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece & Czech Repubclic) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
+    - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
     -  SafeGuard ([S. Korea, France](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482),[Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
     -  Remote.com (South Africa,Mexico,Austria, Hungary) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ygZYhysV1eAhL5-WD_F5iiOmeXM7wreINEuKpcBSiAM/edit#gid=2111318292)
     - Global Upside ([India](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1213208098) ) Payroll Calendar

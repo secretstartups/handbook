@@ -9,7 +9,7 @@ title: Expenses
 - TOC
 {:toc}
 
-## Introduction
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Introduction
 
 Welcome to the Expenses page!  You should be able to find answers to most of your questions here.  If you can't find what you are looking for, then:
 - **Chat channel**: `#expense-reporting-inquires`
@@ -19,7 +19,7 @@ GitLab utitilizes Expensify as our team member expense reimbursement tool. All t
 
 Expense reports are to be submitted at least once a month. Additional information on getting started with Expensify and creating/submitting expense reports can be found [here](https://community.expensify.com/discussion/5922/deep-dive-day-1-with-expensify-for-submitters/p1?new=1).
 
-### Redacting Personal Information from Receipts - A Caution
+### <i class="far fa-paper-plane" id="biz-tech-icons"></i> Redacting Personal Information from Receipts - A Caution
 As the service does not require your personal information in order to process the reimbursement, we encourage you to redact your personal information before uploading receipts to protect your privacy. Managers should relay this caution to your team members, but we will no longer deny the expense report if receipt images contain personal information.
 
 Consider redacting this information:
@@ -27,7 +27,7 @@ Consider redacting this information:
 - Your shipping and billing address(es)
 - Your credit card information
 - Your full name
-- Any other data that is personal to you that you would not want publicly known
+- Any other data that is personal to you that should not want publicly known
 
 At a minimum, information about the items/products purchased and the total purchase amount should be visible so managers can validate the expense reimbursement amount requested along with the actual items and total purchase price.
 
@@ -39,7 +39,7 @@ Team members should also consider the terms and conditions of their respective c
 
 Team members in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 7 business days by Accounts Payable team. For all other team members, please see the reimbursement process below based on your location or employment status.
 
-## Office Equipment and Supplies
+## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Office Equipment and Supplies
 
 The company will reimburse for the following items if you **need it for work or use it mainly for business**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting.
 
@@ -53,19 +53,32 @@ Team members should not use a Corporate Credit Card to purchase office equipment
 
 For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
-### Setting up a home office for the first time?
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Setting up a home office for the first time?
 
 Take inspiration from our [all-remote page covering key considerations for a comfortable, ergonomic workspace](/company/culture/all-remote/workspace/). You can also consult the `#questions` and `#remote` channels in Slack for recommendations from other GitLab team members.
 
-### Software
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i>  Software
+
+
 1. We have central [license management](/handbook/tools-and-tips/other-apps/#jetbrains) for you to
    request licenses for JetBrains' products like RubyMine / GoLand.
 1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google Workspace
    ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
    configuration](/handbook/security/#laptop-or-desktop-system-configuration).
+1. [Options are available for smaller short term Subscription purchases](#subscription-exceptions).
 
-### Hardware
+#### Individual Subscriptions
+
+GitLab does not reimburse individual software subscriptions (e.g. Apple Music, Krisp, etc.). Software subscriptions should be set up through the [company procurement process](/handbook/finance/procurement/), or by [creating an access request for an existing company subscription](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+
+##### Subscription Exceptions
+
+Certain types of individual subscriptions are reimbursable, such as VPN service. If you are uncertain whether a particular service is reimbursable, please contact Finance in the `#expense-reporting-inquiries` channel.
+
+If you need a short-term or individual software subscription, please reach out to Finance in the `#accountspayable` Slack channel to discuss options.
+
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Hardware
 
 It is uncommon for you to need all of the items listed below. Read [GitLab's guide to a productive home office or remote workspace](/company/culture/all-remote/workspace/), and use your best judgement and buy them as you need them. If you wonder if something is common, feel free to ask IT Ops (and in turn, IT Ops should update the list).
 
@@ -74,7 +87,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 | [Height-adjustable desk](/company/culture/all-remote/workspace/#desks)                                | $300 - $500          | $500                | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing.                                                                                                                                                                                                                                    |
 | [Ergonomic chair](/company/culture/all-remote/workspace/#chairs)                                      | $200 - $400          | $400                | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable.                                                                                                                                                                                                                                                                     |
 | [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. Due to low audio quality we do not reimburse air-pods.                                                                                                                                                       |
-| [External monitor](/company/culture/all-remote/workspace/#monitors)                                   | $380                 | $380                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health.                                                                                                                                                                                                                                                    |
+| [External monitor](/company/culture/all-remote/workspace/#monitors)                                   | $400                 | $400                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. If your job requires the need for two monitors, each monitor can cost up to $400.                                                                                                                                                                                                                                                   |
 | [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)                        | $250                 | $250                | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size.                                                                                                                                                                                                                                                                                |
 | [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)               | $80 or $145          | $145                | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow.                                                                                                                                                                                                                                                                                        |
 | Laptop stand                                                                                          | $90                  | $90                 | 10/10      | Your eyes and head must look at the same angle as you work and so your laptop must be elevated if you are working with an external monitor.                                                                                                                                                                                                                           |
@@ -88,8 +101,8 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 | WiFi Router with guest functionality                                                                  | $80                  | $80                 | 7/10       | If your existing router does not allow for isolating your work notebook from your personal devices in your home network, consider buying a router that does.                                                                                                                                                                                                          |
 | Ethernet connector                                                                                    | $20                  | $20                 | 6/10       | This is if you choose to connect to your internet directly versus by Wi-Fi.                                                                                                                                                                                                                                                                                           |
 | Powerline / WiFi network extender                                                                     | $50 - $100           | $100                | 6/10       | Useful for extending your home network to your workspace                                                                                                                                                                                                                                                                                                              |
-| Laptop bag or backpack                                                                                | $60                  | $60                 | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free.                                                                                                                                                                                  |
-| [Earpods](https://www.apple.com/shop/product/MNHF2AM/A/earpods-with-35-mm-headphone-plug)             | $30                  | $30                 | 7/10       | If you use your headphones at home but would like lighter headphones to use while on the go, these earpods are the way to go.                                                                                                                                                                                                                                         |
+| Laptop bag or backpack                                                                                | $60                  | $60                 | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free.                                                                                                                                                                                  
+                                                                                                                              
 
 If you wish to go over the recommended reimbursement, this is an exception and should first be raised with your manager and if supported, should be raised in the "expense-reporting-inquiries who will review and respond to the request.
 
@@ -103,11 +116,12 @@ Also feel free to check your local [Freecycle group](https://www.freecycle.org/)
 
 GitLab will also reimburse costs relevant to one's location in cases where anniversary gifts or company issued swag incurs additional import costs.
 
-### Not sure what to buy?
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Not sure what to buy?
 
 Look at our [equipment examples page](/handbook/spending-company-money/equipment-examples) to see some of the items that other GitLab team members have purchased, and please consider adding to the list if there's something you'd like to share.
+Please reach out on the `#expense-reporting-inquires` channel if you are unsure what you would like to purchase is reimbursable.
 
-### Reimbursements
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Reimbursements
 
 The company will reimburse for the following expenses if you need it for work or use it mainly for business, and local law allows us to pay for it without incurring taxes:
 1. Mileage is reimbursed according to local law: [US rate per mile](http://www.irs.gov/Tax-Professionals/Standard-Mileage-Rates), [rate per km in the Netherlands](http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/auto_en_vervoer/auto_van_de_onderneming/autokosten/u_rijdt_in_uw_eigen_auto), or [rate in Belgium](https://fedweb.belgium.be/nl/verloning_en_voordelen/vergoedingen/vergoeding-voor-reiskosten). Add a screenshot of a map to the expense in Expensify indicating the mileage.
@@ -128,17 +142,17 @@ The company will reimburse for the following expenses if you need it for work or
 1. English lessons. At GitLab the lingua franca is [US English](/handbook/communication/#american-english), when English is not your native language it can limit you in expressing yourself.
 
 
-### Coworking or external office  space
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Coworking or external office  space
 If working from home is not practical you may submit for reimbursement for the cost of a co-working space. This can include non-traditional spaces that require a recurring (full-time monthly) membership as long as you average at least ~4 working days per month at the space. If flexible membership options exist in the form of daily passes or hourly packages, then these can be expensed as well, as long as the prorated cost per month does not exceed that of a recurring membership subscription. For instance, if both the monthly subscription and a hypothetical 10-day pass is $200 USD, then you can only expense one such pass each month.
 
 Any agreement must be between the team member and the co-working space (i.e. GitLab will not sign or appear on the agreement). All expenses must be submitted through the normal [travel and expense reimbursement policy](/handbook/finance/accounting/#reimbursable-expenses). The Company will not be responsible for the deposit, and therefore will not reimburse for the upfront deposit. This will solely be the responsibility of the employee. In addition, the company will not be responsible for any expense that relates to office space subsequent to the termination of service between GitLab and the team member.
 
 
-### Work-related online courses and professional development certifications
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Work-related online courses and professional development certifications
 
 GitLab team members are allotted [$10,000 USD](https://www1.oanda.com/currency/converter/) per calendar year to spend on one or multiple training courses. Follow the process for submitting a [Growth and Development Reimbursement](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit). Expenses related to reimbursement of tuition will be capped at $1,000 USD within Expensify. Anything over $1,000 USD must go through payroll for reimbursement. Team members must attach a proof of receipt screen shot of the submitted G&D form when submitting a expense report for tuition, while choosing the "Training" category option. Please note any sort of conference attendance should be categorized to "Conference Attendance", and follow the same G&D steps as outlined above with reimbursement in Expensify capped at $1,000 USD.
 
-### Team Manager Flower and Gift Purchases ###
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Team Manager Flower and Gift Purchases ###
 
 Managers are able to send Gifts and Flowers on behalf of their team members in acknowledgment of significant life events such as the birth of a little one; well wishes ahead of surgery, or the loss of a loved one.
 
@@ -146,19 +160,19 @@ The event in question must pertain to a GitLab Team Member or the immediate fami
 
 Managers can facilitate the ordering of Flowers or Gifts for delivery, but please note that you are unable to send restuarant gift cards at this time.  In an instance where you would like to extend the offer of a meal or food delivery service, this will need to be expensed by the recipient for reimbursement.
 
-When expensing Team member gifts please use the tag FY21_EmployeeGiftsFlowers.
+When expensing Team member gifts please use the tag FY22_EmployeeGiftsFlowers.
 
 ### Team building Budget
 
 In FY22, each eGroup member has been allocated $50 per team member per quarter for FY22-Q1 to FY22-Q3 for team building events. There is an additional budget for $100 per team member in FY22-Q4. More to come in the section below as we get closer to FY22-Q4.
 
-### Year-end Holiday Party Budget
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Year-end Holiday Party Budget
 
 In previous years, GitLab has allocated [$100 USD](https://www1.oanda.com/currency/converter/) per GitLab team member for a holiday event in December. We also encouraged GitLab team members to self organize holiday parties with those close by, but due to COVID restrictions in most countries, we have decided to have a more universal approach this year. We will update this policy again ahead of July 2021. 
 
-## Travel and Expense Guidelines
+## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Travel and Expense Guidelines
 
-### Travel
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Travel
 
 1. If you are taller than 1.95m or 6'5", you can upgrade to Economy Plus. There is no dollar restriction on this since it will be hard to fit in economy with that height.
 1. For flights longer than 8 hours, you can expense:
@@ -179,7 +193,7 @@ But we should not make cuts in reaction to the need to reduce spend; that would 
 Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
 Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
 
-### Renting Cars
+### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Renting Cars
 
 #### US and Canada
 
@@ -218,10 +232,10 @@ No problem, and consider adding it to this list if others can benefit as well.
     * Gala/Black Tie Events: Tuxedo or Gown Rental, $150-$225 USD per event.
     * The event must be customer specific and the invitation must state black tie only.
 
-## Expense Reimbursement
+## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Reimbursement
 
 1. Effective 2019-07-01, all expense reports must be submitted to your manager for approval prior to being sent to Montpac, and Accounts Payable for approval and reimbursement.
-1. If you are a team member from Nigeria, please submit your expense in your salary invoice (a template can be found [here](/handbook/finance/#invoice-template-and-where-to-send)) with receipts attached to <payroll@gitlab.com>.  Please note, this is a temporary solution while we are transition over to a PEO.
+1. If you are a team member from Nigeria, please submit your expense in your salary invoice (a template can be found [here](/handbook/finance/#invoice-template-and-where-to-send)) with receipts attached to <nonuspayroll@gitlab.com>.  Please note, this is a temporary solution while we are transition over to a PEO.
 1. If you are a team member and incurred an expense charged in a currency different from the one you use to submit your invoices, use the conversion rates specified in the [global compensation section of the handbook](/handbook/total-rewards/compensation/#exchange-rates). If the expense currency doesn’t exist in that list, refer to the conversion rates in [oanda](https://www.oanda.com/currency/converter/). Make sure to set the expense date in the currency converter form.
 1. GitLab uses Expensify to facilitate the reimbursement of your expenses. As part of onboarding you will receive an invitation by email to join GitLab's account. Please set up your account by following the instructions in the invitation.
 	* If you are a team member in Spain or France, please submit your expenses through Safeguard in-house expense reimbursement management system and also submit them through Expensify.  Accounts Payable will review, approve, and send the approval of your expense reports in Expensify to your gitlab email address.  You will need to forward the approval email to Safeguard enable for them to process your expense reimbursement via payroll.
@@ -232,7 +246,7 @@ No problem, and consider adding it to this list if others can benefit as well.
 	* For Australia, New Zealand, Belgium, Germany, Netherlands, Ireland, and Japan AP will process the approved report on Friday.  The payment will be deposited into your account no later than three business days the following week. 
     Accounts payable uses Tipalti to drive payment to the above policies. As part of onboarding, an invitation to the Tipalti portal will be sent. Please sign up and onboard only banking information, no tax information is needed. If set up of the personal Tipalti account is not completed in a timely manner, this may result in a delay of expense payment.
 
-	* For all team members being pay by Safeguard, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
+	* For all team members being paid by Safeguard, Remote, Global Upside, CXC, iiPay, or Vistra, the approved expense amount will be deposited in your account with your monthly salary.
 
 1. If you are a team member with a company credit card, your company credit card charges will automatically be fed to a new Expensify report each month. Please attach receipts for all expenses (per the Expense Policy, see below) within 1 business days after the end of the month. These amounts will not be reimbursed to you but Expensify provides a platform for documenting your charges correctly.
 
@@ -264,7 +278,7 @@ The list of Global Upside & Remote countries can be found [here](https://about.g
 
 * Expense reports for GitLab Ltd (UK) must be approved by the manager and the Accounts Payable team on or before the 14th of each month in order for the reimbursement to be include in the current month payroll.
 * Expense reports for GitLab Canada Corp must be approved by the manager and the Accounts Payable team before the 1st day of each payroll period.  Please see [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ECkI_Z8R82j1eipJEEybXjO-EDtzw4TuhJPOnHypDho/edit#gid=0) for the payroll cut off date.
-* Expense reports for GitLab BV (Belgium and Netherlands), GmbH (Germany), PTY Ltd (Australia and New Zealand) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
+* Expense reports for GitLab BV (Belgium and Netherlands), GitLab GmbH (Germany), GitLab PTY Ltd (Australia and New Zealand), GitLab GK (Japan), and GitLab LTD (Ireland) are reimbursed via GitLab AP within 10 business days from the approval date by their manager and the Accounts Payable team.
 * Expense reports for GitLab Inc, GitLab Inc Billable, and GitLab Federal reimbursed via Expensify, and AP will final approve the report within 5 business days after the approval from their manager.
 
 ##### Nigeria
@@ -280,7 +294,7 @@ The list of CXC countries can be found [here](https://about.gitlab.com/handbook/
 * Team members must include the approved expense amount on their monthly invoice as well.
 
 
-## Expense Policy
+## <i class="far fa-flag" id="biz-tech-icons"></i> Expense Policy
 
 1. Max Expense Amount - [$5,000 USD](https://www1.oanda.com/currency/converter/)  - NOTE - If you are a corporate credit card holder, please refer to the [corporate credit card policy section](/handbook/finance/accounting/#credit-card-use-policy) for those specific instructions and thresholds.
 1. Itemized receipts are required for all expenses.
@@ -302,7 +316,7 @@ These instructions apply if a team member is unable to purchase required items, 
 1. The approved final amount will be sent to the team member's bank and they can then purchase their approved items.
 1. Receipts should be submitted to ap@gitlab.com after the purchases have been made.
 
-## Approving Expense Reports
+## <i class="far fa-flag" id="biz-tech-icons"></i> Approving Expense Reports
 
 1. All expense reports are approved by the team members direct manager or their designated approver when they are out of the office.
 1. It is expected that the expense report approver will perform a complete review to ensure the reasonableness and accuracy of the submitted expenses.
@@ -321,13 +335,13 @@ These instructions apply if a team member is unable to purchase required items, 
     * All expense question(s) can be addressed via expenses@gitlab.com or in the #Finance and #expense-reporting-inquires
 Slack channel
 
-1.  **Expenses Reports approval deadline**
+1. <i class="fas fa-bullseye" id="biz-tech-icons"></i>  **Expenses Reports approval deadline**
     * Australia, Germany, New Zealand, Netherlands, United States, New Zealand, Ireland, Japan - After approval completion by manager and Accounts Payable.
     * United Kingdom - All expense reports must be approved by the manager and Accounts Payable no later than the 14th of each month.  Team members - please be sure to submit your report(s) a couple days before the due date so your manager and Accounts Payable have enough time for approval.
     * Canada - All expense reports must be approved by manager and Accounts Payable before 1st day of each payroll period.
     * All non-US contractors - All expense reports must be approved by manager and Accounts Payable no later than the 8th of each month. Team members - please be sure to submit your report(s) a couple days before the due date.
 
-## Non-reimbursable Expenses:
+## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses:
 
 Examples of things we do not reimburse:
 1. Costume for the party at the end of Contribute.
@@ -345,6 +359,7 @@ Examples of things we do not reimburse:
 1. Portable Air Conditioners
 1. Home Power Generators 
 1. Air-pods
+1. [Individual subscriptions ex. Krisp , apple music](#individual-subscriptions)
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 
