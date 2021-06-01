@@ -78,6 +78,7 @@ What that knowledge in mind we determine the priority of a ticket, with the foll
 | Priority Level   | Compliance | Impact                       | Occurrence               | Project involved                      |
 | --------------   | ---------- |-----------------             | ---------------          |-----------------------                |
 | p1 (`~pops::p1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
+| p1 (`~pops::p1`) | no         | OKR progression              | n/a                      | n/a                                   |
 | p2 (`~pops::p2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
 | p3 (`~pops::p3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
 | p4 (`~pops::p4`) | no         | Any | daily, weekly                 | n/a                                   |
