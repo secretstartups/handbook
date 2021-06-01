@@ -234,6 +234,21 @@ We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](
 
 If you would like to request access to be a sub-admin, please reach out to our team in the `#learninganddevelopment` Slack channel. 
 
+### Reporting
+
+For People Business Partners that are helping groups track LinkedIn usage for OKR purposes or otherwise, these are steps that can be followed after sub-admin access is provisioned. 
+
+1. Login to LinkedIn Learning
+1. Hover over the `Insights` tab at the top of the page, and then click `Dashboards`
+1. Click on the `Reports` tab
+
+From here, the report you download will depend on exactly what you are looking to track. LinkedIn Learning has many different reports available depending on the data you are looking to analyize. 
+
+A couple of useful reports and their functionality are:
+1. `Learner Management` report can help determine the number of team members in a given division/department with activated licenses (and also provides visibilty into who _does not_ have their license activated)
+1. `Learner Summary` report can help you review which users in a specific group are using LinkedIn Learning, hours spent within the platform, number of logins, etc.
+
+
 ## Groups and Sub-Groups
 
 In LinkedIn Learning we have set up groups and sub-groups. The groups are equal to departments in BambooHR. The sub-groups under each group are equal to divisions within each department in BambooHR. 
