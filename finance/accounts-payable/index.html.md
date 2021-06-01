@@ -70,9 +70,9 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
   - All questions about expenses can be answered on the [Expense page](/handbook/finance/expenses/).
   - Reports are paid out on varying timelines depending on which country you are located in. This is also detailed on the [Expense page](/handbook/finance/expenses/).
 
-## <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is Coming!
+## <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is Here!
 
-We’re excited to announce that GitLab will be launching Coupa in June!
+We’re excited to announce that GitLab has launched Coupa, effective June 1, 2021.
 
 Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV.
 
@@ -96,4 +96,4 @@ Further details on this process can be found at [the Procure to Pay page](handbo
 
 Please review the page on [Spending Company Money](/handbook/spending-company-money/) to ensure that your spend is within GitLab's [Expense policy](/handbook/finance/expenses/).
 
-GitLab employs a external company called Montgomery Pacific - commonly known as Montpac. They help us to audit expenses according to the Expense Policy. You may see that they have commented on or sent a report back to you for clarifications or updates. If your report has been rejected by Montpac or Accounts Payable, and you wish to discuss this, please reach out to your manager to discuss further. They can escalated to the AP team, if required.
+GitLab employs a external company called Montgomery Pacific - commonly known as Montpac. They help us to audit expenses according to the Expense Policy. You may see that they have commented on or sent a report back to you for clarifications or updates. If your report has been rejected by Montpac or Accounts Payable, and you wish to discuss this, please reach out to your manager to discuss further. They can escalate to the AP team, if required.
