@@ -1583,13 +1583,15 @@ If both are present, the video will override the image (it won't display the ima
 - name: "Awesome Feature"
   available_in: [premium, ultimate]
   documentation_link: 'doc-link'
-  video: "https://www.youtube.com/embed/eH-GuoqlweM"
+  video: "https://www.youtube-nocookie.com/embed/eH-GuoqlweM"
   description: |
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, provident.
 ```
 
 Make sure to add the `/embed/` video URL from YouTube. Follow the steps
 described on the [Markdown guide](/handbook/markdown-guide/#display-videos-from-youtube) to find the correct path.
+
+Also note that the domain `https://www.youtube-nocookie.com/` will allow YouTube videos to display in the review app correctly.
 
 Loading HTML videos from the source also work with no further adjustments. For example:
 
