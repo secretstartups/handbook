@@ -399,9 +399,13 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 
 #### Project Expenses
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
 1. Purchase incurred or travel booked
-1. PSE/PM submit expense report through Expensify with PSE Project Tag and COGS as the category
+   * All travel should be booked through Trip Actions   
+1. PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
+   * Include E Group travel approval 
+   * Include receipts
+   * Disregard the billable checkbox 
 1. PS Manager approves expense report in Expensify
 1. PS Manager selects PS Operations as the next approver for the customer expense report
 1. PS Operations then reviews the expense report and sends to Finance approval and processing
@@ -409,6 +413,8 @@ Before making a purchase of any type or booking travel for a customer project, b
 1. PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
 
 The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
+
+If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
 
 #### Quarterly time tracking entry and approval workflow
 
