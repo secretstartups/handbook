@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Vendor Contract Issue Process - Field Marketing and Events
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -18,20 +20,47 @@ title: Vendor Contract Issue Process - Field Marketing and Events
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for one of the US or Netherlands entities?
+> _GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=vendor_contracts_marketing_events) to begin the process.
-1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+If yes, then follow the instructions on the table below:
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Field Marketing and Events Vendor Purchase Request Process
+|   | <$25K | Between $25K - $49K | >$50K |
+| ------ | ------ | ------ | ------ |
+| Field Marketing & Events<br>**New Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=vendor_contracts_marketing_events) |
+| Field Marketing & Events<br>**Existing Vendor** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=vendor_contracts_marketing_events) |
+
+<div class="panel panel-info">
+**Unsure if your vendor is new or existing?**
+{: .panel-heading}
+<div class="panel-body">
+
+- Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+
+</div>
+</div>
+
+
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
+
+- Check the [How to Create a Requisition in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) page for a detailed walkthrough guide.
+
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
+
+> _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
+
+As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Field Marketing and Events Vendor Purchase Request issue process_](handbook/finance/procurement/vendor-contract-marketing/#-deep-dive-on-the-field-marketing-and-events-vendor-purchase-request-process) section for a detailed walkthrough guide.
+
+
+## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Field Marketing and Events Vendor Purchase Request issue process
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
 
 **If your vendor engagement includes the sharing, exchange, processing, or storage of data that is NOT public, do NOT use this template. Instead use the General & Professional Services template.**
 
 Complete Steps 1-2, the Intake Steps, with as much specificity and detail as possible. Consider that many of the approvers are just now learning about this purchase for the first time and have no context beyond what you share here. This is your chance to provide all information as clearly as possible to expedite approvals as quickly as possible!
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 1 | Business Needs Intake
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 1 | Business Needs Intake
 Completion of all fields is necessary for approvals. 
 Any missing or incomplete fields will result in a delay to the review and/or approval of your request.
 
@@ -66,7 +95,7 @@ Attach the UNSIGNED vendor contract here: Vendor Contract**
 **Is this an in-person event?**
    * In-Person events require additional review.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 2 | Details
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 2 | Details
 Completion of all fields is necessary for approvals. Any missing or incomplete fields will results in a delay to the review and/or approval of your request.
 
 **Total cost in the currency the invoice is to be paid in**
@@ -109,14 +138,14 @@ Completion of all fields is necessary for approvals. Any missing or incomplete f
       * For questions on vendor selection process see [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/)
 
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Approvals
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Approvals
 Tag your functional leader(s) according to the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix).
    * Reference the Operating Expenses and Vendor Contracts table.
 For Field Marketing contracts, choose one of the approval options and delete the remaining options that do not apply:
 
 If you are in Field Marketing, please add the below Field Marketing Approval Matrix. Select the appropriate approvals based on your contract threshold and copy and paste into the approval section of the procurement template.
 
-## Field Marketing Approval Matrix
+### Field Marketing Approval Matrix
 Contracts between $0 & $9,999 USD require approval checkoff from:
 
 - [ ] `@ mention DRI`
@@ -194,7 +223,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
 1. Legal is responsible for reviewing vendor contracts and will adhere to the legal playbook.
 1. A contract cannot be signed until it has been **stamped** with approval by the legal team. Once the legal team approves the contract, legal will upload the contract with the approval stamp. 
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
 1. Do not send the contract to the authorized signatory until all approvals are received. Doing so can put GitLab in a direct financial and/or legal risk which could need to be escalated.
 1. Once all approvals in the issue are received, send the contract to the authorized signatory:
      - Upload the contract with the legal stamp to HelloSign
@@ -205,11 +234,11 @@ Here is a deep dive summary on what each function is reviewing for approval:
 
 - Note: If your vendor has a signature tool they would like to use and all approvals have been received in the contract issue, request that the vendor send the final contract version with the legal stamp for signature and also include the issue link. This will avoid delays in signature.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 6 | Upload Contract
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 6 | Upload Contract
  1. After the contract is signed by both parties, upload the fully executed contract to ContractWorks. You will need to upload the fully signed pdf into the folder labeled **01. To Be Standardized**, which in under the parent folder **01. Uncategorized**. Legal will then organize the contracts using their [instructions and best practices](/handbook/legal/vendor-contract-filing-process)
       - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single+Person+Access+Request) or tag procurement at @gitlab-com/Finance-Division/procurement-team in the issue and we will upload the contract on your behalf.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (Optional)
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Create Professional Services Access Request (Optional)
    * Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. 
    * If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
@@ -218,10 +247,16 @@ Here is a deep dive summary on what each function is reviewing for approval:
 
    * If the professional services provider wants support through the set up of the most common tools used at GitLab, create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue). Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 8 | Accounts Payable
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 8 | Accounts Payable
 1. Vendors will be required to create an account within Tipalti in order to receive payment
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
 If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
 
+## How do I request approval for a purchase?
+
+After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+> Create the requisition **BEFORE** agreeing to business terms and/or pricing.
+
+{::options parse_block_html="false" /}
