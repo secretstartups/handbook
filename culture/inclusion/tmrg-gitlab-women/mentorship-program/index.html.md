@@ -84,6 +84,13 @@ As a mentor, you benefit from:
 - You are not on a [Formal Coaching plan](/handbook/leadership/underperformance/#options-for-remediation) or PIP (Performance Improvement Plan)
 - You can complete the [DIB training certification](https://gitlab.edcast.com/journey/ECL-5c978980-c9f0-4479-bf44-45d44fc56d05) before the program begins
 
+#### Considerations
+
+Applications will be prioritized on many points including:
+
+- Skill and prior experience as a mentor
+- Performance in current role
+- Available and appropriate mentee match in the current session
 
 #### Apply to be a Mentor
 
@@ -92,13 +99,6 @@ Please complete [this Mentor Application Google form](https://docs.google.com/fo
 Please note that applying for a mentor does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above.
 
 If you've participated in a previous GitLab mentor program, you are welcome to apply again!
-
-#### Considerations
-
-Applications will be prioritized on many points including:
-
-- Skill and prior experience as a mentor
-- Performance in current role
 
 ### Being a Mentee
 
