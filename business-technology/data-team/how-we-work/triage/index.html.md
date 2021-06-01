@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Data Team Triage"
-description: "GitLab Data Team Triage"
+title: "Data Triage Guide"
+description: "GitLab Data Triage Guide"
 ---
 
 ## On this page
