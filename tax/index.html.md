@@ -68,7 +68,7 @@ Maintenance of Corporate Structure covers the following procedure
 1. Director of Tax submits issue in gitlab.com to start contract approval process;
 1. Director of Tax starts and manages project.
 
-GitLab's corporate structure per October 2020 is as follows (countries and incorporation dates included):
+GitLab's corporate structure per June 2021 is as follows (countries and incorporation dates included):
 
 ```
 GitLab Inc (USA 2014-09-10)
