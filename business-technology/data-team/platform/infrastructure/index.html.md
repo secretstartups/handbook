@@ -197,7 +197,7 @@ $6 as variant,
 $7 as created_at,
 $8 as updated_at,
 $9 as converted_at,
-$10 as context, '1621841251.8090081' as _updated_at
+$10 as context, '1621841251.8090081' as _uploaded_at
 FROM `@stage`/experiment_subjects.csv ;
 ```
 The stage is the Postgres pipeline stage.
