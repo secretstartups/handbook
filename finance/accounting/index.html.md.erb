@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Accounting and Reporting"
 ---
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -211,41 +213,63 @@ The time from when a deal is closed won in Salesforce to when the invoice is gen
 
 ## Procure to Pay
 
-Procure to pay is the process of requisitioning, purchasing, receiving, paying for and accounting for goods and services. It includes the following sub processes
+Procure to pay is the process of requisitioning, purchasing, receiving, paying for and accounting for goods and services. It includes the following sub processes of both the [Procurement](handbook/finance/procurement/) and [Accounts Payable](handbook/finance/accounts-payable/) departments:
 
 ### Vendor Master Management
 
-1. New vendors are identified by an approved finance issue.  If the vendor is not already set up in NetSuite it is considered a new vendor.  New vendors will be added into Tipalti by AP. (Tipalti is an AP Payment Processing System that feeds data into NetSuite). This will generate an onboarding email request to the vendor.  
-1. Once a vendor receives the onboarding request, they will need to onboard themselves into the portal and have to include their banking details and tax information which will all be stored in the secure portal.
-1.  Once a vendor onboards themselves in Tipalti the vendor record will auto feed into NetSuite and the vendor is created.  Only after a vendor has onboarded themselves into Tipalti will they be ready to have invoices processed against their vendor record.
+- If the vendor is not already set up in NetSuite it is considered a new vendor.
+- According to the new vendor's Legal Entity, they will be either onboarded into Tipalti or Coupa.
+
+#### New Vendor Onboarding - Tipalti
+
+Tipalti is an Accounts Payable Invoice and Payment Processing System that feeds data into NetSuite.
+
+**How vendors are added into Tipalti:**
+1. New vendors will be added to Tipalti by the Accounts Payable team. This will generate an onboarding email request to the vendor.
+1. Once a vendor receives the onboarding request, they will need to onboard themselves into the portal. They have to include their banking details and tax information which will all be stored in the secure portal.
+1.  Once a vendor onboards themselves in Tipalti, the vendor record will auto feed into NetSuite and the vendor is created.  Only after a vendor has onboarded themselves into Tipalti will they be ready to have invoices processed against their vendor record.
 1.  The vendor will receive auto generated instructions via email on how to submit their invoices to GitLab upon onboarding.  They can submit their invoices directly to the Tipalti portal or send them to *gitlab@supplierinvoices.com*.
-1.  If a vendor has any questions and/or ap inquiries please email them to *ap@gitlab.com*
+1.  If a vendor has any questions and/or AP inquiries please email them to *ap@gitlab.com*.
 
-### <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is coming!
+#### New Vendor Onboarding - Coupa
 
-We’re excited to announce that GitLab will be launching Coupa in June!
+Coupa is a procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV.
 
-Coupa is a procure-to-pay system that will help us streamline the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV. 
+> You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
 
-You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
+**How vendors are added into Coupa:**
+1. Any Coupa user can request a new supplier using the New Supplier Request form.
+   - Check [How to Request a New Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) for a detailed guide.
+1. Once the New Supplier Request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
+   - Supplier must complete the form and submit it back.
+1. After supplier submission, the external form will be routed to Accounts Payable Approval Group for review and approval.
+1. After approval, the Supplier details will be integrated to NetSuite. Once the supplier is successfully created in NetSuite, it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available when creating Purchase Requests and Invoices.
 
-If you are a GitLab recurring vendor and did not get an onboarding email from Coupa please reach out to ap@gitlab.com.
+
+If you are a GitLab recurring vendor and did not get an onboarding email from Coupa please reach out to *ap@gitlab.com*.
+{: .alert .alert-info}
 
 ### Invoice Accounting
 
-Invoices will arrive by email to gitlab@supplierinvoices.com or directly uploaded into the Tipalti Portal by the vendor.
+#### Invoicing in Tipalti
 
-1. The invoice is auto scanned into Tipalti (Tipalti is an AP Payment Processing System that feeds data into NetSuite)
-1. AP locates the finance issue which corresponds with the invoice received to identify the invoice approver and the GL coding.  If the invoice does not have a finance issue the AP team verifies that it is a recurring vendor and seeks approval from the prior invoice approver and ensures the approver is in line with the authorization matrix.  If AP receives an invoice and it is not a recurring vendor and/or there is no approved finance issue, AP will not record the invoice in NetSuite.  AP will then locate the team member requesting the service and will ask them to reference an approved finance issue before the invoice could be recorded.  AP will reference the finance issue in the header of the invoice when processing in Tipalti.
-1. AP routes the invoice to the appropriate GitLab team-member(s) via the Tipalit portal to obtain approval.
-1. The bill approver(s) are responsible to ensure that services/items were rendered/received as expected and billed accordingly.  They also need review the account, department and class to ensure bill is coded in line with the expected budget.
-1. Once the requestor approves the invoice via Tipalti AP will be notified and Tipalti will automatically update the status of the invoice to approved and will record the transaction into NetSuite.
+Invoices will arrive by email to gitlab@supplierinvoices.com or directly uploaded into the Tipalti portal by the vendor.
+
+1. The invoice is auto scanned into Tipalti (Tipalti is an AP Invoice and Payment Processing System that feeds data into NetSuite).
+1. AP locates the finance or procurement issue which corresponds with the invoice received to identify the invoice approver and the GL coding. All approvals must be complete in the issue in order for AP to process the invoice. 
+   If the invoice does not have a finance or procurement issue the AP team verifies that it is a recurring vendor and seeks approval from the prior invoice approver and ensures the approver is in line with the authorization matrix.  
+   If AP receives an invoice and it is not a recurring vendor and/or there is no approved finance or procurement issue, AP will not record the invoice in NetSuite.  AP will then locate the team member requesting the service and will ask them to reference an approved finance issue before the invoice could be recorded.  
+   AP will reference the finance or procurement issue in the header of the invoice when processing in Tipalti.
+1. AP routes the invoice to the appropriate GitLab team-member(s) via the Tipalti portal to obtain approval.
+1. The bill approver(s) are responsible to ensure that services/items were rendered/received as expected and billed accordingly.  They also need review the GL account, department and class to ensure bill is coded in line with the expected budget, and matching the approved issue.
+1. Once the requestor approves the invoice via Tipalti, Tipalti will automatically update the status of the invoice to approved and will record the transaction into NetSuite.
 1. Tipalti will send auto notifications to the business partners if they do not approve an invoice timely.  If an approver rejects the invoice AP will be notified and will act accordingly.
+   If you have rejected or disputed an invoice, please include clear instructions to the vendor and the AP on what actions are required. 
 
 **Entering a Bill (invoice) in NetSuite**
-Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices should be getting processed through Tipalti and will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner.
+Please note the below steps reference how to manually enter bills into NetSuite.  Effective 2019-11-01 all AP invoices should be getting processed through Tipalti and Effective 2021-06-01 we will begin to process in Coupa as well. These 2 systems will automatically record the transaction into NetSuite after the invoice has been approved by the corresponding business partner in the respective system.
 
-1. On the home page, click the “+” icon near the global search bar at the top of the screen and select “Bill."
+1. On the NetSuite home page, click the “+” icon near the global search bar at the top of the screen and select “Bill."
 1. Select the appropriate vendor record. If adding a new vendor, follow the bullets below before proceeding, otherwise skip to step 3.
     * Enter the company name, email address, applicable subsidiary, physical address, payment terms, primary currency, and Tax ID. (Note that the address field is located under the "Address" tab, while the Tax ID, primary currency, and payment terms fields are located under the "Financial" tab)
     * Enter the banking information in the "Comments" field then click “Save.”
@@ -263,9 +287,46 @@ Please note the below steps reference how to manually enter bills into NetSuite.
 1. Click "Save.”
 1. In Google Drive, file invoice in the “Unpaid” folder.
 
+#### Invoicing in Coupa
+
+Coupa is a Procurement and Invoicing Tool. Similarly to purchase requests for goods/services that must be initiated in Coupa, invoices are also created and approved in Coupa.
+
+For all issues created before Coupa go-live (June 1st 2021), the business will not be setting up Purchase Orders for those and the Accounts Payable team will manually enter the related invoices as Non PO-backed.
+{: .alert .alert-warning}
+
+Invoices in Coupa can be created via 4 different channels:
+- **Coupa Supplier Portal (CSP)**
+   - Free, Web-based portal specifically for suppliers.
+   - Suppliers receive POs within CSP Coupa inbox and perform PO Flips to Invoices and is able to see a complete history of all their POs/invoices.
+   - Once CSP invoices are submitted by the supplier, Coupa triggers the approval workflows.
+- **Supplier Actionable Notification (SAN)**
+   - Suppliers act directly (flip PO to invoice) from Coupa PO SAN email.
+   - No need to register for/sign into Coupa/CSP, free service available any suppliers (with email). 
+- **cXML**
+   - For “high-touch” suppliers (e.g. Amazon, CDW) with cXML invoicing capability to receive POs and transmit invoices directly.
+   - Works well in conjunction with punchouts.
+- **Manual Entry in Coupa UI**
+   - “Flip PO” option copies data from Coupa PO to pre-populate invoice fields for faster entry.
+   - Non PO backed invoice manual entry.
+
+For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). The Accounts Payable team will evaluate on an invoice by invoice basis which goes into Coupa and which will go into Tipalti. If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others. If you are a GitLab vendor who invoices for multiple entitites and you have any questions, please reach out to *ap@gitlab.com*.
+{: .alert .alert-warning}
+
+#### Disputing an Invoice in Coupa
+
+The invoice dispute process in Coupa enables the Accounts Payable team to request corrections on invoices from suppliers.
+
+Invoices in "AP Hold", "Pending Action", "Pending Receipt", "On Hold", "Pending Approval" or "Rejected" statuses can be Disputed to the supplier for corrections. Disputing an invoice requires a dispute reason and sends an email notification to the supplier contract on record and any additional listed recipients.<br> 
+Once disputed, an invoice can be Withdrawn from Dispute by Accounts Payable or Voided; or Resolved by the supplier.
+{: .alert .alert-warning}
+
+#### Rejecting an Invoice in Coupa
+
+The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before routing them to internal approval once again.
+
 ###  Payment Process
 
-**Processing payment for invoices**
+#### Processing payment for invoices in Tipalti
 
 1. On a weekly basis, AP will generate a batch in Tipalti of invoices due to be paid.
 1. AP will submit the batch to the payment approvers through the Tipalti portal.
@@ -273,48 +334,84 @@ Please note the below steps reference how to manually enter bills into NetSuite.
 1. Management will communicate to AP via email to ap@gitlab.com when rejecting payments in the batches.  This will ensure AP is aware that payment is still pending and follow up is required.
 1. Once payments are approved the vendors will be paid and Tipalti will automatically record the payment in NetSuite and change the status of the invoice to paid.
 
-Please note: Invoices will be paid upon vendor payment terms.  Any invoice approved and sent to AP by EOD Tuesday can be paid the same week on Friday and/or based on the vendor payment terms if the terms are NOT due UPON Receipt.  Any invoice approved and sent to AP from Wednesday to Friday of that week will be paid the following Friday and/or based on the vendor payment terms, whichever comes first.
+**Please note:** Invoices will be paid upon vendor payment terms. Any invoice approved and sent to AP by EOD Tuesday can be paid the following week on Monday and/or based on the vendor payment terms if the terms are NOT due UPON Receipt. Any invoice approved and sent to AP from Wednesday to Friday of that week will be paid the following Monday and/or based on the vendor payment terms, whichever comes first.
+{: .alert .alert-warning}
 
 **Billable Expenses**
 If you have an expense report that can be billed back to a customer please make sure to check the "billable" flag in Expensify along with tagging the customer name under the "customer" field in Expensify.
 
-### Employee reimbursements - Expensify
+#### Processing payment for invoices in Coupa
+
+Supplier Payment Accounts (SPAs) are required in order to pay suppliers from Coupa Pay.
+
+There are four different ways that suppliers will be able to provide their payment information:
+- **Smart Onboarding Form**: Native Coupa capability within the Coupa Supplier Portal that will allow supplier to capture their banking information.
+- **SIM (Supplier Information Management) Form**: Whenever GitLab onboards a new supplier, as part of the External Form, there is a section to capture the vendor's remit to information, along with their bank account information. _(This is where the majority of GitLab suppliers will be providing their banking information)_.
+- **Coupa Supplier Portal (CSP) Legal Entity Section**: Mostly used if a supplier is changing their bank account information or needs to make any updates. The vendor is able to manage that directly within their Coupa Supplier Portal profile and either add a new legal entity (which will be associated with a new bank account) or adjust an existing one.
+- **Invoicing Section**: If for some reason, a supplier is submitting their first invoice and they have not provided their banking information before they are creating their first invoice, that will create a new supplier payment account in Coupa.
+
+If you are a GitLab vendor and you want to know more about how to update your CSP profile, check the [Create or Update Your Profiles](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Get_Started_with_the_CSP/Create_or_Update_Your_Profiles) documentation.
+{: .alert .alert-warning}
+
+After the supplier submits their supplier payment account information, it will come into Coupa automatically and create a supplier payment account record.
+
+If the supplier is going through the SIM process, then the approval for that supplier payment account will occur directly on the SIM External Form, and AP won't have to go into the supplier payment accounts object and approve it.
+{: .alert .alert-info}
+
+#### Creating a Batch in Coupa
+
+- Only Invoices in the “Ready to Pay” status can be utilized to create a batch.
+- Invoices can be removed from payment by Coupa Pay using the slider button under "Actions" _(in case a supplier is selected for Coupa pay but need to be paid out of NetSuite, switch their payment method to ERP)_.
+- The “Pay from Account” (Company Payment Account or CPA) will be automatically defaulted based on the Chart Of Accounts. The CPA can be adjusted manually by selecting the dropdown. 
+   - The “Pay to Account” (Supplier Payment Account or SPA) will be defaulted based on the Remit-To entered on the invoice.
+
+#### Approving a Batch in Coupa
+
+- Approval chains are generated before a payment batch can be released. 
+
+**Segregation of Duties:** The creator of the Batch cannot be the releasor of the same batch regardless of the permissions they have.
+{: .alert .alert-info}
+
+
+### Team Member Reimbursements - Expensify
+
+Please refer to GitLab's [Expense Policy](/handbook/finance/expenses/) for further details.
 
 **Processing Expensify Reports**
 
-1. Expensify will auto sync and record expense reports into NetSuite once the report is "final approved".  "Final approved" means it has been approved by the employee's manager and completed an audit review by a finance team member.
-1. Accounting will do a daily check to ensure all reports which are "final approved" are successfully synced.  If any errors arise, AP will work out the errors until the report syncs into NetSuite.
+1. Expensify will auto sync and record expense reports into NetSuite once the report is "final approved".  "Final approved" means it has been approved by the team member's manager and completed an audit review by a accounts payable analyst or our external contractor, Montgomery Pacific (Montpac).
+1. Accounts payable will do a daily check to ensure all reports which are "final approved" are successfully synced.  If any errors arise, AP will work out the errors until the report syncs into NetSuite.
 
 **Paying Expensify Reports**
 
-1. Employees in a US policy will be automatically reimbursed through Expensify after their report is "final approved" within 1-4 business days.  Once an employee is reimbursed, Expensify will auto sync the payment to the record to close the report as paid.
-1. All other employees who are not paid directly through Expensify, payroll and/or a 3rd party vendor will be paid directly through GitLab's AP department with the normal weekly Friday AP payment run as long as their report was "final approved" no later than EOD Tuesday of that same week.  Any report "final approved" on Wednesday to Friday of that week will be reimbursed the following Friday.  Once an employee is reimbursed, AP will create the payment in NetSuite against the record to close the report as paid. These reports will be paid through Tipalti (an AP payment processing tool)
+1. Team members in a US expense policy will be automatically reimbursed through Expensify after their report is "final approved" within 1-4 business days.  Once an team member is reimbursed, Expensify will auto sync the payment to the record to close the report as paid. This will feed into NetSuite to show paid as well. 
+1. All other team members who are not paid directly through Expensify, payroll and/or a 3rd party vendor will be paid directly through GitLab's Accounts Payable (AP) department with the normal weekly payment run as long as their report was "final approved" no later than EOD Tuesday of that same week.  Any report "final approved" on Wednesday to Friday of that week will be reimbursed the following week.  Once an employee is reimbursed, AP will create the payment in NetSuite against the record to close the report as paid. These reports will be paid through Tipalti (an AP payment processing tool).
 
-Tipalti Paid Reports paid through GitLab's AP Department:
-1. AP will send the employee an auto generated email from Tipalti with instructions on how to onboard.  Only after an employee onboards themselves in Tipalti will payments be issued. (A one-time onboarding request will be sent to active employee's on 2019-10-28 to allow them time to onboard themselves in the portal).  Any employee's after 2019-11-01 will be sent onboarding requests upon hire and/or upon first submission of an expense report.
+Tipalti Paid Reports paid through GitLab's Accounts Payable Department:
+1. AP will send the team member an auto generated email from Tipalti with instructions on how to onboard.  Only after a team member onboards themselves in Tipalti will payments be issued. Any team memebers hired after 2019-11-01 will be sent onboarding requests upon hire and/or upon first submission of an expense report.
 
-Please Note:  The timing of reimbursement can vary if you are being reimbursed directly from payroll, CXC, SafeGuard and/or iiPay
+Please Note:  The timing of reimbursement can vary if you are being reimbursed directly from payroll, CXC, SafeGuard, Global PEO, Remote and/or iiPay
 
 **Expense Specialist Job Family Performance Indicators**
 
 1. Average days to action <= 3 business days
 
-    Number of days from when an employee's manager approves report to when expense specialist does final approval for payment or responds to employee in Expensify if there is a concern. (Approval for payment is not the reimbursement date.) This is calculated on a calendar month basis. The target for this is currently three business days.
+    Number of days from when an team member's manager approves report to when AP analyst does final approval for payment or responds to team member in Expensify if there is a concern. (Approval for payment is not the reimbursement date.) This is calculated on a calendar month basis. The target for this is currently three business days.
 
-2. Time to get a new employee set up in Expensify < 3 business days
+2. Time to get a new team member set up in Expensify < 3 business days
 
-    Have new employee set up in Expensify within 3 business days from employee start date.
+    Have new team member set up in Expensify within 3 business days from team member start date.
 
 
 **Travel and Expense Guidelines**
 
 **Spend reduction**
 
-When reducing spend, we'll not take the easy route of (temporarily) reducing discretionary spending.
+When reducing spend, we will not take the easy route of (temporarily) reducing discretionary spending.
 Discretionary spending includes expenses like travel, conferences, gifts, bonuses, merit pay increases and summits.
 By reducing in these areas we put ourselves at risk of [increasing voluntary turnover among the people we need most](https://steveblank.com/2009/12/21/the-elves-leave-middle-earth-–-soda’s-are-no-longer-free/).
 Discretionary spending is always subject to questioning, we are frugal and all spending needs to contribute to our goals.
-But we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
+But, we should not make cuts in reaction to the need to reduce spend; that would create a mediocre company with mediocre team members.
 Instead, we should do the hard work of identifying positions and costs that are not contributing to our goals.
 Even if this causes a bit more disruption in the short term, it will help us ensure we stay a great place to work for the people who are here.
 
@@ -322,18 +419,19 @@ Even if this causes a bit more disruption in the short term, it will help us ens
 
 In order to purchase goods and services on behalf of the company, you should first [consult the Signature Authorization Matrix](/handbook/finance/authorization-matrix/) to determine the approval requirements. Note that this **does not** include travel expenses and other incidentals. These expenses should be self-funded then submitted for reimbursement within Expensify, or in the case of independent contractors, included in invoices to the company (per the guidelines above).
 
-If approval is not required, then proceed and send the invoice to Accounts Payable (ap@gitlab.com). If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we don't make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
+If approval is not required, then proceed and send the invoice to Accounts Payable: *ap@gitlab.com*. If approval is required, create a confidential issue in the [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance) and tag the required functional and financial approvers. Most importantly, the team member making the purchase request is ultimately responsible for final review and approval of the invoices. Final review and approval are critical process controls that help ensure we do not make erroneous payments to vendors. All original invoices and payment receipts must be sent to Accounts Payable.
 
 **Creation of Expense Tags**
 
+If you would like to track spend for a particular campaign, project and/or event you can do that through expense tag also known as classes in NetSuite.  If you would like to request an expense tag to be set up please send your request to *ap@gitlab.com* and they can work with the General Ledger team to have it set up for you. You can also put a message in the #finance chat channel in Slack.
+
 **In NetSuite:**
-If you would like to track spend for a particular campaign, project and/or event you can do that through expense tag also known as classes in NetSuite.  If you would like to request an expense tag to be set up please send your request to ap@gitlab.com and they can set it up for you.
 1. In NetSuite go to Setup-Company-Classes-New
 1. Add the name of the expense tag under Name
 1. Under subsidiaries highlight GitLab Inc and check the box that states "Include in Children"
 1. Save
 
-Expensify will auto-sync any new "expense tags" on a daily basis but if the Expensify admin wants to manually sync they can by following these steps:
+Expensify will auto-sync any new "expense tags" on a daily basis, but if the Expensify admin wants to manually sync they can by following these steps:
 
 **In Expensify:**
 1. Go to the Admin page and click on the *Policies* tab.
