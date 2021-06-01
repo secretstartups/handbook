@@ -1,7 +1,9 @@
 ---
 layout: handbook-page-toc
-title: Vendor Contract Issue Process
+title: Vendor Contract Issue Process - Software
 ---
+
+{::options parse_block_html="true" /}
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
@@ -18,13 +20,43 @@ title: Vendor Contract Issue Process
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
-## <i class="fas fa-check-circle" id="biz-tech-icons"></i> How do I request approval for a Software Purchase?
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for one of the US or Netherlands entities?
+> _GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_
 
-1. Open a Vendor Contract Request issue with [this template](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) to begin the process.
-1. Create this issue **BEFORE** agreeing to business terms and/or pricing.
-1. We will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+If yes, then follow the instructions on the table below:
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request Process
+|   | <$25K | Between $25K - $49K | >$50K |
+| ------ | ------ | ------ | ------ |
+| **New Software** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
+| **Software Renewal** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
+| **Add on Software** | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) | - Create a [Procurement Intake Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request) |
+| Subscriptions<br>**New Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+| Subscriptions<br>**Existing Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
+
+<div class="panel panel-info">
+**Unsure if your vendor is new or existing?**
+{: .panel-heading}
+<div class="panel-body">
+
+- Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+
+</div>
+</div>
+
+### <i class="far fa-question-circle" id="biz-tech-icons"></i> Learn how to create a Coupa Requisition
+
+- Check the [How to Create a Requisition in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) page for a detailed walkthrough guide.
+
+
+## <i class="fas fa-check-circle" id="biz-tech-icons"></i> Is your request for any other GitLab entity?
+
+> _GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD_
+
+As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other GitLab entities will continue to use the existing procurement issues. Check the [_Deep Dive on the Software Vendor Purchase Request issue_](/handbook/finance/procurement/vendor-contract-saas/#-deep-dive-on-the-software-vendor-purchase-request-process) section for a detailed walkthrough guide.
+
+
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Deep Dive on the Software Vendor Purchase Request issue
 Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/finance/procurement/prior-to-contacting-procurement/) page first.
 
    * **NEW VENDOR:** Once you've narrowed your vendor selection process to your final one or two vendors, open the [Software Vendor Contract Request Issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=software_vendor_contract_request). Let your vendor(s) know they will need to follow the procurement process to finalize the necessary decision making and approval processes. If your contract requires a negotiation, allow for 2-6 weeks to complete all steps in the process which includes internal review, cost analysis, negotiation alignement, negotiation, and contract review and approval. Note this is a rough guideline and not an exact SLA, exact timing depends on the completeness and clarity of business needs. Note the procurement team cannot begin negotiations without all necessary information. If you have specific deadlines please identify those in the due date of the issue and/or in the comment field.
@@ -35,7 +67,7 @@ Review the [Prior to Contacting Procurement](https://about.gitlab.com/handbook/f
 
 Complete Steps 1-2, the Intake Steps, with as much specificity and detail as possible. Most of the approvers are hearing about this purchase for the very first time and have no context beyond what you include here. This is your chance to provide all information as clearly as possible to expedite approvals as quickly as possible.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 1 | Business Needs Intake
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 1 | Business Needs Intake
 This section articulates how the purchase is aligned with the current business needs. Completion of all fields is necessary for approvals. 
 Any missing or incomplete fields will result in a delay to the review and/or approval of your request.
 
@@ -65,7 +97,7 @@ Any missing or incomplete fields will result in a delay to the review and/or app
       * Enabled capability/services (i.e. Tool allows us to be compliant with new laws and we can now respond to 5% more RFP's)
       * Essential need (i.e. Note essential is reserved for core business items such as audit, email, laptops. It is not essential to a specific function or a specific OKR or PI, but essential to the company being able to function as a company.)
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 2 | Vendor Needs Intake
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 2 | Vendor Needs Intake
 This section articulates the information regarding the vendor and the current contract and pricing (if any) that is being proposed. Completion of all fields is necessary for approvals. Any missing or incomplete fields will results in a delay to the review and/or approval of your request.
 
 **Vendor Name, URL, and Specific Application Name**
@@ -116,7 +148,7 @@ This section articulates the information regarding the vendor and the current co
 **Marketing Campaign Finance Tag**
    * If, and only if, this is a marketing request related to a campaign, please add the tag directly from the finance budget doc here to avoid delays in budgeting and payments.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
 
 Review our [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) and submit a request accordingly. 
 
@@ -134,7 +166,7 @@ To expedite the risk assessment process, complete the identified check boxes as 
    * Most often, an NDA is not needed from an existing vendor to share security certifications since confidentiality terms are a part of the existing agreements in place. If, however, your vendor has a specific concern and would like an NDA in place, we can accomodate.
    * Send our [Mutual NDA template](https://docs.google.com/document/d/1hRAMBYrYcd9yG8FOItsfN0XYgdp32ajt/edit) to your contact, requesting they sign and return back to you in order to expedite the security review process.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 4 | Approvals
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 4 | Approvals
 Tag your functional leader according to the [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) in the first section of the table.
 
 Tag your finance business partner under Budget Approval.
@@ -195,7 +227,7 @@ Here is a deep dive summary on what each function is reviewing for approval:
 1. Legal is responsible for reviewing vendor contracts and will adhere to the legal playbook.
 1. A contract cannot be signed until it has been **stamped** with approval by the legal team. Once the legal team approves the contract, legal will upload the contract with the approval stamp. 
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
 1. Do not send the contract to the authorized signatory until all approvals are received. Doing so can put GitLab in a direct financial and/or legal risk which could need to be escalated.
 1. Once all approvals in the issue are received, send the contract to the authorized signatory:
      - Upload the contract with the legal stamp to HelloSign
@@ -208,16 +240,23 @@ Here is a deep dive summary on what each function is reviewing for approval:
 
 - Note: If your vendor has a signature tool they would like to use and all approvals have been received in the contract issue, request that the vendor send the final contract version with the legal stamp for signature and also include the issue link. This will avoid delays in signature.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 6 | Vendor Payment and Final Contract
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 6 | Vendor Payment and Final Contract
 Similar to our Access Request process for team members, we have an access request process for consultants or professional services providers. If the vendor requires access to systems to complete work, the vendor manager (ie. the GitLab team member who will manage the relationship with the temporary service provider, generally a people manager) is responsible for creation of a Vendor Access Request and Orientation issue. 
 
 These issues aren't created in the same location as access requests for employees so find the link below so use this [access request template](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=access-request) and assign it to yourself and the relevant provisioner(s) for the tools that the professional services provider requires access to. In the AR, include [**only systems that are necessary**](/handbook/engineering/security/access-management-policy.html#access-management) to the work that the vendor will be performing. 
 
 Create an [orientation issue](https://gitlab.com/gitlab-com/contingent-workers/lifecycle/-/issues/new?issuable_template=orientation-issue) if the professional services provider wants support through the set up of the most common tools used at GitLab. Assign to yourself and the professional services provider if they have a GitLab account with the required access.
 
-## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Accounts Payable
+### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 7 | Accounts Payable
 1. Vendors will be required to create an account within Tipalti in order to receive payment
 1. For complete details on how to obtain payment, please visit Accounting's [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page.
 1. If your annual contract value is equal to or greater than $100K, a Purchase Order must be created to pay the vendor. See Creating a Purchase Order for steps to do so.
 
 If you have additional questions, please ask in #procurement slack channel. Or attend Purchasing Office Hours, available in the GitLab Team Calendar.
+
+### How do I request approval for a Software Purchase?
+
+After the Vendor Contract Request issue is opened or the requisition is created in Coupa, Procurement will negotiate the best pricing up front to keep our ongoing costs to a minimum across our long-term realtionships with vendors. We also continue to evaluate supplier pricing at the time of renewal to minimize our ongoing costs across our long-term relationships with vendors.
+> Create the request **BEFORE** agreeing to business terms and/or pricing.
+
+{::options parse_block_html="false" /}
