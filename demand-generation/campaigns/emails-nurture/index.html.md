@@ -292,6 +292,18 @@ Until our foundational Marketo database segmentations (noted in the overview at 
 ### Steps to set up and edit emails
 {: #setting-up-emails}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+For one-time emails (i.e. a blast to promote a program for which we do not receive leads):
+1. DEPENDENCY: target list issue must be complete before email can be sent (15 business day SLA to create target list)
+2. Clone [this Marketo email send template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/EBP7320A1)
+    - Clone to: `A campaign folder`
+    - Folder: `Ad-hoc (one time) emails`
+    - Name: follow format of `YYYYMMDD_NameOfEmail` where YYYYMMDD is date of send (i.e. 20210603_DORAsurvey)
+    - Description: Link to GitLab email issue
+3. Update email in the send program
+4. Update utm_campaign in Marketo **My Tokens** for email send
+
+**How-to videos:**
 * [Video on how to create an email](https://www.youtube.com/watch?v=pfl71Hh5e2E)
 * [Video on how to edit an email](https://www.youtube.com/watch?v=RUvykCohLqI)
 
