@@ -1029,7 +1029,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 
 **Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations):**
 
-1. When IBM has closed the deal, an IBM contact will send order details to GitLab. (*GitLab email alias tbd*)
+1. When IBM has closed the deal, an IBM contact will send order details to IBMdealreg@gitlab.com. The Alliance Operations team monitors this email alias.
 2. Navigate to the opportunity, create a contact with the following information:
   - Name: IBM Ecosystem Project Office
   - For Email, Phone, Mailing Adress, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
