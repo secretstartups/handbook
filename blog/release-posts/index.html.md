@@ -594,11 +594,10 @@ Follow the timeline below to help you do peliminary reserach in identifying the 
 
   - Join the monthly kick-off call or listen to the recording on the [GitLab Unfiltered Youtube Channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A). The [Product Kickoff Review page's Overview](/direction/kickoff/#overview) links to a playlist for the kickoff videos.
   - Along with the kick-off call or recording, review the [kick-off call agenda](/direction/kickoff/)  
-  - Review the [upcoming releases page](/upcoming-releases/), where features the Directors consider important will be highlighted with the label **HIGHLIGHT**
 
 ##### After 22nd of the previous month
 
-  - Schedule a meeting with the previous messaging lead to understand best practices
+  - Schedule a meeting with the previous messaging lead to understand best practices 
   - Create a tab for the current release in the [Release Feature Story Planning](https://docs.google.com/spreadsheets/d/1sU3x6uR5wNTwsYroikdHpToi9tRVlZ4n83vjceXjp9A/edit?usp=sharing) spreadsheet by duplicating the previous release tab.
       - Make sure to name the new tab according to the current release number and edit the issue filters in the spreadsheet to sort by the current release milestone (otherwise you'll be looking at a list of the previous month's features).
   - Make a copy of the [messaging lead story planning doc](https://docs.google.com/document/d/1XoRWJXjWmwdeSE8_bSBcVvBnLhhYdzPW5T8JLYvYVmE/edit?usp=sharing) to fill out as you organize potential themes/features in preparation to circulate your progress for review closer to the release date.
@@ -610,7 +609,6 @@ Follow the timeline below to help you do peliminary reserach in identifying the 
     - Customer Interest - Look for issues with Label 'customer' and sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
     - CEO Interest - Look for issues with Label 'CEO Interest'. Shortlist the issues listed
     - Popularity - Sort by Popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
-    - Strategic Issues - Look for issues with Label 'Product Vision FY20' and sort by popularity. Shortlist issues with high number of upvotes (e.g., more than 50)
     - Oldest Issues - Sort by Created Date. Shortlist a few of the oldest issues
   - Update your spreadsheet tab with the features you have shortlisted.
 
@@ -620,6 +618,7 @@ Follow the timeline below to help you do peliminary reserach in identifying the 
   - Look at Release Post Item MRs found in the `www-gitlab-com` project
     - Sort by MRs labeled ~"release post item::primary"
     - Compare the release post primary items with your priviously shortlisted features and update accordingly.
+    - Consider taking an extract of the MRs labeled release-post every day between the 11th and 18th. This gives you a good way to do vlookups and identify which MRs have slipped and categorize the release post items into themes. Around the 14th, you will start seeing the themes coming together. Here is an [example](https://docs.google.com/spreadsheets/d/1lYD9IEXFHu0ouxOae4gJ91EewedN2Kr2P0otb6ivYuE/edit#gid=1210198461).
   - Based on your short listed features, draft 4-5 potential themes in your Release Feature Story Planning Doc.
   - NOTE: Features may slip to the next release.
     - Watch the release post [preview page](https://about.gitlab.com/releases/gitlab-com/). Features posted there have been introduced on GitLab.com and are less likely to slip.
