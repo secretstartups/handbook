@@ -432,7 +432,7 @@ _Please contribute your favorite resources here_
 
 - [Paul Graham: Write Simply](http://paulgraham.com/simply.html)
 - [Mastering communication: a product manager’s superpower](https://miro.com/blog/communication-product-managers-product-school/)
-- [Connor Murphy on  how his team uses a combination of GitLab, Loom, Notion, and Figma to collaborate async between PM, Design, and Engineering](https://www.loom.com/share/17677053ff7d4eeba643eaf194c0b700) (5 min video)
+- [Connor Murphy on how his team uses a combination of GitLab, Loom, Notion, and Figma to collaborate async between PM, Design, and Engineering](https://www.loom.com/share/17677053ff7d4eeba643eaf194c0b700) (5 min video)
 
 ##### Deeper dive
 
