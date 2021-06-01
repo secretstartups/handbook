@@ -34,7 +34,9 @@ weeks and may occasionally be rescheduled for another day due to calendar confli
 The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-administrator-team) is responsible for scheduling these meetings. [Chief of Staff](https://about.gitlab.com/job-families/chief-executive-officer/chief-of-staff/#directed-work) is responsible for managing to the agenda and ensuring that meetings don't exceed the allocated time. 
 
 ## Meeting Details
-1. All agenda items including any pre-read material should be added to the agenda by 5pm PT on the business day immediately before the meeting unless something unexpected happens between the end of normal submissions and when the meeting occurs
+1. Before adding to the agenda, E-Group members should consider whether topics are best suited for the meeting agenda or can be covered as FYIs in Slack
+1. All agenda items including any pre-read material should be added to the agenda by 5pm PT *two business days* before the meeting unless something unexpected happens between the end of normal submissions and when the meeting occurs. If something unexpected occurs after this time, please add the topic at the bottom of the agenda and flag to E-Group in the #e-group or #e-group-confidential Slack channels
+1. The [CoS](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
 1. If pre-work is strongly encouraged, it should be flagged as early possible in the week before in #e-group or another appropriate Slack channel
 1. Each agenda item should clearly state the objective for the topic. For example:
    1. Inform about upcoming announcement
@@ -42,4 +44,6 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
    1. Make a decision on the Contribute location
 1. If you are inviting external folks to a specific session, please notify the EBA to the CEO at least two business days before the meeting
 1. Ensure that any invited participants are clear about their role in the discussion
+1. The CoS will manage time within the meeting
+
 
