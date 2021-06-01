@@ -16,21 +16,25 @@ transacting partners, and can earn product discounts or referral fees.
 
 ## Contacting Support
 
-Open Partners contact us via the [support portal](https://support.gitlab.com).
-To help them route properly, they use
-[this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000818199).
+Open Partners may contact us on behalf of one of their customers by submitting
+a ticket from the [support portal](https://support.gitlab.com). To ensure proper
+ticket routing, which helps to prevent first response delays, they should:
 
-This should open the ticket in the Zendesk Open Partner form in zendesk. From
-here, Zendesk will use the information in the form to change the requester to
-that of the Open Partner's customer. This would mean GitLab Support talks to
-the Open Partner's customer directly, using their own plan level. 
+1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000818199)
+1. verify that the customer already has a contact record in Salesforce that is
+   associated with the correct account record
 
-In cases where an Open Partner wants to be involved in the discussion, they will
-need to mention this to us when submitting the ticket. From there, we can add
-them as a CC on the ticket.
+Zendesk will use the information in the form to change the `requester` field to
+contain the name of the partner's customer. The reason for this is that GitLab
+Support works directly with an Open Partner's customer, using the customer's
+support plan level, **not the partner's**. 
 
-**Note**: Never associate a customer to an Open Partner's organization, or
-vice-versa!
+If an Open Partner wants to be involved in a ticket, they should indicate that
+within the `Description` of the ticket when they are submitting it. In
+response, we will add them to the CC list of the ticket.
+
+**Note to Support**: Never associate a customer to an Open Partner's
+organization, or vice-versa!
 
 ## File uploads
 
