@@ -92,6 +92,7 @@ However, an increasing amount of startups and small-to-medium sized businesses a
 1. [reinteractive](https://reinteractive.com/)
 1. [easyDNS](https://easydns.com/), see why they decided to [go all-remote.](https://easydns.com/blog/2019/05/23/the-end-of-an-era-for-easydns/)
 1. [TaxJar](https://www.taxjar.com), read their [blog about building a remote-only culture](https://life.taxjar.com/), their [benefits](https://www.taxjar.com/jobs/), [core values](https://www.taxjar.com/about/), and [hear what employees say about working there](https://www.comparably.com/companies/taxjar).
+1. [Animalz](https://www.animalz.co/), an agency providing content to B2B/SaaS organizations
 
 ### Remote-first companies
 
