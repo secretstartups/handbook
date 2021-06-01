@@ -42,7 +42,7 @@ Our team uses a hybrid of Scrum for our project management process. This process
 - We prioritize and estimate all issues we work on.
 - We do weekly refinement to ensure our issue board is always kept up to date.
 - We do monthly milestone planning to prepare for our upcoming milestone.
-- We do monthly roadmap planning to prepare for our next 6 milestones.
+
 
 ### Workflow
 
@@ -62,11 +62,11 @@ Our team use the following workflow stages defined in the [Product Development F
 | Label | Usage |
 | -- | -- | -- |
 | `~"workflow::planning breakdown"` | Applied by the Product Manager for Engineers to begin breaking down issues and adding estimates. |
-| `~"workflow::scheduling"` | Applied by the Engineer while an issue is awaiting milestone assignment. |
-| `~"workflow::ready for development"` |  Applied by the Engineer after an issue has been broken down and scheduled for development. |
+| `~"workflow::ready for development"` |  Applied by either Engineering or Product Manager after an issue has been broken down and scheduled for development. |
 | `~"workflow::in dev"` | Applied by the Engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
 | `~"workflow::in review"` | Applied by the Engineer indicating that all MRs required to close an issue are in review. |
 | `~"workflow::verification"` | Applied by the Engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
+| `~"workflow::production"` | Applied by the Engineer after all MRs have merged and the issue has been verified. At this step, the issue should be closed as complete. |
 | `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
 
 
@@ -88,31 +88,39 @@ There are three groups we use:
 - The [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group includes the [gitlab](https://gitlab.com/gitlab-org/gitlab), [customers-gitlab-com](https://gitlab.com/gitlab-org/customers-gitlab-com), and [license-gitlab-com](https://gitlab.com/gitlab-org/license-gitlab-com) projects.
 - The [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) group includes the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) project.
 - The [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) group includes the [version-gitlab-com](https://gitlab.com/gitlab-services/version-gitlab-com) project.
+- The [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence) provides a view across all projects, organized by milestone. This is board is critical to the planning process and allows the Product Manager to prioritize the milestone. 
 
 | gitlab-org | gitlab-com | gitlab-services | all groups |
 | ------ | ------ | ------ | ------ |
-| [gitlab-org Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-com Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-services Issue Board](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [-](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) |
+| [gitlab-org Issue Board](https://gitlab.com/groups/gitlab-org/-/boards/1158847?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-com Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1546862?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [gitlab-services Issue Board](https://gitlab.com/groups/gitlab-services/-/boards/1546865?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=group%3A%3Aproduct%20intelligence) | [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence) |
 
-### Initiatives
-
-The work done by our team mainly fall into two categories: product initiatives and engineering initiatives.
-
-**Product initiatives:** This work is primarily related to driving value for our customers. This work is defined by a product manager and is outlined in the team's product roadmap.
-
-**Engineering initiatives:** This work is primarily related to driving value for internal teams. This work is defined by an engineer and can include bug fixes, follow-up issues, refactoring, career development work, or anything an engineer thinks is important enough to be worked on.
 
 ### Prioritization
 
-We prioritize our product roadmap using milestone priority labels:
+We prioritize our product roadmap in the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence). Issues appear on each list in order of priority and prioritization of our product roadmap is determined by our product managers. 
 
-- `~"milestone::p1"`
-- `~"milestone::p2"`
-- `~"milestone::p3"`
-- `~"milestone::p4"`
+### Picking something to work on
 
-Prioritization of our product roadmap is determined by our product managers. Every epic and issue that is part of a product roadmap should have a priority label.
+Engineers can find and open [the milestone board for Product Intelligence](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence). Engineers should start at the top of the board and pick the first available, non-assigned issue which is labeled `Ready for development`. When picking an issue, the engineer should assign themselves as a signal that they are taking ownership of the issue.
 
-We work from the highest to the lowest priority when working on product initiatives. For design prioritization, see [priority for UX issues](/handbook/engineering/ux/ux-designer/#priority-for-ux-issues).
+If the next available issue is not a viable candidate (due to amount of capacity vs. issue weight, complexity, knowledge domain, etc.) the engineer may choose to skip an issue in milestone list and pick the next issue in order of priority. 
+
+The following table will be used as a guideline for scheduling work within the milestone:
+
+| Type        | % of Milestone | Description                                                                                |
+|-------------|----------------|-------------|------------------------------------------------------------------------------|
+| Deliverable | 70%            | business priorities (compliance, IACV, efficiency initiatives)                             |
+| Tech debt   | 10%            | nominated by engineers prior to milestone start in Milestone Planning Issue                                                                                           |
+| Other       | 20%            | engineer picks, critical security/data/availability/regression, urgent business priorities |
+
+If all work within a milestone is picked, engineers are free to choose what to work on. Acceptable options include:
+
+- Post in Slack channel to see if any engineers would like help/pair on something they are working on
+- Pick an issue from the next milestone (using the [board by milestone view](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence))
+- Pick an issue from the [backlog](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=group%3A%3Aproduct%20intelligence&milestone_title=Backlog)
+- Create/work on tech debt issue
+- Work on a passion issue
+- Other (study, research, learning)
 
 ### Iteration
 
@@ -132,57 +140,61 @@ We may also use due dates as a way to timebox our iterations. Instead of spendin
 
 Refinement is the responsibility of every team member. Every Friday, Slack will post a refinement reminder in our group channel. During refinement, we make sure that every issue on the issue board is kept up to date with the necessary details and next steps.
 
-### Timeline
+Each engineer is expected to provide a quick async issue update by commenting on their assigned issues using the following template:
 
-Our team pays close attention to the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/):
+```
+<!---
+Please be sure to update the workflow labels of your issue to one of the following (that best describes the status)"
+- ~"workflow::In dev"
+- ~"workflow::In review"
+- ~"workflow::verification"
+- ~"workflow::blocked"
+-->
+### Async issue update
+1. Please provide a quick summary of the current status (one sentence).
+1. When do you predict this feature to be ready for maintainer review?
+1. Are there any opportunities to further break the issue or merge request into smaller pieces (if applicable)?
+1. Were expectations met from a previous update? If not, please explain why.
+```
 
-- Milestone planning issue is created on the `Previous Month 4th`.
-- Milestone commitment is finalized on the `Previous Month 13th`.
-- Milestones start on the `Previous Month 18th`.
-- Milestones end on the `Current Month 17th`.
-- [Team Retrospectives](/engineering/management/team-retrospectives/) start on the `Current Month 19th`.
-- Release Day happens on the `Current Month 22nd`.
-- [Retrospective Summary](/engineering/workflow/#retrospective) happen on the `Next Month 4th`.
-- [Retrospective Discussion](/engineering/workflow/#retrospective) happen on the `Next Month 6th`.
+We do this to encourage our team to be more async in collaboration and to allow the community and other team members to know the progress of issues that we are actively working on.
 
-In addition to these dates, our team also does the following:
+### Milestone Planning and Timeline
 
-- Team Retrospective discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the last meeting of every month.
-- Monthly Roadmap Planning discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the first meeting of every month.
+Our team mostly follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
 
-### Milestone Planning
+The specific application of this timeline to the Product Intelligence Milestone planning process is summarized below and in this recorded overview [video](https://youtu.be/dcO-Qbd042E).
 
-Planning a milestone is a collaborative effort between Product, Engineering, and UX.
+**2-3 weeks prior to the start of the next milestone**
+1. Milestone planning issue is created by the Product Manager. We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331864). 
+1. Issues are added to the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence) by the Product Manager
+     1. Issues at this stage will have the `~"workflow::planning breakdown"` label
+1. Product Manager will ping engineering team on Planning Issue asking for Technical Debt candidates
 
-#### Milestone Planning Issue
+**2 weeks prior to the start of the next milestone**
+1. Product manager invites engineering to breakdown issues planned for next milestone
+     1. Review issue description for understanding and thoroughness
+     1. Ask questions
+     1. Break issue into smaller parts 
+     1. Create a technical plan
+     1. Add issue weight
+1. Monthly Roadmap Planning discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the first meeting of every month.
 
-We utilize a milestone planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/330863). A milestone planning issue consists of:
-- Links
-- Holidays
-- Validation Track
-  - UX Capacity
-  - Priorities
-- Build Track
-  - Engineering Capacity
-  - Priorities
-- Planning Tasks
+**1 week prior to start of the next milestone**
+1. Engineering completes board refinement, all issues are weighted
+     1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
+1. Engineering team indicates reduced capacity by adding planned time off to the Planning Issue     
+1. Product Manager orders the issue board by priority
+1. Product Manager adds/removes issues if the board is over/under target weight   
+1. Product Manager finalizes Planning Issue and pings engineering team
+1. Release Day happens on the `Current Month 22nd`
 
-#### Planning Tasks
+**Start of Milestone**
+1. Product Manager moves any open issues from the prior milestone to the new milestone and apply the `missed::x.xx` label
+1. Product Manager updates the planning issue with the weights closed in the prior milestone and the weights for the current milestone
+1. [Team Retrospectives](/engineering/management/team-retrospectives/) for prior milestone begins
+     1. Team Retrospective discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the last meeting of every month.
 
-The following tasks need to be completed for planning a milestone:
-* [ ] PM creates milestone planning issue.
-* [ ] Team updates `Holidays` section.
-* [ ] UX updates `Validation Track - UX Capacity` section.
-* [ ] Engineering updates `Build Track - Engineering Capacity` section.
-* [ ] Team uses comments to suggest work for prioritization.
-* [ ] PM reviews suggestions and updates `Validation Track - Priorities` and `Build Track - Priorities`.
-* [ ] PM moves all work into ~"workflow::planning breakdown".
-* [ ] PM assigns priority by using the scoped ~"milestone::p1" - ~"milestone::p4" labels.
-* [ ] Engineers break down issues in ~"workflow::planning breakdown".
-* [ ] Engineers estimate issues in ~"workflow::planning breakdown" then move to ~"workflow::scheduling".
-* [ ] Engineers create milestone commitment by tagging issues in ~"workflow::scheduling" with the current milestone until milestone capacity is reached and milestone commitment is made. Issues tagged with the current milestone should also have the ~"Deliverable" label applied .
-* [ ] Engineers move issues into ~"workflow::ready for development".
-* [ ] Engineers begin working on issues in ~"workflow::ready for development".
 
 #### Milestone Capacity
 
@@ -205,7 +217,7 @@ In this example, the current milestone capacity is 31 weights.
 
 #### Milestone Commitment
 
-A milestone commitment is a list of issues our team aims to complete in the milestone. After issues are broken down, estimated, and prioritized, we begin tagging issues with the current milestone until the sum of the tagged issue weights equals our team's milestone capacity. All issues in a milestone commitment should also have the `~Deliverable` label.
+A milestone commitment is a list of issues our team aims to complete in the milestone. The product team follows our GitLab pricinciple of [planning ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning) and therefore expect that we won't always be able to deliver everything that we wanted in every milestone. After issues are broken down, estimated, and prioritized, the product manager will apply the `~Deliverable` label to applicable issues. Issues marked with the `~Deliverable` label represent the commitment we are intending to ship in that milestone.
 
 ## Epics and issues
 
