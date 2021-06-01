@@ -89,7 +89,7 @@ Step 4: Prepare the timestamp variable as we are not pushing this through the da
   import time 
   print(time.time())
 ```
-The value returned will be used while performing copy into snowflake as target table has _updated_at column which needs to be populated. 
+The value returned will be used while performing copy into snowflake as target table has _uploaded_at column which needs to be populated. 
 Step 5: Read each column defined in the manifest file as below and add a _uploaded_at timestamp column to it like below. This needs to be executed in snowflake to validate the data is correct and it can also be used to do a certain audit. 
 ```
 SELECT $1 as id ,
