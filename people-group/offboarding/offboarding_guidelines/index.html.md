@@ -50,20 +50,14 @@ Note: If the team member is transitioning to a [temporarily positioned contracto
 ### Google Workspace
 
 IT Ops will follow the below steps to set up an auto-response that notifies the sender that the team member they are trying to reach is no longer with GitLab and who to contact.
-1. Add the team member to the `former_employees@gitlab.com`'s email account by selecting the dropdown icon `ˇ` in the `User information` section and adding the team member's GitLab email address.
 
-_Note: Be sure to scroll down and `Save` this change or it will not be reflected._
-1. Set up a routing rejection rule for the team member by;
-   1. Navigate to Google admin portal then Apps > Google Workspace > Gmail > Advanced settings > Routing > Routing.
-   1. Hover over the routing option and click on `Add another`. Please enter a name below the title "Routing" with `lastname firstname rejection rule`
-   1. Check the option `Inbound` and `Internal-receiving` under `Messages to affect`.
-   1. Check `Only affect specific envelope recipients` under the `Envelope filter` title.
-   1. Enter the team members's email address right below the title `Email address`.
-   1. Under the title `For the above types of messages, do the following`, please change from `Modify message` to `Reject message`.
+   1. Navigate to Google admin portal and search for the email account.
+   1. Unsuspend the account, reset sign in cookies, reset password, do not email the password. 
+   1. Move account into the Former Team Memebers Organizational Unit. 
+   1. Use GAM to set a Out of Office Message on the account
    1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
-   1. Scroll down and click on `Add setting` and then on `Save` at the bottom (once the window closes).
 
-After 5 days, when the former team member's offboarding issue is due, IT Ops will delete their Google Workspace account now refered to as `former_username@gitlab.com`. During this process, you will receive a prompt to transfer their Google Drive Documents. Please refer to the offboarded team member's Offboarding issue to review if the manager has requested to have Document ownership already transferred to them, or if they have agreed to not receive ownership.
+The Out of Office message will stay on the account for 90 days, aftewards ITOPs will follow up and archive the account in the G-Suite vault.
 
 ### Slack
 
