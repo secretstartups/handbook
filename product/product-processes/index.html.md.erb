@@ -1619,22 +1619,8 @@ Here are several strategies for breaking features down into tiny changes that ca
 
 #### Workflow steps
 As part of design and discovery, you likely created a minimal user journey that contains sequential steps a user is going to take to “use” the feature you are building. Each of these should be separated. You can further by asking yourself these questions:
-* Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI,  API or .csv download of data)? This is a great starting point before adding UI components that achieve the same thing.
+* Can/is it desirable to perform this action via the UI or can we use a non-UI approach as a start (for example, CLI, API or .csv download of data)? This is a great starting point before adding UI components that achieve the same thing.
 * Will there be different UI paths to perform the same task? Identify which are the most useful and which are the easiest to implement. Weight both factors when determining which to start with, and build from there.
-
-#### Design Sprint
-A [Design Sprint](https://www.gv.com/sprint/), is a 5-day process used to answer critical business questions through design, prototyping and testing ideas with customers. This method allows us to [reduce cycle time](/handbook/values/#reduce-cycle-time) when coming up with a solution. In each of the five days, you are expected to accomplish several items:
-
-- Day 0: preparatory exercises
-- Day 1: map out the customer problems and decide core JTBD or Focus
-- Day 2: diverge with ideas and list competing solutions
-- Day 3: converge on decisions and establish a testable hypothesis
-- Day 4: craft prototype
-- Day 5: reveal the prototype to users
-
-The Configure team completed a Design Sprint for the Kubernetes management direction in [configure&3](https://gitlab.com/groups/gitlab-org/configure/-/epics/3).
-
-If you are interested in employing a Design Sprint, checkout our [Issue Temaplate](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Design%20Sprint.md)!
 
 #### User operations
 View, Create, Update, Remove and Delete are actions users take while interacting with software. These actions naturally provide lines along which you can split functionality into smaller features. By doing this, you prioritize the most important actions first. For example, users will likely need to be able to visually consume information before they can create, update, remove, or delete.
@@ -1649,10 +1635,6 @@ Often, the criteria by which a new feature needs to be built is implicit. It can
 #### Exception & error cases
 Software often fails and can fail in different ways depending upon how it is architected. It is always best to provide the user with as much information as possible as to why something did not behave as expected. Creating and building different states to handle all possible errors and exceptions can easily be broken down into individual issues. Start by creating a generic error state to display when anything goes wrong, and then add on to handle different cases one by one. Remember to always make error messages [useful](https://design.gitlab.com/content/error-messages), and add additional error messages as you identify new error states.
 
-#### Customer Impact
-
-When creating net new features research efforts are intended to provide GitLab with the best opportunity to deliver customer value while considering business needs, performance expectations, timelines, and other considerations. When delivering new features that interact with exisiting customer data and workflows, care must be taken to evaluate impact throughout the product development process.
-
 #### Breaking down the UI
 Breaking down a design into pieces that can be released iteratively is going to depend on what you are building. Here are a few helpful questions to guide that process:
 * What components already exist that you can reuse to go faster?
@@ -1665,7 +1647,30 @@ Continuously improving the software we write is important. If we don't proactive
 * Can we refactor some of it? Is a full re-write necessary?
 * Why do we need to use that new technology? (You may need to ask WHY multiple times to get to the root of the problem)
 
-#### Considerations
+#### Separate announcement from launch
+For large projects, consider separating the announcement from the actual feature launch.  By doing so, it can create more freedom to iterate during the customer rollout.  For example, you could announce in advance to give customers ample notice, and then roll it out to new customers first, then to existing Free customers, then to existing paid customers.  Or you could do the opposite, and roll it out to a small segment of customers first, before then announcing broadly.
+
+#### Avoid hard cutovers during transitions
+Sometimes the objective is to cut over from one experience, or one system, to another.  When doing so, consider having transition phases rather than a hard cutover.  For example, when launching a new experience, run them side by side for a while, where the old experience is still the default, and we roll out the new experience to a small subset of users.  Then at some point the new experience becomes the default for the majority, but the old experience is still there as a fallback in case of problems.  Then finally you can deprecate the old experience.  This strategy enables teams to have more flexibility and demonstrate more iteration in the rollout, with reduced risk.
+
+#### Avoid big bang launches
+When something is important, it is natural to want to launch it all at once to get to the end game faster. But often times big bang launches are slower in the end. It's better to launch in small increments, with a tight feedback loop, so that the majority of users have a great experience. This tends to speed up the overall timeline, rather than slow it down.
+
+#### Design Sprint
+A [Design Sprint](https://www.gv.com/sprint/), is a 5-day process used to answer critical business questions through design, prototyping and testing ideas with customers. This method allows us to [reduce cycle time](/handbook/values/#reduce-cycle-time) when coming up with a solution. In each of the five days, you are expected to accomplish several items:
+
+- Day 0: preparatory exercises
+- Day 1: map out the customer problems and decide core JTBD or Focus
+- Day 2: diverge with ideas and list competing solutions
+- Day 3: converge on decisions and establish a testable hypothesis
+- Day 4: craft prototype
+- Day 5: reveal the prototype to users
+
+The Configure team completed a Design Sprint for the Kubernetes management direction in [configure&3](https://gitlab.com/groups/gitlab-org/configure/-/epics/3).
+
+If you are interested in employing a Design Sprint, checkout our [Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Design%20Sprint.md)!
+
+#### Other Considerations
 Consider the following to improve iteration:
 * Successfully iterating should mean you're delivering value in the most efficient way possible. Sometimes, this can mean fixing an underlying technical issue prior to delivering a customer facing feature.
 * Wherever possible, consider reuse of components that already exist in the product. A great example of this was our approach to creating our Jira importer, which reused the Jira service integration. Reuse also aligns well with our efficiency value.
