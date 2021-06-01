@@ -45,7 +45,7 @@ title: "Financial Planning & Analysis"
 
 ### Definitions
 
-#### Long Range Plan
+#### Long Range Numbers
 
 Purpose: Identify and agree on long-term investments and capabilities that will position GitLab for success over the long-term. Determine whether near-term priorities and funding need to change in order to achieve long-term goals and financial targets.
 
