@@ -76,15 +76,14 @@ Distribution engineering regularly interfaces with broader development teams in 
 * Experience building and packaging archives such as .deb and .rpm
 
 ### Package
-Package engineers are focused on creating the binary repository management system that will extend our Continuous Integration (CI) functionality to allow access and management of artifacts manipulated by projects.
+Package engineers are focused on creating and maintaining the dependency management system that extends GitLab to function as a universal package management tool. The Package team is also improving the [Container Registry](https://gitlab.com/gitlab-org/container-registry) and is responsible for items listed under [Package product category](/handbook/product/categories/#package-stage).
 
-By extending the current CI artifacts system, the Package team will expose GitLab as a package repository allowing access to the most common package managers, e.g. Maven and APT and similar. Additionally, the Package team is improving the Container Registry and is responsible for items listed under [Package product category](/handbook/product/categories/#package).
-
-#### Responsibilities
-* Develop the architecture by extending existing features.
-* Work with the Distribution team on replacing their current delivery system.
-* Create and maintain observability of the newly defined features.
-* Work with customers on defining their needs to replace existing package repository solutions.
+#### Requirements
+* Strong experience with Ruby on Rails and/or Golang.
+* Experience building highly available and performant business-critical product features.
+* Previous work with packaging and distribution technologies (example: npm, Maven, RPM) and/or Docker.
+* Understanding of how to build instrumented, observable software systems.
+* Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
 
 ### Protect
 
