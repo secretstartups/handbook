@@ -1,3 +1,15 @@
+---
+layout: handbook-page-toc
+title: "Migrating from Self-Managed GitLab to SaaS"
+description: "Things to know when helping customers migrate to SaaS."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 # Migrating from Self-Managed GitLab to SaaS
 
 ## Options for customers migrating from self-managed GitLab to SaaS
@@ -13,7 +25,7 @@ The automated migration tool handles more data than the ui or api based approach
 Most importantly, GitLab Professional Services Engineers handle much of the migration work asynchronously, freeing up the customer's administrators to focus on other valuable tasks instead of needing to make the GitLab migration an initiative that requires all of their effort.
 
 ## How much does a Professional Services migration from self-managed to SaaS cost?
-Professional Services currently offers self-managed to SaaS migrations as a fixed price offering.  The total price of each engagement varies based on the size and complexity of the migration.  While not a perfect formula, we currently estimate the scope of the migration based on the number of users and projects in the self-managed system.  Note that GitLab repos > 5 GB cannot be migrated via our automated tooling and will significantly increase the scope of a self-managed to SaaS migration.  See [Why are Large Repos so Expensive to Migrate]() in the FAQ at the end of this page for more information.
+Professional Services currently offers self-managed to SaaS migrations as a fixed price offering.  The total price of each engagement varies based on the size and complexity of the migration.  While not a perfect formula, we currently estimate the scope of the migration based on the number of users and projects in the self-managed system.  Note that GitLab repos > 5 GB cannot be migrated via our automated tooling and will significantly increase the scope of a self-managed to SaaS migration.  See [Why are Large Repos so Expensive to Migrate](#faq) in the FAQ at the end of this page for more information.
 
 As a general guide, we've provided rough order magnitude (ROM) estimates below for migrations under standard conditions.  Please note that each customer migration needs to be scoped individually to validate assumptions in the ROM table.  Upon confirmation that the customer would like to proceed with Professional Services, we will generate an SOW that will need to be signed by the customer.
 
@@ -28,9 +40,9 @@ Price in each cell represents a rough order of magnitude based on number of user
 | 2001 - 3000 | $60-70k | $75-85k | $90-100k | $110-120k | $125-135k | $145-155k | $160-170k | $175-185k | $195-205k | $210-220k |
 
 ## My customer wants to proceed with PS for migrating to SaaS - what is the next step?
-After you've had initial conversations, if your customer wants to proceeed to further explore PS for migrating to SaaS, please initiate a scoping request via the [Services Calculator](https://services-calculator.gitlab.io/).  Enter the customer name, check the box for migration, then enter your GitLab username and your email address and click the "Create PS Scoping Issue" button.  
+After you've had initial conversations, if your customer wants to proceeed to further explore PS for migrating to SaaS, please initiate a scoping request via the [Services Calculator](https://services-calculator.gitlab.io/).  Enter the customer name, check the box for migration, then enter your GitLab username and your email address and click the `Create PS Scoping Issue` button.  
 
-**to-do add image of Services Calculator**
+![](services-calc.png)
 
 There will be a `<Customer Name> - Scope Issue and Write SOW` issue created by the calculator, as a child of an epic with the name of the customer.  That issue will have the information we need for scoping the customer engagement pre-populated as a table in the description (with the heading SSOT for "single source of truth").  Please fill in the appropriate fields in that table - bold font fields are required in order for us to scope the migration effort.
 
@@ -42,7 +54,7 @@ If the customer agrees to the estimate, and a conversation validates that the in
 - See the [WIP - Selling Professional Services - SM to SaaS](https://docs.google.com/presentation/d/1-svCV8CFqZZr0ma-1TJIzy-Lobu4sSslP5eAS2BaCbc/edit?usp=sharing) Google slides presentation
 
 ## FAQ
-1. **Why doesn't PS provide the automate tooling for customers to use?**  (to-do: validate with Bryan - are we opensourcing congregate based on the "dogfooding" approach?)  While GitLab Professional Services has plans to provide the Congregate tool as an open source project, there are aspects of SaaS that make it unique.  As a multi-tenant SaaS platform, end users are not allowed to have standard administrator permissions on the platform.  This limits some of the scope of what can be migrated, evene with automated tooling. Additionally, the Congregate tool in its current state requires custom configuration for each customer migration.  to-do: what else?
+1. **Why doesn't PS provide the automate tooling for customers to use?**  GitLab Professional Services has plans to move the Congregate tool as to a public group to enable wider collaboration and contributions. However due to the complexity of migrations, the Congregate tool will still only be available to use for customers who engage with GitLab (or a certified channel partner) professional services. Even if Congregate were available to customers, the challenges with migrating to GitLab SaaS are not overcome by automation.  As a multi-tenant SaaS platform, end users are not allowed to have system-level administrator permissions on the platform.  This limits some of the scope of what can be migrated, even with automated tooling. Additionally, the Congregate tool in its current state requires custom configuration for each customer migration. 
 1. **Why are large repos so "expensive" to migrate?** The GitLab SaaS instance has a [hard limit of 5 GB max import per repo](https://docs.gitlab.com/ee/user/gitlab_com/#account-and-limit-settings). Any repo > 5 GB must be migrated via admin tools, and this involves the GitLab support and SaaS infrastructure team.  These imports require significant effort so we can only manage 2 repo imports per day.
 1. **Can partners perform SM to SaaS migrations?**  Partners are limited to the same restrictions as customers - they cannot have administrator permissions on the SaaS platform, and they must utilize known ui or api based migration approaches with their own scripted solutions.  GitLab partners can provide guidance on a migration plan, in terms of considerations for which groups and projects to migrate when, and what activities need to be performed, and what information needs to be communicated, to end users as their projects are migrated.  But, partner migrations have limitations, such as:
      - MR, notes, and issue authors are not preserved on migration
