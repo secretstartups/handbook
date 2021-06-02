@@ -72,7 +72,7 @@ The expectation for the development engineers is to be a technical consultant an
 
 **NOTE:** On-call engineer need not announce beginning/end of their shift in [#dev-escalation](https://gitlab.slack.com/messages/CLKLMSUR4) unless there is an active incident happening (check the chat history of the channel to know if there is an active incident). This is because many engineers have very noisy notifications enabled for that channel, and such announcements are essentially false positives which make them check the channel unnecessarily.
 
-#### Weekdays
+#### Weekdays (UTC)
 
 Weekdays will now leverage an automated system relying upon the [Pagerslack](https://gitlab.com/jameslopez/pagerslack).
 
@@ -91,9 +91,15 @@ Weekdays will now leverage an automated system relying upon the [Pagerslack](htt
 1. BE triages the issue and works towards a solution.
 1. If necessary, BE reach out to domain experts as needed.
 
-In the event that no BEs respond to the bot, Pagerslack will then post a link to the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) for the SRE to look up scheduled oncall BE. We assume escalating to using the spreadsheet as a last resort. In case there is no response to the Slack message, the escalator can call the engineer's number in the spreadsheet.
+In the event that no BE engineers respond to the bot, Pagerslack will then notify the Engineering Managers. They will need to find someone available and notify this in the escalation thread. As an EM:
 
-#### Weekends and Holidays
+1. Check whether some of the engineers pinged belong to your group and see whether they are available to help
+1. Try to find someone available from your group
+1. If the search is positive, leave a message in the thread as an acknowledgement that the engineer from your group will be looking into the issue
+
+The [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) will be used as a last resort during weekdays through August 2021, only when the EMs are unable to find anybody. Beginning September 2021, we will remove it completely and fully adopt this process if no escalations to the spreadsheet were made.
+
+#### Weekends and Holidays (UTC)
 
 Weekend/Holiday oncall will continue to use the existing Oncall process using the [oncall spreadsheet](https://docs.google.com/spreadsheets/d/10uI2GzqSvITdxC5djBo3RN34p8zFfxNASVnFlSh8faU/edit?usp=sharing) outlined above.
 
