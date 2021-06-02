@@ -26,21 +26,19 @@ canonical_path: "/company/team/structure/working-groups/database-scalability/"
 | Preferred Term | What Do We Mean | Terms Not To Use | Examples |
 |----------------|-----------------|------------------|----------|
 | Case | An instance under a scaling pattern | | ci_builds, web_hooks_logs |
-| Database Cluster | A database cluster is a collection of interconnected database instances that replicate data. | | The PostgreSQL cluster of GitLab.com (managed by Patroni) that hosts the main logical database and consists of the primary database instance along with its read-only replicas. |
-| Database Instance| A database instance is comprised of related processes running in the database server. Each instance runs its own set of database processes. | Physical Database | |
-| Database Node | Equivalent to a Database Server in the context of this working group. | Physical Database | |
-| Database Server | A database server is a physical or virtual system running an operating system that is running one or more database instances. | Physical Database | |
-| Functional Decomposition | Separation of data by meaning, function or usage | Y-Axis | Registry, Diffs on Object Storage |
-| Horizontal application-level sharding | Sharding via a sharding key, for example top-level namespace, where data is separated into many logical databases on multiple database servers. The application manages various operations (ID generation, rebalancing etc.)  | Sharding | Each top-level namespace is located in its own logical database.[Design illustration](https://gitlab.com/groups/gitlab-org/-/epics/5838#design-overview)|
+| Cluster | A database cluster is a collection of interconnected database instances that replicate data. | | The PostgreSQL cluster of GitLab.com (managed by Patroni) that hosts the main logical database and consists of the primary database instance along with its read-only replicas. |
+| Decomposition | Feature-owned database tables are on many logical databases on multiple database servers. The application manages various operations (ID generation, rebalancing etc.) | Y-Axis, Vertical Sharding | All CI tables in a separate logical database. [Design illustration](https://gitlab.com/groups/gitlab-org/-/epics/5883#design-overview) |
+| Instance| A database instance is comprised of related processes running in the database server. Each instance runs its own set of database processes. | Physical Database | |
 | Logical database  | A logical database groups database objects logically, like schemas and tables. It is available within a database instance and independent of other logical databases. | Database | GitLab's rails database.  |
+| Node | Equivalent to a Database Server in the context of this working group. | Physical Database | |
 | Replication    | Replication of data with no bias. | X-Axis, Cloning | What we do with our database clusters today.|
 | Scaling Pattern | A general solution based on data taxonomy that enables scaling for several cases | Split Pattern | Read-Mostly, Time-Decay, Entity/Service |
 | Schema |A database schema is a namespace that contains named database objects such as tables, views, indexes, data types, functions, stored procedures and operators.| | |
-| Sharding | Separation of data by customer or requestor bias, or within a resource without bias towards affinity | Z-Axis | Namespaces, projects |
+| Server | A database server is a physical or virtual system running an operating system that is running one or more database instances. | Physical Database | |
+| Sharding | Separation of data by customer or requestor bias, or within a resource without bias towards affinity. Sharding via a sharding key, for example top-level namespace, where data is separated into many logical databases on multiple database servers. The application manages various operations (ID generation, rebalancing etc.)| Z-Axis, horizontal sharding | Each top-level namespace is located in its own logical database. [Design illustration](https://gitlab.com/groups/gitlab-org/-/epics/5838#design-overview) |
 | Table | A database table is a collection of tuples having a common data structure (the same number of attributes, in the same order, having the same name and type per position) ([source](https://www.postgresql.org/docs/13/glossary.html#GLOSSARY-TABLE)) | | |
 | Table Partitioning | A table that contains a part of the data of a partitioned table (horizontal slice). ([source](https://www.postgresql.org/docs/12/ddl-partitioning.html))| Partition | |
 | Track | A sub-group within the WG that tackles one scaling pattern. | | |
-| Vertical application-level sharding | Feature-owned database tables are on many logical databases on multiple database servers. The application manages various operations (ID generation, rebalancing etc.) | Sharding | All CI tables in a separate logical database. [Design illustration](https://gitlab.com/groups/gitlab-org/-/epics/5883#design-overview) |
 
 ![Database Terms](./DB-terminology.png)
 
