@@ -27,6 +27,8 @@ Price in each cell represents a rough order of magnitude based on number of user
 | 1001 - 2000 | $50-60k | $65-75k | $85-95k | $100-110k | $120-130k | $135-145k | $155-165k | $170-180k | $190-200k | $205-215k |
 | 2001 - 3000 | $60-70k | $75-85k | $90-100k | $110-120k | $125-135k | $145-155k | $160-170k | $175-185k | $195-205k | $210-220k |
 
+If you have more than 10,000 projects or 3000 users, please reach out to the [Engagement Managers](customer-success/professional-services-engineering/engagement-mgmt) and they will work with you to provide a ROM estimate.
+
 ## My customer wants to proceed with PS for migrating to SaaS - what is the next step?
 After you've had initial conversations, if your customer wants to proceeed to further explore PS for migrating to SaaS, please initiate a scoping request via the [Services Calculator](https://services-calculator.gitlab.io/).  Enter the customer name, check the box for migration, then enter your GitLab username and your email address and click the "Create PS Scoping Issue" button.  
 
