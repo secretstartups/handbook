@@ -569,7 +569,7 @@ It's important that everyone encourages others to follow the [communication guid
 1. Verbalize questions
 1. Stop sharing their screens to encourage conversations
 1. Provide full context for the benefit of new team members
-1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
+1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
 
 ### Email Best Practices
 
