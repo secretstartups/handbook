@@ -26,13 +26,13 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 
 | OPERATIONAL| EDUCATIONAL |
 | ------ | ------ |
-| [**How to reach Legal** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Overview-of-GitLab-Agreements)  |
-| [**How do I get an Agreement signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-do-I-get-an-Agreement-signed)       | [**When does GitLab negotiate**](https://about.gitlab.com/handbook/legal/customer-negotiations/#When-does-GitLab-Negotiate)  |
-| [**Clearing Export Review in SFDC** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#clearing-export-review-negotiations)     | [**SKO 2021 Resources**](https://about.gitlab.com/handbook/legal/customer-negotiations/#GitLab-Legal-SKO-2021-Resources) |
-|[**Completing Vendor Request Forms** ](https://about.gitlab.com/handbook/legal/customer-negotiations/#Completing-Vendor-Request-Forms) | [**What is Open Source Software?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what-is-open-source?) |
-| [**What's needed to close a deal?**](https://about.gitlab.com/handbook/legal/customer-negotiations/#what's-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](https://about.gitlab.com/handbook/legal/customer-negotiations/#gitlab-subscription-agreement-101) |
-| [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](https://about.gitlab.com/handbook/legal/customer-negotiations/#requests-for-gitLab-financial-information-tax-and-insurance-certificates) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#why-gitlab-does-not-sign-baas) |
-| [**How to get a Data Processing Agreement (DPA) Signed**](https://about.gitlab.com/handbook/legal/customer-negotiations/#How-to-get-a-Data-Processing-Addendum-(DPA)-Signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](https://about.gitlab.com/handbook/legal/customer-negotiations/#Intro-Data-Privacy-and-the-GitLab-Data-Processing-Addendum) |
+| [**How to reach Legal** ](#how-to-reach-legal)                  | [**Overview of GitLab Agreements**](#overview-of-gitlab-agreements)  |
+| [**How do I get an Agreement signed**](#how-do-i-get-an-agreement-signed)       | [**When does GitLab negotiate**](#when-does-gitlab-negotiate)  |
+| [**Clearing Export Review in SFDC** ](#clear-export-review-in-sfdc)     | [**SKO 2021 Resources**](#gitlab-legal-sko-2021-resources) |
+|[**Completing Vendor Request Forms** ](#completing-vendor-request-forms) | [**What is Open Source Software?**](#open-source) |
+| [**What's needed to close a deal?**](#whats-needed-to-close-a-deal)    | [**GitLab Subscription Agreement 101**](#gitlab-subscription-agreement-101) |
+| [**Requests for GitLab Financial Information, Tax and Insurance Certificates**](#requests-for-gitLab-financial-information-tax-and-insurance-certificates) | [**Why GitLab does not sign BAAs (Business Associate Agreement)**](#why-gitlab-does-not-sign-baas) |
+| [**How to get a Data Processing Agreement (DPA) Signed**](#how-to-get-a-data-processing-addendum-dpa-signed) | [**Intro to GitLab Privacy Compliance and Data Processing Agreement (DPA)**](#intro-to-data-privacy-and-the-gitlab-data-processing-addendum) |
 
 ## OPERATIONAL
 
