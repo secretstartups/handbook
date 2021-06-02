@@ -399,6 +399,7 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 
 #### Project Expenses
+GitLab Employee Travles:
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
 1. Purchase incurred or travel booked
    * All travel should be booked through Trip Actions   
@@ -415,6 +416,14 @@ Before making a purchase of any type or booking travel for a customer project, b
 The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
 
 If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
+
+GitLab Partner Travels:
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
+The Project Manager or Project Coordinator will provide the partner the travel budget  
+Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details:
+     * Seperate line item for expenses on the invoice 
+     * One PDF document to include receipts for each expense
+Expenses are to be invoiced in the month in which they have incurred.
 
 #### Quarterly time tracking entry and approval workflow
 
