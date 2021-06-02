@@ -481,3 +481,98 @@ The Professional Services Team uses Mavenlink reports to track project and team 
 Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
 [Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+
+### Invoicing Process
+
+Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing system.  
+
+#### New Supplier Request Form
+* For new partners/vendors only
+* Partner/vendor must be approved in Coupa prior to submitting a Professional Services Request and Purchase Request forms
+* [How to Request a New Supplier Instructions](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)
+
+#### New Professional Services Request Form
+* This initiates the New Purchase Request form
+* [How to complete the Professional Services Request Form](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form)
+* Notes:
+   * Are any GitLab employees already performing this service?
+     For the most part, answer “no”
+   * After submitting the Professional Services Request Form, it will apply to your Cart.
+   * Go into the Review Cart section and enter the information on the purchase request with the Professional Services Request Form questions already populated and added to the purchase request.
+
+#### Purchase Request Form
+* [How to Create a Requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+* Notes:
+   * For Consulting, do not specify anyone for the “on behalf of” field. PS Project Coordinator will initiate the new purchase request.
+   * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
+* General Info section:
+   * Add Agreements in the Attachments
+      1- MSA
+      2- Partner SOW
+      3- DPA (if applicable)
+   * Vendor has access to red/orange data? field:
+     1- Will always have access to red data (select yes)
+     2- This will loop in Security as an approver.
+   * Vendor’s Security Contact Email:
+     1- This is an optional field.  (To be determined)
+* Cart Items section:
+   * Department:
+     1- Defaults to your user account setting.  Make sure that the department is correct for the invoice.
+     2- Consulting Delivery
+     3- Education Delivery
+   * Commodity = COGS consulting fees (GL account 5017)
+     1- Or Consulting fees (6017)
+   * Add Supplier
+   * Item:
+     1- Naming convention:
+        a- Consulting: <partner name>/ <customer name> / <Mavenlink workspace ID> 
+        b- Training:  <partner name> / <year month day> 
+     2- Unit Price: Entire the full amount on the Statement of Work
+     3- Need By: Specify a date prior to the consulting or training start date
+     4- Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)
+     5- Service Start Date: 
+        a- Consulting: Estimate the customer project dates
+        b- Training: Estimate of when we will start using the training funds
+     6- Service End Date:
+        a- Consulting: Estimate the customer project dates
+        b- Training: Estimate of when we will cap the training funds from being used
+     7- If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened
+     8- Payment Structure: 
+        a- Data entry convention - Consulting: Hourly rate/ or Fixed Price
+           Example: $###/hour
+           Example: $### Fixed Price
+        b- Data entry convention - Training:
+           Standard Course Delivery: Fixed Price
+           Pre-Configured Course Delivery:  Hourly Rate
+         Custom Course Delivery:  Hourly Rate
+         Example (standard course): $### per course
+         Example (pre-config or custom): $###/hour
+     9- Submit the purchase request for approval.
+     10- Follow up with internal approvers as needed.
+
+#### Purchase Order Process
+* After all approvers approve the purchase request, an associated Coupa PO will be created.
+* Partner/vendor invoice(s) will be filed against the PO.
+* Comments section: @ mention the partner invoicing A/R PoC to send invoice submission reminder
+* Project Coordinators will set up Customer Folder in the [Partner Folder](https://drive.google.com/drive/folders/1nAz1iD_iFSZolqNsV5bay_5IFogA_BmG), and include the following:
+   * Partner Fully Executed SOW
+   * [Partner Invoice Tracking Sheet](https://docs.google.com/spreadsheets/d/17OKORE1uJ9v8jsgJdAHnh4AUZ0cPZqo17AvozF9jBEk/edit?usp=sharing)
+     1- Set up with SOW amount
+     2- Link Fully Executed SOW
+
+#### Invoice Processing and Tracking
+CURRENT PROCESS VIA TIPALTI:
+* Project Coordinator receives email notification from Tipalti to review the partner submitted invoice.
+   * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
+* Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
+* If the invoice and timesheets align, then the invoice is approved.
+* If the invoice and timesheets do not align, then the invoice is returned to Accounts Payable, and the Project Coordinator follows up with the partner.
+* Project Coordinator updates the partner invoice funds tracking sheet to include the invoice number, date, and amount and saves a copy of the invoice in the Partner Folder.
+
+#### Sending Invoice Reminder to the Partner - each month end 
+* Within Mavenlink, go to Insights > Time & Expense Admin- Partners and then go to the Time Approvals by Project report.
+* Enter the Date Range and filter the GitLab User Type field for the partner that you wish to view.
+* Run the report, and export the report in Excel format by clicking on the gear icon on the top, right-hand side of the page and select Export to XLSX.
+* Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
+* Create a pdf version of the partner timesheet information.
+* Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
