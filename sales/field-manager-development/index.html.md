@@ -69,12 +69,12 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 ### Organizational and Team Health
 - Pre-work: Module 2 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Organizational & Team Health ([slides](https://docs.google.com/presentation/d/1GCufbe3ceV-ijUCWhqnDsg24185pZPpKPhBKXILzg6Q/edit?usp=sharing)) (GitLab internal only)
-- [Building Trust with Remote Teams with Dr. Jeb Burley from TrustMetryx](https://youtu.be/cBPAbuZo8Ns) (76 minutes) 
+- [Building Trust with Remote Teams](https://youtu.be/cBPAbuZo8Ns) with Dr. Jeb Hurley from [TrustMetryx](https://www.xmetryx.com/) (76 minutes) 
     - [Connecting the Human Dots](https://drive.google.com/file/d/1Hu3cCS8zyrhJrt5_vMC23cjRNi-IcaUA/view?usp=sharing) (slides)
     - GitLab Field Managers' [Cross Team TrustMetryx Experience Report](https://drive.google.com/file/d/1HjVb_LAYSJFgVNd7zcM9yd5TA6YoPfE2/view?usp=sharing)
     - GitLab Field Managers' [Your Manager TrustMetryx Experience Report](https://drive.google.com/file/d/1OWVgDArooTOGx2TZzZ56JHLXbZUO0rqb/view?usp=sharing)
-- [Five Dysfunctions of a Team with Denise Parsonage, People Business Partner](https://youtu.be/zewH5BzZ4l4) (17 minutes)
-- [Q2 Module 2 Wrap-Up with Michael Leutz](https://youtu.be/AFGYLmYjxFo) 
+- [Five Dysfunctions of a Team](https://youtu.be/zewH5BzZ4l4) with Denise Parsonage, People Business Partner (17 minutes)
+- [Q2 Module 2 Wrap-Up](https://youtu.be/AFGYLmYjxFo) with Michael Leutz (6.5 minutes)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
