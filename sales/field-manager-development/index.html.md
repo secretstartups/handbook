@@ -70,6 +70,9 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - Pre-work: Module 2 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Organizational & Team Health ([slides](https://docs.google.com/presentation/d/1GCufbe3ceV-ijUCWhqnDsg24185pZPpKPhBKXILzg6Q/edit?usp=sharing)) (GitLab internal only)
 - [Building Trust with Remote Teams with Dr. Jeb Burley from TrustMetryx](https://youtu.be/cBPAbuZo8Ns) (76 minutes) 
+    - [Connecting the Human Dots](https://drive.google.com/file/d/1Hu3cCS8zyrhJrt5_vMC23cjRNi-IcaUA/view?usp=sharing) (slides)
+    - GitLab Field Managers' [Cross Team TrustMetryx Experience Report](https://drive.google.com/file/d/1HjVb_LAYSJFgVNd7zcM9yd5TA6YoPfE2/view?usp=sharing)
+    - GitLab Field Managers' [Your Manager TrustMetryx Experience Report](https://drive.google.com/file/d/1OWVgDArooTOGx2TZzZ56JHLXbZUO0rqb/view?usp=sharing)
 - [Five Dysfunctions of a Team with Denise Parsonage, People Business Partner](https://youtu.be/zewH5BzZ4l4) (17 minutes)
 - [Q2 Module 2 Wrap-Up with Michael Leutz](https://youtu.be/AFGYLmYjxFo) 
 
@@ -81,7 +84,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 ### Giving Feedback and Coaching
 - Pre-work: Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
-- Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing))
+- Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing)) (GitLab internal only)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
