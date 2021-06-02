@@ -68,7 +68,10 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 ### Organizational and Team Health
 - Pre-work: Module 2 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
-- [Slides](https://docs.google.com/presentation/d/1GCufbe3ceV-ijUCWhqnDsg24185pZPpKPhBKXILzg6Q/edit?usp=sharing) (GitLab internal only)
+- Organizational & Team Health ([slides](https://docs.google.com/presentation/d/1GCufbe3ceV-ijUCWhqnDsg24185pZPpKPhBKXILzg6Q/edit?usp=sharing)) (GitLab internal only)
+- [Building Trust with Remote Teams with Dr. Jeb Burley from TrustMetryx](https://youtu.be/cBPAbuZo8Ns) (76 minutes) 
+- [Five Dysfunctions of a Team with Denise Parsonage, People Business Partner](https://youtu.be/zewH5BzZ4l4) (17 minutes)
+- [Q2 Module 2 Wrap-Up with Michael Leutz](https://youtu.be/AFGYLmYjxFo) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -77,7 +80,8 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCxct4CR-To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Giving Feedback and Coaching
-- Pre-work: Please complete Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey) before the session on 2021-06-02
+- Pre-work: Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
+- Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
