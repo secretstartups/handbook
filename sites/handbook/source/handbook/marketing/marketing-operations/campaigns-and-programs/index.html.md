@@ -642,7 +642,8 @@ Notes:
 
 
 #### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
-.<!-->Refer to this video for a walkthrough--video to be added.<--->
+[Refer to this video](https://www.youtube.com/watch?v=pjL1nNheheA&list=PL05JrBw4t0KrFeuJ4JbrDZKlp6gWX0uFf&index=6) for a walkthrough of the below steps.
+
 1. Ensure your list fits the criteria above.
 1. Navigate to the Marketo Program that you would like to add your DB1 list to.
 1. Under `Lists` folder, create a static list with the name `DB_List Push`. 
