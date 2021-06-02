@@ -41,7 +41,7 @@ The pipeline is scheduled to run every hour and scan the offboarding spreadsheet
 
 ### Scheduled offboarding issue creation
 
-Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Termination Effective Date` and `Termination Time PST` occurred within the past 15 minutes. For each row matching these criteria, it will perform the same actions as if a People Experience Associate ran `/pops run offboarding <id_in_BambooHR_URL>` (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
+Every 15 minutes, a pipeline scans the offboarding spreadsheet for rows where the `Garden Leave (Non-US) Start Date`/`Last Working Day (US only) Start Date` occurred within the past 15 minutes. If neither are specified, `Termination Effective Date` is used as a fallback. For each row matching this criterion, it will perform the same actions as if a People Experience Associate ran `/pops run offboarding <id_in_BambooHR_URL>` (see [Manually initiated offboarding issue creation](#manually-initiated-offboarding-issue-creation) and [Offboarding merge request](#offboarding-merge-request) sections).
 
 The manual process is kept as a backup process should the automation fail or for exceptional cases where a team member offboarding cannot be added to the offboarding spreadsheet.
 
