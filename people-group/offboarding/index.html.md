@@ -283,7 +283,7 @@ _Important Notes:_
 * You must use language in your exit meeting that is in no way forceful of the ex-team member to sign the agreement. Use phrasing such as “if you choose to sign”; “you have a right to have legal council review this document before you sign”, etc.
 
 
-### Team member leave during and investigation
+### Team member leave during an investigation
 
 For team members who will be placed on leave during an investigation please follow the process below:  
 
