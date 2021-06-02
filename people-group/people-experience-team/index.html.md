@@ -22,10 +22,10 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-04-02 | Public Holiday
-| 2021-04-05 | Public Holiday
-| 2021-04-16 | Family and Friends Day
-| 2021-05-28 | Family and Friends Day
+| 2021-06-25 | Family and Friends Day
+| 2021-07-05 | Public Holiday
+| 2021-09-06 | Public Holiday
+| 2021-09-19 to 2021-09-24 | [Contribute](https://web.cvent.com/event/aa9c9e95-4dda-4eea-91ec-a1ebecf42e8b/summary)
 
 
 ### OOO Handover Process for People Experience Team
