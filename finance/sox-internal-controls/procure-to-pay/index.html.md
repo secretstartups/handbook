@@ -19,6 +19,7 @@ Procure to pay is the process of requisitioning, purchasing, receiving, paying f
 |Applications|Primary Use|
 |-----|-----|
 |Tipalti|Accounts payable application|
+|Coupa|Procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. _Coupa is being rolled out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV._|
 |Netsuite|ERP system used by the Finance team to record the financial activity|
 |Trip Actions|Used to book travel and accommodation|
 |ContractWorks|Contracts are stored here|
@@ -42,9 +43,144 @@ This section outlines the various [procurement](/handbook/finance/procurement/) 
 All departments submit their yearly budgets to finance team for review, comment and eventually approval. These budgets include any planned purchases for items,  or software that the department needs. When someone initiates the procurement process, the procurement team reaches out to the Finance Business Partner to confirm whether that item or software is in the approved plan for that person’s department. If the item or software isn’t part of the approved plan, then this would need to go through a purchase approval process as per [authorization matrix](/handbook/finance/authorization-matrix/) **(P2P.C.01)**. 
 For more information on budget preparation and variance analyses, refer to [FP&A page here.](/handbook/finance/financial-planning-and-analysis/#expense-controls-and-improving-efficiency)
 
-##### Creating an issue for purchase request
+##### Creating a Purchase Request
 
-A confidential issue is to be created each time a person (the requestor) wants to purchase something on behalf of GitLab. An issue is created at least 60-90 days before the service/product is needed to allow for the best negotiations and terms. Issues are always created before agreeing to business terms / and or pricing. 
+There are **3 main conditions** that will determine the method of creating a Purchase Request:
+
+1. The [GitLab entity](/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure) of the request.
+1. The [request type](/handbook/finance/procurement/purchase-request-process/#how-do-i-open-a-purchase-request-issue) (if Software/SaaS, Field Marketing and Events or Professional Services and all other general contracts).
+1. The dollar amount.
+
+Depending on the conditions above, a Purchase Request can be created by:
+   - Submiting a Vendor Contract Request issue using GitLab template to begin the process.
+   - Creating a Requisition in Coupa.
+      - Learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/).
+
+##### When do I create a Purchase Request in Coupa?
+- If your request is for one of the US or Netherlands entities _(GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV)_.
+
+##### When do I create a Purchase Request issue in GitLab?
+- If your request is for any other GitLab entity _(GitLab GK, GitLab Korea Limited, GitLab UK Limited, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp., GitLab France SAS, GitLab Ireland Limited or GitLab Singapore Holding PTE LTD)_.
+
+##### Creating a Free-Form Requisition in Coupa
+
+- Click on the "Write a request" button on the homepage.
+- Complete the form with the following information:
+   - Item Description _(required)_<br>
+   - Choose if Amt (amount) or Qty (quantity)_(required)_<br>
+      - Amount should be selected for a service-based requisition.
+      - Quantity should be selected for an item-based requisition and Receiving of goods will be required.
+      - When Professional Services are bought together with a software, they should be added in different lines (since they will fall under different commodities). Software purchases are usually based in the amount and not the quantity.
+   - Supplier _(required)_<br>
+      - The supplier has to be onboarded into Coupa in order to be displayed in this dropdown. Check the _[How to Request a New Supplier](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)_ section for more information.
+   - Commodity _(required)_<br>
+   - Unit Price _(required)_<br>
+   - Currency _(required)_<br>
+   - Qty _(required if Qty-based)_<br>
+   - UOM _(required if Qty-based)_<br>
+   - Need by _(optional)_<br>
+   - Supplier Part Number _(optional)_<br>
+   - Manufacturer Name _(optional)_<br>
+   - Manufacturer Part Number _(optional)_<br>
+   - Service Start Date _(optional)_<br>
+   - Service End Date _(optional)_<br>
+   - Attachments _(optional)_<br>
+   - Write Multiple Request _(tick this box if you will create multiple lines)_
+- Click "Add to Cart" once completed.
+- Review your cart by clicking on the "Cart" button at the top of the page.
+   - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
+
+**REQUISITION HEADER LEVEL**
+
+- On Behalf Of _(optional)_<br>
+   - Use this to create a request on behalf of another user. The approval chain will update following the person selected as “on behalf of”. This user will then have to approve the invoice once received.
+- Description of Purchase _(optional)_<br>
+- Hide Price _(optional)_<br>
+   - Usually used by Procurement to hide Purchase Order price from the Vendor.
+- Attachments _(required)_<br>
+   - Add as many attachments as needed: Unsigned Contract, Previous Contracts and Security Documents.
+   - After uploading the documentation, check the "supplier" box if any specific document needs to be shared with the supplier.
+- Vendor has access to red/orange data? _(required)_<br>
+   - If the requestor is unsure about the type of data, tag the `@security` and `@procurement` groups in a comment before submitting the requisition for approval.
+   - Requisitions can be saved for later.
+- Vendor’s Security Contact Email _(optional)_<br>
+- Address _(required)_<br>
+   - Defaulted based on the user entity. Click on the magnifying glass icon to select or create a different address.
+- Attention (defaults from the User record).<br>
+
+**REQUISITION LINE LEVEL**
+
+- Line Item
+   - Click on this section to launch the edit mode and update line details as needed.
+- Greyed-out fields are non-editable.
+- Fields marked with a red asterisk are required fields.
+- Click Save to apply the changes.
+
+#### Creating a Punchout Requisition in Coupa
+
+1. On the Homepage Screen, click on any Punchout supplier located under Additional Stores section.
+1. Clicking on the Punchout link will take you to an approved supplier website where you start ordering your items, just like any online shopping experience.
+1. Start searching and add items to your cart.
+1. When done adding items in your cart, click “Checkout”.
+1. To go back to Coupa “Review Cart” screen, click “Transfer Shopping Cart”.
+1. Once in Coupa "Review Cart screen", **populate the required information such as the Commodity and Billing Account**.
+1. Review completeness of the requisition and click Submit for Approval.
+
+- It is recommended that users purchase via punchouts as often as possible. 
+- Don’t add multiple punchout suppliers to one requisition.
+{: .alert .alert-info}
+
+### Approving a requisition in Coupa
+
+Once all the required information (including the billing string) is populated on the cart, based on the system approval rules, the applicable approvers are displayed beneath the cart line.
+
+> The greater the amount of the requisition, the more approvers will be needed.
+
+**How to Add an Approver**
+- Click on the "Add" button.
+- Type in a few letters of the approver name and the system displays all possible entries. 
+   - New approver must be an existing user in Coupa.
+- Select if the person is to be added after the current approver, end of the chain, or only as a watcher.
+   - A watcher cannot approve or reject the cart but will receive notifications about the requisition.
+- At the bottom-right section of the review cart screen the user can:
+   - Save the Purchase Request but not keep it active in their Cart by clicking on “Save for Later”.
+      - The Purchase Request will be available on “Draft” status on the user’s “Activity” page under the ”Requisitions” section.
+   - Save the Purchase Request on their cart by clicking on “Save”.
+      - In this case the Purchase Request will be available on the requester’s “Cart” Icon (On the top right of the screen).
+   - Once the cart has been verified for correct information, the User can submit the cart for approval by clicking on the “Submit for Approval” button below the approval chain.
+
+#### Methods to Approve Transactions in Coupa
+
+There are several ways to approve transactions in Coupa:
+
+- **To Do’s** notification on the homepage screen
+   - To view the requisition/invoice/PO change request details, click on the subject line.
+   - The approver may add comments on the “Approval Comments” section before clicking on the Reject or Approve buttons.
+   - All approvers are displayed in the “Approvers” section.
+   - When rejected, a requisition goes back to “Draft” status, the requestor needs to make changes and re-submit. (Please, remember leave a comment about the rejection for the requester).
+      - When an invoice is rejected, it goes under “Rejected” status and the Accounts Payable needs to edit and resubmit the invoice (or void if necessary).
+- **Inbox**
+   - Users can access all their notifications through the “Inbox” section under “Account Name”.
+   - The User can change the report View to "To Do" to filter all notifications requiring action.
+- Via **Activity > “Transactional Tabs” > Requiring My Approval** view
+   - In each Activity transactional subtabs, users can change the report view to Requiring My Approval.
+- **Email**
+   - The approver receives a system-generated email notifying about the requisition or invoice as soon as a user submits the transaction.
+   - All the basic information is displayed on the email.
+   - The approver selects an appropriate action (View Req / Approve / Reject).
+      - The “View Req” option is a link to Coupa to see the transaction in the system.
+   - Once a choice is selected, an automatic email is created. The approver needs to send the e-mail for the approval to be made in Coupa.
+   - Once the e-mail is sent, the transaction will move to the next approver based on the approval chain in Coupa.
+      - If rejecting the Purchase Request, the approver should include a comment explaining the rationale for rejecting it.
+- **Coupa Mobile App**
+   - A mobile application of Coupa can be downloaded either at the Apple or Android stores. Once you download the app you need to sign-in as you normally would to the instance.
+   - The app allows you to do approvals for both Requisitions and Invoices:
+      - To Approve: Open the requisition or invoice notification, review the information, and approve.
+      - To Reject: Open the requisition or invoice notification, review the information, and reject.
+
+##### Creating a Purchase Request issue in GitLab
+
+A confidential issue is to be created each time a person (the requestor) wants to purchase something on behalf of GitLab (for any entity apart from US and Netherlands). An issue is created at least 60-90 days before the service/product is needed to allow for the best negotiations and terms. Issues are always created before agreeing to business terms / and or pricing. 
 
 There are 3 contract templates to be used, depending on the type purchase.
 
@@ -470,7 +606,7 @@ If the original contract has already been approved, but there is an addendum tha
 
 Introduction:
 
-This section outlines the various Accounts Payable (AP) activities at GitLab. GitLab uses Tipalti to pay invoices. All invoices must be approved by the respective business units, PAO (up to 100K USD), or CFO (beyond 100K USD)  as per the approval matrix and before any payments are made.
+This section outlines the various Accounts Payable (AP) activities at GitLab. GitLab uses Tipalti and Coupa Pay (as from June 1st 2021) to pay invoices. All invoices must be approved by the respective business units, PAO (up to 100K USD), or CFO (beyond 100K USD) as per the approval matrix and before any payments are made.
 
 
 **Vendor Registration on Tipalti**
@@ -516,7 +652,19 @@ This section outlines the various Accounts Payable (AP) activities at GitLab. Gi
 
   Once the Vendor information has been entered into Tipalti, the AP team requests approval to enable the Vendor for payment. The Reporting team will verify payment information and approve to enable the Vendor for payment.  Once the Vendor has become [Payable](https://docs.google.com/document/d/17S2rqTcfCM-fczYFY_2Req-eVBenLVTWeZoK926JeX0/edit) this will allow the AP team to start processing that vendor’s invoices.
 
-**Invoice Processing**
+**Vendor Registration in Coupa** 
+
+Coupa is a procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV.
+
+**How vendors are added into Coupa:**
+1. Any Coupa user can request a new supplier using the New Supplier Request form.
+   - Check [How to Request a New Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) for a detailed guide.
+1. Once the New Supplier Request is approved, an External Supplier Form will be automatically sent to the Supplier to gather additional information.
+   - Supplier must complete the form and submit it back.
+1. After supplier submission, the external form will be routed to Accounts Payable Approval Group for review and approval.
+1. After approval, the Supplier details will be integrated to NetSuite. Once the supplier is successfully created in NetSuite, it will flow back to Coupa to complete the New Supplier creation. By then, the Supplier should be available when creating Purchase Requests and Invoices.
+
+**Invoice Processing in Tipalti**
 
 * Step 1: Submitting of invoice by Vendor
 
@@ -548,7 +696,44 @@ This section outlines the various Accounts Payable (AP) activities at GitLab. Gi
 
   ***Controls being implemented: P2P.C.06, P2P.C.11, P2P.C.13***
 
-**Approval of the Invoice**
+**Invoice Processing in Coupa**
+
+Coupa is a Procurement and Invoicing Tool. Similarly to purchase requests for goods/services that must be initiated in Coupa, invoices are also created and approved in Coupa.
+
+For all issues created before Coupa go-live (June 1st 2021), the business will not be setting up Purchase Orders for those and the Accounts Payable team will manually enter the related invoices as Non PO-backed.
+{: .alert .alert-warning}
+
+Invoices in Coupa can be created via 4 different channels:
+- **Coupa Supplier Portal (CSP)**
+   - Free, Web-based portal specifically for suppliers.
+   - Suppliers receive POs within CSP Coupa inbox and perform PO Flips to Invoices and is able to see a complete history of all their POs/invoices.
+   - Once CSP invoices are submitted by the supplier, Coupa triggers the approval workflows.
+- **Supplier Actionable Notification (SAN)**
+   - Suppliers act directly (flip PO to invoice) from Coupa PO SAN email.
+   - No need to register for/sign into Coupa/CSP, free service available any suppliers (with email). 
+- **cXML**
+   - For “high-touch” suppliers (e.g. Amazon, CDW) with cXML invoicing capability to receive POs and transmit invoices directly.
+   - Works well in conjunction with punchouts.
+- **Manual Entry in Coupa UI**
+   - “Flip PO” option copies data from Coupa PO to pre-populate invoice fields for faster entry.
+   - Non PO backed invoice manual entry.
+
+For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). The Accounts Payable team will evaluate on an invoice by invoice basis which goes into Coupa and which will go into Tipalti. If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others.
+{: .alert .alert-warning}
+
+**Disputing an Invoice in Coupa**
+
+The invoice dispute process in Coupa enables the Accounts Payable team to request corrections on invoices from suppliers.
+
+Invoices in "AP Hold", "Pending Action", "Pending Receipt", "On Hold", "Pending Approval" or "Rejected" statuses can be Disputed to the supplier for corrections. Disputing an invoice requires a dispute reason and sends an email notification to the supplier contract on record and any additional listed recipients.<br> 
+Once disputed, an invoice can be Withdrawn from Dispute by Accounts Payable or Voided; or Resolved by the supplier.
+{: .alert .alert-warning}
+
+**Rejecting an Invoice in Coupa**
+
+The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before routing them to internal approval once again.
+
+**Approval of the Invoice in Tipalti**
 
 * Step 1: Invoice is sent to the business for approval
 
@@ -570,7 +755,7 @@ This section outlines the various Accounts Payable (AP) activities at GitLab. Gi
 
   ***Controls being implemented: P2P.C.12***
 
-**Payment of the Invoice**
+**Payment of the Invoice in Tipalti**
 
 * Step 1: Preparing an invoice for payment*
 
@@ -656,6 +841,35 @@ This section outlines the various Accounts Payable (AP) activities at GitLab. Gi
     *  The AP account [total](https://docs.google.com/document/d/1EieFKrBgOkZLTBSCJadFHz4d3_QoJrjSC4GvuljvuOo/edit) should tie with the aging report total.
 
   This [file](https://docs.google.com/document/d/1g6iKJnNJPcIjyr5-5mWKCTot_zIp0S9qe5ORXlxWPK8/edit) is then loaded onto FloQast for review, and the Senior Accounting Operations Manager works with the AP specialist to investigate all the open balances **(P2P.C.17)**.
+
+**Payment of the Invoice in Coupa**
+
+Supplier Payment Accounts (SPAs) are required in order to pay suppliers from Coupa Pay.
+
+There are four different ways that suppliers will be able to provide their payment information:
+- **Smart Onboarding Form**: Native Coupa capability within the Coupa Supplier Portal that will allow supplier to capture their banking information.
+- **SIM (Supplier Information Management) Form**: Whenever GitLab onboards a new supplier, as part of the External Form, there is a section to capture the vendor's remit to information, along with their bank account information. _(This is where the majority of GitLab suppliers will be providing their banking information)_.
+- **Coupa Supplier Portal (CSP) Legal Entity Section**: Mostly used if a supplier is changing their bank account information or needs to make any updates. The vendor is able to manage that directly within their Coupa Supplier Portal profile and either add a new legal entity (which will be associated with a new bank account) or adjust an existing one.
+- **Invoicing Section**: If for some reason, a supplier is submitting their first invoice and they have not provided their banking information before they are creating their first invoice, that will create a new supplier payment account in Coupa.
+
+After the supplier submit their supplier payment account information, it will come into Coupa automatically and create a supplier payment account record.
+
+If the supplier is going through the SIM process, then the approval for that supplier payment account will occur directly on the SIM External Form, and AP won't have to go into the supplier payment accounts object and approve it.
+{: .alert .alert-info}
+
+**Creating a Batch in Coupa**
+
+- Only Invoices in the “Ready to Pay” status can be utilized to create a batch.
+- Invoices can be removed from payment by Coupa Pay using the slider button under "Actions" _(in case a supplier is selected for Coupa pay but need to be paid out of NetSuite, switch their payment method to ERP)_.
+- The “Pay from Account” (Company Payment Account or CPA) will be automatically defaulted based on the Chart Of Accounts. The CPA can be adjusted manually by selecting the dropdown. 
+   - The “Pay to Account” (Supplier Payment Account or SPA) will be defaulted based on the Remit-To entered on the invoice.
+
+**Approving a Batch in Coupa**
+
+- Approval chains are generated before a payment batch can be released. 
+
+**Segregation of Duties:** The creator of the Batch cannot be the releasor of the same batch regardless of the permissions they have.
+{: .alert .alert-info}
 
 **Employee Advances**
 
