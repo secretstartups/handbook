@@ -300,7 +300,7 @@ If you're not familiar with some of the business acronyms, take a bit of time to
 The value of the CEO Shadow Program comes from the [broader context](#goal) you'll gain and the interesting conversations you'll witness.
 
 Since your rotation is over a short period of time, there are no long-term tasks you can take on.
-However, there are many short-term administrative tasks you'll be asked to perform as shadow. Here are some examples:
+However, there are many short-term administrative tasks you'll be asked to perform as a shadow. Here are some examples:
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
 Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
@@ -341,7 +341,7 @@ Once an MR has been opened, post in the `#ceo-shadow` channel.
 
 #### Types of meetings
 
-There are three types of meetings one the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. Please note, the program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
+There are three types of meetings on the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. Please note, the program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
 
 ##### GitLab Meetings
 {:.no_toc}
@@ -482,7 +482,7 @@ Tips:
 1. Put Zoom in "gallery mode" so you can see all participants (rather than only the person currently speaking). This allows everyone to see the entire audience which creates a more inclusive environment and fosters better communication.
 1. If you aren't sure where meeting attendees are in a Google document, click on their face or initials in the upper-right side of the window. Doing this will cause your cursor to jump to wherever their cursor is in the document.
 1. It can be challenging to coordinate with the other shadow on who is taking notes at any point in time. Consider agreeing with the other shadow to "show your hands" in Zoom to indicate that you are not currently taking notes.
-1. Sometimes people will provide some color or context before providing the main point. Consider listening to the first setence before documenting to ensure you are capturing main points instead of what they are saying verbatim.
+1. Sometimes people will provide some color or context before providing the main point. Consider listening to the first sentence before documenting to ensure you are capturing main points instead of what they are saying verbatim.
 1. Observe how Sid takes notes as a guide to the level of detail and summarization.
 
 ##### Keeping time
@@ -917,7 +917,7 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 ### Airfare
 
 Airfare can be booked according to our [travel policy](/handbook/travel/#booking-travel-and-lodging) or [spending company money](/handbook/spending-company-money/) policy.
-In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadow because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
+In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
 #### Rideshare from airport
 
