@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Read-Mostly Data"
 description: "Blueprint for read-mostly data"
-canonical_path: "/company/team/structure/working-groups/database-scalability/read-mostly"
+canonical_path: "/company/team/structure/working-groups/database-scalability/read-mostly.html"
 ---
 
 ## On this page
