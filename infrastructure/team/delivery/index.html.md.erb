@@ -108,7 +108,7 @@ The following members of other functional teams are our stable counterparts:
 ## Performance indicators
 
 Delivery team contributes to [Engineering function performance indicators] through [Infrastructure department performance indicators].
-Team's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
+The team's main performance indicator is [**M**ean **T**ime **T**o **P**roduction][MTTP] (MTTP), which serves to show how quickly a change introduced through a Merge Request
 is reaching production environment (GitLab.com).
 At the moment of writing, the target for this PI is defined in this [key result][KI lower MTTP] epic.
 
@@ -145,6 +145,7 @@ Working epic should always have:
 1. [Directly responsible individuals][DRI] responsible for the project completion.
 1. Start and due date.
 1. Defined exit criteria.
+1. Status YYYY-MM-DD to indicate what is being worked on, why, and planned next steps.
 
 In cases where the work is tracked in a project in a different group outside of our canonical project location, we will create two epics for the same topic and state in the epic description which one is the working epic.
 
@@ -177,9 +178,9 @@ sequenceDiagram
   participant proposal as workflow-infra::Proposal
   participant ready as workflow-infra::Ready
    triage ->> proposal: 1
-Note right of triage: Problem has been<br/> identified and a  possible solution <br/> has been proposed.
+Note right of triage: Problem has been identified and a  possible solution has been proposed.
    proposal ->> ready: 2
-Note right of proposal: Proposal has been<br/>discussed and scoped.<br/>Issue is ready to implement.
+Note right of proposal: Proposal has been discussed and scoped. Issue is ready for prioritization.
 ```
 
 Not every issue will be prioritised for building as soon as it is ready. Instead we manage a [Build board] with all `workflow-infra::In Progress`, and `workflow-infra::Ready` issues focused on the team's current goals.
@@ -219,7 +220,7 @@ The Delivery team uses priority labels to indicate order under which work is nex
 | Delivery::P3 | Issue should be completed once other urgent work is done. |
 | Delivery::P4 | **Default priority**. A nice-to-have improvement, non-blocking technical debt, or a discussion issue. Issue might be completed in future or work completely abandoned. |
 
-The team uses priority labels different to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
+The team uses priority labels differently to the [general issue triage priority definition](/handbook/engineering/quality/issue-triage/#priority) in order to avoid ambiguity that comes with difference in timelines between Stage teams and Infrastructure teams. We have different timelines (release brings different expectations for Delivery), different DRI's (no PM for Delivery), and different importance (Blocked release means that no one can ship anything).
 
 #### Other Labels
 
@@ -234,7 +235,7 @@ Project labels are defined as needed, but they are required unless the issue des
 
 ### Choosing something to work on
 
-The Delivery team generally has working epics assigned to specific owners who are responsible for bring tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
+The Delivery team generally has working epics assigned to specific owners who are responsible for bringing tasks into the [Planning board] and [Build board] to keep the project on track. However, anyone is welcome to pick up any tasks from the Build board regardless of which project it belongs to.
 If you want to work on something outside of your current project, feel free to contribute to any of the mid to lower priority labeled issues.
 
 ## Project demos
