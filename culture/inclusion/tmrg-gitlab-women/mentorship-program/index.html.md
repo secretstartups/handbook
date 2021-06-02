@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Women at GitLab Mentorship Program"
 description: "Mentorship opportunities for women at GitLab sponspored by a partnership between the Women TMRG, GitLab Learning and Development team, and the GitLab DIB team"
-canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program"
+canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/"
 ---
 
 ## Women at GitLab Mentorship Program 
