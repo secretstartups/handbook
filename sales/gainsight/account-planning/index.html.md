@@ -117,8 +117,26 @@ _Note: Only 5,000 Accounts can be tracked at at time. To request an account be a
 - [Gainsight Kickoff and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
 - [How a Gainsight Rep Uses Gainsight](https://youtu.be/lnEkbLnxs-8)
 
+
 **Getting Started with Gainsight** 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/3bc8692532e94a37ba693c14e36d1d8a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
 **Completing the Account Snapshot in Gainsight**
 <div style="position: relative; padding-bottom: 69.76744186046511%; height: 0;"><iframe src="https://www.loom.com/embed/09f6d86b58f042da860185fe947814c9" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+
+**Whitespace Mapping with Gainsight**
+<div style="position: relative; padding-bottom: 68.18181818181819%; height: 0;"><iframe src="https://www.loom.com/embed/1da3c252c8f34e74a145cf964e4fb29e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+**Whitespace Mapping Visuals with Gainsight**
+<div style="position: relative; padding-bottom: 68.18181818181819%; height: 0;"><iframe src="https://www.loom.com/embed/3463bbf34da64343821df1b0c7f302eb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+**Relationship and Influence Mapping with Gainsight**
+Coming Soon! 
+
+
+**Creating the Action Plan with Gainsight**
+<div style="position: relative; padding-bottom: 68.18181818181819%; height: 0;"><iframe src="https://www.loom.com/embed/6ce45c18843743b88ec7554863792266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
