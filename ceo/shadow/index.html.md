@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-05-24 | 2021-05-28 | [Melissa Ushakov](https://gitlab.com/mushakov) - Sr. Product Manager - Manage:Access| [Joshua Lambert](https://gitlab.com/joshlambert) - Director of Product, Enablement |
 | 2021-06-01 | 2021-06-04 | April Malone - Sijbrandij Personal EA | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
 | 2021-06-07 | 2021-06-11 | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial | April Malone - Sijbrandij Personal EA |
 | 2021-06-14 | 2021-06-18 | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial |
@@ -1034,3 +1033,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-04-30 | 2021-05-07 | [Jacie Bandur](https://gitlab.com/jbandur) | Learning & Development Generalist | [CEO Shadow takeaways from Jacie](/blog/2021/05/18/ceo-shadow-recap/) |
 | 2021-05-03 | 2021-05-14 | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | Backend Engineer, Product Intelligence | |
 | 2021-05-10 | 2021-05-21 | [James Komara](https://gitlab.com/ja-me-sk) | Area Sales Manager | |
+| 2021-05-17 | 2021-05-28 | [Joshua Lambert](https://gitlab.com/joshlambert) | Director of Product, Enablement |
