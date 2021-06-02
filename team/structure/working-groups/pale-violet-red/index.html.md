@@ -47,4 +47,5 @@ This Working Group has the following goals:
 | Security Functional Lead    | | |
 | Infrastructure Functional Lead  | Igor Wiedler | Staff Site Reliability Engineer |
 | Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
-| Team member | Wayne Haber | Director Engineering |
+| Member | Wayne Haber | Director Engineering |
+| Member | Grzegorz Bizon | Staff Backend Engineer, Verify |
