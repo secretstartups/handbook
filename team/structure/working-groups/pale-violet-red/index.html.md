@@ -49,3 +49,4 @@ This Working Group has the following goals:
 | Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
 | Member | Wayne Haber | Director Engineering |
 | Member | Grzegorz Bizon | Staff Backend Engineer, Verify |
+| Member | Joanna Shih | Quality Engineering Manager, Ops |
