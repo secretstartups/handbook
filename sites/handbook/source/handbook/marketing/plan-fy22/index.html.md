@@ -272,9 +272,66 @@ While the majority of GTM Motion work will take place asynchronously, aligned to
 {: #interlocked-teams}
 
 <!-- DO NOT CHANGE ANCHOR -->
-To be built upon through FY22, this section will be comprised of process related to collaboration and commitment (making sure nobody burns out, and we all run in the same direction).
+Interlocking the teams across marketing will help foster the most collaborative and effective results. This section outlines specific processes and concepts for the activities we drive in Marketing.
 
-To begin with, we will have a bi-weekly "scrum of scrums" call with the CMO staff, Core Team captains, Field Marketing and ABM to ensure sharing of great team learnings as well as keeping each other on track.
+The plans should be made in a collaborative manner to address in advance potential bandwidth contraints and discuss commitment from teams.
+
+### Corporate Marketing
+{: #interlock-corporate-marketing}
+<!-- DO NOT CHANGE ANCHOR -->
+In advance of a quarter, the Corporate Team will outline for the GTM Motions an update on upcoming events, their anticipated audience, and elements of the event. This will help the GTM teams to understand opportunities available to test messaging, promote demos and content, etc.
+
+*These corporate events are high investment, and also high return, and this will show in the results of the GTM Team.*
+
+Upon communication of the events, a GTM Team will commit to the event and be responsible for supporting all requested issues.
+
+A core need from the GTM Team is to develop IN ADVANCE a **cohesive** experience from the first email invitation or ad, to the final email follow up and SDR outreach.
+
+These events are a great opportunity to test new messaging, discuss new product features and functionality, and share feedback across the teams to implement to overall marketing strategy and messaging as relevant. In some cases, we will have messaging that worked well in the past that we want to leverage again, and review and revise as needed.
+
+**Responsibilities: Produt Marketing**
+* Write cohesive event-specific messaging and positioning across event (emails, landing pages, ads, booth, promotional assets, etc.)
+* Consult on topics, content, and activities at the event to engage the right personas and segements
+   - example: for AWS re:Invent, PMM define the target personas, and suggest activities and topics to engage those personas
+* Review email and landing page copy for technical accuracy and consistent messaging/positioning
+* 60 second pitch (in collaboration with TMM)
+* Recruit speakers for sponsored speaking sessions
+* Outline virtual booth content
+* Define survey questions, when necessary for virtual booths
+
+**Responsibilities: Campaigns Team**
+* Email communication and invitation strategy 
+* Review email communications, including invitations and follow up, for conversion best practices (subject lines, format, CTAs, design)
+* Define follow up strategy via lead nurturing to heat up to MQL
+* (Verticurl Agency) Tactical email setup in Marketo
+* (Verticurl Agency) Tactical addition to nurture programs, until automated in revamped nurture Q3 FY22
+
+**Responsibilities: Technical Marketing**
+* Contribute to content to be used in virtual booth
+* Define demo for booth
+* 60 second pitch (in collaboration with PMM)
+
+**Responsibilities: Digital Marketing & ABM**
+* Digital Marketing: Digital Ads Strategy (Paid Search, Paid Social)
+* ABM: Demandbase ABM targeting
+   - For design isssue, is that opened by ABM
+
+**Responsibilities: Brand**
+* Support design and collateral needs
+* Confirm cohesive brand experience throughout experience (from ads, to landing pages, to emails, etc.)
+
+**Responsibilities: Content Marketing**
+* Write email copy, aligned to overall messaging
+
+**Responsibilities: Marketing Operations**
+* Advise on Marketo program type when questions arise (taking into account scoring and program progression statuses)
+* List upload(s) to Marketo programs
+* Confirm Last Interesting Moments trigger appropriately, and leads increase in score based on automated scoring model
+* (Verticurl Agency) Tactical setup of Marketo program and Salesforce
+* Setting up Drift chatbot and tracking to set meetings in advance
+* In-booth meeting setting processes
+* Landing page setup (or digital experience?)
+   - updated process needs to be defined
 
 ### GTM 4x2 - Strategy by Sales Segment
 {: #gtm-4x2}
