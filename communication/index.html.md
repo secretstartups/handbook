@@ -787,6 +787,7 @@ It is better to cancel than to show up and not pay attention.
 On the other hand, not every part of a meeting is relevant, but it can sometimes be helpful to have more people in a call.
 If you only have one discussion point, if possible, try to reorder the meeting agenda to have your point first and then drop from the call.
 If you get asked a question when you're not paying attention, it is an okay use of time to repeat a question every now and then.
+If you opt-in to attend a live learning session or training hosted by internal or external facilitators, you should strive to pay attention to the entire session. Multitasking can lead to [fewer results and missed information](https://hbr.org/2010/12/you-cant-multi-task-so-stop-tr#:~:text=Based%20on%20over%20a%20half,by%20as%20much%20as%2040%25.), creating a potentially negative impact on the effectiveness of the training. 
 
 We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time at GitLab.](/handbook/communication/#scheduling-meetings)
 
