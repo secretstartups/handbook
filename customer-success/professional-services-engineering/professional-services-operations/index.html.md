@@ -399,7 +399,7 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 
 #### Project Expenses
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
 1. Purchase incurred or travel booked
    * All travel should be booked through Trip Actions   
 1. PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
