@@ -433,7 +433,7 @@ Occasionally, some blog posts are better suited to publishing natively by the au
 
 Please see the [publishing process](/handbook/marketing/blog#publishing-process) before you get started.
 
-To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post). **If you choose to use Netlify CMS you likely won't need to know all the formatting in this section so feel free to [skip ahead](#when-youre-ready-to-create-your-blog-post).** 
+To publish to the blog, you will need to create a merge request for the www-gitlab-com project with a file of your blog post content formatted in Markdown. There are a few ways to go about this outlined [below](#when-youre-ready-to-create-your-blog-post). **If you choose to use Netlify CMS you likely won't need to know all the formatting in this section so feel free to [skip ahead](#when-youre-ready-to-create-your-blog-post).**
 
 Please read through the [Markdown guide](/handbook/markdown-guide/) for reference.
 
@@ -761,7 +761,7 @@ There are two steps to include these: Designate what merch sidebar and banner to
 
 #### Merch sidebar
 
-To add a merch sidebar to your blog post, you need to designate it in the front matter. We are in the process of implementing Netlify CMS to publish blog posts. Currently merch sidebars will not display on your blog posts. [Read more here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1069). 
+To add a merch sidebar to your blog post, you need to designate it in the front matter. We are in the process of implementing Netlify CMS to publish blog posts. Currently merch sidebars will not display on your blog posts. [Read more here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1069).
 
 #### Merch banner
 
@@ -1084,10 +1084,10 @@ There are three ways to create a blog post MR:
   <iframe src="https://www.youtube.com/embed/A5_RIEYyIjo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
- 
+
 ### Preparing blog posts privately
 
-Currently, it is not possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing. 
+Currently, it is not possible to prepare a confidential blog post without forking the www-gitlab-com project. We avoid this because forking is not straightforward for all contributors and it doesn't allow us to use review apps to preview the post before publishing.
 
 We have an [issue open to explore implementing functionality in Netlify CMS that would allow us to stage and preview posts](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149) before triggering a commit to GitLab.com. In the meantime, please leave a comment in your issue to let us know if the information in your proposed blog post is under embargo (e.g., a company announcement) and whether you need assistance staging the post in private. Please see below for details about how we prepare blog posts privately.
 
@@ -1101,7 +1101,7 @@ If your blog post issue is confidential, please don't create an MR using the but
 **Note that your MR will not be confidential**. If information is under embargo it is best to prepare the blog post in a Google Doc or locally and create the MR ~1 hour ahead of publish time to keep the blog post private. This is to allow time for pipelines to pass before the post is live. Just give the branch and MR generic names to avoid drawing attention to them.
 
 **For time-sensitive announcements** we recommend finding out from #production on Slack who the [Engineer On Call](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) will be at the time you are hoping to publish, so you can give them a heads up about the plans and you know who to contact on the day if there are any production issues with GitLab.com.
- 
+
 Feel free to give a thumbs up to [this feature request for confidential MRs](https://gitlab.com/gitlab-org/gitlab/-/issues/222404) and [this issue exploring implementing private staging in Netlify CMS](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1149).
 
 ### Creating a blog post MR from the UI
@@ -1289,11 +1289,33 @@ Make sure that the image path is correct (i.e. it begins with `/images/blogimage
 
 It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
 
+## What team members have permission to publish to the main GitLab blog?
+
+### Who can publish to the main blog?
+
+All content that is published to the [main GitLab blog](/blog) must be carefully vetted to ensure the information shared is accurate, credible, [consistent with our values](/handbook/values/), and accurately represents the GitLab brand. The [editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/), which manages the GitLab blog, is tasked with this responsibility. Oftentimes, this responsibility involves [connecting with internal stakeholders on the partner marketing, corporate marketing, and legal teams to ensure the content has been vetted](/handbook/marketing/inbound-marketing/content/editorial-team/#process-for-blog-posts-that-require-approval).
+
+Before publishing, a blog post **must be reviewed by a member of the editorial team**, or, if the editorial team member is out of the office, a member of the content team. Once the appropriate reviewer has edited and approved the content, the editorial team member can add the blog post to the merge train, which means it is in the queue to publish.
+
+**Only members of the editorial team may publish to the main blog**. [As stated in the blog post merge request template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/blog-post.md), if the editorial team member you were working with is out of office or otherwise unavailable and your post is time sensitive, ping the #content channel on Slack to ask a content marketing team member to review and publish the blog post. Announcements may be reviewed and published by members of the corporate marketing team. Otherwise, no blog may be published to the main blog without being reviewed by an editorial or content team member. The authority to publish rests with this team.
+
+### Why can only content team members click publish?
+
+[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog pitches, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published to the main blog must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
+
+The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) – anyone can give input, but the editorial team will decide. Publishing content to the main blog that has not been copy edited or vetted by content marketing and/or corporate marketing team members may expose the brand to unnecessary risk and violates the DRI principles. The editorial team should have reviewed each piece of content before it is published to the main GitLab blog.
+
+### But what if my blog post is time sensitive?
+
+If you have a priority blog post that is time sensitive, indicate this by [applying the `priority` label to your blog post issue](/handbook/marketing/inbound-marketing/content/editorial-team/#labels). In the issue, provide justification for why the blog post should be prioritized ahead of all others in the queue.
+
+Tag the reviewer from the editorial team in a comment on the issue that explains the time sensitive nature of the blog post. If an editorial team member is not available to review and/or merge the blog post, reach out to the #content team on Slack and ask for a team member to review and merge.
+
 ## When your blog post has been published
 
-Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels. 
+Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels.
 
-You should promote your content too! Please see the Social Marketing handbook for [Team member social media guidelines](/handbook/marketing/social-media-guidelines/#team-member-social-media-guidelines). 
+You should promote your content too! Please see the Social Marketing handbook for [Team member social media guidelines](/handbook/marketing/social-media-guidelines/#team-member-social-media-guidelines).
 
 You can also view the below [How to Make Your Content Work Harder for You](https://docs.google.com/presentation/d/1RPSkAWtXtWfbuoHD9D1iSdt5o1d7a4MA5QPGjGeFFXM/edit?usp=sharing) training from Corporate Communications:
 <!-- blank line -->
