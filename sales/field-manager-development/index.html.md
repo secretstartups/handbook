@@ -86,6 +86,10 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 - Pre-work: Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing)) (GitLab internal only)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z3_-_RFjfmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P5YuiwNQ87Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
