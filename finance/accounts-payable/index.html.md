@@ -11,7 +11,7 @@ title: "Accounts Payable"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page contains GitLab's Accounts Payable department policies, procedures and guidelines. Our goal is to enable payments in a timely manner to both our team members and our external partner. We also provide useful links to other areas of the handbook that are relevant to the Accounts Payable procedures. 
+This page contains GitLab's Accounts Payable department policies, procedures and guidelines. Our goal is to enable payments in a timely manner to both our team members and our external partners. We also provide useful links to other areas of the handbook that are relevant to the Accounts Payable procedures. 
 
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Introduction
@@ -51,11 +51,11 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
    - Ensure that your vendor has fully onboarded themselves in Coupa or Tipalti.
    - Ensure that your vendor has invoiced to the correct GitLab entity. AP cannot process an invoice unless it is addressed to the entity selected in the issue or PO. If a new invoice is required, AP will reach out to the issue/PO owner and request that they obtain a new invoice from the vendor.
    - Further more, AP cannot process an invoice unless the correct VAT has been included on the invoice - per the entity that the vendor is invoicing to.
-  If you are sure that all of these things have been done correctly, please ask the vendor to contact the AP team directly, via email _ap@gitlab.com_
+-  If you are sure that all of these things have been done correctly, please ask the vendor to contact the AP team directly, via email _ap@gitlab.com_
 
 2. I do not know which system to push my vendor to?
    - Any vendors for Inc, Federal, IT BV and BV will be processed with a PO in Coupa as of June 2021.
-   - All other entities will continue to be processed and paid through Tipalti until we implement phase 2 of Coupa, in fall of 2021. This includes Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore
+   - All other entities will continue to be processed and paid through Tipalti until we implement phase 2 of Coupa, in fall of 2021. This includes Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore.
    - More information can be found on the [Procure to Pay](/handbook/finance/accounting/#procure-to-pay) page. 
 
 3. How do I submit an expense report? And, when will it get paid?
@@ -63,7 +63,7 @@ Welcome to Accounts Payable, commonly referred to as AP.  You should be able to 
    - Reports are paid out on varying timelines depending on which country you are located in. This is also detailed on the [Expense page](/handbook/finance/expenses/).
 
 
-## <i class="far fa-file-invoice-dollar" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> AP Processing Systems
+## <i class="fas fa-file-invoice"></i> AP Processing Systems
 
 ### <i class="far fa-flag" id="biz-tech-icons"></i> Coupa is Here!
 
@@ -77,7 +77,7 @@ All other entities will also switch over to Coupa in subsequent phases during th
 
 ### <i class="far fa-flag" id="biz-tech-icons"></i> Tipalti
 
-Tipalti is an invoice processing and payment system that we have been using since 2019. We will continue to use Tipalti for invoice processing and payments for all remaining entities until phase 2 of Coupa is implemented. 
+Tipalti is an invoice processing and payment system that GitLab has been using since 2019. We will continue to use Tipalti for invoice processing and payments for all remaining entities until phase 2 of Coupa is implemented. 
 
 Invoices for Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore entities can be sent to *ap@gitlab.com* and/or *gitlab@supplierinvoices.com*. Vendors can also upload their invoices directly to Tipalti through their supplier portal. 
 
