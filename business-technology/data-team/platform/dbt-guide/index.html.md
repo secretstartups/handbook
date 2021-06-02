@@ -71,7 +71,7 @@ Note that many of these steps are done in the [onboarding script](https://gitlab
 ### Venv Workflow
 {: #Venv-workflow}
 
-Recommend workflow for anyone running a Mac system. 
+Recommended workflow for anyone running a Mac system. 
 
 #### Using dbt
 
