@@ -215,9 +215,9 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 
 ## Chief of Staff Shadow
 
-The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff.
+The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff in the #chief-of-staff-team channel. The CoST will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities. 
 
-If you are interested in participating in the Chief of Staff Shadow program, open a merge request to add your name to the below table, assign to yourself and slack the `#chief-of-staff-team` for review and merge.
+Once a project or initiative to Shadow has been identified and the team member decides to participate, the team member should open a merge request to add their name to the below table. The MR should be shared through slack in `#chief-of-staff-team` for review and merge.
 
 |  Start Date | End Date | First & Last Name | GitLab Handle |
 | --- | --- | --- | --- |
