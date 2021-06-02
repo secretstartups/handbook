@@ -63,7 +63,7 @@ All meetings on Sid's calendar should be scheduled and vetted by the EBA to the 
 1. After an E-Group offsite, block at least 50 minutes to handle slack, emails, etc
 
 ### Prep Calls for Customer/Prospect Meetings
-1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. A [Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) needs to be provided by the Sales team member at the time of requesting the meeting in order to schedule with the CEO. 
+1. Prep calls for Sales meeting should be scheduled for 10 minutes by default. An [Internal Customer Briefing Document](https://docs.google.com/document/d/1hyA12EN5iEwApAr_g4_-vhUQZohKxm5xkX9xxZ1JNog/edit?usp=sharing) and an [External Collaboration Doc](https://docs.google.com/document/d/18Ds04BicQCZ5J7gKU0K4AA-iq0l9YMRTLLsPBjlUJto/edit#heading=h.1cyxs0j01dk1) needs to be provided by the Sales team member at the time of requesting the meeting in order to schedule with the CEO. 
 1. The account team including a Solutions Architect or Product Manager should always be included on the invite for both the prep meeting and the external meeting with the customer or prospect. 
 
 ### Calendar blurb for External Meetings with the CEO
