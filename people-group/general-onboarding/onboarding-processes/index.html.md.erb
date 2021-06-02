@@ -383,6 +383,14 @@ The People Experience Associate will then create an onboarding issue with a Chat
 1. Update if applicable the title with the Specialty as the bot does not add the Specialty so it must be manually added.
 1. If the manager is not automatically assigned and listed in the issue, add them. It could be because the employee's manager uses a name in GitLab that is very different from the one in BambooHR, and they don't use their `@gitlab.com` email ID as the primary email ID in GitLab. They will then manually need to be assigned.
 1. Copy and paste the link into the People Exp/Ops Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Experience and People Operation Specialist Teams due to personal information.
+1. Once the onboarding issue has been opened, the Empployment Bot will ping the manager in the issue if no Baseline Entitlement Access Request exists. In the event that a manager pings the Bot/People Experience Associate that one does exist (usually providing a link to the correct template), follow the steps below:
+  1. is the role template title == the team member's role
+  1. is the role template’s department folder == the team member's department
+  1. is the role template specified on speciality level and == the team member's specility the same
+  - Open the team members BambooHR profile and verify the above
+  - If the Access Request template can be used for the specific team member, add the role to the [Shared Components file](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/shared_components.yml)
+  - Assign the merge request for the shared components file to IT OPs Manager to review and merge. Once merged, this will ensure that the template is created by day 2 (if merged before then)
+1. If a Baseline Entitlement Access Request exists, this will be [automatically](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#access-request-issue-creation) opened by the Bot on day 2. 
 1. If you are part of the People Experience team, IT Ops team, new team members's manager or onboarding buddy please note there are additional steps to complete directly in the new hire's onboarding issue in the 'Before Starting at GitLab' section.
 
 ### People Experience Pre-Start Onboarding Tasks
