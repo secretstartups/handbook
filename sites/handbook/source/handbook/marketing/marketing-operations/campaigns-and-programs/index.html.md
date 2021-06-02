@@ -631,6 +631,7 @@ Notes:
 
 ### Checklist before initiating push to Marketo:
 1. Check your list type. DB1 can only pass `person` lists, not `account` lists. 
+1. Make sure your list filters contain `Compliance Segment Value` not equal to `Do Not Email` or `Default`
 1. Check your numbers on the list. The following applies:
     - Any list over 10k - you need opps approval to send - tag @amy.waller in the issue if you need to send over 10k 
     - Please try to not include over 100 people at a single account to avoid triggering SPAM filters at that account
