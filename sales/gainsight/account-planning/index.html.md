@@ -135,7 +135,13 @@ _Note: Only 5,000 Accounts can be tracked at at time. To request an account be a
 
 
 **Relationship and Influence Mapping with Gainsight**
-Coming Soon! 
+<div style="position: relative; padding-bottom: 71.57057654075547%; height: 0;"><iframe src="https://www.loom.com/embed/1d5cfe4374bc40d2b2dddd0dee43a387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+
+**Relationship and Influene Multi-Maps with Gainsight**
+<div style="position: relative; padding-bottom: 71.57057654075547%; height: 0;"><iframe src="https://www.loom.com/embed/3e04070f7f9a47babb5b5cb6a3838741" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
 **Creating the Action Plan with Gainsight**
