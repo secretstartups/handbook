@@ -45,6 +45,6 @@ This Working Group has the following goals:
 | Facilitator           | Sam Goldstein         | Director Engineering, Ops |
 | Development Functional Lead  | Stan Hu | Engineering Fellow |
 | Security Functional Lead    | | |
-| Infrastructure Functional Lead  |  | |
+| Infrastructure Functional Lead  | Igor Wiedler | Staff Site Reliability Engineer |
 | Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
 | Team member | Wayne Haber | Director Engineering |
