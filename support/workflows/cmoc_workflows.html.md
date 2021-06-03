@@ -217,10 +217,12 @@ Take special note of the changes made to the following fields at this stage.
 
 1. `Current State` - Change this to `Monitoring`.
 1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include:
+
    - a note that *All systems are online and currently fully operational*.
    - an estimate for when you'll leave the "monitoring" state.
    - **Example**:
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
+
 1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state.
 
 #### Resolved
