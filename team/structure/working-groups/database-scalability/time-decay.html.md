@@ -2,7 +2,7 @@
 layout: markdown_page
 title: "Time-Decay Data"
 description: "Blueprint for time-decay data"
-canonical_path: "/company/team/structure/working-groups/database-scalability/time-decay"
+canonical_path: "/company/team/structure/working-groups/database-scalability/time-decay.html"
 ---
 
 ## On this page
