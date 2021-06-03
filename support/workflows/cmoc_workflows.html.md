@@ -205,10 +205,10 @@ When it comes time to close an incident out as resolved, the following flow will
 
 1. Switch to a monitoring state for a time.
 1. Resolve the incident.
-1. Notify internal stakeholders of the resolution.
-1. Add a link to the post-mortem issue to the incident.
+1. Notify the E-Group that the incident is resolved.
+1. Add a link to the production issue to the post-mortem section of the incident.
 
-Closing an incident out has two stages, `Monitoring` and `Resolved`. Once the affected component is back to operating normally a monitoring period should begin where we switch an incident over to `Monitoring` where it remains open for ~30 minutes to ensure that the issue does not recur. We then mark it `Resolved` once we're confident the issue will not recur, which closes the incident.
+As noted in the specific sections below, some of these steps are situational and may not be used for every incident.
 
 #### 1. Begin Monitoring (Situational)
 
@@ -220,7 +220,7 @@ If a monitoring period will be used simply edit the incident, and configure the 
 
 Take special note of the changes made to the following fields at this stage.
 
-1. `Current State` - Change this to `Monitoring`.
+1. `Current State` - Change to `Monitoring`.
 1. `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
 
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
@@ -229,15 +229,14 @@ Take special note of the changes made to the following fields at this stage.
 
 #### 2. Resolve Incident
 
-Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
+Once we're confident that systems have returned to normal operation, **the IMOC has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
 
-![Incident announcement in Slack](/images/support/cmoc_incident-slack-thread.jpg){: .shadow}
+Once these conditions are met, make an update to the incident and change the following fields.
 
-Once we have confirmation from the IMOC that the incident can be resolved, make an update to the incident and change the following fields.
-
-1. `Current State` - Change this to `Resolved`
-1. `Details` - Our message here should include a definitive statement that the issue has been resolved and that the affected component is back to operating normally. We should also aim to again include a link to the relevant issue in the production issue tracker so that any users who missed previous updates know where to go for more info.
-1. `Incident Status` - Change this field to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" is checked. Double check the [status.gitlab.com page](https://status.gitlab.com).
+1. `Current State` - Change to `Resolved`.
+1. `Details` - State that the issue has been resolved and that systems have returned to operating normally. Be sure to also include a link to incident issue even if you've already done so in previous updates so that any users who missed them know where to go for more info.
+1. `Incident Status` - Change to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" box is checked.
+1. Double check the [status page](https://status.gitlab.com) to make sure everything looks good.
 
 Before resolving the incident your draft should look similar to the following:
 
