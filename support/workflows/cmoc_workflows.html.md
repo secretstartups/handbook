@@ -204,7 +204,7 @@ The two stages of the resolution process are covered in their respective section
 
 #### Monitoring
 
-> **Note**: The IMOC may request monitoring status is skipped.
+> **Note**: The IMOC may request that the monitoring phase is skipped.
 
 To start the monitoring period, edit the incident, and configure the update similar to the following.
 
