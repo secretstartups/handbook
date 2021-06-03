@@ -23,8 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| June 3 | Q2 FY22 Competitive Update 1 |    Aleeta Bell  |
-| Jun 10 | DevOps Platform Sales Play |      |
+| Jun 10 | Account Planning Office Hours |  Kris Reynolds    |
 | Jun 17 | Q2 FY22 Product Update |    Brian Glanz  |
 | Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
 | Jul 1  | ServiceNow & GitLab Integration |  |
@@ -42,6 +41,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-06-03 | **[Q2 FY22 Competitive Update](https://youtu.be/TtisyWQ9rE8)** |  Private |
 | 2021-05-27 | **[GitOps Infrastructure Automation Sales Play](https://youtu.be/aXg3zGg54sg)** |  Private    |
 | 2021-05-20  | **[Office Hours for Gainsight & Account Planning](https://youtu.be/lnEkbLnxs-8)** | Private   |
 | 2021-05-13 | **[Sales Ops Update - Docusign Rollout](https://youtu.be/Dch4zaUQOeg)** |    Private  |
