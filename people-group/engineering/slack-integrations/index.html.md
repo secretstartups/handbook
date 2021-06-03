@@ -26,6 +26,13 @@ team members and the number of years they are celebrating at GitLab.
 Currently, the pipeline is scheduled to be run at 10:00 AM UTC on every
 Thursday.
 
+#### Birthday announcements
+
+Every monday morning, a scheduled pipeline is configured to automatically send a message
+congratulating team members celebrating their birthday that week to the
+`#celebrations` Slack channel. Only team members who have opted-into GitLab birthdays
+on their Slack profile will be listed in the congratulatory message.
+
 #### Parental Leave Welcome Back
 
 A scheduled pipeline runs every day to check who's coming back from parental leave in 3 days.
