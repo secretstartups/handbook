@@ -314,6 +314,13 @@ When the peer-review is complete, content should be switched on by the content c
 
 ### Sharing content
 
+Content can be shared either using the `Share` or `Restrict` options. The key difference between each method is outlined below:
+
+| Method | User Experience | Usage Example |
+| ----- | ----- | ----- |
+| `Share` | User gets a notification about content | The content creator wants the user to know about new learning they can take or they are required to take |
+| `Restrict` | User does not get a notification about content | The content creator wants to provide access to learners, but does not want to trigger a notification or plans to share in a different way, like a Slack announcement |
+
 #### Using groups
 
 Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group:
