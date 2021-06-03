@@ -334,6 +334,11 @@ Examples of when not to quarantine a test:
 
 - Test failure is environment-related (`~"failure::test-environment"`), and neither the application code nor test code are the cause of the failure
 - A merge request to fix the failure will be ready for review within 24 hours
+- A flaky smoke test.
+  - The `:smoke` tag should be removed from the test to prevent it running with the `smoke` suite, but still allowed to run elsewhere while the flakiness is under investigation or being worked on to unblock deployment.
+  - Create an issue to follow up and restore the `:smoke` tag as soon as possible. Tests at the `:smoke` level should be given priority when addressing flakiness within our test suites.
+  - Create a `# TODO` note in the test as a reminder with a link to the previously created issue url. For example:
+    - `# TODO restore :smoke tag and close https://gitlab.com/gitlab-org/gitlab/-/issues/######`
 
 > **Note** The time limit for the fix is just a suggestion.
 > You can use your judgement to pick a different threshold.
