@@ -618,7 +618,7 @@ Follow the timeline below to help you do peliminary reserach in identifying the 
   - Look at Release Post Item MRs found in the `www-gitlab-com` project
     - Sort by MRs labeled ~"release post item::primary"
     - Compare the release post primary items with your priviously shortlisted features and update accordingly.
-    - Consider taking an extract of the MRs labeled release-post every day between the 11th and 18th. This gives you a good way to do vlookups and identify which MRs have slipped and categorize the release post items into themes. Around the 14th, you will start seeing the themes coming together. Here is an [example](https://docs.google.com/spreadsheets/d/1lYD9IEXFHu0ouxOae4gJ91EewedN2Kr2P0otb6ivYuE/edit#gid=1210198461).
+    - Consider taking an extract of the MRs [labeled release-post](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?label_name%5B%5D=release+post) every day between the 11th and 18th. This gives you a good way to do vlookups and identify which MRs have slipped and categorize the release post items into themes. Around the 14th, you will start seeing the themes coming together. Here is an [example](https://docs.google.com/spreadsheets/d/1lYD9IEXFHu0ouxOae4gJ91EewedN2Kr2P0otb6ivYuE/edit#gid=1210198461).
   - Based on your short listed features, draft 4-5 potential themes in your Release Feature Story Planning Doc.
   - NOTE: Features may slip to the next release.
     - Watch the release post [preview page](https://about.gitlab.com/releases/gitlab-com/). Features posted there have been introduced on GitLab.com and are less likely to slip.
