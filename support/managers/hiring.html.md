@@ -59,8 +59,7 @@ Assessments (and answers) for all Support job families are available in the [peo
 When reviewing an assessment:
 1. Use the rubrik for the assessment that was sent along to determine if they passed or not.
 2. Review their CV, Cover Letter and any attached documentation. Does this person possess the background and skills to succeed in your role?
-3. Fill out the scorecard with any comments. Keep in mind that all fields are optional with the exception of the "Overall Recommendation".
-If you're unable to offer an evaluation of an area you may leave it blank.
+3. Fill out the scorecard.  Refer to the [private project](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) for guidelines.
 
 ### Technical Interviews
 The technical interview process is documented in the [Support Team project](https://gitlab.com/gitlab-com/support/tech-interview/se-interview). Follow the instructions there to conduct this interview. Take any notes in Greenhouse and make a note if you are inclined or not inclined to hire. Your role in the interview process for this candidate is complete!
