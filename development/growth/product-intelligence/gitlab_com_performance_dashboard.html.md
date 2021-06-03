@@ -31,11 +31,10 @@ This can answer questions such as:
 * Is performance correlated to the amount of page hits?
 * Where is most of the time spent in terms of components of the web pages loading?
 
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 790506, chart: 10800614, embed: 'v2') %>">
-
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 790506, chart: 10889514, embed: 'v2') %>">
-
-<embed width="49.7%" height="300" src="<%= signed_periscope_url(dashboard: 790506, chart: 10964702, embed: 'v2') %>">
+<iframe
+  src="https://app.periscopedata.com/app/gitlab/790506/gitlab.com-performance-per-snowplow-dashboard?widget=10800614&udv=0"
+  style="width:49.7%; height:300px;"
+></iframe>
 
 ### Graph: Per hour for the last 2 weeks
 
