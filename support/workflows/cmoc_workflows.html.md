@@ -105,7 +105,7 @@ The following steps should be taken immediately after receiving a PagerDuty page
 1. Acknowledge the PagerDuty page.
 1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
-1. Notify the GitLab Social team, if necessary.
+1. Notify internal stakeholders, if necessary.
 1. Resolve the PagerDuty page.
 
 #### PagerDuty Status
