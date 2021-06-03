@@ -28,6 +28,12 @@ From 2020-12-18 we will do a daily check to see if any new Parental leave PTO wa
 - One with the status `End of Parental Leave` with the date the end of the PTO event
 - One with the status `Active` with the date the end date of the PTO event + 1
 
+## Sensitive data compliant PTO by Roots export
+
+Every week, a scheduled job queries all PTO events occurring during a ±4 week time frame. Sensitive information (eg. the _type_ of PTO taken) is then filtered out from these PTO events. The compliant data is then uploaded to a Google Cloud Storage bucket for the data analytics team to consume.
+
+The data team then makes a subset of this information available via Sisense to allow team members to create more accurate charts for metrics like _number of merge requests per team member over a 30-day period_.
+
 ## Set closed training issues to confidential 
 
 Once per day, closed issues in the [training project](https://gitlab.com/gitlab-com/people-group/Training) are automatically marked as confidential for compliance.
