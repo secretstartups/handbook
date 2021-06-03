@@ -43,7 +43,7 @@ For positions that are included in the GitLab Hiring Plan, the Talent Acquisitio
 1. If a requisition can be located anywhere GitLab hires, check `Anywhere` next to `Office`. If a vacancy is dedicated to a certain region or time zone, uncheck the `Anywhere` box and select any of the predetermined regions or time zones. If a region or time zone is not shown in the list, please reach out to the [Recruiting Ops Team](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new). In addition to the region or time zone you've selected, it's recommended to also choose `Remote` so that it's clear to applicants that the vacancy is both located in a particular area but also still remote.
 1. Click `Generate IDs` to create a requisition ID
 1. Under `Employment Type`, select if your vacancy is a _Full-Time_, _Part-Time_, _Intern_, or _Contract_ role. We strongly advise offering both full-time and part-time options for most requisitions. Please note that _Contract_ refers to a true consultant, who works on short-term projects. This is seldom used.
-1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
+1. `Salary` will be input by the Total Rewards Team. The salary can be found in the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/), which is available to all team members and advanced candidates.
     - Take the `benchmark x level x 0.45` for the low end and `benchmark x level x 0.8` on the high end.
     - For roles not in the compensation calculator: Leave blank if not known. The Total Rewards team will edit as the first level of approval. The Total Rewards will pull survey data in San Francisco for this role then apply the same formula for `0.45` on the low end and `0.8` on the high end.
 1. Scroll down to the `Openings Secton`
@@ -101,7 +101,7 @@ For positions that are included in the GitLab Hiring Plan, the Talent Acquisitio
 1. Scroll to the bottom of the page and click `Request Approval`.
 1. You'll be redirected to the vacancy in Greenhouse, where you can review the vacancy, make any changes, or make any updates.
 
-**Setup Child Epic, Weekly Check-In Issue, and Kick-Off Issue**
+#### Setup Child Epic, Weekly Check-In Issue, and Kick-Off Issue
 
 1. Create a Child Epic in the Talent Acquisition Project Project. Child Epics should be created in the correct Functional Parent Epic:
 Title: Function: Job name, Greenhouse req/opening number
@@ -110,19 +110,19 @@ Labels: Division and Department
 1. Open up a [kick-off issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/issues/new) and attach to the Child Eric
 1. Open a [weekly check-in issue](https://gitlab.com/gl-talent-acquisition/req-intake/-/blob/master/.gitlab/issue_templates/weekly-check-in.md) and attach to the Child Epic.
 
-#### Kick-off & Finalize Greenhouse Setup (DRI: Recruiter)
+### Kick-off & Finalize Greenhouse Setup (DRI: Recruiter)
 
 **The Recruiter will:**
 
-**Complete the Kick-Off**
+#### Complete the Kick-Off
 
 1. Schedule a [Kick-off Session](/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session) or complete a-sync with the Hiring Team.
-1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](https://about.gitlab.com/jobs/careers/)
+1. Notify the CES Team inside the kickoff issue so the job can be published to the [Careers Page](/jobs/careers/)
 
-**Post the job internally**
+#### Post the job internally
 
 1. Create or update the `Job Post` under `Job Setup`, which will hold the vacancy description. Next to the name of the vacancy, click the pencil icon to edit the job post.
-To view the full job description, view our handbook (insert job family url). The compensation calculator can be found through [this url](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/).
+To view the full job description, view our handbook (insert job family url). The compensation calculator can be found through [this url](/handbook/total-rewards/compensation/compensation-calculator/calculator/).
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
     - `Job Name` - if only internal candidates will be considered for the role, job title should read "CURRENT TEAM MEMBERS ONLY - Job Name"
     - `Post To` should always be `Internal`.
@@ -144,12 +144,17 @@ Additional details about our process can be found on our [hiring page](/handbook
 1. Click `Save`.
 1. If there is an _External Job Post_, please **delete** it by clicking the ellipsis (`•••`), then `Delete`.
 1. Click the red button to publish the vacancy to our internal job board.
-1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. Slack message template:
+1. After publishing, announce on Slack in `#new-vacancies` for team members to apply or send in referrals. 
+
+```
+Slack message template:
+
 New Job Alert: TITLE
 Apply internally: LINK
 Review how to make a referral: /handbook/hiring/referral-process/
+```
 
-**Update the Scorecard**
+#### Update the Scorecard
 
 1. Update the `Scorecard` after the kick-off Session. The attributes are typically split up into various categories, such `Requirements` (copied from the job family), `Responsibilities` (copied from the job family), `Skills`, `Traits`, and `Values` (standard across all roles, see additional info in the next step).
     - These can be adjusted as needed, but **every** attribute listed should be a must-have and not a nice-to-have.
@@ -167,7 +172,7 @@ Review how to make a referral: /handbook/hiring/referral-process/
 1. To edit the attributes within a category, click `Edit` next to the category. You can then change the name of attributes, delete attributes, add brand new ones, or choose existing attributes from other vacancies. Keeping the attribute names the same and choosing existing attributes from other vacancies is recommended so that the attribute choices remain streamlined. However, if you have a particular attribute for this role that needs to be evaluated, don't hesitate to add it.
 1. Click `Save` once you've configured your attributes and categories. If you don't want to save your changes after you've clicked `Edit` under a category, click `Cancel`.
 
-**Update the Interview Plan**
+#### Update the Interview Plan
 
 1. Update the `Interview Plan` after the Kick-off Session.
 1. Every vacancy should have an `Get to Know Us` stage. This is also known as Application Review by the Greenhouse Milestone.
@@ -210,7 +215,7 @@ Review how to make a referral: /handbook/hiring/referral-process/
     - On occasion, there may be additional or fewer stages than represented here, but these stages should be consistent as much as possible in order to maintain data integrity for reporting. The interviews within the stages can be adjusted as needed.
     - If a candidate will have more interviews in a stage than predetermined, you can add additional interview events as long as the candidate is in the stage where you need to add the additional event.
 
-**Update the Hiring Team**
+#### Update the Hiring Team
 
 1. Update the `Hiring Team` after the Kick-off Session.
 1. The Hiring Team is where you select who will be working on this vacancy and what access they should have.
@@ -219,15 +224,15 @@ Review how to make a referral: /handbook/hiring/referral-process/
     - Search for every person who will be in the hiring process, whether they will be grading assessment, reviewing new applications, or performing interviews.
     - You may need to go back to the interview plan to add the interviews if it did not let you add them before completing this step.
 
-**Update Notifications**
+#### Update Notifications
 
 1. Review notifications and ensure they align to the preferences of you and the hiring team.
 
-#### Publish the Job to the Careers Page & Review Greenhouse Configuration (DRI: CES Team)
+### Publish the Job to the Careers Page & Review Greenhouse Configuration (DRI: CES Team)
 
 **The Candidate Experience Team will:**
 
-1. Post the vacancy to the [Careers Page](https://about.gitlab.com/jobs/careers/) once they receive notice from the recruiter.
+1. Post the vacancy to the [Careers Page](/jobs/careers/) once they receive notice from the recruiter.
 1. Review the configurations the Talent Acquisition Manager and Recruiter made and ensure everything is correct; reach out to them to ask clarifying questions if there is anything you don't understand or if there is anything missing.
 1. Ensure each stage is labeled correctly for reporting purposes:
     - Get to Know Us
@@ -248,7 +253,7 @@ Also, if this is your first time conducting interviews on behalf of GitLab I wi
 As always, If you have any questions let me know!
 Thanks, xxx
 
-#### Reqs going Outbound to Inbound (DRI: CES Team)
+### Reqs going Outbound to Inbound (DRI: CES Team)
 
 Once it's been decided that the req is ready to go inbound, the recruiter should tag CES in the req. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
 
