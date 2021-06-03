@@ -37,11 +37,11 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 
 **PROVE**
 
-- **Product**: License + User + Feature + Consumption - 40% weighting
-- **Risk**: TAM Sentiment + Oppty risks - up to 50%
-- **Outcomes**: Success Plan + ROI + Verified Outcomes - 20%
-- **Voice**: Support + Services + Surveys + Digital - 20%
-- **Engagement**: customer + executive - 20%
+* Product: License activation + User engagement + Use Case - 40% weighting
+* Risk: TAM Sentiment + Opportunity Renewal risks - up to 50%
+* Outcomes: Success Plan + Verified Outcomes - 20%
+* Voice: Support + Surveys - 20%
+* Engagement: Customer Engagement + Executive Sponsorship + Events + Certifications - 20%
 
 
 ![PROVE Value](/handbook/customer-success/vision/images/customer-health-score-vision.jpeg)
@@ -52,22 +52,19 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 | -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
 | **Product**    | License Activation         | Licenses assigned                                            | Indicator of seat reduction / expansion                      | License utilization                                          | All              | 50%          |
 | **Product**    | Adoption (User)            | Monthly Active Users                                         | Are users logging in and using the product?                  | UMAU / Activated Licenses UMAU / Licenses Sold               | All              | 50%          |
-| **Product**    | Adoption (Feature)         | Key feature usage                                            | Is the customer using important, or sticky features?         | Penetration of: % MR users % issue users                     | All              | 10%          |
 | **Product**    | Adoption (Use Case)        | Use Case adoption                                            | Is the customer adopting use cases and progressing into “stickier” areas of GitLab? | SCM —> CI —> DevSecOps adoption                              | All              | 30%          |
-| **Product**    | Consumption                | Consumption pricing                                          | If applicable, is the customer consuming purchased storage or CI minutes? | *TBD*                                                        | SaaS             | Not started  |
 | **Risk**       | TAM Sentiment              | The sentiment as determined by the TAM, if applicable        | What has the TAM determined from cadence calls?              | TAM Sentiment                                                | TAM owned        | 100%         |
-| **Risk**       | Opportunity Risks          | Similar to the Clari score, if an Oppty is sufficiently progressing | We need input on whether the Oppty is progressing or stalled | SFDC pushes Stage progression Oppty activity                 | All              | Not started  |
+| **Risk**       | Opportunity Renewal Risks          | Similar to the Clari score, if an Oppty is sufficiently progressing | We need input on whether the Oppty is progressing or stalled | SFDC pushes Stage progression Oppty activity                 | All              | Not started  |
 | **Outcomes**   | ROI Success Plan           | Ensure the ROI Success Plan is aligned to customer           | A missing or poorly constructed Success Plan highlights a lack of alignment between GitLab and customer desired outcomes. | Green Success Plans Delivered EBRs                           | TAM owned        | 100%         |
 | **Outcomes**   | Verified Business Outcomes | Completed Success Plan Objectives                            | Failed or missed PBOs can be a sign of distress; successful PBOs can highlight renewal expansion | Successfully completing at least one VO each year            | TAM owned        | Not started  |
-| **Outcomes**   | Reference Customers        | The customer is a reference customer and frequently speaks up for GitLab | This is a good measure to know that a customer speaks on our behalf with case studies, calls, etc. | Is listed as a reference customer and has performed at least one action in the last year | All              | Not started  |
 | **VoC**        | Support - Escalations      | Severity 1 or 2 tickets                                      | If there are severity 1 or 2 tickets, that can indicate unhappiness or frustration | Measure if there are Sev1 tickets in the last 180 days or Sev2 tickets in the last 90 days | All              | Not started  |
 | **VoC**        | Support - Engagement       | Customer sends in tickets                                    | Determining if the customer is engaged with Support          | Retain existing methodology, but tweak to allow more tickets as a good thing | All              | 100%         |
 | **VoC**        | Support - CSAT             | Customer completes CSAT surveys and provides feedback        | Is the customer giving feedback and what are the scores (response + outcomes) | Benchmark a minimum XX% response rate for green health and provide CSAT results to TAM | All              | Not started  |
 | **VoC**        | Surveys                    | The customer responds to and provides high scores            | Because surveys are a good indicator of the customer’s perception of the product and company; this can | Survey responses rates + survey scores                       | All              | Not started  |
-| **Experience** | Engagement                 | Recency of TAM cadence call                                  | Lack of customer engagement                                  | Date of last TAM cadence call                                | TAM owned        | 100%         |
-| **Experience** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | TAM owned        | Not started  |
-| **Experience** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
-| **Experience** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
+| **Engagement** | Engagement                 | Recency of TAM cadence call                                  | Lack of customer engagement                                  | Date of last TAM cadence call                                | TAM owned        | 100%         |
+| **Engagement** | Executive Sponsorship      | Are stakeholders aligned and communicating?                  | Lack of alignment and communication can indicate a disconnect between execs and ROI | Recency of aligned stakeholder communication                 | TAM owned        | Not started  |
+| **Engagement** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
+| **Engagement** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
 
 
 
