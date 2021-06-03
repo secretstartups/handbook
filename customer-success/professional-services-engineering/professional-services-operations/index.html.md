@@ -489,48 +489,47 @@ TO DO
    * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
 * General Info section:
    * Add Agreements in the Attachments  
-      1- MSA  
-      2- Partner SOW  
-      3- DPA (if applicable)  
+      * MSA  
+      * Partner SOW  
+      * DPA (if applicable)  
    * Vendor has access to red/orange data? field:   
-     1- Will always have access to red data (select yes)  
-     2- This will loop in Security as an approver.  
+      * Will always have access to red data (select yes)  
+      * This will loop in Security as an approver.  
    * Vendor’s Security Contact Email:  
-     1- This is an optional field.  (To be determined)  
+      * This is an optional field.  (To be determined)  
 * Cart Items section:
    * Department:  
-     1- Defaults to your user account setting.  Make sure that the department is correct for the invoice.  
-     2- Consulting Delivery  
-     3- Education Delivery  
-   * Commodity = COGS consulting fees (GL account 5017)  
-     1- Or Consulting fees (6017)  
+      * Defaults to your user account setting.  Make sure that the department is correct for the invoice.  
+      * Consulting Delivery  
+      * Education Delivery  
+   * Commodity = COGS consulting fees or Consulting fees   
    * Add Supplier
    * Item:  
-     1- Naming convention:  
-        a- Consulting: partner name / customer name / Mavenlink workspace ID   
-        b- Training:  partner name / year month day   
-     2- Unit Price: Entire the full amount on the Statement of Work  
-     3- Need By: Specify a date prior to the consulting or training start date  
-     4- Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)  
-     5- Service Start Date:  
-        a- Consulting: Estimate the customer project dates  
-        b- Training: Estimate of when we will start using the training funds  
-     6- Service End Date:  
-        a- Consulting: Estimate the customer project dates  
-        b- Training: Estimate of when we will cap the training funds from being used  
-     7- If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.  
-     8- Payment Structure:   
-        a- Data entry convention - Consulting: Hourly rate/ or Fixed Price  
-           Example: $###/hour  
-           Example: $### Fixed Price  
-        b- Data entry convention - Training:  
-           Standard Course Delivery: Fixed Price  
-           Pre-Configured Course Delivery:  Hourly Rate  
-         Custom Course Delivery:  Hourly Rate  
-         Example (standard course): $### per course  
-         Example (pre-config or custom): $###/hour   
-     9- Submit the purchase request for approval.  
-     10- Follow up with internal approvers as needed.  
+      * Naming convention:  
+        * Consulting: partner name / customer name / Mavenlink workspace ID   
+        * Training:  partner name / year month day   
+     * Unit Price: Entire the full amount on the Statement of Work  
+     * Need By: Specify a date prior to the consulting or training start date  
+     * Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)  
+     * Service Start Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will start using the training funds  
+     * Service End Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will cap the training funds from being used  
+     * If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.  
+     * Payment Structure:   
+        * Data entry convention - Consulting: Hourly rate/ or Fixed Price  
+           * Example: $###/hour  
+           * Example: $### Fixed Price  
+        * Data entry convention - Training:  
+           * Standard Course Delivery: Fixed Price  
+           * Pre-Configured Course Delivery:  Hourly Rate  
+         * Custom Course Delivery:  Hourly Rate  
+         * Example (standard course): $### per course  
+         * Example (pre-config or custom): $###/hour   
+     * Submit the purchase request for approval.  
+     * Follow up with internal approvers as needed.  
 
 #### Purchase Order Process
 * After all approvers approve the purchase request, an associated Coupa PO will be created.
@@ -539,8 +538,8 @@ TO DO
 * Project Coordinators will set up Customer Folder in the [Partner Folder](https://drive.google.com/drive/folders/1nAz1iD_iFSZolqNsV5bay_5IFogA_BmG), and include the following:
    * Partner Fully Executed SOW
    * [Partner Invoice Tracking Sheet](https://docs.google.com/spreadsheets/d/17OKORE1uJ9v8jsgJdAHnh4AUZ0cPZqo17AvozF9jBEk/edit?usp=sharing)  
-     1- Set up with SOW amount  
-     2- Link Fully Executed SOW  
+      * Set up with SOW amount  
+      * Link Fully Executed SOW  
 
 #### Invoice Processing and Tracking
 CURRENT PROCESS VIA TIPALTI:
