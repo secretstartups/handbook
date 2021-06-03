@@ -15,13 +15,6 @@ description: "Effective discovery is critical to thoroughly understanding custom
 # Overview 
 Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcast to improve your discovery effectiveness.
 
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/102385"
-  style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
-
 # Qualification
 The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**. 
 
@@ -95,20 +88,6 @@ Commit to [active and effective listening](/handbook/communication/#effective-li
 </figure>
 <!-- blank line -->
 
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/102379"
-  style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
-
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/140420"
-  style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
-
 ### Master [Command of the Message](/handbook/sales/command-of-the-message)
 Command of the Message is a proven, value-based sales messaging methodology from Force Management that allows GitLab sales team members to effectively uncover customer needs and articulate value and differentiation. Leverage the below resources to ensure you are confident in the methodology and the GitLab-tailored sales resources created to help you be successful and delight your customers.
 - [Command of the Message Handbook page](/handbook/sales/command-of-the-message)
@@ -137,13 +116,6 @@ Resist the urge to prematurely talk about or begin to position GitLab until you 
 ## Not Attaching to the Biggest Problem 
 You must have a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and goals to be able to serve as a trusted advisor. These will almost assuredly relate to one or more [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issues.
 
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/123519"
-  style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
-
 ## Failing to Identify the Negative Consequences of Doing Nothing
 Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
 
@@ -158,9 +130,18 @@ Sales multi-threading refers to the concept of engaging and developing relations
 - [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/)
 - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
 
-<!-- blank line -->
-<iframe
-  src="https://embed.sounder.fm/play/123514"
-  style="width:100%; height:200px;"
-></iframe>
-<!-- blank line -->
+
+# Supplemental Resources
+
+**Overall Discovery**
+- [Executing Great Discovery](https://theaudible-readypodcast.sounder.fm/episode/33-executing-great-discovery-w-brian-walsh) podcast (31 minutes)
+
+**Active Listening**
+- [Improve Your Active Listening Skills](https://theaudible-readypodcast.sounder.fm/episode/improve-your-active-listening-skills-w-patrick-mc) podcast (15 minutes)
+- [Why Are You Talking?](https://theaudible-readypodcast.sounder.fm/episode/why-are-you-talking) podcast (9 minutes)
+
+**Attaching to the Biggest Problem**
+- [How to Enable Reps to Sell Higher](https://theaudible-readypodcast.sounder.fm/episode/decision-process-brian-walsh) podcast (27 minutes) 
+
+**Multi-Threading**
+- [Navigating the Decision Process with Multiple Buyers](https://theaudible-readypodcast.sounder.fm/episode/decision-process) podcast (11.5 minutes)
