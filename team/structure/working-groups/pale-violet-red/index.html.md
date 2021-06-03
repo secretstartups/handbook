@@ -50,3 +50,6 @@ This Working Group has the following goals:
 | Member | Wayne Haber | Director Engineering |
 | Member | Grzegorz Bizon | Staff Backend Engineer, Verify |
 | Member | Joanna Shih | Quality Engineering Manager, Ops |
+| Member | Charl de Wit | Security Manager, Trust and Safety |
+| Member | Roger Ostrander | Senior Security Engineer, Abuse Operations |
+| Member | Alex Groleau | Interim Manager, Security Automation |
