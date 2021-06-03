@@ -125,13 +125,29 @@ The following are definitions of the health status options:
 
 - `No Status` – If the status is left blank, we are unsure on the likelihood of an issue shipping. This is usually only before an issue has been picked up.
 - `On Track` - The issue has no current blockers, and is likely to be completed in the current milestone.
-- `Needs Attention` - The issue is still likely to be completed in the current milestone, but there are setbacks or time constraints that could cause the issue to miss the release due dates.
-- `At Risk` - The issue is highly **unlikely** to be completed in the current milestone, and will probably miss the release due dates.
+- `Needs Attention` - This signals that the DRI of the issue requires collaboration it might impact planned delivery.
+- `At Risk` - The issue is **unlikely** to be completed in the current milestone and will probably miss the release due dates.
 
-Examples of how status updates are added:
-1. If an engineer picks up an issue at the start of a milestone, the `On Track` health status will be applied.
+Health Statuses can also be used in conjuntion with milestone board to communicate a variety of statuses. Here are some situations and how health status 
+and workflow labels can work together to communicate information on the probability of an issue shipping. They are written in the perspective of the DRI.
+
+1. I have not picked this issue yet, but I believe it will make it => column: ready for dev + health status: on track
+1. I have not picked this issue yet because it's blocked => column: blocked
+1. I have not picked this issue yet, and I don't know if it will make it => column: ready for dev + health status: none
+1. I am currently working on this issue, there are no blockers, but I have no idea if it will make it in the milestone => column: in dev + health status: none
+1. I am currently working on this issue, there are no blockers, but I believe it will make it in the milestone => column: in dev + health status: on track
+1. I am currently working on this issue, there are no blockers, but I believe it wont make it in the milestone => column: in dev + health status: at risk
+1. I am currently working on this issue and I need someone to help me out => column: in dev + health status: needs attention
+1. This issue is done and its being rolled out with feature flag. I believe it will make it in the milestone => column: feature flag rollout + health status: on track
+1. This issue is done and its being rolled out with feature flag. I don't know it will make it in the milestone => column: feature flag rollout + health status: at risk
+
+**Notes on health status:**
+
+1. When an engineer picks up an issue at the start of a milestone, they might not have enough information to make a prediction on the likelihood of 
+their work making a milestone. For this reason, they might decide to not assign a status until they understand more. 
+1. If the health was `No status` and becomes `On Track`, the DRI could provide a comment as to why they now think it will make the milestone. This would ensure this update
+is seen by interested parties of the issue.
 1. If the health status changes from `On Track` to `Needs attention` or `At Risk`, we recommend that the DRI add a short comment stating the reason for the change in an [issue status update](#issue-status-updates).
-1. If an issue continues to be `On Track`, the DRI could provide a comment to indicate solutions (whatever it may be) continue to be implemented, and it's still _on track_ to be delivered in the same milestone.
 
 ##### Issue status updates
 
