@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Data Team Triage"
-description: "GitLab Data Team Triage"
+title: "Data Triage Guide"
+description: "GitLab Data Triage Guide"
 ---
 
 ## On this page
@@ -13,6 +13,59 @@ description: "GitLab Data Team Triage"
 {::options parse_block_html="true" /}
 
 ---
+
+## <i class="fas fa-users fa-fw color-orange font-awesome" aria-hidden="true"></i>Data Triage
+
+### Triager
+
+The Data team has implemented the following triage schedule to take advantage of native timezones:
+
+| UTC Day   | Data Analyst   | Data Engineer     |
+| --------- | -------------- | ----------------- |
+| Sunday    | `@ken_aguilar` | -                 |
+| Monday    | `@mpeychet`    | `@vedprakash2021` |
+| Tuesday   | `@mpeychet`    | `@paul_armstrong` |
+| Wednesday | `@iweeks`      | `@m_walker`       |
+| Thursday  | `@ken_aguilar` | `@snalamaru`      |
+| Friday    | `@jeanpeguero` | `@jjstark`        |
+
+A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
+this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+
+Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
+
+Data triagers are the first responders to requests and problems for the Data team.
+
+- The Data Analyst triager is primarily responsible for responding to GitLab team member Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
+- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** or **#dbt-runs** slack channels or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
+    - Daily, a link to the DBT Source Freshness dashboard is posted in **#analytics-pipelines**.  This dashboard should be reviewed by the Data Engineer triager.
+    - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues onthe [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
+- The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
+- For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
+
+Many issues that come into the data team project from other GitLab team members need additional info and/or context in order to be understood, estimated, and prioritized.
+It is the triager's priority to ask those questions and to surface issues sooner, rather than later.
+
+**Note:**
+The Data Analyst triager
+
+- is not expected to know the answer to all the questions
+- should cc (mention) other team members who are subject matter experts (SME) or [functional DRIs](/handbook/business-technology/data-team/#-team-organization) for their feedback
+- should document any issues stumbled upon and help to disseminate knowledge amongst all team members
+
+### How to Complete Data Triage
+
+Create [an issue in the Data Team project](https://gitlab.com/gitlab-data/analytics/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=&issuable_template=Data%20Triage).
+
+[Read](/handbook/business-technology/data-team/how-we-work/triage/) the FAQ and common issues.
+
+### Triage Bot
+
+Parts of triage are assisted by the [GitLab Triage Bot](https://gitlab.com/gitlab-org/gitlab-triage), which is setup in the Analytics project. The bot runs every hour and takes actions based on a set of rules defined in [a policies file](https://gitlab.com/gitlab-data/analytics/-/blob/master/.triage-policies.yml). The [GitLab Triage README](https://gitlab.com/gitlab-org/gitlab-triage#defining-a-policy) contains all documentation for the formatting and definition of rules.
+
+Changes to the triage bot policy file should be tested in the MR by running the "dry-run:triage" CI job and inspecting the log output.  This CI job is a dry-run, meaning it will not actually take any actions in the project but will print out what would happen if the policy was actually executed.
+
+
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
@@ -43,3 +96,14 @@ In this section we state down common issues and resolutions
 |More information of the setup [here](https://gitlab.com/gitlab-data/analytics/-/issues/8283#note_537332709). |
 |Possible steps, resolution and actions: - Check for replication lag <br> - Pause the DAG if needed <br> - Check for data gaps <br> - Perform backfilling <br> - Reschedule the DAG |
 |Note: The GitLab.com data source is a very important data source and commonly used. Please inform an update business stakeholders accordingly.|
+
+### Useful regex 
+
+##### Match lines where these terms do not exist 
+
+`^(?!.*(<First term to find>|<Second term to find>)).*$`
+
+e.g. For cleaning up Airflow logs: 
+
+`^(?!.*(Failure in test|Database error)).*$`
+
