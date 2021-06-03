@@ -220,7 +220,7 @@ outlined in the [planning diagrams](diagram.html#plan).
 
 **A:** we use them to communicate certain steps in our process.
 - 🥕 you have reviewed an issue in preparation for [Planning
-  Breakdown](#ongoing-planning-breakdown).
+  Breakdown](#planning-breakdown).
 - 🥒 request to add a specification using [Gherkin
   Keyworks](https://cucumber.io/docs/gherkin/reference/#keywords) (when life gives you a cucumber,
   you pickle it).
