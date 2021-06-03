@@ -23,7 +23,7 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 #### 3. Responsibility of Website Visitors. 
 **3.1.** GitLab has not reviewed, and cannot review, all of the materials, website links (including to third party websites) and content posted on the Website (collectively referred to as the “Content”). Therefore, GitLab cannot and will not be responsible for the Content or their effect(s). By operating the Website, GitLab does not represent or imply that it endorses the Content provided or that it believes such Content to be accurate, useful or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive Content. GitLab disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of Content posted on the Website. The Website is provided “AS IS” and GitLab and its affiliates, suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither GitLab nor its suppliers or licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted.
 
-**3.2.** By accepting this Agreement, you agree not to use, encourage, promote, or facilitate others to use the Website in a way that is harmful to others. Examples of harmful use include, but are not limited to:
+**3.2.** By accepting this Agreement, you agree not to use, or facilitate others to use, the Website in a way that is harmful to others or overburdens or otherwise impairs the Website. Examples of such use include, without limitation:
 
 - Engaging in illegal or fraudulent activities;
 
@@ -33,7 +33,9 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 - The distribution of malicious/commercial spam; or
 
-- Violating the security or integrity of any computer, network or communications system. 
+- Violating the security or integrity of any computer, network or communications system.
+
+- Using the Website to mine or demonstrate proof-of-work for a cryptocurrency or blockchain.
 
 #### 4. DMCA and Privacy Policies
 **4.1.** As GitLab asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that Content located on or linked to the Website violates your copyright, you are encouraged to notify GitLab in accordance with our [DMCA policy](https://about.gitlab.com/handbook/dmca/).
