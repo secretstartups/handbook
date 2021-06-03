@@ -342,11 +342,11 @@ This process is specifically designed to recognize FSI Assist opportunities only
 
 In the event an FSI provides Assistance on a deal (per the GitLab Partner Program definition of Assist) then the following tagging on the PubSec Opp can apply. An FSI is a Federal System Integrator and can be identified as part of their Account Record in SFDC.
 
- - DR - Partner = FSI Partner Account 
+ - DR - Partner = Reseller Partner Account Transacting the Opportunity through Carahsoft Technology Corporation 
  - DR - Partner Deal Type = Resale
  - DR - Partner Engagement = Assist
  - Distributor = [Carahsoft Technology Corporation](https://gitlab.my.salesforce.com/0014M00001ilpft)
- - Fulfillment Partner = Reseller Partner Account Transacting the Opportunity through Carahsoft Technology Corporation
+ - Fulfillment Partner = Platform Partner = FSI Partner Account
  - Channel Manager = Account Owner of the FSI Partner Account
 
 ![PubSec_DR_Example](/handbook/sales/field-operations/channel-operations/images/PubSec_DR_Example.jpg)
@@ -357,7 +357,7 @@ _“Discount exception approved due to interim FSI process”_
 
 Since PubSec does not qualify for Comp Neutral, comp neutral calculations will not be impacted.
 
-Expectation is that the FSI account owner will receive quota retirement and comp on these Opportunities against their Assist component of their plan. Regional bookings will apply to the Fulfillment Partner owner/rest of the PubSec Channel team. 
+Expectation is that the FSI account owner will receive quota retirement and comp on these Opportunities against their Assist component of their plan. Regional bookings will apply to the transacting Partner Account Owner/rest of the PubSec Channel team. 
 
 For any questions, please reach out to #pub-sec-channels.
 
