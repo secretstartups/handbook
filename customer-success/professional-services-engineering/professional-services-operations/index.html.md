@@ -256,7 +256,7 @@ ___
 
 ## Operations  
 
-### New Hire 
+#### New Hire 
 
 When there is a new team member on the PS Team.  We have some training and process links to review: 
 
@@ -428,8 +428,10 @@ GitLab Partner Travels:
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
 The Project Manager or Project Coordinator will provide the partner the travel budget.  
 Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
+     
      * Seperate line item for expenses on the invoice 
      * One PDF document to include receipts for each expense
+
 Expenses are to be invoiced in the month in which they have incurred.
 
 
@@ -472,19 +474,13 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
    * How is the customer feeling about the project? Happy, frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
 
-#### Mavenlink Reports
-The Professional Services Team uses Mavenlink reports to track project and team metrics
-
-[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
-
-### Mavenlink Processes
-Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
-
-[Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
-
-### Invoicing Process
+### Partner Staffing
 
 Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing system.  
+
+#### Partner SOW
+
+TO DO
 
 #### New Supplier Request Form
 * For new partners/vendors only
@@ -576,3 +572,13 @@ CURRENT PROCESS VIA TIPALTI:
 * Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
 * Create a pdf version of the partner timesheet information.
 * Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+
+### Mavenlink Processes
+Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
+
+[Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+
+#### Mavenlink Reports
+The Professional Services Team uses Mavenlink reports to track project and team metrics
+
+[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
