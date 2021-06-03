@@ -244,7 +244,7 @@ Before resolving the incident your draft should look similar to the following:
 
 #### 3. Notify E-Group of Resolution
 
-After updating the status page, edit the Slack message you created in `#e-group` to indicate resolution and post a final update in the thread.
+After the incident has been resolved on the status page, edit the Slack message you sent to `#e-group` and provide a final update that the incident has been resolved. If you're resolving an incident that was created by another CMOC, post this message in a thread instead and react to the post with the `:white_check_mark:` emoji.
 
 #### Add Post-Mortem
 
