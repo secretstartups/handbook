@@ -145,6 +145,8 @@ The Fulfillment engineering team introduced a read-only role to the License App 
 - Sales
 - Support
 
+---
+
 ### FY2022 - Q1
 
 #### BambooHR > Navex Global
@@ -228,5 +230,3 @@ Utilising Workato to automatically synchronise team members and their managers f
 - Accounting
 
 **Work-hours saved per month:** 20
-
----
