@@ -16,6 +16,8 @@ Can't find what you're looking for? Try the main [People Operations page](/handb
 
 ## GitLab PTY Australia Specific Benefits
 
+[Fair Work Information Statement](https://drive.google.com/file/d/1EP_pgKtSeMwtHeuKOFZfkkmFT2jI9W85/view?usp=sharing)
+
 ### Medical
 GitLab does not plan to offer Private Health Insurance at this time because Australians can access the public health system for free or at a lower cost through Medicare (funded by tax).
 
