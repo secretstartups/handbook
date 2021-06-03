@@ -69,18 +69,18 @@ This call is available for new team members to ask questions about onboarding, b
 
 By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:
 
-- #new_team_members
-- #peopleops
-- #diversity_inclusion_and_belonging
-- #it_help
-- #expense-reporting-inquiries
-- #payroll
-- #questions
-- #donut-be-strangers
-- #team-member-updates
-- #thanks
-- #totalrewards
-- #whats-happening-at-gitlab
+- #new_team_members (go say hi and introduce yourself)
+- #peopleops (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
+- #diversity_inclusion_and_belonging (connect with other team members to find out more about what we do in Diversity, Inclusion and Belonging)
+- #it_help (any IT related support needed, such as issues with laptop, 1Password, Okta, JAMF, etc)
+- #expense-reporting-inquiries (need some info on your expenses, what can be expensed, approving expenses, etc)
+- #payroll (have any questions on your salary payments, payslips, etc)
+- #questions (anything that the Handbook can't help with)
+- #donut-be-strangers (need some help setting up a coffee chat)
+- #team-member-updates (new team member, anniversaries, goodbyes, bonuses)
+- #thanks (want to acknowledge and thank someone at GitLab, this is the channel)
+- #totalrewards (any queries regarding your benefits in your location)
+- #whats-happening-at-gitlab (all important updates/reminders/notifications related to GitLab)
 
 ## Managers of New Team Members
 
