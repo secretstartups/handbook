@@ -22,7 +22,6 @@ description: "Marketo is our marketing automation platform used for email market
 To see the different systems that are connected to Marketo, please visit the [Marketo System Infrastructure Mapping Mural](https://app.mural.co/t/gitlab2474/m/gitlab2474/1604947309706/7aec5684a2fa4671823c5acd352348b04562950f).
 
 ### Marketo <> Salesforce.com Connection
-You can find a list of all Marketo fields and their corresponding mappings to SFDC [here](https://docs.google.com/spreadsheets/d/1kIKnHqjYE7GdCqxIKKjJGDzw086lB6FRyE7N-BZUqi4/edit#gid=0).
 
 When any lead/contact is created in SFDC, it will automatically sync and create in Marketo - nothing is held back. Likewise, when a lead/contact is deleted in SFDC, it will delete in Marketo as well. Alternatively, Marketo does not automatically push all records to SFDC and a deleted record in Marketo will not delete in SFDC unless specifically told to. 
 
