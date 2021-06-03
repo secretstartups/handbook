@@ -18,7 +18,7 @@ The CMOC rotation is one of the rotations that make up [GitLab Support On-call](
 
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. However, this document covers how we specifically use Status.io to perform those tasks.
 
-You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident. 
+You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident.
 
 ## Things To Know
 
@@ -216,7 +216,8 @@ Take special note of the changes made to the following fields at this stage.
    - an estimate for when you'll leave the "monitoring" state.
    - **Example**:
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
-1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state. 
+1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state.
+
 #### Resolved
 
 Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
@@ -270,6 +271,7 @@ The contents of the maintenance should be filled out according to the details pr
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
 ### Rescheduling a maintenance event
+
 In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
 
@@ -284,7 +286,7 @@ To send an update about a maintenance event, such as a reminder, go to the *Main
 
 ![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
 
-Enter the update details provided by the Infrastructure team and have them confirm the appropiate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
+Enter the update details provided by the Infrastructure team and have them confirm the appropriate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
 
 ![Broadcast Maintenance Update](/images/support/cmoc_broadcast_maintenance_update.png){: .shadow}
 
@@ -307,6 +309,6 @@ In case there are any uncertainties around the status of an incident, please con
 
 The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by people who wish to shadow the CMOC as a learning process before acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username, and the days/hours that you wish to shadow.
 
-## CMOC Training videos
+## CMOC Training Videos
 
 It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy)
