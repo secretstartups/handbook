@@ -298,7 +298,7 @@ If you're not familiar with some of the business acronyms, take a bit of time to
 The value of the CEO Shadow Program comes from the [broader context](#goal) you'll gain and the interesting conversations you'll witness.
 
 Since your rotation is over a short period of time, there are no long-term tasks you can take on.
-However, there are many short-term administrative tasks you'll be asked to perform as shadow. Here are some examples:
+However, there are many short-term administrative tasks you'll be asked to perform as a shadow. Here are some examples:
 
 1. Make [handbook](/handbook/) updates (use the [ceo-shadow](https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=ceo-shadow) label).
 Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the CEO knows they have been completed. It is not required to create issues for these tasks. Go directly to a merge request if it is more [efficient](/handbook/values/#efficiency).
@@ -339,7 +339,7 @@ Once an MR has been opened, post in the `#ceo-shadow` channel.
 
 #### Types of meetings
 
-There are three types of meetings one the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. Please note, the program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
+There are three types of meetings on the CEO's calendar: GitLab meetings, Valley meetings, and personal meetings. Please note, the program's continued success depends on the participants respecting confidentiality during the program, after the program, and after they leave GitLab.
 
 ##### GitLab Meetings
 {:.no_toc}
@@ -455,7 +455,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | Valley Meetings                  | No notes       | Timekeeping    |
-| L & D Weekly Learning Session    | Special ([See below](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
+| L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
@@ -575,7 +575,7 @@ It's important that everyone encourages others to follow the [communication guid
 1. Verbalize questions
 1. Stop sharing their screens to encourage conversations
 1. Provide full context for the benefit of new team members
-1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/people-group/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
+1. When someone starts a Group Conversation with a presentation it is the CEO Shadow responsibility to ask them to stop and [record a video next time](/handbook/group-conversations/#presentation) Recommendation on how to approach this message "Apologies for the interruption, it is the responsibility for the CEO Shadow to remind team members that we do not present during Group Conversations. If we may move to the document for questions and in the future consider recording a video to promote asynchronous presentations".
 
 ### Email Best Practices
 
@@ -923,7 +923,7 @@ If your CEO shadow rotation is two consecutive weeks, it is expected you will be
 ### Airfare
 
 Airfare can be booked according to our [travel policy](/handbook/travel/#booking-travel-and-lodging) or [spending company money](/handbook/spending-company-money/) policy.
-In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadow because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
+In case your shadow rotation includes time without shadowing, it is possible to expense airfare to fly home and back within the continental USA. If you are from outside of the USA, it is also possible to expense airfare during the time without shadowing because of the possible high cost of lodging in San Francisco if you chose to stay at a different location.
 
 #### Rideshare from airport
 
