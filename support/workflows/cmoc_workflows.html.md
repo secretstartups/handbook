@@ -201,31 +201,33 @@ After publishing the update, visit the live [GitLab Status Page](https://status.
 
 ### Stage 3: **Incident Resolution**
 
+When it comes time to close an incident out as resolved, the following flow will generally be used.
+
+1. Switch to a monitoring state for a time.
+1. Resolve the incident.
+1. Notify internal stakeholders of the resolution.
+1. Add a link to the post-mortem issue to the incident.
+
 Closing an incident out has two stages, `Monitoring` and `Resolved`. Once the affected component is back to operating normally a monitoring period should begin where we switch an incident over to `Monitoring` where it remains open for ~30 minutes to ensure that the issue does not recur. We then mark it `Resolved` once we're confident the issue will not recur, which closes the incident.
 
-The two stages of the resolution process are covered in their respective sections below.
+#### 1. Begin Monitoring (Situational)
 
-#### Monitoring
+Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the IMOC. **It may also be requested that the monitoring period be skipped entirely.**
 
-> **Note**: The IMOC may request that the monitoring phase is skipped.
-
-To start the monitoring period, edit the incident, and configure the update similar to the following.
+If a monitoring period will be used simply edit the incident, and configure the update similar to the following.
 
 ![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
 
 Take special note of the changes made to the following fields at this stage.
 
 1. `Current State` - Change this to `Monitoring`.
-1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include:
+1. `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
 
-   - a note that *All systems are online and currently fully operational*.
-   - an estimate for when you'll leave the "monitoring" state.
-   - **Example**:
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
 
-1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state.
+1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not** flip this back to `Operational` until we leave the monitoring state.
 
-#### Resolved
+#### 2. Resolve Incident
 
 Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
 
@@ -241,11 +243,11 @@ Before resolving the incident your draft should look similar to the following:
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
 
-##### Update the E-Group
+#### 3. Notify E-Group of Resolution
 
 After updating the status page, edit the Slack message you created in `#e-group` to indicate resolution and post a final update in the thread.
 
-#### Post-Mortem
+#### Add Post-Mortem
 
 A review will be conducted by production engineering for every incident that matches a [certain criteria](/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
 
