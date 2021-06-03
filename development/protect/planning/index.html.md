@@ -11,77 +11,57 @@ title: Protect Management Planning
 
 ## How we do planning
 
-To better ensure we are ready to start work on issues in each iteration, the planning process works
-as part of a monthly cadence. Since [GitLab releases ship](/upcoming-releases/) on the 22nd of each
-month, this schedule for the **current+1** release begins on the first week of the month when the
-**current** release is being executed.
+Our milestone planning is handled asynchronously as much as possible. Planning discussions are fluid and ongoing, in general they do not follow a predefined monthly schedule.
 
-There's a [diagram](diagram.html) that (hopefully) helps understand the process.
+This [diagram](diagram.html) was created to (hopefully) help understand the process.
 
-### ONGOING: Planning Breakdown
+### Planning Breakdown
 
-Top priority issues from upcoming release milestones will go through **Planning Breakdown** with
-Product Managers (PMs), Engineering Managers (EMs) & Engineers from the respective groups.
-Weekly group-level synchronous meetings will facilitate this discussion.
-The list of issues to be discussed will be provided by the PM at least 1 day prior to the meeting.
+Top priority features from upcoming release milestones go through **Planning Breakdown** with
+Product Managers (PMs), Product Designers (UX), Engineering Managers (EMs) & Engineers from the respective groups.
+Weekly group-level synchronous meetings facilitate this discussion.
+The list of issues to be discussed is provided by the PM at least 1 day prior to the meeting.
 The expectation is that all attendees have reviewed the issues prior to the start of the meeting.
 Attendees should add the carrot 🥕 emoji to signify that an issue has been reviewed in advance.
 
 Questions to be answered:
 1. Are requirements clear enough to understand intent of request?
 2. Do we know the boundaries of work to be accomplished?
-3. Is all research and solution validation complete?
 
-If the answer is “No” to any of the above questions enumerate questions and assign back to PM.
+If the answer is “No” to either of these questions, discussion continues with the PM to improve the team's understanding of the request. If necessary, the discussion will continue asyncronously in the Epic or Issue and is brought back to a future weekly meeting. 
 
-If the answer is "Yes" to all of the above questions then team estimates **whether or not the issue
+If the answer is "Yes" to these questions the team estimates **whether or not the issue
 can be delivered in a single iteration** (ignoring any other work that may be in that same
 iteration). If it's determined that the issue under discussion cannot be delivered within a single
-iteration the team works with PM to break it down into multiple MVC Issues that can each be
+iteration, the team works with the PM to break it into multiple MVC Epics that can each be
 delivered in an iteration, are independent "slices" of value that can be used by a customer (so no
 mocked UIs or backend-only work that is inaccessible), and when all delivered will completely
 fulfill the original issue's requirements.
 
-* EM output: Once all of the above requirements have been satisfied the EM will move the issue into the
-  `workflow::refinement` state and assign the issue to an engineer for refinement.
+* EM output: Once all of the above requirements have been satisfied the EMs assign a frontend and backend engineer as respective DRIs to create Implementation Issues under the MVC epic(s). The Design issue created by UX is also closed at this point by the EM. 
 
-### Week 1: Refinement
+* Engineering output: Frontend and backend DRIs create implementation issues following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the Gitlab-org project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
 
-*If release X.0 ships on April 22, then Week 1 for planning release X.1 begins on or before the week of March 2-6*
+### Refinement
 
-Engineers [refine](#refinement-steps-for-engineers)[^2] issues assigned to them in the **current+1** release.
-They are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs
-required for successful refinement and execution.
+Issues in the `workflow::refinement` state are either assigned by EMs to individuals engineers for refinement, or are assigned randomly by the triage bot based on the [assign-refinement policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/assign-refinement.yml).
+
+Engineers assigned to refine issues are encouraged to ask questions and are authorized to push back on PM if issues lack the information and/or designs required for successful refinement and execution.
+
+We assign issues for refinement to ensure we have focus on the highest-priority items, as determined by Product Management.  This is **not** an assignment to work on the issue.
 
 * Engineering output: Move issue into the `workflow::ready for dev` state and unassign themselves if they have completed refinement. Leave issue in `workflow::refinement` and assign the issue to their EM if for any reason refinement could not be completed.
 
-[^2]: we assign issues for refinement to ensure we have focus on the highest-priority items, as
-      determined by Product Management.  This is **not** an assignment to work on the issue.
-
-### Week 2: Release Scope DRAFT Complete
-
-*If release X.0 ships on April 22, then Week 2 for planning release X.1 is March 9-13*
-
-EMs and PMs complete a first pass of **current+1** release.  Rough scope of the release is defined
-based on the PMs **priorities** and EMs **capacity** estimations.
-
-### Week 3: Release Scope FINAL & Kickoff!
-
-*If release X.0 ships on April 22, then week 3 for planning release X.1 is March 16-20. **Execution of release X.1 begins on March 18**!*
-
-Scope of the next release is finalized by EMs and PMs.
+### Release Scope final & kickoff!
+By the week prior to the completion of the current milestone, the scope of the next release is finalized by EMs and PMs.
 
 * EM output: `Deliverable` labels applied to issues we are committing to deliver.
-* EM output: Move issues that we are unlikely to deliver[^1] to the next iteration.
-* PM output: Issues with `Deliverable` labels in the `workflow::ready for dev` state have been
-  confirmed to be in the correct priority order.
-
-[^1]: we do not use `Stretch` labels; anything that isn't labelled as a `Deliverable` is
-      a stretch goal by definition and should be kept in scope as such.
+* EM output: Move issues that we are unlikely to deliver2 to the next iteration.
+* PM output: Issues with `Deliverable` labels in the `workflow::ready for dev` state have been confirmed to be in the correct priority order.
 
 ---
 
-## Backlog Refinement
+## Refinement Guidelines
 
 Backlog refinement is the most important step to ensure an issue is ready to move into development
 and that the issue will match everyone's expectations when the work is delivered.
