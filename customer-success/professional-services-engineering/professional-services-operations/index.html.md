@@ -256,6 +256,12 @@ ___
 
 ## Operations  
 
+### New Hire 
+
+When there is a new team member on the PS Team.  We have some training and process links to review: 
+
+[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
+
 #### Mavenlink Access
 
 To provide Mavenlink access to an internal GitLab team members, provide access by the following:
@@ -279,15 +285,7 @@ To provide Mavenlink access to an internal GitLab team members, provide access b
 * Process a GitLab Access Request
   * Request Okta
   * Request Mavenlink to be added to Okta
-
-#### New Hire 
-
-When there is a new team member on the PS Team.  We have some training and process links to review: 
-
-[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
-
 #### Time Tracking 
-
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
 
 - Best practice is to record time at the end of each day. This provides the most accurate account of hours worked and when it was worked
@@ -397,9 +395,17 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 ![splittimesheet](./splittimesheet.png)
 
+#### Quarterly time tracking entry and approval workflow
+
+* All hours are submitted and approved in Mavenlink on a weekly basis
+* The quarterly hours report is pulled from Mavenlink and reviewed by the PC and then provided to the PS Delivery Manager for review and approval
+* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
+* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
+* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
 #### Project Expenses
-GitLab Employee Travles:
+GitLab Employee Travels:
+
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
 1. Purchase incurred or travel booked
    * All travel should be booked through Trip Actions   
@@ -418,20 +424,14 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
 
 GitLab Partner Travels:
+
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
-The Project Manager or Project Coordinator will provide the partner the travel budget  
-Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details:
+The Project Manager or Project Coordinator will provide the partner the travel budget.  
+Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
      * Seperate line item for expenses on the invoice 
      * One PDF document to include receipts for each expense
 Expenses are to be invoiced in the month in which they have incurred.
 
-#### Quarterly time tracking entry and approval workflow
-
-* All hours are submitted and approved in Mavenlink on a weekly basis
-* The quarterly hours report is pulled from Mavenlink and reviewed by the PC and then provided to the PS Delivery Manager for review and approval
-* A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
-* The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
-* Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
 #### Mavenlink Project Status/ Colors
 
