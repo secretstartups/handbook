@@ -80,6 +80,9 @@ The {Staff Security Compliance Engineer} is a [8](/handbook/total-rewards/compen
 #### Staff Security Compliance Engineer Responsibilities
 * The responsibilities of a Senior Security Compliance Engineer, plus;
 * Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape designs for the sake of security compliance efficiencies
+* Participate in the development and continuous improvement of security compliance metrics
+* Provide actionable and constructive feedback to cross-functional teams
+* Implement security compliance technical and process improvements
 * Mentor other Security Compliance Engineers and improve quality and quantity of the team's output
 * Design and implement major iterations on GitLab's security control framework in alignment with industry trends
 * Participate in security assurance roadmap development based on customer needs
@@ -87,12 +90,42 @@ The {Staff Security Compliance Engineer} is a [8](/handbook/total-rewards/compen
 * Create dynamic open-source security compliance programs that deliver value to the GitLab community
 * Build the GitLab Security Compliance brand through regular internal and external presentations and publications
 * Design, develop, and deploy scripts to automate continuous control monitoring, administrative tasks and metric reporting for all security compliance programs
+* Successfully execute on quarterly KRs asscoaited with OKRs
 
 #### Staff Security Compliance Engineer Requirements
 * A minimum of 10 years' experience defining and shaping compliance programs with a minimum of 3 years' experience building new compliance programs
 * Proven experience building, maintaining and improving compliance programs from the ground-up
 * Proven experience with successful first-time external certification and attestation audits
 * Demonstrated experience with at least six security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
+* Expert understanding of how compliance works with cloud-native technology stacks
+
+### Principal Security Compliance Engineer
+This position reports to the Senior Manager, Security Compliance role at GitLab.
+
+#### Principal Security Compliance Engineer Job Grade
+The {Principal Security Compliance Engineer} is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Security Compliance Engineer Responsibilities
+* The responsibilities of a Senior Security Compliance Engineer, plus;
+* Collaborates and makes proposals across several teams on their security compliance work, and helps their team members make informed decisions in alignment with security assurance strategic plans.
+* Exposes technology and organizational needs throughout security assurance and proposes technical implementation plans
+* Teach, mentor, grow, and provide advice to other domain experts, individual contributors, across several teams in security
+* Play a central role in technical, business, and organizational contributions affecting security compliance/security assurance
+* Interfaces with Senior management, and enables Staff Security Assurance Engineers to engage on security compliance aspects of larger security assurance initiatives
+* Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope
+* Ensures that OKR level goals are aligned across several teams in security assurance
+* Guides conversations to remove blockers and encourage collaboration across teams
+* Provides a point of escalation for security comopliance team members facing complex technical challenges
+* Attain a measurable impact on the work of security compliance
+* Interact with customers and other external stakeholders as a consultant and spokesperson for the work of security assurance
+* Exposes the work of security compliance and their business impact internally
+* Knowledgeable in all specialities practiced within security assurance
+
+#### Principal Security Compliance Engineer Requirements
+* A minimum of 15 years' experience defining and shaping compliance programs with a minimum of 5 years' experience building new compliance programs
+* Industry recognized expert at building, maintaining and improving compliance programs from the ground-up
+* Direct experience of successful first-time external certification and attestation audits at GitLab
+* Industry recognized expert with at least six security control frameworks (e.g. SOC 2, ISO, NIST, COSO, COBIT, etc.)
 * Expert understanding of how compliance works with cloud-native technology stacks
 
 ### Manager, Security Compliance 
@@ -150,6 +183,7 @@ For details on the Security organization leadership roles, to include the Securi
   graph LR;
   sec:se(Security Compliance Engineer)-->sec:sse(Senior Security Compliance Engineer);
   sec:sse(Senior Security Compliance Engineer)-->sec:stse(Staff Security Compliance Engineer);
+  sec:stse(Staff Security Compliance Engineer)-->sec:pse(Principal Security Compliance Engineer);
   sec:sse(Senior Security Compliance Engineer)-->sec:sem(Manager, Security Compliance);
   sec:sem(Manager, Security Compliance)-->sec:sesm(Senior Manager, Security Compliance);
   sec:sesm(Senior Manager, Security Compliance)-->sec:ds(Director, Security Assurance);
