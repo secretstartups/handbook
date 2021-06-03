@@ -151,7 +151,9 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack. This application automatically posts the contents of a form that is filled out by the CMOC to other Slack channels, notifying them of the incident. To engage it:
+Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack.
+
+This application prompts you to fill out a form and then posts its contents automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
 
 1. Click the lightning bolt in the message composition box within `support_gitlab-com` and select `Incident Notifier`.
 
@@ -163,7 +165,7 @@ shadow}
 1. Copy the contents of the form that are direct messaged to you by Slackbot and paste them in a message to the `#e-group` channel.
 1. Start a thread off of your initial message and provide updates to the incident after you make them to the status page.
 
-> **Note**: You are not required to post updates to the Incident Notifier post made to Slack channels other than `#e-group`.
+> **Note**: You are not required to post updates to the Incident Notifier posts made to Slack channels other than `#e-group`.
 
 This process should be followed when all of the following are true:
 
@@ -214,7 +216,7 @@ Take special note of the changes made to the following fields at this stage.
 
 1. `Current State` - Change this to `Monitoring`.
 1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include:
-   - a note that *All systems are online and currently fully operational*. 
+   - a note that *All systems are online and currently fully operational*.
    - an estimate for when you'll leave the "monitoring" state.
    - **Example**:
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
