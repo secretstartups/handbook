@@ -11,7 +11,7 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **Fireside and Q&A with [Shaun Christie-David](https://gitlab.slack.com/archives/CLLDY3L8P/p1617238241080700)** - [Calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=N2RmbWRrODg4dmlna2szOGRmcDIyazJhdWcgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
+- **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/19)** - [Calendar link EMEA/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJvNHFrZG1zZ2IycDMwaTZidTdrMzI1dXAgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) [Calendar link APAC/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHZvZWh1amN0djdqcDZqbDkwY2FzZTE4dWggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
 
 
 ### Past Speakers and Events 
