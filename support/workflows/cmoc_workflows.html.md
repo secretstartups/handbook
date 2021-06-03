@@ -151,7 +151,7 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack. To do so:
+Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack. This application automatically posts the contents of a form that is filled out by the CMOC to other Slack channels, notifying them of the incident. To engage it:
 
 1. Click the lightning bolt in the message composition box within `support_gitlab-com` and select `Incident Notifier`.
 
@@ -160,10 +160,12 @@ shadow}
 
 1. Fill in all of the details.
 1. Click `Submit`
-1. Copy the contents of the form that are direct messaged to you from Slackbot and paste them in a message to the `#e-group` channel.
+1. Copy the contents of the form that are direct messaged to you by Slackbot and paste them in a message to the `#e-group` channel.
 1. Start a thread off of your initial message and provide updates to the incident after you make them to the status page.
 
-This process notifies internal stakeholders of the incident and should be done when all of the following are true:
+> **Note**: You are not required to post updates to the Incident Notifier post made to Slack channels other than `#e-group`.
+
+This process should be followed when all of the following are true:
 
 - CMOC escalation to an incident has occurred
 - Public notification is occurring or the IMOC has determined the incident requires e-group notification.
