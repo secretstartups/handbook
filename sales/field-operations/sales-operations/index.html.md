@@ -421,13 +421,32 @@ Click the “Related Chatter Object” link to view the original request.
 
 
 <details>
-<summary markdown='span'> Field Marketing Manager Update Process-Operator's Guide
+<summary markdown='span'> Sales Operations Monthly Close 
 </summary>
+At the end of the month, Sales Opeartions will create an issue in the Sales Operations project using the monthly close template.  The monthly close template consists of the items below.
 
+### Field Marketing Manager Updates - Operator's Guide
 The `Field Marketing Manager` field on the account is maintained by Sales Operations. Reporting for acccounts that need updated are on the[SalesOps CleanUp Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skZj).  Requests to update the field will come in through Chatter requests or Sales Operations issues for requests to change more than 10 accounts.
 
 1. Enterprise, Mid-Market and First Order accounts are updated through LeanData routing and the mapping is maintained in the [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293). 
 1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
+
+### Sales Admin Opportunity Updates - Operators Guide
+Coming Soom
+
+### ISR Alignment Dashboard Updates - Operators Guide
+Coming soon. Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
+
+### User Segement/Region/Area/Geo Sisense Dashboard Updates - Operators Guide
+Coming soon 
+
+### WW Dashboard Review - Operators Guide
+Coming soon
+
+### RingLead Merges - Operators Guide
+Coming soon
+
+
 
 </details>
 
