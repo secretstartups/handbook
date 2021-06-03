@@ -349,7 +349,7 @@ In the event an FSI provides Assistance on a deal (per the GitLab Partner Progra
  - Fulfillment Partner = Platform Partner = FSI Partner Account
  - Channel Manager = Account Owner of the FSI Partner Account
 
-![PubSec_DR_Example](/handbook/sales/field-operations/channel-operations/images/FSI screenshot 6.3.21.jpg)
+![PubSec_TempProcess](/handbook/sales/field-operations/channel-operations/images/PubSec_TempProcess.jpg)
 
 The expectation is that the Quote will receive the Partner Program “Fulfilment” discount instead of the standard Assist discount. Since the Opportunity is tagged as Assist, this will trigger Channel Approvals on these quotes. The following comments should be added to the note section on the approval by the PubSec Channel Director:
 
