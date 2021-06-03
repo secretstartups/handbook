@@ -143,6 +143,10 @@ We should [identify and take action as early as possible](/handbook/leadership/u
 
 GitLab's success will create growth opportunities for team members inside *and* outside of the company. 
 
+To mitigate the risk of key people leaving the company, we:
+1. Invest in a [talent development program](/handbook/people-group/talent-development-program/) to increase team member engagement
+1. Identify and proactively invest in team members who drive the success of our organization through our [talent assessment program](/handbook/people-group/talent-assessment/).
+
 ### Vesting
 {:#vesting}
 
