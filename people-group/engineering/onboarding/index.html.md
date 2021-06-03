@@ -245,6 +245,13 @@ We then create a merge request on `www-gitlab-com` project so it can be merged.
 
 The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
 
+In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
+can later on sync them with the following Slack command:
+
+`/pops run teampageindividual <bamboo_id>`.
+
+This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
+
 ## Sync to Modern Health
 [Modern Health](/handbook/total-rewards/benefits/modern-health) needs a weekly update about all our active
 team members. This proces has been automated by using their `Upload to AWS S3` functionality. Every Friday
