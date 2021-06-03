@@ -56,22 +56,23 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 | Monitoring | 30m | 60m | 60m |
 | Resolved | No further updates required |
 
-#### What to do if you don't know what to say
+#### What If I Don't Know What to Say?
 
 - Provide a generic update based on the best information you have:
 
 - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
 - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
 - Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
-   - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
-   - _In my next update I'm going to move the status to "monitoring"_
+
+  - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
+  - _"In my next update I'm going to move the status to monitoring"_
 - Bias to action - you can post another update if there was an error in your last update.
 
 - If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
-   1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
-   1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
-   1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
-   1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
+   1. _"No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision."_
+   1. _"No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity."_
+   1. _"No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight."_
+   1. _"No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK"_
 
 - If you really don't know, it really is okay to ask!
 
