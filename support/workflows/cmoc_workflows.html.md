@@ -239,7 +239,7 @@ Before resolving the incident your draft should look similar to the following:
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
 
-##### Update the e-group
+##### Update the E-Group
 
 After updating the status page, edit the Slack message you created in `#e-group` to indicate resolution and post a final update in the thread.
 
@@ -275,7 +275,7 @@ The contents of the maintenance should be filled out according to the details pr
 
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
-### Rescheduling a maintenance event
+### Rescheduling a Maintenance Event
 
 In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
@@ -285,7 +285,7 @@ Select the maintenance you need to reschedule.
 
 Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
 
-### Sending an update about a scheduled maintenance
+### Sending Updates About Maintenance Events
 
 To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
 
