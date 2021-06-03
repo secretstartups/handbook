@@ -709,8 +709,8 @@ To send a digital copy of an Order Form to the customer via DocuSign:
   - For example, if you upload a file named "Confidentiality Agreement.docx," your subject line defaults to "Please DocuSign: Confidentiality Agreement.docx." 
   - You can change the subject line to anything you like. Keep in mind that the subject line is also the envelope title that will display when you view your sent envelopes on the Manage page.
   - You can also add an email message to the envelope 
- - You can add reminder options if the envelope has not been opened, signed, or view.
- - You can set an envelope expiration date when needed
+  - You can add reminder options if the envelope has not been opened, signed, or view.
+  - You can set an envelope expiration date when needed
 11. Click Next.
 12. Send Page
 - **If you are sending the document to one signer:** Review the document to ensure the Signer 1 signature tags are visible on the signature block. These tags are automatically applied to any Order Form PDF generated from the SFDC quote (generated on or after 2021-06-03). When ready, click “Send.
@@ -721,14 +721,14 @@ To send a digital copy of an Order Form to the customer via DocuSign:
     - Date Signed
     - Full Name
     - Title
-   - Note: Signature fields can only be added for recipients who need to take action on the document.   
+  - Note: Signature fields can only be added for recipients who need to take action on the document.   
 - **If you are sending the document to two signers:** Select the appropriate signer in the drop down menu on the top left of the screen. Drag and drop the appropriate signature tags from the “Standard Fields” section onto the signature block on the order form. Repeat for the second signer. 
   - For each signer, GitLab requires:
     - Signature 
     - Date Signed
     - Full Name
     - Title
-   - Note: Signature fields can only be added for recipients who need to take action on the document. Fields are not added for recipients who only need to view or receive a copy of the document.
+  - Note: Signature fields can only be added for recipients who need to take action on the document. Fields are not added for recipients who only need to view or receive a copy of the document.
 13. When Complete, click “Send.”
 
 #### How do I check if the customer has signed the Order Form via DocuSign?
