@@ -127,7 +127,41 @@ projects/initiatives simultaneously while meeting deadlines and business objecti
 - Experience working with various virtual meeting management tools such as Zoom is a plus
 - Experience in successfully prioritizing, managing multiple projects, and working in a team
 environment
+
+### Senior Director of Talent Brand & Talent Acquisition Enablement
  
+The Senior Director of Talent Brand & Talent Acquisition Enablement reports to the [VP of Talent Acquisition](/job-families/people-ops/talent-acquisition-leadership/).
+ 
+#### Senior Director of Talent Brand & Talent Acquisition Enablement Job Grade
+ 
+The Senior Director Talent Brand is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+ 
+#### Senior Director of Talent Brand & Talent Acquisition Enablement Responsibilities
+
+* Establish a 3-year global talent branding/marketing & enablement strategy and position talent brand & enablement as a core priority for Global Talent Acquisition and the recruiting community at Gitlab.
+* Overall responsibility for continuing and building upon the Gitlab global talent brand to position us as an employer of choice across all functions
+* Establish the talent value proposition; partnering internally to ensure a consistent experience throughout the employee lifecycle
+* Manage and own external vendors and award-body relationships. Ensuring that we are well positioned and intentional about the work with our external partners is a key part of this role (Glassdoor, Builtin, LinkedIN, GPTW, Forbes, Fortune etc)
+* Establish a recruiter talent brand “toolkit”
+* Run the talent brand portfolio to allow for both the proactive and reactive work so as to maximize opportunities as they arise
+* Partner with the data & analytics function to monitor ROI on initiatives and Talent Community work on an ongoing basis but also apply a data-mindset to all talent branding work that is undertaken
+* Be comfortable building a multi-faceted strategy that aligns our candidate experience expectations with our talent branding strategy.
+
+#### Senior Director of Talent Brand & Talent Acquisition Enablement Requirements
+
+* Experience having built and executed upon a global marketing plan (talent or otherwise)
+* Experience working across different hiring cultures and communities and comfortable working in a truly global role
+* Leadership experience (both direct and indirect)
+* You share our values, and work in accordance with those values
+* Excellent organizational, task, and time management skills, with an emphasis on detail and follow up, plus the ability to prioritize tasks and requests from multiple stakeholders and audiences
+* Demonstrated ability to communicate and collaborate with individuals at all levels of the organization with excellent customer service skills
+* Ability to work in a fast-paced environment with demonstrated ability to coordinate multiple projects/initiatives simultaneously while meeting deadlines and business objectives
+* Exhibit strong data skills and ability to utilize Google Sheets
+* Ability to use, or willingness to learn, GitLab
+* Comfortable in a spokesperson role, ideally with media training/ coaching abilities
+* Experience working with various virtual meeting management tools such as Zoom is a plus
+* Experience in successfully prioritizing, managing multiple projects, and working in a team environment
+
 ## Performance Indicators
  
 - [Glassdoor engagement](/handbook/people-group/employment-branding/#glassdoor-engagement)
