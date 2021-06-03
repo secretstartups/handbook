@@ -58,7 +58,8 @@ The Content Marketing Manager is a [grade 6](/handbook/total-rewards/compensatio
 * Extends that of the Content Marketing Associate responsibilities 
 - Propose and execute on a content plan
 - Contribute ideas and solutions beyond existing plans
-- Write multiple blog articles per week
+- Write multiple blog articles per month
+- Write customer reference stories
 - Strategically translate messaging into accurate, targeted, and compelling content
 - Makes decisions on, and serve as DRI for, content marketing projects and initiatives
 - Independently manage projects from start to finish
@@ -68,6 +69,7 @@ The Content Marketing Manager is a [grade 6](/handbook/total-rewards/compensatio
 
 * Extends that of the Content Marketing Associate requirements
 - 3-5 years experience in a content-related role
+- Experience writing for a developer audience
 - Enterprise software marketing experience
 - Proven ability to research and write on technical topics independently
 - Proven abliity to perform a content gap analysis and execute on a content plan independently
