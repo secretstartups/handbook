@@ -21,7 +21,7 @@ Certain aspects of this Working Group are [not public](https://about.gitlab.com/
 |-----------------|-----------------|
 | Date Created    | 2021-05-21 |
 | Target End Date | 2021-12-03 |
-| Slack           | TBA (only accessible from within the company) |
+| Slack           | #wg_pale-violet-red (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/19-2QG0yXDt2p9vKLLxwrmqgBezk1Li7Zd6iTh-hotso/edit) (only accessible from within the company) |
 
 ## Goals
