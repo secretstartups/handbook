@@ -395,7 +395,7 @@ Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articl
 #### Accidentally merged the wrong tickets
 
 It's possible that you accidentally ended up merging the wrong tickets.
-When this happens, you should reach out to your manager to asses the situation.
+When this happens, you should reach out to your manager to assess the situation.
 
 ### Removing Information From Tickets
 
