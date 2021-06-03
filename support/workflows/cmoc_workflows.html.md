@@ -260,7 +260,7 @@ Do the following to add a post-mortem to a resolved incident:
 
    ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png){: .shadow}
 
-1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review.
+1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review, this is usually the same issue that was opened for the incident.
 
    ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
 
