@@ -689,6 +689,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 - “Add from Salesforce” will allow you to select any Order Form PDF that has been attached to the opportunity. 
   - When selecting a document from “Add from Salesforce” make sure the box is checked to the left of the document so it is added to the envelope.
 - “Upload” will allow you to select any PDF from your computer. NOTE that any document not generated from a quote will require signature tags to be placed manually.
+    - Note: Order Form PDFs generated prior to 2021-06-03 will require the manual placement of signature tags.
 - Make sure to hit “Next” once all the documents have been selected!
 7. Now you must add a **Recipient**: 
 - At minimum, you must add:
@@ -712,8 +713,16 @@ To send a digital copy of an Order Form to the customer via DocuSign:
  - You can set an envelope expiration date when needed
 11. Click Next.
 12. Send Page
-- **If you are sending the document to one signer:** Review the document to ensure the Signer 1 signature tags are visible on the signature block. These tags are automatically applied to any Order Form PDF generated from the SFDC quote. When ready, click “Send.
-- **If you are sending the document to two signers:** Select the appropriate signer in the drop down menu on the top left of the screen. Drag and drop  the appropriate signature tags from the “Standard Fields” section onto the signature block on the order form. Repeat for the second signer. 
+- **If you are sending the document to one signer:** Review the document to ensure the Signer 1 signature tags are visible on the signature block. These tags are automatically applied to any Order Form PDF generated from the SFDC quote (generated on or after 2021-06-03). When ready, click “Send.
+  - Note: Order Forms generated before 2021-06-03 will have legacy signature tags, and will require manual placement of signature tags via the DocuSign tool. Only Order Forms generated with the new DocuSign templates (available starting 2021-06-03) will automatically place the signature tags. 
+  - To manually add signature tags on a PDF within the DocuSign tool, select the appropriate signer in the drop down menu on the top left of the screen. Drag and drop the appropriate signature tags from the “Standard Fields” section onto the signature block on the order form.
+  - For each signer, GitLab requires:
+    - Signature 
+    - Date Signed
+    - Full Name
+    - Title
+   - Note: Signature fields can only be added for recipients who need to take action on the document.   
+- **If you are sending the document to two signers:** Select the appropriate signer in the drop down menu on the top left of the screen. Drag and drop the appropriate signature tags from the “Standard Fields” section onto the signature block on the order form. Repeat for the second signer. 
   - For each signer, GitLab requires:
     - Signature 
     - Date Signed
@@ -745,44 +754,6 @@ To send a digital copy of an Order Form to the customer via DocuSign:
 - [DocuSign Support Page](https://support.docusign.com/en/home)
 
 Note: You must log in with your DocuSign credentials to access these educational resources.
-
-#### How to Send an Order Form to the Customer for Signature via Sertifi
-
-To send a digital copy of an Order Form to the customer via Sertifi:
-
-1. On the Approved quote, Click "Generate Quote PDF", near the top of the page
-1. On the Approved quote, click Sertifi E-Sign button near the top of the page
-1. The next page will allow you to update the name of the quote and add a short message for your customer. Populate these two fields as you see fit.
-1. In the "**Expiration Date**" field, populate with the quote expiration date **OR** 30 days out
-1. 1st signer will be auto-populated with the Bill To contact on the quote. You can change if needed by clicking on the search icon next to the contact name field. If you don't see the contact you need, they need to be added to the Opportunity Contacts section on the opporutnity level.
-1. We only require one complete signature per orderform, however, if the customer requires multiple individuals to sign an order form click "Add Participant"
-1. Update the dropdown on the new participant line from "1st Signer" to "2nd Signer" and populate the contact field. This information will pull from the Contacts associated with the account.
-1. Once all signers have been added, click Next.
-1. ON the next page, you will be prompted to add a document for customer signature. You can either add the document from your personal harddrive, or you can add one of the quote PDFs saved on the opportunity.
-
-If you add the document in both locations (hard drive and salesforce), you will send **2** copies of the Order Form to the customer for signature and they will receive multiple notifications. Only add the Order Fomr in one location.
-
-1. Before clicking “Send for Signature”, **it is strongly encouraged to review the Order Form for accuracy**. Be sure that the contact information, addresses, and pricing are fully populated and accurate. To review the document, click "**Preview/Prefill Document**", to the right of the file name.
-
-#### How to add payment information to a Sertifi Order Form?
-
-You can add a secure, encrypted credit card information block to the Order Form prior to sending to the customer for signature. This will allow them to securely enter their credit card information and sign the Order Form at the same time. Their information is encrypted, confidential, and will only be visible to the GitLab Finance team.
-
-1. To add the credit card payment block, click “Preview/Prefill Document”.
-1. Scroll to the Signature section of the document.
-1. On the left hand side, there will be a task bar - click “Payment Authorization - **With Address**”
-1. A blue credit card box will appear on the quote. Drag and drop this box to the right side of the signature block.
-1. Scroll to the top of the page.
-1. Click the Exit button - it’s a door with an arrow at the top right corner of the screen.
-1. Click “Send for Signature” - you will see a confirmation screen when the document has been sent successfully.
-
-#### How do I check if the customer has signed the Order Form via Sertifi?
-
-1. On the Opportunity page, navigate to the “Sertifi E-Contracts” section.
-1. Click the File Name.
-1. The next page will show you the status of the Order Form. You can see when the document was sent, who it was sent to, if they opened the document or if it’s partially signed. If you have multiple contacts who need to sign the document, the page will highlight who is the next signer in the process. You will also be able to see a copy of the quote that was sent.
-
-When the customer signs the Order Form, you will receive an email notification with the completed document. Attach this to the "Notes and Attachments" section of the opportunity.
 
 ### **Submit an Opportunity for Booking**
 
