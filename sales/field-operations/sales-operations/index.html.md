@@ -423,7 +423,7 @@ Click the “Related Chatter Object” link to view the original request.
 <details>
 <summary markdown='span'> Sales Operations Monthly Close 
 </summary>
-At the end of the month, Sales Opeartions will create an issue in the Sales Operations project using the monthly close template.  The monthly close template consists of the items below.
+At the end of the month Sales Operations will create an issue in the Sales Operations project using the monthly close template.  The monthly close template consists of the items below.
 
 ### Field Marketing Manager Updates - Operator's Guide
 The `Field Marketing Manager` field on the account is maintained by Sales Operations. Reporting for acccounts that need updated are on the[SalesOps CleanUp Dashboard](https://gitlab.my.salesforce.com/01Z4M000000skZj).  Requests to update the field will come in through Chatter requests or Sales Operations issues for requests to change more than 10 accounts.
