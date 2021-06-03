@@ -38,7 +38,7 @@ The [Support Week in Review document](https://docs.google.com/document/d/1eyMzbz
 
 If the feedback is negative, there is also an option to request manager contact (within 48hrs Mon-Fri). If this option is chosen, additionally to the feedback project issue opened for the feedback, a slack notification will show up in the `#support_escalations` channel. The **SSAT reviewing manager** should follow the [If there is action to be taken](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-there-is-action-to-be-taken) and [If the customer should be contacted](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/support/workflows/how-to-respond-to-feedback.html.md#if-the-customer-should-be-contacted) guidance when handling these requests.
 
-An issue requiring contact can be identified by an 'SSAT::Contact' label and a field within the issue that specifies manager contact was requested. If there is no indication that contact was requested the **SSAT reviewing manager** can handle the feedback in the same way as described below.
+An issue requiring contact can also be identified by an 'SSAT::Contact' label and a field within the issue that specifies manager contact was requested. 
 
 This above note will be removed when the trial concludes (date not yet determined).
 
