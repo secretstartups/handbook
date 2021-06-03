@@ -52,6 +52,8 @@ Comment should be added to the activity page to include the following:
 - Time Required
 - Priority Level
 
+The PC will review availablity and schedule the time on the Master Planning with an allocation.
+
 #### Consulting Project Assignment
 
 When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
@@ -305,20 +307,6 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   - 45m should be .75
 
 ****Mavenlink Internal Projects****
-
-##### Internal Project Scheduling
-
-If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
-a request should be submitted via a comment and tag the PC on either Internal Projects:
-
-- PS Time Tracking Creditable
-- PS Time Tracking Non Creditable
-
-Comment should be added to the activity page to include the following:
-- Task
-- Time Required
-- Priority Level
-
 Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
 
 ****PS TimeTracking Creditable****
@@ -428,10 +416,8 @@ GitLab Partner Travels:
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
 The Project Manager or Project Coordinator will provide the partner the travel budget.  
 Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
-     
-     * Seperate line item for expenses on the invoice 
-     * One PDF document to include receipts for each expense
-
+   * Seperate line item for expenses on the invoice 
+   * One PDF document to include receipts for each expense
 Expenses are to be invoiced in the month in which they have incurred.
 
 
