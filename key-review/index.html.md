@@ -146,6 +146,7 @@ The following Key Reviews are automated: (all links are internal)
 1. The title of every slide should be the key takeaway
 1. A label on the slide should convey whether the metric result is "on-track" (green), "needs improvement" (yellow), or is an "urgent concern" (red).
 1. A [blank template](https://docs.google.com/presentation/d/1lfQMEdSDc_jhZOdQ-TyoL6YQNg5Wo7s3F3m8Zi9NczI/edit) still needs labels.
+1. Presentations should allow commenting from everyone at GitLab.
 
 ### Leveraging Sisense in Google Slides
 To create these slides, you will need *Editor* access in Sisense. 
