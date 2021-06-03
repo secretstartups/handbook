@@ -28,24 +28,6 @@ title: "Inside Sales, Mid-Market"
 * You share our values, and work in accordance with those values.
 * Ability to use GitLab
 
-## Mid Market Account Executive
-
-### Job Grade
-
-The Mid Market Account Executive is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Requirements
-
-* A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with Software sales
-* Interest in GitLab, and open source software
-* Ability to leverage established relationships and proven sales techniques for success
-* Effective communicator, robust interpersonal skills
-* Motivated, self-guided and results oriented
-* Excellent negotiation, presentation and closing skills
-* Preferred experience with Git, Software Development Tools, Application Lifecycle Management
-* You share our [values](/handbook/values/), and work in accordance with those values.
-
 ## Career Ladder
 
 The next step in the Commercial Sales job family is to move to the SMB Account Executive job family.
