@@ -23,6 +23,7 @@ description: "GitLab Data Team Platform"
 - [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
 - [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
+- [Triage Guide](/handbook/business-technology/data-team/platform/triage-guide)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
 - [Snowplow](/handbook/business-technology/data-team/platform/snowplow)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
