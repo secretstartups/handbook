@@ -404,9 +404,9 @@ Using an integration from Allocadia>Marketo, Marketo>SFDC, the information you'v
 
 You must NOT edit the campaign until the Allocadia connector has time to work. This is normally done near-real time, but if the data does not push immediately, be aware it can take minutes to hours to do so. You'll know the Allocadia connect has completed its work when you see the SFDC campaign owner change from `Marketo Integration` to the name of the actual person who is running the camapign as well as well as when all details are populated from Allocadia to SFDC. If you edit the campaign before the connector pushes the data over, it will break the build and you will manually have to edit all of the fields listed in [Step 5. above](/handbook/marketing/marketing-operations/campaigns-and-programs/#step-5-update-the-salesforce-campaign). 
 
-The Budgeted Cost in the campaign will synch overnight and as actuals come into the system, the `Actual Cost in Campaign` field will be populated.  
+The initial `Plan` Cost in the campaign needs 1 night to synch.  
 
-The campaign meta data is a one time synch, where as the `Actual Cost in Campaign` (which is run off of the `Campaign Tag to be Created` field in Allocadia), synchs every night.   
+The campaign meta data is a one time synch, where as the `Actual Cost in Campaign` (which is run off of the `Campaign Tag to be Created` field in Allocadia), synchs every nightly.   
 
 #### Steps to Setup Content Syndication in Marketo and SFDC
 
