@@ -12,7 +12,7 @@ job: "Engineering Director Threat Management"
 
 ### Wayne Haber README
 
-I’m the director of engineering for the [growth](https://about.gitlab.com/handbook/engineering/development/growth/) and [fulfillment](https://about.gitlab.com/handbook/engineering/development/fulfillment/) departments.  I am also a SME for security at the company.
+I’m the director of engineering for the [growth](https://about.gitlab.com/handbook/engineering/development/growth/) and [fulfillment](https://about.gitlab.com/handbook/engineering/development/fulfillment/) departments and the [applied ML group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/).  I am also a SME for security at the company.
 
 Links about Wayne:
 * [GitLab](https://gitlab.com/whaber)
@@ -46,7 +46,7 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 * When reaching out to me my preferences are (in order of preference):
   * Tag me in merge request
   * Tag me in issue
-  * Tag me in the (public inside GitLab) #sd_threat_mgmt_and_growth_managers slack channel
+  * Tag me in a message in a Slack channel
   * Send me a 1:1 message in Slack 
   * Send me an email
 * Since we are successful at being the most transparent company in the world, I prefer communications to be public whenever possible. However, this sometimes does not come naturally to me as my experience before GitLab was at a security company where confidentiality was of the utmost importance.
