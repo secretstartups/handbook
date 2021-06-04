@@ -36,21 +36,22 @@ The following people are permanent members of the Applied ML Group:
 | [Wayne Haber](https://about.gitlab.com/company/team/#whaber) | Engineering director and acting group EM |
 | [Taylor McCaslin](https://about.gitlab.com/company/team/#tmccaslin) | Principal Product Manager |
 
+## How to contact us
+
+* Tag a team member in a merge request or issue
+* Post a message in the #g_applied_ml channel (internal only)
+
 ## Project management process
 
 Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
-
-
 
 ### Workflow
 
 Our team use the following workflow stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-
 ### Epic roadmap
 
 We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the TBD
-
 
 ### Issue boards
 
@@ -61,13 +62,6 @@ Link TBD
 ### Iteration
 
 We follow the [iteration process](/handbook/engineering/#iteration) outlined by the Engineering function.
-
-
-### Due dates
-
-To properly set expectations for product managers and other stakeholders, our team may decide to add a due date onto an issue. Due dates are not meant to pressure our team but are instead used to communicate an expected delivery date.
-
-We may also use due dates as a way to timebox our iterations. Instead of spending a month on shipping a feature, we may set a due date of a week to force ourselves to come up with a smaller iteration.
 
 ### Weekly refinement
 
@@ -94,53 +88,23 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 ### Milestone Planning and Timeline
 
-Our team mostly follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
-
-The specific application of this timeline to the milestone planning process is summarized below and in this recorded overview [video](https://youtu.be/dcO-Qbd042E).
-
-**2-3 weeks prior to the start of the next milestone**
-1. Milestone planning issue is created by the Product Manager. We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331864). 
-1. Issues are added to the Issue Board by Milestone TBD by the Product Manager
-     1. Issues at this stage will have the `~"workflow::planning breakdown"` label
-1. Product Manager will ping engineering team on Planning Issue asking for Technical Debt candidates
-
-**2 weeks prior to the start of the next milestone**
-1. Product manager invites engineering to breakdown issues planned for next milestone
-     1. Review issue description for understanding and thoroughness
-     1. Ask questions
-     1. Break issue into smaller parts 
-     1. Create a technical plan
-     1. Add issue weight
-1. Monthly Roadmap Planning discussion takes place as a part of sync meetings and it occurs on the first meeting of every month.
-
-**1 week prior to start of the next milestone**
-1. Engineering completes board refinement, all issues are weighted
-     1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
+Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) as our group is dependent on the [GitLab self-managed release cycle](https://about.gitlab.com/upcoming-releases/).
 
 ### Issue labels
 
 We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
 
 **Required labels**
-- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::modelops`
-- `~group::applied ML`
-- [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
-
-**Optional labels**
-- [Release Scoping:](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md) `~Deliverable`
-- Other labels in [issue workflow](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md)
+- Stage: `~devops::modelops`
+- Group: `~group::applied ML`
 
 ### Merge request labels
 
 MR labels can mirror issue labels (which is automatically done when created from an issue), but only certain labels are required for correctly [measuring engineering performance](#measuring-engineering-performance).
 
 **Required labels**
-
-TBD
-
-- `~devops::modelops`
-- `~group::applied ML`
-- [Type:](/handbook/engineering/metrics/#data-classification) `~security`, `~bug`, `~feature`, `~tooling`, `~documentation`
+- Stage: `~devops::modelops`
+- Group: `~group::applied ML`
 
 ### Milestones
 
@@ -148,30 +112,7 @@ We tag each issue and MR with the planned milestone or the milestone at time of 
 
 ## Team Meetings
 
-Our group holds synchronus meetings to gain additional clarity and alignment on our async discussions. We aim to record all of our meetings as our team members are spread across several timezones and often cannot attend at the scheduled time.
+Our group holds synchronus meetings to gain additional clarity and alignment on our async discussions. We aspire to record all of our meetings as our team members are spread across several timezones and often cannot attend at the scheduled time.
 
-### Meeting rules
-
-* Agenda items should be filled in 6 hours before meetings otherwise it's possible to cancel the meeting.
-* It's fine to add agenda items during the meeting as things come up in sync meetings we might not have thought about beforehand.
-* Meetings start :30 seconds after start time
-* Whoever has the first agenda item starts the meeting.
-* Whoever has the last agenda item ends the meeting.
-* Meetings end early or on time.
-* Any missed agenda items are bumped to the next meeting.
-
-### Our meetings
-
-TBD
-
-## Measuring Engineering Performance
-
-
-See the TBD as well as the
-[Centralized Engineering Dashboards](/handbook/engineering/metrics/).
-
-We recognize that just as [an issue may be broken down into multiple merge requests](#ratio-of-issues-to-mrs), so can iteration of a feature be spread across several MRs, especially with the use of [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html#feature-flags-in-gitlab-development).
-
-We aim for the current [development department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-which is tracked TBD.
+We have a weekly team meeting at 8am Pacific on Thursdays.
 
