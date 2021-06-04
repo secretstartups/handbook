@@ -64,6 +64,8 @@ Contributions from the JiHu team will follow two methods depending on whether th
 * Upstream method - start with a merge request in the GitLab Inc. repository.
 * Proprietary and upstream method - start with a merge request with all changes against the GitLab JiHu project and a merge request with all non-proprietary changes against the upstream project.
 
+To identify contributions from JiHu, the `~"JiHu Contribution"` label is automatically applied to all upstream contributions coming from the JiHu team. To ensure the label is accurately applied, the `gitlab-jh` team must keep the direct members of [`gitlab-jh/jh-team`](https://gitlab.com/groups/gitlab-jh/jh-team/-/group_members?with_inherited_permissions=exclude) updated with current team members.
+
 #### Guidelines for upstream contributions
 
 Contributions that do not involve JiHu proprietary content will be opened against the upstream project.
