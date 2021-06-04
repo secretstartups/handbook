@@ -274,15 +274,22 @@ GitLab provides a policy through Cigna that may replace up to 66.7% of your base
 
 **GitLab Process for Disability Claim**
 
-1. If an team member will be unable to work due to disability for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/).
-1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days. If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
-1. At the end of the maximum benefit period for short-term disability of 12 weeks, the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
+1. If an team member will be unable to work due to disability for less than 25 calendar days, no action is needed and the absence will be categorized under [paid time off](/handbook/paid-time-off/), unless you reside in the following locations: 
+      - California, Hawaii, New York: 7-day waiting period but benefits must begin on the 8th consecutive day of disability. Please inform Total rewards and apply for short-term disability within the 7-day waiting period.
+      - New Jersey: 7-day waiting period, unless the disability is for an illness related to an epidemic. Please inform Total rewards and apply for short-term disability within the 7-day waiting period. Benefits must begin on the 8th consecutive day of disability. For disabilities lasting longer than 21 days, the waiting period is retroactively paid.
+      - Rhode Island: No waiting period, but team member must be out of work for at least seven days to be eligible for benefits. Please inform Total rewards and apply for short-term disability as soon as possible.
+1. Since the short-term disability insurance has a 7-day waiting period, the team member should decide on day 18 whether they will be able to return to work after 25 calendar days (unless you reside in the states listed above). If they will not be able to return, they should inform the Total Rewards team of their intent to go on short-term disability and apply for short-term disability at this time by sending the Total Rewards team a completed Leave Request Form. While the team member is on short-term disability (which covers 66.7%), GitLab will supplement the remaining 33.3% through payroll if the team member has been employed for more than six months. Benefit coverage will also continue for the time the team member is on short-term disability.
+1. At the end of the maximum benefit period for short-term disability of 12 weeks for the majority of states (*see other maximum benefit periods below), the team member will determine whether they are able to return back to work. If they are unable to, the team member will be moved to unpaid leave and will have the option to continue their benefits by electing [COBRA coverage](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf). The team member will be eligible to apply for long-term disability at this time.
+      - California: Maximum benefit period for short-term disability of 52 weeks.
+      - Hawaii, New Jersey: Maximum benefit period for short-term disability of 26 weeks.
+      - New York: Maximum benefit period for short-term disability of 26 weeks during any consecutive 52-week period.
+      - Rhode Island: Maximum benefit period for short-term disability of 30 weeks.
 
-**Short Term Disability Claim Process via Cigna**
+**Short-Term Disability Claim Process via Cigna**
 
-1. Team member will submit the [Short Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`.  
+1. Team member will submit the [Short-Term Disability](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) form by email to the Total Rewards team at `total-rewards@gitlab.com`.  
       - Page 3 includes the Employee portion of the form as well as the Doctor Certification. This page can be sent directly to Cigna (using the mail or fax number at the top of the form) or this page can be returned to GitLab and we can send to Cigna all at once. This is completely at the preference of the team member or the requirement from the Doctor. 
-2. The Total Rewards team will complete the employer portion of the Short Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
+2. The Total Rewards team will complete the employer portion of the Short-Term Disability form and send to Cigna via email: `dallasfco.intake2@cigna.com`
 3. The Total Rewards team will notify the team member of submission of claim and provided next steps. 
 4. Cigna Claims Process:   
       - Within 3 business days of Cigna receiving the claim, their claims team will contact the team member to gather additional medical or eligibility data, if needed.  
@@ -461,7 +468,7 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 1. Notify the Total Rewards team of intention to take parental leave at least 30 days in advance, or as soon as reasonable by entering the dates in PTO Roots via Slack.
 2. For a birthing parent (maternity leave), the team member will fill out the [Leave Request Form](https://drive.google.com/file/d/1guydUTEc0vBFMaa_IsSktZ5hXAbOXdvD/view?usp=sharing) and [Assignment of Benefits](https://drive.google.com/file/d/1pGqQsuzk3aEdG4srj78fXWrsRfb7jqB9/view?usp=sharing) and email the completed forms to `total-rewards@gitlab.com`.
       - The Assignment of benefits form states that Cigna will pay GitLab the funds and GitLab will dispurse those funds to the team member. The intention of this form is to keep payroll consistent for the team member via GitLab payroll vs needing to offset disability payments from Cigna. GitLab may need to offset any state related payments if applicable. 
-      - Please see the Short Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form. 
+      - Please see the Short-Term Disbaility claims process for more information on how the claim will be [processed with Cigna](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance) as well as specifics on how to fill out the Leave Request Form. 
 1. The Total Rewards team will send the team member an email with how payments will be processed and advise any differences in pay.
 1. The Total Rewards team will confirm [payroll details](#payroll-processing-during-parental-leave) with the Payroll team via the Payroll Changes google sheet.
 1. The team member will notify the Total Rewards team on their first day back to work.
@@ -471,12 +478,12 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
 ### Payroll Processing During Parental Leave
 
 **Paternity Leave**
-Paternity Leave is not covered under Short Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Paternity Leave is also offset for any state eligible payments. 
+Paternity Leave is not covered under Short-Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Paternity Leave is also offset for any state eligible payments. 
 
 **Maternity Leave**
 For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
 
-GitLab will recieve the Short Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset. 
+GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset. 
 
 ## COBRA
 
