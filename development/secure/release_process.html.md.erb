@@ -20,27 +20,35 @@ Our release process is aided by scripts stored in our [release scripts project](
 
 ### Versioning
 
-GitLab Security Products use an independent versioning system from GitLab's MAJOR.MINOR. All products use a variation of [Semantic Versioning](https://semver.org). [DAST](#dast) has a dedicated versioning process, [as documented in the DAST project](https://gitlab.com/gitlab-org/security-products/dast/blob/master/doc/release-process.md)
+GitLab Security Products use an independent versioning system from GitLab's `MAJOR.MINOR`. All products use a variation of [Semantic Versioning](https://semver.org) and are available as Docker images. 
 
-Each Security Product releases a new `MAJOR` tag with each update to our underlying tools.
-For each security product, a tagged image also corresponds to the 
+**Note**: [DAST](https://gitlab.com/gitlab-org/security-products/dast/blob/master/doc/release-process.md) and [Container-Scanning](https://gitlab.com/gitlab-org/security-products/analyzers/container-scanning#release) have a dedicated versioning process that might differ.
+
+For each security product, the following stable images are available: `MAJOR.MINOR.PATCH`, `MAJOR.MINOR`, `MAJOR`, and `latest`. There is also an `edge` image built from the default branch, considered as an unstable version. The `MAJOR.MINOR.PATCH` tag corresponds to the 
 [git tag of the released version; i.e. `dast:1.15.0`](https://gitlab.com/gitlab-org/security-products/dast/tags).
-In most circumstances it is preferred to rely on the `MAJOR` image instead,
+In most circumstances it is preferred to rely on the `MAJOR` image,
 which is automatically kept up to date with the latest advisories or patches to our tools.
 Our [included CI templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Security) pin to major version but if preferred, users can override their version directly.
+
+The following diagram describes the Docker tags that are created when a new analyzer version is released:
 
 ```mermaid
 graph LR
 
-A1[git tag v1.1.1]--> B1(run CI pipeline)
-B1 -->|build tag| D1[1.1.1]
-B1 -->|tag major| E1[1]
-B1 -->|build edge| E2[edge]
+A1[git tag v1.1.0]--> B1(run CI pipeline)
+B1 -->|build and tag patch| D1[1.1.0]
+B1 -->|tag minor| E1[1.1]
+B1 -->|retag major| F1[1]
+B1 -->|retag latest| G1[latest]
 
-A2[git tag v1.2.0]--> B2(run CI pipeline)
-B2 -->|build tag| D2[1.1.2]
-B2 -->|retag major| E3[1]
-B2 -->|retag edge| E4[edge]
+A2[git tag v1.1.1]--> B2(run CI pipeline)
+B2 -->|build and tag patch| D2[1.1.1]
+B2 -->|retag minor| E2[1.1]
+B2 -->|retag major| F2[1]
+B2 -->|retag latest| G2[latest]
+
+A3[push to default branch]--> B3(run CI pipeline)
+B3 -->|build and tag edge| D3[edge]
 ```
 
 Per our Continuous Deployment flow, for new components that do not have a counterpart in the GitLab
