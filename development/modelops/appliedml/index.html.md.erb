@@ -12,7 +12,7 @@ description: "The Applied ML is focused on how to extend GitLab functionality to
 
 ## Vision
 
-The applied ML group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI. This group will build on existing successful GitLab categories and features to make them smarter, easier to use, and more intelligent
+The applied ML group is focused on how to extend GitLab functionality to provide additional value by leveraging ML/AI. This group will build on existing successful GitLab categories and features to make them smarter, easier to use, and more intelligent.
 
 How we work:
 - We work in accordance with our [GitLab values](/handbook/values/).
@@ -21,10 +21,6 @@ How we work:
 - We have a [bias for action](/handbook/values/#bias-for-action).
 - We make data-driven decisions.
 - Everyone can contribute to our work.
-
-**I have a question. Who do I ask?**
-
-Questions should start by @ mentioning the product manager TBD or by creating an issue in our issue board TBD.
 
 ## Direction
 
@@ -44,50 +40,17 @@ The following people are permanent members of the Applied ML Group:
 
 Our team uses a hybrid of Scrum for our project management process. This process follows GitLab's [monthly milestone release cycle](/handbook/marketing/blog/release-posts/#monthly-releases).
 
-- We only work off of issue boards which act as our single source of truth.
-- We continuously progress issues to the next workflow stage.
-- We work on both product and engineering initiatives.
-- We prioritize and estimate all issues we work on.
-- We do weekly refinement to ensure our issue board is always kept up to date.
-- We do monthly milestone planning to prepare for our upcoming milestone.
 
 
 ### Workflow
 
 Our team use the following workflow stages defined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary):
 
-#### Validation stage
-
-| Label | Usage |
-| -- | -- |
-| `~"workflow::validation backlog"` | Applied by the Product Manager for incoming issues that have not been refined or prioritized. |
-| `~"workflow::problem validation"` | Applied by the Product Manager for issues where the PM is developing a thorough understanding of the problem |
-| `~"workflow::design"` | Applied by the Product Manager or Designer (or Engineer) to ideate and propose solutions. The proposed solutions should be reviewed by engineering to ensure technical feasibility. |
-| `~"workflow::solution validation"` | Applied by the Product Manager or Designer (or Engineer) to validate a proposed solution through user interviews or usability testing. |
-
-#### Build stage
-
-| Label | Usage |
-| -- | -- | -- |
-| `~"workflow::planning breakdown"` | Applied by the Product Manager for Engineers to begin breaking down issues and adding estimates. |
-| `~"workflow::ready for development"` |  Applied by either Engineering or Product Manager after an issue has been broken down and scheduled for development. |
-| `~"workflow::in dev"` | Applied by the Engineer after work (including documentation) has begun on the issue. An MR is typically linked to the issue at this point. |
-| `~"workflow::in review"` | Applied by the Engineer indicating that all MRs required to close an issue are in review. |
-| `~"workflow::verification"` | Applied by the Engineer after the MRs in the issue have been merged, this label is applied signaling the issue needs to be verified in staging or production. |
-| `~"workflow::production"` | Applied by the Engineer after all MRs have merged and the issue has been verified. At this step, the issue should be closed as complete. |
-| `~"workflow::blocked"` | Applied by any team member if at any time during development the issue is blocked. For example: technical issue, open question to PM or PD, cross-group dependency. |
-
 
 ### Epic roadmap
 
 We use an epic roadmap to track epic progress on a quarterly basis. The epic roadmap is a live view of the TBD
 
-To keep things simple, we primarily use the [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) group for our roadmap. If epics are created on the [gitlab.com/gitlab-com](https://gitlab.com/gitlab-com/) and [gitlab.com/gitlab-services](https://gitlab.com/gitlab-services/) groups, we create placeholders of them on [gitlab.com/gitlab-org](https://gitlab.com/gitlab-org/) so that all epics show up in a single roadmap view.
-
-| gitlab-org | gitlab-com | gitlab-services | all groups |
-| ------ | ------ | ------ | ------ |
-
-TBD
 
 ### Issue boards
 
@@ -98,8 +61,6 @@ Link TBD
 ### Iteration
 
 We follow the [iteration process](/handbook/engineering/#iteration) outlined by the Engineering function.
-
-### Estimation
 
 
 ### Due dates
@@ -155,107 +116,6 @@ The specific application of this timeline to the milestone planning process is s
 **1 week prior to start of the next milestone**
 1. Engineering completes board refinement, all issues are weighted
      1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
-1. Engineering team indicates reduced capacity by adding planned time off to the Planning Issue     
-1. Product Manager orders the issue board by priority
-1. Product Manager adds/removes issues if the board is over/under target weight   
-1. Product Manager finalizes Planning Issue and pings engineering team
-1. Release Day happens on the `Current Month 22nd`
-
-**Start of Milestone**
-1. Product Manager moves any open issues from the prior milestone to the new milestone and apply the `missed::x.xx` label
-1. Product Manager updates the planning issue with the weights closed in the prior milestone and the weights for the current milestone
-1. [Team Retrospectives](/engineering/management/team-retrospectives/) for prior milestone begins
-     1. Team Retrospective discussion takes place as a part of our sync meetings and it occurs on the last meeting of every month.
-
-
-#### Milestone Capacity
-
-Our milestone capacity tells us how many issue weights we can expect to complete in a given milestone. This is calculated by taking the sum of issue weights completed in the last milestone prorated by holidays. If there is a large variation in the estimated capacity of the last milestone and the one before it, we will use an average estimated capacity of the last few milestones. Here is an example of how we calculate capacity:
-
-**Last Milestone:**
-* **Total weights completed:** 24
-* **Available work days:** 21.6 * 1 engineers = 21.6 available days
-* **Actual work days:** 21.6 available days - 5 days off = 16.6 actual days
-* **Ratio of available:actual work days:** 21.6 / 16.6 = 1.30
-* **Maximum capacity:** 24 * 1.3 = 31 weights
-
-**Current Milestone:**
-* **Available work days:** 21.6 days * 1 engineers = 21.6 available days
-* **Actual work days:** 21.6 av-days - 0 days off = 21.6 actual days
-* **Ratio of available:actual work days:** 21.6 / 21.6 = 1
-* **Maximum capacity:** 31 * 1 = 31 weights
-
-In this example, the current milestone capacity is 31 weights.
-
-#### Milestone Commitment
-
-A milestone commitment is a list of issues our team aims to complete in the milestone. The product team follows our GitLab pricinciple of [planning ambitiously](https://about.gitlab.com/handbook/product/product-principles/#how-this-impacts-planning) and therefore expect that we won't always be able to deliver everything that we wanted in every milestone. After issues are broken down, estimated, and prioritized, the product manager will apply the `~Deliverable` label to applicable issues. Issues marked with the `~Deliverable` label represent the commitment we are intending to ship in that milestone.
-
-## Epics and issues
-
-To help our team be [efficient](/handbook/values/#efficiency), we explicitly define how our team uses epics and issues.
-
-### Epic and issue creation
-
-We aim to create issues in the same project as where the future merge request will live. And we aim to create epics at the topmost-level group that makes the most sense for its collection of child epics and issues. For example, if an experiment is being run in the CustomersDot, the epic should be created in the `gitlab-org` group, and the issue should be created in the `gitlab-org/customers-gitlab-com` project.
-
-We emphasize creating the epic at the topmost-level group so that it will show up on our epic roadmap. And we emphasize creating the issue in the right project to avoid having to close and move it later in the development process.
-
-### Ratio of issues to MRs
-
-We used to aim for a 1:1 ratio between issues and merge requests, mainly for the sake of status visibility at the issue board level. We have since moved to using epics and the epic roadmap for product management visibility, and we are comfortable with the amount of status updates received during our weekly sync meetings as well as through comments within issues themselves.
-
-If an issue requires multiple merge requests, we no longer recommend splitting the issue itself up in order to maintain a 1:1 ratio of issues to MRs. The advantage is that an engineer is able to create an arbitrary number of MRs for a single issue and can move much more quickly through them. The trade-off is that doing so makes it more difficult to communicate the overall status of the issue itself. It is the engineer's responsibility to make sure that the status of each issue they are working on is effectively communicated to their Product Manager.
-
-### Epics
-
-We group related issues together using parent [epics](https://docs.gitlab.com/ee/user/group/epics/) and child epics, providing us with a better visual overview of our roadmap.
-
-- The description of the parent epic should always be kept up-to-date as the single source of truth.
-- The conversation about the implementation or design is done in issues.
-- Designs in progress will be in UX issues, using the design tab for conversation, review, feedback, exploration, etc.
-- The final designs should be linked in the parent epic description.
-- Epics and Child Epics must have the same section and group labels to see them on our roadmap.
-- We use the prefixes `[ENG]`, `[UX]` and `[Product]` to indicate their area of focus. The prefixes can be combined if the epic holds issues of different areas, e.g. `[ENG][UX]`.
-- We use the labels `Engineering` and `UX` to easily filter epics.
-
-#### Issue handover and breakdown
-
-After a design is done, the design issue needs to be set to `workflow::planning breakdown` and engineering takes over the process of breaking it down. The design issue can be closed after break down is done.
-
-#### How To Structure Epics
-
-Epics can contain issues and/or child epics. A child epic could for example be the first iteration of the parent epic.
-An example of how the structure of an epic could look:
-
-- Parent Epic
-  - Child Epic 1: First Iteration
-    - Issue: Design Task 1
-    - Issue: Design Task 2
-    - Issue: Engineering Task 1
-    - Issue: Engineering Task 2
-  - Child Epic 2: Second Iteration
-    - Issue: Design Task 3
-    - Issue: Engineering Task 3
-  - Child Epic 3: API Changes
-    - Issue: Engineering Task 4
-    - Issue: Engineering Task 5
-  - Issue: Engineering Task 6
-  - Issue: Engineering Task 7
-
-#### Using epics across groups
-
-Epics have the following limitations:
-
-- Epics can only link issues that are within the same group. For example, it's not possible to link an issue in `gitlab-org` from an epic created in `gitlab-org/growth`.
-- Epics can't link issues across different top level groups. For example, an epic created in `gitlab-org` can't link to an issue created in `gitlab-services`.
-
-To overcome this, we will:
-
-- Always create epics in the top level group, e.g. [`gitlab-org`](https://gitlab.com/groups/gitlab-org/-/epics`), [`gitlab-com`](https://gitlab.com/groups/gitlab-com/-/epics`), or [`gitlab-services`](https://gitlab.com/groups/gitlab-services/-/epics`).
-- Create placeholder epics that link to the other top-level group epic. These placeholders get created automatically when pasting a link to an epic of another top-level group epic
-
-The parent epic should live on the top-level group where most of the issues and child epics will be created.
 
 ### Issue labels
 
