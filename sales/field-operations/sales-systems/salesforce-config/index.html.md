@@ -55,7 +55,7 @@ Below is a list of all of our installed packages in SFDC:
 | Zuora for Salesforce 360                                         | Zuora, Inc.                             | [@andrew_murray](https://gitlab.com/andrew_murray)                  | Finance                    | 5/28/2020
 | Zuora Quotes                                                     | Zuora                                   | [@andrew_murray](https://gitlab.com/andrew_murray)                   | Finance                    | 5/28/2020
 | Gainsight CSM                                                    | Gainsight, Inc.                         | [@jdbeaumont](https://gitlab.com/jdbeaumont)                 | Customer Success           | 5/28/2020
-| Sertifi E-Sign for Salesforce.com                                | Sertifi                                 | [@james_harrison](https://gitlab.com/james_harrison)                   | Sales Ops                     | 5/28/2020
+| DocuSign Apps Launcher                                | DocuSign                                 | [@james_harrison](https://gitlab.com/james_harrison)                   | Sales Ops                     | 6/03/2021
 | Conga Composer                                                   | AppExtremes                             | [@rnalen](https://gitlab.com/rnalen)                               | Legal                           | 5/28/2020
 | Standard Tab Overrides                                           | Software Anywhere                       | [@jbrennan1](https://gitlab.com/jbrennan1)                           | Sales Systems             | 5/28/2020
 
@@ -64,7 +64,7 @@ Below is a list of all of our installed packages in SFDC:
 #### Salesfeorce Certificates 
 Learn more about Salesforce Certificates and Keys [here](https://help.salesforce.com/articleView?id=security_keys_about.htm&type=5)
 
-#### Updateing Expiring Certificates 
+#### Updating Expiring Certificates 
 The Salesforce knowledge base has [a resource](https://help.salesforce.com/articleView?id=000329338&type=1&mode=1) that addressed what to do and how to handle Expiring certificates. Currently in Salesforce our certificate is located in two places and needs to be updated in both. In order to update please follow the below steps and update in the following locations. 
 - Create a new certificate by searching for `Certificate and Key Management` in setup. From there create a self-signed certificate and ensure that the options match the certificat you are replaceing. Please note that the information in the `Certificate` field will be slightly differnt between the old an new certificate. Then update the certificate in the following locations 
    - [SAML Single Sign-On Settings](https://gitlab.my.salesforce.com/0LE4M0000004J63)
