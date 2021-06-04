@@ -30,6 +30,8 @@ Ensure that when customers buy DevOps software the single application approach i
 1. **Be a thought leader:** We aspire to become the trusted voice about the future of the DevOps industry by being the number one IT vendor ranking in Google searches for DevOps and [DevOps Platform](/solutions/devops-platform/)
 1. **Create a strong partner ecosystem:**  Do our best to develop alliances, systems integrator and channel partners to service specific markets to drive [partner initiatied opportunities](/handbook/sales/field-operations/channel-operations/#partner-initiated-opportunity---pio) to contribute 30% of incremental ARR and 20% of new logos.
 
+More detail on our product strategy can be found on our [direction page](/direction/#vision).
+
 ### 2) Build on our Open Core strength
 
 We will strive to increase the contributions of the wider community.
@@ -60,7 +62,6 @@ Host the deepest catalog of remote work content of any company in the world.
 
 As we execute on our strategy, it is important to use our [financial targets](/handbook/being-a-public-company/#long-term-targets-underpin-efficient-durable-growth) as guide rails and mature our internal processes for building a durable business for the long-term.
 
-More detail on our product strategy can be found on our [direction page](/direction/#vision).
 
 ## Principles
 
