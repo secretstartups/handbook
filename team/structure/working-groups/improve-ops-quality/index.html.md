@@ -33,7 +33,7 @@ Mitigate future incidents by empowering developers to efficiently work on test c
 
 1. Analyze all high-severity incidents in the past 3 months and list improvement themes needed (e.g. mixed deployments, new staging, load testing, better tests outside unit tests). `=> 100%`
   * [Review package incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/323340)
-  * [CI/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
+  * [Pipeline Execution/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
   * [Runner executable E2E environment](https://gitlab.com/gitlab-org/ci-cd/tests/runner-incept)
 1. Add runner executable E2E test environment `=> 100%`
 1. Add test coverage for high risk runner functionality `=> 66%`
@@ -51,7 +51,7 @@ Items identified to continue work on past the scope of the Working Group but nec
 1. [Runner staging environment](https://gitlab.com/gitlab-org/gitlab-runner/-/issues/27684)
 1. [Mixed deployment test environment](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/888)
 1. [Package and Container Registry performance test environments](https://gitlab.com/gitlab-org/gitlab/-/issues/328209)
-1. Add a performance test for CI
+1. Add a performance test for Pipeline Execution
 
 ### Roles and Responsibilities
 
@@ -60,7 +60,7 @@ Items identified to continue work on past the scope of the Working Group but nec
 | Executive Sponsor     | Mek Stittri           | VP of Quality            |
 | Facilitator           | Joanna Shih           | Quality Engineering Manager, Ops |
 | Functional Lead       | Sofia Vistas          | Software Engineer in Test, Package:Package |
-| Functional Lead       | Tiffany Rea           | Software Engineer in Test, Verify:Continuous Integration |
+| Functional Lead       | Tiffany Rea           | Software Engineer in Test, Verify:Pipeline Execution |
 | Functional Lead       | Zeff Morgan           | Software Engineer in Test, Verify:Runner |
 | Stakeholder           | Christopher Lefelhocz | VP of Development              |
 | Stakeholder           | Brent Newton          | Director of Infrastructure, Reliability |
@@ -69,7 +69,7 @@ Items identified to continue work on past the scope of the Working Group but nec
 | Member                | Jackie Porter         | Group Manager, Product, Verify   |
 | Member                | Dan Croft             | Sr. Manager, Engineering, Continuous Delivery |
 | Member                | Darby Frey            | Sr. Manager, Engineering, Verify |
-| Member                | Cheryl Li             | Backend Engineering Manager, Verify:Continuous Integration |
+| Member                | Cheryl Li             | Backend Engineering Manager, Verify:Pipeline Execution |
 | Member                | Elliot Rushton        | Backend Engineering Manager, Verify:Runner |
 | Member                | Tanya Pazitny         | Interim Director of Quality Engineering |
 | Member                | Nailia Iskhakova      | Software Engineer in Test, Enablement:Distribution |
