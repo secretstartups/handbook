@@ -33,14 +33,14 @@ If the answer is “No” to either of these questions, discussion continues wit
 If the answer is "Yes" to these questions the team estimates **whether or not the issue
 can be delivered in a single iteration** (ignoring any other work that may be in that same
 iteration). If it's determined that the issue under discussion cannot be delivered within a single
-iteration, the team works with the PM to break it into multiple MVC Epics that can each be
+iteration, the team works with the PM to break it into multiple MVC Issues that can each be
 delivered in an iteration, are independent "slices" of value that can be used by a customer (so no
 mocked UIs or backend-only work that is inaccessible), and when all delivered will completely
 fulfill the original issue's requirements.
 
 * EM output: Once all of the above requirements have been satisfied the EMs assign a frontend and backend engineer as respective DRIs to create Implementation Issues under the MVC epic(s). The Design issue created by UX is also closed at this point by the EM. 
 
-* Engineering output: Frontend and backend DRIs create implementation issues following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the Gitlab-org project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
+* Engineering output: Frontend and backend DRIs [create implementation issue](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation)s following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the Gitlab-org project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
 
 ### Refinement
 
