@@ -19,8 +19,12 @@ It is essential that Area Sales Managers (ASMs) support the Account Planning and
 * Gainsight supports our values of Results and Collaboration. It will enable us to work even better as a cross-functional team – bringing SALs, SAs, TAMs, Channel & Alliances in one place to learn from one another and codify "what good looks like" so we can all grow and develop our skills and reach our Peak Performance together.
 
 ### Examples of What Good Looks Like 
+These links will take you to the account in Gainsight. Once you're logged into Gainsight, scroll down to "Success Plans" and make sure you are looking at the Account Plan, not the TAM's Success Plan. 
 
-*Coming Soon* 
+* [Example #1](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFW2TN7OSIREEMQD0TZXJ) 
+* [Example #2](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFW27TN3MZRTY5SZ1ZKVH)
+* [Example #3](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFWBRQ0UA0D7Q8M0XEOZC)
+* [Example #4](https://gitlab--jbcxm.na129.visual.force.com/apex/GainsightNXT#customersuccess360%3Fcid%3D1P02RKMLNB117PXAFWEXL4R6CG29REEIB826)
 
 ## What to Look for in a Great Account Plan 
 
