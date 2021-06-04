@@ -392,11 +392,6 @@ Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articl
 
 **NOTE:** Any ticket merge is final -- there is no option to undo it.
 
-#### Accidentally merged the wrong tickets
-
-It's possible that you accidentally ended up merging the wrong tickets.
-When this happens, you should reach out to your manager to assess the situation.
-
 ### Removing Information From Tickets
 
 We ask users to send us logs and other files that are crucial in helping us solve the problems they are experiencing. If a user requests deletion of information shared in a support ticket, or if we suspect sensitive information was accidentally shared, the information can be deleted using the [`Ticket Redaction`](https://www.zendesk.com/apps/support/ticket-redaction/) app.
