@@ -61,7 +61,7 @@ We believe an excellent forecasting process enables us to deploy our resources e
 
 ## Sales & Marketing Funnel SSOT Dashboards
 The following Single Source of Truth (SSOT) dashboards provide a monthly and quarterly Sales & Marketing funnel trend view, including; 
-- IACV Pipeline Created
+- ARR Pipeline Created
 - Average days to SAO and to Closed Won
 - $ & # of Stage 1+ opportunities
 - $ & # of Closed Won opportunities
@@ -96,8 +96,8 @@ Seperate dashboards have been created for each Stamped User Segment, and for onl
 
 
 ## Pipeline Velocity
-This file details how much Net IACV has been closed relative to the quarterly target and the pace it has been booked at throughout the quarter.  The current quarter performance is 
-compared to other historical quarters, to highlight whether the speed at which the net iACV has been closed is ahead or behind that of historical performance. 
+This file details how much Net ARR has been closed relative to the quarterly target and the pace it has been booked at throughout the quarter.  The current quarter performance is 
+compared to other historical quarters, to highlight whether the speed at which the Net ARR has been closed is ahead or behind that of historical performance. 
 
 In addition, the file also analyses how open pipeline is progressing for the next quarter relative to its quarterly target and the pace at which new opportunities are being added. This is 
 also compared to historical quarters to inform whether the current quarter is ahead, in line, or behind the pace of previous quarters.
@@ -117,7 +117,7 @@ This dashboard analyzes the Landed Addressable Market (LAM) offered by our exist
 
 [SFDC Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOd)
 
-## Net IACV Pipeline Movement
+## Net ARR Pipeline Movement
 This file is intended to detail how the pipeline evolves throughout the quarter: capturing deals in the initial pipeline, those added later in the quarter, closed deals, slipped deals, and those remaining at quarter end.
 
 [File](https://docs.google.com/spreadsheets/d/1L4Rl6hGb5t8x8f_3ILwUlYvOL7Rdo2Rh8FZf0RumBqE/edit#gid=1993507993)
@@ -129,8 +129,8 @@ This file is intended to assess and forecast Professional Services department's 
 
 ## Bookings Dashboard
 This dashboard provides a monthly trend view for Bookings, including dollar and count information. The 3 main sections of the dashboard are as follows:
-- Bookings Trend: high-level view of the last 14 months for Net IACV, Renewal ACV, Won ACV, MYB, PS/PS Attach Rate, and TCV
-- Net IACV Breakout: drill-down into the Net IACV components, such as FO, Growth, Expansion, Contraction, and Lost Renewals
+- Bookings Trend: high-level view of the last 14 months for Net ARR, Renewal ARR, Won ACV, MYB, PS/PS Attach Rate, and TCV
+- Net ARR Breakout: drill-down into the Net ARR components, such as FO, Growth, Expansion, Contraction, and Lost Renewals
 - Next 6 Months Pipe: view into the pipeline for the next 6 months
 
 [Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXuF)
