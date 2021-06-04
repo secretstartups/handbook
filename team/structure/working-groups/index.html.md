@@ -131,7 +131,7 @@ If you are interested in participating in an active working group, it is general
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
 * [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
-* [PaleVioletRed](/company/team/structure/working-groups/pale-violet-red/)
+* [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Real-Time](/company/team/structure/working-groups/real-time/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
 * [SOX PMO](/company/team/structure/working-groups/sox/)

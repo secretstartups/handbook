@@ -1,8 +1,8 @@
 ---
 layout: markdown_page
-title: "PaleVioletRed Working Group"
+title: "Pipeline Validation Service Operations Working Group"
 description: ""
-canonical_path: "/company/team/structure/working-groups/pale-violet-red/"
+canonical_path: "/company/team/structure/working-groups/pipeline-validation-service-operations/"
 ---
 
 ## On this page
@@ -11,31 +11,27 @@ canonical_path: "/company/team/structure/working-groups/pale-violet-red/"
 - TOC
 {:toc}
 
-## Not Public
-
-Certain aspects of this Working Group are [not public](https://about.gitlab.com/handbook/communication/#not-public).  The project code name PaleVioletRed has been selected to refer to the Working Group in accordance with [not public project naming conventions](https://about.gitlab.com/handbook/communication/#project-names).  Additional context can be found in [the WG agenda](https://docs.google.com/document/d/19-2QG0yXDt2p9vKLLxwrmqgBezk1Li7Zd6iTh-hotso/edit) (only accessible from within the company).
-
 ## Attributes
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | 2021-05-21 |
+| Date Created    | 2021-06-03 |
 | Target End Date | 2021-12-03 |
-| Slack           | #wg_pale-violet-red (only accessible from within the company) |
+| Slack           | #f_pipeline_validation_service (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/19-2QG0yXDt2p9vKLLxwrmqgBezk1Li7Zd6iTh-hotso/edit) (only accessible from within the company) |
 
 ## Goals
 
 This Working Group has the following goals:
 
-1. Operate and develop the PaleVioletRed service
-1. Track PaleVioletRed service workload and effectiveness
-1. Transition the service to a long term owner
+1. Operate and develop the Pipeline Validation Service (PVS) 
+1. Track PVS workload and effectiveness
+1. Transition PVS to a long term owner
 
 
 ### Exit Criteria 
 
-1. Successfully transition the service to a long term owner
+1. Successfully transition PVS to a long term owner
 
 ### Roles and Responsibilities
 
