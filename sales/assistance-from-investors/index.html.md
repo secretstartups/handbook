@@ -46,6 +46,7 @@ We have great investors who can and want to help us penetrate strategic accounts
     - If the above minimum criteria is met, the SAL/AE must meet with their direct manager to review and seek their approval.
     - Only approved Accounts can be added to the Investor Introductions Tracker.
 - **No more than 20 Top Accounts** will be included and approved per quarter across all regions and segments
+    - Top Accounts are refreshed quarterly
 
 ### Resources
 
