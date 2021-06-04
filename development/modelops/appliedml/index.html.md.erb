@@ -101,7 +101,6 @@ We follow the [iteration process](/handbook/engineering/#iteration) outlined by 
 
 ### Estimation
 
-We follow the [estimation process](/handbook/engineering/development/growth/#estimation) outlined by the Growth sub-department.
 
 ### Due dates
 
@@ -200,7 +199,7 @@ To help our team be [efficient](/handbook/values/#efficiency), we explicitly def
 
 We aim to create issues in the same project as where the future merge request will live. And we aim to create epics at the topmost-level group that makes the most sense for its collection of child epics and issues. For example, if an experiment is being run in the CustomersDot, the epic should be created in the `gitlab-org` group, and the issue should be created in the `gitlab-org/customers-gitlab-com` project.
 
-We emphasize creating the epic at the topmost-level group so that it will show up on our epic roadmap. And we emphasize creating the issue in the right project to avoid having to close and move it later in the development process. If the location of the future merge request cannot be determined, we will create the issue in our catch-all [growth team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/issues).
+We emphasize creating the epic at the topmost-level group so that it will show up on our epic roadmap. And we emphasize creating the issue in the right project to avoid having to close and move it later in the development process.
 
 ### Ratio of issues to MRs
 
@@ -263,15 +262,12 @@ The parent epic should live on the top-level group where most of the issues and 
 We use issue labels to keep us organized. Every issue has a set of required labels that the issue must be tagged with. Every issue also has a set of optional labels that are used as needed.
 
 **Required labels**
-- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::growth`
-- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::applied ML`
+- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::modelops`
+- `~group::applied ML`
 - [Workflow:](/handbook/product-development-flow/#workflow-summary) `~"workflow::planning breakdown`, `~"workflow::ready for development`, `~"workflow::in dev`, etc.
 
 **Optional labels**
-- [Experiment:](/handbook/engineering/development/growth/#experiment-issue-creation) `~growth::experiment`
-- [Experiment Status:](/handbook/engineering/development/growth/#experiment-issue-creation) `~"experiment::active`, `~"experiment::validated`, etc.
 - [Release Scoping:](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md) `~Deliverable`
-- [UX:](/handbook/engineering/development/growth/#ux-workflows) `UX`
 - Other labels in [issue workflow](https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/development/contributing/issue_workflow.md)
 
 ### Merge request labels
@@ -282,8 +278,8 @@ MR labels can mirror issue labels (which is automatically done when created from
 
 TBD
 
-- [Stage:](/handbook/engineering/development/growth/#how-we-work) `~devops::modelops`
-- [Group:](/handbook/engineering/development/growth/#how-we-work) `~group::applied ML`
+- `~devops::modelops`
+- `~group::applied ML`
 - [Type:](/handbook/engineering/metrics/#data-classification) `~security`, `~bug`, `~feature`, `~tooling`, `~documentation`
 
 ### Milestones
@@ -317,5 +313,5 @@ See the TBD as well as the
 We recognize that just as [an issue may be broken down into multiple merge requests](#ratio-of-issues-to-mrs), so can iteration of a feature be spread across several MRs, especially with the use of [feature flags](https://docs.gitlab.com/ee/development/feature_flags/process.html#feature-flags-in-gitlab-development).
 
 We aim for the current [development department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-which is tracked using our [Growth Section Performance Indicators](/handbook/engineering/development/performance-indicators/growth/).
+which is tracked TBD.
 
