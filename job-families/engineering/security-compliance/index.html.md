@@ -139,11 +139,9 @@ The {Manager, Security Compliance} is a [grade 8](/handbook/total-rewards/compen
 * Maintain a robust common control framework and continuous monitoring program aligned with GitLab's certification roadmap
 * Proactively identify changing regulatory requirements and appropriately adjust the scope of the security compliance program to accommodate these changes
 * Ensure execution of required testing and remediation activities leading to successful security certification(s)
-* Manage a robust governance program, to include ownership of security policies and security awareness training 
 * Make broad recommendations on improving security compliance related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
 * Prepare and deliver meaningful metrics to Security Assurance leadership
-* Identify and implement automation of manual processes to shorten review and request cycles
-* Administer GRC application
+* Identify and implement automation of manual processes to shorten processes and cycles
 * Successfully execute on quarterly OKRs
  
 #### Manager, Security Compliance Requirements
@@ -159,12 +157,13 @@ The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards
 
 #### Senior Manager, Security Compliance Responsibilities
 * The same responsibilities of a Security Compliance Manager, plus the below:
-* Independently manage new security certification lifecycle, from planning to obtainment
-* Partner with the product organization to dogfood and drive GitLab compliance features
+* Hold regular 1:1s with team managers and skip-level 1:1s with all members of their team
+* Plan and execute long term strategies that benefit your team and align with strategic objectives
+* Identify and independently manage new security certification lifecycle, from planning to maintenance
+* Partner with the product organization to dogfood and drive GitLab compliance features internally
 * Create and deploy innovative and effective strategies for continuous control auditing and monitoring
 * Maintain reliable, up-to-date, information regarding security compliance changes and trends
-* Execute strategic vision for GRC application
-* Draft and successfully execute on quarterly OKRs
+* Draft and successfully execute on multiple quarterly OKRs
  
 #### Senior Manager, Security Compliance Requirements
 * At least 6 years prior experience managing security compliance teams
