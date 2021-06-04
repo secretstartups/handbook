@@ -36,7 +36,7 @@ If the user has already correctly chosen the problem type, the automation will a
 
 ### Check GitLab Admin
 
-1. In the GitLab.com Admin Area, [search for the user](https://gitlab.com/admin/users) by username or email address to confirm the account has been created. Alternatively, search in your browser [using the API](https://gitlab.com/api/v4/users?search=email@email.test).
+1. In the GitLab.com Admin Area, [search for the user](https://gitlab.com/admin/users) by username or email address to confirm the account has been created. Alternatively, search in your browser [using the API](https://gitlab.com/api/v4/users?search=email@email.test) (or through chatops as it uses the Gitlab API).
 1. Check the email address against what the user has reported.
     - Did they make a typo when registering? See [Fix Email Address](#fix-email-address).
     - Otherwise see [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk).
