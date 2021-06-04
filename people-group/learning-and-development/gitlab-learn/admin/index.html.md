@@ -393,6 +393,23 @@ Learning Evangelists can use the following processes to broadcast or highlight t
 1. Share content with a Group you're a part of, like your team
 1. Share content to a Channel with a relevant topic, like Remote Work Foundations
 
+### Adding collaborators to your pathway
+
+Learning evangelists can add other Learning Evangelists as collaborators to Pathways or Journeys they create. In order to do this:
+
+1. In the Pathway or Journey settings, add the person you'd like to collaborate with to the `Collaborators` field
+1. Reach out to the #learninganddevelopment Slack channel to ensure that this person has `Collaborator` permissions
+1. Collaborate together by creating SmartCards in the same Pathway or Journey
+
+Please note that collaborators **cannot** edit existing SmartCards if they are not the author.
+
+A workaround for this limitation is outlined below. If you'd like a `Collaborator` to edit existing SmartCards in a Pathway:
+
+1. The original author of the Pathway can change the author to the desired `Collaborator`
+1. The `Collaborator` will then have access to edit any SmartCards that are created **inside** the Pathway
+1. If the `Collaborator` needs to edit SmartCards that were created outside of the Pathway, they will need to be changed to the author on each of these SmartCards
+1. When the `Collaborator` is done editing, they can change the author of the Pathway back to the original author
+
 ### Designing the discover page
 
 The discover page is the page where learners will land upon logging into the LXP. On this page, users can discover new content, navigate to their followed channels, find their groups, and more.
