@@ -23,7 +23,7 @@ To gain access to a system listed below, please follow the respective link to th
 <details>
   <summary markdown='span'>
   ContactOut
-  </summary>
+  </summary> 
 
 Sourcing Team only - please contact the Sourcing Manager.
 
@@ -381,6 +381,8 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
         1. Where formulas are present, drag them down to cover all rows.
         1. The following rows will need to be entered manually: `Sales VP` (Column I), `Aligned Recruiter` (Column J), and `NQR/OQR` (Column K).
         1. Audit the sheet where `#N/A` appears in a column where a formula is present.
+        1. If a formula is **not** working as expected, check the `Named ranges` on the sheet to see if something is amiss (`Data` > `Named ranges`).
+            * For example, when updating the `[GH] Req Status - Open + Draft` tab, its `Named range` will need to be updated because `Requisition ID` is moved to Column A and that affects that range. Update it to include Column A and it'll work.
 * **Adaptive Report**:
     * Finance will pull and export a report to the [FY22 Headcount Tracker (Hongker)](https://docs.google.com/spreadsheets/d/1ZIYG5YctfhXSR9iAq5l1WNSfpG4moeofMTgSbKD4Hl8/edit#gid=0) sheet.
     * Auditing `GHP IDs` in Adaptive that are **not** in Greenhouse
