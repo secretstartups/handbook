@@ -16,6 +16,8 @@ description: "Workflow for cases when a customer reports they are not receiving 
 
 This workflow covers cases when a user says they are not receiving their confirmation email.
 
+The activation token in a confirmation email will only be valid for 24 hours. Thereafter, the user will need a new confirmation email.
+
 ### Triage the ticket with the correct problem type
 
 Make sure that the ticket is correctly triaged with the `Did not receive confirmation email` problem type, so that
