@@ -106,7 +106,7 @@ The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/
 ### Career Ladder
 
 The next step in the Finance Systems Administration job family is to move the [Manager, Finance Systems](#manager-finance-systems) role
-
+# Manager, Finance Systems
 The Manager, Finance Systems is responsible for performing functions such as evaluation, testing, debugging and implementation of applications programs supporting the company infrastructure business processes and operations. Other functions include analyze, install, modify and support operating systems, databases, and utilities software. The Manager, Finance Systems also plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [Sr. Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
 
 # Manager, Finance Systems
