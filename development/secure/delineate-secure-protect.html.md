@@ -47,7 +47,7 @@ Allows user to view detail of vulnerability and manage it.
 
 ###	Threat Monitoring
 
-Displays statistics and other related information on container security enabled features such as web application firewall (WAF) and container network security (CNS).
+Displays statistics and other related information on container security enabled features such as container network security (CNS).
 
 * [Example](https://gitlab.com/gitlab-org/protect/demos/container-network-policy-alerts/-/threat_monitoring)
 * Product Manager: Sam White
