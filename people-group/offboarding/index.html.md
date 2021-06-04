@@ -273,7 +273,7 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
     * US (Federal LLC.) severance agreements need to be signed by an appropriate team member within the Federal Entity. 
     
 1. ***TMR***: When the signed document is received, the TMR should upload it to the team member's BambooHR profile in the `termination` folder
-1. ***TMR***: As a final step, the PBP should ping the `#payoll_peopleops_terms` private channel to confirm that the Severance document has been signed and uploaded to BambooHR
+1. ***TMR***: As a final step, the TMR specialist will email the appropriate uspayroll@gitlab or nonuspayroll@gitlab and total rewards that the final severance agreement has been uploaded to the team members BambooHR Folder under signed documents.  
 
 _Important Notes:_
 * Separation pay is not paid until the ex-team member signs the document and the revocation period has passed.
