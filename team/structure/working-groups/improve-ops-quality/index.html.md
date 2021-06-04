@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/improve-ops-quality/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 3rd, 2021 |
-| Target End Date | June 2nd, 2021  |
+| Target End Date | July 1st, 2021  |
 | Slack           | [#wg_improve-ops-quality](https://join.slack.com/share/zt-mvpz7iqd-JHTWucxR3YiCayWM~A25Vg) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/11iNJ9-KslGfDr6NtVeimLNSa1kWK_2k4uc2wxS4Baw4/edit) (only accessible from within the company) |
 | Task Board      | [Issue board](https://gitlab.com/groups/gitlab-org/-/boards/2448760) |
@@ -36,13 +36,14 @@ Mitigate future incidents by empowering developers to efficiently work on test c
   * [CI/Runner incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/324364)
   * [Runner executable E2E environment](https://gitlab.com/gitlab-org/ci-cd/tests/runner-incept)
 1. Add runner executable E2E test environment `=> 100%`
-1. Add test coverage for high risk runner functionality `=> 50%`
-1. [Set up load testing environment for CI](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/832) `=> 20%`
+1. Add test coverage for high risk runner functionality `=> 66%`
+1. [Set up load testing environment for PE](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/832) `=> 40%`
 1. Address critical test gaps with new smoke tests for Package group `=> 100%`
-1. Update our process, documentation, on-boarding, and culture going forward. `=> 43%`
-  * Create risk map for [CI](https://about.gitlab.com/handbook/engineering/development/ops/verify/continuous-integration/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 80%`
-  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/879) `=> 50%`
-  * Document end-to-end testing training tools for Engineers
+1. Update our process, documentation, on-boarding, and culture going forward. `=> 35%`
+  * Create risk map for [PE](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 80%`
+  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/879) `=> 60%`
+  * Create 3 end-to-end overview videos for training
+  * Train 1 maintainer each for Package, Runner, PE on end-to-end testing
 
 ### Post working group planned improvements
 Items identified to continue work on past the scope of the Working Group but necessary for ongoing improvement of Ops quality.
@@ -56,7 +57,7 @@ Items identified to continue work on past the scope of the Working Group but nec
 
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
-| Executive Sponsor     | Mek Stittri           | Director of Quality            |
+| Executive Sponsor     | Mek Stittri           | VP of Quality            |
 | Facilitator           | Joanna Shih           | Quality Engineering Manager, Ops |
 | Functional Lead       | Sofia Vistas          | Software Engineer in Test, Package:Package |
 | Functional Lead       | Tiffany Rea           | Software Engineer in Test, Verify:Continuous Integration |
@@ -70,5 +71,5 @@ Items identified to continue work on past the scope of the Working Group but nec
 | Member                | Darby Frey            | Sr. Manager, Engineering, Verify |
 | Member                | Cheryl Li             | Backend Engineering Manager, Verify:Continuous Integration |
 | Member                | Elliot Rushton        | Backend Engineering Manager, Verify:Runner |
-| Member                | Tanya Pazitny         | Quality Engineering Manager, Secure & Enablement |
+| Member                | Tanya Pazitny         | Interim Director of Quality Engineering |
 | Member                | Nailia Iskhakova      | Software Engineer in Test, Enablement:Distribution |
