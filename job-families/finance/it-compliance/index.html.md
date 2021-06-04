@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "IT Compliance Manager Roles"
+title: "IT Compliance Manager"
 description: "As an IT compliance manager, you will assist in the assessment of technology-related compliance issues across the organization." 
 ---
 
