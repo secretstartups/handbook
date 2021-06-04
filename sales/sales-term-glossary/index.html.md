@@ -113,7 +113,7 @@ For example, an account that is active from March 2019 to May 2019 but is inacti
 ### Deal Sizes
 
 Deal Size is a dimension by which we will measure stage to stage conversions and stage cycle times of opportunities.
-Values are [IACV](/handbook/finance/operating-metrics/#bookings-incremental-annual-contract-value-iacv) in USD.
+Values are [Net ARR](/handbook/finance/operating-metrics/#bookings-incremental-annual-contract-value-iacv) in USD.
 
 1. Jumbo - USD 100,000 and up
 1. Big - USD 25,000 to 99,999.99
@@ -128,11 +128,6 @@ Value of **all** bookings from new and existing customers that will result in re
 
 Excluded from ACV are bookings that are non-recurring such as professional services, training and non-recurring engineering fees (PCV).
 
-### Incremental Annual Contract Value (IACV)
-
-Value of new bookings from new and existing customers that will result in recurring revenue over the next 12 months less any credits, lost renewals, downgrades or any other decrease to annual recurring revenue.
-
-For a deep-dive into iACV, including how it is calculated, see the [iACV in Practice Page](/handbook/sales/sales-term-glossary/acv-in-practice)
 
 ### Annual Recurring Revenue (ARR)
 
@@ -142,13 +137,18 @@ We snapshot ARR on business day 4.
 
 For a deep-dive into ARR, including how it is calculated and the analysis framework, see the [ARR in Practice Page](/handbook/sales/sales-term-glossary/arr-in-practice)
 
+### Net Annual Recurring Revenue (Net ARR)
+
+The Net ARR value of deals booked in a specific period based on SFDC Opportunity Close Date. It is the bookings equivalent to Delta ARR.
+
+
 ### Monthly Recurring Revenue (MRR)
 
 Monthly recurring revenue from subscriptions that are active from all customers in a given month.
 
 ### Average Sales Price (ASP)
 
-IACV per won deal. This metric can be reported against various dimensions (e.g. ASP by customer segment, cohort, sales channel, territory, etc.)
+Net ARR per won deal. This metric can be reported against various dimensions (e.g. ASP by customer segment, cohort, sales channel, territory, etc.)
 
 ### ProServe Contract Value (PCV)
 
@@ -257,7 +257,7 @@ D500 accounts are any prospect & customer accounts in SFDC that have more than 5
 Given our land and expand model, we need to attribute our sales and marketing expense toward both our acquiring new customers and growing new customers.
 We allocate sales expense by using number of active customers because the number of active customers operationally drives where sales spends time. It also doesn't underweight sales time spent on first order which tends to be smaller than growth.
 We divide our customer base into cohorts by the quarter when they had their first active subscription. We then weight sales expense to each cohort by the number of active customers in that cohort.
-Our marketing expense is allocated between first order business and connected new business based on IACV because those are the key [KPIs](/company/kpis/) we use to evaluate marketing. Marketing expense includes the cost of free users of gitlab.com.
+Our marketing expense is allocated between first order business and connected new business based on Net ARR because those are the key [KPIs](/company/kpis/) we use to evaluate marketing. Marketing expense includes the cost of free users of gitlab.com.
 
 ### Customer Acquisition Cost (CAC) Ratio
 
@@ -313,16 +313,16 @@ This metric may also be referred to as Average Revenue Per User (ARPU) or Averag
 
 ### Self-Serve Sales Ratio
 
-Ratio of total IACV from closed won, Web Direct opportunities (i.e. customers who purchase via the self-service portal) divided by the total IACV of all closed won opportunities.
-GitLab's target is greater than 30%. The default measurement is IACV but this can also be calculated and reported for ACV.
+Ratio of total Net ARR from closed won, Web Direct opportunities (i.e. customers who purchase via the self-service portal) divided by the total Net ARR of all closed won opportunities.
+GitLab's target is greater than 30%. The default measurement is Net ARR but this can also be calculated and reported for ACV.
 
 ### Late Stage Pipeline
 
-The IACV of all open opportunities currently in the stages of 4-Proposal, 5-Negotiating, and 6-Awaiting Signature.
+The Net ARR of all open opportunities currently in the stages of 4-Proposal, 5-Negotiating, and 6-Awaiting Signature.
 
 ### Total Pipeline
 
-The IACV of all open opportunities.
+The Net ARR of all open opportunities.
 
 ### Pipeline Generation
 
@@ -331,9 +331,9 @@ For KPI measurement pipeline creation vs plan should exceed 1.0.
 
 ### Renewals + Existing Growth
 
-Renewals ACV plus Growth IACV minus (Lost Renewals + Credits + Downgrades)
+Renewals Basis plus Growth ARR minus (Lost Renewals + Credits + Downgrades)
 
-### Upsells/Cross sells and Extensions (IACV)
+### Upsells/Cross sells and Extensions (Net ARR)
 
 The value of the first twelve (12) months of any mid-term upgrade.
 
@@ -351,18 +351,18 @@ The model was created following the iteration value and delivered a working Proo
 
 ### Rep Productivity
 
-The average amount of annualized IACV a native quota carrying sales rep produces in a given month
-formula: (IACV / # of native quota carrying reps adjusted for ramp time) * 12 months.
+The average amount of annualized Net ARR a native quota carrying sales rep produces in a given month
+formula: (Net ARR / # of native quota carrying reps adjusted for ramp time) * 12 months.
 
-The IACV used in this calculation only includes opportunities owned by quota carrying sales reps (not by a manager, director, or VP).
+The Net ARR used in this calculation only includes opportunities owned by quota carrying sales reps (not by a manager, director, or VP).
 Additionally, opportunities that represent web portal purchases are split out separately.
 
 #### Measuring Sales Rep Productivity
 
-The primary metric when measuring rep productivity for only for quota attainment but also for compensation is the Gross Incremental Annual Contract Value (Gross IACV).
+The primary metric when measuring rep productivity for only for quota attainment but also for compensation is the Gross Annual Recurring Revenue Value (Gross ARR).
 Is is important to remember that while renewals are not a part of comp or quota attainment, renewing customers is still very important aspect of our business.
 
-Rep Productivity is defined as IACV divided by the number of reps of a particular type (i.e. SAL, MM AEs, SMB Customer Advocates).
+Rep Productivity is defined as ARR divided by the number of reps of a particular type (i.e. SAL, MM AEs, SMB Customer Advocates).
 Web portal purchases are split out separately.
 
 Another measured KPI is Rep Productivity (as defined above) divided by On Target Income.
