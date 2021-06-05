@@ -29,7 +29,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 1. Winning Top Talent
 1. What is a High Performing Team?
 1. Organizational / Team Health
-1. Giving Feedback & Coaching
+1. Performance Management & Giving Feedback
 1. Management Operating Rhythm
 
 ## Content
@@ -48,10 +48,8 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 ### What is a High Performing Team
 - Pre-work: Module 1 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Building High Performing Teams ([slides](https://docs.google.com/presentation/d/1xEgyPMxNFL7VU5jyGb_-tVykCSNNjpsSh1of6osBq5U/edit?usp=sharing)) (GitLab internal only)
-- Welcome 
-    - [Ryan O'Nell 8am PT edition](https://youtu.be/kNa5eJqLHOM) (6 minutes) 
-    - [Michael McBride 2pm PT edition](https://youtu.be/_3-rdrjAZ2I) (7.5 minutes)
-- [Field Manager Spotlight: High Performing vs. Low Performing Teams featuring Helen Mason](https://youtu.be/FA3rrxmZVS0) (4 minutes, GitLab internal only)
+- [Welcome](https://youtu.be/kNa5eJqLHOM) featuring Ryan O'Nell 8am PT edition] (6 minutes) 
+- [Field Manager Spotlight: High Performing vs. Low Performing Teams](https://youtu.be/FA3rrxmZVS0) featuring Helen Mason (4 minutes, GitLab internal only)
 - [Breakout Exercise: High Performing vs. Low Performing Teams](https://youtu.be/5k6uxPKOzgk) (3 minutes)
 - [Drexler-Sibbet Team Performance Model Overview](https://youtu.be/EN2clCFoBJk) (3 minutes)
 - [Breakout Exercise: Drexler-Sibbet Team Performance Model Stages 1-4](https://youtu.be/vWShPg_lpro) (18.5 minutes)
@@ -82,9 +80,22 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCxct4CR-To" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Giving Feedback and Coaching
+### Performance Management and Giving Feedback
 - Pre-work: Module 3 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Performance Management ([slides](https://docs.google.com/presentation/d/1Owxaz0VtFHR3FOVFHvYq2GCnStmbWfhhc4CWEMdhcw8/edit?usp=sharing)) (GitLab internal only)
+- Performance Management Module Introduction
+    - [David Sakamoto (VP, Customer Success](https://youtu.be/OaKic20yEFU) 8am PT intro (3 minutes)
+    - [David Hong (VP, Field Ops)](https://youtu.be/qzh0149chZ0) 2pm PT intro (3 minutes)
+- [Q3 Field Manager Summit Look Ahead](https://youtu.be/_nb9nVCuqu8) (1 minute)
+- [Performance Management Module Learning Objectives](https://youtu.be/dqP0UbG_Mdc) (1 minute)
+- Field Manager Spotlight: Giving Feedback
+    - [Jennifer Kenney-Smith](https://youtu.be/JrPMBCVEpLk) (12 minutes)
+    - [Reshmi Krishna](https://youtu.be/3q2awSaR_Z8) (13 minutes)
+- [Performance Management Best Practices](https://youtu.be/mzJ6RZKLUGI) featuring Amy Tisdale (Team Member Relations Specialist) (26 minutes) 
+- [Group Discussion: Performance Management Lessons Learned](https://youtu.be/CyLdMdwHU1M) (16 minutes)
+- [Group Discussion: Tailoring Your Approach to Giving Feedback](https://youtu.be/SDNGXI1TXNQ) (12 minutes)
+- [Group Discussion: An Awkward Performance Review](https://youtu.be/4dR__ztGtBA) (5 minutes)
+- [Breakout Exercise: Performance Management](https://youtu.be/-Ppck7u-LPo) (13 minutes)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3_-_RFjfmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
