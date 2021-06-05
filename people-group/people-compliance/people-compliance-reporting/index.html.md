@@ -44,9 +44,14 @@ Specifically, the new law requires employers, (a) with 100 or more employees; an
 - In each of the Job Categories in the federal EEO-1 Report; and
 - Whose annual earnings fall within each of the pay bands used by the United States Bureau of Labor Statistics in the Occupational Employment Statistics survey.
 
-Employers with multiple establishments must submit a report for each establishment and a consolidated report that includes all employees.
+Employers must create a "snapshot" that counts all of the individuals in each job category by race, ethnicity and sex employed during a single pay period of the employer's choice between October 1 and December 31 of the reporting year. Our California Pay Data Report was submitted by the deadline of March 31, 2021 and will be due anually every March 31 going forward.
 
 ### Illinois SB 1480 
 
-Illinois’ SB 1480 requires employers to make their EEO-1 reports public beginning in early 2023. There are no details on if it’s the exact EEO-1 report or if they’ll require a different type of filing to make that public on their state-run website. The reporting structure and what is required is still pending approval by the Secretary of State. In addition, IL will have a Pay Data reporting component like CA does. What that reporting looks like and what fields would be required are also unknown at this time. The requirements for both IL reports begin January 1, 2023, so there will be additional information given nearer to that date.
+Illinois’ SB 1480 requires employers to make their EEO-1 reports public beginning in early 2023. There are no details on if it’s the exact EEO-1 report or if they’ll require a different type of filing to make that public on their state-run website. The reporting structure and what is required is still pending approval by the Secretary of State. In addition, IL will have a Pay Data reporting component. What that reporting looks like and what fields would be required are also unknown at this time. The requirements for both IL reports begin January 1, 2023, so there will be additional information given nearer to that date.
 
+Illinois employers will also need to begin reviewing and potentially modifying their compensation practices immediately to obtain an equal pay registration certificate, which will be required as of March 24, 2024. To apply for an equal pay registration certificate, employers will be required to submit the following to the Illinois Department of Labor:
+
+- Compliance statement: An equal pay act compliance statement, signed by a corporate officer, legal counsel, or authorized agent of the business;
+- Employer Information Report EEO-1: If required to file an EEO-1 report with the EEOC, a copy of the organization’s most recently filed EEO-1 report for each IL county in which the business has a facility or employee(s);
+- List of employees: Separated by gender and race/ethnicity categories as reported in the business’s most recently filed EEO-1 report and the total wages as defined by Section 2 of the Illinois Wage Payment and Collection Act paid to each employee during the past calendar year.
