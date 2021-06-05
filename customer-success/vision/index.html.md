@@ -69,6 +69,23 @@ As part of our customer journey, we highly value the customer's initial experien
 - **First Value**: Represents a small subset of users are using the product in a Production environment. This is achieved when a customer activates 10% of their licenses.
 - **Outcome Achieved**: Represents delivery to original purchase intent. We want to capture the delivery of outcomes against their original purchase intent. New and changed goals will continue to be tracked with the engagement, but not included in this milestone.
 
+### Customer Health 
+
+To improve the customer experience, deliver on customer outcomes, and increase net ARR, GitLab is focused on measuring and improving Customer Health. Customer Health includes multiple health measures that, when aggregated, gives a holistic view into the customer and allows drill-down into specific areas. We have created and adopted the PROVE Value approach:
+
+* **Product**: License + User Engagement + Use Case
+* **Risk**: TAM Sentiment + Opportunity Renewal risks
+* **Outcomes**: Success Plan + Verified Outcomes
+* **Voice of the Customer**: Support + Surveys
+* **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications
+
+The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
+
+![Customer Health Vision](images/customer-health-score-vision.jpeg)
+
+For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach. 
+
+
 ### Retention and Reasons for Churn
 
 We measure customer success through Net Retention.
