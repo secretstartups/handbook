@@ -36,6 +36,7 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
 ## Meeting Details
 1. Before adding to the agenda, E-Group members should consider whether topics are best suited for the meeting agenda or can be covered as FYIs in Slack
 1. All agenda items including any pre-read material should be added to the agenda by 5pm PT *two business days* before the meeting unless something unexpected happens between the end of normal submissions and when the meeting occurs. If something unexpected occurs after this time, please add the topic at the bottom of the agenda and flag to E-Group in the #e-group or #e-group-confidential Slack channels
+1. Submissions should include how much time would ideally be allocated for a specific topic 
 1. The [CoS](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
 1. If pre-work is strongly encouraged, it should be flagged as early possible in the week before in #e-group or another appropriate Slack channel
 1. Each agenda item should clearly state the objective for the topic. For example:
