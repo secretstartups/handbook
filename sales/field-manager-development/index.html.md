@@ -32,7 +32,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 1. What is a High Performing Team?
 1. Organizational / Team Health
 1. Performance Management & Giving Feedback
-1. Management Operating Rhythm
+1. Coaching & Manager Operating Rhythm
 
 ## Content
 
@@ -50,12 +50,13 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 ### What is a High Performing Team
 - Pre-work: Module 1 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
 - Building High Performing Teams ([slides](https://docs.google.com/presentation/d/1xEgyPMxNFL7VU5jyGb_-tVykCSNNjpsSh1of6osBq5U/edit?usp=sharing)) (GitLab internal only)
-- [Welcome](https://youtu.be/kNa5eJqLHOM) featuring Ryan O'Nell 8am PT edition] (6 minutes) 
+- [Welcome](https://youtu.be/kNa5eJqLHOM) featuring Ryan O'Nell (6 minutes) 
 - [Field Manager Spotlight: High Performing vs. Low Performing Teams](https://youtu.be/FA3rrxmZVS0) featuring Helen Mason (4 minutes, GitLab internal only)
-- [Breakout Exercise: High Performing vs. Low Performing Teams](https://youtu.be/5k6uxPKOzgk) (3 minutes)
+- Breakout Exercise: [High Performing vs. Low Performing Teams](https://youtu.be/5k6uxPKOzgk) (3 minutes)
 - [Drexler-Sibbet Team Performance Model Overview](https://youtu.be/EN2clCFoBJk) (3 minutes)
-- [Breakout Exercise: Drexler-Sibbet Team Performance Model Stages 1-4](https://youtu.be/vWShPg_lpro) (18.5 minutes)
-- [Breakout Exercise: Drexler-Sibbet Team Performance Model Stages 5-7](https://youtu.be/4H2wQ8UnFjk) (4 minutes)
+- Breakout Exercises: Drexler-Sibbet Team Performance Model
+    - [Stages 1-4](https://youtu.be/vWShPg_lpro) (18.5 minutes)
+    - [Stages 5-7](https://youtu.be/4H2wQ8UnFjk) (4 minutes)
 - Key Take-Aways 
     - [8am PT session](https://youtu.be/XnLz-vG5iIo) (4.5 minutes) 
     - [2pm PT session](https://youtu.be/E3OG6w-wWLQ) (5.5 minutes)
@@ -73,7 +74,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
     - [Connecting the Human Dots](https://drive.google.com/file/d/1Hu3cCS8zyrhJrt5_vMC23cjRNi-IcaUA/view?usp=sharing) (slides)
     - GitLab Field Managers' [Cross Team TrustMetryx Experience Report](https://drive.google.com/file/d/1HjVb_LAYSJFgVNd7zcM9yd5TA6YoPfE2/view?usp=sharing)
     - GitLab Field Managers' [Your Manager TrustMetryx Experience Report](https://drive.google.com/file/d/1OWVgDArooTOGx2TZzZ56JHLXbZUO0rqb/view?usp=sharing)
-- [Five Dysfunctions of a Team](https://youtu.be/zewH5BzZ4l4) with Denise Parsonage, People Business Partner (17 minutes)
+- [Five Dysfunctions of a Team](https://youtu.be/zewH5BzZ4l4) with Denise Parsonage (People Business Partner) (17 minutes)
 - [Q2 Module 2 Wrap-Up](https://youtu.be/AFGYLmYjxFo) with Michael Leutz (6.5 minutes)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OM2iujpeKeQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,10 +95,10 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
     - [Jennifer Kenney-Smith](https://youtu.be/JrPMBCVEpLk) (12 minutes)
     - [Reshmi Krishna](https://youtu.be/3q2awSaR_Z8) (13 minutes)
 - [Performance Management Best Practices](https://youtu.be/mzJ6RZKLUGI) featuring Amy Tisdale (Team Member Relations Specialist) (26 minutes) 
-- [Group Discussion: Performance Management Lessons Learned](https://youtu.be/CyLdMdwHU1M) (16 minutes)
-- [Group Discussion: Tailoring Your Approach to Giving Feedback](https://youtu.be/SDNGXI1TXNQ) (12 minutes)
-- [Group Discussion: An Awkward Performance Review](https://youtu.be/4dR__ztGtBA) (5 minutes)
-- [Breakout Exercise: Performance Management](https://youtu.be/-Ppck7u-LPo) (13 minutes)
+- Group Discussion: [Performance Management Lessons Learned](https://youtu.be/CyLdMdwHU1M) (16 minutes)
+- Group Discussion: [Tailoring Your Approach to Giving Feedback](https://youtu.be/SDNGXI1TXNQ) (12 minutes)
+- Group Discussion: [An Awkward Performance Review](https://youtu.be/4dR__ztGtBA) (5 minutes)
+- Breakout Exercise: [Performance Management](https://youtu.be/-Ppck7u-LPo) (13 minutes)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3_-_RFjfmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -109,8 +110,12 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YaXSbLqork" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Management Operating Rhythm
-- Coming later this year
+### Coaching & Manager Operating Rhythm
+- [Coaching Handbook page](/handbook/leadership/coaching/)
+    - [GROW Coaching Model](/handbook/leadership/coaching/#grow-model)
+- Manager Operating Rhythm (MOR) content coming later this year
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K3iJwoydBbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Core Team
 - [Carolyn Bednarz](/company/team/#cbednarz) (People Business Partner, Sales)
