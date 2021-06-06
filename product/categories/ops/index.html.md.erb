@@ -5,7 +5,7 @@ title: "Ops Section"
 
 <% section_name = 'Ops Section' %>
 <% section_id = 'ops' %>
-<% section_groups = ['Verify:CI Group','Verify:Pipeline Authoring Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release:Progressive Delivery Group','Release:Release Management Group','Configure Group','Monitor:Health'] %>
+<% section_groups = ['Verify:Pipeline Execution Group','Verify:Pipeline Authoring Group','Verify:Runner Group','Verify:Testing Group','Package Group','Release Group','Configure Group','Monitor Group'] %>
 
 #### On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -72,8 +72,8 @@ As part of GitLab's [SaaS First FY22 product investment theme](/direction/#saas-
 
 ### Initial Product Groups
 All Product Groups have shared responsibility for the performance and availability of GitLab.com. However, select groups have been successful enough in attracting user and scale on GitLab.com to be responsible for the below activities. Those groups are:
-1. Verify:CI - Use of CI on GitLab.com has experienced amazing growth and now regularly presents operational and architectural scale challenges. 
-1. Verify:Runner -  GitLab.com's CI/CD adoption and performance are predicated on a stable and performant shared runner fleet which has attracted considerable growth.
+1. Verify:Pipeline Execution - Use of CI on GitLab.com has experienced amazing growth and now regularly presents operational and architectural scale challenges. 
+1. Verify:Runner - GitLab.com's CI/CD adoption and performance are predicated on a stable and performant shared runner fleet which has attracted considerable growth.
 1. Package:Package - Industry pressures and product usage growth have caused more companies to rely on the availability and performance of GitLab's package and container registries. 
 
 ### SaaS Prioritization Budgets
@@ -134,7 +134,7 @@ In order to satisfy the above intent, we:
 1. Have an open agenda for discussion of section wide concerns
 1. If discussion topics are exhausted during our scheduled time we'll move to Social Topics
 
-## Ops Expiremental PM Process
+## Ops Experimental PM Process
 This section documents experimental PM process used in the Ops Section that isn't incorporated into the [Product Process handbook](/handbook/product/product-processes/) which covers all sections. 
 
 ### Risk Assessments
@@ -142,7 +142,7 @@ In support of the Ops Quality Working Group we identified the need for designati
 
 #### Designate Higher Risk Groups
 We designate the following Product Group as higher risk:
-- Verify:CI
+- Verify:Pipeline Execution
 - Verify:Runners
 - Package:Package
 
