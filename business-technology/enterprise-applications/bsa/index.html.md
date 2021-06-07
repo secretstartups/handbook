@@ -26,6 +26,11 @@ GitLab handle: [@courtmeddaugh](https://gitlab.com/courtmeddaugh)
 Slack handle: `@Courtney Meddaugh` <br>
 Job Description: [Senior Business Systems Analyst](/job-families/finance/business-system-analyst/#senior-business-systems-analyst)
 
+**Kayoko Cooper - Business Systems Analyst**  
+GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
+Slack handle: `@kayokocooper` <br>
+Job Description: [Business Systems Analyst](/job-families/finance/business-system-analyst/#business-systems-analyst)
+
 **Lis Vinueza - Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
