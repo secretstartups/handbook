@@ -112,7 +112,11 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    with them. If you decide to post a public response, be sure that your next
    steps align with the action plan that the assignee has described on their
    replies or ticket summary.
-1. Ensure that the subject of a support ticket is both descriptive and accurate. Although the subject is automatically set whenever a customer creates a new ticket you should review and if necessary modify the subject throughout the ticket lifecycle to ensure that it always accurately describes the customer's issue at any given time.  Having a descriptive and accurate subject is pivotal in enabling colleagues in support to quickly identify similar issues and reuse existing information.
+1. Ensure that the subject of a support ticket is both descriptive and accurate. You can edit the Subject to fix typos or make the problem clearer. some examples include:
+
+    - gitlab error 500 on login -> gitlab error 500 on login due to no partition of relation "audit_events"
+    - My Account was Blockes -> My Account was Blocked
+    - git reconfigure with below errors -> git reconfigure with letsencrypt_certificate errors
 1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
 1. Add research notes to your tickets, as it's important that we clearly document all of our work performed throughout a ticket's lifecycle. Not only is this a good way for you to track your own progress, particularly for lengthy and challenging tickets, but it also provides your colleagues with a clear understanding of what has been tried thus far, and enables a smoother transition if a ticket needs to be reassigned.
 1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
