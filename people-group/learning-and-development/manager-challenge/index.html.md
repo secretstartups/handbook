@@ -17,9 +17,11 @@ L&D will be rolling out a new iteration of the program following the GitLab Cont
 
 ### Team Member Time Investment Level
 
-If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](https://about.gitlab.com/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program.
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program.
 
-L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. L&D is focusing on building bite-sized management training that is consumed self-paced and social learning courses in the meantime. 
+Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Indivudal Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
+
+L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
