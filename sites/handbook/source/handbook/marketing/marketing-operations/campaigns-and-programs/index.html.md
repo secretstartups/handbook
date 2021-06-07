@@ -629,18 +629,21 @@ Notes:
 - DB1 Can only pass over existing leads to Marketo, if the prospect doesn't exist in Marketo, it will be skipped.
 - You still need to include email compliance filters on your email sends. This action passes a list, some people may not have consent to email.
 
-### Checklist befor initiating push to Marketo:
+### Checklist before initiating push to Marketo:
 1. Check your list type. DB1 can only pass `person` lists, not `account` lists. 
+1. Make sure your list filters contain `Compliance Segment Value` not equal to `Do Not Email` or `Default`
 1. Check your numbers on the list. The following applies:
     - Any list over 10k - you need opps approval to send - tag @amy.waller in the issue if you need to send over 10k 
-    - Use `Engagement Minute` filters at the person level to get down under 100 people per account  
-    - For *geo wide* - i.e. all of AMER West - send should be no more than 10K + 100 at an account 
-    - For *Sub-geo* - i.e all of NorCal - no more than 5k sends + 100 at an account
-    - For *territory* - i.e. Bay Area - no more than 2,500k + 100 at an account 
+    - Please try to not include over 100 people at a single account to avoid triggering SPAM filters at that account
+        - Use `Engagement Minute` filters at the person level to get down under 100 people per account  
+    - For *geo wide* - i.e. all of AMER West - send should be no more than 10K
+    - For *Sub-geo* - i.e all of NorCal - no more than 5k sends
+    - For *territory* - i.e. Bay Area - no more than 2,500k
 
 
 #### Instructions: (some lists and campaigns may already exist, we are in the process of updating templates to speed up this process)
-.<!-->Refer to this video for a walkthrough-- video to be added.<!--><--->
+[Refer to this video](https://www.youtube.com/watch?v=pjL1nNheheA&list=PL05JrBw4t0KrFeuJ4JbrDZKlp6gWX0uFf&index=6) for a walkthrough of the below steps.
+
 1. Ensure your list fits the criteria above.
 1. Navigate to the Marketo Program that you would like to add your DB1 list to.
 1. Under `Lists` folder, create a static list with the name `DB_List Push`. 

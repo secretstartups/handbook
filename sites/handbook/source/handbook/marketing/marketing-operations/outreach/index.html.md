@@ -111,9 +111,18 @@ Outreach is able to sync some custom information about these meetings into event
 |`Meeting Source`|The Source field will display one of two values (App or Sync) so that you can distinguish whether a meeting was booked through Outreach or if it was booked prior to connecting with Outreach and retroactively synced back to SFDC.|
 |`Meeting Cancelled`|Outreach can not delete events in SFDC. If a meeting is deleted within Outreach it will check the `Meeting Cancelled` checkbox.|
 
+#### Outreach Call Disposition
+
+SDRs need to choose a call disposition after calling a prospect to note the outcome of the call. This outcome will be synced over to SFDC. "CC" is an abreviation for Correct Contact.
+
 | Outreach.io Call Disposition | Notes|
 |---|---|
-`Correct Contact: Answered`| The correct contact actully picked up the phone and you had a conversation with the contact|
+| `CC:Answered: Info Gathered: Potential Opp` | Some qualification questions were answered but more follow up is needed before an IQM is set |
+| `CC: Answered: Info Gathered: Not Opp yet` | Some qualification questions were answered but no current use case or not the right time |
+|`CC: Answered: Not Interested` | Have stated on the call they are not interested |
+|`CC: Answered: Personal Use` | They are using Gitlab for personal reasons |
+|`CC: Answered: Asked for Call Back` | Caught them at a bad moment and they asked for a call back OR they are still evaluating tool, call back in a few weeks |
+|`CC: Answered: Using Competition` | They are using competition |
 |`Correct Contact: Left Message`| You were able to reach the voicemail for the correct contact and you left a message on their machine or with their Personal Assistant |
 |`Correct Contact: Not Answered/Other`| You were able to reach the correct contact through a company directory but it kept ringing. You reached the contacts voicemail but their voicemail was not set up so you could not leave a message |
 |`Correct Contact: IQM Set`| You were able to schedule an IQM while on the phone call. Note that a trigger exists in Outreach to automatically change lead status to `Qualifying` when this option is selected |
@@ -122,6 +131,7 @@ Outreach is able to sync some custom information about these meetings into event
 |`Incorrect Contact: Answered`| The wrong person answered the phone number that you had for this contact and it is the wrong persons phone number (They were not a personal assistant). They didn’t take a message for the correct person or give helpful information|
 |`Incorrect Contact: Left Message`|The wrong person answered the phone and it is the wrong persons phone number (They were not a personal assistant). They took a message for the correct person/gave you the correct number for the contact|
 |`Incorrect Contact: Not Answered/Other`| You got through to the voicemail but the voicemail was for someone other than the person who you were trying to contact. Or the person was not listed in the company directory and you were calling the companies main number|
+|`Incorrect Contact: Answered: Gave Referral` | It was the wrong person but they gave a referral to speak to. Please record in notes who the referral is. |
 
 #### Outreach Call Troubleshooting
 

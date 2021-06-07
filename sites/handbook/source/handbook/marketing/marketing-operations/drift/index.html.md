@@ -44,12 +44,12 @@ The account lists and playbook routing rules that govern how most Drift conversa
 -   Set yourself to away when done working / no longer want to receive chats. Please note: If you set yourself to away, prospects will still be able to interact with the bot, but once they answer the initial questions, they are automatically given the option to book time on your calendar. If you don’t set yourself to away they will have to wait while the bot attempts to notify you. 
 -   SLA: please respond to chats within 30 seconds
 -   If you are routed a chat from outside your territory, assist and qualify by continuing the conversation. If a lead is then created in Salesforce, change it to the appropriate owner.
--   In the event you aren't able to assist a site visitor on your own and escalation is needed, please reach out to your manager and/or the #drift slack channel
+-   In the event you aren't able to assist a site visitor on your own and escalation is needed, please reach out to your manager and/or the #mktgops slack channel.
 
 ### Best practices
 * Ensure you set yourself to away when you won't be able to receive Drift notifications. The prospect will still be able to chat with the bot but will be given the option to book a time with you right away as opposed to waiting for the bot to ping you. 
 * As people have the ability to book meetings with you if you are offline or don't respond fast enough, every morning look at the meetings that were scheduled. You will receive an email invite. If you want to reach out prior to the meeting or potentially reschedule, please email the prospect in advance. 
-* Ensure that you have browser notifications enabled to ensure you can respond quickly. If you don't respond within one minute, the prospect will be prompted to schedule time with you. *Note: if you are using the [Drift mobile app](https://gethelp.drift.com/hc/en-us/articles/360019664613-How-to-Use-the-Drift-Mobile-App) - turn notifications on within the app as well. 
+* Ensure that you have browser notifications enabled to ensure you can respond quickly. If you don't respond within two minutes, the prospect will be prompted to schedule time with you. *Note: if you are using the [Drift mobile app](https://gethelp.drift.com/hc/en-us/articles/360019664613-How-to-Use-the-Drift-Mobile-App) - turn notifications on within the app as well. 
 * When available in Drift, we recommend having DataFox, Salesforce, the SSoT territory alignment, and Google Calendar open in other tabs to quckily look into things. 
 
 ### Working an inbound chat lead
@@ -63,14 +63,9 @@ The account lists and playbook routing rules that govern how most Drift conversa
 
 ### Drift resources & training materials
 
-**Connect calendar and set hours**
+**Drift Meetings configuration**
 
-*  Click your Avatar > Choose My Settings > Choose My Calendar and get connected.
-*  Once connected, you can edit the following:
-    * Description of the meeting
-    * Duration of the meeting
-    * Times you are available/time zone
-    * Buffer time/minimum notice time
+*  Follow [Drift's instructions](https://help-116779.drift.help/article/setting-up-your-drift-meetings/) to connect your calendar to the chat platform, set your availabilty, and update your personal meeting settings. If you have questions, please reach out to your manager or the #mktgops slack channel for assistance.
 
 **Set yourself to available or away**
 
