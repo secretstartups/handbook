@@ -52,8 +52,8 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
 | 2021-05-05 | Discuss program details with Women's TMRG group meeting | [Planning Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) |
-| 2021-05-18 - 2021-05-28 | Call for Mentors | Application forthcoming |
-| 2021-05-31 - 2021-06-11 | Call for Mentees | Application forthcoming |
+| 2021-05-20 - 2021-06-0-7 | Call for Mentors | Application below |
+| 2021-06-07 - 2021-06-15 | Call for Mentees | Application below |
 | 2021-06-18 | Pairing of mentor relationships complete and communicated to applicants |
 | Between 2021-06-18 and 2021-07-01 | Optional: Mentor/Mentee pre-program coffee chats | |
 | Between 2021-07-01 and 2021-07-07 | Initial program Kickoff meeting | Date TBD |
@@ -129,6 +129,7 @@ Applications will be prioritized on many points including:
 #### Apply to be a Mentee
 
 Application for mentees will open on 2021-05-31.
+Please complete [this Mentee Application Google form](https://docs.google.com/forms/d/e/1FAIpQLSfzKUipyNHZKC90ZHcAbOkhAi4a_pqMhmCOkAodLeDBgxII_w/viewform) to apply to be a mentee.
 
 Please note that applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above.
 
