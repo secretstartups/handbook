@@ -97,7 +97,8 @@ We strongly encourage Macs, but we do allow Linux if you are capable of self-sup
 
 \*\* NOTE: [1Password](/handbook/security/#1password-guide) does not yet have a native client for Linux, but [there is a browser extension](https://support.1password.com/getting-started-1password-x/).
 
-For Linux laptops, our **standard laptop provider is Dell** which comes pre-loaded with Ubuntu Linux (to save money by not purchasing a Windows license).
+For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
+
 The reasons for using Dell for a Linux laptop are as follows:
 
 - There are several manufacturers of laptop systems that offer Linux, but Dell is the only major manufacturer that has done so for years, and it has already worked out shipping issues for all of the countries where GitLab employees live.
