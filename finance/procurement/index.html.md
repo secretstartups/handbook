@@ -62,6 +62,14 @@ As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa
 You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/) and checking the [Guide Page](/handbook/business-technology/enterprise-applications/guides/coupa-guide/).
 {: .alert .alert-info}
 
+### How to access Coupa
+
+Coupa is available via Okta. To access the platform:
+1. Login to your [Okta home page](https://gitlab.okta.com/app/UserHome#).
+1. Click on the Coupa (Prod) button.
+   - A new tab should open with your user logged in.
+
+> If your job function requires you to submit purchase requests, please submit an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Coupa.
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Procurement Main Objectives
 
