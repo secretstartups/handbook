@@ -98,7 +98,15 @@ As Reliability, we have three main work streams and each varies in the type of w
 
 ### How We Work -- Projects
 
+We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/XXX
+
 Epics use the following template in order to capture, current status, DRI, an overview, and any references that help a reader to build context. The epics have one DRI and that DRI is responsible for keeping the status of the project updated as frequently as necessary.
+
+Project epics have this structure:
+1. Status - Current status of the project preceeded by the ISO formatted date of the latest status update.
+1. DRI - Directly responsible individual tasked with maintaining project status.
+1. Overview - Narrative description of the project intended to provide additional context.
+1. Reference - Links out to existing artifacts which allow team members to build context.
 
 Epic Template:
 ```markdown
@@ -117,6 +125,8 @@ Epic Template:
 #### Reference
 1. {+ enumerated list of any reference links for a reader building context +}
 ```
+
+example project epic: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471
 
 ### How We Work -- EOC Backlog
 
