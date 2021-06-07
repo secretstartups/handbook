@@ -142,8 +142,9 @@ A breakdown of MQLs and lead scoring can be found in the [marketing operations h
 
 ### Segmentation
 
-Sales Segmentation is based on `Total Employee` count of the `Global Account`.
-If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
+Sales Segmentation is based on `Total Employee` count of the `Global Account`. 
+- If a `Global Account` has a lower segment than any of its child accounts, the `Global Account` will adopt the largest sales segment of any of its child accounts.
+- If the employee count is unknown or blank and manual research cannot confirm, Sales Operations will mark the account as `SMB` with a placeholder of `-1` employees in the  Number of Employees: Manual - Admin field in order to get a Territory to populate and assign the account to an account rep.
 
 - `Large` = 2,001+ total employees
 - `Mid-Market` = 101-2000 total employees
@@ -151,12 +152,15 @@ If a `Global Account` has a lower segment than any of its child accounts, the `G
 
 ![gtm-model](/handbook/sales/field-operations/gtm-resources/gtm-model1mm.png)
 
-`Total Employee` count is based on the number of employees that our data tools return for that account <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
+`Total Employee` count is based on the number of employees that our data tools return for that account, [TSP] Account Employees, <b>as determined in the [sales segment review process time period](#sales-segment-and-hierarchy-review-process)</b>.
+   - Note: TSP Account Employees will give the most up to date/accurate data in "real time".  Meaning it gets enriched and offers what the answer should be.  Employees will remain static until Sales Ops manually tells the system to update it (via the TSP Transfer process) OR we make manual overrides.  
+   
 We use a hierarchy structure to determine what the number of employees is for the account.
 The hierarchy of our data tools on _Accounts_ as they relate to the `Total Employee` count is shown below.
 
-1. DataFox.......(Default Value)
-2. Zoominfo...(Only used if DataFox Employee Count field is blank)
+1. Number of Employees: Manual - Admin
+1. Number of Employees Data Fox
+2. Number of Employees ZI
 
 LinkedIn/Websites are not designated data sources.
 If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record.
