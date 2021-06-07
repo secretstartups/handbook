@@ -76,7 +76,7 @@ GitLab does not reimburse individual software subscriptions (e.g. Apple Music, K
 
 Certain types of individual subscriptions are reimbursable, such as VPN service. If you are uncertain whether a particular service is reimbursable, please contact Finance in the `#expense-reporting-inquiries` channel.
 
-If you need a short-term or individual software subscription, or a single-pay software license, please reach out to your manager before acquiring the software, and contact and Finance in the `#accountspayable` Slack channel to discuss options.
+If you need a short-term or individual software subscription, or a single-pay software license, please reach out to your manager before acquiring the software, and contact Finance in the `#accountspayable` Slack channel to discuss options.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Hardware
 
