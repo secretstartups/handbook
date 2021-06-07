@@ -166,7 +166,7 @@ These are changes that are not expected to cause downtime, but which still carry
 1. Add a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 1. All the database changes related should have a review by a DBRE. In a scenario of an incident, the Ongres team can execute the review.
-1. Have the change approved by Reliability Engineering management at the manager level or above, or Infrastructure management at the Sr. Manager level or above. 
+1. Have the change approved by Infrastructure management at the manager level or above.
 1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
 
 
