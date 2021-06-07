@@ -246,7 +246,7 @@ Epics that are added as children to the top-level epic are used to describe proj
 Having all projects at this level allows us to use a single list for prioritization and enables us to prioritize
 work for different services alongside each other. Projects are prioritized in line with the OKRs for the current quarter.
 
-Project status is maintained in the description of the top-level epic so that it is visible at a glance. This is auto-generated.
+Project status is maintained in the description of the top-level epic so that it is visible at a glance. This is auto-generated using [the epic issues summary project](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries).
 You can watch a [short demo of this process](https://youtu.be/6Wb1f-c1_og) to see how to use status labels
 on the epics to make use of this automation.
 
@@ -284,6 +284,7 @@ The epic for the project must have the following items:
 1. **Status yyyy-mm-dd** should be the final heading in the description.
     1. This enables others who are interested in the epic to see the latest status without having to read through all comments or issues attached to the epic.
     1. This heading is used to auto-generate the status information on the top-level epic.
+    1. If the epic has no child-epics and a mermaid block is added, [this script](https://gitlab.com/gitlab-com/gl-infra/epic-issue-summaries/-/blob/master/epic_issue_relationships.rb) that runs on a pipeline will automatically generate and include an issue relationship diagram in this section. An example can be seem [in this epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/447).
 1. **Start date** is set to the expected start date, and updated to be the actual start date when the project begins.
 1. **Due date** is set to be the expected end date.
     1. This should be seen as a target, and this target is re-evaluated every few weeks while the project is in progress. The date that a project actually ended is taken from the date that the epic was closed.

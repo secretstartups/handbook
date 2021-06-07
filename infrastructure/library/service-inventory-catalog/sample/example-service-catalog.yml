@@ -1,6 +1,6 @@
 teams:
 - name: create-source-code-be
-  url: /handbook/engineering/development/dev/create-source-code-be/
+  url: /handbook/engineering/development/dev/create/source-code-be/
   manager_slug: michellegill
   slack_channel: g_create_source_code
   engagement_policy: # Link to doc that talks about engagement
