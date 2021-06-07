@@ -12,16 +12,26 @@ twitter_creator: '@gitlab'
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Goals
+# <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Campaigns Team
+
+## What our team does
 {: #goals .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+### Responsibilities
+{: #goals}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+### Goals
+{: #goals}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Demand Generation Key Metrics
 {: #key-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **North Star Metric:** MQLs
-- **Efficiency Metric:** Cost per MQL
+- **North Star Metric:** MQLs (New First-Order Logo)
+- **Efficiency Metric:** Cost per MQL (New First-Order Logo)
 - **Business Impact Metric:** CWA/Spend (closed-won attribution)
 - **Supporting/Activity Metrics:** SAOs, Attributed Pipeline, Emails Sent
 
