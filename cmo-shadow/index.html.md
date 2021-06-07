@@ -135,7 +135,6 @@ Shadows are encouraged to follow the CMO's activity on various platforms to get 
 ## Alumni
 {: #alumni}
 <!-- Do we want this? -->
-CMO Shadow program alumni are welcome to join the `#cmo-shadow-alumni` Slack channel to stay in touch after the program.
 
 | Start date | End date | Name | Title | Takeaways |
 | ---------- | -------- | ---- | ----- | --------- |
