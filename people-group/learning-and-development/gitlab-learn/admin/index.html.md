@@ -472,6 +472,27 @@ Update your Journey image based on the [image guidelines](/handbook/people-group
 1. Be sure to add a `title`, `duration`, `tags` and `level` to all SmartCards
 1. Click `Create`
 
+#### Create a Project SmartCard
+
+Project SmartCards are used to collect URL project submissions from users. Use cases for the GitLab team could include submitting a blog post, Google doc link, or Issue/MR link.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lM-bxY8wN9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+1. Create a new SmartCard either within a Pathway or Journey or as an independent SmartCard
+1. Choose the `Project Card` option at the top of the SmartCard
+1. Enter a descriptive title and a set of instructions for what the learner will be uploading to this card
+1. Upload an image that will appear in Pathways, Journeys, and Carousels that this SmartCard is shared to based on the GitLab Learn image guidelines
+1. Choose your grading scale. You can set the grading to be either `A-F`, `0-10`, or `0-100`
+1. Choose the Submitter options. This will define who can submit a project on this card. It is advised that you choose only `Assignees` if your team does not have capacity to grade/assess projects that could be submitted by any community or team member.
+1. Choose the grader of the project. This will be who is assigned to grade submissions. Your options are either the `Assignor`, `Author` (of the SmartCard), or `Manager`. The `Manager` assignment will only work for team members, as our community does not have manager data uploaded into the system
+1. Follow best practices above to share and mark content private as required
+1. Add descriptive tags to help users search for this content
+1. Add a duration for how long it should take for users to complete this project
+1. Choose the `Content Type` to indicate what kind of project will be submitted. `Other` is an option if your project doesn't fit one of the offered project types
+1. Click `Create` to save your SmartCard.
+1. It's important to note that as the **author** you will not see the option to submit a project. You can test out the user view by asking a team member to look at the card. You can see the behavior of project cards from the non-autho perspective in the [training video](https://youtu.be/lM-bxY8wN9U) displayed above.
+
+
 #### Using iframes and the Rich Text Editor (RTE) EdCast feature
 
 EdCast has enabled a Rich Text Editor(RTE) that enables iframes in text SmartCards. This is a great way to create [handbook first learning content](/handbook/people-group/learning-and-development/interactive-learning) directly in GitLab Learn. 
