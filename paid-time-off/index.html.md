@@ -110,11 +110,13 @@ In keeping with our [values](/handbook/values/) of freedom, efficiency, transpar
 
 #### Sick Time Procedures - All Team Members
 
-If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s).
+If you or a loved one is ill, we want you to take care of yourself or your loved one(s). To facilitate this, you should take sick time when you need it. Sick time is meant to be used when you are ill, or to care for family members including your parent(s), child(ren), spouse, registered domestic partner, grandparent(s), grandchild(ren), or sibling(s). 
+
+Sick time refers to the time a team member takes to address either their health, or the health of a close family member, and also for preventative reasons like a doctor’s appointment. 
 
 You still need to report when you take sick time, by entering the dates as an `Out Sick` type of OOO event in [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) via Slack. Once entered in PTO by Roots, your sick time will be automatically updated in BambooHR and payroll can note and update any other systems as needed.
 
-If you need sick leave for more than 8 consecutive calendar days, follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
+If you need sick leave for more than 8 consecutive calendar days, please follow the instructions in the [Communicating Illness-Related Leave](/handbook/paid-time-off/#communicating-illness-related-leave) section.
 
 #### Sick Time Procedures - USA
 
