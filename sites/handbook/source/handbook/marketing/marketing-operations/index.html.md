@@ -192,7 +192,7 @@ Stage
 
 ### Milestones
 
-The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each Ops individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
+The MktgOps team works in two week iterations which are tracked as milestones at the `GitLab.com` level. Each individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two-week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
 A milestone cannot be closed nor marked complete until the milestone's accompanying merge request has been merged. Within every milestone there is a `WIP` merge request with all commits being changes to our handbook. All team members contribute their changes to the milestone merge request. The merge request should be tagged with marketing operations labels and the current milestone.
 
