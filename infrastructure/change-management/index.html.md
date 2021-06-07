@@ -20,109 +20,32 @@ Our overriding objective is maximize changes that avoid traditional aspects of c
 
 **Changes** are defined as modifications to the operational environment, including configuration changes, adding or removing components or services to the environment and cloud infrastructure changes. Our [Staging environment](/handbook/engineering/infrastructure/environments/#staging) is crucial to our GitLab.com release process.  Therefore, Staging should be considered within scope for Change Management, as part of GitLab's operational environment. Application deployments, while technically being changes, are excluded from the change management process, as are most, but not all, [feature flag toggles](https://docs.gitlab.com/ee/development/feature_flags/controls.html#process).
 
-* **Service changes** are regular, routine changes executed through well-tested, automated procedures performed with minimal human interaction that may cause predictable and limited performance degradation and no downtime. A service change is implemented such that **it protects the environment while executing the desired change**.  As such, mature service changes do not require review or approval except on their very first iteration.
-
-* **Maintenance changes** are complex changes that require manual intervention and will cause downtime or significant performance degradation. These changes require strict scheduling, careful planning and review, and approval by the Director of Reliability.
-
-**Deployments** are a special change metatype depending on their scope and the effect they may have on the environment, as defined above. As we make progress towards CI/CD, we aim to turn all deployments into simple service changes.
-
-**Changes** that need to be performed during the resolution of an Incident fall under [Incident Management](/handbook/engineering/infrastructure/incident-management/).
-
-**Operational Environments** are currently defined as `GitLab.com` and `ops.GitLab.net` as well as supporting systems such as Prometheus.
+Changes that need to be performed during the resolution of an Incident fall under [Incident Management](/handbook/engineering/infrastructure/incident-management/).
 
 # Roles and Responsibilities
 
-| Role  | Responsibility | 
+| Role  | Responsibility |
 |-----------|-----------|
-| Infrastructure | Responsible for implementing and executing this procedures | 
+| Infrastructure | Responsible for implementing and executing this procedures |
 | Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
-# Infrastructure Change Management Procedure
-
-## Trust
-
-Change Management is underpinned by **trust**: we trust ourselves to act responsibly when working in the operational environment and do everything in our power to **safeguard its integrity** and **maintain its availability and performance**.
-
-To that end, we must develop a practice through automation that allows for **safe** changes.  Our highest priority is **always** the integrity and reliability of the operational environment, which entails appropriate risk evaluation, quantifiable validation and verification, extensive communication, detailed auditing, and a focus on *defensive coding*.
-
-### Anatomy of a Change
-
-At its core, changes implement the **transitions** that take the operational environment from its **current state** to a **new state** that yields the desired configuration. It is critical that we have a full and concrete understanding of both states, as they determine how the transition is planned and executed.
-
-Change always begins with the **current state** of the environment, which is defined by both its **actual state** and the **assumptions** made about it. Predicting the ways in which a change will fail or yield undesirable results is, at best, an extremely difficult undertaking (if at all possible); it is outright impossible when our assumptions do not match reality, which is one of the primary sources of change failure, as the change will behave in unexpected ways under uncertain conditions, likely resulting in an incident.
-
-**All changes, without exception, regardless of complexity and whether they require a change plan or not, must outline, implement and codify pre-flight checks and post-verification checks. The automation's primary goal is to protect the environment. When exceptions are necessary, the author should document why this is the case, and the reviewer should approve said exception.**
-
-In general, three rules are critical to the successful execution of a change:
-
-* Avoid *wildcard globbing*.
-* Always execute changes from production systems, never from your laptop.
-* Always create quantifiable (and ideally programmatic) pre and post change checks.
-
-#### Pre-flight Checks
-
-Pre-flight checks **protect** the operational environment by validating assumptions about the current state of the  environment and provide the necessary gates to the execution of any change. If any assumption is proven to be incorrect through these checks, a change should either be halted or take corrective action: under no circumstances should a change proceed as originally planned when pre-flight checks are not successful.
-
-Pre-flight checks should be coded into the automation and executed as the prerequisite step of a change. In essence, we are asking the question *what must be true for the change at hand to execute successfully?*
-
-In determining what these checks should entail, we must focus on the assumptions implicit in the change. There are many examples of how to defensily protect the environment:
-
-* If a change should result in changes to a specific environment, then it should check that hosts and services affected are in said environment.
-* If a change will operate against an entire DNS zone, it should ensure each and every record is accounted for on the source and destination before effecting the change.
-
-While pre-flight checks will likely have an effect on the speed of a change (both on *our* speed to implement changes and on the runtimes), failure has a far greater impact, especially on our users. When working on Infrastructure changes, **safety** is always prioritized over **velocity**.
-
-#### Post-verification Checks
-
-Much in the way we must validate the current state of the environment and the assumptions we make about it before a change, we must always validate the new, post-change state and the assumptions made about it. We must explicitly quantify the desired results of the change.
-
-As examples:
-
-* If we execute any change on a given service host, we should validate the health of the service post-change: are service ports accessible? are monitoring endpoints reachable?
-
-#### Availability of Monitoring and Alerting Systems
-
-Key to all pre-flight and post-verification steps is our monitoring stack, based primarily on Prometheus, Thanos and AlertManager (the `monitoring` service).
-
-Additionally, most incidents are the direct result of change, either in the application, through deployments, or infrastructure changes. It is therefore imperative that any elective change (ie, one not related to an urgent ongoing incident) requires the availability of our metrics platform.
-
-If the monitoring platform is not functioning correctly, no change should be executed, unless it is being made to resolve an ongoing critical incident.
-
-"_no metrics, no changes._"
-{: .alert .alert-gitlab-orange}
-
-### Change Priorities
-
-Change Management helps us prioritize our resources towards changes that need to be made more resilient through defensive automation. Priorities are driven by two factors:
-
-* changes that can potentially cause ~S1 or ~S2 incidents
-* changes driven by services that are below a TBD error budget
-
-In these situations, we will focus on developing the necessary automation and safeguards to help teams and services move towards safe service changes in a timely fashion. Until then, all changes that fall under the two aforementioned categories are treated as maintenance changes.
-
-### Change Severities
-
-Change severities encapsulate the risk associated with a change in the environment. Said risk entails the potential effects if the change fails and becomes an incident. Change management uses our standarized severity definition, which can be found under [issue workflow documentation](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#severity-labels).
-
-* In order to minimize the number of variables at play, no changes are executed during an active incident.
-* ~S1 and ~S2 changes are always serialized and executed exclusively (i.e., never concurrently).
-* ~S3 and ~S4 changes are allowed to take place concurrently as long as there is awareness of said concurrency.
-* The Infrastructure on-call resource has veto power over any and all changes.
-
-## Change Plans
-
-All changes should have change plans. Planning is the way the infrastructure department assesses and mitigates the risks changes introduce. They generate awareness and are the focal point for scheduling, communicating, and recording changes.
-
 # Change Request Workflows
-Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker via the [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management). Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the requested information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
 
-All change requests, regardless of the change criticality follow the same [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management).
+Plan issues are opened in the [production](https://gitlab.com/gitlab-com/gl-infra/production/issues) project tracker via the [change management issue template](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/new?issuable_template=change_management). Each issue should be opened using an issue template for the corresponding level of criticality: `C1`, `C2`, `C3`, or `C4`. It must provide a detailed description of the proposed change and include all the relevant information in the template. Every plan issue is initially labeled `~"change::unscheduled"` until it can be reviewed and scheduled with a Due Date. After the plan is approved and scheduled it should be labeled `~"change::scheduled"` for visibility.
+
+To open the change incident management issue from Slack issue the following slash command:
+
+```
+/change declare
+```
+
+Creating the Change issue from Slack will automatically fill in some fields in the description.
 
 ## Change Criticalities
 
 `C1` and `C2` changes that are labeled `change::in-progress` will block deploys, feature flag changes, and potentially other operations.  Take particular care to have good time estimates for such operations, and ideally have points/controls where they can be safely stopped if they unexpectedly run unacceptably long.
 
-In particular for long running Rails console tasks, it *may* be acceptable to initiate them as a C2 for approvals/awareness and then downgrade to a C3 while running.  However consider carefully the implications of long running code over multiple deployments and the risks of mismatched code/data storage over time; such a label downgrade should ideally have at least 2 sets of eyes (SREs/devs) assess the code being exercised for safety, and management approval is recommended for visibility.
+In particular for long running Rails console tasks, it *may* be acceptable to initiate them as a `C2` for approvals/awareness and then downgrade to a C3 while running.  However consider carefully the implications of long running code over multiple deployments and the risks of mismatched code/data storage over time; such a label downgrade should ideally have at least 2 sets of eyes (SREs/devs) assess the code being exercised for safety, and management approval is recommended for visibility.
 
 ### Criticality 1
 
@@ -131,20 +54,20 @@ These are changes with high impact or high risk. If a change is going to cause d
 **Examples of Criticality 1:**
 
 1. Any changes to Postgres hosts that affect DB functionality (e.g. quantity of nodes, changes to backup strategy, changes to replication strategy, configuration changes, etc.).
-1. Architectural changes to Infra as code (IaC).
-1. IaC changes to pets - Postgres, Redis, and other Single Points of Failure.
+1. Major architectural changes to Infra as code (IaC).
+1. Major IaC changes to pets - Postgres, Redis, and other Single Points of Failure.
 1. Changes of major vendor or service provider (e.g. CDN, transactional mail provider, DNS, etc.).
 1. Major version upgrades (**major** definition following www.semver.org) of tooling (e.g HAProxy, AlertManager, Chef, etc.).
 1. Creating and deploying a custom build generated by ourselves is generally not recommended. There are use cases where it could be necessary due to a security or stability patch, to apply before it is part of the official upstream release. It is only allowed through Criticality 1 guidelines.
-1. Architectural or tooling changes to alerting infrastructure.
+1. Major architectural or tooling changes to alerting infrastructure.
 
 #### Approval
 
-1. Add a Due Date to the issue and to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
+1. Ensure there is Due Date set on the issue and to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. All the database changes related should have a review by a DBRE. In a scenario of an incident, the Ongres team can execute the review.
 1. Have the change approved by Infrastructure management at the Sr. Manager level or above.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
-1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack.
+1. Announce the start of the plan execution in the `#production` Slack channel and obtain a written approval from the EOC in both the issue and in Slack using the `@sre-oncall` alias.
 1. Join The "Situation Room" zoom channel with the EOC and obtain verbal approval to start the plan execution.
 
 The EOC must be engaged for the entire execution of the change.
@@ -156,6 +79,8 @@ These are changes that are not expected to cause downtime, but which still carry
 **Examples of Criticality 2:**
 
 1. Any changes to database configuration which do not meet the requirements of being Criticality 1 should be considered as Criticality 2 change.
+1. Most architectural changes to Infra as code (IaC).
+1. Most IaC changes to pets - Postgres, Redis, and other Single Points of Failure.
 1. Load Balancer Configuration - major changes to backends or front ends, fundamental to traffic flow.
 1. IaC changes to production Virtual Machines outside of Kubernetes when there is a decrease.
 1. Major changes to alerting routing or integrations.
@@ -163,7 +88,7 @@ These are changes that are not expected to cause downtime, but which still carry
 
 #### Approval
 
-1. Add a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
+1. Ensure there is a Due Date to the issue and an event to the [GitLab Production](https://calendar.google.com/calendar/embed?src=gitlab.com_si2ach70eb1j65cnu040m3alq0%40group.calendar.google.com) calendar.
 1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
 1. All the database changes related should have a review by a DBRE. In a scenario of an incident, the Ongres team can execute the review.
 1. Have the change approved by Reliability Engineering management at the manager level or above.
@@ -185,8 +110,7 @@ These are changes with either no or very-low risk of negative impact, but where 
 #### Approval
 
 1. Add a Due Date to the issue.
-1. Identify the Engineer On-Call (EOC) scheduled for the time of the change and review the plan with them.
-
+1. Ensure that the plan is reviewed by someone else in Reliabilty.
 
 ### Criticality 4
 
@@ -201,9 +125,13 @@ These are changes that are exceedingly low risk and commonly executed, or which 
 No approval required.
 
 
-### Change Plans Summary
+### Change Procedures
 
-With change plans, we develop a solid library of change procedures. Even more importantly, they provide detailed blueprints for implementation of defensive automation. Adding on to the defensive automation, every change request that uses some sort of a script _must have a dry-run capability_, the script should be run in the dry-run mode and its output should be provided to the CR for review. Ideally, the planner and the executor should be different individuals.
+Change plans often involve manual tasks
+
+- Avoid using UIs instead of command-line tools. For example use the `gcloud` command line utility instead of the GCP console.
+- Consider using a script over many individual shell commands
+- If a script is necessary, consider adding dry-run capability and follow GitLab's [scripting guidelines](https://docs.gitlab.com/ee/development/shell_scripting_guide/)
 
 ## Scheduling the Change
 
@@ -219,15 +147,11 @@ When scheduling your change, keep the impact of the change in mind and consider 
 
 ## Change Execution
 
-If the change is executed by a script, it should be run from the bastion host
-of the target environment in a terminal multiplexer (e.g. screen or tmux) session.
-Using a bastion host has the benefit of preventing any unintended actions
-(e.g. caused by a script bug) from spreading to other environments. A terminal
-multiplexer guards against the possibility of losing connection to the bastion
-mid-change and the unpredictable consequences of it.
+If the change is executed by a script, it should be run from the bastion host of the target environment in a terminal multiplexer (e.g. screen or tmux) session.
+Using a bastion host has the benefit of preventing any unintended actions (e.g. caused by a script bug) from spreading to other environments.
+A terminal multiplexer guards against the possibility of losing connection to the bastion mid-change and the unpredictable consequences of it.
 
-`sudo` is disabled on the bastion hosts, so you can copy your Chef PEM file to
-one of them, if your script requires it, without fearing it being snooped on.
+`sudo` is disabled on the bastion hosts, so you can copy your Chef PEM file to one of them, if your script requires it, without fearing it being snooped on.
 
 A sequence of actions to run a script could look like this:
 
@@ -240,18 +164,7 @@ bastion-01-gstg  $ ./script/migrate
 
 ## Change Reviews
 
-Maintenance changes require change reviews. The reviews are intended to bring to bear the **collective** experience of the team while providing a forum for pointing out potential risks for any given change. A minimum quorum of three reviewers is required to approve a ~S1 or ~S2 maintenance change.
-
-## Roles
-
-| **Role** | **Definition and Examples** |
-| -------- | ------------------------|
-| `EMOC`   | **Event Manager** |
-|          | The **Event Manager** is the tactical leader of the change team. For **service changes**, the EMOC is the person executing the change. For **maintenance changes**, the EMOC is the person in the IMOC rotation. ~S1 and ~S2 changes require an EMOC.|
-| `CMOC`   | **Communications Manager** |
-|          | The **Communications Manager** is the communications leader of the change team. The focus of the Change Team is executing the change as safely and quickly as possible. For ~S1 and ~S2 **maintenance changes**, a CMOC communicates with the appropriate stakeholders. Othersiwe, EMOC can handle communication.|
-| `CT`   | **Change Team** |
-|          | The Change Team is primarily composed of technical staff perfoming the change.|
+Maintenance changes require change reviews. The reviews are intended to bring to bear the **collective** experience of the team while providing a forum for pointing out potential risks for any given change. Consider using multiple reviewers for ~C1 or ~C2 Change requests.
 
 ## Communication Channels
 
@@ -267,16 +180,15 @@ For instance, a large end-user may choose to avoid doing a software release duri
 
 Furthermore, avoiding information overload is necessary to keep every stakeholder’s focus.
 
-To that end, we will have:
-
-* a dedicated change bridge (zoom call) for S1 and S2 changes.
-* periodic updates intended to the various audiences at place (CMOC handles this):
+To improve communication the following are recommendations for high criticality Changes:
+
+* Use the incident zoom channel during the change
+* Periodic updates intended to the various audiences at place (CMOC handles this):
   * End-users (Twitter)
   * eStaff
   * Support staff
   * Employees at large
-* [a dedicated repo for issues related to Production](https://gitlab.com/gitlab-com/gl-infra/production/issues) separate from the queue that holds Infrastructures’s workload: namely, issues for incidents and changes. This is useful because there may be other teams, over time, that need to do work in the production environment.
-* After the maintenance is complete - handoff notes to other region on call team members should be left.  Including items like:
+* After the maintenance is complete leave handoff notes to the next oncall team members.  Including items like:
   * state / success of the maintenance
   * any alerts that can have been silenced and may go handoff
   * links to specific graphs to watch for areas of concern
@@ -285,23 +197,21 @@ To that end, we will have:
 
 From time to time we will need to run a production change that requires downtime, affecting customers and our SLO. This section covers how to successfully manage communications in these type of situations.
 
-As a reference, we should communicate 5-6 weeks before the change, for a C1 that does not carry a significant architecture change. Longer preparation time is adviced if the change involves a large migration or a significant architecture change.
+As a reference, we should communicate 5-6 weeks before the change, for a `C1` that does not carry a significant architecture change. Longer preparation time is advised if the change involves a large migration or a significant architecture change.
 
 Steps:
-* Create a Google doc with the change communication message draft. Have it reviewed by an SRE Manager and those involved with the change.
-* Create an issue for the official company communication about the change.
-    * Create a new communication Issue in the **Production project** of the GitLab Infrastructure team. Choose template: "external_communication", and fill in as suggested in the template comments.
-    * Set Confidentiality to `Confidential` until the day we publish it in status.io, when we will set it to `Not Confidential`.
-    * Obtain approval for the overall plan and expected impact from:
-      * Director of SRE, Infrastructure
-      * VP of Infrastructure
-      * VP of Support
+* Add a step in the Change issue to communicate externally with a draft of the wording.
+* Add the `~Scheduled Maintenance` label to the Change issue or create a new issue using the template `external_communication` if a confidential issue is necessary.
+* Obtain approval for the overall plan and expected impact from:
+  * Director of SRE, Infrastructure
+  * VP of Infrastructure
+  * VP of Support
 * 1 month before the change at least (if possible):
     * Ask our TAMs in our #customer-success channel about their preferences on how to communicate this change to our main customers:
         * Make sure that our main customers TAMs are included in this "ping". If we need to get the list of our Marquee customers, it is [here](https://gitlab.com/gitlab-com/gl-infra/marquee-account-alerts/-/blob/master/marquee-accounts.yml).
         * They might propose that we communicate in the customer's channel about the specifics of the change. If that is the case draft a msg, agree on its content with the TAM and share it in the relevant customer Slack channels (in sync with the TAM).
     * Share information and a link to the Issue in `#whats-happening-at-gitlab` slack channel
-* Shortly after that, the Communication Issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
+* Shortly after that, the communication or change issue should be linked to a simple post in status.io (by clicking in "new maintenance"). We should engage with the CMOC to Share that maintenance in status.io, via all the possible channels (mail, tweet, slack, etc). From there customers will be able to ask questions and comment on it.
 [The company official way to communicate downtime to customers is via status.io].
 * From this point, when the upcoming change is already public, we should:
     * Check the Communication Issue periodically, to see if we have question/comments from our customers, to address them timely.
@@ -317,17 +227,6 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 01 January 2021             | Hard       | Holiday: New Year's Day       |
-| 15 January 2021              | Soft       | Family and Friends Day       |
-| 26 January 2021              | Soft       | EoA announcement       |
-| 28-29 January 2021           | Soft       | Addressing platform action items |
-| 26 February 2021              | Soft       | Family and Friends Day       |
-| 09 March 2021              | Hard       | Corrective actions for [incident 3875](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3875#summary)      |
-| 15 March 2021              | Hard       | [incident 3962](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/3962)       |
-| 19 March 2021              | Soft       | Family and Friends Day       |
-| 16 April 2021              | Soft       | Family and Friends Day       |
-| 2 June 2021               | Hard        | https://gitlab.com/gitlab-com/gl-infra/production/-/issues/2169 |
-| 28 May 2021              | Soft       | Family and Friends Day       |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 
