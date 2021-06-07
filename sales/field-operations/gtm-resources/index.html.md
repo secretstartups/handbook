@@ -159,7 +159,7 @@ We use a hierarchy structure to determine what the number of employees is for th
 The hierarchy of our data tools on _Accounts_ as they relate to the `Total Employee` count is shown below.
 
 1. Number of Employees: Manual - Admin
-1. Number of Employees Data Fox
+1. Number of Employees Data Fox (we'll be removing DataFox from the process in Q3-Q4)
 2. Number of Employees ZI
 
 LinkedIn/Websites are not designated data sources.
