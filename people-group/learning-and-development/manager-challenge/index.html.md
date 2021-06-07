@@ -15,9 +15,11 @@ Welcome to the GitLab Manager Challenge page. The Learning and Development Team 
 
 L&D will be rolling out a new iteration of the program following the GitLab Contribute event in September. The next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. **Currently, the program is being offered to GitLab team members only.**
 
-**If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](https://about.gitlab.com/handbook/ceo/shadow/), but the Manager Challenge will require a heavy time investment. If you plan to participate, try to do everything you can to block one to two hours each day during the program.**
+### Team Member Time Investment Level
 
-L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. L&D is also focusing on building bite-sized management training that is consumed self-paced and social learning courses in the meantime. 
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](https://about.gitlab.com/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program.
+
+L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. L&D is focusing on building bite-sized management training that is consumed self-paced and social learning courses in the meantime. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
