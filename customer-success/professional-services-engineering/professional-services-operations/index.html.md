@@ -287,7 +287,9 @@ To provide Mavenlink access to an internal GitLab team members, provide access b
 * Process a GitLab Access Request
   * Request Okta
   * Request Mavenlink to be added to Okta
+
 #### Time Tracking 
+
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
 
 - Best practice is to record time at the end of each day. This provides the most accurate account of hours worked and when it was worked
