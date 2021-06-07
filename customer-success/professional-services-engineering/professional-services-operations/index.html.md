@@ -52,6 +52,8 @@ Comment should be added to the activity page to include the following:
 - Time Required
 - Priority Level
 
+The PC will review availablity and schedule the time on the Master Planning with an allocation.
+
 #### Consulting Project Assignment
 
 When the PC and PM have the project team aligned the PC will send [Consulting Project Assignment](https://docs.google.com/document/d/1HfIt30ksOlhv3zAxh8ZPX-5J59maiuhNgZT2E5lMpsk/edit) in the Mavenlink project activity, this allows the team to be aware of who will be working on the project.
@@ -256,6 +258,12 @@ ___
 
 ## Operations  
 
+#### New Hire 
+
+When there is a new team member on the PS Team.  We have some training and process links to review: 
+
+[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
+
 #### Mavenlink Access
 
 To provide Mavenlink access to an internal GitLab team members, provide access by the following:
@@ -280,12 +288,6 @@ To provide Mavenlink access to an internal GitLab team members, provide access b
   * Request Okta
   * Request Mavenlink to be added to Okta
 
-#### New Hire 
-
-When there is a new team member on the PS Team.  We have some training and process links to review: 
-
-[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
-
 #### Time Tracking 
 
 Accurate time tracking records of hours is essential to ensure revenue can be recognized based upon percentage completion of a project scope as outlined in a Statement of Work ("SOW"), and this data is used in the calculation of gross margin. Key points for time tracking include:
@@ -307,20 +309,6 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   - 45m should be .75
 
 ****Mavenlink Internal Projects****
-
-##### Internal Project Scheduling
-
-If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
-a request should be submitted via a comment and tag the PC on either Internal Projects:
-
-- PS Time Tracking Creditable
-- PS Time Tracking Non Creditable
-
-Comment should be added to the activity page to include the following:
-- Task
-- Time Required
-- Priority Level
-
 Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
 
 ****PS TimeTracking Creditable****
@@ -397,19 +385,6 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 ![splittimesheet](./splittimesheet.png)
 
-
-#### Project Expenses
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
-1. Purchase incurred or travel booked
-1. PSE/PM submit expense report through Expensify with PSE Project Tag and COGS as the category
-1. PS Manager approves expense report in Expensify
-1. PS Manager selects PS Operations as the next approver for the customer expense report
-1. PS Operations then reviews the expense report and sends to Finance approval and processing
-1. PS Operations then reviews the customer expense report with the assigned Project Manager
-1. PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
-
-The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
-
 #### Quarterly time tracking entry and approval workflow
 
 * All hours are submitted and approved in Mavenlink on a weekly basis
@@ -417,6 +392,36 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
+
+#### Project Expenses
+GitLab Employee Travels:
+
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
+* Purchase incurred or travel booked
+   * All travel should be booked through Trip Actions   
+* PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
+   * Include E Group travel approval 
+   * Include receipts
+   * Disregard the billable checkbox 
+* PS Manager approves expense report in Expensify
+* PS Manager selects PS Operations as the next approver for the customer expense report
+* PS Operations then reviews the expense report and sends to Finance approval and processing
+* PS Operations then reviews the customer expense report with the assigned Project Manager
+* PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
+
+The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
+
+If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
+
+GitLab Partner Travels:
+
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
+The Project Manager or Project Coordinator will provide the partner the travel budget.  
+Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
+   * Seperate line item for expenses on the invoice 
+   * One PDF document to include receipts for each expense
+Expenses are to be invoiced in the month in which they have incurred.
+
 
 #### Mavenlink Project Status/ Colors
 
@@ -457,12 +462,110 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
    * How is the customer feeling about the project? Happy, frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
 
-#### Mavenlink Reports
-The Professional Services Team uses Mavenlink reports to track project and team metrics
+### Partner Staffing
 
-[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
+Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing system.  
+
+#### Partner SOW
+
+TO DO
+
+#### New Supplier Request Form
+* For new partners/vendors only
+* Partner/vendor must be approved in Coupa prior to submitting a Professional Services Request and Purchase Request forms
+* [How to Request a New Supplier Instructions](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)
+
+#### New Professional Services Request Form
+* This initiates the New Purchase Request form
+* [How to complete the Professional Services Request Form](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form)
+* Notes:
+   * Are any GitLab employees already performing this service?
+     For the most part, answer “no”
+   * After submitting the Professional Services Request Form, it will apply to your Cart.
+   * Go into the Review Cart section and enter the information on the purchase request with the Professional Services Request Form questions already populated and added to the purchase request.
+
+#### Purchase Request Form
+* [How to Create a Requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+* Notes:
+   * For Consulting, do not specify anyone for the “on behalf of” field. PS Project Coordinator will initiate the new purchase request.
+   * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
+* General Info section:
+   * Add Agreements in the Attachments  
+      * MSA  
+      * Partner SOW  
+      * DPA (if applicable)  
+   * Vendor has access to red/orange data? field:   
+      * Will always have access to red data (select yes)  
+      * This will loop in Security as an approver.  
+   * Vendor’s Security Contact Email:  
+      * This is an optional field.  (To be determined)  
+* Cart Items section:
+   * Department:  
+      * Defaults to your user account setting.  Make sure that the department is correct for the invoice.  
+      * Consulting Delivery  
+      * Education Delivery  
+   * Commodity = COGS consulting fees or Consulting fees   
+   * Add Supplier
+   * Item:  
+      * Naming convention:  
+        * Consulting: partner name / customer name / Mavenlink workspace ID   
+        * Training:  partner name / year month day   
+     * Unit Price: Entire the full amount on the Statement of Work  
+     * Need By: Specify a date prior to the consulting or training start date  
+     * Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)  
+     * Service Start Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will start using the training funds  
+     * Service End Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will cap the training funds from being used  
+     * If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.  
+     * Payment Structure:   
+        * Data entry convention - Consulting: Hourly rate/ or Fixed Price  
+           * Example: $###/hour  
+           * Example: $### Fixed Price  
+        * Data entry convention - Training:  
+           * Standard Course Delivery: Fixed Price  
+           * Pre-Configured Course Delivery:  Hourly Rate  
+         * Custom Course Delivery:  Hourly Rate  
+         * Example (standard course): $### per course  
+         * Example (pre-config or custom): $###/hour   
+     * Submit the purchase request for approval.  
+     * Follow up with internal approvers as needed.  
+
+#### Purchase Order Process
+* After all approvers approve the purchase request, an associated Coupa PO will be created.
+* Partner/vendor invoice(s) will be filed against the PO.
+* Comments section: @ mention the partner invoicing A/R PoC to send invoice submission reminder
+* Project Coordinators will set up Customer Folder in the [Partner Folder](https://drive.google.com/drive/folders/1nAz1iD_iFSZolqNsV5bay_5IFogA_BmG), and include the following:
+   * Partner Fully Executed SOW
+   * [Partner Invoice Tracking Sheet](https://docs.google.com/spreadsheets/d/17OKORE1uJ9v8jsgJdAHnh4AUZ0cPZqo17AvozF9jBEk/edit?usp=sharing)  
+      * Set up with SOW amount  
+      * Link Fully Executed SOW  
+
+#### Invoice Processing and Tracking
+CURRENT PROCESS VIA TIPALTI:
+* Project Coordinator receives email notification from Tipalti to review the partner submitted invoice.
+   * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
+* Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
+* If the invoice and timesheets align, then the invoice is approved.
+* If the invoice and timesheets do not align, then the invoice is returned to Accounts Payable, and the Project Coordinator follows up with the partner.
+* Project Coordinator updates the partner invoice funds tracking sheet to include the invoice number, date, and amount and saves a copy of the invoice in the Partner Folder.
+
+#### Sending Invoice Reminder to the Partner - each month end 
+* Within Mavenlink, go to Insights > Time & Expense Admin- Partners and then go to the Time Approvals by Project report.
+* Enter the Date Range and filter the GitLab User Type field for the partner that you wish to view.
+* Run the report, and export the report in Excel format by clicking on the gear icon on the top, right-hand side of the page and select Export to XLSX.
+* Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
+* Create a pdf version of the partner timesheet information.
+* Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
 
 ### Mavenlink Processes
 Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
 [Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+
+#### Mavenlink Reports
+The Professional Services Team uses Mavenlink reports to track project and team metrics
+
+[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
