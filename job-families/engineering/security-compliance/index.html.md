@@ -136,13 +136,14 @@ The {Manager, Security Compliance} is a [grade 8](/handbook/total-rewards/compen
 
 #### Manager, Security Compliance Responsibilities
 * Hire and oversee a world class team of security compliance engineers and Engineers
+* Hold regular 1:1s with team members
 * Maintain a robust common control framework and continuous monitoring program aligned with GitLab's certification roadmap
 * Proactively identify changing regulatory requirements and appropriately adjust the scope of the security compliance program to accommodate these changes
 * Ensure execution of required testing and remediation activities leading to successful security certification(s)
 * Make broad recommendations on improving security compliance related processes and/or procedures across GitLab; partner with stakeholders to implement solutions
 * Prepare and deliver meaningful metrics to Security Assurance leadership
 * Identify and implement automation of manual processes to shorten processes and cycles
-* Successfully execute on quarterly OKRs
+* Successfully execute on quarterly OKR(s)
  
 #### Manager, Security Compliance Requirements
 * At least 3 years prior experience managing security compliance teams
@@ -162,7 +163,8 @@ The {Senior Manager, Security Compliance} is a [grade 9](/handbook/total-rewards
 * Identify and independently manage new security certification lifecycle, from planning to maintenance
 * Partner with the product organization to dogfood and drive GitLab compliance features internally
 * Create and deploy innovative and effective strategies for continuous control auditing and monitoring
-* Maintain reliable, up-to-date, information regarding security compliance changes and trends
+* Maintain reliable, up-to-date, information regarding security and compliance changes and trends
+* Proactively identify new metrics along with strategic recommendations to Security Assurance leadership
 * Draft and successfully execute on multiple quarterly OKRs
  
 #### Senior Manager, Security Compliance Requirements
