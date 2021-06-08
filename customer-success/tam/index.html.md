@@ -79,7 +79,7 @@ Aligning passionate TAM's with customers to ensure their success by...
 
 ## What is a Technical Account Manager (TAM)?
 
-GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, Professional Services Engineers and support.
+GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning, and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, Professional Services Engineers and support.
 
 See the [Technical Account Manager role description](/job-families/sales/technical-account-manager/) for further information.
 
