@@ -25,7 +25,6 @@ Security Compliance professionals at GitLab focus on operating our security comp
 * Prior experience working with a SaaS company preferred
 * Passion for transparent compliance programs
 
-
 ## Levels
 
 ### Security Compliance Engineer (Intermediate)
@@ -106,20 +105,22 @@ This position reports to the Senior Manager, Security Compliance role at GitLab.
 The {Principal Security Compliance Engineer} is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Security Compliance Engineer Responsibilities
-* The responsibilities of a Senior Security Compliance Engineer, plus;
-* Collaborates and makes proposals across several teams on their security compliance work, and helps their team members make informed decisions in alignment with security assurance strategic plans.
+* The responsibilities of a Staff Security Compliance Engineer, plus;
+* Collaborates and makes proposals across several departments on their security compliance work, and helps their team members make informed decisions in alignment with security assurance strategic plans
 * Exposes technology and organizational needs throughout security assurance and proposes technical implementation plans
+* Identify common observation finding themes and drive root cause remediation activities across several GitLab departments
 * Teach, mentor, grow, and provide advice to other domain experts, individual contributors, across several teams in security
 * Play a central role in technical, business, and organizational contributions affecting security compliance/security assurance
 * Interfaces with Senior management, and enables Staff Security Assurance Engineers to engage on security compliance aspects of larger security assurance initiatives
 * Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope
-* Ensures that OKR level goals are aligned across several teams in security assurance
-* Guides conversations to remove blockers and encourage collaboration across teams
+* Ensures that OKR level goals are aligned across all teams in security assurance
+* Guides conversations to remove blockers and encourage collaboration across teams and departments
 * Provides a point of escalation for security comopliance team members facing complex technical challenges
 * Attain a measurable impact on the work of security compliance
 * Interact with customers and other external stakeholders as a consultant and spokesperson for the work of security assurance
 * Exposes the work of security compliance and their business impact internally
 * Knowledgeable in all specialities practiced within security assurance
+* Demonstrated achievements that make GitLab's security compliance program an industry leader for Security Complaince
 
 #### Principal Security Compliance Engineer Requirements
 * A minimum of 15 years' experience defining and shaping compliance programs with a minimum of 5 years' experience building new compliance programs
