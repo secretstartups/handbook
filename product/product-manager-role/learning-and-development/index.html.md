@@ -305,6 +305,7 @@ _Please contribute your favorite resources here_
 - [The Engineering Manager: The relationship with Product](https://www.theengineeringmanager.com/growth/the-engineering-product-relationship/) 
 - [Visha Soni: A Practical Prioritization Approach for Technical Debt](https://productcoalition.com/a-practical-prioritization-approach-for-technical-debt-f1eb31b8e409)
 - [Rajat Harlalka: Why You Should Invest in Relationships With Your Engineering Team](https://www.mindtheproduct.com/why-you-should-invest-in-relationships-with-your-engineering-team/)
+- [PM & EM: Rules of Engagement](https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/)
 
 
 ##### Deeper dive
