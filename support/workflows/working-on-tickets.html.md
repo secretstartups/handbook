@@ -112,7 +112,13 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
    with them. If you decide to post a public response, be sure that your next
    steps align with the action plan that the assignee has described on their
    replies or ticket summary.
-1. Ensure that the subject of a support ticket is both descriptive and accurate. Although the subject is automatically set whenever a customer creates a new ticket you should review and if necessary modify the subject throughout the ticket lifecycle to ensure that it always accurately describes the customer's issue at any given time.  Having a descriptive and accurate subject is pivotal in enabling colleagues in support to quickly identify similar issues and reuse existing information.
+1. Ensure that the subject of a support ticket is both descriptive and
+accurate. You can edit the Subject to fix typos or make the problem
+clearer. Some examples include:
+
+    - gitlab error 500 on login -> gitlab error 500 on login due to no partition of relation "audit_events"
+    - My Account was Blockes -> My Account was Blocked
+    - git reconfigure with below errors -> git reconfigure with letsencrypt_certificate errors
 1. When you send a user an update, the normal action is to set the ticket
   status to `Pending`, which indicates that you are waiting for a reply
   from them. Even though at that point there will be no SLA clock running,
@@ -408,6 +414,9 @@ If a user's reply is the last one in the ticket, do not set it to the On-hold st
 
 ### Merging Tickets
 
+**WARNING:**
+Any attached files in the to be merged tickets will be shared across the tickets. Everyone in cc on both of these tickets will receive the files.
+
 If you're merging two of a user's tickets that are related, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow-ups asking why it was closed without comment.
 
 Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA. The ticket that was merged into another ticket is closed while the status of the target ticket is unaffected.
@@ -511,7 +520,7 @@ Here's an example week for folks working on self-managed tickets:
    <td><strong>Number of self-managed Support Engineers</strong>
    </td>
    <td><p style="text-align: right">
-<strong>50</strong></p>
+<strong>42</strong></p>
 
    </td>
    <td>
@@ -537,7 +546,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-1000</p>
+1050</p>
 
    </td>
    <td><p style="text-align: right">
@@ -553,7 +562,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-20</p>
+25</p>
 
    </td>
    <td><p style="text-align: right">
@@ -569,7 +578,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-<strong>17</strong></p>
+<strong>20</strong></p>
 
    </td>
    <td><p style="text-align: right">

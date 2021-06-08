@@ -12,21 +12,23 @@ experience.
 
 ## Contacting Support
 
-**Note**: Prior to reaching out to support, you will need an account
-pre-created for you in the [support portal](https://support.gitlab.com). To
-have this done, please reach out to your Technical Account Manager, Account
-Manager, Sales representative, or Support representative first!
+Alliance Partners may contact us by submitting a ticket from the
+[support portal](https://support.gitlab.com). Each representative of an
+Alliance Partner must arrange for their account on the
+[support portal](https://support.gitlab.com) to be created for  them
+**prior to submitting a ticket for the first time**. To make that
+arrangment, they should contact their Technical Account Manager, Account
+Executive or other member of their GitLab Sales team.
 
-Alliance Partners contact us via the
-[support portal](https://support.gitlab.com). To ensure that their tickets
-submitted there route properly, they use
+Once the account has been created, an Alliance Partner should submit tickets
+using only 
 [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001172559).
+Tickets submitted using any other form will not route correctly, which will
+likely result in delays.
 
-This opens the ticket in the Alliance Partner form in zendesk.
-
-**Note**: Pay close attention to any organization notes the Alliance Partner
-might have on their account. These often provide critical information about how
-to provide the very best support possible!
+**Note to Support**: Pay close attention to the organization notes an Alliance
+Partner has on their account. These often provide critical information about how
+to provide the very best support possible.
 
 ## File uploads
 
