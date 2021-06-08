@@ -277,6 +277,22 @@ Using the Zoom app:
 1. Click Save.
 
 
+### Recording video transcripts
+
+[Closed captioning and live
+transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+is enabled by default for all users, however the subtitles will not show for participants unless
+a host manually enables it once the meeting starts.
+
+At the end of a recorded meeting, the transcription will be available in a text file under the same
+folder as the other recording files.
+
+For local recordings, a transcription is saved to `closed_caption.txt` but only if enabled by
+a co-host.
+
+For cloud recordings, the file name ends with `.transcript.txt` and the full transcription is always
+available. Processing takes about 15 minutes, so the video files appear before the transcription.
+
 ### How to share a presentation in Zoom
 
 At some point, you may need to give a slide presentation using Zoom.
