@@ -399,7 +399,7 @@ _Please contribute your favorite resources here_
 
 ##### Books
 
-- [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.co.uk/Radical-Focus-Achieving-Important-Objectives-ebook/dp/B01BFKJA0Y)
+- [Christina Wodtke: Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results ( OKRs )](https://www.amazon.com/dp/B091ZL2SRL)
 - [Douglas W. Hubbard: How to Measure Anything: Finding the Value of Intagibles in Business](https://www.amazon.com/How-Measure-Anything-Intangibles-Business-ebook/dp/B00INUYS2U)
 - [Measuring the User Experience: Collecting, Analyzing, and Presenting Usability Metrics](https://www.amazon.com/Measuring-User-Experience-Interactive-Technologies/dp/0124157815)
 
