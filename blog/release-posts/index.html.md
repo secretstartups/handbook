@@ -787,6 +787,7 @@ layout: release
 featured: yes
 # header_layout_dark: true #uncomment if the cover image is dark
 # release_number_dark: true #uncomment if you want a dark release number
+# release_number_image: "/images/X_Y/X_Y-release-number-image.svg" # uncomment if you want a svg image to replace the release number that normally overlays the background image
 ---
 ```
 
