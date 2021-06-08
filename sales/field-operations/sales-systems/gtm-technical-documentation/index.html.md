@@ -428,6 +428,9 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 **Logic Locations:** 
    * [OpportunityClass.stampSATeam](###) - Link Pending Merge
 
+
+## GitLab Admin Contact Required
+
  **Business Process this supports:** Digital Journey - In order to deliver the digital journey enablement series to new customers, we need a way to identify contact roles for certain personas in the business to receive the right material.
 
 **Overview:** For the Commercial market, we will require identifying the GitLab admins at each Account at the time of Opportunity approval submission. When the “Submit for Approval” button is clicked in the Opportunity, logic will run the check criteria (defined below) on if a GitLab Admin is required and if there is currently one defined. Providing a GitLab Admin is defined by having at least one contact on the Account that has `Role` CONTAIN GitLab Admin [as seen here.](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/) Note: This contact can have other roles defined in this field in addition to GitLab Admin. If the criteria is met, there are two potential results:
