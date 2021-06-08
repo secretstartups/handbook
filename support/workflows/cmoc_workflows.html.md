@@ -319,4 +319,4 @@ The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can t
 
 ## CMOC Training Videos
 
-It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy)
+It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy) 
