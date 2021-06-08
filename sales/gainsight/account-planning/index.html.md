@@ -14,7 +14,7 @@ description: "The key aspects of how Sales uses Gainsight to drive success for c
 
 ### Gainsight in Salesforce
 
-Once logged into Salesforce, navigate to the Account or Opportunity page. Scroll down to the Gainsight widget.  The Customer 360 page will be the default view and is customized to show high-level account data and navigational tabs specific to Account Planning. 
+There are a few different ways to access Gainsight. The first is to access Gainsight through Okta. The second and third options require you to login to SalesForce. Once logged into Salesforce, navigate to the Account or Opportunity page, and scroll down to the Gainsight widget.  The Customer 360 page will be the default view and is customized to show high-level account data and navigational tabs specific to Account Planning. The other option, is to select the + sign on the blue navigation bar in Salesforce, and choose Gainsight NXT from the dropdown menu. Many reps prefer this view since you can see more of the entire account plan in a single pane. 
 
 ### Creating an Account Plan
 
