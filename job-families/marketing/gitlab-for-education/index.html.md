@@ -79,7 +79,7 @@ The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/comp
 
 #### Senior Education Program Manager Responsibilities
 
-* Extends that of the Education Program Manager responsibilities
+* Extends that of the Education Program Manager responsibilities.
 
 #### Senior Education Program Manager Requirements
 
@@ -90,28 +90,33 @@ The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/comp
 
 ### Manager, Education Program
 
-As the Manager, Education Programs, you will be responsible for building our GitLab for Education function.
+As the Manager, Education Program, you will be responsible for building our GitLab for Education function.
 
-* Extends that of the Education Program Manager requirements to include management of the GitLab for Education team as a people manager as well as:
+In addition to the Senior Education Program Manager
 - Define and execute the GitLab for Education vision and strategy to align it across teams.
-- Identify opportunities and build the resources to equip the GitLab team and the wider community to become education evangelists
-- Create, report, and iterate on the relevant key performance indicators to effectively measure the impact of GitLab's Education Program initiatives
-- Mentor, guide, and grow the careers of all team members
-- Build and continually evolve the team's processes to make them more effective
-- Enable the GitLab for Education team to produce and execute their quarterly OKRs
-- Develop a hiring plan according to the dynamic needs of a rapidly growing organization
+- Identify opportunities and build the resources to equip the GitLab team and the wider community to become education evangelists.
+- Create, report, and iterate on the relevant key performance indicators to effectively measure the impact of the GitLab for Education Program initiatives.
+- Mentor, guide, and grow the careers of all team members.
+- Build and continually evolve the team's processes to make them more effective.
+- Enable the GitLab for Education team to produce and execute their quarterly OKRs.
+- Develop a hiring plan according to the dynamic needs of a rapidly growing organization.
 
 #### Job Grade
-The Manager, Developer Evangelism is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Education Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Education Program Requirements
 In addition to the GitLab Education Program Manager requirements:
-- You have 2+ years of experience leading a team of education evangelists/advocates.
+- You have 2+ years of experience leading a team of education evangelists/advocates or similar roles.
 
+### Senior Manager, Education Program
+* Extends that of the Manager, Education Program.
 
+#### Job Grade
+The Manager, Education Program is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
-
+#### Senior Manager, Education Program Requirements
+In addition to meeting all the requirements of the Manager, Education Program:
+- You have 2-5 years of experience leading a team of education evangelists/advocates or similar roles.
 
 ### Director, Education
 
@@ -132,6 +137,8 @@ The Director, Education is a [grade 10](/handbook/total-rewards/compensation/com
 - Champion the importance of DevOps workforce development in higher education.
 - Collaboratively work across Corporate Marketing, Strategic Marketing, Learning and Development, Sales, and Product to tell GitLab in Education’s story.
 - Responsible for ideation of all campaign activities, initiatives, OKRs, and reporting on results.
+- Mentor, guide, and grow the careers of all team members.
+- Develop a hiring plan according to the dynamic needs of a rapidly growing organization.
 
 #### Director, Education (Head of Education) Requirements
 
@@ -149,7 +156,11 @@ The Director, Education is a [grade 10](/handbook/total-rewards/compensation/com
 
 ## Career Ladder
 
-The next steps for the GitLab for Education has not yet been defined.
+The next step for the Education Evangelist is not yet defined.
+
+The next step for the Senior Education Program Manager is to move to the Manager, Education Program or Senior Manager, Education Program.
+
+The next step for the Senior Manager, Education Program is to move to the Director, Education.
 
 ## Hiring Process
 
