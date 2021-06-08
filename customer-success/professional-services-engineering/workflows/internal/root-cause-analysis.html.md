@@ -31,7 +31,7 @@ Each root causes analysis meeting should follow (roughly) this agenda here.
 1. We will focus on reinforcing [GitLab Values](/handbook/values/), specifically items such as
   - **Address behavior, but don't label people**
   - **People are not their work** Always make suggestions about examples of work, not the person. Say, "you didn't respond to my feedback about the design," instead of, "you never listen." And, when receiving feedback, keep in mind that feedback is the best way to improve and that others want to see you succeed.
-  - **Directness** is about being transparent with each other. We try to channel our inner Ben Horowitz by being both straightforward and kind, an uncommon cocktail of no-bullshit and no-asshole. Feedback is always about your work and not your person. That doesn't mean will be easy to give nor receive it.
+  - **Directness** is about being transparent with each other. We try to channel our inner Ben Horowitz by being both straightforward and kind. Feedback is always about your work and not your person. That doesn't mean will be easy to give nor receive it.
   - [Say Thanks](/handbook/communication/#say-thanks)
   - **No ego** Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.
   - **Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
