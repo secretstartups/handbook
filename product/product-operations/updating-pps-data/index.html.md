@@ -5,7 +5,7 @@ title: Updating Post-purchase Survey Data
 
 ## Updating `PPS` data
 
-Post-purchase survey (PPS) data is taken monthly via Qualtrics. The output should come in the form of a spreadsheet which should look something like [this (internal only)](https://docs.google.com/spreadsheets/d/1GG3I34bfCvj3l0ByPEKQK7dTNZKpVQ_HajQDdHPaM8I/edit#gid=930609182).
+[Post-purchase survey](https://about.gitlab.com/direction/product-operations/#post-purchase) (PPS) data is taken monthly via Qualtrics. The output should come in the form of a spreadsheet which should look something like [this (internal only)](https://docs.google.com/spreadsheets/d/1GG3I34bfCvj3l0ByPEKQK7dTNZKpVQ_HajQDdHPaM8I/edit#gid=930609182) and is shared out via the [quarterly analysis issues](https://gitlab.com/gitlab-com/Product/-/issues/2272).  
 
 In that spreadsheet, the `feature` column matches to a feature in `data/features.yml`. That's what needs to get updated. There are two fields which we are updating here:
 
