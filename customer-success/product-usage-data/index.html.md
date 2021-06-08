@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Product Usage Data Vision Page"
-description: "The page outlines the current and planned utilization of product usage data at GitLab, including Product, Sales, Customer Success, and Marketing."
+title: "Services Usage Data Vision Page"
+description: "The page outlines the current and planned utilization of services usage data at GitLab, including Product, Sales, Customer Success, and Marketing."
 ---
 
 ## On this page
@@ -13,17 +13,15 @@ description: "The page outlines the current and planned utilization of product u
 ---
 
 
-# Product Usage Vision Page
+# Services Usage Vision Page
 
 ## Vision
 
-Leverage product usage data (for example, license, active users, use cases, and features) from the product to:
+Leverage services usage data (for example, license, active users, use cases, and features) from the product to:
 
 1. Accelerate customers' realization of value from the GitLab platform and delivery to desired business outcomes with a world-class customer experience
 2. Improve value, quality, and usability through data related to how customers use our product 
 3. Improve net dollar retention by efficiently retaining customers and assisting in account expansion 
-
-*Product usage data may also be referenced as "service data."*
 
 ## Benefits
 
@@ -51,11 +49,11 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 - Identify customers who are at risk of attrition or churn, as well as identify potential expansion opportunities (i.e., license and/or subscription tier)
 
 ## Use Cases
-*Note: The use cases, approaches, and metrics below include current and planned use cases. The following are some examples of how GitLab may use product usage data. Use cases may also be dependent on customer settings or consents the customer has provided to GitLab.* 
+*Note: The use cases, approaches, and metrics below include current and planned use cases. The following are some examples of how GitLab may use services usage data. Use cases may also be dependent on customer settings or consents the customer has provided to GitLab.* 
 
 ### Lifecycle Management
 
-![Lifecycle Management Approach Leverages Product Usage Data](./images/lifecycle-product-usage.jpeg)
+![Lifecycle Management Approach Leverages Services Usage Data](./images/lifecycle-product-usage.jpeg)
 [Link to pdf for improved viewing](./images/customer-lifecycle-journey.pdf)
 
 #### Success Planning and Outcome Delivery
@@ -69,12 +67,12 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 #### Adoption and Expansion
 
-- In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on product usage data. Depending on the adoption progress, resulting actions could be:
+- In alignment with a customer's goals, the adoption of the customer's desired use cases will be monitored and used to drive engagement activities based on services usage data. Depending on the adoption progress, resulting actions could be:
   - TAM may provide enablement content (product documentation, educational videos, etc.), guidance on best practices and approaches, key capabilities to adopt, and/or services to ensure successful adoption.
   - TAM engages with customers to understand if there are any issues or blockers with the customer (for example, training or enablement gaps, change management delays, technical issues, configuration problems, etc.). Depending on the issue, support and/or product may be engaged to assist the customer.
   - In a digital-only engagement, relevant content could be delivered to the customer (for example, best practices, configuration guides, education/enablement videos) based on the customer's usage data.
   - When mature adoption of desired use case(s) is complete, we may recommend additional use cases or capabilities that would provide added value to the customer. 
-- The customer's product usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
+- The customer's services usage may indicate there are capabilities in a higher subscription tier that may provide additional value to the customer. This would be proposed by the TAM, sales representative, or digitally. 
 
 #### Process and Playbooks
 
@@ -106,13 +104,13 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 
 ## Data Privacy
 
-The collection and use of product usage data will governed in accordance with the [GitLab Privacy Policy](https://about.gitlab.com/privacy/). 
+The collection and use of services usage data will governed in accordance with the [GitLab Privacy Policy](https://about.gitlab.com/privacy/). 
 
 ## Relevant Links
 
 - [Customer Success Vision Page](/handbook/customer-success/vision/)
 - [Customer Use Cases and Stage Mapping](https://docs.google.com/presentation/d/1bC_TdQO917hLbj4jfdkhtP0l7w8p1SKEK9vVjga5Wec/edit#slide=id.g7fe53431a5_0_33) (internal document)
-- [Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for TAM and digital engagement
+- [Services Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/): Gainsight is a customer lifecycle management platform used for TAM and digital engagement
 - [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-- [Product Intelligence Overview](/handbook/product/product-intelligence-guide/) (details on product usage data)
+- [Product Intelligence Overview](/handbook/product/product-intelligence-guide/) (details on services usage data)
 - [Email Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/)
