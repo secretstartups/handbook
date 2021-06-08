@@ -85,18 +85,20 @@ The Director, Quality Engineering is a [grade 10](/handbook/total-rewards/compen
 ### Responsibilities
 
 * Define and own all of GitLab's Quality Engineering efforts.
-* Drive the Quality Engineering sub-department's roadmap and quarterly OKRs.
-* Hire world class Engineering Managers for the Quality Engineering sub-department.
-* Manage multiple Quality Engineering teams and projects.
-* Track, publish and socialize the progress of the Quality Engineering sub-department.
-* Drive improvements and process that impacts Quality Engineering.
-* Manage the sub-department’s priorities, set guidelines for Quality Engineering teams and align them strategically across all of Engineering.
+* Define the Quality Engineering sub-department's roadmap.
+* Define plans and quarterly OKRs to execute against key objectives and roadmap. Align efforts strategically across R&D.
+* Drive improvements to KPIs and PIs that is in Quality Engineering's line-of-work and job-family.
+* Hire world class Engineering Managers and Software Engineers in Test (SETs) for the Quality Engineering sub-department.
+* Publish and socialize the progress of the Quality Engineering sub-department.
+* Drive retrospective and improvements that impacts Quality Engineering.
+* Manage the sub-department’s priorities and define prioritization guidelines for teams in Quality Engineering. 
 * Excellent written and verbal communication skills. Able to convey bottom-line messages to executives at C & VP level.
-* Hold regular skip-level 1:1's with all members of their team.
+* Hold regular skip-level 1:1's with all Software Engineer in Tests (SETs)
 * Help the teams in Quality Engineering grow their skills and experience, ensure that they are happy and productive.
 * Interface with GitLab customers to address Functional and Performance test gaps.
 * Research and advice team on new technology and tools in the Quality Engineering space.
-* Represent the company publicly at conferences.
+* Occasionally contributes to the company blog.
+* Occasionally pepresent the company publicly at conferences.
 
 ### Requirements
 
