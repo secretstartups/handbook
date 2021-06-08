@@ -632,8 +632,20 @@ Required fields when requesting Google Cloud Credits on an Opportunity
 2. Customer open to being a reference? (drop down: logo use, case-study, joint speaking session, etc.)
 3. Credits being requested (Sales Rep enters in the amount of credits required to close the deal)
 
-Once all required information is provided, it will be routed internally for approval. For more information, visit the [Private Alliance Handbook Page](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
+Once all required information is provided, it will be routed internally for approval. For more information, visit the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/gcp/).
 
+### IBM Partner Requests & QTC Process
+
+1. IBM Partner Requests: Visit the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/ibm/) for further information on partner requests.
+
+2. IBM QTC Process: Once informed by IBM of a potential opportunity: 
+    - Sales creates an opportunity in SFDC per standard process under the customer account 
+    - Sales adds “(IBM OEM)” to the opportunity name and includes IBM in the Partner Section of the opportunity
+    - Alliance Ops adds the contact information on the opportunity, creates the quote and attaches proper documentation
+    - Alliance Ops chatters Sales-Support with documentation links
+    - Deal Desk validates the details and process for closing
+
+Additional Information on the QTC Process is available in the [Private Alliance Handbook](https://gitlab-com.gitlab.io/alliances/alliances-internal/ibm/).         
 
 
 ## Compensation on Channel Opportunities 
