@@ -65,7 +65,7 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 #### Referenceable Customers
 
-The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/strategic-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
+The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
 
 #### NPS/CSAT Survey Enrollment
 To enroll the correct contacts to recieve the NPS/CSAT Survey 60 days post-onboarding and 60 days pre-renewal it has been integrated as part of the New Customer Onboarding and Renewal Playbooks. A task will be created for the TAM to assign or update a `GitLab Admin` contact when completing these playbooks.
