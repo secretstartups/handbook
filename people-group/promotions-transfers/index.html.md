@@ -72,6 +72,14 @@ Once all tasks have been completed and the issue is still open, the People Exper
 
 All migration tasks by the applicable team members needs to be completed within 2 weeks of the migration start date.
 
+## For Team Members: Transitioning To A New Manager
+
+There are several situations at GitLab that could lead to team members changing managers, including promotions, lateral transfers, company restructuring, manager resignation, etc. The process of building a new relationship with a new manager can be uncertain at times, but there are resources to help this transition process go smoothly:
+
+- [Transitioning 1-1s](/handbook/leadership/1-1/#transitioning-1-1s) is a very important part of manager transitions. This helps ensure the new manager is up to speed on important discussions, deliverables, etc. so this information does not get lost in the transition.
+- The [career mobility template](https://docs.google.com/document/d/1iRbmS518CDjmhZEjvkaibqR1g0angWE83sWvtlH-elE/edit#heading=h.5ahg1o4v53q7) helps to ensure accomplishments, strengths, development areas, etc. are all captured with evidence moving forward. This makes sure career development progress continues and is not lost with manager changes. 
+- Sharing your most recent 360 feedback review and most recent performance review with your new manager can also be a great way to align on your strengths and improvement areas and discuss how they can partner with you in developing both.
+
 ## BambooHR or Greenhouse Process
 
 ### Greenhouse
