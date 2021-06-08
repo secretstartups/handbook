@@ -60,7 +60,7 @@ They should select "GitLab.com (SaaS) User Accounts and Login Issues" as the rea
 
 ### Requesting Customer Information
 
-According to our [privacy policies](/privacy/), Support will not provide any information regarding customers, groups, projects, etc,  to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
+According to our [privacy policies](/privacy/), Support will not provide any information regarding customers, groups, projects, etc, to you that are not available publicly. This includes situations where a customer is requesting information about their own projects, groups, etc. If they are unable to authenticate, we cannot assume they are who they say they are. If they are locked out, please have them submit a support ticket.
 
 ### Viewing Support Tickets
 
@@ -166,8 +166,9 @@ If *none* of these above are options for your case, open a [billable members int
 
 ### Other
 
-#### I want to escalate a ticket
-Please see our dedicated [Support Escalations Page](/handbook/support/internal-support/support-escalations.html), especially the section documenting the [steps to escalate a ticket](/handbook/support/internal-support/support-escalations.html#the-following-instructions-apply-for-both-zendesk-tickets-and-internal-support-issues.)
+#### I Want to Escalate a Ticket
+
+Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page, specifically the section documenting [how to escalate a ticket](/handbook/support/internal-support/support-escalations.html#requesting-an-escalation).
 
 #### Trials and Prospect Support
 
@@ -181,7 +182,9 @@ You can do this via Salesforce in a few simple steps:
 1. Add a contact record in Salesforce for each person in the organization who you want to be able to submit and work support tickets.
 1. Instruct your prospect to [open a new case](https://support.gitlab.com/hc/en-us/requests/new) via the web support portal and after selecting the reason for reaching out (whether self-managed or SaaS) be sure to ask that they select `Sales assisted trial` as their subscription level from the relevant dropdown menu.
 
-**Important Additional Notes**
+#### Important Additional Notes
+
+{:.no_toc}
 
 1. There is no need to contact the Support team - selecting `Manual Support Upgrade` will mean your prospect's tickets automatically get the correct SLA.
 1. Please wait for at least two hours after enabling the support upgrade before submitting a ticket to allow Salesforce and Zendesk to synchronize.
@@ -223,10 +226,10 @@ for an organization or user, please create an issue under the
 [support-ops-project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/)
 using the [Add Zendesk Organization Notes or Tags Request](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request)
 template. Please be sure to indicate whether the information is only valid
-for a specific period of time so that we may include that fact in the notes. 
+for a specific period of time so that we may include that fact in the notes.
 
 Examples of some notes you might want added:
 
-* You want to put the SA's name on there for use in the tickets.
-* A customer prefers specific titles be used when addressing them.
-* An organization has multiple subscriptions.
+- You want to put the SA's name on there for use in the tickets.
+- A customer prefers specific titles be used when addressing them.
+- An organization has multiple subscriptions.
