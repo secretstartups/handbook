@@ -567,7 +567,7 @@ We have listeners set up in Marketo listening certain parameters. Please check t
 | DevSecOps Use Case	                   | devsecopsusecase                ||
 | AWS	                                   | awspartner                      ||
 | PubSec                                   | amer-pubsec                     |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG7588A1)|
-
+| DevOps GTM                               | devopsgtm                       |[Yes](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8342A1)|
 
 
 ##### Step 1: [Clone this Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG6911A1)
