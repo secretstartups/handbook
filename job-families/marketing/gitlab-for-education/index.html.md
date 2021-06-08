@@ -79,11 +79,11 @@ The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/comp
 
 #### Senior Education Program Manager Responsibilities
 
-* Extends that of the Education Program Manager responsibilities.
+This role includes all of the responsibilities of the previous level.
 
 #### Senior Education Program Manager Requirements
 
-* Extends that of the Education Program Manager requirements
+This role includes all of the requirements of the previous level plus:
 - You have 7-10 years of experience running developer relations or community advocacy programs, preferably open source in nature.
 - Prior experience developing relationships with educational institutions.
 - Substantial experience in academia and research spaces.
@@ -92,7 +92,7 @@ The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/comp
 
 As the Manager, Education Program, you will be responsible for building our GitLab for Education function.
 
-In addition to the Senior Education Program Manager
+This role includes all of the elements of the Education Program Manager plus:
 - Define and execute the GitLab for Education vision and strategy to align it across teams.
 - Identify opportunities and build the resources to equip the GitLab team and the wider community to become education evangelists.
 - Create, report, and iterate on the relevant key performance indicators to effectively measure the impact of the GitLab for Education Program initiatives.
@@ -105,11 +105,11 @@ In addition to the Senior Education Program Manager
 The Manager, Education Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Education Program Requirements
-In addition to the GitLab Education Program Manager requirements:
+This role includes all of the requirements of the Education Program Manager plus:
 - You have 2+ years of experience leading a team of education evangelists/advocates or similar roles.
 
 ### Senior Manager, Education Program
-* Extends that of the Manager, Education Program.
+This role includes all of the elements of the Manager, Education Program.
 
 #### Job Grade
 The Manager, Education Program is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
