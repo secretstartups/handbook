@@ -958,6 +958,12 @@ Therefore, a category of information is **public** unless there is a reason for 
 When information is not public, it may also be treated as limited access, only shared with certain GitLab roles, teams, or team members due to privacy considerations, contractual obligation, or other reasons that the author or DRI can specify.
 Certain kinds of information default to limited access, including details about team members or customers who did not give permission to share the information.
 
+We also accept that we sometimes make mistakes and publicize information that
+should have remained confidential in retrospect. Most companies become
+non-transparent over time because they don't accept any mistakes. Making
+mistakes and reflecting on them means we know where the limit of transparency
+is, and document it.
+
 We document what is [not public by default](/handbook/communication/#not-public) on our communication page.
 
 ##### Directness
