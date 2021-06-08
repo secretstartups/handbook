@@ -962,7 +962,7 @@ Most companies become non-transparent over time because they don't accept any
 mistakes. Instead, we should always err on the side of transparency when there
 is a choice to be made between caution or inaction, and transparency. If we make
 a mistake, we now know what the limits of transparency are for the company and
-we should [document this](#not-public).
+we should [document this](#not-public). _The only exception to this rule would be in the case when there are legal concerns._
 
 We document what is [not public by default](/handbook/communication/#not-public) on our communication page.
 
