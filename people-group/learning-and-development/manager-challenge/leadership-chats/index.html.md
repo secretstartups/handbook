@@ -57,7 +57,7 @@ Note: Due to a planned commitment by the L&D team, the first session will be hel
 
 ## Attendance
 
-Leadership Chats are on the GitLab Team calendar. If you're having trouble finding the meeting, reach out to the L&D team in the [learning and development Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for support. 
+Leadership Chats are on the GitLab Team calendar. If you're having trouble finding the meeting, reach out to the L&D team in the [learning and development Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for support. Team members can also submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests) to be added to the `managers@gitlab.com` email group so you can attend the Leadership Chats. 
 
 Since the meetings are not recorded, you can review the [meeting agenda](https://docs.google.com/document/d/1Hq9CykJn3EvYI5XblntORSIaheCdmyqYsqiHdrlHbHE/edit) to catch up on missed conversations.
 
