@@ -62,8 +62,9 @@ Our AB tests include two files, the control and the test variant. Both exist on 
 
 **Active**
 
-* [VIDEO: Part 1 of 2, explaining code paths and how to develop an AB test of the pricing page](https://youtu.be/H3-y5JRNDTM)
-* [VIDEO: Part 2 of 2, explaining how our feature flag vendor's system works and how to verify that the AB test is working](https://youtu.be/5Pll30nkqes)
+* [VIDEO: Part 1 of 3, explaining code paths and how to develop an AB test of the pricing page](https://youtu.be/H3-y5JRNDTM)
+* [VIDEO: Part 2 of 3, explaining how our feature flag vendor's system works and how to verify that the AB test is working](https://youtu.be/5Pll30nkqes)
+* [VIDEO: Part 3 of 3, explaining how to decommission a feature flag and set up a new control experience](https://youtu.be/kY0lpmXlELE)
 * [DEPRECATED: Outdated Google doc and video explainer outlining the system. Code and structure has changed a lot since this video was made.](https://docs.google.com/document/d/1_XztSRs_CMBulZDvrVbSHmCjtOnL0xd6gFUEVo_NxoA/edit?usp=sharing)
 
 ### Checklists
