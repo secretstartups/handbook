@@ -1007,10 +1007,6 @@ By having most company communications and work artifacts be public to the Intern
 {:.no_toc}
 Our transparency value means more than just making information accessible to all. In order to [improve performance](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture) it's important that we not only ensure information is accessible, but also ensure it flows to the correct places and is [findable](https://en.wikipedia.org/wiki/Findability) by those who need it. Focusing on information flow will ensure you, for example, utilize [multi-modal communication](/handbook/communication/#multimodal-communication), or that you keep your [stakeholders informed of changes](/handbook/product/product-processes/#updated-ssot-for-stakeholder-collaboration) by posting links to MRs in Slack.
 
-##### Find the limit
-{:.no_toc}
-We accept that we occasionally make mistakes in the direction of transparency. In other words, we accept it if we're sometimes publicizing information that should have remained confidential in retrospect. Most companies become non-transparent over time because they don't accept any mistakes. Making mistakes and reflecting on them means we know where the limit of transparency is.
-
 ##### Say why, not just what
 {:.no_toc}
 Transparent changes have the reasons for the change laid out clearly along with the change itself. This leads to fewer questions later on because people already have some understanding. A change with no public explanation can lead to a lot of extra rounds of questioning, which is less efficient. 
