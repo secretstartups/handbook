@@ -93,6 +93,12 @@ The following best practices should be followed when building learning content t
 
 Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
 
+### Learning Video Best Practices
+
+In addition to making video learning content handbook first, consider these best practices when recording video training or delivering live training:
+
+1. Turn on [Zoom closed captionining and live transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
+
 
 ### Handbook first course example
 
