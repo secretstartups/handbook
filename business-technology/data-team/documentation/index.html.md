@@ -146,3 +146,10 @@ You'll notice there are emojis next to both the persona and documentation type h
 - 🌎💡 Indicates this is an explanation for all personas. An example would be the charter of the data team.
 
 Note that the emojis will not be inclusive of everyone who may in fact be interested in the section. Our aim is only to provide a quick guide to help orient the reader for what they're reading.
+
+## Contribution to the Data Team Handbook
+Every team member in the Data Team is encouraged to contribute to the handbook. Everybody in the `@data-team` is **code [owner]**(https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS) of our Data Team Handbook pages, but with duties:
+1. All handbook changes are reviewed and not merged before approval.
+2. All MRs for handbook changes, does have an appropriate name (important to keep track of changes via the [Handbook Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)). Please indicate that it's a Data Team handbook change.
+3. Tag a team member(s) if it's applicable in case of a notable change. This should be the case quite frequently, because making a change to the handbook and not notifying anybody does not make sense. 
+4. Feel free to discuss/demo your handbook contribution during the Data Team demo meeting. 
