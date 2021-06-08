@@ -29,6 +29,7 @@ Release posts follow a process outlined here, and the templates that are used to
   for [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md)
   and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md).
 - See also [release managers](/community/release-managers/).
+- Release Post Managers will need [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
 
 #### Templates
 
@@ -162,8 +163,8 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 If you have any technical problems while doing any of your release post manager duties that you can't resolve with the help of the Messaging lead, Technical writing lead or [release post DRI](https://gitlab.com/fseifoddini), you can reach out for technical advisement to the [Technical Advisors](#technical-advisors) via the dev escalation process. When you communicate with tech advisors, always indicate whether your problem is urgent or not. If you indicate it is urgent, provide a clear date/time by which you need a response or resolution.
 
 <i class="fas fa-exclamation-triangle" aria-hidden="true" style="color: red"></i>
-**Important:** Please check beforehand if you have **merge rights** to the www project.
-If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) and inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Messaging and TW leads as FYI that it's in progress but you may need merge support.
+**Important:** Please check beforehand if you have `Maintainer` **merge rights** to the www project.
+If you don't, submit an issue to [request access](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) asking for [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031). You will also need to inform the [release post DRI](https://gitlab.com/fseifoddini) as well as the Messaging and TW leads as FYI that it's in progress but you may need merge support.
 {:.alert .alert-warning}
 
 #### Create your release post branch and required directories/files
