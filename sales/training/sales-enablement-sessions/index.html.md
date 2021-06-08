@@ -24,11 +24,11 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
 | Jun 10 | Account Planning Office Hours |  Kris Reynolds    |
-| Jun 17 | Q2 FY22 Product Update |    Brian Glanz  |
+| Jun 17 |  |      |
 | Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
-| Jul 1  | ServiceNow & GitLab Integration |  |
-| Jul 8  |  |  |
-| Jul 15  | Q2 FY22 Alliances Update |  |
+| Jul 1  | ServiceNow & GitLab Integration | Mike LeBeau |
+| Jul 8  | Q2 FY22 Product Update | Brian Glanz |
+| Jul 15  | Q2 FY22 Alliances Update | Mike LeBeau |
 | Jul 22  | *No sessions during the last two weeks of a quarter* |  |
 | Jul 29  | *No sessions during the last two weeks of a quarter* |  |
 
