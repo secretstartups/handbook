@@ -757,7 +757,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
    1. Leave the no headphones to:
    1. People who don't have them handy at that time
    1. People from outside the company
-   1. Suggested headphone models can be found in the handbook under [spending company money](/handbook/spending-company-money/equipment-examples/#headphones-and-earbuds).
+   1. Suggested headphone models can be found in the handbook under [spending company money](/handbook/finance/expenses/#headphones-and-earbuds).
    1. If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html) that is fine but please ensure the microphone is active.
 1. Consider using a utility to easily mute/unmute yourself, see [Shush](/handbook/tools-and-tips/other-apps/#shush) in the tools section.
 1. [Hybrid calls are horrible](#hybrid-calls-are-horrible)
