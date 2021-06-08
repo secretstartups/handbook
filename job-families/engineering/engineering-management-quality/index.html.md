@@ -85,7 +85,7 @@ The Director, Quality Engineering is a [grade 10](/handbook/total-rewards/compen
 ### Responsibilities
 
 * Define and own all of GitLab's Quality Engineering efforts.
-* Define the Quality Engineering sub-department's roadmap.
+* Define the Quality Engineering sub-department's fiscal year Direction (in handbook).
 * Define plans and quarterly OKRs to execute against key objectives and roadmap. Align efforts strategically across R&D.
 * Drive improvements to KPIs and PIs that is in Quality Engineering's line-of-work and job-family.
 * Hire world class Engineering Managers and Software Engineers in Test (SETs) for the Quality Engineering sub-department.
