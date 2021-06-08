@@ -13,6 +13,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 ## Resources for those who identify at Neurodiverse
 - [Neurodiverse is a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [ADHD in the workplace](https://www.webmd.com/add-adhd/adhd-in-the-workplace)
+- [Free neurodiversity peer mentorships](https://www.neurodiver-city.org/)
 
 ## Resources for Team Members and Managers+
 
@@ -21,6 +22,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Certified Neurodiverse Workplace](https://ibcces.org/certified-neurodiverse-workplace/)
 - [Understanding the benefits of neurodiversity in the workplace](https://www.hays.com.au/blog/insights/understanding-the-benefits-of-neurodiversity-in-the-workplace)
 - [Neurodiversity Resources for Employers](https://www.neurodiversityhub.org/resources-for-employers)
+- [Neurodiver-city.org]((https://www.neurodiver-city.org/))
 
 
 ## Reasonable Accommodations
