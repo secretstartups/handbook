@@ -20,4 +20,4 @@ title: "Sales Quick Start (SQS) Workshop"
 
 ## Sales Quick Start In-Person (or Remote) Workshop Agenda
 
-This [SQS 2020 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjdhrpyi9vB81kvdJ4H-66F8ghv-h_-_bGw/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
+This [SQS 2021 Agenda sheet](https://docs.google.com/spreadsheets/d/1f1O2VC_6Fjdhrpyi9vB81kvdJ4H-66F8ghv-h_-_bGw/edit?usp=sharing) contains the most up to date agenda for our in-person Sales Quick Start Workshop. Please check the tabs at the bottom of this document to see each day's agenda. This agenda is subject to change based on the individual needs of the class and the availability of SMEs, but we will make every effort to surface those changes in this document.
