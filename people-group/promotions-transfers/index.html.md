@@ -60,6 +60,10 @@ Important things to ensure:
 - Reminding the team member to update their title on the team page, on their GitLab profile, in Zoom, in Slack and on professional networks like Linkedin. If relevant, remind them to order new business cards as well.
 - If we are in the middle of company wide 360 reviews, it is encouraged that the current manager and new manager arrange a successful handover of the feedback, whether sync or async.
 
+## Career Mobility Retrospective
+
+1. The team member going through this transition and assigned to their Career Mobility issue have a set of tasks to complete. An important one is to create a retrospective thread within their Career Mobility issue, so that they and their respective previous and current managers can discuss any questions, comments, proposals and more about their issue within said issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Career Mobility issue, simply comment in the issue, starting a thread titled **Retro :recycle: thread** or **Retrospective**. Please feel free to ping your assigned People Experience Associate in your issue if you have any questions.
+
 ## Compliance
 
 The People Experience Associate completes a bi-weekly audit of all career mobility issues that are still open and checks that all tasks have been completed by all members applicable. In the event that tasks are still outstanding, the People Experience Associate will ping the relevant team members within the transition issue to call for tasks to be completed.
