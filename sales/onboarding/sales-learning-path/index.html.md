@@ -35,7 +35,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**
-   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - Please click on the link below and go through the course modules. 
    - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
 *  **GitLab SDLC Quiz (Quiz - 9 Points - Pre Work)**
    - Take a look at the [handbook page on the SDLC](https://about.gitlab.com/stages-devops-lifecycle/) and take this short [quiz](https://forms.gle/Ed9JjNmKsXPhJ4Fr7)
@@ -49,7 +49,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
 *  **Our Customers**
-   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - Please click on the link below and go through the course modules. 
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
    - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
@@ -62,7 +62,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470260)
 *  **Our Portfolio**
-   - Please click on the link below and go through the course modules. Once complete, please come back to the Google Classroom and take the quizzes. Don't forget to mark your assignments as "Complete" or "Done" when you've finished them - that way you'll get credit for them on the gradesheet.
+   - Please click on the link below and go through the course modules. 
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
@@ -72,9 +72,9 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Take a moment to complete this short knowledge check [quiz](https://docs.google.com/forms/d/e/1FAIpQLScahosIQoghrijLvRacseegt65O3SBycTIubvzJsaFn5wp2RQ/viewform)
 * **GitLab Security Solutions (Material - Slides and Video - 30 minutes)**
    - Security is one of the biggest differentiators to Ultimate. In this course, you will learn detailed information about GitLab security capabilities with a click through demo.
-   -Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
-   -[GitLab Secure Doc](https://docs.gitlab.com/ee/user/application_security/index.html)
-   -[GitLab Security and Compliance Capabilities Deck](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
+   - Using [GitLab for Software Security Video](https://youtu.be/SP0VSH-NqJs)
+   - [GitLab Secure Doc](https://docs.gitlab.com/ee/user/application_security/index.html)
+   - [GitLab Security and Compliance Capabilities Deck](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit)
 *  **Selling Professional Services (Material - Video - 30 Minutes)**
    - Our [Professional Services](/handbook/customer-success/professional-services-engineering/selling/) team is made up of not only GitLab subject matter experts but seasoned DevOps professionals who have experience in deploying and maintaining both large-scale applications as well as creating and teaching best practices throughout the SDLC. Our experts help lead Concurrent DevOps Transformations, providing direct support to our customer’s strategic business initiatives. GitLab's Professional Services team exists to enable your clients realize the full value of their GitLab installation. We can provide direct implementation support to ensure the GitLab installation is resilient and secure. We also offer migration services to facilitate the transition to GitLab by delivering a clean dataset to resume operations at once. Our education and specialized training provide training in best practices, such as CI/CD, version control, metrics, and more.
    - You can also watch the [Sales Enablement Session](/handbook/customer-success/professional-services-engineering/sales-enablement/) about how to sell services
@@ -133,10 +133,10 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Please read this [short document](https://drive.google.com/file/d/1heCPCI9bT1sc05Xj0hrp8BJrlzMc8VEc/view?usp=sharing) by Force Management to prepare for the Command of the Message training in Sales Quick Start.
 *  **[Co-Selling with Partners](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1316397) (Course - 30 Minutes - Pre Work)**
 *  **GitLab Sales Operating Procedures**
-    - **[Engage & Educate the Customer|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472304) (Material - Handbook - 10 minutes)**
-    - **[Facilitate The Opportunity|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472305) (Material - Handbook - 10 minutes)**
-    - **[Deal Closure|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472306) (Material - Handbook - 10 minutes)**
-    - **[Retain and Expand|GitLab Sales Operating Procedures](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472312) (Material - Handbook - 10 minutes)**
+    - **[Engage & Educate the Customer](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472304)** **(Material - Handbook - 10 minutes)**
+    - **[Facilitate The Opportunity](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472305)** **(Material - Handbook - 10 minutes)**
+    - **[Deal Closure](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472306)** **(Material - Handbook - 10 minutes)**
+    - **[Retain and Expand](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1472312)** **(Material - Handbook - 10 minutes)**
 *  **Social Selling 101 ( Material - Video - 20 Minutes)**
    - Social selling is the art of using social networks to find, connect with, and nurture your customers and prospects. Watch the [video](https://www.youtube.com/watch?v=w-C4jts-zUw) and use this [guide](https://drive.google.com/open?id=1UCRF6PC6al8XxT8E_4rDKkQjkW6WGPA6gybWeuRIg7A&authuser=0) to learn how to make a profile that will resonate with your prospects.
 *  **[QUESTION: Business Development](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470149) (Assignment - 15 Minutes - 10 Points - Pre Work)**
