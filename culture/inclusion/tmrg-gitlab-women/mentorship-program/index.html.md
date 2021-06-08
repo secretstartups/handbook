@@ -52,7 +52,7 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | Date | Description | Related Resources |
 | ----- | ----- | ----- |
 | 2021-05-05 | Discuss program details with Women's TMRG group meeting | [Planning Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) |
-| 2021-05-20 - 2021-06-0-7 | Call for Mentors | Application below |
+| 2021-05-20 - 2021-06-07 | Call for Mentors | Application below |
 | 2021-06-07 - 2021-06-15 | Call for Mentees | Application below |
 | 2021-06-18 | Pairing of mentor relationships complete and communicated to applicants |
 | Between 2021-06-18 and 2021-07-01 | Optional: Mentor/Mentee pre-program coffee chats | |
@@ -117,7 +117,7 @@ As a mentee, you benefit from:
 - You have been with GitLab for at least 3 months at the time of application 
 - You have availability in your schedule to meet with your mentor on a bi-weekly basis for at least 30 minute meetings for the entire length of the program
 - You plan to make every effort to attend all live trainings included in the program structure
-- You are not on a PDP (Performance Development Plan) or PIP (Performance Improvement Plan)
+- You are not on a [Formal Coaching plan](/handbook/leadership/underperformance/#options-for-remediation) or PIP (Performance Improvement Plan)
 
 #### Considerations
 
@@ -128,7 +128,7 @@ Applications will be prioritized on many points including:
 
 #### Apply to be a Mentee
 
-Application for mentees will open on 2021-05-31.
+Application for mentees will open on 2021-06-07.
 Please complete [this Mentee Application Google form](https://docs.google.com/forms/d/e/1FAIpQLSfzKUipyNHZKC90ZHcAbOkhAi4a_pqMhmCOkAodLeDBgxII_w/viewform) to apply to be a mentee.
 
 Please note that applying for a mentee does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above.
@@ -156,9 +156,9 @@ It's possible that we will have a shortage of mentors and be unable to complete 
 
 **I'd like to particiapte but I can't commit the entire length of the program. Can I still apply?**
 
-If you cannot commit to the 3 month program, please consider applying for a future mentorship program at GitLab. It's important that both mentors and mentees are available for the full 3 month program to acheive the best results.
+If you cannot commit to the 3 month program, please consider applying for a future mentorship program at GitLab. It's important that both mentors and mentees are available for the full 3 month program to achieve the best results.
 
-**I'm not elidigible to be a mentor or a mentee in this program. What are my options for future participation?**
+**I'm not eligible to be a mentor or a mentee in this program. What are my options for future participation?**
 
 The L&D team is working with the DIB team to create a mentor program framework that can be implemented for teams across GitLab. Please watch for updates on this iteration in FY22-Q3.
 
