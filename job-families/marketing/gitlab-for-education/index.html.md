@@ -31,7 +31,7 @@ The Education Evangelist is a [grade 6](https://about.gitlab.com/handbook/total-
 - Compile quarterly metrics reports to measure our GitLab in Education successes in relation to awareness and impact.
 - Manage projects from start to finish.
 
-### Education Evangelist Requirements
+#### Education Evangelist Requirements
 
 - 3-5 years experience in technical evangelism, program management, or education.
 - An understanding of GitLab’s and DevOp’s role in Education.
@@ -73,7 +73,7 @@ The Education Program Manager is a [grade 6](/handbook/total-rewards/compensatio
 
 The Senior Education Program Manager reports to the Director, Education or Director of Community relations if there is not a Director, Education.
 
-### Senior Education Program Manager Job Grade
+#### Senior Education Program Manager Job Grade
 
 The Senior Education Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
@@ -104,7 +104,7 @@ This role includes all of the elements of the Education Program Manager plus:
 #### Job Grade
 The Manager, Education Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, Education Program Requirements
+### Senior Manager, Education Program Requirements
 This role includes all of the requirements of the Education Program Manager plus:
 - You have 2+ years of experience leading a team of education evangelists/advocates or similar roles.
 
