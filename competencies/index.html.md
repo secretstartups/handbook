@@ -118,9 +118,9 @@ Test your knowledge and self-reflect on the Remote Work Competencies by completi
 1. [Engineering Competencies](/handbook/engineering/career-development/matrix/engineering/)
 1. [Product Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
-#### Manager and Leadership Competencies
+### Manager and Leadership Competencies
 
-In addition to our values, remote work, and functional competencies, we have identified manger competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.
+In addition to our values, remote work, and functional competencies, we have identified manager competencies that serve as the foundation to a whole person approach to management. Our leadership and management development programs incorporate the competencies as the bedrock for creating impactful training for our people.
 
 1. [Emotional Intelligence](/handbook/people-group/learning-and-development/emotional-intelligence/#emotional-intelligence-manager-competency)
 2. [Modeling a Culture of Feedback](/handbook/people-group/guidance-on-feedback/#modeling-a-culture-of-feedback-manager-competency)
