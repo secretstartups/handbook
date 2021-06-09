@@ -469,16 +469,18 @@ As PMs, in addition to driving usage of individual features, we should also proa
 
 ``` mermaid
 graph LR;
-    Create --> Plan
-    Verify --> Secure
-    Create --> Manage
-    Create --> Verify
-    Verify --> Release
-    Verify --> Package
-    Release --> Monitor
-    Release --> Configure
-    Release --> Protect
+    Create(98%) --> Plan(56%)
+    Verify(88%) --> Secure(15%)
+    Create(98%) --> Manage(48%)
+    Create(98%) --> Verify(88%)
+    Verify(88%) --> Release(50%)
+    Verify(88%) --> Package(7%)
+    Release(50%) --> Monitor(9%)
+    Release(50%) --> Configure(2%)
+    Release(50%) --> Protect(5%)
 ```
+* The percentage here is defined as % active paid self-managed instances per month that adopted a stage.   
+
 
 The foundational user journey is from Create -> Verify. This is the most common combination of stages, and we believe when users experience these two stages they begin to understand the broader power of a single application for the entire DevOps lifecycle. We are working on several projects to increase the number of users enjoying Create and Verify together. Examples:
 
