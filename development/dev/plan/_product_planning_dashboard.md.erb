@@ -4,14 +4,13 @@ those around merge request creation and acceptance. From that dashboard, the
 following charts show [MR Rate] and
 [Mean time to merge (MTTM)] respectively.
 
-<%= team_mr_rate_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
-<%= team_mean_time_to_merge_chart(team_id: 'plan_portfolio_management_be', html_options: { width: '49.7%', height: '300' }) %>
+<%= tag(:embed, src: signed_periscope_url(dashboard: 561630, chart: 7421071, embed: 'v2'), width: '49.7%', height: '300') %>
+<%= tag(:embed, src: signed_periscope_url(dashboard: 561630, chart: 7421077, embed: 'v2'), width: '49.7%', height: '300') %>
 
+The following chart shows the MR Rate of the Dev section as a whole, for the
+identification of trends:
 
-The following chart shows a breakdown of MRs by category (omitting Security, for
-now). Totals may vary slightly from overall throughput as some MRs may have more
-than one throughput label.
-<%= team_mr_categories_chart(team_id: 'plan_portfolio_management_be') %>
+<%= tag(:embed, src: signed_periscope_url(dashboard: 561630, chart: 7305986, embed: 'v2')) %>
 
 [dashboard]: https://app.periscopedata.com/app/gitlab/561630/Dev-Sub-department-Overview-Dashboard
 [kpis]: /handbook/business-ops/data-team/metrics/#development-department-kpis
