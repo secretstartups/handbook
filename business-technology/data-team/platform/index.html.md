@@ -157,6 +157,21 @@ We use Airflow on Kubernetes for our orchestration. Our specific setup/implement
 
 We currently use [Snowflake](https://docs.snowflake.net/manuals/index.html) as our data warehouse. The Enterprise Data Warehouse (EDW) is the single source of truth for GitLab's corporate data, performance analytics, and enterprise-wide data such as Key Performance Indicators. The EDW supports GitLab’s data-driven initiatives by providing all teams a common platform and framework for reporting, dashboarding, and analytics. With the exception of point-to-point application integrations all current and future data projects will be driven from the EDW. As a recipient of data from a variety of GitLab source systems, the EDW will also help inform and drive Data Quality best-practices, measures, and remediation to help ensure all decisions are made using the best data possible.
 
+### Snowflake support portal access 
+
+To get access to snowflake support portal, please follow the below steps.
+- Register using gitlab email id to [community portal](https://community.snowflake.com/CommunitiesSelfReg)
+- This registration will send a welcome email to gitlab mail with the subject `Welcome to the Snowflake Community`. In the mail it will ask you to finish the registration as part of that you will be asked to set your password for the community portal.
+- Once done login again to your snowflake community account and on the home page, click `submit case`. For the first time, the user who do not have access to submit a case with snowflake. It will ask you to fill in the form for access. 
+- In the form select the access for already snowflake customer. On the next page, it will ask for information `Account Name `, `Cloud Name`, and  `Region Name`. Below is one way to pull this information from the snowflake console.
+    - `Account Name` - select CURRENT_ACCOUNT();
+    - `Region Name`- select CURRENT_REGION();
+    - `Cloud Name` - Based on the [region name](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html#snowflake-region-ids)  value we can identify the cloud name. 
+    
+- Once done you should receive the acknowledgment mail with the subject `[Request received] Case#` instantly. In case you don't receive the mail resubmit the form. 
+- Post that you will receive confirmation mail within 24 hours on your request with the subject line  `Case# -Self Register - Enable Case access`
+
+
 ### Warehouse Access
 
 To gain access to the data warehouse:
