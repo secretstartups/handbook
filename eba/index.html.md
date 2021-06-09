@@ -19,7 +19,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
 * Katie Gammon (EBA) supporting Sid Sijbrandij (Co-Founder & CEO), Michael McBride (CRO), and Stella Treas (Chief of Staff)
   * Contact Katie for all scheduling requests for the CEO, CRO and CoS 
-* Stefanie Haynes (Sr. EBA) supporting Todd Barr (CMO), Craig Mestel (VP, FP&A) and Darren Murph (Head of Remote)
+* Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO), Harsh Jawharkar (VP, Product Marketing) and Melissa Smolensky (VP of Corporate Marketing)
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO) and Finance Leadership: Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success)
