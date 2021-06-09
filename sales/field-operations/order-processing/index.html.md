@@ -954,7 +954,7 @@ Closing the Deal:
 
 1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
-1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
+1. **License keys will NOT be sent automatically upon deal Closure.** Instead, a [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) must be opened to ensure the license for the deal is delivered to the appropriate contact.
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
@@ -980,15 +980,58 @@ Closing the Deal:
 
 1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date (date of transaction email receipt). **Deal Desk will also update your price to reflect the margin taken by GCP. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the GCP account is permanently set to silent, and no invoices created will go to GCP.
-1. License keys will be sent to the Sold To Contact automatically upon deal closure, per standard practice.
+1. **License keys will NOT be sent automatically upon deal Closure.** Instead, a [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) must be opened to ensure the license for the deal is delivered to the appropriate contact.
 1. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
 
 <details>
-<summary markdown="span"><b>Booking Requirements for opportunities sold via IBM</b></summary>
+<summary markdown="span"><b>Booking Requirements for IBM OEM Opportunities</b></summary>
 
-IBM Transactions Placeholder
+IBM OEM Transactions have a unique process flow, from quoting to opportunity approval. If your customer has chosen to transact via IBM, please note the following:
+
+**Opportunity Management (DRI = Sales):**
+
+1. Once informed by IBM of a potential deal, Sales should create an opportunity under the customer account in SFDC. 
+  - **The opportunity name should include "(IBM OEM)."**
+  - Add "IBM (OEM)" to the DR - Partner field. Partner Track = Technology, DR - Partner Deal Type = Resale, DR - Partner Engagement = Partner Sourced.
+
+Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
+
+**Notification, Quoting, and Requirements to Close Deal (DRI = Alliance Operations):**
+
+1. When IBM has closed the deal, an IBM contact will send order details to IBMdealreg@gitlab.com. The Alliance Operations team monitors this email alias.
+2. Navigate to the opportunity, create a contact with the following information:
+  - Name: IBM Ecosystem Project Office
+  - For Email, Phone, Mailing Adress, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
+  - Region: NORAM, Sub-Region: US East
+3. Create a quote per standard practice, and enter the following information:
+  - Order Form Template = IBM
+  - Invoice Owner = IBM OEM (Alliance Partner)
+  - Sold To Contact = IBM Ecosystem Project Office
+  - Bill To Contact = IBM Ecosystem Project Office
+  - Purchase Order # - Enter PO Number (see "PO" column)
+  - Payment Term = Net 60
+  - Start Date = Date of Transaction Notification Email
+  - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
+4. Generate Order Form.
+5. Attach the following to the opportunity:
+  - Screenshot of email notification from IBM noting that the transaction has closed from IBM
+  - IBM spreadsheet with necessary transaction details
+    - Includes: Order Number, Term, PO Number, Product Sold, Quantity, Total Price
+6. Chatter Sales Support with links to IBM Email notification, IBM spreadsheet, and Order Form.
+7. Once completed, submit the opportunity for approval.
+
+**Closing the Deal:**
+
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as evidenced by the date of the IBM email notification. **Deal Desk will also update the price to reflect the margin taken by IBM. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+2. Note that the IBM (OEM) account is permanently set to silent, and no invoices created will go to IBM.
+3. License keys will NOT be sent automatically upon deal Closure. Instead, a Customer Support Issue must be opened to ensure the license for the deal is delivered to IBM Ecosystem Project Office immediately after deal closure.
+  - Closed Won notifications will be made in the ibm-oem-closed-won Slack channel.
+  - After receiving the Closed Won notification, Alliance Operations should open a [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) to ensure license key delivery. 
+    - [Example Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/5002)
+    - GitLab Support - Intental Requests - Issues
+4. Billing will create the invoice in Zuora and apply cash once received.
 
 </details>
 
