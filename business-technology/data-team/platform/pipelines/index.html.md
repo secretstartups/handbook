@@ -45,7 +45,7 @@ Currently, to ensure a stable data-feed, both the incremental and full loads uti
 
 The extraction methodology is determined via the manifest file. 
 
-#### Manual Backfill of table from Postgres To Snowflake
+### Manual Backfill of table from Postgres To Snowflake
 This section is used only when we need to do a backfill for a table that has below condition satisfied of gitlab Postgres database. 
 - Airflow task for the table has been completed to the latest date. 
 - The data in the table is missing for a date or date range for which catch-up has already been completed. 
@@ -111,6 +111,16 @@ Step 6: Load the data using copy into and load this data in RAW.tap_postgres.git
 ### GitLab Database Schema Changes and DangerFile
 
 The data engineering team maintains a Dangerfile in the main GitLab project [here](https://gitlab.com/gitlab-org/gitlab/-/blob/master/danger/datateam/Dangerfile) with the purpose of alerting the `@gitlab-data/engineers` group about any changes to the gitlab.com source schema definition file. Being notified about source schema changes is essential to avoiding errors in the extraction process from the GitLab.com database since extraction is based on running a series of select statements. The data engineer on triage for any given day is the DRI for investigating schema changes as well as creating issues for any needed action from the data team.
+
+### Trusted data framework tests
+
+On this data pipeline, 3 types of Trusted Data Framework tests are executed:
+1. Source freshness.
+2. Row-count tests.
+3. Data actual tests.
+
+ **Source freshness** is checked via the dbt functionality.
+<br> **Row count** and **Data actual** are performed via an extra `DAG`, named `..` in a Airflow and the results are stored in `..`
 
 ## SheetLoad
 

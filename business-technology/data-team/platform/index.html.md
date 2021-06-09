@@ -449,6 +449,7 @@ The primary elements of the TDF include:
 1. [Schema-to-Golden Record Coverage](/handbook/business-technology/data-team/platform/dbt-guide/#schema-to-golden-data-coverage) to provide broad coverage of the data warehouse domain, ranging from schema to critical "Golden" data.
 1. The [Trusted Data Dashboard](/handbook/business-technology/data-team/platform/#trusted-data-dashboard), a _business-friendly_ dashboard to visualize overall test coverage, successes, and failures.
 1. The [Test Run](/handbook/business-technology/data-team/platform/#test-run) is when a Test Cases are executed.
+1. [Row Count test](/handbook/business-technology/data-team/platform/#row-count-test) to reconsile the amount of rows between source system and Snowflake
 
 #### Virtuous Test Cycle
 
@@ -497,6 +498,23 @@ The Trusted Data Dashboard in Sisense can be found [here](https://app.periscoped
 #### Test Run
 
 More to come.
+
+#### Row Count Test
+
+The row count tests reconciles the amount of rows between source database and target database by extracting data from source DB tables and load into Snowflake table and extract similar stats from Snowflake and perform comparison between source and target. Their is a challenge to have an exact match between source and target, because;
+- There is timing difference.
+- Data warehouse might keep history.
+- Deletions takes place on source database.
+
+Depending on the scenario, its advisable to check the row count not on the highest (table) level, but check the row counts on a lower granular level. This could be one or more fields with a logical distribution, but still on a aggregated level. An example could be an insert or update date in a table.
+
+Based on the row counts from source and row counts on the target (Snowflake data warehouse), a reconciliation can take place to determine if all rows are loaded into the data warehouse. 
+
+##### Row Count Tests PGP 
+
+The framework is designed to handle execution of any kind of query to perform the test. As per the current architecture every query will create one Kubernetes pod, so grouping into one query reduces creation of the number of Kubernetes pods. For record count and date actual test between postgres DB and snowflake the approach followed  is grouping low volume source tables together and large volume source tables run as an individual task. 
+
+A new yaml file is created which is supposed to do all types of reconciliation (so its not incorporated in the existing yaml extraction manifest). Manifest file combines a group of low volume tables together and a large volume table as individual tasks. 
 
 ## <i class="fa fa-heart" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Data Pump
 
