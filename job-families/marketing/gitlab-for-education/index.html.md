@@ -104,7 +104,7 @@ This role includes all of the elements of the Education Program Manager plus:
 #### Job Grade
 The Manager, Education Program is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### Senior Manager, Education Program Requirements
+#### Manager, Education Program Requirements
 This role includes all of the requirements of the Education Program Manager plus:
 - You have 2+ years of experience leading a team of education evangelists/advocates or similar roles.
 
