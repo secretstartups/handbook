@@ -469,15 +469,15 @@ As PMs, in addition to driving usage of individual features, we should also proa
 
 ``` mermaid
 graph LR;
-    Create(98%) --> Plan(56%)
-    Verify(88%) --> Secure(15%)
-    Create(98%) --> Manage(48%)
-    Create(98%) --> Verify(88%)
-    Verify(88%) --> Release(50%)
-    Verify(88%) --> Package(7%)
-    Release(50%) --> Monitor(9%)
-    Release(50%) --> Configure(2%)
-    Release(50%) --> Protect(5%)
+    Create-98% --> Plan-56%
+    Verify-88% --> Secure-15%
+    Create-98% --> Manage-48%
+    Create-98% ==> Verify-88%
+    Verify-88% ==> Release-50%
+    Verify-88% --> Package-7%
+    Release-50% --> Monitor-9%
+    Release-50% --> Configure-2%
+    Release-50% --> Protect-5%
 ```
 * The percentage here is defined as % active paid self-managed instances per month that adopted a stage.   
 
