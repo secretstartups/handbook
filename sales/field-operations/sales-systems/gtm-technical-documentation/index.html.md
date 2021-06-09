@@ -451,7 +451,24 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 **Logic Locations:**
 
    * Flow: [Opp Approval Field Check 3.0 GitLab Admin Check](https://gitlab.lightning.force.com/lightning/setup/Flows/page?address=%2F3004M000000brYQQAY%3FretUrl%3D%2Flightning%2Fsetup%2FFlows%2Fhome)
-  
+
+
+## Downgrade Reason Required
+
+**Business Process this supports:** This supports internal visibility/reporting on why customers are downgrading. Downgrade Opportunities are technically Closed Won Opportunities with negative `Net ARR`. This will allow us to capture reasons for a downgrade on these opportunities rather than Closed Won reasons:
+
+**Overview:** For Opportunities with negative `Net ARR` of less than -$480, we will require the identification of why there was a downgrade. When the "Submit for Approval" button is clicked in the Opportunity, logic will run to determine if `Downgrade Reason` should be required. There are two potential scenarios of Net ARR with varying results.
+
+   1. `Net ARR` is less than $0 but greater than -$480
+      * Result: The submission will immediately submit for approval. Neither `Closed Won Reason` or `Downgrade Reason` will be required.
+   2. `Net ARR` is less than -$480
+      * Result: The submission will continue to a screen to provide a `Downgrade Reason`. Optionally, `Downgrade Details` can also be provided for a further explanation. Additionally,`Competitors`  may be required depending on the selection in `Downgrade Reason` on a second screen. This will be required if `Downgrade Reason` was selected to equal one of the following values: "Lack of Adoption", "Product Value / Gaps", "Product Quality / Availability", "Lack of Engagement / Sponsor", "Corporate Decision".
+
+ `Downgrade Reason` values align directly with our `Closed Lost/Unqualified Reason` values and [can be found here.](https://about.gitlab.com/handbook/sales/sales-term-glossary/#closed-deal---lost-reasons)
+
+**Logic Locations:**
+
+* Flow: [Opp Approval Field Check 3.0 GitLab Admin Check](https://gitlab.lightning.force.com/lightning/setup/Flows/page?address=%2F3004M000000brYQQAY%3FretUrl%3D%2Flightning%2Fsetup%2FFlows%2Fhome)
 
 
 ## Automations
