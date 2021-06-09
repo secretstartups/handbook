@@ -67,12 +67,43 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
 
-#### NPS/CSAT Survey Enrollment
-To enroll the correct contacts to recieve the NPS/CSAT Survey 60 days post-onboarding and 60 days pre-renewal it has been integrated as part of the New Customer Onboarding and Renewal Playbooks. A task will be created for the TAM to assign or update a `GitLab Admin` contact when completing these playbooks.
+#### Customer NPS/CSAT Surveys
 
-The purpose of this survey is to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
-Once a `GitLab Admin` is assigned it will require other conditions to be met in order to recieve the [survey program](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/#email-nurture-programs). For more information, see [process following contact role assignment](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/#process-following-contact-role-assignment).
+In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/#adding-a-contact-via-gainsight) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
+
+##### What is NPS?
+- Net Promoter Score - From 1-10
+- It is always one question - ‘how likely are you to recommend (company) to a friend or colleague?
+- It is an attribute that can give another ‘lens’ into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
+- The ‘rolled up’ score can give insight into trends - such as onboarding/enablement being bumpy. 
+- In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the lifecycle.  
+
+##### What is NPS not?
+- A ‘determination’ of the health of a customer.  It is simply another attribute.
+
+##### What is CSAT?
+- There are customer satisfaction questions, that often accompany the NPS question to get a deeper understanding of the customer sentiment at that point in the lifecycle.
+
+##### What CSAT / NPS questions are we asking?
+- Post-Onboarding - 
+   - Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
+   - Overall, how satisfied are you with your onboarding experience?
+   - How can we improve your readiness to adopt the product?
+- Pre-Renewal - 
+   - How likely are you to recommend GitLab to a friend or colleague?
+   - How satisfied are you with GitLab? 
+
+##### What will we do with the scores?
+- In addition to writing the score to a scorecard in the customer 360, we will also trigger CTA’s to action based on the feedback.
+- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the TAM Manager to follow-up with the contact.
+- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the TAM to follow-up with the contact.
+- All scores will be posted to #cs_programs_nps_results channel in Slack!
+
+##### Who will receive the survey and when?
+- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a TAM) and again at 120 days before renewal.
+
 
 ### Sally the Slack bot
 
