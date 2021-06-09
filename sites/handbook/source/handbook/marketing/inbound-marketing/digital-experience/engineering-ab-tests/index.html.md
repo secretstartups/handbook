@@ -16,7 +16,7 @@ description: >-
 
 ## Overview
 
-This document is a work in progress. @brandon_lyon is the DRI for marketing's AB testing engineering efforts using the feature flag based tool LaunchDarkly.
+This document is a work in progress. @brandon_lyon was the DRI for marketing's AB testing engineering efforts using the feature flag based tool LaunchDarkly.
 
 ## What is an AB test?
 
