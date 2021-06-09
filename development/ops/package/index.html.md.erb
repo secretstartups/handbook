@@ -104,6 +104,9 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 - [Use the GitLab Dependency Proxy to proxy and cache images from DockeHub](https://youtu.be/fNTfL55fh5c)
 - [Automatically authenticate using pre-defined environment variables](https://youtu.be/8qhT55e780g)
 
+### Dependency Firewall
+- [POC: Pipelines for packages](https://youtu.be/KCtOC8kLDRQ)
+
 ### Competitor products
 
 #### Nexus Repository OSS
@@ -223,8 +226,13 @@ These dashboards are all internal and can be only accessed by GitLab Team member
 
 - [Package Dashboard](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package) (Grafana)
 - [Container Registry](https://log.gprd.gitlab.net/goto/e7b62a23a5a9cdc88aa1de3cdb392758) (Kibana)
+- [Container Registry garbage collection details](https://dashboards.gitlab.net/d/registry-gc/registry-garbage-collection-detail?orgId=1&from=now-30d&to=now&var-PROMETHEUS_DS=Global&var-environment=pre&var-cluster=pre-gitlab-gke&var-stage=main&var-namespace=gitlab&var-Deployment=gitlab-registry) (Grafana)
 - [Dependency Proxy](https://log.gprd.gitlab.net/goto/3d363d13eaf8133a4216149e335ab1b9) (Kibana)
 - [Cleanup policies for Container Images](https://log.gprd.gitlab.net/goto/b03da1dcaf2ac281994f72687347f40a) (Kibana)
+- [GitLab.com activity dashboard](https://app.periscopedata.com/app/gitlab/527857/Package-GitLab.com-Stage-Activity-Dashboard) (SiSense)
+- [Package usage funnel](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel) (SiSense)
+- [Package user adoption and growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth) (SiSense)
+- [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption) (SiSense)
 
 ### How we measure results
 
@@ -400,6 +408,15 @@ There are times during the development lifecycle that changes need to be communi
 - If your work will impact rate-limits as in [GitLab-#778](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/778)
 - If you are considering adjusting the existing [Package limits](https://docs.gitlab.com/ee/administration/instance_limits.html#package-registry-limits)
 
+### Onboarding Enterprise customers
+
+The GitLab Container and Package Registry currently handle hundreds of millions of events per week. However, when onboarding a large, enterprise customer it will be helpful for GitLab and the customer to understand their expected use case and workflows to ensure that the product scales reliably. When onboarding a new, large customer, it's helpful to follow the below steps:
+
+1. Identify customer use cases and usage patterns;
+2. Estimate the expected number of events based on the above, broken down by type and action;
+3. Determine the percentage increase that the estimate above represents when looking at our current API request rate;
+4. Discuss with Infrastructure and Package engineers whether the expected increase might be problematic or not.
+
 ## Common Links
 
 * [Package backend board]
@@ -409,7 +426,7 @@ There are times during the development lifecycle that changes need to be communi
 * [Timezones][timezones]
 
 [Package backend board]: https://gitlab.com/groups/gitlab-org/-/boards/892745
-[#g_package]: https://gitlab.slack.com/archives/g_package
+[#s_package]: https://gitlab.slack.com/archives/g_package
 [youtube]: https://www.youtube.com/playlist?list=PL05JrBw4t0KoPiSySNHTfvxC20i0LppMf
 [retros]: https://gitlab.com/gl-retrospectives/package/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=retrospective
 [timezones]: https://timezone.io/team/gitlab-package-team
