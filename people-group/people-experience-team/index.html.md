@@ -248,7 +248,7 @@ Once a new team member has completed their onboarding, they are asked to complet
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
 
-#### Anniversary Period Gift Queries
+#### Anniversary Period Gift Process
 
 People Experience Team process:
 - Create the Anniversary Gift reports in BambooHR. You will create three serperate reports for 1, 3, and 5 year anniversaries. 
@@ -338,3 +338,9 @@ The People Experience team will also receive notifications of any news items fro
 When a new tool is [added to the Tech Stack](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#adding-access-request-process-for-a-new-item-in-the-tech-stack), the People Experience team is automatically pinged in the Access Request to create the relevant MR adding the tool to the offboarding template. 
 
 - Important to check whether the tool should be in the main offboarding issue or if only a certain department/team will have access to the tool, in which case, this can be added to the specific department template. 
+
+### Referral Bonus Audits
+
+Weekly on a Friday, the People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
+
+The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
