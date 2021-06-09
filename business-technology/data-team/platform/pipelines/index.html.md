@@ -120,7 +120,7 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 3. Data actual tests.
 
  **Source freshness** is checked via the dbt functionality.
-<br> **Row count** and **Data actual** are performed via an extra `DAG`, named `..` in a Airflow and the results are stored in `..`
+<br> **Row count** and **Data actual** are performed via an extra `DAG`, named `gitlab_com_data_reconciliation_extract_load` in Airflow and the results are stored in snowflake table named `RAW.TAP_POSTGRES.GITLAB_PGP_EXPORT`
 
 ## SheetLoad
 
