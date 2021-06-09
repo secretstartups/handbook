@@ -69,5 +69,3 @@ If the customer agrees to the estimate, and a conversation validates that the in
      - Git repos > 5 GB cannot be migrated
 
 We sometimes pair with a partner so that they do some of the advisory work and we run the automated migrations on their behalf.  Or, if a customer is not concerned about maintaining authors of MR's, notes, and issues, then the partner can perform the migrations themselves.  If the customer has any repos > 5 GB, then the partner can subcontract the work to us to migrate the large repos.
-
-
