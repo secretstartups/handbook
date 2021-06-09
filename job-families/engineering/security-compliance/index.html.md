@@ -80,7 +80,8 @@ The {Staff Security Compliance Engineer} is a [8](/handbook/total-rewards/compen
 * The responsibilities of a Senior Security Compliance Engineer, plus;
 * Maintain expert knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape designs for the sake of security compliance efficiencies
 * Participate in the development and continuous improvement of security compliance metrics
-* Provide actionable and constructive feedback to cross-functional teams
+* Provide actionable and constructive advisement to cross-functional teams, to include driving remediation activities for high and select moderate risk Observations across several GitLab departments
+
 * Implement security compliance technical and process improvements
 * Mentor other Security Compliance Engineers and improve quality and quantity of the team's output
 * Design and implement major iterations on GitLab's security control framework in alignment with industry trends
@@ -108,7 +109,6 @@ The {Principal Security Compliance Engineer} is a [9](/handbook/total-rewards/co
 * The responsibilities of a Staff Security Compliance Engineer, plus;
 * Collaborates and makes proposals across several departments on their security compliance work, and helps their team members make informed decisions in alignment with security assurance strategic plans
 * Exposes technology and organizational needs throughout security assurance and proposes technical implementation plans
-* Identify common observation finding themes and drive root cause remediation activities across several GitLab departments
 * Teach, mentor, grow, and provide advice to other domain experts, individual contributors, across several teams in security
 * Play a central role in technical, business, and organizational contributions affecting security compliance/security assurance
 * Interfaces with Senior management, and enables Staff Security Assurance Engineers to engage on security compliance aspects of larger security assurance initiatives
