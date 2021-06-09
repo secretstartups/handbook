@@ -166,7 +166,7 @@ The following is intended as a step by step guide for opportunity owners or ISR'
 
 #### New Subscription Quote
 
-Follow this step by step guide for creating a **New Subscription** quote. Use a New Subscription quote when the customer is purchasing a brand new subscription **OR** if the customer is **renewing** for a term that is different from the original subscription (ex. original term 36 months, renewing for 12 months = new subscription quote). 
+Follow this step by step guide for creating a **New Subscription** quote. Use a New Subscription quote when the customer is purchasing a brand new subscription, OR if the deal structure includes a Contract Reset. 
 
 A.  Open the New Business opportunity and click the **“New Quote”** button.
 
@@ -271,7 +271,7 @@ This quote type should be used when the customer has reached the end of their su
 
 **B.  Renewal Using a New Subscription Quote**
 
-Certain renewals require a New Subscription quote. The most common scenario is if you are changing the term as of the renewal date - i.e. changing from an annual plan to a multi-year plan.
+If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a  New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
 
 *   Open the Renewal opportunity and click the **“New Quote”** button.
 *   Select the **existing billing account.**
