@@ -254,6 +254,10 @@ In addition to the prohibitions listed above, team members are prohibited from a
 1. Where the employee is unhappy with the outcome of the formal investigation, they have the right to appeal against the outcome if they can demonstrate why they believe a particular aspect of the investigation has materially affected the outcome. Appeals must be submitted within 10 working days of receiving the outcome of the complaint.
 1. If an appeal is submitted, the People Business Partner will arrange a meeting to take place with the appeal chair within a reasonable time period. The appeal chair’s decision will be final and there is no further right of appeal. The appeal chair will be independent of the investigation.
 
+### GitLab Inc and GitLab Federal LLC
+
+In addition to [EthicsPoint](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) and [Lighthouse](https://about.gitlab.com/handbook/people-group/#how-to-report-violations), please review the [Team Member Relations Specialist](/handbook/people-group/#team-member-relations-specialist) section. GitLab also offers a [Harassment Complaint Form](https://docs.google.com/document/d/1Xk5SXvh2kpO-w-TdykiczjhXNrEBjbMwDQHEt6lMhIk/edit?usp=sharing) that any team member may use to document any instance of any type of workplace harassment. Simply copy the form, fill it out with your information and send it to our Team Member Relations Specialist at teammemberrelations@gitlab.com.
+
 ### California Law Requirements
 
 Every team member located in the state of California will be required to sign an acknowledgement confirming they have read, reviewed and understood the following three documents:
