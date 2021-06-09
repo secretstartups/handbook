@@ -29,6 +29,14 @@ The mission of the generational understanding [TMRG](/company/culture/inclusion/
 
 ## Activities
 
+### [Film Discussion - Duty Free](https://gitlab.com/gitlab-com/book-clubs/-/issues/26)
+
+Join our Film Discussion. In this iteration, we're watching the film "Duty Free". About the film:
+
+> After a 75 year-old immigrant mother gets fired without cause from her lifelong job as a hotel housekeeper, her son takes her on a bucket-list adventure to reclaim her life. As she struggles to find work, he documents a journey that uncovers the economic insecurity shaping not only her future, but that of an entire generation.
+
+The film discussion will take place at the next TMRG meeting on 07/06/2021. Add yourself to the Film Discussion issue linked above and join us for the Zoom discussion or contribution asynchronously through the issue.
+
 ### [Book Club - Wisdom at Work](https://gitlab.com/gitlab-com/book-clubs/-/issues/13)
 
 Join our Book Club! In this iteration, we're discussing the book "Wisdom at Work: The Making of a Modern Elder" by Chip Conley. The book is self-described as:
