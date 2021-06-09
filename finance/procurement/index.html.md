@@ -13,26 +13,26 @@ title: The Procurement Team
 
 
 ## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Policy and Team
-The mission of the procurement team at GitLab is to be a trusted business partner at driving business value through external partnerships.
+The mission of the Procurement Team at GitLab is to be a trusted business partner at driving business value through external partnerships.
 
 #### Why Procurement? 
 - Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
-- However, all purchases made on behalf of GitLab that are not a personal expense, must first be reviewed by procurement, then signed off by key members of the leadership team. 
+- However, all purchases made on behalf of GitLab that are not a personal expense, must first be reviewed by Procurement, then signed off by key members of the leadership team. 
 - Approved Purchase Request Issues are required for all third party purchases being made on behalf of GitLab that aren't considered a [personal reimbursable expense](/handbook/spending-company-money/#expense-policy). 
 - This ensures the organization can appropriately plan for spend and assess supplier risk. 
 
 **Exceptions to this are:**
 1.  Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 2.  One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
-     - In this instance, the vendor can invoice GitLab in Tipalti, and AP will route approvals based on the matrix
+     - In this instance, the vendor can invoice GitLab and AP will route approvals based on the matrix.
 
-#### How do I contact procurement?
+#### How do I contact Procurement?
 - If you have a general question or are looking for direction, use the #procurement slack channel.
 - Attend the Procurement Office Hours available on the GitLab Team Calendar.
 - Create a purchase request issue based on your need.
 
-#### When should I contact procurement?
-- See the purchase request process for when to contact procurement and how to open a purchase request issue.
+#### When should I contact Procurement?
+- See the purchase request process for when to contact Procurement and how to open a purchase request issue.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
 <div class="flex-row" markdown="0" style="height:110px;">
@@ -51,7 +51,7 @@ If your purchase request is for one of the US or Netherlands entities (_GitLab I
 <div class="panel-body">
 
 - Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
-- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the Procurement Team will respond with next steps.
 
 </div>
 </div>
