@@ -30,11 +30,11 @@ The Billing team orchestrates and owns the customer billing cycle from invoicing
 
 ### Communicating with Billing
 
-Please contact Billing team by emailing ar@gitlab.com or by chattering `@billing-ops` on an opportunity in Salesforce.
+Please contact Billing team by emailing `Billing@gitlab.com` or by chattering `@billing-ops` on an opportunity in Salesforce.
 Doing so will automatically create a case in the Billing queue that is monitored throughout the day.
 We will respond to the case as soon as we can during business hours.
-Please note that Billing should not be chattered for assistance with quote creation.
-The Deal Desk team is able to assist with opportunities and quotes by chattering `@sales-support` on the opportunity.
+
+Please note that Billing should not be chattered for assistance with quote creation. The Deal Desk team is able to assist with opportunities and quotes by chattering `@sales-support` on the opportunity.
 
 Please avoid tagging Billing team members directly in chatter, instead use `@billing-ops` as this way your request will be seen by all Billing team members which  helps avoid delays.
 
