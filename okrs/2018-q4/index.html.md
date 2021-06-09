@@ -146,7 +146,7 @@ canonical_path: "/company/okrs/2018-q4/"
       * Document at least 5 runbooks for logging sources: 5/5, 100% [Internal repository](https://gitlab.com/gitlab-com/gl-security/runbooks/blob/master/security_operations/README.md)
       * Security and Priority labels on 50 backlogged security issues: 50/50, 100% [List of issues](https://docs.google.com/spreadsheets/d/11M4Ejv4fjKA-e4NDzkUKT-I4oqQM045YYiqJZyQwVOw/edit?usp=sharing)
     * Application Security:
-      * Complete at least 2 cycles of security release process: 2/2, 100% [Releases](https://about.gitlab.com/blog/categories/releases/)
+      * Complete at least 2 cycles of security release process: 2/2, 100% [Releases](https://about.gitlab.com/releases/categories/releases/)
       * Conduct at least 3 application security reviews: 3/3, 100% [Kanban board](https://gitlab.com/gitlab-com/gl-security/security-department-meta/boards/565320?label_name[]=app%20sec%20review)
       * Public HackerOne bounty program by December 15: 100% [Blog post](https://about.gitlab.com/blog/2018/12/12/gitlab-hackerone-bug-bounty-program-is-public-today/)
     * Compliance:
