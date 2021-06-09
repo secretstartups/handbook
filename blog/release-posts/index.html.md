@@ -23,7 +23,7 @@ Release posts follow a process outlined here, and the templates that are used to
 
 - For release post schedule of assignments see [Release Post Scheduling page](managers/)
 - For a list of release posts (both security and monthly), check the
-  [blog category for releases](/blog/categories/releases/).
+  [blog category for releases](/releases/categories/releases/).
 - For a list of features per release, check the [releases page](/releases/).
 - For all named changes, check the changelog
   for [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md)
