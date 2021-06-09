@@ -75,10 +75,12 @@ The stock option ranges by role are calculated as follows:
 Note: All stock option grants are subject to approval by the Board of Directors and no grants are final until such approval has been obtained. The company reserves the right in its sole discretion to make any adjustments to stock option grants including the decision not to make a grant at all.
  
 ## New Hire Grants
- 
+
 New hire grants use the formula above multiplied by a New Hire Multiplier.
 The New Hire Multiplier is typically 2, but may vary.
- 
+
+New Hire Grants are [approved](handbook/stock-options/#administration) during the quarterly [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule). 
+
 If you have any questions on what grant should be offered to a new hire, please reach out to the Total Rewards team by email at `total-rewards@gitlab.com`.
  
 ### Refresh Grants
