@@ -97,6 +97,8 @@ Our hiring process for this Support Engineer position typically follows five sta
 
 ### How you'll grow in the role:
 
+Support career progression is documented in [Engineer Career Development - Support Department](/handbook/engineering/career-development/#support-department).
+
 ### Senior Support Engineer
 
 A Senior Support Engineer is a more experienced engineer who continues to contribute as an individual while operating with equal comfort at the level of team enablement. That is, they work at the team level to increase *every member's* ability to contribute. With the wider focus, the specializations of the Intermediate role begin to disappear.
@@ -119,7 +121,7 @@ A Senior Support Engineer may be interested in exploring Support Management as a
 
 #### Job Grade 
 
-The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Support Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is subject to [Staff+ IC Gearing Ratios](/handbook/engineering/career-development/#staff-ic-gearing-ratios). Promotion to the Staff level is based on [merit and company need](https://about.gitlab.com/handbook/engineering/career-development/#support-department).
 
 A Senior Support Engineer will be promoted to Staff Support Engineer when they have
 demonstrated significant leadership and impact; typically around resolving customer issues. This may
