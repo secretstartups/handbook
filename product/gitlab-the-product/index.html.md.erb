@@ -123,28 +123,36 @@ Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/infrastru
 
 ### Deprecating and removing features
 
-Deprecating features follows a particular pattern.
-Use the language `Deprecated` or `Removed` to specify the state
-of a feature that is going to be or is removed.
+Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our customers. As you move through the process, use the language `Deprecated` or `Removed` to specify the current state of the feature that is going to be or has been removed.
 
-Features that are deprecated or removed should be:
+#### Deprecating a feature
 
-1. Labelled accordingly in the documentation
-1. Labelled accordingly in the application
-1. Removed from marketing pages
-1. Potentially require an update to the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html)
-1. Announced in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations) and potentially mentioned in [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings)
-
-#### Deprecated
-
+**Deprecation** is defined as:
 - May be removed at a specified point in the future
 - Still available with new installations, but documentation mentions deprecated state
 - No longer receives new features and active development, but still supported: critical bugs and regressions are fixed
 
-#### Removed
+The process for **Deprecating a feature is:
+1. Identify is deprecating the feature creates a breaking change. If so, you will need to wait until a XX.0 release to remove it.
+2. 3 milestones before the removal, begin announcing the deprecation in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations) and potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings)
+3. Engage the Customer support team to discuss deprecated support procedures and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
+4. Label the feature accordingly in documentation and the application
+5. Remove the feature from marketing pages
 
+
+
+
+
+
+#### Removing a feature
+
+**Removal** is defined as:
 - No longer available in the latest version of the product
 - No longer supported 
+
+The process for removing a feature is:
+1. Annoucement the final removal in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#removals)
+2. Engage the support team to update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
 
 ### Naming features
 
