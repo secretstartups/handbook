@@ -150,6 +150,6 @@ Note that the emojis will not be inclusive of everyone who may in fact be intere
 ## Contribution to the Data Team Handbook
 Every team member on the Data Team is encouraged to contribute to the handbook. Everybody in the `@data-team` is a **[code owner](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/CODEOWNERS)** of our Data Team Handbook pages, but with duties:
 1. All handbook changes are peer reviewed and not merged before a peer has provided their approval.
-2. All MRs for handbook changes, does have an appropriate name (important to keep track of changes via the [Handbook Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)). Please indicate that it's a Data Team handbook change.
+2. All MRs for handbook changes have an appropriate name which is important for tracking changes via the [Handbook Changelog](https://about.gitlab.com/handbook/CHANGELOG.html)). Please indicate that it's a Data Team handbook change.
 3. Tag a team member(s) if it's applicable in case of a notable change. This should be the case quite frequently, because making a change to the handbook and not notifying anybody does not make sense. 
 4. Feel free to discuss/demo your handbook contribution during the Data Team demo meeting. 
