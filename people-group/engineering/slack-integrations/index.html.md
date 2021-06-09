@@ -33,8 +33,11 @@ congratulating team members celebrating their birthday that week to the
 `#celebrations` Slack channel. Only team members who have opted-into GitLab birthdays
 on their Slack profile will be listed in the congratulatory message.
 
-To opt-in, open Slack, click on your avatar in the top right corner, click on edit profile
-scroll down to the `GitLab Birthdays` field and select _Yes_.
+To opt-in, follow these steps on Slack
+
+1. Click on your profile photo in the top right corner
+1. Click on `Edit profile`
+1. Scroll down to the `GitLab Birthdays` field and select `Yes`
 
 #### Parental Leave Welcome Back
 
