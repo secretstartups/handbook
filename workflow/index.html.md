@@ -561,7 +561,7 @@ Discussion topics are suggested by participants by commenting on the Retrospecti
 At the end of each retrospective the [Engineering Productivity team](/handbook/engineering/quality/#engineering-productivity-structure) is responsible for triaging improvement items identified from the retrospective.
 This is needed for a single owner to be aware of the bigger picture technical debt and backstage work. The actual work can be assigned out to other teams or engineers to execute.
 
-### Retrospective Summary Moderators for FY22 
+### Retrospective Summary Moderators for FY22
 
 The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For FY22 we have selected 4 moderators from across Engineering and Product.  The moderators are:
 
@@ -596,7 +596,7 @@ Milestones closure is in the remit of [the Delivery team](/handbook/engineering/
 
 ### Milestone cleanup schedule
 
-The milestone cleanup will happen one weekday before the 22nd (release day). 
+The milestone cleanup will happen one weekday before the 22nd (release day).
 
 The following is observed to account for the weekends:
 - If the 22nd falls on the weekend, cleanup happens on the prior friday.
@@ -747,7 +747,7 @@ The [infradev issue board](https://gitlab.com/groups/gitlab-org/-/boards/1193197
 1. Development directors are responsible for [triaging Infradev issues](/handbook/engineering/development/#daily-duties-for-engineering-directors) regularly by following the [triage process](#triage-process) below.
 1. Development managers are encouraged to [triage issues](#triage-process) regularly as well.
 1. Development managers collaborate with their counterpart Product Managers to refine, schedule, and resolve Infradev issues.
-1. Usually, issues are nominated as Infradev issues by SREs or Managers in the Infrastructure Department. Development engineers/managers are not expected to nominate Infradev issues. 
+1. Usually, issues are nominated as Infradev issues by SREs or Managers in the Infrastructure Department. Development engineers/managers are not expected to nominate Infradev issues.
    1. However, when it's necessary to spin off new issues from an existing Infradev issue, development engineers and managers may also apply `Infradev` label to the new issues.
    1. When development engineers and managers split off new Infradev issues, they must have a `Severity` and `Priority` labels to the new issues.  The labels should correspond to the importance of the follow-on work.
 
@@ -796,3 +796,11 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
 1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
 1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
 1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**.
+1. **Provide a method for validating that the original issue still exists**
+   1. Sometimes infradev issues will resolve on their own, or are resolved as a side-effect of an unrelated change.
+   1. In the infradev issue description, provide a clear way of checking whether the problem still exists.
+   1. Having a way of checking validity can save on a great deal of back-and-forth discussion between Infradev Triage participants including Engineering Managers, Directors and Product Managers and make space for other non-resolved issues to get scheduled sooner.
+   1. Ideally, provide a link to a Thanos query or an ELK query and clear instructions on how to interpret the results to determine whether the problem is still occurring.
+   1. Alternatively, provide clear instructions on how to recreate or validate the problem.
+   1. If an issue has been resolved, use the following process:
+      1. Reassign the issue back to the author, or an appropriate owner, requesting that they confirm the resolution, and, if they concur, close the issue. If not, the owner should follow up with a note and unassign themselves.
