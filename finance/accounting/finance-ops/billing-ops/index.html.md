@@ -185,7 +185,7 @@ You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/h
 
 <details>
 <summary markdown='span'>
-Q: What entity are web-direct orders billed in?
+  What entity are web-direct orders billed in?
 </summary>
 
 Currently all web-direct (portal) purchases are billed from our GitLab, Inc. (US) entity.
