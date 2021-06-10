@@ -248,14 +248,34 @@ Three types of CEO handbook learning sessions:
 The video below from Sid and L&D further explains the concepts:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/cB301JaYnsw" height="315" width="560"></iframe></figure>Steps for L&D Team when setting up a CEO Handbook Learning Session:
 
+Preparing for the Call: 
+
 1. Review topic relevant Handbook pages.
-1. Identify pages that need video and content update.
-1. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion.
+1. Determine what topics you want to cover each week
+1. Research the respective page that will be discussed or section of a page
+1. Complete some work on the page before the session if you can, create an MR that clarifies information or asks Sid for clarity on the topic discussed.
 1. Set up a meeting with CEO through EBA. Invite other e-group members if applicable.
 1. Create an agenda with talking points and areas to emphasize during video recording with CEO
+1. Send Sid the agenda in the #CEO channel at least 24 hours in advance 
 1. Hold a handbook learning session and ensure the discussion is fluid and interactive with open and honest dialogue.
+
+During the Call: 
+
+1. Give Sid and other speakers, if applicable, a few minutes at the beginning of the call to populate answers. 
+1. Once everyone is ready, stream to YouTube Live. 
+1. Make the title of the agenda, the same as the YouTube Video. 
+1. Do a quick introduction. 
+1. Go through the questions on the agenda. 
+1. If questions come up during the interview, add them to the end of the agenda if there is time
+1. When there’s nothing on the agenda left, thank him for his time and end the live stream. 
+
+After the Call:  
+
 1. Determine if L&D can create bite-sized videos with the content. Post bite-sized and long-form video on YouTube Unfiltered channel
+1. Update Unfiltered page with more information after the Live Stream. See the the description in this [example video](https://www.youtube.com/watch?v=_okcPC9YucA).
+1. Edit the live stream thumbnail with a [Title Page](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for each topic. Here is [the template](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for the videos. Write out a new title, screenshot the image, and update thumbnail. 
 1. Embed video on the related Handbook page.
+1. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion.
 
 List of CEO Handbook Learning Sessions:
 
