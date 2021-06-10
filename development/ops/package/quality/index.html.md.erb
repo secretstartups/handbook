@@ -53,6 +53,7 @@ To test against your local GDK, first make sure:
 
 To run the tests:
 1. On the terminal, go to `path-to-your-gdk/gitlab/qa`
+1. Make sure that you have all the necessary gems installed: `bundle install`
 1. Issue the command:
 	1. To run all the tests for free features: `bundle exec bin/qa Test::Instance::All http://gdk.test:3000 -- qa/specs/features/browser_ui/5_package --tag orchestrated --tag packages`
 	1. To run all the tests for paid features: `bundle exec bin/qa Test::Instance::All http://gdk.test:3000 -- qa/specs/features/ee/browser_ui/5_package --tag orchestrated --tag packages` (currently there are no tests for paid features)
