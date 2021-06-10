@@ -13,7 +13,7 @@ title: "Billing Operations"
 
 ### Charter
 
-The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing operations of our global account portfolio. The Billing Team works cross-functionally throughout all departments of the organization to deliver accurate and timely billing management results.
+The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing functions of our global account portfolio. 
 
 **The Gitlab Billing Team comprises three regional teams:**
 * Americas - West Region
@@ -22,229 +22,221 @@ The Billing Operations Team is part of the Revenue Operations organization. Our 
 
 Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/billing-team-faqs-&-useful-tips) Page for additional information & resources!
 
-- [Sarah McCauley, Director, Billing & Accounts Receivable](https://about.gitlab.com/company/team/#s_mccauley) 
-- [Anna Piaseczna, Manager, Billing](https://about.gitlab.com/company/team/#annapiaseczna) 
-- [Akeela Logan, Billing Operations Specialist](https://about.gitlab.com/company/team/#AkeelaLogan) 
-- [Karen McKinney, Billing Operations Specialist](https://about.gitlab.com/company/team/#k.mckinney) 
-- [Kinga Polgardi, Billing Operations Specialist](https://about.gitlab.com/company/team/#KingaPolgardi) 
+## Meet the Team
 
-### Key Focus Areas
+- [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
+- [Anna Piaseczna](https://about.gitlab.com/company/team/#annapiaseczna) - Manager, Billing
+- [Akeela Logan](https://about.gitlab.com/company/team/#AkeelaLogan) - Billing Operations Specialist
+- [Karen McKinney](https://about.gitlab.com/company/team/#k.mckinney) - Billing Operations Specialist
+- [Kinga Polgardi](https://about.gitlab.com/company/team/#KingaPolgardi) - Billing Operations Specialist
 
-* Opportunity Approval
-* Invoicing
-* Collections
+_The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations._
 
-### Helpful Links
+### :link: Helpful Links
 
 * [How to create an opportunity/build a quote? ](/handbook/sales/field-operations/sales-operations/deal-desk/)
 * [Order requirements](/handbook/business-ops/order-processing/#step-8--submitting-an-opportunity-for-deal-desk-approval)
 * [Contacting the Legal team](/handbook/business-ops/order-processing/#process-for-agreement-terms-negotiations-when-applicable-and-contacting-legal)
 * [Questions about licenses and plans](/handbook/support/internal-support/#common-internal-requests---sales-team--technical-account-managers--accounts-receivable)
 
-### Communicating with Billing
+## Communicating with Billing
 
-Please contact Billing team by emailing `Billing@gitlab.com` or by chattering `@billing-ops` on an opportunity in Salesforce.
-Doing so will automatically create a case in the Billing queue that is monitored throughout the day.
-We will respond to the case as soon as we can during business hours.
+Avoid contacting any Billing team members [directly via Slack](https://about.gitlab.com/handbook/communication/#avoid-direct-messages). Please tag `@billing-ops` in the #Finance channel.
 
-Please note that Billing should not be chattered for assistance with quote creation. The Deal Desk team is able to assist with opportunities and quotes by chattering `@sales-support` on the opportunity.
+* Email: `billing@gitlab.com`
+* Salesforce: `@billing-ops`
 
-Please avoid tagging Billing team members directly in chatter, instead use `@billing-ops` as this way your request will be seen by all Billing team members which  helps avoid delays.
+**Questions on a Quote?** Please contact `@sales-support`
 
-Please avoid contacting any Billing team members [directly via Slack](/handbook/communication/#avoid-direct-messages).
-Please tag `@billing-ops` in the `#Finance` channel.
+Do not tag individual team members in opportunities. Using `@billing-ops` will ensure that your inquiry is supported quickly and will avoid any potential delays. 
 
-### Standard Operating Process
+## Standard Operating Process
 
-The Billing Team performs a billing reconciliation and Bill Run in Zuora daily.
+The Billing Team performs a billing reconciliation and Bill Run in Zuora daily.The daily bill run will encompass all closed won opportunities from the prior day.
 
-The daily bill run will encompass all closed won opportunities from the prior day.
+The expected close to invoice cycle is 24-48 hours depending on the complexity of the related opportunity.
 
-The expected close to invoice cycle is 24-48 hours depending on the complexity of the related opportunity. 
+> :bulb: Any manual updates to invoices concerning invoice templates should go through Legal.
 
-### The scope of our tasks:
+## Functional Resposibilities
 
-* Reviewing and invoicing orders
-* Processing refunds
-* Providing financial documents, e.g. W-9, certificates of incorporation, bank verification letters.
-* Handling tax exemptions
-* Working on customers’ requests with regards to invoicing and updating account information in Zuora:
-   * Account name change
-   * Sold to information
-   * Bill to information
-   * Additional email addresses for invoicing
-   * Tax ID updates
-   * PO numbers updates
-   * Silencing the account when necessary
-   * Creating reseller accounts
-   * End User confirmations on resellers invoices
-   * Updating payment methods and processing credit card payments - credit card payments can be taken by phone
-   * Updating payment terms - anything beyond Net30 will require approval
-* Billing accounts set to auto-renew
-* Collecting overdue payments
-* Helping the Sales team to fill out financial information on the vendor setup forms - for full process please view the [Deal Desk page](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
-* Handling credit card disputes made through our gateway system (providing evidence on disputed payments through Stripe, processing refunds where necessary in Zuora for lost disputes)
-* Month end reconciliation of invoices and orders
-* Improving and streamlining billing processes
+- **Review Billing Information**
+    - Daily review of opportunities pending approval and invoicing
+    - Validate related billing information for accuracy
+    - Confirm pricing/packaging on customer accounts
+    - Reconcile system information to ensure timely and accurate invoice delivery
+- **Manage data/information Sync between CRM and ERP**
+    - Perform daily reconciliation between systems for accuracy
+    - Confirm customer, entity, quote, contract and bill-to/sold-to information is verified prior to invoice submission
+- **Prepare, Validate and Send Invoices**
+- **Commission Data Reporting and Invoice Validation**
+- **Month-End Activities**
+    - Booking to billing reconciliation
+    - Cash receipts reconciliation
+    - VAT reporting and validation
+    - Professional services billing reconciliation
+    - Reconciliation of related Balance Sheet G/L Accounts
 
-### Approving and invoicing orders
+:round_pushpin: See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Checklist%202020)
 
-In short the approval and invoicing process comprises the following steps:
+## Billing Operations Systems
 
-1. Reviewing the opportunity in SFDC
-1. Ensuring the data is correct in Zuora and CustomersDot
-1. Approving the opportunity and sending the quote to Zuora - (if the opportunity doesn’t meet the requirements listed below it will be rejected and all the reasons for rejection will be provided)
-1. Creating and posting the invoice in Zuora
-1. Updating SFDC with invoice information
+### Salesforce
 
-In order to approve an opportunity the following systems are used **SFDC, Zuora** and **CustomersDot**.
-The below points/fields need to be reviewed in the process:
+Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Billing Team utilizes SFDC to view all related customer documentation and account information.
+ 
+:round_pushpin: See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
 
-**I. Salesforce:**
+### Zuora
 
-* Opportunity page
-* Quote object
-* Order Form
-* PO
-* Other documentation if available.
+[Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora), a leader in the subscription management technology space, provides a platform which allows automation of subscription operations for businesses. We use Zuora's platform at GitLab to integrate with other platforms for billing and CRM, automate subscriptions flows and assist with reporting. The platform is considered the source of truth for many important business objects, like the product catalog, subscriptions, invoices, and more. More information on the Zuora Object Model can be found in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship). 
 
-**Opportunity page:**
+- **Zuora is used for the following:**
+    - Billing of all customer accounts
+    - Invoice Submission via `ar@gitlab.com`
+    - All cash applications (cash receipts)
+    - Integrated to SFDC for quoting (Zuora CPQ)
+    - Integrated to Avalara Tax Reporting Software
+    - Integrated with Zuora Revenue
 
-1. Opportunity (navigate to the **Billing Pending Approvals report**)
-1. To assign opportunity update the **Billing Specialist field** to your name
-1. Make sure the **opportunity type** is correct (e.g. if in doubt check with the AE whether it’s new business or an add-on)
-1. **Opportunity record type** - Standard for standard opportunities
-1. **Chatter** for any additional information or approvals on discounts, non-standard payment terms and any other manually added information. Check for information on credit card payments - if so, where available process the card after billing. If aware that the company has filed for bankruptcy, legal and finance approval is required, in addition to upfront payment.
-1. **Start date** (due to revenue recognition requirements cannot be more than 60 days in advance) and **end date**
-1. **Amount**
-1. Upon processing - **Invoice number, Invoice Date, Invoice Status** (Completed), **Entity**
+:round_pushpin: See also: [Zuora](https://about.gitlab.com/handbook/engineering/development/fulfillment/zuora/)
 
-**Quote object:**
+### Zendesk
 
-1. **Quote template**
-1. **Amount** - compare between documents and opportunity
-1. **Sold to** contact - search in Zuora and the portal to make sure it’s assigned to the correct account, for reseller orders ensure sold to email address is that of end-user
-1. **Bill to** - compare between Zuora and the documents - no need to change if Zuora bill to address is an accounts payable address (Please ensure that all orders for India have been submitted through a partner regardless the payment method.)
-1. **Invoice owner** and **Invoice owner contact** - needed for reseller orders
-1. **Payment method** and **payment term** - compare between documents and Zuora, check approvals where required
-1. **PO number** where available
-1. **Auto-renew** - ‘no’ for sales assisted purchases
-1. **Start date** - cannot be more than 60 days in advance - orders with with a date beyond 60 days will be processed once the start date falls into the 60 days window
-1. **Zuora account ID** - check if the Zuora account ID isn't filled out for new business and is filled out for renewals and add-ons, check if the correct account was chosen.
-1. **Product, quantity, discount**, check whether the **add-ons** and **updates** on the product were done correctly (e.g. not added as separate product). Also, in case of two or more lines of product check if approvals are needed.
-1. **Discount approvals** - fulfillment reseller and direct deals discounts need to be checked with the matrix and authorized reseller discounts to be checked on Reseller account or Distribution agreements
+Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
 
-**Order Form:**
+:round_pushpin: See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/tools/zendesk/)
 
-1. **Entity** - [renewal/new business vs. add-on.](/handbook/business-ops/order-processing/#entering-quote-details) For contract resets make sure orders from different entities were not place on one order form.
-For authorized resellers check the distribution agreement to ensure correct entity was used.
-1. **Start date**
-1. **Term**
-1. Where required **VAT ID** need to be [validated](http://ec.europa.eu/taxation_customs/vies/vatRequest.html) and added to Zuora - valid VAT number is required if we bill cross-country to EU countries.
-1. **Bill to** and **sold to** address - must be complete
-1. **Product, quantity, discount, net amount, tax** and **total amount**
-1. **Annual payments** outlined where required
-1. **Ramps** outlined where required
-1. **Special terms** - check for approval - any custom language on the order forms needs approval and should be documented in chatter or through a Legal request case
-1. **Payment method**
-1. **Payment term**
-1. **Terms, reference to special agreements** - if a special agreement is in place the order must reference it
-1. **Signature, Title, Date** - for full requirements view [here.](/handbook/business-ops/order-processing/#step-8--submitting-an-opportunity-for-deal-desk-approval)
-1. Any other **information added manually** to the order.
-1. If the documentation requires **countersignature**, check if countersigned before processing.
+## How to get Help
 
-**PO**
+<details>
+<summary markdown='span'>
+  I need help accessing my license
+</summary>
 
-1. For fulfillment resellers: **quote number, entity, amount** (In case of the PO amount less than the quote amount we allow a difference of less than 1 USD.
-In case of an amount significantly higher than quote amount it will need to be checked with the reseller to avoid misunderstandings related to term etc.), **currency** (must be USD), **term, product**
-1. For direct customers where order was signed: **currency** (must be USD), **amount** (In case of the PO amount less than the quote amount we allow a difference of less than 1 USD.
-In case of an amount significantly higher than quote amount it will need to be checked with the customer to avoid misunderstandings related to term etc.)
-1. For direct customers where order was not signed: **reason** why the customer is refusing to execute the order form and **documentation of the customer refusal** followed by **Legal and Finance approval (PAO)**
+1. Log into your account at https://customers.gitlab.com/customers/sign_in
+1. Login is email address here Note you will need to provide them the email address
+1. Click "Manage Purchases"
+1. Click "Download License"
 
-**Other documentation** to be checked can include MSA, special subscription agreements, Distribution agreement with a reseller. If the documentation requires countersignature, check if countersigned before processing.
+If you still can’t access your license, please create a support issue [here](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions).
 
-**II. Zuora:**
+</details>
+<details>
+<summary markdown='span'>
+ How can I make a payment?
+</summary>
 
-* Account
-* Subscription
-* Invoice
+Current payment methods available include:
+* ACH
+* Wire
+* Check (US Only)
+* Credit Card
 
-**Account:**
+Additional payment instructions are also available on your invoice under `bank information`.
 
-1. **Account** - navigate to the correct account and review the following:
-1. **Entity** - if the entity of the account needs to be changed per renewal a new account for the customer/end user and reseller will need to be created in Zuora (before doing that check Zuora if the correct entity account already doesn’t exist there).
-For full process view the Billing WIKI pages.
-Make sure the end user is on the same entity as the reseller.
-1. Update the **conversion rate** for orders not billed through the US entity.
-1. Confirm the **bill to** and **sold to** addresses are correct (sold to address must match the portal sold to address)
-1. **Payment terms**
-1. **VAT ID** where required
-1. **Default communication profile** - needed in order to send the license for renewals and add-ons, especially important for reseller deals!
-1. **Silent communication profile** - for some ramped orders or special requests
-1. Check whether there are **outstanding invoices** older than 120 days - credit hold.
-1. **Email history** - upon processing the invoice ensure invoice was sent.
-1. Check for the **callout** - in case of error instruct the AE [to contact Support team](/handbook/support/internal-support/#common-internal-requests---sales-team--technical-account-managers--accounts-receivable)
-1. **Credit card** - process if it was requested.
+To make payment via credit card, please log into your account https://customers.gitlab.com, select “Payment Methods”, then “Add New Payment Method”.
 
-**Subscription:**
+</details>
+<details>
+<summary markdown='span'>
+Connect with GitLab via 3rd Party Billing Portal
+</summary>
 
-1. **Renewal subscription field** - link subscriptions if a new subscription was created for renewal
-1. **PO number** - if none was provided and there was one in the past enquire with the AE before posting the invoice
-1. **Preview** invoice for accuracy
+GitLb currently supports various 3rd Party Billing Portals. 
 
-**Invoice:** gets created after hitting the **Create Bill Run** button.
-Untick the **Automatically renew auto-renew subscriptions** field before processing.
-The following fields need to be reviewed on the PDF before posting.
-If the below are ok the invoice can be posted (**Post**).
+Customer billing portals are used for PO receipt and submission of invoices billed by GitLab to our customers.
 
-1. **Entity**
-1. **Payment terms**
-1. **Customer data**
-1. **Amount**
-1. **VAT local currency amount** (add in the Tax local currency amount field)
-1. **PO number**
-1. **VAT ID** where required
-1. **Invoice Comments** - e.g. End User name
+When a customer advises you that they will need to be connected with GitLab via a 3rd party billing portal, please submit a request to `AR@GitLab.com`. This will allow the Billing Operations Team to confirm if a portal registration already exists.
 
-**III. CustomersDot:**
+**Some of our 3rd Party Portals Include:**
+* SAP Ariba - Please send a Trade Relationship Request (TRR) to GitLab ANID: AN01024039298 at `AR@gitlab.com`
+* Coupa Supplier Portal - Please send a connection request to `AR@gitlab.com`
+* Taulia - Please send a connection request to `AR@gitlab.com`
 
-1. By searching with sold to email address ensure the **sold to** contact:
-* has been **updated** to the correct one
-* has the correct **Zuora account ID** assigned
-Check the quote vs. Zuora vs. portal - all three need to have the same sold to email address in order for the license to be sent out to the end user/customer.
+Internal Team Members, please see [Customer Billing Portal Instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Customer%20Billing%20Portal%20Instructions) for additional information and resources! 
 
-2. In case of an **upgrade for GitLab.com** portal needs to be updated manually.
+</details>
 
-**Other documentation** - need to be reviewed for any discrepancies in the above fields e.g. payment terms, product, future price agreements.
+## Billing FAQ
 
-______________
+<details>
+<summary markdown='span'>
+Can we bill an invoice in a currency other than USD?
+</summary>
 
-Please note that **EDU/OSS opportunities follow a slightly different process**:
+GitLab bills in USD only, without exception.
 
-* Check signature, amount, start date
-* Send to Zuora
-* Update entity and conversion rate if necessary in Zuora
-* Update account to Batch 50
-* Post the invoice automatically without sending if total 0 (if total different than 0 invoice needs to be checked prior to sending to the customer!)
-* Update the opportunity in SFDC
+</details>
+<details>
+<summary markdown='span'>
+What if my customer wants to short pay by foreign withholding tax?
+</summary>
 
-________________
+All applicable fees are due and payable as per our terms of service. 
 
-Points to note for **professional services opportunities**:
-* ‘Opportunity Record Type’ should be ‘Professional Services Only’.
-If it’s not, Sales Ops team needs to be informed so that it can be changed or a separate opportunity for PS can be created along with an opportunity for base or add-on products
-* If SOW is in place it needs to be signed and countersigned if required
-* A cost estimate must be attached to the opportunity record prior to reporting as closed won
-* A quote object needs to be created so it can be sent to Zuora
-* Read through SOW to bill accordingly - some PS opportunities require e.g. 50% of the amount billed upon execution (signing of the SOW), the 50% upon completion of the services.
+Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service. 
 
-________________
+6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
-Points to remember while billing **AWS orders** can be viewed [here.](/handbook/business-ops/order-processing/#second-review-all-requirements-for-each-type-of-sale)
+You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/handbook/legal/subscription-agreement/)
 
-### Billing Entities
+</details>
 
-GitLab currently has the following billing entities:
+<details>
+<summary markdown='span'>
+Q: What entity are web-direct orders billed in?
+</summary>
+
+Currently all web-direct (portal) purchases are billed from our GitLab, Inc. (US) entity.
+
+</details>
+<details>
+<summary markdown='span'>
+Can we update invoices manually?
+</summary>
+
+Manual (pro-forma) invoice modifications have to be approved through the Legal Team. Please ensure that you have proper approvals prior to requesting invoice modifications from the billing team. 
+
+</details>
+<details>
+<summary markdown='span'>
+How can the sales team know if an invoice has been paid?
+</summary>
+
+Please review the `billing account` section of the customer account in Salesforce. 
+
+The billing account will provide all invoice and payment information available for the customer.
+
+Internal Resource: [How Can Sales View Invoices & Payment Info in SFDC](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/How%20Can%20Sales%20View%20Invoices%20&%20Payment%20Info%20in%20SFDC)
+
+</details>
+<details>
+<summary markdown='span'>
+Where does GitLab currently charge tax on sales?
+</summary>
+
+**Locations Include the following:**
+* US > US (depending on nexus)
+* DE > DE
+* NL > NL
+* UK > UK
+* AU > AU
+* US > Canada (only Quebec and British Columbia)
+* US > South Africa
+* US > Russian Federation
+
+Internal Resource: [VAT & Sales Tax Information & Resources](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/VAT%20&%20Sales%20Tax%20Information%20&%20Resources)
+
+:round_pushpin: See Also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
+
+</details>
+
+Internal FAQ Resource: [Frequently Asked Questions - pulled from Chatter, Slack, Cases, and Tickets](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/FAQ_Internal_Billing_Team)
+
+## :globe_with_meridians: GitLab Billing Entities
+
+As a global company, GitLab has locations around the world.
 
 * GitLab Inc in the US
 * GitLab BV in the Netherlands
@@ -252,165 +244,10 @@ GitLab currently has the following billing entities:
 * GitLab GmbH in Germany
 * GitLab PTY LTD in Australia
 
-This is a general rule for billing through the entities:
+[Quote Entity Information](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
 
-| **Entity**          |**Direct / Unauthorized Reseller** | **Authorized Reseller**
-|                     |                                   |_for authorized resellers entity delineation please check the distribution agreement signed_|
-|-------              |----------                         |  ----                   |
-|BV (Netherlands)     | NL                                | NL                      |
-|GmbH (Germany)       | DE                                | DE                      |
-|Ltd (United Kingdom) | UK                                | UK                      |
-|Inc (United States)  | Not AU, NL, DE, or UK             | Not AU, NL, DE, or UK   |
-|Pty Ltd (Australia)  | AU                                | AU                      |
+:star: **Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity. 
 
-We bill customers and unauthorized (fulfillment) resellers:
+> Clarification: If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well.
 
-* based in the Netherlands via GitLab BV (VAT will be applied to the invoice)
-* based in the UK via GitLab Ltd (VAT will be applied to the invoice)
-* based in Germany via GitLab GmbH (VAT will be applied to the invoice)
-* based in Australia via GitLab PTY LTD (GST will be applied to the invoice)
-* the customers and unauthorized resellers that are based in the US or other countries than the above are billed through GitLab Inc
-
-We bill authorized resellers based on the entity of the distribution agreement signed. Several exceptions are present. For the exceptions please enquire internally:
-
-* based in the Netherlands via GitLab BV (VAT will be applied to the invoice)
-* based in the UK via GitLab Ltd (VAT will be applied to the invoice)
-* based in Germany via GitLab GmbH (VAT will be applied to the invoice)
-* based in Australia via GitLab PTY LTD (GST will be applied to the invoice)
-* the authorized resellers that are based in the US or other countries than the above are billed through GitLab Inc
-
-
-There are 3 reasons why an account for a customer or an unauthorized reseller based in the Netherlands, UK, Germany or Australia is billed through GitLab Inc:
-
-1. The account has been opened through the CustomersDot (web direct) as these accounts are automatically billed through GitLab Inc regardless of the country the customer is based in.
-1. The subscription has been billed before an entity in a given country has been opened.
-1. The end user’s account follows the entity of the reseller account it has been invoiced to - e.g.
-The customer is based in Germany but has been billed via a reseller account based in France - since the end user and reseller account need to be on the same entity - the end user account will be set to the US entity, the same as the reseller account. The entity of the end user account needs to follow the entity of the reseller.
-
-The customers that bought their product over the portal and are renewing over the portal will continue to be billed through GitLab Inc.
-The customers or unauthorized resellers based in the UK, Netherlands, Germany and Australia that were billed through GitLab Inc will be moved to the appropriate entity where purchasing a renewal or initiating contract reset via a sales assisted quote (early termination of the existing contract and new term).
-Please note that add-on opportunities need to be billed via the entity of the opportunity that they are added to.
-
-
-### Processing a refund in Zuora (credit card payments): 
-
-1. A refund request has been received by e-mail or chatter in Salesforce.
-1. Log in to the customer’s account in Zuora.
-1. Find the invoice that needs to be refunded and then find the payment associated with the invoice.
-This can be found under the Payment tab.
-1. Click on the payment number and it will take you to the payment screen.
-1. On the payment screen, click on more and click on "Refund this payment."
-1. A new screen will appear, make sure that you have the Electronic Refund button selected.
-1. Then scroll down to the Transactions associated with the Original Payment and select create a refund.
-This will create a refund.
-1. Go back to the main page and you will see that the invoice has an open balance.
-1. You either need to cancel the subscription in Zuora using the first day of the service period to be refunded or remove/update the product that is to be refunded.
-(Depending on the reason for a refund, the client canceling the subscription or they purchased incorrectly)
-1. Create a bill run for the subscription cancellation/amendment.
-1. Make sure that the credit invoice amount matches the invoice total.
-1. Post the invoice and then go to More and select Transfer to Credit Balance.
-1. Now go to the original invoice and go to More and select Apply the credit balance.
-Make sure the credit balance of the account is 0.
-1. Go into the Salesforce account and find the original opportunity and clone it.
-(You can click on the CRM link in Zuora account)
-1. In the cloned opp you need to scroll to Refund opp Source and select From Finance and save.
-1. Make sure the refund opp is the same Opp Owner as the original Opp.
-1. Scroll down to invoice number and put the credit invoice information here.
-1. Next make sure that the amounts are a negative amount for the following sections: Renewal ACV, Renewal, and Amount.
-(if they are not negative change them to be by putting the “-” in front)
-1. Scroll to the Churn section and enter the following information: Churn Type, Churn Month (this will be the date you processed the credit), Churn ACV (this is a positive amount from the credit invoice), and Churn notes (copy the ticket link or chatter link).
-1. Go back to the main page in Salesforce and look at the opportunities and make sure that the refund opp has a negative amount and it matches the amount of the original opportunity.
-1. Inform the customer that the refund has been processed.
- 
-### Handling Tax Exemption When Processing an Opportunity 
-
-* Save the Tax Certificate in Google Drive under Tax Exemp Certificates Tax exempt certificates
-* Save the Tax Certificate by the customer’s name and add Tax Certificate at the end
-* Once the Quote Object is pushed through Zuora confirm the following sections are filled out under the Zuora Account:
-   * Tax Exempt: Yes
-   * Certificate ID
-   * Certificate Type
-   * Issuing Jurisdiction
-   * Description
-* Check the Zuora Subscription under “More Preview” and confirm, the tax wasn’t issued
-* While adding tax exemptions to accounts where the invoice has already been processed the invoice will need to be credited for the full amount (not tax amount only).
-
-### Invoicing: Auto-Renewals
-
-1. Download the `Accounts with Auto-generated Renewal Amendment report`
-1. Copy the subscription number to Zuora and search
-1. Click on customer name and open in a separate tab
-1. Click on Subscription number and open in a separate tab
-1. Go into the Zuora subscription, click “more, Preview”
-1. Confirm there’s a “Preview Invoice” for the next renewal period
-1. On the Account page in Salesforce, look for any cases, activity history or chatter that needs review
-1. Go back to the Zuora Account and process the renewal
-1. Click create bill run
-1. Click on the BR#
-1. Click invoice number once it loads
-1. View invoice, then post it
-1. Click the invoice number under generated invoices
-1. Click more, then Process a Payment
-
-If the payment goes through, go to the existing renewal opportunity:
-
-   * Click edit
-   * Change stage to Closed won
-   * Click Close Date
-   * Under subscription info: change start date (should match the real subscription date, may not be current date), opportunity term should be 12, click auto-renewal
-   * Under Booking Info: Add the amount of the renewal to Amount, click Web Portal Purchase
-   * Under Invoice Info: add Invoice Date, Invoice Status: Complete, Invoice Entity, invoice number
-
-If the payment doesn’t go through:
-
-   * Unpost invoice
-   * Cancel invoice
-   * Create amendment to reverse auto-renewal under terms and conditions and change to current year
-   * Go to the CustomersDot and downgrade the product to “free”
-   * Go to the CustomersDot
-   * Search by the customer’s email address
-   * Right click “GitLab Groups” (Open in a New Tab)
-   * Downgrade the Plan to free
-   * If not possible reach out to Support
-
-### Cash Collections
-
-* Zuora generates a friendly reminder 7 days before invoice due date
-* Zuora generates automatic payment reminders at 7, 20, 30 and 45 days after invoice issuance
-* Additionally AR team contacts customers with manual reminders
-* When an invoice reaches 30 days old an escalation email is sent to the account owner in sales.
-* When an invoice reaches 60 days old an escalation email is sent to the account owner in sales, the regional director and the CFO.
-* At 90 days old the account is put on support hold. The Billing specialists update the account in Salesforce and the information gets synced into Zendesk for the Support team.
-* At 120 days old the account is put on credit hold and orders for that account can no longer be processed.
-* In exceptional and rare cases, if a customer on credit hold is to be invoiced for new service, a signed promise to pay document has to be received and approved by the Billing Manager.
-* At 150 days old the account is sent to collections for recovery.
-* Self-managed accounts that were cancelled before the end of term will be put on credit hold and reviewed before another purchase.
-
-**For more information about how to use Zuora Collect please follow the link to the** [Enterprise Application Guides](https://about.gitlab.com/handbook/business-ops/enterprise-applications/guides/zuora-collect/#what-is-zuora-collect) 
-
-### Month end reconciliation:
-
-1. Check AR sheet for minus amounts (balance that was not transferred)
-1. Check if all opportunities were processed for the previous month (if not and they’ve been submitted before month end they'll need to be processed)
-1. Vlookup between invoice register and closed won opportunities to create missing items
-1. Note: the missing invoices will need the closed date of the reconciled month
-1. Fill out all missing info on closed won opportunities - invoice number, entity, start and end date
-1. Check closed won report for Opportunity Owners - this should be sales team members
-1. Re-run the report in Salesforce
-1. Sort the report by Account Name
-1. Note total of the closed won opportunities report
-1. Check Zuora for any invoices in draft and post them if that should be the case
-1. Prepare reconciliation document - clear data from previous month, add invoice register information, sort invoice register by Account Name, add Salesforce data
-1. Filter out EDU opportunities
-1. Reconcile based on invoice register
-1. Recon based on closed won report (do the vlookup based both on opportunity id and name)
-1. Add the closed won but not invoice opps on the Salesforce side of the report manually
-1. Create separate tab for every month in the final sheet
-1. For any items from previous month end reconciliations add opportunity info on SFDC side
-1. Keep the amount on these 0 (variance should stay as is)
-1. Tabular report add to report through G-connector
-1. Add tabular report amount to the reconciliation sheet
-1. Add explanation for manually added opportunities that were not invoiced yet
-1. Once reviewed add confirmation on Deal Desk month end close issue
-
-### Any manual updates to invoices concerning invoice templates should go through Legal.
+**Important:** In case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
