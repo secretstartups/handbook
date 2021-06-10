@@ -150,11 +150,11 @@ From the bell icon, you can download the results (`.xlsx`).
 
 These cookie categories are standard and the defaults provided by OneTrust: 
 
-1. **Strictly necessary cookies:** the website needs these cookies in order to function properly (example: identify items placed into a shopping cart)
-1. **Performance cookies:** get information about how site visitors are using the website (example: Google analytics)
-1. **Functional cookies:** provide additional enhancement of the experience of site visitors (example: language selector for localization)
-1. **Targeting cookies:** cookies that attempt to gather more information about a user in order to personalize marketing (example: remarketing)
-1. **Social media cookies:** social media services added to the site that enable users to share content with their friends and networks easily
+1. **Strictly necessary cookies ID C0001:** the website needs these cookies in order to function properly (example: identify items placed into a shopping cart)
+1. **Performance cookies ID C0002:** get information about how site visitors are using the website (example: Google analytics)
+1. **Functional cookies ID C0003:** provide additional enhancement of the experience of site visitors (example: language selector for localization)
+1. **Targeting cookies ID C0004:** cookies that attempt to gather more information about a user in order to personalize marketing (example: remarketing)
+1. **Social media cookies ID C0005:** social media services added to the site that enable users to share content with their friends and networks easily
 
 You also have the ability to create a new cookie cateogory.
 
