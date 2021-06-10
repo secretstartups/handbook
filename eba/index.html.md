@@ -26,7 +26,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), Johnathan Hunt (VP of Security), Anoop Dawar (VP of Product Management), David DeSanto (Sr. Director of Product Management, Dec & Sec)
 
 ### All-Directs EBA's 
-* Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and future VP of Alliances
+* Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
 
 ## Contact us
