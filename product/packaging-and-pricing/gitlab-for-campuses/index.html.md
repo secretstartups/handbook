@@ -69,7 +69,7 @@ The GitLab for Campuses enterprise offering is available at the following tiers:
 |25,000 and over^+|Self-Managed |[EDU Enterprise-XLarge] Self-Managed - Ultimate - 1 Year|
 
 *Institution size is determined by the last published student enrollment (undergraduate and graduate) within one year of the contract closing.
-+ System limitations require a max number of seats. The XLarge SKUs are set to a max of 50,000k seats. If the number of seats needed is higher than 50,000 please alert [FIXM ME]. 
++ System limitations require a max number of seats. The XLarge SKUs are set to a max of 50,000k seats. If the number of seats needed is higher than 50,000 the Account Owner should notify Deal Desk in SFDC before sending the quote. 
 
 ## Steps for Building a GitLab for Campuses Quote 
 The steps for building a GitLab for Campuses quote vary slightly from standard quotes. 
