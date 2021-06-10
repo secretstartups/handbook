@@ -13,7 +13,20 @@ title: "Billing Operations"
 
 ### Charter
 
-The Billing team orchestrates and owns the customer billing cycle from invoicing to cash, while working closely with the [Deal Desk team](/handbook/sales/field-operations/sales-operations/deal-desk/).
+The Billing Operations Team is part of the Revenue Operations organization. Our Billing Team is responsible for the billing operations of our global account portfolio. The Billing Team works cross-functionally throughout all departments of the organization to deliver accurate and timely billing management results.
+
+**The Gitlab Billing Team comprises three regional teams:**
+* Americas - West Region
+* Americas - East Region
+* EMEA/APAC Region 
+
+Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/billing-team-faqs-&-useful-tips) Page for additional information & resources!
+
+- [Sarah McCauley, Director, Billing & Accounts Receivable](https://about.gitlab.com/company/team/#s_mccauley) 
+- [Anna Piaseczna, Manager, Billing](https://about.gitlab.com/company/team/#annapiaseczna) 
+- [Akeela Logan, Billing Operations Specialist](https://about.gitlab.com/company/team/#AkeelaLogan) 
+- [Karen McKinney, Billing Operations Specialist](https://about.gitlab.com/company/team/#k.mckinney) 
+- [Kinga Polgardi, Billing Operations Specialist](https://about.gitlab.com/company/team/#KingaPolgardi) 
 
 ### Key Focus Areas
 
