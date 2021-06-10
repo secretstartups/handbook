@@ -472,6 +472,13 @@ Status in the table below means:
 | Investor | outbound | Sourced by our investors (i.e. - GV, Khosla, ICONIQ). The `Investor` value is coupled with the `Investor Name` custom field | Active |
 | GitLab DataMart|core| Created by the GitLab Marketing Database data pump. Contains leads from various internal sources|Active|
 
+### A Note About Trials
+
+In Q1 FY22 the Demand Generation team began running paid campaigns to drive trial signups. Currently, we don't have the "trial" source bucket split out by paid vs. organic because we don't have Google Analytics tracking on the signup form. Fortunately, this will soon be changing!
+
+Until then, if pulling metrics around source buckets for CAC calculations please reach out to #demand-gen in Slack to get access to our paid agency dashboards.
+
+
 ## Lead and Contact Statuses
 
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. Lead . Also reference [Re-MQL workflows](/handbook/marketing/marketing-operations/marketo/#re-mql) for how to move from status to status.
