@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Pipeline Validation Service Operations Working Group"
-description: ""
+description: "Learn more about the Pipeline Validation Service Operations Working Group attributes, goals, roles and responsibilities."
 canonical_path: "/company/team/structure/working-groups/pipeline-validation-service-operations/"
 ---
 
