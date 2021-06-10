@@ -72,7 +72,6 @@ The following factors will also be taken into consideration:
 #### Allocations for Offboarding
 
 - Team has 12 hours to create and notify of the offboarding issue.
-- The person that is in the allocation rotation will also add the offboarding to the PEA team calendar.
 - Due to different time zones, the offboarding issue creation and task completion can be tagged team by the Associates. 
 
 #### Allocations for Career Mobility 
