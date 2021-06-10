@@ -5,6 +5,35 @@ title: "SEC & SOX Reporting or Corporate Controller"
 
 ## Levels
 
+### Senior SEC Analyst 
+
+#### Senior SEC Analyst Job Grade
+
+The Senior SEC Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior SEC Analyst Job Responsbilities
+
+* Assist with the preparation of external financial reporting and supporting schedules, including S-1, 10Q, 10K, 8K and quarterly investor slides, and other financial reporting as required.
+* Assist in earnings release process including preparation of the quarterly management reporting package and review of financial information included in the earnings release and script.
+* Prepare the disclosure checklist; assist with XBRL review process.
+* Prepare journal entries and reconciliations in assigned areas (e.g. stock-based compensation and stock repurchase); assist with preparation of equity rollforward, EPS calculation and other PBC schedules as required.
+* Assist in ensuring compliance with SEC and U.S. GAAP reporting requirements; assist in the implementation of new accounting pronouncements.
+* Assist with researching, resolving and documenting accounting issues that arise during the quarter.
+* Ensure Sarbanes-Oxley requirements are met for relevant areas (e.g. disclosure and equity accounting controls).
+* Assist with internal and external reporting packages preparation as needed, including key investor reporting.
+* Provide assistance with special projects as required.
+
+#### Senior SEC Analyst Job Requirements
+
+* BA/BS degree in Accounting; CPA or in the process of completing the licensing preferred.
+* Minimum of 5-7 years of relevant experience at a public Company; 
+* Highly detail oriented, organized, self-motivated and proactive. Must have strong work ethic and be able to meet critical deadlines.
+* Strong analytical and problem-solving skills, including the ability to research and interpret accounting guidance.
+* Strong written and verbal communications skills.
+* Excellent team player who can work effectively with cross-functional teams.
+* Proficiency in Word, Excel and PowerPoint required.
+* Knowledge and proficient experience with WDesk and Netsuite highly preferred.
+
 ### Director, SEC & SOX
 
 The Director, SEC & SOX reports to the [Corporate Controller](https://about.gitlab.com/job-families/finance/corporate-controller/#director-corporate-controller).
