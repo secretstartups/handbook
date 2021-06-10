@@ -130,6 +130,10 @@ Note: The feature has been trialled on gitlab.com already using the `ACTION_CABL
 
 ### Possible Costs
 
+Based on the rollout of the first real-time feature, the current esimated cost per connection at peak is $0.02 (USD) per month.
+
+This figure is derived by dividing total cost of WebSocket nodes by the number of concurrent connections at peak, visible on [this chart](https://dashboards.gitlab.net/d/websockets-main/websockets-overview?viewPanel=1357460996&orgId=1&from=now-24h&to=now) (internal). It does not take into account load on downstream services, such as the primary database or Redis. It is most likely an over-estimation and expected to decrease as connections are added, as the current nodes can support more connections.
+
 ### Alternatives Considered
 
 Action Cable was the first choice because it is included with Rails. Scalability is a known concern but if it becomes a problem Anycable implements the same API. We could switch to that in the future with minimal to no changes in the application code.
