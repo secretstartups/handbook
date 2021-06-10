@@ -145,6 +145,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
       * macOS does not support [Multi-Stream Transport over DisplayPort](https://www.displayport.org/cables/driving-multiple-displays-from-a-single-displayport-output/)
     * Recharges Laptop over USB-C
     * Provides USB-A support for peripherals
+  * Belkin USB-C Multimedia Hub - [India](https://www.amazon.in/gp/product/B07Q3HP6KQ/)
 
 ##### Cables
   * AmazonBasics Premium HDMI Cable - [US](https://www.amazon.com/dp/B07KSD9DZ9/) - Supports 4K@60Hz
@@ -177,6 +178,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
   * SAMSUNG F350 23.6" 1080p - [Germany](https://www.amazon.com.au/dp/B0771J3HXV/)
   * Lenovo ThinkVision P27h-10 27" 1440p - [Switzerland](https://www.digitec.ch/de/s1/product/lenovo-thinkvision-p27h-10-27-2560-x-1440-pixels-monitor-6611407)
     * Connects over USB-C and also acts as a hub with 4 USB3.0 ports (on the back), works great on Linux including audio passthrough!
+  * Samsung 27" curved monitor [India](https://www.amazon.in/Samsung-inch-68-6-Curved-Monitor/dp/B01GFPGHVE)
 
 ##### Portable monitors
   * USB Touchscreen, 11.6" - [US](https://www.amazon.com/dp/B07FKJ6WP1/)
@@ -192,6 +194,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 #### Headphones and earbuds
   * Mpow 059 Bluetooth Over Ear Headphones - [US](https://www.amazon.com/dp/B077XT82DD/)
   * JBL T450BT On-ear Bluetooth Headphones - [Germany](https://www.amazon.de/dp/B01M6WNWR6/)
+  * OnePlus Bullets Wireless 2 - [India](https://www.oneplus.in/product/oneplus-bullets-wireless-2)
   * Apple AirPods are not recommended for Mac users and **cannot** be expensed for reimbursement - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers)
     * Note: We do not recommend using AirPods in Zoom meetings if you are using a [Mac](https://www.apple.com/mac/) due to the audio quality issues. It is sometimes difficult to hear team members who are using the microphone on AirPods. [This may be due to AirPods automatically switching the microphones between left and right](https://authenticstorytelling.net/how-to-fix-your-airpods-microphone-to-work-better-on-phone-calls-and-not-cut-out/). This can be fixed by [setting the AirPods to use the audio mic from one or the other](https://www.pcmag.com/how-to/how-to-connect-your-airpods-to-your-mac). Another option is to use an [external microphone](https://about.gitlab.com/company/culture/all-remote/workspace/#microphones). AirPods also have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
 
@@ -200,10 +203,13 @@ Keep in mind, open-ear headphones can often be worn longer than in-ear or closed
 #### Webcams
   * Logitech C920 - [US](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S), [UK](https://www.amazon.co.uk/Logitech-C920-Pro-Webcam-Recording/dp/B006A2Q81M?)
   * Logitech C525 - [India](https://www.amazon.in/Logitech-C525-HD-Webcam-Black/dp/B008QS9MRA)
+  * Logitech C922 Pro Stream Webcam, HD 1080p - [India](https://www.amazon.in/Logitech-Stream-Webcam-Streaming-Recording/dp/B01M35CNS8)
 
 #### Keyboards
   * Macally Bluetooth wireless keyboard - [US](https://www.amazon.com/Macally-Bluetooth-Computers-Rechargeable-Indicators/dp/B07K24ZLWC)
   * Logitech Ergo K860 Wireless Ergonomic Keyboard with Wrist Rest [US](https://www.amazon.com/gp/product/B07ZWK2TQT/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
+  * Logitech G-613 Wireless Mechanical Keyboard with Lightspeed Technology [India](https://www.amazon.in/Logitech-Wireless-Gaming-Keyboard-Black/dp/B0767637QW)
+  * Logitech MX Keys Advanced Illuminated Wireless Keyboard [India](https://www.amazon.in/Logitech-Advanced-Illuminated-Bluetooth-Responsive/dp/B08196YFMK)
 
 #### U2F Tokens 
 To understand more about where these can be used see the [Security Practices Page](https://about.gitlab.com/handbook/security/#two-factor-authentication).
