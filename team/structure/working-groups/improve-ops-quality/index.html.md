@@ -29,7 +29,7 @@ Mitigate future incidents by empowering developers to efficiently work on test c
 
 1. Identify [high-risk product groups](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/76328).
 
-### Exit Criteria (69% completed)
+### Exit Criteria (75.8% completed)
 
 1. Analyze all high-severity incidents in the past 3 months and list improvement themes needed (e.g. mixed deployments, new staging, load testing, better tests outside unit tests). `=> 100%`
   * [Review package incidents review](https://gitlab.com/gitlab-org/gitlab/-/issues/323340)
@@ -39,11 +39,11 @@ Mitigate future incidents by empowering developers to efficiently work on test c
 1. Add test coverage for high risk runner functionality `=> 66%`
 1. [Set up load testing environment for PE](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/832) `=> 40%`
 1. Address critical test gaps with new smoke tests for Package group `=> 100%`
-1. Update our process, documentation, on-boarding, and culture going forward. `=> 35%`
-  * Create risk map for [PE](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 80%`
-  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/879) `=> 60%`
-  * Create 3 end-to-end overview videos for training
-  * Train 1 maintainer each for Package, Runner, PE on end-to-end testing
+1. Update our process, documentation, on-boarding, and culture going forward. `=> 48.8%`
+  * Create risk map for [PE](https://about.gitlab.com/handbook/engineering/development/ops/verify/pipeline-execution/risk-map/), [Runner](https://about.gitlab.com/handbook/engineering/development/ops/verify/runner/risk-map/), and [Package](https://gitlab-org.gitlab.io/ci-cd/package-stage/risk-mapping/) `=> 90%`
+  * [Create generalized risk mapping framework](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/879) `=> 80%`
+  * Create 3 end-to-end overview videos for training `=> 0%`
+  * Train 1 maintainer each for Package, Runner, PE on end-to-end testing `=> 25%`
 
 ### Post working group planned improvements
 Items identified to continue work on past the scope of the Working Group but necessary for ongoing improvement of Ops quality.
