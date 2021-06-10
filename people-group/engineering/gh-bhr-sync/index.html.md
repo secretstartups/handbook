@@ -32,6 +32,7 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `last_name` (Applicant data) | `lastName` |
 | the part in `first_name` that's between quotes (Applicant data) | `preferredName` |
 | `candidate_country` (Offer data) | `country` |
+| `state_of_team_member` (Offer data) | `state` |
 | `starts_at` (Offer data) | `hireDate` |
 | `email_addresses.personal` (Applicant data) | `homeEmail` |
 | `departmemt` (Offer data) | `department` |
