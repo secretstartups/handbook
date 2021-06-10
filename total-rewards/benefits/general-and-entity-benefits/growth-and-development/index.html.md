@@ -173,7 +173,7 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 
 ### Processing Steps for G&D Benefit
 
-The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. 
+The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. Please note that the following steps are performed by the L&D team every Tuesday and Friday.
 
 Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
 
@@ -208,11 +208,13 @@ This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c92235
 1. Download the file as a word document and save to your desktop. 
 1. Log into Docusign to upload the document to be signed
 1. Add correct signers to the document, including the applicant, the applicant's direct manager, and e-group level of their division. Include signature, name, and date. You can find all of this information by following the applicant's management chain in BambooHR. For some organizations, the [e-group signatures is for the VP level](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000). 
-1. Confirm correct dates on the application
-1. Add manager initials to the text box for management check points to ensure that the applicant is in good standing with GitLab
-1. Add initials of c-level to manager business rational and to development objective at the top of the form. 
-1. Add a text box for manager business rationale for manager to fill in. 
 1. Name the file `Growth and Development Form - Applicant Name`. Include the following message when sending the document: `Please review and sign the Growth and Development form for [APPLICANT NAME]`
+1. Assign the order of signatures to flow as follows: `applicant`, `manager`, `e-group`
+1. Confirm correct dates and other information on the singing document
+1. Click `next`
+1. Drag and drop signature, name, and date boxes for the `applicant`
+1. Drag and drop signature, name, and date boxes for the `manager`. Add manager initials to the text box for management check points to ensure that the applicant is in good standing with GitLab. Add a text box for manager business rationale for manager to fill in. Add initial for c-suite team member to initial the business rationale.
+1. Drag and drop signature, name, and date boxes for the `e-group`. Add initials of e-group to business rational/development objective at the top of the form. 
 1. Send for signature
 1. Return to the application spreadsheet and update the status to `Agreement Staged`
 1. Send the **notification email** below to the team member. Some forms can be hung up during the approval flow, you include in the CC line the other signatures required. 
@@ -260,5 +262,20 @@ Kind regards,
 
 ```
 
+**Workshops and Conferences Signatures Complete Email** 
 
+CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
+
+Subject: `Growth and Development Benefit Form
+
+```
+Hi [Application Name]
+
+Your tuition reimbursement form has been signed by all parties. Once you have registered for the conference or coaching sessions, please forward proof of attendence/reciept to us to initiate the reimbursement process.  If you have any questions, please let us know.
+
+Kind regards,
+
+[Sender Name]
+
+```
 
