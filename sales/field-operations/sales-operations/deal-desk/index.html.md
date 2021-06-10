@@ -86,6 +86,7 @@ The Deal Desk team is located around the world and will be available during stan
 *  Jesse Rabbits - New York, NY 
 *  Ashley Potter - New York, NY 
 *  Cal Baker - Seattle, WA
+*  Prathyusha Lakshmipuram - San Francisco, CA 
 
 **APAC**
 *  Kriti D'Souza - Pune, India
