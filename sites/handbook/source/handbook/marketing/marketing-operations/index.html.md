@@ -476,7 +476,7 @@ Status in the table below means:
 
 In Q1 FY22 the Demand Generation team began running paid campaigns to drive trial signups. Currently, we don't have the "trial" source bucket split out by paid vs. organic because we don't have Google Analytics tracking on the signup form. Fortunately, this will soon be changing!
 
-Until then, if pulling metrics around source buckets for CAC calculations please reach out to #demand-gen in Slack to get access to our paid agency dashboards.
+Until then, if pulling metrics around source buckets for CAC calculations please use the [Demand Gen dashboard in Sisense](https://app.periscopedata.com/app/gitlab/793304/Demand-Gen-Dashboard) (you can filter by trials).
 
 
 ## Lead and Contact Statuses
