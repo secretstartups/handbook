@@ -96,7 +96,7 @@ Applications will be prioritized on many points including:
 
 Please complete [this Mentor Application Google form](https://docs.google.com/forms/d/e/1FAIpQLSfkoP5XXB4Zz_wVqbEvrMlATmp710A9CDRM6GegXRIxSX4KqQ/viewform) to apply to be a mentor.
 
-Please note that applying for a mentor does not guarentee you a spot in the program, and eligibility will be evaluated based on criteria above.
+Please note that applying for a mentor does not guarantee you a spot in the program, and eligibility will be evaluated based on criteria above.
 
 If you've participated in a previous GitLab mentor program, you are welcome to apply again!
 
@@ -154,7 +154,7 @@ Yes, this is a possibility. It's important that team members talk with their man
 
 It's possible that we will have a shortage of mentors and be unable to complete all mentor/mentee pairs. If there is a shortage of mentors and you've applied as both a mentor and a mentee, you will be assigned **only** as a mentor in this program. 
 
-**I'd like to particiapte but I can't commit the entire length of the program. Can I still apply?**
+**I'd like to participate but I can't commit the entire length of the program. Can I still apply?**
 
 If you cannot commit to the 3 month program, please consider applying for a future mentorship program at GitLab. It's important that both mentors and mentees are available for the full 3 month program to achieve the best results.
 
