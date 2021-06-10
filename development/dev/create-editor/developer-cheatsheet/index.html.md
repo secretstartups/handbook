@@ -37,7 +37,7 @@ description: Helpful information for developers on the Editor team.
 
 #### Running QA Specs
 
-See https://gitlab.com/gitlab-org/gitlab/tree/master/qa#how-can-i-use-it for more details.
+See <https://gitlab.com/gitlab-org/gitlab/tree/master/qa#how-can-i-use-it> for more details.
 
 - `cd qa`
 - `bundle`
@@ -46,7 +46,7 @@ See https://gitlab.com/gitlab-org/gitlab/tree/master/qa#how-can-i-use-it for mor
 
 To run the QA specs in RubyMine, use a custom rspec runner configuration (right click on the arrow next to the example in the gutter), and set the `qa/bin/rubymine` script as the custom RSpec runner script, and the working directory as `qa`.
 
-See more detailed instructions for this process here: https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/end_to_end_test_configuration.md#starting-tests-using-the-rubymine-gutter
+See more detailed instructions for this process here: <https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/end_to_end_test_configuration.md#starting-tests-using-the-rubymine-gutter>
 
 ### gitlab-com/www-gitlab-com
 
@@ -65,8 +65,8 @@ See more detailed instructions for this process here: https://gitlab.com/gitlab-
 
 ### Running Web IDE Terminal in GDK
 
-- https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/howto/web_ide_terminal_gdk_setup.md
-- https://www.youtube.com/watch?v=MhwmqqaREw0
+- GDK Docs: [Web IDE Terminal HowTo](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/web_ide_terminal_gdk_setup.md)
+- YouTube: [Web IDE Terminal - Setup using GDK (23:44)](https://www.youtube.com/watch?v=MhwmqqaREw0)
 
 ### GDK Debugging
 
@@ -86,7 +86,7 @@ gdk stop rails-web
 
 Then start a Rails debug server in RubyMine using the process below.
 
-**NOTE ON WORKHORSE USING TCP PORTS: It is not currently possible to use a standard "Rails" Run/Debug configuration because of this RubyMine bug: [https://youtrack.jetbrains.com/issue/RUBY-27404](https://youtrack.jetbrains.com/issue/RUBY-27404). You can use the workaround below to run it as a "Ruby" Run/Debug config. However, even with the bug, the workaround below may not be necessary since this MR was merged to allow configuration of Workhorse to use TCP ports instead of sockets: https://gitlab.com/gitlab-org/gitlab-development-kit/-/merge_requests/1693. TODO: Need to try it out...**
+**NOTE ON WORKHORSE USING TCP PORTS: It is not currently possible to use a standard "Rails" Run/Debug configuration because of this RubyMine bug: [https://youtrack.jetbrains.com/issue/RUBY-27404](https://youtrack.jetbrains.com/issue/RUBY-27404). You can use the workaround below to run it as a "Ruby" Run/Debug config. However, even with the bug, the workaround below may not be necessary since this MR was merged to allow configuration of Workhorse to use TCP ports instead of sockets: <https://gitlab.com/gitlab-org/gitlab-development-kit/-/merge_requests/1693>. TODO: Need to try it out...**
 
 Workaround: you can still connect to workhorse on port 3000 using a Ruby (NOT Rails) Run/Debug config:
 
@@ -158,24 +158,24 @@ Depending on your existing habits and `git` practices the habits below may help 
 
 ## Dealing with Broken Master
 
-- /handbook/engineering/workflow/#broken-master
-- /handbook/engineering/workflow/#maintaining-throughput-during-broken-master
+- <https://about.gitlab.com/handbook/engineering/workflow/#broken-master>
+- <https://about.gitlab.com/handbook/engineering/workflow/#merging-during-broken-master>
 
 ## Browser Testing
 
-- Browser Testing: https://docs.gitlab.com/ee/development/fe_guide/index.html#browser-support
-- Dynamic element validation in E2E tests: https://docs.gitlab.com/ee/development/testing_guide/end_to_end/dynamic_element_validation.html
+- Browser Testing: <https://docs.gitlab.com/ee/development/fe_guide/index.html#browser-support>
+- Dynamic element validation in E2E tests: <https://docs.gitlab.com/ee/development/testing_guide/end_to_end/dynamic_element_validation.html>
 
 ## Links on Testing and Software Design
 
 About testing:
 
-- Vue test utils guide: https://vue-test-utils.vuejs.org/guides/
-- Book: The way of the web tester: https://pragprog.com/titles/jrtest/
-- An essay on mocks: https://martinfowler.com/articles/mocksArentStubs.html
-- Clean architecture book: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+- Vue test utils guide: <https://vue-test-utils.vuejs.org/guides/>
+- Book: The way of the web tester: <https://pragprog.com/titles/jrtest/>
+- An essay on mocks: <https://martinfowler.com/articles/mocksArentStubs.html>
+- Clean architecture book: <https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164>
 
 Some frontendmasters workshops related to testing that I want to take after the web security workshop:
 
-- https://frontendmasters.com/courses/testing-practices-principles/
-- https://frontendmasters.com/courses/testing-javascript/
+- <https://frontendmasters.com/courses/testing-practices-principles/>
+- <https://frontendmasters.com/courses/testing-javascript/>
