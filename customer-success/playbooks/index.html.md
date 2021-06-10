@@ -83,7 +83,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | CI Health Enablement/Expansion Review | **Yes | Automated | CTA | Activity | 
 | Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
 | Customer Offboarding | **Yes** | Automated | CTA | Lifecycle |      |
-| Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
+| Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)<br>(Internal Only Link)     |
 | New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
 | High License Utilization: Growth Opportunity | **Yes** | Automated | CTA | Lifecycle |      |
 | Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |
