@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Disaster Recovery Working Group"
-description: ""
+description: "The Disaster Recovery Working Group will determine what is needed to introduce a disaster recovery mechanism for GitLab.com."
 canonical_path: "/company/team/structure/working-groups/disaster-recovery/"
 ---
 
