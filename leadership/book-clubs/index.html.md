@@ -21,8 +21,8 @@ clubs project](https://gitlab.com/gitlab-com/book-clubs).
 
 ## Trustworthy Online Controlled Experiments (A Practical Guide to A/B Testing)
 
-* Dates: 2021-03-11 to 2021-06-11 (every week)
-* Time: 08:30 PT / 16:30 UTC
+* Dates: 2021-03-11 to 2021-06-10 (every week)
+* Time: 08:00 PT / 15:00 UTC
 * [Zoom](https://gitlab.zoom.us/j/99228304969) (password is in the calendar event info)
 * [Meeting agenda](https://docs.google.com/document/d/16-vWAEdQoV7pizQuErgBovEAqFlPq0pv3-fhfmPk5ec/edit#heading=h.50o15qg15kc0)
 * [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/23)
