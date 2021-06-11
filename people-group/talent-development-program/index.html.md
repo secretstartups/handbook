@@ -20,7 +20,7 @@ GitLab's Talent Development Program includes the following initiatives:
 - [Organisational Structure and gaps](https://about.gitlab.com/company/team/structure/)
 - [Performance Assessments and Succession Planning](/handbook/people-group/performance-assessments-and-succession-planning/)
 - [Career Development Conversations](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
-- [Performance Enablement Plans (PEP) and Performance Improvement Plans (PIP)](/handbook/leadership/underperformance/#options-for-remediation)
+- [Performance Improvement Plans (PIP)](/handbook/leadership/underperformance/#options-for-remediation)
 - [Performance Enablement Review](/handbook/people-group/learning-and-development/career-development/#performance-enablement-review)
 - [Individual Growth Plan](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 - [Engagement Survey](/handbook/people-group/engagement/)
