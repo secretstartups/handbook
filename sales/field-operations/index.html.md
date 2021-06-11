@@ -18,8 +18,8 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 
 ### Key Tenets
 **Clarity**: for definitions, processes and events   
-**Visibility**: to processes, data and analytics   
-**Accountability**: for both Sales/Field Ops to uphold to expectations and SLAs   
+**Predictability**: of the business by leveraging data and systems  
+**Scalability**: for processes and systems that allows for growth
 
 ### Teams
 * [Sales Operations](/handbook/sales/field-operations/sales-operations/)
