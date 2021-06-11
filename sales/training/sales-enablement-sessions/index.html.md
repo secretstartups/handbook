@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jun 17 |  |      |
+| Jun 17 | Big Changes in 14.0 | Sherrod Patching, Anoop Dawar & Mark Wood     |
 | Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
 | Jul 1  |  |  |
 | Jul 8  | Q2 FY22 Product Update | Brian Glanz |
