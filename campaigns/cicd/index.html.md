@@ -15,28 +15,46 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 {: #overview .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-## Business Objectives
-{: #business-objectives .gitlab-purple}
+
+## Campaign Overview
+{: #camp-overview .alert .alert-gitlab-orange}
+
+### Business Objectives
+{: #business-objectives}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-## Campaign Visual
-{: #campaign-visual .gitlab-purple}
+
+### Campaign Visual
+{: #campaign-visual}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 MURAL goes here
 
-## Persona & Positioning
-{: #persona-positioning .gitlab-purple}
+### Campaign Pages & Activities
+{: #campaign-activities}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+**[See the FY22 Marketing Calendar for upcoming virtual events >>]()**
+
+Always On Lead Generation:
+* :books: Content | 
+* :video_camera: On-Demand Webinar | 
+
+## Campaign Preparation
+{: .alert .alert-gitlab-orange}
+
+### Persona & Positioning
+{: #persona-positioning}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * Level: 
 * Function: 
 
-## Keyword Research
-{: #keyword-research .gitlab-purple}
+### Keyword Research
+{: #keyword-research}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
-## Polished Messaging
+### Polished Messaging
 {: #polished-messaging .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
@@ -45,15 +63,16 @@ MURAL goes here
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+
 #### Individual Contributor
-{: #buyer-journey-ic .gitlab-purple}
+{: #buyer-journey-ic}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 1. Awareness Content: 
 1. Consideration Content: 
 1. Decision/Purchase Content: 
 
 #### Manager
-{: #buyer-journey-manager .gitlab-purple}
+{: #buyer-journey-manager}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 1. Awareness Content: 
 1. Consideration Content: 
@@ -63,3 +82,9 @@ MURAL goes here
 {: #emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+## Campaign Execution Documentation
+{: #emails .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Campaign Epic]()
+* [Project timeline plan]()
+* [Copy Doc]()
