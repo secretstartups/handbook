@@ -207,10 +207,10 @@ Each calendar month the intercompany transactions between GitLab entities are se
 
 GitLab's entities are subject to statutory reporting requirements of indirect tax in their home countries (i.e. GST and VAT).
 
-### USA territory
+### USA Territory
 In the USA the filing of Sales & Use Tax returns is managed via [Avalara](https://www.avalara.com/us/en/index.html) software. Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). State returns are automatically filed by Avalara. Quarterly analysis is performed to check taxable nexus in each state (e.g. depending on ths state, nexus arises economically by volume of transactions, or physically by employees being resident of that state or sales representatives traveling through that state). 
 
-### Canada territory
+### Canada Territory
 GitLab Inc. is registered as non-resident for GST/HST, PST, and QST purposes. As such Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). Customers that have provided their TQ number to GitLab should not be charged with QST. QST returns are filed quarterly. See below section for a process description.
 
 ### International Territory
@@ -297,7 +297,7 @@ When the application is approved, the R&D tax credit can be deducted from the wa
 1. GitLab BV's employees working on the eligible projects have to keep track of their hours spent on the project in the [hour tracker](/handbook/people-group/#organizing-wbso)
 1. The hour tracker needs to be monitored on monthly basis by Finance in order to prevent an overclaim or underclaim of the WBSO
 
-## Tax procedure for adding a new tax location (all actions on Tax Accountant)
+## Tax Procedure for Adding a New Tax Location (all actions on Tax Accountant)
 1. Open an issue in the tax team [VAT/GST](https://gitlab.com/groups/gitlab-com/-/epics/215) epic, with the below information:
 * Description of the new tax location;
 * What triggered the tax to be collected;
@@ -309,6 +309,11 @@ When the application is approved, the R&D tax credit can be deducted from the wa
 * Confirm in the issue, by Avalara due date, that tax collection has started.
 2. Share the issue in the #tax, #finance and #sales-support Slack channels.
 
+## Tax Procedure for Making US Corporate Tax Payments 
+Open an inssue in the tax team [CIT Estimates/Prepayments] (https://gitlab.com/groups/gitlab-com/-/epics/1268) epic, with the below information:
+* Tax preparer uploads calculation for quarterly/annual/other corporate tax payments for Tax Director's review and approval
+* After approval, tax preparer will initation US corproate tax payments, print payment confirmations and send to A/P team for backup
+* AP team will book the appropriate journal entries in Netsuite and reconcile the payment confirmations with the bank withdrawals to ensure the bank account, payee and withdrawn amount are correct
 
 ## Withholding Tax Management
 
@@ -322,4 +327,7 @@ The payment for the use of GitLab's software can be subject to any indirect taxe
 
 Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/) and conditions prescribe that the customer will pay any required taxes itself and will not reduce the amount paid to GitLab on account thereof.
 Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
+
+
+
 
