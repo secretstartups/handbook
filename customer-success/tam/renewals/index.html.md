@@ -71,7 +71,7 @@ To learn the full process, watch the TO BE CREATED VIDEO****************
 
 ### At-Risk Process
 
-![image](/images/)
+![image](/images/at-risk-process.jpeg)
 
 
 When a TAM has determined an account is red, then:
