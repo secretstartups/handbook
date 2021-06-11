@@ -124,7 +124,7 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relati
 </details>
 
 <details>
-<summary markdown='span'>
+<summary>
  How can I make a payment?
 </summary>
 
