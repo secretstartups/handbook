@@ -82,7 +82,7 @@ The [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis) 
 
 **Goal:** 14 days
 
-Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
+Time to Engage is calculated by taking the days between the `Onboarding CTA Stat Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
 
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
@@ -92,15 +92,15 @@ Time to Engage is calculated by taking the days between Salesforce's `Original C
 
 Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 
-If Seat Link is enabled, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Seat Link data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
+If Cloud License data is in Gainsight, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
 
-- Required TAM action: confirm Seat Link data is in Gainsight, if not, then manually update the `First Value Date`
+- Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the `First Value Date`
 
 ### Time to Onboard
 
 **Goal:** 45 days
 
-Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
+Time to Onboard is the difference between `Onboarding CTA Start Date` and the date the Onboarding CTA is closed. For example, the `Onboarding CTA Start Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
 - Required TAM action: Close the Onboarding CTA
 
