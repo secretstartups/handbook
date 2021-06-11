@@ -65,29 +65,20 @@ The action items created from the “Renewal Review” meeting should be incorpo
 
 ## Tracking Account Health and Risks
 
-For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Account Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab.
+For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Account Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab. Note: this was formerly at the Opportunity level instead of Account level. It was moved to Account to be long-term oriented and as Sales owns the Opportunity.
 
-To learn the full process, watch [Opportunity Health and Risks Process video](https://www.youtube.com/watch?v=taucYmcWZ6U&feature=youtu.be).
+To learn the full process, watch the TO BE CREATED VIDEO****************
 
-The [Renewal CTA](#timeframe) will include a step for the TAM Manager (or TAM) to update the Opportunity information within Gainsight. The TAM Manager (or TAM) can and should update the Opportunity Health and Risks throughout the renewal when something changes or because of new information.
 
-To access this information, TAMs should either:
-* Simpler method: on the Renewal CTA, click the “1” next to “Call to Action” and select "Gainsight Opportunity”, OR
-* Alternative method: On the C360, scroll down to the Opportunities section, find the Opportunity to edit and click the pencil icon to edit the relevant fields
-
-The top section (Opportunity Risk) is to be filled out (see [Fields](#fields) below) and the bottom section (Opportunity Info) is data pulled in from Salesforce. For instance, if a competitor is listed in the Opportunity, that likely signifies a red or yellow health status.
 
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 ### Fields
 
-##### Opportunity Health
+##### Account Health
 
-Opportunity Health is currently synced from the `TAM Sentiment` on the Account and will be updated once the TAM updates `TAM Sentiment` and each time thereafter. We have Opp Health so that it's stamped on _that_ Opportunity for historical reporting. Opportunity Health should be thought of in this way:
+When a TAM considers an account at-risk, they should set the Account's `TAM Sentiment` to **red**. From there, the TAM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
 
-* **Green** - very likely to renew at or above current ARR
-* **Yellow** - some risk of downgrade or churn
-* **Red** - high probability of downgrade or churn
 
 ##### Risk Type
 * **Customer Churn** - fully churn the account
@@ -96,16 +87,14 @@ Opportunity Health is currently synced from the `TAM Sentiment` on the Account a
 * **Customer Sentiment** (Impact Unknown) - customer is unhappy and the impact isn’t quantified
 
 ##### Risk Reason
-* **AzureDevOps** - competitive risk due to MSFT
-* **Competition** - risk of loss to a competitor
-* **Customer Sentiment** - customer is unhappy with GitLab
-* **Lack of adoption** - customer has not deeply adopted GitLab
-* **Lack of budget** - customer is unlikely to have budgetary coverage for maintaining the current GitLab license
-* **Lack of engagement** - customer is nonresponsive or rarely engages
-* **Loss of sponsor or champion** - our key contact(s) left the company
-* **Other organizational factors** - other company issues that contribute to a blocker for the renewal
-* **Product experience** - poor experience with the GitLab product
-* **COVID-19** - the customer faces pressures and hardships due to COVID-19
+* **Lack of adoption** - Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, it should be Product Gap
+* **Product Value / Gaps** - Prospect or customer used the product and features (i.e., trial, POV, or purchased product), but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience or perceived value
+* **Product Quality / Availability** - Prospect or customer used the product and features (i.e., trial, POV, or purchased product) though they did not meet the prospect or customer's needs or expectations. This can be defects, poor performance, or uptime/availability issues. Includes both self-managed and SaaS products
+* **Lack of Engagement / Sponsor** - We lost or were never able to get engagement with the prospect or customer team. The champion / sponsor left, changed responsibility, or became unresponsive. We were never able to re-establish connection with a new sponsor or champion
+* **Loss of Budget** - The prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss
+* **Corporate Decision** - Due to management decision or policy, the prospect or customer chose a different product but not because of product gaps, adoption, etc. This would be a top-down decision (e.g., ELA, decision to commit to a single provider)
+* **Other** - other company issues that contribute to a blocker for the renewal
+
 
 ##### TAM Notes
 This is where the TAM can enter notes on this specific opportunity and will be saved to the Opportunity record.
