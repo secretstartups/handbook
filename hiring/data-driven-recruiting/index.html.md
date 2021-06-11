@@ -24,7 +24,7 @@ Dave Gilbert, [Sid Sijbrandij](https://about.gitlab.com/company/team/#sytses) an
 
 Data Driven Talent Acquisition (DDR) is defined as focusing on fewer people that have more aptitude and connection to the company. This approach helps to optimize the entire hiring process by leveraging the data on the prospects that are more likely to respond to our outreach and are more likely to be successful throughout the interviewing process.
 
-Since GitLab has taken an innovative approach to hiring and implemented the [Outbound Talent Acquisition Model](https://about.gitlab.com/jobs/faq/#gitlabs-outbound-talent acquisition-model), we aim to enrich our sourcing strategy with specific market data points. Data Driven Talent Acquisition approach presents us with the specific data collected on the prospects and helps to gain a deeper understanding of our target talent pools. It also helps the Talent Acquisition team to strategize our sourcing effort by prioritizing quality of sourced prospects over their quantity.
+Data Driven Talent Acquisition approach presents us with the specific data collected on the prospects and helps to gain a deeper understanding of our target talent pools. It also helps the Talent Acquisition team to strategize our sourcing effort by prioritizing quality of sourced prospects over their quantity.
 
 As we aim to build an even more diverse team in the most efficient way possible, while also sustaining our culture, we've created a list parameters that could be considered when building the sourcing strategy for a particular opening, and this list keeps growing:
 1. Affinity and engagement with GitLab Talent Brand
