@@ -11,13 +11,8 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 - TOC
 {:toc .toc-list-icons .hidden-md .hidden-lg}
 
-## Overview
-{: #overview .gitlab-purple}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-
 ## Campaign Overview
-{: #camp-overview .alert .alert-gitlab-orange}
+{: #overview .alert .alert-gitlab-orange}
 
 ### Business Objectives
 {: #business-objectives}
@@ -40,17 +35,17 @@ Always On Lead Generation:
 * :books: Content | 
 * :video_camera: On-Demand Webinar | 
 
-## Campaign Preparation
-{: .alert .alert-gitlab-orange}
+## Research & Prep
+{: .alert #research-prep .alert-gitlab-orange}
 
 ### Persona & Positioning
-{: #persona-positioning}
+{: #persona-positioning .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * Level: 
 * Function: 
 
 ### Keyword Research
-{: #keyword-research}
+{: #keyword-research .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
@@ -59,10 +54,12 @@ Always On Lead Generation:
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 
-## Prescriptive Buyer Journey
+## Buyer Journeys, Content & Emails
+{: .alert #content-emails .alert-gitlab-orange}
+
+### Prescriptive Buyer Journeys
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
 
 #### Individual Contributor
 {: #buyer-journey-ic}
@@ -78,12 +75,20 @@ Always On Lead Generation:
 1. Consideration Content: 
 1. Decision/Purchase Content: 
 
-## Nurture & Outreach Emails
-{: #emails .gitlab-purple}
+
+### Marketo Nurture Emails
+{: #nurture-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-## Campaign Execution Documentation
-{: #emails .gitlab-purple}
+### Outreach Emails
+{: #outreach-emails .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+## Behind the Scenes
+{: .alert #research-prep .alert-gitlab-orange}
+
+#### Campaign Execution Documentation & Resources
+{: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Campaign Epic]()
 * [Project timeline plan]()
