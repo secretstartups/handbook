@@ -18,37 +18,43 @@ The team is formed of [volunteers from any of the Fulfillment teams](https://git
 
 ### 2021 Roadmap
 
-| Work | Guesstimate | Status |
-| ---      | ---      | --- |
-| Create a new Google Cloud Project for staging  | M  | Done |
-| Use Puma as default web server | L | WIP, Q2 |
-| Configure basic Ansible playbook | L | WIP, Q2 |
-| Configure Ansible CustomersDot environment | M | WIP, Q2 |
-| Deploy to staging using Ansible | L | Q2-Q3 |
-| Configure Ansible CustomersDot deployment | L | Q2-Q3 |
-| Add CustomersDot deployment to GitLab CI | L | Q3 |
-| Configure fail2ban, cloudfare | L | Q3 |
-| Create a new Google Cloud Project for production | L | Q3 |
-| Replicate current deployment blocking (auto-block on staging failure) | L | Q3 |
-| Migrate to new production fleet and testing | XXL | Q3 |
-| Clean up old customers Infra | M | Q3 |
-| Add Prometheus monitoring | M | Q3 |
-| Add minimum uptime/health checks and alerts | L | Q3 |
-| Add logs to Kibana | L | Q3 |
-| Add current API health and alerts (including Zuora, SFDC...) | L | Q3 |
-| Configure all alerts with Slack notifications | M | Q3 |
-| Define SLA and make dashboards for CustomersDot | L | Q3 |
-| Static IP address requirements | L | Q3 |
-| HA Environment in production and deployment | XL | Q3 |
-| Add Cloud Licensing observability and alerts | XL | Q3 |
-| Configure deployment notifications and alerts | L | Q3 |
-| Use Ansible/Ansistrano auto-rollback feature | L | Q3 |
-| Add more Prometheus metrics | L | Q3 |
-| Add business metrics and alerts | XL | Q3 |
+| Work | Guesstimate | Status | Theme |
+| ---  | ---         | ---    | ---   |
+| Create a new Google Cloud Project for staging  | M  | Done | Setup Infrastructure |
+| Use Puma as default web server | L | WIP, Q2 | Setup Infrastructure |
+| Configure basic Ansible playbook | L | WIP, Q2 | Setup Infrastructure |
+| Configure Ansible CustomersDot environment | M | WIP, Q2 | Setup Infrastructure |
+| Deploy to staging using Ansible | L | Q2-Q3 | Setup Infrastructure |
+| Configure Ansible CustomersDot deployment | L | Q2-Q3 | Setup Infrastructure |
+| Add CustomersDot deployment to GitLab CI | L | Q3 | Setup Infrastructure |
+| Configure fail2ban, cloudfare | L | Q3 | Setup Infrastructure |
+| Create a new Google Cloud Project for production | L | Q3 | Setup Infrastructure |
+| Replicate current deployment blocking (auto-block on staging failure) | L | Q3 | Setup Infrastructure |
+| Migrate to new production fleet and testing | XXL | Q3 | Setup Infrastructure |
+| Clean up old customers Infra | M | Q3 | Setup Infrastructure |
+| Static IP address requirements | L | Q3 | Setup Infrastructure |
+| Use Ansible/Ansistrano auto-rollback feature | L | Q3 | Setup Infrastructure |
+| Add Prometheus monitoring | M | Q3 | Basic Observability |
+| Add minimum uptime/health checks and alerts | L | Q3 | Basic Observability |
+| Add logs to Kibana | L | Q3 | Basic Observability |
+| Add current API health and alerts (including Zuora, SFDC...) | L | Q3 | Basic Observability |
+| Configure all alerts with Slack notifications | M | Q3 | Basic Observability |
+| Define SLA and make dashboards for CustomersDot | L | Q3 | Basic Observability |
+| Configure deployment notifications and alerts | L | Q3 | Basic Observability |
+| HA Environment in production and deployment | XL | Q4 | Redundancy |
+| Add Cloud Licensing observability and alerts | XL | Q4 | Advanced Observability |
+| Add more Prometheus metrics | L | Q4 | Advanced Observability |
+| Add business metrics and alerts | XL | Q4 | Advanced Observability |
 
-Rough guesstimate:
+**Rough guesstimate:**
+M = 0.25 milestone, 1 person
+L = 0.5 milestone, 1 person
+XL = 1 milestone, 1 person
+XXL = 2 milestones, 1 person
 
-[![formula](formula.png)](formula.png)
+Q2 = M x 2 + L x 2 = 0.25 x 2 + 0.5 x 2 = 1.5 milestones, 1 person
+Q3 = M x 3 + L x 13 + XXL x 1 = 0.25 x 3 + 0.5 x 13 + 2 = 9.25 milestones, 1 person
+Q4 = L x 1 + XL x 3 = 0.5 x 1 + 1 x 3 = 3.5 milestones, 1 person
 
 ## How we work
 
