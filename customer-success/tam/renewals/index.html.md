@@ -25,7 +25,7 @@ Six months before the renewal date for a customer, a CTA will trigger in Gainsig
 1. Renewal Review: Internal sync with SAL/AE and potentially SA as defined below
 1. Renewal Question
 1. Renewal Plan
-1. Update `TAM Sentiment` and Risk Type/Reasons, if applicable, see [Tracking Renewal Opportunity](#tracking-renewal-opportunity-health-and-risks) below
+1. Update `TAM Sentiment`
 
 Once the above tasks are complete, the playbook and CTA can be closed out as all actionable items have been performed.
 
