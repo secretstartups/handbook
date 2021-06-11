@@ -56,7 +56,7 @@ The Billing Team performs a billing reconciliation and Bill Run in Zuora daily.T
 
 The expected close to invoice cycle is 24-48 hours depending on the complexity of the related opportunity.
 
-> :bulb: Any manual updates to invoices concerning invoice templates should go through Legal.
+> Any manual updates to invoices concerning invoice templates should go through Legal.
 
 ## Functional Resposibilities
 
@@ -77,7 +77,7 @@ The expected close to invoice cycle is 24-48 hours depending on the complexity o
     - Professional services billing reconciliation
     - Reconciliation of related Balance Sheet G/L Accounts
 
-:round_pushpin: See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Checklist%202020)
+See also: [Internal Billing Checklist](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Billing%20Checklist%202020)
 
 ## Billing Operations Systems
 
@@ -85,7 +85,7 @@ The expected close to invoice cycle is 24-48 hours depending on the complexity o
 
 Salesforce is used for sourcing customers, creating quotes, and housing all customer information and supporting documentation. The Billing Team utilizes SFDC to view all related customer documentation and account information.
  
-:round_pushpin: See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
+See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/handbook/sales/field-operations/sfdc/)
 
 ### Zuora
 
@@ -99,13 +99,13 @@ Salesforce is used for sourcing customers, creating quotes, and housing all cust
     - Integrated to Avalara Tax Reporting Software
     - Integrated with Zuora Revenue
 
-:round_pushpin: See also: [Zuora](https://about.gitlab.com/handbook/engineering/development/fulfillment/zuora/)
+See also: [Zuora](https://about.gitlab.com/handbook/engineering/development/fulfillment/zuora/)
 
 ### Zendesk
 
 Zendesk is our support queue for customer inquiries. Each case is then converted into a Zendesk ticket and filtered into a `View`, ordered by category. As part of their daily workflow, the Billing Operations Team monitor these views and process tickets through completion.
 
-:round_pushpin: See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/tools/zendesk/)
+See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/tools/zendesk/)
 
 ## How to get Help
 
@@ -228,7 +228,7 @@ Where does GitLab currently charge tax on sales?
 
 Internal Resource: [VAT & Sales Tax Information & Resources](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/VAT%20&%20Sales%20Tax%20Information%20&%20Resources)
 
-:round_pushpin: See Also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
+See also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
 
 </details>
 
@@ -246,7 +246,7 @@ As a global company, GitLab has locations around the world.
 
 [Quote Entity Information](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quote-entity-information)
 
-:star: **Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity. 
+**Note:** all initial web direct subscriptions ordered through the portal are placed on the US entity. 
 
 > Clarification: If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well.
 
