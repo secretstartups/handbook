@@ -291,6 +291,8 @@ List of CEO Handbook Learning Sessions:
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
 1. [Working Groups](/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 1. [Skip Level Meetings](https://www.youtube.com/watch?v=kAxp0Mam-Rw)
+1. [Product Strategy](https://www.youtube.com/watch?v=yI29xFAgKoA)
+1. [Mental Wellness Discussion](https://www.youtube.com/watch?v=od_KdZqc69k)
 
 ## Skill of the Month 
 
