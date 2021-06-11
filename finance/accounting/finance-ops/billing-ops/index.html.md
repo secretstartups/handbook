@@ -11,6 +11,8 @@ title: "Billing Operations"
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
+{::options parse_block_html="true" /}
+
 ## Welcome to the Billing Ops Handbook
 
 ### Charter
