@@ -432,7 +432,40 @@ The `Field Marketing Manager` field on the account is maintained by Sales Operat
 1. Named and PubSec are dataloaded manually on a monthly cadence. PubSec mapping is maintained in the Master Territory List Public Sector Account Coverage file.  Named mapping is maintained in [Territories Mapping File - SSoT](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1404562293)in the Named Reps tab. 
 
 ### Sales Admin Opportunity Updates - Operators Guide
-Coming Soom
+Many opportunities and accounts are owned by Sales Admin.
+These opportunities and accounts are updated twice weekly on Mondays and Thursdays. We also do an additional upload during the end of the month for closing. 
+We leverage the [Sales Admin Owned Opps Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM) and this [Territories Mapping file](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1159245802) to update the Sales Admin Owned Opps and accounts. 
+
+There are 2 types of fixes: 
+1. Easy - opportunities owned by Sales Admin that have Account owners populated to match
+2. Hard - opportunities and accounts owned by Sales Admin that needs to be manually mapped and assigned to the correct owner
+
+Steps to update Easy Fix Opportunities 
+1. Locate the Easy Fix Sales Admin Owned Opportunities [Report](https://gitlab.my.salesforce.com/00O4M000004aiGB) from the [dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM).
+2. Export the report into an Excel or Google Sheets.
+3. Update the following fields on the report: Opportunity Owner, Account Owner Team (O), Owner Team (O) and make sure to match the Opportunity owner with the account owner. 
+4. Clear out the TSP Date, and next TSP owner fields to avoid reassignment.
+5. Use dataloader to update the opportunities. 
+
+Steps to update Hard Fix Opportunities and Accounts 
+1. Locate the Hard Fix Sales Admin Owned Opportunities [Report](https://gitlab.my.salesforce.com/00O4M000004aiGL) from the [dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM).
+2. Export the report into an Excel or Google Sheets and instert 2 rows on the sheet to add Owner ID for both accounts and opportunities. 
+3. First, determine the Owner Team (O) and Account Owner Team (O) by using the employee count of the opportunity and filter the opportunities by segment to populate using the [mapping file](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1159245802).
+4. Sort the “DataFox Country” field A → Z, to populate multiple opportunities with of the same territories and populate.
+5. Since many opportunities and accounts are missing the Datafox country fields, use "ZoomInfo Country" and "Billing Country" Fields and repeat the above process to populate.
+6. There may be multiple opportunities and accounts without any billing information. However, some may have Zip codes populated, which we can do a quick google search to find the territory and map to the corresponding AE. 
+7. If there is no Datafox, ZI, or billing information on the account or opportunity of the company, look up the company by name or by contact information and perform a google search on the account to populate as much information as possible. If no information is found, tag billing ops to obtain the billing or zuora address information to populate the billing fields on the account. 
+8. Repeat this process for each Market Segment (SMB/MM/Large) making sure each Territory is correct.
+9. Clear out the TSP Date, and next TSP owner fields to avoid reassignment.
+10. Double check to make sure all opportunities are populated. 
+11. Prepare the upload sheet and update using dataloader. There will need to be 2 uploads for Hard fixes: One for Opportunities, and One for accounts. 
+
+Things to remember 
+1. Remember to check the order type of the opportunity. Many accounts have First Order Account Executives so make sure to assign the opportunities to the correct owner.
+2. Double check opportunities closed over $2,500 that are populated for SMB. Make sure to check the account information is correct and not wrongly assigned. 
+3. Make sure to clear the TSP Date and TSP owner fields to avoid reassignment to other Account Executives after the weekly update.
+4. Upload the accounts and opportunities in small batch sizes on dataloader to avoid errors. 
+
 
 ### ISR Alignment Dashboard Updates - Operators Guide
 Coming soon. Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
