@@ -67,6 +67,9 @@ To access Zoominfo training sessions specific for GitLab follow [this link](http
 To access additional Zoominfo on-demand training follow [this link](https://university.zoominfo.com/pages/on-demand-training).
 
 ### Credits
+
+ZoomInfo credits represent the consumption (export) of a professional or company profile from the ZoomInfo platform. This export can originate from the primary ZoomInfo platform, the ReachOut Chrome Extension, or any time an API call is made from any number of our integrations, including CRMs, marketing automation platforms, and sales automation tools. 
+
 -   **Users** -  Monthly credits are set at 1,000 and bulk credits are set at 2,000. 
 Each user has 1,000 monthly credits to use for prospecting. A credit is consumed any time a user exports a contact or company out of the platform. These credits reset on the first of each month. When a user pushes "export" it should automatically pull from the monthly credits until a user has utilized all 1,000 of their monthly credits. After those monthly credits are consumed you are then able to use the bulk credits. Bulk credits are adjustable. Monthly credits are not. A user also has 2,000 views in which they can use to click on a contact and view/unlock the contact information.
 -   **Accounts** - Max number of accounts a user can export to SFDC is set to 100.
@@ -74,6 +77,7 @@ Each user has 1,000 monthly credits to use for prospecting. A credit is consumed
 -   **Leads** - Max number of leads a user can export to SFDC is set at 1,000. This ensures that the user will not max out their monthly allotment in one export.
 -   **Bulk requests** If a bulk download is needed for a campaign, please open an [issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) for the marketing operations project. Admins have unlimited credits to be able to export bulk lists or a temporary lift can be made for individual users.
 -   **Reporting bad leads** - If a lead is found to be incorrect the user can submit a `Suggest Contact Update` and the research team will usually update it within 1-2 business days. When the lead is updated the user can manually append it or re-push the prospect into SFDC without expending a credit (for two months while it's "under management").
+-   **API Credits**- Leads, Contacts & Accounts are being enriched [as detailed below](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/#sfdc-account-enrichment) and an API Credit is used everytime the webhook is called (1 per lead/contac/account), regardless of how many fields, on that particlar record, are updated.
 
 ### Field Mappings
 All current field mappings are documented [here](https://docs.google.com/spreadsheets/d/1lZ2BgNER_OYR5jjYDHreCMRbpODQbprUpGKVRD5TMnY/edit#gid=504148174). 
