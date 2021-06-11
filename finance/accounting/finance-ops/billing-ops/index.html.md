@@ -226,14 +226,15 @@ Where does GitLab currently charge tax on sales?
 </summary>
 
 **Locations Include the following:**
-* US > US (depending on nexus)
-* DE > DE
-* NL > NL
-* UK > UK
-* AU > AU
-* US > Canada (only Quebec and British Columbia)
-* US > South Africa
-* US > Russian Federation
+
+- US > US (depending on nexus)
+- DE > DE
+- NL > NL
+- UK > UK
+- AU > AU
+- US > Canada (only Quebec and British Columbia)
+- US > South Africa
+- US > Russian Federation
 
 Internal Resource: [VAT & Sales Tax Information & Resources](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/VAT%20&%20Sales%20Tax%20Information%20&%20Resources)
 
