@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "CI/CD Campaign Overview"
+title: "CI/CD Campaign"
 description: "Everything you need to know about the CI/CD campaign."
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
