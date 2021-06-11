@@ -456,12 +456,12 @@ GitLab is a complete DevOps platform. Our customers get the most value out of th
 As PMs, in addition to driving usage of individual features, we should also proactively think about how to design product and user experiences to help users adopt more stages and features, therefore benefiting more from using GitLab.
 
 ``` mermaid
-graph LR;
+graph TD;
     id1(Create - 98%) --> id2(Plan - 56%)
     id3(Verify - 88%) --> id4(Secure - 15%)
     id1 --> id5(Manage - 48%)
-    id1 ==> id3(Verify - 88%)
-    id3 ==> id6(Release - 50%)
+    id1 ==> |Golden Journey|id3(Verify - 88%)
+    id3 ==> |Golden Journey|id6(Release - 50%)
     id3 --> id7(Package - 7%)
     id6 --> id9(Monitor - 9%)
     id6 --> id10(Configure - 2%)
