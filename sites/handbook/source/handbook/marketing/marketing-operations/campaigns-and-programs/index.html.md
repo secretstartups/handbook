@@ -116,25 +116,6 @@ This is used for campaigns that can either be organised through a 3rd party vend
 | No Show | Registered, but did not attend the event |  |
 | Attended | Attended the Event | Yes |
 
-#### Field Event
-
-This is an event run by Field Marketing that we have paid to participate in (Demand generation events that the field team typically does (Ex. stand alone dinners, ballgames, etc).) 
-
-**Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of attendees post-event.
-
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Sales Invited | Invitation/Information about event sent by Sales/SDR |  |
-| Sales Nominated | Sales indicated record to receive triggered event email sent by Marketing |  |
-| Marketing Invited | Marketing geo-targeted email |  |
-| Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
-| Registered | Registered for event |  |
-| No Show | Registered but did not attend event |  |
-| Attended | Attended event |  |
-| Visited Booth | Stopped by booth for any reason | Yes |
-| Follow Up Requested | Requested to be followed up with by sales post event | Yes |
-
 #### Gated Content
 
 White Paper or other content offer.
