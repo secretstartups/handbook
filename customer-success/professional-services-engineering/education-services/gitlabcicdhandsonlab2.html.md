@@ -8,7 +8,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ## LAB 2: CREATE A PROJECT WITH A `.gitlab-ci.yml` FILE AND REGISTER A RUNNER
 
-This lab works best when Docker is installed on the attendee's computer. If they can't install Docker, they can install a runner with a **shell** executor instead of the **docker** executor, but this has a higher fail rate. 
+This lab will use Shell as the executor for the runner install unless you have another executor installed on your PC.
 
 If attendees have problems with permissions, firewalls, etc., they should use a shared runner from **Settings > CI/CD > Runners**.
 
@@ -26,7 +26,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. In the top navigation bar, click **Groups > Your Groups**.
 1. Expand the arrow to the left of **Training Users**. Within that group, expand the arrow to the left of your session's group. Within your session's group, open the group called **My Test Group - \<USERNAME\>**
 1. Click the blue **New project** button. Click **Create blank project**.
-1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select `training-users/session-<SESSION>/<USERNAME>` to create your project within this group's namespace and not your user's top-level namespace.
+1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, ensure `<USERNAME>-group` is visible to ensure you are within your group's namespace and not your user's top-level namespace.
 1. Optionally include a few notes in the **Project description** field.
 1. Under **Visibility Level**, click the radio button for **Private**.
 1. Enable the **Initialize repository with a README** checkbox. <br/>Note: If you do not initialize your repository with a README, you will create a "bare" Git repo that will be difficult to work with in GitLab until you push files to it from a local repository.
@@ -43,8 +43,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. In the terminal, paste the registration token when prompted.
 1. When prompted for the runner's description, press `enter` to accept the default.
 1. When prompted for the runner's tags, press `enter` to assign it no tags.
-1. When prompted for the executor, enter `docker`
-1. When prompted for the default Docker image, enter `alpine:latest`
+1. When prompted for the executor, enter `shell`
 1. You should see a message saying that your runner has registered successfully! Run `gitlab-runner list` to see a list of all registered runners, including the one you just registered.
 
 ### Add a `.gitlab-ci.yml` file 
