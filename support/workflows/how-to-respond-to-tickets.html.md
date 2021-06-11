@@ -202,7 +202,7 @@ with the wrong advice, or you were unaware of a particular aspect of a ticket th
 was pointed out to you later on for example.
 
 Regardless of the situation, if you make a mistake, take ownership of it and learn
-from it. After all, [transparency is only a value if you do it when it is hard](/handbook/values/#transparency-is-only-a-value-if-you-do-it-when-it-is-hard).
+from it. Remember our [transparency](/handbook/values/#transparency) value.
 While the immediate situation might be less than desirable, once you resolve the
 situation it can be very empowering. If you don't know how to resolve the situation,
 don't be afraid to ask for help, everyone is here to assist. When you follow up
