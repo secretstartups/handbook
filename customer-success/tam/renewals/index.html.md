@@ -14,7 +14,6 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 Link to [Commercial Renewal Process](/handbook/customer-success/comm-sales/renewals/)
 
 
-
 A key part of the customer relationship lifecycle is the renewal phase. TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) or Account Executive (AE) to ensure that a customer renewal takes place.
 
 ## Timeframe
@@ -70,7 +69,6 @@ For greater predictability across the customer base for renewal, upselling, down
 To learn the full process, watch the TO BE CREATED VIDEO****************
 
 
-
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 ### Fields
@@ -78,7 +76,6 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 ##### Account Health
 
 When a TAM considers an account at-risk, they should set the Account's `TAM Sentiment` to **red**. From there, the TAM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
-
 
 ##### Risk Type
 * **Customer Churn** - fully churn the account
@@ -95,25 +92,11 @@ When a TAM considers an account at-risk, they should set the Account's `TAM Sent
 * **Corporate Decision** - Due to management decision or policy, the prospect or customer chose a different product but not because of product gaps, adoption, etc. This would be a top-down decision (e.g., ELA, decision to commit to a single provider)
 * **Other** - other company issues that contribute to a blocker for the renewal
 
+### Manually Creating At-Risk CTA
 
-##### TAM Notes
-This is where the TAM can enter notes on this specific opportunity and will be saved to the Opportunity record.
-
-### Manually Creating the Renewal CTA
-
-Manually creating the Renewal CTA is slightly nuanced from a regular CTA. 
-
-**Normal CTA creation steps**
+**CTA creation steps**
 1. In the Cockpit, click **+ CTA**
-1. Title it (e.g., "Renewal")
-1. Under Type select "Renewal"
-1. Under Reason select "Upcoming Renewal"
-1. Under Playbook select "Upcoming Renewal"
-
-**Required steps to attach CTA to Opp**
-1. Click on the CTA, then next to "Call to Action" click on the "1"
-1. Select "Gainsight Opportunity" on the dropdown
-1. Click "LINK TO AN EXISTING" (Opportunity)
-1. Type in the name of the opportunity and click to attach the Salesforce Opp to the Renewal CTA
-   1. NOTE: if you have multiple options, on the C360 scroll down to **Opportunities** to find the correct one 
-1. Follow the [instructions above](#tracking-renewal-opportunity-health-and-risks)
+1. Title it (e.g., "At-Risk CTA")
+1. Under Type select "Risk"
+1. Under Reason select the appropriate reason (See reason codes above)
+1. Under Playbook select "Account Triage"
