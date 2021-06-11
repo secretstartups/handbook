@@ -93,7 +93,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Use Case:** 
 * **Primary Persona:** 
 * **Language:** 
-* **Campaign Tag:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
+* **Marketo Program Name:** `YYYY_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_BegGuideGitOps`. This will be used for MKTO/SFDC program. -->
 * [ ] ~~[main salesforce program]()~~
 * [ ] ~~[main marketo campaign]()~~
 * [ ] [asset copy draft]() - `doc to be added by Content Marketing`
@@ -170,7 +170,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Persona:** 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
-* **Campaign Tag:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
+* **Marketo program name:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
 * [ ] ~~[main salesforce program]()~~
 * [ ] ~~[main marketo campaign]()~~
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
@@ -239,7 +239,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 * **Primary Persona:** 
 * **Language:** 
 * **Budget:** <!-- Match to Allocadia -->
-* **Campaign Tag:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
+* **Marketo Program Name:** `YYYY_Vendor_NameAsset` <!-- as content owner, you make this up. Follow structure, no spaces, keep it short - i.e. `2020_Gartner_MQARO`. This will be used for MKTO/SFDC program. -->
 * [ ] [main salesforce program]()
 * [ ] [main marketo campaign]()
 * [ ] [pathfactory track link]() - `link to PF track (the track in PF, not the live link) when created`
@@ -282,8 +282,10 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 * [Add content to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) - Content Owner 
 * [Create track in Pathfactory](/handbook/marketing/marketing-operations/pathfactory/#create-a-content-track) - Content Owner
-   - If part of Prescriptive Buyer Journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Content Owner / Campaign Owner `@jgragnola to consider this step... should it be campaigns, or can content owner help with this?`
+   - If part of GTM Motion Campaign prescriptive buyer journey - [more streamlined process](/handbook/marketing/marketing-operations/pathfactory/#pbj-content-tracks) - Campaign Manager
 * [Add form strategy to track in Pathfactory](https://about.gitlab.com/handbook/marketing/marketing-operations/pathfactory/#form-strategy) - Campaign Manager
+   - Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
+   - The content owner must provide 1-3 related assets for the track, or request Product Marketing to recommend content.
 * TO BE CONSIDERED: Create program in Marketo/SFDC
    - `Note to Self @jgragnola: is it necessary to add to program? or could we use whatever would have triggered them in as a filter to hold them back from emails? Is there merit to this? Second way of testing tracking? Historical knowledge in case we ever move off of PF?`
 * TO BE CONSIDERED: Activate automation in Marketo to track content program membership (not for touchpionts, just to enable automation filters)
@@ -292,8 +294,7 @@ As a guide in developing timeline, please view the workback timeline calculator 
 
 * **[Handbook instructions for uploading to Pathfactory](/handbook/marketing/marketing-operations/pathfactory/content-library/#before-uploading-content) 
 * Notes/reminders for ungated journey:
-   * Form strategy is required for all content tracks used in demand generation campaigns (located in PathFactory track issue)
-   * The content owner must provide 1-3 related assets for the track or request Product Marketing to recommend content.
+
    * [Process for adding to /resource page](/handbook/marketing/demand-generation/campaigns/content-in-campaigns#add-to-resources-page) remains the same, but in ungated journey, the URL drives to the PF asset/track (not a landing page)
    * PathFactory URL/UTM [details](/handbook/marketing/marketing-operations/pathfactory/#appending-utms-to-pathfactory-links)
    * PathFactory [form strategy](/handbook/marketing/marketing-operations/pathfactory/#form-strategy)
