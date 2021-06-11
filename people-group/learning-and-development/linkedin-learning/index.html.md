@@ -60,7 +60,7 @@ No problem! The goal of this initiative is to combine learning with something th
 
 ## Recommended Learning Paths
 
-We have outlined recommended LinkedIn Learning paths for different roles at GitLab. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
+We have outlined recommended LinkedIn Learning paths for different roles at GitLab. We also have a [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) channel in GitLab Learn to showcase popular and recommended courses among GitLab Team Members. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
 - [Confronting Bias: Thriving Across our Differences](https://gitlab.edcast.com/insights/ECL-393c827e-4175-46e2-bdfb-768c7cb49f27)
