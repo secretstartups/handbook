@@ -9,6 +9,8 @@ title: "Billing Operations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## Welcome to the Billing Ops Handbook
 
 ### Charter
