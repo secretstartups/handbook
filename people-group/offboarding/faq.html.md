@@ -12,27 +12,29 @@ description: "Common Questions about the Offboarding Process"
 
 ### Timing
 
-##### When will my offboarding issue be created?
+#### When will my offboarding issue be created?
 
 It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at either 5 pm your local time or 12 pm PST, whichever comes first. 
 
-##### Is there anything I need to do to get my offboarding issue created?
+#### Is there anything I need to do to get my offboarding issue created?
 
 No, there is nothing you need to action. The People Experience Associate handling your offboarding will be responsible. 
 
-##### When will my access be deactivated? 
+#### When will my access be deactivated? 
 
 Your access will be deactivated on your last day, when the offboarding issue is created. 
 
-##### Can I provide my own update in the Team Member Updates Slack Channel?
+#### Can I provide my own update in the Team Member Updates Slack Channel?
 
 Departing team members are encouraged to work with their Manager to compile and release an announcement in the #team-member-updates channel.  This should only take place once there is complete alignment with your leadership around the timelines involved and the impacted team/stakeholders have been informed.
 
 A guideline and template for managers has been provided in the [Communicating Departures Company-Wide](https://about.gitlab.com/handbook/people-group/offboarding/#communicating-departures-company-wide) section of the Offboarding Guidelines which highlights options to add a little color to the announcement e.g. favourite contribution to the handbook in addition to outlining what [information should and should not](https://about.gitlab.com/handbook/people-group/offboarding/#what-do-we-share).
 
+#### When will I recieve access to the Slack Channel `#gitlab-alumni`?
 
+If you are [eligible]((/handbook/people-group/offboarding/#gitlab-alumni-program) for the Alumni channel, the People Experience team will submit a Access Request during the offboarding process. A team member will recieve an email within 3 business days after offboarding. 
 
-##### Is there anything I need to do before my last day?
+#### Is there anything I need to do before my last day?
 
 The following can be used as a guide on what actions could need to be taken before your last day:
 
@@ -50,56 +52,56 @@ The following can be used as a guide on what actions could need to be taken befo
 
 ### IT Ops - Laptops
 
-##### Do I need to wipe my laptop?
+#### Do I need to wipe my laptop?
 
 A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
 
-##### Can I purchase my laptop from GitLab?
+#### Can I purchase my laptop from GitLab?
 
 IT Ops will contact you after your last day to determine if this is a possibility.
 
 ### Compensation 
 
-##### When will I receive my final pay?
+#### When will I receive my final pay?
 
 This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com`. 
 
-##### When will I receive (if applicable) commissions payment(s)?
+#### When will I receive (if applicable) commissions payment(s)?
 
 Any final commissions earned up until your last working day will be paid (directly deposited) at the end of the next month. Commissions are paid one month in arrears, so for example, if your last day is January 7, any January commissions would be paid at the end of February. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
 
-##### When do I submit my final reimbursable expenses?
+#### When do I submit my final reimbursable expenses?
 
 Please create your final expense report to Expensify (for employees), OR, please file any outstanding expenses with your final invoice (for contractors), so these can be reimbursed to you in a timely manner. We ask that you submit these at least one week before your departure date.
 
-##### How do I submit reimbursable expenses if I don’t have a GitLab access to Expensify?
+#### How do I submit reimbursable expenses if I don’t have a GitLab access to Expensify?
 
 Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
 
 ### Total Rewards - Benefits 
 
-##### When will my benefits coverage end?
+#### When will my benefits coverage end?
 
 Typically, benefits coverage ends at the end of the month during which you leave.
 
-##### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure? 
+#### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure? 
 
 
 All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
 
-#### USA
+### USA
 
 If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-exp@ gitlab.com` so that we can keep your address up to date in BambooHR.
 
-##### How do I roll over my retirement account and funds?
+#### How do I roll over my retirement account and funds?
 
 Contact our 401(k) administrative vendor directly to get more information about this process. More information can be found on the [401(k)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-plan) section and [401(k) Rollover](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-rollover) section of the US Benefits handbook page.
 
-##### What about my FSA Account(s)?
+#### What about my FSA Account(s)?
 
 All information on FSA accounts is in the [Discovery Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#wex-discovery-benefits-health-savings-accounts-and-flexible-spending-accounts) section of the US Benefits handbook page.
 
-#### Canada
+### Canada
 
 If you are a Canada-based team member, your benefits will cease on your last day of work.
 
@@ -114,7 +116,7 @@ If there are any issues that they cannot help with, please contact the Total Rew
 
 ### Other
 
-##### What if I move?
+#### What if I move?
 
 If you move, please email `people-exp@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR. 
 
