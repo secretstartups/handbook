@@ -119,25 +119,28 @@ See also: [Zendesk](https://about.gitlab.com/handbook/marketing/community-relati
 1. Click "Manage Purchases"
 1. Click "Download License"
 
-If you still can’t access your license, please create a support issue [here](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions).
+> If you still can’t access your license, please create a support issue [here](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions).
 
 </details>
+
 <details>
 <summary markdown='span'>
  How can I make a payment?
 </summary>
 
 Current payment methods available include:
-* ACH
-* Wire
-* Check (US Only)
-* Credit Card
+
+- ACH
+- Wire
+- Check (US Only)
+- Credit Card
 
 Additional payment instructions are also available on your invoice under `bank information`.
 
 To make payment via credit card, please log into your account https://customers.gitlab.com, select “Payment Methods”, then “Add New Payment Method”.
 
 </details>
+
 <details>
 <summary markdown='span'>
 Connect with GitLab via 3rd Party Billing Portal
@@ -150,9 +153,10 @@ Customer billing portals are used for PO receipt and submission of invoices bill
 When a customer advises you that they will need to be connected with GitLab via a 3rd party billing portal, please submit a request to `AR@GitLab.com`. This will allow the Billing Operations Team to confirm if a portal registration already exists.
 
 **Some of our 3rd Party Portals Include:**
-* SAP Ariba - Please send a Trade Relationship Request (TRR) to GitLab ANID: AN01024039298 at `AR@gitlab.com`
-* Coupa Supplier Portal - Please send a connection request to `AR@gitlab.com`
-* Taulia - Please send a connection request to `AR@gitlab.com`
+
+- SAP Ariba - Please send a Trade Relationship Request (TRR) to GitLab ANID: AN01024039298 at `AR@gitlab.com`
+- Coupa Supplier Portal - Please send a connection request to `AR@gitlab.com`
+- Taulia - Please send a connection request to `AR@gitlab.com`
 
 Internal Team Members, please see [Customer Billing Portal Instructions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Customer%20Billing%20Portal%20Instructions) for additional information and resources! 
 
@@ -161,6 +165,7 @@ Internal Team Members, please see [Customer Billing Portal Instructions](https:/
 ## Billing FAQ
 
 <details>
+
 <summary markdown='span'>
 Can we bill an invoice in a currency other than USD?
 </summary>
@@ -168,6 +173,7 @@ Can we bill an invoice in a currency other than USD?
 GitLab bills in USD only, without exception.
 
 </details>
+
 <details>
 <summary markdown='span'>
 What if my customer wants to short pay by foreign withholding tax?
@@ -177,7 +183,7 @@ All applicable fees are due and payable as per our terms of service.
 
 Section 6. PAYMENT OF FEES, article 6.7 in our standard terms of service. 
 
-6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
+>6.7 Any unpaid Fees are subject to a finance charge of one percent (1.0%) per month, or the maximum permitted by law, whichever is lower, plus all expenses of collection, including reasonable attorneys’ fees. Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. **In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.**
 
 You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/handbook/legal/subscription-agreement/)
 
@@ -191,6 +197,7 @@ You can view our GitLab Subscription Agreement [here](https://about.gitlab.com/h
 Currently all web-direct (portal) purchases are billed from our GitLab, Inc. (US) entity.
 
 </details>
+
 <details>
 <summary markdown='span'>
 Can we update invoices manually?
@@ -199,6 +206,7 @@ Can we update invoices manually?
 Manual (pro-forma) invoice modifications have to be approved through the Legal Team. Please ensure that you have proper approvals prior to requesting invoice modifications from the billing team. 
 
 </details>
+
 <details>
 <summary markdown='span'>
 How can the sales team know if an invoice has been paid?
@@ -211,6 +219,7 @@ The billing account will provide all invoice and payment information available f
 Internal Resource: [How Can Sales View Invoices & Payment Info in SFDC](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/How%20Can%20Sales%20View%20Invoices%20&%20Payment%20Info%20in%20SFDC)
 
 </details>
+
 <details>
 <summary markdown='span'>
 Where does GitLab currently charge tax on sales?
