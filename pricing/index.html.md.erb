@@ -190,7 +190,7 @@ The following are our current set of capabilities:
 
 <% tier_names = ['Premium','Ultimate'] %>
 <% tier_names.each do |tier_name| %>
-<%= "### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
+<%= "##### #{tier_name}" + ( tier_name != tier_names.first() ? " (all above AND)" : "") %>:
   <% data.pricing_themes.select{|theme| theme.tier == tier_name}.each do |theme| %>
 <%= "1. #{theme.name} " %>
   <% end %>
