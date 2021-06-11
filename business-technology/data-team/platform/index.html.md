@@ -302,7 +302,7 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
-| `grafana`.           | This is exclusively for Grafana to use                                                          | 60                  |
+| `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
 | `merge_request_*`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
