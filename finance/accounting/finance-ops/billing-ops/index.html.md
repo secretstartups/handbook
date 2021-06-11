@@ -32,7 +32,7 @@ Please see the internal [Wiki](https://gitlab.com/gitlab-com/Finance-Division/fi
 
 _The Billing Team works closely with Sales, Deal Desk, Accounts Receivable, and Revenue Operations._
 
-### :link: Helpful Links
+### Helpful Links
 
 * [How to create an opportunity/build a quote? ](/handbook/sales/field-operations/sales-operations/deal-desk/)
 * [Order requirements](/handbook/business-ops/order-processing/#step-8--submitting-an-opportunity-for-deal-desk-approval)
