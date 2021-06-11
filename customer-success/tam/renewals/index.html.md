@@ -69,6 +69,28 @@ For greater predictability across the customer base for renewal, upselling, down
 To learn the full process, watch the TO BE CREATED VIDEO****************
 
 
+### At-Risk Process
+
+![image](/images/)
+
+
+When a TAM has determined an account is red, then:
+
+1. TAM will log Timeline, marking TAM Sentiment as Red
+1. Create CTA:
+   1. TAM will create a Risk CTA to track the high level risks, OR
+   1. Gainsight will auto create CTA overnight for the TAM
+1. CTA: TAM to update Risk Type and Risk Reason dropdown fields
+1. Monthly: TAM logs Timeline update
+1. Upon completion:
+   1. Win customer back:
+      1. Log Timeline update for TAM Sentiment as Green
+      1. Close out CTA with success criteria (Closed-Won, win reasons)
+   1. Lost customer:
+      1. Log Timeline update with update
+      1. Change customer Lifecycle Stage to Will Churn
+      1. Close out CTA with success criteria (Closed-Lost, loss reasons)
+
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
 
 ### Fields
