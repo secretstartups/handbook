@@ -279,15 +279,17 @@ GitLab employees can access the discount table [here](https://gitlab.my.salesfor
 
 *   **Services Resale** - Partners can earn discounts on partner-sold services delivered by the GitLab Professional Services team. Partners qualify for a program discount on services resale if the services are included on the order of a deal registered opportunity.
 
-*   **Subscription Renewals** - At the end of their GitLab license subscription, customers must renew to continue their subscription. For customers whose most recent GitLab purchase was through a reseller partner, the incumbent reseller can earn a discount on the resale based on their program track, unless 1) the incumbent partner is no longer in compliance or 2) the customer provides a written request to GitLab to renew with a different partner.  A deal registration on the original opportunity is not required for a partner to earn incumbent status.
+*   **Subscription Renewals** - At the end of their GitLab license subscription, customers must renew to continue their subscription. At renewal, partner can earn a renewal discount for licenses renewed at the same subscription level.  If a customer adds additional licenses, those new licenses are discounted at the standard Partner Sourced / Assist discount levels.  If a customer upgrades their subscription (e.g. Premium to Ultimate), the entire deal qualifies for the standard Partner Sources / assist discounts.
 
-In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal.  GitLab has a significant install base of these customers with a high propensity for up/cross-sell and services opportunities. Partners are encouraged to engage with these customers but for now, the first renewal of a formerly direct customer will not be discounted for partners.  However, these new customers will create additional opportunities for growth through:  
+    For customers whose most recent GitLab purchase was through a reseller partner, the incumbent reseller can earn a discount on the resale based on their program track, unless 1) the incumbent partner is no longer in compliance or 2) the customer provides a written request to GitLab to renew with a different partner.  A deal registration on the original opportunity is not required for a partner to earn incumbent status.
 
-    *   Upsell and expansion opportunities
-    *   New integration, operational and other professional services opportunities
-    *   The sale and integration of GitLab technology partner solutions
-    *   Add-on sales of other non-GitLab products
-    *   Subscription renewal discounts on future renewals
+    In some cases, a customer purchased their most recent subscription directly from GitLab, but is directed to a partner for renewal.  GitLab has a significant install base of these customers with a high propensity for up/cross-sell and services opportunities. Partners are encouraged to engage with these customers but for now, the first renewal of a formerly direct customer will not be discounted for partners.  However, these new customers will create additional opportunities for growth through:  
+
+     *   Upsell and expansion opportunities
+     *   New integration, operational and other professional services opportunities
+     *   The sale and integration of GitLab technology partner solutions
+     *   Add-on sales of other non-GitLab products
+     *   Subscription renewal discounts on future renewals
 
 
 
