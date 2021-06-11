@@ -232,7 +232,9 @@ When a partner submits a Deal Registration, the Managed Services team will handl
 The Managed Services team will evaluate the Registration, link it to the appropriate Customer account and contact in SFDC, and then send an email to the applicable Channel Manager to approve/deny the registration.
 
 ### Deal Registration Instructions/How to Manage a Deal Registration
-The Channel Managers need to review the deal registration and either approve or deny. It is highly recommended to work with the applicable GitLab Sales Rep prior to taking action.
+The Channel Managers need to review the deal registration and either approve or deny. It is highly recommended to work with the applicable GitLab Sales Rep prior to taking action. 
+
+**The SLA for GitLab to respond to partners on a deal registration is 48 hours. There must be contact with the registering partner within 48 hours, whether it be approval, denial, or a request for more information.**
 
 While multiple partners can submit a deal registration for an opportunity, only one deal registration can be approved for a specific opportunity. As a reminder, deal registrations are opportunity based and partners cannot register an account.
 
@@ -565,7 +567,7 @@ The following price files are provided by Channel Ops:
 
 ### Locating and Sharing Channel Price Files
 
-Price Files can be found [in this folder](https://drive.google.com/drive/folders/1UCNH77wTF4eCiCeAQHqDItkCGITl534D?usp=sharing)).
+Price Files can be found [in this folder](https://drive.google.com/drive/folders/1UCNH77wTF4eCiCeAQHqDItkCGITl534D?usp=sharing).
 
 When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or attach a downloaded copy to an email to a partner. No partners should be given access to this folder. Only Channel Managers should be sharing Channel Price Files. 
 
