@@ -67,7 +67,7 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
 * [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
-* [Instructional Designer](/job-families/people-ops/instructional-designer/): Role to be filled
+* [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://gitlab.com/IrinaGrosu)
 * [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): Role to be filled
 
 ## FY22 Learning and Development Calendar 
