@@ -549,7 +549,7 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 ## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
 
-A Data Spigot is a concept/methodology to give external systems access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
+A Data Spigot is a concept/methodology to give external systems, access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
 - A dedicated service account.
 - A dedicated view (or views) only exposing the minimum required data. No Personally Identifiable Information (PII) may be disclosed.
 - A dedicated role (or equivalent) with access to only the specified tables/views.
