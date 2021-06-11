@@ -4,17 +4,18 @@ title: Inside Sales
 description: >-
   The Inside Sales department is part of the GitLab Sales function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
 ---
-The Inside Sales department is part of the [GitLab Sales](/handbook/sales) function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
-
-The Enterprise Inside Sales team can be reached in [Slack channel](https://gitlab.slack.com/archives/C01P39947ND) (internal only).
-
-The Public Sector Inside Sales team can be reach in [Slack channel](https://gitlab.slack.com/archives/CNAMWG9N3) (internal only).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+
+The Inside Sales department is part of the [GitLab Sales](/handbook/sales) function who partners with the sales and customer success teams to deliver maximum value to GitLab customers throughout their journey with GitLab.
+
+The Enterprise Inside Sales team can be reached in [Slack channel](https://gitlab.slack.com/archives/C01P39947ND) (internal only).
+
+The Public Sector Inside Sales team can be reach in [Slack channel](https://gitlab.slack.com/archives/CNAMWG9N3) (internal only).
 
 ## Mission Statement
 To deliver value to all customers by supporting the sales team with new, renewals, expansion, quoting, and account management. 
