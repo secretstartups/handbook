@@ -547,6 +547,22 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 
 **Step 3:** Create an [integration issue in the integrations project](https://gitlab.com/gitlab-com/business-ops/enterprise-apps/integrations/integrations-work/-/issues/new) using the 'New Data Pump' issue template so that the Integration team can map and integrate the data into the target application.
 
+## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
+
+A Data Spigot is a concept/methodology to give external systems access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
+- A dedicated service account.
+- A dedicated view (or views) only exposing the minimum required data. No Personally Identifiable Information (PII) may be disclosed.
+- A dedicated role (or equivalent) with access to only the specified tables/views.
+- A dedicated XS warehouse to limit and monitor costs.
+
+The process for setting up a new Data Spigot is as follows:
+1. Comply to the controls that are in place, as described above.
+2. Add new Data Spigots to the table below:
+
+| Connected system | Data scope | Database views | 
+| ---------------- | ---------- | ------------- |
+| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` |
+
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 
 We use [Sisense](https://www.periscopedata.com) as our Data Visualization and Business Intelligence tool. To request access, please follow submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=New_Access_Request).
