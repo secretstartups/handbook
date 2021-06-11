@@ -40,6 +40,7 @@ For more information on Attorney-Client Privilege, see the [General Legal FAQs](
 
 ## Helpful Resources 
 
+* Compliance trainings for team members are prvided by GitLab Legal via [GitLab Learn](https://gitlab.edcast.com/) and [Navex](https://lms.navexglobal.com/topclass5/).
 * [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 * [Requirements for Closing Deals](https://about.gitlab.com/handbook/business-ops/order-processing/#step-7--submitting-an-opportunity-for-approval) - requirements for closing sales deals
 * [Terms](https://about.gitlab.com/terms/) - legal terms governing the use of GitLab's website, products, and services
