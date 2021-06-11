@@ -15,7 +15,9 @@ description: "Effective discovery is critical to thoroughly understanding custom
 # Overview 
 Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcast to improve your discovery effectiveness.
 
-# Qualification
+![discovery-components-visual](/handbook/sales/playbook/discovery/discovery-components-visual.png)
+
+## Qualification
 The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**. 
 
 Ideally, effective qualification also includes identification of the prospect's: 
@@ -24,13 +26,13 @@ Ideally, effective qualification also includes identification of the prospect's:
 - Future growth potential ([Landed Addressable Market (LAM)](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam)), and 
 - Preference for [SaaS or Self-Managed](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/)
 
-# Understand Value Points
+## Understand Value Points
 The second phase of discovery uses an iterative insight/question loop, often across multiple meetings or conversations, to uncover the prospect’s underlying challenges and motivations, with the ultimate goal of constructing a highly relevant and differentiated value message that ties the GitLab solution to the prospect’s business needs.
 
-## Preparation
+### Preparation
 Ensure you are ready for each discussion. The level of preparation for each discovery conversation will vary, so use your best judgment for how deep you go and be sure to leverage the information that has already been collected during Prospecting and Qualification. The key point is to be prepared and to not just wing it. Consider the below recommendations.
 
-### Research the Prospect
+#### Research the Prospect
 Researching your prospect may include but is not limited to:
 - Annual reports and/or financial statements
 - Account activity/engagement history in Salesforce
@@ -38,12 +40,12 @@ Researching your prospect may include but is not limited to:
 - Research your contact(s) on LinkedIn, Twitter, and/or other social media platforms
 - Insights gleaned from partners that already have relationships with the account
 
-### Understand the Persona
+#### Understand the Persona
 Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging. 
 - [Buyer personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 - [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
 
-### Develop a Pre-Call Plan
+#### Develop a Pre-Call Plan
 As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing)) job aid, be sure to consider the below questions.
 - What is your desired outcome for this conversation or meeting? What do you think the prospect's desired outcome is?
 - What information do you need to gather to achieve your objective(s)? What discovery questions will you ask, how, and in what sequence? As outlined above, this iterative insight/question loop will often span across multiple meetings or conversations.
@@ -55,22 +57,22 @@ As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoD
 - What are some potentially relevant success stories (e.g. same industry, geo, anticipated pain points, etc.) and other proof points (e.g. favorable analyst report) that you may want to reference or highlight to build interest and credibility?
 - What questions or objections do you anticipate the prospect may have? If those indeed come up, are you ready to respond?
 
-## Seek to Understand 
+### Seek to Understand 
 
-### Approach With Curiosity
+#### Approach With Curiosity
 Approach discovery conversations with a curiosity-led mindset and a desire to better understand the customer’s challenges as well as the _implications_ of those challenges.
 - How big is the problem?
 - How does this impact higher-level goals and objectives?
 - How does this challenge impact the person(s) with whom you are talking?
 - Who else in the organization does this challenge impact and how?
 
-### TED
+#### TED
 Leverage the TED questioning model (see below) to get the prospect to open up and provide more context and detail about their challenges.
 - T: **Tell** me more about...
 - E: Can you please **explain** the impact of...?
 - D: Will you please **describe** how others are affected by...?
 
-### Five Whys
+#### Five Whys
 Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
 
 <!-- blank line -->
@@ -79,7 +81,7 @@ Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techn
 </figure>
 <!-- blank line -->
 
-### Active Listening
+#### Active Listening
 Commit to [active and effective listening](/handbook/communication/#effective-listening). Watch the video, listen to the podcasts, and check out the [Why Your Active Listening Skills Are Crucial to Hitting Your Number](https://www.forcemanagement.com/seller-blog/why-your-active-listening-skills-are-crucial-to-hitting-your-number) blog.
 
 <!-- blank line -->
@@ -88,12 +90,12 @@ Commit to [active and effective listening](/handbook/communication/#effective-li
 </figure>
 <!-- blank line -->
 
-### Master [Command of the Message](/handbook/sales/command-of-the-message)
+#### Master [Command of the Message](/handbook/sales/command-of-the-message)
 Command of the Message is a proven, value-based sales messaging methodology from Force Management that allows GitLab sales team members to effectively uncover customer needs and articulate value and differentiation. Leverage the below resources to ensure you are confident in the methodology and the GitLab-tailored sales resources created to help you be successful and delight your customers.
 - [Command of the Message Handbook page](/handbook/sales/command-of-the-message)
 - [Command of the Message e-learning module](https://gitlab.edcast.com/insights/ECL-20f0f2ac-0d50-4384-b473-63cc6d3bb48d) (90 minutes) (GitLab internal with protected IP from Force Management)
 
-# Identify the Buying Process
+## Identify the Buying Process
 The final phase of discovery identifies the roadmap, along with potential roadblocks, for getting a deal closed as well as key stakeholders who must be involved. Discovery will continue throughout the sales process as you and your account team continue to gain a deeper understanding of all elements of [MEDDPPICC](/handbook/sales/meddppicc/) to increase the likelihood of earning the customer's business.
 - Leverage [Customer Decision-based discovery questions](https://about.gitlab.com/handbook/sales/qualification-questions/#customer-decision) to gain a better understanding of the [Decision Process](/handbook/sales/meddppicc/#decision-process), [Decision Criteria](/handbook/sales/meddppicc/#decision-criteria), [Paper Process](/handbook/sales/meddppicc/#paper-process), and more 
 - Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
