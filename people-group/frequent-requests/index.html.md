@@ -36,6 +36,8 @@ The Letter includes the following data points from BambooHR;
 
 If you are a GitLab GmbH employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfiFggqUAA12U_9NV52BLIuuOi7x7oBznIP2iaCcMQYcM39Ag/viewform). The People Experience team will verify the details, and then forward to the team member. 
 
+If you are a GitLab Ltd - UK employee, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSdbWZGR1qtcSx5O9zhi7DmKokC8ww-pOyrqJjpBR69c_jQ_5Q/viewform). The People Experience team will verify the details, and then forward to the team member. 
+
 If you are a PEO employee kindly reach out to the PEO for a letter of employment. If you require internal assistance on this matter please reach out to the People Experience team. 
 
 In addition, if the request comes from a third party, the People Experience team will always verify that the information is appropriate to share and check with you if you have given authorization to share any personal information.
