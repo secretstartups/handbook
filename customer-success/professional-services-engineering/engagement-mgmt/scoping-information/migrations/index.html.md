@@ -13,6 +13,11 @@ description: "Describes the processes for scoping migrations."
 
 `:warning: This page is under construction` 
 
+# Info for Sales - positioning migrations to SaaS
+ - [GitLab self-managed to SaaS migration](SM-to-SaaS)
+
+
+
 # Migration Scoping Details
 
 This page describes scoping migrations from one GitLab source to another or from Bitbucket Server or GitHub (Enterprise or .com).  The migrations utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately.
