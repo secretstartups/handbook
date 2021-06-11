@@ -234,7 +234,7 @@ See also: [The GitLab Tax Team](https://about.gitlab.com/handbook/tax/)
 
 Internal FAQ Resource: [Frequently Asked Questions - pulled from Chatter, Slack, Cases, and Tickets](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/FAQ_Internal_Billing_Team)
 
-## :globe_with_meridians: GitLab Billing Entities
+## GitLab Billing Entities
 
 As a global company, GitLab has locations around the world.
 
