@@ -388,7 +388,7 @@ The following is a list of all statutory annual vacation entitlements by entity 
     * GitLab's [PTO policy](/handbook/paid-time-off/) overrides over GitLab Canada Corp in the sense that the policies listed here are stating the statutory minimum that each GitLab Canada Corp team member must take to be compliant with relevant provincial laws.
     * GitLab Canada Corp observes provincial laws regarding holidays and vacation pay. The Canada Labour Code, specifically [Division IV of Part III](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/annual-vacation.html) provides for the overarching general annual vacation policy. For more information, the [Ontario Employment Standards Act](https://www.ontario.ca/document/your-guide-employment-standards-act/vacation) lists Ontario's laws and policies and the [Commission des normes, de l'équité, de la santé et de la sécurité du travail](https://www.cnt.gouv.qc.ca/en/leaves-and-absences/vacation/index.html#c59) list information relating to Quebec's Vacation policies.
     * In every province in Canada, team members are entitled to ***Vacation time*** after they have worked for 12 consecutive months.
-    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing on Day 5). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include bonuses.
+    * ***Vacation pay*** is calculated as a percentage of the gross wages an employee earns during a "year of employment". Vacation pay is earned the moment employment begins (except in Newfoundland and Labrador and British Columbia which starts accruing on the 5th calendar day when Day 1 is the first date of employment). “Gross wages” include: base salary, hourly wages (if applicable), and commission or other incentive-based pay. It does not include bonuses.
     * Any earned but unused vacation must be paid out on termination.
     * GitLab Canada Corp should ensure that all statutory mandatory minimum vacation time is taken within 12 months of it being earned. There is no rollover of unused vacation at every anniversary date.
 
@@ -415,7 +415,6 @@ Review above section `Statutory Minimum Vacation Time` for questions around date
 1. In **January**, People Ops will adjust any negative carryover back to zero for all accruals in BambooHR for the year. 
 1. Review the balance from December 31st of the previous year. If this balance is negative, move to the next step. 
 1. To do this, go to Time Off, Adjust Balance, and add the amount you determined in the previous step. Add a note "Adjustment to prevent negative rollover."
-
 
 ## Returning to work after parental leave
 
