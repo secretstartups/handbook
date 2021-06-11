@@ -60,7 +60,7 @@ Stages 0-2
 
 Stage 3
 - During the technical evaluation, the SA should verify as much as possible about the use cases within the customer ecosystem.
-- By the end of stage 3, all [Stage Technology fields](/handbook/sales/understand-customer-gitlab-use/#stage-technology-tracking) on the Account record should be populated.
+- By the end of stage 3, all Use Case Technology fields on the Account record should be populated.
 
 Stage 4-5
 - Once the technical win is achieved, the GitLab [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) (accessible by GitLab team members only) should be shared with the new customer.
