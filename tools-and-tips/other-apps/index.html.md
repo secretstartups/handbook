@@ -58,6 +58,10 @@ This is particularly useful for testing with different users in the same browser
 If you would like to receive daily notifications on newly opened issues, the Chrome extension [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) is an excellent tool for accomplishing this task.
 After installing the extension, access the project page you are interested in following, under the project issues click on the "Subscribe to RSS feed" button which you can find in the top right corner of the page.
 
+#### Formatting Hyperlinks
+
+Do you want a simple way of copying a hyperlink title and address in markdown? The [Format Link](https://chrome.google.com/webstore/detail/format-link/pocemhmkmchpgamlnocemnbhlcjcbjgg) extension offers a quick and easy way to do this, along with allowing you to customize any number of other formats. For detailed instructions and examples, they are available [here](https://docs.google.com/document/d/1y3xdjwgiVsTpVBAEFhK1nn7G6iJm8p5nIEfAoKt_oBk/edit#heading=h.51mhaa5pq2zt). If you’re looking for just the ability to copy a link as markdown format then the [Copy as Markdown](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn) extension will provide that level of functionality.
+
 ### Flash (do NOT use)
 
 **Flash**: Due to security flaws, we strongly recommend _not_ using Adobe Flash.
