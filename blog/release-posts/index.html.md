@@ -1384,24 +1384,24 @@ extras:
 ### Deprecations
 
 _To be added by Product Managers or Engineering Managers and merged by either._
- Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
+ Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-A deprecation is an annoucement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
-Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
+A deprecation is an annoucement in the release post notifying the community of a future removal. Deprecations should be included as soonb as possible to the [docuemtnation](link TBD). Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+Create a deprecation notice by creating a note inn the deprecation documentation in the following format:
 
 ```yaml
 deprecations:
   - feature_name: Lorem ipsum dolor
-    due: May 22nd, 2017 # example
+    issue url: ''
     reporter: bikebilly # item author username
+    `available_in`: availability of that feature in GitLab:  
+    `affected_topology`: [Self-managed, SaaS]
     description: |  # example (supports markdown)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
 ```
 
 `feature_name` should follow the structure of "XYZ feature or function will be deprecated at ABC time."
-
-
 
 The `due` field is defined by the future removal of that feature. The field is required, and should be set as:
 
@@ -1410,7 +1410,12 @@ The `due` field is defined by the future removal of that feature. The field is r
 - An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
 - An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
 
+- `available_in`: availability of that feature in GitLab
+
+- `affected_topology`: Who is affected by this deprection, Self-managed users, SaaS users or both. This is especially important while nearing the annual major release where breaking changes are permitted, and may hit GitLab.com before the official release of the milestone. 
+
 `description` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation.
+The description of the deprecation should state what actions the user should take to rectify the behavior. 
 
 
 If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0. Product Managers are the DRI for re-adding the deprecation to release posts until the item is completed.
