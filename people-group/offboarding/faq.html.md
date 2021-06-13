@@ -14,7 +14,7 @@ description: "Common Questions about the Offboarding Process"
 
 #### When will my offboarding issue be created?
 
-It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at either 5 pm your local time or 12 pm PST, whichever comes first. 
+It will be created on your last day, the People Experience Associate assigned to your offboarding will create the offboarding issue at 12 pm (your) local time. 
 
 #### Is there anything I need to do to get my offboarding issue created?
 
