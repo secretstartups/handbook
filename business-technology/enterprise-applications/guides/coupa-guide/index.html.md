@@ -180,6 +180,25 @@ For approvals as part of an approval group, the individual must be a member of t
 - Fields marked with a red asterisk are required fields.
 - Click Save to apply the changes.
 
+#### Adding a class/campaign tag
+
+If the item being purchased requires a class/campaign tag, the user needs to manually add it **after** adding the line item to the request but **before** submitting the PR.
+
+The class field is located in the `Billing String` section which only appears to the user after the line item has been added to the request.
+{: .alert .alert-info}
+
+![coupa-image-23](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa23.png)
+
+![coupa-image-24](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa24.png)
+
+To add a class, follow the below steps for more detail:
+
+1. After adding line items to your cart, from the homepage, click on the "Cart" button at the top of the page.
+1. Click on the "Cart Item" tab or scroll down to the requisition line level.
+1. Click on the magnifying glass of the Billing string for the requested item.
+1. On the "Choose an Account" pop up, find your tag by expanding the `clas - Class` field and click "Choose" when done.
+
+
 <div class="panel panel-info">
 **NOTES**
 {: .panel-heading}
@@ -187,7 +206,7 @@ For approvals as part of an approval group, the individual must be a member of t
 
 - If you have any questions about the **class** of the line items or need to request a new one, tag `@ggonzalez@gitlab.com` in a comment before submitting the requisition for approval.
    - Requisitions can be saved for later.
-- The FP&A and Procurement teams will review the commodity for each line item during their approval and tag the `@ggonzalez@gitlab.com` in a comment if there are any questions.
+- The FP&A and Procurement teams will review the commodity for each line item during their approval and tag `@ggonzalez@gitlab.com` in a comment if there are any questions.
 
 
 </div>
@@ -216,6 +235,7 @@ For approvals as part of an approval group, the individual must be a member of t
 
 </div>
 </div>
+
 
 ### Approvals
 
