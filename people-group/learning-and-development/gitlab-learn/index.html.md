@@ -367,7 +367,7 @@ Content Adminitrators and Learning Evangelists might request support from the `P
 | Like content | Off |
 | Bookmark content | Off |
 | Mark as complete | Off |
-| Assign content | Off |
+| Assign content | On |
 | Dismiss content | Off |
 | Dismiss assignment | Off |
 | Add to pathway | On |
