@@ -43,7 +43,7 @@ The following groups have completed the process to be an TMRG and received forma
 
 | **TMRG** | **Team Leaders** | **Slack Channel** | **Sign Up** |
 | ------ | ------ | ------ | ------ |
-| [GitLab Pride](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-pride/) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/forum/#!forum/erg-pride) |
+| [GitLab Pride](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-pride/) | [Alex Hanselka](https://gitlab.com/ahanselka) and [Helen Mason](https://gitlab.com/hmason) | #lgbtq | [Sign up for future meetings (Google group)](https://groups.google.com/a/gitlab.com/g/pride-tmrg) |
 | [GitLab Women](/company/culture/inclusion/tmrg-gitlab-women/) | [Kyla Gradin](https://gitlab.com/kyla) Madeline Hennessy | #women | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/womenstmrg) |
 | [GitLab MIT - Minorities in Tech](https://about.gitlab.com/company/culture/inclusion/erg-minorities-in-tech/) | [Aricka Flowers](https://gitlab.com/atflowers) and [Sharif Bennet](https://gitlab.com/SharifATL) |  #minoritiesintech | [Sign up for future meetings (google group)](https://groups.google.com/a/gitlab.com/g/mittmrg) |
 | [GitLab DiversABILITY](https://about.gitlab.com/company/culture/inclusion/erg-gitlab-diversability/) | [Melody Maradiaga](https://gitlab.com/mmaradiaga) [Wil Spillane](https://gitlab.com/wspillane) | #diverse_ability | [Sign up for future meetings (google form)](https://forms.gle/5g2wVB577Lr7M3CH7) |
