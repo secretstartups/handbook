@@ -312,7 +312,8 @@ When the application is approved, the R&D tax credit can be deducted from the wa
 ## Tax Procedure for Making US Corporate Tax Payments 
 Open an inssue in the tax team [CIT Estimates/Prepayments] (https://gitlab.com/groups/gitlab-com/-/epics/1268) epic, with the below information:
 * Tax preparer uploads calculation for quarterly/annual/other corporate tax payments for Tax Director's review and approval
-* After approval, tax preparer will initation US corproate tax payments, print payment confirmations and send to A/P team for backup
+* After approval, tax preparer will initation US corporate tax payments, print payment confirmations and send to A/P team for backup
+* When making corporate tax payments to any tax authorities for the first time, AP will enter the bank account/routing numbers and save the information at each respective tax payment portal for tax preparer to use for future payments
 * AP team will book the appropriate journal entries in Netsuite and reconcile the payment confirmations with the bank withdrawals to ensure the bank account, payee and withdrawn amount are correct
 
 ## Withholding Tax Management
