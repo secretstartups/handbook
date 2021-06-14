@@ -13,7 +13,7 @@ description: "Solutions Architects (SA) are the trusted advisors to GitLab prosp
 
 ## Role & Responsibilities
 
-### Solutions Architects
+### Solutions Architects (Field)
 [Solutions Architects](/job-families/sales/solutions-architect/) (SA) are the trusted advisors to GitLab prospects and customers during the presales motion, demonstrating how the GitLab application and GitLab Professional Services address common and unique business requirements. SA's add value to GitLab by providing subject matter expertise and industry experience throughout the sales process.
 
 SA's identify and propose comprehensive solutions to complex business problems and workflow scenarios after compiling inputs from customer conversations. Desired inputs include pain points, role-based visibility concerns, opportunities for improved efficiencies, current technologies and tools, corporate initiatives, target outcomes and more. SA's also act as the technical liaison between the sales team and other groups within GitLab, engaging GitLab employees from other teams as needed in order meet the needs of the customer.
