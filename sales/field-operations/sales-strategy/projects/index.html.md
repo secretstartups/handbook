@@ -34,7 +34,7 @@ The following rules were applied for the matching:
 
 #### Result
 
-The matched file for 2021 can be found here shortly.
+The matched file for FY 2022 can be found here shortly.
 
 #### Considerations
 
@@ -77,7 +77,7 @@ The original issue can be found [here](https://gitlab.com/gitlab-com/sales-team/
 #### Result
 
 The matched file for 2020 can be found [here](https://docs.google.com/spreadsheets/d/1sr3MGraDVAbBzqYWVHS0NoABisnWxnViGYRm_7PHE3w/edit#gid=1803700829).
-The matched file for 2021 can be found [here](https://docs.google.com/spreadsheets/d/1MrHIPj6OSN3jhXQoBcmvM751y-IT0xffFt_WgmJwsTA/edit#gid=204503389)
+The matched file for FY 2022 can be found [here](https://docs.google.com/spreadsheets/d/1MrHIPj6OSN3jhXQoBcmvM751y-IT0xffFt_WgmJwsTA/edit#gid=204503389)
 
 #### Considerations
 
