@@ -158,6 +158,23 @@ New team members should familiarize themselves with [The Required 7](/handbook/s
     - Exception to command plan: for channel managed opportunities we may not have access - put `Channel-Managed` in the opportunity title
     - ([training session here](https://youtu.be/zN_0J6syxmM) and [training deck here](https://bit.ly/2WNlzbZ))
 1. Keeping your opportunities [up to date at all times](/handbook/sales/commercial/#salesforce-pipeline-activity) [video](https://youtu.be/o5gm7_5321w)
+
+## Chorus recordings
+A recording Chorus license is mandatory for all Commercial Account Executives. Our intent is to record customer calls for the following reasons:
+
+- For training, to make sure we are giving customers the best possible experience 
+- To give to the customer as a visual record of our conversations with them
+- To verify any details we may have missed in the conversation
+
+### Mandatory steps required to record calls
+Laws around recording differ from states to state and country to country. Therefore, it is required that every Account Executive take the steps below on *every* customer call. The Account Executive is responsible for ensuring the steps below are followed.
+
+1. Introduce GitLab Notetaker and clearly explain what it is and why it is there. Example: "You may have noticed GitLab Notetaker here. This is recording the call for training and verification. I can share the recording with you if you want. If you are OK being recorded, please say so verbally and give a thumbs up. If you're not, I can remove it from the meeting."
+2. If the customer requests that they are not recorded, you must remove GitLab Notetaker immediately and verbally confirm you have done so.
+3. If the customer verbally and visually agrees to being recorded, you can continue.
+
+Failure to follow the above is not acceptable in any situation. 
+
 ## [Opportunity Consults](https://about.gitlab.com/handbook/sales/command-of-the-message/opportunity-consults/) (OCF) and Lightweight Deal Review (LDR) Process
 
 #### SMB
