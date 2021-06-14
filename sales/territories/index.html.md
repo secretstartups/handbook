@@ -73,7 +73,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales |Inside Sales Rep |
 | ---------- | ---- | -------------- | ----- | ----- |
 |	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	| David Fisher
-|	NA East	|	East	|	Large-AMER-East-Named-2	|	Jordan Goodwin	| David Fisher
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	TBH 	| David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	| David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector | David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher
@@ -91,10 +91,10 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA West	|	NorCal	|	Large-AMER-Bay Area 4	|	Joe Miklos	| Matthew Beadle
 |	NA West	|	NorCal	|	Large-AMER-Bay Area 5	|	Michael Nevolo	| Matthew Beadle
 |	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	| Matthew Beadle
-|	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	| David Fisher
-|	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| David Fisher
-|	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| David Fisher
-|	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| David Fisher 
+|	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	| Marsja Jones
+|	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| Marsja Jones
+|	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| Marsja Jones
+|	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| Marsja Jones 
 |	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| David Fisher
 |	[LATAM](/handbook/sales/territories/latam/)		|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| David Fisher
 |	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	| Matthew Beadle
@@ -107,11 +107,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Matthew Beadle
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Matthew Beadle
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	| Matthew Beadle
-|	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	| David Fisher
-|	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	| David Fisher
-|	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	| David Fisher
-|	NA East	|	Southeast	|	Large-AMER-Southeast-4	|	David Wells	| David Fisher
-|	NA East	|	Southeast	|	Large-AMER-Southeast-5	|	Larry Biegel	| David Fisher
+|	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	| Marsja Jones
+|	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	| Marsja Jones
+|	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|Marsja Jonesr
+|	NA East	|	Southeast	|	Large-AMER-Southeast-4	|	David Wells	| Marsja Jones
+|	NA East	|	Southeast	|	Large-AMER-Southeast-5	|	Larry Biegel	| Marsja Jones
 
 
 
@@ -126,7 +126,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
-| Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
+| Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |

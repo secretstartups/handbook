@@ -24,12 +24,12 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 ### Teams
 * [Sales Operations](/handbook/sales/field-operations/sales-operations/)
     *   [Deal Desk](/handbook/sales/field-operations/sales-operations/deal-desk/#welcome-to-the-deal-desk-handbook)
-    *   [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations)
     *   [Sales Commissions](/handbook/sales/commissions/)
 * [Sales Systems](/handbook/sales/field-operations/sales-systems/)
 * [Sales Strategy](/handbook/sales/field-operations/sales-strategy/) 
 * [Field Enablement](/handbook/sales/field-operations/field-enablement/)
 * [Channel Operations](/handbook/sales/field-operations/channel-operations/)
+* [Customer Success Operations](/handbook/sales/field-operations/customer-success-operations)
 
 ### Field Operations Calendar 
 * Field Operations utilizes a team calendar to communicate team member availability as well as office hour meetings. 

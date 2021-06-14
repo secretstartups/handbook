@@ -199,22 +199,23 @@ Click on the radio button for the type of opportunities you want to see (normall
 1. Go to Gross ARR Commit box, double-click and enter/override the value.
 1. Add a note on why the adjustment was made.
 1. Click Save
-1. Repeat this process for Gross ARR Best Case and the Net 50/50.
+1. Repeat this process for Gross ARR Best Case and the Net 50/50. Also, make sure to enter a Renewal Loss Commit and Best Case.
 
-##### To enter or overwrite your forecast: Monthly View
+##### To enter or overwrite your forecast: Monthly View 
 1. In Clari, go to the Forecasting tab.
-1. Go to the ARR tab.
-1. On the top/middle of the screen you'll see a calendar icon with arrows pointing left or right.  **Select the right arrow to activate the Monthly view** within the given quarter. 
+1. Go to the ARR - Monthly Forecasting tab.
+1. On the top/middle of the screen you'll see each month's forecast. To see the following months, click on the arrows pointing left or right next to the calendar.  **Select the right arrow to go to each month's view** within the given quarter. 
 1. For each month within the quarter, go to the respective Gross ARR Commit box, double-click and override the value.
 1. Add a note on why the adjustment was made.
 1. Click Save
-1. Repeat this process for Gorss ARR Best Case and Net 50/50.
-1. Once these steps are completed, toggle back to the Quarterly view by selecting the left arrow next to the calendar icon
-1. Here you will need to enter your Quarterly Commit and Best Case calls.  You have two options to make this happen:
-   1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, manually enter the quarterly amount (recommend doing this if the sum of your monthly commits is not what you want to call for the quarter)
-   1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, select the `Copy Total to Commit` button (recommend doing this if the sum or your monthly commit is equal to your quarterly commit)
+1. Repeat this process for Gross ARR Best Case and Net 50/50. Also, make sure to enter a Renewal Loss Commit and Best Case for each month.
+1. Once these steps are completed, go to the ARR tab
+1. Here you will need to enter your Quarterly Commit, 50/50 and Best Case calls.  
+   1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, manually enter the quarterly amount.
+
 
 **Notable items related to Monthly Forecasting**
+- If you want to hide previous month's forecast click on Actions at the top right corner within the ARR- Monthly Forecasting tab. Click on Configure Columns and within Forecasting disable the option to "Show Past Months". 
 - When a new month begins, the forecast call from the previous month will be displayed until a new forecast call is submitted for the new month.
 - When a new month begins, the quarterly forecast will not update based on the previous month's actuals until the forecast for the new month is updated. Clari does not update the quarterly forecast as soon as the month closes in case 1 or more opportunities slip from month 1 to month 2 (or month 2 to month 3), but not out of the quarter entirely — they do not want to assume that your quarterly forecast needs to be lowered in such cases. 
 - Monthly Forecasting Knowledge Base article: [Link here](https://clari.zendesk.com/hc/en-us/articles/360053542271-Monthly-Forecasting)
