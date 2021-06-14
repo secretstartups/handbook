@@ -30,7 +30,7 @@ While there may be some regional variations as to how/by which group of people t
 
 
 | What | Description | Why? | What PI does this affect? |
-| -- | -- | -- |
+|---|---|---|---|
 | New Tickets | All Regions + Tickets in your Preferred Region | These tickets represent a contractual obligation. We must respond within SLA | [First Reply Time SLA](/handbook/support/performance-indicators/#service-level-agreement-sla) | 
 | Tickets without owners | All Regions + Preferred region tickets | These tickets represent risk. Without a DRI they are likely to languish. | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
 | Tickets you own | | These tickets are the ones you're the DRI of. Keep your customers up to date and moving towards solutions.| [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
@@ -58,30 +58,39 @@ assigned when the first reply is made.
 <table>
   <tr><th>Current Focus</th><th>Region</th><th>Main View Name with Link</th></tr>
   <tr>
-    <td rowspan="3">Self-Managed</td>
+    <td rowspan="3">Support</td>
     <td>AMER</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038123559">SM Need Assignee: AMER+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150200">AMER Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150240">AMER+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
     <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102880">SM Need Assignee: APAC+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076456599">APAC Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150260">APAC+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076456639">EMEA Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150280">EMEA+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
-    <td rowspan="3">SaaS</td>
-    <td>AMER</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</a></td>
+    <td rowspan="1">SaaS Account</td>
+    <td>All Regions</td>
+    <td><a href="https://gitlab.zendesk.com/agent/filters/360050768099">SaaS Account</a></td>
   </tr>
   <tr>
-    <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122399">.com Need Assignee: APAC+All Region</a></td>
-  </tr>
-  <tr>
-    <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</a></td>
+    <td rowspan="1">L&R</td>
+    <td>All Regions</td>
+    <td><a href="https://gitlab.zendesk.com/agent/filters/360038103700">L&R</a></td>
   </tr>
 </table>
 
