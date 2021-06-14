@@ -803,4 +803,4 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
    1. Ideally, provide a link to a Thanos query or an ELK query and clear instructions on how to interpret the results to determine whether the problem is still occurring.
    1. Alternatively, provide clear instructions on how to recreate or validate the problem.
    1. If an issue has been resolved, use the following process:
-      1. Reassign the issue back to the author, or an appropriate owner, requesting that they confirm the resolution, and, if they concur, close the issue. If not, the owner should follow up with a note and unassign themselves.
+      1. Reassign the issue back to the author, or an appropriate owner, requesting that they confirm the resolution, and close the issue  if they concur. If not, they should follow up with a note and unassign themselves.
