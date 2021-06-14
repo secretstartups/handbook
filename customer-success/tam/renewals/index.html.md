@@ -77,13 +77,13 @@ To learn the full process, watch the TO BE CREATED VIDEO****************
 
 When a TAM has determined an account is red, then:
 
-1. TAM will log Timeline, marking TAM Sentiment as Red
-1. Create CTA:
+1. **Log Timeline**: update marking TAM Sentiment as Red
+1. **Create CTA**:
    1. Immediate: TAM will create a Risk CTA to track the high level risks, OR
    1. Overnight: Gainsight will auto create CTA overnight for the TAM
-1. CTA: TAM to update Risk Type and Risk Reason dropdown fields
-1. Monthly: TAM logs Timeline update, and updates CTA as necessary
-1. Completion:
+1. **Update CTA**: TAM to update Risk Type and Risk Reason dropdown fields
+1. **Monthly Timeline Update**: TAM logs Timeline update, and updates CTA as necessary
+1. **At-Risk Conclusion**:
    1. Customer is won back:
       1. Log Timeline update for TAM Sentiment as Green and final notes
       1. Close out CTA with success criteria (Closed-Won, win reasons)
