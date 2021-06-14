@@ -30,6 +30,12 @@ Slack handle: `@Courtney Meddaugh` <br>
 Location: Austin, TX, USA   
 Linkedin Profile:
 
+**Kayoko Cooper - Business Systems Analyst**  
+GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
+Slack handle: `@kayokocooper` <br>
+Location: 
+Linkedin Profile:
+
 **Lis Vinueza - Senior Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
@@ -134,7 +140,7 @@ While we can't promise we'll never have meetings on Fridays, the team has adopte
 - Every week the Enterprise Apps team has a dedicated hour to sync up. Hosted by the Senior Director of Enterprise Applications, the team discusses current activities (urgent and important) that impacts the whole team.
    - Frequency: Weekly
       > - The time of this meeting varies every week to accommodate the different timezones of the Enterprise Apps team members.
-   - Participants: [Enterprise Applications](/handbook/business-technology/enterprise-applications/#-the-team) 
+   - Participants: Enterprise Applications 
 
 ### Business Engagement
 The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues, Risks and Decisions. Engagement Meetings are strategic meetings to ensure that Enterprise Applications are aligned with their key business partners and they have clarity on our shared roadmap. Decisisons and timing are recorded in a shared Decision Log to ensure that there is clarity and decision are properly documentated (Prioritization).
