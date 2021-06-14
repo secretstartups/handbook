@@ -90,8 +90,8 @@ The following table provides scores for each of our DevOps stages and a comparis
     <% percent_of_developers = (stage_devs.to_f / totalMarketingDevelopers.to_f)*100 %>
     <% difference = percent_of_developers - percent_of_total%>
     <% stageLine << "#{stage.display_name}"%>
-    <% stageLine << (stage.usage_driver_score ? "#{stage.usage_driver_score.to_i * usage_driver_score_weight}" : "0")%>
     <% stageLine << (stage.revenue_driver_score ? "#{stage.revenue_driver_score.to_i * revenue_driver_score_weight}" : "0")%>
+    <% stageLine << (stage.usage_driver_score ? "#{stage.usage_driver_score.to_i * usage_driver_score_weight}" : "0")%>
     <% stageLine << (stage.sam_driver_score ? "#{stage.sam_driver_score}" : "0")%>
     <% stageLine << "#{combinedScore}" %>
     <% stageLine << "#{percent_of_total.round(1)}%" %>
