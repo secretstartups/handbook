@@ -55,11 +55,11 @@ We use these to determine business hours and various regional working hours.
 
 * Timezone: Brisbane
 * Sunday: Closed
-* Monday: 0900-2200
-* Tuesday: 0900-2200
-* Wednesday: 0900-2200
-* Thursday: 0900-2200
-* Friday: 0900-2200
+* Monday: 0900-2100
+* Tuesday: 0900-2100
+* Wednesday: 0900-2100
+* Thursday: 0900-2100
+* Friday: 0900-2100
 * Saturday: Closed
 
 Note: Brisbane was chosen as the reference timezone for APAC as daylight saving
