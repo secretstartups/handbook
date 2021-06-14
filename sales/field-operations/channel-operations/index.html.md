@@ -19,7 +19,7 @@ description: "This page serves as the Channel Operations team page and includes 
 # Welcome to the Channel Operations page
 
 ## _Pinned Announcement_
-With the new partner program changes that went into effect on May 3, 2021, the Channel Operations Team created a brief document for internal GitLab Team Members to answer a few basic questions about the system and operational changes to go along with the update. **To view this FAQ, [click here](https://docs.google.com/document/d/1USbuKSzO4Mubd88gYPZI9AUU_zsVJlx3SsfwF-oHX1o/edit?usp=sharing).** For information about the new program details (not operational), [click here](https://about.gitlab.com/handbook/resellers/).
+With the new partner program changes that went into effect on May 3, 2021, the Channel Operations Team created a brief document for internal GitLab Team Members to answer a few basic questions about the system and operational changes to go along with the update. **To view this FAQ, [click here](https://docs.google.com/document/d/1USbuKSzO4Mubd88gYPZI9AUU_zsVJlx3SsfwF-oHX1o/edit?usp=sharing).** For information about the new program details (not operational), [click here](/handbook/resellers/).
 
 ## Meet the Team
 ### Who We Are
