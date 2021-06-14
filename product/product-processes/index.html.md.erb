@@ -2580,8 +2580,8 @@ The table below will catalog the list of GitLab.com services, the current SLO de
 
 ### Services and PM DRI's
 
-| GitLab.com Service| Product Management DRI | SLO Apdex Definition| SLO Apdex Target|
-| :--------------: | :------------------: | :---: | :---: |
-|CI Runners|Verify-Runner PM @deastman|% of CI jobs that are picked by for servicing by a GitLab SaaS Shared Runner| 60 seconds|
+| GitLab.com Service| Product Management DRI | SLO Apdex Definition| SLO Apdex Target| SLO Goal|
+| :--------------: | :------------------: | :---: | :---: |:---: |
+|CI Runners|Verify-Runner PM @deastman|The service level indicators used to calculate the Runner Apdex score are (1) the job polling operations from runners via the workhouse HTTP interface and (2) the shared runner queues on GitLab.com, i.e. the % of CI jobs that are picked by for servicing by a GitLab SaaS Shared Runner within 60 seconds| [99.95%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/ci-runners.jsonnet)|The goal for FY22 Q3 is to maintain a monthly SLO score of 99.95% or higher.|
 |Container Registry|Package PM @trizzi| [Apdex](https://en.wikipedia.org/wiki/Apdex) for request latency (time to serve) read requests to the container registry. Thresholds are `satisfied` when under .5 seconds and `tolerated` under 1 second. [Further details available here](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/lib/registry-helpers.libsonnet). | [99%](https://gitlab.com/gitlab-com/runbooks/-/blob/1aa2d39562705c1d0fbef75242d42ff43a99eb53/metrics-catalog/services/registry.jsonnet) |
 
