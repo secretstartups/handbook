@@ -107,7 +107,7 @@ Example: Has GitLab, or board member / executed of GitLab, been subject to a law
 
 
 ## How to get a Data Processing Addendum (DPA) signed
-1. GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
+GitLab includes a signed version of the DPA on the [Terms of Service](https://about.gitlab.com/terms/), as stated within the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/) this DPA is applicable to all Enterprise Customer's and does not need to be counter-signed. In addition, as stated within the header of the DPA, a Customer’s acceptance of the Subscription Agreement shall be treated as its execution of the DPA.  
 
 
 ## EDUCATIONAL
@@ -172,7 +172,10 @@ _Please Note: The purpose of this content is to understand where to find GitLab'
 
 1. The [GitLab Privacy Policy](https://about.gitlab.com/privacy/) explains how GitLab collects, uses and shares customers' personal information, and how they may exercise their rights in respect of that information. More information about privacy compliance at GitLab, including answers to a number of frequently asked questions concerning the GDPR, can be found on the [GitLab Privacy Compliance](https://about.gitlab.com/privacy/privacy-compliance/) handbook page.
 1. The GitLab Data Processing Addendum, usually referred to as the "DPA", can be accessed from the [GitLab Terms of Service page](https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf). As stated in the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#14-security--data-protection), the terms of the DPA automatically apply to corporate customers.
-
+1. When asking questions about data privacy, Customers may also raise questions about security. Generally, such questions are best directed to the [Field Security Team](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/#contact-the-field-security-team). However, the following resources may be useful in the first instance:
+    - The [Security Practices handbook page](https://about.gitlab.com/handbook/security/) gives details about GitLab's organizational security.
+    - GitLab's [Customer Assurance Package](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/customer-assurance-package.html) provides details of GitLab's current Security and Compliance posture.
+    - GitLab documentation explaining how to [_Secure your application_](https://docs.gitlab.com/ee/user/application_security/), [_Secure your installation_](https://docs.gitlab.com/ee/security/README.html) and the [_GitLab permissions guide_](https://docs.gitlab.com/ee/development/permissions.html) are useful for helping customers understand steps they can take to secure the personal data processed in GitLab. 
 
 ## Additional Resources
 [Field Operations Negotiation Overview](/handbook/sales/field-operations/order-processing/#using-customer-form-agreements-and-negotiating-gitlabs-standard-agreement)
