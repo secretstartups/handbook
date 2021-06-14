@@ -48,7 +48,8 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 - Please use the `#finance` chat channel in Slack for questions that don't seem appropriate for the issue tracker or internal email correspondence.
 - **Accounts Payable**- inquiries which relate to vendor and merchant invoices, or team member's expenses should be sent to our Accounts Payable mailbox - *ap@gitlab.com*. You can also reach the AP team on Slack in the `#accountspayable` or `#expense-reporting-inquiries` chat channels.  Invoices that require payment processing should be sent to *ap@gitlab.com*.
-- **Accounts Receivable**- customer billing inquiries should be sent to our Accounts Receivable mailbox – *ar@gitlab.com*.
+- **Billing Operations**- customer billing inquiries should be sent to our Billing mailbox – *billing@gitlab.com*.
+- **Accounts Receivable** - customer payment/remittance inquiries should be sent to our Accounts Receivable mailbox - *AR@gitlab.com*
 - **Payroll**- inquiries which relate to contractor invoices should be sent to our Payroll mailbox - *nonuspayroll@gitlab.com*.
 
 - - -
