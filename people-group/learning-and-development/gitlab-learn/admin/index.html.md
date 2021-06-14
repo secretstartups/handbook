@@ -329,7 +329,7 @@ If a course is required by specific users to complete, it's best pracitce to ass
 1. Learning Evangeslists, Content Administrators, and Platform Administrators in GitLab Learn can make learning assignments. Navigate to the SmartCard, Pathway, or Journey you want to assign and click the 3 dots on the top right corner of the card. Here you have the option to `Assign`. You can assign to individuals, groups, or channels. Assigning to the `GitLab Internal Team Members` group is the most common use case for required GitLab trainings.
 1. When learning is assigned, users get an email notification to alert them about the newly assigned item
 1. When making an assignment, you can add a message. This message appears in the email subject line of the assignment notification email
-1. You can also add a start and dute date to the assignment. 
+1. You can also add a start and due date to the assignment. 
 1. Notifications about the upcoming due dates on assigned content are pushed to users 6 days before, 2 days before, and on the due date of the assignment
 1. When assinging content, consider the following
      1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
