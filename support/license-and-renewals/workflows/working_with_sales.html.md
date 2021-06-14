@@ -29,7 +29,7 @@ description: This page is about working with sales.
      * Note that you can only link to the original Chatter message, not to any of its comments.
    * You may want to check the account owner's Slack status to see if they're
      currently taking time off work.
-   * If reaching out to the account owner on Slack (always on `#support_sales_escalation`
+   * If reaching out to the account owner on Slack (always on `#support_to_sales_escalation`
      and always *as a courtesy*), link them the Chatter message and ask them to
      respond there.
    * Note: Support should be able to rely on the Salesforce `Account Owner`
@@ -51,7 +51,7 @@ description: This page is about working with sales.
          * Suggested message text:
            > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> within the agreed upon time.
          * From VP level onwards, mention them in a Slack message in
-           `#support_sales_escalation` in addition to a Chatter comment.
+           `#support_to_sales_escalation` in addition to a Chatter comment.
            * Suggested message text in Chatter:
              > Following the new "Working with Sales workflow" (https://about.gitlab.com/handbook/support/license-and-renewals/workflows/working_with_sales.html) I'm escalating this, as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
            * Suggested message text in Slack:
