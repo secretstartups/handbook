@@ -16,6 +16,14 @@ title: "Sales Finance"
  * [Sales Strategy & Analytics (SS&A)](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/)
  * [GTM Analytics Hub](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/Sales-Finance/GTM-Analytics-Hub)
 
+ ## Sales Finance Roadmap
+ [Sales Finance Roadmap Deck](https://docs.google.com/presentation/d/1ui8kR65n-vpYD3JQjErP0qCLikcMndzPzIt8hYo6-Vg/edit#slide=id.gdfc8c57464_0_9)
+
+<figure class="video_container">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSwo94z2v7qO1fbW96AtBj3-6RHBKGcn0gntWOSIfvVWQFqpdIr6s0Po8lHeIsavhkEBWTvksezg6GF/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</figure>
+
+
 ### Finance Business Partner Alignment
 
 | Name | Function |
