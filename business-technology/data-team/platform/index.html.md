@@ -94,15 +94,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h |
 
 
-### Adding new Data Sources and Fields
-
-Process for adding a new data source:
-
-- Create a [new issue using the New Data Source Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) in the Analytics project requesting for the data source to be added:
-    - Document what tables and fields are required
-    - Document the questions that this data will help answer
-- Create an issue in the [Security project](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/) and cross-link to the Analytics issue.
-    - Tag the Security team `gitlab-com/gl-security`
+### Adding new Data Fields
 
 To add new fields to the BambooHR extract:
 
