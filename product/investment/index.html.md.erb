@@ -132,8 +132,8 @@ The following table provides scores for each of our DevOps stages and a comparis
       <% difference = percent_of_developers - percent_of_total %>
       <% groupLine=[] %>
       <% groupLine << "<a class=\"scroll-anchor\" id=\"#{group.name}\"></a>" + "[#{stage.display_name}: #{group.name}](/handbook/#{group.group_link})" if group&.group_link %>
-      <% groupLine << (group.usage_driver_score ? "#{(group.usage_driver_score * usage_driver_score_weight)}" : "") %>
       <% groupLine << (group.asp_driver_score ? "#{(group.asp_driver_score * revenue_driver_score_weight)}" : "") %>
+      <% groupLine << (group.usage_driver_score ? "#{(group.usage_driver_score * usage_driver_score_weight)}" : "") %>
       <% groupLine << (group.sam_driver_score ? "#{group.sam_driver_score}" : "") %>
       <% groupLine << "#{combinedScore}" %>
       <% groupLine << "#{percent_of_total.round(1)}%" %>
