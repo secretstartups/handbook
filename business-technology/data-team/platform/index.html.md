@@ -302,6 +302,7 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
+| `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
 | `merge_request_*`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
@@ -546,6 +547,22 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 * owner - your (or the business DRI's) gitlab handle
 
 **Step 3:** Create an [integration issue in the integrations project](https://gitlab.com/gitlab-com/business-ops/enterprise-apps/integrations/integrations-work/-/issues/new) using the 'New Data Pump' issue template so that the Integration team can map and integrate the data into the target application.
+
+## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
+
+A Data Spigot is a concept/methodology to give external systems, access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
+- A dedicated service account.
+- A dedicated view (or views) only exposing the minimum required data. No Personally Identifiable Information (PII) may be disclosed.
+- A dedicated role (or equivalent) with access to only the specified tables/views.
+- A dedicated XS warehouse to limit and monitor costs.
+
+The process for setting up a new Data Spigot is as follows:
+1. Comply to the controls that are in place, as described above.
+2. Add new Data Spigots to the table below:
+
+| Connected system | Data scope | Database views | 
+| ---------------- | ---------- | ------------- |
+| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` |
 
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 
