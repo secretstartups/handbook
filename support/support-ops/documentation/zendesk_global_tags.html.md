@@ -34,7 +34,7 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
-| `basic` and `starter` | Signifies the ticket is using a Starter plan, granting Standard SLA on Support tickets |
+| `starter` | Signifies the ticket is using a Starter plan, granting Standard SLA on Support tickets |
 | `premium` | Signifies the ticket is using a Premium plan, granting Priority SLA on Support tickets |
 | `ultimate` | Signifies the ticket is using a Ultimate plan, granting Priority SLA on Support tickets |
 | `bronze` | Signifies the ticket is using a Bronze plan, granting Standard SLA on Support tickets |
@@ -49,7 +49,7 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `urgent` | Signifies the ticket is an emergency request |
 | `prospect` | Signifies the ticket is from a prospect. This means they receive no SLA on Support Tickets |
 | `trial` | Signifies the ticket is from a non-paying end-user using the trial system. This means they receive no SLA on Support Tickets |
-| `consumption` | Signifies the ticket is a consumption ticket |
+| `consumption_only` | Signifies the ticket is a consumption ticket |
 
 ## Account Related Tags
 
@@ -57,7 +57,6 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 |---|---|
 | `customer` | Signifies the ticket is from an account labeled as Customer            |
 | `former_customer` | Signifies the ticket is from an account labeled as Former Customer     |
-| `reseller` | Signifies the ticket is from an account labeled as Reseller            |
 | `authorized_reseller` | Signifies the ticket is from an account labeled as Authorized Reseller |
 | `integrator` | Signifies the ticket is from an account labeled as Integrator          |
 | `partner` | Signifies the ticket is from an account labeled as Partner             |
@@ -70,31 +69,14 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 
 | Tag | What it does |
 |---|---|
-| `skip_autosolve` | Tell Zendesk to not auto-solve the ticket |
-| `skip_autoclose` | Tell Zendesk to not auto-close the ticket |
-| `skip_autoreopen` | Tell Zendesk to not auto-reopen the ticket (relating solely to the trigger Ticket::Open::Reopen if agent sets to pending with internal note) |
-| `skip_gdpr_automation` | Tell Zendesk to not run any Account Deletion automations/autoresponders |
 | `skip_2fa_automation` | Tell Zendesk to not run any 2FA automations/autoresponders |
-| `skip_autosolve_message` | Tell Zendesk not to send a message about the ticket being autosolved. |
-| `skip_autoassign` | Tell Zendesk to not auto-assign the ticket (in reference to these triggers - "Ticket::Assignee::Assign open or on-hold ticket to agent" and "Ticket::Assignee::Assign any on-hold ticket to current agent") . |
-
-## Form Related Tags
-
-As a note, there should only ever be one of these on a ticket
-
-| Tag | What it does |
-|---|---|
-| `saas_account_form` | Signifies the ticket is using the form SaaS Account |
-| `saas_form` | Signifies the ticket is using the form SaaS |
-| `sm_form` | Signifies the ticket is using the form Self-Managed |
-| `lnr_form` | Signifies the ticket is using the form L&R |
-| `other_form` | Signifies the ticket is using the form Other |
-| `security_form` | Signifies the ticket is using the form Security |
-| `ar_form` | Signifies the ticket is using the form Billing |
-| `open_partner_form` | Signifies the ticket is using the form Open Partner |
-| `select_partner_form` | Signifies the ticket is using the form Select Partner |
-| `alliance_partner_form` | Signifies the ticket is using the form Alliance Partner |
-| `proserv_form` | Signifies the ticket is using the form Professional Services |
+| `skip_autoassign` | Tell Zendesk to not auto-assign the ticket |
+| `skip_autoclose` | Tell Zendesk to not auto-close the ticket |
+| `skip_autoreopen` | Tell Zendesk to not auto-reopen the ticket |
+| `skip_autosolve` | Tell Zendesk to not auto-solve the ticket |
+| `skip_autosolve_message` | Tell Zendesk not to send a message about the ticket being autosolved |
+| `skip_community_automation` | Tells Zendesk to not send the community autoresponder message |
+| `skip_gdpr_automation` | Tell Zendesk to not run any Account Deletion automations/autoresponders |
 
 ## Other Important Tags
 
@@ -106,3 +88,4 @@ As a note, there should only ever be one of these on a ticket
 | `verification_requested` | We have requested information to verify the end-users support entitlement |
 | `customer_verified` | We have been able to associate an end-user after requesting they prove their support entitlement |
 | `emergency_customer_verified` | We were able to associate an end-user who is requesting an emergency support after they’ve successfully proven their support entitlement. |
+| `trigger_manual_emergency` | Tells Zendesk to run the emergency processes on the ticket |
