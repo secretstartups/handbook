@@ -14,12 +14,13 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Open the `ci-registry` snippet.
 1. Copy the entire line that starts with `volumes = ` from **step 3** of the snippet's instructions.
 1. On your computer's file system, open the `config.toml` file located in the `.gitlab-runner` directory. 
-1. In your local `config.toml` replace the line that starts with `volumes =` with the line you copied above. This allows your local GitLab Runner to access Docker running on your computer.
+1. In your local `config.toml`, replace the line that starts with `volumes =` with the line you copied above. This allows your local GitLab Runner to access Docker running on your computer.
 1. In a terminal, restart your runner with `gitlab-runner restart` 
 
 ### Add a `Dockerfile`
 
-1. Navigate to the tab with the **CICD Hands On Demo** project. Click on `Dockerfile` to open it.
+1. In the tab with the **CICD Hands On Demo** project, navigate to the project's repository page. 
+1. Click on `Dockerfile` to open it.
 1. In the upper right-hand corner of the file, click the **Copy file contents** button. 
 1. In another tab, open your **CICD Demo** project from earlier labs.
 1. Add a new file by clicking **+ > This directory > New file**
@@ -29,7 +30,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ### Define a `build image` job
 
-1. In the tab with the **Snippets** page of the **CICD Hands On Demo** project, open the `ci-registry` snippet and click the **Copy file contents** icon in the upper right corner of the file.
+1. In the tab with the **Snippets** page of the **CICD Hands On Demo** project, navigate to the project's **Snippets** page, open the `ci-registry` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. In the browser tab with the **CICD Demo** project, click on your `.gitlab-ci.yml` file and click the blue **Edit** button. Paste the snippet at the end of the file.
 1. Edit the `build image` job definition by locating the `tags` section and replacing the `byo-runner` tag with a `docker` tag
 1. In the **Commit message** field, type `add CI registry`, leave the **Target Branch** set to `master`, and click **Commit changes**.

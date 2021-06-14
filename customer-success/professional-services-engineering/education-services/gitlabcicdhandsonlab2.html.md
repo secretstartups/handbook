@@ -26,11 +26,11 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. In the top navigation bar, click **Groups > Your Groups**.
 1. Expand the arrow to the left of **Training Users**. Within that group, expand the arrow to the left of your session's group. Within your session's group, open the group called **My Test Group - \<USERNAME\>**
 1. Click the blue **New project** button. Click **Create blank project**.
-1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, ensure `<USERNAME>-group` is visible to ensure you are within your group's namespace and not your user's top-level namespace.
+1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select `training-users/session-<SESSION>/<USERNAME>` to create your project within your group's namespace and not your user's top-level namespace.
 1. Optionally include a few notes in the **Project description** field.
 1. Under **Visibility Level**, click the radio button for **Private**.
 1. Enable the **Initialize repository with a README** checkbox. <br/>Note: If you do not initialize your repository with a README, you will create a "bare" Git repo that will be difficult to work with in GitLab until you push files to it from a local repository.
-1. Click the green **Create project** button.
+1. Click the blue **Create project** button.
 
 ### Register a Specific GitLab Runner dedicated to your project
 1. In your **CICD Demo** project, in the left-hand navigation pane, click **Settings** > **CI/CD**
@@ -44,11 +44,11 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. When prompted for the runner's description, press `enter` to accept the default.
 1. When prompted for the runner's tags, press `enter` to assign it no tags.
 1. When prompted for the executor, enter `shell`
-1. You should see a message saying that your runner has registered successfully! Run `gitlab-runner list` to see a list of all registered runners, including the one you just registered.
+1. You should see a message saying that your runner has registered successfully!<br/>Run `gitlab-runner list` to see a list of all registered runners, including the one you just registered.
 
 ### Add a `.gitlab-ci.yml` file 
 1. In the GitLab webpage, go to the left-hand navigation pane and click **Project overview**
-1. In the repository, add a new file by clicking: **+ > This directory > New file**
+1. Add a new file to the project's repository by finding the **+** dropdown that's next to **cicd-demo** (*not* the **+** in the black navigation bar) and clicking: **+ > This directory > New file**
 1. In the **File name** field, enter `.gitlab-ci.yml`
 1. Select `.gitlab-ci.yml` for template type and apply the `Bash` template. This will pre-populate your configuration file. 
 1. To create a minimal `.gitlab-ci.yml` file:
@@ -62,7 +62,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
      - test
    ```
    
-1. Click the green **Commit changes** button.
+1. Click the blue **Commit changes** button.
 
 ### View a pipeline's status, stages, jobs, and gitlab-runner
 1. In the left-hand navigation pane, click **CI/CD > Pipelines**

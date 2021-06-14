@@ -13,8 +13,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
 1. Open the `ci-artifacts` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
-1. Click on your `.gitlab-ci.yml` file to view its contents.
-1. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
 1. In the **Commit message** field, type `add CI artifacts`, leave the **Target Branch** set to `master`, and click **Commit changes**. 
 
 ### Add a `main.go` file
@@ -26,9 +25,8 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. In the **File name** field, enter `main.go`
 1. Paste the code you copied from `main.go` at the beginning of line 1 of the new file.
 1. In the **Commit message** field, type `add main.go file`, leave the **Target Branch** set to `master`, and click **Commit changes**.
-1. In the left navigation pane, click **CI/CD > Pipelines** and click the status icon for the pipeline that ran when you added the `build job` definition to `.gitlab-ci.yml` (*hint: it should be the second-to-last pipeline*).
-1. Click the **Retry** icon on the far right of that pipeline's row.
-1. Click the **Running** icon to the left of the pipeline's row. When the `build app` job finishes, click it to review the job's output in a web terminal. *Note: if the job fails with a message about being unable to find `go.mod`, retry it until it passes. This is an intermittent Go build bug.*
+1. In the left-hand navigation pane, click **CI/CD > Pipelines** and click the status icon for the most recent pipeline run to see the status of its jobs.
+1. When the `build app` job finishes, click it to review the job's output in a web terminal. *Note: if the job fails with a message about being unable to find `go.mod`, retry the job until it passes. This is an intermittent Go build bug.*
 1. In the **Job artifacts** panel on the right of the page, click **Browse** and notice that the `app` artifact created by the **build app** pipeline job is available for download. 
 
 ## Suggestions?
