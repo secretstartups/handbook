@@ -227,9 +227,9 @@ These calls don’t require you to submit a scorecard in Greenhouse. If a candid
 
 [See Candidate Experience Specialist Contract Processes section of the handbook](/handbook/hiring/talent-acquisition-framework/ces-contract-processes)
 
-The [Candidate Experience Specialists](/job-families/people-ops/candidate-experience/)) will prepare the contract. While the Candidate Experience Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1 business day. If the contract is time-sensitive, please provide context for the rush. If the Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter via Greenhouse and will provide context.
+The [Candidate Experience Specialists](/job-families/people-ops/candidate-experience/) will prepare the contract. While the Candidate Experience Specialist will prioritize a contract above other tasks, the expected turn around on the task is 1 business day. If the contract is time-sensitive, please provide context for the rush. If the Candidate Experience Specialist cannot meet the 1 business day they will inform the recruiter via Greenhouse and will provide context.
 
-Recruiters should make themselves familiar with the basic knowledge of the contract processes that can be found on the [CES Contract Processes](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#framework-coord) page and the [CContracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements) page.
+Recruiters should make themselves familiar with the basic knowledge of the contract processes that can be found on the [CES Contract Processes](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#framework-coord) page and the [Contracts, Probation Periods & PIAA](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements) page.
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
