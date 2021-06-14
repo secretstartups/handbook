@@ -146,7 +146,7 @@ Effective coaches use a defined set of skills to enable coaching coversations. T
 <details>
 <summary>Encouragement</summary>
 
-  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the [feedback](/handbook/people-group/guidance-on-feedback/) has landed.
+  Encourage and show enthusiasm by identifying strengths in the coachee to build trust. Be open and ground yourself in individual team member strengths. Reflect on what you noticed and determine the impact on the coachee to see that the <a href="https://about.gitlab.com/handbook/people-group/guidance-on-feedback/">feedback</a> has landed.<br>
 
   <p>
     <b>When to Encourage</b>
@@ -235,10 +235,10 @@ Building trust is an important ingredient in coaching and team dynamics. Trust l
 
 The trust equation uses four objective variables to measure trustworthiness: 
 
-1. Credibility: My word is believable. Put simply, credibility rates "what you say and how believable you are to others." In other words, you must be credible if you are asking others to follow your lead. 
-2. Reliability: I do what I say I will do. Reliability measures "actions, and how dependable you appear." Can you be counted on? People need to know that their leaders will come through for them. 
-3. Intimacy: I empathize with others. Intimacy considers 'how safe people are sharing information with you." When you are presented with confidential information, you need to keep it so. 
-4. Self-Orientation: My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self-focus will lower your degree of trustworthiness. 
+1. **Credibility:** My word is believable. Put simply, credibility rates "what you say and how believable you are to others." In other words, you must be credible if you are asking others to follow your lead. 
+2. **Reliability:** I do what I say I will do. Reliability measures "actions, and how dependable you appear." Can you be counted on? People need to know that their leaders will come through for them. 
+3. **Intimacy:** I empathize with others. Intimacy considers 'how safe people are sharing information with you." When you are presented with confidential information, you need to keep it so. 
+4. **Self-Orientation:** My focus is on my team, not personal gain. Self-orientation is a personal focus on yourself or others. Too much self-focus will lower your degree of trustworthiness. 
 
 The trust equation has one variable in the denominator (self-orientation) and three in the numerator (credibility, reliability, intimacy). Increasing the value of the factors in the numerator increases the value of trust. Increasing the denominator (self-orientation) decreases the value of trust. 
 
