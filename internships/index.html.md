@@ -13,7 +13,7 @@ description: "Learn about GitLab's engineering internship program."
 {:toc .hidden-md .hidden-lg}
 
 # <i class="far fa-newspaper" id="biz-tech-icons"></i>  About
-GitLab has established an on-going internship program that offers students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. Our goal is to run an inclusive enginereing internship program that will provide a fair and equal opportunity for all qualifying candidates.
+GitLab has established an on-going internship program that offers students, graduates, career switchers, and those returning to the workforce an opportunity to further their careers. Our goal is to run an inclusive engineering internship program that will provide a fair and equal opportunity for all qualifying candidates.
 
 On this page, you'll learn more about how we first began this program, and how to get involved as [an applicant](/handbook/engineering/internships/#how-to-apply-for-an-internship), or as an engineering team, [how to request an intern for your team](/handbook/engineering/internships/#how-to-request-an-intern-for-your-team). 
 
@@ -62,7 +62,7 @@ As an example of an intern position in our job families please review the [Softw
 
 The ideal duration is a minimum of 4 months.
 
-An internship can start anytime. Since it is a lead-in to our fulltime hiring process, internships it should not be delayed unnessarily. Engineering interships are not specifically linked to a cohort or class, nor to specific seasons such as university semesters or summer breaks.
+An internship can start anytime. Since it is a lead-in to our fulltime hiring process, internships it should not be delayed unnecessarily. Engineering interships are not specifically linked to a cohort or class, nor to specific seasons such as university semesters or summer breaks.
 
 ### Location
 
