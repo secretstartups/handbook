@@ -208,7 +208,7 @@ Click on the radio button for the type of opportunities you want to see (normall
 1. For each month within the quarter, go to the respective Gross ARR Commit box, double-click and override the value.
 1. Add a note on why the adjustment was made.
 1. Click Save
-1. Repeat this process for Gorss ARR Best Case and Net 50/50. Also, make sure to enter a Renewal Loss Commit and Best Case for each month.
+1. Repeat this process for Gross ARR Best Case and Net 50/50. Also, make sure to enter a Renewal Loss Commit and Best Case for each month.
 1. Once these steps are completed, go to the ARR tab
 1. Here you will need to enter your Quarterly Commit, 50/50 and Best Case calls.  
    1. In the Gross ARR Commit, Gross ARR Best Case and Net 50/50 boxes, manually enter the quarterly amount.
