@@ -332,7 +332,7 @@ If a course is required by specific users to complete, it's best pracitce to ass
 1. You can also add a start and dute date to the assignment. 
 1. Notifications about the upcoming due dates on assigned content are pushed to users 6 days before, 2 days before, and on the due date of the assignment
 1. When assinging content, consider the following
-     1. Is it absolutely required by the learner? If not, use hte `Share` method instead of making an assignment
+     1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
      1. Assign content during the work week, during a time where as many team members as possible will see the assignment email and/or Slack announcements about the newly assigned contnet
 
 
