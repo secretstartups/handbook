@@ -696,7 +696,7 @@ After a team member has completed the Access Request process for any elevated pe
 After a team memebr has completd the Access Request process for `EdGraph` permissions:
 
 1. Navigate to the admin panel. In the `Users` section, locate the user. Click on `Role`. This should show the current roles this user has.
-1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select  `Edgraph` then hit `Save`.
+1. Under their current roles, there is the option to `Add New Role`. In the drop down menu, select  `EdGraph: Reporting Access` then hit `Save`.
 1. Ask the user to log into GitLab Learn and launch `EdGraph` from the waffle navigation. Alert the user that they won't see anything once they launch the app. This only triggers the new user in EdGraph. Ask the user to notify you once they've launched the app
 1. After they've launched EdGraph, coordinate with the EdCast team via email to add each user as a viewer of relevant GitLab data in EdGraph. This is not a permission that our admin have and must be done via the EdCast team.
 1. Once the user permissions are added, share relevant dashbaords with each new users. It's best practice to share a direct link to the user via an issue or Slack.
