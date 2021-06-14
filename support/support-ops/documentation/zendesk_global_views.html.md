@@ -49,55 +49,49 @@ For more information on managing Zendesk via the various GitLab projects, please
 
 ### Current views
 
-| Name | Groups that can see it | Purpose |
-|---|---|---|
-| [My Assigned Tickets](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360062369834) | Shared* | For tickets assigned to you |
-| [Security](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038124479) | Security | For tickets using the Security form |
-| [Professional Services - Paid](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360034420040) | Professional Services | For customer tickets using the Professional Services Form |
-| [Professional Services - Free](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360069758360) | Professional Services | For free user tickets using the Professional Services Form |
-| [Professional Services - Triage](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360069758560) | Professional Services | For tickets using the Professional Services Form that need to be triaged |
-| [Needs Org & Triage](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038101960) | Support AMER, Support APAC, Support EMEA | For tickets missing an organization or in need of triaging |
-| [.com Needs Assignee: AMER + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038122359) | Support AMER | For SaaS tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [.com Needs Assignee: APAC + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038122399) | Support APAC | For SaaS tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [.com Needs Assignee: EMEA + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038102160) | Support EMEA | For SaaS tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [.com with SLA](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038122959) | Support AMER, Support APAC, Support EMEA | This shows all SaaS tickets that have a SLA |
-| [.com Accounts, Groups, Logins](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050768099) | Support AMER, Support APAC, Support EMEA | This shows all SaaS Account tickets |
-| [Free/Self-Provisioned Trial Support](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038103100) | Support AMER, Support APAC, Support EMEA | This if for free customer, trial, and prospect non-SaaS Account tickets |
-| [SM Needs Assignee: AMER + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038122359) | Support AMER | For Self-Managed tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [SM Needs Assignee: APAC + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038122399) | Support APAC | For Self-Managed tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [SM Needs Assignee: EMEA + All Regions](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038102160) | Support EMEA | For Self-Managed tickets that do not have an assignee. These are region based, so they will show tickets where the end-user wanted support in your region and in all regions |
-| [SM with SLA](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038124139) | Support AMER, Support APAC, Support EMEA | This shows all Self-Managed tickets that have a SLA |
-| [License & Renewals](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038103700) | Support AMER, Support APAC, Support EMEA | This shows all tickets using the form L&R |
-| [First Response Hawk](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038124359) | Support AMER, Support APAC, Support EMEA | This shows paid support, prospect, and former customer support tickets with a New status |
-| [Follow-up Required](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766859) | Support Managers | This shows all assigned open/on-hold tickets that are at least 14 days old |
-| [China Comms](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073361819) | China Comms | This shows all new/open tickets that are using the form China Comms Response |
-| [AMER FRT](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073300560) | Support AMER | This is an FRT view specific for the AMER region. This shows all New paid support, prospect, and former customer support tickets where preferred region of support is not present or is set to AMER/All Regions. |
-| [Area of Focus Placeholder](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766879) | Support AMER, Support APAC, Support EMEA | This is a placeholder view for the Areas of Focus workgroup |
-| [View Placeholder](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051670340) | Support AMER, Support APAC, Support EMEA | This is a placeholder view. We don’t know what it will be yet. |
-| [New](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050766519) | Shared | This shows all tickets with a status of New |
-| [Open](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360050851560) | Shared | This shows all tickets with a status of Open |
-| [Pending](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+66715947) | Shared | This shows all tickets with a status of Pending |
-| [On-hold](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17148146&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+86000057) | Shared | This shows all tickets with a status of On-hold |
+**Note**: Any inactive views are exclude from this table.
+
+| Name | Order | Groups that can see it |
+|------|:-----:|------------------------|
+| [My Assigned Tickets](https://gitlab.zendesk.com/agent/admin/views/360062369834) | 1 | Shared |
+| [AMER Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076150200) | 8 | Support AMER |
+| [APAC Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076456599) | 9 | Support APAC |
+| [EMEA Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076456639) | 15 | Support EMEA |
+| [AMER+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150240) | 16 | Support AMER |
+| [APAC+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150260) | 17 | Support APAC |
+| [EMEA+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150280) | 18 | Support EMEA |
+| [SaaS Account](https://gitlab.zendesk.com/agent/admin/views/360050768099) | 20 | Support AMER<br>Support APAC<br>Support EMEA |
+| [Free user tickets](https://gitlab.zendesk.com/agent/admin/views/360038103100) | 22 | Support AMER<br>Support APAC<br>Support EMEA |
+| [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 24 | Support Focus: L&R |
+| [Instance Management](https://gitlab.zendesk.com/agent/admin/views/360076285119) | 25 | Support Focus: Instance Management |
+| [Secure](https://gitlab.zendesk.com/agent/admin/views/360075979580) | 27 | Support Focus: Secure |
+| [Managing Group/Project](https://gitlab.zendesk.com/agent/admin/views/360076285179) | 28 | Support Focus: Managing Group / Project |
+| [GitLab Features](https://gitlab.zendesk.com/agent/admin/views/360075979680) | 29 | Support Focus: GitLab Features |
+| [Authentication/Authorization](https://gitlab.zendesk.com/agent/admin/views/360075979720) | 31 | Support Focus: Authentication and Authorization  |
+| [CI/CD](https://gitlab.zendesk.com/agent/admin/views/360076285299) | 32 | Support Focus: CI/CD |
+| [GitLab Incidents](https://gitlab.zendesk.com/agent/admin/views/360073862640) | 33 | Support Focus: CMOC |
+| [Other](https://gitlab.zendesk.com/agent/admin/views/360075979760) | 34 | Support Focus: Other |
+| [Support Operations](https://gitlab.zendesk.com/agent/admin/views/360076456699) | 35 | Support Ops |
+| [All new with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980400) | 36 | Managers |
+| [All open with SLA](https://gitlab.zendesk.com/agent/admin/views/360075980520) | 38 | Managers |
+| [Escalated/feedback tickets](https://gitlab.zendesk.com/agent/admin/views/360076456719) | 39 | Managers |
+| [China Comms](https://gitlab.zendesk.com/agent/admin/views/360073361819) | 40 | China Comms |
+| [Professional Services - Triage](https://gitlab.zendesk.com/agent/admin/views/360069758560) | 41 | Professional Services |
+| [Professional Services - Paid](https://gitlab.zendesk.com/agent/admin/views/360034420040) | 42 | Professional Services |
+| [Professional Services - Free](https://gitlab.zendesk.com/agent/admin/views/360069758360) | 43 | Professional Services |
+| [Billing](https://gitlab.zendesk.com/agent/admin/views/360076283979) | 44 | Billing |
+| [Accounts Receivables](https://gitlab.zendesk.com/agent/admin/views/360038103780) | 45 | Accounts Receivable |
+| [Security](https://gitlab.zendesk.com/agent/admin/views/360038124479) | 46 | Security |
+| [New](https://gitlab.zendesk.com/agent/admin/views/360050766519) | 47 | General |
+| [Open](https://gitlab.zendesk.com/agent/admin/views/360050851560) | 48 | General |
+| [Pending](https://gitlab.zendesk.com/agent/admin/views/66715947) | 49 | General |
+| [On-Hold](https://gitlab.zendesk.com/agent/admin/views/86000057) | 50 | General |
+| [Solved](https://gitlab.zendesk.com/agent/admin/views/360050766879) | 52 | General |
+| [Closed](https://gitlab.zendesk.com/agent/admin/views/360051670340) | 53 | General |
 
 ## Moving tickets between views
 
 The criteria for most views is centered around the form the ticket is using. But
 there are some scenarios where the tags on a ticket can cause it to show in
-multiple areas.
-
-### Priority Prospects
-
-As it is often impossible to tell where these tickets should live, there will
-show in both Self-Managed and SaaS views. As such, there are two tags you can
-add onto the ticket to help out here:
-
-* `prospect_saas` will specificy it should only show in SaaS views.
-* `prospect_sm` will specificy it should only show in Self-Managed views.
-
-### Missing SLA
-
-When the `missing_sla_tag` is present on a ticket, it will always show in the
-Needs Org & Triage view. As this tag is a safety net to prevent tickets from
-disappearing from all views, this tag is never removed automatically. As such,
-you will need to ensure a SLA tag is present and then remove the tag to remove
-it from the Needs Org & Triage view.
+multiple areas. In these cases, it is best to reach out to Support Operations
+for guidance.
