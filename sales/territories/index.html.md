@@ -126,7 +126,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis |
-| Public Sector | **State and Local (SLED South)** | Mark Williams | Alexis Shaw | Evan Mathis |
+| Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey |
