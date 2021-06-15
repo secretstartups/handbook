@@ -26,7 +26,7 @@ We use these to determine business hours and various regional working hours.
 * Tuesday: 0000-2400
 * Wednesday: 0000-2400
 * Thursday: 0000-2400
-* Friday: 0000-1900
+* Friday: 0000-1700
 * Saturday: Closed
 
 ### [EMEA](https://gitlab.zendesk.com/agent/admin/schedules/360000029879)
@@ -73,7 +73,7 @@ time is not observed there.
 * Tuesday: 0000-2400
 * Wednesday: 0000-2400
 * Thursday: 0000-2400
-* Friday: 0000-1900
+* Friday: 0000-1700
 * Saturday: Closed
 
 ## Holidays
