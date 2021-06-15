@@ -651,6 +651,17 @@ Additional Information on the QTC Process is available in the [Private Alliance 
 
 
 ## Compensation on Channel Opportunities 
+
+### Channel Compensation Policy for Cross-Geo Partner Deals
+**Cross-Geo _Partner_ Deals** are defined as opportunities that land (ship to) a GEO that differs from the Partner's GEO headquarters (i.e. ‘Landing GEO’ vs. ‘HQ GEO’).
+
+GitLab must support Cross-GEO Deals in order to strengthen and enforce the channel business behaviors: collaboration, results and efficiency. The primary focus of Channel Managers is building revenue in their assigned territory and GEO. Therefore, managers should engage their peers on Cross-GEO Deals to ensure success for both GitLab and the Partner. 
+
+In the event of a Cross-GEO Deal, the Channel Manager located in the ‘Landing GEO’ is the Channel Manager of record and receives compensation on the opportunity. The expectation is that the ‘Landing GEO’ Channel Manager takes lead on the opportunity and works with the partner and customer to drive the deal. 
+
+To ensure correct compensation, the applicable Channel Manager needs to populate their name in the Channel Manager field in SFDC on the Opportunity. 
+
+
 ### Channel Neutral
 
 Comp Neutrality applies to all GitLab Opportunities where a Partner is involved in the physical  transaction (takes paper) **<span style="text-decoration:underline;">and</span>** a Partner Program discount is applied on the executed Partner Order Form.
