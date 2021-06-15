@@ -211,6 +211,10 @@ To ensure we avoid this risk, we:
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/MOlzSj6eZ3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## 10. Loss of velocity
 {:#loss-of-velocity}
 
