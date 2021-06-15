@@ -13,7 +13,7 @@ The Professional Services Engagement Manager (Intermediate) reports to the Sr. D
 
 #### Professional Services Engagement Manager (Intermediate) Job Grade 
 
-The Professional Services Engagement Manager (Intermediate) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Professional Services Engagement Manager (Intermediate) Responsibilities
 
@@ -50,7 +50,7 @@ The Senior Professional Services Engagement Manager reports to the Sr. Director,
 
 #### Senior Professional Services Engagement Manager Job Grade 
 
-The Professional Services Engagement Manager (Intermediate) is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Professional Services Engagement Manager Responsibilities
 
