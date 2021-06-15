@@ -358,7 +358,7 @@ Year 5: Put in 3K, GitLab matches 1500. Leave the company get 15K own money + $7
 
 ### 401(k) Rollover
 
-If you leave GitLab and would like to rollover your 401(k) account, contact Betterment directly to get more information about this process. You can reach Betterment, by Chat in the app, by phone at 855-906-5281, and by email at `support@betterment.com`. They also have a Rollovers section on their site going into detail.
+If you leave GitLab and would like to rollover your 401(k) account, contact Betterment directly to get more information about this process. If you are needed to locate your account number, you can find it by clicking Settings and then Accounts. You can reach Betterment, by Chat in the app, by phone at 855-906-5281, and by email at `support@betterment.com`. They also have a Rollovers section on their site going into detail.
 
 ### 401(k) Committee
 
