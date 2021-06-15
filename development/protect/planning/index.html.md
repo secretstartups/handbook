@@ -182,7 +182,7 @@ We are using the Fibonacci sequence for issue weights. Definitions of each numer
 
 A list of the steps and the parts of the code that will need to get updated to implement this
 feature. The implementation plan should also call out any responsibilities for other team members
-or teams. [Example](https://gitlab.com/gitlab-org/gitlab/issues/5656#execution).
+or teams. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/326975#implementation-plan).
 
 The goal of the implementation plan is to spur critical analysis of the issue and have the engineer refining the issue
 think through what parts of the application will get touched. The implementation plan will also
@@ -194,7 +194,7 @@ The issue verification should be done by someone else other than the MR author[^
 
 1. When an engineer has merged their work, they should move their issue into the verification status, indicated by the `~workflow:verification` label and wait until they receive notification that their work has been deployed on staging via the release issue email. 
 1. After the engineer has received the notification and verified their work in staging, they leave a comment summarizing the testing that was completed, and unassign themselves from the issue.
-1. At consistent intervals, engineers should check for issues with the `~workflow:verification` status and verify other engineer's work.
+1. Unassigned issues in the `~workflow:verification` state are are assigned randomly by the triage bot based on the [verification policy](https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/groups/gitlab-org/container-security/verification.yml).
 1. An issue can be closed once it has been verified in production.
 
 [^4]: When the engineer who writes the code is the only one verifying it, it increases the chance of defects getting into production because when that engineer tests in a new environment, they are likely to try all the same attempts to break it as they did during writing the code, which does not bring any value. If a person who did not write the code verifies the resolution in a deployed environment, they will come in with a different perspective and is more likely to cover more test cases.
