@@ -155,11 +155,6 @@ The People Experience Team will complete a quarterly audit of which team members
     - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
-- HelloSign Audit
-
-On a quarterly basis, the People Experience Associate in the respective rotation will pull a report from HelloSign with the full list of active team members. 
-    - Create an access request to remove any non active team members as well as removing them from HelloSign. 
-
 - Anniversary Gift Stock Audit
 
 The People Experience Team will complete a quarterly stock audit of the anniversary gift items in Printfection. To check to see what the current stock levels are, follow this process:
@@ -218,7 +213,7 @@ We may be contacted by different vendors who require a team members employment t
 
 Most importantly, check to see whether authorisation has been received from the team member that we may provide the personal information. If no authorisation form is attached, make contact with the team member via email or Slack to get the required consent. 
 - If the vendor is asking for general information in the email, simply respond back to the email with the requested information. 
-- If the vendor is requesting a form to be completed, complete the form via HelloSign and encrypt the document before sending via email. 
+- If the vendor is requesting a form to be completed, complete the form via Docusign and encrypt the document before sending via email. 
 - If the vendor is requesting a form to be completed for a US team member, forward this request on to the US Payroll team to have completed. 
 - If you need additional figures that we do not have access to, send a message in the `payroll-peopleops` Slack channel to request the information needed to complete the form. 
 
@@ -286,27 +281,7 @@ When a new team member starts, the New Hire Swag email is sent with a link to Pr
 - Click Generate Report at the top of the page
 - You can download the report as a CSV and compare the report to the new hires for the week on the Onboarding tab of the People Operations/People Experience Associate tracker.
 
-Should the PEA find any abuse of the link, they will need to report to the Manager, People Operations as well as the Senior Manager of Brand Activation. 
-
-#### HelloSign
-
-As the DRI for HelloSign, when a team member needs to have access to sign documents for the company, an access request needs to be created and assigned to the People Experience Team for provisioning. Please ensure to first ask the team member whether they will be signing more than 5 documents per month before allocating a seat with HelloSign. 
-
-- If no, then suggest the free version of HelloSign which allows the team members to signup and send up to 5 documents per month. 
-- If yes, proceed with sending the team member an invitation to HelloSign as per the steps below: 
-
-1. Log into [HelloSign](https://app.hellosign.com/home/) using your personal account information
-1. Select `Team` on the left hand-side of the page
-1. Insert the team members GitLab email address and click `Invite`
-1. Take a screenshot of the confirmed invitation sent and upload to the Access Request as confirmation
-
-### Monthly Billing
-
-When monthly expenses are due, we need to be able to provide Finance with the specific team members name in order to assign to the correct Department. To do this we would need to complete the following steps:
-
-1. Download the invoices from HelloSign which can be found under the 'Billing' section. 
-1. Send a request to HelloSign Support on a monthly basis for the specific team members which the costs that have been charged, relates to. Often the response is not received in time for the monthly expenses. 
-1. Once the list is received from HelloSign, simply send the Accounts Payable Specialist an email with the relevant team member information.  
+Should the PEA find any abuse of the link, they will need to report to the Manager, People Operations as well as the Senior Manager of Brand Activation.  
 
 ### Regeling Internet Thuis form
 
