@@ -11,7 +11,7 @@ The Solutions Manager (Intermediate) reports to Sr. Manager of Professional Serv
 
 ### Solutions Manager (Intermediate) Job Grade 
 
-The Solutions Manager (Intermediate) is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Solutions Manager (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Solutions Manager (Intermediate) Responsibilities
 
@@ -43,7 +43,7 @@ The Senior Solutions Manager reports to Sr. Manager of Professional Services Pra
 
 ### Senior Solutions Manager Job Grade 
 
-The Senior Solutions Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Solutions Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Solutions Manager Responsibilities
 
