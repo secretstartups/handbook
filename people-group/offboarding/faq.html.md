@@ -32,7 +32,7 @@ A guideline and template for managers has been provided in the [Communicating De
 
 #### When will I recieve access to the Slack Channel `#gitlab-alumni`?
 
-If you are [eligible]((/handbook/people-group/offboarding/#gitlab-alumni-program) for the Alumni channel, the People Experience team will submit a Access Request during the offboarding process. A team member will recieve an email within 3 business days after offboarding. 
+If you are [eligible](/handbook/people-group/offboarding/#gitlab-alumni-program) for the Alumni channel, the People Experience team will submit a Access Request during the offboarding process. A team member will recieve an email within 3 business days after offboarding. 
 
 #### Is there anything I need to do before my last day?
 
@@ -58,7 +58,7 @@ A laptop wipe/reset is required once you have been offboarded. The IT OPs team w
 
 #### Can I purchase my laptop from GitLab?
 
-IT Ops will contact you after your last day to determine if this is a possibility.
+IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
 
 ### Compensation 
 
