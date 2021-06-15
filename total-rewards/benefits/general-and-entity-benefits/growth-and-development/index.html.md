@@ -126,6 +126,43 @@ The following programs have been contributed by leaders across the organization.
 | Finance/Accounting | Licenses and CPE Credits | Program Examples: Certified public accountant, Certified financial analyst, Certified management accountant, Enrolled agent, Certified internal auditor, Certified fraud examiner, Chartered global management accountant, Certified Payroll Professional, Fundamental Payroll Certification |
 | Development and Product | [Certified Agile Leadership](https://www.scrumalliance.org/get-certified/agile-leadership/certified-agile-leadership) | `Scrum Alliance certified agilists who teach Certified Agile Leadership demonstrate years of real-world experience and success coaching agile teams and supporting agile transformations.` |
 
+### Crucial Conversations training 
+
+The Learning and Development team is excited to deliver [Crucial Conversations](/handbook/leadership/crucial-conversations/) training internally to team members. Currently, 2 members of the GitLab L&D team are certified to deliver this training. The team will co-deliver the Crucial Conversations content in a hybrid format, including self-paced learning and live learning practice sessions. A detailed training outline is included below:
+
+**Total program length:** 4 Weeks
+**Time commitment per week:** Approx 2 hours self-paced and 1 hour live practice session
+
+| Week Number | Topic | Commitment |
+| ----- | ----- | ----- |
+| 1 | TBD | 3 hours |
+| 2 | TBD | 3 hours |
+| 3 | TBD | 3 hours |
+| 4 | TBD | 3 hours |
+
+Training weeks will run Wednesday-Wednesday, with live trainings each week hosted at multiple times across Tuesday/Wednesday. 
+
+Upon completion of the 4 week training, you will earn an official Crucical Conversations certification from VitalSmarts.
+
+Crucial Conversations charges per-learner to deliver this content. Each license costs $295 per license. The following section outlines how the team member G&D benefit can be used to participate in this training.
+
+1. First, please fill out [this Google form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform) to express interest in taking the training. You are **not** committing to the training by filling out this form.
+1. The L&D team will assess interest/team need and organize cohorts based on this Google form. The team will contact you to confirm your availability before signing you up for a cohort.
+1. Once you've been contacted by the L&D about an upcoming cohort, you will commit to the cohort by taking 2 required actions.
+     - First, talk to your manager for verbal approval and submit the [Growth and Development benefit form for under $1,000](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits)
+     - Once application is approved, use the unique link shared by the L&D team to purchase your license. After purchase, you will immediately have access to the online portal and can submit for reimbursement following the G&D benefit process
+1. You must complete the Crucial Conversations self-paced training and attend **at least** 4 live training sessions **within 3 months of starting the training**. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license. 
+
+**An important note:** As you are planning your professional development for the calendar year, please keep in mind the cost of this training program ($295 per license). If you have already exceeded your G&D budget or plan to later in the year, you could elect to pay for this license out of pocket, or plan to take the training next year.
+
+#### Tax Implications for Tuition Reimbursement by Country
+
+In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
+
+For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
+
+Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gitlab.com) for any tax-related questions in your country.
+
 
 ### Administration of Growth and Development Reimbursements (Over $1,000)
 
@@ -228,7 +265,7 @@ This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c92235
 
 CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Emails`
 
-Subject: `Growth and Development Benefit Form
+Subject: `Growth and Development Benefit Form`
 
 Text: 
 
@@ -247,7 +284,7 @@ Kind regards,
 
 CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
 
-Subject: `Growth and Development Benefit Form
+Subject: `Growth and Development Benefit Form`
 
 ```
 Hi [Application Name]
