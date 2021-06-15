@@ -95,7 +95,7 @@ Don’t assume you know more than others, give people a chance to add their pers
 
 ### Connect with your team members
 
-To help team members to feel comfortable being themselves, leadership should consider authentic ways to connect to their team members. At its highest level everyone wants to feel visbile and included in order to perform their best work.  Being visible usually includes being seen for accomplishments, acknowledgement of contributions, what is the same and what differs from team member to team member.  Leaders and all team members should show an interest in and respect for differences and contributions.
+To help team members to feel comfortable being themselves, leadership should consider authentic ways to connect to their team members. At its highest level everyone wants to feel visible and included in order to perform their best work.  Being visible usually includes being seen for accomplishments, acknowledgement of contributions, what is the same and what differs from team member to team member.  Leaders and all team members should show an interest in and respect for differences and contributions.
 
 Considerations could be that of language/terminology such as “spouses” or “partners” instead of making assumptions about team members sexual orientation.  Being considerate of dietary restrictions when choosing food options for Contribute or other local gatherings.  Acknowleding birthdays, recalling personal things that might have been mentioned in past calls such as moving to a new home, an ill family member or team member themselve and following up to inquire in an authentic way.
 
