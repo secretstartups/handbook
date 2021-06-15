@@ -139,6 +139,10 @@ For approvals as part of an approval group, the individual must be a member of t
 - Review your cart by clicking on the "Cart" button at the top of the page.
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
 
+
+If a supplier is not exclusively paid by credit card, the requester must tag the `@accountspayableapprovalgroup` group in a comment when submitting the requisition so they can remove it from CoupaPay.
+{: .alert .alert-warning}
+
 **REQUISITION HEADER LEVEL**
 
 ![coupa-image-7](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa7.png)
