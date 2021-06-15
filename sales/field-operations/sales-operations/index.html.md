@@ -436,18 +436,18 @@ Many opportunities and accounts are owned by Sales Admin.
 These opportunities and accounts are updated twice weekly on Mondays and Thursdays. We also do an additional upload during the end of the month for closing. 
 We leverage the [Sales Admin Owned Opps Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM) and this [Territories Mapping file](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1159245802) to update the Sales Admin Owned Opps and accounts. 
 
-There are 2 types of fixes: 
-1. Easy - opportunities owned by Sales Admin that have Account owners populated to match
-2. Hard - opportunities and accounts owned by Sales Admin that needs to be manually mapped and assigned to the correct owner
+**Types of fixes:** 
+1. **Easy** - opportunities owned by Sales Admin that have Account owners populated to match
+2. **Hard** - opportunities and accounts owned by Sales Admin that needs to be manually mapped and assigned to the correct owner
 
-Steps to update Easy Fix Opportunities 
+**Steps to update Easy Fix Opportunities** 
 1. Locate the Easy Fix Sales Admin Owned Opportunities [Report](https://gitlab.my.salesforce.com/00O4M000004aiGB) from the [dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM).
 2. Export the report into an Excel or Google Sheets.
 3. Update the the Opportunity Owner field, making sure to match the Opportunity owner with the account owner. 
 4. Clear out the TSP Date, and next TSP owner fields to avoid reassignment.
 5. Use dataloader to update the opportunities. 
 
-Steps to update Hard Fix Opportunities and Accounts 
+**Steps to update Hard Fix Opportunities and Accounts** 
 1. Locate the Hard Fix Sales Admin Owned Opportunities [Report](https://gitlab.my.salesforce.com/00O4M000004aiGL) from the [dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYRM).
 2. Export the report into an Excel or Google Sheets and instert 2 rows on the sheet to add Owner ID for both accounts and opportunities. 
 3. First, determine the account's market segment to ease the mapping process. Filtering by Market Segment allows for easier vlookup process. Sales Ops uses this [mapping file](https://docs.google.com/spreadsheets/d/1iTDCaHN-i_xrfiv_Tkg27lYbZ3LHsERySkvv4cPsSNo/edit#gid=1159245802) to assign opportunities and accounts.
@@ -460,7 +460,7 @@ Steps to update Hard Fix Opportunities and Accounts
 10. Double check to make sure all opportunities are populated. 
 11. Prepare the upload sheet and update using dataloader. There will need to be 2 uploads for Hard fixes: One for Opportunities, and One for accounts. 
 
-Things to remember 
+**Things to Remember** 
 1. Remember to check the order type of the opportunity. Many accounts have First Order Account Executives so make sure to assign the opportunities to the correct owner.
 2. Double check opportunities closed over $2,500 that are populated for SMB. Make sure to check the account information is correct and not wrongly assigned. 
 3. Make sure to clear the TSP Date and TSP owner fields to avoid reassignment to other Account Executives after the weekly update.
