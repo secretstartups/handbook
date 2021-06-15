@@ -97,6 +97,8 @@ and for [specific instructions on how to do an appropriate level of investigatio
 
 ### Responsibility
 
+#### Triage, record, and unblock failures
+
 - The Friday before the new rotation begins, one of the Quality Engineering Managers will create an issue in the [pipeline-triage](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/new?issuable_template=Pipeline%20Triage%20Report) project.
 - The Quality Engineering Manager also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week.
 - During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
@@ -108,6 +110,11 @@ and for [specific instructions on how to do an appropriate level of investigatio
 - Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
 - Every day the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
 - Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
+
+#### Other recurring tasks
+
+- There is a monthly reminder in the #quality-weeklystandup channel to check the Knapsack report and update it if necessary. One of the current DRIs should take this on.
+- There is a weekly reminder in the #quality-weeklystandup channel to check if a new Chrome version was released and update pipelines if necessary. One of the current DRIs should take this on.
 
 ### Schedule
 
