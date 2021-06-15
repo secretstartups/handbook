@@ -120,9 +120,9 @@ Open - Resellers, integrators and other sales and services partners join the pro
 
 [Channel Neutral Compensation](/handbook/sales/commissions/#channel-neutral-compensation)
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total iACV to GitLab (via discounts or rebates). More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total Net ARR to GitLab (via discounts or rebates). More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
 
-FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total IACV on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
+FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total Net ARR on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
 Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/#fy21-professional-services-spiff-v2). So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
 
@@ -210,8 +210,8 @@ Partners often will have their own best practices selling methodologies in place
     <td>The Partner and/or Channel Manager will proactively share key learnings/updates on deals that may be useful for the AE’s potential forecast update.</td>
     </tr>
     <tr>
-    <td><strong>Command plans for all deals over $5k amount or $10k IACV (SMB) or $10k amount or $20k IACV (Mid-Market)</strong></td>
-    <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not IACV) or $10k in Mid-Market. Full for deals over $10k IACV in SMB or $20k in Mid-Market</td>
+    <td><strong>Command plans for all deals over $5k amount or $10k Net ARR (SMB) or $10k amount or $20k Net ARR (Mid-Market)</strong></td>
+    <td>Overview section must be completed for deals over $5k in SMB (AMOUNT, not Net ARR) or $10k in Mid-Market. Full for deals over $10k Net ARR in SMB or $20k in Mid-Market</td>
     <td>The AE is still DRI for Command plan construction <em>however, </em>the Partner may be able to collect and share inputs to some of its elements. The <a href="https://docs.google.com/document/d/1_Sm88mak9vs1pPMC_HhIE-1sq4Tv_NvDpUj_0GNsWbE/edit?usp=sharing">template</a> can be useful for this part of the co-selling motion.<br /><br /><strong>Regarding close plan: </strong>If this is a deal reg, often the Partner has sold to the customer below and will have knowledge of how this works.  
     </td>
     </tr>
