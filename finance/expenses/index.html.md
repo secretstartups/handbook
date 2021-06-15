@@ -60,13 +60,11 @@ Take inspiration from our [all-remote page covering key considerations for a com
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i>  Software
 
 
-1. We have central [license management](/handbook/tools-and-tips/other-apps/#jetbrains) for you to
-   request licenses for JetBrains' products like RubyMine / GoLand.
 1. We do not issue Microsoft Office 365 licenses, as GitLab uses Google Workspace
    ([Docs](/handbook/communication/#google-docs), Slides, Sheets, etc.) instead.
 1. For security related software, refer to the security page for [laptop and desktop
    configuration](/handbook/security/#laptop-or-desktop-system-configuration).
-1. [Options are available for smaller short term Subscription purchases](#subscription-exceptions).
+
 
 #### Individual Subscriptions
 
@@ -76,7 +74,7 @@ GitLab does not reimburse individual software subscriptions (e.g. Apple Music, K
 
 Certain types of individual subscriptions are reimbursable, such as VPN service. If you are uncertain whether a particular service is reimbursable, please contact Finance in the `#expense-reporting-inquiries` channel.
 
-If you need a short-term or individual software subscription, or a single-pay software license, please reach out to your manager before acquiring the software, and contact Finance in the `#accountspayable` Slack channel to discuss options.
+If you need a short-term or individual software subscription, or a single-pay software license, please reach out to Finance in the `#accountspayable` Slack channel to discuss options before acquiring the software.
 
 ### <i class="fas fa-bullseye" id="biz-tech-icons"></i> Hardware
 
