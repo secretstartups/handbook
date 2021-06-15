@@ -37,7 +37,7 @@ In article [Leadership during adversity - 5 tips to help weather the storm](http
 
 ## Additional resources
 
-As managers please make sure you familiarize yourself with the options available for team members and your self in regards to taking care of your mental health. If you have not done so yet, please review the [Mental Health Awareness](/handbook/people-group/people-policy-directory/#mental-health-awareness) section in our handbook. 
+As managers please make sure you familiarize yourself with the options available for team members and your self in regards to taking care of your mental health. If you have not done so yet, please review the [Mental Health Awareness](/handbook/people-policies/#mental-health-awareness) section in our handbook. 
 
 If you are facing challenges within your team and are looking for help and guidance please reach out to your leader as well as your PBP ([People Business Partner](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group)).  Your PBP is here to help you talk through the challenges and work through different plans of success.
 
