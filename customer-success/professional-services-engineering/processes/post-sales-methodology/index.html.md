@@ -97,12 +97,20 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 1. The Project Coordinator will use these [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to ensure communication of the key details with the customer and training participants.
 
-1. During the training planning meeting, be sure to discuss and document all of the event logistics listed in the [Training Event Plan Template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing). The Project Coordinator will create a draft of the Training Event Plan prior to the meeting and update the document during the training planning meeting.
+1. During the training planning meeting, be sure to discuss and document all of the event logistics listed in the [Training Event Plan Template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing). The Project Coordinator will create a draft of the Training Event Plan prior to the meeting and update the document during the training planning meeting.  
+   * During the training planning meeting, the following course introduction are useful to use to review training topics, Zoom teleconferencing, and system requirements.  
+      * [GitLab with Git Basics course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-GitLab+Basics+-+Storyline+output/story.html)  
+      * [GitLab CI/CD course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+CICD+-+Storyline+output/story.html)  
+      * [GitLab for Project Managers course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+PM+-+Storyline+output/story.html)  
+      * [GitLab Security Essentials course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-Security+-+Storyline+output/story.html)  
+      * [GitLab System Administration Basic course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+GitLab+System+Admin+-+Storyline+output/story.html)  
+      * [GitLab InnerSourcing course introduction](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Course+Introduction-+InnerSourcing++-+Storyline+output/story.html)  
+
 1. The Project Coordinator will add the confirmed date(s) and start/stop time(s) for each training session to the issue.
 
-1. The Project Coordinator will set up a Zoom Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Webinar session. Make sure to locate the Zoom webinar information within the email message and familiarize yourself with the Zoom functionality. Here is a useful Zoom article for [Managing Attendees and Panelists in a Webinar](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-attendees-and-panelists-in-a-webinar). Depending on your Zoom set up, you may want to log into https://zoom.us
+1. The Project Coordinator will set up a Zoom Meeting or Webinar session for each session using [these set up instructions](/handbook/customer-success/professional-services-engineering/remote-training-session-setup/) and add the registration link(s) to the issue. You will receive an email message with your unique link to join the Zoom Meeting or Webinar session. Make sure to locate the Zoom information within the email message and familiarize yourself with the Zoom functionality. Here is a useful Zoom article for [Managing Attendees and Panelists in a Webinar](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-attendees-and-panelists-in-a-webinar). Depending on your Zoom set up, you may want to log into https://zoom.us, go to Join a Meeting, and enter the meeting ID/webinar ID to start the Zoom session.
 
-1. At least 2 weeks prior to the training session, the Project Coordinator will email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers they will receive an automated confirmation email with a Zoom Webinar join link unique to each person, along with a link to add the session to their calendar.
+1. At least 2 weeks prior to the training session, the Project Coordinator will email the session registration link(s) to the customer, asking them to send the link(s) to each of the employees whom they want to attend the session(s). When each person registers, they will receive an automated confirmation email with a Zoom Meeting or Webinar join link unique to each person, along with a link to add the session to their calendar.
 
 1. Contact the PS Instructional Designer to confirm you have the latest versions of course slides and other materials.
 
@@ -112,7 +120,7 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 1. Complete the GitLab Training Lab set up steps below. Make sure that you review the lab exercises and ensure that the labs are working properly prior to the first day of class. 
 
-1. When it's time to join the Zoom Webinar session as a presenter, use the Panelist link to join the session.
+1. When it's time to join the Zoom Meeting or Webinar session as a presenter, use the link to join the session.
 
 ##### Training lab pre-course instructor workflow
 
@@ -132,7 +140,7 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. You can see a list of previously created invitation codes and links to relevant details.
 1. For any edits/extensions/etc or any custom redemption rules (different durations than our standards) make a request in the #demo-systems Slack channel
 
-**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know the expiration date (which is 14 days from the date you generated the code).
+**3. Share the invitation code and access instructions below with attendees**: You can do this via an email to attendees as well as including it within their course materials, letting them know the expiration date (which is 7 days from the date you generated the code).
 
 
 **Demo Cloud Access Instructions:**
