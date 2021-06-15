@@ -75,7 +75,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
 
 * Statutory Paternity/Partner leave
   - After your partner has given birth, you are entitled to up to five days of paid parental leave.
-  - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave at 70% (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)).
+  - Within 6 months of the birth you are also entitled to 5 weeks of additional paid leave (["Aanvullend geboorteverlof"](https://www.rijksoverheid.nl/onderwerpen/geboorteverlof-en-partnerverlof/geboorteverlof-voor-partners)) at a maximum of [70% of the maximum day wage](https://www.uwv.nl/particulieren/bedragen/detail/maximumdagloon). If you have a compensation that is higher than the maximum day wage you will receive the 70% of the maximum day wage as set by the UWV. 
   - Please also refer to [the company policy](/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) as when more beneficial they supersede the statutory leave benefits.
 
 * Adoption and Foster Leave
@@ -84,7 +84,7 @@ Eligible team members may apply for the 30% Tax Ruling. More information can be 
   - Team members must notify Total Rewards of their intent to take adoption or foster leave at least three weeks in advance, and must designate this time off as `Parental Leave` in PTO by Roots to ensure that statutory entitlements are properly tracked.
 
 * Statutory Parental Leave
-  - Team members who have a child 8 years old or younger and are qualified for parental leave, are entitled to take unpaid parental leave. The amount of leave may not exceed 26 times the number of hours the team member works in one week. 
+  - Team members who have a child 8 years old or younger and are qualified for parental leave, are entitled to take [unpaid parental leave](https://www.rijksoverheid.nl/onderwerpen/ouderschapsverlof/vraag-en-antwoord/recht-op-ouderschapsverlof). The amount of leave may not exceed 26 times the number of hours the team member works in one week. 
 
 * Vacation Leave
   - Team members are entitled to at least 20 vacation days per year which run concurrently with GitLab PTO. The days will accrue at 1.67 days/month from the team member's start date. Any unused days will be carried into the next calendar year, but expire on July 1st. Should the team member leave GitLab within the calendar year, an entitlement to a pro rata part vacation days exists. Team members must designate all vacation days taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
