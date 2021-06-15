@@ -126,7 +126,7 @@ Process of measurement in progress.
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Important Considerations
 
 #### Vendor Code of Ethics
-All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
+All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](/handbook/people-policies/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
 
 #### Modern Slavery and Human Trafficking Compliance Program
 
@@ -139,7 +139,7 @@ While Modern Slavery can occur in any country and in any market, some regions an
 
 ##### *Actions to Address Modern Slavery Risks*
 
-All vendors, providers and entities providing services or products to GitLab (“Vendors”) are expected to comply with [GitLab’s Partner Code of Ethics](/handbook/people-group/people-policy-directory/#partner-code-of-ethics) which specifically addresses Modern Slavery laws.  Compliance with the Partner Code of Ethics will be included in Vendor contracts and/or purchase orders going forward.  Existing Vendor contracts will be updated with the appropriate language upon renewal.
+All vendors, providers and entities providing services or products to GitLab (“Vendors”) are expected to comply with [GitLab’s Partner Code of Ethics](/handbook/people-policies/#partner-code-of-ethics) which specifically addresses Modern Slavery laws.  Compliance with the Partner Code of Ethics will be included in Vendor contracts and/or purchase orders going forward.  Existing Vendor contracts will be updated with the appropriate language upon renewal.
 
 Those entities who are of higher risk or whom GitLab suspects may be in violation of Modern Slavery laws, may be required to complete an audit.  Audits may be presented in the form of a questionnaire or may be an onsite visit.  Any known or suspected violations will be raised to Legal and/or Compliance.  Failure to comply with Modern Slavery laws will result in a termination of the relationship and GitLab retains all rights in law and equity.
 
