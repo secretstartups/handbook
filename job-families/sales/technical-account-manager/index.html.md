@@ -37,7 +37,7 @@ The Junior TAM reports to the [TAM Manager](https://about.gitlab.com/job-familie
 
 ### Junior TAM Job Grade
 
-The Junior TAM is a job grade [level 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Junior TAM Responsibilities
 
@@ -58,7 +58,7 @@ The TAM (Intermediate) reports to the [TAM Manager](https://about.gitlab.com/job
 
 ### TAM (Intermediate) Job Grade
 
-The TAM( Intermediate) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### TAM (Intermediate) Responsibilities
 
@@ -91,7 +91,7 @@ The Public Sector Technical Account Manager reports to the [Manager, Public Sect
 
 ### Public Sector Technical Account Manager Job Grade
 
-The Public Sector Technical Account Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Public Sector Technical Account Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Public Sector Technical Account Manager Responsibilities
 
@@ -110,7 +110,7 @@ The Senior TAM reports to the [TAM Manager](https://about.gitlab.com/job-familie
 
 ### Senior TAM Job Grade
 
-The Senior TAM is a job grade [level 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior TAM is a job grade [level 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior TAM Responsibilities
 
@@ -139,7 +139,7 @@ The Senior Public Sector Technical Account Manager reports to the [Manager, Publ
 
 ### Senior Public Sector Technical Account Manager Job Grade
 
-The Senior Public Sector Technical Account Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Public Sector Technical Account Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Senior Public Sector Technical Account Manager Responsibilities
 
@@ -158,7 +158,7 @@ The Manager, TAM, reports to the [Director of Technical Account Managers](https:
 
 ### Manager, TAM Job Grade
 
-The Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, TAM is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, TAM Responsibilities
 
@@ -200,7 +200,7 @@ The Manager, Public Sector Technical Account Manager reports to the [Director, P
 
 ### Manager, Public Sector Technical Account Manager Job Grade
 
-The Manager, Public Sector Technical Account Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Public Sector Technical Account Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Manager, Public Sector Technical Account Manager Responsibilities
 
