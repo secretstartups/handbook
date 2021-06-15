@@ -28,7 +28,7 @@ Both the development (assigning resources from the Data Team, from other teams i
    - Downstream modelling could be handled by the Data Team. Planning needs to take place and priorities are set in line with company priorities. **This falls not within the scope of adding a new data source to the data warehouse**, thus this needs to be arranged subsequently. 
 - Adding a new data source to the data warehouse is not an 1 off exercise. As soon as the data is extracted to the data warehouse, on a regular cadence (once week, once a day, multiple times per day, etc..) data will be refreshed. This means something can happen or can go wrong after the implementation. We will need a DRI from the source side (business and technical) to support this process when needed.
 - Data could be used, outside of the EDM. I.e. by a Function Analyst, in the `raw` data layer. Raise an AR to get access to the raw data.
-- When data ends up in the EDM, work is to be performed in [Sisense](/handbook/business-technology/data-team/platform/#visualization) by creating a dashboard. Also for doing this, some technical knowledge is required. 
+- When data ends up in the EDM, work is to be performed in [Sisense](/handbook/business-technology/data-team/platform/#Visualization) by creating a dashboard. Also for doing this, some technical knowledge is required. 
 - The data platform needs to get [access](/handbook/business-technology/data-team/platform/#data-team-access-to-data-sources) to the source system. Although this sounds obvious, this is not always straightforward.
  
 ## New data source
