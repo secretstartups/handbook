@@ -116,6 +116,8 @@ flowchart TD
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
 | Compaas | TBD | one-way (reads from BambooHR) |TBD |
+| Expensify | Workato (API) | one-way (reads from BambooHR) | TBD |
+| Netsuite | Workato (API) | one-way (reads from BambooHR) | TBD |
 
 ### Greenhouse
 
