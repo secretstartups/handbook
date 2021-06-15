@@ -104,8 +104,8 @@ If you create a feature proposal on behalf of a customer, please follow the same
 |------------------|--------------------------------|-----------------------------------------------------------|------------------
 | GitLab           | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/issues/new>           |
 | Omnibus GitLab   | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new>   | Omnibus GitLab specialist
-| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/new>  | GitLab CI specialist
-| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new> | Maintainer of gitlab-workhorse
+| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/issues/new>  | GitLab CI specialist
+| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5bdescription%5d=%2flabel%20%7eworkhorse> | Maintainer of gitlab-workhorse
 
 **See the [GitLab team page](/company/team/) for assignments**
 
