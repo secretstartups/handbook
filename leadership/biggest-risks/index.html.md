@@ -196,6 +196,10 @@ When asked in an [interview](https://youtu.be/7kMQj4O4ZGU) on GitLab Unfiltered 
 >
 > It's not that one approach is better than the other. It's about aligning. You set the company up for a lot of conflict if you don't have shared values.
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ESgEM-6FQGY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 ## 9. Handbook Second
 {:#handbook-second}
 
@@ -211,9 +215,7 @@ To ensure we avoid this risk, we:
 1. Explicitly ask CEO Shadows to [promote working handbook first](/handbook/ceo/shadow/#promote-communication-best-practices)
 1. Empower all team members to help promote our [communication guidelines](/handbook/communication/)
 
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/MOlzSj6eZ3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+
 
 ## 10. Loss of velocity
 {:#loss-of-velocity}
