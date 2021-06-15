@@ -27,7 +27,7 @@ The Assocate Solutions Architect reports to the Manager, Solutions Architect.
 
 #### Associate Solutions Architect Job Grade
 
-The Associate Solutions Architect is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Associate Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Associate Solutions Architect Responsibilities
 
@@ -59,7 +59,7 @@ The Senior Solutions Architect reports to the Manger, Solutions Architect.
 
 #### Senior Solutions Architect Job Grade
 
-The Senior Solutions Architect is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Senior Solutions ArchitectResponsibilities
 
@@ -86,7 +86,7 @@ The Staff Solutions Architect reports to the Manger, Solutions Architect.
 
 #### Staff Solutions Architect Job Grade
 
-The Staff Solutions Architect is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Staff Solutions Architect is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Staff Solutions Architect Responsibilities
 
@@ -131,7 +131,7 @@ The Manager, Solutions Architects reports to the Director, Solutions Architect.
 
 #### Manager, Solutions Architects Job Grade
 
-The Manager, Solutions Architects is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Solutions Architects is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Manager, Solutions Architects Responsibilities
 
