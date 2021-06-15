@@ -238,7 +238,7 @@ The nomenclature can be adjusted for each job family to ensure the appropriate l
 
 GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
-**Professional/Technology**:
+#### Engineering/Product/People/Finance/CEO/Customer Success:
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
@@ -256,7 +256,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 4			|                  | Intern                    |
 
 
-**Sales/Sales Development**:
+#### **Sales/Sales Development**:
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
@@ -267,10 +267,11 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 10    |	Director	      |                                 |
 | 9.5   |                 |                                 |
 | 9	    | Manager (Sales) <br> Senior Manager (Sales)        |         	                      |
-| 8	    | Manager (Demand Generation)                |	Enterprise & Customer Success   |
+| 8	    | Manager (Demand Generation)                |	Enterprise    |
 | 7			|                 | Mid Market                      |
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
 | 5			|                 | Analyst/ SDR  |
+
 
 ## Compa Ratio
 
