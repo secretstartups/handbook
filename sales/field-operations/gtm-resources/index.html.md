@@ -219,6 +219,7 @@ The Industry and Sub-Industry of each account is determined by a combination of 
 1. Admin Manual Override 
 
 **Industry & Sub-Industry Enrichment Cadence**
+
 The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.  
 
 
