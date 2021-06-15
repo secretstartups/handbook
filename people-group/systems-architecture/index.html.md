@@ -40,6 +40,8 @@ flowchart TD
     W[DocuSign]
     X[Glassdoor]
     Y[Zoom]
+    Z[Expensify]
+    AA[Netsuite]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -76,6 +78,10 @@ flowchart TD
     B <--> I
     linkStyle 10 stroke-width:2px,fill:none,stroke:blue;
     B <--> J
+    linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
+    B <--> Z
+    linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
+    B <--> AA
     linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
 
     E --> B
