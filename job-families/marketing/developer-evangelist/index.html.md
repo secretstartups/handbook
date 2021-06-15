@@ -160,7 +160,7 @@ The Developer Evangelism team is responsible for [community engagement](/handboo
 
 #### Responsibilities 
 
-* Provide thoughtful responses to community member questions on online forums monitored by GitLab's Developer Evangelist team including [Hacker News](/handbook/marketing/community-relations/developer-evangelism/hacker-news/), StackOverflow, [GitLab's blog](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#blog-comments) and the [GitLab Forum](https://forum.gitlab.com/). This involves cross-team collaboration with involving experts and providing feedback to product and engineering teams. 
+* Provide thoughtful responses to community member questions on online forums monitored by GitLab's Developer Evangelist team including [Hacker News](/handbook/marketing/community-relations/developer-evangelism/hacker-news/), StackOverflow, [GitLab's blog](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#blog-comments) and the [GitLab Forum](https://forum.gitlab.com/). This involves cross-team collaboration including encouraging other team members to engage with the community and providing feedback to product and engineering teams. 
 * Lead the Developer Evangelist team's support of [community response](/handbook/marketing/community-relations/developer-evangelism/community-response/) situations. This includes:
   * Manage responsibilities and tasks associated with product and/or business changes that impact the community
   * Ensure messaging about these changes addresses community concerns
