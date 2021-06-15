@@ -92,11 +92,63 @@ Blog posts managed through Netlify CMS can be found at [https://about.gitlab.com
 
 Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certain category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
 
+<<<<<<< HEAD
 ### Case Studies/Customer pages
 
 A case study page is a landing page where customers share how they've been able to shorten the software development lifecycle while using GitLab. Here is an example: [https://about.gitlab.com/customers/axway-devops/](https://about.gitlab.com/customers/axway-devops/)
 
 Case studies managed through Netlify CMS can be found at [https://about.gitlab.com/customers/](https://about.gitlab.com/customers/). The content is located/stored in the [/data/case_studies](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/case_studies) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files.
+=======
+### Event landing pages
+
+Event landing pages can be created and edited using Netlify CMS.
+
+Event landing pages managed through Netlify CMS can be found at `http://localhost:4567/event-slippers/name-of-event`. The content is located at [`data/event_slippers/`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/event_slippers) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these `yml` files.
+
+Please note that not all event landing pages are built using this process.
+
+If you'd like to [use this feature for production builds of about.gitlab.com](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/uncategorized/config.rb#L371), please notify the Digital Experience team.
+
+#### Icon library for event template
+
+We have a selection of icons available for the event template. These are svgs and require a specific string to work properly. We are iterating to make this a visual experience in the admin, however for the current iteration you must place the exact string in the icon field for it to work properly. 
+
+The option of icon strings available are: 
+
+* /icons/slp-tracks.svg
+* /icons/slp-separator-vertical.svg
+* /icons/slp-resource-tracks.svg
+* /icons/slp-plus.svg
+* /icons/slp-minus.svg
+* /icons/slp-list.svg
+* /icons/slp-group.svg
+* /icons/slp-earth.svg
+* /icons/slp-devops.svg
+* /icons/slp-dashed-line.svg
+* /icons/slp-countdown.svg
+* /icons/slp-continuous-delivery.svg
+* /icons/slp-connect.svg
+* /icons/slp-community.svg
+* /icons/slp-cog.svg
+* /icons/slp-cloud.svg
+* /icons/slp-chevron-lg-down.svg
+* /icons/slp-checkmark.svg
+* /icons/slp-caret-up.svg
+* /icons/slp-caret-down.svg
+* /icons/slp-calendar.svg
+* /icons/slp-bulb.svg
+* /icons/slp-arrow-left.svg
+
+If you do not designate an icon, we have default ones set up for each block. 
+
+#### Icon color for tracks
+
+For the tracks module, you must designate a background color for the icon. Current options are listed in our [Slippers Tailwind Config](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/tailwind/#Colors). 
+
+
+Place the class name of background color you'd like your icon displayed on. For example `slp-bg-brand-purple`.
+
+>>>>>>> f24e94ad9f4 (add event content type to Netlify CMS handbook page)
 
 ## Admin features
 
