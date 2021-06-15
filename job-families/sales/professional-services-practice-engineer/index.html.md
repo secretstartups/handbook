@@ -15,7 +15,7 @@ The Senior Practice Engineer reports to Sr. Manager of Practice Development.
 
 #### Senior Practice Engineer Job Grade 
 
-The Senior Professional Services Practice Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
+The Senior Professional Services Practice Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) depending on seniority.
 
 #### Senior Practice Engineer Responsibilities
 
