@@ -457,18 +457,18 @@ As PMs, in addition to driving usage of individual features, we should also proa
 
 ``` mermaid
 graph TD;
-    id1(Create - 98%) --> id2(Plan - 56%)
-    id3(Verify - 88%) --> id4(Secure - 15%)
-    id1 --> id5(Manage - 48%)
-    id1 ==> |Golden Journey|id3(Verify - 88%)
-    id3 ==> |Golden Journey|id6(Release - 50%)
+    id1(Create - 99%) --> id2(Plan - 91%)
+    id3(Verify - 84%) --> id4(Secure - 36%)
+    id1 --> id5(Manage - 35%)
+    id1 ==> |Golden Journey|id3(Verify - 84%)
+    id3 ==> |Golden Journey|id6(Release - 37%)
     id3 --> id7(Package - 7%)
-    id6 --> id9(Monitor - 9%)
+    id6 --> id9(Monitor - 8%)
     id6 --> id10(Configure - 2%)
-    id6 --> id11(Protect - 5%)
+    id6 --> id11(Protect - 28%)
 ```
 
-- The percentage here is defined as % of monthly active paid self-managed instances that adopted that stage. The [data](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard?widget=11889000&udv=1341189) captured is a snapshot as of 06/2021.
+- The percentage here is defined as % of monthly active paid ultimate-tier self-managed instances that adopted that stage. The [data](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard?widget=11889000&udv=1341189) captured is a snapshot as of 2021-06-15.
 - The Golden Journey: The bolded path is the "Golden Journey" where we observe as the most common stages adopted by paid customers and serve as foundation to adopt other stages: it starts from Create, then goes to Verify and Release. 
 
 Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.
