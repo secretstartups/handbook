@@ -68,7 +68,7 @@ Work with your crew to send first replies as tickets arrive.
 
 When new Self-managed or SaaS tickets with an SLA are received, there will be a notification in the `#support_response-crew` Slack channel. We have a contractual obligation to reply within the SLA so it's important we reply to all these tickets within the SLA.
 
-1. Look for new ticket notifications in the `#support_response-crew` Slack channel or check your Zendesk '(Your region)+All Regions Needs Assignee' view for tickets showing as N (new).
+1. Look for new ticket notifications in the `#support_response-crew` Slack channel or check your Zendesk '(Your region) Needs Org/Triage/FRT' view for tickets that need a response.
 1. If your crew works in Slack, add the `:eyes:` emoji reaction to **show you're looking** at a ticket. (You can remove this if you've looked and don't know how to reply, or start a thread and ask your crew to collaborate with you.)
 1. Some new tickets will have received an **automatic reply** in Zendesk and already be `Pending`. If your crew works in Slack, add the `:white_check_mark:` emoji reaction so the rest of your crew knows that it's been taken care of. (You might like to read the customer's request and send an additional human reply if that will be helpful to the customer.)
 1. Send a reply to the customer (see FAQ below for tips on how to send a quick initial reply and then work on the ticket later)
