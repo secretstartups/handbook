@@ -125,7 +125,7 @@ depending on the outcome of the call, the talent acquisition team or manager may
     * Three references will be requested, but at least two references need to be completed, and at least one needs to be a past manager.
     * The talent acquisition team will move the candidate to the "Reference Check" stage in Greenhouse, and email the candidate to request their references' contact details.
     * After the reference checks are completed, the person performing the reference check will input a scorecard in Greenhouse with their findings.
-1.  At the same time as starting the reference check process, the talent acquisition team will [start the background check process](/handbook/people-group/people-policy-directory/#background-checks).
+1.  At the same time as starting the reference check process, the talent acquisition team will [start the background check process](/handbook/people-policies/#background-checks).
 1.  **Offer package**: After reference calls are completed successfully, the talent acquisition team moves the candidate to the "Offer" stage and submits the [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) in Greenhouse for [approval](/handbook/hiring/greenhouse/#approval-flows).
 1.  **CEO interviews**: The CEO may choose to interview candidates in a last round interview after reviewing the offer package.
 1.  The recruiter, hiring manager, executive, or CEO should make an **offer** verbally during a call with the candidate, and it will be followed with an official contract as described in [preparing offers and contracts](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/).
@@ -276,7 +276,7 @@ The talent acquisition team will ask candidates for references via email. The hi
 
 ## Background checks
 
-Concurrently with the reference checks, the talent acquisition team will begin a [background check](/handbook/people-group/people-policy-directory/#background-checks) on the candidate. When the talent acquisition team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
+Concurrently with the reference checks, the talent acquisition team will begin a [background check](/handbook/people-policies/#background-checks) on the candidate. When the talent acquisition team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
 
 ## After the Interviews
 

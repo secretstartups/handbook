@@ -107,19 +107,19 @@ The only exception to this should be for executive roles. Please just forward th
 
 ### Reference Checks/Background Checks
 
-GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks) with employment verifications.
+GitLab will obtain references and complete a criminal [background check](https://about.gitlab.com/handbook/people-policies/#background-checks) with employment verifications.
 
 - Once a candidate is moved to the reference check stage, the recruiter should ping `@ces` to kick off the reference check process
    - If the candidate is located in Belgium and the role is not Grade 9 or higher, the CES or Recruiter (whoever kicks off the reference check process) should send the job requisition to the legal team via the #legal slack channel during Reference/Background check phase to determine whether or not the role is a position of trust. 
 - CES will send the Reference Check email via Guide
    - CES will send [references to hiring managers](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/hiring-manager/#step-6hm-complete-references) with recruiter in cc via email using the "Email the Team" option in GH once received from the candidate. Please ensure this email is sent from the CES team.
 - The recruiter should ping @ces once a verbal offer has been made to the candidate. Once the verbal offer has been made, the CES team will initiate the background check process.
-- The Candidate Experience Specialist will [initiate a background check](/handbook/people-group/people-policy-directory/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
+- The Candidate Experience Specialist will [initiate a background check](/handbook/people-policies/#background-checks) and start the contract process for the candidate. CES will continue to monitor the background check until finalized, using the follow-up feature in Greenhouse to ensure the background check is complete and uploaded into BambooHR, if hired
 - Background check results will be received by the Candidate Experience Specialist and brought to the relevant People Business Partner for adjudication
 - Candidates in **Canada** require a form to be filled out by the employer (GitLab). The candidate will send the form with 2 forms of approved ID (listed on the form) and the CES will verify the name on each form of ID, enter it on the background check form. The CES will enter their signature on the form (either by editing a PDF or staging in DocuSign) and send back to the candidate.
 - Employment Verification results will be reviewed by and checked against LinkedIn profiles or CVs by the Candidate Experience Specialist and any discrepancies will brought to the relevant People Business Partner
 
-For additional information on reviewing Background checks see [this page](/handbook/people-group/people-policy-directory/#background-checks).
+For additional information on reviewing Background checks see [this page](/handbook/people-policies/#background-checks).
 
 #### Initiating a Background Check through Greenhouse
 
@@ -233,7 +233,7 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
 
    1. Check all aspects of the offer:
       - Do we have the new team members' legal name in their profile?
-         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name is usually provided for the [background check](/handbook/people-group/people-policy-directory/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name. This reiterates our Diversity, Inclusion and Belonging values and also prevents audit fails down the line when the [People Experience Associates](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) onboard the team member, and the [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) audits all personal data._
+         -  _It is extremely important to enter the team member's full legal name (as much as it is known before visually seeing a legal ID). Full legal name is usually provided for the [background check](/handbook/people-policies/#background-checks) process. It is important to be as accurate as possible, including the person's full legal name as well as any accents used for their name. This reiterates our Diversity, Inclusion and Belonging values and also prevents audit fails down the line when the [People Experience Associates](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) onboard the team member, and the [People Compliance Specialist](https://about.gitlab.com/job-families/people-ops/people-compliance/) audits all personal data._
       - Is the new team members' address listed on the details page?
       - What contract type and entity are required based upon location and offer details?
       - Is it clear how many (if any) stock options this person should receive?
