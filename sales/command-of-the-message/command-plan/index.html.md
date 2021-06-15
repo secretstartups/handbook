@@ -52,6 +52,10 @@ Continuing to improve the fidelity of Command Plans is a critical success factor
 
 Note: The Manager Review Info section (immediately below the Manager Review section) will auto-populate based on information entered in the Manager Review section.
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/QUTfs2lzjLc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Enterprise Area Sales Manager Expectations
 An opportunity consult should be conducted with Strategic Account Leaders (SALs) at least once a month for every $50K+ opportunity. For SALs with fewer than three $50K+ opportunities, consider conducting monthly opportunity consults for their top 3 opportunities.
 
