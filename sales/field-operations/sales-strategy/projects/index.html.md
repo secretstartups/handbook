@@ -15,6 +15,39 @@ description: “Discover GitLab’s Sales Strategy team’s methods and goals”
 The Sales Strategy team is involved in multiple projects in the areas of Analytics, GTM and Field Planning.
 
 ---
+## Fortune Rank to SFDC
+
+#### Goal
+
+Provide visibility of Gitlab expansion within the top 1000 Fortune Rank accounts.
+
+To allow SFDC reporting by Fortune Rank, we will create a 1:1 relationship between every Fortune account and a single SFDC account.
+
+#### Methodology
+
+Fortune Rank 1000 will be extracted from ZoomInfo and manually loaded into SFDC based on the matching ZoomInfo : SFDC ID. 
+
+The following rules were applied for the matching:
+
+1.  ZoomInfo uses the criteria outlined [here](https://university.zoominfo.com/learn/article/implementation-guide-salesforce) in the Duplicate Checking section to match between ZoomInfo:SFDC
+2.  Sales Operations will manualy spot check for accuracy
+
+#### Result
+
+The matched file for FY 2022 can be found here shortly.
+
+#### Considerations
+
+As the matching is primarily automatic, there may be some unexpected discrepancies. If any issue is identified, please reach out to the Sales Operations via chatter on the Account team to have it corrected.
+
+#### Update frequency
+
+The data will be updated once a year around June. The Sales Operations team is responsible for pulling the data and for the upload.
+
+#### SFDC Fields
+
+This placeholder will be updated once the field is added.
+
 
 ## Forbes 2000 to SFDC
 
@@ -44,6 +77,7 @@ The original issue can be found [here](https://gitlab.com/gitlab-com/sales-team/
 #### Result
 
 The matched file for 2020 can be found [here](https://docs.google.com/spreadsheets/d/1sr3MGraDVAbBzqYWVHS0NoABisnWxnViGYRm_7PHE3w/edit#gid=1803700829).
+The matched file for FY 2022 can be found [here](https://docs.google.com/spreadsheets/d/1MrHIPj6OSN3jhXQoBcmvM751y-IT0xffFt_WgmJwsTA/edit#gid=204503389)
 
 #### Considerations
 
@@ -55,7 +89,7 @@ The report will be updated once a year around June. The Sales Strategy team is r
 
 #### SFDC Fields
 
-This placeholder will be updated once the fields are added.
+[Forbes 2000 Rank](https://gitlab.my.salesforce.com/00N4M00000IbEN6?setupid=AccountFields)
 
 ## Potential LAM
 
