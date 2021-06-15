@@ -174,13 +174,13 @@ Provide the URL to validate the request. Examples of valid sources include but a
 
 If the number of employees, according to our sources based on our hierarchy as described in Segmentation has changed, the Sales Ops team will automatically update the accounts segment and follow the Rules of Engagement account review process.
 
-### Region/Vertical
+### Regional Leadership
 
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
-- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): Jon Burghart, Regional Director
+- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): TBH, Regional Director
 - <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
-- <b>North America - US East</b> (`#us-east` Slack channel): TBH, Regional Director
-- <b>North America - US West</b> (`#us-west` Slack channel): Haydn Mackay, Regional Director
+- <b>North America - US East</b> (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
+- <b>North America - US West</b> (`#us-west` Slack channel): TBH, Regional Director
 - <b>Public Sector</b> (`#public-sector` Slack channel): Bob Stevens, Area Vice President 
 
 ### Territories
@@ -198,6 +198,29 @@ This field inherits data from other fields in the following priority:
 3. Zoominfo 
 4. Shipping Address 
 5. Billing Address
+
+### Industries & Sub-Industries
+
+GitLab recognizes the grouping of companies that are related based on their primary business activities in the following ways: 
+
+1. **Industry**
+    - This is the highest level of classification 
+    - A list of GitLab's Industry values can be found [HERE](https://gitlab.my.salesforce.com/_ui/common/config/field/StandardFieldAttributes/d?id=Industry&type=Account)
+1. **Sub-Industry**
+    - Sub-Industry is a more granual/detailed classification of Industry.  
+    - A list of GitLab's Sub-Industry values can be found [HERE](https://gitlab.my.salesforce.com/00N6100000HIhad).  This list aligns with the industries used by DemandBase 
+1. **Standard Industrial Classification (SIC)**
+    - SIC is a standard system for classifying industries by a four-digit code and is the most granular categorization GitLab leverages. 
+    - A list of SIC codes can be found [HERE](https://www.naics.com/sic-codes-industry-drilldown/)
+  
+The Industry and Sub-Industry of each account is determined by a combination of 3rd party SIC data and manual overrides. The information is stored in the `Industry` and `Sub-Industry` fields on the Account object in SalesForce and inherit data in the following priority:
+
+1. Zoominfo SIC mapping to `Industry` and `Sub-Industry`
+1. Admin Manual Override 
+
+**Industry & Sub-Industry Enrichment Cadence**
+The Industry and Sub-Industry data on an Account is enriched and updated automatically on a daily cadence.  
+
 
 ### Account Ranking for Enterprise Sales
 Account Ranking in SFDC allows sales to focus and prioritize activities for their target customers, easily nominate or flag accounts for both marketing support and ABM campaigns. Account ranking would also be leveraged to drive discussions during QBRs.
