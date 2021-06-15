@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "GitLab Innovation Program"
-description: "Learn about GitLab's Innovation Program"
+title: "GitLab Patent Program"
+description: "Learn about GitLab's Patent Program"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -14,7 +14,7 @@ description: "Learn about GitLab's Innovation Program"
 
 ## Innovation at GitLab
 
-Innovation is key to GitLab’s success. The GitLab Innovation Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
+Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
 
 
 ## How to participate
@@ -28,4 +28,4 @@ In order to maintain the confidentiality of your invention, do not discuss it on
 
 ## Conditions of participation
 
-Inventors must be current GitLab Team Members in order to participate in the GitLab Innovation Program. GitLab may change or terminate the Program at any time. GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt. Participation in the GitLab Innovation Program is subject to local employment and intellectual property laws.
+Inventors must be current GitLab Team Members in order to participate in the GitLab Patent Program. GitLab may change or terminate the Program at any time. GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt. Participation in the GitLab Patent Program is subject to local employment and intellectual property laws.
