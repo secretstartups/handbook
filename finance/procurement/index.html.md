@@ -29,7 +29,9 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 #### How do I contact Procurement?
 - If you have a general question or are looking for direction, use the #procurement slack channel.
 - Attend the Procurement Office Hours available on the GitLab Team Calendar.
-- Create a purchase request issue based on your need.
+- Create an Intake Form based on your needs (Marketing, Software or General/Professional Svcs Intake Form) - for **US** or **Netherlands entity**
+- Create a GitLab Procurement Issue based on your needs (Marketing, Software or General/Professional Svcs Intake Form) - for **Non-US** or **Non Netherlands entity**
+
 
 #### When should I contact Procurement?
 - See the purchase request process for when to contact Procurement and how to open a purchase request issue.
@@ -41,6 +43,17 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
+## How to start Procurement process?
+1. Identify the Billing Entity of your purchase.
+  - **US** or **Netherlands entity**: GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV
+  <br> OR <br>
+  - **Non-US** or **Non-Netherlands entity**: GitLab Gmbh, Gitlab Ltd., GitLab PTY Ltd., GitLab Canada Corp., GitLab GK, GitLab Korea Limited.
+2. Identify the cost of your purchase.
+
+- If your purchase falls under a **Non-US** or **Non-Netherlands entity**, please open a GitLab Procurement Issue based on your purchase type - Marketing, Software, Professional Services.
+- If your purchase falls under a **US** or **Netherlands entity**, please submit a Coupa request following the below Procurement Guide.
+
+
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Purchase Request Quick Guide
 
 If your purchase request is for one of the US or Netherlands entities (_GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_), follow the instructions on the table below.
@@ -51,7 +64,7 @@ If your purchase request is for one of the US or Netherlands entities (_GitLab I
 <div class="panel-body">
 
 - Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.
-- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the Procurement Team will respond with next steps.
+- If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the procurement team will respond with next steps.
 
 </div>
 </div>
