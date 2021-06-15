@@ -38,7 +38,7 @@ The matched file for FY 2022 can be found here shortly.
 
 #### Considerations
 
-As the matching was mostly automatic, it is far from perfect. If any issue is identified, please reach out to the Sales Sales Operations team to have it corrected.
+As the matching is primarily automatic, there may be some unexpected discrepancies. If any issue is identified, please reach out to the Sales Operations via chatter on the Account team to have it corrected.
 
 #### Update frequency
 
