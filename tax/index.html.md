@@ -173,6 +173,8 @@ At GitLab the supply of tangibles is non-existent while the other transaction ca
 | GitLab PTY Ltd |        |           |            |  X  |  X  |     |
 | GitLab Canada Corp |         |           |            |  X  |  X  |     |
 | GitLab Ireland Limited |         |           |            |  X  |  X  |     |
+| GitLab France SAS |         |           |            |  X  |  X  |     |
+| GitLab Singapore Holding PTE Ltd |         |           |       X    |    |    |     |
 
 ### Transfer Pricing Concept
 #### Distribution, Sales & Marketing
