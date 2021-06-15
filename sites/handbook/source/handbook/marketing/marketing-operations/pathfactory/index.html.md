@@ -410,6 +410,7 @@ We use external forms (added by External URL or Custom HTML generated from Marke
 - Only content track links are meant to be used and shared. Do not share individual asset links from the content library. 
 - You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
 - If the link breaks or an asset is deleted, the user will be redirected from your content track to the `#all` track, which includes all assets uploaded to PathFactory. In a case where the user is not redirected to the `#all` track, they will be redirected to the `Fallback URL` which is set to `about.gitlab.com`.
+- **Do not use the `lb_email=` parameter when sharing `about.gitlab.com` links in Marketo emails. This parameter is used on `learn.gitlab.com` links to identify anonymous track visitors.**
 
 ### Target Track Links
 
