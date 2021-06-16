@@ -24,6 +24,10 @@ Usage ping generates customer analytics on self-managed instances that enable Gi
 1. Enable User Cohorts and GitLab DevOps Score that provides an overview of customers’ adoption of  Concurrent DevOps from planning to monitoring
 1. Track usage and adoption over time
 
+For the definition of each metric, please see our [Usage Ping Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html).  
+
+[Links to other ways Usage Ping is used by Customer Success](https://about.gitlab.com/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
+
 
 ## How Does Usage Ping Help Me?
 
