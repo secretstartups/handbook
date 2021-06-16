@@ -45,7 +45,7 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 
 
 ![PROVE Value](/handbook/customer-success/vision/images/customer-health-score-vision.jpeg)
-
+<br>
 
 
 | **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
@@ -77,9 +77,9 @@ The Account Health Score does and will include many factors with different weigh
 
 The following graph (Early Warning Segmentation Framework) is used to provide a framework for which strategy to use and which resources to leverage. Customers are grouped by their Account Health and growth potential. Renewal Operations Analysts will support the Field in triaging accounts to identify where to spend their time.
 
-
+<br>
 ![Early Warning Segmentation Framework](images/early-warning-system-framework.jpeg)
-
+<br>
 
 # Success Criteria
 
@@ -108,9 +108,9 @@ The first approach was a calculation of multiple metrics to create a “black bo
 ### Next iteration
 
 The next iteration is a model where each use case incorporates X number of metrics and each metric is valued from 0-1.0. Then, the individual scores can then be summed to an aggregated score for that use case. Below is an *example* of what *could* be done for transparently measuring health.
-
+<br>
 ![CI Health Scoring](images/ci-health-scoring.jpeg)
-
+<br>
 
 Example: CI has ten individual features with one metric per feature and each metric is equally weighted at 10. Each metric can score between 0-10 with some being zero, some being 5, and others being 10. The aggregate score would be 65 out of 100. The TAM could then evaluate each metric to see which features are being adopted and which ones need improvement.
 
