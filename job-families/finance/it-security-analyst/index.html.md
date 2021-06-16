@@ -46,6 +46,14 @@ The IT Security Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 #### Senior Responsibilities
 The Senior IT Security Analyst has all the same responsibilities as the intermediate position plus the following:
 
+- Install security measures and operate software to protect systems and information infrastructure, including firewalls and data encryption programs.
+- Work with the security team to perform tests and uncover network vulnerabilities.
+- Fix detected vulnerabilities to maintain a high-security standard.
+- Stay current on IT security trends and news.
+- Develop company-wide best practices for IT security.
+- Help colleagues install security software and understand information security management.
+- Research security enhancements and make recommendations to management.
+
 
 
 #### Senior Requirements
