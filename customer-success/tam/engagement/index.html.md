@@ -187,3 +187,7 @@ Following parameters and metrics define the prioritization:
 3. Alignment with the Sales team and ASMs as part of the account planning activities in Gainsight)
 
 Exceptions will be addressed to the regional Sales Management team and documented in Gainsight.
+
+### Commercial (NORAM, LATAM, EMEA)
+
+[TAM-assigned customers](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial) are all priority 1 at this time. We anticipate adding priority 2 and 3 towards the end of Q2 FY22
