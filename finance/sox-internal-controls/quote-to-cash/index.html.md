@@ -665,12 +665,11 @@ The invoice cancellation and corresponding refund are initiated by the billing t
    
    <br>
    
-## 8. Revenue Recognition and Accounting for other quote to cash transactions in NetSuite
+## 8. Revenue Recognition and Accounting
 
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1zKCzRpzlKRaEReenBsTge6Be7GkbshXf0A2nqikVo94/edit#slide=id.g7a75e78db3_0_0)
 
-The revenue to be recognized for the period is ascertained based on the revenue run executed in Zuora. The revenue recognition process is carried out monthly.
 
 To comply with ASC 606 requirements, GitLab has modified its practice of recognising 100% of revenues for product subscriptions on a straight line basis to recognising revenue on basis of performance obligations. This has resulted revenue being recognised in the following manner:
 
@@ -692,81 +691,125 @@ To comply with ASC 606 requirements, GitLab has modified its practice of recogni
 | Over the life of contract |  94.4%  |  96.4%  |   98.3%  |
 | Total                     |   100%  |   100%  |   100%   |
 
-This is calculated automatically in Zuora during the revenue run execution, based on revenue recognition rules defined in the product master. 
-
-Currently revenue recognition for services is made on completion of service. The revenue schedule for services is manually updated on completion of service. However, going forward GitLab expects to commence recognizing revenue in a progressive manner based on the percentage of completion method (with hours as the input).
-
-All transactions in quote to cash process recorded in Zuora (invoicing, cancellations, collections and refunds) are summarized at the end of the month along with revenue recognition for the month based on a report generated from Zuora. The transactions are accounted in NetSuite as a journal.
-
-**8.1. Updating revenue schedule for services**
-
-Considering that Professional services is still at a nascent stage, currently revenue recognition is deferred until the customer sign off is obtained on services. In cases where customer sign off is not obtained the revenue is recognised after a quiet period after completion of work.
-
-Future considerations: From the period 2020-21 Professional services would have completed 2 full years since introduction, therefore it would be easier to establish customer acceptance criteria and build robust processes supported by tools to estimate budgeted hours and report actual time incurred against the original project estimates. This would allow the company to commence recognizing revenue in a progressive manner based on completion method (with hours as the input).
-
-[Sample SOW](https://drive.google.com/open?id=1IqQHMCNQEyWDJ5cNCNtWNKQmQnVVob5d)
-
-- **Project completion and sign off**
-
-The project manager on completion of a project obtains sign off from the customer (Vice President of the company). 
-The [sign off document](https://docs.google.com/document/d/1umlAj6EihU6czk1FSovIIb6ZxHz6jVowSeB4wmuqRy4/edit) is uploaded in Salesforce and the corresponding opportunity status is updated in Salesforce.
 
 
-- **Updating revenue recognition schedule for project invoice**
+**8.1.1.  Zuora Revenue Data Collection**
 
-  - In Zuora, [select the invoice](https://docs.google.com/document/d/11PIHfj7WdRuTu0dB72FB4O4AisF3r2Mh7QNm9nM5hZU/edit) for which revenue is to be recognized (on completion of services).
+* An automated data collection is run by Zuora Revenue on a weekly basis every Sunday in order to collect subscriptions that have been created in Zuora Billing.
 
-  - Select [revenue schedule](https://docs.google.com/document/d/1yloNhXp4p6ACno_uM-3cleWdZ-yebs3Ko7D8SoxW_2w/edit).
+* Any duplicate or incomplete data collected in staged is not processed by Zuora Revenue. This data is reviewed by the Revenue Accounting team and resolved before being released into Zuora Revenue.
 
-  - Select [distribute revenue](https://docs.google.com/document/d/19CEkwKfOKy_ZNdRtck_0jfGGJ_Pq9Rx_zBya2jUkJ1E/edit).
+* The Data Collection in Zuora Revenue can also be run manually by the Revenue Accounting team as required. 
 
-  - Select the [option “Distribute revenue on specific date”](https://docs.google.com/document/d/1R1tJbsdLIl7rQnTPEAU4CLaLucy1Huo1OecSQMs6H2M/edit).
+* Each month a final data collection is run for the period once the period is closed in Zuora Billing.
 
-  - [Update the amount](https://docs.google.com/document/d/180bdCYEmig5Cw9Q_ZFbhJ6Byit4E9c4sUuuvH_Zrc7Y/edit) to be recognized as revenue and the date on which revenue is to be recognized. Select distribute revenue after updating the details. 
-
-  - Revenue schedule for the service is updated and revenue is recognized in that month based on the revenue run executed in Zuora.
+Refer [here](https://docs.google.com/document/d/1Kv-HCtSYqDaCi-8mVQRToxuaRch-Kz1fPt77PrrzaAg/edit) for detailed steps followed in Data Collection Process in Zuora RevPro.
 
 
+**8.1.2.  Zuora Revenue Contract Creation**
 
-**8.2. Revenue recognition and Accounting of transactions**
+* Zuora Revenue creates Revenue Contracts based on subscriptions collected from Zuora Billing.
 
+* Subscriptions under the same Customer Accounts that are created within 60 days of each other are grouped into Single Revenue Contracts.
 
-- **Downloading summarized report from Zuora**
+* The Revenue Accounting team reviews Contracts to ensure these are grouped correctly and reflect the Contract Review Tracker.
 
-
-  - In the journal runs section in Zuora, [select “New Journal run” ](uhttps://docs.google.com/document/d/1rpH1XwzfwaFPExeV9xFlQy2W6VbgaCTYxbfz5YKkMac/edit).
-
-  - Update the accounting period and Journal entry date and select [“Create journal run”](https://docs.google.com/document/d/13gQZRdPFPVyvT9u0jA6VAT9cnRapgUemso27w3xqCjg/edit).
-
-  - Journal run is created in Zuora. Select [“view” option ](https://docs.google.com/document/d/1IDZmHjvx54waFqRFTqlFJuCKh-WphmVPCqpgGOvwcHs/edit)to view the journal created.
-
-  - Select the journal run created. From the journal run screen, select [“export journal entries”](https://docs.google.com/document/d/19AWUfpArTe7k1mUFqljSSpr_WYUo7YDa0lwqHU8AFr4/edit).
-
-  - Download the revenue recognition report (Excel file) by selecting the [“export” option](https://docs.google.com/document/d/1TBpzYsgP1Zqa1xjLjNOmWgqLuce3QsI-XNJCDmkeX4o/edit).
-  
-  - Journal details are generated in an [MS-Excel file ](https://docs.google.com/document/d/1KDVMzdkV2RtvxOKvo9iArJSAUNT6STjFMA3DHI8DojY/edit).
+* Where Contracts are not grouped correctly by Zuora Revenue, the Revenue Accounting team corrects these by [delinking and relinking Contracts](https://docs.google.com/document/d/1LvxsfFfzJiEPaNlDnC-ob4SIh6XX92g_txzUtKYvkOI/edit). Each Contract has a unique 5 digit ID in the format RCXXXXX.
 
 
-- **Accounting in NetSuite**
+**8.1.3.  Revenue Contract Review**
 
-   - Summarize the [report](https://docs.google.com/document/d/1kAbdLrR9WFZe20d9PbcR86pDltUEthKJ2VCMZRZMKqo/edit) generated in MS-Excel for each entity.
+* The Revenue Accounting team reviews revenue contracts in accordance with the [Contract Review Thresholds](https://docs.google.com/document/d/1hY56QXU5u4gSZBv_97ULVD9vWa5XCJ3lAUr_Vj8_Kjw/edit) set by the Senior Director, Revenue Accounting.
 
-   - Summarize the [intercompany transactions](https://docs.google.com/document/d/1a7MU6ZJy0317hHoH4FpaDG6wG_pYhJzab9BnsHnjLaY/edit). (this is to be accounted separately in NetSuite).
+* The Revenue Accounting team downloads the [Bookings report](https://docs.google.com/document/d/1-umVnNEd0nPiU09Bmb2qui7ovjutQhbUbnPHPIIdLZE/edit) from Salesforce and reviews the data in order to identify contracts that require review.
 
-   - Account the transactions in NetSuite by posting a journal. The accounts to be debited and credited for each entity are as per the report generated from Zuora and the corresponding summary prepared. The following is the accounting entry to be posted:
+* Any contracts that require review are added to the [Contract Review Tracker](https://docs.google.com/document/d/1NzLLh9PC4Nr-WhTV3GeJQNL9P8hKLfbl3TmUJi0SKwo/edit) for that Quarter. Revenue Accountants review the Quote/Order Form, PO, Master Agreement, License Keys, Invoices and any additional paperwork related to each contract in accordance with [ASC 606 and Gitlab's Revenue Accounting Policy](https://docs.google.com/document/d/1r6Ow2tmP_mekBd-S4wfudRSlNTOZ-OIfctx6tOKJqE8/edit).
 
-     Dr. Bank (collections received net off refunds)<br>
-     Dr./Cr.  Stripe (receivables from online collections and realizations)<br>
-     Dr./Cr. Accounts receivable (receivable impact for invoicing, cancellations, collections and refunds)<br>
-     Dr. Bank fee (expenses for bank charges)<br>
-     Dr. Discounts (discounts issued to the customer)<br>
-     Dr./Cr. Deferred revenue (invoicing made, cancellations and release of revenue)<br>
-     Cr. Revenue (revenue to be recognized for the month)<br>
-     Cr. Sales tax/ VAT/ GST payable (sales tax liability)<br>
-  
-  ***Controls being implemented: QTC.C.18***
-   
-   <br>
+* For each contract, the Revenue Accountant forms their accounting conclusion accordingly and then identifies the contract in Zuora Revenue and ensures that revenue & billing correctly reflects the contract and their accounting conclusion.
+
+* The Revenue Accounting Manager performs a 2nd level review for each contract.
+
+* The Senior Revenue Manager, Senior Director, Revenue Accounting and PAO perform an additional review on those contracts that are above their [review thresholds](https://docs.google.com/document/d/1hY56QXU5u4gSZBv_97ULVD9vWa5XCJ3lAUr_Vj8_Kjw/edit) and they provide sign-off for their review in a [Contract Review Checklist](https://docs.google.com/document/d/1bBGpmK7j5XeM-xqbSQN3AJ5jQjNysLGvumX2fConamE/edit), with sign-off documented in a [Gitlab Issue](https://docs.google.com/document/d/1oQg2nIPX7drkMvto_pxzVs_sFDyPOKsA4qpGBo6Q7SQ/edit).
+
+* Where contracts have material revenue allocations or non-standard accounting, they are communicated to business stakeholders such as FP&A, Sales Ops and PS Ops.
+
+<br>
+
+**8.2.  Zuora Billing Accounting Close**
+
+* The Director, Billing & Collections will [close the period](https://docs.google.com/document/d/1DP2bxemt8m23wUDVie9ZfbsWem57xMH6H7lVxQjVyUE/edit) in Zuora Billing each month once all invoicing and payment application is complete and will notify the Revenue Accounting team.
+
+* The Revenue Accounting team will [run and export the journal entries](https://docs.google.com/document/d/17MofyKdYMt-A1rgTDbPGJpfY8l6vm8JGbzqr0o-qVs0/edit) from Zuora Billing. These are summarised into a [pivot table](https://docs.google.com/document/d/1pVjtId-_1MCH_09hVqvm0yqvuUTTBeDxPAmoEdxWjKw/edit) for each entity and reviewed.
+
+* An additional set of [intercompany entries](https://docs.google.com/document/d/1L-Y59EAJfvO5jRSPHg7Tmu96NsFXorPHVymWdp9z17U/edit) are also created to account for the fact that payment of invoices under one entity is sometimes paid into the bank account of another entity.
+
+* [Journal Entries(JE)](https://docs.google.com/document/d/1xTwskc892hIqzoHJel8rSGTtEeVDnrnVrSUJ2MIevWA/edit) are prepared and booked in NS for each entity by the Revenue Accountant.
+
+* The Senior Director, Revenue Accounting receives a notification from Netsuite that each JE is ready for approval.
+
+* The Senior Director, Revenue Accounting reviews and approves each JE in Netsuite.   For Billing, Entries are: **(QTC.C.18)**
+         DR/CR Sales Tax/VAT/GST Payable
+         DR/CR Accounts Receivable
+         DR Bank fees, DR Bank (Various Accounts)
+         CR Customer refunds
+         DR/CR Deferred Revenue (Various Accounts)
+         DR/CR Stripe
+
+<br>
+
+**8.3.  Zuora Revenue - Revenue Accounting**
+
+Zuora Revenue automatically places [Revenue Contracts > 50K on hold](https://docs.google.com/document/d/1pnhL3WFVbzGvaTUIQhUi-1R2QkugAvBN6rWDlpt-9bs/edit). As the Revenue Accounting team reviews each contract they ensure that revenue is accounted for in line with the accounting conclusion formed during the Revenue Contract Review (8.1.1 above) and they release any holds.
+
+<br>
+
+**8.4.  Professional Services Revenue**
+
+* Gitlab implemented Mavenlink in FY21 in order to track the professional service projects.
+
+* The Professional Service(PS) Ops team maintains projects in Mavenlink, they track hours delivered, projects completed and project acceptances from customers.
+
+* Each month the PS Ops team runs a [report](https://docs.google.com/document/d/1Z8TQBAuSuPpUpfG6uQTVSKhVg6l9zhhHhOQRoxdQnaA/edit) from Mavenlink of projects eligible for Revenue Recognition.
+
+* The Revenue Accounting team reviews this report each month to determine if revenue can be taken. Where there are revenue allocations or non-standard accounting impacting PS revenue, these are communicated to PS Ops so that they can adjust for this in Mavenlink.
+
+* As part of the month-end close process, the Revenue Accounting team uploads [csv](https://docs.google.com/document/d/1qh2KNzDmiYFh8rZIdXXVTZWt8wP9xoo4Hqu2LtpayK4/edit) file to Zuora Revenue in order to recognise revenue on those deals that they approved for Revenue Recognition that month. Sales order line ID field is the unique identifier in Zuora Revenue, used to match invoices from the CSV file to Zuora.
+
+* The Revenue Accounting & PS Ops teams reconcile the revenue recognised in Zuora Revenue with Mavenlink on a monthly basis.
+
+<br>
+
+**8.5.  Zuora Revenue Accounting Close**
+
+* Upon completion of 8.1 - 8.4 above the Revenue Accounting team ensures that revenue for the period is correctly recorded in Zuora Revenue by completing the additional tasks as outlined in the [Month End Close Checklist](https://docs.google.com/document/d/1qYCWNA549Wt0qFjsYOiLEYs4Sf83FyjPoalV_3r8j7E/edit).
+
+* Upon completion of the Zuora Revenue Month End Close Checklist Tasks, the Revenue Accounting team closes the Accounting Period in Zuora Revenue.
+
+* All month-end close reports are generated including the journal entry report for the period.
+
+* The Revenue Accountant summarises and reviews the journal entries by the entity.
+
+* Journal entries for non-US entities are converted to the applicable functional currency for each entity and JEs are prepared in Netsuite by the Revenue Accountant.
+
+* The Senior Director, Revenue Accounting or Senior Revenue Manager receives a notification from Netsuite that each JE is ready for approval.
+
+* The Senior Director, Revenue Accounting or Senior Revenue Manager reviews and approves each JE in Netsuite. For Revenue, the journal entries are:
+         DR/CR Revenue
+         DR/CR Deferred Revenue
+
+<br>
+
+**8.6.  Netsuite Revenue Accounting Close**
+
+After booking the Zuora Revenue Journal Entries in Netsuite for the closed period, the Revenue Accounting team works through all FloQast close [checklist tasks](https://docs.google.com/document/d/1ocRMd1TG46YwFTRPT6ex5-Rz1xIVMFedDUyknwLvp5w/edit) which includes preparation and booking of manual revenue journal entries in Netsuite as listed in the Month End Close Checklist as well as Bad Debt, Functional currency adjustments and Short Term Long Term Split Journal Entries for Deferred Revenue.
+
+<br>
+
+**8.7.  Balance Sheet Reconciliation**
+
+After all journal entries are booked in Netsuite, the Revenue Accounting team will perform balance sheet reconciliations of all deferred revenue accounts in Netsuite and will upload [reconciliations](https://docs.google.com/document/d/1CL-6l0qWKVwVouM7Gvt3po2xF34WLijius1yxhkX0ew/edit) to FloQast to be signed off by both Revenue Accountant and the Senior Director, Revenue Accounting or Senior Revenue Manager.
+
+ <br>
    
 ## 9. Accounting of Income from sale of merchandise
 
