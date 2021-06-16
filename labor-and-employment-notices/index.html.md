@@ -21,8 +21,8 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
 * [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
-* [Your Rights and Obligations as a Pregnant Employee](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/RightsObligationsPregnantEe_ENG.pdf)
-* [Family Care & Medical Leave & Pregnancy Disability Leave](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2017/06/CFRA_PregnancyLeave_English.pdf) 
+* [Your Rights and Obligations as a Pregnant Employee](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/Your-Rights-and-Obligations-as-a-Pregnant-Employee_ENG.pdf)
+* [Family Care & Medical Leave & Pregnancy Disability Leave](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/12/CFRA-and-Pregnancy-Leave_ENG.pdf) 
 * [Industrial Welfare Commission Wage Order](https://www.dir.ca.gov/IWC/IWCArticle17.pdf)
 * [California Minimum Wage](https://www.dir.ca.gov/iwc/MW-2019.pdf)
 * [Paid Sick Leave](https://www.dir.ca.gov/DLSE/Publications/Paid_Sick_Days_Poster_Template_(11_2014).pdf)
