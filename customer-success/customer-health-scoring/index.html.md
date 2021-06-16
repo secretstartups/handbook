@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Using Product Usage Data in Gainsight"
-description: "Effective ways to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
+title: "Customer Health Scoring"
+description: "Customer Account Scoring overview and methodology framework to understand how it applies to our customers."
 ---
 
 ## On this page
@@ -18,9 +18,9 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 
 # Purpose
 
-The Early Warning System (EWS) assists GitLab Account Teams in understanding the relative health and growth potential (LAM) of customers for the purposes of predicting expansion, retention, and churn. 
+The Customer Health Score assists GitLab Account Teams in understanding the relative health and growth potential (LAM) of customers for the purposes of predicting expansion, retention, and churn. 
 
-EWS is a work in progress, starting in FY22-Q2 and expected to take multiple quarters to achieve the overall objective.
+This will be leveraged for the Early Warning System (EWS) as it is a work in progress, starting in FY22-Q2 and expected to take multiple quarters to achieve the overall objective.
 
 ## Account Health Predictor
 
@@ -45,8 +45,9 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 
 
 ![Customer Health Vision](/handbook/customer-success/vision/images/customer-health-score-vision.jpeg)
-<br>
+<br><br>
 
+### PROVE Components
 
 | **Category**   | **Health Measure**         | **Example**                                                  | **Why?**                                                     | **Metrics**                                                  | **Account Type** | **Maturity** |
 | -------------- | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------- | ------------ |
@@ -65,7 +66,7 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 | **Engagement** | Events                     | Is the customer attending GitLab events?                     | Event attendance indicates customer engagement, dialogues with team members, and face-to-face interactions | TBD                                                          | All              | Not started  |
 | **Engagement** | Certifications             | Are users within the account taking certifications? Are they maintaining their certifications? | Obtaining GitLab certifications is a positive for us and the customer; it also indicates their involvement in GitLab, knowledge of using GitLab, and provides an inference as an internal champion | TBC                                                          | All              | Not started  |
 
-
+### Health Score Commentary and Uses
 
 The Account Health Score does and will include many factors with different weightings per group and per individual measure with the goal being a multi-perspective approach, measuring what matters to the customer, and measuring the features that they have access to and can utilize. 
 
