@@ -226,7 +226,7 @@ If the repair is not going to be too expensive (more than $1000 dollars USD), go
 
 You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval.
 
-If the repair center asks you to provide a password for the laptop, tell them that this is a work machine and ask them if it is absolutely necessary. If they insist, you should first back up your data, erase your hard drive, and re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)). This will help prevent sensitive data from being accidentially or intentionally leaked during repair.
+Do not provide any credentials to your laptop. Tell the repair center that they're authorized to do a factory reset on the laptop, should it be necessary to run diagnostics. Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
 
 After a repair is completed, you should repeat the process to erase the hard drive and re-install MacOS. This is to ensure no unauthorized software was added during the repair process.
 
