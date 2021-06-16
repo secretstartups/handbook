@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Customer Health Scoring"
-description: "Customer Account Scoring overview and methodology framework to understand how it applies to our customers."
+description: "Customer Account Scoring overview and methodology framework to improve our understanding of the customer's journey and their ROI attainment."
 ---
 
 ## On this page
@@ -200,6 +200,7 @@ Segmentation will primarily follow the level of service (TAM Priority 1, 2, 3), 
 
 - [MVC Early Warning System epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/25)
 - [Customer Analytics Roadmap (internal-only document)](https://docs.google.com/presentation/d/1_v4hxKdbL6--UjpjVdveGEGD_MjmUnBg0-OIU1R14m8/edit#slide=id.gb3e6c0a32e_0_5) (slide deck)
+- [Project Compass #3 - GTM Product Analytics - Improve product and customer analytics to capture richer data about users](https://gitlab.com/groups/gitlab-com/-/epics/1246)
 - [Project Compass #15 - Build analytics capabilities and CRM integration to improve cross-sell/up-sell](https://gitlab.com/groups/gitlab-com/-/epics/1247)
 - [Renewal Operations Strategy (internal only document)](https://docs.google.com/document/d/1cQGAzrpdZyqq7P5X40AZrh-HLvv2PwmHfHcv3iq_2M8/edit#)
 
