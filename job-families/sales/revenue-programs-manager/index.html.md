@@ -9,11 +9,11 @@ The Revenue Programs Manager job family is responsible for developing and execut
 
 ### Senior Revenue Programs Manager
 
-The Senior Revenue Programs Manager reports to the the Manger of Field Enablement programs.
+The Senior Revenue Programs Manager reports to the Senior Director of Field Enablement.
 
 #### Senior Revenue Programs Manager Job Grade 
 
-The Program Manager, Field Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Revenue Programs Manager role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Programs Manager Responsibilities
 
@@ -26,13 +26,13 @@ The Program Manager, Field Enablement is a [grade 7](/handbook/total-rewards/com
 
 #### Senior Revenue Programs Manager Requirements
 
-* 5+ years experience managing or designing sales programs, campaigns, and go-to-market strategies
+* Experience managing or designing sales programs, campaigns, and go-to-market strategies
 * Proven ability to design and operationalize prescriptive sales programs and strategies
 * Ability to work collaboratively with Sales & Marketing teams and effectively develop relationships with stakeholders at all levels of the organization to remove impediments that block the team’s ability to meet project objectives
 * Exceptional communication and presentation skills (including with senior management stakeholders)
 * Proven track record of cross-stakeholder program management and execution with operational rigor
 * Ability to move fluidly from big picture to details
-* Skills to build, maintain, update and optimize critical dashboards in Salesforce.com and BI tools for the purpose of tracking the impact of sales programs
+* Skills to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
 * Strong analytical skills
 * Over achievement in a quota-carrying sales role strongly preferred
 * Bachelor or University Degree, or relevant work experiences
@@ -42,9 +42,9 @@ The Program Manager, Field Enablement is a [grade 7](/handbook/total-rewards/com
 - [Sales pipeline coverage](/handbook/sales/performance-indicators/#sales-pipeline-coverage)
 - [New logos](/handbook/sales/performance-indicators/#new-logos)
 * Lead conversion rates with initial emphasis on conversion metrics italicized below
-   * MQL to SAO
-   * 1-Discovery to 2-Scoping
-   *  2-Scoping to 3-Technical Evaluation
+   * _MQL (Marketing Qualified Lead) to SAO (Sales Accepted Opportunity)_
+   * _1-Discovery to 2-Scoping_
+   * _2-Scoping to 3-Technical Evaluation_
    * 3-Technical Evaluation to 4-Proposal
    * 4-Proposal to 5-Negotiating
    * 5-Negotiating to 6-Awaiting Signature
@@ -52,7 +52,7 @@ The Program Manager, Field Enablement is a [grade 7](/handbook/total-rewards/com
 
 ## Career Ladder
 
-The next steps for the Revenue Programs Manager is to move into the [Field Enablement Leadership](/job-families/sales/director-of-field-enablement/) Job Family.
+The next steps for the Revenue Programs Manager is to move into the [Field Enablement Leadership](/job-families/sales/director-of-field-enablement/) job family or into a Sales, Customer Success, or Marketing role.
 
 ## Hiring Process
 
