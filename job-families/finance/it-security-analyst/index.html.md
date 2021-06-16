@@ -59,6 +59,12 @@ The Senior IT Security Analyst has all the same responsibilities as the intermed
 #### Senior Requirements
 The Senior IT Security Analyst has all the same responsibilities as the ones outlined above plus the following:
 
+- Experience in information security or related field.
+- Experience with computer network penetration testing and techniques.
+- Understanding of firewalls, proxies, SIEM, antivirus, and IDPS concepts.
+- Ability to identify and mitigate network vulnerabilities and explain how to avoid them.
+- Understanding of patch management with the ability to deploy patches in a timely manner while understanding business impact.
+
 
 
 ## Performance Indicators
