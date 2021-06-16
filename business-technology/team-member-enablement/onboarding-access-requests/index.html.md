@@ -221,7 +221,7 @@ If you decide to donate your laptop instead of the Trade-in program in terms of 
 
 ### Laptop Repair
 
-If your laptop is broken and needs to be repaired you can take it into an Apple repair store.
+If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
 
 If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
 
