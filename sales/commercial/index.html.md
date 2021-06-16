@@ -172,6 +172,7 @@ Laws around recording differ from states to state and country to country. Theref
 1. Introduce GitLab Notetaker and clearly explain what it is and why it is there. Example: "You may have noticed GitLab Notetaker here. This is recording the call for training and verification. I can share the recording with you if you want. If you are OK being recorded, please say so verbally and give a thumbs up. If you're not, I can remove it from the meeting."
 2. If the customer requests that they are not recorded, you must remove GitLab Notetaker immediately and verbally confirm you have done so.
 3. If the customer verbally and visually agrees to being recorded, you can continue.
+4. If you are due to be on a call and cannot make it, you **must** inform the customer that Chorus will be in the call and that they should remove Notetaker when you decline the invite.
 
 Failure to follow the above is not acceptable in any situation. 
 
