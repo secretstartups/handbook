@@ -250,7 +250,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
 
 #### Renew Subscription Quote
 
-This quote type should be used when the customer has reached the end of their subscription term and wishes to renew the subscription for another term. 
+This quote type should be used when the customer has reached the end of their subscription term and wishes to renew the subscription for another term, using the same term start date.  
 
 **A.  Standard Renewal**
 *   Open the Renewal opportunity and click the **“New Quote”** button.
