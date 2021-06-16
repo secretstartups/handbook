@@ -6,88 +6,85 @@ The Finance Systems Administration job family is responsible for the operational
 
 # Finance System Administrator
 
-The Finance Systems Administrator is responsible for the operational ownership of the software applications in the finance and accounting department. They maintain and optimize the integrations of the ecosystem and work directly with other departments where the tools intersect and the data passes from one system into another.
+The Enterprise Applications team provides development and support to the Financial Applications that support GitLabs Core Business processes of Quote To Cash, Procure to Pay and Record to Report.   The purpose of Enterprise Applications are to automate, enforce and make efficient these aforementioned processes.  We accomplish these goals by partnering deeply with our business partners to understand their needs and bring that to life in technical 
 
-### Job Grade
+The Finance Systems Administration job family is responsible for the operational ownership of the software applications that support Quote to Cash, Procure to Pay, and Record to Report
+
+This role reports to the [Manager, Financial Systems Administrator](#manager-financial-systems-administrator)
+
+## Responsibilities
+
+- Technical Delivery: Ability to administer and configure finance systems applications to support GitLab business processes while adhering to SOX compliant change management. 
+- Process Improvement: Execute improvements to finance processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements.  Document updated processes in the company handbook.
+- Business Acumen: Have and grow a solid understanding of core finance business processes of quote to cash, record to report, and procure to pay.  Have and grow  your understanding of accounting principles and GitLab finance related policies.
+- Business Engagement: Engage with your team and  stakeholders regarding their business strategy and objectives for automating and optimizing financial processes.  Meet regularly with business partners to ensure that the financial applications are functioning as designed and supporting their needs. 
+- Leadership:  Ability to manage your work  to deliver on agreed to dates and deadlines and communicate any risks or issues to those.  
+- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliant execution of technical delivery. .
+- Business Partnership: Support Senior Financial Systems administrators  and Managers regarding business strategy, go to market, functional strategy, spending initiatives, ad hoc financial analysis and monthly, quarterly and annual planning. Begins to build relationships with select cross-functional partners.
+- Project Management: Run small sized projects that improve our ability to make better data driven insights or make the company more efficient.
+- Communication: Target audience to FP&A management, functional managers and directors.
+- Autonomy: executes with moderate supervision from senior members of team.
+- Share our values, and work in accordance with those values. 
+
+
+## Requirements
+
+- Ability to use GitLab
+- 2-3 years of experience in a systems administrator or business role ideally with a finance focus.
+- BS degree in Computer Science, Cognitive Science or relevant degree. 
+- Demonstrated success working in cross-functional teams to meet business objectives and influence colleagues, fostering strong working relationships
+- Ability for  strategic thinking, with Strong creative problem solving and analytical skills
+- Able to train financial application users on new tools and changes to existing tools.
+- Communication: Ability to present technical data concisely with Proof of Concepts, diagrams and core documentation through written and oral communication.
+- Systems: Hands-on experience with business and financial software preferred. Netsuite, Zuora, Coupa and Adaptive Planning are a plus.
+- Familiarity with ASC606 and SOX Compliance
+- Interest in GitLab and open source software
+- You share our values and work in accordance with those values
+- Ability to thrive in a fully remote organization
+
+## Levels 
+
+### Finance Systems Administrator (Intermediate)
+
+#### Job Grade
 
 The Finance Systems Administrator is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+#### Responsibilities
 
-- Administrator of select finance software applications
-- Implement workflows for Finance and coordinate with other teams such as Sales and Product
-- Support projects to optimize, enhance, and implement financial applications such as Zuora (or replacement), Netsuite, Stripe, and Tipalti
-- Collaborate with other teams to improve system integrations between financial applications and ADP, Expensify, Salesforce, Blackline, BambooHR, and TripActions
-- Support projects to optimize current financial system processes (order processing, month close) to scale for growth and efficiency.
-- Perform ad hoc reporting and analysis to address data integrity
-- Support implementation of new technology and processes, fostering an organization of continuous process improvement
-- Updates and maintains system architectural diagrams and documentation in the handbook
-- Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliant execution of financial management resources
-- Provisions, deprovisions, and performs audits of users
-- Train financial application users on new tools and changes to existing tools
-- Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed
+The Finance Systems Administrator shares the same responsibilities outlined above.
 
-## Requirements
+#### Requirements
 
-- Ability to use GitLab
-- BA/BS degree
-- 1+ years in a business and/or systems role
-- Financial ecosystems experience including aspects of system rules, workflows, formulas, sandboxes, and customization of all standard and custom objects
-- Demonstrated success working in cross-functional teams to meet business objectives and influence colleagues, fostering strong working relationships
-- Enjoys strategic thinking, with Strong creative problem solving and analytical skills
-- Some Experience with Salesforce CRM, netsuite and understanding of CPQ
-- Familiar with ASC606 and Sox Compliance
-- SaaS and B2B experience preferred
-- Interest in GitLab and open source software
-- You share our values and work in accordance with those values
-- Ability to thrive in a fully remote organization
+The Finance Systems Administrator shares the same requirements outlined above.
 
-## Senior Finance Systems Administrator
+### Senior Finance Systems Administrator
 
-The Senior Finance Systems Administrator is the operational owner of the software applications in the finance and accounting department.
-They maintain and optimize the integrations of the ecosystem and work directly with other departments where the tools intersect and the data passes from one system into another.
+The Senior Financial Systems Administrator reports directly to the [Manager, Financial Systems Administrators](#manager-financial-systems-administrator). 
 
-### Job Grade
+
+#### Job Grade
 
 The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+#### Responsibilities
 
-- Primary administrator of all finance software applications
-- Drive financial system strategy and direction across Finance and coordinate with other teams such as Sales and Product
-- Optimize, enhance, and implement financial applications such as Zuora (or replacement), Netsuite, Stripe, and Tipalti
-- Collaborate with other teams to improve system integrations between financial applications and ADP, Expensify, Salesforce, Blackline, BambooHR, and TripActions
-- Optimize current financial system processes (order processing, month close) to scale for growth and efficiency.
-- Protects data integrity and where data quality is lacking, identify the root cause and address systematically with improved processes
-- Facilitate successful implementation of new technology and processes, fostering an organization of continuous process improvement
-- Creates and maintains system architectural diagrams and documentation in the handbook
-- Manage data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliant execution of financial management resources
-- Provisions, deprovisions, and performs audits of users
-- Train financial application users on new tools and changes to existing tools
-- Create and manage project plans with clearly defined deliverables and resources, coordinate work streams and dependencies, track and communicate progress, and identify obstacles and ensure they are addressed
+Extends the Financial Systems Administrators  responsibilities:
 
-## Requirements
+- Business Partnership: Influences cross-functional team regularly. Begins to build and manage holistic relationships with select partners
+- Business Operations: Build, maintain and improve internal analysis and planning processes  to more efficiently deliver for our  business partners. These processes are easily audited and handbook pages updated.
+- Technical Delivery: Drive end to end delivery processes with minimal guidance.
+- Project Management: Run medium-sized projects that improve our ability to make better data driven insights or make the company more efficient.
+- Communication: Target audience Sr. Manager, Director, Sr. Director and functional VP.
 
-- Ability to use GitLab
-- BA/BS degree
-- 5+ years in a business and/or systems role
-- Financial ecosystems expert including system rules, workflows, formulas, sandboxes, and customization of all standard and custom objects
-- Demonstrated ability to drive and lead cross-functional teams to meet business objectives and influence colleagues, fostering strong working relationships
-- Strong strategic thinking, creative problem solving and analytical skills
-- Experience with Salesforce CRM, netsuite and understanding of CPQ
-- Experience with ASC606 and Sox Compliance
-- SaaS and B2B experience preferred
-- Interest in GitLab and open source software
-- You share our values and work in accordance with those values
-- Ability to thrive in a fully remote organization
 
-## Nice to Have
+#### Requirements
 
-- macOS experience
-- Google Workspace experience
-- A love of open source
-- Experience with SaaS products
-- Experience using GitLab/Git
+Extends the Financial Systems Administrators requirements.
+- Business Acumen: Be able to understand the business at a level to understand VP priorities.
+- Experience owning processes and delivering for one or multiple business partners.
+- 3-5 years of experience in a system administration role ideally with enterprise SaaS software model.
+
 
 ## Performance Indicators
 
@@ -106,30 +103,29 @@ The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/
 ### Career Ladder
 
 The next step in the Finance Systems Administration job family is to move the [Manager, Finance Systems](#manager-finance-systems) role
-# Manager, Finance Systems
-The Manager, Finance Systems is responsible for performing functions such as evaluation, testing, debugging and implementation of applications programs supporting the company infrastructure business processes and operations. Other functions include analyze, install, modify and support operating systems, databases, and utilities software. The Manager, Finance Systems also plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [Sr. Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
+
 
 # Manager, Finance Systems
+The Manager, Finance Systems plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [Sr. Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
 
 ## Responsibilities
-* Develop and maintain relationships with internal and external partners to maximize value
-* Help hire a team of Finance Systems professionals who are focused on delivering great support to the Finance Department
-* Help team members within the Finance Systems Team develop and nurture their skills and experience
-* Motivate team members to be "[managers of one](https://about.gitlab.com/handbook/leadership/#managers-of-one)"
-* Build processes that enable team members to collaborate and execute
-* Create a sense of psychological safety on your team
-* Conduct weekly 1:1s with each direct report
-* Measure and improve the happiness and productivity of the team
+Extends the Senior Financial Systems Administrators responsibilities.
+
+- Business Partnership: Influences outcomes in cross-functional settings often.
+- Owns relationships with partners while providing advice and guidance.
+- Team Leadership: Can manage a team to deliver results by dividing and balancing work between employees ensuring that results meet Enterprise Applications standard.  
+- Project Management: Run large complex projects that improve our ability to make better data driven insights or makes the company more efficient.
+- Communication: Target audience basic influence to Directors, Sr Directors, Functional VPs and  CFO. 
+- Mentorship: As a senior individual contributor, you mentor other team members in technical delivery, process analysis and improvement. 
+- Autonomy: independently delivers and effectively prioritizes projects assigned with clear scope
+
 
 ## Requirements
-* Proven ability to perform strategic planning and set priorities for a billing department
-* Proven track record for improving processes and problem- solving
-* Strong leadership skills with an ability to coach and motivate
-* Solid understanding of billing and financial concepts
-* Strong analytical and problem-solving skills
-* Excellent verbal and written communication skills and ability to collaborate with cross-functional teams
-* Ability to use GitLab
-* GitLab Finance Tech Stack knowledge
+Extends the Senior Financial Systems Administrator requirements.
+- Communication: Demonstrated an ability to influence business stakeholders.
+- Experience as owning a portion of system delivery for  business function as a Business Technology partner.
+- 5-7 years of experience in a finance systems administrator role ideally with enterprise SaaS software model.
+
 
 ## Levels
 
@@ -144,8 +140,6 @@ The Manager, Finance Systems share the same responsibilities outlined above.
 #### Requirements
 The Manager, Finance Systems share the same requirements outlined above.
 
-
-
 ## Performance Indicators
 - As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](/handbook/ceo/kpis/#finance-kpis).
 
@@ -155,10 +149,9 @@ The next step in the Manager, Finance Systems job family is to move to the [Dire
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with our Manager, IT
-* Candidates will then be invited to schedule a second and third interview with 2-4 members of the IT Operations team in a panel interview
-* Candidates will be then be invited to schedule a call with our Integrations Engineer
-* Finally, candidates will interview with our VP, IT
-
+- Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
+- Next, candidates will be invited to a 45 minute interview with a senior member of the team.
+- Second round interviews will involve interviews with 2 members of the Technical Accounting and/or Revenue Team.
+- Third round interview is with the Director of Business Operations
+- At final stage candidates will meet with the Principal Accounting Officer and the VP of Information Technology.
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
