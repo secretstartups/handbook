@@ -255,7 +255,6 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. **Before marking the candidate as hired** the CES will ping the recruiter and give them 24 hours to contact/reject all other active candidates. Once this is complete, the CES can proceed with hiring in GH.
    1. **Before marking the candidate as hired** the CES will verify if the listed Recruiter and Coordinator in the `Details` >  `Source & Responsibility` section of the candidate's profile is correct to ensure accuracy in reporting.
    1. The CES will mark the candidate as "Hired" in Greenhouse: _when prompted, select the option to close the req._ Please note, the new hire's BambooHR profile will be generated automatically by the [Greenhouse to BambooHR sync](/handbook/people-group/engineering/gh-bhr-sync/) that runs every 15 minutes.
-   1. Once the new hire's profile in BambooHR is generated, The Candidate Experience Specialist will upload the signed contract and the completed background check into the BambooHR profile.
    1. The Candidate Experience Specialist will send an email to total-rewards@gitlab with any variations in contract language (for example a draw). Compensation will sync with Payroll and Sales Ops for any necessary notifications on payment types.
    1. The Candidate Experience Specialist will email the new team member the Welcome Email from Greenhouse with a cc to IT Ops, the Hiring Manager and the Recruiter.  For new team members in USA, use 'GitLab Welcome - US only' template.  For team members located outside the US, use 'GitLab Welcome - non US' template
       * Instructions on the [Notebook Ordering Process](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) are included with this email.
@@ -263,18 +262,6 @@ Recruiters should make themselves familiar with the basic knowledge of the contr
    1. Exception to the start date and onboarding date alignment: If a new team member requires a specific start date for legal reasons (cannot have break in employment) but the People Experience Team cannot start onboarding on that specific day (because of Public Holiday), the Candidate Experience Specialist can notify the People Experience team in the private Slack channel `people-exp_ces`. The Contract, Greenhouse and BambooHR should reflect the same start date regardless of the actual onboarding date.  
 
 It is **important** that the Candidate Experience Specialist notifies the People Experience Team of any important changes regarding the new team member, which also ensures the new team members are handed off properly to the People Experience Team.
-
-### Mid-Point Check-In Follow up
-
-The Candidate Experience Specialist will set up a delay send email using the "GitLab Helpful Links - Checking In" email template in GreenHouse. The delay should be set up for halfway between the contract being signed and the start date.
-   1. Navigate to the Candidate's profile in GreenHouse.
-   1. Under Tools Email Candidate
-   1. From the Template drop-down select: GitLab Helpful Links - Checking In
-   1. From the Send email when drop-down select: Pick a custom time...
-   1. From the calendar select a future date and time, halfway between now and the Candidate's start date.
-   1. Check Schedule Email.
-
-If necessary you may cancel the email, which is now showing under the Email Candidate option.
 
 ### Next Steps
 
