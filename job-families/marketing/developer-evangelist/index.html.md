@@ -173,3 +173,4 @@ The Developer Evangelism team is responsible for [community engagement](/handboo
 * Same as Developer Evangelist plus,
 * Be a natural communicator and enjoy using those skills to help others
 * Comfortable communicating with people via public forums, in line with GitLab's transparency value 
+* Experience managing or participating in online communities. Experience engaging with online technical communities is a plus.
