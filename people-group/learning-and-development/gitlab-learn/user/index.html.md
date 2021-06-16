@@ -12,7 +12,7 @@ title: GitLab Learn User Documentation
 
 ## GitLab Learn Users
 
-The following resources can be used by learners in the [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
+The following resources can be used by learners in the [GitLab Learn](https://gitlab.edcast.com/) platform to help navigate the login process, explore new content, and more.
 
 **If you need support accessing GitLab Learn, have questions about content, need to edit or remove your account, or have feedback to provide, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).**
 
@@ -39,8 +39,9 @@ If you're looking for support in getting your questions answered, please refer t
 
 ### First time login to GitLab Learn
 
-When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
+When you log on to [GitLab Learn](https://gitlab.edcast.com/) for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
+Use the following URL to access the GitLab Learn Platform: [gitlab.edcast.com](https://gitlab.edcast.com/)
 
 Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
 
