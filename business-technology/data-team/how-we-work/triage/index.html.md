@@ -27,7 +27,7 @@ The Data team has implemented the following triage schedule to take advantage of
 | Tuesday   | `@mpeychet`    | `@paul_armstrong` |
 | Wednesday | `@iweeks`      | `@m_walker`       |
 | Thursday  | `@ken_aguilar` | `@snalamaru`      |
-| Friday    | `@jeanpeguero` | `@jjstark`        |
+| Friday    | `@jeanpeguero` | `@laddula`        |
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
 this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
