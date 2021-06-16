@@ -66,10 +66,10 @@ After one or more rounds of iteration on feedback from the account team, the SOW
 The engagement manager can kick off the finance approval process in Salesforce. TODO: Add more details. 
 
 ### Legal Approval
-The Engagement Manager is responsible for creating a Legal Approval Case in Salesforce from the associated opportunity. This process often involves reviewing and accepting redlines from the customer and from our legal team. The source of truth for the latest SOW is managed in the SFDC legal case. The EM should coordinate who "holds the pen" to ensure we maintain verision control of the SOW with the latest redlines. 
+The Engagement Manager is responsible for creating a Legal Approval Case in Salesforce from the associated opportunity. This process often involves reviewing and accepting redlines from the customer and from our legal team. The source of truth for the latest SOW is managed in the SFDC legal case. The EM should coordinate who "holds the pen" to ensure we maintain version control of the SOW with the latest redlines. 
 
 ### Customer Signature
-Once the SOW has been approved by PS leadership, Legal and Revnue, the account team is owns the process of executing the SOW. They should take the approved SOW from the legal case and route it for signature with the customer. 
+Once the SOW has been approved by PS leadership, Legal and Revenue, the account team is owns the process of executing the SOW. They should take the approved SOW from the legal case and route it for signature with the customer. 
 
 ### Deal Desk updates SFDC
 Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`.
