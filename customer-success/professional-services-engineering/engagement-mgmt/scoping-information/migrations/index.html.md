@@ -68,7 +68,7 @@ _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on B
 - Theoretically, migrations with this pair of source/destination should be able to be scaled as high as GHE to GL Self Managed. Its safe to increase the projects per wave to 1,000. 
 - If minimizing the transition period is a concern, we will want to maximize the number of projects per wave.
    - To do this, we need to have full control over the BitBucket API Rate limit setting.
-   - We also want to ensure there is a strong enough network connection between the GHE and GitLab SM instance to support moving the data. We don't have a hard number, but ask them about moving hundreds of GB over a few hours across lots of connections. Their network team should be able to answer.
+   - We also want to ensure there is a strong enough network connection between the BitBucket Server and GitLab SM instance to support moving the data. We don't have a hard number, but ask them about moving hundreds of GB over a few hours across lots of connections. Their network team should be able to answer.
 - If the customer wants to reorganize their groups/project structure, we can support this (see below common customer requests).
 
 ### Bitbucket Cloud to GitLab Self Managed
