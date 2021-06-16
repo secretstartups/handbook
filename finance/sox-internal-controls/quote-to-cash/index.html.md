@@ -14,17 +14,18 @@ title: "Quote to Cash"
 
 **Introduction**
 
-Order to Cash is a business process that involves receiving and fulfilling customer requests for products or services.
+The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. It considers the steps taken by sales operations team to configure a quote, through to when payment is received from the customer.
 
 **Applications Used**
 
-| Applications       | 	Primary Use                                                                                                 |
-|--------------------|-------------------------------------------------------------------------------------------------------------|
-| Sales force        | Application used for generating leads, updating opportunities and generating quotes                         |
-| Data fox           | Tool used for obtaining lead details                                                                        |
-| Zuora              | Application used for managing price masters, invoicing to customers and updating collections from customers |
-| Shopify           	 | Application used for sale of merchandise to customers                                                       |
-| Net Suite          | ERP system used to record the financial transactions                                                        |
+* [Salesforce](https://about.gitlab.com/handbook/business-technology/tech-stack/#salesforce) 
+* [Zendesk](https://about.gitlab.com/handbook/business-technology/tech-stack/#zuora-revenue)       
+* [DataFox](https://about.gitlab.com/handbook/business-technology/tech-stack/#datafox)    
+* [Shopify](https://about.gitlab.com/handbook/business-technology/tech-stack/#shopify)                                                
+* [Zuora](https://about.gitlab.com/handbook/business-technology/tech-stack/#zuora)                                               
+* [Zuora Revenue](https://about.gitlab.com/handbook/business-technology/tech-stack/#zuora-revenue)
+* [Xactly](https://about.gitlab.com/handbook/business-technology/tech-stack/#xactly-commission-expense-accounting-cea)
+* [Netsuite](https://about.gitlab.com/handbook/business-technology/tech-stack/#netsuite) 
 
 It includes the following sub-processes:
 
@@ -37,7 +38,7 @@ Leads are generated from various sources like campaigns, events, trade shows, ro
 
 Accounts, contacts and opportunities are usually created by a salesperson from the sales team. However, it is the responsibility of the Sales Operations team to review all the creations and assist salespersons in creation if required. 
 
-The sales operations team reviews the transaction and identifies if it is a new, upsell or renewal transaction and creates an account only if needed.
+The [sales operations team](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/) reviews the transaction and identifies if it is a new, upsell or renewal transaction and creates an account only if needed.
 
 At the time of account creation, the Legal team reviews the transaction for trade compliance issues and ensures not selling to a restricted country.
 
@@ -47,14 +48,14 @@ The Sales Operations team reviews if the transaction is with a related party and
 
 <br> 
 
-**1.1. Customer account can be created in the following ways:**
+**1.1. Customer account can be created in the following [ways](https://docs.google.com/document/d/10WANQY2YkODwPXtr1JuxcAYhLc7Twk2x8-8RMmaRUjM/edit):**
 
 
 - **Creation of customer account in Salesforce**
 
   - Select [“New” option ](https://docs.google.com/document/d/1KviCaYA4wN0eOsLpZZ3SeFXaBt9ATNC6Koi8uWC2Hg4/edit)from the Accounts tab in Salesforce.
 
-  - Select [account type](https://docs.google.com/document/d/1iT-dIDSotSDCiI2JauivAW7SD5n8G_Tye0dhHGIJ2VI/edit) for the account to be created and select “continue” option The following are the various customer account types;<br>
+  - Select [account type](https://docs.google.com/document/d/1iT-dIDSotSDCiI2JauivAW7SD5n8G_Tye0dhHGIJ2VI/edit) for the account to be created and select “continue” option. The following are the various customer account types;<br>
 <ins> Customer</ins> - Former Customer, Integrator, Partner, Prospect, Prospect Partner, Prospect CE <br>
 <ins> Reseller</ins> -  Authorised reseller, former reseller, prospective reseller, unofficial reseller
 
@@ -79,6 +80,9 @@ Details such as Account name, Parent Account, Account type, Employees, GitLab pl
   On purchase of subscriptions by customers from the web portal, the customer details are auto-interfaced to Salesforce on a real-time basis and the customer account and opportunity are updated in Salesforce. The opportunity name specifies that it is a [“Web-direct” order](https://docs.google.com/document/d/1E1swy8zGW7Xz_lEDqqcnRn359aZAQVnrCIqB95DZdKQ/edit).
 
    ***Controls being implemented: QTC.C.02***
+
+
+Refer [this page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#creating-accounts-and-contacts) for more details.
 
 <br>
 
@@ -109,6 +113,7 @@ Details such as Account name, Parent Account, Account type, Employees, GitLab pl
 
    - Opportunity stage is subsequently updated by the sales operations team. The various stages of an opportunity are shown [here](https://docs.google.com/document/d/1ay_6ElBs76PYRKUrTyCLxCl-eWU_bFydFGxOCZiVoX0/edit).
 
+Refer [this page](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#submit-an-opportunity-for-booking) for more details.
 
 <br>
 
@@ -156,7 +161,7 @@ Revision of price masters in Zuora for existing products and services is done by
 
 - Click [“save” to update](https://docs.google.com/document/d/1CDYyFdT6VmOQj7WlERvfxgP9SayH9pu-wBK7dyjpNDM/edit) the revised price.
 
-   ***Controls being implemented: QTC.C.03, QTC.C.04***
+***Controls being implemented: QTC.C.03, QTC.C.04***
 
   <br> 
    
@@ -215,17 +220,18 @@ On finalizing an opportunity, a quote is created in Salesforce by the Sales pers
 
 - At this stage, Billing/Finance receives the notification in their [report](https://gitlab.my.salesforce.com/00O61000003iSpN).  (Refer [“Invoicing to customers”](/handbook/finance/sox-internal-controls/quote-to-cash/#6-invoicing-to-customers) for process on approval by Billing Team).
 
-- Once Deal Desk has reviewed and approved the transaction, Finance( Billing Team?) will review. If the opportunity is approved by Finance, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and a Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
+- Once Deal Desk has reviewed and approved the transaction, Billing team will review. If the opportunity is approved by Billing team, the stage will update to “Closed Won” and the deal is officially booked. An approval email will be sent to the opportunity owner and a Slack message will appear in the “wins” channel and the "wins-key-deals" channel where applicable.
 
-- Once the opportunity has been approved, the billing team executive receives an email from Salesforce to push the Quote to Zuora.
+- Once the opportunity has been approved, the Billing team executive receives an email from Salesforce to push the Quote to Zuora.
 
 - The Billing team assignee now goes to the Quote and clicks on the “Send to Zuora” button.**(QTC.C.39)**
 
-   ***Controls being implemented: QTC.C.06, QTC.C.08***
+   **Controls: QTC.C.06, QTC.C.08**
 
 - The Quote is now sent to Zuora for billing.
 
-   
+Refer [this page](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/) for more details.
+
    <br>
    
 ## 4. Reseller Management
