@@ -15,11 +15,11 @@ title: Business Technology Team Building
 
 ## CIO Speaker Series
 
-- [Unfiltered Playlist](https://www.youtube.com/watch?v=dHtIR7Oya6o&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
+- [Unfiltered Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ)
     - **Shobhana (Shobz) Ahluwalia, CIO, Peloton Interactive** - [2021-05-5. **Topic:** Diversity and Inclusion](https://www.youtube.com/watch?v=frHW0fNbm5c&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=6)
-    - **Mark Settle, 7xCIO, Author** - [2020-10-14. **Topic:** Discuss Truth from the Valley: A practical Primer on IT Management for the Next Decade](https://www.youtube.com/watch?v=MLAboHCE434)
-    - **Eric Johnson, CIO, Survey Monkey** - [2020-09-16. **Topic:** Business Engagement](https://www.youtube.com/watch?v=dHtIR7Oya6o)
-    - **Stephen Franchetti, CIO and VP of Business Technology, Slack** - [2020-08-19. **Topic:** Business Technology Rebranding](https://youtu.be/j9vjNMVuL9c)
+    - **Mark Settle, 7xCIO, Author** - [2020-10-14. **Topic:** Discuss Truth from the Valley: A practical Primer on IT Management for the Next Decade](https://www.youtube.com/watch?v=MLAboHCE434&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=3)
+    - **Eric Johnson, CIO, Survey Monkey** - [2020-09-16. **Topic:** Business Engagement](https://www.youtube.com/watch?v=2Z8lAm941-A&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=2)
+    - **Stephen Franchetti, CIO and VP of Business Technology, Slack** - [2020-08-19. **Topic:** Business Technology Rebranding](https://www.youtube.com/watch?v=j9vjNMVuL9c&list=PL05JrBw4t0Kom2dWuFd-KoVnZqUTmlZQJ&index=1)
 
 ## Book Club
 
