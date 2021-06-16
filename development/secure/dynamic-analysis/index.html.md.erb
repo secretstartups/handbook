@@ -98,14 +98,50 @@ Our goals is to simplify and reduce as many of the steps that a customer needs t
 ### Specialized Labels
 
 We use additional labels to categorize different areas of the application. 
+```
 ~"dast::browserker" 
 ~"dast::peach api" 
 ~"dast::zap" 
+```
 
 For fuzzing we use the following labels. 
+```
 ~"fuzzing::coverage"
 ~"fuzzing::api"
 ~"fuzzing::protocol"
+```
+
+When opening up issues, the following label snippet often added:
+
+API Fuzzing Issues:
+```
+/label ~"Category:Fuzz Testing" 
+/label ~"fuzzing::api" 
+/label ~"group::dynamic analysis" 
+/label ~"devops::secure" 
+/label ~"backend"
+/label ~"apisec"
+/label ~"section::sec" 
+```
+
+Coverage Fuzzing Issues:
+```
+/label ~"Category:Fuzz Testing" 
+/label ~"fuzzing::coverage" 
+/label ~"group::dynamic analysis" 
+/label ~"devops::secure" 
+/label ~"backend"
+/label ~"section::sec" 
+```
+
+DAST Issues
+```
+/label ~"Category:DAST" 
+/label ~"group::dynamic analysis" 
+/label ~"devops::secure" 
+/label ~"backend"
+/label ~"section::sec" 
+```
 
 ### Community Contributions
 The Dynamic Analysis welcomes community contributions. Any community contribution should get prompt feedback from one of the DAST engineers. All engineers on the DAST team are responsible for
