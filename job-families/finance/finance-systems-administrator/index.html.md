@@ -102,11 +102,11 @@ Extends the Financial Systems Administrators requirements.
 
 ### Career Ladder
 
-The next step in the Finance Systems Administration job family is to move the [Manager, Finance Systems](#manager-finance-systems) role
+The next step in the Finance Systems Administration job family is to move the [Manager, Finance Systems Administrator](#manager-finance-systems) role
 
 
-# Manager, Finance Systems
-The Manager, Finance Systems plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [Sr. Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
+# Manager, Finance Systems Administrator
+The Manager, Finance Systems Administrator plans, conducts and directs the analysis of business problems with automated systems solutions. This job family reports to the [Sr. Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/).
 
 ## Responsibilities
 Extends the Senior Financial Systems Administrators responsibilities.
@@ -129,22 +129,22 @@ Extends the Senior Financial Systems Administrator requirements.
 
 ## Levels
 
-### Manager, Finance Systems 
+### Manager, Finance Systems Administrator 
 
 #### Job Grade
-The Manager, Finance Systems is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Finance Systems Administrator is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-The Manager, Finance Systems share the same responsibilities outlined above.
+The Manager, Finance Systems Administrator share the same responsibilities outlined above.
 
 #### Requirements
-The Manager, Finance Systems share the same requirements outlined above.
+The Manager, Finance Systems Administrator share the same requirements outlined above.
 
 ## Performance Indicators
 - As with all roles in the Finance Department the Finance System Administrator participates in the [team KPIs](/handbook/ceo/kpis/#finance-kpis).
 
 ## Career Ladder
-The next step in the Manager, Finance Systems job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
+The next step in the Manager, Finance Systems Administrator job family is to move to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/) job family.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
