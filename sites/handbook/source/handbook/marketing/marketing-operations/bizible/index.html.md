@@ -129,10 +129,11 @@ At the end, all the custom stage weights are normalized and converted to % as sh
 
 In our case, the custom machine learning model has the following weights for each stage: 
 
-- **First Touch** - 27.5%
-- **Lead Creation** - 27.7%
-- **Opportunity Creation** - 19.6%
-- **Closed (Lost, Won)** - 15.2%	
+- **First Touch** - 20.9%
+- **Lead Creation** - 24.8%
+- **Opportunity Creation** - 15.3%
+- **SAO** - 10.3%
+- **Closed (Lost, Won)** - 18.7%	
 - **Middle Touches** - 10.0%
 
 #### How GitLab Calculates Linear Attribution IACV
