@@ -53,7 +53,7 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | ----- | ----- | ----- |
 | 2021-05-05 | Discuss program details with Women's TMRG group meeting | [Planning Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) |
 | 2021-05-20 - 2021-06-07 | Call for Mentors | Application below |
-| 2021-06-07 - 2021-06-15 | Call for Mentees | Application below |
+| 2021-06-07 - 2021-06-23 | Call for Mentees | Application below |
 | 2021-06-18 | Pairing of mentor relationships complete and communicated to applicants |
 | Between 2021-06-18 and 2021-07-01 | Optional: Mentor/Mentee pre-program coffee chats | |
 | Between 2021-07-01 and 2021-07-07 | Initial program Kickoff meeting | Date TBD |
