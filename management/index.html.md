@@ -86,3 +86,31 @@ information, and process to follow.
 - [Project Management](/handbook/engineering/management/project-management/)
 - [Team Retrospectives](/handbook/engineering/management/team-retrospectives/)
 - [Development department metrics](/handbook/engineering/development/performance-indicators/groups/)
+
+## Management Roles
+
+The convention at GitLab is to display [Manager](/company/team/structure/#manager) roles as:
+
+`Manager, Division`
+
+To preserve de-facto industry standard role names such as `Engineering Manager`, manager roles in the Engineering Division 
+generally follow this naming pattern: 
+
+`Engineering Manager, Division`
+
+Accounting for temporary management positions, the Senior manager track, 
+different types of manager roles (such as `Backend` or `Support`), and the potential for one or more specialties yields:  
+
+`[Acting|Interim] [Senior] [Backend|Frontend|Fullstack|Site Reliability|Support|Quality] Engineering Manager [, Specialty]`
+
+Where: 
+
+- Acting or Interim roles are [temporary management positions](/handbook/engineering/career-development/#temporary-management-positions).
+- `Senior` manager roles are introduced when needed, usually related to management [span of control](/company/team/structure/#management-group) in the relevant department.
+- Some departments have domain specific role names as well as or instead of `Engineering Manager` including:
+    - `Product Design Manager` for UX.
+    - `Support Operations Manager` for Support.
+- Specialty can be one or many, and should generally be listed as:
+    - One specialty: ", Specialty I".
+    - Two specialties: ", Specialty I & Specialty II".
+    - Three plus specialties: ", Specialty I, Specialty II & Specialty III".
