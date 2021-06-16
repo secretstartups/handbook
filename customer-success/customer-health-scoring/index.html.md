@@ -44,7 +44,7 @@ Looking through just one lens provides a limited view. On a happier note, the cu
 * **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications: 20%
 
 
-![diagram of prove methodology](handbook/customer-success/vision/images/customer-health-score-vision.jpeg)
+![Customer Health Vision](/customer-success/vision/images/customer-health-score-vision.jpeg)
 <br>
 
 
