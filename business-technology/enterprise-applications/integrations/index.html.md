@@ -11,9 +11,14 @@ title: "Enterprise Applications Integrations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Integrations Engineering
+## Enterprise Applications Integrations
 
 {::options parse_block_html="true" /}
+
+### Quick links
+1. [Milestone board](https://gitlab.com/groups/gitlab-com/-/boards/1937586)
+1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues)
+1. [Integrations Platform (Nexus)](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus)
 
 <div class="panel panel-info">
 **How to engage us**
