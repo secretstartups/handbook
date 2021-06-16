@@ -69,6 +69,23 @@ You should make sure that the customer has finished creating a backup **before**
 
 We collect this information in Zendesk and link it to the organization.
 
+##### Discovery calls
+
+Sometimes a one hour call doesn't seem like the best step to take forward, and
+may not be the best use of our time. This is where the Discovery Call comes in.
+
+A Discovery call is a short 15 minute call with the sole purpose of learning
+enough to start troubleshooting asynchronously again. These calls are also
+great at helping ease a customer who is getting frustrated not being able to
+_show_ us the problem.
+
+If you feel that you're close to a resolution or need more time to collect info,
+then it's at your discretion to continue the call or not.
+
+Create a Calendly event in your account labeled `Support - Discovery Call with <your name>`
+and send a one-time link to this event when you find that a Discovery call
+would be useful.
+
 ##### Call summary
 
 Following your scheduled or unscheduled call you should complete a summary of the call in Zendesk using the
