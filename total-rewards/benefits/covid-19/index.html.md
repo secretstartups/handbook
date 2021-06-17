@@ -87,7 +87,7 @@ If you meet the criteria set forth above and find that you need additional time 
 * Will this policy apply across all of GitLab or just U.S.?  
   * This policy is intended to apply globally.  Local laws or internal policies governing local jurisdictions that provide broader protections for team members will supersede this policy.
 * How does this leave interact with other leave policies provided by GitLab?
-  * As previously noted, local leave laws or policies will supersede this policy.  Additionally, the Military Leave policy will govern military specific leave needs.
+  * As previously noted, local leave laws or policies will supersede this policy.  Additionally, the [Military Leave](/handbook/people-policies/#military-leave-policy) policy will govern military specific leave needs.
 * How does this policy work in conjunction with my 25 days of unlimited PTO?
   * This policy grants up to twelve weeks additional leave after you have used your initial 25 days PTO.  For many people, you will not need to use all of the 12 weeks to recover.
 * What if I can’t get tested for COVID-19?
