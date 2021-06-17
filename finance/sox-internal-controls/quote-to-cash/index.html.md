@@ -208,7 +208,7 @@ On finalizing an opportunity, a quote is created in Salesforce by the Sales pers
 
 -  Deal desk analyst to assign themselves to review the deal via the [“Deal Desk Analyst” opportunity field.](https://docs.google.com/document/d/1kUnoxCXcVBLgaMBjxk-j-8TXXFiTrBUrZQtQNrVVzn0/edit)
 
-- Deal desk analyst to review the opportunity for per the [attached list](/handbook/business-ops/order-processing/#deal-desk-approval-process).**(QTC.C.40)**
+- Deal desk analyst to review the opportunity for per the [deal approval process](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#deal-desk--finance-approval-workflow).**(QTC.C.40)**
 
 - If the Deal Desk analyst approves the opportunity based on the above criteria, the “Approval Status” field will update to “Deal Desk Approved”. The opportunity will remain in stage “7. Closing,” but will route to the billing team for finance approval.
 
@@ -401,7 +401,7 @@ Following are the different scenarios under which invoicing to customer happens:
 
 **6.1. Invoicing for sales operations team assisted product sale**
 
-Sales operations team updates the opportunity and creates a quote in Salesforce. The quote created is submitted for approval. The opportunity is first approved by the Deal Desk team and then by the Billing Team. Once the Billing team approves the opportunity, the opportunity is sent to Zuora by the Billing team.
+Sales operations team updates the opportunity and creates a quote in Salesforce. The quote created is submitted for approval. The opportunity is first approved by the Deal Desk team and then by the Billing Team. Once the Billing team approves the opportunity as per [Approving opportunity checklist](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Approving%20opportunities%20checklist), the opportunity is sent to Zuora by the Billing team.
 
 - **Approving the opportunity and quote in Salesforce by Billing Team**
 
@@ -416,7 +416,7 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
 
    - [Verify](https://docs.google.com/document/d/1R9gMomBvTvTAZo6gMP2dsoIFZHPXkitXk_Djlrq71L0/edit) whether the quote object created is as per the signed order form for correctness of rates, product selected and reseller/ customer details.
 
-   - In case of resellers, verify whether the [discount is as per the discount structure](https://docs.google.com/document/d/1e9zVrdkSzeyZxlmUhCej029vJt38qH8VOuznLb7bVZk/edit) updated in the reseller’s account page.
+   - In case of resellers, verify whether the [discount is as per the deal approval matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0)
 
    - Verify if the [quote has been signed](https://docs.google.com/document/d/1hwktzpbhV0dYQjKVXnyzA90RxZ5bFcZN68uR33ClCgE/edit) by the customer. 
 
@@ -427,6 +427,7 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
    - The opportunity is updated as [“Closed Won”](https://docs.google.com/document/d/1SyyfqB4ece7ZaOxSQNLxcwEcv6nkuXw7MlPh3lFU8so/edit) on approval of order.
 
 ***Controls to be implemented: QTC.C.12 and QTC.C.32***
+
 
 - **Sending quote to Zuora by Billing Team**
 
@@ -661,6 +662,7 @@ The invoice cancellation and corresponding refund are initiated by the billing t
 
 - Update the details and select [“Apply credit balance to invoice”](https://docs.google.com/document/d/1_7tOKhVK_klU94GG5tNJvRt-H6H4FlfmVb-iuatY-9U/edit).
 
+More details on the Invoice Cancellations and Refunds process can be found [here](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Refund%20Approvals%20Sales%20Assisted%20&%20Web%20Direct).
 
    
    <br>
@@ -908,25 +910,13 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
    When the invoice is overdue for more than 120 days, the account is kept on “Credit hold” and orders for that account can no longer be processed.**(QTC.C.24)**<br>
    - In the customer account page in Zuora, select [”edit”](https://docs.google.com/document/d/1rg8jBq3Ta5PlX7pAV54AkAIN73LUm6eUJ7PGMIt4cgA/edit) and under Notes and add a note stating “Support and Credit Hold”.
 
+Refer to the [Collection process](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Collections%20Process%20NEW), and  [Customer Cash Reconciliation & FX Validation](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Customer%20Cash%20Reconciliation%20&%20FX%20Validation) page for more details.
+
 <br>
 
-**11.3. Accounting of Provisions for Doubtful Debts**
+**11.3. [Accounting of Provisions for Doubtful Debts and Bad debts write off](https://about.gitlab.com/handbook/finance/accounting/#accounts-receivable-process-for-non-payment-of-invoices)**
 
-Provision for doubtful debts is accounted for on a monthly basis. Provision is made on 100% of the outstanding balance which are over 90 days overdue and the customer has not initiated the payments or has not responded to the reminder emails.  Provision is made at 100% of balance outstanding for more than 90 days overdue. 
-
-- Download [invoice aging report](https://docs.google.com/document/d/1NEVLW7HSHl5GUCaajq19Qd_sD9KzruD71-FWlhbXUlU/edit) from Zuora (Refer section 11.2 for the detailed process).
-
-- From the aging report generated, analyse all overdue payments based on replies received from customers for reminder emails. Update the customer reply status in the file. [Provision is made](https://docs.google.com/document/d/1XNoHCW4pGvXZlaZmiI5g-lt5Ptg26e7iZVggYU82aLw/edit) on 100% of the outstanding balance which are over 90 days overdue and the customer has not initiated the payments or has not responded to the reminder emails.
-
-- Calculate the [allowance](https://docs.google.com/document/d/16CFO74OfxBYo4oDWxpWODMsQ063yIbKXelDnQriMoKY/edit?usp=drive_web&ouid=111314924466435551734) to be made for all accounts based on the policy – 100% of the outstanding balance which are over 90 days overdue and the customer has not initiated the payment or has not responded to the reminder emails.
-
-- [Summarise](https://docs.google.com/document/d/1gAbqH-Y8uKB-lwhQzXe2NueV0LjLeLTN7YZ4p2tetaI/edit) the payments to calculate the total allowance.
-
-- [Account ](https://docs.google.com/document/d/1S26IBaMZoZ1mqanakojMjpFXS7NgjpzCuw8w2Cs43lw/edit)for the doubtful debts in NetSuite based on the summary prepared by posting a journal entry. The following will be the accounting entry:<br>
-  1103 Allowance for doubtful debts<br>
-  6007 Bad debt Expense
-
-***Controls being implemented: QTC.C.26, QTC.C.28***
+**Controls: QTC.C.26, QTC.C.27, QTC.C.28**
    
    <br>
    
