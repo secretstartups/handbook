@@ -252,6 +252,8 @@ Amendments to subscriptions must be processed entirely before any changes can be
 
 This quote type should be used when the customer has reached the end of their subscription term and wishes to renew the subscription for another term, using the same term start date.  
 
+Note: "Renew Subscription" quotes should be used even if the customer is renewing for a different term length than the previous period. i.e. If the customer is renewing a 12 month subscription for 24 months, choose "Renew Subscription" and enter "24" in the Renewal Term field.
+
 **A.  Standard Renewal**
 *   Open the Renewal opportunity and click the **“New Quote”** button.
 *   Select the **existing billing account.**
