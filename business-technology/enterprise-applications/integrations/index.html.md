@@ -21,7 +21,7 @@ title: "Enterprise Applications Integrations"
 1. [Integrations Platform (Nexus)](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus){:target="_blank"}
 
 ## How we work
-To learn about our processes please visit the [How We Work](./integrations/how-we-work) page
+To learn about our processes please visit the [How We Work](./how-we-work) page
 
 ## Who are we?
 
