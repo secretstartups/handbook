@@ -15,15 +15,15 @@ This role reports to the [Manager, Financial Systems Administrator](#manager-fin
 ## Responsibilities
 
 - Technical Delivery: Ability to administer and configure finance systems applications to support GitLab business processes while adhering to SOX compliant change management. 
-- Process Improvement: Execute improvements to finance processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements.  Document updated processes in the company handbook.
-- Business Acumen: Have and grow a solid understanding of core finance business processes of quote to cash, record to report, and procure to pay.  Have and grow  your understanding of accounting principles and GitLab finance related policies.
+- Process Improvement: Accomplish improvements to finance processes that you support. Understanding the impacts of changes recommended and how to translate them into technical requirements.  Document updated processes in the company handbook.
+- Business Acumen: Understanding of core finance business processes of quote to cash, record to report, and procure to pay.  Understanding of accounting principles and GitLab finance related policies. Motivation for continuous learning in the area.
 - Business Engagement: Engage with your team and  stakeholders regarding their business strategy and objectives for automating and optimizing financial processes.  Meet regularly with business partners to ensure that the financial applications are functioning as designed and supporting their needs. 
 - Leadership:  Ability to manage your work  to deliver on agreed to dates and deadlines and communicate any risks or issues to those.  
-- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliant execution of technical delivery. .
-- Business Partnership: Support Senior Financial Systems administrators  and Managers regarding business strategy, go to market, functional strategy, spending initiatives, ad hoc financial analysis and monthly, quarterly and annual planning. Begins to build relationships with select cross-functional partners.
-- Project Management: Run small sized projects that improve our ability to make better data driven insights or make the company more efficient.
+- Compliance: Supports data, security, and legal governance processes and adherence of guidelines between internal business units and systems in order to ensure efficient and compliance of technical delivery. .
+- Business Partnership: Support Senior Financial Systems administrators  and Managers regarding business strategy, go to market, functional strategy, spending initiatives, ad hoc financial analysis and monthly, quarterly and annual planning. Maintain robust relationships with select cross-functional partners.
+- Project Management: Run small sized projects that improve our ability to make better data focused insights or make the company more efficient.
 - Communication: Target audience to FP&A management, functional managers and directors.
-- Autonomy: executes with moderate supervision from senior members of team.
+- Autonomy: Accomplish goals with moderate supervision from senior members of team.
 - Share our values, and work in accordance with those values. 
 
 
@@ -32,8 +32,8 @@ This role reports to the [Manager, Financial Systems Administrator](#manager-fin
 - Ability to use GitLab
 - 2-3 years of experience in a systems administrator or business role ideally with a finance focus.
 - BS degree in Computer Science, Cognitive Science or relevant degree. 
-- Demonstrated success working in cross-functional teams to meet business objectives and influence colleagues, fostering strong working relationships
-- Ability for  strategic thinking, with Strong creative problem solving and analytical skills
+- Demonstrated success working in cross-functional teams to meet business objectives and influence colleagues, fostering robust working relationships
+- Ability for  strategic thinking, with robust creative problem solving and inquisitive skills
 - Able to train financial application users on new tools and changes to existing tools.
 - Communication: Ability to present technical data concisely with Proof of Concepts, diagrams and core documentation through written and oral communication.
 - Systems: Hands-on experience with business and financial software preferred. Netsuite, Zuora, Coupa and Adaptive Planning are a plus.
@@ -72,7 +72,7 @@ The Senior Finance Systems Administrator is a [grade 7](/handbook/total-rewards/
 Extends the Financial Systems Administrators  responsibilities:
 
 - Business Partnership: Influences cross-functional team regularly. Begins to build and manage holistic relationships with select partners
-- Business Operations: Build, maintain and improve internal analysis and planning processes  to more efficiently deliver for our  business partners. These processes are easily audited and handbook pages updated.
+- Business Operations: Build, maintain and improve internal analysis and planning processes to more efficiently deliver for our business partners. All processes should be documented in the handbook.
 - Technical Delivery: Drive end to end delivery processes with minimal guidance.
 - Project Management: Run medium-sized projects that improve our ability to make better data driven insights or make the company more efficient.
 - Communication: Target audience Sr. Manager, Director, Sr. Director and functional VP.
@@ -118,7 +118,7 @@ Extends the Senior Financial Systems Administrators responsibilities.
 - Project Management: Run large complex projects that improve our ability to make better data driven insights or makes the company more efficient.
 - Communication: Target audience basic influence to Directors, Sr Directors, Functional VPs and  CFO. 
 - Mentorship: As a senior individual contributor, you mentor other team members in technical delivery, process analysis and improvement. 
-- Autonomy: independently delivers and effectively prioritizes projects assigned with clear scope
+- Autonomy: Delivers and effectively prioritizes projects assigned with clear scope
 
 
 ## Requirements
