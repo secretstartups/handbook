@@ -40,6 +40,21 @@ should be called out as early as possible.
 * [Static Analysis EM Board](https://gitlab.com/groups/gitlab-org/-/boards/1655697)
   * Engineer-centric board used by engineering management to gauge how heavy a load engineer is carrying. Judged by the number of issues assigned to them.
 
+#### Issue and Merge Requests labels
+
+GitLab has a labeling convention for issues and Merge Requests. We follow this convention, though there are specific labels required to route artifacts to us. We 
+use these labels to filter issues meant for us on our issue boards. They are also used for metrics and KPI reporting.
+
+| Label | Meaning |
+| ----- | ------- |
+| ~section::sec | Identifies the issue or MR as belonging to the Sec Section's roadmap. |
+| ~devops::secure | Identifies the issue or MR as belonging to the Secure Stage's roadmap. |
+| ~group::static analysis | Identifies the Static Analysis group as the collection of individuals who will work on the issue or MR. |
+| ~Category:SAST | Identifies the issue or MR as being part of the SAST feature category. |
+| ~Category:Secret Detection | Identifies the issue or MR as being part of the Secret Detection feature category. |
+| ~Category:Code Quality | Identifies the issue or MR as being part of the Code Quality feature category. |
+| ~backend | Identifies the issue or MR as being part of GitLab's backend. |
+
 ### It all starts with planning
 
 Like the rest of GitLab, we are product-driven and work in response to the priorities identified by Product Management. We use planning issues to articulate the epics which should be our top priorities in each release. This practice means we can interpret epics to be the features we're being asked to deliver and 
@@ -94,6 +109,12 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 | 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
 | 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
 | Bigger | Epic in disguise |  |
+
+#### Stabilization Period and Slack Time
+
+The collection of issues which make up epics represent a sizable amount of work, which we typically seek to limit to approximately 1.5 milestones in total duration. The size and scope of 
+this work can result in previously unseen scope or have unexpected consequences. As a result, we will not immediately kick off work on another epic immediately after completing one. We will 
+allow one week of time for tech debt cleanup, feature stabilization, and engineer slack time to explore topics they encountered which are of interest to them.
 
 ### Security Vulnerability Process
 
@@ -192,16 +213,14 @@ withhold updates to the dependency until the problems have been patched.
 
 At times we will need to update our analyzers because of security updates to golang itself. In this situation, we follow the [established release process](https://about.gitlab.com/handbook/engineering/development/secure/release_process.html#security-fixes-of-go).
 
-### Community Contributions
+### Unplanned work
 
-The Static Analysis group is actively reserving capacity each iteration to be responsive to MRs from the community. Each backend engineer 
-in the group will serve as the [Community Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/) on a rotating 
-basis. The Community Merge Request Coach has the following responsibilities, in priority order:
+In general, the Static Analysis group has two sources of unplanned work: community contributions and ~severity::1 bugs. We will reserve capacity each 
+release so we can respond quickly and efficiently. In both scenarios, we will route community contributions to the [engineer who "owns" the analyzer](#we-own-what-we-ship). 
 
-1. Triage and work with community contributors to help drive their MRs to completion.
-1. Release feature(s) to core.
-1. Triage and resolve ~priority::1 bugs.
-1. Work an issue in the backlog that's of great interest to you.
+We do, however, own and contribute to projects beyond the analyzers shipped as part of GitLab's product. Where possible, unplanned work requiring 
+the attention of an engineer in Static Analysis will be routed according to that project's `CODEOWNERS` file. Otherwise, unplanned work will be 
+considered and handled on a case-by-base basis.
 
 ### Product Prioritization Labels
 
