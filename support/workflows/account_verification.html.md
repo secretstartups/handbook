@@ -12,15 +12,15 @@ description: "Workflow detailing how and when to disable 2FA for a customer and 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
+## **Overview**
 
-This workflow focuses on  disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account.
+This workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account.
 
 It should also be used any time ownership of an account needs to be verified, such as for [account changes](/handbook/support/workflows/account_changes.html).
 
 2FA removal and other account actions can only be completed if the [workflow](#workflow) below is successful.
 
-## Self Service 2FA Removal
+## **Self Service 2FA Removal**
 
 In most cases, users can disable 2FA themselves and regain access to their accounts, using one of the following methods:
 
@@ -30,7 +30,7 @@ In most cases, users can disable 2FA themselves and regain access to their accou
 
 > As of August 2020, [free users won't be able restore access to accounts](https://about.gitlab.com/blog/2020/08/04/gitlab-support-no-longer-processing-mfa-resets-for-free-users/) if self-service methods do not work for them.
 
-## Disable 2FA with Support Intervention
+## **Disable 2FA With Support Intervention**
 
 If a user cannot make use of self-serve methods (lost their account recovery codes and has no SSH key registered), proving they own the account can be difficult. Support intervention for 2FA removal after the above steps have been attempted is only possible for users with an *existing paid plan* when the ticket was created.
 
@@ -50,7 +50,7 @@ As part of access recovery, if 2FA removal is not involved, then skip the follow
 1. If they have not answered the challenges, apply the [`Support::SaaS::2FA::2FA Challenges` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+103721068).
 1. The macro marks the ticket as "Pending".
 
-#### Evaluating challenge answers
+#### Evaluating Challenge Answers
 
 > **Note**: In case the user sends back very minimal information and it's clear it's not sufficient or the answers are vague, reply asking for more information immediately after their response. You can provide some additional guidance, such as "please provide the exact date and time of the commit, not just an approximate one".
 
@@ -89,85 +89,158 @@ If the user is a GitLab employee, have them contact IT Ops.
 
 ### Large Customers
 
-For customers who are large enough to have an account management project, an issue within their specific project can be used as verification.
+For customers who are large enough to have an account management project, a different workflow can be configured for them that will allow Support to more easily disable 2FA for any of their users that require it. Before this process can be used, a GitLab team member from either Customer Success or Sales must perform a few setup steps. If a customer requests this workflow, please refer them to either of those individuals.
 
-#### Setup (by Account Manager)
+#### Setup (For CS & Sales)
 
-The (Technical) Account Manager ((T)AM) is responsible for the setup. If a customer requests this workflow, please refer them to their (T)AM.
+The steps to follow depend on whether or not the customer has a shared Slack channel with us. Either the customer's Technical Account Manager (CS) or Account Manager (Sales) is responsible for performing this setup. Please proceed to [Shared Slack Channel](#shared-slack-channel) if they do or [No Shared Slack Channel](#no-shared-slack-channel) if they don't.
 
-1. Create an issue template in `.gitlab/issue_templates` called `2FA Verification.md` that contains the following (modifying as necessary):
+##### Shared Slack Channel
 
-```plain
+1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain **both** the Slack handle and GitLab username of these users.
+1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
+1. Populate the `2FA Verification.md` file with the template below, taking care to replace the following variables from it with your specific customer's information:
+   - `<CUSTOMER_SLACK_CHANNEL>` - The name of the shared Slack channel that the customer's organization has with us.
+   - `<SLACK_USERNAME>` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
+   - `<GITLAB_USERNAME>` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
 
-   A user in your organization is requesting to have 2FA removed from their account.
+     <details>
+      <summary markdown="span">2FA Verification Template</summary>
 
-   - User requesting reset: `@user`
-   - ZD Ticket: `#ticket number`
+       <p>A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.</p>
 
-   /label ~"2FA Reset" ~"Awaiting confirmation"
+       <p>## Support Engineer Instructions
+       <p>- [ ] Ping the customer's organization owners in <CUSTOMER_SLACK_CHANNEL> using the [Notify Customer - Slack](LINK) template. For this organization the owners are <SLACK_USERNAME>, <SLACK_USERNAME>, and <SLACK_USERNAME>.
+       <p>- [ ] Fill out the `Request Details` section below.
 
-   <!-- TAM to adjust template to add approved resetters here --!>
-   /assign `@2FA resetter 1`, `@2FA resetter 2`, `@2FA resetter 3`
+       <p>## {+Request Details+}
+       <p>- {+User Requesting Reset: <USERS_GITLAB_USERNAME>+}
+       <p>- {+Support Ticket: <TICKET_NUMBER>+}
 
-   <!-- TAM to adjust template to add approved resetters Slack Handles and Customer channel here, or remove this section if they don't have a shared Slack channel--!>
-   ### Support Engineer Instructions:
-   - [ ] This customer has a shared Slack channel `#customer-channel` - ping `@2FA resetter 1`, `@2FA resetter 2`, `@2FA resetter 3` there to alert them of this request
+       <p>## {+Customer Instructions+}
+       <p>- [ ] {+Review the request and get in contact with the user requesting the reset to verify its authenticity.+}
+       <p>- [ ] {+Comment on this issue indicating your approval.+}
+       <p>- [ ] {+Unassign yourself and any others from this issue.+}
+       <p>- [ ] {+Assign the Support Engineer who opened this issue.+}
 
-   ### Customer Instructions:
-   - [ ] Review the request and get in contact with the user requesting the reset to verify the authenticity.
-   - [ ] Comment on this issue indicating your approval.
-   - [ ] Label this issue ~"Approved".
-   - [ ] Unassign yourself (and any others).
-   - [ ] Assign the Support Engineer who opened this issue.
+       <p>You can do most of the above by copying/pasting the following into a comment box:
 
-   You can do most of the above by copying/pasting the following into a comment box:
+       <p>I approve this request!
+       <p>/label ~"Approved"
+       <p>/unassign me
+       <p>/assign <SUPPORT_ENGINEER_USERNAME>
 
-   
-   I approve this request!
-   /label ~"Approved"
-   /unassign me
-   /assign `<put Support Engineer GitLab handle here>`
-  
+       <p>/assign <GITLAB_USERNAME> <GITLAB_USERNAME> <GITLAB_USERNAME>
+       <p>/label ~"2FA Reset" ~"Awaiting confirmation"
+     </details>
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
+   1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/`.
+   1. A link to the customer's account management project.
 
-```
+##### No Shared Slack Channel
 
-1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to add a note to the appropriate Zendesk Organization's `Notes`, such as `2FA owner vouch: [link to 2FA Reset Owners file]` and also include a link to the customer's account management project.
+1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain **both** the Slack handle and GitLab username of these users.
+1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
+1. Populate the `2FA Verification.md` file with the template below, taking care to replace the following variables from it with your specific customer's information:
+   - `<GITLAB_USERNAME>` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
 
-#### Usage
+     <details>
+      <summary markdown="span">2FA Verification Template</summary>
 
-If the Zendesk organization's notes has a "2FA owner vouch" link, use the following process to ask for an owner vouch.
-The following is a guide only - the issue template is the source of truth, and may include some special handling notes.
+       <p>A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.</p>
 
-#### Create approval issue
-1. Open a new issue using the issue template in their `account-management` project and fill out the required fields.
+       <p>## Support Engineer Instructions
+       <p>- [ ] Fill out the `Request Details` section below.
 
-#### Slack Owner Contact
+       <p>## {+Request Details+}
+       <p>- {+User Requesting Reset: <USERS_GITLAB_USERNAME>+}
+       <p>- {+Support Ticket: <TICKET_NUMBER>+}
 
-1. If a Slack channel is listed, join the listed channel and ping the individuals listed in the approval issue in the listed Slack channel, alerting them that a request exists, and that they can expedite the processing of the request. You can use the following as a template for this message, but just be sure to fill in all of the user details and adjust the issue link.
+       <p>## {+Customer Instructions+}
+       <p>- [ ] {+Review the request and get in contact with the user requesting the reset to verify its authenticity.+}</p>
+       <p>- [ ] {+Comment on this issue indicating your approval.+}
+       <p>- [ ] {+Unassign yourself and any others from this issue.+}
+       <p>- [ ] {+Assign the Support Engineer who opened this issue.+}
 
-   ```plain
-   Hi <CUSTOMER_SLACK_HANDLE> - we've received a request from the following user to disable 2FA on their account.
-   
-   GitLab Username:  
-   Email: 
-   Support Ticket: 
-   
-   Could you vouch for them by following the steps in `link.to/issue`? 
+       <p>You can do most of the above by copying/pasting the following into a comment box:
 
-   Once you've done that, please let me know. If you don't get to this within 24 hours, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
-   ```
+       <p>I approve this request!
+       <p>/label ~"Approved"
+       <p>/assign <SUPPORT_ENGINEER_USERNAME>
 
-    - *Skip this step if* a listed owner has created and sent a link to the issue through Zendesk prior to Support's request.
-1. Notify the user that you are getting an owner to vouch for them if needed (based on ticket SLA).
-1. Once a "2FA Reset Owner" gets back to you, include the vouch in your risk factor assessment.
-1. Acknowledge the response in the Slack thread.
-1. Comment in the account management issue that you've included the owner vouch in the verification process, and close the issue.
+       <p>/assign <GITLAB_USERNAME> <GITLAB_USERNAME> <GITLAB_USERNAME>
+       <p>/label ~"2FA Reset" ~"Awaiting confirmation"
+     
+1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
+   1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/`.
+   1. A link to the customer's account management project.
 
-## Authentication For GLGL Reports
+#### Usage (For GitLab Support)
+
+If a 2FA ticket is opened by an organization that has had this workflow configured for them, perform the following steps to process the request depending on whether or not the customer has a shared Slack channel with us.
+
+##### Shared Slack Channel
+
+Perform the following steps if the customer has a shared Slack channel with us.
+
+##### 1. Create Issue
+{:.no_toc}
+
+1. Open a new issue in the issue tracker of the customer's account verification project using the `2FA Verification` template and follow all instructions within it. A link to this template should be in the notes for the organization in Zendesk.
+
+##### 2. Contact Through Slack
+{:.no_toc}
+
+1. Within the customer's shared Slack channel with us, use the template below to alert them to the fact that a new 2FA disable request exists in their account management issue tracker. Be sure to replace the following variables:
+   - `<SLACK_USERNAME>` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts. If there are more than one, add them as well.
+
+     <details>
+       <summary markdown="span">2FA Verification Template</summary>
+
+       <p>Hi <SLACK_USERNAME> - we've received a request from one of your users to disable 2FA on their account.</p>
+
+       <p>Could you vouch for them by following the steps in this issue: <ISSUE_LINK>?</p>
+
+       <p>Once you've done that, please let me know. If you don't get to this within 24 hours, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.</p>
+     </details>
+
+>**Note:** If the customer has created an issue using the `2FA Verification` template themselves and sent us a Zendesk ticket with a link to it, skip this step.
+
+##### 3. Wait For Authorization
+{:.no_toc}
+
+Wait for the customer to comment on the issue and approve the request to disable 2FA.
+
+##### 4. Disable 2FA
+{:.no_toc}
+
+Once the customer has approved the request, disable 2FA on the user's account, and then close both the support ticket and issue.
+
+##### No Shared Slack Channel
+
+Perform the following steps if the customer does not have a shared Slack channel with us.
+
+##### 1. Create Issue
+{:.no_toc}
+
+1. Open a new issue in the issue tracker of the customer's account verification project using the `2FA Verification` template and follow all instructions within it. A link to this template should be in the notes for the organization in Zendesk.
+
+##### 2. Wait For Authorization
+{:.no_toc}
+
+Wait for the customer to comment on the issue and approve the request to disable 2FA.
+
+##### 3. Disable 2FA
+{:.no_toc}
+
+Once the customer has approved the request, disable 2FA on the user's account, and then close both the support ticket and issue.
+
+
+## **Authentication For GLGL Reports**
 
 In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
 
-## Account Ownership Changes
+## **Account Ownership Changes**
 
 There are some conditions under which a change of ownership may be requested by a company with a business relationship with GitLab.
 Our [support page](https://about.gitlab.com/support/#ownership-disputes) outlines that these processes are not available for unpaid groups.
@@ -176,7 +249,7 @@ The end result of a successful request is a new or existing user in the namespac
 
 ### Account Ownership Change Request for Paid Groups
 
-Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first. 
+Account Ownership Change Requests are initiated when the sole Owner of a group leaves a company and an authorized representative of the company is seeking to regain access. This process should be a last resort, and self-service options should be pursued first.
 
 If a request is received, verify:
 
@@ -185,14 +258,14 @@ If a request is received, verify:
 1. Requestor has a GitLab.com account. Typically this user will already be a member but is not Owner.
 
 Ensure that the requestor has exhausted all self-service options:
-- If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly. 
+
+- If the existing Owner's account does not have 2FA, suggest they issue a password reset and claim the account directly.
 - If the existing Owner's account does have 2FA, suggest contacting the previous Owner to provide the one time password, backup codes or private ssh key to regain access.
 
 If no Self-service options are viable, follow the steps below:
 
 1. Use [`Support::SaaS::Account ownership change verification (Self-service option not possible)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073396100) macro
 1. If possible, add the account owner or account manager in the CC.
-1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step. 
+1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
-
