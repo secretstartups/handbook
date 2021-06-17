@@ -389,14 +389,14 @@ On Customer Account, OR, Opportunity:
    - The same steps will repeat until an executable version is reached. At which point, the Contract Request [Case will be closed](https://docs.google.com/document/d/1uMbhFeZdYZHAVmnfQzBuRDo3p8j3YCOg3AAorJXr3go/edit).
 
    - The Sales Team Member will follow the steps found at "Obtain Signatures" and attach the fully executed version to the Customer Account. NOTE: The above process may be used to also engage Contract Managers / Legal Members to add non-standard language to Order Forms.
-   
+  
    <br>
    
 ## 6. Invoicing to Customers 
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1aXyGUASe4KJHzwJ5cMV1U-6mTXSm1kNp9SlZ2O9MFwc/edit#slide=id.g7a74f30df8_0_3)
 
-Following are the different scenarios under which invoicing to customer happens:
+Following are the different scenarios under which invoicing to customer happens: 
 
 
 **6.1. Invoicing for sales operations team assisted product sale**
@@ -426,7 +426,6 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
  
    - The opportunity is updated as [“Closed Won”](https://docs.google.com/document/d/1SyyfqB4ece7ZaOxSQNLxcwEcv6nkuXw7MlPh3lFU8so/edit) on approval of order.
 
-***Controls to be implemented: QTC.C.12 and QTC.C.32***
 
 
 - **Sending quote to Zuora by Billing Team**
@@ -458,20 +457,16 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
 
    - Post the invoice after verification by selecting the [“Post invoice” ](https://docs.google.com/document/d/1cAi6Qrn-dxDbb3RTo4xWOgLP-M9FtdEOq9GRc7KzI-8/edit)option in the invoice page.
 
-***Controls to be implemented: QTC.C.10 and QTC.C.15***
-
 <br>
 
 **6.2. Invoicing for web portal based product sale**<br> 
-        **QTC.C.11, QTC.C.12 and QTC.C.13**
 
 [Process steps screenshot](https://docs.google.com/document/d/1RRWhgPOxuM5zbIqtd2-OingGnsuNspqKQiOLG3QgXhY/edit)
 
 - [Opportunity](https://docs.google.com/document/d/10L2YhjUs2IyUkaLcfe6MtEWWfENFDZS_aQJsHisRLBY/edit) is created automatically in SalesForce based on orders placed by customers.
 
-- The opportunity details are auto-interfaced from Salesforce to Zuora. Based on opportunity details interfaced, [the invoice is auto-generated ](https://docs.google.com/document/d/1XYt0qZasEZXclpQepdDP-tr9Wv40LVtGAcoP74rYjig/edit)in Zuora. 
+- The opportunity details are auto-interfaced from Salesforce to Zuora. Based on opportunity details interfaced, [the invoice is auto-generated ](https://docs.google.com/document/d/1XYt0qZasEZXclpQepdDP-tr9Wv40LVtGAcoP74rYjig/edit)in Zuora. **(QTC.C.13)**
 
-***Controls to be implemented: QTC.C.12 and QTC.C.15***
 <br>
 
 **6.3. Invoicing for services** 
@@ -494,7 +489,6 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
 
    - Opportunity is updated as “[Closed won](https://docs.google.com/document/d/1CKFwtNsf05uQqQjT8wkyK-VwkNCzUCG-h-jL9ZChtlc/edit)” in Salesforce on approval
 
-***Controls to be implemented: QTC.C.12 and QTC.C.32***
 
 - **Sending quote from Salesforce to Zuora by Billing Team**
 
@@ -575,7 +569,6 @@ The report contains the name of the account to be invoiced, subscription referen
 
    - In the customer account page, under [“Notification history”](https://docs.google.com/document/d/1DZhDX2omc7i5keefCftGXoQKZ0a4ZN0UeGCjP4IxVEY/edit) section, verify whether the invoice has been dispatched to the customer
 
-***Controls to be implemented: QTC.C.12 and QTC.C.15***
 
 - **Processing payment for the renewal**
 
@@ -602,17 +595,19 @@ The report contains the name of the account to be invoiced, subscription referen
 
    - Select [“Save” ](https://docs.google.com/document/d/1P9MeZFRRT4833ya7L0JlXic4IzdrSwSOnR8bMRdPEgU/edit)option. The renewal opportunity is updated in Salesforce.
    
+**QTC.C.12**  
+***Controls to be implemented: QTC.C.32 and QTC.C.15***
+
    <br>
    
 ## 7. Invoice Cancellations and Refunds
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1eL08A1xPcg7UIy7FFsBgFcUNS3TwSPkt_I0cqJIB3aA/edit#slide=id.g7a74bf9a71_0_0)
 
-The invoice cancellation and corresponding refund are initiated by the billing team based on a refund request received from the sales team, sales operations team or from the customer via email to the accounts receivable team or deal desk or through support team via ZenDesk ticket. Refunds can be initiated within 45 days from the start date of the subscription. 
+The invoice cancellation and corresponding refund are initiated by the billing team based on a refund request received from the sales team, sales operations team or from the customer via email to the accounts receivable team or deal desk or through support team via ZenDesk ticket. Refunds can be initiated within 45 days from the start date of the subscription. **(QTC.C.16)** 
 
-***Controls being implemented: QTC.C.16***
 
-**7.1. Processing a refund to customer**
+**7.1. Processing a refund to customer** **(QTC.C.17, QTC.C.38)**
 
 - From the customer account page in Zuora, under the transactions section, [search](https://docs.google.com/document/d/1FQr8_GFCSIcSh_5fY6U8ZS9gpwvslvKQNOe4RGM18zY/edit) for the invoice that needs to be cancelled.
 
@@ -626,9 +621,8 @@ The invoice cancellation and corresponding refund are initiated by the billing t
 
 - The payment will be reversed on the invoice and there will be a balance due.
 
-***Controls being implemented: QTC.C.17, QTC.C.38***
 
-**7.2. Creating a credit note for cancellation of subscription**
+**7.2. Creating a credit note for cancellation of subscription** **(QTC.C.37)**
 
 - From the customer account page in Zuora, under the Subscriptions and Amendments section, select the [subscription to be cancelled](https://docs.google.com/document/d/1N1VWwMkfYGmsCfgIpfKemQCmlXcaFPhLSH0UN2PlyZk/edit). 
 
@@ -648,7 +642,6 @@ The invoice cancellation and corresponding refund are initiated by the billing t
 
 - Verify and [post ](https://docs.google.com/document/d/1CKXE9S3DzpWBY90tlmPh9SLfFRUelPhQcshlbAFuOB4/edit)the invoice. 
 
-***Controls being implemented: QTC.C.37***
 
 **7.3. Applying the credit note to original invoice**
 
@@ -806,7 +799,6 @@ GitLab refers customers to Google cloud platform. If the customer signs up, Goog
 Dr. 1101 Accounts receivable<br>
 Cr. 4008 Revenue – GCP referral
 
-***Control being implemented: QTC.C.20***
    
    <br>
    
@@ -814,8 +806,7 @@ Cr. 4008 Revenue – GCP referral
 
 [Link to Flowchart](https://docs.google.com/presentation/d/1dMLg0oWnxEmKDejQgxQ31s722JaRRDxfU62BxrBVKC0/edit#slide=id.g7a74540988_0_0)
 
-Customers can make payment through credit card, cheque and bank transfer. Payments are manually matched with the invoices in Zuora by the billing team.<br>
-***Controls being implemented: QTC.C.21***
+Customers can make payment through credit card, cheque and bank transfer. Payments are manually matched with the invoices in Zuora by the billing team. **QTC.C.21**<br>
 
 **11.1. Accounting for customer collections**
 
@@ -873,7 +864,7 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
 **11.2. Monitoring of outstanding dues**
 
-- **Invoice aging analysis**
+- **Invoice aging analysis** **(QTC.C.22)**
 
   Invoice aging analysis is carried out by the Billing team on a weekly basis.
 
@@ -886,7 +877,6 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
    - Analyse the report generated for overdue payments.
 
-    ***Controls being implemented: QTC.C.22***
 
 
 - **Reminders for outstanding dues**
