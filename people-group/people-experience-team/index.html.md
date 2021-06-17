@@ -53,9 +53,9 @@ The following factors will also be taken into consideration:
 
 **The Rotation groups are listed as follows:**
 
-- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / Printfection Report
+- Probation Periods / Moo Invites/ Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / Printfection Report
 
-- BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
+- BHR Onboarding Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
 
 - I-9 Administration / Pruning of Stale Records (TBD)
 
@@ -188,7 +188,7 @@ Every Monday and Wednesday, the Associate in the rotation will pull the report t
 1. If the name is not highlighted this is a new add and keep the name on the tracker. 
 1. **Important, if the team member is located in Japan, please immediately proceed with sending the required payroll documentation to the new hires personal email address.** Include Non US Payroll in the email correspondence for visibility. 
 
-#### Weekly Moo Report
+#### Weekly Moo Invites
 
 Every week on Tuesday, the People Experience Associate in the rotation will send the invites to the new team members starting that week.
 1. The  People Experience Associate will log into Moo
