@@ -987,7 +987,7 @@ Be transparent to the right people (up) at the right time (when still actionable
 
 ##### Disagree, commit, and disagree
 {:.no_toc}
-Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](http://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
+Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
 Every decision can be changed;
 our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
 In a manager-report circumstance, usually the report is the DRI.
