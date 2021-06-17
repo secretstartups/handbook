@@ -1001,7 +1001,7 @@ When you want to reopen the conversation on something, show that your argument i
 You have to achieve results on every decision while it stands, even when you are trying to have it changed.
 You should communicate with the [DRI](/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
 
-##### Transparency is most valuable if you continue to do it when there are costs.
+##### Transparency is most valuable if you continue to do it when there are costs
 {:.no_toc}
 We practice transparency even when hiding the facts would be easier. For example, many companies do not give you the real reason why they declined your application because it increases the chance of legal action. We want to only reject people for the right reasons and we want to give them the opportunity to grow by getting this feedback. Therefore, we'll accept the increased risk of holding ourselves to a high standard of making decisions and do the right thing by telling them what we thought. Other examples are being transparent about [security incidents](http://disq.us/p/1r9gceh) and participating in and contributing to Live Broadcasts.
 
