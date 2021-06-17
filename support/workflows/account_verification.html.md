@@ -100,9 +100,9 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
 1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain **both** the Slack handle and GitLab username of these users.
 1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
 1. Populate the `2FA Verification.md` file with the template below, taking care to replace the following variables from it with your specific customer's information:
-   - `<CUSTOMER_SLACK_CHANNEL>` - The name of the shared Slack channel that the customer's organization has with us.
-   - `<SLACK_USERNAME>` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
-   - `<GITLAB_USERNAME>` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
+   - `CUSTOMER_SLACK_CHANNEL` - The name of the shared Slack channel that the customer's organization has with us.
+   - `SLACK_USERNAME` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
+   - `GITLAB_USERNAME` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
 
      <details>
       <summary markdown="span">2FA Verification Template</summary>
@@ -110,39 +110,32 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
        <p>A user in your organization is requesting to have [GitLab two-factor authentication](https://docs.gitlab.com/ee/user/profile/account/two_factor_authentication.html) removed from their account. Please review and complete the highlighted sections below.</p>
 
        <p>## Support Engineer Instructions
-       <p>- [ ] Ping the customer's organization owners in <CUSTOMER_SLACK_CHANNEL> using the [Notify Customer - Slack](LINK) template. For this organization the owners are <SLACK_USERNAME>, <SLACK_USERNAME>, and <SLACK_USERNAME>.
+       <p>- [ ] Ping the customer's organization owners in CUSTOMER_SLACK_CHANNEL using the [Notify Customer - Slack](https://about.gitlab.com/handbook/support/workflows/account_verification.html#2-contact-through-slack) template. For this organization the owners are SLACK_USERNAME, SLACK_USERNAME, and SLACK_USERNAME.
        <p>- [ ] Fill out the `Request Details` section below.
 
        <p>## {+Request Details+}
-       <p>- {+User Requesting Reset: <USERS_GITLAB_USERNAME>+}
-       <p>- {+Support Ticket: <TICKET_NUMBER>+}
+       <p>- {+User Requesting Reset: USERS_GITLAB_USERNAME+}
+       <p>- {+Support Ticket: TICKET_NUMBER+}
 
        <p>## {+Customer Instructions+}
        <p>- [ ] {+Review the request and get in contact with the user requesting the reset to verify its authenticity.+}
        <p>- [ ] {+Comment on this issue indicating your approval.+}
        <p>- [ ] {+Unassign yourself and any others from this issue.+}
-       <p>- [ ] {+Assign the Support Engineer who opened this issue.+}
+       <p>- [ ] {+Assign to the Support Engineer who opened this issue.+}
 
-       <p>You can do most of the above by copying/pasting the following into a comment box:
-
-       <p>I approve this request!
-       <p>/label ~"Approved"
-       <p>/unassign me
-       <p>/assign <SUPPORT_ENGINEER_USERNAME>
-
-       <p>/assign <GITLAB_USERNAME> <GITLAB_USERNAME> <GITLAB_USERNAME>
+       <p>/assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
        <p>/label ~"2FA Reset" ~"Awaiting confirmation"
-     </details>
+
 1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
    1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/`.
    1. A link to the customer's account management project.
 
 ##### No Shared Slack Channel
 
-1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain **both** the Slack handle and GitLab username of these users.
+1. Find out which users within the customer's organization are the ones that will be authorizing GitLab Support to disable 2FA on their users accounts. Obtain the GitLab username of these users.
 1. Create a file called `2FA Verification.md` inside of the `.gitlab/issue_templates` directory of the customer's [Account Management](https://gitlab.com/gitlab-com/account-management) project. If that directory does not exist, create it as well.
 1. Populate the `2FA Verification.md` file with the template below, taking care to replace the following variables from it with your specific customer's information:
-   - `<GITLAB_USERNAME>` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
+   - `GITLAB_USERNAME` - The GitLab username of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts.
 
      <details>
       <summary markdown="span">2FA Verification Template</summary>
@@ -153,24 +146,18 @@ The steps to follow depend on whether or not the customer has a shared Slack cha
        <p>- [ ] Fill out the `Request Details` section below.
 
        <p>## {+Request Details+}
-       <p>- {+User Requesting Reset: <USERS_GITLAB_USERNAME>+}
-       <p>- {+Support Ticket: <TICKET_NUMBER>+}
+       <p>- {+User Requesting Reset: USERS_GITLAB_USERNAME+}
+       <p>- {+Support Ticket: TICKET_NUMBER+}
 
        <p>## {+Customer Instructions+}
        <p>- [ ] {+Review the request and get in contact with the user requesting the reset to verify its authenticity.+}</p>
        <p>- [ ] {+Comment on this issue indicating your approval.+}
        <p>- [ ] {+Unassign yourself and any others from this issue.+}
-       <p>- [ ] {+Assign the Support Engineer who opened this issue.+}
+       <p>- [ ] {+Assign to the Support Engineer who opened this issue.+}
 
-       <p>You can do most of the above by copying/pasting the following into a comment box:
-
-       <p>I approve this request!
-       <p>/label ~"Approved"
-       <p>/assign <SUPPORT_ENGINEER_USERNAME>
-
-       <p>/assign <GITLAB_USERNAME> <GITLAB_USERNAME> <GITLAB_USERNAME>
+       <p>/assign GITLAB_USERNAME GITLAB_USERNAME GITLAB_USERNAME
        <p>/label ~"2FA Reset" ~"Awaiting confirmation"
-     
+
 1. Open a [Support Operations issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/-/issues/new?issuable_template=Add%20Zendesk%20Organization%20Notes%20or%20Tags%20Request) to request that two pieces of information be added to the notes section of the customer's Zendesk organization:
    1. A link to the `2FA Verification.md` file you created in the previous step, such as `2FA owner vouch: /path/to/2FA Verification.md/`.
    1. A link to the customer's account management project.
@@ -192,17 +179,16 @@ Perform the following steps if the customer has a shared Slack channel with us.
 {:.no_toc}
 
 1. Within the customer's shared Slack channel with us, use the template below to alert them to the fact that a new 2FA disable request exists in their account management issue tracker. Be sure to replace the following variables:
-   - `<SLACK_USERNAME>` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts. If there are more than one, add them as well.
+   - `SLACK_USERNAME` - The Slack handle of a user that is authorized to allow GitLab Support to disable 2FA for the customer's user accounts. If there are more than one, add them as well.
 
      <details>
-       <summary markdown="span">2FA Verification Template</summary>
+       <summary markdown="span">Notify Customer - Slack</summary>
 
-       <p>Hi <SLACK_USERNAME> - we've received a request from one of your users to disable 2FA on their account.</p>
+       <p>Hi <SLACK_USERNAME> - we've received a request from one of your users to disable 2FA on their account.
 
-       <p>Could you vouch for them by following the steps in this issue: <ISSUE_LINK>?</p>
+       <p>Could you vouch for them by following the steps in this issue: <ISSUE_LINK>?
 
-       <p>Once you've done that, please let me know. If you don't get to this within 24 hours, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.</p>
-     </details>
+       <p>Once you've done that, please let me know. If you don't get to this within 24 hours, we'll use our standard account verification procedures to determine if they're eligible for a 2FA reset.
 
 >**Note:** If the customer has created an issue using the `2FA Verification` template themselves and sent us a Zendesk ticket with a link to it, skip this step.
 
