@@ -105,6 +105,22 @@ The Manager, Technology Partner Managers is a [grade 8](/handbook/total-rewards/
 * Leadership at GitLab
 * Ability to use GitLab
 
+### Senior Manager, Technology Partner Managers
+
+The Senior Manager, Technology Partner Managers reports to the VP, Alliances.
+
+#### Senior Manager, Technology Partner Managers Job Grade
+
+The Senior Manager, Technology Partner Managers is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Technology Partner Managers Responsibilities
+
+* Extends that of the Manager, Technology Parnter Managers responsibilities 
+
+#### Senior Manager, Technology Partner Managers Requirements
+
+* Extends that of the Manager, Technology Partners Managers requirements
+
 ## Performance Indicators
 
 * $ derived from GitLab + Technology partner joint customers
