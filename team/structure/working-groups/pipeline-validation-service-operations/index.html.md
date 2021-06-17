@@ -19,6 +19,7 @@ canonical_path: "/company/team/structure/working-groups/pipeline-validation-serv
 | Target End Date | 2021-12-03 |
 | Slack           | #f_pipeline_validation_service (only accessible from within the company) |
 | Google Doc      | [Agenda](https://docs.google.com/document/d/19-2QG0yXDt2p9vKLLxwrmqgBezk1Li7Zd6iTh-hotso/edit) (only accessible from within the company) |
+| Board           | [https://gitlab.com/groups/gitlab-org/-/boards/2844941](https://gitlab.com/groups/gitlab-org/-/boards/2844941) |
 
 ## Goals
 
