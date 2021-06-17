@@ -49,6 +49,10 @@ Customers interact with GitLab throughout the trial and purchasing journey in a 
 
 - [UX flow documentation](https://www.figma.com/file/DCq7K8Srsv79tbH1yRkGbl/Document-user-flows-%5Bgitlab-org%2F-%2Fepics%2F3603%5D?node-id=28%3A28)
 
+## License Expiration
+- [What happens when the license expires](https://docs.gitlab.com/ee/user/admin_area/license.html#what-happens-when-your-license-expires)
+- [Process for extending licenses during renewal, trial extensions, etc](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/trials.html)
+- [Internal process for creating a trial license (for extension)](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/self-managed/creating_licenses.html#trial-license)
 
 ## Future iterations
 
