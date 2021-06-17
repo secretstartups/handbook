@@ -34,7 +34,7 @@ For the larger, more strategic customers PS Engagement Managers tend to get invo
 The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey. 
 
 ### Services Needed
-Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to get in touch with the Engagement Manager in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel and/or by running the [services calculator](https://services-calculator.gitlab.io/)
+Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to [get in touch with the Engagement Manager](http://localhost:4567/handbook/customer-success/professional-services-engineering/engagement-mgmt/#how-to-contact-or-collaborate-with-us).
 
 ## 2. Scoping
 - **DRI**: Engagement Manager
@@ -47,7 +47,7 @@ After the [services calculator](https://services-calculator.gitlab.io/) is run b
 A PS Engagement Estimate spreadsheet used for scoping services. The Engagement Manager uses the [PS engagement estimate spreadsheet](https://docs.google.com/spreadsheets/d/1wkmKhhGyLoxqWCXFtiI99tNgVaEJ-hTQJRwTOsU0j_Y/edit#gid=1815139260) to define the services in scope and estimate the amount of time for each activity. There is a catalog of activities in the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) project or a list of services can be found at our [offerings framework](/handbook/customer-success/professional-services-engineering/framework) page.
 
 ### Iterate / Review Engagement Estimate
-After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer. 
+After the first iteration of building detail into the straw-man, the Engagement manager posts a request for review in the [professional services slack channel](../working-with#slack) to the Account team. Often the Engagement Manager will get on a zoom call with the customer and provide context and gather feedback from the customer. 
 
 ### Generate SOW
 Once the Engagement Manager can get buy in from the account team and/or customer on the size and activities included in the services engagement, the [SOW generation automation](https://gitlab.com/services-calculator/services-calculator.gitlab.io) can be run using the straw-man as an input.  The engagement manager is responsible for running this automation which can be done by following the instructions on the readme in the above project.
@@ -56,7 +56,7 @@ Once the Engagement Manager can get buy in from the account team and/or customer
 Once the SOW is generated, it is ready for review by the account team. Iteration can occur here but should be minimized if the proper iteration was done on the Straw-man Steps.
 
 ### SOW Review/Approval
-After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. These review processes happen in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) and **at-mention** the specific people from whom the engagemenet manger is seeking approval.
+After one or more rounds of iteration on feedback from the account team, the SOW will be ready for Review and Approval by Sr. Director of Professional Services. The review processes are signaled in the [professional services slack channel](../working-with#slack) and **at-mention** the GitLab engagement stakeholders.
 
 ## 3. SOW Execution/Close
 - **DRI**: Engagement Manager
