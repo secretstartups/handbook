@@ -120,7 +120,7 @@ The recommendation is to use public channels even while it may sometimes feel un
 | #customer-success | public | Used to interact with & within Customer Success |
 | #cs-questions | public | Questions from customers and prospects to the Customer Success team about using GitLab and best practices |
 | #demo-systems | public | Open discussion and questions about demo systems that aren’t appropriate for issues |
-| #professional-services |  public | Used to communicate with the Professional Services team |
+| #professional-services |  public | Used to [communicate with the Professional Services team](../customer-success/professional-services-engineering/working-with#slack) |
 
 **Field Operations**
 

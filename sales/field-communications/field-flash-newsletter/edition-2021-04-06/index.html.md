@@ -68,7 +68,7 @@ To facilitate the ongoing quest for knowledge and be better prepared to answer c
 
 Services Attach applies to ENT AMER only in Q1/Q2 and will roll out to EMEA and MM - First Order in Q3. To learn more about Services Attach, including the full opportunity criteria, rollout approach, SFDC process and more, please see [this deck](https://docs.google.com/presentation/d/1wLYQP7KV9UMdBSneg_caBFnckHPcKEw6C5zfEsrysFM/edit#slide=id.p4). You can also access the notes and recording from the Field AMA session [here](https://docs.google.com/document/d/1_oES-mJXuJP99d71lscz03AYha9I1CHWHC1-2mACmeg/edit). 
 
-Please direct questions about the Services Attach requirement to your manager or #sales-support. Please direct questions about positioning PS to #professional-services.
+Please direct questions about the Services Attach requirement to your manager or #sales-support. Please direct questions about positioning PS to the [professional services slack channel](../../../customer-success/professional-services-engineering/working-with#slack).
 
 ----
 Fulfillment has deployed **two small but impactful improvements to the SaaS billable members list:** 
@@ -78,7 +78,7 @@ Fulfillment has deployed **two small but impactful improvements to the SaaS bill
 Learn more about future iterations for SaaS billable members tools [here](https://gitlab.com/groups/gitlab-org/-/epics/4547) and for Self-Managed [here](https://gitlab.com/groups/gitlab-org/-/epics/5505).
 
 ----
-**Coming Soon: New Async Certification Options!** Since last May when we launched the first [GitLab Technical Certification](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/), we've awarded over 500 certifications to GitLab Professional Education Services customers and partners. We are excited to announce the availability of new self-service study + exam bundles as an async option that will start rolling out 2021-04-20 on [GitLab Learn](https://gitlab.edcast.com/) to anyone with a GitLab.com account! Questions? Reach out in #professional-services.
+**Coming Soon: New Async Certification Options!** Since last May when we launched the first [GitLab Technical Certification](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/), we've awarded over 500 certifications to GitLab Professional Education Services customers and partners. We are excited to announce the availability of new self-service study + exam bundles as an async option that will start rolling out 2021-04-20 on [GitLab Learn](https://gitlab.edcast.com/) to anyone with a GitLab.com account! Questions? Reach out in the [professional services slack channel](../../../customer-success/professional-services-engineering/working-with#slack) to learn more.
 
 ### What's New in GitLab 🚀
 The GitLab 13.10 release is live! Here are the takeaways for customers and prospects:
