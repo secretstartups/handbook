@@ -94,11 +94,12 @@ Extends the Financial Systems Administrators requirements.
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
-- Second round interviews will involve interviews with 2 members of the Technical Accounting and/or Revenue Team.
-- Third round interview is with the Director of Business Operations
-- At final stage candidates will meet with the Principal Accounting Officer and the VP of Information Technology.
+- Second round interviews will involve interviews with 2 Senior Members of the Enterprise Applications  Team.
+- Third round interview is with the Senior Director of Enterprise Applications
+- At final stage candidates will meet with the Principal Accounting Officer and the VP of Business Technology.
 
-- Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring).
+
 
 ### Career Ladder
 
@@ -151,7 +152,8 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Selected candidates will be invited to schedule a [screening call](https://about.gitlab.com/handbook/hiring/#screening-call) with one of our Global Recruiters.
 - Next, candidates will be invited to a 45 minute interview with a senior member of the team.
-- Second round interviews will involve interviews with 2 members of the Technical Accounting and/or Revenue Team.
-- Third round interview is with the Director of Business Operations
-- At final stage candidates will meet with the Principal Accounting Officer and the VP of Information Technology.
+- Second round interviews will involve interviews with 2 Managers of the Enterprise Applications or Business Technology Team.
+- Third round interview is with the Senior Director of Enterprise Applications
+- At final stage candidates will meet with the Principal Accounting Officer and the VP of Business Technology.
+
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
