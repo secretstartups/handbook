@@ -44,18 +44,17 @@ Sexual harassment is considered a form of team member misconduct and sanctions w
 
 ### Discrimination
 
-Any form of discrimination towards an individual is strictly prohibited. Types of discrimination include:
+Having a diverse workforce, made up of team members who bring a wide variety of skills, abilities, experiences and perspectives, is essential to our success. We are committed to the principles of equal opportunity, inclusion, and respect. All employment-related decisions must be based on company needs, job requirements, and individual qualifications. Always take full advantage of what our team members have to offer; listen and be inclusive.
 
-- Age
-- Disability
-- Race; including color, nationality, ethnicity, or national origin
-- Religious belief or lack of religious belief
-- Life expectancy
-- Sex
-- Sexual orientation
-- Transgender status
+We do not tolerate discrimination against anyone, including team members, customers, business partners, or other stakeholders. Any form of discrimination towards an individual is strictly prohibited, including:
 
-If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, the [Senior Director, People Success,](/company/team/#cteskey) or a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) to initiate an investigation into the behavior.
+* On the basis of race, color, religion, ethnicity, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, religious belief or lack of religious belief, life expectancy, or any other status protected by the laws or regulations in the locations where we operate.
+* We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
+* We provide reasonable accommodations to individuals with disabilities and remove any artificial barriers to success.
+
+Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. 
+
+If you believe you have been discriminated against or witnessed discriminatory practices, please contact the Chief People Officer, the [Senior Director, People Success,](/company/team/#cteskey), a [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division), or the [Team Member Relations Specialist](/handbook/people-group/team-member-relations/) to initiate an investigation into the behavior. GitLab has also engaged Lighthouse Services to provide anonymous reporting methods, as described in the [How to Report Violations](/handbook/people-group/#how-to-report-violations) section.
 
 ### Bullying / Workplace Violence
 
