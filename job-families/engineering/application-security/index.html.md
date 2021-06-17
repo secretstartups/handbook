@@ -7,8 +7,7 @@ extra_js:
 
 Application Security Engineers work closely with development teams, product managers (PM), and third-party groups (including the paid bug bounty program) to ensure that GitLab products are secure.
 
-## Responsibilities {#main_responsibilities}
-
+## Responsibilities
 * Participate in and support application security reviews and threat modeling, including code review and dynamic testing.
 * Own and perform application security vulnerability management.
 * Support the bug bounty program.
@@ -17,7 +16,7 @@ Application Security Engineers work closely with development teams, product mana
 * Assist in creation of security training.
 * Assist in development of automated security testing to validate that secure coding best practices are being used.
 
-## Requirements {#main_requirements}
+## Requirements
 * Ability to use GitLab.
 * Familiarity with common security libraries, security controls, and common security flaws.
 * Basic development or scripting experience and skills. Ruby and Ruby on Rails is preferred.
@@ -35,8 +34,8 @@ This position reports to the [Security Manager, Application Security](#security-
 #### Application Security Engineer (Intermediate) Job Grade
 The role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Application Security Engineer (Intermediate) Responsibilities {#intermediate_responsibilities}
-* Includes responsibilities listed [here](#main_responsibilities)
+#### Application Security Engineer (Intermediate) Responsibilities
+* Includes responsibilities listed [here](#responsibilities)
 
 #### Application Security Engineer (Intermediate) Requirements
 * Includes requirements listed [here](#requirements)
@@ -48,7 +47,7 @@ This position reports to the [Security Manager, Application Security](#security-
 The role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Application Security Engineer Responsibilities
-* Includes all [Intermediate level responsibilities listed](#intermediate_responsibilities).
+* Includes all [Intermediate level responsibilities listed](#responsibilities).
 * Support and evolve the bug bounty program.
 * Lead both critical and regular security releases.
 * Lead application security reviews and threat modeling, including code review and dynamic testing.
@@ -116,7 +115,7 @@ This position reports to the [Security Engineering and Research Director](/job-f
 #### Job Grade
 The Application Security Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities {#manager_responsibilities}
+#### Responsibilities
 * Hire and oversee a world-class team of application security engineers.
 * Help their team grow their skills and experience.
 * Provide input on security architecture, issues, and features.
@@ -155,7 +154,7 @@ This position reports to the [Security Engineering and Research Director](/job-f
 The Application Security Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-* The [same responsibilities of a Application Security Manager](#manager_responsibilities), plus the below:
+* The [same responsibilities of a Application Security Manager](#responsibilities-1), plus the below:
 * Maintain reliable, up-to-date information regarding application security technologies trends.
 * Execute strategic vision for the Application Security program.
  
@@ -168,6 +167,7 @@ For details on the Security organization leadership roles, to include the Securi
 
 ## Performance Indicators
 * https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8715519&udv=0 
+* https://app.periscopedata.com/app/gitlab/641782/Appsec-hackerone-vulnerability-metrics?widget=8729826&udv=0
 
 ## Career Ladder
 ```mermaid
@@ -188,31 +188,3 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering & Research.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
-
-## Specialties
-
-### US Federal
-
-A US Federal Application Security Engineer's main focus is supporting our Public Sector customers and related internal teams concerning the product's security.
-
-#### Requirements
-
-In addition to the general requirements for [Application Security Engineers](#main_requirements):
-
-* Must be a United States citizen.
-* Must reside in one of the 50 states of the United States of America.
-* Must conduct all GitLab related work within the United States of America.
-* Experience working for or closely with the United States government or associated contractors. 
-* Ability and willingness to obtain a federal security clearance should it be necessary to perform job responsibilities.
-* Experience working with Defense Information Security Agency (DISA) Security Technical Implementation Guides (STIGs). 
-* Successful completion of a [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks).
-
-
-#### Responsibilities
-
-* Lead and perform application security reviews on all contributed code from [GitLab Information Technology (Hubei) Co., Ltd. (JiHu, pronounced "G Who")](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/).
-* Work with and triage security reports from US government organizations and associated contractors.
-* From an Application Security perspective, support our Federal Sales and Public Sector teams.
-* Auxillary responsibilities include those [general to the Application Security Engineer role](#main_responsibilities).
-
-
