@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-06-07 | 2021-06-11 | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial | April Malone - Sijbrandij Personal EA |
 | 2021-06-14 | 2021-06-18 | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial |
 | 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect |
 | 2021-06-28 | 2021-07-01 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
@@ -455,6 +454,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | Valley Meetings                  | No notes       | Timekeeping    |
 | L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
+| Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
@@ -1034,3 +1034,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-05-10 | 2021-05-21 | [James Komara](https://gitlab.com/ja-me-sk) | Area Sales Manager | |
 | 2021-05-17 | 2021-05-28 | [Joshua Lambert](https://gitlab.com/joshlambert) | Director of Product, Enablement | |
 | 2021-05-24 | 2021-06-04 | [Melissa Ushakov](https://gitlab.com/mushakov) | Group Manager, Product Management - Plan | |
+| 2021-06-01 | 2021-06-11 | [April Malone](https://gitlab.com/april5) | Sijbrandij Personal EA | |
