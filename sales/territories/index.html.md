@@ -327,8 +327,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	EMEA	|	SMB-EMEA-FR-2	|	Wiam Aissaoui
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Greece	|	Arina Voytenko
 |	MEA	|	MEA	|	SMB-EMEA-MEA	|	Camilo Villanueva
-|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-1	|	Camilo Villanueva
-|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-2	|	Arina Voytenko
+|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-1	|	Goran Bijelic
+|	Nordics	|	Nordics	|	SMB-EMEA-Nordics-2	|	Goran Bijelic
 |	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Tim Guibert
