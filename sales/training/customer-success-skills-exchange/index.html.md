@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Jun 16 | [Container Host Security - Getting Started with Falco](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/125) |   Fern Diaz              |
 | Jun 30 | [Reporting Options & Metrics in GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29) |   Sri Rangan              |
 | Jul 14 | [How to Introduce PS with Ease](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/132)  |   Julie Byrne, Bryan May & Russell Knight       |
 | Jul 21 | [Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131) |   Fern Diaz              |
@@ -35,6 +34,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-06-16 | **[Container Host Security - Getting Started with Falco](https://youtu.be/LtQrLXzFc8E)** |   Public              |
 | 2021-05-19 | **[Enablement Roundtable - Completed OKR's](https://youtu.be/m6w4mVhA2GY)** |    Private          |
 | 2021-05-04 | **[Incident Management](https://youtu.be/iEepe2uy1uM)** |   Public          |
 | 2021-04-21 |  **[GitLab's GraphQL API](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/71)**       | Public        |
