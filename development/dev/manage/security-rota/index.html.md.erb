@@ -1,0 +1,32 @@
+---
+layout: handbook-page-toc
+title: Manage::Access Security Rotation
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+### Manage::Access Security Rotation
+{: #welcome}
+
+The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota.
+
+The goal of this new process is to achieve more consistent progress in [burning through the backlog](https://app.periscopedata.com/app/gitlab/695525/Manage::Access-Backend-Overview). Historically we have focussed on solving high severity (severity::1/severity::2) issues, while trying to maintain a pragmatic balance with other concerns in the team - but this hasn't been effective in reducing the overall backlog. By dedicating capacity each milestone we can separate the planning of security issues from the main milestone goals, with the aim of introducing a more optimal process.
+
+Schedule for security rota with names of the engineers assigned to the current milestone can be found [here](/handbook/engineering/development/dev/manage/#security-rota).
+
+Engineers who are part of the rota should work from [this board](https://gitlab.com/groups/gitlab-org/-/boards/1816615).
+
+Another helpful boards:
+ - [Board categorized by severity](https://gitlab.com/groups/gitlab-org/-/boards/1674442?&label_name[]=group%3A%3Aaccess&label_name[]=security)
+ - [Board categorized by categories](https://gitlab.com/groups/gitlab-org/-/boards/1816633?&label_name[]=group%3A%3Aaccess&label_name[]=security)
+
+Process of working on security issue differs from the process of working on other features. All the details of security process are explained [here](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/security/developer.md). Usually we prioritize issues with higher severity and move to the issues with lower severity when there are no more actionable issues with higher severity.
+
+During planning we must take into consideration that Security Realeses have different timeline then typical milestones and some backports work may be overlapping with new milestone. Usually it is not troublesome, but in case of merge conflicts taking care of backports may be time-consuming.
+
+**_Comment:_**
+ - working on multple issues that are focused on one aspect of the application reduces context switch, helps with gaining knowledge faster and allows to leave this part of the application in significantly better condition after one security rota cycle.
