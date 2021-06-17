@@ -985,13 +985,9 @@ If you state one thing, and then change course and support a different direction
 {:.no_toc}
 Be transparent to the right people (up) at the right time (when still actionable). If you make a mistake, don't worry; correct it and **proactively** let the affected party, your team, and the CEO know what happened, how you corrected it, and how—if needed—you changed the process to prevent future mistakes.
 
-##### Anyone and anything can be questioned
-{:.no_toc}
-Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed.
-
 ##### Disagree, commit, and disagree
 {:.no_toc}
-Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it, which is [a common principle](http://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
+Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it.  Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](http://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
 Every decision can be changed;
 our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
 In a manager-report circumstance, usually the report is the DRI.
