@@ -161,7 +161,7 @@ The projects currently located on GitLab.com are split across multiple groups/su
 
 ## Choosing the right project workflow
 
-There are a lot of variables that make up a decision on which workflow is right for a project. While the easiest approach to take would be to have a single workflow for all projects, this approach would be against our [value of Transparency](/handbook/values/#transparency-is-only-a-value-if-you-do-it-when-it-is-hard). In the past, we've also taken the approach of making everything public, which was challenging because it prevented us to [deliver results quickly](/handbook/values/#hierarchy) during incidents affecting GitLab.com as a platform, and providing too much public information provided unnecessary negative security exposure.
+There are a lot of variables that make up a decision on which workflow is right for a project. While the easiest approach to take would be to have a single workflow for all projects, this approach would be against our [value of Transparency](/handbook/values/#transparency). In the past, we've also taken the approach of making everything public, which was challenging because it prevented us to [deliver results quickly](/handbook/values/#hierarchy) during incidents affecting GitLab.com as a platform, and providing too much public information provided unnecessary negative security exposure.
 
 This section will provide some examples of general workflows and how to approach the decision of classifying a project.
 
