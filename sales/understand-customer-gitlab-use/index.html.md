@@ -76,16 +76,15 @@ This should not be interpreted as having instances but no users.
 
 For the process of working these accounts, appending contacts from third-party tools, and reaching out, please refer to the [business operations](/handbook/business-ops/) section of the handbook.
 
-## Stage Technology tracking
+## Use Case Technology Tracking
 
-The goal of this process is to capture information about the technology an account in SalesForce uses in each stage of their DevOps Tools landscape [(based on competitors as of 2020-04-10)](/devops-tools/). This will allow us to market & sell to specific stages in their CI/CD process more accurately.
+The goal of this process is to capture information about the technology an Account in Salesforce (by way of Gainsight) uses in each Use Case of their DevOps Tools landscape. This will allow us to market & sell to specific stages in their CI/CD process more accurately.
 
-Please enter the following data in the "Stage Technology" section of the Account object in SFDC:
+Please enter the following data in the "White Space (Use Case)" section of a specific Account in Gainsight:
 
-- `st_(Stage) Tech`: Current technology used by prospect/customer (Including GitLab)
-- `st_(Stage) Appetite for Replacement`: Red (Don't want to change), Yellow (Might change) /Green (Willing to change)
-- `st_(Stage) Contract End Date`: As exact as possible date their current technology contract end
+- `uc_(Use Case) Tech`: Current technology used by prospect/customer (Including GitLab)
+- `uc_(Use Case) Appetite for Replacement`: Red (Don't want to change), Yellow (Might change) /Green (Willing to change)
+- `uc_(Use Case) Contract End Date`: As exact as possible date their current technology contract end
 
-This is to support [the FY21Q1 OKR for identifying third-party tools](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/issues/684). Please add feedback, requests, and other commentary about this to the linked OKR issue.
 
 See the [License Usage Handbook](/handbook/sales/field-operations/sales-systems/license-usage-app/) for more information. 
