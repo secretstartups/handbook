@@ -45,7 +45,7 @@ classDiagram
 | ----- | ----- | ----- |
 | `@iweeks` _Lead/DRI_ | `@rparker2` (Acting) _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
 | `@jeanpeguero` |	`@mpeychet` |  |
-| `@jjstark` | `@m_walker` |  |
+| `@jjstark` (on leave) | `@m_walker` |  |
 | `@paul_armstrong` | `@snalamaru` | |
 | `@ken_aguilar` |	`@laddula` | |	
 | `@michellecooper` | | |
