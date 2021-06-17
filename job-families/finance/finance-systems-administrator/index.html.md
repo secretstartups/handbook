@@ -6,11 +6,11 @@ The Finance Systems Administration job family is responsible for the operational
 
 # Finance System Administrator
 
-The Enterprise Applications team provides development and support to the Financial Applications that support GitLabs Core Business processes of Quote To Cash, Procure to Pay and Record to Report.   The purpose of Enterprise Applications are to automate, enforce and make efficient these aforementioned processes.  We accomplish these goals by partnering deeply with our business partners to understand their needs and bring that to life in technical 
+The Enterprise Applications team provides development and support to the Financial Applications that support GitLabs Core Business processes of Quote To Cash, Procure to Pay and Record to Report.   The purpose of Enterprise Applications are to automate, enforce and make efficient these aforementioned processes.  We accomplish these goals by partnering deeply with our business partners to understand their needs and bring that to life.
 
-The Finance Systems Administration job family is responsible for the operational ownership of the software applications that support Quote to Cash, Procure to Pay, and Record to Report
+The Finance Systems Administration job family is responsible for the operational ownership of the software applications that support Quote to Cash, Procure to Pay, and Record to Report.
 
-This role reports to the [Manager, Financial Systems Administrator](#manager-financial-systems-administrator)
+This role reports to the [Manager, Financial Systems Administrator](#manager-financial-systems-administrator).
 
 ## Responsibilities
 
