@@ -34,7 +34,7 @@ For the larger, more strategic customers PS Engagement Managers tend to get invo
 The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey. 
 
 ### Services Needed
-Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to [get in touch with the Engagement Manager](http://localhost:4567/handbook/customer-success/professional-services-engineering/engagement-mgmt/#how-to-contact-or-collaborate-with-us).
+Once its identified that the customer will likely want to engage with professional services, its the responsibility of the Account Team to [get in touch with the Engagement Manager](../engagement-mgmt/#how-to-contact-or-collaborate-with-us).
 
 ## 2. Scoping
 - **DRI**: Engagement Manager
