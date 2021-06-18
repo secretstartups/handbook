@@ -175,8 +175,9 @@ Ineffective management could lead to decreased [team member retention](/handbook
 
 In order to address this, we:
 * Maintain the minimum number of [layers](/company/team/structure/#organizational-chart) to be effective
-* Train, coach, and publicly recognize good management
+* Train, [coach](/handbook/people-group/guidance-on-feedback/), and publicly recognize good management
 * Set goals for management success (helping managers become great managers)
+* Offer targeted [support to new managers and those onboarding into a management role from outside of GitLab](/handbook/people-group/learning-and-development/manager-development/) 
 
 ## 8. Loss of the values that bind us
 {:#loss-of-the-values-that-bind-us}
