@@ -43,7 +43,7 @@ classDiagram
 
 | **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@rparker2` (Acting) _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
+| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_	| `@rparker2` (Acting) _Lead/DRI_ | 
 | `@jeanpeguero` |	`@mpeychet` |  |
 | `@jjstark` (on leave) | `@m_walker` |  |
 | `@paul_armstrong` | `@snalamaru` | |
