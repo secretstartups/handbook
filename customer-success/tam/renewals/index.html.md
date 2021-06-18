@@ -79,8 +79,8 @@ When a TAM has determined an account is red, then:
 
 1. **Log Timeline: Risk Update**: log `Risk Update` Timeline post marking TAM Sentiment as Red and any context for the at-risk account
 1. **Create CTA**:
-   1. Immediate: TAM will create a `Triage` CTA to track the high level risks, OR
-   1. Overnight: Gainsight will auto create the `Triage` CTA overnight for the TAM
+   1. Immediate: TAM will create an `At-Risk` CTA to track the high level risks, OR
+   1. Overnight: Gainsight will auto create the `At-Risk` CTA overnight for the TAM
 1. **Update CTA**: TAM to update Risk Type and Risk Reason dropdown fields
 1. **Monthly Timeline Update: Risk Update**: TAM logs a `Risk Update` Timeline post. Update CTA as necessary
 1. **At-Risk Conclusion**:
