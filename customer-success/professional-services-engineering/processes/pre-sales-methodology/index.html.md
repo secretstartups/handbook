@@ -28,7 +28,7 @@ For custom SOWs, the [workflow for SOW creation](/handbook/customer-success/prof
 ### MEDDPICC
 Professional services can be positioned when a prospect becomes a customer (e.g. the Land of a new deal) or when an already existing customer is growing their staff or interesting in adopting new features of GitLab (e.g. expansion). The SA, SAL, AE, or TAM (e.g. "Account Team") is primarily responsible for this process, following the [Command of the Message](/handbook/sales/command-of-the-message/) and [MEDDPICC](/handbook/sales/meddppicc/) messaging frameworks.
 
-For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved. 
+For the larger, more strategic customers PS Engagement Managers tend to get involved earlier in the selling process to help with discovery and provide lessons learned on rollout from past engagements. For the medium sized customers, Engagement managers tend to get involved with account teams when the SFDC stage 4 (Proposal) is achieved.
 
 ### Customer Success Discovery
 The Account team should be encouraged to use the [Customer Terrain Mapping templates](/handbook/customer-success/customer-terrain-mapping/#catalog-of-customer-terrain-mapping-engagements) to help the customer to start thinking about *how* they will achieve their longer term success. This typically results in conversations about services to aide them in their journey. 
@@ -60,16 +60,22 @@ After one or more rounds of iteration on feedback from the account team, the SOW
 
 ## 3. SOW Execution/Close
 - **DRI**: Engagement Manager
-- **Supported By**: PS Leader, Sr. PSE, SAL, Legal, Finance, Deal Desk
+- **Supported By**: PS Leader, Sr. PSE, SAL/AE, Legal, Finance, Deal Desk
 
-### Finance & Legal Approval, Customer Signature
-Once the SOW has been approved by PS leadership, the account team is owns the process of executing the SOW. The engagement manager can kick off the finance approval process in Salesforce. The Account team is responsible for creating a Legal Approval in Salesforce from the button in the opportunity. Once PS Sr. Director, Finance, and Legal approve, they will should send it to the customer for signature.
+### Finance Approval
+The engagement manager can kick off the finance approval process in Salesforce. TODO: Add more details. 
+
+### Legal Approval
+The Engagement Manager is responsible for creating a Legal Approval Case in Salesforce from the associated opportunity. This process often involves reviewing and accepting redlines from the customer and from our legal team. The source of truth for the latest SOW is managed in the SFDC legal case. The EM should coordinate who "holds the pen" to ensure we maintain version control of the SOW with the latest redlines. 
+
+### Customer Signature
+Once the SOW has been approved by PS leadership, Legal and Revenue, the account team is owns the process of executing the SOW. They should take the approved SOW from the legal case and route it for signature with the customer. 
 
 ### Deal Desk updates SFDC
 Once the SOW is fully executed, the deal desk team updates the Salesforce PS-Only opportunity to `closed-won`.
 
-### Journal Epic
-TODO: 
+### Journal Epic (Delivery Kit)
+TODO: update this with documents and delivery kits that are organized to help the delivery team be successful with the engagement. 
 
 ## 4. Delivery Handoff 
 - **DRI**: Project Coordinator
