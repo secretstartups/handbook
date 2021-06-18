@@ -525,6 +525,18 @@ Improvements to the Professional Services offering
 - **Ultimate**
 Improvements to the full pitch including [Why Ultimate](/pricing/ultimate/)
 
+#### Mid-Market Key Accounts First Order
+
+**Mid-Market Key Accounts First Order Team (MMKAFO) Tactics and Definitions**
+
+
+[The MM Key Accounts First Order Team](https://about.gitlab.com/handbook/sales/commercial/#mid-market-roles) is comprised of Account Executives that work on the highest potential accounts that are [not currently customers of GitLab](https://about.gitlab.com/handbook/sales/sales-term-glossary/#first-order-customers). Once the customer has signed its first contract, the customer is transitioned to a MM Key Account Named AE. However, if an account is won by this team and is deemed to be low potential it will be passed to a MM Territory AE. The rough guideline for these accounts is between 500 and 1999 employees and more than 100 combined employees in engineering and IT. We don't refer to MM First Order accounts as "Named Accounts", because First Order accounts can either go to Named or Territory AEs.
+
+It is the goal of this team to make the first transaction with GitLab:
+1.  Customer-Focused
+2.  Efficient
+3.  Scaleable
+
 ## Other Related Pages
 
 - [Commercial Sales - Customer Success](/handbook/customer-success/comm-sales)
