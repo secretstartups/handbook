@@ -108,7 +108,7 @@ When a TAM considers an account at-risk of contraction or churn, they should set
 
 ##### Risk Reason
 * **Lack of adoption** - Customer never adopted the product or specific features so they did not get value. This can be because of organizational silos or lack of internal resources. If they didn't adopt because they didn't see / experience value, it should be Product Gap
-* **Product Value / Gaps** - Prospect or customer used the product and features (i.e., trial, POV, or purchased product), but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience or perceived value
+* **Product Value / Gaps** - Prospect or customer used the product and features (i.e., trial, POV, or purchased product), but did not see the value. The product did not meet requirements of the customer. This can also be a prospect where they did not experience perceived value
 * **Product Quality / Availability** - Prospect or customer used the product and features (i.e., trial, POV, or purchased product) though they did not meet the prospect or customer's needs or expectations. This can be defects, poor performance, or uptime/availability issues. Includes both self-managed and SaaS products
 * **Lack of Engagement / Sponsor** - We lost or were never able to get engagement with the prospect or customer team. The champion / sponsor left, changed responsibility, or became unresponsive. We were never able to re-establish connection with a new sponsor or champion
 * **Loss of Budget** - The prospect or customer lost budget due to business contraction, change of priorities, reduction of employees, or other. This was not a competitive loss
