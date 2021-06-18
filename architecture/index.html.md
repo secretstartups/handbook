@@ -31,7 +31,7 @@ Such definition implies a solid reliance on **influence** rather than authority 
 
 We strive for **results** and concrete outcomes, which in this case entail **roadmaps** and **blueprints**.
 
-**Roadmaps** plot a long-term technical path of initiatives to work on over the following 12 months and how we can weave them together to meet our business needs. Their content is focused on technical topics but they are themselves not technical.
+**Roadmaps** plot a long-term technical path of initiatives to work on over the following 12 months and how we can weave them together to meet our business needs. Their content is focused on technical topics but they are themselves not technical. Roadamps are kept in the [handbook](https://about.gitlab.com/handbook/engineering/architecture/roadmap/) because of their 12-month outlook and less technical focus.
 
 **Blueprints** in their various forms are technically detailed, distilling roadmap items and presenting forward-looking "next steps" for the approprite time-span. Blueprints are hosted in [*docs*](https://docs.gitlab.com/ee/architecture/) and are generated according to the Architecture Workflow.
 
