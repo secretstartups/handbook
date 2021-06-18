@@ -28,22 +28,22 @@ This job family reports to the [Director, IT Operations](/job-families/finance/d
 
 ### IT Security Analyst (Intermediate)
 
-#### Job Grade
+#### IT Security Analyst (Intermediate) Job Grade
 The IT Security Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### IT Security Analyst (Intermediate) Responsibilities
 The IT Security Analysts share the same responsibilities outlined above.
 
-#### Requirements
+#### IT Security Analyst (Intermediate) Requirements
 The IT Security Analyst position has all the same requirements as the ones outlined above plus the following:
 
 
 ### Senior IT Security Analyst
 
-#### Senior Job Grade
+#### Senior IT Security Analyst Job Grade
 The IT Security Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Responsibilities
+#### Senior IT Security Analyst Responsibilities
 The Senior IT Security Analyst has all the same responsibilities as the intermediate position plus the following:
 
 - Install security measures and operate software to protect systems and information infrastructure, including firewalls and data encryption programs.
@@ -60,7 +60,7 @@ practices.
 
 
 
-#### Senior Requirements
+#### Senior IT Security Analyst Requirements
 The Senior IT Security Analyst has all the same requirements as the ones outlined above plus the following:
 
 - 5-7 years experience in Information Technology or Information Security experience.
