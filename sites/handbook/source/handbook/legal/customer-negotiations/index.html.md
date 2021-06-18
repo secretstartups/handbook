@@ -141,7 +141,7 @@ GitLab includes a signed version of the DPA on the [Terms of Service](https://ab
 
 1. For a general introduction to Open Source, including lists of acceptable and unacceptable Open Source licenses for use in GitLab, see [Open Source at GitLab](https://about.gitlab.com/handbook/engineering/open-source/).
 1. Helpful external resources on Open Source Software can be found at [Opensource.com](https://opensource.com/) and the [Open Source Inititiave](https://opensource.org/).
-3. The Open Source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](gitlab.com/gitlab-org/gitlab).
+3. The Open Source project for GitLab can be found at [gitlab.com/gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab/).
 4. GitLab uses Open Source Software as part of its Open Core Business Model. Learn more about the [GitLab Open Core Business Model](https://about.gitlab.com/company/stewardship/#business-model).
 
 
