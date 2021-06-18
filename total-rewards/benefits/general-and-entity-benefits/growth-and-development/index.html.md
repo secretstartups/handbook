@@ -135,10 +135,10 @@ The Learning and Development team is excited to deliver [Crucial Conversations](
 
 | Week Number | Topic | Commitment |
 | ----- | ----- | ----- |
-| 1 | TBD | 3 hours |
-| 2 | TBD | 3 hours |
-| 3 | TBD | 3 hours |
-| 4 | TBD | 3 hours |
+| 1 | Introduction, Get Unstuck, Start with Heart | 3 hours |
+| 2 | Master my Stories, State my Path | 3 hours |
+| 3 | Learn to Look, Make it Safe | 3 hours |
+| 4 | Explore Other's Paths Move to Action, Finish the Course | 3 hours |
 
 Training weeks will run Wednesday-Wednesday, with live trainings each week hosted at multiple times across Tuesday/Wednesday. 
 
