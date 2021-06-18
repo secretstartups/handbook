@@ -328,6 +328,9 @@ Internal projects are set up to track internal time that is not customer project
 * Product Development
 * Mentoring
 * Training Course Grading
+   * The grading of all GitLab training courses
+* Technical Architect
+   * Project Oversight & Alignment
    
 ****PS TimeTracking Non Creditable****
 * Knowledge Sharing​
