@@ -3,106 +3,122 @@ layout: job_family_page
 title: Analytics Engineering
 ---
 
-Sitting at the intersection of [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer), **Analytics Engineers** are responsible for translating data discovery and analysis needs into simple, efficient, and integrated data models and products, powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform) developed and operated by Data Engineering. Analytics Engineers play a major role in how efficient and effective all analytics is performed because their results are leveraged across all teams at GitLab and in dozens of use cases.
+Sitting at the intersection of [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer), **Analytics Engineers** are responsible for translating data discovery, insights, and analysis needs into simple, efficient, and integrated data models and products, powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). Analytics Engineers play a major role in how efficient and effective all analytics is performed because their results are leveraged across all teams at GitLab and in dozens of use cases. The successful Analytics Engineer blends business acumen with technical expertise and can easily transition from business strategy to writing code to transform data.
 
 ## Responsibilities
+
+As a team member responsible for helping to bridge the business-to-technology gap, the Analytics Engineer role requires equal amounts business acumen and technical acumen.
+
 * Collaborate with team members to collect business requirements, define successful analytics outcomes, and design data models and engineering strategy.
-* Serve as the DRI for major sections of the [Enterprise Dimensional Model](https://about.gitlab.com/handbook/business-ops/data-team/data-edw)
-* Design, develop, and extend [dbt](https://www.getdbt.com/) code
-* Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
+* Builds trust in all interactions and with the data models themselves
+* Serve as the [Directly Responsible Individual](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](https://about.gitlab.com/handbook/business-ops/data-team/data-edw)
+* Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
 * Create and maintain architecture and systems documentation in the [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team)
-* Expand our database with clean data (ready for analysis) by implementing data quality tests while continuously reviewing, optimizing, and refactoring existing data models
-
-* Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
-* Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope
-
-* Experience developing dimensional models in support of Marketing, Finance, and Sales
-* Experience designing Customer-centric Dimensions and related Facts
-
-* Regularly apply a wide variety of technical skills such as data warehousing, SQL, python, diagramming, and technical writing
-* Adapt and implement foundational data science methodologies to identify relationships/drivers of key metrics to improve customer experience, quality of service, profitability of products, and personalized offerings
-
-
-* Document every action in either issue/MR templates, the handbook, or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of handbook first!
-* Constantly improve product and data quality, security, and performance
-* Provide guidance to junior data engineers, data analysts and data scientists
+* Maintain the [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog), an infinitely scalable resource to support Self-Service and Single-source-of-truth analysis
+* Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
+* Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
+* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+* Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope.
 
 ## Requirements
+
 * Ability to use GitLab
-* 4+ years experience designing, implementing, extending, and operating dimensional data models
-* Great communication: Regularly achieve consensus amongst technical and business teams
-* Designed, implemented, and maintained a complex commercial Kimball enterprise dimensional model containing dozens of dimensions and facts
-
-
-
-* Capture, document, and share user stories, use cases, and workflows
-* Create and socialize Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
-* Advance data modeling expertise across the company through regular office hours, code reviews, and training
-
-
-* {add a bulleted list of requirements that apply for all levels of the role}
+* Ability to thrive in a fully remote organization
+* Great communication: Regularly achieve [consensus](https://about.gitlab.com/handbook/values/#collaboration) amongst technical and business teams
+* Demonstrated capacity to clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
+* Demonstrated experience with one or more critical business subject areas: marketing, finance, sales, product, customer success 
+* 2+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 2+ years experience building reports and dashboards in a data visualization tool
+* 2+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 2+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* 1+ years creating project plans to identify tasks, milestones, and deliverables
+* Positive and solution-oriented mindset
+* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with task organizational skills
 
 ## Levels
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+### Analytics Engineer (Intermediate)
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for this level}
+The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of the role}
+#### Analytics Engineer Job Grade
 
-#### {add Level} Performance Indicators
-* {add 3-5 KPIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template}
+The Analytics Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### {add name of level - i.e. Junior/Senior/Manager. Note we do not list the intermediate level in the title but after the role in parentheses - i.e. IT Systems Engineer (Intermediate)}
-The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page)}.
+#### Analytics Engineer Responsibilities
 
-#### {add Level} Job Grade
-The {add the role name} is a [grade #](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+* The Analytics Engineer Responsibilites are listed above.
 
-#### {add Level} Responsibilities
-* {add a bulleted list of responsibilities that apply for all levels of this job family}
+#### Analytics Engineer Requirements
 
-#### {add Level} Requirements
-* {add a bulleted list of requirements that apply for all levels of this job family}
+* The Analytics Engineer Requirements are listed above.
 
-#### {add Level} Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if the PIs are the same for all levels remove this section and use the heading 2 section later in the template. PIs should link to the data}
+### Senior Analytics Engineer
 
-## Segment
-### {add name of Segment}
-{add a brief description of the specialty}
+The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
-#### {add name of Segment} Requirements
-* {add a bulleted list}
+#### Senior Analytics Engineer Job Grade
 
-#### {add name of Segment} Responsibilities
-* {add a bulleted list}
+The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Specialties
-### {add name of Specialty}
-{add a brief description of the specialty}
+#### Senior Analytics Engineer Responsibilities
 
-#### {add name of Specialty} Requirements
-* {add a bulleted list}
+* Business Partnership: Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
+* Data Model subject matter expert, and data model spokesperson, able to address questions quickly and accurately
+* Advocate for the [Data Quality Program](https://about.gitlab.com/handbook/business-technology/data-team/data-quality/) and [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and availabe to support critical decisions
+* Lead [Work Breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdown) Sessions
+* Organize and Plan quarter-long development initiatives per the [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/)
 
-#### {add name of Specialty} Responsibilities
-* {add a bulleted list}
+#### Senior Analytics Engineer Requirements
+
+* 4+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 4+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 4+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* 2+ years creating project plans to identify tasks, milestones, and deliverables
+
+### Staff Analytics Engineer
+
+The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Staff Analytics Engineer Job Grade
+
+The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Analytics Engineer Responsibilities
+
+* Business Partnership: Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
+* Data Model subject matter expert, and data model spokesperson, able to address questions quickly and accurately
+* Advocate for the [Data Quality Program](https://about.gitlab.com/handbook/business-technology/data-team/data-quality/) and [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and availabe to support critical decisions
+* Lead [Work Breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdown) Sessions
+* Organize and Plan quarter-long development initiatives per the [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/)
+
+#### Staff Analytics Engineer Requirements
+
+* 6+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 6+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 6+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* 4+ years creating project plans to identify tasks, milestones, and deliverables
+* Demonstrated proficiency with data warehouse architecture design, including databases, schema, marts, aggregates, and views
+* Demonstrated proficiency designing and planning complex data transformation flows
 
 ## Performance Indicators
-* {add 3-5 PIs that this role will be the DRI for, if PIs were listed for each level, because the are all unique, remove this section. PIs should link to the data}
+
+* Dimensional Model MRs Per Milestone
+* Handbook Update Frequency
+* % of Data Warehouse queries supported by Enterprise Dimensional Model >= 75%
 
 ## Career Ladder
-{add brief description of the career ladder}
+
+Beyond the Principal Analytics Engineer level, the next step is to move to the Manager, Data job family.
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-
-*{add a bulleted list of the hiring process steps here}
+* Next, candidates will be invited to schedule a first interview with a Data Leader (Director or Manager)
+* Next, candidates will be invited to schedule one or more interviews with members of the Data Team
+* Next, candidates will be invited to schedule one or more interviews with Business Partners
+* Finally, candidates may be asked to interview with our VP, IT or similar
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
