@@ -51,20 +51,21 @@ All feedback should be recorded in Greenhouse and/or discussed live with the hir
 #### Illegal Interview Questions
 
 * Be aware of the kinds of questions you can and can't ask. For example, if there is a gap in employment history on a CV, you **may** ask the candidate what they did during that time to keep their skills current. You may not ask why they were absent from work as it may be related to a medical or family issue, which is protected information.
-* Refrain from asking any questions related to protected classes (for example: age, race, religion, sexual orientation, marital status, pregnancy status)
-* Protected classes differ based on the country of the candidate
-* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or talent acquisition team
-* Asking questions related to any of the protected classes is not only illegal, but shouldn’t be asked to determine if someone is qualified for a role
+* Refrain from any personal, icebreaker-type questions. There are laws that prohibit discrimination based on any lawful activity, so asking a candidate about personal interests or hobbies could elicit information about the candidate that an employer finds undesirable yet is still legally protected.
+* Refrain from asking any questions related to protected classes (for example: age, race, gender, gender identity, religion, sexual orientation, marital or family status, pregnancy status, national origin, ancestry, physical or mental disabilities).
+* Protected classes differ based on the country of the candidate.
+* To find out more about discrimination laws specific to the country of a candidate you're interviewing, you can reach out to the legal and/or talent acquisition team.
+* Asking questions related to any of the protected classes is not only illegal, but shouldn’t be asked to determine if someone is qualified for a role.
     * Some examples of illegal interview questions include:
         * So you mentioned you live with your partner earlier, are you married?
         * How old are you by the way?
-* In general, stay away from any questions and conversations around protected classes, and focus instead on the job duties
-* If a candidate does bring up personal information during an interview related to a protected class, it's OK to acknowledge their comment and get the interview back on track
+* In general, stay away from any questions and conversations around protected classes, and focus instead on the job duties.
+* If a candidate does bring up personal information during an interview related to a protected class, it's OK to acknowledge their comment and get the interview back on track.
     * Some suggestions on steering the interview back to appropriate topics:
         * So, we were just talking about your role’s current responsibilities. How technical are you hoping to stay in your next role?
         * I have a few more questions that I’d love to get to during our call today. Tell me a little bit more about how you’ve achieved quota in the past.
-    * This information should not be included in your Greenhouse feedback as it does not pertain to the functions and responsibilities of the role
-    * This information should not be used to determine if you are a yes or a no to their candidacy for the role
+    * This information should not be included in your Greenhouse feedback as it does not pertain to the functions and responsibilities of the role.
+    * This information should not be used to determine if you are a yes or a no to their candidacy for the role.
     * If protected class information was to be documented in a candidate's Greenhouse profile, that’s findable information and could be used against GitLab in court.
 
 #### During The Interview
