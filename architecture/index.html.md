@@ -27,7 +27,17 @@ At GitLab, **Architecture** is:
 
 Such definition implies a solid reliance on **influence** rather than authority to *efficiently* and *transparently* drive decisions, engage stakeholders, and promote trust across the organization
 
-**Architecture as a practice is everyone's responsibility**, but it is notably engrained in senior technical leadership roles, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
+#### Artifacts: roadmaps and blueprints
+
+We strive for **results** and concrete outcomes, which in this case entail **roadmaps** and **blueprints**.
+
+**Roadmaps** plot a long-term technical path of initiatives to work on over the following 12 months and how we can weave them together to meet our business needs. Their content is focused on technical topics but they are themselves not technical.
+
+**Blueprints** in their various forms are technically detailed, distilling roadmap items and presenting forward-looking "next steps" for the approprite time-span. Blueprints are hosted in [*docs*](https://docs.gitlab.com/ee/architecture/) and are generated according to the Architecture Workflow.
+
+#### Architecture as a practice is everyone's responsibility
+
+Architecture at GitLab is not a role but it is notably engrained in senior technical leadership roles, where the roles' levels and their sphere of influence determine DRI responsibilities within the practice:
 
 * **Engineering Fellows** (EFs) are DRIs for the overall Architecture Practice
   * EFs operate at the [Division and Department](https://about.gitlab.com/company/team/structure/#organizational-structure) levels (EVPs, VPs and Senior Directors), and, to a lesser but still significant extent, [E-group](/handbook/leadership/#e-group)
