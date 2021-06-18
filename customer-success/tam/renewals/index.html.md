@@ -86,10 +86,11 @@ When a TAM has determined an account is red, then:
 1. **At-Risk Conclusion**:
    1. Customer is won back:
       1. Log Timeline `Risk Update` type for TAM Sentiment as Green and final notes
+      1. Change customer Lifecycle Stage to Adopting
       1. Close out CTA with success criteria (Closed-Won, win reasons)
    1. Customer is lost:
       1. Log Timeline `Risk Update` type with final update
-      1. Change customer Lifecycle Stage to Will Churn
+      1. Change customer Lifecycle Stage to: Will Churn for a churning customer and Adopting for downgrade customer
       1. Close out CTA with success criteria (Closed-Lost, loss reasons)
 
 This can then be discussed with the [Account Team](/handbook/customer-success/account-team/) during account reviews.
