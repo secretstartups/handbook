@@ -22,7 +22,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Certified Neurodiverse Workplace](https://ibcces.org/certified-neurodiverse-workplace/)
 - [Understanding the benefits of neurodiversity in the workplace](https://www.hays.com.au/blog/insights/understanding-the-benefits-of-neurodiversity-in-the-workplace)
 - [Neurodiversity Resources for Employers](https://www.neurodiversityhub.org/resources-for-employers)
-- [Neurodiver-city.org]((https://www.neurodiver-city.org/))
+- [Neurodiver-city.org](https://www.neurodiver-city.org/)
 
 
 ## Reasonable Accommodations
