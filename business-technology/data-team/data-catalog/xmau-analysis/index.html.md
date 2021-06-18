@@ -154,7 +154,7 @@ So you have 2 different sections in the yml definition that can be used:
 
   If the PI is an estimated PI such as all xMAU charts. To visualize your chart with your dynamic target you will need <a href='https://app.periscopedata.com/app/gitlab/snippet/td_xmau_metrics_recorded_metric_value_with_total/558696a885b64c0194d7590c24a7391b/edit?'>to use this snippet</a><br>
 
-  <a href='https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)'>More details about this snippet can be found here</a><br>
+  <a href='https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html'>More details about this snippet can be found here</a><br>
   <a href='https://app.periscopedata.com/app/gitlab/825261/WIP-[td_xmau]-monthly_targets?widget=11099255&udv=0'>
   Example of what can be done </a>
 
@@ -167,7 +167,7 @@ So you have 2 different sections in the yml definition that can be used:
   If the PI you want to set target for is based on recorded values (without any estimations).
   To visualize your chart with your dynamic target you will need <a href='https://app.periscopedata.com/app/gitlab/snippet/td_xmau/5511efd3a1ee44728bac7a7c17fd737e/edit'>to use this snippet.</a>
 
-  <a href='https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)'>More details about this snippet can be found here</a>
+  <a href='https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html'>More details about this snippet can be found here</a>
   <a href='https://app.periscopedata.com/app/gitlab/825261/WIP-[td_xmau]-monthly_targets?widget=11099255&udv=0'>
   Example of what can be done:</a>
 
