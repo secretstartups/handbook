@@ -15,6 +15,7 @@ As a team member responsible for helping to bridge the business-to-technology ga
 * Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
 * Create and maintain architecture and systems documentation in the [Data Team Handbook](https://about.gitlab.com/handbook/business-technology/data-team)
 * Maintain the [Data Catalog](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog), an infinitely scalable resource to support Self-Service and Single-source-of-truth analysis
+* Document results in either issue/MR templates, the [handbook](/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 * Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
 * Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](https://about.gitlab.com/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
 * Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
@@ -27,11 +28,12 @@ As a team member responsible for helping to bridge the business-to-technology ga
 * Great communication: Regularly achieve [consensus](https://about.gitlab.com/handbook/values/#collaboration) amongst technical and business teams
 * Demonstrated capacity to clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
 * Demonstrated experience with one or more critical business subject areas: marketing, finance, sales, product, customer success 
-* 2+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
-* 2+ years experience building reports and dashboards in a data visualization tool
-* 2+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
-* 2+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
-* 1+ years creating project plans to identify tasks, milestones, and deliverables
+* 4+ years in the Data space as an analyst, engineer, or equivalent
+* 4+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 4+ years experience building reports and dashboards in a data visualization tool
+* 4+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 4+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* 2+ years creating project plans to identify tasks, milestones, and deliverables
 * Positive and solution-oriented mindset
 * Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with task organizational skills
@@ -56,13 +58,15 @@ The Analytics Engineer is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### Senior Analytics Engineer
 
-The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Senior Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
 #### Senior Analytics Engineer Job Grade
 
 The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Analytics Engineer Responsibilities
+
+Responsibilites for the Senior Analytics Engineer extend the Analytics Engineer (Intermediate) job. In addition:
 
 * Business Partnership: Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
 * Data Model subject matter expert, and data model spokesperson, able to address questions quickly and accurately
@@ -72,35 +76,75 @@ The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensatio
 
 #### Senior Analytics Engineer Requirements
 
-* 4+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
-* 4+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
-* 4+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+Requirements for the Senior Analytics Engineer extend the Analytics Engineer (Intermediate) job. In addition:
+
+* 8+ years in the Data space as an analyst, engineer, or equivalent
+* 6+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in 2 or more environments
+* 6+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 6+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* Extenstive experience in 2 or more major data subject areas (marketing, sales, finance, product, people, etc.)
 * 2+ years creating project plans to identify tasks, milestones, and deliverables
 
 ### Staff Analytics Engineer
 
-The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
 
 #### Staff Analytics Engineer Job Grade
 
-The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Staff Analytics Engineer Responsibilities
 
-* Business Partnership: Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
-* Data Model subject matter expert, and data model spokesperson, able to address questions quickly and accurately
-* Advocate for the [Data Quality Program](https://about.gitlab.com/handbook/business-technology/data-team/data-quality/) and [Trusted Data](https://about.gitlab.com/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and availabe to support critical decisions
-* Lead [Work Breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdown) Sessions
-* Organize and Plan quarter-long development initiatives per the [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/)
+Responsibilites for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* Drive data innovation across GitLab with a willingness to experiment and to confront hard and complex problems
+* Identify and resolve impediments to our efficiency, enable the entire Data Program to iterate faster
+* Reviews and analyzes model design, process flows, and query performance to add new best practices to the Data Team's coding standards
+* Participates in the Data Community/Industry outside of GitLab through writing, speaking, and networking
+* Research new data engineering and analytics methodologies with minimal guidance and support from other team members
+* Organize and Plan multi-quarter initiatives and develop the **Enterprise Model Roadmap**
+* Provide mentorship to help team members grow in their technical responsibilities, remove blockers to their autonomy, and share your knowledge across the organization
+* Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
+* Help create a sense of psychological safety in the department
 
 #### Staff Analytics Engineer Requirements
 
-* 6+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
-* 6+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
-* 6+ years desinging and socilizing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
-* 4+ years creating project plans to identify tasks, milestones, and deliverables
+Requirements for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* 10+ years in the Data space as an analyst, engineer, or equivalent
+* Extenstive experience in 4 or more major data subject areas (marketing, sales, finance, product, people, etc.)
 * Demonstrated proficiency with data warehouse architecture design, including databases, schema, marts, aggregates, and views
 * Demonstrated proficiency designing and planning complex data transformation flows
+
+### Principal Analytics Engineer
+
+The Principal Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Principal Analytics Engineer Job Grade
+
+The Principal Analytics Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Analytics Engineer Responsibilities
+
+Responsibilites for the Principal Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* Drive data innovation across GitLab with a willingness to experiment and to confront hard and complex problems
+* Identify and resolve impediments to our efficiency, enable the entire Data Program to iterate faster
+* Reviews and analyzes model design, process flows, and query performance to add new best practices to the Data Team's coding standards
+* Participates in the Data Community/Industry outside of GitLab through writing, speaking, and networking
+* Research new data engineering and analytics methodologies with minimal guidance and support from other team members
+* Organize and Plan multi-quarter initiatives and develop the **Enterprise Model Roadmap**
+* Provide mentorship to help team members grow in their technical responsibilities, remove blockers to their autonomy, and share your knowledge across the organization
+* Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
+* Help create a sense of psychological safety in the department
+
+#### Principal Analytics Engineer Requirements
+
+Requirements for the Principal Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* 12+ years in the Data space as an analyst, engineer, or equivalent
+* Extenstive experience across the entire data infrastructure and analytics space
+* Recognized as an industry leader in the data space 
 
 ## Performance Indicators
 
