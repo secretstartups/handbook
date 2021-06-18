@@ -404,6 +404,8 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 `Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#mktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
 
+We use Source Buckets to group raw Sources into acquisition channels. These groups are: core, inbound, outbound, paid demand gen, purchased list, referral, virtual event, and web direct. When using the [TD - Marketing Metrics dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) reports can be filterd by these source buckets.
+
 The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team.
 
 Status in the table below means:
