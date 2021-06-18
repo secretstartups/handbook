@@ -86,11 +86,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	| Matthew Beadle
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	| Matthew Beadle
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	| Matthew Beadle
-|	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	| Matthew Beadle
-|	NA West	|	NorCal	|	Large-AMER-Bay Area 3	|	Nico Ochoa	| Matthew Beadle
+|	NA West	|	NorCal	|	Large-AMER-Bay Area-2	|	Jim McMahon	| Madison Taft
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 3	|	Nico Ochoa	| Madison Taft
 |	NA West	|	NorCal	|	Large-AMER-Bay Area 4	|	Joe Miklos	| Matthew Beadle
 |	NA West	|	NorCal	|	Large-AMER-Bay Area 5	|	Michael Nevolo	| Matthew Beadle
-|	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	| Matthew Beadle
+|	NA West	|	NorCal	|	Large-AMER-Bay Area 6	|	Michael Scott	| Madison Taft
 |	NA East	|	Northeast	|	Large-AMER-Central-1	|	Tim Kuper	| Marsja Jones
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| Marsja Jones
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| Marsja Jones
@@ -102,11 +102,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	| David Fisher
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	| Matthew Beadle
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	| Matthew Beadle
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Matthew Beadle
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Matthew Beadle
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	| Matthew Beadle
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	| Madison Taft
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	| Madison Taft
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Madison Taft
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Madison Taft
+|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-5	|	Robert Hyry	| Madison Taft
 |	NA East	|	Southeast	|	Large-AMER-Southeast-1	|	Chris Graham	| Marsja Jones
 |	NA East	|	Southeast	|	Large-AMER-Southeast-2	|	Katherine Evans	| Marsja Jones
 |	NA East	|	Southeast	|	Large-AMER-Southeast-3	|	Jim Bernstein	|Marsja Jonesr
