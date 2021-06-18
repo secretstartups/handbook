@@ -24,7 +24,7 @@ GitLab does not plan to offer Private Health Insurance at this time because Aust
 Please note, Medicare doesn't cover all costs and [other health services](https://www.servicesaustralia.gov.au/individuals/subjects/whats-covered-medicare/health-care-and-medicare). Depending on the treatment, tests required and medications, individuals may still have to pay out of pocket. Some individuals may also have to pay a [Medicare levy and a Medicare levy surcharge](https://www.ato.gov.au/Individuals/Medicare-levy/). These individuals can avoid the surcharge by taking out private health insurance.
 
 ### Superannuation
-GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 9.5% of the team member's total salary. Super is on top of the salary listed in the compensation calculator/contract.
+GitLab will make superannuation contributions directly to the team member's nominated super fund according to the Australian Government Super Guarantee rate which is currently set at 10% of the team member's total salary. Super is on top of the salary listed in the compensation calculator/contract.
 
 #### Superannuation payments due dates
 
@@ -37,7 +37,7 @@ The Australian Taxation Office (ATO) states the following:
 Payments due dates can be found on the [ATO website](https://www.ato.gov.au/business/super-for-employers/paying-super-contributions/when-to-pay-super/).
 
 #### Superannuation Salary Sacrifice
-Team members in Australia have the option to make concessional super contributions by sacrificing some of their pre-tax pay and arrange to have it paid into their superfund instead. The combined total of GitLab and salary sacrificed contributions [must not be more than $25,000](https://moneysmart.gov.au/grow-your-super/super-contributions) per financial year.
+Team members in Australia have the option to make concessional super contributions by sacrificing some of their pre-tax pay and arrange to have it paid into their superfund instead. The combined total of GitLab and salary sacrificed contributions [must not be more than $27,500](https://www.ato.gov.au/Individuals/Super/In-detail/Growing-your-super/Super-contributions---too-much-can-mean-extra-tax/?page=2#Concessional_contributions_and_contribution_caps) per financial year.
 
 *Salary Sacrifice FAQ*
 
