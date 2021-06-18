@@ -102,7 +102,7 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product  | Escalation Types                 | Escalation Point                                        | Assignment      |
 |------------------|--------------------------------|-----------------------------------------------------------|------------------
-| GitLab           | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/issues/new>           |
+| GitLab           | Bug reports, Feature proposals | [Bug](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Bug), [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20proposal)           |
 | Omnibus GitLab   | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new>   | Omnibus GitLab specialist
 | GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/issues/new>  | GitLab CI specialist
 | GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5bdescription%5d=%2flabel%20%7eworkhorse> | Maintainer of gitlab-workhorse
