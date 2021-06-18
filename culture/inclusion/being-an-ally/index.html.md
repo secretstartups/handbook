@@ -186,7 +186,7 @@ TBC
 
 The Ally Lab Learning Group is an initiative to learn to become or be a better ally within a collaborative group of peers who are seeking the same aim of allyship growth. All team members have the ability to be an ally whether you are a part of an underrepresented groups (URGs) or not, there are URGs that may not belong to and you have the ability to be an ally to them. There will be regular intakes of team members into groups.
 
-The next intake: TBC 
+The next intake: [You can sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd7tN0rj_Jh30BuSsF3wS73FEAZRLB5zxNt_AUOFvJzAPsdtg/viewform?usp=sf_link)
 
 To sign up: TBC 
 
