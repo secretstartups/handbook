@@ -31,11 +31,7 @@ The justification section is a good place to add as much detail and context as p
 
 #### Recruiter Quality Check (Engineering Only)
 
-Once a candidate has gone through the whole process before creating an offer the recruiter will ensure the following:
-
-- The candidate has been assessed on all the must have requirements for the role and passed
-- The candidate has reached the bar set by the individual team i.e. a minimum of 5/9 nice to haves within Engineering
-- The justification has sufficient detail and addresses any flags, no votes or not meeting the criteria as above
+Once a candidate has gone through the whole process before creating an offer the recruiter will ensure the scorecard requirements in [Engineering Hiring Practices](https://about.gitlab.com/handbook/engineering/#hiring-practices) are met.
 
 The recruiter will leave a note in Greenhouse for the hiring manager as follows:
 
