@@ -1,0 +1,22 @@
+---
+layout: handbook-page-toc
+title: UnReview Handbook
+description: "UnReview is an approach for finding appropriate code reviewers in the most effective way"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+Code review is an important part of any development process. Over the years, code review has shown a large impact on improving the quality of source code. In addition, code review facilitates in transferring knowledge about the codebase, approaches, expectations regarding quality, etc.; both to the reviewers and to the author.
+
+In a small project, finding an appropriate code reviewer isn't a big issue. This might be done manually. However, as the project grows, finding an appropriate person becomes increasingly difficult. In this setting, random assignments will be potentially error-prone and therefore don't appear to be efficient. The other option of always assigning key reviewers would make the selected persons overburdened and a bottleneck due to inadvertently siloing knowledge. To address the code reviewer recommendation problem, the UnReview project has been initiated.
+
+UnReview recommends reviewers, considering their experience in the part of the source code proposed by a merge request. UnReview is able to resolve the cold start problem, i.e., when the proposed source code is unknown to the recommendation engine, and it additionally tries to balance the review load across the team. Future versions will also consider the context of the merge request, i.e., which source code has been exactly changed and how it affects other parts of the project.
+
+Today, UnReview is an early-stage technology.  However, significant testing and validation has been done on production data. After the [acquisition](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html) is complete, we continue to work on the approach at GitLab via iteration.
+
