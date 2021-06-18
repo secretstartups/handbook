@@ -939,7 +939,7 @@ Save event images and headers here: Save images for featured events [here](https
 
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
-  `MeetUp`, `Speaking Engagement`, `Webinar`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
+  `MeetUp`, `Speaking Engagement`, `Webcast`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
 - **Date starts** - Day event starts
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
