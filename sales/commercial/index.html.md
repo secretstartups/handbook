@@ -525,7 +525,7 @@ Improvements to the Professional Services offering
 - **Ultimate**
 Improvements to the full pitch including [Why Ultimate](/pricing/ultimate/)
 
-#### Mid-Market Key Accounts First Order
+## Mid-Market Key Accounts First Order
 
 **Mid-Market Key Accounts First Order Team (MMKAFO) Tactics and Definitions**
 
