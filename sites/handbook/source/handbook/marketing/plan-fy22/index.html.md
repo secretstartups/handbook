@@ -121,14 +121,14 @@ _The list below includes potential and recommended items to include in a GTM Mot
 
 **Potential/Recommended Pieces of a GTM Motion:**
 
-- [Solution GTM Strategy Doc]((/handbook/marketing/strategic-marketing/usecase-gtm/)), including:
+- [Solution GTM Strategy Doc](/handbook/marketing/strategic-marketing/usecase-gtm/), including:
     - Buyer personas
     - Messaging and positioning framework
     - Market landscape
     - Product capabilities
     - etc.
-- [Campaign Brief(s)]((/handbook/marketing/plan-fy22#gtm-motion-campaign))
-- [Sales Play(s)]((/handbook/marketing/plan-fy22#sales-plays))
+- [Campaign Brief(s)](/handbook/marketing/plan-fy22/#gtm-motion-campaign)
+- [Sales Play(s)]((/handbook/marketing/plan-fy22/#sales-plays)
 - Supporting content
     - Buyer journey content (including awareness, consideration, and decision)
     - Competitive assets
@@ -137,7 +137,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
 - Alliance partner joint GTM campaigns and activities
 - Channel partner campaigns
 - Web ROI model
-- [Sales enablement]((/handbook/marketing/plan-fy22#sales-enablement))
+- [Sales enablement](/handbook/marketing/plan-fy22/#sales-enablement)
 
 ## Solution GTM Strategy
 
