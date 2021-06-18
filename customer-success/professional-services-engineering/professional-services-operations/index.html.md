@@ -400,7 +400,7 @@ Before making a purchase of any type or booking travel for a customer project, b
 * Purchase incurred or travel booked
    * All travel should be booked through Trip Actions   
 * PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
-   * Include E Group travel approval 
+   * Include E Group travel approval, Travel Exception Request form found here (https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
    * Include receipts
    * Disregard the billable checkbox 
 * PS Manager approves expense report in Expensify
