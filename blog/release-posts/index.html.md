@@ -1851,7 +1851,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
-1. The VP of Product Management will identify the 3-7 topics for [What's New](LINK to some kind of feature over view or documentation of what's new feature for reference) each release as part of the their final review.
+1. The VP of Product Management will identify the 3-7 topics for [What's New] each release as part of the their final review.
      - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
      - If the VP of Product Management wants to solicit feedback on their selection from the PM team, they can do so by posting in Slack #release-post.
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
