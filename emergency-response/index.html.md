@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marketing - Emergency Response"
-description: "GitLab's response process for marketing emergencies"
+description: "GitLab's email response process for marketing emergencies"
 ---
 
 ## On this page
@@ -12,24 +12,24 @@ description: "GitLab's response process for marketing emergencies"
 
 ## Marketing Emergency Response
 
-At times GitLab needs to communicate a "breaking" change or details related to a high-priority emergency patch. These emails are transactional in nature and are highly targeted to the impacted audience.
+At times GitLab needs to communicate a "breaking" change or details related to a high-priority emergency patch. These emails are transactional and are highly targeted to the impacted audience.
 
 <!-- Note to Amy: should we put a timeframe on what we consider an emergency? -->
 
-**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email) which will not alert fire drills to teams involved, but will enable teams to work together and plan.
+**Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
 
 **As soon as an emergency communication to customers is recognized, the Security team MUST:**
 1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** (built to auto label and assign to the correct people)
 1. Notify in the #mktgops Slack channel
-1. If there is not a timely response (<!-- how much time is timely Amy? -->) in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
-1. In the template the Security team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
+1. If there is not a timely response <!-- how much time is timely Amy? --> in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
 ## Roles and Responsibilities
 ### Requestor is responsible for: 
 * **Alerting email team as soon as possible that there may be a send (even if it does not move forward)**
 * Providing FINAL email, landing page, form copy, autoresponder copy, etc.
     * NOTE: The addition of each item will increase scope and potentially delay announcement
-* Requesting target list from Data Team (Template WIP)
+* [Requesting target list](https://gitlab.com/gitlab-data/analytics/-/issues/new) from Data Team
 * Creating epic and corresponding issues
       * Creating Epic - [Template here](/handbook/marketing/emergency-response/#customer-comms-epic-issues)
       * Creating [Email request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)
@@ -72,6 +72,7 @@ This is the process to follow when there is an announcement that is an emergency
 - Add Due Date (or best guess)
 - Include googlesheet of copy document, even if it is blank.
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
+- If you are requesting a list, create an [issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
 
 3. **Issue in Process**
@@ -100,8 +101,8 @@ The following approvers are needed for the copy and list size:
 
 ## Lists 
 
-1. For most emergency communications the Security team should be providing a list as a Google Sheet in the issue request. 
-     - The Data team is able to pull a list from user table if necessary. Please create an issue with the Data team.
+1. For most emergency communications the requesting team should be providing a list as a Google Sheet in the issue request. 
+     - The Data team is able to pull a list from user table if necessary. Please [create an issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the Data team.
 1. If a generic emergency communication the opt-in email list contained in Marketo can be used. 
 1. Seldomly, lists need to be created in Salesforce or Marketo using parameters found within the marketing database.  
      - Marketo & Salesforce **do not** contain all records within the user table and vice versa
