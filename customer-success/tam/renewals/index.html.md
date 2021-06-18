@@ -98,7 +98,7 @@ This can then be discussed with the [Account Team](/handbook/customer-success/ac
 
 ##### Account Health
 
-When a TAM considers an account at-risk, they should set the Account's `TAM Sentiment` to **red**. From there, the TAM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
+When a TAM considers an account at-risk of contraction or churn, they should set the Account's `TAM Sentiment` to **red**. From there, the TAM can create an at-risk CTA on the account, or Gainsight will auto-create it during the nightly sync (within 24 hours). 
 
 ##### Risk Type
 * **Customer Churn** - fully churn the account
