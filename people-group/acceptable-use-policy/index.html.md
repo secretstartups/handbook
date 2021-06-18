@@ -24,6 +24,7 @@ This policy applies to all GitLab team-members, contractors, advisors, and contr
 
 | Role  | Responsibility | 
 |-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this procedure |
 | Security, Legal and PeopleOps | Responsible for implementing and executing this procedure | 
 | Security, Legal and PeopleOps (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
 
