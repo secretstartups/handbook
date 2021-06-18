@@ -214,6 +214,8 @@ In an effort to streamline the hiring process, improve the candidate experience,
 
 If the manager has a question about compensation, please ping the People Ops Analyst for review. If the question needs to be escalated, the People Ops Analyst will add the Chief People Officer to the conversation.
 
+**GitLab Employment and Contractor Agreements are internal-only.** If an applicant requests to see one or more of our contracts from our Internal-only [Employment and Contractor Agreements](https://about.gitlab.com/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements) section, please advise them that we are unable to share them with the applicant. Talent Acquisition and CES may point the applicant to the relevant Benefits handbook section or pages, or direct any specific questions to the relevant internal teams, be it Legal, Total Rewards, or People Ops.
+
 **An approval team authorizes all offers.** The manager proposes a suggestion for an offer (including bonus structure if applicable, etc.) as a private comment in Greenhouse and informs the talent acquisition team on its details depending on what is applicable. The talent acquisition team will create an [offer package](/handbook/hiring/offers/#offer-package-in-greenhouse) to present to an approval chain consisting of the People Business Partner, executive of the division, and Chief People Officer for approval. Verbal offers should not be extended to the candidate until the offer is approved. The CEO may choose to interview the candidate, and any offers given before the CEO's approval are premature.
 </details>
 
