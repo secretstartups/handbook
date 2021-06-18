@@ -48,7 +48,7 @@ Who is this sales play for?
 
 **Target Account Lists**
 
-- [Account list](docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602)
+- [Account list](https://docs.google.com/spreadsheets/d/1Wb1oumCp8vA7hwexQ-bKm37mDbj4rzwpLJ11TtJDh98/edit#gid=1408744602)
 
 ## Getting Started
 
