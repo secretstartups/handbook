@@ -84,7 +84,7 @@ Extends the Financial Systems Administrators requirements.
 
 ### Manager, Finance Systems Administrator
 
-The Manager, Finance Systems Administrator reports to
+The Manager, Finance Systems Administrator reports to the [Director, Enterprise Applications](/job-families/finance/senior-director-enterprise-applications/)
 
 #### Manager, Finance Systems Administrator Job Grade
 
