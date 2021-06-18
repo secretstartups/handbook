@@ -46,7 +46,7 @@ Different roles within the prospect's organization will inherently care about an
 - [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
 
 #### Develop a Pre-Call Plan
-As outlined in the [Pre-Call Plan]((https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing)) job aid, be sure to consider the below questions.
+As outlined in the [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing) job aid, be sure to consider the below questions.
 - What is your desired outcome for this conversation or meeting? What do you think the prospect's desired outcome is?
 - What information do you need to gather to achieve your objective(s)? What discovery questions will you ask, how, and in what sequence? As outlined above, this iterative insight/question loop will often span across multiple meetings or conversations.
    - Start with [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) to seek to understand your prospect's goals, objectives, and initiatives
