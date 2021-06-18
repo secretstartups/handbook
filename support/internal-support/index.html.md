@@ -205,9 +205,10 @@ In some cases, certain organizations want all members of their organization to b
 In other cases, a particular user from the account would like to be able to see and respond to all tickets from their organization.
 If you'd like to enable this, please:
 
-1. Ask the customer to [open a Support ticket](https://support.gitlab.com/hc/en-us/requests/new) confirming that they want members of their org to be able to see all their Support tickets
-1. A Support Engineer will then [Open an issue](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project/issues/new?issuable_template=Shared%20Organization%20Request) using the `Shared Organization Request` template. The issue will be used to review the request and track the history of changes.
-1. When the issue is created the Support Ops Engineer will @mention the TAM / Account owner for awareness on the issue.
+1. Ask the customer to submit a Support ticket using the [Support Ops form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001801419) and select `Shared organization requests` in the `Problem type` field.
+1. Once the ticket is created, Support Ops will review and work on the ticket. 
+
+**Note:** If a customer submits a shared organization request using a different Support form, simply change the form to `Support Ops` and select `Shared organization requests` in the `Problem type` field. Support Ops will then review the ticket and ask any followup questions if necessary. 
 
 #### My customer needs a report of all the users within their group(s) structure
 
