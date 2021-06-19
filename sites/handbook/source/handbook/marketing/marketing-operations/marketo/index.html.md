@@ -169,7 +169,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Trial - Business Email | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
 |* Trial - Personal Email | SaaS,<br>Self-Managed   |	+65|{{my.Trial - Personal}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
-|Visits Key Webpage|`/pricing, /get-started`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
+|Visits Key Webpage|`/pricing, /get-started`, `/install`, `/free-trial`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
 |Web: No activity in 30 days|No web activity, not created in last 30|	-10	|{{my.No Web Activity}}|	Trigger|	1/month|
 |Web: Visits Low Value|`/jobs`|	-10	|{{my.Visits Low Value Webpage}}|	Trigger	|1/day|

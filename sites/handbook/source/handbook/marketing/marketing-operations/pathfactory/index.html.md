@@ -410,6 +410,7 @@ We use external forms (added by External URL or Custom HTML generated from Marke
 - Only content track links are meant to be used and shared. Do not share individual asset links from the content library. 
 - You can use a content track link for multiple use cases as long as you apply UTMs appropriately. Applying UTMs helps us differentiate how the track performed across different channels.
 - If the link breaks or an asset is deleted, the user will be redirected from your content track to the `#all` track, which includes all assets uploaded to PathFactory. In a case where the user is not redirected to the `#all` track, they will be redirected to the `Fallback URL` which is set to `about.gitlab.com`.
+- **Do not use the `lb_email=` parameter when sharing `about.gitlab.com` links in Marketo emails. This parameter is used on `learn.gitlab.com` links to identify anonymous track visitors.**
 
 ### Target Track Links
 
@@ -557,6 +558,33 @@ There is no native integration between [Smartling](/handbook/marketing/marketing
 Webhooks allow PathFactory to automatically connect with a third party system and send data every time someone visits or interacts with a PathFactory experience. There are 3 types of PathFactory webhooks (form capture, visitor session, visitor activity). 
 
 We currently use the `Visitor Session Webhook` to connect to Marketo. The `Visitor session` webhook is triggered off of session data. A `visitor session` begins when a visitor arrives on a content track and ends when that visitor has stopped engaging with content for thirty minutes. This webhook is triggered when a visitor session ends. This means that the webhook will trigger and send data to Marketo thirty minutes after the visitor has finished engaging with content. The data sent though this webhook provides an overview of the level of engagement the visitor had with your content track and the content assets inside them during the session. 
+
+### PathFactory Scoring 
+
+PathFactory applies a score to a person based on how much time they spent viewing an asset by its content type. The PathFactory score is incorporated into the [Behavior score in Marketo](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#behavior-scoring).
+
+| Content Type | Content Engagement Score | Engagement Time Threshold (seconds) |
+| ------ | ------ | ------ |
+| Analyst report | 1 | 120 |
+| Assessment | 1 | 60 |
+| Case Study | 1 | 180 |
+| Data sheet | 1 | 45 |
+| Demo | 1 | 120 |
+| Infographic | 1 | 30 |
+| Landing page | 1 | 45 |
+| Presentation | 1 | 120 |
+| Pricing | 1 | 30 |
+| Product Article | 1 | 60 |
+| Research report | 1 | 120 |
+| Solution Article | 1 | 90 |
+| Technical Blog Post | 1 | 120 |
+| Testimonials | 1 | 60 |
+| Thought leadership Blog Post | 1 | 120 |
+| Topic Article | 1 | 120 |
+| Video | 1 | 60 |
+| Webcast | 1 | 600 |
+| Whitepaper | 1 | 120 |
+| eBook | 1 | 180 |
 
 ### Bizible
 
