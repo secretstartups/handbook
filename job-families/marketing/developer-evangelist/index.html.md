@@ -165,7 +165,7 @@ The Developer Evangelism team is responsible for [community engagement](/handboo
   * Manage responsibilities and tasks associated with product and/or business changes that impact the community
   * Ensure messaging about these changes addresses community concerns
   * Create community FAQs for impactful changes
-  * Prepare the Developer Evangelist team and relevant experts to address community questions on Hackers News and other forums
+  * Prepare the Developer Evangelist team and other relevant team members per the [community response](/handbook/marketing/community-relations/developer-evangelism/community-response/) process to address community questions on Hackers News and other forums
 
 
 #### Requirements 
