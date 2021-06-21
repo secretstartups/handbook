@@ -1035,3 +1035,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-05-17 | 2021-05-28 | [Joshua Lambert](https://gitlab.com/joshlambert) | Director of Product, Enablement | |
 | 2021-05-24 | 2021-06-04 | [Melissa Ushakov](https://gitlab.com/mushakov) | Group Manager, Product Management - Plan | |
 | 2021-06-01 | 2021-06-11 | [April Malone](https://gitlab.com/april5) | Sijbrandij Personal EA | |
+| 2021-06-11 | 2021-06-18 | [Taylor Medlin](https://gitlab.com/taylor) | Solutions Architect - Commercial| |
