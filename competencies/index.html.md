@@ -51,7 +51,7 @@ For example, we should have one SSoT for how to articulate the value of GitLab.
 1.  [Sales training](/handbook/sales/training/)
 1.  [Sales enablement sessions](/handbook/sales/training/sales-enablement-sessions/)
 1.  [Field enablement](/handbook/sales/field-operations/field-enablement/)
-1.  [GitLab Training tracks](/training/)
+1.  [GitLab Training tracks](/learn/)
 1.  [GitLab University](https://docs.gitlab.com/ee/university/)
 1.  [Customer Success Skills Exchange Sessions](/handbook/sales/training/customer-success-skills-exchange/)
 1.  [Professional services offerings](/handbook/customer-success/professional-services-engineering/framework/#service-offering-framework/)
