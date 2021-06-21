@@ -22,6 +22,57 @@ UnReview recommends reviewers, considering their experience in the part of the s
 
 Today, UnReview is an early-stage technology.  However, significant testing and validation has been done on production data. After the [acquisition](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html) is complete, we continue to work on the approach, integrating UnReview into GitLab via iteration.
 
+### Architecture
+
+UnReview consists of multiple components used for a variety of purposes, from data extraction and processing to training machine learning models:
+
+* [Apache Kafka](https://kafka.apache.org/): distributed event streaming and processing;
+* [Apache Hive](https://hive.apache.org/): data preprocessing including building train/test datasets;
+* [Azure Data Factory](https://azure.microsoft.com/en-us/services/data-factory/): orchestrating the preprocessing pipelines, managing the Hive cluster, and moving the processed data to MongoDB
+* [MongoDB](https://www.mongodb.com/): document-based database for storing the processed data
+* [Azure Blob Storage](https://azure.microsoft.com/en-us/services/storage/blobs/): temporary storage for the trained ML models and raw data
+
+The following chart provides more details on how the UnReview components relate to each other:
+
+```mermaid
+flowchart TD
+
+subgraph Azure
+    ExtractStage --> |Kafka|TransformStage
+    TransformStage --> |Azure Data Factory|LoadStage
+    TransformStage --> |manual start of training|TrainStage
+    TrainStage --> LoadStage
+    LoadStage --> UnreviewBackend 
+
+    subgraph ExtractStage
+        GitLab --> |API| Extracteur
+        Git --> |API| Extracteur
+    end
+
+    subgraph TransformStage
+        AzureBlobStorage[(AzureBlobStorage)]
+        AzureBlobStorage --> |Hive, Azure Data Factory| AzureBlobStorage
+    end
+
+    subgraph LoadStage
+        Mongo[(ProcessedData/MongoDB)]
+        Models[(TrainedModels/AzureBlobStorage)]
+    end
+
+    subgraph TrainStage
+        ModelTraining <--> HyperparameterTuning --> BestModelSelection
+    end
+
+    subgraph UnreviewBackend
+        Artefacts
+        Recommender
+        Analytics
+    end
+end
+```
+
+When integrating UnReview into GitLab, some components can be replaced as we progress through the defined milestones.
+
 ### Integration into GitLab
 
 The backend work for integration will be primarily handled by the [Applied ML](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/) team with help from the infrastructure team.  The frontend work will be by both the Applied ML team and the `Create::code review` team (PM [Kai Armstrong](https://about.gitlab.com/company/team/#phikai) and EM [André Luís](https://about.gitlab.com/company/team/#andr3)).
