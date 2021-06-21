@@ -18,7 +18,6 @@ The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing
 ## Other related pages
 - [Process for making an announcement](/handbook/marketing/corporate-marketing/#requests-for-announcements)
 - [Blog dashboard](/handbook/marketing/blog/blog-metrics/)
-- [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/)
 - [Git guide for the blog](/handbook/marketing/blog/git-guide/)
 - [Editorial team page (including blog style guide)](/handbook/marketing/inbound-marketing/content/editorial-team/)
 - [Brand personality](/handbook/marketing/corporate-marketing/#brand-personality)
@@ -53,17 +52,13 @@ Please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-f
 
 If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
 
-### If you don't want to pitch your post
-
-If you prefer, you can submit a complete blog post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) without pitching first. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/inbound-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog. Unfiltered posts are not shared on GitLab's official social media handles.
-
 ## How to pitch a blog post
 
 Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
 
 If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@bmatturro` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
-If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team, or publish directly to [Unfiltered](/handbook/marketing/blog/unfiltered/) instead. If you're not concerned about whether you publish on the main blog or Unfiltered, this may suit you.
+If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team.
 
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
 
@@ -72,8 +67,6 @@ If you do not intend to write the post yourself but are just suggesting an idea 
 Many people throughout GitLab the company and community contribute to the blog. Our pitching process ensures we can prioritize submissions so we don't overwhelm our audience with too much content at once, and to help our contributors craft their ideas in a way that will get views. After reviewing years of data, we know what type of content is likely to get views and what is unlikely to resonate. We want to help every contributor maximize the impact of their contribution.
 
 Data shows that more blog posts does not equal more views. In fact, too much content can have a negative impact on our traffic. The pitching process allows us to review each article and schedule it at the most appropriate time. We've found that publishing ~3 articles per week is the most effective publishing cadence for the GitLab blog.
-
-**If you don't want to pitch a blog post, but would rather publish directly to the GitLab Unfiltered blog, please visit the [Unfiltered blog handbook](/handbook/marketing/blog/unfiltered/) to get started.**
 
 Note: All blog posts related to the Board must be reviewed by legal prior to publication. Please indicate if this applies to your pitch by checking the relevant box in your issue description. Ideally, Legal should be looped in as early as possible.
 {: .alert .alert-info .note}
@@ -112,7 +105,7 @@ Below are links to blog post proposals that demonstrate the value the post will 
 
 The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
 
-If your pitch isn't accepted, no problem! The Editorial team will suggest that you submit your post to the [GitLab Unfiltered blog](/handbook/marketing/blog/unfiltered/) instead. The [Unfiltered blog is monitored weekly for posts to feature](/handbook/marketing/inbound-marketing/content/editorial-team#featuring-unfiltered-posts) on the main blog.
+If your pitch isn't accepted, no problem! The Editorial team will suggest alternative publishing options. Sometimes a blog post is better suited for your personal blog platform, such as a LinkedIn post or a Medium blog post; a personal social media post, like a twitter thread. Othertimes, an idea for a blog post is better as a handbook page update or content marketing asset, like a case study or e-book. The Editorial team will suggest alternatives for blog post pitches that are not deemed suitable for the corporate blog.  
 
 ### If your pitch is accepted
 
@@ -319,7 +312,7 @@ We conducted [an audit of all event-supporting content for 2018-19 and shared th
 
 What matters to _our_ readers is what matters to GitLab. A better way to cover events that offers something new with a specific angle is to take one trend or session and do a deep dive on it, rather than trying to cover the conference as a whole.
 
-If you want to share photos from the event such as the GitLab booth or social events, consider sharing these on personal social channels or writing a post for the [Unfiltered blog](/handbook/marketing/blog/unfiltered/).
+If you want to share photos from the event such as the GitLab booth or social events, consider sharing these on personal social channels.
 
 #### Analyst report news
 
@@ -460,7 +453,7 @@ guest: true # required when the author is not a GitLab Team Member or there is m
 ee_cta: false # required only if you do not want to display the EE-trial banner
 install_cta: false # required only if you do not want to display the 'Install GitLab' banner
 twitter_text: "Text to tweet" # optional;  If no text is provided it will use post's title.
-featured: yes # reviewer should set. Please remove this line if post is Unfiltered
+featured: yes # reviewer should set.
 postType: content definition # i.e.: content marketing, product, corporate
 related_posts:
   - "/blog/2020/xx/xx/related-post-1/"
@@ -550,8 +543,6 @@ If preferred, you can use the default image as a cover image, but this is not ad
 
 Add `featured: yes` to the frontmatter of a post to create a featured post. The most recent featured post will be shown at the top of the blog in the featured section (even if more are tagged). To remove a post from being featured, remove the `featured: yes` line from the frontmatter.
 
-[Unfiltered blog](/handbook/marketing/blog/unfiltered) posts should not be featured.
-
 #### Categories
 
 Use only **one** of the following categories per post.
@@ -566,7 +557,6 @@ If you're not sure which category your post belongs in, just put a placeholder i
 - `insights` – industry, data, newsjacking, developer survey, etc.
 - `news` – company or product announcements (including policy changes, operational announcements, and breaking changes), news, or events
 - `security` – security-related posts
-- `unfiltered` – posts on [GitLab Unfiltered](/handbook/marketing/blog/unfiltered/)
 - `releases` - release posts, security and patch releases. Posts in the `releases` category need to be in the `sites/uncategorized/source/releases/posts` directory, not `sites/uncategorized/source/blog/blog-posts`. Please see the [Release Post handbook](/handbook/marketing/blog/release-posts/) for more.
 
 We're working on improving category pages and tagging, but for now you can find posts under the same category by navigating to
@@ -1135,7 +1125,7 @@ Enter your filename using the format `yyyy-mm-dd-name-of-your-post.html.md.erb`.
 Please do not include special characters, capital letters, or numbers (other than the date) in your filename as this can lead to issues with publishing and can break the link to your review app.
 {: .alert .alert-gitlab-orange}
 
-If you aren't sure when the post will be published, just choose an arbitrary date in the future – we will update it before publishing. If you are publishing an Unfiltered post and need to update the date yourself, please see [Making changes to your blog post](#making-changes-to-your-blog-post) for instructions.
+If you aren't sure when the post will be published, just choose an arbitrary date in the future – we will update it before publishing.
 
 Now you can paste your post content into the window. If pasting from a Google Doc or another word processor, please make sure you convert it to plain text first. A quick way to do this is to paste everything into the URL bar of a browser, and paste it into your blog post file from there.
 

@@ -52,13 +52,9 @@ At a high level, the process is:
 
 | Date | Step |
 | ------ | ------ |
-| By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry <br><br> Note for TWs and Messaging Leads: to avoid potential merge conflicts later during content assembly, please **do not** merge updates from `main` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. 
-|
+| By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry <br><br> Note for TWs and Messaging Leads: to avoid potential merge conflicts later during content assembly, please **do not** merge updates from `main` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. |
 | 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, deprecations, removals, and upgrades) as release post items in the `/data/release_posts/unreleased` directory. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for deprecations, removals, and upgrades as release post items in the `/data/release_posts/unreleased` directory.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
-| by the 15th | **EMs, PMs and PDs** contribute to MRs for Usability, Performance Improvements and Bug Fixes. 
-
-**Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release.
-| 
+| by the 15th | **EMs, PMs and PDs** contribute to MRs for Usability, Performance Improvements and Bug Fixes. <br><br> **Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. |
 | by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs
 | by the 17th | **EMs** merge MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring content blocks for usability, performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Messaging lead** picks a top features and/or themes to highlight and finalizes the introduction content |
@@ -1406,9 +1402,9 @@ deprecations:
 The `due` field is defined by the future removal of that feature. The field is required, and should be set as:
 
 - The date of the removal, e.g., "May 22nd, 2017", or
-- An upcoming release (_only_ if the release date in unknown), e.g., "GitLab 12.0", or
+- An upcoming release (_only_ if the release date is unknown), e.g., "GitLab 12.0", or
 - An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
-- An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
+- An estimation of the removal release (_only_ if the release date is unknown), e.g., "GitLab 12.0 (estimated)"
 
 - `available_in`: availability of that feature in GitLab
 
@@ -1424,7 +1420,7 @@ If you have multiple deprecation notices for your category, then you can choose 
 
 No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
 
-Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
+Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backwards compatible and breaking changes are recommended for a major release, whereas backwards-compatible changes can be introduced in a minor release.
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
@@ -1860,7 +1856,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
 
 [Video walkthrough of the process](https://youtu.be/GxKooIAknM8)
 
-1. The VP of Product Management will identify the 3-7 topics for [What's New](LINK to some kind of feature over view or documentation of what's new feature for reference) each release as part of the their final review.
+1. The VP of Product Management will identify the 3-7 topics for [What's New] each release as part of the their final review.
      - What gets highlighted in the What's new can but does not have to align with the primary features and/or theme of the release post.
      - If the VP of Product Management wants to solicit feedback on their selection from the PM team, they can do so by posting in Slack #release-post.
 1. The VP of Product Management will create the What's New .yml file in  `gitlab/data/whats_new` directory of the `gitlab.com/gitlab-org/gitlab` project
