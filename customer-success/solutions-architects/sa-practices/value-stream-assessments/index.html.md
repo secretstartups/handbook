@@ -52,11 +52,11 @@ A successful Value Stream Assessment requires a commitment to the exercise by th
 #### Key Benefits
 
 - Discovery and documentation of the software delivery value stream or "path to production" currently in place
-  - Establish a baseline of which to measure software delivery performance progress
+  - Establish a baseline from which to measure progress of software delivery performance
   - Identify manual configuration touchpoints and handoffs and other value stream bottlnecks 
   - Create a process improvement roadmap
   - Understand the return on investment of a value delivery platform 
-  - Promote collaboration amongst traditionally silo'd functions within the DevOps lifecycle 
+  - Promote collaboration amongst traditionally silo'd functions within the DevSecOps lifecycle 
 
 After the prospect or customer understand the process and it's benefits, confirm commitment from the stakeholders and exercise participants by scheduling the facilitated exercise and/or interviews.  Estimate the duration of the assessment and set the expectation that the documented value stream, recommendations, and readout will be delivered.
 
