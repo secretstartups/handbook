@@ -80,3 +80,59 @@ The backend work for integration will be primarily handled by the [Applied ML](h
 * Milestone 1 [Reviewer/maintainer assignment architectural plan and PoC](https://gitlab.com/groups/gitlab-org/-/epics/5794)
 * Milestone 2 [Customer facing MVC of integration of unreview](https://gitlab.com/groups/gitlab-org/-/epics/6113)
 * Milestone 3 [Extend MVC and create plan for unreview functionality for self-hosted customers](https://gitlab.com/groups/gitlab-org/-/epics/6114)
+
+## Milestone 1
+
+### Overview
+
+Milestone 1 focuses on creating an UnReview proof-of-concept that works like [Reviewer Roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) based on the GitLab product code. This milestone retains the existing UnReview functionality but requires a number of changes to the architectural components of the approach. 
+
+The following tasks have to be completed:
+
+* Move Azure and GitHub-hosted aspects of UnReview to GCP.
+* Implement UnReview code and dependent components in the GitLab managed GCP instance.
+* Replace the small number of libraries with undesirable open-source licenses.
+* Demonstrate UnReview on the GitLab codebase and compare/contrast with existing Reviewer-Roulette. 
+
+More information on Milestone 1 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/5794).
+
+## Milestone 2
+
+### Overview
+
+Milestone 2 focuses on providing the UnReview functionality to GitLab.com customers and for dogfooding at GitLab. At this milestone, UnReview should be able to connect to a provided project, automatically extract/process data, and periodically retrain the ML models to improve code reviewer recommendations. GitLab.com customers will start seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models.
+
+To support GitLab.com customers: 
+
+* Code reviewer recommendations should be implemented behind the feature flag, disabled by default.
+* Integrate the UnReview UI into the GitLab product following the MVC pattern.
+* Make it possible to compare UnReview with existing methods by providing recommendations in a comment.
+* Add the option to automatically assign reviewers recommended by UnReview.
+
+To support dogfooding at GitLab: 
+
+* Start the dogfooding process.
+* Make UnReview available to replace or exist alongside Review Roulette for GitLab projects.
+* Automatically assign reviewers recommended by UnReview.
+
+More information on Milestone 2 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/6113).
+
+## Milestone 3:
+
+### Overview:
+
+Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as providing similar functionality to self-hosted customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
+	
+To support GitLab.com customers:
+
+* Make the feature flag enabled by default and available to customers GA via configuration options in the GitLab user interface.
+* Automatically assign reviewers when the feature flag is enabled.
+
+To support self-hosted customers:
+
+* Determine self-hosted performance concerns as it relates to performance and storage requirements in the customer-hosted environment and at customers that intentionally have no internet connectivity.
+
+More information on Milestone 3 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/6114).
+
+
+
