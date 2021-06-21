@@ -305,7 +305,7 @@ responsibility, willingness of GitLab team-members to teach new GitLab team-memb
 1. Refine the hiring process.
   * We have revamped our [hiring process](/handbook/hiring/) to be more efficient. Our global recruiters are working hard to ensure that every candidate is kept in the loop about where they stand in the hiring process, and managers are not spending too much time in Lever reviewing candidates. If you have any questions please feel fee to reach out on the `#hiring` channel on Slack.
 1. Refine the compensation principles.
-  * Please check out our [Global Compensation Framework](/handbook/people-group/global-compensation-framework/). If you have any questions or concerns about the compensation principles, please let People Ops know!
+  * Please check out our [Global Compensation Framework](/handbook/total-rewards/compensation/). If you have any questions or concerns about the compensation principles, please let People Ops know!
 1. Focus on differentiating CE from EE.
   *  We plan to build features that are interesting for enterprises and replace existing products.
 1. Focus on growth of GitLab team-members within the organization.
