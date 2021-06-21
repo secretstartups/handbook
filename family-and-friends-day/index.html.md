@@ -26,7 +26,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 
 ## Past Family and Friends Days
 
-1. The first Family and Friends Day (formerly known as Family and Friends Day) was `2020-05-01`.
+1. The first Family and Friends Day was `2020-05-01`.
 1. Due to its success in reinforcing our message and supporting team member wellness, the second Family and Friends Day was held on `2020-06-12`.
 1. A third Family and Friends Day was held on `2020-08-14`.
 1. A fourth Family and Friends Day was held on `2020-10-09`.
