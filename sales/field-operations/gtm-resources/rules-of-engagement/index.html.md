@@ -1,6 +1,6 @@
-
+---
 layout: handbook-page-toc
-title: "Go to Market"
+title: "Go to Market Rules of Engagement"
 description: "Rules of Engagement"
 ---
 
