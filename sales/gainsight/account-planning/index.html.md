@@ -112,6 +112,13 @@ _Note: Only 5,000 Accounts can be tracked at at time. To request an account be a
       - Profile with special characters cannot be tracked unless a request is submitted to Gainsight Customer Support.
 1. For more detail on how Sponsor Tracking works, please [read this article](https://support.gainsight.com/SFDC_Edition/View_More_Categories/Sponsor_Tracking/User_Guides/How_to_Use_Sponsor_Tracking#Changes_in_Tracked_Contacts) from Gainsight. 
 
+### Available Courses 
+
+- [Account Planning in Gainsight: The Account Snapshot](https://gitlab.edcast.com/pathways/ECL-5c4a6b55-f0cc-4a15-b445-6b46b2824a1f)
+- [ Account Planning in Gainsight: Relationship/ Influence Mapping](https://gitlab.edcast.com/insights/ECL-6f45dc9d-d9f8-4d9c-be2d-3a13f6bbe148)
+- [Account Planning in Gainsight: Whitespace Mapping](https://gitlab.edcast.com/insights/ECL-15299b51-9d03-4a43-ac47-1a8ffd544c2d)
+- [Account Planning in Gainsight: The Action Plan](https://gitlab.edcast.com/insights/ECL-972e933a-3768-4f4a-8784-ed1ba62dbf2d#)
+
 ### Video Enablement 
 
 - [Gainsight Kickoff and Demo](https://www.youtube.com/watch?v=Xhor2IIsCQQ)
