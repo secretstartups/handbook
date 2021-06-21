@@ -51,7 +51,7 @@ While it can sometimes make support interactions more difficult or frustrating, 
 
 #### Enterprise Users
 
-As of 2021-02-01 when our terms were last updated, when a user meets the definite of an **enterprise user**, information can be shared and actions can be taken based on a *top-level group owner's* request.
+As of 2021-02-01 when our terms were last updated, when a user meets the definition of an **enterprise user**, information can be shared and actions can be taken based on a *top-level group owner's* request.
 
 However, in situations where [proof of account ownership is required](account_verification.html), then a request is still required from the relevant user, not just the group owner.
 
