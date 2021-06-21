@@ -294,7 +294,6 @@ The shared services and components below are extracted from the GitLab [product 
 | Logrotate |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | Mattermost |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) | Distribution team is responsible for packaging and upgrading versions. Functional issues can be directed to the vendor. |
 | MinIO |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
-| NFS |  |  |  |  |  |
 | NGINX |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
 | Object Storage |  | Decentralized |  |  | Some issues can be broken down into group-specific issues. Some issues may need more work identifying user or developer impact in order to find a DRI. |
 | Patroni | General except Geo secondary clusters | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
@@ -302,10 +301,10 @@ The shared services and components below are extracted from the GitLab [product 
 | PgBouncer |  | Centralized with Specific Team | @mendeni | [Distribution](/handbook/engineering/development/enablement/distribution/) |  |
 | PostgreSQL | PostgreSQL Framework and Tooling | Centralized with Specific Team | @craig-gomes | [Database](/handbook/engineering/development/enablement/database/) | Specific to the development portion of PostgreSQL, such as the fundamental architecture, testing utilities, and other productivity tooling |
 |  | GitLab Product Features | Decentralized |  |  | Examples like feature specific schema changes and/or performance tuning, etc. |
-| Prometheus |  |  |  |  |  |
+| Prometheus |  | Decentralized |  |  | Each group maintains their own metrics.  |
 | Puma |  | Centralized with Specific Team | @craig-gomes | [Memory](/handbook/engineering/development/enablement/memory/) |  |
-| Redis |  |  |  |  |  |
-| Sentry |  |  |  |  |  |
+| Redis |  | Decentralized |  |  | DRI is similar to Sidekiq which is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
+| Sentry |  | Decentralized |  |  | DRI is similar to GitLab Rails which is determined by the feature category specified in the class. [app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/controllers) and [ee/app/controllers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/controllers) |
 | Sidekiq |  | Decentralized |  |  | DRI for each worker is determined by the feature category specified in the class. [app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/app/workers) and [ee/app/workers](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/app/workers) |
 | Workhorse |  | Centralized with Specific Team | @sean_carroll | [Create:Source Code](https://about.gitlab.com/handbook/engineering/development/dev/create/source-code-be/) |  |
 
