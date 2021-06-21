@@ -27,21 +27,21 @@ Additionally our team of generalists are equally able to support queries and req
 
 #### Our Team
 
-People Connect it comprised of both generalists and specialists from within the People Operations fold - all of whom have a broad knowledge of all things people within the context of our unique all-remote environment.  
+People Connect is comprised of both generalists and specialists from within the People Operations fold - all of whom have a broad knowledge of all things people within the context of our unique all-remote environment.  
 
 The team collaborates intensively with various internal and external stakeholders to ensure that the GitLab Handbook is consistently maintained, working to ensure that all employment-related information is easily accessible to all whether entity-based or through a PEO.
 
 #### Methods of Engagement
 
-GitLab remains a Handbook First organization however in instances where the answer to a people-related question is not apparent the next port of call would be People Connect. 
+GitLab remains a Handbook First organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect. 
 
 In the interests of [knowledge sharing](https://about.gitlab.com/handbook/values/#findability) and [transparency](https://about.gitlab.com/handbook/values/#transparency) team members are encouraged to use **#people-connect** [by default](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) when initiating an interaction with the team.
 
-Should the interaction include **personal data or potentially sensitive information** team members **must** rather direct message the **People Connect Bot** which can be found by searching within the 'apps' section of Slack which can be found at the op and bottom of the left pane.
+Should the interaction include **personal data or potentially sensitive information** team members **must** direct message the **People Connect Bot** which can be found by searching the 'apps' section of Slack. This can be found at the bottom of the left pane.
 
 #### What to Expect
 
-Once a team member has submitted a question or request using one of the two available methods of engagement they can anticipate acknowledgement in the thread of their original interaction within ≤ 24 hours.
+Once a team member has submitted a question or request using one of the two available methods of engagement, they can anticipate acknowledgement in the thread of their original interaction within ≤ 24 hours.
 
 People Connect rests on a tiered model which categorizes inbound queries and requests according to nature and complexity this in turn should guide the anticipated resolution time unless otherwise specified by the responding generalist.
 
