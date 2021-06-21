@@ -226,6 +226,7 @@ Look at the '.com and Self Managed NRT SLA achieved charts' for this week and la
 ---
 
 ## First Response Time Hawk (If relevant in your region)
+{: #first-response-time-hawk}
 
 ### What is a First Response Time Hawk?
 
@@ -272,6 +273,7 @@ You can track your progress and see global results on this [Zendesk Explore Dash
 ---
 
 ## SLA Hawk (If relevant in your region)
+{: #sla-hawk}
 
 ### What is the SLA Hawk role?
 
