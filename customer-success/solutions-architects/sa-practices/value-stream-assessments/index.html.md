@@ -64,8 +64,51 @@ After the prospect or customer understand the process and it's benefits, confirm
 
 - Facilitation
 - Tools
-- Inspection Workflows
+- Workflows
 - Questions
+
+#### Facilitation
+
+TODO
+
+#### Tools
+
+- Remote:
+  - Mural or Lucid charts for real-time collaboration
+  - Zoom, MS Teams or Google Meet
+- Onsite:
+  - Stickies
+  - Pens
+  - Large whiteboard
+
+#### Workflows
+
+1. Idea to Production
+2. Response to Production Incident
+3. Toolchain Upgrading and Maintenance
+
+##### Idea to Production
+
+![Idea to Production](workflow-01.png)
+
+##### Response to Production Incident
+
+![Response to Production Incident](workflow-02.png)
+
+##### Toolchain Upgrading and Maintenance
+
+![Toolchain Upgrading and Maintenance](workflow-03.png)
+
+#### Questions
+
+Discovery Questions for each worflow:
+
+1. Workflow 01: Idea to Production
+  - TODO: Adrian & Michael
+2. Workflow 02: Response to Production Incident
+  - TODO: Gronk & Sri
+3. Workflow 03: Toolchain Upgrading and Maintenance
+  - TODO: Simon & Robbie
 
 ### Summarize the Findings
 
@@ -80,6 +123,3 @@ In the spirit of collaboration and iteration, please help to continuously improv
 - Provide feedback and/or updates to the pitch deck or provide links to your own variations
 - Provide links to your facilitation recordings, summary documentation, and/or other artifacts to this page
 - Collaborate in the **#value-stream-discovery** slack channel
-
-
-[
