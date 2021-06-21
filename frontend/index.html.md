@@ -32,7 +32,7 @@ Do you have a question concerning the frontend for a product area? As a product 
 - Source Editor - [Denys Mishunov](/company/team/#mishunov)
 
 Technical:
-- Testing - [Illya Klymov](/company/team/#xanf), [Paul Slaughter](/company/team/#pslaughter), [Roman Kuba](/company/team/#rkuba)
+- Testing - [Illya Klymov](/company/team/#xanf), [Paul Slaughter](/company/team/#pslaughter) 
 - UI Components - [Clement Ho](/company/team/#ClemMakesApps), [Enrique Alcántara](/company/team/#ealcantara)
 - Webpack + Tooling - [Mike Greiling](/company/team/#mikegreiling)
 - NPM Dependency Janitor - [Lukas Eipert](/company/team/#leipert)
