@@ -241,7 +241,7 @@ To assign the engineering team member, contact the engineering manager of the re
 
 ## Acquisitions Are Confidential
 
-At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis.
+At GitLab, we treat all acquisition discussions as confidential and share any information internally on a need-to-know basis. We apply [compartmentalization](https://en.wikipedia.org/wiki/Compartmentalization_(information_security)) for the various topics coming up during the acquisition process in order to maintain confidentiality and reduce unncessary exposure. 
 
 To ensure confidentiality during the acquisition process, we assign code names to each potential transaction once we enter the Early Diligence stage.
 
@@ -250,7 +250,7 @@ To maintain confidentiality, we follow the following guidelines:
 1. When creating a new acquisition slack channel:
     1. Set the channel topic to: "This channel is confidential. Please confirm with acquisition lead `name here` before inviting people to the channel or related docs."
     1. Set the channel description to: "Please review our [acquisition handbook and process](/handbook/acquisitions/acquisition-process/) to familiarize yourself with our approach to acquisitions. Please review the confidentiality section of the process and our guidelines".
-1. We strive to keep the number of people involved in an acquisition as small as possible to reduce legal exposure and maintain a low potential risk.
+1. We strive to keep the number of people involved in an acquisition as small as possible to reduce legal exposure and maintain a low potential risk. If more members are required to be brought into the acquisition for a discussion limited to a specific topic, and do not need to be involved with the wider engagement, we create dedicated, single-topic channel, and add the relevant parties to it.
 1. If you're part of an acquisition Slack channel, Google Doc, or other internal GitLab discussion and would like to invite another GitLab team member to one of those, please confirm with the acquisition lead before doing so.
 1. We collect all notes on an acquisition in the main acquisition doc shared on the topic of the acquisition's slack channel. If you must create a new document, make sure it is set to invite-only and add the relevant people manually. That document needs to be kept inside the acquisition G-Drive folder on the Corporate Development Shared Drive.
 1. Everyone involved in the project should use the code name in place of the actual company name in all communication about the deal until it is publicly announced.
