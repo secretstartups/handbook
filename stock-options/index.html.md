@@ -343,22 +343,6 @@ exercise price reduces the cash required to exercise the shares and establish a 
 period which can have tax advantages in some countries. We describe those in this document
 but as always check with your financial or tax advisor before taking any action.
 
-## 409A Valuations
-
-| **Time Period**          | **409a**                                 | **Most Recent Preferred**            |
-| :----------------------- | :--------------------------------------- | :----------------------------------- |       
-| August 31, 2015 to       | $0.07                                    | $0.36                                |
-| September 13, 2016 to    | $0.28                                    | $0.95                                |
-| October 27, 2017 to      | $0.65                                    | $1.79                                |
-| September 30, 2018 to    | $4.12                                    | $8.76                                |
-| September 30, 2019 to    | $8.90                                    | $18.63                               |
-| March 5, 2020 to         | $11.06                                   | $18.63                               |
-| May 1, 2020 to           | $9.06                                    | $18.63                               |
-| September 9, 2020 to     | $9.99                                    | $18.63                               |      
-| December 1, 2020 to      | $16.71                                   | $40.00                               |
-| March 1, 2021 to         | $17.82                                   | $40.00                               |
-
- 
 ## Taxes
  
 Tax law is complex and you should consult a tax attorney or other tax advisor who is
