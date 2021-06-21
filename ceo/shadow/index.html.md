@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-06-14 | 2021-06-18 | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial |
 | 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect |
 | 2021-06-28 | 2021-07-01 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
 | 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
