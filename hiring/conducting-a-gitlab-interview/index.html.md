@@ -179,3 +179,8 @@ Scoring is defined as follows:
   * Extends `No`
   * The candidate demonstrated clear opposition to either our Collaboration, Diversity, or Results values
   * The candidate demonstrated unwillingness to learn our Efficiency, Iteration, or Transparency values
+
+  ### Frequently Asked Questions (FAQ)
+
+* My Zoom link isn't working, who can help?
+  * This is common occurance due to a Zoom configuration issue. You can share a new Zooom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occuring in the future. 
