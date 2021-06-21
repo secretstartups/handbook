@@ -177,7 +177,7 @@ Automatically adds and removes team members to EdCast to avoid manual work for t
 
 **Synopsis:**
 
-Automatically fetches status updates from program epics and rolls them up into one single status issue. This reduces manual work for teams as they prepare status rollups. [Learn more about Rolly](/business-technology/how-we-work/rolly).
+Automatically fetches status updates from program epics and rolls them up into one single status issue. This reduces manual work for teams as they prepare status rollups. [Learn more about Rolly](/handbook/business-technology/how-we-work/rolly/).
 
 **Impacted team(s):**  
 
