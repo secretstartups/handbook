@@ -329,12 +329,14 @@ Fees under this Agreement are exclusive of any and all taxes or duties, now or h
 The payment for the use of GitLab's software can be subject to any indirect taxes, taking into consideration the local indirect tax requirements. Please be aware that GiLab might charge any related indirect taxes, without prior notice, as a consequence of a required tax registration obligation for GitLab. Based on the local regulations, output indirect taxes charged by GitLab are generally claimable as input tax on the customer’s indirect tax return. 
 
 Please be aware Gitlab is currently collecting indirect taxes in the following locations:
+
 As resident:
 * USA (depending on state rules)
 * The Netherlands
 * Germany
 * Australia
 * The United Kingdom
+
 As non-resident:
 * South Africa
 * Russian Federation
