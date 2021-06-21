@@ -113,7 +113,7 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 * Influence and implement our service level framework [SLOs](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source) and SLAs for our data sources and data services
 * Identifies changes for the product architecture and from third-party services from the reliability, performance and availability perspective with a data driven approach focused on relational databases, knowledge of another data storages is a plus
 * Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make compute queries cheaper
-* Participate in [Data Quality Process](/handbook/business-ops/data-team/data-quality-process/) or other data auditing activities
+* Participate in [Data Quality Process](/handbook/business-technology/data-team/data-quality/) or other data auditing activities
 
 ## Specialties
 
