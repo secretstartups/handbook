@@ -13,7 +13,7 @@ title: Value Stream Assessments
 # Value Steam Assessments
 {:.no_toc}
 
-When working with GitLab, many prospects and customers have software delivery performance improvement as a critical business outcome. Unfortunately, due to the inherent and increasing complexity in the software delivery process, an organization's software delivery value stream often consists of dozens, if not hundreds of, manual configuration touch points and handoffs.    Usually, there is a lack of understanding and visibility into the current process, making it challenging to identify and measure software delivery improvements.  Without understanding the current value stream, organizations risk slower progress in improving their software delivery performance.
+When working with GitLab, many prospects and customers have software delivery performance improvement as a critical business outcome. Unfortunately, due to the inherent and increasing complexity in the software delivery process, an organization's software delivery value stream often consists of dozens, if not hundreds, of manual configuration touch points and handoffs.    Usually, there is a lack of understanding and visibility into the current process, making it challenging to identify and measure software delivery improvements.  Without understanding the current value stream, organizations risk slower progress in improving their software delivery performance.
 
 Where applicable, GitLab account teams should assist prospects and customers by providing a lightweight assessment of their value stream.  The content on this page outlines the approaches, tools, and artifacts used to conduct a value stream assessment for our prospects and customers.  By creating a better understanding of the current process by identifying bottlenecks and establishing a baseline measurement of software delivery performance, GitLab can ensure our prospects and customers can realize improvements more quickly and continuously.
 
@@ -28,20 +28,20 @@ Where applicable, GitLab account teams should assist prospects and customers by 
 
 ### Qualify
 
-Value stream assessments require an investment of time by both the GitLab field teams and our prospect and customers.  To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
+Value stream assessments require an investment of time by both the GitLab field teams and our prospects and customers.  To ensure the appropriate return on this investment of time, the opportunities should meet the following criteria:
 
 - The account has a total addressable market of at least 1000 GitLab users
-- The prospect or customer is focused on improving thier software delivery performance 
+- The prospect or customer is focused on improving their software delivery performance 
 - We have a relationship with stakeholders that have the authority to make a decision on the purchase of GitLab
 
-Key indicators that the opportunity is well suited include.
+Key indicators that the opportunity is well suited include:
 
 - There is a specific initiative to accomplish one or more of the following by a specific date
   - Modernize a specific application or applications
   - Deliver a new critical application to the market
-  - Transform or objectiely improve their ability to deliver software
+  - Transform or objectively improve their ability to deliver software
   - Modernize their DevOps capabilities
-- The customer is currently using some features of GitLab and interested in how leveraging more of the platform will drive software delivery outcomes
+- The customer is currently using some features of GitLab and is interested in how leveraging more of the platform will drive software delivery outcomes
 
 ### Education and Commitment
 
