@@ -206,7 +206,7 @@ This will create a one time only charge to the customer and in a year's time, th
 
 Annual revenue opportunity of the [entirety of GitLab’s market](/handbook/sales/tam).
 The potential value of everyone worldwide that could purchase our product.
-Both TAM and [LAM](landed-addressable-market-lam) can be scoped globally, by region/market segment, or customer-specific.
+Both TAM and [LAM](#landed-addressable-market-lam) can be scoped globally, by region/market segment, or customer-specific.
 
 ### Landed Addressable Market (LAM)
 
