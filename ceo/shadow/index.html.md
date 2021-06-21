@@ -56,7 +56,7 @@ Other names considered:
 <!-- blank line -->
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=ExG8_bnIAMI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/ExG8_bnIAMI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <!-- blank line -->
