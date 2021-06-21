@@ -1382,7 +1382,7 @@ extras:
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-A deprecation is an annoucement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
 Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
 ```yaml
@@ -1397,14 +1397,12 @@ deprecations:
 
 `feature_name` should follow the structure of "XYZ feature or function will be deprecated at ABC time."
 
-
-
 The `due` field is defined by the future removal of that feature. The field is required, and should be set as:
 
 - The date of the removal, e.g., "May 22nd, 2017", or
-- An upcoming release (_only_ if the release date in unknown), e.g., "GitLab 12.0", or
+- An upcoming release (_only_ if the release date is unknown), e.g., "GitLab 12.0", or
 - An estimation of the removal date, e.g., "January 22nd, 2019 (estimated)", or
-- An estimation of the removal release (_only_ if the release date in unknown), e.g., "GitLab 12.0 (estimated)"
+- An estimation of the removal release (_only_ if the release date is unknown), e.g., "GitLab 12.0 (estimated)"
 
 `description` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation.
 
@@ -1415,7 +1413,7 @@ If you have multiple deprecation notices for your category, then you can choose 
 
 No other changes are required and the `features.yml` file should not be edited until the feature is removed from the product.
 
-Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backward compatible and breaking changes are recommended for a major release, whereas backward compatible changes can be introduced in a minor release.
+Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.html#versioning), non-backwards compatible and breaking changes are recommended for a major release, whereas backwards-compatible changes can be introduced in a minor release.
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage.
 
