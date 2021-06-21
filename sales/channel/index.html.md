@@ -20,6 +20,25 @@ The GitLab Partner Program enables partners — including systems integrators, c
 
 The purpose of this page is to provide the GitLab Sales team insights on the GitLab channel partner community and how to best work with our partners.
 
+# Gitlab Channel 3 Year Vision
+
+1. Diversified RTM channel that accelerates, supports a $1B+ ARR business.  
+
+2. Channel delivers incremental revenue of 30% Net ARR partner sourced and up to 90% total NET ARR transacted via channel. 
+
+3. Channel leads & operates independently for 30% of Net ARR (Commercial segment only) and operates independently for all of SMB (via Channel or web)
+
+4. Channel delivers 85% of available services attached to Gitlab customers in the market. Made up of a network of SIs, MSPs and 2 Tier models with focused DevSecOps practices. 
+
+5. Channel has recruited 25-50% of close indsutry channel (GitHub, Jenkins, Atlassian, Cloud Bees). 
+
+6. GitLab Channel is selling through multi-cloud offerings embracing “Cloud Strategy” first methodology
+    - 50% of the AWS & GCP Channel Partners 
+    - 30-50% of the Azure Channel Partners   
+
+7.  Gitlab has 2-3 large ($25M+ ARR plus) GSI/FSI Gitlab focused practices.
+
+
 Additional related channel resources:
 
 
