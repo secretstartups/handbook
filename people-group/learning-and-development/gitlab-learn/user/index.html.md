@@ -43,7 +43,7 @@ When you log on to [GitLab Learn](https://gitlab.edcast.com/) for the first time
 
 Use the following URL to access the GitLab Learn Platform: [gitlab.edcast.com](https://gitlab.edcast.com/)
 
-Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
+Below is a [first time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
