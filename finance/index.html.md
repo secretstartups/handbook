@@ -40,7 +40,7 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 ## Forms
 
-[Link to W9 Doc](https://drive.google.com/a/gitlab.com/file/d/1rYXpKfCTKES1iLif8gjQ_ApwXqA611ic/view?usp=sharing)
+[Link to W9 Doc](https://drive.google.com/file/d/1QGmfhKSSR3jub3VKkXcUEaW6NJefr4QQ/view?usp=sharing)
 
 [Link to form CA-590](https://drive.google.com/a/gitlab.com/file/d/0BzE3Rq8kSQ6Tcmp3a19xcFBZOWs/view?usp=sharing)
 
