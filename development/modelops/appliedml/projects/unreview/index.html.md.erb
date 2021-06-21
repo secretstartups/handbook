@@ -20,5 +20,12 @@ In a small project, finding an appropriate code reviewer isn't a big issue. This
 
 UnReview recommends reviewers, considering their experience in the part of the source code proposed by a merge request. UnReview is able to resolve the cold start problem, i.e., when the proposed source code is unknown to the recommendation engine, and it additionally tries to balance the review load across the team. Future versions will also consider the context of the merge request, i.e., which source code has been exactly changed and how it affects other parts of the project.
 
-Today, UnReview is an early-stage technology.  However, significant testing and validation has been done on production data. After the [acquisition](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html) is complete, we continue to work on the approach at GitLab via iteration.
+Today, UnReview is an early-stage technology.  However, significant testing and validation has been done on production data. After the [acquisition](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html) is complete, we continue to work on the approach, integrating UnReview into GitLab via iteration.
 
+### Integration into GitLab
+
+The backend work for integration will be primarily handled by the [Applied ML](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/) team with help from the infrastructure team.  The frontend work will be by both the Applied ML team and the `Create::code review` team (PM [Kai Armstrong](https://about.gitlab.com/company/team/#phikai) and EM [André Luís](https://about.gitlab.com/company/team/#andr3)).
+
+* Milestone 1 [Reviewer/maintainer assignment architectural plan and PoC](https://gitlab.com/groups/gitlab-org/-/epics/5794)
+* Milestone 2 [Customer facing MVC of integration of unreview](https://gitlab.com/groups/gitlab-org/-/epics/6113)
+* Milestone 3 [Extend MVC and create plan for unreview functionality for self-hosted customers](https://gitlab.com/groups/gitlab-org/-/epics/6114)
