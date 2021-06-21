@@ -266,17 +266,23 @@ Candidates for this position can expect the hiring process to follow the order b
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
  
 ## Performance Indicators
-* [Relevant Product Performance Indicators](https://about.gitlab.com/handbook/product/performance-indicators/#structure)
-* [Product KPI's](/handbook/business-ops/data-team/metrics/#product-kpis)
+Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
+1. Their [relevant Product Performance Indicators](/handbook/product/performance-indicators/#structure)
+1. Our global [Product KPIs](/company/kpis/#product-kpis)
+1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
+1. Hiring versus plan and [new hire location factor](/handbook/product/performance-indicators/#new-hire-location-factor)
+1. IACV attained by assigned [use case](/handbook/use-cases/#specific-use-cases) as designated in `Why GitLab` of opportunity [Command Plans](/handbook/sales/command-of-the-message/command-plan/) ([Dashboard](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback)).
 
-### Leadership-levels Performance Indicators 
+In addition, some roles have role-specific activities and performance indicators.
 
-* Product Managers job satisfaction (Coming Soon) 
-* IACV attained by [use case](https://about.gitlab.com/handbook/use-cases/#specific-use-cases) as captured in the [Command Plan](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback) 
+### Group Manager
+
+#### Activities
+
 * Completion of competitive analysis of [product adjacencies](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/grow-fast-or-die-slow-pivoting-beyond-the-core#) 
 * Delivery of cross-stage adoption Opportunity Canvases, such as [Why SCM users do not adopt CI?](https://docs.google.com/document/d/10AqH6kh1b1wSV61e9Hi3XQiLvt3zzdGxhq0Pi4T5m1U/edit#heading=h.4mt5fmtn0ax4)
 
-#### Group Manager Performance Indicators 
+#### Performance Indicators 
 
 * 1 per quarter adjacencies analysis for Stage OR 
 * 1 per quarter cross-stage opportunity canvas 
