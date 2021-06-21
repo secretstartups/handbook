@@ -54,7 +54,7 @@ All Responsibilities are listed in the [People Compliance job family page](https
 
 ## How we work
 
-Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/blob/master/.gitlab/issue_templates/compliance_request.md) and we will review and prioritize.
+Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/issues/new?issue) and we will review and prioritize.
 
 ### Labels
 
