@@ -71,7 +71,7 @@ Collaborate with Senior leadership to ensure financial and operational goals are
 
 ## Career Ladder
 
-The next steps for the Professional Services Education Family would be to move to the [Director, Professional Services](/sites/uncategorized/source/job-families/sales/director-of-professional-services) Job family.
+The next steps for the Professional Services Education Family would be to move to the [Director, Professional Services](/job-families/sales/director-of-professional-services/) Job family.
 
 ## Hiring Process
 
