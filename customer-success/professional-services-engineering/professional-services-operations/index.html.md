@@ -17,7 +17,7 @@ ___
 
 #### How to contact us
 
-Our Team Slack Channel [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) 
+Our [Team Slack Channels](working-with#slack)
 
 The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 
