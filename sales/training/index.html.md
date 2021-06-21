@@ -132,6 +132,6 @@ Live customer success enablement videocasts are held every Wednesday, and delive
 Similar sessions are held for GitLab’s SDR team every Wednesday from 12:30-1:00pm ET. Learn more [here](/handbook/sales/training/sdr-coaching).
 
 # **Additional Notes**
-*  Learn about GitLab customer training on the [GitLab Training Tracks site](/training/)
+*  Learn about GitLab customer training on the [GitLab Training Tracks site](/learn/)
 *  Learn about the [weekly GitLab Sales Enablement webcast series](/handbook/marketing/strategic-marketing/enablement/)
 *  Learn about the [weekly GitLab SDR Enablement webcast series](/handbook/marketing/strategic-marketing/enablement/#xdr-bdrsdr-coaching)
