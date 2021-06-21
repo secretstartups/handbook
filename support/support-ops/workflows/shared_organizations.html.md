@@ -23,7 +23,7 @@ options available to this are:
 
 In addition, end-users can also have a heightened permission set that allows
 them to view all tickets in their organization. For more information on that,
-see [editing_end_users.html](Editing end-users).
+see [Editing end-users](/handbook/support/support-ops/workflows/editing_end_users.html).
 
 ## Process
 
