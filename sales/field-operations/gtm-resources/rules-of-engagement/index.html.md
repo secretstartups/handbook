@@ -1,8 +1,14 @@
 ---
 layout: handbook-page-toc
-title: "Go to Market Rules of Engagement"
+title: "[Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) Rules of Engagement"
 description: "Rules of Engagement"
 ---
+
+### Objectives  
+1. Account Ownership Rules of Engagement
+2. Opportunity Ownership Rules of Engagement 
+3. Opportunity Order Type Rules of Engagement 
+For more information on terms and other sales information, GitLab's [Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) page is also available for view. 
 
 
 ### Account Ownership Rules of Engagement 
@@ -112,6 +118,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     - For accounts with known attributes (employees and location), the account gets routed to the correct owner via the TSP process.  Twice weekly Sales Operations reviews the corresponding opportunity and updates the Opportunity owner to match the Account owner (unless exceptions apply).  
     - For accounts without known attributes (employees and location not identified), the account and corresponding opportunity are manually reviewed by Sales Operations twice weekly and assigned to the correct owners. 
         - If Sales Operations is unable to identify enough attributes to correctly assign the account or opportunity, they will remain in Sales Admin owned and allocated to SMB for crediting.
+
 
 ### Opportunity Order Type Rules of Engagement 
 **Understanding Order Type Assignment, Rules and Definitions**
