@@ -67,4 +67,7 @@ If you are using Safari as your preferred browser, ensure `Prevent cross-site tr
 
 ## Google Analytics
 
-PathFactory is integrated with our Google Analytics instance via the Google Analytics Tracking ID in PathFactory's `Organization Settings` menu. The integration sends visitor engagement data to Google Analytics. See more info about this integration in the [knowledgebase article](https://nook.pathfactory.com/nook/s/article/google-analytics-pathfactory-integration).
+PathFactory is integrated with our Google Analytics instance via Google Tag Manager script in PathFactory's `External Code Configuartion` menu. The integration sends page view data to Google Analytics after the user consents to cookies.
+
+1. `MOps: GTM head`
+1. `MOps: GTM bottom`
