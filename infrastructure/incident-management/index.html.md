@@ -346,9 +346,15 @@ Status can be set independent of state. The only time these must align is when a
 
 ## Incident Workflow
 
-### Purpose
 
-In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the two paths an incident can take from `open` to `closed`. The two paths are dictated by the severity of the issue, `S1` and `S2` incidents require a review. In certain cases an `S3` or `S4` incident can take the review workflow path. [Details here](/handbook/engineering/infrastructure/incident-review/#review-criteria)
+### Summary
+
+In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the path an incident takes from `open` to `closed`. All `S1` incidents require a review, other incidents can also be reviewed as [described here](/handbook/engineering/infrastructure/incident-review/#review-criteria).
+
+GitLab uses the [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) feature of the GitLab application. Incidents are [reported](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and closed when they are resolved.
+
+If there is additional follow-up work that requires more time after an incident is resolved like a detailed root cause analysis or a corrective action a new issue may need to be created and linked to the incident issue.
+It is important to add as much information as possible as soon as an incident is resolved while the information is fresh, this includes a high level summary and a timeline where applicable.
 
 ### Assignees
 
@@ -364,12 +370,13 @@ In order to help with attribution, we also label each incident with a scoped lab
 
 | **Label** | **Workflow State** |
 | ----- | -------------- |
-| `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned. |
-| `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
-| `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. |
-| `~Incident::Review-Completed` | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
+| `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned when it is opened. |
+| `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.). A mitigated issue means there is the potential for the impact to return. It may be appropriate to leave an incident mitigated while there is an alert silence with an expiration set. |
+| `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and the condition that triggered the alert has been resolved. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. Once an incident is resolved, it should be closed. |
+| `~Incident::Review-Completed` | Indicates that an incident review has been completed, this should be added to an incident after the review is completed if it has the `~review-requested` label. |
 
 #### Root Cause Labeling
+
 Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service attribution, improved understanding of Service behavior. Indicating a single root cause is desirable and in cases where there appear to be multiple root causes, indicate the root cause which precipitated the incident.
 
 The EOC, as DRI of the incident, is responsible for determining root cause.
@@ -425,13 +432,18 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 ### Workflow Diagram
 
 ``` mermaid
-graph TD
-  A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
-  B --> C[Incident::Mitigated]
-  C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
-  D --> |S1 or optional by adding the review-requested label| F[Closed]
-  F --> |for review-requested incidents| G[Incident::Review-Completed]
+  graph TD
+    A(Incident is declared) --> |initial severity assigned - EOC and IMOC are assigned| B(Incident::Active)
+    B --> |Temporary mitigation is in place, or an alert silence is added| C(Incident::Mitigated)
+    B --> D
+    C --> D(Incident::Resolved)
+    D --> |severity is re-assessed| D
+
+    D -.-> |for review-requested incidents| E(Incident::Review-Completed)
 ```
+
+* As soon as an incident transitions to `Incident::Resolved` the incident issue will be closed
+* All `Severity::1` incidents will automatically be labeled with `review-requested`
 
 ### Incident Board
 

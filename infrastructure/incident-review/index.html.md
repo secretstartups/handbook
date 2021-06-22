@@ -101,7 +101,7 @@ Incident Reviews are conducted in the incident issue and their workflow is track
    (coming from this [link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10516#note_375948861))
 
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
-1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the incident review issue can be closed.
+1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the `Incident::Review-Completed` label can be added to the incident.
 
 ## Synchronous Review Meeting Sessions
 
