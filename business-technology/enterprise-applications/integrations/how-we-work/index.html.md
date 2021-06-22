@@ -67,7 +67,7 @@ We may ask you for any of the following documentation, designs, and information 
 **Note:** We don't always have spare Project Management or BSA resources to devote to your project so we may ask for you to assist us in owning in these activities.
 
 #### 3. Milestone Process
-We run 1 month long milestones (sprints) which align with the calendar months (they vary by month length). Our milestone calendar follows a repeating pattern of predictably scheduled rituals:
+We run 1 month long milestones (sprints) which start on the first Tuesday of the month. Our milestone calendar follows a repeating pattern of predictably scheduled rituals:
 
 * Milestone planning session(s) in the week leading up to a new milestone
 * Milestone kickoff
