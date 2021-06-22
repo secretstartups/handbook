@@ -17,7 +17,7 @@ ___
 
 #### How to contact us
 
-Our [Team Slack Channels](working-with#slack)
+Our [Team Slack Channels](/handbook/customer-success/professional-services-engineering/working-with/#slack)
 
 The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 

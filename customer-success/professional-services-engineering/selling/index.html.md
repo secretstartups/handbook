@@ -72,7 +72,7 @@ For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager
 #### Closed Won
 Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
 
-As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the [professional services slack channel](working-with#slack) given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
+As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
 
 #### Transitioned to a Partner - Closed Lost
 Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.

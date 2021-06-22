@@ -36,7 +36,7 @@ The [Professional Services (PS) Engagement Manager](https://about.gitlab.com/job
 ## How to contact or collaborate with us
 
 - Create a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io)
-- [Slack](../working-with#slack)
+- [Slack](/handbook/customer-success/professional-services-engineering/working-with/#slack)
 - Salesforce Chatter
 
 ## Useful Resources
