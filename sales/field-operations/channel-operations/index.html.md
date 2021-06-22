@@ -327,7 +327,7 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
 For opportunities where there are multiple partners bidding on the same opportunity, it’s important that each partner gets the appropriate pricing for the opportunity.
 
 *   The partner with the approved Deal Registration needs to receive the [documented discount for the program](https://gitlab.my.salesforce.com/0694M000008xAk4).
-*   **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided MSRP only.**
+*   **All other partners quoting/bidding on the opportunity do not receive any partner discounts. They should be provided the fulfillment discount only.**
 *   If the deal includes a distribution partner, that distributor receives their contracted margin.
 
 For more information on quoting or the Partner Program, please visit:
