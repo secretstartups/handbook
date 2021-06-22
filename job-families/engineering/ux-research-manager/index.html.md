@@ -18,6 +18,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 #### Responsibilities
 
 - Build and manage a high performing UX Research team.
+- Create an open and collaborative culture based on trust in the UX Research team.
 - Set clear expectations and goals for UX Researchers while holding them accountable for success.
 - Provide clear, actionable feedback and support to develop and grow UX Researchers.
 - Support UX Researcher's career development by ensuring: 1) they each have a Individual Growth Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Individual Growth Plan.
