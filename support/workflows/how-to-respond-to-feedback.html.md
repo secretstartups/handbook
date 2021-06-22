@@ -61,15 +61,32 @@ issue within 7 days of its creation.
 
 ## Handling "Good" Reviews
 
-For each feedback issue labeled "satisfaction::good", read through its comments and:
+For each feedback issue labeled "satisfaction::good":
+1. read through the feedback and check for anything actionable - sometimes customers provide really good actionable feedback in positive reviews
+1. consider sharing the feedback in the Support Week in Review document (see below)
+1. if no further action is needed, `/close` the Feedback Issue.
 
-1. If a specific person is mentioned, add the comment and ticket number to the [Support Week in Review document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit) in the **Kudos** section for the week.
-1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc.
-1. If no further action is needed, `/close` the Feedback Issue.
-
-**Note:** Support Engineers can see the Feedback comments on their tickets, and get notified by ZenDesk when a Feedback comment is added. You do not need to notify them or their managers.
+**Note:** Support Engineers can see the Feedback comments on their tickets, and get notified by Zendesk when a Feedback comment is added. You do not need to notify them or their managers.
 
 **Note:** After 7 days of inactivity, the GitLab Support Bot closes "satisfaction::good" issues.
+
+### Sharing positive feedback in Support Week in Review (SWIR)
+
+**Due Date**: the cut off for content for the SWIR is close of business on your Thursday. Plan to add any ticket feedback before this time. Anything you want to add after this time needs to be added to the content for the following week, to ensure it is included in the audio recording. 
+
+When selecting feedback to share, you don't need to share every piece of positive feedback. Consider the following when choosing what to share:
+
+1. Comments that stand out to you - the ones that you dwell on and smile as you read them
+1. The customer has taken the time to name the individual(s) they appreciated
+1. The customer has described why they were satisfied or how our support improved their day (we get some great stories!)
+1. If there are general sentiments or themes, feel free to congratulate the whole team. For example, if we were praised for our overall approach to support, speed, clarity, etc. 
+1. Is the feedback definitely positive?  Sometimes comments in positive feedback can be neutral or even negative. For example "I would have liked a quicker response", or "I was satisfied" are valuable to us, but they don't really encourage the team when shared in the SWIR. 
+
+#### Formatting feedback in SWIR document
+
+When adding the comment to the [document](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit), add it in the `Kudos From SSAT` section.
+Include the ticket number with a link to the ticket, the comment from the customer, and where applicable @ mention the person (or people) who primarily worked the ticket. 
+
 
 ## Handling "Bad" Reviews
 
