@@ -40,7 +40,7 @@ Unless otherwise specified, all UX Research roles at GitLab share the following 
 The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-* Personally initiate and conduct research within or across your stage groups to build stronger foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
+* Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
 
 * Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 
@@ -63,7 +63,7 @@ The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensati
 The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-* Personally initiate and conduct research projects within your assigned stage groups and across adjacent stage groups to build stronger foundational knowledge of your areas of coverage. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
+* Personally initiate and conduct research projects within your assigned stage groups and across adjacent stage groups to build deep foundational knowledge of your areas of coverage. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 
 * Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
 
@@ -83,7 +83,7 @@ The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/com
 
 * Guide Product Managers and Product Designers to conduct research with a high degree of rigor.  Ensure they are following defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
 
-* Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade offs between smart, scrappy research and rigor.
+* Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade offs between scrappy research and rigor.
 
 * Actively contribute to the UX Research team culture, processes, and documentation.
 
@@ -98,7 +98,7 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 #### Responsibilities
 * Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
-* Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build stronger foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
+* Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build deep foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
 
 * Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction and vision for your assigned and adjacent stage groups.
 
@@ -118,7 +118,7 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * Guide Product Managers and Product Designers to conduct research with a high degree of rigor.  Ensure they are following defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
 
-* Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
+* Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
 
 * Respond to solution validation user research inquiries that are escalated by Product Design.
 
@@ -140,7 +140,7 @@ The Staff UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/co
 
 - Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
 
-- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
+- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
 
 - Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction and vision at the stage and company level.
 
@@ -156,7 +156,7 @@ The Staff UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/co
 
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 
-- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
+- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
 
 - Respond to solution validation user research inquiries that are escalated by Product Design.
 
@@ -196,7 +196,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 > ### Why we ask for a pre-recorded presentation
 > 
-> 1. It helps establish a shared understanding of your work between you and our interviewers ahead of the first interview. 
+> 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview. 
 > 1. It allows us to ask more informed questions about your experience and work during the interview process. 
 > 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A.  > This interview exercise provides you with an opportunity to experience this style of work.  
 > 
