@@ -31,7 +31,7 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
 
 ## How to Get Started
 
-1. [Create a signup page](https://support.zoom.us/hc/en-us/articles/211579443-Setting-up-registration-for-a-meeting) for the workshop for your customer to share internally. The benefit of a signup page is that:
+1. [Create a signup page via Zoom](https://support.zoom.us/hc/en-us/articles/211579443-Setting-up-registration-for-a-meeting) for the workshop for your customer to share internally. The benefit of a signup page is that:
     1. You can understand in advance the number of expected attendees, and prepare accordingly (ie. by engaging volunteer resources to handle async Q&A).
     1. You will know who is coming and can tailor content to specific levels/titles of attendees (Don't forget to add a `title` question to your signup page!).
     1. You will have a list of attendees to follow up with.  This part is incredibly significant as this workshop becomes a means to engage with dev leads and end users, that we often do not have otherwise. 
