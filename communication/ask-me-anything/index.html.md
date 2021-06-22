@@ -140,7 +140,7 @@ Learnings can be captured in our [DIB Sharing page](https://about.gitlab.com/com
 
 ## Reverse AMA Schedule - past and upcoming
 
-| Date | URG / TMRG | Leader | DIB DRI | 
+| Date | URG / TMRG | Leader | DIB DRI - This person will help drive ToDos to completion | 
 | ---------- | -------- | ---- | ----- | 
 | 2020-11-10 | Black Team Members in Engineering | Scott Williamson (CPO) / Eric Johnson (CTO) | Candace Byrdsong-Williams |
 | 2021-02-05 | Black Team Members & CEO | Sid Sijbrandij (CEO) |
