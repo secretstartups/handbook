@@ -208,14 +208,16 @@ This section is where you can see the highest level of detail.
 The reports are broken out in folder format and once you click into the folders, more reports open up.
 
 #### Reports Field Marketing uses
-
-1. To understand your regions budget (referred to in Allocadia as `Target`) and what you are forecasting to spend -
-    - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://youtu.be/QTQeOKp3wDU](https://youtu.be/QTQeOKp3wDU)</span> - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE)
-1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
-    - [Video walk through](https://youtu.be/bauTMmEnaXc) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE).
-1. `Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region. 
-    - [Video walk through](https://youtu.be/XfgckiT9_1s) - (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
-1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) (YOU MUST BE LOGGED IN TO UNFILTERED TO SEE.)
+* To view all videos posted, you must be logged in to GitLab Unfiltered. 
+1. `Insights>Dashboards>1.Investment Planning Summary` To understand your regions budget (referred to in Allocadia as `Current Target`) 
+    - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://www.youtube.com/watch?v=4hgTgpJLxVQ](https://www.youtube.com/watch?v=4hgTgpJLxVQ)</span> - Note this is the most useful ONLY when the plan is open from finance. Once the plan is locked and you're making changes/numbers are becoming real, you'll want to look at this second video. 
+1. `Insights>Dashboards>1.Investment Tracking Summary`To understand how much you're [on track to invest](https://support.allocadia.com/hc/en-us/articles/115003253034-Investment-Tracking-Summary-Report) - Watch [this video](https://youtu.be/MIYFnA5xKnU) walk through 
+1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
+    - [Video walk through](https://youtu.be/bauTMmEnaXc)
+1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region. 
+    - [Video walk through](https://youtu.be/XfgckiT9_1s) -
+1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) & select which view you're looking for - i.e. Q1, Q2 etc. 
+1. Monthly/Qtrly Actuals review - To understand how much you planned for, forecated for, and then actually spent. At the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/apiJxzrDZe4) & select which view you're looking for - i.e. Q1, Q2 etc.
 
 ##### Reporting folders breakdown
 
