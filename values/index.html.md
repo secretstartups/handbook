@@ -37,8 +37,8 @@ actionable below.
 <a href="#collaboration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_collaberation.svg" alt="Collaboration" title="Collaboration" height="78"></a>  <a href="#results"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_results.svg" alt="Results" title="Results" height="78"></a>  <a href="#efficiency"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_efficiency.svg" alt="Efficiency" title="Efficiency" height="78"></a>  <a href="#diversity-inclusion"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_diversity.svg" alt="Diversity, Inclusion &amp; Belonging" title="Diversity, Inclusion &amp; Belonging" height="78"></a>  <a href="#iteration"><img style="padding-right: 20px; padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_iteration.svg" alt="Iteration" title="Iteration" height="78"></a>  <a href="#transparency"><img style="padding-bottom: 20px" src="/images/all-remote/gitlab-value-tanukis_transparency.svg" alt="Transparency" title="Transparency" height="78"></a>
 </div>
 
-We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions).
-Just like the rest of our work, we continually adjust our values and strive to make them better.
+We take inspiration from other companies, and we always go for the [boring solutions](#boring-solutions). Our CEO, Sid Sijbrandij, has [shared the origin](/company/history/#Value-Origin-stories) of each of the CREDIT values, but
+just like the rest of our work, we continually adjust our values and strive to make them better.
 GitLab values are a living document.
 In many instances, they have been documented, refined, and revised based on lessons learned (and scars earned) in the course of doing business.
 
