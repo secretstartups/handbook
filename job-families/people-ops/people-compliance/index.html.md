@@ -62,10 +62,9 @@ The People Compliance Specialist is a [grade 6](/handbook/total-rewards/compensa
 
 Primary performance indicators for this role:
 
-- [100% accuracy of data held in BambooHR for all team members where we have an entity or PEO](/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation). 
-- [100% accuracy and compliance of all People-related data and documents held in Google Drive](/handbook/people-group/people-success-performance-indicators/#google-drive-documentation).
-- [100% implementation of quarterly audits for onboarding, offboarding and career mobility issues](/handbook/people-group/people-success-performance-indicators/#implementation-of-audits-across-team-member-experience-tasks).
-These performance indicators are currently across all levels within the People Group.
+- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
 ## Senior Compliance Specialist
 
@@ -98,9 +97,9 @@ The Senior Compliance Specialist is a [grade 7](/handbook/total-rewards/compensa
 
 Primary performance indicators for this role:
 
-- [100% accuracy of data held in BambooHR for all team members where we have an entity or PEO](/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation). 
-- [100% accuracy and compliance of all People-related data and documents held in Google Drive](/handbook/people-group/people-success-performance-indicators/#google-drive-documentation).
-- [100% implementation of quarterly audits for onboarding, offboarding and career mobility issues](/handbook/people-group/people-success-performance-indicators/#implementation-of-audits-across-team-member-experience-tasks).
+- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 These performance indicators are currently across all levels within the People Group.
 
 ## People Compliance Team Lead
@@ -128,9 +127,9 @@ The People Operations Team Lead is a [grade 8](/handbook/total-rewards/compensat
 
 Primary performance indicators for this role:
 
-- [100% accuracy of data held in BambooHR for all team members where we have an entity or PEO](/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation). 
-- [100% accuracy and compliance of all People-related data and documents held in Google Drive](/handbook/people-group/people-success-performance-indicators/#google-drive-documentation).
-- [100% implementation of quarterly audits for onboarding, offboarding and career mobility issues](/handbook/people-group/people-success-performance-indicators/#implementation-of-audits-across-team-member-experience-tasks).
+- [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
+- [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
+- [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 These performance indicators are currently across all levels within the People Group.
 
 ### Hiring Process
