@@ -161,7 +161,7 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 - [Logo Authorization Template](https://drive.google.com/file/d/1Vtq3UHc8lMfIbVFJ3Mc-PZZjb6_CKAvm/view?usp=sharing)
 - [Data Processing Agreement](https://drive.google.com/file/d/1zR-QYz8Hnk5XR-DaFNlzrEksL0hyFsjT/view?usp=sharing)
 - [US-based Contractor Agreement](https://drive.google.com/file/d/1NIon0c92ej2CRABQsdzWbpdM-3cJy0Se/view?usp=sharing) Master agreement for a subcontractor performing internal services directly to GitLab
-- [APAC Contractor Agreement](https://drive.google.com/file/d/1i5GNMwpiXMU07MImncc-aB-viWJ4e13X/view?usp=sharing) Same as above for APAC
+- [APAC Contractor Agreement](https://drive.google.com/file/d/17-PvpC63XwESBDFMq3H-ux48N9EkoHtx/view?usp=sharing) Same as above for APAC
 - [MPS Subcontractor Agreement](https://drive.google.com/file/d/1MgBqa_K1oqqIR79jV3AEynbYN6Jc_V5U/view?usp=sharing) Master agreement for subcontractor performing services for the *GitLab Customer*
 
 #### Documentation
