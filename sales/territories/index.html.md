@@ -331,7 +331,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Nordics	|	Nordics	|	SMB-EMEA-Nordics-2	|	Goran Bijelic
 |	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
-|	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Tim Guibert
+|	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Tim Guibert
 
 ### SMB First Order
