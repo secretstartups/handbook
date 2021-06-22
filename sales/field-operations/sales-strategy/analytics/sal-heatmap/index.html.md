@@ -13,9 +13,7 @@ title: "Sales Strategy - SAL Heatmap dashboard"
 
 ### Goal
 
-The SAL Heatmap provides a high level view of current achivement, coverage and pipe generation for each SAL within a region.
-
-Its purpose is to allow leadership to drive a focused conversation regarding each SAL priorities, based on their specific strengths and weaknesses. The clear overview also allows SALs to self-assess against their peers, empowering them to share best practices where going strong, or ask for support where facing challenges.
+The SAL Heatmap provides a high level view of current achivement, pipe coverage to quota and pipe generation for each SAL within a region.
 
 **Example screenshot of the SAL Heatmap:**
 
@@ -50,11 +48,5 @@ Coverage is calculated per SAL as `Open Pipe Stage X+ / Remainder to Quota`.
 ### Refresh rates
 
 The dashboard is refreshed once a day between 8:00 and 9:00 AM PST time for Salesforce data. Achievement data is only refreshed after month's end. 
-
-### Best practices
-
-To the take the best of this tool, the following best practices are recommended:
-- Identify SALs with low Pipeline Generation within the quarter
-    - If SAL is low on pipeline, this is a sign that corrective action needs to be taken ASAP
 
 
