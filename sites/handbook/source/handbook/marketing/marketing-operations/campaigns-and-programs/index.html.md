@@ -70,9 +70,10 @@ In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual 
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
-| Attended| Attended the event| |
+| Attended| Attended the event| Yes |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
+| Attended On-Demand | Watched/consumed conference materials post-event on-demand | Yes| 
 
 #### Content Syndication
 
