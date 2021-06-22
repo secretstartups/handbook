@@ -46,7 +46,7 @@ For example, managers at GitLab can:
 
 3. [Making decisions](/handbook/leadership/making-decisions/) by applying the best of both hierarchical and consensus on your team. Allow the person on your team that does the work to make the decisions, the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals/). 
 
-4. [Elicit peak performance through motivation](/handbook/leadership/build-high-performing-teams/#motivating-others-to-elicit-peak-performance). Managers can improve output on their team by applying motivation, [building trust](/leadership/building-trust/), and training. 
+4. [Elicit peak performance through motivation](/handbook/leadership/build-high-performing-teams/#motivating-others-to-elicit-peak-performance). Managers can improve output on their team by applying motivation, [building trust](/handbook/leadership/building-trust/), and training. 
 
 ### Application of Individual KPIs
 
