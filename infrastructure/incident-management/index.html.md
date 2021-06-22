@@ -353,7 +353,7 @@ In order to effectively track specific metrics and have a single pane of glass f
 
 GitLab uses the [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) feature of the GitLab application. Incidents are [reported](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and closed when they are resolved. A resolved incident means the degradation has ended and will not likely re-occur.
 
-If there is additional follow-up work that requires more time after an incident is resolved like a detailed root cause analysis or a corrective action a new issue may need to be created and linked to the incident issue.
+If there is additional follow-up work that requires more time after an incident is resolved and closed (like a detailed root cause analysis or a corrective action) a new issue may need to be created and linked to the incident issue.
 It is important to add as much information as possible as soon as an incident is resolved while the information is fresh, this includes a high level summary and a timeline where applicable.
 
 ### Assignees
