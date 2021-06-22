@@ -246,6 +246,8 @@ BD=Business Day, so for example BD4 means four business days after the month has
 
 - Generate both revenue and EBIT guides. Analyze EPS.
 
+The CFO will review the guidance with the CEO and CRO at the monthly revenue committee sync meeting.  The CFO will make sure the meeting is scheduled at the correct time to review the guidance.
+
 ### Variance Meeting with CFO
 
 Each month after the financials have been published, GitLab reviews all aspects of the business including Corporate Metrics, Bookings, Revenue, Gross Margins, Expenses, and Cash Flow. The goal of this review is to do a comprehensive review so that finance leadership has a pulse on the business and the financials. Based on insights from variance analysis, the FP&A team makes actionable recommendations to the CFO and eGroup to ensure continued performance to Plan/Target.
