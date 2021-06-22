@@ -52,7 +52,7 @@ For more information, join the #qbr-ent-q3fy21, #qbr-comm-q3fy21, and #qbr-chann
 ----
 We recently soft-launched the **GitLab CI/CD Specialist Certification**. All required assessments are available at no additional cost to attendees of Professional Services [CI/CD training](https://about.gitlab.com/services/education/gitlab-ci/) – a great selling point!
 
-Questions? Ping the [professional services slack channel](../../../customer-success/professional-services-engineering/working-with#slack) to learn more.
+Questions? Ping the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more.
 
 ----
 We now have **40+ partners who have completed GitLab's Services Bootcamp**! Check out the [attendee list and Partner Services Matrix](https://docs.google.com/spreadsheets/d/1Wc42kLkmtpeOktr8UtB_csW5_GLUX_79taLSe86KCMs/edit?usp=sharing) along with a [summary outcome](https://docs.google.com/file/d/185LmyqjGO7MLMFSnGjV-DsiC0daoR6rR/edit?usp=docslist_api&filetype=mspresentation) from the project. These should be **your go-to partners** when you need assistance on Customer Opportunities.

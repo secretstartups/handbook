@@ -75,10 +75,10 @@ The ABM team has made multiple process iterations to help you work more efficien
 1. Users will know how to use git, GitLab and Gitlab CI
 1. The customer will be in a position to succeed with higher potential for faster growth.
 
-If you have any questions, please reach out in the [professional services slack channel](../../../customer-success/professional-services-engineering/working-with#slack) to learn more.
+If you have any questions, please reach out in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more.
 
 ----
-Customers who want to add on to the 12-person limit for training sessions can now do so by ordering the **new [ProServ Training Per-Seat Add-on SKU](https://about.gitlab.com/services/education/ILT-Seat-Add-On/)**. Priced at $500 per added seat, this is an easy way to accommodate additional attendees and avoid the need to order a full additional training delivery for customers with more than 12 trainees. Questions? Reach out in the [professional services slack channel](../../../customer-success/professional-services-engineering/working-with#slack) to learn more.
+Customers who want to add on to the 12-person limit for training sessions can now do so by ordering the **new [ProServ Training Per-Seat Add-on SKU](https://about.gitlab.com/services/education/ILT-Seat-Add-On/)**. Priced at $500 per added seat, this is an easy way to accommodate additional attendees and avoid the need to order a full additional training delivery for customers with more than 12 trainees. Questions? Reach out in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) to learn more.
 
 ----
 **The People team recently launched the Team Member Relations group**, a centralized team that works with both manager and team member in an intermediary function to understand and help resolve workplace issues. The team member relations specialist can also help coach and advise managers and team members on policies and processes. For more information, check out the [handbook page](/handbook/people-group/#team-member-relations-specialist).
