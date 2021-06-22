@@ -45,6 +45,7 @@ List of prefix indicators
 | `l`    | Load      |
 | `t`    | Transform |
 | `p`    | Pump      |
+| `m`    | Metadata  |
 
 
 ### In Production
