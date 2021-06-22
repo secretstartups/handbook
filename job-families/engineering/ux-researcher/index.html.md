@@ -137,39 +137,36 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 The Staff UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-* Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
-* Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build stronger foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
+- Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
 
-* Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction and vision for your assigned and adjacent stage groups.
+- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build stronger foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
 
-* Know GitLab users: develop a deep empathic understanding of GitLab users in various contexts, learn about their needs, and identify gaps.
+- Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction, challenges, and vision at the stage and company level.
 
-* Business acumen: consider the team's business goals when approaching research projects to ensure there's alignment.
+- Know GitLab users: develop a deep empathic understanding of GitLab users in various contexts, learn about their needs, and identify gaps. Emphasis on GitLab users who use multiple sections.
 
-* Effectively prioritize your overall research efforts. Align with Product teams while considering impact, type of research, the goals of your stage groups, the broader product vision, and company objectives.
+- Business acumen: consider business goals when approaching research projects to ensure there's alignment and maximum applicable insights.
 
-* Develop and maintain the GitLab strategic research program. Educate and mentor others on strategic research while demonstrating the value of strategic research.
+- Effectively prioritize your overall research efforts. Align with section Directors, VPs, and C-level executives while considering impact, type of research, the broader product vision, and company objectives.
 
-* Demonstrate thought leadership by delivering six [strategic research](/handbook/engineering/ux/ux-research-training/strategic-research-at-gitlab/) projects per year to showcase.
+- Demonstrate thought leadership by delivering six strategic research projects per year to showcase.
 
-* Deliver impactful research that informs decisions across our product lifecycle.
+- Deliver impactful research that informs decisions across our product lifecycle.
 
-* Communicate, advocate for, and socialize actionable insights in a clear and compelling way
+- Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 
-* Guide Product Managers and Product Designers to conduct research with a high degree of rigor.  Ensure they are following defined research processes (ex: handbook procedures, opening and closing issues for research studies, documenting actionable insights, etc).
+- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
 
-* Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
+- Respond to solution validation user research inquiries that are escalated by Product Design.
 
-* Respond to solution validation user research inquiries that are escalated by Product Design.
+- Identify research training needs for the UX and Product Departments.
 
-* Identify research training needs for the UX and Product Department. 
+- Actively contribute to the UX Research team culture, processes, and documentation.
 
-* Actively contribute to the UX Research team culture, processes, and documentation.
+- Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
 
-* Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
-
-* Lead and mentor other Researchers.
+- Lead and mentor other Researchers.
 
 ## Career Ladder
 
