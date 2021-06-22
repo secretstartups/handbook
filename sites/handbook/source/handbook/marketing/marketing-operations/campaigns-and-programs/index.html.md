@@ -57,6 +57,8 @@ Any event  that we have paid to sponsor, have a booth/presence and are sending r
 
 In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference).
 
+For list loads greater than 1,000 of `attendees` they will not be considered a `success` or `scored` as such.
+
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
 | Member Status | Definition | Success |
