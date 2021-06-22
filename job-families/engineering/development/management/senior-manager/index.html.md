@@ -21,7 +21,7 @@ Managers in Engineering at GitLab see their team as their product. While they ar
 * Enable [Product](/handbook/product/performance-indicators/), [Quality](/handbook/engineering/quality/performance-indicators/), and [UX](/handbook/engineering/ux/performance-indicators/) performance via solid [stable-counterpart](/handbook/leadership/#stable-counterparts) partnership
 * Ensure psychological safety on your team
 * Generate and implement process improvements
-* Give regular and clear feedback around the [individual's performance](/leadership/1-1/suggested-agenda-format)
+* Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
 * Improve product quality, security, and performance
 
