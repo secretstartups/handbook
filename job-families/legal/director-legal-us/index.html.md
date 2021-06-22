@@ -5,11 +5,13 @@ title: Director of Legal
 
 The Director(s) of Legal are responsible for advising clients across GitLab on legal matters related to their functional area of expertise.
 
-## Job Grade
+## Director, Legal (US)
+
+### Director, Legal Job Grade
 
 The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+### Director, Legal Responsibilities
 
 * Partner with leadership, team members and other stakeholders across GitLab to address legal related matters
 * Advise on, draft, maintain and review templates and policies
@@ -17,7 +19,7 @@ The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compens
 * Anticipate legal issues or risks and build the necessary processes and systems to address them
 * Manage outside counsel relationships, as needed
 
-## Requirements
+### Director, Legal Requirements
 
 * 8+ years combined law firm and in-house legal department experience, preferably in a multinational company
 * Juris Doctorate/United States law degree and bar admission in at least one US state
@@ -29,6 +31,33 @@ The Director, Legal is a [grade 10](/handbook/total-rewards/compensation/compens
 * Sound and practical business judgment
 * Previous experience in a remote work environment would be an added advantage
 * Ability to use GitLab
+
+## Senior Director, Legal (US)
+
+### Senior Director, Legal Job Grade
+
+The Senior Director, Legal is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Senior Director, Legal Responsibilities
+
+* Recruit, retain, and develop top talent
+* Manage a team of subject matter experts
+* Provide cross jurisdictional strategic counsel to leaders across GitLab and E-group 
+* Contribute to materials prepared for Board of Directors meetings and Board committee meetings 
+* Manage outside counsel and associated budget 
+* Strategic planning and oversight over areas related to subject matter expertise (ex. headcount planning, budget, etc.)
+
+### Director, Legal Requirements
+
+* 12+ years combined law firm and in-house legal department experience, preferably in a multinational company, with a considerable amount of that time dedicated to their area of subject matter expertise, for those roles which require an attorney
+* Juris Doctorate/United States law degree and bar admission in at least one US state for those roles which require an attorney
+* Demonstrated ability to quickly reduce complex principles into actionable counsel
+* Proven management experience 
+* Skilled at empowering,  motivating, training and mentoring a team of varying levels of experience
+* Ability to act quickly and be decisive when needed, even with ambiguity 
+* Reasonable approach to assessing and balancing risk on behalf of the company
+* An ownership mindset of the relevant area(s) of subject matter expertise
+* Capable of building strong relationships cross functionally at all levels across GitLab
 
 ## Specialities
 
@@ -59,7 +88,8 @@ The Director of Legal, Employment collaborates with clients across GitLab on a b
 ### Privacy and Product
 * Successful oversight of privacy compliance initiatives
 * Accurate export control administration
-* Management of open source licensing directives
+* Management of open source licensing directives nd other intellectucal property matters
+
 
 ### Employment
 * Timely and accurate contributions to global employment related matters
@@ -68,7 +98,7 @@ The Director of Legal, Employment collaborates with clients across GitLab on a b
 
 ## Career Ladder
 
-The next step in the Director, Legal job family is not yet defined at GitLab.
+The next step in the Director, Legal job family is the Senior Director, Legal. The next step in the Senior Director, Legal job family is not yet defined at GitLab.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
