@@ -3,24 +3,29 @@ layout: markdown_page
 title: Product Analysis Group
 ---
 
-## Welcome to the Product Analysis Group Handbook Page
+## On this page
+{:.no_toc}
+
+- TOC
+{:toc}
+
+## Welcome to the Product Analysis group Handbook
 
 The Product Analysis group consists of a team of product analysts. This group reports to the 
 Director of Product, Growth and serves as a specialized analytics team to support product data 
 analysis requests. The primary customer this group serves is Product Managers from various 
-sections/groups, with a primary on the Growth stage.
+sections/groups.
 
-You can read more about what we do at GitLab on our [direction page](https://about.gitlab.com/direction/product-analysis/).
+Read more about what we do at GitLab on our [Direction](https://about.gitlab.com/direction/product-analysis/) page.
 
-### Product Analysis Group members
+### Product Analysis group members
 
 * Carolyn Braza: Manager, Product Data Analysis
 * Dave Peterson: Senior Product Analyst
 * Nicole Galang: Product Analyst
 * Product Analyst: TBH
 
-The Product Analysis group is part of the [Product Analytics Fusion Team](https://about.gitlab.com/handbook/business-ops/data-team/organization/#release-to-adoption) 
-where the product analysts work closely with members from the central data team, including:   
+The product analysts also work closely with members from the central data team, including:   
 * Mathieu Peychet: Senior Data Analyst
 
 ## Intake & Planning Process
@@ -29,7 +34,7 @@ where the product analysts work closely with members from the central data team,
 
 1. For all product analysis requests, please create an issue on [data team project](https://gitlab.com/gitlab-data/analytics/-/issues), 
 and add a `product analysis` label, as well as your section and group labels.
-  * If the issue is for an experiment, use the [Experiment issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md).
+  * If the issue is for an experiment analysis, use the [experiment issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md).
 1. All data issues with `product analysis` labels will appear on a [product analysis board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=product%20analytics).
 1. In the issue, please explain the urgency/criticality of the requests and provide as much context as possible.
 1. The Director of Product Growth will help prioritize the work based on importance/capacity and 
@@ -56,7 +61,7 @@ to support additional asks and analyses.
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions 
 
 ## Helpful resources & links
-1. [Growth Data Guide](https://about.gitlab.com/handbook/product/product-analysis/growth-data-guide/)
-1. [Data for product managers](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/)
-1. [Data team How we can help you Page](https://about.gitlab.com/handbook/business-ops/data-team/#how-we-can-help-you)
 
+1. [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+1. [Data for product managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
+1. [Data team How we can help you Page](/handbook/business-technology/data-team/#how-we-can-help-you)
