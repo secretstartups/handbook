@@ -215,7 +215,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    - Take a look at the [marketing issue board](https://gitlab.com/groups/gitlab-com/marketing/-/boards/933457?&label_name[]=West) to see when and where we will be hosting marketing events.
 
 
-### 11. [GitLab Customer Support Team](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1463667)
+### 11. [GitLab Customer Support Team](https://gitlab.edcast.com/insights/gitlab-customer-support)
 
 - **Review the GitLab Customer Support Documentation (Material - Handbook - 5 minutes)**
   - The GitLab Support Team provides technical support to GitLab.com and Self-Managed GitLab customers. The Support Team Handbook is the central repository that explains our work processes and the reasons behind them. To learn more, check out the [Handbook](/handbook/support/).
