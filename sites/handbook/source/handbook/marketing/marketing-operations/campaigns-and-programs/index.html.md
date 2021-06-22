@@ -647,5 +647,5 @@ Notes:
     1. Click Confirm.
     1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push. You can also view this in Settings>History>Action History in DB1.
 
-Once your list is passed over, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
+Once your list is pushed from DB1 to Marketo, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
 
