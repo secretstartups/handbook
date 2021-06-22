@@ -128,6 +128,12 @@ The below is a work in progress as we define success measures across each stage 
     - Accelerate customer time to value
     - Increase breadth of stage adoption
 
+Activity does not equal Performance 
+Knowledge does not equal Capability 
+
+Activity x Capability = Performance 
+Knowledge x Practice = Capability 
+
 </details>
 
 <details>
