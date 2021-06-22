@@ -21,7 +21,7 @@ The #field-fyi channel is the official field announcements channel. This is a re
    1. Use numbered lists when possible to summarize key points.
    1. Link out to relevant documentation for any points that need additional context. Hit on the highlights in the update and let the documentation take it from there.
    1. Avoid having multiple link previews accompanying a post. Only keep the ones that are valuable to getting the point across. Delete all others. (Deleting all is okay, too.)
-1. ALL #field-fyi messages should contain a header in the approved format. Please see [#field-FYI Post Headers](https://about.gitlab.com/handbook/sales/sales-google-groups/field-fyi-channel/##field-fyi-post-headers) section below for more details.
+1. ALL #field-fyi messages should contain a header in the approved format. Please see [#field-FYI Post Headers](/handbook/sales/sales-google-groups/field-fyi-channel/##field-fyi-post-headers) section below for more details.
 1. A peripheral goal of the field-fyi channel is to cut down on noise in other channels like #sales and #customer-success to make them more easily consumable. As a result, this channel should be the single source of Slack truth for important field announcements. Avoid cross posting to other channels when possible, as this will create more noise and defeat the purpose of the channel.
 
 ## #field-fyi Post Headers 
