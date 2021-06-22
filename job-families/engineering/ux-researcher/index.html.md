@@ -140,9 +140,9 @@ The Staff UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/co
 
 - Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
 
-- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build stronger foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
+- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to take part in these projects.
 
-- Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction, challenges, and vision at the stage and company level.
+- Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction and vision at the stage and company level.
 
 - Know GitLab users: develop a deep empathic understanding of GitLab users in various contexts, learn about their needs, and identify gaps. Emphasis on GitLab users who use multiple sections.
 
