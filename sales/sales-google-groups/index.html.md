@@ -98,15 +98,19 @@ The below channels are specific to the field organization.
 | #sales-ent-managers | private | Used for communication with and between WW ASM-and-above-level managers in Enterprise |
 | #sales-com-managers | private | Used for communication with and between WW ASM-and-above-level managers in Commercial |
 | #sales-cs-managers | private | Used for communication with and between WW managers in Customer Success |
+| #wins-key-deals | public | Used for celebrating key deals for our Sales team. Scope defined in channel description. |
+
 
 **Sales**
 
 | Channel Name | Channel Access (Private/Public) | Description |
 | ------ | ------ | ------ |
+| #apac_field_team | public | Team channel for APAC sales team |
 | #eastsales | public | Team channel for ENT U.S. East sales team |
 | #westsales | public | Team channel for ENT U.S. West sales team |
 | #emea-sals |  public | Team channel for ENT EMEA sales team |
 | #emea_mid-market_sales | public | Team channel for EMEA Mid-Market sales team |
+| #commercial_global_all | private | Team channel for global Commercial sales team |
 
 **Customer Success**
 Consistent with company guidance to use [public channels](/handbook/communication/#use-public-channels), there are instances where private channels are preferred. As we want to ensure an [inclusive environment](/handbook/values/#diversity-inclusion), the feedback from some of the team is that private channels are sometimes preferred as there is a perception of being judged (i.e., imposter syndrome). The recommendation is to use public channels as it:
@@ -154,6 +158,7 @@ The below channels are owned by teams outside of the field organization but migh
 | #legal | public | General legal questions that are not confidential or seeking legal advice |
 | #marketing | public | General marketing team channel |
 | #sdr-global | public | Used to ask questions and provide useful information related to XDRs |
+| #sdr-fyi | public (read-only) | The official SDR announcements channel |
 | #content-updates | public | The latest GitLab-published content you can share with prospects on social media |
 | #newswire | public | News mentions and industry news related to GitLab |
 | #diversity_inclusion_and_belonging | public | Get updates and receive feedback on all things related to Diversity, Inclusion & Belonging  |
