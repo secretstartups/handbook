@@ -5,15 +5,16 @@ description: "Rules of Engagement"
 ---
 
 ### Objectives  
+The purpose of this page is to provide clear guidelines around GitLab's FY22 GTM Rules of Engagement in the following areas:
+
 1. Account Ownership Rules of Engagement
 2. Opportunity Ownership Rules of Engagement 
 3. Opportunity Order Type Rules of Engagement 
-For more information on terms and other sales information, GitLab's [Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) page is also available for view. 
+
+**For more information on terms and other sales information, please visit GitLab's [Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) page. 
 
 
 ### Account Ownership Rules of Engagement 
-
-**Effective FY22-Q1**
 
 **NOTE: Working a Lead, Contact, Opportunity or Account does not ensure ownership.**
 
