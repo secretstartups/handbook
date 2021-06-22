@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "General Ledger Accounting"
+description: "The General Ledger Accounting team are responsible for providing timely and accurate month end close financials, that are GAAP compliant."
 ---
 
 
@@ -195,7 +196,7 @@ The Manager, Accounting is a [grade 8](/handbook/total-rewards/compensation/comp
 
 ## Career Ladder
 
-The next step in the General Ledger Accounting job family is to move to the [Controller](job-families/finance/corporate-controller) job family.
+The next step in the General Ledger Accounting job family is to move to the [Controller](/job-families/finance/corporate-controller/) job family.
 
 ## Hiring Process
 
