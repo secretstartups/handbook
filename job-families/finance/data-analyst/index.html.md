@@ -119,7 +119,7 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 
 ### Data Team
 * Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope
-* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+* Approve data model changes as a Data Team [Reviewer](/handbook/business-technology/data-team/how-we-work/mr-review/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
 * Own the end-to-end process of on-call data triaging from reading Airflow logs, to diagnosing the data issue, and to verifying and implementing a solution with an automated alerting system (ChatOps, etc) as well as providing data support for all GitLab members
 * This position reports to the Manager, Data
 
