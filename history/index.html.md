@@ -121,3 +121,52 @@ Moving to the topic of investors and their perception of remote companies, Sid a
 > [Early investors] were skeptical of this model. They've turned from skeptics into advocates. They see our ability to hire outpacing their portfolio companies. They see our ability to retain people and our cost structure being much better.
 >
 > They're now actually starting to *focus* on companies which are all-remote, because they think it is a big competitive advantage.
+
+## Value Origin stories
+
+GitLab's [six core values](/handbook/values) are 🤝 Collaboration, 📈 Results , ⏱️ Efficiency, 🌐 Diversity, Inclusion & Belonging, 👣 Iteration, and 👁️ Transparency, and together they spell the CREDIT we give each other by assuming good intent. In the following recordings, GitLab's CEO and Founder, Sid Sijbrandij, shares stories around each values origination and importance to GitLab.
+
+### Collaboration
+
+"We have assume positive intent in our CREDIT value."
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=rCbEzjfaY0w" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Results
+
+"If you get good results you have leverage to invest and do everything else." 
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=OYQyuZDdrUE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Efficiency
+
+"We get a lot done. We don't tolerate ineffectiveness."
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=d5UATqiFbDw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Diversity, Inclusion & Belonging
+"We want to have a company with many people in it--especially when they are different from us."
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=ovb_ciPq9x4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Iteration
+"The key to going fast is not about being super ambitious with planning more hours or having a big idea--but having the big idea and cutting that down to what you can ship quickly."
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=OTClCuXpbhQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+### Transparency
+"Most of the time when a company starts commercializing the open source community, the wider community, fades away into the background. We want to prevent that. We want people to feel empowered."
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=HJhlL6Oozq8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
