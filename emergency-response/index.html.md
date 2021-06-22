@@ -18,10 +18,10 @@ At times GitLab needs to communicate a "breaking" change or details related to a
 
 **Not an emergency?** For important planned customer communications, please use [the customer update/announcement process](/handbook/marketing/emergency-response/#customer-comms-email), to enable teams to work together and plan without the urgency of an emergency request.
 
-**As soon as an emergency communication to customers is recognized, the Security team MUST:**
+**As soon as an emergency communication is recognized, the Requesting team MUST:**
 1. Create an **[incident communication request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=incident_communications)** (built to auto label and assign to the correct people)
 1. Notify in the #mktgops Slack channel
-1. If there is not a timely response <!-- how much time is timely Amy? --> in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
+1. If there is not a timely response in Slack, page the on-call Marketing Ops via entering `/pd` trigger command in any Slack channel and select `Marketing Ops Ext. Comms - Emergency`.
 1. In the template the requesting team will include details including CTA, email body, send date and **provide link to Google sheet containing list**. 
 
 ## Roles and Responsibilities
@@ -74,6 +74,7 @@ This is the process to follow when there is an announcement that is an emergency
 - Include approx size of the list - this will determine what email platform we will use and helps immensely in our planning. Over estimate when you are unsure.
 - If you are requesting a list, create an [issue](https://gitlab.com/gitlab-data/analytics/-/issues/new) with the data team and relate it to the issue you just created. 
 - Include any custom fields you need created for `mail-merge` in the email. Include field max lengths needed, or best guess. Mktops will determine if they can use an existing field or not.
+- Note if the links should not be trackable. (For Security alert types only)
 
 3. **Issue in Process**
 - Marketing team will work closely with you to develop a communication plan and cadence. Please continue to addinformation as you receive it and over communicate with us via slack/issue/carrier pigeon!
@@ -97,7 +98,7 @@ The following approvers are needed for the copy and list size:
 6. **Email Launched** 
 - The email team will provide stats minutes after launch, and at a cadence determined by the announcement team as necessary. 
       - Note: Full email stats are matured at 48 hours.
-- Inbox monitoring will be done by the requestor team, unless otherwise stated.
+- Inbox monitoring will be done by the requesting team, unless otherwise stated.
 
 ## Lists 
 
@@ -113,13 +114,6 @@ The following approvers are needed for the copy and list size:
 - Each platform has their own limits as to size of CSV that can be uploaded.
 - Lists greater than 100k may be subject to verification, so that we do not risk our sending reputation. Marketing Ops has budget set aside for these, but it will add possible days to the timeline to send. 
 
-## Email Platform to Use
-The email platform determines many different factors for us.
-- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
-- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Preferable platform for deployment, but it is not onboarded as of 2021-03-01
-- MailGun: If list send is greater than 50k we will use this. This involves engineering and will add 1 day minimum to send
-- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends): Only if other platforms are not an option
-
 ## Other Considerations and Questions for Requestors
 
 - Send / Reply-to email
@@ -129,6 +123,15 @@ The email platform determines many different factors for us.
 - Form + Landing Page
      - Confirmation email copy
      - Who from GitLab receives the alert?
+
+
+## Email Platform to Use
+The email platform determines many different factors for us.
+- [Marketo](/handbook/marketing/marketing-operations/marketo/): Quickest deployment, but most costly. Will not be used for communications over 20k
+- [MailJet](/handbook/marketing/marketing-operations/mailjet/): Preferable platform for deployment, but it is not onboarded as of 2021-03-01
+- MailGun: If list send is greater than 50k we will use this. This involves engineering and will add 1 day minimum to send
+- [MailChimp](/handbook/marketing/marketing-operations/marketo/#mailchimp-sends): Only if other platforms are not an option
+
 
 ## Customer Update / Announcement Emails
 {: #customer-comms-email .gitlab-purple}
