@@ -66,7 +66,7 @@ The action items created from the “Renewal Review” meeting should be incorpo
 
 For greater predictability across the customer base for renewal, upselling, downgrade, and churn, tracking Account Health and Risks is incorporated into Gainsight. This process creates tighter collaboration with the overall CRO Organization and the rest of GitLab. Note: this was formerly at the Opportunity level instead of Account level. It was moved to Account to be long-term oriented and as Sales owns the Opportunity.
 
-To learn the full process, watch the [At-Risk Customer Process](https://youtu.be/wW7D1ug_pvk) video.
+To learn the full process, watch the [At-Risk Customer Process](https://youtu.be/MQqfL3WT1zo) video.
 
 
 ### At-Risk Process
