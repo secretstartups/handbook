@@ -60,20 +60,17 @@ The Senior Manager, UX Research reports to the Director of UX, and Manager, UX R
 The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-* Create an open and collaborative culture based on trust in the UX Research team.
-* Develop an overarching UX research strategy for GitLab, and work with the UX Research team and cross-functional partners to execute that strategy.
-* Mentor UX Research Managers in their career growth, including making sure they each have an [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources).
-* Help scale UX Research by defining a plan to provide research training for Product Managers and Product Designers, and coordinate the UX Research team to create and maintain training materials.
-* Actively advocate for UX Research throughout the company, so that the company is aware of what UX Research does, how they do it, and what insights they have delivered.
-* Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
-* Identify ways to more efficiently and effectively conduct remote user research, and share those learnings with the wider community.
-* Work with Product Operations to ensure UX research is included appropriately in the [Product Development Flow](/handbook/product-development-flow/).
-* Define and manage [Performance Indicators](/handbook/engineering/ux/performance-indicators/) for the UX Research team.
-* Create and manage [OKRs](/company/okrs/) for the UX Research team with guidance from UX Leadership.
-* Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
-* Conduct regular [1:1 meetings](https://about.gitlab.com/handbook/leadership/1-1/) with their direct reports and quarterly [skip-level meetings](https://about.gitlab.com/handbook/leadership/skip-levels/) with the reports of their direct reports.
-* Provide clear and direct feedback to the people they manage, their own manager, and cross-functional partners when needed.
-* Hire and retain a world-class team of UX Researchers.
+- Create an open and collaborative culture based on trust in the UX Research team.
+- Develop an overarching UX research strategy for GitLab, and work with the UX Research team and cross-functional partners to execute that strategy.
+- Facilitate the creation and execution of UX Research OKRs in collabration with the UX Research team and UX Leadership.
+- Define and manage performance indicators for the UX Research team by actively contributing to the UX Research KPIs on the UX KPIs page in the handbook.
+- Coach UX Research Managers on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
+- Help drive cross-product research by having an awareness of what's happening across all sections through active participation in UX Research peer reviews, UX Showcases, and Group Conversations.
+- Actively advocate for UX Research throughout the company, so that the company is aware of what UX Research does, how they do it, and what insights they have delivered.
+- Support UX Research Managers career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
+- Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
+- Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
+
 
 #### Requirements
 
