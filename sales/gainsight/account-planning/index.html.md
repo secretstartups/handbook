@@ -84,10 +84,13 @@ This section of the account plan serves to capture relevant information about ou
 
 ### Whitespace Mapping
 
-1.  The Gainsight widget for Account Planning has two tabs for whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
+This activity is best done as a team, Solutions Architects and Technical Account Managers can help ensure this section reflects the team's understanding of the opportunities within the account. 
+1. In Gainsight, there are two different sections for whitespace mapping. Whitespace (Use Case) and Whitespace (Use Case Visual).
       - **Whitespace (Use Case):** This is where you will enter the data. It will flow back into Salesforce but cannot be edited in Salesforce at this time. 
       - **Whitespace (Use Case Visual):** After data has been entered, use this tab to see a visual representation of the data.  There are multiple views from which to choose. 
 1. Reference this [Whitespace Mapping page](/handbook/sales/account-planning/#white-space-mapping) for further detail on the methodology.
+
+For each use case, seek to understand if the customer is using a competing technology aligned to each of the use cases (there is a picklist in Gainsight), if there is an appetite for replacement (green indicates there is an appetite for change), and when that contract ends.  
 
 
 ### Company Intelligence
