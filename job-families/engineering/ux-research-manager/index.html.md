@@ -17,23 +17,24 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 
 #### Responsibilities
 
-Build and manage a high performing UX Research team.
-Set clear expectations and goals for UX Researchers while holding them accountable for success.
-Provide clear, actionable feedback and support to develop and grow UX Researchers.
-Support UX Researcher's career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
-Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
-Build and develop your research toolkit to extend across all levels of complexity.
-Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
-Personally initiate and conduct research projects to build stronger foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
-Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
-Regularly sync with Product Management Directors to understand strategy, discover blockers, manage quality, and help ensure UX Research prioritization.
-Develop and utilize reusable research project prioritization approaches for UX Researchers to leverage within their own teams.  Work with UX Researchers and Product in applying these approaches to ensure UX Researchers have a clear set of prioritized research projects.
-Manage the UX Research peer-review process to ensure test plans and final deliverables have been reviewed by at least one other UX Researcher.
-Build relationships with other managers across disciplines, and act as a liaison with teams throughout the wider organization that have ongoing research needs.
-Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
-Exert significant influence on the overall objectives and long-range goals of the UX Research team.
-Interview potential UX candidates.
-Actively contribute to the UX Research team culture, processes, and documentation.
+- Build and manage a high performing UX Research team.
+- Set clear expectations and goals for UX Researchers while holding them accountable for success.
+- Provide clear, actionable feedback and support to develop and grow UX Researchers.
+- Support UX Researcher's career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
+- Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
+- Build and develop your research toolkit to extend across all levels of complexity.
+- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
+- Personally initiate and conduct research projects to build stronger foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
+- Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
+- Regularly sync with Product Management Directors to understand strategy, discover blockers, manage quality, and help ensure UX Research prioritization.
+- Develop and utilize reusable research project prioritization approaches for UX Researchers to leverage within their own teams.  Work with UX Researchers and Product in applying these approaches to ensure UX Researchers have a clear set of prioritized research projects.
+- Manage the UX Research peer-review process to ensure test plans and final deliverables have been reviewed by at least one other UX Researcher.
+- Build relationships with other managers across disciplines, and act as a liaison with teams throughout the wider organization that have ongoing research needs.
+- Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
+- Exert significant influence on the overall objectives and long-range goals of the UX Research team.
+- Interview potential UX candidates.
+- Actively contribute to the UX Research team culture, processes, and documentation.
+
 
 #### Requirements
 
