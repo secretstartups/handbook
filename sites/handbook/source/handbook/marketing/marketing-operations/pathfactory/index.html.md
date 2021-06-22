@@ -718,5 +718,5 @@ To set up Drift on your PathFactory track:
 
 1. Select the `MOps: Drift` external code snippet on the `External Code` field within your track settings.
 1. Click `Update`.
-1. [Create a Drift campaign request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=Drift_Campaign_Request) and provide the PathFactory track link in the issue. Add the `PathFactory` issue label and cc `@sdaily`. 
+1. [Create a Drift campaign request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=Drift_Campaign_Request) and provide the PathFactory track link in the issue. Add the `PathFactory` issue label and cc `@MihaiConteanu`. 
 1. Once the Drift campaign request issue is complete, document your PathFactory track and associated Drift playbook in the [PathFactory changelog](https://docs.google.com/document/d/1qd9X-V0WNBTklCKNYVRmjJtiOcPu6dZYkfJ2uuQt_Co/edit) with relevant links.
