@@ -165,6 +165,11 @@ If you are adding Certificates to SheetLoad, refer to the instructions in the [P
 Zuora Revenue is an application where you can automate the complicated revenue management process in compliance with the latest revenue standards (ASC 606 and IFRS 15).
 As part of data pipeline for Zuora Revenue extraction process , we extract data using REST Call from Zuora Revenue BI views.
 The data entities for Zuora Revenue BI views are based on the key physical tables. Some BI views are similar to the physical tables on which they are based. Other BI views are derived from calculations based on the physical tables.   
+
+### Zuora Network Architecture 
+![Zuora Network ](https://lucid.app/publicSegments/view/81713250-c9ab-410d-8cde-4b4ce7865b56/image.png)
+
+
 From this [list](https://knowledgecenter.zuora.com/Zuora_Revenue/Zuora_Revenue_BI_views) only below table are being loaded or had data for Gitlab in Zuora Revenue at the moment for integration. 
 
 Below is the list of table which has data and which will be created in snowflake. The table which is not having data will not be created because the table definition provided by Zuora API is not on the column ordinal position but it alphabetical order, which makes column labeling incorrect.
@@ -183,7 +188,7 @@ Below is the list of table which has data and which will be created in snowflake
 |10|MJE|RPRO_BI3_MJE_V|BI3_MJE|BI3_MJE|Yes|Yes|
 |11|POB|RPRO_BI3_RC_POB_V|BI3_RC_POB|BI3_RC_POB|Yes|Yes|
 |12|Schedules|RPRO_BI3_RC_SCHD_V|BI3_RC_SCHD|BI3_RC_SCHD|Yes|Yes|
-|13|Waterfall (Derived)|RPRO_BI3_WF_SUMM_V|BI3_WF_SUMM|BI3_WF_SUMM|Yes|Yes|
+|13|Waterfall (Derived)|RPRO_BI3_WF_SUMM_V|BI3_WF_SUMM|BI3_WF_SUMM|Yes|No|
 |14|Org|RPRO_BI3_ORG_V|BI3_ORG|BI3_ORG|No|No|
 |15|Acct Summary (Derived)|RPRO_BI3_LN_ACCT_SUMM_V|BI3_LN_ACCT_SUMM|BI3_LN_ACCT_SUMM|No|No|
 |16|Book|RPRO_BI3_BOOK_V|BI3_BOOK|BI3_BOOK|No|No|
@@ -266,8 +271,6 @@ echo "table_name,load_date
 BI3_RC_SCHD_DEL," > start_date_BI3_RC_SCHD_DEL.csv
 echo "table_name,load_date
 BI3_RI_ACCT_SUMM," > start_date_BI3_RI_ACCT_SUMM.csv
-echo "table_name,load_date
-BI3_WF_SUMM," > start_date_BI3_WF_SUMM.csv
 ```
 
 This command create the file for each table and then putting required column name and value. 
@@ -289,7 +292,6 @@ gsutil cp start_date_BI3_RC_POB.csv  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3
 gsutil cp start_date_BI3_RC_SCHD.csv  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_SCHD/
 gsutil cp start_date_BI3_RC_SCHD_DEL.csv  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RC_SCHD_DEL/
 gsutil cp start_date_BI3_RI_ACCT_SUMM.csv  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_RI_ACCT_SUMM/
-gsutil cp start_date_BI3_WF_SUMM.csv  gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_WF_SUMM/
 ```
 
 `Step 7`: To run the extract below variable needs to be declared in the .bash_profile file of the server.   
@@ -319,8 +321,10 @@ The current schedule is set to run at 02:00 AM UTC every day.
 00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_RC_SCHD       -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
 00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_RC_SCHD_DEL   -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
 00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_RI_ACCT_SUMM  -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
-00 02 * * * . $HOME/.bash_profile;$python_venv && cd $zuora_src && python3 extract_zuora_revenue.py -table_name BI3_WF_SUMM       -bucket_name $zuora_bucket -api_dns_name $zuora_dns -api_auth_code "$authorization_code" &>/tmp/mycommand.log
 ```
+
+## Zuora Extract Flow Chart 
+![Zuora Extract FLow](https://lucid.app/publicSegments/view/87b3c145-78aa-4fe8-bc1e-63c4c008c0a1/image.png)
 
 At the end of the process below will be output. 
 1) A success log file is present named `<table_name>_DD-MM-YYYY.log`  upload to path zuora_revpro_gitlab/RAW_DB/staging/<table_name>/<table_name>_DD-MM-YYYY.log.log. For example for table BI3_MJE the log file for the day will be named `BI3_MJE_21-06-2021.log` and it will be uploaded to the path `gs://zuora_revpro_gitlab/RAW_DB/staging/BI3_MJE/BI3_MJE_21-06-2021.log`
@@ -335,3 +339,6 @@ From this list if any table get the data and we need to add the entry to snowfla
 
 **Notes:** Don't use the describe column API to create the table definition because the order of column in list may differ from original table definition. 
 
+
+### For Derived table 
+Zuora have provided view definition for the derived view. As extracting data from the derived view is not feasible in production. Hence for table BI3_WF_SUMM we prepare the data in the DBT model in PREP layer with the DDL provided from Zuora. The DDL definition is present in extract/zuora_revenue/README.md in repo. 
