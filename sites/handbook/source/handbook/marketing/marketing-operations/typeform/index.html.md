@@ -16,7 +16,7 @@ Typeform makes collecting and sharing information comfortable and conversational
 
 ### Access
 
-On our current plan with Typeform, there can only be 1 shared login. For access, please send a Slack DM to `@sdaily`. 
+On our current plan with Typeform, there can only be 1 shared login. To request access, post a Slack message to `#mktgops`. 
 
 ### Creating a Typeform for use on about.gitlab.com
 
