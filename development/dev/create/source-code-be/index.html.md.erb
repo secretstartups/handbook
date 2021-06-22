@@ -57,7 +57,9 @@ For more urgent items, feel free to use [#g_create_source_code] on Slack.
 
 ### Working with product
 
-Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of `~"Deliverable"`s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
+Weekly calls between the product manager and engineering managers (frontend and backend) are listed in the "Source Code Group" calendar. Everyone is welcome to join and these calls are used to discuss any roadblocks, concerns, status updates, deliverables, or other thoughts that impact the group. 
+
+Every 2 weeks (in the middle of a release), a mid-milestone check-in occurs, to report on the current status of `~"Deliverable"`s. Monthly calls occurs under the same calendar where the entire group is encouraged to join, in order to highlight accomplishments/improvements, discuss future iterations, review retrospective concerns and action items, and any other general items that impact the group.
 
 #### Issue refinement
 
@@ -269,6 +271,35 @@ Once availability has been determined, weights have been assigned, and the PM/EM
 
 Emails get sent to each individual contributor on the team, as well as the Application Security counterpart, in order to give a heads-up about the upcoming issues in the milestone and what the assignments will be.
 
+##### Kickoff emails
+
+The Kick-off emails are sent manually by the EM, and use this template:
+
+```
+Hi _team member_,
+
+For 14.1, you are available 90% of the time, so your weight budget is 9.
+
+This is due to: Family and Friends Day 2021-06-25 and OOO 2021-06-24.
+
+These are the issues you're being assigned, please speak up if they
+are unreasonable (blocked, too large, etc):
+
+- Mirrors won't download new LFS files
+https://gitlab.com/gitlab-org/gitlab/-/issues/331364
+
+_list each issue here_
+
+Here is the build board for the group:
+
+https://gitlab.com/groups/gitlab-org/-/boards/363876?label_name%5B%5D=group::source%20code&label_name%5B%5D=Deliverable&label_name%5B%5D=backend&milestone_title=14.1
+
+Many thanks for all of your efforts,
+
+Sean
+
+```
+
 #### Follow-up issues
 
 You will begin to collect follow-up issues when you've worked on something in a release but have tasks leftover, such as technical debt, feature flag rollouts or removals, or non-blocking work for the issue. For these, you can address them in at least 2 ways:
@@ -282,13 +313,6 @@ If there are many follow-up issues, consider creating an epic.
 #### Backend and Frontend issues
 
 Many issues require work on both the backend and frontend, but the weight of that work may not be the same. Since an issue can only have a single weight set on it, we use scoped labels instead when this is the case: `~backend-weight::<number>` and `~frontend-weight::<number>`.
-
-### What to work on
-
-<%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Source Code", slack_channel: 'g_create_source_code' }) %>
-
-[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group::source%20code&label_name[]=backend
-[assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/1143518
 
 ### Workflow labels
 
