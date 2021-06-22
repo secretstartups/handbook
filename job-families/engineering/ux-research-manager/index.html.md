@@ -33,7 +33,6 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Build relationships with other managers across disciplines, and act as a liaison with teams throughout the wider organization that have ongoing research needs.
 - Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
 - Exert significant influence on the overall objectives and long-range goals of the UX Research team.
-- Interview potential UX candidates.
 - Actively contribute to the UX Research team culture, processes, and documentation.
 
 
