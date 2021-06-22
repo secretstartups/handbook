@@ -800,7 +800,7 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
    1. Sometimes infradev issues will resolve on their own, or are resolved as a side-effect of an unrelated change.
    1. In the infradev issue description, provide a clear way of checking whether the problem still exists.
    1. Having a way of checking validity can save on a great deal of back-and-forth discussion between Infradev Triage participants including Engineering Managers, Directors and Product Managers and make space for other non-resolved issues to get scheduled sooner.
-   1. Ideally, provide a link to a Thanos query or an ELK query and clear instructions on how to interpret the results to determine whether the problem is still occurring.
+   1. Ideally, provide a link to a Thanos query or an ELK query and clear instructions on how to interpret the results to determine whether the problem is still occurring. [Check the "Verfication" section in this issue as an example of this](https://gitlab.com/gitlab-org/gitaly/-/issues/3670#verification).
    1. Alternatively, provide clear instructions on how to recreate or validate the problem.
    1. If an issue has been resolved, use the following process:
       1. Reassign the issue back to the author, or an appropriate owner, requesting that they confirm the resolution, and close the issue  if they concur. If not, they should follow up with a note and unassign themselves.
