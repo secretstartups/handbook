@@ -183,7 +183,7 @@ The Backend Manager, Engineering role is a [grade 8](/handbook/total-rewards/com
 * Contribute to the sense of psychological safety on your team
 * Generate and implement process improvements
 * Hold regular [1:1's](/handbook/leadership/1-1/) with all members of their team
-* Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format)
+* Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Foster technical decision making on the team, but make final decisions when necessary
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
@@ -416,17 +416,17 @@ making the GitLab project maintainable in the long-term.
 * Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 * Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity) for more details.
+See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity/) for more details.
 The position also involves working with the community as
 [merge request coach](/job-families/expert/merge-request-coach/), and working together with our
-[Backend Engineers](/job-families/engineering/backend-engineer) to respond and
+[Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
 address issues from the community.
 
 #### Engineering Productivity Performance Indicators
 
 Engineering Productivity Engineers have the following job-family performance indicators.
 
-* [GitLab project master pipeline success rate](/handbook/engineering/quality/performance-indicators/#gitlab-project-master-pipeline-success-rate))
+* [GitLab project master pipeline success rate](/handbook/engineering/quality/performance-indicators/#gitlab-project-master-pipeline-success-rate)
 * [Average merge request pipeline duration for GitLab](/handbook/engineering/quality/performance-indicators/#average-merge-request-pipeline-duration-for-gitlab)
 * [Average cost per merge request pipeline for GitLab](/handbook/engineering/quality/performance-indicators/#average-cost-per-merge-request-pipeline-for-gitlab)
 * [Review App deployment success rate for GitLab](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab)
