@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Stock Administration"
+description: "Responsible for administering GitLab’s equity incentive program which includes option and RSU grants to team members."
 ---
 
 ## Senior Stock Administrator
@@ -66,4 +67,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: Revenue Accounting
+description: "The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group. The Revenue Accounting Team is responsible for Worldwide Revenue Assurance & Accounting."
 ---
 
 The Revenue Accounting Team at Gitlab form part of the Revenue Accounting Group. The Revenue Accounting Team is responsible for Worldwide Revenue Assurance & Accounting. 
@@ -249,4 +250,4 @@ Candidates for the Revenue Accounting team can expect the hiring process to foll
 - Finally, candidates may be asked to interview with the Principal Accounting Officer
 - Successful candidates will subsequently be made an offer via email or phone call
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/)

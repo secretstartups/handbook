@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "GitLab for Education"
+description: "The GitLab for Education team’s mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe."
 ---
  
 ## GitLab for Education
@@ -50,7 +51,7 @@ The Education Program Manager is a [grade 6](/handbook/total-rewards/compensatio
  
 #### Education Program Manager Responsibilities
  
-- Run and develop the [GitLab for Education](/solutions/education) program. Increase operational efficiencies and streamline processes. 
+- Run and develop the [GitLab for Education](/solutions/education/) program. Increase operational efficiencies and streamline processes. 
 - Establish relationships with educational institutions to produce inspirational case studies of their use of GitLab. Showcase Program Member’s success through Case Studies, webinars, blog posts, spotlights, and media campaigns.
 - Build the foundations of a GitLab for Education community and engage with program members.
 - Expand the GitLab for Education program with a learning package to facilitate and incentivize the use of GitLab for Educational purposes.
@@ -136,4 +137,4 @@ Candidates for positions within the GitLab for Education team can expect the hir
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via video, phone, or email.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

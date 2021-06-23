@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Internal Audit"
+description: "Internal Audit function is responsible to assess the effectiveness of risk management, control and governance processes."
 ---
 
 Internal Audit function is responsible to assess the effectiveness of risk management, control and governance processes. Internal Audit will also provide insight and recommendations that can enhance these processes, particularly relating to effectiveness of operations, reliability of financial management and reporting and Compliance with laws and regulations. 
@@ -391,5 +392,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates will interview with Chairman of the Audit Committee.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
 

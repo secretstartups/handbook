@@ -131,8 +131,8 @@ Candidates for this position can expect the hiring process to follow the order b
 * A 30 minute interview with future marketing partner/s based on specialization
 * Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Relevant Links
 
-[Marketing Handbook](/handbook/marketing)
+[Marketing Handbook](/handbook/marketing/)

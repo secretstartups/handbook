@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Software Engineer in Test"
+description: "Software Engineers in Test at GitLab help grow our test automation efforts across the entire GitLab ecosystem."
 ---
 
 ## On this page
@@ -91,7 +92,7 @@ The Staff Software Engineer in Test responsibilities have been documented under 
 
 ## Career Ladder
 
-The next step for both individual contributors and managers of people is to move to the [Quality Engineering Leadership](/job-families/engineering/engineering-management-quality) job family.
+The next step for both individual contributors and managers of people is to move to the [Quality Engineering Leadership](/job-families/engineering/engineering-management-quality/) job family.
 
 ## Performance Indicators
 
@@ -118,4 +119,4 @@ To learn more about someone who may be conducting the interview, find their job 
 - Finally, candidates will be invited to schedule a 45 minute interview with the Head of Quality.
 - Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

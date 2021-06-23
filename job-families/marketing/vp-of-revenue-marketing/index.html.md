@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Vice President of Revenue Marketing"
+description: "Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done."
 ---
 
 Our Vice President of Revenue Marketing is an innovative and energetic leader, with a knack for empowering high performing teams and an ability to get things done. Reporting to the CMO, the Vice President of Revenue Marketing is accountable for creating and executing a scalable marketing strategy to achieve new business pipeline and revenue targets. The Vice President of Revenue Marketing plays an integral role in driving revenue growth for the company across all channels and geos. This is a highly visible global role in the organization, responsible for the development and implementation of effective demand generation programs with an emphasis on lead generation, pipeline creation and nurturing prospects/customers along the buyer’s journey.
@@ -55,7 +56,7 @@ The Vice President of Revenue Marketing role is a [grade 12](/handbook/total-rew
 ## Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters.
 * A 45 minute interview with Chief Marketing Officer
@@ -65,4 +66,4 @@ Qualified candidates will be invited to schedule a 30 minute [screening call](/h
 * Successful candidates will subsequently be made an offer via email
 
 ## Relevant Links
-- [Marketing Handbook](/handbook/marketing)
+- [Marketing Handbook](/handbook/marketing/)
