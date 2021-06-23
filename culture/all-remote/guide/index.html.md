@@ -295,6 +295,10 @@ Hybrid-remote companies have one or more offices where a subset of the company c
 
 Learn more about [advantages, challenges, and the primary differences between all-remote and other forms of remote working](/company/culture/all-remote/part-remote/).
 
+## Comparing All-Remote Benefits vs. Hybrid-Remote Benefits
+
+Learn more about the [differences in workplace experience](/company/culture/all-remote/all-remote-vs-hybrid-remote-compared) by individuals who are *remote by default* in an all-remote setting vs. a hybrid-remote setting, working with colleagues who are onsite by default. 
+
 ## Transitioning or adding remote
 
 Learn more about [considerations for transitioning a colocated or hybrid-remote company to 100% remote](/company/culture/all-remote/transition/).
