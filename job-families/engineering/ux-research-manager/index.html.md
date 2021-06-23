@@ -21,7 +21,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Create an open and collaborative culture based on trust in the UX Research team.
 - Set clear expectations and goals for UX Researchers while holding them accountable for success.
 - Provide clear, actionable feedback and support to develop and grow UX Researchers.
-- Support UX Researcher's career development by ensuring: 1) they each have a Individual Growth Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Individual Growth Plan.
+- Support your team's career development by ensuring: 1) they each have a Individual Growth Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support each team member's Individual Growth Plan.
 - Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
 - Build and develop your research toolkit to extend across all levels of complexity.
 - Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between smart, scrappy research and rigor.
