@@ -623,11 +623,11 @@ In order to update quote templates that are used in Salesforce, and pulled in fr
 
 #### Quote Entity Information
 
-Note that the GitLab entity information will be populated via the following rules. This table is based on the [ISO-2 billing country code](http://www.nationsonline.org/oneworld/country_code_list.htm) of the direct customer or reseller we are delivering invoices to:
+On Order Forms, GitLab entity information will be populated via the following rules. This table is based on the [ISO-2 billing country code](http://www.nationsonline.org/oneworld/country_code_list.htm) of the direct customer or reseller we are delivering invoices to:
 
-**On New Subscription and Renew Subscription Quotes**
+**New Subscription and Renew Subscription Quotes**
 
-| Customer`s Billing Country (based on the mailing address of the bill to contact populated on the quote object) | Partner`s Billing Country (based on the mailing address of the invoice owner contact populated on the quote object) | GitLab Quote Entity |
+| Customer`s Billing Country | Partner`s Billing Country | GitLab Quote Entity |
 | ------ | ------ | ------ |
 | NL | NL | BV (NL) |
 | DE  | DE | GmbH (DE)|
@@ -635,7 +635,9 @@ Note that the GitLab entity information will be populated via the following rule
 | All countries outside of NL, DE, UK, AU  |All countries outside of NL, DE, UK, AU | Inc. (US) |
 | AU  | AU | PTY LTD (AU) |
 
-**On Amend Subscription Quotes**
+* Note: For direct deals, Billing Country is based on the mailing address of the Bill To contact listed on the quote object. For partner deals, Billing Country is based on the mailing address of the Invoice Owner Contact listed on the quote object.
+
+**Amend Subscription Quotes**
 
 | Existing Subscription Type | Amend Subscription Type | GitLab Quote Entity |
 | ------ | ------ | ------ |
@@ -643,7 +645,6 @@ Note that the GitLab entity information will be populated via the following rule
 | web direct   | sales assisted | Inc. (US) |
 | sales assisted | sales assisted | Same quote entity as on base subscription`s billing account |
 | sales assisted  | web direct | Same quote entity as on base subscription`s billing account |
-
 
 **Quote Entity Exceptions**
 
@@ -654,7 +655,7 @@ Note that the GitLab entity information will be populated via the following rule
 | [Amazon Web Services](https://gitlab.my.salesforce.com/0014M00001ldTdt?srPos=1&srKp=001) | Amazon Web Services, Inc. | "Amazon Web Services" |Inc. (US) |
 | [Epidata SA](https://gitlab.my.salesforce.com/00161000015Lyf9?srPos=0&srKp=001) | Epidata SA | "Epidata SA" | BV (NL) |
 
-**Note**: all initial web direct subscriptions ordered through the portal are placed on the US entity. If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well. **Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
+**Note**: All initial web direct subscriptions ordered through the web store are placed on the US entity. If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well. **Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
 
 ##### How to Update Account IDs in Zuora
 
