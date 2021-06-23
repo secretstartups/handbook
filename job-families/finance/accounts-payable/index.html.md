@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Accounts Payable"
+description: "The Accounts Payable team is responsible for timely and accurate processing and payment of vendor invoices, processing vendor credits and expense reports submitted by GitLab team members."
 ---
 
 The Accounts Payable team is responsible for timely and accurate processing and payment of vendor invoices, processing vendor credits and expense reports submitted by GitLab team members. The Accounts Payable team ensures that all transactions are SOX compliant including obtaining all required supporting documentation and appropriate authorization for disbursements.
@@ -141,4 +142,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - 2 - 4 30 minute peer interviews
 - 45 minute interview with an Executive for any Manager and above role.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).

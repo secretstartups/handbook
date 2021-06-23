@@ -138,7 +138,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, candidates may be asked to interview with the CEO
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
 
 ## Specialties
 
@@ -196,4 +196,4 @@ Candidates for the Tax Accountant position can expect the hiring process to foll
 * At final stage, candidates will be invited to a 30 minute interview with our Principle Accounting Officer
 
 Please note that a candidate may be declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
