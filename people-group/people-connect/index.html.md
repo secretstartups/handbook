@@ -33,7 +33,7 @@ The team collaborates intensively with various internal and external stakeholder
 
 #### Methods of Engagement
 
-GitLab remains a Handbook First organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect. 
+GitLab remains a [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect. 
 
 In the interests of [knowledge sharing](https://about.gitlab.com/handbook/values/#findability) and [transparency](https://about.gitlab.com/handbook/values/#transparency) team members are encouraged to use **#people-connect** [by default](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) when initiating an interaction with the team.
 
