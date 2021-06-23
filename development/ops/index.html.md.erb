@@ -109,6 +109,29 @@ Planning processes followed by teams in the Sub-department:
 
 * [General Ops Sub-department Planning Process](/handbook/engineering/development/ops/general-planning.html)
 
+### Root Cause Analysis (RCA) Process
+
+In FY22-Q2 we are establishing a process for Ops stage groups to complete RCAs for their incidents. ([Ally OKR](https://app.ally.io/objectives/1335501?time_period_id=135090))
+
+DRIs for completing these RCAs is [tracked in this table](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11695#progress).
+
+If you are assigned as a DRI to complete an RCA kindly follow complete these steps:
+
+1. Review and update Timeline on the Incident issue
+    1. Check if the *duration of customer impact* can be determined from the timeline.  If not update the timeline with this information at minimum:
+       1. When the incident first began to impact customers (or best estimate)
+       1. When the customer impact was fully mitigated (or best estimate)
+    1. If this information isn't in the timeline you may find it in issue comments or the incident slack channel.
+1. Review and update Current Status
+    1. Check if *customer impact* is summarized in the Current Status.  If it is not update it with a brief description of the impact this incident had on customers.
+1. Review Root Cause Analysis
+    1. Review and complete the Root Cause Analysis section with members of the your group.  This can be done in the standing weekly [Incident Review Synchronous Meeting Sessions](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#synchronous-review-meeting-sessions), in a team specific sync meeting, or asynchronously in the issue.  Solicit input from the appropriate stable counterparts (e.g. PM, Quality, UX) in addition to Development engineers.
+1. Review Corrective Actions
+    1. Ensure that Corrective Actions identified through the RCA process are identified and linked to the incident issue.  Look for opportunities to catch problems pre-production in development, testing, staging based on the learnings.
+1. Mark the issue as reviewed and completed in the table below.  We will use this information when scoring this OKR.
+
+
+
 ### Ops Engineering Demos
 
 Each month there are two demos sessions organized for both APAC and EMEA timezones. These sessions are organized as opportunities for engineers to show off the things they've been working on. These sessions are each organized via a planning issue linked in the epic below. Sessions are recorded and uploaded to YouTube as well.
