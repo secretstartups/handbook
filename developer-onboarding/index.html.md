@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Developer Onboarding"
+description: "Awesome! You're about to become a GitLab developer! Here you'll find everything you need to start developing."
 ---
 
 Awesome! You're about to become a GitLab developer!
@@ -142,6 +143,6 @@ You're of course free to add other developers as well.
 
 ## Relevant links
 
-- [Engineering Handbook](/handbook/engineering)
-- [Engineering Workflow](/handbook/engineering/workflow)
-- [Product Handbook](/handbook/product)
+- [Engineering Handbook](/handbook/engineering/)
+- [Engineering Workflow](/handbook/engineering/workflow/)
+- [Product Handbook](/handbook/product/)
