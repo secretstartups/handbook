@@ -625,44 +625,34 @@ In order to update quote templates that are used in Salesforce, and pulled in fr
 
 Note that the GitLab entity information will be populated via the following rules. This table is based on the [ISO-2 billing country code](http://www.nationsonline.org/oneworld/country_code_list.htm) of the direct customer or reseller we are delivering invoices to:
 
-<table>
-	<thead>
-		<tr>
-			<th>GitLab Entity</th>
-			<th>Direct Customers and Unofficial Resellers</th>
-			<th>Authorised Resellers</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>BV (NL)</td>
-			<td>NL</td>
-			<td rowspan="5">NOTE: Currently the default invoice entity is BV in the quoting tool.
-				<br />
-				<br />For new resellers: GL entity should be determined based on the signed reseller agreement.
-				<br />
-				<br />For old resellers: check the entity under the account in Zuora
-			</td>
-		</tr>
-		<tr>
-			<td>GmbH (DE)</td>
-			<td>DE</td>
-		</tr>
-		<tr>
-			<td>Ltd (UK)</td>
-			<td>UK</td>
-		</tr>
-		<tr>
-			<td>Inc. (US)</td>
-			<td>All customers outside of NL, DE, UK, AU</td>
-		</tr>
-		<tr>
-			<td>PTY LTD (AU)</td>
-			<td>AU</td>
-		</tr>
-	</tbody>
-</table>
+**On New Subscription and Renew Subscription Quotes**
 
+| Customer`s Billing Country (based on the mailing address of the bill to contact populated on the quote object) | Partner`s Billing Country (based on the mailing address of the invoice owner contact populated on the quote object) | GitLab Quote Entity |
+| ------ | ------ | ------ |
+| NL | NL | BV (NL) |
+| DE  | DE | GmbH (DE)|
+| UK | UK | Ltd (UK) |
+| All countries outside of NL, DE, UK, AU  |All countries outside of NL, DE, UK, AU | Inc. (US) |
+| AU  | AU | PTY LTD (AU) |
+
+**On Amend Subscription Quotes**
+
+| Existing Subscription Type | Amend Subscription Type | GitLab Quote Entity |
+| ------ | ------ | ------ |
+| web direct | web direct | Inc. (US) |
+| web direct   | sales assisted | Inc. (US) |
+| sales assisted | sales assisted | Same quote entity as on base subscription`s billing account |
+| sales assisted  | web direct | Same quote entity as on base subscription`s billing account |
+
+
+**Quote Entity Exceptions**
+
+| SFDC Account Name | Name Of Billing Account(s) | Search Word For Exception Rule In Invoice Owner Field | GitLab Quote Entity |
+| ------ | ------ |------ |------ |
+| [Amazic EMEA (Parent)](https://gitlab.my.salesforce.com/0016100001ecGXx?srPos=0&srKp=001) | Amazic, Amazic BV, Amazic Germany GmbH, Amazic UK Ltd | "Amazic"| Inc. (US)|
+| [Google Cloud (Parter)](https://gitlab.my.salesforce.com/0014M00001nJhks)  | Google Cloud Marketplace | "Google Cloud Marketplace" |Inc. (US) |
+| [Amazon Web Services](https://gitlab.my.salesforce.com/0014M00001ldTdt?srPos=1&srKp=001) | Amazon Web Services, Inc. | "Amazon Web Services" |Inc. (US) |
+| [Epidata SA](https://gitlab.my.salesforce.com/00161000015Lyf9?srPos=0&srKp=001) | Epidata SA | "Epidata SA" | BV (NL) |
 
 **Note**: all initial web direct subscriptions ordered through the portal are placed on the US entity. If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well. **Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
 
