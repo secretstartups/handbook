@@ -195,6 +195,26 @@ Specifically, this means our work is prioritized in the following order:
 
 The goal of this process is to reduce the amount of work in progress (WIP) at any given time. Reducing WIP forces us to "Start less, finish more", and it also reduces cycle time. Engineers should keep in mind that the DRI for a merge request is **the author(s)**, to reflect the importance of teamwork without diluting the notion that having a [DRI is encouraged by our values](/handbook/people-group/directly-responsible-individuals/#dris-and-our-values).
 
+#### Splitting issues
+
+If an issue has several components (e.g. ~frontend, ~backend, or ~documentation) it may be useful to split it up into separate implementation issues.
+The original issue should hold all the discussion around the feature, with the implementation issues being used to track the work done.
+Doing this provides several benefits:
+
+1. There's only one DRI per issue.
+1. Workflow labels and health statuses are more relevant.
+1. We can weight issues with more accuracy.
+1. We can mark one implementation as a blocker for another.
+1. It's easier to see what work can be picked up by each functional group.
+1. We can schedule feature work across multiple milestones.
+
+When creating implementation issues, we need to link the implementation issue to the original feature issue.
+You should be able to see from the feature issue that it depends on implementation issues, and what the status of those issues are.
+It is everyone’s responsibility to keep these issues readable and make sure everything links back to the original feature issue.
+
+Please use implementation issues responsibly.
+They make sense for larger issues, but can be cumbersome for smaller features.
+
 #### Weekly Issue Progress Updates
 
 In order to keep our stakeholders informed of work in progress, we provide updates to issues either by updating the issue's **health status** and/or adding an **async issue update**.
