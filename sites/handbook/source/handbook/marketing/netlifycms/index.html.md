@@ -94,7 +94,7 @@ Please note that it takes time for all existing blog posts to load in the admin.
 
 ### Case Studies/Customer pages
 
-A case study page is a landing page where customers share how they&#39;ve been able to shorten the software development lifecycle while using GitLab. Here is an example: [https://about.gitlab.com/customers/axway-devops/](https://about.gitlab.com/customers/axway-devops/)
+A case study page is a landing page where customers share how they've been able to shorten the software development lifecycle while using GitLab. Here is an example: [https://about.gitlab.com/customers/axway-devops/](https://about.gitlab.com/customers/axway-devops/)
 
 Case studies managed through Netlify CMS can be found at [https://about.gitlab.com/customers/](https://about.gitlab.com/customers/name-of-customer). The content is located/stored in the [/data/case_studies](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/case_studies) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files.
 
