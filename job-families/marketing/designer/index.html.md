@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Designer"
+description: "As a designer for GitLab you would be responsible for creating and maintaining our brand."
 ---
 
 As a designer for GitLab you would be responsible for creating and maintaining our brand. You will work on the design of the GitLab website, all marketing design needs, and all branding. You'll work very closely together with almost everyone in GitLab to make sure we follow good design principles and our branding is clear in everything we do. This means you get a lot of freedom, independence and responsibilities.
@@ -56,6 +57,6 @@ The next step in the Design job family is not yet defined at GitLab.
 
 ## Relevant links
 
-- [Engineering Handbook](/handbook/engineering)
-- [Engineering Workflow](/handbook/engineering/workflow)
-- [Product Handbook](/handbook/product)
+- [Engineering Handbook](/handbook/engineering/)
+- [Engineering Workflow](/handbook/engineering/workflow/)
+- [Product Handbook](/handbook/product/)

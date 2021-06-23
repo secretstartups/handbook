@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Product Operations"
+description: "GitLab is seeking a Sr. Product Manager to manage the GitLab product development system as a product, and help evolve it into a world class system that can scale rapidly with GitLab the company."
 ---
 
 ## Principal Product Manager, Product Operations
@@ -14,7 +15,7 @@ The mission of the GitLab product team is to consistently create products and ex
   - Own the definition and execution of the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/)
   - Recommend and implement optimizations to the [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
   - Drive content and training to uplevel the skills of the product team
-  - Maintain the [Product Handbook](/handbook/product)
+  - Maintain the [Product Handbook](/handbook/product/)
 - **Automate internal and external communication**
   - Automate communication of the [Direction](/handbook/product/product-management/process/#section-and-stage-direction) and [Vision](/handbook/product/product-management/process/#category-direction) pages
   - Ensure smooth communication during the monthly [kick-off](/handbook/product/product-management/process/#kickoff-meetings)

@@ -74,7 +74,7 @@ The Senior Security Engineer role extends the [Intermediate Security Engineer](#
 
 ***
 
-A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/engineering/security-management) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
+A Senior Security Engineer may decide to pursue the [security engineering management track](/job-families/engineering/security-management/) at this point, should they wish to. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail on the tracks available for Senior Engineers.
 
 ***
 
@@ -268,7 +268,7 @@ All interviews are conducted using Zoom video conferencing software. Candidates 
 - 60 Minute Interview with Director of Security or VP of Security, or both
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

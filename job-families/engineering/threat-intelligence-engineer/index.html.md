@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Threat Intelligence Engineer"
+description: "Threat intelligence engineers research and provide information about specific threats to help us protect from the types of attacks that could cause the most damage."
 ---
 
 Threat intelligence engineers research and provide information about specific threats to help us protect from the types of attacks that could cause the most damage.
@@ -49,7 +50,7 @@ The Senior Threat Intelligence Engineer is a [grade 7](/handbook/total-rewards/c
 
 ***
 
-A Senior Security Engineer may want to pursue the [security engineering management track](/job-families/engineering/security-management) at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
+A Senior Security Engineer may want to pursue the [security engineering management track](/job-families/engineering/security-management/) at this point. See [Engineering Career Development](/handbook/engineering/career-development/) for more detail.
 
 ***
 
@@ -84,7 +85,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Successful candidates will subsequently be made an offer via email
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 
