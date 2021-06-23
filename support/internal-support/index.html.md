@@ -164,11 +164,15 @@ If *none* of these above are options for your case, open a [billable members int
 - Seats in subscription, currently in use, max used, owed
 - Subscription Start and End dates
 
+---
+
+### I Want to Escalate a Ticket
+
+Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page.
+
+---
+
 ### Other
-
-#### I Want to Escalate a Ticket
-
-Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page, specifically the section documenting [how to escalate a ticket](/handbook/support/internal-support/support-escalations.html#requesting-an-escalation).
 
 #### Trials and Prospect Support
 
