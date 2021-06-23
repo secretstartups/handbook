@@ -13,7 +13,7 @@ The Senior Revenue Programs Manager reports to the Senior Director of Field Enab
 
 #### Senior Revenue Programs Manager Job Grade 
 
-The Senior Revenue Programs Manager role is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Revenue Programs Manager role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Revenue Programs Manager Responsibilities
 
