@@ -94,7 +94,7 @@ The Director, Security Operations is a [grade 10](/handbook/total-rewards/compen
 - Define and plan priorities for security related activities based on that risk analysis
 - Determine appropriate combination of internal security efforts and external security efforts including bug bounty programs, external security audits (penetration testing, black box, white box testing)
 - Analyze and advise on new security technologies
-- Build and manage a team, which currently consists of [Security Managers](/job-families/engineering/security-management), [Security Engineers](/job-families/engineering/security-engineer), and [Security Analysts](/job-families/engineering/security-analyst)
+- Build and manage a team, which currently consists of [Security Managers](/job-families/engineering/security-management/), [Security Engineers](/job-families/engineering/security-engineer/), and [Security Analysts](/job-families/engineering/security-analyst/)
    - Identify and fill positions
    - Grow skills in team leads and team members, for example by
    creating training and testing materials
@@ -120,7 +120,7 @@ Candidates for the director positions can expect the hiring process to follow th
 * Candidates will then be invited to schedule an interview with CTO of Engineering
 * Successful candidates will subsequently be made an offer via email
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Vice President (VP) of Security
 This position reports to the Chief Technology Officer (CTO).
@@ -175,7 +175,7 @@ Candidates for the director positions can expect the hiring process to follow th
 * Candidates will then be invited to schedule an interview with CEO
 * Successful candidates will subsequently be made an offer via email
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

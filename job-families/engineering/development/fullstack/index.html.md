@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Fullstack Engineers"
+description: "Fullstack Engineers at GitLab work in the Growth department, which analyzes the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features."
 ---
 
 Fullstack Engineers at GitLab work in the Growth department, which analyzes the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users.  They work in small groups with a product manager, Product designer and a data analyst in order to scale GitLab usage by connecting users to the existing value that GitLab already delivers.
@@ -67,12 +68,12 @@ The Staff Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation
 ## Relevant links
 
 - [Product Vision - Growth](/direction/growth/)
-- [Engineering Handbook](/handbook/engineering)
-- [Engineering Workflow](/handbook/engineering/workflow)
+- [Engineering Handbook](/handbook/engineering/)
+- [Engineering Workflow](/handbook/engineering/workflow/)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
 * Next, candidates will be invited to schedule a 60 minute behavioral interview with the Director of Engineering, Growth.
@@ -80,7 +81,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

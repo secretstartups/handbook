@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "UX Researcher"
+description: "At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, behave, and priorities."
 ---
 
 At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, how they should behave, and what the priorities should be. UX Researchers report to the UX Research Manager.
@@ -146,11 +147,11 @@ For more details on the engineering career ladders, please review the [engineeri
 
 - [UX Department Handbook](/handbook/engineering/ux/)
 
-- [Product Handbook](/handbook/product)
+- [Product Handbook](/handbook/product/)
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Selected candidates will be invited to schedule a 1-hour [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have. We will also cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.  
 
@@ -193,6 +194,6 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Successful candidates will subsequently be made an offer via Zoom.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 [groups]: /company/team/structure/#groups
