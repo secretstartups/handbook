@@ -376,6 +376,7 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 *   Scoped/Custom Services must always be quoted on a standalone opportunity, separately from any subscription products SKUs. (i.e. You may NOT sell a 12 month SaaS Ultimate SKU on the same quote/opp as Scoped/Custom Services).
 *   Create a New Business Opportunity and select “Professional Services Only” under “Opportunity Record Type.”
 *   Create a new subscription quote under the Professional Services opportunity by following the steps above under “new Subscription Quote.” Select the **GitLab Service Package** SKU. Update the price to reflect the total price on the SOW.
+*   To gain support from the Professional Services team with a Custom SOW, initiate a scoping issue using the [Services Calculator](https://services-calculator.gitlab.io/) and work with a Professional Services [Engagement Manager](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/engagement-mgmt/).
 
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
@@ -476,7 +477,7 @@ For more information on ARR calculation for Ramp Deals, see [ARR in Practice](ht
 
 #### How to Process a Professional Services SOW Amendment (Change Order)
 
-Occasionally, changes will be made to a Custom SOW after an opportunity has been booked. These changes could include delivery (invoice) schedules or types of services delivered. The total value of the opportunity **should not change.** If the total value of an opportunity changes, this will require an internal refund and rebooking of the order. 
+Occasionally, changes will be made to a Custom SOW after an opportunity has been booked. These changes could include delivery (invoice) schedules or types of services delivered. The total value of the opportunity **should not change.** If the total value of an opportunity is negatively impacted, this will require an internal refund and rebooking of the order. Should there be additional revenue generated as a result of this Change Order, a new Professional Services Only opportunity is required to account for the _delta value_.
 
 #### Creating Decomission Opportunties
 
