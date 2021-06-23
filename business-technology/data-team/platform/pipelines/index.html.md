@@ -333,9 +333,9 @@ At the end of the process below will be output.
 
 ## In order to add table for extraction to Snowflake.
 From this list if any table get the data and we need to add the entry to snowflake then we need to follow below steps.    
-**Step 1:**  Add the entry  `extract/zuora_revenue/zuora_revenue_table_name.yml` to add task in the `zuora_revenue_load_snow` DAG.  
-**Step 2:** For the respective table follow  Step 5,Step 6 and Step 8.
-**Step 3:** Pickup the column name from the file downloaded and set all column to varchar , then create the table in snowflake RAW.ZUORA_REVENUE schema.
+**Step 1:** Add the entry `extract/zuora_revenue/zuora_revenue_table_name.yml` to add task in the `zuora_revenue_load_snow` DAG.  
+**Step 2:** For the respective table follow  Step 5, Step 6 and Step 8.
+<br>**Step 3:** Pickup the column name from the file downloaded and set all column to varchar, then create the table in snowflake RAW.ZUORA_REVENUE schema.
 
 **Notes:** Don't use the describe column API to create the table definition because the order of column in list may differ from original table definition. 
 
