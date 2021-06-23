@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "[Go to Market](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/) Rules of Engagement"
+title: "Go to Market Rules of Engagement"
 description: "Rules of Engagement"
 ---
 
