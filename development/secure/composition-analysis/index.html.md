@@ -225,7 +225,7 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 ### Error budget
 
-We are currently in the process of reviewing ou error budget and identifying where we spend the most of it. See https://gitlab.com/gitlab-org/gitlab/-/issues/331859. 
+We are currently in the process of reviewing ou error budget and identifying where we spend the most of it. See [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331859). 
 
 ### Largest Contentful Paint (LCP) 
 
