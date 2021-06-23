@@ -47,6 +47,29 @@ Peformance Indicator dashboards relevant to the Sub-department.
 * [Ops Sub-department Performance Indicators ](/handbook/engineering/development/performance-indicators/ops/)
 * [Development Department and Sub-department MR Metrics](https://app.periscopedata.com/app/gitlab/533956/Development-Department-and-Sub-department-MR-Metrics)
 
+### Error Budgets
+
+In FY22-Q2 we are adopting [Error Budgets](/handbook/engineering/error-budgets/) as Performance Indicators for stage groups.
+
+* GitLab OKR url: [https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11694](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11694)
+* Ally OKR url: [https://app.ally.io/objectives/1335502?tab=undefined&time_period_id=135090](https://app.ally.io/objectives/1335502?tab=undefined&time_period_id=135090)
+
+#### Error Budget dashboards for stage groups
+
+* Verify stage
+    * [Pipeline Execution](https://dashboards.gitlab.net/d/stage-groups-continuous_integration/stage-groups-group-dashboard-verify-continuous-integration?orgId=1)
+    * [Pipeline Authoring](https://dashboards.gitlab.net/d/stage-groups-pipeline_authoring/stage-groups-group-dashboard-verify-pipeline-authoring?orgId=1)
+    * [Testing](https://dashboards.gitlab.net/d/stage-groups-testing/stage-groups-group-dashboard-verify-testing?orgId=1)
+    * [Runner](https://dashboards.gitlab.net/d/stage-groups-runner/stage-groups-group-dashboard-verify-runner?orgId=1)
+* Package stage
+    * [Package](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1) | [Logs](https://log.gprd.gitlab.net/goto/c41e9f0228c80bd4d3f3104d4a8895ee)
+* Release stage
+    * [Release](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1)
+* Configure stage
+    * [Configure](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1)
+* Monitor stage
+    * [Monitor](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1)
+
 ## Communications
 
 ### Slack channels
@@ -117,28 +140,3 @@ We make an effort to celebrate our accomplishments.
 ### FY21 Celebrations
 
 * [Archive of FY21 Celebrations](/handbook/engineering/development/ops/fy21-celebrations)
-
-## Error Budgets
-
-With the introduction of [Error Budgets](/handbook/engineering/error-budgets/) for stage groups, as well as an FY22-Q2 OKR to establish these error budgets as performance indicators for groups, there are several tools that can be used to evaluate error budgets and what action to take.
-
-A key tool is the stage group dashboard, for example the is the Package Group's dashboard: https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1. When look at the dashboard, a team member can quickly establish whether the error budget is being exceeded or not. As desicribed in [the documentation](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget), our error budget is made up of our Apdex performance as well as our error rate.
-
-When evaluating the budget spent, performance information and endpoints contributing can be discovered in the dashboard for a team. For error rate, it's helpful to review the logs in Kibana for the feature categories for a team with HTTP response codes in the 500s. Here's an example for the Package group: https://log.gprd.gitlab.net/goto/c41e9f0228c80bd4d3f3104d4a8895ee
-
-In making an evaluation as to what's contributing to a group's error budget, the dashboard can be used to determine whether there are any slow running queries whereas the logs can be used to determine which errors are actually occuring in production.
-
-### Error Budget dashboards for stage groups
-* Verify stage
-    * [Pipeline Execution](https://dashboards.gitlab.net/d/stage-groups-continuous_integration/stage-groups-group-dashboard-verify-continuous-integration?orgId=1)
-    * [Pipeline Authoring](https://dashboards.gitlab.net/d/stage-groups-pipeline_authoring/stage-groups-group-dashboard-verify-pipeline-authoring?orgId=1)
-    * [Testing](https://dashboards.gitlab.net/d/stage-groups-testing/stage-groups-group-dashboard-verify-testing?orgId=1)
-    * [Runner](https://dashboards.gitlab.net/d/stage-groups-runner/stage-groups-group-dashboard-verify-runner?orgId=1)
-* Package stage
-    * [Package](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1) | [Logs](https://log.gprd.gitlab.net/goto/c41e9f0228c80bd4d3f3104d4a8895ee)
-* Release stage
-    * [Release](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1)
-* Configure stage
-    * [Configure](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1)
-* Monitor stage
-    * [Monitor](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1)
