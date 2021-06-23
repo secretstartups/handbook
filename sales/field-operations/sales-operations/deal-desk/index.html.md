@@ -627,7 +627,7 @@ On Order Forms, GitLab entity information will be populated via the following ru
 
 **New Subscription and Renew Subscription Quotes**
 
-| Customer`s Billing Country | Partner`s Billing Country | GitLab Quote Entity |
+| Customer's Billing Country | Partner's Billing Country | GitLab Quote Entity |
 | ------ | ------ | ------ |
 | NL | NL | BV (NL) |
 | DE  | DE | GmbH (DE)|
