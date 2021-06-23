@@ -151,3 +151,27 @@ The next step for both individual contributors and managers of people is to move
 ## Performance indicators
 
 * Impressions per month. Number of combined impressions/organic views from the TE team, from a designated number of sources (e.g. social, events, content, etc.)
+
+## Specialties 
+
+### Community Engagement 
+
+The Developer Evangelism team is responsible for [community engagement](/handbook/marketing/community-relations/developer-evangelism/#community-engagement) with the GitLab community and the tech community at large as it relates to GitLab. A Developer Evangelist with a Community Engagement specialty owns that engagement. This includes responding to questions about GitLab on Hacker News, engaging with the GitLab community on Stack Overflow, managing the GitLab Forum, and providing insight and guidance to GitLab's marketing and product teams on the community impact of changes when we are making to our product and business. 
+
+#### Responsibilities 
+
+* Provide thoughtful responses to community member questions on online forums monitored by GitLab's Developer Evangelist team including [Hacker News](/handbook/marketing/community-relations/developer-evangelism/hacker-news/), StackOverflow, [GitLab's blog](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#blog-comments) and the [GitLab Forum](https://forum.gitlab.com/). This involves cross-team collaboration including encouraging other team members to engage with the community and providing feedback to product and engineering teams. 
+* Lead the Developer Evangelist team's support of [community response](/handbook/marketing/community-relations/developer-evangelism/community-response/) situations. This includes:
+  * Manage responsibilities and tasks associated with product and/or business changes that impact the community
+  * Ensure messaging about these changes addresses community concerns
+  * Create community FAQs for impactful changes
+  * Prepare the Developer Evangelist team and other relevant team members per the [community response](/handbook/marketing/community-relations/developer-evangelism/community-response/) process to address community questions on Hackers News and other forums
+
+
+#### Requirements 
+
+* Same as Developer Evangelist plus,
+* Be a natural communicator and enjoy using those skills to help others
+* Comfortable communicating with people via public forums, in line with GitLab's transparency value 
+* Ability to inspire team members across GitLab to engage with directly with members of the wider GitLab community
+* Experience managing or participating in online communities. Experience engaging with online technical communities is a plus.
