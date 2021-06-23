@@ -178,7 +178,7 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 - Are those pains resulting in lost productivity, reduced revenues, increased costs, etc.?
 - How severe is the pain?
 - How long have they been dealing with this pain?
-- Who has the pain and who is in charge of fixing it? What happens if they don't fix it (or don't fix it by or before a specific point in time)?
+- Who has the pain and who is in charge of fixing it? What happens if they don't fix it (or don't fix it by or before a specific point in time)? (Commercial Account Executives are expected to identify this person by name within the Command Plan --> Identify Pain section prior to requesting a GitLab Demo delivered by a GitLab Solution Architect )
 - How does your Champion and Economic Buyer prioritize this pain?
 - Where have we solved this pain before?
 - Does the customer perceive that the pain of change is less than the pain of doing nothing and sticking with the status quo?
