@@ -635,18 +635,20 @@ On Order Forms, GitLab entity information will be populated via the following ru
 | All countries outside of NL, DE, UK, AU  |All countries outside of NL, DE, UK, AU | Inc. (US) |
 | AU  | AU | PTY LTD (AU) |
 
-* Note: For direct deals, Billing Country is based on the mailing address of the Bill To contact listed on the quote object. For partner deals, Billing Country is based on the mailing address of the Invoice Owner Contact listed on the quote object.
+**Note** For direct deals, Billing Country is based on the mailing address of the Bill To contact listed on the quote object. For partner deals, Billing Country is based on the mailing address of the Invoice Owner Contact listed on the quote object.
 
 **Amend Subscription Quotes**
 
-| Existing Subscription Type | Amend Subscription Type | GitLab Quote Entity |
+| Initial Transaction Method | Amendment Transaction Method | GitLab Quote Entity |
 | ------ | ------ | ------ |
-| web direct | web direct | Inc. (US) |
-| web direct   | sales assisted | Inc. (US) |
-| sales assisted | sales assisted | Same quote entity as on base subscription`s billing account |
-| sales assisted  | web direct | Same quote entity as on base subscription`s billing account |
+| Web Direct | Web Direct | Inc. (US) |
+| Web Direct   | Sales-Assisted | Inc. (US) |
+| Sales-Assisted | Sales-Assisted | Same quote entity as on base subscription`s billing account |
+| Sales-Assisted  | Web Direct | Same quote entity as on base subscription`s billing account |
 
-**Quote Entity Exceptions**
+**Note**: All initial web direct subscriptions ordered through the web store are placed on the US entity. For sales-assisted add-ons to subscriptions initially purchased via web store, the amendment quote/Order Form must reflect the US entity.
+
+**Custom Quote Entity Rules**
 
 | SFDC Account Name | Name Of Billing Account(s) | Search Word For Exception Rule In Invoice Owner Field | GitLab Quote Entity |
 | ------ | ------ |------ |------ |
@@ -654,8 +656,6 @@ On Order Forms, GitLab entity information will be populated via the following ru
 | [Google Cloud (Parter)](https://gitlab.my.salesforce.com/0014M00001nJhks)  | Google Cloud Marketplace | "Google Cloud Marketplace" |Inc. (US) |
 | [Amazon Web Services](https://gitlab.my.salesforce.com/0014M00001ldTdt?srPos=1&srKp=001) | Amazon Web Services, Inc. | "Amazon Web Services" |Inc. (US) |
 | [Epidata SA](https://gitlab.my.salesforce.com/00161000015Lyf9?srPos=0&srKp=001) | Epidata SA | "Epidata SA" | BV (NL) |
-
-**Note**: All initial web direct subscriptions ordered through the web store are placed on the US entity. If the initial order was invoiced by the DE entity -through a sales assisted order- and customer orders an add-on via the portal, the add-on will be invoiced by DE as well. **Important**: in case of add-ons, the add-on quote/order form must reflect the same invoice entity that was on the initial/base deal.
 
 ##### How to Update Account IDs in Zuora
 
