@@ -135,4 +135,4 @@ Worthy of mentioning:
 
 ## Relevant links
 
-- [Product Handbook](/handbook/product)
+- [Product Handbook](/handbook/product/)
