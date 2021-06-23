@@ -18,7 +18,7 @@ The Backend Manager, Engineering role is a [grade 8](/handbook/total-rewards/com
 * Contribute to the sense of psychological safety on your team
 * Generate and implement process improvements
 * Hold regular [1:1's](/handbook/leadership/1-1/) with all members of their team
-* Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format)
+* Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Foster technical decision making on the team, but make final decisions when necessary
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
@@ -65,4 +65,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 {Insert hiring process steps here.}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

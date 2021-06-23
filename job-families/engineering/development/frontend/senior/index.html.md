@@ -3,7 +3,7 @@ layout: job_family_page
 title: Senior Frontend Engineer
 ---
 
-Frontend Engineers at GitLab work on our product. This includes both the open-source version of GitLab, the enterprise editions, and the GitLab.com service. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and [backend engineers](/job-families/engineering/backend-engineer) to solve common goals.
+Frontend Engineers at GitLab work on our product. This includes both the open-source version of GitLab, the enterprise editions, and the GitLab.com service. They work with peers on teams dedicated to areas of the product. They work together with product managers, designers, and [backend engineers](/job-families/engineering/backend-engineer/) to solve common goals.
 
 ## Responsibilities
 - Develop features and improvements to the GitLab product in a secure, well-tested, and performant way
@@ -71,7 +71,7 @@ The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation
 - [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
 
 ## Hiring Process
-Candidates for a Frontend Engineering position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for a Frontend Engineering position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 - Selected candidates will be invited to complete a short written assessment.
 - Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
@@ -80,4 +80,4 @@ Candidates for a Frontend Engineering position can expect the hiring process to 
 - Candidates will then be invited to schedule a 60 minute interview with a Director of Engineering
 - Successful candidates will subsequently be made an offer.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

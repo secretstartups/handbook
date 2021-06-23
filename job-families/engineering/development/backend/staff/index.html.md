@@ -210,7 +210,7 @@ to understand what is working and what is not.
 * Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 * Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Quality team](/handbook/engineering/quality) for more details. The position also involves working with the community as [merge request coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer) to respond and address issues from the community.
+See the description of the [Quality team](/handbook/engineering/quality/) for more details. The position also involves working with the community as [merge request coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
 
 ### Memory
 The Memory team is responsible for optimizing GitLab application performance by managing the memory resources required.  The team is also responsible for changes affecting the responsiveness of the application.
@@ -411,7 +411,7 @@ Elasticsearch engineers are focused on delivering a first class global search ex
 * [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
 
 ## Hiring Process
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * As part of the application, candidates are asked to complete a short technical questionnaire, with a possibility of additional technical questions being asked if needed after the application is submitted.
 * Next, candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters.
@@ -419,4 +419,4 @@ Candidates for this position can generally expect the hiring process to follow t
 * Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers.
 * Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 * Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
