@@ -16,7 +16,7 @@ Every feature in `features.yml` _should have both entries_. If it's a brand-new 
 
 #### *How to update:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YNh9_V28ujw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XG917ZHKnQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Open [`data/features.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/features.yml)
 1. For each row on the "SUMMARY_alltime" sheet, you'll update the `pps_aggregate` value to match that new value.
