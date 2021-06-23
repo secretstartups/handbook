@@ -67,7 +67,7 @@ The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensat
 - Coach UX Research Managers on how to conduct 1:1s, growth, and feedback conversations with their direct reports.
 - Help drive cross-product research by having an awareness of what's happening across all sections through active participation in UX Research peer reviews, UX Showcases, and Group Conversations.
 - Actively advocate for UX Research throughout the company, so that the company is aware of what UX Research does, how they do it, and what insights they have delivered.
-- Support UX Research Managers career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
+- Support UX Research Managers' career development by ensuring: 1) they each have a Career Development Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support one's Career Development Plan.
 - Align the way that UX Researchers work with how their cross-functional partners in Product Managment, Product Design, and Engineering prioritize, track, and manage work.
 - Stay informed of industry best practices, and help the team to evolve our research practice accordingly.
 
