@@ -84,8 +84,9 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 |-------------------------------------------------------------------------------------------------------|----------------------|---------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Height-adjustable desk](/company/culture/all-remote/workspace/#desks)                                | $300 - $500          | $500                | 10/10      | We use our desks everyday and need them to be ergonomic and adjustable to our size and needs, whether that is sitting or standing.                                                                                                                                                                                                                                    |
 | [Ergonomic chair](/company/culture/all-remote/workspace/#chairs)                                      | $200 - $400          | $400                | 10/10      | We use our desk chairs hours at a time, and need them to be healthy, supportive, and comfortable.                                                                                                                                                                                                                                                                     |
-| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. Due to low audio quality we do not reimburse air-pods.                                                                                                                                                       |
-| [External monitor](/company/culture/all-remote/workspace/#monitors)                                   | $400                 | $400                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. If your job requires the need for two monitors, each monitor can cost up to $400.                                                                                                                                                                                                                                                   |
+| [Headphones (wired or wireless, with mic ability)](/company/culture/all-remote/workspace/#headphones) | $100                 | $100                | 10/10      | We use our headphones everyday during our [meetings](/company/culture/all-remote/meetings/), to connect with our fellow team members. We need our headphones to be comfortable, functional, and great quality. Due to low audio quality we do not reimburse air-pods.                                                                                                 |
+| [16:9 external monitor (single or dual monitors)](/company/culture/all-remote/workspace/#monitors)              | $500                 | $500                | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. You can expense up to two 16:9 monitors (1080p or 4K) if they are required/helpful for your role. |
+| [Ultra-wide external monitor](/company/culture/all-remote/workspace/#monitors)                        | $1,000               | $1,000              | 10/10      | Finding a monitor that is large, comfortable to use with sharpness is extremely important for our eyes and health. Some team members prefer a single ultrawide monitor over multiple monitors. |
 | [Keyboard](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)                        | $250                 | $250                | 10/10      | Find a keyboard that works for you and is comfortable for your workflow and hand size.                                                                                                                                                                                                                                                                                |
 | [Mouse or Trackpad](/company/culture/all-remote/workspace/#external-keyboard-and-mouse)               | $80 or $145          | $145                | 10/10      | Find a mouse/trackpad that works for you and is comfortable for your workflow.                                                                                                                                                                                                                                                                                        |
 | Laptop stand                                                                                          | $90                  | $90                 | 10/10      | Your eyes and head must look at the same angle as you work and so your laptop must be elevated if you are working with an external monitor.                                                                                                                                                                                                                           |
@@ -162,21 +163,42 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 #### Monitors
 
 ##### Desktop monitors
-  * 4K monitors:
+
+Each person's monitor set up is a personal preference based on your own productivity. In recent years, many team members have decided to change from dual monitors to a single ultrawide monitor. Based on the table above, you can expense up to two 16:9 monitors (up to $500 each is expensable), or one ultrawide monitor (up to $1,000 is expensable). 
+
+If you are an engineer or in a similar role, we encourage dual monitors or an ultrawide monitor. If you are not in an engineer(-like) role, you can make a choice based on your own personal preference and if it is required/helpful for your role and choose whether you want a single 16:9 monitor, dual 16:9 monitors, or a single ultrawide monitor.
+
+When choosing monitors, it is important to keep in mind that there are different series of monitors with the same size. The Dell Professional (P#### models) and Ultrasharp (U models) series will have different price points based on the features and quality.
+
+You may also want to buy a monitor arm for your desk that increases ergonomics. There are a wide variety of commodity brand monitor arms that are affordable such as the [Mount-It](https://www.amazon.com/stores/Mount-It/Mount-It/page/294B8EE4-088D-4426-891E-036605A6CABA) brand.
+
+  * Ultrawide monitors (maximum $1,000 reimbursable):
+    * Dell 34" P3421W - [US](https://www.dell.com/en-us/work/shop/dell-34-curved-usb-c-monitor-p3421w/apd/210-axqc/monitors-monitor-accessories)
+    * Dell 34" U3421W - [US](https://www.dell.com/en-us/work/shop/dell-ultrasharp-34-curved-usb-c-hub-monitor-u3421we/apd/210-axqs/monitors-monitor-accessories)
+    * Dell 38" U3821DW - [US](https://www.dell.com/en-us/work/shop/dell-ultrasharp-38-curved-usb-c-hub-monitor-u3821dw/apd/210-ayle/monitors-monitor-accessories)
+    * Dell 49" U4919DW - [US](https://www.dell.com/en-us/work/shop/dell-ultrasharp-49-curved-monitor-u4919dw/apd/210-arnw/monitors-monitor-accessories)
+    * Dell 40" 5K U4021QW - [US](https://www.dell.com/en-us/work/shop/dell-ultrasharp-40-curved-wuhd-monitor-u4021qw/apd/210-aykx)
+    * LG 34" 34WL85C-B - [US](https://www.bhphotovideo.com/c/product/1457461-REG/lg_34wl85c_b_wl85c_34_ips_curved.html)
+    * LG 38" 38UC99-W - [US](https://www.bhphotovideo.com/c/product/1279018-REG/lg_38uc99_w_37_5_21_9_wqhd.html)
+    * LG 38" 38WN95C-W - [US](https://www.bhphotovideo.com/c/product/1567983-REG/lg_38wn95c_w_38_ultrawide_qhd_ips.html)
+    * LG 49" 49WL95C-WE - [US](https://www.bhphotovideo.com/c/product/1622001-REG/lg_49wl95c_we_49_32_9_ultra_wide_dqhd_ips.html)
+  * 4K 16:9 monitors (maximum $500 reimbursable):
     * LG 27UD58-B 27" 4K - [US](https://www.amazon.com/dp/B01IRQAYPE/)
     * LG 27UK850-W 27" 4K UHD with USB Type-C - [US](https://www.amazon.com/dp/B078GVTD9N/)
     * LG 27UL650-W 27" 4K UHD LED - [US](https://www.amazon.com/LG-27UL650-W-Monitor-DisplayHDR-White/dp/B07MKT2BNB)
     * BenQ PD2700U 27" 4K UHD IPS  - [US](https://www.amazon.com/BenQ-PD2700U-Professional-Monitor-3840x2160/dp/B07H9XP92N)
     * LG 27UL500W 27" 4K UHD IPS - [India](https://www.amazon.in/LG-4K-UHD-Monitor-Display-Freesync/dp/B07PGL2WVS/)
-  * Dell P2418D 23.8" IPS QHD - [UK](https://www.amazon.co.uk/DELL-P2418D-23-8-Inch-Widescreen-Monitor/dp/B074MMR1V3)
-  * Dell Ultra Sharp LED-Lit Monitor 25" 2560 X 1440 60 Hz IPS - [US](https://www.amazon.com/Dell-LED-Lit-Monitor-U2518D-Compatibility/dp/B075KGLYRL)
-  * Acer S242HLDBID 24" - [Germany](https://www.amazon.de/dp/B01AJTVCA8/)
-  * ASUS VS248H-P 24" 1080p - [US](https://www.amazon.com/dp/B0058UUR6E/)
-  * ASUS PB277Q 27" 1440p - [US](https://www.amazon.com/gp/product/B01EN3Z7QQ/)
-  * SAMSUNG F350 23.6" 1080p - [Germany](https://www.amazon.com.au/dp/B0771J3HXV/)
-  * Lenovo ThinkVision P27h-10 27" 1440p - [Switzerland](https://www.digitec.ch/de/s1/product/lenovo-thinkvision-p27h-10-27-2560-x-1440-pixels-monitor-6611407)
-    * Connects over USB-C and also acts as a hub with 4 USB3.0 ports (on the back), works great on Linux including audio passthrough!
-  * Samsung 27" curved monitor [India](https://www.amazon.in/Samsung-inch-68-6-Curved-Monitor/dp/B01GFPGHVE)
+    * Dell U2720Q 27" 4K - [US](https://www.dell.com/en-us/work/shop/accessories/apd/210-avjv)
+  * 1080p 16:9 monitors (maximum $500 reimbursable):
+    * Dell P2418D 23.8" IPS QHD - [UK](https://www.amazon.co.uk/DELL-P2418D-23-8-Inch-Widescreen-Monitor/dp/B074MMR1V3)
+    * Dell Ultra Sharp LED-Lit Monitor 25" 2560 X 1440 60 Hz IPS - [US](https://www.amazon.com/Dell-LED-Lit-Monitor-U2518D-Compatibility/dp/B075KGLYRL)
+    * Acer S242HLDBID 24" - [Germany](https://www.amazon.de/dp/B01AJTVCA8/)
+    * ASUS VS248H-P 24" 1080p - [US](https://www.amazon.com/dp/B0058UUR6E/)
+    * ASUS PB277Q 27" 1440p - [US](https://www.amazon.com/gp/product/B01EN3Z7QQ/)
+    * SAMSUNG F350 23.6" 1080p - [Germany](https://www.amazon.com.au/dp/B0771J3HXV/)
+    * Lenovo ThinkVision P27h-10 27" 1440p - [Switzerland](https://www.digitec.ch/de/s1/product/lenovo-thinkvision-p27h-10-27-2560-x-1440-pixels-monitor-6611407)
+      * Connects over USB-C and also acts as a hub with 4 USB3.0 ports (on the back), works great on Linux including audio passthrough!
+    * Samsung 27" curved monitor [India](https://www.amazon.in/Samsung-inch-68-6-Curved-Monitor/dp/B01GFPGHVE)
 
 ##### Portable monitors
   * USB Touchscreen, 11.6" - [US](https://www.amazon.com/dp/B07FKJ6WP1/)
