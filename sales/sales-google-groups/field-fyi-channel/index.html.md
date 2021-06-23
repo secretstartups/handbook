@@ -56,10 +56,14 @@ Based on team member feedback, each #field-fyi post has a bolded header that hel
    - Roadmap Update
    - Org Announcement
 1. Urgency
-   - 🚨 Action Required
-   - 🧠 Need to Know 
-   - 📊 Feedback Requested
-   - 👀 Review
+   - 🚨 Action Required - urgent, action required with a deadline
+      - Example: Mandatory enablement launch
+   - 🧠 Need to Know - urgent, update directly impacts audiences' workflows/processes
+      - Example: Sales Ops process change
+   - 📊 Feedback Requested - less urgent, action requested (with or without long-lead deadline) but not required
+      - Example: Survey from Product org 
+   - 👀 Review - less urgent, does not directly or materially impact audiences' workflows/processes
+      - Example: New customer story or new competitive resource 
 
 ## Q&A
 **What are some examples of a post fit for #sales vs #field-fyi?** 
