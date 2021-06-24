@@ -71,7 +71,6 @@ The security of the software we ship must be everyones responsibiltiy as is the 
 
 During the code review process, should evidence be found of a security flaw that needs further investigation, the [Security Incident Response Team (SIRT) can be engaged](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html) to help.  If you need to [immediately stop a release](/handbook/engineering/releases/#deployment-blockers) for further investigation, any GitLab team member can [report an incident to the Infrastructure team](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  GitLab also has an [incident communication plan in place](/handbook/marketing/corporate-marketing/incident-communications-plan/) depending on the circumstances surrounding an incident.
 
-### Security releases
 
 ## Timelines
 
