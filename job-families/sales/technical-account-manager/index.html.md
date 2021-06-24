@@ -310,6 +310,14 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 
 * Experience leading high-touch customer success management teams for Enterprise customers
 
+### Customer Programs 
+- Engage and assist customers as part of a campaign or program led by Customer Programs team in partnership with Commercial TAM and Sales team
+- Capture customer insights (e.g., common reasons for stalled adoption, contraction and churn) in the SMB segment through data analysis and customer engagement
+- Create solution guides and videos to deliver technical enablement to a large audience across the SMB and Mid-Market segments primarily
+- Curate frequently asked questions (FAQ) and related solution guides based on direct customer engagement, and analysis of customer requests and usage patterns
+- Partner with Customer Programs team to enhance and improve digital adoption journey to preserve or increase net retention for digital customers
+- Partner with our customers to understand industry-wide technical challenges along the customer journey with GitLab
+
 ## Performance Indicators
 
 * net ARR (i.e., retention and expansion) 
