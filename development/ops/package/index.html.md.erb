@@ -37,29 +37,33 @@ For more details about the vision for this area of the product, see the [product
 [product vision]: /direction/package/
 [Package stage]: /handbook/product/categories/#package-stage
 
-## Recent accomplishments
+### Recent accomplishments
 
 <%= partial("accomplishments") %>
 
-## Team Members
+### Team Members
 
 The following people are permanent members of the Package Group:
 
 <!-- <%= direct_team(manager_role: 'Backend Engineering Manager, Package') %> -->
 <%= direct_team(manager_role: 'Senior Manager, Engineering, Continuous Delivery', role_regexp: /[,&] Package/) %>
 
-## Stable Counterparts
+### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
 <!-- <%= stable_counterparts(role_regexp: /[,&] Package/, direct_manager_role: 'Backend Engineering Manager, Package') %> -->
 <%= stable_counterparts(role_regexp: /[,&] Package/, direct_manager_role: 'Senior Manager, Engineering, Continuous Delivery') %>
 
-## Performance indicators
+### Performance indicators
 
-We measure the value we contribute by using a performance indicator metric](/handbook/product/metrics/). Our current metric for the Package stage is the `number of packages published/installed using the Package Registry`. This is a count of events in which a package is published to or installed from the Package Registry on GitLab.com. For more details, please check out the [Product team's performance indicators](/handbook/product/performance-indicators/#regular-performance-indicators).
+We measure the value we contribute by using [performance indicator metrics](/handbook/product/ops-section-performance-indicators/). The primary metric used for the Package group is the number of monthly active users or GMAU. For more details, please check out the [Ops section's performance indicators](/handbook/product/ops-section-performance-indicators/).
 
-### Usage Funnels
+#### Error Budget
+
+The Package Group uses the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1) to measure our budget usage on a weekly basis. The [Package::Package error budget peformance indicator](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/#packagepackage---error-budget-for-gitlabcom) is tracked and updated weekly.
+
+#### Usage Funnels
 
 We expect to track the journey of users through the following funnel. You can view the below metrics in the [Package usage funnel dashboard](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel).
 
@@ -68,7 +72,7 @@ We expect to track the journey of users through the following funnel. You can vi
 
 Follow along our instrumentation and measurement of Package-related metrics in [gitlab-#2289](https://gitlab.com/groups/gitlab-org/-/epics/2289).
 
-## Issue boards
+### Issue boards
 
 * [Package:Milestones](https://gitlab.com/groups/gitlab-org/-/boards/1196366?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) - Issue board showing milestone planning for current and future milestones.
 * [Package:Assignments](https://gitlab.com/groups/gitlab-org/-/boards/1200765?&label_name[]=group%3A%3Apackage) - Issue board organized by assignee to give a snapshot of who is working on what.
@@ -78,9 +82,9 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 * [Package:Scheduling](https://gitlab.com/groups/gitlab-org/-/boards/1382732?&label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage)
 * [Package:Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage) - Issue board broken down by workflow label to give a snapshot of the status of in-progress issues.
 
-## Demos & Speedruns
+### Demos & Speedruns
 
-### Package Registry
+#### Package Registry
 - [GitLab Package Registry + Usage quotas Speedrun](https://youtu.be/5FYMSl-QYg4)
 - [Conan Repository Demo](https://youtu.be/7NYgJWg-w5w)
 - [Remote hierarchy for the Package Registry (project vs. group vs. instance level)](https://youtu.be/lVXfMKerZnQ)
@@ -95,21 +99,21 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 - [Quickly find and view generic packages](https://youtu.be/XwMtzWf9DKw)
 - [Testing the Packages API with deploy tokens](https://youtu.be/43iHv6tbOec)
 
-### Container Registry
+#### Container Registry
 - [How to remove Docker images using CI/CD (speedrun)](https://youtu.be/jDlFCrH9H7g)
 - [Use the API to delete all tags except *](https://youtu.be/Hi19bKe_xsg)
 - [How to view all of the images and tags in your group](https://youtu.be/9IxoGYnTIaI)
 
-### Dependency Proxy
+#### Dependency Proxy
 - [Use the GitLab Dependency Proxy to proxy and cache images from DockeHub](https://youtu.be/fNTfL55fh5c)
 - [Automatically authenticate using pre-defined environment variables](https://youtu.be/8qhT55e780g)
 
-### Dependency Firewall
+#### Dependency Firewall
 - [POC: Pipelines for packages](https://youtu.be/KCtOC8kLDRQ)
 
-### Competitor products
+#### Competitor products
 
-#### Nexus Repository OSS
+##### Nexus Repository OSS
 - [Introduction](https://youtu.be/QOMF2EWC5B8)
 - [Installation](https://youtu.be/lhBJWDLO_IM)
 - [UI overview](https://youtu.be/3Z-TgTrrXDU)
@@ -118,40 +122,40 @@ Follow along our instrumentation and measurement of Package-related metrics in [
 - [Publish to a private repository](https://youtu.be/NNMQ8d-68es)
 - [Closing remarks](https://youtu.be/W8X1eain51c)
 
-## Think BIG planning
+### Think BIG planning
 The purpose of this meeting is to discuss the vision, product roadmap, user research, design, and delivery around the Package solution.
 
-### Goal
+#### Goal
 The goal of this meeting will be to align the team on our medium to long-term goals and ensure that our short-term goals are leading us in that direction.
 
-### How it works
+#### How it works
 We have a ThinkBIG meeting on the second Wednesday of the month at 1:30PM UTC. The agenda document is available per [communication guidelines](/handbook/communication/#scheduling-meetings) and the video of the meeting is shared on our [GitLabUnfiltered YouTube channel](https://www.youtube.com/c/GitLabUnfiltered) to enable asynchronous collaboration. Action items from the meeting will be created with the label `~Package:ThinkBIG`. We evaluate the cadence of the meeting to make sure that it's valuable and in adherance to [meeting guidelines](/company/culture/all-remote/meetings/). For more information on this session, visit the [ThinkBIG handbook page](/handbook/engineering/ux/thinkbig/)
 
-### How to contribute
+#### How to contribute
 If possible, join the synchronous meeting and discussion on Wednesdays
 Add discussion items to the [agenda document](https://docs.google.com/document/d/1G0Q4Cl19R0lx7VQbkZ4HmX7u6OpW4UJzO9pLemThjlE/edit#heading=h.p454vh4ftc5o)
 Read through the active epics, leave feedback and questions
 Read through the discussion topic issues and leave feedback/questions
 
-## How we work
+### How we work
 
-### Roles and responsibilities
+#### Roles and responsibilities
 
 Our team emphasises ownership by people who have the information required. This means, for example, in the event of some discussion about UX considerations, our Product Designer will have ownership. When we're building features, the Product Manager owns the decision on whether this is a feature that meets our customer needs. Our Product Developers own the technical solutions being implemented.
 
-### Understanding our users
+#### Understanding our users
 
 As a team, we are committed to understanding our users needs. We believe the best way to do that is by understanding the reason they hired GitLab, and how those motivations translate into our area of the product. For that, we apply a research-driven approach to [Jobs to Be Done (JTBD)](/handbook/engineering/ux/jobs-to-be-done/) framework of innovation. This method aims to understand why a customer uses and buys a given solution. We apply the [job statement](/handbook/engineering/ux/jobs-to-be-done/#how-to-write-jtbd) to identify a list of specific, contextual user needs to fulfill their JTBD.  In addition, we regularly evaluate the overall user experience of each JTBD, with [UX Scorecards](/handbook/engineering/ux/ux-scorecards/), to ensure that we are meeting the needs of our users.
 
-#### JTBD
+##### JTBD
 
 You can view and contribute to our current list of JTBD and job statements [here](/handbook/engineering/development/ops/package/jtbd).
 
-### Tips and Tricks
+#### Tips and Tricks
 
 We have created a collection of Tips and Tricks for folks working with/around the Package Stage. You can view them on our [Wiki Page](https://gitlab.com/gitlab-org/ci-cd/package-stage/package/-/wikis/Packages-Tips-&-Tricks).
 
-### Workflow
+#### Workflow
 
 Our Product Manager owns the problem validation backlog and problem validation process as outlined in the [Product Development Workflow](/handbook/product-development-flow/). Our Product Designer then owns the [solution validation](/handbook/product-development-flow/#validation-phase-3-solution-validation) process. You can view all items and their current state in the [Package: Validation Track](https://gitlab.com/groups/gitlab-org/-/boards/1397751?&label_name[]=group%3A%3Apackage) issue board.
 
@@ -165,7 +169,7 @@ The Product Manager owns the process of populating the current milestone with fe
 
 Issues that we're actually expecting to work on will have the `package:active` label added to them at which point they'll appear in the Package:Workflow board. As product developers begin working on the issue, they'll assign the `workflow:in dev` label.
 
-### Cross-Group Dependencies
+#### Cross-Group Dependencies
 
 Cross-group dependencies may exist as pre-requisites to deliver Package features or bug fixes. Issues to deliver such dependencies are owned by groups that Package depends on, such as [Delivery](https://about.gitlab.com/handbook/engineering/infrastructure/team/delivery/) or [Distribution](https://about.gitlab.com/handbook/engineering/development/enablement/distribution/).
 
@@ -176,7 +180,7 @@ The product manager should include cross-group dependencies in the milestone pla
 
 Our Product Manager, Product Designer, and Engineering Manager develop a plan for upcoming milestones. The issues are labelled and assigned to the milestone. The Product Manager creates an issue for milestone planning that includes the priorities for the milestone. Product Developers review the milestone planning issue, ask questions, raise concerns and weigh each issue. The result of this process is a groomed milestone. Our milestone planning issues can be found in our [Milestone Planning Epic](https://gitlab.com/groups/gitlab-org/-/epics/3591).
 
-### Priorities
+#### Priorities
 
 Throughout the workflow, issues should be addressed in the following priority order:
 1. Security issues: These will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) and identified with either a `Planning Priority` or `Package::P1` label
@@ -187,15 +191,23 @@ Throughout the workflow, issues should be addressed in the following priority or
 1. `package:active` label: least effort to largest
 1. `workflow::scheduling` label: These are issues that require weighting, feedback and scheduling before being moved to `package:active`
 
-### Refactoring
+#### Error Budget
+
+[Error Budgets](https://about.gitlab.com/handbook/engineering/error-budgets/) for stage groups have been established in order to help groups identify and prioritize issues that are impacting customers and infrastructure performance.
+
+The [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-package/stage-groups-group-dashboard-package-package?orgId=1) is used to identify issues that are contributing to the Package group's error budget spend.
+
+The engineering manager will review the error budget dashboard weekly to determine whether we're exceeding our budget, determine what (if anything) is contributing to our error budget spend, and create issues addressing root cause for product manager prioritization. Issues created to address error budget spend should be created using appropriate labels as well as the label `~package::error-budget` in order to facilitate tracking and measurement.
+
+#### Refactoring
 
 When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type oof work.
 
 When considering a refactoring or a heavy refactoring, consider working [iteratively](https://about.gitlab.com/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
 
-### Bug Triaging
+#### Bug Triaging
 
-#### Investigation
+##### Investigation
 
 A bug investigation is a two part process:
 
@@ -212,13 +224,13 @@ If a bug investigation takes more time than intended, it's better to:
 - Post the current situation in the issue.
 - Inform the Engineering Manager and the Product Manager that will plan more time for the investigation.
 
-### Bug detection
+#### Bug detection
 
 When a bug is detected on staging, engineers should evaluate its severity will be on production. You can use kibana or other tools to evaluate the number of requests impacted. If the severity is high, [appropriate actions](/releases/#deployment-blockers) should be taken.
 
 In particular, when the most used package registries (npm, Maven) are impacted negatively, consider the bug a higher severity. If the bug disrupts the expected behavior of those package registries, consider blocking the next production deployment with the appropriate actions above.
 
-### Dashboards
+#### Dashboards
 
 We monitor our features using different dashboards. It is recommended to check them weekly.
 
@@ -233,8 +245,9 @@ These dashboards are all internal and can be only accessed by GitLab Team member
 - [Package usage funnel](https://app.periscopedata.com/app/gitlab/854785/Package-Usage-Funnel) (SiSense)
 - [Package user adoption and growth](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth) (SiSense)
 - [Package customer adoption](https://app.periscopedata.com/app/gitlab/877343/Package-customer-adoption) (SiSense)
+- [Package group error budget]()
 
-### How we measure results
+#### How we measure results
 
 In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
 
@@ -247,28 +260,27 @@ In order to better align our effort with our customer's needs we will use the fo
 
 The process of making sure that there are issues to evaluate and break down is the responsibility of our Product Manager. It is the responsibility of the engineering team to evaluate each issue and make sure it's ready for development (using the ~"workflow::ready for development" label). It is the responsibility of our Product Designer to evaluate user experience and score our product maturity based on user research. This process will take some time to complete each time we achieve a new maturity stage. [MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate) will be used as an objective measure of our efficiency, not of alignment with our customer's needs or our organizational goals.
 
-#### Product maturity goals
+##### Product maturity goals
 
 The below epics detail the work required to move each respective category to the next maturity level.
 
 * [Epic with links to all current maturity targets](https://gitlab.com/groups/gitlab-org/-/epics/2972)
 * [Container Registry](https://gitlab.com/groups/gitlab-org/-/epics/2899)
-* [Package Registry](https://gitlab.com/groups/gitlab-org/-/epics/2891)
-* [Dependency Proxy](https://gitlab.com/groups/gitlab-org/-/epics/2920)
+* [Package maturity targets](https://gitlab.com/groups/gitlab-org/-/epics/2972)
 
-### Testing
+#### Testing
 
 To best understand how users use the GitLab package registry, when building and testing features, it is beneficial to test using projects that resemble real use-case scenarios. A Hello-World package is not going to simulate the same functionality that a large open source library or enterprise customer is going to experience. Depending on the feature that is being built, it is recommended during the development phase to test locally using a real package. Additionally, consider reviewing existing data to determine a good range of test cases. The package group has created an [ad-hoc test projects group](https://gitlab.com/gitlab-org/ci-cd/package-stage/ad-hoc-test-projects) to store larger projects that can be used to test against. This group may contain copies of open source projects or projects specifically designed to test certain aspects of the GitLab package registry. It is not meant to be a static collection of projects, so the projects may be replaced, updated, or removed as seen fit.
 
-#### File uploads
+##### File uploads
 
 The package features regularly deal with file uploads. When testing these features locally using an environment like GDK, it is recommended to test changes using the default local storage configuration, but also using a cloud service for object storage. GCP is recommended when trying to best recreate the environment GitLab.com is running. For highest confidence in features working with uploads, testing using local storage, Minio, GCP, AWS S3, and Azure is recommended. The GDK docs have [instructions on how to configure for each of these providers](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/master/doc/configuration.md#object-storage-config).
 
-#### End to End Testing
+##### End to End Testing
 
 The Package team uses [GitLab QA](https://gitlab.com/gitlab-org/gitlab-qa) for End-to-End testing. We have [guidelines](https://about.gitlab.com/handbook/engineering/development/ops/package/quality) for how our team is leveraging these tests.
 
-### Quality
+#### Quality
 
 The Package team has a goal of shipping enterprise grade software with a focus on Quality. The team accomplishes this goal with the following practices:
 
@@ -280,28 +292,28 @@ The Package team has a goal of shipping enterprise grade software with a focus o
 
 * Actively reviewing [Triage reports](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) and working with our Product Manager to prioritize bugs or regressions.
 
-### Risk Mapping
+#### Risk Mapping
 
 To better understand the risk environment and each risk's causes and consequences, the Package team uses the [Risk Mapping Tool](https://about.gitlab.com/handbook/engineering/development/ops/package/risk-map)) as their risk management tool to stratigically prioritise mitigation and increase Quality.
 
-### Code Review
+#### Code Review
 
 Code reviews follow the standard process of using the [reviewer roulette](https://docs.gitlab.com/ee/development/code_review.html#reviewer-roulette) to choose a reviewer and a maintainer. The roulette is optional, so if a merge request contains changes that someone outside our group may not fully understand in depth, people are encouraged to ask for a preliminary review from members of the package group to focus on correctly solving the problem. The intent is to leave this choice to the discretion of the engineer but raise the idea that fellow package group members will sometimes be best able to understand the implications of the features we are implementing. The maintainer review will then be more focused on quality and code standards.
 
 This tactic also creates an environment to ask for early review on a WIP merge request where the solution might be better refined through collaboration and also allows us to share knowledge across the team.
 
-#### UI or Technical Writing Review
+##### UI or Technical Writing Review
 
 When a merge request needs to be reviewed for the experience or for the copy in the user interface, there are a few suggestions to ensure that the review process is quick and effecient:
 - When the MR has a UX or copy review, we suggest initating that part of the review process first to avoid experience changes in the middle of code reviews.
 - A Product Designer will perform the UX review as well as the text review. If there is substantial change, the product designer may bring in a technical writer for a more thorough copy/content related review.
 - If the tech writer us unavailable and the MR is being slowed down, it is possible to [create a follow up issue](https://docs.gitlab.com/ee/development/documentation/workflow.html#post-merge-reviews) for the copy or documentation to be reviewed post-merge. This should be avoided when possible.
 
-### Community Contributions
+#### Community Contributions
 
 We hold regularly recurring office hours to give community members or Contributors a chance to discuss any questions, issues, or merge requests. For details about upcoming office hours, check out [the epic](https://gitlab.com/groups/gitlab-org/-/epics/2957) or the playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KoUyDaIiCFiHYcW7q2HeNKC).
 
-#### Picking up an issue
+##### Picking up an issue
 
 If a community contributor wants to pick up an issue, or create an issue and a follow up merge request for it, please ping `@gitlab-org/ci-cd/package-stage` or an individual [team member](https://gitlab.com/groups/gitlab-org/ci-cd/package-stage/-/group_members?with_inherited_permissions=exclude) on the issue itself before starting the work, this ensures that:
 
@@ -313,23 +325,23 @@ Additionally, the Package team can help set realistic review/merge times based o
 
 Ultimately the aim is to enable community contributor to deliver meaningful work with the least amount of back and forth and minimising the risk of stumbling on a show stopper.
 
-#### Definition
+##### Definition
 A merge request with the following properties:
 1. It impacts features or issues managed by the Package group. This means it has the ~"devops::package" label
 2. Contributed by anyone in the wider community or at GitLab who isn't part of the Package group
 3. Contributed by a team member who doesn't work in the same functional area (Frontend engineer contributing to Backend code)
 
-#### Handling
+##### Handling
 A Package group member will adopt the community contribution with the following tasks:
 * Set aside some time per week to assist and coach the community contributor.
 * Make sure that the merge request has the proper labels
 * Make sure that the effort is reviewed by the product manager and the product designer
 * Make sure that the reviews are happening. You can even suggest reviewers.
 
-#### Prioritisation
+##### Prioritisation
 * Effort to support community contributions can range from weekly check ins to active contribution. As an organisation, GitLab values our community and the idea that everyone can contribute. As such, effort contributed to community contributions can range from simply checking in with the author to contributing actively. While this effort doesn't prevent us from delivering on our Package:P1 issues, we should invest the time necessary to make sure the author is able to contribute.
 
-#### Scheduling
+##### Scheduling
 
 Given the number of community contributions submitted (thank you!), the Package team will include them in [Milestone Planning issues](https://gitlab.com/groups/gitlab-org/-/epics/3591). We'll schedule time for team members to assist with the various community contributions as part of our milestone plan. You can view  guidelines for merge requests and a definition of done [here](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done).
 
@@ -345,17 +357,17 @@ Other points to consider for the Package group member:
 * If some aspects of the merge request become a high priority task (for example, a bug fix) and the work from the community contributor is less active or stalled, consider suggesting that you will extract this part to a small merge request to get it implemented as quickly as possible.
   * The other aspects with less priority can still be worked out by the community contributor.
 
-### Missed deliverables retrospectives
+#### Missed deliverables retrospectives
 
 When issues that we commit to delivering (have the ~Deliverable label) are not delivered in the milestone we commit to, we will hold an asynchronous retrospective on the miss to determine the root cause following the [guidelines outlined in the handbook](/handbook/engineering/root-cause-analysis/). In instances of a single issue, these retrospectives may be quite brief, in scenarios where we miss a larger effort, the root cause analysis will be more detailed. These should be conducted within the first week following the determination that we'll miss the deliverable.
 
-### Async Daily Standups
+#### Async Daily Standups
 
 The purpose of the daily standup is to allow team members to have visibility into what everyone else is doing, allow a platform for asking for and offering help, and provide a starting point for some social conversations. We use [geekbot](https://geekbot.com/) integrated with Slack.
 
 While it is encouraged to participate in the full variety of daily questions, it is completely acceptable to skip questions by entering `-`.
 
-### Async Issue Updates
+#### Async Issue Updates
 The Geekbot asynchronous standup will be reserved for blocking items and merge announcements (merge parrot!). Our normal daily updates on progress and status will be added to the issues as a comment. A daily update may be skipped if there was no progress. It's preferable to update the issue rather than the related merge requests, as those do not provide a view of the overall progress. A weekly async update should be added to epics, providing an overview of the progress across related issues.
 
 The status comment should include what percentage complete the work is, the confidence of the person that their estimate is correct and, notes on what was done and/or if review has started. It could be good to include whether this is a front end or back end update if there are multiple people working on it. Finally, for each MR associated, please include an entry for each.
@@ -376,7 +388,7 @@ MR statuses:
 !21212 - 10% complete, 70% confident - api update - database migrations created, working on creating the rest of the functionality next
 ```
 
-### Weekly Retrospective
+#### Weekly Retrospective
 
 Our weekly retrospective is intended to provide the team an opportunity to retrospect on our week's effort. The discussion takes the usual GitLab asynchronous endabled synchronous meeting format: it has an agenda google document and we upload the video to [GitLab Unfiltered](https://youtube.com/c/GitLabUnfiltered). We currently have our retro every week on Friday morning (UTC-7) and, every 3rd week the meeting is held on Thursday afternoon (UTC-7) to support people in APAC TZs. The retrospective is a 25 minute long meeting.
 
@@ -386,7 +398,7 @@ We roll up some of our retro thoughts into our monthly, milestone-linked, async 
 
 Examples of our retrospectives can be found here: [https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=package+retro](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=package+retro)
 
-### Issue Weighting
+#### Issue Weighting
 
 | Weight | Description  |
 | --- | --- |
@@ -395,7 +407,7 @@ Examples of our retrospectives can be found here: [https://www.youtube.com/chann
 | 3: Medium | Features that are well understood and relatively straightforward. A solution will be outlined, and most edge cases will be considered, but some extra investigation will be required to realize the solution. Some surprises are expected, and coordination with other teams or people may be required.<br><br>Bugs that are relatively poorly understood and may not yet have a suggested solution. Significant investigation will definitely be required, but the expectation is that once the problem is found, a solution should be relatively straightforward.<br><br>Examples are regular features, potentially with a backend and frontend component, or most bugs or performance issues.<br><br>This will map to a confidence greater than or equal to 60%. |
 | **Larger: resize** | Features that are well understood, but known to be hard. A solution will be outlined, and major edge cases will be considered, but extra investigation will definitely be required to realize the solution. Many surprises are expected, and coordination with other teams or people is likely required.<br><br>Bugs that are very poorly understood, and will not have a suggested solution. Significant investigation will be required, and once the problem is found, a solution may not be straightforward.<br><br>Examples are large features with a backend and frontend component, or bugs or performance issues that have seen some initial investigation but have not yet been reproduced or otherwise "figured out".<br><br>This will map to a confidence greater than or equal to 50%. |
 
-#### Issue size
+##### Issue size
 
 Anything larger than 3 should be broken down. Anything with a confidence percentage lower than 50% should be investigated prior to finalising the issue weight.
 
@@ -403,7 +415,7 @@ Our intention is to break up issues that have a weight greater than 3, either by
 
 When starting work on an MR that involves unfamiliar tools/libraries, be sure to update the estimated weight depending on who picks up the issue to reflect the additional time that may be spent learning. For example, a developer who has never worked with GraphQL before may need to spend some additional time learning the library versus a developer who has experience with GraphQL. If the first developer picks up the issue, they should consider raising the weight so it is reflected that it may take longer for them to deliver it.
 
-## Partnering with Infrastructure
+### Partnering with Infrastructure
 
 There are times during the development lifecycle that changes need to be communicated to the [Infrastructure teams](https://about.gitlab.com/handbook/engineering/infrastructure/#teams). For example:
 
@@ -419,10 +431,10 @@ The GitLab Container and Package Registry currently handle hundreds of millions 
 3. Determine the percentage increase that the estimate above represents when looking at our current API request rate;
 4. Discuss with Infrastructure and Package engineers whether the expected increase might be problematic or not.
 
-## Common Links
+### Common Links
 
 * [Package backend board]
-* [#g_package] in Slack
+* [#s_package] in Slack
 * [Recorded meetings][youtube]
 * [Retrospectives][retros]
 * [Timezones][timezones]
