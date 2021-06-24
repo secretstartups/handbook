@@ -45,13 +45,18 @@ Our service desk was created by the [People Group Engineering Team](https://abou
 
 #### Methods of Engagement
 
+| Interaction Type | Communication Mechanism |
+| ----- | ----- | 
+| **Public**: Interaction **does not** include Personal Data or Sensitive Information | **#people-connect** |
+| **Private**: Interaction **does** include Personal Data or Sensitive Information | **People Connect Bot (App)** |
+
 GitLab remains a [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect. 
 
 In the interests of [knowledge sharing](https://about.gitlab.com/handbook/values/#findability) and [transparency](https://about.gitlab.com/handbook/values/#transparency) team members are encouraged to use **#people-connect** [by default](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) when initiating an interaction with the team.
 
 Should the interaction include **personal data or potentially sensitive information** team members **must** direct message the **People Connect Bot** which can be found by searching the 'apps' section of Slack. This can be found at the bottom of the left pane.
 
-#### What to Expect
+#### What to Expect (SLA)
 
 Once a team member has submitted a question or request using one of the two available methods of engagement, they can anticipate acknowledgement in the thread of their original interaction within ≤ 24 hours.
 
@@ -64,3 +69,19 @@ On occasion team member interactions i.e. ≤ 1% require the direct input of a S
 | **Tier 01** | First Line Resolution e.g. Administrative Support or Transactional Requests | ≤ 24 Hours |
 | **Tier 02** | Semi-Complex Resolution e.g. Root Cause Analysis or Solution Finding | ≤ 72 Hours |
 | **Tier 03** | Center of Expertise Hand-Off e.g. Policy Exception or Significant Process Change | ≤ 24 Hours | 
+
+### Team Member Satisfaction
+
+The People Connect model was compiled with our team members and their experience of GitLabs all-remote workplace in mind - making feedback an important element in ensuring our efforts and iterations are consistently aligned to the broader [company values](https://about.gitlab.com/handbook/values/).
+
+At the resolution of each interaction that runs through our service desk team members will receive a quick two question 'satisfaction pulse' from the People Connect Bot.
+
+### Metrics
+
+* Team Member Satisfaction
+* Ticket Volume by Category
+* Tickets Opened vs Tickets Resolved
+* Ticket Distribution
+* Ticket Resolution per Tier
+* Average Ticket Resolution Time
+
