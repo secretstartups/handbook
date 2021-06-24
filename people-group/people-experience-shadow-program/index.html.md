@@ -30,7 +30,7 @@ The Shadow program is currently scheduled over a 2 - 3 week period.
 
 ### Shadow Program Process
 
-1. If anyone is interested in joining the People Experience Shadow program, simply send a request to `people-exp@gitlab.com` or send a request in the `#PeopleOps` Slack channel.
+1. If anyone is interested in joining the People Experience Shadow program, simply send a request to `people-connect@gitlab.com` or send a request in the `#people-connect` Slack channel.
 1. It is important that the team member requests approval from their respective manager to join the shadow program. 
 1. Once we have received interest from a team member to join the program, the People Experience team will decide on a start date and communicate this to the team member.
 1. Prior to the start date (day before is fine), the team member needs to complete the following:
