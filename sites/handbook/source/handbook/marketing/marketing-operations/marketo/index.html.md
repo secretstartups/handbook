@@ -154,7 +154,7 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |Follow Up Requested| Follow Up Requested|	+100	|{{my.Follow Up Requested}}	|Trigger	| Everytime|
 |* Program High|Workshop, <br> Self-Service Virtual Event, <br> Webcast, <br> Executive Roundtables |	+30	|{{my.Online - High}} |Trigger| Everytime|
 |* Program Med|Sponsored Webcast, <br>Speaking Session,<br> Owned Event	|+20	|{{my.Online - Med}}|Trigger|Everytime|
-|* Program Low |Field Event,<br> Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
+|* Program Low |Vendor Arranged Meetings,<br> Conference	|+10|	{{my.Online - Low}}		|Trigger|Everytime|
 |* Content - High|None Defined| +30|	{{my.Content - High}}	|Trigger  |Everytime|
 |* Content - Med|Gated Content|+15|	{{my.Content - Med}}	|Trigger  |Everytime|
 |* Content -  Low|Content Syndication|+5|	{{my.Content - Low}}	|Trigger  |Everytime|
@@ -233,7 +233,6 @@ Folder Structure
         - Remote Newsletter (Monthly)
         - Security Releases
         - Webcast Newsletter
-    - Field Event
     - Gated Content
         - Content Marketing
         - Content Syndication

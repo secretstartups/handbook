@@ -57,6 +57,8 @@ Any event  that we have paid to sponsor, have a booth/presence and are sending r
 
 In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual booth and sometimes a speaking session slot or panel presence. Presence of a virtual booth is a requirement due to success criteria. [Read more](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/external-virtual-events/#-sponsored-virtual-conference).
 
+For list loads greater than 1,000 of `attendees` they will not be considered a `success` or `scored` as such.
+
 **Bizible:** This is tracked as an _offline_ channel, because we do not host a registration page, and receive a list of booth visitors post-event.
 
 | Member Status | Definition | Success |
@@ -70,9 +72,10 @@ In a virtual conference, GitLab will pay a sponsorship fee to receive a virtual 
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
-| Attended| Attended the event| |
+| Attended| Attended the event| Yes |
 | Visited Booth | Stopped by booth for any reason | Yes |
 | Follow Up Requested | Requested to be followed up with by sales post event | Yes |
+| Attended On-Demand | Watched/consumed conference materials post-event on-demand | Yes| 
 
 #### Content Syndication
 
@@ -644,5 +647,5 @@ Notes:
     1. Click Confirm.
     1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push. You can also view this in Settings>History>Action History in DB1.
 
-Once your list is passed over, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
+Once your list is pushed from DB1 to Marketo, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
 

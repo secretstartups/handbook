@@ -104,3 +104,13 @@ The ZoomInfo Outreach integration is now live and you may export contacts direct
 - Please do not upload any contact without an email address into Outreach- if you do, the prospect will not sync into SFDC and any activities you do on the prospect will not be recorded in SFDC. 
 
 Any prospects created without email address will be found and deleted in the Outreach database management we will run monthly. To avoid uploading contacts with no email addresses, please use the ZoomInfo filtering available.
+
+### Marketo Integration
+There is a Marketo integration utilizing ZoomInfo's **Enrich** product. This is done on an automated basis utilizing a webhook.
+
+Marketo/ZoomInfo if the person record meets the following criteria (on an ongoing/future basis):
+1. SaaS Trials
+1. Self-managed Trials
+1. Filled out Contact Us form 
+
+Enrich is set to update the ZoomInfo fields, `Employees Bucket` and a few Marketo standard fields (First, Last, Title) only if they are blank or unknown. ZoomInfo fields will overwrite with the most up to date information.
