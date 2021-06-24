@@ -366,7 +366,7 @@ The video below gives an overview of what the Crucial Conversations training loo
 
 If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
 
-**FY22*** 
+**FY22** 
 
 - 2021-10 - Exact dates to be confirmed 
 - 2022-01 - Exact dates to be confirmed 
