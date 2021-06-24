@@ -188,4 +188,4 @@ Notable items to be addressed in future iterations include:
 ### More information
 
 1. [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
-1.  [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
+1. [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
