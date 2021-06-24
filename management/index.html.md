@@ -96,7 +96,7 @@ The convention at GitLab is to display [Manager](/company/team/structure/#manage
 To preserve de-facto industry standard role names such as `Engineering Manager`, manager roles in the Engineering Division 
 generally follow this naming pattern: 
 
-`Engineering Manager, Division`
+`Engineering Manager, [Specialty]`
 
 Accounting for temporary management positions, the Senior manager track, 
 different types of manager roles (such as `Backend` or `Support`), and the potential for one or more specialties yields:  
