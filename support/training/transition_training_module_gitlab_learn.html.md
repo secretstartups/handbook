@@ -104,7 +104,14 @@ As a collaborator or author the pathway cannot be fully tested, for this step we
 - The quizzes have the correct answers.
 - By completing the pathway it will show 100% completed.
 
-### Step 5 - Request final request from L&D team  
+### Step 5 - Request final request from L&D team  and publish
 
 - Put a comment in the issue create in the first step requesting the final review.
 - Once the pathway has been approved and depending on the audience, change it to public.
+
+
+## Considerations
+
+- Collaboration in GitLab learn won't be as flexible as in GitLab.
+- A pathway author will be considered is DRI, and must ensure important updates in the trainig must be present in GitLab Learn as soon as possible.
+
