@@ -358,6 +358,7 @@ If you are interested in participating in the course, you can fill out our [inte
 
 ### Setting up the Training 
 
+1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide](add link)
 1. Ensure we have a sign up link from crucial conversations. 
 1. Once we have the link, send the invite email to all team members interested in the program. 
 1. add more 
