@@ -181,7 +181,7 @@ The engineering team applies the `UX` label to any MR that introduces a visual, 
 
 Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
 
-There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer should coordinate a demo.
+There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer could coordinate a demo or the engineer could record a video of themselves going through the new functionality and add it to the MR. Creating a video is a way to speed up the review process, however it is optional and not always an appropriate stand in for a full review. 
 
 #### UX Scorecards
 All of the planned, in progress and completed UX Scorecards for Growth can be found in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/2015).
