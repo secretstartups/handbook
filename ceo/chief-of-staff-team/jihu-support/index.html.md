@@ -97,11 +97,11 @@ Please refer to our [guidelines](https://docs.google.com/document/d/1zEiPBZ1D90L
 
 #### Application Security Reviews
 
-The Application Security team reviews each JiHu contribution into GitLab repositories. Please see [this documentation](./jihu-contribution-review-process.html.md) for more information about this process.
+The Application Security team reviews each JiHu contribution into GitLab repositories. Please see [this documentation](./jihu-contribution-review-process.html) for more information about this process.
 
 #### Release Certification Process
 
-The Application Security team performs a certification of each release that includes JiHu contributions. Please see [this documentation](./release-certification.html.md) for more information about this process.
+The Application Security team performs a certification of each release that includes JiHu contributions. Please see [this documentation](./release-certification.html) for more information about this process.
 
 ### Security Release Process
 
