@@ -45,7 +45,6 @@ The responsibilities for technical writers at GitLab are based on these levels:
 - [Technical Writer](#technical-writer-responsibilities)
 - [Senior Technical Writer](#senior-technical-writer-responsibilities)
 - [Staff Technical Writer](#staff-technical-writer-responsibilities)
-- [Principal Technical Writer](#principal-technical-writer-responsibilities)
 
 ### Technical Writer responsibilities
 
