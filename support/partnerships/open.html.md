@@ -17,7 +17,7 @@ transacting partners, and can earn product discounts or referral fees.
 ## Contacting Support
 
 Open Partners may contact us on behalf of one of their customers by submitting
-a ticket from the [support portal](https://support.gitlab.com). To ensure proper
+a ticket. To ensure proper
 ticket routing, which helps to prevent first response delays, they should:
 
 1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000818199)
