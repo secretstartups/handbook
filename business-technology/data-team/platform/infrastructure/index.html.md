@@ -30,6 +30,24 @@ To edit the system diagram, go to the [Lucidchart document](https://app.lucidcha
 
 We use Airflow for all Orchestration.
 
+### Naming Conventions
+
+Both DAG and task naming should be as descriptive as possible so that engineers and other users can understand what a DAG does both within and without the context of the airflow UI. Names should include information about what and how a DAG or task is doing. 
+
+As an example consider the DAG and task naming for the `gitlab_com_db_extract` DAG, which has tasks with names like `gitlab-com-packages-package-files-db-incremental-pgp-extract`. It is tempting to avoid the redundancy between the task and DAG naming, but since we sometimes only see the task name (like in Slack or Prometheus errors, or when using 'Browse' in airflow) it ends up being helpful. 
+
+Starting with Summer of 2021 we've introducted a more abbreviated, but hopefully equally descriptive way of describing some of the most common DAGs we create and this convention should be used in all DAG created since. Please use a prefix to indicate whats performed by that DAG. For example, if we had created the gitlab extract DAG after this convention it should be named `el_gitlab_com_db_extract` since it performs both extraction and loading phases, whereas `greenhouse_extract` would be `l_greenhouse` as it only loads extracted data from S3 into Snowflake.
+
+List of prefix indicators
+| Prefix | Indicator |
+| ------ | --------- |
+| `e`    | Extract   |
+| `l`    | Load      |
+| `t`    | Transform |
+| `p`    | Pump      |
+| `m`    | Metadata  |
+
+
 ### In Production
 
 All DAGs are created using the `KubernetesPodOperator`, so the airflow pod itself has minimal dependencies and doesn't need to be restarted unless a major infrastructure change takes place.
