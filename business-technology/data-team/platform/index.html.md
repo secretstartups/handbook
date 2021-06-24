@@ -422,14 +422,14 @@ In order to keep Snowflake up and running, we perform administrative work.
 
 #### Create Storage location
 
-In order to load data via Snowpipe into the data warehouse, data is read of out a GCS bucket. For this a `storage location` needs to be set and a `stage` be created in Snowflake. 
+In order to load data via Snowpipe into the data warehouse, data is read of out a storage bucket. For this a `storage location` needs to be set and a `stage` be created in Snowflake. 
 
 First select all current storage locations. Copy the value under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`
 ```sql
 DESC INTEGRATION GCS_INTEGRATION;
 ```
 
-Past the value in the query above under `<<<<_past_here_>>>>'` + the value of the new GCS name. Values needs to be separated by a `,`.
+Past the value in the query below, over `<<<<_past_here_>>>>'` + the value of the new bucket location. Values needs to be separated by a `,`.
 ```sql
 ALTER INTEGRATION GCS_INTEGRATION 
 SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_past_here_>>>>')
@@ -438,7 +438,7 @@ SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_past_here_>>>>')
 A new stage can be created with the added storage location. 
 ```sql
 CREATE STAGE "RAW"."PTO".pto_load
-STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'gcs://bucket_name/';
+STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'bucket location';
 ```
 
 ## <i class="fas fa-cogs fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Transformation
