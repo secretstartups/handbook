@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jun 24 | Q2 FY22 Competitive Update 2 |    Aleeta Bell  |
 | Jul 1  | Deal Review Panel Discussion | Ashlihan Kurt & Alan Geary |
 | Jul 8  | Q2 FY22 Product Update | Brian Glanz |
 | Jul 15  | Q2 FY22 Alliances Update | Mike LeBeau |
@@ -39,6 +38,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-06-24 | **[Competing against Microsoft for Plan - Azure Boards](https://youtu.be/IRC6CFUfO-Y)** |  Private  |
 | 2021-06-17 | **[Breaking Changes in 14.0 - AMA with Product & Customer Success](https://youtu.be/k-wvJtL_NeM)** | Private     |
 | 2021-06-10 | **[Account Planning Office Hours](https://youtu.be/A8FEiwOkmSo)** |  Private   |
 | 2021-06-03 | **[Q2 FY22 Competitive Update](https://youtu.be/TtisyWQ9rE8)** |  Private |
