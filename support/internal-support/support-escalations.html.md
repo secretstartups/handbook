@@ -8,6 +8,16 @@ description: Process documentation for ticket escalation to support leadership.
 
 This document outlines the process for managing existing support tickets or [internal requests](https://gitlab.com/gitlab-com/support/internal-requests) which, due to business-critical situations require a resolution faster than what is defined by our [normal Support response times](https://about.gitlab.com/support/#priority-support).
 
+## What is an escalation?
+
+There are two types of escalations:
+
+1. A functional escalation is when the progress of a ticket has stalled and the ticket needs to be elevated to a more experienced resource based on their skill set so that GitLab can deliver the next level of support
+1. A hierarchal escalation is when management oversight is required to bring structure and focus to a ticket and ensure the necessary resources are allocated to it. This type of escalation typically encompasses the following situations:
+    - The SLA of the ticket has been significantly or repeatedly breached.
+    - It is a business critical situation where existing or future business is at risk.
+    - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
