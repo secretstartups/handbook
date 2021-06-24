@@ -142,6 +142,12 @@ Guidance for stage groups is:
 | < 10 minutes     | Understand your spend - no further action required. |
 | > 10 minutes     | Increase focus on performance and availability, reach out to Scalability for guidance via [review request issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). |
 
+##### How to change error budget attribution
+
+Error budget events are attributed to stage groups via [feature categorization](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization). Updates to this mapping can be managed via merge requests if ownership of a part of the platform moves from one feature category to another.
+
+Updates to feature categories only change how future events are mapped to stage groups. Previously reported events will not be retroactively updated and will continue to count against stage group error budgets.
+
 # Current State and Future Intent
 
 This process complements the [Engineering Architecture evolution process][architecture] in that:
