@@ -103,3 +103,33 @@ Here are a few pages to check out:
 * [How Growth launches experiments](/handbook/product/growth/#how-growth-launches-experiments)
 * [Growth Engineering Guide to running experiments](/handbook/engineering/development/growth/#running-experiments)
 * [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
+
+## Terminology
+<details>
+  <summary markdown="span">Useful Terms</summary>
+
+Here are some useful terms used in the context of experimentation:
+
+* **Null hypothesis (H0):** The default hypothesis that there is no relationship between variables. In experimentation, we are trying to disprove or reject the null hypothesis.
+  * In experimentation, we are trying to disprove or reject the null hypothesis.
+* **Alternative hypothesis (H1 or HA):** The hypothesis that there is a relationship between variables, the opposite of the null hypothesis.
+* **Type I error:** The rejection of a true null hypothesis, a "false positive".
+* **Type II error:** The non-rejection of a false null hypothesis, a "false negative".
+* **Alpha (α):** The probability of committing a Type I error (returning a "false positive"), sometimes called the significance level.
+  * The industry standard is α = 0.05, which is the value we use for RCTs but not necessarily for pseudo-RCTs.
+  * This value is set _before_ an experiment starts.
+* **p-value:** The probability that the observed results are due to random chance, _assuming the null hypothesis is true_.
+  * Ex: p=0.03 means that there is a 3% chance that the results you are seeing are due to chance.
+  * See the sections above about p-value interpretation for each experiment type.
+* **Statistical significance:** Results are considered to be statistically significant if p <= α.
+* **Confidence interval (CI):** Range of values that is likely to include a given value within a given confidence level (1-α).
+* **Beta (β):** The probability of committing a Type II error (returning a "false negative").
+* **Power (1-β):** The probability of correctly rejecting the null hypothesis. In other words, your ability to detect a difference between experiment variations where there is actually a difference between groups.
+  * The industry standard for Power is 0.8.
+* **Effect size:** The magnitidue of difference between groups.
+  * We use minimum effect size when designing up experiments (what is the minimum change we want to detect).
+* **Sample size:** The number of observations (people, namespaces, etc) included in an experiment.
+  * We calculate the minimum sample size required to detect a given size impact in a given metric.
+
+</details>
+
