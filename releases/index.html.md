@@ -100,7 +100,7 @@ towards even more frequent deployments. As we transitioned, the timelines
 for GitLab.com releases have changed and the current general process is
 described below.
 
-New auto-deploy branches are created at 03:00, 07:00, 11:00, and 17:00 UTC.
+New auto-deploy branches are created at 03:00, 06:00, 11:00, 16:00 and 21:00 UTC.
 
 Once a new branch is created, only commits that pass the CI tests are eligible for deployments ("green build"). This means that if specs are failing in
 [gitlab-org/gitlab], the deployments cannot progress further.
