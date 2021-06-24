@@ -14,7 +14,7 @@ title: "GitLab People Connect"
 <div class="flex-row" markdown="0" style="height:100px;justify-content:flex-start;">
   <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display:flex;align-items:center;justify-content:center;">Email</a>
   <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">#people-connect in slack</a>
-  <a href="https://gitlab.slack.com/archives/D026176HHQB" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">Direct Message</a>
+  <a href="https://gitlab.slack.com/app_redirect?app=A023FJVH54M" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">Direct Message</a>
 </div>
 
 ### Introduction
