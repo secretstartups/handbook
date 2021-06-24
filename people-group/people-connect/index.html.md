@@ -9,6 +9,14 @@ title: "GitLab People Connect"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## <i class="far fa-paper-plane"></i> How to reach out to us?
+
+<div class="flex-row" markdown="0" style="height:100px;justify-content:flex-start;">
+  <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display:flex;align-items:center;justify-content:center;">Email</a>
+  <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">#people-connect in slack</a>
+  <a href="https://gitlab.slack.com/archives/D026176HHQB" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">Direct Message</a>
+</div>
+
 ### Introduction
 
 People Connect is GitLab's centralized team member support model that provides a single point of contact (SPOC) for all people-related questions and requests - taking the guesswork out of finding answers that may not be immediately apparent in the handbook, while creating space for team members to remain productive and focused on what they do best.
