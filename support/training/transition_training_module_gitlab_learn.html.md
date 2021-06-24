@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: Support Onboarding Buddy
-description: How to be an onboarding buddy to a new Support Engineer
+title: Transition Learning module to GitLab Learn
+description: How to transition a support training module to  GitLab Learn
 ---
 
 ## On this page
@@ -10,73 +10,101 @@ description: How to be an onboarding buddy to a new Support Engineer
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Support Onboarding Buddy
+# Support Training Module to GitLab Learn
 
-You've become an onboarding buddy to a new Support Engineer. Congratulations! You've been granted a pivotal role in helping someone new learn about how to best contribute to our customers, our team, and our product.
+This document covers the process for transitioning an existing GitLab Support training to GitLab Learn.
 
-## Responsibilities
+## Requisites
 
-These responsibilities of the Support onboarding buddy are an extension of [the GitLab Onboarding Buddy responsibilities](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-buddies/#buddy-responsibilities), so please review that page first.
-
-1. Help the new Support Engineer through any sticking points they have in their [onboarding modules](https://about.gitlab.com/handbook/support/training/).
-1. Communicate often with the new hire, and either help (or direct them to get help) when stuck.
-1. Help the new Support Engineer adapt to and learn the role, by having frequent calls and pairing sessions to learn about our day-to-day duties.
-1. Encourage the new Support Engineer to work tickets that push them out of their initial comfort zone.
-
-## Structure
-
-During your time as onboarding buddy, you'll be working alongside the new Support Engineer while they complete their onboarding. Consider the timeframes below to be estimations: the pace will really be determined by the new Support Engineer.
-
-| Week (estimated)     | Task |
-| ----------- | ----------- |
-| [Weeks 1-2](#first-1-2-weeks) | Call to meet the new Support Engineer, help them get acclimated, answer any general questions they may have, discuss schedules, and share anything else they may find useful as they get started.       |
-|   | Open the lines of communication in Slack. Throughout this process, check in with them periodically to see how their onboarding module is progressing and ask if they need help.        |
-| |Call to help them update the team page, support-resources, dev-resources, the GDK, or anything else they may have questions about or trouble with. |
-| [Weeks 3+](#pairings)| Pair at least twice, but more often if you can. Ideally, aim for once a week. |
-| | Invite them to shadow you on any customer calls. |
-| | Identify tickets that help push the engineer out of their comfort zone, and encourage the engineer to [self-assign](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) these tickets. |
-
-## Ideas & Suggestions
-
-Note that everyone's needs are different, so consider the following as a list of ideas to customize to their individual needs. Not everyone needs everything from the below lists, but everyone would find at least a few of the following helpful.
-
-### First 1-2 weeks
-
-  - Meet and get to know each other
-  - Answer general questions
-  - Talk about your “schedule” and how you work every day - walk them through a few example days
-  - Talk about how to use tools like Slack, Expensify, etc.
-  - Show them some helpful Slack channels
-  - Which Slack channels to keep track of daily
-  - Which Google docs to keep track of (SWIR, etc.)
-  - Show them some helpful handbook pages to read during onboarding
-  - Show them the GitLab architecture diagrams
-  - Show them some product or [support-team-meta](https://gitlab.com/gitlab-com/support/support-team-meta) issues and clarify that they can contribute to anything
-  - Remind them they can get reimbursed for any books or training, and show them the [Spending Company Money](https://about.gitlab.com/handbook/spending-company-money/) page. If it's expensive, talk to their manager first.
-  - Show them how to use [dev-resources](https://gitlab.com/gitlab-com/dev-resources) and [support-resources](https://gitlab.com/gitlab-com/support/support-resources)
-  - Help them update the [GitLab team page](https://about.gitlab.com/company/team/) with their info (one of their Onboarding Issue checklist items)
-
-### Pairings
-
-- Introduction to Zendesk and how we use it:
-  - Walk them through Zendesk and how to use it
-  - Answer any questions they have about the [ticket workflow handbook pages](https://about.gitlab.com/handbook/support/workflows/)
-  - Walk through your own process for choosing and answering tickets
-  - Talk about [setting salutations in signature](https://gitlab.com/gitlab-com/support/team/-/merge_requests?scope=all&utf8=%E2%9C%93&state=merged&search=salutation)
-  - Show them how to create a ticket pairing issue
-
-- Pair on tickets:
-  - Share your screen and answer a few easy tickets with them
-  - If they brought any tickets to the call, answer those first
-  - Alternate who shares their screen and answers the tickets
-  - Reproduce problems whenever you can. Show them how to quickly spin up an instance using your preferred method (Docker, support-resources, GCP, etc.)
-
-- Customer calls:
-  - Ping them when you have a customer call so they can shadow it
-  - Show them how to find customer calls to shadow
-  - Be available for their first customer call, if possible. If not, do what you can to ensure they have a shadow to help them out
+- Complete the GitLab Learning Evanlegist traiing.
 
 
-### What to do afterwards
+## Transition template
 
-- Over the first few months, if you have anything interesting you’re working on that you think they can learn from, ping them and see if they’d like to either pair or shadow you on it.
+The following template shows how each element in a Training Module is align with GitLab Learn components.
+
+```mermaid
+graph TD;
+    X(Transition Template)-->A
+    X-->C
+    X-->E
+
+    E(Tasks)-->F(GitLab Learn - SmartCards)
+    C(Training Module)-->D(GitLab Learn - Pathways)
+
+    A("Support Learning Objective ex"u)-->B(GitLab Learn Journey);
+    
+
+    B-->Z(GitLab Learn)
+    
+    D-->Z
+    F-->Z
+```
+
+## Transition process
+
+### Step 1 - Define transition goals
+
+The first step in the transition is to visualize how the training will work on GitLab Learn, what new components will be used and which limitants I might have.
+
+The key elements to consider in GitLab Learn are:
+
+1. Quizzes 
+    
+    At the moment only single selection quizzes are available.
+
+1. Project type SmartCards
+
+    This smarcard allows the author to request a URL to be given, the functionality is useful for requestig and verifing access requests or pairing issues for example.  
+
+### Step 2 -Create an issue with L&D team for the new path way
+
+- [Create an issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) with L&D team  using the new pathway template.
+
+### Step 3 - Create your Pathway
+
+Training module become a pathway in GitLab learn. 
+
+- Create your pathway 
+
+    The pathway is similar to the issue used  on Training Modules
+
+- Define collaborators
+
+    Collaborators will be allowed to modify the pathway settings and add smartcards to the pathway.
+
+- Set the pathway to private
+
+    This setting is needed during the transition, the final setting may be different depending on the audicence requiere for the training modue.
+
+- Create a badge, so members who complete the material will have it in their profile.
+
+### Step 3 - Create the Smartcards
+
+Tasks become smartcards in GitLab Learn.
+
+- Select the option to edit the pathway and from there create the smartcards.
+- Any smartcard type can be used.
+- Quizzes are optional but recommended. Depending on how long the training can be, we can have one per section or one halfway through and one in the end.
+- Make sure to set the smarcard as locked, so any smartcard will requiere the previous one to be completed.
+- Be creative, GitLab Learn offer different smartcard types and also gives room for other tools by allowing `iframes with html`.
+
+ 
+### Step 4 - Test Run
+
+As a collaborator or author the pathway cannot be fully tested, for this step we will requiere volunteers to help us test our pathway.
+
+- Maintain the Pathway private and publish it.
+- Add the `reviewers` in the `Share` field for the pathway.
+- Share the patheay URL with the `reviewers`.
+
+#### What does success looks like ?
+
+- No smartcards can be skipped.
+- The quizzes have the correct answers.
+- By completing the pathway it will show 100% completed.
+
+### Step 5 - Request final request from L&D team  
+
+- Put a comment in the issue create in the first step requesting the final review.
+- Once the pathway has been approved and depending on the audience, change it to public.
