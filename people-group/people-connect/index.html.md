@@ -11,7 +11,7 @@ title: "GitLab People Connect"
 
 ### Introduction
 
-People Connect is GitLab's centralized team member support platform that provides a single point of contact (SPOC) for all people-related questions and requests - taking the guesswork out of finding answers that may not be immediately apparent in the handbook, while creating space for team members to remain productive and focused on what they do best.
+People Connect is GitLab's centralized team member support model that provides a single point of contact (SPOC) for all people-related questions and requests - taking the guesswork out of finding answers that may not be immediately apparent in the handbook, while creating space for team members to remain productive and focused on what they do best.
 
 Moving away from a multi-channel support model team members can now route all people-centric questions and requests directly to the People Connect team in one of two ways i.e. via the #people-connect Slack Channel (public) or by messaging the People Connect Bot (private).
 
@@ -30,6 +30,18 @@ Additionally our team of generalists are equally able to support queries and req
 People Connect is comprised of both generalists and specialists from within the People Operations fold - all of whom have a broad knowledge of all things people within the context of our unique all-remote environment.  
 
 The team collaborates intensively with various internal and external stakeholders to ensure that the GitLab Handbook is consistently maintained, working to ensure that all employment-related information is easily accessible to all whether entity-based or through a PEO.
+
+#### People Connect Manifesto
+
+* Every team member interaction is an **opportunity** to **empower** and **educate**.
+* A **spirit of learning** and a **commitment to service** are the heartbeat of People Connect.
+* We **share knowledge** and **grow together** - working to keep one another **accountable** and **informed**.
+* Service Desk centricity means **in-issue interactions** only always being mindful of **team member privacy** and **data protection**.
+* Label and Enable.
+
+#### Service Desk
+
+Our service desk was created by the [People Group Engineering Team](https://about.gitlab.com/handbook/people-group/engineering/) using or [dogfooding](https://about.gitlab.com/handbook/values/#dogfooding) our own product. You can read more about the **People Connect Bot** [here](https://about.gitlab.com/handbook/people-group/engineering/people-connect-bot/#people-connect-bot)
 
 #### Methods of Engagement
 
@@ -52,4 +64,3 @@ On occasion team member interactions i.e. ≤ 1% require the direct input of a S
 | **Tier 01** | First Line Resolution e.g. Administrative Support or Transactional Requests | ≤ 24 Hours |
 | **Tier 02** | Semi-Complex Resolution e.g. Root Cause Analysis or Solution Finding | ≤ 72 Hours |
 | **Tier 03** | Center of Expertise Hand-Off e.g. Policy Exception or Significant Process Change | ≤ 24 Hours | 
-
