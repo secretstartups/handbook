@@ -104,10 +104,10 @@ It is possible to make an appointment within 2 weeks.
 
 Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
 
-- 1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
+1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
 _Note: This calculation should be based on what GitLab *would* pay the team member in the Netherlands in accordance with the compensation calculator, *not* based on the team member's current salary._ 
-- 2. You have been a team member at GitLab for one year.
-- 3. You are not on a Performance Improvement Plan (PIP).
+1. You have been a team member at GitLab for one year.
+1. You are not on a Performance Improvement Plan (PIP).
 
 Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
   - You are a member of a(n underrepresented) group that is unsafe or in any way mistreated in your country. 
