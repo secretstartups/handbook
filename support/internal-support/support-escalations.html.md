@@ -18,7 +18,14 @@ The following two types of tickets can be escalated using this process.
 1. Zendesk Support tickets from customer with a license or subscription.
 1. Issues in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests) tracker.
 
+
 Either of these can be escalated if the current course of action is unlikely to provide a positive outcome and meet critical business objectives.
+
+## Out of Scope
+
+1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support.html#out-of-scope)
+1. Escalating tickets for which there is no acceptable business case provided, requiring the acceleration of a resolution.
+1. Add email to org or tickets that are not getting the corerct SLA.
 
 ## About Escalations
 
@@ -36,10 +43,6 @@ Depending on whether you want to draw attention to either a Zendesk ticket or an
 
 >**Note:** If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#viewing-support-tickets) to obtain it.
 
-### Out of Scope
-
-1. Add email to org
-1. Escalating tickets for which there is not an acceptable business case provided, requiring the acceleration of a resolution.
 
 ### Ticket De-escalation
 
