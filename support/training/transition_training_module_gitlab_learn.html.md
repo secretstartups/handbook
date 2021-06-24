@@ -43,6 +43,10 @@ graph TD;
 
 ## Transition process
 
+### Step 0 - The Handbook Page
+
+Every training requieres its content to be in the handbook, the only exception is trainings with `internal use` only content.
+
 ### Step 1 - Define transition goals
 
 The first step in the transition is to visualize how the training will work on GitLab Learn, what new components will be used and which limitants I might have.
@@ -112,6 +116,7 @@ As a collaborator or author the pathway cannot be fully tested, for this step we
 
 ## Considerations
 
-- Collaboration in GitLab learn won't be as flexible as in GitLab.
+- Collaboration in GitLab learn won't be as flexible as in GitLab and will depend on `Evangelists` or `Curators` for final updates.
+- The handbook is the SSOT, for that reason any change on the training must start in its handbook page.
 - A pathway author will be considered is DRI, and must ensure important updates in the trainig must be present in GitLab Learn as soon as possible.
 
