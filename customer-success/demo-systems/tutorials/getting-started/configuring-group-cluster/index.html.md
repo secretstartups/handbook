@@ -99,6 +99,10 @@ If you do not have the link available, these instructions show you how to naviga
     ```
     kubectl cluster-info | grep 'Kubernetes master' | awk '/http/ {print $NF}'
     ```
+    For recent versions of Kubernetes:
+    ```
+    kubectl cluster-info | grep 'Kubernetes control plane' | awk '/http/ {print $NF}'
+    ```
     ```
     https://35.239.222.203
     ```
