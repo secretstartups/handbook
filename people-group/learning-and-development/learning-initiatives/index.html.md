@@ -350,11 +350,26 @@ Call Structure:
 
 ## Crucial Conversations
 
-Two members of the GitLab Learning & Development Team are certified to deliver Crucial Conversations Training. You can learn more about Crucial Converations at GitLab on our [Crucial Conversations](/handbook/leadership/crucial-conversations/) handbook page. 
+Two members of the GitLab Learning & Development Team are certified to deliver Crucial Conversations Training. You can learn more about the importance of Crucial Converations at GitLab on our [Crucial Conversations](/handbook/leadership/crucial-conversations/) handbook page. 
 
 If you complete Crucial Conversations training with one of our in house certified trainers, you can utilize our [growth and development budget](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training). 
 
-If you are interested in participating in the course, you can fill out our [interest form](). 
+### What to Expect 
+
+The video below gives an overview of what the Crucial Conversations training looks like. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UX-ArZJJJ1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Upcoming Sessions 
+
+If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
+
+**FY22*** 
+
+- 2021-10 - Exact dates to be confirmed 
+- 2022-01 - Exact dates to be confirmed 
 
 ### Setting up the Training 
 
