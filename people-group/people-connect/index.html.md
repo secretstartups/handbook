@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "GitLab People Connect"
 ---
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/people-connect.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -11,10 +13,10 @@ title: "GitLab People Connect"
 
 ## <i class="far fa-paper-plane"></i> How to reach out to us?
 
-<div class="flex-row" markdown="0" style="height:100px;justify-content:flex-start;">
-  <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display:flex;align-items:center;justify-content:center;">Email</a>
-  <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">#people-connect in slack</a>
-  <a href="https://gitlab.slack.com/app_redirect?app=A023FJVH54M" class="btn btn-purple-inv" style="width:170px;margin:5px;height:100%;display: flex;align-items:center;justify-content:center;">Direct Message</a>
+<div class="large-button-container" markdown="0">
+  <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv large-button">Email</a>
+  <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv large-button">#people-connect in slack</a>
+  <a href="https://gitlab.slack.com/app_redirect?app=A023FJVH54M" class="btn btn-purple-inv large-button">Direct Message</a>
 </div>
 
 ### Introduction
@@ -35,7 +37,7 @@ Additionally our team of generalists are equally able to support queries and req
 
 #### Our Team
 
-People Connect is comprised of both generalists and specialists from within the People Operations fold - all of whom have a broad knowledge of all things people within the context of our unique all-remote environment.  
+People Connect is comprised of both generalists and specialists from within the People Operations fold - all of whom have a broad knowledge of all things people within the context of our unique all-remote environment.
 
 The team collaborates intensively with various internal and external stakeholders to ensure that the GitLab Handbook is consistently maintained, working to ensure that all employment-related information is easily accessible to all whether entity-based or through a PEO.
 
@@ -54,11 +56,11 @@ Our service desk was created by the [People Group Engineering Team](https://abou
 #### Methods of Engagement
 
 | Interaction Type | Communication Mechanism |
-| ----- | ----- | 
+| ----- | ----- |
 | **Public**: Interaction **does not** include Personal Data or Sensitive Information | **#people-connect** |
 | **Private**: Interaction **does** include Personal Data or Sensitive Information | **People Connect Bot (App)** |
 
-GitLab remains a [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect. 
+GitLab remains a [Handbook First](https://about.gitlab.com/handbook/handbook-usage/#why-handbook-first) organization. However, in instances where the answer to a people-related question is not apparent, the next port of call would be People Connect.
 
 In the interests of [knowledge sharing](https://about.gitlab.com/handbook/values/#findability) and [transparency](https://about.gitlab.com/handbook/values/#transparency) team members are encouraged to use **#people-connect** [by default](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) when initiating an interaction with the team.
 
@@ -73,10 +75,10 @@ People Connect rests on a tiered model which categorizes inbound queries and req
 On occasion team member interactions i.e. ≤ 1% require the direct input of a Subject Matter Expert (SME), calling for complete hand-off to a Center of Expertise (COE) - in such instances the interaction will be categorized as a Tier 03 with the responding generalist initiating the hand-off in a period ≤ 24 hours.
 
 | Tier | Query Type | Resolution Time |
-| --- | --- | --- | 
+| --- | --- | --- |
 | **Tier 01** | First Line Resolution e.g. Administrative Support or Transactional Requests | ≤ 24 Hours |
 | **Tier 02** | Semi-Complex Resolution e.g. Root Cause Analysis or Solution Finding | ≤ 72 Hours |
-| **Tier 03** | Center of Expertise Hand-Off e.g. Policy Exception or Significant Process Change | ≤ 24 Hours | 
+| **Tier 03** | Center of Expertise Hand-Off e.g. Policy Exception or Significant Process Change | ≤ 24 Hours |
 
 ### Team Member Satisfaction
 
@@ -92,4 +94,3 @@ At the resolution of each interaction that runs through our service desk team me
 * Ticket Distribution
 * Ticket Resolution per Tier
 * Average Ticket Resolution Time
-
