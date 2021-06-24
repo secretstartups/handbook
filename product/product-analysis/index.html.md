@@ -25,8 +25,11 @@ Read more about what we do at GitLab on our [Direction](https://about.gitlab.com
 * Nicole Galang: Product Analyst
 * Product Analyst: TBH
 
-The product analysts also work closely with members from the central data team, including:   
+The product analysts also work closely with members from the central Data team, including:
 * Mathieu Peychet: Senior Data Analyst
+
+The Product Analysis group hopes to partner more closely with data engineers on the Data 
+team, as well.
 
 ## Intake & Planning Process
 
@@ -64,5 +67,8 @@ to support additional asks and analyses.
 ## Helpful resources & links
 
 1. [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
+1. [Growth Experiments Knowledge Base](direction/growth/#growth-experiments-knowledge-base)
+1. [Growth Product Handbook](/handbook/product/growth/)
 1. [Data for product managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 1. [Data team How we can help you Page](/handbook/business-technology/data-team/#how-we-can-help-you)
