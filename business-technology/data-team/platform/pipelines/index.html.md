@@ -176,7 +176,7 @@ From this [list](https://knowledgecenter.zuora.com/Zuora_Revenue/Zuora_Revenue_B
 
 Below is the list of table which has data and which will be created in snowflake. The table which is not having data will not be created because the table definition provided by Zuora API is not on the column ordinal position but it alphabetical order, which makes column labeling incorrect.
 
-|Serial No|Data entity in Zuora|Physical table In Zuora|Table Name in Zuora|Table Name in SF|Has Records|Present in Snowflake|
+|Serial No|Data entity in Zuora|Physical table In Zuora|View Name in Zuora|Table Name in SF|Has Records|Present in Snowflake|
 |----|--------------------|-----------------------|-------------------|--------------|-------------|-----------|
 |1|Account Type|RPRO_BI3_ACCT_TYPE_V|BI3_ACCT_TYPE|BI3_ACCT_TYPE|Yes|Yes|
 |2|Accounting Pre-Summary|RPRO_BI3_RI_ACCT_SUMM_V|BI3_RI_ACCT_SUMM|BI3_RI_ACCT_SUMM|Yes|Yes|
