@@ -93,21 +93,7 @@ The Staff Technical Writer is a [grade 8](/handbook/total-rewards/compensation/c
 - **Recruiting**: Be available to interview potential technical writing candidates.
 - **Mentoring**: Mentor other technical writers and team members about suggesting and balancing priorities, industry best practices, and other process knowledge.
 
-### Principal Technical Writer responsibilities
 
-The Principal Technical Writer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Principal Technical Writer has extensive experience in a Staff-level role.
-
-- **Content**: Efficiently create and maintain product documentation and release posts for assigned product groups or stages. Guide improvements to merge requests. Help set priorities at a team level.
-- **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
-- **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
-- **User interface**: Provide expert guidance on user interface text. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content.
-- **Reviews**: Foster effective review practices for team and community contributions to GitLab documentation and user interface changes.
-- **Product knowledge**: Deeply understand the technology and features of the development stage to which you’re assigned, and have a general understanding of the end-to-end GitLab product to help improve the information architecture of the docs site.
-- **Process**: Actively contribute [Handbook](/handbook/) changes that help the organization evolve the culture and best practices, and lead efforts to encourage other team members regarding contributions.
-- **Communication**: Communicate effectively and professionally across all product groups and stages, and be a model for collaboration with community contributors.
-- **Leadership**: Identify and lead cross-GitLab department projects that improve the deliverables or processes of the Technical Writing team.
-- **Recruiting**: Be available to interview potential technical writing candidates.
-- **Mentoring**: Mentor other technical writers and team members regarding best practices and other process knowledge.
 
 ## Career Ladder
 
