@@ -44,7 +44,7 @@ In addition, if the request comes from a third party, the People Experience team
 
 ## Employment Verification
 
-If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-exp@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`.
+If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-connect@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`.
 
 The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll via private Slack channel.
 
@@ -107,7 +107,7 @@ If you are a team member residing in India, please consider using the following 
 - In the event that DHL charges Import Duty for the cards, you may proceed with paying the amount and expensing the amount through your normal expense process.
 
 ### Business Cards-Special Characters
--If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-exp@gitlab.com)and indicate how you would like the layout to look like.
+-If you are a team member who needs business cards with special characters, please reach out to the People Experience Team (people-connect@gitlab.com)and indicate how you would like the layout to look like.
 -The People Experience Coordinator will inform the Moo team to make the template available on Moo. This takes 24-48 hours
 -Once the template is available, the People Experience Coordinator will advice you and you can proceed and place your order.
 
@@ -122,14 +122,13 @@ In Japan, for a team member to qualify for subsidized day care, they need to dem
 - PeopleOps: Save the document on the team members BambooHR profile under the "Contracts and Changes" Folder
 
 
-
 ## Name Change
 {: #name-change}
 
 To initiate a change in name please complete the following:
 
 - Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) to request to change your name and all other applicable systems.
-- Team member: Email people-exp@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
+- Team member: Email people-connect@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
 - People Experience: Update Name in BambooHR 
 - People Experience: Update email adress in BambooHR and this will sync to Okta and GSuite.
 - People Experience: Update the name in Slack.
