@@ -13,18 +13,17 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CI-CD Hands On Demo** project.
 1. Open the `ci-variables` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
-1. Click on your `.gitlab-ci.yml` file to view its contents.
-1. In the browser tab with the **CICD Demo** project, click the blue **Edit** button. Paste the snippet at the end of the file.
-1. At the top of your `.gitlab-ci.yml` just below the `stages` section, paste the following: 
-    ```yml
-    variables: 
-      INLINE_GLOBAL_VARIABLE: "I’m an inline variable set at the global level of the CI/CD configuration file"
-    ```
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. Near the top of your `.gitlab-ci.yml`, just below the entire `stages` section, paste the following:
+```yml
+variables: 
+  INLINE_GLOBAL_VARIABLE: "I'm an inline variable set at the global level of the CI/CD configuration file"
+```
 1. In the section where the `environment variables` job is defined, just below the `stage: build` line, paste the following:
-    ```yml
-    variables:   
-      INLINE_LOCAL_VARIABLE: "I’m an inline variable set at the job level of the CI/CD configuration file"
-    ```
+```yml
+variables:   
+  INLINE_LOCAL_VARIABLE: "I'm an inline variable set at the job level of the CI/CD configuration file"
+```
 1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `master`, and click **Commit changes**.
 
 ### Add group- and project-level variables

@@ -14,7 +14,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
 1. In the **Commit message** field, type `enable SAST`, leave the **Target Branch** set to `master`, and click **Commit changes**.
 1. Navigate to the pipeline that was started by this change and click the `gosec-sast` job to ensure that it's running. *Note: it might take a minute or two for the `Build` stage to complete first.*
-1. To view the results of the SAST scan, click **Security & Compliance > Vulnerability Report** in the left-hand navigation pane. In the **Scanner** drop-down list, select **SAST**
+1. To view the results of the SAST scan, click **Security & Compliance > Vulnerability Report** in the left-hand navigation pane. In the **Scanner** drop-down list, select **SAST**. Click on any vulnerabilities to learn more about them.
 
 ## Suggestions?
 
