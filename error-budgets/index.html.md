@@ -184,3 +184,7 @@ Notable items to be addressed in future iterations include:
 | Product Management | [Maintaining the Spend of the Error Budget](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now) | 20 minutes over 28 days (equivalent to 99.95% availability) | In progress - In Grafana; Working to add per Stage data to Sisense [gitlab#1033](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1033) |
 | Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
 
+
+### More information
+
+[Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
