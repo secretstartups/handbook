@@ -24,12 +24,12 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](/handbook/
 * Facilitate gathering of tax return requests, collaborating with the Accounting and Payroll teams as needed
 
 ### Requirements
-* Ability to use GitLab
+* Willingness to learn and use GitLab
 * Eight plus years of a combination of accounting and tax experience, including working with entities outside of the US
 * At least four years working as an auditor in public accounting and/or managing statutory audits
-* Strong working knowledge of US and local GAAP principles and financial statements
+* Demonstrated working knowledge of US and local GAAP principles and financial statements
 * Experience with Netsuite or other big ERP system is preferred
-* Able to effectively complete tasks with minimal supervision
+* Effective at completing tasks with minimal supervision
 * Flexible to meet changing priorities and the ability to prioritize workload to achieve on time accurate results
 * Proficient with Microsoft Office and/or Google Docs and Sheets
 
