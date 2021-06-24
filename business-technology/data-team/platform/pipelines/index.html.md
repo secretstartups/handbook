@@ -163,7 +163,7 @@ If you are adding Certificates to SheetLoad, refer to the instructions in the [P
 
 ## Zuora Revenue 
 Zuora Revenue is an application where you can automate the complicated revenue management process in compliance with the latest revenue standards (ASC 606 and IFRS 15).
-As part of data pipeline for Zuora Revenue extraction process, we extract data using REST Call from Zuora Revenue BI views.
+As part of data pipeline for Zuora Revenue extraction process, we extract data using REST Call from Zuora Revenue BI views (created by Zuora Revenue in the product by default, we only use these views and could not create or alter these views).
 The data entities for Zuora Revenue BI views are based on the key physical tables. Some BI views are similar to the physical tables on which they are based. Other BI views are derived from calculations based on the physical tables.   
 
 ### Zuora Network Architecture 
