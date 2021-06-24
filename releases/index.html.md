@@ -69,9 +69,9 @@ Our [maintenance policy] describes in detail the cadence of our major, minor and
 ## Security
 The security of the software we ship must be everyones responsibiltiy as is the quality.  It can be a daunting task to deliver quality software securely.  GitLab has processes in place to help with application and code security reviews through the Secruity Departments' [Application Security (AppSec) team](/handbook/engineering/security/#application-security).  If you're unsure about the security implications of an addition to a code-base, the AppSec team can be included (`@gitlab-com/gl-security/appsec`) in the review to help.
 
-Supply-chain attacks like the [SolarWinds attack](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html) that occurred in March, 2020 are especially cumbersome and yet critical to defend.  These attacks take many forms and allow actors to infect a multitude of systems without having to target individuals explicitly with phishing attacks or the like as an example.  The efficiency of these types of attacks has made them more prevalent in recent years.  Code reviews and [tooling aimed at defending these types of attacks](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/58780) are our first line of defense.
-
 During the code review process, should evidence be found of a security flaw that needs further investigation, the [Security Incident Response Team (SIRT) can be engaged](/handbook/engineering/security/security-operations/sirt/sec-incident-response.html) to help.  If you need to [immediately stop a release](/handbook/engineering/releases/#deployment-blockers) for further investigation, any GitLab team member can [report an incident to the Infrastructure team](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident).  GitLab also has an [incident communication plan in place](/handbook/marketing/corporate-marketing/incident-communications-plan/) depending on the circumstances surrounding an incident.
+
+### Security releases
 
 ## Timelines
 
@@ -85,7 +85,7 @@ customers. This is strictly because there are a lot of moving parts to be consid
 when preparing a release which includes working on highest priority and severity
 issues as well as security related issues.
 
-Keep in mind that, if it is absolutely necessary to get a certain feature
+If it is absolutely necessary to get a certain feature
 ready for a specific version, merge the feature early in the development cycle.
 Merges closer to the release date are absolutely not guaranteed to be included
 in that specific monthly `self-managed release`.
@@ -96,8 +96,7 @@ For GitLab.com releases, timelines are different and described below.
 In June 2019, GitLab.com transitioned to more frequent deploys through `auto-deploys`
 as a first step towards continuous deployments. The [auto deploy transition] document
 was created to serve as a transition overview document as we progress further
-towards even more frequent deployments. As we transitioned, the timelines
-for GitLab.com releases have changed and the current general process is
+towards even more frequent deployments. The current general process is
 described below.
 
 New auto-deploy branches are created at 03:00, 06:00, 11:00, 16:00 and 21:00 UTC.
@@ -112,8 +111,7 @@ Automated tasks in the [release-tools] project are setup to drive the next steps
   - If it finds a commit that has not been previously deployed, it will start the process of creating a new package.
   - If the commit has already been deployed, the task will not take any actions.
 
-When a new package is built, it is automatically deployed to `staging.gitlab.com`.
-As part of the deployment to this environment, a set of automated QA integration tests are run.
+When a new package is built, it is automatically deployed to `staging.gitlab.com` and a set of automated QA integration tests are run.
 
 When the automated QA tests pass, the deployment automatically progresses to the
 [canary](https://about.gitlab.com/handbook/engineering/#canary-testing) stage where it is exposed to a sub-set of Production traffic.
@@ -125,9 +123,7 @@ The promotion to the full Production GitLab.com fleet is triggered manually by t
 managers and this can happen at any point in time but will usually not happen if there are [Deployment blockers].
 
 Each deployment will trigger a notification in the Slack channel [#announcements](https://gitlab.slack.com/archives/C8PKBH3M5).
-After each successful deployment, a QA issue is created in [release/tasks] issue tracker.
-The purpose of these notifications are to inform the people who are involved in the
-process that their change is going through environments. This allows them to
+After each successful deployment, a QA issue is created in [release/tasks] issue tracker to inform the people who are involved in the process that their change is going through environments. This allows them to
 execute any manual testing or other tasks related to the release of their fix/feature.
 
 ### Deployment blockers
