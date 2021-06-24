@@ -32,6 +32,12 @@ The second phase of discovery uses an iterative insight/question loop, often acr
 ### Preparation
 Ensure you are ready for each discussion. The level of preparation for each discovery conversation will vary, so use your best judgment for how deep you go and be sure to leverage the information that has already been collected during Prospecting and Qualification. The key point is to be prepared and to not just wing it. Consider the below recommendations.
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Jk6n4MrJ3J8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 #### Research the Prospect
 Researching your prospect may include but is not limited to:
 - Annual reports and/or financial statements
@@ -40,10 +46,22 @@ Researching your prospect may include but is not limited to:
 - Research your contact(s) on LinkedIn, Twitter, and/or other social media platforms
 - Insights gleaned from partners that already have relationships with the account
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/fdc5U02wHkc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 #### Understand the Persona
 Different roles within the prospect's organization will inherently care about and be motivated by different things. Leverage the below resources to understand the challenges and motivations of the persona you are engaging. 
 - [Buyer personas](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
 - [User personas](/handbook/marketing/strategic-marketing/roles-personas/#user-personas)
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/qWlzcGewi_U" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 #### Develop a Pre-Call Plan
 As outlined in the [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/edit?usp=sharing) job aid, be sure to consider the below questions.
@@ -101,6 +119,12 @@ The final phase of discovery identifies the roadmap, along with potential roadbl
 - Check out the full [MEDDPPICC](/handbook/sales/meddppicc/) Handbook page
 - Complete the [MEDDPPICC e-learning module](https://gitlab.edcast.com/insights/ECL-315a08a3-c8e2-48e1-9d4e-b43a6afd440b) (60 minutes, GitLab internal)
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/BJXQIKmGOcw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 # Avoid These Discovery Pitfalls
 
 ## Lack of Preparation
@@ -118,6 +142,18 @@ Resist the urge to prematurely talk about or begin to position GitLab until you 
 ## Not Attaching to the Biggest Problem 
 You must have a solid understanding of the prospect's key business drivers, strategic business initiatives, and associated objectives and goals to be able to serve as a trusted advisor. These will almost assuredly relate to one or more [Customer Value Drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Use [Customer Strategy-based discovery questions](/handbook/sales/qualification-questions/#customer-strategy) followed by [Customer Needs-based discovery questions](/handbook/sales/qualification-questions/#customer-needs) to identify how GitLab can have a positive impact on your buyer’s business issues.
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/1ZJ6S0fwYMw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/F3QMlgTdVhQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Failing to Identify the Negative Consequences of Doing Nothing
 Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
 
@@ -127,23 +163,42 @@ Watch the short video below to learn more about the importance of seeking to und
 </figure>
 <!-- blank line -->
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/KYLBUPJYkzA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Lack of Multi-Threading
 Sales multi-threading refers to the concept of engaging and developing relationships with multiple stakeholders who are involved in your customer's decision-making process. According to CEB Global, the average B2B deal has 5.8 decision-makers, and that number typically increases along with the size and complexity of the contract. Even if your primary contact has significant authority in the organization, that may be insufficient if the rest of the buying group is not on board with the decision. Therefore, the more connections you have from the buying side, the better your chances of getting a deal closed. To learn more, check out the below articles/blogs and podcast.
 - [What is Multi-threading Sales and Why Do You Need to Start Doing It?](https://www.dealsinsight.com/what-is-multi-threading-sales-and-why-do-you-need-to-start-doing-it/)
 - [The Tactical Guide to Multi-Threading Sales](https://www.saleshacker.com/multi-threading-sales/)
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/tlp8LMsLhsg" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 # Supplemental Resources
 
 **Overall Discovery**
 - [Executing Great Discovery](https://theaudible-readypodcast.sounder.fm/episode/33-executing-great-discovery-w-brian-walsh) podcast (31 minutes)
+- [Discovery is a Process](https://youtu.be/7icHj3UdSVw) featuring Matt Petrovick (GitLab Strategic Account Leader) (2.5 minutes)
+- [Matt Petrovick's Favorite Discovery Call](https://youtu.be/3jxBPQxCwEo) (3 minutes)
+- [Matt Petrovick's Most Memorable Discovery Call](https://youtu.be/Zngf1HzNuEo) (2 minutes)
+
+**Preparation**
+- [Be Match Ready!](https://youtu.be/teAWL9YUy30) featuring Peter Davies (GitLab Strategic Account Leader) (2 minutes)
 
 **Active Listening**
 - [Improve Your Active Listening Skills](https://theaudible-readypodcast.sounder.fm/episode/improve-your-active-listening-skills-w-patrick-mc) podcast (15 minutes)
 - [Why Are You Talking?](https://theaudible-readypodcast.sounder.fm/episode/why-are-you-talking) podcast (9 minutes)
+- [Use the Customer's Words and Stop Talking](https://youtu.be/lV_DGNB_bcQ) featuring Peter Davies (GitLab Strategic Account Leader) (0.5 minutes)
 
 **Attaching to the Biggest Problem**
 - [How to Enable Reps to Sell Higher](https://theaudible-readypodcast.sounder.fm/episode/decision-process-brian-walsh) podcast (27 minutes) 
 
 **Multi-Threading**
 - [Navigating the Decision Process with Multiple Buyers](https://theaudible-readypodcast.sounder.fm/episode/decision-process) podcast (11.5 minutes)
+- [Multi-threading with Application Security](https://youtu.be/9FTpDK-q11o) featuring Matt Petrovick (GitLab Strategic Account Leader) (1 minute)
