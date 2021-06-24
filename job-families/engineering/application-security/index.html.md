@@ -109,6 +109,32 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Experience leading efforts or managing application security teams working in the DevOps model.
 * Hands on experience architecting, automating, maintaining, and securing Cloud Computing Platforms - GCP experience a plus.
 
+
+## Application Security Engineer Specialties
+
+### US Federal
+
+A US Federal Application Security Engineer's main focus is supporting our Public Sector customers and related internal teams concerning the product's security.
+
+#### Requirements
+
+In addition to the general requirements for [Application Security Engineers](#main_requirements):
+
+* Must be a United States citizen.
+* Must reside in one of the 50 states of the United States of America.
+* Must conduct all GitLab related work within the United States of America.
+* Experience working for or closely with the United States government or associated contractors. 
+* Ability and willingness to obtain a federal security clearance should it be necessary to perform job responsibilities.
+* Experience working with Defense Information Security Agency (DISA) Security Technical Implementation Guides (STIGs). 
+* Successful completion of a [background check](https://about.gitlab.com/handbook/people-group/people-policy-directory/#background-checks).
+
+#### Responsibilities
+
+* Lead and perform application security reviews on all contributed code from [GitLab Information Technology (Hubei) Co., Ltd. (JiHu, pronounced "G Who")](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/).
+* Work with and triage security reports from US government organizations and associated contractors.
+* From an Application Security perspective, support our Federal Sales and Public Sector teams.
+* Auxillary responsibilities include those [general to the Application Security Engineer role](#main_responsibilities).
+
 ### Security Manager, Application Security
 This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
 
