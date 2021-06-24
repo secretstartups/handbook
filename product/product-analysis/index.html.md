@@ -16,7 +16,7 @@ Director of Product, Growth and serves as a specialized analytics team to suppor
 analysis requests. The primary customer this group serves is Product Managers from various 
 sections/groups.
 
-Read more about what we do at GitLab on our [Direction](https://about.gitlab.com/direction/product-analysis/) page.
+Read more about what we do at GitLab on our [Direction](/direction/product-analysis/) page.
 
 ### Product Analysis group members
 
@@ -64,9 +64,13 @@ to support additional asks and analyses.
 1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth stage-related data questions
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions 
 
-## Helpful resources & links
+## Product Analysis Handbook Structure
 
-1. [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
+
+## Other helpful resources & links
+
 1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
 1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
 1. [Growth Product Handbook](/handbook/product/growth/)
