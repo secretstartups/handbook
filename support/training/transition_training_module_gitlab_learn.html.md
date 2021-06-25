@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: Transition Learning module to GitLab Learn
+title: Transition training module to GitLab Learn
 description: How to transition a support training module to  GitLab Learn
 ---
 
