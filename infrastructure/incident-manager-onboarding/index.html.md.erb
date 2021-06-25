@@ -1,0 +1,64 @@
+---
+layout: handbook-page-toc
+title: "Incident Review"
+---
+
+## On this page
+
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+At first, just the managers of SRE at GitLab were involved in incident management at GitLab.  We are looking to expand
+the rotation and number of people who can do the [IMOC role](handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities) at GitLab for GitLab SaaS environments.
+This page is meant to be the starting point for someone looking to learn about IMOC and eventually join the rotation.
+
+## Learning about Incident Management 
+
+#### Videos
+1. [A good talk about incident response](https://www.youtube.com/watch?v=4ZHFPiRXJls) from PagerDuty.
+
+#### Reading
+1. The support team has a [great write up](handbook/support/workflows/cmoc_workflows.html) on the CMOC workflows.
+2. Google has a few good chapters on Incident response in their SRE books:
+  a. Good thoughts on the life of the engineers on call.
+   * [Being On call](https://sre.google/sre-book/being-on-call/)
+   * [Effective Troubleshooting](https://sre.google/sre-book/effective-troubleshooting/)
+  b. Dealing with the incident:
+   * [Emergency Response](https://sre.google/sre-book/emergency-response/)
+   * [Managing Incidents](https://sre.google/sre-book/managing-incidents/)
+   * [Workbook examples of incident response](https://sre.google/workbook/incident-response/)
+   * [Incident Review](https://sre.google/sre-book/postmortem-culture/) and [Learning from Failure](https://sre.google/workbook/postmortem-culture/)
+  c. [Being Oncall](https://sre.google/workbook/on-call/)
+
+## Getting going as an IMOC
+After the reading and video above, you should start shadowing existing IMOCs.  
+
+Things you will need:
+1. An account on GitLab's PagerDuty account (via access Request)
+2. The PagerDuty App on your phone
+3. Join the following channels on slack: #incident-management, #production, #feed_alerts-general, #abuse, #dev-escalation
+4. Make sure you can login to the [dashboards site](https://dashboards.gitlab.net/d/RZmbBr7mk/gitlab-triage)
+5. Make sure you can login to [kibana](https://log.gprd.gitlab.net/) 
+6. Familiarize yourself with the [dev escalation process](handbook/engineering/development/processes/Infra-Dev-Escalation/process.html)
+
+We have a IMOC Shadow Schdule(https://gitlab.pagerduty.com/schedules#P3HRRXW) which people can join.  
+When you are on this schedule, you will be paged in parallel with the current IMOC on duty.  
+You can pick times that work for you at first.  Ideally it would be good to shadow for about 1 month or 5-10 incidents.
+
+After a few incidents, schedule a debrief chat with the IMOCs you shadowed.  Walk through the incidents and ask
+any questions you have about how the incident went.
+
+When you feel ready, coordinate with an IMOC for a "reverse shadow".  Schedule yourself in teh shadow rotation, 
+this time coordinating with the current IMOC knowing who will take primary.  This way, you can handle some incidents
+with a fall back / escalation point should you need help.  This is what we do to onboard SREs in the oncall rotation 
+and has been very helpful for new people getting used to things.
+
+## Joining the rotation and vision
+As we add more people to the IMOC rotation, your time will likely be much less freqeunt for oncall. 
+Assuming we can get to 18 people with 6 in each "region", IMOCs will only be oncall once every 6 weeks for the 24x5 weekdays 
+that are critical to cover.
+
+
