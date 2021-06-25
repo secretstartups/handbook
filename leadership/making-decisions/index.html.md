@@ -40,7 +40,7 @@ On this page, we have outlined how we make decisions at GitLab.
 Decisions that require input, buy-in, or awareness of others should be accompanied by a brief, documented proposal. This can be captured in an agenda, issue, or Google Doc, but it should include the following elements:
 
 1. Options considered: what alternative approaches were considered, including the one that you recommend
-1. Recommendation: justification for why your preferred path was recommended over others. When apporopriate and possible, this should include a recommendation grounded in data
+1. Recommendation: justification for why your preferred path was recommended over others. When appropriate and possible, this should include a recommendation grounded in data
 1. Why is this smallest and fastest: a statement on how you are taking an [iterative approach](/handbook/values/#iteration). Otherwise said, could this decision be broken into even smaller parts? If yes, revisit items and 1 and 2.
 
 ## E-Group Conversation on Making Decisions
