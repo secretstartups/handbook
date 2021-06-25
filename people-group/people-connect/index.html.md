@@ -11,12 +11,16 @@ title: "GitLab People Connect"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## <i class="far fa-paper-plane"></i> How to reach out to us?
+## <i class="far fa-paper-plane"></i> Connect with Us
+
+GitLab Team Members can now reach out to us at the push of a button via our #people-connect Slack Channel or by direct messaging the People Connect Bot.
+
+If you are external to GitLab but have a question for our team be sure to hit the email button below.
 
 <div class="large-button-container" markdown="0">
-  <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv large-button">Email</a>
-  <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv large-button">#people-connect in slack</a>
+  <a href="https://gitlab.slack.com/archives/C02360SQQFR" class="btn btn-purple-inv large-button">#people-connect</a>
   <a href="https://gitlab.slack.com/app_redirect?app=A023FJVH54M" class="btn btn-purple-inv large-button">Direct Message</a>
+  <a href="mailto:people-connect@gitlab.com" class="btn btn-purple-inv large-button">Email</a>
 </div>
 
 ### Introduction
