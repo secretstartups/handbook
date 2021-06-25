@@ -12,7 +12,7 @@ This document outlines the process for managing existing support tickets or [int
 
 There are two types of escalations:
 
-1. A functional escalation is when the progress of a ticket has stalled and the ticket needs to be elevated to a more experienced resource based on their skill set so that GitLab can deliver the next level of support
+1. A functional escalation is when the progress of a ticket has stalled and the ticket needs to be elevated to a more experienced engineer (based on their skill set) so that GitLab can resolve the ticket more quickly
 1. A hierarchal escalation is when management oversight is required to bring structure and focus to a ticket and ensure the necessary resources are allocated to it. This type of escalation typically encompasses the following situations:
     - The SLA of the ticket has been significantly or repeatedly breached.
     - It is a business critical situation where existing or future business is at risk.
