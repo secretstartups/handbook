@@ -16,12 +16,12 @@ This document covers the process for transitioning an existing GitLab Support tr
 
 ## Requisites
 
-- Complete the GitLab Learning Evanlegist traiing.
+- Complete the GitLab Learning Evangelist training.
 
 
 ## Transition template
 
-The following template shows how each element in a Training Module is align with GitLab Learn components.
+The following template shows how each element in a Training Module aligns with GitLab Learn components.
 
 ```mermaid
 graph TD;
@@ -32,7 +32,7 @@ graph TD;
     E(Tasks)-->F(GitLab Learn - SmartCards)
     C(Training Module)-->D(GitLab Learn - Pathways)
 
-    A("Support Learning Objective ex"u)-->B(GitLab Learn Journey);
+    A("Support Learning Objective)-->B(GitLab Learn Journey);
     
 
     B-->Z(GitLab Learn)
@@ -49,25 +49,25 @@ Every training requieres its content to be in the handbook, the only exception i
 
 ### Step 1 - Define transition goals
 
-The first step in the transition is to visualize how the training will work on GitLab Learn, what new components will be used and which limitants I might have.
+The first step in the transition is to visualize how the training will work on GitLab Learn, what new components will be used, and which limitations you might have.
 
 The key elements to consider in GitLab Learn are:
 
 1. Quizzes 
     
-    At the moment only single selection quizzes are available.
+    At the moment, only single or multi-select answer questions are available.
 
 1. Project type SmartCards
 
-    This smarcard allows the author to request a URL to be given, the functionality is useful for requestig and verifing access requests or pairing issues for example.  
+    This smartcard allows the author to request a URL to be given. The functionality is useful for requesting and verifying an issue, such as an access request or pairing issue.
 
-### Step 2 -Create an issue with L&D team for the new path way
+### Step 2 - Create an issue with L&D team for the new pathway
 
 - [Create an issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) with L&D team  using the new pathway template.
 
 ### Step 3 - Create your Pathway
 
-Training module become a pathway in GitLab learn. 
+A Training module becomes a pathway in GitLab learn. 
 
 - Create your pathway 
 
@@ -79,7 +79,7 @@ Training module become a pathway in GitLab learn.
 
 - Set the pathway to private
 
-    This setting is needed during the transition, the final setting may be different depending on the audicence requiere for the training modue.
+    This setting is needed during the transition. The final setting may be different depending on the audience for the training module.
 
 - Create a badge, so members who complete the material will have it in their profile.
 
