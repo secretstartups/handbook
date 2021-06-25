@@ -383,6 +383,76 @@ If we find that solutions are consistently not matching the agreed upon design, 
 * Product Designer, PM, and Engineering use the [Design phase](/handbook/product-development-flow/#validation-phase-3-design) in the Validation track to talk about complexities and discuss challenges and uncover blockers. Once we are all in agreement - we can have a put a direction on the board - see [Solution Validation phase](/handbook/product-development-flow/#validation-phase-4-solution-validation) for details.
 * Engineers and Product Designers should stay in contact and frequently align throughout the [Build track](/handbook/product-development-flow/#build-track) to avoid unplanned changes.
 
+### E2E Tests
+
+Whenever possible, engineers should add all relevant tests alongside a new feature or a bug fix.
+It is always required that engineers should add all relevant tests (unit, component, integration or E2E) alongside a new feature or a bug fix.
+We recognize, however, that in the case of creating E2E tests this cannot be applied systematically for multiple reasons. This section
+lists some ways we work to deliver tests in a painless and efficient way.
+
+#### Plan ahead
+
+We aim to define needed tests early with [Quad-planning](/handbook/engineering/development/ops/verify/pipeline-authoring/#quad-planning).
+All the testing should be defined before the implementation starts and all parties should agree on:
+- What type of test coverage is needed.
+- Who is the DRI for which test.
+- What is to be delivered.
+- When it will be delivered.
+  - If Feature flag is required consider [strategy for testing feature flags in end to end tests](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/782)
+
+#### E2E tests are written in parallel
+
+When writing a new feature, we might need to write new E2E specs. In Pipeline Execution, we prefer
+to add E2E tests in separate MRs, the same way we prefer frontend and backend MRs to be separate.
+During [Quad-planning](/handbook/engineering/development/ops/verify/pipeline-authoring/#quad-planning), it is essential
+to determine whether that separate MR is required for the feature to ship or not. Given that we use feature flags for all
+new features, it is quite easy to work in separate MRs and turn on the flag when the team feels the feature has enough coverage
+for production use. A typical full stack feature can therefore involve multiple backend MRs, then frontend MRs, and finally
+E2E test MRs.
+
+#### Best person for the job
+
+Writing tests is a team effort and should never be delegated to a single group. We are all responsible for quality.
+That being said, we acknowledge that Software Engineers in Tests (SETs) have the most knowledge about writing E2E tests. A benefit
+of splitting the E2E specs into a separate MR is that it can be assigned to someone other than the DRI of the
+feature, which lets a more appropriate person write the spec. This can be the SET, backend or
+frontend, depending on the circumstances.
+
+Given the Ruby expertise required to write E2E tests, we should have SETs and backend engineers be the primary team members to
+write them. Frontend engineer may volunteer to write them with the support of a SET if they feel
+confident, but it is **not expected** of them.
+
+Whenever possible, backend engineers should help write the E2E tests of a new feature or bug fix.
+They should feel comfortable pinging the SET on their team as needed (to review the MR, for example).
+This helps alleviate the SET's workload, so that they are not entirely responsible for E2E tests on their own.
+However when they are not comfortable writing the required E2E tests, then the plan should be for
+the SET to lead the effort. The rationale being that SETs have the most context and work daily with specs,
+so they will be able to write them much faster. More importantly, they can write much **better** specs.
+DRI engineers should proactively help the SET understand the required tests.
+
+#### Accounting for capacity
+
+In the instance where the SET has too many E2E tests to write, then they should check with
+backend engineers of the team if they could lead the effort on some of them. Because testing
+is part of the required work, we should account for E2E tests when assigning issues to a milestone.
+
+#### Bug fixes that require additional test coverage
+
+When we fix a bug, we ideally want to write a test that would catch and prevent this bug from happening again in the future.
+However, if the spec we need to write (unit, integration, or E2E test), is part of a code change that needs to be merged as
+soon as possible (e.g. requires a time sensitive resolution), it is preferable to merge the fix first, 
+and create an issue to write the spec afterwards, so that it is not blocking merging of the MR. This example should be considered the
+exception, not the rule.
+
+#### Creating follow-up issues for specs
+
+When creating follow-up issues for tests, we have to ensure that they are not going to sit on a pile in the backlog.
+Tests are essential and should be prioritized as such.
+When creating a follow-up issue for required tests:
+- Make sure to assign the issue to the following milestone and make room for it to be worked on.
+- Add all the context necessary to test the feature in the description, for example: Where it is, how it works, how to configure it, etc.
+- Assign a DRI immediately and cc the product manager so that they are aware of the issue and required work.
+
 ### Technical debt
 
 We track our technical debt using the following [Pipeline Execution Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/1438885), where we track issues in the planning phase.
