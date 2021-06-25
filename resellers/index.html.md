@@ -258,7 +258,7 @@ Authorized Public Sector Partners can earn one-time and recurring revenues from 
 
 GitLab employees can access the discount table [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) and the Public Sector matrix [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng).
 
-NOTE:  Discounts are taken off GitLab list price, not customer negotiated price.
+NOTE:  Discounts are taken off GitLab list price.
 
 #### Definitions and Qualifications
 
