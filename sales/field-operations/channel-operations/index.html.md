@@ -334,7 +334,7 @@ For more information on quoting or the Partner Program, please visit:
 
 *   [Deal Desk Quote Configuration](/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 *   [Partner Program](/handbook/resellers/)
-*   [Channel Discount Matrices for GitLab Team Members](/handbook/sales/field-operations/channel-operations/#partner-program-discounts)
+*   [Channel Discount Matrices for GitLab Team Members](/handbook/sales/field-operations/channel-operations/#partner-program-discounts). NOTE:  Discounts are taken off GitLab list price.
 
 
 ### Channel Tagging for PubSec FSI Deals - Temporary Exception Process 
