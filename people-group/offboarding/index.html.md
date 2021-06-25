@@ -309,7 +309,7 @@ individual and their manager](/handbook/communication/#not-public).
 
 
 If you are not close to an employee's offboarding, it may seem unnecessarily swift.
-Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding are a last resort.
+Please remember that these decisions are never made without following the above process to come to a positive resolution first - we need to protect the interests of the individual as well as the company, and offboarding is a last resort.
 According to our values [negative feedback is 1-1 between you and your manager](/handbook/values/#negative-feedback-is-1-1) and we are limited in what we can share about private employee issues.
 Please discuss any concerns you have about another employee's offboarding with your manager or your People Business Partner.
 
