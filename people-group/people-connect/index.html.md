@@ -13,7 +13,7 @@ title: "GitLab People Connect"
 
 ## <i class="far fa-paper-plane"></i> Connect with Us
 
-GitLab Team Members can now reach out to us at the push of a button via our #people-connect Slack Channel or by direct messaging the People Connect Bot.
+GitLab Team Members can now reach out to us at the touch of a button via our #people-connect Slack Channel or by direct messaging the People Connect Bot.
 
 If you are external to GitLab but have a question for our team be sure to hit the email button below.
 
