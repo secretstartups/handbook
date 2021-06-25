@@ -27,7 +27,7 @@ The following people are members of the Observability Team:
 
 ## Mission
 
-The __Observability team__ is responsible for building tooling that provides visibility of __metrics__, __logs__ and __tracing__ of services to enhance the availability, reliability, and performance of GitLab.com. The team appreciates that GitLab Team Members and GitLab.com's users both benefit from access to our metrics. We provide some metrics to GitLab users at https://dashboards.gitlab.com.
+The __Observability team__ is responsible for building tooling that provides visibility via __metrics__, __logs__ and __tracing__ of services to enhance the availability, reliability, and performance of GitLab.com. The team appreciates that GitLab Team Members and GitLab.com's users both benefit from access to our metrics. We provide some metrics to GitLab users at https://dashboards.gitlab.com.
 
 
 ## Vision
