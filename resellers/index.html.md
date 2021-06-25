@@ -253,10 +253,12 @@ The GitLab Partner Program helps develop your practice to best fit your business
 
 To view the GitLab Partner Program Discount and Referral Fee Table please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Partner) and access discount table in the Program Documents folder in the Asset Library. 
 
-Authorized Public Sector Partner can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
+Authorized Public Sector Partners can earn one-time and recurring revenues from product and services sales, referrals, as well as services deliver and resale.  To view Public Sector Discounts please visit the [GitLab Partner Portal](https://partners.gitlab.com/prm/English/s/assets) (must be an authorized Public Sector Partner) and access discount table in the Program Documents folder in the Asset Library.
 
 
 GitLab employees can access the discount table [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) and the Public Sector matrix [here](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng).
+
+NOTE:  Discounts are taken off GitLab list price, not customer negotiated price.
 
 #### Definitions and Qualifications
 
