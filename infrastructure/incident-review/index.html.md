@@ -101,7 +101,7 @@ Incident Reviews are conducted in the incident issue and their workflow is track
    (coming from this [link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/10516#note_375948861))
 
 1. All issues labeled `~Corrective Action` must have an assigned priority label, it is the responsibility of the DRI to ensure that the priorities are set.
-1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the incident review issue can be closed.
+1. After discussion on the Incident Review issue has ended, all `~Corrective Action` issues have been linked, and notes from the review are incorporated into the Incident Review issue, the `Incident::Review-Completed` label can be added to the incident.
 
 ## Synchronous Review Meeting Sessions
 
@@ -109,7 +109,7 @@ Incident review sessions are open on the GitLab Team Meetings calendar with the 
 1. Tuesdays at 13:30 - 14:20 UTC
 1. Tuesdays at 22:00 - 22:50 UTC
 
-The assigned IMOC is responsible for properly labeling the Incident Review issue (see [Incident-Management#labeling](/handbook/engineering/infrastructure/incident-management/#labeling) `~Incident::Review-Scheduled` and adding it to the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#).
+The assigned IMOC is responsible for adding it to the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#).
 
 GitLab team members are encouraged to review the issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments. The IMOC assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be achieved by inviting them to the Google Calendar event for when the incident will be discussed, posting in their teams' Slack channels, at-mentioning them in the issue, and assigning them directly in the Google Doc&mdash;or some combination of those options. If the participation from stakeholders outside of Infrastructure department in either the async or sync review is not sufficient to create sufficient understanding of the situation and corrective actions, the IMOC will q the [infradev process](/handbook/engineering/development/#continuous-delivery-infrastructure-and-quality-collaboration) and escalate to the appropriate stakeholders.
 

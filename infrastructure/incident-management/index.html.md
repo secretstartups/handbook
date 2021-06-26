@@ -100,7 +100,7 @@ These definitions imply several on-call rotations for the different roles.
 1. By acknowledging an incident in Pagerduty, the EOC is implying that they are working on it. To further reinforce this acknowledgement, post a note in Slack that you are joining the `The Situation Room Permanent Zoom` as soon as possible.
     1. If the EOC believes the alert is incorrect, comment on the thread in `#production`. If the alert is flappy, create an issue and post a link in the thread. This issue might end up being a part of RCA or end up requiring a change in the alert rule.
 1. _Be inquisitive_. _Be vigilant_. If you notice that something doesn't seem right, investigate further.
-1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it has a `~review-requested` label, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review), in some cases this may be be a synchronous review meeting or an async review depending on what is requested by those involved with the incident.
+1. After the incident is resolved, the EOC should review the comments and ensure that the [corrective actions](#corrective-actions) are added to the issue description, regardless of the incident severity. If it has a `~review-requested` label, the EOC should start on performing an [incident review](/handbook/engineering/infrastructure/incident-review/), in some cases this may be be a synchronous review meeting or an async review depending on what is requested by those involved with the incident.
 
 #### Guidelines on Security Incidents
 
@@ -131,7 +131,7 @@ In some cases, we may choose not to post to status.io, the following are example
 1. They evaluate information provided by team members, lend technical direction, and coordinate troubleshooting efforts.
 1. If applicable, coordinate the incident response with [business contingency activities](/handbook/business-ops/gitlab-business-continuity-plan/).
 1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
-1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review).
+1. After the incident is resolved, the IMOC is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
 1. For high severity bugs that affect customers, the IMOC is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
 
 To engage the IMOC: either run `/pd trigger` in Slack, then select the "GitLab
@@ -346,9 +346,15 @@ Status can be set independent of state. The only time these must align is when a
 
 ## Incident Workflow
 
-### Purpose
 
-In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the two paths an incident can take from `open` to `closed`. The two paths are dictated by the severity of the issue, `S1` and `S2` incidents require a review. In certain cases an `S3` or `S4` incident can take the review workflow path. [Details here](/handbook/engineering/infrastructure/incident-review/#review-criteria)
+### Summary
+
+In order to effectively track specific metrics and have a single pane of glass for incidents and their reviews, specific labels are used. The below [workflow diagram](#workflow-diagram) describes the path an incident takes from `open` to `closed`. All `S1` incidents require a review, other incidents can also be reviewed as [described here](/handbook/engineering/infrastructure/incident-review/#review-criteria).
+
+GitLab uses the [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) feature of the GitLab application. Incidents are [reported](/handbook/engineering/infrastructure/incident-management/#reporting-an-incident) and closed when they are resolved. A resolved incident means the degradation has ended and will not likely re-occur.
+
+If there is additional follow-up work that requires more time after an incident is resolved and closed (like a detailed root cause analysis or a corrective action) a new issue may need to be created and linked to the incident issue.
+It is important to add as much information as possible as soon as an incident is resolved while the information is fresh, this includes a high level summary and a timeline where applicable.
 
 ### Assignees
 
@@ -364,13 +370,13 @@ In order to help with attribution, we also label each incident with a scoped lab
 
 | **Label** | **Workflow State** |
 | ----- | -------------- |
-| `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned. |
-| `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.) |
-| `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and GitLab.com is fully operational. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. |
-| `~Incident::Review-Scheduled` | Indicates that the incident review has been added to the agenda for an upcoming review meeting. |
-| `~Incident::Review-Completed` | Indicates that an incident review has been completed, but there are notes to incorporate from the review writeup prior to closing the issue. |
+| `~Incident::Active` | Indicates that the incident labeled is active and ongoing. Initial severity is assigned when it is opened. |
+| `~Incident::Mitigated` | Indicates that the incident has been mitigated, but immediate post-incident activity may be ongoing (monitoring, messaging, etc.). A mitigated issue means there is the potential for the impact to return. It may be appropriate to leave an incident mitigated while there is an alert silence with an expiration set. |
+| `~Incident::Resolved` | Indicates that SRE engagement with the incident has ended and the condition that triggered the alert has been resolved. Incident severity is re-assessed and determined if the initial severity is still correct and if it is not, it is changed to the correct severity. Once an incident is resolved, it should be closed. |
+| `~Incident::Review-Completed` | Indicates that an incident review has been completed, this should be added to an incident after the review is completed if it has the `~review-requested` label. |
 
 #### Root Cause Labeling
+
 Labeling incidents with similar causes helps develop insight into overall trends and when combined with Service attribution, improved understanding of Service behavior. Indicating a single root cause is desirable and in cases where there appear to be multiple root causes, indicate the root cause which precipitated the incident.
 
 The EOC, as DRI of the incident, is responsible for determining root cause.
@@ -388,7 +394,7 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
    | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
     | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
-    | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test | 
+    | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test |
 
 #### "Needs" labeling
 
@@ -426,16 +432,18 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 ### Workflow Diagram
 
 ``` mermaid
-graph TD
-  A[Incident is declared] --> B[Incident::Active - initial severity assigned - EOC and IMOC are assigned]
-  B --> C[Incident::Mitigated]
-  C --> D[Incident::Resolved - severity is re-assessed based on actual impact]
-  D --> |S1 or optional by adding the review-requested label| F[Incident::Review-Scheduled]
-  D -->|S2/S3/S4| Z[Closed]
-  B --> Y[Incident issue not needed. Remove all labels and close]
-  F --> G[Incident::Review-Completed]
-  G --> Z
+  graph TD
+    A(Incident is declared) --> |initial severity assigned - EOC and IMOC are assigned| B(Incident::Active)
+    B --> |Temporary mitigation is in place, or an alert silence is added| C(Incident::Mitigated)
+    B --> D
+    C --> D(Incident::Resolved)
+    D --> |severity is re-assessed| D
+
+    D -.-> |for review-requested incidents| E(Incident::Review-Completed)
 ```
+
+* As soon as an incident transitions to `Incident::Resolved` the incident issue will be closed
+* All `Severity::1` incidents will automatically be labeled with `review-requested`
 
 ### Incident Board
 
