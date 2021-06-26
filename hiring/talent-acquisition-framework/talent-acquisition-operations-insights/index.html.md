@@ -426,7 +426,7 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * **Current Team Members**
         1. Pull the Current Team Members reports.
         1. Insert a column to the right of `Hire Date` and call it `FYXX-QX` (Column B).
-            * Enter the corresponding quarter for the given `Hire Date`.
+            * Enter the corresponding quarter for the given `Hire Date` for hires in current and previous Fiscal Years.
         1. Create a pivot table to count the number to Team Members by division.
             * Update the bar chart to showcase how the company size has change over the last four quarters.
     * **Talent Out (Regrettable/Non-Regrettable)**
