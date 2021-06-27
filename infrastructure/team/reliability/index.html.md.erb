@@ -92,21 +92,21 @@ Though we are organized around teams focused on specific domains, the workflow f
 
 As Reliability, we have three main work streams and each varies in the type of work. Those three work streams are:
 1. Projects - These are pre-planned units of work, managed via an epic and a single DRI who collaborates with other members of Reliability.
-1. EOC Backlog - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance. [Current EOC Backlog - Q2 2021](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/milestones/93)
-1. Customer Requests - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-priovisioning system access, and assisting Support. [Current Customer Requests - Q2 2021](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/milestones/94)
+1. EOC Backlog - This is a quarterly milestone consisting of corrective actions and EOC tooling maintenance. 
+1. Customer Requests - This is a quarterly milestone of all small-scale asks which originate from teams outside of Reliability and which are not tied a Project of corrective action. Examples here include adding DNS entries, provisioning/de-priovisioning system access, and assisting Support. 
 
 
 ### How We Work -- Projects
 
 We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/XXX
 
-Epics use the following template in order to capture, current status, DRI, an overview, and any references that help a reader to build context. The epics have one DRI and that DRI is responsible for keeping the status of the project updated as frequently as necessary.
+Project epics use the following template in order to capture, current status, DRI, an overview, and any references that help a reader to build context. The epics have one DRI and that DRI is responsible for keeping the status of the project updated as frequently as necessary.
 
 Project epics have this structure:
-1. Status - Current status of the project preceeded by the ISO formatted date of the latest status update.
-1. DRI - Directly responsible individual tasked with maintaining project status.
-1. Overview - Narrative description of the project intended to provide additional context.
-1. Reference - Links out to existing artifacts which allow team members to build context.
+1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
+1. DRI - Directly responsible individual tasked with maintaining project status. This is the GitLab handle of the DRI, `@GitLabHandle`
+1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
+1. Reference - Links out to existing artifacts which allow team members to build context. These are links to documents and any dependent projects or prior art.
 
 Epic Template:
 ```markdown
@@ -119,50 +119,43 @@ Epic Template:
 
 ***
 #### Overview
-{+ Overview of the project and its goal +}
+{+ Overview of the project and its goals +}
 
 ***
 #### Reference
 1. {+ enumerated list of any reference links for a reader building context +}
 ```
 
-example project epic: https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471
+Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
+
+example project epics:
+1. https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471
 
 ### How We Work -- EOC Backlog
 
+We maintain a single backlog of corrective actions and work which the EOC on duty should fall back to when not actively engaged in incident management. We apply a quarterly milestone to issues in this backlog and use a board based on the milestone to indicate priority and where work is at within the workflow.
+
+[EOC Backlog Milestones](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?search_title=EOC+Backlog&state=&sort=)
+[EOC Backlog Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2866217)
 
 ### How We Work -- Customer Requests
 
+We maintain a single backlog of active customer requests (asks from other departments are considered customer requests). Work here will be added via a recurring triage process of issues generated from outside the team.
 
+[Customer Request Milestones](https://gitlab.com/groups/gitlab-com/gl-infra/-/milestones?search_title=customer+requests&state=&sort=)
+[Customer Requests Board](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/boards/2866210)
 
+There is also a primary backlog for Reliability board which serves as a singular point of triage for work which has been generated externally to a specific Reliability team. That board is located at [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&&label_name[]=team%3A%3AReliability).
 
-| Team | Team Label | Backlog Board | Sprint Board |
-| ------ | ------ | ------ | ------ |
-|Core Infra|`~team::Core-Infra`|[Core Infra - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688513?milestone_title=No+Milestone&&label_name[]=team%3A%3ACore-Infra)|[Core Infra - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688496?milestone_title=%23started&&label_name[]=team%3A%3ACore-Infra)|
-|Datastores|`~team::Datastores`|[Datastores - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688521?milestone_title=No+Milestone&&label_name[]=team%3A%3ADatastores)|[Datastores - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688503?milestone_title=%23started&&label_name[]=team%3A%3ADatastores)|
-|Observability|`~team::Observability`|[Observability - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1677263?milestone_title=No+Milestone&&label_name[]=team%3A%3AObservability)|[Observability - Sprint](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1677278?milestone_title=%23started&label_name[]=team%3A%3AObservability)|
+Issues in the Reliability team backlogs come from several sources:
 
-There is also a primary backlog for Reliability board which serves as a singular point of triage for work which has been generated externally to a specific Reliability team. That board is located at [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&label_name[]=team%3A%3AReliability).
+1. Issues generated by customers (teams outside Infrastructure) via one of the paths documented in the [Getting Assistance](#getting-assistance) section. These issues are automatically added to the triage backlog and are processed by Reliability managers.
+1. Issues generated as [`Corrective Actions`](/handbook/engineering/infrastructure/incident-management/#sts=Corrective%20Actions) for incidents.
+1. Issues generated as miscellaneous small tasks found in the day-to-day of an SRE/DBRE/EM
 
-Issues in team backlogs come from two sources:
+What the above all have in common is that they have two labels associated with them, `workflow-infra::Triage` and `team::Reliability`.
 
-#### Work Generated Internally by a Reliability Team
-1. The teams themselves derive ideas for work that aligns with their areas of ownership and their roadmap. An issue is created with the team's label and the `~"workflow-infra::Triage"` label, this automatically places it on the team's backlog board.
-1. The issue then takes one of several paths on the team's backlog either:
-   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
-   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
-   1. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
-
-#### Work Generated Externally to the Reliability Team
-1. Work is generated from a group outside of a specific Reliability team and an issue is created with the labels `~"team::Reliability"` and `~"workflow-infra::Triage"`. This places it on the `Reliability - Backlog` board and in a triage process for assignment to the correct subteam.
-1. Using the `Reliability - Backlog` board, the daytime IMOC reviews the board for issues in the `~"workflow-infra::Triage"` column and the issue is either:
-   1. moved to the appropriate team board by removing the `~"team::Reliability"` label and adding the appropriate team label.
-   1. closed if it is determined it won't be pulled into a sprint in the near future and the `~"workflow-infra::Triage"` label is removed.
-   1. brought to the Reliability managers sync meeting to be triaged by the group.
-1. If the issue made it to a team backlog board, it will be processed by the team and either:
-   1. prioritized and kept on the board for a future sprint and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
-   1. pulled into a sprint milestone during the team's sprint planning session and the `~"workflow-infra::Triage"` label is removed and the `~"workflow-infra::Ready"` label is added.
-   1. closed if it is determined it won't be pulled into a sprint in the near future and the  `~"workflow-infra::Triage"` label is removed.
+Issues in the [Reliability Team - Backlog](https://gitlab.com/groups/gitlab-com/gl-infra/-/boards/1688533?milestone_title=No+Milestone&label_name[]=team%3A%3AReliability&group_by=epic) are moved from `workflow-infra::Triage` to the respective milestone or gathered into a project epic and placed in the `workflow-infra::Ready` state.
 
 
 ## Getting Assistance
