@@ -98,11 +98,13 @@ As Reliability, we have three main work streams and each varies in the type of w
 
 ### How We Work -- Projects
 
-We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/XXX
+We maintain a single source of truth epic for all work underway for the Reliability team. That epic can be found at https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/509 and represents the current state of project work for the team. That epic references projects detailed in the form of pics.
 
 Project epics use the following template in order to capture, current status, DRI, an overview, and any references that help a reader to build context. The epics have one DRI and that DRI is responsible for keeping the status of the project updated as frequently as necessary.
 
-Project epics have this structure:
+Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
+
+Project epic descriptions have this structure:
 1. Status - Current status of the project preceded by the ISO formatted date (YYYY-MM-DD) of the latest status update. Example: "2021-07-20 - DRI selected and initial project sync meeting held."
 1. DRI - Directly responsible individual tasked with maintaining project status. This is the GitLab handle of the DRI, `@GitLabHandle`
 1. Overview - Narrative description of the project intended to provide additional context. This is a few paragraphs setting context for someone new to the project and wanting to learn more and contribute.
@@ -125,8 +127,6 @@ Epic Template:
 #### Reference
 1. {+ enumerated list of any reference links for a reader building context +}
 ```
-
-Project epics also are labeled with the `team::Reliability` label and either `workflow-infra::Proposal` for projects proposed and not yet begun or `workflow-infra::In Progress` for projects which are underway.
 
 example project epics:
 1. https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/471
