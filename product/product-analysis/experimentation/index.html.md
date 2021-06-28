@@ -109,7 +109,9 @@ Here are a few pages to check out:
 <details markdown="1">
   <summary markdown="span">Click to view useful terms</summary>
 
-Here are some useful terms used in the context of experimentation:
+Here are some useful terms used in the context of experimentation. In addition to the definitions 
+below, Khan Academy provides [excellent videos](https://www.khanacademy.org/math/ap-statistics/tests-significance-ap) 
+explaining these terms and concepts.
 
 * **Null hypothesis (H<sub>0</sub>):** The default hypothesis that there is no relationship 
 between variables.
@@ -122,7 +124,8 @@ relationship between variables, the opposite of the null hypothesis.
 sometimes called the significance level.
   * The industry standard is α = 0.05, which is the value we use for true RCTs but not necessarily 
   for pseudo-RCTs.
-  * This value is set _before_ an experiment starts.
+  * This value is set _before_ an experiment starts to prevent bias from sneaking into the 
+  interpretation of results.
 * **p-value:** The probability that the observed results are due to random chance, _assuming 
 the null hypothesis is true_.
   * Ex: p=0.03 means that there is a 3% chance that the results you are seeing are due to chance.
