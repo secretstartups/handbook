@@ -33,7 +33,7 @@ Linkedin Profile:
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@kayokocooper` <br>
-Location: 
+Location:  Duluth, GA, USA
 Linkedin Profile:
 
 **Lis Vinueza - Senior Business Systems Analyst**  
@@ -47,6 +47,11 @@ GitLab handle: [@mquitevis](https://gitlab.com/mquitevis)
 Slack handle: `@Mark Quitevis`   
 Location: Philadelphia, PA, USA   
 Linkedin Profile:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/3oXjv5Fsg84" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 
 ## What Do We Do?
 Being business process first, we develop requirements, use cases, and process flows to implement systems, enhance them or deliver bug fixes.
