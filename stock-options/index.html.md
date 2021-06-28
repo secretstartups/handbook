@@ -1,6 +1,8 @@
 ---
 layout: handbook-page-toc
 title: "Stock Options"
+description: "At GitLab we strongly believe in employee ownership in our Company. We are in business
+to create value for our shareholders and we want our employees to benefit from that shared success."
 ---
  
 ## On this page
@@ -79,7 +81,7 @@ Note: All stock option grants are subject to approval by the Board of Directors 
 New hire grants use the formula above multiplied by a New Hire Multiplier.
 The New Hire Multiplier is typically 2, but may vary.
 
-New Hire Grants are [approved](handbook/stock-options/#administration) during the quarterly [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule). 
+New Hire Grants are [approved](/handbook/stock-options/#administration) during the quarterly [board meeting](https://about.gitlab.com/handbook/board-meetings/#board-meeting-schedule). 
 
 If you have any questions on what grant should be offered to a new hire, please reach out to the Total Rewards team by email at `total-rewards@gitlab.com`.
  
