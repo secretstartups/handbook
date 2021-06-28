@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Accounts Payable"
+decription: "This page contains GitLab's Accounts Payable department policies, procedures and guidelines."
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -81,7 +82,7 @@ Tipalti is an invoice processing and payment system that GitLab has been using s
 
 Invoices for Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore entities can be sent to *ap@gitlab.com* and/or *gitlab@supplierinvoices.com*. Vendors can also upload their invoices directly to Tipalti through their supplier portal. 
 
-> Please visit [the Procure to Pay page](handbook/finance/accounting/#procure-to-pay) for a detailed outline of vendor onboarding and invoice processing in each system.
+> Please visit [the Procure to Pay page](/handbook/finance/accounting/#procure-to-pay) for a detailed outline of vendor onboarding and invoice processing in each system.
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Invoice Payments 
@@ -97,7 +98,7 @@ Invoices for Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore entities can b
 - Payments are set up each Thursday and the money is released to vendors the following Monday. It may take a few days for transfers to reach vendors depending on their location and the bank they use. 
   - In order for an invoice to be included on the Thursday payment run, it must have been received and fully approved by the Tuesday. **For example**, if we are doing a payment batch on Thursday June 3rd, the invoice would have to be approved by end of day on Tuesday, June 1 in order to be included. 
 
-> Further details on this process can be found at [the Procure to Pay page](handbook/finance/accounting/#procure-to-pay)
+> Further details on this process can be found at [the Procure to Pay page](/handbook/finance/accounting/#procure-to-pay)
 
 
 ## <i class="fas fa-receipt" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Expenses
