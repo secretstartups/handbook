@@ -700,6 +700,7 @@ To send a digital copy of an Order Form to the customer via DocuSign:
   - Needs to View
 8. Use one of two recommended methods of adding a Recipient:
 - “From Salesforce” - Simply type in the name of a contact in Salesforce. Click Select.
+  - Note: If a contact on the related SFDC opportunity has the "DocuSign Signer" contact role selected, that contact will automatically display as the signer upon arriving to this step.
 - “By Name & Email” - Enter Full name and email address. Click Select.
   - Note: When using this option to add a signer, **leave “Role” blank.**	
 9. To add a second signer, add a **second recipient.** Ensure the second signer is marked as “Signer 2.” 
