@@ -6,7 +6,7 @@ title: "Revenue Programs Manager"
 The Revenue Programs Manager is responsible for developing and executing effective pipeline tactics and strategies to drive growth within our sales organization.
 
 ## Responsibilities
-* Serve as a trusted advisor and business partner to Sales leaders to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
+* Identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 * Work cross-functionally (with Portfolio Marketing, Demand Gen, Revenue Marketing, Field Enablement, Sales Strategy, and more) to orchestrate the development, execution, and operationalization of scalable and measurable quarterly sales programs that deliver results
 * Own quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs
 * Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps
@@ -17,12 +17,10 @@ The Revenue Programs Manager is responsible for developing and executing effecti
 * Experience managing or designing sales programs, campaigns, and go-to-market strategies
 * Proven ability to design and operationalize prescriptive sales programs and strategies
 * Ability to work collaboratively with Sales & Marketing teams and effectively develop relationships with stakeholders at all levels of the organization to remove impediments that block the team’s ability to meet project objectives
-* Exceptional communication and presentation skills (including with senior management stakeholders)
+* Exceptional communication and presentation skills
 * Proven track record of cross-stakeholder program management and execution with operational rigor
-* Ability to move fluidly from big picture to details
 * Skills to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
 * Strong analytical skills
-* Over achievement in a quota-carrying sales role strongly preferred
 * Bachelor or University Degree, or relevant work experiences
 
 ## Levels
