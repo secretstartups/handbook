@@ -429,7 +429,7 @@ First select all current storage locations. Copy the value under `property_value
 DESC INTEGRATION GCS_INTEGRATION;
 ```
 
-Past the value in the query below, over `<<<<_past_here_>>>>` + the value of the new bucket location. Values needs to be separated by a `,`.
+Paste the value in the query below, over `<<<<_paste_here_>>>>` + the value of the new bucket location. Values needs to be separated by a `,`.
 ```sql
 ALTER INTEGRATION GCS_INTEGRATION 
 SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_past_here_>>>>')
