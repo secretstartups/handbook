@@ -13,7 +13,7 @@ This page outlines the process of DIB Roundtables. These can be self-organised o
 
 ## Starting a roundtable
 
-### Self-organised: 
+### Self-organized: 
 
 First, identify a group of team members who would like to participate. This can be done via slack, with your direct team or other avenues. 
 
@@ -28,7 +28,7 @@ First, identify a group of team members who would like to participate. This can 
 - Ensure that everyone, including yourself gets an opportunity to contribute 
 - Share your screen where necessary i.e. privilege for sale task
 
-### Diversity, Inclusion & Belonging Team Organised (Self Facilitated): 
+### Diversity, Inclusion & Belonging Team Organized (Self Facilitated): 
 
 The DIB Team will organise DIB Roundtables on the first week of each month for those team members who have expressed interest on the relevant monthly thread on this [epic](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/13)
 
@@ -41,7 +41,7 @@ If you volunteer or are elected to be the facilitator your role is to:
 - Ensure that everyone, including yourself gets an opportunity to contribute 
 - Share your screen where necessary i.e. privilege for sale task
 
-### Manager Organised: 
+### Manager Organized: 
 
 A manager can request the DIB Team organise a DIB Roundtable for their team. They will help facilitate the roundtable and will organise other activities specific to the needs of the team. 
 
