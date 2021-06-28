@@ -119,18 +119,6 @@ The Campaigns Team is aligned to sales segments with a geo breakout. Our number 
   - Organize execution schedule, timeline, and DRIs for tactics aligned to top-funnel commercial campaign plans, including email nurture, virtual events, digital ads, etc. aimed primarily at driving Inquiries + MQLs (with consideration of SAO attribution)
 - Support email marketing initiatives with the Campaign Manager focused on email marketing
 
-**Nout Boctor-Smith** _Sr. Marketing Campaign Manager_
-
--  **Lifecycle email marketing strategy**
-  - Continuous Email Communicaiton: establish automated strategic email nutures in Marketo to 
-  - Bi-weekly Newsletter: collaboration with Content Marketing and other teams
-  - Ad hoc email requests: determine how ideas/requests fit into overall lifecycle email strategy
-- **FY21 Q3 OKRs**
-  - [CMO Q3'FY21 Objective: Segment our database](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1331)
-  - [CMO Q3 FY21 KR Establish Continuous Email Communications (Dunk)](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1486)
-  - [CMO Q3 FY21 KR - Email Nurture PLAN for Free .com Users (Dunk)](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1512)
-- Collaborate with Commercial (Mid-Market and Small) Campaign Managers on segment strategy
-
 **Eirini Panagiotopoulou** _Sr. Marketing Campaign Manager_
 
 - **Top-funnel campaigns for Large Segment, *EMEA***
@@ -175,7 +163,6 @@ Most of our team meetings are recorded and can be found [here](https://drive.goo
 
 - Bi-weekly Tuesdays - Campaign Team Connect Call (campaigns)
 - Bi-weekly Wednesdays - Demand Generation Team Call (campaigns, digital, partner)
-- Thursdays - "No work talk" demand gen team hangout (campaigns, digital, partner)
 - Thursdays - Marketing strategy & tactics call (all marketing)
 
 ### The Handbook
@@ -198,14 +185,14 @@ Is our single source of truth (SSoT) for processes and relevant links
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. [Campaigns Team - Prioritization](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2532209?&label_name[]=mktg-demandgen)
-   - Do: at start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
-   - Do: consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
-   - Do: only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
+   - At start of milestone, ensure that issues are in the proper category of prioritization. Align them to the [priority definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).
+   - Consider the time you have available in a 2 week period, recognizing meeting commitments and planned PTO.
+   - Only add issues to account for 70% of your available work hours. Don't max out at 100% since there will likely be things that arise and need immediate attention throughout milestone.
    - *Ask yourself: considering realistic time this milestone, am I overcommitting? The first to drop from a milestone should be "Low" priority issues based on [definitions](/handbook/marketing/demand-generation/campaigns/#prioritization-labels).*
    - Discuss milestone with Jackie and if need help determining what to drop and how to communicate (potentially) to issue requestors.
 1. [Campaigns Team - Current Milestone](https://gitlab.com/groups/gitlab-com/marketing/demand-generation/-/boards/2574635?milestone_title=%23started&)
-   - Do: minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
-   - Do: prioritize completion of "Top" priority issues, then "High" priority issues.
+   - Minimize the "Low" and "Medium" columns. Your focus should first be on the "Top" and "High" priority issues.
+   - Prioritize completion of "Top" priority issues, then "High" priority issues.
 
 ### Labels
 {: #labels}
@@ -307,6 +294,7 @@ The following issue templates are used by the campaigns team to organize their w
 - [campaigns-mural](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-mural)
 - [campaigns-pathfactory-track](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pathfactory-track)
 - [campaigns-pf-buyer-journey](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-pf-buyer-journey)
+- [campaigns-post-webcast](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-post-webcast)
 - [campaigns-program-tracking](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-program-tracking)
 - [campaigns-sdr-enablement](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-sdr-enablement)
 - [campaigns-webcast-dryrun-host](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=campaigns-webcast-dryrun-host)
@@ -321,7 +309,7 @@ The following issue templates are used by the campaigns team to organize their w
 The following issue templates are used by the campaigns team to organize their work, with appropriate labels applied for project management.
 
 - `/assign @` - issues should have only DRI based on who will complete the work in the issue. If work needs to be completed by multiple people, consider breaking into separate issues with clear deliverables and due dates. (example: `/assign @jgragnola`)
-- `/due 2020-` - add due date based on workback schedules (example: `/due 2020-07-13` or `/due tomorrow` or `/due 07/13/2020`)
+- `/due 2021-` - add due date based on workback schedules (example: `/due 2020-07-13` or `/due tomorrow` or `/due 07/13/2020`)
 - `/milestone %` - add milestone based on the due date of the issue (example: `/milestone %"Mktg: ` )
 - `/weight ` - add weight between 1-5, with 1 being easiest (between 1-4 hours of time) and 5 being most complext (a full week of work). The majority of issues should fall into 1-2. If estimation is weight of 3+, break into separate issues for more manageable pieces to fit into milestones. (example: `/weight 1`)
 - `/epic ` - add epic of the overarching campaign or project to keep things organized. In almost all cases, there is a larger initiative that the issue relates to, so it is best practice to associate issues to the most relevant epic for visibility. (example: `/epic [https://gitlab.com/groups/gitlab-com/marketing/-/epics/370](https://gitlab.com/groups/gitlab-com/marketing/-/epics/370)`)
@@ -348,12 +336,6 @@ Team manager completes daily review of [issues in triage](https://gitlab.com/gro
 * Does the request align to FY21-22 segment marketing plan?
  - if no, consider realistic timeline given priorities (and share with requester in comments, set up time to discuss if needed)
 
-#### Project management automation
-{: #project-management-automation}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-To be built out
-
 #### Shortcut issue comments for project management
 {: #shortcut-comments}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -378,20 +360,22 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - Note: Use of milestones was introduced to the campaigns team as of 2020-07-21.
 - If issues in a milestone are not closed out by end of milestone, they are pulled to the next milestone. We will document **total issues** and **total weight** moved, to understand relative commitment levels and avoid overcommitment as we begin using milestones.
 
-**Q3 FY21 Marketing Milestones:**
+**FY22 Marketing Milestones:**
 
-- [Mktg: 2021-02-14](https://gitlab.com/groups/gitlab-com/-/milestones/238)
-- [Mktg: 2021-02-28](https://gitlab.com/groups/gitlab-com/-/milestones/239)
-- [Mktg: 2021-03-14](https://gitlab.com/groups/gitlab-com/-/milestones/397)
-- [Mktg: 2021-03-28](https://gitlab.com/groups/gitlab-com/-/milestones/398)
-- [Mktg: 2021-04-11](https://gitlab.com/groups/gitlab-com/-/milestones/399)
-- [Mktg: 2021-04-25](https://gitlab.com/groups/gitlab-com/-/milestones/400)
+
 - [Mktg: 2021-05-09](https://gitlab.com/groups/gitlab-com/-/milestones/401)
 - [Mktg: 2021-05-23](https://gitlab.com/groups/gitlab-com/-/milestones/402)
 - [Mktg: 2021-06-06](https://gitlab.com/groups/gitlab-com/-/milestones/403)
 - [Mktg: 2021-06-20](https://gitlab.com/groups/gitlab-com/-/milestones/404)
 - [Mktg: 2021-07-04](https://gitlab.com/groups/gitlab-com/-/milestones/406)
 - [Mktg: 2021-07-18](https://gitlab.com/groups/gitlab-com/-/milestones/405)
+- [Mktg: 2021-08-01](https://gitlab.com/groups/gitlab-com/-/milestones/516)
+- [Mktg: 2021-08-15](https://gitlab.com/groups/gitlab-com/-/milestones/517)
+- [Mktg: 2021-08-29](https://gitlab.com/groups/gitlab-com/-/milestones/518)
+- [Mktg: 2021-09-12](https://gitlab.com/groups/gitlab-com/-/milestones/519)
+- [Mktg: 2021-09-26](https://gitlab.com/groups/gitlab-com/-/milestones/520)
+- [Mktg: 2021-10-10](https://gitlab.com/groups/gitlab-com/-/milestones/521)
+- [Mktg: 2021-10-24](https://gitlab.com/groups/gitlab-com/-/milestones/522)
 
 **Campaigns Team Backlog Milestones:**
 
@@ -420,7 +404,6 @@ The campaigns team uses the overall 2-week marketing milestones (format of [Mktg
 - [Indre Kryzeviciene](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=ikryzeviciene)
 - [Jackie Gragnola](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jgragnola)
 - [Jenny Tiemann](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=jennyt)
-- [Nout Boctor-Smith](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=nbsmith)
 - [Zac Badgley](https://gitlab.com/groups/gitlab-com/-/boards/1884920?scope=all&utf8=%E2%9C%93&state=opened&assignee_username=zbadgley)
 
 **All Team Members by Milestone (Current Quarter)**
