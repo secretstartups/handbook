@@ -179,4 +179,6 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     1. **Customers Returning More than 180  Days After Subscription Term End Date:** Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
     1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
     1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
-</details>
+
+
+ </details>
