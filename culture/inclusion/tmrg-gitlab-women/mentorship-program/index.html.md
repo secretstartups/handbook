@@ -33,7 +33,9 @@ Async resources will be provided as a training guide for all mentor/mentee pairs
 
 **Mentor/Mentee Training**
 
-The program will include 1 live, 50 minute training session (the option to watch the recording will be available for those who cannot attend) to review best practices for both mentors and mentees. It's important that participants make every effort to attend this session to ensure the greatest results from the program and relationship.
+Completion of the self-paced [How to be a Good Mentor or Mentee](How to be a Good Mentee and Mentor course on LinkedIn Learning ) course on LinkedIn Learning is expected of all mentors and mentees. Depending on need and interest, we will host optional discussion sessions for mentors and mentees to discuss topics learned in the course. If you prefer to review text-based information, you can instead review [this slides](LINK) which were created using the content from the LinkedIn course. It's important that participants make every effort to complete the course and/or review the presentation slides to ensure the greatest results from the program and relationship.
+
+_This requirement was updated on 2021-06-28 with the following goals in mind: increase async participation, enable different learning styles, leverage high-quality content in LinkedIn Learning_
 
 **Mid-Program Panel AMA**
 
@@ -54,10 +56,10 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | 2021-05-05 | Discuss program details with Women's TMRG group meeting | [Planning Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/122) |
 | 2021-05-20 - 2021-06-07 | Call for Mentors | Application below |
 | 2021-06-07 - 2021-06-23 | Call for Mentees | Application below |
-| 2021-06-18 | Pairing of mentor relationships complete and communicated to applicants |
-| Between 2021-06-18 and 2021-07-01 | Optional: Mentor/Mentee pre-program coffee chats | |
-| Between 2021-07-01 and 2021-07-07 | Initial program Kickoff meeting | Date TBD |
-| Week of 2021-07-12 | Training for Mentors and Mentees | Date and Resources TBD |
+| 2021-06-29 | Pairing of mentor relationships complete and communicated to applicants | |
+| Between 2021-06-29 and 2021-07-07 | Optional: Mentor/Mentee pre-program coffee chats | |
+| 2021-07-07 and 2021-07-08 | Initial program Kickoff meeting | |
+| Week of 2021-07-12 | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) |
 | Week of 2021-08-16 | Mid program AMA | Date TBD |
 | Week of 2021-09-20 | End of program celebration | Date TBD |
 
