@@ -276,3 +276,8 @@ If multiple tags are added to the description, please enter the additional tag o
 While tags are not visible on the Greenhouse posting, they will appear when viewed on LinkedIn. So, please, be mindful of how many tags are added to any one particular requisition.
 
 Once the LinkedIn coding is complete, the CES will make the external job post live.
+
+### Publishing Vacancies on External Job Boards
+
+Sometimes we need to post vacancies on specialist job boards to attract talent. The buget for this will come from the Department with the open vacancy and department leaders will need to approve the neccessary budget.   
+
