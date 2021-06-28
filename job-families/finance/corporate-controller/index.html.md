@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Corporate Controller"
+description: "The Corporate Controller job family leads the accounting and financial reporting activities and is responsible for the leadership, development and execution of the company’s corporate accounting function."
 ---
 
 The Corporate Controller job family leads the accounting and financial reporting activities and is responsible for the leadership, development and execution of the company’s corporate accounting function. Reporting to the Principal Accounting Officer, the Corporate Controller enhances financial controls, processes and oversees compliance with our policies and procedures. These functions and processes produce timely and accurate monthly financial results in compliance with US GAAP and SEC reporting requirements. The Controller is also responsible for capturing, defining and ensuring accuracy of non-gaap financial metrics. The Controller works closely with our external and internal auditors, and other members of the organization to complete our monthly and quarterly reporting on a timely basis. This role instills a culture of strong internal controls across the company and is responsible for compliance with our technical accounting standards, GL and sub-modules for efficient operations and global revenue.
@@ -171,10 +172,10 @@ The Vice President, Corporate Controller is a [12](/handbook/total-rewards/compe
 - Ability to use GitLab.
 
 #### Vice President, Corporate Controller Performance Indicators
-- [Average days to close](handbook/finance/accounting/#average-days-to-close-kpi-definition)
-- [Number of material audit adjustments](handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
-- [New hire location factor](handbook/hiring/metrics/#new-hire-location-factor)
-- [Percentage of ineffective SOX Controls](handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [Average days to close](/handbook/finance/accounting/#average-days-to-close-kpi-definition)
+- [Number of material audit adjustments](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
+- [New hire location factor](/handbook/hiring/metrics/#new-hire-location-factor)
+- [Percentage of ineffective SOX Controls](/handbook/internal-audit/#performance-measures-for-accounting-related-to-audit)
 
 ## Career Ladder
 The next step in the Corporate Controller job family is to move to a senior leader or executive leadership job family which would be the PAO role or similar.
@@ -189,5 +190,5 @@ Candidates for this position can expect the hiring process to follow the order b
 - Meet with VP of Finance for 50 minutes 
 - Meet with CFO for 50 minutes 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
