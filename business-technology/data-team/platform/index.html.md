@@ -422,7 +422,7 @@ In order to keep Snowflake up and running, we perform administrative work.
 
 #### Create Storage location
 
-In order to load data via Snowpipe into the data warehouse, data is read of out a storage bucket. For this a `storage location` needs to be set and a `stage` be created in Snowflake. 
+In order to load data into the data warehouse, data is usually read out of a storage bucket. To load from a bucket, that bucket must be added as part of an allow list in Snowflake and a `stage` must be created. 
 
 First select all current storage locations. Copy the value under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`
 ```sql
