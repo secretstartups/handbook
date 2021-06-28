@@ -26,7 +26,7 @@ With the new partner program changes that went into effect on May 3, 2021, the C
  - Colleen Farris - Director, Channel Operations
  - Emily Murphy  - Manager, Alliance Operations
  - Kim Stagg - Manager, Channel Operations
- - Niles Jamshaid - Manager, Sales Operations
+ - Niles Jamshaid - Manager, Channel Operations
  - Dennis Zeissner - Associate Partner Operations Analyst
  
 ### How to Contact Us
