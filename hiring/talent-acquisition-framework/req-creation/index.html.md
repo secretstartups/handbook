@@ -279,5 +279,5 @@ Once the LinkedIn coding is complete, the CES will make the external job post li
 
 ### Publishing Vacancies on External Job Boards
 
-Sometimes we need to post vacancies on specialist job boards to attract talent. The buget for this will come from the Department with the open vacancy and department leaders will need to approve the neccessary budget.   
+Sometimes we need to post vacancies on specialist job boards to attract talent. The budget for this will come from the Department with the open vacancy, and department leaders will need to approve the neccessary budget.   
 
