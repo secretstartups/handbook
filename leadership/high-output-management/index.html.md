@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: High Output Management
+decsription: "On this page, we will cover some of the key topics covered in the book High Output Management and what they mean for people leaders."
 ---
 
 ## On this page
@@ -40,7 +41,7 @@ Team members can [expense](/handbook/finance/expenses/) the book if they choose 
 The central thesis is that a manager’s objective is to increase the output of the work of those on their team. At GitLab, managers are expected to lead their teams to achieve [results](/handbook/values/#results). Therefore, a manager should choose high-leverage activities that have a multiplicative impact on the overall output of the team. GitLab moves fast. There are meetings, issues and MRs to review, 1-1s, informal communication, and much more. One way for a manager to be successful is by providing a clear direction to a team by applying a small amount of the time that yields a tremendous value in terms of the output of the team. 
 
 For example, managers at GitLab can: 
-1. [Delegate](handbook/leadership/effective-delegation/) tasks through [Issue boards](https://docs.gitlab.com/ee/user/project/issue_board.html#:~:text=The%20GitLab%20Issue%20Board%20is,Kanban%20or%20a%20Scrum%20board.&text=Issue%20boards%20help%20you%20to,your%20entire%20process%20in%20GitLab). Issue boards can serve as a project management tool to plan, organize, and visualize a workflow for a team. 
+1. [Delegate](/handbook/leadership/effective-delegation/) tasks through [Issue boards](https://docs.gitlab.com/ee/user/project/issue_board.html#:~:text=The%20GitLab%20Issue%20Board%20is,Kanban%20or%20a%20Scrum%20board.&text=Issue%20boards%20help%20you%20to,your%20entire%20process%20in%20GitLab). Issue boards can serve as a project management tool to plan, organize, and visualize a workflow for a team. 
 
 2. [Decline Meetings in Favor of Async](/company/culture/all-remote/asynchronous/#how-to-decline-meetings-in-favor-of-async/). Meetings are useful for building rapport and moving projects forward. Managers can be role models of our [bias towards asynchronous communication](/handbook/values/#bias-towards-asynchronous-communication) by declining meetings in favor of async. They can also be role models by only [scheduling meetings](/handbook/communication/#scheduling-meetings/) where it is necessary to review a [concrete proposal](/handbook/values/#make-a-proposal) or to move forward a series of asynchronous discussion points. 
 
