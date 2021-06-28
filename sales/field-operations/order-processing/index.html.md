@@ -947,12 +947,12 @@ Quoting:
 Requirements to Close Deal:
 
 1. A Private Offer must have been created within the AWS Private Offer Portal, accepted by the customer, and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
-1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Pete Goldberg to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. Transaction evidence must include the name of the end customer, the name of the customer contact, the product purchased (including quantity), the price, the start date, and the term length.
+1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Pete Goldberg to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
 1. Deal Desk will confirm the purchase with Pete Goldberg before booking.
 
 Closing the Deal:
 
-1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity to match the transaction date, as reflected in the Transaction Detail spreadsheet attached to the opportunity. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
+1. At the time of deal closure, Deal Desk will adjust the Start Date on the Quote and Opportunity as per the Bookings Policy applicable to new subscriptions. **Deal Desk will also update your price to reflect the margin taken by AWS. This WILL reduce final Net ARR. More information regarding this margin can be found [here](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9).**
 1. Note that the AWS account is permanently set to silent, and no invoices created will go to AWS.
 1. **License keys will NOT be sent automatically upon deal Closure.** Instead, a [Customer Support Issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=License%20Issue) must be opened to ensure the license for the deal is delivered to the appropriate contact.
 1. Billing will create the invoice in Zuora and apply cash once received.
