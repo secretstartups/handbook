@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Account Planning"
+description: "Account planning helps the SAL and the larger account ream elevate opportunity-driven conversations into value-based conversations that focus on the customer's value drivers."
 ---
 
 ## On this page
@@ -40,7 +41,7 @@ There are two types of Account Plans, one for Land and one for Expand. The Land 
 
 ### Land Account Plans 
 
-Choose the "Land Account Plan" template in Gainsight. The team will not have as much information for this type of plan, but [Demandbase](handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#demandbase-abm-analytics) has a wealth of information to help the team strategically approach the prospect. 
+Choose the "Land Account Plan" template in Gainsight. The team will not have as much information for this type of plan, but [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#demandbase-abm-analytics) has a wealth of information to help the team strategically approach the prospect. 
 
 ### Expand Account plans 
 
