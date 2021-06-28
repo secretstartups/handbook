@@ -38,7 +38,7 @@ If a paid user (part of paid group or paid user namespace) is unable to remove 2
 
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
-1. Owner vouch is required.
+1. [Owner vouch](#authenticating-an-owner) is required. 
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.  
@@ -255,3 +255,15 @@ If no Self-service options are viable, follow the steps below:
 1. Once we received the necessary document, double check all the requested information is included. If not, let them know what's missing. If all required elements are present, follow the next step.
 1. Create a new issue in [the Legal tracker](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/) requesting approval to add or upgrade the permissions of the requesting user. Note the issue in an internal comment on the ticket, then reply to the requestor using [`Legal::General` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) and set the ticket to "On-Hold". If you don't receive a reply after the On-Hold ticket reverts to open (4 days), ping in `#legal`.
 1. After receiving approval: add or elevate the requested user to Owner role.
+
+## **Authenticating an Owner**
+
+In a paid namespace: If the user elects to have an Owner vouch for their request, apply the macro `Support::SaaS::2FA::2FA ask owner vouch`. This will direct the requestor to have an Owner create a private Snippet with a Support-provided string. Once they have replied verifying they have done so:
+
+1. Verify that the Owner's email address matches the primary address of an Owner in the namespace.
+1. Use your Admin or Auditor account to browse to the Snippet provided (e.g. `https://gitlab.com/-/snippets/2057341`)
+   - Verify the visibility is Private
+   - Verify the text of the Snippet matches the string you specified
+   - Verify that the author of the Snippet is an Owner in the paid namespace
+1. If the Owner passes, you may count this towards the account verification challenges.
+
