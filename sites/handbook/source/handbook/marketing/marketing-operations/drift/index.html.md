@@ -87,7 +87,7 @@ The account lists and playbook routing rules that govern how most Drift conversa
 
 ## Have a question or request? 
 Would you like to learn more about Drift? Are you interested in adding a Drift playbook to a new or existing webpage? Have you noticed a potential Drift problem you would like investigated? 
-* The best place to start is to open an issue. If you're an SDR manager requesting a change to conversation routing because of a team member update, please open use the lead routing change request [template](/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). Otherwise, please open an issue in the Marketing Operations project stating the reason for the issue, providing relevant details about the request and using the following labels:
+* The best place to start is to open an issue. If you're an SDR manager requesting a change to conversation routing because of a team member update, please open use the lead routing change request [template](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=leandata_change_sdralignment). Otherwise, please open an issue in the Marketing Operations project stating the reason for the issue, providing relevant details about the request and using the following labels:
     * `MktgOps::0 - To Be Triaged`: Starting point for any label that involves Marketing Operations
     * `Drift`: Used if directly related to the Drift chat platform
     * `SDR`: Used if your request is from or involves the SDR organization
