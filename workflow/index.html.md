@@ -568,7 +568,7 @@ The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For
 - Q1: [Sam Goldstein](https://about.gitlab.com/company/team/#sgoldstein)
 - Q2: [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
 - Q3: [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
-- Q4: [Mike Long](https://about.gitlab.com/company/team/#mikelong)
+- Q4: [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)
 
 ## Milestone Cleanup
 
