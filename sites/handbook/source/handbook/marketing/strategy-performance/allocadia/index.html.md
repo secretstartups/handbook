@@ -36,13 +36,11 @@ Similar to prior year, if we do not use the full envelope provided to Marketing 
 - [Switching between activity plans](https://support.allocadia.com/hc/en-us/articles/115004969207-Switching-Between-Activity-Plans)
 - [Budget Reallocations (transfers)](https://support.allocadia.com/hc/en-us/articles/360060630433-What-are-Budget-Reallocations-##)
 
-![Screen_Shot_2021-04-28_at_9.05.55_AM](/uploads/9da4c8d5c3cb02e06734cd60007ad500/Screen_Shot_2021-04-28_at_9.05.55_AM.png)
-
 ## Home
 
 This section houses the main grid. This section is more for the Allocadia admin, although all budget holders will make use of it for mapping expenses to their line items as the Netsuite uploads are done monthly.
 
-Also in this section, you can see where teams are from a forecast to plan standpoint by clicking into the `view-roll up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) in GitLab Unfiltered. 
+Also in this section, you can see where teams are from a forecast to plan standpoint by clicking into the `view-roll up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) in GitLab Unfiltered.
 
 ## Activities
 
@@ -62,11 +60,9 @@ You will notice that there are metrics at the top left of each `View` that provi
 
 #### Buttons
 
-![Screen_Shot_2021-04-28_at_9.08.01_AM](/uploads/5eef5fff2f90a32d3d147c2a8ca25f31/Screen_Shot_2021-04-28_at_9.08.01_AM.png)
-
 ##### Category and Sub-Category
 
-In the grid below, these are the items that show up in the Hierarchy column. You may organize these however is best for you to run your business. 
+In the grid below, these are the items that show up in the Hierarchy column. You may organize these however is best for you to run your business.
 
 The same categories (and line items) show up in this grid regardless of whether you are entering your bottoms up `Plan` for the quarter/year or if you are entering your `Forecast` as your expenses solidify throughout the quarter.
 
@@ -89,21 +85,24 @@ This button allows you to delete the line item or category that you mistakenly a
 This button can be used to request funds from another department. Specific approvers have been set up in Allocadia to be notified by email and can approve or deny the transfer. See more details in the Budget Reallocation link above. Note that on the Home page, the `transfer` will show in red until it has been resolved.
 
 ##### Within the grid
+
 - Hierarchy - this is where categories, subcategories and the line items are organized.
 - Vendor - this needs to be the name of the Vendor for the expense so that it will match with our eventual PO system coming in FY22. We have also added this to the Details Panel (and may remove from the main grid based on input)
-For common vendors, its important to note that you must use the same upper and lower case terminology, as well as spacing to conform to a standard naming convention if you're trying to have the line items pull under the same vendor in any vendor report. A best practice is to visit the vendor's website and use their exact naming convention. Examples of common vendors we use and how they should be written out for reporting:
+For common vendors, it's important to note that you must use the same upper and lower case terminology, as well as spacing to conform to a standard naming convention if you're trying to have the line items pull under the same vendor in any vendor report. A best practice is to visit the vendor's website and use their exact naming convention. Examples of common vendors we use and how they should be written out for reporting:
+
 1. Demandbase
 1. SimplyDIRECT
 1. Tenandone
 As we move to Coupa, that integration will allow us to use their list of standardized vendor names for ones that already exist in the system which should make this easier.
 
 We have just moved the Vendor to the Details panel - for now it shows up in both and can be updated in either place - but we are considering taking it off the main grid if there are no objections.
+
 - Comments - this can be used for any notes about the spend, but it is not reportable, sortable, nor does the budget holder (or anyone for that matter) receive a notification that a comment had been made.
 - Months - this is where you enter the dollar amounts by month. You can use the cut and paste feature and tab between months for ease of entry. You can also enter formulas, such as 12000/12 if you have an annual $12K cost that you want calculating the $1K per month. Depending on the `View`, there are columns for your bottoms up `Plan` and your ongoing 'Forecast'. And then monthly as we load in `Actuals` from Netsuite, those amounts will show in those columns.
 
 ##### Details panel
 
-You access the `Details Panel` from the book like icon to the right of the line item name in the hierarchy column. If the book is red, it means that there are missing required details. It turns black once these are completed. The workflow that we've set up in the system once you add a line item should help us capture all the required fields. 
+You access the `Details Panel` from the book like icon to the right of the line item name in the hierarchy column. If the book is red, it means that there are missing required details. It turns black once these are completed. The workflow that we've set up in the system once you add a line item should help us capture all the required fields.
 
 Any line items within a category or subcategory default inherit the details from the parent (category/subcategory) AND can also be overwritten at any child line item as needed. Therefore, it makes the most sense to fill out the details panel at the highest category level and then adjust any individual line items that differ.
 
@@ -142,12 +141,12 @@ _GitLab Internal Calendars_
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
 
-* **Groups who have calendar creation access**
+- **Groups who have calendar creation access**
 
 - Field Marketing
 - Brand Activation
 
-* **How the calendar process is mapped**
+- **How the calendar process is mapped**
 
 - You may ONLY create a calendar invite at the `line item` level. Meaning you CANNOT create a calendar invite at the `Category` OR `Sub-category` level.
 - Based on the inputs from the details panel, the logic is built as follows:
@@ -174,17 +173,17 @@ Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you h
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
-We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic. 
+We have loaded the past two fiscal years worth of influenced conversion data from campaigns run by field marketing for both the MQL>SAO conversion rates as well as SAO>Closed Won data. We have loaded two FY worth of data to get to these conversion rates given how different our campaigns types were in FY21 due to the pandemic.
 
-If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs. 
+If a region did not have a conversion rate for the campaign type (likely because the region did not run that campaign), then the global conversion rate was used. Also, because our MQLs can "skip" MQL status (meaning an SDR can work a lead BEFORE its actually hit our MQL scoring threshold), we used the `MQL Inferred Date` field to assume MQLs.
 
-Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration. 
+Live MQL>SAO regional data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400216&udv=991807) and live SAO>Won data [can be found here](https://app.periscopedata.com/app/gitlab/628217/WIP:-Field-Marketing-Metrics-Deprecated?widget=11400418&udv=991807). These charts will be added to the FMM Dashboard in a future iteration.
 
-The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfull that deal size. 
+The average deal size by campaign by region can be found [here](https://app.periscopedata.com/app/gitlab/823916/Field-Marketing-Metrics?widget=11036333&udv=1250443) (you'll have to refer back to dashboard to change the region if you want to see a specific regions data) are also loaded for calculation purposes. If there were less than 3 closed deals then we did NOT use that deal size information, but relied on the ASP from the TOPO model to fulfill that deal size.
 
-A calculation is then done by then taking into account the MQLs, region, segment data and campaign type that has been given at the line item level in the details panel. 
+A calculation is then done by then taking into account the MQLs, region, segment data and campaign type that has been given at the line item level in the details panel.
 
-[Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))   
+[Video walk through](https://youtu.be/bBLiwdpd5iY) (and yes, you know you need to be logged into Unfiltered to see! ;))
 
 ##### Strategy Tab
 
@@ -196,7 +195,7 @@ Most reporting is done within the Insights tab within Allocadia. Reports are bui
 
 The reports in Allocadia make use of GoodData. The first time you attempt to access reports, you will be prompted to sign in to GoodData. Also, if you are using Safari as your browser, take note of the following:
 
-**Safari for OS X – Disable Blocking of Third Party Cookies** 
+**Safari for OS X – Disable Blocking of Third Party Cookies**
 Safari has moved away from their "Block Cookies" section. In order to make it work with the current version of Safari, you must have both "Prevent cross-site tracking" and "Block all cookies" checkboxes unchecked.
 
 ### Dashboards
@@ -208,24 +207,26 @@ This section is where you can see the highest level of detail.
 The reports are broken out in folder format and once you click into the folders, more reports open up.
 
 #### Reports Field Marketing uses
-* To view all videos posted, you must be logged in to GitLab Unfiltered. 
-1. `Insights>Dashboards>1.Investment Planning Summary` To understand your regions budget (referred to in Allocadia as `Current Target`) 
-    - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://www.youtube.com/watch?v=4hgTgpJLxVQ](https://www.youtube.com/watch?v=4hgTgpJLxVQ)</span> - Note this is the most useful ONLY when the plan is open from finance. Once the plan is locked and you're making changes/numbers are becoming real, you'll want to look at this second video. 
-1. `Insights>Dashboards>1.Investment Tracking Summary`To understand how much you're [on track to invest](https://support.allocadia.com/hc/en-us/articles/115003253034-Investment-Tracking-Summary-Report) - Watch [this video](https://youtu.be/MIYFnA5xKnU) walk through 
+
+- To view all videos posted, you must be logged in to GitLab Unfiltered.
+
+1. `Insights>Dashboards>1.Investment Planning Summary` To understand your regions budget (referred to in Allocadia as `Current Target`)
+    - Video walk through - <span class="colour" style="color:rgb(34, 0, 204)">[https://www.youtube.com/watch?v=4hgTgpJLxVQ](https://www.youtube.com/watch?v=4hgTgpJLxVQ)</span> - Note this is the most useful ONLY when the plan is open from finance. Once the plan is locked and you're making changes/numbers are becoming real, you'll want to look at this second video.
+1. `Insights>Dashboards>1.Investment Tracking Summary`To understand how much you're [on track to invest](https://support.allocadia.com/hc/en-us/articles/115003253034-Investment-Tracking-Summary-Report) - Watch [this video](https://youtu.be/MIYFnA5xKnU) walk through
 1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Campaign Type` - This report allows you to see the ROI data (MQL, SAO, expected pipeline), based on the impact modeller -
     - [Video walk through](https://youtu.be/bauTMmEnaXc)
-1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region. 
+1. `Insights>Dashboards>2. Pipeline>Quarterly Drill in Details All>Pipeline Plan by Motion` - This report allows you to see how your plans are aligned to the FY22 Marketing GTM motions. Please be sure you are filtering by Activity plan, NOT by Region.
     - [Video walk through](https://youtu.be/XfgckiT9_1s) -
-1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) & select which view you're looking for - i.e. Q1, Q2 etc. 
-1. Monthly/Qtrly Actuals review - To understand how much you planned for, forecated for, and then actually spent. At the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/apiJxzrDZe4) & select which view you're looking for - i.e. Q1, Q2 etc.
+1. Monthly forecasting report - at the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) & select which view you're looking for - i.e. Q1, Q2 etc.
+1. Monthly/Qtrly Actuals review - To understand how much you planned for, forecasted for, and then actually spent. At the home screen, click into the `view roll-up` button. [Video walk through](https://youtu.be/apiJxzrDZe4) & select which view you're looking for - i.e. Q1, Q2 etc.
 
 ##### Reporting folders breakdown
 
-1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come! 
-2. Health Check - We aren't using this folder in detail yet. More to come! 
-3. Investment Planning 
-    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary. 
-    2. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the 
+1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come!
+1. Health Check - We aren't using this folder in detail yet. More to come!
+1. Investment Planning
+    1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
+    1. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the
 
 ## Integrations (behind the scenes)
 
@@ -236,7 +237,7 @@ You have the ability to create a GitLab procurement issue directly from Allocadi
 [Here is a video walk through](https://youtu.be/6yDttqjRWoM) on how to create a procurement issue for vendor contracts.
 As we move to Coupa, we will be changing this to be a Create PO button instead.
 
-For Field Marketing, the reviewer/approver will click into the linked Allocaida line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue.
+For Field Marketing, the reviewer/approver will click into the linked Allocadia line item and will review the impact modeller there, as well as have the ability to click into the Marketing issue from your line item, so you will not need to address the ROI question in the issue template. You will however, need to address the justification question on if you're requesting to spend more than $500 per MQL in the procurement issue.
 
 More information on the [campaign tag creation](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-tags) can be found on the FMM handbook page.
 
@@ -254,12 +255,12 @@ If you find yourself needing to update a procurement issue template for any of t
 
 #### Wrong procurement issue template was pushed...what now?
 
-If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! Someone with owner or admin rights to your folder can assist you. To determine who has owner or admin rights to your folder from the home screen you would find your folder, click in the `Users` column that person icon with (number), from there, you see a list of people who have acess + their rights. Search until you find `Owner` or `Adminstrator` and then slack that person in the #mktg-budget-holders slack room. [Video walk through](https://youtu.be/PwbWpt3pMX4) (must be logged into GitLab Unfiltered!).  
+If you've hit the GitLab Procurement issue template button and the wrong issue template has been created, not to fear! Someone with owner or admin rights to your folder can assist you. To determine who has owner or admin rights to your folder from the home screen you would find your folder, click in the `Users` column that person icon with (number), from there, you see a list of people who have access + their rights. Search until you find `Owner` or `Administrator` and then slack that person in the #mktg-budget-holders slack room. [Video walk through](https://youtu.be/PwbWpt3pMX4) (must be logged into GitLab Unfiltered!).
 
-### SalesForce.com (SFDC) 
+### SalesForce.com (SFDC)
 
 As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
-When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category. 
+When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
 
 ### Okta
 
@@ -279,6 +280,6 @@ Go to the home page. In the `Actuals` column, see if your `Map` column has a Map
 
 If you accidentally map something incorrectly, it can be corrected. You'll need to go to the Activities grid for the line item where you accidentally mapped it, right click and select `Go to Actuals`. A new screen will appear where hopefully you see your error line and you can delete by scrolling to the far right.
 
+##### Field Marketing Expense Mapping
 
-
-
+We strive to have all monthly expenses mapped within 3 business days of actuals being loaded by Finance.
