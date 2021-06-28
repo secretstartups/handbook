@@ -18,7 +18,7 @@ The **GitLab Data Quality Program** focuses on improving GitLab's productivity a
 The program works to accomplish this goal by creating reliable processes to identify, monitor, and fix Data problems.
 The scope of Data Quality all GitLab managed data and is only bounded by availability of data in the [Enterprise Data Warehouse](https://about.gitlab.com/handbook/business-technology/data-team/platform/#our-data-stack) because the EDW provides the ability to scan and detect data quality issues over large volumes of data at scale and across multiple source systems.
 
-**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](handbook/source/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) to get started.
+**Do you have a Data Quality issue?** Please see [Data Quality Issue Workflow](/handbook/business-technology/data-team/how-we-work/#data-quality-issue-workflow) to get started.
 {: .alert .alert-success}
 
 ## Types Of Data Quality Problems
