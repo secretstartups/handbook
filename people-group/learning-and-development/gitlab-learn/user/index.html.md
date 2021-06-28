@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Learn User Documentation
+description: "The following resources can be used by learners in the GitLab Learn platform to help navigate the login process, explore new content and more."
 ---
 
 ## On this page
@@ -99,7 +100,7 @@ This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
-1. [GitLab Handbook](/about.gitlab.com/handbook/)
+1. [GitLab Handbook](/handbook/)
 1. User Documentation and Trainings (on this page)
 
 #### Search bar
