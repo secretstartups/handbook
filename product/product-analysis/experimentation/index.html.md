@@ -3,7 +3,7 @@ layout: markdown_page
 title: Experimentation Design & Analysis Framework
 ---
 
-## On this page
+<!---## On this page---->
 
 {:.no_toc}
 
@@ -20,8 +20,7 @@ thoughtful in how we approach experimenataion design and analysis.
 In order to increase our [velocity](/handbook/engineering/development/growth/#experiment-cadence) 
 while maintaining our ability to learn from experiments, the GitLab Growth stage (including the 
 Product Analysis group) is adopting a new framework for designing and analyzing experiments. This 
-framework is adapted from the work of data scientist 
-[Danielle Nelson](https://www.linkedin.com/in/daniellevnelson/). 
+framework is adapted from the work of data scientist [Danielle Nelson](https://www.linkedin.com/in/daniellevnelson/). 
 
 Like everything at GitLab, this page and how we implement the framework are [in draft](/handbook/values/#everything-is-in-draft), 
 and we will [iterate](/handbook/values/#iteration) over time.
@@ -38,6 +37,8 @@ Our experimentation design and analysis framework leverages two different "types
 two types differ in terms of statistical rigor (including p-value interpretation), which in turn 
 impacts required sample size and experiment duration.
 
+True RCTs are optimized for statistical certainty and pseudo-RCTs are optimized for experiment velocity.
+
 ### Randomized Control Trials (True RCTs)
 
 True RCTs are the most statistically rigorous experiments which, if designed and run properly, result 
@@ -52,7 +53,7 @@ size. In addition, there needs to be extra care taken to ensure that experiments
 True RCTs will be developed and evaluated with the industry standard statistical significance level 
 of p <= 0.05 and a power of 0.8.
 * p <= 0.05: results are **statistically significant**
-* p > 0.05: results are not **statistically significant**
+* p > 0.05: results are **not statistically significant**
 
 ### Pseudo-Randomized Control Trials (Pseudo-RCTs)
 
@@ -93,7 +94,7 @@ directionally impacted a metric?
   * If you would make the same decision regardless of a causal or directional impact, you should 
   likely run a pseudo-RCT.
 
-Over time, we will continue to build out a guide on how to select which type of experiment to run.
+We will continue to build out a guide on how to select which type of experiment to run.
 
 ## Additional Resources
 
@@ -104,15 +105,14 @@ Here are a few pages to check out:
 * [Growth Engineering Guide to running experiments](/handbook/engineering/development/growth/#running-experiments)
 * [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
 
-## Terminology
-<details>
-  <summary markdown="span">Useful Terms</summary>
+<details markdown="1">
+  <summary markdown="span">Click to view useful terms</summary>
 
 Here are some useful terms used in the context of experimentation:
 
-* **Null hypothesis (H0):** The default hypothesis that there is no relationship between variables. In experimentation, we are trying to disprove or reject the null hypothesis.
+* **Null hypothesis (H<sub>0</sub>):** The default hypothesis that there is no relationship between variables. In experimentation, we are trying to disprove or reject the null hypothesis.
   * In experimentation, we are trying to disprove or reject the null hypothesis.
-* **Alternative hypothesis (H1 or HA):** The hypothesis that there is a relationship between variables, the opposite of the null hypothesis.
+* **Alternative hypothesis (H<sub>1</sub> or H<sub>A</sub>):** The hypothesis that there is a relationship between variables, the opposite of the null hypothesis.
 * **Type I error:** The rejection of a true null hypothesis, a "false positive".
 * **Type II error:** The non-rejection of a false null hypothesis, a "false negative".
 * **Alpha (α):** The probability of committing a Type I error (returning a "false positive"), sometimes called the significance level.
@@ -132,4 +132,3 @@ Here are some useful terms used in the context of experimentation:
   * We calculate the minimum sample size required to detect a given size impact in a given metric.
 
 </details>
-
