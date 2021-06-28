@@ -90,7 +90,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
        1. EDU/OSS/Startups accounts owned by a Community Programs team member 
        1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
        1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
-       1. Prospect accounts with no open opportunities
+       1. Prospect accounts with no open opportunities with ASM approval
        1. First Order Accounts owned by the Mid-Market or SMB First Order team that have an initial Closed Won opportunity. These Accounts should be transitioned as Key Accounts to the corresponding Account Executive as indicated in the TSP Approved Next Owner field.  
        1. Accounts owned by SDRs, Sales Administrator or any other non sales role
    1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
