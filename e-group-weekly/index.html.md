@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "E-Group Weekly"
+description: "For executives to connect on a weekly basis in order to get timely input from E-Group, align on key initiatives, inform about key business happenings and celebrate company successes."
 ---
 
 ## On this page
@@ -27,7 +28,7 @@ weeks and may occasionally be rescheduled for another day due to calendar confli
 1. [Executives](/company/team/structure/#executives)
 1. [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/); when not possible, the [Director, Strategy and Operations](/job-families/chief-executive-officer/strategy-and-operations/)
 1. [CEO Shadows](/handbook/ceo/shadow/)
-1. [Executive Business Admin](/eba/#executive-business-administrator-team) to the CEO (optional)
+1. [Executive Business Admin](/handbook//eba/#executive-business-administrator-team) to the CEO (optional)
 1. Invited participants: folks invited to participate in one or more specific session
 
 ## Scheduling
