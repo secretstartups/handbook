@@ -1382,6 +1382,8 @@ extras:
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
+ **Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
+
 A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
 Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
@@ -1432,6 +1434,8 @@ Deprecations are announced for at least 2 releases in advance of the final remov
 ### Removals
 
 _To be added by Product Managers or Engineering Managers and merged by either._
+
+**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
@@ -1487,6 +1491,8 @@ When approved, include the "Ready" label in the MR before merging.
 ### Upgrades
 
 _To be added by Product Managers or Engineering Managers and merged by Engineering Managers._
+
+**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 Describe any considerations administrators should have when upgrading to this version. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
