@@ -6,7 +6,7 @@ title: Updating Post-purchase Survey Data
 ## Updating `PPS` data
 
 
-It is important we keep pricing related data in `feature.yml` up to date because it affects pricing decisions and auto-generated pages that are referenced across various teams at GitLab, including Product Pricing, Marketing and Sales. [Post-purchase survey](https://about.gitlab.com/direction/product-operations/#post-purchase) (PPS) data is taken monthly via Qualtrics. The output should come in the form of a spreadsheet which should look something like [this (internal only)](https://docs.google.com/spreadsheets/d/1Z_oyudSJeZR68VgrM87ePfZmVfUnOIgQrr1iWzmImH0/edit#gid=1021405695) and is shared out via the [quarterly analysis issues](https://gitlab.com/gitlab-com/Product/-/issues/2272).  
+It is important we keep pricing related data in `features.yml` up to date because it affects pricing decisions and auto-generated pages that are referenced across various teams at GitLab, including Product Pricing, Marketing and Sales. [Post-purchase survey](https://about.gitlab.com/direction/product-operations/#post-purchase) (PPS) data is taken monthly via Qualtrics. The output should come in the form of a spreadsheet which should look something like [this (internal only)](https://docs.google.com/spreadsheets/d/1Z_oyudSJeZR68VgrM87ePfZmVfUnOIgQrr1iWzmImH0/edit#gid=1021405695) and is shared out via the [quarterly analysis issues](https://gitlab.com/gitlab-com/Product/-/issues/2272).  
 
 In that spreadsheet, the `feature` column matches to a feature in `data/features.yml`. That's what needs to get updated. There are two fields which we are updating here:
 
