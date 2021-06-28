@@ -15,7 +15,7 @@ description: "A sales negotiation is a strategic discussion (or series of discus
 ## Overview
 A sales negotiation is a strategic discussion (or series of discussions) between buyer and seller that ideally leads to a deal being closed. The main goal of the negotiation process is to reach an agreement that's acceptable to everyone. Successful negotiation outcomes often start with the sales professional having and demonstrating the right mindset--one focused on a building a long-term partnership whereby both parties (buyer and seller) benefit more by working together than if the partnership did not exist. 
 
-In his book ["Closing Time"](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005), Ron Hubsher highlights the 7 immutable laws of sales negotiation:
+In his book [_Closing Time_](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005), Ron Hubsher highlights the 7 immutable laws of sales negotiation:
 1. You must be the buyer's 1st choice
 1. Know the financial benefit your solution creates
 1. Anticipate getting squeezed on price
@@ -49,7 +49,8 @@ While there are [numerous closing techniques](https://spotio.com/blog/sales-clos
 1. **The Assumptive Close** - gently nudging the customer to move forward in a non-manipulative way when it seems clear that your solution meets all of the customer's requirements (most effective when you have an established and trusted relationship with the buyer)
 
 ## Recommended Resources
-- ["Closing Time"](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005) by Ron Hubsher
+- [_Closing Time_](https://www.amazon.com/Closing-immutable-Sales-Negotiation-Hubsher/dp/0981789005) by Ron Hubsher
 - LinkedIn Learning course: [Sales: Closing Strategies](https://www.linkedin.com/learning/sales-closing-strategies/) (38 minutes)
 - LinkedIn Learning course: [Sales Negotiation](https://www.linkedin.com/learning/sales-negotiation/) (58 minutes)
 - [Finding Success With Procurement](https://audiblereadypodcast.libsyn.com/34-finding-success-with-procurement-w-tim-caito) (podcast, 22 minutes)
+- [_Never Split the Difference: Negotiating As If Your Life Depended On It_](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805/) by Chris Voss
