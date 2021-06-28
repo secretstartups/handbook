@@ -435,7 +435,7 @@ ALTER INTEGRATION GCS_INTEGRATION
 SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_paste_here_>>>>')
 ```
 
-A new stage can be created with the added storage location. 
+A new stage can then be created with the added storage location. 
 ```sql
 CREATE STAGE "RAW"."PTO".pto_load
 STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'bucket location';
