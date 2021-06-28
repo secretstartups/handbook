@@ -54,7 +54,9 @@ size. In addition, there needs to be extra care taken to ensure that experiments
 True RCTs will be developed and evaluated with the industry standard statistical significance level 
 of p <= 0.05 and a power of 0.8.
 * p <= 0.05: results are **statistically significant**
+  * Ex: The varient landing page showed a significant increase of 10% in click rate.
 * p > 0.05: results are **not statistically significant**
+  * Ex: The difference in click rate between control and variant landing pages was not significant.
 
 ### Pseudo-Randomized Control Trials (Pseudo-RCTs)
 
@@ -66,9 +68,13 @@ were due to random chance instead of the experiment.
 
 Since pseudo-RCTs are less strict, we evaluate them based on a looser p-value interpretation 
 and we use different language to understand and communicate the results. The language used for 
-these measurements needs to be very intentional so as to not overstate our confidence.
+these measurements needs to be very intentional so as to not overstate our confidence. This 
+means that we should _not_ communicate a percent change (ex: 10% increase) because our level of 
+certainty and statistical significance could be misinterpreted.
 * p <= 0.05: experiment **“had an impact”**
+  * Ex: The variant landing page showed a lift in click rate from 40% to 44%.
 * p > 0.05 and p < 0.2: experiment **"had a directional impact"** (or **“might have had an impact”**)
+  * Ex: The variant landing page showed a directional lift in click rate from 40% to 44%.
 
 ## Considerations for selecting experiment type
 
