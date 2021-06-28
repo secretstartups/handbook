@@ -16,7 +16,7 @@ US Federal Support has a number of engineers with [verified US Citizenship](#acc
 
 ## Access limited to US Citizens
 
-Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](handbook/support/support-ops/documentation/zendesk_instances.html#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_us_federal_users.html#support-us-federal-staff)(limited to Support/Security Team members).
+Only our US Citizen Support Engineers have access to the [US Federal Zendesk Instance](/handbook/support/support-ops/documentation/zendesk_instances.html#zendesk-us-federal). If you are a US Citizen and would like to get access and contribute you can open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for either a [light agent](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) or [full agent](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_us_federal_users.html#support-us-federal-staff)(limited to Support/Security Team members).
 
 ## Communication Guidelines
 
