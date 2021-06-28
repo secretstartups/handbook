@@ -87,6 +87,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "Remote-first, remote-biased... inspired by GitLab and other leaders. It started with a great conversation with GitLab CMO Todd Barr who taught me about the remote-first approach and [GitLab Remote Playbook](http://allremote.info/). That helped reinforce how LogDNA creates support structures for remote work and grows its vibrant, values-driven culture."
 1. [AvenueHQ](https://www.linkedin.com/feed/update/urn:li:activity:6788490212684181505?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6788490212684181505%2C6788494019820318721%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6788490212684181505%2C6788494739487428608%29)
    - "[GitLab's approach to] [values-driven hiring](/handbook/values/#culture-fit-is-a-bad-excuse) reasonated with what we do at AvenueHQ. It was a real lightbulb moment hearing about how planned the 'serendipity' we experience in the office actually is. It made me feel [that] we can [recreate that in a distributed environment](/company/culture/all-remote/informal-communication/)!"
+1. [Axya](https://www.linkedin.com/posts/karimbesbes_remote-hiring-softwareengineer-activity-6811290725788004352-IVB3)
+   - "Axya ❤️ GitLab's [remote culture](http://allremote.info/)! The GitLab platform is not the only thing we love about Gitlab, but also their remote culture. As a remote-first SaaS company, Axya is heavily inspired by the likes of GitLab and Automattic."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
