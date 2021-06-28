@@ -432,7 +432,7 @@ DESC INTEGRATION GCS_INTEGRATION;
 Paste the value in the query below, over `<<<<_paste_here_>>>>` + the value of the new bucket location. Values needs to be separated by a `,`.
 ```sql
 ALTER INTEGRATION GCS_INTEGRATION 
-SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_past_here_>>>>')
+SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_paste_here_>>>>')
 ```
 
 A new stage can be created with the added storage location. 
