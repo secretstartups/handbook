@@ -210,8 +210,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
 | 2021-10-04 | 2021-10-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | AVAILABLE - REMOTE |
-| 2021-10-18 | 2021-10-22 | [Danielle Morrill](https://gitlab.com/dmor), Sr. Director Inbound Marketing | [Chris Hill](https://gitlab.com/chillosu) |
-| 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | [Danielle Morrill](https://gitlab.com/dmor), Sr. Director Inbound Marketing |
+| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | [Chris Hill](https://gitlab.com/chillosu) |
+| 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
