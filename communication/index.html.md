@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Communication
+description: "We're an all-remote company that allows people to work from almost anywhere in the world. It's important for us to practice clear communication in ways that help us stay connected and work more efficiently."
 ---
 
 ## On this page
@@ -708,7 +709,7 @@ Make a pre-recorded video presentation on our [Unfiltered YouTube channel](https
 
 1. Pre-recording the presentation allows the time to be used for back and forth Q&A (as seen in [Group Conversations](/handbook/group-conversations/#presentation), which enables meeting attendees to have their questions answered on the topic without running out of time.
 2. Reinforces GitLab's [Bias Towards Asynchronous Communication](/handbook/values/#bias-towards-asynchronous-communication) because it helps team members in different timezones to consume the presentation material async versus spending time in a meeting.
-3. Strengthens [self-service and self-learning](handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
+3. Strengthens [self-service and self-learning](/handbook/values/#self-service-and-self-learning) by maximizing the meeting time's efficiency to ensure that team members have their voices heard during the Q&A.
 4. Standardizes the approach to meetings across the organization.
 5. Pre-recorded meetings have transcripts that can boost content value, help team members focus, and increase accessibility.
 6. Recordings can be sped up and rewound by team members watching on their own time.
