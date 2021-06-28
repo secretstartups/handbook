@@ -80,8 +80,8 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 - If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. 
 - Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move. If both ASMs agree to immediately move an account with CARR, Sales Ops management would also need to approve this move outside of the Quarterly review.
 - During the quarterly review process: 
-            1. If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. 
-            1. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. 
+    - If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. 
+    - If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. 
 - Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 1. **Sales Operations Immediate and Quarterly Account Review Process** 
    1. Accounts that can be moved immediately by Sales Operations: 
@@ -143,7 +143,6 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 **Process to Request Order Type Changes:**  In the event that Order Type needs to be changed, please chatter @sales-support on the opportunity with details as to why the change is being requested.  This will trigger a case, which will be reviewed by the Sales Operations and Deal Desk teams. 
 
 <details>
-
 <summary markdown='span'>
   Sales Ops Operators Guide for Account and Opportunity Review and Moves
 </summary>
