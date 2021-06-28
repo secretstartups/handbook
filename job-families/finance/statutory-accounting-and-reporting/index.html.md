@@ -15,9 +15,12 @@ The Statutory Accounting and Compliance Senior Manager is a [grade 9](/handbook/
 * Work with local service providers for each operating entity to ensure compliance with statutory reporting, collaborating with the Accounting team as needed
 * Identify and calculate US GAAP to local GAAP adjustments
 * Perform analysis to determine the impact of new accounting standards, changes in accounting policies, impact of non-GAAP policies, etc. on statutory reporting requirements
-* Ensure all intercompany transactions are recorded appropriately and reconcile activity on a monthly basis
+* Ensure all intercompany transactions are recorded appropriately and reconcile transaction level activity on a monthly basis
 * Calculate intercompany loan interest, transfer pricing, management fee allocation, etc. as needed
+* Own intercompany settlement process
 * Ensure compliance with intercompany agreements
+* Review CTA and FX gain/loss associated with intercompany activity for reasonableness
+* Generate a cash forecast for intercompany and tax activity
 * Review entity level financial statements on a monthly basis
 * Reconcile VAT/GST activity and balance sheet accounts
 * Ensure GitLab is properly registered in all necessary jurisdictions
