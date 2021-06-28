@@ -44,7 +44,7 @@ description: "Learn more about the Product Career Development Framework Working 
 1. Research and incorporation of internal expectations into Product Management [Responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/)
 1. Clear quantative measures for progress [included in the CDF](/handbook/product/product-manager-role/product-CDF-competencies/#cdf-topics-for-product-managers) 
 1. [Training](/handbook/product/product-manager-role/product-CDF-competencies/#people-management-competencies) for how to use the CDF for all [Product Leaders ](/handbook/product/product-leadership/#product-leaders)
-1. Simplification of [PM Competencies](handbook/product/product-manager-role/product-CDF-competencies/)
+1. Simplification of [PM Competencies](/handbook/product/product-manager-role/product-CDF-competencies/)
 
 
 ## Roles and Responsibilities
