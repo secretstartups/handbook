@@ -221,7 +221,7 @@ The handbook is a living document and we'll occasionally need to change URLs or 
 
 ## Management
 
-It is each department and team member's responsibility to ensure the handbooks (handbook, internal handbook, and private handbooks) stay current. People Operations Specialists will partner with a representative from each department (engineering, marketing, etc) through weekly reviews to verify the content in the handbook is accurate and follows the same format as outlined in the [Guidelines](/handbook/handbook-usage/#handbook-guidelines). For questions on who to submit a merge request to, or assistance with the handbook, please reach out on the `#handbook` Slack channel.
+It is each department and team member's responsibility to ensure the handbooks (handbook, internal handbook, and private handbook) stay current. People Operations Specialists will partner with a representative from each department (engineering, marketing, etc) through weekly reviews to verify the content in the handbook is accurate and follows the same format as outlined in the [Guidelines](/handbook/handbook-usage/#handbook-guidelines). For questions on who to submit a merge request to, or assistance with the handbook, please reach out on the `#handbook` Slack channel.
 
 If you need permissions to directly merge changes to the handbook, please submit a [New Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests) issue and follow the process for access approval. Request a 'Maintainer' role under www-gitlab-com. See [here](https://docs.gitlab.com/ee/user/permissions.html) for a full description of roles and permissions.
 
