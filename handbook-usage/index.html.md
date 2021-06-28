@@ -155,15 +155,15 @@ In an all-remote, asynchronous organization, each team member should practice ha
 - Enables new team members and managers on how to leverage the handbook as a resource.
 - Serves as a role model for what it means to be handbook first.
 
-### The Private handbook
+### The Staging handbook
 
 #### Where can it be found?
 
 [Private Project](https://gitlab.com/gitlab-com-private/www-gitlab-com)
 
-#### Why is there a private handbook?
+#### Why is there a staging handbook?
 
-For E-Group, information may need to be iterated on or MR branches may need to be created before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
+For E-Group, information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
 
 #### The process of using this handbook
 
@@ -183,9 +183,9 @@ For E-Group, information may need to be iterated on or MR branches may need to b
 
 If you require project-based access, you can request temporary developer access in the `#private_repo_auth_request` Slack channel. The CLO is DRI on approvals. Membership will be audited on a monthly basis by the Sr. EBA to the CLO to ensure accuracy.
 
-#### Keeping the private handbook up-to-date
+#### Keeping the staging handbook up-to-date
 
-[How to keep your Git-Fork up to date](https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date) is an easy tutorial to follow from the command line to keep the private handbook up-to-date, until mirroring is working.
+[How to keep your Git-Fork up to date](https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date) is an easy tutorial to follow from the command line to keep the staging handbook up-to-date, until mirroring is working.
 
 ### The Internal handbook
 
