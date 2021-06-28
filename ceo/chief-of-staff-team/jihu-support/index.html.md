@@ -101,7 +101,7 @@ The Application Security team reviews each JiHu contribution into GitLab reposit
 
 #### Release Certification Process
 
-The Application Security team performs a certification of each release that includes JiHu contributions. Please see [this documentation](./release-certification.html.md) for more information about this process.
+The Application Security team performs a certification of each release that includes JiHu contributions. Please see [this documentation](./release-certification.html) for more information about this process.
 
 ### Security Release Process
 
