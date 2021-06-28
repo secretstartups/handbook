@@ -135,7 +135,7 @@ If people want advice on open source, remote work, or other things related to Gi
 >   * [Pricing strategy](/company/pricing/)
 >   * [History](/company/history/)
 >   * [About](/company/)
->   * [All Remote](/all-remote/)
+>   * [All Remote](/company/culture/all-remote/)
 
 1. If we receive a positive answer we schedule a 50 minute YouTube public livestream. For an example of an interview, see [this one about stress in remote work](https://www.youtube.com/watch?v=23XIx6n9SsQ).
 1. Within 48 hours you share a draft post with us in a Google Doc with suggestion or edit rights for anyone that knows the URL.
