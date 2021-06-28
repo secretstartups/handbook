@@ -1105,7 +1105,7 @@ After the opportunity has once again met the stage completion criteria, you are 
 
 ### Early Stage Deals: Progression Requirements & Automation
 
-To help keep our pipeline clean and ensure that early stage deals are moving through the pipe at the desired velocity, all opportunities in stage `1-Discovery` and `2-Scoping` are governed under the below process
+To help keep our pipeline clean and ensure that early stage deals are moving through the pipe at the desired velocity, all New Business opportunities in stage `1-Discovery` and `2-Scoping` are governed under the below process
 
 **Timelines:**  Inactivity Warning Day & Auto Closure Day by Segment
 - Large/PubSec: Day 45 / Day 90
