@@ -33,7 +33,7 @@ Async resources will be provided as a training guide for all mentor/mentee pairs
 
 **Mentor/Mentee Training**
 
-Completion of the self-paced [How to be a Good Mentor or Mentee](How to be a Good Mentee and Mentor course on LinkedIn Learning ) course on LinkedIn Learning is expected of all mentors and mentees. Depending on need and interest, we will host optional discussion sessions for mentors and mentees to discuss topics learned in the course. If you prefer to review text-based information, you can instead review [this slides](LINK) which were created using the content from the LinkedIn course. It's important that participants make every effort to complete the course and/or review the presentation slides to ensure the greatest results from the program and relationship.
+Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.linkedin.com/learning/how-to-be-a-good-mentee-and-mentor/the-power-of-mentoring?u=2255073) course on LinkedIn Learning is expected of all mentors and mentees. Depending on need and interest, we will host optional discussion sessions for mentors and mentees to discuss topics learned in the course. If you prefer to review text-based information, you can instead review [this slides](/handbook/people-group/learning-and-development/mentor/#mentor-and-mentee-training) which were created using the content from the LinkedIn course. It's important that participants make every effort to complete the course and/or review the presentation slides to ensure the greatest results from the program and relationship.
 
 _This requirement was updated on 2021-06-28 with the following goals in mind: increase async participation, enable different learning styles, leverage high-quality content in LinkedIn Learning_
 
