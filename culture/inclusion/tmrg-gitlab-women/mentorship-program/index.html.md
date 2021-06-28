@@ -29,7 +29,7 @@ The program proposes a mentor/mentee relationship between selected mentee applic
 
 **Mentor/Mentee Workbook**
 
-Async resources will be provided as a training guide for all mentor/mentee pairs. This workbook will include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. While it's not required that these workbooks guide the relationship, they will be a useful resource when mentors or mentees feel stuck or need a starting place for discussion.
+[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) will be provided as a training guide for all mentor/mentee pairs. This workbook will include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. While it's not required that these workbooks guide the relationship, they will be a useful resource when mentors or mentees feel stuck or need a starting place for discussion.
 
 **Mentor/Mentee Training**
 
