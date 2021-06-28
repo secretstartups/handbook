@@ -106,8 +106,7 @@ necessary.
   > LicenseDot - admin
 * Justification for this access:
   > Support Engineers need LicenseDot admin access to work on customer licensing
-  > issues and to debug issues on the application itself. For more information,
-  > see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#licensedot
+  > issues and to debug issues on the application itself.
 
 #### Salesforce
 {:.no_toc}
@@ -126,8 +125,7 @@ When creating an individual/bulk access request, use the following information:
     > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
 * Justification for this access:
   > Support Engineers need their own Salesforce accounts to better collaborate
-  > with Sales team members as they work on customer licensing issues. For more
-  > information, see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#salesforce
+  > with Sales team members as they work on customer licensing issues. 
 
 #### Zuora
 {:.no_toc}
@@ -148,8 +146,7 @@ When creating an individual/bulk access request, use the following information:
   > Zuora READ-ONLY access
 * Justification for this access:
   > Support Engineers need read-only Zuora access to troubleshoot License and
-  > Renewal customer issues and support requests. For more information, see
-  > https://about.gitlab.com/handbook/support/license-and-renewals/index.html#zuora
+  > Renewal customer issues and support requests.
 
 ### Workflows
 
