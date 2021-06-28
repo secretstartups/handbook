@@ -22,4 +22,5 @@ Every feature in `features.yml` _should have both entries_. If it's a brand-new 
 1. For each row on the "SUMMARY_alltime" sheet, you'll update the `pps_aggregate` value to match that new value.
 1. In `features.yml`, find-and-replace all the values to zero. In an IDE, you can use a regular expression like `pps_recent: \d*` and replace it with `pps_recent: 0`.
 1. For each row on the "SUMMARY_Qx" sheet (the one from the current quarter), you'll update the `pps_recent` value to match that new value.
-1. Submit your MR, and merge!
+1. Submit your MR, and merge! 
+     To see a sample, check out the diff in the FY22 Q1 update MR [here](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/85089/). 
