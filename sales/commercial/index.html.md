@@ -194,10 +194,10 @@ Failure to follow the above is not acceptable in any situation.
 1. When you start your day you need to check all inputs like email, zendesk, and lead queue so you can triage those requests into your priorities for that day.
 1. Allocate times of your day in four ways:
 
-- Customer meetings scheduled
-- Proactive email and internal efforts
-- Proactive calling efforts
-- Time to check inputs again
+   - Customer meetings scheduled
+   - Proactive email and internal efforts
+   - Proactive calling efforts
+   - Time to check inputs again
 
 1. When beginning a proactive time block, open your opportunities view and sort by Next Steps Date.
 1. Your Next Steps should be specific and compelling so that you can take action on them within 3 minutes of reading.
@@ -210,32 +210,32 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 1. **Visual Requirements**
 
-- Deck's main color will match or resemble that of the customer's.
-- Where possible, use the customer's logo.
-- It is appropriate to ask the customer for a blank template.
+   - Deck's main color will match or resemble that of the customer's.
+   - Where possible, use the customer's logo.
+   - It is appropriate to ask the customer for a blank template.
 
-1. **Customer Agreed-upon Agend**
+1. **Customer Agreed-upon Agenda**
 
-- When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
+   - When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
 
 1. **Calculated ROI of GitLab v. Next Best Option**
 
-- For New Business the next best option could be 'do nothing' or our competition.
-- For Renewals the next best option could be to go back to what they were doing before.
+   - For New Business the next best option could be 'do nothing' or our competition.
+  - For Renewals the next best option could be to go back to what they were doing before.
 
 1. **Two options (rough plans) with GitLab going forward**
 
-- For new business this takes the form of [Two Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit) where we give them a high engagement and a low engagement option.
-- For a renewal, this could be a one year v. a three year option, or Premium v. Ultimate.
+   - For new business this takes the form of [Two Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit) where we give them a high engagement and a low engagement option.
+   - For a renewal, this could be a one year v. a three year option, or Premium v. Ultimate.
 
 1. **Non-Custom Single Application pitch to the customer**
 
-- This slide should have a visual representation of using GitLab as a single application for the entire software development life cycle.
-- The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
+   - This slide should have a visual representation of using GitLab as a single application for the entire software development life cycle.
+   - The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
 
 1. **Full capture of the customer's feedback on the 'Single Application' slide**
 
-- Capture the customer's actual words in the speaker notes of the 'single application' slide
+   - Capture the customer's actual words in the speaker notes of the 'single application' slide
 
 ## SMB Account Executives
 
