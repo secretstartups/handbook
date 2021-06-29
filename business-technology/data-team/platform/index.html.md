@@ -133,6 +133,12 @@ The Qualtrics data push process, also known in code as `Qualtrics SheetLoad`, en
 
 During the process, the Google Sheet is updated to reflect the process' status.  The first column's name is set to `processing` when the process begins, and then is set to `processed` when the mailing list and contacts have been uploaded to Qualtrics.  Changing the column name informs the requester of the process' status, assists in debugging, and ensures that a mailing list is only created once for each spreadsheet.
 
+If a spreadsheet processes incorrectly, hangs, or otherwise has an error and there is no apparent issue with the file, the first course of action should be to attempt reprocessing the spreadsheet.  To reprocess:
+    1. Disable the Qualtrics Sheetload DAG in Airflow. 
+    1. Delete any mailing list in Qualtrics that has been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the file.
+    1. Edit cell A1 of the problematic file to be `id`
+    1. Enable the Qualtrics Sheetload DAG in Airflow again and let it run
+
 The end user experience is described on the [UX Qualtrics page](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
 
 ### Snowplow Infrastructure
