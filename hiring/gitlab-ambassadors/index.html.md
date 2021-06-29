@@ -157,7 +157,7 @@ For additional guidance on using LinkedIn Recruiter for sourcing, check out this
 **Keep in mind:**
 - As a hiring manager, you can request a [source-a-thon](/handbook/hiring/sourcing/#source-a-thons) for your vacancy. The Talent Acquisition team will partner with you to schedule it, and anyone is welcome to participate!
 - There's a difference between a sourced candidate and a referral. [Here's a quick overview](/handbook/hiring/referral-process/#defining-a-referral).
-- If you have questions, you can always reach out to your [talent acquisition partner](/handbook/hiring/talent-acquisition-alignment/) or post it in the `#talent-acquisition` channel on Slack.
+- If you have questions, you can always reach out to your [talent acquisition partner](/handbook/hiring/recruiting-alignment/) or post it in the `#talent-acquisition` channel on Slack.
 
 #### Responding to potential candidates
 
