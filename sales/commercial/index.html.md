@@ -214,26 +214,26 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 - Where possible, use the customer's logo.
 - It is appropriate to ask the customer for a blank template.
 
-1. **Customer Agreed-upon Agend**
+2. **Customer Agreed-upon AgendA**
 
 - When meeting with the customer, leverage an agreed upon agenda to aide in co-selling.
 
-1. **Calculated ROI of GitLab v. Next Best Option**
+3. **Calculated ROI of GitLab v. Next Best Option**
 
 - For New Business the next best option could be 'do nothing' or our competition.
 - For Renewals the next best option could be to go back to what they were doing before.
 
-1. **Two options (rough plans) with GitLab going forward**
+4. **Two options (rough plans) with GitLab going forward**
 
 - For new business this takes the form of [Two Lane Selling](https://docs.google.com/document/d/1h7DCIRAQ1pRiqDF6Aebl354uoMXiXbSVLaC_XefzM6w/edit) where we give them a high engagement and a low engagement option.
 - For a renewal, this could be a one year v. a three year option, or Premium v. Ultimate.
 
-1. **Non-Custom Single Application pitch to the customer**
+5. **Non-Custom Single Application pitch to the customer**
 
 - This slide should have a visual representation of using GitLab as a single application for the entire software development life cycle.
 - The intent of this slide is to have the conversation with the customer on 'what is possible', and to capture their feedback
 
-1. **Full capture of the customer's feedback on the 'Single Application' slide**
+6. **Full capture of the customer's feedback on the 'Single Application' slide**
 
 - Capture the customer's actual words in the speaker notes of the 'single application' slide
 
