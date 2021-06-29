@@ -212,13 +212,14 @@ We aim to increase the focus on our community contributions. Below is a timeline
 ### Department members
 
 <%
-director_role = 'Director of Quality Engineering'
-roles_regexp = /(Engineer in Test|Engineering Productivity|Quality Engineering)/
+vp_role = 'Vice President of Quality'
+director_role = 'Interim Director of Quality Engineering'
+roles_regexp = /(Engineer in Test|Engineering Productivity|Quality Engineering|Staff Infrastructure Analyst|Senior Operations Analyst)/
 %>
 
 #### Director and managers
 
-<%= direct_team(role_regexp: roles_regexp, manager_role: director_role) %>
+<%= direct_team(role_regexp: roles_regexp, manager_role: vp_role) %>
 
 #### Individual contributors
 
