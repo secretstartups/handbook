@@ -110,8 +110,8 @@ The Senior Accounts Receivable Specialist is a [grade 7](/handbook/total-rewards
 
 ## Performance Indicators
 
-* [Average Days Sales Outstanding (DSO)](/finance/corporate-finance-performance-indicators/#sts=Average%20Days%20Sales%20Outstanding%20(DSO))
-* [Accounts Receivable Aging Greater Than 90 Days](/finance/corporate-finance-performance-indicators/#sts=Average%20Days%20Sales%20Outstanding%20(DSO))
+* [Average Days Sales Outstanding (DSO)](/handbook/finance/corporate-finance-performance-indicators/#sts=Average%20Days%20Sales%20Outstanding%20(DSO))
+* [Accounts Receivable Aging Greater Than 90 Days](/handbook/finance/corporate-finance-performance-indicators/#sts=Average%20Days%20Sales%20Outstanding%20(DSO))
 
 ## Career Ladder
 
