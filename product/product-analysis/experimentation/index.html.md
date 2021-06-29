@@ -15,7 +15,7 @@ title: Experimentation Design & Analysis Framework
 Experimentation is hard. In an ideal world, we would have an easy-to-use, easy-to-implement 
 experimentation tool, data would be robust and timely, and we would be able to reach required 
 sample sizes quickly. But, we do not live in an ideal world, so we need to be very deliberate and 
-thoughtful in how we approach experimenataion design and analysis.
+thoughtful in how we approach experimentation design and analysis.
 
 In order to increase our [velocity](/handbook/engineering/development/growth/#experiment-cadence) 
 while maintaining our ability to learn from experiments, the GitLab Growth stage (including the 
@@ -54,7 +54,7 @@ size. In addition, there needs to be extra care taken to ensure that experiments
 True RCTs will be developed and evaluated with the industry standard statistical significance level 
 of p <= 0.05 and a power of 0.8.
 * p <= 0.05: results are **statistically significant**
-  * Ex: The varient landing page showed a significant increase of 10% in click rate.
+  * Ex: The variant landing page showed a significant increase of 10% in click rate.
 * p > 0.05: results are **not statistically significant**
   * Ex: The difference in click rate between control and variant landing pages was not significant.
 
@@ -70,11 +70,12 @@ Since pseudo-RCTs are less strict, we evaluate them based on a looser p-value in
 and we use different language to understand and communicate the results. The language used for 
 these measurements needs to be very intentional so as to not overstate our confidence. This 
 means that we should _not_ communicate a percent change (ex: 10% increase) because our level of 
-certainty and statistical significance could be misinterpreted.
+certainty and statistical significance could be misinterpreted. In addition, including the p-value 
+(or noting the confidence level) helps to avoid misinterpretation.
 * p <= 0.05: experiment **“had an impact”**
-  * Ex: The variant landing page showed a lift in click rate from 40% to 44%.
+  * Ex: The variant landing page showed a lift in click rate from 40% to 44% (p=0.04).
 * p > 0.05 and p < 0.2: experiment **"had a directional impact"** (or **“might have had an impact”**)
-  * Ex: The variant landing page showed a directional lift in click rate from 40% to 44%.
+  * Ex: The variant landing page showed a directional lift in click rate from 40% to 44% (p=0.11).
 
 ## Considerations for selecting experiment type
 
@@ -144,7 +145,7 @@ given confidence level (1-α).
 your ability to detect a difference between experiment variations where there is actually a 
 difference between groups.
   * The industry standard for Power is 0.8.
-* **Effect size:** The magnitidue of difference between groups.
+* **Effect size:** The magnitude of difference between groups.
   * We use minimum effect size when designing up experiments (what is the minimum change we want 
   to detect).
 * **Sample size:** The number of observations (ex: users, namespaces, etc) included in an experiment.
