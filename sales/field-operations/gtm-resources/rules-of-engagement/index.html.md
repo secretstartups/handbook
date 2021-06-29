@@ -4,6 +4,14 @@ title: "Go to Market Rules of Engagement"
 description: "Rules of Engagement"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
 ### Objectives  
 The purpose of this page is to provide clear guidelines around GitLab's FY22 GTM Rules of Engagement in the following areas:
 
