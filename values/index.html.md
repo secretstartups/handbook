@@ -183,7 +183,7 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 > Instead of judging people for not approaching work in an agreed-upon way, "no ego" encourages people to glean inspiration from watching others approach work in new and different ways.
 
 Being no ego is a standard we hold ourselves as people to but is not one that applies to GitLab as a company or product.
-We want to celebrate and highlight GitLab's accomplishments, including being the [largest all-remote company](/company/culture/all-remote/).
+We want to celebrate and highlight GitLab's accomplishments, including being the [one of the largest all-remote companies](/company/culture/all-remote/).
 This doesn't mean we don't recognize our mistakes, including how we handled [telemetry](/blog/2019/10/10/update-free-software-and-telemetry/).
 
 ##### See others succeed
