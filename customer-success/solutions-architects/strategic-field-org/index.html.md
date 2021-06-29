@@ -52,6 +52,7 @@ As our existing customers continue to mature their DevOps practice on GitLab Pre
 Given the size of the team and the level of effort required, we have defined qualifications to maximize efficiency across our global accounts.
 
 Qualifications for net-new deals:
+
 * Deal opportunity ARR value is more than $400,000 ARR
 * Reviewed and approved by the regional ASM and regional SA manager
 * Access to engage with senior leadership and the economic buyer
