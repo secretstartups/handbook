@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "New to Leadership and Management"
+description: "In this section we will review various topics that impact new managers. For first time managers sometimes the transition from a high performing individual to leading a team can be challenging."
 ---
 
 ## On this page
@@ -41,7 +42,7 @@ There are some great articles regarding being new to leadership. Please review t
 
 ## Legalities of Hiring
 
-If you have not yet reviewed the [Hiring Pages](/handbook/hiring/#hiring-pages) in the handbook please familiarize yourself with the information. This page is a great overview of job families, vacancies, country hiring guidelines and etc...  A best practice once you are a manager is to schedule time with your aligned recruiter and sourcer.  In this meeting you can provide an overview of your team, potential hiring opportunities and sourcing strategies.  Talent Acquisition alignment can be found [here](/handbook/hiring/talent-acquisition-alignment/)
+If you have not yet reviewed the [Hiring Pages](/handbook/hiring/#hiring-pages) in the handbook please familiarize yourself with the information. This page is a great overview of job families, vacancies, country hiring guidelines and etc...  A best practice once you are a manager is to schedule time with your aligned recruiter and sourcer.  In this meeting you can provide an overview of your team, potential hiring opportunities and sourcing strategies.  Talent Acquisition alignment can be found [here](/handbook/hiring/recruiting-alignment/)
 
 As a manager you are now responsible for hiring team members to fill open vacancies.  You most likely have already been involved in interviewing candidates for GitLab, however now you are the decision maker on who is hired onto your team and into GitLab.  As a manager you should be mindful of the following:
 
