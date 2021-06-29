@@ -265,8 +265,6 @@ Based on initial feedback and observations on current experiment platform capabi
 
 ### <span style="text-decoration:underline;">Terminology:</span>
 
-
-
-*   **Default Experience: **The experience a participant receives when not allocated to an experiment. This is the same as control experience in most cases. 
+*   **Default Experience:** The experience a participant receives when not allocated to an experiment. This is the same as control experience in most cases. 
 *   **Experiment calendar:**  A system to show the past, current and upcoming experiments along with population being tested, weights and Experiment duration. This could enable us to plan for conflits or analyze interactions between interacting experiments. 
 *   **Sensitivity:** For the given population and it’s metric, what is the minimum change at we could have detected a significant threshold. 
