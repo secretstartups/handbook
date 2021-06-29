@@ -299,7 +299,7 @@ responsibility, willingness of GitLab team-members to teach new GitLab team-memb
 #### What you would like to change & what we are doing about it
 
 1. Make the handbook easier to navigate.
-  * We have added an [Onboarding](/handbook/people-group/general-onboarding/onboarding-101/) guide for new GitLab team-members. We also added Standard Operating Procedures for different departments to make what you are looking for easier to find. And don't forget, there is a search function at the top of the handbook that can help you find exactly what you are looking for! Update: This page has been moved to [Onboarding](/handbook/people-group/general-onboarding/)
+  * We have added an [Onboarding](/handbook/people-group/general-onboarding/) guide for new GitLab team-members. We also added Standard Operating Procedures for different departments to make what you are looking for easier to find. And don't forget, there is a search function at the top of the handbook that can help you find exactly what you are looking for! Update: This page has been moved to [Onboarding](/handbook/people-group/general-onboarding/)
 1. Spend more time learning the technical side of our product.
   * Check out [GitLab University](https://docs.gitlab.com/ee/university/) to learn more about Git and GitLab. We will also be rolling out additional training on Git and GitLab during 2017 see [issue](https://gitlab.com/gitlab-com/peopleops/issues/126).
 1. Refine the hiring process.
