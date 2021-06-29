@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Procure to Pay"
+description: "Procure to pay is the process of requisitioning, purchasing, receiving, paying for and accounting for goods and services."
 ---
 
 ## On this page
@@ -1177,7 +1178,7 @@ Budgets Vs Actuals for Marketing Spends are tracked on NetSuite.
 * Budgeted amounts, actual amounts, and the amount over budget are [displayed](https://docs.google.com/document/d/1k1ZIn9HsEL6bor42Psr-ey1Bz1EcEFak2I_UqMIpaNw/edit).
 
 This [data](https://docs.google.com/document/d/1GaZPC5rm0PDZ8RexzVI9BYyu0TsdrOLfkA89DmLh2i4/edit) also flows into Sisense so that it can be visualized in the dashboard form. This data is updated in real-time.
-Any spending is approved via the [Procure to Pay process](/handbook/finance/sox-internal-controls/index.html#1-procurement), and each spend is approved depending on the template used and the [authorization matrix](/finance/authorization-matrix/).
+Any spending is approved via the [Procure to Pay process](/handbook/finance/sox-internal-controls/index.html#1-procurement), and each spend is approved depending on the template used and the [authorization matrix](/handbook/finance/authorization-matrix/).
 
 **Post Marketing Event Assessments**
 
