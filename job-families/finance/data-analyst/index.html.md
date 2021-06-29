@@ -158,7 +158,7 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 * Assist with data driven planning and strategy
 * Focus on cross-functional analysis that can help drive marketing conversations
 * Reports to [Director of Marketing Strategy and Performance](/job-families/marketing/marketing-strategy/#director-marketing-strategy) working closely with the Chief Marketing Officer
-* Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance//)
+* Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/)
 
 #### Web Analyst
 * Provide recommendations for technical SEO improvements to the site.
@@ -173,7 +173,7 @@ _ Additional Requirements_
 * 3+ years experience Google Analytics (or related tool), Google Search Console and experience with at least one SEO tool.
 * Technical/industry experience focused on SEO online advertising to improve lead generation, sales pipeline, and revenue.
 * Reports to [Director of Marketing Strategy and Performance](/job-families/marketing/marketing-strategy/#director-marketing-strategy) working closely with the Chief Marketing Officer
-* Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance//)
+* Member of the [Marketing Strategy and Performance Team](/handbook/marketing/strategy-performance/)
 
 
 ### People
@@ -202,4 +202,4 @@ The next step in the Data Analyst job family is to move to the [Data Management]
 * Next, candidates will be invited to schedule a fourth interview with a specialty Engineering manager
 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
