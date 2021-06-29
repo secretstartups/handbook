@@ -22,8 +22,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-06-25 | Family and Friends Day
 | 2021-07-05 | Public Holiday
+| 2021-07-16 | Family and Friends Day
 | 2021-09-06 | Public Holiday
 | 2021-09-19 to 2021-09-24 | [Contribute](https://web.cvent.com/event/aa9c9e95-4dda-4eea-91ec-a1ebecf42e8b/summary)
 
@@ -41,7 +41,7 @@ All queries will be attempted to be resolved within the specific time zones and 
 
 ### Bi-Weekly Rotations 
 
-On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team. The allocation tracker can be found in the [People Exp/Ops Tracker]. 
+On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team.  
 
 Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
 
@@ -147,12 +147,12 @@ PEA team will need to perform an audit on the tasks in this issue
       - remove any tasks that are unnecessary
       - go through open issue to close/reach out
 
-- Code of Conduct Audit
+- Code of Conduct & Acknowledgement of Relocation Audit
 
-The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct in BambooHR. 
+The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct and Acknowledgement of Relocation in BambooHR. 
 
-    - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
-    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
+    - A quarterly report will be pulled from BambooHR for `Code of Conduct 2021` and `Acknowledgement of Relocation 2021` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly.  **Reminder to not send reminders to team members on unpaid or parental leave**
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 - Anniversary Gift Stock Audit
