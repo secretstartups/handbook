@@ -161,7 +161,7 @@ In some countries, the Growth and Development Benefit may be considered as taxab
 
 For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
 
-Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](peopleops@gitlab.com) for any tax-related questions in your country.
+Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) for any tax-related questions in your country.
 
 
 ### Administration of Growth and Development Reimbursements (Over $1,000)
