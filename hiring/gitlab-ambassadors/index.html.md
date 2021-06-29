@@ -62,7 +62,7 @@ Here are some steps you can take to get started optimizing your profile.
 - It's also a great place to talk about your team and GitLab, and why a candidate would want to work with you.
 - Feel free to use and build from this boilerplate summary about working at GitLab:
 
->  It’s an exciting time to be part of the GitLab team. As the largest all-remote company in the world with team members in more than 65 countries, this is a place where you can contribute from almost anywhere. You’ll be part of an ambitious, productive team that embraces a set of shared values in everything we do. As part of GitLab's (YOUR TEAM) team, my role is to (ADD CONTEXT HERE ABOUT YOUR ROLE AND TEAM).
+>  It’s an exciting time to be part of the GitLab team. As one of the largest all-remote companies in the world with team members in more than 65 countries, this is a place where you can contribute from almost anywhere. You’ll be part of an ambitious, productive team that embraces a set of shared values in everything we do. As part of GitLab's (YOUR TEAM) team, my role is to (ADD CONTEXT HERE ABOUT YOUR ROLE AND TEAM).
 
 **4. Your current role**
 - This is an important one people often miss: Make sure you've listed your current role and connected it to the GitLab page. You'll know this worked when you see the GitLab logo next to your current role.
@@ -167,7 +167,7 @@ Here's a suggestion for how to respond to these messages, particularly if you do
 Feel free to make this your own and personalize it based on the specific message or questions you received:
 
 >  Hi, {NAME}, thank you for your interest in GitLab!
-It's an exciting time to be part of our team. We're the largest all-remote company in the world, with team members in more than 65 countries.
+It's an exciting time to be part of our team. We're one of the largest all-remote companies in the world, with team members in more than 65 countries.
 The best way to share your information with our talent acquisition team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), but first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
 You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/#gitlabs-outbound-talent-acquisition-model), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
 I also recommend reading through our [company values](/handbook/values/) to understand how we work and interact as a team.
