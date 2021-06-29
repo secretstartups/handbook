@@ -13,7 +13,7 @@ Engineering partners closely with our [Diversity, Inclusion & Belonging](/compan
 
 * [Volunteer Coaching Program for Underrepresented Groups](/handbook/engineering/volunteer-coaches-for-urgs/)
 * [Minorities in Tech Mentoring program](/company/culture/inclusion/erg-minorities-in-tech/mentoring/)
-* [FY21-Q3 KR: 75% of Managers in the Engineering Division complete DIB training](75% of Managers in the Engineering Division complete DIB training => 72.45%)
+* [FY21-Q3 KR: 75% of Managers in the Engineering Division complete DIB training] - 75% of Managers in the Engineering Division complete DIB training => 72.45%
 * [Team Member Resource Groups](/company/culture/inclusion/erg-guide/#how-to-join-current-tmrgs-and-their-slack-channels)
 * [Diversity, Inclusion and Belonging GitLab initiatives](/company/culture/inclusion/#diversity-inclusion--belonging-mission-at-gitlab)
 * [Engineering Internship Pilot Program](/handbook/engineering/internships/)
