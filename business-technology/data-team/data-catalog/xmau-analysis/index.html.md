@@ -158,7 +158,7 @@ So you have 2 different sections in the yml definition that can be used:
   <a href='https://app.periscopedata.com/app/gitlab/825261/WIP-[td_xmau]-monthly_targets?widget=11099255&udv=0'>
   Example of what can be done </a>
 
-  <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 11125394, dashboard: 825261, embed: 'v2') %>">
+  <embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 11125394, dashboard: 825261, embed: 'v2') %>"> 
 </details>
 
 <details>
@@ -222,7 +222,7 @@ You need to declare 4 parameters to use it succesfully:
 This snippet will return a compact table with a limited set of dimensions you can play with:
 
 - **created_month**: reporting month
-- **product_tier**: [see definition here]((/handbook/marketing/strategic-marketing/tiers/#overview)). This is representing the product_tier the instance is on, not the product_tier of the subscription linked to the instance. ('All', 'target' are also potential values)
+- **product_tier**: [see definition here](/handbook/marketing/strategic-marketing/tiers/#overview). This is representing the product_tier the instance is on, not the product_tier of the subscription linked to the instance. ('All', 'target' are also potential values)
 - **delivery**: SaaS or Self-Managed ('All', 'target' are also potential values)
 - **breakdown**: SaaS for delivery='SaaS'. delivery='Self-Managed' is split between `Recorded Self-Managed` and `Estimated Self-Managed`. That allows us to create XMAU charts following our design standards ([see example here](https://about.gitlab.com/handbook/product/performance-indicators/#estimated-combined-monthly-active-users-tmau)). Note that 'All', 'target' are also potential values
 - **edition**: CE, EE or SaaS ('All', 'target' are also potential values)
@@ -481,7 +481,7 @@ You need to declare 4 parameters to use it succesfully:
 This snippet will return a compact table with a limited set of dimensions you can play with:
 
 - **created_month**: reporting month
-- **product_tier**: [see definition here]((/handbook/marketing/strategic-marketing/tiers/#overview)). This is representing the product_tier the instance is on, not the product_tier of the subscription linked to the instance. ('All', 'target' are also potential values)
+- **product_tier**: [see definition here](/handbook/marketing/strategic-marketing/tiers/#overview). This is representing the product_tier the instance is on, not the product_tier of the subscription linked to the instance. ('All', 'target' are also potential values)
 - **delivery**: SaaS or Self-Managed ('All', 'target' are also potential values)
 - **breakdown**: SaaS for delivery='SaaS'. delivery='Self-Managed' is split between `Recorded Self-Managed` and `Estimated Self-Managed`. That allows us to create XMAU charts following our design standards ([see example here](https://about.gitlab.com/handbook/product/performance-indicators/#estimated-combined-monthly-active-users-tmau)). Note that 'All', 'target' are also potential values
 - **edition**: CE, EE or SaaS ('All', 'target' are also potential values)
