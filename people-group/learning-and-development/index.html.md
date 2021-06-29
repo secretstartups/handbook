@@ -143,7 +143,7 @@ To request support from the L&D, please see the process for [how to work with us
 
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on three-week sprints.
 
-* The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
+* The L&D team uses [this sprint issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint, backlog, or priority.
 * When a new issue is opened, it should be moved to either the `ld-backlog` or `ld-fyxx-q1-priority` list. This will determine if the issue is a priority for the current quarter, or a backlog issue to be addresses as time allows.
 * The team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
