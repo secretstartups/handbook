@@ -54,7 +54,7 @@ The assistance outlined on this page only applies to paying GitLab.com customers
 
 Requests for assistance can only apply to the GitLab.com account that the customer owns. GitLab will not be providing assistance or information about GitLab.com accounts that the requesting customer does not own. 
 
-If a specific request applies to a GitLab.com account that is not owned by the requesting customer, a legal subpoena will be required. For such cases, the customer should reach out to [GitLab Legal](legal@gitlab.com).
+If a specific request applies to a GitLab.com account that is not owned by the requesting customer, a legal subpoena will be required. For such cases, the customer should reach out to [GitLab Legal](mailto:legal@gitlab.com).
 
 ### Time window and Scope of the log-dive request 
 
