@@ -42,7 +42,7 @@ graph TD
 1. Serve as Data DRI for their functional team, capturing all Data requests, including Data Quality problems
 1. Prioritize and stack-rank Data Issues and Epics, ensuring the Data Issue Board remains up-to-date
 1. Communicate priorities to the Data Team through the Issue Board
-1. Develop a Data handbook page geared to their functional team audience, such as [Data For Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers//)
+1. Develop a Data handbook page geared to their functional team audience, such as [Data For Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
 1. Regularly communicate and cascade data news and practices
 1. Helps to improve Data Quality in source systems
 1. Watch changes in source systems and help incorporate necessary updates in the Enterprise Data Warehouse
