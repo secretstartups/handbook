@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Underperformance"
+description: "We want team members to be successful and should offer every opportunity for them to work effectively."
 ---
 
 ## On this page
@@ -34,7 +35,7 @@ Managing and identifying underperformance can be one of the most difficult respo
   <iframe src="https://www.youtube.com/embed/-mLpytnQtlY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-> If someone is still not performing at an adequate level after going through the underperformance process, recognize that it's not only better for the company for the team member to move on, it's frequently also better for the team member.  Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab.  The longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/about.gitlab.com/handbook/ceo/)
+> If someone is still not performing at an adequate level after going through the underperformance process, recognize that it's not only better for the company for the team member to move on, it's frequently also better for the team member.  Making a decision to move the team member out of the role allows them to find a role where they can be successful, whether in or outside of GitLab.  The longer you wait, the harder it will be to make a change. If it's not going to work out, take action as soon as possible. - GitLab co-founder and CEO [Sid Sijbrandij](/handbook/ceo/)
 
 ### Managing Performance at GitLab
 
