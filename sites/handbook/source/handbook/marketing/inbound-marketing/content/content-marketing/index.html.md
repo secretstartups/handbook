@@ -206,7 +206,7 @@ Follow the instructions for creating an internal gated asset and start the eBook
 **For other GitLab team members:** To request an eBook from the content team, feel free to open a [content request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue. If you would like to write an eBook, we have an [eBook google doc template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) available for GitLab team members to use with general best practices.
 
 **Examples:**
-1. [An intermediate guide to GitOps, Kubernetes, and GitLab](/resources-ebook-gitops-kubernetes-gitlab.html)
+1. [An intermediate guide to GitOps, Kubernetes, and GitLab](https://page.gitlab.com/resources-ebook-gitops-kubernetes-gitlab.html)
 2. [The GitLab Remote Playbook](/company/culture/all-remote/)
 3. [The benefits of single application CI/CD](/resources/ebook-single-app-cicd/)
 
