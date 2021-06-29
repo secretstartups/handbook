@@ -7,7 +7,7 @@ description: Using the kubeSOS to troubleshoot GitLab Cloud Native chart deploym
 
 ## What is KubeSOS
 
-[KubeSos](https://gitlab.com/gitlab-com/support/toolbox/kubesos/-/tree/master) is a tool that uses [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and [helm](https://helm.sh/) to retrieve GitLab cluster configuration and logs from GitLab Cloud Native chart deployments. This information is then zipped into a tar file and shared with the support team to help with troubleshooting GitLab deployements.
+[KubeSos](https://gitlab.com/gitlab-com/support/toolbox/kubesos/-/tree/master) is a tool that uses [kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl) and [helm](https://helm.sh/) to retrieve GitLab cluster configuration and logs from GitLab Cloud Native chart deployments. This information is then zipped into a tar file and shared with the support team to help with troubleshooting GitLab deployments.
 
 ### Requirements
 
@@ -53,7 +53,7 @@ There are two main areas to check when troubleshooting a cloud native applicatio
 
 * **Cluster setup**: We will assume that the cluster is correctly setup as per our [recommendation](https://docs.gitlab.com/charts/installation/cloud/) and enough resources have been allocated to the nodes. We will look at a few commands that would be helpful in confirming this.
 
-* **Application**: This will be our primary area of focus and we will be trying to identify why Gitlab is not working or not behaving correctly.
+* **Application Failures**: This will be our primary area of focus and we will be trying to identify why Gitlab is not working or not behaving correctly.
 
 ## Cluster setup
 
@@ -65,7 +65,7 @@ Check if the nodes are registered correctly and verify that all of the nodes you
 kubectl get nodes
 ```
 
-To get detailed information about the overall health of your cluster, run the following command:
+To get detailed information about the overall health of your cluster, use the following command:
 
 ```bash
 kubectl cluster-info dump
@@ -81,7 +81,7 @@ In order to deploy GitLab on Kubernetes, ensure the setup meets the following:
 * `Helm v3` (3.2.0 or higher).
 * A Kubernetes cluster, version `1.13` or higher. `8vCPU` and `30GB` of RAM is recommended.
 
-Going back to our generated KubeSos output, confirm this by checking:
+Going back to our generated KubeSos output, confirm by checking:
 
 ### kubectl-check
 
@@ -99,7 +99,7 @@ To check the version of `kubectl` installed
 
 ### Debugging Pods
 
-Check the current state of the Pod through checking the checking the `get_pods` file. All pods should be `running` or `completed`.
+Check the current state of the pod through checking the `get_pods` file. All pods should be `running` or `completed`.
 
 ```bash
  % more get_pods
@@ -123,11 +123,11 @@ gitlab-webservice-default-659fdddb9b-cmrbd             2/2     Running     0    
 gitlab-webservice-default-659fdddb9b-hhctp             2/2     Running     0          12m
 ```
 
-Any pod with `pending` status indicates a possible problem which one can confirm by checking the recents events from the `describe_pods` file. If a pod is stuck in `Pending` it means that it can not be scheduled onto a node. This could be due to lack of resources such as CPU or Memory in your cluster. More on this in [Debugging Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#debugging-pods)
+Any pod in `pending` status indicates a possible problem which one can confirm by checking the recents events from the `describe_pods` file. If a pod is stuck in `Pending` it means that it can not be scheduled onto a node. This could be due to lack of resources such as CPU or Memory in your cluster. More on this in [Debugging Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#debugging-pods)
 
 ### Services
 
-For services the main thing to check is if the `loadbalancer` has been assigned an External IP and is not in `pending` state.
+For services the main thing to confirm is if the `loadbalancer` has been assigned an External IP and is not in `pending` state.
 
 ```bash
 % more get_services | grep gitlab-nginx-ingress-controller | grep LoadBalancer
@@ -143,7 +143,7 @@ or in AWS
 gitlab-nginx-ingress-controller LoadBalancer   172.20.164.155   a48.eu-west-5.elb.amazonaws.com   80:32220/TCP,443:30038/TCP,22:30963/TCP   45d
 ```
 
-Further checks would involve checking if all the services have been assigned an [endpoint](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#my-service-is-missing-endpoints)
+Further checks would involve confirming if all the services have been assigned an [endpoint](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#my-service-is-missing-endpoints)
 
 ```bash
 % more endpoints
@@ -167,7 +167,7 @@ Ingress exposes HTTP and HTTPS routes from outside the cluster to services withi
 
 ### Deployments
 
-To quickly confirm the applications that are supposed to running. 
+To quickly confirm the applications that are setup, check the following file: 
 
 ```bash
 % more get_deployments 
@@ -190,7 +190,7 @@ gitlab-task-runner                     1/1     1            1           9d
 gitlab-webservice-default              2/2     2            2           9d
 ```
 
-If any of the deployments are not ready use the `describe_deployments` file to check for reason for failure. Investigation of the pods will also give more insight as to the reason for failure
+If any of the deployments are not ready use the `describe_deployments` file to check the reason for failure. It's is also worth checking for errors in the `describe_pods` file.
 
 ```bash
 % more describe_deployments
@@ -212,7 +212,7 @@ repo-data-gitlab-gitaly-0       Bound    pvc-af7ca188-  50Gi       RWO         s
 
 ### User supplied values
 
-The `values.yaml` file lists all user supplied values that were set while installing GitLab. This is helpful in confirming if the supplied values are correct and will work as they override the chart defaults.
+The `user_supplied_values.yaml` file lists all user supplied values that were set while installing GitLab. This is helpful in confirming if the supplied values are correct and will work as they override the chart defaults. The `all_values.yaml` file has all values that have been used to set up Gitlab. 
 
 ### Application logs
 
