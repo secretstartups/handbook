@@ -137,7 +137,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 * Do not repeat the junior requirement list for more senior levels:
    * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "Extends the {name of lower job level} responsibilities" or "Extends the {name of lower job level} requirements."
 * Specialities may be relevant for some but not all levels. Clarify which specialties each level pertains to. If there are no specialties remove the section.
-* [Segment](/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
+* [Segment](/handbook/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
 * If performance indicators are the same for all the levels on the job family do not list them under the levels section, rather list them at the end of the entire job family. Remove either the performance indicator section in the level section or at the end of the template.
 * Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-operations/#career-ladder). Some teams added a Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
 * The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
@@ -181,7 +181,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * {add a bulleted list of the hiring process steps here}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Role
 {add brief description of the role} The {add the position title} reports to the {add the reporting position and link to the job family or heading (if on the same page).}.
@@ -207,7 +207,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * {add a bulleted list of the hiring process steps here}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 ```
 #### Template 2 Additional Details
 
