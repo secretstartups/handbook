@@ -32,4 +32,4 @@ Note:  Sometimes you can also see Partners section in the end-user's SFDC accoun
 - Cannot sign into to Customers Portal or Resetting password for Customers Portal is not working
 - License cannot upload because there's true-up
 
-To move the ticket forward gather any license or subscription information relevant to the ticket, and then follow the [working with sales workflow](./working_with_sales.html.md) and pass to Sales team.
+To move the ticket forward gather any license or subscription information relevant to the ticket, and then follow the [working with sales workflow](./working_with_sales.html) and pass to Sales team.

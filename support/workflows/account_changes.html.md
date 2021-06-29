@@ -64,7 +64,7 @@ To release an email address for an inactive account:
 1. Check the activity level of the account. Verify that the account shows **no activity** and is not a member of any projects or groups.
 1. [Confirm permission for the changes](#asking-permission).
 1. Update the email address with `+release`. For example, if the email address is `johndoe@example.com`, then update the email address on the account to `johndoe+release@example.com`.
-    - This can be done with Admin access or [via Chatops](./chatops.html.md#Update-a-Users-Primary-Email)
+    - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
 1. Add an [Admin Note](admin_note.html) to the user's account.
 
 ## Asking Permission
