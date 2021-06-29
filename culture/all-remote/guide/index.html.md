@@ -329,7 +329,7 @@ Learn more about considerations for both employee and employer as it relates to 
 
 ## All-remote Certification
 
-GitLab is a pioneer in the all-remote space. As the largest all-remote company in the world, we have developed a [custom certification program](/company/culture/all-remote/remote-certification/) to test and apply knowledge attained throughout the all-remote section of the handbook. Emerging leaders must quickly learn and deploy remote-first practices and skills while expanding their knowledge of remote management and overall remote fluency.
+GitLab is a pioneer in the all-remote space. As one of the world's largest all-remote companies, we have developed a [custom certification program](/company/culture/all-remote/remote-certification/) to test and apply knowledge attained throughout the all-remote section of the handbook. Emerging leaders must quickly learn and deploy remote-first practices and skills while expanding their knowledge of remote management and overall remote fluency.
 
 ## Remote work guides for teams
 
