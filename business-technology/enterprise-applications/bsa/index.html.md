@@ -33,7 +33,7 @@ Linkedin Profile: [/courtney-meddaugh](https://www.linkedin.com/in/courtney-medd
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@kayokocooper` <br>
-Location:  Duluth, GA, USA
+Location:  Duluth, GA, USA  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
 **Lis Vinueza - Senior Business Systems Analyst**  
@@ -108,9 +108,9 @@ User stories are often expressed in a simple sentence, structured as follows:
 “As a [type of user], I [want to], [so that].”
 {: .alert .alert-info}
 
-- _As a [type of user]_: Who are we building this for? Describes who will benefit from this function. Notice that the role is not simply “the user.” There are different types of users and so we want the role to be more specific than “user” but describe the type of user that will benefit from the story."
-- _Wants to_: Describes their intent, not the features they use. What is it they’re actually trying to achieve? This statement should be implementation free — if you’re describing any part of the UI and not what the user goal is you're missing the point."
-- _So that_: How does their immediate desire to do something like this fit into their bigger picture? What’s the overall benefit they’re trying to achieve? What is the big problem that needs solving?"
+- _Type of user:_ Who are we building this for? Describes who will benefit from this function. Notice that the role is not simply “the user.” There are different types of users and so we want the role to be more specific than “user” but describe the type of user that will benefit from the story."
+- _Want to:_ Describes their intent, not the features they use. What is it they’re actually trying to achieve? This statement should be implementation free — if you’re describing any part of the UI and not what the user goal is you're missing the point."
+- _So that:_ How does their immediate desire to do something like this fit into their bigger picture? What’s the overall benefit they’re trying to achieve? What is the big problem that needs solving?"
 
 > User Stories template [here](https://docs.google.com/spreadsheets/d/17AGafZAEOCdZTPIxy4mgrGlNAJ2Bo7NWjLkPebwnFY8/edit?usp=sharing).
 
@@ -129,7 +129,7 @@ The purpose of the CRP is to validate a software application against the busines
 ## How Can You Contact Us?
 Slack Channel: `#enterprise-apps`    
 Slack Tag: `@bsa`   
-GitLab: You can also tag the Business Systems Analysts Team in GitLab using: `@gitlab-com/business-technology/enterprise-apps/bsa`
+GitLab: You can also tag the Business Systems Analysts Team in GitLab using `@gitlab-com/business-technology/enterprise-apps/bsa`
 
 ## How We Work
 
@@ -208,7 +208,7 @@ The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues
 
 **How we operate**:<br>
 1. Meetings are lead by function leaders and have a bi-weekly or less frequent cadence.  
-1. The Enterprise Applications slack channel (_##enterprise-apps_) is used to provide updates on the projects programs and meetings, publishing the recordings and decision logs.   
+1. The Enterprise Applications slack channel (_#enterprise-apps_) is used to provide updates on the projects programs and meetings, publishing the recordings and decision logs.   
 1. Rolly will be categorized by Business Partners so that they can see their impacting programs easily.
 
 #### Finance Engagement Meeting
