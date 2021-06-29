@@ -112,6 +112,7 @@ For more info on the capabilities of each role, [see the knowledge base article]
 1. [PathFactory QA Review request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_qa_review)
 1. [New PathFactory form request](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_form)
 1. [PathFactory Content Audit](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_content_audit)
+1. [PathFactory Bulk Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_bulk_upload)
 
 **[Campaigns](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/)**
 
