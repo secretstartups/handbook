@@ -221,11 +221,11 @@ Depending on the individual, a person may feel dissatisfaction when given the in
 - assault or injury (physical abuse)
 - threats, defamation, insult or slander (mental abuse)
 - isolation, ostracization or neglect (cutting them off from human relationships)
-forcing a team member to perform certain taks, which are clearly unnecessary for the business or impossible to be performed or interrupting their normal duties (excssive work demands)
+forcing a team member to perform certain tasks, which are clearly unnecessary for the business or impossible to be performed or interrupting their normal duties (excessive work demands)
 - ordering a team member to perform menial tasks which are far below the team member's ability or experience and do not provide any work at all for the team member relevant to the business (insufficient work demands)
-- excessively inquiring into the private affairs of a team member (invasion of privacy) 
+- excessively inquiring into the private affairs of a team member (invasion of privacy)
 
-Team members who feel that they may have been subjected to power harassment may bring their complaint to their People Business Partner, who will engage the appropriate internal consultation services and respond to claims.  GitLab is prohibited from dismissing or treating unfairly any team members who report harassment cases or cooperate in an investigation or consultation process. 
+Team members who feel that they may have been subjected to power harassment may bring their complaints to their People Business Partner, who will engage the appropriate internal consultation services and respond to claims.  GitLab is prohibited from dismissing or treating unfairly any team members who report harassment cases or cooperate in an investigation or consultation process.
 
 **Prohibition of Sexual Harassment**
 
@@ -233,11 +233,11 @@ Team members are prohibited from any activities that cause disadvantage or disco
 
 **Prohibition of Harassment Due to Pregnancy, Childbirth, Child Care Leave, or Family Care Leave**
 
-Team members are prohibited from any activities that are damaging to the work environment of other employees by way of speech or behavoiur related to pregnancy, childbirth, etc., or use of systems or measures related to pregnancy, childbirth, child care, family care, etc.  GitLab shall take necessary measures in managing employment to prevent harassment due to pregnancy, childbith, child care leave, family care leave, etc. at the workplace.
+Team members are prohibited from any activities that are damaging to the work environment of other employees by way of speech or behaviour related to pregnancy, childbirth, etc., or use of systems or measures related to pregnancy, childbirth, child care, family care, etc.  GitLab shall take necessary measures in managing employment to prevent harassment due to pregnancy, childbirth, child care leave, family care leave, etc. at the workplace.
 
 **Prohibition of Any Other Forms of Harassment**
 
-In addition to the prohibitions listed above, team members are prohibited from any other forms of harassment at the workplace that are damaging to the work environment of other team members such as by way of speech or behavious related to sexual orientation or gender identification.
+In addition to the prohibitions listed above, team members are prohibited from any other forms of harassment at the workplace that are damaging to the work environment of other team members such as by way of speech or behaviours related to sexual orientation or gender identification.
 
 ### GitLab LTD (The UK)
 
