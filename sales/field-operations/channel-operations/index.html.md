@@ -413,7 +413,7 @@ If you need to involve a partner, please email partnersupport@gitlab.com, instea
    - [Public Sector Matrix](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng)
    - [MSP Matrix](https://gitlab.my.salesforce.com/sfc/p/61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM)
  
-Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](partners.gitlab.com).
+Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com).
 
 
 
@@ -514,7 +514,7 @@ Partners can find the discount table in the Asset Library on the [GitLab Partner
 
 *   Unauthorized partners are ones that have not signed a GitLab Partner Agreement.
 *   Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted. Please reach out to the #channel-programs-ops Slack channel.
-*   If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal ](partners.gitlab.com) to sign up. The process is fairly simple and quick.
+*   If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal ](https://partners.gitlab.com) to sign up. The process is fairly simple and quick.
 *   A key goal of the GitLab Channel Program is the success of our authorized partners. We are developing our channel to provide coverage across geos, customer segments and vertical markets.
 
 
