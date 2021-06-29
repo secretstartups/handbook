@@ -56,7 +56,7 @@ Other names considered:
 <!-- blank line -->
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=ExG8_bnIAMI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/ExG8_bnIAMI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 <!-- blank line -->
@@ -195,10 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-06-01 | 2021-06-04 | April Malone - Sijbrandij Personal EA | [Melissa Ushakov](https://gitlab.com/mushakov)- Sr. Product Manager - Manage:Access |
-| 2021-06-07 | 2021-06-11 | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial | April Malone - Sijbrandij Personal EA |
-| 2021-06-14 | 2021-06-18 | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect | [Taylor Medlin](https://gitlab.com/taylor) - Solutions Architect, Commercial |
-| 2021-06-21 | 2021-06-25 | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager | [Vincy Wilson](https://gitlab.com/vincywilson) - Quality Engineering Manager, Fulfillment, Growth & Protect |
 | 2021-06-28 | 2021-07-01 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
 | 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
 | 2021-07-12 | 2021-07-13 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
@@ -214,8 +210,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
 | 2021-10-04 | 2021-10-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | AVAILABLE - REMOTE |
-| 2021-10-18 | 2021-10-22 | [Danielle Morrill](https://gitlab.com/dmor), Sr. Director Inbound Marketing | [Chris Hill](https://gitlab.com/chillosu) |
-| 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | [Danielle Morrill](https://gitlab.com/dmor), Sr. Director Inbound Marketing |
+| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | [Chris Hill](https://gitlab.com/chillosu) |
+| 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
@@ -310,7 +306,7 @@ Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the C
 1. Solve urgent issues. For example, help solve a complaint from a customer or coordinate the response to a technical issue.
 1. Share [thanks](/handbook/communication/#say-thanks) in the `#thanks` channel in Slack when it comes from a customer or wider community member in a meeting.
 1. Compile a report on a subject.
-1. Write an unfiltered blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [the blog handbook](/handbook/marketing/blog/unfiltered/) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
+1. Write an blog post on the public company blog, a recorded reflection of your experience, or a CEO Interview on a topic of your choice. Please see [information about pitching and publishing a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post) for information about the publishing process, and be sure to read previous CEO shadows' blog posts before you start writing to ensure that your post has a new angle. Link this to the table in the [Alumni](/handbook/ceo/shadow/#alumni) section. These do not need to be approved by the CEO but he will happily review them if you'd like. The posts should however follow the parameters outlined in the [additional note-taking guidelines](https://docs.google.com/document/d/1vkHile2eHVTEl1S7-qv4eEFDc64ghUSesBfvFNz7qfI/edit). In the event you have any questions about what is okay to share, please reach out to the GitLab Legal team in slack at `#legal` or the Corporate Communications team in `#corpcomms`.
 1. Ensure visual aids and presentations are visible to guests during in-person meetings.
 1. Prepare for and receive guests at Mission Control.
 1. Offer GitLab swag to guests at Mission Control before they leave.
@@ -456,6 +452,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
 | Valley Meetings                  | No notes       | Timekeeping    |
 | L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
+| Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
@@ -1034,3 +1031,7 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-05-03 | 2021-05-14 | [Mikołaj Wawrzyniak](https://gitlab.com/mikolaj_wawrzyniak) | Backend Engineer, Product Intelligence | |
 | 2021-05-10 | 2021-05-21 | [James Komara](https://gitlab.com/ja-me-sk) | Area Sales Manager | |
 | 2021-05-17 | 2021-05-28 | [Joshua Lambert](https://gitlab.com/joshlambert) | Director of Product, Enablement | |
+| 2021-05-24 | 2021-06-04 | [Melissa Ushakov](https://gitlab.com/mushakov) | Group Manager, Product Management - Plan | |
+| 2021-06-01 | 2021-06-11 | [April Malone](https://gitlab.com/april5) | Sijbrandij Personal EA | |
+| 2021-06-07 | 2021-06-18 | [Taylor Medlin](https://gitlab.com/taylor) | Solutions Architect - Commercial| |
+| 2021-06-14 | 2021-06-25 | [Vincy Wilson](https://gitlab.com/vincywilson) | Quality Engineering Manager, Fulfillment, Growth & Sec | |

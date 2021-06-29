@@ -259,7 +259,7 @@ Email [my EBA](/handbook/eba/#executive-business-administrator-team) to coordina
 When preparing scripts or documents in my voice, please follow these guidelines. This list can help you prepare a draft that is as close as possible to my natural way of communicating. For additional information or questions, please contact the `#external-comms` Slack channel or the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
 
 1. Avoid “we” or “our” when discussing the product. I don’t wish to speak on behalf of others or to imply that GitLab team members are owners of GitLab or its users. Everyone can contribute = everyone has some ownership of GitLab.
-1. Less is more. If you can say something in fewer words, do so.
+1. Less is more. If you can say something in fewer words, do so. I prefer speaking in shorter sentences. 
 1. Always [be inclusive](/company/culture/inclusion/#inclusive-language). No gendered terms if it can be avoided.
 1. Be as direct and specific as possible. Don’t assume the reader/audience knows what you mean ([low-context communication](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)). No vague statements.
 1. Remove unnecessary words, assuming statements or lead-ins that don't add value. Ex: “As you know.”
