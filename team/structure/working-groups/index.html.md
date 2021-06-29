@@ -97,7 +97,7 @@ If something isn't on our [Not Public list](/handbook/communication/#not-public)
 1. Preparation
    1. Determine an appropriate project name using [limited access naming conventions](/handbook/communication/#limited-access).
    1. Create an overview page and add the link to [Active Working Groups](/company/team/structure/working-groups/#active-working-groups-alphabetic-order). You can share limited information, but capture key team members, including the facilitator, executive stakeholder, and functional lead.
-   1. If working in the handbook, evaluate whether the page should be confidential or be housed in a new project with limited access. Consider working in the [private handbook](/handbook/handbook-usage/#the-private-handbook). We use this when information may need to be iterated on or MR branches may need to be created before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
+   1. If working in the handbook, evaluate whether the page should be confidential or be housed in a new project with limited access. Consider working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook). We use this when information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
    1. Maintain a list of working group members and other folks who are participating in or informed of the project. This list should be available to all participating team members. Folks should not be added to this list until it is confirmed that they understand what can be communicated.
    1. Ensure that each working group team member understands what can be communicated externally and internally. 
    1. Have private Slack channels that include folks who are directly working on the project. 
@@ -107,7 +107,7 @@ If something isn't on our [Not Public list](/handbook/communication/#not-public)
 1. Proactively share information if the project is no longer limited access
    1. Notify widely of progress or exit outcomes when information can be shared more broadly.
    1. Evaluate which artifacts and communication material can be made internally available or public.
-      1. If you were working in the [private handbook](/handbook/handbook-usage/#the-private-handbook), follow instructions to make a merge request against the public repo.
+      1. If you were working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook), follow instructions to make a merge request against the public repo.
       1. Transition members to public Slack channels and archive private channels.
       1. Deprecate private agendas. Link this to a new agenda document. 
       1. Consider making GitLab Groups and Projects public or avialable to a broader audience.
