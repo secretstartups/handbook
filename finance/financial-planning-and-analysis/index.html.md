@@ -452,7 +452,7 @@ The Finance team is the owner of the GitLab Hiring Plan (GHP), which is the SSOT
 
 When you are ready to open a new vacancy reach out to your Recruiter. They will open a GitLab issue or communicate directly with your FBP to get a GitLab Hiring Plan ID (GHP ID.) While GitLab strongly believes that you should be able to backfill a role when someone departs, please check with your eGroup member before reaching out to Talent Acquisition for all backfill positions.
 
-Each role has a unique GHP ID number listed, which is part of the information you need to provide to the [Talent Acquisition Manager or Lead](/handbook/hiring/talent-acquisition-alignment/#recruiter-coordinator-and-sourcer-alignment-by-department) for your department to have the position opened in Greenhouse. If there is no GHP ID, the job will not be opened in Greenhouse.
+Each role has a unique GHP ID number listed, which is part of the information you need to provide to the [Talent Acquisition Manager or Lead](/handbook/hiring/recruiting-alignment/) for your department to have the position opened in Greenhouse. If there is no GHP ID, the job will not be opened in Greenhouse.
 
 If you are looking to pull forward a headcount and are in the Sales division please follow [this process](/handbook/sales/field-operations/sales-strategy/sales-headcount/). Due to the territory alignment related to Sales headcount, please also reach out to the Sales Strategy & Analytics team before reaching out to your Finance Business Partner.
 
