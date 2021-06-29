@@ -196,6 +196,9 @@ Please reach out to a member of the [Engineering Productivity team](/handbook/en
     - Optional: Use a single Green bar for the current month (in progress). Preferred for metrics which accumulate through a month but optional due to the performance impact to render the chart.
     - Optional: Use a Black line for rolling average.
 *  For bar charts, the bar for the current month should be highlighted in green and the bars for previous months should be highlighted in purple. Highlighting the current month in green helps to quickly show that data for the current month is not complete.
+  * This can be quickly implemented via a `case` `when` clause in Sisense. Example below:
+  * `CASE WHEN date_month < date_trunc('month',current_date) THEN MEDIAN(open_age_in_days) ELSE NULL END AS "Historical Median Open Days",`
+  * `CASE WHEN date_month = date_trunc('month',current_date) THEN MEDIAN(open_age_in_days) ELSE NULL END AS "Current Median Open Days",`
 *  Each Sisense dashboard for KPIs should consider the following settings to ensure timely updates:
     - [Setting up auto-refresh](https://about.gitlab.com/handbook/business-ops/data-team/platform/periscope/#sts=Requesting%20Automatic%20Dashboard%20Refresh) for a frequency that fits the KPI
     - [Excluding Dashboards from Auto Archive](https://dtdocs.sisense.com/article/auto-archive)
