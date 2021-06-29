@@ -20,7 +20,7 @@ twitter_creator: "@gitlab"
 
 ![GitLab all-remote team](/images/all-remote/GitLab-All-Remote-Zoom-Team-Tanuki.jpg){: .shadow.medium.center}
 
-GitLab is a pioneer in the all-remote space. As the largest all-remote company in the world, we have developed a custom certification program to test and apply knowledge attained throughout the [all-remote](/company/culture/all-remote/) section of the handbook. Emerging leaders must quickly learn and deploy remote-first practices and skills while expanding their knowledge of remote management and overall remote fluency. 
+GitLab is a pioneer in the all-remote space. As one of the largest all-remote companies in the world, we have developed a custom certification program to test and apply knowledge attained throughout the [all-remote](/company/culture/all-remote/) section of the handbook. Emerging leaders must quickly learn and deploy remote-first practices and skills while expanding their knowledge of remote management and overall remote fluency. 
 
 Presented at a self-directed pace, the GitLab remote certification is designed to give [new managers](/company/culture/all-remote/being-a-great-remote-manager/) and [individual contributors](/company/culture/all-remote/getting-started/) an opportunity to master all-remote business concepts and build key skills in remote subject areas. 
 
@@ -30,7 +30,7 @@ Participants will gain a point of view on all-remote through [self-paced learnin
 
 1. Improve your remote fluency
 1. Build organization, team management, and networking skills in a remote setting
-1. Understand how GitLab has built and scaled the largest all-remote company
+1. Understand how GitLab has built and scaled one of the largest all-remote companies
 1. Develop a framework for your own organization
 1. Gain full transparency into the processes, policies, and procedures GitLab uses to be successful
 
