@@ -357,6 +357,21 @@ ARR Plan refers to board Plan in which the expense Plan was built.
 | Ahead of ARR Plan (and either spending at or less than expense Plan) based on actuals and forecasted pipeline. | Identify and isolate the expense difference. We analyze the impact to our key metrics and FY23 and collectively as an eGroup evaluate whether we reallocate the dollars.                                                                                                            |
 | Trending ahead of ARR Target and have confidence we will sustain based on actuals and forecasted pipeline.     | Review FY23 impact and decide as an eGroup where to invest ahead of FY23                                                                                                                                                                                                            |
 
+### Off Cycle Budget Approvals
+
+When we are on track to exceed our bookings target, we can consider off-cycle budget approvals. This will help to accomplish the following:
+
+1. Ensure we continue to hit our targets on which the budget was built (mainly efficiency targets).  We spent alot of time building a granular budget.
+1. If money is under forecast, it can be reallocated in that group for that same expense.
+1. If money is under forecast and wants to be reallocated to a different cost type or another group, it is brought to egroup for approval.
+
+Please note these process details:
+
+1. When you are under expense in a certain category, you can redeploy in the same category within your organization. For example, you can redeploy non-headcount funds in another non-headcount category without formal approvals. You couldn't deploy headcount funds in a new non-headcount category without formal approvals.
+1. If you are under expense in headcount, you can’t redeploy to a field marketing event or another non headcount category.  All but emergency approval requests should we raised in the [E-Group Weekly](/handbook/e-group-weekly/).
+1.  24hr approval is possible in emergency situations. A first step is to post the request in #e-group-confidential.
+1. Collectively, we’ll do the right thing for the business. A lot of the off cycle budget approvals will be non-recurring. 
+
 ## Investor and Board Communication
 
 Throughout the year the Executive Business Partner team puts together a calendar of events for board members and other events associated with planning. Those events can be found in the [GitLab Board Calendar](https://docs.google.com/spreadsheets/d/1GW59GiT0MLXEgMxy2bN0ZVcbMs_wssOkP2c59f19YTk/edit?usp=sharing) sheet.
