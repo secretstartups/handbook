@@ -323,7 +323,7 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 
 The following process outlines steps for the L&D team to take when planning and implementing the Skill of the Month.
 
-Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
+Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
 
