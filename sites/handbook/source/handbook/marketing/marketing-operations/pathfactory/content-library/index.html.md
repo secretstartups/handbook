@@ -71,6 +71,8 @@ You can [bulk upload multiple new assets](https://nook.pathfactory.com/nook/s/ar
 1. Upload your file and select the checkbox `Overwrite all duplicate content assets`. 
 1. Select the `Upload File` button.
 
+Content owners understand how their content should be tagged. Marketing operations can assist with a bulk upload but are not responible for tagging the content with metadata (types, topics, etc.). If you would like marketing operations assistance with a bulk upload, open an issue in the marketing operations project using the [PathFactory Bulk Upload](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=pathfactory_bulk_upload) template.
+
 ### Analyst reports
 
 Expiry dates will not automatically deactive content after expiration. You must manually deactivate the content if it’s past the expiry date. To expire an analyst report from PathFactory, [open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Gated-Content-Expiration-Analysts-MPM) in the digital marketing programs project using the `Gated-Content-Expiration-Analysts-MPM` issue template.
