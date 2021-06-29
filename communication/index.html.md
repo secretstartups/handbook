@@ -655,7 +655,7 @@ The goal of Focus Fridays is to maximize efficiency by creating designated meeti
 - Urgent and important one-off internal meetings might not be avoidable, but we should aim to minimize them as much as possible and defer to async work where we can
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
 - Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
-- Consider using Fridays to dedicate time to your [learning and development](/people-group/learning-and-development/)
+- Consider using Fridays to dedicate time to your [learning and development](/handbook/people-group/learning-and-development/)
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
