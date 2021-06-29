@@ -196,12 +196,12 @@ Exceptional community members may be able to participate, as well.
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
 | 2021-06-28 | 2021-07-01 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | [Simon Liang](https://gitlab.com/sliang2), Principal Internal Communications Manager |
-| 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO  | Unavailable - Sid on PTO |
-| 2021-07-12 | 2021-07-13 | Unavailable - Sid on PTO  | Unavailable - Sid on PTO |
-| 2021-07-19 | 2021-07-23 | Unavailable | Unavailable |
-| 2021-07-26 | 2021-07-30 | Unavailable | Unavailable |
-| 2021-08-02 | 2021-08-06 | AVAILABLE - REMOTE | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director|
-| 2021-08-09 | 2021-08-13 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-12 | 2021-07-13 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-19 | 2021-07-23 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-26 | 2021-07-30 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-08-02 | 2021-08-06 | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director |
+| 2021-08-09 | 2021-08-13 | AVAILABLE - REMOTE | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager |
 | 2021-08-16 | 2021-08-20 | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager | AVAILABLE - REMOTE |
 | 2021-08-30 | 2021-09-03 | AVAILABLE - REMOTE | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
