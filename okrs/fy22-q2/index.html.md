@@ -20,7 +20,7 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 1. CEO: New delivery methods launched
 [Epic 1422](https://gitlab.com/groups/gitlab-com/-/epics/1422)
-1. **CEO KR:** GitLab Horse generally available (GA). [Issue 11225](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11225)
+1. **CEO KR:** Complete a functional prototype of GitLab Horse. [Issue 11225](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11225)
 1. **CEO KR:** Complete Product & Development work for Cloud Licensing. [Issue 11226](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11226)
 1. **CEO KR:** 5 'Upgrade features' available (when going from CE to EE). [Issue 11227](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11227)
 
