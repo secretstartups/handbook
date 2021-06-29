@@ -20,7 +20,7 @@ Many items on this page are a guidelines for our [Executive Business Administrat
 
 ### CEO Bio
 
-Sid Sijbrandij is the Co-Founder and CEO of GitLab, the single application for the DevOps lifecycle and the world’s largest all-remote company. Sid’s career path has been anything but traditional. He saw the first Ruby code in 2007 and loved it so much that he taught himself how to program. It was during his time as a Ruby programmer that he first encountered GitLab, and quickly discovered his passion for open source.
+Sid Sijbrandij is the Co-Founder and CEO of GitLab, the single application for the DevOps lifecycle and one of the world’s largest all-remote companies. Sid’s career path has been anything but traditional. He saw the first Ruby code in 2007 and loved it so much that he taught himself how to program. It was during his time as a Ruby programmer that he first encountered GitLab, and quickly discovered his passion for open source.
 
 In 2012, he helped commercialize GitLab, and by 2015, he led the company through Y-Combinator’s Winter 2015 batch. Under his leadership, the company has experienced 50x growth in the last six years and expanded from nine to more than 1,300 remote team members across 66+ countries and regions.
 
