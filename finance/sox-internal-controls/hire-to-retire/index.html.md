@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Hire to Retire"
+description: "Hire to Retire includes the process of recruitment, payroll and separation from the organisation. This page decribes the various stages of the Hire to Retire process."
 ---
 
 ## On this page
@@ -424,7 +425,7 @@ This section explains about processing payroll for US employees. The process sta
 This section explains about payroll processing for PEOs and contract employees (Non-US).
 
 **Payroll processing for NON-US entities, PEOs, and Contract employees** **(H2R.C.10, H2R.C.11, H2R.C.12, and H2R.C.13)**
-* The [payroll change report(s) Google Sheets](https://docs.google.com/document/d/1vK8KfN4EyDDk0KlzgECX3r-8kp_eDRv9oVO6RBYCB_0/edit) for all Non-US locations are received from People Ops per paycheck date (varies based on [location](ur/handbook/finance/payroll/#pay-datel)).
+* The [payroll change report(s) Google Sheets](https://docs.google.com/document/d/1vK8KfN4EyDDk0KlzgECX3r-8kp_eDRv9oVO6RBYCB_0/edit) for all Non-US locations are received from People Ops per paycheck date (varies based on [location](/handbook/finance/payroll/#pay-date)).
 * Enter in the [password for the sheet](https://docs.google.com/document/d/1hekX6aprj4tYxSXjdbefTyn9b6Lb8D-LKAKItpK2Xbs/edit)
 * Verify if any [changes](https://docs.google.com/document/d/1-qT_jTMcujUzex7LSNAgHY24ec3h6805fTff2q3Zi5c/edit) have occurred in the location.
 * The [commission process](https://docs.google.com/document/d/1GdNsBIR0h2SDUsp-AKEcV4obVEF2ebgTfhU3X3wAt4g/edit) is the same as the US Payroll. Please “Processing Commissions” in the US Payroll.
@@ -449,7 +450,7 @@ This section explains about payroll processing for PEOs and contract employees (
   * The check is done to ensure that there is sufficient balance one day before the paycheck day.
 
   **Australia**<br>
-  Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](ur/handbook/finance/payroll/#peol).
+  Once approved, the Director - Corporate Controller will send a funding request to the AP team, and AP  will wire the payroll funding to IIPAY. **(H2R.C.14 and H2R.C.15)**. For more info [click here](/handbook/finance/payroll/#peol).
 
 **For payroll remittance of PEOs**
 
