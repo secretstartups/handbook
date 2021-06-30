@@ -60,7 +60,7 @@ These internal Slack channels may be helpful to join.
   * [#is-this-known](https://gitlab.slack.com/messages/CETG54GQ0) - find information about canary failures or bugs
   * [#questions](https://gitlab.slack.com/messages/C0AR2KW4B) - ask questions and see other questions (and the answers) from other [GitLab Team Members](/handbook/communication/top-misused-terms/)
   * [#thanks](https://gitlab.slack.com/messages/C038E3Q6L) - give and see thanks for the awesomeness that [GitLab Team Members](/handbook/communication/top-misused-terms/) do
-  * [#peopleops](https://gitlab.slack.com/messages/C0SNC8F2N) - interact with people ops
+  * [#people-connect](https://gitlab.slack.com/messages/C02360SQQFR) - interact with people ops
 
 ## Manager
 
