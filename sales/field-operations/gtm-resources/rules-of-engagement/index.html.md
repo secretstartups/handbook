@@ -10,6 +10,8 @@ description: "Rules of Engagement"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+- - -
+
 {::options parse_block_html="true" /}
 
 ### Objectives  
@@ -152,46 +154,40 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 <details>
 <summary markdown='span'>
- Sales Ops Operators Guide for Account and Opportunity Review and Moves
- </summary> 
+  Sales Ops Operators Guide for Account and Opportunity Review and Moves
+</summary>
+ 
+ **Best Practices**
+1. Before moving an SDR Account or non-Sales owned account check for duplicate accounts in the system. If a duplicate is found, merge the records.
+1. Before moving an SDR Account or non-Sales owned account check if the account is a child account and needs to be parented. If so, parent the account and assign to the owner of the parent account.
 
-    **Best Practices**
+ **Case Review Process**
+ 1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
+ 1. Update any of the data on the account if needed to reflect what was provided
+ 1. Determine if the request meets any of the criteria for an immediate move. 
+    1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
+    1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7)
+ 1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
 
-    1. Before moving an SDR owned Account or non-Sales owned account check for duplicate accounts in the system. If a duplicate is found, merge the records.
-    1. Before moving an SDR owned Account or non-Sales owned account check if the account is a child account and needs to be parented. If so, parent the account and assign to the owner of the parent account.
+ **Quarterly Account Review Process**
+1. Use the reports on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7) to review the requested account moves. 
+   1. Prospect and Customer accounts with all approvals and  with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
+   1. Prospect and Customer accounts with `CARR` over $50K with all approvals will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved, follow the step above
+   1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
-    **Case Review Process**
+**Holdover Account and Opportunity Review Process**
+1. Review the [Account & Opportunity Holdover Expiration reports](https://gitlab.my.salesforce.com/01Z4M000000oYC7) and move the expired accounts and opportunities to the current `Account Owner` and remove the date from the field. 
+1. Remove the value from the `Holdover Expiration Date` after transfer of ownership (Note that this cannot be removed from accounts past stage 6)
+1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
 
-    1. When a case is received, review to see if consensus has been met by all parties and if the supporting documentation is included in the chatter feed
-    1. Update any of the data on the account if needed to reflect what was provided
-    1. Determine if the request meets any of the criteria for an immediate move. 
-        1. Immediate move - Move the account to the new owner. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
-        1. If the account does not meet the criteria for an immediate move, select the Picklist Value of `Quarterly Review` in the `Account Reassignment Status` field so the account will show up on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7)
-    1. Close the case and indicate in chatter that this will be reviewed and if approved by Sales Operations when they can expect the account ownership to transfer
+**Annual Review Process** 
+1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
 
-    **Quarterly Account Review Process**
-
-    1. Use the reports on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7) to review the requested account moves. 
-        1. Prospect and Customer accounts with all approvals and  with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
-        1. Prospect and Customer accounts with `CARR` over $50K with all approvals will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved, follow the step above
-        1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
-
-    **Holdover Account and Opportunity Review Process**
-
-    1. Review the [Account & Opportunity Holdover Expiration reports](https://gitlab.my.salesforce.com/01Z4M000000oYC7) and move the expired accounts and opportunities to the current `Account Owner` and remove the date from the field. 
-    1. Remove the value from the `Holdover Expiration Date` after transfer of ownership (Note that this cannot be removed from accounts past stage 6)
-    1. Accounts are not eligible for a second holdover request. If this request is made the ASMs must agree and must be approved by Sales Operations Leadership
-
-    **Annual Review Process**
-
-    1. Ensure these requests are reviewed and approved as part of the annual territory planning process. Utilize the dashboard to capture all requests from Q3 & Q4 to be moved at the beginning of Q1
-
-    **Order Type Review**
-
-    - Validate that the requestor has provided adequate details to justify the change request.
-    - Follow the below steps for each Common Manual Override Scenarios:
-        1. **Customers Returning More than 180  Days After Subscription Term End Date:** Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
-        1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
-        1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
+**Order Type Review** 
+- Validate that the requestor has provided adequate details to justify the change request.
+- Follow the below steps for each Common Manual Override Scenarios:
+    1. **Customers Returning More than 180  Days After Subscription Term End Date:** Review the subscription term end date from the existing subscription.  If it is > 180 days, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
+    1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
 
  </details>
