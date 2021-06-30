@@ -217,11 +217,10 @@ director_role = 'Interim Director of Quality Engineering'
 roles_regexp = /(Engineer in Test|Engineering Productivity|Quality Engineering|Staff Infrastructure Analyst|Senior Operations Analyst)/
 %>
 
-#### Director and managers
+#### Management team
 
-<%= direct_team(role_regexp: roles_regexp, manager_role: vp_role, manager_role: director_role) 
-roles_regexp != /(Staff Infrastructure Analyst|Senior Operations Analyst)/
-%>
+<%= direct_team(manager_role: vp_role, role_regexp: /(Interim Director|Engineering Productivity)/) %>
+<%= direct_team(manager_role: director_role) %>
 
 #### Individual contributors
 
