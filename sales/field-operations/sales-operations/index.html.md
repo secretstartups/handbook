@@ -33,7 +33,7 @@ Sales Operations main focus is on the Sales organization and supports this group
 - Lindsay Schoenfeld - Senior Manager, Sales Operations
 - Amber Stahn - Manager, Sales Operations
 - Tav Scott - Sales Operations Manager, Commercial Sales
-- To Be Hired - Senior Sales Operations Analyst
+- Kira Savage - Senior Sales Operations Analyst
 - Meri Gil Galindo - Sales Operations Analyst
 - Jeny Bae - Associate Sales Operations Analyst
 - Monika Deshmukh - Associate Sales Operations Analyst
