@@ -77,7 +77,7 @@ This does not ensure there will be no consequences. However, it will greatly red
 If a threat is made against you or someone else that makes you or another team member question their safety due to an issue, merge request, email or other work related matters do not hesitate to initiate the following process:
 
 1. Contact local law enforcement. Note the proper number to contact in your locality and whether the emergency, or non-emergency number should be called.
-1. Notify the People Operations team in #peopleops.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
+1. Notify the People Operations team in #people-connect.  A private channel may then be opened with your People Business Partner, People Operations Specialist, Executive Business Administrator, Manager, and the security team helping with the situation.
 1. The following steps may be taken based on the threat:
     - Internal threat assessment
     - Temporary accommodation (friends, family, hotel, etc.)
