@@ -117,7 +117,7 @@ The Director, Product Management is a [grade 10](/handbook/total-rewards/compens
 * Maintain a comprehensive understanding of GitLab's overall, and Section specific Product Direction to spot, propose and complete appropriate [global optimizations](/handbook/values/#global-optimization) of our R&D investment
 * Analyze GTM metrics and propose and complete improvements to our R&D and GTM interactions including [pricing](/company/pricing/), product positioning and process
 * Maintain priorities for and champion [acquisitions](/handbook/acquisitions/) that impact our [product maturity](/direction/maturity/)
-* Perform [product walk-throughs](/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
+* Perform [product walk-throughs](/handbook/product/product-processes/#walk-through) regularly to highlight opportunities for improved workflows that span groups, stages and section.
 * Exemplify, coach others on, and contribute to [GitLab values](/handbook/values/)
 
 #### Director of Product Management - Requirements
@@ -228,7 +228,7 @@ Candidates for this position can generally expect the hiring process to follow t
 * Finally, candidates may be asked to schedule a 50 minute final interview with our CEO
 
 ### VP of Product Management
-The VP of Product Management reports to the [Chief Product Officer](/job-families/product/evp-of-product/).
+The VP of Product Management reports to the [Chief Product Officer](/job-families/product/chief-product-officer/).
 
 #### VP of Product Management - Job Grade
 
@@ -263,7 +263,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * 50 minute interview with Director, Product
 * 50 minute interview with CEO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ## Performance Indicators
 Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:

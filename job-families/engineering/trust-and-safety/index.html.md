@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Trust and Safety"
+description: "Trust & Safety team members are the builders and maintainers of the anti-abuse world at GitLab.com."
 extra_js:
 - libs/mermaid.min.js
 ---
@@ -201,7 +202,7 @@ The Trust and Safety Manager is a [grade 8](/handbook/total-rewards/compensation
 * Capability to make sound decisions in the face of ambiguity and imperfect knowledge
 * Robust understanding of abuse-related issues, vectors, processes, and a solid grasp of the current global abuse landscape
 * First hand experience with major cloud providers - GCP, AWS, Azure, Digital Ocean
-* Alignment with Manager responsibilities as outlined in [Leadership at GitLab](company/team/structure/#management-group)
+* Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Trust and Safety 
 The Senior Manager, Trust and Safety reports to the [Director of Security Operations](/job-families/engineering/security-management/#director-of-security) role.
@@ -262,4 +263,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will then be invited to schedule an interview with Director of Security Operations
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
