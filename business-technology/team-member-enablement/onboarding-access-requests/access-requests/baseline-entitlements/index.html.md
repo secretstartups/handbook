@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Baseline Role-Based Entitlements"
+description: "The goal of baseline and role-based entitlements is to increase security while reducing access management complexity by moving towards role-based access control."
 ---
 
 ## On this page
@@ -78,7 +79,7 @@ This list has been pre-approved so if any team-member needs access to these syst
 
 The goal of baseline and role-based entitlements is to increase security while reducing access management complexity by moving towards role-based access control. The basic idea is that if we configure all of our systems for access based on the specific job families that require access to each system, then as we scale we can simply add new GitLab team-members to these pre-defined groups and system-level access will be granted automatically.
 
-Find a list of all our current role based entitlement in the [Access Request project](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks) and more information on the automation process in the ["Access Requests issues" handbook page](https://about.gitlab.com/handbook/people-group/engineering/access-requests-issues/) of the People Group.
+Find a list of all our current role based entitlement in the [Access Request project](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks) and more information on the automation process in the ["Access Requests issues" handbook page](/handbook/people-group/engineering/onboarding/#access-request-issue-creation) of the People Group.
 
 ### **Instructions**
 
