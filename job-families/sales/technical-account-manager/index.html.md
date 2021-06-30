@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Technical Account Manager"
+description: "The Technical Account Management (TAM) team focuses on the themes of align, enable, and expand."
 ---
 
 The Technical Account Management (TAM) team focuses on the themes of align, enable, and expand.  We align with customers' desired business outcomes, enable them on their existing use cases, and work with them to expand into additional use cases, ensuring ongoing and ever-improving customer return-on-investment. 
@@ -285,7 +286,7 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 
 ## Senior Director of TAMs
 
-The Senior Director of TAMs reports to the [VP of Customer Success](job-families/sales/vp-of-customer-success/)
+The Senior Director of TAMs reports to the [VP of Customer Success](/job-families/sales/vp-of-customer-success/)
 
 ###  Senior Director of TAMs Job Grade
 

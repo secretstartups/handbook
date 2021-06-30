@@ -86,7 +86,7 @@ The Learning & Development Generalist is a [grade 6](/handbook/total-rewards/com
 
 ### Learning & Development Partner
 
-The Learning & Development Manager reports to the [Senior Director, People Success](job-families/people-ops/people-leadership/#senior-director-people-success).
+The Learning & Development Manager reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/#senior-director-people-success).
 
 #### Learning & Development Partner Job Grade
 
@@ -128,11 +128,11 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, our CEO may choose to conduct a final interview.
 * As a final assessment, candidates will be required to prepare and present a short 15 minute training on giving feedback, to the Director of People Operations.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Learning & Development Manager 
 
-The Learning & Development Manager reports to the [Senior Director, People Success](job-families/people-ops/people-leadership/#senior-director-people-success).
+The Learning & Development Manager reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/#senior-director-people-success).
 
 #### Learning & Development Manager Job Grade
 
@@ -181,7 +181,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, our CEO may choose to conduct a final interview.
 * As a final assessment, candidates will be required to prepare and present a short 15 minute training on giving feedback, to the Senior Director of People Success
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Performance Indicators
 - [Engagement Survey Growth and Development Score](/handbook/people-group/learning-and-development/#engagement-survey-growth-and-development-score--x)

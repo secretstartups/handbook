@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Renewals Operations Analyst"
+description: "The Renewal Analyst Team is responsible for providing forecast clarity, scoring renewal growth and retention likelihood, and developing retention action plans."
 ---
 
 The Renewal Analyst Team is responsible for providing forecast clarity, scoring renewal growth and retention likelihood, and developing retention action plans. Key objectives include:
@@ -15,7 +16,7 @@ The Renewal Analyst Team is responsible for providing forecast clarity, scoring 
 
 ### Renewals Operations Analyst (Intermediate)
 
-The Renewals Operations Analyst (Intermediate) reports to the [Senior Manager Customer Success Operations](job-families/sales/sales-operations/#senior-manager-sales-operations).
+The Renewals Operations Analyst (Intermediate) reports to the [Senior Manager Customer Success Operations](/job-families/sales/sales-operations/#senior-manager-sales-operations).
 
 #### Renewals Operations Analyst (Intermediate) Job Grade
 
@@ -52,7 +53,7 @@ The Renewals Operations Analyst (Intermediate) is a [grade 6](/handbook/total-re
 
 ### Senior Renewals Operations Analyst
 
-The  Senior Renewals Operations Analyst reports to the [Senior Manager Customer Success Operations](job-families/sales/sales-operations/#senior-manager-sales-operations).
+The  Senior Renewals Operations Analyst reports to the [Senior Manager Customer Success Operations](/job-families/sales/sales-operations/#senior-manager-sales-operations).
 
 ####  Senior Renewals Operations Analyst Job Grade
 
