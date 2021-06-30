@@ -12,33 +12,6 @@ title: "Acquisition Process"
 This is a detailed view of our acquisition process. For more information about
 our acquisitions approach visit our [acquisitions handbook](/handbook/acquisitions/).
 
-### Acquisitions Deal Funnel
-
-The corporate development team conducts a comprehensive screening of our industry ecosystem in order to identify potential acquisition opportunities. Below is an overview of our target funnel.
-
-| Funnel                                                                                                                                                                  | Volume / Year |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| **Pipeline Building**                                                                                                                                                   |               |
-| DevOps ecosystem companies                                                                                                                                              | 15,000+       |
-| Sourced Pipeline: generate pipeline of companies operating in a DevOps segment relevant for GitLab from three sources:                                                  | 1,000         |
-| _--> 1. Third-party databases_                                                                                                                                          | _800_         |
-| _--> 2. Inbound (companies approach us or PMs refer us)_                                                                                                                | _100_         |
-| _--> 3. Pro-active (Identify key areas with Product leadership)_                                                                                                        | _100_         |
-| Prioritized Pipeline                                                                                                                                                    | 400           |
-| _--> Review funding status, headcount and headquarters location_                                                                                                        |               |
-| _--> Prioritize potential softlanding deals (&lt;$1M deal consideration) in countries without GitLab hiring restrictions_                                               |               |
-| _--> Prioritize by product priority_                                                                                                                                    |               |
-| **Exploratory**                                                                                                                                                         |               |
-| Reach out for intro calls                                                                                                                                               | 400           |
-| Intro calls with priority targets                                                                                                                                       | 300           |
-| Qualified Pipeline: Share relevant call summary with product management lead to confirm interest in setting up initial call between product management lead and company | 100           |
-| Product and Tech Call                                                                                                                                                   | 50            |
-| **Early diligence**                                                                                                                                                     |               |
-| Early Diligence, Team Interviews, Business Case                                                                                                                         | 30            |
-| **Confirmatory due diligence**                                                                                                                                          |               |
-| Signed Term Sheet / Confirmatory Due Diligence                                                                                                                          | 15            |
-| **Integration**                                                                                                                                                         |               |
-| Deal Signing, Closing & Integration                                                                                                                                     | 10            |
 
 ## Acquisition process
 
