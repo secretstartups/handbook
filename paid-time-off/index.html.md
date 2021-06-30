@@ -57,7 +57,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 1. It's important to take PTO while you have something you *want* to do, rather than waiting until you *need* the time off.
 1. Please note that we still **help** clients during official days off, unless they are official days off in both the Netherlands and the U.S. For any particular day, we try to always have people working from countries that aren't observing an official holiday. If you need to work during an official day off in your country, you should take a different day off in return.
 1. Please also remember to turn on your out of office message and include the contact details of a co-worker in case anything urgent or critical comes into your inbox while you're away. If you have to respond to an incident while on-call outside of your regular working hours, you should feel free to take off some time the following day to recover and be well-rested. If you feel pressured to _not_ take time off to rest, refer to this part of the handbook and explain that you had to handle an incident.
-1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `peopleops@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
+1. If during a PTO event, you realize that certain days will need to be changed from PTO to Sick Time, or another category, please email `people-connect@gitlab.com` with your specific request and People Operations Specialists will complete your request, per the [instructions](/handbook/paid-time-off/#instructions-for-people-ops-and-total-rewards-to-update-pto-by-roots-events). Events can only be changed after the PTO by Roots event has completed itself.
 
 ### Communicating Your Time Off
 
@@ -100,7 +100,7 @@ Returning from PTO of any length can feel overwhelming. Consider implementing th
 1. When returning from paid time off, it can be helpful to schedule a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) or two on the day of your return to get caught up, share stories from your time off, and simply reconnect with your team members. It also provides a nice break from to-dos and unread emails. This type of conversation may occur organically in a colocated office but needs to be managed with intent in an all-remote company.
 
 #### Adjust/Remove PTO from past events 
-The People Operations team is able to adjust active PTO events and past PTO events. If you need the team to adjust an event, please send an email to `peopleops@gitlab.com` with the dates and time e.g. 'please remove two hours of PTO from October 31st'. 
+The People Operations team is able to adjust active PTO events and past PTO events. If you need the team to adjust an event, please send an email to `people-connect@gitlab.com` with the dates and time e.g. 'please remove two hours of PTO from October 31st'. 
 
 We encourage everyone to fully step away from work on their days off but understand that unforseen events can arise. 
 
