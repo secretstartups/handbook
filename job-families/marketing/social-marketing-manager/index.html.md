@@ -55,18 +55,29 @@ _Vary by job grade but include:_
 
 ### You must share our [values](/handbook/values/) and work under those values
 _A sample of how GitLab's core values show up in Social Marketing:_
-- 🤝 Collaboration
- - Across teams and functions as well as externally with customers, followers, and partners. We are not islands to ourselves and lean on each other to deliver on our work. Do everything as kindly as possible. It's also critical to assume positive intent when working with team members that don't work in social media.
-- 📈 Results
- - Make a difference in the hours you planned to work and then do it again next week. Use GitLab to manage your work. Own everything you touch and create a bias for action in social media marketing.
-- ⏱️ Efficiency
- - Go for the boring solutions when we can't recreate the wheel. Search for the answers you seek in our handbook first. Build repeatable projects in a way that lets others service themselves in the next round.
-- 🌐 Diversity, Inclusion & Belonging
- - Be comfortable or willing to get comfortable with communication with team members asynchronously. Find a way to include your quirkiness in your work. Consider inclusive language and imagery in everything we promote internally and externally.
-- 👣 Iteration
- - Don't wait to contribute. Just make a change today. Make progress for our work in minimum viable changes consistently. Remember that all of our work is in draft. We don't do big reveals at GitLab, so be ready to share your rough drafts with everyone throughout the process (This is scary for social marketers, but our team is prepared to help you grow into this practice.)
-- 👁️ Transparency
- - Everything is public by default, including our typos, bad takes, and iterations. We strive to be transparent as often and as clearly as possible with each other and our community. Always share the _why_ and not just the what. We're practitioners and educators.
+##### 🤝 Collaboration
+
+Across teams and functions as well as externally with customers, followers, and partners. We are not islands to ourselves and lean on each other to deliver on our work. Do everything as kindly as possible. It's also critical to assume positive intent when working with team members that don't work in social media.
+
+##### 📈 Results
+
+Make a difference in the hours you planned to work and then do it again next week. Use GitLab to manage your work. Own everything you touch and create a bias for action in social media marketing.
+
+##### ⏱️ Efficiency
+
+Go for the boring solutions when we can't recreate the wheel. Search for the answers you seek in our handbook first. Build repeatable projects in a way that lets others service themselves in the next round.
+
+##### 🌐 Diversity, Inclusion & Belonging
+
+Be comfortable or willing to get comfortable with communication with team members asynchronously. Find a way to include your quirkiness in your work. Consider inclusive language and imagery in everything we promote internally and externally.
+
+##### 👣 Iteration
+
+Don't wait to contribute. Just make a change today. Make progress for our work in minimum viable changes consistently. Remember that all of our work is in draft. We don't do big reveals at GitLab, so be ready to share your rough drafts with everyone throughout the process (This is scary for social marketers, but our team is prepared to help you grow into this practice.)
+
+##### 👁️ Transparency
+
+Everything is public by default, including our typos, bad takes, and iterations. We strive to be transparent as often and as clearly as possible with each other and our community. Always share the _why_ and not just the what. We're practitioners and educators.
 
 ## Levels
 
