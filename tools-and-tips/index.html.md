@@ -595,7 +595,7 @@ We have created [tools and tips for managing your time off](/handbook/paid-time-
 The GitLab Team Meetings Calendar is available to all team members and can be found in your calendars list.
 You can find the details for the Company Calls, Group Conversations, 101s, and other teams' meetings here, so you can attend a different team's meeting and ask questions, learn about what they're working on, and get to know the rest of the GitLab Departments and teams.
 These meetings are open to everyone in GitLab.
-If you are creating a new team meeting, please copy it to the GitLab Team Meetings calendar, and reach out to the People Experience team by pinging `@people_exp` in the `#peopleops` Slack channel with any questions or requests.
+If you are creating a new team meeting, please copy it to the GitLab Team Meetings calendar, and reach out to the People Experience team by pinging `@people_exp` in the `#people-connect` Slack channel with any questions or requests.
 Please reach out to the People Experience team for any requests and changes to the GitLab Team Meetings calendar.
 
 To add an event to this calendar:
