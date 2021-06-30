@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Enterprise Area Sales Manager Manager Operating Rhythm"
+title: "Enterprise Area Sales Manager Operating Rhythm"
 description: "Successful management includes onboarding, reviewing Command Plans, opportunity coaching, strategic coaching, career development and performance management"
 ---
 
