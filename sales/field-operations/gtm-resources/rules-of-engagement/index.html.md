@@ -151,7 +151,9 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 **Process to Request Order Type Changes:**  In the event that Order Type needs to be changed, please chatter @sales-support on the opportunity with details as to why the change is being requested.  This will trigger a case, which will be reviewed by the Sales Operations and Deal Desk teams. 
 
 <details>
-    <summary markdown='span'>Sales Ops Operators Guide for Account and Opportunity Review and Moves</summary> 
+<summary markdown='span'>
+ Sales Ops Operators Guide for Account and Opportunity Review and Moves
+ </summary> 
 
     **Best Practices** 
     1. Before moving an SDR owned Account or non-Sales owned account check for duplicate accounts in the system. If a duplicate is found, merge the records.
