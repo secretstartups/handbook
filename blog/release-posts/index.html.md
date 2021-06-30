@@ -1376,8 +1376,9 @@ extras:
     description: | # supports markdown
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque.
 ```
+### Deprecations, removals and breaking changes
 
-### Deprecations
+#### Deprecations
 
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
@@ -1421,7 +1422,7 @@ Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/
 
 When approved, include the "Ready" label in the MR before merging.
 
-#### Repeat Deprecation notices
+##### Repeat Deprecation notices
 
 Deprecations are announced for at least 2 releases in advance of the final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the subsequent instances of a deprecation, follow these steps:
 1. Create a MR and copy content directly from the previous MR that was merged.
@@ -1431,7 +1432,7 @@ Deprecations are announced for at least 2 releases in advance of the final remov
 
 ---
 
-### Removals
+#### Removals
 
 _To be added by Product Managers or Engineering Managers and merged by either._
 
