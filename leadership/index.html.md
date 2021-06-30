@@ -260,7 +260,7 @@ Managers can participate in our [manager challenge program](/handbook/people-gro
 
 ## People Group
 
-Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Group` dropdown. The team may also be reached in the `#peopleops` chat channel.
+Feel free to reach out to anyone in the [People Group](https://about.gitlab.com/handbook/people-group/) for further support on leadership development topics. You can find us on the [team page](/company/team/), using the `People Group` dropdown. The team may also be reached in the `#people-connect` chat channel.
 
 ## Being a public company
 
