@@ -34,7 +34,7 @@ Frontend Engineers on the Marketing team work on our marketing site: about.GitLa
  
 ### Frontend Engineer (Intermediate)  
 
-The Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](job-families/marketing/marketing-web-developer-designer/).
+The Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/).
  
 #### Frontend Engineer (Intermediate) Job Grade
 The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -49,7 +49,7 @@ The Frontend Engineer (Intermediate) is a [grade 6](/handbook/total-rewards/comp
  
 ### Senior Frontend Engineer  
 
-The Senior Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](job-families/marketing/marketing-web-developer-designer/).
+The Senior Frontend Engineer (Intermediate) reports the the [Senior Manager, Digital Experience](/job-families/marketing/marketing-web-developer-designer/).
  
 #### Senior Frontend Engineer Job Grade
 The Senior Frontend Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).  
@@ -78,7 +78,7 @@ The next step in the Frontend Engineer job family is not yet defined at GitLab.
  
 ## Hiring Process
  
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, you can find their job title on our [team page](/company/team/).
  
 * Select candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a 30 minute interview with our Senior Manager, Digital Experience.
@@ -86,4 +86,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Growth Marketing.
 * Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
