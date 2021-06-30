@@ -26,20 +26,6 @@ The Revenue Programs Manager is responsible for developing and executing effecti
 ## Levels
 Read more about [levels at GitLab](/handbook/hiring/vacancies/#definitions).
 
-### Junior Revenue Programs Manager
-The Junior Revenue Programs Manager reports to the Senior Director of Field Enablement.
-
-#### Junior Revenue Programs Manager Job Grade
-The Junior Revenue Programs Manager role is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Junior Revenue Programs Manager Responsibilities
-* Provide reporting, analytics, and communications support for prioritized sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
-
-#### Junior Revenue Programs Manager Requirements
-* Strong analytical skills
-* Exceptional communication and presentation skills
-* Bachelor or University Degree, or relevant work experiences
-
 ### Revenue Programs Manager (Intermediate) 
 The Revenue Programs Manager (Intermediate) reports to the Senior Director of Field Enablement.
 
@@ -47,10 +33,14 @@ The Revenue Programs Manager (Intermediate) reports to the Senior Director of Fi
 The Revenue Programs Manager (Intermediate) role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Revenue Programs Manager (Intermediate) Responsibilities
+* Provide reporting, analytics, and communications support for prioritized sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 * Own quarterly pipeline planning to ensure there is structure, scalability and transparency with clear in-quarter execution outputs
 * Collaboratively define success measures and reporting frameworks for implemented programs
 
 #### Revenue Programs Manager (Intermediate) Requirements
+* Strong analytical skills
+* Exceptional communication and presentation skills
+* Bachelor or University Degree, or relevant work experiences
 * Skills to build, maintain, update and optimize critical dashboards in Salesforce.com and business intelligence (BI) tools for the purpose of tracking the impact of sales programs
 * Experience managing or designing sales programs, campaigns, and go-to-market strategies
 * Exceptional communication and presentation skills (including with senior management stakeholders)
@@ -65,35 +55,28 @@ The Senior Revenue Programs Manager role is a [grade 7](/handbook/total-rewards/
 * Identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 * Work comfortably with complex data sets to identify pipeline gaps and prescribe and prioritize solutions to meet business pipeline gaps
 * Conduct regular program reviews with leaders, providing status updates and risk mitigation strategies
+* Work cross-functionally (with Portfolio Marketing, Demand Gen, Revenue Marketing, Field Enablement, Sales Strategy, and more) to orchestrate the development, execution, and operationalization of scalable and measurable quarterly sales programs that deliver results
+* Serve as a trusted advisor and business partner to Sales leaders to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
 
 #### Senior Revenue Programs Manager Requirements
 * Proven ability to design and operationalize prescriptive sales programs and strategies
 * Proven track record of cross-stakeholder program management and execution with operational rigor
 * Ability to move fluidly from big picture to details
-
-### Staff Revenue Programs Manager
-The Staff Revenue Programs Manager reports to the Senior Director of Field Enablement.
-
-#### Staff Revenue Programs Manager Job Grade
-The Staff Revenue Programs Manager role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Staff Revenue Programs Manager Responsibilities
-* Work cross-functionally (with Portfolio Marketing, Demand Gen, Revenue Marketing, Field Enablement, Sales Strategy, and more) to orchestrate the development, execution, and operationalization of scalable and measurable quarterly sales programs that deliver results
-
-#### Staff Revenue Programs Manager Requirements
 * Ability to work collaboratively with Sales & Marketing teams and effectively develop relationships with stakeholders at all levels of the organization to remove impediments that block the team’s ability to meet project objectives
-
-### Principal Revenue Programs Manager
-The Principal Revenue Programs Manager reports to the Senior Director of Field Enablement.
-
-#### Principal Revenue Programs Manager Job Grade 
-The Principal Revenue Programs Manager role is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Principal Revenue Programs Manager Responsibilities
-* Serve as a trusted advisor and business partner to Sales leaders to identify and prioritize sales programs that drive quality pipeline and ARR aligned to GitLab’s go to market (GTM) motions
-
-#### Principal Revenue Programs Manager Requirements
 * Over achievement in a quota-carrying sales role strongly preferred
+
+### Manager, Revenue Programs Team
+The Manager, Revenue Programs Team reports to the Senior Director of Field Enablement.
+
+#### Manager, Revenue Programs Team Job Grade
+The Manager, Revenue Programs Team role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Manager, Revenue Programs Team Responsibilities
+* Lead a team of Revenue Program Managers
+
+#### Manager, Revenue Programs Team Requirements
+* People management experience, preferably in a Sales, Sales Ops, Sales Analytics, Sales Enablement, or related function
+* Ability to influence others
 
 ## Performance Indicators 
 - [Sales pipeline coverage](/handbook/sales/performance-indicators/#sales-pipeline-coverage)
