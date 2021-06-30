@@ -203,8 +203,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-08-02 | 2021-08-06 | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director |
 | 2021-08-09 | 2021-08-13 | AVAILABLE - REMOTE | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager |
 | 2021-08-16 | 2021-08-20 | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager | AVAILABLE - REMOTE |
-| 2021-08-30 | 2021-09-03 | AVAILABLE - REMOTE | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
-| 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | AVAILABLE - REMOTE (short week due to Holiday) |
+| 2021-08-30 | 2021-09-03 | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
+| 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
 | 2021-09-13 | 2021-09-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-09-20 | 2021-09-24 | UNAVAILABLE - Contribute | UNAVAILABLE - Contribute |
 | 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
