@@ -24,7 +24,7 @@ This page shares information specific to Trevor Knudsen, Executive Business Admi
 
 Here are my preferences for ad hoc communications with me:
 
-- Not confidential action items: Slack `@tknudsen` in a public channel (recommended channels include #eba-team, and #peopleops)
+- Not confidential action items: Slack `@tknudsen` in a public channel (recommended channels include #eba-team, and #people-connect)
 - Confidential: Slack @tknudsen in a private channel (create a private channel and invites others as necessary, if needed)
 - Confidential to me only: DM Slack `@tknudsen`, or email at `tknudsen@gitlab.com`
 - Social/fun: Slack or Zoom please! If you happen to be near where I reside, in person is also great!  Try to avoid email, I like to keep my inbox clean as much as possible.

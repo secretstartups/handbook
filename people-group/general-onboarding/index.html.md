@@ -70,7 +70,7 @@ This call is available for new team members to ask questions about onboarding, b
 By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:
 
 - #new_team_members (go say hi and introduce yourself)
-- #peopleops (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
+- #people-connect (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
 - #diversity_inclusion_and_belonging (connect with other team members to find out more about what we do in Diversity, Inclusion and Belonging)
 - #it_help (any IT related support needed, such as issues with laptop, 1Password, Okta, JAMF, etc)
 - #expense-reporting-inquiries (need some info on your expenses, what can be expensed, approving expenses, etc)
@@ -84,7 +84,7 @@ By default, all new team members are added to the below Slack channels from day 
 
 ## Managers of New Team Members
 
-An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#peopleops` Slack channel.
+An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
 
 ## Compliance
 

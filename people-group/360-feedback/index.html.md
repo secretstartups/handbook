@@ -31,7 +31,7 @@ In Q2 FY'22 we will launch our next 360 feedback cycle. Last year, due to the ad
 - Date TBD - Closing the cycle
 - Date TBD - Feedback Retrospective info to be provided. [(see 2020 retrospective)](https://gitlab.com/gitlab-com/people-group/General/-/issues/617)
 
-_Please note: for the purpose of this 360 feedback cycle we have historically only included team members with a hire date of before May 1st in the automatic email communications. If you are a team member with a hire date of post May 1st, please reach out to the People Specialist team (#PeopleOps) to be manually added._
+_Please note: for the purpose of this 360 feedback cycle we have historically only included team members with a hire date of before May 1st in the automatic email communications. If you are a team member with a hire date of post May 1st, please reach out to the People Specialist team (#people-connect) to be manually added._
 
 **360 via Culture Amp**
 

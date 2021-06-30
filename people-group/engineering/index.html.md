@@ -39,7 +39,7 @@ If you want to report bugs about existing integrations, you can use any of the f
 
 #### Urgent attention
 
-We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/), the [nominator bot](https://nominatorbot.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #peopleops-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
+We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/), the [nominator bot](https://nominatorbot.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #people-connect-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
 
 ### Our workflow
 

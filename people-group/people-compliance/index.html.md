@@ -21,7 +21,7 @@ People Compliance works collaboratively with multiple functional teams throughou
 * Tag us in GitLab
    * `@gl-peoplecompliance`
 * Slack
-   * The #peopleops Slack channel is the best place for questions relating to our team.
+   * The #people-connect Slack channel is the best place for questions relating to our team.
 
 ## Defining People Compliance
 
