@@ -20,13 +20,13 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 
 ### Product Analysis group members
 
-* [Carolyn Braza](https://about.gitlab.com/company/team/#cbraza): Manager, Product Data Analysis
-* [Dave Peterson](https://about.gitlab.com/company/team/#dpeterson1): Senior Product Analyst
-* [Nicole Galang](https://about.gitlab.com/company/team/#nicolegalang): Product Analyst
-* Product Analyst: TBH
+* [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
+* [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
+* [Nicole Galang](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
+* [Product Analyst](/job-families/product/product-analyst/): TBH
 
 The product analysts also work closely with members from the central Data team, including:
-* [Mathieu Peychet](https://about.gitlab.com/company/team/#mpeychet_): Senior Data Analyst
+* [Mathieu Peychet](https://about.gitlab.com/company/team/#mpeychet_): [Senior Data Analyst](/job-families/finance/data-analyst/#senior-data-analyst)
 
 The Product Analysis group hopes to partner more closely with data engineers on the Data 
 team, as well.
@@ -40,7 +40,7 @@ You can see our current milestone [here](https://gitlab.com/gitlab-data/analytic
 
 ### Issue Intake
 
-For all product analysis requests, please create an issue on [data team project](https://gitlab.com/gitlab-data/analytics/-/issues), 
+For all product analysis requests, please create an issue on [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues), 
 and add a `product analysis` label, as well as your section and group labels. More details below.
 
 All data issues with `product analysis` labels will appear on a [product analysis board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=product%20analytics).
@@ -56,48 +56,47 @@ the submission deadline for any planned work.
 
 #### Issue Templates
 
-* For ad hoc requests, please use the "Product Analysis Request" (link to come)
-* For experimentation analysis requests, please use the [experiment template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md)
+Please select the appropriate template based on your type of request.
+| Request Type | Template |
+| --- | --- |
+| Ad hoc / Default | [Product Analysis Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/) |
+| Experimentation analysis | [experiment_template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md) |
 
-#### Scope Creep
+#### Labels
 
-[Scope creep](https://en.wikipedia.org/wiki/Scope_creep) is a problem everyone faces. Please keep 
-in mind that [team capacity](https://about.gitlab.com/handbook/product/product-analysis/#capacity) 
-is a zero-sum game, so scope creep in one issue can mean that we are unable to complete other 
-work planned for that milestone.
-
-Additional scope that adds a material amount of work* to an issue will need to be captured as 
-net-new work in a new issue. That new issue will then go through the prioritization and planning 
-process again. The best way to avoid scope creep is to have thorough, complete requirements in 
-the issue when you initially open it.
-
-_*"material amount of work" is to be determined by the analyst working on the issue, not the 
-stakeholder_
-
-#### Urgent Issues
-
-If an urgent matter comes up, please open an issue and tag your analyst contact (and/or @cbraza). 
-Please include why the issue is urgent, when it is needed by, and who is the intended audience.
-
-If you have not heard from the tagged analyst within 1 business day (or earlier if the issue 
-requires a faster turn-around), please send a message in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) 
-and feel free to reach out to @cbraza.
+All Product Analysis issues should carry the `product analysis` label. (This will automatically be 
+added for issues created using the templates). When you open a new issue, please add applicable section and 
+group labels.
 
 #### Issue Weight
 
-Each issues is assigned a weight based on complexity. (Please note that complexity is different 
-from estimated time commitment).
+Each issue is assigned a weight based on estimated time commitment*. If a partially-completed 
+issue rolls over from one milestone to another, the weight will be adjusted to reflect the time 
+commitment of the outstanding work.
 
-#### Prioritization Labels
+| Weight Value | Estimated time to complete |
+| --- | --- |
+| 1 | < 1 hour |
+| 2 | 2 hours |
+| 3 | 4 hours |
+| 5 | 1 day |
+| 8 | 2-3 days |
+| 13 | 1 week |
+| 21 | 2+ weeks |
+| 34 | 1+ month |
+| 55 | 1+ quarter |
+| 89 | 1+ year |
+| 144 | 1+ decade |
+
+If a single issue has a weight greater than the length of the milestone (2 weeks), it should be 
+broken into smaller units of work. (This also could be an indicator that the issue should be 
+converted to an epic).
 
 ### Issue Prioritization
 
-The Manager, Product Data Analysis will help prioritize the work based on importance/capacity and 
-work closely with the Director of Product Growth, Chief Product Officer and VP, Product Management on trade-offs if needed.
-
-#### 
-
-### Issue Prioritization
+The Manager, Product Data Analysis will help prioritize work based on importance and capacity, and 
+will work closely with the Director of Product Growth, Chief Product Officer, and VP, Product 
+Management on trade-offs (if needed).
 
 The prioritization process is completed by the Product Analysis team.
 1. The product analysis group works on a 2-week milestone cadence
@@ -107,6 +106,52 @@ The prioritization process is completed by the Product Analysis team.
 1. Issue will be assigned an estimated projected time commitment
 1. New issues will be considered alongside existing issues to set prioritization for the upcoming 
 milestone, adjusting task load based on past milestone performance.
+
+#### Prioritization Labels
+
+Prioritization labels will be added by the Product Analysis team.
+
+| Label | Priority |
+| ----- | -------- |
+| pa-priority::1 | High and/or urgent |
+| pa-priority::2 | Medium |
+| pa-priority::3 | Low, non-urgent |
+
+#### Milestone Planning
+
+Final prioritization will be set during the milestone planning meeting, which takes places the 
+Thursday before a new milestone begins. The team will consider new and existing issues, along 
+with issues in progress.
+
+### Urgent Issues
+
+If an urgent matter comes up, please open an issue and tag your analyst contact (and/or [at]cbraza). 
+Please include why the issue is urgent, when it is needed by, what it will inform or how it will 
+be used, and who is the intended audience.
+
+If you have not heard from the tagged analyst within 1 business day (or earlier if the issue 
+requires a faster turn-around), please send a message in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) 
+and feel free to reach out to [at] cbraza.
+
+### Scope Creep
+
+[Scope creep](https://en.wikipedia.org/wiki/Scope_creep) is a problem everyone faces. Please keep 
+in mind that [team capacity](/handbook/product/product-analysis/#capacity) is a zero-sum game, 
+so scope creep in one issue can mean that we are unable to complete other work planned for 
+that milestone.
+
+Additional scope (change in requirements, additional follow-ups, etc) that adds a material amount 
+of work* to an issue will need to be captured as net-new work in a new issue. The new issue will 
+then go through the normal prioritization and planning process. The best way to avoid scope creep 
+is to have thorough, complete requirements in the issue when you initially open it. The issue 
+templates should help guide you to include all relevant information.
+
+_*"material amount of work" is to be determined by the analyst working on the issue, not the 
+stakeholder_
+
+### Issue Workflow
+
+The Product Analysis team follows the [same workflow as the Data Team](/handbook/business-technology/data-team/how-we-work/#workflow-summary).
 
 ### Capacity
 
