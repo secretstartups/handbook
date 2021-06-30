@@ -33,14 +33,14 @@ but rather refers to the framework with which we design and analyze experiments.
 {: .alert .alert-info}
 
 Our experimentation design and analysis framework leverages two different "types" of experiments: 
-**Randomized Control Trials (True RCTs)** and **Pseudo-Randomized Control Trials (Pseudo-RCTs)**. The 
+**True Randomized Control Trials (True RCTs)** and **Pseudo-Randomized Control Trials (Pseudo-RCTs)**. The 
 two types differ in terms of statistical rigor (including p-value interpretation), which in turn 
 impacts required sample size and experiment duration.
 
 **True RCTs are optimized for statistical certainty and pseudo-RCTs are optimized for experiment 
 velocity.**
 
-### Randomized Control Trials (True RCTs)
+### True Randomized Control Trials (True RCTs)
 
 True RCTs are the most statistically rigorous experiments which, if designed and run properly, result 
 in causal inference. In other words, we can actually say that the experiment _caused_ a change 
