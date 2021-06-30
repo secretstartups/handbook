@@ -204,7 +204,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. Remember Handbook First.
    When you announce anything, include links to the respective Handbook pages for more information. Consider adding link to an Issue if the information is not public yet.
 1. Optional AMA.
-   If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the #peopleops Slack channel, and include a Google Doc in the invite for questions.
+   If desired and appropriate, offer a company wide Zoom call to host an AMA (Ask Me Anything). Oftentimes, questions can be managed within the Discussion tab of a GitLab Issue or Merge Request. For broad announcements, such as registration opening for GitLab Contribute, an AMA may be better suited for a large volume of inquiries. To schedule a company wide call, please make a request in the #people-connect Slack channel, and include a Google Doc in the invite for questions.
 
 ### Ask Me Anything Meetings
 
@@ -565,7 +565,7 @@ All social calls are in the Team Meetings Calendar - the sessions are titled Git
 
 Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking. Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
 
-If you have any questions around the Social Call schedule please be sure to engage with the People Experience Team via the #peopleops channel. Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
+If you have any questions around the Social Call schedule please be sure to engage with the People Experience Team via the #people-connect channel. Feedback and suggestions are welcome and can be documented in the comments section of [this issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/969).
 
 _Using call attendance data along with feedback and suggestions provided by team members call topics will be reviewed and if necessary adjusted on a quarterly basis._
 
@@ -1234,7 +1234,7 @@ To get in touch with the [e-group](/company/team/?department=executive) on Slack
 | CTO    | `#cto`       |
 | CRO    | `#cro`       |
 | CMO    | `#marketing` |
-| CPO    | `#peopleops` |
+| CPO    | `#people-connect` |
 | CLO    | `#legal`     |
 
 ### Key Slack channels
@@ -1258,7 +1258,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
 | `#office-today`                      | GitLab is an [all-remote](/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it.                                                                                          |
 | `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
-| `#peopleops`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.).                  |
+| `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.).                  |
 | `#questions`                         | For any general help with anything, really, and Git. If you have a question but you're not sure in which channel you should ask it, questions is always a great place!                                                               |
 | `#random`                            | Anything and everything from photos, news, food, music, etc.                                                                                                                                                                         |
 | `#talent acquisition`                | For questions about [referrals](/handbook/hiring/referral-process/), the [hiring process](/handbook/hiring/), and/or candidate status.                                                                                               |

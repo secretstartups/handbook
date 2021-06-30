@@ -29,7 +29,7 @@ There are a lot of general channels, just to name a few:
 
 To raise an issue with a specific team, please use below most commonly used channels;
 
-* **`#peopleops`**: For general People Operations tasks such us onboarding, offboarding, letter of employment, Team calender events management etc
+* **`#people-connect`**: For general People Operations tasks such us onboarding, offboarding, letter of employment, Team calender events management etc
 * **`#it-help`**: For IT related queries, Okta, issues with hardware, software, system access requests and user permissions etc
 * **`#payroll_expenses`**: For Expensify issues, delayed reimbursements and salaries, payslips, etc
 * **`#talent acquisition`**: For referrals based questions, candidate alignments, general talent acquisition etc
