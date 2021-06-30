@@ -4,6 +4,16 @@ title: "Go to Market Rules of Engagement"
 description: "Rules of Engagement"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+- - -
+
+{::options parse_block_html="true" /}
+
 ### Objectives  
 The purpose of this page is to provide clear guidelines around GitLab's FY22 GTM Rules of Engagement in the following areas:
 
@@ -74,7 +84,15 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 
  **Step 2 - Sales Operations Process:** Timing and process for account escalation review and moves.
 
-1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move.If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
+1. **Cases** created by chattering @sales-support for account ownership changes are received and reviewed by Sales Operations. 
+- Sales Operations will review the account chatter feed on the escalated account to ensure that consensus has been met by all parties, ensure supporting documentation has been provided, and verify the accuracy of the supporting documentation. 
+- Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. 
+- If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. 
+- Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move. If both ASMs agree to immediately move an account with CARR, Sales Ops management would also need to approve this move outside of the Quarterly review.
+- During the quarterly review process: 
+    - If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. 
+    - If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. 
+- Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 1. **Sales Operations Immediate and Quarterly Account Review Process** 
    1. Accounts that can be moved immediately by Sales Operations: 
        1. Public Sector accounts owned by non-Public Sector AEs/SALs 
@@ -82,6 +100,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
        1. EDU/OSS/Startups accounts owned by a Community Programs team member 
        1. Web directs that are enriched with inaccurate data resulting in incorrect accounts assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
        1. Newly created accounts with inaccurate data resulting in incorrect account assignment will have the data corrected and account processed to determine the next approved Account Owner and be transferred
+       1. Prospect accounts with no open opportunities with ASM approval
        1. First Order Accounts owned by the Mid-Market or SMB First Order team that have an initial Closed Won opportunity. These Accounts should be transitioned as Key Accounts to the corresponding Account Executive as indicated in the TSP Approved Next Owner field.  
        1. Accounts owned by SDRs, Sales Administrator or any other non sales role
    1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
@@ -171,4 +190,4 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
     1. **Refunds:** Confirm with deal desk that the opportunity is, in fact, a refund.  If yes, the opportunity Order Type should be manually updated to  First Order or New Connected.
     1. **Incorrect Parenting/Hierarchy:** Validate that the parenting is, in fact, incorrect.  If so, unparent the account(s) and manually update the opportunity Order Type to First Order or New Connected
 
-
+ </details>
