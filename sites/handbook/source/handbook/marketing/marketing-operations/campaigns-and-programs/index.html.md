@@ -69,6 +69,7 @@ For list loads greater than 1,000 of `attendees` they will not be considered a `
 | Marketing Invited | Marketing geo-targeted email |  |
 | Waitlisted| Holding state if registration is full will be moved to Registered if space opens| |
 | Registered | Registered for event||
+| No Show | Registered but no verification of attendance, presumed no show | |
 | Meeting Requested | Meeting set to occur at conference |  |
 | Meeting No Show | Scheduled meeting at conference was cancelled or not attended |  |
 | Meeting Attended | Scheduled meeting at conference was attended | Yes |
