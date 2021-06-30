@@ -96,15 +96,62 @@ The following tasks have to be completed:
 
 More information on Milestone 1 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/5794).
 
+### Architecture
+
+At this milestone, a set of UnReview components has to be replaced according to the objectives specified above:
+
+* Apache Hive and Azure Data Factory will be replaced with [Apache Beam](https://beam.apache.org/) backend by [Google Dataflow](https://cloud.google.com/dataflow) for data preprocessing.
+* Azure Blob Storage will be replaced with [Google Cloud Storage](https://cloud.google.com/storage)/[BigQuery](https://cloud.google.com/bigquery) for storing the trained ML models and raw data.
+* MongoDB will be replaced with [PostgreSQL](https://www.postgresql.org/) for storing the processed data.
+
+The following chart provides more details on how the UnReview components, including the replaced ones, relate to each other:
+
+```mermaid
+flowchart TD
+
+subgraph GCP
+    ExtractStage --> |Kafka|TransformStage
+    TransformStage --> |Kafka|LoadStage
+    TransformStage --> |manual start of training|TrainStage
+    TrainStage --> LoadStage
+    LoadStage --> UnreviewBackend 
+
+    subgraph ExtractStage
+        GitLab --> |API| Extracteur
+        Git --> |API| Extracteur
+    end
+
+    subgraph TransformStage
+        GCS[(GCS/BigQuery)]
+        GCS --> |DataFlow| GCS
+    end
+
+    subgraph LoadStage
+        Postgres[(ProcessedData/Postgres)]
+        Models[(TrainedModels/GCS)]
+    end
+
+    subgraph TrainStage
+        ModelTraining <--> HyperparameterTuning --> BestModelSelection
+    end
+
+    subgraph UnreviewBackend[UnReviewBackend]
+        Artefacts
+        Recommender
+        Analytics
+    end
+end
+```
+
 ## Milestone 2
 
 ### Overview
 
-Milestone 2 focuses on providing the UnReview functionality to GitLab.com customers and for dogfooding at GitLab. At this milestone, UnReview should be able to connect to a provided project, automatically extract/process data, and periodically retrain the ML models to improve code reviewer recommendations. GitLab.com customers will start seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models.
+Milestone 2 focuses on providing the UnReview functionality to GitLab.com customers and for dogfooding at GitLab. At this milestone, UnReview should be able to connect to a provided project, automatically extract/process data, and periodically retrain the ML models to improve code reviewer recommendations. GitLab.com customers who license and enable this feature will start seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models.
 
 To support GitLab.com customers: 
 
-* Code reviewer recommendations should be implemented behind the feature flag, disabled by default.
+* Code reviewer recommendations should be implemented behind a feature flag, which will be disabled by default.
 * Integrate the UnReview UI into the GitLab product following the MVC pattern.
 * Make it possible to compare UnReview with existing methods by providing recommendations in a comment.
 * Add the option to automatically assign reviewers recommended by UnReview.
@@ -112,16 +159,58 @@ To support GitLab.com customers:
 To support dogfooding at GitLab: 
 
 * Start the dogfooding process.
-* Make UnReview available to replace or exist alongside Review Roulette for GitLab projects.
+* Make UnReview available to replace or exist alongside Reviewer-Roulette used by GitLab team members for GitLab projects.
 * Automatically assign reviewers recommended by UnReview.
 
 More information on Milestone 2 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/6113).
+
+### Architecture
+
+At this milestone, UnReview integrates into GitLab without using the public API because it is believed the API will not be fast enough and would possibly put too high of a load on the GitLab infrastructure. The requested data is passed directly to the UnReview infrastructure via Apache Kafka. In this way, Kafka acts as a bridge between UnReview and GitLab, separating the two infrastructures, while allowing UnReview to access the data it needs that is not available through the public API. To solve another issue of periodically retraining ML models, UnReview could potentially use a scheduler, e.g., [Apache Airflow](https://airflow.apache.org/).
+
+The following chart provides more details on how UnReview communicates with the GitLab infrastructure via Apache Kafka:
+
+```mermaid
+flowchart TD
+
+subgraph GCP
+    GitlabPostgres[(GitLab/Postgress)] --> |Kafka|TransformStage
+    GitlabPostgres[(GitLab/Postgress)] --> GitlabApp[GitLabApp]
+    TransformStage --> |Kafka|LoadStage
+    TransformStage --> |Scheduler|TrainStage
+    TrainStage --> LoadStage
+    LoadStage --> UnreviewBackend
+    UnreviewBackend --> UnreviewUI[UnReviewUI]
+    Recommender <--> GitlabApp
+    Analytics --> GitlabApp 
+
+    subgraph TransformStage
+        GCS[(GCS/BigQuery)]
+        GCS --> |DataFlow| GCS
+    end
+
+    subgraph LoadStage
+        Postgres[(ProcessedData/Postgres)]
+        Models[(TrainedModels/GCS)]
+    end
+
+    subgraph TrainStage
+        ModelTraining <--> HyperparameterTuning --> BestModelSelection
+    end
+
+    subgraph UnreviewBackend[UnReviewBackend]
+        Artefacts
+        Recommender
+        Analytics
+    end
+end
+```
 
 ## Milestone 3:
 
 ### Overview:
 
-Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as providing similar functionality to self-hosted customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
+Milestone 3 focuses on further improving the UnReview functionality for Gitlab.com customers, as well as planning to provide the functionality to self-hosted customers. At this milestone, GitLab.com customers will continue seeing and experiencing value from the functionality, including the ability to intelligently assign code reviewers to merge requests based on ML models. Primary feedback from GitLab.com customers and dogfooding at GitLab should be considered and integrated into the product. 
 	
 To support GitLab.com customers:
 
@@ -134,5 +223,26 @@ To support self-hosted customers:
 
 More information on Milestone 3 can be found by following its [epic](https://gitlab.com/groups/gitlab-org/-/epics/6114).
 
+### Architecture
 
+Delivering the full UnReview functionality to self-hosted customers may be challenging. Processing data and training ML models requires significant hardware power and administration efforts from the customer’s team itself. We continue to explore various approaches to addressing this issue. Additionally, we are looking towards privacy-preserving machine learning through data obfuscation.
 
+Overall, one way to support self-hosted customers might be to:
+
+* securely access only the necessary data stored on the self-hosted GitLab infrastructure;
+* process the obtained data on the GitLab.com side and then train the ML model;
+* send the trained ML model back to the self-hosted GitLab infrastructure to serve it on-premise.
+
+The following diagram provides more details on how UnReview may interact with the self-hosted GitLab infrastructure:
+
+```mermaid
+flowchart TD
+
+subgraph Approach
+    Gitlaborg[GitLab self-hosted] --> |1. send the required data|Gitlabcom[GitLab.com]
+    Gitlabcom --> |2. train the model|Unreview[UnReview]
+    Unreview --> |3. return the trained model|Gitlabcom
+    Gitlabcom --> |4. return the trained model|Gitlaborg
+    Gitlaborg --> |5. serve the model on-premise|Gitlaborg
+end
+```
