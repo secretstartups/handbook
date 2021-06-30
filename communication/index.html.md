@@ -1302,7 +1302,7 @@ For additional questions, please address in the [issue](https://gitlab.com/gitla
 
 #### Need to add a new app to Slack
 
-GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/finance/issues/new?issuable_template=App_Integrations). Once that's approved by all parties, please request approval to add the app to Slack following the steps below:
+GitLab has chosen to restrict the ability to install apps, and we have a process to approve or restrict certain apps for our workspace. In order to add a new app to Slack, you need to create a [vendor approval issue](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issuable_template=app_integrations). Once that's approved by all parties, please request approval to add the app to Slack following the steps below:
 
 1. Make sure the app hasn't been pre-approved by our team by clicking on Apps in the left sidebar and find Available Apps. To find pre-approved apps in the App Directory, click Pre-Approved below Categories in the left column.
 1. If the app isn't pre-approved, you can click on Add to Slack.
