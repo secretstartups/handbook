@@ -14,7 +14,7 @@ description: “Discover GitLab Learn, a Learning Experience Platform for the Gi
 
 ## What is EdCast?
 
-GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we belie ve [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
+GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we believe [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
 
 You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/).
 
