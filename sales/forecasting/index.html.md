@@ -65,7 +65,7 @@ There are five types of categories we review when your forecasts are pushed to C
 
 Please use these terms correctly and don't introduce other words. Apart from the above the company uses two other terms:
 
-* **Plan**: Our yearly operating plan that is our promise to the board. The ARR number has a 50% of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
+* **Plan**: Our yearly operating plan that is our promise to the board. The ARR number has a 50% chance of being too low and 50% chance of being too high but we should always hit the TCV - Opex number.
 * **Forecast**: Our latest estimate that has a 50% of being too low and 50% chance of being too high.
 
 
