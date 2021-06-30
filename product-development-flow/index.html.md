@@ -135,7 +135,7 @@ The growth of a world class product is built from a well maintained backlog. Pro
 
 To ensure the right solutions are delivered, the team must start their work with a [validated problem](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/#what-is-problem-validation). This can take [many forms](/handbook/engineering/ux/ux-research-training/problem-validation-and-methods/#different-problem-validation-research-methods) and be achieved through Product Manager and UX Researcher collaboration.
 
-If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem.
+If the problem is small and well-understood, it may be possible to quickly move through this phase by documenting the known data about the user problem. Some examples of known data include [User Requested Issues](https://app.periscopedata.com/app/gitlab/480786/User-Requested-Issues) or pre-existing `Actionable Insights` from prior research. 
 
 If the problem is nuanced or not yet well understood, then it will likely take longer to validate with users properly. This phase's primary outcome is a clear understanding of the problem, along with a simple and clear way to communicate the problem to various stakeholders. Although optional, it is recommended to use an [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) as a tool that helps individuals better understand a problem, and communicate it to various stakeholders. An Opportunity Canvas can also be used to recommend creation of a new category including asking for new resourcing. 
 
