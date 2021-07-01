@@ -225,6 +225,10 @@ The CoS will have materials prepared for the call, no later than 12 business hou
 The materials used for the call can be repurposed by attendees to share key information with their teams.
 Think of the materials as a "Meeting in a Box."
 
+### All-directs Async Debrief
+
+The debrief for the 2021-06-29 to 2021-06-30 E-Group Offsite was conducted async. This was because this was a shorter offsite, so there was less information to share. 
+
 ## Content Choice
 
 The offsite includes a 30 minute to 1 hour discussion on material chosen by the CEO. This could be a book, article, recording, or other artifact. The selection will be finalized no less than two weeks prior to the offsite. At the time that the selection is shared, the CEO will also share three conversation topics. E-Group team members are expected to come to the discussion prepared to discuss these prompts.
