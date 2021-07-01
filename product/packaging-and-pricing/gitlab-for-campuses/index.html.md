@@ -87,7 +87,7 @@ The GitLab for Campuses Order form must be used for all GitLab for Campuses quot
 GitLab for Campuses can be sold through GitLab resellers. The specific language regarding the size of the institution from the GitLab for Campuses Order Form must be added to the Reseller Order Form.  
 
 ### GitLab for Campuses Agreeement
-The standard [GitLab Subscription Agreement](/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering. 
+The standard [GitLab Subscription Agreement](/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering. 
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities
