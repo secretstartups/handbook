@@ -49,7 +49,7 @@ If you have a suggestion for, or a connection to, a speaker you'd like to see co
 
 We're using this newsletter to highlight [Modern Health Circles](https://circles.modernhealth.com/). Circles are live community sessions designed to help you proactively improve your mental health. 
 
-**Access to circles is unlimited!** So, take a second and check out their current circles to see what might feel like a good fit for your needs and interests. If you'd like, consider asking a colleage attend a Circle with you, or sharing in your team Slack channel which Circles you might attend!
+**Access to circles is unlimited!** So, take a second and check out their current circles to see what might feel like a good fit for your needs and interests. If you'd like, consider asking a colleage to attend a Circle with you, or sharing in your team Slack channel which Circles you might attend!
 
 ### Featured Modern Health Circles (as of 20201-07-01)
 
