@@ -58,7 +58,7 @@ Please see [our guide on giving feedback](/handbook/people-group/guidance-on-fee
       * `WONT` - if you think this is no longer something that should be done.
       * `WHY` - if you get the suggestion but wonder why this is important and what the problem is.
       * `THINK` - if the person who did not put it on the agenda wants time to think about it and discuss it next meeting.
-      * `IMPULSE` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
+      * `IDEA` - if the person who put it on the agenda is offering a suggestion for consideration and possible dismissal rather than as a directive.
     1. Personal
       * `FEEDBACK` - this is feedback about your performance (also means that all the other items are not performance feedback)
       * `THANKS` - mostly used by the manager to praise the report, these should not require a follow-up action. There is a tendency to focus on issues and challenges. Do not forget to recognize accomplishments and success.
