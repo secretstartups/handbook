@@ -53,7 +53,7 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
       1. Activities that are of cross-functional interest
       1. Notable progress or lack of progress against goals
    1. Topics for discussion: items that require allocated time during the meeting
-1. Each "Topics for Discussion" agenda item should clearly state the objective for the topic. For example:
+1. Each "Topics for discussion" agenda item should clearly state the objective for the topic. For example:
    1. Inform about upcoming announcement
    1. Get feedback on a proposal
    1. Make a decision on the Contribute location
