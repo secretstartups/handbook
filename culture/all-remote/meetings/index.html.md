@@ -74,7 +74,7 @@ It's not rude to focus on documentation in a meeting. A surefire way to waste ti
 </figure>
 
 <!-- blank line -->
-You can see this in practice by viewing past [GitLab Group Conversations](/handbook/people-group/group-conversations/) on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=group+conversation).
+You can see this in practice by viewing past [GitLab Group Conversations](/handbook/group-conversations/) on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=group+conversation).
 
 ### Cancel unnecessary recurring meetings
 
