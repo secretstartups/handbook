@@ -687,7 +687,7 @@ _Each PM is responsible for pinging their PMM counterpart when they need a revie
 - Review the messaging for these features look for these 4 elements
   - **problem/solution**: Does this describe the user pain points (problem) as well as how the new feature removes the paint points (solves the problem)?
   - **short/pithy**: Is this communicated clearly with the fewest words possible?
-  - **tone clarify**: Is the language and sentence structure clear and grammatically correct?
+  - **tone clarify**: Is the language and sentence structure clear and grammatically correct? Is the text in the present tense, and is "you" used instead of "user."
   - **technical clarity**: Does the description of the feature make sense for various audiences, including folks who are not deeply familiar with GitLab?
   - **value driver**: Does the feature help our users Increase Operational Effectiveness, Deliver Better Products Faster or Reduce Security and Compliance Risk?
 - To understand the feature better look at the issue and MR for the feature, they are linked in the YAML. Sometimes the issue description will include the value prop. Read the comments in the issue and MR for the feature, often users and customers will chime in with why they want a feature and what pain the lack of the feature is causing.
