@@ -30,7 +30,7 @@ As a team member responsible for helping to bridge the gap between business and 
 * [Self-motivated and self-managing](/handbook/values/#efficiency), with task organizational skills
 * Great communication: Regularly achieve [consensus](/handbook/values/#collaboration) amongst technical and business teams
 * Demonstrated capacity to clearly and concisely communicate complex business activities, technical requirements, and recommendations
-* Demonstrated experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support,engineering, or people
+* Demonstrated experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
 * 4+ years in the Data space as an analyst, engineer, or equivalent
 * 4+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
 * 4+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
