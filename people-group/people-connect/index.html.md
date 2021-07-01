@@ -72,7 +72,7 @@ Should the interaction include **personal data or potentially sensitive informat
 
 #### What to Expect (SLA)
 
-Once a team member has submitted a question or request using one of the two available methods of engagement, they can anticipate acknowledgement in the thread of their original interaction within ≤ 24 hours.
+Once a team member has submitted a question or request using one of the two available methods of engagement, they can anticipate acknowledgement in the thread of their original interaction within ≤ 4 hours.
 
 People Connect rests on a tiered model which categorizes inbound queries and requests according to nature and complexity this in turn should guide the anticipated resolution time unless otherwise specified by the responding generalist.
 
