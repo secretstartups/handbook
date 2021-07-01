@@ -76,4 +76,10 @@ Now that you have finished the activity debrief on following:
 
 Once you have fully completed the activity, create a handbook entry on the DIB Roundtable Sharing Page. Share which privileges your chose and rationale plus any learnings you had. 
 
+### Best Practices
+
+### For Facilitators
+ * **Scheduling:** Use Google Calendar's [group scheduling feature: `Meet with...`](https://drive.google.com/file/d/1fKQSeuNQc08ZRZf68IioKEhH7E07pec-/view?usp=sharing), located to the left of the calendar, to find a time that works for all participants. Schedule a 50 min meeting, or longer if participants are able and willing. 
+ * **Prepping before the roundtable:** Create a document to share with participants only (do not share with everyone at GitLab since this is a safe space, with information shared needing to stay just between the group participants). Here is a [facilitator template](https://docs.google.com/document/d/1BlIYfqtMWIkJUulqZYsgNq5_3bKihdyb5fGOeOpZVxI/edit#) you may want to use to facilitate the discussion. Take a look. If you want to use it, make a copy and add in the participant's names where relevant (e.g. 'Participant 1's list`). 
+ * **How to facilitate:** A possible way to facilitate the Privileges for Sale activity is to ask everyone to take a few mins to choose their top 10 in the lists you've prepared for them. When they are finished, ask them to add a `+ Initial` to the group list. This will help you visually see which privileges are the most popular and may help you to begin the conversation. 
 
