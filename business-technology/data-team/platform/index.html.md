@@ -92,7 +92,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h |
-
+| [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h |
 
 ### Adding new Data Sources and Fields
 
