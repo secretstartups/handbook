@@ -33,6 +33,8 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab Canada Corp (Canada) - CloudPay
 - GitLab Ireland Ltd (Ireland) - CloudPay
 - GitLab GK (Japan) - CloudPay
+- GitLab France S.A.S. - Global Upside
+- GitLab Korea Limited - Global Upside
 
 ## Pay Date
 
@@ -47,6 +49,8 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. GitLab PTY NZ team members will get their salary on the 28th of each month, and they can access their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. GitLab Ireland Ltd team members will get their salary on the 28th of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
 1. GitLab GK Japan team members will get their salary on the last business day of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess).
+1. GitLab Korea Limited team members will receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides Mihi system.
+1. GitLab France S.A.S. team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides Mihi system.
 1. GitLab IT BV team members that are employed through GitLab's co-employer PE0:
    - Global Upside (India and China) will get their salary wired by the last day of the month with exception to Philippines having 2 check date-15th and last   day of the month, respectively. Global Upside will send payslips electronically through their HR portal.
    - Safeguard: France are paid monthly and on the last day of the month, Switzerland the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
@@ -211,7 +215,7 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 ## Non-US
 
 
-### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand and Japan Monthly Payroll Process
+### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand, Japan, France & South Korea Monthly Payroll Process
 
 1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. 
 1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
@@ -303,10 +307,8 @@ Team members from the above countries will get paid through CXC Global on or aro
 #### SafeGuard
 
 - Brazil
-- France
 - Italy
 - Spain
-- South Korea
 - Switzerland
 
 The internal deadline for changes is the 8th of each month, Payroll will send by the 10th of each month.  Payroll will submit commission, bonus, salary adjust, expense reimbursement to SafeGuard via a password encrypted template.  SafeGuard will issue an invoice for each country no later than the 16th of each month.  Payroll Specialist will review and submit the invoice for payment with AP.
@@ -344,9 +346,11 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab GK Japan [Payroll Calendar](https://docs.google.com/spreadsheets/d/188IryrptR6ZRwAY3siS0gvN9DUXuBDuAfMGsCQT9ZsQ/edit#gid=1040119899)
 - GitLab Ireland Ltd [Payroll Calendar](https://docs.google.com/spreadsheets/d/10iNM9VBmVWgE-DS-I3QFZq-htHi0pw3-NBkjauIXtOk/edit#gid=412520624)
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
+- GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/d/12Uod9dg2sqBt9Zi8DxPyQKCN8jG5PXfTp2oJ3No-EBc/edit#gid=0)
+- GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1aa_WLBdDoPyBO9aaFmpAdymHjhULQgGJH0UiiLB6TnE/edit#gid=0)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
-    -  SafeGuard ([S. Korea, France](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=775664482),[Brazil](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1366369546), [Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
+    -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
     -  Remote.com (South Africa,Mexico,Austria, Hungary) [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ygZYhysV1eAhL5-WD_F5iiOmeXM7wreINEuKpcBSiAM/edit#gid=2111318292)
     - Global Upside ([India](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=0), [Philippines](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=150092461), [Costa Rica](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=897287889), [Denmark](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1890543679), [Kenya](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=401149860), [Chile](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1322253138), [Latvia](https://docs.google.com/spreadsheets/d/1At1qOHUwQCVueBZdZ8gEwAitUzQA_9yJkhhir0Z6U-U/edit#gid=1213208098) ) Payroll Calendar
 
