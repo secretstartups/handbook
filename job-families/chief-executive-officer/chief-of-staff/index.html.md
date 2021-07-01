@@ -26,7 +26,7 @@ The responsibilities include both directed work that will mostly be triggered by
 1. Ensure action points coming out of meetings (i.e. executive, OKR, key, or incident meetings) are implemented.
 1. Reinforce [communication guidelines](/handbook/communication/).
 1. Help create [mecefu-terms](/handbook/communication/#mecefu-terms).
-1. Prep for the CEO [Group Conversations](/handbook/people-group/group-conversations/)
+1. Prep for the CEO [Group Conversations](/handbook/group-conversations/)
 1. Moderate the [e-group](/company/team/structure/#e-group) meetings.
 1. Keep this job family up-to-date.
 
