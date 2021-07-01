@@ -224,7 +224,12 @@ office hours. Stay tuned for more details!
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
 
-### Other Helpful Resources & Links
+## Product Analysis Handbook Structure
+
+* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
+
+## Other helpful resources & links
 
 1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
 1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
