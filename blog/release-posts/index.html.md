@@ -408,7 +408,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
   - Assign the MR to the relevant Product Marketing Manger, and/or Director if additional review is needed
   - Once all content is reviewed and complete, add the `Ready` label and assign MR to the appropriate Engineering Manager (EM) to merge when the feature is deployed and enabled.
 
-  **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process.
+  **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process. Either underscores `_` or hyphens `-` can be used as long as the correct prefix is used (`stagename`, `dep`, `removal`, or `upgrade`) as listed below.
 
   - Feature file names: `stagename-featurename.yml` (for example, `create-group-wikis.yml`). **Do not:**
     - Designate primary vs secondary as that can change.
@@ -687,7 +687,7 @@ _Each PM is responsible for pinging their PMM counterpart when they need a revie
 - Review the messaging for these features look for these 4 elements
   - **problem/solution**: Does this describe the user pain points (problem) as well as how the new feature removes the paint points (solves the problem)?
   - **short/pithy**: Is this communicated clearly with the fewest words possible?
-  - **tone clarify**: Is the language and sentence structure clear and grammatically correct?
+  - **tone clarify**: Is the language and sentence structure clear and grammatically correct? Is the text in the present tense, and is "you" used instead of "user."
   - **technical clarity**: Does the description of the feature make sense for various audiences, including folks who are not deeply familiar with GitLab?
   - **value driver**: Does the feature help our users Increase Operational Effectiveness, Deliver Better Products Faster or Reduce Security and Compliance Risk?
 - To understand the feature better look at the issue and MR for the feature, they are linked in the YAML. Sometimes the issue description will include the value prop. Read the comments in the issue and MR for the feature, often users and customers will chime in with why they want a feature and what pain the lack of the feature is causing.
@@ -1376,22 +1376,25 @@ extras:
     description: | # supports markdown
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque.
 ```
+### Deprecations, removals and breaking changes
 
-### Deprecations
+#### Deprecations
 
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-A deprecation is an annoucement in the release post notifying the community of a future removal. Deprecations should be included as soonb as possible to the [docuemtnation](link TBD). Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
-Create a deprecation notice by creating a note inn the deprecation documentation in the following format:
+ **Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
+
+A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included as soon as possible in the [documentation](link TBD). Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+Create a deprecation notice by creating a note in the deprecation documentation in the following format:
 
 ```yaml
 deprecations:
   - feature_name: Lorem ipsum dolor
-    issue url: ''
+    issue_url: ''
     reporter: bikebilly # item author username
-    `available_in`: availability of that feature in GitLab:  
-    `affected_topology`: [Self-managed, SaaS]
+    available_in: availability of that feature in GitLab:  
+    affected_topology: [Self-managed, SaaS]
     description: |  # example (supports markdown)
       Lorem ipsum dolor sit amet, consectetur adipisicing elit.
       Veritatis, quisquam.
@@ -1408,7 +1411,7 @@ The `due` field is defined by the future removal of that feature. The field is r
 
 - `available_in`: availability of that feature in GitLab
 
-- `affected_topology`: Who is affected by this deprection, Self-managed users, SaaS users or both. This is especially important while nearing the annual major release where breaking changes are permitted, and may hit GitLab.com before the official release of the milestone. 
+- `affected_topology`: Who is affected by this deprecation, Self-managed users, SaaS users or both. This is especially important while nearing the annual major release where breaking changes are permitted, and may hit GitLab.com before the official release of the milestone. 
 
 `description` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation.
 The description of the deprecation should state what actions the user should take to rectify the behavior. 
@@ -1426,7 +1429,7 @@ Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/
 
 When approved, include the "Ready" label in the MR before merging.
 
-#### Repeat Deprecation notices
+##### Repeat Deprecation notices
 
 Deprecations are announced for at least 2 releases in advance of the final removal. Since the content remains the same each month, it is not necessary to get the content reviewed each time by TW and PMM. When Product Managers OR Engineering Managers are preparing the subsequent instances of a deprecation, follow these steps:
 1. Create a MR and copy content directly from the previous MR that was merged.
@@ -1436,9 +1439,11 @@ Deprecations are announced for at least 2 releases in advance of the final remov
 
 ---
 
-### Removals
+#### Removals
 
 _To be added by Product Managers or Engineering Managers and merged by either._
+
+**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
@@ -1494,6 +1499,8 @@ When approved, include the "Ready" label in the MR before merging.
 ### Upgrades
 
 _To be added by Product Managers or Engineering Managers and merged by Engineering Managers._
+
+**Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
 
 Describe any considerations administrators should have when upgrading to this version. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
@@ -1867,9 +1874,9 @@ please make sure to specify them in the title, add the correct [category](../#ca
 1. Images are required
    1. For videos, use the youtube image. To get the image URL, insert the youtube unique ID into this format: `https://img.youtube.com/vi/[insert-youtube-video-id-here]/hqdefault.jpg`
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
-   1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png)
+   1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png) but it is recommended to only use release post items that have an image as an additional measure to check for posts that don't make the release
 1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
-1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** Typically this means the What's New content will be live on the 23rd.
+1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews. 
 
 <style>
   pre { margin-bottom: 20px; }
