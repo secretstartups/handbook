@@ -88,7 +88,7 @@ Below are a number of intentional facets of GitLab's culture, created to foster 
 
 1. [Social call](/handbook/communication/#social-call): A series of optional calls throughout the week to which everyone in the organization is invited. We have no set agenda, just a time set aside for everyone to openly talk where everyone is a moderator.
 1. [Contribute Unconference](/events/gitlab-contribute/): An in-person, week-long event where we bring the entire company together in one location to get to know each other better.
-1. [Group conversations](/handbook/people-group/group-conversations/): Four times a week the company gets together virtually to discuss an area of the business. Slides are provided for context but not presented.
+1. [Group conversations](/handbook/group-conversations/): Four times a week the company gets together virtually to discuss an area of the business. Slides are provided for context but not presented.
 1. Coffee chats: More details below.
 1. Coworking calls: More details below. 
 1. Social hours: Informal social calls organized within our immediate teams to get to know each other on a more personal level. 
