@@ -56,7 +56,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 
 <h1 id="headerformat">Engineering </h1>
 
-  * <a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/engineering/narrow_mr_rate.html" > Narrow MR Rate</a>
+  * <a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/engineering/mr_rate.html" > Narrow MR Rate</a>
 
 
 <style> #headerformat {
