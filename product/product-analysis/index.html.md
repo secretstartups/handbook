@@ -40,12 +40,20 @@ You can see our current milestone [here](https://gitlab.com/gitlab-data/analytic
 
 ### Issue Intake
 
-For all product analysis requests, please create an issue on [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues), 
-and add a `product analysis` label, as well as your section and group labels. More details below.
+For all product analysis requests, please create an issue in the [Data Team Analytics Project](https://gitlab.com/gitlab-data/analytics/-/issues) 
+following the guidelines below.
 
 All data issues with `product analysis` labels will appear on a [product analysis board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=product%20analytics).
 
-1. In the issue, please explain the urgency/criticality of the requests and provide as much context as possible.
+#### Issue Templates
+
+Please select the appropriate template based on your type of request and answer as many of the 
+questions as you can. The more information and context we have up front, the faster we are able 
+to triage and begin work on the issue.
+| Request Type | Template |
+| --- | --- |
+| Ad hoc / Default | [Product Analysis Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/) |
+| Experimentation analysis | [experiment_template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md) |
 
 #### Submission Deadline
 
@@ -54,25 +62,44 @@ the next milestone begins. We understand that urgent matters come up, but please
 the submission deadline for any planned work. 
 * You can find our milestone cadence/schedule here (Need something here on how to follow our schedule)
 
-#### Issue Templates
+### Milestone Planning
 
-Please select the appropriate template based on your type of request.
-| Request Type | Template |
-| --- | --- |
-| Ad hoc / Default | [Product Analysis Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/) |
-| Experimentation analysis | [experiment_template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md) |
+Final commitment and prioritization will be set during the milestone planning meeting, which 
+takes places the Thursday before a milestone begins. The team will consider new and existing 
+issues, along with issues in progress. When selecting issues for the next milestone, the team 
+considers the following:
 
-#### Labels
+* Issue priority
+* Issue weight
+* Velocity
+* Working days
 
-All Product Analysis issues should carry the `product analysis` label. (This will automatically be 
-added for issues created using the templates). When you open a new issue, please add applicable section and 
-group labels.
+#### Issue Priority
+
+The Manager, Product Data Analysis will help prioritize work based on importance and capacity, and 
+will work closely with the Director of Product Growth, Chief Product Officer, and VP, Product 
+Management on trade-offs (if needed).
+
+Prioritization labels will be added by the Product Analysis team as a part of triage and 
+planning.
+
+| Label | Priority |
+| ----- | -------- |
+| pa-priority::1 | High and/or urgent |
+| pa-priority::2 | Medium |
+| pa-priority::3 | Low, non-urgent |
+
+Most issues will fall under pa-priority::2 and pa-priority::3.
 
 #### Issue Weight
 
-Each issue is assigned a weight based on estimated time commitment*. If a partially-completed 
+Each issue is assigned a weight based on estimated time commitment. If a partially-completed 
 issue rolls over from one milestone to another, the weight will be adjusted to reflect the time 
 commitment of the outstanding work.
+
+If a single issue has a weight greater than the length of the milestone (2 weeks), it should be 
+broken into smaller units of work. (This also could be an indicator that the issue should be 
+converted to an epic).
 
 | Weight Value | Estimated time to complete |
 | --- | --- |
@@ -88,44 +115,26 @@ commitment of the outstanding work.
 | 89 | 1+ year |
 | 144 | 1+ decade |
 
-If a single issue has a weight greater than the length of the milestone (2 weeks), it should be 
-broken into smaller units of work. (This also could be an indicator that the issue should be 
-converted to an epic).
+#### Velocity
 
-### Issue Prioritization
+Product Analysis defines velocity as the amount of work (measured in issue weight) completed by the 
+team within a given milestone. While we recognize that this is an imperfect measurement 
+(partially-completed issues and [undocumented work](/handbook/product/product-analysis/#undocumented-requests) 
+are not accounted for), it is a rough gauge of team output.
 
-The Manager, Product Data Analysis will help prioritize work based on importance and capacity, and 
-will work closely with the Director of Product Growth, Chief Product Officer, and VP, Product 
-Management on trade-offs (if needed).
+The amount of work we commit to in a milestone should be _less than_ recent velocity, as we will 
+try to leave a buffer for every analyst to account for urgent issues and interruptions. We aim 
+to only commit to work we believe can be completed within the 2 weeks.
 
-The prioritization process is completed by the Product Analysis team.
-1. The product analysis group works on a 2-week milestone cadence
-  * You can see our current milestone [here](https://gitlab.com/gitlab-data/analytics/-/boards/2329061?scope=all&label_name[]=product%20analysis&milestone_title=%23started).
-1. Prioritization to be set during the planning meeting the week before the start of the new milestone
-1. Prioritization labels will be added to reflect the issue's impact and urgency
-1. Issue will be assigned an estimated projected time commitment
-1. New issues will be considered alongside existing issues to set prioritization for the upcoming 
-milestone, adjusting task load based on past milestone performance.
+#### Working Days
 
-#### Prioritization Labels
-
-Prioritization labels will be added by the Product Analysis team.
-
-| Label | Priority |
-| ----- | -------- |
-| pa-priority::1 | High and/or urgent |
-| pa-priority::2 | Medium |
-| pa-priority::3 | Low, non-urgent |
-
-#### Milestone Planning
-
-Final prioritization will be set during the milestone planning meeting, which takes places the 
-Thursday before a new milestone begins. The team will consider new and existing issues, along 
-with issues in progress.
+As GitLab team members, we are [encouraged to take PTO](/handbook/paid-time-off/) and observe public 
+holidays in order to maintain a healthy work-life balance. Analyst capacity should be adjusted 
+based on the number of days they are working in the milestone.
 
 ### Urgent Issues
 
-If an urgent matter comes up, please open an issue and tag your analyst contact (and/or [at]cbraza). 
+If an urgent matter comes up, please open an issue and tag your analyst contact (and/or [at] cbraza). 
 Please include why the issue is urgent, when it is needed by, what it will inform or how it will 
 be used, and who is the intended audience.
 
@@ -133,7 +142,11 @@ If you have not heard from the tagged analyst within 1 business day (or earlier 
 requires a faster turn-around), please send a message in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) 
 and feel free to reach out to [at] cbraza.
 
-### Scope Creep
+### Additional Considerations
+
+Please keep the following in mind when working with the Product Analysis team.
+
+#### Scope Creep
 
 [Scope creep](https://en.wikipedia.org/wiki/Scope_creep) is a problem everyone faces. Please keep 
 in mind that [team capacity](/handbook/product/product-analysis/#capacity) is a zero-sum game, 
@@ -149,15 +162,21 @@ templates should help guide you to include all relevant information.
 _*"material amount of work" is to be determined by the analyst working on the issue, not the 
 stakeholder_
 
-### Issue Workflow
+#### Undocumented Requests
 
-The Product Analysis team follows the [same workflow as the Data Team](/handbook/business-technology/data-team/how-we-work/#workflow-summary).
+Please open an issue for all Product Analysis requests. Requests made via comments or tags in 
+Google Drive are extremely difficult to track, and Slack messages are gone after 90 days. 
+In addition, these requests are not planned or accounted for in team velocity. Your informal 
+request might mean that we are unable to complete work we committed to for another stakeholder.
 
-### Capacity
+By keeping a formal record of requests (via issues), we are able to identify frequently asked 
+questions (which could lead to building a self-service solution) and quickly replicate past work.
+
+#### Capacity
 
 As the Product Analysis team is still fairly new and small, we expect most PMs to self-serve 
-on analysis and only create data issues for critical asks. As the group grows, so will our ability 
-to support additional asks and analyses.
+on analysis and only create Product Analysis issues for critical asks. As the group grows, 
+so will our ability to support additional asks and analyses.
 
 ## Slack
 
