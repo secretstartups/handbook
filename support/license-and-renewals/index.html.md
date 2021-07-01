@@ -113,7 +113,7 @@ necessary.
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/licence-and-renewals/workflows/working_with_sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
 
 When creating an individual/bulk access request, use the following information:
 
