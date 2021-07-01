@@ -77,7 +77,7 @@ Responsibilites for the Senior Analytics Engineer extend the Analytics Engineer 
 
 Requirements for the Senior Analytics Engineer extend the Analytics Engineer (Intermediate) job. In addition:
 
-* 8+ years in the Data space as an analyst, engineer, scientist, or equivalent
+* 6+ years in the Data space as an analyst, engineer, scientist, or equivalent
 * 2+ years managing the same data model system over time, evolving the model to meet new business requirements
 * Demonstrated experience leading 4 or more analytics projects from beginning to operationalization
 * Demonstrated experience desinging and socializing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
