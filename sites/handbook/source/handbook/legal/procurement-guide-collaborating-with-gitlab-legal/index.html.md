@@ -35,10 +35,11 @@ GitLab Legal will review any and all purchases made to ensure adequate terms are
 
 
 ## Additional Requests & Information
-| Type of Request | Information |
-| ------ | ------ |
-| NDA Request(s) | [NDA Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process) |
-| Negotiating Terms and Conditions | [Negotiating Terms](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#negotiating-terms) |
+
+
+NDA Request(s): [NDA Process](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#nda-process)
+
+Negotiating Terms and Conditions: [Negotiating Terms](https://about.gitlab.com/handbook/legal/procurement-guide-collaborating-with-gitlab-legal/#negotiating-terms)
 
 ## NDA Process
 - Prior to exchanging any confidential information, GitLab and a potential Vendor should execute a Mutual Non-Disclosure Agreement. This will ensure the adequate protection of any / all information shared. 
