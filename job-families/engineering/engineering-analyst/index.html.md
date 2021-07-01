@@ -21,7 +21,7 @@ Unless otherwise specified, all Engineering Analyst roles at GitLab share the fo
 * A track record of using quantitative analysis to generate insights, and drive better organizational decision making.
 * Clear and concise communication, able to convey complex business logic, and analytical recommendations to stakeholders.
 * Deep understanding of SQL and track record of hands-on SQL experience.
-* Experience in charting visualizations
+* Experience with Data Visualization Tools (E.g. Sisense, Looker, Tableau)
 * Excellent analytical skills.
 * Good understanding of data warehouses (e.g. Snowflake)
 * Good understanding of data ingestion methodologies (e.g. ETL, ELT) 
