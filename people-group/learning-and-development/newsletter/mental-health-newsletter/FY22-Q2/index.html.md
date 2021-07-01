@@ -62,6 +62,19 @@ We're using this newsletter to highlight [Modern Health Circles](https://circles
 - [Healing Latinx/Hispanic Communities](https://circles.modernhealth.com/series/healing-hispanic-communities)
 
 
+## Learning opportunities to improve team member wellbeing
+
+Having [crucial conversations](/handbook/leadership/crucial-conversations/) both in and outside of work have a massive impact on our mental health. 
+
+In May 2021, the University of Michigan hosted a crucial conversation about mental health where they discussed ["prioritizing mental health, educating and advocating for resources and policies, and creating an uplifting environment for everyone."](https://publicengagement.umich.edu/crucial-conversations-mental-health-awareness/) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8SOfJZ6tjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Having open, safe conversations like this can be challenging and nerve wracking. Stigmas around mental health make it hard to bring up with our managers, colleages, friends, and family. Equipping yourself with tools and strategies to have effective and safe crucial conversations can improve the discussions we have at GitLab about mental health and team member wellbing.
+
+The L&D team is certified to deliver the [Crucial Conversations](https://www.vitalsmarts.com/crucial-conversations-training/) training for interested team members. Read more about the program in this [crucial conversations blog post](https://about.gitlab.com/blog/2021/02/18/crucial-conversations/). If you're interested in the training, we encourage you to [fill out the interest form](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training) to participate in the next internal training.
+
+
 ## Discussion and Feedback
 
 Have questions about mental health resources at GitLab? Or maybe you have a thought or resource that came up for you after reading this newsletter? Here's how to reach out:
