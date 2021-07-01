@@ -424,6 +424,21 @@ The possible tier labels to be applied are:
   - Mention the relevant PM for the group asking to add appropriate label
 * Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-for-tier-labels.yml>
 
+### Prompt for Type labels on issues
+
+[Type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) should be applied to classify the issue. This policy prompts the author of the issue within the first week, if the author is a `gitlab-org` group member to ask for the relevant type label to be applied
+
+The requirement for the type label is so that the issue will be indexed by [group triage report]('handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt') and added to the correct section.
+
+* Automation condition: Open issue with no type label applied, opened in the past 7 days, authored by `gitlab-org` member
+* Automation action:
+  - Mention the author asking to add appropriate type label
+* Policy: <https://gitlab.com/gitlab-org/quality/triage-ops/-/blob/master/policies/stages/hygiene/prompt-team-member-type-label.yml>
+
+#### Data
+
+- [Chart displaying the number of open issues by type label](https://app.periscopedata.com/app/gitlab/621211/?widget=8100010&udv=973087)
+
 ### Bug SLO Warning
 
 Bugs have a severity label that indicates the [SLO for a fix](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity). This automated policy aims to prompt managers about bugs in their group that are approaching the SLO threshold
