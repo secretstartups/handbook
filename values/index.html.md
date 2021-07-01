@@ -56,6 +56,7 @@ Understanding this distinction is critical to thriving at GitLab,
 particularly for [newer team members](/company/culture/all-remote/getting-started/) who may be familiar with a prior organization's interpretation of iteration or collaboration (as examples).
 
 #### Process for removing sub-values
+{:.no_toc}
 
 _Values are not just things we do but things that actively drive good behaviour.  When we remove them it doesn't mean we stopped believing in it, just that it wasn't actively helping to drive behaviour.  If we don't prune our sub-values, then we will be like every other company, things that make sense but are not leading to a better culture._
 
