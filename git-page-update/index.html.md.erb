@@ -180,7 +180,12 @@ For more in-depth details on setting up and using the local development environm
 
 We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/miscellaneous/#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
-Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.  Choose the method below that feels most comfortable and have the following information handy:
+Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.  
+1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-the-web-ide)
+2. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
+3. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
+
+Choose the method below that feels most comfortable and have the following information handy:
 
 * An invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account.
 * Name of the People Experience Associate helping you with onboarding.
@@ -208,6 +213,12 @@ Ask anyone in the company for help if you need it - you can use either the #mr-b
   1. In that modal, on the bottom, click `Edit in Web IDE`
   1. Our web editor will open with your team page entry opened.
   1. <%= partial "team-page-fields" %>
+  1. To upload your image - Select the upload file button on the left handside (An example of this can be found starting at 9:29 in the youtube video above.) 
+     1. Select the image you want to upload and it will upload to the root file. 
+     1. Navigate to the image you have uploaded by scrolling down on the left handside. 
+     1. Hover over the image and select the `v` button and pick Rename/Move. 
+     1. You will rename the image to `sites/uncategorized/source/images/team/``imagefilename.jpg` for example `sites/uncategorized/source/images/team/ashleyjameson.png` This will move the file to the correct location. 
+     1. Now you will navigate back your team page entry and Add the filename of your profile picture, making sure to match letter case. Delete ../gitlab-logo-extra-whitespace.png, if present. The completed line should look like this: picture: yournameinlowercase.jpg.
   1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
   1. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
   1. Once you have verified all of the edits, click commit and enter a short commit message in the box that appears. Your commit message should describe what you have changed. Choose `Create a new branch`. Name the branch in the format of `yourinitials-add-YOURNAME-to-team-page-date` or similar. Example: `plh-add-paulalilyherbert-to-team-page-feb06`
