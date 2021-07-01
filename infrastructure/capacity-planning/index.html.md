@@ -31,7 +31,7 @@ GitLab's Capacity Planning strategy is based on the following technologies:
 
 ### Workflow
 
-We run the forecast on a regular basis. The forecasts are then reviewed in the weekly [Engineering Allocation meeting](https://docs.google.com/document/d/1j_9P8QlvaFO-XFoZTKZQsLUpm1wA2Vyf_Y83-9lX9tg/edit) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
+We run the forecast on a regular basis. The forecasts are then reviewed in the weekly [Engineering Allocation meeting](/handbook/engineering/engineering-allocation) and any required corrective actions are prioritized according to the timeframes for saturation predicted by the forecast, and the criticality of the resources.
 
 ### The Forecasting Process
 
@@ -49,7 +49,7 @@ The thresholds are decided on a case-by-case basis and vary between resources. S
 
 ### Forecasting
 
-The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. Usually this job will run on a weekly basis. The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
+The forecast process, Tamland, runs as a GitLab CI job on `ops.gitlab.net`. This job will run on a schedule defined [in the scheduled pipeline](https://ops.gitlab.net/gitlab-com/gl-infra/tamland/-/pipeline_schedules) (at the time of writing, set to weekly). The process starts by reading the historical short-term saturation metric data from Thanos, up to 1-year period, using an hourly resolution.
 
 Tamland relies on Facebook Prophet for generating a forecasting model. Prophet performs analysis of hourly, daily, weekly and monthly trends to forecast a future trend in the data.
 
