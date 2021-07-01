@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jul 1  | Deal Review Panel Discussion | Ashlihan Kurt & Alan Geary |
+| Jul 1  | The Value of Professional Services | Bryan May |
 | Jul 8  | Q2 FY22 Product Update | Brian Glanz |
 | Jul 15  | Q2 FY22 Alliances Update | Mike LeBeau |
 | Jul 22  | *No sessions during the last two weeks of a quarter* |  |
