@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Infrastructure Security"
+description: "As members of GitLab's Security Operations sub department, the Infrastructure Security engineers own security initiatives related to security of GitLab.com."
 extra_js:
 - libs/mermaid.min.js
 ---
@@ -130,7 +131,7 @@ The  Infrastructure Security Manager is a [grade 8](/handbook/total-rewards/comp
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Infrastructure Security 
-This role reports to the [Director of Security Operations](/job-families/engineering/security-management/#director-of-security).
+This role reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations).
 
 #### Senior Manager, Infrastructure Security Job Grade
 The Security Incident Response Team Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -184,4 +185,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will then be invited to schedule an interview with VP of Security 
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

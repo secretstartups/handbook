@@ -128,7 +128,7 @@ The Red Team Manager is a [grade 8](/handbook/total-rewards/compensation/compens
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](/company/team/structure/#management-group)
 
 ### Senior Manager, Red Team 
-This role extends the Security Incident Response Team Manager role by adding vision and strategy. It consolidates all SIRT teams' efforts and drives them towards a set of strategic goals. The Senior Manager, Red Team reports to the [Director of Security Operations](/job-families/engineering/security-management/#director-of-security).
+This role extends the Security Incident Response Team Manager role by adding vision and strategy. It consolidates all SIRT teams' efforts and drives them towards a set of strategic goals. The Senior Manager, Red Team reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations).
 
 #### Senior Manager, Red Team Job Grade
 The Security Incident Response Team Senior Manager is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -184,4 +184,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Candidates will then be invited to schedule an interview with Director of Security Operations
 - Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

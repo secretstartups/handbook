@@ -67,7 +67,7 @@ The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calcul
 * Have experience leading technical objectives in cross-functional teams
 
 ### Distinguished Security Research Engineer
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research) role at GitLab.
 
 #### Distinguished Security Research Engineer Job Grade
 The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -93,7 +93,7 @@ The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calcu
 * Have a portfolio of public communication of complex security concepts.
 
 ### Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research) role at GitLab.
 
 #### Job Grade
 The {Security Research Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -132,7 +132,7 @@ Enjoys working efficiently; is action oriented and full of energy for the things
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Senior Security Manager, Security Research
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security).
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 The {Security Research Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -170,4 +170,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then, candidates will be invited to schedule a 50-minute interviews with the Security Research team hiring manager.
 * Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering & Research.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -97,7 +97,7 @@ The {Staff Security Engineer, Automation} is a [grade 8](/handbook/total-rewards
 * Solid experience with Cloud Computing Platforms - GCP experience a plus
 
 ### Distinguished Security Engineer, Automation
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-operations) role at GitLab.
 
 #### Job Grade
 The {Distinguished Security Engineer, Automation} is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -120,7 +120,7 @@ The {Distinguished Security Engineer, Automation} is a [grade 10](/handbook/tota
 * Hands on experience architecting, automating, maintaining, and securing Cloud Computing Platforms - GCP experience a plus
 
 ### Security Automation Manager
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-operations) role at GitLab.
 
 #### Job Grade
 The {Security Automation Manager} is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -159,7 +159,7 @@ Enjoys working hard; is action oriented and full of energy for the things he/she
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Security Automation Senior Manager
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-operations) role at GitLab.
 
 #### Job Grade
 The {Security Automation Senior Manager} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -198,4 +198,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnaization,
 * Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering and Research.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

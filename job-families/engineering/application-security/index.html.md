@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Application Security Engineer"
+description: "Application Security Engineers work closely with development teams, product managers (PM), and third-party groups to ensure that GitLab products are secure."
 extra_js:
 - libs/mermaid.min.js
 ---
@@ -87,7 +88,7 @@ The role is a [grade 8](/handbook/total-rewards/compensation/compensation-calcul
 * Be a subject matter expert (SME) of at least 2 technical areas impacting the security of the product.
 
 ### Distinguished Application Security Engineer
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/) role at GitLab.
 
 #### Distinguished Application Security Engineer Job Grade
 The role is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -136,7 +137,7 @@ In addition to the general requirements for [Application Security Engineers](#ma
 * Auxillary responsibilities include those [general to the Application Security Engineer role](#main_responsibilities).
 
 ### Security Manager, Application Security
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security) role at GitLab.
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research) role at GitLab.
 
 #### Job Grade
 The Application Security Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -174,7 +175,7 @@ Enjoys working hard; is action-oriented and full of energy for the things he/she
 * Can be counted on to exceed goals successfully; is constantly and consistently one of the top performers; very bottom-line oriented; steadfastly pushes self and others for results.
 
 ### Application Security Senior Manager
-This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-management/#director-of-security).
+This position reports to the [Security Engineering and Research Director](/job-families/engineering/security-leadership/#director-security-engineering--research).
 
 #### Job Grade
 The Application Security Senior Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -213,4 +214,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then, candidates will be invited to schedule a 50-minute interview with the Application Security team hiring manager.
 * Finally, candidates will be invited to schedule a 30-minute interview with the Director, Security Engineering & Research.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

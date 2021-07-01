@@ -204,7 +204,7 @@ The Trust and Safety Manager is a [grade 8](/handbook/total-rewards/compensation
 * Alignment with Manager responsibilities as outlined in [Leadership at GitLab](company/team/structure/#management-group)
 
 ### Senior Manager, Trust and Safety 
-The Senior Manager, Trust and Safety reports to the [Director of Security Operations](/job-families/engineering/security-management/#director-of-security) role.
+The Senior Manager, Trust and Safety reports to the [Director of Security Operations](/job-families/engineering/security-leadership/#director-security-operations) role.
 
 #### Senior Manager, Trust and Safety Job Grade
 The Senior Manager, Trust and Safety is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
