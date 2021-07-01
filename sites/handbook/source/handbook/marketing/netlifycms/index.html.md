@@ -92,13 +92,11 @@ Blog posts managed through Netlify CMS can be found at [https://about.gitlab.com
 
 Please note that it takes time for all existing blog posts to load in the admin. You can use the "sort by" functionality to view only posts from a certain category. If you are creating a new blog post, you do not have to wait for all blog posts to load in the admin.
 
-<<<<<<< HEAD
 ### Case Studies/Customer pages
 
 A case study page is a landing page where customers share how they've been able to shorten the software development lifecycle while using GitLab. Here is an example: [https://about.gitlab.com/customers/axway-devops/](https://about.gitlab.com/customers/axway-devops/)
 
 Case studies managed through Netlify CMS can be found at [https://about.gitlab.com/customers/](https://about.gitlab.com/customers/). The content is located/stored in the [/data/case_studies](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/case_studies) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files.
-=======
 ### Event landing pages
 
 Event landing pages can be created and edited using Netlify CMS.
@@ -148,7 +146,6 @@ For the tracks module, you must designate a background color for the icon. Curre
 
 Place the class name of background color you'd like your icon displayed on. For example `slp-bg-brand-purple`.
 
->>>>>>> f24e94ad9f4 (add event content type to Netlify CMS handbook page)
 
 ## Admin features
 
