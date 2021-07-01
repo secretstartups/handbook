@@ -63,7 +63,7 @@ When Tamland predicts that a resource will exceed its alerting threshold ([as de
 
 Tamland's forecasts are reviewed by an engineer. Not all forecasts are always accurate: a sudden upward trend in the resource saturation metric may be caused by a factor that is known to be temporary - for example a long running migration. The engineer will evaluate based on all information on-hand and determine whether the forecast is accurate. If so, a new incident issue is opened in the [Capacity Planning](https://gitlab.com/gitlab-com/gl-infra/capacity-planning/-/issues) tracker.
 
-These reviews take place when new alerts arrive, or, at a minimum, prior to the [Engineering Allocation](https://docs.google.com/document/d/1j_9P8QlvaFO-XFoZTKZQsLUpm1wA2Vyf_Y83-9lX9tg/edit), which has a standing item for capacity planning, based on the outcome of the Tamland report.
+These reviews take place when new alerts arrive, or, at a minimum, prior to the [Engineering Allocation](/handbook/engineering/engineering-allocation), which has a standing item for capacity planning, based on the outcome of the Tamland report.
 
 Every week, the outstanding issues are reviewed and triaged, and appropriate measures are taken to address the potential saturation, including infradev issues, rapid actions or engineering allocation projects. When the resource is considered to no longer be a saturation threat, the issue should be closed.
 
