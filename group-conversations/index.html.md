@@ -44,7 +44,7 @@ The Key Review is intended for senior experts to ask questions. The Group Conver
 
 ### Host
 
-The Host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/people-group/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call (another term for the role is Presenter).
+The Host of a Zoom call is the person leading the conversation, usually the [DRI](/handbook/group-conversations/#schedule--dri), subject matter expert and overseer of the slides created for a call (another term for the role is Presenter).
 
 Questions will generally be directed to the Host, and they will usually answer them unless they feel that another team member has more information or expertise to offer. The Host/Presenter makes sure that questions are asked in the order they are listed in the agenda document.
 
@@ -165,7 +165,7 @@ These should be called Pop-up AMAs so it's clear to team members that the AMA wa
 
 The `EBA` team are responsible for moderating the following calls on a rotational basis:
 
-- AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/people-group/group-conversations/#request-an-ama)
+- AMAs (If requested with sufficient notice as per the instructions detailed [here](/handbook/group-conversations/#request-an-ama)
 - Group Conversations where an e-group member is the DRI
 - CEO 101 (Introductions and Livestream)
 
@@ -217,7 +217,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. Right now, everyone within GitLab i.e. all team members are invited to each call, we'll invite the wider community later.
 1. Make sure there is a list of 15 numbered items that only contains a space, this will make it easier to add things.
 1. Join the call 2-3 minutes early to ensure you're ready when it starts.
-1. If the call is to be streamed, the moderator will follow the script as directed in the [streaming the Call](/handbook/people-group/group-conversations/#duringthecall) section on this page.
+1. If the call is to be streamed, the moderator will follow the script as directed in the [streaming the Call](/handbook/group-conversations/#during-the-call) section on this page.
 1. When the meeting starts introduce yourself and say a few words about what this call is about. For example, "Hello everyone, I'm Diane and I lead the [team]. I am looking forward to answering your questions about our [group name] group."
 1. Do not present your slides. Invite the first person to verbalize their question, respond and when relevant mention a slide number. This is similar to what we do during [board meetings](/handbook/board-meetings/).
 1. Remember to only share the slides if illustrating something, otherwise let the speakers be visible in `Speaker View` setting on Zoom.
