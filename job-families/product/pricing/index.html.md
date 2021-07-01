@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Pricing"
+description: "The Pricing team owns the definition and execution of pricing strategy at GitLab."
 ---
 
 The Pricing team owns the definition and execution of pricing strategy at GitLab.  This team is incredibly strategic to GitLab's success, and has the opportunity to make a large positive financial impact through improving Average Selling Price and Average Revenue per User.
@@ -97,10 +98,10 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (Sr. Director of Strategic Marketing or CMO)
 - Next, candidates will be invited to schedule an interview with the Chief Product Officer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Sr. Director of Pricing
-The Sr. Director of Pricing reports to the [Executive Vice President of Product](/job-families/product/evp-of-product/).
+The Sr. Director of Pricing reports to the [Executive Vice President of Product](/job-families/product/chief-product-officer/).
 
 #### Sr. Director of Pricing Responsibilities
 
@@ -139,7 +140,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule an interview with a leader from the Marketing Organization (Sr. Director of Strategic Marketing or CMO)
 - Finally, candidates may be invited to schedule an interview with the CEO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Performance Indicators
 

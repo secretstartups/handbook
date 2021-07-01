@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Candidate Experience"
+description: "The GitLab Candidate Experience Specialists work to create positive experiences for GitLab candidates and hiring teams."
 ---
 
 ## Candidate Experience Specialist
@@ -109,7 +110,7 @@ The Candidate Experience Lead is a [grade 7](/handbook/total-rewards/compensatio
 
 ## Career Ladder
 
-The next step in the Candidate Experience job family is to move to the [Recruiting Operations](/job-families/people-ops/recruiting-operations/) job family, [Recruiter](/job-families/people-ops/recruiter/) job family or the [Sourcer](https://about.gitlab.com/job-families/people-ops/recruiting-sourcer/) job family.
+The next step in the Candidate Experience job family is to move to the [Recruiting Operations](/job-families/people-ops/recruiting-operations-insights/) job family, [Recruiter](/job-families/people-ops/recruiter/) job family or the [Sourcer](https://about.gitlab.com/job-families/people-ops/recruiting-sourcer/) job family.
 
 ## Performance Indicators
 

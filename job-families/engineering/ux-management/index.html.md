@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "UX Management"
+description: "Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what Product Designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed."
 ---
 
 # UX Management Roles at GitLab
@@ -26,7 +27,7 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 * **UX process**: Set up and manage collaborative processes within your team to ensure Product Designers, Technical Writers, and Researchers are actively working together. Make sure everyone has exposure to the work that is happening within the broader team. Collaborate with your peers to make improvements to how we work across the design organization.
 * **Hiring:** Interview and conduct portfolio reviews of Product Design candidates to hire a world-class team. Review and provide feedback on interview scorecards to maintain a high-quality interview process. 
 * **Public presence:** Help promote GitLab publicly through activities like writing blog articles, giving talks, publishing videos to GitLab Unfiltered, and engaging in social media efforts, where appropriate.
-* **Vision and direction:** Have an awareness of [Opportunity Canvas](/handbook/product/product-process/#opportunity-canvas) reviews, strategy, and vision of the stages or areas you're assigned.
+* **Vision and direction:** Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and vision of the stages or areas you're assigned.
 * **People management:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
 
 ### Specialties
@@ -211,7 +212,7 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 
 As always, interviews and the screening call will be conducted via video.
 
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Performance indicators
 

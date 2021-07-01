@@ -20,4 +20,3 @@ title: "Distributed Systems Specialist"
 * Experience building and scaling highly-available systems
 * Proficient in Ruby on Rails and/or Go
 
-In addition, see the [Senior Developer job description](/job-families/senior-developer/).

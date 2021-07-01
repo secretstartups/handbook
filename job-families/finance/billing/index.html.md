@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Billing"
+description: "The Billing Operations & Collections Team at Gitlab form part of the Revenue Accounting Group and are responsible for the Worldwide Billing & Collections process."
 ---
 
 The Billing Operations & Collections Team at Gitlab form part of the Revenue Accounting Group. The Billing & Collections Team are responsible for the Worldwide Billing & Collections process. 
@@ -253,4 +254,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Then, candidates will be invited to schedule a 45 minute interviews with the Hiring Manager and a 30 minute interview with a Peer
 - Finally, candidates will be invited to a 45 minute interview with a member of the Executive team.
 
-As always, the interviews and screening call will be conducted via a [video call](h/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
