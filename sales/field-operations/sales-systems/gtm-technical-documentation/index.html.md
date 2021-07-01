@@ -23,6 +23,11 @@ Please see the dedicated [ARR Technical Documetation Page](https://about.gitlab.
 
 Please see the dedicated [Gainsight Technical Documentation Page](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/gainsight/)
 
+## Xactly 
+
+More information to come. If you need a new field brought into Xactly please leverage the `AddFieldToXactlySales` [issue template](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bmilestone_id%5D=#) in the Sales Systems Project
+
+
 ## Territory Success Planning
 
 **Business Process this supports:** [Territory Success Planning](/handbook/sales/field-operations/sales-operations/#territory-success-planning-tsp)
