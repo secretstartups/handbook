@@ -620,7 +620,7 @@ Notes:
 1. Check your numbers on the list. The following applies:
     - Any list over 10k - you need opps approval to send - tag @amy.waller in the issue if you need to send over 10k 
     - Please try to not include over 100 people at a single account to avoid triggering SPAM filters at that account
-        - Use `Engagement Minute` filters at the person level to get down under 100 people per account  
+        - Add the `Engagement Minute` filter at the person level to get down under 100 people per account. If you send to more than 100 people per account, it will trigger spam filters.
     - For *geo wide* - i.e. all of AMER West - send should be no more than 10K
     - For *Sub-geo* - i.e all of NorCal - no more than 5k sends
     - For *territory* - i.e. Bay Area - no more than 2,500k
@@ -631,22 +631,26 @@ Notes:
 
 1. Ensure your list fits the criteria above.
 1. Navigate to the Marketo Program that you would like to add your DB1 list to.
-1. Under `Lists` folder, create a static list with the name `DB_List Push`. 
-1. Under `Smart Campaigns` folder, create a new smart campaign (or if built already, click into the `DB1 List Push` smart campaign) The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo.
-     1. Update Smart List in the campaign
-        1. Smart List in the campaign should have the trigger filter `Campaign is Requested`
-        1. Update the source to `Web Service API`
+1. Under the `Lists` folder, create a static list by right-clicking on `Lists` and then click `New Local Asset` and select `List` from the pop up box. Name your new list`DB List Push - Name of your Event`. No `Description` is needed. Click `Create`.
+1. Under `Smart Campaigns` folder, create a new smart campaign (or if built already, click into the `DB1 List Push` smart campaign) by right-clicking `Smart Campaigns` and selecting `New Campaign`. The campaign name should be easily identifiable to you, as you will be searching for it in DB1. Please use `DB` prefix so it's purpose is easily identifiable in Marketo. You do not need to fill in `Description` or click `Executable`. Click `Create`.
+     1. Update the Smart List in the campaign by clicking `Smart List` at the top of the page
+        1. On the right hand side of the screen, type in `Campaign` in the search field
+        1. Drag `Campaign is Requested` from the right side of the page to the middle section of the page
+        1. Update the source in the drop down to `Web Service API`
         1. You can add other filters here as necessary. Since your list will be made in DB1, you likely won't need any additional filters here.
-    1. Update Flow
-        1. `Add to List` and find the list you created in the step above
-        1. If you need this group to have a specific member status, you can add that step as well: `Change Program Status` and update the new status
-    1. Turn program on in the schedule tab. People should only pass through Once.
-1. Log into DB1 platform and navigate to your list in the Database section of DB1 *Must be a person list*
-1. Select the people you want to push to Marketo, and click the `Take Action` button
+    1. Update Flow by clicking on `Flow` at the top of the page
+        1. Drag `Add to List` from the right side of the page to the middle of the page 
+        1. Find the list you created in the step above in the drop down by typing in name of the list. Note that your list name will include the name of the program as well. For example - if your list name is DB1 List Push - East Event, the full name that will pull is 20210610_EastEvent.DB1 List Push - East Event
+        1. If you need this group to have a specific member status, you can add that step as well by dragging over `Change Program Status` and update the new status. However, this is generally not recommended.
+    1. Turn on the program by clicking `Schedule` at the top of the page and clicking `Activate` and then `Activate` again in the pop up box. People should only pass through once.
+1. Log into the DB1 platform and navigate to your list in the `Database` section of DB1 - *Must be a person list*
+    1. You want to select all the names by clicking the checkbox at the top of the list next to `Name`. This will only select the page you are on so if you want to select all of the names on the list, click `Select All Rows` at the top of the list. Click the `Take Action` button.
     1. A sidebar on the right will pop up. Select `Add to Marketo Campaign` under `Partner Actions` section.
-    1. Select the campaign that you created a few steps ago. If you do not see your campaign, click the wheel next to the drop down to re-load the campaigns from Marketo. If it still does not show up, make sure that you turned the Marketo Smart Campaign on.
-    1. Click Confirm.
-    1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push. You can also view this in Settings>History>Action History in DB1.
+    1. Select the campaign in the drop down that you created a few steps ago. If you do not see your campaign, click the wheel next to the drop down to re-load the campaigns from Marketo. If it still does not show up, make sure that you activated the Marketo Smart Campaign in the previous steps above.
+    1. Click `Confirm`
+    1. Leads will momentarily populate your Marketo static list. In the sidebar, there will be a link to check the status of the push by clicking `See action history for status` and clicking `Job Status`. You can also view this in `Settings>History>Action History` in DB1. Loading the list may take some time but usually should take no longer than 15-20 minutes. Once your list is available, all the people in your list will show up under `Action Status` with a checkmark by `status`.
+1. Go back to your Marketo program to make sure your list is available. To do this, go to the `List` folder and click on the list you created (DB1 List Push - East Event). Select `People` at the top of the page. This is where you will see all of the people in your list and can confirm the pull was successful.
+    1. Once your list has successfully pulled to Marketo, deactivate the smart campaign. To do this, go to your Marketo program, click the `Smart Campaigns` folder on the left hand side of the screen under your program, click the name of your DB1 list push that you created steps above, click `Schedule` at the top of the page and click `Deactivate`.
 
-Once your list is pushed from DB1 to Marketo, you will need to reference that static list in your email programs or target lists (will be adding this to templates). **You still need to have the proper email compliance filters on any of your email programs.**
+Once your list is pushed from DB1 to Marketo, you will need to reference the static list that you created under the Marketo `List` folder (DB1 List Push - East Event) in your email programs or target lists (will be adding this to templates). **If you are working with Verticurl:** You will want to reference the static list you created under the Marketo `List` folder (DB1 List Push - East Event) in your invite issues so they know which list to pull for your email sends. Verticurl will also make sure all the correct compliancy filters have been applied in Marketo before scheduling your send. **You still need to have the proper email compliance filters on any of your email programs.**
 
