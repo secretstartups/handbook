@@ -40,12 +40,20 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
 1. Submissions should include how much time would ideally be allocated for a specific topic 
 1. The [CoS](/job-families/chief-executive-officer/chief-of-staff/) will organize agenda suggestions and allocate discussion times by 3pm PT on the business day immediately before the meeting
 1. If pre-work is strongly encouraged, it should be flagged as early possible in the week before in #e-group or another appropriate Slack channel
-1. Each agenda item should clearly state the objective for the topic. For example:
-   1. Inform about upcoming announcement
-   1. Get feedback on a proposal
-   1. Make a decision on the Contribute location
 1. If you are inviting external folks to a specific session, please notify the EBA to the CEO at least two business days before the meeting
 1. Ensure that any invited participants are clear about their role in the discussion
 1. The CoS will manage time within the meeting
 
-
+## Agenda structure
+1. The agenda for each E-Group Weekly has 3 sections:
+   1. FYIs: items that don't need any discussion time and can be reviewed async
+   1. Department updates: a **brief** overview of key business happenings within the department. If an E-Group member has an update that will take **over one minute** or require team input, discussion items should instead be added to the "topics for discussion" section. In department updates, it is especially important to share:
+      1. Items not otherwise covered in [Key Reviews](/handbook/key-review/) or [Group Conversations](/handbook/group-conversations/)--or items in these that deserve an additional spotlight
+      1. Changes or updates that impact the business as a whole
+      1. Activities that are of cross-functional interest
+      1. Notable progress or lack of progress against goals
+   1. Topics for discussion: items that require allocated time during the meeting
+1. Each "Topics for Discussion" agenda item should clearly state the objective for the topic. For example:
+   1. Inform about upcoming announcement
+   1. Get feedback on a proposal
+   1. Make a decision on the Contribute location
