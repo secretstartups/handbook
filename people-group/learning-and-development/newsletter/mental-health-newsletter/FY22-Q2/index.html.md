@@ -5,7 +5,7 @@ title: FY22-Q2 L&D Mental Health Newsletter
 
 ## Mental Health Newsletter, Edition 3! 
 
-Hello, GitLab Team! Welcome to 3rd addition of the GitLab Mental Health newsletter! If you're interested in learning more about the intentions of this newsletter, check out our [goals](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#long-term-goals) listed in the handbook.
+Hello, GitLab Team! Welcome to 3rd edition of the GitLab Mental Health newsletter! If you're interested in learning more about the intentions of this newsletter, check out our [goals](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#long-term-goals) listed in the handbook.
 
 And, if this is your first time reading the Mental health newsletter, be sure to check out [past editions](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#past-newsletters) for great information about team member resources to prevent burnout and support your mental wellbeing.
 
