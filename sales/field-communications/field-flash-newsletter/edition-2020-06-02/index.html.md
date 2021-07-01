@@ -83,7 +83,7 @@ Note that all in-person regional events are still tentative due to risks surroun
 **AMER**
 - [TechStrongCon Virtual Summit](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1380) - June 4
 - [Agile + DevOps Virtual Conference](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1309) - June 8-11
-- [Webcast: Remote Work Q&A with GitLab Leadership (CRO)](https://about.gitlab.com/webcast/mind-merge-request-leadership-qa/) - June 10
+- Webcast: Remote Work Q&A with GitLab Leadership (CRO) - June 10 
 - [Rethinking DevOps for Business Resiliency Webcast](https://about.gitlab.com/webcast/rethinking-devops-resiliency/) - June 11
 - [Digital DevOps Webcast Series: How to Reduce DevOps Cost](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1262) - June 18
 - [Apex Virtual CIO National Summit](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/1407) - June 23
