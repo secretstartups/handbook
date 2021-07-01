@@ -1416,8 +1416,7 @@ The `due` field is defined by the future removal of that feature. The field is r
 `description` should contain a brief description of the feature or functionality being removed. It is recommended that you link to the documentation.
 The description of the deprecation should state what actions the user should take to rectify the behavior. 
 
-
-If the deprecation is scheduled for an upcoming release, the content should remain in the release post until it has been completed. For example, if a deprecation is announced in the 12.9 release post and scheduled to be completed in 13.0, the same content would be included in release posts 12.9, 12.10, and 13.0. Product Managers are the DRI for re-adding the deprecation to release posts until the item is completed.
+If the deprecation is scheduled for an upcoming release, the content should remain in the [documentation](link TBD) until it has been completed. For example, if a deprecation is announced in 12.9 and scheduled to be completed in 13.0, the same content would be included in the documentation for 12.9, 12.10, and 13.0.
 
 If you have multiple deprecation notices for your category, then you can choose to create one MR. The MR should still consist of a deprecate_category_feature.yml file for each feature that you are deprecating.
 
