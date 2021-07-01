@@ -1,6 +1,7 @@
 ---
 layout: job_family_page
 title: "Executive Business Administration"
+description: "Executive Business Administrator's at GitLab toggle seamlessly between various systems to accomplish an array of tasks, while staying focused on prioritization and escalating urgent issues."
 ---
 
 ## About the role
@@ -30,7 +31,7 @@ The Executive Business Administrator is a [grade TBD](/handbook/total-rewards/co
 * Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 * Maintains and tracks manager and teams project list and goals
 * Attend team staff meetings, track agenda and assist Executive to keep team on course
-* Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
+* Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide coverage for other EBA's
 * Assist with ad hoc projects, events and travel arrangements as needed
 
@@ -79,7 +80,7 @@ The Executive Business Administrator is a [grade 6](/handbook/total-rewards/comp
 * Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 * Maintains and tracks manager and teams project list and goals
 * Contribute to team meetings and offsites by assisting with the production of materials and pre-reads, taking notes, and tracking action items
-* Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
+* Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide general project support as needed including ad-hoc reporting
 * Provide coverage for other E-Group EBA's
 
@@ -127,7 +128,7 @@ The Senior Executive Business Administrator is a [grade 7](/handbook/total-rewar
 * Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 * Manage Executives email inbox including drafting internal and external communications on behalf of Executive
 * Compile receipts to submit timely and accurate expense reports on a monthly basis
-* Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
+* Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide coverage for other Sr. E-Group EBA's
 * Run and lead special projects upon request
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
@@ -171,7 +172,7 @@ The Executive Business Administrator, Lead is a [TBD]
 * Assist the full life cycle of recruiting including booking interviews, liaising between the hiring team and the candidate, and coordinating onboarding of new hires
 * Manage Executives email inbox including drafting internal and external communications on behalf of Executive
 * Compile receipts to submit timely and accurate expense reports on a monthly basis
-* Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
+* Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Provide coverage for other Sr. E-Group EBA's
 * Run and lead special projects upon request
 * Must be able to work flexible hours to support international business meetings and some travel is required in most roles
@@ -223,7 +224,7 @@ The Staff Executive Business Administrator is a [grade 8](/handbook/total-reward
 * Serve as a helpful knowledge base for executives and other team members (e.g., other EBAs), especially for processes and procedures, and provide assistance in a hands-on, kind, and proactive manner
 * Work flexible hours to support global business meetings; some travel is required
 * Continually improve processes and procedures to reduce work time and cost without compromising work quality;  take proactive measures to prevent yourself from burnout
-* Schedules, live streams and moderates [Group Conversations](/handbook/people-group/group-conversations/)
+* Schedules, live streams and moderates [Group Conversations](/handbook/group-conversations/)
 * Other duties (and ad hoc tasks) as assigned in support of your executive and business
 
 #### Staff Executive Business Administrator to the CEO Requirements
