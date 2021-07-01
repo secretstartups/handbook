@@ -27,7 +27,7 @@ include:
 7. **Paste the code** just copied below the **test1** section, leaving a blank line between the blocks of code. Ensure the first line of the pasted code is flush-left, and the second line is indented.
 8. Click the blue **Commit...** button.
 9. Add a commit message: `Add SAST to pipeline`
-10. Click **Commit to `master` branch** instead of creating a new branch.
+10. Click **Commit to `master` branch** instead of creating a new branch. The branch may also be named `main`.
 11. Click **Commit**. Now that you have committed this change, the pipeline will run.
 
 Next, let's add a file with a known vulnerability and see if SAST detects it.
