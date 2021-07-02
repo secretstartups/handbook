@@ -37,7 +37,9 @@ Once Team Member Enablement receives your laptop order we start working on purch
 
 However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available. 
 
-Approx Delivery Timelines for Gitlab Hardware
+If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
+
+Current Delivery Timelines for Gitlab Hardware
 
 US New Hires - 1-2 weeks (Apple) and 4-6 weeks (Dell)
 Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
