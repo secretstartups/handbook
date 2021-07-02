@@ -69,7 +69,7 @@ the submission deadline for any planned work.
 
 Please indicate the relative priority of the new issue compared to any other issues you have open 
 in the backlog (if applicable). In general, the issues that are more immediately actionable and 
-impactful to the company should be higher in priority.
+impactful to the [company KPIs](/company/kpis/) should be higher in priority.
 
 ### Milestone Planning
 
@@ -181,6 +181,14 @@ without going through the formal planning process at the analyst's discretion, b
 impact our ability to complete all issues in the milestone.
 
 _*The threshold for "additional work" is to be determined by the analyst working on the issue._
+
+Experimentation analysis issues are naturally blocked by the experiment actually running (we have 
+to wait until we have sufficient data in order to perform the analysis). In order to enable a more 
+accurate measure of velocity, we will divide the work into 2 separate issues*:
+1. Experiment prep (dashboard creation and data validation)
+1. Experiment analysis
+
+_*At this time, PMs should continue to open a single issue and analysts will separate accordingly._
 
 #### Undocumented Requests
 
