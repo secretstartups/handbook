@@ -612,7 +612,7 @@ securityContext:
   runAsUser: 100
 ```
 
-## Automated Processes Loading into Snowflake
+## Automated Processes Loading Data into Snowflake
 
 ### Version DB and License DB Load Tasks
 
