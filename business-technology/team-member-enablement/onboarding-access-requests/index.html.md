@@ -31,6 +31,17 @@ If the latter, see below.
 Team members that do not live in these countries will need to procure their own laptop and submit for reimbursement.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
+### Laptop Purchasing and Shipping Process
+
+Once Team Member Enablement receives your laptop order we start working on purchasing your laptop and any additional equipment requested. We leverage business relationships with several different vendors across the globe to accomplish this remotely. Please note delivery times will vary depending on location, supply of hardware, vendor selection, and shipping method.
+
+However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available. 
+
+Approx Delivery Timelines for Gitlab Hardware
+
+US New Hires - 1-2 weeks (Apple) and 4-6 weeks (Dell)
+Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
+
 ### Key Performance Indicators
 
 KPI 99% of laptops will arrive prior to start date or 21 days from the date of order.
