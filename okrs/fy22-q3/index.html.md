@@ -42,7 +42,6 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 3. CEO: Even prouder to work here
    1. **CEO KR:** KR: 90% of team members answering an internal survey say that they agree that:
-      1. They are bullish on GitLab’s long-term outlook
       1. Feel comfortable delivering our Golden Pitch
       1. Feel comfortable speaking to our brand message
       1. [If attending] Contribute was a success
@@ -51,4 +50,4 @@ The by-the-book schedule for the OKR timeline would be
       1. GitLab pays competitively
    1. **CEO KR:** Meet hiring targets and have a diverse top of pipeline
    1. **CEO KR:** 7 certifications with more than 10,000 certificates issues
-   1. **CEO KR:** Graduate Project Gotham and Project Sycamore from internal limited to public
+   1. **CEO KR:** Graduate 2 internal projects from internal limited to public
