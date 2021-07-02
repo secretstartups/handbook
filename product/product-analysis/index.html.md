@@ -198,12 +198,15 @@ so will our ability to support additional asks and analyses.
 
 ## Slack
 
-### Slack Channels
-
 1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth stage-related data questions
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
 
 ## Product Analysis Handbook Contents
+
+* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
+* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
+
+## Product Analysis Handbook Structure
 
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)

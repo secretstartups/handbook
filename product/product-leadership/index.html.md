@@ -22,7 +22,7 @@ The GitLab Product team includes team members at various levels of [Product Mana
 | Manager | [Group Manager Product](/job-families/product/product-management-leadership/#group-manager-product-gmp), [Director of Product](/job-families/product/director-of-product/) | Collection of Groups, Stage, Section |
 | Director | [Director of Product](/job-families/product/director-of-product/) | Section |
 | Senior Leader | [VP](/job-families/product/vp-of-product/) | All Sections |
-| Executive | [EVP](/job-families/product/evp-of-product/) | Entire Function |
+| Executive | [EVP](/job-families/product/chief-product-officer/) | Entire Function |
 
 ## Product Leaders
 
@@ -32,7 +32,7 @@ All Managers and above in the Product function are considered product leaders. T
 
 Product team members who:
 
-- Report directly to the [Chief Product Officer](/job-families/product/evp-of-product/)
+- Report directly to the [Chief Product Officer](/job-families/product/chief-product-officer/)
 - Report directly to the [VP of Product Management](/job-families/product/vp-of-product/)
 - Are Director+
 
