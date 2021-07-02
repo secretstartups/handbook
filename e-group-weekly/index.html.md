@@ -45,7 +45,7 @@ The [EBA to the CEO](https://about.gitlab.com/handbook/eba/#executive-business-a
 1. The CoS will manage time within the meeting
 
 ## Agenda structure
-1. The agenda for each E-Group Weekly has four sections:
+1. The agenda for each E-Group Weekly has three sections:
    1. Topics for discussion: items that require allocated time during the meeting
    1. FYIs: items that don't need any discussion time and can be reviewed async
    1. Department updates: a **brief** overview of key business happenings within the department. If an E-Group member has an update that will take **over one minute** or require team input, discussion items should instead be added to the "topics for discussion" section. In department updates, it is especially important to share:
