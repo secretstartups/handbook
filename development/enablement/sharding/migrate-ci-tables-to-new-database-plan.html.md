@@ -74,6 +74,8 @@ locations of primary and replica hosts.
    cluster has caught up to `last_update_lsn`
 1. Remove the streaming replication from main Patroni cluster to CI Patroni cluster
 1. Update Consul DNS `CNAME master-ci-transition.patroni.service.consul -> master-ci.patroni.service.consul`
+1. This is considered the "Point of no return". See [Rolling
+   back](#rolling-back) for the options for recovering from failures from here.
 1. At this point the transition is complete but there will be many failed
    writes to CI tables for the updates that were in the queue behind the
    transaction as well as the 2s window before PGBouncer notices the DNS
@@ -87,6 +89,39 @@ locations of primary and replica hosts.
 1. Delete the `master-ci-transition.patroni.service.consul` DNS record
 1. Truncate ci tables on main database
 1. Delete non-ci tables from CI database
+
+## Rolling back
+
+Rolling back depends on where you are at in the chain of migration steps. The
+last point before you can roll back will be after writes have been written to
+the new destination CI Patroni cluster. Beyond this point the options you have
+for recovery will depend heavily on the specific failure.
+
+Here are some example scenarios:
+
+1. If for some reason you run into issues just deploying the new standby
+   Patroni cluster that impact availability of GitLab.com then you should
+   remove the `standby_cluster` configuration section from the new Standby
+   cluster and remove the replication slot from the `slots` section of the main
+   Patroni cluster. After this you can safely just remove or shut down the new
+   CI Patroni cluster infrastructure.
+1. If you have issues with GitLab connecting to the new databases but have not
+   past the "point of no return" then you can just revert the GitLab
+   configuration changes such that GitLab no longer uses separate connections
+   for the `ci` database. This just involves reverting the change to add `ci:`
+   section to `config/database.yml`. After this you may choose to rollback
+   specific infrastructure changes that deployed the new hardware.  This is
+   effectivly cleanup and does not need to be rushed.
+1. If you are past the "point of no return" and writes are not being written to
+   the new destination host and they are just failing or being lost then:
+   you can change back to writing to the main Patroni cluster:
+   1. `CNAME master-ci-transition.patroni.service.consul -> master.patroni.service.consul`
+1. If you are past the "point of no return" and writes have been written to the
+   new cluster but you need to roll back due to some performance issues then
+   this will likely require downtime. If there is no data loss it will be
+   possible to recover by stopping any writes to `ci_*` tables (or GitLab.com
+   entirely) and then doing a `pgdump` of all the `ci_*` tables. Then use that
+   `pgdump` to recover the up to date state of all `ci_*` tables on the main Patroni cluster. At this point you can set the CNAME back to point to the main cluster `CNAME master-ci-transition.patroni.service.consul -> master.patroni.service.consul` and re-enable writes.
 
 ## Process in diagrams
 
@@ -353,7 +388,10 @@ run a migration. Secondly it is much slower than streaming replication.
 We do, however, think that logical replication of only the relevant tables
 (`ci_*`), only during a brief window in a low usage time, may result in less
 updates that need to be synced and therefore a briefer downtime window when
-switching over the databases.
+switching over the databases. Additionally it may afford us more rollback
+options if we were to reverse the direction of logical replication after the
+switchover since it would then allow us to switch back to a database with all
+writes in place.
 
 We need to add specific details about how this conversion of streaming
 replication into logical replication would work without gaps and we also need
