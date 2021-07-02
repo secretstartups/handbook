@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: "Business Systems Analysts"
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -12,8 +14,9 @@ title: "Business Systems Analysts"
 {:toc .hidden-md .hidden-lg}
 
 ## Welcome to the BSA Handbook!
-* We are on a mission to **Improve the Efficiency of GitLab by Designing and Implementing Scalable Business Solutions.**
 
+We are on a mission to **Improve the Efficiency of GitLab by Designing and Implementing Scalable Business Solutions.**
+{: .alert .alert-gitlab-orange}
 
 ## Who Are We?
 We are a global team of four, focused on designing, delivering, and maintaining high quality business systems solutions by applying project management methodology. To learn more about our job function, visit our [job families page](https://about.gitlab.com/job-families/finance/business-system-analyst/).
@@ -251,4 +254,4 @@ The purpose of engagement meetings is to focus on Roadmap Prioritization, Issues
    - Frequency: Monthly
    - Participants: Enterprise Applications (host), Marketing
 
-
+{::options parse_block_html="false" /}
