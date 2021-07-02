@@ -18,7 +18,7 @@ sections/groups.
 
 Read more about what we do at GitLab on our [Direction](/direction/product-analysis/) page.
 
-### Product Analysis group members
+### Product Analysis Group Members
 
 * [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
@@ -46,7 +46,7 @@ You can see our current milestone [here](https://gitlab.com/gitlab-data/analytic
 For all product analysis requests, please create an issue in the [Data Team Analytics project](https://gitlab.com/gitlab-data/analytics/-/issues), 
 apply the `~product analysis` label, and follow the guidelines below.
 
-All data issues with `product analysis` labels will appear on a [product analysis board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=product%20analytics).
+All data issues with the `product analysis` label will appear on a [product analysis board](https://gitlab.com/gitlab-data/analytics/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=product%20analysis).
 
 #### Issue Templates
 
@@ -74,7 +74,7 @@ impactful to the company should be higher in priority.
 ### Milestone Planning
 
 Final commitment and prioritization will be set during the milestone planning meeting, which 
-takes places the Tuesday before a milestone begins. The team will consider new and existing 
+takes places the Thursday before a milestone begins. The team will consider new and existing 
 issues, along with issues in progress. When selecting issues for the next milestone, the team 
 considers the following:
 
@@ -120,9 +120,6 @@ converted to an epic).
 | 13 | 1 week |
 | 21 | 2+ weeks |
 | 34 | 1+ month |
-| 55 | 1+ quarter |
-| 89 | 1+ year |
-| 144 | 1+ decade |
 
 #### Velocity
 
@@ -201,18 +198,20 @@ so will our ability to support additional asks and analyses.
 
 ## Slack
 
+### Slack Channels
+
 1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth stage-related data questions
-1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions 
+1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
 
 ## Product Analysis Handbook Contents
 
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
 
-### Other helpful resources & links
+### Other Helpful Resources & Links
 
 1. [Growth Insights Knowledge Base](/direction/growth/#growth-insights-knowledge-base)
 1. [Growth Experiments Knowledge Base](/direction/growth/#growth-experiments-knowledge-base)
 1. [Growth Product Handbook](/handbook/product/growth/)
-1. [Data for product managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
-1. [Data team How we can help you Page](/handbook/business-technology/data-team/#how-we-can-help-you)
+1. [Data Team Handbook](/handbook/business-technology/data-team/)
+1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
