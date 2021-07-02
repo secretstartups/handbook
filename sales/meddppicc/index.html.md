@@ -192,8 +192,8 @@ Check out the [Demystifying the Metrics Conversation](/handbook/sales/command-of
 ### Video
 
 Check out the below podcasts
-- [Coaches vs. Champions](https://audiblereadypodcast.libsyn.com/24-coaches-vs-champions-w-john-kaplan) (12.5 minutes)
-- [How to Test Your Champion](https://audiblereadypodcast.libsyn.com/10-how-to-test-your-champion-w-john-kaplan) (11 minutes)
+- [Coaches vs. Champions](https://podcasts.apple.com/gb/podcast/24-coaches-vs-champions-w-john-kaplan/id991362894?i=1000487042596) (12.5 minutes)
+- [How to Test Your Champion](https://podcasts.apple.com/us/podcast/10-how-to-test-your-champion-w-john-kaplan/id991362894?i=1000472867963) (11 minutes)
 
 ### Qualifying Questions
 
