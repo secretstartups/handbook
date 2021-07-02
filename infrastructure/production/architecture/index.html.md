@@ -35,7 +35,7 @@ This document does not cover servers that are not integral to the public facing 
 ### GitLab.com Production Architecture
 {: #gitlab-com-architecture}
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=800">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vShfNY5bxtjAsYq-YBDAJAnyjBuxN0i62NoDvbmhvDVOrCas20_Q4XA8Qxm1D2v0mmemP9y-rDsRQFe/pub?w=669&h=551">
 
 [Source](https://docs.google.com/drawings/d/1NmafL3ULQnjuY3_JFMWDwXpjdd0I1hyMXkZ0bwUYNhI/edit), GitLab internal use only
 
