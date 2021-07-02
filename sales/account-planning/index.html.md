@@ -1,3 +1,12 @@
+---
+layout: handbook-page-toc
+title: Account Planning
+description: >-
+  Account planning helps the SAL and the larger account ream elevate
+  opportunity-driven conversations into value-based conversations that focus on
+  the customer's value drivers.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -12,7 +21,7 @@ The SAL should think about account planning as if they were the CEO of their own
 
 ## Why Account Planning?
 
-Account planning helps the SAL and the larger account ream elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
+Account planning helps the SAL and the larger account team elevate opportunity-driven conversations into value-based conversations that focus on the customer's [value drivers](/handbook/sales/command-of-the-message/#customer-value-drivers). Good account plans help the team focus on what matters to earn strategic partner status with the customer which, in turn, will drive increased share of wallet and predictable growth. Account planning is NOT about creating a report for management--it's about helping the team create a strategic plan for long-term customer growth and retention.
 
 An effective account plan defines a clear strategy and action plan to grow and expand customer relationships and will help the SAL and the team:
 
