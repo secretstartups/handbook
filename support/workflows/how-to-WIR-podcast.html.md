@@ -46,7 +46,7 @@ Use this workflow when you want to do a Support Week-in-Review Podcast as a gene
 We use Anchor.fm to publish the Support Week in Review for any episodes that don't contain information that violates the [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/). If you accidentally disclosed confidential information or mentioned customer names during the recording skip to [publishing internally](#publishing-internally).
 
 Publishing on Anchor.fm:
-1. Log into Anchor.fm with the crednetials in the Support Vault
+1. Log into Anchor.fm with the credentials in the Support Vault
 1. Click "New Episode"
 1. From Library search "Title Music" and drag it into the "Your Episode" pane
 1. Upload the audio from the recording after the Title Music
