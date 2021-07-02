@@ -105,13 +105,13 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 | Use Case | DRI |
 | -------- | --- |
 | VCC | Suri Patel |
-| CI | Chrissie Buchanan |
+| CI | TBD|
 | DevSecOps | Val Silverthorne |
 | Simplify DevOps/DevOps platform | Val Silverthorne |
 | GitOps | Suri Patel |
-| CD | Chrissie Buchanan |
+| CD | TBD |
 | Agile | Suri Patel |
-| Cloud Native | Chrissie Buchanan |
+| Cloud Native | TBD |
 
 After a content asset or webpage has been translated, be sure to add it to the [Localization Resources](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) spreadsheet. If edit access, isn't available, send the content addition to @bmatturro to update.
 
