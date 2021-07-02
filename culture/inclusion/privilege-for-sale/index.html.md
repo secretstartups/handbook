@@ -5,7 +5,18 @@ description: "Information for the Privilege for Sale Activity "
 canonical_path: "/company/culture/inclusion/privilege-for-sale/"
 ---
 
-## Privilege for Sale 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+{::options parse_block_html="true" /}
+
+
+# Privilege for Sale 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RDHpmvN3Ivs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,7 +35,7 @@ This is a great interactive activity to get you thinking about Diversity, Inclus
 - Team members will be able to investigate and discuss what groups may have limited access to what privileges and effect that lack of access may have on an individual.
 - In the activity you have a list of privileges, you do not have any of these privileges, for the purpose of this exercise. 
 
-### The activity: 
+## The activity
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RgkSafpHrr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -60,7 +71,7 @@ Remember to allow everyone to express there opinion and really speak up as to wh
 1. You are able to use public restrooms or changing facilities without stares or fears of physical/verbal abuse. 
 
 
-### Debrief:
+## Debrief
 
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/4ZBvgOGI7Bc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -76,4 +87,10 @@ Now that you have finished the activity debrief on following:
 
 Once you have fully completed the activity, create a handbook entry on the DIB Roundtable Sharing Page. Share which privileges your chose and rationale plus any learnings you had. 
 
+## Best Practices
+
+### For Facilitators
+ * **Scheduling:** Use Google Calendar's [group scheduling feature](https://drive.google.com/file/d/1fKQSeuNQc08ZRZf68IioKEhH7E07pec-/view?usp=sharing) (`Meet with...`), located to the left of the calendar, to find a time that works for all participants. Schedule a 50 min meeting, or longer, if participants are able and willing. 
+ * **Preparing for the roundtable:** Create a copy of this suggested [facilitator template](https://docs.google.com/document/d/1BlIYfqtMWIkJUulqZYsgNq5_3bKihdyb5fGOeOpZVxI/edit#) and share it with participants only (do not share with "everyone at GitLab" since the DIB Roundtable is a safe space, with information shared needing to stay just between the group participants). Add in participant's names where relevant in the doc (e.g. `Participant 1's list`). 
+ * **How to facilitate:** A possible way to facilitate the Privilege for Sale activity is to ask everyone to take a few mins to choose their top 10 in the lists you've prepared for them. When they are finished, ask them to add a `+ Initial` to the group list (e.g. "You are able to feel safe" +N, +P, +D, +S). This will help you visually see which privileges are the most popular and may help you to begin the conversation. 
 
