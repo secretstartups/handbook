@@ -67,8 +67,7 @@ We often assist on the roll-out of new applications and systems. This involves v
 * Zuora Revenue
 
 ### Business Process Enhancements
-We partner closely with business stakeholders to help them improve existing business processes and help to design new ones. Some examples of business processes we have worked on include:
-* 
+We partner closely with business stakeholders to help them improve existing business processes and help to design new ones.
 
 ### Bug Fixes
 We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected.
@@ -135,8 +134,59 @@ Slack Tag: `@bsa`
 GitLab: You can also tag the Business Systems Analysts Team in GitLab using `@gitlab-com/business-technology/enterprise-apps/bsa`
 
 ## How We Work
+EntApps works to ensure GitLab’s Order-to-Cash (OTC) lifecycle is as efficient as possible, supporting our internal business teams and applications involved throughout the OTC process. This includes working with teams such as Sales, Sales Ops, Billing, Procurement and Finance to understand and build solutions for their business problems. To do this, we partner with other technical teams and application owners within the OTC process, such as Engineering and Sales Systems. 
 
-### Projects - Mark Quitevis
+EntApps works to resolve business issues using a 4 stage process: discover, build, test, and deploy.  More information about the 4 stages can be found in the Phase Exit Criteria section.
+
+### Intake
+Open a request for the Enterprise Applications team by using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
+
+On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open unassigned Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&utf8=%E2%9C%93&assignee_id=None) and assign them to a specific BSA to perform Discovery duties. Additional information will be requested in the Issue.
+
+Depending on the complexity and urgency of the request, the BSA will either track work and provide updates directly in the Issue or create a project Epic to properly manage more-intricate requests.  The same phases, discussed below, are followed for both Intake Requests and Project Epics.
+
+#### Project Epics
+The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 5 Epics and a change management Issue. A single parent Epic is created with 4 children Epics that represent each phase of the project
+
+![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/projects.png)
+
+### Phase Exit Criteria
+#### Discover
+During Discovery, EntApps conducts independent research and meets with business stakeholders to gain a better understanding of the business problem.  We then compile and cleanse detailed business requirements.  Finally, before beginning solution design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
+
+- Requirements documented and approved by business partners
+- Main project Epic Rolly updates
+- Change management Issue drafted
+- Re-evaluation and update of project dates
+- Finance System Admin, Enterprise Applications Integration Engineer, or Business Partner Engagement
+- EntApps Roadmap Update
+
+#### Build
+In the Build phase, EntApps collaborates with other stakeholders to develop solutions that meet the business requirements but also that are scalable and aligned with best-practices.
+
+- Test scripts documented on QA/UAT Epic
+- Main project Epic Rolly updates
+- Solution documentation complete
+- Change management Issue completed and approved by business partners
+- Re-evaluation and update of project dates
+- EntApps Roadmap Update
+
+#### QA/UAT
+EntApps collaborates with other stakeholders to develop test scripts and facilitates the user acceptance testing process.
+
+- UAT signoff by business partners
+- Deployment checklist documented and socialized with business partners
+- Main project Epic Rolly updates
+- Re-evaluation and update of project dates
+- EntApps Roadmap Update
+
+#### Deploy
+EntApps owns developing a deployment plan and collaborating with other implementation teams to ensure completeness. This involves launch plans, user enablement, and go-live communications.
+
+- Deploy announcement
+- Handbooking
+- Hyper care
+- EntApps Roadmap Update
 
 ### Rolly
 [Rolly](handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
