@@ -40,7 +40,7 @@ The by-the-book schedule for the OKR timeline would be
    1. **CEO KR:** 100% of sales people months have 2 [sales accepted opportunities (SAOs)](/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos). For example, if you had 10 sales people, you would have 30 sales people months in quarter (10 people x 3 months in the quarter). If two people didn’t get 2 SAOs in the first month and one person didn’t get 2 SAOs in the next, you would have achieved 90% of the target (27 sales people months out of 30 total sales people months) for the quarter.
    1.  **CEO KR:** Increase Trial conversion to X%, Increase Free to Trial/Paid to X%.
 
-### 3. CEO
+### 3. CEO: Even prouder to work here
    1. **CEO KR:** KR: 90% of team members answering an internal survey say that they agree that:
       1. They are bullish on GitLab’s long-term outlook
       1. Feel comfortable delivering our Golden Pitch
