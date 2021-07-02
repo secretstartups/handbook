@@ -221,6 +221,10 @@ Epics are a great way to [transparently](/handbook/values/#transparency) and [ef
 
 Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
 
+Below is a short video from the L&D team reviewing how and why you might choose to use epics for career development tracking:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Open an epic in a personal or team project
 1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
 1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
