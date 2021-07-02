@@ -69,12 +69,14 @@ Uses the GitLab API for managing users.
 
 ## Feature Flags
 
-Used for checking whether a specific feature flag has been enabled on GitLab.com or not.
+- Used for checking whether a specific feature flag has been enabled on GitLab.com or not.
+- User for enabling feature flag on a project level. 
 
 ### Available Options
 
 - get
 - list
+- set
 
 #### Obtaining the status of a specific feature flag
 
@@ -91,3 +93,16 @@ Used for checking whether a specific feature flag has been enabled on GitLab.com
 | **Attribute** | **Type** | **Required** | **Description** |
 | --- | --- | --- | --- |
 | `query` | string | yes | Your search term. For example, searching `wiki` will return all feature flags with the substring `wiki` in their name, along with their status. |
+
+#### Enable Feature Flag on a project 
+
+`/chatops run feature set :feature_flag true --project=:full_project_path`
+
+| **Attribute** | **Type** | **Required** | **Description** |
+| --- | --- | --- | --- |
+| `feature_flag` | string | yes | The name of the feature flag. |
+| `full_project_path` | string | yes | The full path to project. |
+
+Example:  
+
+`/chatops run feature set datadog_ci_integration true --project=toplevelgroup/subgroup/projectslug`
