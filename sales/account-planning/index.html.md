@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Account Planning
 description: >-
-  Account planning helps the SAL and the larger account ream elevate
+  Account planning helps the SAL and the larger account team elevate
   opportunity-driven conversations into value-based conversations that focus on
   the customer's value drivers.
 ---
