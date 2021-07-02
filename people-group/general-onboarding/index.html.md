@@ -58,7 +58,7 @@ General Topics Coveraged
 1. Add the new team members emails to the BCC line and CC the People Experience Team.
 1. The People Experience Team can check who will be attending the call by looking at the Google Form.
 1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected.
-1. The People Experience Team will also add the team members to the google calendar invite.
+
 
 ## Onboarding Check-In Call
 All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time.
