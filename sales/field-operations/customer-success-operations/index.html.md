@@ -64,17 +64,17 @@ Create issues under the ["CS Operations" project](https://gitlab.com/gitlab-com/
 
 The CS Ops team uses issues and issue boards to track projects and tasks. If you need help with a project, please open an issue and ad the ~CSOps label anywhere within the GitLab repo.
 
-CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?&label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo. 
+CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo. 
 
 Labels to use:
 
 * CSOps - Label to track and manage all CS Operations related issues
-* CSOps::New - Issues that have not been evaluated
-* CSOps::Evaluation - Issues that are currently being scoped or considered but are not being actively worked on
+* CSOps::Need_More_Info - Requires additional information from the requester
+* CSOps::Ready_for_Assignment - Ready to be assigned and prioritized by CS Ops
 * CSOps::In_Process - Issues that are actively being worked on in the current week or sprint
 * CSOps::Blocked - Issues that are currently blocked by an internal or external prerequisite 
-* CSOps::bug - Issues labeled as `bug` that's preventing existing workflows or outcomes
+* CSOps::Ready_to_Deploy - The issue is ready for deployment
+* CSOps::Completed - Issues where the CS Ops team has completed their portion
 * CSOps::Transferred - Issues that have been transferred to another team for review and/or completion
 * CSOps::Backlog - Issues that are not currently being evaluated or worked on
-* CSOps::Completed - Issues where the CS Ops team has completed their portion
 
