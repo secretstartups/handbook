@@ -70,7 +70,7 @@ Uses the GitLab API for managing users.
 ## Feature Flags
 
 - Used for checking whether a specific feature flag has been enabled on GitLab.com or not.
-- User for enabling feature flag on a project level, as well as enabling group feature flags for groups.
+- Used for enabling a feature flag on a project or a group.
 
 ### Available Options
 
@@ -97,7 +97,7 @@ Uses the GitLab API for managing users.
 #### Enable Feature Flag on a project/group 
 
 `/chatops run feature set :feature_flag true --project=:full_project_path`
-`/chatops run feature set :feature_flag true --project=:full_group_path`
+`/chatops run feature set :feature_flag true --group=:full_group_path`
 
 | **Attribute** | **Type** | **Required** | **Description** |
 | --- | --- | --- | --- |
