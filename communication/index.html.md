@@ -1073,7 +1073,7 @@ This aligns with how we work since everything at GitLab is [public by default](/
 
 ## Email
 
-We have a low-email culture, as team members generally prefer other modes of communication (e.g. slack). If you are emailing, please use the following guidelines:
+We have a low internal email culture, as we see greater efficiency in other forms of communication (e.g. slack). If you are emailing, please use the following guidelines:
 
 1. Send one email per subject as multiple items in one email will cause delays (have to respond to everything) or misses (forgot one of the items).
 1. Always reply to emails by replying to all, even when no action is needed. This lets the other person know that you received it. A thread is done when there is a single word reply, such as OK, thanks, or done.
