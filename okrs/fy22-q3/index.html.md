@@ -34,7 +34,7 @@ The by-the-book schedule for the OKR timeline would be
    1. **CEO KR:** Launch first customer facing iteration of three new delivery methods: Horse, Plus and Region
    1. **CEO KR:** Have Workspace replace the admin screen
 
-### 2. CEO
+### 2. CEO: Conversion from free 
    1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions
    1. **CEO KR:** Release has a wizard with 100 templates
    1. **CEO KR:** 100% of sales people months have 2 [sales accepted opportunities (SAOs)](/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos). For example, if you had 10 sales people, you would have 30 sales people months in quarter (10 people x 3 months in the quarter). If two people didn’t get 2 SAOs in the first month and one person didn’t get 2 SAOs in the next, you would have achieved 90% of the target (27 sales people months out of 30 total sales people months) for the quarter.
