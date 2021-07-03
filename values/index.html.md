@@ -1006,7 +1006,7 @@ You should communicate with the [DRI](/handbook/people-group/directly-responsibl
 {:.no_toc}
 We practice transparency even when hiding the facts would be easier. For example, many companies do not give you the real reason why they declined your application because it increases the chance of legal action. We want to only reject people for the right reasons and we want to give them the opportunity to grow by getting this feedback. Therefore, we'll accept the increased risk of holding ourselves to a high standard of making decisions and do the right thing by telling them what we thought. Other examples are being transparent about [security incidents](http://disq.us/p/1r9gceh) and participating in and contributing to Live Broadcasts.
 
-Transparency has costs (distraction, mis-interpretation, etc.) but also [great benefits](https://docs.google.com/presentation/d/1mOI9ntK7rsJmZrhsehp8f3ANTkpwf3e6j8xc_RpKl2Y/edit#slide=id.gd3a0ec2d4c_0_0) (productivity, hiring, retention, brand awareness, etc.). We should carefully weight the tradeoff to prevent a knee-jerk reaction to reduce transparency when it has costs. 
+Transparency has costs (distraction, mis-interpretation, etc.) but also [great benefits](https://docs.google.com/presentation/d/1mOI9ntK7rsJmZrhsehp8f3ANTkpwf3e6j8xc_RpKl2Y/edit#slide=id.gd3a0ec2d4c_0_0) (productivity, hiring, retention, brand awareness, etc.). We should carefully weigh the tradeoff to prevent a knee-jerk reaction to reduce transparency when it has costs. 
 
 ##### Single Source of Truth
 {:.no_toc}
