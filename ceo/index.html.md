@@ -97,7 +97,7 @@ This section was started by GitLab's Head of Remote [Darren M.](/handbook/market
 
 Thanks to [Mårten Mickos](https://www.linkedin.com/in/martenmickos) for the inspiration for this section. All good ideas are his, all bad ones are mine.
 
-I am a visual person much more than auditory, and I am a top-down person much more than bottom-up. This means that I love written communication: issues, email, Google Docs, and chat. Feel free to send me as many emails and chat messages as you like, and about whatever topics you like.
+I am a visual person much more than auditory, and I am a top-down person much more than bottom-up. This means that I love written communication: issues, email, Google Docs, and chat. Feel free to send me as many emails and chat messages as you like, and about whatever topics you like. I prefer chat messages to email.
 
 If you have a great new idea or suggestion for me, I appreciate if you can convey it in a picture or in written words, because I learn by seeing more than I learn by hearing. I don't mind if you send me or point me to plans that are in draft mode or not ready. I am happy if I can give useful feedback early. It doesn’t have to be perfect and polished when presented to me.
 
@@ -117,11 +117,25 @@ Sometimes I will ask to be kept apprised of an action item or follow up. One com
 
 I get a lot of @ mentions in Slack, often when I'm being discussed. Please only @ mention me when you need me to see something or approve something, when you just want to refer to me you can just say Sid. This saves time and enables increased efficiency.
 
-## Please chat me the subject line of emails
+### Please chat me the subject line of emails
 
-I get a lot of email and I'm frequently not on top of it.
+I prefer other forms of communciation (e.g. slack) over email. I get a lot of email and I'm frequently not on top of it.
 I appreciate if you sent me a chat message if I need to respond to something.
 Please quote the subject line of the email in your chat message.
+
+### Sending email
+
+If someone else in the company wants to have me send an email they should email me and cc [my EBA](/handbook/eba/#executive-business-administrator-team) with:
+
+1. Instruction: "Please email this, please bcc: me on the outgoing email, forward any responses, and cc: me on any further emails."
+1. Recipient name
+1. Recipient email
+1. Email subject
+1. Email body (text based, no html or rich text)
+
+When receiving such an email my EBA should stage a draft email to the recipient and a draft answer 'done'.
+
+The email should only be the body. Greetings and niceties are handled by the EBA.
 
 ## Meeting request requirements
 
@@ -192,20 +206,6 @@ To schedule Sid to speak at an external engagement please contact the [EBA to th
 
 ### Requests for audio/visual check meetings
 If the organizer of an event requests a prep meeting with Sid to check audio and visual before a remote presentation, we can schedule for 5 minutes before the event for Sid to login and confirm that audio and visual are working as expected. A longer prep meeting is not required as Sid has a robust remote work setup.
-
-## Sending email
-
-If someone else in the company wants to have me send an email they should email me and cc [my EBA](/handbook/eba/#executive-business-administrator-team) with:
-
-1. Instruction: "Please email this, please bcc: me on the outgoing email, forward any responses, and cc: me on any further emails."
-1. Recipient name
-1. Recipient email
-1. Email subject
-1. Email body (text based, no html or rich text)
-
-When receiving such an email my EBA should stage a draft email to the recipient and a draft answer 'done'.
-
-The email should only be the body. Greetings and niceties are handled by the EBA.
 
 ## Sales meetings
 
