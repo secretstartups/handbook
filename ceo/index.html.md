@@ -120,7 +120,7 @@ I get a lot of @ mentions in Slack, often when I'm being discussed. Please only 
 ### Please chat me the subject line of emails
 
 I prefer other forms of communciation (e.g. slack) over email. I get a lot of email and I'm frequently not on top of it.
-I appreciate if you sent me a chat message if I need to respond to something.
+I appreciate it if you send my EBA a slack message if I need to respond to an email.
 Please quote the subject line of the email in your chat message.
 
 ### Sending email
