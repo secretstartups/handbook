@@ -97,7 +97,7 @@ This section was started by GitLab's Head of Remote [Darren M.](/handbook/market
 
 Thanks to [Mårten Mickos](https://www.linkedin.com/in/martenmickos) for the inspiration for this section. All good ideas are his, all bad ones are mine.
 
-I am a visual person much more than auditory, and I am a top-down person much more than bottom-up. This means that I love written communication: issues, email, Google Docs, and chat. Feel free to send me as many emails and chat messages as you like, and about whatever topics you like. I prefer chat messages to email.
+I am a visual person much more than auditory, and I am a top-down person much more than bottom-up. This means that I love written communication: issues, email, Google Docs, and chat. Feel free to send me as many emails and chat messages as you like, and about whatever topics you like. I prefer chat over email.
 
 If you have a great new idea or suggestion for me, I appreciate if you can convey it in a picture or in written words, because I learn by seeing more than I learn by hearing. I don't mind if you send me or point me to plans that are in draft mode or not ready. I am happy if I can give useful feedback early. It doesn’t have to be perfect and polished when presented to me.
 
