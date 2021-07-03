@@ -271,7 +271,7 @@ The VP of Product Monetization reports to the [Chief Product Officer](/job-famil
 The VP of Product Monetization is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### VP of Product Monetization - Responsibilities
-*Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:    
+* Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:    
 
 1. [Growth Product Management](https://about.gitlab.com/direction/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
 1. [Fulfillment Product Management](https://about.gitlab.com/direction/fulfillment/).  Ensure a world class purchasing experience for GitLab customers, and drive towards 100% of sales transactions flowing through automated fulfillment systems.
