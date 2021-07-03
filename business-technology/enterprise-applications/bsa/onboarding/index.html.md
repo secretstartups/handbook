@@ -135,10 +135,22 @@ A BSA can help taking notes, recording meetings as necessary and storing them in
 
 - **User Stories**
 
-A User Story is an informal, general explanation of a software feature written from the perspective of the end user. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer. Leverage the assistance of a BSA to collect ant track those.
+A User Story is an informal, general explanation of a software feature written from the perspective of the end user. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer. Leverage the assistance of a BSA to collect ant track those.  
+
+**How to create User Stories?**<br>
+
+User stories are often expressed in a simple sentence, structured as follows:
+
+“As a [type of user], I [want to], [so that].”
+{: .alert .alert-info}
+
+- _Type of user:_ Who are we building this for? Describes who will benefit from this function. Notice that the role is not simply “the user.” There are different types of users and so we want the role to be more specific than “user” but describe the type of user that will benefit from the story."
+- _Want to:_ Describes their intent, not the features they use. What is it they’re actually trying to achieve? This statement should be implementation free — if you’re describing any part of the UI and not what the user goal is you're missing the point."
+- _So that:_ How does their immediate desire to do something like this fit into their bigger picture? What’s the overall benefit they’re trying to achieve? What is the big problem that needs solving?"
+
 > User Stories template [here](https://docs.google.com/spreadsheets/d/17AGafZAEOCdZTPIxy4mgrGlNAJ2Bo7NWjLkPebwnFY8/edit?usp=sharing).
 
-- **Requirements**
+- **Requirements**Requirements**
 
 Requirements are conditions or capabilities that are required to be present in a product, service or result to satisfy a contract or other formally imposed specification. The purpose of stakeholder requirements is to describe the needs of a stakeholder or stakeholder group. Leverage the assistance of a BSA to collect ant track those.
 > Requirements template [here](https://docs.google.com/spreadsheets/d/1nylZN30o8urNj77JnmIRLpjgY7gbf0JR2IOPx8JRYAo/edit?usp=sharing).
