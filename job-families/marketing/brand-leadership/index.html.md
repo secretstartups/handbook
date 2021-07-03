@@ -7,7 +7,7 @@ title: "Brand Leadership"
 
 This role is a leader on the corporate marketing team who will provide vision for a team of creatives that are inspired to take GitLab to the next level. This role will set the GitLab brand vision and work to execute the strategy across various mediums. 
 
-The Manager, Brand Growth reports to the VP, Corporate Marketing.
+The Director, Brand reports to the VP, Corporate Marketing.
 
 #### Director, Brand Job Grade
 
@@ -42,7 +42,7 @@ The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compens
  
 ## Career Ladder
 
-* The next step in the Corporate Events job family is not yet defined at GitLab.
+* The next step in the Brand Leadership job family is not yet defined at GitLab.
 
 ## Hiring process
 
