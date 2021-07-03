@@ -25,11 +25,12 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, Global | Steph Sarff   | J.D. Alex |
 | Marketing, SDR Global | Amy Anderson  | Amy Anderson|
 | G&A | Maria Gore | Alina Moise |
-| Development | Rupert Douglas | Zsuzsanna Kovacs / Joanna Michniewicz  |
+| Development | Mark Deubel | Zsuzsanna Kovacs / Joanna Michniewicz  |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support | Rupert Douglas (AMER, EMEA) / Matt Allen (APAC)  |  Joanna Michniewicz (AMER, EMEA) / Zsuzsanna Kovacs (APAC)  |
-| Security | Matt Allen  |  Zsuzsanna Kovacs |
+| Support | Rupert Douglas (EMEA) / Matt Allen (AMER,APAC)  |  Joanna Michniewicz (AMER, EMEA) / Zsuzsanna Kovacs (APAC)  |
+| Security | Rupert Douglas  |  Zsuzsanna Kovacs |
+| Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
 | Infrastructure   | Matt Allen  | Joanna Michniewicz |
 | Product Management  | Matt Allen | Chris Cruz |
 
