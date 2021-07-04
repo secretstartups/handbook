@@ -38,7 +38,7 @@ Our team is structured as business partners to the rest of marketing. See focus 
 | [Gillian Murphy](https://gitlab.com/gillmurphy) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Localization, and SDRs |
 | [Jameson Burton](https://gitlab.com/jburton) | [Marketing Operations Associate](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#associate-marketing-operations-manager) | Digital, Operations |
 | [Robert Rosu](https://gitlab.com/RobRosu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Data |
-| Mihai Conteanu | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Campaigns |
+| [Mihai Conteanu](https://gitlab.com/MihaiConteanu) | [Marketing Operations Manager](https://about.gitlab.com/job-families/marketing/marketing-operations-manager/#marketing-operations-manager-intermediate) | Content, Campaigns |
 
 _*indicates business partner_
 
@@ -406,7 +406,7 @@ Invitation emails to attend a live event, meet-up, or in-person training. These 
 
 We use Source Buckets to group raw Sources into acquisition channels. These groups are: core, inbound, outbound, paid demand gen, purchased list, referral, virtual event, and web direct. When using the [TD - Marketing Metrics dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) reports can be filterd by these source buckets.
 
-The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team.
+The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team. When a new initial source is added, the bucket must also be updated in a SFDC workflow to properly show in Sisense.
 
 Status in the table below means:
 
