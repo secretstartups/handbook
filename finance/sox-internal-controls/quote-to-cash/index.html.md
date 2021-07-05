@@ -405,7 +405,7 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
 
 - **Approving the opportunity and quote in Salesforce by Billing Team**
 
-   - Select the subscription to be invoiced from the [Opportunity page](https://docs.google.com/document/d/1fEKyu5RxqloelvN8VbW9ZljiTUwFBHp20ZvTCznqrVk/edit) in SalesForce.
+   - Select the subscription to be invoiced from the [Opportunity page](https://docs.google.com/document/d/1fEKyu5RxqloelvN8VbW9ZljiTUwFBHp20ZvTCznqrVk/edit) in Salesforce.
  
    - [Generate the signed quote/ order form](https://docs.google.com/document/d/16CGp2ZjnYAYUguCklkEqD4rDG58ywhP0d9UJiHMG2S0/edit) that has been included as a google doc attachment during quote creation process.
  
@@ -463,7 +463,7 @@ Sales operations team updates the opportunity and creates a quote in Salesforce.
 
 [Process steps screenshot](https://docs.google.com/document/d/1RRWhgPOxuM5zbIqtd2-OingGnsuNspqKQiOLG3QgXhY/edit)
 
-- [Opportunity](https://docs.google.com/document/d/10L2YhjUs2IyUkaLcfe6MtEWWfENFDZS_aQJsHisRLBY/edit) is created automatically in SalesForce based on orders placed by customers.
+- [Opportunity](https://docs.google.com/document/d/10L2YhjUs2IyUkaLcfe6MtEWWfENFDZS_aQJsHisRLBY/edit) is created automatically in Salesforce based on orders placed by customers.
 
 - The opportunity details are auto-interfaced from Salesforce to Zuora. Based on opportunity details interfaced, [the invoice is auto-generated ](https://docs.google.com/document/d/1XYt0qZasEZXclpQepdDP-tr9Wv40LVtGAcoP74rYjig/edit)in Zuora. **(QTC.C.13)**
 
@@ -983,32 +983,39 @@ Customer logs in to CustomersDot and directly buys the product as per their requ
 
 * Step 1: Customer completes the purchase in CustomersDot and credit card details go through. An opportunity is automatically created in Salesforce.
 
-* Step 2: Transaction is automatically pushed  to Zuora from Salesforce once purchase is successful.
+* Step 2: Transaction is automatically pushed to Zuora from Salesforce once purchase is successful.
 
 * Step 3: Zuora pushes the customer information along with Zuora reference number to the [CustomersDot](https://docs.google.com/document/d/1iLiq3IegyaFZISDUAXcDVt87PzGS3zn8SKZrRvcJgYY/edit). 
 
-* Step 4: Upon successful receipt of Zuora reference number the CustomersDot will push the details to LicenseDot . Details such as customer info, contact details and product details are automatically pushed into the [LicenseDot](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit).
+* Step 4: Upon successful receipt of Zuora reference number, [CustomersDot](https://docs.google.com/document/d/1fSIewFE_uDiTyLolFC1CHbYAwTFDgGm25Wy_HWxY-pw/edit) will store all details such as customer info, contact details and product details.
 
-* Step 5: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 5: CustomersDot will create a cloud activation code.
+
+* Step 6 a) When Cloud Licensing was declined, CustomersDot sends license key to customer through an email. Alternatively, customer can also download the license key through CustomersDot.
+
+* Step 6 b) When Cloud Licensing is still pending, CustomersDot sends license key and the activation code to customer through an email. Alternatively, customer can also download the license key and activation code through CustomersDot.
 
 
 **b. Sales team assisted sales:**
 
-Sales team is involved in the sales process, SalesForce is used to create customer accounts, send out quotes and close the deal.
+Sales team is involved in the sales process, Salesforce is used to create customer accounts, send out quotes and close the deal.
 
-* Step 1: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/15iH3EBfDCNRt03zOzu84dXC3u-kBq6fpOj4dIB6rJGA/edit) as closed and won in SalesForce.
+* Step 1: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/15iH3EBfDCNRt03zOzu84dXC3u-kBq6fpOj4dIB6rJGA/edit) as closed and won in Salesforce.
 
-* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details](https://docs.google.com/document/d/1Vauh36fizeaV7doPhftCGmpdMwZoUkn-p9xxMRTH-fM/edit) to CustomersDot. 
+* Step 2: Upon closing of opportunity as “Closed and won” in Salesforce, the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details](https://docs.google.com/document/d/1Vauh36fizeaV7doPhftCGmpdMwZoUkn-p9xxMRTH-fM/edit) to CustomersDot. 
 
-* Step 3: Upon successful receipt of Zuora reference number the CustomersDot will push the [details to LicenseDot](https://docs.google.com/document/d/1QDOfqrcuAteeLukTk0VGyeRzVXH66WjiYdx0psFQ2Cg/edit). Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
+* Step 3: Upon successful receipt of Zuora reference number the CustomersDot will store all details such as customer info, contact details and product details.
 
-* Step 4: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 4: CustomersDot will create a cloud activation code.
 
+* Step 5 a) When Cloud Licensing was declined, CustomersDot sends license key to customer through an email. Alternatively, customer can also download the license key through CustomersDot.
+
+* Step 5 b) When Cloud Licensing is still pending, CustomersDot sends license key and the activation code to customer through an email. Alternatively, customer can also download the license key and activation code through CustomersDot.
 
 
 **c. Reseller assisted Sales:**
 
-GitLab reseller is involved in the sales process, Sales representative uses SalesForce to create customer accounts, send out quotes and close the deal
+GitLab reseller is involved in the sales process, Sales representative uses Salesforce to create customer accounts, send out quotes and close the deal
 
 * Step 1: At the time of updating an opportunity for a reseller account, End user name will be updated under [“Sold to Contact”](https://docs.google.com/document/d/14c6dQ-d7-8jSNOj7WdnJRoUwrBMilHEzsHoJF7HVRlQ/edit) (Based on this update, license details will be shared with the end user.
 
@@ -1016,41 +1023,71 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 3: End customer will receive an email to accept the terms and conditions. The opportunity can move to the next step only upon acceptance of terms and conditions by End customers. 
 
-* Step 4: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/1bMj3wDX860kGk1ZxVvB721rls7VIAAlPBRpo9xcgMU4/edit) as closed and won in SalesForce.
+* Step 4: Sales team completes the sales and marks the [opportunity](https://docs.google.com/document/d/1bMj3wDX860kGk1ZxVvB721rls7VIAAlPBRpo9xcgMU4/edit) as closed and won in Salesforce.
 
-* Step 5: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer details to [CustomersDot](https://docs.google.com/document/d/1Se_JzQrg19USGdYiIjB3I-En1yyq1JOMrIXHNDrDEH0/edit). 
+* Step 5: Upon closing of opportunity as “Closed and won” Salesforce the Billing Team sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer details to [CustomersDot](https://docs.google.com/document/d/1Se_JzQrg19USGdYiIjB3I-En1yyq1JOMrIXHNDrDEH0/edit). 
 
-* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the CustomersDot will push the details to the [LicenseDot](https://docs.google.com/document/d/1RxDYzXgOrCBstF_DQzDJtEJDX2SZ0PUkDkFVqYN-LKY/edit) . Details such as customer info, contact details and product details are automatically pushed into LicenseDot.
+* Step 6: Upon successful receipt of Zuora reference number and acceptance of EULA by customer the CustomersDot will all details such as customer info, contact details and product details.
 
-* Step 7: LicenseDot automatically sends license Key to customer through an email, alternatively customer can also download the license key through CustomersDot.
+* Step 7: CustomersDot will create a cloud activation code.
+
+* Step 8 a) When Cloud Licensing was declined, CustomersDot sends license key to customer through an email. Alternatively, customer can also download the license key through CustomersDot.
+
+* Step 8 b) When Cloud Licensing is still pending, CustomersDot sends license key and the activation code to customer through an email. Alternatively, customer can also download the license key and activation code through CustomersDot.
+
 
 
 
 **Manual generation and dispatch of Duplicate License Key**
 
-Broadly there are three circumstances in which License keys needs to be generated and dispatched manually:<br>
+Broadly there are three circumstances in which license keys need to be generated and dispatched manually:
 
-         
-1.  Customer faces difficulty in accessing the license key and raises a ticket via Zendesk.<br>
+
+1.  Customer faces difficulty in accessing the license key and raises a ticket via Zendesk.
 
     * Step 1: Ticket is received in Zendesk (User raises the [ticket](https://docs.google.com/document/d/1hkvV72IDzKB5QXD0BIWZWtvIeQ-dHCIWwyZG7nogR4Q/edit) for help).
 
-    * Step 2: Based on the problem the Support Engineer decides how the problem is to be solved and [whether a duplicate license key is required](https://docs.google.com/document/d/1OO7Fi2Re2ol7mipu_RVbhtkrqWlgDSt6WKDluKLSjHU/edit). 
+    * Step 2: Based on the problem the Support Engineer decides how the problem is to be solved.
 
-    * Step 3: If a duplicate license key is required, Support Engineer will generate a duplicate license key by clicking on “Duplicate licenses” under the [Edit licenses tab](https://docs.google.com/document/d/1aehHB8cTT0VY0k4bK-_T4bzgAJzRt-dpC-wvWQY8MR0/edit).
+    * **License exists in LicenseDot:**
 
-    * Step 4 : Support Engineer enters [details of number of users](https://docs.google.com/document/d/1hQbtXvgEX__Jqeu2wIP3A6VN5I0lh_uZG0gkb94mcuw/edit) that require access to duplicate licenses. 
+       * Step 3: Check whether a [duplicate license key is required](https://docs.google.com/document/d/1OO7Fi2Re2ol7mipu_RVbhtkrqWlgDSt6WKDluKLSjHU/edit). 
 
-    * Step 5: Support Engineer to reference the Zendesk ticket or Internal GitLab issue and enter any comments and notes required in the [“Notes” section](https://docs.google.com/document/d/1xj4SBCj0_XSRkO5CoIi6Z8e56_w8cDgVv7vT3w9PNTY/edit).
+       * Step 4: If a duplicate license key is required, Support Engineer will generate a duplicate license key by clicking on “Duplicate licenses” under the [Edit licenses tab](https://docs.google.com/document/d/1aehHB8cTT0VY0k4bK-_T4bzgAJzRt-dpC-wvWQY8MR0/edit).
 
-    * Step 6: To generate the duplicate license Key, the support engineer clicks on [“Create license”](https://docs.google.com/document/d/1qjwqgBdWkEXHtORiu9q7itf4qQpVEykDv22TfHv9SYc/edit).
+       * Step 5: Support Engineer enters [details of number of users](https://docs.google.com/document/d/1hQbtXvgEX__Jqeu2wIP3A6VN5I0lh_uZG0gkb94mcuw/edit) that require access to duplicate licenses. 
+
+       * Step 6: Support Engineer to reference the Zendesk ticket or Internal GitLab issue. When creating a new license, enter any comments and notes required in the [“Notes” section](https://docs.google.com/document/d/1xj4SBCj0_XSRkO5CoIi6Z8e56_w8cDgVv7vT3w9PNTY/edit).
+
+       * Step 7: To generate the duplicate license key, the Support Engineer clicks on [“Create license”](https://docs.google.com/document/d/1qjwqgBdWkEXHtORiu9q7itf4qQpVEykDv22TfHv9SYc/edit).
+
+    * **License exists in CustomersDot:**
+
+      * Step 3: Support Engineer can either resend the license key or create a new license (the option to duplicate a license is currently not available).
+
+      * Step 4: Support Engineer to reference the Zendesk ticket or Internal GitLab issue. When creating a new license, enter any comments and notes required in the [“Notes” section](https://docs.google.com/document/d/1P4jubNq19Z_kVsO7JiqK1s78ocsI8cd_-B6a7JqIw00/edit).
+
+      * Step 5: To create the license, the Support Engineer clicks on [“Save”](https://docs.google.com/document/d/1COothH-y5fHWOWZYjHoklZAqcAX9mxd3BNBZm27YkeY/edit).
+
+2.  Sales team offers trial license keys to Prospective/Current customers.
+
+3.  Sales team decides to issue the license manually (in these cases, the billing team marks the customer’s profile as “Silent” in Zuora. This causes the licence to not generate automatically).
 
 
-2.  Sales team offers trial license keys to Prospective/ Current customers.<br>
-3.  Sales team decides to issue the license manually  (In these cases, the billing team marks the customer’s profile as “Silent” in Zuora. This causes the licence to not generate automatically).<br>
 
+**Create missing or resend Cloud Activation Code**
 
+a) Create missing cloud activation code
 
+* Step 1: In the Admin Area of CustomersDot, go to the Customer in the [Customers menu item](https://docs.google.com/document/d/17lKe0tVuplAfFDcIF7LLtQNostlCRCitdRb8bL2HS-w/edit), and then view their [Zuora Subscriptions](https://docs.google.com/document/d/1XcsQSmE3IlSSdJHFPTCTyLu4SakwCk8aZn3h5DrLP4g/edit). If the cloud activation code is missing, [a link](https://docs.google.com/document/d/1hZu_5aLmTSeSQVtzbhN5x3p5XnN-3lGepu6pOsdG9cI/edit) to create an activation code will be displayed.
+
+* Step 2: Creating a missing cloud activation code will automatically send it to the customer through email.
+
+b) Resend cloud activation code
+
+* Step 1: In the Admin Area of CustomersDot, go to the [Cloud Activations menu item](https://docs.google.com/document/d/1CT6gyqUml6qCi62VW8eeL-_xdJAGqT8bSr9eqywvwTY/edit).
+
+* Step 2: Click [the link](https://docs.google.com/document/d/19NOO7SZrOHrVctoV5oiU_H_6PPatLX9cpUJ300mikI0/edit) to resend the cloud activation code via email to the customer.
 
 
 
@@ -1086,19 +1123,19 @@ Customer logs in to CustomersDot and directly buys the product as per their requ
 
 **b. Sales team assisted sales:**
 
-Sales team is involved in the sales process, SalesForce is used to create customer accounts, send out quotes and close the deal.
+Sales team is involved in the sales process, Salesforce is used to create customer accounts, send out quotes and close the deal.
 
-* Step 1: Sales team completes the sales and[ marks the opportunity](https://docs.google.com/document/d/1rH4-Uk0GI71Cc-QUVIVufCRUXX6ohN1nZ0_hAdvQsLM/edit) as closed and won in SalesForce.
+* Step 1: Sales team completes the sales and [marks the opportunity](https://docs.google.com/document/d/1rH4-Uk0GI71Cc-QUVIVufCRUXX6ohN1nZ0_hAdvQsLM/edit) as closed and won in Salesforce.
  
-* Step 2: Upon closing of opportunity as “Closed and won” in SalesForce, the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer [details to CustomersDot](https://docs.google.com/document/d/15uwg8uDjfylopuh3CuNnRGAOOEN6_GCf57KLLfKj93s/edit). 
+* Step 2: Upon closing of opportunity as “Closed and won” in Salesforce, the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the customer [details to CustomersDot](https://docs.google.com/document/d/15uwg8uDjfylopuh3CuNnRGAOOEN6_GCf57KLLfKj93s/edit). 
 
-* Step 3: Customers need to [link](https://docs.google.com/document/d/1aBqXQppzo99Uoa91q1Y7x9q9MYt91PrPWFpqiVEOBqA/edit) the GitLab CustomersDot with their account in GitLab.com. Click on the “My accounts” option in CustomersDot and select account details option.
+* Step 3: Customers need to [link](https://docs.google.com/document/d/1aBqXQppzo99Uoa91q1Y7x9q9MYt91PrPWFpqiVEOBqA/edit) the GitLab CustomersDot with their account in GitLab.com. Click on the “My accounts” option in CustomersDot and select “Account details” option.
 
 * Step 4: Click on [Link Account/Change linked account](https://docs.google.com/document/d/1mtega3-recCDwl7UvgSt4Cywd5jwRkvShS_mvLObgOE/edit) option.
 
 * Step 5: Log on to a different browser tab and log in to GitLab.com. Come back to CustomersDot and Click on [“Change linked account/Link account”](https://docs.google.com/document/d/1xtp_m_ZWxxwKYrPcPz-bkicDtTWHl-hulBKMNYFQOzc/edit) to connect both the accounts. There is an API Cache that has the login details, once the “Change linked account/Link account” button is selected the accounts get linked.
 
-* Step 6: Now the customer needs to [link the name space](https://docs.google.com/document/d/1zaC76xddppTwwT-MoMQmilp2FSZSRCQZF3fRwEZhjOY/edit). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
+* Step 6: Now the customer needs to [link the namespace](https://docs.google.com/document/d/1zaC76xddppTwwT-MoMQmilp2FSZSRCQZF3fRwEZhjOY/edit). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 
 * Step 7: Select “[Change linked namespace](https://docs.google.com/document/d/1XwAKdUpNbcFKYHl5X3JqjhXEYg4-xeYyH3pXzQJGkU8/edit)” and come into the namespace by clicking on the namespace.
 
@@ -1135,19 +1172,19 @@ Due to system limitations currently the cancellation/downgrades of the customer 
 
 **c. Reseller assisted Sales**
 
-GitLab reseller is involved in the sales process, Sales representative uses SalesForce to create customer accounts, send out quotes and close the deal.
+GitLab reseller is involved in the sales process, Sales representative uses Salesforce to create customer accounts, send out quotes and close the deal.
 
 * Step 1: At the time of updating an opportunity for a reseller account, End user name will be updated under “[Sold to Contact”](https://docs.google.com/document/d/1T7RPmjXT8CVpQqticVpRTIfFJWMc1vNC_Hqrcv6FCwg/edit) (Based on this update, license details will be shared with the end user.
 
-* Step 2: Sales team completes the sales and [marks the opportunity](https://docs.google.com/document/d/1LITdgrQKqFnhD5ApkoFVhrsl3T1ADEV5XYa7ypFDg7o/edit) as closed and won in SalesForce.
+* Step 2: Sales team completes the sales and [marks the opportunity](https://docs.google.com/document/d/1LITdgrQKqFnhD5ApkoFVhrsl3T1ADEV5XYa7ypFDg7o/edit) as closed and won in Salesforce.
 
 * Step 3: End customer will receive an email to accept the terms and conditions. The opportunity can move to the next step only upon acceptance of terms and conditions by End customers. 
 
 * Step 4: End user’s acceptance of licensing agreement to be updated as required (Field [“Click through EULA required”](https://docs.google.com/document/d/1_e8ki2rfqvWyGNGmEt3sVr9A-OOQP_gZJN83rziN1mI/edit) to be updated as “Yes”).
 
-* Step 5: Sales team completes the sales and [marks](https://docs.google.com/document/d/1jztd8LPmHGaaOdzeRcAZeePeDU8u85v-Uh2nF3BTbpc/edit) the opportunity as closed and won in SalesForce.
+* Step 5: Sales team completes the sales and [marks](https://docs.google.com/document/d/1jztd8LPmHGaaOdzeRcAZeePeDU8u85v-Uh2nF3BTbpc/edit) the opportunity as closed and won in Salesforce.
 
-* Step 6: Upon closing of opportunity as “Closed and won” SalesForce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details to CustomersDot.](https://docs.google.com/document/d/1VVnigNSfMDmdP5S8bMiZ-vyqDRPVyp_gH9BbEEW6-IU/edit) 
+* Step 6: Upon closing of opportunity as “Closed and won” Salesforce the Billing Team  sends the quote to Zuora leading to creation of customer subscription in Zuora. Once a customer subscription is created in Zuora, Zuora automatically pushes the [customer details to CustomersDot.](https://docs.google.com/document/d/1VVnigNSfMDmdP5S8bMiZ-vyqDRPVyp_gH9BbEEW6-IU/edit) 
 
 * Step 7: Customers need to [link the GitLab CustomersDot](https://docs.google.com/document/d/1Zg_JgmMotSXdXRWoZsHN5AsRtLyxJ112p0D1-apNv8o/edit) with their account in GitLab.com. Click on the “My accounts” option in CustomersDot and select account details option.
 
@@ -1155,7 +1192,7 @@ GitLab reseller is involved in the sales process, Sales representative uses Sale
 
 * Step 9: Log on to a different browser tab and log in to GitLab.com. Come back to CustomersDot and Click on “Change linked account/Link account” to connect both the accounts. There is an API Cache that has the login details, once the [“Change linked account/Link account”](https://docs.google.com/document/d/1irrKsrhnnVtU3Qcl5-bkqxKReqIIZShWB1DPhrNiKW0/edit) button is selected the accounts get linked.
 
-* Step 10: Now the customer needs to [link the name space](https://docs.google.com/document/d/1M3ZHmri2s0njoZl9jelITpG-WxT6X8Jlwp_dXZNnTo8/edit?usp=drive_web&ouid=111314924466435551734). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
+* Step 10: Now the customer needs to [link the namespace](https://docs.google.com/document/d/1M3ZHmri2s0njoZl9jelITpG-WxT6X8Jlwp_dXZNnTo8/edit?usp=drive_web&ouid=111314924466435551734). Because on GitLab.com a customer can have unlimited number of groups and the customer can link their subscription to any one of the groups or your personal namespace. This process basically indicates to the system as to where the subscription is applied to.
 
 * Step 11: Select “[Change linked namespace](https://docs.google.com/document/d/1i-mpZY4EQer5QWoims6eEItRgZe9mp0Pek5edIHxWjM/edit)” and come into the namespace by clicking on the namespace.
 
