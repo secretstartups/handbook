@@ -43,14 +43,37 @@ First step is to define business needs of end users of the project and success c
 ### Data Understanding 
 Data understanding is closely aligned with business understanding. It requires to define data sources that business already has in place and the ones that business does not. In this phase data scientists work closely with data engineers and data analysts to define any miscrepancies and risks. If there is a need to bring external data, request should be raised in this phase. 
 ### Data Preparation 
-After defining business needs and data sources it is time to dive into data! This phase requires conducting [Second data quality check] and [Exploratory data analysis]. At this stage data scientists are gathering greater understanding of data what will be useful in next phase.
+After defining business needs and data sources it is time to dive into the data! This phase requires conducting [Second data quality check] and [Exploratory data analysis]. At this stage, data scientists are gathering greater understanding of data, its types, correlations and distributions what will be useful in the next phase - modeling.
 ### Modeling 
-
+Modeling refers to building machine learning model, which consists of training, testing and validating model. Based on Business Understanding phase initial algorithm should be picked and pre-processing should be defined. In this phase, outcomes from Data Preparation are needed as not all algorithms can work with all data types.
 ### Evaluation 
-Evaluation requires 
+In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration] (https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 ### Deployment  
-Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. 
+Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First] https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/ approach, although it is recommended to document efforts regularly, during all phases. 
 
 
 # Success Criteria
 Every data science project at GitLab starts and ends with success criteria. 
+
+Success criteria is measured as follows: 
+
+`value_provided = future_state - current_state`
+
+We recognise two types of business outcomes from data science projects: direct and indirect impact.
+
+## Direct impact
+Projects with direct impact allow to translate outcomes directly to monetary value. This can be achieved by optimisation projects which goal is to reduce time spent on process or increase revenue of company. 
+
+### Time
+For example, our project helped to reduce time spent on process X by 10 000 hours valued at $500k.
+
+### Money
+For example, our project brought new high-profile customers that brought extra $50 Million to revenue.
+
+## Indirect impact
+Projects with indirect impact are supporting monetary value, but not directly. These projects are usually the ones where critical insights are provided to stakeholders who then use it to increase their capabilities. 
+### Visibility
+For example, our project helped stakeholders increase decision making capabilities, which improved sales strategy by 10%.
+### Capability unlock
+For example, our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited
+
