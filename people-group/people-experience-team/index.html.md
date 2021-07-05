@@ -318,3 +318,7 @@ When a new tool is [added to the Tech Stack](https://about.gitlab.com/handbook/b
 Weekly on a Friday, the People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
 
 The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+
+### 1Password Complete Recovery
+
+As admins for 1Password, the People Experience team will get notified when an account recovery is requested by the IT Ops team. We do not need to take any action on these and can safely delete/ignore the email. The IT Ops team will complete the recovery.
