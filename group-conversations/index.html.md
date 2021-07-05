@@ -171,6 +171,10 @@ The `EBA` team are responsible for moderating the following calls on a rotationa
 
 The teams will assist with moderating calls where the audience is applicable to all GitLab team members. In the event that a separate meeting needs to be scheduled on the team calendar with only a specified invitee list, the host or the EBA for the host's organization will be responsible for moderating the call.
 
+The `Host` is responsible for starting the livestream or designating one of their team members to start the livestream for the following calls:
+- Group Conversations in the Product and Engineering Organization where an e-group member is not the DRI
+- AMAs in the Product and Engineering Organization where an e-group member is not the DRI
+
 ### Preparing for the Group Conversation
 
 All Group Conversations (Public and Private) will be streamed to YouTube within the [GitLab Unfiltered](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#channels) channel. Guidelines around streaming including initiating the livestream and troubleshooting should you hit a snag can be found on the [YouTube Uses and Access](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#starting-a-recorded-video) page.
