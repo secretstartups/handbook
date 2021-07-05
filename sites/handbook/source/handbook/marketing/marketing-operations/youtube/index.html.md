@@ -41,11 +41,17 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 1. Please remember to [follow the guidelines on starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 1. If you're not a host, you can't livestream direct from zoom, so the host will need to do that.
-1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom.
+1. If there is more than one host for the meeting **the host that joins the meeting first** is the only host that can livestream direct from zoom. From the Zoom meeting, the host can promotion someone else to host if another team member has been designated to start the live stream. Instructions to change the host:
+    - Host will mover over the name of the participant you are passing host controls to
+    - Select 'More'
+    - Click 'Make Host' and select 'Yes'
+    - The new host will now have the ability to livestream the call from Zoom 
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
 1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propagate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
 ### Livestream with Zoom
+
+- Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiletered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access). 
 
 - Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
 
