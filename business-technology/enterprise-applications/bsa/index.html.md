@@ -39,7 +39,12 @@ Slack handle: `@kayokocooper` <br>
 Location:  Duluth, GA, USA  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
-**Lis Vinueza - Senior Business Systems Analyst**  
+**Kayoko Cooper - Business Systems Analyst**  
+GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
+Slack handle: `@kayokocooper` <br>
+Job Description: [Business Systems Analyst](/job-families/finance/business-system-analyst/#business-systems-analyst)
+
+**Lis Vinueza - Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
 Location: Quito, Ecuador   

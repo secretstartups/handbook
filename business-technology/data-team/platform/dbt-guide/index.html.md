@@ -56,7 +56,6 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
 ### Configuration
 
 - Ensure you have access to our Snowflake instance
-- Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
 - Ensure you have [Make](https://en.wikipedia.org/wiki/Make_(software)) installed (should be installed on new Macs and with XCode)
 - Create a folder in your home directory called `.dbt`
 - In the `~/.dbt/` folder there should be a `profiles.yml`file that looks like this [sample profile](https://gitlab.com/gitlab-data/analytics/blob/master/admin/sample_profiles.yml)
@@ -64,13 +63,32 @@ If you wish to use dbt and contribute to the data team project, you'll need to g
     - `export SNOWFLAKE_TRANSFORM_WAREHOUSE="ANALYST_XS"`
     - In cases where more compute is required, the variable can be overwritten by adding `--vars '{warehouse_name: analyst_xl}'` to the dbt command
 - Clone the [analytics project](https://gitlab.com/gitlab-data/analytics/)
+- If running on Linux: 
+  - Ensure you have [Docker installed](https://docs.docker.com/docker-for-mac/)
 
 Note that many of these steps are done in the [onboarding script](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.sh) we recommend new analysts run.
+
+### Venv Workflow
+{: #Venv-workflow}
+
+Recommended workflow for anyone running a Mac system. 
+
+#### Using dbt
+
+- Ensure you have the `DBT_PROFILE_PATH` environment variable set. This should be set if you've used the [onboarding_script.zsh](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/onboarding_script.zsh) (recommened to use this as this latest and updated regularly) or   [onboarding_script.sh](https://gitlab.com/gitlab-data/analytics/blob/master/admin/onboarding_script.sh), but if not, you can set it in your `.bashrc` or `.zshrc` by adding `export DBT_PROFILE_PATH="/<your_root_dir/.dbt/"` to the file or simply running the same command in your local terminal session
+- Ensure your SSH configuration is setup according to the [GitLab directions](https://gitlab.com/help/ssh/README). Your keys should be in `~/.ssh/` and the keys should have been generated with no password.
+    - You will also need access to [this project](https://gitlab.com/gitlab-data/data-tests) to run `dbt deps` for our main project.
+- **NB**: Before running dbt for the first time run `make prepare-dbt`. This will ensure you have venv installed. 
+- To start a `dbt` container and run commands from a shell inside of it, use `make run-dbt`
+- This will automatically import everything `dbt` needs to run, including your local `profiles.yml` and repo files
+- To see the docs for your current branch, run `make run-dbt-docs` and then visit `localhost:8081` in a web-browser. Note that this requires the `docs` profile to be configured in your `profiles.yml`
 
 ### Docker Workflow
 {: #docker-workflow}
 
-To facilitate an easier workflow for analysts, and to abstract away some of the complexity around handling `dbt` and its dependencies locally, the main [analytics project](https://gitlab.com/gitlab-data/analytics/) supports using `dbt` from within a `Docker` container.
+The below is the recommended workflow primarily for users running Linux as the venv workflow has fewer prerequisites and is considerably faster. 
+
+To abstract away some of the complexity around handling `dbt` and its dependencies locally, the main [analytics project](https://gitlab.com/gitlab-data/analytics/) supports using `dbt` from within a `Docker` container.
 We build the container from the [`data-image`](https://gitlab.com/gitlab-data/data-image) project.
 There are commands within the `Makefile` to facilitate this, and if at any time you have questions about the various `make` commands and what they do, use `make help` to get a list of the commands and what each of them does.
 
@@ -396,6 +414,8 @@ It is critical to be intentional when organizing a self-service data environment
     - model_updated_at timestamp - this is the last time the model was updated by someone
     - dbt_created_at timestamp - this is populated by dbt when the table is created
     - dbt_updated_at timestamp - this is the date the data was last loaded. For most models, this will be the same as dbt_created_at with the exception of incremental models.
+- The Prep(prep_) and mapping/look-up(map_) tables to support dimension tables should be created in `common_mapping` schema.
+- Additional Bridge(bdg_) tables should reside in `common` schema. These tables act as intermediate tables to resolve many-to-many relationships between two tables.
 
 ##### ERD Requirements
 

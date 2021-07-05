@@ -92,13 +92,13 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h |
-
+| [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h |
 
 ### Adding new Data Sources and Fields
 
 Process for adding a new data source:
 
-- Create a new issue in the Analytics project requesting for the data source to be added:
+- Create a [new issue using the New Data Source Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=New%20Data%20Source) in the Analytics project requesting for the data source to be added:
     - Document what tables and fields are required
     - Document the questions that this data will help answer
 - Create an issue in the [Security project](https://gitlab.com/gitlab-com/gl-security/security-department-meta/issues/) and cross-link to the Analytics issue.
@@ -127,13 +127,23 @@ Sisense's access is always explicitly granted.
 
 To ensure that the data team has a complete picture of where sensitive data is in the data warehouse, as well as make sure Sisense does not have access to sensitive data, a periodic scan of the data warehouse is made using dbt along with the internally-developed library of tools created as [`datasiren`](https://gitlab.com/gitlab-data/datasiren). This scan is currently executed weekly. The fine-grained results are stored in Snowflake in the `PREP.DATASIREN` schema and are not available in Periscope because of sensitivity reasons.  High-level results have been made available in Periscope, including the simple dashboard found [here](https://app.periscopedata.com/app/gitlab/793578/DataSiren).  
 
-### Qualtrics Data Push / Qualtrics SheetLoad
+### Qualtrics Mailing List Data Pump / Qualtrics SheetLoad
 
-The Qualtrics data push process, also known in code as `Qualtrics SheetLoad`, enables emails to be uploaded to Qualtrics from the data warehouse without having to be downloaded onto a team member's machine first.  This process shares its name with SheetLoad because it looks through Google Sheets for files with names starting with `qualtrics_mailing_list`.  For each of the files it finds with an `id` column as the first column, it uploads that file to Snowflake.  The resulting table is then joined with the GitLab user table to retrieve email addresses.  The result is then uploaded to Qualtrics as a new mailing list.
+The Qualtrics mailing list data pump process, also known in code as `Qualtrics SheetLoad`, enables emails to be uploaded to Qualtrics from the data warehouse without having to be downloaded onto a team member's machine first.  This process shares its name with SheetLoad because it looks through Google Sheets for files with names starting with `qualtrics_mailing_list`.  For each of the files it finds with an `id` column as the first column, it uploads that file to Snowflake.  The resulting table is then joined with the GitLab user table to retrieve email addresses.  The result is then uploaded to Qualtrics as a new mailing list.
 
 During the process, the Google Sheet is updated to reflect the process' status.  The first column's name is set to `processing` when the process begins, and then is set to `processed` when the mailing list and contacts have been uploaded to Qualtrics.  Changing the column name informs the requester of the process' status, assists in debugging, and ensures that a mailing list is only created once for each spreadsheet.
 
 The end user experience is described on the [UX Qualtrics page](/handbook/engineering/ux/qualtrics/#distributing-your-survey-to-gitlabcom-users).
+
+#### Debugging
+
+Attempting to reprocess a spreadsheet should usually be the first course of action when a spreadsheet has an error and there is no apparent issue with the request file itself.  Reprocessing has been necessary in the past when new GitLab plan names have been added to the `gitlab_api_formatted_contacts` dbt model, as well as when the Airflow task hangs when processing a file.  This process should only be performed with coordination or under request from the owner of the spreadsheet, to ensure that they are not using any partial mailing list created by the process, as well as not making any additional changes to the spreadsheet.
+
+To reprocess a Qualtrics Mailing List request file:
+    1. Disable the Qualtrics Sheetload DAG in Airflow. 
+    1. Delete any mailing lists in Qualtrics that have been created from the erroring spreadsheet.  You should be able to log into Qualtrics using the `Qualtrics - API user` credentials and delete the mailing list.  The mailing list's name corresponds to the name of the spreadsheet file after `qualtrics_mailing_list.`, which should also be the same as the name of the tab in the spreadsheet file.
+    1. Edit cell A1 of the erroring file to be `id`
+    1. Enable the Qualtrics Sheetload DAG in Airflow again and let it run, closely monitoring the Airflow task log
 
 ### Snowplow Infrastructure
 
@@ -156,6 +166,21 @@ We use Airflow on Kubernetes for our orchestration. Our specific setup/implement
 ## <i class="fas fa-database fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="data-warehouse"></i>Data Warehouse
 
 We currently use [Snowflake](https://docs.snowflake.net/manuals/index.html) as our data warehouse. The Enterprise Data Warehouse (EDW) is the single source of truth for GitLab's corporate data, performance analytics, and enterprise-wide data such as Key Performance Indicators. The EDW supports GitLab’s data-driven initiatives by providing all teams a common platform and framework for reporting, dashboarding, and analytics. With the exception of point-to-point application integrations all current and future data projects will be driven from the EDW. As a recipient of data from a variety of GitLab source systems, the EDW will also help inform and drive Data Quality best-practices, measures, and remediation to help ensure all decisions are made using the best data possible.
+
+### Snowflake support portal access 
+
+To get access to snowflake support portal, please follow the below steps.
+- Register using gitlab email id to [community portal](https://community.snowflake.com/CommunitiesSelfReg)
+- This registration will send a welcome email to gitlab mail with the subject `Welcome to the Snowflake Community`. In the mail it will ask you to finish the registration as part of that you will be asked to set your password for the community portal.
+- Once done login again to your snowflake community account and on the home page, click `submit case`. For the first time, the user who do not have access to submit a case with snowflake. It will ask you to fill in the form for access. 
+- In the form select the access for already snowflake customer. On the next page, it will ask for information `Account Name `, `Cloud Name`, and  `Region Name`. Below is one way to pull this information from the snowflake console.
+    - `Account Name` - select CURRENT_ACCOUNT();
+    - `Region Name`- select CURRENT_REGION();
+    - `Cloud Name` - Based on the [region name](https://docs.snowflake.com/en/user-guide/admin-account-identifier.html#snowflake-region-ids)  value we can identify the cloud name. 
+    
+- Once done you should receive the acknowledgment mail with the subject `[Request received] Case#` instantly. In case you don't receive the mail resubmit the form. 
+- Post that you will receive confirmation mail within 24 hours on your request with the subject line  `Case# -Self Register - Enable Case access`
+
 
 ### Warehouse Access
 
@@ -271,9 +296,7 @@ Here are the proper steps for provisioning a new user and user role:
 </div>
 </div>
 
-For a more information, check this recorded pairing session.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-vpH0aSeO9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+For more information, watch this [recorded pairing session](https://youtu.be/-vpH0aSeO9c) (must be viewed as GitLab Unfiltered).
 
 ### Compute Resources
 
@@ -289,6 +312,7 @@ The names of the warehouse are appended with their size (`analyst_xs` for extra 
 | `engineer_*`         | These are for Data Engineers and the Manager to use when querying the database or modeling data | 30                  |
 | `fivetran_warehouse` | This is exclusively for Fivetran to use                                                         | 30                  |
 | `gitlab_postgres`    | This is for extraction jobs that pull from GitLab internal Postgres databases                   | 10                  |
+| `grafana`            | This is exclusively for Grafana to use                                                          | 60                  |
 | `loading`            | This is for our Extract and Load jobs                                                           | 60                  |
 | `merge_request_*`    | These are scoped to GitLab CI for dbt jobs within a merge request                               | 60                  |
 | `reporting`          | This is for the BI tool for querying. Note that Sisense enforces a 4 minute timeout.            | 30                  |
@@ -402,6 +426,31 @@ The extracts we do for some [yaml files](https://gitlab.com/gitlab-data/analytic
 
 For an extra layer of robustness, we backup data from the warehouse into GCS (Google Cloud Storage). We execute the jobs using dbt's [`run-operation`](https://docs.getdbt.com/docs/using-operations) capabilities. Currently, we backup all of our snapshots daily and retain them for a period of 1 month. We implemented the basic instructions outlined in [this Calogica blog post](https://calogica.com/sql/snowflake/dbt/2019/09/09/snowflake-backup-s3.html).
 
+### Admin
+
+In order to keep Snowflake up and running, we perform administrative work.
+
+#### Create Storage location
+
+In order to load data into the data warehouse, data is usually read out of a storage bucket. To load from a bucket, that bucket must be added as part of an allow list in Snowflake and a `stage` must be created. 
+
+First select all current storage locations. Copy the value under `property_value` where property=`STORAGE_ALLOWED_LOCATIONS`
+```sql
+DESC INTEGRATION GCS_INTEGRATION;
+```
+
+Paste the value in the query below, over `<<<<_paste_here_>>>>` + the value of the new bucket location. Values needs to be separated by a `,`.
+```sql
+ALTER INTEGRATION GCS_INTEGRATION 
+SET STORAGE_ALLOWED_LOCATIONS = ('<<<<_paste_here_>>>>')
+```
+
+A new stage can then be created with the added storage location. 
+```sql
+CREATE STAGE "RAW"."PTO".pto_load
+STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'bucket location';
+```
+
 ## <i class="fas fa-cogs fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Transformation
 
 We use [dbt](https://www.getdbt.com/) for all of our transformations.
@@ -436,6 +485,7 @@ The primary elements of the TDF include:
 1. [Schema-to-Golden Record Coverage](/handbook/business-technology/data-team/platform/dbt-guide/#schema-to-golden-data-coverage) to provide broad coverage of the data warehouse domain, ranging from schema to critical "Golden" data.
 1. The [Trusted Data Dashboard](/handbook/business-technology/data-team/platform/#trusted-data-dashboard), a _business-friendly_ dashboard to visualize overall test coverage, successes, and failures.
 1. The [Test Run](/handbook/business-technology/data-team/platform/#test-run) is when a Test Cases are executed.
+1. [Row Count test](/handbook/business-technology/data-team/platform/#row-count-test) to reconsile the amount of rows between source system and Snowflake
 
 #### Virtuous Test Cycle
 
@@ -485,6 +535,23 @@ The Trusted Data Dashboard in Sisense can be found [here](https://app.periscoped
 
 More to come.
 
+#### Row Count Test
+
+The row count tests reconciles the amount of rows between source database and target database by extracting data from source DB tables and load into Snowflake table and extract similar stats from Snowflake and perform comparison between source and target. Their is a challenge to have an exact match between source and target, because;
+- There is timing difference.
+- Data warehouse might keep history.
+- Deletions takes place on source database.
+
+Depending on the scenario, its advisable to check the row count not on the highest (table) level, but check the row counts on a lower granular level. This could be one or more fields with a logical distribution, but still on a aggregated level. An example could be an insert or update date in a table.
+
+Based on the row counts from source and row counts on the target (Snowflake data warehouse), a reconciliation can take place to determine if all rows are loaded into the data warehouse. 
+
+##### Row Count Tests PGP 
+
+The framework is designed to handle execution of any kind of query to perform the test. As per the current architecture every query will create one Kubernetes pod, so grouping into one query reduces creation of the number of Kubernetes pods. For record count and data actual test between postgres DB and snowflake the approach followed  is grouping low volume source tables together and large volume source tables run as an individual task. 
+
+A new yaml file is created which is supposed to do all types of reconciliation (so its not incorporated in the existing yaml extraction manifest). Manifest file combines a group of low volume tables together and a large volume table as individual tasks. 
+
 ## <i class="fa fa-heart" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Data Pump
 
 ```mermaid
@@ -515,6 +582,22 @@ This is all orchestrated in the Data Pump [Airflow DAG](https://airflow.gitlabda
 * owner - your (or the business DRI's) gitlab handle
 
 **Step 3:** Create an [integration issue in the integrations project](https://gitlab.com/gitlab-com/business-ops/enterprise-apps/integrations/integrations-work/-/issues/new) using the 'New Data Pump' issue template so that the Integration team can map and integrate the data into the target application.
+
+## <i class="fas fa-toggle-on" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Data Spigot
+
+A Data Spigot is a concept/methodology to give external systems, access to Snowflake data in a controlled manner.  To give external systems access to Snowflake, the following controls are in place:
+- A dedicated service account.
+- A dedicated view (or views) only exposing the minimum required data. No Personally Identifiable Information (PII) may be disclosed.
+- A dedicated role (or equivalent) with access to only the specified tables/views.
+- A dedicated XS warehouse to limit and monitor costs.
+
+The process for setting up a new Data Spigot is as follows:
+1. Comply to the controls that are in place, as described above.
+2. Add new Data Spigots to the table below:
+
+| Connected system | Data scope | Database views | 
+| ---------------- | ---------- | ------------- |
+| Grafana          | Snowplow loading times | `prod.legacy.snowplow_page_views_all_grafana_spigot` |
 
 ## <i class="fas fa-chart-bar fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Visualization
 

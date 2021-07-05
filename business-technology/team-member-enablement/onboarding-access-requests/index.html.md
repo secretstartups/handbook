@@ -31,6 +31,19 @@ If the latter, see below.
 Team members that do not live in these countries will need to procure their own laptop and submit for reimbursement.
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
+### Laptop Purchasing and Shipping Process
+
+Once Team Member Enablement receives your laptop order we start working on purchasing your laptop and any additional equipment requested. We leverage business relationships with several different vendors across the globe to accomplish this remotely. Please note delivery times will vary depending on location, supply of hardware, vendor selection, and shipping method.
+
+However, we may be able to work out priority or overnight delivery. We will not be able to service this for all cases and regions at this time but please feel free to reach out to IT-Help@gitlab.com or talk with your hiring manager to review all options available. 
+
+If you are a hiring manager or member of the hiring/recruiting team, you may check the status and content of a new hires order in the [IT Equipment Order Process Project](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/it-equipment-order-processing)
+
+Current Delivery Timelines for Gitlab Hardware
+
+US New Hires - 1-2 weeks (Apple) and 4-6 weeks (Dell)
+Non-US New Hires - 2-3 weeks (Apple) and 6-9 weeks (Dell)
+
 ### Key Performance Indicators
 
 KPI 99% of laptops will arrive prior to start date or 21 days from the date of order.
@@ -95,9 +108,8 @@ We strongly encourage Macs, but we do allow Linux if you are capable of self-sup
 
 \*\*NOTE: Max price: **the price of the equivalent [16” MacBook pro laptop](#apple-hardware)**. Please make sure you order this model minimum 14 days, based on your locality, prior to your desired date to receive.
 
-\*\* NOTE: [1Password](/handbook/security/#1password-guide) does not yet have a native client for Linux, but [there is a browser extension](https://support.1password.com/getting-started-1password-x/).
+For Linux laptops, our **standard laptop provider is Dell** which generally comes pre-loaded with Ubuntu Linux,(to save money by not purchasing a Windows license). Dell in Australia and New Zealand are unable to currrently pre load with Ubuntu Linux, so staff will need to install Linux onto the devices once they've been received.
 
-For Linux laptops, our **standard laptop provider is Dell** which comes pre-loaded with Ubuntu Linux (to save money by not purchasing a Windows license).
 The reasons for using Dell for a Linux laptop are as follows:
 
 - There are several manufacturers of laptop systems that offer Linux, but Dell is the only major manufacturer that has done so for years, and it has already worked out shipping issues for all of the countries where GitLab employees live.
@@ -171,7 +183,7 @@ Therefore the vendor should be able to handle most if not all shipping requireme
 Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop.
 If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.
 
-Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use the same template.
+Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 This process can also be followed for laptops that are not broken but old enough that you are having trouble completing your work.
 Please refer to the [spirit of spending company money](/handbook/spending-company-money/) when deciding whether or not it is appropriate to replace your functioning laptop.

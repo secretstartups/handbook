@@ -87,3 +87,5 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
 - IT Analyst EMEA - [Paulius Laurinavicius](https://about.gitlab.com/company/team/#plaurinavicius), plaurinavicius@gitlab.com, @plaurinavicius
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
+- IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
+- Senior IT Systems Engineer -  [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), jmartin@gitlab.com, @jeffersonmartin

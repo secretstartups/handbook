@@ -56,7 +56,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;}
 
 <h1 id="headerformat">Engineering </h1>
 
-  * <a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/engineering/narrow_mr_rate.html" > Narrow MR Rate</a>
+  * <a href="/handbook/engineering/performance-indicators/#engineering-mr-rate" > MR Rate</a>
 
 
 <style> #headerformat {
@@ -118,6 +118,7 @@ background-color: #554488; color: white; padding: 5px; text-align: center;
   * <a href="/handbook/business-technology/data-team/data-catalog/pricing/" class="">📊 Self-Service Analytics Workflow: Pricing Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/" class="">🚧 WIP Self-Service Analytics Workflow: XMAU Analysis</a><br><br>
   * <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="">🚧 WIP Product Usage Data</a><br><br>
+  * <a href="https://app.periscopedata.com/app/gitlab/803470/Customer-Product-Usage-Dashboard" class="">📊 Customer Product Usage Dashboard</a><br><br>
 </details>
 
 
