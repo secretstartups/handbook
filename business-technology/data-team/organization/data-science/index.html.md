@@ -16,9 +16,9 @@ description: "GitLab Data Science Team Handbook"
 
 # Data Science at GitLab
 
-The mission of the Data Science team is to help understand business, customers and products better with model-based insights that are trusted and scalable.
+The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
 
-We do this by building model
+We do this by building machine learning models and analysing data to convert results into trusted and scalable products.
 
 ## Tools 
 
@@ -26,36 +26,31 @@ Currently, Data Science team uses Python and Jupyter to deliver projects.
 
 # Data Science responsibilities
 
-[Data Scientists] (https://about.gitlab.com/job-families/finance/data-science/) 
-
-
-
-
+Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
 
 Additionally, the **Data Science Team** supports the following responsibilities
 - With the **Data Leadership Team**:
-    - Defining and publishing a Data Strategy to help maximize the value of GitLab's Data Assets
+    - Defining and publishing a Data Science roadmap to expand analytical capabilities
     - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
 - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
-    - Building and maintaining the company's central Enterprise Data Warehouse to support Reporting, Analysis, Dimensional Modeling, and Data Development for all GitLab teams
-    - Developing Data Management features such as master data, reference data, data quality, data catalog, and data publishing
-    - Providing Self-Service Data capabilities to help everyone leverage data and analytics
     - Helping to define and champion Data Quality practices and programs for GitLab data systems
 
 # Projects structure
-Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)] (https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) standard to deliver projects, which consists of 6 steps. More detailed breakdown of project structure and code examples can be found (here). 
+Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)] (https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
 ### Business Understanding
-Gathering requirements, defining vision for product and use cases for models, define success criteria. These need to be aligned with GitLab's [OKRs] (https://about.gitlab.com/company/okrs/) 
+First step is to define business needs of end users of the project and sucess criteria. This phase includes gathering requirements, stakeholders interviews, defining vision and user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs] (https://about.gitlab.com/company/okrs/) and [iteration] (https://about.gitlab.com/handbook/values/#iteration)
 ### Data Understanding 
-A
+This phase is not mutually exclusive to business understanding
 ### Data Preparation 
-A
+conducting [second data quality check] and [exploratory data analysis]. In this sectio
 ### Modeling 
 a
 ### Evaluation 
-A
+Evaluation requires 
 ### Deployment  
 If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. 
+
+
 # Success Criteria, Exit Criteria, Acceptance Measures, Goals, and Value Measures.
-a
+Every project starts and ends with success criteria. 
