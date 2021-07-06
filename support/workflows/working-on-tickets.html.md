@@ -114,8 +114,8 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
-   tickets, and check the `.com with SLA`, `.com Accounts, Groups, Login`, or
-   `SM with SLA` view (depending on your current focus) occasionally for tickets
+   tickets, and check the `Your region Needs Org/Triage/FRT`, `SaaS Account`, `Free user tickets`, and
+   `Your region+All Regions Needs Assignee` views for tickets you can work on.
    that need some help. To be sure that your suggestions align with the work
    the assignee has already done, it's best to post an internal note or to pair
    with them. If you decide to post a public response, be sure that your next
