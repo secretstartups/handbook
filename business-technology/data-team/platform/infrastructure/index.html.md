@@ -612,24 +612,26 @@ securityContext:
   runAsUser: 100
 ```
 
-## Automated Process Updating Version DB and License DB
+## Automated Processes Loading Data into Snowflake
 
-### Source Postgres DB Data Export
+### Version DB and License DB Load Tasks
+
+#### Source Postgres DB Data Export
 
 There's a once-daily CI job that executes in the [version project](https://gitlab.com/gitlab-services/version-gitlab-com) as well as the [license project](https://gitlab.com/gitlab-org/license-gitlab-com/) that runs the database export [version script](https://gitlab.com/gitlab-services/version-gitlab-com/-/blob/master/scripts/data/export_data.sh) or [license script](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/scripts/data/export_data.sh) and exports CSV files to a GCS bucket.  These files are named `gitlab-version-{table_name}-{monday_of_week}` or `gitlab-license-{table_name}-{monday_of_week}` respectively.
 
-### Snowflake Stage
+#### Snowflake Stage
 
 The GCS bucket where the version DB CSV files are being exported is setup in Snowflake as the stage `raw.version_db.version_dump`.  The GCS bucket where the license DB files are exported is setup as the stage `raw.license_db.license_dump`. This means from Snowflake, we can list all of the files, copy the data in the files into tables, and even delete files.
 
-### Column Matching and Table Generation
+#### Column Matching and Table Generation
 
 The CSV files are not self-describing. They do not have a column header to know what column is in which position.  Because of this, the tables in RAW need to have columns in order that exactly match what order the CSVs are in.  In order to easily create the tables, [this bash script](https://gitlab.com/gitlab-data/analytics/-/blob/master/load/miscellaneous/version_and_license_db/do_create_tables.sh) was created.  In order to generate the create statements:
 1. Uncomment the declare statement of the desired database
 1. Set the PATH_TO_MANIFESTS environment variable to have the path to your cloned version of the source sql folder.  For version db it should point to your cloned version of [this folder](https://gitlab.com/gitlab-services/version-gitlab-com/-/tree/master/scripts/data/sql).  For license db it should point to [this folder](https://gitlab.com/gitlab-org/license-gitlab-com/-/tree/master/scripts/data/sql).
 1. Execute `do_create_tables.sh` and it should print out all of the create table statements.
 
-### Snowflake Tasks
+#### Snowflake Tasks
 
 The CSV files are being loaded daily from the Snowflake stage with snowflake tasks. The tasks were generated running SQL such as 
 
@@ -645,9 +647,99 @@ create or replace task users_load_task
 
 with the LOADER role.  These tasks run daily and load only new or updated files.  To see the task definitions, you can run `show tasks` as the LOADER role with the `version_db` or `license_db` schema as part of the context.
 
-#### Task Monitoring
+##### Task Monitoring
 
 The tasks are being monitored with a dbt test that makes sure each task has ran successfully in the last day.  The version test and license test can be found in the internal data-tests project [here](https://gitlab.com/gitlab-data/data-tests/-/blob/main/tests/sources/version/version_load_task_test.sql) and [here](https://gitlab.com/gitlab-data/data-tests/-/blob/main/tests/sources/license/license_load_task_test.sql) respectively.  In order to diagnose problems with the tasks, you can query the `raw.snowflake.task_history_view` and inspect the `error_message` column on failed tasks.
+
+### PTO by Roots Snowpipe
+
+As described in [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/5786), there is a process maintained by the people group that periodically queries the PTO by Roots API and dumps the results into a JSON file in the `gitlab-pto` GCS bucket.  This bucket is in the `gitlab-analysis` GCP project.  
+
+To load this data into Snowflake, a Snowpipe for GCS was configured using this [Snowflake documentation](https://docs.snowflake.com/en/user-guide/data-load-snowpipe-auto-gcs.html).  A GCP pubsub topic named `gitlab-pto-snowpipe` was configured to receive a new message whenever a new file was written to the `gitlab-pto` bucket.  A GCP Pub/Sub subscription named `gitlab-pto-snowpipe` with delivery type `Pull` was created to subscribe to the `gitlab-pto-snowpipe` topic.
+
+Then, a notification integration was created in Snowflake with the following command:
+
+```sql
+create notification integration pto_snowpipe_integration
+    type = queue
+    notification_provider = gcp_pubsub
+    enabled = true
+    gcp_pubsub_subscription_name = 'projects/gitlab-analysis/subscriptions/gitlab-pto-snowpipe';
+```
+
+The Snowpipe was then created using this command:
+
+```sql
+CREATE OR REPLACE PIPE raw.pto.gitlab_pto
+    AUTO_INGEST = true
+    INTEGRATION = 'PTO_SNOWPIPE_INTEGRATION'
+    AS copy into raw.pto.gitlab_pto (jsontext, uploaded_at)
+    from (select $1, current_timestamp() as uploaded_at from @raw.pto.pto_load)
+    file_format=(type='json' strip_outer_array = true);
+```
+
+The Snowpipe was enabled so it successfully picks up any new files written to the `gitlab-pto` bucket:
+
+```sql
+alter pipe raw.pto.gitlab_pto enable;
+```
+
+#### Debugging
+
+If there are any issues with the PTO snowpipe, check the status of the Snowpipe first.  This can be done in Snowflake by running
+
+```sql
+select SYSTEM$PIPE_STATUS('gitlab_pto');
+```
+
+### Demandbase Load Tasks
+
+The Demandbase data load was implemented as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7657).  Demandbase data is loaded daily, by Demandbase, in parquet format into a GCS bucket owned by Demandbase named `datastream-hosted-gitlab-3750`.  GitLab's Snowflake-GCS integration service account was granted permission to read and list files within this bucket to load data from Demandbase into Snowflake.
+
+A Snowflake stage was created to interface with the Demandbase data:
+
+```sql
+CREATE STAGE "RAW".demandbase.data_stream 
+STORAGE_INTEGRATION = GCS_INTEGRATION 
+URL = 'gcs://datastream-hosted-gitlab-3750/datastream-gitlab/';
+```
+
+After, a Snowflake task for each demandbase relation was created to load from GCS into the Snowflake RAW database.  For example, the Snowflake task loading accounts was defined with:
+
+```sql
+create task demandbase_account_load_task
+       WAREHOUSE = LOADING
+       SCHEDULE = '1440 minute'
+       AS 
+copy into raw.demandbase.account (jsontext, uploaded_at) 
+    from (select $1, current_timestamp() as uploaded_at from @raw.demandbase.data_stream/db1_accounts/)
+    file_format=(type='parquet');
+```
+
+Then the task was enabled by running `alter task DEMANDBASE_ACCOUNT_LOAD_TASK resume;`.  Each task continues to run daily and loads any new files from GCS into the Snowflake `raw.demandbase` schema.
+
+### Thanos Load Tasks
+
+There is a process setup as part of [this issue](https://gitlab.com/gitlab-data/analytics/-/issues/7713) that pulls thanos metrics daily and writes them to a GCS bucket.
+
+To pull the metrics into Snowflake from GCS, a stage was created:
+
+```sql
+CREATE STAGE "RAW"."PROMETHEUS".periodic_queries 
+STORAGE_INTEGRATION = GCS_INTEGRATION URL = 'gcs://periodic-queries/';
+```
+
+A Snowflake task was then setup to load the new data files in daily:
+
+```sql
+create or replace task prometheus_load_task
+       WAREHOUSE = LOADING
+       SCHEDULE = '1440 minute'
+       AS 
+    copy into raw.prometheus.periodic_queries (jsontext, uploaded_at)
+    from (select $1, current_timestamp() as uploaded_at from @raw.prometheus.periodic_queries)
+    file_format=(type='json');
+```
 
 ## Data Refresh
 
