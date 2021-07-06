@@ -15,9 +15,25 @@ category: GitLab.com
 
 For GitLab team members wanting to file an internal request, please see the [Support Internal Requests handbook page](/handbook/support/internal-support/).
 
+Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/workflows/#License%20and%20subscription), or [CustomersDot console workflow](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html).
+
+## Overview
+
 This document details the various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
 
-Note: For internal requests relating to licenses and subscriptions, please refer to the [relevant license and subscription workflow](/handbook/support/workflows/#License%20and%20subscription), or [CustomersDot console workflow](/handbook/support/license-and-renewals/workflows/customersdot/customer_console.html).
+Internal requests can and should be addressed by any GitLab Support team members who are at least 50% SaaS focused and have a GitLab.com administrator account. Internal requests are typically created by other team members who are not within the Support organization, but you can always create an internal request to track any changes being done against a namespace. Chances are if you are making a change to a namespace, it should be documented with an internal request.
+
+At the very least, you should subscribe to the following labels:
+
+- [Admin Escalation](https://gitlab.com/gitlab-com/support/internal-requests/-/labels?subscribed=&search=admin+escalation)
+- [Dotcom Escalation Weekly Report](https://gitlab.com/gitlab-com/support/internal-requests/-/labels?subscribed=&search=dewr)
+
+You may want to consider subscribing to [Platform::SaaS](https://gitlab.com/gitlab-com/support/internal-requests/-/labels?subscribed=&search=platform+saas) but be aware this will be noisier.
+
+By subscribing to the labels, you'll recieve notifications on when a request is created. You should try to work them into your regular workflow, ensuring that you are assigning it to yourself like a customer ticket if you decide to take it.
+
+If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com%20Console.md).
+
 
 ## General Workflow
 
@@ -40,9 +56,17 @@ graph TD;
   O-->P[Escalate as necessary];
 ```
 
+## Activate Trial Runners
+
+For sales assisted trials, only we can override the credit card validation requirement for a namespace. This will require an SE with Console access. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users where a `GitLab.com Console Escalation` can be opened instead.
+
+## GitLab.com Trial Change Request
+
+Sales team members will typically open this on behalf of their prospects in order to extend an active trial. An SE can simply use the [update trial](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_trial.html) form to extend it, keeping in mind the requirements listed in the template. 
+
 ## Inactive Namespace Request
 
-See [Name Squatting Policy](namesquatting_policy.html).
+GitLab team members can create this request for their own use or on behalf of their customers. See [Name Squatting Policy](namesquatting_policy.html).
 
 ## Contact Request
 
@@ -75,9 +99,12 @@ This is a generic template used to request an engineer with GitLab.com console a
 
 Common issues include the following when the UI and API methods are not working:
 
-- deletion
-- user account changes
-- project export
+- Deletion of projects, groups, cluster integrations, container registries, etc.
+- User account changes
+- Group namespace changes
+- Project export
+
+Console escalation requests can also serve a purpose when a deep dive is needed to understand the root cause of a problem. This may be because we are not sufficiently logging in kibana/sentry, we're unable to replicate an issue, or the creation of an issue may not be the appropriate action needed to resolve a customer problem. Collaborate with console enabled engineers and product teams to solve these types of problems.
 
 Engineers with console access should search for similar previous requests, look for the relevant function in the code, or work with another engineer to resolve each request. Common or larger work can be found in the [support runbooks](https://gitlab.com/gitlab-com/support/runbooks/).
 
