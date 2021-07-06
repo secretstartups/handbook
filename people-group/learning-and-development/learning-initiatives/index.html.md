@@ -378,6 +378,6 @@ If you are a GitLab Team Member and interested in participating in the course, y
 1. Ensure we have a sign up link from crucial conversations. 
 1. Once we have the link, send the invite email to all team members interested in the program. 
 1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel
+1. Add all participants to the live event calendar invites 
 1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
 1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
-1. add more 
