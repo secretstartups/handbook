@@ -18,6 +18,7 @@ title: "Financial Planning & Analysis"
 - [Analytics Issue Tracker](https://gitlab.com/gitlab-data/analytics) for all data, dashboard, or reporting requests
 - [Slack Channel](https://gitlab.slack.com/archives/fpanda)
 - [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
+- [Marketing Finance](/handbook/finance/financial-planning-and-analysis/Marketing-Finance)
 - [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
 - [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
