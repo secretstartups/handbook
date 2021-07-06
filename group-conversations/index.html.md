@@ -281,7 +281,7 @@ We suggest each person attend via their own device to avoid [hybrid meetings](/h
 ### Steps to Request an AMA
 
 1. To request an AMA be put on the GitLab team meetings calendar, the requestor should find a date and time on the GitLab Team Meetings calendar that works for the AMA host.
-1. The requestor will slack [the EBA](https://about.gitlab.com/handbook/eba/)for their in the `#group-conversations` Slack Channel and provide the following information:
+1. The requestor will slack [the EBA](https://about.gitlab.com/handbook/eba/)for their department in the `#group-conversations` Slack Channel and provide the following information:
     - Title of AMA
     - Public or Private Livestream
     - Date & Time (YYYY-MM-DD PST)
