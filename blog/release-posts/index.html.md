@@ -1360,21 +1360,25 @@ If you need an extra block to convey important info, and it doesn't fit the othe
 
 ```yaml
 extras:
-  - title: "Hello World"
+  header: "GitLab SaaS Performance Improvements" 
+  blocks:
+  - title: "Example performance improvement"
     description: | # supports markdown
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, beatae!
+      Accelerate modern DevOps. Producat velocitatem quacum fiducia, sine securitate sacrificium, et visibilis DevOps in victoria!
 ```
 
 For more multiple blocks, use:
 
 ```yaml
 extras:
-  - title: "Hello World"
+  header: "GitLab SaaS Performance Improvements" 
+  blocks:
+  - title: "Example performance improvement"
     description: | # supports markdown
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, beatae!
-  - title: "Lorem"
+      Accelerate modern DevOps. Producat velocitatem quacum fiducia, sine securitate sacrificium, et visibilis DevOps in victoria!
+  - title: "Another performance improvement"
     description: | # supports markdown
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque.
+      Uno fonte veritatis!
 ```
 ### Deprecations, removals and breaking changes
 
