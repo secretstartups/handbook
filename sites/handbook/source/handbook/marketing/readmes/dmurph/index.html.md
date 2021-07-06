@@ -56,6 +56,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 * Crowe Global — [Exclusive Q&A With GitLab’s Head Of Remote](https://www.crowe.com/global/insights/art-of-smart/exclusive-q-a-with-gitlab-head-of-remote)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
+* Silicon Foundry — [Remote Work, Resilient Organizations, and Better Lives](https://sifoundry.medium.com/remote-work-resilient-organizations-and-better-lives-81218b4a4d15)
 * The Org — [The Hottest New Title in Tech: Head of Remote Work](https://theorg.com/insights/the-hottest-new-title-in-tech-head-of-remote-work)
 * Make The Leap Digital — [Remote Work Tips From GitLab's Head of Remote And Guinness World Record Top Publisher](https://www.linkedin.com/pulse/remote-work-tips-from-gitlabs-head-guinness-world-record-mandy-fransz/)
 * Ceridian — [Intentionally remote: Why this isn’t just a big experiment](https://www.ceridian.com/blog/intentionally-remote-why-this-isn-t-just-a-big-experiment-according-to-gitlab)
