@@ -31,8 +31,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 ### OOO Handover Process for People Experience Team
 
 1. The People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md) and tag all Associates in the issue at least the day before their scheduled OOO. If there are confidential items/tasks that need to be handed over, please create a Google doc, share with the team and link to the issue.
-2. The People Experience Coordinator will then reassign tasks to an alternative People Experience Associate (where applicable).
-3. Get assistance from the People Operation Specialist team if additional hands are needed.
+1. Get assistance from the People Operation Specialist team if additional hands are needed.
 
 
 ## People Experience Team Processes
@@ -51,17 +50,9 @@ The following factors will also be taken into consideration:
 - Ensure that the tasks split evenly and fairly 
 - A tracker will be kept to track the data of how the tasks are split up
 
-**The Rotation groups are listed as follows:**
-
-- Probation Periods / Moo Invites/ Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / Printfection Report
-
-- BHR Onboarding Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
-
-- I-9 Administration / Pruning of Stale Records (TBD)
-
 **The following tasks will be completed by any available People Experience Associate within the designated SLA:**
 
-- Letters of Employment / VOE 
+- Verification Of Employment 
 - Anniversary Queries
 
 #### Allocations for Onboarding
