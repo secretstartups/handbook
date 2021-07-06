@@ -117,7 +117,7 @@ Note: If a user changes their primary email, the form will also not work and the
 
 ### Secondary email
 
-Instruct the user to sign in and trigger a new confirmation email through their profile: [https://gitlab.com/profile/emails](https://gitlab.com/profile/emails)
+Instruct the user to sign in and trigger a new confirmation email through their profile: [https://gitlab.com/-/profile/emails](https://gitlab.com/-/profile/emails)
 
 ### Wacky state
 
