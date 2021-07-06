@@ -438,7 +438,7 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 
  **Business Process this supports:** Digital Journey - In order to deliver the digital journey enablement series to new customers, we need a way to identify contact roles for certain personas in the business to receive the right material.
 
-**Overview:** For the Commercial market, we will require identifying the GitLab admins at each Account at the time of Opportunity approval submission. When the “Submit for Approval” button is clicked in the Opportunity, logic will run the check criteria (defined below) on if a GitLab Admin is required and if there is currently one defined. Providing a GitLab Admin is defined by having at least one contact on the Account that has `Role` CONTAIN GitLab Admin [as seen here.](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/) Note: This contact can have other roles defined in this field in addition to GitLab Admin. If the criteria is met, there are two potential results:
+**Overview:** For the Commercial and Enterprise markets, we will require identifying the GitLab admins at each Account at the time of Opportunity approval submission. When the “Submit for Approval” button is clicked in the Opportunity, logic will run the check criteria (defined below) on if a GitLab Admin is required and if there is currently one defined. Providing a GitLab Admin is defined by having at least one contact on the Account that has `Role` CONTAIN GitLab Admin [as seen here.](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/) Note: This contact can have other roles defined in this field in addition to GitLab Admin. If the criteria is met, there are two potential results:
 
    1. There is already a GitLab Admin defined on the Account. 
       * Result: The submission continues to the normal screen of Closed Won Reason requirements for approvals.
@@ -449,7 +449,7 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
    * `Web Portal Purchase` is Unchecked (false value)
    * `Order Type 2.0` is 1. New - First Order
    * `Net ARR` less than $50,000
-   * `Account Owner Team` is Commercial
+   * `Stamped Opp Owner User Segment` is SMB or Mid-Market or Large
    * `[TSP] Region` is not APAC
    * `[TSP] Region` is not LATAM
 
