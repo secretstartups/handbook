@@ -299,8 +299,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-MW	|	Adam Pestreich
 |	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
-|	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Marsja Jones
-|	AMER	|	AMER	|	SMB-AMER-WEST-SF	|	Marsja Jones
+|	AMER	|	AMER	|	SMB-AMER-WEST-NW-1	|	Carrie Nicholson
+|	AMER	|	AMER	|	SMB-AMER-WEST-NW-2	|	James Altheide
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF	|	Carrie Nicholson
 |	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Carrie Nicholson
 |	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Adam Pestreich
 
