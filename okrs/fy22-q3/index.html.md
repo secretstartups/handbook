@@ -30,13 +30,15 @@ The by-the-book schedule for the OKR timeline would be
 ## OKRs
 
 ### 1. CEO: GitLab Managed future 
-   1. **CEO KR:** X% of [features missing on GitLab.com](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#all-differences-between-gitlab-saas-and-self-managed) have moved to scoped or [viable](/direction/maturity/)
-   1. **CEO KR:** Launch first customer facing iteration of three new delivery methods: Horse, Plus and Region
-   1. **CEO KR:** Have Workspace replace the admin screen
+[Epic 1534](https://gitlab.com/groups/gitlab-com/-/epics/1534)
+   1. **CEO KR:** X% of [features missing on GitLab.com](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/.#all-differences-between-gitlab-saas-and-self-managed) have moved to scoped or [viable](/direction/maturity/). [Issue 12066](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12066) 
+   1. **CEO KR:** Launch first customer facing iteration of three new delivery methods: Horse, Plus and Region. [Issue 12067](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12067)
+   1. **CEO KR:** Have Workspace replace the admin screen. [Issue 12068](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12068)
 
 ### 2. CEO: Conversion from free 
-   1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions
-   1. **CEO KR:** Release has a wizard with 100 templates
+[Epic 1535](https://gitlab.com/groups/gitlab-com/-/epics/1535)
+   1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions. [Issue 12069](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12069)
+   1. **CEO KR:** Release has a wizard with 100 templates. 
    1. **CEO KR:** 100% of sales people months have 2 [sales accepted opportunities (SAOs)](/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos). Sales people months are equal to the number of sales people multipled by the number of months. We'd mutiply the number of sales people at GitLab by 3, the number of months in the quarter. As an example of how to calculate end of quarter attainment:
       1. If you had 10 sales people, you would have 30 sales people months in quarter (10 people x 3 months in the quarter)
       1. If two people didn’t get 2 SAOs in the first month and one person didn’t get 2 SAOs in the next, you would have achieved 90% of the target (27 sales people months out of 30 total sales people months) for the quarter
