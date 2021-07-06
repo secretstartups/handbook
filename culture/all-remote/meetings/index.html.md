@@ -67,15 +67,6 @@ It's not rude to focus on documentation in a meeting. A surefire way to waste ti
 1. For optional attendees, or key team members who could not attend the meeting live, tagging them in the resulting GitLab issue(s) enables them to get themselves up to speed and contribute when it is suitable for their schedule.
 1. Record the meeting. You can always delete an unwanted meeting, but you cannot turn back the clock and record a meeting retroactively. This is particularly important if you want to present or wish to have a written transcription of the meeting. Zoom's [Cloud Recording](https://support.zoom.us/hc/en-us/articles/115004794983-Automatically-Transcribe-Cloud-Recordings-) supports [transcription](/handbook/tools-and-tips/zoom/#recording-video-transcripts) natively, and [Otter](https://otter.ai/) is another popular transcription tool.
 
-<!-- blank line -->
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/N3COqJvme-Q?start=41" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- blank line -->
-You can see this in practice by viewing past [GitLab Group Conversations](/handbook/group-conversations/) on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=group+conversation).
-
 ### Cancel unnecessary recurring meetings
 
 Recurring meetings are oftentimes established as meaningful points along a given a journey. Don't hesitate to cancel them after their purpose has been served. Cancelling meetings isn't a slight to those on the invite list. In fact, ridding multiple calendars of a meeting should be celebrated and conjure a sense of liberation.
