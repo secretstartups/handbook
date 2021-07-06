@@ -65,11 +65,11 @@ The Senior Revenue Programs Manager role is a [grade 7](/handbook/total-rewards/
 * Ability to work collaboratively with Sales & Marketing teams and effectively develop relationships with stakeholders at all levels of the organization to remove impediments that block the team’s ability to meet project objectives
 * Over achievement in a quota-carrying sales role strongly preferred
 
-### Manager, Revenue Programs Team
-The Manager, Revenue Programs Team reports to the Senior Director of Field Enablement.
+### Manager, Revenue Programs
+The Manager, Revenue Programs reports to the Senior Director of Field Enablement.
 
-#### Manager, Revenue Programs Team Job Grade
-The Manager, Revenue Programs Team role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+#### Manager, Revenue Programs Job Grade
+The Manager, Revenue Programs role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Manager, Revenue Programs Team Responsibilities
 * Lead a team of Revenue Program Managers
