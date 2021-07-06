@@ -79,8 +79,8 @@ The personal link is used by talent acquisition to schedule interviews so it is 
 
 ### Adding your title to your name
 
-Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of your last name in the last name field.
-For example, if your name is Art VanDelay and your role is Engineer, you can write first name: `Art` and last name: `VanDelay - Engineer`.
+Since Zoom doesn't display the job title field during meetings, it is recommended that you add your job title as part of the display name field.
+For example, if your name is Art VanDelay and your role is Engineer, you can write display name: `Art VanDelay - Engineer`.
 
 ### Set up a shortcut for muting in Zoom
 
