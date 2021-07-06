@@ -38,20 +38,21 @@ The by-the-book schedule for the OKR timeline would be
 ### 2. CEO: Conversion from free 
 [Epic 1535](https://gitlab.com/groups/gitlab-com/-/epics/1535)
    1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions. [Issue 12069](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12069)
-   1. **CEO KR:** Release has a wizard with 100 templates. 
+   1. **CEO KR:** Release has a wizard with 100 templates. [Issue 12075](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12075)
    1. **CEO KR:** 100% of sales people months have 2 [sales accepted opportunities (SAOs)](/handbook/marketing/revenue-marketing/sdr/#qualification-criteria-and-saos). Sales people months are equal to the number of sales people multipled by the number of months. We'd mutiply the number of sales people at GitLab by 3, the number of months in the quarter. As an example of how to calculate end of quarter attainment:
       1. If you had 10 sales people, you would have 30 sales people months in quarter (10 people x 3 months in the quarter)
-      1. If two people didn’t get 2 SAOs in the first month and one person didn’t get 2 SAOs in the next, you would have achieved 90% of the target (27 sales people months out of 30 total sales people months) for the quarter
-   1.  **CEO KR:** Increase Trial conversion to X%, Increase Free to Trial/Paid to X%
+      1. If two people didn’t get 2 SAOs in the first month and one person didn’t get 2 SAOs in the next, you would have achieved 90% of the target (27 sales people months out of 30 total sales people months) for the quarter. [Issue 12074](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12074)
+   1.  **CEO KR:** Increase Trial conversion to X%, Increase Free to Trial/Paid to X%. [Issue 12073](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12073)
 
 ### 3. CEO: Even prouder to work here
-   1. **CEO KR:** KR: 90% of team members answering an internal survey say that they agree that:
+[Epic 1536](https://gitlab.com/groups/gitlab-com/-/epics/1536)
+   1. **CEO KR:** 90% of team members answering an internal survey say that they agree that:
       1. Feel comfortable delivering our Golden Pitch
       1. Feel comfortable speaking to our brand message
       1. [If attending] Contribute was a success
       1. We are at mile 3 or 4 of a marathon or ultra-marathon
       1. Love the new GitLab Brand
-      1. GitLab pays competitively
-   1. **CEO KR:** Meet hiring targets and have a diverse top of pipeline
-   1. **CEO KR:** 7 certifications with more than 10,000 certificates issued
-   1. **CEO KR:** Graduate 2 internal projects from internal limited to public
+      1. GitLab pays competitively. [Issue 12070](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12070)
+   1. **CEO KR:** Meet hiring targets and have a diverse top of pipeline. [Issue 12071](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12071)
+   1. **CEO KR:** 7 certifications with more than 10,000 certificates issued. [Issue 13](https://gitlab.com/gitlab-com/gitlab-com/-/issues/13)
+   1. **CEO KR:** Graduate 2 internal projects from internal limited to public. [Issue 12072](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12072)
