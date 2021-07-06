@@ -345,7 +345,7 @@ As non-resident:
 Please be aware the calculation of all indirect taxes is done by our tax engine, Avalara (Avatax). 
 Indirect taxes are calculated based on the "Sold-To" location provided by the customer during the sales process. Any adjustments to the indirect taxes amounts are done on a invoice/credit-memo generation basis, therefore, only a credit and rebill from an originating transaction will create adjustments to indirect taxes (via the Avalara platform).
 
-Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/) and conditions prescribe that the customer will pay any required taxes itself and will not reduce the amount paid to GitLab on account thereof.
+Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees) and conditions prescribe that the customer will pay any required taxes itself and will not reduce the amount paid to GitLab on account thereof.
 Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
 
 
