@@ -170,8 +170,10 @@ The schedule is managed and updated by EMEA Support Managers.
 
 We use a **Google Calendar** to schedule events, a **spreadsheet** to track and plan and **Zapier** to glue those together:
 
-1. Calendar (view in browser): [EMEA Support Response Crew](https://calendar.google.com/calendar/embed?src=c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com&ctz=UTC)
-1. Calendar (ics format, to add to your GCal): [EMEA Support Response Crew](https://calendar.google.com/calendar/ical/c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com/public/basic.ics)
+1. Google Calendar `EMEA Support Response Crew` -- you can view in several ways:
+   1. Calendar (view in browser): [EMEA Support Response Crew](https://calendar.google.com/calendar/embed?src=c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com&ctz=UTC)
+   1. Go to your Google Calendar > Settings > Add calendar > Subscribe to calendar > enter "EMEA Support Response Crew"
+   1. Calendar (ics format, to subscribe From URL): [EMEA Support Response Crew](https://calendar.google.com/calendar/ical/c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com/public/basic.ics)
 1. Spreadsheet: [EMEA Support Response Crew Tracker](https://docs.google.com/spreadsheets/d/15o6a-XAQ5MEOowAryDfjuabes3C9cTZzYwdItPxjmSk/edit?usp=sharing)
 1. A [zap to update the Sheet when the calendar changes](https://zapier.com/shared/c88fd87638e0c69d75813f3959012e47d8f9e053)
 
