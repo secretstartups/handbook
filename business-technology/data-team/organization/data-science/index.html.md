@@ -49,7 +49,7 @@ Modeling refers to building machine learning model, which consists of training, 
 ### Evaluation 
 In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration] (https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 ### Deployment  
-Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First] https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/ approach, although it is recommended to document efforts regularly, during all phases. 
+Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First] (https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
 
 
 # Success Criteria
