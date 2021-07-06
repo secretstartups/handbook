@@ -54,5 +54,5 @@ The by-the-book schedule for the OKR timeline would be
       1. Love the new GitLab Brand
       1. GitLab pays competitively. [Issue 12070](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12070)
    1. **CEO KR:** Meet hiring targets and have a diverse top of pipeline. [Issue 12071](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12071)
-   1. **CEO KR:** 7 certifications with more than 10,000 certificates issued. [Issue 13](https://gitlab.com/gitlab-com/gitlab-com/-/issues/13)
+   1. **CEO KR:** 7 certifications with more than 10,000 certificates issued. [Issue 13](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12076)
    1. **CEO KR:** Graduate 2 internal projects from internal limited to public. [Issue 12072](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12072)
