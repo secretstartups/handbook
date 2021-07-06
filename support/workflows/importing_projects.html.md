@@ -17,12 +17,17 @@ The process has changed significantly, removing the previously used infra import
 If a customer is having issues with exporting a project, troubleshoot as normal, including:
 
 1. Ask user to attempt both UI and API.
-1. Gather necessary information to search logs. See [Kibana Import Error](/handbook/support/workflows/kibana.html#import-error) section on tips.
+1. Gather necessary information to search logs. See [Kibana Import Error](kibana.html#import-error) section on tips.
 1. Find relevant issue and comment, or create one if needed, with Kibana/Sentry links.
 
-Once an issue is created or commented on, you may use the [`Support::SaaS::Export::Offer one time` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665160) to offer a one-time export attempt. If the customer accepts the offer, then [open an export request in the internal requests tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Export%20Request).
+Once an issue is created or commented on, you may use the [`Support::SaaS::Export::Offer one time` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665160) to offer a one-time export attempt.
 
-For convenience, two additional macros are available after export attempt is made:
+If the customer accepts the offer, did the export succeed (they got an email, or there is a "Download export" button) but there an error downloading it? Example: [gitlab#330833](https://gitlab.com/gitlab-org/gitlab/-/issues/330833).
+
+1. If yes, open [an infra export request](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=Project%20Export.md) and fill in all relevant information. This skips the Support console attempt. Can be done within 30 days of the project export.
+1. If not (or when in doubt), [open an export request in the internal requests tracker](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Export%20Request).
+
+For convenience, two additional macros are available after an export attempt is made:
 
 - [`Support::SaaS::Export::Completed - Successful`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665100)
 - [`Support::SaaS::Export::Completed - Failed`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073665000)

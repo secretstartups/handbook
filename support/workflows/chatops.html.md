@@ -28,6 +28,7 @@ Uses the GitLab API for managing users.
 
 ## Feature Flags
 
-Used for checking whether a specific feature flag has been enabled on GitLab.com or not.
+- Used for checking whether a specific feature flag has been enabled on GitLab.com or not.
+- Used for enabling a feature flag on a project or a group.
 
 `/chatops run feature --help`

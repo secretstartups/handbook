@@ -43,6 +43,11 @@ members.
 Additionally, if the code change is specifically to improve the team's efficiency
 (such as changes to admin for faster support), then add the `~"Support Efficiency"` label.
 
+We also recommend using weight labels (frontend, backend, docs) to track the effort required for MRs.
+While you can look at how others have labelled their MRs, the most important thing is that you are consistent in applying the labels to your own MRs
+so that you can see which MRs required the most effort and your overall progress.
+The number of MRs and their total weight are included in the [1:1 generator reports](https://gitlab.com/gitlab-com/support/toolbox/1-1-issue-generator).
+
 An issue is created in the `support-team-meta` issue tracker at the
 end of each week with a list of support team contributions merged in the past week. View the
 [list of summary issues here](https://gitlab.com/gitlab-com/support/support-team-meta/issues?label_name%5B%5D=Support%20Team%20Contributions).

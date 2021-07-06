@@ -8,6 +8,16 @@ description: Process documentation for ticket escalation to support leadership.
 
 This document outlines the process for managing existing support tickets or [internal requests](https://gitlab.com/gitlab-com/support/internal-requests) which, due to business-critical situations require a resolution faster than what is defined by our [normal Support response times](https://about.gitlab.com/support/#priority-support).
 
+## What is an escalation?
+
+There are two types of escalations:
+
+1. A functional escalation is when the progress of a ticket has stalled and the ticket needs to be elevated to a more experienced engineer (based on their skill set) so that GitLab can resolve the ticket more quickly
+1. A hierarchal escalation is when management oversight is required to bring structure and focus to a ticket and ensure the necessary resources are allocated to it. This type of escalation typically encompasses the following situations:
+    - The SLA of the ticket has been significantly or repeatedly breached.
+    - It is a business critical situation where existing or future business is at risk.
+    - The ticket requires immediate intervention to address a high level of customer dissatisfaction.
+
 - TOC
 {:toc .hidden-md .hidden-lg}
 
@@ -18,7 +28,14 @@ The following two types of tickets can be escalated using this process.
 1. Zendesk Support tickets from customer with a license or subscription.
 1. Issues in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests) tracker.
 
+
 Either of these can be escalated if the current course of action is unlikely to provide a positive outcome and meet critical business objectives.
+
+## Out of Scope
+
+1. Topics that fall into our general out-of-scope [definition](https://about.gitlab.com/support/statement-of-support.html#out-of-scope)
+1. Escalating tickets for which there is no acceptable business case provided, requiring the acceleration of a resolution.
+1. Add email to org or tickets that are not getting the corerct SLA.
 
 ## About Escalations
 
@@ -36,10 +53,6 @@ Depending on whether you want to draw attention to either a Zendesk ticket or an
 
 >**Note:** If you do not have Zendesk access, please [request a Light Agent account](/handbook/support/internal-support/#viewing-support-tickets) to obtain it.
 
-### Out of Scope
-
-1. Add email to org
-1. Escalating tickets for which there is not an acceptable business case provided, requiring the acceleration of a resolution.
 
 ### Ticket De-escalation
 

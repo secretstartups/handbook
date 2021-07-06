@@ -252,3 +252,7 @@ the following cases for your ease:
   1. Our Zapier sync will link the customer with the correct organization if it is already listed in SFDC.
 
 Note: Proof of entitlement strictly includes primary email address associated for SAAS and company provided email address for SM.
+
+## AWS Marketplace purchases
+
+For customers who have purchased through the AWS marketplace, their license is a 5 user Premium License under the company name of "AWS Marketplace AMI".  This exists as an org in Zendesk, so customers proving entitlement with this license can be associated with with the Zendesk organisation "AWS AMI Purchasers". This will apply the appropriate support entitlement tags.

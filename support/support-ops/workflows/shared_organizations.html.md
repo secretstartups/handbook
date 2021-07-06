@@ -60,7 +60,7 @@ dropdown option. You can use this to further modifiy the permissions.
 
 Heightend permissions always increase security risks. This is why GitLab
 follows the
-[principle of least privilege](../../engineering/security/access-management-policy.html#principle-of-least-privilege)
+[principle of least privilege](/handbook/engineering/security/access-management-policy.html#principle-of-least-privilege)
 in everything we do. While the risk is normally minimized by our current
 processes and procedures, shared organizations do have a slighly higher risk
 than normal. This is why Support-ops always confirms the end-user understands

@@ -88,7 +88,7 @@ When GitLab experiences a [security incident](/handbook/engineering/security/sec
 
 ## Analyze and dispatch Live Upgrade Assistance Requests
 
-Analyzing [live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) means that you must ensure the request conforms to the requirements documented in [Scheduling Live Upgrade Assistance](handbook/support/workflows/live-upgrade-assistance.html).
+Analyzing [live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) means that you must ensure the request conforms to the requirements documented in [Scheduling Live Upgrade Assistance](/handbook/support/workflows/live-upgrade-assistance.html).
 
 To dispatch a request:
 

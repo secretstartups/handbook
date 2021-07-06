@@ -182,7 +182,7 @@ If you are doing this module as part of onboarding, feel free to remove the pair
 
 - **Done with Stage 5**
 
-1. Typically at week 3-4 at GitLab, you and your manager should check in that you're ready for admin access. If you are, complete [GitLab.com Admin access Training Module](.gitlab/issue_templates/GitLab-com Admin.md)
+1. Typically at week 3-4 at GitLab, you and your manager should check in that you're ready for admin access. If you are, complete [GitLab.com Admin access Training Module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com-Admin.md)
 
 ### Internal Requests
 
@@ -222,7 +222,7 @@ Aside from the ones covered in Stage 2, the most common user requests have to do
 
 Depending on your prior experience and readiness, open the module listed below. Your manager may decide to have you pick this up later once you have more familiarity with GitLab.
 
-1. Open a module on [GitLab.com Console](/gitlab-com/support/support-training/issues/new?issuable_template=Module%20-%20GitLab.com%20Console).
+1. Open a module on [GitLab.com Console](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Module%20-%20GitLab.com%20Console).
 
 ## Congratulations! You made it, and can now help customers with GitLab.com SAAS product related tickets.
 

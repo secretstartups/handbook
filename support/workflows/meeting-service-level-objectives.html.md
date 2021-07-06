@@ -137,7 +137,7 @@ If you're in the East of your region consider being available early in your day 
 
 If you notice that several people are out, please contact a manager and ask them to request volunteers to help out.
 
-#### I'm in EMEA how do I manage the schedule?
+#### I'm in EMEA; how do I manage the schedule?
 
 See 'EMEA Crew Schedule' below.
 
@@ -149,7 +149,7 @@ Each region will organize the crew schedule to fit the needs of their region.
 
 #### How do I know what day I am in the crew?
 
-There will be a calendar entry in your calendar
+Request in `#spt_managers` for you to be added to the "EMEA Support Response Crew" Google Calendar. When you are added, you will be able to add that calendar into your personal GCal view (see below).
 
 #### I'm not available for some or all of my day - what do I do?
 
@@ -170,7 +170,8 @@ The schedule is managed and updated by EMEA Support Managers.
 
 We use a **Google Calendar** to schedule events, a **spreadsheet** to track and plan and **Zapier** to glue those together:
 
-1. Calendar: [EMEA Support Response Crew](https://calendar.google.com/calendar/embed?src=c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com&ctz=UTC)
+1. Calendar (view in browser): [EMEA Support Response Crew](https://calendar.google.com/calendar/embed?src=c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com&ctz=UTC)
+1. Calendar (ics format, to add to your GCal): [EMEA Support Response Crew](https://calendar.google.com/calendar/ical/c_vp6h7svi03g9ifm57npvt5ho80%40group.calendar.google.com/public/basic.ics)
 1. Spreadsheet: [EMEA Support Response Crew Tracker](https://docs.google.com/spreadsheets/d/15o6a-XAQ5MEOowAryDfjuabes3C9cTZzYwdItPxjmSk/edit?usp=sharing)
 1. A [zap to update the Sheet when the calendar changes](https://zapier.com/shared/c88fd87638e0c69d75813f3959012e47d8f9e053)
 

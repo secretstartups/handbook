@@ -105,7 +105,7 @@ Weekly 1:1 meetings are a crucial part of Remote Culture at GitLab. Refer to the
 
 ### Develop your skills through learning and training
 
-We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
+We are committed to helping you develop your skills through continuous learning. The GitLab [Learning and Development team](/handbook/people-group/learning-and-development/) provides opportunities for exploration and training.
 
 Be sure to include non-technical topics such as:
 1. [Psychological safety in teams](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/)
