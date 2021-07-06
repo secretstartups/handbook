@@ -97,6 +97,36 @@ coworkers, easier. Current and past Support Operations have:
 * Coding experience with an object oriented language (such as Ruby, Python,
   etc.)
 
+### Senior Support Operations Specialist
+
+A Senior Support Operations Specialist is a more experienced engineer who
+continues to contribute as an individual while operating with equal comfort at
+the level of team enablement. That is, they work at the team level to increase
+every member's ability to contribute.
+
+#### Job Grade
+
+The Senior Support Engineer is a
+[grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### What you can expect in a Senior Support Operations Specialist role at GitLab:
+
+Generally they meet the following criteria. They:
+
+* are involved in mentoring teammates on new technologies, new
+  processes/workflows, and new GitLab features.
+* posses expert knowledge of the various odds and ends of being a Support
+  Operations specialist.
+* submit merge requests to improve on Support Operations workflows/processes.
+* drive system enhancements and fixes based on product expertise and GitLab
+  Support interactions.
+* contribute to one or more complementary projects.
+
+A Senior Support Operations Specialist may be interested in exploring Support
+Operations Management as an alternative at this point. See
+[Engineering Career Development](https://about.gitlab.com/handbook/engineering/career-development/)
+for more details.
+
 ### Career Ladder
 
 For more details on the engineering career ladders, please review the
