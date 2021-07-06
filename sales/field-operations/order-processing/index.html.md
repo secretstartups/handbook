@@ -1113,6 +1113,7 @@ This policy dicates the timing of opportunity closure for all sales-assisted dea
   - Why an exception is needed (justification)
   - Impact to the business (Net ARR or Renewal ARR loss)
   - **Approval from both** GitLab CRO and CFO (or Principal Accounting Officer)
+  - Anticipated (revised) Renewal Close Date
   
 - Once all of the above have been documented in Chatter, please tag @sales-support on the associated opportunity so that Sales Operations can take the appropriate actions to exclude the opportunity from auto closure
 
