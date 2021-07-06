@@ -132,9 +132,18 @@ If you're stuck _and_ are having difficulty finding help, contact the [manager o
 
 ## SaaS Emergencies
 
-The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked.
-However, you have additional visibility into problems that a customer may be facing that they will not. In some cases,
-you may even be able to fully resolve a customers problem.
+The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked. In some cases,
+you may even be able to fully resolve a customer's problem.
+
+For any customer facing a SaaS Emergency you are empowered to perform any [two-way door](/handbook/values/#make-two-way-door-decisions) action required to unblock them without seeking approval first. 
+
+Some examples:
+ - manually setting a subscription level
+ - adding additional storage
+ - adding extra CI minutes
+ - toggling a feature flag
+
+During a SaaS Emergency, you have additional visibility into problems that a customer may be facing. 
 
 Review:
 
