@@ -51,7 +51,7 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ### Livestream with Zoom
 
-- Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiletered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access). 
+- Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiltered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access). 
 
 - Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
 
