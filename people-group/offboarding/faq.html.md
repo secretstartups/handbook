@@ -78,6 +78,10 @@ Please create your final expense report to Expensify (for employees), OR, please
 
 Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
 
+### Other Reimbursements, Refunds or Repurchasements
+
+Please review our [loan policy](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#loans) if it applies to you. Please review our [Unpaid Leave])(/handbook/paid-time-off/#unpaid-leave-of-absence) section regarding payments in error. Please review our policy regarding [repurchasing unvested shares](/handbook/stock-options/#exercising-your-options).
+
 ### Total Rewards - Benefits 
 
 #### When will my benefits coverage end?
@@ -86,8 +90,11 @@ Typically, benefits coverage ends at the end of the month during which you leave
 
 #### How will my stock options be managed? What will happen to my stock options if I have been at GitLab less than a year at my date of departure? 
 
-
 All information is on the [Stock Options](/handbook/stock-options/) handbook page, specifically the [Exercise Window after Termination](/handbook/stock-options/#exercise-window-after-termination) section.
+
+#### What happens to my Growth and Development Benefit?
+
+More information can be found in the [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursement) Reimbusement section, which states that if you voluntarily terminate employment with GitLab, any expenses or reimbursement related to this benefit will be refunded to GitLab.
 
 ### USA
 
@@ -97,9 +104,13 @@ If you are a US-based team member, your benefits will cease on last day of the m
 
 Contact our 401(k) administrative vendor directly to get more information about this process. More information can be found on the [401(k)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-plan) section and [401(k) Rollover](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#401k-rollover) section of the US Benefits handbook page.
 
-#### What about my FSA Account(s)?
+#### What about my HSA/FSA Account(s)?
 
-All information on FSA accounts is in the [Discovery Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#wex-discovery-benefits-health-savings-accounts-and-flexible-spending-accounts) section of the US Benefits handbook page.
+All information on HSA/FSA accounts is in the [WEX (Discovery Benefits)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#wex-discovery-benefits-health-savings-accounts-and-flexible-spending-accounts) section of the US Benefits handbook page.
+
+### What about my Supplemental Life Insurance?
+
+Please review our [Cigna Supplemental Life Insurance/AD&D](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-supplemental-life-insuranceadd) section.
 
 ### Canada
 
