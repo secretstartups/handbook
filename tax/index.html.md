@@ -320,7 +320,7 @@ Open an inssue in the tax team [CIT Estimates/Prepayments] (https://gitlab.com/g
 
 ## Withholding Tax Management
 
-The payment for the use of GitLab's software can be subject to withholding tax. Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/) and conditions prescribe that the customer will pay any required withholding itself and will not reduce the amount paid to GitLab on account thereof.
+The payment for the use of GitLab's software can be subject to withholding tax. Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees) and conditions prescribe that the customer will pay any required withholding itself and will not reduce the amount paid to GitLab on account thereof.
 
 Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
 
