@@ -37,9 +37,8 @@ Having dedicated triagers on the team helps address the bystander affect. The sc
 Data triagers are the first responders to requests and problems for the Data team.
 
 - The Data Analyst triager is primarily responsible for responding to GitLab team member Requests whether via issue, which posts to **#data-triage**, or directly via slack in **#data**.
-- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** or **#dbt-runs** slack channels or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
-    - Daily, a link to the DBT Source Freshness dashboard is posted in **#analytics-pipelines**.  This dashboard should be reviewed by the Data Engineer triager.
-    - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues onthe [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
+- The Data Engineer triager is primarily responsible for resolving problems with our data platform, which will either be in the **#analytics-pipelines** slack channel or on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859). Issues created from these errors should use the [DE Triage Errors issue template](https://gitlab.com/gitlab-data/analytics/issues/new?issuable_template=DE%20Triage%20Errors).
+    - During the assigned triage day the Data Engineer should be primarily focused on active issues or the issues on the [DE - Triage Errors board](https://gitlab.com/groups/gitlab-data/-/boards/1917859).
 - The Data Analyst and Data Engineer triagers are secondarily responsible for platform problems and GitLab team member requests respectively.
 - For more information on responsibilities of a triager watch the [Data Engineer triage training session video](https://www.youtube.com/watch?v=0eGpgaQgEGg).
 
@@ -73,7 +72,7 @@ We need to work in our normal working hour perform the list of task mentioned fo
 
 **If any issue is found do we directly jump to fix it in production or take it as part of the incident and solve it within the defined time?** <br>
 On the Triage day the data team member present will look for all the failures, questions or errors in:
-- The Slack-channels; #data-prom-alerts #dbt-runs #analytics-pipelines and #data
+- The Slack-channels; #data-prom-alerts #analytics-pipelines and #data
 - Newly added [issues](https://gitlab.com/groups/gitlab-data/-/boards/1917859?&label_name[]=Priority%3A%3A1-Ops&label_name[]=Triage)
 - The TDF dashboard in [Sisense](https://app.periscopedata.com/app/gitlab/756199/Trusted-Data-Dashboard)
 
