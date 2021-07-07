@@ -21,7 +21,11 @@ Note: For internal requests relating to licenses and subscriptions, please refer
 
 This document details the various templates and workflows that should be followed in order to properly service GitLab.com related requests that Support receives in the [internal-requests](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) issue tracker.
 
-Internal requests can and should be addressed by any GitLab Support team members who are at least 50% SaaS focused and have a GitLab.com administrator account. Internal requests are typically created by other team members who are not within the Support organization, but you can always create an internal request to track any changes being done against a namespace. Chances are if you are making a change to a namespace, it should be documented with an internal request.
+Internal requests can and should be addressed by any GitLab Support team member who is able to resolve the request.
+
+Those who are at least 50% SaaS focused and have a GitLab.com administrator account should subscribe to and handle any issue that is an [Admin Escalation](https://gitlab.com/gitlab-com/support/internal-requests/-/labels?subscribed=&search=admin+escalation).
+
+Internal requests are typically created by other team members who are not within the Support organization, but you can always create an internal request to track work being done, especially in cases where the request originates internally (and there is no ZenDesk ticket to track).
 
 At the very least, you should subscribe to the following labels:
 
