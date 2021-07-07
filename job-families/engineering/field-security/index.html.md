@@ -35,6 +35,7 @@ The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compen
 * Identify opportunities for Field Security process automation
 * Maintain Field Security automation tasks
 * Maintain security sales enablement educational materials and support security evangelism
+* Support Field Security interanlly facing presentations such as Sales Kick Off, Sales Quick Start and Customer Success Skills Exchange
 * Identify new or increased customer security concerns
 
 #### Field Security Engineer (Intermediate) Requirements
@@ -58,6 +59,7 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Design requirements for Field Security automation tasks
 * Recommend new Field Security metrics and automate reporting of existing metrics
 * Mature security sales enablement educational program
+* Present a minimum of 4 interanlly facing presentations per annum such as Sales Kick Off, Sales Quick Start and Customer Success Skills Exchange
 * Monitor and report on new or increased customer security concerns
 
 #### Senior Field Security Engineer Requirements
@@ -78,7 +80,7 @@ The Staff Field Security Engineer is a [8](/handbook/total-rewards/compensation/
 * Mentor other Field Security Engineers and improve quality and quantity of the team's output
 * Design and implement major iterations of Field Security programs in alignment with industry trends, predictions and customer demands
 * Participate in Field Security roadmap development based on customer needs
-* Present a minimum of 4 external facing engagements per annum, ex: Commit, conferences, guest speaking engagements, blog posts, whitepapers
+* Present a minimum of 4 external facing engagements per annum such as Commit, conferences, guest speaking engagements, blog posts, whitepapers
 * Create dynamic open-source Field Security programs that deliver value to the GitLab community
 * Design, develop, and deploy scripts to automate administrative and process tasks related to Field Security
 * Design, develop, and deploy an automated metric reporting for all Field Security programs
