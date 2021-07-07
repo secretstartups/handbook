@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: "TMRG - Team Member Resource Group Guide"
-description: "An overview of what is needed to start and sustain a GitLab TMRG (Team Member Resource Group)"
+title: "TMG - Team Member Group Guide"
+description: "An overview of what is needed to start and sustain a Team Member Resource Group or a Team Member Discussion Group"
 canonical_path: "/company/culture/inclusion/erg-guide/"
 ---
 
@@ -12,19 +12,16 @@ canonical_path: "/company/culture/inclusion/erg-guide/"
 {:toc}
 
 ##  Introduction
-On this page you will be provided an overview of what is needed to start and sustain a GitLab TMRG (Team Member Resource Group)
+On this page you will be provided an overview of what is needed to start and sustain a GitLab TMRG (Team Member **Resource** Group) or a Team Member **Discussion** Group.
 
-## Definition of an TMRG - Team Member Resource Group
+## Definition of the TMG - Team Member Groups
 TMRGs are voluntary, team member-led groups focused on fostering diversity, inclusion and belonging within GitLab. These groups help team members build stronger internal and external connections; offer social, educational, and outreach activities; create development opportunities for future leaders; and increase engagement among team members.
 
-### Type of TMRGs
-Currently we have two different types of TMRGs.
+Team Member **Resource Group** provide support for an Underpresented group
+- The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
 
-1. TMRG that provide support for an Underpresented group
-The purpose for this type of TMRG is to develop and elevate that underrepresented group within Gitlab. To provide a voice and a safe space for people who identify as a part of that group and their allies. With aim of increasing and developing the sense of belonging. 
-
-2. TMRG that is for the purposes of discussions and/or allyship 
-The purpose of these groups is to provide either an avenue to perform more meaningful allyship activities and bring together ideas on how to be effective allies to underrepresented groups. An example of this being Men for Inclusion (Name not yet confirmed). This could also be an avenue for groups that won't be able to influence large parts of Gitlab Policy but be able to discuss issues that effect them, for example religion and faith. 
+Team Member **Discussion Group** that is for the purposes of discussions and/or allyship 
+- The purpose of these groups is to provide either an avenue to perform more meaningful allyship activities and bring together ideas on how to be effective allies to underrepresented groups. An example of this being Men for Inclusion (Name not yet confirmed). This could also be an avenue for groups that won't be able to influence large parts of Gitlab Policy but be able to discuss issues that effect them, for example religion and faith. 
 
 These types of groups must have a much clearer mission and purpose. Allyship groups in particular must be action orientated. Any budget assigned to these groups should be used in support of other TMRGs or Diversity, Inclusion & Belonging initiatives. 
 
