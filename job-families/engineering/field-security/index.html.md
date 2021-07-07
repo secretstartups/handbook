@@ -34,7 +34,7 @@ The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compen
 * Maintain handbook pages, policies, standards, procedures and runbooks related to Field Security
 * Identify opportunities for Field Security process automation
 * Maintain Field Security automation tasks
-* Maintain field security related educational materials and support security evangelism
+* Maintain security sales enablement educational materials and support security evangelism
 * Identify new or increased customer security concerns
 
 #### Field Security Engineer (Intermediate) Requirements
@@ -57,7 +57,7 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Execute peer reviews and provide meaningful feedback 
 * Design requirements for Field Security automation tasks
 * Recommend new Field Security metrics and automate reporting of existing metrics
-* Mature field security related educational program
+* Mature security sales enablement educational program
 * Monitor and report on new or increased customer security concerns
 
 #### Senior Field Security Engineer Requirements
