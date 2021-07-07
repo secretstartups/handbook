@@ -94,7 +94,7 @@ The convention at GitLab is to display [Manager](/company/team/structure/#manage
 * `Manager, Brand Growth Manager` in the Marketing Division
 * `Manager, IT` in the Finance Division
 
-To preserve de-facto industry standard role names such as `Engineering Manager`, manager roles in the Engineering Division 
+To preserve de-facto industry standard role names such as `Engineering Manager` and abbreviations such as `EM`, manager roles in the Engineering Division 
 generally follow this naming pattern: 
 
 `Engineering Manager, [Specialty]`
