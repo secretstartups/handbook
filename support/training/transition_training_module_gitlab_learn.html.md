@@ -16,7 +16,7 @@ This document covers the process for transitioning an existing GitLab Support tr
 
 ## Requisites
 
-- Complete the GitLab Learning Evangelist training.
+- Complete the GitLab [Learning Evangelist training](https://gitlab.edcast.com/pathways/ECL-f9be1e50-ba17-46b3-af33-731d19b3ffcd).
 
 
 ## Transition template
@@ -118,5 +118,5 @@ As a collaborator or author the pathway cannot be fully tested, for this step we
 
 - Collaboration in GitLab learn won't be as flexible as in GitLab and will depend on `Evangelists` or `Curators` for final updates.
 - The handbook is the SSOT, for that reason any change on the training must start in its handbook page.
-- A pathway author will be considered is DRI, and must ensure important updates in the trainig must be present in GitLab Learn as soon as possible.
+- A pathway author will be considered is DRI, and must ensure important updates in the training must be present in GitLab Learn as soon as possible.
 
