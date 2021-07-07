@@ -35,17 +35,23 @@ Outreach provides educational courses via their [Outreach University Pathways](h
 
 ### Sequences  
 Sequences are one of the main features of Outreach. Users can create a series of touchpoints in order to communicate and automate their workflows.
-We currently have two types of sequences. Primary and personal. Primary sequences are created to be shared and used across teams. Personal are for your own use.
 
 Naming convention for primary sequences include the following:
 
-- REGION (WW, AMER, EMEA, APAC)
-- PRIMARY or PERSONAL
-- Language
-- Name of campaign
-- HIGH or LOW touch
+- Inbound/ Outbound (OB/IB)
+- Region (EMEA/AMER/APAC)
+- Team
+- Type
+- Campaign with Year
+- If event: Segment (No show/attendees)
+- Optional: Touch
+- Optional: Language
 
-Example: | **EMEA PRIMARY English Just Commit HIGH**
+Example: | **OB EMEA SDRCOMM Trial FollowUp HT DE** OR **OB EMEA FMM EVT ContributeFY22 Registered**
+
+Please see here a [spreadsheet](https://docs.google.com/spreadsheets/d/12YXwIE126g0rmmNi7QYy2s0SewIV-2JWCr9YUPcqfaQ/edit?usp=sharing) that will help with your naming conventions.
+
+We currently have two types of sequences. Primary and personal. Primary sequences are created to be shared and used across teams. Personal are for your own use. Please use the above naming sequence for both primarty and personal. Note: please use the tags to denote if the sequence is Primary or Personal.
 
 When creating a new primary sequence or shared event sequence, please tag marketing ops on the issue for QA review prior to enabling it. The sequence is reviewed to ensure it has the correct rulesets, tags, collections, throttles, variables and other settings. Personal sequences do not need to be reviewed unless you wish to have an additional pair of eyes on it.
 
