@@ -108,9 +108,9 @@ As a collaborator or author, the pathway cannot be fully tested. For this step, 
 - The quizzes have the correct answers.
 - By completing the pathway it will show 100% completed.
 
-### Step 5 - Request final request from L&D team  and publish
+### Step 5 - Request final review from the L&D team and publish
 
-- Put a comment in the issue create in the first step requesting the final review.
+- Put a comment in the issue created from the first step to request a final review.
 - Once the pathway has been approved and depending on the audience, change it to public.
 
 
@@ -118,5 +118,5 @@ As a collaborator or author, the pathway cannot be fully tested. For this step, 
 
 - Collaboration in GitLab Learn won't be as flexible as in GitLab, and will depend on `Evangelists` or `Curators` for final updates.
 - The handbook is the single source of truth (SSOT). For this reason, any change to the training must start in its handbook page.
-- A pathway author will be considered is DRI, and must ensure important updates in the training must be present in GitLab Learn as soon as possible.
+- A pathway author will be considered as DRI, and must ensure important updates in the training are also present in GitLab Learn as soon as possible.
 
