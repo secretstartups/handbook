@@ -29,11 +29,13 @@ The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compen
 #### Field Security Engineer (Intermediate) Responsibilities
 * Complete customer security assessments, questionnaires and sales enablement activities
 * Maintain the Customer Assurance Package and other self-service customer security resources
-* Maintain GitLab's standard security response database (RFP)
+* Maintain GitLab's standard security response database 
 * Triage new or changing security requirements, security issues, and/or customer risks
 * Maintain handbook pages, policies, standards, procedures and runbooks related to Field Security
 * Identify opportunities for Field Security process automation
 * Maintain Field Security automation tasks
+* Maintain field security related educational materials and support security evangelism
+* Identify new or increased customer security concerns
 
 #### Field Security Engineer (Intermediate) Requirements
 * At least 2 years of experience conducting customer assurance activities
@@ -55,6 +57,8 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Execute peer reviews and provide meaningful feedback 
 * Design requirements for Field Security automation tasks
 * Recommend new Field Security metrics and automate reporting of existing metrics
+* Mature field security related educational program
+* Monitor and report on new or increased customer security concerns
 
 #### Senior Field Security Engineer Requirements
 * Ability to use GitLab
@@ -70,7 +74,7 @@ The Staff Field Security Engineer is a [8](/handbook/total-rewards/compensation/
 
 #### Staff Field Security Engineer Responsibilities
 * Extends the Senior Field Security Engineer responsibilities
-* Proficient knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape design decisions for the sake of security compliance efficiencies
+* Maintain proficient knowledge of GitLab's product, environment, systems and architecture while mentoring others on this knowledge and helping to shape design decisions for the sake of security compliance efficiencies
 * Mentor other Field Security Engineers and improve quality and quantity of the team's output
 * Design and implement major iterations of Field Security programs in alignment with industry trends, predictions and customer demands
 * Participate in Field Security roadmap development based on customer needs
