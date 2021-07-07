@@ -20,11 +20,11 @@ title: "Data Infrastructure"
 
 ## System Diagram
 
-![system_diagram](https://app.lucidchart.com/publicSegments/view/6a9f6d5d-e612-45ff-81df-644a1e2e5141/image.png)
+![system_diagram](https://lucid.app/publicSegments/view/1281db63-792f-4ae3-9e95-366cbec7beb1/image.png)
 
 ### Editing the System Diagram
 
-To edit the system diagram, go to the [Lucidchart document](https://app.lucidchart.com/documents/edit/2555839a-a0aa-4955-908f-976417f381e4) and make the desired changes.  If the changes are contained in the red box, the changes should be automatically reflected in GitLab.  If the viewing area needs to be changed, then a new link will need to be generated using the [Lucidchart documentation to publish](https://lucidchart.zendesk.com/hc/en-us/articles/207300196-Publish-Your-Document), and an MR made to update the link used above to pull in the image.
+To edit the system diagram, go to the [Lucidchart document](https://lucid.app/lucidchart/4c787916-ccf2-43f5-963a-2e4adb222019/edit) and make the desired changes.  If the changes are contained in the red box, the changes should be automatically reflected in GitLab.  If the viewing area needs to be changed, then a new link will need to be generated using the [Lucidchart documentation to publish](https://lucidchart.zendesk.com/hc/en-us/articles/207300196-Publish-Your-Document), and an MR made to update the link used above to pull in the image.
 
 ## Airflow
 
