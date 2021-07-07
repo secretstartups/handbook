@@ -90,17 +90,17 @@ Tasks become smartcards in GitLab Learn.
 - Select the option to edit the pathway and from there create the smartcards.
 - Any smartcard type can be used.
 - Quizzes are optional but recommended. Depending on how long the training can be, we can have one per section or one halfway through and one in the end.
-- Make sure to set the smarcard as locked, so any smartcard will requiere the previous one to be completed.
-- Be creative, GitLab Learn offer different smartcard types and also gives room for other tools by allowing `iframes with html`.
+- Make sure to set the smartcard as locked, so any smartcard will require the previous one to be completed.
+- Be creative! GitLab Learn offers different smartcard types and also gives room for other tools by allowing `iframes with html`.
 
  
 ### Step 4 - Test Run
 
-As a collaborator or author the pathway cannot be fully tested, for this step we will requiere volunteers to help us test our pathway.
+As a collaborator or author, the pathway cannot be fully tested. For this step, we will require volunteers to help us test our pathway.
 
 - Maintain the Pathway private and publish it.
 - Add the `reviewers` in the `Share` field for the pathway.
-- Share the patheay URL with the `reviewers`.
+- Share the pathway URL with the `reviewers`.
 
 #### What does success looks like ?
 
@@ -116,7 +116,7 @@ As a collaborator or author the pathway cannot be fully tested, for this step we
 
 ## Considerations
 
-- Collaboration in GitLab learn won't be as flexible as in GitLab and will depend on `Evangelists` or `Curators` for final updates.
-- The handbook is the SSOT, for that reason any change on the training must start in its handbook page.
+- Collaboration in GitLab Learn won't be as flexible as in GitLab, and will depend on `Evangelists` or `Curators` for final updates.
+- The handbook is the single source of truth (SSOT). For this reason, any change to the training must start in its handbook page.
 - A pathway author will be considered is DRI, and must ensure important updates in the training must be present in GitLab Learn as soon as possible.
 
