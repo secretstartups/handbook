@@ -171,7 +171,7 @@ The Production Manager reports to Manager, Corporate Events and Branding.
  
 ### Manager, Corporate Events
  
-The Manager, Corporate Events reports to Senior Director, Corporate Marketing.
+The Manager, Corporate Events reports to VP, Corporate Marketing.
  
 #### Manager, Corporate Events Job Grade
  
@@ -201,7 +201,7 @@ The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensatio
  
 ### Senior Manager, Corporate Events 
 
-The Senior Manager, Corporate Events reports to Senior Director, Corporate Marketing.
+The Senior Manager, Corporate Events reports to VP, Corporate Marketing.
 
 #### Senior Manager, Corporate Events Job Grade
 
