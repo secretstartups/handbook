@@ -36,7 +36,29 @@ Coupa is available via Okta. To access the platform:
 1. Click on the Coupa (Prod) button.
    - A new tab should open with your user logged in.
 
-> If your job function requires you to submit purchase requests, please submit an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Coupa.
+Please note that every month all Coupa access will be reviewed and users who haven't been active in a period of 90 days will have their access removed. _(Note that this number may vary depending on the license count for the current month)_   
+If you need to request access again, please reopen your initial Access Request issue and tag the Finance Systems Admins team using `@gitlab-com/business-technology/enterprise-apps/financeops` in a comment.
+{: .alert .alert-warning}
+
+If your job function requires you to submit purchase requests in Coupa, follow the below steps:
+1. Open an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new) for Coupa using the `Individual_Bulk_Access_Request` template.
+1. In Step 2, in the _Justification for this access_ question, please describe:
+   - What you need to buy.
+   - What is the total cost of the purchase. 
+   - How often you will need to purchase it.
+   - When does it need to be submitted in Coupa.
+1. Add the labels ~"FinSys - Coupa" and ~"FinSys::Service Desk".
+
+<div class="panel panel-success">
+**Best Practices**
+{: .panel-heading}
+<div class="panel-body">
+
+Due to the limited number of licenses available for Coupa, it is recommended that each department identify power users responsible for creating purchase requests on the team’s behalf.
+
+
+</div>
+</div>
 
 ## How to use Coupa
 
@@ -453,11 +475,12 @@ All Coupa related videos can be found in our ["Coupa" playlist](https://www.yout
 
 ### GitLab Internal Escalation Process
 
-During the hypercare period (May 21st - June 25th, 2021) the Finance System Admins will be the first point of contact if users encounter any issues or have any system-related questions.
+For any Coupa requests, [open an issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the `Coupa Request` template.
 
-#### How can I contact the Finance System Admins?
+If your request involves a change to the current business process, either the Procurement and/or Accounts Payable Team will have to approve it depending on the type of request.  
+{: .alert .alert-info}
 
-If you have any technical issues, send a message to _#coupa_help_ slack channel with your question and add the `@here` tag to be picked up by the appropriate team member.
+If you have an urgent issue, send a message to the _#coupa_help_ slack channel explaining what you need. The Enterprise Apps team will help determine what is the best process to solve the request.
 
 
 {::options parse_block_html="false" /}
