@@ -23,4 +23,4 @@ Solution Architects have various practices:
 
 [Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias)
 
-
+[Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments)
