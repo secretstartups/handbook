@@ -63,7 +63,7 @@ The key elements to consider in GitLab Learn are:
 
 ### Step 2 - Create an issue with L&D team for the new pathway
 
-- [Create an issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) with L&D team  using the new pathway template.
+- [Create an issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) with the L&D team using the new pathway template.
 
 ### Step 3 - Create your Pathway
 
