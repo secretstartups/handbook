@@ -586,7 +586,7 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. If the course is entirely new content, or a significant fraction of the material is being updated or added, consider creating a new course and either leaving the original version or deprecating it in the system by removing all sharing settings and marking it as `Private`
 1. After adding content, include the following line in the Pathway or Journey description
 
-`As of [XXXX-XX-XX], this [Pathway/Journey] has new material! Please review any SmartCards that are not marked as Complete to earn 100% completion. Any badges earned from this course previously will not be changed or removed`
+`As of [YYYY-MM-DD], this [Pathway/Journey] has new material! Please review any SmartCards that are not marked as Complete to earn 100% completion. Any badges earned from this course previously will not be changed or removed`
 
 1. If you need to edit an existing quiz in a Pathway or Journey [ADD HERE]
 
