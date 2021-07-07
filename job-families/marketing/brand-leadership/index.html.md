@@ -38,8 +38,10 @@ The Director, Brand is a [grade 10](/handbook/total-rewards/compensation/compens
 
 ## Performance Indicators
 
-* 
- 
+* Sets brand goals and objectives for the organization. 
+* Increases overall brand awareness through various channels and campaigns. 
+* Builds and recruits a world-class brand team.
+
 ## Career Ladder
 
 * The next step in the Brand Leadership job family is not yet defined at GitLab.
