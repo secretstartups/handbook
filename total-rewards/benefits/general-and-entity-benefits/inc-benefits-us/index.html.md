@@ -420,21 +420,23 @@ For active employees: Up to 180 days after plan year has concluded (also known a
 
 For terminated employees: Up to 90 days after the termination date.
 
-### Cigna Supplemental Life/AD&D 
+### Cigna Supplemental Life Insurance/AD&D
 
 Team members who wish to elect additional life insurance above what is provided by GitLab through the Basic Life Insurance or elect life insurance for their dependents, can elect [Voluntary Life Insurance](https://drive.google.com/file/d/1yY1tFJTuj1wCMlorUvnfcgWwZUuP279r/view?usp=sharing) through Cigna.
+
    * $10,000 Increments up to the lesser of 6x annual salary or $750,000 for team members
    * $5,000 Increments up to the lesser of $250,000 or 100% of team member election for spouses and domestic partners
    * $10,000 of coverage available for children
 
 ##### Evidence of Insurability
 
-If you elect greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process. 
+If you elect supplemental life insurance greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process. 
 
 Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field and for security, you may also leave the Social Security Number field blank. 
 
 Once complete, please send the form to `total-rewards@ domain` and `support@lumity.com`. Lumity and the Total Rewards team will then help fill in any missing information, if applicable, and Lumity will forward to the carrier for review. Lumity will confirm receipt of the EOI with the carrier, track its status, and reach out to the team member with any issues that need to be addressed in order for the EOI to be approved.
 
+If you leave GitLab, all supplemental life insurance is not included in COBRA and will terminate on your last day at GitLab unless you choose to continue your or your spouse/children's life insurance directly with the carrier. Please contact the carrier (Cigna) for more information on premiums and setting this up. 
 
 ## Team Member Discount Platforms
 
