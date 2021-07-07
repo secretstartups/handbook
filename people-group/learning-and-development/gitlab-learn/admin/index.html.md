@@ -545,11 +545,11 @@ Edits that you'd like to made related to the arrangement of content in the LXP w
 
 #### Editing Pathways and Journeys after users have completed the Pathway or Journey
 
-It's natural to have new and updated information that needs to be added to Pathways and Journeys in EdCast. The following section outlines how to make and communicate updates to existing content after at least 1 user has completed the Pathway or Journey. It also outlines the limitations of the tool and best practices for editing Pathways.
+The following section outlines the behavior/user experience when accessing edited content, how to make edits to existing Pathways and Journeys, and the limitations this editing process.
 
 ##### Limitations
 
-- Quizzes that have been completed by users cannot be edited
+- Quizzes that have been completed by users cannot be edited.
 - Administrators cannot see quizzes once they have been completed
 
 ##### Behavior of editing Pathways and Journeys
@@ -587,6 +587,8 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. After adding content, include the following line in the Pathway or Journey description
 
 `As of [XXXX-XX-XX], this [Pathway/Journey] has new material! Please review any SmartCards that are not marked as Complete to earn 100% completion. Any badges earned from this course previously will not be changed or removed`
+
+1. If you need to edit an existing quiz in a Pathway or Journey [ADD HERE]
 
 
 ### Channels
