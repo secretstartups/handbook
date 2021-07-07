@@ -20,7 +20,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Flexible with late evening calls for Asia or Australia - check with him first.
 * Add pre-emptive blocks in calendar that can be used for meetings or calls.
 * Schedule three 30 minute blocks a day for work time - title “workflow”. This is time for email follow-up and general work time. If the time has to move to accommodate another meeting ensure another time is found and that it can still happen.
-* For First Order Sourced Thank You Note Requests please make a copy of this [this template](https://docs.google.com/document/d/1qSXJdIob4UfehazHt--jmhDNirl6F5qg4FuJcDfdrNs/edit), fill out and submit to Cheri Holmes and Katie Gammon.
+* For First Order Sourced Thank You Note Requests, please make a copy of this [this template](https://docs.google.com/document/d/1qSXJdIob4UfehazHt--jmhDNirl6F5qg4FuJcDfdrNs/edit), fill out, and submit to Cheri Holmes and Katie Gammon.
 
 
 ## Scheduling for Brian Robins, Chief Financial Officer
