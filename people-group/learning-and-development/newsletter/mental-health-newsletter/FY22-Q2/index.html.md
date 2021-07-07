@@ -7,12 +7,12 @@ title: FY22-Q2 L&D Mental Health Newsletter
 
 Hello, GitLab Team! Welcome to 3rd edition of the GitLab Mental Health newsletter! If you're interested in learning more about the intentions of this newsletter, check out our [goals](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#long-term-goals) listed in the handbook.
 
-And, if this is your first time reading the Mental health newsletter, be sure to check out [past editions](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#past-newsletters) for great information about team member resources to prevent burnout and support your mental wellbeing.
+And, if this is your first time reading the Mental Health Newsletter, be sure to check out [past editions](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#past-newsletters) for great information about team member resources to prevent burnout and support your mental wellbeing.
 
 
 ## Leadership feature 
 
-Did you know that L&D hosts a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) with Sid on a weekly basis? During these calls, we invite team members to join us for a small-group conversation that dives deep into a specific topic in our leadership handbook, or topics that are relevant to team member success. 
+Did you know that L&D hosts a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) with Sid on a weekly basis? During these calls, we invite team members to join small-group conversations that dive deep into specific topics in our leadership handbook, or topics that are relevant to team member success. 
 
 During a recent session, the L&D team and other mental health advocates at GitLab talked to Sid about his experience with taking time off, managing burnout, and addressing imposter syndrome. Check out the meeting recording below or on the [mental health handbook page](/company/culture/all-remote/mental-health/#introduction).
 
@@ -43,13 +43,13 @@ If you have a suggestion for, or a connection to, a speaker you'd like to see co
 
 ## GitLab Resource Feature
 
-[Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/#what-does-modern-health-offer) includes multiple benefits for team members. Here's a screenshot of the handbook from 2021-07-01 to highlight the current offerings:
+[Modern Health](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/#what-does-modern-health-offer) includes multiple benefits for team members. Here's a screenshot of the handbook from 2021-07-07 to highlight the current offerings:
 
-![modern-health-handbook](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/modern-health.png)
+![modern-health.png](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/modern-health.png)
 
 We're using this newsletter to highlight [Modern Health Circles](https://circles.modernhealth.com/). Circles are live community sessions designed to help you proactively improve your mental health. 
 
-**Access to circles is unlimited!** So, take a second and check out their current circles to see what might feel like a good fit for your needs and interests. If you'd like, consider asking a colleage to attend a Circle with you, or sharing in your team Slack channel which Circles you might attend!
+**Access to circles is unlimited!** So, take a second and check out their current circles to see what might feel like a good fit for your needs and interests. If you'd like, consider asking a colleague to attend a Circle with you, or sharing in your team Slack channel which Circles you might attend!
 
 ### Featured Modern Health Circles (as of 20201-07-01)
 
@@ -70,7 +70,7 @@ In May 2021, the University of Michigan hosted a crucial conversation about ment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8SOfJZ6tjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Having open, safe conversations like this can be challenging and nerve wracking. Stigmas around mental health make it hard to bring up with our managers, colleages, friends, and family. Equipping yourself with tools and strategies to have effective and safe crucial conversations can improve the discussions we have at GitLab about mental health and team member wellbing.
+Having open, safe conversations like this can be challenging and nerve wracking. Stigmas around mental health make it hard to bring up with our managers, colleagues, friends, and family. Equipping yourself with tools and strategies to have effective and safe crucial conversations can improve the discussions we have at GitLab about mental health and team member wellbeing.
 
 The L&D team is certified to deliver the [Crucial Conversations](https://www.vitalsmarts.com/crucial-conversations-training/) training for interested team members. Read more about the program in this [crucial conversations blog post](https://about.gitlab.com/blog/2021/02/18/crucial-conversations/). If you're interested in the training, we encourage you to [fill out the interest form](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training) to participate in the next internal training.
 
