@@ -334,21 +334,6 @@ Agree in writing on measurable goals. Within the company we use [public OKRs](/c
 {:.no_toc}
 You don't always get results and this will lead to criticism from yourself and/or others. We believe our talents can be developed through hard work, targeted training, learning from others, on-the-job experience, and receiving input from others. It is in our DNA as a company and individuals to look for opportunity, stay humble, and never settle. We try to hire people based on [their trajectory, not their pedigree](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means). We also strive to foster a culture of curiosity and continuous learning where team members are provided and proactively seek out opportunities to grow themselves and their careers.
 
-##### Disagree, commit, and disagree
-{:.no_toc}
-Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
-Every decision can be changed;
-our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
-In a manager-report circumstance, usually the report is the DRI.
-The manager may disagree with the final decision, but they still commit to the decision of the DRI.
-
-In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
-Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
-
-When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](/handbook/values/#assume-positive-intent).
-You have to achieve results on every decision while it stands, even when you are trying to have it changed.
-You should communicate with the [DRI](/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
-
 ##### Global optimization
 {:.no_toc}
 This name comes from the [quick guide to Stripe's culture](https://stripe.com/us/jobs/candidate-info?a=1#culture). Our definition of global optimization is that you do what is best for the organization as a whole. Don't optimize for the goals of your team when it negatively impacts the goals of other teams, our users, and/or the company. Those goals are also your problem and your job. Keep your team as lean as possible, and help other teams achieve their goals.
@@ -378,6 +363,21 @@ We value the ability to maintain focus and motivation when work is tough and ask
 ##### Bias for action
 {:.no_toc}
 It's important that we keep our focus on action, and don't fall into the trap of analysis paralysis or sticking to a slow, quiet path without risk. Decisions should be thoughtful, but delivering fast results requires the fearless acceptance of occasionally making mistakes; our bias for action also allows us to course correct quickly. Everyone will make mistakes, but it's the relative number of mistakes against all decisions made (i.e. percentage of mistakes), and the swift correction or resolution of that mistake, which is important. A key to success with transparency is to always combine an observation with questions to ensure understanding and suggestions for solutions / improvement to the group that can take action.  We don't take the easy path of general complaints without including and supporting the groups that can affect change. Success with transparency almost always requires effective [collaboration](#collaboration).
+
+##### Disagree, commit, and disagree
+{:.no_toc}
+Everything can be questioned, but as long as a decision is in place, we expect people to commit to executing it. Any past decisions and guidelines are open to questioning as long as you act in accordance with them until they are changed. This is [a common principle](https://ryanestis.com/leadership/disagree-and-commit-to-get-things-done/).
+Every decision can be changed;
+our [best decision was one that changed an earlier one](https://youtu.be/4BIsON95fl8?t=2034).
+In a manager-report circumstance, usually the report is the DRI.
+The manager may disagree with the final decision, but they still commit to the decision of the DRI.
+
+In a group setting, participants may disagree with a proposal but not articulate their views for one reason or another. As a result, everyone loses out on their feedback. [Dissent](https://en.wikipedia.org/wiki/Dissent) is expression of that disagreement. However, it can be difficult and even socially expensive.
+Expression of feedback is a way for everyone to grow and learn, and is [based on facts rather than opinions](https://hbr.org/tip/2018/04/good-feedback-is-based-on-facts-not-your-opinion). Share your perspective, rather than agreeing simply to avoid conflict or to go along with everyone else.
+
+When you want to reopen the conversation on something, show that your argument is informed by previous conversations and [assume the decision was made with the best intent](/handbook/values/#assume-positive-intent).
+You have to achieve results on every decision while it stands, even when you are trying to have it changed.
+You should communicate with the [DRI](/handbook/people-group/directly-responsible-individuals/) who can change the decision instead of someone who can't.
 
 ##### Accepting uncertainty
 {:.no_toc}
