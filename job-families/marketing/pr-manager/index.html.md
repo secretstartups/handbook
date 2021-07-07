@@ -145,7 +145,7 @@ The GitLab Manager, Public Relations  will lead a team of PR managers to build G
 - Responsible for ideation of public relations activities for product, security and partner/channel, OKRs, and reporting on results.
 
 #### Requirements
-- 12+ years experience in public relations and/or marketing communications
+- 10+ years experience in public relations and/or marketing communications
 - Strong media relations skills and a passion for PR.
 - A natural storyteller with excellent writing skills.
 - Able to coordinate across many teams and perform in a fast-moving environment.
@@ -154,11 +154,22 @@ The GitLab Manager, Public Relations  will lead a team of PR managers to build G
 - Share GitLab values, and work in accordance with those values.
 - Highly organized, detail-oriented and able to meet deadlines consistently.
 - Experience managing PR agencies and driving results.
-- Experience managing a team of public relations professionals.
-- Experience running public relations/communications efforts at an enterprise technology company.
 - A proven track record of successful PR campaigns
 - Ability to independently manage projects from start to finish.
 - Strong ability to use GitLab.
+
+### Senior Manger, Public Relations
+
+#### Job Grade 
+
+The Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Requirements
+- 12+ years experience in public relations and/or marketing communications
+- Experience managing a team of public relations professionals.
+- Experience running public relations/communications efforts at an enterprise technology company.
+- Ability to create quarterly and yearly PR plans.
+- Ability to think cross-functionally when setting team's OKRs and campaigns.
 
 ## Career Ladder
 
