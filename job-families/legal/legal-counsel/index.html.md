@@ -23,6 +23,7 @@ The Legal Counsel is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Review, draft and negotiate agreements
 * Build the necessary processes, systems, and documentation to improve legal department processes and resources
  
+ 
  #### Legal Counsel (Intermediate) Requirements
 
 * 3 - 5 years' legal experience, preferably in a multinational company
