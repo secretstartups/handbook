@@ -71,7 +71,7 @@ A Training module becomes a pathway in GitLab learn.
 
 - Create your pathway 
 
-    The pathway is similar to the issue used  on Training Modules
+    The pathway is similar to the issue used on Training Modules.
 
 - Define collaborators
 
