@@ -58,7 +58,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace. This will require an SE with Console access. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users where a `GitLab.com Console Escalation` can be opened instead.
+For sales assisted trials, only we can override the credit card validation requirement for a namespace. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users. These requests require console access. 
 
 ## GitLab.com Trial Change Request
 
