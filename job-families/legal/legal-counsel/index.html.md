@@ -5,17 +5,17 @@ title: Legal Counsel
  
 The Legal Counsel job family is responsible for advising clients across GitLab on legal matters related to their functional area of expertise.
  
-## Levels
+# Levels
  
-### Legal Counsel (Intermediate)
+## Legal Counsel (Intermediate)
  
 The Legal Counsel (Intermediate) reports to the [Director, Legal](/job-families/legal/director-legal-us/).
  
-#### Legal Counsel (Intermediate) Job Grade
+### Legal Counsel (Intermediate) Job Grade
 
 The Legal Counsel is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
  
-#### Legal Counsel (Intermediate) Responsibilities
+### Legal Counsel (Intermediate) Responsibilities
 
 * Partner with team members and stakeholders across GitLab to provide pragmatic advice to minimize legal risks while advancing the goals of the business
 * Advise on, draft, maintain and review templates and policies
@@ -24,7 +24,7 @@ The Legal Counsel is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Build the necessary processes, systems, and documentation to improve legal department processes and resources
  
  
- #### Legal Counsel (Intermediate) Requirements
+ ### Legal Counsel (Intermediate) Requirements
 
 * 3 - 5 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
@@ -39,7 +39,7 @@ The Legal Counsel is a [grade 6](/handbook/total-rewards/compensation/compensati
  
 ## Specialties
 
-#### Product and Privacy
+### Product and Privacy
 
 The Legal Counsel, Product and Privacy collaborates with clients across GitLab on a broad range of matters including IP, product, marketing and privacy.  In addition to the general Responsibilities and and Requirements above, this role specifically requires:
 * Experience providing counseling to product and engineering teams on products and features throughout the development lifecycle, and identifying legal issues
@@ -50,7 +50,7 @@ The Legal Counsel, Product and Privacy collaborates with clients across GitLab o
 * Basic knowledge of DMCA and Law Enforcement requirements
 * Experience working in a SaaS and self-hosted software company
 
-#### Employment - EMEA
+### Employment - EMEA
 
 The Legal Counsel, Employment - EMEA collaborates with clients across GitLab on a broad range of matters across the entire arc of the employment relationship, from recruiting to onboarding, compensation, performance management, leave management, separation, and, where necessary, litigation. In addition to the general Responsibilities and Requirements above, this role specifically requires:
 * Experience providing counseling to people business partners and team member relations teammates regarding team member relations concerns.
@@ -61,19 +61,39 @@ The Legal Counsel, Employment - EMEA collaborates with clients across GitLab on 
 * Experience managing employment litigation, appeals tribunals, agency investigations, and/or negotiating separation agreements.
 * Ability to provide support, including issue spotting and managing outside counsel, in regions outside of EMEA, on an as-needed basis.
 
-### Performance Indicators
+### Commercial
+
+The Legal Counsel, Commercial reports directly to the Director of Legal, Commercial and collaborates with external and internal clients across GitLab on a broad range of matters related to commercial contracting including the negotiation and review of complex contracts, review of regional specific legal requirements to drive templates and process, and act as a trusted advisor to internal clients. In addition to the general Responsibilities and Requirements above, this role specifically requires the ability to:
+* Draft and negotiate a wide range of contracts including partnership, services, consulting, marketing, licensing, data privacy, and other commercial and technology related agreements
+* Engage on top priority and complex Agreements tied to large value and material transactions
+* Review regional specific legal requirements, including with outside counsel, for terms and policy creation and enforcement
+* Create and present training materials for both Contract Managers and Sales Team Members
+* Understand GitLab and GitLab products in order to identify risks, develop solutions, mitigation and negotiation strategies
+* Add information and feedback to playbooks and other supporting documentation to support the development of other legal team members
+* Become a trusted advisor to the Sales Team Members and Leadership across multiple functions
+* Work closely with members of the Legal team to develop and improve applicable standardized forms, processes, and procedures
+* Perform risk analysis review for all contractual documents and recommend mitigating options
+
+
+## Performance Indicators
  
-#### Legal Counsel (Privacy and Product)
+### Legal Counsel (Privacy and Product)
 
 * Legal oversight of product development and understanding of the GitLab products and features 
 * Development of standard processes, trainings and practices for marketing issues
 * Effective Open Source License management and counseling
 
-#### Legal Counsel (Employment - EMEA)
+### Legal Counsel (Employment - EMEA)
 
 * Legal oversight of employment compliance and understanding of the applicable employment solutions in place across jurisdictions.
 * Development of standard policies, processes, trainings and practices for employment issues.
 * Strategic business partner for People Success group.
+
+### Legal Counsel (Commercial)
+
+* Engage in creation of applicable internal SLAs and drive efficiency to meet such standards
+* Development of terms and conditions which align with industry and regional standards to assist in scaling the business and improving sale cycle metrics
+* Assist leadership in the development, implementation and successful achievement of Quarterly [OKRs](https://about.gitlab.com/company/okrs/)
  
 ## Career Ladder
  
