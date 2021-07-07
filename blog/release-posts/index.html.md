@@ -48,6 +48,8 @@ _The sections below also link to these templates, but they're provided here for 
 
 Monthly releases are blog posts with an exclusive layout aiming to apprise the reader of the changes, new features, and other considerations for the new release that comes out on the 22nd of every month. They follow a process that involves collaboration across many different roles, and each persona's responsibilities are outlined on this page.
 
+Note: Unless specifically noted otherwise, for all due dates below the exact cutoff time is the end of the day at 11:59 PM in Pacific Time.
+
 At a high level, the process is:
 
 | Date | Step |
