@@ -12,7 +12,7 @@ description: How to transition a support training module to  GitLab Learn
 
 # Support Training Module to GitLab Learn
 
-This document covers the process for transitioning an existing GitLab Support training to GitLab Learn.
+This document covers the process for transitioning existing [GitLab Support training modules](https://gitlab.com/gitlab-com/support/support-training/) to [GitLab Learn](https://gitlab.edcast.com/).
 
 ## Requisites
 
@@ -45,7 +45,7 @@ graph TD;
 
 ### Step 0 - The Handbook Page
 
-Every training requieres its content to be in the handbook, the only exception is trainings with `internal use` only content.
+Every training requires its content to be in the handbook; the only exception are trainings with `internal use` only content.
 
 ### Step 1 - Define transition goals
 
