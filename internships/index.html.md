@@ -73,7 +73,7 @@ The intern can choose to relocate themselves to a region where there happens to 
 ### Internship day-to-day activities
 Below and example of a 4 month internship program: 
 1. Week 1: We expect an intern will:
-    - Have completed key [Day 1-5 onboarding tasks](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
+    - Have completed key [Day 1-5 onboarding tasks](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
     - Understand remote work and communication best practices
     - Set up their development environment
     - Work with their mentor to understand the development workflow and submit a small MR
