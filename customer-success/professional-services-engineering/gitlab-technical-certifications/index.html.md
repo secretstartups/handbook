@@ -25,8 +25,13 @@ GitLab is planning and developing several technical certifications to help the G
 There are three levels of GitLab Technical Certification.
 
 1. Associate
+    * GitLab Certified Associate
 2. Specialist
+    * GitLab Certified Specialist: CI/CD
+    * GitLab Certified Specialist: Project Management
+    * GitLab Certified Specialist: Security
 3. Professional
+    * GitLab Certified DevOps Professional certification
 
 The Associate level is a prerequisite for the Specialist level, and the Specialist level is a prerequisite for the Professional level.
 
