@@ -34,12 +34,11 @@ team, as well.
 
 ## Working With Us
 
-The Product Analysis group works on a 2-week milestone cadence, which dictates how and when we 
-plan and prioritize work. Milestones start on Wednesdays and end on Tuesdays. We follow the 
-[Data team's milestone schedule](/handbook/business-technology/data-team/how-we-work/planning/#milestone-planning) 
-and, as such, 1 milestone per quarter will be 3 weeks long. 
+The Product Analysis group works in two-week iterations, which dictate how and when we 
+plan and prioritize work. Iterations start on Mondays and end on Sundays (Fridays are the 
+final working day).
 
-You can see our current milestone [here](https://gitlab.com/gitlab-data/analytics/-/boards/2329061?scope=all&label_name[]=product%20analysis&milestone_title=%23started).
+You can see our current iteration [here](https://gitlab.com/gitlab-data/analytics/-/boards/2329061?scope=all&label_name[]=product%20analysis&iteration_id=Current).
 
 ### Issue Intake
 
@@ -61,9 +60,9 @@ to triage and begin work on the issue.
 
 #### Submission Deadline
 
-In order to be considered for the upcoming milestone, please open all issues by EOD Monday before 
-the next milestone begins. We understand that urgent matters come up, but please try to adhere to 
-the submission deadline for any planned work. 
+In order to be considered for the upcoming iteration, please open all issues by EOD Wednesday 
+before the next iteration begins. We understand that urgent matters come up, but please try to 
+adhere to the submission deadline for any planned work. 
 
 #### Relative Priority
 
@@ -71,11 +70,11 @@ Please indicate the relative priority of the new issue compared to any other iss
 in the backlog (if applicable). In general, the issues that are more immediately actionable and 
 impactful to the [company KPIs](/company/kpis/) should be higher in priority.
 
-### Milestone Planning
+### Iteration Planning
 
-Final commitment and prioritization will occur during the milestone planning meeting, which 
-takes places the Thursday before a milestone begins. The team will consider new and existing 
-issues, along with issues in progress. When selecting issues for the next milestone, the team 
+Final commitment and prioritization will occur during the iteration planning meeting, which 
+takes places the Thursday before an iteration begins. The team will consider new and existing 
+issues, along with issues in progress. When selecting issues for the next iteration, the team 
 considers the following:
 
 * Issue priority
@@ -103,10 +102,10 @@ Most issues will fall under `pa-priority::2` and `pa-priority::3`.
 #### Issue Weight
 
 Each issue is assigned a weight based on estimated time commitment. If a partially-completed 
-issue rolls over from one milestone to another, the weight will be adjusted to reflect the time 
+issue rolls over from one iteration to another, the weight will be adjusted to reflect the time 
 commitment of the outstanding work.
 
-If a single issue has a weight greater than the length of the milestone (2 weeks), it should be 
+If a single issue has a weight greater than the length of the iteration (2 weeks), it should be 
 broken into smaller units of work. (This could also be an indicator that the issue should be 
 converted to an epic).
 
@@ -124,22 +123,22 @@ converted to an epic).
 #### Velocity
 
 Product Analysis defines velocity as the amount of work (measured in issue weight) completed by the 
-team within a given milestone. While we recognize that this is an imperfect measurement 
+team within a given iteration. While we recognize that this is an imperfect measurement 
 (partially-completed issues and [undocumented work](/handbook/product/product-analysis/#undocumented-requests) 
 are not accounted for), it is a rough gauge of team output.
 
-We aim to only commit to work we believe can be completed within the 2 week milestone. As such, we will 
-commit to _less than_ our recent velocity and leave a buffer to account for urgent issues and 
-interruptions. To start, each analyst will leave a buffer of ~2 days worth of work (an estimate based on 
-the recent volume of unplanned work). High-priority issues exceeding the allotted buffer will have 
-a material impact on our ability to complete planned work, so please plan ahead if you know that 
-you will need assistance from the Product Analysis team.
+We aim to only commit to work we believe can be completed within the 2-week iteration. As such, 
+we will commit to _less than_ our recent velocity and leave a buffer to account for urgent issues 
+and interruptions. To start, each analyst will leave a buffer of ~2 days worth of work (an 
+estimate based on the recent volume of unplanned work). High-priority issues exceeding the 
+allotted buffer will have a material impact on our ability to complete planned work, so please 
+plan ahead if you know that you will need assistance from the Product Analysis team.
 
 #### Working Days
 
 As GitLab team members, we are [encouraged to take PTO](/handbook/paid-time-off/) and observe public 
 holidays in order to maintain a healthy work-life balance. Analyst capacity should be adjusted 
-based on the number of days they are working in the milestone.
+based on the number of days they are working in the iteration.
 
 ### Urgent Issues
 
@@ -162,7 +161,7 @@ Please keep the following in mind when working with the Product Analysis team:
 [Scope creep](https://en.wikipedia.org/wiki/Scope_creep) is a problem everyone faces. Please keep 
 in mind that [team capacity](/handbook/product/product-analysis/#capacity) is a zero-sum game, 
 so scope creep in one issue can mean that we are unable to complete other work planned for 
-that milestone.
+that iteration.
 
 Additional scope (change in requirements, additional follow-ups, etc) that adds a material amount 
 of work* to an issue will need to be captured as net-new work in a new issue. The new issue will 
@@ -176,9 +175,9 @@ _*The threshold for a "material amount of work" is to be determined by the analy
 
 If an issue is blocked and it requires additional work* to diagnose or troubleshoot 
 (ex: a data issue is uncovered), a new issue should be opened, assigned a weight and priority, 
-and linked to the original blocked issue. The new issue can be added to the current milestone 
+and linked to the original blocked issue. The new issue can be added to the current iteration 
 without going through the formal planning process at the analyst's discretion, but this can 
-impact our ability to complete all issues in the milestone.
+impact our ability to complete all issues in the iteration.
 
 _*The threshold for "additional work" is to be determined by the analyst working on the issue._
 
