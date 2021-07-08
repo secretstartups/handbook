@@ -9,7 +9,7 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program
 
 The Women at GitLab Mentorship program is a career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
 
-The Women at GitLab Mentorship Program will begin in 2021-07. Applications for both mentors and mentees will be colleted in 2021-05 and 2021-06. The program will run for 3 months, from 2021-07 to 2021-09. Please see the timeline section on this page for further details.
+The Women at GitLab Mentorship Program was kicked off on 2021-07-08. In the program, we have 32 mentor/mentee pairs. Participants represent 16+ departments across GitLab. The program will run for 3 months, from 2021-07 to 2021-09. Please see the [Timeline](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#timeline) and [Metrics and Outcomes](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#metrics-and-outcomes) sections on this page for further details and program results.
 
 ### History
 
@@ -21,7 +21,18 @@ Some of the program structure for this iteration has been adapted to enable grea
 
 **Initial program kickoff**
 
-All mentors and mentees will gather for a live program kickoff to recap program goals, answer questions, address concerns, and network. We'll host multiple sessions of this kickoff to accommodate workings hours of all participants. The session will run between 30 and 45 minutes.
+All mentors and mentees will gather for a live program kickoff. This will be a panle format with a short discussion about panelists past experience with mentorship and provide an opportunity for team members to ask program questions. We'll host 3 sessions of this kickoff to accommodate workings hours of all participants. The session will run for 25 minutes.
+
+Watch the replay of our 3 kick-off sessions below:
+
+**Session 1:**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cuRT7nUU10Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Session 2:**
+
+**Session 3:**
+
 
 **1:1 Mentor Sessions**
 
@@ -29,7 +40,7 @@ The program proposes a mentor/mentee relationship between selected mentee applic
 
 **Mentor/Mentee Workbook**
 
-[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) will be provided as a training guide for all mentor/mentee pairs. This workbook will include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. While it's not required that these workbooks guide the relationship, they will be a useful resource when mentors or mentees feel stuck or need a starting place for discussion.
+[Async resources](/handbook/people-group/learning-and-development/mentor/#mentoring-resources) have been created to serve as a training guide for all mentor/mentee pairs. These resources include suggested articles to read and discuss, strategies for goal setting, sample meeting agendas, and additional training material. While it's not required that these resources guide the relationship, they are useful if mentors or mentees feel stuck or need a starting place for discussion.
 
 **Mentor/Mentee Training**
 
@@ -58,7 +69,7 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | 2021-06-07 - 2021-06-23 | Call for Mentees | Application below |
 | 2021-06-29 | Pairing of mentor relationships complete and communicated to applicants | |
 | Between 2021-06-29 and 2021-07-07 | Optional: Mentor/Mentee pre-program coffee chats | |
-| 2021-07-07 and 2021-07-08 | Initial program Kickoff meeting | |
+| 2021-07-07 and 2021-07-08 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) | |
 | Week of 2021-07-12 | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) |
 | Week of 2021-08-16 | Mid program AMA | Date TBD |
 | Week of 2021-09-20 | End of program celebration | Date TBD |
@@ -146,6 +157,34 @@ Success of this program will be measured by:
 1. attendance to live training sessions, with a goal of 95% attendance
 1. engagement during live training sessions
 1. overall feedback of the program from both the mentor and mentee perspective
+
+#### Results
+
+The following section will be updated throughout the program to reflect participations and metrics outlined above.
+
+##### Metrics
+
+1. Current Participation: 64 team members / 32 mentor/mentee pairs
+1. Departments Represented by Mentees:
+1. Departments Represented by Mentors:
+1. Number Participants in Kickoff Sessions: Total attendance by program participants = XX%
+    1. Session 1: 7
+    1. Session 2:
+    1. Session 3:
+
+#### Feedback Trends 
+
+##### Pre-Program Survey:
+
+TBD, Currently compiling trends
+
+##### Mid-Program Survey:
+
+TBD, Shared during the week of 2021-08-16
+
+##### Post-Program Survey:
+
+TBD, Shared during the week of 2021-09-20
 
 
 ### Common Questions
