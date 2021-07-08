@@ -35,6 +35,8 @@ Watch the replay of our 3 kick-off sessions below:
 
 **Session 3:**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pR-WPq4uH5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **1:1 Mentor Sessions**
 
