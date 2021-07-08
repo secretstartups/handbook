@@ -659,11 +659,11 @@ Naming convention for reports and dashboards will leverage sequence of periods (
 
 The following criteria are **required** for all SAOs:
 1. An Opportunity is deemed a Sales Accepted Opportunity (SAO) when the Opportunity is moved from Stage `0-Pending Acceptance` to `1-Discovery` by the Strategic Account Leader. 
-1. Required field settings are:
+1. SDRs do not input the Net ARR $ value, Strategic Account Leaders do.
+1. Required field settings to identify an SAO are:
      - The "SDR Sales Accepted Date" is defined
      - The "Is EDU/OSS Opportunity flag" is 'N'
      - Stage <> `10-Duplicate`
-     - "Net ARR" > $0
 
 The following criteria is required for an SDR to submit an opportunity to sales:
 
