@@ -27,7 +27,7 @@ This position reports to the Manager, Governance and Field Security at GitLab.
 The Field Security Engineer is a [6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Field Security Engineer (Intermediate) Responsibilities
-* Complete customer security assessments, questionnaires and sales enablement activities
+* Complete customer security assessments, questionnaires and sales enablement activities within pre defined SLA.
 * Maintain the Customer Assurance Package and other self-service customer security resources
 * Maintain GitLab's standard security response database 
 * Triage new or changing security requirements, security issues, and/or customer risks
@@ -125,7 +125,7 @@ This position reports to the Director, Security Assurance.
 The {Senior Manager, Governance and Field Security} is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Manager, Governance and Field Security Responsibilities
-* The same responsibilities of a Security Governance Manager, plus the below:
+* The same responsibilities of a Manager, Governance and Field Security, plus the below:
 * Hold regular 1:1s with team managers and skip-level 1:1s with all members of their team
 * Plan and execute long term strategies that benefit your team and align with strategic objectives
 * Partner with the product organization to dogfood and drive GitLab security and compliance features
@@ -153,9 +153,9 @@ For details on the Security organization leadership roles, to include the Securi
   graph LR;
   sec:se(Field Security Engineer)-->sec:sse(Senior Field Security Engineer);
   sec:sse(Senior Field Security Engineer)-->sec:stse(Staff Field Security Engineer);
-  sec:sse(Senior Field Security Engineer)-->sec:sem(Manager, Field Security);
-  sec:sem(Manager, Field Security)-->sec:sesm(Senior Manager, Field Security);
-  sec:sesm(Senior Manager, Field Security)-->sec:ds(Director, Security Assurance);
+  sec:sse(Senior Field Security Engineer)-->sec:sem(Manager, Governance and Field Security);
+  sec:sem(Manager, Governance and Field Security)-->sec:sesm(Senior Manager, Governance and Field Security);
+  sec:sesm(Senior Manager, Governance and Field Security)-->sec:ds(Director, Security Assurance);
 ```
 
 ## Hiring Process
@@ -163,6 +163,6 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a 50-minute interviews with the hiring manager, 
 * Then, candidates will be invited to schedule 3 separate 50-minute interviews with 3 different peers from within the Security orgnanization,
-* Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Risk and Compliance.
+* Finally, candidates will be invited to schedule a 25-minute interview with the Director, Security Assurance.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
