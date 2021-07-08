@@ -87,7 +87,7 @@ By default, all new team members are added to the below Slack channels from day 
 
 An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
 
-## Compliance
+### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Compliance
 
 The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) completes a monthly audit of all open onboarding issues to ensure that the new team member, manager and People Experience team tasks are completed. More importantly, there are certain tasks which need to be completed  in line with our company compliance (security, payroll, etc).
 
@@ -97,7 +97,7 @@ If any tasks are still outstanding, the People Experience Associate will ping th
 
 The employment bot will automatically close any onboarding issues still open after 60 days.
 
-## Completing Onboarding Issue
+### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Completing Onboarding Issue
 
 First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/). 
 
@@ -113,7 +113,8 @@ These templates are used by the People Experience team to onboard new team membe
 - [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
 
-#### Role Specific Templates
+#### <i class="fas fa-suitcase fa-fw color-orange font-awesome"></i>Role Specific Templates
+
 These are added to the "All Team Member" Template
 
 - [People Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
