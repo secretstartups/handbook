@@ -17,7 +17,7 @@ At GitLab, Professional Services (PS) is part of the [Customer Success departmen
 
 #### Slack
 
-PS uses the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel to answer generic questions about services and to signal delivery of PS scoping work items like PS Engagement Estimates and SOWs.
+PS uses the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to answer generic questions about services and to signal delivery of PS scoping work items like PS Engagement Estimates and SOWs.  The private [#professional-services-us-pubsec](https://gitlab.slack.com/archives/C025UHLTR50/p1625778195002900) slack channel is used for US Public Sector services.  Please request access to [#professional-services-us-pubsec](https://gitlab.slack.com/archives/C025UHLTR50/p1625778195002900) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X).
 
 #### Requesting training for GitLab team members
 
