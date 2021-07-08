@@ -1389,7 +1389,7 @@ extras:
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-**Please watch this helpful as well as reading the info below to help clarify this process for you.**
+**Please watch this helpful video as well as reading the info below to help clarify this process for you.**
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/9gy7tg94j7s" title="How to deprecate and remove features in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
