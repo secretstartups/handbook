@@ -29,7 +29,7 @@ We may be asked by infrastructure either through an issue or Slack to notify a u
 1. If the organization has a TAM, reach out to the TAM on Slack to inform them of the blocked user, and add them as a CC on the ticket.
 1. Supplement the response provided by the macro with the specific reasoning for the block and send it.
 1. Add a note to the ticket that contains a link to the issue.
-1. Add an [admin note](admin_note.html) to the blocked account that links to the issue.
+1. Add an [admin note](admin_note.html) to the blocked account that links to the issue. If you do not have GitLab.com admin access, you may [use ChatOps to do this](https://gitlab.com/gitlab-com/chatops/-/blob/master/lib/chatops/commands/user.rb) instead.
 
 ### Mirror Abuse
 
