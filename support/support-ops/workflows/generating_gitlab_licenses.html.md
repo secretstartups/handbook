@@ -19,8 +19,7 @@ description: 'Details on generating GitLab licenses for GitLab team members'
 
 1. The GitLab team member files an access request (AR) using the
    [GitLab Team Member License request template](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request).
-1. GitLab team member's manager reviews and labels AR as approved.
-1. GitLab team member's manager pings Support Ops.
+1. GitLab team member pings Support Ops.
 1. Support Operations reviews the AR to ensure it meets the acceptable
    parameters.
    1. If it does not, review the reason it goes outside the acceptable
@@ -38,25 +37,23 @@ graph TD;
   A-->B;
   B-->C;
   C-->D;
-  D-->E;
-  E--Yes-->F;
-  F-->G;
-  E--No-->I;
-  G--Yes-->I;
-  G--No-->H;
+  D--Yes-->E;
+  E-->F;
+  D--No-->H;
+  F--Yes-->H;
+  F--No-->G;
+  H-->I;
   I-->J;
-  J-->K;
   A(GitLab team member opens an AR issue)
-  B(Manager reviews and approved AR)
-  C(Manager pings Support Ops)
-  D(Support Ops reviews the AR)
-  E(Does the request go outside acceptable parameters?)
-  F(Support Ops reviews the reason)
-  G(Is the reason acceptable?)
-  H(Support Ops communicates why it is not acceptable and denies the request)
-  I(Support Ops creates the license)
-  J(Support Ops emails license key to requester)
-  K(Support Ops updates and closes the AR)
+  B(GitLab team member ping Support Ops)
+  C(Support Ops reviews the AR)
+  D(Does the request go outside acceptable parameters?)
+  E(Support Ops reviews the reason)
+  F(Is the reason acceptable?)
+  G(Support Ops communicates why it is not acceptable and denies the request)
+  H(Support Ops creates the license)
+  I(Support Ops emails license key to requester)
+  J(Support Ops updates and closes the AR)
 ```
 
 ### Acceptable parameters
