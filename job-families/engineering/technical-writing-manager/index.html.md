@@ -3,51 +3,40 @@ layout: job_family_page
 title: "Technical Writing Management"
 ---
 
-Manager, Technical Writing in the UX department at GitLab see the team as their product. While they are credible as Technical Writers and know the details of what Technical Writers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of technical writing commitments and are always looking to improve productivity and process. They must also coordinate across departments to accomplish collaborative goals.
+Technical Writing Managers, part of the UX department at GitLab, support their teams by helping to create an environment in which they can succeed. While they are credible as Technical Writers and know the details of what Technical Writers work on, their time is spent hiring and supporting a world-class team. They own the delivery of technical writing commitments and are always looking to improve productivity and process. They must also coordinate across departments to accomplish collaborative goals.
 
 ## Manager, Technical Writing
 
-The Manager, Technical Writing reports to the Senior Manager, Technical Writing and a team of Technical Writers report to the Manager, Technical Writing.
+The Technical Writing Manager reports to the Senior Manager of Technical Writing. A team of Technical Writers report to the Technical Writing Manager.
 
 ### Job Grade 
 
-The Manager, Technical Writing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
-* Hire and manage a world-class team of Technical Writers.
-* Promote a results-driven approach and work-life balance on the Technical Writing team by helping direct reports to balance assignments within the team when workloads are uneven, manage conflicting priorities, and prevent overresourcing.
-* Deliver input on promotions, function changes, demotions, and offboarding in consultation with the other Technical Writing Managers, the UX Director, and the Senior Manager, Technical Writing.
-* Make sure the team is focused on the right things by helping Technical Writers effectively balance high-priority feature release work with other content, experience, and process improvements.
-* Make sure that every Technical Writer on their team has clear priorities from their PMs/PM Directors for each milestone.
-
-#### Documentation
-
-* Manage documentation improvement efforts. Coordinate regular content audits for documentation in your area of responsibility.
-* Improve content usability by identifying opportunities to connect content that flows across multiple sections into end-to-end documentation that maps to GitLab [JTBDs](https://about.gitlab.com/handbook/engineering/ux/ux-resources/#jobs-to-be-done).
-* Make sure by the time of release all documentation, guides, and related content were shipped.
-* Help Technical Writers refine their writing skills by spot-checking content and providing editorial feedback.
-
-#### Process Improvement
-
-* Encourage efficient collaboration by defining processes that align with the rest of the product team, are consistent and efficient, and use GitLab capabilities to power process flows and metrics.
+* Hire, manage, and support a world-class team of Technical Writers.
+* Promote a results-driven approach and work-life balance by helping to balance assignments across the team when workloads are uneven, manage conflicting priorities, and prevent over-resourcing.
+* Make sure Technical Writers effectively prioritize high-priority feature release work with other content, experience, and process improvements.
+* Help Tech Writers refine their writing skills by spot-checking content and providing editorial feedback.
+* Encourage efficient collaboration by defining processes that align with the rest of the product teams, are consistent and efficient, and use GitLab capabilities (like labels) to power process flows and metrics.
 * Create practices that encourage keeping documentation up to date and easily discoverable.
-* Promote and optimize the experience for documentation contributions from the GitLab team and the wider GitLab community.
-* Create a self-managing framework for the Community Writers program.
+* Promote and optimize the experience for docs contributions from the GitLab team and the wider GitLab community.
+* Deliver input on promotions, function changes, demotions, and offboarding in consultation with the other Technical Writing Managers, the Senior Manager, Technical Writing, and the VP of UX.
 
 ### Requirements
 
-* Experience in setting up online documentation is a hard requirement for this role
-* Previous experience using Git is a hard requirement for this role
-* Proven experience in managing, mentoring, and training teams of Technical Writers
-* Experience working on production-level documentation
-* Self-motivated and strong organizational skills
-* Strong written and spoken communication skills
-* Familiarity with Static Site Generators, HTML, CSS
-* Experience with workflows and tooling used by engineering, operations, product teams
-* Familiarity with Continuous Integration, Containers, Kubernetes, and project management software a plus
-* Experience engaging with a wide range of stakeholders across a company, its customers, and/or open-source communities
-* You share our [values](/handbook/values/) and work in accordance with those values
+* Experience in creating and managing online documentation is a hard requirement for this role.
+* Previous experience using Git is a hard requirement for this role.
+* Proven experience in managing, mentoring, and training teams of Technical Writers.
+* Experience working on production-level documentation.
+* Self-motivated and strong organizational skills.
+* Strong written and spoken communication skills.
+* Familiarity with Static Site Generators, HTML, CSS.
+* Experience with workflows and tooling used by engineering, operations, and product teams.
+* Familiarity with Continuous Integration, Containers, Kubernetes, and project management software a plus.
+* Experience engaging with a wide range of stakeholders across a company, its customers, and/or open-source communities.
+* Share our [values](/handbook/values/) and work in accordance with those values.
 * [Adhere to our view of Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ### Performance indicators
@@ -61,14 +50,15 @@ The Manager, Technical Writing is a [grade 8](/handbook/total-rewards/compensati
 ### Hiring Process
 
 * Screening call with a recruiter.
-* Interview with Technical Writing Manager. In this interview, the interviewer will be looking to understand your managerial experiences and your experience with docs as code. The interviewer will also be looking to understand how you define strategy, how you work with cross-functional partners, how you've handled conflict, and how you dealt with difficult situations in the past.
-* Interview with Technical Writer. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, as well as what type of teams you have led and your management style.  Do be prepared to talk about your approach to writing work, experience with docs-as-code workflows, and your technical abilities, too.
-* Interview with Senior Manager, Technical Writing. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, what types of teams you have led, and your management style. The interviewer will also want to understand how you define strategy, how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your editing experience and technical abilities, too.
-* Interview with VP of UX. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, what types of teams you have led, and your management style. The interviewer will also want to understand how you define strategy, how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past. Do be prepared to talk about your work and technical abilities, too. 
+* Interview with Technical Writer. The interviewer will spend time learning about understand your management style, your approach to writing work, your experience with docs-as-code workflows, and your technical abilities.
+* Interview with an Engineering or Product Manager. The interviewer will spend time learning about your management experience, the type of teams you have led, and your management style.  Be prepared to talk about your approach to writing work, your experience with docs-as-code workflows, and your technical abilities, too.
+* Interview with Technical Writing Manager. The peer interviewer will spend time learning about your managerial experience, your experience with docs-as-code workflows, how you define strategy, how you work with cross-functional partners, how you handle conflict, and how you have dealt with difficult situations in the past.
+* Interview with Senior Manager, Technical Writing. The interviewer will spend time learning about your management style, past experiences, and career goals. 
+
 
 ## Senior Manager, Technical Writing
 
-The Senior Manager, Technical Writing reports to the VP of UX. Technical Writing Managers report to the Senior Manager, Technical Writing.
+The Senior Manager of Technical Writing reports to the VP of UX. Technical Writing Managers report to the Senior Manager of Technical Writing.
 
 ### Job Grade 
 
