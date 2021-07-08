@@ -16,7 +16,7 @@ US Federal Support generally follows the [working on tickets](https://about.gitl
 
 US Federal Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have between a 50-100% focus on addressing new and existing cases in the US Federal Support Portal. When a Support Engineer is working an on-call shift for the US Federal Zendesk Instance, that Engineer should monitor the instance during that shift. Those without a 50% or higher focus on US Federal but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible.
 
-The Zendesk timer for PENDING will return a ticket to OPEN status (vs closed). This allows for the intentional validation that the Zendesk case is ready to be `Solved`. 
+After 7 days of a case being in the `pending` state an automation will run that puts the case back into an `open` state. This allows for the agent to either follow up with the user on the requested actions or move the case to a `solved` state if they believe the issue in the case is resolved.
 
 There are events where customers will request to re-assign a Zendesk case to a co-worker. We handle this using the `Change` option at the top of the ticket by the respondents email.
 The context for this flow is because [CCs are disabled](https://about.gitlab.com/support/#ccs-are-disabled).
