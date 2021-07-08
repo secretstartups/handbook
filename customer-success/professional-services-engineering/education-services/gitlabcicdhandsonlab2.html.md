@@ -48,7 +48,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 
 ### Add a `.gitlab-ci.yml` file 
 1. In the GitLab webpage, go to the left-hand navigation pane and click **Project overview**
-1. Add a new file to the project's repository by finding the **+** dropdown that's next to **cicd-demo** (*not* the **+** in the black navigation bar) and clicking: **+ > This directory > New file**
+1. Add a new file to the project's repository by finding the **+** dropdown that's next to the **project slug that's beneath the project title** (*not* the **+** in the black navigation bar) and clicking: **+ > This directory > New file**
 1. In the **File name** field, enter `.gitlab-ci.yml`
 1. Select `.gitlab-ci.yml` for template type and apply the `Bash` template. This will pre-populate your configuration file. 
 1. To create a minimal `.gitlab-ci.yml` file:
