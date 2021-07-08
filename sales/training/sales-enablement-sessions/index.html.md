@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jul 8  | Q2 FY22 Product Update | Brian Glanz |
 | Jul 15  | Q2 FY22 Alliances Update | Mike LeBeau |
 | Jul 22  | *No sessions during the last two weeks of a quarter* |  |
 | Jul 29  | *No sessions during the last two weeks of a quarter* |  |
@@ -37,6 +36,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-07-08  | **[Q2 FY22 Product Update](https://youtu.be/_DC-Cdd-RNY)** | Public |
 | 2021-07-01  | **[The Value of Professional Services](https://youtu.be/LBQu10PRR2Y)** | Private |
 | 2021-06-24 | **[Competing against Microsoft for Plan - Azure Boards](https://youtu.be/IRC6CFUfO-Y)** |  Private  |
 | 2021-06-17 | **[Breaking Changes in 14.0 - AMA with Product & Customer Success](https://youtu.be/k-wvJtL_NeM)** | Private     |
