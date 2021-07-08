@@ -9,7 +9,7 @@ title: "Coaching Account Planning for ASMs"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
- ## Overview
+## Overview
 It is essential that Area Sales Managers (ASMs) support the Account Planning and Gainsight initiative with their teams. Below are the key messages that will need to be reinforced.
 
 ## Key Messaging
@@ -50,7 +50,7 @@ The Account Profile will be a combination of existing information from Salesforc
 
 ### Relationship and Influence Mapping
 
-Relationships are critical to discovering customer pain and being able to position GitLab as a solution. This section of the account plan is important, and there are a couple of key components you'll want to look for here. One of the biggest questions for this conversation is, "Does the account have coverage (both within and across lines of business)? Does the SAL understand how different parts of the organization engage with and/or influence each other? Bear in mind that influence can be independent of reporting structure.
+Relationships are critical to discovering customer pain and being able to position GitLab as a solution. This section of the account plan is important, and you'll want to work with your SALs to ensure they are multi-threading across key contacts in the account (both within and across lines of business) and that they understand how different parts of the organization engage with and/or influence each other? Bear in mind that influence can be independent of reporting structure.
 
 Did the SAL identify...
 - The champions and key influencers? 
