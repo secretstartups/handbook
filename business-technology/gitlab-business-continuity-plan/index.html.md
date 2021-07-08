@@ -207,16 +207,7 @@ The following links show the process carried out at GitLab to cater to this requ
 
 4. On a periodic basis, the BIA is reviewed and will be reperformed. While we do not anticipate significant changes year over year, as part of our due diligence and compliance needs, GitLab is required to make sure that system recovery/business continuity plans are up-to-date so that team members are always prepared to respond to system disruptions or outages.
 
-### BIA Schedule
-
-The FY22 BIA will be completed in phases with the goal that all systems listed in the tech stack will undergo the [BIA Procedure](#bia-procedure). The current planned schedule is:
-
-|Systems|BIA Procedures|
-|----------|----------|
-|SOX and SOC2 in-scope systems ([Tier 1 and Tier 2 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|FY22 Q1 / Q2|
-|Non- SOX and SOC2 systems that store or process RED or ORANGE Data ([Tier 3 critical systems](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers))|Tentatively planned for July 2021|
-|Systems that store YELLOW or GREEN data ([Tier 4 - non-critical sysetms](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#critical-system-tiers)); including systems on the tech stack with a data classification value of `null`|TBD|
-|True-up: The BIA rollout was based on a static pull of the tech stack as of `2021-03-28`. A static list provided the team with a more efficient way to track the various phases of work.|TBD|
+_Current GitLab Team Memebers: Additional information about the BIA process can be found in the [BIA Epic](https://gitlab.com/groups/gitlab-com/gl-security/security-assurance/-/epics/36)._
 
 ## Conclusion
 
