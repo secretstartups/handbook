@@ -12,7 +12,14 @@ description: "Support Engineering workflow detailing how to work on US Federal T
 {:toc .hidden-md .hidden-lg}
 # Working on US Federal Tickets
 
+US Federal Support generally follows the [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
+
 US Federal Support has a number of engineers with [verified US Citizenship](#access-limited-to-us-citizens) that have between a 50-100% focus on addressing new and existing cases in the US Federal Support Portal. When a Support Engineer is working an on-call shift for the US Federal Zendesk Instance, that Engineer should monitor the instance during that shift. Those without a 50% or higher focus on US Federal but do have access to the instance are still encouraged to participate through pairing sessions, joining customer calls, and assisting with gaps in knowledge where possible.
+
+The Zendesk timer for PENDING will return a ticket to OPEN status (vs closed). This allows for the intentional validation that the Zendesk case is ready to be `Solved`. 
+
+There are events where customers will request to re-assign a Zendesk case to a co-worker. We handle this using the `Change` option at the top of the ticket by the respondents email.
+The context for this flow is because [CCs are disabled](https://about.gitlab.com/support/#ccs-are-disabled).
 
 ## Access limited to US Citizens
 
