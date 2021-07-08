@@ -83,6 +83,10 @@ Nicole shares her approach towards prioritization of tech debt with her Engineer
 
 <iframe width="560" height="315" src=" https://youtube.com/embed/oRLrNkyrEfw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
+James discusses how he balances Error Budgets, Tech Debt, and other priorities with Engineering Counterparts, Scott. 
+<br/><br/>
+<iframe width="560" height="315" src=" https://youtube.com/embed/wI8yNFW6b8A" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+
 
 #### General Prioritization Guidance
 
