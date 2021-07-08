@@ -146,7 +146,8 @@ These product groups also have a high sensitivity to GMAU. This product groups w
 
 #### Merge requests experience prioritization
 
-We need an elevated sense of action in this area. If a bug is related to the merge request experience, priority is tied to severity in the following manner:
+We need an elevated sense of action in this area. If a bug is related to the merge request experience it should have the labels `~UX` `~merge requests`. 
+Priority is tied to severity in the following manner:
 
 | MR UX bug severity | Allowed priorities | **Not-allowed priorities** |
 |-|-|-|
