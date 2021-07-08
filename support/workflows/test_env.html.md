@@ -238,9 +238,11 @@ export NAME=gitlab-test-11.9
 
 #####  Create container
 ```
+export IP=$(docker-machine ip $ENV_NAME)
+
 docker run --detach \
---env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip $NAME):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
---hostname $(docker-machine ip $NAME) \
+--env GITLAB_OMNIBUS_CONFIG="external_url 'http://$IP:$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
+--hostname $IP \
 -p $HTTP_PORT:$HTTP_PORT -p $SSH_PORT:22 \
 --name $CONTAINER_NAME \
 gitlab/gitlab-ee:$VERSION
@@ -251,7 +253,7 @@ gitlab/gitlab-ee:$VERSION
 ##### Retrieve the docker host IP
 
 ```
-docker-machine ip gitlab-test-env
+echo $IP
 # example output: 192.168.151.134
 ```
 
@@ -262,7 +264,7 @@ docker-machine ip gitlab-test-env
 ##### Execute interactive shell/edit configuration
 
 ```
-docker exec -it $ENV_NAME /bin/bash
+docker exec -it $CONTAINER_NAME /bin/bash
 ```
 
 ```
