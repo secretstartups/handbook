@@ -72,7 +72,7 @@ The Senior Field Security Engineer is a [7](/handbook/total-rewards/compensation
 * Demonstrated industry security experience, particularly in DevSecOps, Application Security and/or Cloud-Native Security
 
 ### Staff Field Security Engineer
-This position reports to the Manager, Field Security at GitLab.  
+This position reports to the Manager, Governance Field Security at GitLab.  
 
 #### Staff Field Security Engineer Job Grade
 The Staff Field Security Engineer is a [8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
