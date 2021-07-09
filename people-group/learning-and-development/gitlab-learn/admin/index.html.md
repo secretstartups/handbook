@@ -135,7 +135,7 @@ This video outlines the three scenarios for building public versus private conte
 
 ##### Building content with both `public` and `private` elements
 
-Option 3: If parts of the content are for a certain audience and parts are available to all learners
+If parts of the content are for a certain audience and parts are available to all learners
 
 1. Create a Pathway and confirm the `private` content checkbox is checked
 1. Create `private` content in SmartCards in a Pathway
