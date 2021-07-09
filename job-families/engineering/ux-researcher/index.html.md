@@ -10,7 +10,7 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 * Be the expert on the users within your allocated area of coverage: know how they use the GitLab, their pain points, their workflows, etc.
 
-* Collaborate with GitLab designers, product managers and engineers on a wide array of research projects
+* Collaborate with GitLab designers, product managers and engineers on a wide array of research projects.
 
 * Conduct all stages of UX research: identifying, planning, driving, conducting, analyzing, and reporting out insights.
 
