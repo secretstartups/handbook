@@ -43,9 +43,9 @@ title: "Sales Territories"
 
 - **VP Commercial Sales** ([Mid-Market](#mid-market) & [Small Business](/handbook/sales/territories/territory-deprecate/#small-business-segment)): Ryan O'Nell
 - <b>[APAC](#apac)</b>: Anthony McMahon, Regional Director
-- <b>[Europe, Middle East and Africa](#emea)</b>: Jon Burghart, Regional Director
+- <b>[Europe, Middle East and Africa](#emea)</b>: TBD, Regional Director
 - <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: TBD, Regional Director
-- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Haydn Mackay, Regional Director
+- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Brittany Caulfield, Regional Director
 - <b>[Public Sector](#public-sector)</b>: Jim Riley (Interim), Director of Federal Sales
 
 ## Territories
@@ -61,12 +61,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 {:.no_toc}
 
 - **NA East - Named Accounts**: TBD
-- **NA East - Southeast**: Tom Plumadore
+- **NA East - Southeast**: TBD
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
 - **NA West - Rockies/SoCal**: TBD
 - **NA West - Bay Area**: Alan Cooke
-- **NA West - PNW/MidWest**: Timm Ideker
+- **NA West - PNW/MidWest**: Kris Nelson
 - **Inside Sales - Public Sector**: Brent Caldwell
 - **Inside Sales - Enterprise**: Matt Malcolm
 
@@ -78,7 +78,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector | David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-6	|	Scott Hall	| David Fisher
-|	NA West	|	Southwest	|	Large-AMER-West-1	|	Haydn Mackay	| Matthew Beadle
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	TBD	| Matthew Beadle
 |	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	| Matthew Beadle
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	| Matthew Beadle
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	| Matthew Beadle
@@ -97,7 +97,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| Marsja Jones 
 |	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| Marsja Jones
 |	[LATAM](/handbook/sales/territories/latam/)		|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| Marsja Jones
-|	NA West	|	Midwest	|	Large-AMER-Midwest-1	|	Timmothy Ideker	| Matthew Beadle
 |	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	TBH	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	| David Fisher
@@ -210,7 +209,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
-| ANZ	|	ANZ	|	MM-APAC-ANZ	|	Jo-Ming Huang	|
+| ANZ	|	ANZ	|	MM-APAC-ANZ-1	|	Jo-Ming Huang	|
+| ANZ	|	ANZ	|	MM-APAC-ANZ-2	|	Jo-Ming Huang	|
 |	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	|
 |	Japan	|	Japan	|	MM-APAC-Japan	|	Ian Chiang	|
 |	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	|
@@ -313,7 +313,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	APAC	|	APAC	|	SMB-APAC-JAPAN	|	Ishan Padgotra	|
 |	APAC	|	APAC	|	SMB-APAC-SE Asia	|	Ishan Padgotra	|
 |	APAC	|	APAC	|	SMB-APAC-Central Asia	|	Ishan Padgotra	|
-|	APAC	|	APAC	|	SMB-APAC-Pakistan	|	Ishan Padgotra	|
+|	APAC	|	APAC	|	SMB-APAC-South Asia	|	Ishan Padgotra	|
 
 #### EMEA
 
