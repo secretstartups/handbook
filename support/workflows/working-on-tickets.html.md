@@ -208,6 +208,7 @@ Some caveats to bear in mind:
       1. add a public message to the ticket informing the user that you’ve asked another support engineer with relevant expertise to take the ticket, and that you’ve reviewed the ticket with that engineer
       1. assign the ticket to the expert
    1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take some of your tickets. Be sure you discuss each ticket before reassigning it to gain agreement and so that the other support engineers don't have to start from scratch. Then add an internal note stating the reassignment agreement **and** add a public meessage informing the user that you’ve asked another support engineer to take the ticket due to your time constraints.
+1. **I am interested in a specific subject area that's not covered by the views provided and I would like to see tickets assigned to other team members.** Create [Zendesk personal views](https://support.zendesk.com/hc/en-us/articles/203690806-Creating-views-to-manage-ticket-workflow) and add filters for the subject area. This will list all the new tickets and the already assigned tickets for that area.
 
 ## Working on Tickets Flowchart
 
