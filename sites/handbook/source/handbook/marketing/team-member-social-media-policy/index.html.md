@@ -32,10 +32,10 @@ The term "social media" applies to any web-based technology in use now or in the
 ##### As business needs change and GitLab continues on our journey, this policy will be updated. We'll be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
 {:.no_toc}
 
-### GitLab Community Code of Conduct applies to team members as a part of the community
+### All other GitLab codes of conduct and policies also apply to our social media policy
 {:.no_toc}
 
-Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), as we would require all members of the community.
+Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), [Anti-Harrassment Policy](https://about.gitlab.com/handbook/anti-harassment/), which includes sexual harrassment and discrimination policies, and our [Code of Business Conduct and Ethics](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/). These policies all apply to team member behavior within social media and in public online spaces.
 
 ##### Social Media sometimes generates press and media attention or legal questions. Please refer all inquires to the Communications Team in the #external-comms Slack channel.
 {:.no_toc}
@@ -97,12 +97,10 @@ Whether you're an intern or our CEO, protecting the GitLab brand, the company, a
   <summary markdown='span'>
     Don't share customer or Team Member personal information
   </summary>
+
 <ul>
 <li>Never share personal information about our customers or fellow team members. If you'd like to share info about a customer, ask about public disclosure in the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page</a>. For team members, allow them to own the decision on what is and isn't public about them.
-
 <li>Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law.</li> 
-
-<li>The rules in GitLab’s Team Member Handbook including but not limited to its Equal Employment Opportunity, Non-Harassment/Non-Discrimination, Non-Harassment, Sexual Harassment, Code of Business Conduct and Ethics, Standards of Conduct, and Electronic Resources policies apply to employee behavior within social media and in public online spaces.</li>
 </ul>
 
 </details>
