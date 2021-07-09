@@ -202,10 +202,6 @@ Any conduct which is impermissible under the law if expressed in any other form 
 
 See section below for location-specific details that are necessary to review.
 
-## Transform this policy into action with a social media training and certification
-
-Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification).
-
 ## Location-specific social media policy details
 
 ### United States
@@ -218,4 +214,6 @@ GitLab will not enforce the social media policy in a manner that would interfere
 
 You may not use data obtained in the course of your employment with GitLab in any way which breaches the provisions of the Data Protection Act 1998.
 
-## Team member social media guidelines
+## Transform this policy into action with a social media training and certification
+
+Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification).
