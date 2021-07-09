@@ -226,7 +226,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ## Some useful resources
 > 
 > 1. Unsure on where to get started? Check out our [handbook page on recording a presentation in Zoom](https://about.gitlab.com/handbook/tools-and-tips/zoom/#how-to-share-a-presentation-in-zoom). A free Zoom account is all you'd need to complete this presentation. 
-> 1. Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
+> - Interested in the type of work our UX team does? Check out our [UX Showcases on GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0Kq89nFXtkVviaIfYQPptwJz), our [UX Research handbook](https://about.gitlab.com/handbook/engineering/ux/ux-research/), and our [UX Department's handbook](/handbook/engineering/ux/).
 > - We work with a [low level of shame](/handbook/values/#low-level-of-shame) at GitLab. In this context, this means we don't expect your presentation to be highly polished.
 > - Other questions? Want the Recruiter to review your presentation before the review from the Hiring Manager? Don't hesitate to get in touch with the Recruiter who conducted your screening call. 
 
