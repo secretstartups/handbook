@@ -1305,7 +1305,7 @@ Tag the reviewer from the editorial team in a comment on the issue that explains
 
 Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels.
 
-You should promote your content too! Please see the Social Marketing handbook for [Team member social media guidelines](/handbook/marketing/social-media-guidelines/#team-member-social-media-guidelines).
+You should promote your content too! Please see the Social Marketing handbook for [Team Member Social Media Advocacy](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/).
 
 You can also view the below [How to Make Your Content Work Harder for You](https://docs.google.com/presentation/d/1RPSkAWtXtWfbuoHD9D1iSdt5o1d7a4MA5QPGjGeFFXM/edit?usp=sharing) training from Corporate Communications:
 <!-- blank line -->
