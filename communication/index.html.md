@@ -63,7 +63,7 @@ GitLab as the leader in all remote work creates opportunities for our team membe
 
 ### Social Media
 
-Please see our [social media guidelines](/handbook/marketing/team-member-social-media-policy/).
+Please see our [team member social media policy](/handbook/marketing/team-member-social-media-policy/).
 
 ## Everything Starts with a Merge Request
 
