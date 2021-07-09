@@ -198,9 +198,11 @@ For more details on the engineering career ladders, please review the [engineeri
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-* Selected candidates will be invited to schedule a 1-hour [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have. We will also cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.  
+* Selected candidates will be invited to schedule a 30-min [screening call](https://about.gitlab.com/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters or the Hiring Manager. In this call we will discuss your experience, understand what you are looking for in a UX Research role, discuss your compensation expectations, reasons why you want to join GitLab and answer any questions you have. 
 
-* Next, we'll invite you to record a case study walkthrough video. The recording is expected to be **20- minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
+* The next step will be a 30-min meeting to cover some scenario-based questions where will look to understand how you handle common situations that UX Researchers find.  
+
+* After that, we'll invite you to record a case study walkthrough video. The recording is expected to be **20- minutes in duration** and returned **within ten days** of the screening call. In addition to the details below, [this discussion on our GitLab Unfiltered YouTube playlist](https://youtu.be/VU2BKjGoer4) provides an overview of what we're looking for.  
 
 > ### Why we ask for a pre-recorded presentation
 > 
