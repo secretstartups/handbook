@@ -19,7 +19,7 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 * Use a wide variety of qualitative and quantitative research methods to apply to research questions.
 
 * Share research insights in creative ways to increase empathy.
-
+* Produce research insights that result in impact.
 
 ## Requirements
 
