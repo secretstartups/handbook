@@ -4,7 +4,7 @@ title: "UX Researcher"
 description: "At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, behave, and priorities."
 ---
 
-At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, how they should behave, and what the priorities should be. UX Researchers report to the UX Research Manager.
+At GitLab, UX Researchers collaborate with our Product Designers, Product Managers and the rest of the community to assist in determining what features should be built, how they should behave, and what the priorities should be.
 
 ## Responsibilities
 
@@ -41,15 +41,15 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 ## Levels
 
-### UX Researcher
+### Intermediate
 
 The UX Researcher (Intermediate) reports to the Director of User Experience Research.
 
-#### Job Grade
+#### Intermediate Job Grade
 
-The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The UX Researcher (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### UX Researcher Responsibilities
+#### Intermediate Responsibilities
 * Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
 
 * Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
@@ -66,15 +66,15 @@ The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensati
 
 * Actively contribute to the UX Research team culture, processes, and documentation.
 
-### Senior UX Researcher
+### Senior
 
 The Senior UX Researcher reports to the Director of User Experience Research.
 
-#### Job Grade
+#### Senior Job Grade
 
 The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior UX Researcher Responsibilities
+#### Senior Responsibilities
 * Personally initiate and conduct research projects within your assigned stage groups and across adjacent stage groups to build deep foundational knowledge of your areas of coverage. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 
 * Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
@@ -101,15 +101,15 @@ The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/com
 
 * Lead and mentor other Researchers.
 
-### Staff UX Researcher
+### Staff
 
 The Staff UX Researcher reports to the Director of User Experience Research.
 
-#### Job Grade
+#### Staff Job Grade
 
 The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Staff UX Researcher Responsibilities
+#### Staff Responsibilities
 * Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
 * Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build deep foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
