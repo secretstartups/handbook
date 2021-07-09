@@ -7,7 +7,7 @@ title: "JC Choi’s README"
 
 My intention is to let team members know why I love to collaborate, why I think the entire idea of GitLab is phenomenal, and why I try everyday to let my work life live CREDIT. If you think that's over-corn, update this.
 
-## Ny one breath elevator pitch
+### My one breath elevator pitch
 
 I'm a dog person and even if you're not I know that there are many things about dogs you appreicate: loyalty their entire life, not overly attention-wanting but still attention-getting, and an amazing ability to be happy under all types of crappy situations. My ideals as a human walks on four legs and a wag.
 
@@ -26,7 +26,7 @@ I was diagnosed really late in life. In my community mental health is a topic th
 * Breaking tech
 
 
-### Why I always at lose at Trivia Night
+### Why I always lose Trivia Night
 
 + 7 dogs and 2 cats. I am a duck and goat away from being a petting zoo.
 + Drove for Uber and made food for DoorDash out of my house and tried dropshipping.
@@ -35,21 +35,21 @@ I was diagnosed really late in life. In my community mental health is a topic th
 + Built an indoor hydroponic garden system using two book cases, GroRocks, 6 inch plastic pots, a high wattage light, a timer, a fish tank water pump, and carbon dioxide snaked all around the whole affair. In my mom's living room. Until the downstair's neighbor complained about a growing water stain on their ceiling.
 
 
-## You need me? Reach out. Anyway you want.
+### You need me? Reach out. Anyway you want.
 
 + Slack, email, comments in GitLab, text, chat in Zoom, etc.
 + My personal SLA is 5-10 minutes. I know I know. We are asynchronous. Five to ten minutes is asynchronous, right.
 + People before process is real to me.
 
 
-## What I need from you
+### What I need from you
 
 + Be as transparent as possible, but not more than you are comfortable.
 + Be authentic. I have a high bs meter.
-+ Be friendly because why not.
++ Be friendly because why the heck not.
 
 
-## Written ideas on training
+### Written ideas on training
 
 <!-- TO ITERATE: add links to personal blog posts -->
 
