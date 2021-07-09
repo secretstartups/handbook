@@ -55,11 +55,11 @@ Aligning passionate TAM's with customers to ensure their success by...
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
-- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
-
+- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
+- [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation)
 
 
 ##### Digital Journey:

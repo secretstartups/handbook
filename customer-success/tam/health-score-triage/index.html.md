@@ -89,7 +89,7 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Mitigation Strategies
 
-- **Failure to upgrade.** Is the customer more than a major release behind? Work with the customer to explain the new features and security updates of the current version of GitLab and address any internal technical limitations that have prevented upgrades. Develop an upgrade plan with the customer if appropriate.
+- See the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/tam/risk-mitigation) page.
 
 ### Gainsight
 
