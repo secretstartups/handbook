@@ -8,39 +8,48 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 ## Responsibilities
 
-Unless otherwise specified, all UX Research roles at GitLab share the following requirements and responsibilities:
+* Be the expert on the users within your allocated area of coverage: know how they use the GitLab, their pain points, their workflows, etc.
 
-#### Requirements
+* Collaborate with GitLab designers, product managers and engineers on a wide array of research projects
+
+* Conduct all stages of UX research: identifying, planning, driving, conducting, analyzing, and reporting out insights.
+
+
+## Requirements
+
+* Communicate out statuses and updates of project work to stakeholders
+
+* Use a wide variety of qualitative and quantitative research methods to apply to research questions.
 
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
 
-* Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+* Passionate about and effective at mentoring others.
 
-* Passionate about mentoring others.
+* Produce research insights that result in impact.
 
-* Evangelize research. Share user insights within the broader organization and externally in creative ways to increase empathy.
+* Share research insights in creative ways to increase empathy.
 
 * Empathetic, curious and open-minded.
 
-* Able to thrive in a fully remote organization.
+* Able to conduct research in a fully remote setting.
 
 * Able to use GitLab.
 
-#### Nice to haves
+* Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
-* Enterprise software company experience.
+* Experience with workflows and tooling used by engineering, design, and product teams
 
-* Developer platform/tool industry experience.
-
-* A degree in psychology, human factors, human-computer interaction, or a related field.
+## Levels
 
 ### UX Researcher
+
+The UX Researcher (Intermediate) reports to the Director of User Experience Research.
 
 #### Job Grade
 
 The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### UX Researcher Responsibilities
 * Personally initiate and conduct research within or across your stage groups to build deep foundational knowledge of your coverage areas. Research should consist of a mix of solution validation and problem validation projects.
 
 * Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
@@ -59,11 +68,13 @@ The UX Researcher is a [grade 6](/handbook/total-rewards/compensation/compensati
 
 ### Senior UX Researcher
 
+The Senior UX Researcher reports to the Director of User Experience Research.
+
 #### Job Grade
 
 The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Senior UX Researcher Responsibilities
 * Personally initiate and conduct research projects within your assigned stage groups and across adjacent stage groups to build deep foundational knowledge of your areas of coverage. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 
 * Drive a company-wide research-based measure: design or improve upon a methodology (if needed), collect and report out findings.
@@ -92,11 +103,13 @@ The Senior UX Researcher is a [grade 7](/handbook/total-rewards/compensation/com
 
 ### Staff UX Researcher
 
+The Staff UX Researcher reports to the Director of User Experience Research.
+
 #### Job Grade
 
 The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Staff UX Researcher Responsibilities
 * Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
 * Personally initiate and conduct research within your assigned stage groups, across adjacent stage groups, and across GitLab, to build deep foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
@@ -131,25 +144,15 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * Lead and mentor other Researchers.
 
-
-
-## Career Ladder
-
-For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
-
 ## Performance indicators
 
 * [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability)
 
 * [Proactive vs Reactive UX Work](/handbook/engineering/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
 
-## Relevant links
+## Career Ladder
 
-- [UX Research Handbook](/handbook/engineering/ux/ux-research/)
-
-- [UX Department Handbook](/handbook/engineering/ux/)
-
-- [Product Handbook](/handbook/product/)
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
 
