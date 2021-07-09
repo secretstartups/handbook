@@ -98,10 +98,7 @@ Whether you're an intern or our CEO, protecting the GitLab brand, the company, a
     Don't share customer or Team Member personal information
   </summary>
 
-<ul>
-<li>Never share personal information about our customers or fellow team members. If you'd like to share info about a customer, ask about public disclosure in the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page</a>. For team members, allow them to own the decision on what is and isn't public about them.
-<li>Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law.</li> 
-</ul>
+Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law. Allow the team member(s) to own the decision on what is and isn't public about them.
 
 </details>
 
