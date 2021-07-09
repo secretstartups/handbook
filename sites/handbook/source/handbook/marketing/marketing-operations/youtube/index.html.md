@@ -51,29 +51,29 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ### Livestream with Zoom
 
-- Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiltered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access). 
+1. Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiltered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access). 
 
-- Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
+1. Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
 
 ![click the more button](/handbook/marketing/marketing-operations/youtube/zoom_livestream_settings.png)
 
-- Click the \[ More ] button and click `Live on YouTube`
+1. Click the \[ More ] button and click `Live on YouTube`
 
 ![click the more button](/handbook/marketing/marketing-operations/youtube/zoom_live_on_youtube.png)
 
-- Select the `GitLab Unfiltered` or `GitLab`
+1. Select the `GitLab Unfiltered` or `GitLab`
 
 ![choose your account](/handbook/marketing/marketing-operations/youtube/choose_your_account.png)
 
-- Grant permissions to the YouTube account by clicking the `[Allow]` button
+1. Grant permissions to the YouTube account by clicking the `[Allow]` button
 
 ![grant permissions](/handbook/marketing/marketing-operations/youtube/grant_permissions.png)
 
-- Follow the instructions for [starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
+1. Follow the instructions for [starting a recorded video](/handbook/tools-and-tips/zoom/#recording-in-zoom).
 
 ![configure stream](/handbook/marketing/marketing-operations/youtube/stream_settings.png)
 
-- Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy reference post meeting. 
+1. Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy reference post meeting. 
 
 ![stream link](/handbook/marketing/marketing-operations/youtube/youtube-stream-link.png)
 
@@ -82,6 +82,8 @@ The following 5-minute shows how to start a livestream from a Zoom Meeting to Yo
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/mWWWdbS2q9U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
+If you recieve a permission error when attempting to start a livestream (i.e. "Please grant mecessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help. 
 
 ### Livestream with OBS
 
