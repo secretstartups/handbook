@@ -554,7 +554,7 @@ The following section outlines the behavior/user experience when accessing edite
 
 ##### Behavior of editing Pathways and Journeys
 
-When a user complets a Pathway or Journey, the following will occur:
+When a user completes a Pathway or Journey, the following will occur:
 
 1. User will see 100% completion on the course
 1. Course appears in the `Completed` section of their `My Learning Profile`
@@ -566,8 +566,8 @@ When new content is added to a Pathway or Journey after a user has already compl
 
 1. User will see an updated percentage completion on the course, reflecting the number of SmartCards they have completed. For example, if the original course had 3 SmartCards and 1 new SmartCard was added, the user's completion will change from `100%` to `75%`
 1. Course will appear in the `Current` section of their `My Learning Profile`
-1. Any badges previously earned will remain on the user profile
-1. Completed status remains as `Complete` in the EdGraph data sets
+1. Any badges previously earned **will remain on the user profile**
+1. Completed status **remains as `Complete`** in the EdGraph data sets
 1. Percentage completed status is updated to the new percentage completion total in the EdGraph data sets
 1. User will get a bell notification in the platform indicating that new content was added to a Pathway or Journey they already completed
 
@@ -587,8 +587,21 @@ When a user returns to/completes a Pathway or Journey after new content is added
 1. After adding content, include the following line in the Pathway or Journey description
 
 `As of [YYYY-MM-DD], this [Pathway/Journey] has new material! Please review any SmartCards that are not marked as Complete to earn 100% completion. Any badges earned from this course previously will not be changed or removed`
+1. Quizzes can be added to Pathways and Journeys, but they cannot be edited once a user has completed it. If you need to edit or remove a quiz from an existing pathway, please follow the process below
 
-1. If you need to edit an existing quiz in a Pathway or Journey [ADD HERE]
+
+##### Removing or Editing Quizzes in a Pathway or Journey
+
+1. This original Pathway/Journey is considered your Version 1 or V1. Click the three dots in the top right corner of the Pathway and choose `Make a Copy`. This new copy is now considered your Version 2 or V2.
+1. Navigate to your `Profile` page and click `Content` to view the V2 Pathway. This will be titled automatically as `Copy Of {Pathway Name}`
+1. Return to the V1 of your Pathway and rename it as `DEPRECATED V1: {Pathway Name}`
+1. Now, you must remove the Pathway from any related Channels, Groups, or Assignments in order to keep users from finding it. Do **NOT** delete the V1 Pathway as this will remove any user data related to the Pathway.
+1. After removing any Channels, Groups, or Assignments from the Pathway, mark the Pathway as `private`.
+1. Return to the V2 of your Pathway and rename it to the correct title of the Pathway
+1. Make necessary updates to the V2 Pathway quizzes.
+1. This V2 Pathway is now the most up to date version of the Pathway content. Reshare this new V2 Pathway with any related Channels, Groups, or Assignments. 
+1. Refer to the Reporting section of this admin page to understand how the combination of reports from V1 and V2 Pathways will give a full picture of completion.
+1. If you need to update V2 or versions beyond of a Pathway, follow this same process but replace the version names with `VX` or `version X` where `X` is the correct version number.
 
 
 ### Channels
