@@ -821,14 +821,15 @@ In a GitLab Unfiltered [interview](https://youtu.be/n9Gfe9p1tmA), GitLab Head of
 
 ##### Cultural lens
 {:.no_toc}
-Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt. 
+Cultural differences can bring unique challenges and expectations to iteration. For some, expressions like "it doesn't have to be perfect..." can challenge cultural norms. We encourage you to bring your authentic self and seek shared understanding when iterating. [Giving feedback](/handbook/leadership/#giving-feedback) and ensuring [psychological safety](/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) are necessary for every iterative attempt.
 
 ##### Focus on improvement
 {:.no_toc}
-We believe great companies sound negative because they focus on what they can improve, not on what is working.
-Our first question in every conversation with someone outside the company should be: What do you think we can improve?
+We believe great companies sound negative because they focus on what they can improve, not only on what is working well.
+In every conversation, inside and outside the company, we should ask a question: What do you think we can improve?
 This doesn't mean we don't recognize our successes; for example, see our [Say Thanks](#say-thanks) value.
-We are positive about the future of the company; we are present-day pessimists and long-term optimists.
+
+We are positive about the future of the company. We are **S**hort **Te**rm **P**essimistic **A**nd **L**ong **T**erm **O**ptimistic (`STePALTO`, for short).
 
 ##### Do things that don't scale
 {:.no_toc}
