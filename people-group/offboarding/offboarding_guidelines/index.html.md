@@ -60,7 +60,7 @@ IT Ops will follow the below steps to set up an auto-response that notifies the 
    1. Unsuspend the account, reset sign in cookies, reset password, do not email the password. 
    1. Move account into the Former Team Memebers Organizational Unit. 
    1. Use GAM to set a Out of Office Message on the account
-   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
+   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
 
 The Out of Office message will stay on the account for 90 days, aftewards ITOPs will follow up and archive the account in the G-Suite vault.
 

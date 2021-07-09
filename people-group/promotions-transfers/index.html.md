@@ -30,7 +30,7 @@ We recorded a training on this subject:
 
 ## Career Mobility Issue
 
-A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
+A [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) is created when the one of the following criteria is met;
 
 - Migration from Individual Contributor to Manager
 - Migration from Manager to Individual Contributor
@@ -43,7 +43,7 @@ When a career mobility may not be needed (but can be requested);
 
 The Total Rewards Team will notify the People Experience Team of a pending migration of a team member via @ mention in the Promotion/Transfer Tracker. The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) currently in the assignment rotation will assign the migration to an Associate in the People Exp/Ops Tracker.
 
-The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
+The [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) will then be **created by the People Experience Associate** assigned by using the [automated Slack command](/handbook/people-group/engineering/employment-issues/#career-mobility-issues) three days prior to the effective date to allow for the managers to start preparing for the team members transition.
 
 Important things to ensure:
 
@@ -321,7 +321,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - Add sign date field for the team member
     - **Note:** Make sure that **a)** "Assign signer order” option has been selected while preparing the doc, and **b)** In **Settings >> Profile >> Send an email to all parties in an ordered signature request when the request has started** option is unchecked.
 1. Once signed by all parties, save the letter to the “Contracts & Changes” folder in BambooHR.
-1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 1. The previous manager will be prompted to create an [Access Removal Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/blob/master/.gitlab/issue_templates/Access%20Removal%20Request.md) and the new manager will create an [Access Request Issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests) to ensure the correct access is given for the new role and deprovisioned for the previous role, if need be.
 
@@ -356,7 +356,7 @@ Job information changes are anything that requires an update to the team member'
 
 1. Audit the team member's department, division and cost center against the new manager's.
 1. For US team members, the entity must also match with the manager's. For any changes in entity, update the payroll file.
-1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
+1. In case of `Job Title Specialty` change requests. Notify People Experience Associates in the internal Transition Tracker spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
 ## Department Transfers
 
@@ -426,7 +426,7 @@ If you are unsure of the role, set up a coffee chat with the hiring manager to i
 
 #### Announcing Internal Promotions/Transfers
 
-While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
+While the [Career Mobility Issue Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) aims to kick off the logistics of switching roles, the guidelines below are meant to guide the communication of internal promotions and transitions to ensure consistency and alignment from all parties involved.
 
 1. Prior to any company-wide announcement, the team member should be given the opportunity to share the news with their immediate team members.
 1. The `new manager` should post the announcement in the `#team-member-updates` Slack channel. This should ideally happen (timezome permitting) on the <b>same day that the candidate signs their [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment)</b>.
