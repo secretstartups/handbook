@@ -90,7 +90,7 @@ Candidates will do their research in places far beyond our jobs site to find out
 We want to be sure we're telling an authentic story about life at GitLab, and one of the best ways to do that is through our team members.
 You can help amplify that story by tapping into your networks on social media and sharing what it's like to be part of our team.
 
-Once you've checked out the [social media guidelines](/handbook/marketing/social-media-guidelines/), here are some ideas for types of content you can share to help candidates learn more about GitLab and your team in particular:
+Once you've checked out the [team member social media policy](/handbook/marketing/team-member-social-media-policy/), here are some ideas for types of content you can share to help candidates learn more about GitLab and your team in particular:
 - Blog posts from the [Culture section](/blog/categories/culture/) of the GitLab blog
 - Videos about life at GitLab from our YouTube channel ([here's an example](https://youtu.be/V2Z1h_2gLNU))
 - A blog post [you've written](/handbook/marketing/blog/unfiltered/) about what it's like to work here/on your team
@@ -98,7 +98,7 @@ Once you've checked out the [social media guidelines](/handbook/marketing/social
 - Photos of meetups or coworking days with GitLab team members
 - Articles about GitLab in the news - follow the #newswire channel in Slack for a great source of daily updates
 - Your [README file](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme)
-- Consider hosting a public AMA (Ask Me Anything) on [social media](/handbook/marketing/social-media-guidelines/) or YouTube about working or life at GitLab, using the `#LifeAtGitLab` hashtag. Or, record a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) with a team member about life at GitLab and upload it to the `Working at GitLab` playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqNM5pnenLqkA9pIoFO5edr).
+- Consider hosting a public AMA (Ask Me Anything) on [social media](/handbook/marketing/team-member-social-media-policy/) or YouTube about working or life at GitLab, using the `#LifeAtGitLab` hashtag. Or, record a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) with a team member about life at GitLab and upload it to the `Working at GitLab` playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqNM5pnenLqkA9pIoFO5edr).
 
 Here are some [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) you can reference for our latest team headcount, awards, blogs, and more facts about working at GitLab.
 
