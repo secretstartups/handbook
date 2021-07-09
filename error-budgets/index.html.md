@@ -24,7 +24,7 @@ The Google SRE book is generally a recommended read and under the ["Motivation f
 This is the goal we are striving for too, while also acknowledging that in order to arrive at the same level of sophistication, we need to take into account our specific situation, maturity and additional requirements.
 Our initial approach will directly tie Error Budget SLO with our existing approach to availability. However, in future iterations we look to further develop the importance of the Product Manager in setting SLO. The above-mentioned clarity between developers and SRE is achieved by the right SLO target which balances the importance of new feature work with the ongoing service expectations of users.
 
-## Why are we introducing error budgets?
+## Why are we using error budgets?
 
 GitLab is a complex system that needs to be delivered as a highly available SaaS platform. Over the years, several processes have been introduced to address some of the challenges of maintaining feature delivery velocity while ensuring that the SaaS reliability continues to increase.
 
