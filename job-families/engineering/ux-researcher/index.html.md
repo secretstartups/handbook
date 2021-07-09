@@ -28,7 +28,6 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 * Passionate about and effective at mentoring others.
 
-* Produce research insights that result in impact.
 
 * Empathetic, curious and open-minded.
 
