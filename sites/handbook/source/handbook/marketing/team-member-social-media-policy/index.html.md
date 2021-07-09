@@ -1,0 +1,223 @@
+---
+layout: handbook-page-toc
+title: Team Member Social Media Policy 
+description: This is the GitLab employee social media policy
+twitter_image: 
+twitter_image_alt: GitLab Social Media Policy
+
+---
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Introduction
+{:.no_toc}
+
+We recognize that many team members engage in social media activity. This policy establishes a set of rules and guidelines for any activity and participation in “social media” by all GitLab Team Members. These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by GitLab at any time, for any reason, without notice to team members. This policy also applies to social media activity when on or off duty, while using the Company's or personal electronic resources, and whether the team member posts anonymously or using a pseudonym.
+
+Be diligent, and if it's questionable, don't say it. You are personally responsible for the social posts, likes and shares, and replies you post on social media while representing GitLab. Everything you publish is publicly viewable and will be available for a long time, even if redacted. Remember that you represent GitLab and our culture. When commenting on posts, please keep in mind: "Don't argue but represent".
+
+## Social Media Policy for Team Members
+
+You'll be asked to confirm reading this section during your onboarding to the company. We'll ask everyone to review and sign off on review in partnership with legal for existing employees.
+
+### Definition of social media
+
+The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, and forums (including the GitLab Forum).
+
+The term "social media" applies to any web-based technology in use now or in the future that enables you to send or receive information and communicate or interact with others. **This policy includes email, texting, private messaging (DMs or direct messages)**. Any website where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
+
+##### As business needs change and GitLab continues on our journey, this policy will be updated. We'll be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
+{:.no_toc}
+
+### GitLab Community Code of Conduct applies to team members as a part of the community
+{:.no_toc}
+
+Please adhere to the [Community Code of Conduct](https://about.gitlab.com/community/contribute/code-of-conduct/), as we would require all members of the community.
+
+##### Social Media sometimes generates press and media attention or legal questions. Please refer all inquires to the Communications Team in the #external-comms Slack channel.
+{:.no_toc}
+
+### What you should do
+<details>
+  <summary markdown='span'>
+   Do disclose that you're a team member
+  </summary>
+If you talk about work-related matters within your job responsibility area, you must disclose your affiliation with GitLab. If you have a vested interest in something you're posting on social, point it out. You can identify yourself as a team member in your profile bio, list GitLab as your employer, or mention that you're a team member in the post itself. Consider adding #LifeAtGitLab to the end of your social post to sum it up quickly and easily.
+</details>
+
+<details>
+  <summary markdown='span'>
+    Do state that it's your opinion
+  </summary>
+When commenting <b>on</b> the business, you're not commenting <b>for</b> the business. Unless authorized to speak on behalf of GitLab and through comms training. However, don't add your opinion to content from a news source that includes financial figures or forecasts. If you would like to share content that includes financial figures or a forecast, please only share it without adding your commentary. Not sure if you should share? Ask in the #safe Slack channel.
+</details>
+
+<details>
+  <summary markdown='span'>
+    Do protect yourself
+  </summary>
+Consider what information you're sharing online and how it can be used to identify you. Everyone has a different level of privacy they want to abide by, have you thought about yours? Some of the things folks opt-out of to protect their privacy include: not tagging specific locations in posts while you're still on-site, not including phone numbers or email addresses in plain text because bots sweep for contact info, and not showing the faces of their children on public channels. You aren't required to follow any of these specifics, but consider what kind of information will be available to the public when publishing on your social media profiles.
+</details>
+
+<details>
+  <summary markdown='span'>
+    Do act responsibly and ethically
+  </summary>
+Don't misrepresent yourself. If you're not a director in your role, don't say you are. Don't imply that you're a member of a team if you're not. Share your thoughts, but disclose your role. Furthermore, <a href="https://about.gitlab.com/community/contribute/code-of-conduct/">our team members are bound by the same code of conduct we provide to the community</a>. 
+</details>
+
+<details>
+  <summary markdown='span'>
+    Do try to live our values
+  </summary>
+Easier said than done, but consider our values when engaging online. The same space and respect we grant each other is needed with strangers on social media.
+</details>
+
+### It's your job to protect GitLab, our customers, and our team members 
+Whether you're an intern or our CEO, protecting the GitLab brand, the company, and our entire team is a part of your job description.
+
+##### You can protect GitLab by not sharing the following data with the public on your social media profiles.
+
+<details>
+  <summary markdown='span'>
+    Don't speculate or add forward-looking statements
+  </summary>
+
+<ul>
+<li>Forward-looking statements predict, project, or use future events as expectations or possibilities. Team Members mustn't speculate or add forward-looking statements to their opinions written on social media. Forward-looking statements could include company valuation, details on customer volume, subscription growth, and more. This would include forecasting, or when data is presented to argue for or against future trends. Sometimes an article from a news source will use speculative information in their story. While this is okay to share, it is not okay to share your commentary with speculative information. Not sure if it's public? Ask in the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page</a>.</li>
+<li><b>Some language idicators that you're talking about forward-looking statements would be using one of the following words: “will,” “may,” “should,” “expects,” “intends,” “plans,” “aims,” “anticipates,” “believes,” “estimates,” “predicts,” “potential,” "looking to," or “continue,”.</b></li>
+</ul>
+
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't share customer or Team Member personal information
+  </summary>
+<ul>
+<li>Never share personal information about our customers or fellow team members. If you'd like to share info about a customer, ask about public disclosure in the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page</a>. For team members, allow them to own the decision on what is and isn't public about them.
+
+<li>Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law.</li> 
+
+<li>The rules in GitLab’s Team Member Handbook including but not limited to its Equal Employment Opportunity, Non-Harassment/Non-Discrimination, Non-Harassment, Sexual Harassment, Code of Business Conduct and Ethics, Standards of Conduct, and Electronic Resources policies apply to employee behavior within social media and in public online spaces.</li>
+</ul>
+
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't bash competitors
+  </summary>
+While sharing your opinion is a critical part of being authentic on social media, it's equally important to limit overly negative responses to competitor posts. We don't like trolls, and neither do our competitors. Providing constructive feedback is read very differently than trolling. Trolling occurs when you respond to social media posts with intentionally provocative or offensive messages. 
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't share legal information
+  </summary>
+Never share anything to do with a legal issue, legal case, or attorneys without first checking with legal in the #legal Slack channel. Note, that if you're looking to connect on whether or not you should publicly disclose legal issues, the answer is probably a no.
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't share confidential information
+  </summary>
+<ul>
+<li>Don't share information that is considered personal or GitLab proprietary confidential. If it's related to work in an issue, consider reviewing whether or not the issue was made confidential. It is inappropriate to use or disclose confidential personal information about another individual or use or disclose GitLab’s proprietary confidential information in any form of social media.</li> 
+
+<li>Confidential personal information refers to information that could be used to commit identity theft such as an individual's Social Security Number, financial account numbers, driver’s license number or personal medical information (including family medical history).</li> 
+
+<li>GitLab’s proprietary confidential information refers to internal information regarding GitLab’s finances, future business performance and business plans, business and brand strategies and information which is or relates to GitLab’s trade secrets.</li> 
+</ul>
+
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't use or manipulate images, videos, or logos without permission from the copyright holder
+  </summary>
+<ul>
+<li>While GitLab generally allows (and encourages) our team to use our Tanuki logo, it's not the same thing when you use a 3rd party logo. Logos from our competitors, partners, and others cannot be used or manipulated without the copyright holder's explicit permission.</li> 
+
+<li>Team Members must respect and follow all copyright and other intellectual property laws and should use citations and links to original material, where possible. Citations are easily included in channels like blogs and not easy on channels like Twitter. Consider making sure the citation shows up in your social post copy, and if not possible, add a comment or another post as a thread to identify your sources.</li> 
+
+<li>If you're not sure what's permissible, reach out to the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page.</a></li> 
+</ul>
+
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't use social media, blogs, or other digital channels for GitLab-related communications with other team members
+  </summary>
+<ul>
+<li>While GitLab is a transparent company, we like to keep negative feedback 1:1. Team members should not discuss work-related situations in public forums. For all communications that can be public-facing, please use issues and epics and mark them as not confidential.</li> 
+</ul>
+
+</details>
+
+### Examples of what you should, and are encouraged, to share on social media
+- GitLab [blogs](https://about.gitlab.com/blog/) and [press releases](https://about.gitlab.com/press/releases/)
+- Positive news media that mentions GitLab
+- Industry reports that are publicly available and are ungated
+- Videos from either our [brand](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) or [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube Channels
+- Third-party articles that don’t bash competitors (mentioning them or comparing GitLab and competitors is fine)
+- Retweeting or sharing GitLab brand social channel posts from [Twitter](https://twitter.com/gitlab), [LinkedIn](https://www.linkedin.com/company/gitlab-com/), [Facebook](https://www.facebook.com/gitlab/), or [Instagram](https://www.instagram.com/gitlab/)
+- All of the above from our eco and alliance partners
+- Items that are not connected to your job or GitLab at all! Social Media is best when you bring your true-self to the mix. DevOps isn't the only thing you're interested in, so consider posting about other passions and topics.
+
+[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/)
+
+
+### Connecting with Team Members on Social Media
+
+In case you want to connect with fellow team members of GitLab on social media, you have to keep it professional. With this communication, we would like you to consider GitLab’s [Communication Guidelines](/handbook/communication/) at all times. Aligned with our [Anti-Harassment Policy](/handbook/anti-harassment/), it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times.
+
+### Mimicking the brand or unauthorized social media accounts
+
+Please keep your identity clear on your social media channels by not using the GitLab logo as your profile image, not adding GitLab to your @handle, and not adding the company to your display names. It should be clear to everyone that you are a team member of GitLab, but not GitLab the company. Use common sense when selecting pictures and names to use. We'll always work to get profile names and visuals updated to reflect who runs the account, but if we come across profiles that don't respond to these requests, we will report them for impersonating our brand. 
+
+As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
+
+### Contests or sweepstakes on your social media profiles
+
+As part of your role at GitLab, you may be responsible for a contest or a sweepstakes with social media elements. It's important to follow legal guidelines. Essentially, as a representative of GitLab, if you're promoting the contest on your social media channels, it will need to follow the same rules as what the GitLab brand channels will need to follow. You can [learn more about legal and contests in the handbook here](https://about.gitlab.com/handbook/legal/marketing-collaboration/#contests-and-sweepstakes).
+
+### Follow website terms of use
+
+Most social media websites/services have rules concerning the use of and activity conducted on their sites. These are sometimes referred to as “Terms of Use.” Team Members must follow the established terms and conditions of use that have been established by the website, social media network, or channel and not do anything that would violate those rules.
+
+## Ramifications of not following the social media policy
+
+If the company finds any statements or claims that are false or misleading, or we discover an activity that does not follow the policy, we will contact you to correct the situation. 
+
+If you are consistently disregarding the social media policy, especially if you fail to disclose your relationship to GitLab, make false or misleading statements about GitLab or our products and services, GitLab retains the right to discipline (up to termination of employment), or cut ties with anyone that does not comply with this policy.
+
+## Conflicts with local laws
+
+In the event there is any conflict between this social media policy and local laws and/or regulations for your region, the local laws and/or regulations prevail over our policy and must be followed. However, if the conflict is simply because of practice or customs varying between regions, our social media policy must still be followed.
+
+Any conduct which is impermissible under the law if expressed in any other form or forum is also impermissible if expressed through social media.
+
+See section below for location-specific details that are necessary to review.
+
+## Transform this policy into action with a social media training and certification
+
+Take this policy and turn it into a social media certification in less than 45 minutes with the [social media 101 training and certification](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification). You'll find details on the training and what to expect [here](https://about.gitlab.com/handbook/marketing/corporate-marketing/corporate-communications-resourses-trainings/#social-media-101-training--certification).
+
+## Location-specific social media policy details
+
+### United States
+
+Confidential proprietary information does not include information lawfully acquired by non-management employees about wages, hours or other terms and conditions of employment, if used for purposes protected by Section 7 of the National Labor Relations Act such as joining or forming a union, engaging in collective bargaining, or engaging in other concerted activity for their mutual aid or protection.
+
+GitLab will not enforce the social media policy in a manner that would interfere with team members' rights under the National Labor Relations Act to discuss the terms and conditions of employment.
+
+### United Kingdom
+
+You may not use data obtained in the course of your employment with GitLab in any way which breaches the provisions of the Data Protection Act 1998.
+
+## Team member social media guidelines
