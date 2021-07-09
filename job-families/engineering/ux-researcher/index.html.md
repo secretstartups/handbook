@@ -35,7 +35,7 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 * Able to conduct research in a fully remote setting.
 
 * Able to use GitLab.
-
+* Experience working on enterprise and/or developer tooling products.
 * Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 
 * Experience with workflows and tooling used by engineering, design, and product teams
