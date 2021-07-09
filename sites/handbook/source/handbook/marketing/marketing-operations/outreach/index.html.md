@@ -146,7 +146,7 @@ If you are having issues with your Outreach calls, please use the following guid
 - [Call Connection](https://support.outreach.io/hc/en-us/articles/360056028093-Troubleshooting-Call-Connection-Issues) issues (Call dropping, not connecting)
 - [Call Audio](https://support.outreach.io/hc/en-us/articles/360056030433-Troubleshooting-Call-Audio-Issues) issues (1-way, no, or robotic/choppy audio)
 
-If the issue persists after , please contact [Outreach Support](https://support.outreach.io/hc/en-us/articles/support.outreach.io).
+If the issue persists after , please contact [Outreach Support](https://support.outreach.io/hc/en-us/).
 
 #### Outreach Meetings for SDR Team
 
