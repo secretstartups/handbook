@@ -201,8 +201,6 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***TMR***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
 1. ***TMR***: Once the conversation is complete, the TMR will stage the severance document in HelloSign for review and signatures.
                                                                 
-
-
 ### Hold for In-Vol Offboarding
 This form is used to help coordinate all necessary stakeholders for an involuntary offboarding. This will allow all stakeholders to be on standby to offboard the team member effeciently to prevent any possible security threats. 
 
@@ -212,6 +210,13 @@ This form is located in the Offboarding Channel shortcuts.
 - **Time of Offboarding PST**  
 - Location
 - Anything else we should know 
+
+## Last Minute Offboardings
+1. **People Operations** (Experience & Specialists): If the offboarding is requested on the same day as the termination date, ensure the time of the offboarding creation on the spreadsheet is after the time submitted. You may need to adjust it to ensure the automation picks up the entry. For example: An offboarding form is submitted at 5:00 pm PST - the offboarding creation time should be no earlier than 5:00pm PST. 
+1. Terminate the team member in BambooHR 
+1. Fill in Exit Impact 
+1. Intiate the Okta import 
+   -Okta entitlements are driven based on BambooHR status. Therefore to remove the user in Okta, the best way to set off that workflow is to force an Import from BambooHR into Okta. To do this, log into the Okta dashboard and select Admin in the upper-right hand side of the page. Once on the Okta Admin dashboard, select Applications, search and select BambooHR Admin, go to the Import tab and click the Import Now button. This will force an import, and you should see a message that a user has been removed after processing completes. (This will not be the case if the team member is placed on Garden Leave).
 
 ## Critical Points During Offboarding Call
 {: #offboarding-points}
