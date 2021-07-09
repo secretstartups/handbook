@@ -209,7 +209,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > 
 > 1. It helps create a shared understanding of your work between you and our interviewers ahead of the first interview. 
 > 1. It allows us to ask more informed questions about your experience and work during the interview process. 
-> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A.  > This interview exercise provides you with an opportunity to experience this style of work.  
+> 1. Generally, we [avoid using meetings as a means to present](https://about.gitlab.com/handbook/communication/#common-meeting-problems). Instead, we record presentations, upload to our Unfiltered Youtube channel, and use a meeting as a Q&A. This interview exercise provides you with an opportunity to experience this style of work.  
 > 
 > ### Presentation Topics
 > 
