@@ -1041,13 +1041,11 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
 
 Public Sector opportunities have specific requirements that fall outside of the standard opportunity booking process.
 
-A copy of the Distributor PO to GitLab and a copy of the Distributor Quote to the Reseller must be attached to the opportunity. The Account Manager or ISR will confirm that all details on the PO and Reseller Quote are correct before creating the quote.
-1. The Distributor PO should be signed.
+A copy of the Distributor PO to GitLab must be attached to the opportunity. The Account Manager or ISR will confirm that all details on the PO match the Quote before submitting the Opportunity for approval. 
+1. The Distributor PO should be signed. 
 2. Period of Performance (POP) dates should align with the existing subscription (if applicable).
-3. The Distributor PO should reference the Quote Number of the Reseller Quote.
-4. The Reseller Quote End User must match the Account entity on the opportunity.
-5. The Distributor Sold To contact must match the contact used on the Quote Object of the opportunity.
-6. POs from Distributors are not required to reference GitLab's quote number on the PO.
+3. The Distributor PO DOES NOT NEED TO REFERENCE THE GITLAB QUOTE NUMBER. 
+5. The Distributor Sold To contact must match the contact used on the Quote Object of the opportunity. The Sold To Contact can be Listed at the top of the PO **OR** in the Additional Information Section. ISRs will confirm the correct Sold To if necessary. 
 7. Distributor's have pre approved Payement terms and do not require additional approval provided the PO does not deviate from standard contract terms.
 
 After the ISR or Account manager confirms the Distributor PO is correct, a quote object will be created on the opportunity to match the Distributor PO to GitLab.
