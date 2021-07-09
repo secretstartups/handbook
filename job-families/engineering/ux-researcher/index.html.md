@@ -144,6 +144,46 @@ The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/comp
 
 * Lead and mentor other Researchers.
 
+### Principal
+
+The Principal UX Researcher reports to the Director of User Experience Research.
+
+#### Principal Job Grade
+
+The Principal UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Responsibilities
+- Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
+
+- Personally initiate and conduct meaningful research that spans across sections vs. stage groups, to build foundational knowledge of GitLab. Research should consist of a mix of problem validation, foundational research, and strategic research projects. When possible, include other Researchers to participate in these projects.
+
+- Know GitLab: understand the technology, experiences, and features of the GitLab product. Maintain a thorough knowledge of the direction and vision at the stage and company level.
+
+- Know GitLab users: develop a deep empathic understanding of GitLab users in various contexts, learn about their needs, and identify gaps. Emphasis on GitLab users who use multiple sections.
+
+- Business acumen: consider business goals when approaching research projects to ensure there's alignment and maximum applicable insights.
+
+- Effectively prioritize your overall research efforts. Align with section Directors, VPs, and C-level executives while considering impact, type of research, the broader product vision, and company objectives.
+
+- Demonstrate thought leadership by delivering six strategic research projects per year to showcase.
+
+- Deliver impactful research that informs decisions across our product lifecycle.
+
+- Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
+
+- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
+
+- Respond to solution validation user research inquiries that are escalated by Product Design.
+
+- Identify research training needs for the UX and Product Departments.
+
+- Actively contribute to the UX Research team culture, processes, and documentation.
+
+- Actively seek out difficult impediments to our efficiency as a team (process, tooling, etc), and propose and implement solutions that will enable the entire team to work more efficiently.
+
+- Lead and mentor other Researchers.
+
+
 ## Performance indicators
 
 * [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability)
