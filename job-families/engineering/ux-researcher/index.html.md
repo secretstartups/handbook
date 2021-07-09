@@ -14,20 +14,21 @@ At GitLab, UX Researchers collaborate with our Product Designers, Product Manage
 
 * Conduct all stages of UX research: identifying, planning, driving, conducting, analyzing, and reporting out insights.
 
-
-## Requirements
-
 * Communicate out statuses and updates of project work to stakeholders
 
 * Use a wide variety of qualitative and quantitative research methods to apply to research questions.
+
+* Share research insights in creative ways to increase empathy.
+
+
+## Requirements
+
 
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
 
 * Passionate about and effective at mentoring others.
 
 * Produce research insights that result in impact.
-
-* Share research insights in creative ways to increase empathy.
 
 * Empathetic, curious and open-minded.
 
