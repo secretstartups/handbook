@@ -213,7 +213,7 @@ Candidates for this position can expect the hiring process to follow the order b
 > ### Presentation Topics
 > 
 > 1. An introduction: who you are, where you're based, your background, and why you're a UX Researcher.
-> 1. An overview of one *or* two research studies. We want to understand; the size, discipline make-up, and structure of the team you were a part of; the goals of the project; how you approached research;  what you personally did on the project, how you synthesized research data to inform product and design decisions; the final output of your research; the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
+> 1. An overview of one *or* two research studies. We want to understand: the size, discipline make-up, and structure of the team you were a part of; the goals of the project; how you approached research;  what you personally did on the project, how you synthesized research data to inform product and design decisions; the final output of your research; the challenges you faced throughout the project; and the meaningful business impact that the research resulted in. 
 >
 > ### What we're looking for 
 > 
