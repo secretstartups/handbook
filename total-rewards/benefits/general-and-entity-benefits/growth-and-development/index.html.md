@@ -36,11 +36,17 @@ Examples of requests that may be denied:
 
 ### How to Apply For Growth and Development Benefits
 
+**For all Growth and Development Benefit applications**
+1. Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
+1. Following the discussion, managers must send the following email to the applying team member to be uploaded along with their G&D benefit application: `I approve [team member name]'s application for the GitLab Growth and Development benefit for participation in the [course name/learning opportunity details]`
+1. After this email is recieved, the applying team member must download this email and upload it to their Employee Uploads folder in the Documents tab of their BambooHR profile.
+1. Once uploaded, complete the following application form depending on the cost of the learning opportunity:
+
 **For Growth & Development Benefits that cost under $1,000 USD**
-We encourage you to seek verbal approval from your manager before you sign up to anything. If the cost is $1,000 USD or less, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). If the cost is $0, and there are no associated expenses, for example a free virtual conference, you do not need to fill out the form.
+If the cost is $1,000 USD or less, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
 
 **For Growth & Development Benefits that cost over $1,000 USD**
-Once your manager has verbally approved your plan, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards or Learning & Development will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
+If the cost is greater than $1,000 USD, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards or Learning & Development will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
 
 #### Reimbursement 
 Reimbursements above $1,000 USD will be paid via payroll in the following pay cycle after you have completed the program and meet any extra eligibility requirements stated in the table below. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
@@ -155,14 +161,6 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 
 **An important note:** As you are planning your professional development for the calendar year, please keep in mind the cost of this training program ($295 per license). If you have already exceeded your G&D budget or plan to later in the year, you could elect to pay for this license out of pocket, or plan to take the training next year.
 
-#### Tax Implications for Tuition Reimbursement by Country
-
-In some countries, the Growth and Development Benefit may be considered as taxable income and can be (partially) exempted from personal income taxes or subject to employer withholding taxes.
-
-For example, in the United States 2021 tax year, if GitLab pays over [$5,250 for educational benefits for you during the year, you must generally pay tax on the amount over $5,250](https://www.irs.gov/newsroom/tax-benefits-for-education-information-center).
-
-Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopleops@gitlab.com) for any tax-related questions in your country.
-
 
 ### Administration of Growth and Development Reimbursements (Over $1,000)
 
@@ -210,7 +208,7 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 
 ### Processing Steps for G&D Benefit
 
-The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. Please note that the following steps are performed by the L&D team every Tuesday and Friday.
+The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. Please note that the following steps are performed by the L&D team every Tuesday and Friday. The L&D team can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
 
 Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
 
@@ -271,16 +269,7 @@ Subject: `Growth and Development Benefit Form`
 
 Text: 
 
-```
-Hi [Application Name]
-
-Thanks for filling out the Growth & Development form. Just letting you know your agreement has now been staged for signatures. I'll let you know once it's been signed by all parties. If you have any questions, please let us know.
-
-Kind regards,
-
-[Sender Name]
-
-```
+`Hi [Application Name], Thanks for filling out the Growth & Development form. Just letting you know your agreement has now been staged for signatures. I'll let you know once it's been signed by all parties. If you have any questions, please let us know. Kind regards,`
 
 **Signatures Complete Email**
 
@@ -288,31 +277,14 @@ CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Ema
 
 Subject: `Growth and Development Benefit Form`
 
-```
-Hi [Application Name]
+`Hi [Application Name] Your tuition reimbursement form has been signed by all parties. Once you receive your transcript, please forward that to us to initiate the reimbursement process.  If you have any questions, please let us know. Kind regards,`
 
-Your tuition reimbursement form has been signed by all parties. Once you receive your transcript, please forward that to us to initiate the reimbursement process.  If you have any questions, please let us know.
-
-Kind regards,
-
-[Sender Name]
-
-```
 
 **Workshops and Conferences Signatures Complete Email** 
 
 CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
 
-Subject: `Growth and Development Benefit Form
+Subject: `Growth and Development Benefit Form`
 
-```
-Hi [Application Name]
-
-Your tuition reimbursement form has been signed by all parties. Once you have registered for the conference or coaching sessions, please forward proof of attendence/reciept to us to initiate the reimbursement process.  If you have any questions, please let us know.
-
-Kind regards,
-
-[Sender Name]
-
-```
+`Hi [Application Name], Your tuition reimbursement form has been signed by all parties. Once you have registered for the conference or coaching sessions, please forward proof of attendence/reciept to us to initiate the reimbursement process.  If you have any questions, please let us know. Kind regards,`
 
