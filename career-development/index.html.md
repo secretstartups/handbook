@@ -257,7 +257,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click qual:ibeep "/job-families/engineering/backend-engineer/#engineering-productivity";
   click qual:sbeep "/job-families/engineering/backend-engineer/#engineering-productivity";
   click qual:stbeep "/job-families/engineering/backend-engineer/#engineering-productivity";
-  click qual:bemep "/job-families/engineering/backend-engineer/#backend-manager-engineering";
+  click qual:bemep "/job-families/engineering/backend-engineer/#backend-engineering-manager";
   click qual:qem "/job-families/engineering/engineering-management-quality/#quality-engineering-manager";
   click qual:dqe "/job-families/engineering/engineering-management-quality/#director-of-quality-engineering";
   click qual:vpq "/job-families/engineering/engineering-management-quality/#vp-of-quality";
