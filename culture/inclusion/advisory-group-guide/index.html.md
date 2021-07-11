@@ -84,3 +84,16 @@ A GitLab team member who is a member of the Advisory Group should expect to spen
     * Gathering content for a newsletter.
     * Promoting DIB events and initatives 
     * etc. 
+
+### 6 month Goals & Action for the DIB Advisory Group - As of July 2021
+* DIB  in talent acquisition process
+    * **Action**: Partner with TA to review current talent acquisition processes ensuring inclusivity and an overall focus on DIB
+    * **Output**: Provide a report for talent acquisition leadership to review recommended iterations in the overall TA lifecycle 
+* DIB in the onboarding process
+    * **Action**: Partner with all teams involved in Onboarding to review the full process with the lens of enabling inclusivity and creating a sense of belonging for our new   team members. 
+    * **Output**: Provide a report for the teams to view recommended iterations in the overall Onboarding lifecycle inclusive for people with diverse abilities and learning styles/personality types.
+* DIB and our annual DIB Survey Data
+    * **Action**: The DIB Advisory group to review the DIB Survey Data published in July 2021
+    * **Output**: Provide 2 to 3 recommendations to the DIB team of what action they will take on as an Advisory Group for FY22 H2.     
+
+
