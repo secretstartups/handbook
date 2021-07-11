@@ -41,7 +41,7 @@ The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/c
 * [Intermediate](/job-families/engineering/development/backend/intermediate/)
 * [Senior](/job-families/engineering/development/backend/senior/)
 * Staff
-* [Backend Manager, Engineering](/job-families/engineering/backend-engineer/#backend-manager-engineering)
+* [Backend Engineering Manager](/job-families/engineering/backend-engineer/#backend-engineering-manager)
 
 ### Staff
 #### Staff Responsibilities

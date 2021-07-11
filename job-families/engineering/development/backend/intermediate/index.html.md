@@ -49,7 +49,7 @@ Backend Engineers at GitLab work on our product. This includes both the open sou
 * Intermediate
 * [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
 * [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
-* [Backend Manager, Engineering](https://about.gitlab.com/job-families/engineering/backend-engineer/#backend-manager-engineering)
+* [Backend Engineering Manager](https://about.gitlab.com/job-families/engineering/backend-engineer/#backend-engineering-manager)
 
 ## Job Grade
 The Backend Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -62,8 +62,8 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to complete a short written assessment.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule a 90 minute technical interview with either a Backend Engineer or a Backend Hiring Manager
-* Next, candidates will be invited to schedule a 45 minute behavioral interview with a Backend Hiring Manager
+* Next, candidates will be invited to schedule a 90 minute technical interview with either a Backend Engineer or a Backend Engineering Manager
+* Next, candidates will be invited to schedule a 45 minute behavioral interview with an Engineering Manager
 * Candidates will then be invited to schedule a 60 minute interview with a Director of Engineering
 * Successful candidates will subsequently be made an offer.
 

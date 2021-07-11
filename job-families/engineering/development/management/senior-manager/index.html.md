@@ -74,9 +74,9 @@ The  Senior Manager, Engineering is a [grade 9](/handbook/total-rewards/compensa
 
 ```mermaid
   graph LR;
-  manager:backend(Backend Manager, Engineering)
-  manager:frontend(Frontend Manager, Engineering)
-  manager:fullstack(Fullstack Manager, Engineering)
+  manager:backend(Backend Engineering Manager)
+  manager:frontend(Frontend Engineering Manager)
+  manager:fullstack(Fullstack Engineering Manager)
 
   %% engineer:distinguished(Distinguished Engineer)
   manager:senior(Senior Manager, Engineering)

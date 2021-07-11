@@ -1,12 +1,12 @@
 ---
 layout: job_family_page
-title: Backend Manager, Engineering
+title: Backend Engineering Manager
 ---
 
-The Backend Manager, Engineering specializes in Backend Engineering Management as a manager of people. Managers in Engineering at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
+The Backend Engineering Manager specializes in Backend Engineering Management as a manager of people. Managers in Engineering at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
 
 ## Job Grade
-The Backend Manager, Engineering role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 * Help your engineers grow their skills and experience
@@ -47,7 +47,7 @@ The Backend Manager, Engineering role is a [grade 8](/handbook/total-rewards/com
 * [Intermediate](https://about.gitlab.com/job-families/engineering/backend-engineer/#intermediate-backend-engineer)
 * [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
 * [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
-* Backend Manager, Engineering
+* Backend Engineering Manager
 
 ## Performance Indicators
 Backend Engineering Managers have the following job-family performance indicators.
