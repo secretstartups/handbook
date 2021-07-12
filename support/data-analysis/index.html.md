@@ -82,4 +82,34 @@ Here are the time segments in tabular form:
 
 ## Metrics
 
-None documented yet.
+### Customer wait time
+
+"Customer Wait Time" is one of the [Support Department's KPIs](../performance-indicators/#customer-wait-times)
+and is defined as the total amount of time the ticket spends in the "Open" and
+"New" states over a ticket's life cycle.
+
+* DRI: Ilia Kosenko ([@Ikosenko](https://gitlab.com/Ikosenko))
+
+In Zendesk Explore, Customer Wait Time can be calculated using:
+
+```
+VALUE(Requester wait time (hrs)) - VALUE(On-hold time (hrs))
+```
+
+`Requester wait time (hrs)` is used instead of `Requester wait time - Business hours (hrs)`
+because of the following reasons:
+
+* While business hours does not count time elapsed on weekends, it also does not
+  count time elapsed outside of a Preferred Region for Support's business hours.
+* To align with Time to Resolution measurement, which does not use business
+  hours for the same reason above.
+
+Additionally, the median is used for reporting the Customer Wait Time KPI as
+this smooths over the extra time captured over weekends by using `Requester wait time (hrs)`
+instead of `Requester wait time - Business hours (hrs)`.
+
+We have chosen to exclude the "On-Hold" state from this metric as our view is
+that, when used properly, the Support team member handling the ticket would have
+agreed with the customer when a next update is to be expected. This means that
+the customer is not waiting without knowing when the next reply would come, and
+should not be considered as unnecessary wait time.
