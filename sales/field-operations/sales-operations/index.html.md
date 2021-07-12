@@ -30,6 +30,7 @@ Sales Operations main focus is on the Sales organization and supports this group
 
 ## **Meet the Team**
 
+- James Harrison - Senior Director, Sales Operations
 - Lindsay Schoenfeld - Senior Manager, Sales Operations
 - Amber Stahn - Manager, Sales Operations
 - Tav Scott - Sales Operations Manager, Commercial Sales

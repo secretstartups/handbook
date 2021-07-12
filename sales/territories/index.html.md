@@ -73,7 +73,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales |Inside Sales Rep |
 | ---------- | ---- | -------------- | ----- | ----- |
 |	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	| David Fisher
-|	NA East	|	East	|	Large-AMER-East-Named-2	|	TBH 	| David Fisher
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	Adam Olson_Acting RD 	| David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	| David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector | David Fisher
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher
