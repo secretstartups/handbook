@@ -51,7 +51,7 @@ Our team ensures the availability of these applications and integrations through
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analyst</a>
   <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
-  <a href="/job-families/finance/finance-systems-administrator" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
+  <a href="/handbook/business-technology/enterprise-applications/financeops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
   <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
 </div>
 
