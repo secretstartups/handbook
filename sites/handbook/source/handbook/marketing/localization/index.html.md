@@ -71,7 +71,7 @@ Internal reviewers for these languages that will review via Smartling:
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
 | Japanese | @toshitakaito, @emorita, @yuki_murakami, @Tea_Tatsuki |
 | Korean | @taehohyun, @iyoo |
-| French | @pgascouvaillancourt |
+| French | @pgascouvaillancourt, @sahbabou |
 | Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla |
 | Spanish (LATAM) | @lisvinueza, @jaime, @ricardoamarilla |
 | Italian | @agulina |
