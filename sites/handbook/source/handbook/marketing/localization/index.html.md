@@ -69,7 +69,7 @@ Internal reviewers for these languages that will review via Smartling:
 | -------- | --------- |
 | German | @KSetschin, @lmertensmeyer |
 | Russian | @KSetschin, @V_Rusin, @dzalbo, @igor.drozdov |
-| Japanese | @toshitakaito, @emorita, @yuki_murakami, @Tea_Tatsuki |
+| Japanese | @toshitakaito, @emorita, @yuki_murakami, @Tea_Tatsuki, @mueda1 |
 | Korean | @taehohyun, @iyoo |
 | French | @pgascouvaillancourt, @sahbabou |
 | Portuguese (Brazilian) | @lvieiradossantos, @ricardoamarilla |
@@ -106,8 +106,8 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 | -------- | --- |
 | VCC | Suri Patel |
 | CI | TBD|
-| DevSecOps | Val Silverthorne |
-| Simplify DevOps/DevOps platform | Val Silverthorne |
+| DevSecOps | TBD |
+| Simplify DevOps/DevOps platform | TBD |
 | GitOps | Suri Patel |
 | CD | TBD |
 | Agile | Suri Patel |
