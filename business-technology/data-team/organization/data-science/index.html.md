@@ -41,7 +41,7 @@ Data Scientists follow [Cross-Industry standard process for data mining (CRISP-D
 
 ### Business Understanding 
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs] (https://about.gitlab.com/company/okrs/) and company's value - [Iteration] (https://about.gitlab.com/handbook/values/#iteration)
+First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration] (https://about.gitlab.com/handbook/values/#iteration)
 
 ### Data Understanding 
 
