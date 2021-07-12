@@ -195,8 +195,7 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-07-05 | 2021-07-09 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
-| 2021-07-12 | 2021-07-13 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
+| 2021-07-12 | 2021-07-16 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
 | 2021-07-19 | 2021-07-23 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
 | 2021-07-26 | 2021-07-30 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
 | 2021-08-02 | 2021-08-06 | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director |
