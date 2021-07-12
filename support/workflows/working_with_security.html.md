@@ -33,19 +33,18 @@ same caution as any other suspicious email:
 
 Please _do not_ transfer to security and refer to the relevant workflow for the following:
 
-
-      * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
-      * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
-      * [DMCA Requests](/handbook/dmca/) - Reporters should forward notice to dmca@gitlab.com. 
-      * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
+  * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
+  * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
+  * [DMCA Requests](/handbook/support/workflows/dmca.html) - Reporters should forward notice to dmca@gitlab.com. 
+  * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
 
 For the following, transfer to Security:
 
-      * Reports of phishing or malicious content, regardless of hosting source. Keywords:
-       - malware/malicious
-       - Phish
-       - campaign
-       - Sender claims to be a security related employee at a non-associated company.
+  * Reports of phishing or malicious content, regardless of hosting source. Keywords:
+    - malware/malicious
+    - Phish
+    - campaign
+    - Sender claims to be a security related employee at a non-associated company.
 
 ### Risk and Field Security Team
 
@@ -56,7 +55,7 @@ For the following, transfer to Security:
 ### SIRT 
 
 - [Security Incidents](/handbook/engineering/security/#engaging-the-security-on-call) 
-- [Other](/handbook/engineering/security/#sirt---security-incident-response-team))
+- [Other](/handbook/engineering/security/#sirt---security-incident-response-team)
 
 ### Identifying Issues for Transfer to Support
 
