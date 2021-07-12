@@ -215,7 +215,7 @@ _Note: To stay in compliance with local laws we would follow [the New Zealand go
 
 ### Sick Leave
 
-Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Team members in New Zealand are entitled to 5 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least five days’ sick leave. If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
+Team members in New Zealand are eligible to take paid time off according to our [PTO policy](https://about.gitlab.com/handbook/paid-time-off/). Team members in New Zealand are entitled to 10 days' sick leave after six months’ current continuous employment with GitLab. For each 12-month period after meeting the above criteria, each team member gets at least ten days’ sick leave. If in any year the team member doesn’t meet the criteria, then they don’t get any new sick leave entitlement, but can use their sick leave balance which may have carried over. An employee may re-qualify for sick leave as soon as they meet the criteria.  The maximum amount of sick leave that can be accumulated under the Holidays Act 2003 is 20 days.
 
 * Sick Leave runs concurrently with GitLab PTO. Team members must designate any time off for illness as `Out Sick` in PTO by Roots to ensure that sick leave entitlement is properly tracked.
 
