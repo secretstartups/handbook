@@ -91,7 +91,11 @@ Automatically generated based on the total word count. Anything under 5,000 word
 
 ## Using Smartling 
 
-Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the [integration type](#projects) and know what type of document format you are translating.
+Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the [integration type](#projects) and know what type of document format you are translating. You also need to consider the appriopriate workflow for your translation. Below are the options for workflows:
+
+1. **SMARTLING - TRANSLATION + EDITING**: This workflow will put your asset through translation and once the translation is ready, it will publish the asset. There is no internal review on this workflow.
+1. **SMARTLING LANGUAGE SERVICES (WITH IR)**: This workflow is the default for all languages. After the asset is translated, it will go to an internal review step to be performed by one of our internal reviewrs. They will review and if happy with the translated, publish the asset. Please check [here](https://about.gitlab.com/handbook/marketing/localization/#process-for-requesting-a-review-via-smartling) for our list of internal reviewers and how to notify them of a job.
+1. **DTP**: This workflow will send your asset to a designer in Smartling and they will format your assets. Before going to DTP, it will be reviewed by an internal reviewer. Please see [below](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files) for more information on this process.
 
 **Field Marketing use of Smartling**
 
