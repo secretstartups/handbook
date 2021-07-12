@@ -16,7 +16,7 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 ### Responsibilities
 
 * Hire, manage, and support a world-class team of Technical Writers.
-* Promote a results-driven approach and work-life balance by helping to balance assignments across the team when workloads are uneven, manage conflicting priorities, and prevent over-resourcing.
+* Promote a results-focused approach and work-life balance by helping to balance assignments across the team when workloads are uneven, manage conflicting priorities, and prevent over-resourcing.
 * Make sure Technical Writers effectively prioritize high-priority feature release work with other content, experience, and process improvements.
 * Help Technical Writers refine their writing skills by spot-checking content and providing editorial feedback.
 * Encourage efficient collaboration by defining processes that align with the rest of the product teams, are consistent and efficient, and use GitLab capabilities (like labels) to power process flows and metrics.
@@ -30,8 +30,8 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 * Previous experience using Git is a hard requirement for this role.
 * Proven experience in managing, mentoring, and training teams of Technical Writers.
 * Experience working on production-level documentation.
-* Self-motivated and strong organizational skills.
-* Strong written and spoken communication skills.
+* Self-motivated and robust organizational skills.
+* Substantial written and spoken communication skills.
 * Familiarity with Static Site Generators, HTML, CSS.
 * Experience with workflows and tooling used by engineering, operations, and product teams.
 * Familiarity with Continuous Integration, Containers, Kubernetes, and project management software a plus.
@@ -89,8 +89,8 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 
 * Experience working on production-level documentation.
 * Proven experience in managing, mentoring, and training teams of Technical Writers and Technical Writing Managers.
-* Self-motivated and strong organizational skills.
-* Strong written and spoken communication skills.
+* Self-motivated and robust organizational skills.
+* Substantial written and spoken communication skills.
 * Familiarity with Static Site Generators, HTML, CSS.
 * Able to use GitLab.
 * Experience with workflows and tooling used by engineering, operations, and product teams.
@@ -115,9 +115,9 @@ The Senior Manager, Technical Writing is a [grade 9](/handbook/total-rewards/com
 
 * Screening call with a recruiter.
 * Interview with Technical Writer. The interviewer will spend time learning about the experiences and challenges you've had as a manager, along with the documentation-related tooling you are comfortable with, and how you've addressed various content usability considerations.
-* Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a strong impact on the user experience, and specific examples of large content initiatives.
+* Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a substantial impact on the user experience, and specific examples of large content initiatives.
 * Interview with VP of UX. The interviewer will spend time learning about the experience you have as a manager, what types of teams you have led, your management style, how you define strategy, your approach to content usability and improvement, how you've handled difficult situations, and how you've helped mentor technical writers. Be prepared to talk about your work and technical abilities, too.
-* Interview with a VP of Engineering. The ointerviewer will spend time learning about your leadership experience, management style, and why you want to join GitLab.
+* Interview with a VP of Engineering. The interviewer will spend time learning about your leadership experience, management style, and why you want to join GitLab.
 
 ## Director, Technical Writing
 
@@ -150,8 +150,8 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 
 * Experience working on production-level documentation.
 
-* Self-motivated and strong organizational skills.
-* Strong written and spoken communication skills.
+* Self-motivated and robust organizational skills.
+* Substantial written and spoken communication skills.
 * Familiarity with Static Site Generators, HTML, CSS.
 * Able to use GitLab.
 * Experience with workflows and tooling used by engineering, operations, and product teams.
@@ -174,7 +174,7 @@ The Director, Technical Writing is a [grade 10](/handbook/total-rewards/compensa
 
 * Screening call with a recruiter.
 * Interview with Technical Writer. The interviewer will spend time learning about the experiences and challenges you've had as a manager, along with the documentation-related tooling you are comfortable with, and how you've addressed various content usability considerations.
-* Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a strong impact on the user experience, and specific examples of large content initiatives.
+* Interview with Technical Writing Manager. The interviewer will spend time learning how you think about a tech writing team within an organization, ways of ensuring the team is well-positioned to produce content that has a substantial impact on the user experience, and specific examples of large content initiatives.
 * Interview with VP of UX. The interviewer will spend time learning about the experience you have as a manager, what types of teams you have led, your management style, how you define strategy, your approach to content usability and improvement, how you've handled difficult situations, and how you've helped mentor technical writers. Be prepared to talk about your work and technical abilities, too.
 * Interview with the VP of Engineering. The interviewer will spend time learning about your leadership experience, management style, and what is driving you to want to join GitLab.
 
