@@ -506,6 +506,7 @@ Project SmartCards are used to collect URL project submissions from users. Use c
 1. Choose the `Content Type` to indicate what kind of project will be submitted. `Other` is an option if your project doesn't fit one of the offered project types
 1. Click `Create` to save your SmartCard.
 1. It's important to note that as the **author** you will not see the option to submit a project. You can test out the user view by asking a team member to look at the card. You can see the behavior of project cards from the non-author perspective in the [training video](https://youtu.be/lM-bxY8wN9U) displayed above.
+1. Project cards are not marked as `complete` until the submission is graded. Using the Lock and Leap function in combination with Project Cards will hault the user at the incomplete Project Card until their submission is graded.
 
 
 #### Using iframes and the Rich Text Editor (RTE) EdCast feature
