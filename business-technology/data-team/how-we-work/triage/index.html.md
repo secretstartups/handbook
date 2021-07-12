@@ -65,7 +65,7 @@ Parts of triage are assisted by the [GitLab Triage Bot](https://gitlab.com/gitla
 Changes to the triage bot policy file should be tested in the MR by running the "dry-run:triage" CI job and inspecting the log output.  This CI job is a dry-run, meaning it will not actually take any actions in the project but will print out what would happen if the policy was actually executed.
 
 ### GitLab.com DB structure changes
-1 of the most important data source, that reguarlly changes, is the GitLab.com database. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database, is made to the `db/structure\.sql` file. The Data Team gets notified, by applying labels to the MR, if a change to the `db/structure\.sql` is made, via the Danger Bot. 
+1 of the most important data source, that regularly changes, is the GitLab.com database. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database, is made to the db/structure\.sql file. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made, via the Danger Bot. 
 
 A label `Data Warehouse::Impact Check` is added by the Danger Bot as call to action for the data team. 
 - On triage, the Triager will [check](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?scope=all&state=opened&label_name[]=Data%20Warehouse%3A%3AImpact%20Check) for MRs with label `Data Warehouse::Impact Check`.
@@ -86,11 +86,12 @@ Determination matrix **.
 | ------ | ------ |
 | New table created | :x: |
 | Table deleted | :white_check_mark: |
+| Table renamed | :white_check_mark: | 
 | Field added | :x: |
 | Field removed | :white_check_mark: |
 | Field name altered | :white_check_mark: |
-| Field datatype altered | :white_check_mark: |
-| Constraints change | :question: |
+| Field datatype altered | :question:|
+| Constraints changed | :question: |
 
 *We are not loading all the tables and columns by default. Thus if new tables or columns are added, we only will load these tables if there is a specific business request. Any change to the current structure that causes a potential break of operation needs to be determined. 
 
