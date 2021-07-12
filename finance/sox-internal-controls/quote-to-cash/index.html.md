@@ -936,7 +936,7 @@ Customers can make payment through credit card, cheque and bank transfer. Paymen
 
    - In the customer’s account page in Zuora, check the box [“Support Hold”](https://docs.google.com/document/d/1ahjMhYc9mZ5p_1w7aIu20oms4WJ1PCGEoGcQmr0SIIo/edit) under the Finance information section.
 
-   - Send an email to support@gitlab.com with the customer information - Account name, Account number, Invoice number, Due date, Days overdue, Balance, Entity, Support hold status, Comments stating when the reminder mails were sent.
+   - Contact us via [support.gitlab.com](https://support.gitlab.com/) with the customer information - Account name, Account number, Invoice number, Due date, Days overdue, Balance, Entity, Support hold status, Comments stating when the reminder mails were sent.
 
 - **Credit hold for overdue payments**
 
@@ -1217,6 +1217,3 @@ In case the system does not automatically provision the purchase/upgrade, or due
 * Step 5: Click on “[save changes](https://docs.google.com/document/d/1qKa9m4FUe_TnfgqZCahPEPE9VkQKCERIP6pa0e1q0kA/edit)” to complete the change.
 
 ***Controls being implemented: QTC.C.50, QTC.C.51 & QTC.C.52***
-
-
-
