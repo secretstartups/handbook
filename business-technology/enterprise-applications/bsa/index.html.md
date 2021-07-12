@@ -19,7 +19,7 @@ We are on a mission to **improve the efficiency of GitLab by designing and imple
 {: .alert .alert-gitlab-orange}
 
 ## Who Are We?
-We are a global team of six, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/).
+We are a global team of six, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/). To meet the team, check out our intro video below!
 
 **Barbara Roncato - Business Systems Analyst**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
@@ -165,7 +165,7 @@ The team follows GitLab meeting practices and standards.
 - All agendas are stored in the BSA Meeting Notes [shared drive](https://drive.google.com/drive/folders/1maD_xGpiIgd_ZENN5pxj110S-xZ6hjjk).
 
 ### No-Meetings Fridays
-While we can't promise we'll never have meetings on Fridays, the team has adopted [No Meetings Fridays](/handbook/communication/#no-meetings-fridays).
+While we can't promise we'll never have meetings on Fridays, the team has adopted [No Meetings Fridays](/handbook/communication/#no-meetings-fridays), and uses these days for focus work.
 
 ### Recurring Meetings
 
