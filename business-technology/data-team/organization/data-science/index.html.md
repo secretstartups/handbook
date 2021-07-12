@@ -61,7 +61,7 @@ In this phase, performance of model is measured (if required in Business Underst
 
 ### Deployment 
 
-Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First] (https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
+Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
 
 
 # Success Criteria 
