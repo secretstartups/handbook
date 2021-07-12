@@ -5,7 +5,7 @@ extra_js:
 - libs/mermaid.min.js
 ---
 
-Managers in Engineering at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. A Senior Manager, Engineering will manage both [Frontend Managers, Engineering](/job-families/engineering/development/frontend/manager/) and [Backend Managers, Engineering](/job-families/engineering/development/backend/manager/).
+Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. A Senior Manager, Engineering will manage both [Frontend Managers, Engineering](/job-families/engineering/development/frontend/manager/) and [Backend Managers, Engineering](/job-families/engineering/development/backend/manager/).
 
 ## Responsibilities
 
@@ -74,9 +74,9 @@ The  Senior Manager, Engineering is a [grade 9](/handbook/total-rewards/compensa
 
 ```mermaid
   graph LR;
-  manager:backend(Backend Manager, Engineering)
-  manager:frontend(Frontend Manager, Engineering)
-  manager:fullstack(Fullstack Manager, Engineering)
+  manager:backend(Backend Engineering Manager)
+  manager:frontend(Frontend Engineering Manager)
+  manager:fullstack(Fullstack Engineering Manager)
 
   %% engineer:distinguished(Distinguished Engineer)
   manager:senior(Senior Manager, Engineering)

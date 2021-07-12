@@ -41,7 +41,7 @@ The Senior Backend Engineer is a [grade 7](/handbook/total-rewards/compensation/
 * [Intermediate](/job-families/engineering/development/backend/intermediate/)
 * Senior
 * [Staff](/job-families/engineering/development/backend/staff/)
-* [Backend Manager, Engineering](/job-families/engineering/backend-engineer/#backend-manager-engineering)
+* [Backend Engineering Manager](/job-families/engineering/backend-engineer/#backend-engineering-manager)
 
 ### Senior
 #### Senior Responsibilities

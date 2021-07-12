@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Engineering Leadership"
 ---
 
-The Engineering Leadership becomes a cross-discipline management. For example, a Senior Manager, Engineering will manage both [Frontend Engineering Managers](/job-families/engineering/frontend-engineering-manager/) and [Backend Engineering Managers](/job-families/engineering/backend-engineer/#backend-manager-engineering).
+The Engineering Leadership becomes a cross-discipline management. For example, a Senior Manager, Engineering will manage both [Frontend Engineering Managers](/job-families/engineering/frontend-engineering-manager/) and [Backend Engineering Managers](/job-families/engineering/backend-engineer/#backend-engineering-manager).
 
 ## Levels
 
@@ -17,7 +17,7 @@ The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensa
 
 #### Senior Manager, Development Responsibilities
 
-* Extends that of the [Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/) and the [Backend Manager, Engineering](/job-families/engineering/development/backend/manager) responsibilities
+* Extends that of the [Frontend Engineering Manager](/job-families/engineering/development/frontend/manager/) and the [Backend Engineering Manager](/job-families/engineering/development/backend/manager) responsibilities
 - Manage up to six engineering teams
 - Conduct managerial interviews for candidates, and train engineering managers to do said interviews
 - Generate and implement process improvements, especially cross-team processes
@@ -26,7 +26,7 @@ The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensa
 
 #### Senior Manager, Development Requirements
 
-* Extends that of the [Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/) and the [Backend Manager, Engineering](/job-families/engineering/development/backend/manager) requirements
+* Extends that of the [Frontend Engineering Manager](/job-families/engineering/development/frontend/manager/) and the [Backend Engineering Manager](/job-families/engineering/development/backend/manager) requirements
 - Technical credibility: Past experience as a product engineer and leading teams thereof
 - Management credibility: Past experience (3 to 5 years) as an engineering manager
 - Ability to understand, communicate and improve the quality of multiple teams
@@ -234,7 +234,7 @@ For more details on the engineering career ladders, please review the [engineeri
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
-* Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering, Backend
+* Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 * Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 * Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
 * Next, candidates will be invited to schedule a 45 minute fourth interview with a member of the Product team
@@ -280,7 +280,7 @@ The Chief Technology Officer is a [grade 12](/handbook/total-rewards/compensatio
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
 
 * Selected candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/#screening-call) with one of our Technical Recruiters
-* Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering, Backend
+* Next, candidates will be invited to schedule a 60 minute first interview with a Director of Engineering
 * Next, candidates will be invited to schedule a 45 minute second peer interview with an Engineering Manager
 * Next, candidates will be invited to schedule a 45 minute third interview with another member of the Engineering team
 * Next, candidates will be invited to schedule a 45 minute fourth interview with a member of the Product team
