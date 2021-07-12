@@ -15,11 +15,11 @@ title: "Business Systems Analysts"
 
 ## Welcome to the BSA Handbook!
 
-We are on a mission to **Improve the Efficiency of GitLab by Designing and Implementing Scalable Business Solutions.**
+We are on a mission to **improve the efficiency of GitLab by designing and implementing scalable Business Solutions.**
 {: .alert .alert-gitlab-orange}
 
 ## Who Are We?
-We are a global team of four, focused on designing, delivering, and maintaining high quality business systems solutions by applying project management methodology. To learn more about our job function, visit our [job families page](https://about.gitlab.com/job-families/finance/business-system-analyst/).
+We are a global team of six, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/).
 
 **Barbara Roncato - Business Systems Analyst**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
@@ -39,11 +39,6 @@ Slack handle: `@kayokocooper` <br>
 Location:  Duluth, GA, USA  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
-**Kayoko Cooper - Business Systems Analyst**  
-GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
-Slack handle: `@kayokocooper` <br>
-Job Description: [Business Systems Analyst](/job-families/finance/business-system-analyst/#business-systems-analyst)
-
 **Lis Vinueza - Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
@@ -62,25 +57,25 @@ Linkedin Profile: [/mark-quitevis-b314b968](https://www.linkedin.com/in/mark-qui
 
 
 ## What Do We Do?
-Being business process first, means that the Business Systems Analysts will firm up requirements, use cases and process flows as we implement systems, enhance them or deliver fixes. In a project, the BSA will assist with Business Process Mapping, gap analysis, project scoping, planning, and scheduling.
-The Business Systems Analysts are also skilled to manage implementations by working closely with cross-functional business and vendor teams to implement Enterprise Applications that are coming on board. They follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently.
+Being business process first, we focus on requirements, use cases and process flows in order to help implement new systems, enhance existing processes or deliver fixes. On a project, our role includes requirements documentation, business process mapping, gap analysis, project scoping, timeline planning, and scheduling.
+We also manage relationships by working closely with cross-functional business and vendor teams to implement new enterprise applications that are coming on board. In doing so, we follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently.
 
 ### System Implementations
-We often assist on the roll-out of new applications and systems. This involves vendor evaluations, current state documentation. In the past, we have worked on implementations of:
+We often assist on the roll-out of new applications and systems. This involves vendor evaluations, current state documentation. A few systems we have recently implemented are:
 * Coupa
 * DocuSign
 * Zuora Revenue
 
 ### Business Process Enhancements
-We partner closely with business stakeholders to help them improve existing business processes and help to design new ones.
+We partner closely with business stakeholders to help them improve existing business processes or help to design new ones. This involves identifying points of failure, inefficiencies and manual work in our stakeholder's activities that could be improved through automation or other tools. We also intake change requests from stakeholders that require smaller systems improvements.
 
 ### Bug Fixes
 We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected.
 
 ## How Can You Contact Us?
-Slack Channel: `#enterprise-apps`    
-Slack Tag: `@bsa`   
-GitLab: You can also tag the Business Systems Analysts Team in GitLab using `@gitlab-com/business-technology/enterprise-apps/bsa`
+**Slack Channel:** `#enterprise-apps`    
+**Slack Tag:** `@bsa`   
+**GitLab:** You can also tag the Business Systems Analysts Team in GitLab using `@gitlab-com/business-technology/enterprise-apps/bsa`
 
 ## How We Work
 EntApps works to ensure GitLab’s Order-to-Cash (OTC) lifecycle is as efficient as possible, supporting our internal business teams and applications involved throughout the OTC process. This includes working with teams such as Sales, Sales Ops, Billing, Procurement and Finance to understand and build solutions for their business problems. To do this, we partner with other technical teams and application owners within the OTC process, such as Engineering and Sales Systems. 
