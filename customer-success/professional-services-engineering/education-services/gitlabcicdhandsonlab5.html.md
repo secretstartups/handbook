@@ -13,7 +13,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CI-CD Hands On Demo** project.
 1. Open the `ci-variables` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
-1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the **Edit** button. Paste the snippet at the end of the file.
 1. Near the top of your `.gitlab-ci.yml`, just below the entire `stages` section, paste the following:
     ```yml
     variables: 
@@ -25,7 +25,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
       INLINE_LOCAL_VARIABLE: "I'm an inline variable set at the job level of the CI/CD configuration file"
     ```
 
-    Indentation matters when working with YAML files. The variable `INLINE_GLOBAL_VARIABLE` can be referred anywhere in a `.yml` file or within any jobs triggered by this file. To give a variable global scope, define it immediately under a `variables` keyword that is in the leftmost column of the file, and indent it. It must also be defined outside of any job definitions. In contrast, the variable `INLINE_LOCAL_VARIABLE` is defined on a line under a `variables` keyword, which itself is on a line under a job definition, and indented.
+    Indentation matters when working with YAML files. The variable `INLINE_GLOBAL_VARIABLE` can be referred anywhere in a `.yml` file or within any jobs triggered by this file. To give a variable global scope, define it immediately under a `variables` keyword that is in the leftmost column of the file, and indent it. It must also be defined outside of any job definitions. In contrast, the variable `INLINE_LOCAL_VARIABLE` is defined on a line under a `variables` keyword which itself is on a line under a job definition, and indented.
 
 1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `master`, and click **Commit changes**.
 
@@ -38,8 +38,8 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Type `I'm a variable set at the group level` in the **Value** dialog box.
 1. Leave all other options at their defaults and click **Add variable**.  
 1. Navigate to your project by clicking **My Test Group - \<USERNAME\>** in the breadcrumbs at the top of the page, and then clicking on your project.
-1. Repeat steps 2 to 6, entering `project_level_variable` in **Key** field and `I'm a variable set at the project level` in the **Value** field. 
-1. Setting variables does not trigger a pipeline run, so click **CI/CD > Pipelines** in the left navigation pane, click the green **Run Pipeline** button, and click the second green **Run Pipeline** button.
+1. Repeat steps 2 to 6, entering `project_level_variable` in the **Key** field and `I'm a variable set at the project level` in the **Value** field. 
+1. Setting variables does not trigger a pipeline run, so click **CI/CD > Pipelines** in the left navigation pane, click the **Run Pipeline** button, and click the second **Run Pipeline** button.
 1. Click on the widget for the `environment variables` job and verify your work.
 
 ## Suggestions?
