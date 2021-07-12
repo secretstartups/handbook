@@ -65,7 +65,7 @@ We elected to use the 28 day period to match Product reporting methods.
 
 The budget is set on the SaaS platform and is shared between stage and infrastructure teams. Service Level Availability calculation methodology is covered in details at [the GitLab.com SLA page][SLA methodology].
 
-This includes all Rails Controllers, API Endpoints and Sidekiq workers that are owned by a stage group. Documentation about feature categoriation is availale in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
+This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other SLIs defined in the service catalog. This is attributed to groups by defining a feature category. Documentation about feature categorisation is available in the [developer guide](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization).
 
 This budget does not take into account the number or complexity of the features owned by a team, existing product priorities, or the team size.
 
