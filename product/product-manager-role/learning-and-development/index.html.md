@@ -52,7 +52,7 @@ The pilot will run during FY22Q3. This gives us two months to prepare by gatheri
 
 Following a retro on the pilot we can decide to continue it in rotations moving forward.
 
-We will be planning the Pilot Program in this [epic]().
+We will be planning the Pilot Program in this [epic](https://gitlab.com/groups/gitlab-com/-/epics/1546).
 
 ## Recommended books and talks for all GitLab product managers
 
