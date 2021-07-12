@@ -3,7 +3,7 @@ layout: job_family_page
 title: VP of Development
 ---
 
-Managers in Engineering at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. A VP of Development unifies and focuses all development for a particular product.
+Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals. Engineering Leadership at GitLab is cross-discipline. A VP of Development unifies and focuses all development for a particular product.
 
 ## Responsibilities
 
