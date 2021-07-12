@@ -51,6 +51,6 @@ TAMs should leverage their Gainsight TAM Portfolio dashboard to open discussion 
 Account teams may choose to include the [Sales Development Representative (SDR)](/job-families/marketing/sales-development-representative/) in their account meetings. The SDR primarily focuses on generating new business so they are not necessarily involved in existing customer accounts, but it may be beneficial to keep everyone informed across the entire account development lifecycle.
 
 To view more information about Account Team Meetings, please refer to the [SALSATAM Page](/handbook/customer-success/account-team/SALSATAM/) 
-## SA-TAM Account Handoff and Overlap
+## AE/SA-TAM Account Handoff and Overlap
 
-When an account moves from pre-sales to post-sales, it is [handed off from the Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition).
+When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition).
