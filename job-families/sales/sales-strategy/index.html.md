@@ -107,7 +107,7 @@ The Sales Strategy Senior Manager is a [grade 10](/handbook/total-rewards/compen
 
 ### Senior Director, Sales Strategy
 
-The Senior Director, Sales Strategy reports to the [VP, Field Operations](/sales/vp-of-field-operations/).
+The Senior Director, Sales Strategy reports to the [VP, Field Operations](/job-families/sales/vp-of-field-operations/).
 
 #### Senior Director, Sales Strategy Job Grade 
 
