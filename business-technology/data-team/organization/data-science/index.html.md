@@ -37,7 +37,7 @@ Additionally, the **Data Science Team** supports the following responsibilities
 
 # Projects structure 
 
-Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)] (https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
+Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
 ### Business Understanding 
 
