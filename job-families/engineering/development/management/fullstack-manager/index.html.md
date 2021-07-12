@@ -1,13 +1,13 @@
 ---
 layout: job_family_page
-title: Fullstack Manager, Engineering
-description: "The Fullstack Manager, Engineering specializes in Engineering Management as a manager of people."
+title: Fullstack Engineering Manager
+description: "The Fullstack Engineering Manager specializes in Engineering Management as a manager of people."
 ---
 
-The Fullstack Manager, Engineering specializes in Engineering Management as a manager of people. Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
+The Fullstack Engineering Manager specializes in Engineering Management as a manager of people. Engineering Managers at GitLab see their team as their product. While they are technically credible and know the details of what engineers work on, their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
 
 ## Job Grade
-The *Fullstack Manager, Engineering* role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 * Manage a [combined team](https://about.gitlab.com/handbook/engineering/#fullstack-teams) of engineers.
@@ -52,7 +52,7 @@ The *Fullstack Manager, Engineering* role is a [grade 8](/handbook/total-rewards
 * Senior [Frontend](/job-families/engineering/development/frontend/senior/), 
   [Backend](/job-families/engineering/development/backend/senior/), 
   or [Fullstack](/job-families/engineering/development/fullstack/#job-grade) Engineer
-* Fullstack Manager, Engineering
+* Fullstack Engineering Manager 
 * [Senior Manager, Engineering](/job-families/engineering/development/management/senior-manager/)
 
 
@@ -85,10 +85,10 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 Read more about what a [specialty](/company/team/structure/#specialist) is at GitLab here.
 
-### Fullstack Manager, Engineering (Growth)
+### Fullstack Engineering Manager, Growth
 
 Engineering Managers in the Growth sub-department own the delivery of features and improvements that aim to scale GitLab usage by connecting users to the existing value that GitLab already delivers. 
 The Growth sub-department teams can include fullstack, backend, and frontend engineers and as such engineering managers in Growth are fullstack managers. 
 The Growth sub-department groups are Activation, Adoption, Conversion, Expansion groups, and Product Intelligence. 
-Fullstack Managers, Engineering (Growth) lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics. 
+Fullstack Engineering Managers, Growth lead teams of fullstack engineers that work across the breadth of the GitLab project in order to make the necessary frontend and backend changes to test hypothesis that drive improvement in user metrics. 
 These teams work closely with their counterparts in the Product team to analyze the entire customer journey from acquisition of a customer, to the flow across multiple GitLab features, and even reactivation of lost users.
