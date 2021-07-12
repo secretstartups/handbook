@@ -1042,10 +1042,6 @@ When a GitLab Team Member comes across an ask or material (MR, handbook, etc.) t
 {:.no_toc}
 Enable everybody involved to come to the same conclusion as you. This not only involves [reasoning](#say-why-not-just-what), but also providing, for example: raw data and not just plots; scripts to automate tasks and not just the work they have done; and documenting steps while analyzing a problem. Do your best to make the line of thinking transparent to others, even [if they may disagree](/handbook/leadership/#making-decisions).
 
-##### Accountability
-{:.no_toc}
-Increases accountability when making decisions and difficult choices.
-
 ##### Transparency Competency
 {:#transparency-competency .no_toc}
 [Competencies](/handbook/competencies/) are the Single Source of Truth (SSoT) framework for things we need team members to learn.
