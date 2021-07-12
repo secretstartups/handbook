@@ -19,7 +19,7 @@ We are on a mission to **improve the efficiency of GitLab by designing and imple
 {: .alert .alert-gitlab-orange}
 
 ## Who Are We?
-We are a global team of six, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/). To meet the team, check out our intro video below!
+We are a global team of five, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/). To meet the team, check out our intro video below!
 
 **Barbara Roncato - Business Systems Analyst**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
