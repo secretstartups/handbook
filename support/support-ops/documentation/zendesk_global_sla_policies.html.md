@@ -56,7 +56,7 @@ This requires an exact process, which is detailed via the
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
 | First reply time | 30min | 4hrs | 8hrs | 24hrs |
-| Next reply time | 4hrs | 4hrs | 8hrs | 24hrs |
+| Next reply time | 4hrs | 4hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
 ### [Emergency Support](https://gitlab.zendesk.com/api/v2/slas/policies/125528.json)
