@@ -245,7 +245,7 @@ SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLa
 
 ### Inbound Queue Management
 
-**Zendesk:** Managing incoming requests received through support.gitlab.com, support@gitlab.com and renewals@gitlab.com
+**Zendesk:** Managing incoming requests received through [support.gitlab.com](https://support.gitlab.com/) and [renewals@gitlab.com](mailto:renewals@gitlab.com)
 
 **The goal and focus** of working Zendesk tickets for the SMB team is to help with **upselling** and **renewals**
 
