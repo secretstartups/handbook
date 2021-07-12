@@ -90,7 +90,7 @@ see all the current triggers would be the
 | [Set Schedule to EMEA](https://gitlab.zendesk.com/agent/admin/triggers/360014064819) | Routing Stage | 11 | Active |
 | [Set Schedule to Business hours](https://gitlab.zendesk.com/agent/admin/triggers/360075984900) | Routing Stage | 12 | Active |
 | [Set Schedule to Business hours for Bronze/Starter tickets](https://gitlab.zendesk.com/agent/admin/triggers/360027278900) | Routing Stage | 13 | Active |
-| [Set Schedule to Business hours for Low priority tickets](https://gitlab.zendesk.com/agent/admin/triggers/360027279300) | Routing Stage | 14 | Active |
+| [Set Schedule to Business hours for Low/Medium priority tickets](https://gitlab.zendesk.com/agent/admin/triggers/360027279300) | Routing Stage | 14 | Active |
 | [Set Schedule to Business hours for non-support tickets](https://gitlab.zendesk.com/agent/admin/triggers/360075984860) | Routing Stage | 15 | Active |
 | [Ticket::Priority::Set priority to low](https://gitlab.zendesk.com/agent/admin/triggers/360068247153) | Routing Stage | 16 | Inactive |
 | [Ticket::Priority::Set priority to medium](https://gitlab.zendesk.com/agent/admin/triggers/360068247053) | Routing Stage | 17 | Inactive |
