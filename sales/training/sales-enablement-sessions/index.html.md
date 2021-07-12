@@ -23,8 +23,8 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jul 15  | Q2 FY22 Alliances Update | Mike LeBeau |
-| Jul 22  | *No sessions during the last two weeks of a quarter* |  |
+| Jul 15  | Super Sonics - Field Team AMA  | Leadership Team |
+| Jul 22  | Q2 FY22 Alliances Update | Mike LeBeau |
 | Jul 29  | *No sessions during the last two weeks of a quarter* |  |
 
                                                                                                                                   
