@@ -106,8 +106,8 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 | -------- | --- |
 | VCC | Suri Patel |
 | CI | TBD|
-| DevSecOps | Val Silverthorne |
-| Simplify DevOps/DevOps platform | Val Silverthorne |
+| DevSecOps | TBD |
+| Simplify DevOps/DevOps platform | TBD |
 | GitOps | Suri Patel |
 | CD | TBD |
 | Agile | Suri Patel |
