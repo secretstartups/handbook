@@ -461,7 +461,7 @@ The Total Rewards Analyst will review and initiate payment for all monthly healt
 * Total Rewards will login to each admin platform and pay the bills using the banking information and links found in the 1password note: "Monthly Heath Bills"
 * Total Rewards will then email a detailed breakdown of the amount/department totals to `ap@gitlab.com` for accounting purposes.
 
-## GitLab Inc. United States Leave Policy:
+## GitLab Inc. United States Leave Policy
 
 Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencies/whd/fmla), US team members are "eligible to take job-protected leave for specified family and medical reasons with continuation of group health insurance coverage under the same terms and conditions as if the team member had not taken leave." For more information on what defines an eligible team member and medical reason please visit the [Electronic Code of Federal Regulation](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&sid=d178a2522c85f1f401ed3f3740984fed&rgn=div5&view=text&node=29:3.1.1.3.54&idno=29#sp29.3.825.b) for the most up to date data.
 
@@ -487,6 +487,33 @@ For maternity leave, GitLab will verify 100% of the wages are paid for eligible 
 
 GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset. 
 
+## State-Specific Allowed Leaves
+
+Each US state varies when it comes to types of leave employers are required to allow employees to take. GitLab's [Paid Time Off policy](/handbook/paid-time-off/) policy of "no ask, must tell" takes precendence but we still want our US team members to be aware of their specific types of leave in their state. 
+
+| Leave Type                              | State or City/Region |
+|-----------------------------------------|-------|
+| Bereavement Leave                       | IL, OR, WA (Tacoma)  |
+| Blood/Bone Marrow/Organ Donation Leave  | AR, CA, CT, HI, IL, LA, ME, MD, MN, NE, NJ, NY, OR, SC, WI |
+| Court Attendance/Witness Leave          | CA, CT, DC, FL, GA, HI, IL, IN, IA, KY, MD, MA, MN, MO, NV, ND, OH, OR, PA, RI, TX, UT, VT, VI, WI, WY |
+| Crime Victims' Leave                    | AL, AK, AZ, AR, CA, CO, CT, DE, MD, MA, MI, MN, MS, MO, MT, NH, NY, OH, OR, PA, RI, SC, VT, VA, WY |
+| Domestic/Sexual Violence Victims' Leave | AZ, AR, CA, CO, CT, DC, FL, HI, IL, IA, KS, ME, MD, MA, MI, MN, NV, NJ, NM, NY, NC, OR, PA, RI, TX, VT, VA, WA |
+| Drinking and Driving Class Leave        | IA      |
+| Drug/alcohol Rehabilitation Leave       | CA      |
+| Election Officials' Leave               | AL, CA, DE, IL, KY, MN, NE, NC, OH, VA, WI  |
+| Emancipation Day Leave                  | DC      |
+| Emergency Evacuation Leave              | TX      |
+| Legislative/Political Leave             | CT, IA, ME, MN, MT, NV, OK, OR, SD, TX, VT, WV      |
+| Literacy Leave                          | CA      |
+| Mobile Support Unit Leave               | IN      |
+| Paid Family Leave                       | CA, CO, CT, DC, MA, NJ, NY, OR, RI, WA       |
+| Pregnancy Disability Leave              | CA, CT, HI, IA, LA, MN, MT, NH, OR, WA      |
+| Public Health Emergency (Quarantine/Isolation) Leave | AZ, CA (San Diego), CO, DE, IL (Cook Co), MA, MD (Montgomery Co), MI, MN, NJ, NY (Westchester Co & NYC), OR, PA (Pittsburgh), RI, SC, VT, WA  |
+| School Activities/Visitation Leave      | CA, DC, IL, LA, MA, MN, NV, NJ, NC, OR, RI, TN, VT   |
+| Student Leave                           | DC      |
+| Volunteer Emergency Responder Leave     | AL, CA, CO, CT, DE, IL, IN, IA, KS, KY, LA, ME, MD, MA, MO, NE, NV, NH, NJ, NM, NY, NC, ND, OH, OR, PA, RI, SC, TN, UT, WA, WV, WI |
+| Voting Leave                            | AL, AK, AZ, AR, CA, CO, DC, GA, IL, IA, KS, KY, MD, MA, MN, MO, NE, NV, NM, NY, ND, OH, OK, SD, TN, TX, UT, VT, WV, WI, WY   |
+	
 ## COBRA
 
 If you are enrolled in medical, dental, and/or vision when you terminate from GitLab (either voluntarily or involuntarily), you may be eligible to continue your coverage through [COBRA](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf).
