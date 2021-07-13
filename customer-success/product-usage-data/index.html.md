@@ -42,7 +42,7 @@ Understanding a customer's use of the GitLab platform enables GitLab to:
 
 The benefit to GitLab is based on the premise that customers will renew and expand if they realize continuous value with a positive experience and are able to achieve their business outcomes and goals with the platform. Additionally, the data can be used to:
 
-- Provide adoption insights to monitor and manage customer health and experiences
+- Provide adoption insights to monitor and manage customer health and experiences 
 - Measure quality of processes and methods like onboarding, enablement content, and adoption playbooks
 - Leverage customer health to manage account plans and assist planning and forecasting
 - Provide efficiency through automation in both TAM-led and digitally-led engagement throughout the customer journey
