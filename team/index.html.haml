@@ -46,7 +46,7 @@ image_title: /images/team.jpg
       = partial "includes/team/countries"
 
     .row.team-row.team-listing
-      - Gitlab::Homepage.team.members.uniq{ |u| [u.gitlab, u.name]}.sort.each do |member|
+      - Gitlab::Homepage.team.members.uniq{ |u| [u.gitlab, u.name, u.slug]}.sort.each do |member|
         = partial "includes/team/member", locals: { member: member,
                                                     is_pet: false,
                                                     is_remotestory: false,
