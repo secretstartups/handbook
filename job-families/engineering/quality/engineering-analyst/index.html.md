@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Engineering Analyst"
 ---
 
-# Engineering Analyst Roles at GitLab
+# Engineering Analyst
 
 Engineering Analysts at GitLab build and improve on the data capabilities needed to support a highly productive Engineering Division. 
 They work equip Engineering leaders with metric intelligence and actionable performance indicators.
@@ -12,9 +12,9 @@ They closely with GitLab’s Data team to enable new data capabilities that driv
 
 ## Responsibilities
 
-Unless otherwise specified, all Engineering Analyst roles at GitLab share the following requirements and responsibilities:
 
-#### Requirements
+
+## Requirements
 
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with strong organizational skills.
 * Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
@@ -32,12 +32,12 @@ Unless otherwise specified, all Engineering Analyst roles at GitLab share the fo
 * Able to use GitLab.
 * BS degree in Computer Science, Finance, Accounting or Economics
 
-#### Nice to haves
+### Nice to haves
 * Experience in a peak performance organization
 * Enterprise software company experience.
 * Developer platform/tool industry experience.
 
-
+## Levels 
 ### Engineering Analyst
 
 #### Job Grade
@@ -77,3 +77,8 @@ The Senior Engineering Analyst is a [grade 8](/handbook/total-rewards/compensati
 The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staff-engineering-analyst) role.
 
 -  
+
+## Specialties
+
+## Performance Indicators 
+- Engineering Performance Indicator MR Rate 
