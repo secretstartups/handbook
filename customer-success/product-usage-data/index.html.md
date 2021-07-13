@@ -51,6 +51,13 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 ## Use Cases
 *Note: The use cases, approaches, and metrics below include current and planned use cases. The following are some examples of how GitLab may use operational data. Use cases may also be dependent on customer settings or consents the customer has provided to GitLab.* 
 
+#### Identifying Expansion Opportunities
+1. Triggered CTA (call to action) and associated playbook for a TAM when a customer begins to adopt a new use case such as scanning. Often the central DevOps teams are not up to speed on how all of their users are using the platform. These these playbooks will guide the TAM in exploring the expansion with the customer and optimizing for this additional use case across the customer's broader user base.
+
+
+
+
+
 ### Lifecycle Management
 
 ![Lifecycle Management Approach Leverages Operational Data](./images/lifecycle-product-usage.jpeg)
