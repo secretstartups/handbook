@@ -26,6 +26,12 @@ Digital journey content is an extension of our existing documentation and commun
 ### Onboarding
 The email templates will leverage basic onboarding enablement material provided by the Techincal Account Management Commercial segment.  A strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly; as such, some longer materials may need to be adapted to a shorter format for best results.
 
+The Onboarding Quick Guide project template will allow customers to self-service the materials provided from the email templates. The below video provides an overview of how to use the Onboarding Quick Guide project template.
+
+[![GitLab Onboarding Quick Guide](https://i.imgur.com/p3ZPslJ.png
+)](https://youtu.be/I0_VMLNpA_A "GitLab Onboarding Quick Guide")
+
+
 **[>> Onboarding Quick Guide project template](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/onboarding-quick-guide)**
 
 **[>> Email copies for the onboarding series](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing)**
