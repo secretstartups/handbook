@@ -180,7 +180,7 @@ Product Managers are encouraged to engage with contributors and vice-versa to le
 
 ### Managing your Product Direction
 
-The product direction is an important part of each PMs work. PMs are expected to maintain the accuracy of their plan throughout the year through stakeholder conversations and other research. Your product direction is displayed as the [direction](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=direction) labeled issues for your group's categories which are displayed in the Section, Stage, and Category [direction pages of our website](/direction/).
+The product direction is an important part of each PMs work. PMs are expected to maintain the accuracy of their plan throughout the year through stakeholder conversations and other research. Your product direction is displayed as the [direction](https://gitlab.com/groups/gitlab-org/-/labels?utf8=%E2%9C%93&subscribed=&search=direction) labeled issues (and, optionally, epics) for your group's categories which are displayed in the Section, Stage, and Category [direction pages of our website](/direction/).
 
 Around November, we begin the [annual planning cycle](/handbook/finance/financial-planning-and-analysis/#annual-plan), which ties closely into the [overall strategy](/company/strategy/). During this period we update the `direction` label and apply it to issues that have been identified as contributing to the plan that year.
 
@@ -196,7 +196,18 @@ A category upgrade from minimal to viable or delivery of a top customer issue (f
 
 Conversely, in a broad sense anything could move the plan forward in a general way. Product Direction items (i.e., with the label) should be direction-level items that move the strategy forward meaningfully. This is up to the PM to set the bar for, but there should be a clear step forward with real user value.
 
-Finally, issues are the substance of your plan. Epics can receive the label as well, to keep things organized, but we track the delivery of our plan on a per-issue basis. Ensure you are applying the label appropriately.
+Finally, issues are the substance of your plan. Epics can receive the label as well, to keep things organized, but we track the delivery of our plan on a per-issue basis. Ensure you are applying the label appropriately. If you want epics with the `direction` label to appear on your group's [direction pages](/handbook/product/product-processes/#managing-your-product-direction), you must first enable the capbility.
+
+##### Enabling direction epics
+
+[Video walkthrough](https://youtu.be/LU2v76kv8vA)
+* Add your Stage name to the `INCLUDE_EPICS` array in `www-gitlab-com/generators/direction.rb` For example, this is how Secure looks: `INCLUDE_EPICS['secure'] = true`
+* Apply the `Direction` label to appropriate epics.
+* Next time the Marketing component of the handbook builds, any epics will be included in the auto-generated Direction lists. 
+
+**Note:** There may be some delay in Direction epics appearing as the API calls that pull epics and issues for these pages is cached for 24 hours.
+
+You can mix Direction epics and issues or just use one or the other. Epics will appear before issues in any lists.
 
 #### Moving the product direction forward
 
