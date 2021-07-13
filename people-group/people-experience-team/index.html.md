@@ -314,7 +314,7 @@ The People Experience Associate will open the Greenhouse entry to confirm whethe
 
 As admins for 1Password, the People Experience team will get notified when an account recovery is requested by the IT Ops team. We do not need to take any action on these and can safely delete/ignore the email. The IT Ops team will complete the recovery.
 
-### DocuSign
+### Requesting signatures via DocuSign
 
 We use [DocuSign](https://app.docusign.com/home) to request signatures on documents and follow the below process:
 
