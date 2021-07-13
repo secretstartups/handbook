@@ -169,7 +169,9 @@ Moving forward, we will align the annual equity review with our [annual compensa
  
 Promotion grants are based on the differential between the new hire stock options at the new grade minus the new hire stock options at the current grade using the median of the compensation range. The vesting schedule for your new stock option grant will align the date of your promotion.
  
-Formula for number of Promotion Stock Options: `((New Role Median x Equity Percent x 2) - (Current Role Median x Equity Percent x 2)) / Stock Grant Assumption`
+Formula for number of Promotion Stock Options: `(New Hire Stock Options Median at Promoted Level - New Hire Stock Options Median at Previous Level)`
+
+For example, if my current role is Backend Engineer and the median new hire stock option grant for my role, level, and location is 2,000, and I am promoted to Senior Backend Engineer and the median new hire stock option grant for that role, level, and location is 4,000, the calcuation would be: 4,000 options - 2,000 options = 2,000 options. 
  
 ### Potential Value Scenarios
  
