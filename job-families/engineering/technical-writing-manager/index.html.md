@@ -21,7 +21,7 @@ The Technical Writing Manager is a [grade 8](/handbook/total-rewards/compensatio
 * Help Technical Writers refine their writing skills by spot-checking content and providing editorial feedback.
 * Encourage efficient collaboration by defining processes that align with the rest of the product teams, are consistent and efficient, and use GitLab capabilities (like labels) to power process flows and metrics.
 * Create practices that encourage keeping documentation up to date and easily discoverable.
-* Promote and optimize the experience for docs contributions from the GitLab team and the wider GitLab community.
+* Promote and optimize the experience for documentation contributions from the GitLab team and the wider GitLab community.
 * Deliver input on promotions, function changes, demotions, and offboarding in consultation with the other Technical Writing Managers, the Senior Manager, Technical Writing, and the VP of UX.
 
 ### Requirements
