@@ -86,7 +86,8 @@ Here are the time segments in tabular form:
 
 "Customer Wait Time" is one of the [Support Department's KPIs](../performance-indicators/#customer-wait-times)
 and is defined as the total amount of time the ticket spends in the "Open" and
-"New" states over a ticket's life cycle.
+"New" states over a ticket's life cycle. Life cycle time is measured using
+"Total Time To Resolve".
 
 * DRI: Ilia Kosenko ([@Ikosenko](https://gitlab.com/Ikosenko))
 
