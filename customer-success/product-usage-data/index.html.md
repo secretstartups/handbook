@@ -58,7 +58,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 1. Each customer's use case adoption will be measured against a maturity matrix/score, enabling customized enablement roadmaps per use case per customer based on areas of potential improvement
 
 #### Identifying & Mitigating Risk
-1. Triggered alerts in Gainsight to notify a TAM to take action when there are concerning patterns within the month over month usage data.  
+1. Triggered alerts in Gainsight to notify a TAM to take action when there are concerning patterns within the month over month operational data.  
 1. Reporting and alerts when adoption across a use case goes from 'Green' to 'Yellow' or 'Red', indicating potential movement from a team off of the platform
 
 
