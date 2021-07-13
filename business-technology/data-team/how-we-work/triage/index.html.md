@@ -97,6 +97,15 @@ Determination matrix **.
 
 ** Determination matrix is not extensive. Every MR should be checked carefully.  
 
+### GitLab Postgres Database not accessible
+In a scenario when gitlab cloned Postgres database is not accessible then follow the below course of action. 
+
+1. Open an issue using the DE Triage template.
+2. Pause all the gitlab.com DAG named `gitlab_com_data_reconciliation_extract_load` , `gitlab_com_db_extract`,`gitlab_com_db_incremental_backfill`,`gitlab_com_scd_db_sync`.  The reason behind is to keep the alerting down and not use unwanted resources.
+3. Reach out to `@sre-oncall` slack handle to look into the issue. 
+4. Once the issue is resolved or confirmed from the `@sre-oncall` person, unpause all the paused DAG. Check by clearing the status of the failed task to see if the connection has been restored. 
+5. If the DAG has missed the scheduled run, trigger the DAG manually to do the catch-up.
+
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
 We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
