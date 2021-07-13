@@ -40,6 +40,7 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA/S
 | Total ci/cd jobs? (CI/CD jobs will need cut-over even if not migrated) | to-do | 4567 | The engagement could include repointing CI/CD jobs back to a source repository. If this is the case, we will need to know how many jobs need to be reconfigured. |
 | Typical registry size | to-do | 159MB | If registry sizes are unusually big, it could affect the speed of migration. _Note: this question only applies to migrations where gitlab is a source system._ |
 | SSO Identity Provider | to-do | Auth0 | We want to make sure this is already in place prior to migration as it is a foundational to the success of a migration engagement. See here for a [full list of supported Identity Providers](https://docs.gitlab.com/ee/administration/auth/) |
+
 **Notes:**
 1. Source Code Management (SCM) Migrations do not include secrets mediation.
 1. SCM migrations do not include transitioning CI/CD functionality to use GitLab CI.
