@@ -80,6 +80,7 @@ This is useful to check if emails have been delivered successfully from our end,
 1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
     - If email is delayed, respond to the user and ask them to wait.
     - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
+    - If email is marked as `Delivered` and the response code under `delivery-status` is `"code": 250`, this indicates that the user's mail server acknowledged the receipt, and the email delivery was successful. 
 
 #### Removing a Suppression in Mailgun
 
