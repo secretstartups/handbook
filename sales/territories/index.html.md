@@ -278,7 +278,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
 |	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	|
-|	NA West	|	US West	|	MM-AMER-FO-West	|	Rashad Bartholomew	|
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	|
+|	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	|
 |	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|
 |	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	|
 
@@ -339,4 +340,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
-|	AMER	|	US West	|	SMB-AMER-West-FO	|	Todd Lauver	|
+|	AMER	|	US West	|	SMB-AMER-West-FO	|	Da'Neil Olsen	|
