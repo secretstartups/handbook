@@ -53,7 +53,7 @@ If the customer only needs standard services from the service catalog, the SAL/I
 1. Click the drop down box next to the New Quote Flow and select `Add Add on Products`.
 1. In the Professional Services and Training Row, click the drop down that says `Select Plan` to see the current SKU offerings that can be added to the opportunity.
 
-This process will generate a services description document that the SAL/ISR can and should share with the customer without additional approval. The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirms no customizations are needed. Again, can pull in the SA for assistance if needed.
+After following the above process steps, click `Generate PDF` to obtain an Order Form to share with the customer for signature.  The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirm no customizations are needed. Again, they can pull in the SA for assistance if needed.
 
 #### Custom-Scoped Services
 If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
@@ -72,7 +72,7 @@ For custom scoped SOWs, once you receive the SOW from the Sr. Engagement Manager
 #### Closed Won
 Once the services have been rendered and the project is closed, the SAL/ISR should obtain signatures from the customer. The SAL/ISR should move the opportunity to `Closed Won` status
 
-As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the `#professional-services` slack channel given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
+As the agreement approaches `Closed Won`, make sure to request `@ps-scheduling` to  identify a potential start date in the [professional services slack channel](/handbook/customer-success/professional-services-engineering/working-with/#slack) given the [typical lead times for starting a PS engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement).
 
 #### Transitioned to a Partner - Closed Lost
 Remember to update the SFDC Professional Services Opportunity to **"closed lost"** if for any reason after you have created a GitLab Professional Services Opportunity in SFDC the work is transitioned to being sold and delivered by a partner.  Then make sure that any Services Attach Registration that the partner registers for that work is attached to the relevant Licensing Opportunity in SFDC.  Please work with the Channel Account Manager for the partner (found in SFDC account for the partner) if you have any questions about this process.

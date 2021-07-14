@@ -69,12 +69,13 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | Stage Adoption: Configure | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Monitor   | **Yes** | Manual | Success Plan | Stage Adoption | |
 | Stage Adoption: Protect    | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | Stage Adoption | |
+| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
+| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
 | Server Migration - On-Prem to On-Prem    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem to Self-Managed Cloud    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - On-Prem/Cloud to K8S    |**Yes** | Manual | Success Plan | Stage Adoption | |
 | Server Migration - Self-Managed to GitLab SaaS    |**Yes** | Manual | Success Plan | Stage Adoption | |
+| Geo Implementation  |**Yes** | Manual | Success Plan | ROI Success | [Info Sheet](https://docs.google.com/document/d/1Gn93NUWq4RxPvfxJRodEyvb-6-dLqUV6euPV8k9yIvw/edit)<br>[Discovery Questions](https://docs.google.com/document/d/1KgSHHsYFHPB__xA9rlUEbLBRYDlPl6FyKzn1V8I2Wfk/edit)<br>[Implementation Tips&Tricks](https://docs.google.com/document/d/1EhXT-_Wf0GrmDSh2vthca0sl6bWb-1hQruv2lHd4aFs/edit?ts=60356ba2) |
 | Account Triage | **Yes** | Automated | CTA | Risk |      |
 | Low License Utilization | **Yes** | Automated | CTA | Risk |      |
 | Product Risk | **Yes** | Manual | CTA | Risk |      |
@@ -82,7 +83,7 @@ The following playbooks are aligned to our [customer adoption journey](/handbook
 | CI Health Enablement/Expansion Review | **Yes | Automated | CTA | Activity | 
 | Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
 | Customer Offboarding | **Yes** | Automated | CTA | Lifecycle |      |
-| Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)     |
+| Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)<br>(Internal Only Link)     |
 | New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
 | High License Utilization: Growth Opportunity | **Yes** | Automated | CTA | Lifecycle |      |
 | Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |

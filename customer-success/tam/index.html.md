@@ -25,9 +25,11 @@ Aligning passionate TAM's with customers to ensure their success by...
 - [TAM Segments and Associated Metrics](/handbook/customer-success/tam/customer-segments-and-metrics/)
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
+### TAM Learning & Development
+- [Overview of available resources, training plans & career paths](https://about.gitlab.com/handbook/customer-success/tam/tam-development/)
+
 ### TAM Responsibilities
 
-- [TAM Skills Matrix](https://docs.google.com/spreadsheets/d/1_UEke64Qkz8wSyqfr_E9qqeAF6rX77w4vIH84Ckm_ts/edit?usp=sharing) (GitLab Internal)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
@@ -53,10 +55,11 @@ Aligning passionate TAM's with customers to ensure their success by...
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
-- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
-
+- [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
+- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
+- [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation)
 
 
 ##### Digital Journey:
@@ -76,7 +79,7 @@ Aligning passionate TAM's with customers to ensure their success by...
 
 ## What is a Technical Account Manager (TAM)?
 
-GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, Professional Services Engineers and support.
+GitLab's Technical Account Managers serve as trusted advisors to GitLab customers. They offer guidance, planning, and oversight during the technical deployment and implementation process. They fill a unique space in the overall service lifecycle and customer journey and actively bind together sales, solution architects, customer stakeholders, product management, Professional Services Engineers and support.
 
 See the [Technical Account Manager role description](/job-families/sales/technical-account-manager/) for further information.
 

@@ -10,58 +10,50 @@ title: "Customer Digital Journey"
 {:toc .hidden-md .hidden-lg}
 
 
-## Digital Journey 
+## Digital Programs Journey 
 
-The digital journey is designed to enable customers to better self-service the educational and “best practices” consulting that Technical Account Managers (TAMs) provide in the [TAM-Assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment). This material is designed to help speed up time-to-value with GitLab, and to help customers adopt workflows and best practices more quickly in order to deepen their return on investment.
+This page focuses on emails and nurture programs, owned and managed by Customer Programs in Customer Success Operations. These programs are heavily focused on creating integrated “journeys” for key moments in the customer lifecycle. Our digital approach is designed to enable customers to better self-service the educational and “best practices” consulting that Technical Account Managers (TAMs) provide in the [TAM-Assigned segment](/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment).
 
-Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.  The digital journey takes 30 days to complete and is followed by a survey asking for feedback on the series.
+Strategy deck can be found [here](https://docs.google.com/presentation/d/1EsCcVqKYL1WkwFkOZDr6TV_DBJMEvrGy3ErPlJLcfPg/edit?usp=sharing). (_GitLab internal only_)
 
-### Digital Onboarding Program
+### **[ FY22 CS Program Calendar SSoT](https://docs.google.com/spreadsheets/d/12t6619gcr0eeMeHqF4wibDUqoxEkY1_QA-QJOM95Wu0/edit?usp=sharing)**
+## The Content
 
-The following topics are covered through the digital onboarding series:
-1. Onboarding Introduction and Enrollment
-1. Quick Guide Intro and Authentication
-1. Setting Up Group and Project hierarchy
-1. Import/Export
-1. GitLab Instance - Security Best Practices
-1. Monitoring GitLab
-1. Backing Up GitLab
-1. How we guarantee backups (SaaS)
-1. Alternative Backup Strategies
-1. Support information (Self-managed)
-1. Support information (SaaS)
-1. API Intro + Rate limits (Self-managed)
-1. API Intro + Rate limits (SaaS)
-1. Where to get training
+Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.  
 
-The digital onboarding email content in full can be found in a GitLab-only [Google Doc](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing). We also have an [epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65) outlining the digital journey and our goals for it.
+## Email Nurture Programs
 
-The email templates will leverage existing materials as mentioned above to help customers. A strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly; as such, some longer materials may need to be adapted to a shorter format for best results.
+### Onboarding
+The email templates will leverage basic onboarding enablement material provided by the Techincal Account Management Commercial segment.  A strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly; as such, some longer materials may need to be adapted to a shorter format for best results.
 
-### CI Digital Enablement (Verify) Program
+**[>> Onboarding Quick Guide project template](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/onboarding-quick-guide)**
 
-The following topics are covered in the digital enablement series:
-1. An intro to GitLab CI/CD
-1. Let’s install GitLab Runner
-1. Configuring your pipeline
-1. GitLab CI in action
-1. Get started with Prometheus
+**[>> Email copies for the onboarding series](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing)**
 
-The CI Digital Enablement content can be found in a GitLab-only [Google Doc](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing). We also have an [issue](https://gitlab.com/gitlab-com/customer-success/okrs/-/issues/115) describing the CI Digital Journey and what we're working towards.
+**[>> Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65)**
 
-### Roadmap
+### Post Onboarding Survey
+
+**[>> Email copy for post-onboarding survey](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing)**
+
+### CI Enablement (Verify)
+
+**[>> Email copies for the CI (Verify) series](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing)**
+
+## Newsletters
+**[>> Email copy of past and upcoming newsletters](https://docs.google.com/document/d/1Fv8B49E7FSmKDgc6uDQG51p3UAj-OsgwmdPtdAyRKcc/edit?usp=sharing)**
+
+## Roadmap of Epics
 
 - [Customer Programs <5k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/26)
 - [Customer Programs 5k - 20k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/27)
 - [Customer Programs 20k - 50k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/31)
 
-### How To Use
+## How To Use 
 
-Instructions on adding contacts to the digital journey can be found in [the handbook](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/).
+### Adding Contacts into the Digital Programs can be found [HERE](/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/).
 
-TAMs who wish to send Digital Journey emails to their customers can send them via playbooks:
-
-#### CTA with a Playbook
+### CTA with a Playbook
 
 Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM, but they are setup to facilitate reminders and make this process easy, while we learn how customers want to engage. To use a playbook to send emails:
 
@@ -74,9 +66,25 @@ Program emails intended to be sent as a sequence have been added as [playbooks](
 1. Click “Preview and Proceed” to see the fully populated and formatted email before sending.
 1. Then send the email (or save as draft).   
 
-### Requesting a new Journey
+### Requesting a new Digital Program journey
  
-To request new programs or updates, open an issue in the [CS Ops project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) and apply the program request or new program template. Then @mention a Gainsight administrator.
+1. To request new programs or make updates to an existing program, open an issue in the [CS Ops project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) and apply the program request or new program template. Then @mention a Gainsight administrator.
+
+Below is the information from the issue template that will need to be filled out before the program will be created:
+- Goal of this program: please be as specific as possible, how does this tie into OKRs and link to epics when available.
+- Intended Outcome: Requester to determine what metrics (success criteria) apply. Please document the intended outcome and how it will be measured.
+- Requested Launch Date / time
+- Participant Criteria listed OR attach CSV List (reference filtering fields below of criteria)
+- Sender name: Typically we tokenize this to come from either a TAM or AE for most outgoing communication. For a more generic send we use customer_enablement@gitlab.com
+- Sender Email Address: What email address should be used?
+- Provide Final Copy: please use approved copy doc
+
+2. Once the program is created and ready to launch it will be communicated in the issue followed by metrics to demonstrate success / failures. For example:
+- Open rates
+- Click rates
+- Unsubscribes
+- Product analytics
+- Seat utilization
 
 #### Filtering fields
  
@@ -98,3 +106,5 @@ Below are filters (and if they are created automatically or manually by the TAM)
 | High Availability?                | True/false if they're have HA       | Manual            |
 | Technology Stack                  | Multi-select of all tools used by the customer | Manual |
 
+### Methodology 
+To be added

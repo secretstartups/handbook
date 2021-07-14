@@ -10,8 +10,6 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 
 We will use a pre-defined template for NodeJS Express to show how Auto DevOps works.
 
-Resource: [SAST docs](https://docs.gitlab.com/ee/user/application_security/sast/)
-
 ### Create a new Node JS Express project with Auto DevOps
 1. Just like with previous labs, navigate to your group and click **New project**. Click **Create from template** and then click **Use template** next to **NodeJS Express**.
 2. In the **Project name** field, enter `Auto DevOps-test`. Make sure the **Visiblity Level** is **Private**. Click **Create project**.
@@ -25,10 +23,9 @@ Resource: [SAST docs](https://docs.gitlab.com/ee/user/application_security/sast/
 ### Commit a change in order to trigger a pipeline run
 1. In the left pane, click **Repository**.
 2. Switch to the **new-feature** branch by selecting it in the dropdown that currently says **master** near the top left of the window.
-3. To edit a file on this branch, click **Web IDE** near the top right of the window.
 4. Click `views` > `index.pug`.
 5. Click the blue **Edit** button and then modify the last line of `index.pug` to: `p GitLab welcomes you to #{title}` Note: be sure to include the `p` at the beginning of the line.
-6. In the **Commit message** field, type `update welcome message in index.pug`. Click **Commit changes**.
+6. In the **Commit message** field, type `Update welcome message in index.pug`. Click **Commit changes**.
 7. Click the blue **Create merge request** button.
 8. Assign the merge request to yourself.
 9. Add `Draft:`to the beginning of the text in the **Title** field to show that it isn't ready to be merged yet.

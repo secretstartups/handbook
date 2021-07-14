@@ -55,7 +55,7 @@ https://about.gitlab.com/images/press/git-cheat-sheet.pdf).
 
 ### Make a change to a README file
 1. In your terminal/command window, navigate to the directory that contains the `README.md` file.
-2. Using the editor of your choice, add a new line `a second line added to master branch locally` at the end of `README.md`. Save the file.
+2. Using the editor of your choice, add a new line `a second line added to main branch locally` at the end of `README.md`. Save the file.
 - **Developer Tip:** [Visual Studio Code](https://code.visualstudio.com) is the preferred editor of most GitLab users, but any text editor (including Sublime Text, Atom, or vi) will do.
 3. Type `git status` to see if git has noticed that the file has been modified.
 
@@ -78,11 +78,11 @@ Note: Git has detected that we have edited a file in our local repo, but since w
 ### Modify your content again
 1. In your local machine's text editor (not the GitLab.com editor), add a new line to your local copy of `README.md` that says `add a third line to file`, and save the file.
 2. In your terminal/command window, type `git add README.md` to move the edited file to git's staging area.
-3. Type `git commit -m "modified README.md"` to commit the file that was in the staging area.
+3. Type `git commit -m "Modified README.md"` to commit the file that was in the staging area.
 4. Type `git log` to see a description of the commit you just made.
 5. Type `git push` to copy the edited `README.md` to the repo on GitLab.com.
 - **Developer Tip:** To commit your changes to the upstream branch (that is, the branch on the remote server with the same name as the branch on your local machine), simply type `git push`. The system only needs to set the upstream branch once.
-6. Navigate to your GitLab.com project in your browser, switch from **master** to **temporary_branch** using the dropdown under the project's title, and confirm that your local changes were pushed up.
+6. Navigate to your GitLab.com project in your browser, switch from **main** to **temporary_branch** using the dropdown under the project's title, and confirm that your local changes were pushed up.
 
 ### Simulate a change on the remote **temporary_branch**
 In this section, let's simulate someone else in your organization making a change to the copy of **temporary_branch** that lives on GitLab.com. When we're done with this section, the remote and local versions of **temporary_branch** will be different: the code on that branch will have moved under your feet (so to speak)! In the section that follows this one, we'll see how to reconcile this difference.
@@ -108,15 +108,15 @@ You now need to explicitly tell git to update the contents of your local **tempo
 1. In your terminal/command window, type `git pull` and check the output to see how many files it updated locally.
 2. Type `cat README.md` to view the updated contents of the file. You should see the fourth line that you added in the GitLab.com Web IDE.
 
-### Merge all changes from **temporary_branch** into the **master** branch
+### Merge all changes from **temporary_branch** into the **main** branch
 1. In your terminal/command window, type `git branch` to verify which branch you are currently working in. You should already be in **temporary_branch**.
-2. Switch to your **master** branch by typing `git checkout master`
-3. Type `git merge temporary_branch` to incorporate all changes from your local **temporary_branch** (in this case, just the modified `README.md`) into your local **master** branch.
+2. Switch to your **main** branch by typing `git checkout main`
+3. Type `git merge temporary_branch` to incorporate all changes from your local **temporary_branch** (in this case, just the modified `README.md`) into your local **main** branch.
 
 ### Update the remote repository
-1. In your terminal/command window, type `git status` to see that there are no changed files that you need to stage or commit and to confirm that you are on the **master** branch.
-2. Type `git push` to update the remote copy of **master** branch with any changes from your local copy.
-3. Navigate back to GitLab.com and view `README.md` in your project's **master** branch to view the changes.
+1. In your terminal/command window, type `git status` to see that there are no changed files that you need to stage or commit and to confirm that you are on the **main** branch.
+2. Type `git push` to update the remote copy of **main** branch with any changes from your local copy.
+3. Navigate back to GitLab.com and view `README.md` in your project's **main** branch to view the changes.
 
 ### Suggestions?
 

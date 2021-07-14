@@ -26,8 +26,8 @@ include:
 6. Navigate back to the Web IDE where you were editing `.gitlab-ci.yml`.
 7. **Paste the code** just copied below the **test1** section, leaving a blank line between the blocks of code. Ensure the first line of the pasted code is flush-left, and the second line is indented.
 8. Click the blue **Commit...** button.
-9. Add a commit message: `Add SAST to pipeline.`
-10. Click **Commit to `master` branch** instead of creating a new branch.
+9. Add a commit message: `Add SAST to pipeline`
+10. Click **Commit to `master` branch** instead of creating a new branch. The branch may also be named `main`.
 11. Click **Commit**. Now that you have committed this change, the pipeline will run.
 
 Next, let's add a file with a known vulnerability and see if SAST detects it.
@@ -37,7 +37,7 @@ Next, let's add a file with a known vulnerability and see if SAST detects it.
 1. Navigate away from the Web IDE and back to your project overview page repository by clicking the **CI Test** project title on the top left of the window.
 2. Click the `+` icon to the right of the `master` branch name near the top left of the window. Under **This directory**, click **New file**.
 3. Type `main.go` in the **File name** field.
-4. Copy entire file contents from this [snippet](https://gitlab-core.us.gitlabdemo.cloud/training-sample-projects/ps-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/2214) and paste them into your empty `main.go` file.
+4. Copy entire file contents from this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/1) and paste them into your empty `main.go` file.
 5. Click **Commit changes**.
 6. In the left pane, click **Pipelines** in the **CI/CD** section. Click the **running** or **passed** status label next to the top entry in the list of pipelines. Under the **Test** stage, you should see the SAST scan running.
 7. Click the **Security** tab near the middle of the page. In the **Vulnerability** column, click on the `Errors unhandled` vulnerability to learn more about a potential security problem that SAST scanning detected.

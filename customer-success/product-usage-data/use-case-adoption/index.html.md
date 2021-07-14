@@ -4,7 +4,7 @@ title: "Customer Use Case Adoption"
 description: "How we measure a customer's adoption for general GitLab and different use cases"
 ---
 
-To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations/).
+To drive use case enablement and expansion with customers, we need to define exactly what it means to adopt a use case at GitLab. These health measures will appear in the **Product Usage** scorecard section in Gainsight. For more, see the [Gainsight Scorecard Attributes and Calculations](/handbook/customer-success/tam/health-score-triage/#gainsight-scorecard-attributes-and-calculations).
 
 
 ## User Engagement
@@ -50,9 +50,5 @@ Adoption timeline: 1 months after license purchase
 
 |                             | **Product Tier**   | **Red**  | **Yellow** | **Green** |
 | --------------------------- | ------------------ | -------- | ---------- | --------  |
-| SMAU Secure / UMAU          | Ultimate           | <10%     | >=10% AND <40%    |      |
-| SMAU Protect                | Ultimate           | 0        | 1         |      |
-| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | >=10% AND <BR> 1       |       |
-| SMAU Secure / UMAU <BR> SMAU Protect  | Ultimate |           | <40% AND <BR> >=2      | \>=40% AND <BR> >=2      |
+| SMAU Secure / UMAU  | Ultimate | <10%     | >=10% AND <40%  | \>=40%     |
 
-Note: for `SMAU Protect` this is the total number of users, not a percentage like other measures.

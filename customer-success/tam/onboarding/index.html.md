@@ -27,9 +27,7 @@ The onboarding process should begin when the [customer opportunity reaches stage
 
 ### Internal transition
 
-The first part of onboarding is to do a review of the customer with the [account team](/handbook/customer-success/account-team/). The SAL/AE and SA should meet with the TAM to review the Command Plan, what the customer is trying to solve for, and anything else that's relevant for the TAM to know about what motivated the customer to purchase GitLab.
-
-As part of this discussion, the SAL/AE and TAM should [arrange an introduction of the TAM to the customer](#kickoff-call). Since the SAL/AE has the relationship with the customer, they are in the best position to facilitate that introduction and help clarify the role of the TAM.
+The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition). This will ensure the entire account team is clear on the customer's status, and the TAM can be properly introduced to the customer.
 
 ### TAM intro email
 
@@ -41,7 +39,14 @@ The TAM should send the intro email that describes their role and value to the c
 
 The kickoff call is the first conversation between the TAM and the customer. This is when the TAM describes their role to the customer, and starts their own discovery process to fill in details they don't have from the [internal transition](#internal-transition) in order to start an effective engagement and create a [success plan](/handbook/customer-success/tam/success-plans/).
 
-A [kickoff slide deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing) is provided as part of the [onboarding CTA](#cta-content-and-process), to help drive the discussion about the role of the TAM. The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
+A [kickoff slide deck](https://docs.google.com/presentation/d/1JfMfma2IO1OV12QWoNxmIrR0irE7piQP9nUdAjDO2Wk/edit?usp=sharing) is provided as part of the [onboarding CTA](#cta-content-and-process), to help drive the discussion about the role of the TAM. The TAM should review and revise this deck in advance of the kickoff call based on what they already know about the customer, and what they are still looking to understand.
+
+There are several [enablement topics](/handbook/customer-success/tam/digital-journey/#onboarding) that the TAM needs to ensure are covered with the customer.  These topics are added as emails to the Gainsight onboarding playbook and the playbooks & emails are bifurcated into SaaS and Self-Managed.  The appropriate playbook will trigger based on the customer's subscription type. The options a TAM has for covering these topics are as follows:
+
+1. Covered as a set of topics in the kick-off call with the customer being offered the option of each topic being sent over the upcoming few weeks as an email, or covered in upcoming cadence calls. The TAM & customer may also decide certain topics are not of relevance based on the customer's initial use cases. Many of the topics are relevant to the early set-up of the customer's GitLab instance, so long lead times on the customer receiving this enablement will reduce the value of the content.
+1. Sent as emails *prior* to the kick-off call when a TAM is struggling to establish an initial call, or when the lead time to kick-off is greater than 2 weeks.  
+
+It is also recommended to send the emails to multiple customer contacts to ensure the enablement content is received.  As each email covers a separate topic and links out documentation, it is highly encouraged to send the emails versus covering the topics in calls wherever possible. Gainsight enables each email to be edited (via the playbook)before sending, ensuring that a TAM can personalize and make relevant each reach-out. For a short video on how to send the emails from the onboarding playbooks, please see [this video](https://www.youtube.com/watch?v=WgcrqR-qJ5k) (GitLab-only)
 
 One of the most important points of discussion for the kickoff call is [establishing the cadence call](/handbook/customer-success/tam/cadence-calls/). The TAM should have the cadence call schedule determined with the customer by the end of the kickoff call, and a plan for the [first cadence call](#1st-cadence-call-future-growth-discussion--checklist).
 
@@ -77,7 +82,7 @@ The [Time to Value KPIs](/handbook/customer-success/vision/#time-to-value-kpis) 
 
 **Goal:** 14 days
 
-Time to Engage is calculated by taking the days between Salesforce's `Original Contract Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
+Time to Engage is calculated by taking the days between the `Onboarding CTA Start Date` and subtracting the date of the first Timeline call or meeting entry. Example: Original Contract Date is 2020-01-01 and the first call was 2020-01-12, then it would be 11 days.
 
 - Required TAM action: log the first Timeline entry (Call or Meeting)
 
@@ -87,15 +92,15 @@ Time to Engage is calculated by taking the days between Salesforce's `Original C
 
 Time to First Value is calculated by taking the `Original Contract Date` and subtracting `First Value Date`, which is a manual input on the customer's Attributes section of the C360.
 
-If Seat Link is enabled, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Seat Link data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
+If Cloud License data is in Gainsight, the `First Value Date` will be automatically populated by the system when `Known License Utilization` meets or exceeds 10%. If Cloud License data is not available, it is the responsibility of the TAM to manually update the date field based on their best estimate.
 
-- Required TAM action: confirm Seat Link data is in Gainsight, if not, then manually update the `First Value Date`
+- Required TAM action: confirm Cloud License data is in Gainsight, if not, then manually update the `First Value Date`
 
 ### Time to Onboard
 
 **Goal:** 45 days
 
-Time to Onboard is the difference between `Original Contract Date` and the date the Onboarding CTA is closed. For example, the `Original Contract Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
+Time to Onboard is the difference between `Onboarding CTA Start Date` and the date the Onboarding CTA is closed. For example, the `Onboarding CTA Start Date` is 2020-08-15 and the Onboarding CTA was closed on 2020-09-18, the Time to Onboard would be 34 days.
 
 - Required TAM action: Close the Onboarding CTA
 

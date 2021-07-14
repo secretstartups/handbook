@@ -13,11 +13,15 @@ description: "Learn about the GitLab Professional Services operations processes 
 ## Welcome to GitLab Professional Services Operations 
 Professional Services Operations is a collaboration of our consulting, training, schedululing, reporting and backend processes to support the Professional Services team.
 
+___
+
 #### How to contact us
 
-Our Team Slack Channel [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) 
+Our [Team Slack Channels](/handbook/customer-success/professional-services-engineering/working-with/#slack)
 
 The Project Coordinators can be reached by tagging the group `@ps-scheduling`
+
+___
 
 #### Who we are
 
@@ -25,7 +29,30 @@ The Project Coordinators can be reached by tagging the group `@ps-scheduling`
 
 [Wakae McLaurin, our Senior Training Project Coordinator](https://about.gitlab.com/company/team/#wmclaurin) 
 
+___
+
 ## Project Coordination- Consulting
+
+#### Consulting Project Scheduling
+
+[Lead Time for Professional Services Engagement](/handbook/customer-success/professional-services-engineering/working-with/#lead-time-for-starting-a-professional-services-engagement)
+
+[The PS Opportunity has closed, whats next](/handbook/customer-success/professional-services-engineering/working-with/#scheduling-professional-services)
+
+##### Internal Project Scheduling
+
+If a Team Member would like to have time blocked on their schedule to allow time for non-customer project related items, certifications or ramp up,
+a request should be submitted via a comment and tag the PC on either Internal Projects:
+
+- PS Time Tracking Creditable
+- PS Time Tracking Non Creditable
+
+Comment should be added to the activity page to include the following:
+- Task
+- Time Required
+- Priority Level
+
+The PC will review availablity and schedule the time on the Master Planning with an allocation.
 
 #### Consulting Project Assignment
 
@@ -69,7 +96,132 @@ T&M project revenue is forecasted by scheduled soft or hard allocations in the M
 Fixed priced projects are forecasted by the project milestones in the Mavenlink project.  Each milestone has a sign off task, that task is updated with correct sign off date for the activities in the milestone.  Best practice is update the sign off task to give time for the customer to review and obtain acceptance from the customer.
 If there is not confidence that the activities will be complete and the customer will sign off, then the Sign Off task should be moved out to the next quarter.
 
+#### Revenue Sign Off
+
+##### Revenue Release T&M Projects
+
+For T&M projects, revenue is released at each month end. Project hours are submitted weekly via the the time sheet function in Mavenlink.  The PSE or PM submits time against the project, and the Project PM or Lead approves on a weekly basis.  Each month end, the PC pulls a report of all approved time sheets and provides the consolidated report to Finance to review and release the revenue
+
+##### Revenue Release FP Projects
+
+For FP projects, revenue is released when customer acceptance is received or passive acceptance has passed as it pertains to the project SOW language.
+The PM sends out the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+*  Update Sign Off Sent, when email request is sent
+*  Update Sign Off received, when acceptance is received or Passive Acceptance is reached and add the PDF email of acceptance to the Milestone
+*  Update if Passive Acceptance has been utilized for sign off
+
+![fprevenuerelease](./fprevenuerelease.png)
+
 ## Project Coordination- Training
+
+#### Training Planning and Scheduling
+
+1: **Closed Order Notification** - Project Coordinators receive an automated Salesforce.com email notification when an order has closed and the opportunity is in a closed won stage.  The Project Coordinator will review the purchased training documentation in Salesforce by reviewing the Quote Charge Summaries section within the Saleforce opportunity and attachments and update the corresponding Mavenlink project per the [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process. 
+
+2: **GitLab.com Professional Services epics** are used for tracking training-related information and checklist including the following:
+   * Training dates
+   * Class times
+   * Assigned instructor
+   * Teleconferencing set up
+   * Preparation link
+   * Send out customer follow up email with class details
+   * Add attendance roster to Mavenlink
+   * Send out post training email and recording information
+   * Close out the project
+
+**Scenario 1** - If a customized training is purchased, then a GitLab.com Professional Services epic should already exist as part of the scoping process.
+   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
+   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
+   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
+
+**Scenario 2** - If only standard training is purchased, then a GitLab.com Professional Services epic most likely will not already have been created.  Use the [GitLab Services Calculator](https://services-calculator.gitlab.io/) to create an epic.
+   * Enter the customer name, your GitLab handle, and your email address into the GitLab Services Calculator and click the **Create PS Scoping Issue** button.  You should see a message that the pipeline is creating.
+   * After the epic has been created, you should receive an email notification with the link to the Scope Engagement and Write SoW issue.  Go to the _Scope Engagement and Write SoW_ issue and close it.
+   * Go to the epic, and update the training course listing section by removing any courses that were not purchased.  Your remaining list should only include the courses that were purchased.
+   * You will also need to update the epic name to be the same name as the corresponding Mavenlink project name.
+   * Update the Engagement SSOT table and Project Checklist sections based on the opportunity and project details.
+
+3: Contact the Account Sales representative via the Salesforce opportunity Chatter feed to request customer PoC confirmation.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to post your message.
+
+4: **Post-Sales Training Intake Questionnaire** - Use the [template](https://docs.google.com/document/d/15Ame5jLudiX-oztJ3padL-syu5g4yKphK4z8WMkfaNE/edit?usp=sharing) to make a copy of the questionnaire for the customer to complete.  Make sure to save the copy in the correct PMO > Active Projects Google Drive folder.  Update the customer’s training intake questionnaire as necessary and add the customer point of contact to the Google doc with edit rights.
+
+5: **Welcome to PS** - Send the Welcome to PS email to the customer per [template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+
+6: **Training Scheduling** - After receiving customer confirmation and training intake questionnaire feedback, review trainer schedules in Mavenlink and confirm availability.
+   * Propose training dates and times to the customer.
+      * Add soft allocations to the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and to the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing).
+      * Add a placeholder on the Professional Services Training calendar and invite the trainer per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+   * Upon receiving the customer's confirmation of training dates and times, change the soft allocations to hard allocations within the Mavenlink project per [Mavenlink Project Creation](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/#mavenlink-project-creation) process and update the [PS Schedules Google sheet tracker](https://docs.google.com/spreadsheets/d/1RfjXtliiHmZQQB6OqiOBc9s4U3HSbAv4mJu-o2CfnE0/edit?usp=sharing) accordingly.
+      * Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing), and notify the trainer that the customer confirmed the training dates.
+   * **Partner Training Work Authorization** - If you are using a partner to deliver the training, create a draft of the applicable Training Work Authorization form and send to the partner for signature using the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+      * After receiving the signed Training Work Authorization form, save a copy in the partner SFDC account and the Professional Services Partner Google Drive folder.
+      * Update the partner Statement of Work training funds Google sheet tracker to keep track of the training dollars remaining on the Statement of Work.  Notify the Professional Services Education Services Manager when the funds are getting low so a new Statement of Work and procurement issue can be generated for additional funds.
+
+7: **Training Preparation Meeting** - Schedule a training preparation call with the customer and assigned trainers to discuss logistics, training topics, and system requirements.  After confirming the meeting date and time with the customer and trainers, send a meeting invitation to the customer, trainers, and the GitLab account team with the Professional Services Education Services Manager as an optional attendee.
+   * Create a draft of the Training Event Plan notes per the [Training Event Plan template](https://docs.google.com/document/d/1huNauyfhFPvLCuo-9T7Ol3FtBDYowYxiP_T5ItP2FN4/edit?usp=sharing) prior to the meeting and add the trainers to the document with edit rights.  You will update the document during the training planning meeting.
+   * Use the following suggested meeting name when creating the meeting invite.  
+      **GitLab Training Preparation / customer name - course name**
+   * Within the meeting description, add the applicable information per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
+   * Post a message to the trainers in the Mavenlink project to inform them of the customer training preparation meeting confirmation and next steps.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your message.
+   * After the customer call, send a pdf version of the meeting notes to the customer as part of the follow-up email using the [Post-Planning example email template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing) to draft the message.
+   * Save a copy of the customer call notes to the customer Active Projects folder.
+
+8: **Teleconferencing Set Up** - GitLab typically prefers to use Zoom as our primary teleconferencing system.  However, we can set up Webex or MS Teams as an alternative solution based on the training requirements.
+   * If **Zoom** is the preferred teleconferencing system, then the Project Coordinator sets up the Zoom sessions per the [set up instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/). Make sure to add the trainers as alternate hosts for the sessions in order for the trainers to gain host rights for the meeting.
+   * If **Webex** is the preferred teleconferencing system, then the Project Coordinator sets up the Webex sessions per the [set up instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing).  Make sure to add the trainers as attendees for the sessions so they can add the calendar placeholders.  The trainers will need to start the meeting via GitLab's shared account to gain host rights for the meeting.  The training attendees are also typically added to the meeting invite instead of requiring registration.  
+
+9: **Training Calendar Update** - Update the placeholder on the Professional Services Training calendar per the suggested [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) to include the teleconferencing information and notify the trainer.   
+
+10: As you work through the training scheduling and preparation tasks, update the Professional Services GitLab.com epic training checklist.   
+
+#### Training Preparation (T-1 Week)
+One week prior to the class start date, the Project Coordinator will send the following reminders and perform preparation tasks leading up to the training delivery.  
+
+1: **Registration Report** - Run the registration report approximately one week prior to the class start date, and save a copy in the PS PMO Active Project folder.
+   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+
+2: **Customer Reminder** - Send an email to the customer approximately 1 week prior to the class start date as a reminder for the system requirements and attach a copy of the registration report, if applicable.  Use the [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) for your email message to the customer.
+
+3: **Demo Cloud Invitation Code** - Generate invitation code for the upcoming class per [these instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/delivery/#planning-and-delivering-education-services).
+
+4: **Trainer Friendly Reminders** - Post a trainer reminder message per [example template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing) within the Mavenlink project after setting up demo cloud lab invitation code.  Make sure to @ mention the trainer within the post and link the post to the applicable Mavenlink task.
+
+#### Training Preparation (T-1 Day)
+1: **Training Roster** - Run the registration report one day prior to the class start date, and save a copy in the PS PMO Active Project folder.  Also attach a copy of the roster to the Mavenlink project and task by replying to your trainer friendly reminder post; make sure to @ mention the trainer within the post.
+   * **Zoom** - [Registration report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+
+2: Follow up with the trainers and customers if any last minute preparations are required.
+
+#### Training Delivery
+The Project Coordinator will monitor Slack channels and emails in case any last minute triaging is required.
+
+#### Training Close-out
+Upon training delivery completion, the Project Coordinator will perform the following close-out tasks.
+
+1: **Attendance Report** - Run the attendance report, and save a pdf copy in the PS PMO Active Project folder.
+   * **Zoom** - [Attendance report instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+   * **Webex** - [Attendance report instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
+
+2: **Recordings** - If GitLab's teleconferencing system was used for the training, then access the recording links via the instructions below.
+   * **Zoom** - [Recording link instructions](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/remote-training-session-setup/)
+   * **Webex** - [Recording link instructions](https://docs.google.com/document/d/1xk6BIzpDAzF1YxwRLZ-4ZaJScyz3OmG2UsyL6xYfF9U/edit?usp=sharing)
+   * Add the recording link information to the Professional Services GitLab.com epic under the applicable training course checklist task.
+
+3: **Mavenlink Project** - Save a pdf copy of the attendance report to the applicable milestone, and update Mavenlink project per [these instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ps-process/-/issues/36).
+
+4: **Course Slide Deck** - Send a Slack message to the trainer asking if a customized or standard version of the slide deck was used during the training class.
+   * **Customized Slide Deck** - Download a pdf copy of the slide deck from the trainer and save to the Professional Services > PMO > Active Projects Google Drive folder.
+   * **Standard Slide Deck** - Download a pdf copy of the slide deck from the applicable Course Content Packages Google Drive folder, and save a copy to the Professional Services > PMO > Active Projects Google Drive folder.
+
+5: **Customer Post-Training Correspondence** - Send the post-training email with the recording links, course attendance, slide deck, lab guide, survey, and certification assessment information per the [example template](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
+
+6: **GitLab.com Epic** - Update the training checklist as you complete the activities.  After all trainings per the order have been completed for _training-only orders_, go to the GitLab.com epic.  
+   * Close all issues associated with the epic.
+   * Close the epic.
+
+7: **PMO Active Projects Google Drive Folder** - After all trainings per the order have been completed for _training-only orders_, go to the Professional Services > PMO > Active Projects Google Drive folder, and move the customer subfolder to the Professional Services > PMO > Completed Projects Google Drive folder.
+
+___
 
 #### Training Projects Billing Guidelines
 
@@ -92,7 +244,49 @@ Training revenue release is followed dependant on training billing type:
 Training projects are typically considered fixed priced projects and are forecasted by the project milestones in the Mavenlink project.  Each milestone includes tasks for each training course that are used to capture training preparation/planning/closeout and delivery hours.  Each task is updated with the correct due date for the activities in the milestone.  Best practice is to ensure that the task due dates are updated to accurately reflect training completion dates for forecasting purposes.  
 If there is not confidence that the activities will be complete, then the task due date should be moved out to the next quarter.
 
+#### Revenue Release Training Projects
+
+For training projects, revenue is released when training is complete and/or when acceptance is received dependant on the project SOW language.
+If required per the project SOW, the PC sends the request for acceptance to the customer and then updates the Billing/ Revenue Milestone in Mavenlink
+*  Update Sign Off Sent, when training is complete or email request is sent
+*  Update Sign Off received, when training is complete, acceptance is received, or Passive Acceptance is reached and add the class roster or PDF email of acceptance to the Milestone
+*  Update if Passive Acceptance has been utilized for sign off
+
+![trainingrelease](./trainingrelease.png)
+
+___
+
 ## Operations  
+
+#### New Hire 
+
+When there is a new team member on the PS Team.  We have some training and process links to review: 
+
+[New Hire Review](https://docs.google.com/spreadsheets/d/1ejvLWFPdRflzCkIhiDgcfU_B9I01ViPtwxmd30sTsIQ/edit#gid=714939102)
+
+#### Mavenlink Access
+
+To provide Mavenlink access to an internal GitLab team members, provide access by the following:
+* Mavenlink Access
+  * Settings
+  * Members
+  * Invite Account Members
+* Okta-Mavenlink- Users Google Group
+  * Gmail
+  * Gmail Apps
+  * Groups
+  * Okta-Mavenlink- users
+  * Members
+  * Add Members
+ 
+ To provide Mavenlink access to a GitLab partner, provide access by the following:
+* Mavenlink Access
+  * Settings
+  * Members
+  * Invite Account Members
+* Process a GitLab Access Request
+  * Request Okta
+  * Request Mavenlink to be added to Okta
 
 #### Time Tracking 
 
@@ -103,6 +297,7 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
 - If time will be worked over the weekend, time sheet should still be submitted by Friday, EOD, then a new line created on the time sheet for hours worked over the weekend
 - Billable hours represent work hours that a staff member reports as being aligned to a specific SOW. The format for daily time tracking for each team member is shown below, and is reviewed weekly by PS Operations and Manager
 - Hours for PTO, Holidays and Friends and Family day are no longer required to be submitted in the weekly time sheet
+- If a team member did not work the time allocated for the week, then hours would be added to the PTO feature in Mavenlink
 - Notes are required for the PS Time Tracking Creditable and PS Time Tracking Non Credit projects only, not on customer projects
   
   - PTO should be submitted in the time off feature in Mavenlink, and also follow the company guidelines, [time off process](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
@@ -114,7 +309,6 @@ Accurate time tracking records of hours is essential to ensure revenue can be re
   - 45m should be .75
 
 ****Mavenlink Internal Projects****
-
 Internal projects are set up to track internal time that is not customer project related. Below is the project name along with tasks and examples.
 
 ****PS TimeTracking Creditable****
@@ -134,6 +328,9 @@ Internal projects are set up to track internal time that is not customer project
 * Product Development
 * Mentoring
 * Training Course Grading
+   * The grading of all GitLab training courses
+* Technical Architect
+   * Project Oversight & Alignment
    
 ****PS TimeTracking Non Creditable****
 * Knowledge Sharing​
@@ -191,19 +388,6 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 ![splittimesheet](./splittimesheet.png)
 
-
-#### Project Expenses
-Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for in the month which incurred. 
-1. Purchase incurred or travel booked
-1. PSE/PM submit expense report through Expensify with PSE Project Tag and COGS as the category
-1. PS Manager approves expense report in Expensify
-1. PS Manager selects PS Operations as the next approver for the customer expense report
-1. PS Operations then reviews the expense report and sends to Finance approval and processing
-1. PS Operations then reviews the customer expense report with the assigned Project Manager
-1. PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
-
-The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
-
 #### Quarterly time tracking entry and approval workflow
 
 * All hours are submitted and approved in Mavenlink on a weekly basis
@@ -211,6 +395,36 @@ The GitLab Billing Manager will pull an expense report after each month end to b
 * A PS Delivery Manager will APPROVE the hours, create an issue and attach it to the Time Tracking Epic with the `ManagerCertifiedTimesheet` label
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
+
+#### Project Expenses
+GitLab Employee Travels:
+
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
+* Purchase incurred or travel booked
+   * All travel should be booked through Trip Actions   
+* PSE/PM submit expense report through Expensify with Project Tag (Mavenlink Workspace ID- Customer Name)
+   * Include E Group travel approval, Travel Exception Request form found here (https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
+   * Include receipts
+   * Disregard the billable checkbox 
+* PS Manager approves expense report in Expensify
+* PS Manager selects PS Operations as the next approver for the customer expense report
+* PS Operations then reviews the expense report and sends to Finance approval and processing
+* PS Operations then reviews the customer expense report with the assigned Project Manager
+* PS Operations then adds the expense report to the customer project and submits the billing over to Finance if the expense is billable 
+
+The GitLab Billing Manager will pull an expense report after each month end to be sure no expenses were missed during the submission and approval process.
+
+If there are other questions in regards to the GitLab Travel policy, refer to the [Travel Handbook Page](https://about.gitlab.com/handbook/travel/)
+
+GitLab Partner Travels:
+
+Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. 
+The Project Manager or Project Coordinator will provide the partner the travel budget.  
+Once the travel has incurred the expenses should be submitted for invoicing through Coupa and should include the follwing details
+   * Seperate line item for expenses on the invoice 
+   * One PDF document to include receipts for each expense
+Expenses are to be invoiced in the month in which they have incurred.
+
 
 #### Mavenlink Project Status/ Colors
 
@@ -251,12 +465,110 @@ Health Reports provide a weekly snap shot status to PS Management on the overall
    * How is the customer feeling about the project? Happy, frustrated, engaged, disengaged
    * The project could be status of red for scope, schedule, etc. and the customer is still happy 
 
-#### Mavenlink Reports
-The Professional Services Team uses Mavenlink reports to track project and team metrics
+### Partner Staffing
 
-[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)
+Refer to the [Coupa handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/) for instructions on using Coupa, GitLab's vendor invoicing system.  
+
+#### Partner SOW
+
+TO DO
+
+#### New Supplier Request Form
+* For new partners/vendors only
+* Partner/vendor must be approved in Coupa prior to submitting a Professional Services Request and Purchase Request forms
+* [How to Request a New Supplier Instructions](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier)
+
+#### New Professional Services Request Form
+* This initiates the New Purchase Request form
+* [How to complete the Professional Services Request Form](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form)
+* Notes:
+   * Are any GitLab employees already performing this service?
+     For the most part, answer “no”
+   * After submitting the Professional Services Request Form, it will apply to your Cart.
+   * Go into the Review Cart section and enter the information on the purchase request with the Professional Services Request Form questions already populated and added to the purchase request.
+
+#### Purchase Request Form
+* [How to Create a Requisition](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition)
+* Notes:
+   * For Consulting, do not specify anyone for the “on behalf of” field. PS Project Coordinator will initiate the new purchase request.
+   * For Training, PS Education Services Manager will initiate a new purchase request and specify the PS Project Coordinator for the “on behalf of” field.
+* General Info section:
+   * Add Agreements in the Attachments  
+      * MSA  
+      * Partner SOW  
+      * DPA (if applicable)  
+   * Vendor has access to red/orange data? field:   
+      * Will always have access to red data (select yes)  
+      * This will loop in Security as an approver.  
+   * Vendor’s Security Contact Email:  
+      * This is an optional field.  (To be determined)  
+* Cart Items section:
+   * Department:  
+      * Defaults to your user account setting.  Make sure that the department is correct for the invoice.  
+      * Consulting Delivery  
+      * Education Delivery  
+   * Commodity = COGS consulting fees or Consulting fees   
+   * Add Supplier
+   * Item:  
+      * Naming convention:  
+        * Consulting: partner name / customer name / Mavenlink workspace ID   
+        * Training:  partner name / year month day   
+     * Unit Price: Entire the full amount on the Statement of Work  
+     * Need By: Specify a date prior to the consulting or training start date  
+     * Manufacturer Name / Manufacturer Part Number:  Leave blank (not applicable)  
+     * Service Start Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will start using the training funds  
+     * Service End Date:  
+        * Consulting: Estimate the customer project dates  
+        * Training: Estimate of when we will cap the training funds from being used  
+     * If work is ongoing past the Service End Date and invoices are processed on a monthly basis, the PO will remain open.  If for any reason the PO is systematically closed, a request via Accounts Payable Slack Channel #accountspayable will need to be sent to A/P to have the PO re-opened.  
+     * Payment Structure:   
+        * Data entry convention - Consulting: Hourly rate/ or Fixed Price  
+           * Example: $###/hour  
+           * Example: $### Fixed Price  
+        * Data entry convention - Training:  
+           * Standard Course Delivery: Fixed Price  
+           * Pre-Configured Course Delivery:  Hourly Rate  
+         * Custom Course Delivery:  Hourly Rate  
+         * Example (standard course): $### per course  
+         * Example (pre-config or custom): $###/hour   
+     * Submit the purchase request for approval.  
+     * Follow up with internal approvers as needed.  
+
+#### Purchase Order Process
+* After all approvers approve the purchase request, an associated Coupa PO will be created.
+* Partner/vendor invoice(s) will be filed against the PO.
+* Comments section: @ mention the partner invoicing A/R PoC to send invoice submission reminder
+* Project Coordinators will set up Customer Folder in the [Partner Folder](https://drive.google.com/drive/folders/1nAz1iD_iFSZolqNsV5bay_5IFogA_BmG), and include the following:
+   * Partner Fully Executed SOW
+   * [Partner Invoice Tracking Sheet](https://docs.google.com/spreadsheets/d/17OKORE1uJ9v8jsgJdAHnh4AUZ0cPZqo17AvozF9jBEk/edit?usp=sharing)  
+      * Set up with SOW amount  
+      * Link Fully Executed SOW  
+
+#### Invoice Processing and Tracking
+CURRENT PROCESS VIA TIPALTI:
+* Project Coordinator receives email notification from Tipalti to review the partner submitted invoice.
+   * Note - Approval queue is Consulting Project Coordinator first and Training Project Coordinator second.
+* Project Coordinator reviews the invoice and Mavenlink timesheets to ensure accuracy of hours approved and rate.
+* If the invoice and timesheets align, then the invoice is approved.
+* If the invoice and timesheets do not align, then the invoice is returned to Accounts Payable, and the Project Coordinator follows up with the partner.
+* Project Coordinator updates the partner invoice funds tracking sheet to include the invoice number, date, and amount and saves a copy of the invoice in the Partner Folder.
+
+#### Sending Invoice Reminder to the Partner - each month end 
+* Within Mavenlink, go to Insights > Time & Expense Admin- Partners and then go to the Time Approvals by Project report.
+* Enter the Date Range and filter the GitLab User Type field for the partner that you wish to view.
+* Run the report, and export the report in Excel format by clicking on the gear icon on the top, right-hand side of the page and select Export to XLSX.
+* Copy and paste the information into the applicable partner timesheet Google sheet.  [Template](https://docs.google.com/spreadsheets/d/1kKXkZC90KdlzxXicBkye9RWGJ-Y9ooTik5rOtlJwl3k/edit?usp=sharing) is provided in case you need to create a new sheet.
+* Create a pdf version of the partner timesheet information.
+* Send an email to the partner A/R point of contact using the [template](https://docs.google.com/document/d/1lr156fdAM24GGWkqpLtkaJ5ofv3uoVx0lC9UDS9m3B0/edit?usp=sharing).
 
 ### Mavenlink Processes
 Mavenlink is our current Professional Services Automation (PSA) system.  Follow the link below to view process steps.
 
 [Link to Mavenlink Processes](/handbook/customer-success/professional-services-engineering/professional-services-operations/mavenlink-processes/)
+
+#### Mavenlink Reports
+The Professional Services Team uses Mavenlink reports to track project and team metrics
+
+[Mavenlink Report List](https://docs.google.com/spreadsheets/d/1AXqpDv5UjuzQQ8nWkEPYhf8JJ1HU08j_DQPdrnlqDKk/edit#gid=0)

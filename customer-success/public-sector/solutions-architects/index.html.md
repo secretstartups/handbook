@@ -24,6 +24,7 @@ The GitLab Support Team provides [U.S.-based support](https://about.gitlab.com/s
 - All accounts and user information get synched between SFDC and Zendesk on an hourly basis under the conditions detailed on the [Support Ops page](/handbook/support/support-ops/responsibilities.html#sfdcus-federal-zendesk-sync).
 - All communications with support will be asynchronous, unless a synchronous call is requested by the Technical Account Manager and/or Solutions Architect for that account.
 - Only customers designated as Public Sector in SFDC are eligible for Federal Support.
+- When a Public Sector prospective customer begins a sales-assisted trial (including Proofs of Value), the Public Sector Solutions Architect will verify that the appropriate "Support Level" is set in the account record in SFDC (Premium or Ultimate).  This will ensure that the SLA for support is set correctly.
 
 ## Technical Close Plans
 
@@ -59,7 +60,7 @@ Stages 0-2
 
 Stage 3
 - During the technical evaluation, the SA should verify as much as possible about the use cases within the customer ecosystem.
-- By the end of stage 3, all [Stage Technology fields](/handbook/sales/understand-customer-gitlab-use/#stage-technology-tracking) on the Account record should be populated.
+- By the end of stage 3, all Use Case Technology fields on the Account record should be populated.
 
 Stage 4-5
 - Once the technical win is achieved, the GitLab [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) (accessible by GitLab team members only) should be shared with the new customer.
@@ -70,7 +71,7 @@ Stage 4-5
 
 A customer-distributable [Success Management data sheet](https://docs.google.com/presentation/d/1rrHPTr5RFIJPG1AmxSnUorg2c9IKluw1j39QkRbwmzo/edit#slide=id.g76a815dab5_0_68) as well as an [accompanying slide presentation](https://docs.google.com/presentation/d/1xh-ZNm9xyKau6UHQtAyoYjMqf5kO9HYVU2y0O2LwQxM/edit#slide=id.g92b7b0fa4f_0_68) are available for use to guide the customer discussion. These resources are only available to GitLab team members.
 
-### OpenShift FAQ
+## OpenShift FAQ
 
 FAQ for customer engagements when customers are using OpenShift
 
@@ -93,4 +94,10 @@ A: The current plan is to support OpenShift version 4.5 and above. Versions 3.x 
 **Q: How can I (or my customer) track the integration status?**
 
 A: [See this GitLab Epic](https://gitlab.com/groups/gitlab-org/-/epics/2068)
+
+## Campus Program Technical Evaluation Playbook
+
+The GitLab for Campuses program introduced flat rate pricing for universities based on size. In order for these campuses to evaluate GitLab's fit for their schools, labs, and students, a campus technical evaluation playbook was created.  The playbook covers personas, meeting types, options and outcomes associated with an ideal 4 to 8 week evaluation of GitLab for campuses with minimal to moderate knowledge of GitLab.
+
+Solutions Architects can use this playbook to guide campuses through an evaluation of GitLab's broad technical capabilities. The [playbook](https://docs.google.com/spreadsheets/d/1vyRgC2auX0RYp34nqMMp8xr0YllhsVfxJ3EnGImtM9k/edit?usp=sharing) is accessibly by GitLab team members only.
 

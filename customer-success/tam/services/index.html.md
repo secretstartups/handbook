@@ -15,7 +15,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## TAM Alignment
 
-Customers who meet the following criteria are aligned with a Technical Account Manager:
+Customers who meet the following criteria are aligned with a Technical Account Manager.  *These criteria are reviewed annually and are subject to change*:
 
 ### Enterprise
 
@@ -37,6 +37,10 @@ Example:
 ### Commercial
 
 - Commercial (Mid-Market and SMB) customers are eligible for a TAM if the recurring contract value (ARR) is greater than $50,000.
+- Exceptions can be made for clearly defined growth opportunities, decided by sales and TAM leadership. The basic criteria used will be (1 AND 2 AND 3):
+    1. Well defined growth opportunity
+    1. Clear objectives/goals - what do they need TAM help to accomplish?
+    1. Timeframe - if we accomplish X and Y in Z months, we agree to evaluate expanding/growing
 - [Commercial TAM group direction](/handbook/customer-success/tam/commercial/vision/)
 
 ## Responsibilities and Services

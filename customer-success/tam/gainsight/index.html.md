@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Using Gainsight within Customer Success"
-description: "The key aspects of using Gainsight at GitLab to drive success for your customer."
+description: "The key aspects of how Customer Success uses Gainsight to drive success for customers."
 ---
 
 ## On this page
@@ -10,55 +10,8 @@ description: "The key aspects of using Gainsight at GitLab to drive success for 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## What is Gainsight?
+*For an overview of Gainsight, and information about how to login, please refer to the [Gainsight Overview Page](/handbook/sales/gainsight/).*
 
-Gainsight is a tool for Technical Account Managers to manage the ongoing customer lifecycle.
-
-### Key Benefits of Gainsight
-
-Gainsight will help across several different areas within Customer Success. Some highlights include:
-
-- Efficiency: consolidated account views (Book of Business, account), product analytics, Zendesk integration, notes, collab projects, and to-dos
-- Consistency: Establish customer lifecycle process, manage and track engagement
-- Visibility: health scores, risk, adoption, and data visuals
-- Automation: process, adoption, enablement for digital journey
-- Metrics and Analytics: Stage Adoption, customer health, time-to-value, product usage data
-- Grow Net Retention: Success plan-driven engagement, expand plays
-
-## Getting Started
-
-There are two ways to access Gainsight: [through Salesforce](#access-via-salesforce) (recommended), and by [logging in directly](#logging-in-directly).
-
-### Access via Salesforce
-
-_Salesforce is the recommended way of accessing Gainsight, since you will have access to the full set of account information, including opportunities, subscription information, and activity._
-
-Log in to Salesforce, and click on the "Gainsight NXT" tab at the top of the screen. If you don't see "Gainsight NXT" as a choice, you can add it by clicking the "+" sign, choosing "Customize My Tabs" and choosing Gainsight NXT from the applications list.
-
-To hide the Salesforce header to maximize Gainsight screen space, click the "double arrow" icon in the top right corner of the Gainsight header, next to your profile icon.
-
-If you are logging in through Salesforce, you can also quickly open the Salesforce link for the Gainsight account you're on by clicking the three vertical dots at the top right of the Gainsight account page (below your user image) then clicking "View Account".
-
-### Logging in Directly
-
-**Note: you may log in directly via Okta but you will not have subscription data, opportunity, or Salesforce activity.**
-
-To access Gainsight directly, go to [gitlab.gainsightcloud.com](https://gitlab.gainsightcloud.com/) and when prompted for your username and password, enter _only_ your GitLab email address. As soon as it is entered, the screen should change to indicate that you are using single sign-on, and when you click "log in" it will redirect you to Okta.
-
-- If you need to request access to Gainsight, fill out an [Access Request](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and have your manager add the manager approved label.
-- If you need help locating the Gainsight NXT tab in Salesforce or the Gainsight Okta tile, submit an issue using the [Gainsight Request Template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=).
-
-### Confirm your timezone
-
-Your timezone is dependent on your timezone in Salesforce, so even if you change it in Gainsight, if it's incorrect in Salesforce it will be overwritten the next day. To update your timezone in Salesforce (which is automatically PST), click your name at the top right, click "My Settings", click "Personal" on the left sidebar, click "Language & Time Zone", choose your correct timezone, and save. You will see the correct timezone in Gainsight the following day. Salesforce's timezone will automatically be PST, so you'll want to update this to your timezone to make it easier for logging events (when logging an event, it will input the current time in your selected timezone).
-
-### Configure your notifications
-
-To adjust your individual notifications, click on your name in the upper right corner, select "My Settings", then "Notifications" at the top middle. The below pictures show the default, and you will have the following options to select based on your preferences. View Gainsight's [documentation](https://support.gainsight.com/Gainsight_NXT/Notifications/User_Guides/Setup_User_Notifications) for more information.
-
-![Gainsight Channel Subscriptions](/images/handbook/customer-success/gainsight-channel-subscriptions.png "Gainsight Channel Subscriptions")
-
-![Gainsight Event Subscriptions](/images/handbook/customer-success/gainsight-event-subscriptions.png "Gainsight Event Subscriptions")
 
 ## Gainsight workflow
 
@@ -96,7 +49,7 @@ The left side panel of the 360 contains the following sections:
 - Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
 - Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
-- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk]((#salesforce-and-zendesk-syncing)))
+- Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
 - Adoption - [license utilization](/handbook/customer-success/tam/gainsight/license-usage) and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
@@ -112,7 +65,45 @@ On each account's 360, there is a "Follow" button next to the account name. If y
 
 #### Referenceable Customers
 
-The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/index.html#customer-reference-program-at-gitlab). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer](/handbook/marketing/strategic-marketing/customer-reference-program/#process-for-adding-new-reference-customers).
+The `Referenceable Customers` field on the C360 Attributes section highlights [if a customer is a Referenceable Customer](/handbook/marketing/strategic-marketing/customer-reference-program/). If a Customer is *not* a Referenceable Customer and they would make a great one, follow the process to [Nominate a Reference Customer]().
+
+#### Customer NPS/CSAT Surveys
+
+The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
+
+In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/#adding-a-contact-via-gainsight) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
+
+##### What is NPS?
+- Net Promoter Score - From 1-10
+- It is always one question - ‘how likely are you to recommend (company) to a friend or colleague?
+- It is an attribute that can give another ‘lens’ into how a portion of the customer lifecycle has gone, or may go, such as onboarding (early enablement) and preparation to renew. 
+- The ‘rolled up’ score can give insight into trends - such as onboarding/enablement being bumpy. 
+- In companies that have more complex/longer onboarding processes, the NPS typically starts lower and rises as the customer begins to feel more return on investment later in the lifecycle.  
+
+##### What is NPS not?
+- A ‘determination’ of the health of a customer.  It is simply another attribute.
+
+##### What is CSAT?
+- There are customer satisfaction questions, that often accompany the NPS question to get a deeper understanding of the customer sentiment at that point in the lifecycle.
+
+##### What CSAT / NPS questions are we asking?
+- Post-Onboarding - 
+   - Considering your experience with us so far, how likely are you to recommend GitLab to a friend or colleague?
+   - Overall, how satisfied are you with your onboarding experience?
+   - How can we improve your readiness to adopt the product?
+- Pre-Renewal - 
+   - How likely are you to recommend GitLab to a friend or colleague?
+   - How satisfied are you with GitLab? 
+
+##### What will we do with the scores?
+- In addition to writing the score to a scorecard in the customer 360, we will also trigger CTA’s to action based on the feedback.
+- Negative NPS Scores (0-6 OR Very Dissatisfied, Dissatisfied, Neutral) will create a CTA for the TAM Manager to follow-up with the contact.
+- Positive NPS Scores (7-10 OR Satisfied, Very Satisfied) will create a CTA for the TAM to follow-up with the contact.
+- All scores will be posted to #cs_programs_nps_results channel in Slack!
+
+##### Who will receive the survey and when?
+- We will send the NPS/CSAT survey at the 60 day mark for new customers (not those longer-standing that recently got a TAM) and again at 120 days before renewal.
+
 
 ### Sally the Slack bot
 
@@ -182,45 +173,3 @@ The videos listed here are internal to GitLab only. You will need to be logged i
 - [License Usage in Gainsight](https://youtu.be/ZqpmxoUy6EE)
 - [Product Usage Data - Overview](https://youtu.be/5_J9Kfbu5JA)
 
-## Feedback about Gainsight
-
-### Feature Requests
-
-New feature requests can be submitted by creating an issue and selecting the [Gainsight Request template](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) in the Customer Success Operations project. Make sure the `gainsight` label, and optionally ether the `gainsight::feature_request` or `gainsight::bug` scoped label, are successfully applied when opening the issue. The status of all Gainsight-related issues can be viewed on the [Gainsight issue board](https://gitlab.com/groups/gitlab-com/-/boards/1609037?label_name[]=gainsight).
-
-To request new email templates be added to Gainsight or the [Digital Journey](/handbook/customer-success/tam/digital-journey/), open an issue in the [Sales Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues) and apply the program request or new program template if relevant. Then `@mention` a Gainsight administrator.
-
-To view recent updates to Gainsight, view [the running changelog](https://docs.google.com/document/d/11yJvTTDlWMrMAbKut1V0LFVoRojID2C_eRWk9ZF3HaA/edit#).
-
-### Support tickets
-
-To submit a support ticket about Gainsight, you have two options.
-
-1. Email support@gainsight.com and cc GitLab's CS Ops Manager and Gainsight Account Manager.
-1. Go to the [Gainsight support website](https://support.gainsight.com/), choose Gainsight NXT, and fill out the required fields.
-
-### Common errors & troubleshooting
-
-#### Query API invalid response
-
-If you receive the error message "Query API invalid response", try clearing your browser cache and cookies. We recommend also checking in a private browser (Incognito Mode, etc.) to verify it's a browser configuration issue.
-
-#### Success plan objectives updated failed
-
-If your receive the error message "SUCCESS_PLAN_OBJECTIVES_UPDATED_FAILED" when changing the status of a Success Plan from Draft to Active, it could be because there is one or more CTAs with a due date earlier than one of its tasks' due date. To correct this, re-apply the due date on tasks which will update the CTA's due date, and then try to change the Success Plan to Active again.
-
-#### Account says "TO BE DELETED NO LONGER IN SFDC"
-
-This is because two SFDC accounts were merged into one. What happens is this:
-1. Salesforce has 2 records of the same account
-1. SAL/or someone asks SalesOps/Deal Desk to merge
-1. The two Salesforce accounts are merged
-1. Gainsight does not "merge" because they were already merged in Salesforce
-1. Gainsight recognizes one was deleted and marks it with the "TO BE DELETED" title for CS Ops to review and/or delete it
-1. The remaining (merged) one in Salesforce remains synced to Gainsight
-
-#### Error "Timeline: Invalid authentication credentials. Authentication failed" when opening an email in Chrome
-
-Usually, this type of error occurs if the Chrome extension version is out of date. Try [updating the Chrome extension](https://community.gainsight.com/timeline-17/update-your-chrome-plugin-39237) to the latest version. It should automatically refresh and begin working, but try logging out and back in if it doesn't resolve right away.
-
-If this doesn't solve the issue, reach out to [Gainsight support](#support-tickets) and let them know you've already tried updating the extension and logging out and back in.

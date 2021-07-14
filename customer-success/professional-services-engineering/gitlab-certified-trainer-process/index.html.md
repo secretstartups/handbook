@@ -30,7 +30,8 @@ GitLab Professional Education Services manages the certification process for all
 - Review the train-the-trainer (T3) resources: Attend a live session and/or review T3 materials asychronously
 - Shadow a certified trainer delivering the course to customers
 - Pass the end-user certification assessments for the course
-- Submit a recording of you delivering a "dry-run" portion of the course 
+- Schedule and deliver a one-hour live "dry-run" of the course 
+- Deliver a subset of the course to a customer with a certified trainer observing, and receive an average rating of at least 4 out of 5 on the Candidate Observation Form
 - Deliver the entire course to a customer with a certified trainer observing or reviewing the recording, and receive an average rating of at least 4 out of 5 on the customer Training Survey.
 
 **Step 4**: As you earn each certification, add the digital verification badge to your LinkedIn profile!

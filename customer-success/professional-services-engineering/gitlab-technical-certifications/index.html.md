@@ -25,8 +25,13 @@ GitLab is planning and developing several technical certifications to help the G
 There are three levels of GitLab Technical Certification.
 
 1. Associate
+    * GitLab Certified Associate
 2. Specialist
+    * GitLab Certified Specialist: CI/CD
+    * GitLab Certified Specialist: Project Management
+    * GitLab Certified Specialist: Security
 3. Professional
+    * GitLab Certified DevOps Professional certification
 
 The Associate level is a prerequisite for the Specialist level, and the Specialist level is a prerequisite for the Professional level.
 
@@ -101,4 +106,8 @@ Here are the certifications GitLab has soft-launched in FY'21. Each set of certi
 - Soft-launched in: December 2020
 - Description page: [GitLab Certified DevOps Professional](https://about.gitlab.com/services/education/gitlab-certified-devops-pro/)
 - Related course: [GitLab DevOps Fundamentals Training](https://about.gitlab.com/services/education/devops-fundamentals/)
+
+### Recertification
+
+GitLab Technical Certifications do not have an expiration date. Instead, GitLab uses a continuous model for recertification in which a certified individual can take the latest assessments at any time to receive an updated digital badge. The badge provides verification of the latest date certified for an efficient way to showcase staying up-to-date.
 

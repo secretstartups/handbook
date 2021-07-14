@@ -10,11 +10,14 @@ description: "Effective ways to apply product data for Sales and Customer Succes
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+
+{::options parse_block_html="true" /}
+
 ---
 
 ## Purpose
 
-To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns.
+To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns. See [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
 
 ## Using Product Usage Data in Gainsight 
 
@@ -33,9 +36,23 @@ For video overviews, see:
 
 For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
 
+### Quick Links
+
+<div class="flex-row" markdown="0" style="height:80px">
+<a href="https://docs.gitlab.com/ee/development/usage_ping/dictionary.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
+<a href="https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data: Gainsight Technical Documentation</a>
+<a href="https://app.periscopedata.com/app/gitlab/803470/WIP:-Customer-Product-Adoption-Dashboard" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">WIP: Customer Product Adoption Dashboard</a>
+<a href="/handbook/product/product-intelligence-guide/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Intelligence Overview</a>
+<a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data - Data Team Handbook</a>
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+
+
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage Data Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) to see the full list of your accounts. Once on the C360, 
+Use the [Product Usage - Customer Analytics](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) Dashboard to see the full list of your accounts. Once on the C360, 
 
 
 | Report Name | Description | Application |
@@ -66,7 +83,7 @@ While we can use License Usage (see above) to understand the activated seats vs.
 
 ### Understanding My Customer's GitLab Adoption  
 
-As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
+As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
 
 Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
 
@@ -79,7 +96,26 @@ Remember, this is an MVC — please [create an issue to suggest new metrics](#re
 
 ## TAM Actions
 
+### Viewing all Unknown Self-Managed Instances
+
+New self-managed instances come online all the time. The different types include:
+
+* Production: The production instance tied to the subscription
+* Non-production: A test, staging, or dev server
+* Obsolete: No longer in use server
+* Unknown: Not yet labeled server
+* Geo Secondary Node: a secondary or mirror server
+
+To make sure we correctly identifying Production vs. other types, use these instructions to see a full list of instances yet to be labeled:
+
+1. Go to Product Usage Data Dashboard
+1. Filter to your name
+1. Review Hostnames under Accounts with Unknown Instance Names Report (best to click the "Maximize Report" for viewing)
+   1. Optional: if you want to view hostname usage, use this dashboard and filter via Hostname to see the usage for any specific hostnames
+
+
 ### Updating Self-Managed Instance Type
+
 For your self-managed customers, label your customers' instances as Production, Staging, or Obsolete. Steps:
 1. Go to the customer in Gainsight
 1. On the left nav panel, click on "Instance Details" (bottom)
@@ -132,6 +168,18 @@ Seat Link data encompasses license utilization data for **all** customers, regar
 1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
 1. Seat Link does **not** have product usage data; it only counts licenses
 
+##### Mapping Licenses to Subscriptions
+
+When licenses are automatically generated (either via WebStore or Deal Desk) a Zuora subscription ID is mapped to a license. This mapping enables the data to link in Gainsight to create a complete picture of an account. 
+
+If there is ever an issue where that data is not mapped follow the steps below:
+
+1. Confirm the account has Usage Ping enabled by checking the VersionApp
+1. Check to see if their license key has a Zuora subscription linked in LicenseDot
+1. IF the Zuora subscription is missing, [open a support issue](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions) to generate a new license with the correct Zuora subscription ID
+
+Example Issue where this issue was discovered: https://gitlab.com/gitlab-data/analytics/-/issues/8518
+
 ## Requesting New Metrics 
 
 To request a new metric, please open an issue in the [Product Analytics project](https://gitlab.com/gitlab-org/product-analytics/-/issues/new) and at-mention Product Analytics PM. You can see [Add per project count](https://gitlab.com/gitlab-org/product-analytics/-/issues/425) as an example. However, before you create an issue, please confirm the metric does not already exist in the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485&fvid=1422977269). 
@@ -141,15 +189,3 @@ Examples of new metrics can include:
 * Tracking a new feature
 * Looking at feature use in a different context (raw count, activity per user, per project, etc.)
 * Expanding an existing metric to track usage at different product tiers (e.g., specifically tracking the feature component used in Core vs. a paid tier)
-
-
-## Reference documentation
-
-* [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html)
-* [Adoption Explorer - GitLab Documentation](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit)
-* [SaaS-Activity Dashboard](https://app.periscopedata.com/app/gitlab/684495/WIP---SaaS-Activity)
-* [High-Level Visual of GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey)
-* [Product Intelligence Overview](https://about.gitlab.com/handbook/product/product-intelligence-guide/) (details on product usage data)
-  
-
-

@@ -19,28 +19,30 @@ Solutions Architects record all customer and prospect activity to promote **tran
 
 ## Engaging Professional Services
 
-Follow the process detailed in the [Working with Professional Services
-](/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services) handbook page.
+Follow the process detailed in the [Working with Professional Services](/handbook/customer-success/professional-services-engineering/working-with/#for-sales-reps-and-sas-how-to-order-professional-services)
+handbook page.
 
 Simplified process description:
+
 - Ensure that PS Opportunity has already been created by SAL / AE.
 - If it a standard (non-customized) service from our [full catalog](https://about.gitlab.com/services/catalog/).
-   - SAL / AE to order PS directly from Zuora in SFDC.
+    - SAL / AE to order PS directly from Zuora in SFDC.
 - If standard services do not meet the needs of the customer
-   - Use the [Services Calculator](http://services-calculator.gitlab.io/) to generate an issue and a draft quote.
-   - Iterate on that issue with PS and SAL / AE.
+    - Use the [Services Calculator](http://services-calculator.gitlab.io/) to generate an issue and a draft quote.
+    - Iterate on that issue with PS and SAL / AE.
 
 ## Customer Security Assurance
 
-Follow the process detailed in the [GitLab's Customer Assurance Activities
-](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html) handbook page.
+Follow the process detailed in the [GitLab's Customer Assurance Activities](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-assurance-activities-workflow)
+handbook page.
 
 Simplified process description:
+
 - Start with [Security - GitLab Trust Center](https://about.gitlab.com/security/).
 - Encourage customers to use and review [Self-service Information Gathering](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
 - SAs are expected to attempt a first-pass for all security questionnaires
-   - Do it, it’s fun and educational!
-   - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) (200+ pre-answered questions)
+    - Do it, it’s fun and educational!
+    - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) (200+ pre-answered questions)
 - Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 
 ## Generating Licenses
@@ -81,7 +83,11 @@ The entire cross-functional team should help in the preparation of the QBR conte
 
 Solution Architects may participate in initial qualifying meetings (IQM's) or allow the SDR and SAL/AE to manage the initial call and utilize information gained during it for additional preparation. Teams can handle this on a case by case basis.
 
-When reaching out to engage SAs during opportunity qualification and discovery, please provide them with the active SFDC opportunity id and any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.).  The opportunity information will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. 
+When reaching out to engage SAs during opportunity qualification and discovery, technical evaluations, please provide the below information. This will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
+
+- Please provide active SFDC opportunity id
+- Any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.)
+- The successful outcome of the meeting
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
 

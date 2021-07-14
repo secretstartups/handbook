@@ -89,7 +89,7 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Mitigation Strategies
 
-- **Failure to upgrade.** Is the customer more than a major release behind? Work with the customer to explain the new features and security updates of the current version of GitLab and address any internal technical limitations that have prevented upgrades. Develop an upgrade plan with the customer if appropriate.
+- See the [Risk Types, Discovery & Mitigation Strategies](/handbook/customer-success/tam/risk-mitigation) page.
 
 ### Gainsight
 
@@ -109,15 +109,16 @@ Health score criteria is either manually or automatically applied to determine t
 
 * Except for TAM Sentiment, all health measures will typically be NULL for the first 30 days of the customer's onboarding due to insufficient data and inaccurate results, such as Engagement.
 * In instances where a measure is N/A, whatever percentage weighting will be redistributed to the other health measures.
+* These calculations do NOT apply for account labeled as an Unmanaged Child Account
 
 ##### Enterprise 
 
 | Category | Description | Method | Calculation | Weighting |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- | ------------------------------------------------------------ | --------- |
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `50k+ ARR` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For `50k+ ARR` accounts:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 60 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `TAM Prioritization = 1` accounts AND all TAM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month <br>- Yellow: 5-15 tickets/month <br>- Red: \>15 tickets/month | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `50k+ ARR` accounts:<br> TAM manually determines red/yellow/green | 65% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For all `TAM-owned` accounts:<br> TAM manually determines red/yellow/green | 65% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
 | Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 0% |
 
@@ -125,10 +126,10 @@ Health score criteria is either manually or automatically applied to determine t
 
 | Category | Description | Method | Calculation | Weighting |
 |--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization == 1` accounts:<br> - Green: <= 30 days <br>- Yellow: > 30 days and <= 60 days<br>- Red: > 60 days | 10% |
-| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For `TAM Prioritization == 1` accounts:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
+| Engagement | Based on recency of last call/meeting with the customer | Automatic | For `TAM Prioritization = 1` accounts:<br> - Green: <= 35 days <br>- Yellow: > 35 days and <= 60 days <br>- Red: > 60 days <br><br>For `TAM Prioritization = 2` accounts:<br> - Green: <= 65 days <br>- Yellow: > 65 days and <= 90 days <br>- Red: > 60 days | 10% |
+| ROI | Does the customer have a Success Plan that has objectives and notes? | Automatic | For All `TAM Prioritization = 1` accounts AND all TAM-owned accounts that have an open Success Plan:<br> - Green: Active Success Plan with 1+ objective and Strategy/Highlights <br>- Yellow: Draft Success Plan OR Active Success Plan with 1+ objectives and no Strategy/Highlight information <br>- Red: No Success Plan or no objectives | 10% |
 | Support Issues | Assess the health of our support interactions. Current version is MVC with [v2 coming](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/1202). | Automatic | - Green: 1-5 tickets/month<br>- Yellow: 5-15 tickets/month<br>- Red: \>15 tickets/month | 5% |
-| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `TAM Prioritization == 1` accounts:<br> TAM manually determines red/yellow/green | 65% |
+| [TAM Sentiment](/handbook/customer-success/tam/health-score-triage/#gainsight) | Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. | Manual/Automatic | For `TAM-owned` accounts:<br> TAM manually determines red/yellow/green | 65% |
 | License Usage | Based on the customer's license usage relative to the customer lifecycle | Automatic | See [license usage](#license-usage-health-table) | ARR thresholds: <br>- 50k+: 10% <br> - 20-50k 51% <br> - <20: 75%  |
 | Product Usage Data | Based on the customer's product usage data (if available) | Automatic | See [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) | 0% |
 
@@ -173,8 +174,8 @@ An account risk issue should be created in the [Account Triage Project](https://
 
 When an account is in triage, keep the triage issue updated as follows:
 
-- **Red:** Weekly, and as new information is available
-- **Yellow:** Biweekly, and as new information is available
+- **Red:** All next steps should have an associated date and the update frequency needs to be ahead of expiring due dates.  The minimum update frequency on a red account should be bi-weekly to ensure that data is fresh and focus is not lost.
+- **Yellow:** At a minimum monthly, ahead of pending due dates and as new information is available
 
 If nothing of note has occured since the last update, indicate that as well as the next steps you are taking.
 

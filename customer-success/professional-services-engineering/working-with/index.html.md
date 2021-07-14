@@ -15,7 +15,9 @@ description: "Discover how to work with the GitLab Professional Services Team."
 
 At GitLab, Professional Services (PS) is part of the [Customer Success department](/handbook/customer-success). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
 
-You can also reach the group via the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel.
+#### Slack
+
+PS uses the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) slack channel to answer generic questions about services and to signal delivery of PS scoping work items like PS Engagement Estimates and SOWs.  The private [#professional-services-us-pubsec](https://gitlab.slack.com/archives/C025UHLTR50/p1625778195002900) slack channel is used for US Public Sector services.  Please request access to [#professional-services-us-pubsec](https://gitlab.slack.com/archives/C025UHLTR50/p1625778195002900) in [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X).
 
 #### Requesting training for GitLab team members
 
@@ -67,8 +69,8 @@ Often we are asked "what is your lead time for getting started with a project" o
 As there may be many projects and proposals in flight at any time, there are a few rules we use when prioritizing and scheduling engagements:
 
 * No engagement schedule can be committed to until a signed SOW is received and the Sr. PS Project Coordinator has scheduled the project on the PS Calendar. While we can make a good faith effort to try and match a schedule ahead of that time, to be fair to customers who have committed to a services engagement we must prioritize those first.
-* Our typical lead time for starting an engagement is 4 weeks or less, but this can vary greatly as we scale the team and engagements.
-* Please, check with the Sr. PS Project Coordinator by tagging the group `@ps-scheduling` for the latest lead time details in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack channel if you need a more accurate estimate.  
+* Our typical lead time for starting an engagement is 4- 6 weeks or less, but this can vary as we scale the team and engagements.
+* Please, check with the Sr. PS Project Coordinator by tagging the group `@ps-scheduling` for the latest lead time details in the [professional services slack channel](#slack) if you need a more accurate estimate.  
 * Depending on the lead time and if the opportunity is working to close the Sr. PS Project Coordinator will track the opportunity and start planning tentative project dates in anticipitation of the executed sow and opportunity updated to "Close/Won". 
  
 
@@ -103,5 +105,11 @@ The labels are (from left to right):
 
 ### Scheduling Professional Services
 
-For scheduling specific customer projects, we are currently scheduling projects in order of when the opportunity is updated to closed/won. If you have a concern about scheduling the project, this should be discussed at the Discovery phase during the [scoping](/handbook/customer-success/professional-services-engineering/scoping) process. If you want to check availability, ask the Project Coordinator by tagging the group `@ps-scheduling` in the [#professional-services](https://gitlab.slack.com/archives/CFRLYG77X) Slack Channel. In no case should you commit to dates before receipt of Signed SOW, agreements, P.O., etc.
-Once the opportunity is updated to Close/ Won, the PS Project Coordinator will send a Welcome to PS Email, within 72 business hours of booking of the opportunity.  The Project Coordinator will include the account team and professional services leader on the Welcome to PS email.
+Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. If there are lead time or availability questions, please ask the Project Coordinator by tagging the group @ps-scheduling in the [professional services slack channel](#slack).
+Please do not commit any project start dates prior to the SOW/contracts being signed without confirming with the PS Project Coordinator.
+
+Once the opportunity is updated to Close/ Won, here are the next steps:
+
+- The PS Project Coordinator will review the SOW and Order Form and work to set up the consulting project.
+- The PS Project Coordinator will reach out the account team to confirm customer contacts.
+- The PS Project Coordinator will send a Welcome to PS email within 72 business hours of the opportunity booking to the customer and copy the account team and Professional Services leaders.

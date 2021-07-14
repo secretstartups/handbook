@@ -13,10 +13,18 @@ description: "Create a company-wide customer success approach, providing an enga
 
 _"Customer Success is when customers achieve their desired outcome through interactions with your company with the appropriate experience."_ - Lincoln Murphy
 
+## Objective
+
+Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
+
+## Goals
+
+Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase net dollar retention as well as lifetime value (LTV).
+
 ## High-Level Visual of Customer Journey
 
 [Video Introduction to Customer Journey and Process Framework](https://youtu.be/LIroDgZOWLc)
-![GitLab Customer Journey](images/customer-journey.jpeg)
+![GitLab Customer Journey](images/customer-journey.png)
 
 ## High-Level Visual of GitLab Adoption Journey
 
@@ -27,13 +35,9 @@ _"Customer Success is when customers achieve their desired outcome through inter
 The following shows the high-level view of the capabilities that we will be developing as mature our customer success team, processes and systems. [A pdf version for viewing.](images/gitLab_customer_success_capabilities_roadmap.pdf)
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
-## Objective
+## Product Usage Data 
 
-Create a company-wide customer success approach, providing an engagement framework for the Customer Success organization and integrating related programs and operations from the GitLab operations (i.e., marketing, sales, customer success, product / engineering and support).
-
-## Goals
-
-Deliver faster time-to-value and customer-specific business outcomes with a world class customer experience, leveraging the full capabilities of the GitLab application. Increase average Incremental Annual Contract Value (IACV) as well as Life-Time Value (LTV).
+Product usage data is key to driving customer and GitLab outcomes by providing visibility to customers' adoption of licenses, use cases, and capabilities. For more about how we use and plan to use this data, please see our ["Product Usage Data Vision" page](/handbook/customer-success/product-usage-data/). 
 
 ## Lifecycle Stages
 
@@ -64,6 +68,23 @@ As part of our customer journey, we highly value the customer's initial experien
 - **Infrastructure Ready**: Completion is defined as either 1) production implementation is complete for on-premises installations 2) GitLab.com is integrated into a customer's environment or 3) Cloud and on-premises environments ready for a hybrid deployment
 - **First Value**: Represents a small subset of users are using the product in a Production environment. This is achieved when a customer activates 10% of their licenses.
 - **Outcome Achieved**: Represents delivery to original purchase intent. We want to capture the delivery of outcomes against their original purchase intent. New and changed goals will continue to be tracked with the engagement, but not included in this milestone.
+
+### Customer Health 
+
+To improve the customer experience, deliver on customer outcomes, and increase net ARR, GitLab is focused on measuring and improving Customer Health. Customer Health includes multiple health measures that, when aggregated, gives a holistic view into the customer and allows drill-down into specific areas. We have created and adopted the PROVE Value approach:
+
+* **Product**: License + User Engagement + Use Case
+* **Risk**: TAM Sentiment + Opportunity Renewal risks
+* **Outcomes**: Success Plan + Verified Outcomes
+* **Voice of the Customer**: Support + Surveys
+* **Engagement**: Customer Engagement + Executive Sponsorship + Events + Certifications
+
+The intention, both of the P.R.O.V.E. components and overall philosophy, is that we need to "prove value" to the customer.
+
+![Customer Health Vision](images/customer-health-score-vision.jpeg)
+
+For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach. 
+
 
 ### Retention and Reasons for Churn
 

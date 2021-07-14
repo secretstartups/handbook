@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "CI Workshop"
+Description: "Guidance for TAMs on leading continuous integration deep-dive workshops"
 ---
 
 ## On this page
@@ -12,7 +13,6 @@ title: "CI Workshop"
 - [CI Workshop Overview](#ci-workshop-overview)
 - [Workshop Materials](#workshop-materials)
 - [Discovery Questions](#discovery-questions)
-- [Self-Service Virtual Event](#self-service-virtual-event)
 
 
 ## CI Workshop Overview
@@ -31,6 +31,10 @@ This workshop is *not* intended to provide a "hands-on-keyboard" demo experience
 
 ## How to Get Started
 
+1. [Create a signup page via Zoom](https://support.zoom.us/hc/en-us/articles/211579443-Setting-up-registration-for-a-meeting) for the workshop for your customer to share internally. The benefit of a signup page is that:
+    1. You can understand in advance the number of expected attendees, and prepare accordingly (ie. by engaging volunteer resources to handle async Q&A).
+    1. You will know who is coming and can tailor content to specific levels/titles of attendees (Don't forget to add a `title` question to your signup page!).
+    1. You will have a list of attendees to follow up with.  This part is incredibly significant as this workshop becomes a means to engage with dev leads and end users, that we often do not have otherwise. 
 1. Create an Issue in the customer's Collaboration Project using the [CI Sell Sheet issue template](https://gitlab.com/gitlab-com/customer-success/tam/-/blob/master/.gitlab/issue_templates/CICDv2WorshopTopics.md) and ask your customer to select the topics they'd most like to address. 
 1. Select the sections within the [GitLab CI Conversion Workshop Enablement V2](https://docs.google.com/presentation/d/1K1t1O-8JMViiX6zKn0S2OMSjw1XvTcII5UQdNP0ItVs/edit#slide=id.g97c25944f3_1_0) deck that best fits what your customer wants.
    * **Note:** Please cut&paste the slides you need into a new deck instead of using the source deck for your presentation.
@@ -65,7 +69,7 @@ When considering a path for a CICD discussion with your customers, you may use t
 
 ### Topics to Include in Each Discussion
 - GitLab ROI - 5m
-- Q&A - allow up to 10-15m
+- Q&A - allow up to 10-15m if you want to do live, though recommended is over chat during the session to keep the session more dynamic.
 
 ### Tips and Tricks for Delivering
 - Bring a friend! Invite another TAM or SA.
@@ -120,6 +124,4 @@ When considering a path for a CICD discussion with your customers, you may use t
 
 It's highly recommended to review Strategic Marketing's list of usecase-centric [discovery questions](/handbook/marketing/strategic-marketing/usecase-gtm/ci/#discovery-questions) ahead of the session.
 
-## Self-Service Virtual Event
 
-If your customer is agreeable to it, it's highly recommended to set up a [self-service virtual event](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/#self-service-virtual-event-with-or-without-promotion) using field marketing's instructions linked here. You'll allow participants to register and will benefit from a list of user emails so you can drive follow-up.
