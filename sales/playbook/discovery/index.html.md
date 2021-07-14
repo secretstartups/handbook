@@ -155,11 +155,11 @@ You must have a solid understanding of the prospect's key business drivers, stra
 <!-- blank line -->
 
 ## Failing to Identify the Negative Consequences of Doing Nothing
-Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
+Watch the short videos below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/zDh2GwVaK8A" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/DTxFqjLbvtI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
@@ -198,6 +198,9 @@ Sales multi-threading refers to the concept of engaging and developing relations
 
 **Attaching to the Biggest Problem**
 - [How to Enable Reps to Sell Higher](https://theaudible-readypodcast.sounder.fm/episode/decision-process-brian-walsh) podcast (27 minutes) 
+
+**Identifying the Negative Consequences of Doing Nothing**
+- [Standing in the Moment of Pain](https://youtu.be/zDh2GwVaK8A) (1 minute)
 
 **Multi-Threading**
 - [Navigating the Decision Process with Multiple Buyers](https://theaudible-readypodcast.sounder.fm/episode/decision-process) podcast (11.5 minutes)
