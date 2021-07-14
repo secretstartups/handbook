@@ -16,6 +16,7 @@ description: "GitLab Data Science Team Handbook"
 
 # Data Science at GitLab 
 
+
 The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
 
 We do this by building machine learning models and analysing data to convert results into trusted and scalable products.
@@ -25,6 +26,7 @@ We do this by building machine learning models and analysing data to convert res
 Data Science team uses Python and Jupyter to deliver projects. 
 
 # Data Science responsibilities 
+
 
 Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
 
@@ -37,11 +39,12 @@ Additionally, the **Data Science Team** supports the following responsibilities
 
 # Projects structure 
 
-Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)] (https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
+
+Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
 ### Business Understanding 
 
-First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs] (https://about.gitlab.com/company/okrs/) and company's value - [Iteration] (https://about.gitlab.com/handbook/values/#iteration)
+First step is to define business needs of end users of the project and success criteria. This phase includes gathering requirements, stakeholders interviews, defining vision, user stories for product and use cases for models. This phase is closely aligned with GitLab's [OKRs](https://about.gitlab.com/company/okrs/) and company's value - [Iteration](https://about.gitlab.com/handbook/values/#iteration)
 
 ### Data Understanding 
 
@@ -57,11 +60,11 @@ Modeling refers to building machine learning model, which consists of training, 
 
 ### Evaluation 
 
-In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration] (https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
+In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 
 ### Deployment 
 
-Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First] (https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
+Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
 
 
 # Success Criteria 
