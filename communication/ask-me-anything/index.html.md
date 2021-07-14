@@ -71,6 +71,7 @@ Template: "Name" - "Role", **Self Identified (Optional):**
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
 - Carol Teskey - Senior Director, People Success, **Self Identified (Optional):** CIS gender woman; **Region: EMEA**
 - Carolyn Bednarz - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
+- Roos Takken - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: EMEA**
 
 #### Reverse AMA Hosts 
 
