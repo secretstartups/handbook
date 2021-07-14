@@ -40,26 +40,6 @@ The Foundations team works on building a cohesive and consistent user experience
 
 You'll spend your time collaborating with a [cross-functional team](/handbook/product/categories/#ecosystem-group), helping to implement our [Design System](https://design.gitlab.com/), building comprehensive accessibility standards into our workflows, and defining guidelines and best practices that will inform how teams design and build products. A breakdown of the vision you’ll help to deliver within the FE/UX Foundation category can be found on our [product direction page](/direction/create/ecosystem/frontend-ux-foundations/).
 
-**What you can expect in a Manager, Product Design FE/UX Foundations role at GitLab:**
-
-* Advocate for good product design practices and bring a deep level of subject matter expertise to the team.
-* Act as the experience owner of our [Pajamas Design System](https://design.gitlab.com/).
-* Play a key role in both defining the direction of the category and regularly refining/scheduling issues during a given milestone.
-* Work with your direct reports to build out a UX strategy for your team.
-* Proactively learn other product areas in order to help your Product Designers propose design solutions that work for multiple use cases and scenarios across the product.
-* Proactively identify large, strategic UX opportunities within the Foundations team and the product as a whole. Work with other Product Design Managers to drive cross-product initiatives.
-* Review UX deliverables (research, designs, and so on) that your team creates, and provide feedback to ensure high-quality output.
-* Identify strategic user research initiatives that span multiple product areas, and work with other Product Design/Research Managers to organize research efforts.
-* Evangelize the value of UX to cross-functional GitLab team members, and influence the Product Managers you support to prioritize UX initiatives.
-* Track coverage of Pajamas components in the GitLab product.
-* Set up and manage collaborative processes within your team to ensure Product Designers and UX Researchers are actively working together. Make sure everyone has exposure to the work that is happening within the broader team.
-* Foster a safe space for your team, where they’re comfortable sharing feedback and advocating for change they see as necessary. 
-* Champion the importance of participation in critiques, content creation, and speaking engagements, while also participating alongside them.
-* Hire and retain a world-class team of Product Designers.
-* Hold regular 1:1s with every member of your team, and create Individual Growth Plans with monthly check-ins.
-* Collaborate with our VP of UX to define OKRs for our design practice. These OKRs will shape your team’s process, define your responsibilities as a manager, and feed into the responsibilities of your direct reports.
-* Play a part in the evolution of our design culture as we take the next steps in expansion.
-
 ### Requirements
 
 * A minimum of 3 years experience managing a group of designers.
