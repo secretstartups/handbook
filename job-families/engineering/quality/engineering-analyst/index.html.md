@@ -11,7 +11,11 @@ They closely with GitLab’s Data team to enable new data capabilities that driv
 
 
 ## Responsibilities
-
+* Create data queries that provide actionable data-driven insights.
+* Create actionable and concise data visualizations representation of 
+* Ensure accuracy of Performance Indicators in the Engineering Division and all it's departments.
+* Continuously improve the accuracy and efficiency of Engineering Departments' performance indicators. 
+* Work in close collaboration with GitLab's Data team, provide feedback on o
 
 
 ## Requirements
