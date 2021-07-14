@@ -804,7 +804,12 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 
 ### RingLead
 
-### LinkedIn Sales Insight
+### LinkedIn Sales Insights
+1.  Currently only available to RD/ASM Sales Leadership, all segments. 
+1.  Go to top right, then to manage licenses.
+1.  Add New users button.
+1.  License Type: Sales Insights
+1.  Permissions:  Everyone should be a User. Admin is only for Operations Team.
 
 </details>
 
