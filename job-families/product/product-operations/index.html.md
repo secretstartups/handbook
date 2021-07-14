@@ -23,7 +23,7 @@ _Partner with the Group Manager, Product Operations to:_
    - Leverage automation to boost internal and external knowledge about GitLab's key product communications such as:
      - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](/handbook/product/product-management/process/#kickoff-meetings)
      - Presentation and discoverability of [release post](url) and [release notes](url)
-     - Design and build systems to better share knowledge and align product management and its stable counterparts such as Marekting, Support, Sales and Customer Support
+     - Design and build systems to better share knowledge and align product management and its stable counterparts such as Marketing, Support, Sales and Customer Support
      - Develop tools for collecting and aggregating larger volumes of customer and user feedback from GitLab issues
    - Support maintenance and automation of [Product Operations owned surveys](https://about.gitlab.com/direction/product-operations/#product-operations-survey-results)
    - Help create and maintain Product Operations related intelligence dashboards in Sisense and other tools as needed
