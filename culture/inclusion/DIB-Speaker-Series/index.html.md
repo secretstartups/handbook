@@ -11,10 +11,12 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/19)** - [Calendar link EMEA/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJvNHFrZG1zZ2IycDMwaTZidTdrMzI1dXAgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) [Calendar link APAC/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHZvZWh1amN0djdqcDZqbDkwY2FzZTE4dWggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
+- **July 19th Fireside and Q&A with [Sophie Longley](https://www.linkedin.com/in/sophie-longley/)** - [Calendar link APAC/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDlsOGFiN2kydGlmZHFsbGVtNTFiMWdidmMgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) [Calendar link APAC/EMEA](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnBvYXNyZ3RsdG4xbTgzb20yZG4yMjE4MjggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
 
 
 ### Past Speakers and Events 
+
+- **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor]
 
 - **May 19th 2021** Gitlab Fireside chat with Shaun Christie-David - Social Entrepreneur and CEO of Plateitforward
 
