@@ -9,16 +9,16 @@ title: FY22-Q2 L&D Mental Health Newsletter
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Mental Health Newsletter, Edition 3! 
+## Mental Health Newsletter, Edition 3!
 
 Hello, GitLab Team! Welcome to 3rd edition of the GitLab Mental Health newsletter! If you're interested in learning more about the intentions of this newsletter, check out our [goals](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#long-term-goals) listed in the handbook.
 
 And, if this is your first time reading the Mental Health Newsletter, be sure to check out [past editions](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/#past-newsletters) for great information about team member resources to prevent burnout and support mental wellbeing.
 
 
-## Leadership feature 
+## Leadership feature
 
-Did you know that L&D hosts a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) with Sid on a weekly basis? During these calls, we invite team members to join small-group conversations that dive deep into specific topics in our leadership handbook, or topics that are relevant to team member success. 
+Did you know that L&D hosts a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) with Sid on a weekly basis? During these calls, we invite team members to join small-group conversations that dive deep into specific topics in our leadership handbook, or topics that are relevant to team member success.
 
 During a recent session, the L&D team and other mental health advocates at GitLab talked to Sid about his experience with returning to work after time off, managing burnout, and addressing imposter syndrome. Check out the meeting recording below or on the [mental health handbook page](/company/culture/all-remote/mental-health/#introduction).
 
@@ -31,7 +31,7 @@ During a recent session, the L&D team and other mental health advocates at GitLa
 
 ## Live Speaker Series about Rest Ethic
 
-The L&D team was happy to welcome John Fitch back to speak to GitLab for a second Live Speaker series! We [first hosted John back in December 2020](/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive) where we discussed the importance of taking time off. 
+The L&D team was happy to welcome John Fitch back to speak to GitLab for a second Live Speaker series! We [first hosted John back in December 2020](/company/culture/all-remote/mental-health/#rest-and-time-off-are-productive) where we discussed the importance of taking time off.
 
 During this second visit to GitLab, John spoke to manager enablement of time off and the ways that rest impacts both or productivity and engagement at work.
 
@@ -53,11 +53,11 @@ If you have a suggestion for, or a connection to, a speaker you'd like to see co
 
 ![modern-health.png](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/modern-health.png)
 
-We're using this newsletter to highlight [Modern Health Circles](https://circles.modernhealth.com/). Circles are live community sessions designed to help you proactively improve your mental health. 
+We're using this newsletter to highlight [Modern Health Circles](https://circles.modernhealth.com/). Circles are live community sessions designed to help you proactively improve your mental health.
 
 **Access to circles is unlimited!** So, take a second and check out their current circles to see what might feel like a good fit for your needs and interests. If you'd like, consider asking a colleague to attend a Circle with you, or share which Circles you might attend in your team Slack channel.
 
-### Featured Modern Health Circles (as of 20201-07-07)
+### Featured Modern Health Circles (as of 2021-07-07)
 
 - [Foundations of Mental Health](https://circles.modernhealth.com/series/foundations)
 - [Honoring LGBTQ+ Voices](https://circles.modernhealth.com/series/honoring-lgbtq-voices)
@@ -70,9 +70,9 @@ We're using this newsletter to highlight [Modern Health Circles](https://circles
 
 ## Learning opportunities to improve team member wellbeing
 
-Having [crucial conversations](/handbook/leadership/crucial-conversations/) both in and outside of work have a massive impact on our mental health. 
+Having [crucial conversations](/handbook/leadership/crucial-conversations/) both in and outside of work have a massive impact on our mental health.
 
-In May 2021, the University of Michigan hosted a crucial conversation about mental health where they discussed ["prioritizing mental health, educating and advocating for resources and policies, and creating an uplifting environment for everyone."](https://publicengagement.umich.edu/crucial-conversations-mental-health-awareness/) 
+In May 2021, the University of Michigan hosted a crucial conversation about mental health where they discussed ["prioritizing mental health, educating and advocating for resources and policies, and creating an uplifting environment for everyone."](https://publicengagement.umich.edu/crucial-conversations-mental-health-awareness/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L8SOfJZ6tjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -90,4 +90,3 @@ Do you have questions about mental health resources at GitLab? Or maybe you have
 | GitLab PTO policy | [PTO Policay Hadndbook](/handbook/paid-time-off/) | [#people-connect Slack channel](https://app.slack.com/client/T02592416/C02360SQQFR/thread/C5P8T9VQX-1587584276.009700) |
 | Learning opportunities about mental health and burnout management | [Mental Health Handbook Page](/company/culture/all-remote/mental-health/#introduction) | [#learninganddevelopment Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W/thread/CETG54GQ0-1609232817.392300) |
 | Ideas, contrbutions, and feedback about this newsletter | [Newsletter handbook page](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter) | [Discussion Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/275) |
-
