@@ -254,8 +254,8 @@ This section describes the approval chain after a manager submits a promotion or
 1. The Total Rewards team will ensure the proposal adheres to the Global Compensation Calculator, with a comment outlining old compensation, new compensation, increase percentage, additional [stock options](/handbook/stock-options/#promotions), job code, rolling 12 month promotion rate for the department, if over the target for the rolling 12 month promotion rate also add the forward 12 month promotion plan for the department, and a link to the salary calculator. The Total Rewards team will also add the average compa ratio for the job code to serve as an additional data points for PBPs and managers. The People Business Partner will then approve the request if applicable.
 1. The E-Group leader will review the entire proposal in BambooHR for approval. 
 1. The CFO or CEO will review the request. If there are any questions, the CFO or CEO will add a comment outlining the specific concerns and the Total Rewards team will ensure follow-up within a week to escalate to the comp group or deny the request.
-1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) in HelloSign.
-1. HelloSign will prompt the manager to discuss the promotion with the team member and announce on the Slack **#team-member-updates** channel where the manager describes how the individual met the promotion criteria and includes a link to the merge request where the individual's title is updated on the team page.
+1. If the request is approved, the Total Rewards team will process the change on BambooHR and stage the [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) in DocuSign.
+1. DocuSign will prompt the manager to discuss the promotion with the team member and announce on the Slack **#team-member-updates** channel where the manager describes how the individual met the promotion criteria and includes a link to the merge request where the individual's title is updated on the team page.
 1. When announcing or discussing a promotion in the Slack **#team-member-updates** channel, *please include the link to the promotion Google Doc* to increase visibility for the reasons behind the promotion.
 1. For change of departments or change of roles (individual contributor to managers), People Experience Associates will create a Career Mobility Issue.
 
@@ -303,6 +303,7 @@ If a department is over the 12% promotion rolling rate, the following process sh
 
 #### Letter of Adjustment
 
+1. For all the [GitLab entities](https://about.gitlab.com/handbook/people-group/employment-solutions/#gitlab-entities) and [Independant Contractors](https://about.gitlab.com/handbook/people-group/employment-solutions/#team-members-hired-as-contractors-via-our-gitlab-it-bv-entity) create letter of adjustment as per the steps mentioned below. For [PEO's](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), check if a notification to the PEO is required for the creation of letter of adjustment. Currently only Remote Technology requires a notification to generate the letter of adjustment for their respective team members.  
 1. Make a copy of the [Letter of Adjustment template](https://docs.google.com/document/d/1lxx92gGXL6hltRxKn0I6D8a8dHtvFBnElDf7dAlxkkQ/edit) and enter all applicable information based on the BambooHR request. The effective date is as follows:
     - For sales personnel with a variable change, the effective date is always the 1st of the month regardless of their entity.
     - For US team members, the effective date should be either the 1st or the 16th. If the [payroll cut off date](/handbook/finance/payroll/#payroll-cut-off-date) has passed for the current pay period, the effective date should be made for the start of the next pay period. The GitLab Inc and Federal Payroll calendar should be referenced when determining the effective date.
@@ -313,13 +314,13 @@ If a department is over the 12% promotion rolling rate, the following process sh
     - For all other changes, the effective date should be the first of the current month if processed on or before the 8th of the month and the first of the next month if processed after the 8th of the month.
     - For example, if a GitLab Ltd team member has a change being processed on June 7, this would be effective June 1.
     - If the change was instead being processed on June 15, this would be effective July 1.
-1. Stage the letter in HelloSign and add the following team members to sign:
-    - Add checkbox for the Total Rewards Analyst to audit
-    - Add checkbox for the Manager to communicate the change to the team member and announce on the `#team-member-updates` Slack channel.
+1. Stage the letter in DocuSign and add the following team members to sign:
+    - Add radio button (Delete the additional one) for the Total Rewards Analyst to audit
+    - Add radio button (Delete the additional one) for the Manager to communicate the change to the team member and then again add one radio button to (Delete the additional one) announce on the `#team-member-updates` Slack channel. 
     - Add signature field for the Total Rewards Authorized Signatory
     - Add signature field for the team member
     - Add sign date field for the team member
-    - **Note:** Make sure that **a)** "Assign signer order” option has been selected while preparing the doc, and **b)** In **Settings >> Profile >> Send an email to all parties in an ordered signature request when the request has started** option is unchecked.
+    - **Note:** Make sure that **a)** "Set signing order” option has been selected while preparing the doc, and **b)** Select radio button instead of checkboxes as only radio button allows you to select the required field/mandatory field option. This prohibits the Total Rewards Analysts and Manager to process the letter without checking the tasks on the letters.
 1. Once signed by all parties, save the letter to the “Contracts & Changes” folder in BambooHR.
 1. If some amount of onboarding in the new role or offboarding from the old role is required (for example a change in access levels to infrastructure systems; switch in groups and email aliases, etc.), notify People Experience Associates in the internal Promotions/Transfers spreadsheet tracker (using the `people-exp@gitlab.com` alias) and the People Experience Associates will create an associated [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) with the [Slack Command](/handbook/people-group/engineering/#internal-transition-issue-creation) list and track associated tasks for the previous and new manager. Tag or mention the aligned [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division) in the Career Mobility Issue.
 
