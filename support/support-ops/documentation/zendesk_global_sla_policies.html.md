@@ -121,6 +121,7 @@ This requires an exact process, which is detailed via the
       * `consumption_only`
     * Ticket Stage is not Needs Org
     * Ticket Stage is not Needs Triage
+    * Form is not L&R
   * Any
 
 | Target | Urgent | High | Normal | Low |
