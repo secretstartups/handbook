@@ -758,14 +758,13 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. The onboarding issue will auto create the AR on day 2
 2. The templates will automatically:
    - Add the SalesOpsAR::Action Needed label
-   - Leave the assignee blank
-   - CC Amber and Meri as the Provisioning DRIs
-3. The DRIs will receive an email when a new AR is created
+   - Auto assign to the provisioning DRI listed in the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+3. The DRI will receive an email when a new AR is created
 4. All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 5. When the AR is picked up by the Sales Operations team member, the team member will:
-   -assign the issue to themself
+   -assign the issue to themself (if not already auto assigned)
    -add the label SaelsOpsAR::In Progress
-6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly.
+6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly. NOTE: If a new task appears in the Sales Operations section, reach out in slack or on the AR to clarify the ask and to make sure it is in the correct provisioner section.  Do not skip it. 
 7. If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 
 ### Single Person or Bulk Access Request
@@ -774,11 +773,11 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
    - Add the SalesOpsAR::Action Needed label
    - Leave the assignee blank
-   - CC Amber and Meri as the Provisioning DRIs
-3. The DRIs will receive an email when a new AR is created
+   - Assign to the provisioning DRI listed in the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+3. The DRI will receive an email when assigned, or can see the AR based on the label.
 4. All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 5. When the AR is picked up by the Sales Operations team member, the team member will:
-   -assign the issue to themself
+   -assign the issue to themself (if not already assigned)
    -add the label SaelsOpsAR::In Progress
 6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly.
 7. If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
@@ -792,7 +791,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 
 Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
-### DataFox
+### DataFox 
 
 1. From the [Settings Page](https://app.datafox.com/settings/general-information) in DataFox located in the top right under your name, click on **Team Management** located on the left.
 1. From **Team Management**, click the **Invite Your Team** button, enter the email addresses of the users to be provisioined, click **Send Invitations**.
@@ -802,6 +801,10 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 ### Clari
 
 ### SalesForce
+
+### RingLead
+
+### LinkedIn Sales Insight
 
 </details>
 
