@@ -81,8 +81,9 @@ The following actions are perfored by Data Team Triager:
       - According to the Merge of the GitLab.com MR, merge will be plannend.
       - All stakeholders will be informed.
 
-Determination matrix **.
-| Change | Call to action needed  *|
+Determination matrix: **
+
+| Change | Call to action needed* |
 | ------ | ------ |
 | New table created | :x: |
 | Table deleted | :white_check_mark: |
