@@ -12,7 +12,7 @@ canonical_path: "/company/culture/inclusion/erg-minorities-in-tech/"
 {:toc}
 
 ## Mission
-We are the Minorities in Tech (MIT) Enterprise Resource Group (TMRG)  founded in the fall of 2019. Along with GitLab Pride,  GitLab Women and GitLabDiverseABILITY, our goal is to ensure that members of these groups feel they have a safe space to communicate, unite and share issues that are reflective of their experience while at GitLab. This  group is not exclusionary and is open to anyone who is a GitLab employee
+We are the Minorities in Tech (MIT) Enterprise Resource Group (TMRG) founded in the fall of 2019. Along with GitLab Pride, GitLab Women and GitLabDiverseABILITY, our goal is to ensure that members of these groups feel they have a safe space to communicate, unite and share issues that are reflective of their experience while at GitLab. This group is not exclusionary and is open to anyone who is a GitLab team member.
 
 ## Leads
 * [Aricka Flowers](https://about.gitlab.com/company/team/#atflowers)
