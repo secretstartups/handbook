@@ -800,7 +800,14 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 
 ### Clari
 
+1.  [Onboarding New Users / Clari Account Registration](https://clari.zendesk.com/hc/en-us/articles/115001856971-Onboarding-New-Users)
+
 ### SalesForce
+
+1. Access to Salesforce should follow what is documented in the Baseline entitlement ARs. Requests for additional permissions in SFDC should flow to the sales systems team in terms of customizing the application and set up. 
+1.  If access is unclear, reference a users that has the same manager or a team member. The smallest amount of access required should be the access granted.  Sales Systems and Sales Ops can help advise.
+1.  [Citizenship Verification Steps](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#citizenship-confirmation) when Public Sector access is requested outside of the standard Profile/Role. 
+
 
 ### RingLead
 
