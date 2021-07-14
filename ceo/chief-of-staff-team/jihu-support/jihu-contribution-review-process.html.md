@@ -41,7 +41,7 @@ When performing the security review of a JiHu contribution, the reviewer needs t
     * Look to make sure that the code does not introduce any new vulnerabilities
 1. If the merge request looks acceptable:
     * Apply the `sec-planning::complete` label
-    * Make a comment indicating that everything looks okay and ping the `@gitlab-com/gl-security/federal-application-security` team
+    * Make a comment indicating that everything looks okay from a security perspective
     * Click the 'Approve' button on the merge request
     * Should the code change after an AppSec team member approved it, the AppSec reviewer should give it a quick re-review to make sure everything still looks okay
 1. If the merge request does not look acceptable at this time and/or introduces new vulnerabilities:
