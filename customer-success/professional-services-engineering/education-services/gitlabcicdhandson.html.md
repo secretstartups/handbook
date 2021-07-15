@@ -19,7 +19,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 * [Lab 4: Display pipeline environment info](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab4.html)
 * [Lab 5: Variable hierarchy](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab5.html)
 * [Lab 6: Job policy pattern](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab6.html)
-* [Lab 7: Artifact hierarchy](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab7.html)
+* [Lab 7: Using artifacts](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab7.html)
 * [Lab 8: GitLab docker registry](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab8.html)
 * [Lab 9: Security scanning](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9.html)
 

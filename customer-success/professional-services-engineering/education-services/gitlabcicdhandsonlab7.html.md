@@ -6,7 +6,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 # GitLab CI/CD Hands-On Guide: Lab 7
 {:.no_toc}
 
-## LAB 7: ARTIFACT HIERARCHY
+## LAB 7: USING ARTIFACTS
 
 ### Add artifacts to your pipeline 
 
