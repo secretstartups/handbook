@@ -24,7 +24,12 @@ If you encounter a situation with the following cases, an admin note is required
 
 ### Adding the Note
 
-To add the admin note, navigate to the user profile in the admin page of GitLab.com; click on "edit the profile"; then fill in the Admin Notes section.
+Adding an admin note can be done using one of the following methods:
+
+  - Admin account: navigate to the admin page for the user (`/admin/username`), click `Edit`, add the relevant admin note, then click `Save` when done. 
+  - ChatOps: 
+    - Find the user to confirm it's the proper account: `/chatops run user find <username or current email>`
+    - Add the admin note: `/chatops run user note <username or current email> 'admin note here'`
 
 In general, the formatting should be standard in a one liner format:
 
