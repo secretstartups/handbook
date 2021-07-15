@@ -60,8 +60,8 @@ At a high level, the process is:
 | by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs
 | by the 17th | **EMs** merge MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring content blocks for usability, performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Messaging lead** picks a top features and/or themes to highlight and finalizes the introduction content |
-| 18th - 20th | The **Release post manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release post manager**. |
-| 22nd of Month | The **Release post manager** publishes the blog post to master on the morning of the 22nd, immediately following the package itself being published by the **Release team** The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via the process outlined in [`gitlab!44837`](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44837)|
+| 18th - 20th | The **Release Post Manager, Messaging Lead, and TW Lead** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**. |
+| 22nd of Month | The **Release Post Manager** publishes the blog post to master on the morning of the 22nd, immediately following the package itself being published by the **Release team** The [GitLab.org Releases page](https://gitlab.com/gitlab-org/gitlab/-/releases) will also populate the changelog via the process outlined in [`gitlab!44837`](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/44837)|
 
 _**Note:** The specific steps that should be followed, when they are due, and the order they should be followed in are described in the [Monthly release **post** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post.md) and the [Monthly release **post item** MR template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)._
 
@@ -111,7 +111,7 @@ whole process. If you take it, you're responsible for the entire process and mus
 available to carry it out until the end.
 {:.alert .alert-warning}
 
-#### Release post manager shadow
+#### Release Post Manager Shadow
 
 Each month a Product Manager also acts as a shadow to support the Release Post Manager tasks if needed, act as back up on decisions in absence of the Release Post Manager and prepare to run the next release post. By shadowing the month prior to leading the effort, Product Managers are prepared and aware of any shifts in processes or optimizations needed since the last time they participated.
 
@@ -745,7 +745,7 @@ the relative path.
 
 **Note:** The introduction or other parts of the release post written may include links to external
 blog posts. These links may be broken until the 21st, but should still be flagged by the TW Lead
-during the structural check so the Release post manager and Messaging lead don't miss coordinating
+during the structural check so the Release Post Manager and Messaging lead don't miss coordinating
 with authors of these external blogs to ensure they're live before the release post blog goes live
 on the 22nd.
 {: .alert .alert-info}
