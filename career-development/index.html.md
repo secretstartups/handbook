@@ -302,6 +302,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 subgraph Based on Merit &amp; Company Need
   eng:spd(Senior Product Designer)-->eng:stpd(Staff Product Designer);
+  eng:stpd(Staff Product Designer)-->eng:ppd(Principal Product Designer);
 
   eng:spd(Senior Product Designer)-->eng:pdm(Product Design Manager);
   eng:pdm(Product Design Manager)-->eng:spdm(Senior Product Design Manager);
@@ -324,6 +325,7 @@ end
   click eng:pd "/job-families/engineering/product-designer/";
   click eng:spd "/job-families/engineering/product-designer/";
   click eng:stpd "/job-families/engineering/product-designer/";
+  click eng:ppd "/job-families/engineering/product-designer/";
   click eng:pdm "/job-families/engineering/ux-management/";
   click eng:spdm "/job-families/engineering/ux-management/";
   click eng:dpd "/job-families/engineering/ux-management/";
