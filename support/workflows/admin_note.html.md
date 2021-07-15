@@ -28,7 +28,7 @@ Adding an admin note can be done using one of the following methods:
 
   - Admin account: navigate to the admin page for the user (`/admin/username`), click `Edit`, add the relevant admin note, then click `Save` when done. 
   - ChatOps: 
-    - View the user to confirm it's the proper account: `/chatops run user find <username or current email>`
+    - Find the user to confirm it's the proper account: `/chatops run user find <username or current email>`
     - Add the admin note: `/chatops run user note <username or current email> 'admin note here'`
 
 In general, the formatting should be standard in a one liner format:
