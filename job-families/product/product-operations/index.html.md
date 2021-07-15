@@ -45,7 +45,7 @@ _Partner with the Group Manager, Product Operations to:_
    - Strong understanding of Git generally and in the context of GitLab (basic commits, branching, merging; rebasing and merge conflict resolution preferred)
    - Can use the GitLab application including issues and merge requests (ability to maintain, debug, and setup pipelines is preferred)
    - Comfortable with using the command line and command line applications (shell, git, homebrew, asdf or other version manager; bonus points for grep, find, fzf, docker)
-   - Comfortable with using a text editor of your choice (e.g. vim, emacs, VS Code, SublimeText, Textmate)
+   - Comfortable with using a text editor of your choice (e.g., vim, emacs, VS Code, SublimeText, Textmate)
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
 
