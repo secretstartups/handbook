@@ -168,7 +168,7 @@ The following section will be updated throughout the program to reflect particip
 
 ##### Metrics
 
-1. Current Participation: 64 team members / 32 mentor/mentee pairs
+1. Current Participation: 66 team members / 33 mentor/mentee pairs
 1. Unique Departments Represented by Mentees: 19
 1. Unique Departments Represented by Mentors: 18
 1. Number Participants in Kickoff Sessions: Total attendance by program participants = 95.31%
