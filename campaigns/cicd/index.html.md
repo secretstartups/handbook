@@ -170,9 +170,24 @@ Always On Lead Generation:
 {: #nurture-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+**[See Marketo Nurture Email Copies >>](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2478#ship-final-copies)**
+
+
 ### Outreach Emails
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### :large_blue_circle: MASTER|Inbound sequence for each region
+
+* [NORAM](https://app1a.outreach.io/sequences/5262)
+* [EMEA](https://app1a.outreach.io/sequences/5393)
+* [APAC](https://app1a.outreach.io/sequences/5394)
+
+#### :black_circle: MASTER|Outbound sequence for each region
+
+* [NORAM](https://app1a.outreach.io/sequences/5381)
+* [EMEA](https://app1a.outreach.io/sequences/5395)
+* [APAC](https://app1a.outreach.io/sequences/5396)
 
 ## Behind the Scenes
 {: .alert #research-prep .alert-gitlab-orange}
@@ -180,6 +195,7 @@ Always On Lead Generation:
 #### Campaign Execution Documentation & Resources
 {: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* [Campaign Epic]()
-* [Project timeline plan]()
+* [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/741)
+* [Project timeline plan](https://docs.google.com/spreadsheets/d/1a-0P2N8LKxqmMJLKv2ZlUbXXeu7I1dMSfXHWqzl0rg0/edit#gid=1426779885)
 * [Copy Doc]()
+* [Art Work](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/tree/master/design/campaigns/use-cases/CI)
