@@ -31,21 +31,6 @@ You can read more about the role below:
 
 The Support Team uses [Epics](https://gitlab.com/groups/gitlab-com/support/-/epics/) to track and coordinate ongoing projects. [For the master epics](https://gitlab.com/groups/gitlab-com/support/-/epics?scope=all&utf8=%E2%9C%93&state=opened&search=area%3A), a Support manager will be assigned as a Directly Responsible Individual (DRI) you will see their name in parentheses after the Epic title.
 
-### Manager's issue board
-
-This [issue board](https://gitlab.com/groups/gitlab-com/-/boards/1591982) shows all issues assigned to Support mangers.
-
-1. Items above the cut line are what they are currently working on
-1. This helps give people a sense of some of the 'top of mind' work for the current week
-1. Items below the cut line are not intended to be sorted.
-1. The board should be used in combination with Epics where longer term projects are visible.
-
-**Managers: To use the board**
-
-1. Each week, drag above the 'cut line' one or two issues that you expect to close out or work on this week
-1. This is a lightweight process that should take a couple of minutes each week
-1. It won't capture everything you're working on but helps folks quickly scan to see some of your top priorities
-
 ### Director's issue board
 
 For global team issues for which the Director is responsible, see the `Customer Support Department` list of [this board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/980804?label_name%5B%5D=Engineering%20Management)
@@ -136,3 +121,4 @@ New managers will establish their own OKR after they have been in their role for
 ## Support Engineering Manager READMEs
 
 Support Engineering Manager READMEs are found in [Engineering Manager READMEs](/handbook/engineering/readmes/).
+
