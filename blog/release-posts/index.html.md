@@ -213,7 +213,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
 Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
 
 1. The source branch must be `release-X-Y` and the target branch `master`.
-1. Set the title to `Draft: Release post - GitLab X.Y`.
+1. Set the title to `Release post - GitLab X.Y`.  Do **not** prefix the title with `Draft:` or `WIP:`.
 1. Confirm that "Delete source branch when merge request is accepted" is selected.
 1. Use the release post template for your MR.
 
