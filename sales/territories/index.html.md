@@ -41,12 +41,19 @@ title: "Sales Territories"
 
 {:.no_toc}
 
-- **VP Commercial Sales** ([Mid-Market](#mid-market) & [Small Business](/handbook/sales/territories/territory-deprecate/#small-business-segment)): Ryan O'Nell
-- <b>[APAC](#apac)</b>: Anthony McMahon, Regional Director
-- <b>[Europe, Middle East and Africa](#emea)</b>: TBD, Regional Director
-- <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: TBD, Regional Director
-- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Brittany Caulfield, Regional Director
-- <b>[Public Sector](#public-sector)</b>: Jim Riley (Interim), Director of Federal Sales
+**Enterprise Sales**
+- **VP Enterprise Sales**: Mike Pyle
+- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): TBH, Regional Director
+- <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
+- <b>North America - US East</b> (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
+- <b>North America - US West</b> (`#us-west` Slack channel): TBH, Regional Director
+- <b>Public Sector</b> (`#public-sector` Slack channel): Bob Stevens, Area Vice President
+ 
+**Commercial Sales**
+- **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
+- **Mid Market Global Sales**: Timmothy Ideker, Regional Director
+- **SMB North America Sales** (`#smb` Slack channel): Nick Christou, Regional Director
+- **SMB EMEA/APAC Sales** (`#international-smb` Slack channel): Helen Mason, Area Sales Manager
 
 ## Territories
 
