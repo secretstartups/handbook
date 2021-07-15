@@ -75,13 +75,13 @@ As the Group Manager, Product Operations, you will drive the vision for GitLab's
 
 ### Requirements
 
-* 7+ years in Product Management
-* 5+ years of people management experience
-* Past experience in leadership, project management, program management and/or product operations preferred
-* Expert in best practices in product management, product design and software development
-* Demonstrated success in company-wide alignment and change management for teams of 500+
-* Ability to inspire and motivate cross-functional product teams to adopt frameworks that prioritize value to customers/users
-* Ability to partner with and align with stakeholders across the business such as marketing, Support, Sales and Customer Success
-* Experience in companies that employ modern product management & software development techniques
+- 7+ years in Product Management
+- 5+ years of people management experience
+- Past experience in leadership, project management, program management and/or product operations preferred
+- Expert in best practices in product management, product design and software development
+- Demonstrated success in company-wide alignment and change management for teams of 500+
+- Ability to inspire and motivate cross-functional product teams to adopt frameworks that prioritize value to customers/users
+- Ability to partner with and align with stakeholders across the business such as marketing, Support, Sales and Customer Success
+- Experience in companies that employ modern product management & software development techniques
 * You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 * You share our [values](/handbook/values/), and work in accordance with those values
