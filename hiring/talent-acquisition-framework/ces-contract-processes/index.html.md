@@ -40,6 +40,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
 | GitLab IT BV | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
+| GitLab France S.A.S. | Craig Mestel, Igor Groenewegen-Mackintosh |
+| GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
 
 #### Offer Details Access steps
 Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
