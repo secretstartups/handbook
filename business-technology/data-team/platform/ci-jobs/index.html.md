@@ -15,6 +15,9 @@ description: "GitLab Data Team CI Jobs"
 ---
 
 This page documents the CI jobs used by the data team in Merge Requests in both the [Data Tests](https://gitlab.com/gitlab-data/data-tests) and [Analytics](https://gitlab.com/gitlab-data/analytics) projects.
+## How to run pipelines 
+
+## What to do if a pipeline fails 
 
 ## Stages
 
