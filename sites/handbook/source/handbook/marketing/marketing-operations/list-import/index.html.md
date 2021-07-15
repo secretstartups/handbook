@@ -366,6 +366,7 @@ In Marketo there is a an option to choose trusted or non-trusted sources. Non-tr
 Here is the list of fields that are blocked during a non-trusted import. If you would like to add more fields, please file an issue with the mops team.
 - First Name
 - Last Name
+- Company
 - Country
 - City
 - State

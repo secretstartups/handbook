@@ -75,7 +75,7 @@ Any assets being translated into the supported language pairs will be supported 
 
 Finance requires us to tally the cost and professional services hours at the end of each month for the month so they can approriately allocate each cost to the respective budget. 
 
-Please use the follow naming convention: `Language Abbreviation - Campaign Name or Name of Asset - Date - DRI or Team`. This is only applicable to the `Documents` and `Marketo` projects as the `GDN` and repo connector job submissions are handled differently. Where possible, please include as much detail as you can. The assets submitted through the `Marketo` project will have an auto-generated name due to the connector. Once your Marketo job shows up in the Smartling UI, click into the job and rename it according to the naming conventions above. It is important to follow these standard naming conventions so finance can accurately allocate translation costs across teams. 
+Please use the follow naming convention: `Language Abbreviation - Campaign Name or Name of Asset - FYFQ - DRI or Team`. This is only applicable to the `Documents` and `Marketo` projects as the `GDN` and repo connector job submissions are handled differently. Where possible, please include as much detail as you can. The assets submitted through the `Marketo` project will have an auto-generated name due to the connector. Once your Marketo job shows up in the Smartling UI, click into the job and rename it according to the naming conventions above. It is important to follow these standard naming conventions so finance can accurately allocate translation costs across teams. 
 
 ### Per-Word Rates
 
@@ -91,7 +91,11 @@ Automatically generated based on the total word count. Anything under 5,000 word
 
 ## Using Smartling 
 
-Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the [integration type](#projects) and know what type of document format you are translating.
+Smartling categorizes translation jobs by the integration type (Marketo, documents, GDN). This is because each of these integration types parse the strings differently based on the file format (example: HTML vs. PDF). Before you request a translation, you must first start at the [integration type](#projects) and know what type of document format you are translating. You also need to consider the appriopriate workflow for your translation. Below are the options for workflows:
+
+1. **SMARTLING - TRANSLATION + EDITING**: This workflow will put your asset through translation and once the translation is ready, it will publish the asset. There is no internal review on this workflow.
+1. **SMARTLING LANGUAGE SERVICES (WITH IR)**: This workflow is the default for all languages. After the asset is translated, it will go to an internal review step to be performed by one of our internal reviewrs. They will review and if happy with the translated, publish the asset. Please check [here](https://about.gitlab.com/handbook/marketing/localization/#process-for-requesting-a-review-via-smartling) for our list of internal reviewers and how to notify them of a job.
+1. **DTP**: This workflow will send your asset to a designer in Smartling and they will format your assets. Before going to DTP, it will be reviewed by an internal reviewer. Please see [below](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files) for more information on this process.
 
 **Field Marketing use of Smartling**
 
@@ -123,12 +127,15 @@ Request a job in the Documents project
 
 1. Click `Jobs`. This takes you to all translation jobs regardless of what project they reside in.
 1. Click the `Request Translation` button in the top-right.
-1. Enter a name for the job. Use the following naming convention: `[Title of asset] - [Campaign tag name] - [Team/individual DRI]`
+1. Enter a name for the job. Use the following naming convention: `Language Abbreviation - Title of asset or campaign name - FYFQ - Team/individual DRI` - Example: KO - Benefits of Single Application CICD eBook - FY22Q2 - Campaigns/JT
 1. Ensure the job is located in the correct project according to the integration type (Marketo, GDN, Documents). Each project operates and includes a different workflow depending on the intergration.
 1. Upload the file to be translated.
-1. In the `Description`, paste the link of the epic or issue related to the translation job.
+1. In the `Description`, paste the link of the epic or issue related to the translation job. **If you are using DTP** (desktop publishing services) and would like a PDF returned after design, please also enter "Please return designed PDF" in addition to the epic or issue.
+1. In the `Reference number` field, enter the Allocadia ID for your team's translation budget. The Content team does not have an ID and can leave this blank.
 1. Select the target language for the source file (what language want your document to be translated to).
 1. Click `Save Job and Continue`.
+1. On the next screen, select the workflow you would like. If you do not require design services (additional fee required), select the default workflow for the language. If you do require DTP, select it as your workflow and follow the instructions under [Design Files](https://about.gitlab.com/handbook/marketing/marketing-operations/smartling/#design-files).
+
 
 </details>
 

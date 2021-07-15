@@ -133,16 +133,19 @@ Follow the workflow mural to see the lead lifecycle. Notice you cannot go backwa
 </div>
 
 ### Scoring Model
-The MQL model is based on a 100 point system. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL.
+The lead scoring model is a 100 point system in order to MQL. Positive and negative points are assigned to a record based on their demographic and/or firmographic information, and their behavior and/or engagement with GitLab marketing. Their `Person Score` is the sum of their `Behavior Score` and their `Demographic Score`. The `Person Score` must reach `100` in order to MQL.
+
+For account scoring, visit the [DemandBase page](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/#scoring-accounts-in-demandbase).
 
 There is a flow that runs everynight to reset leads that have gone negative back to `0`. 
 
-The model below is updated as of 2021-02-09.
+The model below is updated as of 2021-07-08.
 
 Some leads are exluded from scoring if they:
 * Have a `@gitlab.com` email address
 * Are a competitor
 * Status = `Unqualified` or `Bad Data`
+* Company name of `student`, `personal`, `test` and similar 
 
 #### Behavior Scoring
 
@@ -199,7 +202,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
-|Focus Account|	[Account Based/Centric](https://about.gitlab.com/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Focus Account}}|	Trigger|Once|
+|Focus Account|	[Account Based/Centric](/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Focus Account}}|	Trigger|Once|
 |Technology - High (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+20|	{{my.Tech - High}}|	Batch / Nightly|	Once|
 |Technology - Low (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+10|{{my.Tech - Low}}	|	Batch / Nightly|	Once|
 |Seniority - High|[Find descriptions here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)|	+20	|{{my.Seniority - High}}|	Trigger on creation or Update to Title|	Once|
