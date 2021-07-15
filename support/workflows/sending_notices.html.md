@@ -54,6 +54,6 @@ Infrastructure may ask us to notify a particular user or group that the mirror o
 
 Outside of Zendesk we may be asked to be involved in the process of sending mass notices to users via MailChimp. In these cases, do the following:
 
-1. [Open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Email-Request-mpm) in the [marketing/digital-marketing-programs](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs) issue tracker using the `Email-Request-mpm` template.
+1. [Open an issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=email-request) in the [marketing/demand-generation/campaigns](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns) issue tracker using the `Email-Request-mpm` template.
 1. Fill the template out in its entirety.
 1. Submit the issue and be ready to adjust the subject and/or body of the notice based on feedback.
