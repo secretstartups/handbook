@@ -40,7 +40,7 @@ _Partner with the Group Manager, Product Operations to:_
 - Experience in customer-first product systems similar to GitLab's, especially important is familiarity with modern customer validation techniques
 - Experience supporting the rollout of frameworks/process updates for team of 100+
 - Deep knowledge of and demonstrated experience in change management
-- Technical skills and familiarity with Git:
+- Technical skills and familiarity with Git and other tools:
    - Familiarity / Working knowledge with some scripting language (Python, Ruby, Javascript, etc; Ruby preferred)
    - Strong understanding of Git locally and in the context of GitLab (branching, merging; ignoring files, rebasing and merge conflict resolution preferred)
    - Can use the GitLab application including issues and merge requests (ability to maintain, debug, and setup pipelines is preferred)
