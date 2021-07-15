@@ -69,7 +69,8 @@ As the Group Manager, Product Operations, you will drive the vision for GitLab's
 - Serve as "Chief of Staff" for the EVP, Product, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
 - Help define, document, and ensure consistent execution of the GitLab product manager onboarding / product management / product development process
 - Manage a team of 2-4 product managers and/or product operations specialists
-- Bridge important changes from inside the organization to other departments like Marketing, Support, Sales and Customer Success
+- Lead the implementation and drive adoption of large scale process updates for the product team, 
+- Own communication of product team frameworks/processes to other departments like Marketing, Support, Sales and Customer Success as needed
 - Support the [creation of external content](/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
 
 ### Requirements
