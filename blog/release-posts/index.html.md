@@ -1396,7 +1396,13 @@ extras:
 _To be added by Product Managers or Engineering Managers and merged by either._
  Deprecation notices should be [added to the release post per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
- **Please watch this helpful [video](https://www.youtube.com/watch?v=9gy7tg94j7s) as well as reading the info below to help clarify this process for you.**
+**Please watch this video as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/embed/9gy7tg94j7s" title="How to deprecate and remove features in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+To better understand GitLab's overall deprecations and removals policy, check out this [video](https://about.gitlab.com/handbook/product/gitlab-the-product/#video-on-deprecations-and-removals-process).
 
 A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
 Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
