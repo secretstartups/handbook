@@ -83,6 +83,8 @@ See the [500-specific section in the Kibana](kibana.html#searching-kibana-for-50
 
 See the [Sentry workflow](sentry.html).
 
+A video walkthrough of investigating 500 errors using Kibana and Sentry can be seen [here](https://youtu.be/o02t3V3vHMs) (GitLab Unfiltered).
+
 #### Escalation
 
 Once results have been found in either Kibana or Sentry, do the following.
