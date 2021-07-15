@@ -375,7 +375,7 @@ Please note these process details:
 
 ## Investor and Board Communication
 
-Throughout the year the Executive Business Partner team puts together a calendar of events for board members and other events associated with planning. Those events can be found in the [GitLab Board Calendar](https://docs.google.com/spreadsheets/d/1GW59GiT0MLXEgMxy2bN0ZVcbMs_wssOkP2c59f19YTk/edit?usp=sharing) sheet.
+Throughout the year the Executive Business Administrator to the CEO puts together a calendar of events for board members and other events associated with planning. Those events can be found in the [GitLab Board Calendar](https://docs.google.com/spreadsheets/d/1GW59GiT0MLXEgMxy2bN0ZVcbMs_wssOkP2c59f19YTk/edit?usp=sharing) sheet.
 
 ## By Cost Center - Where GitLabbers Report
 
