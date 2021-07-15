@@ -24,7 +24,7 @@ variables:
 variables:   
   INLINE_LOCAL_VARIABLE: "I'm an inline variable set at the job level of the CI/CD configuration file"
 ```
-1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 
 ### Add group- and project-level variables
 

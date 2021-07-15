@@ -22,14 +22,14 @@ We will use a pre-defined template for NodeJS Express to show how Auto DevOps wo
 
 ### Commit a change in order to trigger a pipeline run
 1. In the left pane, click **Repository**.
-2. Switch to the **new-feature** branch by selecting it in the dropdown that currently says **master** near the top left of the window.
+2. Switch to the **new-feature** branch by selecting it in the dropdown that currently says **main** near the top left of the window.
 4. Click `views` > `index.pug`.
 5. Click the blue **Edit** button and then modify the last line of `index.pug` to: `p GitLab welcomes you to #{title}` Note: be sure to include the `p` at the beginning of the line.
 6. In the **Commit message** field, type `Update welcome message in index.pug`. Click **Commit changes**.
 7. Click the blue **Create merge request** button.
 8. Assign the merge request to yourself.
 9. Add `Draft:`to the beginning of the text in the **Title** field to show that it isn't ready to be merged yet.
-10. Leave all other fields at their default values and click **Submit merge request** at the bottom of the page. You now have an active merge request for merging the `new-feature` branch into the `master` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (sometimes you have to refresh the page to see the pipeline's status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
+10. Leave all other fields at their default values and click **Submit merge request** at the bottom of the page. You now have an active merge request for merging the `new-feature` branch into the `main` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (sometimes you have to refresh the page to see the pipeline's status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
 11. Toward the end of the Auto DevOps pipeline, it will deploy your NodeJS Express application into a review environment named after the branch: **review/new-feature**.
 12. You can see the Docker container that the Auto DevOps pipeline created when it was deploying your application to the review environment: in the left pane, click **Container Registry** in the **Packages & Registries** section.
 
