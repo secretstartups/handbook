@@ -60,15 +60,15 @@ Once you have been assigned a territory:
 ## ISR Account and Opportunity Management
 
 ### ISR Prioritization & Opportunity Tiering
-This process help to better organize, track, and report on the different types of opportunities that are being managed by the ISR team. Enterprise Inside Sales Representitives are required to select the appropriate `ISR Priority` tier for every opportunity that they are working in Salesforce. The `ISR Priority` tier is a data point that should be maintained until each opportunity is closed out.
+This process helps to better organize, track, and report on the different types of opportunities that are being managed by the Enterprise Inside Sales team. Enterprise Inside Sales Reps are required to select the appropriate `ISR Priority` tier for each opportunity that they are working in Salesforce. The `ISR Priority` tier is a data point that can be found in the Opportunity object in Salesforce and should be maintained until the opportunity is closed out.
 
 #### Tier 1 = Actively managed by ISR
 
-An "actively managed" opportunity is any opportunity or renewal which has been delegated by a SAL or AE to be directly managed by an ISR. For all actively managed opportunities, the ISR is required to apply the following tag to the `Description` field of the opportunity object: _#ISR-{first initial}{lastname}_. The tag should be applied immediately after being delegated by the sales team and should remain in the `Description` field until the opportunity is Closed or the opportunity is handed back to the SAL or AE. 
+An "actively managed" opportunity is any opportunity or renewal which has been delegated by a SAL or AE to be directly managed by an ISR. 
 
 #### Tier 2 = Co-managed by SAL and ISR
 
-A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate and work together to close. For Tier 2 opportunities, ISR's and SAL's should notate in the _activity task_ and/or _next steps field_ which sales rep is responsible for next steps.
+A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and work together with customers to close. For Tier 2 opportunities, ISR's and SAL's should notate in the _activity task_ and/or _next steps field_ which individual is responsible for next steps.
 
 #### Tier 3 = SAL-managed
 
