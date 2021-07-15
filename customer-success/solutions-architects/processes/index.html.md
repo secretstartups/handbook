@@ -33,7 +33,7 @@ Simplified process description:
 
 ## Customer Security Assurance
 
-Follow the process detailed in the [GitLab's Customer Assurance Activities](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-assurance-activities-workflow)
+Follow the process detailed in the [GitLab's Customer Assurance Activities](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html)
 handbook page.
 
 Simplified process description:
