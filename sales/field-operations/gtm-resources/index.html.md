@@ -176,12 +176,19 @@ If the number of employees, according to our sources based on our hierarchy as d
 
 ### Regional Leadership
 
+**Enterprise Sales**
+- **VP Enterprise Sales**: Mike Pyle
+- **Europe, Middle East and Africa** (`#emea` Slack channel): TBH, Regional Director
+- **Asia Pacific** (`#apac` Slack channel): Anthony McMahon, Regional Director
+- **North America - US East** (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
+- **North America - US West** (`#us-west` Slack channel): TBH, Regional Director
+- **Public Sector** (`#public-sector` Slack channel): Bob Stevens, Area Vice President
+ 
+**Commercial Sales**
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
-- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): TBH, Regional Director
-- <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
-- <b>North America - US East</b> (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
-- <b>North America - US West</b> (`#us-west` Slack channel): TBH, Regional Director
-- <b>Public Sector</b> (`#public-sector` Slack channel): Bob Stevens, Area Vice President 
+- **Mid Market Global Sales**: Timmothy Ideker, Regional Director
+- **SMB North America Sales** (`#smb` Slack channel): Nick Christou, Regional Director
+- **SMB EMEA/APAC Sales** (`#international-smb` Slack channel): Helen Mason, Area Sales Manager
 
 ### Territories
 
