@@ -42,7 +42,7 @@ _Partner with the Group Manager, Product Operations to:_
 - Deep knowledge of and demonstrated experience in change management
 - Technical skills and familiarity with Git and other tools:
    - Familiarity / Working knowledge with some scripting language (Python, Ruby, Javascript, etc; Ruby preferred)
-   - Strong understanding of Git locally and in the context of GitLab (branching, merging; ignoring files, rebasing and merge conflict resolution preferred)
+   - Strong understanding of Git generally and in the context of GitLab (basic commits, branching, merging; rebasing and merge conflict resolution preferred)
    - Can use the GitLab application including issues and merge requests (ability to maintain, debug, and setup pipelines is preferred)
    - Comfortable with using the command line and command line applications (shell, git, homebrew, asdf or other version manager; bonus points for grep, find, fzf, docker)
    - Comfortable with using a text editor of your choice (e.g. vim, emacs, VS Code, SublimeText, Textmate)
