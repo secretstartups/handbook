@@ -34,7 +34,7 @@ For feature proposals, guide the customer on how to create the issues in [GitLab
 
 ### Refunds
 
-If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_invoicing_payments.html#refunds) workflow.
+If a customer requests a refund, please follow the [Handling Refund Requests](/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#refunds) workflow.
 
 ### Venting
 

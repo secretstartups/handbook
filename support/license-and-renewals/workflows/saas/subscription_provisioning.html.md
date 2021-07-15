@@ -65,7 +65,7 @@ Navigate to the [Clear subscription form](https://gitlab-com.gitlab.io/support/t
  -  If it's not successful then add the `~Console Escalation - customers` label and this will be investigated by the engineers with console access. 
 
  ***
- FYI: If interested, you can find more information about the L&R's Mechanizer tools [here](https://about.gitlab.com/handbook/support/workflows/mechanizer.html): 
+ FYI: If interested, you can find more information about the L&R's Mechanizer tools [here](/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html):
 
 
 

@@ -61,8 +61,10 @@ In collaboration with Sales, Fulfillment and other teams we aim to improve the c
 
 ### Monthly reports
 
-From March 2021 we will publish monthly reports to help track and improve our work in this area. Links to reports:
+We publish monthly reports to help track and improve our work in this area. Links to reports:
 
+- [Support L&R report for 2021-05](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/46)
+- [Support L&R report for 2021-04](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/45)
 - [Support L&R report for 2021-03](https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues/35)
 
 ---
@@ -104,15 +106,14 @@ necessary.
   > LicenseDot - admin
 * Justification for this access:
   > Support Engineers need LicenseDot admin access to work on customer licensing
-  > issues and to debug issues on the application itself. For more information,
-  > see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#licensedot
+  > issues and to debug issues on the application itself.
 
 #### Salesforce
 {:.no_toc}
 
 A Salesforce.com (SFDC) account makes collaboration with Sales team members more
 efficient, primarily because you'll be able to receive notifications when you're
-tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/licence-and-renewals/workflows/working_with_sales.html)).
+tagged in a Chatter message (see the [working with Sales workflow](/handbook/support/license-and-renewals/workflows/working_with_sales.html)).
 
 When creating an individual/bulk access request, use the following information:
 
@@ -124,8 +125,7 @@ When creating an individual/bulk access request, use the following information:
     > SalesForce, Role: Executive - No View All, Profile: Read Only GitLab
 * Justification for this access:
   > Support Engineers need their own Salesforce accounts to better collaborate
-  > with Sales team members as they work on customer licensing issues. For more
-  > information, see https://about.gitlab.com/handbook/support/license-and-renewals/index.html#salesforce
+  > with Sales team members as they work on customer licensing issues. 
 
 #### Zuora
 {:.no_toc}
@@ -146,8 +146,7 @@ When creating an individual/bulk access request, use the following information:
   > Zuora READ-ONLY access
 * Justification for this access:
   > Support Engineers need read-only Zuora access to troubleshoot License and
-  > Renewal customer issues and support requests. For more information, see
-  > https://about.gitlab.com/handbook/support/license-and-renewals/index.html#zuora
+  > Renewal customer issues and support requests.
 
 ### Workflows
 

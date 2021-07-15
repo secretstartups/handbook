@@ -14,9 +14,11 @@ description: "Describes the role and responsibilities for CMOC rotation in Suppo
 
 As the [Communications Manager on Call (CMOC)](/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) it's your job to be the voice of GitLab during an incident to our users, customers, and stakeholders. To do this you must communicate with them through our status page, [Status.io](https://status.io).
 
+The CMOC rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call).
+
 The basics of how to create, update, and close incidents in Status.io are covered by their [Incident Overview](https://kb.status.io/incidents/incident-overview/) documentation. However, this document covers how we specifically use Status.io to perform those tasks.
 
-You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident. 
+You may also be asked to [contact a user](internal_requests.html#contact-request) on behalf of Infrastructure or Security, which may or may not be related to an Incident.
 
 ## Things To Know
 
@@ -54,22 +56,23 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 | Monitoring | 30m | 60m | 60m |
 | Resolved | No further updates required |
 
-#### What to do if you don't know what to say
+#### What If I Don't Know What to Say?
 
 - Provide a generic update based on the best information you have:
 
 - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
 - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
 - Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
-   - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
-   - _In my next update I'm going to move the status to "monitoring"_
+
+  - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
+  - _"In my next update I'm going to move the status to monitoring"_
 - Bias to action - you can post another update if there was an error in your last update.
 
 - If there are no material updates to report, say something so that people know we care and are working on it. Below are a few example messages:
-   1. No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision.
-   1. No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity.
-   1. No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight.
-   1. No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK
+   1. _"No material updates to report. We're discussing if we should restore from backup or let the replica catch up first but we have not made a decision."_
+   1. _"No material updates to report. We tried starting the Gitaly servers but we're still missing connectivity."_
+   1. _"No material updates to report. We are doing a handover to a new CMOC since the current CMOC has been at it for three hours straight."_
+   1. _"No material updates to report. We would like to thank Google for the #hugops tweet we received. LINK"_
 
 - If you really don't know, it really is okay to ask!
 
@@ -102,7 +105,7 @@ The following steps should be taken immediately after receiving a PagerDuty page
 1. Acknowledge the PagerDuty page.
 1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
-1. Notify the GitLab Social team, if necessary.
+1. Notify internal stakeholders, if necessary.
 1. Resolve the PagerDuty page.
 
 #### PagerDuty Status
@@ -149,7 +152,9 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack. To do so:
+Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack.
+
+This application prompts you to fill out a form and then posts its contents automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
 
 1. Click the lightning bolt in the message composition box within `support_gitlab-com` and select `Incident Notifier`.
 
@@ -158,10 +163,12 @@ shadow}
 
 1. Fill in all of the details.
 1. Click `Submit`
-1. Copy the contents of the form that are direct messaged to you from Slackbot and paste them in a message to the `#e-group` channel.
+1. Copy the contents of the form that are direct messaged to you by Slackbot and paste them in a message to the `#e-group` channel.
 1. Start a thread off of your initial message and provide updates to the incident after you make them to the status page.
 
-This process notifies internal stakeholders of the incident and should be done when all of the following are true:
+> **Note**: You are not required to post updates to the Incident Notifier posts made to Slack channels other than `#e-group`.
+
+This process should be followed when all of the following are true:
 
 - CMOC escalation to an incident has occurred
 - Public notification is occurring or the IMOC has determined the incident requires e-group notification.
@@ -194,48 +201,52 @@ After publishing the update, visit the live [GitLab Status Page](https://status.
 
 ### Stage 3: **Incident Resolution**
 
-Closing an incident out has two stages, `Monitoring` and `Resolved`. Once the affected component is back to operating normally a monitoring period should begin where we switch an incident over to `Monitoring` where it remains open for ~30 minutes to ensure that the issue does not recur. We then mark it `Resolved` once we're confident the issue will not recur, which closes the incident.
+When it comes time to close an incident out as resolved, the following flow will generally be used.
 
-The two stages of the resolution process are covered in their respective sections below.
+1. Switch to a monitoring state for a time.
+1. Resolve the incident.
+1. Notify the E-Group that the incident is resolved.
+1. Add a link to the production issue to the post-mortem section of the incident.
 
-#### Monitoring
+As noted in the specific sections below, some of these steps are situational and may not be used for every incident.
 
-> **Note**: The IMOC may request monitoring status is skipped.
+#### 1. Begin Monitoring (Situational)
 
-To start the monitoring period, edit the incident, and configure the update similar to the following.
+Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the IMOC. **It may also be requested that the monitoring period be skipped entirely.**
+
+If a monitoring period will be used simply edit the incident, and configure the update similar to the following.
 
 ![Switch to monitoring](/images/support/cmoc_monitoring_stage.png){: .shadow}
 
 Take special note of the changes made to the following fields at this stage.
 
-1. `Current State` - Change this to `Monitoring`.
-1. `Details` - If we have not previously mentioned that a fix has been applied, do so at this stage and make specific mention that we're monitoring the system to ensure that a repeat of the issue does not occur. Make sure to include:
-   - a note that *All systems are online and currently fully operational*. 
-   - an estimate for when you'll leave the "monitoring" state.
-   - **Example**:
+1. `Current State` - Change to `Monitoring`.
+1. `Details` - Along with any information specific to the incident be sure to mention that all systems have returned to normal operation, that we're monitoring in order to ensure the issue doesn't recur, and provide an estimate for how long we'll be monitoring before we resolve the incident. For example:
+
    > *While all systems are online and fully operational, out of an abundance of caution we'll leave affected components marked as degraded as we monitor. If there are no recurrences in the next 30 minutes, we'll resolve this incident and mark all components as fully operational.*
-1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not**  flip this back to `Operational` until we leave the monitoring state. 
-#### Resolved
 
-Once we're confident that the underlying issue that caused the incident has been fully resolved and a monitoring period has been observed, we should close the incident. Before we do so, we should check with the IMOC via Slack for the all-clear. This should be done by starting a thread on the announcement in #incident-management that started the incident and [mentioning](https://slack.com/help/articles/205240127-Mention-a-member) the IMOC in it. The following is what one of these messages looks like.
+1. `Incident Status` - At this point, the affected component should be back to normal operation. However, to be clear that we're still in the incident management process we will **not** flip this back to `Operational` until we leave the monitoring state.
 
-![Incident announcement in Slack](/images/support/cmoc_incident-slack-thread.jpg){: .shadow}
+#### 2. Resolve Incident
 
-Once we have confirmation from the IMOC that the incident can be resolved, make an update to the incident and change the following fields.
+Once we're confident that systems have returned to normal operation, **the IMOC has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
 
-1. `Current State` - Change this to `Resolved`
-1. `Details` - Our message here should include a definitive statement that the issue has been resolved and that the affected component is back to operating normally. We should also aim to again include a link to the relevant issue in the production issue tracker so that any users who missed previous updates know where to go for more info.
-1. `Incident Status` - Change this field to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" is checked. Double check the [status.gitlab.com page](https://status.gitlab.com).
+Once these conditions are met, make an update to the incident and change the following fields.
+
+1. `Current State` - Change to `Resolved`.
+1. `Details` - State that the issue has been resolved and that systems have returned to operating normally. Be sure to also include a link to incident issue even if you've already done so in previous updates so that any users who missed them know where to go for more info.
+1. `Incident Status` - Change to `Operational`. **IMPORTANT**: Make sure the "Apply status level to all affected infrastructure" box is checked.
+1. Double check the [status page](https://status.gitlab.com) to make sure everything looks good.
 
 Before resolving the incident your draft should look similar to the following:
 
 ![Resolve incident](/images/support/cmoc_resolve_incident.png){: .shadow}
 
-##### Update the e-group
+#### 3. Notify E-Group of Resolution
 
-After updating the status page, edit the Slack message you created in `#e-group` to indicate resolution and post a final update in the thread.
+After the incident has been resolved on the status page, edit the Slack message you sent to `#e-group` and provide a final update that the incident has been resolved. If you're resolving an incident that was created by another CMOC, post this message in a thread instead and react to the post with the `:white_check_mark:` emoji.
 
-#### Post-Mortem
+#### Add Post-Mortem
 
 A review will be conducted by production engineering for every incident that matches a [certain criteria](/handbook/engineering/infrastructure/incident-management/#incident-review). Status.io allows us to add a link to a post-mortem after an incident has been resolved which will then be viewable on our status page for that specific incident.
 
@@ -249,7 +260,7 @@ Do the following to add a post-mortem to a resolved incident:
 
    ![Incident history list](/images/support/cmoc_post_mortem_incident_list.png){: .shadow}
 
-1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review.
+1. Click `Add Post-Mortem` and supply the link to the issue being used for the incident review, this is usually the same issue that was opened for the incident.
 
    ![Add post-mortem link](/images/support/cmoc_add_post_mortem.png){: .shadow}
 
@@ -267,7 +278,8 @@ The contents of the maintenance should be filled out according to the details pr
 
 ![Maintenance Details](/images/support/cmoc_maintenance_details.png){: .shadow}
 
-### Rescheduling a maintenance event
+### Rescheduling a Maintenance Event
+
 In case you are required to reschedule a maintenance window, Go to *status.io* > *Maintenances* tab
 ![Maintenance Tab](/images/support/cmoc_select_maintenance.png){: .shadow}
 
@@ -276,13 +288,13 @@ Select the maintenance you need to reschedule.
 
 Update the new schedule time by hitting on the *Reschedule Maintenance* button **Make sure you have the correct timezone details when updating** Then hit save.
 
-### Sending an update about a scheduled maintenance
+### Sending Updates About Maintenance Events
 
 To send an update about a maintenance event, such as a reminder, go to the *Maintenances* tab in Status.io and select the one that needs an update. On the maintenance's information page, make note of whether automatic email reminders are set to go out. If yes, make sure not to send email broadcasts for your update in order to avoid sending duplicate reminders to subscribers. Once ready to update, select the *Post Update Without Starting* button.
 
 ![Post Update Without Starting](/images/support/cmoc_post_without_rescheduling.png){: .shadow}
 
-Enter the update details provided by the Infrastructure team and have them confirm the appropiate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
+Enter the update details provided by the Infrastructure team and have them confirm the appropriate broadcast channels before proceeding to send the update. If "Send Reminders" was enabled in the maintenance information page, be sure not to check "Notify email subscribers" in the broadcast settings.
 
 ![Broadcast Maintenance Update](/images/support/cmoc_broadcast_maintenance_update.png){: .shadow}
 
@@ -304,3 +316,7 @@ In case there are any uncertainties around the status of an incident, please con
 ## CMOC Shadow PagerDuty Schedule
 
 The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can to be used by people who wish to shadow the CMOC as a learning process before acting as CMOC. A soon-to-be-CMOC can adjust the schedule to match their working hours by clicking _Edit this schedule_ > _Add Another Layer_; add your username, and the days/hours that you wish to shadow.
+
+## CMOC Training Videos
+
+It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy) 

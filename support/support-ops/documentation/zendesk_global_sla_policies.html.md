@@ -36,179 +36,192 @@ This requires an exact process, which is detailed via the
 
 ## Current SLA Policies
 
-### Emergency SLA
+### [Priority Support](https://gitlab.zendesk.com/api/v2/slas/policies/166808.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Received at` is `<redacted>`
-* Targets:
+* Description: For Ultimate, Premium, Gold, Silver, and Priority Prospects
+* Conditions
+  * All
+    * Tags contains at least one of the following
+      * `premium` `ultimate` `gold` `silver` `priority_prospect`
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
+    * Form is SaaS
+    * Form is SaaS Account
+    * Form is Self-Managed
+    * Form is Open Partner
+    * Form is Select Partner
+    * Form is Alliance Partners
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 30m | 30m | 30m| 30m |
-| Next reply time | 4h | 4h | 4h | 4h |
+| First reply time | 30min | 4hrs | 8hrs | 24hrs |
+| Next reply time | 4hrs | 4hrs | 24hrs | 24hrs |
+| Hours of operation | Business hours | Business hours | Business hours | Business hours |
+
+### [Emergency Support](https://gitlab.zendesk.com/api/v2/slas/policies/125528.json)
+
+* Description: For emergencies
+* Conditions
+  * All
+    * Form is Emergencies
+  * Any
+
+| Target | Urgent | High | Normal | Low |
+|--------|:------:|:----:|:------:|:---:|
+| First reply time | 30min | 30min | 30min | 30min |
+| Next reply time | 4hrs | 4hrs | 4hrs | 4hrs |
 | Hours of operation | Calendar hours | Calendar hours | Calendar hours | Calendar hours |
 
-### Silver & gold SLA
+### [Standard Support](https://gitlab.zendesk.com/api/v2/slas/policies/309627.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `gold silver`
-    * `Tags` contain none of `ar_form lnr_form proserv_form security_form prospect`
-* Targets:
+* Description: For Bronze and Starter
+* Conditions
+  * All
+    * Tags contains at least one of the following:
+      * `bronze` `starter`
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
+    * Form is SaaS
+    * Form is SaaS Account
+    * Form is Self-Managed
+    * Form is Open Partner
+    * Form is Select Partner
+    * Form is Alliance Partners
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 30m | 4h | 8h| 24h |
-| Next reply time | 4h | 4h | 8h | 24h |
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Premium & Ultimate SLA
+### [Support Operations](https://gitlab.zendesk.com/api/v2/slas/policies/360000220039.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `premium ultimate`
-    * `Tags` contain none of `ar_form lnr_form proserv_form security_form prospect`
-* Targets:
+* Description: For Support Ops tickets
+* Conditions
+  * All
+    * Form is Support Ops
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 30m | 4h | 8h| 24h |
-| Next reply time | 4h | 4h | 8h | 24h |
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Bronze SLA
+### [Consumption Support](https://gitlab.zendesk.com/api/v2/slas/policies/360000198999.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `bronze`
-    * `Tags` contain none of `upgrades_and_renewals security accounts_receivable`
-* Targets:
+* Description: For consumption only customers
+* Conditions
+  * All
+    * Tags contains at leadt one of the following:
+      * `consumption_only`
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 12hrs | 12hrs | 12hrs | 12hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Accounts Receivable SLA
+### [Support Managers](https://gitlab.zendesk.com/api/v2/slas/policies/360000221140.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `Accounts Receivable / Refunds`
-* Targets:
+* Description: For Support Manager tickets
+* Conditions
+  * All
+    * Form is Manager Feedback
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 4h | 16h | 24h| 36h |
-| Next reply time | 4h | 16h | 24h | 36h |
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Starter SLA
+### [Security](https://gitlab.zendesk.com/api/v2/slas/policies/360000099179.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `basic starter`
-    * `Tags` contain none of `upgrades_and_renewals security accounts_receivable`
-* Targets:
+* Description: For Security tickets
+* Conditions
+  * All
+    * Form is Security
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Upgrades & Renewals SLA
+### [Billing](https://gitlab.zendesk.com/api/v2/slas/policies/360000062674.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `License Renewals and Upgrades`
-* Targets:
+* Description: For Billing tickets
+* Conditions
+  * All
+    * Form is Billing
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 8h | 8h | 8h| 8h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 4hrs | 16hrs | 24hrs | 36hrs |
+| Next reply time | 48hrs | 48hrs | 48hrs | 48hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Prospects SLA
+### [Triage](https://gitlab.zendesk.com/api/v2/slas/policies/360000190739.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `priority_prospect`
-    * `Tags` contains none of `ar_form lnr_form security_form proserv_form prospect`
-* Targets:
+* Description: For tickets needing triaging
+* Conditions
+  * All
+  * Any
+    * Ticket Stage is Needs Org
+    * Ticket Stage is Needs Triage
+    * Tags contain at least one of the following:
+      * `missing_sla_tag`
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 30min | 30min | 30min | 30min |
+| Next reply time | 4hrs | 4hrs | 4hrs | 4hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Security SLA
+### [L&R](https://gitlab.zendesk.com/api/v2/slas/policies/360000048854.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `Security Issue`
-* Targets:
+* Description: For L&R tickets
+* Conditions
+  * All
+    * Form is L&R
+    * Ticket Stage is not Needs Org
+    * Ticket Stage is not Needs Triage
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 8hrs | 8hrs | 8hrs | 8hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
-### Professional Services SLA
+### [JiHu](https://gitlab.zendesk.com/api/v2/slas/policies/360000195579.json)
 
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `Support for GitLab Professional Services`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 72h | 72h | 72h| 72h |
-| Next reply time | 72h | 72h | 72h | 72h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
-### Missing SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `missing_sla_tag`
-* Targets:
+* Description: For JiHu tickets
+* Conditions
+  * All
+    * Form is JiHu
+  * Any
 
 | Target | Urgent | High | Normal | Low |
 |--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
-### Consumption SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Tags` contains at least one of `consumption_ci_minutes consumption_storage consumption_other consumption`
-    * `Tags` contains none of of `basic starter premium ultimate bronze silver gold priority_prospect consumption_paid`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 12h | 12h | 12h| 12h |
-| Next reply time | 24h | 24h | 24h | 24h |
-| Hours of operation | Business hours | Business hours | Business hours | Business hours |
-
-### JiHu SLA
-
-* Conditions:
-  * Matches ALL of:
-    * `Form` is `JiHu`
-* Targets:
-
-| Target | Urgent | High | Normal | Low |
-|--------|:------:|:----:|:------:|:---:|
-| First reply time | 24h | 24h | 24h| 24h |
-| Next reply time | 24h | 24h | 24h | 24h |
+| First reply time | 24hrs | 24hrs | 24hrs | 24hrs |
+| Next reply time | 24hrs | 24hrs | 24hrs | 24hrs |
 | Hours of operation | Business hours | Business hours | Business hours | Business hours |
 
 ## Special Situations

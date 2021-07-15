@@ -24,7 +24,11 @@ This could be due to the following reasons:
 
 This can be identified through the CustomerDot account edit page, the account would have `Login activated` unchecked.
 
-Customers purchasing through reseller would not have access to their [customers portal](https://customers.gitlab.com/customers/sign_in) account. Future adjustment must be done through reseller.
+Customers purchasing through reseller would not have access to their [CustomerDot](https://customers.gitlab.com/customers/sign_in) account. Future adjustment must be done through the reseller.
+
+For GitLab.com customers, we would need to [assist them with subscription provisioning](../saas/subscription_provisioning.html).
+
+**NOTE**: This also applies for purchases through GCP and AWS, the customer would not have access to [CustomerDot](https://customers.gitlab.com/customers/sign_in). 
 
 #### 2. Password reset email was requested from https://gitlab.com
 

@@ -26,7 +26,7 @@ We use these to determine business hours and various regional working hours.
 * Tuesday: 0000-2400
 * Wednesday: 0000-2400
 * Thursday: 0000-2400
-* Friday: 0000-1900
+* Friday: 0000-1700
 * Saturday: Closed
 
 ### [EMEA](https://gitlab.zendesk.com/agent/admin/schedules/360000029879)
@@ -55,11 +55,11 @@ We use these to determine business hours and various regional working hours.
 
 * Timezone: Brisbane
 * Sunday: Closed
-* Monday: 0900-2200
-* Tuesday: 0900-2200
-* Wednesday: 0900-2200
-* Thursday: 0900-2200
-* Friday: 0900-2200
+* Monday: 0900-2100
+* Tuesday: 0900-2100
+* Wednesday: 0900-2100
+* Thursday: 0900-2100
+* Friday: 0900-2100
 * Saturday: Closed
 
 Note: Brisbane was chosen as the reference timezone for APAC as daylight saving
@@ -73,7 +73,7 @@ time is not observed there.
 * Tuesday: 0000-2400
 * Wednesday: 0000-2400
 * Thursday: 0000-2400
-* Friday: 0000-1900
+* Friday: 0000-1700
 * Saturday: Closed
 
 ## Holidays

@@ -31,7 +31,8 @@ the following labels receive the appropriate attention from Support:
 When on this role, prioritize working on internal request issues over Zendesk tickets.
 The general workflow guide and best practices are:
 
-1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR).
+1. Review the list of [unassigned issues](https://gitlab.com/gitlab-com/support/internal-requests/-/issues?scope=all&utf8=%E2%9C%93&state=opened&assignee_id=None&not[label_name][]=Console%20Escalation%3A%3AGitLab.com&not[label_name][]=DEWR). 
+    - For those with US Public Sector access please also check the [L&R view](https://gitlab-federal-support.zendesk.com/agent/filters/360196736931) in the US Federal Support Portal.
 1. Pick an issue to work on/respond to and assign this to yourself.
 1. If you have resolved the problem or attended to the request, close the issue and let the requestor know to re-open the issue if further assistance is required.
 1. If you are awaiting manager approval or a reply from the requestor before moving the issue forward, add the appropriate labels (for example `Manager Approval::Awaiting` or `Status::Awaiting Confirmation`).

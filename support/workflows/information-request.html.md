@@ -46,7 +46,7 @@ Respond to the ticket with the [`Legal::Namespace and Trademark`](https://gitlab
 #### Ownership Disputes
 *Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](https://about.gitlab.com/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
 
-Respond to the ticket with the [`Legal::Ownership disputes`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759320 macro.
+Respond to the ticket with the [`Legal::Ownership disputes`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759320) macro.
 
 
 
@@ -62,7 +62,7 @@ A request may come in that you believe needs legal input but does not fit into o
 
 
 1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer.
-1. If Legal requests more time, respond to the ticket with the [`Legal::Handover`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759280)macro.
+1. If Legal requests more time, respond to the ticket with the [`Legal::Handover`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759280) macro.
 
 
 1. Note the above response in the related Legal and Compliance issue.

@@ -22,6 +22,12 @@ is correct. We define here our most current processes for determining scope,
 gathering data and feedback, choosing a path forward, rolling out a change,
 managing adoption, and reviewing results for future improvements.
 
+## (Optional) Start with a Request for Comments (RFC)
+
+If you have an idea but aren't ready to propose a change yet, you can start
+with the [Request for Comments](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/new?issuable_template=Request%20for%20Comments)
+issue template. The template includes guidance on how to make your RFC. 
+
 ## Determining the Scope
 One of the most important considerations when looking to make a change is what
 the scope of the change will be.

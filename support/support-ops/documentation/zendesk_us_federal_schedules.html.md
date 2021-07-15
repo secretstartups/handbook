@@ -22,12 +22,23 @@ We use these to determine business hours and various regional working hours.
 
 * Timezone: Pacific Time (US & Canada)
 * Sunday: Closed
-* Monday: 0600-1800
-* Tuesday: 0600-1800
-* Wednesday: 0600-1800
-* Thursday: 0600-1800
-* Friday: 0600-1800
+* Monday: 0500-1700
+* Tuesday: 0500-1700
+* Wednesday: 0500-1700
+* Thursday: 0500-1700
+* Friday: 0500-1700
 * Saturday: Closed
+
+### [Emergency Support Hours](https://gitlab-federal-support.zendesk.com/agent/admin/schedules/360000567052)
+
+* Timezone: Pacific Time (US & Canada)
+* Sunday: 0500-1700
+* Monday: 0500-1700
+* Tuesday: 0500-1700
+* Wednesday: 0500-1700
+* Thursday: 0500-1700
+* Friday: 0500-1700
+* Saturday: 0500-1700
 
 ## Holidays
 

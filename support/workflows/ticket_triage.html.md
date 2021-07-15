@@ -25,22 +25,30 @@ graph TD
     A -->|Yes| B{Is the ticket tied to an org?}
     A -->|No| H[Check if it falls under 'Other Requests']
     B -->|Yes| D{Does the ticket have an SLA?}
-    B -->|No| E[Use Needs Org workflow: Find and associate the organization]
+    B -->|No| J[Is it a Free User?]
     D -->|Yes| C[Done]
     D -->|No| F[Use SLA and Queue workflow: Take appropriate action]
+    J --> |No| E[Use Needs Org workflow: Find and associate the organization]
+    J --> |Yes| I[Does it quality for Support?]
+    I --> |No| K[Set form to 'Community']
+    I --> |Yes| E
 ```
 
 ## Applying the Correct Form
 
 A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
 
-Most of the forms are self-explanatory, but here are some extra considerations:
+Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their usage:
 
-- SaaS Account: single user account issue only, all others go to GitLab.com (SaaS).
+- Self-Managed: An issue where the customer is maintaining their own local instance of GitLab 
+- SaaS (GitLab.com): An issue involving the GitLab hosted SaaS offering
+- SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
 - L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
 - Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support.html#support-for-free-plan-users). New tickets will activate the [`Ticket::Autoresponder::Community tickets`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073064519) trigger.
+- Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab Learn platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/)(`gitlab.edcast.com`). Use the [`General::Forms::Change to Professional Services`](https://gitlab.com/search?utf8=%E2%9C%93&search=360063214199&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar) macro to apply the right form.
+
 
 ## After applying the correct form
 

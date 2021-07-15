@@ -163,7 +163,7 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 
 It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
 
-See the [500 errors workflow](500_errors.html.md) for more information on searching and finding errors on GitLab.com
+See the [500 errors workflow](500_errors.html) for more information on searching and finding errors on GitLab.com
 
 #### Log Identification
 
@@ -192,3 +192,32 @@ Customers will sometimes give us an IP Range of their resources such as their Ku
 1. Click Save to perform your query. 
 
 Note that depending on the range, this operation may be expensive so it is best to first narrow down your date range first.
+
+#### Import Errors
+
+Most timeout related imports end up with a partial import with very few or zero issues or merge requests. Where there is a relatively smaller difference (10% or less), then there are most likely errors with those specific issues or merge requests.
+
+Anytime there is an error, ensure that the export originated from a [compatible version of GitLab](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history).
+
+Here are some tips for searching for import errors in Kibana:
+
+- Use the pubsub-sidekiq-inf-gprd index pattern (Sidekiq logs) and try to narrow it down by adding filters
+  - json.meta.project: `path/to/project`
+  - json.severity: (not `INFO`)
+  - json.job_status: (not `done`)
+  - json.class is `RepositoryImportWorker`
+- Use the pubsub-rails-inf-gprd index pattern (Rails logs) and try to narrow it down by adding filters  
+  - json.controller: `Projects::ImportsController` with error status
+  - json.path: `path/to/project`
+- In Sentry, search/look for: `Projects::ImportService::Error` ; make sure to remove the `is:unresolved` filter.
+
+If there is an error, search for an existing issue. Errors where the metadata is throwing an error and no issue exists, consider creating one from Sentry.
+
+If no error is found and the import is partial, most likely it is a timeout issue.
+
+#### Known Import Issues
+
+- **Imported project's size differs from where it originated**
+  - See [this comment](https://gitlab.com/gitlab-org/gitlab/-/issues/27742#note_215721494) for an explanation as to why. As artifacts are part of repository size, whether they are present can make a big difference.
+- **Repository shows 0 commits**.
+  - See [15348](https://gitlab.com/gitlab-org/gitlab/issues/15348).

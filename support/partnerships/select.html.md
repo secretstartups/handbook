@@ -10,16 +10,21 @@ GitLab and are expected to drive greater GitLab product recurring revenues.
 
 ## Contacting Support
 
-Select Partners contact us via the [support portal](https://support.gitlab.com).
-To help them route properly, they use
-[this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000837100).
+Select Partners may contact us by submitting a ticket from the
+[support portal](https://support.gitlab.com). To ensure proper ticket routing,
+which helps to prevent first response delays, they should:
 
-This should open the ticket in the Zendesk Select Partner form in zendesk. From
-here, GitLab Support talks directly to the Partner, not their customer. The
-Support Plan will be assumed at Ultimate level.
+1. use [this specialized form](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000837100)
+1. verify in advance with their GitLab TAM or GitLab Sales team member that
+   they have a contact record in Salesforce that is associated with their
+   company's correct account record
 
-**Note**: Never associate a customer to an Select Partner's organization, or
-vice-versa!
+GitLab Support will work directly with the Select Partner, not with their
+customer, using the Ultimate support level regardless of the customer's actual
+support level.
+
+**Note to Support**: Never associate a customer to a Select Partner's
+organization, or vice-versa!
 
 ## File uploads
 

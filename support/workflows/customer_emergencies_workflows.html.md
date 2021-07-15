@@ -14,6 +14,8 @@ description: "Describes the role and responsibilities for Customer Emergencies r
 
 Support Engineers in the Customer Emergencies rotation coordinate operational emergencies from GitLab customers.
 
+The Customer Emergencies rotation is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call/).
+
 ## Expectations for Support Engineers in the Customer Emergencies Rotation
 
 ### Communicate
@@ -31,6 +33,10 @@ Take and share screenshots of useful info the customer is showing you. Make sure
 If the problem stated in the emergency ticket doesn't meet the [definition of an emergency support impact](/support/#definitions-of-support-impact), inform the customer's Technical Account Manager or a Support Manager. Unless one of these managers ask you to do otherwise, however, continue to treat the ticket with the [emergency SLA](/handbook/support/#priority-support).
 
 We [assume positive intent](/handbook/values/#assume-positive-intent) from the customer. Even though we may not think a particular ticket qualifies for [emergency support](/support/#priority-support), we treat all emergency pages from customers with priority support as if they qualify. During any crisis, the customer may be stressed and have immense pressure on them. Later, after the crisis, if we've determined that the ticket didn't qualify as an emergency, the customer's TAM or a Support Manager can discuss that with the customer.
+
+### (Optional) Contact the on-call Support Manager
+
+If at any point you would like advice or help finding additional support, go ahead and [contact the on-call Support Manager](/handbook/support/on-call/#paging-the-on-call-manager). The on-call manager is there to support you. They can locate additional Support Engineers if needed. This can make it easier to handle a complex emergency by having more than one person on the call, so you can share responsibilities (e.g., one person takes notes in Slack while the other commuincates verbally on the call). Managers are on-call during weekends, so you can page for help at any time.
 
 ### Respond to PagerDuty alerts
 
@@ -126,25 +132,94 @@ If you're stuck _and_ are having difficulty finding help, contact the [manager o
 
 ## SaaS Emergencies
 
-The workflow for these calls is the same as with self-managed emergencies.
-However, you have additional visibility into problems that a customer may be facing that they will not.
+The workflow for these calls is the same as with self-managed emergencies: success means that the customer is unblocked. In some cases,
+you may even be able to fully resolve a customer's problem.
+
+For any customer facing a SaaS Emergency you are empowered to perform any [two-way door](/handbook/values/#make-two-way-door-decisions) action required to unblock them without seeking approval first. 
+
+Some examples:
+ - manually setting a subscription level
+ - adding additional storage
+ - adding extra CI minutes
+ - toggling a feature flag
+
+During a SaaS Emergency, you have additional visibility into problems that a customer may be facing. 
 
 Review:
 
 - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
 - [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
 
-After you have identified the error and found reproduction steps, it's likely that you'll need to [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
-and coordinate with incident management team to reach resolution. If the error is a result of a product defect, you may also need to engage the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/).
+We're expecting, broadly that emergencies will fall into one of four categories:
 
-We're expecting, broadly that emergencies will fall into one of three categories:
+- **broken functionality due to a regression being pushed to GitLab.com** 
+   - Success may mean: reproducing, identifying or creating a bug report and escalating to have a patch created and deployed.
+- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. 
+    - Success may mean reproducing the error, identifying it Sentry/Kibana, escalating to have the specific data corrected (and creating a bug report so our code is better)
+- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched. This is the hardest class, but will generally be operational emergencies. 
+   - Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) and letting the SRE team diagnose and correct the root cause.
 
-- **broken functionality due to a regression being pushed to GitLab.com** => reproduce, identify, escalate to have a patch created and deployed.
-- **broken functionality due to an inconsistency in data unique to the customer**, for example: a group name used to be able to have special characters in it, and now something broke because our group name has a special character in it. => reproduce, identify, escalate to have the specific data corrected (and create a bug report so our code is better)
-- **GitLab.com access or "performance" degradation to the level of unusability**, for example: no access in a geographical area, CI jobs aren't being dispatched => This is the hardest class, but will generally be operational emergencies. Success here means making sure it's not actually one of the top two before [declaring an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack)
+- **License / Consumption issues are preventing access to the product**
+   - Success here means getting the customer into a state where they're unblocked and making sure the license team is equipped to take the handover.
+
+### Broken Functionality
+If a customer is reporting that behaviour has recently changed, first check [GitLab.com Status](https://status.gitlab.com) and `#incident-management` for any on-going incidents. If there's no known incident:
+
+1. Initiate a call with the customer. You're specifically looking to:
+   - observe broken behavior.
+   - determine if there's a known issue, bug report, or other customers reporting similar behavior.
+   - ascertain whether or not a feature flag that may have been recently turned on (see: [Enabling Feature Flags on GitLab.com](https://docs.gitlab.com/ee/development/feature_flags/controls.html#enabling-a-feature-for-gitlabcom))
+   - find/build reproduction steps devoid of customer data to build a bug report if none exists.
+
+#### Broken functionality due to a regression or feature flag
+
+1. Create a `~bug` issue and have the customer review it.
+1. Escalate the `~bug` issue
+   - If it's a new bug, or a bug with [S1/S2 severity](/handbook/engineering/quality/issue-triage/#severity) escalate using the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/). In most cases we will generate a roll-back patch and apply it to Gitlab.com.
+   - If it's a feature flag, work with the who turned it on to [disable it through ChatOps](https://docs.gitlab.com/ee/development/feature_flags/controls.html#disabling-feature-flags). In some cases, you may need to use the [InfraDev Escalation Process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) to raise a developer.
+1. If this is affecting multiple customers, [declare an incident](/handbook/engineering/infrastructure/incident-management/#report-an-incident-via-slack) to engage the incident response team who will update the status page.
+1. Once the original functionality is restored, update the customer.
+
+#### Broken functionality due to something specific to the customer
+
+1. [Page the Support Manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) to review the best way to unblock the customer. It may be that you will need someone with .com console access to fully investigate / resolve.
+
+#### Broken functionality due to an incident
+
+If there is a known incident, it's acceptable to link to the public status page and related incident issue. Consider using [`Support::SaaS::Incident First Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Incident%20First%20Response.yaml). 
+
+#### Example tickets:
+{:.no_toc}
+
+- [Feature flag broke previously working behaviour](https://gitlab.zendesk.com/agent/tickets/204073): resolution was to turn off a feature-flag.
+- [Regression on GitLab.com broke previously working pipeline](https://gitlab.zendesk.com/agent/tickets/147266): resolution was to revert a recently deployed MR.
+- [Customer locked themselves out of their group by changing SAML settings](https://gitlab.zendesk.com/agent/tickets/146611)
+
+### Subscription Issues
+
+A customer may be blocked because of a license expiring or neglecting to apply a renewal. If you're familiar with [L&R Workflows](/handbook/support/license-and-renewals/workflows/), you may solve the case completely by yourself. If you are not, you may:
+
+1. [Manually upgrade the namespace using the mechanizer](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_gitlab_plan.html)
+1. Alert `#support_licensing-subscription` that you've done so and link to the ticket for follow-up.
+
+### Consumption Issues
+
+#### CI Minutes quota is blocking a production deployment
+
+A customer may be blocked because they have run out of CI minutes. 
+
+1. Advise them to purchase additional minutes or set up individual runners.
+1. At your discretion, as a courtesy, [set an additional 1000 minutes on their namespace through ChatOps](/handbook/support/workflows/chatops.html#setting-additional-minutes-quota-for-a-namespace)
+
+#### Customer has exceeded their storage quota
+
+A customer may be blocked because they've exceeded their storage quota.
+
+1. Advise them to purchase additional storage
+1. In cases where a customer is unable to complete a purchase because of a defect or outage, as a courtesy, someone with GitLab.com admin can override the storage limit on a group.
 
 ## US Federal on-call
 
 US Federal on-call support is provided 7 days a week between the hours of 0500 and 1700 Pacific Time.
 
-The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(Public Link). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.
+The current on-call schedule can be viewed in [PagerDuty](https://gitlab.pagerduty.com/schedules#P89ZYHZ)(Internal Link), or in the [Support Team on-call page](https://gitlab-com.gitlab.io/support/team/oncall.html)(GitLab Employees only). The schedule is currently split into two, 6 hour shifts, an AM and a PM shift. The AM shift starts at 0500 Pacific Time and runs until 1100 Pacific Time. The PM shift starts at 1100 Pacific Time and runs until 1700 Pacific Time.

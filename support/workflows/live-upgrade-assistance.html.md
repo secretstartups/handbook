@@ -30,7 +30,7 @@ advance of the production upgrade.
    creates a support-team-meta issue using the [`Upgrade Assistance Request`](https://gitlab.com/gitlab-com/support/support-team-meta/issues/new?issuable_template=Upgrade%20Assistance%20Request) issue template. If the customer does not have an assigned TAM, and reaches out
    to support themselves to schedule, the support engineer should ensure they have provided all necessary information and
    create this issue.
-1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue at this moment.
+1. The current [manager on-call](/handbook/support/on-call/index.html#manager-on-call) will act as a DRI for the issue. (Confidential [upgrade request issues can be found here](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues?scope=all&state=opened&label_name[]=upgrade-assistance).)
    That manager should also ping the Support Manager who will be on-call during
    the upgrade window so they can be involved in this process.
 1. The DRIs will locate a Support Engineer to review the current given info
@@ -80,9 +80,11 @@ advance of the production upgrade.
 1. The triaging engineer will assign the case to themselves and will review the given information.
 1. The user provided information must include all of the [required information](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#what-information-do-i-need-to-schedule-live-upgrade-assistance).
 1. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
-1. Once all the required information has been confirmed and the engineer is ready to schedule the call they can send a one time use Calendly link for the US Federal Live Upgrade Assistance [round robin](https://calendly.com/event_types/team/44431).
+1. Once all the required information has been confirmed and the engineer is ready to schedule the call the engineer should send a personal one time use Calendly link for a 30 minute meeting.
     - If the user has indicated they are planning a weekend upgrade please note the case in the [#support_us-federal-chat](https://gitlab.slack.com/archives/G01HYGJRN9W) slack channel asking for a volunteer and CC the US Federal Support Manager.
-1. Once the user has scheduled the upgrade please put the case in an `on-hold` state while waiting to begin the upgrade assistance live session.
+    - If the user has indicated the available times in the individual engineer's calendly link are not favorable for their upgrade timeframe reach out in the [#support_us-federal-chat](https://gitlab.slack.com/archives/G01HYGJRN9W) slack channel to see if another engineer has availability for the requested date/time.
+    - As a final option the reviewing engineer may offer the US Federal Live Upgrade Assistance Calendly [round-robin](https://calendly.com/event_types/team/44431) link. If the reviewing engineer does this they **must** sync up with the engineer who will be performing the live assistance to ensure proper handoff.
+1. Once the user has scheduled the upgrade the case assignee should put the case in an `on-hold` state while waiting to begin the upgrade assistance live session. The case owner should also notify the US Federal on call engineer who is scheduled during the upgrade window in Slack and add them as a follower to the case.
 1. Post call, the Engineer will comment on the issue with a post-mortem of sorts. This should detail any issues that occurred or comments that might be relevant for the TAM or Support.
 
 #### What to do if issues occur during the course of upgrade assistance

@@ -23,6 +23,47 @@ To create an issue for yourself with one of the module templates:
 
 **NOTE:** Contact your [Onboarding Buddy](https://about.gitlab.com/handbook/support/training/onboarding_buddy.html) if you have any questions about these pathways. Buddies are always happy to help!
 
+### Support hybrid model
+
+The hybrid model presents a structured training plan that will prepare the support engineer to work in different areas focusing the grow in the differences in how to approach problems in the new areas and get most our of the knowledge acquired up to that point.
+
+
+```mermaid
+sequenceDiagram
+    participant Trainer
+    participant New SE
+    participant Manager
+
+    Manager->>New SE: Sets expectations for timeline and content.
+    Trainer->>New SE: Schedules sessions to cover specific topics and answer questions.
+    Note right of New SE: Starts <br/>SE Onboarding!
+    Note left of New SE: New SE completes their <br/>first public update
+    Trainer->>New SE: Provides assistance with the first pairing sessions.<br/>Gives feedback on public replies.
+    New SE->>Manager: Reviews progress and tickets with manager in 1:1.
+    Note left of New SE: Starts SaaS Basics!
+    Trainer->>New SE: Offers suggestions on tickets to answer and follow up on initial responses.
+
+    Manager->>New SE: Check progress, ensures new ticket responses are aligned<br/> with our expectations and coaches as needed.
+
+    loop Pairing Sessions
+        New SE->>New SE: Uses Pairing sessions as a tool to get help<br/>from other team mebers and to learn new topics
+    end
+
+    Trainer-->New SE: Schedules weekly follow up sessions.
+
+
+    Note right of New SE: Completes SaaS basics
+    Manager->>New SE: During 1:1 go over the SaaS onboarding and suggest topics for<br/>ongoing learning.
+    Note left of New SE: 6 weeks working on SaaS tickets<br/>allowing time<br/> to work on new topics during that time.
+    Note right of New SE: Starts Self-managed basics, focusing on <br/> the main differences with troubleshooting to make the most <br/> from the current  knowledge.
+
+    Manager->>New SE: Set expectations for hybrid work split, starting with 90%/10%.
+
+    loop 1:1s
+        New SE->>New SE: As more experince is gained brings the topic to 1:1<br/>looking to increase the % of Self Managed work by 10%.<br/>With a goal of ~50%/5
+    end
+```
+
 ### Support Onboarding Pathway
 
 When you first join the team everything will be new to you. Don't worry! In order to get you started with GitLab quickly, apart from the company wide onboarding issue that will be assigned to you on Day 1 by PeopleOps, we also have an onboarding program in Support. There are two pathways:
@@ -51,8 +92,13 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [GitLab Support Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=GitLab%20Support%20Basics) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [Customer Service Skills](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Customer%20Service%20Skills) | 2 Days | Understand how we interact with customers, and how to utilize your customer service skills to ensure customer success |
 | [Zendesk Basics](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Zendesk%20Basics) | 1 Day | Utilize ZenDesk to perform ticket management |
+| [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 2 Weeks | Understand how to triage tickets including the Needs Org and Triage view in Zendesk |
 | [Working on Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Working%20On%20Tickets) | 2 Weeks | Help customers by pairing with Support Engineers and replying to tickets |
 | [Documentation](https://gitlab.com/gitlab-com/support/support-training/-/issues/new?issuable_template=Documentation) | 1 Day | Become proficient in making documentation and merge requests |
+
+## GitLab.com Administration access
+
+Whenever GitLab.com administration access is required to complete any of the modules listed on this page, the training will direct you to this module [GitLab.com Administration Access](https://gitlab.com/gitlab-com/support/support-training/issues/tba) 
 
 ## Support Engineer Area of Focus Pathway
 
@@ -120,6 +166,7 @@ It is recommended that you complete the modules in the order listed, unless an i
 | [Git & GitLab Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Git-GitLab-Basics.md) | 1 Week | Understand our products and services |
 | [Gitlab Support Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-Support-Basics.md) | 1 Day | Understand how GitLab Support operates and the most common workflows |
 | [ZenDesk Basics](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Zendesk-Basics.md) | 1 Day | Utilize ZenDesk to perform ticket management |
+| [Triaging Tickets](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Triaging%20Tickets) | 2 Weeks | Understand how to triage tickets including the Needs Org and Triage view in Zendesk |
 | [Customer Emergencies](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Customer-Emergencies.md) | 1 Week | Understand the responsibilities of being on-call for Customer Emergencies |
 | [SSAT Reviewing Manager](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/SSAT-Reviewing-Manager.md) | 1 day | Understand how to handle Support Satisfaction feedback results |
 

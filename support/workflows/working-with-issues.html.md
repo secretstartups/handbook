@@ -40,7 +40,7 @@ Using the appropriate labels is _critical_ to ensuring visibility of issues and 
 
 Required:
 
-- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
+- [Group](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#group-labels): Unsure of which? Check out [documentation metadata](https://docs.gitlab.com/ee/development/documentation/#metadata), [label descriptions](https://gitlab.com/gitlab-org/gitlab/-/labels), [DevOps Stages](/handbook/product/categories/#devops-stages), [features list by stage](/features) or similar existing issue.
 - [Type Labels](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/development/contributing/issue_workflow.md#type-labels) should be added by the template, but *add* them if any are missing.
 - `~customer` (if a ZenDesk link is added, the bot will add this automatically if you forget)
 - `~regression ##.x` if applicable; for high-impact ones, add `~"Next Patch Release"` and ping the relevant lead and subject area experts
@@ -102,10 +102,10 @@ If you create a feature proposal on behalf of a customer, please follow the same
 
 | Service/Product  | Escalation Types                 | Escalation Point                                        | Assignment      |
 |------------------|--------------------------------|-----------------------------------------------------------|------------------
-| GitLab           | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/issues/new>           |
+| GitLab           | Bug reports or Feature proposals | [Bug](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Bug) or [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20proposal%20-%20detailed)           |
 | Omnibus GitLab   | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/omnibus-gitlab/issues/new>   | Omnibus GitLab specialist
-| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/new>  | GitLab CI specialist
-| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-workhorse/issues/new> | Maintainer of gitlab-workhorse
+| GitLab Runner    | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab-runner/issues/new>  | GitLab CI specialist
+| GitLab Workhorse | Bug reports, Feature proposals | <https://gitlab.com/gitlab-org/gitlab/-/issues/new?issue%5bdescription%5d=%2flabel%20%7eworkhorse> | Maintainer of gitlab-workhorse
 
 **See the [GitLab team page](/company/team/) for assignments**
 

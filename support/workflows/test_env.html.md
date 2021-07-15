@@ -51,31 +51,38 @@ purposes. To generate a new license, log in to LicenseDot and click on the
 without a Zuora subscription" at the bottom of the screen and fill out all non-optional
 fields.
 
-## Testing Environments
+## Cloud Testing Environments
 
 You can create (ephemeral) testing environments. We recommend using the support-resources project for doing so.
 
-### GCP Testing Environment (support-resources)
+### GCP
 
-Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project.
+#### GCP `support-resources` project (preferred)
 
-If you need to manually create resources in a GCP Testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
+Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances.
+
+#### GCP `support-resources` project
+
+If you need to manually create resources in a GCP testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
 If you don't have access to this project, please create an access request and assign your manager for approval.
 
-**Warning:** you may also have access to the `gitlab-internal` GCP project. You should **not** create resources in this project.
+**Warning:** you may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. You should **not** create resources in these projects.
 
-#### GKE Cluster
+**Note:** Please remember to shut down resources that you are no longer using.
+
+#### GCP GKE Kubernetes Cluster
 
 Please use the `support-resources` GCP project for creating a GCP Kubernetes cluster.
 
 <details>
 <summary>Open me for instructions on how to do so</summary>
+<div markdown="1">
+Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).  
 
-Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
-
-All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
+All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).  
 
 Connecting to, and configuring, your cluster can be done locally using [gcloud](https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version) and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#download-as-part-of-the-google-cloud-sdk). Or you can use the Google Cloud Shell.  Clicking Connect in GCP will provide the command to run locally for you to copy and paste, or let you open Cloud Shell immediately. Using [docker images](https://hub.docker.com/r/kiwigrid/gcloud-kubectl-helm) is also an option for a quick deployment of all tools locally.
+</div>
 </details>
 
 ### AWS Testing Environment
@@ -91,6 +98,18 @@ Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credenti
 ### Okta Testing Environment
 
 For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
+
+### LDAP Testing Environments
+
+For testing LDAP integrations with a self-managed GitLab instance, you may consider any of these options:
+
+1. [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/doc/howto/ldap.md).
+1. [Docker container](https://github.com/osixia/docker-openldap).
+1. [Jumpcloud](https://jumpcloud.com/) (Free for up to 10 users).
+
+### gitlab.support testing domain
+
+If you wish to test resources using a real domain name (instead of an IP address, e.g. for testing TLS certificates), you can use a subdomain of `gitlab.support`. You can confgure this in GCP in the [gitlab-support project here](https://console.cloud.google.com/net-services/dns/zones/gitlabsupport/details?project=support-testing-168620).
 
 ### Digital Ocean and Docker Testing Environment
 
@@ -219,9 +238,11 @@ export NAME=gitlab-test-11.9
 
 #####  Create container
 ```
+export IP=$(docker-machine ip $ENV_NAME)
+
 docker run --detach \
---env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip $NAME):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
---hostname $(docker-machine ip $NAME) \
+--env GITLAB_OMNIBUS_CONFIG="external_url 'http://$IP:$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
+--hostname $IP \
 -p $HTTP_PORT:$HTTP_PORT -p $SSH_PORT:22 \
 --name $CONTAINER_NAME \
 gitlab/gitlab-ee:$VERSION
@@ -232,7 +253,7 @@ gitlab/gitlab-ee:$VERSION
 ##### Retrieve the docker host IP
 
 ```
-docker-machine ip gitlab-test-env
+echo $IP
 # example output: 192.168.151.134
 ```
 
@@ -243,7 +264,7 @@ docker-machine ip gitlab-test-env
 ##### Execute interactive shell/edit configuration
 
 ```
-docker exec -it $ENV_NAME /bin/bash
+docker exec -it $CONTAINER_NAME /bin/bash
 ```
 
 ```

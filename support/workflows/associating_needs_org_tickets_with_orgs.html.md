@@ -26,13 +26,9 @@ Potential reasons this might occur:
 
 ### Determining if this workflow applies
 
-This workflow applies if ZD is prompting you to create an organization.
+This workflow applies if ZD displays `No organization` for a ticket.
 
-![ZD prompts for an org to be created](/images/handbook/support/zendesk_needs_org-create.png)
-
-> **Note**: Please do not manually create organizations. This can break the ZD<>SFDC
-> integration and cause users to receive incorrect SLAs. If you notice an
-> organization needs to be created, please notify support-ops to rectify this.
+![ZD shows No Organization](/images/handbook/support/zendesk_needs_org-create.png)
 
 ## Overall Flow
 
@@ -112,15 +108,13 @@ with `Manual Support Upgrade`:
 - [Associate the org](#adding-a-customer-to-an-organization) synced from SFDC.
 - SLA will be automatically applied based on the `priority_prospect` tag.
 
-Note: Further tags need to be [manually added to show in a single view](sla_and_views.html#priority-prospects-showing-in-multiple-views).
-
 #### Other prospects
 
 For all other prospects:
 
 - add the `prospect` tag.
 
-**Note:** It will be moved to the `Free/Self-Provisioned Trial Support` view without SLA,
+**Note:** It will be moved to the `Free user tickets` view without SLA,
 so you should also respond with the appropriate `Free User` macro.
 
 #### Organization incorrectly marked as a Prospect in SFDC
@@ -154,10 +148,9 @@ for manual plan changes.
 
 If you identify a ticket as from a trial user,
 
-- add the `trial` tag to it.
-- subscription type field does not need to be updated.
+- select `Self-provisioned trial` in the `SaaS Subscription` or `Self-Managed Subscription`field
 
-**Note:**  It will be moved to the `Free/Self-Provisioned Trial Support` view without SLA,
+**Note:**  A Zendesk trigger will automatically add a `trial` tag to the ticket and it will be moved to the `Free user tickets` view without SLA,
 so you should also respond with the appropriate `Free User` macro.
 
 ### Identifying free users
@@ -215,16 +208,17 @@ if an org has `domain.tld` in `Domains` list, any user with `@domain.tld` will b
 After [identifying a free user ticket](#identifying-free-users):
 
 - Self-managed:
-  1. Change the ticket to use the `GitLab CE` form if applicable.
+  1. Change the ticket to use the `Community` form if applicable.
+  1. Change the `Self-Managed Subscription` to `Free customer`
   1. Reply using the `Free user` macro to explain they do not receive support.
 - GitLab.com:
   1. Ensure the correct form (accounts or general).
-  1. `Tell us about your GitLab subscription` change to `Free user`.
+  1. Change the `SaaS Subcription` to `Free user`.
   1. Select the appropriate `Problem Type`.
     - If you cannot choose an appropriate problem type, then check [if the user qualifies](/support/statement-of-support.html#support-for-free-plan-users).
   1. If the user does not qualify for support, use the appropriate `Free user` macro.
 
-The ticket will be moved to the `Free/Self-Provisioned Trial Support` view.
+The ticket will be moved to the `Free user tickets` view.
 
 For example:
 
@@ -258,3 +252,7 @@ the following cases for your ease:
   1. Our Zapier sync will link the customer with the correct organization if it is already listed in SFDC.
 
 Note: Proof of entitlement strictly includes primary email address associated for SAAS and company provided email address for SM.
+
+## AWS Marketplace purchases
+
+For customers who have purchased through the AWS marketplace, their license is a 5 user Premium License under the company name of "AWS Marketplace AMI".  This exists as an org in Zendesk, so customers proving entitlement with this license can be associated with with the Zendesk organisation "AWS AMI Purchasers". This will apply the appropriate support entitlement tags.

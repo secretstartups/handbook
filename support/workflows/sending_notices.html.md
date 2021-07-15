@@ -29,7 +29,7 @@ We may be asked by infrastructure either through an issue or Slack to notify a u
 1. If the organization has a TAM, reach out to the TAM on Slack to inform them of the blocked user, and add them as a CC on the ticket.
 1. Supplement the response provided by the macro with the specific reasoning for the block and send it.
 1. Add a note to the ticket that contains a link to the issue.
-1. Add an [admin note](admin_note.html) to the blocked account that links to the issue.
+1. Add an [admin note](admin_note.html) to the blocked account that links to the issue. If you do not have GitLab.com admin access, you may [use ChatOps to do this](https://gitlab.com/gitlab-com/chatops/-/blob/master/lib/chatops/commands/user.rb) instead.
 
 ### Mirror Abuse
 
@@ -54,6 +54,6 @@ Infrastructure may ask us to notify a particular user or group that the mirror o
 
 Outside of Zendesk we may be asked to be involved in the process of sending mass notices to users via MailChimp. In these cases, do the following:
 
-1. [Open an issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/issues/new?issuable_template=Email-Request-mpm) in the [marketing/digital-marketing-programs](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs) issue tracker using the `Email-Request-mpm` template.
+1. [Open an issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=email-request) in the [marketing/demand-generation/campaigns](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns) issue tracker using the `Email-Request-mpm` template.
 1. Fill the template out in its entirety.
 1. Submit the issue and be ready to adjust the subject and/or body of the notice based on feedback.

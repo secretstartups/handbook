@@ -39,32 +39,37 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - If you are in non-overlapping time zones, do a handshake via Slack.
 - Establish a regular cadence for communication with them.
     - Using a living Google document helps, especially for maintaining a regular async communication model. You can make use of [this template](https://docs.google.com/document/d/1m9t-sxPzwie2D40cXTwpjnQ2VxYJb3GoEB5ig38Nkmw/edit?usp=sharing) for it.
-- In the initial sync/async introduction,
+- In the initial introduction,
     - Get yourself added to their team sync - you can read the agenda doc if you're unable to join the sync call!
-    - Join their Slack channel if not done already.
-- If the group you chose already has an SSC, schedule a coffee chat with them to learn more!
+    - Join their Slack channel.
+- If the group you chose already has an SSC, schedule a coffee chat with the existing counterpart to learn more!
+- [Section SSC] Schedule a coffee chat with the Support counterparts in the groups within the section.
 
 ### Be alert and engaged on what's happening with the group
 
 - Subscribe to the pertinent trackers and labels to be aware of new issues in that group.
-- Be especially aware of severity::1 and severity::2 issues in the product area, including workarounds.
-- Be aware of the tickets raised by customers pertinent to their category, surfacing and advocating for them.
-- Be aware of major changes related to the group in upcoming releases.
+- Be aware of major issues (especially severity::1) in the product area, including workarounds.
+- Be aware of the tickets raised by customers pertinent to the category, surfacing and advocating for them.
+- Be aware of major changes related to the group in upcoming releases. At the section level, awareness of major changes will be 6+ months away instead.
 - Be aware of the priorities and challenges of the product group.
-- Strive to become a subject matter expert in the use of the features they cover.
+- Strive to become a subject matter expert in the use of the features they cover. At the section level, focus on becoming knowledgeable on feature usage and effect on customers.
+- [Section SSC] Provide insight into relevant product KPIs and their potential impact on customers and Support.
 
 ### Enable Support with periodic communication relevant to the group
 
 - A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
+- [Section SSC] Ensure a regular cadence of communication with the group level SSCs to ensure alignment and balance of prioritization of issues.
 - Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
     - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
 - Group related updates and announcements can be:
     - New features added in an upcoming release
     - Bug fixes in an upcoming release
     - Issues likely to generate tickets
+    - Issues that may be good contribution opportunities
     - Major documentation changes
     - Discovered bugs and applicable workarounds
     - Any special processes or troubleshooting workflows that might pertain to the features in your group
+    - Any changes in Support's workflows as a result of changes from your group
 - If you have not had any updates to share in a long time, consider sending out a quick "Nothing major you have to watch out for with this release, all is well!" or "Here is an awesome new unfiltered video on this topic" etc.
 - Catalyze training materials and sessions as needed.
 - [Optional] Consider doing quarterly office hours to chat about your group and share your experiences as an SSC with newer team members.
@@ -74,11 +79,11 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - Share customer feedback from tickets with the Product team.
     - Loop them in to relevant issues, tickets and Slack threads.
 - Be the customers' voice and an influencing agent on product related decisions and future roadmap.
-- [Optional] Help with questions from non product groups in the Product team's Slack channels if possible.
+- [Optional] Help with questions in the Product team's Slack channels.
 
 ### Be available to support and mentor newly onboarded SSCs
 
-- Being an SSC is a different experience based on group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
+- Being an SSC is a different experience based on the group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
      - Use the `@gitlab-com/support/support-stable-counterparts` GitLab group, and `#support-stable-counterparts` Slack channel to share best practices with other SSCs, and to gather input and feedback on process changes, improvements and other discussions.
         - This Slack channel has both Slackbot's reminder app and Geekbot enabled to encourage channel participants to share periodic updates.
 - Iterate on this page and other templates used in this initiative based on what works and what doesn't in the real world. Support Engineers looking to become SSCs will benefit from these.
@@ -114,7 +119,10 @@ If you're interested in becoming a stable counterpart for a group,
 - Discuss with your manager.
 - Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
     - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
-- Once done, create an MR to add your name under 'Support' for the relevant team on [data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml) and add your name to the list on the [source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/source/includes/product/_categories-names.erb) file, then assign to your manager.
+- Once done, create a handbook merge request:
+    - Add your name to the list on the [/sites/handbook/source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/handbook/source/includes/product/_categories-names.erb) file.
+    - Add your name under 'Support' for the relevant team on [/data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)
+    - Assign the MR to your manager.
 
 Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 

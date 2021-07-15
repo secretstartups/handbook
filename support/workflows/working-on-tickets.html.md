@@ -15,7 +15,7 @@ description: How to resolve users' problems by solving tickets on a daily basis.
 
 The [core responsibility of GitLab Support Engineers](/handbook/support/support-engineer-responsibilities.html) is to resolve user problems by solving support tickets on a daily basis. You accomplish this using the "Working on Tickets" workflow. The focus is **being responsible for the continuous progress toward resolution of a specific set of tickets**. What does this look like?
 
-**Ideally it starts with taking responsibility for a ticket by assigning it to yourself at the moment you make the first public comment on it.** From that point forward you should be thinking about how you can keep that ticket moving toward a resolution that's acceptable to the user. Don't worry - you're not responsible for creating the solution, only for making the solution happen and ensuring the user is kept up to date with what's happening. **You're the leader, not the sole contributor.** If you can resolve the ticket independently, great! If not, ask others (*e.g.* create a Slack thread) to help by pairing with you or by providing internal comments in the ticket to suggest next steps. Note that Senior and Staff Support Engineers are specifically charged with putting a large percentage of their time into helping the rest of the team, so they're a great resource when you need ticket help. If you're not able to find someone to work with you, please let your manager know so that they can help with next steps.
+**It starts with taking responsibility for a ticket by assigning it to yourself at the moment you make the first public comment on it.** From that point forward you should be thinking about how you can keep that ticket moving toward a resolution that's acceptable to the user. Don't worry - you're not responsible for creating the solution, only for making the solution happen and ensuring the user is kept up to date with what's happening. **You're the leader, not the sole contributor.** If you can resolve the ticket independently, great! If not, ask others (*e.g.* create a Slack thread) to help by pairing with you or by providing internal comments in the ticket to suggest next steps. Note that Senior and Staff Support Engineers are specifically charged with putting a large percentage of their time into helping the rest of the team, so they're a great resource when you need ticket help. If you're not able to find someone to work with you, please let your manager know so that they can help with next steps.
 
 Benefits of working on tickets assigned to yourself:
 1.  You won't have to read through a series of updates from multiple support engineers, and the user, to understand the ticket history, current status, or plan of action. In fact, we encourage you to include a brief description of those items - history (what's happened so far), current status, next steps - in most of your updates to the user so that your last update always tells you what you need to know.
@@ -23,6 +23,18 @@ Benefits of working on tickets assigned to yourself:
 1.  Knowing that you're in charge of a ticket gives you freedom to set and manage user expectations at each step along the way, so the user will know what's going on and who's working on their behalf. Again, this is a user experience enhancement.
 
 When you're "Working on Tickets", you're driving achievement of our KPI of [Support Satisfaction](/handbook/support/performance-indicators/#support-satisfaction-ssat) by helping to resolve tickets as quickly and effectively as possible.
+
+## How do we prioritize tickets?
+
+While there may be some regional variations as to how/by which group of people this set of priorities is handled (for example, [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew)), the global priority order for handling tickets is:
+
+
+| What | Description | Why? | What PI does this affect? |
+|---|---|---|---|
+| New Tickets | All Regions + Tickets in your Preferred Region | These tickets represent a contractual obligation. We must respond within SLA | [First Reply Time SLA](/handbook/support/performance-indicators/#service-level-agreement-sla) | 
+| Tickets without owners | All Regions + Preferred region tickets | These tickets represent risk. Without a DRI they are likely to languish. | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
+| Tickets you own | | These tickets are the ones you're the DRI of. Keep your customers up to date and moving towards solutions.| [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times) |
+| Everything else | Collaborate with others on the tickets they own, work on learning tasks, handbook or docs updates | | [SSAT](/handbook/support/performance-indicators/#support-satisfaction-ssat), [Customer Wait Time](/handbook/support/performance-indicators/#customer-wait-times), [Support MR Rate](/handbook/support/performance-indicators/#support-mr-rate-inherited), [Support Handbook MR Rate](/handbook/support/performance-indicators/#support-handbook-mr-rate-inherited) |
 
 ### The Process in Action
 
@@ -46,30 +58,39 @@ assigned when the first reply is made.
 <table>
   <tr><th>Current Focus</th><th>Region</th><th>Main View Name with Link</th></tr>
   <tr>
-    <td rowspan="3">Self-Managed</td>
+    <td rowspan="3">Support</td>
     <td>AMER</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038123559">SM Need Assignee: AMER+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150200">AMER Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150240">AMER+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
     <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102880">SM Need Assignee: APAC+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076456599">APAC Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150260">APAC+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
     <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102260">SM Need Assignee: EMEA+All Region</a></td>
+    <td>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076456639">EMEA Needs Org/Triage/FRT</a>
+      <br>
+      <a href="https://gitlab.zendesk.com/agent/filters/360076150280">EMEA+All Regions Needs Assignee</a>
+   </td>
   </tr>
   <tr>
-    <td rowspan="3">SaaS</td>
-    <td>AMER</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122359">.com Need Assignee: AMER+All Region</a></td>
+    <td rowspan="1">SaaS Account</td>
+    <td>All Regions</td>
+    <td><a href="https://gitlab.zendesk.com/agent/filters/360050768099">SaaS Account</a></td>
   </tr>
   <tr>
-    <td>APAC</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038122399">.com Need Assignee: APAC+All Region</a></td>
-  </tr>
-  <tr>
-    <td>EMEA</td>
-    <td><a href="https://gitlab.zendesk.com/agent/admin/views/360038102160">.com Need Assignee: EMEA+All Region</a></td>
+    <td rowspan="1">L&R</td>
+    <td>All Regions</td>
+    <td><a href="https://gitlab.zendesk.com/agent/filters/360038103700">L&R</a></td>
   </tr>
 </table>
 
@@ -93,24 +114,55 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
-   tickets, and check the `.com with SLA`, `.com Accounts, Groups, Login`, or
-   `SM with SLA` view (depending on your current focus) occasionally for tickets
+   tickets, and check the `Your region Needs Org/Triage/FRT`, `SaaS Account`, `Free user tickets`, and
+   `Your region+All Regions Needs Assignee` views for tickets you can work on.
    that need some help. To be sure that your suggestions align with the work
    the assignee has already done, it's best to post an internal note or to pair
    with them. If you decide to post a public response, be sure that your next
    steps align with the action plan that the assignee has described on their
    replies or ticket summary.
-1. Ensure that the subject of a support ticket is both descriptive and accurate. Although the subject is automatically set whenever a customer creates a new ticket you should review and if necessary modify the subject throughout the ticket lifecycle to ensure that it always accurately describes the customer's issue at any given time.  Having a descriptive and accurate subject is pivotal in enabling colleagues in support to quickly identify similar issues and reuse existing information.
-1. When you send the user an update, the normal action is to set the ticket status to `Pending`. We are now waiting for a reply from the user and there is no SLA clock counting.
+1. Ensure that the subject of a support ticket is both descriptive and
+accurate. You can edit the Subject to fix typos or make the problem
+clearer. Some examples include:
+
+    - gitlab error 500 on login -> gitlab error 500 on login due to no partition of relation "audit_events"
+    - My Account was Blockes -> My Account was Blocked
+    - git reconfigure with below errors -> git reconfigure with letsencrypt_certificate errors
+1. When you send a user an update, the normal action is to set the ticket
+  status to `Pending`, which indicates that you are waiting for a reply
+  from them. Even though at that point there will be no SLA clock running,
+  you might consider setting an expectation with the customer that you'll
+  check back with them after an appropriate amount of time to ensure
+  continued progress. Should you choose to do that, please consider using
+  our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
+  and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+  apps to help you to meet that commitment.
 1. Add research notes to your tickets, as it's important that we clearly document all of our work performed throughout a ticket's lifecycle. Not only is this a good way for you to track your own progress, particularly for lengthy and challenging tickets, but it also provides your colleagues with a clear understanding of what has been tried thus far, and enables a smoother transition if a ticket needs to be reassigned.
-1. Occasionally you will send a user a reply letting them know that you're going to follow up with further information. In this case you should set the ticket status to `Open` or `On-hold`. When this happens ZenDesk still removes the SLA. To help ensure we don't forget to follow up, a trigger automatically assigns the ticket to you (if it's not already assigned to someone else) so that you can see it in your view.
-1. For all tickets in which the user is waiting on a response from Support, **always provide an update** on its status and work that has been done. Aim to do this daily, and definitely no less than every four days (the length of the On-hold period). Make sure you check with the user that they are comfortable with any timescales you are working towards. If they are not, ensure you understand the impact to their business so that we can react accordingly.
+1. Occasionally you will send a customer a reply letting them know that you're going
+   to follow up with further information.
+   1. In this case you should set the ticket status to `Open` or `On-hold`. Either
+      way ZenDesk still removes the SLA and assigns the ticket to you (if it's not
+      already assigned to someone else).
+   1. In your reply you should also inform the customer when to expect your follow-up
+      message, and invite them to inform you if your chosen schedule does not meet
+      their needs. If it does not, please take steps to ensure you understand the
+      impact to their business so that you can adjust your plans accordingly.
+   1. To help yourself with meeting any schedule expectation you've set, consider
+      using our [Due Date](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#due-date-picker)
+      and [Reminders](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-reminders-app)
+      apps.
+1. For any ticket in which the user is waiting on a response from Support, **always
+   provide a timely update** on its status and on the work that has been done. You
+   are encouraged to set your own definition of "timely" by setting the customer's
+   expectations and using the Due Date and Reminders apps, as described in the
+   preceding tip. Otherwise, please aim to provide updates daily, and definitely
+   no less than every four days, which is the on-hold period length.
 1. After 1 on-hold period or a week, generally, an issue should be created in the appropriate tracker especially if there is discussion with the development team.
 1. If you are the assignee of a ticket, and the customer has confirmed that the solution you provided has resolved the issue, add a **closure summary** to the ticket prior to changing the ticket status to solved.  
 The closure summary should provide a brief outline of the confirmed solution. It should be written with the goals of giving clarity to the customer with regard to the solution as well as providing your colleagues with a quick and easy way to see what solved the customer's problem. A good closure summary is helpful when searching for solutions to future tickets. To make it easier for yourself to create a summary, please consider using the [General::Closing Summary](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/Closing%20Summary.yaml) macro, which adds a template as an internal note populated with some information. You will then need only to fill in the remaining items with relevant information before copying the completed message to a public comment for the customer.  
 Some caveats to bear in mind:  
     1. You should add a closure summary if the ticket is a long ongoing ticket where multiple suggestions have been provided to the customer throughout the ticket lifecycle.
-    1. The template ‘Closure Summary’ is there to help guide you with formatting a closure summary, you can modify or remove template content as deemed necessary.
+    1. The macro template ‘Closure Summary’ is available in Zendesk to help guide you with formatting a closure summary, you can modify or remove template content as deemed necessary.
     1. You should not feel the need to add a closure summary if the customer has not responded and the ticket has been automatically closed.
     1. You should not feel the need to add a closure summary if the ticket has a short life span and the solution is easy identifiable from the ticket history. (For example: If the resolution was a simple link to documentation.)
 
@@ -156,6 +208,7 @@ Some caveats to bear in mind:
       1. add a public message to the ticket informing the user that you’ve asked another support engineer with relevant expertise to take the ticket, and that you’ve reviewed the ticket with that engineer
       1. assign the ticket to the expert
    1. If you've become overloaded with tickets, feel free to rebalance your load by finding one or more teammates to take some of your tickets. Be sure you discuss each ticket before reassigning it to gain agreement and so that the other support engineers don't have to start from scratch. Then add an internal note stating the reassignment agreement **and** add a public meessage informing the user that you’ve asked another support engineer to take the ticket due to your time constraints.
+1. **I am interested in a specific subject area that's not covered by the views provided and I would like to see tickets assigned to other team members.** Create [Zendesk personal views](https://support.zendesk.com/hc/en-us/articles/203690806-Creating-views-to-manage-ticket-workflow) and add filters for the subject area. This will list all the new tickets and the already assigned tickets for that area.
 
 ## Working on Tickets Flowchart
 
@@ -371,6 +424,9 @@ If a user's reply is the last one in the ticket, do not set it to the On-hold st
 
 ### Merging Tickets
 
+**WARNING:**
+Any attached files in the to be merged tickets will be shared across the tickets. Everyone in cc on both of these tickets will receive the files.
+
 If you're merging two of a user's tickets that are related, be sure to send a message letting them know why you're merging them. If you don't, it often causes confusion and they open follow-ups asking why it was closed without comment.
 
 Additionally, when [Merging Tickets](https://support.zendesk.com/hc/en-us/articles/203690916-Merging-tickets), leave `Requester can see this comment` **unchecked** in the ticket that's being merged into (the second ticket from the top) in order to maintain the SLA. If the merge comment is made public, Zendesk considers it a response and removes the SLA. The ticket that was merged into another ticket is closed while the status of the target ticket is unaffected.
@@ -461,10 +517,10 @@ That's it! For most people that's all you need to do. Once you've completed onbo
 
 Each week we publish the 'mean average per Support Engineer' for solved tickets, public replies and internal notes in the Support Week in Review.
 
-We produce separate reports for 
-- [self-managed](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31477512), [.com](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/31478192), and [L&R](https://gitlab.zendesk.com/explore#/pivot-table/connection/10438872/query/34808652) tickets in recognition that the volume of tickets for each focus area is different.
+We produce separate reports for SM/SaaS/L&R in recognition that the volume of tickets for each focus area is different.
+- The following [Dashboard](https://gitlab.zendesk.com/explore/dashboard/36925DBD1F5E3C7BA541DB38D11AC51E0EAAFDD30DCB63FDE83CF1389E555D96/tab/11700022) contains the current values.
 
-We establish a **dynamic baseline** that is 0.85 of the mean average* for each metric. \
+We establish a **dynamic baseline** that is 0.85 of the mean average* for each metric. 
 (*value is chosen based on the [threshold for the lower quartile](https://en.wikipedia.org/wiki/Quartile)).
 
 Here's an example week for folks working on self-managed tickets:
@@ -474,7 +530,7 @@ Here's an example week for folks working on self-managed tickets:
    <td><strong>Number of self-managed Support Engineers</strong>
    </td>
    <td><p style="text-align: right">
-<strong>50</strong></p>
+<strong>42</strong></p>
 
    </td>
    <td>
@@ -500,7 +556,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-1000</p>
+1050</p>
 
    </td>
    <td><p style="text-align: right">
@@ -516,7 +572,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-20</p>
+25</p>
 
    </td>
    <td><p style="text-align: right">
@@ -532,7 +588,7 @@ Here's an example week for folks working on self-managed tickets:
 
    </td>
    <td><p style="text-align: right">
-<strong>17</strong></p>
+<strong>20</strong></p>
 
    </td>
    <td><p style="text-align: right">

@@ -97,6 +97,44 @@ To swap on-call duty with a colleague:
 
 See [the PagerDuty documentation](https://support.pagerduty.com/docs/editing-schedules#create-and-delete-overrides) for complete steps.
 
+#### Considerations in APAC
+
+##### Shifts start on Tuesday and end on Monday
+
+Due to the global on-call week starting on Monday, 09:00 Amsterdam time,
+on-call shifts for APAC begin on Tuesday and end on Monday. The APAC team has
+decided to retain this shift configuration as it allows for easier planning to
+take a long weekend with Monday off and as a buffer to ease into the next
+on-call. See the latest discussion in this [Support Team Meta issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3204).
+
+##### Support Engineer shifts are 4-hour long shifts
+
+APAC spans many timezones. Using an 8-hour shift to cover APAC business hours
+results in an on-call shift that can finish as late 9pm local time for APAC east
+based team members, and that starts as early as 04:30 local time for APAC west
+team members.  Consequently the support engineer shifts are split into 2 groups,
+APAC 1 and APAC 2, allowing each team member to cover hours within their normal
+working hours.
+
+Note that support manager on call shifts remain the full 8 hours.
+
+##### Australia (Employees of GitLab PTY Ltd)
+
+Team members employed by GitLab PTY Ltd _must_ take time off in lieu within two
+weeks of completing their on-call shift. Time in lieu should be requested via
+PTO by Roots, selecting the `On-Call Time in Lieu` option.
+
+For more details, see the [GitLab PTY Australia Specific Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only)
+page.
+
+##### New Zealand (Employees of GitLab PTY Ltd NZ)
+
+Team members employed by GitLab PTY Ltd NZ must avoid taking an on-call shift
+which falls on a New Zealand public holiday. If this cannot be avoided, your
+manager must be informed.
+
+For more details, see the [GitLab PTY Ltd NZ Specific Benefits](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/pty-benefits-australia/#on-call-engineering-only-1) page.
+
 ### Starting on-call
 
 Before your shift starts, _always_ double-check that your alerts are working. Send a test page to make sure that you are receiving alerts correctly.
@@ -118,7 +156,7 @@ To see who the current manager on-call is you can:
 ### Paging the on-call manager
 
 - First, try pinging the on-call manager by name in Slack.
-- If it's important and urgent, you can:
+- If it's important and urgent or a weekend, you can:
     - Use the `/pd-support-manager` command to page the on-call manager
     - Manually create a new incident from the [Support Managers Service](https://gitlab.pagerduty.com/services/PTFI8XR)
 
