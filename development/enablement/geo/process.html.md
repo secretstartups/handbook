@@ -238,7 +238,13 @@ Expectations:
 
 | Month | Name |
 | ----- | ---- |
-| July 2021 | @aakriti.gupta |
+| January 2021 | @mkozono |
+| December 2021 | [`@dbalexandre`](https://gitlab.com/dbalexandre) |
+| November 2021 | @vsizov |
+| October 2021 | @ibaum |
+| September 2021 | @aakriti.gupta |
+| August 2021 | @vsizov |
+| July 2021 | @mkozono |
 | June 2021 | @dbalexandre |
 | May 2021 | @mkozono |
 | April 2021 | @dbalexandre |

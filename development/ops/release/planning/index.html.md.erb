@@ -38,11 +38,11 @@ We use the following boards to monitor this process:
 
 ### Our Process
 
-We use the [Planning Boards](#planning-board) to triage issues that are not yet planned for a milestone. Issues in this board are labeled `cicd::planning` and the group label `group::release`.
+We use the [Planning Board](#planning-board) to triage issues that are not yet planned for a milestone. Issues in this board are labeled `cicd::planning` and the group label `group::release`.
 
 The Product Manager (PM) owns this board and uses it to advance issues through to becoming feasible Epics. When work leaves this board, it is in a fit state for the engineering team to implement the issue.
 
-In this stage, the PM establishes new work that they would like to see in the Release feature. The _devops::release_ process follows the [Product Development Flow](/handbook/product-development-flow/#validation-track), as follows:
+In this stage, the PM establishes new work that they would like to see in the Release features. The _devops::release_ process follows the [Product Development Flow](/handbook/product-development-flow/#validation-track), as follows:
 
 #### Problem validation
 
@@ -55,7 +55,7 @@ If the problem is validated, the issue is moved forward to the next stage, other
 Once the problem is validated, the PM will consider creating an Epic if [the scope of the solution is large enough](/handbook/product/product-processes/#epics-for-a-single-iteration).
 They will then reach out to the Engineering Manager (EM) for a technical contact in the team. The EM assigns [ownership](#epic-ownership) to an engineer. The engineer will work with the PM to determine a technical solution for the problem.
 
-If designs are required, the PM will add the `workflow::design` label and collaborate with UX to create the user stories required to solve the customer problem. Story mapping is a recommended way to visualize the user stories of a new feature in a holistic way. The story map can even be annotated to indicate which user stories need to be included in each release increment. More information on this process is noted in the [Product Development Workflow](/handbook/product-development-flow/#validation-phase-4-solution-validation). In some situations, the PM and UX may decide the issue is ready for `cicd::active` and will move the issue to `workflow::scheduling` for EM review.
+If designs are required, the PM will add the `workflow::design` label and collaborate with UX to create the user stories required to solve the customer problem. Story mapping is a recommended way to visualize the user stories of a new feature in a holistic way. The story map can even be annotated to indicate which user stories need to be included in each release increment. More information on this process is noted in the [Product Development Workflow](/handbook/product-development-flow/#validation-phase-4-solution-validation). If PM and UX decide the issue is ready, they will move the issue to `workflow::planning breakdown`.
 
 Occasionally, a proof-of-concept (POC) is necessary to determine a feasible technical path. When one is required, the PM
 will create a POC issue that contains the context of the research to be conducted along with the goals of the POC. This
@@ -67,7 +67,7 @@ It is also important to note that not all POCs will be successful, and that is O
 
 #### Planning Breakdown
 
-The PM and the engineer will work together to create all of the issues required to build the solution. This includes
+The PM and the engineer will work together to create all of the issues required to build the solution. This could include
 
 - documentation issues
 - testing that is broader than the scope of individual issues
@@ -76,28 +76,15 @@ The PM and the engineer will work together to create all of the issues required 
 Post-release tasks that need to be performed by SRE's are created in the Infrastructure team project and cannot be
 added to Epics as related issues. For these, it's useful to list them in the Epic description.
 
-When they are satisfied that they have a reasonable solution with all issues weighted, they will send the Epic link out
-for discussion and feedback. Planning is transparent anyway, but this serves to notify the team that the Epic is ready
-for development.
+During planning breakdown, the correct labels should be applied. The required labels that need to be applied for each issue:
 
-During planning breakdown, the correct labels should be applied. These can include but are not limited to feature, backstage, frontend, backend, and performance. Issues are also given the "cicd::scheduling" label once `workflow::planning breakdown` has completed.
+- `group::release`
+- `category`
+- `feature` or `bug`
+- `frontend`, `backend` or both
+- `needs weight`
 
-This signifies that from both a product and engineering point of view, this issue is prepared and ready to be built as soon as there is space in the schedule.
-
-##### Issue Breakdown
-
-Sometimes an issue can be large and require multiple merge requests to resolve. In this case, it can help to create smaller, more narrowly defined issues that can be resolved with a single merge request.
-Resolving these smaller implementation issues contributes to the completion of the larger parent issue. This has several benefits:
-
-1. It keeps the conversations around each specific merge request within its own issue.
-1. It makes it easier to see the progress of each merge request that contributes to the larger issue.
-1. It promotes iteration and smaller merge requests.
-
-For example, if an issue requires one frontend, one backend, and one database change, it can help to create three "sub-issues" that link back to the main issue.
-
-To ensure the sequence for completion of the implementation issues is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
-
-![Related issues](/handbook/engineering/development/ops/release/planning/related-issues.png)
+This signifies that from both a product and engineering point of view, this issue is prepared and ready for weighting and scheduling.
 
 ##### Weights
 
@@ -106,18 +93,52 @@ feature will be produced. This measure can be used as a way to determine issue w
 planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the
 team can do in a milestone. This metric also aligns with the merge request rate metric currently measured by engineering teams.
 
-While entering the approximate weight, take a moment to confirm issues have the correctly added labels:
+Every milestone a "Needs weight/Research" issue is created by the PM. The PM will work together with the EM to assign issues for weighting to each engineer on the team. These are issues that will likely be scheduled in the following 1+ milestones. During the first week of each milestone, the engineers will be responsible for weighing their assigned issues. 
 
-- `group::release`
-- `category`
-- `feature` or `bug`
-- `frontend`
-- `backend`
-- `UX`
+After a weight has been entered, the engineer should remove the `needs weight` label, and add the `workflow::ready for development` label. This signals that the issue is ready to be scheduled in a future milestone.
 
-After weight has been entered, remove `needs weight` label. If you are having a difficult time estimating the number of merge requests, please consider a [Proof of Concept](/handbook/engineering/development/ops/release/poc.html).
+#### Schedule
 
-##### Epic Ownership
+We use the [Scheduling boards](#scheduling-board) for this phase. Each milestone, the PM will create [a planning issue](https://gitlab.com/gitlab-org/ci-cd/release-group/release/-/blob/master/.gitlab/issue_templates/Internal%20Milestone.md)
+
+The PM will populate the planning issue with the desired issues to be included in the milestone. These items will be grouped by priority labels to indicate product priorities: 
+
+- `Release::P1`, which is the current milestone's top focus and will often have a `~Deliverable` label as well. 
+- `Release::P2`, is the next milestone's top focus and will be assigned a `~Release::P1` in the following milestone.
+- `Release::P3`, are future priorities that can be escalated into a sooner milestone.  
+
+The EM will review the planning issue and determine if the team has enough capacity for the prioritized issues. During this process, the entire team is invited to review the milestone plan and give feedback asynchronosly. Once the plan is finalized, the EM will ensure all items will be given the label `cicd::active`, which will pull items into the Build board.
+
+Once per week, the PM and EM also meet to discuss the work that is currently active, and queue prepared items for development.
+Some items that may be included on the agenda:
+
+1. What is active now?
+1. What needs to be active next?
+1. Are there any deliverables?
+1. Is the active list in priority order?
+1. Bugs list
+1. Technical debt items arising
+
+#### Build
+
+We use the [Build boards](#build-board) to look at `cicd::active` issues in the current milestone labeled with `group::release`.
+
+The Engineering Manager (EM) owns this board and uses it to facilitate building out the Epics and issues that the team have decided are ready for development.
+
+Issues are added in the "ready for development" column in priority order. When an engineer is open, they can pick unassigned issues from the top of this list.
+
+When picking up an issue, please:
+
+1. Assign yourself
+2. Adjust to the appropriate Milestone (_Will the issue be closed in the current or next Milestone_)
+
+As their work progresses, they advance the issue through the "in dev" and "in review" columns. Engineers need to keep the issues aligned with the status of the corresponding merge requests.
+
+When an issue is "in review", the MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person.
+
+The column for "workflow::verification" is where the owner of the issue/epic, or the PM will ensure that the issue fits into the context of the solution. This is also where we confirm if a release note is required for this issue, and assign the correct milestone.
+
+### Epic Ownership
 
 The Release team uses epics to describe features or capabilities that will increase the maturity of the Release categories over time.
 
@@ -137,51 +158,20 @@ This places a lot of responsibility with the owner, but the PM and EM are always
 removes bottlenecks and situations where only the PM or EM is able to advance an idea. In addition, the best people
 to decide on how to implement an issue are often the people who will actually perform the work.
 
-#### Schedule
+### Issue Breakdown
 
-We use the [Scheduling boards](#scheduling-board) for this phase.
+Sometimes an issue can be large and require multiple merge requests to resolve. In this case, it can help to create smaller, more narrowly defined issues that can be resolved with a single merge request.
+Resolving these smaller implementation issues contributes to the completion of the larger parent issue. This has several benefits:
 
-Once per week, the PM and EM will meet to discuss the work that is currently active, and queue prepared items for development.
+1. It keeps the conversations around each specific merge request within its own issue.
+1. It makes it easier to see the progress of each merge request that contributes to the larger issue.
+1. It promotes iteration and smaller merge requests.
 
-In this meeting, prepared items will be given the label `cicd::active`, which will pull items into the Build board.
+For example, if an issue requires one frontend, one backend, and one database change, it can help to create three "sub-issues" that link back to the main issue.
 
-This meeting is recorded and open for anyone to join. Attendance for the Release Team is optional as it is recorded. We will
-also try to move the time of the meeting around to suit epic owners when their epics are due to be scheduled.
+To ensure the sequence for completion of the implementation issues is easy to track, we should utilize [`Blocks` and `Is blocked by` options](https://about.gitlab.com/handbook/marketing/project-management-guidelines/issues/#related-issues-and-blocking-issues) on each issue page.
 
-The agenda for the meeting is:
-
-1. What is active now?
-1. What needs to be active next?
-1. Are there any deliverables?
-1. Is the active list in priority order?
-1. Bugs list
-1. Technical debt items arising
-
-In Release we use three labels to indicate product priorities: 
-
-- `Release::P1`, which is the current milestone's top focus and will often have a `~Deliverable` label as well. 
-- `Release::P2`, is the next milestone's top focus and will be assigned a `~Release::P1` in the following milestone.
-- `Release::P3`, are future priorities that can be escalated into a sooner milestone. 
-
-#### Build
-
-We use the [Build boards](#build-board) to look at `cicd::active_ issues` in the current milestone labeled with `group::release`.
-
-The Engineering Manager (EM) owns this board and uses it to facilitate building out the Epics and issues that the team have decided are ready for development.
-
-Issues are added in the "ready for development" column in priority order. When an engineer is open, they can pick unassigned issues from the top of this list.
-
-When picking up an issue, please:
-
-1. Assign yourself
-2. Adjust to the appropriate Milestone (_Will the issue be closed in the current or next Milestone_)
-3. Add a weight if necessary
-
-As their work progresses, they advance the issue through the "in dev" and "in review" columns. Engineers need to keep the issues aligned with the status of the corresponding merge requests.
-
-When an issue is "in review", the MR should be assigned to both the original engineer and the reviewer so that it is clear that the merge request has an active reviewer. This helps the EM to see how much work is allocated to each person.
-
-The column for "verification" is where the owner of the Epic, or the PM will ensure that the issue fits into the context of the solution. This is also where we confirm if a release note is required for this issue, and assign the correct milestone.
+![Related issues](/handbook/engineering/development/ops/release/planning/related-issues.png)
 
 ##### Addressing new issues quickly
 
@@ -193,7 +183,7 @@ If you think a new issue needs to be worked on immediately:
    enough context to review your work
 1. Make sure there is a weight
 1. Assign it into the current milestone
-1. Add the `workflow::in dev` label and the `unplanned` label
+1. Add the `workflow::in dev` label and the `stuff that should just work` label
 1. Assign it to yourself
 
 ##### What work should I pick up next?
@@ -204,4 +194,4 @@ In order, that means:
 
 - Can you help anyone with reviews?
 - Can you unblock anyone in development?
-- Pick from the top of the "ready for development" column on the [Build boards](#build-board).
+- Pick from the the "ready for development" column using the "Release::P*" labels on the [Build boards](#build-board).

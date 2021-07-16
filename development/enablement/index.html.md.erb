@@ -39,10 +39,11 @@ The following people are permanent members of the Enablement Sub-department:
 <%
   departments = [
     { name: 'Database', manager: 'craiggomes', regexp: /Database/ },
+    { name: 'Sharding', manager: 'craiggomes', regexp: /Sharding|Enablement/ },
     { name: 'Distribution', manager: 'eng-manager-distribution' },
     { name: 'Geo', manager: 'nick-nguyen' },
-    { name: 'Memory', manager: 'craiggomes', regexp: /Memory|Enablement/ },
-    { name: 'Global Search', manager: 'cliu' }
+    { name: 'Memory', manager: 'cliu', regexp: /Memory/ },
+    { name: 'Global Search', manager: 'cliu', regexp: /Global Search/ }
  ]
  department_regexp = /(#{Regexp.union(departments.map{ |d| d[:name] })})/
 %>
