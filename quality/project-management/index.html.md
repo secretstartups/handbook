@@ -73,7 +73,7 @@ Upon joining the Quality department, team members are granted either developer, 
 The following guidelines will help you to become a maintainer. Remember that there is no specific
 timeline on this, and that you should work together with your manager and current maintainers.
 
-To start the process as a trainee maintainer, see the [trainee maintainer section](/handbook/engineering/workflow/code-review/#how-to-become-a-maintainer)
+To start the process as a trainee maintainer, see the [trainee maintainer section](/handbook/engineering/workflow/code-review/#how-to-become-a-project-maintainer)
 of the code review guidelines.
 
 In general, you're required to author and review 3 - 10 MRs that demonstrate good overall understanding
