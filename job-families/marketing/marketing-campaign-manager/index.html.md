@@ -111,10 +111,11 @@ The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/c
 #### Senior Manager, Marketing Campaigns Responsibilities
 
 * Extends that of the Manager, Marketing Campaigns responsibilities
-* Leads overall demand generation campaigns function.  
-* Coordinates cross functionally across multiple groups including marketing and sales.  
-* Ensures overall corporate goals are met in terms of the number of new inquiries, MQLs and SAOs, conversion rates and costs from demand generation campaigns. * Works closely with Field Marketing, SDR, Alliances and Partner marketing to identify go to market synergies across teams that result in improved pipeline and achievement of revenue goals.  
-* Works with cross functional product marketing, technical marketing and content marketing to identify and leverage buyer journey assets, messaging and content and delivers them through demand generation campaigns to our ICP. 
+* Leads overall demand generation campaigns function for assigned customer segment/geo
+* Coordinates cross functionally across multiple groups including marketing and sales
+* Ensures overall corporate goals are met in terms of the number of new inquiries, MQLs and SAOs, conversion rates and costs from demand generation campaigns
+* Works closely with Field Marketing, SDR, Alliances and Partner marketing to identify go to market synergies across teams that result in improved pipeline and achievement of revenue goals
+* Works with cross functional product marketing, technical marketing and content marketing to identify and leverage buyer journey assets, messaging and content and delivers them through demand generation campaigns to our ICP
 * Leads the documentation of all campaigns team processes in the handbook, creates an environment that fosters CREDIT within and x-functionally, and optimizes our campaign motions to ensure optimum marketing efficiency
 
 #### Senior Manager, Marketing Campaigns Requirements
@@ -128,6 +129,29 @@ The Senior Manager, Marketing Campaigns is a [grade 9](/handbook/total-rewards/c
 * [Closed-Won Attribution/Spend](https://about.gitlab.com/handbook/marketing/demand-generation/campaigns/#demand-generation-key-metrics)
 
 ## Specializations
+
+#### Marketing Campaign Manager, Public Sector
+
+The Marketing Campaign Manager, Public Sector is responsible for strategizing, executing, and optimizing a full-funnel public sector campaign strategy, including SLED, Civilian, and DoD. 
+
+#### Marketing Campaign Manager, Public Sector Job Grade
+
+The Marketing Campaign Manager, Public Sector (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Marketing Campaign Manager, Public Sector Responsibilities
+
+* Develop and execute end-to-end, integrated B2B demand generation programs for the public sector
+* Strategize campaign calendar and delegation of campaign planning within the marketing campaigns team
+* Collaborate with digital agency to define digital media sponsorship strategy
+* Develop integrated campaign strategies with Public Sector Field Marketing teams on Top of Funnel, Mid Funnel and Bottom of Funnel conversion tactics
+* Analyze full-funnel campaign and tactic performance on an ongoing basis to continuously optimize results
+
+#### Marketing Campaign Manager, Public Sector Requirements
+
+* Extends that of the Manager, Marketing Campaigns responsibilities
+* 3+ years of experience and proven track record in developing public sector digital marketing campaigns
+* Ability to build strong relationships with channel partners, sales organizations and other key stakeholders
+* Deep understanding of customer and channel buying cycles and preferred engagement points for the public sector
 
 #### User Lifecycle Marketing
 
