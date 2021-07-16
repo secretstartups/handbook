@@ -87,7 +87,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
 
 ### OSHA Job Safety and Health
-* [Job Safety and Health: Its the Law Poster](https://www.osha.gov/Publications/osha3165-8514.pdf)
+* [Job Safety and Health: Its the Law Poster](https://www.osha.gov/sites/default/files/publications/osha3165.pdf)
 
 ### Service Contract Act
 * [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
