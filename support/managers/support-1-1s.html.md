@@ -70,13 +70,23 @@ Take a look at your team's Zendesk Explore dashboard and see if they are meeting
 
 It's likely you can skip this section if you're happy with the contributions people are making.
 
-### 3. Discuss other activities from responsibility areas
+### 3. Discuss career development and learning
+
+Discuss the career development and learning aspirations of the Support Engineer **at least quarterly** and provide guidance to help reach the goals.
+
+Agree and document a training plan that accomodates the aspirations and also meets the needs of the support team in terms of enhancing team skills and filling knowledge gaps.
+
+Agree checkin points to review progress and, if necessary, assist the Support Engineer to block the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+
+[Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members) 
+
+### 4. Discuss other activities from responsibility areas
 
 Discuss interesting activities from the **activity links** at the top of the document (see below for examples).
 
 There may be activities that the Support Engineer would like to discuss that aren't included in the activity links.
 
-### 4. Other discussions
+### 5. Other discussions
 
 Everyone has different things they like to focus on in 1:1s. The rest of the call should focus on things the Support Engineer and manager would like to discuss.
 
