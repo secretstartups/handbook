@@ -26,9 +26,9 @@ Abbreviations used on this page:
 
 The following people are permanent members of the Editor Engineering Team:
 
-**Engineers & Engineering Manager**
+**Engineering Manager & Engineers**
 
-<%= direct_team(manager_slug: 'oregand') %>
+<%= direct_team(manager_slug: 'davidoregan') %>
 
 **Product, Design & Quality**
 
@@ -41,16 +41,35 @@ Depending on the context here are the most appropriate ways to reach out to the 
 - GitLab epics/issue/MRs: `@gl-editor`
 - Slack: [`#g_create_editor`][slack] and `@create-editor-team`
 
-You can view the team members' current time here: [timezone.io/team/gitlab-createeditor][timezones]
+You can view the team members' current time here: [timezone.io/team/gl-createeditor][timezones]
 
 ## 🛠 How we work
 
 Following you will find all details how our team operates in all aspects of our work!
 
+### 🙊 Ubiquitous terms
+
+| Term | Meaning |
+| ------ | ------ |
+| `in context editing` | Transitioning from reading to editing without navigating to a new page |
+| `Web IDE` | A web-based multi-file code editor |
+| `Snippets` | Small, sharable bits of code saved for easy access |
+| `Live Preview` | Preview JavaScript and static sites in real-time in the Web IDE |
+| `Wiki` | Built-in, git-backed knowledge base |
+| `Static Site Editor` | Visual editor for Markdown content hosted in a static site |
+| `Source Editor` | Source Editor is framework-agnostic and can be used in any application, including both Rails and Vue |
+| `Content Editor` | The Content Editor is a UI component that provides a WYSIWYG editing experience for GitLab Flavored Markdown (GFM) in the GitLab application |
+
+### 🙊 Changed terms
+
+| Old Term | New Term |
+| ------ | ------ |
+| `Editor Lite` | `Source Editor` |
+
 ### ⏰ Meetings
 
-Following meetings are regularly had at our team to ensure we work well as a team.
-For Team meetings we use Thursdays, and if anyone outside of Editor wants to join one of these meetings, just give us a headsup.
+The following meetings are regularly held for our team to ensure we work well together.
+For Team meetings we use Thursdays, and if anyone outside of Editor wants to join one of these meetings, just give us a heads-up.
 
 **❗️Important**: For every meeting, the [Editor team's meeting document][gdoc] should be used, and filled with the meeting notes, as well as references to any other sync meeting agendas/notes/recordings which have recently occurred. This will make it easier for people to find any meeting notes.
 
@@ -111,17 +130,15 @@ The approach can be summarized like so:
 
 > GitLab.com is the source of truth. Everything that is not shipped and live is not done.
 
-👏👏👏
-
 ### 🤝 Collaboration
 
 > "Talent wins games, but teamwork and intelligence win championships." – Michael Jordan
 
-#### PM - EM
+#### 📓 PM - EM
 
 Our team follows the general [Product Development Flow][product-development-flow] but this guide is intended to elaborate on a few elements to represent the team's internal flavor, emphasise certain points, and smooth the collaboration.
 
-#### Design
+#### 🖌 Design
 
 - Feedback from the group will be solicited via the design management area of the related issue.
     - Designs needing feedback from the group should be uploaded to the Design tab.
@@ -136,7 +153,7 @@ Our team follows the general [Product Development Flow][product-development-flow
         - Naming of the proposed solution screenshots should remain the same to leverage version history to track changes.
         - There might cases were uploading the whole flow is not ideal so this should be noted in the Proposal area.
 
-#### Workflow labels
+#### 🏷 Workflow labels
 
 Let's look at a few of the workflow labels we should take as important cornerstones of our development workflow.
 
@@ -173,7 +190,7 @@ For an Issue to reach the scheduling phase, its weight must be set. It can be tr
 
 A feature that is ready for development should be able to be picked up at any point by a contributor and should have a provisional milestone assigned. If such a feature requires BE and FE, the corresponding features should also be in this state.
 
-#### Directional, Deliverable, Stretch and Discovery
+#### 🗺 Directional, Deliverable, Stretch and Discovery
 
 Product will provide the directional items for upcoming milestones and the EM will make sure that these get prioritized accordingly. To account for enough resource planning time it's recommended to have `direction` items ready ~10 days prior the next milestone. We need to account for engineers, who might be critical for scheduling the work, might be Out of Office (OOO) or live in the APAC zone.
 
@@ -211,6 +228,8 @@ This practice is very important for our team to make sure our backlog is actuall
     - All issues going into these Epics need to fulfill our general Issue guideline.
 
 Sometimes the issue needs next steps defined, so we use [this Snippet](https://gitlab.com/gl-editor/team/-/snippets/2128804#backlog-refinement-session-update) to define the DRI and the actions that need to be take next outside of the meeting.
+
+To see the breakdown of selected issue's for refinement you can check here: https://gitlab.com/gitlab-org/gitlab/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Backlog%20Refinement%3A%3AEditor
 
 ### 📝 Issue Guidelines
 
@@ -277,7 +296,7 @@ To cultivate engagement from the wider community, do not weight an issue accordi
 
 Team members should add any [planned time off](/handbook/paid-time-off/#paid-time-off) in the ["PTO by Roots"](https://gitlab.slack.com/archives/D019WTM2F99) slack app, so that the Engineering Manager can use the proper number of days off during capacity planning.
 
-## Communication
+## 👏 Communication
 
 The Editor Team communicates based on the following guidelines:
 
@@ -305,7 +324,7 @@ When scheduling a sync call consider doing the following:
 1. Remember to add a link to the recording in the agenda document.
 1. Notify the team of the new available recording in the [#g_create_editor][slack] Slack channel.
 
-## Team IC Gearing
+## 🍨 Team IC Gearing
 
 As an engineering organization, we have defined a [default ratio for the number of Staff Engineers per team](https://about.gitlab.com/handbook/engineering/career-development/#gearing-ratios). While this makes sense for most teams, the Create:Editor team has a slightly different ratio due to the nature of the team.
 
@@ -340,7 +359,7 @@ The Editor Group collates all video recordings related to the group and its team
 [hb-create]: /handbook/engineering/development/dev/create/
 [hb-dev]: /handbook/engineering/development/dev/
 [hb-categories]: https://about.gitlab.com/direction/create/#categories-in-create
-[timezones]: https://timezone.io/team/gitlab-createeditor
+[timezones]: https://timezone.io/team/gl-createeditor
 [product-development-flow]: /handbook/product-development-flow/
 [planning-breakdown]: /handbook/product-development-flow/#build-phase-1-plan
 [iteration]: /handbook/values/#iteration
