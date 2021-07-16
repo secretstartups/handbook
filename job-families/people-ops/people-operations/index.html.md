@@ -276,30 +276,6 @@ The Director, Global People Operations is a [grade 10](/handbook/total-rewards/c
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#director-group)
 - Ability to use GitLab
 
-## Specialities 
-
-### Team Member Relations Specialist
-
-Owns the Team members relations process from intake to conclusion, including coaching, research/investigations, documents and makes recommendations on appropriate response or action needed.  
-
-#### Team Member Relations Specialist Responsibilities
-
-- **Disciplinary** :  Partner with People Business Partners and other teams and people leaders to ensure that investigations/Disciplinary processes are handled in a fair, timely manner consistent with local requirements including all documentation.
-- **Coaching** : Provide Team Member Relations support, thought partnership, and coaching for all team members and levels of management in the organization on issues including absenteeeism, performance, conduct and harassment.  
-- **Compliance** : Parnter with Legal and People Compliance to ensuring compliance with policies, practices and applicable employment legislation.
-- **Policy and Process Management** : Balance a broad range of tasks including the interpretation and development of policies and procedures, facilitiating training on key Team Member Relations issues, and contributing to the development and implementation of Team Member Relations programs based on line of business goals and People Success strategy.
-- **Process Improvement** : Identifying process improvement opportunities and policy gaps through trend anaylsis.  
-
-#### Team Member Relations Specialist Requirements
-
-- Effective communication and problem solving skills
-- Demonstrates empathy and experience driving inclusive culture
-- Minimum of 2 year global experience managing team member relation cases
-- Demonstrated solid judgement and experience assisting risk relative to the business
-- Demonstratees project management, change management, and experience driving programs independently
-- Experience learning and thriving in a constantly changing Global environment and to cultivate relationships across Global teams
-- Be a trusted adviser by providing consultation and resolution guidance to promote a positive GitLab culture
-
 ### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
