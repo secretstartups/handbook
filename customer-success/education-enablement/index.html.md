@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Success Education and Enablement"
+title: "GitLab Product Training for Customer Success"
 description: "As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed."
 ---
 
@@ -10,17 +10,10 @@ description: "As a Solutions Architect, Technical Account Manager, or Profession
 - TOC
 {:toc}
 
-## Overview of Education and Enablement
+## Overview of GitLab Product Training 
 
 As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. This handbook page provides an dashboard of aggregated resources that we encourage you to use to get up to speed. Although we aggregated and/or developed these resources for Customer Success team members, they are generic enough that all team members and partners can benefit from the education and enablement resources that we have published here.
 
-## Educational Tiers
-
-There is a lot of depth to the GitLab product and the industry knowledge that you'll need to know (eventually). To help you level up, the resources on this page have been broken up into educational tiers.
-
-* **Foundations (101 Level)** - This provides an overview that lets you get a summary about a topic in less than 30 minutes to be able to have a high-level conversation about it.
-* **Associate (150 to 200 Level)** - This provides a working knowledge of the depth of a topic and associated features. This provides enough information to know that a feature exists and a "good enough" understanding of how it works until you find yourself needing to focus on a topic for a more complex demo or implementation.
-* **Professional (300-400 Level)** - This provides the subject matter expert level materials for topics of interest. If you become proficient in a topic, you are encouraged to contribute resources (videos, demos, post-mortem write-ups, documentation pages, repositories, etc.) to this tier since this is crowd sourced from team members and not formally developed as part of our education and enablement program.
 
 ## Overview of GitLab Feature and Use Cases
 
@@ -35,23 +28,6 @@ One of the most helpful resources for understanding what GitLab does, the featur
 If you understand what the stages are and want to dive deeper, you can look at the [product categories handbook page](https://about.gitlab.com/handbook/product/categories/) for a deep-dive on each of the stages, specifically the [hierarchy](https://about.gitlab.com/handbook/product/categories/#hierarchy) and the [DevOps Stages](https://about.gitlab.com/handbook/product/categories/#devops-stages).
 
 For the purposes of education and enablement, we focus on the DevOps stages that the customer sees. There are additional stages that help GitLab as a business succeed, such as the [Growth stage](https://about.gitlab.com/handbook/product/categories/#growth-stage), [Fulfillment stage](https://about.gitlab.com/handbook/product/categories/#fulfillment-stage), [Enablement stage](https://about.gitlab.com/handbook/product/categories/#enablement-stage), and [Single Engineer Groups stage](https://about.gitlab.com/handbook/product/categories/#single-engineer-groups-section). Although these are not necessarily DevOps stages, the Engineering and Product departments use the stage terminology for consistency. **You do not need to spend time learning about these stages and can search for this information later if the need arises.**
-
-### Use Cases
-
-The GitLab use cases help define the categories of related features with a **business value** narrative. In other words, why are customers buying GitLab and what do they think that we offer. You can read more about each of our use cases by navigating to the Product navigation menu at the top of this page or from anywhere on [about.gitlab.com](https://about.gitlab.com/).
-
-* [Source Code Management](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
-* [Continuous Integration and Deployment/Delivery (CI/CD)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-* [Auto DevOps](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
-* [Security and DevSecOps](https://about.gitlab.com/solutions/dev-sec-ops/)
-* [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/)
-* [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
-* [GitOps and Infrastructure-as-Code](https://about.gitlab.com/solutions/gitops/)
-
-There are also resources available to cater to the size of customer and their needs.
-
-* [Small Business](https://about.gitlab.com/small-business/)
-* [Enterprise](https://about.gitlab.com/enterprise/)
 
 ## GitLab Product Topics
 
@@ -69,7 +45,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Manage Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/manage/)
 - [Manage Stage Direction and Roadmap](https://about.gitlab.com/direction/dev/#manage)
-##### Associate Level
+##### Intermediate Level
 - [Value Stream Management Feature Docs](https://about.gitlab.com/solutions/value-stream-management/)
 - [Audit Events Feature Docs](https://docs.gitlab.com/ee/administration/audit_events.html)
 - [DevOps Reports Feature Docs](https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_report.html)
@@ -82,7 +58,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Plan Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/plan/)
 - [Plan Stage Direction and Roadmap](https://about.gitlab.com/direction/dev/#plan)
-##### Associate Level
+##### Intermediate Level
 - [Issue Tracking Feature Docs](https://docs.gitlab.com/ee/user/project/issues/)
 - [Time Tracking Feature Docs](https://about.gitlab.com/solutions/time-tracking/)
 - [Boards Feature Docs](https://about.gitlab.com/stages-devops-lifecycle/issueboard/)
@@ -98,7 +74,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Create Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/create/")
 - [Create Stage Direction and Roadmap](https://about.gitlab.com/direction/dev/#create)
-##### Associate Level
+##### Intermediate Level
 - [Source Code Management Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
 - [Source Code Management Direction and Roadmap](https://about.gitlab.com/direction/create/source_code_management/)
 - [Code Review Feature Overview with 30+ Features](https://about.gitlab.com/stages-devops-lifecycle/code-review/)
@@ -122,7 +98,7 @@ To align our education and enablement with our product, each of the topics below
 - [Verify Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/verify/)
 - [Verify Stage Direction and Roadmap](https://about.gitlab.com/direction/ops/#verify)
 - [CI YouTube Playlist](https://youtube.com/playlist?list=PL05JrBw4t0Ko-mJZLo2uF3aQQuBfBaSKB)
-##### Associate Level
+##### Intermediate Level
 - [Continuous Integration (CI) Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
   - [CI/CD Feature Docs](https://docs.gitlab.com/ee/ci/)
   - [CI/CD Concepts Docs](https://docs.gitlab.com/ee/ci/introduction/)
@@ -150,7 +126,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Package Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/package/)
 - [Package Stage Direction and Roadmap](https://about.gitlab.com/direction/package/)
-##### Associate Level
+##### Intermediate Level
 - [Package Registry Feature Docs](https://docs.gitlab.com/ee/user/packages/package_registry/)
 - [Container Registry Feature Docs](https://docs.gitlab.com/ee/user/packages/container_registry/)
 - [Helm Chart Registry Feature Docs](https://docs.gitlab.com/ee/user/packages/container_registry/#use-the-container-registry-to-store-helm-charts)
@@ -166,7 +142,7 @@ To align our education and enablement with our product, each of the topics below
 - [Release Stage Direction and Roadmap](https://about.gitlab.com/direction/release)
 - [CI/CD eBook](https://about.gitlab.com/resources/ebook-single-app-cicd/)
 - [CI/CD YouTube Demo Overview](https://about.gitlab.com/blog/2017/03/13/ci-cd-demo/)
-##### Associate Level
+##### Intermeiate Level
 - [Continuous Delivery Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
   - [See verify stage for full list of CI/CD resources](#verify-stage)
 - [Pages Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/pages/)
@@ -185,7 +161,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Configure Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/configure/)
 - [Configure Stage Direction and Roadmap](https://about.gitlab.com/direction/configure/)
-##### Associate Level
+##### Intermediate Level
 - [Auto DevOps Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
 - [Auto DevOps Feature Docs](https://docs.gitlab.com/ee/topics/autodevops/)
 - [Kubernetes Management Feature Overview](https://about.gitlab.com/solutions/kubernetes/)
@@ -200,7 +176,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Monitor Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/monitor/)
 - [Monitor Stage Direction and Roadmap](https://about.gitlab.com/direction/monitor/)
-##### Associate Level
+##### Intermediate Level
 - [Runbooks Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/runbooks/)
 - [Metrics Feature Docs](https://docs.gitlab.com/ee/operations/metrics/)
 - [Incident Management Feature Docs](https://docs.gitlab.com/ee/operations/incident_management/)
@@ -215,7 +191,7 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Secure Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/secure/)
 - [Secure Stage Direction and Roadmap](https://about.gitlab.com/direction/secure/)
-##### Associate Level
+##### Intermediate Level
 - [Static Application Security Testing (SAST) Feature Docs](https://docs.gitlab.com/ee/user/application_security/sast/)
 - [Dynamic Application Security Testing (DAST) Feature Docs](https://docs.gitlab.com/ee/user/application_security/dast/)
 - [Fuzz Testing Feature Docs](https://docs.gitlab.com/ee/user/application_security/coverage_fuzzing/)
@@ -229,36 +205,14 @@ To align our education and enablement with our product, each of the topics below
 ##### Foundations Level
 - [Protect Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/protect/)
 - [Protect Stage Direction and Roadmap](https://about.gitlab.com/direction/protect/)
-##### Associate Level
+##### Intermediate Level
 - [Container Scanning Feature Docs](https://docs.gitlab.com/ee/user/application_security/container_scanning/)
 - [Security Orchestration Feature Doc](https://docs.gitlab.com/ee/user/application_security/threat_monitoring/#configuring-network-policy-alerts)
 - [Container Host Security Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/protect/container_host_security/index.html)
 - [Container Network Security Feature Docs](https://docs.gitlab.com/ee/user/project/clusters/protect/container_network_security/index.html)
 
 
-## GitLab Training and Certification Program
 
-### Professional Services Classes
-
-Individual GitLab team members can request to audit a customer-facing training sessions delivered by Professional Services. Internal GitLab team leads can request training sessions delivered by Professional Services for their teams.
-
-To learn more, see the [Working with Professional Services handbook page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/working-with/#requesting-training-for-gitlab-team-members).
-
-### GitLab Technical Certifications
-
-GitLab offers technical certifications to help the GitLab community and team members validate their ability to apply GitLab in their daily DevOps work. To earn certification, candidates must first pass a written assessment, followed by a hands-on lab assessment graded by GitLab Professional Services engineers.
-
-To learn more, see the [GitLab Technical Certifications handbook page](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/).
-
-## Industry Topics
-
-### Cloud Infrastructure
-
-TODO AWS, GCP, DigitalOcean
-
-### Container Technologies
-
-TODO Openshift, Docker
 
 #### Kubernetes Certification
 ***
@@ -266,9 +220,9 @@ TODO Openshift, Docker
 - [Kubernetes for Beginners Udemy Training](https://www.udemy.com/course/learn-kubernetes/)
 - [CKA Udemy Training](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 - [CKAD Udemy Training](https://www.udemy.com/course/certified-kubernetes-application-developer/)
-##### Associate Level
+##### Intermediate Level
 - [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-##### Professional Level
+##### Advanced Level
 - [CKA Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 - [CKAD Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad)
 - [CKS Certification](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
@@ -280,69 +234,40 @@ TODO Openshift, Docker
 ##### Foundations Level
 - [Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)
 - [GitLab Terraform Integration Docs](https://docs.gitlab.com/ee/user/infrastructure/)
-##### Associate Level
+##### Intermediate Level
 - [Terraform Docs](https://www.terraform.io/docs/index.html)
 - [Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [Terraform GCP Provider Docs](https://registry.terraform.io/providers/hashicorp/google/latest/docs)
 - [Terraform GitLab Provider Docs](https://registry.terraform.io/providers/gitlabhq/gitlab/latest/docs)
 - [GitLab Sandbox Cloud](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started)
 - [GitLab Demo Systems Terraform Modules](https://gitlab.com/gitlab-com/demo-systems/terraform-modules)
-##### Professional Level
+##### Advanced Level
 - [Terraform Associate Certification](https://www.hashicorp.com/certification/terraform-associate)
 
 #### HashiCorrp Vault
 ***
 ##### Foundations Level
 - [Hashicorp Learn Tutorials](https://learn.hashicorp.com/terraform)
-##### Associate Level
+##### Intermediate Level
 - TODO
-##### Professional Level
+##### Advanced Level
 - [Vault Associate Certification](https://learn.hashicorp.com/terraform)
 
 #### HashiCorp Consul
 ***
 ##### Foundations Level
 - [Hashicorp Learn Tutorials](https://learn.hashicorp.com/consule)
-##### Associate Level
+##### Intermediate Level
 - TODO
-##### Professional Level
+##### Advanced Level
 - [Consul Associate Certification](https://www.hashicorp.com/certification/consul-associate)
 
-TODO Packer, Ansible, Chef, Puppet
 
-### Web Application Security
-
-TODO OWASP, Tenable, etc.
-
-## Demo Readiness
-
-Getting started demos for baseline proficiency. Learn more on the [Demo Readiness](/handbook/customer-success/solutions-architects/demonstrations/#demo-readiness) page
-
-## Demo Library
-
-TODO Table of all sample projects and video walk through demos
-
-## Enablement Events and Async Recordings
-
-### Customer Success Skills Exchange
-
-The Field Enablement Team hosts a 50 min weekly webinar focused on topics relevant to the Customer Success Team. To learn more, view the upcoming schedule, or check out a recording go to the [CS Skills Exchange handbook page](/handbook/sales/training/customer-success-skills-exchange/).
-
-### Sales Enablement Level Up
-
-The Field Enablement Team hosts a weekly 30 minute webinar focused on topics relevant to the entire Field Team. To learn more, view the upcoming scheudle, or check out a recording go to the [Sales Level Up Webinar handbook page](/handbook/sales/training/sales-enablement-sessions/).
-
-### Command of Message & MEDDPPICC
-
-GitLab uses ForceManagement's Command of Message and MEDDPPICC as our sales methodology. You can familiarize yourself with the kep components and messaging on [Command of Message handbook page](/handbook/sales/command-of-the-message/).
-
-## Helpful Handbook Pages and Internal Google Drive Links
-
-TODO List of bookmarks
 
 ## Additional Resources
 
 - [Field Enablement Handbook Page](/handbook/sales/field-operations/field-enablement/)
+- [ Field Certification Handbook Page](/handbook/sales/training/field-certification/)
 - [Sales Training](/handbook/sales/training/)
 - [O'Reilly](https://learning.oreilly.com/home/). Contact your manager for a license.
 - [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice)
