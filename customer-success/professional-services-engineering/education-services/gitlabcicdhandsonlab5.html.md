@@ -36,7 +36,7 @@ variables:
 1. Leave all other options at their defaults and click **Add variable**.  
 1. Navigate to your project by clicking **My Test Group - \<USERNAME\>** in the breadcrumbs at the top of the page, and then clicking on your project.
 1. Repeat steps 2 to 6, entering `project_level_variable` in **Key** field and `I'm a variable set at the project level` in the **Value** field. 
-1. Setting variables does not trigger a pipeline run, so click **CI/CD > Pipelines** in the left navigation pane, click the green **Run Pipeline** button, and click the second green **Run Pipeline** button.
+1. Setting variables does not trigger a pipeline run, so click **CI/CD > Pipelines** in the left navigation pane, click the **Run Pipeline** button, and then click the second **Run Pipeline** button.
 1. Click on the widget for the `environment variables` job and verify your work.
 
 ## Suggestions?

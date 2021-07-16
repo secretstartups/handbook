@@ -15,7 +15,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ## TAM Alignment
 
-Customers who meet the following criteria are aligned with a Technical Account Manager:
+Customers who meet the following criteria are aligned with a Technical Account Manager.  *These criteria are reviewed annually and are subject to change*:
 
 ### Enterprise
 

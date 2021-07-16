@@ -24,7 +24,7 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 5. Leave all other fields at their defaults and click **Create issue**.
 
 ### Create custom labels
-1. On the left-hand side of the screen, click the **Labels** section (under the **Issues** header) on the taskbar.
+1. On the left-hand side of the screen, click the **Labels** section (under the **Project Information** header) on the taskbar.
 2. Click the blue **New label** button.
 3. In the **Title** field, type `Opened` and assign it a background color of your choosing.
 4. Click the blue **Create label** button.

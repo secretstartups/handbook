@@ -43,8 +43,8 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 1. To mark the merge request ready to merge, click **Mark as ready** in the upper right-hand corner.
 1. Click the **Overview** tab.
 1. If there were eligible approvers, an **Approve** button would be in the **View eligible approvers** section.
-1. Ensure the **Delete source branch** checkbox is enabled, and click the green **Merge** button.
-1. Navigate back to your repository's project by clicking **Repository** in the left-hand nav bar. Switch to the **master** branch in the branch dropdown at the top left of the page, if you're not on that branch already. Verify that the merge successfully added the `Edit my README.md file` line to the bottom of `README.md`. 
+1. Ensure the **Delete source branch** checkbox is enabled, and click the blue **Merge** button.
+1. Navigate back to your repository's project by clicking **Repository** in the left-hand nav bar. Switch to the **main** branch in the branch dropdown at the top left of the page, if you're not on that branch already. Verify that the merge successfully added the `Edit my README.md file` line to the bottom of `README.md`. 
 
 ### Suggestions?
 

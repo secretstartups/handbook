@@ -73,7 +73,7 @@ To align our education and enablement with our product, each of the topics below
 - [Value Stream Management Feature Docs](https://about.gitlab.com/solutions/value-stream-management/)
 - [Audit Events Feature Docs](https://docs.gitlab.com/ee/administration/audit_events.html)
 - [DevOps Reports Feature Docs](https://docs.gitlab.com/ee/user/admin_area/analytics/dev_ops_report.html)
-- [Code Analytics Feature Docs](https://docs.gitlab.com/ee/user/analytics/code_review_analytics/)
+- [Code Analytics Feature Docs](https://docs.gitlab.com/ee/user/analytics/code_review_analytics.html)
 - [Compliance Management Feature Docs](https://docs.gitlab.com/ee/administration/compliance.html)
 - [Audit Reports Feature Docs](https://docs.gitlab.com/ee/administration/audit_reports.html)
 
