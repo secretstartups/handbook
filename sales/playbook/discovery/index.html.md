@@ -90,6 +90,12 @@ Leverage the TED questioning model (see below) to get the prospect to open up an
 - E: Can you please **explain** the impact of...?
 - D: Will you please **describe** how others are affected by...?
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/VOu0q2NvH_s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 #### Five Whys
 Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
 
@@ -129,6 +135,12 @@ The final phase of discovery identifies the roadmap, along with potential roadbl
 
 ## Lack of Preparation
 See the [above section](/handbook/sales/playbook/discovery/#preparation) for tips to avoid what may be the most common discovery pitfall.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/7nSImEMagAQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Happy Ears
 Resist the urge to prematurely talk about or begin to position GitLab until you have a thorough understanding of the customer’s challenges, the implications of those challenges, how big the problem is, the urgency of the problem, who cares about the problem and why, and more (see below).
