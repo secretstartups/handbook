@@ -76,7 +76,7 @@ Discuss the career development and learning aspirations of the Support Engineer 
 
 Agree and document a training plan that accomodates the aspirations and also meets the needs of the support team in terms of enhancing team skills and filling knowledge gaps.
 
-Agree checkin points to review progress and, if necessary, assist the Support Engineer to block the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
+Agree checkin points to review progress and, if necessary, assist the Support Engineer to prioritize and allocate the time required for [Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/).
 
 [Further details on Career Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#recomendations-for-managers-to-support-the-learning-of-team-members) 
 
