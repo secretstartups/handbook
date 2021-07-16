@@ -27,7 +27,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 {: #campaign-visual}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-MURAL goes here
+![](/images/handbook/marketing/marketing-programs/CI-CD_Campaign_Flow.png.png)
 
 ### Campaign Pages & Activities
 {: #campaign-activities}
