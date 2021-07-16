@@ -280,7 +280,7 @@ The talent acquisition team will ask candidates for references via email. The hi
 
 ## Background checks
 
-Concurrently with the reference checks, the talent acquisition team will begin a [background check](/handbook/people-policies/#background-checks) on the candidate. When the talent acquisition team initially requests the candidate's reference details, they will also begin the background check process and inform the candidate.
+The talent acquisition team will begin a [background check](/handbook/people-policies/#background-checks) on the candidate once an offer as been extended. 
 
 ## After the Interviews
 

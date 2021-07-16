@@ -72,7 +72,7 @@ Learn more about [uploading to GitLab Unfiltered within the Communication sectio
 
 ## Sourcing Support
 
-Every role at GitLab should receive sourcing support from the Talent Acquisition Team. To learn more about Sourcing you can visit [this page](/handbook/hiring/sourcing/) and also reach out to your [Talent Acquisition & Sourcing partners](/handbook/hiring/talent-acquisition-alignment/).
+Every role at GitLab should receive sourcing support from the Talent Acquisition Team. To learn more about Sourcing you can visit [this page](/handbook/hiring/sourcing/) and also reach out to your [Talent Acquisition & Sourcing partners](/handbook/hiring/recruiting-alignment/).
 For all positions, the Hiring Team will use available tools to source for qualified candidates. In addition, Managers should also reach out to their own network for candidates and referrals. It is common for candidates to respond more frequently to those who they know are the hiring manager. The best Managers take a proactive role in building their teams, through sourcing directly and tapping their networks for excellent candidates.
 
 The Talent Acquisition Team uses various tools to identify talent by proactively reaching out to candidates for opportunities. In addition, they will partner with hiring managers to participate in sourcing to ensure they are targeting the right skillsets.

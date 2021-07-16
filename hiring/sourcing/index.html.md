@@ -57,7 +57,7 @@ Sourcer can go on Youtube and search for candidates who have spoken at the semin
 When you have identified someone as a good potential candidate, send their
 profile along with any requested information to a Sourcer so they can reach out to
 the candidate and add them to Greenhouse. You can check the Sourcer alignment
-[here](/handbook/hiring/talent-acquisition-alignment/).
+[here](/handbook/hiring/recruiting-alignment/).
 
 If you want to reach out to a sourced candidate directly you can refer to our internal [Reach out Templates deck](https://docs.google.com/presentation/d/1ySqgLoYnFUGtb7hdywav6iSb_NBPRhfIs6WZlGne6Ww/edit?usp=sharing), check out the internal [Sourcing emails repo](https://gitlab.com/gitlab-com/people-group/sourcing-emails) or create your own message. Kindly discuss your communication strategy with your
 Sourcing partner to avoid duplication and poor candidate experience.
@@ -102,7 +102,7 @@ The Sourcing Team has two seasts for LinkedIn's **Talent Insights** product. **T
 Once a report has been run, it can be exported in either a `.PDF` or `.CSV` format; the latter allowing you to filter and segment the data. All reports will be uploaded to the [LinkedIn Talent Insights Reports](https://gitlab.com/gitlab-com/people-group/talent-acquisition/-/tree/master/LinkedIn%20Talent%20Insights%20Reports/Talent%20Insights%20Reports) project. If there's a report in that project that you'd like refreshed, please submit a new request Issue.
 
 ## Reach out to the Sourcing Team
-If you're not sure who is your Sourcing Partner, please visit our [Talent Acquisition Alignment](https://about.gitlab.com/handbook/hiring/talent-acquisition-alignment/) page or reach out to the Sourcing Manager.
+If you're not sure who is your Sourcing Partner, please visit our [Talent Acquisition Alignment](https://about.gitlab.com/handbook/hiring/recruiting-alignment/) page or reach out to the Sourcing Manager.
 We welcome knowledge sharing within the team and use #sourcing-hacks Slack channel for market and industry updates and would appreciate your contributions.
 If you'd like to tag the Sourcing team in an issue or merge request, you can use the `@gl-sourcing` handle.
 

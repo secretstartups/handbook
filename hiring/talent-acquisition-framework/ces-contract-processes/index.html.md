@@ -40,6 +40,8 @@ This chart reflects the available signatories for each of GitLab's entities. The
 | GitLab GK, Japan | Dale Brown, Craig Mestel | 
 | GitLab IT BV | Carol Teskey (POA), Craig Mestel, Igor Groenewegen-Mackintosh | 
 | GitLab South Korea | Dale Brown, Craig Mestel | 
+| GitLab France S.A.S. | Craig Mestel, Igor Groenewegen-Mackintosh |
+| GitLab Singapore PTE. LTD. | Dale Brown, Igor Groenewegen-Mackintosh |
 
 #### Offer Details Access steps
 Not all individuals who are signatories for entities have the appropriate access in Greenhouse and this is something that has to be set up on a per req basis at time of contract sending. 
@@ -277,7 +279,7 @@ A contractor requests a modification to their contract due to a name change/comp
 
 * The People Operations Specialist should log the requested change in BambooHR in the `Contracts & Changes`
 section of the employee's profile
-* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](people-group/contracts-probation-periods/#employment-and-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
+* The People Operations Specialist should draft the new contract using the appropriate template in the [Employment and Contractor Agreements](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements) section. ***Please remember to always make a copy of the template before editing.***
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
@@ -431,7 +433,7 @@ To create the contract:
 1. SafeGuard will inform the Candidate Experience Specialist when the contract is signed.
 1. The Candidate Experience Specialist will mark the candidate as hired.
 1. The CES will adjust the 'Accepted' date to match the 'Sent' date.
-1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring-talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
+1. The Candidate Experience Specialist will now [mark the candidate as hired](/handbook/hiring/talent-acquisition-framework/coordinator/#send-contract). See steps 10-12.
 
 ## Preparing Employment Agreements for GitLab team-members employed via Global Upside
 
