@@ -64,12 +64,24 @@ If the CTA you're opening does not fall into one of the playbook categories, cho
 
 #### CTA Status
 
-CTA statuses are defined below:
-* New - brand new CTA, has yet to be started
+CTA statuses are defined below.
+
+Available on All CTAs:
+* New - Brand new CTA, has yet to be started
 * Work in progress - CTA currently being worked on by a TAM
-* Closed Success - this CTA was completed with a positive (or intended) outcome
-* Closed Lost: Not a Priority - customer doesn't see this as a top objective to pursue
-* Closed Lost: Competitor Tech Loss - we lost to a competitor
-* Closed Lost: Product Roadblock - customer does not believe they can adopt because GitLab does not ______
-* Closed Lost: Not our Dept - requires a different department, typical in siloed organizations
-* Closed Lost: Already Solved - this CTA was already completed (e.g., duplicate CTA)
+* Closed Success - This CTA was completed with a positive (or intended) outcome
+* Closed Lost: Not a Priority - Customer doesn't see this as a top objective to pursue
+* Closed: Already Solved
+* Closed: Not Relevant
+* Closed: Lack of Engagement
+
+Available on Lifecycle CTAs only:
+* Closed: Not needed
+
+Available on Objective CTAs only (Success Plans):
+* Closed Lost: Competitive Loss - This is explicitly when a customer is exploring solutions for additional use cases and selects another net-new vendor. This situation does not include losing out to the incumbent, which speaks more to didn't see the value.
+* Closed Lost: Product Gaps - In reviewing the use case and features/capabilities, there were product gaps, or the customer believes the product does not meet their use case needs.
+* Closed Lost: Responsible Team Unengaged - Another team other than the one we are engaged with owns the capability or permission needed for adoption. We have not been successful in engaging this other team.
+* Closed Lost: Didn't See Value - Customer did not see the value to justify the investment, assuming the ability to drive adoption was within their scope of control.
+* Closed Lost: Deferred To Later Date - The customer has shown material interest (i.e., committed, high-level of interest) in expanding but prefers to pursue at a different date. TAM in these instances creates a reminder CTA to bring the conversation back up.
+* Closed Lost: Lack of Budget - Customer would need to up-tier to use the new stage in full and does not have the budget available.
