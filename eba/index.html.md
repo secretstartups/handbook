@@ -122,27 +122,65 @@ Please remember to reach out to the EBA of the executive you need to schedule fo
 #### [Scheduling with the E-Group](/handbook/eba/e-group-scheduling)
 #### [Scheduling with VPs or Directors](/handbook/eba/vp-scheduling)
 
-### Travel
+
+
+## What to expect when joining a meeting with E-Group
+
+### Before the meeting
+
+1. Ask yourself or the requestor of the meeting: can this be done async? 
+  a. If not, schedule the meeting. Please consider that synchronous meetings consume valuable time and resources, please consider conducting your meeting asynchronously whenever possible 
+1. Calendar event for the meeting must include: 
+  a. Link to the [Agenda Document](https://docs.google.com/document/d/1qj4MRlIXXGs4Jni0ITYp1uaHDQr53IvOqmpN-47RD-k/edit#heading=h.954v91mukl7r). Please avoid hyperlinking and paste the full URL in the invite. The agenda doc should be editable by everyone in the meeting and whenever possible be editable or viewable by GitLab team members. It should also be editable for the EBA's scheduling the meeting or supporting members of E-Group involved in the meeting. 
+  b. Link to the Zoom meeting in the location field and body of the invite 
+  c. If the meeting is in person, include the address and any pertinent details (like how to access the building or security requirements) in the location and body of the invite. Please include the cell phone numbers of key contacts. 
+1. Must be a speedy meeting
+1. Agenda for the meeting must be complete 24hrs or 1 business day before the meeting and include any links to materials and pre-recorded presentations
+  a. [Live doc meetings](https://about.gitlab.com/company/culture/all-remote/live-doc-meetings/) provides a great overview of how we use live docs in our meetings.  
+  b. We do not present in any of our meetings. If you wish to present your material, you can record a presentation in advance and link it in the agenda document. We use synchronous meetings for Q&A. More detail at https://about.gitlab.com/handbook/communication/#no-presenting-in-meetings
+1. Plan to join the meeting on time. We start on time and do not wait for folks to join. 
+  a. As most of our meetings are conducted over zoom, please join with your camera on and with a headset or dedicated microphone whenever possible
+1. The meeting may be recorded or live streamed to GitLab Unfiltered on YouTube, please determine in advance if the meeting should be live streamed or recorded 
+1. [Hybrid calls are horrible](https://about.gitlab.com/handbook/communication/#hybrid-calls-are-horrible) - remote meetings should have participants taking the meeting from their own equipment versus a shared conference room, shared device, etc. 
+1. If you need to reschedule, contact the EBA team in #eba-team in slack versus contacting the E-Group directly
+
+### During the meeting 
+1. The Host should start the meeting on time, if the Host is late, the participants should feel empowered to start the meeting on time 
+1. We start in order of the agenda, with the person who has the first point in the numbered list
+  a. Unless it is a 1-1 meeting or some working group meetings, then we'd start at the bottom and work our way up
+1. If you're not actively speaking please help take notes. We prefer to [document everything live.](https://about.gitlab.com/company/culture/all-remote/meetings/#document-everything-live-yes-everything)]   
+1. If something is not on the agenda, we do not discuss it. However, participants can add topics during the meeting if time permits
+1. If you're not benefitting or contributing to the meeting, it is okay to leave the meeting 
+1. Speak up if something is not working, i.e. a webcam is causing issues, a speakers volume is too low, there is latency. 
+1. We end meetings on time. It is also okay to end meetings before time but not after time. 
+
+### After the meeting 
+1. Update and review the notes, if necessary. 
+1. Add a link to the recording or live stream at the top of the doc
+1. Assign any action (TODO) items to stakeholders
+
+
+## Travel
 
 EBAs research the best option for a flight and book it according to their executive's schedule. If the Executive requires approving the flights beforehand, please follow that process before booking.
 Make sure to add a calendar item for 2 hours before take off for check in and add a separate one for travel time before that in the exec's calendar.
 If a flight was changed or not taken due to delays or other circumstances, make sure to check with the airline for the current flight status.
 
-### Expensify
+## Expensify
 * When you’re logged in, you can find wingman account access for other team members in the top right corner menu.
 * Check their email (if you have access), using the search bar in the top, to find any receipts for the postings in the current expense report.
 * And/or write down what receipts are missing and email to request them if needed.
 
-### Zoom
+## Zoom
 * Request Schedule Privilege for executives by having the executive go to their Zoom profile settings and scrolling down to the **Schedule Privilege** section. The executive will need to  click the plus button icon to add the EBA's email address to the **Assign Scheduling Privilege** pop-up box.
   * This setting will allow EBAs to create meetings using the user's One-time Meeting ID.
 * To add yourself as an alternative host to a meeting, click on your profile and select **Meetings** from the header. Find the meeting you'd like to be an alternative host for, and click on the meeting title. Scroll to the bottom and select, **Edit this Meeting**. Scroll to the bottom and add yourself and/or others as **Alternative Hosts**.
   * This will allow you access to additional meeting settings such as Mute All, Unmute All, Play Enter/Exit Chime, Mute Participants on Entry, Record, End Meeting, and more.
 
-### Google Groups
+## Google Groups
 To view members of Google Groups, reference the [Google Workspace group member repo](https://gitlab.com/gitlab-com/security-tools/report-gsuite-group-members/-/tree/master). A sync is run on the repository every hour, as noted in the README.md file.
 
-### Company Mail
+## Company Mail
  The mail is forwarded weekly to the CFO's Sr. EBA and will be distributed accordingly.
 * Mail addressed to Sytse 'Sid' Sijbrandij - contact the Staff Executive Business Admin to CEO for next steps.
 * Incoming checks for deposit - scan and email to the PAO, Controller, Director of Revenue and Sr. Billing Manager; then send for deposit.
@@ -155,23 +193,12 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * The Sr. EBA to the CFO is responsible for all remaining mail, which will be dispersed accordingly to specific individuals.
 * More information can be found [here](https://docs.google.com/document/d/1EwaqZpivB2b7tozZNV6iaFzIpNePIM4HsLbk62Ym0lQ/edit#).
 
-### E-Group In-person Meetings
 
-There should be one invite for all attendees that includes the following:
-
-* Exact meeting time blocked (ie: Start at 9am PST, End at 5pm PST)
-* Zoom Link for remote participants
-* Agenda (the agenda should also include the zoom link at the top)
-* Notes doc shared via calendar invite and sharing set to "can edit" for those attending the meeting
-
-## Public engagement
-
-The public process does two things: allows others to benefit from the conversation and it acts as a filter since there is only a limited amount of time so we should prioritize conversations that a wider audience can benefit from.
-
-### OKRs
+## OKRs
 * EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](/company/okrs/#updating).
 
 ## Performance Indicators (PI)
+https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#performance-indicator
 
 ### Leadership SAT Survey
 
