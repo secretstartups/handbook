@@ -76,13 +76,15 @@ Recommended options to review with the customer include:
 
 GitLab uses a customer prioritization model and [associated metrics](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics) to focus the TAM's efforts where they will have maximum value and impact. Different regions utilize different models for determining customer prioritization, as described below. The customer prioritization can change during the lifecycle and is reviewed by each region quarterly.
 
-On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1-3, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. 
+On the Gainsight Attributes section, the TAM can set the priority level per customer with levels 1 or 2, with 1 being the highest. A new TAM-assigned customer coming on to GitLab will default to Pr1 until their onboarding enablement is complete. Pr3 is solely for unmanaged child accounts, and Pr4 is only for our digital customers and not for the TAM-assigned segment, with the exception of the Public Sector that is trialing a TAM-assigned digital customer. 
 
 Priority Definitions include:
 
 1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
-2. Pr2: 60 day call cadence, EBR, renewal touch point
-3. Pr3: Digital journey only
+1. Pr2: 60 day call cadence, EBR, renewal touch point
+1. Pr3: Non-managed child accounts only
+1. Pr4: Digital-enablement only customres 
+
 
 Why do we use a prioritization system?
 
@@ -117,18 +119,21 @@ The following parameters are considered when determining customer prioritization
 
 Using the defined parameters and guidance on how to know whether they are applicable, we can use the following flowchart to evaluate priority:
 
+<!-->
+Online Mermaid editor: https://mermaid-js.github.io/mermaid-live-editor
+<-->
 ```mermaid
 graph TD;
-  lam["LAM >10%"]-- Yes -->growth;
-  lam-- No -->upgrade;
-  growth[Growth in next 6 months]-- Yes -->p1;
-  growth-- No -->upgrade;
-  upgrade[Open tier upgrade]-- Yes -->p1;
+  upgrade[Open up-tier opp closing in next 6 months]-- Yes -->p1;
   upgrade-- No -->stage;
-  stage[Current/upcoming stage adoption]-- Yes -->p1;
+  stage[Stage adoption this quarter requiring >2hrs TAM time per week]-- Yes -->p1;
   stage-- No --> infra;
-  infra[Current/upcoming infra change]-- Yes -->p1;
-  infra-- No -->p1exception;
+  infra[Infra change this quarter requiring >2hrs TAM time per week]-- Yes -->p1;
+  infra-- No -->churnrisk;
+  churnrisk[At risk of contraction or churn]-- Yes -->p1;
+  churnrisk-- No -->onboarding;
+  onboarding[First 30-45 days of onboarding]-- Yes -->p1;
+  onboarding-- No -->p1exception;
   p1exception["P1 exception*"]-- Yes -->p1;
   p1exception-- No -->p2;
   p1((Priority 1));
@@ -161,7 +166,7 @@ In order to make an exception, the TAM or SAL should discuss the details with th
 
 ### EMEA Enterprise
 
-TAM-assigned customers are segmented into two priority tiers: Priority 1 (P1) and Priority 2 (P2). Priority 3 (P3) is used for handeling Unmanaged Child Accounts. The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
+TAM-assigned customers are segmented into two priority tiers: Priority 1 (P1) and Priority 2 (P2). Priority 3 (P3) is used for handling Unmanaged Child Accounts. The prioritization helps TAMs to focus on aligning, enabling and expanding on the customers journey with GitLab.
 
 #### Guidance
 
