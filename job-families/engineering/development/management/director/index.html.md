@@ -34,7 +34,7 @@ The Director, Engineering is a [grade 10](/handbook/total-rewards/compensation/c
 
 ## Levels
 
-* Senior Manager, Engineering
+* Senior Engineering Manager
 * Director, Engineering
 * Senior Director, Engineering
 * VP, Development

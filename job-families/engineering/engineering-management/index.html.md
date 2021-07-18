@@ -3,7 +3,10 @@ layout: job_family_page
 title: "Engineering Leadership"
 ---
 
-The Engineering Leadership becomes a cross-discipline management. For example, a Senior Manager, Engineering will manage both [Frontend Engineering Managers](/job-families/engineering/frontend-engineering-manager/) and [Backend Engineering Managers](/job-families/engineering/backend-engineer/#backend-engineering-manager).
+The Engineering Leadership becomes a cross-discipline management. For example, a Senior Engineering Manager will manage 
+[Backend Engineering Managers](/job-families/engineering/development/backend/manager/), 
+[Frontend Engineering Managers](/job-families/engineering/development/frontend/manager/), 
+and [Fullstack Engineering Managers](/job-families/engineering/development/management/fullstack-manager/).
 
 ## Levels
 
@@ -46,7 +49,7 @@ The  Senior Manager, Development is a [grade 9](/handbook/total-rewards/compensa
 
 ### Principal Engineer
 
-*The Principal Engineer reports to the [Senior Manager, Development](#senior-manager-development).
+*The Principal Engineer reports to the [Senior Engineering Manager, Development](#senior-manager-development).
 
 #### Principal Engineer Job Grade
 
@@ -54,7 +57,7 @@ The Principal Engineer is a [grade 9](/handbook/total-rewards/compensation/compe
 
 #### Principal Engineer Responsibilities
 
-* The Principal Engineer role acts as the individual equivalent of a Senior Manager, Development.
+* The Principal Engineer role acts as the individual equivalent of a Senior Engineering Manager, Development.
 * Extends that of the [Staff Frontend Engineer](/job-families/engineering/development/frontend#staff-frontend-engineer) and the [Staff Backend Engineer](/job-families/engineering/development/backend/#staff-backend-engineer) responsibilities
 * Collaborates and makes proposals across several teams on their engineering work, and helps their team members make informed decisions in alignment with the sub-department strategic plans.
 * Exposes technology and organizational needs across their sub-department.

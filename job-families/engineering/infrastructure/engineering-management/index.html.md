@@ -147,13 +147,13 @@ Manager, Engineering (Scalability), have the following job-family performance in
   - [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#handbook-update-frequency)
   - [Team Member Retention](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#team-member-retention)
 
-## Senior Manager, Engineering (Delivery and Scalability)
+## Senior Engineering Manager, Delivery and Scalability
 
-The Senior Manager, Engineering (Delivery and Scalability) manages multiple teams within the Infrastructure Department (Delivery and Scalability) that work on GitLab.com and contribute to our on-premise product. They see their teams as their products. They are capable of managing multiple teams and projects at the same time. They are expert recruiters of both engineers and managers. They can also grow the existing talent on their teams. This is an influential role and models the behaviors we want to see in our teams and holds others accountable when necessary. They create the collaborative and productive environment in which managers, reliability, backend and frontend engineers do their work and succeed.
+The Senior Engineering Manager, Delivery and Scalability manages multiple teams within the Infrastructure Department (Delivery and Scalability) that work on GitLab.com and contribute to our on-premise product. They see their teams as their products. They are capable of managing multiple teams and projects at the same time. They are expert recruiters of both engineers and managers. They can also grow the existing talent on their teams. This is an influential role and models the behaviors we want to see in our teams and holds others accountable when necessary. They create the collaborative and productive environment in which managers, reliability, backend and frontend engineers do their work and succeed.
 
 ### Job Grade
 
-The Senior Manager, Infrastructure is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Engineering Manager, Infrastructure is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
@@ -189,7 +189,7 @@ The Senior Manager, Infrastructure is a [grade 9](/handbook/total-rewards/compen
 
 ### Performance Indicators
 
-The Senior Manager, Engineering (Delivery and Scalability), has the following performance indicators:
+The Senior Engineering Manager, Delivery and Scalability, has the following performance indicators:
 
 - [GitLab.com Availability](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
 - [Hiring Actual vs Plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#hiring-actual-vs-plan)
