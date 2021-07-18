@@ -172,7 +172,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
 
 
   %% engineering leadership
-  eng:sme(Senior Manager, Engineering);
+  eng:sme(Senior Engineering Manager);
   click eng:sme "/job-families/engineering/engineering-management/#senior-manager-development";
 
   eng:dir(Director of Engineering);
