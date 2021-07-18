@@ -18,6 +18,10 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 - **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor]
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r2o2im4Gvog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 - **May 19th 2021** Gitlab Fireside chat with Shaun Christie-David - Social Entrepreneur and CEO of Plateitforward
 
 <figure class="video_container">
