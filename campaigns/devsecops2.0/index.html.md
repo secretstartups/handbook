@@ -45,21 +45,14 @@ Always On Lead Generation:
 * **Level:** 
 * **Function:** 
 * **Challenges we're trying to solve with this campaign:**
-   - 
-   - 
 * **How GitLab helps:**
-   - 
 
 #### Target Persona 2:
 
 * **Level:** 
 * **Function:** 
 * **Challenges we're trying to solve with this campaign:**
-   - 
-   - 
 * **How GitLab helps:**
-   - 
-
 
 ### Keyword Research
 {: #keyword-research .gitlab-purple}
