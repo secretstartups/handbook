@@ -27,7 +27,7 @@ include:
 7. **Paste the code** just copied below the **test1** section, leaving a blank line between the blocks of code. Ensure the first line of the pasted code is flush-left, and the second line is indented.
 8. Click the blue **Commit...** button.
 9. Add a commit message: `Add SAST to pipeline`
-10. Click **Commit to `master` branch** instead of creating a new branch. The branch may also be named `main`.
+10. Click **Commit to `main` branch** instead of creating a new branch. The branch may also be named `main`.
 11. Click **Commit**. Now that you have committed this change, the pipeline will run.
 
 Next, let's add a file with a known vulnerability and see if SAST detects it.
@@ -35,7 +35,7 @@ Next, let's add a file with a known vulnerability and see if SAST detects it.
 ### Add a `main.go` file and view SAST results
 
 1. Navigate away from the Web IDE and back to your project overview page repository by clicking the **CI Test** project title on the top left of the window.
-2. Click the `+` icon to the right of the `master` branch name near the top left of the window. Under **This directory**, click **New file**.
+2. Click the `+` icon to the right of the `main` branch name near the top left of the window. Under **This directory**, click **New file**.
 3. Type `main.go` in the **File name** field.
 4. Copy entire file contents from this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/1) and paste them into your empty `main.go` file.
 5. Click **Commit changes**.

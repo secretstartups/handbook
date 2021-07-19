@@ -17,7 +17,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 6. Click the **Submit** button to create the issue. 
 
 ### Create a Merge Request
-1. On the bottom of the issue, click on the green **Create merge request** button. Note: this will create a new branch from the master branch using the default name of the issue. 
+1. On the bottom of the issue, click on the green **Create merge request** button. Note: this will create a new branch from the `main` branch using the default name of the issue. 
 2. Click the **drop down arrow** to view that you can customize the branch name it will create, for this exercise, leave it at the default.  
 3. Click the **Create** **merge request** button.
 
