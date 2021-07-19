@@ -7,6 +7,10 @@ The Vice President, Online Sales & Self Service job family is responsible for br
 
 The Vice President, Online Sales & Self Service reports to the [VP of Commercial Sales](/job-families/sales/vp-of-commercial-sales/). 
 
+#### Job Grade
+
+The VP, Online Sales and Self Service is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 ## Responsibilities
 
 * Lead the e-commerce and self-service business to drive revenue growth, sales efficiency, customer experience, and customer retention. 
