@@ -47,7 +47,7 @@ Discretionary bonuses are measured in BambooHR, as are the number of team member
 1. We are fixing this amount at $1,000 thoughtfully and purposefully. We want the focus to be on the value and the behavior, not on the perceived monetary impact to GitLab. This is about recognition.
 1. A general guideline is that 1 in 10 team members might receive a discretionary bonus each month. This can vary greatly as we don't give out bonuses just to hit a quota, nor would we hold one back because a certain number had already been awarded.
 1. There is no limit to the frequency with which someone can receive a bonus. If someone deserves a bonus a day after being nominated for one we should do a second one.
-  - _Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)_
+  - _Note: If you received the same nomination twice (for the same person and the same reason), you must reject one. See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)_
 1. As with other bonuses, only active GitLab team members can be nominated to receive discretionary bonuses.
    Should a nominated team member leave GitLab, they will not receive a discretionary bonus.
    It's at the discretion of the manager if they still want to publicly recognize the team member's behavior for the nomination.
