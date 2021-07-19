@@ -7,7 +7,7 @@ title: "Team Member Relations"
 
 ### Team Member Relations Specialist
 
-The Team Member Relations Specialist reports to
+The Team Member Relations Specialist reports to Director, People Ops.
 
 #### Team Member Relations Specialist Job Grade
 
@@ -36,7 +36,7 @@ The Team Member Relations Partner is a [grade 5](/handbook/total-rewards/compens
 
 #### Team Member Relations Partner
 
-The Team Member Relations Partner reports to 
+The Team Member Relations Partner reports to Director, People Ops.
 
 #### Team Member Relations Partner Job Grade
 
@@ -63,7 +63,7 @@ The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compens
 
 ### Senior Team Member Relations Partner
 
-The Senior Team Member Relations Partner reports to
+The Senior Team Member Relations Partner reports to Director, People Ops.
 
 #### Senior Team Member Relations Partner Job Grade
 
@@ -90,7 +90,7 @@ The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/
 
 ### Manager, Team Member Relations
 
-The Manager, Team Member Relations reports to
+The Manager, Team Member Relations reports to Director, People Ops.
 
 #### Manager, Team Member Relations Job Grade
 
