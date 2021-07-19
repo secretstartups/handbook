@@ -23,37 +23,6 @@ Most of the resources here are free but any content requiring payment [can be re
 
 Over time, we will add content to directly support GitLab's product management [competencies](/handbook/product/product-manager-role/product-CDF-competencies/), [CDF](/handbook/product/product-manager-role/product-CDF-competencies/) and [product development flow](/handbook/product-development-flow/). We understand that the evolving product management space requires continuous learning, and GitLab is committed to providing the time needed for in-depth learning too as part of your working time. You are encouraged to ask your manager to help you carve out time for Learning and Development. 
 
-## Product Management Peer Mentorship Program
-
-### Overview
-
-We have a team of very talented Product Managers whom are all interested in up-leveling their leadership skills whether that be to Principal PM or into People Management. An important skill for either track is the ability to coach and mentor others.
-Right now, an overwhelming majority of the team is at the Senior level. In a traditional mentor program, people are assigned the role of mentor and mentee. Since most people are looking to mentor others, we have too many mentors and not enough mentees
-
-In addition to growing leadership/mentoring skills, PMs also have other areas that they need coaching on, such as:
-
-- Customer discovery
-- Iteration & efficiency in the build track
-- Setting and evolving Performance Indicators
-- Sisense skills
-- Communicating vision and roadmap with well articulated prioritization
-
-### Proposal
-
-Establish a Peer mentorship program where PMs are paired based on respective strengths and areas that need growth. PMs can coach each other on the skill they are respectively strong in.
-
-This is going to require PMs to volunteer as participants. Management will need to anonymously gather strengths and weaknesses for participants and work together to create pairs.
-
-### Pilot 
-
-We set up pairs between PMs who have volunteered and run an 8 week pilot where PMs meet each week. GMPs can assess skill development over the course of the pilot as a potential measure of success.
-
-The pilot will run during FY22Q3. This gives us two months to prepare by gathering volunteers, assessing skills, setting up pairs for the pilot, and running a crash course in coaching & mentoring. The pilot will run for the first two months of Q3 and we will reflect during the final month to allow for program adjustments and continuation.
-
-Following a retro on the pilot we can decide to continue it in rotations moving forward.
-
-We will be planning the Pilot Program in this [epic](https://gitlab.com/groups/gitlab-com/-/epics/1546).
-
 ## Recommended books and talks for all GitLab product managers
 
 These books are highly recommended to be read by every product manager at GitLab:
