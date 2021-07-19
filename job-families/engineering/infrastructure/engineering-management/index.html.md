@@ -200,7 +200,7 @@ The Senior Manager, Engineering (Delivery and Scalability), has the following pe
 
 ## Director, Infrastructure (Reliability)
 
-The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department that work on GitLab.com and also contribute to our self-managed product. They are capable of managing multiple teams and guiding a portfolio of projects to successful outcomes. They are expert recruiters of Database Reliability Engineers, Site Reliability Engineers and Engineering Managers. They understand how to assess team capabilities and grow the existing talent on their teams. They possess a vision for sucessful reliability engineering and are advocates for supporting practices and technology. Like all GitLab Engineering Directors, this role is a senior influencer that models the behaviors we want to see in our teams and holds others accountable when necessary. 
+The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department. These teams work on GitLab.com and also contribute to our core product. They are capable of managing multiple teams and guiding a portfolio of projects to successful outcomes. They are expert recruiters of Database Reliability Engineers, Site Reliability Engineers and Engineering Managers. They understand how to assess team capabilities and grow the existing talent on their teams. They possess a vision for successful reliability engineering and are advocates for supporting practices and technology. This role is a senior influencer who models the behaviors we want to see in our teams and contributes to great results. 
 
 ### Job Grade
 
@@ -211,10 +211,10 @@ The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensatio
 - Lead hiring and management success across multiple Infrastructure Reliability Engineering teams
 - Measure and improve productivity of the team while supporting a great Team Member experience and belonging
 - Drive quarterly OKRs
-- Work across departments within engineering
-- Own the availability, reliability, and performance of GitLab.com
+- Collaborate across departments within engineering
+- Own the overall reliability of GitLab.com
 - Own the process for incident response and management
-- Guide the process for team workflow and project management, ensuring transparency and driving for results
+- Guide the process for team workflow and project management
 - Ensure team process and capability to stay ahead of system capacity demands
 - Support improvements in infrastructure spend efficiency
 - Communicate effectively across all company departments and roles
@@ -222,7 +222,7 @@ The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensatio
 
 ### Requirements
 
-- 5 years managing multiple operations and/or engineering teams
+- 5+ years managing multiple operational reliability and/or engineering teams
 - Excellent recruiter capable of attracting top talent
 - Experience with consumer-level scale systems and Software as a Service (SaaS) product delivery
 - Passionate about open source and developer tools
