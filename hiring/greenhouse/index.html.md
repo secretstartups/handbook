@@ -339,6 +339,7 @@ The candidate should always be notified if they've been rejected. The talent acq
 
 |Stage|Timing|Medium|Type|
 | ------ | ------ | ------ |------ |
+| Application Review | At application review or when the role is hired | Email | Standard Template by default, may provide specific feedback, but not required|
 |Screening Interview with Recruiter|Within 5 days of Screening Interview|Email OR Verbally during the Screening Interview |Standard Template by default, may provide specific feedback, but not required|
 |Assessment|Within 5 days of Asessment Submission|Email |Standard Template by default, may provide specific feedback, but not required|
 |Team Interview|Within 5 days of Team Interview|Email or via Zoom Call |Must provide feedback that is personalized and customized.  Only offer frank feedback. This is hard, but it is part of our [company values](/handbook/values/). All feedback should be constructive and said in a positive manner. Keep it short and sweet.  Feedback should always be applicable to the skill set and job requirements of the position the candidate applied and interviewed for.|
