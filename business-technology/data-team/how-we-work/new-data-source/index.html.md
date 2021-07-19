@@ -1,4 +1,4 @@
---- 
+---
 layout: handbook-page-toc
 title: "Data Team Calendar"
 description: "GitLab Data Team Calendar"
