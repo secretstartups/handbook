@@ -90,7 +90,7 @@ Before we state a ticket as fully triaged, we need to have the following informa
 - how many team members are affected by this?
 - what is the manual effort (in time) currently required to accomplish this work today?
 
-What that knowledge in mind we determine the priority of a ticket, with the following table:
+With that knowledge in mind we determine the priority of a ticket, with the following table:
 
 | Priority Level               | Compliance | Impact                       | Occurrence               | Project involved                      |
 | --------------               | ---------- |-----------------             | ---------------          |-----------------------                |
