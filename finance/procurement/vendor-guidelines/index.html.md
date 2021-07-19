@@ -70,7 +70,7 @@ title: "Vendor Guidelines"
 2.1  All sales of Products and/or Professional Services by Vendor to GitLab are subject to this Agreement and the applicable Transaction Document. Terms and conditions of the Vendor (whether contained in an invoice, confirmation or otherwise) which in any way conflict, are inconsistent with, different than or in addition to this Agreement shall not be binding on GitLab. Such terms and conditions are expressly rejected and shall not be considered applicable unless expressly agreed to in writing by GitLab. The supply of Products and/or Professional Services to GitLab pursuant to any PO shall be conclusive evidence of Vendor’s approval of and consent to the terms and conditions herein contained in this Agreement.
  
 ### 3.  TERMS OF PAYMENT
-3.1  Unless otherwise agreed to between the parties in a Transaction Document, or similar agreement executed by GitLab, payment(s) shall be made in U.S. Dollars in accordance with the remittance instructions furnished by Vendor in an Invoice. Payment terms are net sixty (60) days from the date of receipt of Invoice.
+3.1  Unless otherwise agreed to between the parties in a Transaction Document, or similar agreement executed by GitLab, payment(s) shall be made in U.S. Dollars in accordance with the remittance instructions furnished by Vendor in an Invoice. Payment terms are net sixty (60) days from the date of the Invoice.
  
 3.2  GitLab shall have no obligation for payment of any amounts which are, (i) not agreed to in writing by GitLab, (ii) Deliverables that are not Accepted by GitLab, and/or (ii) in excess of the Fees stated in a Transaction Document.
  
