@@ -152,6 +152,8 @@ The SDR Team Lead is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Previous experience working with Public Sector based customers or teams
 
 ### SDR (Land)
+
+SDR (Land) focuses on acquiring new logos.
  
 #### SDR (Land) Responsibilities
 
@@ -174,6 +176,8 @@ The SDR Team Lead is a [grade 6](/handbook/total-rewards/compensation/compensati
 * Generate IACV Pipeline
   
 ### SDR (Expand)
+
+SDR (Expand) focuses on existing customers and their subsidiaries.
  
 #### SDR (Expand) Responsibilities
 
