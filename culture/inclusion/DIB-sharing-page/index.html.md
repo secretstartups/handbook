@@ -15,11 +15,17 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 - Reason for Privileges Chosen:
 - Learnings from the experience: 
 
-
 - Group Members: Hannah Schuler, Julia Hill- Wright, Lea Tuizat, Ryan Kimball and Steve Cull
 - Privileges Chosen: 2,8,11,20,5,14,18,16,3,7
 - Reason for Privileges Chosen:
 - Learnings from the experience:
+
+**June/July 2021 Ally Lab Group**
+
+- Group Members: Ethan Urie, Steve Abrams, Jessica Reeder, Emily Plotkin, and Meghan Maneval
+- Privileges Chosen: 2, 3, 4, 5, 6, 8, 11, 13, 18, 20
+- Reason for Privileges Chosen: We began this exercise by individually reviewing the list and “voting” for the privileges we would purchase. We then reviewed the items with the most votes to create our team list of 10 privileges. In many cases, team members voted for items that they may currently take for granted and would be deeply impacted by should that privilege be taken away. In particular, the team felt strongest about privileges related to our bodies, our health and our safety.
+- Learnings from the experience: Most of our team members were surprised by the privileges listed and noted that they hadn’t thought about these items too much before. It really solidified the importance of Allyship training as many might take these items for granted. It was deeply impactful to take the mindset of “right now, I have NONE of these privileges, what do I need to take back.” 
 
 ### DIB Roundtable Sharing
 
