@@ -26,14 +26,14 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Add a new file by clicking **+ > This directory > New file**
 1. In the **File name** field, enter `Dockerfile`
 1. Paste the contents you copied into the body of the new file.
-1. In the **Commit message** field, type `add Dockerfile`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the **Commit message** field, type `add Dockerfile`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 
 ### Define a `build image` job
 
 1. In the tab with the **Snippets** page of the **CICD Hands On Demo** project, navigate to the project's **Snippets** page, open the `ci-registry` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. In the browser tab with the **CICD Demo** project, click on your `.gitlab-ci.yml` file and click the blue **Edit** button. Paste the snippet at the end of the file.
 1. Edit the `build image` job definition by locating the `tags` section and replacing the `byo-runner` tag with a `docker` tag
-1. In the **Commit message** field, type `add CI registry`, leave the **Target Branch** set to `master`, and click **Commit changes**.
+1. In the **Commit message** field, type `add CI registry`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 1. In the left-hand navigation pane, click on **Settings > CI/CD**. Expand the **Runners** section. Click the pencil icon next to your specific runner to edit it.
 1. Add a `docker` tag and click the green **Save changes** button.
 
