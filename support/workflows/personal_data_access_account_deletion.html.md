@@ -106,8 +106,9 @@ Upon submission, the submitter will receive an autoresponder depending on the re
 
 #### **Stage 2: Processing the Request**
 
-1. In the `gdpr-request` issue tracker, create a new confidential issue using the [delete_meta_issue template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) for **account deletions**, or the [personal_data_request template](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) for **data access requests**. Populate the title with the email address of the original requestor.
+>**NOTE**: Please be aware of the *type of deletion request* submitted by the user. Some users may **only** want their CustomersDot account or their GitLab.Com account deleted, versus a full deletion (right to be forgotten). It's important to make that clear when working through the confidential issue to process the users request.
 
+1. In the `gdpr-request` issue tracker, create a new confidential issue using the [delete_meta_issue template](https://gitlab.com/gitlab-com/gdpr-request/issues/new?issuable_template=deletion_meta_issue) for **account deletions**, or the [personal_data_request template](https://gitlab.com/gitlab-com/gdpr-request/-/issues/new?issuable_template=personal_data_access_request) for **data access requests**. Populate the title with the email address of the original requestor.
 1. Link the original issue in the **Related issue** field.
 
 1. Follow the instructions in the top of the template, then complete each step in the issue template that begins with `Support Engineer:` in order.
@@ -135,6 +136,8 @@ When checking the user account in admin, the user will be badged as a "Group Man
 In these cases, we can delete the account so that a new user account can be created.
 
 1. Use the [`Support::SaaS::Group Managed Account Deletion` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073474899), which outlines the criteria and deletion.
+
+
 1. Once Support receives permission from *both* the account holder and a group owner:
 1. Create an [internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new) titled "Account Deletion" with the username, email, ticket number, and the reason in brief in the description.
 1. Email both the accound holder and group owner infoming that you are going to delete the account asking them to confirm for a final time.
