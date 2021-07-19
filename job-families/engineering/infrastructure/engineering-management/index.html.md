@@ -200,7 +200,7 @@ The Senior Manager, Engineering (Delivery and Scalability), has the following pe
 
 ## Director, Infrastructure (Reliability)
 
-The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department that work on GitLab.com and contribute to our on-premise product. They see their teams as their products. They are capable of managing multiple teams and projects at the same time. They are expert recruiters of DBREs, SREs and managers. They can also grow the existing talent on their teams. Like all GitLab Engineering Directors, this role is a senior influencer that models the behaviors we want to see in our teams and holds others accountable when necessary. And they create the collaborative and productive environment in which SREs and SRE managers do their work and succeed.
+The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department. These teams work on GitLab.com and also contribute to our core product. They are capable of managing multiple teams and guiding a portfolio of projects to successful outcomes. They are expert recruiters of Database Reliability Engineers, Site Reliability Engineers and Engineering Managers. They understand how to assess team capabilities and grow the existing talent on their teams. They possess a vision for successful reliability engineering and are advocates for supporting practices and technology. This role is a senior influencer who models the behaviors we want to see in our teams and contributes to great results. 
 
 ### Job Grade
 
@@ -208,48 +208,34 @@ The Director, Infrastructure is a [grade 10](/handbook/total-rewards/compensatio
 
 ### Responsibilities
 
-- Hire and manage multiple infrastructure teams that live our [values](/handbook/values/)
-- Measure and improve the happiness and productivity of the team
+- Lead hiring and management success across multiple Infrastructure Reliability Engineering teams
+- Measure and improve productivity of the team while supporting a great Team Member experience and belonging
 - Drive quarterly OKRs
-- Work across departments within engineering
-- Write public blog posts and speak at conferences
-- Own the availability, reliability, and performance of GitLab.com
-- Drive process for incident management
-- Drive process for project management with transparent status and high productivity
-- Plan ahead of required system capacity
-- Drive infrastructure cost efficiency
-- Communicate clearly and concisely with peers within Engineering and executives
-- Create easy-to-understand SLOs and transparent dashboards
+- Collaborate across departments within engineering
+- Own the overall reliability of GitLab.com
+- Own the process for incident response and management
+- Guide the process for team workflow and project management
+- Ensure team process and capability to stay ahead of system capacity demands
+- Support improvements in infrastructure spend efficiency
+- Communicate effectively across all company departments and roles
+- Implement Site Reliability process, tools, and knowledge consistent with a clear vision for driving reliability at GitLab.
 
 ### Requirements
 
-- 5 years managing multiple operations teams
+- 5+ years managing multiple operational reliability and/or engineering teams
 - Excellent recruiter capable of attracting top talent
-- Experience with consumer-level scale systems
+- Experience with consumer-level scale systems and Software as a Service (SaaS) product delivery
 - Passionate about open source and developer tools
-- Experience in a peak performance organization
+- Experience in a results-oriented organization
 - Enterprise software company experience
-- Product company experience
-- Startup experience
+- Approach challenges with a growth mindset
 
 ### Nice-to-haves
 
-- Candidates with diverse backgrounds
+- Candidates with diverse experience and backgrounds
 - Prior remote work experience
 - Significant open source contributions
 - Experience with global teams
-
-### Performance Indicators
-
-The Director, Infrastructure (Reliability) has the following performance indicators:
-
-- [GitLab.com Availability](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#gitlab-com-availability)
-- [Hiring Actual vs Plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#hiring-actual-vs-plan)
-- [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
-- [Infrastructure Cost vs Plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)
-- [Diversity](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#diversity)
-- [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#handbook-update-frequency)
-- [Team Member Retention](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#team-member-retention)
 
 ## VP of Infrastructure
 
