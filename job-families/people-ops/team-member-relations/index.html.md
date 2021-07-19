@@ -118,9 +118,19 @@ The Manager, Team Member Relations is a [grade 8](/handbook/total-rewards/compen
 
 ## Performance Indicators
 
+* Team member Case Management
+   * Team member relations team will respond to all requests for assistance from team members within 24 hours. 
+   * All cases are resolved in a consistent, fair and unbiased process.  
+   * Identify potential risks to GitLab and escalate to Key Stakeholders for mitigation.
+* Team member Relation Philosophy
+   * All team members are treated with respect and dignity while upholding the values of GitLab. 
+Provide all GitLab team members an avenue to express workplace concerns and to resolve conflicts in a safe and unbiased forum.
+* Collaboration
+   * Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
+
 ## Career Ladder
 
-The next step in the People Operations job family is to move to the
+The next step in the People Operations job family is not yet defined.
 
 ## Hiring Process
 
