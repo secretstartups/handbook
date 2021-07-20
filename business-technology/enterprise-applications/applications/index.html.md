@@ -540,8 +540,6 @@ Emails notifications are sent through Mailgun
 The CustomersDot intersects with Support, Billing, Sales, and Product primarily.
 Tickets come into the L&R queue in Zendesk generally three ways, generally prioritized as low:
 
-- by emailing [renewals@gitlab.com](mailto:renewals@gitlab.com)
-
 - by [opening a support ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=334487) and selecting `Help with my license`
 
 - by filling out the form on the [Renewals page](https://about.gitlab.com/renewals/)
