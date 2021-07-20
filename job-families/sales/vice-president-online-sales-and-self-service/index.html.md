@@ -9,7 +9,7 @@ The Vice President, Online Sales & Self Service reports to the [VP of Commercial
 
 #### Job Grade
 
-The VP, Online Sales and Self Service is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The VP, Online Sales and Self Service is a [grade 12](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
