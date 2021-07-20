@@ -466,7 +466,7 @@ We leverage the [Sales Admin Owned Opps Dashboard](https://gitlab.my.salesforce.
 2. Double check opportunities closed over $2,500 that are populated for SMB. Make sure to check the account information is correct and not wrongly assigned. 
 3. Make sure to clear the TSP Date and TSP owner fields to avoid reassignment to other Account Executives after the weekly update.
 4. Upload the accounts and opportunities in small batch sizes on dataloader to avoid errors.
-5. Currently, all accounts in China, Taiwan or Hong Kong are assigned to Lindsay Schoenfeld. For these accounts, make sure to check off the JiHu account field. 
+5. Currently, all accounts in China, Macao or Hong Kong are assigned to JiHu User . For these accounts, make sure to check off the `JiHu Account` field. 
 
 
 ### ISR Alignment Dashboard Updates - Operators Guide
@@ -615,10 +615,10 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Ownership & Order Type Rules of Engagement**
 
-- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
-- [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-ownership-rules-of-engagement)
+- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+- [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement)
 - [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-ownership-in-salesforce)
-- [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#opportunity-order-type-rules-of-engagement)
+- [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-order-type-rules-of-engagement)
 
 ### **Territory Management**
 1. [Sales Territories](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-sales)
