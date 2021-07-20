@@ -35,7 +35,7 @@ Solidify GitLab's 'The DevOps Platform’ messaging, including messaging for:
 
 ## Exit Criteria
 
-TBD
+Add Epic
 
 
 ## Roles and Responsibilities
