@@ -62,3 +62,16 @@ When consulting, we will not write any copy or execute on communications.
 ### Internal Comms Support
 
 Internal Comms support is only available in highly sensitive situations because of limited internal comms resources.
+
+## Examples for Internal Comms Announcements
+
+### Handbook/Website update affecting team members
+
+If a change in a merge request directly impacts more than 75% of global team members, it should be a candidate for an announcement in the `#company-fyi` Slack channel. In that case, the author or the author's team should work with the internal comms team on a message that is high signal and visible. 
+
+Examples for changes:
+
+- Policy change for example, individual software subscription reimbursement
+- Travel policies
+- Family and Friends Day, or any other global PTO announcement
+- Handbook guidelines 
