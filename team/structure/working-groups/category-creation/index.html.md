@@ -42,7 +42,7 @@ Add Epic
 
 | Working Group Role    | Person                | 
 |-----------------------|-----------------------|
-| Facilitator           | Christine Lese         | 
+| Facilitator           | Christine Lee         | 
 | Functional Lead(s)    | Craig Mestel |
 | Member                | Tony Righetti, Harsh Jawharkar, Melissa Smolensky, Stella Treas | 
 | Executive Stakeholder | Sid Sijbrandij |
