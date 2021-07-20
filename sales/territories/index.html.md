@@ -73,16 +73,16 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales |Inside Sales Rep |FMM |
 | ---------- | ---- | -------------- | ----- | ----- | ----- |
 |	NA East	|	East	|	Large-AMER-East-Named-1	|	Mark Bell	| David Fisher | Richard Hancock |
-|	NA East	|	East	|	Large-AMER-East-Named-2	|	Adam Olson_Acting RD 	| David Fisher | Richard Hancock |
-|	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	| David Fisher
+|	NA East	|	East	|	Large-AMER-East-Named-2	|	TBH / Adam Olson_Acting RD 	| David Fisher | Richard Hancock |
+|	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	| David Fisher | Richard Hancock |
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector | David Fisher | Richard Hancock |
 |	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher Richard Hancock |
-|	NA East	|	East	|	Large-AMER-East-Named-6	|	Scott Hall	| David Fisher
-|	NA West	|	Southwest	|	Large-AMER-West-1	|	TBD	| Matthew Beadle
-|	NA West	|	Southwest	|	Large-AMER-West-2	|	Alan Cooke	| Matthew Beadle | Rachel Hill |
+|	NA East	|	East	|	Large-AMER-East-Named-6	|	TBH / Adam Olson_Acting RD	| David Fisher | Richard Hancock |
+|	NA West	|	Southwest	|	Large-AMER-West-1	|	TBH / Kris Nelson	| Matthew Beadle | Rachel Hill |
+|	NA West	|	Southwest	|	Large-AMER-West-2	|	TBH / Alan Cooke	| Matthew Beadle | Rachel Hill |
 |	NA West	|	NorthWest	|	Large AMER-PNW/MW-1	|	Adi Wolff	| Matthew Beadle | Richard Hancock |
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-2	|	Joe Drumtra	| Matthew Beadle | Richard Hancock |
-|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	Chris Mayer	| Matthew Beadle
+|	NA West	|	NorthWest	|	Large-AMER-PNW/MW-3	|	TBH / Kris Nelson	| Matthew Beadle | Richard Hancock |
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-4	|	Philip Wieczorek	| Matthew Beadle | Richard Hancock |
 |	NA West	|	NorthWest	|	Large-AMER-PNW/MW-5	|	Lydia Pollitt	| Matthew Beadle | Richard Hancock |
 |	NA West	|	NorCal	|	Large-AMER-Bay Area-1	|	Alyssa Belardi	| Matthew Beadle | Rachel Hill |
@@ -121,15 +121,15 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-2** | Susannah Reed | Christine Saah | Evan Mathis |  Kira Aubrey |
 | Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis |
+| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-2** | TBH | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Josh Downey |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Navy-1** | TBH | Patrick Gerhold | Josh Downey |
+| Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Josh Downey | Helen Ortel |
@@ -139,6 +139,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - NSG-3** | Ian Moore | Nate Houston | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - NSG-5** | Garry Judy | Nate Houston | Evan Mathis | Helen Ortel |
+| Public Sector | **Federal - Channel SI** | Marty Fisher | Jay Jewell | Josh Downey | Helen Ortel |
 
 #### APAC
 
