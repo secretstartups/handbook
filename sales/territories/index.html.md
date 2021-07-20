@@ -45,8 +45,8 @@ title: "Sales Territories"
 - <b>[APAC](#apac)</b>: Anthony McMahon, Regional Director
 - <b>[Europe, Middle East and Africa](#emea)</b>: TBD, Regional Director
 - <b>[North America - US East](/handbook/sales/territories/territory-deprecate/#us-east)</b>: TBD, Regional Director
-- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Brittany Caulfield, Regional Director
-- <b>[Public Sector](#public-sector)</b>: Jim Riley (Interim), Director of Federal Sales
+- <b>[North America - US West](/handbook/sales/territories/territory-deprecate/#us-west)</b>: Brittany Caulfield, AVP
+- <b>[Public Sector](#public-sector)</b>: Bob Stevens, AVP
 
 ## Territories
 
@@ -76,7 +76,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	East	|	Large-AMER-East-Named-2	|	TBH / Adam Olson_Acting RD 	| David Fisher | Richard Hancock |
 |	NA East	|	East	|	Large-AMER-East-Named-3	|	Chip Digirolamo	| David Fisher | Richard Hancock |
 |	NA East	|	East	|	Large-AMER-East-Named-4	|	Josh Rector | David Fisher | Richard Hancock |
-|	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher Richard Hancock |
+|	NA East	|	East	|	Large-AMER-East-Named-5	|	Sean Billow	| David Fisher | Richard Hancock |
 |	NA East	|	East	|	Large-AMER-East-Named-6	|	TBH / Adam Olson_Acting RD	| David Fisher | Richard Hancock |
 |	NA West	|	Southwest	|	Large-AMER-West-1	|	TBH / Kris Nelson	| Matthew Beadle | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-West-2	|	TBH / Alan Cooke	| Matthew Beadle | Rachel Hill |
@@ -160,7 +160,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | Inside Sales Rep | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | ----- |
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	| Anthony Seguillon | Sarina Kraft |
-|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	| Anthony Seguillon
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Dirk Dornseiff	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Sarina Kraft |
@@ -169,14 +169,14 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon Antonio Mimmo |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
 |	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Simon Williams	| Chris Loudon
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	TBH / Robbie Byrne	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Chris Loudon | Kristine Setschin |
 
@@ -195,12 +195,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	| Rachel Hill |
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	| Virginia Reib |
-|	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	|
+|	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-MidAtlantic	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	| Virginia Reib |
-|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	|
+|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-NorCal	|	Brooke Williamson	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-NW	|	Brooke Williamson	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-SF	|	Laura Shand	| Rachel Hill |
@@ -212,11 +212,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | ----- | 
 | ANZ	|	ANZ	|	MM-APAC-ANZ-1	|	Jo-Ming Huang	| Peter Huynh |
 | ANZ	|	ANZ	|	MM-APAC-ANZ-2	|	Jo-Ming Huang	| Peter Huynh |
-|	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	|
+|	Asia Central	|	Asia Central	|	MM-APAC-Central Asia	|	Ishan Padgotra	| Peter Huynh |
 |	Japan	|	Japan	|	MM-APAC-Japan	|	Ian Chiang	| Peter Huynh |
-|	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	|
+|	Asia Central	|	Pakistan	|	MM-APAC-Pakistan	|	Ishan Padgotra	| Peter Huynh |
 |	Asia SE	|	Southeast Asia	|	MM-APAC-SE Asia	|	Ian Chiang	| Peter Huynh |
-|	Asia South	|	Asia South	|	MM-APAC-South Asia	|	Ishan Padgotra	|
+|	Asia South	|	Asia South	|	MM-APAC-South Asia	|	Ishan Padgotra	| Peter Huynh |
 
 #### EMEA
 
