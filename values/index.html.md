@@ -844,7 +844,7 @@ We believe great companies sound negative because they focus on what they can im
 In every conversation, inside and outside the company, we should ask a question: What do you think we can improve?
 This doesn't mean we don't recognize our successes; for example, see our [Say Thanks](#say-thanks) value.
 
-We are positive about the future of the company. We are **S**hort **Te**rm **P**essimistic **A**nd **L**ong **T**erm **O**ptimistic (`STePALTO`, for short).
+We are positive about the future of the company. We are **S**hort **Te**rm **C**ritical **A**nd **L**ong **T**erm **O**ptimistic (`STeCALTO`, for short).
 
 ##### Do things that don't scale
 {:.no_toc}
