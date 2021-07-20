@@ -80,7 +80,7 @@ Communicate broadly when you will be away so other people can manage time effici
 1. Transition and reassign work that is already in progress to another member of your team whenever possible.
 1. Please document your knowledge and share it with others. [Key-person-risk](https://dynamicbusiness.com.au/topics/workplace/hr-and-staff/managing-key-person-risk.html) can have a large impact. This is especially true for "subject matter experts" or SME, people with specialized knowledge of a project, tool, or subject.
     1. It can be very helpful for your PTO and team members if you document, share (weekly team call + async in Slack) and communicate your PTO already well in advance (2-3 weeks). 
-   * One useful way of doing so could be, to create & share a Google Doc which lists all your important projects / customer interactions + a short list of useful details per entry, which you think are required for covering you best while on PTO. For example:
+    1. One useful way of capturing work is to create & share a Google Doc which lists all your important projects / customer interactions + a short list of useful details per entry. This include tips for covering you best while on PTO. For example:
      * "Name of covering team member" - Useful, also for your manager, to quickly know who is covering which projec/customer for you.
      * "Attendance in calls/zoom sessions required while on PTO" - Team mates can already start to plan and free up time in their calendar for specified dates/times.
      * "High Priority Topics" - List of topics and/or links to issues which are most relevant while you are on PTO.
