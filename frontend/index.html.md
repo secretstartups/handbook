@@ -24,7 +24,7 @@ title: "Frontend Group"
 Do you have a question concerning the frontend for a product area? As a product manager do you want to run a new idea by a frontend engineer? Do you want to learn more about how the current implementation works? Do you have specific frontend technology questions or have some idea/inputs?
 
 **Wait no more, here are our frontend domain experts who can help you out**
-- Merge Requests - [Justin Boyson](/company/team/#jboyson), [Phil Hughes](/company/team/#iamphill)
+- Merge Requests - [Phil Hughes](/company/team/#iamphill)
 - Design Management - [Natalia Tepluhina](/company/team/#ntepluhina), [Tom Quirk](/company/team/#tomquirk)
 - Portfolio Management + Geo - [Kushal Pandya](/company/team/#Kushal_Pandya)
 - Web IDE - [Denys Mishunov](/company/team/#mishunov), [Paul Slaughter](/company/team/#pslaughter)
