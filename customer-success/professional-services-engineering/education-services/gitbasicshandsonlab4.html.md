@@ -20,11 +20,12 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. If it's not already selected, click **.gitlab-ci.yml** in the next dropdown to the right, which selects a file template.
 1. In the **Apply a template** dropdown, select **General > Bash**. This populates your file with the contents of a minimal `.gitlab-ci.yml` file.
 1. In the editor, delete all lines above the `build1:` line and below the `- echo "For example run a test suite"` line. This will leave you with two sections of code, which define the **build1** and **test1** jobs.
-1. Define **build** and **test** stages by adding these 3 lines at the top of the file. *IMPORTANT: if you copy and paste these lines, you'll need to delete 3 spaces at the beginning of each line. This is a limitation of our layout system. The `stages` keyword must be flush left and the stage names must be indented by 2 spaces.*
+1. Define **build** and **test** stages by adding these 4 lines at the top of the file. *IMPORTANT: if you copy and paste these lines, you'll need to delete 3 spaces at the beginning of each line. This is a limitation of our layout system. The `stages` keyword must be flush left and the stage names must be indented by 2 spaces.*
     ```yaml
       stages:
         - build
         - test
+        - deploy
     ```
 1. Leave the default values for the **Commit message** and **Target Branch** fields, and click **Commit changes**.
 
