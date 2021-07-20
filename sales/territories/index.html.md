@@ -95,7 +95,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Central	|	Large-AMER-Central-2	|	Matt Petrovick	| Marsja Jones | Rachel Hill |
 |	NA East	|	Central	|	Large-AMER-Central-3	|	Brandon Greenwell	| Marsja Jones | Rachel Hill |
 |	NA East	|	Central	|	Large-AMER-Central-4	|	Ruben Govender	| Marsja Jones | Rachel Hill |
-|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| Marsja Jones | Richard Hancock |
+|	[LATAM](/handbook/sales/territories/latam/)		|	LATAM North	|	Large-AMER-LATAM-1	|	Carlos Dominguez	| Marsja Jones | Virginia Reib |
 |	[LATAM](/handbook/sales/territories/latam/)		|	LATAM South	|	Large-AMER-LATAM-2	|	Jim Torres	| Marsja Jones | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-1	|	TBH	\ Sheila Walsh| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher | Virginia Reib |
@@ -127,7 +127,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Josh Downey |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey | Helen Ortel |
@@ -163,7 +163,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Dirk Dornseiff	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
-|	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Sarina Kraft |
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
 |	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Antonio Mimmo |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
