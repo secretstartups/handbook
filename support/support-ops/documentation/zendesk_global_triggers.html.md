@@ -77,7 +77,7 @@ see all the current triggers would be the
 | [Set area of focus to Project/Group Management](https://gitlab.zendesk.com/agent/admin/triggers/360075983600) | Categorization Stage | 9 | Active |
 | [Set area of focus to Instance Management](https://gitlab.zendesk.com/agent/admin/triggers/360076289039) | Categorization Stage | 10 | Active |
 | [Set area of focus to GitLab Features](https://gitlab.zendesk.com/agent/admin/triggers/360076289059) | Categorization Stage | 11 | Active |
-| [Set priority to Urgent for Sev 1](https://gitlab.zendesk.com/agent/admin/triggers/360075984960) | Routing Stage | 1 | Active |
+| [Set priority to High for Allowed Sev 1](https://gitlab.zendesk.com/agent/admin/triggers/360075984960) | Routing Stage | 1 | Active |
 | [Set priority to High for non-allowed Sev 1](https://gitlab.zendesk.com/agent/admin/triggers/360075984980) | Routing Stage | 2 | Active |
 | [Set priority to High for Sev 2](https://gitlab.zendesk.com/agent/admin/triggers/360075985000) | Routing Stage | 3 | Active |
 | [Set priority to Normal for Sev 3](https://gitlab.zendesk.com/agent/admin/triggers/360076290219) | Routing Stage | 4 | Active |
@@ -128,12 +128,14 @@ see all the current triggers would be the
 | [Add trial tag](https://gitlab.zendesk.com/agent/admin/triggers/360076290559) | Lifespan Stage | 23 | Active |
 | [Set stage to NRT after agent reply](https://gitlab.zendesk.com/agent/admin/triggers/360076290579) | Lifespan Stage | 24 | Active |
 | [Set billing/ar team to billing when null](https://gitlab.zendesk.com/agent/admin/triggers/360075985440) | Lifespan Stage | 25 | Active |
+| [Add prospect tag](https://gitlab.zendesk.com/agent/admin/triggers/360076974199) | Lifespan Stage | 26 | Active |
+| [Remove prospect tag](https://gitlab.zendesk.com/agent/admin/triggers/360076974459) | Lifespan Stage | 27 | Active |
 | [Assign DigitalOcean tickets to Jason Colyer](https://gitlab.zendesk.com/agent/admin/triggers/360056594000) | Assignee | 1 | Active |
 | [Remove assignee if non-human assignee](https://gitlab.zendesk.com/agent/admin/triggers/360017743040) | Assignee | 2 | Active |
 | [Assign Abuse Report tickets to Security team](https://gitlab.zendesk.com/agent/admin/triggers/360015599319) | Assignee | 3 | Active |
 | [Assign Security tickets to Security team](https://gitlab.zendesk.com/agent/admin/triggers/360048868280) | Assignee | 4 | Active |
-| [Assign open or on-hold ticket to agent](https://gitlab.zendesk.com/agent/admin/triggers/360080206253) | Assignee | 5 | Active |
-| [Assign any on-hold ticket to current agent](https://gitlab.zendesk.com/agent/admin/triggers/360069333019) | Assignee | 6 | Active |
+| [Assign open or on-hold ticket to agent](https://gitlab.zendesk.com/agent/admin/triggers/360080206253) | Assignee | 5 | Inactive |
+| [Assign any on-hold ticket to current agent](https://gitlab.zendesk.com/agent/admin/triggers/360069333019) | Assignee | 6 | Inactive |
 | [Notifications::Assignee::Notify assignee of assignment](https://gitlab.zendesk.com/agent/admin/triggers/39696283) | Notifications | 1 | Active |
 | [Notifications::Assignee::Notify assignee of comment update](https://gitlab.zendesk.com/agent/admin/triggers/39696273) | Notifications | 2 | Active |
 | [Notifications::Requester::Notify requester of comment update](https://gitlab.zendesk.com/agent/admin/triggers/39696253) | Notifications | 3 | Active |
@@ -143,7 +145,7 @@ see all the current triggers would be the
 | [Ticket::Autoresponder::Notify requester about autosolve](https://gitlab.zendesk.com/agent/admin/triggers/360066841839) | Notifications | 7 | Active |
 | [Notifications::Slack::Post ticket updates to #feed_zd-main](https://gitlab.zendesk.com/agent/admin/triggers/360001152888) | Notifications | 8 | Active |
 | [Slack Notify - #weimeng_zd-feed](https://gitlab.zendesk.com/agent/admin/triggers/360055015780) | Notifications | 9 | Active |
-| [Notifications::Slack::Post new support tickets to support_response-crew](https://gitlab.zendesk.com/agent/admin/triggers/360072630300) | Notifications | 10 | Active |
+| [Notifications::Slack::Post new support tickets to support_response-crew](https://gitlab.zendesk.com/agent/admin/triggers/360072630300) | Notifications | 10 | Inactive |
 | [SSAT::Issue Creation::When reason is null and they leave comments](https://gitlab.zendesk.com/agent/admin/triggers/360088483733) | SSAT | 1 | Active |
 | [SSAT::Issue Creation::When reason is ‘Product’](https://gitlab.zendesk.com/agent/admin/triggers/360097202574) | SSAT | 2 | Active |
 | [SSAT::Issue Creation::When reason is ‘Other’](https://gitlab.zendesk.com/agent/admin/triggers/360097002973) | SSAT | 3 | Active |
