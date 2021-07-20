@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "TAM Responsibilities and Services"
+description: "There are various services a Technical Account Manager will provide to ensure that customers get the best value possible out of their relationship with GitLab."
 ---
 
 ## On this page
@@ -73,7 +74,7 @@ There are various services a Technical Account Manager will provide to ensure th
 - Upgrade planning
 - User adoption strategy
 - Migration strategy and planning
-- [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade)
+- [Infrastructure upgrade coordination](/handbook/customer-success/tam/services/infrastructure-upgrade/)
 - Launch support
 - Monitors support tickets and ensures that the customer receives the appropriate support levels
 - Support ticket escalations
