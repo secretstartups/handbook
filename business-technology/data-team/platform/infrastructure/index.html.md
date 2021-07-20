@@ -426,6 +426,7 @@ $  kubectl apply -f ./gitlab-app.yaml
 # Delete the deployment of meltano namespace
 kubectl delete deployment meltano-gitlab --namespace=meltano
 ```
+Watch the [video](https://youtu.be/H7m99t4IghM) on walkthrough of `Meltano setup in GKE` 
 
 ## Postgres Pipeline 
 

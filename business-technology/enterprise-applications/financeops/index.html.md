@@ -12,86 +12,82 @@ description: "Finance Systems Operations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## <i class="fas fa-hand-holding-usd" id="biz-tech-icons"></i> Finance Operations
+## :scroll: Finance Systems Charter
+The **Finance Systems Administrator Team** implements and supports specialized applications for the finance team within GitLab.
 
-### Who we are
+## :busts_in_silhouette: Team
 
-**Alex Westbrook - Senior Finance Systems Admin**
-GitLab handle: [@awestbrook](https://gitlab.com/awestbrook)
-Slack handle: @Alex_W
-Job Family: [Senior Finance Systems Admin](/job-families/finance/finance-systems-administrator/#senior-finance-systems-administrator)
-
-**Mark Quitevis - Finance Systems Admin**
-GitLab handle: [@mquitevis](https://gitlab.com/mquitevis)
-Slack handle: @Mark Quitevis
-Job Family: [Finance Systems Admin](/job-families/finance/finance-systems-administrator/#finance-system-administrator)
-
-### Contacting us
-Slack: `#financesystems_help`
-GitLab: [Create an issue](TBD)
-
-### Our mission
-
-TBD
-
-### Our priorities
-
-- Technical and Operational owner of the finance application ecosystem partnering with Finance and Accounting
-- Maintains and optimizes the integrations of the ecosystem
-- Partner to Sales Ops, Sales Systems, Growth Teams and other departments where the integrations intersect and the data passes from one system into another
+- [Alex Westbrook](https://about.gitlab.com/company/team/#awestbrook) - Sr. Finance Systems Administrator (Allottabit about all the finance systems), *Certified Zuora Administrator*
+- [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Finance Systems Administrator (P2P and Record to Report Expert)
+- [Jessica Salcido](https://about.gitlab.com/company/team/#jesssalcido) - Finance Systems Administrator (Q2C Expert)
+- [Cristine Marquardt](https://about.gitlab.com/company/team/#csotomango) - Finance Systems Administrator (Service Desk Guru), *Certified Zuora Administrator*
 
 
-##### What we are working on?
+## :mag_right: How We Work
 
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1722830?assignee_username=awestbrook&" class="btn btn-purple">Work Management Board</a>
+- **All work starts with an [Intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new?issue%5Bmilestone_id%5D=) (Labels: `~BT Finance Systems` and `~EntApps Intake`).**
+- Once submitted, the issue will go to our [triage board](https://gitlab.com/groups/gitlab-com/-/boards/2814841?label_name[]=BT%20Finance%20Systems&label_name[]=EntApps%20Intake). This board is monitored daily. Before it is dispatched the request is reviewed to ensure there is enough details provided, once all information has been gathered, depending on the nature of the issue, it is assigned either the `~FinSys::Service Desk`, `~FinSys::Projects` or `~Finsys::Collaboration` label.
 
-- Backlog and In progress issues related to all [finance systems](/handbook/business-technology/enterprise-applications/#finance-systems-covered)
+### :ticket: Service Desk
 
-##### Types of Support
+- [Service Desk Board](https://gitlab.com/groups/gitlab-com/-/boards/2802782?scope=all&label_name[]=FinSys%3A%3AService%20Desk) Labels: `~FinSys::Service Desk`
+- Our service desk takes care of:
+    - User Access to the Finance Systems we manage. By way of Access Requests, Offboarding and Mobility Issues.
+    - System questions and assistance.
+    - Troubleshooting
+    - Reporting assistance
+    - etc.
+- Issues will be assigned a priority:
+    - `~BT-Priority::1`
+    - `~BT-Priority::2`
+    - `~BT-Priority::3`
+- Issues will also be assigned to an admin who will ensure issue is resolved and proper protocol is followed depending on the request
+    - This could be Change Management, Incident Management and/or Problem Management.
+- Issues are either:
+    - **Open:** Pending Priority and Admin assignment. Expect it to progress into In Progress within 72 hours of submitting the issue.
+    - **`~BT::InProgress`:** Priority and Admin has been assigned and it’s actively being worked on.
+    - **Closed or BT::Done External:** Request has been fulfilled entirely or next steps have been agreed to. Sometimes an issue cannot be closed by the FinSys team because there are tasks/requests for other teams (i.e. Access Requests), so in those cases we’ll mark it with BT::Done External which indicates all work for the FinSys team has been completed.
 
-1. Access Request or change in access: [Queue](https://gitlab.com/groups/gitlab-com/-/boards/1765444?&label_name[]=FinSys%20-%20Access%20Request).
-    Submit [issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
-1. Breaks, bugs and incidents related to a system.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/financeops/finance-systems/-/issues/new).
-1. Enhancement Request for a system.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/financeops/finance-systems/-/issues/new).
-1. Other and questions.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/financeops/finance-systems/-/issues/new).
+### :factory: Projects
 
-##### Finance Systems Covered
+- Projects span in scope (could be as small as a new workflow to a new system implementation), but every project will always have an Epic.
+    - Epic will include all details related to the project.
+        - Title: `BACKLOG:_______`
+        - Team
+            - Project Manager
+        - Due Date
+        - Scope
+        - Objective
+        - Etc.
+    - [Template](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/245)
+- WIP: [Projects Backlog Board](https://gitlab.com/groups/gitlab-com/-/boards/2814889?label_name[]=EntApps%3A%3ABacklog&label_name[]=BT%3A%3ABacklog); Labels: `~BT Finance Systems` and `~BT::Backlog`
+    - Projects can directly be submitted/requested through an epic here.
+    - FinSys team meets on ___________ cadence to do backlog grooming and planning.
+    - Through this exercise, ost projects will have a BSA and/or Project Manager to lead it.
+- [In Flight Projects Board](https://gitlab.com/groups/gitlab-com/-/boards/2834898?label_name[]=BT%20Finance%20Systems&label_name[]=FinSys%3A%3AProjects); Labels: `~BT Finance Systems` and `~FinSys::Projects`
+    - Update project title with prefix `PROJ:` 
+    - This is where you can see the open tasks related to a project and the stage they’re in.
 
-1. Zuora: [Board](https://gitlab.com/groups/gitlab-com/-/boards/1723367?label_name[]=FinSys%20-%20Zuora) with everything slated to be done.
-1. Netsuite
-1. Tipalti
-1. Expensify
-1. Stripe
-1. TripActions
-1. Avalara
-1. CaptivateIQ
-1. Workiva
-1. FloQast
-1. Adaptive Planning
+### :juggling: Collaboration
 
-##### _Coming Soon_
+- To facilitate [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) use GitLab issues.
+    - When using GitLab issues, use one of the following labels:
+        - `~FinSys::Collaboration` in Gitlab.com
+        - `~Enterprise Applications` in Gitlab.org
 
-1. Z-Revenue (RevPro)
-1. Xactly
-1. Mavenlink
-1. EdCast
+## :floppy_disk: Systems We Own
 
-#### What's the status of my request?
-
-- Every issue will have a tag of either
-- ~"BT PS:: Backlog" > Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
-- ~"BT PS::To Do" > Team will look at the issue within a week of submitting
-- ~"BT PS::In Progress" > Team is currently actively working on scoping out and gathering requirements
-- ~"BT PS::Done"
-
-##### Change Process
-
-1. [Issue](https://gitlab.com/gitlab-com/business-technology/financeops/finance-systems/-/issues/new) submitted with request
-1. Request is approved by technical owner and business owner (as necessary).
-    ([Approvals Queue](https://gitlab.com/groups/gitlab-com/-/boards/1774935))
-1. Change pushed to sandbox/dev environment (as necessary)
-1. Change validated
-1. Change deployed to production environment
+| System            | Function                         |  |
+|-------------------|----------------------------------|--|
+| Adaptive Insights | Financial Planning and Budgeting |  |
+| Avalara           | Tax Engine                       |  |
+| Coupa             | Procurement and AP               |  |
+| Docusign          | Signatures                       |  |
+| Expensify         | Expense Management               |  |
+| Netsuite          | ERP                              |  |
+| Stripe            | Payment Processor                |  |
+| Tipalti           | AP                               |  |
+| TripActions       | Travel Booking                   |  |
+| Workiva           | Reporting                        |  |
+| Zuora Billing     | Billing                          |  |
+| Zuora Revenue     | Revenue Recognition              |  |
