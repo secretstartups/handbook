@@ -142,7 +142,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 #### APAC
 
-| Sub-Region | Area | **Territory Name** | Sales | Inside Sales Rep | FMM 
+| Sub-Region | Area | **Territory Name** | Sales | Inside Sales Rep | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | 
 |	Japan	|	Japan	|	Large-APAC-Japan-1	|	Tadashi Murakami	| Daphne Yam
 |	Japan	|	Japan	|	Large-APAC-Japan-2	|	Eiji Morita	| Daphne Yam | Peter Huynh |
