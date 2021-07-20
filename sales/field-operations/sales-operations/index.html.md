@@ -473,7 +473,7 @@ We leverage the [Sales Admin Owned Opps Dashboard](https://gitlab.my.salesforce.
 Coming soon. Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
 
 ### User Segement/Region/Area/Geo Sisense Dashboard Updates - Operators Guide
-Coming soon 
+Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
 
 ### WW Dashboard Review - Operators Guide
 Coming soon
@@ -810,6 +810,13 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 
 
 ### RingLead
+
+
+1. RingLead provisioning is only available to Admin access on RingLead.
+1. On the top right, Click on Administration --> User Management
+1. On the bottom right corner of the User Management Screen, click in "Invite Users"
+1. Add GitLab email, and select products and Authorization method: Products - Cleanse, Enrichment, Modules and the Authorization method is default as "Password."
+1. Send Invite.
 
 ### LinkedIn Sales Insights
 1.  Currently only available to RD/ASM Sales Leadership, all segments. 
