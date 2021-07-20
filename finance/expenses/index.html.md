@@ -101,7 +101,8 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 | Ethernet connector                                                                                    | $20                  | $20                 | 6/10       | This is if you choose to connect to your internet directly versus by Wi-Fi.                                                                                                                                                                                                                                                                                           |
 | Powerline / WiFi network extender                                                                     | $50 - $100           | $100                | 6/10       | Useful for extending your home network to your workspace                                                                                                                                                                                                                                                                                                              |
 | Laptop bag or backpack                                                                                | $60                  | $60                 | 7/10       | Carry your laptop and external monitor safely with this travel bag. We recommended you get a bag (or backpack) with straps so the device stays on you when you need your hands free.                                                                                                                                                                                  
-                                                                                                                              
+| Laptop cooling pad                                                                                    | $35 - $50            | $50                 | 6/10       | Useful if you live in a place where summer heat can affect your laptop's ability to keep itself cool    |                                                                                                                                                                                                                                                    
+
 
 If you wish to go over the recommended reimbursement, this is an exception and should first be raised with your manager and if supported, should be raised in the "expense-reporting-inquiries who will review and respond to the request.
 
@@ -266,6 +267,10 @@ To understand more about where these can be used see the [Security Practices Pag
 
 ##### Whiteboards
   * Audio-Visual Direct White Magnetic Glass Dry-Erase Board Set - [US](https://www.amazon.com/dp/B00JNJWE3K)
+
+##### Laptop Cooling Pads
+  * Thermaltake 10-17" Laptop Cooling Pad with Temperature Sensors - [US](https://www.amazon.com/dp/B01FXDVE26)
+  * havit 15.6-17" Laptop Cooling Pad - [US](https://www.amazon.com/dp/B07QKR6MB8)
 
 #### Something else?
   * No problem! Consider adding it to this list if others can benefit from it.
