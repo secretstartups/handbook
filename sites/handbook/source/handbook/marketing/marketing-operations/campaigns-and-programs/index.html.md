@@ -95,15 +95,18 @@ This is when a package or piece of mail is sent out.
 
 **Bizible:** This is tracked as an _offline_ channel.
 
-| Member Status | Definition | Success |
-| ------------- | ---------- | ------- |
-| No Action | default starting position for all records |  |
-| Registered | Registered to recieve direct mail via landing page or form |  |
-| Queued | Shipment is being put together, waiting to be shipped |  |
-| Shipped | Package has been shipped |  |
-| Undeliverable | Package was returned or undeliverable to addressee |  |
-| Delivered | Package was received by the addressee | Yes |
-| Responded | Recipient took action or CTA (trackable on PURLs | Yes |
+| Member Status | Definition | Success | E-gift Card or Physical Gift |
+| ------------- | ---------- | ------- | ------------ |
+| No Action | Default starting position for all records |  | Not applicable |
+| Processed | Physical gift shipping request is being processed  |  | Physical |
+| Sent | Email with e-gift card has been sent to recipient |  | E-gift card |
+| Opened | The prospect has opened the Reachdesk offer emailed to them |  | E-gift card |
+| Claimed | The recipient has claimed the Reachdesk gift | Yes | E-gift card |
+| Clicked | The prospect has clicked the link in the offer emailed to them |  | E-gift card |
+| Shipped | The recipient's gift has been shipped |  | Physical |
+| Delivered | The selected gift has been successfully delivered to the recipient | Yes | Physical |
+| Cancelled | The recipient has requested their gift be cancelled |  | Physical |
+| Returned | The recipient has returned their gift |  | Returned |
 
 
 #### Executive Roundtables
