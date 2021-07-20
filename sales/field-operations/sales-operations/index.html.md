@@ -473,7 +473,7 @@ We leverage the [Sales Admin Owned Opps Dashboard](https://gitlab.my.salesforce.
 Coming soon. Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
 
 ### User Segement/Region/Area/Geo Sisense Dashboard Updates - Operators Guide
-Coming soon 
+Note: Include a step for the final check on WD2 of the month using the sfdc finance [report](https://gitlab.my.salesforce.com/00O4M000004aqeH).
 
 ### WW Dashboard Review - Operators Guide
 Coming soon
@@ -758,14 +758,13 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 1. The onboarding issue will auto create the AR on day 2
 2. The templates will automatically:
    - Add the SalesOpsAR::Action Needed label
-   - Leave the assignee blank
-   - CC Amber and Meri as the Provisioning DRIs
-3. The DRIs will receive an email when a new AR is created
+   - Auto assign to the provisioning DRI listed in the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+3. The DRI will receive an email when a new AR is created
 4. All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 5. When the AR is picked up by the Sales Operations team member, the team member will:
-   -assign the issue to themself
+   -assign the issue to themself (if not already auto assigned)
    -add the label SaelsOpsAR::In Progress
-6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly.
+6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly. NOTE: If a new task appears in the Sales Operations section, reach out in slack or on the AR to clarify the ask and to make sure it is in the correct provisioner section.  Do not skip it. 
 7. If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 
 ### Single Person or Bulk Access Request
@@ -774,11 +773,11 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 2. In the instructions, they are directed to the Tech Stack doc with the following tasks:
    - Add the SalesOpsAR::Action Needed label
    - Leave the assignee blank
-   - CC Amber and Meri as the Provisioning DRIs
-3. The DRIs will receive an email when a new AR is created
+   - Assign to the provisioning DRI listed in the [tech stack YAML file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml). 
+3. The DRI will receive an email when assigned, or can see the AR based on the label.
 4. All will be able to monitor the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
 5. When the AR is picked up by the Sales Operations team member, the team member will:
-   -assign the issue to themself
+   -assign the issue to themself (if not already assigned)
    -add the label SaelsOpsAR::In Progress
 6. The Assignee should be responsible for working the AR to completion by completing all Sales Operations task items and working the label system accordingly.
 7. If Assignee is out of office, the rest of the team is responsible for moving the AR forward in a timely fashion and can see ARs in flight by looking at the [Sales Ops Access Request Board](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/boards/1959331)proactively.
@@ -792,7 +791,7 @@ For status on an issue please view the [Sales Operations Access Request Board](h
 
 Note: The most accurate access level will be on the Tech Stack or the AR, genenerally AMER and all of Commercial will get recorder, EMEA Commercial and SDR will get recorder once they have completed the GDPR training course.all else listener.
 
-### DataFox
+### DataFox 
 
 1. From the [Settings Page](https://app.datafox.com/settings/general-information) in DataFox located in the top right under your name, click on **Team Management** located on the left.
 1. From **Team Management**, click the **Invite Your Team** button, enter the email addresses of the users to be provisioined, click **Send Invitations**.
@@ -801,7 +800,30 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 
 ### Clari
 
+1.  [Onboarding New Users / Clari Account Registration](https://clari.zendesk.com/hc/en-us/articles/115001856971-Onboarding-New-Users)
+
 ### SalesForce
+
+1. Access to Salesforce should follow what is documented in the Baseline entitlement ARs. Requests for additional permissions in SFDC should flow to the sales systems team in terms of customizing the application and set up. 
+1.  If access is unclear, reference a users that has the same manager or a team member. The smallest amount of access required should be the access granted.  Sales Systems and Sales Ops can help advise.
+1.  [Citizenship Verification Steps](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#citizenship-confirmation) when Public Sector access is requested outside of the standard Profile/Role. 
+
+
+### RingLead
+
+
+1. RingLead provisioning is only available to Admin access on RingLead.
+1. On the top right, Click on Administration --> User Management
+1. On the bottom right corner of the User Management Screen, click in "Invite Users"
+1. Add GitLab email, and select products and Authorization method: Products - Cleanse, Enrichment, Modules and the Authorization method is default as "Password."
+1. Send Invite.
+
+### LinkedIn Sales Insights
+1.  Currently only available to RD/ASM Sales Leadership, all segments. 
+1.  Go to top right, then to manage licenses.
+1.  Add New users button.
+1.  License Type: Sales Insights
+1.  Permissions:  Everyone should be a User. Admin is only for Operations Team.
 
 </details>
 
