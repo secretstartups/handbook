@@ -272,7 +272,7 @@ There is an overview of recommended actions to take after the calibration sessio
 
 ### Regular Cadence
 
-Our e-group completes Performance/Growth Matrix quarterly for all their direct reports. The rest of GitLab does this twice annually, ideally in Q2 and Q4. In Q2, the exercise would ideally take place after the [360 annual feedback review](/handbook/people-group/360-feedback/), and in Q4 the exercise would ideally take place in November prior to the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). 
+Our e-group completes Performance/Growth Matrix multiple times a year for their direct reports. The rest of GitLab does this at least once per year in Q4. The formal assessment would ideally take place in November prior to the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). 
 
 #### Eligibility
 
@@ -281,39 +281,6 @@ Anyone hired on or before October 31st is eligible to participate in the Q4 Perf
 This is because team members generally need several months to get adjusted to their role and responsibilities, and we ideally would have hired the team member at their accurate market rate. 
 
 While there are exceptions, this is the general rule of thumb. 
-
-### Initial Launch Timeline
-
-GitLab is kicking off the Performance/Growth Matrix in FY'21 Q3 in preparation for the [annual review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review) in FY'21 Q4. The timeline for launch, training, and completion of the Performance Factor exericse is as follows:
-
-*September*
-* 2020-09-30: Review and iterate based on feedback provided in the [issue](https://gitlab.com/gitlab-com/people-group/General/-/issues/965)
-* 2020-09-30 (or prior): Update [compensation calculator](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/calculator/) in preparation for October training
-
-*October*
-* 2020-10-07: Handbook fully updated with first iteration of Performance definitions
-* 2020-10-14: Meaning of "potential" defined and in handbook
-* 2020-10-16: Communication to the whole organization
-* 2020-10-21: Performance Factors Training Session for Managers (2 sessions 8:30am PST and 5pm PST)
-* 2020-10-28: AMA Performance Factors (2 sessions 8am PST and 5pm PST)
-* 2020-10-29: Performance Factors Office Hours (2 sessions 8am PST and 5pm PST)
-
-*November*
-* 2020-11-02: First version of the Performance/Growth matrix tool ready
-* 2020-11-02: Kick off formal assessment period
-* 2020-11-04: Performance Factors Training for all team members (2 sessions 8:30am PST and 5pm pST)
-* 2020-11-25: Performance/Growth matrix is completed company wide and the assessment tool is closed to managers
-
-*December*
-* 2020-12-01: Results reviewed by PBP, analyzed for diversity metrics by Total Rewards, and shared with e-group leader for review 
-* 2020-12-04: Finalize Total Rewards Impact Analysis for Underrepresented Group Audits on Performance Factor outputs at VP and E-group level
-* 2020-12-15: Program approval and communication guidance shared with managers
-* 2020-12-15 _through_ 2021-01-29: Performance axis results communicated with team members. 
-
-_If applicable (not required), upload the Performance Review document that was used to share the performance factor result with team members to BambooHR. The document can be loaded to the `Performance Reviews` folder in BambooHR._ 
-
-*January*
-* In January the Performance factors feed into the Annual Compensation review. Review the timeline for that process on the Annual Compensation Review page, [here](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review-timeline). 
 
 ### Matrix Assessment Timeline 
 

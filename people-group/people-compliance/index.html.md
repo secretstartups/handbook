@@ -21,7 +21,7 @@ People Compliance works collaboratively with multiple functional teams throughou
 * Tag us in GitLab
    * `@gl-peoplecompliance`
 * Slack
-   * The #peopleops Slack channel is the best place for questions relating to our team.
+   * The #people-connect Slack channel is the best place for questions relating to our team.
 
 ## Defining People Compliance
 
@@ -54,7 +54,7 @@ All Responsibilities are listed in the [People Compliance job family page](https
 
 ## How we work
 
-Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/blob/master/.gitlab/issue_templates/compliance_request.md) and we will review and prioritize.
+Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/issues/new?issue) and we will review and prioritize.
 
 ### Labels
 
@@ -81,21 +81,21 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 
 ## Performance Indicators
 
-#### [Annual Mandated HR Reporting]
+#### [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
 
 This PI encompasses the 100% completion of all mandated, annual HR reports to all relevant Offices and Departments, most commonly being related to United States HR-related reports.
 
 * [People Compliance Reporting](/handbook/people-group/people-compliance/people-compliance-reporting/)
 
-#### [HRIS compliance, data retention and implementation](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
+#### [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
 
 This PI encompasses the 100% accuracy of personal information held in our HRIS for all team members under a GitLab entity or PEO. This PI also has as a goal to have documented and communicated policies for personal information data retention within our HRIS, their 100% implementation and 100% compliance.
 
 * [HRIS Compliance](/handbook/people-group/people-compliance/hris-compliance/)
 
-#### [Implementation of audits across Team Member Experience tasks](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
+#### [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
-This PI encompasses the 100% implementation of quarterly audits for onboarding, offboarding and career mobility issues.
+This PI encompasses the 100% implementation of quarterly audits for onboarding issues and their related closure rates.
 
 * [People Compliance Audits](/handbook/people-group/people-compliance/people-compliance-audits/)
 

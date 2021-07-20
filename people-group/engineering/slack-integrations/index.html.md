@@ -53,7 +53,7 @@ For the new hire announcements to be accurate, it is required to ensure the
 BambooHR details of team members joining the following week is as complete as
 possible. To help PeopleOps team in this task, another scheduled pipeline is
 run to verify if the BambooHR details of all incoming team members is complete.
-This pipeline notifies Since People Experience Associates in `#peopleops-alerts` channel
+This pipeline notifies Since People Experience Associates in `#people-connect-alerts` channel
 about people whose details are missing and the details that are missing for each
 person.
 
@@ -83,7 +83,7 @@ People Experience team can discuss and take action.
 ### Referral bonus reminders
 
 A scheduled pipeline is configured to automatically send a message
-in the `#peopleops-alerts` Slack channel listing all team members who reached
+in the `#people-connect-alerts` Slack channel listing all team members who reached
 their 3 month work anniversary that week. For each anniversary, the team member's
 BambooHR and Greenhouse profiles are linked so that the people experience team
 can check if the listed team members were referred. For those that were referred, the 

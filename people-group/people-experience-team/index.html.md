@@ -22,8 +22,8 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-06-25 | Family and Friends Day
 | 2021-07-05 | Public Holiday
+| 2021-07-16 | Family and Friends Day
 | 2021-09-06 | Public Holiday
 | 2021-09-19 to 2021-09-24 | [Contribute](https://web.cvent.com/event/aa9c9e95-4dda-4eea-91ec-a1ebecf42e8b/summary)
 
@@ -31,8 +31,7 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 ### OOO Handover Process for People Experience Team
 
 1. The People Experience Associate will open a PEA Handover OOO [issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/issue_templates/PEA_OOO_Handover_Issue.md) and tag all Associates in the issue at least the day before their scheduled OOO. If there are confidential items/tasks that need to be handed over, please create a Google doc, share with the team and link to the issue.
-2. The People Experience Coordinator will then reassign tasks to an alternative People Experience Associate (where applicable).
-3. Get assistance from the People Operation Specialist team if additional hands are needed.
+1. Get assistance from the People Operation Specialist team if additional hands are needed.
 
 
 ## People Experience Team Processes
@@ -41,7 +40,7 @@ All queries will be attempted to be resolved within the specific time zones and 
 
 ### Bi-Weekly Rotations 
 
-On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team. The allocation tracker can be found in the [People Exp/Ops Tracker]. 
+On a bi-weekly occurence, the People Experience Team will open a [PEA Rotation Issue](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/issue_templates/Weekly-Rotation-PEA.md). This rotation issue reflects what tasks the PEA's are accountable for and to be completed within the 2 weeks which lists how the tasks are shared amongst the team.  
 
 Certain tasks will be allocated based on a ongoing rotation between all People Experience Associates. 
 
@@ -51,17 +50,9 @@ The following factors will also be taken into consideration:
 - Ensure that the tasks split evenly and fairly 
 - A tracker will be kept to track the data of how the tasks are split up
 
-**The Rotation groups are listed as follows:**
-
-- Probation Periods / Gift Requests / Anniversary Period / Triage People Ops Issues / Deleting LOE team member data / Printfection Report
-
-- BHR Onboarding Report / Moo Report / Allocations for Onboarding, Offboarding, Mobility / TaNEWki call scheduling / Pull Social Call Metrics
-
-- I-9 Administration / Pruning of Stale Records (TBD)
-
 **The following tasks will be completed by any available People Experience Associate within the designated SLA:**
 
-- Letters of Employment / VOE 
+- Verification Of Employment 
 - Anniversary Queries
 
 #### Allocations for Onboarding
@@ -147,12 +138,12 @@ PEA team will need to perform an audit on the tasks in this issue
       - remove any tasks that are unnecessary
       - go through open issue to close/reach out
 
-- Code of Conduct Audit
+- Code of Conduct & Acknowledgement of Relocation Audit
 
-The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct in BambooHR. 
+The People Experience Team will complete a quarterly audit of which team members have not yet signed the Code of Conduct and Acknowledgement of Relocation in BambooHR. 
 
-    - A monthly report will be pulled from BambooHR for `Code of Ethics Acknowledgment 2020` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
-    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly. 
+    - A quarterly report will be pulled from BambooHR for `Code of Conduct 2021` and `Acknowledgement of Relocation 2021` by the Associate in the respective rotation to check that all pending team member signatures have been completed. 
+    - If it has not been signed by the team member, please select the option in BambooHR to send a reminder to the team member to sign. Please also follow up via Slack and ask the team member to sign accordingly.  **Reminder to not send reminders to team members on unpaid or parental leave**
     - If there are any issues, please escalate to the People Experience Team Lead for further guidance. 
 
 - Anniversary Gift Stock Audit
@@ -188,7 +179,7 @@ Every Monday and Wednesday, the Associate in the rotation will pull the report t
 1. If the name is not highlighted this is a new add and keep the name on the tracker. 
 1. **Important, if the team member is located in Japan, please immediately proceed with sending the required payroll documentation to the new hires personal email address.** Include Non US Payroll in the email correspondence for visibility. 
 
-#### Weekly Moo Report
+#### Weekly Moo Invites
 
 Every week on Tuesday, the People Experience Associate in the rotation will send the invites to the new team members starting that week.
 1. The  People Experience Associate will log into Moo
@@ -318,3 +309,7 @@ When a new tool is [added to the Tech Stack](https://about.gitlab.com/handbook/b
 Weekly on a Friday, the People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
 
 The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+
+### 1Password Complete Recovery
+
+As admins for 1Password, the People Experience team will get notified when an account recovery is requested by the IT Ops team. We do not need to take any action on these and can safely delete/ignore the email. The IT Ops team will complete the recovery.

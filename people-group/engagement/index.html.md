@@ -129,7 +129,7 @@ GitLab scored 5% below the industry benchmark i.e. New Tech +1,000 2020 for the 
 - Resource Allocations
 
 #### Questions and Support
-The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#peopleops`.
+The GitLab Team Member Engagement Survey is managed by the `People Operations Specialists`, if you require support or have any questions around the survey please be sure to reach out via `#people-connect`.
 
 ## Previous Results (Reverse Chronological)
 

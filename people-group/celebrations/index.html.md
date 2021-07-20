@@ -20,7 +20,7 @@ Along with this, all celebrants regardless of length of tenure will receive a me
 #### Anniversary Gifts
 On the last day of the month of celebration, team members can anticipate an email with a unique link which will lead them to the GitLab Anniversary Gift ordering portal where they can make the relevant size and shipping selections (where applicable).
 
-The average shipping time taking into account current restrictions as a result of global events is three weeks.  In an instance where an order has been placed and not received we encourage team members to reach out to the People Experience Team in the **#anniversary-celebrants** channel.
+The average shipping time taking into account current restrictions as a result of global events is three weeks.  In an instance where an order has been placed and not received we encourage team members to reach out to People Connect in the **#people-connect** channel.
 
 | Year | Gift | 
 | --- | --- | 
@@ -48,7 +48,7 @@ Recommended sites:
 
 The budget for sending these gifts will come from the department budget of the gift-receiving team member. 
 
-To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `FY21EmployeeGiftsFlowers` in the `classification` section of the expense.  
+To make sure the reports in Expensify are routed correctly, managers will need to be sure to fill in the correct division and department. Managers will also need to be sure to use `FY22_EmployeeGiftsFlowers` in the `classification` section of the expense.  
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 

@@ -20,9 +20,7 @@ The offboarding process kicks off once the People Business Partner completes the
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.
 
-In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled will commence at 12 PM PST (latest) at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time, we encourage team members or People Business Partners to advise the People Experiece team of an updated date and time.
-
-We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
+In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled will commence at 4PM in their regional timezone (EMEA, JAPAC, and NORAM) and 12pm in their regional timezone on Friday. at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time, we encourage team members or People Business Partners to advise the People Experiece team of an updated date and time.
 
 Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss offboarding options. 
 
@@ -62,7 +60,7 @@ IT Ops will follow the below steps to set up an auto-response that notifies the 
    1. Unsuspend the account, reset sign in cookies, reset password, do not email the password. 
    1. Move account into the Former Team Memebers Organizational Unit. 
    1. Use GAM to set a Out of Office Message on the account
-   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
+   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
 
 The Out of Office message will stay on the account for 90 days, aftewards ITOPs will follow up and archive the account in the G-Suite vault.
 

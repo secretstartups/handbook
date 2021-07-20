@@ -31,7 +31,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
     - Be sure to suggest [location channels](/handbook/communication/chat/#location-channels-loc_) and [Social Slack Groups](/handbook/communication/chat/#social-groups) where they can immediately plug in with other team members who appreciate similar things.
 1. **Ask where they need help and connect them with the experts**. Buddies should make the effort to connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
     - For new GitLab team-members who have not worked in a [remote organization](/company/culture/all-remote/) before, they may need assistance in thinking through an ideal [workspace](/company/culture/all-remote/workspace/) and embracing [informal communication](/company/culture/all-remote/informal-communication/). Consider asking seasoned remote colleagues in the `#remote` Slack channel to reach out and answer questions.
-    - If they're new to [Git](/training/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
+    - If they're new to [Git](/learn/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
     - If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
 1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
     - In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
@@ -49,7 +49,7 @@ The People Experience team will randomly select 3 winners giveaway link to order
 
 ## How Can I Become An Onboarding Buddy?
 
-Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
+Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
 
 ## That's it!
 

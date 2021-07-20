@@ -27,19 +27,23 @@ Curators in GitLab Learn can organize existing learning content in their specifi
 
 ### Part 1: Curating content to a channel
 
-1. Watch the training on [how to share and curate content in GitLab Learn to a channel](https://youtu.be/8B7QJpd2Fp4)
+1. Watch the training on [how to share and curate content in GitLab Learn to a channel](https://gitlab.edcast.com/pathways/learning-curator-training/cards/1288231)
 
 ### Part 2: Customizing channels
 
-1. Watch the training on [how to customize channels with custom carousels](https://youtu.be/R0rLl6NB44g)
+1. Watch the training on [how to customize channels with custom carousels](https://gitlab.edcast.com/pathways/learning-curator-training/cards/1288232)
 
-### Part 3: Setting up your channel
+### Part 3: Finishing the Pathway
+
+1. The [GitLab Learn Curator Pathway](https://gitlab.edcast.com/pathways/learning-curator-training) needs to be completed with the final quiz.
+
+### Part 4: Setting up your channel
 
 You're ready to build your channel! Please follow the steps on the [Work with Us](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-gitlab-learn-channel) handbook page to open an issue for your new channel.
 
-If your team's channel already exists, please skip to Part 4
+If your team's channel already exists, please skip to Part 5
 
-### Part 4: Add the `Curator` role to your EdCast profile
+### Part 5: Add the `Curator` role to your EdCast profile
 
 Follow the steps outlined in the handbook to open an [individual access request for the `Curator` role in EdCast](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/). First assign this AR to your manager for approval and to alert your manager that you've taken the relevant pathway and will be curating content for your team. After approval from your manager, please assign the AR to `@slee24`.
 

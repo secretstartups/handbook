@@ -16,6 +16,7 @@ The Learning & Development team is rolling out learning programs to enable a [cu
 ## Learning Sessions
 
 ### Live Learning
+
 Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
 
 <details>
@@ -127,7 +128,7 @@ The following process outlines steps for the L&D team to take each month when pl
 
 **Planning Issue Template:** Open an Monthly Continuous Learning Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
 
-1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
+1. Post in the [#people-connect Slack channel](https://app.slack.com/client/T02592416/C02360SQQFR) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
 1. Coordinate slide deck with appropriate enablement audiences (i.e DIB, Field Enablement, Professional Services, Marketing Enablement, etc)
 1. Update slide deck for presentation with feedback from coordinated audiences
@@ -178,7 +179,7 @@ Anyone or any team can host a Learning Speaker Series for the organization! If i
 
 1. Collaborate with exec team, mid-level people leaders, and other interested GitLab Team members to gauge interest and availability to be featured in the call. Be mindful to include diverse voices from across the GitLab team.
 1. Determine if this is an internal or external speaker for the series call. If external speaker, ensure that the speaker has been validated and that the topic covered aligns with our values. External speaker presentations need to aling with how we deliver group conversations.
-1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
+1. Post in the [#people-connect Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
 1. Test Zoom functionality with the speaker at least two business days before event.
     - If external speaker, ensure they have downloaded [Zoom](https://zoom.us/support/download).
     - Have speaker test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom).
@@ -312,7 +313,7 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - May: Effective Communication
 - June: Coaching
 - July: Culture of Feedback
-- August: [topic TBD]
+- August: Career Development
 - September: [topic TBD]
 - October: [topic TBD]
 - November: [topic TBD]
@@ -323,7 +324,7 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 
 The following process outlines steps for the L&D team to take when planning and implementing the Skill of the Month.
 
-Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
+Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
 
@@ -348,4 +349,35 @@ Call Structure:
 1. How do you move past unpleasant thoughts, experiences, or discussions?
 1. What do you do that makes you feel most like yourself? Why?
 
+## Crucial Conversations
 
+Two members of the GitLab Learning & Development Team are certified to deliver Crucial Conversations Training. You can learn more about the importance of Crucial Converations at GitLab on our [Crucial Conversations](/handbook/leadership/crucial-conversations/) handbook page. 
+
+If you complete Crucial Conversations training with one of our in house certified trainers, you can utilize our [growth and development budget](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training). 
+
+### What to Expect 
+
+The video below gives an overview of what the Crucial Conversations training looks like. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UX-ArZJJJ1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Upcoming Sessions 
+
+If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
+
+**FY22** 
+
+- 2021-10 - Exact dates to be confirmed 
+- 2022-01 - Exact dates to be confirmed 
+
+### Setting up the Training 
+
+1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide](add link)
+1. Ensure we have a sign up link from crucial conversations. 
+1. Once we have the link, send the invite email to all team members interested in the program. 
+1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel
+1. Add all participants to the live event calendar invites 
+1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
+1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session

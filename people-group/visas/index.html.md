@@ -102,14 +102,17 @@ It is possible to make an appointment within 2 weeks.
 
 ### Right to Immigrate to the Netherlands
 
-Everyone that meets the following three requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
+Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
 
-- When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
+1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
 _Note: This calculation should be based on what GitLab *would* pay the team member in the Netherlands in accordance with the compensation calculator, *not* based on the team member's current salary._ 
-- You have been a team member at GitLab for one year.
-- You are not on a Performance Improvement Plan (PIP).
+1. You have been a team member at GitLab for one year.
+1. You are not on a Performance Improvement Plan (PIP).
+
+Tenure of less than 1 year at GitLab may be possibly waived as a requirement if:
+  - You are a member of a(n [underrepresented](https://about.gitlab.com/company/culture/inclusion/#definitions)) group that is unsafe or in any way mistreated in your country. 
+  - Violence in your country does not provide a safe environment. 
 
 If you meet these requirements, kindly read our [Relocation](https://about.gitlab.com/handbook/people-group/relocation/) handbook page, as well as our specific [Netherlands section](/handbook/people-group/relocation/#relocating-to-the-netherlands), to ensure that your request is evaluated and approved following our protocols. **Please email peopleops@ gitlab.com if you have any questions.**
-If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.
 
-
+If you do not meet one or more of the above requirements, please file a request with your manager and indicate clearly which requirements you meet and which ones you do not meet. All situations will be reviewed on a case by case basis. If you receive full manager approval, please forward that approval to peopleops @gitlab.com at the start of the process. **Manager approval to proceed does not ensure that you will be approved to relocate and immigrate.**

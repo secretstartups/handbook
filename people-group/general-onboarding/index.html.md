@@ -28,7 +28,8 @@ Through onboarding issues, you should gain access to our team member [baseline e
 
 In certain instances, the People Experience team may not be able to assist with onboardings due to a national holiday or Family and Friends Day. These specific dates are documented in the People Experience team [Handbook page](https://about.gitlab.com/handbook/people-group/people-experience-team/#people-experience-team-availability).
 
-## Ta-New-Ki Welcome Call (Pre-Onboarding)
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> TaNewKi Welcome Call
+{: #tanuki-orange}
 
 The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki call (a play on the abstract Tanuki i.e. Japanese raccoon dog you will find in our logo).  The purpose of this call, which is hosted in Zoom, is to give soon to onboard team members the chance to meet / socialise and to provide an opportunity to ask any lingering questions ahead of their start date.  Internally we refer to this as an AMA (Ask Me Anything) call. **This call is open to all current team members, hiring managers.**
 
@@ -58,7 +59,7 @@ General Topics Coveraged
 1. Add the new team members emails to the BCC line and CC the People Experience Team.
 1. The People Experience Team can check who will be attending the call by looking at the Google Form.
 1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected.
-1. The People Experience Team will also add the team members to the google calendar invite.
+
 
 ## Onboarding Check-In Call
 All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time.
@@ -70,7 +71,7 @@ This call is available for new team members to ask questions about onboarding, b
 By default, all new team members are added to the below Slack channels from day 1 to ensure that they are able to ask any questions or for assistance in the correct channels upfront:
 
 - #new_team_members (go say hi and introduce yourself)
-- #peopleops (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
+- #people-connect (anything relating to People Operations such as onboarding, GitLab Unfiltered channel, etc)
 - #diversity_inclusion_and_belonging (connect with other team members to find out more about what we do in Diversity, Inclusion and Belonging)
 - #it_help (any IT related support needed, such as issues with laptop, 1Password, Okta, JAMF, etc)
 - #expense-reporting-inquiries (need some info on your expenses, what can be expensed, approving expenses, etc)
@@ -84,9 +85,9 @@ By default, all new team members are added to the below Slack channels from day 
 
 ## Managers of New Team Members
 
-An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#peopleops` Slack channel.
+An issue is created for new team members at least 4 business days prior to their start date. The Manager and a People Experience Associate will be assigned to this issue. **Managers, People Experience and IT Ops** all have tasks that need to be completed **prior to the start date** to ensure a smooth and successful onboarding process. For questions or help with any of these tasks feel free to reach out in the issue by mentioning `@people-exp` or adding a question in the `#people-connect` Slack channel.
 
-## Compliance
+### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Compliance
 
 The [People Experience Associate](https://about.gitlab.com/job-families/people-ops/people-experience-associate/) completes a monthly audit of all open onboarding issues to ensure that the new team member, manager and People Experience team tasks are completed. More importantly, there are certain tasks which need to be completed  in line with our company compliance (security, payroll, etc).
 
@@ -96,7 +97,7 @@ If any tasks are still outstanding, the People Experience Associate will ping th
 
 The employment bot will automatically close any onboarding issues still open after 60 days.
 
-## Completing Onboarding Issue
+### <i class="fas fa-tasks fa-fw color-orange font-awesome"></i>Completing Onboarding Issue
 
 First of all, what is an issue? You can learn more about what an issue is [here](https://docs.gitlab.com/ee/user/project/issues/). 
 
@@ -112,7 +113,8 @@ These templates are used by the People Experience team to onboard new team membe
 - [All GitLab team-members](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Intern](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_intern_engineering.md)
 
-#### Role Specific Templates
+#### <i class="fas fa-suitcase fa-fw color-orange font-awesome"></i>Role Specific Templates
+
 These are added to the "All Team Member" Template
 
 - [People Managers](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/people_manager.md)
@@ -155,7 +157,7 @@ These are added to the "All Team Member" Template
 - [Ireland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_ireland.md)
 - [Japan](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/before_starting_japan.md)
 - [Netherlands](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_netherlands.md)
-- [New Zeland](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
+- [New Zealand](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_new_zealand.md)
 - [Nigeria](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_nigeria.md)
 - [South Africa](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_south_africa.md)
 - [United Kingdom](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding_tasks/country_united_kingdom.md)

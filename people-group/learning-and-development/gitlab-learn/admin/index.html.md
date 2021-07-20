@@ -135,7 +135,7 @@ This video outlines the three scenarios for building public versus private conte
 
 ##### Building content with both `public` and `private` elements
 
-Option 3: If parts of the content are for a certain audience and parts are available to all learners
+If parts of the content are for a certain audience and parts are available to all learners
 
 1. Create a Pathway and confirm the `private` content checkbox is checked
 1. Create `private` content in SmartCards in a Pathway
@@ -321,6 +321,21 @@ Content can be shared either using the `Share` or `Restrict` options. The key di
 | `Share` | User gets a notification about content | The content creator wants the user to know about new learning they can take or they are required to take |
 | `Restrict` | User does not get a notification about content | The content creator wants to provide access to learners, but does not want to trigger a notification or plans to share in a different way, like a Slack announcement |
 
+
+#### Assigning Content
+
+If a course is required by specific users to complete, it's best pracitce to assign that learning to the user. Below are some important considerations to make when assigning content
+
+1. Learning Evangeslists, Content Administrators, and Platform Administrators in GitLab Learn can make learning assignments. Navigate to the SmartCard, Pathway, or Journey you want to assign and click the 3 dots on the top right corner of the card. Here you have the option to `Assign`. You can assign to individuals, groups, or channels. Assigning to the `GitLab Internal Team Members` group is the most common use case for required GitLab trainings.
+1. When learning is assigned, users get an email notification to alert them about the newly assigned item
+1. When making an assignment, you can add a message. This message appears in the email subject line of the assignment notification email
+1. You can also add a start and due date to the assignment. 
+1. Notifications about the upcoming due dates on assigned content are pushed to users 6 days before, 2 days before, and on the due date of the assignment
+1. When assinging content, consider the following
+     1. Is it absolutely required by the learner? If not, use the `Share` method instead of making an assignment
+     1. Assign content during the work week, during a time where as many team members as possible will see the assignment email and/or Slack announcements about the newly assigned contnet
+
+
 #### Using groups
 
 Groups are best utilized to organize learners around a specific quality. Examples include role and team. Consider these best practices when creating a group:
@@ -491,6 +506,7 @@ Project SmartCards are used to collect URL project submissions from users. Use c
 1. Choose the `Content Type` to indicate what kind of project will be submitted. `Other` is an option if your project doesn't fit one of the offered project types
 1. Click `Create` to save your SmartCard.
 1. It's important to note that as the **author** you will not see the option to submit a project. You can test out the user view by asking a team member to look at the card. You can see the behavior of project cards from the non-author perspective in the [training video](https://youtu.be/lM-bxY8wN9U) displayed above.
+1. Project cards are not marked as `complete` until the submission is graded. Using the Lock and Leap function in combination with Project Cards will hault the user at the incomplete Project Card until their submission is graded.
 
 
 #### Using iframes and the Rich Text Editor (RTE) EdCast feature

@@ -14,17 +14,17 @@ description: “Discover GitLab Learn, a Learning Experience Platform for the Gi
 
 ## What is EdCast?
 
-GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
+GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we believe [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
 
-You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/)
+You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/).
 
-Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
+Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/). 
 
-Administrators can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
+Administrators can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/).
 
 ### What is a LXP?
 
-A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (Ux).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
+A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (UX).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
 
 ## GitLab's Long Term Strategic Vision for the LXP
 
@@ -45,7 +45,7 @@ Review the following terms to get familiar with language used in this documentat
 | Term | Definition |
 | ----- | ----- |
 | EdCast | The vendor we're collaborating with to create GitLab Learn. |
-| GitLab Learn | GitLab's EdCast instance |
+| GitLab Learn | The GitLab EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
 ## Content Roadmap
@@ -60,9 +60,9 @@ Future learning content coming to GitLab Learn:
 1. Psychological safety, bias for asynchronous communication, and more training to reinforce GitLab values
 
 
-## What will GitLab Learn do for the GitLab community
+## What will GitLab Learn do for the GitLab community?
 
-GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
+GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook- first continuous learning. GitLab Learn will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
 - **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
@@ -98,7 +98,7 @@ The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handboo
 
 ## Governance
 
-[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
+[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles and responsibilities outlined below.
 
 Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
@@ -367,7 +367,7 @@ Content Adminitrators and Learning Evangelists might request support from the `P
 | Like content | Off |
 | Bookmark content | Off |
 | Mark as complete | Off |
-| Assign content | Off |
+| Assign content | On |
 | Dismiss content | Off |
 | Dismiss assignment | Off |
 | Add to pathway | On |

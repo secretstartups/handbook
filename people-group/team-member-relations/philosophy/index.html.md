@@ -41,11 +41,11 @@ The team member relations function provides all GitLab team members an avenue to
 
 Team member relations provides guidance to managers in their efforts to improve team member performance or to correct unacceptable personal behaviors.  Managers are responsible for setting priorities and motivating their team members.  They are also responsible for ensuring the care of their team members as well as meeting GitLab's goals.  These two things can be done simultaneously.  As managers it is considered one of your primary responsibilities to understand GitLab's [Code of Conduct](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/), [Values](https://about.gitlab.com/handbook/values/) and [People Group](https://about.gitlab.com/handbook/people-group/) policies and processes.  People managers are responsible for upholding compliance on the their teams and considering the best interest of the business.  If a manager is made aware of a situation that potentially runs afoul of the Code of Conduct, Values and People Group processes or policy they should immediately reach out to the [team member relations specialist](https://about.gitlab.com/handbook/people-group/#team-member-relations-specialist).  If uncertain about a specific policy or procedure, the manager should reach out to a leader, their [aligned PBP](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) or the Team member relation specialist for further clarification.  When in doubt, it is always best to ask.  
 
-### Team Member Performance Improvement Management Guiding Principles
+## Team Member Performance Improvement Management Guiding Principles
 
 A critical responsibility within the role of a GitLab leader is to spend the time required to truly understand the causes of the performance issue and how to address them properly.  GitLab managers will determine if the performance concerns are skill-based or behavior (will)-based to determine next steps.  Below are the definitions of both skill- and will-based performance concerns. 
 
-## Skill-based performance management
+### Skill-based performance management
 
 - Team member lacks the technical knowledge or capability to be successful in the role
 - Team member is unable to prioritize work effectively
@@ -62,7 +62,7 @@ The following are a few recommendations for a manager to address skill-based per
 
 If the team member is still not making progress after the manager has provided additional resources or coaching please review the [underperformance page in the handbook](https://about.gitlab.com/handbook/leadership/underperformance/) for next steps. 
 
-## Will-based performance management
+### Will-based performance management
 Will-based issues are described as undesirable behavior that impedes the success of the Team Member, the Team, and/or GitLab as a whole.  The leader may hear about the behaviors from others or experience the undesirable behavior directly.   It is important that the manager address the concerns right away.  While "will" issues can be disruptive, there are different levels of severity which must be considered when determining next steps.  The tiers below are examples and are not exhaustive, and should be used for comparision purposes to determine the impact to GitLab.
 
 **Tier 2** - Misconduct resulting in limited material risk to GitLab

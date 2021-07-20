@@ -181,7 +181,7 @@ Knowing how to search for a GitLab issue can be very helpful, especially if you 
 1. In the top right click on the search bar
 1. Type in text you want to search for and hit enter
 1. On the next screen, select the group the issue is in that you are searching for. In this instance the group is `people-group`
-1. Then, select the project the issue is in that you are searching for. In this instance the group is `gitlab-tool-training`
+1. Then, select the project the issue is in that you are searching for. In this instance the project is `gitlab-tool-training`
 1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project. 
 
 This [docs resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
