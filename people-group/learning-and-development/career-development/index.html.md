@@ -115,6 +115,16 @@ Steps:
 
 ADD IGP VIDEO
 
+#### Tracking your Accomplishments 
+
+Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
+
+[Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
+
+##### Using your Accomplishment Tracker
+
+ADD accomplishment tracker VIDEO
+
 ### External Resources some with no cost
 
 - [Stanford's Centre for Professional Development](http://scpd.stanford.edu/home)
