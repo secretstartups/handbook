@@ -131,6 +131,9 @@ There are three layers of content in a presentation:
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
 
+##### Sharing Metrics
+We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and do not give us an accurate picture of performance. It is more appropriate to share cumulative metrics externally. 
+
 ##### Examples of good presentations
 
 - [Strategic Marketing Group Conversation 2020-01-22](https://docs.google.com/presentation/d/1xSxP_AztHHtLcYFd12Mf5yUIMVy9BU6QZnSebrlO7oo/edit): This has lots of links and a [supporting YouTube presentation](https://www.youtube.com/watch?v=2RfNsIJ7lPM).
