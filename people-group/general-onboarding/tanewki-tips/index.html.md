@@ -1,11 +1,14 @@
---
+---
 layout: handbook-page-toc
 title: "TaNewKi Tips"
-description: "Pre-Onboarding Information for our Ta"New"Ki team members"
+description: "A Guide for new team members."
 ---
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc}
 
 ## TaNewKi Tips
 
