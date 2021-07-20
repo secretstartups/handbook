@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Category Creation Initiative"
+title: "Category Creation Working Group"
 description: "The business goal of GitLab category creation initiative is to solidify GitLab's 'The DevOps Platform’ messaging"
 canonical_path: "/company/team/structure/working-groups/category-creation/"
 ---
