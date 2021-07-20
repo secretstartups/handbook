@@ -276,8 +276,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 ### Mid-Market First Order
 
-| Sub-Region | Area | **Territory Name** | Sales | 
-| ---------- | ---- | -------------- | ----- | 
+| Sub-Region | Area | **Territory Name** | Sales | FMM |
+| ---------- | ---- | -------------- | ----- | ----- | 
 |	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rachel Hill |
 |	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	| Rachel Hill |
