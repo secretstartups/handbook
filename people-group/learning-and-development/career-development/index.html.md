@@ -100,12 +100,18 @@ We recommend that, at any given time, each [team](/company/team/structure/#team-
 
 The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
 
+Maybe you aren't sure where to start or you are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
+
 Steps: 
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 1. Make a copy of the template
-1. Start filling in the template 
+1. Fill out the template 
+1. Submit your IGP to your profile on BambooHR 
 1. Review with your manager 
+1. Check the box in BambooHR that you have reviewed with your manager 
 1. Start working towards your goals! 
+
+##### Using your IGP
 
 ADD IGP VIDEO
 
