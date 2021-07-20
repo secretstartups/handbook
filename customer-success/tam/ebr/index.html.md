@@ -37,20 +37,20 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 >
 > As our partnership continues to grow, I would like to schedule an Executive Business Review between Acme stakeholders and the GitLab team.
 >
-> This is an opportunity to showcase the growth of GitLab within Acme and the value it has provided your users over the last year. We will also spend time aligning on goals and how we can partner together for success over the next year.  
+> This is an opportunity to showcase the growth of GitLab within Acme and the value our partnership has provided your users over the last year, as well as dedicate time to aligning on goals for your continued success.
 >
->Proposed agenda:
+> Proposed agenda:
 >
 > 1. Introductions
 > 1. GitLab Overview
 > 1. Growth, Objectives, and Goals
 > 1. Product & Usage Insights
-> 1. Product Overview - (area of your choosing)
+> 1. Product Overview (area of your choosing)
 > 1. Next Steps
 >
->When would be a good date and time for you and your stakeholders for this meeting? We'd prefer to have an hour and a half if possible, but we understand your schedules are busy, so we're open to any open availability you have.
+> Are you available the first week of July? EBRs typically last between 60-90 minutes, but we're flexible to your schedule.
 >
->Please let me know if you have any questions!
+> Please let me know if you have any questions!
 
 ### EBRs in Gainsight
 
