@@ -96,6 +96,18 @@ Once you've agreed upon the internship goals, both managers should inform their 
 
 We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.
 
+#### Individual Growth Plan 
+
+The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
+
+Steps: 
+1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
+1. Make a copy of the template
+1. Start filling in the template 
+1. Review with your manager 
+1. Start working towards your goals! 
+
+ADD IGP VIDEO
 
 ### External Resources some with no cost
 
