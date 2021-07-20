@@ -84,7 +84,7 @@ Communicate broadly when you will be away so other people can manage time effici
         1. "Name of covering team member" - also useful for your manager to quickly know who is covering which projects or customers for you.
         1. "Attendance in calls/zoom sessions required while on PTO" - Teammates can already start to plan and free up time in their calendar for specified dates/times.
         1. "High Priority Topics" - List of topics and/or links to issues which are most relevant while you are on PTO.
-     * "Comments by covering team member" - Very useful to asynchronously get up2date quickly, when you return from your PTO.
+        1. "Comments by covering team member" - Very useful to asynchronously get updates quickly when you return from your PTO.
      * Optional: Use color codes (e.green, red), to let others easily & quickly identify most important entries. 
 1. Please see the [On-Call](/handbook/on-call/) page for information on how to handle scheduled leave for someone from the On-Call team.
 1. If you are a people manager, please complete the following:
