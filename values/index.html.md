@@ -135,6 +135,10 @@ Give recognition generously, in the open, and often to [generate more engagement
 We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
 So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
+##### Reach across company departments
+{:.no_toc}
+While it's wise to seek advice from experts within your function, we encourage GitLab team members to seek and provide feedback across departments. This enables the team to iterate more quickly, taking a more diverse perspective into account.
+
 ##### Don't pull rank
 {:.no_toc}
 If you have to remind someone of the position you have in the company, you're doing something wrong.
@@ -603,10 +607,6 @@ Microaggressions are much more than merely rude or insensitive comments. They ca
 > "The everyday slights, indignities, put downs and insults that people of color, women, LGBT populations or those who are marginalized experiences in their day-to-day interactions with people." -  Derald W. Sue
 
 At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
-
-##### Reach across company departments
-{:.no_toc}
-While it's wise to seek advice from experts within your function, we encourage GitLab team members to seek and provide feedback across departments. This enables the team to iterate more quickly, taking a more diverse perspective into account.
 
 ##### Make family feel welcome
 {:.no_toc}
