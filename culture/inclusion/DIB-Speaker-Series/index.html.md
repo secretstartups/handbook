@@ -11,10 +11,22 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor](https://gitlab.com/groups/gitlab-com/people-group/dib-diversity-inclusion-and-belonging/-/epics/19)** - [Calendar link EMEA/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NXJvNHFrZG1zZ2IycDMwaTZidTdrMzI1dXAgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) [Calendar link APAC/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHZvZWh1amN0djdqcDZqbDkwY2FzZTE4dWggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
-
+- **To be announced**
 
 ### Past Speakers and Events 
+
+- **July 19th - Neurodiversity in the Workplace with Sophie Longley** 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KJwIDoxQeSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+
+- **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor]
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/r2o2im4Gvog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 - **May 19th 2021** Gitlab Fireside chat with Shaun Christie-David - Social Entrepreneur and CEO of Plateitforward
 
