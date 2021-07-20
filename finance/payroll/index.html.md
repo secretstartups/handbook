@@ -217,7 +217,7 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 
 ### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand, Japan, France & South Korea Monthly Payroll Process
 
-1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. 
+1. The due date for the current month payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
 1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
 1. Payroll will gather all changes, along with any commissions, salary changes & expenses (only UK & Canada) and enter onto a password protected file.
 1. Payroll sends the payroll changes file to the local payroll providers.
