@@ -67,7 +67,7 @@ Internal Comms support is only available in highly sensitive situations because 
 
 ### Handbook/Website update affecting team members
 
-If a change in a merge request directly impacts more than 75% of global team members, it should be a candidate for an announcement in the `#company-fyi` Slack channel. In that case, the author or the author's team should work with the internal comms team on a message that is high signal and visible. 
+If a change in a merge request directly impacts majority of global team members, it should be a candidate for an announcement in the `#company-fyi` Slack channel. In that case, the author or the author's team should work with the internal comms team on a message that is high signal and visible. 
 
 Examples for changes:
 
