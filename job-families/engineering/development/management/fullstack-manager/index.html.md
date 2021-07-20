@@ -53,7 +53,7 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
   [Backend](/job-families/engineering/development/backend/senior/), 
   or [Fullstack](/job-families/engineering/development/fullstack/#job-grade) Engineer
 * Fullstack Engineering Manager 
-* [Senior Manager, Engineering](/job-families/engineering/development/management/senior-manager/)
+* [Senior Engineering Manager](/job-families/engineering/development/management/senior-manager/)
 
 
 ## Performance Indicators
