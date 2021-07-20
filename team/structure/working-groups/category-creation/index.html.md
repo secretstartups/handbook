@@ -17,7 +17,7 @@ canonical_path: "/company/team/structure/working-groups/category-creation/"
 |--------------|-------|
 | Date Created | 2021-07-20 |
 | Estimated Date Ended   | 2021-10-31 |
-| Slack        | [#wg-category-creation](https://join.slack.com/share/zt-td651m10-~NhtsvAitQxDRmB~55cN4g) (only accessible from within the company) |
+| Slack        | [#wg-category-creation](https://app.slack.com/client/T02592416/C028G84V26S/thread/D012QPR06GP-1615593523.027100) (only accessible from within the company) |
 | Google Doc   | tbd |
 
 
