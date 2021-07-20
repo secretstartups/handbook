@@ -43,7 +43,6 @@ managing Zendesk via the various GitLab projects, please review
 | 8 | [Open Partner](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000818199) | 360000818199 | Public | Support |
 | 9 | [Select Partner](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360000837100) | 360000837100 | Public | Support |
 | 10 | [Alliance Partners](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001172559) | 360001172559 | Public | Support |
-| 11 | [Manager Feedback](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001853100) | 360001853100 | Public | Support Managers |
 | 12 | [Support Ops](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001801419) | 360001801419 | Public | Support Ops |
 | 13 | [JiHu](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001477519) | 360001477519 | Public | Support |
 | 14 | [China Comms Response](https://gitlab.zendesk.com/agent/admin/ticket_forms/edit/360001535259) | 360001535259 | Public | Support |
