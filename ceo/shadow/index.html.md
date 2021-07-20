@@ -210,7 +210,13 @@ Exceptional community members may be able to participate, as well.
 | 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | AVAILABLE - REMOTE |
 | 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | [Chris Hill](https://gitlab.com/chillosu) |
 | 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-
+| 2021-11-01| 2021-11-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-08| 2021-11-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-15| 2021-11-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-22| 2021-11-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-29| 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
+| 2021-12-06| 2021-12-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-12-13| 2021-12-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
