@@ -11,10 +11,16 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **July 19th Fireside and Q&A with [Sophie Longley](https://www.linkedin.com/in/sophie-longley/)** - [Calendar link APAC/US](https://calendar.google.com/event?action=TEMPLATE&tmeid=NDlsOGFiN2kydGlmZHFsbGVtNTFiMWdidmMgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) [Calendar link APAC/EMEA](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnBvYXNyZ3RsdG4xbTgzb20yZG4yMjE4MjggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
-
+- **To be announced**
 
 ### Past Speakers and Events 
+
+- **July 19th - Neurodiversity in the Workplace with Sophie Longley** 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KJwIDoxQeSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 
 - **June 17th Fireside and Q&A with [Joy Gharoro-Akpotojor]
 
