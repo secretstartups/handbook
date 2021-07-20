@@ -426,7 +426,7 @@ The possible tier labels to be applied are:
 
 ### Prompt for Type labels on issues
 
-[Type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) should be applied to classify the issue. This policy prompts the author of the issue within the first week, if the author is a `gitlab-org` group member to ask for the relevant type label to be applied
+[Type labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) are applied to issues to increase the visibility and discoverability during team issue refinement. This policy applies to `gitlab-org` team member created issues and prompts the author to apply a type label to the issue within the first week.
 
 The requirement for the type label is so that the issue will be indexed by [group triage report]('handbook/engineering/quality/triage-operations/#group-level-bugs-features-and-ux-debt') and added to the correct section.
 
