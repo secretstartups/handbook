@@ -34,14 +34,6 @@ Informal communication is important, as it enables friendships to form at work r
 
 For all-remote companies, leaders should not expect informal communication to happen naturally. There are no hallways for team members to cross paths in, no carpools to the office, etc. 
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Ajkw2-neqPU" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-In the [video](https://youtu.be/Ajkw2-neqPU) above, GitLab co-founder and CEO Sid Sijbrandij discusses informal communication within an all-remote company with Vlad Lokshin, co-founder and CEO at [Turtle](https://www.turtle.dev/).
-
 > If you do all-remote, do it early, do it completely, and change your work methods to accommodate it. Be intentional about informal communication. All-remote forces you to do the things you should be doing anyway, earlier. - *GitLab co-founder and CEO Sid Sijbrandij*
 
 In an all-remote environment, informal communication should be formally addressed. Leaders should organize informal communication, and to whatever degree possible, design an atmosphere where team members all over the globe feel comfortable reaching out to anyone to converse about topics unrelated to work. 
