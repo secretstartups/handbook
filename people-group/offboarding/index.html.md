@@ -18,7 +18,7 @@ The process to be followed will be guided by the nature of the offboarding at ha
 
 ## Starting the Process
 
-Offboarding officially commences once an [Offboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) has been created by the People Experience Team.  This action is triggered by the submission of an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) by the People Business Partner (PBP) responsible for overseeing the division in which the departing team member is based.
+Offboarding officially commences once an [Offboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) has been created by the People Experience Team.  This action is triggered by the submission of an [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform) by the People Business Partner (PBP) responsible for overseeing the division in which the departing team member is based.
 
 The form includes the following fields all of which will guide the People Experience Team in terms of when the process should commence and whether any factors unique to the offboarding in question should be kept in mind e.g. Garden Leave or Day to Turn Off Access.
 
@@ -118,7 +118,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regionl time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
+1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regionl time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
 
 
 ### Exit Survey
@@ -143,7 +143,7 @@ The GitLab [code of conduct](https://about.gitlab.com/community/contribute/code-
 
 ## Involuntary Offboarding
 
-Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
+Involuntary offboarding of any team member is never easy. We've created some guidelines and information to make this process as humane as we can. Beyond the points outlined below, make sure to refer to our guidelines on [underperformance](/handbook/leadership/underperformance), as well as the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md).
 
 If the need for Involuntary offboarding arises, the process is as indicated below:
 
@@ -184,7 +184,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Informing the team and answering questions should be the top priority.
       * No announcement should be made in the `#team-member-updates` Slack channel until the team call has been completed.
       * In most cases, a team call can occur the same day of the offboarding. If necessary, the offboarding can be announced in the `#team-member-updates` Slack channel the following day.
-1. ***TMR/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
+1. ***TMR/Manager***: Decide what offboarding actions need to be taken _before_ the call (e.g. revoke admin permissions), or _during_ the call (e.g. revoke Slack and Gmail access), and which ones can wait until later. You can reference the [offboarding issue template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/offboarding.md) for the full list of actions. This conversation should take place in the private Slack channel with PBP, Manager and Leader.
 1. ***TMR***: If the team member is a risk to the production environment, the TMR should privately reach out to the `Infrastructure Managers` to determine who will be available to assist with the offboarding. Once an infrastructure team member has been identified, they should be added to the private calendar invite sent to People Experience, Security, and Payroll to hold the time for the team member offboarding. Once the offboarding conversation starts the TMR will privately Slack the infrastructure contact the name of the team member to start the offboarding process.
 
 When on the call...
@@ -296,7 +296,7 @@ _To be documented_
 
 ## Communicating Departures Company-Wide
 
-As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
+As explained briefly in the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/offboarding.md), GitLab does not provide any context around why people are leaving when they do.
 However as mentioned in the procedures, for [voluntary offboarding](/handbook/people-group/offboarding/#voluntary-offboarding), the team member can work with their manager on sharing a company-wide message about their departure. 
 
 Once the news has been shared with the team member’s team and other stakeholders, and messaging is agreed upon between the departing team members and their manager, the departing team member’s manager shares the following message company-wide about the team member’s upcoming departure in the `#team-member-updates` Slack channel. 
@@ -403,7 +403,7 @@ Should a new hire be onboarded by the People Experience team, but:
 
 This is not seen as a true offboarding, but there are still relevant steps to take.
 
-1. The People Experience Associate will manually create a skeletal [offboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/offboarding.md) and only include deprovisioning tasks that are applicable to the access that was given up to that point.
+1. The People Experience Associate will manually create a skeletal [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) and only include deprovisioning tasks that are applicable to the access that was given up to that point.
 1. The People Experience Associate will inform the [team member with ownership rights](https://about.gitlab.com/job-families/people-ops/people-operations/#director-global-people-operations) of BambooHR to delete the team members' BambooHR profile entirely by messaging them in the private People Ops Slack channel.
 
 ## PEO Offboarding Guidelines

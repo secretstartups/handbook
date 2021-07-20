@@ -146,7 +146,7 @@ Our team members are expected to update their BambooHR profile on their first da
 
 ## Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
 
 Every day we run 3 scheduled pipelines. They are each set up for a specific region:
 
@@ -170,7 +170,7 @@ This data is used to populate the email that we then send to them. The email add
 
 ## Swag Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
 member means:
