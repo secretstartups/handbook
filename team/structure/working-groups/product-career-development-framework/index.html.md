@@ -28,7 +28,7 @@ description: "Learn more about the Product Career Development Framework Working 
 
 ## Business Goals
 
-1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles to Group Manager of Product based on competencies by 2021-09-30. 
+1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles to Group Manager of Product based on new competencies by 2021-09-30. 
 1. Conduct AMAs and training with Product Organization on new CDFs for use in FY22-Q4 Career Conversations. 
 
 ### Protocols and Processes
@@ -55,20 +55,13 @@ description: "Learn more about the Product Career Development Framework Working 
 | Facilitator           | Jackie Porter | Group Manager, Product |
 | Contributor           | Farnoosh Seifoddini | Principal PM, Product Operations|
 | Contributor           | Kenny Johnston  |  Senior Director of Product, Ops  |
-| Functional Lead       |  Hila Qu |  Director of Product, Growth |
-| Functional Lead       |  Joshua Lambert | Director of Product, Enablement |
+| Functional Lead       | Hila Qu |  Director of Product, Growth |
+| Functional Lead       | Joshua Lambert | Director of Product, Enablement |
 | Functional Lead       | David DeSanto  | Senior Director of Product, Dev & Sec |
-| Functional Lead       |   |   |
-| Functional Lead       |   |   |
-
-## Working Groups
-
-| Working Group    | Person                | Title                          |
-|-----------------------|-----------------------|--------------------------------|
-| Reviewer          | Gabe Weaver | Senior Product Manager |
-| Reviewer          | | |
-| Reviewer          | | |
-| Reviewer          | | |
+| Reviewer              | Gabe Weaver | Senior Product Manager |
+| Reviewer              | Sam Kerr | Principal PM|
+| Reviewer              | Michael Karampalas | Principal PM |
+| Reviewer              | Taylor McCaslin | Principal PM, Secure|
 
 ## Meetings
 
