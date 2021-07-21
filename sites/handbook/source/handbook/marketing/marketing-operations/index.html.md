@@ -497,3 +497,22 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
 | Web Portal Purchase | (Temporary, to be merged by RingLead) Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
+
+## Data Cleanliness and Accuracy Process
+
+Marketing Operations has under its belt the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
+
+The cleaning part of this process is currently being done using our lead/contact deduplication tool, Ringlead. The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
+
+This cleaning & enrichment process has 4 main priorities:  
+
+1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
+2. **Enrich net new leads with Form Complete**  - Currently live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
+3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads coming from form submits are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. You can find more details on the [Zoominfo Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
+4. **Assure Data Cleanliness & Accuracy** - Lead & Contact Deduplication splits naturally in three main parts: 
+	* Lead to Lead Deduplication 
+	* Contact to Contact Deduplication
+	* Lead to Contact Deduplication (Aiming to have it live in Q3)
+
+**Cleaning & Enrichment Frequency:** While the email verification & enrichment jobs for net new leads, from our forms, work on a continuous bases, a full refresh, enrichment of our entire existing database of leads/contacts and the merging of duplicate leads in our database **is done on a quarterly basis**. 
+
