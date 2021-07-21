@@ -66,7 +66,7 @@ The Growth sub-department uses the `~"devops::growth"` label and the following g
 departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Intelligence']
 department_regexp = /(#{Regexp.union(departments)})/
 
-direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth and Fulfillment')
+direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth, Fulfillment, and Applied ML')
 %>
 
 ## All Team Members
@@ -116,9 +116,9 @@ The following members of other functional teams are our stable counterparts:
 
 <%=
 role_regexp = /[,&] (Growth|Product Intelligence)/
-direct_manager_role = 'Director of Engineering, Growth and Fulfillment'
+direct_manager_role = 'Director of Engineering, Growth, Fulfillment, and Applied ML'
 other_manager_roles = [
-  'Acting Fullstack Engineering Manager, Product Intelligence',
+  'Interim Fullstack Engineering Manager, Product Intelligence',
   'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
