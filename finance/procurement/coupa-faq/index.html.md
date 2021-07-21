@@ -62,7 +62,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 ### How long does it take to register for the CSP?
 
-- The registration process takes less than 5 minutes upon receiving the invitation email. Suppliers can expect to receive an invitation email from GitLab on May 28th 2021.
+- The registration process takes less than 5 minutes upon receiving the invitation email. Suppliers can expect to receive an invitation email from GitLab starting May 28th 2021.
 
 ### Do suppliers need additional software to use the CSP?
 
@@ -84,12 +84,17 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 - Here are some useful links with information on the Coupa Supplier Portal: 
    - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal) 
-   - [https://www.coupa.com/suppliers/#faq](https://www.coupa.com/suppliers/#faq) 
-   - [https://www.coupa.com/suppliers/#faq](https://supplier.coupa.com/help/)
+   - [https://www.supplier.coupa.com/help](https://supplier.coupa.com/help/)
+   
+- Chat with Coupa Support
+   - Whether you are logged into Coupa Supplier Portal, you can chat with Coupa Support to get a quick response or resolution to your question/issue (see below screenshot).
+   - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
+
+   ![coupa-image-1](/handbook/finance/procurement/coupa-faq/Coupa Support Chat.png) 
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
-- GitLab will send the supplier links on how to register on the Coupa Supplier Portal and they will be provided with an invitation to join CSP in May, 2021. Suppliers must set up an CSP account and linking with GitLab Coupa system will be done automatically.
+- GitLab will send the supplier links on how to register on the Coupa Supplier Portal and they will be provided with an invitation to join CSP starting May 2021. Suppliers must set up an CSP account and linking with GitLab Coupa system will be done automatically.
 
 ### Does SAN option connect to the CSP and can suppliers have both?
 
