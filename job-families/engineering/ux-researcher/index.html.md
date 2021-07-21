@@ -183,12 +183,7 @@ The Principal UX Researcher is a [grade 9.5](/handbook/total-rewards/compensatio
 
 - Lead and mentor other Researchers.
 
-
-## Performance indicators
-
-* [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability)
-
-* [Proactive vs Reactive UX Work](/handbook/engineering/ux/performance-indicators/#ratio-of-proactive-vs-reactive-ux-work)
+- **Impact:** Provide positive influence on [Perception of System Usability](/handbook/engineering/ux/performance-indicators/#perception-of-system-usability) through deeper understanding of the "why" behind usability complaints and [UX Research Velocity](/handbook/engineering/ux/performance-indicators/#ux-research-velocity) through guidance that enables other functions (like Product Management and Product Design) to conduct their own research.
 
 ## Career Ladder
 
