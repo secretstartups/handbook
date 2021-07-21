@@ -217,7 +217,7 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 1.  Why is Trade Compliance (Export / Import) important
     1. Not complying could be detrimental to the United States and other countries GitLab operates in
 	1. IT’S THE LAW!
-	1. Not complying could result in fines or penalties for GitLab and/or GitLabbers
+	1. Not complying could result in fines or penalties for GitLab and/or GitLab team members
 	1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
 1. For more information see the [Trade Compliance ](/handbook/business-ops/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
