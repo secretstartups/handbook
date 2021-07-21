@@ -1007,7 +1007,7 @@ Be transparent to the right people (up) at the right time (when still actionable
 {:.no_toc}
 We practice transparency even when hiding the facts would be easier. For example, many companies do not give you the real reason why they declined your application because it increases the chance of legal action. We want to only reject people for the right reasons and we want to give them the opportunity to grow by getting this feedback. Therefore, we'll accept the increased risk of holding ourselves to a high standard of making decisions and do the right thing by telling them what we thought. Other examples are being transparent about [security incidents](http://disq.us/p/1r9gceh) and participating in and contributing to Live Broadcasts.
 
-Transparency has costs (distraction, mis-interpretation, etc.) but also great benefits, we should carefully weight the tradeoff evaluating transparency to prevent a knee-jerk reaction to reduce it when it has costs. 
+Transparency has costs (distraction, mis-interpretation, etc.) but also great benefits (productivity, hiring, retention, brand awareness, etc). Team members can view more details on these benefits by referencing the "Transparency Benefit Quantification" slides in Google Drive). We should carefully weigh the tradeoff between costs and benefits, to prevent a knee-jerk reaction to reduce transparency when it has costs. 
 
 ##### Single Source of Truth
 {:.no_toc}
