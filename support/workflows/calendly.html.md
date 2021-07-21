@@ -90,15 +90,98 @@ your message to the customer.
 
 ![Browser plug-in](assets/calendly.png)
 
-If you do not want to use a supported browser, you can generate a link to the Team Event using this curl command. Replace the
-`<your Calendly API token>` placeholder with a token you can get
-from [the Calendly Integrations page](https://calendly.com/integrations).
+If you do not want to use a supported browser, you can generate a link from your Calendly home page according to [the Calendly documenation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
 
-```
-curl -v  --header "X-TOKEN: <your Calendly API token>" --data "event_type_uuid=CEGFRWO2Q6R7SAQE" https://calendly.com/api/apps/extension/v1/users/me/event_type_single_use_links
+Alternatively, you can generate a link to the Team Event using these curl or httpie commands. Replace the
+`<your Calendly API token>` placeholder with an API v2 token you can get
+from here: [https://calendly.com/integrations/api_webhooks](https://calendly.com/integrations/api_webhooks).
+
+#### using curl
+
+Set your Calendly API token:
+
+```plaintext
+t=<your Calendly API token>
 ```
 
-Additionally, you can generate a link from your Calendly home page according to [the Calendly documenation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
+Get your personal URI:
+
+```plaintext
+uri=$(curl -s -H "Authorization: Bearer $t" \
+  https://api.calendly.com/users/me | jq -r '.resource.uri')
+```
+
+List your available events:
+
+```plaintext
+curl -sG -H "Authorization: Bearer $t" \
+  -d user=$uri \  
+  "https://api.calendly.com/event_types" \           
+  | jq -r '.collection[]|select(.active == true)|([.name,.uri] | join(","))' \
+  | column -s',' -t -d
+```
+
+This will generate a table such as this:
+
+```plaintext
+15 Minute Meeting                   https://api.calendly.com/event_types/DGFGYBLAHK4CNXJF
+30 Minute Coffee Call               https://api.calendly.com/event_types/DEBLAHWQSO3GGUES
+GitLab Federal Customer Call        https://api.calendly.com/event_types/DADPABBLAHWZY57A
+GitLab Support Call                 https://api.calendly.com/event_types/CEGFRWO2BLAHSAQE
+Live Upgrade Assistance             https://api.calendly.com/event_types/AHBRCBLAH6ECV5E6
+Pairing Session                     https://api.calendly.com/event_types/EBLAHIHDJDJRSS42
+Support call with me                https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2
+US Federal Live Upgrade Assistance  https://api.calendly.com/event_types/BLAHTQKLLSHV3GL3
+```
+
+To generate a single-use link for the "Support call with me" event:
+
+```plaintext
+curl -s -H "Authorization: Bearer <your Calendly API token>" \
+  -F max_event_count=1 \
+  -F owner_type=EventType \
+  -F owner=https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2 \
+  https://api.calendly.com/scheduling_links \
+  | jq -r '.resource.booking_url'
+```
+
+This will output something like the following:
+
+> https://calendly.com/d/m6we-x8r7/support-call-with-me
+
+
+#### using [httpie](https://github.com/httpie/httpie)
+
+The following uses the same setup, patterns, and output as above.
+
+Get your personal URI:
+
+```plaintext
+uri=$(https https://api.calendly.com/users/me \
+  Authorization:"Bearer $t" \
+  | jq -r '.resource.uri')
+```
+
+List your available events:
+
+```plaintext
+https -b  api.calendly.com/event_types \
+  user==$uri \
+  Authorization:"Bearer $t" \
+  | jq -r '.collection[]|select(.active == true)|([.name,.uri] | join(","))' \
+  | column -s',' -t -d
+```
+
+Generate a single-use link:
+
+```plaintext
+https -b  api.calendly.com/scheduling_links \
+  Authorization:"Bearer $t" \
+  max_event_count=1 \
+  owner_type=EventType \
+  owner=https://api.calendly.com/event_types/DBLAH4WXTM7ADUB2 \
+  | jq -r '.resource.booking_url'
+```
 
 ## Auto block Pagerduty shifts in Calendly
 
