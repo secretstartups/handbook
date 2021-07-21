@@ -119,8 +119,8 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 - Suppliers will need to set up their Remit-To account in Coupa. It can be done during the initial onboarding process or via the Coupa Supplier Portal (CSP).
 - Below are some useful links with more information regarding setting up Remit-To accounts:
-   - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information#:~:text=To%20create%20a%20new%20remit,Admin%20%3E%20Legal%20Entity%20Setup%20page.
-   - https://supplier.coupa.com/help/remit-to-improvements/
+   - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information
+   - https://supplier.coupa.com/help/remit-to-improvements
 
 <div class="panel panel-info">
 **NOTE**
