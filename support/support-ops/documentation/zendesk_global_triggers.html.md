@@ -130,6 +130,7 @@ see all the current triggers would be the
 | [Set billing/ar team to billing when null](https://gitlab.zendesk.com/agent/admin/triggers/360075985440) | Lifespan Stage | 25 | Active |
 | [Add prospect tag](https://gitlab.zendesk.com/agent/admin/triggers/360076974199) | Lifespan Stage | 26 | Active |
 | [Remove prospect tag](https://gitlab.zendesk.com/agent/admin/triggers/360076974459) | Lifespan Stage | 27 | Active |
+| [Remove expired tag if consumption_only is present](https://gitlab.zendesk.com/agent/admin/triggers/360077272060) | Lifespan Stage | 28 | Active |
 | [Assign DigitalOcean tickets to Jason Colyer](https://gitlab.zendesk.com/agent/admin/triggers/360056594000) | Assignee | 1 | Active |
 | [Remove assignee if non-human assignee](https://gitlab.zendesk.com/agent/admin/triggers/360017743040) | Assignee | 2 | Active |
 | [Assign Abuse Report tickets to Security team](https://gitlab.zendesk.com/agent/admin/triggers/360015599319) | Assignee | 3 | Active |
