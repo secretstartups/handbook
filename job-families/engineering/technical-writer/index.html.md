@@ -92,6 +92,28 @@ Extends the Senior Technical Writer responsibilities in complexity and scope.
 * **Recruiting**: Be available to interview potential technical writing candidates.
 * **Mentoring**: Mentor other technical writers and team members about suggesting and balancing priorities, industry best practices, and other process knowledge.
 
+### Principal Technical Writer
+The Principal Technical Writer reports to the Senior Manager, Technical Writing.
+
+#### Principal Technical Writer Job Grade
+The Principal Technical Writer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Principal Technical Writer has extensive experience in a Staff-level role.
+
+#### Principal Technical Writer Responsibilities
+Extends the Staff Technical Writer responsibilities in complexity and scope.
+
+- **Content**: Efficiently create and maintain product documentation and release posts for assigned product groups or stages. Guide improvements to merge requests. Help set priorities at a team level.
+- **Structure**: Actively implement content topic types in both new and previously created content to make product documentation easier to scan.
+- **Organization**: Ensure that product documentation pages are well organized across stages by using good naming and logical groupings.
+- **User interface**: Provide expert guidance on user interface text. Actively improve style guide and [Pajamas](/handbook/engineering/ux/pajamas-design-system/) content.
+- **Reviews**: Foster effective review practices for team and community contributions to GitLab documentation and user interface changes.
+- **Product knowledge**: Deeply understand the technology and features of the development stage to which you’re assigned, and have a general understanding of the end-to-end GitLab product to help improve the information architecture of the docs site.
+- **Process**: Actively contribute [Handbook](/handbook/) changes that help the organization evolve the culture and best practices, and lead efforts to encourage other team members regarding contributions.
+- **Communication**: Communicate effectively and professionally across all product groups and stages, and be a model for collaboration with community contributors.
+- **Leadership**: Identify and lead cross-GitLab department projects that improve the deliverables or processes of the Technical Writing team.
+- **Recruiting**: Be available to interview potential technical writing candidates.
+- **Mentoring**: Mentor other technical writers and team members regarding best practices and other process knowledge.
+- **Impact**: Provide positive influence on the adoption of [stages per organization](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-organization-spo) through more usable documentation, with the ultimate goal being a contribution to higher [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr). 
+
 ## Performance Indicators
 
 - [Technical Writing team member MR rate](/handbook/engineering/ux/performance-indicators/#technical-writing-team-member-mr-rate)
@@ -105,7 +127,7 @@ For more details about the engineering career ladders, review the [engineering c
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 
-1. Candidates who demonstrate an interest in the role will be asked to share work samples and respond to questions related to technical writing.
+1. Candidates who demonstrate interest in the role will be asked to share work samples and respond to questions related to technical writing.
 1. Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters. In this call, we will discuss your experience, understand what you are looking for in a Technical Writing role, talk about your work and approach to technical writing, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
 1. If you successfully pass the screening call, you will be invited to schedule a 45-minute first interview with our Technical Writing Manager. In this interview, we will want you to talk through the approach you took in the examples of work you shared as part of your application, your experience up to now, understand what you're looking for in a technical writing position, and answer any questions you have.
 1. The next interview is with one of our Technical Writers. We’ll discuss your experience, why you’re looking to join GitLab, your domain experience, and what it's like to be a technical writer at GitLab. We’ll assess your alignment with our [values](/handbook/values/#credit), and answer any questions you have.
