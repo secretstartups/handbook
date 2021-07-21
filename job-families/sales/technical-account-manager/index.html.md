@@ -34,7 +34,7 @@ Additionally, our team serves as liaisons between the customer and the GitLab ec
 
 ## Junior TAM
 
-The Junior TAM reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
+The Junior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers)
 
 ### Junior TAM Job Grade
 
@@ -55,7 +55,7 @@ The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/com
 
 ## Technical Account Manager (TAM) (Intermediate)
 
-The TAM (Intermediate) reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The TAM (Intermediate) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
 
 ### TAM (Intermediate) Job Grade
 
@@ -68,6 +68,7 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 - Assist and provide expert deployment, operational best practices, and establishing a GitLab Center of Excellence
 - Assist in workshops to help customers leverage the full value of GitLab solution
 - Measure and monitor customers' achievement of critical and key performance indicators, reporting both internally to GitLab account stakeholders and externally to Customer Sponsors and Executives
+- Translate customer product usage data into actionable advice for customers 
 - Establish regular touchpoints with assigned customers per the established SLAs, to review progress against strategic and technical objectives
 
 ### TAM (Intermediate) Requirements
@@ -107,7 +108,7 @@ The Public Sector Technical Account Manager is a [grade 6](/handbook/total-rewar
 
 ## Senior TAM
 
-The Senior TAM reports to the [TAM Manager](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
+The Senior TAM reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-of-technical-account-managers).
 
 ### Senior TAM Job Grade
 
@@ -152,6 +153,88 @@ The Senior Public Sector Technical Account Manager is a [grade 7](/handbook/tota
 - In addition to the Senior TAM (Intermediate) requirements:
 - TS/SCI Security Clearance if applicable
 - Knowledge of and at least four years of experience with Federal Public Sector customers
+
+## Lead TAM (Account)
+
+The Lead TAM (Account) is a subject matter expert in customer engagement and success planning. In addition to working with the customers in their book of business, they provide guidance and coaching to other TAMs and develop improvements to our customer engagement model.
+
+The Lead TAM (Account) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+
+### Lead TAM Job Grade
+
+The Lead, TAM (Account) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Lead TAM (Account) Responsibilities
+
+- Extends the Senior TAM responsibilities
+- Owns the customer relationship within a global account and actively manages the stakeholder relationship at all levels (i.e., executive, management, technical leaders) including strategic roadmap discussions
+- Can develop and nurture relationships and adjust value and adoption messaging according to the levels and interests of customer stakeholders
+- Actively searches for additional business cases to expand GitLab usage within the account and its subsidiaries
+- Is driven by business needs to look at the whole picture, consults with customer to build near and long term solution set and coaches others on strategic approaches
+- Demonstrates mastery in crafting strategic success plans focused on quantifiable business outcomes and actively coaches others in establishing this practice. 
+- Has proven ability to deeply understand customer health scoring and predictive risk management and is well versed in risk prevention and risk resolution.
+- Continuously drives communication and customer advocacy into various GitLab departments including Sales, Support, Product and Channel to provide customer insights and ensure an orchestrated customer experience
+- Expands personal research combined with best practices across disciplines, actively builds/shares playbooks and customer enablement/expansion workshops focused on driving to greater adoption and value realization.
+- Identifies and create solutions to address TAM needs, improve effectiveness and efficiency, and delivery to or exceed key customer metrics such as Quantitative Success Plans, Time-to-Value, use case expansion, EBRs completed, and gross/net retention.
+- Identifies challenges in TAM group workflows and those extending to other groups, and owns the research, development, and enablement of the resolutions. Work transparently to surface the problems and allow others to participate in solving them.
+- Regularly publishes handbook updates describing our practice and our collaboration with other groups and improves/grooms existing content in-line with process and enablement improvements
+
+
+### Lead TAM (Account) Requirements
+
+- Extends the Senior TAM requirements
+- Experience and a proven track record with the additional responsibilities of a Lead TAM
+- Ability to manage executive relationships and discussions (VP/CxO)
+- High-performance ability to pitch and execute stage expansions, balancing business and technical and adjusting messaging to audience (technical / exec).
+- Skilled in bringing in a SAL/AE/ISR to see through upsell opportunities, whilst maintaining executive overlay and ensuring a positive customer experience.
+- Technical / DevOps domain expertise
+- Proven ability to manage a global account
+- Excellent moderation and communication skills
+- Extensive experience within a technical or account management area
+
+### Lead TAM (Account) Performance Indicators 
+
+* Extends the Customer Success KPIs articulated here
+* 3.75m ARR book of business maintained
+* 6 enablement contributions to global CS team per fiscal year
+
+
+## Lead TAM (Product)
+
+The Lead TAM (Product) reports to the [Manager/Senior Manager, TAM](https://about.gitlab.com/job-families/sales/technical-account-manager/#manager-tam).
+
+### Lead TAM Job Grade
+
+The Lead TAM (Product) is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Lead TAM (Product) Responsibilities
+
+- Extends the Senior TAM responsibilities
+- Demonstrates seniority in 3 or more [customer use cases](https://about.gitlab.com/handbook/use-cases/) 
+- Provides subject matter expertise within a defined technical GitLab product area or as a trusted advisor within an account
+- Is proficient with DevOps frameworks (e.g., LeSS, SaFe, etc.) and can communicate customers' goals and capabilities as they relate to customers' adoption roadmaps
+- Overlays with the global book of customers in roadblock areas for strategic customers removing barriers to growth and adoption concerning their area of expertise
+- Periodically leads research and analysis of industry/market trends within customer success, with a focus on Customer Success data and trends 
+- Helps ensure GitLab is listening and hearing our customers and can remain responsive to them
+- Increase global TAM team knowledge and thought leadership within the realm of their expertise
+- Contributes to our docs, YouTube channel, and other enablement programs such as the Digital Journey
+- Serves as advisor to Product Team providing constructive feedback to promote customer use cases and assist in product feature prioritization
+### Lead TAM (Product) Requirements
+
+- Extends the Senior TAM requirements
+- Experience and a proven track record with the additional responsibilities of a Lead TAM
+- Technical / DevOps domain expertise
+- Proven ability to overlay in customer technical risk situations and architect successful solutions.
+- Proven ability to consult and be consulted on topics requiring product/technical expertise
+- Excellent moderation and communication skills
+- Extensive experience within a technical or account management area
+
+### Lead TAM (Product) Performance Indicators
+
+* 2.75m ARR book of business maintained
+* 12 customer contributions per year as technical overlay; priority of these engagements to be determined by the Director of Technical Account Managers
+* 1 technical/product enablement per quarter
+
 
 ## Manager, TAM
 
