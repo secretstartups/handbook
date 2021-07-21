@@ -88,9 +88,20 @@ Any of these three options is perfectly suitable, but *you should only choose on
 
 ### rbenv
 
-1. [Follow the rbenv installation instructions](https://github.com/rbenv/rbenv#installation)
-1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
-1. Install the project's current ruby version by typing `rbenv install <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
+1. Follow the [rbenv installation instructions](https://github.com/rbenv/rbenv#installation). If using Linux, be aware of the following caveats:
+   1. In some distributions you may get the following warning when running the `rbenv-doctor` script:
+
+      ```txt
+      You seem to have multiple rbenv installs in the following locations.
+      Please pick just one installation and remove the others.
+
+      /usr/bin/rbenv
+      /bin/rbenv
+      ```
+
+      This is most probably a false positive in the `rbenv-doctor` script. It turns out in many Linux distros (e.g. [Ubuntu starting from Ubuntu 19.04](https://lists.ubuntu.com/archives/ubuntu-devel-announce/2018-November/001253.html), [Fedora starting from Fedora 17](https://www.freedesktop.org/wiki/Software/systemd/TheCaseForTheUsrMerge/)) `/bin` is actually a symlink to `/usr/bin`. So, these would be the same installation and not different ones. This can be confirmed by running `ll /bin` (or `ls -alF /bin` if you don't have the `ll` alias).
+   1. You may need to [manually install the latest version of `ruby-build`](https://github.com/rbenv/ruby-build#installation) as the one provided in your distribution's package repository may be outdated and not able to install the project's required ruby version. This is known to be the case at least for Pop!_OS 21.04 (based on Ubuntu 21.04).
+1. Install the project's current ruby version by typing `rbenv install` in your terminal. The required version should be automatically detected from the `.ruby-version` file. This can be confirmed by running [`rbenv version`](https://github.com/rbenv/rbenv#rbenv-version).
 
 ### rvm
 
@@ -125,10 +136,7 @@ If you ever want to switch between SSH and https, execute `git remote remove ori
 1. Execute: `cd www-gitlab-com` to change to the www-gitlab-com directory created when you cloned the repository.
 1. Execute: `bundle install` to install all gem dependencies.
 1. Install additional dependencies [Homebrew, nvm, and yarn](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error. (Note: This step can be skipped if you used the 'single script setup method' above)
-
-Each time you update this repository (`git pull`) new dependencies might be required. The following script will check your ruby version, bundle, and yarn and provide suggestions for updating these.
-
-1. From the `www-gitlab-com` directory, in terminal execute: `./bin/doctor`
+1. Each time you update this repository (`git pull`) new dependencies might be required. You can execute the `bin/doctor` script to check your ruby version, bundle, and yarn, and receive suggestions for updating these.
 
 ## 8. Prevent newlines from causing all following lines in a file to be tagged as changed
 
@@ -145,10 +153,10 @@ If you'd like to learn more about Git's formatting and whitespace options see th
 1. In a terminal, execute:
     1. Change to the directory for your site, for example: `cd sites/handbook` (see [monorepo docs](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/doc/monorepo.md) for more details)
     1. `NO_CONTRACTS=true bundle exec middleman`.
-1. Wait for the log line: `== View your site at "http://localhost:4567", "http://127.0.0.1:4567"`.
+1. Wait for the log line: `== Webpack proxy server enabled: use "http://localhost:4567" or "http://127.0.0.1:4567"`.
 1. Visit http://localhost:4567/ in your browser.
-1. You will need to install a text editor to edit the site locally. We recommend
-   [Sublime Text 3](http://www.sublimetext.com/3) or [Atom](https://atom.io/). Use command / ctrl P to quickly open the file you need.
+1. You will need to install a text editor to edit the site locally. We recommend [VS Code](https://code.visualstudio.com/),
+   [Sublime Text 3](http://www.sublimetext.com/3) or [Atom](https://atom.io/). Use `command / ctrl + p` to quickly open the file you need.
 1. Refresh your browser to see your changes.
 
 ## 10. Test if all URL links in a page are valid
@@ -178,7 +186,7 @@ For more in-depth details on setting up and using the local development environm
 
 ## 12. Add yourself to the Team Page
 
-We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/miscellaneous/#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
+We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/onboarding#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
 Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.  
 1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-the-web-ide)
@@ -270,7 +278,7 @@ Choose the method below that feels most comfortable and have the following infor
   1. After validating your changes, commit your changes to the branch of www-gitlab-com that you created in step 4, with a comment *Add FirstName LastName to team page* and push your branch. You may need to set the remote as upstream or you can use `--set-upstream` option and specify remote as upstream.
   1. [Create a Merge Request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html) in [GitLab.com](https://gitlab.com/gitlab-com/www-gitlab-com) with the branch that you created and assign it to your manager for review.
 
-  *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/blob/master/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
+  *Note:* When you test locally, the map on top of the page won't show your photo. This is because it is not populated with local data. [More about how the map works](https://gitlab.com/gitlab-com/teampage-map/-/blob/main/README.md#background). You will see your picture on the map as soon as your Merge Request is merged.
   *Note:* Searching the handbook in your local environment yields production results, so navigate directly to the team page via URL to see your changes.
 
 ### Add your pet(s) to the Team Pets Page
