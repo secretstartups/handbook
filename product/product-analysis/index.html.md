@@ -23,11 +23,11 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 * [Carolyn Braza](/company/team/#cbraza): [Manager, Product Data Analysis](/job-families/product/product-analyst/#manager-product-data-analysis)
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Nicole Galang](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
-* [Product Analyst](/job-families/product/product-analyst/): TBH
+* [Neil Raisinghani](/company/team/#nraisinghani): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 
-As part of the [Research & Development (R&D) Data Fusion Team](https://about.gitlab.com/handbook/business-technology/data-team/#data-fusion-teams), 
+As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams), 
 the product analysts also work closely with members from the central Data team, including:
-* [Mathieu Peychet](https://about.gitlab.com/company/team/#mpeychet_): [Senior Data Analyst](/job-families/finance/data-analyst/#senior-data-analyst)
+* [Mathieu Peychet](/company/team/#mpeychet_): [Senior Data Analyst](/job-families/finance/data-analyst/#senior-data-analyst)
 
 The Product Analysis group hopes to partner more closely with data engineers on the Data 
 team, as well.
@@ -38,14 +38,14 @@ The Product Analysis group works in two-week iterations, which dictate how and w
 plan and prioritize work. Iterations start on Mondays and end on Sundays (Fridays are the 
 final working day).
 
-You can see our current iteration [here](https://gitlab.com/gitlab-data/analytics/-/boards/2329061?scope=all&label_name[]=product%20analysis&iteration_id=Current).
+You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914?iteration_id=Current&label_name[]=product%20analysis).
 
 ### Issue Intake
 
-For all product analysis requests, please create an issue in the [Data Team Analytics project](https://gitlab.com/gitlab-data/analytics/-/issues), 
+For all product analysis requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
 apply the `product analysis` label, and follow the guidelines below.
 
-All data issues with the `product analysis` label will appear on the [product analysis board](https://gitlab.com/gitlab-data/analytics/-/boards/2329061?&label_name[]=product%20analysis).
+All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103?label_name[]=product%20analysis).
 
 #### Issue Templates
 
@@ -55,8 +55,8 @@ to triage and begin work on the issue.
 
 | Request Type | Template |
 | --- | --- |
-| Ad hoc / Default request | [Product Analysis Request](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Product%20Analysis%20Request.md) |
-| Experimentation analysis | [experiment_template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/experiment_template.md) |
+| Ad hoc / Default request | [Ad Hoc Request](https://gitlab.com/gitlab-data/product-analytics/-/blob/main/.gitlab/issue_templates/Ad%20Hoc%20Request.md) |
+| Experimentation analysis | [Experiment Analysis Request](https://gitlab.com/gitlab-data/product-analytics/-/blob/main/.gitlab/issue_templates/Experiment%20Analysis%20Request.md) |
 
 #### Submission Deadline
 
@@ -213,6 +213,8 @@ office hours. Stay tuned for more details!
 ### Slack
 
 1. [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/) - For Growth-related data questions
+1. [#g_product_analysis_daily](https://gitlab.slack.com/messages/g_product_analysis_daily/) - For 
+the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](https://geekbot.com/)
 1. [#data](https://gitlab.slack.com/messages/data/) - For general data questions
 
 ### GitLab Groups
@@ -220,11 +222,6 @@ office hours. Stay tuned for more details!
 1. `@gitlab-org/growth/data-analysts` - Notifies the entire Product Analysis team
 
 ## Product Analysis Handbook Contents
-
-* [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
-* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
-
-## Product Analysis Handbook Structure
 
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
 * [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
