@@ -631,7 +631,7 @@ We run digital ads on the following channels:
 * Twitter
 * Demandbase (paid display)
 
-Because everyone at GitLab works remotely, it makes it difficult to restrict ads from being shown to GitLabbers. In a brick and mortar environment, we can easily block IP addresses to accomplish this. Because everyone at GitLab has a different IP address, and even dynamic IP addresses, there is no way to implement an exclusion rule that would block all GitLab ads to GitLabbers. 
+Because everyone at GitLab works remotely, it makes it difficult to restrict ads from being shown to GitLab team members. In a brick and mortar environment, we can easily block IP addresses to accomplish this. Because everyone at GitLab has a different IP address, and even dynamic IP addresses, there is no way to implement an exclusion rule that would block all GitLab ads to GitLab team members. 
 
 If you would not like to see GitLab ads, you are able to opt-out of ads as you see them. Below is the process to remove GitLab ads. Please note that if you use both your personal and work accounts on your devices, you will need to exclude from both your personal and work accounts. 
 
