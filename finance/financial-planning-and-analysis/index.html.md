@@ -377,7 +377,7 @@ Please note these process details:
 
 Throughout the year the Executive Business Administrator to the CEO puts together a calendar of events for board members and other events associated with planning. Those events can be found in the [GitLab Board Calendar](https://docs.google.com/spreadsheets/d/1GW59GiT0MLXEgMxy2bN0ZVcbMs_wssOkP2c59f19YTk/edit?usp=sharing) sheet.
 
-## By Cost Center - Where GitLabbers Report
+## By Cost Center - Where Departments Report
 
 Below is a table showing the structure of GitLab departments as they exist in NetSuite. Please [check out the Team Page](/team/chart) to see our org chart.
 
@@ -399,7 +399,7 @@ Below is a table showing the structure of GitLab departments as they exist in Ne
 |                     |                      |     Communications     |                    |                     |
 |                     |                      |       Awareness        |                    |                     |
 
-## By Function - Where GitLabbers Report
+## By Function - Where Departments Report
 
 |        Sales         |       Marketing        |   Engineering    |      Product       |         G&A         |
 | :------------------: | :--------------------: | :--------------: | :----------------: | :-----------------: |
