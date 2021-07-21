@@ -29,7 +29,7 @@ Paid time off is in addition to any [official public holidays](#a-gitlab-team-me
 
 ## A GitLab team member's Guide to Time Off
 
-As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way.
+As we all work remotely it can sometimes be difficult to know when and how to plan time off. Here is some advice and guidance on how this can be done in an easy and collaborative way. **Please note that for audit and compliance purposes, all team members are required to use [PTO by Roots](#pto-by-roots) as the single source of truth to accurately track and communicate all time off.**
 
 1. We have a "no ask, must tell" time off policy. This means that:
     * You do not need to ask permission to take time off unless you want to have more than 25 consecutive calendar days (including weekends and holidays) off. The 25-day no ask limit is per vacation, not per year. You can have multiple no ask vacations per year that add up to more than 25 days in total; there is no limit to this.
