@@ -336,7 +336,7 @@ Some things are **internal**, available internally but not externally. The follo
    1. net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.); and,
    1. forward-looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going-public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the [S1](https://en.wikipedia.org/wiki/Form_S-1) becomes public, 21 days before going public.
 1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
-1. Content that would violate confidentiality for a GitLab team member, customer, or user.
+1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent provided by the data owner, such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
 1. Legal discussions are not public due to the purpose of Attorney-Client Privilege
 1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
 1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
