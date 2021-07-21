@@ -63,6 +63,7 @@ description: "Learn more about the Product Career Development Framework Working 
 | Reviewer              | Michael Karampalas | Principal PM |
 | Reviewer              | Taylor McCaslin | Principal PM, Secure|
 | Reviewer              | Christen Dybenko | Senior Product Manager|
+| Reviewer              | Viktor Nagy | Senior Product Manager|
 
 ## Meetings
 
