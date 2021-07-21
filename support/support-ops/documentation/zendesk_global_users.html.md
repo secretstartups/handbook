@@ -32,7 +32,7 @@ Zendesk users are the people within Zendesk.
 
 ### Admin - GitLab Staff
 
-* Description: GitLabbers who need more access than a normal agent but who are
+* Description: GitLab team members who need more access than a normal agent but who are
   not admins
 * Tickets:
   * What kind of tickets can this agent access? All
