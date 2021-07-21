@@ -317,6 +317,8 @@ subgraph Based on Merit &amp; Company Need
   eng:duxr(Director of UX Research)-->eng:vpux(VP of User Experience);
 
   eng:stw(Senior Technical Writer)-->eng:sttw(Staff Technical Writer);
+  eng:sttw(Staff Technical Writer)-->eng:ptw(Principal Technical Writer);
+
   eng:stw(Senior Technical Writer)-->eng:mtw(Technical Writing Manager);
   eng:mtw(Technical Writing Manager)-->eng:stwm(Senior Technical Writing Manager);
   eng:stwm(Senior Technical Writing Manager)-->eng:dtw(Director of Technical Writing);
@@ -340,6 +342,7 @@ end
   click eng:tw "/job-families/engineering/technical-writer/";
   click eng:stw "/job-families/engineering/technical-writer/";
   click eng:sttw "/job-families/engineering/technical-writer/";
+  click eng:ptw "/job-families/engineering/technical-writer/";
   click eng:mtw "/job-families/engineering/technical-writing-manager/";
   click eng:stwm "/job-families/engineering/technical-writing-manager/";
   click eng:dtw "/job-families/engineering/technical-writing-manager/";
