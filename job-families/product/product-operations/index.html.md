@@ -57,19 +57,19 @@ As the Group Manager, Product Operations, you will drive the vision for GitLab's
 
 ### Individual responsibility
 
-- Develop and drive the vision for a world class product system for GitLab the company and communicate it through [Product Operatoins Direction](https://about.gitlab.com/direction/product-operations)
+- Develop and drive the vision for a world class product system for GitLab the company and communicate it through [Product Operations Direction](https://about.gitlab.com/direction/product-operations)
 - Make sure you have a great product operations team (recruit and hire, sense of progress, promote proactively, identify underperformance)
 - Collaborate on the group's charter with the VP of Product Management, Chief Product Officer, and CEO; and communicate this charter cross-functionally
 - Partner closely on various initiatives across the company with Product Management, Engineering, Design, Marketing, Sales, Customer Success, etc.
-- Engineering, design, product team communication / announcements / reinforcing process, policies, and practices
+- Drive communications across all R&D functions reinforcing process, policies, and best practices
 - Develop and maintain a continuing education program for product managers
 
 ### Team responsibility
 
-- Serve as "Chief of Staff" for the EVP, Product, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
+- Serve as "Chief of Staff" for the Chief Product Officer, attending all key Product Management leadership meetings and helping to ensure execution of Product team decisions
 - Help define, document, and ensure consistent execution of the GitLab product manager onboarding / product management / product development process
 - Manage a team of 2-4 product managers and/or product operations specialists
-- Lead the implementation and drive adoption of large scale process updates for the product team,
+- Lead the implementation and drive adoption of large scale process updates for the product team
 - Own communication of product team frameworks/processes to other departments like Marketing, Support, Sales and Customer Success as needed
 - Support the [creation of external content](/handbook/product/product-processes/#communication#writing-about-features) including blogs, webinars, and demos
 
