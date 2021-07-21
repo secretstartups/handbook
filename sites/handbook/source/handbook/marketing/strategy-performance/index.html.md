@@ -1,7 +1,11 @@
 ---
 layout: handbook-page-toc
-title: "Marketing Strategy and Performance"
-description: "Marketing Strategy and Performance supports the entire Marketing team to develop and execute a Global Marketing Strategy by working with Marketing Leadership and GTM teams as well as owning the overall measurement strategy for GitLab marketing. "
+title: Marketing Strategy and Performance
+description: >-
+  Marketing Strategy and Performance supports the entire Marketing team to
+  develop and execute a Global Marketing Strategy by working with Marketing
+  Leadership and GTM teams as well as owning the overall measurement strategy
+  for GitLab marketing. 
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
@@ -12,22 +16,20 @@ description: "Marketing Strategy and Performance supports the entire Marketing t
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-{::options parse_block_html="true" /}
-
-## <i class="far fa-newspaper" id="biz-tech-icons"></i> Charter
+## <i id="biz-tech-icons" class="far fa-newspaper"></i>Charter
 
 Marketing Strategy and Performance supports the entire Marketing team to develop and execute a Global Marketing Strategy working with Marketing Leadership and GTM teams, as well as owning the overall measurement strategy for GitLab marketing working with the data team.
 
 We are a small team with a leader and data analysts.
 
-## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the Team
+## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
 - [Dara Warde, Director](https://about.gitlab.com/company/team/#darawarde)
 - Open Head Count, Manager, Data Performance
 - [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
 - Open Head Count, Data Analyst
 
-## <i class="fas fa-users" id="biz-tech-icons"></i> Teams We Work Closely With
+## <i id="biz-tech-icons" class="fas fa-users"></i>Teams We Work Closely With
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/marketing/revenue-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Revenue Marketing</a>
@@ -35,22 +37,23 @@ We are a small team with a leader and data analysts.
     <a href="/handbook/marketing/community-relations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Community Relations</a>
     <a href="/handbook/marketing/strategic-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Strategic Marketing</a>
     <a href="/handbook/marketing/inbound-marketing/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Inbound Marketing</a>
-</div>   
+
+</div>
 
 <div class="flex-row" markdown="0" style="height:80px">
     <a href="/handbook/sales/field-operations/sales-operations" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Operations</a>
     <a href="/handbook/finance/procurement/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Procurement</a>
     <a href="/handbook/business-ops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Ops</a>
 
-</div>   
+</div>
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> How to Communicate with Us
+## <i id="biz-tech-icons" class="far fa-paper-plane"></i>How to Communicate with Us
 
 **Slack channels**
 
 We can be reached via our own #mktg-strat-perf channel, although we also monitor the general [#marketing](https://about.gitlab.com/handbook/marketing/) channel and [#mktgops](https://gitlab.slack.com/archives/mktgops). We attempt to [avoid direct messages](https://about.gitlab.com/handbook/communication/#avoid-direct-messages) where possible as it discourages collaboration. 
 
-## <i class="far fa-life-ring" id="biz-tech-icons"></i> How to Get Help
+## <i id="biz-tech-icons" class="far fa-life-ring"></i>How to Get Help
 
 <div class="flex-row" markdown="0">
   <div>
@@ -58,7 +61,7 @@ We can be reached via our own #mktg-strat-perf channel, although we also monitor
   </div>
 </div>
 
-## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
+## <i id="biz-tech-icons" class="fas fa-tasks"></i>How We Work
 
 <div class="flex-row" markdown="0">
   <div>
@@ -69,7 +72,7 @@ We can be reached via our own #mktg-strat-perf channel, although we also monitor
 
 ### Issues
 
-The team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the `~MktgSandP::0 - To Be Triaged` label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to one of us to see if there is already a related issue that you can add your comments to. 
+The team works from issues and issue boards. If you are needing our assistance with any project, please open an issue and use the `~MktgSandP::0 - To Be Triaged` label anywhere within the GitLab repo. Prior to opening a new issue, feel free to reach out to one of us to see if there is already a related issue that you can add your comments to.
 
 With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being one of the solutions that GitLab (as a product) addresses, the Marketing Strategy team aims to follow many of the agile methodologies. To help us in that effort, please create any Marketing Strategy issues in the following format.
 
@@ -101,7 +104,6 @@ Categories
 
 </details>
 
-
 <details>
 <summary markdown='span'>
 Backlog
@@ -125,7 +127,7 @@ In Milestone
 
 ### Milestones
 
-The Mktg Strategy team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. We use the same interval dates used by Mktg Ops, Sales Ops and Sales Systems. Each  individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
+The Mktg Strategy team works in two week sprints/iterations which are tracked as **Milestones** at the `GitLab.com` level. We use the same interval dates used by Mktg Ops, Sales Ops and Sales Systems. Each individual contributor (IC) is responsible for adding issues to the milestone that will be completed in the two week time frame. If needed, the IC will separate the main issue into smaller pieces that are _workable_ segments of the larger request.
 
 The Mktg Strategy team generally creates just one milestone beyond the current iteration, so at any given time there will be the **current** milestone and **upcoming** milestone. Any other issue that is not included will be added into future milestones &/or added as work is completed in the current milestone.
 
@@ -139,17 +141,17 @@ If there are handbook updates that need to be made as a result of work done in a
 
 ### Focus Fridays
 
-The Marketing Strategy team has continued our experiment with MOps on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues. 
+The Marketing Strategy team has continued our experiment with MOps on 2020-04-20 to commit to no internal meetings one day of the week. Now the entire Marketing team has moved to [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays). Please try not to schedule meetings for team members on Fridays, so they can devote time for deep work in milestone-related issues.
 
 ### Operational Timeline of Changes
 
 Periodically Marketing Strategy and Performance becomes aware of significant changes that affect overall data and reporting. To capture these, we have a shared [Operational timeline of events](https://drive.google.com/open?id=1vhGvEszndMJ4B9EshGFSdTTABwUzBzDObz93vkMSFGA) with the MktgOps team. They primarily add any process changes to this document as they occur. It has been a great communication tool, especially as we look back at metrics in the past and can track the changes that were made.
 
-## <i class="far fa-folder-open" id="biz-tech-icons"></i> Important Resources
+## <i id="biz-tech-icons" class="far fa-folder-open"></i>Important Resources
 
 - [Marketing Metrics](/handbook/marketing/marketing-operations/marketing-metrics)
 
-## <i class="fas fa-toolbox" id="biz-tech-icons"></i> Tech Stack
+## <i id="biz-tech-icons" class="fas fa-toolbox"></i>Tech Stack
 
 For information regarding the tech stack at GitLab, please visit the [Tech Stack Applications page](/handbook/business-ops/tech-stack-applications/#tech-stack-applications) of the Business Operations handbook where we maintain a comprehensive table of the tools used across the company. Below are tools that are currently owned and managed by Marketing Strategy and Performance.
 
@@ -163,7 +165,6 @@ Integrated with Salesforce
 
 </details>
 
-
 ### Requesting access to an existing tool
 
 To request access to Bizible or Allocadia, [please follow the access request process](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/) as outlined in the business operations handbook.
@@ -173,9 +174,9 @@ If you are working with a contractor or consultant that requires access to one o
 ## <i class="fas fa-receipt" id="biz-tech-icons"></i> Marketing Expense Tracking
 
 | **GL Code** | **Account Name** | Purpose |
-| ----------- | -----------------| ------- |
+| ------- | ------------ | ------- |
 | 6060 | Software Subscriptions | All software subscriptions |
-| 6100 | Marketing  | Reserved for Marketing GL accounts |
+| 6100 | Marketing | Reserved for Marketing GL accounts |
 | 6110 | Marketing Site | All agency fees and contract work intended to improve the marketing site |
 | 6120 | Advertising | All media buying costs as well as agency fees and software subscriptions related to media buying |
 | 6130 | Events | All event sponsorships, booth shipping, event travel, booth design, event production as well as agency fees and software costs related to events |
@@ -184,18 +185,17 @@ If you are working with a contractor or consultant that requires access to one o
 | 6150 | Brand | All PR, AR, content, swag and branding costs |
 | 6160 | Prospecting | Not used - All costs related to prospecting efforts |
 
-
 ## Campaigns and Programs
 
-As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking. 
+As is typical of any marketing organization, we often look at our Campaigns to see how they are doing. The [Campaigns and Programs Page](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaigns) shows all of the campaign types, their progression statuses and cost tracking.
 
 ## Initial Source
 
-Similarly, we are interested in the`Initial Source` of a given prospect. It is the first "known" touch attribution or when a website visitor becomes a known name in our database. The list of currently supported values for `initial source` can be found on the [Mktg Ops page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source). 
+Similarly, we are interested in the`Initial Source` of a given prospect. It is the first "known" touch attribution or when a website visitor becomes a known name in our database. The list of currently supported values for `initial source` can be found on the [Mktg Ops page](https://about.gitlab.com/handbook/marketing/marketing-operations/#initial-source).
 
 ## Lead and Contact Statuses
 
-The Lead & Contact objects in Salesforce have unified statuses with [set definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses). 
+The Lead & Contact objects in Salesforce have unified statuses with [set definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/#lead-and-contact-statuses).
 
 ## Touchpoints
 
@@ -204,4 +204,3 @@ We use Bizible for tracking times when there is engagement with our prospects. L
 ## Web Traffic Analysis
 
 Google Analytics data is used to gain insights about the visitors and their behavior on our websites. The [web traffic analysis data catalog](https://about.gitlab.com/handbook/business-ops/data-team/data-catalog/web-traffic-analysis/) provides details about how to leverage GitLab specific web data (key terms, definitions, KPIs, caveats, data structure)
-
