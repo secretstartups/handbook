@@ -16,7 +16,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 <details>
 
-<summary markdown="span">GitLab, Inc.</summary>
+<summary markdown="span">GitLab, Inc. & GitLab Federal LLC</summary>
 
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
@@ -67,9 +67,10 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Your Rights as a Worker](https://www.lni.wa.gov/forms-publications/F700-074-000.pdf)
 
 ### EEOC (U.S. Equal Employment Opportunity Commission) Notices
-* ["EEO is the Law" English poster for screen readers.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
-* ["EEO is the Law" English poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf)
-* ["EEO is the Law" Spanish poster for printing.](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf)
+* ["EEO is the Law" English poster for screen readers](https://www.eeoc.gov/sites/default/files/migrated_files/employers/poster_screen_reader_optimized.pdf)
+* ["EEO is the Law" English poster for printing](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf)
+* ["EEO is the Law" Spanish poster for printing](https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster_spanish.pdf)
+* ["EEO is the Law" Poster Supplement](https://www.dol.gov/sites/dolgov/files/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf)
 * All ["EEO is the Law"](https://www1.eeoc.gov/employers/poster.cfm) poster links.
 
 ### E-Verify 
@@ -91,6 +92,16 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 ### Service Contract Act
 * [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
+
+### Employee Rights under NLRA
+* [Employee Rights Under the National Labor Relations Act (one-page Poster)](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter11x17_2019final.pdf)
+* [Employee Rights Under the National Labor Relations Act (two-page Poster)](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter2page_19final.pdf)
+
+### Pay Transparency Nondiscrimination Provision
+* [Pay Transparency Nondiscrimination Provision](https://www.laborposters.org/federal/1606-federal-pay-transparency-poster.htm)
+
+### Paid Sick Leave Notice
+* [Paid Sick Leave Notice](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/wh1090.pdf)
 
 </details>
 
