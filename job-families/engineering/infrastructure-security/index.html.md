@@ -77,7 +77,7 @@ The Senior Infrastructure Security Engineer is a [grade 7](/handbook/total-rewar
 * Experience with infrastructure vulnerability scanning, vulnerability management and patching practices
 * Experience with logging systems and log analysis
 
-### Staff Infrastructure Security Engineer Engineer
+### Staff Infrastructure Security Engineer
 This position reports to the [Manager, Security Incident Response Team](#manager-infrastructure-security).
 
 #### Staff Infrastructure Security Engineer Job Grade
