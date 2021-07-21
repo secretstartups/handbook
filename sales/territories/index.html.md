@@ -160,7 +160,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | Inside Sales Rep | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | ----- |
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-1	|	Rene Hoferichter	| Anthony Seguillon | Sarina Kraft |
-|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Rene Hoferichter	| Anthony Seguillon | Sarina Kraft |
+|	Europe Central	|	Germany	|	Large-EMEA-DACH-2	|	Thomas Schmidt Glauche	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-3	|	Dirk Dornseiff	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Anthony Seguillon | Sarina Kraft |
@@ -176,7 +176,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	TBH / Robbie Byrne	| Chris Loudon | Kristine Setschin |
+|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Warren Searle	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Chris Loudon | Kristine Setschin |
 
