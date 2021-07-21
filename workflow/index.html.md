@@ -454,7 +454,7 @@ The notes are available in a publicly-accessible [Google doc](https://docs.googl
 
 ## Retrospective
 
-The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-gitlabbers-report) at GitLab learn and improve as much as possible from every monthly release.
+The purpose of our retrospective is to help each Product Group, and the entire [R&D cost center](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/#by-cost-center---where-departments-report) at GitLab learn and improve as much as possible from every monthly release.
 
 Each retrospective consist of three parts:
 
