@@ -12,11 +12,11 @@ description: "The Technical Account Management team at GitLab is a part of the C
 {:toc .hidden-md .hidden-lg}
 
 ## Mission Statement
-Aligning passionate TAM's with customers to ensure their success by...  
+
+Aligning passionate TAMs with customers to ensure their success by...  
 - Driving progress aligned with their business outcomes
 - Identifying and enabling the customer in their current and future GitLab use cases
 - Expanding ROI with GitLab  
-
 
 ## Handbook Directory
 
@@ -26,6 +26,7 @@ Aligning passionate TAM's with customers to ensure their success by...
 - [TAM Team Metrics Overview (VIDEO)](https://www.youtube.com/watch?v=9b8VviLG3yE&t=2s)
 
 ### TAM Learning & Development
+
 - [Overview of available resources, training plans & career paths](https://about.gitlab.com/handbook/customer-success/tam/tam-development/)
 
 ### TAM Responsibilities
@@ -37,6 +38,7 @@ Aligning passionate TAM's with customers to ensure their success by...
 - [Escalation Process](/handbook/customer-success/tam/escalations/)
   *  [Infrastructure Escalation & Incident Process](https://about.gitlab.com/handbook/customer-success/tam/escalations/infrastructure/)
 - [TAM-to-TAM Account Handoff](/handbook/customer-success/tam/account-handoff/)
+- [TAM PTO Guidelines](/handbook/customer-success/tam/pto/)
 - [TAM READMEs](/handbook/customer-success/tam/readmes/) (Optional)
 
 ### Customer Journey
@@ -55,11 +57,11 @@ Aligning passionate TAM's with customers to ensure their success by...
    - [Product Usage Data - Definitive Guide to Product Usage Data in Gainsight](/handbook/customer-success/product-usage-data/using-product-usage-data-in-gainsight/)
    - [Customer Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/)
 - [Cadence Calls](/handbook/customer-success/tam/cadence-calls/)
-- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
 - [Executive Business Reviews (EBRs)](/handbook/customer-success/tam/ebr/)
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
-
+- [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
+- [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation)
 
 
 ##### Digital Journey:

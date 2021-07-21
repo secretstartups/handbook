@@ -17,10 +17,14 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. If the output from the previous command says that the GitLab Runner service is *not* running, start it with `gitlab-runner start`. Check that it came up correctly by running `gitlab-runner status` again. Skip ahead to the **Create a project** section below.
 
 ### Install the GitLab Runner binary 
-1. Click on the [Install GitLab Runner](https://docs.gitlab.com/runner/install/) topic in GitLab's documentation.  
-1. If you are on macOS or Windows, navigate to the [Binaries](https://docs.gitlab.com/runner/install/#binaries) section of the installation documentation and click on the link for your operating system. Follow the installation instructions found there, but **skip any instructions about "Registering a Runner", since we have lab-specific instructions for that below.**
-1. If you are on Linux, navigate to the [Repositories](https://docs.gitlab.com/runner/install/#repositories) section of the installation documentation. Follow the installation instructions found there.
-1. After finishing the installation, run `gitlab-runner status` to verify that the **gitlab-runner** service is up. Usually you do **not** have to restart your computer in order for **gitlab-runner** to start (despite the instruction to restart in the documentation).
+**Before starting, read these instructions to the end.**
+1. Open the [Install GitLab Runner](https://docs.gitlab.com/runner/install/) topic in GitLab's documentation in a new browser tab or window.
+1. While reading the instructions for the employed operating system, decide which of the **Binaries** matches the operating system used.
+1. Complete all the steps except for the instructions on runner registration. That can safely be skipped. Included below in this document are the runner registration instructions needed for this exercise.
+1. Start these instructions now by opening the link [Binaries](https://docs.gitlab.com/runner/install/#binaries)!
+1. For either macOS or Windows operating system, **skip any instructions about "Registering a Runner"** in the instructions found in the  section of the installation documentation.
+1. If Linux is the operating system, navigate to the [Repositories](https://docs.gitlab.com/runner/install/#repositories) section of the installation documentation. Follow the installation instructions found there.
+1. After finishing the installation, run `gitlab-runner status` to verify that the **gitlab-runner** service is up. Usually a computer restart is not needed in order for **gitlab-runner** to start, despite instructions in the documentation to do so.
 
 ### Create a project
 1. In the top navigation bar, click **Groups > Your Groups**.
@@ -66,8 +70,10 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 
 ### View a pipeline's status, stages, jobs, and gitlab-runner
 1. In the left-hand navigation pane, click **CI/CD > Pipelines**
-1. The first row shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**. Click the status icon to see the pipeline's details. You'll see columns representing the pipeline's stages, and widgets representing jobs within each stage.
-1. Click each of the two jobs to see the output in a web terminal. Identify the gitlab-runner for each job (*hint: it's listed near the top of each job's output*). The gitlab-runner for each job is selected at random, although you can use tags to limit which runners run which jobs.
+1. The first row shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**. 
+1. Click the status icon to see the pipeline's details. You'll see columns representing the pipeline's stages, and widgets representing jobs within each stage.
+1. Click the job in the column representing the `Build` stage and the job in the column representing the `Test` stage to see their output in web terminals. 
+1. Identify the gitlab-runner for each job, listed near the top of each job's output. The gitlab-runner for each job is selected at random, but you can use tags to limit which runners run which jobs.
 
 
 ## Suggestions?

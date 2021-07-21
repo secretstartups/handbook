@@ -20,7 +20,31 @@ description: "Describes the processes for scoping migrations."
 
 # Migration Scoping Details
 
-This page describes scoping migrations from one GitLab source to another or from Bitbucket Server or GitHub (Enterprise or .com).  The migrations utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately.
+This page describes scoping migrations from GitLab, Bitbucket Server or GitHub (Enterprise or .com) to a destination GitLab instance (Self Managed or SaaS).  The migrations typically utilize our [Congregate](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate) automation tool.  Migrations from other SCM systems and non-GitLab CI/CD migrations are out of scope for this migration tooling and must be scoped separately.
+
+Using the [services calculator](https://services-calculator.gitlab.io/), an SA/SAL/AE/TAM can create scoping issue, and work with an Engagement Manager to iterate and refine the services estimate for a customer. In this issue, we have included additional context to the SCM Migration Scoping Questions, which can be previewed below
+
+<!--DEBT: below should be embedded from the SSOT locaed https://gitlab.com/services-calculator/services-calculator.gitlab.io/-/blob/master/make-ps-creates.py#L25-->
+
+| SCM Migration Scoping Question | Customer Response | Example response | Rationale for asking | 
+| - | - | - | - |
+| Source SCM System(s) | to-do | Bitbucket Server, GitLab Self-Managed | GitLab PS has automation to facilitate migration for the most popular source systems. Need to know what systems the data is coming from to accurately scope the time to migrate. |
+| Total number of Users** | to-do | BB = 225, GLSM = 775 | Migrating users is a pre-requisite step to migrating the data to ensure data elements are associated properly. This is a discrete task in migration engagements and must be scoped with number of users as an input. |
+| Total portfolios (w/ stakeholder rep) | to-do | 6 | We use total portfolios as a proxy metric to identify how much coordination will be required during migration. Each portfolio leader needs to understand and buy into the migration process for things to go smoothly. This coordination time is built into the migration engagement. |
+| Total number projects <5GB (git repositories)  | to-do | BB = 1,234; GL = 4321 | Large repositories must be migrated with a different more manual process that requires coordination with other departments in gitlab. As such, we will scope these migration activities accordingly. |
+| Total >5GB GitLab repositories | to-do | BB N/A, GL = 3 | Large repositories must be migrated with a different more manual process that requires coordination with other departments in gitlab. As such, we will scope these migration activities accordingly. |
+| Destination GitLab deployment  (SaaS, Self-Managed(HA), Self-Managed(single node)) | to-do | SaaS | We ask this to ensure the destination system deployment is strong enough to handle the throughput of data that will be required during migration. |
+| Source gitlab version (must be 2 behind latest) | to-do | 13.4 | Migration services leverage many GitLab APIs including our project import/export API. There are specific compatability guidelines [documented here](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history) |
+| Destination gitlab version (must be within 2 minor versions of source) | to-do | 14.1 |  Migration services leverage many GitLab APIs including our project import/export API. There are specific compatability guidelines [documented here](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history) |
+| CI/CD System(s) | to-do | Jenkins | We need to know what CI/CD systems are being used to estimate how much it will take to repoint those pipeline jobs to the new SCM system to help the customer resume IT operations. |
+| Total ci/cd jobs? (CI/CD jobs will need cut-over even if not migrated) | to-do | 4567 | The engagement could include repointing CI/CD jobs back to a source repository. If this is the case, we will need to know how many jobs need to be reconfigured. |
+| Typical registry size | to-do | 159MB | If registry sizes are unusually big, it could affect the speed of migration. _Note: this question only applies to migrations where gitlab is a source system._ |
+| SSO Identity Provider | to-do | Auth0 | We want to make sure this is already in place prior to migration as it is a foundational to the success of a migration engagement. See here for a [full list of supported Identity Providers](https://docs.gitlab.com/ee/administration/auth/) |
+
+**Notes:**
+1. Source Code Management (SCM) Migrations do not include secrets mediation.
+1. SCM migrations do not include transitioning CI/CD functionality to use GitLab CI.
+
 
 ## GitLab Self-Managed to GitLab.com Migration Notes
 - see [Congregate Features Matrix](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate/-/blob/master/gitlab-migration-features-matrix.md) to see a comparison of GitLab ui migration vs Congregate migration and gain a better understanding of which features get migrated and which don't.
