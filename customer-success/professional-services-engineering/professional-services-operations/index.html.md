@@ -407,7 +407,7 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 * The approving manager will submit to the Head of PS, [Sr. Director of Professional Services](https://about.gitlab.com/job-families/sales/director-of-professional-services/) for next level approval.  The Head of PS with apply judgement on productive utilization.
 * Head of Professional Services will submit to the Professional Services Finance Partner for final approval.
 
-#### Project Expenses
+### Project Expenses
 GitLab Employee Travels:
 
 Before making a purchase of any type or booking travel for a customer project, be sure to obtain approval from your Project Manager or Project Coordinator. The Project Manager or Project Coordinator would need to review if an expense requirement was included in the project SOW or Order Form.  Once the purchase has incurred or travel expenses booked, please, be sure to follow the process outlined to be sure that expenses are accounted for the month in which they are incurred. 
@@ -437,7 +437,7 @@ Once the travel has incurred the expenses should be submitted for invoicing thro
 Expenses are to be invoiced in the month in which they have incurred.
 
 
-#### Mavenlink Project Status/ Colors
+### Mavenlink Project Status/ Colors
 
 | Mavenlink Status |  |
 | ------ | ------ |
@@ -460,7 +460,7 @@ Expenses are to be invoiced in the month in which they have incurred.
 | Orange | Consulting & Training Project |
 | Lime | Internal Project |
   
-#### Consulting Project Health Reports
+### Consulting Project Health Reports
 
 Health Reports provide a weekly snap shot status to PS Management on the overall project status, and rolled up to executives.  The report includes a Red, Yellow and Green indicator along with a section to update on overall status, schedule, scope, budget, client.  Health reports should be filled out by the project lead or project manager by Thursday of week each by EOD for the projects that are in the Active project status.  
 
