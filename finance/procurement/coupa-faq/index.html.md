@@ -106,3 +106,30 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 ### Do suppliers receive purchase orders via e-mail if they select cXML as the transmission method?
 
 - If they select cXML as your transmission method, they will not receive purchase orders via e-mail. The cXML links directly between the supplier's system and GitLab's system.
+
+## COUPA PAY
+
+### What is Coupa Pay?
+
+- Coupa Pay is a digital payments program to pay your invoices. You will be able to track and manage all your accounts receivable in one place and obtain instant access to every payment and associated remittance advice.
+- Below is a useful link with more information regarding Coupa Pay:
+   - https://supplier.coupa.com/gitlab-payment/
+
+### How do suppliers register for Coupa Pay?
+
+- Suppliers will need to set up their Remit-To account in Coupa. It can be done during the initial onboarding process or via the Coupa Supplier Portal (CSP).
+- Below is a useful link with more information regarding setting up Remit-To accounts:
+   - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information#:~:text=To%20create%20a%20new%20remit,Admin%20%3E%20Legal%20Entity%20Setup%20page.
+
+<div class="panel panel-info">
+**NOTE**
+{: .panel-heading}
+<div class="panel-body">
+
+- Avoid using any special characters when entering Remit-To Address
+- The currency of your bank account has to match the currency of your invoices
+
+If there are any issues with setting up a Remit-To account, please email ap@gitlab.com for assistance.
+
+
+
