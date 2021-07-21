@@ -1187,7 +1187,7 @@ Consider using Slack's <b>[Starred channel](https://slack.com/help/articles/2013
 An example of three spotlight channels approach is below. Slack allows you to organize your sidebar of starred channels with <b>[custom sections](https://slack.com/help/articles/360043207674-Organize-your-sidebar-with-custom-sections)</b> to visibly raise or lower their priority level, giving you control over what you see first.
 
 1. Channels important to my job (e.g. a team member in Corporate Marketing may star `#marketing`, `#corp-mktg`, `#newswire`, `#external-comms`, `#website`, `#handbook`)
-1. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`)
+1. Channels important to GitLab (e.g. `#company-fyi`, `#whats-happening-at-gitlab`, `#team-member-updates`, `#e-group`, `#ceo`, `#new-vacancies`)
 1. Channels important to my interests (e.g. `#travel`, `#remote`, `#daily-gratitude`, `#mental_health_aware`, `#intheparenthood`, `#women`, `#diversity_inclusion_and_belonging`)
 
 #### Manage your Slack notifications
@@ -1258,6 +1258,7 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#loc-specific channels`             | Search loc\__insert your location_ to connect with GitLab team members in your location (e.g `#loc_italy`, `#loc_chicagoland`, `#loc_mexico`, etc.).                                                                                 |
 | `#mr-buddies`                        | For any questions regarding merge requests.                                                                                                                                                                                          |
 | `#new_team_members`                  | For new GitLab team members to introduce themselves to the company and for existing team members to share updates with new hires.                                                                                                    |
+| `#new-vacancies`                  | For all GitLab team members to be aware of internal opportunities, as well as all job openings as they are listed. Please review the [referral process](/handbook/hiring/referral-process/) page to find out more about referring someone for a role.                                                                                                   |
 | `#office-today`                      | GitLab is an [all-remote](/company/culture/all-remote/) organization. Where’s your office today? Share a photo or use words to describe it.                                                                                          |
 | `#payroll`                           | For questions pertaining to [payroll](/handbook/finance/payroll/) and [contractor invoices](/handbook/finance/payroll/#non-us) (e.g. ADP, etc.).                                                                                     |
 | `#people-connect`                         | For general People Ops questions (e.g. [onboarding](/handbook/people-group/general-onboarding/), [offboarding](/handbook/people-group/offboarding/), [team meetings](/company/culture/all-remote/meetings/), etc.).                  |
