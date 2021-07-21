@@ -87,7 +87,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
    - [https://www.supplier.coupa.com/help](https://supplier.coupa.com/help/)
    
 - Chat with Coupa Support
-   - Whether you are logged into Coupa Supplier Portal, you can chat with Coupa Support to get a quick response or resolution to your question/issue (see below screenshot).
+   - You can chat with Coupa Support to get a quick response or resolution to your question/issue. Click on the "Chat with Coupa Support" button located in the lower right corner of any screen (see below screenshot).
    - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
 
    ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
