@@ -36,7 +36,7 @@ Teams can customize this process to meet needs specific to their team as long as
 
 * Product Designer: attach first draft designs to the planning issue (directly or via linked issue)
 * Product Designer: add a comment asking for feedback on first draft designs
-* Engineering Managers: add a comment asking for feedback on Scope of Engineering work from engineers or other GitLabbers
+* Engineering Managers: add a comment asking for feedback on Scope of Engineering work from engineers or other GitLab team members
 
 #### M-1, 15th (~1 weeks before start of milestone)
 
