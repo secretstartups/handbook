@@ -527,7 +527,7 @@ The above planning list is not exhaustive - see planning issue template in field
 - The event DRI determines how many staffers we need at the event and is responsible for ensuring the staffers are all set to attend the event.
 - If the event is more enterprise-focused we try to send more marketing/sales. Regional Sales Managers in partnership with FM select team members based on who has the most potential contacts in the area or going to an event.
 - If the event is more user-focused we will lean towards sending more technical people to staff and fewer sales.
-- Suggestion for staffing: Field Marketing will evalute GitLabbers who live in the area that might be a good fit for the audience.
+- Suggestion for staffing: Field Marketing will evalute GitLab team members who live in the area that might be a good fit for the audience.
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
 - We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you would like to or would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
