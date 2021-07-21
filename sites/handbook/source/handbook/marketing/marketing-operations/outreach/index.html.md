@@ -279,3 +279,52 @@ Bi-quarterly, we will be deleting prospects out of Outreach with an aim of keepi
 | Opted Out - No SFDC ID* | 
 
 We are using triggers in Outreach to tag those that we included in the next round of deletion. If you see your prospect with a delete tag on it and feel it should not be, just remove the tag and it won't be included. For more details please see [here](https://docs.google.com/document/d/1n4TCW3yWMQTRDY1uV19WYOUUCzmmWjuZPX_w6zbS-Wg/edit?usp=sharing).
+
+
+## Outreach Reports for Managers
+
+Firstly, we recommend all managers complete this [Outreach University training for reports.](https://university.outreach.io/outreach-reports). Please set up a regular schedule for viewing reports, use this reporting to structure your 1:1s, keep your reps using the recommended naming structure and governance of activities to have accurate report data. 
+
+### Team Performance Reports:
+
+On these reports please look for the following information to ensure your teams are performing well. You cann filter by your team to deep dive. If you would like a full breakdown on what all the metrics mean- please see [here](https://support.outreach.io/hc/en-us/articles/1260801927169-Outreach-Insights-Metrics-Definitions). 
+
+**Booked meetings vs end of month forecast** - this forcecast is based on your team members activity. Make note of the conversion rates, please find the average for you team and note those who are above average. Also make note of the breakdown of job titles your rep is meeting with- to do this , click on their number of "Prospects Contacted".
+**Response time** - While we have a culture of work when best suits you at Gitlab, there is an expectation to keep response times fast as this can directly influence conversion rates- therefore anything over 8 hours will need to coached. Please note that you can break down response time by job titles but clicking into the hours listed by individual rep. 
+**Email Sentiment** - This is a good tool for coaching reps, you can drill down into the objections to coach through responses. You can also highlight postive replies to the wider team. 
+
+### Activity:
+
+This is a great report to monitor your team's KPIs- currently SDRs need 45 touchpoints a day (this report will only show emails, calls, tasks, it will not give a full picture of the [different touchpoints](https://about.gitlab.com/handbook/marketing/revenue-marketing/sdr/#activity--results-metrics) that count towards this KPI. ) You want to see a steady trickle of prospects added weekly. Overdue tasks are a sign that they are not completely their tasks and are possibly overwhelmed if there are over 100. You can filter all the following tabs by individual users or team. Below are the questions that you can answer using these reports:
+
+Email Tab Questions:
+- How effective are my teams emails/templates?
+- What is the best time of day to email for reponses? 
+
+Calls tab questions:
+- Are my team logging calls correctly?
+- What are the outcome of my teams calls?
+- What is the best time to call? 
+- How long are my teams calls?
+
+Tasks tab questions:
+- Are my team working efficiently- comparing prospects added to sequences vs manual tasks?
+
+### Sequence Performance:
+
+This will show how sequences are being adopted by your teams and overall performance. If you evaluating a new sequence and are unsure if you have enough responses to evaluate, you can check the statisical significance of your sequence against a **similar** sequence. There are calculaters online to use - [example](https://neilpatel.com/ab-testing-calculator/).
+
+**How do I know if a sequence is performing well?**
+
+Firstly take note of the averages for your team and understand the objective of the sequence you are measuring. Different objectives will result need different measurement.  Then order Prospects sequenced by descending and compare the amount added to the meetings booked & reply rate. It may be easier to export a CSV as you will be able to see sentiment percentages in the same sheet. 
+
+**How many steps is too many steps in a sequence?**
+
+In your sequence report, open the step view by clicking on the sequence name. Check the email sentiments of the reply rates for each step and note when the steps start to result in mostly objections/unsubscribes in their replies. To drill down into the objections, go to the email sentiment page and understand if they are objections due to persona/content/timing of the emails. With this knowledge, you can coach your reps on the right persona to add or adjust the content of the sequence. Make sure to look into the uncategorised sentiment to read the objections to get a full picture. You can A/B test in sequences , please see [here](https://support.outreach.io/hc/en-us/articles/360008548474-A-B-Testing-Overview) for more infomation on how to.
+
+
+### More Reports:
+
+You can filter by reps to prepare for 1:1s - prospect overview shows how their prospecting is going. Leaderboad will show most used sequences. Make sure to monitor unsubscribes- keep it under 2%. You can drill down into the threads that are leading to unsubscribes and coach your rep if it is too high. 
+
+
