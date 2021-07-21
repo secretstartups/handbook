@@ -13,7 +13,7 @@ description: "Support Engineer test environment setup options and guidelines"
 
 ## Selecting the Right Testing Environment
 
-Support Engineer's need testing environments to learn how to support GitLab and also to replicate customer issues.
+Support Engineers need testing environments to learn how to support GitLab and also to replicate customer issues.
 
 This page explains the main choices available to you. Some guidelines:
 
@@ -24,6 +24,7 @@ This page explains the main choices available to you. Some guidelines:
 1. If you need a more complex environment (e.g. with a runner configured) [support resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) can help you.
 1. For K8s Helm installations, we recommend using GKE - see the section below.
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
+1. Consider joining the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
 
 Have fun!
 
@@ -57,29 +58,35 @@ You can create (ephemeral) testing environments. We recommend using the support-
 
 ### GCP
 
-#### GCP `support-resources` project (preferred)
+#### GCP `support-resources` automation (preferred)
 
-Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances.
+Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances. If you don't have access to this project, please create an access request and assign your manager for approval.
 
-#### GCP `support-resources` project
+#### GitLab Sandbox Cloud for GCP
 
-If you need to manually create resources in a GCP testing environment, please use the `support-resources` project. You can do so using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
-If you don't have access to this project, please create an access request and assign your manager for approval.
+If you need additional flexibility for creating test environments. The [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) allows for creating a personally-owned GCP project. You can do so using the [GCP console](https://console.cloud.google.com/home/dashboard), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud). If you need to replicate any of the [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/), it's recommended that you use the [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit).
 
-**Warning:** you may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. You should **not** create resources in these projects.
+**Note:** Please remember to shut down resources that you are no longer using. The personally-owned GCP projects aren't yet making use of the [frugal resources tool](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md#frugal-resources) for automating the shut down of resources created in your own project.
 
-**Note:** Please remember to shut down resources that you are no longer using.
+#### Other GCP Projects
 
+You can use the `support-resources` project to manually create resources in a GCP testing environment alongside the resources created by our [automation tools](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md). As with the [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) for GCP - you can manage these manually created resources using the [GCP console](https://console.cloud.google.com/home/dashboard?project=support-resources-c801eb), or [gcloud command line tool](https://cloud.google.com/sdk/gcloud).
+
+**Warning:** You may also have access to the `gitlab-internal` and `gitlab-support` GCP projects. It's strongly recommended that you make use of the `support-resources` project or the GitLab Sandbox Cloud, instead of creating new resources in these projects.
+
+We also have a `support-openshift` project created for the purpose of creating OpenShift clusters for testing the [GitLab Operator](https://gitlab.com/gitlab-org/cloud-native/gitlab-operator) and [GitLab Runner Operator](https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator). Reach out to your Support Team colleagues in the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) for more details on using this project for shared OpenShift testing.
+
+**Note:** Please remember to shut down any manually created that you are no longer using.
 #### GCP GKE Kubernetes Cluster
 
-Please use the `support-resources` GCP project for creating a GCP Kubernetes cluster.
+Please use the `support-resources` GCP project or your [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) GCP project to create a GCP Kubernetes (GKE) cluster. If you are using the `support-resources` GCP project you can create a GKE cluster manually from the console or you can use the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master) automation project to streamline your [GKE cluster creation](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster) and there's even an option to [create a GKE cluster that already has GitLab installed through helm chart](https://gitlab.com/gitlab-com/support/support-resources/-/tree/master#how-do-i-spin-up-a-gke-cluster-with-gitlab-installed-through-helm-chart).
 
 <details>
 <summary>Open me for instructions on how to do so</summary>
 <div markdown="1">
-Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).  
+Select Kubernetes Engine from the dashboard, and then Create Cluster. Enter a name, select a zone, and choose the default static master version unless you have a specific reason to use an alternative version.  It's important to use a server version that will [match your kubectl client version](https://kubernetes.io/docs/tasks/tools/install-kubectl/#before-you-begin).
 
-All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).  
+All of the remaining options can be left as their default settings unless you have a need to add customization to your cluster.  Of note, the Maximum Pods per Node option [directly correlates with the CIDR assignment](https://cloud.google.com/kubernetes-engine/docs/how-to/flexible-pod-cidr?_ga=2.246280516.-1734733517.1581009580) of your node(s).
 
 Connecting to, and configuring, your cluster can be done locally using [gcloud](https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version) and [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/#download-as-part-of-the-google-cloud-sdk). Or you can use the Google Cloud Shell.  Clicking Connect in GCP will provide the command to run locally for you to copy and paste, or let you open Cloud Shell immediately. Using [docker images](https://hub.docker.com/r/kiwigrid/gcloud-kubectl-helm) is also an option for a quick deployment of all tools locally.
 </div>
