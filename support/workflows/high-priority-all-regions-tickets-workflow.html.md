@@ -1,3 +1,16 @@
+---
+layout: handbook-page-toc
+title: Working on High Priority All-Region Tickets
+category: Handling tickets
+description: How to work on High Priority All-Region Tickets
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 THIS IS V1. BE KIND, assume positive intent, and contribute please! :heart_emoji:
 
 # Goal
@@ -8,6 +21,7 @@ Because of the overhead of global coordination, we should aim to focus on Solvin
 
 # As a support engineer, what do I do when I come across an `HPAR` ticket?
 
+1. Make sure that a ticket is created by Premium or Ultimate customer as tickets from Starter customers are not impacted by `HPAR` workflow.
 1. Make sure it's actually a [high priority ticket](https://about.gitlab.com/support/#definitions-of-support-impact).
 1. If it is, then do not assign
    - If you have capacity or know an expert, then work the ticket or ask an expert to engage.
