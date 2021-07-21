@@ -375,7 +375,16 @@ Internal projects are set up to track internal time that is not customer project
     * All hours should be tracked against the task for preparation and close out of the training
   * All class hours are to be tracked against the task that gives the name of the training, example is GitLab Basics TRNG Hours
 
-#### Quarter End Time Tracking 
+#### Quarter End Guidelines
+
+### Revenue and Billing Timelines
+
+Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
+All timesheets and fixed priced items will be signed off and completed on the quarterly deadline, then timesheets approvals and reports are run the following day.
+There is an agreement with revenue if FP items over $10,000 process after the cutoff date and prior to month end, and the billing is complete then the revenue can be processed and accounted for the current month.
+
+
+### Quarter End Time Tracking 
 Professional Services has a hard quarterly close for each quarter
 
 Our agreed schedule with finace is [Montly/ Quarterly/ Year End Time Lines](https://docs.google.com/spreadsheets/d/15uTHHnmIvWteYGi98BaikOVDtN99MLiVN9su-YlMMLM/edit#gid=0)
@@ -388,7 +397,7 @@ Here is an example of a time sheet that has been submitted and approved on a Tue
 
 ![splittimesheet](./splittimesheet.png)
 
-#### Quarterly time tracking entry and approval workflow
+### Quarterly time tracking entry and approval workflow
 
 * All hours are submitted and approved in Mavenlink on a weekly basis
 * The quarterly hours report is pulled from Mavenlink and reviewed by the PC and then provided to the PS Delivery Manager for review and approval
