@@ -90,7 +90,8 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
    - Whether you are logged into Coupa Supplier Portal, you can chat with Coupa Support to get a quick response or resolution to your question/issue (see below screenshot).
    - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
 
-   ![coupa-image-1](/handbook/finance/procurement/coupa-faq/Coupa Support Chat.png) 
+   ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
+   
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
