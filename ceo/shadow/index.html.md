@@ -926,7 +926,7 @@ In case your shadow rotation includes time without shadowing, it is possible to 
 
 #### Rideshare from airport
 
-At San Francisco International airport (SFO), all rideshare apps (Uber, Lyft, etc) pick up on level 5 of the parking structure. When coordinating travel from SFO to Mission Control with other Shadows, GitLabbers or Sid arranging to meet on level 5 of the parking structure is most efficient as each terminal has its own baggage claim area.
+At San Francisco International airport (SFO), all rideshare apps (Uber, Lyft, etc) pick up on level 5 of the parking structure. When coordinating travel from SFO to Mission Control with other Shadows, GitLab team members, or Sid, arranging to meet on level 5 of the parking structure is most efficient, as each terminal has its own baggage claim area.
 
 ### Expensing meals
 
