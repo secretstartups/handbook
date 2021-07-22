@@ -9,7 +9,7 @@ title: "Database: Disaster Recovery"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Database: Disaster Recovery
+## Purpose - Database: Disaster Recovery
 
 This page contains an overview of the disaster recovery strategy we have
 in place for the PostgreSQL database. In this context, a disaster means
@@ -27,6 +27,16 @@ replay the WAL until a certain point in time is reached (for example,
 right before the disaster happened earlier).
 
 Currently, AWS S3 serves as a storage backend for the PITR archive.
+
+## Scope
+
+This handbook page applies to recovery of the GitLab PostgreSQL production database in a disaster scenario.
+
+## Roles & Responsibilities
+
+| Role | Responsibility|
+| ---- | ------ |
+| GitLab Infrastructure teams | Responsible for executing recovery of the production gitlab.com database in the event of a disaster |
 
 ### Restore testing
 
@@ -104,3 +114,11 @@ confidence in our cold backup and PITR recovery strategy.
 
 * Production host: `postgres-dr-archive-01-db-gprd.c.gitlab-production.internal`
 * Chef role: `gprd-base-db-postgres-archive`
+
+## Exceptions
+
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+
+- [Controlled Document Procedure](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html)
