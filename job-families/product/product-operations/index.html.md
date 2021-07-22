@@ -4,7 +4,7 @@ title: "Product Operations"
 description: "GitLab is seeking a Sr. Product Manager to manage the GitLab product development system as a product, and help evolve it into a world class system that can scale rapidly with GitLab the company."
 ---
 
-## Senior Technical Product Manager, Product Operations
+## Senior Product Manager, Product Operations
 
 ### Role
 
