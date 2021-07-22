@@ -151,6 +151,10 @@ Make sure that you use queer as an _adjective_ and not as a noun. Good examples:
 
 But something like "Amy is **a** queer" is offensive.
 
+#### QUILTBAG
+
+QUILTBAG is a comprehensive, newer term that stands for queer and questioning, unsure, intersex, lesbian, transgender and two-spirit, bisexual, asexual and aromantic, and gay and genderqueer. It is a easier way to say LGBTQ+ as well as being a bit more inclusive. It was first coined in October 2006 by Sadie Lee in *Diva Magazine*.
+
 ## Frequently Asked Questions
 
 ### What’s the difference between sex and gender?
