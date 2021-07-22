@@ -516,7 +516,7 @@ Jacki Bauer, UX Manager Enablement and Growth
 [Pajamas Design System](https://design.gitlab.com/)
 [Product Designer job family](/job-families/engineering/product-designer/)
 [UX Researcher job family](/job-families/engineering/ux-researcher/)
-[UX Management job family](/job-families/engineering/ux-management/)
+[Product Design Management job family](/job-families/engineering/product-design-management/)
 [UX Research issue tracker](https://gitlab.com/gitlab-org/ux-research/issues)
 [Participant program](/community/gitlab-first-look/)
 
