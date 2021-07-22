@@ -150,7 +150,7 @@ Review:
 - [Using Kibana](/handbook/support/workflows/kibana.html) - explore GitLab.com log files to find the errors customers are encountering.
 - [Using Sentry](/handbook/support/workflows/sentry.html) - get access to the full stacktrace of errors a customer might encounter.
 
-We're expecting, broadly that emergencies will fall into one of four categories:
+We're expecting, broadly that emergencies will fall into one of five categories:
 
 - **broken functionality due to a regression being pushed to GitLab.com** 
    - Success may mean: reproducing, identifying or creating a bug report and escalating to have a patch created and deployed.
@@ -161,6 +161,8 @@ We're expecting, broadly that emergencies will fall into one of four categories:
 
 - **License / Consumption issues are preventing access to the product**
    - Success here means getting the customer into a state where they're unblocked and making sure the license team is equipped to take the handover.
+- **a widespread incident causes multiple, successive PagerDuty alerts**
+   - Success here means tagging and bulk responding to the issues pointing to the [GitLab.com Status Page](https://status.gitlab.com) and production issue.
 
 ### Broken Functionality
 If a customer is reporting that behaviour has recently changed, first check [GitLab.com Status](https://status.gitlab.com) and `#incident-management` for any on-going incidents. If there's no known incident:
@@ -217,6 +219,52 @@ A customer may be blocked because they've exceeded their storage quota.
 
 1. Advise them to purchase additional storage
 1. In cases where a customer is unable to complete a purchase because of a defect or outage, as a courtesy, someone with GitLab.com admin can override the storage limit on a group.
+
+### A widespread incident causes multiple, successive PagerDuty alerts
+
+If an incident occurs on GitLab.com and hasn't been posted on the status page, SaaS customers may raise emergencies in bulk.
+Success in such a situation is two-fold:
+1. Route customers reporting the incident to our status page, `@gitlabstatus` on Twitter and the production incident issue.
+1. Sort through the alerts to ensure that there are no emergencies raised that are unrelated to the on-going incident.
+
+If this occurs:
+1. Don't panic! Slack and PD alerts may come quickly and frequently. Consider silencing both temporarily and focus on ZD.
+1. Verify that an [incident has been declared](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html#how-are-incidents-declared) and that the incident is actively being worked.
+1. If there is no update on the status page yet, advocate for urgency with the [CMOC](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#communications-manager-on-call-cmoc-responsibilities) so that you can point to it in responses.
+1. Choose a unique tag that will help you identify tickets, using the incident number would be typical. For example: `incident-12345`
+1. Create a bulk response that points to the incident on the status page, `@gitlabstatus` on Twitter and the production issue. If any of these aren't available yet, you can send a response without to keep customers informed. You can include them in a future update.
+   - Share the response that you draft or otherwise coordinate with `#support_gitlab-com` and others fielding first responses. There are likely non-emergency tickets being raised about the incident. Using the same response increases the efficiency with which we can all respond to customer inquiries about the problem.
+1. Create the tag by typing it into the tag field of at least **one** ticket and submitting it - if you don't, it won't show as available in the bulk edit view of Zendesk.
+1. Use Zendesk search to identify customer-raised emergencies:
+   - [`priority:urgent order_by:created_at sort:desc`](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=priority%3Aurgent%20order_by%3Acreated_at%20sort%3Adesc) will show all emergency tickets, sorted by those opened most recently
+   - [`priority:urgent order_by:created_at sort:desc status:new`](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=priority%3Aurgent%20order_by%3Acreated_at%20sort%3Adesc%20status%3Anew) will show all **new** emergencies
+   - **CAREFUL**: Verify that each ticket is related to the incident - if it is not, follow [handling multiple simultaneous emergencies](#handling-multiple-simultaneous-emergencies)
+1. Use [Zendesk Bulk Update](#using-zendesk-bulk-update) to respond to all open tickets.
+
+At any point, you may ack/resolve PD alerts. It may be faster to do so through the PagerDuty web interface.
+
+During an incident:
+ - *If there is no production issue to link to yet*: let customers know we are actively working to address the problem and that we will follow-up with a link to a tracking issue as soon as one is created. Set the ticket to **Open**. Once the issue is available, send a follow-up note letting the customer know that they should follow along with the issue and that we are marking the ticket as **Solved**. Inclue a note that they should reply if they still have trouble once the production issue has been closed / the incident has been declared resolved.
+- *If there is a production issue to link to*: let customers know we are actively working to address the problem, that they should follow along at the issue, that we are marking the ticket as **Solved** and they should reply if they still have trouble once the production issue has been closed / the incident has been declared resolved.
+
+#### Using Zendesk Bulk Update
+
+[Zendesk Bulk Update](https://support.zendesk.com/hc/en-us/articles/203690866-Managing-tickets-in-bulk#topic_oth_lkp_gk) is a way to mass edit and respond to tickets. During an incident, you can use it to:
+- automatically tag tickets
+- send a bulk response
+- set status _en masse_
+
+You can bulk edit tickets by:
+1. From a Zendesk search click one or more checkboxes
+2. Click "Edit `n` tickets" in the upper right-hand corner
+3. Edit the properties of the ticket you'd like to update. During an incident that will probably be:
+  - A public reply
+  - A ticket tag
+4. Click Submit with the appropriate status change
+
+![ZD Bulk Update View](/images/support/zd-bulk-update.png){: .shadow}
+
+
 
 ## US Federal on-call
 
