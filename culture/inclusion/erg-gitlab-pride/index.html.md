@@ -34,6 +34,7 @@ To ensure that GitLab is proactive in supporting, retaining, and recruiting from
 
 - Sign up to get meeting invites by joining the [GitLab Pride Google Group](https://groups.google.com/a/gitlab.com/g/pride-tmrg)
 - [GitLab Pride Issue Board](https://gitlab.com/gitlab-com/pride-tmrg/)
+- [Gender and Sexual Orientation Identity Definitions and FAQ](https://about.gitlab.com/handbook/people-group/gender-pronouns/)
 
 ## Resources for Being an Ally with the Pride Community
 - Gladd.org: [10 Ways to Be an Ally & a Friend](https://www.glaad.org/resources/ally/2)
