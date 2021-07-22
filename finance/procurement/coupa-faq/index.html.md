@@ -130,6 +130,9 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 - Avoid using any special characters when entering Remit-To Address
 - The currency of your bank account has to match the currency of your invoices
 
+</div>
+</div>
+
 If there are any issues with setting up a Remit-To account, please email ap@gitlab.com for assistance.
 
 
