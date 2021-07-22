@@ -131,7 +131,7 @@ Best practices for presentations:
 1. If you want to present, please consider [posting a recording to YouTube](/handbook/marketing/marketing-operations/youtube/) at least a day before the meeting. Link it to the Google Doc (including specifying whether the video is private or public), and mention it in the relevant slack channels.
 1. Once a quarter, add a slide covering items being actioned from the engagement survey.
 1. Use this [slide deck](https://docs.google.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) as template to your presentation. Presentations should allow editing (preferred) or commenting from everyone at GitLab.
-1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and do not give us an accurate picture of performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
+1. We encourage you to share metrics and key results during your Group Conversation. Please do not use cumulative metrics in your Group Conversations since those will usually show an upward trend and make it difficult to assess current performance. It is more appropriate to share cumulative metrics externally. See [#8 of the general presentation suggestions](/handbook/communication/#presentations) for more information about cumulative metrics.
 
 For more general presentation best practices, please see our communication handbook's [Presentation section](/handbook/communication/#presentations). 
 
