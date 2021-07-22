@@ -25,7 +25,18 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
       INLINE_LOCAL_VARIABLE: "I'm an inline variable set at the job level of the CI/CD configuration file"
     ```
 
-    Indentation matters when working with YAML files. The variable `INLINE_GLOBAL_VARIABLE` can be referred anywhere in a `.yml` file or within any jobs triggered by this file. To give a variable global scope, define it immediately under a `variables` keyword that is in the leftmost column of the file, and indent it. It must also be defined outside of any job definitions. In contrast, the variable `INLINE_LOCAL_VARIABLE` is defined on a line under a `variables` keyword which itself is on a line under a job definition, and indented.
+When defining variables, watch your indentation. Global variables must be indented by 2 spaces, and must be immediately under a flush-left `variables` keyword that is outside of any job definition. Local variables must be indented 4 spaces, and must be immediately under a `variables` keyword that is indented 2 spaces and is within a job definition.
+
+Example
+```
+variables:
+  my_scope_is_global
+
+job_a:
+  variables:
+    my_scope_is_local
+```
+
 
 1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `master`, and click **Commit changes**.
 
