@@ -347,6 +347,10 @@ exercise price reduces the cash required to exercise the shares and establish a 
 period which can have tax advantages in some countries. We describe those in this document
 but as always check with your financial or tax advisor before taking any action.
 
+## 409A Valuations
+
+GitLab team members can access the 409A Valuations schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
+
 ## Taxes
  
 Tax law is complex and you should consult a tax attorney or other tax advisor who is
