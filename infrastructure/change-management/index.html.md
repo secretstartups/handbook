@@ -272,6 +272,10 @@ Additionally, during an incident investigation, knowing which high-risk features
 
     Yes.
 
+- **Does _production_ above include _feature flags_?**
+
+    Yes.
+
 - **Does this apply only to production environment?**
 
     Yes. Only production environment. This means you can still make changes and deployments to environments other than production.
