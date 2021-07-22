@@ -24,7 +24,7 @@ advance of the production upgrade.
 
 #### Initiating The Process
 
-1. The end user initiating the request will open a new Support Request using the [Global Live Upgrade Assistance](https://gitlab1545832369.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001736419) form *** Note to James, this is the Sandbox Link, don't let this merge without updating to the PROD link** or for eligible users, the [US Federal Live Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the respective Support Portal. This will generate a high priority ticket in the instance.
+1. The end user initiating the request will open a new Support Request using the Support for Self managed Instance form with the problem type set to "Live Upgrade Assistance Request" or for eligible users, the [US Federal Live Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the respective Support Portal. This will generate a high priority ticket in the instance.
 1. The triaging engineer will assign the ticket to themselves and will review the given information. If the organization has a TAM, the TAM should be added as a CC or follower to the ticket.
 1. The user provided information must include all of the [required information](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#what-information-do-i-need-to-schedule-live-upgrade-assistance).
 1. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
