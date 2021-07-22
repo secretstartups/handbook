@@ -4,7 +4,7 @@ title: "Product develoment flow releases"
 canonical_path: "/handbook/product-development-flow/releases/"
 ---
 
-<% 
+<%
 # set the total number of releases to display. includes upcoming and past
 release_cnt = 12
 overviews = Hash.new { |hash, key| hash[key] = Hash.new(&hash.default_proc) }
@@ -22,9 +22,9 @@ overviews["13.8"] = <<-13_8
 
 <% cnt = 0 # do not modify this %>
 <% pdf_releases["Product Operations,product development flow,prodops:release"].keys.sort_by {
-    |x|  
+    |x|
     x1, x2 = x.split(".")
-    x1.to_i * 10 + x2.to_i
+    x1.to_i * 100 + x2.to_i
    }.reverse.each do |release| %>
     <% next if pdf_releases["Product Operations,product development flow,prodops:release"][release]["content"].blank? || (cnt >= release_cnt) %>
     <% cnt += 1 %>
@@ -68,9 +68,9 @@ overviews["13.8"] = <<-13_8
 ##### Changes
 * [Product Development Flow v1.1 (Milestone 13.6) Changelog](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/69131)
 
-### 13.5 (2020-10-22) 
+### 13.5 (2020-10-22)
 
-* New structure and core content to shift to an outcomes/activities model. 
+* New structure and core content to shift to an outcomes/activities model.
 * Introduced key participants table to clarify collaborators at each phase
 * Replaced specific step by step instructions in each phase with potential activities to achieve specific outcomes
 * Specified what’s required in each phase to labels and outcomes, leveraging Required 🔎
