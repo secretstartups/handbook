@@ -20,74 +20,218 @@ For more information about various uses of Jira Please check out the [Get starte
 
 ### How to Set Up Jira Server
 
-First, you need to create an instance from the support resources. Ensure nothing is using port 443. We will set up Jira to use HTTPS for Gitlab integration. 
+1. You need to create an instance from the [Support-resources](https://gitlab.com/gitlab-com/support/support-resources/). Ensure nothing is using port 443. We will set up Jira to use HTTPS for Gitlab integration. 
 
-Prerequisite software:
-You need to install Java as Jira uses java JVM.
-You need to install certbot, python3-certbot-apache for you to generate certificates for HTTPS
+#### Prerequisite software:
+- You need to install Java as Jira uses java JVM.
+- You need to install certbot, python3-certbot-apache for you to generate certificates for HTTPS
 
-Installing Jira and prerequisites: 
+#### Installing Jira and prerequisites: 
 
-
-Java needs to be installed first
+1. Install Java because Jira uses Java JVM
 
 ```bash
  apt install openjdk-11-jdk  openjdk-11-jre
 ```
+1. Install certbot, python3-certbot-apache to generate certificates for HTTPS
+1. Create a folder to store Jira software for installation. 
 
-
-
-
-Create a folder to store Jira software for installation. 
-
+```bash
 mkdir  jira && cd jira
+```
 
-
-
-
-Choose the version of Jira that you want to download from this site 
-
-https://www.atlassian.com/software/jira/update
+1. Choose the version of Jira that you want to download from [Atlassian Jira Website](https://www.atlassian.com/software/jira/update).
 
 We will be using the  Jira 8.13 version so that we can test all supported GitLab integrations. However, this will not work for OAuth2.0  integration so we will later upgrade Jira to test the connection.
-Select the Jira version that you want to download.  Click on the link and select the 
 
+PLACE SCREENSHOT 1 HERE
 
+Select the Jira version that you want to download. 
 Accept and right-click submit button to get the download URL.
 
-Use wget command to download the Jira installer. 
-           wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.13.7-x64.bin
+1. Use wget command to download the Jira installer.
+
+```bash
+wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.13.7-x64.bin
+```
 
 
+1. Change the script to be executable using
 
-Change the script to be executable using
+```bash
+chmod a+x atlassian-jira-software-8.13.7-x64.bin
+```
 
- chmod a+x atlassian-jira-software-8.13.7-x64.bin
+1. Run the installer and enter Y if it requests you to install OpenJDK. 
+
+```bash
+sudo ./atlassian-jira-software-8.13.7-x64.bin
+```
+
+1.  Follow the installation instructions and enter default for all questions asked in the installation.
+
+PLACE SCREENSHOT 2
+
+1. Run Jira setup, You will activate a 30 day trial period. Select set up Jira manually. 
+1. You now have Jira setup and accessible in your localhost:8080
+1. You will have to set up Jira before using it. After you access from the browser, Select `I’II set it up myself`.
+1. In the next step, select  Built-In (for evaluation or demonstration).  
+1. Generate a license trial license for your server. 
+1. Update license in your Jira setup. 
+1. Create a Jira Admin user and continue with the next steps. 
+1. Continue with the setup and create a test project.  “GITLAB”. 
+1. Create a test issue that we will be using to test with. 
+
+#### Adding a lets-encrypt certificate to enable HTTPS connection 
+
+NOTE: 
+HTTPS connection is **required** for DVCS Connector
+
+1. Install certbot to enable you to generate the certificate
+
+```bash
+sudo apt-get update && apt-get upgrade
+sudo apt-get install certbot
+```
+
+Optionally, you can install the Certboit PApache plugin:
+
+```bash
+sudo apt-get install python3-certbot-apache
+```
+
+1. Generate a certificate for your domain 
+
+```bash
+sudo certbot certonly --standalone -d www.example.com
+```
+
+SCREENSHOT
+
+1. If everything goes fine. A new SSL will be issued at the below location. Navigate to the below directory and view files.
+
+```bash
+cd /etc/letsencrypt/live/example.com
+ls
+```
+
+You should be able to see the following list:
+
+- cert.pem
+- chain.pem
+- fullchain.pem
+- privkey.pem
+
+NOTE:
+In case you get a ``Problem binding to port 80: Could not bind to IPv4 or IPv6.` error, check the PID of the application using port 80 then stop the application running on that port and retry generating the certificates. 
+
+```bash
+lsof -i :80
+```
+
+#### Convert keypair and certificate to Java Keystore
+
+NOTE:
+I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my domain for the rest of the examples. 
+
+1. Create a PKCS12 that contains both your full chain and the private key. You need to have OpenSSL installed for that.
+
+```
+openssl pkcs12 -export -out /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.p12 \
+   -in /etc/letsencrypt/live/dwainaina-gitlab-jira-test-runner.sr.gitlab.support/fullchain.pem \
+   -inkey /etc/letsencrypt/live/dwainaina-gitlab-jira-test-runner.sr.gitlab.support/privkey.pem \
+   -name tomcat
+```
+Replace the value accordingly
+
+1. Convert the PKCS12 to a JKS using Java's Key Tool.
+
+```bash
+keytool -importkeystore \
+   -deststorepass jira_password -destkeypass jira_password -destkeystore /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks \
+   -srckeystore /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.p12  -srcstoretype PKCS12 -srcstorepass <JIRA_PASSWORD> \
+   -alias tomcat
+```
+
+Replace the value accordingly
+
+1. Copy the generated JKS file to /opt/atlassian/jira/conf
+
+```bash
+cp /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks  /opt/atlassian/jira/conf/
+```
+
+1. Change directory to /opt/atlassian/jira/conf/ and edit the `server.xml`
+
+```bash
+cd /opt/atlassian/jira/conf
+vim server.xml
+```
+
+1. Comment out to disable HTTP.
+
+```
+ <!--
+        <Connector port="8080" relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
+                   maxThreads="150" minSpareThreads="25" connectionTimeout="20000" enableLookups="false"
+                   maxHttpHeaderSize="8192" protocol="HTTP/1.1" useBodyEncodingForURI="true" redirectPort="8443"
+                   acceptCount="100" disableUploadTimeout="true" bindOnInit="false"/>
+         -->
+```
+
+1. Add the following before the closure of service block in `server.xml`
+
+```
+<Connector port="443" protocol="org.apache.coyote.http11.Http11NioProtocol"
+              maxHttpHeaderSize="8192" SSLEnabled="true"
+              maxThreads="150" minSpareThreads="25"
+              enableLookups="false" disableUploadTimeout="true"
+              acceptCount="100" scheme="https" secure="true"
+              sslEnabledProtocols="TLSv1.2,TLSv1.3"
+	      clientAuth="false" useBodyEncodingForURI="true"
+	      relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
+              keyAlias="tomcat" keystoreFile="conf/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks" keystorePass="JIRA_PASSWORD" keystoreType="JKS" />
+
+    </Service>
+```
+
+Replace jira_password with your password  and name_of_keystore to the correct Keystore
+
+1. Edit the `web.xml` in conf folder and add the following so that all requests will be handled using the HTTPS
+
+```
+<security-constraint>
+	<web-resource-collection>
+		<web-resource-name>all-except-attachments</web-resource-name>
+		<url-pattern>*.jsp</url-pattern>
+		<url-pattern>*.jspa</url-pattern>
+		<url-pattern>/browse/*</url-pattern>
+		<url-pattern>/issues/*</url-pattern>
+	</web-resource-collection>
+	<user-data-constraint>
+		<transport-guarantee>CONFIDENTIAL</transport-guarantee>
+	</user-data-constraint>
+</security-constraint>
+```
+
+1. **Optional**: [Specify JIRA home directory](https://confluence.atlassian.com/adminjiraserver/setting-your-jira-application-home-directory-938847747.html
+)) if it is not at default location: 
+
+```bash
+vim <installation-directory>/atlassian-jira/WEB-INF/classes/jira-application.properties
+jira.home = /PATH/TO/JIRA-HOME
+```
+
+1. Restart tomcat and check if the site is available in HTTPS.
+
+**NOTE:**
+HTTPS port might not be accessible after you restart tomcat.  Run the following command to enable port and apply settings:
+
+```bash
+echo 'net.ipv4.ip_unprivileged_port_start=0' > /etc/sysctl.d/50-unprivileged-ports.conf
+sysctl --system
+```
+
+1. The site should now be available as a HTTPs address. Use the credentials you used to configure to now log in. 
 
 
-
-Run the installer and enter Y if it requests you to install OpenJDK. 
-
-             sudo ./atlassian-jira-software-8.13.7-x64.bin
-
-
-
-Follow the installation instructions and enter default for all questions asked in the installation.
-
-
-
-Run Jira setup, You will activate a 30 day trial period. Select set up Jira manually. 
-You now have Jira setup and accessible in your localhost:8080
-You will have to set up Jira before using it. After you access from the browser, Select  I’II set it up myself. 
-
-In the next step, select  Built-In (for evaluation or demonstration).  
-
-
-
-Generate a license trial license for your server. 
-Update license in your Jira setup. 
-
-
-Create a Jira Admin user and continue with the next steps. 
-Continue with the setup and create a test project.  “GITLAB”. 
-Create a test issue that we will be using to test with. 
