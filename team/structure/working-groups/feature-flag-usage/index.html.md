@@ -66,7 +66,6 @@ The stakeholder departments in the table are the ones identified in the [archite
 | Member                                 | Grzegorz Bizon | Engineer | Staff Backend Engineer, Verify                  |
 | Member                                 | Craig Gomes | Engineering Manager | Backend Engineering Manager, Memory and Database   |
 | Member                                 | Michelle Gill | Engineering Manager | Engineering Manager, Create:Source Code          |
-| Member                                 | Wayne Haber | Engineering Director | Director of Engineering, Threat Management         |
 | Member                                 | Doug Stull | Engineer | Senior Fullstack Engineer, Growth:Expansion         |
 | Member                                 | Andrew Fontaine | Engineer | Senior Frontend Engineer, Release              |
 | Member                                 | Rémy Coutable | Engineer | Staff Backend Engineer, Engineering Productivity |
