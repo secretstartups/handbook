@@ -87,6 +87,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 - Here are some useful links with information on the Coupa Supplier Portal: 
    - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal) 
    - [https://www.supplier.coupa.com/help](https://supplier.coupa.com/help/)
+   - [https://www.supplier.coupa.com/help/creating-an-account-with-coupa](https://supplier.coupa.com/help/creating-an-account-with-coupa/)
    
 - Chat with Coupa Support
    - You can chat with Coupa Support to get a quick response or resolution to your question/issue. Click on the "Chat with Coupa Support" button located in the lower right corner of any screen (see below screenshot).
@@ -126,6 +127,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 - Suppliers will need to set up their Remit-To account in Coupa. It can be done during the initial onboarding process or via the Coupa Supplier Portal (CSP).
 - Below are some useful links with more information regarding setting up Remit-To accounts:
    - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information
+   - https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments
    - https://supplier.coupa.com/help/remit-to-improvements
 
 <div class="panel panel-warning">
