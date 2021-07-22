@@ -28,7 +28,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 When defining variables, watch your indentation. Global variables must be indented by 2 spaces, and must be immediately under a flush-left `variables` keyword that is outside of any job definition. Local variables must be indented 4 spaces, and must be immediately under a `variables` keyword that is indented 2 spaces and is within a job definition.
 
 Example
-```
+```yml
 variables:
   my_scope_is_global
 
