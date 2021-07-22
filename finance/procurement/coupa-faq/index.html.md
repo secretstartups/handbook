@@ -124,10 +124,10 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 <div class="panel panel-info">
 **NOTE**
-{: .panel-heading}
 <div class="panel-body">
 
 - Avoid using any special characters when entering Remit-To Address
+
 - The currency of your bank account has to match the currency of your invoices
 
 </div>
