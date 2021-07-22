@@ -95,7 +95,9 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
    ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
 
 
- - Suppliers can also email Coupa Support Team (supplier@coupa.com)  
+
+- Suppliers can also email Coupa Support Team (supplier@coupa.com)
+
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
