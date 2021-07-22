@@ -106,7 +106,7 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 Currently data science team uses JupyterLab configured in docker image to build models and derive insights. Despite the fact that GitLab's infrastructure is setup in Google Cloud Platform environment, GitLab does not use DataLab (built-in Jupyter instance provided by Google Cloud). There are two reasons for it: 1. issues that occur when we want to connect to Snowflake with DataLab 2. DataLab sets default Python as Python 2 and if we want to use Python 3 we can use only version up to 3.5, what puts limits on our team.
 
-To setup DataLab for your @gitlab.com account, follow these steps: https://gitlab.com/gitlab-data/data-science/-/tree/kevin-addl-config
+To setup DataLab for your @gitlab.com account, follow [these steps](https://gitlab.com/gitlab-data/data-science/-/tree/kevin-addl-config)
 
 
 
