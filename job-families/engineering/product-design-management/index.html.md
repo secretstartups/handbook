@@ -1,10 +1,10 @@
 ---
 layout: job_family_page
-title: "UX Management"
+title: "Product Design Management"
 description: "Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what Product Designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed."
 ---
 
-# UX Management Roles at GitLab
+# Product Design Management Roles at GitLab
 
 Managers in the UX department at GitLab see the team as their product. While they are credible as designers and know the details of what Product Designers work on, their time is spent hiring a world-class team and putting them in the best position to succeed. They own the delivery of UX commitments and are always looking to improve productivity. They must also coordinate across departments to accomplish collaborative goals.
 
@@ -34,7 +34,7 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 
 Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
-#### FE/UX Foundations
+#### UX Foundations
 
 The Foundations team works on building a cohesive and consistent user experience, both visually and functionally. You'll be responsible for leading the direction of the experience design, visual style, and technical tooling of the GitLab product. You'll act as a centralized resource, helping to triage large-scale experience problems as the need arises.
 
