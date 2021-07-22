@@ -1355,7 +1355,12 @@ Never use a Google Doc / Presentations for something non-confidential that has t
 ### Link Sharing
 
 If you _do_ need a Google Doc, create one with your company Google Workspace (formerly G Suite)
-account and set the visibility and access controls according to the following guidelines:
+account and set the visibility and access controls according to the following guidelines.
+
+The recommended defaults when sharing a document for GitLab internal purposes is setting visibility to **On - GitLab** and access to **Can Edit** to ensure everyone can contribute!
+
+**Note:** 
+To our knowledge, it is not possible to set the default to **Can Edit** and you have to change the permissions from **View** manually. We hope that Google adds this capability in the future.
 
 | **Visibility Setting**                | **Use Cases**                                                                                                                                                                                             |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1370,7 +1375,7 @@ account and set the visibility and access controls according to the following gu
 | Can Comment                           | Anyone that can view the document can add a comment but cannot edit the document. This is ideal if you want to provide visibility but retain more fine-grained control of document editing.               |
 | View                                  | Individuals with access to the document will only be able to view it.                                                                                                                                     |
 
-The recommended defaults when sharing a document for GitLab internal purposes is setting visibility to **On - GitLab** and access to **Can Edit**. Reference Google's [documentation](https://support.google.com/drive/answer/2494822?visit_id=637102981721473693-3129607436&p=link_sharing_options&hl=en&rd=1#link_sharing) on Link Sharing to learn more.
+Reference Google's [documentation](https://support.google.com/drive/answer/2494822?visit_id=637102981721473693-3129607436&p=link_sharing_options&hl=en&rd=1#link_sharing) on Link Sharing to learn more.
 
 ### Good Practices & Helpful Tips
 
