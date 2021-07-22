@@ -230,11 +230,11 @@ Here is a deep dive summary on what each function is reviewing for approval:
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
 1. Do not send the contract to the authorized signatory until all approvals are received. Doing so can put GitLab in a direct financial and/or legal risk which could need to be escalated.
 1. Once all approvals in the issue are received, send the contract to the authorized signatory:
-     - Upload the contract with the legal stamp to HelloSign
+     - Upload the contract with the legal stamp to DocuSign.
      - If a legal stamp is not included in the issue, please request clarification from legal and/or procurement by tagging them in the contract issue or asking for clarification in the #procurement slack channel.
-     - In the description field in HelloSign, paste the link to the vendor contract issue request to avoid delays in signature.
-     - Enter the signatory's name and email in HelloSign
- 1. Once the contract is signed by GitLab, send the contract to your vendor (if not already signed by the vendor) through HelloSign.
+     - In the description field in DocuSign, paste the link to the vendor contract issue request to avoid delays in signature.
+     - Enter the signatory's name and email in DocuSign.
+ 1. Once the contract is signed by GitLab, send the contract to your vendor (if not already signed by the vendor) through DocuSign.
  1. After the contract is signed by both parties, upload the fully executed contract to ContractWorks. You will need to upload the fully signed pdf into the folder labeled **01. To Be Standardized**, which in under the parent folder **01. Uncategorized**. Legal will then organize the contracts using their [instructions and best practices](/handbook/legal/vendor-contract-filing-process)
       - If you need access to ContractWorks, please process an access request [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Single+Person+Access+Request).
 
