@@ -12,10 +12,10 @@ description: "Finance Systems Operations"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## :scroll: Finance Systems Charter
+## <i class="fas fa-book" id="biz-tech-icons"></i> Finance Systems Charter
 The **Finance Systems Administrator Team** implements and supports specialized applications for the finance team within GitLab.
 
-## :busts_in_silhouette: Team
+## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the team
 
 - [Alex Westbrook](https://about.gitlab.com/company/team/#awestbrook) - Sr. Finance Systems Administrator (Allottabit about all the finance systems), *Certified Zuora Administrator*
 - [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Finance Systems Administrator (P2P and Record to Report Expert)
@@ -23,12 +23,12 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 - [Cristine Marquardt](https://about.gitlab.com/company/team/#csotomango) - Finance Systems Administrator (Service Desk Guru), *Certified Zuora Administrator*
 
 
-## :mag_right: How We Work
+## <i class="fas fa-tasks" id="biz-tech-icons"></i> How We Work
 
 - **All work starts with an [Intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new?issue%5Bmilestone_id%5D=) (Labels: `~BT Finance Systems` and `~EntApps Intake`).**
 - Once submitted, the issue will go to our [triage board](https://gitlab.com/groups/gitlab-com/-/boards/2814841?label_name[]=BT%20Finance%20Systems&label_name[]=EntApps%20Intake). This board is monitored daily. Before it is dispatched the request is reviewed to ensure there is enough details provided, once all information has been gathered, depending on the nature of the issue, it is assigned either the `~FinSys::Service Desk`, `~FinSys::Projects` or `~Finsys::Collaboration` label.
 
-### :ticket: Service Desk
+### Service Desk
 
 - [Service Desk Board](https://gitlab.com/groups/gitlab-com/-/boards/2802782?scope=all&label_name[]=FinSys%3A%3AService%20Desk) Labels: `~FinSys::Service Desk`
 - Our service desk takes care of:
@@ -48,7 +48,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
     - **`~BT::InProgress`:** Priority and Admin has been assigned and it’s actively being worked on.
     - **Closed or BT::Done External:** Request has been fulfilled entirely or next steps have been agreed to. Sometimes an issue cannot be closed by the FinSys team because there are tasks/requests for other teams (i.e. Access Requests), so in those cases we’ll mark it with BT::Done External which indicates all work for the FinSys team has been completed.
 
-### :factory: Projects
+### Projects
 
 - Projects span in scope (could be as small as a new workflow to a new system implementation), but every project will always have an Epic.
     - Epic will include all details related to the project.
@@ -68,26 +68,26 @@ The **Finance Systems Administrator Team** implements and supports specialized a
     - Update project title with prefix `PROJ:` 
     - This is where you can see the open tasks related to a project and the stage they’re in.
 
-### :juggling: Collaboration
+### Collaboration
 
 - To facilitate [asynchronous communication](https://about.gitlab.com/company/culture/all-remote/asynchronous/) use GitLab issues.
     - When using GitLab issues, use one of the following labels:
         - `~FinSys::Collaboration` in Gitlab.com
         - `~Enterprise Applications` in Gitlab.org
 
-## :floppy_disk: Systems We Own
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Systems We Own
 
-| System            | Function                         |  |
-|-------------------|----------------------------------|--|
-| Adaptive Insights | Financial Planning and Budgeting |  |
-| Avalara           | Tax Engine                       |  |
-| Coupa             | Procurement and AP               |  |
-| Docusign          | Signatures                       |  |
-| Expensify         | Expense Management               |  |
-| Netsuite          | ERP                              |  |
-| Stripe            | Payment Processor                |  |
-| Tipalti           | AP                               |  |
-| TripActions       | Travel Booking                   |  |
-| Workiva           | Reporting                        |  |
-| Zuora Billing     | Billing                          |  |
-| Zuora Revenue     | Revenue Recognition              |  |
+| System            | Function                         |  
+|-------------------|----------------------------------|
+| Adaptive Insights | Financial Planning and Budgeting |
+| Avalara           | Tax Engine                       |
+| Coupa             | Procurement and AP               |
+| Docusign          | Signatures                       |
+| Expensify         | Expense Management               |
+| Netsuite          | ERP                              |
+| Stripe            | Payment Processor                |
+| Tipalti           | AP                               |
+| TripActions       | Travel Booking                   |
+| Workiva           | Reporting                        |
+| Zuora Billing     | Billing                          |
+| Zuora Revenue     | Revenue Recognition              |
