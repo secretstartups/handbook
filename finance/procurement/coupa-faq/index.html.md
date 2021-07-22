@@ -122,12 +122,12 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
    - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information
    - https://supplier.coupa.com/help/remit-to-improvements
 
-<div class="panel panel-info">
-**NOTE**
+<div class="panel panel-danger">
+**IMPORTANT NOTES**
+{: .panel-heading}
 <div class="panel-body">
 
 - Avoid using any special characters when entering Remit-To Address
-
 - The currency of your bank account has to match the currency of your invoices
 
 </div>
