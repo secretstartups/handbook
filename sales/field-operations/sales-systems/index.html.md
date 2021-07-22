@@ -124,6 +124,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 19.  Confirm with the end user that the functionality is working as expected.
 20.  Create a merge request to our [technical documentation](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/) adding the new feature or editing the features entry.
 21.  Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
+22.  Clone the merged change set that was deployed into production and push and deploy this change set to staging. (Post deploy steps and setup are optionable) 
 
 Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD Pipelines](https://trailhead.salesforce.com/en/content/learn/projects/automate-cicd-with-gitlab)
 
