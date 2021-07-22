@@ -106,7 +106,7 @@ graph TD;
   Zapier["Attempt auto-association via Zapier"];
   click Zapier "https://gitlab.zendesk.com/agent/admin/triggers/360065733559" _blank;
   DidItWork{"Did the user get associated via Zapier"};
-  DoesItMatter{"Does it matter for the ticket form?"};
+  DoesItMatter{"Is the form a support form (SaaS/SaaS Account/SM/Partner/L&R)?"};
   Partner{"Is the form Select or Alliance Partner?"};
   CloseSelect["Close out ticket via trigger"];
   click CloseSelect "https://gitlab.zendesk.com/agent/admin/triggers/360076309439" _blank;
