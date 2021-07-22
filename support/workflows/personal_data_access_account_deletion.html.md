@@ -12,13 +12,24 @@ description: "Support Engineering workflows for account deletion and data access
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Overview
+## Purpose/Overview
 Use the appropriate workflow on this page when a user requests one of the following (under [GDPR Article 15](https://gdpr-text.com/read/article-15/), [CCPA](https://oag.ca.gov/privacy/ccpa)) through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
 
 - deletion of everything (GitLab.com and all other data associated with their account)
 - deletion of their GitLab.com account only
 - deletion of their [Customer Portal](http://customers.gitlab.com/) data
 - access to their data or questions about their data
+
+## Scope
+
+This data deletion process applies to deletion requests made by individual users of gitlab.com.
+
+## Roles and Responsibilities
+
+| Role | Responsibility|
+| ---- | ------ |
+| Support Team | Maintaining this deletion process handbook page and related deletion request project and issue templates |
+| GitLab system owners | Processing user deletion for each system as required by the data deletion issue created through this process |
 
 ## Before You Begin
 
@@ -143,3 +154,11 @@ In these cases, we can delete the account so that a new user account can be crea
 1. Email both the accound holder and group owner infoming that you are going to delete the account asking them to confirm for a final time.
 1. Once confirmation has been received go to the user's admin page and click on "Delete user and all contributions".
 1. Close the internal issue, and respond to the customer that the account has been deleted.
+
+## Exceptions
+
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+
+- [Controlled Document Procedure](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html)
