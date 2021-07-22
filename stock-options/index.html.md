@@ -246,7 +246,7 @@ lots of risks, so be aware and informed of the risks. Please read this [quora th
 
 ### Trading Restrictions During Quarterly 409a Valuations
 
-GitLab team members can access the 409A schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
+GitLab team members can access the options exercise restriction periods schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
 
 ### Option Expiration
  
