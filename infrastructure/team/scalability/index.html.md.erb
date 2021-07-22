@@ -55,7 +55,6 @@ The Scalability team significantly contributes to [the Infrastructure department
   * By the end of Q2FY22: [Define a service maturity model](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/382) (as a means to get better at [predicting scaling bottlenecks](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/296)). Generate at least one project as an outcome of the model.
 1. [Reliability](/handbook/engineering/infrastructure/index.html#3-make-reliability-the-platform-strength)
   * By the end of FY22: Scalability is recognized as a strategic team that contributes to GitLab.com in a proactive way.
-  * By the end of Q2FY22: [Measure MTBF](https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/17) reliably and define an initial target. Generate at least one project that will improve the reliability of the application as an outcome of the metric.
 1. [External contributions](/handbook/engineering/infrastructure/index.html#5-generate-contributions-external-to-the-department)
   * By the end of Q2FY22: Enable Stage teams to contribute to the Stage Group dashboards. Stage teams must be able to make their own customizations with little input from the Scalability team.
 
@@ -73,17 +72,13 @@ These dashboards show lagging indicators for how the services have responded to 
 The Scalability team is an owner of several performance indicators that roll up to the Infrastructure department indicators:
 
 1. [Service Maturity model][service maturity model] which covers GitLab.com's production services.
-1. [Mean Time Between Failures](/handbook/engineering/infrastructure/performance-indicators/#mean-time-between-failure-mtbf)
-1. [Application Demand][application demand dashboard] which is [reviewed monthly](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534) and is used as a way to identify that there may have been an application level change that alters how the application makes requests of the underlying infrastructure. If we observe a change in rate, this tells us that we need to investigate and understand the cause of the change.
 1. The forecasting [project named Tamland][tamland] which generates and displays [utilization and saturation reports][tamland reports]
 
 These are combined to enable us to better prioritize team projects.
 
 An overly simplified example of how these indicators might be used, in no particular order:
 
-* MTBF - provides a trend for a specific service stability over a period of time (primarely present), which gives us an indication of whether we should be focusing attention to one service over another
 * Service Maturity - provides detail on how trustworthy the data we received from observability stack in relation to the service; the lower the level the more focus we need to improve the service observability
-* Application Demand - Provides a longer-term historical overview of a service showing a general trend of demand placed on that service
 * Tamland reports - Provides a forecast for a specific service
 
 Between these different signals, we have a relatively (im)precise view into the past, present and future to help us prioritise scaling needs for GitLab.com.
@@ -91,7 +86,6 @@ Between these different signals, we have a relatively (im)precise view into the 
 [tamland]: https://gitlab.com/gitlab-com/gl-infra/tamland/
 [tamland reports]: https://gitlab-com.gitlab.io/gl-infra/tamland/saturation.html
 [service maturity model]: /handbook/engineering/infrastructure/service-maturity-model/
-[application demand dashboard]: https://dashboards.gitlab.net/d/general-application-demand
 
 ## Top-level Responsibilities
 
@@ -401,9 +395,6 @@ the changes that they make.
 
 #### Monthly Issues
 
-1. **Application demand review** - to review the [Application Demand dashboard](https://dashboards.gitlab.net/d/general-application-demand/general-application-demand-indicators?orgId=1)
-    and determine if there are any outliers that should be investigated, and updating the [indicator review issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/534)
-    if necessary.
 1. **Infradev review** - show issues with [`team::Scalability` and `infradev` labels](#engagement-with-the-infradev-process) so we can help the stage groups move those forward.
 
 #### Quarterly Issues
