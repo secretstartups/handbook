@@ -272,17 +272,13 @@ Additionally, during an incident investigation, knowing which high-risk features
 
     Yes.
 
-- **Does _production_ above include _feature flags_?**
-
-    Yes.
-
 - **Does this apply only to production environment?**
 
     Yes. Only production environment. This means you can still make changes and deployments to environments other than production.
 
 - **What is the exact scope of the changes that are enforced under PCL? (infrastructure, software, handbook...etc)**
 
-    Any production change to and/or supporting gitlab.com SaaS Product. For example, configuration changes, setup of new libraries, introducing new code.
+    Any production change to and/or supporting gitlab.com SaaS Product. For example, configuration changes, setup of new libraries, introducing new code, toggling feature flags.
 
 - **What if I still want to make a change during the PCL period?**
 
