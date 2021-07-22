@@ -246,17 +246,7 @@ lots of risks, so be aware and informed of the risks. Please read this [quora th
 
 ### Trading Restrictions During Quarterly 409a Valuations
 
-In order to prepare for quarterly 409a valuations, the right to exercise your stock options will be suspended for a period of time leading up to the effective date and Board approval of the new valuation.  
-
-All exercise activity will be suspended one week prior to the effective date of the new valuation.  Carta will be disabled for US team members.  For non-US team members, paperwork and proof of payment/wire must be submitted by the last day to exercise.  The window to exercise will open the 1st business day following Board approval.  
-
-The anticipated schedule is below and an announcement will also be made in Slack one week prior to the window closing, in an effort to keep team members aware.
-
-| **Anticipated Last Day to Exercise** | **Anticipated 409a Effective Date**       | **Anticipated Board Meeting (Approval)** |
-| :----------------------------------- | :----------------------- | :--------------------------------------- |
-| May 24, 2021	                       | June 1, 2021             | June 17, 2021             	             |
-| August 24, 2021   		           | September 1, 2021        | September 30, 2021                       |
-| November 24,2021		               | December 1, 2021         | December 14, 2021                        |
+GitLab team members can access the 409A schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
 
 ### Option Expiration
  
@@ -346,10 +336,6 @@ the better for employees as there is more opportunity for gain. Additionally, a 
 exercise price reduces the cash required to exercise the shares and establish a holding
 period which can have tax advantages in some countries. We describe those in this document
 but as always check with your financial or tax advisor before taking any action.
-
-## 409A Schedule
-
-GitLab team members can access the 409A Valuations schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
 
 ## Taxes
  
