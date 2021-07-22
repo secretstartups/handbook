@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Coupa FAQ
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -91,7 +93,9 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
    - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
 
    ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
-   
+
+
+ - Suppliers can also email Coupa Support Team (supplier@coupa.com)  
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
@@ -136,4 +140,4 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 If there are any issues with setting up a Remit-To account, please email ap@gitlab.com for assistance.
 
 
-
+{::options parse_block_html="false" /}
