@@ -235,7 +235,7 @@ Putting the following in Preferences.sublime-settings - User will among other th
 
 ### GitHub Copilot
 
-GitHub released [Copilot](https://copilot.github.com), an AI-powered tool for in-situ suggestions within VSCode, in 2021. It’s an interesting tool, but we recommend not taking suggestions from this or any engine until the license compatibility can be guaranteed.
+GitHub released [Copilot](https://copilot.github.com), an AI-powered tool for in-situ suggestions within VSCode, in 2021. It’s an interesting and exciting tool. However at this time it does not guarantee that the code being suggested is strictly sourced from codebases governed by [an open source license compatible with our own project](https://gitlab.com/gitlab-org/gitlab-foss/-/blob/master/LICENSE) which could lead to license conflicts. As such we recommend refraining from its use while contributing to our codebase until it can reasonably make such guarantees.
 
 ## Video calling
 
