@@ -375,6 +375,16 @@ Salesforce case management system to enable the transfer of certain cases (creat
 1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
 1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
 
+**Who:**
+1. Enterprise EMEA: Meri 
+1. Enterprise East: Amber
+1. Enterprise West: Kira
+1. Enterprise APAC: Meri
+1. Public Sector: Jeny
+1. Commercial Leadership: Tav
+1. Commercial EMEA / APAC: Monika
+1. Commercial Amer: Jeny
+
 **Notes on Case Behavior:**
 1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.
 1. When case ownership is updated to a Sales Ops team member, the case will remain visible in the Sales Ops queue until closed.
