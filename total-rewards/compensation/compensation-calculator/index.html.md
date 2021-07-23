@@ -238,7 +238,9 @@ The nomenclature can be adjusted for each job family to ensure the appropriate l
 
 GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
-#### Job Grade (exlcuding Field Sales/Sales Development):
+#### Job Grades:
+
+_Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below. 
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
