@@ -29,7 +29,7 @@ We use these to determine business hours and various regional working hours.
 * Friday: 0000-1700
 * Saturday: Closed
 
-### [EMEA](https://gitlab.zendesk.com/agent/admin/schedules/360000029879)
+### [Regional hours - EMEA](https://gitlab.zendesk.com/agent/admin/schedules/360000029879)
 
 * Timezone: Amsterdam
 * Sunday: Closed
@@ -40,7 +40,7 @@ We use these to determine business hours and various regional working hours.
 * Friday: 0800-1800
 * Saturday: Closed
 
-### [AMER](https://gitlab.zendesk.com/agent/admin/schedules/360000029899)
+### [Regional hours - AMER](https://gitlab.zendesk.com/agent/admin/schedules/360000029899)
 
 * Timezone: Pacific Time (US & Canada)
 * Sunday: Closed
@@ -51,7 +51,7 @@ We use these to determine business hours and various regional working hours.
 * Friday: 0500-1700
 * Saturday: Closed
 
-### [APAC](https://gitlab.zendesk.com/agent/admin/schedules/360000029919)
+### [Regional hours - APAC](https://gitlab.zendesk.com/agent/admin/schedules/360000029919)
 
 * Timezone: Brisbane
 * Sunday: Closed
