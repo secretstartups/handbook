@@ -328,9 +328,9 @@ end
   click eng:spd "/job-families/engineering/product-designer/";
   click eng:stpd "/job-families/engineering/product-designer/";
   click eng:ppd "/job-families/engineering/product-designer/";
-  click eng:pdm "/job-families/engineering/ux-management/";
-  click eng:spdm "/job-families/engineering/ux-management/";
-  click eng:dpd "/job-families/engineering/ux-management/";
+  click eng:pdm "/job-families/engineering/product-design-management/";
+  click eng:spdm "/job-families/engineering/product-design-management/";
+  click eng:dpd "/job-families/engineering/product-design-management/";
   click eng:uxrc "/job-families/engineering/ux-research-coordinator/";
   click eng:suxrc "/job-families/engineering/ux-research-coordinator/";
   click eng:uxr "/job-families/engineering/ux-researcher/";
@@ -346,7 +346,7 @@ end
   click eng:mtw "/job-families/engineering/technical-writing-manager/";
   click eng:stwm "/job-families/engineering/technical-writing-manager/";
   click eng:dtw "/job-families/engineering/technical-writing-manager/";
-  click eng:vpux "/job-families/engineering/ux-management/";
+  click eng:vpux "/job-families/engineering/product-design-management/";
 ```
 
 #### Infrastructure Department
