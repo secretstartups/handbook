@@ -499,10 +499,18 @@ This review will only take into account a performance alignment (if any). Team m
 
 ### Manager Process
 
-This section will be updated with more detailed steps in FY22.
+In August, a compensation review cycle using [Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas) will open for all eligible team members' compensation to be reviewed. 
 
-In August, Managers can log into BambooHR and add a compensation adjustment for any eligible team member they would like to propose for an increase. Managers should complete and link the [Mid-year Increase Template](https://docs.google.com/document/d/1gNoCHIhRr0GKRL0L7Pq9UepJDrtIrezaAs1XfgLlZKA/edit?usp=sharing) in the comments of the request. All approved increases will be effective on September 1.
+This is a cash only cycle as equity will be reviewed in the next Annual Compensation Review process. 
 
 ### Targeted Mid-year Increase Review Timeline
 
-To be updated for FY22.
+All approved increases will be effective on September 1.
+
+* August 11th: Compaas Opens
+* August 25th: Compaas Closes, All e-group approvals must be in place by August 25th  
+* August 25th: Visibility for team members to view compensation in BambooHR will be turned off 
+* August 26th - 27th: New Compensation will be reviewed / audited by Total Rewards and confirmed by the Compensation Group 
+* September 1st: Compensation Increases will be uploaded to BambooHR
+* September 1st - 10th: Managers to communicate increases to applicable team members 
+* September 15th: Visibility for team members to view compensation in BambooHR will be turned on 
