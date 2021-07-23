@@ -92,28 +92,45 @@ Upon submission, the submitter will receive an autoresponder depending on the re
 
 >**NOTE:** Users have a total of 14 days to respond to the challenge questions. In order to keep track of the requests that are pending a response to the challenge questions, you can apply the `Awaiting::Challenge Answers` label, if it does not already exist.
 
-1. **Account Ownership Verification:**
-   The user will automatically receive a set of [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) after form submission, as long as the following form entries have been validated:
-   - username is found / exists
-   - email is found / exists
-   - username and email match for the same account
-   - account is not part of a paid namespace
-   - the user checked the box confirming their intent to delete their account (required field)
-   
-   Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036). 
-   
-   If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
+##### **Verifying Ownership**
 
-   <details>
-     <summary markdown="span">Request Closed - Verification Failed</summary>
+The user will automatically receive a set of [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) after form submission, as long as the following form entries have been validated:
 
-     <p>Greetings,</p>
+- username is found / exists
+- email is found / exists
+- username and email match for the same account
+- account is not part of a paid namespace
+- the user checked the box confirming their intent to delete their account (required field)
 
-     <p>Unfortunately, the answers to our verification challenges have failed. As a result, we are unable to process your account deletion request. This issue will be closed.</p>
+Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036).
 
-     <p>Regards,</p>
-   </details>
+##### **Verification Failure**
 
+If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
+
+<details>
+  <summary markdown="span">Request Closed - Verification Failed</summary>
+
+  <p>Greetings,</p>
+
+  <p>Unfortunately, the answers to our verification challenges have failed. As a result, we are unable to process your account deletion request. This issue will be closed.</p>
+
+  <p>Regards,</p>
+</details>
+
+##### **Request Submitted Directly**
+
+If a request is received because the requestor submitted it directly to the Personal Account Requests Service Desk email address rather than using [the form](https://support.gitlab.io/account-deletion/), close the issue and inform the requestor with the following snippet to open a new request through the form so that we can assist them.
+
+<details>
+  <summary markdown="span">Request Closed - Request Submitted Directly</summary>
+
+  <p>Greetings,</p>
+
+  <p>It looks like you've emailed this request in to us directly. In order for us to best assist you please re-submit this request via our [Personal Data Request Form](https://support.gitlab.io/account-deletion/). Doing so will allow us to process your request more quickly and efficiently. This request will now be closed, and we're eagerly awaiting your resubmission. Thank you!</p>
+
+  <p>Regards,</p>
+</details>
 
 #### **Stage 2: Processing the Request**
 
