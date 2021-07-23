@@ -8,7 +8,7 @@ description: "GitLab is seeking a Sr. Product Manager to manage the GitLab produ
 
 ### Role
 
-The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Technical Product Manager to partner with the Group Manager, Product Operations to manage the GitLab product development system as a product and evolve it into a world class system that can scale rapidly with GitLab the company. The Senior Technical Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible.
+The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Product Manager to manage the GitLab product development system as a product and evolve it into a world-class system that can scale rapidly with GitLab the company. The Senior Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible.
 
 ### Responsibilities
 
