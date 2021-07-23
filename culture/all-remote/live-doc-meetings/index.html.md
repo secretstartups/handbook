@@ -38,9 +38,10 @@ If you determine that a meeting is needed to move a project forward, address a b
 1. Link the agenda in the meeting invite
 1. Establish the agenda as far in advance of the meeting as possible
 1. Agendas should be simple: numbered, bulleted lists that are concise and direct — a [boring solution](/handbook/values/#boring-solutions).
-1. Questions should be listed upfront; this tends to increase the quality of questions
+1. Questions should be [written](/handbook/values/#write-things-down) and listed upfront; this tends to increase the quality of questions
 1. Link any relevant piece of text to associated resources to prevent people from spending time searching or asking
 1. Take notes inline with the agenda rather than using a seperate "notes" section, with real-time notetaking by multiple participants encouraged 
+1. If you're not talking in the meeting, at any given time, help take notes. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 1. Notes should be properly indented and structured to follow the conversation's flow
 1. Preface questions and answers with the participant's name, giving context to the origin
 1. Follow the order of the questions instead of jumping around in the agenda; this prevents the proverbial loudest voice in the room from dominating a conversation 
