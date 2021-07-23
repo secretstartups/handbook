@@ -55,7 +55,7 @@ The Project Manager, Enablement reports to the Manager, Global Enablement.
 
 #### Project Manager, Enablement Job Grade
 
-The Project Manager, Enablement is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Project Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Project Manager, Enablement Responsibilities
 
