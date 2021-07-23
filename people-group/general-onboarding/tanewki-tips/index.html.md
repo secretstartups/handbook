@@ -36,6 +36,8 @@ After you sign your offer and complete your background check and references, you
 1. The next email you will receive, is a [TaNEWki call](https://about.gitlab.com/handbook/people-group/general-onboarding/#tanuki-orange) invite. We hope you can join us! This Zoom call addresses those first day nerves and gives you some time to meet other new team members. You will see this invite sent to you 1-2 weeks before your start date. 
 1. When you receive your laptop, make sure to **not** sign into the laptop with your personal Apple ID. You will be asked to create an Apple ID on day one with your GitLab email address. 
 
+1. You may receive an email from Okta (our SAAS application portal) with an invite to register. Please ignore this email until you receive your onboarding welcome email on your first day with us. This will ensure that no issues are experienced with your access levels on your first day. 
+
 ##### First day :tada: 
 
 1. **When should you log on for day one?** Unless you have worked out a specific time with your manager, feel free to start your day when you feel comfortable starting. We love non-linear work days but you have to [find what works for you](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/#find-what-works-for-you).
