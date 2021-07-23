@@ -18,9 +18,19 @@ Develop a respectful and privacy focused data collection framework that allows u
 
 The Growth sub-department consists of groups that eliminate barriers between our users and our product value.
 
+* [Product Intelligence](product-intelligence/)
+* [Activation](activation/)
+* [Adoption](adoption/)
+* [Conversion](conversion/)
+* [Expansion](expansion/)
+
+### Product Intelligence
+
 **Deliver product intelligence data to improve the GitLab product**
 
 [Product Intelligence Group](/handbook/engineering/development/growth/product-intelligence/): Product Intelligence focuses on providing GitLab's team with data-driven product insights to build a better GitLab. To do this, we build data collection and analytics tools within the GitLab product in a privacy-focused manner. Insights generated from Product Intelligence enables us to identify the best places to invest people and resources, what product categories mature faster, where our user experience can be improved, and how product changes impact the business. You can learn more about what we're building next on the [Product Intelligence Direction page](/direction/product-intelligence/).
+
+### Activation, Adoption, Conversion, and Expansion
 
 **Drive value for the business and our users by improving trial to paid conversion, per-stage adoption, and wider usage of GitLab**
 
@@ -45,24 +55,9 @@ The Growth groups also provide development input into two Growth product areas o
 
 We work on the issues prioritized by our product teams including running [experiments](./experimentation) on GitLab.com.
 
-We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/categories/#growth-stage)
-counterparts to design and implement experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
+## Who Are We?
 
-## Groups
-
-The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
-
-| Group name                                 | Group label                   |
-| ----------                                 | -----------                   |
-| [Product Intelligence](product-intelligence/)    | `~"group::product intelligence"` |
-| [Activation](activation/)                  | `~"group::activation"`        |
-| [Adoption](adoption/)                      | `~"group::adoption"`          |
-| [Conversion](conversion/)                  | `~"group::conversion"`        |
-| [Expansion](expansion/)                    | `~"group::expansion"`         |
-
-
-## People leaders in development
-
+### People leaders in development
 
 <%=
 departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Intelligence']
@@ -71,31 +66,31 @@ department_regexp = /(#{Regexp.union(departments)})/
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth, Fulfillment, and Applied ML')
 %>
 
-## All Team Members
+### All Team Members
 
 The following people are permanent members of groups that belong to the Growth sub-department:
 
-### Activation
+#### Activation
 <%= department_team(base_department: "Activation Team") %>
 
-### Adoption
+#### Adoption
 <%= department_team(base_department: "Adoption Team") %>
 
-### Conversion
+#### Conversion
 <%= department_team(base_department: "Conversion Team") %>
 
-### Expansion
+#### Expansion
 <%= department_team(base_department: "Expansion Team") %>
 
-### Product intelligence
+#### Product intelligence
 
-#### Product Intelligence Backend
+##### Product Intelligence Backend
 <%= department_team(base_department: "Product Intelligence Team") %>
 
-#### Product Intelligence Frontend
+##### Product Intelligence Frontend
 <%= department_team(base_department: "Product Intelligence FE Team") %>
 
-## Business Continuity - Coverage and Escalation
+### Business Continuity - Coverage and Escalation
 
 The following table shows who will provide cover if one or more of the Growth Engineering management team are unable to work for any reason.
 
@@ -112,7 +107,12 @@ Some people management functions may require escalation or delegation, such as B
 This can be used as the basis for a business continuity plan (BCP),
 as well as a general guide to Growth Engineering continuity in the event of one or more team members being unavailable for any reason.
 
-## Stable Counterparts
+## Counterparts
+
+We work closely with the [Data Team](/handbook/business-ops/data-team/) along with our [Product Team](/handbook/product/categories/#growth-stage)
+counterparts to design and implement experiments that measure the impact of changes to our messaging, UX, and overall experience of using GitLab.
+
+### Stable Counterparts
 
 The following members of other functional teams are our stable counterparts:
 
@@ -127,7 +127,16 @@ stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manage
 %>
 
 ## How We Work
-As part of the wider Growth stage we track and work on issues with the label `~"devops::growth"`.
+
+The Growth sub-department uses the `~"devops::growth"` label and the following groups for tracking merge request rate and ownership of issues and merge requests.
+
+| Group name                                 | Group label                   |
+| ----------                                 | -----------                   |
+| [Product Intelligence](product-intelligence/)    | `~"group::product intelligence"` |
+| [Activation](activation/)                  | `~"group::activation"`        |
+| [Adoption](adoption/)                      | `~"group::adoption"`          |
+| [Conversion](conversion/)                  | `~"group::conversion"`        |
+| [Expansion](expansion/)                    | `~"group::expansion"`         |
 
 ### Product Development Flow
 
@@ -135,7 +144,7 @@ Our team follows the [Product Development Flow](/handbook/product-development-fl
 
 We adhere to the **Completion Criteria** and **Who Transitions Out** outlined in the [Product Development Flow](/handbook/product-development-flow/#workflow-summary) to progress issues from one stage to the next.
 
-#### Workflow Boards
+### Workflow Boards
 
 We use workflow boards to track issue progress throughout a milestone. Workflow boards should be viewed at the highest group level for visibility into all nested projects in a group.
 
@@ -178,7 +187,7 @@ In planning and estimation, we value [velocity over predictability](/handbook/en
 
 Our work is planned and delivered on a monthly cycle using [milestones](https://docs.gitlab.com/ee/user/project/milestones/). Our team follows the [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline) utilizing all dates including from `M-1, 4th: Draft of the issues` to `M+1, 4th: Public Retrospective`.
 
-#### Milestone Boards
+### Milestone Boards
 
 We use milestone boards for high level planning and roadmapping across several milestones.
 
