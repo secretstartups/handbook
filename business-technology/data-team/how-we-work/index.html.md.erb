@@ -176,9 +176,8 @@ Optional labels that are useful to communicate state or other priority
     - Tool (Light Blue) (Sisense, dbt, Stitch, Airflow, etc.)
 - **How** (Orange): Type of work (Documentation, Break-fix, Enhancement, Refactor, Testing, Review)
 - State (Red) (Won't Do, Blocked, Needs Consensus, etc.)
-- Inbound: For issues created by folks who are not on the data team; not for asks created by data team members on behalf of others
-
-
+- Inbound: For issues created by GitLab team members who are not on the Data Team; not for asks created by data team members on behalf of others.
+- [Business Logic change](https://gitlab.com/gitlab-data/analytics/-/labels?subscribed=&search=business+logic+change): This label is applied for any business logic changes such as adding new dimensions, facts, marts, changing joins, adding new calculated fields.
 
 ##### Merge Request Workflow
 
@@ -363,6 +362,33 @@ We regularly measure how ow satisfied our internal customers are with the servic
 
 - Our standing [Survey Results Dashboard](https://app.periscopedata.com/app/gitlab/798574/Data-Team-CSAT-Survey-Dashboard) presents trends of CSAT results over time.
 - Our [FY21 CSAT Survey Results and Takeaways](https://docs.google.com/presentation/d/1OPfoF4qzzCTiPZb9EeXHEpB6kDEpZ4CwV4lzg26L6Uw/edit?usp=sharing) presents a summary of our FY21 program.
+
+### Quarterly Data Health and Security Audit.
+ 
+
+Quarterly audit is performed to validate security like right people with right access in environments (Example: Sisense, Snowflake.etc) and data feeds that are running are healthy (Example: Salesforce, GitLab.com, Zuora..etc).
+
+The process is supported by a issue [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+ 
+Below checklist of activities would be run once at the end of every quarter to validate security and system health.
+ 
+#### Snowflake
+ 
+- Validate terminated employees have been removed from Snowflake access.
+- Deactivate any account that has not logged-in within the past 30 days from the moment of performing an audit from Snowflake.
+- Validate all user accounts require multi-factor authentication.
+ 
+#### Sisense
+ 
+- Validate terminated employees have been removed from Sisense access.
+- Deactivate any account that has not logged-in within the past 30 days from the moment of performing an audit from Sisense.
+- Validate all user accounts require multi-factor authentication.
+ 
+#### Trusted Data
+ 
+- Review all Golden Record TD tests and make sure they're passing.
+- Review Data Siren to confirm known existence of RED data.
+- Generate a report of all changes to the TD: Sales Funnel dashboard in the quarter.
 
 ### YouTube
 
