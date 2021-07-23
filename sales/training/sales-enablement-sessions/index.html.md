@@ -23,9 +23,20 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Jul 15  | Super Sonics - Field Team AMA  | Leadership Team |
-| Jul 22  | Q2 FY22 Alliances Update | Mike LeBeau |
-| Jul 29  | *No sessions during the last two weeks of a quarter* |  |
+| Jul 29    |  *No sessions during the last two weeks of a quarter* |  |
+| Aug 5     |   Q3FY22 Channel Update    |  Colleen F. & Ed C.     |
+| Aug 12    |   Enablement on ServiceNow <> GitLab    |    Mike L.    |
+| Aug 19    |   Deal Review Panel Discussion   |  Alan G. & Aslihan K.       |
+| Aug 26    |   Digital Programs for non-TAM-assigned accounts    |   Michelle H.     |
+| Sep 2    |   Verify: Testing Category Vision & Positioning    |  James H.      |
+| Sep 9    |       |        |
+| Sep 16    |       |        |
+| Sep 23    |  No session (GitLab Contribute)     |        |
+| Sep 30    |       |        |
+| Oct 7    |       |        |
+| Oct 14    |       |        |
+| Oct 21    | *No sessions during the last two weeks of a quarter*      |        |
+| Oct 28    |  *No sessions during the last two weeks of a quarter*     |        |
 
                                                                                                                                   
                                                                                                                                    
@@ -36,6 +47,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-07-21  | **[Q2 FY22 Alliances Update: The Importance of Ecosystem Partners](https://youtu.be/lJfkkPeQtlI)** | Private |
 | 2021-07-08  | **[Q2 FY22 Product Update](https://youtu.be/_DC-Cdd-RNY)** | Public |
 | 2021-07-01  | **[The Value of Professional Services](https://youtu.be/LBQu10PRR2Y)** | Private |
 | 2021-06-24 | **[Competing against Microsoft for Plan - Azure Boards](https://youtu.be/IRC6CFUfO-Y)** |  Private  |
