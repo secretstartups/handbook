@@ -80,10 +80,13 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 * Support corporate governance processes, including general recordkeeping, preparation of board and committee meeting agendas, presentations, resolutions, consents, minutes, and other materials, as well as assist with our electronic board portal.
 * Assist with compliance and corporate governance matters for our international and domestic subsidiaries. 
 * Assist with M&A and other strategic transactions, including providing due diligence support data room management, and preparing and organizing deal documents.
-* Maintain corporate records.
-* Future responsibilities may include preparation of Section 16 reports and assistance with other SEC filings, as well as annual meeting preparation.
 * Identify, design, and implement new processes and procedures to improve efficiency, productivity, and communication
 * Support special projects as needed, including research, organization, and project management.
+* Review marketing materials, announcements, filings and presentations to ensure intellectual property clearance and confirm compliance with applicable regulations, company standards and industry standards.
+* In consultation with Director of Legal, Corporate and other Corporate attorneys provide advice to GitLab Marketing and Product Development groups on materials and announcements.
+* Perform Trademark clearance searches.
+* Maintain corporate records.
+* Future responsibilities may include preparation of Section 16 reports and assistance with other SEC filings, as well as annual meeting preparation.
 * Other responsibilities based on experience, abilities, and interest.
 
 #### Paralegal (Corporate) Requirements
