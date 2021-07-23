@@ -75,7 +75,7 @@ As the Group Manager, Product Operations, you will drive the vision for GitLab's
 
 ### Requirements
 
-- 7+ years in Product Management
+- 7+ years in product leadership and/or product management roles
 - 5+ years of people management experience
 - Past experience in leadership, project management, program management and/or product operations preferred
 - Expert in best practices in product management, product design and software development
