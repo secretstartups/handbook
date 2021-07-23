@@ -12,7 +12,7 @@ The mission of the GitLab product team is to consistently create products and ex
 
 ### Responsibilities
 
-_Partner with the Group Manager, Product Operations to:_
+_Partner with the Group Manager, Product Operations to maintain a prioritized Product Operations backlog focused on the areas below:_
 - [Operationalize Outcome Driven Products](https://about.gitlab.com/direction/product-operations/#operationalizing-outcome-driven-products)
    - Identify opportunities to automate GitLab product managers' [responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-responsibilities) and [related tasks](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-tasks) to help drive consistency and efficiency across product management as a whole
    - Improve the [release post](url) and [release notes](url) framework for Gitlab the company through process refinements and automation
