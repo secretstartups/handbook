@@ -376,14 +376,15 @@ Salesforce case management system to enable the transfer of certain cases (creat
 1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
 
 **Who:**
-1. Enterprise EMEA: Meri 
-1. Enterprise East: Amber
-1. Enterprise West: Kira
-1. Enterprise APAC: Meri
-1. Public Sector: Jeny
-1. Commercial Leadership: Tav
-1. Commercial EMEA / APAC: Monika
-1. Commercial Amer: Jeny
+1. Enterprise EMEA: Meri Gil Galindo 
+1. Enterprise East: Amber Stahn
+1. Enterprise West: Kira Savage
+1. Enterprise APAC: Meri Gil Galindo
+1. Public Sector: Jeny Bae
+1. Commercial Leadership: Tav Scott
+1. Commercial EMEA / APAC: Monika Deshmukh
+1. Commercial Amer: Jeny Bae
+1. Escalations / Approvals: Lindsay Schoenfeld (DRI), James Harrison 
 
 **Notes on Case Behavior:**
 1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.
