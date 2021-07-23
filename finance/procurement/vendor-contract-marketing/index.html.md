@@ -226,11 +226,11 @@ Here is a deep dive summary on what each function is reviewing for approval:
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 5 | Contract Signature
 1. Do not send the contract to the authorized signatory until all approvals are received. Doing so can put GitLab in a direct financial and/or legal risk which could need to be escalated.
 1. Once all approvals in the issue are received, send the contract to the authorized signatory:
-     - Upload the contract with the legal stamp to HelloSign
+     - Upload the contract with the legal stamp to DocuSign
      - If a legal stamp is not included in the issue, please request clarification from legal and/or procurement by tagging them in the contract issue or asking for clarification in the #procurement slack channel.
-     - In the description field in HelloSign, paste the link to the vendor contract issue request to avoid delays in signature.
-     - Enter the signatory's name and email in HelloSign
- 1. Once the contract is signed by GitLab, send the contract to your vendor (if not already signed by the vendor) through HelloSign.
+     - In the description field in DocuSign, paste the link to the vendor contract issue request to avoid delays in signature.
+     - Enter the signatory's name and email in DocuSign
+ 1. Once the contract is signed by GitLab, send the contract to your vendor (if not already signed by the vendor) through DocuSign.
 
 - Note: If your vendor has a signature tool they would like to use and all approvals have been received in the contract issue, request that the vendor send the final contract version with the legal stamp for signature and also include the issue link. This will avoid delays in signature.
 
