@@ -71,22 +71,25 @@ GitLab's Chief Product Officer shares insights on what makes an opportunity canv
 
 GitLab's Product and Engineering leaders discuss a change to our model of prioritization where for some teams we are allocating a percentage of capacity for making engineering improvements focused on medium to long term security, reliability, performance areas. 
 
-<iframe width="560" height="315" src=" https://youtube.com/embed/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/KfIH61C0XiU" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 <br/>
 Nicole shares her approach towards prioritization of tech debt with her Engineering counterparts in these discussions with Mike and Olivier.
 <br/><br/>
 
-<iframe width="560" height="315" src=" https://youtube.com/embed/ofPUh5Um1Pk" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/ofPUh5Um1Pk" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 <br/><br/>
 
-<iframe width="560" height="315" src=" https://youtube.com/embed/oRLrNkyrEfw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/oRLrNkyrEfw" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 James discusses how he balances Error Budgets, Tech Debt, and other priorities with Engineering Counterparts, Scott. 
 <br/><br/>
-<iframe width="560" height="315" src=" https://youtube.com/embed/wI8yNFW6b8A" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/wI8yNFW6b8A" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
+Fabian and Nick discuss PM/EM collaboration on the Geo team and the importance of empathy building between PMs and EMs. 
+<br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pz5XneVeyu0" title="YouTube video player" frameborder="0" allow="autoplay; encrypted-media;" allowfullscreen></iframe>
 
 #### General Prioritization Guidance
 
