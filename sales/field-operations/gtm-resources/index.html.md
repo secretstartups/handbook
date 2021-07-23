@@ -166,6 +166,8 @@ LinkedIn/Websites are not designated data sources.
 If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record with documented proof from the prospect.
 Admins have the ability to override the `Employees` and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
 
+Mid-Market accounts can managed either as a [MM Key Account or belong to a MM Territory AE](/handbook/sales/commercial/#mid-market-roles).
+
 ### Sales Segment and Hierarchy Review Process
 
 In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
