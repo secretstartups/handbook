@@ -27,7 +27,7 @@ The duration of each experiment will vary depending on how long it takes for exp
 
 #### Overview
 
-1. Create an [Experiment idea] issue to define the scope of the experiment (label added: `~"experiment idea"`, optionally add: `~"growth experiment"`)
+1. Create an [Experiment idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea) issue to define the scope of the experiment (label added: `~"experiment idea"`, optionally add: `~"growth experiment"`)
 - Anybody who has an idea of something to try as an experiment can create this issue
 - They provide information about which portion of the product they'd like to experiment with, their experimentation idea (i.e. their hypothesis), and what a successful outcome might look like
 - At this extremely early stage, the most critical thing is that we get the idea jotted down with enough context and detail that it is understood by others on the team and can be carried forward by the Project Manager
