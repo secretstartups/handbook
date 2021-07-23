@@ -49,9 +49,18 @@ The PR Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-
 
 #### Requirements
 
-- 5+ years experience in public relations.
+- 6+ years experience in public relations.
 - Experience in enterprise software or developer public relations.
-- Provien experience in working for or with a PR agency in the past.
+- Ability to develop strategic and proactive PR plans in coordination with the PR and wider corporate communications team.
+- Experience working with technology, business, and trade media to achieve impression goals.
+- Excellent written and verbal communication skills.
+- A natural storyteller with excellent writing skills.
+- Highly organized, detail-oriented and able to meet deadlines consistently.
+- Ability to independently manage projects from start to finish; work with light supervision.
+- Able to coordinate across many teams and perform in a fast-moving environment.
+- Experience working with and managing PR agencies
+- Strong ability to use GitLab.
+- Share GitLab values, and work in accordance with those values.
 
 ### Senior PR Manager
 
@@ -66,13 +75,32 @@ The Senior PR Manager is a [grade 7](/handbook/total-rewards/compensation/compen
 - Determine ways to drive traffic to site to support various intiatives.
 - Manage and mentor members of the team to grow in their public relations careers.
 - Responsible for ideation of public relations activities, OKRs, and reporting on results.
+- Think globally to implement global public relations strategy and  campaigns. 
+- Plan, implement and manage public relations programs  for product, security and partner/channel including thought leadership, technical, crisis, rapid response and proactive PR campaigns.
+- Engage and coordinate with GitLab’s PR agency relationship and develop a PR program in line with overall corporate marketing objectives and goals.
+- Work closely with executives, spokespeople and the greater organization to develop press releases  and media relations strategy for GitLab announcements and news.
+- Collaborate across the organization to support the news cycle through various channels, as well as educate teams on news.
+- Respond to daily media inquiries in a timely and professional manner.
+- Have your finger on the pulse of the news and provide an overview of interesting news and trends.
+- Report back on press activities, coverage, opportunities, successes and press feedback.
+- Collaborate across teams and PR agencies  to determine the public relations calendar.
+
 
 #### Requirements
 
 - 8+ years experience in public relations
 - Experience in enterprise software or developer public relations.
-- Experience managing PR agencies and driving results.
 - Experience managing a team of public relatiions professionals.
+- Ability to develop strategic and proactive PR plans in coordination with the PR and wider corporate communications team
+- Experience working with technology, business, and trade media to achieve impression goals
+- Excellent written and verbal communication skills
+- A natural storyteller with excellent writing skills.
+- Highly organized, detail-oriented and able to meet deadlines consistently.
+- Ability to independently manage projects from start to finish; work with light supervision.
+- Able to coordinate across many teams and perform in a fast-moving environment.
+- Experience working with and managing PR agencies
+- Strong ability to use GitLab.
+- Share GitLab values, and work in accordance with those values.
 
 ### Specialty
 Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
@@ -80,11 +108,68 @@ Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is a
 ### Content
 The content specialty covers developing and overseeing the public relations content strategy, which includes contributed articles and award submissions. This role also ensures the GitLab Press Page, Press Kit and Handbook pages are updated regularly.
 
+### Events
+This specialty maps to the [Field Marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/) and [Corporate Event](https://about.gitlab.com/handbook/marketing/corporate-marketing/#corporate-events) departments at GitLab. The event specialty covers developing and overseeing the public relations strategy for 3rd party tradeshows and GitLab hosted-events.
+
+### Partner and Channel
+This specialty maps to the [partner and channel marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/) department at GitLab. The partner and channel specialty covers developing and overseeing the public relations strategy, announcements and campaigns related to any [tech partners](https://about.gitlab.com/handbook/marketing/strategic-marketing/partner-marketing/) or channel partners. This includes promotion of key technology integrations and alliances, promotion of key channel partnerships, reviewing partner-led announcements around joining the GitLab Partner Program, and developing proactive partner storylines for press engagements and events. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a wholistic GitLab offering view.
+
 ### Product
 This specialty maps to the [Product Marketing](https://about.gitlab.com/handbook/marketing/strategic-marketing/) department at GitLab. The product specialty covers developing and overseeing the public relations product strategy, which includes promotion of releases, developing product storylines for press engagements, and product awards submissions. Additionally, this role is responsible for ensuring partner and channel storylines are integrated for a wholistic GitLab offering view.
 
-### Events
-This specialty maps to the [Field Marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/) and [Corporate Event](https://about.gitlab.com/handbook/marketing/corporate-marketing/#corporate-events) departments at GitLab. The event specialty covers developing and overseeing the public relations strategy for 3rd party tradeshows and GitLab hosted-events.
+### Public Sector
+This specialty maps to the [Public Sector department](https://about.gitlab.com/handbook/sales/public-sector/) at GitLab. The Public Sector specialty will support the Public Sector among other related focus areas such as security and channel partner efforts. This role will support a wide range of existing communications activities, work cross functionally across internal teams on campaigns and also have the opportunity to build and manage dedicated programs. The role will be responsible for proactive storytelling; partnering with the Public Sector, Security, Channel, and Marketing teams to support announcements and proactive PR campaigns; executing event focused PR programs; and coordinating with global PR agencies. The ideal candidate for the role will have 2+ years experience working in the Public Sector, must be a United States citizen, strong media relations experience, experience working with external PR agencies/partners, and an enthusiasm to be part of a high performing corporate communications team that represents GitLab, the complete DevOps platform.
+
+### Manger, Public Relations
+
+#### Job Grade 
+
+The Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+The GitLab Manager, Public Relations  will lead a team of PR managers to build GitLab thought leadership and drive conversation in external communications channels. This position is responsible for leading the PR team focused on developing and overseeing the public relations strategy and campaigns for product, security, verticals and partner and channel  at GitLab. This person will not only manage a team of PR professionals but will also work across global teams to provide strategic guidance and develop and execute public relations campaigns for tier one partners and GitLab campaigns.
+
+#### Responsibilities
+
+- Think globally to implement global public relations strategy and  campaigns. 
+- Plan, implement and manage public relations programs  for product, security, verticals and partner and channel including thought leadership, technical, crisis, rapid response and proactive PR campaigns.
+- Manage GitLab’s PR agency relationship and develop a PR program in line with overall corporate marketing objectives and goals.
+- Work closely with executives, spokespeople and the greater organization to develop press releases  and media relations strategy for GitLab announcements and news.
+- Collaborate across the organization to support the news cycle through various channels, as well as educate teams on news.
+- Respond to daily media inquiries in a timely and professional manner.
+- Have your finger on the pulse of the news and provide an overview of interesting news and trends.
+- Report back on press activities, coverage, opportunities, successes and press feedback.
+- Measure PR successes in relation to awareness and impact.
+- Develop public relations strategy and vision.
+- Collaborate across teams and PR agencies  to determine the public relations calendar.
+- Manage and mentor members of the team to grow in their public relations careers.
+- Responsible for ideation of public relations activities for product, security and partner/channel, OKRs, and reporting on results.
+
+#### Requirements
+- 10+ years experience in public relations and/or marketing communications
+- Strong media relations skills and a passion for PR.
+- A natural storyteller with excellent writing skills.
+- Able to coordinate across many teams and perform in a fast-moving environment.
+- Proven ability to be self-directed and work with minimal supervision.
+- Outstanding written and verbal communications skills.
+- Share GitLab values, and work in accordance with those values.
+- Highly organized, detail-oriented and able to meet deadlines consistently.
+- Experience managing PR agencies and driving results.
+- A proven track record of successful PR campaigns
+- Ability to independently manage projects from start to finish.
+- Strong ability to use GitLab.
+
+### Senior Manger, Public Relations
+
+#### Job Grade 
+
+The Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Requirements
+- 12+ years experience in public relations and/or marketing communications
+- Experience managing a team of public relations professionals.
+- Experience running public relations/communications efforts at an enterprise technology company.
+- Ability to create quarterly and yearly PR plans.
+- Ability to think cross-functionally when setting team's OKRs and campaigns.
 
 ## Career Ladder
 
