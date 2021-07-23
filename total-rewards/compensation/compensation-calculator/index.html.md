@@ -238,7 +238,7 @@ The nomenclature can be adjusted for each job family to ensure the appropriate l
 
 GitLab job grades aid in mapping a role for internal equity with respect to cash and equity. For example, if there is a stock option update, this mapping can act as a reference to update the compensation calculator for the various roles to ensure alignment. Job Grades can also provide an alternative path to finding the current number of options offered without having to fill out the compensation calculator.
 
-#### Engineering/Product/People/Finance/CEO/Customer Success:
+#### Job Grade (exlcuding Field Sales/Sales Development):
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
@@ -255,6 +255,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 | 5			|                  | Junior                    |
 | 4			|                  | Intern                    |
 
+Dual career tracks can be added to each job family (regardless of division) when supported by data. Each job family will have a market justification for the business need of an individual contributor equivalent of management. 
 
 #### **Sales/Sales Development**:
 
