@@ -121,16 +121,16 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 ### What is Coupa Pay?
 
 - Coupa Pay is a digital payments program to pay your invoices. You will be able to track and manage all your accounts receivable in one place and obtain instant access to every payment and associated remittance advice.
-- Below is a useful link with more information regarding Coupa Pay:
-   - https://supplier.coupa.com/gitlab-payment/
+- Below is a useful Coupa link providing more information regarding Coupa Pay:
+   - [GitLab Payments](https://supplier.coupa.com/gitlab-payment)
 
 ### How do suppliers register for Coupa Pay?
 
 - Suppliers will need to set up their Remit-To account in Coupa. It can be done during the initial onboarding process or via the Coupa Supplier Portal (CSP).
-- Below are some useful links with more information regarding setting up Remit-To accounts:
-   - https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information
-   - https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments
-   - https://supplier.coupa.com/help/remit-to-improvements
+- Below are some useful Coupa links providing more information regarding setting up Remit-To accounts:
+   - [View and Manage Remit-To Information](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information)
+   - [Getting Set Up For Online Payments](https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments)
+   - [Remit-To Improvements](https://supplier.coupa.com/help/remit-to-improvements)
 
 <div class="panel panel-warning">
 **IMPORTANT NOTES**
