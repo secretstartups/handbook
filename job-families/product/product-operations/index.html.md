@@ -4,15 +4,15 @@ title: "Product Operations"
 description: "GitLab is seeking a Sr. Product Manager to manage the GitLab product development system as a product, and help evolve it into a world class system that can scale rapidly with GitLab the company."
 ---
 
-## Senior Technical Product Manager, Product Operations
+## Senior Product Manager, Product Operations
 
 ### Role
 
-The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Technical Product Manager to partner with the Group Manager, Product Operations to manage the GitLab product development system as a product and evolve it into a world class system that can scale rapidly with GitLab the company. The Senior Technical Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible.
+The mission of the GitLab product team is to consistently create products and experiences that customers love and value. To do this consistently, we strive to create a world class product system in which the extended product team can do the best work of their careers. GitLab is seeking a Senior Product Manager to manage the GitLab product development system as a product and evolve it into a world-class system that can scale rapidly with GitLab the company. The Senior Product Manager will be passionate about the product management discipline and understands the benefits of frameworks/processes and how to optimize them in a way that is effective in delivering value while efficient and as lightweight as possible. The Senior Product Manager will thrive at collaboration with product managers and various cross-functional team members as both customers and partners to better GitLab product development processes as well as GitLab's product offering itself with the initiatives they lead, support and implement.  
 
 ### Responsibilities
 
-_Partner with the Group Manager, Product Operations to:_
+_Partner with the Group Manager, Product Operations to maintain a prioritized Product Operations backlog focused on the areas below:_
 - [Operationalize Outcome Driven Products](https://about.gitlab.com/direction/product-operations/#operationalizing-outcome-driven-products)
    - Identify opportunities to automate GitLab product managers' [responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-responsibilities) and [related tasks](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-tasks) to help drive consistency and efficiency across product management as a whole
    - Improve the [release post](url) and [release notes](url) framework for Gitlab the company through process refinements and automation
@@ -36,7 +36,7 @@ _Partner with the Group Manager, Product Operations to:_
 
 ### Requirements
 
-- 4+ years of overall experience in either Product Management or related roles
+- 4+ years of experience in Product Management or related roles in software development such as engineering or program management
 - Experience in customer-first product systems similar to GitLab's, especially important is familiarity with modern customer validation techniques
 - Experience supporting the rollout of frameworks/process updates for team of 100+
 - Deep knowledge of and demonstrated experience in change management
@@ -53,7 +53,7 @@ _Partner with the Group Manager, Product Operations to:_
 
 ### Role
 
-As the Group Manager, Product Operations, you will drive the vision for GitLab's product system and will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the VP, Product Management, the CEO, the Product Management team, and other cross-functional departments. This role reports to the Chief Product Officer.
+As the Group Manager, Product Operations, you will be deeply passionate and knowledgeable about outcome driven product development methodologies and frameworks. You will own the Product Operations roadmap and communicate the [vision and direction](https://about.gitlab.com/direction/product-operations/) for GitLab's product system. You will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the VP, Product Management, the CEO, the Product Management team, and other cross-functional departments. This role reports to the Chief Product Officer.
 
 ### Individual responsibility
 
@@ -75,9 +75,9 @@ As the Group Manager, Product Operations, you will drive the vision for GitLab's
 
 ### Requirements
 
-- 7+ years in Product Management
+- 7+ years in product leadership and/or product management roles
 - 5+ years of people management experience
-- Past experience in leadership, project management, program management and/or product operations preferred
+- Past experience project management, program management and/or product operations preferred
 - Expert in best practices in product management, product design and software development
 - Demonstrated success in company-wide alignment and change management for teams of 500+
 - Ability to inspire and motivate cross-functional product teams to adopt frameworks that prioritize value to customers/users
