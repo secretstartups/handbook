@@ -80,28 +80,37 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Employee Polygraph Protection Act
 * [EPPA Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppac.pdf)
 
-### Fair Labor Standards Act (FLSA) Minimum Wage 
-* [Fair Labor Standards Act Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/minwagep.pdf)
-* [Section 14(c)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/disabc.pdf)
-
-### Family and Medical Leave Act 
-* [Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
-
-### OSHA Job Safety and Health
-* [Job Safety and Health: It's the Law Poster](https://www.osha.gov/sites/default/files/publications/osha3165.pdf)
-
-### Service Contract Act
-* [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
+### Employee Rights on Government Contracts
+* [Employee Rights on Government Contracts (SCA, PCA, CWHSSA, Walsh- Healey)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
 
 ### Employee Rights under NLRA
 * [Employee Rights Under the National Labor Relations Act (one-page Poster)](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter11x17_2019final.pdf)
 * [Employee Rights Under the National Labor Relations Act (two-page Poster)](https://www.dol.gov/sites/dolgov/files/olms/regs/compliance/eo_posters/employeerightsposter2page_19final.pdf)
 
+### Fair Labor Standards Act (FLSA) Minimum Wage 
+* [Fair Labor Standards Act Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/minwagep.pdf)
+* [Section 14(c)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/disabc.pdf)
+
+### Family First Coronavirus Act (FFCRA)
+* [Employee Rights: Paid Sick Leave and Expanded Family and Medical Leave under the Family First Coronavirus Act](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)
+
+### Family and Medical Leave Act 
+* [Family and Medical Leave Act (FMLA) Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf)
+
+### Federal Minimum Wage for Contractors Poster
+* [Worker Rights Under Executive Order 13658: Federal Minimum Wage for Contractors Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/mw-contractors.pdf)
+
+### OSHA Job Safety and Health
+* [Job Safety and Health: It's the Law Poster](https://www.osha.gov/sites/default/files/publications/osha3165.pdf)
+
 ### Pay Transparency Nondiscrimination Provision
 * [Pay Transparency Nondiscrimination Provision](https://www.laborposters.org/federal/1606-federal-pay-transparency-poster.htm)
 
-### Paid Sick Leave Notice
-* [Paid Sick Leave Notice](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/wh1090.pdf)
+### Paid Sick Leave for Federal Contractors
+* [Worker Rights Under Executive Order 13706: Paid Sick Leave for Federal Contractors](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/wh1090.pdf)
+
+### Service Contract Act
+* [Service Contract Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/govc.pdf)
 
 </details>
 
