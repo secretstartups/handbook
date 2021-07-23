@@ -106,7 +106,7 @@ For requests related to the use of an individual's image or voice in print or di
 
 2. Update the "Description of Images" Section of the Media Consent and Model Release Form
 
-3. Once updated, prepare and send for signature to the intended recipient using an electronic signature tool (e.g., HelloSign or DocUsign)
+3. Once updated, prepare and send for signature to the intended recipient using an electronic signature tool (e.g., DocuSign)
     (**_NOTE:_** Do not send the Form as a PDF as it may be modified by the recipient) 
 
 4. Once executed by the recipient, please upload the signed Media Consent and Model Release Form into [ContractWorks](https://about.gitlab.com/handbook/legal/vendor-contract-filing-process/)
