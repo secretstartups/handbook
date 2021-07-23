@@ -55,8 +55,8 @@ We assign issues for refinement to ensure we have focus on the highest-priority 
 ### Release Scope final & kickoff!
 By the week prior to the completion of the current milestone, the scope of the next release is finalized by EMs and PMs.
 
-* EM output: `Deliverable` labels applied to issues we are committing to deliver.
-* EM output: Move issues that we are unlikely to deliver2 to the next iteration.
+* EM output: `Deliverable` labels are applied to issues we are committing to deliver. It's up to the EM's discretion what issues receive this label which is used in the calculation of our [Say Do Ratio](/handbook/engineering/development/performance-indicators/#say-do-ratios). Factors include: confidence that the issue will be completed in the milestone, completion of issues rolled over from the previous milestones, commitments with other groups or stakeholders.
+* EM output: Move issues that we are unlikely to deliver to the next iteration.
 * PM output: Issues with `Deliverable` labels in the `workflow::ready for dev` state have been confirmed to be in the correct priority order.
 
 ---
