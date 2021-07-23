@@ -36,7 +36,7 @@ _Partner with the Group Manager, Product Operations to:_
 
 ### Requirements
 
-- 4+ years of overall experience in either Product Management or related roles
+- 4+ years of experience in Product Management or related roles in software development such as engineering or program management
 - Experience in customer-first product systems similar to GitLab's, especially important is familiarity with modern customer validation techniques
 - Experience supporting the rollout of frameworks/process updates for team of 100+
 - Deep knowledge of and demonstrated experience in change management
