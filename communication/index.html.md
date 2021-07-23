@@ -730,7 +730,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 1. Set your working hours in your Google Calendar settings.
 1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
 
-## Video Calls
+## Video Calls and Note Taking
 
 1. Use video calls if you find yourself going back and forth in an issue/via email
    or over chat. Guideline: if you have gone **back and forth 3 times**, it's time
@@ -783,7 +783,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
 1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
 1. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question. 'Jay about credit-cards'
-1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
+1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 1. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
 1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/)
 1. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
@@ -803,7 +803,7 @@ On the other hand, not every part of a meeting is relevant, but it can sometimes
 If you only have one discussion point, if possible, try to reorder the meeting agenda to have your point first and then drop from the call.
 If you get asked a question when you're not paying attention, it is an okay use of time to repeat a question every now and then.
 If training if required for one's role, team members should plan to give the training full attention--especially if engagement in discussions or breakout rooms is required. If training is 'nice to learn' or 'optional' for team members, multi-tasking can be done at the team members discretion.
- 
+
 
 We don't use the first 15 minutes of a meeting to read the materials like they [do at Amazon](https://www.forbes.com/sites/carminegallo/2019/06/18/how-the-first-15-minutes-of-amazons-leadership-meetings-sparks-great-ideas-and-better-conversations/#6be165bd54ca). You can use the start of a meeting to review the materials for the meeting if you need to, given you do not have to be paying attention, but that should not delay the start of the meeting for the people that already have questions based on the materials. [Meetings start on time at GitLab.](/handbook/communication/#scheduling-meetings)
 
