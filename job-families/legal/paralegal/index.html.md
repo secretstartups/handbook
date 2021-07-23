@@ -67,7 +67,7 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 #### Paralegal Requirements
 
 * Extends that of the Associate Paralegal requirements.
-* Minimum of 5-7 years of experience working in an in-house legal department in a paralegal capacity.
+* Minimum of 5-7 years paralegal experience at a law firm, in-house legal department, or a combination of both; experience at or supporting a multinational public company preferred.
 * Paralegal certification.
 
 ## Specialties
