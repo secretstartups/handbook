@@ -20,7 +20,7 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 * Responding to and running point on internal and/or external questionnaires.
 * Assist in-house legal team in coordinating federal, state and local regulatory compliance documents.
 * Support corporate governance functions by assisting with drafting reports, maintaining records, completing forms and updating documents.
-* Support in-house legal team and outside counsel in preparing documents, conducting due diligence and performing other responsibilities related to corporate acquisitions and other corporate deals.
+* Support in-house legal team and outside counsel in preparing documents, conducting due diligence and performing other responsibilities related to corporate acquisitions and other corporate transactions.
 * Conduct research in support of the legal team, as required.
 * Work on other projects as assigned.* Support responding to internal and/or external compliance and other questionnaires.
 
@@ -82,9 +82,8 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 * Assist with M&A and other strategic transactions, including providing due diligence support data room management, and preparing and organizing deal documents.
 * Identify, design, and implement new processes and procedures to improve efficiency, productivity, and communication
 * Support special projects as needed, including research, organization, and project management.
-* Review marketing materials, announcements, filings and presentations to ensure intellectual property clearance and confirm compliance with applicable regulations, company standards and industry standards.
+* Review internal and external marketing materials, announcements, filings and presentations to ensure intellectual property clearance and confirm compliance with applicable regulations, company standards and industry standards.
 * In consultation with Director of Legal, Corporate and other Corporate attorneys provide advice to GitLab Marketing and Product Development groups on materials and announcements.
-* Perform Trademark clearance searches.
 * Maintain corporate records.
 * Future responsibilities may include preparation of Section 16 reports and assistance with other SEC filings, as well as annual meeting preparation.
 * Other responsibilities based on experience, abilities, and interest.
