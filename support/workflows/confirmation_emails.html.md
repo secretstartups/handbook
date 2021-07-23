@@ -110,7 +110,7 @@ Mailgun does not allow us to check for multiple suppressions on the same domain 
 
 ### Primary email
 
-Once the problem has been fixed, you can send the user a [new confirmation email](https://gitlab.com/users/confirmation/new) if it's the primary email address.
+Once the problem has been fixed, if the email is the primary email on the account, you can send the user a [new confirmation email](https://gitlab.com/users/confirmation/new).
 
 Let the user know you've sent a new confirmation email and ask them to check their inbox and spam folders.
 
