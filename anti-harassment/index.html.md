@@ -297,8 +297,8 @@ In addition to [EthicsPoint](https://about.gitlab.com/handbook/legal/gitlab-code
 Every team member located in the state of California will be required to sign an acknowledgement confirming they have read, reviewed and understood the following three documents:
 
 - [State requirements policy](https://docs.google.com/document/d/1n6tOlhAOJ-wtVjV8Iq-nGa5XgiDfolbHSqmmyE-XQas/edit)
-- [California Law Prohibits Workplace Discrimination & Harassment](https://drive.google.com/file/d/0Bwy71gCp1WgtcU1DeU5qQUxQR0E/view?usp=sharing)
-- [Sexual Harassment & Civil Remedies](https://drive.google.com/file/d/0Bwy71gCp1WgtYWZlRnF0TW1fdlU/view?usp=sharing)
+- [California Law Prohibits Workplace Discrimination & Harassment](https://drive.google.com/file/d/1MgIErp7DX4_MwlnL4YvCGFADINWkvNFs/view?usp=sharing)
+- [Sexual Harassment & Civil Remedies](https://drive.google.com/file/d/10-dnH-M8v4LSqBWhu4bVYk_qwvsqQtyd/view?usp=sharing)
 
 These will be sent via HelloSign for signature.
 
