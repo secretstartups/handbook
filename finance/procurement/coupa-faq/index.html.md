@@ -97,7 +97,8 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 
 
 
-- Suppliers can also email Coupa Support Team (supplier@coupa.com)
+
+- Suppliers can also email Coupa Support Team (supplier@coupa.com).
 
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
@@ -141,7 +142,7 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 </div>
 </div>
 
-If there are any issues with setting up a Remit-To account, please email ap@gitlab.com for assistance.
+If there are any issues with setting up a Remit-To account, please email Coupa Support Team (supplier@coupa.com) for assistance.
 
 
 {::options parse_block_html="false" /}
