@@ -136,7 +136,7 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 * Conduct research and monitor employment law developments.
 * Manage the Legal Issue tracker and triage issues received internally and externally.
 * Assist Director of Legal, Employment and Employment Counsel in interfacing with global People team and network of international outside counsel regarding employment law queries and escalations.
-* Project manage employment aspects of strategic legal projects with other legal professionals and internal stakeholders
+* Project manage employment aspects of strategic legal projects with other legal professionals and internal stakeholders.
 * Participate in management of global employment templates and forms.
 * Participate in development and review of employment-related training programs.
 * Conduct research as required.
@@ -154,7 +154,7 @@ The Paralegal (Employment) works collaboratively with the GitLab Legal Employmen
 The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & Product team on a broad range of areas, including privacy, marketing and product. This team member also provides organizational and substantive support to the Legal team and builds out new systems and procedures as needed. 
 
 #### Paralegal (Privacy & Product) Requirements
-* 5+ years paralegal experience at an international in-house legal department
+* 5+ years paralegal experience at an international in-house legal department.
 * CIPP certification preferred.
 * Strong written and verbal communication. and organizational and analytical skills.
 * Ability to adapt and willingness to work on a variety of matters.
@@ -163,7 +163,7 @@ The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & 
 * Exceptional level of accuracy, superb attention to detail and excellent proofreading skills.
 * Self-starter who has exceptional interpersonal skills.
 * Collaborative team-player with a sense of humor who is intellectually curious, capable of learning on the job, and developing new approaches when there are no precedents.
-* Bachelor’s degree preferred
+* Bachelor’s degree preferred.
 
 #### Paralegal (Privacy & Product) Responsibilities
 * Assist the privacy team with a variety of privacy matters such as the intake and review of privacy questionnaires; provide advice relating to data subject access requests and other privacy issues; help manage the privacy program and make process improvements; 
