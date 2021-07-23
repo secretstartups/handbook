@@ -87,7 +87,7 @@ When a TAM is assigned to an account, an active ROI Success Plan will be automat
 
 After a success plan is created, you will need to input the [strategy](/#strategy), [highlights](/#highlights), and [objectives](/#objectives) that you've collected from working with the customer.
 
-Success plans can have multiple objectives, though it’s best to only have up to three at a time for focus and achievability. Key components of the objectives in the success plan include:
+Success plans can have multiple objectives, though each needs to reflect a key business goal for the customer so typically a customer will have two or three. Key components of the objectives in the success plan include:
 
 - **Name**: Objective title, such as “Cut Time to First Commit by 20%”
 - **Owner**: Who is invested in this objective
@@ -100,7 +100,7 @@ Success plans can have multiple objectives, though it’s best to only have up t
 - **Success Criteria**: Indicate what will need to happen for this objective to be considered successful (you can log Activity updates to capture progress)
 - **Comments**: Share any info that might be relevant to the objective (e.g. potential blockers, architecture details, or other important details worth mentioning)
 
-Objectives should be actionable, and Gainsight provides a way to create action items as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the set of tasks are the way to get there (similar to Objectives and Key Results).
+Objectives should be actionable, and Gainsight provides a way to create milestones as part of the objective, called tasks. A task in Gainsight is equivalent to a milestone in GitLab's historical success plan terminology. In short, the objective is the goal and the tasks are the key milestones to getting there (similar to Objectives and Key Results).
 
 To create [tasks](/#tasks), perform the following steps:
 
@@ -134,11 +134,9 @@ This success plan contains a few key components that combine to provide a summar
 
 To share a ROI Success Plan, click the link icon next to the success plan due date and status, search for the users you want to share it with, then click "Preview and Send" and send the email. Alternatively, you can export the success plan by clicking "Export" at the top right.
 
-### Expansion: Internal Only Success Plan
+#### Account Plan 
 
-When planning for future initiatives you want to work on with your customer that aren't yet on the roadmap, the internal success plan is the right approach. Unlike the [ROI Success Plan](#roi-success-plan), the internal plan is internal to GitLab only. It is for use by the TAM and the rest of the account team to keep track of things you're working on and/or plan to do at a later point.
-
-A good example of when to use an internal success plan is when the team is working on [stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion) (as opposed to stage enablement).
+The [account plan](https://about.gitlab.com/handbook/sales/account-planning/) is owned by the SAL or AE on an account, with the TAM and SA as contributors.  The account plan focuses on the account team's strategy to win, retain, and expand the partnership and business relationship with key customers
 
 ## Components of a Success Plan
 
@@ -263,7 +261,7 @@ This is a good operational objective, but we have no articulated strategic outco
 
 ### Tasks
 
-The tasks for an objective are the actual steps we will take to acheive the objective. These should be actionable, and they should be granular enough to provide a clear path to success. If your objective is likely going to take a long time and require coordination between a lot of different groups, incorporate the need for check-ins and planning meetings into the tasks, so that you can stay on track by regularly reviewing progress with the customer.
+The tasks for an objective are the key milestones we will need to accomplish in order to meet the objective. These should be actionable, and they should be granular enough to provide a clear path to success.
 
 Here is an example of a task list that is too broad:
 
@@ -275,22 +273,18 @@ Here is an example of a task list that is too broad:
 
 The time between each of these tasks is likely weeks, and there is no detail about _how_ we're actually going to implement CI.
 
-Here's a task list that's a little more actionable and detailed:
+Here's a task list/set of milestones that are a little more actionable and detailed:
 
 ```
 - Initial discussion about adopting GitLab CI
-- Schedule discovery call with stakeholders
 - Complete discovery call
-- Send follow-ups and review the interests discussed during discovery call
-- Schedule implementation plan review meeting
+- Determine interest and create an implementation plan
 - Finalize the implementation plan with the customer during review meeting
-- Progress check-in meeting
+- Schedule enablement with admins and key users
 - Evaluate metrics from the first phase of implementation
-- Progress check-in meeting
-- Evaluate metrics from the second phase of implementation
-- Progress check-in meeting
 - Complete implementation in accordance with implementation plan
 - Evaluate metrics after implementation plan has been completed
+- Record adoption
 ```
 
 The level of detail provides a step-by-step path to moving the customer from the starting point to completion, and accounts for the need to monitor progress on a regular basis.
