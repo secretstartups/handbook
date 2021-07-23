@@ -40,7 +40,7 @@ Sexual harassment encompasses a wide range of conduct. Examples of misconduct in
 1. Creating displays, communications, or publications that include content of a sexually offensive nature.
 1. Purposely misgendering people, such as consistently referring to someone as 'he' after repeated requests to use 'she' or vice versa.
 
-Sexual harassment is considered a form of team member misconduct and sanctions will be enforced against individuals engaging in sexual harassment and against supervisory and managerial personnel who knowingly allow such behavior to continue. Any retaliation against an individual who complains of sexual harassment or who testifies or assists in any proceeding under the law is unlawful.
+Sexual harassment is unlawful and is considered a form of team member misconduct. Sanctions will be enforced against individuals engaging in sexual harassment and against supervisory and managerial personnel who knowingly allow such behavior to continue. Any retaliation against an individual who complains of sexual harassment or who testifies or assists in any proceeding under the law is unlawful.
 
 ### Discrimination
 
@@ -306,11 +306,47 @@ These will be sent via HelloSign for signature.
 
 Every team member located in the state of Connecticut is required to take the 2 hour Anti Harassment Training for Supervisors in California. This training is to be completed by all individual contributors as well as managers.
 
+### Maine Law Requirements
+
+Team members who reside in Maine have the right to file a complaint through the [Maine Human Rights Commission](https://www.maine.gov/mhrc/laws-guidance/employment/sexual-harassment) within 300 days of the date of the alleged discrimination. You may contact the Commission by phone at (207) 624-6290, TTY Maine Relay 711, or by visiting the office located at 51 State House Station, August Maine, 04333-0051. It is unlawful under the Maine Human Rights Act for an employer to retaliate against you because you filed a complaint of discrimination or because you aided in an investigation.
+
+### Massachusetts Law Requirements
+
+Team members who reside in Massachusetts have the right to file a complaint to the [Massachusetts Commission Against Discrimination (MCAD)](https://www.mass.gov/orgs/massachusetts-commission-against-discrimination): 1 Ashburton Place, Suite 601, Boston, MA 02108, tel: (617) 994-6000, TTY:(617) 994-6196.
+
+### Oregon Law Requirements
+
+_Nondisclosure or Nondisparagement Agreements_
+
+Under this policy, a nondisclosure agreement is any agreement by which one or more parties agree not to discuss or disclose information regarding any complaint of work-related harassment, discrimination, or sexual assault.
+
+A nondisparagement agreement is any agreement by which one or more parties agree not to discredit or make negative or disparaging written or oral statements about any other party or the company. 
+
+A no-rehire provision is an agreement that prohibits a team member from seeking reemployment with the company and allows a company to not rehire that individual in the future. 
+
+The company will not require a team member to enter into any agreement if the purpose or effect of the agreement prevents the employee from disclosing or discussing conduct constituting discrimination, harassment, or sexual assault.
+
+A team member claiming to be aggrieved by discrimination, harassment, or sexual assault may, however, voluntarily request to enter into a settlement, separation, or severance agreement which contains a nondisclosure, nondisparagement, or no-rehire provision and will have at least seven days to revoke any such agreement.
+
+_Time Limitations_
+
+Nothing in this policy precludes any person from filing a formal grievance in accordance with a collective bargaining agreement [if applicable], the [Bureau of Labor and Industries’ Civil Rights Division](https://www.oregon.gov/boli/civil-rights/Pages/default.aspx) 800 NE Oregon St., Suite 1045 Portland, OR 97232, tel: (971) 673-0761, TTY Relay 711, or the Equal Employment Opportunity Commission. Note that Oregon state law requires that any legal action taken on alleged discriminatory conduct (specifically that prohibited by ORS 659A.030, 659A.082 or 659A.112) commence no later than five years after the occurrence of the violation. Other applicable laws may have a shorter time limitation on filing.
+
+### Rhode Island Law Requirements
+
+Team members who reside in Rhode Island have the right to file a complaint with the [Rhode Island Commission for Human Rights](http://www.richr.ri.gov/) located at 180 Westminster St., 3rd Floor, Providence, RI 02903. Phone: (401) 222-2661, Voice Relay: 7-1-1.
+
+### Vermont Law Requirements
+
+If the a team member who resides in Vermont is dissatisfied with this employer's action, or is otherwise interested in doing so, they may file a complaint by writing or calling the Vermont Attorney General's Office, Civil Rights Unit, 109 State Street, Montpelier, VT 05609, ago.civilrights@vermont.gov, tel:(888)745-9195 (Toll Free VT) or (802)828-3657 (voice/TDD). Complaints should be filed within 360 days of the adverse action. 
+
 ## Resources
 
 We are continuously gathering country specific references to review regulation and obtain guidance on the management of harassment or misconduct at work. Here are a few authorities we referred to in the creation of this policy:
 
 - [Equal Employer Opportunity Commission (EEOC)](https://www.eeoc.gov/laws/index.cfm)
+  - Contact [EEOC](https://www.eeoc.gov/employees/charge.cfm): John F. Kennedy Federal Building, 475 Government Center, Boston, MA 02203, , tel:1-800-669-4000 (voice), 1-800-669-
+6820 (TDD). Complaints must be filed within 300 days of the adverse action.
 - [Society of Human Resource Management (SHRM)](https://www.shrm.org/ResourcesAndTools/legal-and-compliance/employment-law/pages/federal-statutes-regulations-and-guidance.aspx)
 
 ## Further Guidance (Country-Specific)
