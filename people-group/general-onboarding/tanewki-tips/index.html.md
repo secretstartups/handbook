@@ -21,7 +21,13 @@ Hello! We could not be more excited to have you here. This page is here to help 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
 {: #tanuki-orange}
 
-[The People Experience Team] (https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. One of us will be assigned to your Onboarding Issue, and will be there to help guide you as you begin onboarding. 
+[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. One of us will be assigned to your Onboarding Issue, and will be there to help guide you as you begin onboarding. 
+
+- [Alex Venter, People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
+- [Ashley Jones, Sr. People Experience Associate](https://about.gitlab.com/company/team/#asjones)
+- [Emily Mowry, Sr. People Experience Associate](https://about.gitlab.com/company/team/#Mowry)
+- [Beverley Rufener, Manager, People Operations](https://about.gitlab.com/company/team/#brufener)
+
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Timeline 
 {: #tanuki-orange}
@@ -38,7 +44,7 @@ After you sign your offer and complete your background check and references, you
 
 1. You may receive an email from Okta (our SAAS application portal) with an invite to register. Please ignore this email until you receive your onboarding welcome email on your first day with us. This will ensure that no issues are experienced with your access levels on your first day. 
 
-##### First day :tada: 
+##### First day
 
 1. **When should you log on for day one?** Unless you have worked out a specific time with your manager, feel free to start your day when you feel comfortable starting. We love non-linear work days but you have to [find what works for you](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/#find-what-works-for-you).
 1. The first thing you'll want to do is check your personal email where you will have received an onboarding email from GitLab with directions on how to access Okta, your GitLab email and all other applications. Most of GitLab applications are accessed through Okta so make sure you follow the directions in the email in order. 
