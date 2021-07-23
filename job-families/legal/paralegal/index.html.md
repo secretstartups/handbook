@@ -20,7 +20,7 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 * Responding to and running point on internal and/or external questionnaires.
 * Assist in-house legal team in coordinating federal, state and local regulatory compliance documents.
 * Support corporate governance functions by assisting with drafting reports, maintaining records, completing forms and updating documents.
-* Support in-house legal team and outside counsel in preparing documents, conducting due diligence and performing other responsibilities related to corporate acquisitions.
+* Support in-house legal team and outside counsel in preparing documents, conducting due diligence and performing other responsibilities related to corporate acquisitions and other corporate deals.
 * Conduct research in support of the legal team, as required.
 * Work on other projects as assigned.* Support responding to internal and/or external compliance and other questionnaires.
 
@@ -31,13 +31,24 @@ The Associate Paralegal is a [grade 5](/handbook/total-rewards/compensation/comp
 * Strong attention to detail and affinity for use of various types of technologies.
 * Proactive, dynamic and result driven individual with strong organizational skills.
 * Outstanding interpersonal skills, the ability to interface effectively with all business functions throughout the organization.
-* Enthusiasm and "self-starter" qualities enabling him or her to manage responsibilities with an appropriate sense of urgency; the ability to function effectively and efficiently in a fast-paced & dynamic environment.
+* Enthusiasm and "self-starter" qualities enabling individual to manage responsibilities with an appropriate sense of urgency; the ability to function effectively and efficiently in a fast-paced & dynamic environment.
 * Superior analytical ability, project management experience, and communication skills
 * Ability to manage internal customer priorities and needs.
 * A curious mind who does not back down from a challenge.
 * Previous experience in a Global Start-up and remote first environment preferred.
 * Successful completion of a background check.
 * Ability to use GitLab.
+
+## Specialties
+
+#### Associate Paralegal (Employment) Responsibilities
+
+* Draft employment-related agreements.
+* Develop employment-related policies.
+* Identify and develop employment-related training.
+* Manage global employment-related projects as assigned.
+* Conduct research and monitor employment law developments.
+
 
 ### Paralegal (Intermediate)
 
@@ -49,13 +60,13 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 
 #### Paralegal Responsibilities
 
-* Extends that of the Associate Paralegal responsibilities
+* Extends that of the Associate Paralegal responsibilities.
 * Administer, maintain and manage the legal issue tracker for the particular subject matter to which the role is assigned.
 * Prepare standard agreements for subject matter to which the role is assigned.
 
 #### Paralegal Requirements
 
-* Extends that of the Associate Paralegal requirements
+* Extends that of the Associate Paralegal requirements.
 * Minimum of 5-7 years of experience working in an in-house legal department in a paralegal capacity.
 * Paralegal certification.
 
@@ -94,24 +105,47 @@ The Intermediate Paralegal is a [grade 6](/handbook/total-rewards/compensation/c
 * Ensure all due diligence and deal documentation for strategic transactions are organized within the appropriate shared folders.
 
 ### Paralegal (Employment)
+The Paralegal (Employment) works collaboratively with the GitLab Legal Employment team on matters affecting the entire arc of the employment relationship, from pre-hire all the way through to post-employment.  These areas will include hiring practices, compensation, benefits, performance management, promotions/demotions, employment policies, contract templates, separations, enforcing post-contractual obligations, and litigation management where it arises, across the company’s global footprint. The team member will exercise independent judgment towards matter preparation, and will provide organizational and substantive support to the Legal team, including building out new systems and procedures as needed.
 
 #### Paralegal (Employment) Requirements
 
-* Extends that of the Associate Paralegal responsibilities.
+* 5+ years paralegal experience at a law firm, in-house legal department, or a combination of both; experience at or supporting a multinational public company preferred.
+* Strong written and verbal communication and organizational and analytical skills.
+* Ability to adapt and willingness to work on a variety of matters.
+* Excellent technical skills, including G-Suite applications and Slack.
+* Exceptional level of accuracy, superb attention to detail and excellent proofreading skills.
+* Self-starter who has exceptional interpersonal skills.
+* Collaborative team-player with a sense of humor who is intellectually curious, capable of learning on the job, and developing new approaches when there are no precedents.
+* Experience using GitLab a plus.
+* Bachelor’s degree preferred.
+
 
 #### Paralegal (Employment) Responsibilities
 
-* Draft employment-related agreements.
-* Develop employment-related policies.
-* Identify and develop employment-related training.
+* Assist Employment team with variety of employment compliance matters such as review and update of employment policies.
+* Serve as point of contact for employment-related data subject access requests and work with Privacy team as needed with respect to employment privacy issues.
+* Provide support to the Director of Legal, Employment and Employment Counsel on employment litigation, claims, and other related matters, including, but not limited to, coordinating with outside firms as needed, coordinating litigation hold response, assisting with investigation, responding to claim/litigation requests, preparing case documentation, and conducting research.
+* Prepare litigation summaries.
+* Draft correspondence and legal documents.
+* Draft responses to government agencies.
+* Review and manage service of process and responses to garnishments, subpoenas, and other legal notices; including collecting and analyzing responsive information.
 * Manage global employment-related projects as assigned.
 * Conduct research and monitor employment law developments.
+* Manage the Legal Issue tracker and triage issues received internally and externally.
+* Assist Director of Legal, Employment and Employment Counsel in interfacing with global People team and network of international outside counsel regarding employment law queries and escalations.
+* Project manage employment aspects of strategic legal projects with other legal professionals and internal stakeholders
+* Participate in management of global employment templates and forms.
+* Participate in development and review of employment-related training programs.
+* Conduct research as required.
+* Assist on other projects as needed.
+
 
 #### Employment Performance Indicators
 
-* [Review legal issue tracker for employment and employment compliance requests and timely respond.](/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours)
-* [Track People Ops and People Success Issues for requests for legal support and timely respond.](#review-peopleops-pbp-daily-ongoing--24-hours)
-* [Complete MR’s and Open Epics and Issues to support employment compliance projects](#create-MR-issue-ongoing--100)
+* [Review legal issue tracker for employment and employment compliance requests and timely respond.](/handbook/legal/#review-the-legal-issue-tracker-daily-ongoing--24-hours).
+* [Track People Ops and People Success Issues for requests for legal support and timely respond.](#review-peopleops-pbp-daily-ongoing--24-hours).
+* [Complete MR’s and Open Epics and Issues to support employment compliance projects](#create-MR-issue-ongoing--100).
+* Maintain and manage records for employment matters.
 
 ### Paralegal (Privacy & Product) 
 The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & Product team on a broad range of areas, including privacy, marketing and product. This team member also provides organizational and substantive support to the Legal team and builds out new systems and procedures as needed. 
@@ -142,11 +176,6 @@ The Paralegal, Privacy & Product works collaboratively with the Legal Privacy & 
 Review product and privacy requests received and provide timely responses.
 Complete MR’s and Open Epics and Issues to support privacy and product projects.
 Maintain and manage records for privacy and law enforcement matters
-
-## Performance Indicators
-* [Administer, maintain, and manage the legal issue tracker](/handbook/legal/#administer-maintain-and-manage-the-legal-issue-tracker-daily-ongoing--24-hours)
-* [Ensure all fully executed vendor contracts are in ContractWorks](/handbook/legal/#ensure-all-fully-executed-vendor-contracts-are-in-contractworks--100)
-* [Ensure all fully executed sales contracts are in the Salesforce](/handbook/legal/#ensure-all-fully-executed-sales-contracts-are-in-the-salesforce--100)
 
 ## Career Ladder
 The next step in the Paralegal job family is not yet defined at GitLab.
