@@ -53,7 +53,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 
 ### Role
 
-As the Group Manager, Product Operations, you will drive the vision for GitLab's product system and will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the VP, Product Management, the CEO, the Product Management team, and other cross-functional departments. This role reports to the Chief Product Officer.
+As the Group Manager, Product Operations, you will be deeply passionate and knowledgeable about outcome driven product development methodologies and frameworks. You will own the Product Operations roadmap and communicate the [vision and direction](https://about.gitlab.com/direction/product-operations/) for GitLab's product system. You will be responsible for ensuring the Product Management team's operating health in tight partnership with stable counterparts across GitLab the company. Your "customers" will be a variety of internal constituents, including the VP, Product Management, the CEO, the Product Management team, and other cross-functional departments. This role reports to the Chief Product Officer.
 
 ### Individual responsibility
 
