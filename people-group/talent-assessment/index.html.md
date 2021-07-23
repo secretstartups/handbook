@@ -268,13 +268,15 @@ There is an overview of recommended actions to take after the calibration sessio
 * [Career Development Conversations](https://about.gitlab.com/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 * Promotion planning 
 
-## Timeline
+# Timeline
 
-### Regular Cadence
+## Q4 Formal Assessment 
 
-Our e-group completes Performance/Growth Matrix multiple times a year for their direct reports. The rest of GitLab does this at least once per year in Q4. The formal assessment would ideally take place in November prior to the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). 
+### Cadence
 
-#### Eligibility
+Our e-group completes Performance/Growth Matrix multiple times a year for their direct reports. The rest of GitLab does this _at least_ once per year in Q4, with a recommended informal mid-year checkin. The formal assessment would ideally take place in November prior to the [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review). 
+
+### Eligibility
 
 Anyone hired on or before October 31st is eligible to participate in the Q4 Performance/Growth matrix annual review. However, if the team member being assessed has been with GitLab for a period of 3 months or less, it is likely that these team members will fall into `Developing` for performance and should not expect a compensation adjustment, although they are still eligible to be reviewed.
 
@@ -291,6 +293,40 @@ The Performance/Growth Matrix typically takes 4-6 weeks to complete from beginni
 1. Executive Review (leadership meets to review the matrix results, promotion requests, development and performance actions, review discrepancies, and measure against previous matrix results).
 1. Performance axis results communicated with team members.
 1. Retrospace takes place with leadership to determine next steps and iterate. 
+
+## Mid-Year Check In
+
+It is recommended (but not required) that managers have discussions on [Performance](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-performance) and [Growth](https://about.gitlab.com/handbook/people-group/talent-assessment/#what-is-growth) with their team members early Q3 prior to the formal assessment in Q4. Benefits to having this second dedicated discussion are:
+
+* To align 
+* To provide a space for questions/clarification ahead of the formal assessment 
+* To receive feedback from the team member on their own performance/growth 
+* To provide feedback to the team member on their performance/growth
+* To check in on progress from previous career discussions and goals
+* To become more familiar and comfortable with discussing performance and growth
+
+*Please document the mid-year discussion.* While the mid year assessment is not "formal" in the sense that it will not be the final assessment utilized to inform the annual compensation review and there will not be calibration sessions, it is important to capture what was discussed, feedback, and points addressed to help inform future discussions and assessments. This conversation can be documented in your 1:1 document, or alternatively, you may leverage [this template](https://docs.google.com/document/d/1ulyuazZpNAFnoOFDITo4fUHLDAX_bKhr242uG9x4yPE/edit#heading=h.j3xr5kqp6s24). 
+
+#### Timeline
+
+Mid-year conversations should be complete and documented by September 20, 2021 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
+
+1. Conduct a single conversation on Performance/Growth/and 360 feedback results aligned with the [360 feedback cycle timeline](/handbook/people-group/360-feedback/#timeline-fy22)
+1. Conduct two separate conversations (one of Performance/Growth, and another on 360 feedback results after [reports come out](/handbook/people-group/360-feedback/#timeline-fy22)). If this option is chosen, 360 feedback results should be considered and reviewed to incorporate into Performance/Growth documentation after the fact to ensure we do not lose this data point. 
+
+There will be a Manager training session on Performance and Growth delivered by PBPs on  **2021-08-02 (APAC/Americas) and 2021-08-03 (EMEA/Americas)**. "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.
+
+_Note: Not all division chose to participate in the 360 feedback cycle for FY'22. This is completely fine, and we recommend that Performance/Growth conversations are conducted regardless leveraging other feedback and data points pertaining to Performance and Growth._
+
+1. **2021-08-02 (APAC/Americas) and 2021-08-03 (EMEA/Americas)**: Manager training on Performance and Growth delivered by PBPs _(Note: "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.)_
+1. **2021-08-04 - 2021-08-30**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
+1. **2021-08-30**: 360 reports become available for divisions that chose to participate. 
+1. **2021-09-06 - 2021-09-20:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
+
+
+
+
+
 
 ## Communication 
 
