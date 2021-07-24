@@ -69,15 +69,6 @@ The next step in the Group Manager, Product is to move to [Director of Product](
 
 #### Group Manager, Product (GMP) - Specialties
 
-##### Fulfillment
-Responsible for the [Fulfillment](/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
-
-**Requirements**
-* Demonstrated business operations skills and an ability to think systematically about complex workflows and work cross-functionally to ensure an excellent end-to-end customer experience
-* Previous experience with high scale billing & licensing systems
-* Familiarity with commercial best practices for no touch, sales assisted, and partner assisted transactions
-* Excellent communication skills at all levels, including e-group
-
 ##### Verify
 Are responsible for managing the team of product managers covering the [Verify stage groups](/handbook/product/categories/#verify-stage). Leading the [Verify direction](/direction/ops/#verify) is a high impact position. Works with your team to ensure our [industry-leading CI](/resources/forrester-wave-cloudnative-ci/) continues to be a [critical entry-point](/handbook/marketing/product-marketing/usecase-gtm/ci/) to our single devops platform. Work cross functionally as an expert and invest in your team of high caliber product managers to make sure our [R&D investment in Verify](/handbook/product/investment/#investment-by-stage) is as effective as possible in fulfilling our [mission to enable everyone to contribute](/company/mission/#mission).
 
@@ -165,6 +156,10 @@ and reports to the Chief Product Officer.
 The Director of Product Management, Enablement is the PM DRI for the Enablement parts of the
 [DevOps lifecycle](/handbook/product/categories/#enablement-section)
 and reports to the VP of Product Management.
+
+##### Fulfillment
+Responsible for the [Fulfillment](/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
+
 
 #### Director of Product Management - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
