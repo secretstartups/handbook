@@ -730,7 +730,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 1. Set your working hours in your Google Calendar settings.
 1. Utilize [PTO by Roots](/handbook/paid-time-off/#pto-by-roots) to keep other GitLab team members aware of your planned time away within Slack.
 
-## Video Calls and Note Taking
+## Video Calls
 
 1. Use video calls if you find yourself going back and forth in an issue/via email
    or over chat. Guideline: if you have gone **back and forth 3 times**, it's time
@@ -781,13 +781,17 @@ Indicate your availability by updating your own calendar using Google's ["out of
    Just like in-person meetings be cognizant of when, who, and how you interrupt, we don't want [manterrupting](http://time.com/3666135/sheryl-sandberg-talking-while-female-manterruptions/).
 1. We end on the scheduled time. It might feel rude to end a meeting, but you're actually allowing all attendees to be on time for their next meeting.
 1. Do not use the chat of products like Zoom to communicate during the call, use the linked document instead. This allows everyone to contribute additional questions, answers, and links in the relevant place. It also makes it easier for people in conflicting timezones to contribute questions before the call and makes it easier to review questions and answers after the call, which can be before watching the recording.
-1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
 1. You do not need to remind other people to vocalize their questions. Just say their name and a keyword of the question. 'Jay about credit-cards'
-1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 1. Every comment is document worthy, even small support comments such as `+1` or `Very Cool!`.
 1. We encourage the recording and [sharing of everything to our YouTube Unfiltered channel](/handbook/marketing/marketing-operations/youtube/)
 1. It is unusual to smoke in an open office or video conference, vaping is associated with this. For this reason we ask that you don't vape during calls, and if you absolutely have to, kindly switch your camera off.
 1. Speak up when you notice something is not working. If you notice someone's microphone, web cam or latency is causing issues for them it is good to speak up. On a video call it can be harder for the speaker to notice that they aren't being understood compared to a face to face conversation. As such you will be doing them a favour by speaking up early to let them know that they are having a problem. Also see [Hear nothing say something](https://www.youtube.com/watch?v=LZ5spXU5HbU) for further explanation.
+
+### Note taking
+
+1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
+1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). 
+1. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 
 ### You are the manager of your attention
 
