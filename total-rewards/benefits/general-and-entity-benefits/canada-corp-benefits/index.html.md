@@ -20,11 +20,11 @@ Benefits are administered by Great West Life. The benefits decision discussions 
 
 GitLab covers **100%** of team member, spouse, dependents, and/or domestic partner premiums for medical, dental, and vision coverage.
 
-Please review the full [policy document](https://drive.google.com/file/d/14iVKGg4jZ2VsnT5uzitWjZFSxQwS9qn-/view?usp=sharing) for more information on the benefits being offered.
+Please review the full [policy document](https://drive.google.com/file/d/1UFEPx7LI1kUmOr2BX47ZlRniQip_qewJ/view?usp=sharing) for more information on the benefits being offered.
 
 ## Group Health Coverage
 
-GitLab offers medical, dental, and vision coverage at no cost to the team member. The benefits are outlined in the following [benefit summary](https://drive.google.com/file/d/1q_378iLs64-wSSizSKlLxkAm01nvDXZO/view?usp=sharing) as well as below. This documentation also has details on the products and services available under the plan. 
+GitLab offers medical, dental, and vision coverage at no cost to the team member. The benefits are outlined in the following [benefit summary](https://drive.google.com/file/d/1QToHbxyoqAx4lz8wnI73OqNuICScE5tk/view?usp=sharing) as well as below. This documentation also has details on the products and services available under the plan. 
 
 ### Medical Coverages
 
