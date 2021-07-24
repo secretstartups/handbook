@@ -95,12 +95,24 @@ Technical Account Managers maintain the relationships between the customers and 
 
 #### Growth
 
-Technical Account Managers help to bring GitLab to all aspects of your company, not just software development. They can do this by showing other business unit's how to use GitLab for their day-to-day tasks and to advocate for new features and functionality that are in demand by other groups.
+Technical Account Managers help to bring GitLab to all aspects of your company, not just software development. They can do this by showing other business units how to use GitLab for their day-to-day tasks and to advocate for new features and functionality that are in demand by other groups.
 
 #### Success
 
-Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption and training.
+Technical Account Managers make sure that the adoption of GitLab is successful at your company through planning, implementation, adoption, and training.
 
+Your TAM can help you:
+
+- Create a roadmap for your development cycle.
+- Deliver training to your users through webinars and other deep-dive sessions.
+- Analyze your data to suggest changes, additions, and improvements to optimize your workflow.
+
+To get the most out of your TAM relationship:
+
+- **Stay in touch with your TAM**. Set up a group in your organization to attend webinars and regular meetings.
+- **Make a plan**. Get help building your roadmap to guide your progress.
+- **Set a schedule**. Set up regular meetings to review your progress and improve your planning, including bi-annual meetings and reviews.
+- **Know your backup**. When your TAM is unavailable, you'll have a backup who can step in to help.
 
 ## Responsibilities and Services
 
