@@ -13,6 +13,26 @@ title: Solutions Architect Processes
 # Solutions Architect Processes
 {:.no_toc}
 
+## SA Process Maps
+
+The SA organization uses process mapping as a framework for structured and continuous improvement.  LucidChart is used to document SA execution workflow and details; in other words, what we do and how we do it is documented as a visual process map.  This provides a single location to find reusable artifacts, enablement, and tooling. 
+
+The goals of SA process mapping are inclusive of the following:
+
+- To be precriptive and deliberate with SA activities in order to continuously increase efficiency and effectiveness
+- Faster SA onboarding
+- Make more of what we do measurable
+- Hold each other accountable
+- Make it easier to collaborate and iterate on what we dod
+
+SA process mapping is not meant to restrict creativity, experimentation, or improvement.  As part of the SA Learning Organization, SAs are encouraged to challenge our mental models and focus on solving problems as a team.  If something can be done better, please try it out and share your learnings.  Contribute to our process maps and to the supporting handbook pages.
+
+To following process maps are best viewed in full screen.  Please note that many of the map nodes are clickable, leading to other maps, handbook pages, or other supporting artifacts.
+
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/38e731ce-71cb-4e87-aaa5-d58bb78e1aad" id="z1uMS15~KGtS"></iframe>
+
+
+
 ## SA Activity Capture
 
 Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
