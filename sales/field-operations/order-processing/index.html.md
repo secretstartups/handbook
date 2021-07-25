@@ -89,6 +89,34 @@ There are 4 different types of quotes - New Subscription, Amend Existing, Renew 
 | [Renew Existing Subscription](/handbook/sales/field-operations/sales-operations/deal-desk/#renew-subscription-quote)      | Customer is at the end of their current term and wants to renew for the same term length      |
 | [Cancel Existing Subcription](/handbook/sales/field-operations/sales-operations/deal-desk/#contract-reset)      | This is used for a Contract Reset - please chatter on the opportunity level for assistance with contract resets      |
 
+#### Quote Template Types 
+
+GitLab uses 5 quote templates to support each type of transaction. The following quote templates are available on all quote types. 
+
+| Template                            | Use For                                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
+| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
+| Distributor Order Form              | Distributor Transactions                                                                                 |
+
+Pre-Approved Legal Languge can be added to each quote. Selections are listed as Toggle Fields on the quote object. 
+
+| Toggle Field                   | Output                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
+| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
+
+Quotes run through an automated logic check to ensure that the selected Legal langauge can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
+
+In some instances, you will make a selection that will require additional review and approval before an order form can be sent out. This is typically for complex/non standard deals. If you make a selection that cannot be accomodated, you will see an error message. Remove the selection and move forward with the quote. 
+
+#### Known Quote Issues 
+**Additional Line Items Displaying on the Quote**: If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
+
 #### Quote Assistance
 
 If your quote requires any special, non-standard edits, or if you have questions regarding standard quotes, you are encouraged to send a Chatter message to `@Sales-Support` on the SFDC Opportunity record for assistance.
@@ -131,13 +159,6 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 **Important Notes**
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance.
-
-#### Customer Reference Quotes
-
-If Customer Reference language has been included on the quote object and order form, the "Reference Discount" box will be checked on the quote object by the Deal Desk team.
-
-#### Known Quote Issues 
-**Additional Line Items Displaying on the Quote**: If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
 
 ### Eval users SKU creation
 
@@ -205,6 +226,13 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 1. Change the status of the contract, in SFDC, to 'Approved to Sign'; and 
 1. [stage the contract](https://faq.hellosign.com/hc/en-us/articles/205830938-How-do-I-request-a-signature-) in HelloSign for signatures; 
 1. Send to the Customer and cc' our CFO (Brian Robins).
+
+</details>
+
+<details>
+<summary markdown="span"><b>Add a SaaS Addendum to an Order form</b></summary>
+
+To add our SaaS SLA Addendum to an order form, please open a Legal case after all approvals have been secured for your quote. 
 
 </details>
 
@@ -649,9 +677,10 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), go back to the quote and click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. *Note that the ability to generate a Word Doc has been restricted to the Deal Desk team.*
-1. All requests for custom language or Order Form edits must meet the standards listed in [our matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#heading=h.ag75fqu12pf0). To request edits to an Order Form, tag @Sales-Support in chatter with the request and Deal Desk will evaluate the request and execute the edits via Word doc after necessary approvals are received.
-1. The default template for all transaction types (new, amendment, or renewals) will be the direct (non-channel) quotes that do not show $0 line items. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
+1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), go back to the quote and click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
+1. Pre-approved Legal Lanauge can be added to some order forms through Toggle Field selections available on the quote object. To Edit these field, Click "Edit Quote Details". 
+1. Non-standard Legal Langauge will need to be reviewed, approved, and added manually by Legal. Please open a Legal case if you would like to propose non-standard contract terms. 
+1. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 
 #### Setting Up DocuSign for the First Time
 The first time you login to DocuSign from SFDC, you will be required to Authorize access and log in. Please follow these steps when prompted:
@@ -915,20 +944,7 @@ An Authorized Reseller, Distributor, or MSP is an approved partner with an activ
    * The Order Form includes the correct reference to the Master Partner Agreement or Authorized Reseller Agreement and other terms; and
    * The PO received is issued to the correct GitLab entity and references the applicable Order Form Quote No. which includes, Quote ID, products, # of users, term, and pricing of the subscription(s).
 1. Clickthrough EULA must be delivered and accepted by the End User. Please attach a Note to the Notes and Attachments section with a confirmation link or email.
-1. If the End User has previously accepted a EULA, then we can use it as the governing terms with respect to the End User for this purchase.  In such a case go to our [EULA Request Server](https://customers.gitlab.com/admin/eula_request) and find the ```Token``` and ```Accepted At``` from the customer's previous EULA. Then insert the following into the quote: *"By accepting this quote, you, and the entity that you represent (collectively, “Customer”) unconditionally agree to be bound by the terms agreed to in EULA ```Token``` previously accepted on ```Accepted At```."*
-
-</details>
-
-<details>
-<summary markdown="span"><b>Booking Requirements for opportunities sold via Fulfillment/Unauthorized Reseller</b></summary>
-
-For opportunities where a Fulfillment (Unauthorized) Reseller will purchase and resell to an End User:
-
-1. The Sales Team member must create (and provide to the Reseller) a Fulfillment Reseller Order Form, that DOES NOT include a signature block. This Order Form template will include reference to the Fulfillment Reseller Agreement (located here:https://about.gitlab.com/terms/#reseller)
-1. GitLab will accept the Fulfillment Order Form without signature, and the Reseller PO, PROVIDED THAT:
-   * The Order Form includes the correct reference to the Fulfillment Reseller Agreement and other terms; and
-   * The PO received is issued to the correct GitLab entity and references the applicable Order Form Quote No. which includes, Quote ID, products, # of users, term, and pricing of the subscription(s).  
-1. Clickthrough EULA must be delivered and accepted by the End User. Please attach a Note to the Notes and Attachments section with a confirmation link or email.
+1. The correct quote template must be selected for the relevant route to market. Authorized Reseller, Authorized Distributor, and Managed Service Provider (MSP) templates. 
 1. If the End User has previously accepted a EULA, then we can use it as the governing terms with respect to the End User for this purchase.  In such a case go to our [EULA Request Server](https://customers.gitlab.com/admin/eula_request) and find the ```Token``` and ```Accepted At``` from the customer's previous EULA. Then insert the following into the quote: *"By accepting this quote, you, and the entity that you represent (collectively, “Customer”) unconditionally agree to be bound by the terms agreed to in EULA ```Token``` previously accepted on ```Accepted At```."*
 
 </details>
@@ -940,7 +956,7 @@ AWS Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create a quote object per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license. Make sure to select the AWS quote template before generating the order form.
+1. Create a quote object per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
@@ -967,7 +983,7 @@ GCP Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create a quote object per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license. Make sure to select the GCP quote template before generating the order form.
+1. Create a quote object per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. [Open a new issue](https://gitlab.com/gitlab-com/alliances/google/gitlab-tracker/-/issues/new?issuable_template=marketplace_deal) with the Alliance team to create the Private Offer. Please use the issue template *marketplace_deal* and fill out the description including the Order Form from Salesforce. When generating the PDF, be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
@@ -1007,7 +1023,6 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - For Email, Phone, Mailing Adress, see [example contact](https://gitlab.my.salesforce.com/0034M000021U7bK).
   - Region: NORAM, Sub-Region: US East
 3. Create a quote per standard practice, and enter the following information:
-  - Order Form Template = IBM
   - Invoice Owner = IBM OEM (Alliance Partner)
   - Sold To Contact = IBM Ecosystem Project Office
   - Bill To Contact = IBM Ecosystem Project Office
@@ -1015,7 +1030,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Payment Term = Net 60
   - Start Date = Date of Transaction Notification Email
   - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
-4. Generate Order Form.
+4. Generate Order Form. Be sure to use the Standard Order Form quote template 
 5. Attach the following to the opportunity:
   - Screenshot of email notification from IBM noting that the transaction has closed from IBM
   - IBM spreadsheet with necessary transaction details
@@ -1054,6 +1069,7 @@ After the ISR or Account manager confirms the Distributor PO is correct, a quote
 2. The Distibutor PO Number must be entered on the Quote Object Prior to submitting for approval.
 3. The Sold To and Bill To Contact on the quote object must have a complete address that matches the address used on the Distributor PO to GitLab.
 4. The Distributor PO to GitLab must be within $1.00 (USD) of the Quote object in order to be accepted.
+5. Select the Distributor Template.
 
 </details>
 
@@ -1250,7 +1266,7 @@ The Deal Desk will review the following data points once an opportunity has been
 1. If an SLA or MSA has been issued, it must be attached to the opportunity, approved, and countersigned.
 1. Complete and accurate Bill To and Sold To Information on the order form. Any blank values will be rejected.
 1. Start Date confirmation- start dates may be in the past because quote was never updated or took time to sign.
-1. Correct template is used for direct vs. authorized vs. unauthorized resellers. This is especially important if a EULA must be delivered.
+1. Correct template is used for route to market. 
 1. If a PO is issued:
     * The Amount on the PO and the Order Form must match.
     * The entity on the PO should match the correct entity of the quote.
