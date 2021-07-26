@@ -5,7 +5,10 @@ description: "Learn about the processes that the GitLab Project Management team 
 ---
 
 ## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 GitLab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for all engagements.
 
@@ -79,3 +82,18 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
     - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
     - Schedule [project closure meeting with agenda](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
 13. PS Project Coordinator: PSE object update (set to complete)
+
+
+### Change Order
+
+Change orders are common elements of Professional Services engagements.  Apply the following steps to create a change order issue, which describes the change order process.
+* Note the engagement Epic number
+* [Create a Change Order type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
+* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description with the epic number e.g. `&65` 
+
+### Work At Risk
+
+When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
+* Note the engagement Epic number
+* [Create a Work at Risk type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-at-risk&issue%5Btitle%5D=Work%20at%20Risk)
+* Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description with the epic number e.g. `&65` 
