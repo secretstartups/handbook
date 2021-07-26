@@ -100,6 +100,15 @@ Consider a secondary mentor for the length of the internship that has a great de
 
 Remember: struggling remote interns may have a sound understanding of their work tasks, but are unable to articulate blockers related to their work environment.
 
+Consider also creating opportunities for interns to connect and network with senior leaders on the team. In his session at [REMOTE by GitLab](https://remotebygitlab.com/), Professor Raj Choudhury shared the results of a Harvard Business School study showing how brief virtual water cooler sessions with senior managers might have job and career benefits for newcomers in a remote setting. Watch the recording to learn more:
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/RVMUworx2Vk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
 ### Select projects intentionally
 
 Certain projects and tasks are more easily completed by junior staff. Moreover, certain tasks are more easily accomplished asynchronously.
