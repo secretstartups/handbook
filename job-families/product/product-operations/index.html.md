@@ -36,7 +36,7 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
 
 ### Requirements
 
-- 4+ years of experience in Product Management or related roles in software development such as engineering or program management
+- 4+ years of experience in Product Management or related roles in software development such as engineering and UX and/or system design 
 - Experience in customer-first product systems similar to GitLab's, especially important is familiarity with modern customer validation techniques
 - Experience supporting the rollout of frameworks/process updates for team of 100+
 - Deep knowledge of and demonstrated experience in change management
@@ -48,6 +48,10 @@ _Partner with the Group Manager, Product Operations to maintain a prioritized Pr
    - Comfortable with using a text editor of your choice (e.g., vim, emacs, VS Code, SublimeText, Textmate)
 - You are living wherever you want and are excited about the [all remote](https://about.gitlab.com/company/culture/all-remote/) lifestyle
 - You share our [values](/handbook/values/), and work in accordance with those values
+
+### Other Helpful Experience
+
+- Experience in technical product management,  project management or program mangement 
 
 ## Group Manager, Product Operations
 
