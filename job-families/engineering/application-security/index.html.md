@@ -22,10 +22,10 @@ Application Security Engineers work closely with development teams, product mana
 * Familiarity with common security libraries, security controls, and common security flaws.
 * Basic development or scripting experience and skills. Ruby and Ruby on Rails is preferred.
 * Experience with OWASP, static/dynamic analysis, and common security tools.
-* A basic understanding of network and web related protocols (such as TCP/IP, UDP, IPSEC, HTTP, HTTPS, protocols).
-* Familiarity with cloud security controls and best practices.
+* A basic understanding of network and web related protocols (such as TCP/IP, UDP, HTTP, HTTPS, protocols).
 * Experience working with developers. 
 * Excellent and professional communication skills (written and verbal) with an ability to articulate complex topics in a clear and concise manner.
+* Experience identifying security issues through code review.
 
 ## Levels
 
