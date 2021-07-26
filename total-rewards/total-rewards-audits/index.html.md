@@ -97,7 +97,13 @@ Wait for People Experience Team to tag you on the team member’s onboarding iss
 
 Cadence: Weekly
 
-BambooHR creates a standard Payroll Change report to capture any changes processed on a team member's profile. At the end of each week, a member of the Total Rewards team reviews each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the Payroll Change report. 
+BambooHR creates a standard Payroll Change report to capture any changes processed on a team member's profile. 
+
+Process for auditing:
+
+1. At the end of each week, a member of the Total Rewards team downloads a csv of the payroll changes report through that day from BambooHR and imports it into the 'Payroll Changes Report Audit' spreadsheet in a new tab labelled with the corresponding date. 
+1. A member of the team will add a column for checkboxes and filter out any "Time off Taken" change types.
+1. They will then review each change captured in the report to ensure the change was intentional, inputted correctly, and proper processing was followed for the change. Once the change has been reviewed, it can be checked off on the report.
 
 ### New Hire Audit
 
