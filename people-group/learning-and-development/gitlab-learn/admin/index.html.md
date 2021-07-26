@@ -838,7 +838,15 @@ Note: An "Actively Engaged User" represents someone who has both signed in and p
 
 **Report 3: % of Team Members enrolled in 1 course**
 
-[not yet active]
+There is not a current report in EdGraph that can show this data. The following report needs to be created and is a current L&D project.
+
+Report requirements:
+
+1. `GitLab Internal` = `t` or use of the Internal Team Members group
+1. Sort by `Content Stucture` to show only `Journeys` and `Pathways`
+1. Sort by `Performance` to include `started` and `completed`
+1. Enable date range to narrow report on a monthly basis
+1. Filter to show total users who appear in this data set at least 1 time - ideally filter by user to show a count of how many Pathways or Journeys they are either `started` or `completed` in for the specific month.
 
 **Report 4: Team Members who completed 1+ course, all time**
 
@@ -870,14 +878,23 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 
 **Report 6: Total courses completed by team members**
 
-[Working report in EdGraph](https://edcast-536.domo.com/page/1036257110/kpis/details/1981683604)
+1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1530035693)
+1. Click `edit in analyzer`
+1. Set date range to `Between` then choose first and last days of the desired month
+1. Click `Save` and exit the `analyzer`
+1. Export as a CSV file
+1. `Rows` value = team members course completions in the specified month
 
-- if this works, need to repeat for jounrneys
-- if this works, need to complete for users outside of internal group for both pathways and journeys (see report 7 below)
+Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
 
 **Report 7: Courses completed by non-team members**
 
-{See notes in report 6 above}
+{Once accuracy is confirmed for report 6 above, then follow these steps for report 7}
+
+1. Make a copy of [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1530035693)
+1. Edit the GitLab Internal varaible to be null
+1. Save to the all learners dashboard and rename
+1. Update reporting sheets with April - June data for external audiences
 
 #### Other training
 
