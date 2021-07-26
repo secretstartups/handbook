@@ -77,35 +77,37 @@ As there may be many projects and proposals in flight at any time, there are a f
 
 #### Custom services SOW creation and approval
 
-When scoping custom SOWs, the PS team partners with the SA to create a custom engagement that will help meet the customer's needs. Custom offerings must be reviewed and approved by the Director of Professional Services.
+When scoping custom SOWs, the Professional Services Engagement Manager partners with the SA/TAM/SAL to create a custom engagement that will help meet the customer's needs, and push the SOW through the appropriate approval process. All Custom SOW's will require approval from PS Leadership.
+
+##### Estimate creation
+* The SA/TAM can initiate the process by creating a new scoping issue via the [Services Calculator](https://services-calculator.gitlab.io/). Through this process the SA/TAM/SAL will be asked some high-level questions, and a SSOT table will arrive in the issue to drive the scoping process. The SA/TAM should work with the Customer to complets this as well as they can. The Professional Services Engagement Manager wil this create a Estimate - based upon the inputs provided, and provide a link for review.
 
 ##### SOW creation
-* The creation of new SOWs for customer proposals is owned by the SA.
-* To create a custom services SOW, start with the [Services Calculator](http://services-calculator.gitlab.io/) which will open a new SOW issue on the SOW Proposal Approval board. Follow the specific SOW process for a complete explanation. 
+* Once the Estimate has been reviewed by the account team and Customer, any feedback received, and refinment made, we can then move to generating the SOW. As part of the scoping issue, the Engagement Manager will need to understand whether there is an MSA in place, or standard terms are to be used.
 * We prefer customers to mark up our agreement and SOW document if they request changes. If they require the use of their own services terms or SOW, please contact the PS team.
 
 ##### SOW Proposal Approval Board
 
 ![SOW proposal board screenshot](/handbook/customer-success/professional-services-engineering/sow-approvals-board.png)
 
-The [SOW Proposal Approval Board](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/boards/1353982?label_name[]=Services%20Calculator) is used to approve all SOWs before sending them to a customer. 
+The [SOW Proposal Approval Board](https://gitlab.com/groups/gitlab-com/customer-success/professional-services-group/-/boards/1353982?label_name[]=Services%20Calculator) is used to progress all SOWs through the scoping and approval process before sending them to a customer for review and signature. 
 
 **SOW approval workflow labels**
 
 The labels are (from left to right):
 
-* `Open`: This issue has been created by the Services Calculator and waiting for the SA to confirm
-* `proposal::Scoping`: Gathering information from the account team and customer required to scope the engagement
-* `proposal::Writing`: The PS team is finalizing the terms of the SOW
-* `proposal::Cost Estimate`: The Manager, Professional Services is preparing a [cost estimate](/handbook/customer-success/vision/#professional-services-standard-cost) using the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) for margin calculation purposes
-* `proposal::Ready For Approval`: The PS team has completed the SOW, and it is ready to be approved by the Director of Professional Services.
-* `proposal::Approved`: The SOW is ready to be sent  to the customer by the account team.  Once sent, this issue can be closed
+* `Open`: This issue has been created by the Services Calculator and waiting for the Engagement Manager to confirm
+* `proposal::Awaiting_Discovery`: Gathering information from the account team and customer required to scope the engagement
+* `proposal::Strawman_WIP`: The Engagement Manager is drafting an initial estimate for review
+* `proposal::Estaimte_Feedback`: The Estimate is with the account team and/or Customer for review. The Engagement Manager is awaiting feedback and confirmation prior to moving to SOW.
+* `proposal::SOW_WIP`: The Engagement Manager is drafting the SOW and preparing a [Cost Estimate](/handbook/customer-success/vision/#professional-services-standard-cost) using the [SOW Cost Estimate Calculator](https://docs.google.com/spreadsheets/d/16KFNRFe4E_oaqU7_ZGivoO7eU3-65dkMgVvK5Jvb7ZQ/edit#gid=158441360) for margin calculation purposes
+* `proposal::Ready For Approval`: The Engagement Manager has prepared the required SOW, and triggered the approval requests. Approvals are now required prior to releasing the SOW.
+* `proposal::Approved`: The SOW is now approved, and ready for execution. The SAL/AE should gain a Legal stamp via a Legal Case in SFDC before releasing the SOW for signature.
 
-**NOTE:** Issues that have not been updated by an SA in the last 30 days will be automatically closed.
 
 ### Scheduling Professional Services
 
-Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. If there are lead time or availability questions, please ask the Project Coordinator by tagging the group @ps-scheduling in the [professional services slack channel](#slack).
+Currently, customer projects are scheduled in order as the opportunity is Closed-Won.  Please discuss any concern about scheduling the project during the Discovery phase of the scoping process. If there are lead time or availability questions, please ask the Enagagement Manager or Project Coordinator by tagging the group @ps-scheduling in the [professional services slack channel](#slack).
 Please do not commit any project start dates prior to the SOW/contracts being signed without confirming with the PS Project Coordinator.
 
 Once the opportunity is updated to Close/ Won, here are the next steps:
