@@ -18,15 +18,22 @@ description: "GitLab Data Science Team Handbook"
 
 
 The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
+The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products.
 
-We do this by building machine learning models and analysing data to convert results into trusted and scalable products.
+## Projects
+
+### Propensity to Buy -> Account Score
+
+- [Development Epic](https://gitlab.com/groups/gitlab-data/-/epics/302)
+- Start Date: 2021-06-30
+- [Slack Channel](https://gitlab.slack.com/archives/C027EEYL8EL)
+
 
 ## Tools 
 
-Data Science team uses Python and Jupyter to deliver projects. 
+The Data Science team uses Python and Jupyter to deliver projects. 
 
 # Data Science responsibilities 
-
 
 Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
 
@@ -38,7 +45,6 @@ Additionally, the **Data Science Team** supports the following responsibilities
     - Helping to define and champion Data Quality practices and programs for GitLab data systems
 
 # Projects structure 
-
 
 Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
