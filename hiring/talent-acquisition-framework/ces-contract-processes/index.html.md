@@ -283,7 +283,7 @@ section of the employee's profile
 
 _Important: Employment contracts cannot be backdated. If a team member requests to backdate a contract for invoicing purposes, an addendum should be added to the contract stating: "As the Contractor has not invoiced GitLab for payment since their start date on `contractor start date`, GitLab will pay the Contractor for this period of time in accordance with the Contractor’s base compensation". The start date on the new contract should always reflect the date the contract is staged for signatures._
 
-* The People Operations Specialist should stage the contract in HelloSign to be signed by both the team member and the Director of People Operations.
+* The People Operations Specialist should stage the contract in DocuSign to be signed by both the team member and the Director of People Operations.
 * Once siged by both parties, the contract should be uploaded to the team members BambooHR profile in the `Contracts & Changes` section.
 
 ### How to Unhire a Candidate After Contract is Signed
