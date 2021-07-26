@@ -68,22 +68,33 @@ Past Live Learning sessions can be found on our [Learning & Development Page](ht
 
 ## Career Develpment 
 
-IGP 
+Throughout the month we will be covering a variety of different topics. A great place to get started is filling out your Individual Growth Plan and setting up an Epic to track career develpment as well as an Achievement Tracker. 
+
+Week 2 in August will be all about setting up your career development. Check out the videos below to learn more as well as the [pathway on GitLab Learn]. 
+
+### Epics for Tracking Career Development 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+You can learn more in the [Epics for Career Development handbook section](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development). 
+
+### Individual Growth Plan 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-To learn more about this, check out activities and attend our live session going on in Week 2! 
+You can learn more in the [Individual Growth Plan handbook section](). 
 
-Achievement Tracker 
+### Achievement Tracker 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-To learn more about this, check out activities going on in Week 2! 
-
+You can learn more in the [Achievement Tracker handbook section](). 
 
 ## Department Spotlight 
 
