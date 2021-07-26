@@ -32,6 +32,7 @@ The People Operations Specialist (Intermediate) is a [grade 6](/handbook/total-r
 - DRI for reporting potential inaccurate LinkedIn profiles.
 - Providing support to the Senior Specialist regarding contract changes and administration.
 - Engage with co-employer’s and PEO's on a regular basis, especially during onboarding within those regions.
+- Manage and audit the US Unemployment Claim process.
 - Identify gaps during GitLab onboarding and co-employer processes.
 - Complete ad-hoc projects, reporting, and tasks.
 - Conducting exit interviews for all Individual Contributors and collaborate closely with the People Business Partner team to support with administration related tasks.
