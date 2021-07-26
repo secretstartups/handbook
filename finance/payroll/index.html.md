@@ -181,10 +181,6 @@ Generate the following reports and saved them on Google Shared drive for Inc and
   * Funds will debit from the Discovery reserve account once the employee submits a claim
   * Discovery will contact GitLab if the reserve is low on funds
 
-### Reporting a false unemployment claim to payroll
-
-If you are a fulltime team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits you may be a victim of unemployment claim fraud.  Before giving out any information to the caller please confirm that you are speaking with an agency employee.  If you confirm with your state's Unemployment Commission that there is a fraudulent claim please report it via email to uspayroll@gitlab.com.   Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud) which lists additional information and contact information.
-
 ### Tax Statements
 
 GitLab Inc and GitLab Federal LLC team members can access their "Form W-2, Wage and Tax Statement" from [ADP portal](https://workforcenow.adp.com).
