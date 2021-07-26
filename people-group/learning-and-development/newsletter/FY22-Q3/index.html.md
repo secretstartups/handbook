@@ -13,17 +13,22 @@ Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of th
 
 You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
 
-## Recap of Q[3]
+## Learn from Leadership 
 
-* {add a bulleted list}
+This month's Learn from Leadership looks a little different than [previous months](). August 2021 is our [Career Development]() Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab. This week we are learning from Pattie Egan, VP, and Brendan O'Leary, Senior Develper Evangelist. 
 
-Past Live Learning sessions can be found on our [Learning & Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/#live-learning). 
+<figure class="video_container">
+  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
-## Upcoming in [Q4] 
+Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. Check out the [corresponding pathway]() in GitLab Learn to see the video and add questions for Pattie to her Async AMA Issue. 
 
-* {add a bulleted list}
+<figure class="video_container">
+  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
-Sign up for our upcoming Live Learning events in [Q4] by using [Signup Genius?]()
+Brendan has been with GitLab since October 2017 (2017-10) and has been in a variety of differet roles since joining. Learn more about his career development in the video above. Check out the [corresponding pathway]() in GitLab Learn to see the video and add questions for Brendan to his Async AMA Issue. 
+
 
 ## Skill of the Month Spotlight 
 
@@ -32,30 +37,56 @@ In August we are hosting a focused skill of the month around Career Development.
 What you can expect this month: 
 
 * Videos each week to learn more about team members career development. 
+* Live Learning sessions to learn more about our Individual Growth Plan, Having a Career Conversation with Your Manager, and Having a Career Conversation with your Direct Reports 
+* Asynchronous courses to help you in your career develpment 
+
+
+## Recap of Q2
+
+* Mental Health Newsletter 
+* John Fitch 
+* Handbook Learning Sessions with Sid 
+
+Past Live Learning sessions can be found on our [Learning & Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/#live-learning). 
+
+
+## Upcoming in Q3 
+
+* Skill of the Month
+   * August - Career Development 
+   * September - 
+   * October - 
+* abc 
+
 
 ## Career Develpment 
 
-[embed video]
+IGP 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+To learn more about this, check out activities and attend our live session going on in Week 2! 
+
+Achievement Tracker 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+To learn more about this, check out activities going on in Week 2! 
+
 
 ## Department Spotlight 
 
 * {add a bulleted list}
 
-## Learn from Leadership 
-
-This month's Learn from Leadership looks a little different than [previous months](). August 2021 is our [Career Development]() Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab. This week we are learning from Pattie Egan, VP, and Brendan O'Leary, Senior Develper Evangelist. 
-
-video 
-
-Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. 
-
-video 
-
-Brendan has been with GitLab since October 2017 (2017-10) and has been in a variety of differet roles since joining. Learn more about his career development in the video above. 
 
 ## Learner Spotlight  
 
 * {add a bulleted list}
+
 
 ## Learning at GitLab  
 
@@ -65,12 +96,14 @@ When it comes to learning, maybe you aren't sure where to start. Here are some g
 * [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway)
 * [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses)
 
+
 ### Team Member Contributions 
 
 We love that our team members have been contributing to GitLab Learn by making courses and putting together learning hubs. If you want to contribute as well, take our Learning Evangelist Pathway. 
 
 1. [Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/ECL-02528ee2-c334-4e16-abf3-e9d8b8260de4)
 1. [Marketing Learning Hub and GitLab Marketing Badges](https://gitlab.edcast.com/channel/gitlab-marketing-learning-hub)
+
 
 ## Discussion 
 
