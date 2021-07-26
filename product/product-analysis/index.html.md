@@ -207,8 +207,126 @@ so will our ability to support additional asks and analyses.
 
 ### Office Hours
 
-In order to start supporting more PMs across GitLab, we will be piloting Product Analysis 
-office hours. Stay tuned for more details!
+In order to start supporting more PMs across GitLab, the Product Analysis team is launching an 
+office hours pilot. Office hours will be held every other Wednesday, alternating between 8 am PT 
+and 1 pm PT. While the pilot is intended to enable us to support PMs across the organization, 
+all GitLab team members are welcome to join.
+
+The intent of office hours is to give PMs faster access to the team and get support for smaller 
+tasks, brainstorming, and data self-service. More formal requests that answer more complex 
+questions are captured in issues and go through a more 
+Unlike more formal requests that we capture in issues, office hours is intended to help PMs 
+with smaller tasks, brainstorming, and data self-service. 
+
+#### How to Sign Up
+
+This is currently a pilot program. We expect to make adjustments and iterate over time to maximize 
+our level of support.
+{: .alert .alert-info}
+
+The [agenda](https://docs.google.com/document/d/1ZXS-eeZNuRUn7176dZFqsyhIU-DSWYvWuEhogpbTzys/edit#) 
+is first-come, first-served. Please add your name and topic (or question) by EOD Monday before 
+the next office hours. This allows the team time to review new agenda items ahead of time.
+
+Topics will be time-boxed to 30 minutes in order to ensure that, at minimum, we are able to help 
+2 stakeholders. (An exception will be made if there is only 1 item on the agenda). If 
+topics are too large to be covered in 30 minutes, a team member will reach out to the 
+stakeholder to either reduce the scope or to [open an issue for the team](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issue%5Bmilestone_id%5D=) 
+instead.
+
+To respect everyone's time, the team will set the schedule ahead of time and notify the 
+stakeholders we have slated for discussion. We will also pull in 1-2 "on deck" topics -- 
+those that we might be able to address, time permitting. If we are unable to cover a topic, 
+it will be pushed to the following meeting.
+
+#### Example Topics
+
+Office hours is intended for smaller bodies of work, brainstorming, and assistance with 
+data self-service. Since topics are limited to 30 minutes, we ask that stakeholders be mindful of the types of 
+items they add to the agenda. Here are some examples of topics for office hours:
+
+<details><summary>👍 Example Topic 1: Experiment Setup</summary>
+
+I am interested in launching an experiment to see if we can increase adoption of Secure.
+* How would you go about setting the experiment up? 
+* Can you help me calculate the sample size?
+* Can you help me interpret the results?
+
+</details>
+
+<details><summary>👍 Example Topic 2: Approach to Analysis</summary>
+
+I am trying to do an analysis on the relationship between users with SSO enabled and invite 
+acceptance rate.
+* Which tables should I use? Can you help me understand this data source?
+* What approach would you take?
+* Would this metric answer the question?
+* Can you help me understand this data source?
+
+</details>
+
+<details><summary>👍 Example Topic 3: Code Review</summary>
+
+I am wrote a query to calculate xMAU for namespaces that converted from trials to paid.
+* Is this `JOIN` correct?
+* Does this logic to only include namespaces that had trials before converting?
+
+**Note:** We are not able to accommodate all code reviews in the scope of office hours. 
+Please limit this type of topic to specific aspects of a query, whether you are using the correct 
+data source, etc.
+
+</details>
+
+<details><summary>👍 Example Topic 4: Dashboard Updates</summary>
+
+I am looking to make some updates or enhancements to this existing dashboard.
+* Can you help me incorporate a filter into this dashboard that would allow me to limit the charts 
+to activity within 30 days of namespace creation?
+* Can you update this funnel to include this additional event?
+
+</details>
+
+<details><summary>👍 Example Topic 5: Follow-Up Questions</summary>
+
+In the last key meeting, you presented an [analysis on early trial adoption](https://docs.google.com/presentation/d/1ESH797L8zwT_28n3Ypqp1xckKhvtt3jr-8eWpexgmto/edit#slide=id.ge35de508d3_0_0). 
+* Can you walk me through your methodology?
+* Can you help me understand the implications of the data/analysis?
+
+</details>
+
+Here are some examples of topics _not_ suited for office hours. These topics are too broad to be addressed 
+during office hours and should be captured in an issue.
+
+<details><summary>👎 Example Topic 6: New Dashboard</summary>
+
+Can you build a dashboard to help me understand invite acceptance rate?
+
+</details>
+
+<details><summary>👎 Example Topic 7: Net-New Analysis</summary>
+
+Can you look into the relationship between stage adoption and retention?
+
+</details>
+
+#### FAQs
+
+**What is the difference between topics for office hours and formal data requests?**
+
+Office Hours is intended to help PMs with smaller tasks, provide a venue for brainstorming, and 
+help folks looking to learn more about data self-service. The benefit is that the agenda is 
+first-come, first-served, the prioritization process is bypassed, and the wait time is minimal.
+
+Formal data requests are larger bodies of work captured in issues in the [Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issue%5Bmilestone_id%5D=). 
+They can help answer more complex questions, but go through more robust [intake](/handbook/product/product-analysis/#issue-intake) 
+and [planning](/handbook/product/product-analysis/#iteration-planning) processes. As such, there 
+is a longer turn-around time given team size and [capacity](/handbook/product/product-analysis/#capacity).
+
+**What if I don't know if my topic is best suited for office hours or whether I need to open an issue?**
+
+Feel free to ask your analyst partner (if applicable) or in [#s_growth_data](https://gitlab.slack.com/messages/s_growth_data/). 
+In addition, we will review agenda items before office hours, and will flag any topics that are 
+too broad to be covered in office hours.
 
 ### Slack
 
