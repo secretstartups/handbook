@@ -712,13 +712,15 @@ After a team member has completed the Access Request process for any elevated pe
 
 ## Reporting
 
-EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
+We us EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
 
 ### EdGraph Key Dashboards
 
 EdGraph comes with 6 dashboards, pre-populated with 5-10 reports each. These reports are some of the most commonly requested data arrangements requested by EdCast customers. These reports can be filtered, copied, saved, and shared and are a great jumping point for customization of existing data sets.
 
 Each dashboard and the corresponding reports in that dashboard can be found on the [EdGraph documentation page](https://docs.edcast.com/docs/edgraph)
+
+EdGraph also has a [CEP Reports dashboard](https://edcast-536.domo.com/page/1847096296) that includes reports for the CEP/Marketplace systems.
 
 ### GitLab Custom Dashboards
 
@@ -727,12 +729,15 @@ EdGraph has the option of building custom dashboards to organize data and report
 Below is a list of current custom dashboards used by the LXP team:
 
 1. [Field Sales Reports](https://edcast-536.domo.com/page/1094270617)
-1. [GitLab Learn Metrics: All Users](https://edcast-536.domo.com/page/2188975)
+1. [GitLab Learn Key Reports - All Users](https://edcast-536.domo.com/page/2188975)
 1. [DIB Certification Completions](https://edcast-536.domo.com/page/2098296181)
-1. [Key L&D Reports](https://edcast-536.domo.com/page/1036257110)
-1. [Executive Insights](https://edcast-536.domo.com/page/622335069)
+1. [GitLab Learn Key Reports - Team Members](https://edcast-536.domo.com/page/1036257110)
+1. [Product Management Channel](https://edcast-536.domo.com/page/742179426)
+1. [Legal Team Training Reports](https://edcast-536.domo.com/page/196772994)
+1. [PEA Team Reports](https://edcast-536.domo.com/page/1118869179)
+1. [Technical Marketing Course Completions](https://edcast-536.domo.com/page/1575621296)
 
-Please note that in order to view the above dashboards, you must have both access to EdGraph and be added to each dashboard. Please work with the L&D team to process an access request if you'd like to view reports in EdGraph.
+To access to any of the above reports, please [request EdGraph access](/handbook/people-group/learning-and-development/gitlab-learn/admin/#how-to-get-edgraph-access)
 
 ### How to get EdGraph Access
 
