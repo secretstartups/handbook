@@ -3,7 +3,7 @@ layout: job_family_page
 title: Analytics Engineering
 ---
 
-**Analytics Engineers** sit at the [intersection](/handbook/business-technology/data-team/#data-job-families) of business teams, [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of the business and of the technical teams, able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.
+**Analytics Engineers** sit at the [intersection](/handbook/business-technology/data-team/#data-job-families) of business teams, [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of business teams and technical teams, able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.
 
 ## Responsibilities
 
