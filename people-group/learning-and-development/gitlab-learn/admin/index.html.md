@@ -838,7 +838,7 @@ Note: An "Actively Engaged User" represents someone who has both signed in and p
 
 **Report 3: % of Team Members enrolled in 1 course**
 
-There is not a current report in EdGraph that can show this data. The following report needs to be created and is a current L&D project.
+There is **not** a current report in EdGraph that can show this data. The following report needs to be created and is a current L&D project.
 
 Report requirements:
 
@@ -858,7 +858,7 @@ Report requirements:
 1. Set date range to `All Time`
 1. Click `Save` and exit the `analyzer`
 1. Export as a CSV file
-1. `Rows` value = team members who completed 1+ course all time
+1. `Rows` value - 1 = team members who completed 1+ course all time
 
 Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
 
@@ -872,7 +872,7 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 1. Set date range to `Between` then choose first and last days of the desired month
 1. Click `Save` and exit the `analyzer`
 1. Export as a CSV file
-1. `Rows` value = team members who completed 1+ course in the specified month
+1. `Rows` value - 1 = team members who completed 1+ course in the specified month
 
 Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
 
