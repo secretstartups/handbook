@@ -140,7 +140,7 @@ The process is comprised of four key stages:
 1. Term Sheet:
     1. Once the terms to start negotiations have been approved, the corporate development acquisition lead will reach out to the target company to share the offer and term sheet.
     1. Once an agreement on terms with the target has been reached, the term sheet (with any changes) will be brought forward for approval from: CLO, CFO, CEO (in that order). These approvals will be captured in the term sheet approval issue.
-    1. Once all approvals have been obtained, the corporate development acquisition lead will stage the term sheet for signing on HelloSign for target CEO and GitLab CEO (in that order). Add CLO, CFO, and CProdO on Cc on the agreement.
+    1. Once all approvals have been obtained, the corporate development acquisition lead will stage the term sheet for signing on Docusign for target CEO and GitLab CEO (in that order). Add CLO, CFO, and CProdO on Cc on the agreement.
         1. Approval tracking will be tracked on the term sheet approval issue mentioned earlier. Any changes to previously-approved terms need to be reviewed and approved once more by the following: Product champion, Engineering champion, CProdO, CTO, CLO, CFO, CEO. The changes should be referenced on the term sheet approval tracking issue _before_ seeking approvals.
 
 ### Confirmatory Due Diligence
