@@ -15,7 +15,7 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 ## Learn from Leadership 
 
-This month's Learn from Leadership looks a little different than [previous months](). August 2021 is our [Career Development]() Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab. This week we are learning from Pattie Egan, VP, and Brendan O'Leary, Senior Develper Evangelist. 
+This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, VP, and Brendan O'Leary, Senior Develper Evangelist. 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -38,14 +38,17 @@ What you can expect this month:
 
 * Videos each week to learn more about team members career development. 
 * Live Learning sessions to learn more about our Individual Growth Plan, Having a Career Conversation with Your Manager, and Having a Career Conversation with your Direct Reports 
-* Asynchronous courses to help you in your career develpment 
+* Asynchronous course recommendations to help you in your career develpment 
+
+Want to learn more and follow along this month? Check out and follow the [FY22 Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22). 
 
 
 ## Recap of Q2
 
-* Mental Health Newsletter 
+* [FY22-Q2 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/) 
 * John Fitch 
-* Handbook Learning Sessions with Sid 
+* [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
+* [Women at GitLab Mentorship Program](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
 
 Past Live Learning sessions can be found on our [Learning & Development Page](https://about.gitlab.com/handbook/people-group/learning-and-development/#live-learning). 
 
