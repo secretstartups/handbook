@@ -29,17 +29,21 @@ Curators in GitLab Learn can organize existing learning content in their specifi
 
 1. Watch the training on [how to share and curate content in GitLab Learn to a channel](https://gitlab.edcast.com/pathways/learning-curator-training/cards/1288231)
 
-### Part 2: Customizing channels
+### Part 2: Building Channels
 
 1. Watch the training on [how to customize channels with custom carousels](https://gitlab.edcast.com/pathways/learning-curator-training/cards/1288232)
 
-### Part 3: Finishing the Pathway
+### Part 3: Customizing Channels
+
+1. Watch the training on [customizing channels in GitLab Learn](https://gitlab.edcast.com/pathways/learning-curator-training/cards/7091060)
+
+### Part 4: Finishing the Pathway
 
 1. The [GitLab Learn Curator Pathway](https://gitlab.edcast.com/pathways/learning-curator-training) needs to be completed with the final quiz.
 
-### Part 4: Setting up your channel
+### Part 5: Setting up your channel
 
-You're ready to build your channel! Please follow the steps on the [Work with Us](https://about.gitlab.com/handbook/people-group/learning-and-development/work-with-us/#creating-a-gitlab-learn-channel) handbook page to open an issue for your new channel.
+You're ready to build your channel! Please follow the steps on the [Work with Us](https://gitlab.edcast.com/pathways/learning-curator-training/cards/1288233) handbook page to open an issue for your new channel.
 
 If your team's channel already exists, please skip to Part 5
 
