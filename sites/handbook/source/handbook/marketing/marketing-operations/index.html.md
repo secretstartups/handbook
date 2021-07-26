@@ -351,7 +351,7 @@ Go to the [Campaigns and Programs Page](/handbook/marketing/marketing-operations
 
 ## Email Management
 
-Marketing Ops is responsible for maintaining the email marketing database. Go to the [Email Management Page] for policies and more detailed information.
+Marketing Ops is responsible for maintaining the email marketing database. Go to the [Email Management Page](/handbook/marketing/marketing-operations/email-management) for policies and more detailed information.
 
 ## Initial Source
 
@@ -460,8 +460,8 @@ The cleaning part of this process is currently being done using our lead/contact
 This cleaning & enrichment process has 4 main priorities:  
 
 1. **Increase Email Deliverability** by implementing email Validation & verification at point of capture (POC) - Implemented with [NeverBounce](https://neverbounce.com/?fbclid=IwAR1bdezYBpqMH58zm24yg_RFGdeF4VCgBHVQCJKYtTyf-Iegd9gZ1_GhTII). 
-2. **Enrich net new leads with Form Complete**  - Currently live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
-3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads coming from form submits are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. You can find more details on the [Zoominfo Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
+2. **Enrich net new leads with Form Complete**  - Soon to be live on `Contact Us`, `Self-Managed Trials`, `SaaS Trials` forms. 
+3. **Existing Database Enrichment** - Zoominfo has the possibility of enriching either via Marketo or SFDC. Our current process enriches the existing leads/contacts in our database via SFDC, scheduled enrich, while the new leads are currently enriched via a Marketo Webhook and Marketo Zoominfo integration. You can find more details on the [Zoominfo Handbook](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/). 
 4. **Assure Data Cleanliness & Accuracy** - Lead & Contact Deduplication splits naturally in three main parts: 
 	* Lead to Lead Deduplication 
 	* Contact to Contact Deduplication
