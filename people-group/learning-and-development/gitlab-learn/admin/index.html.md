@@ -878,23 +878,19 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 
 **Report 6: Total courses completed by team members**
 
-1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1530035693)
-1. Click `edit in analyzer`
-1. Set date range to `Between` then choose first and last days of the desired month
-1. Click `Save` and exit the `analyzer`
-1. Export as a CSV file
-1. `Rows` value = team members course completions in the specified month
+1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361)
+1. Add total completions for Pathway and Journey for the desired month
 
 Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
 
 **Report 7: Courses completed by non-team members**
 
-{Once accuracy is confirmed for report 6 above, then follow these steps for report 7}
+1. Open [total courses completed by all users all time/per month report](https://edcast-536.domo.com/page/2188975/kpis/details/863821097
+)
+1. Add total completions for Pathway and Journey for the desired month
+1. Subtract same month value from [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361) to exclude team members from this metric
 
-1. Make a copy of [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1530035693)
-1. Edit the GitLab Internal varaible to be null
-1. Save to the all learners dashboard and rename
-1. Update reporting sheets with April - June data for external audiences
+{might be able to remove step 3 if I can confirm how to sort by internal on the non-team member report - right now it shows no data}
 
 #### Other training
 
