@@ -195,10 +195,8 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-07-12 | 2021-07-16 | Unavailable - Sid on PTO | Unavailable - Sid on PTO |
-| 2021-07-19 | 2021-07-23 | Unavailable  | Unavailable |
-| 2021-07-26 | 2021-07-30 | Unavailable  | Unavailable |
-| 2021-08-02 | 2021-08-06 | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director |
+| 2021-07-26 | 2021-07-30 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | Unavailable |
+| 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) - Manager, Technical Marketing | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager |
 | 2021-08-09 | 2021-08-13 | [Neil McCorrison](https://gitlab.com/nmccorrison), Frontend Enginnering Manager, Secure | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager |
 | 2021-08-16 | 2021-08-20 | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager | [Neil McCorrison](https://gitlab.com/nmccorrison), Frontend Enginnering Manager, Secure |
 | 2021-08-30 | 2021-09-03 | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
