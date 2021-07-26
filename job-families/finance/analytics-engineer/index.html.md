@@ -1,0 +1,106 @@
+---
+layout: job_family_page
+title: Analytics Engineering
+---
+
+**Analytics Engineers** sit at the [intersection](/handbook/business-technology/data-team/#data-job-families) of business teams, [Data Analytics](https://about.gitlab.com/job-families/finance/data-analyst) and [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer) and are responsible for bringing robust, efficient, and integrated data models and products to life. Analytics Engineers speak the language of business teams and technical teams, able to translate data insights and analysis needs into models powered by the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform). The successful Analytics Engineer is able to blend business acumen with technical expertise and transition between business strategy and data development.
+
+## Responsibilities
+
+As a team member responsible for helping to bridge the gap between business and technology, the Analytics Engineer role requires equal amounts business acumen and technical acumen.
+
+* Collaborate with team members to collect business requirements, define successful analytics outcomes, and design data models
+* Build trust in all interactions and with [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development)
+* Serve as the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](/handbook/business-ops/data-team/data-edw)
+* Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
+* Create and maintain architecture and systems documentation in the [Data Team Handbook](/handbook/business-technology/data-team)
+* Maintain the [Data Catalog](/handbook/business-technology/data-team/data-catalog), a scalable resource to support Self-Service and Single-source-of-truth analytics
+* Document plans and results in either issue, MRs, the [handbook](/handbook/), or READMEs following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
+* Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
+* Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
+* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+* Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope.
+
+## Requirements
+
+* Ability to use GitLab
+* Ability to thrive in a fully remote organization
+* Positive and solution-oriented mindset
+* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with task organizational skills
+* Great communication: Regularly achieve [consensus](/handbook/values/#collaboration) amongst technical and business teams
+* Demonstrated capacity to clearly and concisely communicate complex business activities, technical requirements, and recommendations
+* Demonstrated experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
+* 4+ years in the Data space as an analyst, engineer, or equivalent
+* 4+ years experience designing, implementing, operating, and extending commercial Kimball enterprise dimensional models
+* 4+ years working with a large-scale (1B+ Rows) Data Warehouse, preferably in a cloud environment
+* 2+ years experience building reports and dashboards in a data visualization tool
+* 1+ years creating project plans to identify tasks, milestones, and deliverables
+
+## Levels
+
+### Analytics Engineer (Intermediate)
+
+The Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Analytics Engineer Job Grade
+
+The Analytics Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Analytics Engineer Responsibilities
+
+* The Analytics Engineer Responsibilites are listed above.
+
+#### Analytics Engineer Requirements
+
+* The Analytics Engineer Requirements are listed above.
+
+### Senior Analytics Engineer
+
+The Senior Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Senior Analytics Engineer Job Grade
+
+The Senior Analytics Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Analytics Engineer Responsibilities
+
+Responsibilites for the Senior Analytics Engineer extend the Analytics Engineer (Intermediate) job. In addition:
+
+* Own one or more stakeholder relationship in Go To Market, Research & Development, or General & Administrative business functions
+* Serve as Data Model subject matter expert and data model spokesperson, demonstrated by the ability to address questions quickly and accurately
+* Advocate for the [Data Quality Program](/handbook/business-technology/data-team/data-quality/) and [Trusted Data](/handbook/business-technology/data-team/platform/#tdf) to help ensure all data is profiled, reviewed, and accurate to support critical decisions
+* Guide [Work Breakdown](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/#work-breakdown) Sessions
+* Organize and Plan quarter-long development initiatives per the [Data Team Planning Drumbeat](https://about.gitlab.com/handbook/business-technology/data-team/how-we-work/planning/)
+
+#### Senior Analytics Engineer Requirements
+
+Requirements for the Senior Analytics Engineer extend the Analytics Engineer (Intermediate) job. In addition:
+
+* 6+ years in the Data space as an analyst, engineer, scientist, or equivalent
+* 2+ years managing the same data model system over time, evolving the model to meet new business requirements
+* Demonstrated experience leading 4 or more analytics projects from beginning to operationalization
+* Demonstrated experience desinging and socializing Entity Relationship Diagrams and reference SQL scripts to scale data acumen and adoption
+* Experience working with multiple commercial data warehouses, ETL tools, and data visualization tools
+* Extenstive experience in 2 or more major data subject areas (marketing, sales, finance, product, people, etc.)
+
+## Performance Indicators
+
+* Dimensional Model MRs Per Milestone
+* Handbook Update Frequency
+* % of Data Warehouse queries supported by Enterprise Dimensional Model >= 75%
+
+## Career Ladder
+
+We are evaluating the addition of levels beyond the Senior level. Currently, beyond the Senior Analytics Engineer level the next step is to move to the Manager, Data job family. 
+
+## Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a first interview with a Data Director or Manager
+* Next, candidates will be invited to schedule one or more interviews with members of the Data Team
+* Next, candidates will be invited to schedule one or more interviews with Business Partners
+* Finally, candidates may be asked to interview with our VP, IT or similar
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring).
