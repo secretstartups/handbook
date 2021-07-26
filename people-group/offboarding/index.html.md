@@ -199,7 +199,7 @@ Unfortunately, the reason I wanted to speak with you is because we have decided 
 1. ***Manager***: Hand the call over to the TMR to continue. 
 1. ***TMR***: The TMR will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
 1. ***TMR***: Make sure to communicate the [practical points](#offboarding-points) from the offboarding memo outlined below.
-1. ***TMR***: Once the conversation is complete, the TMR will stage the severance document in HelloSign for review and signatures.
+1. ***TMR***: Once the conversation is complete, the TMR will stage the severance document in DocuSign for review and signatures.
                                                                 
 ### Hold for In-Vol Offboarding
 This form is used to help coordinate all necessary stakeholders for an involuntary offboarding. This will allow all stakeholders to be on standby to offboard the team member effeciently to prevent any possible security threats. 
@@ -254,12 +254,12 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 1. ***Specialist***: The People Specialist should fill out the document. 
 1. ***Specialist***: The People Specialist will ping the stock team in the stock option section of the document. 
 1. ***Specialist***: The People Specialist will share with the PBP and Legal for final review/approval. 
-1. ***TMR***: The TMR will stage the document in HelloSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
+1. ***TMR***: The TMR will stage the document in DocuSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
 *  When staging the document for signatures, please note:
     *  Remember to send the document to the team member's _personal_ email address
-    *  Select the `assign signature order` option in HelloSign to ensure the team member signs the document first
+    *  Select the `assign signature order` option in DocuSign to ensure the team member signs the document first
     *  All US (Inc.) severance agreements should be signed by Pattie Egan, VP of People Operations.  If Pattie is unavailable then Wendy Nice Barnes, CPO will be responsible for signing.
     * US (Federal LLC.) severance agreements need to be signed by an appropriate team member within the Federal Entity. 
     
@@ -284,7 +284,7 @@ For team members who will be placed on leave during an investigation please foll
 1. **TMR**: TMR schedules a call with the teammember and manager to inform them of the decision to place the team member on leave while an investigation occurs.
 1. **TMR**: TMR informs the manager and PBP when the conversation is completed and accounts are disabled.  During this period managers will not have access to the team members accounts.
 1. **TMR**: TMR notifies IT that an Out Of Office message needs to be set on the account and include the message that the team member is OOO and please reach out to their manager.. 
-1. **TMR**: TMR send the team member to their personal email the "Team member Suspension letter" via hellosign.  The TMR will upload this document to the team members BambooHR file in the performance folder.
+1. **TMR**: TMR send the team member to their personal email the "Team member Suspension letter" via DocuSign.  The TMR will upload this document to the team members BambooHR file in the performance folder.
 1. **TMR**: TMR once the investigation is completed the TMR will inform the aligned PBP and manager of the final decision.  If the team member is to be returned to work the TMR will reach out and schedule time to meet with the team member. 
 1. **TMR**: If the team member is returning to work the TMR complete the suspension bot (The form will be located in the orginal slack thread) to notify IT and People Ops that the team member will be returning from leave and the date that accounts should be enabled.
 

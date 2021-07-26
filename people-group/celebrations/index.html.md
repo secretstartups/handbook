@@ -56,14 +56,14 @@ For any further questions regarding expensing of flowers or gifts, please reach 
 
 ### Sending an E-Card
 
-Another nice way to celebrate someone, express your appreciation or show support to a team member is by creating an e-card and having team members sign the card via HelloSign. Have have fun with this, get creative when making the card using google docs, google slides or a program of your choice.
+Another nice way to celebrate someone, express your appreciation or show support to a team member is by creating an e-card and having team members sign the card via DocuSign. Have have fun with this, get creative when making the card using google docs, google slides or a program of your choice.
 An example can be found [here](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:6034eed9-38e3-440e-bf5a-297905e13f06).
 Once you have your card created:
 
-1. Upload the document to either HelloSign or Docusign
+1. Upload the document to DocuSign
 1. Once uploaded, assign signatures to those individuals that you would like to sign and then send the request to those individuals
 1. When an individual has signed you will get an email notification
-1. After you have all of your signatures then download the document from HelloSign
+1. After you have all of your signatures then download the document from DocuSign
 1. Slack or email the card to the recipient
 
 

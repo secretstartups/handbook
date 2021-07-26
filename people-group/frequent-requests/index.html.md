@@ -46,7 +46,7 @@ In addition, if the request comes from a third party, the People Experience team
 
 If you need People Operations to complete an employment verification form, usually for the purposes of a loan or security access, please have the relevant company or organization request this by emailing `people-connect@gitlab.com` for Non US team members and `uspayroll@gitlab.com` for US team members. In the event that you are employed via a **PEO** (SafeGuard, Global Upside, CXC. Remote etc) you must request the information directly from them, if you require assistance on the contact details please email `peopleops@gitlab.com`.
 
-The People Experience or Payroll team will complete the requested documents using HelloSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll via private Slack channel.
+The People Experience or Payroll team will complete the requested documents using DocuSign or ensure that the information is sent in an encrypted format. Requests for any information not in BambooHR, the People Experience team will make contact with the relevant department, usually Payroll via private Slack channel.
 
 The People Experience team will always verify and check with you to be sure that you have given authorization to share any personal information, if a signed consent form is not included in the request.
 
