@@ -18,6 +18,38 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 
 <summary markdown="span">GitLab, Inc. & GitLab Federal LLC</summary>
 
+### Alabama
+* [Child Labor Law](https://labor.alabama.gov/docs/posters/childlaborlawposter_english.pdf)
+* [Your Job Insurance - Unemployment Insurance](https://www.labor.alabama.gov/docs/posters/uc_jobinsurance.pdf)
+* [Workers' Compensation Information](https://www.labor.alabama.gov/docs/posters/wc_information.pdf)
+
+### Alaska
+* [Safety and Health Protection on the Job](https://labor.alaska.gov/lss/forms/right-to-know.pdf)
+* [Emergency Information](https://labor.alaska.gov/lss/forms/EmergInfo.pdf)
+* [Human Rights Law - Sexual Harassment](https://labor.alaska.gov/lss/forms/EmergInfo.pdf)
+* [Unemployment Insurance](https://labor.alaska.gov/lss/forms/1012.pdf)
+* [Summary of Alaska Child Labor Law](https://labor.alaska.gov/lss/forms/child-labor-law-summary.pdf)
+* [Summary of Alaska Wage and Hour Act](https://labor.alaska.gov/lss/forms/sum-wh-act-2021.pdf)
+* [Alaska - Americans with Disabilities Act](http://doa.alaska.gov/ada/policy/DLWDColor.pdf)
+* [Alaska - Alcohol and Drug-free Workplace Policy](https://doa.alaska.gov/dop/fileadmin/Employee_Orientation/pdf/DrugFreeWorkplacePoster.pdf)
+* [State of Alaska Whistleblower Act](https://doa.alaska.gov/dop/fileadmin/StatewidePlanning/pdf/WhistleblowerActPoster.pdf)
+
+### Arizona
+* [Constructive Discharge Notice](https://hr.az.gov/sites/default/files/Notification_of_Constructive_Discharge_Poster.pdf)
+* [Discrimination is Prohibited in Employment](https://www.azag.gov/sites/default/files/publications/2018-07/Discrimination_Brochure.pdf)
+* [Earned Paid Sick Time](https://www.azica.gov/sites/default/files/AZ%20Earned%20Paid%20Sick%20Time%20Poster%202017.pdf)
+* [Employee Safety and Health Protection](https://www.ica.state.az.us/sites/default/files/ADOSH_Poster_WorkplaceSafetyBilingual.pdf)
+* [Minimum Wage Act](https://www.azica.gov/sites/default/files/media/THE%20FAIR%20WAGES%20AND%20HEALTHY%20FAMILIES%20ACT%20(6).pdf)
+* [Unemployment Insurance](https://des.az.gov/sites/default/files/legacy/dl/POU-003.pdf)
+* [Worker's Compensation](https://www.ica.state.az.us/sites/default/files/migrated_pdf/Claims_Poster_WorkersCompLawBilingual.pdf)
+* [Work Exposure to Bodily Fluids](https://www.ica.state.az.us/sites/default/files/migrated_pdf/Claims_Poster_WorkExpToBodilyFluids_HIV_AIDS_HepC.pdf)
+* [Work Exposure to MRSA, Spinal Meningitis, or Tuberculosis](https://www.ica.state.az.us/sites/default/files/migrated_pdf/Claims_Poster_WorkExpToMRSA_SpMen_TB.pdf)
+
+### Arkansas
+* [Minimum Wage, Overtime, Child Labor, Wage Collection Notice](https://www.labor.arkansas.gov/wp-content/uploads/2020/09/POSTER-FINAL-2019.pdf)
+* [How to Claim Unemployment Insurance](https://www.dws.arkansas.gov/unemployment/how-to-file-a-ui-claim/)
+* [Worker's Compensation Instructions](http://www.awcc.state.ar.us/revisedforms/formp.pdf)
+
 ### California
 * [California Law Prohibits Workplace Discrimination and Harassment](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/10/Workplace-Discrimination-Poster_ENG.pdf)
 * [Transgender Rights in the Workplace](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2019/08/DFEH_TransgenderRightsWorkplace_ENG.pdf)
@@ -31,13 +63,51 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Whistleblower Protections](https://www.dir.ca.gov/dlse/WhistleblowersNotice.pdf)
 * [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
 * [Sexual Harassment Fact Sheet](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/03/SexualHarassmentFactSheet_ENG.pdf)
+* [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/2021-COVID-19-Supplemental-Paid-Sick-Leave.pdf)
+* [Payday Notice](https://drive.google.com/file/d/12-5BlbwGf0g_WOevYTTLoDKr1CFzJm7r/view?usp=sharing)
+* [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
+* Notice of Workers' Compensation Carrier and Coverage
+* **City of Berkeley** 
+  - [Minimum Wage Poster](https://www.cityofberkeley.info/MWO/)
+* **City of Los Angeles**
+  - [Fair Chance Ordinance](https://bca.lacity.org/Uploads/fciho/Fair%20Chance%20Initiative%20for%20Hiring%20Ordinance%20for%20Private%20Employers.pdf)
+  - [Minimum Wage and Paid Sick Leave](https://wagesla.lacity.org/sites/g/files/wph471/f/2019-MWO-Poster-EN-11.pdf)
+* **County of Los Angeles**
+  - [Minimum Wage Ordinance](http://file.lacounty.gov/SDSInter/dca/245570_FinalMinimumWageOrdinancePosterEnglishStandardSize8.5x14.pdf)
+* **City of Oakland**
+  - [Minimum Wage/Paid Sick Leave](http://www2.oaklandnet.com/oakca1/groups/contracting/documents/marketingmaterial/oak061391.pdf)
+* **City of San Jose**
+  - [Minimum Wage Bulletin](https://www.sanjoseca.gov/home/showpublisheddocument/67133/637417196663600000)
+  - [Opportunity to Work Notice](https://www.sanjoseca.gov/home/showdocument?id=20073)
+* **City of San Francisco**
+  - [Minimum Wage Poster](https://sfgov.org/olse/sites/default/files/minimum%20wage%20poster%202021.pdf)
+  - [Paid Sick Leave](https://sfgov.org/olse/sites/default/files/Document/Paid%20Sick%20Leave%20Poster%20-%20Post.pdf)
+  - [Fair Chance Ordinance](https://sfgov.org/olse/fair-chance-ordinance-fco)
+  - [Health Care Security Ordinance](https://sfgov.org/olse/sites/default/files/Document/HCSO%20Files/2019%20HCSO%20Poster%20Final.pdf)
+  - [Family Friendly Workplace Ordinance](https://sfgov.org/olse/sites/default/files/FileCenter/Documents/11256-FFWO%20Official%20Notice.pdf)
+  - [Paid Parental Leave Ordinance](https://sfgov.org/olse/sites/default/files/2020%20parental%20leave%20poster%20Print.pdf)
+  - [Salary History Ordinance](https://sfgov.org/olse/sites/default/files/Document/Consideration%20of%20Salary%20History%20Poster%20upload.pdf)
+
+### Colorado
+* [Anti-Discrimination Laws](https://drive.google.com/file/d/1mre-jdp29cyAT7L-KjGaVYnPdJcUy9KL/view)
+* [Employment Security Act](https://www.colorado.gov/pacific/sites/default/files/502_NoticeToWorkers-Poster.pdf)
+* [Minimum Wage and Overtime Pay Standards](https://cdle.colorado.gov/sites/cdle/files/COMPS%20Order%20%2337%20%282021%29%20Poster%20CLEAN.pdf)
+* [Notice to Employer of Injury](https://www.colorado.gov/pacific/sites/default/files/WC050_Notice_of_Injury_Poster.pdf)
+* [Notice of Paydays](https://drive.google.com/file/d/1zKeijMMsae8k13O3R0H6OTABsfT321Gb/view?usp=sharing)
+* [Pregnancy Accommodations](https://www.colorado.gov/pacific/sites/default/files/CCRD%20Notice%20re%20Pregnant%20Workers%20Fairness%20Act%20%282%29.pdf)
+* [Worker's Compensation Act](https://drive.google.com/file/d/1OkdN7QSD23d5-etB7awiU4C_JjM9KXHM/view?usp=sharing)
+* [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/Poster%2C%20Paid%20Leave%20%26%20Whistleblower%20-%202021%20poster.pdf)
 
 ### Connecticut
 * [Connecticut Commission on Human Rights and Opportunities Sexual Harassment Notice](https://portal.ct.gov/-/media/CHRO/SexualHarassmentPreventionPosterpdf.pdf)
-
-#### City of San Francisco
-* San Francisco Minimum Wage increases to $15.59 per hour [(June 2019)](ttps://gitlab.com/gitlab-com/people-ops/Compensation/uploads/e261b0f24e1b2d5bf382366bb400cf53/sf-minimum-wage-2019-06.pdf).
-* [Fair Chance Ordinance](https://sfgov.org/olse/fair-chance-ordinance-fco)
+* [Paid Sick Leave](https://www.ctdol.state.ct.us/wgwkstnd/NoticeSickLeavePoster2014%20.pdf)
+* [Discrimination is Illegal](https://portal.ct.gov/-/media/CHRO/DiscriminationFlyerpdf.pdf)
+* [Minimum Wage](https://www.ctdol.state.ct.us/wgwkstnd/DOL-75.pdf)
+* Unemployment Insurance Notice
+* [Worker's Compensation Notice](https://drive.google.com/file/d/1SQgiLIBPJCPvl1jcPnRwqjOpsE-SfhV1/view?usp=sharing)
+* [Electronic Monitoring Notice](https://www.ctdol.state.ct.us/wgwkstnd/ElectMonitoring.pdf)
+* [Office of the Healthcare Advocate](https://portal.ct.gov/-/media/OHA/OHAPstr8p5x11AsnEngMchpdf.pdf)
+* [Pregnancy Discrimination and Accommodation in the Workplace](https://www.ctdol.state.ct.us/gendocs/SS46a%20Pregnancy%20Disability%20Poster.pdf)
 
 ### Massachusetts
 * [Paid Family and Medical Leave](https://www.mass.gov/doc/paid-family-and-medical-leave-mandatory-workplace-poster/download)
