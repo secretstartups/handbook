@@ -410,3 +410,22 @@ This is not seen as a true offboarding, but there are still relevant steps to ta
 
 As part of the [country conversion process](/handbook/people-group/employment-solutions/#country-conversions), the People Specialist team obtains information from our PEOs in each country regarding offboarding processes and requirements.
 
+## US Unemployment Claim Management
+
+In the United States, unemployment insurance provides benefits to GitLab team members who have lost their jobs through no fault of their own. The purpose is to provide temporary financial assistance to employees who meet certain requirements. Unemployment insurance is administered at the state level in compliance with federal law. Each state establishes its own rules with respect to amounts, duration and eligibility for unemployment insurance.
+
+Unemployment insurance is funded by employer contributions. Most states also have state unemployment taxes. With a few exceptions, employers typically pay the state unemployment taxes as well. Individual states establish eligibility requirements for unemployment benefits. To be eligible, employees are required to meet state requirements for earnings and for time worked during the base period. In some cases, the state may ask for more extensive wage details on a claim. 
+
+The People Operations Specialist team own the US Unemployment Claim process. Ashley Jameson is the GitLab US Unemployment Claim Designate since she is US-based, for this US process and she can be reached at `peopleops@gitlab.com`.
+
+When unemployment claims are received, usually by [company mail](/handbook/eba/#company-mail), they will be sent and reviewed by the GitLab US Unemployment Claim Designate. The designate will:
+
+- Review all claims and protest when appropriate to help minimize increases to GitLab's
+unemployment rate.
+- Audit quarterly unemployment reports to ensure that claims are valid and that charges are contested, when appropriate.
+
+### Reporting a False Unemployment Claim
+
+If you are a full-time team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits, you may be a victim of unemployment claim fraud. Before giving out any information to the caller, please confirm that you are speaking with an agency employee. If you confirm with your state's Unemployment Commission that there is a fraudulent claim, please report it via email to `peopleops@gitlab.com`. Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud), which lists additional information.
+
+
