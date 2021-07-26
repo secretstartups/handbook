@@ -32,6 +32,10 @@ Brendan has been with GitLab since October 2017 (2017-10) and has been in a vari
 
 ## Skill of the Month Spotlight 
 
+<figure class="video_container">
+  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
 In August we are hosting a focused skill of the month around Career Development. 
 
 What you can expect this month: 
