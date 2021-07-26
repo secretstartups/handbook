@@ -191,8 +191,8 @@ Each paid channel has its own unique design specifications, ad copy character li
 {: #social-specs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * Facebook Image:
-   - Recommended Image Size: 1200x628 pixels
-   - Recommended Image Ratio: 1.91:1 to 4:5
+   - Recommended Image Size: 1080x1080 pixels, 1200x628 pixels
+   - Recommended Image Ratio: 1:1, 1.91:1 to 4:5
    - Recommended Image File Type: JPG or PNG
    - Copy: Primary Text: 125 character limit
    - Copy: Headline: 40 character limit
