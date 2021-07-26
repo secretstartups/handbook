@@ -43,9 +43,9 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 2. There is a:
      * $25K ARR opportunity minimum threshold to review edits to our terms; and
-     * $100K ARR opportunity minimum threshold to review Customer / Partner Terms.
+     * $100K ARR opportunity minimum threshold to review Customer.
      
-* **Please Note** The above thresholds are based on a single opportunity and not a "total Contract value", OR, potential investment size of a future opportunity. For clarity, if a Customer is purchasing $30,000USD over three (3) year term, this Opportunity **WOULD NOT** meet the threshold for negotiation(s). 
+* **Please Note** The above thresholds are based on a single opportunity and not the "total Account value" or "total Contract value", OR, potential investment size of a future opportunity. For clarity, if a Customer is purchasing $30,000USD over three (3) year term, this Opportunity **WOULD NOT** meet the threshold for negotiation(s). 
     
 * The above thresholds do not apply to NDA's, simply follow the same process(es) and attach the Customer red-lined GitLab NDA, OR, the Customer's NDA template.
 
