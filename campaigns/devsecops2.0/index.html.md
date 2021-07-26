@@ -88,7 +88,7 @@ Always On Lead Generation:
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### Individual Contributor
+#### Developers
 {: #buyer-journey-ic}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 | Stage | Asset 1 | Asset 2| Asset 3 |
@@ -97,7 +97,17 @@ Always On Lead Generation:
 | Consideration |  |  | |
 | Purchase| | | |
 
-#### Manager
+#### Individual Contributor (Security)
+{: #buyer-journey-ic}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+| Stage | Asset 1 | Asset 2| Asset 3 |
+| ------ | ------ | -------| -------|
+| Awareness|  |  | |
+| Consideration |  |  | |
+| Purchase| | | |
+
+
+#### Manager (Security)
 {: #buyer-journey-ic}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 | Stage | Asset 1 | Asset 2| Asset 3 |
