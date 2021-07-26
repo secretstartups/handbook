@@ -27,7 +27,7 @@ Curators in GitLab Learn can organize existing learning content in their specifi
 
 Earn the [Learning Curator badge in GitLab Learn](https://gitlab.edcast.com/pathways/ECL-5bcdc812-5b76-4921-b483-5846ba5acd79)
 
-Upon completion of this learning path, GitLab Team members will earn the Learning Curator badge and be granted platform permissions that will allow them to curator learning content.
+Upon completion of this learning path, GitLab Team members will earn the Learning Curator badge and be granted platform permissions that will allow them to curate learning content.
 
 
 ### Add the `Curator` role to your EdCast profile
