@@ -836,7 +836,7 @@ Outlined below are the steps for completing the monthly report in the [FY22 GC M
 
 Note: An "Actively Engaged User" represents someone who has both signed in and performed at least one activity listed in EdCast [Performance Metrics](https://docs.edcast.com/docs/performance-metrics).
 
-**Report 3: % of Team Members enrolled in 1 course**
+**Report 3: % of Team Members enrolled (but not completed) in 1 course**
 
 There is **not** a current report in EdGraph that can show this data. The following report needs to be created and is a current L&D project.
 
@@ -844,9 +844,9 @@ Report requirements:
 
 1. `GitLab Internal` = `t` or use of the Internal Team Members group
 1. Sort by `Content Stucture` to show only `Journeys` and `Pathways`
-1. Sort by `Performance` to include `started` and `completed`
+1. Sort by `Performance` to include `started` (we don't need to include `completed` here as that is captured in other reports)
 1. Enable date range to narrow report on a monthly basis
-1. Filter to show total users who appear in this data set at least 1 time - ideally filter by user to show a count of how many Pathways or Journeys they are either `started` or `completed` in for the specific month.
+1. Filter to show total users who appear in this data set at least 1 time - ideally filter by user to show a count of how many Pathways or Journeys they have `started` but not completed in for the specific month.
 
 **Report 4: Team Members who completed 1+ course, all time**
 
