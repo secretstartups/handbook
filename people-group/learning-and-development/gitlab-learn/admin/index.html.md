@@ -686,7 +686,7 @@ Badges are used in the EdCast platform to award learners who have finished a Pat
 
 #### Adding a badge to EdCast
 
-1. If necessary, collaborate with the brand team to [create a new badge](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file
+1. If necessary, collaborate with the brand team to [create a new badge](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#requesting-design-help). Otherwise, locate the existing badge file. The ideal specs for the badge is a square image of 300x300 pixels.
 1. Email EdCast account rep with the request to upload the file to the platform
 1. Navigate to the pathway or journey you'd like to add the badge to. In the `create` or `edit` tab, navigate to the `badge` setting
 1. Mark the check box to indicate that `Upon completing this pathway/journey, assignee will get a badge`
