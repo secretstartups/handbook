@@ -98,9 +98,9 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
   * 7 -8 AM PST
 
 
-## Scheduling for Todd Barr, Chief Marketing Officer
+## Scheduling for Craig Mestel, Interim Chief Marketing Officer
 
-* 1:1 Meeting title format: "Todd:Person 1:1"
+* 1:1 Meeting title format: "Craig:Person 1:1"
 * Color coding for calendar: 1:1's: blue, Reminders: yellow, Internal Meetings: light red, Marketing Specific Meetings: dark blue, Interviews: green, External Meetings: orange
 * All 1:1 meetings should be scheduled on Mondays and Tuesdays
 * Keep standing daily "blocks" that he has everyday for lunch and at the end of each day
