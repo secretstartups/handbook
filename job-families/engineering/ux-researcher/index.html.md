@@ -150,7 +150,7 @@ The Principal UX Researcher reports to the Director of User Experience Research.
 
 #### Principal Job Grade
 
-The Principal UX Researcher is a [grade 9.5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal UX Researcher is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Principal Responsibilities
 - Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
