@@ -528,7 +528,7 @@ Each quarter before the board meeting, the Total Rewards Analyst will run a repo
  
 1. After the company has received the signed exercise agreement and the payment from the team member, the Stock Plan Administrator will compare the form and calculate the exercise costs to ensure the funds received are accurate.
 2. The Stock Plan Administrator will request a screenshot of the payment received and save it to the “Equity Cash Receipts - Temporary” folder.
-3. The exercise form will be sent to the CFO via HelloSign with request for signature.  Once signed, the exercise form and cash receipt will be downloaded to the “Equity - Option Exercise Agreements” folder.
+3. The exercise form will be sent to the CFO via DocuSign with request for signature.  Once signed, the exercise form and cash receipt will be downloaded to the “Equity - Option Exercise Agreements” folder.
 4. Once the documents are ready to load, the Stock Plan Administrator will process the exercise in Carta.
 5. The signed exercise form will then be uploaded to the team members Carta account for record keeping.
 6. Navigate to the appropriate option grant in Carta and select 'Exercise options' in the drop-down menu.
