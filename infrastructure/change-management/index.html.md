@@ -228,7 +228,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
 | 27-31 July 2021             | Soft |   Address items raised in https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/75 |
-| 22-27 July 2021             | Hard |      Ensure changes are going through extra checks |
+| 22-26 July 2021             | Hard |      Ensure changes are going through extra checks |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
 | Recurring: [Scheduled Family and Friends Days](https://about.gitlab.com/company/family-and-friends-day/#upcoming-family-and-friends-days)         | Soft       | Family and Friends Days                   |
 
