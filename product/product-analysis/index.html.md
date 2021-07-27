@@ -232,7 +232,8 @@ Topics will be time-boxed to 30 minutes in order to ensure that, at minimum, we 
 2 stakeholders. (An exception will be made if there is only 1 item on the agenda). If 
 topics are too large to be covered in 30 minutes, a team member will reach out to the 
 stakeholder to either reduce the scope or to [open an issue for the team](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issue%5Bmilestone_id%5D=) 
-instead.
+instead. Stakeholders are welcome to leverage office hours to discuss and define the new issue, 
+which can help reduce async back-and-forth communication in the issue itself.
 
 To respect everyone's time, the team will set the schedule ahead of time and notify the 
 stakeholders we have slated for discussion. We will also pull in 1-2 "on deck" topics -- 
@@ -267,7 +268,7 @@ acceptance rate.
 
 <details><summary>👍 Example Topic 3: Code Review</summary>
 
-I am wrote a query to calculate xMAU for namespaces that converted from trials to paid.
+I wrote a query to calculate xMAU for namespaces that converted from a trial to a paid plan.
 * Is this `JOIN` correct?
 * Does this logic to only include namespaces that had trials before converting?
 
@@ -294,16 +295,26 @@ In the last key meeting, you presented an [analysis on early trial adoption](htt
 
 </details>
 
-Here are some examples of topics _not_ suited for office hours. These topics are too broad to be addressed 
-during office hours and should be captured in an issue.
+<details><summary>👍 Example Topic 6: Scope and Define New Issue</summary>
 
-<details><summary>👎 Example Topic 6: New Dashboard</summary>
+I am going to open an issue for a new analysis.
+* Can we discuss the overall scope and details?
+* What kind of information should I include in the issue?
+
+</details>
+
+Here are some examples of topics _not_ suited for office hours. These topics are too broad to be 
+addressed during office hours and should be captured in an issue. Please note that stakeholders 
+are welcome to come to office hours to discuss the scope and details of the subsequent issue 
+(see example topic 6 above).
+
+<details><summary>👎 Example Topic 7: New Dashboard</summary>
 
 Can you build a dashboard to help me understand invite acceptance rate?
 
 </details>
 
-<details><summary>👎 Example Topic 7: Net-New Analysis</summary>
+<details><summary>👎 Example Topic 8: Net-New Analysis</summary>
 
 Can you look into the relationship between stage adoption and retention?
 
