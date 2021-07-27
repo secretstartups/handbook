@@ -50,7 +50,7 @@ Our mission guides our path, and we live our [values](/handbook/values/) along t
 
 ## Goals
 
-1. Ensure that **everyone can contribute** in the three ways outlined above.
+1. Ensure that **everyone can contribute** in the three ways outlined below.
 2. Become the most used software for the software development lifecycle and collaboration on all digital content by following [the sequence below](#sequence).
 3. Complete our [product vision](/direction/#vision) of a [single application](/handbook/product/single-application/) based on [convention over configuration](/handbook/product/product-principles/#convention-over-configuration).
 4. Offer a sense of progress [in a supportive environment with smart colleagues](http://pandodaily.com/2012/08/10/dear-startup-genius-choosing-co-founders-burning-out-employees-and-lean-vs-fat-startups/).
