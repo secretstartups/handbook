@@ -494,7 +494,7 @@ Useful links:
 [Test orchestration tool](https://gitlab.com/gitlab-org/gitlab-qa) 
 [Dev Quality team overview](/handbook/engineering/quality/dev-qe-team/)
 [Ops Quality team overview](/handbook/engineering/quality/ops-qe-team/) 
-[Security and Ops Quality team overview](/handbook/engineering/quality/secure-enablement-qe-team/)
+[Sec and Enablement Quality team overview](/handbook/engineering/quality/sec-enablement-qe-team/)
 [Engineering Productivity team overview](/handbook/engineering/quality/engineering-productivity-team/)
 
 
