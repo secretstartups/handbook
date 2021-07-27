@@ -240,7 +240,7 @@ GitLab job grades aid in mapping a role for internal equity with respect to cash
 
 #### Job Grades:
 
-_Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below. 
+_Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, and Sales Development. Grading can be seen in the table below._ 
 
 | Grade	| Management       | Individual Contributor    |
 |-------|------------------|---------------------------|
@@ -259,7 +259,7 @@ _Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, an
 
 Dual career tracks can be added to each job family (regardless of division) when supported by data. Each level above senior will have links to market examples of that level in the relevant section of the job family.
 
-#### **Sales/Sales Development**:
+##### Sales/Sales Development:
 
 | Grade	| Management      | Individual Contributor          |
 |-------|-----------------|---------------------------------|
@@ -275,6 +275,21 @@ Dual career tracks can be added to each job family (regardless of division) when
 | 6			|                 | SMB/SDR Lead & Acceleration                             |
 | 5			|                 | Analyst/ SDR  |
 
+##### Customer Success:
+
+| Grade	| Management       | Individual Contributor    |
+|-------|------------------|---------------------------|
+| 15    | CEO              |                           |
+| 14    | EVP/CXO          |                           |
+| 12    | VP               | Fellow                    |
+| 11    | Senior Director  |	                         |
+| 10    |	Director	       | Distinguished             |
+| 9	    | Senior Manager <br> Manager   | Principal <br> Staff  |
+| 8	    |          |  |
+| 7			|                  | Senior	                   |
+| 6			|                  | Intermediate              |
+| 5			|                  | Junior                    |
+| 4			|                  | Intern                    |
 
 ## Compa Ratio
 
