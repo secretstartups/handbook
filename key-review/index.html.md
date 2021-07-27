@@ -19,6 +19,7 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. Understand performance against the plan, forecast and operating model.
 1. Ensure there is tight connection between OKRs and KPIs.
 1. Ensure that progress against OKRs is understood.
+1. Highlight what is going well. 
 
 ## Key Metrics
 
@@ -104,6 +105,7 @@ Important notes:
 1. Key Reviews should be publicly streamed to YouTube Unfiltered in alignment with GitLab's [value of transparency](/handbook/values/#transparency). Key Reviews with [not public](/handbook/communication/#not-public) information should be privately streamed to YouTube Unfiltered. 
 1. Should public or private streaming be unavailable, Key Reviews are set to auto-record to the cloud and should be uploaded to the GitLab Unfiltered [Key Reviews Playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrlBfo0IBmV0BwJcPN59swi) on YouTube. It is the DRI's or their EBA's responsibility to ensure that the video is uploaded to GitLab Unfiltered with the correct visibility (private or public). 
 1. If the function DRI is not available to attend their Key Review then the function's leadership team is responsible for attending the meeting and providing updates.
+1. Meetings are not just for pointing out areas for improvement. They are also for highlighting team achievements and sharing what is going well. Repetition in recognizing what is working from month to month is okay as repetition can be an organizational teaching tool that people what’s important amist all the noise.
 
 Also see [First Post is a badge of
 honor](/handbook/communication/#first-post-is-a-badge-of-honor).
