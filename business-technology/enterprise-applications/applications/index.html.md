@@ -305,24 +305,10 @@ tier one applications of lead to fulfillment
 
 <details>
 <summary markdown='span'>
-  Zuora: relationship between billing batches and auto-renew
+  Zuora: Billing Batches
 </summary>
 
-- Batch1: Web Direct
-- Batch2: Sales assisted
-- Batch3: Auto-Renewal
-- Batch4: Reseller
-- Batch5: EDU/OSS
-
-Billing batches support more optimization of billing functions in Zuora.
-
-Auto-renew functionality is distinct from billing batches.
-_Auto-renew in the CustomersDot must be set by the customer and functionality in the CustomersDot is distinct from the functionality in Zuora._
-
-- SaaS purchases in the CustomersDot default is `auto-renew=true`
-- if a customer cancels their subscription, `auto-renew` toggles to `false`
-- in Zuora, subscriptions default to `auto-renew=true`
-- for sales assisted deals, the billing team manually sets `auto-renew=false`, but the customer can change it to `auto-renew=true` from the CustomersDot
+Billing batches allow for account segmentation within Zuora based on billing processes.  Batch1 is used for all Web Direct clients who purchase online.  Batch2 is used for all standard, Sales Assisted accounts which can be billed without manual intervention. This Batch includes resellers for which we bill in a standard way.  Batch3 is used for Non-Standard Sales Assisted accounts, which are billed individually and require manual intervention by the Billing Team for various reasons. Batch 50 is used for EDU / OSS clients.  
 
 </details>
 
