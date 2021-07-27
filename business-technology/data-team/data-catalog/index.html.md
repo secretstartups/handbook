@@ -15,6 +15,8 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 ## GitLab Data Catalog Index
 
+The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Key Terms. Please feel free to contribute to add additional links and resources.
+
 ### Marketing
 
 * [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
