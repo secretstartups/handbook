@@ -12,9 +12,13 @@ description: "The InfraDev Team initiative on Fulfillment"
 
 ## Vision
 
-The InfraDev team initiative is part of our FY22-Q2 OKR to [implement at least 1 reliability improvement each month](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11396).
+Improve availability of CustomersDot by migrating from Azure to GCP
 
-The team is formed of [volunteers from any of the Fulfillment teams](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/206) that dedicate a small percentage of the time to the initiative.
+## Team members
+
+<% infradev_team = %w[ebaque jameslopez rcobb vitallium] %>
+<% infradev_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| infradev_team.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: infradev_members }) %>
 
 ### 2021 Roadmap
 
@@ -58,37 +62,25 @@ Q4 = L x 1 + XL x 3 = 0.5 x 1 + 1 x 3 = 3.5 milestones, 1 person
 
 ## How we work
 
-### Monthly engineer registration
-
-Once the volunteers have been given approvals in the [relevant issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/206), they should book the times or days they'll be working on the initiative for the current/next month, ideally beforehand.
-
-1. Book the day using your name as a new event in the [Fulfillment InfraDev calendar](https://calendar.google.com/calendar/u/2?cid=Y19yYjIzYXRtbzhkaTMwMTdsdGtob2M2ZWdkMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
-1. Ping your manager to check the time you are going to spend on the initiative and dates are OK
-1. Keep the calendar updated
-
 ### Picking and working on issues
 
-Given the small percentage of time dedicated by each engineer, the workflow is a bit different to that of GitLab in order to be more efficient. Therefore, engineers can pick any unassigned issue that is not blocked.
+We follow the [Engineering workflow](/handbook/engineering/workflow/#choosing-something-to-work-on) to work on new issues.
 
-1. Use the [Fulfillment InfraDev Kanban board](https://gitlab.com/groups/gitlab-com/-/boards/2710654?&label_name[]=Fulfillment%3A%3AInfraDev)
-1. Pick an issue from the top that is unassigned and either `ready for development` or `in dev` or `in review`
-1. At the end of your shift/day please either close the issue if done, or leave an update for the next engineer and unassign yourself from the issue. If you are working on it on consecutive days, you can keep yourself assigned. The following template can be used:
-
-```
-## Async issue update
-1. Please provide a summary of the current status and blockers
-1. What would be the focus for the next engineer that picks this issue?
-
-/unassign @yourhandlehere
-```
+Plese remember to keep updated the [workflow labels](handbook/engineering/development/fulfillment/#organizing-the-work)
 
 ## Reaching out for help
 
 We have a Slack channel to discuss the initiative and for the team to get help with blockers - `#s_fulfillment_infradev`
 
-## How do we know if we succeeded?
+## Exit criteria
 
-We will track the OKR to [implement at least 1 reliability improvement each month](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/11396)
+Successful deliver of:
+
+* CustomersDot application fully migrated from Azure to GCP
+* Ability to deploy the CustomersDot application to GCP
+* Basic observability of CustomersDot application
+* SLA/SLOs established for CustomersDot application
+* Resourcing plan for future CustomersDot application Infrastructure work
 
 ## Monthly retrospective
 
