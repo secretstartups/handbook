@@ -3,10 +3,10 @@ layout: handbook-page-toc
 title: Customer Success
 description: >-
   The Customer Success department is part of the GitLab Sales function who
-  partners with our large and strategic customers to deliver value throughout
+  partners with our customers to deliver value and positive business outcomes throughout
   their journey with GitLab
 ---
-The Customer Success department is part of the [GitLab Sales](/handbook/sales) function who partners with our large and strategic customers to deliver value throughout their journey with GitLab.
+The Customer Success department is part of the [GitLab Sales](/handbook/sales) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
 
 The team can be reached in [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).
 
