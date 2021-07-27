@@ -124,7 +124,6 @@ If you are interested in participating in an active working group, it is general
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
-* [Handbook Separation](/company/team/structure/working-groups/handbook-separation/)
 * [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 * [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
