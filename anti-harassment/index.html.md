@@ -351,5 +351,4 @@ We are continuously gathering country specific references to review regulation a
 
 - [UK: Acas (advisory service for employees and employers)](http://www.acas.org.uk/index.aspx?articleid=1864)
 - [The Netherlands: Inspectorate SZW](https://www.inspectieszw.nl/)
-- [India: Ministry of Labour & Employment](http://www.labour.nic.in/)
 - [Belgium: Unia: For equality, against discrimination](http://unia.be/en)
