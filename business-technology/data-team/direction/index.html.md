@@ -18,7 +18,7 @@ title: "Data Team Direction"
 ### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
 
 |  Theme | Objective |
-| --- | --- | 
+| :--- | :--- | 
 | Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. |
 | Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency |
 | Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure |
@@ -26,7 +26,7 @@ title: "Data Team Direction"
 ### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
 
 |  Theme | Objective |
-| --- | --- | 
+| :--- | :--- | 
 | Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
 | Level 2-Corporate Intelligence | Objective 2: Enable GitLab to be a Public Company |
 | Level 2-Platform Maturity | Objective 3: Improve Product Decision Quality and Accuracy with Trusted Data |
@@ -34,7 +34,7 @@ title: "Data Team Direction"
 ### [FY22-Q3](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/248#data)
 
 |  Theme | Objective |
-| --- | --- | 
+| :--- | :--- | 
 | Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
 | Level 2-Corporate Intelligence | Objective 2: Public Company Readiness |
 | Level 2-Product & Customer Intelligence | Objective 3: Accelerate R&D Teams with Trusted Data |
