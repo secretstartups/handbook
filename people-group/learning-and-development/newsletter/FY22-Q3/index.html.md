@@ -15,7 +15,7 @@ You can find more information on the [structure and process](/handbook/people-gr
 
 ## Learn from Leadership 
 
-This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, Vice President, People Operations, Technology & Analytics, and Brendan O'Leary, Senior Develper Evangelist. 
+This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, Vice President, People Operations, Technology & Analytics, and Darren Murph, Head of Remote. 
 
 <figure class="video_container">
   <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Pattie has been with GitLab since March 2021 (2021-03). Learn more about her car
   <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-Brendan has been with GitLab since October 2017 (2017-10) and has been in a variety of differet roles since joining. Learn more about his career development in the video above. Check out the [corresponding pathway]() in GitLab Learn to see the video and add questions for Brendan to his Async AMA Issue. 
+Darren has been with GitLab since July 2019 (2019-07) as our Head of Remote. Learn more about his career development in the video above. Check out the [corresponding pathway]() in GitLab Learn to see the video and add questions for Darren to his Async AMA Issue. 
 
 
 ## Skill of the Month Spotlight 
@@ -44,7 +44,7 @@ What you can expect this month:
 * Live Learning sessions to learn more about our Individual Growth Plan, Having a Career Conversation with Your Manager, and Having a Career Conversation with your Direct Reports 
 * Asynchronous course recommendations to help you in your career develpment 
 
-Want to learn more and follow along this month? Check out and follow the [FY22 Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22). 
+Want to learn more and follow along this month? Check out and follow the [FY22 Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) in GitLab Learn. 
 
 
 ## Recap of Q2
