@@ -29,7 +29,7 @@ As a Sr. Product Marketing Manager, Regulated Industries, you will work bring yo
 
 ## Career Ladder
 
-The next step in the Public Sector Product Marketing Manager job family is to move to the [Director, Field Marketing](/job-families/marketing/director-field-marketing/) job family or laterally to the [Account Based Marketing Manager](/job-families/marketing/account-based-marketing-manager/) job family. 
+The next step in a Senior Product Marketing Manager's career at GitLab is to be a [Manager, Product Marketing](/job-families/marketing/product-marketing-management/).
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
