@@ -13,6 +13,28 @@ title: "Data Team Direction"
 
 `This page contains forward-looking content and may not accurately reflect current-state or planned feature sets or capabilities.`
 
+## Quarterly Objectives
+
+### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
+
+|  Theme | Objective |
+| --- | --- | 
+| Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. |
+| Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency |
+| Level 2-Platform | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure |
+
+
+### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
+
+|  Theme | Objective |
+| --- | --- | 
+
+
+### [FY22-Q3](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/248#data)
+
+|  Theme | Objective |
+| --- | --- | 
+
 ## Strategy
 
 As an important step towards achieving our [mission](/handbook/business-technology/data-team/#mission), meeting our [responsibilities](/handbook/business-technology/data-team/#responsibilities), and helping GitLab [become a successful public company](/handbook/being-a-public-company), we are creating an Enterprise Data Platform (EDP), a single unified data and analytics stack, along with a broad suite of Data Programs such as Self-Serve Data and Data Quality. The EDP will power GitLab's KPIs, cross-functional reporting and analysis, and in general, allow all team members to make better decisions with trusted data. Over time, the EDP will further accelerate GitLab's analytics capabilities with features such as data publishing and products - enriched and aggregated data integrated into business systems or into the GitLab product for use by our customers. This acceleration happens through the development of "Data Flywheels", much like GitLab's [Open Core and Development Spend](https://about.gitlab.com/company/strategy/#dual-flywheels) flywheels.
