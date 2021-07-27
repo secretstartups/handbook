@@ -5,7 +5,7 @@ title: "Professional Services Practice Manager"
 
 ## Job Grade 
 
-The Professional Services Practice Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Professional Services Practice Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ## Responsibilities
 
