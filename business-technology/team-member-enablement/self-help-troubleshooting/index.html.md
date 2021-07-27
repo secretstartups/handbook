@@ -164,6 +164,10 @@ Check out the GitLab Tools and Tips pages for recommended software and applicati
 
 Our security team also did an amazing write-up for Linux installations - [Linux Setup](/handbook/tools-and-tips/linux/)
 
+### What is JAMF Self Service
+
+With the installation of JAMF comes Self Service which can be found in Applications. Jamf Self Service for macOS allows users to browse and install applications, configuration profiles and update your OS easily. 
+
 ### Using JAMF Self Service to Update your OS
 
 You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
