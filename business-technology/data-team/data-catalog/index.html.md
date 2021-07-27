@@ -15,34 +15,34 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 ## GitLab Data Catalog Index
 
-### [Marketing](/handbook/business-technology/data-team/data-catalog/#marketing-analytics)
+### Marketing
 
 * [Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
 
-### [Sales](/handbook/business-technology/data-team/data-catalog/#sales-analytics)
+### Sales
 
 * [Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation)
 * [Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel)
 * [Usage Data Upload](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
 
-### [Finance](/handbook/business-technology/data-team/data-catalog/#finance-analytics)
+### Finance
 
 * [Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr)
 
-### [Product](/handbook/business-technology/data-team/data-catalog/#product-analytics)
+### Product
 
 * [Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
 * [Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
 * [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis)
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
 
-### [Customer Success](/handbook/business-technology/data-team/data-catalog/#customer-success-analytics)
+### Customer Success
 
-### [Engineering](/handbook/business-technology/data-team/data-catalog/engineering)
+### Engineering
 
 * [MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate)
 
-### [People](/handbook/business-technology/data-team/data-catalog/people-analytics)
+### People
 
 * [People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
 * [PTO By Roots (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
@@ -59,6 +59,7 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 ## Metrics and Terms Index
 
+* [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
 * [XMAU](/handbook/product/performance-indicators/#structure/)
 * [Product Stage](/handbook/product/product-categories/#devops-stages)
 
