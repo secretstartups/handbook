@@ -773,6 +773,8 @@ Issues are nominated to the board through the inclusion of the label `infradev` 
 
 Issues with `~infradev ~severity::1 ~priority::1 ~production request` labels applied require immediate resolution.
 
+Additionally, an automated status report is generated in the [gitlab-org/infradev-reports](https://gitlab.com/gitlab-org/infradev-reports/-/issues) issue tracker. A new report is opened weekly, and updated regularly. The report categorizes each infradev issue according to several criteria, and can help with the triage and priorization process.
+
 ### A Guide to Creating Effective Infradev Issues
 
 Triage of infradev Issues is desired to occur asynchronously. There is also a section of the [Weekly GitLab SaaS meeting](https://about.gitlab.com/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) which aims to address anything requiring synchronous discussion or which hasn't been triaged. This meeting has time constraints and many of the participants may not have a detailed understanding of the problems being presented. For maximum efficiency, please ensure the following, so that your infradev issues can gain maximum traction.
@@ -795,6 +797,7 @@ Triage of infradev Issues is desired to occur asynchronously. There is also a se
 1. **Ensure a realistic severity is applied**: review the [availability severity label guidelines](/handbook/engineering/quality/issue-triage/#availability) and ensure that applied severity matches. Always ensure all issues have a severity, even if you are unsure.
 1. **If possible, include ownership labels** for more effective triage. The [product categories](/handbook/product/product-categories/) can help determine the appropriate stage group to assign the issue to.
 1. **Cross-reference links to Production Incidents, Pagerduty Alerts, Slack Alerts and Slack Discussions**. To help ensure that the team performing the triage have all the available data.
+   1. By adding "Related" links on the infradev issue, the [Infradev Status Report](https://gitlab.com/gitlab-org/infradev-reports/-/issues) will display a count of the number of production incidents related to each infradev issue, for easier and clearer prioritization.
 1. **Ensure that the issue title is accurate, brief and clear**. Change the title over time if you need to keep it accurate.
 1. **By adding an infradev label to an issue, you are assuming responsibility and becoming the sponsor/champion of the issue**.
 1. **Provide a method for validating that the original issue still exists**
