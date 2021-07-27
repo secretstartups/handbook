@@ -146,6 +146,13 @@ For the tracks module, you must designate a background color for the icon. Curre
 
 Place the class name of background color you'd like your icon displayed on. For example `slp-bg-brand-purple`.
 
+### Comparison Pages
+
+The Comparison Pages that are linked in [DevOps Tools](https://about.gitlab.com/devops-tools/) can be edited via Netlify CMS. Their data files exist in `data/comparison_pages`. They get conditionally rendered, the logic of which is controlled in `sites/uncategorized/source/layouts/comparison_page_v2.haml`, where we check if the `data.comparison_pages[key_one]` exists. If it does, we use this data in the new Slippers Comparison Infographic component. 
+
+If there is no Comparison Page data for a particular page, the build process will fall back to the old style static image. Conversely, in order to render this data in the appropriate page, you must match the `slug` field with the name of the competitor as listed in `data/features.yml`.
+
+Comparison page data can currently be set up for comparison across all scores, or as single tools. There is a walkthrough video for this content type in the [learning resources YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpF23RDebkNFjB4dNRlvoGN).
 
 ## Admin features
 
