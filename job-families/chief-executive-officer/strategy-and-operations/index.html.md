@@ -3,13 +3,13 @@ layout: job_family_page
 title: Strategy and Operations
 ---
 
-They Strategy and Operations team are GitLab's internal strategy consultants,  who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key intiatives while supporting the Chief of Staff and CEO. 
+They Strategy and Operations team are GitLab's internal strategy consultants who move from problem to problem in different functional areas. This team also plays an operational role in helping to support key intiatives while supporting the Chief of Staff and CEO. 
 
 ## Levels
 
 ### Staff Strategy and Operations 
 
-The Staff Stratgy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
+The Staff Strategy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
 
 #### Staff Strategy and Operations Job Grade
 
@@ -66,22 +66,22 @@ The Principal Strategy and Operations is a [grade 9](/handbook/total-rewards/com
 
 The Director of Strategy and Operations reports to the [Chief of Staff](/job-families/chief-executive-officer/chief-of-staff/).
 
-#### Director of Strategy and Operations  Job Grade
+#### Director of Strategy and Operations Job Grade
 
 The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
-#### Director of Strategy and Operations  Responsibilities
+#### Director of Strategy and Operations Responsibilities
 
-- Support special projects that are urgent and important. For example, market entries, pricing and packing projects, and organizational realignments
-- Drive key organizational processes. For example, OKRs and strategic planning exercises
+- Responsible for the success of 2-3 high priority, cross-functional initiatives at any given moment. For example, market entries, pricing and packing projects, important communications, and organizational realignments
+- Fill in gaps in other parts of the business when there are short-term vacancies or a lack of relevant skills or capacity
 - Collaborate cross-functionally with senior counterparts throughout the business 
 - Identify opportunities to improve business efficiency and make changes to improve the business
 - Prepare materials (documents, decks) for the Chief of Staff and the CEO
 - Translate practical needs into technical and/or business requirements
-- Execute on projects and ongoing assignments for the Chief of Staff
+- Execute on projects and ongoing assignments for the Chief of Staff and/or CEO
 - Demonstrate GitLab values in all work
 
-#### Director of Strategy and Operations  Requirements
+#### Director of Strategy and Operations Requirements
 
 - Track record of leadership independent of role
 - Ability to work collaboratively and drive results with senior leadership
@@ -110,9 +110,10 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 
 * Extends that of the Staff or Principal level Strategy and Operations 
 - Experience leading ongoing projects and initiatives
-- Proven ability to manage cross-functional projects
+- Proven ability to manage cross-functional projects with folks at different levels of the business
 - Track record of moving key initiatives from idea to delivery
 - Experience in setting goals and driving toward quantifiable results
+- Ability to operate [iteratively](/handbook/values/#iteration)
 
 ##### Strategy and Operations (Technical)
 
