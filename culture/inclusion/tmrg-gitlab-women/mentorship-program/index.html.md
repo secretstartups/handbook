@@ -162,25 +162,111 @@ Success of this program will be measured by:
 1. engagement during live training sessions
 1. overall feedback of the program from both the mentor and mentee perspective
 
-#### Results
+### Results
 
 The following section will be updated throughout the program to reflect participations and metrics outlined above.
 
-##### Metrics
+#### Program Participation
 
-1. Current Participation: 66 team members / 33 mentor/mentee pairs
+##### Participant Data
+
+1. Total Participants: 66 team members / 33 mentor/mentee pairs
 1. Unique Departments Represented by Mentees: 19
 1. Unique Departments Represented by Mentors: 18
-1. Number Participants in Kickoff Sessions: Total attendance by program participants = 95.31%
-    1. Session 1: 7
-    1. Session 2: 12
-    1. Session 3: 42
 
-#### Feedback Trends 
+##### Event Attendance
 
-##### Pre-Program Survey:
+| Event Name | Total Attendance Percentage | Attendance Session 1/Session 2/Session 3 |
+| ----- | ----- | ----- |
+| Program Kickoff | 95.31% | 7/12/42 |
+| Mid-Program Event | | |
+| End of Program Event | | |
 
-TBD, Currently compiling trends
+##### 1:1 Mentorship Meeting Data
+
+Based on a survey sent via the Polly Slack app on 2021-07-23:
+
+1. 20/33 mentees responded to the survey
+1. 4 have met and/or scheduled their coffee chat with their mentor
+1. 13 have met for their first mentorship session and set a cadence for future meetings
+1. 4 have their first mentorship session scheduled for next week (week of 2021-07-26)
+1. 1 falls in an `other` category
+
+###### Feedback Trends 
+
+##### Pre-Program Survey
+
+| Participant | Completions |
+| ----- | ----- |
+| Mentor | 20/33 |
+| Mentee | 16/33 |
+
+##### Mentor Results
+
+![mentor-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
+
+*What is something you hope to learn from your mentee during this program?*
+
+1. Be an ally - understand and support challenges for women at GitLab and team members in different departments
+1. New leadership perspectives
+1. What kind of support will provide the most help
+1. How well GitLab is supporting professional development of the team
+1. Communication skills
+1. Self-Reflection skills
+
+*What skills do you hope this program will help you develop and/or strengthen?*
+
+1. Situational coaching
+1. Mentorship
+1. Listening
+1. Recieving Feedback
+1. Leadership
+1. Awareness
+1. Coaching
+1. Professional Development
+1. Empathy
+1. Cultural awareness
+1. Motivation/Empowerment
+1. Work/Life Balance
+1. Cross-Functional Collaboration
+1. Communication
+1. Self-Reflection
+1. Confidence
+1. Planning
+
+##### Mentee Results
+
+![mentee-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
+
+
+**What is one goal you hope to accomplish by participating in this Women at GitLab mentorship program?**
+
+1. Leadership growth, executive leadership skills, and confidence in working with leadership
+1. Develop career path
+1. Improve cross-functional relationships
+1. Negotiation skills
+1. Build confidence in career path and goals
+1. New inspiration
+
+**What skills do you hope this program will help you develop and/or strengthen?**
+
+1. Leadership
+1. Communication
+1. Introspection
+1. Confidence
+1. Self-promotion
+1. Self-value
+1. Negotiation
+1. Strategy and idea pitching
+1. People Management
+1. Public speaking
+1. Collaborative working style
+1. Building team morale
+1. Empowerment
+1. Effective written and verbal communication
+1. Goal Setting
+1. Strategic thinking
+
 
 ##### Mid-Program Survey:
 
