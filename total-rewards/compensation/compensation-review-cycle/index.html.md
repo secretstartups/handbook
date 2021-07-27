@@ -290,6 +290,7 @@ due to factors such as:
 * Targeted mid-year increase review.
 * Recent hire who is already aligned to market/performance rates.
 * Anything else that has already increased salary during the current fiscal year.
+* [Growth factor](/handbook/people-group/talent-assessment/#what-is-growth). 
 
 After a manager determines the performance increase (in percentages), that manager should be able
 to clearly communicate to the team member how it was derived.
