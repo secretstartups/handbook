@@ -17,121 +17,49 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 ### [Marketing](/handbook/business-technology/data-team/data-catalog/#marketing-analytics)
 
-### [Sales](/handbook/business-technology/data-team/data-catalog/#sales-analytic)
+* [Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
+
+### [Sales](/handbook/business-technology/data-team/data-catalog/#sales-analytics)
+
+* [Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation)
+* [Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel)
+* [Usage Data Upload](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
 
 ### [Finance](/handbook/business-technology/data-team/data-catalog/#finance-analytics)
 
+* [Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr)
+
 ### [Product](/handbook/business-technology/data-team/data-catalog/#product-analytics)
+
+* [Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
+* [Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
+* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis)
+* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
 
 ### [Customer Success](/handbook/business-technology/data-team/data-catalog/#customer-success-analytics)
 
 ### [Engineering](/handbook/business-technology/data-team/data-catalog/engineering)
 
+* [MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate)
+
 ### [People](/handbook/business-technology/data-team/data-catalog/people-analytics)
 
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
+* [People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
+* [PTO By Roots (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
+* [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard)
+* [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.htm)
+* [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
+* [Talent Acquisition Metrics](/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html.md)
+* [People Metrics - Data Discovery in Sisense Dashboard](https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature)
 
-<h1 id="headerformat">Engineering </h1>
+### Data
 
-  * <a href="/handbook/engineering/performance-indicators/#engineering-mr-rate" > MR Rate</a>
+* [Sisense Usage and Adoption](https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb)
 
+## Metrics and Terms Index
 
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
-
-<h1 id="headerformat">Finance </h1>
-
-  * <a href="/handbook/business-technology/data-team/data-catalog/finance-arr/" > 🚧 WIP Self-Service Analytics Workflow: Finance ARR</a>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
-
-<h1 id="headerformat">Marketing </h1>
-
-  * <a href="/handbook/business-technology/data-team/data-catalog/email-data-mart/" class="">🚧  WIP Self-Service Analytics Workflow: Email Marketing Data Mart</a>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
-
-<h1 id="headerformat">People </h1>
-
-[People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
-
-<details>
-<summary markdown='span'>
-  Data Models
-</summary>
-  * <a href="#" class="/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html">PTO By Roots (Slack)</a>
-</details>
-
-<details>
-<summary markdown='span'>
-  Data Solutions
-</summary>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/" class="">People Metrics</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html" class="">Promotions Report</a>
-  * <a href="#" class="/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html.md">Talent Acquisition Metrics</a>
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/People/abaa4b1155104d529eed2464838d3f39" class="">Other People Dashboards</a>
-  * <a href="#" class="https://app.periscopedata.com/app/gitlab/topic/recruiting/abc202b7029542f98ffb8fefa4958907">Other Talent Acquisition Dashboards</a>
-  * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">People Metrics - Data Discovery in Sisense Dashboard</a>
-  * <a href="https://app.periscopedata.com/app/gitlab/831245/People-Data-Discovery-Feature" class="">Team Member Separations Report</a>
-  * <a href="/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.html" class="">People KPI Deck</a>
-</details>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;
-}
-</style>
-<h1 id="headerformat">Product </h1>
-
-<details>
-<summary markdown='span'>
-  Data Solutions
-</summary>
-  * <a href="/handbook/business-technology/data-team/data-catalog/product-geolocation/" class="">📊 Self-Service Analytics Workflow: Product Geolocation Analysis</a><br><br>
-  * <a href="/handbook/business-technology/data-team/data-catalog/pricing/" class="">📊 Self-Service Analytics Workflow: Pricing Analysis</a><br><br>
-  * <a href="/handbook/business-technology/data-team/data-catalog/xmau-analysis/" class="">🚧 WIP Self-Service Analytics Workflow: XMAU Analysis</a><br><br>
-  * <a href="/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="">🚧 WIP Product Usage Data</a><br><br>
-  * <a href="https://app.periscopedata.com/app/gitlab/803470/Customer-Product-Usage-Dashboard" class="">📊 Customer Product Usage Dashboard</a><br><br>
-</details>
-
-
-<details>
-<summary markdown='span'>
-  Data Definitions
-</summary>
-  * <a href="/handbook/product/performance-indicators/#structure/" class="">Data Definition: XMAU</a>
-  * <a href="/handbook/product/product-categories/#devops-stages/" class="">Data Definition: Product Stage</a>
-</details>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center}
-</style>
-<h1 id="headerformat">Sales </h1>
-
-  * <a href="/handbook/business-technology/data-team/data-catalog/customer-segmentation/" class="">📊 Self-Service Analytics Workflow: Customer Segmentation Analysis</a><br><br>
-  * <a href="/handbook/business-technology/data-team/data-catalog/sales-funnel/" class="">📊  Self-Service Analytics Workflow: Sales Funnel</a><br><br>
-  * <a href="/handbook/business-technology/data-team/data-catalog/manual-data-upload/" class="">🚧  Manual Usage Data Upload</a><br><br>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
-<h1 id="headerformat">Solutions for the Data Team </h1>
-
-  * <a href="/handbook/business-technology/data-team/data-catalog/trusted-data-solutions/" class="">📊 Trusted Data Solutions</a>
-
-<style> #headerformat {
-background-color: #554488; color: white; padding: 5px; text-align: center;}
-</style>
-<h1 id="headerformat">Sisense</h1>
-
-  * <a href="https://app.periscopedata.com/app/gitlab/topic/Sisense-Maintenance/abde7717743143098ac071be8c646bdb" class="">Sisense Related Dashboards - this accounts for Sisense Users, Dashboard Usage, Query Runtime</a>
-
+* [XMAU](/handbook/product/performance-indicators/#structure/)
+* [Product Stage](/handbook/product/product-categories/#devops-stages)
 
 ### Legend
 
