@@ -71,7 +71,7 @@ Anyone team at GitLab is encoruaged to build new learning pathways. Some scenari
 1. Teach the GitLab team how to efficiently solve a common problem, like troubles with Merge Requests or strategies for async communication
 1. Organize content you've found externally, like articles, videos, or podcasts
 
-To create a new learning pathway and to add that pathway to GitLab Learn, start by opening an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
+To create a new learning pathway and to add that pathway to GitLab Learn, start by building the course content in the handbook. Once the content is ready, open an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#). All steps should be outlined on this template.  
 
 **Examples of learning paths in GitLab Learn
 
