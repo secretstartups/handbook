@@ -17,11 +17,11 @@ title: "Data Team Direction"
 
 ### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
 
-|  Theme | Objective |
-| :--- | :--- | 
-| Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. |
-| Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency |
-| Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure |
+|  Theme | Objective | Notes and Key Results |
+| :--- | :--- | :--- |
+| Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. | Rolled-out Fusion Teams, XMAU Handbook Page, Gainsight SM Usage Data, and Marketing Data Mart |
+| Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency | Shipped TD: Sales Funnel dashboard, Shipped Analytics Hub MVC |
+| Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure | Created v1 of the Quarterly Audit, Shipped Data Pump v1 |
 
 ### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
 
