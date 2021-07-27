@@ -104,7 +104,7 @@ Maybe you aren't sure where to start or you are having trouble filling out your 
 
 Steps: 
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
-1. Make a copy of the template
+1. Make a copy of the template + save to your drive
 1. Fill out the template 
 1. Submit your IGP to your profile on BambooHR 
 1. Review with your manager 
@@ -119,7 +119,10 @@ ADD IGP VIDEO
 
 Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
 
-[Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
+Steps: 
+1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
+1. Make a copy + save to your drive
+1. Start filling it out (check out the video below for a walkthrough)
 
 ##### Using your Accomplishment Tracker
 
