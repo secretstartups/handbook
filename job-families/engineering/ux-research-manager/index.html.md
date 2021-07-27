@@ -24,7 +24,7 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 - Support your team's career development by ensuring: 1) they each have a Individual Growth Plan in place, 2) there are frequent check-ins on the plan, and 3) when applicable, special projects are being matched to support each team member's Individual Growth Plan.
 - Maintain an accurate and current understanding of the active UX Research projects being worked on by the team.
 - Build and develop your research toolkit to extend across all levels of complexity.
-- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between  scrappy research and rigor.
+- Demonstrate, explain, and teach others how to apply a range of research methods, understanding the balance and trade-offs between scrappy research and rigor.
 - Personally initiate and conduct research projects to build stronger foundational knowledge of our GitLab users. Research should consist of a mix of problem validation, foundational research, and strategic research projects.
 - Communicate, advocate for, and socialize actionable insights in a clear and compelling way.
 - Regularly sync with Product Management Directors to understand strategy, discover blockers, manage quality, and help ensure UX Research prioritization.
