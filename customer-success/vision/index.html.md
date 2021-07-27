@@ -36,7 +36,7 @@ The following shows the high-level view of the capabilities that we will be deve
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
 ## Strategy and Priorities Page
-The ("Strategy and Priorities Page")(/handbook/customer-success/strategy/) will show updates on our strategy and priorities for the given period.
+The ["Strategy and Priorities Page"](/handbook/customer-success/strategy/) will show updates on our strategy and priorities for the given period.
 
 ## Product Usage Data 
 
