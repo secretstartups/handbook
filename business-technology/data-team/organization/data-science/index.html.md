@@ -18,15 +18,22 @@ description: "GitLab Data Science Team Handbook"
 
 
 The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
+The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products.
 
-We do this by building machine learning models and analysing data to convert results into trusted and scalable products.
+## Projects
+
+### Propensity to Buy -> Account Score
+
+- [Development Epic](https://gitlab.com/groups/gitlab-data/-/epics/302)
+- Start Date: 2021-06-30
+- [Slack Channel](https://gitlab.slack.com/archives/C027EEYL8EL)
+
 
 ## Tools 
 
-Data Science team uses Python and Jupyter to deliver projects. 
+The Data Science team uses Python and Jupyter to deliver projects. 
 
 # Data Science responsibilities 
-
 
 Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
 
@@ -38,7 +45,6 @@ Additionally, the **Data Science Team** supports the following responsibilities
     - Helping to define and champion Data Quality practices and programs for GitLab data systems
 
 # Projects structure 
-
 
 Data Scientists follow [Cross-Industry standard process for data mining (CRISP-DM)](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining) to deliver projects, which consists of 6 phases. More detailed breakdown of project structure and code examples can be found (here). 
 
@@ -102,33 +108,12 @@ Projects with indirect impact do not translate directly to monetary value, but p
 "Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
 
 
-## Tools setup
+# Tools setup
 
-Currently data science team uses DataLab to build models and derive insights. DataLab is a built-in Jupyter instance provided by Google Cloud. To setup DataLab for your @gitlab.com account, follow these steps:
+Currently data science team uses JupyterLab configured in docker image to build models and derive insights. Despite the fact that GitLab's infrastructure is setup in Google Cloud Platform environment, GitLab does not use DataLab (built-in Jupyter instance provided by Google Cloud). There are two reasons for it: 1. issues that occur when we want to connect to Snowflake with DataLab 2. DataLab sets default Python as Python 2 and if we want to use Python 3 we can use only version up to 3.5, what puts limits on our team.
 
+To setup JupyterLab for your @gitlab.com account, follow the steps on the data-science repo [README](https://gitlab.com/gitlab-data/data-science/). Please note if you want to use Snowflake tables in Jupyter, you will need completed"Connecting to Snowflake" and "Getting Set up with dbt locally" from the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)
 
-- [ ] Raise Access Request (AR) for Google Cloud Credentials. To do that please follow instructions here or create separate issue and copy contents from [here](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) or create separate issue and copy contents from [here](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10306#note_622125437). Ensure you update your name and other personal details and project name is ``gitlab-analysis.`` Assign it to your manager.
-- [ ] Raise AR for DataLab setup for ``gitlab-analysis``, similar way as previous step. Assign it to your manager. You can also tag project owners (Dennis van Rooijen, Paul Armstrong or Ved Prakash) if you need help.
-- [ ] Please follow next step after running onboarding template, once you added GOOGLE_APPLICATION_CREDENTIALS path to your .zshrc` file which can be accessed by vi ~/.zshrc``. One of the project owners should send you configuration json file, which is important to add in your google credentials. Follow below steps:
-- [ ] Download the json file provided.
-- [ ] Copy the path  including file_name.
-- [ ] Open terminal and run vi ~/.zshrc
-- [ ] If you already have variable  GOOGLE_APPLICATION_CREDENTIALS  modify its value to the file path and file name. To modify value please click ``I`` on your keyboard which stands for insert - it will allow you to modify content. If you don’t have this variable then use below command:
-
-export GOOGLE_APPLICATION_CREDENTIALS = <File_path>/<file_name>
-
-then :wq! to write and exit file (w stands for write and q stands for quit)
-
-- [ ] Refresh this file by sourcing it back, by running command in terminal: ``source ~/.zshrc``.
-- [ ] After approved AR install and initialise Google Cloud SDK (which stands for software development kit) to which instructions are provided [here](https://cloud.google.com/sdk/docs/install).. After download and installation follow point a and b, especially commands in terminal.
-- [ ] Run ``gcloud components install datalab`` in your terminal
-- [ ] Project owner should provide you name of your Datalab instance, the most likely it will be your_gitlab_handle-datalab-project. If you do not receive it follow up with owners by tagging them in access request issue or texting them directly on slack. Once you have name of your instance connect to DataLab by using datalab connect your_gitlab_username-datalab-project. 
-
-If you receive error
-"The specified Datalab instance was created for your_gitlab_username@gitlab.com, but you are attempting to connect to it as your_gitlab_username@gitlab-analysis.iam.gserviceaccount.com". Then re-run the command as
-datalab connect your_gitlab_username-datalab-project --no-user-checking
-
-- [ ] Open your browser and type localhost:8081. It may take couple minutes to connect, so if nothing comes up refresh website or validate with project owners if your access has been granted properly. You should be all set!
 
 
 

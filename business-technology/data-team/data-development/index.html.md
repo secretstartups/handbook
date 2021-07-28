@@ -20,12 +20,13 @@ These three approachs "Ad-Hoc","Business Insights", and "Trusted Data".
 |  | Ad-hoc | Business Insights | Trusted Data |
 | :-- | :-: | :-: | :-: |
 | When To Use | **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
-| Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | required | required |
-| Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | required |
-| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog) | optional | required | required |
-| Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | optional | optional | required |
-| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | optional | optional | required |
-| 'Trusted Data' Branded |  N/A |  N/A | required |
+| Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | **required** | **required** |
+| Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | **required** |
+| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog) | optional | **required** | **required** |
+| Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | optional | optional | **required** |
+| Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | optional | optional | **required** |
+| Auditable w/linkage to source systems |  optional | optional | **required** |
+| 'Trusted Data' Branded |  N/A |  N/A | **required** |
 | 'Business Insights' Branded |  N/A | required | N/A |
 
 ### Ad-hoc Data Development

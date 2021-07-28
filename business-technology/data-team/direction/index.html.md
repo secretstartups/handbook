@@ -13,6 +13,44 @@ title: "Data Team Direction"
 
 `This page contains forward-looking content and may not accurately reflect current-state or planned feature sets or capabilities.`
 
+## Quarterly Objectives
+
+### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
+
+FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with Fusion Teams, the first major release of the Trusted Data solutions and Sales Funnel Dashboard, integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
+
+- [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
+- [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
+- [FY22-Q1 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/8281)
+
+
+|  Theme | Objective | Notes and Key Results |
+| :--- | :--- | :--- |
+| Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. | Rolled-out Fusion Teams, XMAU Handbook Page, Gainsight SM Usage Data, and Marketing Data Mart |
+| Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency | Shipped TD: Sales Funnel dashboard, Shipped Analytics Hub MVC |
+| Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure | Created v1 of the Quarterly Audit, Shipped Data Pump v1 |
+
+### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
+
+- [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
+- FY22-Q2 Retrospective `Coming Soon`
+- FY22-Q2 Report Card `Coming Soon`
+- FY22-Q2 Handbook Jamboree  `Coming Soon`
+
+|  Theme | Objective |
+| :--- | :--- | 
+| Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
+| Level 2-Corporate Intelligence | Objective 2: Enable GitLab to be a Public Company |
+| Level 2-Platform Maturity | Objective 3: Improve Product Decision Quality and Accuracy with Trusted Data |
+
+### [FY22-Q3](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/248#data)
+
+|  Theme | Objective |
+| :--- | :--- | 
+| Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
+| Level 2-Corporate Intelligence | Objective 2: Public Company Readiness |
+| Level 2-Product & Customer Intelligence | Objective 3: Accelerate R&D Teams with Trusted Data |
+
 ## Strategy
 
 As an important step towards achieving our [mission](/handbook/business-technology/data-team/#mission), meeting our [responsibilities](/handbook/business-technology/data-team/#responsibilities), and helping GitLab [become a successful public company](/handbook/being-a-public-company), we are creating an Enterprise Data Platform (EDP), a single unified data and analytics stack, along with a broad suite of Data Programs such as Self-Serve Data and Data Quality. The EDP will power GitLab's KPIs, cross-functional reporting and analysis, and in general, allow all team members to make better decisions with trusted data. Over time, the EDP will further accelerate GitLab's analytics capabilities with features such as data publishing and products - enriched and aggregated data integrated into business systems or into the GitLab product for use by our customers. This acceleration happens through the development of "Data Flywheels", much like GitLab's [Open Core and Development Spend](https://about.gitlab.com/company/strategy/#dual-flywheels) flywheels.
