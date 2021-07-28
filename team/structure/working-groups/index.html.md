@@ -22,7 +22,8 @@ GitLab's CEO, Sid, and Chief of Staff, Stella, and the Learning & Development te
 Topics covered include:
 1. What is a working group
 2. When to start a working group
-3. Difference between project managers and working groups
+3. Difference between project managers and working groups. 
+   1. Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability.
 4. Lessons learned from previous working groups
 5. Why and how working groups support cross-functional projects
 
