@@ -10,7 +10,9 @@ description: "A running log of Field Operations changes (Sales Ops, CS Ops, Chan
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by both fiscal year/quarter and the bi-weekly Field Ops release date. It was started in Q3-FY22 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page] (link TBD). 
+The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly Field Ops release milestone/epic. It was started in Q3-FY22 and the most recent changes are at the top of this page. 
+
+To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page] (link TBD). 
 
 ## Q3-FY22 
 
