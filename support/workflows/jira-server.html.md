@@ -232,7 +232,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
 ### Common Troubleshooting Steps for Jira tickets
 
-1. Please check out the common known errors listed in our documentation: [Jira | Troubleshooting](https://docs.gitlab.com/ee/integration/jira/#troubleshooting) and [Troubleshooting your DVCS connection](https://docs.gitlab.com/ee/integration/jira/dvcs.html#troubleshooting-your-dvcs-connection)
+1. Please check out the common known errors listed in our documentation: [Jira - Troubleshooting](https://docs.gitlab.com/ee/integration/jira/#troubleshooting) and [Troubleshooting your DVCS connection](https://docs.gitlab.com/ee/integration/jira/dvcs.html#troubleshooting-your-dvcs-connection)
 1. Clarify with customers with integration they are referring to - we have GitLab Jira Integration and Jira Development Panel integration. 
 1. It is also helpful to get their Jira version - particularly: Cloud or Server? Is Server which version? (Note: 8.14 later [links differently](https://confluence.atlassian.com/adminjiraserver/linking-gitlab-accounts-1027142272.html))
 1. Check their configuration, walk through the steps. 
