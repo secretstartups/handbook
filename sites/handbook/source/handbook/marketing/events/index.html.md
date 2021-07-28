@@ -30,7 +30,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
-### Legal verbiage that should be included in all event contracts thoughout FY21
+### Legal verbiage that should be included in all event contracts thoughout FY22
 
 - This language is what we should be adding to supplier agreements (when agreeing on their template):
   - "Termination for Convenience. GitLab may terminate this Agreement, any SOW or Order, or all at any time, for no reason or for any reason, upon notice to Vendor. Upon receipt of notice of such termination, Vendor shall inform GitLab of the extent to which it has completed performance as of the date of the notice, and Vendor will collect and deliver to GitLab whatever Work Product then exists, if applicable. GitLab will pay Vendor for all Work acceptably performed through the date of notice of termination, provided that GitLab will not be obligated to pay any more than the payment that would have become due had Vendor completed and GitLab had accepted the Work. GitLab will have no further payment obligation in connection with any termination. Upon termination or expiration of this Agreement, Vendor shall return or destroy any GitLab Confidential Information and provide certification thereof."
