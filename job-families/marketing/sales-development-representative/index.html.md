@@ -150,6 +150,44 @@ The SDR Team Lead is a [grade 6](/handbook/total-rewards/compensation/compensati
  
 * Extends that of the SDR Junior SDR, SDR (Intermediate) or Senior SDR requirements
 * Previous experience working with Public Sector based customers or teams
+
+### SDR (Land)
+
+SDR (Land) focuses on acquiring new logos.
+ 
+#### SDR (Land) Responsibilities
+
+* Extends that of the Junior SDR, SDR (Intermediate) or Senior SDR responsibilities
+* Leading account planning efforts and creating in-depth account plans for top focus accounts
+* Qualifying and converting marketing-generated leads (MQLs) and inquiries into sales accepted opportunities (SAOs)
+* Aligning prospecting efforts to the field, corporate, strategic and account based marketing campaigns
+* Educating prospects and making positive impressions
+* Generating awareness, meetings, and pipeline for sales
+* Collaborating with peers, marketing, and sales teams
+  
+#### SDR (Land) Requirements
+
+* Extends that of the SDR Junior SDR, SDR (Intermediate) or Senior SDR requirements
+* Meet monthly quota
+* Maintain a high sense of autonomy to focus on what's most important
+* Participate and lead planning, execution, and cross-functional meetings
+* Participate in initial qualifying meetings, discovery calls, and follow-up conversations
+* Maintain exceptional Salesforce hygiene, logging all prospecting activity, conversations, and account intelligence uncovered
+* Generate IACV Pipeline
+  
+### SDR (Expand)
+
+SDR (Expand) focuses on existing customers and their subsidiaries.
+ 
+#### SDR (Expand) Responsibilities
+
+* Extends that of the Junior SDR, SDR (Intermediate) or Senior SDR responsibilities
+* creating qualified meetings and sales accepted opportunities with net new customers in the Large - Enterprise Segment
+* focus on account-centric, persona-based outreach, strategic outbound prospecting, social selling and creative outreach to educate and create internal champions that align with the GitLab value drivers and use cases.
+ 
+#### SDR (Expand) Requirements
+
+* Extends that of the SDR Junior SDR, SDR (Intermediate) or Senior SDR requirements
  
 ## Performance Indicators
  
