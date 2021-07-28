@@ -49,17 +49,17 @@ The Senior Talent Brand Manager is a [grade 7](/handbook/total-rewards/compensat
 
 ## Levels 
 
-### Project Manager, Enablement
+### Progam Manager, Enablement
 
-The Project Manager, Enablement reports to the Manager, Global Enablement.
+The Progam Manager, Enablement reports to the Manager, Global Enablement.
 
-#### Project Manager, Enablement Job Grade
+#### Progam Manager, Enablement Job Grade
 
-The Project Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Project Manager, Enablement Responsibilities
+#### Progam Manager, Enablement Responsibilities
 
-The Project Manager, Enablement Responsibilities fall into four distinct buckets:
+The Progam Manager, Enablement Responsibilities fall into four distinct buckets:
 
 * Operations
    * Work with the Manager, Enablement and systems/tools team to develop bespoke reporting for the TA function
@@ -82,7 +82,7 @@ The Project Manager, Enablement Responsibilities fall into four distinct buckets
    * Play a part in future growth conversations, develop a strong relationship with finance to be able to understand the future plan for the org and how TA can play its part it fuelling the growth of the organization 
    * With a continued focus on Diversity, inclusion and belonging, the Enablement Analyst will ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
 
-#### Project Manager, Enablement Requirements
+#### Progam Manager, Enablement Requirements
 
 * Experience working in a fast-paced environment
 * A strong track record of successful project execution and strong project management skills
