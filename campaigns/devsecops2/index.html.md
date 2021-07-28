@@ -43,16 +43,24 @@ Always On Lead Generation:
 #### Target Persona 1:
 
 * **Level:** Manager or Director
-* **Function:** Application Security (or simply Security). In large organizations, Application Security is a dedicated team or person. In smaller IT shops a group or individual security person may be responsible for application security along with network security, security operations, and more.
-* **Challenges we're trying to solve with this campaign:** Security struggles to fit monolithic scanning methods into an iterative, agile development environment. Security is like a square peg in the round hole of DevOps.
-    1) Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
-    2) Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
-    3) Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
-    4) Dependency backlog continues to grow (technical debt)
+* **Function:** Application Security (may be simply Security in small orgs). In large organizations, Application Security is a dedicated team or person. In smaller IT shops a group or individual security person may be responsible for application security along with network security, security operations, and more.
+* **Challenges we're trying to solve with this campaign:** 
 
-  We want to show the security person that if they will partner with development and enable developers to find and fix more vulnerabilities on their own, the organization can not only reduce risks but can actually improve software development velocity.
+Security struggles to fit traditional application scanning methods into an iterative, agile development environment. 
+  1) Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
+  2) Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
+  3) Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
+  4) Dependency backlog continues to grow (technical debt)
+  5) Integrating incumbent scanners into CI pipelines is complex with often unpredictable app sec license costs.
+
+Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. Complexity is becoming an even bigger challenge!
   
-* **How GitLab helps:** Developers already love GitLab and GitLab's CI solution is industry leading. Security teams can harness that momentum and use GitLab's embeded security scans to fix vulnerabilities at the point of code change. With every code commit (code change), GitLab automatically scans using a variety of methods (including SAST, DAST, Dependencies, Containers, and License Compliance) before the code ever leaves the individual developer's hands. This approach provides tremendous clarity for the developer empowering them to correct the vulnerabilities he/she just created with their code change. Vulnerabilities that remain after the iterative change/scan/change/scan in dev are visible to the security person, along with seamless transparancy of who created the vuln, where in the code, along with efforts made to document remediation and analysis already done.
+* **How GitLab helps:** Developers already love GitLab and GitLab's CI solution is industry leading. Security teams can harness that momentum and use GitLab's embeded security scans to fix vulnerabilities at the point of code change. With every code commit (code change), GitLab automatically scans using a variety of methods (including SAST, DAST, Dependencies, Containers, and License Compliance, Secrets detection, and fuzz testing) before the code ever leaves the individual developer's hands. This approach provides tremendous clarity for the developer empowering them to correct the vulnerabilities he/she just created with their code change. Vulnerabilities that remain after the iterative change/scan/change/scan in dev are visible to the security person, along with seamless transparancy of who created the vuln, where in the code, along with efforts made to document remediation and analysis already done.
+
+1) We enable the 'shift left' approach to find and fix risks sooner when it's less costly, while improving development velocity. 
+2) For those already wanting to embed security within their CI pipeline, GitLab helps you do it simply, at scale, and with predictable cost.
+
+
 * **Why is GitLab a better solution than competitors:** Security personnel have greater clarity for the vulnerabilities that remain.
    1. By providing the scan results within the merge request pipeline, the developer does not need to change context or use another tool (hence they will actually use this one). The results show vulnerabilities they created - not ones lurking for years in the code or that another developer created. They have more incentive to fix the ones they know they created. 
    2. The single source of truth rapidly gets dev and sec on the same page with regard to the finding and its status
@@ -61,16 +69,16 @@ Always On Lead Generation:
 
 #### Target Persona 2:
 
-* **Level:** 
-* **Function:** 
+* **Level:** Practitioner
+* **Function:** Application Security
 * **Challenges we're trying to solve with this campaign:**
 * **How GitLab helps:**
 * **Why is GitLab a better solution than competitors**
 
 #### Target Persona 3:
 
-* **Level:** 
-* **Function:** 
+* **Level:** Manager
+* **Function:** Application Development or DevOps
 * **Challenges we're trying to solve with this campaign:**
 * **How GitLab helps:**
 * **Why is GitLab a better solution than competitors**
@@ -129,6 +137,15 @@ Always On Lead Generation:
 
 
 #### Manager (Security)
+{: #buyer-journey-ic}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+| Stage | Asset 1 | Asset 2| Asset 3 |
+| ------ | ------ | -------| -------|
+| Awareness|  |  | |
+| Consideration |  |  | |
+| Purchase| | | |
+
+#### Manager (Development or DevOps)
 {: #buyer-journey-ic}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 | Stage | Asset 1 | Asset 2| Asset 3 |
