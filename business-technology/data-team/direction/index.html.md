@@ -17,6 +17,12 @@ title: "Data Team Direction"
 
 ### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
 
+FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with Fusion Teams, the first major release of the Trusted Data solutions and Sales Funnel Dashboard, integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
+
+- [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
+- [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
+
+
 |  Theme | Objective | Notes and Key Results |
 | :--- | :--- | :--- |
 | Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. | Rolled-out Fusion Teams, XMAU Handbook Page, Gainsight SM Usage Data, and Marketing Data Mart |
