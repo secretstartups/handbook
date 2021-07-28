@@ -43,3 +43,6 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 
 #### Current Office Hours 
 - Sales Systems currently holds office hours every Wednesday at 10:30 AM PST
+
+### Field Operations Changelog 
+For a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk since Q3-FY22, see the [Field Ops Changelog page] (link TBD). 
