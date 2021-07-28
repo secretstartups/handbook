@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Super Sonics"
-description: "This page outlines the Supre Sonics Salesforce Automation. It includes both information for the end user, answers frequently asked questions as well as highlights the location of the related techincal logic in the code."
+title: "Dynamic Quote Templates"
+description: "This page outlines the Dynamic Quote Templates Automation in Salesforce that supported the Super Sonics project. It includes both information for the end user, answers frequently asked questions as well as highlights the location of the related techincal logic in the code."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -11,26 +11,24 @@ description: "This page outlines the Supre Sonics Salesforce Automation. It incl
 
 
 ## Related Handbook Sections 
-- [TBD](DD HB Page)
-- [TBD](Internakl HB Page)
-- [TBD](SOps HB Page)
+- Related Handbook Page links coming post deployment
 
 
-## Super Sonics Automation
-The Super Sonics automation is a controlled flow that combines user input, automatically detected qualities of the quote and historical selections in order to automatically produce quote templates with the desired legal language on them as well as syncing with zuora in order to control the actualy behavior of the system. There are a number of features that can either be selected or are automatically added. For more information on these features please see our internal handbook here - (link coming soon)
+## Dynamic Quote Templates Automation
+The Dynamic Quote Templates Automation, also known as Super Sonics, is a controlled flow that combines user input, automatically detected qualities of the quote and historical selections in order to automatically produce quote templates with the desired legal language on them as well as syncing with zuora in order to control the actualy behavior of the system. There are a number of features that can either be selected or are automatically added. For more information on these features please see our internal handbook here - (link coming soon). 
 
 
 ## FAQ
 - How do I add language to the quote? 
-   - There are specific fields on the quote layout, that either begin with `[Language]` or `[Cloud Lic]` that a user can manually select to have added to the quote
+   - There are specific fields on the quote layout, that either begin with `[Language]` or `[Cloud Lic]` that a user can manually select to have language added to the quote
 
 - I clicked one of the `[Language]`/`[Cloud Lic]` checkboxes and I can't produce the quote
-   - It is possible that you have selected a combination of quote language and line items that are not permitted. In this case you may either recieve an error or you not see that approvals are requiered for your quote. 
+   - It is possible that you have selected a combination of quote language and line items that are not permitted. In this case you may either recieve an error or you may see that approvals are required for your quote. 
    - If you recieve an error please review the error language and attempt to resolve by deselecting the mentioned checkboxes as needed. 
-   - If approvals are requiered you can review the approvals that are needed in the quote approvals section. 
+   - If approvals are required you can review the approvals that are needed in the quote approvals section. 
 
 - I need language added to the tempalte that the automation will not permit me to add - how do I get it added? 
-   - In the event that you need language added to the quote that the system is not set up to support please reach out to [Sales Support](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us) for manual assistance. They are able to review and approve these requests as well as assist in overriding the system to produce the requiered quotes. 
+   - In the event that you need language added to the quote that the system is not set up to support please reach out to [Sales Support](/handbook/sales/field-operations/sales-operations/#how-to-communicate-with-us) for manual assistance. They are able to review and approve these requests as well as assist in overriding the system to produce the required quotes. 
 
 - There is language appearing on the quote that I didn't select - how/why? 
    - There are a number of scenarios that SFDC automatically scans for on a quote. For example we scan for MSA's on Quotes. If it's detected that an MSA is associated with a quote we will automatically put MSA language onto the quote.
@@ -47,4 +45,6 @@ The Super Sonics automation is a controlled flow that combines user input, autom
    - `quoteTemplatePlinkoBoard`
    - `quoteTemplatePlinkoBoardHighlightedSkus`
    - `quoteTemplatePlinkoBoardExistingSub`
+   - `quoteTemplatePlinkoBoardExistingMSA`
+   - `quoteTemplatePlinkoBoardGCP`
 - `ZuoraQuoteTrigger`
