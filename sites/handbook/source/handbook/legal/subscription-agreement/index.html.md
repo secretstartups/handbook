@@ -76,7 +76,7 @@ This Subscription Agreement (“Agreement”) is between GitLab Inc. with office
 “Website” means GitLab’s website located at www.gitlab.com and all subdomains, and all content, services, documentation provided on the Website. 
 
 ### 2. SCOPE OF AGREEMENT
-2.1 This Agreement establishes a framework that will enable GitLab to provide Customer with the Software. Software is provided as part of a Subscription, as described in Appendix 1. Software provided as a hosted solution, or Software-as-a-Service (“SaaS Software”), shall be subject to the attached Appendix 2 entitled “SaaS Software”. 
+2.1 This Agreement establishes a framework that will enable GitLab to provide Customer with the Software. Software is provided as part of a Subscription, as described in Appendix 1. Software provided as a hosted solution, or Software-as-a-Service (“SaaS Software”), shall be subject to the attached Appendix 2 entitled “Software as a Service (SaaS) Offering”. 
 
 ### 3. ORDERING PROCESS
 3.1 This Agreement applies to Software that Customer licenses directly from GitLab, a GitLab Affiliate, or from an Authorized Partner. For the avoidance of doubt, in the event Customer purchases from an Authorized Partner, GitLab shall have no obligations to Customer with respect to any terms and conditions outside of this Agreement unless otherwise agreed to in writing between Customer and GitLab. 
@@ -107,7 +107,7 @@ This Subscription Agreement (“Agreement”) is between GitLab Inc. with office
 4.5 Unless otherwise stated herein, termination of this Agreement shall not affect any Subscriptions currently being delivered and this Agreement shall remain in full force and effect until the expiration of the then-current Subscription Term. In the event this Agreement is terminated by Customer in accordance with Section 4.3, GitLab will refund Customer any prepaid Fees for the prorated portion of unused Subscription Term. If this Agreement is terminated by GitLab in accordance with this Section 4, Customer will pay (if applicable) any unpaid Fees covering the remainder of the Subscription Term of all Order Forms, to the extent permitted by applicable law. For the avoidance of doubt, in no event will termination relieve Customer of its obligation to pay any Fees payable to GitLab for the period prior to the effective date of termination.
 
 ### 5. RESTRICTIONS AND RESPONSIBILITIES
-5.1 Customer will not, and will not permit any third party other than Users, to: 
+5.1 Customer will not, and will not permit any third party, to: 
 
 (i) use the Software for any purpose other than as specifically authorized in this Agreement; 
 
