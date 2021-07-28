@@ -102,6 +102,16 @@ AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-
 
 Whenever possible AMAs should be private or publicly [live streamed](/handbook/marketing/marketing-operations/youtube/#live-streaming). Please strive to remain [public by default](/handbook/values/#public-by-default) when hosting an AMA unless it is centered around a topic that is [not-public](/handbook/values/#not-public)
 
+### Process Once Reverse AMA is Setup
+
+1. Determine all the roles for the call.  
+    - Note taker - this role should be assumed by the Business Partner for that group.  If you are the note taker, please reach out to the facilitator to ensure there isn't a concern of confidentiality in the note taker as a presence on the call.
+    - Facilitator - reach out to the facilitator of choice based on regions from the list above
+1. Create follow up actions google doc leveraging the following [template here](https://docs.google.com/document/d/1oTiRS99IokoQ4CQYWalVXzW8BAL3wq8gr1RZFIQAbpI/edit?usp=sharing).
+1. Schedule the follow up call for actions with the leader, DIB team member Candace or Liam and the Business Parther for the group.
+1. Create a confidential slack channel if needed for that Reverse AMA to communicate transparently action items and or ongoing feedback, etc.
+
+
 ## Reverse Ask Me Anything
 
 The Reverse AMA format was launched in Sales with our [Black](https://about.gitlab.com/company/culture/inclusion/#definitions) team members. We wanted to start with this with Black team members to show support and to stand in solidarity, in response to domestic events in the US, and globally. One of our core [values](/handbook/values/) is DIB (Diversity, Inclusion and Belonging), and part of embracing that value means being better [allies](/handbook/communication/ally-resources/). These can be scheduled to facilitate meaningful conversations with any underrepresented group.
