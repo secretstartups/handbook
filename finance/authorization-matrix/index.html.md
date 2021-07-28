@@ -465,3 +465,116 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
 ## Banking Controls
 
 - All accounts are to be established so initiator and approver must be different.
+
+## Authorization Matrix Policy
+
+**Purpose**
+
+This authorization matrix policy (“**_Policy_**”) is to provide procedural guidelines in support of  GitLab Inc.’s (the “**_Company_**”) [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
+
+**Policy Scope **
+
+* All contracts and other agreements entered into on behalf of the Company.  Contracts and other documents including, without limitation, all agreements, non-disclosure agreements, licenses, leases, promissory notes, instruments, assignments, powers of attorney, terms and conditions, memoranda of understanding, letters of intent, settlements, releases, waivers, renewals, amendments, or modifications to existing contracts, claims, disputes, representations, and other similar documents and commitments. For additional information on signing legal documents please see the  [Signing Legal Documents ](https://about.gitlab.com/handbook/finance/authorization-matrix/#signing-legal-documents)section of the handbook. 
+* All contracts must be in writing. Oral contracts are not authorized regardless of whether there is a monetary exchange.
+* The Policy applies to all team members who seek to approve or execute a contract or other transaction on behalf of the Company. 
+* All team members must follow the procedures and comply with the requirements of this Policy with respect to:
+    * the approval and execution of any contract or other transaction to which the  Company is a party; and
+    * the delegation of any signature and approval authority granted by the Company.
+    * Independent contractors and consultants not engaged by the Company through a PEO do not have the authority to bind the  Company.
+
+Separate legal authority is required in many instances to sign documents due to local laws and apply to corporate legal documents, contracts, contractual amendments, purchase orders, etc. The support for these signature approvals are contained in the corporate or similar documents and provides the delegated approval for appropriate corporate functions/individuals. Team members preparing documents that affect one of the Company’s subsidiaries must seek the Tax Team’s input prior to completing the action so as to meet the requirements of local law.
+
+Exceptions to this Policy must be approved by the Chief Financial Officer (the “**_CFO_**”) and the Chief Legal Officer (the “**_CLO_**”) or the CFO’s or CLO’s delegate.
+
+**Primary Authorized Signatories**
+
+The Company’s [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) (“**_Authorization Matrix”_**) outlines the functional  and financial approvals required, and designates team members that are authorized to sign legal documents (“**_Authorized Signatories_**”).  The [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) is a significant part of the Company’s system of internal controls. The Company’s internal control structure is a result of a combination of organizational design policies, processes, financial and nonfinancial performance measurements, and a team member’s awareness of all of these factors. 
+
+The [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) also specifies limitations on approval authority based on Authorized Signatories title or responsibilities in the Company and a maximum dollar amount for types of transactions. 
+
+The [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix) should be referenced when approving expenses, approving payments, legal contracts, bad debt write off, compensation/hiring-non executive, benefit changes, employee travel & entertainment, and transfer of funds among GitLab subsidiaries. 
+
+A team member is not authorized to approve transactions involving amounts in excess of the threshold established for their tier in the hierarchy (or any lesser threshold amount that may be specified in the applicable written Delegation Authority). 
+
+Under no circumstances shall any transaction be divided into two (2) or more increments and approved on an individual basis that could result in altering the required level of approval. If a project has multiple parts it should be considered one project and all expenses should be aggregated together.  Additionally, if a contract or agreement was approved, (the “**_Original Transaction_**”) for a project, transaction  or vendor, at a certain spend threshold and within 60 days of approval, another contract or agreement comes through for the same project, transaction or vendor (the “**_Subsequent Transaction_**”), the team member should add the total spend for the Original Transaction and the total spend for the Subsequent Transaction to determine the combined total spend. The combined total spend amount should be used to determine the approval threshold amount and the contracts/transaction should be resubmitted for additional approvals if needed. 
+
+If any project is expected to exceed the amount originally approved, then additional approvals must be obtained.  
+
+Spending is aligned with budget responsibility. Team members have the obligation, on an ongoing basis, to manage and monitor expenditures to ensure expenditures remain within approved annual plan amounts. 
+
+**Role of Authorized Signatories**
+
+Authorized Signatories are authorized to approve, execute, acknowledge, and deliver, in the name and on behalf of the Company, any and all documents within the scope of their authority that they determine to be necessary or appropriate to carry out the transactions authorized thereby. 
+
+No person may sign any document on behalf of the Company unless such individual is an Authorized Signatory. Authority to sign includes physical signatures, electronic signatures, and clickthrough agreements that acknowledge the acceptance of an agreement to specified terms and conditions.
+
+**Delegation of Authority**
+
+When Authorized Signatories are temporarily unavailable due to vacation, illness, travel, or unforeseen events, their signature and approval authority needs to be delegated to ensure the efficient continuation of  Company operations and business decisions.
+
+For purposes of this Policy:
+
+1. ”**Delegator**” is an Authorized Signatory with authority who delegates their signature and approval authority under this Policy.
+1. ”**Delegatee**” is any appropriate position within the  Company who is delegated signature and approval authority by a Delegator under this Policy.
+
+Delegation of authority not to exceed 90 days in duration is permitted. Written notice of delegation shall be provided by the delegating team member to the CFO, CLO, the Principal Accounting Officer (the “**_PAO_**”) and Director of Legal, Corporate in order for the delegation to be effective.
+
+**Delegation Rules**
+
+Authorized Signatories may delegate signature and approval authority to a Delegatee for approving expense and approving payment, subject to the following limitations and requirements:
+
+1. **The Delegator shall:**
+1. retain and may continue to exercise their authority notwithstanding any delegation of authority to a Delegatee;
+1. remain ultimately accountable for their area of responsibility, including any contracts executed by their Delegatees;
+1. make all delegations with due consideration for the proper segregation of duties; and
+1. ensure that their Delegatee have a full understanding and appreciation of their delegated authority.
+
+1. **Delegatee selection criteria.** Delegation may only be made to a Delegatee:
+1. identified by position and name;
+1. having the expertise to use the delegated authority appropriately and knowledgeably; and
+1. one level below the Delegator within the applicable area in responsibilities. 
+
+**Delegation procedures.** All delegations must:
+1. be submitted  via a confidential issue (“**_Delegation Issue_**”); 
+1. the Delegation Issue  should be created  within 10 business days prior to delegation;
+1. Delegation Issue should be assigned  to Delegatee, CFO, and CLO;
+1. the  Delegation Issue must clearly specify the position and name, duration of the delegation,  limitations on the authority to be granted (such as business area, contract type, fiscal amount, and any approval and co-signature requirements); and
+1. be approved by the CFO and CLO.  
+
+1. **Delegation limitations.** All delegations:
+1. are subject to the terms of this Policy;
+1. are limited by the scope of the Delegator’s authority, and further subject to any restrictions specified by the Delegator in the Delegation Issue ; and
+1. automatically expire in 90 days unless the Delegation Issue specifies an earlier expiration date. For an expired delegation to continue, the Delegator must reauthorize such delegation by submitting another Delegation Issue.
+
+Any individual who is in an acting or interim position shall have the right to exercise the signature and approval authority of such position. 
+
+1. **Revocation of Authority. **A delegation of authority may be revoked or modified at any time in writing by:
+1. The Delegator granting such authority; and
+1. The Company’s Chief Executive Officer, CLO, or  CFO.
+
+The revoking individual must immediately notify the CFO, CLO, PAO and Director of Legal, Corporate in writing of any such revocation via the Delegation Issue for such delegation.
+
+**Responsibilities of Authorized Signatory**
+
+Each Authorized Signatory (including Delegatees) is responsible for:
+
+1. Ensuring that they have the appropriate authority to execute and approve a document.
+1. Acting within the limits of their power and delegation.
+1. Exercising their authority with care and diligence. The Authorized Signatory should undertake appropriate investigation and inquiry to confirm that the contract and any commitments made on behalf of the  Company are:
+1. based on accurate information;
+1. being made for a proper purpose and in the best interest of the Company;
+1. capable of being lawfully undertaken by the Company;
+1. in compliance with other Company policies; and
+1. not in conflict with existing Company agreements.
+1. Confirming that all other reviews and approvals required by applicable Company policies have been obtained prior to contract execution.
+
+This Policy is not exhaustive. The Company expects all Authorized Signatories to exercise common sense and good judgment in carrying out the decision-making process, such as when deciding the precise consultation and approval route for a particular contract or other transaction. If any contract is of an unusual nature or outside the normal course of  Company activities and practices, the Authorized Signatory should elevate such contract to a higher organizational level for review and decision, even if the contract is within the Authorized Signatory’s scope of authority. In cases of doubt, for example in regard to novel, potentially contentious, or higher risk matters, any decisions must be escalated to the CFO, irrespective of monetary value.
+
+**Compliance with Other Policies**
+
+Signature and approval authority does not override other safeguards in the contracting process. Any approval and execution of a contract must comply with all relevant policies, internal controls, and guidelines of the  Company, including those procedures and forms specific to the nature of the activity. 
+
+**Conflicts of Interest**
+
+All team members are responsible for ensuring that the Company does not enter into a contract or other transaction that presents a real or perceived conflict of interest. All team members shall comply with the Company’s [Code of Business Conduct and Ethics Policy](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) and [Related Party Transactions Policy ](https://about.gitlab.com/handbook/legal/gitlab-related-party-transactions-policy/)when reviewing, approving, or otherwise exercising their authority with respect to such contract or other transaction. If a real or perceived conflict of interest does arise, the issue must be resolved prior to entering into such contract or other transaction, as required by the <span style="text-decoration:underline;">[Company’s Code of Business Conduct and Ethics Policy](https://about.gitlab.com/handbook/legal/gitlab-code-of-business-conduct-and-ethics/)</span>. 
+
