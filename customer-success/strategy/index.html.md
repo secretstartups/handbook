@@ -15,5 +15,5 @@ description: "Create a company-wide customer success approach, providing an enga
 
 ### Q3 and Q4 of Fiscal Year 2022
 
-(Current link for a document (GitLab internal only).)[https://docs.google.com/document/d/1urqPBu_0aQpYPRExpC6DUffjkBInXP8HntH49E1JKdA/edit] This will be converted to a handbook page by 2021-08-01.
+[Current link for a document (GitLab internal only)](https://docs.google.com/document/d/1urqPBu_0aQpYPRExpC6DUffjkBInXP8HntH49E1JKdA/edit)This will be converted to a handbook page by 2021-08-01.
 
