@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Wayne Haber's README"
-job: "Engineering Director Threat Management"
+job: "Engineering Director"
 ---
 
 ### On this page
