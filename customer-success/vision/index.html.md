@@ -23,8 +23,12 @@ Deliver faster time-to-value and customer-specific business outcomes with a worl
 
 ## High-Level Visual of Customer Journey
 
+### Video Introduction 
 [Video Introduction to Customer Journey and Process Framework](https://youtu.be/LIroDgZOWLc)
+
 ![GitLab Customer Journey](images/customer-journey.png)
+
+[A pdf of Customer Journey for viewing.](images/gitlab-customer-journey.pdf)
 
 ## High-Level Visual of GitLab Adoption Journey
 
