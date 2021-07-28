@@ -167,7 +167,7 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
 1. Comment out to disable HTTP.
 
- ```
+   ```
     <!--
            <Connector port="8080" relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
                       maxThreads="150" minSpareThreads="25" connectionTimeout="20000" enableLookups="false"
