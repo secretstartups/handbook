@@ -15,13 +15,13 @@ description: "A Guide for new team members"
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Welcome!
 {: #tanuki-orange}
 
-Hello! We could not be more excited to have you here. This page is here to help walk you through what you can expect before and during onboarding as a new team member. 
+Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during onboarding as a new team member. 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
 {: #tanuki-orange}
 
-[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. One of us will be assigned to your Onboarding Issue, and will be there to help guide you as you begin onboarding. 
+[The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A memeber of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
 
 - [Alex Venter, People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
 - [Ashley Jones, Sr. People Experience Associate](https://about.gitlab.com/company/team/#asjones)
