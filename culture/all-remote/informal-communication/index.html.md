@@ -235,7 +235,7 @@ Similar to a coffee chat, a "Juice Box Chat" is a chance for GitLab team members
 
 As we work in an all-remote environment, kids and other household members often show up to calls unannounced, which is just part of working remotely.  However, Juice Box Chats allow us to meet and socialize this way intentionally.  Think a "bring your kid to work day" except in an all-remote company.
 
-You can take a look at the [internal time zones and interests document](https://docs.google.com/spreadsheets/d/1SSeFAMLKWuBZ9Ku32SzorKV_KHW5jTqTVAOovr3HeGM/edit#gid=0) to find a group that might work for you or join our `#kids-juicebox-chats` channel in Slack.
+You can take a look at the [internal time zones and interests document](https://docs.google.com/spreadsheets/d/1SSeFAMLKWuBZ9Ku32SzorKV_KHW5jTqTVAOovr3HeGM/edit#gid=0) to find a group that might work for you or join our `#kid-juicebox-chats` channel in Slack.
 
 ## Team Days and Social Calls
 
