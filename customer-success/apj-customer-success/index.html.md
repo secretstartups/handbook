@@ -63,7 +63,7 @@ Options to engage with the Customer Experience Manager are:
 - GitLab Issue
 - and other accessible GitLab communication tool
 
-In exchange, all APJ Customer Success team members will document, capture and share (internally) all customer relevant information. We refer to the overview as the APJ Team Board - given the customer sensitity and Customer Data sovereignty across different APJ regions and countries, this APJ Team Board is available only to internal GitLabbers.
+In exchange, all APJ Customer Success team members will document, capture and share (internally) all customer relevant information. We refer to the overview as the APJ Team Board - given the customer sensitity and Customer Data sovereignty across different APJ regions and countries, this APJ Team Board is available only to GitLab team members.
 
 The main focus is to efficiently centralise customer related information in one location utilising GitLab Kanban boards and document our work in GitLab Issues. We also share it internally across the APJ CS team as well as utilise the APJ Team Board as a follow up tool to ensure our customers success.
 
