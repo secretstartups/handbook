@@ -130,7 +130,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Has familiarity with B2B and startup tech businesses in China
 - Has a proven ability to build partnerships with and support external groups while coordinating with the internal team, including finance, sales, legal, technical and other team members
 - Has cross-functional and operational experience. This should include direct experience in supporting the operations of different business functions 
-- Can speak and read Mandarin
+- Can speak Mandarin and read Simplified Chinese
 - Can work with some overlap with PST and CST timezones
 
 ## Performance Indicators
