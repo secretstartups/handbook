@@ -89,3 +89,4 @@ As a note, `basic` and `starter` are two different tags for the same plan/SLA.
 | `customer_verified` | We have been able to associate an end-user after requesting they prove their support entitlement |
 | `emergency_customer_verified` | We were able to associate an end-user who is requesting an emergency support after they’ve successfully proven their support entitlement. |
 | `trigger_manual_emergency` | Tells Zendesk to run the emergency processes on the ticket |
+| `enterprise_user` | Specifies the requester of the ticket is an enterprise user |

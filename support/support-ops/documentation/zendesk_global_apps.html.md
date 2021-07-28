@@ -384,6 +384,9 @@ This app looks in Salesforce and GitLab.com for a contact or account based on
 the requestor’s email address and provided GitLab.com username. If it finds a
 GitLab.com account, it will present some basic account information as well as
 the membership of the user (and the corresponding plans of said memberships).
+The app also does checks to determine if the requester is an enterprise user.
+If it determines they are, it displays this in the app's output and auto-tags
+the ticket using the `enterprise_user` tag.
 
 App information:
 
