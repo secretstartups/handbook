@@ -100,17 +100,21 @@ You can learn more in the [Achievement Tracker handbook section]().
 
 ## Department Spotlight 
 
-* {add a bulleted list}
+This month we are highlighting a project the Diversity, Inclusion, & Belonging (DIB) Team is working on around how everything connects. 
 
-
-## Learner Spotlight  
-
-* {add a bulleted list}
+- Can you tell us a little bit about the DIB Story project you have been working on? 
+   - Liam: We are creating a piece which will live in the handbook to show the breadth that DIB has and can ultimately have. We have had some amazing success stories both within the direct DIB team but with team members who truly become extensions of the DIB Team. DIB is everyone's job  and the story shows how this is applicable. 
+- What steps can we take to work towards the DIB Story as a company? 
+   - Liam: I think understanding your role in DIB at GitLab is important and that’s what this will hopefully help with. Being open to learning more about DIB and taking the actions you are comfortable with to help move the needle. Whether thats ensuring you have more coffee chats to ensure you are bringing in diverse perspectives into your work or leading a TMRG, these actions all help achieve the ultimate goal of creating an environment where everyone belongs. 
+- What is the ultimate goal of implementing the DIB Story?  
+   - Liam: That people will see how a spark of an idea can influence Diversity, Inclusion and Belonging. To show the organisation how big the DIB team is when everyone gets involved . To encourage people to use there voice in what way they are comfortable to help influence the DIB Journey. 
+- Are there resources where team members can learn more about this? 
+   - Liam: This will soon be a handbook page but also the [DIB page](/company/culture/inclusion/) has lots of information on how you can get involved more with DIB at Gitlab. 
 
 
 ## Learning at GitLab  
 
-When it comes to learning, maybe you aren't sure where to start. Here are some great places: 
+When it comes to learning, maybe you aren't sure where to start. Here are some great options: 
 
 * Set aside 2 hours per week to work on personal development
 * [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway)
