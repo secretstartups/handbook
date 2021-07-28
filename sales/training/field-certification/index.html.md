@@ -20,6 +20,7 @@ Note: This certification program is different from resources like other GitLab c
 - [GitLab Certifications](/handbook/people-group/learning-and-development/certifications/)
 - [GitLab Technical Certifications](/handbook/customer-success/professional-services-engineering/gitlab-technical-certifications/)
 
+
 ### Purpose of the Field Certification Program
 Certification programs allow us to validate GitLab skills and knowledge, recognize individual mastery, and motivate continuous learning and skills growth all aligned to expectation setting and performance discussions.
 
@@ -60,13 +61,7 @@ To achieve GitLab “certified” status, candidates must complete both the onli
 ![field-cert-badges](/handbook/sales/training/field-certification/field-cert-badges.png)
 
 ## Roadmap
-Alpha testing for the below courses will take place in FY22Q2:
-- Account Planning for Strategic Account Leaders
-- The Required 7 for Account Executives: Practical Assessment  
-- Demo Skills with Demo2Win 
-- Executive Business Reviews for Technical Account Managers 
-
-This is a roadmap of what to expect in the next quarter, but do not wait to be assigned courses. You can search and consume courses on your own schedule by searching in [GitLab Learn](https://gitlab.edcast.com/) our learning experience platform.  
+This is a roadmap of what is coming up, but do not wait to be assigned courses. You can search and consume courses on your own schedule by searching in [GitLab Learn](https://gitlab.edcast.com/) our learning experience platform.  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvjB6E9JlplzwqBHVv2fFGAEGZwqjg4AZQO-p_DqjX7znjZGOC_q2-d2xCbwr2LbfXCmyOvVxcirYb/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -83,6 +78,23 @@ Additional deeper dive customer use case training focused on **how to sell GitLa
 - Proof Points
 - Competitive Comparisons
 - Application Exercise
+
+#### GitLab Use Cases Overview 
+
+The GitLab use cases help define the categories of related features with a **business value** narrative. In other words, why are customers buying GitLab and what do they think that we offer. You can read more about each of our use cases by navigating to the Product navigation menu at the top of this page or from anywhere on [about.gitlab.com](https://about.gitlab.com/).
+
+* [Source Code Management](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
+* [Continuous Integration and Deployment/Delivery (CI/CD)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+* [Auto DevOps](https://about.gitlab.com/stages-devops-lifecycle/auto-devops/)
+* [Security and DevSecOps](https://about.gitlab.com/solutions/dev-sec-ops/)
+* [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/)
+* [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)
+* [GitOps and Infrastructure-as-Code](https://about.gitlab.com/solutions/gitops/)
+
+There are also resources available to cater to the size of customer and their needs.
+
+* [Small Business](https://about.gitlab.com/small-business/)
+* [Enterprise](https://about.gitlab.com/enterprise/)
 
 Currently available courses include the following:
 
