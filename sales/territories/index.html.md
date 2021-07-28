@@ -221,59 +221,59 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 #### EMEA
 
-| Sub-Region | Area | **Territory Name** | Sales | FMM
-| ---------- | ---- | -------------- | ----- | ----- | 
-|	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas	| Kristine Setschin |
-|	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	| Kristine Setschin 
-|	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	| Kristine Setschin |
-|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Hans Frederiks	| Kristine Setschin |
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Hans Frederiks	| Kristine Setschin |
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Hans Frederiks	| Kristine Setschin |
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Hans Frederiks	| Kristine Setschin |
-|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Hans Frederiks	| Kristine Setschin |
-|	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	| Kristine Setschin |
-|	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Hans Frederiks	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Hans Frederiks	| Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Hans Frederiks	| Kristine Setschin |
-|	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	| Kristine Setschin |
-|	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	| Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	| Kristine Setschin 
-|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	| Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	| Kristine Setschin |
-|	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	| Kristine Setschin |
-|	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	| Kristine Setschin |
-|	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	| Kristine Setschin |
-|	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	| Kristine Setschin |
-|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Hans Frederiks	| Kristine Setschin |
-|	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	| Kristine Setschin |
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Hans Frederiks	| Kristine Setschin |
-|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Kristine Setschin |
-|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	| Kristine Setschin |
-|	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	| Kristine Setschin |
-|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Hans Frederiks	| Kristine Setschin |
-|	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	| Kristine Setschin |
-|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Hans Frederiks	| Kristine Setschin |
-|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Hans Frederiks	| Kristine Setschin |
-|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Hans Frederiks	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	| Kristine Setschin |
-|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Hans Frederiks	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Chris Willis	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London SE	|	Conor Brady	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London SW	|	Conor Brady	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London W	|	Conor Brady	| Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London WC	|	Conor Brady	| Kristine Setschin |
-|	UKI	|	R	|	MM-EMEA-UKI-R	|	Daisy Miclat	| Kristine Setschin |
+| Sub-Region | Area | **Territory Name** | Sales | ISR | FMM |
+| ---------- | ---- | -------------- | ----- | ----- | ----- |
+|	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas | Shay Fleming | Kristine Setschin |
+|	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	| Shay Fleming | Kristine Setschin 
+|	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	| Shay Fleming | Kristine Setschin 
+|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London SE	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London SW	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London W	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London WC	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	R	|	MM-EMEA-UKI-R	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
 
 ### Mid-Market First Order
 
