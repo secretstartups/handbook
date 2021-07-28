@@ -3,6 +3,8 @@ layout: handbook-page-toc
 title: Coupa FAQ
 ---
 
+{::options parse_block_html="true" /}
+
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
@@ -85,13 +87,20 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 - Here are some useful links with information on the Coupa Supplier Portal: 
    - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal) 
    - [https://www.supplier.coupa.com/help](https://supplier.coupa.com/help/)
+   - [https://www.supplier.coupa.com/help/creating-an-account-with-coupa](https://supplier.coupa.com/help/creating-an-account-with-coupa/)
    
 - Chat with Coupa Support
    - You can chat with Coupa Support to get a quick response or resolution to your question/issue. Click on the "Chat with Coupa Support" button located in the lower right corner of any screen (see below screenshot).
    - If there's no Support Agent available, you can submit a case by providing the subject of your question/issue and a detailed description. You will receive confirmation that your case was submitted and logged. A Support Agent will respond when available. 
 
    ![coupa-image-1](/handbook/finance/procurement/coupa-faq/CoupaSupportChat.png) 
-   
+
+
+
+
+
+- Suppliers can also email Coupa Support Team (supplier@coupa.com).
+
 
 ### Do suppliers need to set-up a CSP account, or will this be done for them?
 
@@ -106,3 +115,35 @@ Once we're live (June 1st), all new Purchase Orders and associated invoices will
 ### Do suppliers receive purchase orders via e-mail if they select cXML as the transmission method?
 
 - If they select cXML as your transmission method, they will not receive purchase orders via e-mail. The cXML links directly between the supplier's system and GitLab's system.
+
+## COUPA PAY
+
+### What is Coupa Pay?
+
+- Coupa Pay is a digital payments program to pay your invoices. You will be able to track and manage all your accounts receivable in one place and obtain instant access to every payment and associated remittance advice.
+- Below is a useful link providing more information regarding Coupa Pay:
+   - [https://supplier.coupa.com/gitlab-payment](https://supplier.coupa.com/gitlab-payment)
+
+### How do suppliers register for Coupa Pay?
+
+- Suppliers will need to set up their Remit-To account in Coupa. It can be done during the initial onboarding process or via the Coupa Supplier Portal (CSP).
+- Below are some useful Coupa links providing more information regarding setting up Remit-To accounts:
+   - [https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Administer_the_CSP/06_View_and_Manage_Remit-to_Information)
+   - [https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments](https://supplier.coupa.com/coupa-pay-help/getting-set-up-for-online-payments)
+   - [https://supplier.coupa.com/help/remit-to-improvements](https://supplier.coupa.com/help/remit-to-improvements)
+
+<div class="panel panel-warning">
+**IMPORTANT NOTES**
+{: .panel-heading}
+<div class="panel-body">
+
+- Avoid using any special characters when entering Remit-To Address.
+- The currency of your bank account has to match the currency of your invoices.
+
+</div>
+</div>
+
+If there are any issues with setting up a Remit-To account, please email Coupa Support Team (supplier@coupa.com) for assistance.
+
+
+{::options parse_block_html="false" /}
