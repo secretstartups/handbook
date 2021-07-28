@@ -21,6 +21,7 @@ FY22-Q1 was a very important quarter for the Data Team because the team complete
 
 - [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
 - [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
+- [FY22-Q1 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/8281)
 
 
 |  Theme | Objective | Notes and Key Results |
@@ -30,6 +31,11 @@ FY22-Q1 was a very important quarter for the Data Team because the team complete
 | Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure | Created v1 of the Quarterly Audit, Shipped Data Pump v1 |
 
 ### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
+
+- [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
+- FY22-Q2 Retrospective `Coming Soon`
+- FY22-Q2 Report Card `Coming Soon`
+- FY22-Q2 Handbook Jamboree  `Coming Soon`
 
 |  Theme | Objective |
 | :--- | :--- | 
