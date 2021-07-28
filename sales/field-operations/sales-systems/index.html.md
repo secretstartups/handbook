@@ -135,24 +135,24 @@ Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD 
 
 Priority for the Sales Systems team is based on two axis, Impact and Urgency.  For a detailed breakdown of how these work, review [this blog post](https://www.bmc.com/blogs/impact-urgency-priority/#).  Priority is used by the team when planning to identify those stories which have a higher business impact and urgency.
 
-# Impact
+### Impact
 
 Impact defines how large of an impact (positive or negative) the change proposed in the issue will make for our business.  Impact is classified as High, Medium, and Low.Negative impact examples include system level outages due to issues or missing functionality to support business processes.  Postive impact can be in terms of increased revenue or less time spent by users performing repetitive actions.  A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reservered for OKRs and other company wide initiatives.
 
-# Urgency
+### Urgency
 
 Urgency represents how quickly this change is needed by the business stakeholders.  High urgency means the issue should be addressed by a known due date in the next 30 calendar days, Medium means the issue should be addressed some time in the next 90 days, and Low urgency can be resolved as capacity allows. 
 
-# Priority
+### Priority
 
 Combining the two axis above results in the below priority matrix.
 
-| | **Impact** | **High** | **Medium** | **Low** |
-| ------ | ------ | ----- | ----- | -----	|
-| **Urgency** | | | |
-| **High** | | Priority:High | Priority:High | Priority:Medium | 
-| **Medium** | | Priority:High | Priority:Medium | Priority:Medium |
-| **Low** | | Priority:Medium | Priority:Low | Priority:Low |
+
+| **Impact** / <br/> **Urgency** | **High** | **Medium** | **Low** |
+| ------ | ----- | ----- | -----	|
+| **High** |  `Priority:High` | `Priority:High` | `Priority:Medium` | 
+| **Medium**  | `Priority:High` | `Priority:Medium` | `Priority:Low` |
+| **Low** |  `Priority:Medium` | `Priority:Low` | `Priority:Low` |
 
 
 
