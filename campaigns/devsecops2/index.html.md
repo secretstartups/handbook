@@ -63,7 +63,7 @@ While developers and DevOps teams like to use GitLab for security, the security 
    * **simplicity** - less tool integration and maintenance, one predictable cost
    * earlier **visibility** into risk by scanning earlier and using single source of truth between dev and sec
    * greater **control** over the security of the SDLC through use of one platform with end-to-end policies and auditability.  
-   
+
 
 * **Why is GitLab a better solution than competitors:** 
 1. For those struggling to 'shift left', GitLab can provide a path of least resistence: Developers already love GitLab and Security teams can harness that momentum to quickly scale their app sec program while adding defense-in-depth of multiple scan types (SAST, DAST, Dependencies, Containers, and License Compliance, Secrets detection, and fuzz testing) built-in and automatically applied. Security is more efficient with one UI to see all findings in one place, along with details about the vulnerabilities and their remediation efforts.  
@@ -94,7 +94,7 @@ Recent software supply chain attacks are raising awareness of the need for great
 * **How GitLab helps:** 
    * earlier **visibility** into risk by scanning earlier and using single source of truth between dev and sec
    * greater **control** over the security of the SDLC through use of one platform with end-to-end policies and auditability.  
-  
+
 * **Why is GitLab a better solution than competitors:**
 1. For those struggling to 'shift left', GitLab can provide a path of least resistence: Developers already love GitLab and Security teams can harness that momentum to quickly scale their app sec program while adding defense-in-depth of multiple scan types (SAST, DAST, Dependencies, Containers, and License Compliance, Secrets detection, and fuzz testing) built-in and automatically applied. 
 2. GitLab can help Security be more efficient with one UI to see all findings in one place, along with details about the vulnerabilities and their current remediation efforts. The A-F grading scale on the Security Dashboard helps security quickly identify projects with the most risk.
@@ -106,33 +106,35 @@ Competitive solutions require substantial set-up and maintenance to integrate sc
 
 #### Target Persona 3:
 
-* **Level:** Manager
-* **Function:** Application Development or DevOps
-
-The developer cares about security but does not want to become a security expert. Their primary driver to write secure code is to protect their personal/professional reputation. They don't want to be the one that brings their company down via vulnerable code that they wrote. At the same time, they are goaled mostly on quickly turning out code that meets their users' requirements. Often they are not measured on security flaws. Security can seem like a necessary nuisance. Tools that fit within their workflow, without context-switching are most acceptable. The clarity GitLab provides by reporting vulnerabilities at code commit is helpful.
+* **Level: Manager**
+* **Function: Application Development or DevOps**   
+The developer cares about security but does not want to become a security expert. Their primary driver to write secure code is to protect their personal/professional reputation. They don't want to be the one that brings their company down via vulnerable code that they wrote. At the same time, they are goaled mostly on quickly turning out code that meets their users' requirements. Often they are not measured on security flaws. Security can seem like a necessary nuisance. Tools that fit within their workflow, without context-switching are most acceptable. The clarity GitLab provides by reporting vulnerabilities at code commit (changes they just made, not someone else's) is helpful.
 
 
 * **Challenges we're trying to solve with this campaign:** 
 
-Security struggles to fit traditional application scanning methods into an iterative, agile development environment. 
+Security is important but we need new tools/methods in order to fit it into an iterative, agile development environment. Traditional app sec frustrates development efforts:
   1) Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
   2) Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
   3) Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
-  4) Dependency backlog continues to grow (technical debt)
-  5) Integrating incumbent scanners into CI pipelines is complex with often unpredictable app sec license costs.
+  4) Security finds everything - but too late - it becomes technical debt to go back and fix later (and potential liability too).
+  5) Some security teams actually want developers to use the security scanners (like Fortify) directly!
 
-Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. Complexity is becoming an even bigger challenge!
+Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also protecting the software supply chain. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. I have a feeling things will get more complex with more people looking over my shoulder and more controls hindering my development efforts.
   
-* **How GitLab helps:** Developers already love GitLab and GitLab's CI solution is industry leading. Security teams can harness that momentum and use GitLab's embeded security scans to fix vulnerabilities at the point of code change. With every code commit (code change), GitLab automatically scans using a variety of methods (including SAST, DAST, Dependencies, Containers, and License Compliance, Secrets detection, and fuzz testing) before the code ever leaves the individual developer's hands. This approach provides tremendous clarity for the developer empowering them to correct the vulnerabilities he/she just created with their code change. Vulnerabilities that remain after the iterative change/scan/change/scan in dev are visible to the security person, along with seamless transparancy of who created the vuln, where in the code, along with efforts made to document remediation and analysis already done.
+* **How GitLab helps:** 
+   * **simplicity** - I can stick with a tool I already use + less tool integration and maintenance, let's us focus on business needs not tool chains   
+   * earlier **visibility** into risk with all scan results within the MR pipeline where I'm already working. No context switching. And because security teams can see what vulns remain when I'm done, along with remediation efforts, they don't constantly pull me away from my work asking for updates.
+   * **control** is built in. I don't have to hunt for policies. Requirements can be automatically applied via compliant pipelines and exceptions easily tracked.  
 
-1) We enable the 'shift left' approach to find and fix risks sooner when it's less costly, while improving development velocity. 
-2) For those already wanting to embed security within their CI pipeline, GitLab helps you do it simply, at scale, and with predictable cost.
 
+* **Why is GitLab a better solution than competitors:** 
 
-* **Why is GitLab a better solution than competitors:** Security personnel have greater clarity for the vulnerabilities that remain.
-   1. By providing the scan results within the merge request pipeline, the developer does not need to change context or use another tool (hence they will actually use this one). The results show vulnerabilities they created - not ones lurking for years in the code or that another developer created. They have more incentive to fix the ones they know they created. 
-   2. The single source of truth rapidly gets dev and sec on the same page with regard to the finding and its status
-   4. GitLab automatically provides security scans. There is no added work to set these up, no new tools to learn, no context-switching. Comparitively, other build-your-own solutions,  require significant set-up effort. GitLab's AutoDevOps simplifies the set up of all of these scans into one command.
+   1.  GitLab automatically provides security scans, seamlessly helping me find and fix my own security flaws. There is no added work to set these up, no new tools to learn, no context-switching. Comparitively, other build-your-own solutions require significant set-up effort. GitLab's AutoDevOps simplifies the set up of all of these scans into one command.
+   2. By providing the scan results within the merge request pipeline, the developer does not need to change context or use another tool. The results show vulnerabilities they created - not ones lurking for years in the code or that another developer created. It's easier to fix what I'm working on now then when someone asks me weeks later. 
+   3. Built-in fuzz testing makes it easier to apply a pretty advanced method without much learning ramp. It can help me find quality/logic flaws as well.
+   4. Transparency of who changed what/where/when can save me time later when audit comes around asking questions.
+    
 
 
 ### Keyword Research
