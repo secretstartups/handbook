@@ -98,28 +98,7 @@ The account team is comprised of the Strategic Account Leader/Account Executive,
 
 SA owns 1) pre-sales technical evaluation and relationships prior to the initial sale and 2) tier upgrades and new business units (i.e., connected new) within an existing customer. TAM owns 1) post-sales customer relationship and 2) license upgrades within an existing customer.
 
-TAM engagement prior to the sale should occur in the following situations:
-
-1. At the POV completion & presentation meeting when the results are reviewed and the next steps agreed upon
-1. A shared customer issue tracking project has been created that will affect the account long-term
-1. As requested by the SA if the TAM has a specific subject matter expertise relevant to the conversation
-
-SA's will be brought back into a customer account in the following situations
-
-1. Development of expansion plans with the SAL and TAM leading to tier upgrades
-1. A POV, product evaluation, RFP, or security begins for a "new" single team or an enterprise-wide tier upgrade not for renewal purposes
-1. SAs may assist TAMs with an existing customer team on an _exception_ basis.  SA leadership approval is required.
-    1. Customer enablement assistance when specifically requested by the TAM team
-    1. Workshops assistance when specifically requested by the TAM team
-    1. ROI analysis for an existing customer team when requested by the TAM team
-    1. Unless it's for a tier upgrade, presales activities such as POVs and RFPs should be avoided for an existing customer team.  Like with any presales opportunity, these activities should not be offered as a sales tools, but leveraged when a prospect/customer requires these activities as part of their evaluation.
-1. Any Professional Services that are being discussed and may require an SOW
-1. If a TAM is over-committed or unable to support a customer request, the SA may be requested to assist
-1. Support of GitLab days or other on-site evangelism of GitLab at customer sites
-
-- [us-public-sector](https://gitlab.com/gitlab-com/us-public-sector) parent project for all public sector work
-- [account-management](https://gitlab.com/gitlab-com/account-management/) parent project for account-specific work and collaboration with the rest of the sales
-- [customer-success](https://gitlab.com/gitlab-com/customer-success) parent project for Customer Success employee, shared or triage work
+[More information on the transition between Pre-Sales and Post-Sales](/handbook/customer-success/pre-sales-post-sales-transition/)
 
 ## Other Resources
 
