@@ -7,7 +7,7 @@ title: "Team Member Relations"
 
 ### Team Member Relations Specialist
 
-The Team Member Relations Specialist reports to Director, People Ops.
+The Team Member Relations Specialist reports to the Director, Team Member Relations.
 
 #### Team Member Relations Specialist Job Grade
 
@@ -15,28 +15,29 @@ The Team Member Relations Partner is a [grade 5](/handbook/total-rewards/compens
 
 #### Team Member Relations Specialist Responsibilities
 
-* Responds to team members and leaders request for guidance and policy on a broad range of team member relation matters.  
-* Partners with People Business Partners , other teams and People leaders to ensure that Investigations/* Disciplinary processes are handled in a fair, timely manner consistent with local requirements including all documentation.
-* Provides Team Member Relations support, thought partnership, and coaching for all team members and levels of management in the organization on issues including absenteeism, performance, conduct and harassment.
+* Responds to team members and leaders requests for guidance and policy on a broad range of team member relation matters.  
+* Partners with People Business Partners, other teams and People leaders to ensure that Investigations/Disciplinary processes are handled in a fair, timely manner consistent with local requirements including all required documentation.
+* Provides Team Member Relations support, thought partnership, and coaching to all team members and levels of management in the organization on issues including absenteeism, performance, conduct and alleged harassment.
 * Partners with Legal and People Compliance to ensure compliance with policies, practices and applicable employment legislation.
 * Balance a broad range of tasks including the interpretation and development of policies and procedures, facilitating training on key Team Member Relations issues, and contributing to the development and implementation of Team Member Relations programs based on line of business goals and People Group strategy.
 * Identifies process improvement opportunities and policy gaps. 
+* Provides project management expertise while implementing new policies, programs or regulations.  
 
 #### Team Member Relations Specialist Requirements
 
-* Effective communication and problem solving skills.
-* Must exercise confidentiality and discretion in dealing with sensitive, complex and time sensitive employment matters
-* Demonstrates empathy and experience driving inclusive culture.
-* Minimum of 2 year global experience managing team member relation cases.
-* Demonstrated solid judgement and experience assisting risk relative to the business.
-* Experience learning and thriving in a constantly changing Global environment and to cultivate relationships across Global teams.
-* Be a trusted adviser by providing consultation and resolution guidance to promote a positive GitLab culture.
-* Ability to use GitLab
-* Aligns with GitLabs values
+* Strong verbal and written communication and problem solving skills.
+* Must exercise confidentiality and discretion in dealing with sensitive, complex and time sensitive employment matters.
+* Demonstrates empathy and facilitates conflict resolution situations.
+* Minimum of 2 years global experience managing team member relation cases.
+* Demonstrates solid judgement and experience assessing risk relative to the business.
+* Experienced in learning and thriving in a constantly changing Global environment and able to cultivate relationships across Global teams.
+* Must be able to become a trusted adviser by providing consultation and resolution guidance to promote a positive GitLab culture.
+* Ability to use GitLab tools.  
+* Aligns with GitLabs values.  
 
 #### Team Member Relations Partner
 
-The Team Member Relations Partner reports to Director, People Ops.
+The Team Member Relations Partner reports to the Director, Team Member Relations
 
 #### Team Member Relations Partner Job Grade
 
@@ -44,17 +45,17 @@ The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compens
 
 #### Team Member Relations Partner Responsibilities
 
-* Extends that of the Team Member Specialist responsibilities
-* Manage sensitive Team Member relations issues and conduct confidential investigations in partnership with  Legal and People Business Partners.
-* Investigates highly sensitive People issues, including: conducting claimant, witness and accused team member interviews; analyzing data from various internal systems; composing investigation reports; proposing remedial action based on investigation findings. 
-* Coaching of managers through delicate, complex and often confidential work issues.
-* Responsible for owning team members or candidate requests for workplace accommodations. 
-* Creates proactive programs designed to prevent workplace issues/concern
+* Extends that of the Team Member Specialist responsibilities.
+* Manages sensitive Team Member relations issues and conducts confidential investigations. 
+* Investigates highly sensitive People issues, including: conducting team member interviews; analyzing data from various internal systems; composing investigation reports; making a recommendation based on the findings of the investigation, and proposing remedial next steps/actions.   
+* Coaches leaders through delicate, complex and often confidential work issues.
+* Manages the interactive process for team members and candidates who request a workplace accommodation. 
+* Creates proactive programs designed to prevent workplace issues/concerns.  
 
 #### Team Member Relations Partner Requirements
 
-* Extends that of the Team Member Specialist requirements
-* 5+ years’ experience in Employee Relations.
+* Extends that of the Team Member Specialist requirements.
+* 5+ years experience in Employee Relations.
 * Solid understanding  of federal, state or local labor laws.
 * Strong collaboration skills and ability to take direction effectively.
 * Ability to effectively manage and prioritize multiple tasks.
@@ -63,7 +64,7 @@ The Team Member Relations Partner is a [grade 6](/handbook/total-rewards/compens
 
 ### Senior Team Member Relations Partner
 
-The Senior Team Member Relations Partner reports to Director, People Ops.
+The Senior Team Member Relations Partner reports to Director, Team Member Relations
 
 #### Senior Team Member Relations Partner Job Grade
 
@@ -71,26 +72,25 @@ The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/
 
 #### Senior Team Member Relations Partner Responsibilities
 
-* Extends that of the Team Member Relations Partner responsibilities
-* Investigates complex team member concerns that could have significant legal, regulatory, brand,  financial or other risks to GitLab and provide appropriate course of action depending on outcome of investigations.
-* Partner with Legal and PBP on the review and assessment of
+* Extends that of the Team Member Relations Partner responsibilities.
+* Investigates complex team member concerns that could have significant legal, regulatory, brand, financial or other risks to GitLab and provides recommendations for appropriate actions based on the outcome of investigations.
+* Partners with Legal and PBP on the review and assessment of Team Member Relations cases as needed for added context.
 * Provides critical input to the formation, consistent application, and revision of policies across GitLab as we continue to scale.
-* Provide trend data and actionable feedback to legal, HRBP teams, and senior leaders to reduce overall risk in the organization. 
-* Regularly reviews policies, procedures and initiative to ensure they align with applicable regulatory requirements as well as GitLabs’ Values.  
+* Provides trend data and actionable feedback to legal, HRBP teams, and senior leaders to reduce overall risk in the organization. 
+* Regularly reviews policies, procedures and initiatives to ensure they align with applicable regulatory requirements as well as GitLabs’ Values.  
 
 #### Senior Team Member Relations Partner Requirements
 
-* Extends that of the Team Member Relations Partner requirements
-* Degree in Human Resources, Employee Relations, or Employment Law.
+* Extends that of the Team Member Relations Partner requirements.
 * 8+ years of progressive investigatory or employee relations experience.
 * Excellent written and verbal communication and interpersonal skills.
 * Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
-* Ability to interface and partner with People and non-People stakeholders to achieve results
+* Ability to interface and partner with stakeholders to achieve and influence results.
 
 ### Manager, Team Member Relations
 
-The Manager, Team Member Relations reports to Director, People Ops.
+The Manager, Team Member Relations reports to the Director, Team Member Relations.
 
 #### Manager, Team Member Relations Job Grade
 
@@ -98,39 +98,75 @@ The Manager, Team Member Relations is a [grade 8](/handbook/total-rewards/compen
 
 #### Manager, Team Member Relations Responsibilities
 
-* Extends that of the Senior Team Member Relations Partner responsibilities
-* Manages a team of team member relation specialists and managers.
-* Acts as a subject matter expert to provide strategic coaching to management of all levels on addressing a variety of people issues while effectively mitigating business and company risk.
-* Lead department specific and org wide strategic initiatives, soliciting buy in, partnering with cross-functional partners and driving scalable solutions.
-* Establish strategic partnerships and support business units on employee relations concerns, performance management initiatives and change management.
+* Extends that of the Senior Team Member Relations Partner responsibilities. 
+* Manages a team of TMR specialists and partners.
+* Acts as a subject matter expert to provide strategic coaching to management at all levels on addressing a variety of people issues while effectively mitigating business and company risk.
+* Leads department specific and org-wide strategic initiatives, soliciting buy in, partnering with cross-functional partners and driving scalable solutions.
 * Ensure oversight and governance of policies and practices globally, including interpreting and applying understanding of corporate policies and practices, employment laws, and other regulations to provide advice, guidance, or clarification for Team Member Relations inquiries.
-* Analyze data to identify trends, provide insights and make recommendations to stakeholders and cross-functional partners to develop scalable solutions, programs and policies to improve the team member experience.
+* Analyzes data to identify trends, provide insights and make recommendations to stakeholders and cross-functional partners to develop scalable solutions, programs and policies to improve the team member experience.
 
 #### Manager, Team Member Relations Requirements
 
 * Extends that of the Senior Team Member Relations Partner requirements
-* 8+ years of employee relations experience
-* 2+ years of managing a team 
+* 8+ years experience in employee relations
+* 2+ years experience managing a team 
 * Comfortable adapting to change in a fast-paced, global environment
 * Exceptional interpersonal and communication skills
-* Strong analytical skills and experience Google Sheets
-* Ability to prioritize and take ownership of projects
+* Strong analytical and data skills and experience using Google Sheets
+* Ability to prioritize and take ownership of projects and strategic goals.  
+
+### Director, Team Member Relations
+
+The Director, Team Member Relations reports to the VP, People Operations, Technology and Analytics
+
+#### Director, Team Member Relations Job Grade
+
+The Director, Team Member Relations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Team Member Relations Responsibilities
+
+* Extends that of the Manager, Team Member Relations responsibilities. 
+* Oversight and management of the Team Member Relations Team.  
+* Develop our investigation and team member relations processes, policies and objectives in partnership with Legal and People team functions.  
+* Establishes strategic partnerships and supports business units on employee relations concerns, performance management initiatives and change management.
+* Responsible for reporting on and identifying team member relations trends and patterns and utilizing this data to develop and recommend strategic approaches to drive change and mitigate risk to GitLab. 
+* Partner closely with People Business Partners, Legal, Learning and Development, and People Operations and Systems to implement solutions and help scale GitLab. 
+* Ensures adherence to a wide range of practices including recruiting, hiring, performance management and compensation.
+* Designs, facilitates, and scales Manager Training based on data analysis.    
+* Responds to and directly manages highly sensitive investigations, summarizes findings, and provides recommended resolutions to executive and other levels of management when necessary.    
+
+#### Director, Team Member Relations Requirements
+
+* Extends that of the Manager Team Member Relations requirements
+* 10+ years experience in employee relations
+* 5+ years experience managing a team 
+* Solid judgment and experience assessing risk relative to the business
+* Strong communication and critical thinking skills
+* Empathetic compassionate and human
+* Objective, fair, and compliant with local laws and regulations
+* Strong project and change management experience
+* Demonstrated experience learning and thriving in a constantly changing environment.
+* Experience using data to identify insights that drive action
+* Strong analytical/problem-solving skills; ability to communicate complicated solutions in a simple, digestible way with data
+* Experience working with confidential data
+* Desire and enthusiasm to build processes and practices to create and elevate how team members experience their journey at GitLab
 
 ## Performance Indicators
 
-* Team member Case Management
-   * Team member relations team will respond to all requests for assistance from team members within 24 hours. 
+* Team Member Case Management
+   * Team member relations will respond to all requests for assistance from team members within 24 hours. 
    * All cases are resolved in a consistent, fair and unbiased process.  
-   * Identify potential risks to GitLab and escalate to Key Stakeholders for mitigation.
-* Team member Relation Philosophy
-   * All team members are treated with respect and dignity while upholding the values of GitLab. 
-Provide all GitLab team members an avenue to express workplace concerns and to resolve conflicts in a safe and unbiased forum.
+   * Identify and resolve potential risks to GitLab.  
+* Provide all GitLab team members an avenue to express workplace concerns and to resolve conflicts in a safe and unbiased forum.
+   * When surveyed, >90% utilizing the Team Member Relations team report effective interactions and outcomes, and resolutions to their concerns.
+   * Overall employee sentiment is positive (>80%) on the Engagement Survey.
+
 * Collaboration
    * Effective partnership with key stakeholders such as People Business Partners, Legal and People Success.  
 
 ## Career Ladder
 
-The next step in the People Operations job family is not yet defined.
+The next step in the job family is VP, People Operations, or Director, People Business Partner.  
 
 ## Hiring Process
 
