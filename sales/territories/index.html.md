@@ -324,7 +324,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | --- |
 |	Europe Central	|	BeNeLux	|	SMB-EMEA-BeNeLux	|	Vilius Kavaliauskas
 |	EMEA	|	EMEA	|	SMB-EMEA-DE-1	|	Gábor Zaparkanszky
-|	EMEA	|	EMEA	|	SMB-EMEA-DE-2	|	Gábor Zaparkanszky
+|	EMEA	|	EMEA	|	SMB-EMEA-DE-2	|	Veronika Herzberger
 |	EMEA	|	EMEA	|	SMB-EMEA-DE-3	|	Rahim Abdullayev
 |	Europe CEE	|	Eastern Europe	|	SMB-EMEA-Eastern Europe	|	Arina Voytenko
 |	Southern Europe	|	EMEA	|	SMB-EMEA-FR-1	|	Wiam Aissaoui
@@ -336,7 +336,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Camilo Villanueva
-|	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Camilo Villanueva
+|	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Noria Aidam
 
 ### SMB First Order
 
