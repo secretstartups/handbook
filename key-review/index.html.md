@@ -19,7 +19,6 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 1. Understand performance against the plan, forecast and operating model.
 1. Ensure there is tight connection between OKRs and KPIs.
 1. Ensure that progress against OKRs is understood.
-1. Highlight what is going well. 
 
 ## Key Metrics
 
