@@ -23,7 +23,8 @@ The goals of SA process mapping are inclusive of the following:
 - Faster SA onboarding
 - Make more of what we do measurable
 - Hold each other accountable
-- Make it easier to collaborate and iterate on what we dod
+- Make it easier to collaborate and iterate on what we did
+- Create a repeatable process for all SAs to collaborate with our customers
 
 SA process mapping is not meant to restrict creativity, experimentation, or improvement.  As part of the SA Learning Organization, SAs are encouraged to challenge our mental models and focus on solving problems as a team.  If something can be done better, please try it out and share your learnings.  Contribute to our process maps and to the supporting handbook pages.
 
@@ -44,7 +45,7 @@ handbook page.
 
 Simplified process description:
 
-- Ensure that PS Opportunity has already been created by SAL / AE.
+- Ensure that PS Opportunity has already been created by SAL / AE in SFDC.
 - If it a standard (non-customized) service from our [full catalog](https://about.gitlab.com/services/catalog/).
     - SAL / AE to order PS directly from Zuora in SFDC.
 - If standard services do not meet the needs of the customer
@@ -64,25 +65,28 @@ Simplified process description:
     - Do it, it’s fun and educational!
     - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) (200+ pre-answered questions)
 - Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
+- It is critical to ensure we capture the initial time dedicated by the SAs in this process in our SA Activity Capture system (troops) to be able to increase future efficiencies 
 
 ## Generating Licenses
 
 - SAs and SALs no longer have access to the LicenseDot tool.
+- It is recommended that SAs guide prospective and existing customers wanting to self-evaluate additional features via the GitLab Free trial offering for 30 days 
 - In order to support prospects and customers, refer to the [Internal Support](/handbook/support/internal-support/#regarding-licensing-and-subscriptions) processes handbook page.
 
 ## Cross-functional Sales Team Processes
 
 ### Working Agreements
 
-Enterprise Solutions Architects typically support two sales teams made up of Sales Development Representatives, Strategic Account Leaders and Technical Account Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:
+Enterprise Solutions Architects typically support sales teams made up of Sales Development Representatives, Strategic Account Leaders and Technical Account Managers. Commercial Sales Solutions Architects support Mid-Market Account Executives and SMB Customer Advocates in a pooled model. When joining a sales team, establishing working agreements is critical to providing optimal service to the customers as well as the GitLab team. A sample template of working agreements is found below to help facilitate conversation and establish these agreements:
 
 1. **Customer response time for emails and meeting followups** I will always do my best to provide same-day responses to customer inquiries and follow ups unless otherwise noted. I like to provide customers top-notch service, but interruptions can affect that target. I will use my out of office when traveling so customers can expect delayed responses during those times. Feel free to contact me if it's approaching the end of the day and you didn't see me address a customer request. Slack is the easiest way to find me most of the time.
+1. **Delivery Excellence** If the nature of my response requires a top-notch service needing me to contextualise my response in better and higher quality to our customers, I will collaborate with my GitLab sales team and set reasonable timelines for completions. Examples could be customised and tailored summaries of technical guidance as per our documentation (not just a url), suggested reference solutions architectures, and/or integrations with third-party technologies to GitLab. 
 1. **Calendar** Schedule things as necessary right on my calendar during working hours - I'll do my best to keep my calendar up to date. However, if you see only one empty slot for a day or if it looks like the meeting would be back to back with something else, please check with me before confirming dates and times with the customer. If you want me at my best for you, I will need time to prepare and followup. If we schedule back to back, I've found I'm often late to arrive due to the last meeting, flustered as I context shift, lacking answers for known questions, unprepared with demo environments that were altered in the last call, etc.
-1. **Regular communication** A weekly strategy hour-long call with the SA, SAL, SDR and TAM is preferred. If more frequent synchronous communication is desirable or required, we should work together as a team to identify a viable cadence, required attendees, convenient time and agenda for those calls.
-1. **Elevated conversations** The more we focus on value and stay away from very deep technical and troubleshooting conversations, the more I can help you achieve target sales. I'm happy to review and contribute to business plans so we remain in sync.
-1. **Professional Services** I'm happy to recommend and propose services for prospects and customers. I will write the initial SOW and get approvals from the Professional Services team.
-1. **Travel** While strategic enterprise sales absolutely require travel, each day on the road can increase the volume of work and calls on other days of the week as my dialogs with customers often require extensive time commitments to research and model specific customer solutions. Please plan strategically when looking at on-sites, considering that I support at least two sales teams. Additionally, please do what you can to avoid scheduling on-site visits less than one week out to help me be able to commit to family and local things.
-1. **Notes** Unless otherwise directed, call notes will be linked to a Google document from Salesforce. Email communication with customers will also be bcc'd to Salesforce. If you prefer to record notes and actions differently, please let me know what that collaborative method is.
+1. **Regular communication** A weekly strategy hour-long call with the SA, SAL, SDR and TAM is preferred. If more frequent synchronous communication is desirable or required, we should work together as a team to identify a viable cadence, required attendees, convenient time and agenda for those calls. In either of those regular commumications methods, documenting discussion points and agreements is essential.
+1. **Elevated conversations** The more we focus on value and stay away from very deep technical and troubleshooting conversations, the more I can help you achieve target sales. I'm happy to review and contribute to business plans and strategies so we remain in sync.
+1. **Professional Services** After careful assessment of the clients needs to drive faster adoption, I'm happy to recommend and propose required services for prospects and customers. I will write the initial SOW and get approvals from the Professional Services team.
+1. **Travel** While strategic enterprise sales absolutely require travel, each day on the road can increase the volume of work and calls on other days of the week as my dialogs with customers often require extensive time commitments to research and model specific customer solutions. Please plan strategically when looking at on-sites, considering that I support at least two sales teams in my region. Additionally, please work with the customer when arranging for an on-site (or F2F) visit with 1 week's notice. This will allow me to ensure my commitment to attend and take alternative arrangements for family and other matters if needed.
+1. **Notes** Unless otherwise directed, external call notes with customers will be linked to a Google document from Salesforce and stored in the Gdocs "GitLab Sales" directory. Email communication with customers will also be bcc'd to Salesforce. If you prefer to record notes and actions differently, please let me know what that collaborative method is and I will link it to the SA Activity process.
 1. **Continuous learning** Things at GitLab move really fast, and I need time to keep up. I'll block a few hours on my calendar coincident with releases to absorb the latest GitLab feature set, but new technologies and competitive products also appear regularly. Please expect that I will need to allocate additional time to learning about those on a regular basis to sufficiently support our customers.
 
 ### Tool Usage within Cross-functional Teams
@@ -97,7 +101,7 @@ Enterprise Solutions Architects typically support two sales teams made up of Sal
 
 ### Quarterly Business Reviews (QBR)
 
-The entire cross-functional team should help in the preparation of the QBR content that the sales rep will present during the QBR, and should participate in the QBR session. It is often helpful to perform a dry run of the QBR with the area sales manager prior to the actual meeting, to review the content and timing of the presentation.
+The entire cross-functional team should help in the preparation of the QBR content that either the Strategic Account Leaders or Commercial AEs will present during the QBR, and should participate in the QBR session. SAs should offer proactive assistance in matters related to articulation of technical win and success criteria details in the Sales reps owned QBR slides. It is often helpful to perform a dry run of the QBR with the area sales manager prior to the actual meeting, to review the content and timing of the presentation.
 
 ### Engaging an SA During the Sales Cycle
 
@@ -105,8 +109,8 @@ Solution Architects may participate in initial qualifying meetings (IQM's) or al
 
 When reaching out to engage SAs during opportunity qualification and discovery, technical evaluations, please provide the below information. This will enable the SAs to execute an efficient and relevant discovery, ensuring our prospects' / customers' optimal experience. The SAs reserve the right to decline the meeting if the below information is missing/not provided after being asked & if the correct personas are not engaged. We will review the exceptions on a case-by-case basis in case the below information is not provided and/or not qualified.
 
-- Please provide active SFDC opportunity id
-- Any additional opportunity information (i.e., company background, initiatives, pain points, personas, etc.)
+- Please provide active SFDC opportunity ID
+- Any additional opportunity information (i.e. company overview and background, initiatives, pain points, personas, etc.)
 - The successful outcome of the meeting
 
 Solution Architects should participate in [technical discovery](#technical-discovery-and-demo-preparation) after lead qualification is complete and in other activities during the sales process that lead to a technical win, e.g.
@@ -116,12 +120,17 @@ Solution Architects should participate in [technical discovery](#technical-disco
 - Whiteboarding sessions
 - Prospect Q&A sessions
 - RFI/RFP completion
+- PoV planning, documentation and execution strategy 
 - [Security Audits](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html)
 - [SOW Scoping with Professional Services] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 
 SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
 
-#### [SA/TAM Engagement Overlap](https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-technical-account-managers)
+#### [SA/TAM Engagement Overlap]
+
+- On a high level note, SAs are the pre-sales advisors for our prospective as well as existing customers and TAMs manage the post-sales relationship of existing customers and are responsible for the GitLab adoption.  
+
+Further details can be found here: (https://about.gitlab.com/handbook/customer-success/#overlap-between-solution-architects-and-technical-account-managers)
 
 #### Technical Discovery and Demo Preparation
 
@@ -139,6 +148,7 @@ The Solutions Architect, in order to tailor conversations and demos to demonstra
 
 - What’s in it for the client?
 - Why look at a new strategy for software development?
+- What triggered the sudden client interest in GitLab?
 
 1. **Infrastructure:**
 
@@ -149,6 +159,7 @@ The Solutions Architect, in order to tailor conversations and demos to demonstra
 1. **Challenges:**
 
 - What problems/roadblocks have been uncovered?
+- What current process or technology is being utilized for what software development reasons? (i.e. what purpose does the developed application have?, What language is it written in?)
 - What is the current release velocity?
 - What is the current planning process?
 - What visibility, traceability or efficiency concerns exist?
@@ -177,7 +188,7 @@ SA engagement for customer interactions, RFP's, audits and more ([how to engage 
 
 ### APAC Account Engagement Model
 
-Customer Success Team (SA/TAM) engagement for customer interactions, RFP's, audits and more can be requested by a Strategic Account Leaders, an SMB or Mid-Market Account Executive or other GitLab team-member using the appropriate GitLab issue board. A single APAC Triage board exists that serves both Enterprise and Commerical markets. The [APAC Triage Board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/apac-triage/-/boards/1354580) is leveraged by the team in order to ensure coverage for all sales activity. The issue creation and triage processes are described in detail below.
+APAC SAs are aligned regionally into regions such as ANZ, SEA (South-East Asia), India, South Korea and Japan in close alignment to the Strategic Account Leaders, Commerical AEs and Channels Managers territories. Teams collaborate to the standards [Working Agreements](#working-agreements). 
 
 ### Issue Creation Details
 
