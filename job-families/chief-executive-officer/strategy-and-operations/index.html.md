@@ -124,7 +124,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
 
-##### Strategy and Operations (China)
+##### Strategy and Operations ([JiHu](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/)
 
 * Extends that of the Staff or Principal level Strategy and Operations 
 - Has familiarity with B2B and startup tech businesses in China
