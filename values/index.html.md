@@ -137,7 +137,7 @@ So we encourage people to get to know each other on a personal level through our
 
 ##### Reach across company departments
 {:.no_toc}
-While it's wise to seek advice from experts within your function, we encourage GitLab team members to seek and provide feedback across departments. This enables the team to iterate more quickly, taking a more diverse perspective into account.
+While it's wise to seek advice from experts within your function, we encourage GitLab team members to do the same across departments. This enables the company to iterate more quickly, embrace the understanding that everyone can contribute and include more diverse perspectives when possible.```
 
 ##### Don't pull rank
 {:.no_toc}
