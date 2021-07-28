@@ -217,12 +217,22 @@ Other OOO options include:
 
 These other types of OOO categories do not count as PTO.  These categories are an easy way to correctly track your time and communicate your status without manually updating both your calendar and your Slack status. If you prefer to do it manually, that's ok too. If you are called for Mandatory Civilian Service or Jury Duty, please notify your manager and team, as there may need to be added support for your tasks if your service is for a longer length of time.
 
-##### Unable to access PTO by Roots 
+### Unable to access PTO by Roots 
 
 If you receive an error message **"Uh-oh! It doesn't look like you have access to PTO by Roots"** please attempt the following steps. 
 1. Check to see if your email address (GitLab) in your slack profile matches your email address in BambooHR -  it is important to note in this instance that BambooHR is case sensitive and that the addresses must match exactly.
 1. If these two are not the same exact email then the application will not recognize you as a team member. 
+   - Update your Slack email - OR - 
+     - Click on your image in the right corner of Slack 
+     - Select `View Profile` 
+     - Select the `More ...` Option 
+     - Select `Account Settings`
+     - Select Email and follow the sets to change your email address. 
+   - Update your BambooHR email by logging into BambooHR - selecting the personal tab and scroll to the bottom. Update the Work Email field with the correct email address. 
+1. Once these two emails match, it will take a few hours for the the sync to catch up to the change. 
 1. If these two are the same, please reach out in the `#people-connect` channel. 
+
+
 
 ### Additional Features
 
