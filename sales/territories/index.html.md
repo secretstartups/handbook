@@ -179,6 +179,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Warren Searle	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Chris Loudon | Kristine Setschin |
+|	UKI	|	UKI	|	Large-EMEA-UK/I-10	|	Godwill NDulor	| Chris Loudon | Kristine Setschin |
 
 
 ### Mid-Market
