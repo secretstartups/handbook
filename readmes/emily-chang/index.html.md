@@ -46,7 +46,7 @@ The [GitLab value](https://about.gitlab.com/handbook/values/) that resonates wit
 ## 🤔 What I assume about others
 
 - We both want the best, I’m a huge believer in win-win situations, and I’m willing to compromise. 
-- If something is wrong, please say so. I will thank you for it! If no one says anything, I will assume you are okay with it.  
+- If something is wrong, you are comfortable to let me know. If no one says anything, I will assume you are okay with it. 
 
 
 ## 💬 Communicating with me
@@ -56,7 +56,7 @@ The [GitLab value](https://about.gitlab.com/handbook/values/) that resonates wit
 - I practise [Focus Fridays](https://about.gitlab.com/handbook/communication/#focus-fridays) where I typically spend the morning replying to my assigned tickets and work on non-ticket work like learning and writing my [Weekly Logs](https://gitlab.com/emchang/open-notebook/-/issues?scope=all&state=all&label_name[]=Weekly%20Log%20%F0%9F%93%9D) in the afternoon.
 - I use GitLab To-Do regularly, feel free to ping me on merge requests (MR) or issues.
 - I check my Slack and e-mail throughout my working day. Please note that I have desktop notifications turned off when I’m in a meeting. I have phone notifications turn on for the days I am on-call.
-- Slack Channels I check regularly: #support_gitlab-com, #support_self-managed, #support_team-chat, #support_watercooler, #apac, #women, #allcaps
+- Slack Channels I visit very often: `#support_gitlab-com`, `#support_self-managed`, `#support_team-chat`, `#support_watercooler`, `#apac`, `#women`, `#allcaps`, `#diversity_inclusion_and_belonging`
 
 
 ## 💪 Strengths
