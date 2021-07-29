@@ -91,7 +91,7 @@ There are 4 different types of quotes - New Subscription, Amend Existing, Renew 
 
 #### Quote Template Types 
 
-GitLab uses 5 quote templates to support each type of transaction. The following quote templates are available on all quote types. 
+GitLab uses 5 quote templates to support each type of transaction. The following quote templates are available on all quotes (New Subscription, Amendment, Renewal) 
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
