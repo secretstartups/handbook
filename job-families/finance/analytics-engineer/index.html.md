@@ -84,6 +84,66 @@ Requirements for the Senior Analytics Engineer extend the Analytics Engineer (In
 * Experience working with multiple commercial data warehouses, ETL tools, and data visualization tools
 * Extenstive experience in 2 or more major data subject areas (marketing, sales, finance, product, people, etc.)
 
+### Staff Analytics Engineer
+
+The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitlab.com/job-families/finance/manager-data)
+
+#### Staff Analytics Engineer Job Grade
+
+The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Analytics Engineer Responsibilities
+
+Responsibilites for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* Help promote data innovation across GitLab with a willingness to experiment and to confront hard and complex problems
+* Identify and resolve impediments to efficiency and enable the entire Data Program to iterate faster
+* Review and improve the data system as a whole, inclusive of data model designs, process flows, and end use cases
+* Research new data engineering and analytics methodologies with minimal guidance and support from other team members
+* Regularly participate in the Data Community/Industry outside of GitLab through writing, speaking, and/or networking
+* Organize and Plan multi-quarter initiatives and develop the **Enterprise Model Roadmap**
+* Help create a sense of psychological safety in the department
+
+#### Staff Analytics Engineer Requirements
+
+Requirements for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
+
+* Demonstrated experience leading 2 or more multi-department analytics projects from inception to operationalization
+* Demonstrated proficiency with data system design, including databases, schema, marts, aggregates, and views
+* Experience introducing a new tool or technique to a multi-person team, leading to measurable productivity improvement
+* Experience with data access and security techniques, both inside and outside of a data warehouse
+* Experience creating data pipelines in support of near real-time event stream processing
+* Presented multi-quarter development roadmaps to non-technical audiences
+
+### Principal Analytics Engineer
+
+The Principal Analytics Engineer reports to the [Manager, Data](https://about.gitlab.com/job-families/finance/manager-data) or [Director, Data & Analytics](https://about.gitlab.com/job-families/finance/dir-data-and-analytics/#director-data-and-analytics).
+
+#### Principal Analytics Engineer Job Grade
+
+The Principal Analytics Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Principal Analytics Engineer Responsibilities
+
+Responsibilites for the Principal Analytics Engineer extend the Staff Analytics Engineer job. In addition:
+
+* Lead major strategic data projects and initiatives, spanning 6 months or more
+* Interface with Senior leadership to design, plan, and implement strategic data projects
+* Willingness to experiment and to confront the hardest or most complex problems
+* Attain a measurable positive impact on the performance of multiple team members and teams
+* Regularly participates in the Data Community/Industry outside of GitLab through writing, speaking, and networking
+* Provide mentorship to help team members grow their technical and business capabilities
+
+#### Principal Analytics Engineer Requirements
+
+Requirements for the Principal Analytics Engineer extend the Staff Analytics Engineer job. In addition:
+
+* Demonstrated experience leading an analytics initiative that significantly improved business performance, acknowledeged by executive staff
+* Ability to work productively as a Contributor in any Data Job, including Data Analysis, Data Engineering, and Data Science
+* Experience with data access and security techniques, both inside and outside of a data warehouse
+* Experience creating data pipelines in support of near real-time event stream processing
+* Recognized in the industry as a result of publications, seminars, presentations, or equivalent
+
 ## Performance Indicators
 
 * Dimensional Model MRs Per Milestone
