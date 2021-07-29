@@ -74,7 +74,7 @@ The [GitLab value](https://about.gitlab.com/handbook/values/) that resonates wit
 
 | Item | Brand |
 | ------ | ------ |
-| [Height-adjustable desk](https://about.gitlab.com/company/culture/all-remote/workspace/#desks) | [Flexispot Electrice Height Adjustable Standing Desk](https://www.igreen.my/products/Flexispot-ergonomic-sit-stand-standing-desk-malaysia/malaysia-3-stage-dual-motor-height-adjustable-standing-desk-table) |
+| [Height-adjustable desk](https://about.gitlab.com/company/culture/all-remote/workspace/#desks) | [Flexispot Electric Height Adjustable Standing Desk](https://www.igreen.my/products/Flexispot-ergonomic-sit-stand-standing-desk-malaysia/malaysia-3-stage-dual-motor-height-adjustable-standing-desk-table) |
 | [Ergonomic chair](https://about.gitlab.com/company/culture/all-remote/workspace/#chairs) | [Leap Chair](https://store.steelcase.com/seating/office-chairs/leap) |
 | [Headphones](https://about.gitlab.com/company/culture/all-remote/workspace/#headphones) | [HyperX Cloud Alpha headset](https://www.soundguys.com/hyperx-cloud-alpha-gaming-headset-review-23223/) |
 | [External Monitors](https://about.gitlab.com/company/culture/all-remote/workspace/#monitors) | Two [24" Samsung CF390 Curved LED Monitor](https://www.samsung.com/us/computing/monitors/led/samsung-24-curved-led-monitor-lc24f390fhnxza/) |
