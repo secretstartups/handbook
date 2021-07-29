@@ -10,10 +10,9 @@ description: A guide for new team members
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## TaNewKi Tips
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Welcome!
-{: #tanuki-orange}
+{: #tanuki-orange}{: .gitlab-orange}
 
 Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during onboarding as a new team member. 
 
@@ -48,6 +47,12 @@ After you sign your offer and complete your background check and references, you
 1. **When should you log on for day one?** Unless you have worked out a specific time with your manager, feel free to start your day when you feel comfortable starting. We love non-linear work days but you have to [find what works for you](https://about.gitlab.com/company/culture/all-remote/non-linear-workday/#find-what-works-for-you).
 1. The first thing you'll want to do is check your personal email where you will have received an onboarding email from GitLab with directions on how to access Okta, your GitLab email and all other applications. Most of GitLab applications are accessed through Okta so make sure you follow the directions in the email in order. 
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md). 
-    - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
+
+
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
+{: #tanuki-purple} Onboarding Expectations 
+
+1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
+ - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
 1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company is here to help you if you need it. 
     - Two of the best Slack channels to get yourself into to ask questions are #it-help and #people-connect 
