@@ -353,7 +353,32 @@ At an exponentially-scaling startup, time gained or lost has compounding effects
 
 ##### Ambitious
 {:.no_toc}
-While we iterate with small changes, we strive for large, ambitious results.
+While we iterate with small changes, we strive for large, ambitious results. We achieve these through:
+   1. Keeping the focus on the [results](/handbook/values/#results) and the outcome
+   1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
+   1. Not being satisfied with the status quo and setting higher goals
+     1. Ambitious [mission](https://about.gitlab.com/company/mission/) and [vision](https://about.gitlab.com/company/vision/)
+     1. [Ambitious OKRs](/company/okrs/#okrs-are-stretch-goals-by-default)
+     1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
+   1. Having other people adopt our way of working
+      1. [Handbook](/handbook/)
+      1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
+      1. Promotions of processes
+         1. [Blog posts](https://about.gitlab.com/blog/)
+         1. [Webcasts](https://about.gitlab.com/webcast/)
+         1. [Events](https://about.gitlab.com/events/)
+         1. [Community Forum](https://forum.gitlab.com/)
+         1. [Job board](https://boards.greenhouse.io/gitlab)
+  1. Proactively critiquing ourselves
+     1. [Highlight where we fall short](https://about.gitlab.com/direction/maturity/)
+     1. [Have outside experts rate us](https://about.gitlab.com/is-it-any-good/)
+     1. [Have users compare us to the alternative](https://about.gitlab.com/devops-tools/)
+  1. Increasing engagement with GitLab
+     1. [Pageviews](/handbook/marketing/inbound-marketing/#measuring-progress)
+     1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
+     1. [Surveys](https://about.gitlab.com/developer-survey/)
+  1. [Not tolerating low performance](/handbook/leadership/underperformance/#introduction)
+  1. Preventing [risk aversion](/handbook/values/#low-level-of-shame)
 
 ##### Perseverance
 {:.no_toc}
