@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Emily Chang's README"
-description: "Personal README page for Emily Chang (Support Engineer (APAC))"
+description: "Personal README page for Emily Chang - Support Engineer (APAC)"
 job: "Support Engineer (APAC)"
 ---
 
@@ -74,13 +74,13 @@ The [GitLab value](https://about.gitlab.com/handbook/values/) that resonates wit
 
 | Item | Brand |
 | ------ | ------ |
-| [Height-adjustable desk](https://about.gitlab.com/company/culture/all-remote/workspace/#desks) | [Flexispot Electric Height Adjustable Standing Desk](https://www.igreen.my/products/Flexispot-ergonomic-sit-stand-standing-desk-malaysia/malaysia-3-stage-dual-motor-height-adjustable-standing-desk-table) |
-| [Ergonomic chair](https://about.gitlab.com/company/culture/all-remote/workspace/#chairs) | [Leap Chair](https://store.steelcase.com/seating/office-chairs/leap) |
+| [Height-adjustable Desk](https://about.gitlab.com/company/culture/all-remote/workspace/#desks) | [Flexispot Electric Height Adjustable Standing Desk](https://www.igreen.my/products/Flexispot-ergonomic-sit-stand-standing-desk-malaysia/malaysia-3-stage-dual-motor-height-adjustable-standing-desk-table) |
+| [Ergonomic Chair](https://about.gitlab.com/company/culture/all-remote/workspace/#chairs) | [Leap Chair](https://store.steelcase.com/seating/office-chairs/leap) |
 | [Headphones](https://about.gitlab.com/company/culture/all-remote/workspace/#headphones) | [HyperX Cloud Alpha headset](https://www.soundguys.com/hyperx-cloud-alpha-gaming-headset-review-23223/) |
 | [External Monitors](https://about.gitlab.com/company/culture/all-remote/workspace/#monitors) | Two [24" Samsung CF390 Curved LED Monitor](https://www.samsung.com/us/computing/monitors/led/samsung-24-curved-led-monitor-lc24f390fhnxza/) |
 | Dual Monitor Arm | [North Bayou F160](https://shopee.com.my/-New-Version-9KG-NB-North-Bayou-F160-17-to-27-Inch-Gas-Strut-Dual-Monitor-Desktop-Arm-Desk-Mount-i.79342221.2408869965) |
-| [Keyboard](https://about.gitlab.com/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | [Keychron K2v2](http://keychronwireless.refr.cc/emilychang) | 
+| [Keyboard](https://about.gitlab.com/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | [Keychron K2v2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard) | 
 | [Mouse](https://about.gitlab.com/company/culture/all-remote/workspace/#external-keyboard-and-mouse) | [Logitech MX Master 3](https://www.logitech.com/en-my/products/mice/mx-master-3.910-005698.html) |
-| Laptop stand | [Olmaster Laptop Stand](https://www.amazon.com/Muti-Angle-Adjustable-Heat-Vent-Ergonomic-Compatible/dp/B081YHNXZ5) |
+| Laptop Stand | [Olmaster Laptop Stand](https://www.amazon.com/Muti-Angle-Adjustable-Heat-Vent-Ergonomic-Compatible/dp/B081YHNXZ5) |
 | [Webcam](https://about.gitlab.com/company/culture/all-remote/workspace/#webcams) | [Logitech C920](https://www.logitech.com/en-my/products/webcams/c920-pro-hd-webcam.960-000770.html) |
 | USB C Hub | [Ugreen 10 in 1 USB C Hub](https://www.ugreen.com/products/10-in-1-usb-c-hub) |
