@@ -11,7 +11,7 @@ description: "This page outlines the Dynamic Quote Templates Automation in Sales
 
 
 ## Related Handbook Sections 
-- Related Handbook Page links coming post deployment
+- [Internal Team Handbook](https://gitlab-com.gitlab.io/licensing/)
 
 
 ## Dynamic Quote Templates Automation
