@@ -50,7 +50,7 @@ We do not tolerate discrimination against anyone, including team members, custom
 
 * On the basis of race, color, religion, ethnicity, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, religious belief or lack of religious belief, life expectancy, or any other status protected by the laws or regulations in the locations where we operate.
 * We comply with laws regarding employment of immigrants and non-citizens and provide equal employment opportunity to everyone who is legally authorized to work in the applicable country.
-* We provide reasonable accommodations to individuals with disabilities and remove any artificial barriers to success.
+* We provide [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) to individuals with disabilities and remove any artificial barriers to success.
 
 Report suspected discrimination right away and never retaliate against anyone who raises a good faith belief that unlawful discrimination has occurred. 
 
