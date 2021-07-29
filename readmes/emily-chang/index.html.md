@@ -17,8 +17,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 - [My GitLab profile: @emchang](https://gitlab.com/emchang)
 - Slack handle: `@emchang`
-- [LinkedIn](https://www.linkedin.com/in/memilyc/)
-- [My Curriculum Vitae](http://emchang.gitlab.io/)
+- [My Curriculum Vitae](https://emchang.gitlab.io/)
 - Feel free to schedule a ☕ chat with me via [Calendly](https://calendly.com/emchang/coffeechat)
 
 
