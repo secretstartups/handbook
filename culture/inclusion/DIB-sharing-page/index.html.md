@@ -20,7 +20,7 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 - Reason for Privileges Chosen:
 - Learnings from the experience:
 
-**June/July 2021 Ally Lab Group**
+**June Ally Lab Learning Group 2**
 
 - Group Members: Ethan Urie, Steve Abrams, Jessica Reeder, Emily Plotkin, and Meghan Maneval
 - Privileges Chosen: 2, 3, 4, 5, 6, 8, 11, 13, 18, 20
@@ -44,7 +44,16 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 1. Empathy first. 
 1. Asking better questions of other people. Help me understand where other people came from. 
 
-- What did the group learn from the experience?: 
+**June Ally Lab Learning Group 2**
+
+- Group Members: Ethan Urie, Steve Abrams, Naomi Khan, Emily Plotkin, and Meghan Maneval
+
+- What are some of your most important values? - What reasonates with you?
+- Share a time when you felt like you were left out or didn’t belong? - What are some of the common threads, behaviours that made you feel like this?
+- Share a time where you felt empowered or belonged? - What were the actions/behaviours that led to you feel empowered or that you belonged?
+- What does Diversity, Inclusions and Belonging mean to you? - Why is it important?
+- What is one thing as a group can we do to make a positive impact on Diversity, Inclusions and Belonging?
+
 
 ### Ally Lab Learning Groups Activity Sharing 
 
