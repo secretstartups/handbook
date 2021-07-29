@@ -1,0 +1,34 @@
+---
+layout: handbook-page-toc
+title: Sharding Group - Issue Creation Workflow
+description: "A simple description and diagram describing our issue creation workflow"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Overview
+
+This diagram describes our issue creation workflow.
+
+```mermaid
+
+graph TD
+    Create[Create Issue] --> is_group{Will<br>Group::Sharding<br>own this issue};
+    is_group -->|Yes| group_sharding[label group::sharding];
+    is_group -->|No| other_group[label appropriate group];
+    group_sharding --> is_active{To be completed<br> within 3 milestones}
+    is_active -->|Yes| active[label sharding::active]
+    is_active -->|No| milestone
+    active --> milestone
+    other_group --> sharding_blocker[label sharding-blocker]
+    sharding_blocker --> milestone[add appropriate milestone]
+    milestone --> epic[add to appropriate epic]
+
+```
+Notes
+- Adding `sharding::active` will make the issue visible on the [Sharding build board](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding&label_name[]=sharding%3A%3Aactive)
+- The `sharding-blocker` label is typically only used for groups other than `group::sharding`
