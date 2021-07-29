@@ -211,12 +211,12 @@ Our target availability is 99.95%
 
 The Configure Error Budget encompasses a wide set of product areas including: AutoDevops, IaC, Kubernetes Management, Cluster cost management, Serverless, Secrets Management, ChatOps, and Runbooks. Though a number of these areas are not under active development we still consider the entire group as part of our budget.
 
-On a weekly basis the EM will review the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1) using the following process.  
+On a monthly basis the EM will review the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1) using the following process.  
 
 Under "Budget spend attribution":
 
-1. Determine slow endpoints under the "apdex" violation type. Look in "Kibana: Kibana Rails logs" to discover what the slow endpoints could be. Identify each one and create a issue.
-2. For the "error" violation type, use the "Kibana: Kibana Rails failed request logs" to determine common errors that could be impacting the error budget. Identify each one and create a issue.
+1. Determine slow endpoints under the "apdex" violation type. Look in "Kibana: Kibana Rails logs" to discover what any new slow endpoints could be. Identify each one and create a issue.
+2. For the "error" violation type, use the "Kibana: Kibana Rails failed request logs" to determine new errors that could be impacting the error budget. Identify each one and create a issue.
 
 ### Considerations
 
