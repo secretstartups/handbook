@@ -60,7 +60,11 @@ Every week, the Detection Rule “Batch” is run and output is saved in a persi
 
 - **Purpose** - Product Data Quality Scorecard quantifies the Data Quality Issues with respect to the Product Usage Data. 
 
-The Scorecard displays an overview of Product detection rules, trend analysis and counts for each detection rule. 
+The Scorecard Dashboard provides or displays the following information:
+ - the Pass/Fail Percentage of each of the Product Data Quality Detection rules. Kindly note that the Threshold  trend analysis and counts for each detection rule. 
+ - Trend Analysis Chart
+ - Summarized Counts for each day.
+ 
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
