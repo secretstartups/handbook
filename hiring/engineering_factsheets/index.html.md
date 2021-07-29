@@ -160,7 +160,7 @@ Nicole Williams (Frontend Engineering Manager, Release)
 Darby Frey (Senior Engineering Manager, Verify)
 Chase Southard (Engineering Manager, Release:Progressive Delivery)
 John Hampton (Engineering Manager, Release:Release Management)
-[Product Vision page](/direction/release/)
+[Product Vision page](/direction/deployment/)
 **How the team works:** The Release stage comes after your build and test pipeline is complete and ensures that your software makes it through your review apps, pre-production environments, and ultimately to your users with zero touch needed. It is part of the CI/CD department. Asynchronous communication, working with Agile methodologies, incorporating a more continuous delivery model, all of the collaboration is done through GitLab Issues and Slack. 
 **Links to relevant Handbook pages:**
 [Product categories page](/handbook/product/categories/#ops-section)
