@@ -363,7 +363,7 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Having other people adopt our way of working
       1. [Handbook](/handbook/)
       1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
-      1. Promotions of processes
+      1. Promotion of processes
          1. [Blog posts](https://about.gitlab.com/blog/)
          1. [Webcasts](https://about.gitlab.com/webcast/)
          1. [Events](https://about.gitlab.com/events/)
