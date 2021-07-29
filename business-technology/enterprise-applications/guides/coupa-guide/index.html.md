@@ -47,7 +47,8 @@ If your job function requires you to submit purchase requests in Coupa, follow t
    - What is the total cost of the purchase. 
    - How often you will need to purchase it.
    - When does it need to be submitted in Coupa.
-1. Add the labels ~"FinSys - Coupa" and ~"FinSys::Service Desk".
+1. Add the labels ~"FinSys - Coupa" and ~"FinSys::Service Desk". 
+1. After the AR is approved, you MUST review the [tech stack](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and follow the instructions for provisioning (either assign to the provisioner, add the correct labels or both if not clearly stated)
 
 <div class="panel panel-success">
 **Best Practices**
