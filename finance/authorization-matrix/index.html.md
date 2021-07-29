@@ -472,7 +472,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
 
 This authorization matrix policy (“**_Policy_**”) is to provide procedural guidelines in support of  GitLab Inc.’s (the “**_Company_**”) [Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/). 
 
-**Policy Scope **
+## Policy Scope 
 
 * All contracts and other agreements entered into on behalf of the Company.  Contracts and other documents including, without limitation, all agreements, non-disclosure agreements, licenses, leases, promissory notes, instruments, assignments, powers of attorney, terms and conditions, memoranda of understanding, letters of intent, settlements, releases, waivers, renewals, amendments, or modifications to existing contracts, claims, disputes, representations, and other similar documents and commitments. For additional information on signing legal documents please see the  [Signing Legal Documents ](https://about.gitlab.com/handbook/finance/authorization-matrix/#signing-legal-documents)section of the handbook. 
 * All contracts must be in writing. Oral contracts are not authorized regardless of whether there is a monetary exchange.
@@ -514,8 +514,8 @@ When Authorized Signatories are temporarily unavailable due to vacation, illness
 
 For purposes of this Policy:
 
-1. ”**Delegator**” is an Authorized Signatory with authority who delegates their signature and approval authority under this Policy.
-1. ”**Delegatee**” is any appropriate position within the  Company who is delegated signature and approval authority by a Delegator under this Policy.
+  * ”**Delegator**” is an Authorized Signatory with authority who delegates their signature and approval authority under this Policy.
+  * ”**Delegatee**” is any appropriate position within the  Company who is delegated signature and approval authority by a Delegator under this Policy.
 
 Delegation of authority not to exceed 90 days in duration is permitted. Written notice of delegation shall be provided by the delegating team member to the CFO, CLO, the Principal Accounting Officer (the “**_PAO_**”) and Director of Legal, Corporate in order for the delegation to be effective.
 
@@ -523,34 +523,34 @@ Delegation of authority not to exceed 90 days in duration is permitted. Written 
 
 Authorized Signatories may delegate signature and approval authority to a Delegatee for approving expense and approving payment, subject to the following limitations and requirements:
 
-1. **The Delegator shall:**
-1. retain and may continue to exercise their authority notwithstanding any delegation of authority to a Delegatee;
-1. remain ultimately accountable for their area of responsibility, including any contracts executed by their Delegatees;
-1. make all delegations with due consideration for the proper segregation of duties; and
-1. ensure that their Delegatee have a full understanding and appreciation of their delegated authority.
+ **The Delegator shall:**
+  * retain and may continue to exercise their authority notwithstanding any delegation of authority to a Delegatee;
+  * remain ultimately accountable for their area of responsibility, including any contracts executed by their Delegatees;
+  * make all delegations with due consideration for the proper segregation of duties; and
+  * ensure that their Delegatee have a full understanding and appreciation of their delegated authority.
 
-1. **Delegatee selection criteria.** Delegation may only be made to a Delegatee:
-1. identified by position and name;
-1. having the expertise to use the delegated authority appropriately and knowledgeably; and
-1. one level below the Delegator within the applicable area in responsibilities. 
+ **Delegatee selection criteria.** Delegation may only be made to a Delegatee:
+  * identified by position and name;
+  * having the expertise to use the delegated authority appropriately and knowledgeably; and
+  * one level below the Delegator within the applicable area in responsibilities. 
 
 **Delegation procedures.** All delegations must:
-1. be submitted  via a confidential issue (“**_Delegation Issue_**”); 
-1. the Delegation Issue  should be created  within 10 business days prior to delegation;
-1. Delegation Issue should be assigned  to Delegatee, CFO, and CLO;
-1. the  Delegation Issue must clearly specify the position and name, duration of the delegation,  limitations on the authority to be granted (such as business area, contract type, fiscal amount, and any approval and co-signature requirements); and
-1. be approved by the CFO and CLO.  
+  *  be submitted  via a confidential issue (“**_Delegation Issue_**”); 
+  *  the Delegation Issue  should be created  within 10 business days prior to delegation;
+  *  Delegation Issue should be assigned  to Delegatee, CFO, and CLO;
+  *  the  Delegation Issue must clearly specify the position and name, duration of the delegation,      limitations on the authority to be granted (such as business area, contract type, fiscal amount, and any approval and co-signature requirements); and
+  *  be approved by the CFO and CLO.  
 
-1. **Delegation limitations.** All delegations:
-1. are subject to the terms of this Policy;
-1. are limited by the scope of the Delegator’s authority, and further subject to any restrictions specified by the Delegator in the Delegation Issue ; and
-1. automatically expire in 90 days unless the Delegation Issue specifies an earlier expiration date. For an expired delegation to continue, the Delegator must reauthorize such delegation by submitting another Delegation Issue.
+ **Delegation limitations.** All delegations:
+  *  are subject to the terms of this Policy;
+  *  are limited by the scope of the Delegator’s authority, and further subject to any restrictions specified by the Delegator in the Delegation Issue ; and
+  *  automatically expire in 90 days unless the Delegation Issue specifies an earlier expiration date. For an expired delegation to continue, the Delegator must reauthorize such delegation by submitting another Delegation Issue.
 
 Any individual who is in an acting or interim position shall have the right to exercise the signature and approval authority of such position. 
 
-1. **Revocation of Authority. **A delegation of authority may be revoked or modified at any time in writing by:
-1. The Delegator granting such authority; and
-1. The Company’s Chief Executive Officer, CLO, or  CFO.
+ **Revocation of Authority. **A delegation of authority may be revoked or modified at any time in writing by:
+  *  The Delegator granting such authority; and
+  *  The Company’s Chief Executive Officer, CLO, or  CFO.
 
 The revoking individual must immediately notify the CFO, CLO, PAO and Director of Legal, Corporate in writing of any such revocation via the Delegation Issue for such delegation.
 
@@ -558,15 +558,15 @@ The revoking individual must immediately notify the CFO, CLO, PAO and Director o
 
 Each Authorized Signatory (including Delegatees) is responsible for:
 
-1. Ensuring that they have the appropriate authority to execute and approve a document.
-1. Acting within the limits of their power and delegation.
-1. Exercising their authority with care and diligence. The Authorized Signatory should undertake appropriate investigation and inquiry to confirm that the contract and any commitments made on behalf of the  Company are:
-1. based on accurate information;
-1. being made for a proper purpose and in the best interest of the Company;
-1. capable of being lawfully undertaken by the Company;
-1. in compliance with other Company policies; and
-1. not in conflict with existing Company agreements.
-1. Confirming that all other reviews and approvals required by applicable Company policies have been obtained prior to contract execution.
+*  Ensuring that they have the appropriate authority to execute and approve a document.
+*  Acting within the limits of their power and delegation.
+* Exercising their authority with care and diligence. The Authorized Signatory should undertake appropriate investigation and inquiry to confirm that the contract and any commitments made on behalf of the  Company are:
+  * based on accurate information;
+  * being made for a proper purpose and in the best interest of the Company;
+  * capable of being lawfully undertaken by the Company;
+  * in compliance with other Company policies; and
+  * not in conflict with existing Company agreements.
+  * Confirming that all other reviews and approvals required by applicable Company policies have been obtained prior to contract execution.
 
 This Policy is not exhaustive. The Company expects all Authorized Signatories to exercise common sense and good judgment in carrying out the decision-making process, such as when deciding the precise consultation and approval route for a particular contract or other transaction. If any contract is of an unusual nature or outside the normal course of  Company activities and practices, the Authorized Signatory should elevate such contract to a higher organizational level for review and decision, even if the contract is within the Authorized Signatory’s scope of authority. In cases of doubt, for example in regard to novel, potentially contentious, or higher risk matters, any decisions must be escalated to the CFO, irrespective of monetary value.
 
