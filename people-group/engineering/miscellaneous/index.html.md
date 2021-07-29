@@ -51,3 +51,11 @@ Every hour, a scheduled job checks the letter of employment requests spreadsheet
 ## CXC contract renewal email
 
 Every day, a scheduled job looks for team members with a CXC contract expiring in two weeks. An email is sent to each of those team members to remind them of the contract renewal process. The GitLab CXC point of contact (email listed in the `CXC_CONTACT_EMAIL` environment variable) is also copied on this email as a reminder to initiate the renewal process on their end.
+
+## Entities sync
+
+Once per week, BambooHR locations are synced to GitLab groups. Team members are then added to the correct group. The list of groups (entities) can be found in the [entities project](https://gitlab.com/gitlab-com/entities).
+
+When creating a merge request or issue that affects all members of a given GitLab entity, all members with direct membership can be pinged using `@gitlab-com/entities/<entity-name>`.
+
+eg. for Canada Corp, use `@gitlab-com/entities/canada-corp`.
