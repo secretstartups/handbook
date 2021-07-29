@@ -45,6 +45,7 @@ Team members who would like to discuss a private matter should send an email req
 
  - Subject Line should be  "New Request for assistance"
  - Name of Team member requesting support (Name of the person sending the email)
+ - Name of Team member(s) involved in the matter
  - Team members location (example Orlando, Florida or Berlin, Germany) for managers who are requesting support regarding a team member issue on their team please use the location of the team member and not your location. 
  - Tier level as listed above
  - Job title of team member requesting support
