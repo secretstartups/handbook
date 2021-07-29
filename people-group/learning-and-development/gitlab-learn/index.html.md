@@ -48,30 +48,37 @@ Review the following terms to get familiar with language used in this documentat
 | GitLab Learn | GitLab's EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
-## Content Roadmap
+## Content Catalog and Roadmap
 
-The GitLab team is excited about growing new learning opportunities for team members, partners, and our wider community on the GitLab Learn platform.
+Existing training available in GitLab Learn
 
-Future learning content coming to GitLab Learn:
+| Training title and link | Badge or Certification earned? | Audience Details |
+| ----- | ----- | ----- |
+| [GitLab Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/5755275) | Badge | All Users |
+| [How to be a good Mentee and Mentor](https://gitlab.edcast.com/pathways/4347934)| N/A | All Users |
+| [GitLab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/4159230) | Certification | All Users |
+| [GitLab Certified Associate](https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam)| Certification | All Users |
+| [Giving Feedback](https://gitlab.edcast.com/pathways/1462159) | N/A | All Users |
+| [Managing Performance](https://gitlab.edcast.com/pathways/1461112) | N/A | All Users |
+| [User Research](https://gitlab.edcast.com/pathways/1434982) | N/A | All Users |
+| [Remote Foundations Badge](https://gitlab.edcast.com/pathways/1411408) | Badge | All Users |
+| [GitLab 201](https://gitlab.edcast.com/pathways/1411271) | Badge | All Users |
+| [Running an Effective 1:1](https://gitlab.edcast.com/pathways/1411234) | N/A | All Users |
+| [GitLab 101](https://gitlab.edcast.com/pathways/1411221) | Badge | All Users |
+| [Building High Performing Teams](https://gitlab.edcast.com/pathways/1410063) | N/A | All Users |
+| [Getting to Know Yourself and your Team](https://gitlab.edcast.com/pathways/1410038) | N/A | All Users |
+| [Jobs to be Done](https://gitlab.edcast.com/pathways/1407565) | N/A | All Users |
+| [Customer Interviewing](https://gitlab.edcast.com/pathways/1407533) | N/A | All Users |
+| [Opportunity Canvas](https://gitlab.edcast.com/pathways/1391567) | N/A | All Users |
+| [Learning Curator](https://gitlab.edcast.com/pathways/1288235) | Badge | Team Members |
+| [Develop your Rest Ethic](https://gitlab.edcast.com/pathways/1286440) | N/A | All Users |
+| [Mastering Self-Motivation and Self-Advocacy](https://gitlab.edcast.com/pathways/1245364) | Badge | All Users |
+| [GitLab Women in Leadershio Course](https://gitlab.edcast.com/pathways/1245323) | Badge | All Users |
+| [Bias towards Async Communication](https://gitlab.edcast.com/pathways/1187575) | Badge | All Users |
+| | | |
 
-### FY22 Q2
 
-| Content | Team | Description and Audience | Expected Launch Date |
-| ----- | ----- | ----- | ----- |
-| GitLab Manager Enablement | L&D | Training for GitLab managers on topics including giving feedback, project management, and delegation | FY22 Q2 |
-
-### FY22 Q3
-
-| Content | Team | Description and Audience | Expected Launch Date |
-| ----- | ----- | ----- | ----- |
-| Enhancing GitLab 101 and GitLab 201 | L&D | Enhancements to the GitLab 101 and GitLab 201 basic trainings to reflect new product enhancements and GitLab team use cases | FY22 Q3 |
-| Psychological Safety Training | L&D | Self-paced study of how to build psychological safety in an all remote setting | FY22 Q3 |
-
-### FY22 Q4
-| Content | Team | Description and Audience | Expected Launch Date |
-| ----- | ----- | ----- | ----- |
-| `Content Title` | `Team DRI` | `Content description and target audience` | `Expected launch date in EdCast` |
-
+A content roadmap for GitLab Learn will be added to this handbook page in the coming months.
 
 ## What will GitLab Learn do for the GitLab community
 
