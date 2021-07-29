@@ -90,7 +90,7 @@ We collect and maintain different types of personal information about you in acc
 - Date of hire, date(s) of promotion(s), work history, technical skills, educational background, professional certifications and registrations, language capabilities, and training records.
 - Beneficiary and emergency contact information.
 - Forms and information relating to the application for, or in respect of changes to, employee health and welfare benefits; including, short and long-term disability, medical and dental care, etc.
-- Physical limitations and special needs in order to provide accommodations.
+- Physical limitations and special needs in order to provide [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation).
 
 - Records of work absences, vacation/paid time off, entitlement and requests, salary history and expectations, performance appraisals, letters of appreciation and commendation, and disciplinary and grievance procedures (including monitoring compliance with and enforcing our policies).
 
@@ -144,7 +144,7 @@ We may collect and process your personal information in the Systems for various 
 
  - Conducting surveys for benchmarking and identifying improved ways of working employee relations and engagement at work (these will often be anonymous but may include profiling data such as age to support analysis of results)
 
- - Processing information about absence or medical information regarding physical or mental health or condition in order to assess eligibility for incapacity or permanent disability related remuneration or benefits, determine fitness for work, facilitate a return to work, make adjustments or accommodations to duties or the workplace and make management decisions regarding employment or engagement or continued employment or engagement or redeployment and conduct related management processes
+ - Processing information about absence or medical information regarding physical or mental health or condition in order to assess eligibility for incapacity or permanent disability related remuneration or benefits, determine fitness for work, facilitate a return to work, make adjustments or [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) to duties or the workplace and make management decisions regarding employment or engagement or continued employment or engagement or redeployment and conduct related management processes
 
  - For planning, managing and carrying out restructuring or redundancies or other change programs including appropriate consultation, selection, alternative employment searches and related management decisions
 

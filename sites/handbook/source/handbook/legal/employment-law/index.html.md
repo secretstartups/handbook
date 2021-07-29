@@ -17,7 +17,7 @@ Employment law refers to the law that governs the relationship between employer 
 - It means we support the talent acquisition department in meeting its goals and ensuring compliance with all local laws and regulations as they source, recruit, and hire new team members.
 - It means we help the People Operations team onboard new team members and get them the information they need that applies both to their location and to their job responsibilities.
 - It means we support the Total Rewards group in developing policies that meet GitLab’s needs, our team members’ needs, and local requirements.
-- It means we support our People Business Partners and Total Rewards as they manage team member relations, performance, requests for accommodation or adjustments, promotions, transfers, and any other types of issues that pop up during the course of the relationship.
+- It means we support our Team Member Relations team, People Business Partners, and Total Rewards as they manage team member relations, requests for [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) or adjustments, performance, promotions, transfers, and any other types of issues that pop up during the course of the relationship.
 - It means we support our Diversity, Inclusion, and Belonging team in ensuring that decisions across the entire arc of the relationship match our mission statement.
 - And it means we provide support when it comes to end of employment decisions,  offboarding, and any follow-up matters that can occur.
 
