@@ -54,7 +54,7 @@ Every day, a scheduled job looks for team members with a CXC contract expiring i
 
 ## Entities sync
 
-Once per week we sync BambooHR locations to GitLab groups. We then add team members to the correct group. The list of groups (entities) can be found in the [Entities project](https://gitlab.com/gitlab-com/entities).
+Once per week, BambooHR locations are synced to GitLab groups. Team members are then added to the correct group. The list of groups (entities) can be found in the [entities project](https://gitlab.com/gitlab-com/entities).
 
 When creating a merge request or issue that affects all members of a given GitLab entity, all members with direct membership can be pinged using `@gitlab-com/entities/<entity-name>`.
 
