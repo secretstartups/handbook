@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Aug 4       |   [Reporting Options / Metrics with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29)       |    Sri  R.          |
+| Aug 4       |   [Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)       |  Fern D.          |
 | Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
 | Sep 1       |                |                |
 | Sep 15      |                |                |
