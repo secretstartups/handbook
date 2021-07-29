@@ -27,7 +27,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 
 ## Reasonable Accommodations
 
-We provide reasonable accommodations to individuals in order to remove any artificial barriers to success.  Our [EAP program](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) is always available for team members to help them identify the best reasonable accommodations for them.
+We provide [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) to individuals in order to remove any artificial barriers to success.  Our [EAP program](https://about.gitlab.com/handbook/total-rewards/benefits/modern-health/) is also always available for team members to help them identify the best reasonable accommodations for them.
 
 _Please note that all accommodations discussed below are potential accommodations that can be reviewed on a case-by-case basis, but are not guaranteed. Any accommodations and/or adjustments made are in line with the applicable laws/regulations of the jurisdiction in question._
 
