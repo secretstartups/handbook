@@ -56,6 +56,33 @@ Every week, the Detection Rule “Batch” is run and output is saved in a persi
 
 **Remediation** is the process of fixing, correcting, or eliminating the quality problem. Remediation is owned by 'Data Creators', the person or team repsonsible for creating the source data. Identifying or helping to identify quality problems is the responsibility of 'Data Customers'.
 
+### Product Data Quality Scorecard
+
+- **Purpose** - Product Data Quality Scorecard quantifies the Data Quality Issues with respect to the Product Usage Data. 
+
+The Scorecard displays an overview of Product detection rules, trend analysis and counts for each detection rule. 
+
+### Quick Links
+<div class="flex-row" markdown="0" style="height:80px">
+  <a href="https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Scorecard - Overview V1.0</a>
+  <a href="https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">TD: Product Data Quality Detailed Dashboard V1.0</a>
+</div>
+<br><br>
+
+
+Data Quality Detection Rule for product usage data
+
+| Detection Rule ID | Rule Description | DRI |
+| - | - | - |
+|1|Missing instance types for Hostnames||
+|2|Licenses with missing Subscription IDs||
+|3|Subscriptions with missing Licenses||
+|4|Subscriptions with Self-Managed plans having License Start dates in the future||
+|5|Subscriptions with Self-Managed plans having License Start date greater than License Expire date||
+|6|Expired License IDs with Subscription End Dates in the Past||
+|7|SaaS Subscriptions with missing Namespace IDs|
+
+
 ## Additional Resources
 
 ### Guides and Books
