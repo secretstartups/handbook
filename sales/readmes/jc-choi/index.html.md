@@ -5,7 +5,7 @@ title: "JC Choi’s README"
 
 **JC Choi** here. **Technical Instructional Designer** for **Professional Services**.
 
-My intention is to let team members know why I love to collaborate, why I think the entire idea of GitLab is phenomenal, and why I try everyday to let my work life live CREDIT. If you think that's over-corn, update this.
+My intention is to let team members know why I love to collaborate, why I think the entire idea of GitLab is phenomenal, and why I try everyday to let my work life live CREDIT. If you think that's uber-corn, update this.
 
 ### My one breath elevator pitch
 
