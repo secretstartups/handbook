@@ -50,7 +50,8 @@ classDiagram
 ```
 ### PI Dashboards
 
-- [Monitor error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1)
+- [Monitor error budget dashboard](https://dashboards.gitlab.net/d/stage-groups-monitor/stage-groups-group-dashboard-monitor-monitor?orgId=1): The Monitor Group has work in progress to separate our dashboard into two, active and inactive projects.  This will allow the team to identify trends in our newly released features separately from inactive projects.  We're looking for different trends in active vs inactive projects.  Active projects are constantly changing and the chances of introducing problems that impact our Error Budget are more likely.  With inactive projects, we're looking for impact from changes in dependencies which may adversely affect the Error Budget.  The team will review both of the dashboards monthly as part of our async retrospective process and track the needed improvements as technical debt issues.
+
 
 ## Snowplow Events
 Please view this [sisense chart](https://app.periscopedata.com/app/gitlab/737489/Monitor-Group-Dashboard?widget=9813568&udv=0) for a list of events we have instrumented for Monitor categories.
