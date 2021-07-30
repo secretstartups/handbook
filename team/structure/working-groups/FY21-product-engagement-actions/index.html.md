@@ -16,7 +16,7 @@ description: "Take action on the FY 21 product engagement survey results."
 | Property        | Value             |
 |-----------------|-------------------|
 | Date Created    | February 23, 2021 |
-| Target End Date | April 30, 2021    |
+| Target End Date | May 30, 2021    |
 | Slack           | [#wg_fy21_product_engagement_actions](https://gitlab.slack.com/archives/C01P9FJRDHS) (only accessible by GitLab team members) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1_5Rf3z1uH0ieIvUJIK0CDVeG9H-EG__1B-OLxARZOxA/edit#) (only accessible by GitLab team members) |
 | Epics/Issues    | [Engagement Survey Issue](https://gitlab.com/gitlab-com/Product/-/issues/1986) / [Issue Board](https://gitlab.com/groups/gitlab-com/-/boards/1453895?scope=all&utf8=%E2%9C%93&label_name[]=Product%20Operations&label_name[]=wg-fy21-engagement-actions) / Engagement action item epics: [1386](https://gitlab.com/groups/gitlab-com/-/epics/1386)  [1387](https://gitlab.com/groups/gitlab-com/-/epics/1387)  [1388](https://gitlab.com/groups/gitlab-com/-/epics/1388) |
