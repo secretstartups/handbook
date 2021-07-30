@@ -172,6 +172,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 #### Articles
 
 - [How to transition to remote work](https://askalmanac.com/articles/12774/how-to-transition-to-remote-work)
+- [Amplify Accelerator Open Source Learning Lab](https://www.redefininghr.com/learning-lab)
 - [Why remote work leads to a stronger company culture](https://www.inc.com/brian-de-haaff/why-remote-work-leads-to-a-stronger-company-culture.html)
 - [How companies benefit when employees work remotely](https://hbswk.hbs.edu/item/how-companies-benefit-when-employees-work-remotely)
 - [Why working from home is a “future-looking technology”](https://www.gsb.stanford.edu/insights/why-working-home-future-looking-technology)
