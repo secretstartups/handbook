@@ -178,7 +178,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
-|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
+|	Nordics	|	Nordics	|	Large-EMEA-UK/I-2.1	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
+|	BeNeLux	|	BeNeLux|	Large-EMEA-UK/I-2.2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
 |	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Chris Loudon | Kristine Setschin |
