@@ -15,11 +15,11 @@ I got massive value out of participating in our [CEO Shadow Program](https://abo
 
 Since then, I have been thinking of doing something similar but smaller in scale.  In July of 2021, I asked my teams if they would be interested in remotely shadowing me and several team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
 
-I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program, open to anyone in engineering.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
+I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
 ### Who can apply to be a part of the program?
 
-* This program is currently open to any team member on our engineering team.  If it is successful, it will be opened up to the rest of the company.
+* This program is currently open to all GitLab team members. 
 
 ### Process for requesting to be a shadow
 
