@@ -692,7 +692,7 @@ The following fields have been obtained:
 - Potential seats of the first opportunity (if this is a new account or buying group)
 
 **Timing**
-After the initial qualifying meeting with the account leader/executive, there must be a next step that is set to occur within a *60 day timeframe.
+After the initial qualifying meeting with the account leader/executive, there must be a tangible next step scheduled with the prospect that is set to occur within a *60 day timeframe.
 (*If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0 and in SDR ownership to nurture until the next step is actualized.)
 
 _**SDR best practice:**_
