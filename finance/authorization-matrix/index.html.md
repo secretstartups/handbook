@@ -13,7 +13,7 @@ For procedural guidlines, please see our [Authorization Policy](https://about.gi
 ## Signing Legal Documents
 
 The table below designates team members that are authorized to sign legal documents, with the exception of NDAs covering a physical visit of another organization.
-When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix).
+When working with legal agreements with vendors, consultants, and so forth, bear in mind the [signature authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) and the [Authorization Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy).
 If you need to obtain approval for a vendor contract, please create a confidential issue in the finance issue tracker using our [Contract Approval Workflow](/handbook/finance/procurement/).
 
 For all other documents that need to be signed, filled out, sent, or retrieved electronically, please do your best to fill out the form using the handbook and [wiki](https://gitlab.com/gitlab-com/finance/wikis/company-information) then e-mail it to `legal@` with the following information:
