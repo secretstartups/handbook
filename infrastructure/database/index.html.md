@@ -44,22 +44,6 @@ system to meet those commitments."[^1]
 This list is by no means complete and we're just about to define SLOs
 and document them here. See [#147](https://gitlab.com/gitlab-com/database/issues/147).
 
-### OnGres Third-Party Support
-
-In addition to the DBREs, the reliability of our database is supported by
-[OnGres](https://www.ongres.com). OnGres provides 24x7 support with engineers
-in our PagerDuty escalation policy for database support "Production Database Assistance".
-
-We encourage our SRE team on-call to involve and consult ongres in the troubleshooting and decision making during incidents.
-
-For emergency paging OnGres, via this escalation policy, open your PagerDuty mobile App, navigate to MENU > Escalation policies > Production Database Assistance > Level 1 , and click on the preferred contact method.
-
-Issues can be brought to the attention of OnGres engineers by affixing the
-[`~Ongres`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?label_name%5B%5D=Ongres)
-or
-[`~OngresSupport`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues?label_name%5B%5D=OngresSupport)
-labels to Infrastructure issues. Finally, there is also a dedicated Slack channel, `#ongres-gitlab`, for issues.
-
 ### Backup and Recovery
 
 In backup and recovery, there are two SLOs:
