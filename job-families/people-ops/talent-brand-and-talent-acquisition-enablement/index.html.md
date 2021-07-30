@@ -3,6 +3,8 @@ layout: job_family_page
 title: "Talent Brand and Talent Acquisition Enablement"
 ---
 
+## Talent Brand 
+
 ## levels
  
 ### Senior Talent Brand Manager
@@ -43,6 +45,54 @@ The Senior Talent Brand Manager is a [grade 7](/handbook/total-rewards/compensat
 - Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
 - Ability to use GitLab
 
+## Enablement
+
+## Levels 
+
+### Progam Manager, Enablement
+
+The Progam Manager, Enablement reports to the Manager, Global Enablement.
+
+#### Progam Manager, Enablement Job Grade
+
+The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Progam Manager, Enablement Responsibilities
+
+The Progam Manager, Enablement Responsibilities fall into four distinct buckets:
+
+* Operations
+   * Work with the Manager, Enablement and systems/tools team to develop bespoke reporting for the TA function
+   * Work with the Manager, Enablement on current offer process and general process workflow within Greenhouse and how it reflects in our reporting
+   * Ensure that our escalation processes and customer-facing Slack channels are managed with established SLA’s, style and communication protocols
+   * Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm 
+   * Manage our procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
+* Learning & Development
+   * Partner with the Senior Manager, TA Strategic Programs to develop the GitLab TA playbook (pitch decks, intake sessions, closing styles) and the GitLab candidate assessment framework
+   * Own the recruiting team onboarding program
+   * Develop learning paths for TA by level
+   * Partner with the Head of TA to define a level-based competency framework
+   * Partner with the Head of TA on our promotions cycle
+* Communications 
+   * Own all regular decks for Global Town Halls, defining and collating content, driving the meetings
+   * Partner with Head of TA and Head of TA Brand and Enablement on internal comms cadences and vehicles 
+   * Be an escalation point for the TA Leadership team and be comfortable triaging issues for rapid resolution
+* Strategy
+   * Be a thought-partner for the TA leadership team on operational and enablement issues
+   * Play a part in future growth conversations, develop a strong relationship with finance to be able to understand the future plan for the org and how TA can play its part it fuelling the growth of the organization 
+   * With a continued focus on Diversity, inclusion and belonging, the Enablement Analyst will ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
+
+#### Progam Manager, Enablement Requirements
+
+* Experience working in a fast-paced environment
+* A strong track record of successful project execution and strong project management skills
+* Strong organizational skills
+* Strong customer service and communication skills
+* Change Management experience
+* Ability to understand a high-level issue and conduct root cause analysis to understand issues
+* Ability to use GitLab
+* Aligns with GitLab values 
+
 ### Manager, Global Enablement
 
 The Manager, Global Enablement reports to the Director of Talent Brand & Talent Acquisition Enablement. 
@@ -79,6 +129,10 @@ The Manager, Recruiting Operations is a [grade 8](/handbook/total-rewards/compen
 * [Average candidate ISAT](/handbook/hiring/metrics/#interviewee-satisfaction-isat)
 * [Hires vs. Plan](/handbook/hiring/metrics/#hires-vs-plan)
 * [Time to Offer Accept](/handbook/hiring/metrics/#time-to-offer-accept-days)
+
+## Talent Brand and Talent Acquisition Enablement Leadership
+
+## Levels
 
 ### Director of Talent Brand & Talent Acquisition Enablement
  
