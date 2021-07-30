@@ -357,7 +357,7 @@ GitLab NFR licenses expire after a 12 month subscription period, unless they are
 
 ### The Marketing Development Funds (MDF) Program
 
-GitLab Open and Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program, which provides funding support for eligible marketing and partner enablement activities that help to:
+GitLab Select partners have access to the proposal-based GitLab Marketing Development Funds (MDF) Program.  Additionally, Open partners may access MDF funds directly on an exception basis or through their distributor.  MDF funds provide funding support for eligible marketing and partner enablement activities that help to:
 
 *  Acquire new GitLab customers
 *  Drive demand within an existing mutual customer base
