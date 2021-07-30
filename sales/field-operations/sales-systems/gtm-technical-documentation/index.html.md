@@ -447,7 +447,7 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 
    **Criteria to enter this logic:**
    * `Web Portal Purchase` is Unchecked (false value)
-   * `Order Type 2.0` is 1. New - First Order
+   * `Order Type 2.0` is 1. New - First Order OR 2. New - Connected OR 3. Growth
    * `Net ARR` less than $50,000
    * `Stamped Opp Owner User Segment` is SMB or Mid-Market or Large
    * `[TSP] Region` is not APAC

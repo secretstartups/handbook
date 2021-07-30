@@ -262,7 +262,7 @@ Follow these steps _in order:_
 4. Both the registration record and the opportunity record will be updated with the approval information.
 5. Chatter @sales-support, @kim stagg, or @dennis zeissner and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
 
-When a new customer account is created by "User Vartopia" during a deal registration, that customer account should be reassigned to the appropriate sales rep. For more information, [click here](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement), or chatter @sales-support on the newly created customer account.
+When a new customer account is created by "User Vartopia" during a deal registration, that customer account should be reassigned to the appropriate sales rep. For more information, [click here](handbook/sales/field-operations/gtm-resources/rules-of-engagement/), or chatter @sales-support on the newly created customer account.
 
 **To Deny or Request More Information on a Deal Registration**
 

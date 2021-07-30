@@ -19,11 +19,16 @@ description: "Continuous education webcast series for GitLab Customer Success te
 ## Upcoming Training
 To see what training is coming soon, view the [Customer Success Skills Exchange Issue Board](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/boards/1414538).
 
-**Summer 2021 Lineup**
+**Fall 2021 Lineup**
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Jul 21 | [Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131) |   Fern Diaz              |
+| Aug 4       |   [Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)       |  Fern D.          |
+| Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
+| Sep 1       |                |                |
+| Sep 15      |                |                |
+| Oct 6      |                |                |
+| Oct 20       |                |                |
 
 
 ## Past Sessions

@@ -393,7 +393,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
@@ -537,6 +537,43 @@ It is the goal of this team to make the first transaction with GitLab:
 1.  Customer-Focused
 2.  Efficient
 3.  Scaleable
+
+#### First Order Handoff Process
+
+After the first transaction is closed by the MMKAFO team, the First Order AEs are responsible to kickstart the handover process. Below are the responsibilities of the Mid-Market Key Account First Order team and the Mid-Market Key Account Named team.
+
+**MMKAFO Team**
+1. After the opportunity is marked 'Closed-Won', [look here](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2028) to find the appropriate MMKAN AE.
+2. Ensure the customer has received and installed their license
+3. Chatter the Named AE (if known), their ASM, the First Order ASM, Sales-Support, and Mid-Market Global Director to change the account and renewal opportunity into the Named Account Executive’s name.
+4. Log an activity on the ACCOUNT detailing: 
+    -  Why the account chose GitLab (use case)
+    -  Key contacts at the account
+    -  The expected NetARR to be sold in the next 12 months
+    -  Date by which the next order is expected to close
+    -  Estimated NetARR of the next opportunity
+    -  Why you believe c,d,and e
+    -  Naming convention of the activity should be: (Name of FO AE) FO Account Summary for Handoff
+5. Set up a call with the Named AE and the customer for a handoff call. 
+6. If the initial amount AND the immediate potential of the account is low (< $20,000 
+combined), a handoff email can be used.
+7. Ensure all material like custom decks are editable by everyone.
+
+**MMKAN Team**
+1. Work with the First Order AE to schedule a handoff call (or email) with the customer.
+    - The goal should be to have two-way communication with the customer within one week of the initial close.
+    - Named AE please respond to the handoff email/meeting invite to introduce yourself.
+2. Look in the account activities for the notes from the First Order AE, and based on those notes open an appropriate growth opportunity.
+3. Read through all notes tagged (ii) to gain an understanding of the account and its potential.
+4. Determine if a TAM (if under $50,000 nARR) is appropriate for this customer based on the immediate growth potential. If needed, request on
+5. Create a growth/add on opportunity for any growth that will happen before the first renewal date.
+
+**Note 1:** Once the account is handed off to the new AE, the new account owner is responsible for the success of the account. This includes any troubleshooting, support, ticket escalations, etc. The exception to this will be if there are any billing issues that arise on the initial order. Because billing issues related to the first order are assigned to the account owner. In some cases, the First Order AE can better fix such problems. In these cases, Named AE can re-assign the issue to the First Order AE for resolution.
+
+**Note 2:** If a First Order account is deemed to have low potential (fewer than 100 total users), it should be assigned to a Mid-Market Territory Account Executive. If in question, the First Order AE should involve their ASM, Regional Director, and VP of Commercial to determine if the account should be assigned to a Mid-Market First Order AE or a Mid-Market Named AE.
+
+
+
 
 ## Other Related Pages
 

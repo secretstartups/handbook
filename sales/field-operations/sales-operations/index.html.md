@@ -102,8 +102,8 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
 1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
 1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
 1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
@@ -374,6 +374,17 @@ Salesforce case management system to enable the transfer of certain cases (creat
 1. All Sales Support Chatter requests will continue to flow into the Sales Support queue managed by Deal Desk.
 1. Upon reviewing a case and identifying it as an account ownership/ROE or account segmentation request, Deal Desk will change the “Case Reason” field to “Account Reassignment/ROE” or “Account Segmentation Review.”
 1. Deal Desk will then change the Case Owner to “Sales Ops Queue,” which will move the case out of the Sales Support queue into the Sales Ops queue. 
+
+**Who:**
+1. Enterprise EMEA: Meri Gil Galindo 
+1. Enterprise East: Amber Stahn
+1. Enterprise West: Kira Savage
+1. Enterprise APAC: Meri Gil Galindo
+1. Public Sector: Jeny Bae
+1. Commercial Leadership: Tav Scott
+1. Commercial EMEA / APAC: Monika Deshmukh
+1. Commercial Amer: Jeny Bae
+1. Escalations / Approvals: Lindsay Schoenfeld (DRI), James Harrison 
 
 **Notes on Case Behavior:**
 1. Changing the “Case Owner” to the name of an individual team member marks that team member’s ownership of the case. This action can be taken at the individual case level or in bulk on the queue level.

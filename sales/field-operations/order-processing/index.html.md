@@ -32,7 +32,7 @@ This page outlines the Quote to Cash process. Topics include account and opportu
     *   [Deal Desk Opportunity Approval Process](/handbook/business-ops/order-processing/#submitting-an-opportunity-for-deal-desk-approval)
     *   [FY22 Bookings Policy](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#fy22-bookings-policy)
     *   [Useful Company Information](https://gitlab.com/gitlab-com/finance/wikis/company-information)
-    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement)
+    *   [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
     *   [IACV Calculation Guide](/handbook/sales/sales-term-glossary/arr-in-practice)
     *   [ARR Calculation Guide](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce)
     *   [Vendor Setup Form Process](/handbook/business-ops/order-processing/#how-to-process-customer-requested-vendor-setup-forms)
@@ -203,7 +203,7 @@ The signatory Authorization Matrix can be found here: /handbook/finance/authoriz
 **Process for Signature**
 Once negotiations are completed, and the digital stamp has been affixed to the final version of the contract / Agreement: 
 1. Change the status of the contract, in SFDC, to 'Approved to Sign'; and 
-1. [stage the contract](https://faq.hellosign.com/hc/en-us/articles/205830938-How-do-I-request-a-signature-) in HelloSign for signatures; 
+1. [stage the contract](https://support.docusign.com/guides/ndse-user-guide-send-a-document) in DocuSign for signatures; 
 1. Send to the Customer and cc' our CFO (Brian Robins).
 
 </details>
@@ -217,7 +217,7 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 1.  Why is Trade Compliance (Export / Import) important
     1. Not complying could be detrimental to the United States and other countries GitLab operates in
 	1. IT’S THE LAW!
-	1. Not complying could result in fines or penalties for GitLab and/or GitLabbers
+	1. Not complying could result in fines or penalties for GitLab and/or GitLab team members
 	1. Non-compliance could result in the inability to sell to federal customers, lose the trust of our customers, partners and investors and result in fines or jail time for officers and offenders
 1. For more information see the [Trade Compliance ](/handbook/business-ops/trade-compliance/) handbook page and the [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) page.
 1. GitLab uses a third party tool called “Visual Compliance” that is connected to our GitLab SalesForce account
@@ -971,6 +971,7 @@ Quoting:
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. [Open a new issue](https://gitlab.com/gitlab-com/alliances/google/gitlab-tracker/-/issues/new?issuable_template=marketplace_deal) with the Alliance team to create the Private Offer. Please use the issue template *marketplace_deal* and fill out the description including the Order Form from Salesforce. When generating the PDF, be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
+1. GCP does not support edits to a order once created and completed through a Private Offer.  Any mid-term updates or add-ons needed for the subscription requires a contract reset through a new Private Offer processed. 
 
 Requirements to Close Deal:
 
