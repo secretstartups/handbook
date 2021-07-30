@@ -58,6 +58,13 @@ At 10:00 UTC every Thursday, the bot will send another alert in the `#team-membe
 
 ## Pre-Onboarding
 
+### Converting from Consultant to Full Time Team Member
+
+In some cases, consultants will be hired with GitLab and converted to full time team members. If this is the case, the following should take place:
+
+- People Experience Associate should reach out to the manager in the onboarding issue once created to advise them that they need to complete an offboarding access request for the consultant as per this [process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/#offboarding). The manager should then reach out to the IT Ops team to get it actioned and ensure that the new email address (which the People Experience Associates add to BambooHR) will sync correctly to Okta. 
+- The People Experience Associate should also send a message to the manager in the issue to see whether a laptop has been sent to the team member, as well as that the team member will need to split focus between carrying on role based tasks and completing the onboarding issue.  
+
 ### Pre-Onboarding, US
 - **I-9 and E-Verify**<a name="I-9"></a>
 
@@ -390,7 +397,7 @@ The People Experience Associate will then create an onboarding issue with a Chat
 1. Update if applicable the title with the Specialty as the bot does not add the Specialty so it must be manually added.
 1. If the manager is not automatically assigned and listed in the issue, add them. It could be because the employee's manager uses a name in GitLab that is very different from the one in BambooHR, and they don't use their `@gitlab.com` email ID as the primary email ID in GitLab. They will then manually need to be assigned.
 1. Copy and paste the link into the People Exp/Ops Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Experience and People Operation Specialist Teams due to personal information.
-1. Once the onboarding issue has been opened, the Empployment Bot will ping the manager in the issue if no Baseline Entitlement Access Request exists. In the event that a manager pings the Bot/People Experience Associate that one does exist (usually providing a link to the correct template), follow the steps below:
+1. Once the onboarding issue has been opened, the Employment Bot will ping the manager in the issue if no Baseline Entitlement Access Request exists. In the event that a manager pings the Bot/People Experience Associate that one does exist (usually providing a link to the correct template), follow the steps below:
   1. is the role template title == the team member's role
   1. is the role template’s department folder == the team member's department
   1. is the role template specified on speciality level and == the team member's specility the same
@@ -506,14 +513,15 @@ In the event that a former team member is rehired with the company, they will st
 
 - Ensure that the team members Greenhouse profile is linked to their original profile to ensure that a duplicate BambooHR profile is not created.
 - Notify the People Experience team as soon as possible that a former team member has been rehired in the private `people-exp_ces` Slack channel.
-- If the team member has not been sync with BambooHR, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#resync-team-member)
+- If the team member has not been sync with BambooHR, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#missing-team-member)
 
 #### People Experience Team
 
 - Check when the team member was offboarded previously. Open a new onboarding issue if the team member was offboarded more than 3 months ago, or open a customised onboarding issue if offboarding took place in the last 3 months.
   - If a custom onboarding issue is created, be sure to include the default onboarding template table as the employment automation relies on the information.
 - Dependent upon the team members location, an employment verification may need to be commpleted (example: US team member needs to complete I-9 verification).
-  - If an I9 is needed you will need to run a rehire sync with [LawLogix](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#rehired-team-member) if a previous I9 is present. If an I9 is not available then a new I9 will need to be created.
+  - If an I9 is needed you will need to run a rehire sync with [LawLogix](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#rehired-team-member) if a previous I9 is present. If an I9 is not available then a new I9 will need to be created.
+- Verify that the team members former email address is still available by searching in Google Workspace. Keep this email address the same as far as possible.
 - Reactivate the team members previous BambooHR profile to avoid duplicates from being created, as well as update any new employment terms.
     - Status on Personal tab: set to Active.
     - Employment Status: add new entry with new start date and set to Active.
