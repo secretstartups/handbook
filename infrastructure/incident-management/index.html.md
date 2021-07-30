@@ -169,6 +169,8 @@ Saturday / Sunday 00:00 - 08:00 UTC does not currently have CMOC coverage.
 ### Corrective Actions
 Corrective Actions (CAs) are work items that we create as a result of an incident. They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence.
 
+Corrective Actions should be related to the incident issue to help with downstream analysis. 
+
 ##### Best practices and examples, when creating a Corrective Action issue:
 - They should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant and Time-bounded.
 - Avoid creating CAs that:
