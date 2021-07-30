@@ -80,6 +80,16 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 In later sections of this workflow it's called out that at times you should be asking the IMOC of the incident for permission to move an incident between certain states (updating, monitoring, resolving). On the rare occasion that an incident does not have an IMOC, you may ask the EOC instead.
 
+### Finding Related Tickets
+
+In some circumstances, the IMOC may ask you to find the number of tickets that an incident may have raised in order to evaluate the impact of the incident.
+
+Because the default views will only show unassigned tickets in your region, start with using this [Zendesk Search](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=created%3E4hours%20order_by%3Acreated_at%20sort%3Adesc%20group%3Anone%20group%3A%22support%22%20-form%3Abilling%20-form%3Asecurity) to find all recent tickets.
+
+Alternatively, you can paste the following search string into the Zendesk search bar (useful if you are using Zendesk Quicktab extension): `created>4hours order_by:created_at sort:desc group:none group:"support" -form:billing -form:security`
+
+This shows new tickets created in the previous 4 hours - change the range if the incident began earlier than that.
+
 ### Reviewing Past Incidents
 
 Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
