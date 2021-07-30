@@ -139,7 +139,7 @@ To align our education and enablement with our product, each of the topics below
 ***
 ##### Foundations Level
 - [Release Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/release/)
-- [Release Stage Direction and Roadmap](https://about.gitlab.com/direction/release)
+- [Release Stage Direction and Roadmap](https://about.gitlab.com/direction/deployment)
 - [CI/CD eBook](https://about.gitlab.com/resources/ebook-single-app-cicd/)
 - [CI/CD YouTube Demo Overview](https://about.gitlab.com/blog/2017/03/13/ci-cd-demo/)
 ##### Intermeiate Level
