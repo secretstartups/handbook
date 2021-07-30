@@ -134,7 +134,7 @@ Anyone can **block or halt a deployment** by:
 In addition, automated deployments to **any production environment** (including [canary]), are
 halted during the change lock period. Currently, the change lock period is:
 
-* Between every Friday 23:00 UTC and Monday 07:00 UTC.
+* Between every Friday 23:00 UTC and Monday 06:00 UTC.
 * Fourth Thursday of November (US thanksgiving, limited availability company wide).
 * 24th and 25th of December (Christmas according to Gregorian calendar, limited availability company wide).
 * 1st of January (New Years day, limited availability company wide).
