@@ -84,7 +84,7 @@ GitLab Inc (USA 2014-09-10)
       ├── GitLab France SAS (FR 2021-05-27)
       ├── GitLab Ireland Limited (IE 2020-07-30)
       └── GitLab Singapore Holding PTE LTD (SG 2020-12-10)
-          └── GitLab Singapore Subsidiary (to be incorporated)
+          └── GitLab Singapore PTE Ltd (SG 2021-07-01)
 
   ```
 ## Establishment of a NewCo
@@ -175,6 +175,7 @@ At GitLab the supply of tangibles is non-existent while the other transaction ca
 | GitLab Ireland Limited |         |           |            |  X  |  X  |     |
 | GitLab France SAS |         |           |            |  X  |  X  |     |
 | GitLab Singapore Holding PTE Ltd |         |           |       X    |    |    |     |
+| GitLab Singapore PTE Ltd |     |           |            |  X  |     |     |
 
 ### Transfer Pricing Concept
 #### Distribution, Sales & Marketing
