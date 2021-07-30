@@ -5,14 +5,13 @@ description: A guide for new team members
 ---
 
 ## On this page
-{:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Welcome!
-{: #tanuki-orange}{: .gitlab-orange}
+{: #tanuki-orange}
 
 Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during onboarding as a new team member. 
 
@@ -49,8 +48,8 @@ After you sign your offer and complete your background check and references, you
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md). 
 
 
-### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Purple GitLab Tanuki
-{: #tanuki-purple} Onboarding Expectations 
+### <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
+{: #tanuki-purple}  
 
 1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
  - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
