@@ -72,7 +72,7 @@ The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensati
 * Represent GitLab as a speaker at field events or as an author in GitLab-focused publications and blogs.
 * Provide opportunity strategy leveraging market and industry knowledge and trends.
 * Collaborate with the product team while representing customer requirements and feedback.
-* Regularly enhances GitLab documentation for clarify and accuracy as well as adding new explanations, examples and sections.
+* Regularly enhances GitLab documentation for clarity and accuracy as well as adding new explanations, examples and sections.
 * Share subject matter expertise through Slack posts, documentation updates, communities of practice, issue and MR participation and other common GitLab collaboration mechanisms.
 * Coach sales team-members on deal qualification when necessary.
 * Assists with specific objectives and key result associated tasks
