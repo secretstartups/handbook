@@ -10,3 +10,4 @@ title: "GitLab Sales Team READMEs"
 - [Nick Lotz's README (Professional Services Technical Instructor)](/handbook/sales/readmes/nick-lotz/)
 - [Tim Poffenbargers's README (Solutions Architect)](/handbook/sales/readmes/tim-poffenbarger.html)
 - [Francis Potter's README (Solution Architect)](/handbook/sales/readmes/francis-potter.html)
+- [JC Choi's README (Professional Services Technical Instructional Designer)](/handbook/sales/readmes/jc-choi/)
