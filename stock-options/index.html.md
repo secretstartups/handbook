@@ -244,7 +244,7 @@ termination of services, the company is not obligated to do so. Accordingly you 
 lose some or all of the investment you made. Because we are a young company there are
 lots of risks, so be aware and informed of the risks. Please read this [quora thread about most startups failing](https://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) and this story of [people paying more in tax for their stock than they get back](http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html).
 
-### Trading Restrictions During Quarterly 409a Valuations
+### Trading Restrictions During 409a Valuations
 
 GitLab team members can access the options exercise restriction periods schedule by visiting [this link](https://drive.google.com/file/d/10ECV9zA56zLARuLqhXj6QTNqKOUx-RwC/view?usp=sharing).
 
