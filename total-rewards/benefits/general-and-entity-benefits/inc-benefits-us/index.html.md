@@ -43,7 +43,7 @@ _If you already have current group medical coverage, you may choose to waive or 
 
 If you do not enroll in a plan within your benefits election period, you will automatically receive the medical waiver allowance.
 
-GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [notice](https://drive.google.com/file/d/1-uX5Sp0se1Kq5aPZQPqByeCTgcDen9-b/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
+GitLab has confirmed that our medical plans are CREDITABLE. Please see the attached [2021 notice](https://drive.google.com/file/d/1p3ht-qB2jwcjglj84nRTmMQX3rafWjCP/view?usp=sharing). If you or your dependents are Medicare eligible or are approaching Medicare eligibility, you will need this notice to confirm your status when enrolling for Medicare Part D. For more information about Medicare prescription drug coverage:
 - Visit www.medicare.gov
 - Call your State Health Insurance Assistance Program (see the [“Medicare & You” handbook](https://www.medicare.gov/medicare-and-you) for their telephone number) for personalized help.
 - Call 1-800-MEDICARE (1-800-633-4227). TTY users should call 1-877-486-2048.
