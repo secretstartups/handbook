@@ -106,14 +106,14 @@ Steps:
 1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
 1. Make a copy of the template + save to your drive
 1. Fill out the template 
-1. Submit your IGP to your profile on BambooHR 
 1. Review with your manager 
-1. Check the box in BambooHR that you have reviewed with your manager 
 1. Start working towards your goals! 
 
-##### Using your IGP
+##### GitLab Team Member Using the IGP
 
-ADD IGP VIDEO
+The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development. 
+
+<iframe width="560" height="315" src="addurl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tracking your Accomplishments 
 
@@ -126,7 +126,7 @@ Steps:
 
 ##### Using your Accomplishment Tracker
 
-ADD accomplishment tracker VIDEO
+<iframe width="560" height="315" src="addurl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### External Resources some with no cost
 
