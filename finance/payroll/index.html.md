@@ -35,6 +35,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 - GitLab GK (Japan) - CloudPay
 - GitLab France S.A.S. - Global Upside
 - GitLab Korea Limited - Global Upside
+- GitLab Singapore PTE. LTD - Global Upside
 
 ## Pay Date
 
@@ -51,6 +52,7 @@ Welcome to the Payroll Group handbook!  You should be able to find answers to mo
 1. GitLab GK Japan team members will get their salary on the last business day of every month unless it falls on a holiday then it will be the business day before, and team members can see their payslip via [CloudPay's ESS portal](https://payroll.cloudpay.net/app/servlet/workflow?mode=ess). New hires will receive an invite to their email.
 1. GitLab Korea Limited team members will receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Mihi system](https://2.mihi.info/Account/Login?ReturnUrl=%2F). New hires will receive an invite to their email.
 1. GitLab France S.A.S. team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Mihi system](https://2.mihi.info/Account/Login?ReturnUrl=%2F). New hires will receive an invite to their email.
+1. GitLab Singapore Pte. LTD. Team members receive their salary on the last business day of the month unless it falls on a holiday then it will be the business day before, team members will be able to access their payslip on Global Upsides [Mihi system](https://2.mihi.info/Account/Login?ReturnUrl=%2F). New hires will receive an invite to their email.
 1. GitLab IT BV team members that are employed through GitLab's co-employer PE0:
    - Global Upside (India and China) will get their salary wired by the last day of the month with exception to Philippines having 2 check date-15th and last   day of the month, respectively. Global Upside will send payslips electronically through their HR portal. New hires will receive an invite to their email.
    - Safeguard: Switzerland are paid monthly and on the 25th of each month, Italy and Spain the 26th of each month. Payslips are provided electronically by Safeguard.
@@ -211,12 +213,12 @@ If you experience login issues, please send an e-mail to uspayroll@gitlab.com so
 ## Non-US
 
 
-### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand, Japan, France & South Korea Monthly Payroll Process
+### Australia, UK, Belgium, Netherlands, Germany, Ireland, New Zealand, Japan, France, Singapore & South Korea Monthly Payroll Process
 
 1. The due date for payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. Please review the relevant [Payroll Calendar links] (/handbook/finance/payroll/#payroll-cut-off-dates) in the Payroll Cut Off Dates section on this page.  If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
 1. The due date for the current month payroll changes to the providers is usually the 10th of each month with exception of Australia (12th) and UK (15th).  If the due date falls on a weekend or a holiday, then it will be the business day before. If a new team member starts after the Payroll cut off they will be paid in the following months Payroll with the salary back dated (ie if you start on the 16th June, you will be paid in the July Payroll for the month of July and back dated for June).
 1. The Total Rewards Team will add certain bonuses, promotions, title changes and other relevant information to the Payroll Changes template.
-1. Payroll will gather all changes, along with any commissions, salary changes & expenses (only UK & Canada) and enter onto a password protected file.
+1. Payroll will gather all changes, along with any commissions, salary changes & expenses (only UK, Canada, France, South Korea & Singapore) and enter onto a password protected file.
 1. Payroll sends the payroll changes file to the local payroll providers.
 1. The Local payroll providers will send the payroll reports to Payroll for review and approval.
 1. The Payroll Specialist will review and notify Payroll Manager for final review and approval.  Once that is completed then final approval will be sent before the 21st of the month.
@@ -351,6 +353,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
 - GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/d/12Uod9dg2sqBt9Zi8DxPyQKCN8jG5PXfTp2oJ3No-EBc/edit#gid=0)
 - GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1aa_WLBdDoPyBO9aaFmpAdymHjhULQgGJH0UiiLB6TnE/edit#gid=0)
+- GitLab Singapore PTE. LTD. [Payroll Calendar] (https://docs.google.com/spreadsheets/d/1ehVE2FbztGNWz1zN8vSUb0d4o6VKXW8zbMP-_0eIXDI/edit#gid=0)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
     -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
