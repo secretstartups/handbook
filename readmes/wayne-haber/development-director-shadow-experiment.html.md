@@ -33,7 +33,7 @@ I am doing an experiment for a couple months with a smaller scope and smaller sc
 
 * The shadowing will be done remotely.
 * You can be a shadow for as little as two days or as much as five days in a six-month period.  The shadowing does not need to be done on sequential days.
-* Join all meetings on my calendar on your shadow days that are not private (most are not private), unless I specifically ask you not to because the meeting participants have opted out of this program for this meeting.
+* Join all meetings on my calendar on your shadow days that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
 * If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
 * You are encouraged to take notes on what is being said in meeting documents that you have edit rights to (which will be most of them).  The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
