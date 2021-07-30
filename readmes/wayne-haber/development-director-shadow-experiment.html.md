@@ -13,26 +13,26 @@ title: "Development Director Shadow Experiment"
 
 I got massive value out of participating in our [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/) when [I did it in July of 2020](https://about.gitlab.com/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
-Since then, I have been thinking of doing something similar, but smaller in scale.  In July of 2021, I asked my teams if they would be interested in remotely shadowing me and a number of team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
+Since then, I have been thinking of doing something similar but smaller in scale.  In July of 2021, I asked my teams if they would be interested in remotely shadowing me and several team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
 
-I am doing an experiment for a couple months with a smaller scope and smaller scale shadow program than the CEO Shadow Program, open to anyone in engineering.  If it goes well, I will continue it and iterateively improve it.  If it doesn't go well, I will end it.
+I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program, open to anyone in engineering.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
 ### Who can apply to be a part of the program?
 
-* This program is currently open to any team member on our engineering team.  If it is successful it will be opened up to the rest of the company.
+* This program is currently open to any team member on our engineering team.  If it is successful, it will be opened up to the rest of the company.
 
-### Process for requesitng to be a shadow
+### Process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
-1. You must been a GitLab team member for >= 3 months
-1. Check this spreadsheet TBD for days that are open for shadowing.  If this program is successful the spreadsheet will be replaced with a table in this handbook page.
+1. You must be a GitLab team member for =6 months
+1. Check this spreadsheet TBD for days that are open for shadowing. If this program is successful, the spreadsheet will be replaced with a table on this handbook page.
 1. Confirm with your manager that they are ok with you participating
 1. Add yourself to the spreadsheet for the days in which you want to shadow
 
 ### How does the shadowing work?
 
-* The shadowing will be done remotely.
-* You can be a shadow for as little as two days or as much as five days in a six-month period.  The shadowing does not need to be done on sequential days.
+* The shadow will participate remotely.
+* You can be a shadow for as little as two days or as much as five days in six months.  The shadowing does not need to be on sequential days.
 * Join all meetings on my calendar on your shadow days that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
 * If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
@@ -48,7 +48,7 @@ I am doing an experiment for a couple months with a smaller scope and smaller sc
 ## Process for non-shadow meeting attendees
 
 * If a meeting is public inside GitLab, shadows will simply attend the meeting as a regular participant
-* If a meeting discusses or shows confidential information, I will ask the meeting owner and/or participants if they are ok with a shadow being in the meeting (and if they are ok with the shadow having read and/or read/write access to the meeting notes document).
+* Some meetings will discuss confidential information. In those cases, I will ask the meeting owner and/or participants if they are ok with a shadow being in the meeting (and if they are ok with the shadow having read and/or read/write access to the meeting notes document).
 
 ## What this program is not
 
@@ -61,10 +61,10 @@ It is not a performance evaluation or a step for a future promotion.
 
 ## Preparing for the program
 
-1. Slack me in `#wayne_shadow_program_experiment` to let me know a couple days before your first shadow
-1. Schedule a coffee chat with me a couple days before your first shadow (especially if we have not met previously)
+1. Slack me in `#wayne_shadow_program_experiment` to let me know a couple of days before your first shadow
+1. Schedule a coffee chat with me a couple of days before your first shadow (especially if we have not met previously)
 1. Plan to observe and ask questions
-1. Don't plan to your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
+1. Don't plan to do your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
 1. Participating in the shadow program is a privilege where you may be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
 1. Review my calendar (link TBD)
 1. Review my [readme](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/) 
@@ -72,7 +72,7 @@ It is not a performance evaluation or a step for a future promotion.
 
 ## What to do after you participate
 
-1. After your shadow completes, I would love to hear feedback on the program, on what you learned, on what you liked, on what you didn't like, feedback on what I can do better, etc.
+1. After your shadow completes, I would love to hear feedback on the program, what you learned, what you liked, what you didn't like, feedback on what I can do better, etc.
 1. Consider sharing your learnings with your team and other peers via a blog, slack summary, etc.
 
 ## Are other directors in engineering also allowing shadows?
