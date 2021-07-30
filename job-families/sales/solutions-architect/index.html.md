@@ -33,15 +33,15 @@ The Associate Solutions Architect is a [grade 5](/handbook/total-rewards/compens
 
 The Associate Solutions Architect has the same responsibilites and requirements as a Solutions Architect, but with less experience.
 
-### Solutions Architect (Intermediate)
+### Solutions Architect
 
-The Solutions Architect (Intermediate) reports to the Manager, Solutions Architect.
+The Solutions Architect reports to the Manager, Solutions Architect.
 
-#### Solutions Architect (Intermediate) Job Grade
+#### Solutions Architect Job Grade
 
-The Solutions Architect (Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Solutions Architect is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Solutions Architect (Intermediate) Responsibilities
+#### Solutions Architect Responsibilities
 
 * Engage with customers, both onsite and remote, in a technical consultancy and advisor role during the pre-sales process while providing technical assistance and solution guidance.
 * In partnership with the sales team, formulate and execute a sales strategy to exceed revenue targets through the adoption of GitLab.
@@ -52,7 +52,7 @@ The Solutions Architect (Intermediate) is a [grade 6](/handbook/total-rewards/co
 * Continuously improve your professional skills with a focus on personal mastery and team learning through activities such as training, reading and seeking mentorship from others.
 * Maintain specialty competency in one or more technologies related to GitLab's market focus through activities such as training, certification and creation of working examples for reuse internally and by customers and partners.
 
-#### Solutions Architect (Intermediate) Requirements
+#### Solutions Architect Requirements
 
 * Technical presentation and communication skills
 * Experience with technical pre-sales or as a professional in the field of information technology
