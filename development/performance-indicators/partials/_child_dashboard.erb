@@ -6,6 +6,10 @@
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
 
+#### <%= header %> Infrastructure indicators
+
+<%= partial "handbook/engineering/development/performance-indicators/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
+
 #### <%= header %> quality indicators
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
@@ -17,7 +21,3 @@
 #### <%= header %> Security indicators
 
 <%= partial "handbook/engineering/development/performance-indicators/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
-
-#### <%= header %> Infrastructure indicators
-
-<%= partial "handbook/engineering/development/performance-indicators/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
