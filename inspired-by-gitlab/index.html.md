@@ -91,6 +91,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "Axya ❤️ GitLab's [remote culture](http://allremote.info/)! The GitLab platform is not the only thing we love about Gitlab, but also their remote culture. As a remote-first SaaS company, Axya is heavily inspired by the likes of GitLab and Automattic."
 1. [Assured Information Security](https://www.ainfosec.com/)
    - "As a [predominantly](https://www.ainfosec.com/we-are-in-this-together-ais-response-to-covid-19/) on-premise organization, [Assured Information Security](https://www.ainfosec.com/) is sitting on the shoulder of giants by adapting Gitlab [communication practices](/handbook/communication/) and using GitLab technology. The care and expertise is apparent in the [GitLab company values](/handbook/values/), handbook, community, and product, which has allowed us to rapidly [adopt a new way of doing business](/company/culture/all-remote/hybrid-remote/) and trust we are on a proven path."
+1. [Matter IP](https://www.matter-ip.com/)
+   - "GitLab are real leaders in remote working, which is something essential to our business model but that we felt out of our depth on. The [Remote Playbook](http://allremote.info/) has been a great resource for us to makes sure we approach this in a way that leads to success."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
