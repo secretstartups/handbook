@@ -203,9 +203,24 @@ Within the Configure team we use the following processes and best practices to e
 1. On a weekly basis, we review our [Triage report](https://about.gitlab.com/handbook/engineering/quality/triage-operations/#triage-reports) for bugs and regressions and take the appropriate action.
 1. We review the [quality dashboard](https://app.periscopedata.com/app/gitlab/736012/Quality-Embedded-Dashboard) each milestone to track our long term progress at improving quality.
 
-### Error Budget
+## Error Budget
 
-The Configure Group uses the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1) to measure our budget usage on a weekly basis. 
+Our target availability is 99.95%
+
+### Process
+
+The Configure Error Budget encompasses a wide set of product areas including: AutoDevops, IaC, Kubernetes Management, Cluster cost management, Serverless, Secrets Management, ChatOps, and Runbooks. Though a number of these areas are not under active development we still consider the entire group as part of our budget.
+
+On a monthly basis the EM will review the [Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-configure/stage-groups-group-dashboard-configure-configure?orgId=1) using the following process.  
+
+Under "Budget spend attribution":
+
+1. Determine slow endpoints under the "apdex" violation type. Look in "Kibana: Kibana Rails logs" to discover what any new slow endpoints could be. Identify each one and create a issue.
+2. For the "error" violation type, use the "Kibana: Kibana Rails failed request logs" to determine new errors that could be impacting the error budget. Identify each one and create a issue.
+
+### Considerations
+
+Currently the apdex threshold has a cuttoff of 1 second. Several of our endpoints used to manage Terraform State regularly require 1-3 seconds to complete their operations. We have determined this is an acceptable response time. As a result our Error Budget is overwhelmingly impacted by this limitation and the issue is [being discussed by the Infrastructure team](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525), with the goal of allowing teams to customize acceptable response times per endpoint. Until we can set a customized value for those endpoints our error budget will not be reflective of reality.
 
 ## Async Issue Updates
 In order to optimize async collaboration we leverage issue updates to share progress completed on a specific issue or epic.
