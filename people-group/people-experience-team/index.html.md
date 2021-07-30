@@ -313,3 +313,15 @@ The People Experience Associate will open the Greenhouse entry to confirm whethe
 ### 1Password Complete Recovery
 
 As admins for 1Password, the People Experience team will get notified when an account recovery is requested by the IT Ops team. We do not need to take any action on these and can safely delete/ignore the email. The IT Ops team will complete the recovery.
+
+### Requesting signatures via DocuSign
+
+We use [DocuSign](https://app.docusign.com/home) to request signatures on documents and follow the below process:
+
+1. Click: Start > send an Envelope > get from cloud > google drive > select documents
+1. Tick: Set signing order > Add recipients name and email > click ‘add recipient’ for additional signatories in relevant signing order
+1. Email message (edit, if applicable): Hi {signatory}, please could you sign this document. Please let me know, if you have any questions. Kind regards, {your name}
+1. Click: Next
+1. Select signatory’s name in top left
+1. Drag ‘signature’ and ‘date signed’ etc. to appropriate fields
+1. Click: Send
