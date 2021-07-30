@@ -35,6 +35,8 @@ The GitLab Finance Department includes multiple Teams: Accounting, Financial Pla
 
 [Signature Authorization Matrix](/handbook/finance/authorization-matrix)
 
+[Authorization Matrix Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy) 
+
 [Stock Options](/handbook/stock-options/)
 
 
