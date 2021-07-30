@@ -25,10 +25,11 @@ For video overviews, see:
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/5_J9Kfbu5JA" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
+- [Product Usage Data Dashboard](https://www.youtube.com/watch?v=CJ318OGtkb8)
 - [Product Usage Data - video overview](https://youtu.be/5_J9Kfbu5JA)
 - [Health Measures and Data Quality](https://www.youtube.com/watch?v=XQCGKL4XF_o)
 
