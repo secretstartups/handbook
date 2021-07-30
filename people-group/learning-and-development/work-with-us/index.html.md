@@ -66,18 +66,21 @@ To create a Learning Hub for your team using a Channel in GitLab Learn, complete
 
 Anyone team at GitLab is encoruaged to build new learning pathways. Some scenarios where you might want to build a pathway include:
 
-1. Create career development path for your team
-1. Build a training for external audiences on your role
-1. Teach the GitLab team how to efficiently solve a common problem, like troubles with Merge Requests or strategies for async communication
-1. Organize content you've found externally, like articles, videos, or podcasts
+1. Create career development path for your team. Example: [Marketing team GitLab badges](https://gitlab.edcast.com/channel/gitlab-marketing-learning-hub)
+1. Build a training for internal and/or external audiences on your role. Example: [GitLab Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/ECL-02528ee2-c334-4e16-abf3-e9d8b8260de4)
+1. Develop a course that educates on remote work best practices. Example: [Bias towards Async Communication](https://gitlab.edcast.com/pathways/ECL-d28057c0-d024-41b0-a89d-9e4d5a024932)
+1. Organize content you've found externally, like articles, videos, or podcasts. Example: [Product Managers Learning Topics](https://gitlab.edcast.com/channel/gitlab-product-team-learning-hub)
 
-To create a new learning pathway and to add that pathway to GitLab Learn, start by building the course content in the handbook. Once the content is ready, open an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new?issuable_template=new_pathway). All steps should be outlined on this template.  
+Before you start the process to build content for a learning pathway, it's important that you ensure an existing pathway with the same content or style does not exist. Below are some strategies you can use to search existing content and check for duplication **before** you start building content.
 
-**Examples of learning paths in GitLab Learn
+1. Use the search feature on [GitLab Learn](https://gitlab.edcast.com/) to search for keywords related to your topic. Use the `Content Source` filter to show only `User Generated Content`. This will display any content related to that keyword that GitLab team members have already contributed to the platform. Consider reusing existing material in the platform if it's relevant to your learning goals
+1. Using the same search feature, apply `Content Source` filter to show only `LinkedIn Learning`. If you're creating a training with a focus on team member development, consider using or including an existing LinkedIn Learning course on the topic
+1. Using the same search feature, apply `Content Source` filter to show only `GitLab Unfiltered`. This will display any Unfiltered content that related to the keyword and can be included in your pathway.
+1. All learning in GitLab Learn is [handbook first](/handbook/people-group/learning-and-development/interactive-learning/). Search the handbook for existing content pages and material. The [leadership handbook pages](/handbook/leadership/) and [all-remote guide](/company/culture/all-remote/guide/) are often a great place to start, especially when creating material for team members. Add relevant content to these handbook pages before creating a brand new page, and use the handbook as a SSoT for your pathway.
 
-1. Diversity, Inclusion and Belonging Certification
-1. GitLab 101 and GitLab 201
-1. Bias for Asynchronous Communication
+After you've done a complete search of existing material that you can integrate into your pathway creation, you should start building the remainder of the content your pathway needs.
+
+To create a new learning pathway and to add that pathway to GitLab Learn, start by building the course content in the handbook. Once the content is ready, open an issue in the Learning and Development [general project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues) using the `new_pathway` [template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new?issuable_template=new_pathway).  
 
 **Timeline and expectations**
 
@@ -87,9 +90,9 @@ To create a new learning pathway and to add that pathway to GitLab Learn, start 
 | Open a `new_pathway` [issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/new#) | 5 weeks prior to launch |
 | Start collaboration on pathway needs with L&D team | 4 week prior to launch |
 | Implement changes on handbook based on L&D feedback | 3 weeks prior to launch |
-| Complete Learning Evangelist training in GitLab Learn | 3 weeks prior to launch |
+| Complete [Learning Evangelist training](https://gitlab.edcast.com/pathways/ECL-f9be1e50-ba17-46b3-af33-731d19b3ffcd) in GitLab Learn | 3 weeks prior to launch |
 | First iteration of conent upload to GitLab Learn | 2 weeks prior to launch |
-| Peer review or L&D review of content in GitLab Learn | 1 week prior to launch |
+| [Peer review](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/admin/#peer-review-content-before-publishing) or L&D review of content in GitLab Learn | 1 week prior to launch |
 | Make final edits based on peer review | 1 week prior to launch |
 | Launch your course | approx. **5 weeks** after opening the `new_pathway` issue with the L&D team |
 
