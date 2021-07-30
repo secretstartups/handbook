@@ -233,9 +233,9 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
 
 When reviewing compensation for a transfer in Greenhouse, the Total Rewards team will ensure internal equity among like roles ahead of approving the offer details using the following general guidelines: 
 
-1. **Lateral Transfer (different job family, same grade)**: Typically we would see a team member recieve no increase or an increase in the amount of the benchmark differential for a lateral transfer. 
-2. **Promotional Transfer (different or same job family, higher grade)**: In this case we would recommend a 5-10% increase (aligned to the promotional expected increase) and/or the difference in the benchmark for the transfer to a higher grade. 
-3. **Other Transfer types**: There are other transfers that can be reviewed on a case by case basis. For example, if someone is transferring to a lower grade in the same or different job family compensation may be adjusted down to ensure alignment to market rates for the role. Please tag the Total Rewards team in Greenhouse to conduct a review. 
+1. **Lateral Transfer (different or same job family, same grade)**: Typically we expect a team member to receive no increase or an increase in the amount of the benchmark differential for a lateral transfer. 
+2. **Promotional Transfer (different or same job family, higher grade)**: We recommend a 5-10% increase (aligned to the promotional expected increase) and/or the difference in the benchmark for the transfer to a higher grade. 
+3. **Other Transfer types**: There are other transfers that can be reviewed on a case by case basis. For example, if someone is transferring to a lower grade in a different or same job family, compensation may be adjusted down to ensure alignment to market rates for the role. Please tag the Total Rewards team in Greenhouse to conduct a review. 
 
 ### Submit a Promotion request in BambooHR
 
