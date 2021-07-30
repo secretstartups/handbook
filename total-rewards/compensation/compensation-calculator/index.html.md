@@ -14,6 +14,19 @@ description: "On this page, we explain the different factors that make up our Co
 
 On this page, we explain the different factors that make up our Compensation Calculator and its alignment to GitLab's values and Compensation Principles.
 
+### Use the calculator
+
+We source some of the information the calculator is based upon, including the San Francisco benchmark and location factors, from 3rd party, non-public sources. As a result, the full compensation calculator application
+itself cannot be made completely public.
+
+Instead, consistent with our value of transparency but in line with our agreements regarding how we use data we have sourced, we provide information regarding the type of data we use to build the calculator and how that information helps us build as complete and accurate of a calculator as possible.
+
+Team members can access [the calculator](https://comp-calculator.gitlab.net/users/sign_in)
+at any time with their GitLab credentials. Applicants will be given credentials and
+will be able access the calculator themselves as well, during the application process.
+
+You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). Internal team members can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount.
+
 ## Contact Total Rewards
 For any questions relating to the compensation calculator, reach out to [Total Rewards](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group).
 
@@ -40,19 +53,6 @@ The goals of the calculator are:
 1. You should be able to calculate your compensation in case you know or made an assumption about your level.
 1. That it is as close to a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) as possible given the other constraints.
 1. Be able to calculate compensation for most of our offers without involving a compensation specialist.
-
-### Use the calculator
-
-We source some of the information the calculator is based upon, including the San Francisco benchmark and location factors, from 3rd party, non-public sources. As a result, the full compensation calculator application
-itself cannot be made completely public.
-
-Instead, consistent with our value of transparency but in line with our agreements regarding how we use data we have sourced, we provide information regarding the type of data we use to build the calculator and how that information helps us build as complete and accurate of a calculator as possible.
-
-Team members can access [the calculator](https://comp-calculator.gitlab.net/users/sign_in)
-at any time with their GitLab credentials. Applicants will be given credentials and
-will be able access the calculator themselves as well, during the application process.
-
-You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). Internal team members can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount.
 
 ### The Compensation Calculator Formula
 
