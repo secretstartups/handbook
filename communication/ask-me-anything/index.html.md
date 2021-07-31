@@ -96,6 +96,8 @@ Other non-Executive AMAs are scheduled by the [People Operations](/handbook/peop
 
 When scheduling an AMA, be mindful of timezones.  Generally it is best to have two AMAs, one for the Americas/EMEA time zone, and one for the APAC time zones.
 
+Once a Reverse AMA is scheduled, a 15 debrief meeting is to be scheduled for immediate after to ensure there is a timely discussion and DRIs are assigned to all actions. 
+
 ### Setup
 
 AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-wrI4GB8N74O5AUmdnj916uhCbrL2adM8wbD_unrbac/edit?usp=sharing). Ensure that the agenda document is added to the calendar invite at the initial time it is sent to allow everyone to be involved. All questions and answers should be documented in the agenda to allow those who can not attend to catch up as well as to avoid team members talking over each other.
