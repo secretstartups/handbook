@@ -677,7 +677,7 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for this transaction. Review [Quote Templates](#### Quote Template Types).
+1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for this transaction. Review Quote Templates, linked above.
 1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
 1. Pre-approved Legal Lanauge can be added to some order forms through Toggle Field selections available on the quote object. To Edit these field, Click "Edit Quote Details". 
 1. Non-standard Legal Langauge will need to be reviewed, approved, and added manually by Legal. Please open a Legal case if you would like to propose non-standard contract terms. 
