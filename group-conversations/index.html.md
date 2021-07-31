@@ -181,7 +181,7 @@ The `Host` of the meeting is responsible for starting the livestream or designat
 - Group Conversations in the Product and Engineering Organization where an e-group member is not the DRI
 - AMAs in the Product and Engineering Organization where an e-group member is not the DRI
 
-Whoever schedules the meeting will enter who the host/s are and can update the hosts at any time prior to the meeting. If you are delegating the hosting duties to another team member, please ping the #group-conversations channel and tag the @eba-team for to ensure the new host has host permissions for the meeting. 
+Whoever schedules the Zoom meeting (it is often the EBA) will enter who the host/s are in Zoom and can update the hosts at any time prior to the meeting. If you are delegating the hosting duties to another team member, please ping the #group-conversations channel and tag the @eba-team for to ensure the new host has host permissions to stream the meeting. 
 
 To review how to livestream to youtube, please watch this [video](https://www.youtube.com/watch?v=mWWWdbS2q9U), which is linked in the [Livestream with Zoom](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#livestream-with-zoom) section of the handbook. 
 
