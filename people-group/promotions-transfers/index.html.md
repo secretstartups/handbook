@@ -366,7 +366,9 @@ If you are interested in a vacancy, regardless of level, outside your department
 
 **If and when you decide to officially apply for an internal position, please make sure your current manager is aware. Your official application is signaled by you applying to the open role or reaching out to the talent acquisition team. Informal conversations about the role do not require a team member to inform their manager. If you have concerns about communicating your interest in an internal role to your manager, please reach out to your People Business Partner.**
 
-### For Internal Applicants - Different Job Family
+### For Internal Applicants
+
+#### Different Job Family
 
 - If you are interested in a transfer, simply submit an application for the new position. If you are not sure the new role is a good fit, schedule time with the hiring manager to learn more information about the role and the skills needed. If after that conversation you are interested in pursuing the internal opportunity, it is recommended that you inform your current manager of your intent to interview for a new role. While you do not need your their permission to apply to the new role, we encourage you to be transparent with them. Most will appreciate that transparency since it's generally better than learning about your move from someone reaching out to them as a reference check. You can also use this as an opportunity to discuss the feedback that would be given to the potential new manager were they to seek it regarding your performance from your current and/or past managers. We understand that the desire to transfer may be related to various factors. If the factor is a desire NOT to work with your current manager, this can be a difficult conversation to have and shouldn't prevent you from pursuing a new role at GitLab.
 - Transfers must go through the application process for the new position by applying on the [jobs page](https://gitlab.greenhouse.io/internal_job_board). The team member may go through the entire interview process outlined on the vacancy description. Common exceptions to the standard interview process are behavioral or "values alignment" stages. The Recruiter will document the reason behind alterations to the standard interview plan in the team member's Greenhouse profile.  If you have any questions about the role or the process, please reach out to your Department or Division's [People Business Partner](/handbook/people-group/#people-business-partner-alignment-to-division). In all cases, the applicable People Business Partner should be informed via email, before a transfer is confirmed.
@@ -377,24 +379,15 @@ If you are interested in a vacancy, regardless of level, outside your department
 - Talent Acquisition team will ensure that, if applicable, the position has been posted for at least three business days before an offer is made.
 - [Compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#promotions) may be reviewed during the hiring process to reflect the new level and position.
 - If after interviews, the manager and the GitLab team-member want to proceed with the transfer, internal references should be checked. While a manager cannot block a transfer, there is often good feedback that can help inform the decision. It is advised that the GitLab team-member talk to their manager to explain their preference for the new team and to understand the feedback that will be given to the new manager. It should also be noted, that performance requirements are not always equal across roles, so if a GitLab team-member struggles in one role, those weakness may not be as pronounced in the new role, and vice versa. However, if there are systemic performance problems unrelated to the specific role or team, a transfer is not the right solution.
-- If the GitLab team-member is chosen for the new role, the managers should agree on an reasonable and speedy transfer plan. 2 weeks is a usually a reasonable period, but good judgment should be used on completing the transfer in a way that is the best interest of the company, and the impacted people and projects.
 - The Recruiter and Hiring Manager will review the offer details with the internal candidate and a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) will be sent out by the Total Rewards team following the hiring process
 - If the team member is transferred, the new manager will announce in the `#team-member-updates` Slack Channel and begin any additional onboarding or offboarding necessary. Before the new manager makes the transfer announcement they must confirm with the team members current manager that the current team has been informed about the team members new position and transfer.
 - Team members changing functional roles should complete onboarding for the new function. For example, a Backend Engineer who transferring to become or work on Frontend work should do Frontend Engineer onboarding.
 
-### For Internal Applicants - Same Job Family, Different Department or Specialty
+#### Same Job Family, Different Department or Specialty
 
 If the team member is staying in the current benchmark for the Job Family, but changing their Specialty or Department (ex: moving from Plan to Secure or moving from Development to Infrastructure), the above steps will be followed. Solely the recruitment procedure might be shortened if the requirements for the role are the same. At a minimum we would ask for the hiring manager to have an interview with the team member.
 
 If selected for the role, a [Letter of Adjustment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) will be sent by the Total Rewards team outlining the changes to department and specialty for the Total Rewards team to process in BambooHR. If the current manager needs to backfill the role they should reach out to the Finance Partner.
-
-## Department Transfers Manager Initiated
-
-If you are a manager wishing to recruit someone, the process is the same as a team member-initiated transfer. 
-
-* We highly encourage the hiring manager to be transparent with the team member's current manager. Doing so will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
-* The hiring manager should post the open role in internal public forums to attract all potentially interested candidates.
-* It is highly discouraged to reach out to a potential candidate directly without talking to their manager first. The hiring manager should share their intention of reaching out to the current manager's team member to ensure transparency and awareness. 
 
 ### Internal Department Transfers
 
@@ -406,6 +399,22 @@ If you are interested in another position within your department and the manager
 - If approved, your manager will need to obtain approval from their manager, through the chain of command to the CEO.
 - [Compensation](/handbook/total-rewards/compensation/) and [stock options](/handbook/stock-options/#stock-options) will be reevaluated to ensure it adheres to the compensation calculator. Don't send the proposal to the CEO until this part is included.
 - If the team member is transferred, the manager will announce in the `#team-member-update` Slack channel and begin any additional onboarding or offboarding necessary.
+
+## Internal Transfer Start Date
+
+If a GitLab team-member is chosen for a new role, the managers should agree on a reasonable and speedy transfer plan. Up to 4 weeks is usually a reasonable period, but good judgment should be used on completing the transfer in a way that is the best interest of the company, impacted people, and projects.
+
+The agreed upon transfer date should be reflected in the offer letter in Greenhouse to ensure transfer date alignment between current manager, new manager, and transferring team member.  This is essential to ensure that both teams are able to plan and be set up for success. It is important to note that it is typically the _former_ team of the team member that shuffles to ensure workload of the departing team member is covered while a backfill is hired for. This is to ensure a smooth and speedy transfer and a positive team member experience. When aligning on a start date, please also considering [payroll alignment](/handbook/people-group/promotions-transfers/#letter-of-adjustment) when selecting a start date. 
+
+Delaying transfers should be avoided to ensure a good team member experience for the transferring individual, however, if due to extenuating circumstances a transfer date needs to be pushed out, both managers need to agree on a new transfer date to communicate to the team member. 
+
+## Department Transfers Manager Initiated
+
+If you are a manager wishing to recruit someone, the process is the same as a team member-initiated transfer. 
+
+* We highly encourage the hiring manager to be transparent with the team member's current manager. Doing so will allow the current manager the maximal amount of time to plan for the transfer and speed up the overall process.
+* The hiring manager should post the open role in internal public forums to attract all potentially interested candidates.
+* It is highly discouraged to reach out to a potential candidate directly without talking to their manager first. The hiring manager should share their intention of reaching out to the current manager's team member to ensure transparency and awareness. 
 
 #### When promotion is a consideration - Within Same Job Family
 
