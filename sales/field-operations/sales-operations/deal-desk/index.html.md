@@ -538,9 +538,13 @@ For more information on ARR calculation for Contract Resets, see [ARR in Practic
 
 #### Multi-Year Deals
 
-In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
+In the case of multi-year deals, the Initial Term should be updated to reflect the number of months in the subscription term - 24, 36, 48, 60, etc. 
 
-Annual payments require a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
+For prepaid multi-year deals, you must select the correct multi-year SKU (i.e. for a prepaid 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Prepaid multi-year deals that do not utilize the correct multi-year SKU will be rejected. 
+
+For multi-year deals, paid annually, you must select the 1 Year SKU, and click on the Annual Payments checkbox to add the necessary payment language to the Order Form. Multi-year deals paid annually that do not utilize the correct 1 Year SKU will be rejected.
+
+
 
 For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
