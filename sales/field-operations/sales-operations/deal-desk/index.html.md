@@ -180,12 +180,12 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
-| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals. Otherwise Identical to the Standard Order Form Template       |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
 
-*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. 
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
 *   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
@@ -207,9 +207,12 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 
 D.  Select **“Add Base Products”** from the drop-down menu on the “Edit Products and Charges” page. Select the correct product and click Next.
 E.  Enter the product quantity, and adjust the discount or effective price as needed. Click Submit.
-* If you selected **ANNUAL PAYMENTS**, you must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
+F.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
 
-F.  **Order Form Generation**
+G.  **Order Form Generation**
 *   If no discounts or special terms are requested, click “Generate PDF.”
 *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
     *   In the case of reseller deals, please obtain the approvals in Chatter based on the approval matrix.
@@ -246,6 +249,8 @@ Amendments to subscriptions must be processed entirely before any changes can be
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
+
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
 *   Add preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
@@ -312,7 +317,7 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
 
-*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. 
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
 *   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
@@ -335,9 +340,12 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 *   Click Next, to enter the Products and Charges page.
     *   Note: The product lines from the Initial Term are already listed and will be marked “Original.” You may add new products, update the quantity on the original license, or remove the existing license. To add users to an existing license at a different price, the new user licenses should be added on a new product line.
 
-* If you selected **ANNUAL PAYMENTS**, you must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
+**B.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
 
-**B.  Renewal Using a New Subscription Quote**
+**C.  Renewal Using a New Subscription Quote**
 
 If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a  New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
 
@@ -357,7 +365,7 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
 
-*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. 
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
 
 *   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
 
@@ -369,7 +377,11 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 *   Click Next and update the products and fees per the steps above.
-* If you selected **ANNUAL PAYMENTS**, you must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
+
+**D.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU.  
 
 **To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/kDZJW-ss5j4) to see each step live for an Renewal Quote:**
 
@@ -528,9 +540,7 @@ For more information on ARR calculation for Contract Resets, see [ARR in Practic
 
 In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
 
-If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter according to the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9). 
-
-If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
+Annual payments require a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
 
 For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
@@ -566,7 +576,7 @@ For more information on ARR calculation for Ramp Deals, see [ARR in Practice](ht
 
 Occasionally, changes will be made to a Custom SOW after an opportunity has been booked. These changes could include delivery (invoice) schedules or types of services delivered. The total value of the opportunity **should not change.** If the total value of an opportunity is negatively impacted, this will require an internal refund and rebooking of the order. Should there be additional revenue generated as a result of this Change Order, a new Professional Services Only opportunity is required to account for the _delta value_.
 
-#### Creating Decomission Opportunties
+#### Creating Decommission Opportunties
 
 Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Web Portal purchases. The creation process is the same for both Deal Desk and Billing. 
 
