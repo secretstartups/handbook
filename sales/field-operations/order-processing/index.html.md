@@ -101,21 +101,21 @@ GitLab uses 5 quote templates to support each type of transaction. The following
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
 
-Pre-Approved Legal Languge can be added to each quote. Selections are listed as Toggle Fields on the quote object. 
+Pre-Approved Legal Language can be added to each quote. Selections are listed as Toggle Fields on the quote object. 
 
 | Toggle Field                   | Output                                                                                   |
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
-| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
-| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
+| Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
-Quotes run through an automated logic check to ensure that the selected Legal langauge can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
+Quotes run through an automated logic check to ensure that the selected Legal Language can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
 
-In some instances, you will make a selection that will require additional review and approval before an order form can be sent out. This is typically for complex/non standard deals. If you make a selection that cannot be accomodated, you will see an error message. Remove the selection and move forward with the quote. 
+In some instances, you will make a selection that will require additional review and approval before an order form can be sent out. This is typically for complex/non standard deals. If you make a selection that cannot be accommodated, you will see an error message. Remove the selection and move forward with the quote. If you are confused, or need assistance, tag Sales-Support in chatter and provide a screenshot of the error you're experiencing.
 
 #### Known Quote Template Issues 
-**Additional Line Items Displaying on the Quote**: If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
+**Additional Line Items Displaying on the Quote**: If you construct a quote and notice that there is an additional line item displaying on your quote, know that this is the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
 
 #### Quote Assistance
 
@@ -679,8 +679,8 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for this transaction. Review Quote Templates, linked above.
 1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
-1. Pre-approved Legal Lanauge can be added to some order forms through Toggle Field selections available on the quote object. To Edit these field, Click "Edit Quote Details". 
-1. Non-standard Legal Langauge will need to be reviewed, approved, and added manually by Legal. Please open a Legal case if you would like to propose non-standard contract terms. 
+1. Pre-approved Legal Language can be added to some order forms through Toggle Field selections available on the quote object. To Edit these fields, Click "Edit Quote Details". 
+1. Non-standard Legal Language will need to be reviewed, approved, and added manually by Legal. Please open a Legal Request case if you would like to propose non-standard contract terms to include on your Order Form.
 1. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
 
 #### Setting Up DocuSign for the First Time
