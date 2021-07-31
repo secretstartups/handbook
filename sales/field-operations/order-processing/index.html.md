@@ -96,7 +96,7 @@ GitLab uses 5 quote templates to support each type of transaction. The following
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
-| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Standard Order Form (Hide Discount) | Hide the Discount and List Price Column for Direct Deals. Otherwise Identical to the Standard Order Form |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
 | Distributor Order Form              | Distributor Transactions                                                                                 |
@@ -114,7 +114,7 @@ Quotes run through an automated logic check to ensure that the selected Legal la
 
 In some instances, you will make a selection that will require additional review and approval before an order form can be sent out. This is typically for complex/non standard deals. If you make a selection that cannot be accomodated, you will see an error message. Remove the selection and move forward with the quote. 
 
-#### Known Quote Issues 
+#### Known Quote Template Issues 
 **Additional Line Items Displaying on the Quote**: If you construct a quote and notice that there is an additional line item displaying on your quote know that this us the result of a [known Zuora bug](https://community.zuora.com/t5/Zuora-CPQ/known-Issue-Duplicate-Rate-Plan-created-for-Renewal-Quote-when/m-p/34564#!%23M3294). The only current workaround in place is to recreate the quote from scratch by clicking the `New Quote` button and follow the New Quote creation flow.
 
 #### Quote Assistance
@@ -230,7 +230,7 @@ Once negotiations are completed, and the digital stamp has been affixed to the f
 </details>
 
 <details>
-<summary markdown="span"><b>Add a SaaS Addendum to an Order form</b></summary>
+<summary markdown="span"><b>Add a SaaS SLA Addendum to an Order form</b></summary>
 
 To add our SaaS SLA Addendum to an order form, please open a Legal case after all approvals have been secured for your quote. 
 
@@ -677,7 +677,8 @@ If a quote has a <span style="color:green">**green circle**</span> at the top of
 
 #### How to Generate an Order Form as a PDF
 
-1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), go back to the quote and click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
+1. Once a [quote has been approved](/handbook/business-ops/order-processing/#how-to-submit-a-quote-for-discount-and-payment-term-approval), review the Quote Template to ensure you have selected the correct form for this transaction. Review [Quote Templates](#### Quote Template Types).
+1. On the quote, click `Generate PDF Doc`. The document will be saved as an attachment in the Notes and Attachments section in the opportunity record. 
 1. Pre-approved Legal Lanauge can be added to some order forms through Toggle Field selections available on the quote object. To Edit these field, Click "Edit Quote Details". 
 1. Non-standard Legal Langauge will need to be reviewed, approved, and added manually by Legal. Please open a Legal case if you would like to propose non-standard contract terms. 
 1. The default template for all transaction types (new, amendment, or renewals) will be the Standard Order Form. If you want to select a different template, click the search icon next to the Order Form Template field and select the desired template. A description of each template will be visible next to each template.
@@ -1030,7 +1031,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Payment Term = Net 60
   - Start Date = Date of Transaction Notification Email
   - Products/Pricing: Enter the applicable GitLab product (see "Part Description" column) and the quantity (see "# Users" column). **"Total (USD)" should be equal to the value under "Net Revenue USD."**
-4. Generate Order Form. Be sure to use the Standard Order Form quote template 
+4. Generate Order Form. Be sure to use the Standard Order Form quote template.
 5. Attach the following to the opportunity:
   - Screenshot of email notification from IBM noting that the transaction has closed from IBM
   - IBM spreadsheet with necessary transaction details
