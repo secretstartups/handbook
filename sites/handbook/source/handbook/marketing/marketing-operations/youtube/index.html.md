@@ -77,7 +77,8 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ![stream link](/handbook/marketing/marketing-operations/youtube/youtube-stream-link.jpg)
 
-The following 5-minute shows how to start a livestream from a Zoom Meeting to YouTube Unfiltered.  
+#### Video walkthough of how to Livestream to YouTube
+The following 5-minute video shows how to start a livestream from a Zoom Meeting to YouTube Unfiltered.  
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/mWWWdbS2q9U" frameborder="0" allowfullscreen="true"> </iframe>
