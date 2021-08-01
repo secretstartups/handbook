@@ -160,26 +160,6 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance.
 
-### Eval users SKU creation
-
-If your customer will need Evaluation (Eval) users, a SKU will need to be created.
-
-In order to have the Eval users SKU created:
-> All new SKUs must be evaluated by the Fulfillment team so that they don't appear as `unknown` when they display in the portal as a product. The Fulfillment team needs at least 30 days in advance notice.
-> Make sure to allow time for the engineers to plan work around new SKU creation.
-
-1. Submit your request via an issue in the Finance issue tracker.
-1. Submit to CFO, CRO and CEO for approval.
-1. Once approved, submit to Accounting to create SKU in Zuora (Eval users SKU should not be added to the portal).
-1. Once SKU is created, inform Sales Ops team to have the SKU created in SFDC and added to the current SKUs.
-
-Eval users SKUs are subject to the discount authorization policy.
-
-Booking:
-
-1. All orders with mixed SKUs must be reviewed by revenue accounting for a fair value analysis prior to being sent to Zuora. Seek approval via chatter.
-1. If fair value must be allocated differently than what will be on the invoice that value will be assigned on an order form and used for the entry to be pushed to Zuora. The fair value will also be used for assigning booking value (i.e. ARR, iACV, PCV, etc).
-
 ### **Working with Legal**
 
 There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/).
