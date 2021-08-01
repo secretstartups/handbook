@@ -166,11 +166,19 @@ Effective 2021-08-02, GitLab's Cloud Licensing experience allows for the activat
 
 #### Eligibility
 
-Starting 2021-08-08, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. 
+Starting 2021-08-08, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Metrics, review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). 
 
-**Resources:**
+#### Sales Assisted Transactions
+
+
+
+#### Resources
+
+The following resources pertaining to the SuperSonics Billing and Subscription Management Experience are for internal purposes only.
+
 - [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix)
 - [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#)
+- [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7)
 
 
 ### **Working with Legal**
