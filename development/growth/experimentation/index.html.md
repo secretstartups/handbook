@@ -9,6 +9,13 @@ description: "Information about creating and running experiments at GitLab."
 
 - TOC
 {:toc .hidden-md .hidden-lg}
+  
+### Experimentation
+
+This page covers the Growth engineering process for running experiments. See also the product guide, and developer documentation. 
+
+* [Growth Product experimentation](/handbook/product/growth/#how-growth-launches-experiments)
+* [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
 
 ## Running Experiments
 
