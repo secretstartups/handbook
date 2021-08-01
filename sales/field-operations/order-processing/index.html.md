@@ -160,6 +160,19 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 - A Draft Proposal PDF is not an Order Form. All quotes must go through the applicable approval process before you can generate an Order Form. Draft Proposals are not guaranteed approval.
 - A Draft Proposal PDF will not be accepted in place of an Order Form under any circumstance.
 
+### **SuperSonics Billing and Subscription Management Experience**
+
+Effective 2021-08-02, GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Metrics. 
+
+#### Eligibility
+
+Starting 2021-08-08, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. 
+
+**Resources:**
+- [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix)
+- [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#)
+
+
 ### **Working with Legal**
 
 There are several scenarios where you might need Legal assistance on an opportunity. Thouroughly review the information below. You can also learn more about the team and their scope by [visiting their handbook page](/handbook/legal/) or by checking out these [best practices on how to Collaborate with Legal](/handbook/legal/customer-negotiations/).
