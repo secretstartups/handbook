@@ -221,6 +221,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 The following resources pertaining to the SuperSonics Billing and Subscription Management Experience are for internal purposes only.
 
 - [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix)
+- [Licensing Private Handbook](https://gitlab-com.gitlab.io/licensing/)
 - [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#)
 - [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7)
 
