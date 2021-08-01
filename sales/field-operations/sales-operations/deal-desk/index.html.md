@@ -580,7 +580,7 @@ For more information on ARR calculation for Ramp Deals, see [ARR in Practice](ht
 
 Occasionally, changes will be made to a Custom SOW after an opportunity has been booked. These changes could include delivery (invoice) schedules or types of services delivered. The total value of the opportunity **should not change.** If the total value of an opportunity is negatively impacted, this will require an internal refund and rebooking of the order. Should there be additional revenue generated as a result of this Change Order, a new Professional Services Only opportunity is required to account for the _delta value_.
 
-#### Creating Decommission Opportunties
+#### Creating Decomission Opportunties
 
 Deal Desk will create Decommission (refund) opportunities for all Sales Assisted Orders. The Billing team will create Decommission (refund) opportunities for all Web Portal purchases. The creation process is the same for both Deal Desk and Billing. 
 
