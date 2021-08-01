@@ -110,7 +110,7 @@ You can find additional experimentation resources throughout the handbook and Gi
 Here are a few pages to check out:
 
 * [How Growth launches experiments](/handbook/product/growth/#how-growth-launches-experiments)
-* [Growth Engineering Guide to running experiments](/handbook/engineering/development/growth/#running-experiments)
+* [Growth Engineering Guide to running experiments](/handbook/engineering/development/growth/experimentation/)
 * [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
 
 <details markdown="1">

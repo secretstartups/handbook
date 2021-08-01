@@ -116,7 +116,7 @@ Since the Growth section is among the first groups to launch product experiments
 - [Experiment guide for Product managers](https://gitlab.com/gitlab-org/growth/experimentation/-/issues/14)
 - [Experiment ideation Process](https://gitlab.com/gitlab-org/growth/experiment-design-repo/-/issues/1)
 - [Engineering guide for how to run experiment](https://docs.gitlab.com/ee/development/experiment_guide/)
-- [Growth Engieering Handbook page on running experiments](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments)
+- [Growth Engieering Handbook page on running experiments](/handbook/engineering/development/growth/experimentation/)
 - [A way for GitLab team members to view currently active experiments on GitLab.com](https://gitlab.com/gitlab-org/gitlab/-/issues/262725)
 
 ## How Growth collaborates with other groups
@@ -140,7 +140,7 @@ and - like a contribution coming from the wider community - ultimately own the f
 
 ### UX
 #### How UX Works
-We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [UX section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessy measure the impact of our design changes following the [experimentation workflow](https://about.gitlab.com/handbook/engineering/development/growth/#running-experiments). In addition:
+We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [UX section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessy measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
 - we have issue boards so we can see what everyone is up to.
     - [by group](https://gitlab.com/groups/gitlab-org/-/boards/1334665?&label_name%5B%5D=UX&label_name%5B%5D=devops%3A%3Agrowth)
