@@ -33,6 +33,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 - [Harvard Business Review: Remote Work Doesn’t Have to Mean All-Day Video Calls](https://hbr.org/2020/09/remote-work-doesnt-have-to-mean-all-day-video-calls/)
 - [Crowe Global: Exclusive Q&A With GitLab’s Head Of Remote](https://www.crowe.com/global/insights/art-of-smart/exclusive-q-a-with-gitlab-head-of-remote)
 - [San Francisco Chronicle: Tech's hottest job title in 2021? 'Head of remote work'](https://www.sfchronicle.com/local/article/Meet-the-people-making-your-work-from-home-16044685.php)
+- [Digiday: ‘Change without story is a mandate, change with story is purpose’: Why marketing and comms execs are being tapped for chief-of-remote roles](https://digiday.com/marketing/change-without-story-is-a-mandate-change-with-story-is-purpose-why-marketing-and-comms-execs-are-being-tapped-for-chief-of-remote-roles/)
 - [Ladders: The dawn of the age of Chief Remote Work Officers](https://www.theladders.com/career-advice/the-dawn-of-the-age-of-chief-remote-work-officers)
 - [The Org: The Hottest New Title in Tech: Head of Remote Work](https://theorg.com/insights/the-hottest-new-title-in-tech-head-of-remote-work)
 - [Silicon Foundry: Remote Work, Resilient Organizations, and Better Lives](https://sifoundry.medium.com/remote-work-resilient-organizations-and-better-lives-81218b4a4d15)
