@@ -460,12 +460,11 @@ When creating a follow-up issue for required tests:
 - We track our technical debt using the following [Pipeline Authoring Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019541), where we track issues in the planning phase.
 - We schedule issues that are labeled as `workflow::ready for development`.
 
-When creating a technical debt issue make sure to label it as such, in addition make sure to add labels based on the following guidlines 
-
+When creating a technical debt issue make sure to label it as such, in addition make sure to add labels based on the following guidelines: 
 
 1. Issue readiness
-    - In `workflow::planning breakdown` issues that are currently being groomed.
-    - In `workflow::ready for development` issues that clearly defined and a weight has been assigned.
+    - `workflow::planning breakdown` issues are currently being refined. These issues require a weight, any requirements to be clarified, and ideally a technical proposal prior to being able to mark them as `workflow::ready for development`.
+    - `workflow::ready for development` issues are clearly defined after review from an engineer, who applies a weight and a recommended technical approach. These issues are then ready to be scheduled.
 
 1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
    We use the list below as a guideline to grade the impact.
