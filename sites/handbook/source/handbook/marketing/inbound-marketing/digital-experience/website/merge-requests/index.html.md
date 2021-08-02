@@ -62,7 +62,7 @@ In our continuous integration environment, people with merge permissions are the
 * [Marketing writing style guide](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-style-guide).
 * [Marketing naming conventions](/handbook/marketing/inbound-marketing/digital-experience/website/#naming-conventions).
 * [Marketing tone of voice](/handbook/marketing/corporate-marketing/#tone-of-voice-1)
-* [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/).
+* [Brand Guidelines](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
 
 ## Review if relevant
 
