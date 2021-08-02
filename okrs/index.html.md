@@ -16,8 +16,8 @@ canonical_path: "/company/okrs/"
 ## Most recent OKRs
 
 All our OKRs are public and listed on the pages below.
-- [FY22-Q3](/company/okrs/fy22-q3)
-- [FY22-Q2 (active)](/company/okrs/fy22-q2)
+- [FY22-Q3 Active](/company/okrs/fy22-q3)
+- [FY22-Q3 Future](/company/okrs/fy22-q4)
 - [Previous OKRs](#okr-archive)
 
 ## What are OKRs?
@@ -303,6 +303,7 @@ To update please make a merge request and post a link to the MR in the #okrs cha
 * [A Modern Guide to Lean OKRs](https://worldpositive.com/a-modern-guide-to-lean-okrs-part-i-c4a30dba5fa1)
 
 ## OKR Archive
+- [FY22-Q2](/company/okrs/fy22-q2)
 - [FY22-Q1](/company/okrs/fy22-q1)
 - [FY21-Q4](/company/okrs/fy21-q4/)
 - [FY21-Q3](/company/okrs/fy21-q3/)
