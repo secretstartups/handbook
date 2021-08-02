@@ -1,0 +1,114 @@
+---
+layout: handbook-page-toc
+title: Ecosystem Stage
+description: >-
+   The Ecosystem Stage is responsible for the GitLab API,
+   integrations between GitLab and external products,
+   the GDK, and foundational frontend work.
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+[Ecosystem:Contributor Experience]: /handbook/engineering/development/dev/ecosystem/contributor_experience/
+[Ecosystem:Foundations]: /handbook/engineering/development/dev/ecosystem/foundations/
+[Ecosystem:Integrations]: /handbook/engineering/development/dev/ecosystem/integrations/
+
+## Hello!
+
+We are the Ecosystem Stage; a group of teams within the Dev Sub Department.
+We're comprised of three areas [within the GitLab product](/handbook/product/categories/#ecosystem-stage).
+
+
+| Team | Engineering Manager |
+| ---- | -------------------- |
+| [Ecosystem:Contributor Experience] | [Lukas Eipert](https://about.gitlab.com/company/team/#leipert) (Engineering Manager, Contributor Experience & Foundations) | 
+| [Ecosystem:Foundations] | [Lukas Eipert](https://about.gitlab.com/company/team/#leipert) (Engineering Manager, Contributor Experience & Foundations) | 
+| [Ecosystem:Integrations] | [Arturo Hererro](https://about.gitlab.com/company/team/#arturoherrero) (Acting Engineering Manager, Integrations) | 
+
+## Vision
+
+Support the seamless integration between GitLab and 3rd party products and services, expanding GitLab's market opportunities by empowering developers to contribute.
+
+## Mission
+
+The Ecosystem Stage is responsible for designing, building, and maintaining:
+
+1. [Ecosystem:Integrations]
+  - Guiding the overall design of the GitLab API
+  - Expanding the GitLab API with new functionality and data availability
+  - Integrations between GitLab and key external products
+  - Documentation, instructions, and best practice guides for how to work with GitLab APIs
+  - Best practices for external contributors looking to develop their own integrations in the GitLab codebase
+1. [Ecosystem:Contributor Experience]
+  - The [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/)
+1. [Ecosystem:Foundations]
+  - Foundational Frontend Work
+  - The [Pajamas framework](https://design.gitlab.com/)
+
+## Stable Counterparts
+
+The following members of other functional teams are our stable counterparts:
+
+<%= stable_counterparts(role_regexp: /[,&] Ecosystem/, direct_manager_role: 'Acting Backend Engineering Manager, Ecosystem:Integrations', other_manager_roles: ['Engineering Manager, Ecosystem:Contributor Experience & Ecosystem:Foundations'])%>
+
+## Meetings
+
+Whenever possible, we prefer to communicate asynchronously using issues, merge requests, and Slack.
+However, face-to-face meetings are useful to establish personal connection and to address items that would be more efficiently discussed synchronously such as blockers.
+
+- Weekly Ecosystem product and engineering meeting - Wednesdays 9:30am CST/15:30 UTC
+    - Select meetings will be recorded and shared on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KpoFo2QyceT_4CNfcq7do4s).
+- Iteration Office Hours - As Needed
+    - When faced with a complex epic or issue, we find it useful to hold ad-hoc office hours with product and engineering team members to break up the work into smaller [iterations](/handbook/values/#iteration). This is inspired by the [CEO's Iteration Office Hours](/handbook/ceo/#iteration-office-hours). Any team member should feel free to suggest an iteration office hours. The meeting should be recorded and outcomes documented.
+
+## Async Daily Standups
+
+The Ecosystem Stage participates in async daily standups in the [#g_create_ecosystem-standup](https://gitlab.slack.com/archives/C01M8P0FJDN) slack channel.
+The purpose is to give every team member insight into what others are working on so that we can identify ways to collaborate as well as foster relationships within the team.
+We use the [geekbot slack plugin](https://geekbot.com/) to automate our async standup,
+following the guidelines outlined in the [Geekbot commands guide](https://geekbot.com/guides/commands/).
+
+Participation is optional but encouraged.
+
+We currently ask questions depending on the day of the week:
+
+- Ecosystem Monday Standup (Monday)
+  - Do you have something to share with the team? An accomplishment, success story, blocker, impediment, something outside of work?
+  - Random "pizza topping" question (see below)     
+- Ecosystem Daily Standup (Tuesday - Friday)
+  - Do you have something to share with the team? An accomplishment, success story, blocker, impediment, something outside of work?
+
+The random questions come from Geekbot's "Pizza Topping" category.
+This is a list of almost 200 questions that will be randomly picked each week.
+Geekbot provided the initial list, but we could add/remove questions as well.
+The questions include fun/social topics such as:
+
+- What do you eat for breakfast usually?
+- Are you reading anything these days?
+- What’s the best photo you’ve ever shot?
+- Got a favorite recipe to share?
+- Has anything pleasantly surprised you recently?
+
+## Workflow
+
+### Issue boards
+
+We use the following issue boards to prioritize and track our work.
+
+- [Ecosystem Planning Board](https://gitlab.com/groups/gitlab-org/-/boards/1167634) - For scheduling and prioritization. It provides an overview of the backlog and planned issues by milestone.
+- [Ecosystem Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820) - Tracks the progress of issues that are scheduled for the current milestone.
+- [Ecosystem Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/1365136) - Tracks ~group::ecosystem labeled issues by the assigned team member.
+- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&utf8=%E2%9C%93&label_name%5B%5D=backend&label_name%5B%5D=group%3A%3Aecosystem&milestone_title=%23started) - Tracks ~backend and ~group::ecosystem labeled issues by the assigned team member.
+
+
+## Common Links
+
+- [Ecosystem Epics](https://gitlab.com/groups/gitlab-org/-/epics/1515) - A primary collection point for grouped collections of integrations.
+- [Ecosystem Subgroup](https://gitlab.com/gitlab-org/ecosystem-team) - Issues and templates related to team process.
+- [Ecosystem Stage Strategy](/direction/create/ecosystem/)
+- [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline)
+- Slack channel: [#g_ecosystem](https://gitlab.slack.com/messages/CK4Q4709G)
