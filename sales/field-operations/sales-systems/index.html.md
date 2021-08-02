@@ -169,9 +169,9 @@ Combining the two axis above results in the below priority matrix.
 
 | **Impact** / <br/> **Urgency** | **High** | **Medium** | **Low** |
 | ------ | ----- | ----- | -----	|
-| **High** |  `Priority:High` | `Priority:High` | `Priority:Medium` | 
-| **Medium**  | `Priority:High` | `Priority:Medium` | `Priority:Low` |
-| **Low** |  `Priority:Medium` | `Priority:Low` | `Priority:Low` |
+| **High** |  `Priority::High` | `Priority::High` | `Priority::Medium` | 
+| **Medium**  | `Priority::High` | `Priority::Medium` | `Priority::Low` |
+| **Low** |  `Priority::Medium` | `Priority::Low` | `Priority::Low` |
 
 
 
