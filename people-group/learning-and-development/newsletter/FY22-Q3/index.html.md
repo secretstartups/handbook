@@ -85,18 +85,18 @@ You can learn more in the [Epics for Career Development handbook section](https:
 ### Individual Growth Plan 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0ih0lMoKxN0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-You can learn more in the [Individual Growth Plan handbook section](). 
+You can learn more in the [Individual Growth Plan handbook section](/handbook/people-group/learning-and-development/career-development/#individual-growth-plan). 
 
 ### Achievement Tracker 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-You can learn more in the [Achievement Tracker handbook section](). 
+You can learn more in the [Achievement Tracker handbook section](/handbook/people-group/learning-and-development/career-development/#tracking-your-accomplishments). 
 
 ## Department Spotlight 
 
@@ -117,8 +117,8 @@ This month we are highlighting a project the Diversity, Inclusion, & Belonging (
 When it comes to learning, maybe you aren't sure where to start. Here are some great options: 
 
 * Set aside 2 hours per week to work on personal development
-* [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway)
-* [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses)
+* Check out the [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway) training
+* Take a look at our [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses). You will find courses recommended by our L&D Team as well as your GitLab Team Member peers. 
 
 
 ### Team Member Contributions 
