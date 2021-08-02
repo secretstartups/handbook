@@ -91,9 +91,10 @@ The next step in the IT Systems Engineer job family is to move to the [IT Manage
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with our Manager, IT
-* Candidates will then be invited to schedule a second and third interview with 2-4 members of the IT Operations team in a panel interview
-* Candidates will be then be invited to schedule a call with our Integrations Engineer
-* Finally, candidates will interview with our VP, IT
+* Candidates will be invited to complete a 'take home assessment'.  This is to be completed in your own time and returned within 3-5 working days
+* Next, candidates will be invited to schedule an interview with the Hiring Manager
+* Candidates will then be invited to schedule a Team interview with two members of the IT Operations team in a panel interview
+* Candidates will also be invited to schedule a Technical interview with two other team members
+* Finally, candidates will interview with our VP, Business Technology
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
