@@ -140,19 +140,19 @@ Priority for the Sales Systems team is based on two axis, Impact and Urgency.  F
 
 Impact defines how large of an impact (positive or negative) the change proposed in the issue will make for our business.  Impact is classified as High, Medium, and Low.
 
-A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reservered for OKRs and other company wide initiatives.
+A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reserved for OKRs and other company wide initiatives.
 
 Negative impact examples include:
 
 - System level outages preventing access to multiple users (High impact)
 - Missing functionality to support a key business process for a group of users (Medium impact)
-- A field unaccessible to a single user for reporting needs (Low impact)  
+- A field inaccessible to a single user for reporting needs (Low impact)  
 
 Positive impact examples include:
 
 - A business process automation which will result in increased revenue or which supports an OKR (High impact)
 - Developing a new tool to support a department's use of Salesforce (Medium impact)
-- Automating a single repetative action to save time for a single user (Low impact) 
+- Automating a single repetitive action to save time for a single user (Low impact) 
 
 ### Urgency
 
