@@ -198,6 +198,7 @@ Tips for creating a promotion document:
 - [Values](https://about.gitlab.com/handbook/values/) alignment - values are also very important when considering promotions. This is especially the case for anyone who is moving to Senior. As one moves into management, the importance compounds. Values thrive at a company only when we take them into consideration for hiring and promotions. Consider the job grade of the position in conjunction with the compentency table at the end of each section.
 - For People Management roles - the team member should be prepared for management. This includes, at a minimum, the ability and willingness to provide honest and direct performance feedback and coaching, interviewing candidates with an ability to be decisive, ability to have difficult conversations, the ability to set direction, inspire, and motivate the team.
     - Note: People manager applications must be applied for through [Greenhouse](/handbook/hiring/interviewing/#internal-applicants).
+- For Staff+ roles - the promotion document should include a section that describes the company need filled by the promotion.
 - **Please ensure the promotion document has "comment" access enabled to `Anyone at GitLab who has the link`**
 
 For compensation changes Only:
