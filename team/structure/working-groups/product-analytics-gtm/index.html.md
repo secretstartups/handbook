@@ -65,23 +65,20 @@ For a more extensive resource, see [GTM Product Analytics: Status, Gaps and the 
 
 | Working Group Role                   | Person                   | Title                          |
 |--------------------------------------|--------------------------|--------------------------------|
-| Executive Stakeholder                | David Sakamoto           | VP Customer Success         |
-| Facilitator                          | Jeff Beaumont            | Senior Manager Customer Success Operations    |
-| Functional Lead, Data                | Rob Parker               | Senior Director, Data and Ana
-| Functional Lead, Product Analytics   | Keanon O'Keefe           | Senior PM, Product Analytics |
-| Functional Lead, Fulfillment         | Justin Farris            | Group Manager, Product - Fulfillment |
-| Functional Lead, Sales Systems       | Jack Brennan             | Director Sales Systems |
-| Functional Lead, Product Analytics   | Jerome Ng                | Engineering Manager, Product Analytics |
-| Member                               | Sushma Nalamaru          | Senior Data Engineer |
-| Member                               | Kathleen Tam             | Staff Data Analyst |
-| Member                               | Amanda Rueda             | PM, Fulfillment |
-| Member                               | Jim Petr                 | Business Systems Engineer |
-| Member                               | Jake Bielecki            | Senior Director, Sales Strategy & Analytics |
-| Member                               | Caitlin Ankney           | Customer Success Operations Analyst |
-| Member                               | Melia Vilain             | Manager, Sales Analytics |
-| Member                               | Dave Peterson            | Senior Product Analyst  |
-| Member                               | Justin Stark             | Staff Data Engineer  |
-
+| Executive Stakeholder                 | David Sakamoto           | VP Customer Success         |
+| Facilitator                           | Jeff Beaumont            | Senior Manager Customer Success Operations    |
+| Functional Lead, Data                 | Rob Parker               | Senior Director, Data and Analytics |
+| Functional Lead, Product Analytics    | Amanda Rueda             | Interim PM, Product Intelligence |
+| Functional Lead, Fulfillment          | Justin Farris            | Group Manager, Product - Fulfillment |
+| Functional Lead, Sales Systems        | Jack Brennan             | Director Sales Systems |
+| Functional Lead, Product Intelligence | Nicolas Dular            | Engineering Manager, Product Intelligence |
+| Functional Lead, Product Usage        | Sushma Nalamaru          | Senior Data Engineer |
+| Member                                | Jim Petr                 | Business Systems Engineer |
+| Member                                | Jake Bielecki            | Senior Director, Sales Strategy & Analytics |
+| Member                                | Caitlin Ankney           | Customer Success Operations Analyst |
+| Member                                | Melia Vilain             | Manager, Sales Analytics |
+| Member                                | Dave Peterson            | Senior Product Analyst  |
+| Member                                | Justin Stark             | Staff Data Engineer |
 
 ## Meetings
 
