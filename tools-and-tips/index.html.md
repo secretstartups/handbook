@@ -312,6 +312,40 @@ alias s='www;subl .;gco master;gl'
 
 After editing, you can just type <kbd>gca</kbd> to commit all of your changes, followed by <kbd>gp</kbd> to push them to the remote branch.
 
+If you are using [Oh My ZSH!](https://ohmyz.sh/), you can add custom aliases shown below. You can freely define the file name, only the suffix `.zsh` is important.
+
+```sh
+$ vim ~/.oh-my-zsh/custom/aliases.zsh
+```
+
+An example can be found in [Michael Friedrich's dotfiles project](https://gitlab.com/dnsmichi/dotfiles/-/tree/main/.oh-my-zsh/custom).
+
+
+#### Delete local Git branches where remote branch was deleted
+
+In order to delete local Git branches which are deleted on the remote server, you'll need to combine the `--prune` pull/fetch command with more commands. `git branch -vv` lists all details of local branches, the followed `grep` filters for all marked gone in the default remote `origin` and prints the results with `awk`. This argument is passed into `git branch -d`, and executed for all matching results. Note that `-d` does not delete unmerged branches. `-D` has more impact but can accidentally delete branches. 
+
+```sh
+# Delete all remote tracking Git branches where the upstream branch has been deleted
+alias git_prune="git fetch --prune && git branch -vv | grep 'origin/.*: gone]' | awk '{print \$1}' | xargs git branch -d"
+```
+
+Run the command without the final deletion command to see the potential affected branches. Note that `\$1` is shell escaped in the alias and needs to be executed as `$1`.
+
+```
+$ git fetch --prune && git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}'
+```
+
+### Dotfiles
+
+You can use dotfiles to customize your system, and keep all configuration in a central place. The name `dot file` is derived from Linux/Unix where all configuration files started with a dot, hiding them from the default list view `ls`. 
+
+Team member dotfiles projects:
+
+- [Sid Sijbrandij's dotfiles](https://gitlab.com/sytses/dotfiles)
+- [Michael Friedrich's dotfiles](https://gitlab.com/dnsmichi/dotfiles), more details in [this blog post](/blog/2020/04/17/dotfiles-document-and-automate-your-macbook-setup/)
+- [Brendan O'Leary's dotfiles](https://gitlab.com/brendan/dotfiles) 
+
 ## Travelling
 
 ### Long haul flights
