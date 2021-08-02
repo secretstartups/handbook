@@ -152,3 +152,10 @@ All requests for BambooHR-related data or reports with personal people data shou
 - This will be an ongoing request and the requestor needs access to be able to run a report themselves.
 1. Please assign all such requests to Total Rewards and ping the Total Rewards group in the comments using the `@gl-total-rewards` tag.
 
+
+## Netherlands: Certificate of Good Conduct
+1. Once a new team member starts, they will receive an e-mail from an organization called Justis (noreply@justis.nl). This is initiated by HR Savvy.
+- The team member needs to follow the steps in this e-mail to request the certificate of good conduct
+1. The certificate will then be sent within a couple of weeks to the team member’s home address
+1. The team member needs to email their certificate to hr@savvy-group.eu and upload it to BambooHR under the Documents tab, Verification folder
+1. Any costs related to this process can get reimbursed by submitting them as an expense. Please follow the process as described on the [expenses handbook page](/handbook/finance/expenses/#-expense-policy).
