@@ -144,7 +144,7 @@ As per our
 workflow, please remember to assign yourself to the ticket if the ticket
 doesn't currently have an assignee when you respond.
 
-Please also ensure that the `always_unbabel` , `unbabel_en`, `unbabel_reply`,
+Please also ensure that the `unbabel_en`, `unbabel_reply`,
 `unbabeled` tags are included, otherwise your response might not be translated
 automatically. Should this happen, you will need to add the missing tags, and
 create a new internal note with the #unbabel hashtag included at the top of
@@ -220,60 +220,8 @@ practices when writing a response for translation.
 Unbabel relies on two Zendesk triggers to work properly. These should _never_
 be changed, as it can cause significant problems.
 
-* <details>
-  <summary>[Unbabel for agent](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239500)</summary>
-
-  ```yaml
-  id: 360057239500
-  title: Unbabel for agent
-  actions:
-  - field: notification_target
-    value:
-    - '360000483160'
-    - |-
-      When the user responds to a ticket that has translation turned on, Unbabel will do an automatic machine translation  and post the translation as an internal comment for the agent to read.
-
-      ***IMPORTANT***
-      Do not change the name of this trigger!
-  conditions:
-    all:
-    - field: comment_is_public
-      operator: is
-      value: 'true'
-    - field: current_tags
-      operator: includes
-      value: unbabeled
-    any: []
-  ```
-
-  </details>
-* <details>
-  <summary>[Unbabel for user](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239480)</summary>
-
-  ```yaml
-  ---
-  id: 360057239480
-  title: Unbabel for user
-  actions:
-  - field: notification_target
-    value:
-    - '360000483140'
-    - |-
-      When an agent uses #unbabel with an internal comment after enabling translation for the ticket, this trigger informs Unbabel that a translation from the agent's language to the user's language has been requested. When the translation is complete, Unbabel uses the Zendesk API to post the reply as a public comment in the user's native language.
-
-      ***IMPORTANT***
-      Do not change the name of this trigger!
-  conditions:
-    all:
-    - field: comment_is_public
-      operator: is
-      value: 'false'
-    - field: current_tags
-      operator: includes
-      value: unbabeled
-    any: []
-  ```
-  </details>
+* [Unbabel for agent](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239500)
+* [Unbabel for user](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057239480)
 
 ### SaaS Account Ticket Helper
 
