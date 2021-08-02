@@ -52,7 +52,7 @@ To make sure the reports in Expensify are routed correctly, managers will need t
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
-** Please note: The intended recipient will need to provide their residential address for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent and with this in mind the visible fields in BambooHR have been ammended.
+** Please note: The intended recipient will need to provide their residential address for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent and with this in mind the visible fields in BambooHR have been amended.
 
 
 ### Sending an E-Card
