@@ -48,6 +48,20 @@ Note: Trademarks aren’t just words.  As mentioned above, trademarks can be sym
 * **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
 
 ### GitLab's Trademark
+- Any use of GItLab's trademarks should be agreed to via the Authorization to Use GitLab Materials template. 
+- Any modifcations to the Authorization to use GitLab Materials template must be agreed to by GitLab Legal. 
+
+**PROCESS FOR AUTHORIZATION TO USE GITLAB MATERIALS TEMPLATE**
+- The template can be found in GitLab's G-Drive [here](https://drive.google.com/file/d/1-osQ6cK3jARbxfHujlhiFRt-NVMjZrCD/view?usp=sharing) (_Note_ This is only available to GitLab employees);
+- Download the template and send to the requesting entity via DocuSign;
+- Be sure in the DocuSign envelope to ensure the following Details are added at signature:
+    - Company Name
+    - Company Address
+    - Email Address for Notices
+    - Legal Contact
+- The Agreement may be countersigned by following the applicable individual based on the [Signatory Authority Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix)
+
+
 Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
 
 ### Using Third-party Trademarks
