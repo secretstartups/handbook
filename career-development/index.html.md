@@ -556,7 +556,6 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Distribution Team | Development | 2 Staff+ : Team | [Distribution Team Page](/handbook/engineering/development/enablement/distribution/#team-ic-gearing) |
 | Geo Team | Development | 2 Staff+ : Team | [Geo Team Page](/handbook/engineering/development/enablement/geo/) |
 | Vulnerability Research | Development | 2 Staff+ : Team | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
-| Create:Ecosystem Team | Development | 3 Staff+ : Team | [Ecosystem Team Page](/handbook/engineering/development/dev/create/ecosystem/#team-ic-gearing) |
 | Create:Editor Team | Development | 2 Staff+ : Team | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
 | Sharding Team | Development | 4 Staff+ : Team | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
 
