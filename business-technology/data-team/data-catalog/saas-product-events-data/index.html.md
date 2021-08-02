@@ -77,8 +77,6 @@ If the data you want to include in the table is fully captured (without any filt
 ]) }}
 ```
 
-In this case
-
 If the data you want to capture is a subset of an existing table, the operation is slightly more complicatedm you need to:
 
 1. First, add the table cotaining the event you want to capture to the simple_cte macro as described above
