@@ -48,7 +48,7 @@ Note: Trademarks aren’t just words.  As mentioned above, trademarks can be sym
 * **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
 
 ### GitLab's Trademark
-Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/).
+Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
 
 ### Using Third-party Trademarks
 Any use of third-party trademarks should be covered by a Trademark Use Agreement. Various Marketing teams manage these agreements, requesting help from Legal team contract managers only when terms need to be negotiated. If you would like to use a 3rd party logo, please work with the appropriate Marketing team to ensure there is a trademark use agreement in place or to request such an agreement. 
