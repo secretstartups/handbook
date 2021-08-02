@@ -263,7 +263,7 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 
 ### Skill of the Month
 
-In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month]() GitLab Learn Channel. More will be added to this section as we go through the weeks of the month. 
+In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. More will be added to this section as we go through the weeks of the month. 
 
 #### Week 1 
 - Topic: Career Development for GitLab Team Members
