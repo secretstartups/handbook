@@ -70,8 +70,6 @@ The Area Vice President, Sales Development is a [grade 11](/handbook/total-rewar
 - Deep experience selling into accounts in core markets.
 
 ### Vice President, Sales Development
-
-The Vice President, Sales Development reports to the CMO.
  
 #### Vice President, Sales Development Job Grade 
  
