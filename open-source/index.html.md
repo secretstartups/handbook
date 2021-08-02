@@ -81,7 +81,6 @@ Libraries with the following licenses require legal approval for use:
 - [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/) (version 1, [version 2](http://www.gnu.org/licenses/gpl-2.0.txt), [version 3](http://www.gnu.org/licenses/gpl-3.0.txt), or any future versions): GPL-licensed libraries cannot be linked to from non-GPL projects.
 - [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/): AGPL-licensed libraries cannot be linked to from non-GPL projects.
 - [Open Software License (OSL)](https://opensource.org/licenses/OSL-3.0): is a copyleft license. In addition, the FSF [recommend against its use](https://www.gnu.org/licenses/license-list.en.html#OSL).
-- [WTFPL](http://wtfpl.net): is a public domain dedication [rejected by the OSI (3.2)](https://opensource.org/minutes20090304). Also has a strong language which is not in accordance with our diversity policy.
 - [GNU Lesser General Public License (GNU LGPL)](https://choosealicense.com/licenses/lgpl-3.0/) (version 2, version 3): GPL constraints regarding modification and redistribution under the same license are not required of projects using an LGPL library, only upon modification of the LGPL-licensed library itself.
 
 ### Requesting Approval for Licenses or any other Intellectual Property
