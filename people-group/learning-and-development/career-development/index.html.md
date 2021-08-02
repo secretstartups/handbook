@@ -261,3 +261,24 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
 1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
 
+### Skill of the Month
+
+In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month]() GitLab Learn Channel. More will be added to this section as we go through the weeks of the month. 
+
+#### Week 1 
+- Topic: Career Development for GitLab Team Members
+- [Career Development with Pattie Egan](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) 
+- [Career Development with Darren Murph](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) 
+
+#### Week 2 
+- Topic: Individual Growth Plan 
+- Career Development Interviews
+- Using the Individual Growth Plan Interview 
+
+#### Week 3 
+- Topic: Having Career Conversations with Your Manager
+- Career Development Interviews
+
+#### Week 4 
+- Topic: Having Career Conversations with Your Team Members
+- Career Development Interviews
