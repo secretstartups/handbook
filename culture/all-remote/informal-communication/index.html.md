@@ -76,7 +76,7 @@ If you've spent any length of time in a corporate setting, you've probably seen 
 
 For colocated companies, the occasional team offsite — to take in a sporting event, to enjoy a shared lunch, etc. — may be enough to supplement naturally occurring informal communication in the office. 
 
-Below are a number of intentional facets of GitLab's culture, created to foster informal communication. We welcome other all-remote companies to iterate on these and implement as desired. 
+Below are a number of intentional facets of [GitLab's culture](/company/culture/#culture-at-gitlab), created to foster informal communication. We welcome other all-remote companies to iterate on these and implement as desired. 
 
 1. [Social call](/handbook/communication/#social-call): A series of optional calls throughout the week to which everyone in the organization is invited. We have no set agenda, just a time set aside for everyone to openly talk where everyone is a moderator.
 1. [Contribute Unconference](/events/gitlab-contribute/): An in-person, week-long event where we bring the entire company together in one location to get to know each other better.
@@ -89,6 +89,8 @@ Below are a number of intentional facets of GitLab's culture, created to foster 
 1. [CEO house](/handbook/ceo/#house): Team members can get together in Utrecht, Netherlands, at the CEO's AirBnB, free of charge. 
 1. [Slack](/handbook/communication/#slack): We use Slack channels for informal communications throughout the company, whether it's a team-specific channel or a channel dedicated to sharing vacation photos with other team members. 
 1. [Zoom calls](https://about.gitlab.com/handbook/tools-and-tips/#zoom): Not only do we get to know our coworkers better by seeing them in real time during video calls, we also get to know their pets and families too. This visual engagement helps us relate to each other on a more personal level, so when we meet in person, we already know each other. In fact, when our team members meet face-to-face for the first time, the most surprising factor is usually each person's height.
+1. Gaming: GitLab has a `#gaming` Slack channel where fans of video games and digital board games can connect. Coordinating shared gaming sessions is a great way to informally connect with team members and collaborate toward goals outside of work. 
+1. Music making: GitLab's `#music_making` Slack channel is a place where artists can come together and collaborate synchronously or asynchronously to make music together. Several GitLab team members came together to create [All I Want This Quarter Is You (GitLab)](https://youtu.be/9kTwqsW8I68), a musical masterpiece on the GitLab Unfiltered YouTube channel. 
 
 >  **"I’ve been given a tour of team members’ new houses, admired their Christmas decorations, squealed when their pets and kids make an appearance and watched them preparing dinner – glimpses into the personal lives of my colleagues that I’ve never had in any office job."** - [Rebecca](https://about.gitlab.com/company/team/#rebecca), Managing Editor, GitLab
 
