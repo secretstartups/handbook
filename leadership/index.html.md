@@ -86,9 +86,9 @@ This is a more [efficient](/handbook/values/#efficiency), [transparent](/handboo
 
 Giving regular [feedback](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) is extremely important for both managers and team members. Feedback can take the form of coaching sessions, separate from [1-to-1 meetings](/handbook/leadership/1-1). Giving feedback is also about being prepared and, depending on the situation, you should create separate agendas and structure them as follows:
 
-- Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication)
-- Use a framework for your feedback. Examples: 1) Two Areas: [Praise](/company/culture/all-remote/effective-communication/#feedback-is-a-gift) (What's working well) and Tips (What could be done differently) or 2), Three Areas: Start, Stop, Continue
-- Ask yourself, is this:
+1. Provide [context](/company/culture/all-remote/effective-communication/#understanding-low-context-communication).
+1. Use a framework for your feedback. Our recommended framework is [Crucial Conversations](/handbook/leadership/crucial-conversations/) -- we offer [a training course](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training), and the book is part of our [recommended reading for leaders](/handbook/leadership/#books).
+1. Ask yourself, is this:
     - Actionable
     - Specific
     - [Kind](/handbook/values/#kindness) (Does the feedback help the person? Note: Being kind is not the same as being nice.)
