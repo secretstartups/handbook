@@ -31,7 +31,7 @@ The Composition Analysis group largely follows GitLab's [Product Development Flo
 
 #### Indicating Status and Raising Risk
 
-We leverage [the issue's health status feature](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) to communicate the progress of the issue. 
+We leverage [the issue's health status feature](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#health-status) to communicate the progress of the issue.
 
 All issues should be marked `On Track` at the beginning of a milestone. This is currently done manually by the Engineering Manager.
 
@@ -49,7 +49,7 @@ Follow these steps when raising or downgrading risk:
 
 #### Experiments
 
-In addition to the above workflow, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work. 
+In addition to the above workflow, the Composition Analysis group can be involved in some experiments, which might temporarily alter how we work.
 
 *There are no experiments in progress at the moment.*
 
@@ -66,7 +66,7 @@ There is no formal designation process yet, volunteers are welcome and rotation 
 1. Monitor slack channels for questions, support requests, and alerts. While other team members may respond to these requests, the engineer assigned to the reaction rotation is expected to handle them primarily.
     - [#g_secure-composition-analysis](https://gitlab.slack.com/archives/CKWHYU7U2)
     - [#s_secure](https://gitlab.slack.com/archives/C8S0HHM44)
-    - [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU) 
+    - [#s_secure-alerts](https://gitlab.slack.com/archives/CAU9SFKNU)
 1. Triage vulnerabilities reported on the projects we maintain and help resolving them depending on their priority. (See [Security vulnerabilities triaging process](#security-vulnerabilities-triaging-process))
 1. Triage and work with community contributors to help drive their MRs to completion. (See [Community contributions triaging process](#community-contributions-triaging-process))
 1. Triage bugs and resolve them when given `~priority::1`. (See [Bugs triaging process](#bugs-triaging-process))
@@ -76,7 +76,7 @@ These items must be triaged continuously throughout the month which means they m
 
 ### Security vulnerabilities triaging process
 
-We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans. 
+We are responsible for triaging vulnerabilities reported on 2 sets of projects: our analyzers and their upstream scanner software. For the latter, we've set up mirrors to run our security scans.
 
 #### Security Policy
 
@@ -88,7 +88,7 @@ We currently focus on security findings with these severity levels:
 
 We use the Vulnerability Report with filters to focus on items matching [our policy](#security-policy) and reported on the relevant projects.
 
-1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012) 
+1. [Analyzers Vulnerability Report](https://gitlab.com/groups/gitlab-org/security-products/analyzers/-/security/vulnerabilities/?state=DETECTED&state=CONFIRMED&severity=HIGH&severity=CRITICAL&projectId=18446184&projectId=17987891&projectId=17450826&projectId=15369510&projectId=13150952&projectId=9450197&projectId=9450195&projectId=9450192&projectId=9396716&projectId=9358979&projectId=6126012)
 1. [Upstream scanners Vulnerability Report][Upstream scanners Vulnerability Report]
 
 For each "Detected" item, investigate and either [dismiss it](#dismissing-a-vulnerability) or [create an issue](#creating-security-issues). When the vulnerability is impacting a dependency (software library, system library, base image, etc,), the possibility of an upgrade should be evaluated first. Investigate the issue only when the upgrade is not straightforward.
@@ -118,9 +118,9 @@ You can leverage quick actions to add the necessary labels.
     /label ~"Category:Dependency Scanning"
     /label ~"Category:License Compliance"
 
-It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation. 
+It's important to add the `~security` label as described above, because the [`AppSec Escalation Engine`](https://gitlab.com/gitlab-com/gl-security/engineering-and-research/automation-team/appsec-escalator/-/blob/3a7e8a4baed7b7e54039558f4f76328046543a0c/README.md#L3) will automatically pick up any issues with this label and add additional labels `~security-sp-label-missing` and `~security-triage-appsec` as well as mention the issue in the `#sec-appsec` Slack channel. At this point, the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) or [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) triage person will pick up the issue and assign a severity as part of the appsec triage rotation.
 
-Developers reporting the security issue should help the [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) assess the impact of the vulnerability, and update the issue description with an `Impact` section. 
+Developers reporting the security issue should help the [Application Security team](/handbook/engineering/security/security-engineering-and-research/application-security/) assess the impact of the vulnerability, and update the issue description with an `Impact` section.
 
 If immediate feedback is required, then add a comment to the vulnerability issue with an `@`-mention directed at one of the Security Engineers listed in the [Stable Counterpart](/handbook/engineering/development/secure/#stable-counterparts) section, or ping them on slack.
 
@@ -132,12 +132,14 @@ If immediate feedback is required, then add a comment to the vulnerability issue
 ### Bugs triaging process
 
 1. Leverage the [Bug scrub issues board](https://gitlab.com/groups/gitlab-org/-/boards/1077546?scope=all&utf8=%E2%9C%93&label_name[]=bug&label_name[]=devops%3A%3Asecure&label_name[]=group%3A%3Acomposition%20analysis).
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 1h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
+1. For each open issue that has no Priority label ("Open" column), shortly investigate the bug (< 2h) and comment with your findings. Ideally you'd suggest Priority and Severity levels to guide PM decision. Depending on how confident you are, you can either set the labels by yourself, or make a suggestion in a comment, and ping PM.
+
+   Track how long you actually spent investigating each bug in the [Composition Analysis Bug Triaging Time Tracker spreadsheet](https://docs.google.com/spreadsheets/d/1vCh6DTY9eUK26xXceO4ZUyuNlyv2AwXpKxvGGejieEg).
 
 ### Infradev triaging process
 
 1. Leverage the [Infra/Dev issues board](https://gitlab.com/groups/gitlab-org/-/boards/1193197?scope=all&utf8=%E2%9C%93&label_name[]=infradev&label_name[]=section%3A%3Asec) for Sec section. We target the whole section on purpose to cover a larger area and stay aware of other group's issues that could also affect us.
-1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure correct stage and group label are applied. 
+1. For each open issue that has no Priority label ("Open" column), shortly investigate the issue (< 1h) and comment with your findings. Make sure correct stage and group label are applied.
 
 Please refer to our [infradev process](https://about.gitlab.com/handbook/engineering/workflow/#infradev) for more details.
 
@@ -223,9 +225,9 @@ Before releasing an analyzer with a newer version of its upstream scanner, we mu
 
 ### Error budget
 
-We are currently in the process of reviewing ou error budget and identifying where we spend the most of it. See [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331859). 
+We are currently in the process of reviewing ou error budget and identifying where we spend the most of it. See [this issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331859).
 
-### Largest Contentful Paint (LCP) 
+### Largest Contentful Paint (LCP)
 
 As part of FY21-Q4 OKRs, we've started tracking and monitoring the Largest Contentful Paint for our web pages. The results can be viewed on [this Grafana dashboard](https://dashboards.gitlab.net/d/sftijGFMz/sitespeed-lcp-leaderboard?from=now-90d&orgId=1&to=now&var-browser=chrome&var-connectivity=cable&var-domains=gitlab_com&var-function=median&var-namespace=sitespeed_io&var-pages=Secure_Dependency_List&var-pages=Secure_License_Compliance&var-pages=Secure_Security_Configuration&var-path=desktop).
 
