@@ -13,6 +13,8 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 - Lisa Puzar, Senior Manager, Sales Commissions
 - Swetha Kashyap, Sales Commissions Manager
+- Praveen Ravi, Sales Commissions Analyst
+- Sophie Hamann, Sales Commissions Analyst
 
 ## **What's New?**
 
@@ -121,14 +123,28 @@ We also factor in seasonality into our calculations. We expect most of our busin
 
 Each native-quota carrying salesperson carries an individual seasonality based on the specific circumstances of their accounts, territory, region and segment.  The above seasonality is the aggregation of GitLab as a whole, and is not specific to one person or team.  Xactly will provide Quotas by Month and Quarter.
 
-#### **Overlay Quotas Proration**
+#### **Sales Management, Channel and Alliances Quota Proration**
 
-1. Overlay Quota Reps:  Effective February 1st, 2021, we utilize a 15 day rule to determine the first month in which your quota takes place, where if you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "first month of quota begins on the first of the following month.
+For Sales Management, Channel and Alliances, if hired on the 1st day of the month, you will be assigned quota for your first month which will be considered your “Month 1”.  If hired after the 1st day of the month, you will not receive a quota or commissions for this first partial month of employment. If hired after the 1st day of the month, your “Month 1” will begin on the first day of the following month for quota and crediting purposes but your variable will be calculated based on your date of hire.
 
-Example:
+(Examples are for an employee with a $50,000 variable)
 
-- Hired on 4/10/2021:   Month 1 = April 2021
-- Hired on 4/22/2021:   Month 1 = May 2021
+Example 1: Hired on April 1, 2021:  “Month 1” Quota begins May 1, 2021
+(Quota begins April 1, 2021 with applied seasonality; Variable is $41,780.82)
+
+Example 2: Hired on April 22, 2021:  “Month 1” Quota begins June 1, 2021
+(Quota begins May 1 with applied seasonality; Variable is retroactive to April 22, 2021 and is $38,904.11)
+
+#### **Customer Success Quota Proration**
+
+For Solutions Architects and Technical Account Managers, effective February 1st, 2021, we utilize a 15-day rule to determine the first month in which your draw and quota takes place.  If you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then your “Month 1” will begin on the first of the following month.
+(Examples are for an employee with a $50,000 variable)
+
+Example 1: Hired on April 1, 2021:  “Month 1” Draw begins April 1, 2021 and continues through June 30, 2021
+(Quota begins July 1, 2021 with applied seasonality; Variable is $29,315.07)
+
+Example 2: Hired on April 22, 2021:  “Month 1” Draw begins May 1, 2021 and continues through July 31, 2021
+(Quota begins August 1, 2021 with applied seasonality; Variable is $26,301.27 which includes variable for August through January in addition to variable for April 22 – April 30.)
 
 ## **Commissions Overview**
 
