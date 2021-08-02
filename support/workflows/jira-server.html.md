@@ -33,7 +33,7 @@ For more information about various uses of Jira Please check out the [Get starte
    ```bash
    apt install openjdk-11-jdk  openjdk-11-jre
    ```
-1. Install certbot, python3-certbot-apache to generate certificates for HTTPS
+
 1. Create a folder to store Jira software for installation. 
 
    ```bash
@@ -44,16 +44,19 @@ For more information about various uses of Jira Please check out the [Get starte
 
    We will be using the  Jira 8.13 version so that we can test all supported GitLab integrations. However, this will not work for OAuth2.0  integration so we will later upgrade Jira to test the connection.
 
-   ![Download JIRA Screenshot](assets/JIRA_1_Download.png)
+  1. Select the Jira version that you want to download. 
 
-   Select the Jira version that you want to download. 
-   Accept and right-click submit button to get the download URL.
+   ![Download Jira Screenshot](assets/Jira_1_Download.png)
 
-1. Use wget command to download the Jira installer.
+  1. Accept and right-click submit button to get the download URL. (Choose copy link address during the file download)
+
+1. Use `wget <URL>` command to download the Jira installer. Example:
 
    ```bash
    wget https://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-software-8.13.7-x64.bin
    ```
+
+   ![wget data](assets/Jira_wget.png)
 
 1. Change the script to be executable using
 
@@ -67,22 +70,54 @@ For more information about various uses of Jira Please check out the [Get starte
    sudo ./atlassian-jira-software-8.13.7-x64.bin
    ```
 
-1.  Follow the installation instructions and enter default for all questions asked in the installation.
-1. Run Jira setup, You will activate a 30 day trial period. Select set up Jira manually. 
-1. You now have Jira setup and accessible in your localhost:8080
+   ![Jira bin](assets/Jira_bin.png)
+
+1. Follow the installation instructions and enter default for all questions asked in the installation.
+
+   ![Jira bin process](assets/Jira_bin_process.png)
+
+1. Run Jira setup. You will activate a 30 day trial period. Select set up Jira manually. 
+1. You now have Jira setup and accessible in your localhost:8080.
 1. You will have to set up Jira before using it. After you access from the browser, Select `I’II set it up myself`.
-   ![JIRA Set It Up Myself Screenshot](assets/JIRA_Setupmyself.png)
-1. In the next step, select  Built-In (for evaluation or demonstration).  
-1. Generate a license trial license for your server. 
-1. Update license in your Jira setup. 
-1. Create a Jira Admin user and continue with the next steps. 
-1. Continue with the setup and create a test project.  “GITLAB”. 
-1. Create a test issue that we will be using to test with. 
+
+
+
+
+   ![Jira Set It Up Myself Screenshot](assets/Jira_Setupmyself.png)
+
+1. In the next step, select `Built-in (for evaluation or demonstration)`.  
+
+   ![Jira Database setup](assets/Jira_db_setup.png)
+
+1. While waiting for the database to be created,  login to your atlassian account and open https://my.atlassian.com/product .  Generate a license trial license for your server. 
+
+   ![Jira Licenses](assets/Jira_licenses.png) 
+
+2. On the next page, select `Jira Software` for Product and  `Jira Software (Data Center)` for License type.  Enter any details for the remaining fields.  For `Server ID`, you will get it when the server finishes setting up the database. 
+
+   ![Jira License Setup](assets/Jira_license_setup.png)
+
+1. After the database creation is complete, the next section will be setting application properties. Leave it as default and click `Next`.
+   
+   ![Jira Application Propertpplication_properties.png
+1. In the next scene, specify your license Key.  Copy the `Server ID` and paste it to the `New trial License Generation` screen and click on `Generate License`. 
+
+   ![Jira Generate License](assets/Jira_generate_license.png)
+
+1. Copy and paste the license key generated and update license in your Jira setup. 
+   
+   ![Jira License Atlassian](assets/Jira_license_atlassian.png)
+
+   ![Jira Specify License](assets/Jira_specify_license.png)
+
+2. Create a Jira Admin user and continue with the next steps. 
+3. Continue with the setup and create a test project.  “GITLAB”. 
+4. Create a test issue that we will be using to test with. 
 
 #### Adding a lets-encrypt certificate to enable HTTPS connection 
 
 NOTE: 
-HTTPS connection is **required** for DVCS Connector
+HTTPS connection is **required** for DVCS 
 
 1. Install certbot to enable you to generate the certificate
 
@@ -97,11 +132,13 @@ HTTPS connection is **required** for DVCS Connector
    sudo apt-get install python3-certbot-apache
    ```
 
-1. Generate a certificate for your domain 
+1. Generate a certificate for your domain. Input your e-mail when prompted.
 
    ```bash
    sudo certbot certonly --standalone -d www.example.com
    ```
+
+   ![Jira certbot](assets/Jira_certbot.png)
 
 1. If everything goes fine. A new SSL will be issued at the below location. Navigate to the below directory and view files.
 
@@ -120,10 +157,18 @@ HTTPS connection is **required** for DVCS Connector
    NOTE:
    In case you get a `Problem binding to port 80: Could not bind to IPv4 or IPv6.` error, check the PID of the application using port 80 then stop the application running on that port and retry generating the certificates. 
 
-   ![Error Message: Problem binding to port 80: Could not bind to IPv4 or IPv6.](assets/JIRA_port80error.png)
+   ![Error Message: Problem binding to port 80: Could not bind to IPv4 or IPv6.](assets/Jira_port80error.png)
 
    ```bash
+   # Check with lsof 
    lsof -i :80
+
+   # You can also use
+   netstat -antlup | grep 80
+
+   # If it's Apache, you can run the following:
+   systemctl stop apache2
+   systemctl disable apache2
    ```
 
 #### Convert keypair and certificate to Java Keystore
@@ -139,14 +184,14 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
       -inkey /etc/letsencrypt/live/dwainaina-gitlab-jira-test-runner.sr.gitlab.support/privkey.pem \
       -name tomcat
    ```
-   Replace the values accordingly.
+   Replace the values accordingly. For `name`, we put it `tomcat` you may change the alias to anything you like but please remember this name.
 
 1. Convert the PKCS12 to a JKS using Java's Key Tool.
 
    ```bash
    keytool -importkeystore \
       -deststorepass jira_password -destkeypass jira_password -destkeystore /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks \
-      -srckeystore /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.p12  -srcstoretype PKCS12 -srcstorepass <JIRA_PASSWORD> \
+      -srckeystore /tmp/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.p12  -srcstoretype PKCS12 -srcstorepass <Jira_PASSWORD> \
       -alias tomcat
    ```
 
@@ -185,9 +230,9 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
                  enableLookups="false" disableUploadTimeout="true"
                  acceptCount="100" scheme="https" secure="true"
                  sslEnabledProtocols="TLSv1.2,TLSv1.3"
-	         clientAuth="false" useBodyEncodingForURI="true"
-	         relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
-                 keyAlias="tomcat" keystoreFile="conf/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks" keystorePass="JIRA_PASSWORD" keystoreType="JKS" />
+           clientAuth="false" useBodyEncodingForURI="true"
+           relaxedPathChars="[]|" relaxedQueryChars="[]|{}^&#x5c;&#x60;&quot;&lt;&gt;"
+                 keyAlias="tomcat" keystoreFile="conf/dwainaina-gitlab-jira-test-runner.sr.gitlab.support.jks" keystorePass="Jira_PASSWORD" keystoreType="JKS" />
        </Service>
    ```
 
@@ -197,25 +242,25 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 
    ```
    <security-constraint>
-	   <web-resource-collection>
-		   <web-resource-name>all-except-attachments</web-resource-name>
-		   <url-pattern>*.jsp</url-pattern>
-		   <url-pattern>*.jspa</url-pattern>
-		   <url-pattern>/browse/*</url-pattern>
-		   <url-pattern>/issues/*</url-pattern>
-   	</web-resource-collection>
-	   <user-data-constraint>
-		   <transport-guarantee>CONFIDENTIAL</transport-guarantee>
-	   </user-data-constraint>
+     <web-resource-collection>
+       <web-resource-name>all-except-attachments</web-resource-name>
+       <url-pattern>*.jsp</url-pattern>
+       <url-pattern>*.jspa</url-pattern>
+       <url-pattern>/browse/*</url-pattern>
+       <url-pattern>/issues/*</url-pattern>
+    </web-resource-collection>
+     <user-data-constraint>
+       <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+     </user-data-constraint>
    </security-constraint>
    ```
 
-1. **Optional**: [Specify JIRA home directory](https://confluence.atlassian.com/adminjiraserver/setting-your-jira-application-home-directory-938847747.html
+1. **Optional**: [Specify Jira home directory](https://confluence.atlassian.com/adminjiraserver/setting-your-jira-application-home-directory-938847747.html
 )) if it is not at default location: 
 
    ```bash
    vim <installation-directory>/atlassian-jira/WEB-INF/classes/jira-application.properties
-   jira.home = /PATH/TO/JIRA-HOME
+   jira.home = /PATH/TO/Jira-HOME
    ```
 
 1. Restart tomcat and check if the site is available in HTTPS.
@@ -238,6 +283,6 @@ I will be using `dwainaina-gitlab-jira-test-runner.sr.gitlab.support` as my doma
 1. Check their configuration, walk through the steps. 
    **NOTE**: 
    Some customers confused the configuration of the two integrations, for example using the `jira` user created in GitLab Jira Integration as the Term/Account for setting up DVCS account for their Jira Development Panel. This will load the repo of the `jira` user’s personal namespace which usually has 0 repos. 
-1. If all the configurations are correct, we might need to get the logs depending on where the error is occurring, they might need to check the [log files on Jira](https://confluence.atlassian.com/jirakb/useful-log-files-in-jira-1027120387.html ), they can `tail JIRA_HOME/log/atlassian-jira.log` while reproducing the error. If it's `Jira DVCS connection has wrong oauth scope: Issue when integrating with Jira DVCS`, check out [the workaround](https://docs.gitlab.com/ee/integration/jira/dvcs.html#scope-error-when-connecting-jira-via-dvcs).
+1. If all the configurations are correct, we might need to get the logs depending on where the error is occurring, they might need to check the [log files on Jira](https://confluence.atlassian.com/jirakb/useful-log-files-in-jira-1027120387.html ), they can `tail Jira_HOME/log/atlassian-jira.log` while reproducing the error. If it's `Jira DVCS connection has wrong oauth scope: Issue when integrating with Jira DVCS`, check out [the workaround](https://docs.gitlab.com/ee/integration/jira/dvcs.html#scope-error-when-connecting-jira-via-dvcs).
 1. We also have a list of useful [Rails cheat code](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/administration/troubleshooting/gitlab_rails_cheat_sheet.md#bulk-update-to-change-all-the-jira-integrations-to-jira-instance-level-values), this is handy when we need to check the values of the Jira configurations on GitLab.
 
