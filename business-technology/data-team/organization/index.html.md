@@ -44,11 +44,11 @@ classDiagram
 | **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
 | `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@rparker2` (Acting) _Lead/DRI_ | 
-| `@jeanpeguero` |  `@mpeychet` |  |
-| `@jjstark` (on leave) | `@snalamaru` |  |
-| `@paul_armstrong` | `@laddula` | |
-| `@ken_aguilar` | Chris Sharp (joining) | |  
-| `@michellecooper` | | |
+| `@ken_aguilar` |  `@snalamaru` |  |
+| `@jeanpeguero` | `@mpeychet` |  |
+| `@michellecooper` | `@chrissharp` | |
+| `@paul_armstrong` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| `@rbacovic` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| |  
+| | | |
 						
 ## How Data Fusion Teams Work
 
