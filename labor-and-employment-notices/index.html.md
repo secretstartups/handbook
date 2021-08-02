@@ -163,6 +163,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 ### Fair Labor Standards Act (FLSA) Minimum Wage 
 * [Fair Labor Standards Act Poster](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/minwagep.pdf)
 * [Section 14(c)](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/disabc.pdf)
+* [Lactation Accommodation Policy](https://drive.google.com/file/d/1davxfjYkXYNzChFXyRTgfmK90pNP3f7a/view?usp=sharing)
 
 ### Family First Coronavirus Act (FFCRA)
 * [Employee Rights: Paid Sick Leave and Expanded Family and Medical Leave under the Family First Coronavirus Act](https://www.dol.gov/sites/dolgov/files/WHD/posters/FFCRA_Poster_WH1422_Non-Federal.pdf)
