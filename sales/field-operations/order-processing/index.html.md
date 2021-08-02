@@ -219,6 +219,13 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
   - Example: "@Sales-Support I'd like to request that Auto-Renewal be paused for this subscription. I'm working with the customer on an upsell, and I'd like to ensure we do not auto-renew the subscription at the current user count if negotiations do not end before the renewal date. Please let me know if you have any questions. Thank you!"
 3. If approved, Deal Desk will navigate to the Customer Subscription object in SFDC to temporarily disable the related feature. The feature will remain disabled until the next transaction occurs, at which time it will revert to its previous state.
 
+#### SuperSonics: Frequently Asked Questions
+
+1. I'm working on a deal. How can I tell if SuperSonics features apply to that deal?
+  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto Renew," "Turn On Seat Reconciliation," or "Turn On Operational Metrics," then that feature applies to your customer. 
+2. I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?
+  - This means that your customer is exempt from one or more SuperSonics features. That means that SuperSonics features are not available for the deal, and we must place Legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) for more information on exemptions.
+
 #### Resources
 
 The following resources pertaining to the SuperSonics Billing and Subscription Management Experience are for internal purposes only.
