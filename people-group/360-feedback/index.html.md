@@ -215,3 +215,17 @@ Examples of actions to take following the conversation and depending on area of 
 ### Sharing 360 Feedback outside of the 360 Feedback Cycle
 
 If a team member becomes a manager to direct reports after the 360 Feedback cycle has completed, and would like to see their new direct reports' 360 Feedback reports, the new manager must reach out to the direct reports directly to ask permission for either the previous manager to download and send the reports, or for the direct reports to download their own reports and send them directly to the new manager. Any approval should be in writing by email, not Slack.
+
+## Common Questions 
+
+Troubleshooting for common questions during the 360 process. 
+
+1. I had a manager update during the 360 process, and I would like them to be my coach, how can I update this? 
+- Reach out in `#people-connect` and request a coach update. Please provide the new coach's email address. 
+
+1. I will be out on PTO during the nomination period; what can I do? 
+- You have two options 
+  1. Your manager/coach can update your nominations in CultureAmp -Or-
+  1. You can email `#people-connect` with the email addresses of your nominations. 
+
+
