@@ -93,7 +93,7 @@ You can learn more in the [Individual Growth Plan handbook section](/handbook/pe
 ### Achievement Tracker 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 You can learn more in the [Achievement Tracker handbook section](/handbook/people-group/learning-and-development/career-development/#tracking-your-accomplishments). 
