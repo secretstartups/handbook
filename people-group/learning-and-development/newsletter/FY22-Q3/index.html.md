@@ -131,4 +131,4 @@ We love that our team members have been contributing to GitLab Learn by making c
 
 ## Discussion 
 
-If you would like to discuss items related to this newsletter, please see the related [issue](). 
+If you would like to discuss items related to this newsletter, please see the related [issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/12). 
