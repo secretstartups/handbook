@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Enablement Sub-department Performance Indicators"
+title: "Enablement Section Engineering Metrics"
 ---
 
 ## On this page
@@ -9,18 +9,18 @@ title: "Enablement Sub-department Performance Indicators"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Performance Indicators
+These pages are part of our centralize [Engineering Metrics Dashboards](/handbook/engineering/metrics/)
 
-These charts show metrics filtered for the [Enablement sub-department](/handbook/engineering/development/enablement).
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "Enablement" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "Enablement" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Distribution" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Distribution" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Geo" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Geo" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Memory" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Memory" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Global Search" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Global Search" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Database" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Database" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Sharding" } %>

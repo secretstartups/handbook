@@ -9,14 +9,14 @@ title: "Engineering Metrics"
 - TOC
 {:toc}
 
-## Centralized Engineering Dashboards
+## Centralized Engineering Metrics
 
 Our centralized engineering dashboards provide a set of common metrics that capture the overall health of the entire R&D Product/Engineering structure, with drill downs into every stage and group.
 
 This work is the product of the team working in our unified [engineering metrics task process](/handbook/engineering/quality#engineering-metrics-task-process).
 The inception of this initiative can be see in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/3580).
 
-### Dashboard Navigation
+### Engineering Metrics Dashboards
 
 * [Dev Section](/handbook/engineering/metrics/dev/)
   * [Create Stage](/handbook/engineering/metrics/dev/create)
@@ -28,55 +28,58 @@ The inception of this initiative can be see in this [epic](https://gitlab.com/gr
   * [Configure Stage](/handbook/engineering/metrics/ops/configure)
   * [Monitor Stage](/handbook/engineering/metrics/ops/monitor)
   * [Release Stage](/handbook/engineering/metrics/ops/release)
-* Sec Section
+* [Sec Section](/handbook/engineering/metrics/sec/)
   * [Secure Stage](/handbook/engineering/metrics/secure/)
-  * [Protect Stage](/handbook/engineering/metrics/protect/)
-* [Growth Sub-department](/handbook/engineering/metrics/growth/)
-* [Enablement Sub-department](/handbook/engineering/metrics/enablement/)
-* [Fulfillment Sub-department](/handbook/engineering/metrics/fulfillment/)
+  * [Protect Stage](/handbook/engineering/metrics/sec/protect/)
+* [Growth Section](/handbook/engineering/metrics/sec/growth/)
+* [Fulfillment Section](/handbook/engineering/metrics/fulfillment/)
+* [Enablement Section](/handbook/engineering/metrics/enablement/)
 
 ### Metrics list
+
+The Engineering Metrics listed here are available for all product group teams. The indicators captured here may or may not roll into an existing KPI/PI.
+The Engineering Analytics team reserves the urgency for these dashboards to provide timely visibility without the requirement of having all indicators be a KPI/PI at the department level.
 
 #### Development indicators
 
 * MRs vs Issues
 * MR Rate, this rolls up to a KPI for the Development department
-* Review to Merge time
-* Product MRs by type
-* Narrow MRs vs Wider MRs
+* Open MR Review Efficiency (OMRE), this rolls up to a KPI for the Development department
+* MRs by team members vs Community
+* Merged Product MRs by Type
 * Feature flags older than 2 months
-* MRs authored by team members vs community contribution MRs
 
 #### Infrastructure indicators
 
+* S1 Open InfraDev Age
+* S2 Open InfraDev Age
+* InfraDev past SLO
 * Corrective Actions past SLO
-* Product Incidents
+* Open S1/S2 InfraDev Issues
 
 #### Quality indicators
 
-* S1 Mean Time to Close, this rolls up to a KPI for the Quality department
-* Average Age of unresolved S1 bugs
-* S2 Mean Time to Close, this rolls up to a KPI for the Quality department
-* Average Age of unresolved S2 bugs
+* S1 Open Bug Age (OBA)
+* S2 Open Bug Age (OBA)
 
 #### UX indicators
 
 * UX Debt open/close
 * Average days to close UX Debt
+* Issues with Actionalble Insights
 
 #### Security indicators
 
 * Average Age of currently open bug vulnerabilities, this rolls up to a KPI for the Security department
-* MTTM of vulnerabilities by month
 
-### Helpful Pointers
+### Helpful pointers
 
 * Review the chart regularly and take notes of your group, stage or section's trends.
 * Take note of anything that might be impacting the team's capacity such as holidays or increased PTO.
 * Take note of your team's focus on community contribution as an example. If the team is able to consistently merge MRs in this categories, celebrate it.
 * If you see a large amount `undefined`, spend some time to review your team's issues and MRs and add labels so we can get a more accurate classification.
 
-## Merge request rate
+## Merge Request Rate
 
 Merge Request (MR) Rate is a measure of productivity and efficiency. The numerator is a collection of merge requests to a set of projects. The denominator is a collection of people. Both are tracked over time (usually monthly).
 
@@ -95,7 +98,7 @@ Team A consists of 5 members. In the past month, there were 200 merged MRs:
 
 Team A's MR Rate for that month would be: (100 / 5) = 20
 
-## Data Classification
+## Work Type Classification
 
 We use the following type labels to classify our Issues and Merge Requests.
 
@@ -119,7 +122,7 @@ The Engineering Manager for each team is ultimately responsible for ensuring tha
 
 `~"backstage"` was intended to be changes that were done to keep product development running smoothly. Over time, `~"backstage"` was also being used for pre-feature work and has become unclear and confusing. `~"backstage"` was deprecated as part of <https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/488>.
 
-### Suggestions for previous common ~"backstage" examples
+#### Backstage replacements
 
 This guidance may be helpful if you are wondering the go-forward type label based on your use case for applying `~"backstage"`.
 

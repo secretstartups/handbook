@@ -1,0 +1,23 @@
+---
+layout: handbook-page-toc
+title: "Secure Stage Engineering Metrics"
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Secure" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Static analysis" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Dynamic analysis" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Composition analysis" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Threat insights" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Vulnerability research" } %>

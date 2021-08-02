@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Ops Sub-department Performance Indicators"
+title: "Ops Section Engineering Metrics"
 ---
 
 ## On this page
@@ -9,21 +9,16 @@ title: "Ops Sub-department Performance Indicators"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Performance Indicators
+These pages are part of our centralize [Engineering Metrics Dashboards](/handbook/engineering/metrics/)
 
-These charts show metrics filtered for the [Ops sub-department](/handbook/engineering/development/ops).
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "ops" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "ops" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Verify" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Verify" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Package" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Package" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Release" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Release" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Configure" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Configure" } %>
-
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Monitor" } %>
-
-### Product Performance Indicators
-[The Ops Stage Product Performance Indicators](/handbook/product/ops-section-performance-indicators/) are currently listed separately but we are working to better include them directly in this page.
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Monitor" } %>

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Package Stage Performance Indicators - How we measure team success"
+title: "Package Stage Engineering Metrics"
 ---
 
 ## On this page
@@ -9,4 +9,6 @@ title: "Package Stage Performance Indicators - How we measure team success"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Package" } %>
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Package" } %>
+
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Package" } %>

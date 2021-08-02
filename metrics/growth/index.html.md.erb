@@ -1,7 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Growth Sub-department Performance Indicators"
-description: "Lists the Performance Indicators for GitLab's Growth sub-department"
+title: "Growth Section Engineering Metrics"
 ---
 
 ## On this page
@@ -10,18 +9,16 @@ description: "Lists the Performance Indicators for GitLab's Growth sub-departmen
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Performance Indicators
+These pages are part of our centralize [Engineering Metrics Dashboards](/handbook/engineering/metrics/)
 
-These charts show metrics filtered for the [Growth sub-department](/handbook/engineering/development/growth).
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Growth" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/team_dashboard.erb", locals: { filter_type: "stage", filter_value: "Growth" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Activation" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Activation" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Conversion" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Conversion" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Expansion" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Expansion" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Adoption" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Adoption" } %>
-
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Product Intelligence" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "group", filter_value: "Product Intelligence" } %>

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Dev Sub-department Performance Indicators"
+title: "Dev Section Engineering Metrics"
 ---
 
 ## On this page
@@ -9,14 +9,12 @@ title: "Dev Sub-department Performance Indicators"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Performance Indicators
+These pages are part of our centralize [Engineering Metrics Dashboards](/handbook/engineering/metrics/)
 
-These charts show metrics filtered for the [Dev sub-department](/handbook/engineering/development/dev).
+<%= partial "handbook/engineering/metrics/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "Dev" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/team_dashboard.erb", locals: { filter_type: "sub_department", filter_value: "Dev" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Create" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Create" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Plan" } %>
 
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Plan" } %>
-
-<%= partial "handbook/engineering/development/performance-indicators/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Manage" } %>
+<%= partial "handbook/engineering/metrics/partials/child_dashboard.erb", locals: { filter_type: "stage", filter_value: "Manage" } %>
