@@ -92,7 +92,23 @@ Custom fields start with [ZI] and will be visible in the Zoominfo section in SFD
 All of Salesforce current accounts in the database have been enriched with Zoominfo. Accounts are scheduled to be refreshed with Zoominfo weekly on Saturdays. Instant Enrich will enrich any new accounts that are created.
 
 ## SFDC Lead Enrichment
-All leads owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
+The lead enrichment jobs currently running in Zoominfo prioritize the following leads: 
+1. Leads that are owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
+
+2. Leads that have the criteria below:  
+- Country = P0, P1 countries (AX,AU,AT,BR,CA,CN,DK,FO,FI,FR,DE,IE,IT,JP,KP,KR,MX,NL,NZ,NO);
+- have been created in the last 120 days;
+- have Lead Status = Inquiry; 
+- have no title OR no phone number OR have a free e-mail address (gmail,yahoo);
+
+These leads are scheduled to be enriched on a weekly basis on Wednesdays.
+
+## SFDC Contact Enrichment
+The contact enrichment jobs currently running in Zoominfo prioritize contacts which follow the below criteria: 
+- Account: Shipping Country = P0, P1 countries (AX,AU,AT,BR,CA,CN,DK,FO,FI,FR,DE,IE,IT,JP,KP,KR,MX,NL,NZ,NO);
+- have no title OR no phone number OR have a free e-mail address (gmail,yahoo);
+
+These contacts are scheduled to be enriched on a weekly basis on Thursdays.
 
 ### Outreach Integration
 The ZoomInfo Outreach integration is now live and you may export contacts directly to Outreach. Any contacts you do export, will also be exported in SFDC. They will be initially missing some ZI information in SFDC but there will be an append job that will run automatically to update any missing information.
