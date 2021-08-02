@@ -19,7 +19,7 @@ canonical_path: "/company/team/structure/working-groups/product-analytics-gtm/"
 | Target End Date | FY22-Q4 |
 | Slack           | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit) (only accessible from within the company) |
-| Docs      | TBD |
+| Quarterly Updates | [FY21-Q4](https://docs.google.com/presentation/d/1ydBmyP610IFfBBFTwyW-EFnsP3vyX86JJ3jiJoNPfwQ/edit#slide=id.p) [FY22-Q1](https://gitlab.com/groups/gitlab-com/-/epics/1294) [FY22-Q2 EOQ Review](https://docs.google.com/presentation/d/16jk3lQEkrHlOLBM_2r-AIWC34PaJQKIKEuATdKPfjDg/edit#slide=id.gdb5c16c7a1_2_0) |
 | Related Overview   | [GTM Product Analytics: Status, Gaps and the Road Forward](https://docs.google.com/document/d/17dw3qpX5PbvF_WwQXNEQuCPqGUcng1zy85R-2fIL1k8/edit#) |
 | Associated OKRs | [FY21-Q2 - Architect Telemetry](https://gitlab.com/groups/gitlab-com/-/epics/532), [FY21-Q3 - Deploy Product Analytics](https://gitlab.com/groups/gitlab-com/-/epics/736), [FY21-Q4 - Deploy Product Analytics in GTM Motion](https://gitlab.com/groups/gitlab-com/-/epics/1013) |
 
