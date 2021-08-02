@@ -209,7 +209,7 @@ From here, the GitLab L&D team will moderate and remove comments and content in 
 
 ## Reporting content errors in GitLab Learn
 
-Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions)
+Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/issues)
 
 ## Frequently asked questions
 
