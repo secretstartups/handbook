@@ -13,7 +13,7 @@ description: "Effective discovery is critical to thoroughly understanding custom
 {::options parse_block_html="true" /}
 
 # Overview 
-Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcast to improve your discovery effectiveness.
+Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. 
 
 ![discovery-components-visual](/handbook/sales/playbook/discovery/discovery-components-visual.png)
 
