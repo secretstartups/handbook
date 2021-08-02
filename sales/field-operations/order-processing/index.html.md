@@ -174,7 +174,10 @@ New fields have been added to the Quote object to support SuperSonics Functional
 
 **Zuora Fields**
 
-This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Metrics). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix), the default values will be "No" for all fields.
+This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Metrics). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
+
+For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix), the default values will be "No" for all fields. 
+* Note: If a customer is exempt from SuperSonics, or has opted out, Legal Language will populate on the Order Form noting that SuperSonics does not apply. In these cases, such language can only be removed or edited by the GitLab Legal Team.
 
 | Field Name | Field Description |
 |-|-|
