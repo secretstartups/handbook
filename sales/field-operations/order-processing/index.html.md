@@ -221,11 +221,12 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 
 #### SuperSonics: Frequently Asked Questions
 
-1. I'm working on a deal. How can I tell if SuperSonics features apply to that deal?
+1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
   - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto Renew," "Turn On Seat Reconciliation," or "Turn On Operational Metrics," then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
-2. I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?
-  - This means that your customer is exempt from one or more SuperSonics features. That means that SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) for more information on exemptions.
-3. My customer is exempt from SuperSonics, and they have requested edits to the opt-out language on the Order Form. What do I do?
+2. **I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?**
+  - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) for more information on exemptions.
+  - Note: This language is not optional and cannot be removed unless the customer opts into SuperSonics. If you would like to discuss such a scenario, tag @Sales-Support in chatter.
+3. **My customer is exempt from SuperSonics, and they have requested edits to the opt-out language on the Order Form. What do I do?**
   - Please open a [Legal Request](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) case to discuss potential edits to the language with the Legal Team.   
 
 #### Resources
