@@ -43,6 +43,8 @@ In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we
 
 _Please note: for 360 feedback cycle we will only include team members with a hire date of before June 1st in the automatic email communications. If you are a team member with a hire date of post June 1st and you want to be added, please reach out to [People Connect](/handbook/people-group/people-connect/) to be manually added._
 
+**If for an extenuating circumstance you are in need of an extention for any of the phases outlined above, please reach out to [People Connect](/handbook/people-group/people-connect/).**
+
 ### 360 via Culture Amp 
 
 We utilize the tool [Culture Amp](https://gitlab.cultureamp.com/) to administer 360 Feedback. The 360 Feedback cycle in CultureAmp exists of a Self review, Manager review and Peer reviews. 
