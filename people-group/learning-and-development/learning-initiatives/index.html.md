@@ -207,6 +207,8 @@ The L&D team publishes a [quarterly mental health newsletter](/handbook/people-g
 
 From there, identify what will be needed to attain the new skills and consider using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) or [expensing professional development opportunities such as coaching, worskshops, conferencces, self-service learning, etc.](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). Another option you can utilize to learn more is [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/). GitLab has a number of LinkedIn Learning licenses for team members. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
 
+In a [discussion with Darren about his career development plan](https://gitlab.edcast.com/pathways/career-development-with-darren-murph/cards/7123731), Darren called out the importance of taking time out to learn, reminding the team that career development is "not something that comes around the fringes of work - it is work". Taking time out to learn as a GitLab team member leans into this idea.
+
 Consider documenting the steps you are going to take learn new skills in the individual growth plan. Check in with your manager and ask for accountablity from them to help you stay aligned with goals. 
 
 
