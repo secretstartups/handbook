@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/product-analytics-gtm/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 10, 2020 |
-| Target End Date | FY22-Q1 |
+| Target End Date | FY22-Q4 |
 | Slack           | [#wg-gtm-product-analytics](https://gitlab.slack.com/archives/C01BMJKC8UF) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1riUXq1GdavnSWJklrebBeZnzcAl6XATyLod9tR6-AlQ/edit) (only accessible from within the company) |
 | Docs      | TBD |
