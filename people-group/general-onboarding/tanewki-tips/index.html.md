@@ -60,7 +60,7 @@ After you sign your offer and complete your background check and references, you
 {::options parse_block_html="true" /}
 
 <i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
-Want to learn more about Onboarding from current team members? View their feedback [here][https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback/]!
+Want to learn more about Onboarding from current team members? View their feedback [here](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback/)!
 &nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
 {: .alert .alert-webcast}
 
