@@ -92,7 +92,7 @@ Account Name contains a number of options related to managing your account in Co
 1. **Export**: allows downloading a report in CSV or Excel format based on the current filters applied to the list of requisitions.
 1. **Actions**: the icons next to each requisition allow you to edit, copy, cancel, withdraw, and resend requisitions.
 
-- **Groups**: Access to Groups setup and allows user to add members in the group he belongs to.
+- **Groups**: Access to Groups setup and allows user to add members in the group he/she belongs to.
 - **Settings**: Contains consolidated personal settings.
    - **General**: The General tab is where you can load a profile photo and check user forms.
    - **Address Book**: Allows you to view your default shipping address and change it as needed (you can also change the shipping address of a particular requisition on the requisition page).
@@ -162,7 +162,7 @@ For approvals as part of an approval group, the individual must be a member of t
    - All the cart details will be displayed and the requestor can review and/or edit the details as required. (This is the Purchase Request form that will be flipped into an Order when approved).
 
 
-If a supplier is not exclusively paid by credit card, the requester must tag the `@accountspayableapprovalgroup` group in a comment when submitting the requisition so they can remove it from CoupaPay.
+If a supplier is exclusively paid by credit card, the requester must tag `@Accounts Payable Approval Group` and note the credit card payment method in a comment before submitting the requisition. This will alert the AP Team so they can remove it from CoupaPay.
 {: .alert .alert-warning}
 
 **REQUISITION HEADER LEVEL**
@@ -318,6 +318,20 @@ There are several ways to approve transactions in Coupa:
    - The app allows you to do approvals for both Requisitions and Invoices:
       - To Approve: Open the requisition or invoice notification, review the information, and approve.
       - To Reject: Open the requisition or invoice notification, review the information, and reject.
+
+
+<div class="panel panel-info">
+**NOTE**
+{: .panel-heading}
+<div class="panel-body">
+
+- If your requisition status is "Pending Buyer Action", it is in Procurement's To Do List and can be ignored. If there are any issues, Procurement will add comments to the requisition and you will receive notification via email or in your To Do List (depending on your notification setup in Coupa). 
+- If you see "Onboarding" next to the Supplier's name on the line items of your requisition (see below screenshot), please reach out to your Supplier and request them to join Coupa's Supplier Portal to complete the onboarding process. Suppliers have to complete their onboarding in Coupa before the requisition can be finalized. 
+
+![coupa-image-25](/handbook/business-technology/enterprise-applications/guides/coupa-guide/Coupa25.png)
+
+</div>
+</div>
 
 ### How to Copy a Requisition
 
