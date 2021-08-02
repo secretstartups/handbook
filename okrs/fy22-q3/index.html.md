@@ -40,7 +40,7 @@ The by-the-book schedule for the OKR timeline would be
    1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions. [Issue 12069](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12069)
    1. **CEO KR:** Release has a wizard with 100 templates. [Issue 12075](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12075)
    1. **CEO KR:** Increase funnel volume to drive pipeline. [Issue 12074](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12074)
-   1.  **CEO KR:** Increase Trial conversion to X%, Increase Free to Trial/Paid to X%. [Issue 12073](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12073)
+   1.  **CEO KR:** Increase SaaS Trial conversion rate by 5% and Increase D14 namespace with 2+ SpO by 10%. [Issue 12073](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12073)
 
 ### 3. CEO: Even prouder to work here
 [Epic 1536](https://gitlab.com/groups/gitlab-com/-/epics/1536)
