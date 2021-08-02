@@ -31,7 +31,7 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 1. CEO: GitLab Managed future 
 [Epic 1534](https://gitlab.com/groups/gitlab-com/-/epics/1534)
-   1. **CEO KR:** Drive 100% of identified SaaS First improvements to completion. [Issue 12066](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12066) 
+   1. **CEO KR:** Drive 100% of [identified SaaS First improvements](https://gitlab.com/gitlab-com/Product/-/issues/2696) to completion. [Issue 12066](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12066) 
    1. **CEO KR:** Launch Beta of Project Horse and onboard at least one customer (internal or external); Validate and deliver a plan for GitLab Pods aligned with Infrastructure, Engineering, and CEO. [Issue 12067](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12067)
    1. **CEO KR:** Build Workspace core container in FY22Q3, enable Issue Types and move Labels from Plan capabilities, and setup path to enable enterprise critical instance level features for SaaS customers in FY22Q4. [Issue 12068](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12068)
 
