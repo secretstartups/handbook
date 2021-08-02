@@ -174,18 +174,45 @@ A.  Open the New Business opportunity and click the **“New Quote”** button.
 B.  When prompted **select “New Subscription”** and click “Next.”
 
 C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
+
+*   Select a Quote Template
+
+| Template                            | Use For                                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals. Otherwise Identical to the Standard Order Form Template       |
+| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
+| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
+| Distributor Order Form              | Distributor Transactions                                                                                 |
+
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
+
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+
+| Toggle Field                   | Output                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
+| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
+
 *   **Select “Sold To” and “Bill To” contacts.** Note that the “Sold To” contact will receive the EULA or License file via email. Note: Each contact record must have a complete address, if the address is not fully populated, you will need to update this before you can proceed with the quote. 
 *   For **Channel deals,** populate the “Invoice Owner” and "Invoice Owner Contact" fields. For **Direct Deals** leave "Invoice Owner" and "Invoice Owner Contact" blank. 
     *   Ensure that the Invoice Owner Contact is connected to the correct reseller account - i.e. if the reseller is in Germany, the Invoice Owner Contact should also be based in Germany.
     *   If an "Invoice Owner" does not auto-populate in the drop down, this means that a Billing Account does not yet exist for the partner. Chatter `@Billing-ops` on the Partner account and ask for a Billing account to be created. 
 *   Populate **“Initial Term”** in months. (i.e. for a two-year deal, enter “24”). For standard deals, "Initial Term" should always match the SKU that you are quoting (i.e. Premium - 2 Year = Initial Term 24 Months). 
 *   If the customer or reseller is based in the EU, enter the “VAT ID” number. This is required to book the order. 
-*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. In addition, select the **“EXISTING MSA”** quote template.
+
 *   Note: Non-standard payment terms (Net 30 = standard) should be reflected on the quote object, and will require approval per the approval matrix.
 
 D.  Select **“Add Base Products”** from the drop-down menu on the “Edit Products and Charges” page. Select the correct product and click Next.
 E.  Enter the product quantity, and adjust the discount or effective price as needed. Click Submit.
-F.  **Order Form Generation**
+F.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
+G.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+H.  **Order Form Generation**
 *   If no discounts or special terms are requested, click “Generate PDF.”
 *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
     *   In the case of reseller deals, please obtain the approvals in Chatter based on the approval matrix.
@@ -211,8 +238,28 @@ Amendments to subscriptions must be processed entirely before any changes can be
 *   Select the **existing billing account**.
 *   When prompted **select “Amend Existing Subscription for this Billing account**, and select the appropriate subscription. 
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
-*   Provide Quote, Account, and Subscription Term Details and click “Next.”
-    *   The **Start Date** cannot be set before the subscription start date.
+*   Provide Quote Template, Account, and Subscription Term Details and click “Next.”
+
+* Select a Quote Template - Note, Amendments must transact through the same route to market as the original order. 
+
+|Template                             | Use For                                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
+| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
+| Distributor Order Form              | Distributor Transactions                                                                                 |
+
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
+
+*   Add preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+
+| Toggle Field                   | Output                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
+    
+*   The **Start Date** cannot be set before the subscription start date.
     *   The **End Date** will automatically be set to co-terminate with the existing subscription.
     *   The **Initial Term** should match the initial term of the New Business or Renewal subscription that precedes this quote. (i.e. if you’re amending the quote halfway through a 12 month term, the Initial Term should be 12, not 6.
     *   The **GitLab Entity** must be the same as it was on the initial deal you’re amending.
@@ -260,7 +307,28 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 *   When prompted **select “Renew Existing Subscription for this Billing account,** and select the appropriate subscription. 
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
 *   Provide Quote, Account, and Subscription Term Details and click “Next.”
-    *   The **Start Date** cannot be edited. This will be the true renewal date.
+*   Select a Quote Template
+
+| Template                            | Use For                                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
+| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
+| Distributor Order Form              | Distributor Transactions                                                                                 |
+
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
+
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+
+| Toggle Field                   | Output                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
+| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
+
+*   The **Start Date** cannot be edited. This will be the true renewal date.
     *   The **End Date** will automatically be determined by the Renewal Term.
     *   Populate **“Renewal Term”** in months. (i.e. for a two-year renewal, enter “24”)
     *   Select the proper **GitLab Entity.**
@@ -272,7 +340,13 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 *   Click Next, to enter the Products and Charges page.
     *   Note: The product lines from the Initial Term are already listed and will be marked “Original.” You may add new products, update the quantity on the original license, or remove the existing license. To add users to an existing license at a different price, the new user licenses should be added on a new product line.
 
-**B.  Renewal Using a New Subscription Quote**
+**B.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
+**C.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+
+**D.  Renewal Using a New Subscription Quote**
 
 If the customer needs to change the Quote Start Date (typically for Billing purposes) at time of Renewal, you will need to build a  New Subscription quote. We will also use a New Subscription quote if the deal includes a Contract Reset. 
 
@@ -282,7 +356,34 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
     *   Note: If there are multiple billing accounts or subscriptions available, and you are unable to determine which to choose, please ask @Sales-Support via Chatter.
 *   Fill out the necessary information on the quote per the instruction under the **New Subscription Quote** section above. 
     *   **Note: The Start Date must be the renewal date.** 
+*   Select a Quote Template
+
+| Template                            | Use For                                                                                                  |
+|-------------------------------------|----------------------------------------------------------------------------------------------------------|
+| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
+| Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
+| MSP Order Form                      | Managed Service Provider Transactions                                                                    |
+| Distributor Order Form              | Distributor Transactions                                                                                 |
+
+*   If there is a **signed MSA** between the customer and GitLab, the **“Existing GitLab Agreement Effective Date” field** should be populated with the date of the MSA’s signature. If "Existing Agreement Effective Date" is populated on the quote object, the Order form will automatically generate with Acceptance Language that References the existing agreement. If it **is not populated** the language will default to Standard terms. 
+
+*   Add any preapproved legal language selections to the order form. Checking the box next ot the langauge selection will automatically generate an order form with pre approved legal language - no need for Deal Desk intervention. Selections are as follows: 
+
+| Toggle Field                   | Output                                                                                   |
+|--------------------------------|------------------------------------------------------------------------------------------|
+| Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
+| Customer Reference Langauge    | Customer Reference Langauge will populate in Notes Section of the order form             |
+| Add Quarterly True Up Langauge | Standard Quarterly True Up langauge will populate in the Notes section of the Order Form |
+| Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
+
 *   Click Next and update the products and fees per the steps above.
+
+**E.   **Add Annual Payments** to a order form by:
+* Checking "Annual Payments" checkbox on Quote Detail Page
+* Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
+* **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU.  
+**F.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 
 **To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/kDZJW-ss5j4) to see each step live for an Renewal Quote:**
 
@@ -354,6 +455,13 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 
 * The quote approval module has been updated to recognize the new Premium and Ultimate SKUs referenced in the table above.
 * The quote approval module has been updated to recognize the [Starter/Bronze EoA Option 2 upgrade offer](https://docs.google.com/document/d/19T-ysFuEFWIlAv7Z9o1Q6-kVU9HKFb_nzGZ1uumpMLA/edit) (one year renewal/add-on upgrade).
+
+#### SuperSonics Billing and Subscription Management Experience
+
+To learn more about the SuperSonics Billing and Subscription Management experience and how it impacts your quote, review the following:
+- [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
+- [How To Opt-Out of SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-supersonics-features) 
+- [How to Temporarily Pause SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-supersonics-features)
 
 #### Quoting Professional Services
 
@@ -439,11 +547,13 @@ For more information on ARR calculation for Contract Resets, see [ARR in Practic
 
 #### Multi-Year Deals
 
-In the case of multi-year deals, the Initial Term” should be updated to reflect the number of months in the term - 24, 36, 48, etc. Also, select the correct Product (i.e. for a 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Multi-year deals that do not utilize the correct SKU will be rejected. 
+In the case of multi-year deals, the Initial Term should be updated to reflect the number of months in the subscription term - 24, 36, 48, 60, etc. 
 
-If annual payments are requested for multi-year deals, use the 1 Year product. Note that annual payments must be approved in chatter according to the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit?ts=5d6ea430#heading=h.f8920bj8v6l9). 
+For prepaid multi-year deals, you must select the correct multi-year SKU (i.e. for a prepaid 2 year SaaS - Premium deal, select “SaaS - Premium - 2 Year”). Prepaid multi-year deals that do not utilize the correct multi-year SKU will be rejected. 
 
-If annual payments are approved, create a separate opportunity and quote for each year of the subscription. A three-year deal with an annual payment schedule will have 3 separate opportunities and quotes reflecting each year of the subscription. Work with @Sales-Support in Chatter if needed. The "Payment Schedule" field on each opportunity should be populated with the value "Annual Payments."
+For multi-year deals, paid annually, you must select the 1 Year SKU, and click on the Annual Payments checkbox to add the necessary payment language to the Order Form. Multi-year deals paid annually that do not utilize the correct 1 Year SKU will be rejected.
+
+
 
 For more information on ARR calculation for Multi-Year Deals, see [ARR in Practice](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#how-net-arr-is-calculated-for-standard-deals).
 
@@ -602,24 +712,6 @@ The following fields are maintained by Deal Desk to distinguish standard vs. non
 *  Prepaid (Default Value)
 *  Annual Payments
 *  Custom Payment Schedule
-
-#### Zuora Quote Template Updates 
-
-The Deal Desk team manages updates to all quote templates. Please tag @sales-support if you have questions regarding quote templates. 
-
-<details>
-<summary markdown='span'>
-  Zuora Template Resources
-</summary>
-
-In order to update quote templates that are used in Salesforce, and pulled in from Zuora, please reference the below resources provided by Zuora. 
-1. [General overview to update quote templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates)
-1. [Leveraging mail merge fields to update templates](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/C_Customize_Quote_Template_using_Word_Mail_Merge) - This must be completed in Microsoft word and saved accordingly
-1. [Reference the merge fields that are supported](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/K_Supported_Merge_Fields_for_Quote_Templates_and_Mapping_to_Salesforce#Charge_Summary.Quote_Rate_Plan_Merge_Fields)
-1. [How to displaty multiple quote charges in a table](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings/Customize_Quote_Templates/E_Customize_Quote_Templates_Using_Microsoft_Word_Mail_Merge)
-1. [Uploading to Zuora and connect to Salesforce](https://knowledgecenter.zuora.com/CA_Commerce/C_Zuora_Quotes/CB_Zuora_Quotes_Configuration_Settings/D_Quote_Template_Settings) 
-
-</details>
 
 #### Quote Entity Information
 
