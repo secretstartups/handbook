@@ -107,15 +107,16 @@ We will continue to build out a guide on how to select which type of experiment 
 ## Standard Operating Procedure for Creating and Running Experiments
 This guide is used to explain the following steps in the GitLab Experimentation Process and the steps that are recommended for the successful implementation and analysis of an experiment. Here are the main parties involved in the creation and execution of an experiment and the scope of responsibilty for each: 
 
-**Scope and Responsibilities for Product Managers, Engineers, and Analysts**
+### Scope and Responsibilities for Product Managers, Engineers, and Analysts
 
-|         | Product Managers |  Engineer | Analysts              |
-|:--------:|:---------------:|:---------:|:---------------------:|
-| Planning                 | Issue creation<br>Determine experiment type<br>Event definition | Event definition review                     | Experiment Type, Metrics and Event definition review            |
-| Implementation           |                                                                 | Event tracking and variant definition         |                                                                 |
-| QA                       | PM/Dev QA the experiment variants                               | Rollout on staging                    | Data checks to ensure data collection in staging                |
-| Experiment in Production | PM confirms experiment variants                                 | Data QA                               | Data QA                                                   |
-| Post-Experiment          | Ending of experiment and post-experiment data collection        | Resolution and cleanup                | Experiment analysis                                  |
+
+|                          |                         Product Managers                        |               Engineers               |                        Analysts                       |
+|--------------------------|:---------------------------------------------------------------:|:-------------------------------------:|:-----------------------------------------------------:|
+| Planning                 | Issue creation<br>Determine experiment type<br>Event definition |        Event definition review        | Experiment type, metrics, and event definition review |
+| Implementation           |                                                                 | Event tracking and variant definition |                                                       |
+| QA                       |                PM/Dev QA the experiment variants                |           Rollout on staging          |    Data checks to ensure data collection in staging   |
+| Experiment in Production |                 PM confirms experiment variants                 |                Data QA                |                        Data QA                        |
+| Post-Experiment          |     Ending of experiment and post-experiment data collection    |         Resolution and cleanup        |                  Experiment analysis                  |
 
 ### For Product Managers
 1. Start with defining the metrics that you will use to determine success in the experiment. Here are some questions to help guide the selection of metrics for an experiment. We recommend defining 1 target KPI or what we would use to declare a winner in this experiment, and any other secondary KPIs that you’d like to be included in the analysis: 
