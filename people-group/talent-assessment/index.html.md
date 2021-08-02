@@ -22,7 +22,7 @@ There are many talent assessment options, and we have opted to use a Performance
 
 GitLab's Performance/Growth Matrix is a type of talent assessment that forms part of our [Talent Development Program](https://about.gitlab.com/handbook/people-group/talent-development-program/). To ensure we remain efficient and consistent, we built a [Performance/Growth Assessment Tool](https://about.gitlab.com/handbook/people-group/engineering/assessment-tool/) to leverage during this process. 
 
-In addition to assessing Performance/Potential, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
+In addition to assessing Performance/Growth, we annually review Key Talent aligned with the criteria outlined below on this page. The combination of Performance/Growth and Key Talent assessments allow us to identify team members who drive the organization’s success and use our engagement tools to retain them. 
 
 
 # The Performance/Growth Matrix
