@@ -18,13 +18,13 @@ You can find more information on the [structure and process](/handbook/people-gr
 This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, Vice President, People Operations, Technology & Analytics, and Darren Murph, Head of Remote. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k8k1xYtlo6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) in GitLab Learn to see the video and add questions for Pattie to her Async AMA Issue. 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="addurl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J9n0F22d0eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Darren has been with GitLab since July 2019 (2019-07) as our Head of Remote. Learn more about his career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) in GitLab Learn to see the video and add questions for Darren to his Async AMA Issue. 
