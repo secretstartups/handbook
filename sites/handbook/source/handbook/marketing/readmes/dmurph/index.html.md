@@ -49,6 +49,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 #### Articles 
 
 * CNBC — [Embracing Remote Work: Meet the Oracles](https://www.cnbc.com/video/2020/11/13/embracing-remote-work-meet-the-oracles.html)
+* Digiday — [‘Change without story is a mandate, change with story is purpose’: Why marketing and comms execs are being tapped for chief-of-remote roles](https://digiday.com/marketing/change-without-story-is-a-mandate-change-with-story-is-purpose-why-marketing-and-comms-execs-are-being-tapped-for-chief-of-remote-roles/)
 * Ladders — [The dawn of the age of Chief Remote Work Officers](https://www.theladders.com/career-advice/the-dawn-of-the-age-of-chief-remote-work-officers)
 * Fortune — [Why GitLab hired a ‘head of remote’ before the coronavirus pandemic](https://fortune.com/2020/05/28/coronavirus-head-of-remote-work-from-home-gitlab-github-jobs/)
 * Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
