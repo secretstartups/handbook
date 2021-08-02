@@ -22,29 +22,14 @@ Improve availability of CustomersDot by migrating from Azure to GCP
 
 ### 2021 Roadmap
 
+#### FY22-Q3
+
+See [Migrate Subscription Management Application (customers.gitlab.com) from Azure to GCP](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/390)
+
+#### FY22-Q4
+
 | Work | Guesstimate | Status | Theme |
 | ---  | ---         | ---    | ---   |
-| Create a new Google Cloud Project for staging  | M  | Done | Infrastructure Setup |
-| Use Puma as default web server | L | WIP, Q2 | Infrastructure Setup |
-| Configure basic Ansible playbook | L | WIP, Q2 | Infrastructure Setup |
-| Configure Ansible CustomersDot environment | M | WIP, Q2 | Infrastructure Setup |
-| Deploy to staging using Ansible | L | Q2-Q3 | Infrastructure Setup |
-| Configure Ansible CustomersDot deployment | L | Q2-Q3 | Infrastructure Setup |
-| Add CustomersDot deployment to GitLab CI | L | Q3 | Infrastructure Setup |
-| Configure fail2ban, cloudfare | L | Q3 | Infrastructure Setup |
-| Create a new Google Cloud Project for production | L | Q3 | Infrastructure Setup |
-| Replicate current deployment blocking (auto-block on staging failure) | L | Q3 | Infrastructure Setup |
-| Migrate to new production fleet and testing | XXL | Q3 | Infrastructure Setup |
-| Clean up old customers Infra | M | Q3 | Infrastructure Setup |
-| Static IP address requirements | L | Q3 | Infrastructure Setup |
-| Use Ansible/Ansistrano auto-rollback feature | L | Q3 | Infrastructure Setup |
-| Add Prometheus monitoring | M | Q3 | Basic Observability |
-| Add minimum uptime/health checks and alerts | L | Q3 | Basic Observability |
-| Add logs to Kibana | L | Q3 | Basic Observability |
-| Add current API health and alerts (including Zuora, SFDC...) | L | Q3 | Basic Observability |
-| Configure all alerts with Slack notifications | M | Q3 | Basic Observability |
-| Define SLA and make dashboards for CustomersDot | L | Q3 | Basic Observability |
-| Configure deployment notifications and alerts | L | Q3 | Basic Observability |
 | HA Environment in production and deployment | XL | Q4 | Redundancy |
 | Add Cloud Licensing observability and alerts | XL | Q4 | Advanced Observability |
 | Add more Prometheus metrics | L | Q4 | Advanced Observability |
@@ -56,8 +41,6 @@ L = 0.5 milestone, 1 person
 XL = 1 milestone, 1 person
 XXL = 2 milestones, 1 person
 
-Q2 = M x 2 + L x 2 = 0.25 x 2 + 0.5 x 2 = 1.5 milestones, 1 person
-Q3 = M x 3 + L x 13 + XXL x 1 = 0.25 x 3 + 0.5 x 13 + 2 = 9.25 milestones, 1 person
 Q4 = L x 1 + XL x 3 = 0.5 x 1 + 1 x 3 = 3.5 milestones, 1 person
 
 ## How we work
