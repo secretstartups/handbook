@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Experimentation Design & Analysis Framework
+title: Experimentation Design & Analysis
 ---
 
 <!---## On this page---->
@@ -105,18 +105,19 @@ directionally impacted a metric?
 We will continue to build out a guide on how to select which type of experiment to run.
 
 ## Standard Operating Procedure for Creating and Running Experiments
-This guide is used to explain the following steps in the GitLab Experimentation Process and the steps that are recommended for the successful implementation and analysis of an experiment. 
+This guide is used to explain the following steps in the GitLab Experimentation Process and the steps that are recommended for the successful implementation and analysis of an experiment. Here are the main parties involved in the creation and execution of an experiment and the scope of responsibilty for each: 
 
 **Scope and Responsibilities for Product Managers, Engineers, and Analysts**
-|                          |                         Product Managers                        |               Engineers               |                       Analysts                       |
-|--------------------------|:---------------------------------------------------------------:|:-------------------------------------:|:----------------------------------------------------:|
-| Planning                 | Issue creation<br>Determine experiment type<br>Event definition | Event definition review               | Experiment Type, Metrics and Event definition review |
-| Implementation           |                                                                 | Event tracking and variant definition |                                                      |
-| QA                       | PM/Dev QA the experiment variants                               | Rollout on staging                    | Data checks to ensure data collection in staging     |
-| Experiment in Production | PM confirms experiment variants                                 | Data QA                               | Data QA                                              |
+
+|         | Product Managers |  Engineer | Analysts              |
+|:--------:|:---------------:|:---------:|:---------------------:|
+| Planning                 | Issue creation<br>Determine experiment type<br>Event definition | Event definition review                     | Experiment Type, Metrics and Event definition review            |
+| Implementation           |                                                                 | Event tracking and variant definition         |                                                                 |
+| QA                       | PM/Dev QA the experiment variants                               | Rollout on staging                    | Data checks to ensure data collection in staging                |
+| Experiment in Production | PM confirms experiment variants                                 | Data QA                               | Data QA                                                   |
 | Post-Experiment          | Ending of experiment and post-experiment data collection        | Resolution and cleanup                | Experiment analysis                                  |
 
-**For Product Managers**
+### For Product Managers
 1. Start with defining the metrics that you will use to determine success in the experiment. Here are some questions to help guide the selection of metrics for an experiment. We recommend defining 1 target KPI or what we would use to declare a winner in this experiment, and any other secondary KPIs that you’d like to be included in the analysis: 
 
     - What is the business question you are trying to answer?
@@ -124,11 +125,11 @@ This guide is used to explain the following steps in the GitLab Experimentation 
     - What are the variants that are being introduced in the experiment and what is the expected behavior? 
     - Are there events or a sequence of events that are specific to a variant vs. the control group?
 
-    <br>**NOTE:** Product Analytics is available to help with the definition of events and metrics for experiments for better alignment before proceeding with the analysis</br>
+    <br>**NOTE:** Product Analytics is available to help with the definition of events and metrics for experiments for better alignment before proceeding with the analysis
 
 2. Identify what kind of experiment you’d like to conduct from the experiments we’ve described below. We’ve also included a questionnaire that will help you decide what desired result you’d like from the experiment: 
 
-    Our experimentation design and analysis framework leverages two different "types" of experiments: **True Randomized Control Trials (True RCTs)** and **Pseudo-Randomized Control Trials (Pseudo-RCTs)**. The two types differ in terms of statistical rigor (including p-value    interpretation),  which in turn impacts required sample size and experiment duration.
+    Our experimentation design and analysis framework leverages two different "types" of experiments: **True Randomized Control Trials (True RCTs)** and **Pseudo-Randomized Control Trials (Pseudo-RCTs)**. The two types differ in terms of statistical rigor (including p-value interpretation), which in turn impacts required sample size and experiment duration.
 
     True RCTs are optimized for statistical certainty and pseudo-RCTs are optimized for experiment velocity. Please refer to the definition of the experiment types at the beginning of this page for further guidance.
 
@@ -137,7 +138,7 @@ This guide is used to explain the following steps in the GitLab Experimentation 
 3. After defining your metrics, work with your Product Analytics team and engineers to identify what the best method of tracking would be and which events need to be tracked. 
     -  Are you tracking front-end events? Back-end events? 
     - Are you conducting a funnel analysis? If so, is there an order of events that you are tracking?
-    - What is your conversion event (or what you would consider as a successful conversion)
+    - What is your conversion event (or what you would consider as a successful conversion)?
     - If you are tracking a conversion rate, specify what the numerator and denominator would be for this calculation.
       - Specify if time should be factored into the conversion rate, such as D7, D14, or D30 conversion.
 
@@ -145,11 +146,11 @@ This guide is used to explain the following steps in the GitLab Experimentation 
     The contents of the Experiment template can be found [here](https://gitlab.com/gitlab-data/product-analytics/-/blob/main/.gitlab/issue_templates/Experiment%20Analysis%20Request.md)
 
 5. Once the experiment has data in staging (before being launched into production) be sure to let the Product Analytics team know so they can check if the data is coming through.
-    You can also use the [Experiment Data Validation](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation?) table to check your data
+    You can also use the [Experiment Data Validation](https://app.periscopedata.com/app/gitlab/860363/Experiment-Data-Validation?) dashboard to check your data.
 
 6. Once the experiment results have been analyzed and a variant has been launched, please inform Engineering so that any experiments that are concluded can be paused to maximize data warehouse storage. 
 
-**For Engineers**
+### For Engineers
 
 1. Work with your Product Managers to list the event names, type of event, and where the data is expected to be collected. Use the event definition table that is below to help format your event definitions.
 
@@ -165,16 +166,17 @@ This guide is used to explain the following steps in the GitLab Experimentation 
 
 3. Let all stakeholders know when the experiment is available on staging or production and at what percent (if rolling out in phases or in certain percentages of the population of users) it’s currently set at.
 
-**For Analysts** 
+### For Analysts
 1. Work with Product Managers and Engineering to identify which events would make the most sense for your analysis.
 
 2. The Product Analytics team can help determine how long data needs to be collected in order for the results to be statistically significant. Here is a list of upfront calculations that will help determine the length of an experiment: 
-    a. Check the estimated traffic or audience based on the criteria provided by your Product Manager 
-    b. Calculate sample size using this [sample size calculator.](https://docs.google.com/spreadsheets/u/1/d/1KP_rDB3e6pJuOJwA59HcAUVpWUuzoPveaJiTH_PSviM/edit#gid=0)
-    c. Check the z-score that is correlated with the experiment type and compute for sample size based on the z-score and baseline conversion 
-    d. Calculate effect size using: *STILL IN PROGRESS*  
+    - Check the estimated traffic or audience based on the criteria provided by your Product Manager 
+    - Calculate sample size using this [sample size calculator.](https://docs.google.com/spreadsheets/u/1/d/1KP_rDB3e6pJuOJwA59HcAUVpWUuzoPveaJiTH_PSviM/edit#gid=0)
+    - Check the z-score that is correlated with the experiment type and compute for sample size based on the z-score and baseline conversion 
+    - Calculate effect size using: *STILL IN PROGRESS*  
 
-3. Create a mock dashboard with staging data. This will help give the Product Managers an idea of what is realistically expected from the analysis before it is rolled out into production and can help tune what. 
+
+3. Create a mock dashboard with staging data. This will help give the Product Managers an idea of what is realistically expected from the analysis before it is rolled out into production and can help tune the metrics that are being used to measure experiment success. 
     - In the dashboard, be sure to include a link to the experimentation ticket as well as a short definition of the events so that it is easily understandable by people unfamiliar with the details of the experiment.
     - Be sure to check which events are flowing in, if they are collecting the right context, and call out any anomalies to the data collection.
     - Examples of past experiment analysis: 
@@ -196,6 +198,7 @@ Here are a few pages to check out:
 * [How Growth launches experiments](/handbook/product/growth/#how-growth-launches-experiments)
 * [Growth Engineering Guide to running experiments](/handbook/engineering/development/growth/#running-experiments)
 * [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
+* [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
 
 <details markdown="1">
   <summary markdown="span">Click to view useful terms</summary>
