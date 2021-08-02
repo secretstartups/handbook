@@ -50,7 +50,7 @@ Want to learn more and follow along this month? Check out and follow the [FY22 S
 ## Recap of Q2
 
 * [FY22-Q2 Mental Health Newsletter](/handbook/people-group/learning-and-development/newsletter/mental-health-newsletter/FY22-Q2/) 
-* John Fitch 
+* [John Fitch - Your Rest Ethic is as Important as your Work Ethic](/company/culture/all-remote/mental-health/#your-rest-ethic-is-as-important-as-your-work-ethic)
 * [CEO Handbook Learning Sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions)
 * [Women at GitLab Mentorship Program](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/)
 
