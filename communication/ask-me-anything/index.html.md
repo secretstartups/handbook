@@ -65,7 +65,7 @@ Before facilitating a session, all facilitators will complete the following step
 **Current Facilitators:** 
 Template: "Name" - "Role", **Self Identified (Optional):** 
 
-- Candace Byrdsog William - Manager, Diversity, Inclusion & Belonging **Self Identified (Optional):** CIS black woman; **Region: NORAM**
+- Candace Byrdsong William - Manager, Diversity, Inclusion & Belonging **Self Identified (Optional):** CIS black woman; **Region: NORAM**
 - Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31; **Region: APAC**
 - Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45; **Region: NORAM**
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
@@ -96,7 +96,7 @@ Other non-Executive AMAs are scheduled by the [People Operations](/handbook/peop
 
 When scheduling an AMA, be mindful of timezones.  Generally it is best to have two AMAs, one for the Americas/EMEA time zone, and one for the APAC time zones.
 
-Once a Reverse AMA is scheduled, a 15 debrief meeting is to be scheduled for immediate after to ensure there is a timely discussion and DRIs are assigned to all actions. 
+Once a Reverse AMA takes place, a 15-30 minutes debrief meeting should be scheduled immediately following to ensure there is a timely discussion and DRIs are assigned to all actions. 
 
 ### Setup
 
