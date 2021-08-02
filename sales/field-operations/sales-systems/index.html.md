@@ -102,7 +102,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 3.  Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4.  You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
 5.  You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirements.
-6.  You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority:Low`, `Priority:Medium`, `Priority:High`
+6.  You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
 
 **Change Managment Steps:**
 1.  Make sure you start on branch master and `git pull`.
