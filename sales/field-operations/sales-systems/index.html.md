@@ -77,7 +77,7 @@ Below is a list of the different technical skill sets found on the Sales System 
    - Update the due date of the issue to the date they will be deleted
    - Confirm that there are no issues with the tagged related teams
    - Validate any change sets with updated automations (if applicable) before the issue due date
-   - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and delting fields from the `Deleted Fields` section in Salesforce
+   - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and deleting fields from the `Deleted Fields` section in Salesforce
 
 #### Process Deprecation 
 * Deprecating a process often includes a change in team behavior as well as updates to any processes. The Systems team is working on detailed documentation to address these changes and more info will be coming soon! 
