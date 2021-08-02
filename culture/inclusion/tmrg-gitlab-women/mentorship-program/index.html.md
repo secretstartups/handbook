@@ -203,7 +203,7 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 
 ##### Mentor Results
 
-![mentor-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
+![mentor-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
 
 *What is something you hope to learn from your mentee during this program?*
 
@@ -236,7 +236,7 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 
 ##### Mentee Results
 
-![mentee-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
+![mentee-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
 
 
 **What is one goal you hope to accomplish by participating in this Women at GitLab mentorship program?**
