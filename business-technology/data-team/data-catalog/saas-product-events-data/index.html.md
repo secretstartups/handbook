@@ -121,14 +121,16 @@ The easiest way to test your changes would be to do it through our CI Pipelines 
 
 Then, you need to run a dbt job as shown in the small video below:
 
-![gif](/handbook/source/handbook/business-technology/data-team/data-catalog/saas-product-events-data/clone-prod-2.gif)
+![gif](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/clone-prod-2.gif)
+
+![quicktime gif](/handbook/product/making-gifs/quicktime.gif)
 
 Run dbtjob `specify_l_model` by clicking on the ⚙️ then add the following variable: 
 
 - key: `DBT_MODELS`
 - value: `prep_event`
 
-![gif](/handbook/source/handbook/business-technology/data-team/data-catalog/saas-product-events-data/run-job-2.gif)
+![gif](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/run-job-2.gif)
 
 
 ### Sources of Product Usage Data
