@@ -211,7 +211,7 @@ F.   **Add Annual Payments** to a order form by:
 * Checking "Annual Payments" checkbox on Quote Detail Page
 * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 * **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
-G.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+G.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 H.  **Order Form Generation**
 *   If no discounts or special terms are requested, click “Generate PDF.”
 *   If the deal contains discounts that require approval, please submit the quote for approval using the button on the quote. The quote must be approved before the PDF can be generated.
@@ -344,7 +344,7 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 * Checking "Annual Payments" checkbox on Quote Detail Page
 * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 * **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU. 
-**C.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+**C.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 
 **D.  Renewal Using a New Subscription Quote**
 
@@ -383,7 +383,7 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 * Checking "Annual Payments" checkbox on Quote Detail Page
 * Updating "Initial Term" to 24, 36, 48, or 60. **If Intital Term is not updated correctly, the quote will not generate the correct Total**"
 * **All Annual Payment quotes** must use the 1 - Year Product SKU. You will see an error message if you select Annual Payments and anything other than the 1 - Year SKU.  
-**F.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
+**F.  SuperSonics: Review the Zuora fields to determine whether any Cloud Licensing features apply to the subscription. For more information on Cloud Licensing, see: [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions) 
 
 **To supplement these steps, review [THIS TRAINING VIDEO](https://youtu.be/kDZJW-ss5j4) to see each step live for an Renewal Quote:**
 
@@ -459,9 +459,9 @@ Salesforce Guided Selling filters have been updated. Legacy SKUs have been remov
 #### SuperSonics Billing and Subscription Management Experience
 
 To learn more about the SuperSonics Billing and Subscription Management experience and how it impacts your quote, review the following:
-- [SuperSonics and Sales Assisted Transactions](/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
-- [How To Opt-Out of SuperSonics Features](/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-supersonics-features) 
-- [How to Temporarily Pause SuperSonics Features](/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-supersonics-features)
+- [SuperSonics and Sales Assisted Transactions](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions)
+- [How To Opt-Out of SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-opt-out-of-supersonics-features) 
+- [How to Temporarily Pause SuperSonics Features](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#how-to-temporarily-pause-supersonics-features)
 
 #### Quoting Professional Services
 
