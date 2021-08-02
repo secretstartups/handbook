@@ -47,22 +47,19 @@ Note: Trademarks aren’t just words.  As mentioned above, trademarks can be sym
 * **Sounds**  NBC trademarked the chimes that you hear during intermissions. Intel has a trademarked sound. 
 * **Shapes** One of the most famous non-word trademarks is the shape of a Coke bottle.  Once you start getting into how something looks, it is called trade dress. Trade dress is a fancy term for trademarked product presentation.
 
-### GitLab's Trademark
-- Any use of GItLab's trademarks should be agreed to via the Authorization to Use GitLab Materials template. 
-- Any modifcations to the Authorization to use GitLab Materials template must be agreed to by GitLab Legal. 
-
-**PROCESS FOR AUTHORIZATION TO USE GITLAB MATERIALS TEMPLATE**
-- The template can be found in GitLab's G-Drive [here](https://drive.google.com/file/d/1-osQ6cK3jARbxfHujlhiFRt-NVMjZrCD/view?usp=sharing) (_Note_ This is only available to GitLab employees);
-- Download the template and send to the requesting entity via DocuSign;
-- Be sure in the DocuSign envelope to ensure the following Details are added at signature:
-    - Company Name
-    - Company Address
-    - Email Address for Notices
-    - Legal Contact
-- The Agreement may be countersigned by following the applicable individual based on the [Signatory Authority Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix)
-
-
 Marketing owns GitLab's [Brand Guidelines](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-standards/).
+
+### Third-party use of GitLab trademarks on marketing materials
+- An Authorization to use GitLab Materials must be signed by any third party wanting to include GitLab's name or logo on their website or other marketing materials.
+- Follow these steps to get the Authorization signed:
+   1. Locate and download the template in GitLab's G-Drive [here](https://drive.google.com/file/d/1-osQ6cK3jARbxfHujlhiFRt-NVMjZrCD/view?usp=sharing) (_Note_ this is only available to GitLab employees).
+   1. Send the template to the third party via DocuSign, ensuring that the DocuSign envelope you create requests the following details, which will appear in the signature block of the Authorization:
+       - Company Name
+       - Company Address
+       - Email Address for Notices
+       - Legal Contact
+   1. [Contact GitLab Legal](https://about.gitlab.com/handbook/legal/#how-to-reach-us) to obtain approval for any **modifcations** the third party requests to the Authorization.
+   1. Assign the Authorization for countersignature via DocuSign to an appropriate GitLab team member identified in the [Signature Authorization Matrix](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix).
 
 ### Using Third-party Trademarks
 Any use of third-party trademarks should be covered by a Trademark Use Agreement. Various Marketing teams manage these agreements, requesting help from Legal team contract managers only when terms need to be negotiated. If you would like to use a 3rd party logo, please work with the appropriate Marketing team to ensure there is a trademark use agreement in place or to request such an agreement. 
