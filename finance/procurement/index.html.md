@@ -191,7 +191,7 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 
 * [Uploading Third Party Contracts to ContractWorks](/handbook/legal/vendor-contract-filing-process/)
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
-* [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-guidelines/#trademark) - information regarding the usage of GitLab's trademark
+* [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
 
 {::options parse_block_html="false" /}
