@@ -608,6 +608,12 @@ Microaggressions are much more than merely rude or insensitive comments. They ca
 
 At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
 
+##### Seek diverse perspectives
+{:.no_toc}
+We believe that encouraging feedback from a diverse group of team members leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity please refer to [GitLab's definition of Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). You are encouraged to seek input from other GitLab team members inside and outside of your group or function. Collaborating with and getting feedback from a more heterogenous audience can lead to richer discussions including diverse perspectives, uncovering unconscious bias and strengthening belonging. 
+
+An example of this sub-value in action showcases the value of actively seeking diverse perspectives.  The term "Brag Document" was used to describe when individuals documented their accomplishments.  Documenting accomplishments is critical to team member development.  However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable.  In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
+
 ##### Make family feel welcome
 {:.no_toc}
 One of the unique elements to an [all-remote culture](/company/culture/all-remote/) is the ability to visit a person's home while collaborating. If the tenor of the meeting allows, feel welcome to invite your family members or pets to drop by and greet your colleagues. Be mindful of language and use of profanity to encourage a family-friendly environment.
