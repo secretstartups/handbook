@@ -838,9 +838,11 @@ Note: An "Actively Engaged User" represents someone who has both signed in and p
 
 **Report 3: % of Team Members enrolled (but not completed) in 1 course**
 
-There is **not** a current report in EdGraph that can show this data. The following report needs to be created and is a current L&D project.
+This report currently **cannot be generated via the EdGraph reporting tool**.
 
-Report requirements:
+The limitation casued by reporting in EdGraph is due to the fact that the `Overall Assignment Progression` report shows not started/started/completed data for **assigned content only**. While this metric would provide insight into completion of compliance courses, it will not provide information about how many team members are self-selecting courses based on their career development goals and interests. Based on these limitations, the L&D team will leave this metric unreported until we can find a solution within EdGraph.
+
+Ideal report requirements:
 
 1. `GitLab Internal` = `t` or use of the Internal Team Members group
 1. Sort by `Content Stucture` to show only `Journeys` and `Pathways`
