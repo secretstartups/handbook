@@ -25,7 +25,7 @@ Sales Operations main focus is on the Sales organization and supports this group
   <a href="/handbook/sales/territories/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Territories</a>
   <a href="/handbook/sales/field-operations/sales-operations/#sales-operations-go-to-market" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Go To Market</a>
   <a href="/handbook/sales/qbrs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Quarterly Business Reviews</a>
-  <a href="/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
+  <a href="/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Rules of Engagement</a>
     </div>
 
 ## **Meet the Team**
@@ -102,8 +102,8 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
 1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
-1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
-1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
+1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
 1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
 1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
@@ -408,17 +408,17 @@ Click the “Related Chatter Object” link to view the original request.
 
 1.  Request to own an Account currently owned by the Sales Admin user:
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
-   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
+   - Follow the [ROE](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives) to assign the account to the correct owner.
    - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to own an Account currently owned by a Sales or Marketing Operations team member:
    - NOTE: Most of the time these accounts came from a list load and need extra care in data validation.
    - Check for duplicates, accurate segment and territory data, accurate reflection of hierarchy.
-   - Follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) to assign the account to the correct owner.
+   - Follow the [ROE](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives) to assign the account to the correct owner.
    - If territory or segment needs to be updated, follow the [Account Review Time Frame and Fields ](https://docs.google.com/spreadsheets/d/1jVz-SzYvBZ6odBW7UoHd4E4b_EUIJgZu7nNY_1StYJs/edit?ts=5f775d4e#gid=0)doc.
 1.  Request to reassign an account owned by the Impartner Integration user:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to reassign an account owned by the Vartopia Integration user:
-   -  These customer accounts are OK to move and should follow the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) .
+   -  These customer accounts are OK to move and should follow the [ROE](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives) .
 1.  Request to move a Channel / Partner account from or to a Sales Rep or Channel Manager:
    -  Chatter the Channel Manager to assist and validate the move.
 1.  Request to move an account to a Public Sector SAL. 
@@ -626,7 +626,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 ### **Ownership & Order Type Rules of Engagement**
 
-- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement)
+- [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
 - [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement)
 - [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-ownership-in-salesforce)
 - [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-order-type-rules-of-engagement)
