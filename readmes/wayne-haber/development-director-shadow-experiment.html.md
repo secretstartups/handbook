@@ -11,7 +11,7 @@ title: "Development Director Shadow Experiment"
 
 ### What is the Development Director Shadow Experiment?
 
-I got massive value out of participating in our [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/) when [I did it in July of 2020](https://about.gitlab.com/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
+I got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [I did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
 Since then, I have been thinking of doing something similar but smaller in scale.  In July of 2021, I asked my teams if they would be interested in remotely shadowing me and several team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
 
@@ -34,7 +34,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * The shadow will participate remotely.
 * You can be a shadow for as little as two days or as much as five days in six months.  The shadowing does not need to be on sequential days.
 * Join all meetings on my calendar on your shadow days that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
-* If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to
+* If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to.
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
 * You are encouraged to take notes on what is being said in meeting documents that you have edit rights to (which will be most of them).  The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
 * You may be asked to drop from a meeting when something confidential needs to be shown or discussed
@@ -43,7 +43,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * Shadows can choose to be aware of the current time and providing timekeeping in meetings. This is for meeting participants to comfortably wrap up the meeting.
 * If you notice Wayne interrupting speakers, speaking too quickly, or not pausing often enough, please let him know.  These are things he is working on improving.
 * Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are a small number of attendees and/or the meeting is not public inside GitLab).  Tell participants who you are, what your normal job is, and that you are a shadow in this meeting. 
-* Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](https://whaber-master-patch-09926.about.gitlab-review.app/handbook/values/). 
+* Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](/handbook/values/). 
 
 ## Process for non-shadow meeting attendees
 
@@ -67,8 +67,8 @@ It is not a performance evaluation or a step for a future promotion.
 1. Don't plan to do your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
 1. Participating in the shadow program is a privilege where you may be exposed to confidential information. This is underpinned by trust in the shadows to honor the confidentiality of topics being discussed and information shared. The continuation of this program is entirely dependent on shadows past, present, and future honoring this trust placed in them.
 1. Review my calendar (link TBD)
-1. Review my [readme](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/) 
-1. Re-read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](https://whaber-master-patch-09926.about.gitlab-review.app/handbook/values/#credit) is lived out during the meetings you attend.
+1. Review my [readme](/handbook/engineering/readmes/wayne-haber/) 
+1. Re-read GitLab's values prior to your shadow rotation, and be mindful of new and inventive ways that [CREDIT](/handbook/values/#credit) is lived out during the meetings you attend.
 
 ## What to do after you participate
 
