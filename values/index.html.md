@@ -1221,6 +1221,7 @@ To reinforce that GitLab's values are a living document, we [capture contributio
 
 Whatever behavior you reward will become your values. We reinforce our values by:
 
+1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
@@ -1231,7 +1232,6 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
 1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
-1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
@@ -1241,6 +1241,7 @@ Whatever behavior you reward will become your values. We reinforce our values by
 1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
 1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
 1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
+1. Providing current and future directors and senior leaders at GitLab an overview of all aspects of the company through the [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/#goal)
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
