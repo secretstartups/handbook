@@ -39,7 +39,7 @@ An issue is considered completely triaged when:
 
 ## Priority
 
-The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, and capacity of the team.
+The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, number of impacted users and capacity of the team.
 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
