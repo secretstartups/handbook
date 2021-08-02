@@ -109,6 +109,9 @@ The Staff UX Researcher reports to the Director of User Experience Research.
 
 The Staff UX Researcher is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification for Staff Level:** 
+At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
+
 #### Staff Responsibilities
 * Through your research, build a knowledge base that positions yourself as a thought leader within GitLab.
 
@@ -151,6 +154,9 @@ The Principal UX Researcher reports to the Director of User Experience Research.
 #### Principal Job Grade
 
 The Principal UX Researcher is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification for Principal Level:** 
+At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
 
 #### Principal Responsibilities
 - Through your research, build a knowledge base that positions yourself as a thought leader and subject matter expert within GitLab.
