@@ -34,7 +34,7 @@ It is GitLab's mission to change all creative work from read-only to
 read-write so that **everyone can contribute**.
 
 When **everyone can contribute**, users become contributors and we greatly
-increase the rate of iteration, collaboration, efficiency and results.
+increase the rate of innovation.
 
 ## Big Hairy Audacious Goal
 
