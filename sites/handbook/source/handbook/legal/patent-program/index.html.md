@@ -16,6 +16,21 @@ description: "Learn about GitLab's Patent Program"
 
 Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
 
+## Why patents?
+
+Seeking patent protection for inventions offers several benefits. For individual team members, appearing as a named inventor on a published patent is a significant achievement and something that provides tangible evidence of team members’ creative contributions to GitLab and emphasizes GitLab’s [focus on results](https://about.gitlab.com/handbook/values/#results).
+
+For GitLab, building a portfolio of patents helps increase our profile as innovators in the DevOps space. Moreover, patents are valuable assets, and an investment in building a patent portfolio can increase value for shareholders. In some regions, obtaining patent protection for inventions renders the related research and development costs tax deductible.
+
+Patents can also be used as a defensive tool in the event the owner of another patent seeks to assert their patent rights against GitLab.
+
+## Patent Awards
+
+As a recognition of the efforts of team members who develop inventions for GitLab, named inventors who contribute patentable inventions under the Patent Program may be eligible for Patent Awards totalling $1,750 U.S. dollars, as follows:
+- Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, paid at the time of acceptance.
+- Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, paid at the time of filing.
+- Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, paid at the time of patent issue.
+
 
 ## How to participate
 
