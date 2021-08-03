@@ -73,11 +73,11 @@ This only applies to local development methods, none of this config is valid for
 2. Run `jupyter-lab --generate-config` 
 3. This writes a file to /Users/{user}/.jupyter/jupyter_lab_config.py
 4. Browse to the file location and open it in an Editor
-5. Search for the following line in the file: #c.NotebookApp.notebook_dir = ''
-6. Replace by c.NotebookApp.notebook_dir = '/the/path/to/other/folder/'
+5. Search for the following line in the file: #c.ServerApp.root_dir = ''
+6. Replace by c.ServerApp.root_dir = '/the/path/to/other/folder/'. If unsure, set the value to your repo directory (i.e. c.ServerApp.root_dir = '/Users/yourusername/repos')
 7. Make sure you use forward slashes in your path and use /home/user/ instead of ~/ for your home directory, backslashes could be used if placed in double quotes even if folder name contains spaces as such : `\yourUserName\Any Folder\More Folders\`
 8. Remove the # at the beginning of the line to allow the line to execute
-9. Rerun `make jupyter-local` from the root directory of this repository and your directory should now be mounted. 
+9. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
 #### Interesting libraries included
 
