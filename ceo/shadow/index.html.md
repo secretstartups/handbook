@@ -21,9 +21,9 @@ Unless you're joining the program during one of our [remote rotations](#remote-s
 
 ### Goal
 
-The goal of the CEO Shadow Program is to give current and future [directors and senior leaders](/company/team/structure/) at GitLab an overview of all aspects of the [company](/company/).
-This should enable leadership to better perform [global optimizations](/handbook/values/#global-optimization).
-You'll gain this context through the [meetings you attend](#meetings--events) and while [completing](/handbook/values/#bias-for-action) short-term [tasks](#tasks) from across the company.
+The goal of the CEO Shadow Program is to give team members and [eligible individuals](/handbook/ceo/shadow/#eligibility) an overview of all aspects of the [company](/company/). This transparency enables CEO Shadow participants to better engage and collaborate cross-functionally, as well as better perform [global optimizations](/handbook/values/#global-optimization).
+
+As a CEO Shadow, you'll gain this context through the [meetings you attend](#meetings--events) and while [completing](/handbook/values/#bias-for-action) short-term [tasks](#tasks) from across the company.
 The program also creates opportunities for the CEO to build relationships with team members across the company and to identify challenges and opportunities earlier.
 The shadows will also often connect with one another, developing new cross-functional relationships.
 
