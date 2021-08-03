@@ -62,8 +62,7 @@ Past Live Learning sessions can be found on our [Learning & Development Page](ht
    * September - 
    * October - 
 * Crucial Conversations - October 
-   * If you are interested, [sign up here](). 
-* abc 
+   * If you are interested, [sign up here](https://docs.google.com/forms/d/e/1FAIpQLScFLrxgWNjS8Vc3QeNgZ7DKvU8HIRxZ8FQdb0TB12VxJ2HCVQ/viewform). 
 
 
 ## Career Develpment 
