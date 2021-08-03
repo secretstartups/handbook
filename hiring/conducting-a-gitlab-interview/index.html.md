@@ -42,7 +42,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
     * When reading through the candidate's application materials please remember that writing a good resume or cover letter is an art, and not many people master it. When you read through these materials, look for evolution rather than buzzwords, and, if something sparks your curiosity, prepare to ask about it during the interview.
 1. Make sure you're up to date on our latest headcount, notable awards, messaging, and other facts about working at GitLab. Take a look at these [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) to help guide your conversation with candidates.
 
-#### Confidentiality 
+#### Confidentiality
 
 Please note the importance of confidentiality in the interview process for both internal and external interview processes. Candidates should not be discussed outside of the hiring manager management chain and direct interview team. It is important to respect the privacy of all candidates who apply for positions at GitLab, whether they are internal or external.
 
@@ -183,4 +183,4 @@ Scoring is defined as follows:
   ### Frequently Asked Questions (FAQ)
 
 * My Zoom link isn't working, who can help?
-  * This is common occurance due to a Zoom configuration issue. You can share a new Zooom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occuring in the future. 
+  * This is common occurance due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occuring in the future.
