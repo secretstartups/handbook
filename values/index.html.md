@@ -1221,7 +1221,7 @@ To reinforce that GitLab's values are a living document, we [capture contributio
 
 Whatever behavior you reward will become your values. We reinforce our values by:
 
-1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/).
+1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/) and communicate to the whole company on announcement.
 1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
