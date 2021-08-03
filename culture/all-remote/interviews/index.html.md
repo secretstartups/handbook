@@ -76,14 +76,7 @@ Remote interviews are similar to in-person interviews in many ways: You're still
 
 ## General remote-work questions
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IFBj9KQSQXA" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-
-GitLab seeks to learn from others who are embracing remote work. This list of questions is directed at other peers working within a remote organization. Some are aimed at executives and hiring managers. In the video above, found on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), Sid asks the below questions to InVision Chief People Office Mark Frein.
+GitLab seeks to learn from others who are embracing remote work. This list of questions is directed at other peers working within a remote organization. Some are aimed at executives and hiring managers. In [this video](https://youtu.be/IFBj9KQSQXA) on the [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A), Sid asks the below questions to InVision Chief People Office Mark Frein.
 
 We are working on a submission process for remote companies who want to engage in interviews with GitLab to share their perspective on these questions and more — stay tuned! 
 
