@@ -166,7 +166,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
   - _Referral_: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
   - _DR - Status_: Dictates whether the Partner Sourced Deal Registration is approved or denied.
  
-![1 - PSDR Definitions](/handbook/sales/field-operations/channel-operations/1 - PSDR Definitions.png)
+![1-PSDR_Definitions](/handbook/sales/field-operations/channel-operations/1-PSDR_Definitions.png)
 
  
 ### Section II: Primary Partner Quote Data (Closed-Won Order Data)*
@@ -179,7 +179,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
   - _Referral_: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
 ***Stamped from primary quote when approved. Fields are locked.***
  
-![2 - Primary Quote Definitions](/handbook/sales/field-operations/channel-operations/2 - Primary Quote Definitions.png)
+![2-Primary_Quote_Definitions](/handbook/sales/field-operations/channel-operations/2-Primary_Quote_Definitions.png)
  
 ### Section III: Partner Contribution Data
 - **Influence Partner**: Other partners, generally SI/GSIs or alliance partners, that have helped influence a deal but are not part of the actual transaction
@@ -187,7 +187,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 - **Platform Partner**:  Customer's platform that GitLab is being deployed.
 - **GCP Requests**
  
-![3 - Partner Contribution Definitions](/handbook/sales/field-operations/channel-operations/images/3 - Partner Contribution Definitions.png)
+![3-Partner_Contribution_Definitions](/handbook/sales/field-operations/channel-operations/images/3-Partner_Contribution_Definitions.png)
  
 ### Services Resale
 - Partners can earn a program discount for reselling GitLab Professional Services
@@ -215,7 +215,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
  
  
 ## Channel Reporting and Tagging
-![4 - Ch Reporting Tagging](/handbook/sales/field-operations/channel-operations/images/4 - Ch Reporting Tagging.png)
+![4-Ch_Reporting_Tagging](/handbook/sales/field-operations/channel-operations/images/4-Ch_Reporting_Tagging.png)
  
 ### Definitions
 1. **Deal Path**: How the deal is transacted. Values can be Channel, Direct, or Web. Includes Referral Ops for Channel.
@@ -295,7 +295,7 @@ Once a Channel Manager is assigned a Partner Sourced Deal Registration, they rec
 - Only one partner can earn a Partner Sourced Deal Registration discount per opportunity. Partners, other than the partner granted the deal registration discount, will receive the Partner Co-Sell discount rate. Deal registration approval is based upon order of receipt of the registration, qualification of the opportunity, partner ability to deliver in-country/region support, and partner relationship with the customer. Final deal registration approval decision will be made by GitLab Channel after discussion with GitLab Sales.
 - Approved deal registrations have a standard 90-day expiration from the date of original approval. (Deal Registration extensions beyond the initial 90 days approval are at the sole discretion of GitLab). To grant a standard 30-day extension, click the “Extend DR 30 Days” button. For non-standard extensions beyond 30 days, please slack #channel-programs-ops and include the link to the registration record in SFDC.
  
-![5 - Extend DR](/handbook/sales/field-operations/channel-operations/images/5 - Extend DR.png)
+![5-Extend_DR](/handbook/sales/field-operations/channel-operations/images/5-Extend_DR.png)
  
 - GitLab collaborates with partners holding the approved deal registration and is available to support partners throughout the entire sales process.
 - In the event the engagement is dissolved, the GitLab Sales Rep will generally notify the partner by phone or email. GitLab will reconsider other qualified deal registrations submitted for this deal, in chronological order of submission. If there are no other registration requests submitted, the GitLab sales rep will typically initiate engagement with a reseller of the GitLab sales rep’s choosing. 
@@ -320,16 +320,16 @@ To process a Partner Sourced Deal Registration for a resale opportunity, follow 
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
 2. Check to make sure that the Partner Sourced Deal Registration type says resale.
 3. Click “Link/Create Opportunity.”
-   ![9 - Link Create Opp](/handbook/sales/field-operations/channel-operations/images/9 - Link Create Opp.png)
+   ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
 
 4. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
   - **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record.
-   ![6 - Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6 - Link_Opportunity_Select.png)
+   ![6-Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6-Link_Opportunity_Select.png)
   - **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.  
 5. Click Approve/Deny/Return Registration.
-   ![7 - Approve Deny Return](/handbook/sales/field-operations/channel-operations/images/7 - Approve Deny Return.png)
+   ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
-   ![8 - Approve Deny Details](/handbook/sales/field-operations/channel-operations/images/8 - Approve Deny Details.png)
+   ![8-Approve_Deny_Details.png](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
    - Both the registration record and the opportunity record will be updated with the approval information.
 7. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
@@ -346,15 +346,15 @@ To process a Partner Sourced Deal Registration for an MSP opportunity, follow th
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
 2. Check to make sure that the Partner Sourced Deal Registration type says MSP.
 3. Click “Link/Create Opportunity.”
-   ![9 - Link Create Opp](/handbook/sales/field-operations/channel-operations/images/9 - Link Create Opp.png)
+   ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
 4. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
    - **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record.
-   ![6 - Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6 - Link_Opportunity_Select.png)
+   ![6-Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6-Link_Opportunity_Select.png)
    - **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
 5. Click Approve/Deny/Return Registration.
-   ![7 - Approve Deny Return](/handbook/sales/field-operations/channel-operations/images/7 - Approve Deny Return.png)
+   ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
-   ![8 - Approve Deny Details](/handbook/sales/field-operations/channel-operations/images/8 - Approve Deny Details.png)
+   ![8-Approve_Deny_Details.png](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
    - Both the registration record and the opportunity record will be updated with the approval information.
 6. Manually change the `Account Name`field to the partner name. This should **not** be the name of the customer.
@@ -374,15 +374,15 @@ To process a Partner Sourced Deal Registration for a referral opportunity, follo
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
 2. Check to make sure that the Partner Sourced Deal Registration type says referral.
 3. Click “Link/Create Opportunity.”
-   ![9 - Link Create Opp](/handbook/sales/field-operations/channel-operations/images/9 - Link Create Opp.png)
+   ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
 4. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
    - **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record.
-   ![6 - Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6 - Link_Opportunity_Select.png)
+   ![6-Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6-Link_Opportunity_Select.png)
    - **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
 5. Click Approve/Deny/Return Registration.
-   ![7 - Approve Deny Return](/handbook/sales/field-operations/channel-operations/images/7 - Approve Deny Return.png)
+   ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
-   ![8 - Approve Deny Details](/handbook/sales/field-operations/channel-operations/images/8 - Approve Deny Details.png)
+   ![8-Approve_Deny_Details](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
 7. Both the registration record and the opportunity record will be updated with the approval information.
 8. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
@@ -400,23 +400,23 @@ When a Channel Manager either receives an email alert, or sees a new registratio
 1. Click the link in either the email or the [Deal Registration Report](https://gitlab.my.salesforce.com/00O4M000004aUal) to open the registration object in Salesforce.
 2. Check to make sure that the Partner Sourced Deal Registration type says resale.
 3. Click “Link/Create Opportunity.”
-   ![9 - Link Create Opp](/handbook/sales/field-operations/channel-operations/images/9 - Link Create Opp.png)
+   ![9-Link_Create_Opp](/handbook/sales/field-operations/channel-operations/images/9-Link_Create_Opp.png)
 4. On the Link/Create Opportunity page, first search for the opportunity in the provided list and/or by doing a “Global Search.”
    - **If the opportunity exists**, click “Select” next to the opportunity name. You will then be brought back to the deal registration record.
-   ![6 - Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6 - Link_Opportunity_Select.png)
+   ![6-Link_Opportunity_Select](/handbook/sales/field-operations/channel-operations/images/6-Link_Opportunity_Select.png)
    - **If there is no matching opportunity**, click “Create New,” and then choose “Standard” in the Opportunity Type. The system will then populate all the necessary fields, including the DR-mapped fields. Click “Save” and you will be brought back to the registration record.
    - **A Service Attach Deal Registration MUST attach to a license sale opportunity.** There will almost always be an opportunity in the system, and it is best practice for a Channel Manager to process the Partner Sourced Deal Registration first, if there is one, before processing the Service Attach Deal Registration.
    - **The opportunity must be either new or no older than 6 months old to qualify for the incentive.** If the appropriate opportunity is older than 6 months old, the Channel Manager should deny the registration and work with the partner to see if there is an upcoming licensing opportunity that would make sense for the services.
 5. Click Approve/Deny/Return Registration.
-   ![7 - Approve Deny Return](/handbook/sales/field-operations/channel-operations/images/7 - Approve Deny Return.png)
+   ![7-Approve_Deny_Return](/handbook/sales/field-operations/channel-operations/images/7-Approve_Deny_Return.png)
 6. On the next page, choose approve, and if you have a message for the partner about the deal, you can add that into the “comments” section. This is not required, but anything included in this field will be sent back to the partner.
-   ![8 - Approve Deny Details](/handbook/sales/field-operations/channel-operations/images/8 - Approve Deny Details.png)
+   ![8-Approve_Deny_Details](/handbook/sales/field-operations/channel-operations/images/8-Approve_Deny_Details.png)
    - If a distributor is involved, choose the distributor in the field that appears. If no distributor is involved, this field can be left blank.
 7. Both the registration record and the opportunity record will be updated with the approval information.
    - A Service Attach registration will **not** populate the Partner Sourced Deal Registration section of an opportunity. To find the Service Attach Deal Registration, click the related list link at the top of the opportunity. This will bring you to a list of any registration attached to the opportunity, including the Service Attach Deal Registration.
-   ![10 - Reg Related Lists](/handbook/sales/field-operations/channel-operations/images/10 - Reg Related Lists.png)  
+   ![10-Reg_Related_Lists](/handbook/sales/field-operations/channel-operations/images/10-Reg_Related_Lists.png)  
    - Alternatively, you can scroll to the “Registrations” section toward the bottom of the opportunity.
-   ![11 - Reg for Svc Att](/handbook/sales/field-operations/channel-operations/images/11 - Reg for Svc Att.png)  
+   ![11-Reg_for_Svc_Att](/handbook/sales/field-operations/channel-operations/images/11-Reg_for_Svc_Att.png)  
 8. If you have created a new opportunity during this process, chatter @sales-support and request that the opportunity owner be updated to the name of the sales team member who owns the customer account.
  
 Rebate payouts will be reported and paid after each GitLab quarter close.
@@ -505,9 +505,9 @@ When sharing a Channel Price File with a partner (either a distributor or resell
  
 Within the Price List Folder, there are other folders. For the current active price file, always use the one with the most recent date that has not passed yet. The folder name will also say "ACTIVE" at the front of it.
  
-![12 - Price File Folders](/handbook/sales/field-operations/channel-operations/images/12 - Price File Folders.png)
+![12-Price_File_Folders](/handbook/sales/field-operations/channel-operations/images/12-Price_File_Folders.png)
  
-![13 - Price File List](/handbook/sales/field-operations/channel-operations/images/13 - Price File List.png)
+![13-Price_File_List](/handbook/sales/field-operations/channel-operations/images/13-Price_File_List.png)
  
 If there are any questions, please reach out to the **#channel-programs-ops** Slack channel.
  
