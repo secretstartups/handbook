@@ -199,7 +199,7 @@ Below is the list of table which has data and which will be created in snowflake
 
 ### Zuora Revenue Extract 
 <details>
-    <summary markdown="span">Below is the information around the extraction of Zuora Revenue extraction pipeline, click here to expand</summary>
+  <summary markdown="span">Below is the information around the extraction of Zuora Revenue extraction pipeline, click here to expand</summary>
 
 ### Setup the environment in Compute engine 
 Do SSH to the zuora compute engine using your service account.
