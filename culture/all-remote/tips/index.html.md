@@ -223,7 +223,7 @@ It's sometimes hard to remember to stay active when you work from home. Here are
     - [PostureMinder](http://www.postureminder.co.uk/) (Windows)
     - [Time Out](https://itunes.apple.com/us/app/time-out-break-reminders/id402592703?mt=12 )(macOS)
     - [Awareness](http://iamfutureproof.com/tools/awareness/) (macOS)
-    - [SafeEyes](http://slgobinath.github.io/SafeEyes/) (GNU/Linux)
+    - [SafeEyes](https://slgobinath.github.io/SafeEyes/) (GNU/Linux)
 - Move every day
     - Go for a walk or do a short excersise for at least 15 minutes a day.
     - Do something active that can be done within a short amount of time like rope jumping, lifting kettlebells, push-ups or sit-ups. It might also help to split the activity into multiple shorter sessions. You can use an app that helps you with the workout, e.g., [7 minute workout](https://7minuteworkout.jnj.com/).
