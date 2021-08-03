@@ -15,25 +15,30 @@ get merged into GitLab.
 
 ## Find a Merge Request Buddy
 
-Visit the [GitLab Team page](/company/team/) and search for 'Merge Request buddy', or ask on Slack in `#mr-buddies`.
+Visit the [GitLab Team page](/company/team/) and search for 'Merge Request Buddy', or ask on Slack in `#mr-buddies`.
 
 ## Become a Merge Request Buddy
 
-If you're comfortable using Git and GitLab and want to help team members troubleshoot problems and accelerate their learning, please follow these steps to indicate your availability as a `Merge Request Buddy`: 
+If you're comfortable using Git and GitLab and want to help team members troubleshoot problems and accelerate their learning, please follow these steps to indicate your availability as a `Merge Request Buddy`:
 
 1. Find your entry in the [team.yml](/handbook/git-page-update/#11-add-yourself-to-the-team-page) file.
-1. Add `Merge Request buddy` to the `departments` section in your entry (keeping your existing departments):
+1. Add `Merge Request Buddy` to the `departments` section in your entry (keeping your existing departments):
+
    ```
    departments:
      - ...
-     - Merge Request buddy
+     - Merge Request Buddy
    ```
+
 1. Add the following code above the `story` section in your entry:
+
    ```
-     expertise:  |
-                 <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge Request buddy</a></li>
+   expertise:  |
+      <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge Request Buddy</a></li>
    ```
+
 1. If you already have an `expertise` section, add the list item portion of the above code:
+
    ```
-                 <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge Request buddy</a></li>
+   <li><a href="/handbook/people-group/general-onboarding/mr-buddies/">Merge Request Buddy</a></li>
    ```
