@@ -337,6 +337,7 @@ end
   click eng:uxr "/job-families/engineering/ux-researcher/";
   click eng:suxr "/job-families/engineering/ux-researcher/";
   click eng:stuxr "/job-families/engineering/ux-researcher/";
+  click eng:puxr "/job-families/engineering/ux-researcher/";
   click eng:muxr "/job-families/engineering/ux-research-manager/";
   click eng:smuxr "/job-families/engineering/ux-research-manager/";
   click eng:duxr "/job-families/engineering/ux-research-manager/";
