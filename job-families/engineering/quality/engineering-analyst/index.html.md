@@ -57,7 +57,7 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 * Develop analytical models to provide data-driven guidance on business decisions.
 * Develop utilization/forecasting models to predict future outcome of business or financial objective.
 * Create visualizations that conveys Engineering metrics that are concise and easy to comprehend.
-* Create SQL/Sisense code that meets our guidelines for style, maintainability, and best practices.
+* Create SQL/Sisense code that meets our guidelines and coding standards.
 * Explain trends from data sources in assigned Engineering area and identify opportunities improvements.
 * Interface with various departments to provide timely, accurate and relevant data to Engineering Leaders.
 * Understand business processes and policies of assigned Engineering area. Make improvements and suggestions in the assigned area.
@@ -73,15 +73,18 @@ The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensati
 The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst) role.
 
 * Deliver data analytics and visualization with minimal guidance and support.
-* Regular contribute to our SQL/Sisense guidelines and standards, make recommendations that improve our best practices and efficiency.
+* Regular contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
+* Improve our handbook performance indicator pages content and guidelines.
 * Advocate for improvements to data quality, security, and query performance.
 * Deep understanding of how data is created and transformed into Sisense visualization at GitLab.
 * Understand data trends across data sources across Engineering.
 * Understand business processes and policies to improve Engineering processes and workflow. 
-* Proactively document Engineering Division's data-lifecycle  our metrics framework in the handbook.
+* Contribute to data quality improvement needs; review, optimize, and refactor data models for efficiency.
+* Proactively document Engineering Division's data-lifecycle our metrics framework in the handbook.
 * An expert in data domain of assigned Engineering Department.
 * Occasionally represent Engineering Analytics in broad company communication and announcements.
 * Occasionally contribute to the company's strategic Data direction in collaboration with the Data team. 
+* Exert influence on the overall objectives and long-range goals of the Engineering Analytics team.
 
 ### Staff Engineering Analyst
 
@@ -89,32 +92,37 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 
 The Senior Engineering Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-
 #### Responsibilities
 
 The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staff-engineering-analyst) role.
 
-* Coach and mentor other team members in delivering data analytics and visualization.
-* Enforce and improve our SQL/Sisense guidelines and standards, review and make strategic improvements to achieve organizational objective.
-* Advocate and deliver improvements to data quality, security, and query performance.
+* Coach and mentor other team members so they can confidently delivering data analytics and visualization with minimal guidance.
+* Enforce and improve our SQL/Sisense guidelines and coding standards, review and make strategic improvements to achieve organizational objective.
+* Seek and deliver improvements to data quality, security, model refactoring and query performance.
+* Drive our handbook performance indicator pages' efficiency, guidelines and maintenance efforts. 
 * Deep understanding of how data flows in GitLab and identify new data sources needed to unblock business objective.
 * Understand data trends across data sources inside Engineering Division and throughout the company.
-* Assist the data team in expanding our datawarehouse with clean data (ready for analysis) by implementing 
-* Lead data quality improvement initiative; review, optimize, and refactor data models for efficiency.
+* Assist the Data team in expanding our data warehouse with clean data (ready for analysis) by implementing 
 * Enforce and champion handbook-first documentation, ensure broad organizational awareness of Engineering Division's data-lifecycle and metrics framework.
 * An expert in data domains of two or more Engineering Departments.
 * Frequently represent Engineering Analytics in broad company communication and announcements.
 * An expert in GitLab's Analytics space, contribute to the company's strategic Data direction in collaboration with the Data team. 
+* Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.
+* Create training guides, blog posts, templates, and recorded training sessions to help Infrastructure Department staff understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
+* Exert significant influence on the overall Engineering Analytics team objectives and long-range goals of GitLab.
 
 ## Specialties
 
 ### Development
+* Merge Request Rate (known as Throughput outside of GitLab)
+* Review Efficiency
 
 ### Infrastructure
 * Deep understanding of Infrastructure resource utilization, finance & forecast models.
 * Deep understanding of the infrastructure vendor landscape and their cost models.
   * Compute queries
   * Data storage
+  * Capacity planning
 * Business & finance intuition, interface and guide non-engineering partners on cost & contract management:
   * Assist Legal in navigating vendor contracts.
   * Assist Finance with contract management, provide clarity in decisions via modeling on present and future cost visibility.
@@ -123,6 +131,9 @@ The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staf
 * Support Infrastructure with cost efficiency in service of GitLab.com and the rest of the company.
 
 ### Quality
+* Merge Request Rate (known as Throughput outside of GitLab)
+* Review Efficiency
+* Community Contributions
 
 ### UX
 
@@ -131,66 +142,10 @@ The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staf
 ### Support 
 
 ## Performance Indicators 
-- Engineering Performance Indicator MR Rate 
-
-
-## Levels
-
-Read more about [levels at GitLab](/handbook/hiring/vacancies/#definitions).
-
-### Infrastructure Analyst
-The Intermediate Infrastructure Analyst role has the requirements and responsibility as outlined above.
-
-#### Job Grade
-
-The Infrastructure Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-### Senior Infrastructure Analyst
-All of the responsibilities of a Intermediate Infrastructure Analyst, plus:
-* Advocate for improvements to data quality, security, and query performance that have particular impact across your team as a Subject Matter Expert (SME)
-* Solve technical problems of high scope and complexity
-* Exert influence on the overall objectives and long-range goals of your team
-* Understand the code base extremely well in order to lead new data innovation and to spot inconsistencies and edge cases
-* 
-* Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment; Maintain and advocate for these standards through code review
-* Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions
-* Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities and remove blockers to their autonomy
-* Confidently deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
-* Build close relationships with other functional teams to truly democratize data understanding and access
-* Influence and implement our service level framework [SLOs](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source) and SLAs for our data sources and data services
-* Identifies changes for the product architecture and from third-party services from the reliability, performance and availability perspective with a data driven approach focused on relational databases, knowledge of another data storages is a plus
-* Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make compute queries cheaper
-
-#### Job Grade
-
-The Senior Infrastructure Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-***
-
-### Staff Infrastructure Analyst
-The Staff Infrastructure Analyst role extends the [Senior Infrastructure Analyst](#senior-infrastructure-analyst) role.
-
-#### Job Grade
-
-The Infrastructure Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
-
-#### Responsibilities
-
-* Drive innovation across GitLab with a willingness to experiment and to boldly confront problems of immense complexity and scope
-* Actively seeks out difficult impediments to our efficiency as a team ("technical debt"), propose and implement solutions that will enable the entire team to iterate faster
-* Exert significant influence on the overall objectives and long-range goals of GitLab, and in particular, of the Infrastructure Department.
-* Reviews and analyzes query performances to add new best practices to our data analysis coding standards
-* Ensure that our standards for style, maintainability, and best practices are suitable for the unique problems of scale and diversity of use. Maintain and advocate for these standards through code review
-* Confidently researches new data analytics methodologies with minimal guidance and support from other team members. Collaborate with the team on larger projects
-* Act as an expert in the Data Analytics industry and in GitLab by setting the strategic direction and the short term goals of the Data Team, focusing on team improvements
-* Provide mentorship for all team members to help them grow in their technical responsibilities as they relate to data analytics, removing blockers to their autonomy.
-* Create training guides, blog posts, templates, and recorded training sessions to help Infrastructure Department staff understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
-* Help create the sense of psychological safety in the department
-
-## Performance Indicators
-
-* [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
-* [Infrastructure cost vs plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)
+* Engineering Performance Indicator Content MR Rate 
+* Infrastructure Specialty:
+  * [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
+  * [Infrastructure cost vs plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)
 
 
 ## Hiring Process
