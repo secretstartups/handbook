@@ -65,6 +65,9 @@ The Scorecard Dashboard provides or displays the following information:
  - Trend Analysis Chart
  - Summarized Counts for each day.
  
+Percentage of records passed is calculated by taking the percentage of total number of records that have passed the data quality detection rule. Likewise, 
+Percentage of records failed is calculated by taking the percentage of total number of records that have failed the data quality detection rule.
+The threshold limit will be compared against the percentage of passed or failed record counts to determine if the data quality rule has passed or failed. As of now the threshold value is set to 50. The exact threshold value needs to be determined by the DRI. Pass or Fail percentage for each detection rule is calculated based on percentage of records passed or percentage of records failed by comparing against threshold limit.
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
