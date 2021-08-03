@@ -77,6 +77,9 @@ The Staff Technical Writer reports to the Senior Manager, Technical Writing.
 #### Staff Technical Writer Job Grade
 The Staff Technical Writer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification for Staff Level:** 
+At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
+
 #### Staff Technical Writer Responsibilities
 Extends the Senior Technical Writer responsibilities in complexity and scope.
 
@@ -97,6 +100,9 @@ The Principal Technical Writer reports to the Senior Manager, Technical Writing.
 
 #### Principal Technical Writer Job Grade
 The Principal Technical Writer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). The Principal Technical Writer has extensive experience in a Staff-level role.
+
+**Market Justification for Principal Level:** 
+At GitLab, engineering has a formal [dual career track](/handbook/engineering/career-development/#individual-contribution-vs-management) to be able to continue to grow and develop as a manager of people or an individual contributor. 
 
 #### Principal Technical Writer Responsibilities
 Extends the Staff Technical Writer responsibilities in complexity and scope.
