@@ -117,6 +117,7 @@ When it comes to learning, maybe you aren't sure where to start. Here are some g
 * Set aside 2 hours per week to work on personal development
 * Check out the [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway) training
 * Take a look at our [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses). You will find courses recommended by our L&D Team as well as your GitLab Team Member peers. 
+* We want to know more about how you prefer to learn. Please take [this short survey](https://forms.gle/aoojWtLwRoTrqa3d9) so we can better meet the needs of your learning style. 
 
 
 ### Team Member Contributions 
