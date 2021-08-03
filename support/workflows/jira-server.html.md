@@ -33,11 +33,7 @@ For more information about various uses of Jira Please check out the [Get starte
    ```bash
    apt install openjdk-11-jdk  openjdk-11-jre
    ```
-<<<<<<< HEAD
 
-=======
-1. Install certbot, python3-certbot-apache to generate certificates for HTTPS
->>>>>>> 1eee2789a1e9b9e2bc0d93039389fe6fe950dec2
 1. Create a folder to store Jira software for installation. 
 
    ```bash
@@ -50,7 +46,7 @@ For more information about various uses of Jira Please check out the [Get starte
 
   1. Select the Jira version that you want to download. 
 
-   ![Download Jira Screenshot](assets/Jira_1_Download.png)
+   ![Download Jira Screenshot](assets/JIRA_1_Download.png)
 
   1. Accept and right-click submit button to get the download URL. (Choose copy link address during the file download)
 
@@ -84,7 +80,7 @@ For more information about various uses of Jira Please check out the [Get starte
 1. You now have Jira setup and accessible in your localhost:8080.
 1. You will have to set up Jira before using it. After you access from the browser, Select `I’II set it up myself`.
 
-   ![Jira Set It Up Myself Screenshot](assets/Jira_Setupmyself.png)
+   ![Jira Set It Up Myself Screenshot](assets/JIRA_Setupmyself.png)
 
 1. In the next step, select `Built-in (for evaluation or demonstration)`.  
 
