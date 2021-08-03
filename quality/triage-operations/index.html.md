@@ -134,7 +134,7 @@ This report contains recent wider community contribution merge requests requirin
 The goal is for coaches to add stage and group labels (as well as type and category labels, ideally),
 so that the relevant Product Manager or Engineering Manager can be pinged later on based on these labels.
 
-* Triage owner: [Merge request coaches](https://gitlab.com/gitlab-org/coaches) who are not out of the office by [gitlab roulette](https://gitlab.com/gitlab-org/gitlab-roulette#features)
+* Triage owner: [Merge Request Coaches](https://gitlab.com/gitlab-org/coaches) who are not out of the office by [gitlab roulette](https://gitlab.com/gitlab-org/gitlab-roulette#features)
 * Listed merge requests: All which have been created in the last 24 hours.
 * Triage action: Follow the instructions in the triage report.
   * Example: [https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364](https://gitlab.com/gitlab-org/quality/triage-reports/-/issues/364)
@@ -522,5 +522,5 @@ Current type labels with subtype labels are:
   * [#triage](https://gitlab.slack.com/messages/triage): general triage team channel.
   * [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed) - Feed of all GitLab-CE issues
   * [#support-tracker-feed](https://gitlab.slack.com/messages/support-tracker-feed) - Feed of the GitLab.com Support Tracker
-  * [#mr-coaching](https://gitlab.slack.com/messages/mr-coaching): for general conversation about Merge Request coaching.
+  * [#mr-coaching](https://gitlab.slack.com/messages/mr-coaching): for general conversation about Merge Request Coaching.
   * [#opensource](https://gitlab.slack.com/messages/opensource): for general conversation about Open Source.
