@@ -228,8 +228,8 @@ Troubleshooting for common questions during the 360 process.
 
 1. I will be out on PTO during the nomination period; what can I do? 
 - You have two options 
-  1. Your manager/coach can update your nominations in CultureAmp -Or-
-  1. You can email `#people-connect` with the email addresses of your nominations. 
+    1. Your manager/coach can update your nominations in CultureAmp -Or-
+    1. You can email `#people-connect` with the email addresses of your nominations. 
 
 1. I submitted my 360 nominations but I want to make an adjustment, what can I do? 
 - Send an email to people-connect@gitlab.com with the team member you would like to add/delete and we can update your nominations. 
