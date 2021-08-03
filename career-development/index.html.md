@@ -310,6 +310,7 @@ subgraph Based on Merit &amp; Company Need
   eng:dpd(Director of Product Design)-->eng:vpux(VP of User Experience);
 
   eng:suxr(Senior UX Researcher)-->eng:stuxr(Staff UX Researcher);
+  eng:stuxr(Staff UX Researcher)-->eng:puxr(Principal UX Researcher);
 
   eng:suxr(Senior UX Researcher)-->eng:muxr(Manager of UX Research);
   eng:muxr(Manager of UX Research)-->eng:smuxr(Senior Manager of UX Research);
