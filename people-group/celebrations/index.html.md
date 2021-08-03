@@ -52,7 +52,7 @@ To make sure the reports in Expensify are routed correctly, managers will need t
 
 For any further questions regarding expensing of flowers or gifts, please reach out to the AP team at `ap@gitlab.com`
 
-** Please note: Only managers will be able to view and access their direct reports addresses via BambooHR. This information should never be shared with anyone without prior permission of the team member. 
+** Please note: The intended recipient will need to provide their residential address directly for the purposes of flower / gift delivery - personal information may not be disclosed without team member consent.  
 
 ### Sending an E-Card
 
