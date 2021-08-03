@@ -59,7 +59,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Update TAM name on account team in Salesforce
 * Share any Outreach sequences or templates currently in use
 * The new TAM should be introduced live on a client call whenever possible
-* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/boards/1139879?&label_name[]=Status%3A%3ANew)
+* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/-/boards/1139879?&label_name[]=Status%3A%3ANew)
 * Evaluate the state of the account's license including an assessment of active users and if a true-up is necessary
 * Evaluate the state of tickets to ensure any open critical issues are addressed
 * Retrieve any architectural diagrams, machine specifications, and gitlab configuration files to assess current environment
@@ -72,7 +72,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Add TAM name to account team in Salesforce
 * Identify any relevant Outreach sequences or templates
 * The new TAM should be introduced live on a client call whenever possible
-* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/boards/1139879?&label_name[]=Status%3A%3ANew)
+* Ensure any current action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/-/boards/1139879?&label_name[]=Status%3A%3ANew)  
 
 ### SA to TAM (new accounts)
 
@@ -81,7 +81,7 @@ A seamless customer journey requires a continuous flow of relevant information b
 * SA to clearly outline to TAM how far the customer is in their adoption of GitLab
 * TAM begins onboarding process for new customers
 * Add TAM name to account team in Salesforce, ensure SA name is already present
-* Ensure any urgent action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/boards/1139879?&label_name[]=Status%3A%3ANew)
+* Ensure any urgent action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/-/boards/1139879?&label_name[]=Status%3A%3ANew)
 
 ### SA to SA (new accounts)
 
@@ -89,4 +89,4 @@ A seamless customer journey requires a continuous flow of relevant information b
 * Ensure any account notes, [tech stack discoveries](https://docs.google.com/spreadsheets/d/1sOeluQhMO4W0wWIC6rbSE_E1NzTj7eTaR-FDKLYlLb4/edit#gid=912439232), [technical briefs](https://gitlab.com/gitlab-com/customer-success/tko/technical-followup-briefs/-/tree/master) or running call notes are linked to Salesforce and shared with the new SA
 * Introduce new SA live on a client call
 * If a [POV](/handbook/customer-success/solutions-architects/tools-and-resources/pov) is pending or active, update the POV record in Salesforce as required
-* Ensure any current action items are identified via an issue on the [Commercial SA Triage board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/boards/1006966)
+* Ensure any current action items are identified via an issue on the [Commercial SA Triage board](https://gitlab.com/gitlab-com/customer-success/sa-triage-boards/commercial-triage/-/boards/1006966)
