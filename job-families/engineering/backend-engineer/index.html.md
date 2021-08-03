@@ -418,7 +418,7 @@ making the GitLab project maintainable in the long-term.
 
 See the description of the [Engineering Productivity team](/handbook/engineering/quality/engineering-productivity-team/) for more details.
 The position also involves working with the community as
-[merge request coach](/job-families/expert/merge-request-coach/), and working together with our
+[Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our
 [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and
 address issues from the community.
 

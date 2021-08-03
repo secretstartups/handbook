@@ -210,7 +210,7 @@ to understand what is working and what is not.
 * Experience using Continuous Integration systems (e.g., GitLab CI, Jenkins, Travis).
 * Experience using Docker and containerized architectures (e.g. Kubernetes).
 
-See the description of the [Quality team](/handbook/engineering/quality/) for more details. The position also involves working with the community as [merge request coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
+See the description of the [Quality team](/handbook/engineering/quality/) for more details. The position also involves working with the community as [Merge Request Coach](/job-families/expert/merge-request-coach/), and working together with our [Backend Engineers](/job-families/engineering/backend-engineer/) to respond and address issues from the community.
 
 ### Memory
 The Memory team is responsible for optimizing GitLab application performance by managing the memory resources required.  The team is also responsible for changes affecting the responsiveness of the application.
