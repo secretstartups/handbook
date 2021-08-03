@@ -17,9 +17,6 @@ Since then, I have been thinking of doing something similar but smaller in scale
 
 I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
-### Who can apply to be a part of the program?
-
-* This program is currently open to all GitLab team members. 
 
 ### Process for requesting to be a shadow
 
@@ -38,8 +35,8 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
 * You are encouraged to take notes on what is being said in meeting documents that you have edit rights to (which will be most of them).  The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
 * You may be asked to drop from a meeting when something confidential needs to be shown or discussed
-* Feel free to ask me questions via Slack in `#wayne_shadow_program_experiment`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.
-* If you are so inclined, review my GitLab history (link TBD) and Slack messages I have written in public channels (link TBD).
+* Feel free to ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.
+* If you are so inclined, review my [GitLab history](https://gitlab.com/whaber) and Slack messages I have written in public channels.
 * Shadows can choose to be aware of the current time and providing timekeeping in meetings. This is for meeting participants to comfortably wrap up the meeting.
 * If you notice Wayne interrupting speakers, speaking too quickly, or not pausing often enough, please let him know.  These are things he is working on improving.
 * Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are a small number of attendees and/or the meeting is not public inside GitLab).  Tell participants who you are, what your normal job is, and that you are a shadow in this meeting. 
@@ -61,7 +58,7 @@ It is not a performance evaluation or a step for a future promotion.
 
 ## Preparing for the program
 
-1. Slack me in `#wayne_shadow_program_experiment` to let me know a couple of days before your first shadow
+1. Slack me in `#wayne_shadow_program` to let me know a couple of days before your first shadow
 1. Schedule a coffee chat with me a couple of days before your first shadow (especially if we have not met previously)
 1. Plan to observe and ask questions
 1. Don't plan to do your normal amount of usual work.  You should reduce your workload by at least 75% during the shadowing time period.
