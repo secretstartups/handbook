@@ -98,6 +98,11 @@ When scheduling an AMA, be mindful of timezones.  Generally it is best to have t
 
 Once a Reverse AMA takes place, a 15-30 minutes debrief meeting should be scheduled immediately following to ensure there is a timely discussion and DRIs are assigned to all actions. 
 
+Immediately should be within the week or following the Reverse AMA for best practices.  Understanding there are time zones and schedules to consider.  When possible scheduling the debrief ahead of time for immediately following would be an effective approach.  The debrief template includes the DRI and target to complete and should be updated accordingly.
+
+The debrief should include the People Business Partner, AMA Facilitator ad DIB team member.  There are times where the Debrief is scheduled with the E-group leader however this is optional and as needed.
+
+
 ### Setup
 
 AMA meetings always start with an [agenda](https://docs.google.com/document/d/1-wrI4GB8N74O5AUmdnj916uhCbrL2adM8wbD_unrbac/edit?usp=sharing). Ensure that the agenda document is added to the calendar invite at the initial time it is sent to allow everyone to be involved. All questions and answers should be documented in the agenda to allow those who can not attend to catch up as well as to avoid team members talking over each other.
