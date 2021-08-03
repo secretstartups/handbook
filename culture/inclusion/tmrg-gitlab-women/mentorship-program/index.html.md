@@ -52,12 +52,10 @@ Completion of the self-paced [How to be a Good Mentor or Mentee](https://www.lin
 
 _This requirement was updated on 2021-06-28 with the following goals in mind: increase async participation, enable different learning styles, leverage high-quality content in LinkedIn Learning_
 
-**Mid-Program Panel AMA**
+**Mid-Program Individual Growth Plan Work**
 
-At the program half-way point, we'll host multiple AMA sessions to check in on the current program status. The AMA will be planned for a 50 minute meeting. This session will be composed of two parts:
+At the program half-way point, program participants will be encouraged to attend live/watch the recording of the Skill of the Month Individual Growth Plan Trainings hosted by the L&D team. The week after the training, participants will be invited to attend one of three office hour sessions to share examples, ask questions about, and discuss the IGP.
 
-1. A panel AMA with mentors and mentees to discuss common questions and concerns
-1. Small group discussions to share best practices and biggest takeways so far
 
 **End of Program Celebration**
 
@@ -203,7 +201,7 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 
 ##### Mentor Results
 
-![mentor-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
+![mentor-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
 
 *What is something you hope to learn from your mentee during this program?*
 
@@ -236,7 +234,7 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 
 ##### Mentee Results
 
-![mentee-data.png](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
+![mentee-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
 
 
 **What is one goal you hope to accomplish by participating in this Women at GitLab mentorship program?**
