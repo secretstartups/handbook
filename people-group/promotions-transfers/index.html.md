@@ -218,7 +218,9 @@ While this varies, most promotion documents should be roughly 4-6 pages in lengt
 
 ### Recommend a Compensation Increase
 
-At GitLab, we ensure that promotions are impactful from the compensation perspective, stay within range of the compensation calculator, and are equitable to peers in the same role. As part of the BambooHR request, the manager will be able to submit a recommended increase in cash compensation for their direct report using the compensation calculator. If you have any questions feel free to reach out to your People Business Partner or the Total Rewards Team.
+At GitLab, we ensure that promotions are impactful from the compensation perspective, stay within range of the compensation calculator, and are equitable to peers in the same role. As part of the BambooHR or Greenhouse request, the manager will be able to submit a recommended increase in cash compensation for their direct report using the compensation calculator. If you have any questions feel free to reach out to your People Business Partner or the Total Rewards Team.
+
+#### Promotion 
 
 - When a team member is promoted from one level to the next in the same job family, it is typical to be brought between the minimum and median of the compensation range.
 - The Total Rewards Team typically recommends a 5%-10% increase as part of the promotion to cash compensation. Additional equity is fixed based on [stock options for promotions](/handbook/stock-options/#promotions).
@@ -226,6 +228,14 @@ At GitLab, we ensure that promotions are impactful from the compensation perspec
 - Any promotions with the following conditions will require additional justification to the Total Rewards team and executive approver. Please add the business justification as a comment in the BambooHR request.
     1. An increase of more than 10%
     1. The promotion exceeds the range in the compensation calculator (would be paid over the top end of the compensation range).
+
+#### Transfer 
+
+When reviewing compensation for a transfer in Greenhouse, the Total Rewards team will ensure internal equity among like roles ahead of approving the offer details using the following general guidelines: 
+
+1. **Lateral Transfer (different or same job family, same grade)**: Typically we expect a team member to receive no increase or an increase in the amount of the benchmark differential for a lateral transfer. 
+2. **Promotional Transfer (different or same job family, higher grade)**: We recommend a 5-10% increase (aligned to the promotional expected increase) and/or the difference in the benchmark for the transfer to a higher grade. 
+3. **Other Transfer types**: There are other transfers that can be reviewed on a case by case basis. For example, if someone is transferring to a lower grade in a different or same job family, compensation may be adjusted down to ensure alignment to market rates for the role. Please tag the Total Rewards team in Greenhouse to conduct a review. 
 
 ### Submit a Promotion request in BambooHR
 
