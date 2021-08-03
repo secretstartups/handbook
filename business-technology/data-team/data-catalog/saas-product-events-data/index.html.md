@@ -30,21 +30,20 @@ SaaS Product Events Data Pipeline provides business users (Product Analysts, Gro
 
 The versatility of these table sets allow business stakeholders to perform a large array of analysis described below.
 
-
 ### Type of Analysis that can be performed
 
 1. [User Journey Analysis](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard): See how often different product stages are used by the same namespaces. See what stages are used in combination.
-2. [New Namespace Stage Adoption](https://app.periscopedata.com/app/gitlab/761347/Group-Namespace-Conversion-Metrics): Evaluate how often new namespaces are adopting stages such as 'Create' and 'Verify' within their first days of use.
-3. [Stages per Organization](https://app.periscopedata.com/app/gitlab/824044/Stages-per-Organization-Deep-Dive---SpO): Identify how namespaces adopt stages within their first days and how this correlates with paid conversion and long-term engagement.
+1. [New Namespace Stage Adoption](https://app.periscopedata.com/app/gitlab/761347/Group-Namespace-Conversion-Metrics): Evaluate how often new namespaces are adopting stages such as 'Create' and 'Verify' within their first days of use.
+1. [Stages per Organization](https://app.periscopedata.com/app/gitlab/824044/Stages-per-Organization-Deep-Dive---SpO): Identify how namespaces adopt stages within their first days and how this correlates with paid conversion and long-term engagement.
 
 
 ### ERD and Data flows and table description:
 
 The Data Team maintains these fact tables that can be used to :
 
-- fct_event_400: fact table at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. This fact table contains only events that happened only in the last 400 days. 
-- fct_daily_event_400: Table that will be implemented soon, progress can be tracked in this issue
-- fct_daily_xmau_400: Table that will be implemented soon, progress can be tracked in this issue
+- [https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_400](): fact table at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. This fact table contains only events that happened only in the last 400 days. 
+- fct_daily_event_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
+- fct_daily_xmau_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
 
 Under the hood, all these models are created through [this dbt model named prep_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event).
 
@@ -61,9 +60,7 @@ Here is an ERD of the `prep_event` tables:
 </iframe>
 </figure>
 
-The list of events currently tracked in these tables is available here. Some new events can be added fairly easily, please see documentation below.
-
-
+The list of events currently tracked in these tables [is available here](https://app.periscopedata.com/app/gitlab/897425/fct_event-workflow?widget=12279318&udv=0). Some new events can be added fairly easily, please see documentation below.
 
 #### How to add new events to this table ?
 
