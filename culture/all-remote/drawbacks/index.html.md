@@ -29,15 +29,6 @@ In the [video](https://youtu.be/CwOLAKSdlfs) above, GitLab Director of Technical
 
 ## For employees
 
-<!-- blank line -->
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/xHPwHNhQ50A" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-In the [video](https://youtu.be/xHPwHNhQ50A) above, GitLab co-founder and CEO Sid Sijbrandij addresses remote work and its biggest challenges with [Leo Widrich](https://twitter.com/leowid), the co-founder of [Buffer](https://buffer.com/) and present-day executive coach.
-
 1. [Onboarding](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members) can be difficult when you're remote, because it involves [more self-learning](/company/culture/all-remote/learning-and-development/) and you're not physically with your new coworkers and fellow new hires.
   - Learn more about how GitLab [onboards its all-remote team members](/company/culture/all-remote/learning-and-development/#how-do-you-onboard-new-team-members).
 1. The first month in a remote role can feel [lonely](/blog/2018/04/27/remote-future-how-remote-companies-stay-connected/), especially if you're [transitioning from a traditional office setting](/blog/2018/03/15/working-at-gitlab-affects-my-life/).
