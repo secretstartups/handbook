@@ -64,7 +64,7 @@ This is the integrations team's first official release of Nexus. It contains mos
 - Queueing support via the Bull library
     - [Bull Project](https://github.com/OptimalBits/bull)
     - [Nestjs Docs](https://docs.nestjs.com/techniques/queues#queues)
-- Bull Board UI integrated into the main nexus app ([screenshot below](#bull-board))
+- Bull Board UI integrated into the main nexus app (screenshot below)
     - [Bull Board Project](https://github.com/felixmosh/bull-board)
 - CRON Scheduling
     - [Nestjs Docs](https://docs.nestjs.com/techniques/task-scheduling#task-scheduling)
@@ -78,7 +78,7 @@ This is the integrations team's first official release of Nexus. It contains mos
     - [TypeORM Project](https://typeorm.io/#/)
     - [Nestjs Docs](https://docs.nestjs.com/recipes/sql-typeorm#sql-typeorm)
 - Parent-Child Queue job orchestration
-- Automatic Swagger API documentation generation (OpenAPI Spec 3) ([screenshot](#swagger-api-docs))
+- Automatic Swagger API documentation generation (OpenAPI Spec 3) (screenshot below)
     - [API Docs](https://production.ci.nexus.gitlabenvironment.cloud/docs/static/index.html)
 - Automatic code documentation using Compodoc
     - [Compodoc project](https://compodoc.app/)
