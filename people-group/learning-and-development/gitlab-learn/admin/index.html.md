@@ -712,7 +712,7 @@ After a team member has completed the Access Request process for any elevated pe
 
 ## Reporting
 
-We us EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
+We use EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
 
 ### EdGraph Key Dashboards
 
