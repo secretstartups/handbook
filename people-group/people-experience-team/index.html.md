@@ -222,18 +222,18 @@ The People Experience Associate in the 'triage' rotation will pull up all issues
 
 Once a week, the People Experience Associate in the `deleting team member data` rotation will delete team members data submitted on the Letter of Employment response spreadsheet for the previous week.
 
-#### OSAT Team Member Feedback
+### OSAT Team Member Feedback
 
 Once a new team member has completed their onboarding, they are asked to complete the `Onboarding Survey` to share their experience. Based on the scores received, the People Experience Associate assigned to the specific team members onboarding, will complete the following:
 
 - Score of 4 or higher: use own discretion based on the feedback received and see whether there are any improvements or changes that can be made to the onboarding template / onboarding process (this can be subjective). 
 - Score of 3 or lower: reach out to the team member and schedule a feedback session to further discuss their concerns and feedback provided. 
 
-#### Onboarding Buddy Feedback
+### Onboarding Buddy Feedback
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
 
-#### Anniversary Period Gift Process
+### Anniversary Period Gift Process
 
 People Experience Team process:
 - Create the Anniversary Gift reports in BambooHR. You will create three serperate reports for 1, 3, and 5 year anniversaries. 
@@ -261,7 +261,7 @@ People Experience Team process:
 
 Tip for Printfection Site: Star and bell the relevant campaigns applicable to our team for further ease to search for. 
 
-#### Printfection Report for New Hire Swag
+### Printfection Report for New Hire Swag
 
 When a new team member starts, the New Hire Swag email is sent with a link to Printfection where new team members can order their swag. To keep track of the orders, the PEA will run a weekly report on Friday's. Please see the below steps on how to process the report:
 
@@ -273,6 +273,10 @@ When a new team member starts, the New Hire Swag email is sent with a link to Pr
 - You can download the report as a CSV and compare the report to the new hires for the week on the Onboarding tab of the People Operations/People Experience Associate tracker.
 
 Should the PEA find any abuse of the link, they will need to report to the Manager, People Operations as well as the Senior Manager of Brand Activation.  
+
+### TaNewKi Call Invites
+
+The PEA in the rotation should review the onboarding tracker and send [email invitations](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/tanewki_welcome_call.md) to new hires for the Ta'NEW'ki welcome call 2 weeks before their start date, if applicable.
 
 ### Regeling Internet Thuis form
 
