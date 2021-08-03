@@ -73,18 +73,18 @@ The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensati
 The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst) role.
 
 * Deliver data analytics and visualization with minimal guidance and support.
-* Regular contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
+* Contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
 * Improve our handbook performance indicator pages content and guidelines.
 * Advocate for improvements to data quality, security, and query performance.
 * Deep understanding of how data is created and transformed into Sisense visualization at GitLab.
-* Understand data trends across data sources across Engineering.
+* Understand data trends across Engineering data sources.
 * Understand business processes and policies to improve Engineering processes and workflow. 
 * Contribute to data quality improvement needs; review, optimize, and refactor data models for efficiency.
 * Proactively document Engineering Division's data-lifecycle our metrics framework in the handbook.
 * An expert in data domain of assigned Engineering Department.
 * Occasionally represent Engineering Analytics in broad company communication and announcements.
 * Occasionally contribute to the company's strategic Data direction in collaboration with the Data team. 
-* Exert influence on the overall objectives and long-range goals of the Engineering Analytics team.
+* Influence the overall objectives and long-range goals of the Engineering Analytics team.
 
 ### Staff Engineering Analyst
 
@@ -96,16 +96,17 @@ The Senior Engineering Analyst is a [grade 8](/handbook/total-rewards/compensati
 
 The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staff-engineering-analyst) role.
 
-* Coach and mentor other team members so they can confidently delivering data analytics and visualization with minimal guidance.
+* Coach and mentor other team members so they can confidently deliver data analytics and visualization with minimal guidance.
 * Enforce and improve our SQL/Sisense guidelines and coding standards, review and make strategic improvements to achieve organizational objective.
 * Seek and deliver improvements to data quality, security, model refactoring and query performance.
 * Drive our handbook performance indicator pages' efficiency, guidelines and maintenance efforts. 
-* Deep understanding of how data flows in GitLab and identify new data sources needed to unblock business objective.
+* Maintain a deep understanding of how data flows within GitLab and identify new data sources needed to unblock business objectives.
 * Understand data trends across data sources inside Engineering Division and throughout the company.
 * Assist the Data team in expanding our data warehouse with clean data (ready for analysis) by implementing 
-* Enforce and champion handbook-first documentation, ensure broad organizational awareness of Engineering Division's data-lifecycle and metrics framework.
-* An expert in data domains of two or more Engineering Departments.
-* Frequently represent Engineering Analytics in broad company communication and announcements.
+* Enforce and champion handbook-first documentation. 
+* Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
+* Maintain expertise in data domains of two or more Engineering Departments.
+* Represent Engineering Analytics in broad company communication and announcements.
 * An expert in GitLab's Analytics space, contribute to the company's strategic Data direction in collaboration with the Data team. 
 * Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.
 * Create training guides, blog posts, templates, and recorded training sessions to help Infrastructure Department staff understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
