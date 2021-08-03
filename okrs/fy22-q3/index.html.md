@@ -31,16 +31,16 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 1. CEO: GitLab Managed future 
 [Epic 1534](https://gitlab.com/groups/gitlab-com/-/epics/1534)
-   1. **CEO KR:** X% of [features missing on GitLab.com](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/.#all-differences-between-gitlab-saas-and-self-managed) have moved to scoped or [viable](/direction/maturity/). [Issue 12066](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12066) 
-   1. **CEO KR:** Launch first customer facing iteration of three new delivery methods: Horse, Plus and Region. [Issue 12067](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12067)
-   1. **CEO KR:** Have Workspace replace the admin screen. [Issue 12068](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12068)
+   1. **CEO KR:** Drive 100% of [identified SaaS First improvements](https://gitlab.com/gitlab-com/Product/-/issues/2696) to completion. [Issue 12066](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12066) 
+   1. **CEO KR:** Launch Beta of Project Horse and onboard at least one customer (internal or external); Validate and deliver a plan for GitLab Pods aligned with Infrastructure, Engineering, and CEO. [Issue 12067](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12067)
+   1. **CEO KR:** Build Workspace core container in FY22Q3, enable Issue Types and move Labels from Plan capabilities, and setup path to enable enterprise critical instance level features for SaaS customers in FY22Q4. [Issue 12068](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12068)
 
 ### 2. CEO: Conversion from free 
 [Epic 1535](https://gitlab.com/groups/gitlab-com/-/epics/1535)
    1. **CEO KR:** Cloud licensing for 100% of new and renewing subscriptions. [Issue 12069](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12069)
-   1. **CEO KR:** Release has a wizard with 100 templates. [Issue 12075](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12075)
+   1. **CEO KR:** Increase the Golden Journey of Verify to Release to 41%. [Issue 12075](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12075)
    1. **CEO KR:** Increase funnel volume to drive pipeline. [Issue 12074](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12074)
-   1.  **CEO KR:** Increase Trial conversion to X%, Increase Free to Trial/Paid to X%. [Issue 12073](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12073)
+   1.  **CEO KR:** Increase SaaS Trial conversion rate by 5% and Increase D14 namespace with 2+ SpO by 10%. [Issue 12073](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12073)
 
 ### 3. CEO: Even prouder to work here
 [Epic 1536](https://gitlab.com/groups/gitlab-com/-/epics/1536)
