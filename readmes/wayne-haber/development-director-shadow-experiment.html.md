@@ -27,7 +27,8 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 1. Add yourself to the table for the days in which you want to shadow via an MR
 
 ### Schedule
-
+<details>
+  <summary>Click to expand the schedule</summary>
 |	Date	|	Shadow	|
 | ------ | ------ |
 |	8/16/2021	|	Open	|
@@ -90,7 +91,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 |	11/23/2021	|	Open	|
 |	11/24/2021	|	Open	|
 |	11/25/2021	|	Open	|
-
+</details>
 
 ### How does the shadowing work?
 
