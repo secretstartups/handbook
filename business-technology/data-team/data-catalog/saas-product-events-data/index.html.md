@@ -46,9 +46,19 @@ The Data Team maintains these fact tables that can be used to :
 - fct_daily_event_400: Table that will be implemented soon, progress can be tracked in this issue
 - fct_daily_xmau_400: Table that will be implemented soon, progress can be tracked in this issue
 
+Under the hood, all these models are created through [this dbt model named prep_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event).
+
+`prep_event` model creates monthly partitioned table. Looking at Snowflake you can see one schema per month:
+
+So that means we have one `prep_event` table per month. In dbt, you can see that the schema definition is defined in the `dbt_project.yml`.
+
+In the query, you also see the `WHERE` statement that limits the data to a monthly subset of data.
+
+Here is an ERD of the `prep_event` tables:
 
 <figure style="width: 640px; height: 480px; margin: 10px; position: relative;">
-<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9893320a-3dc1-4585-b292-c7b3d02c2bea" id="ZEN0ht8-IFF2"></iframe>
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9893320a-3dc1-4585-b292-c7b3d02c2bea" id="ZEN0ht8-IFF2">
+</iframe>
 </figure>
 
 The list of events currently tracked in these tables is available here. Some new events can be added fairly easily, please see documentation below.
@@ -129,16 +139,22 @@ Then, you need to run a dbt job as shown in the small video below:
 ![gif](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/clone-prod-2.gif)
 
 
-Run dbtjob `specify_l_model` by clicking on the ⚙️ then add the following variable: 
+Run the dbt job `specify_l_model` by clicking on the ⚙️ then add the following variable: 
 
 - key: `DBT_MODELS`
 - value: `prep_event`
 
 ![gif](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/run-job-2.gif)
 
+Once the jobs have run succesfully, ask for a review of a team member of the R&D Team.
 
-### Sources of Product Usage Data
+Don't hesitate to ask any questions regarding your MR to Data Team members either through Slack #data channel or through the Merge Request itself.
 
-TBD
+##### Backfill the data
+
+Once the data is merged, you need to backfill the prep_event data. For this, please ask a Data Engineer to trigger the [Airflow Dag called t_prep_dotcom_usage_events_backfill](https://airflow.gitlabdata.com/tree?dag_id=t_prep_dotcom_usage_events_backfill) which will run the backfill for the last 3 years of data.
+
+
+
 
 
