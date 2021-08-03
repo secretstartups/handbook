@@ -65,7 +65,7 @@ Before facilitating a session, all facilitators will complete the following step
 **Current Facilitators:** 
 Template: "Name" - "Role", **Self Identified (Optional):** 
 
-- Candace Byrdsog William - Manager, Diversity, Inclusion & Belonging **Self Identified (Optional):** CIS black woman; **Region: NORAM**
+- Candace Byrdsong William - Manager, Diversity, Inclusion & Belonging **Self Identified (Optional):** CIS black woman; **Region: NORAM**
 - Liam McNally - Diversity, Inclusion & Belonging Partner, **Self Identified (Optional):** CIS gender Man, Gay, Black, No Diverseabilities, Age: 31; **Region: APAC**
 - Amanda Rueda - Diversity, Inclusion & Belonging Advisory Group Member, **Self Identified (Optional):** CIS gender Woman, Age: 45; **Region: NORAM**
 - Giuliana Lucchesi - People Business Partner, **Self Identified (Optional):** CIS gender woman; **Region: NORAM**
@@ -95,6 +95,13 @@ AMAs are generally coordinated, scheduled, and planned by the [Executive Busines
 Other non-Executive AMAs are scheduled by the [People Operations](/handbook/people-group/#people-experience-vs-people-operations-core-responsibilities--response-timeline) team. These AMAs are typically a result of a change that impacts the company as a whole and may often be hosted by multiple leadership members in the company. Whenever there is an open slot in the Group Conversation calendar, the People Operations Team will reach out to the EBA team to create an AMA.
 
 When scheduling an AMA, be mindful of timezones.  Generally it is best to have two AMAs, one for the Americas/EMEA time zone, and one for the APAC time zones.
+
+Once a Reverse AMA takes place, a 15-30 minutes debrief meeting should be scheduled immediately following to ensure there is a timely discussion and DRIs are assigned to all actions. 
+
+Immediately should be within the week or following the Reverse AMA for best practices.  Understanding there are time zones and schedules to consider.  When possible scheduling the debrief ahead of time for immediately following the the Reverse AMA would be an effective approach.  The debrief template includes the DRI and target to complete and should be updated accordingly.
+
+The debrief should include the People Business Partner, AMA Facilitator and DIB team member.  There are times where the Debrief is scheduled with the E-group leader however this is optional and as needed.
+
 
 ### Setup
 
