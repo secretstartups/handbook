@@ -521,7 +521,7 @@ Every dollar we spend will have to be earned back; be as frugal with company mon
 
 ##### ConvDev
 {:.no_toc}
-We work according to the principles of [conversational development](http://conversationaldevelopment.com/).
+We work according to the principles of [conversational development](http://conversationaldevelopment.com/principles/).
 
 ##### Short verbal answers
 {:.no_toc}
