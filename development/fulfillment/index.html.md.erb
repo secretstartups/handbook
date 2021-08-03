@@ -33,14 +33,36 @@ We measure our success by our [performance indicators](https://about.gitlab.com/
 
 ### Groups
 
-#### License
-Responsible for retrieving and managing licenses, overall system architecture, data integrity. Systems: [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot). Integration: Salesforce.
-
 #### Purchase
-Responsible for all purchase experiences. Trials, purchase flows, and account management (invoices, contact, billing info) Systems: [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot), [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab). Integrations: [Zuora](/handbook/engineering/development/fulfillment/architecture/#zuora), [Stripe](/handbook/engineering/development/fulfillment/architecture/#stripe).
+Responsible for all self-service purchase experiences, supports sales-assisted purchasing, channel and distributor e-marketplaces, subscription management (reconciliation, auto-renewal, invoicing, payment collection, etc), and trials. The group's primary goal is increasing self-service purchase volume to 95.5%. 
+
+Systems:
+* GitLab SaaS Checkout and Subscription Management
+* GitLab SM Checkout and Subscription Management
+* CustomersDot
+* CustomersDot Checkout and Subscription Management
+* Zuora integration
+* SFDC integration
+* Marketo trial form
+* Visual compliance
+
+
+#### License
+Responsible for provisioning and managing licenses across self-managed and SaaS (including Cloud License activation/sync and provisioning of legacy licenses) and support tooling. 
+
+Systems: 
+* GitLab SaaS Admin
+* GitLab SM Admin
+* CustomersDot Admin 
+* LicenseDot
 
 #### Utilization
-Responsible for all consumables management, usage reporting, and usage notifications (excluding license utilization). Systems: [GitLab](/handbook/engineering/development/fulfillment/architecture/#gitlab).
+Responsible for all usage reporting and management, usage admin controls, CI minute managenent and storage management. 
+
+Systems: 
+* GitLab
+* CustomersDot
+* Version App
 
 
 
@@ -52,10 +74,13 @@ Responsible for all consumables management, usage reporting, and usage notificat
 * Engineering Teams
      * Purchase
           * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
           * [Backend](/handbook/engineering/development/fulfillment/be-purchase/)
      * License
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
           * [Backend](/handbook/engineering/development/fulfillment/be-license/)
      * Utilization
+          * [Frontend](/handbook/engineering/development/fulfillment/fe-purchase/)
           * [Backend](/handbook/engineering/development/fulfillment/be-utilization/)
 * [InfraDev Team initiative](/handbook/engineering/development/fulfillment/infradev/)
 * [Fulfillment Software Architecture](/handbook/engineering/development/fulfillment/architecture)
