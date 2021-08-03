@@ -371,7 +371,6 @@ Some organizations (like GitLab) provide stipends or [reimbursement](/handbook/f
 - [Twist's Remote Work Guides](https://twist.com/remote-work-guides)
 - [Remote Habits](https://remotehabits.com/)
 - [35 of the best Slack communities for remote workers](https://www.owllabs.com/blog/remote-work-slack-communities?hs_amp=true)
-- [The Remoter Guide](https://www.remoter.com/remoter-guide)
 - [Toggl's Guide to Working With Clients You've Never Met Face-to-Face](https://toggl.com/work-with-online-clients/)
 
 ## Contribute to this page
