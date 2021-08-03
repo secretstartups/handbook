@@ -1,0 +1,7 @@
+%h4 Categories
+%ul
+  - pages.each do |category, training_pages|
+    %li
+      %a{ href: "##{category.parameterize}" }
+        %span.badge.pull-right> #{training_pages.count}
+        #{category}

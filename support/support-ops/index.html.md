@@ -53,6 +53,7 @@ product.
 * [Main Project](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project)
 * [Our documentation](documentation/)
 * [Our workflows](workflows/)
+* [Our training documents](training/)
 * [Project Labels](https://gitlab.com/gitlab-com/support/support-ops/support-ops-project#what-do-all-the-labels-mean)
 * Various issue boards:
   * [By category issue board](https://gitlab.com/groups/gitlab-com/support/support-ops/-/boards/2325911)

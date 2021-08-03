@@ -1,0 +1,35 @@
+---
+layout: default
+title: Support Operations Training
+description: "Training documents for GitLab Support Operations"
+---
+
+%style
+  :plain
+    h3::before {
+      display: block;
+      content: " ";
+      margin-top: -25px !important;
+      height: 25px !important;
+      visibility: hidden;
+    }
+
+- pages = sitemap.resources.select { |r| r.path.start_with?("handbook/support/support-ops/training")  }
+- pages = pages.reject { |p| p.data.category.nil? }.group_by { |p| p.data.category }.sort_by { |c| c }
+
+.wrapper.sidebar-layout-wrapper.clearfix
+  %aside.tocs-sidebar
+    = partial "includes/layout/codeowners.html.haml"
+    = partial "includes/layout/edit_page.html.haml"
+    = partial "handbook/support/support-ops/training/toc.html.haml", locals: {pages: pages}
+
+  .container.md-page{ class: (current_page.data.page_class if current_page.data.page_class) }
+    %ol.breadcrumb
+      %li.meta-signage-header You are here:
+      = breadcrumbs(current_page)
+    = partial "includes/layout/handbook_search.html.haml"
+    .hidden-md.hidden-lg
+      = partial "includes/layout/codeowners.html.haml"
+
+    - pages.each do |category, pages|
+      = partial "handbook/support/support-ops/training/category", locals: { category: category, pages: pages }
