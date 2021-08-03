@@ -24,7 +24,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 ### Process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
-1. You have been with GitLab for at least 6 months
+1. You have been with GitLab for at least 1 month
 1. Check this spreadsheet TBD for days that are open for shadowing. If this program is successful, the spreadsheet will be replaced with a table on this handbook page.
 1. Confirm with your manager that they are ok with you participating
 1. Add yourself to the spreadsheet for the days in which you want to shadow
