@@ -32,6 +32,7 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 | `last_name` (Applicant data) | `lastName` |
 | the part in `first_name` that's between quotes (Applicant data) | `preferredName` |
 | `candidate_country` (Offer data) | `country` |
+| `state_of_team_member` (Offer data) | `state` |
 | `starts_at` (Offer data) | `hireDate` |
 | `email_addresses.personal` (Applicant data) | `homeEmail` |
 | `departmemt` (Offer data) | `department` |
@@ -84,13 +85,14 @@ from Greenhouse. We do add a note on the candidate's activity saying we synced t
 
 Besides syncing the above fields, we also sync:
 
-- Documents between Greenhouse and BamboorHR. The documents we sync are in the `attachments` on the
+- Documents between Greenhouse and BambooHR. The documents we sync are in the `attachments` on the
 candidate itself. We only sync the signed offer letter and the resume. The signed offer letter is
 synced to the `Contracts & Changes` and the resume is synced to the `Resumes and Applications`
 folder on BambooHR. They are set to be shared with the new team member.
 - Employment Status: these are different depending on which entity is linked to the team member.
 It follows the process that is outlined in the [handbook](/handbook/people-group/general-onboarding/onboarding-processes/#adding-a-new-team-member-to-bamboohr). When there are changes in probations, a
 change should also be made to [this file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/entity_mapper.yml).
+- Country-specific accrual policies are set on BambooHR using the `country` and `state` listed on Greenhouse.
 
 When required data is missing, the system is set up to send a Slack message about
 this applicant. Currently these candidates will need to be synced manually.

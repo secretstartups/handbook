@@ -26,7 +26,7 @@ GitLab-managed assets are provided to conduct GitLab business with consideration
 
 Those receiving GitLab-provided assets are responsible for exercising good judgment when using GitLab-managed computers and accessing GitLab-managed data.
 
-As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period.
+As per the [onboarding issue procedures](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md) outlined in our handbook, evidence of device encryption and device serial number must be provided to IT Ops prior to the completion of onboarding period.
 
 [We are currently working on rolling out JAMF for MAC Laptops](https://gitlab.com/gitlab-com/business-ops/mac-laptop-management/-/issues/18). Once implemented, all MAC laptops procured by GitLab will come configured with [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/). GitLab team members procuring and expensing MAC Laptops will require [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) to be installed.
 
@@ -68,7 +68,7 @@ Forwarding of confidential business emails or documents to personal external ema
 
 > Note: GitLab may retrieve messages from archives and servers without prior notice if GitLab has sufficient reason to do so. If deemed necessary, this investigation will be conducted with the knowledge and approval of the Security, People Business Partners, and Legal Departments.
 
-In addition to following the [Social Media Guidelines](/handbook/marketing/social-media-guidelines/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
+In addition to following the [Team Member Social Media Policy](/handbook/marketing/team-member-social-media-policy/), when utilizing social media think about the effects of statements that you make. Keep in mind that these transmissions are permanent and easily transferable, and can affect our company’s reputation and relationships with team members and customers. When using social media tools like blogs, Facebook, Twitter or wikis, ensure that you do not make comments on behalf of GitLab without proper authorization. Also, you must not disclose our company’s confidential or proprietary information about our business, our suppliers, or our customers.
 
 ### Return of GitLab-Owned Assets
 
@@ -120,7 +120,7 @@ To consult with the Security Team, use the appropriate contact: `security@gitlab
 
 ### Related Documents and Handbook Entries
 
-- [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md)
+- [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html)
 - [Asset return procedure](/handbook/people-group/offboarding/#returning-property-to-gitlab)
 - [Lost or stolen asset procedure](/handbook/security/#panic-email)

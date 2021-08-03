@@ -40,6 +40,8 @@ flowchart TD
     W[DocuSign]
     X[Glassdoor]
     Y[Zoom]
+    Z[Expensify]
+    AA[Netsuite]
 
     A --> P 
     linkStyle 0 stroke-width:2px,fill:none,stroke:green;
@@ -77,6 +79,10 @@ flowchart TD
     linkStyle 10 stroke-width:2px,fill:none,stroke:blue;
     B <--> J
     linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
+    B <--> Z
+    linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
+    B <--> AA
+    linkStyle 11 stroke-width:2px,fill:none,stroke:blue;
 
     E --> B
     linkStyle 12 stroke-width:2px,fill:none,stroke:blue;
@@ -110,6 +116,8 @@ flowchart TD
 | EdCast - GitLab Learn | TBD | TBD |TBD |
 | Navex Global| SFTP Upload | one-way (reads from BambooHR) |TBD |
 | Compaas | TBD | one-way (reads from BambooHR) |TBD |
+| Expensify | Workato (API) | one-way (reads from BambooHR) | TBD |
+| Netsuite | Workato (API) | one-way (reads from BambooHR) | TBD |
 
 ### Greenhouse
 

@@ -151,6 +151,10 @@ Make sure that you use queer as an _adjective_ and not as a noun. Good examples:
 
 But something like "Amy is **a** queer" is offensive.
 
+#### QUILTBAG
+
+QUILTBAG is a comprehensive, newer term that stands for queer and questioning, unsure, intersex, lesbian, transgender and two-spirit, bisexual, asexual and aromantic, and gay and genderqueer. It is a easier way to say LGBTQ+ as well as being a bit more inclusive. It was first coined in October 2006 by Sadie Lee in *Diva Magazine*.
+
 ## Frequently Asked Questions
 
 ### What’s the difference between sex and gender?
@@ -215,6 +219,6 @@ The answer to this question, unfortunately, largely depends on where you are in 
 
 Race, color, religion, national origin, sex (including pregnancy), age, disability, HIV status, sexual orientation, gender identity, marital status, past or present military service, or any other status protected by the laws or regulations in the locations where we operate.
 
-Please review our [anti-discrimination guidelines](/handbook/people-group/people-policy-directory/#discrimination) for more information on what is not tolerated at GitLab.
+Please review our [anti-discrimination guidelines](/handbook/anti-harassment/#discrimination) for more information on what is not tolerated at GitLab.
 
 [hrc]: https://www.hrc.org/

@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "New to Leadership and Management"
+description: "In this section we will review various topics that impact new managers. For first time managers sometimes the transition from a high performing individual to leading a team can be challenging."
 ---
 
 ## On this page
@@ -41,7 +42,7 @@ There are some great articles regarding being new to leadership. Please review t
 
 ## Legalities of Hiring
 
-If you have not yet reviewed the [Hiring Pages](/handbook/hiring/#hiring-pages) in the handbook please familiarize yourself with the information. This page is a great overview of job families, vacancies, country hiring guidelines and etc...  A best practice once you are a manager is to schedule time with your aligned recruiter and sourcer.  In this meeting you can provide an overview of your team, potential hiring opportunities and sourcing strategies.  Talent Acquisition alignment can be found [here](/handbook/hiring/talent-acquisition-alignment/)
+If you have not yet reviewed the [Hiring Pages](/handbook/hiring/#hiring-pages) in the handbook please familiarize yourself with the information. This page is a great overview of job families, vacancies, country hiring guidelines and etc...  A best practice once you are a manager is to schedule time with your aligned recruiter and sourcer.  In this meeting you can provide an overview of your team, potential hiring opportunities and sourcing strategies.  Talent Acquisition alignment can be found [here](/handbook/hiring/recruiting-alignment/)
 
 As a manager you are now responsible for hiring team members to fill open vacancies.  You most likely have already been involved in interviewing candidates for GitLab, however now you are the decision maker on who is hired onto your team and into GitLab.  As a manager you should be mindful of the following:
 
@@ -54,11 +55,11 @@ As a manager you are now responsible for hiring team members to fill open vacanc
 
 ### Harassment
 
-You are responsible as a manager to create and sustain a work environment in which all GitLab team members understand and know the ethical and legal behaivor that is required of them. As a manager you need to familiarize yourself with the  [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).  One issue managers may face is harassment.  GitLab's [Harassment](/handbook/people-group/people-policy-directory/#harassment) section of the Code of Business Conduct & Ethics makes it clear that team members have a right to a harassment-free work environment.  For further details regarding harassment please read the [Anti-Harassment Policy](/handbook/anti-harassment/).  As a manager if are made aware of or witness any form of harassment you must  reach out to your aligned people business parter immediately to discuss the issue.  You can find your aligned people business partner on the [People Business Partner Alignment](/handbook/people-group/#people-business-partner-alignment-to-division) section of the handbook. Take a moment and review both the [People Group](/handbook/people-group/#how-to-report-violations)'s reporting section, as well as the [Legal team's reporting violations](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) section of the handbook to familiarize yourself with the reporting and investigation process.
+You are responsible as a manager to create and sustain a work environment in which all GitLab team members understand and know the ethical and legal behaivor that is required of them. As a manager you need to familiarize yourself with the  [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/).  One issue managers may face is harassment.  GitLab's [Anti-Harassment](/handbook/anti-harassment/) policy makes it clear that team members have a right to a harassment-free work environment.  For further details regarding harassment please read the [Anti-Harassment Policy](/handbook/anti-harassment/).  As a manager if are made aware of or witness any form of harassment you must  reach out to your aligned people business parter immediately to discuss the issue.  You can find your aligned people business partner on the [People Business Partner Alignment](/handbook/people-group/#people-business-partner-alignment-to-division) section of the handbook. Take a moment and review both the [People Group](/handbook/people-group/#how-to-report-violations)'s reporting section, as well as the [Legal team's reporting violations](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations) section of the handbook to familiarize yourself with the reporting and investigation process.
 
 ### Discrimination
 
-You are responsible as a manager in ensuring that all team members are treated consistently.  Please familiarize yourself with the [Discrimination](/handbook/people-group/people-policy-directory/#discrimination) section of the Code of Business Conduct & Ethics.  Like harassment a manager is required to immediately reach out to their aligned People Business Partner if they believe any discrimination has occurred.  As a hiring manager here a few questions you can ask yourself to ensure all team members are treated consistently:
+You are responsible as a manager in ensuring that all team members are treated consistently.  Please familiarize yourself with the [Discrimination](/handbook/anti-harassment/#discrimination) section of the Anti-Harassment policy.  Like harassment a manager is required to immediately reach out to their aligned People Business Partner if they believe any discrimination has occurred.  As a hiring manager here a few questions you can ask yourself to ensure all team members are treated consistently:
 
 *  Am I holding this team member to stricter or different performance and behavioral standards than their peers?
 *  Am I treating this team member differently than I am treating team members with similar skills, abilities and accomplishments?
@@ -67,7 +68,7 @@ You are responsible as a manager in ensuring that all team members are treated c
 
 ### Non-retaliation
 
-GitLab is committed to a work environment that is free of harassment, discrimination and non-retaliation.  Please review and familarize yourself with the [Commitment to Non-Retaliation](/handbook/people-group/people-policy-directory/#commitment-to-non-retaliation).
+GitLab is committed to a work environment that is free of harassment, discrimination and non-retaliation.  Please review and familarize yourself with the [commitment to non-retaliation](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#viii-questions-reporting-and-effect-of-violations).
 
 If managers have any questions regarding their role related to the above topics, process or other related questions please schedule time with your people business partner.  Your people business parter is here to help guide you and provide counsel related to all team member related issues.
 

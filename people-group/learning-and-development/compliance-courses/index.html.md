@@ -25,14 +25,22 @@ GitLab has several compliance courses and resources. Explore the drop-downs belo
 
 ## WILL Interactive
 
-All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task during their onboarding to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Once you get to that step in your onboarding, please do the following:
+All team members, regardless of location, are required to take harassment prevention training. All new team members will have a task during their onboarding to complete this training using [Will Interactive's Platform](https://learning.willinteractive.com/) within the first 30 days of hire. Additionally, on all new team members' 6th day with GitLab, they will recieve a Slack message reminder to complete the training. 
 
-1. Review our [Anti-Harassment Policy](/handbook/anti-harassment/) which outlines guidelines, reporting, and disciplinary action. 
-1. We have four separate trainings, but you only need to complete one of them. For managers and leaders, the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
-   1. [**Anti-Harassment Training for Non-U.S. Team Members**](https://docs.google.com/document/d/1UNgLozq4KhnJwoE4Fuw_ygFzMchTriYfjyNAwXycs0s/edit?usp=sharing)
-   1. [**Anti-Harassment Training for Non-U.S. Supervisors**](https://docs.google.com/document/d/1iPJtkEWpqHijkrRDqcw_khW4eFNMFCRG2wWs0rLvzPQ/edit?usp=sharing)
-   1. [**Anti-Harassment Training for U.S. Team Members**](https://docs.google.com/document/d/1Nm1GxbjTixS7goig0YuyXUPibYqKFRtFD1xVvxiR06o/edit?usp=sharing)
-   1. [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing)
+Once you get to that step in your onboarding, please do the following:
+
+Please review our [Anti-Harassment Policy](/handbook/anti-harassment/) which outlines guidelines, reporting, and disciplinary action. 
+
+We have four separate trainings, but you only need to complete one of them. For managers, leaders, and all team members in Connecticut (regardless of role), the course is 2 hours long. For all other GitLab Team Members, the course is 1 hour long. There are separate courses for U.S. and non-U.S. due to states in the U.S. requiring a "gated" course. You do not need to complete the course in one sitting as you can stop and come back to it. Just ensure it is completed within your first 30 days at GitLab. Click on the Harassment Prevention training that aligns with your role (Supervisor or Team Member) and location (U.S. or Non-U.S.): 
+
+| Your Role     | Your Location  | Course to Take  |
+|---------|-----------------|------------------| 
+| Supervisor | Not in the United States | [**Anti-Harassment Training for Non-U.S. Supervisors**](https://docs.google.com/document/d/1iPJtkEWpqHijkrRDqcw_khW4eFNMFCRG2wWs0rLvzPQ/edit?usp=sharing) |
+| Individual Contributor | Not in the United States | [**Anti-Harassment Training for Non-U.S. Team Members**](https://docs.google.com/document/d/1UNgLozq4KhnJwoE4Fuw_ygFzMchTriYfjyNAwXycs0s/edit?usp=sharing) |
+| Individual Contributor | In the United States and NOT in Connectiut | [**Anti-Harassment Training for U.S. Team Members**](https://docs.google.com/document/d/1Nm1GxbjTixS7goig0YuyXUPibYqKFRtFD1xVvxiR06o/edit?usp=sharing) | 
+| Individual Contributor | In the United States and IN Connecticut | [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing) | 
+| Supervisor | In the United States | [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing) | 
+
 1. Once you are in WILL Learning by clicking the correct link for the course you are taking, click on the *Sign Up Now* link
 1. Enter in your name and **GitLab email address**
 1. Create a password
@@ -55,6 +63,8 @@ The L&D Team performs bi-weekly audits of team members that have completed the t
 #### Checking WILL Interactive for Offboarded Team Members
 
 When tagged in an offboarding issue, follow these steps to check the completion/license status of appropriate anti-harassment courses in the WILL Learning platform.
+
+The following steps are outlined in this [private recording that can be found in the L&D Google Drive](https://drive.google.com/file/d/1dQPL321XtliHdzo8fuwxqcX9f8maaM-b/view?usp=sharing). 
 
 This step must be completed for each offboarding issue, as GitLab pays per license in WILL Learning. This compliance check ensures that GitLab is aware of, and making use of, all paid licenses.
 
@@ -122,4 +132,4 @@ You can create a free account on the [Compliance Next](https://www.navexglobal.c
 
 One of the most unique aspects of Compliance Next is connecting directly with experts and peers. The platform offers different types of educational resources that you can watch, read, and use—all of which provide the ability to comment and ask questions to compliance professionals and communinity members.
 
-If you have any questions or need further help, please ping people ops in the `#peopleops` channel in slack.
+If you have any questions or need further help, please ping people ops in the `#people-connect` channel in slack.

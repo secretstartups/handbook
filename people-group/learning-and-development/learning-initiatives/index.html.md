@@ -16,6 +16,7 @@ The Learning & Development team is rolling out learning programs to enable a [cu
 ## Learning Sessions
 
 ### Live Learning
+
 Live Learning sessions will be conducted on a monthly basis. There will be a Zoom video conference set up for each session. Official dates and topics will be added to the schedule below as confirmed. If you were unable to attend a live learning session but still want to learn, check out our past live learning sessions below. At GitLab we [give agency](/handbook/values/#give-agency), but if you are attending Live Learning sessions, you will be asked to be engaged and participate with your full attention.
 
 <details>
@@ -127,7 +128,7 @@ The following process outlines steps for the L&D team to take each month when pl
 
 **Planning Issue Template:** Open an Monthly Continuous Learning Call issue template in the L&D Project. Steps outlined below are also included in the issue template and are included here as reference.
 
-1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
+1. Post in the [#people-connect Slack channel](https://app.slack.com/client/T02592416/C02360SQQFR) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
 1. Create slide deck for presentation. Make a copy of a previous month's presention in the [Continuous Learning Campaign Google Folder](https://drive.google.com/drive/folders/1d4ksJXBMrATATxN0QyJ4FA6hzchMNdvb?usp=sharing)
 1. Coordinate slide deck with appropriate enablement audiences (i.e DIB, Field Enablement, Professional Services, Marketing Enablement, etc)
 1. Update slide deck for presentation with feedback from coordinated audiences
@@ -178,7 +179,7 @@ Anyone or any team can host a Learning Speaker Series for the organization! If i
 
 1. Collaborate with exec team, mid-level people leaders, and other interested GitLab Team members to gauge interest and availability to be featured in the call. Be mindful to include diverse voices from across the GitLab team.
 1. Determine if this is an internal or external speaker for the series call. If external speaker, ensure that the speaker has been validated and that the topic covered aligns with our values. External speaker presentations need to aling with how we deliver group conversations.
-1. Post in the [#peopleops Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
+1. Post in the [#people-connect Slack channel](https://app.slack.com/client/T02592416/C0SNC8F2N/thread/C0SNC8F2N-1602618225.269200) to coordinate a Zoom meeting on the company calendar. This meeting should be set up to live stream to the GitLab unfiltered YouTube channel. Consider hosting the call at least 2 times to best accommodate for multiple time zones.
 1. Test Zoom functionality with the speaker at least two business days before event.
     - If external speaker, ensure they have downloaded [Zoom](https://zoom.us/support/download).
     - Have speaker test [audio and video](/handbook/tools-and-tips/zoom/#how-to-test-audio-and-video-in-zoom).
@@ -205,6 +206,8 @@ The L&D team publishes a [quarterly mental health newsletter](/handbook/people-g
 [Focus Friday's](/handbook/communication/#focus-fridays) are a great benefit at GitLab. We try to schedule minimal meetings on Fridays to catch up on work and grow our skills professionally. Use Focus Fridays to take time out to learn. Team members can work with their manager through a [career development conversation](/handbook/leadership/1-1/#career-development-discussion-at-the-1-1) to determine what skills that want to grow in the future. Aspirations can be documented in an [individual growth plan](/handbook/people-group/learning-and-development/career-development/#internal-resources). 
 
 From there, identify what will be needed to attain the new skills and consider using the [Growth and Development Benefit](/handbook/total-rewards/benefits/general-and-entity-benefits/#growth-and-development-benefit) or [expensing professional development opportunities such as coaching, worskshops, conferencces, self-service learning, etc.](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). Another option you can utilize to learn more is [LinkedIn Learning](/handbook/people-group/learning-and-development/linkedin-learning/). GitLab has a number of LinkedIn Learning licenses for team members. Block time off your calendar every week or month to devote to learning new skills. Share what you are learning with team members and in the #learninganddevelopment slack channel. 
+
+In a [discussion with Darren Murph, Head of Remote at GitLab, about his career development](https://gitlab.edcast.com/pathways/career-development-with-darren-murph/cards/7123731), Darren called out the importance of taking time out to learn, reminding the team that career development is "not something that comes around the fringes of work - it is work". The Take Time out to Learn initiative leans into this idea.
 
 Consider documenting the steps you are going to take learn new skills in the individual growth plan. Check in with your manager and ask for accountablity from them to help you stay aligned with goals. 
 
@@ -248,14 +251,34 @@ Three types of CEO handbook learning sessions:
 The video below from Sid and L&D further explains the concepts:
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/cB301JaYnsw" height="315" width="560"></iframe></figure>Steps for L&D Team when setting up a CEO Handbook Learning Session:
 
+Preparing for the Call: 
+
 1. Review topic relevant Handbook pages.
-1. Identify pages that need video and content update.
-1. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion.
+1. Determine what topics you want to cover each week
+1. Research the respective page that will be discussed or section of a page
+1. Complete some work on the page before the session if you can, create an MR that clarifies information or asks Sid for clarity on the topic discussed.
 1. Set up a meeting with CEO through EBA. Invite other e-group members if applicable.
 1. Create an agenda with talking points and areas to emphasize during video recording with CEO
+1. Send Sid the agenda in the #CEO channel at least 24 hours in advance 
 1. Hold a handbook learning session and ensure the discussion is fluid and interactive with open and honest dialogue.
+
+During the Call: 
+
+1. Give Sid and other speakers, if applicable, a few minutes at the beginning of the call to populate answers. 
+1. Once everyone is ready, stream to YouTube Live. 
+1. Make the title of the agenda, the same as the YouTube Video. 
+1. Do a quick introduction. 
+1. Go through the questions on the agenda. 
+1. If questions come up during the interview, add them to the end of the agenda if there is time
+1. When there’s nothing on the agenda left, thank him for his time and end the live stream. 
+
+After the Call:  
+
 1. Determine if L&D can create bite-sized videos with the content. Post bite-sized and long-form video on YouTube Unfiltered channel
+1. Update Unfiltered page with more information after the Live Stream. See the the description in this [example video](https://www.youtube.com/watch?v=_okcPC9YucA).
+1. Edit the live stream thumbnail with a [Title Page](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for each topic. Here is [the template](https://docs.google.com/presentation/d/13Pj3bxYK6FFSsiMx2vOAcsB0C6ctl_1lqFH6E5MtgGE/edit#slide=id.gb1c2c2e157_0_115) for the videos. Write out a new title, screenshot the image, and update thumbnail. 
 1. Embed video on the related Handbook page.
+1. Edit page with new content, create sub-page, send MR in the CEO channel with a proposal for an interactive handbook discussion.
 
 List of CEO Handbook Learning Sessions:
 
@@ -271,6 +294,8 @@ List of CEO Handbook Learning Sessions:
 1. [Manager Mention Merge Requests](https://www.youtube.com/watch?v=e1sTOtveNOk)
 1. [Working Groups](/company/team/structure/working-groups/#ceo-handbook-learning-discussion-on-working-groups)
 1. [Skip Level Meetings](https://www.youtube.com/watch?v=kAxp0Mam-Rw)
+1. [Product Strategy](https://www.youtube.com/watch?v=yI29xFAgKoA)
+1. [Mental Wellness Discussion](https://www.youtube.com/watch?v=od_KdZqc69k)
 
 ## Skill of the Month 
 
@@ -290,7 +315,7 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - May: Effective Communication
 - June: Coaching
 - July: Culture of Feedback
-- August: [topic TBD]
+- August: Career Development
 - September: [topic TBD]
 - October: [topic TBD]
 - November: [topic TBD]
@@ -301,7 +326,7 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 
 The following process outlines steps for the L&D team to take when planning and implementing the Skill of the Month.
 
-Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
+Anyone or any team can recommend a topic for the future! If interested, please fill out a [Learning & Development Request template](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/blob/master/.gitlab/issue_templates/learning-and-development-request.md) to begin the process.
 
 **Planning Issue Template:** Open a `skill-of-the-month` issue template in the L&D [General Project](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/tree/master). Steps are outlined in the issue template.
 
@@ -326,4 +351,35 @@ Call Structure:
 1. How do you move past unpleasant thoughts, experiences, or discussions?
 1. What do you do that makes you feel most like yourself? Why?
 
+## Crucial Conversations
 
+Two members of the GitLab Learning & Development Team are certified to deliver Crucial Conversations Training. You can learn more about the importance of Crucial Converations at GitLab on our [Crucial Conversations](/handbook/leadership/crucial-conversations/) handbook page. 
+
+If you complete Crucial Conversations training with one of our in house certified trainers, you can utilize our [growth and development budget](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#crucial-conversations-training). 
+
+### What to Expect 
+
+The video below gives an overview of what the Crucial Conversations training looks like. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/UX-ArZJJJ1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+### Upcoming Sessions 
+
+If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
+
+**FY22** 
+
+- 2021-10 - Exact dates to be confirmed 
+- 2022-01 - Exact dates to be confirmed 
+
+### Setting up the Training 
+
+1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide](add link)
+1. Ensure we have a sign up link from crucial conversations. 
+1. Once we have the link, send the invite email to all team members interested in the program. 
+1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel
+1. Add all participants to the live event calendar invites 
+1. Create a subfolder in the [Crucial Conversations](https://drive.google.com/drive/u/1/folders/144sRv0ap4Gwp4IcM_mtkK83c4toVGJZJ?ths=true) Google Drive to organize cohort materials
+1. Use the [live session template](https://docs.google.com/presentation/d/1cXLjK_9_7ndngmgW_5z4yKcLx7iCxZSNgvEVZ7fNJEs/edit?usp=sharing) to organize GitLab-customized Crucial Conversation scenarios for each live session
