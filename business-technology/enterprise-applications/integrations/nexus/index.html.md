@@ -46,21 +46,21 @@ system a success at GitLab. Here are some of the things we can do for you, but p
 - Providing basic reporting tools to analyze how an integration is performing or what data has been sent
 - Accelerating development of more sophisticated integrations and automations by leveraging data and APIs from other systems in our ecosystem
 
-## Releases
+# Releases
 Our full release list can be found on the [GitLab project releases page](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/releases)
 
-### [Release v1.0.0 - 2021-08-03](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/releases/v1.0.0)
-#### Summary
+## [Release v1.0.0 - 2021-08-03](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/releases/v1.0.0)
+### Summary
 This release contains all of the work up until the end of [Milestone 20](https://gitlab.com/groups/gitlab-com/-/milestones/512)
 
 This is the integrations team's first official release of Nexus. It contains most of the architectural and infrastructure items that we deemed to be necessary to be production read (MVC).
 
-#### Changelog
-##### Features
+### Changelog
+#### Features
 - Stub endpoint for receiving Product Qualified Leads (PQL) with model validation and documentation
 - Basic EdCast connector
 
-##### Application
+#### Application
 - Queueing support via the Bull library
     - [Bull Project](https://github.com/OptimalBits/bull)
     - [Nestjs Docs](https://docs.nestjs.com/techniques/queues#queues)
@@ -97,21 +97,21 @@ This is the integrations team's first official release of Nexus. It contains mos
 - Unit test infrastructure
 - E2E test infrastructure
 
-##### CI/CD
+#### CI/CD
 - AutoDevops
     - K8s GitLab Review Apps
 - Infra terraform automation
 
-##### Infrastructure (Thanks to the IT Ops team)
+#### Infrastructure (Thanks to the IT Ops team)
 - GCP MemoryStore Redis instance
 - GCP Cloud SQL Postgres instance
 - Bastion host VM
 - GCP VPC (containing the above)
 
-##### Screenshots
-###### Bull Board
+#### Screenshots
+##### Bull Board
 ![Bull Board Screenshot](./images/bull-board.png)
 
-###### Swagger API Docs
+##### Swagger API Docs
 ![Swagger API Docs](./images/swagger.png)
 ---
