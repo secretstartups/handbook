@@ -132,14 +132,30 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 <details>
   <summary markdown='span'>
-    Don't use or manipulate images, videos, or logos without permission from the copyright holder
+    Don't use third-party materials (including images, videos, or text) without permission from the owner
   </summary>
 <ul>
-<li>While GitLab generally allows (and encourages) our team to use our Tanuki logo, it's not the same thing when you use a 3rd party logo. Logos from our competitors, partners, and others cannot be used or manipulated without the copyright holder's explicit permission.</li> 
+<li>Images, videos, and text, even if posted publicly on the internet, are copyright-protected materials and should not be used without the permission of the owner.</li>
 
-<li>Team Members must respect and follow all copyright and other intellectual property laws and should use citations and links to original material, where possible. Citations are easily included in channels like blogs and not easy on channels like Twitter. Consider making sure the citation shows up in your social post copy, and if not possible, add a comment or another post as a thread to identify your sources.</li> 
+<li>If you're unable to obtain permission from the owner, hyperlink to the relevant material rather than copying it.</li>
 
-<li>If you're not sure what's permissible, reach out to the #safe Slack channel or <a href="https://about.gitlab.com/handbook/legal/safe-framework/">review the SAFE handbook page.</a></li> 
+<li>Consider using a source of permissively-licensed images, like [unsplash.com](https://unsplash.com/), which provides free to use materials which [do not require attribution](https://unsplash.com/license).</li>
+
+ <li>If you're unsure what's permissible, reach out to the #legal Slack channel.</li> 
+</ul>
+
+</details>
+
+<details>
+  <summary markdown='span'>
+    Don't use third-party logos without the permission of the owner
+  </summary>
+<ul>
+<li> Logos (including those indicating companies, and products and services) are registered trademarks. You must obtain the consent of the owner before using, for any purpose, any third-party logo.</li>
+
+<li>You can refer to other companies, or products and services, by name (without using a logo) provided that (i) the company, product or service in question could not easily be identified without using its name; and (ii) your use does not imply endorsement by, or affiliation with, the trademark owner.</li>
+
+<li>If you're unsure what's permissible, reach out to the #legal Slack channel.</li>
 </ul>
 
 </details>
