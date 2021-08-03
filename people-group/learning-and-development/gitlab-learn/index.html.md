@@ -73,9 +73,26 @@ Existing training available in GitLab Learn
 | [Learning Curator](https://gitlab.edcast.com/pathways/1288235) | Badge | Team Members |
 | [Develop your Rest Ethic](https://gitlab.edcast.com/pathways/1286440) | N/A | All Users |
 | [Mastering Self-Motivation and Self-Advocacy](https://gitlab.edcast.com/pathways/1245364) | Badge | All Users |
-| [GitLab Women in Leadershio Course](https://gitlab.edcast.com/pathways/1245323) | Badge | All Users |
+| [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/1245323) | Badge | All Users |
 | [Bias towards Async Communication](https://gitlab.edcast.com/pathways/1187575) | Badge | All Users |
-| | | |
+| [Mental Health Awareness at GitLab](https://gitlab.edcast.com/pathways/1102247) | Badge | All Users |
+| [Being Inclusive](https://gitlab.edcast.com/pathways/1087036) | N/A | All Users |
+| [Being an Ally](https://gitlab.edcast.com/pathways/1047571)| Badge | All Users |
+| [Introduction to Coaching](https://gitlab.edcast.com/pathways/1047562) | Badge | All Users |
+| [Effective Communication](https://gitlab.edcast.com/pathways/1047551) | Badge | All Users |
+| [GitLab Values](https://gitlab.edcast.com/pathways/900926) | Badge | All Users |
+| [Marketing Operations and Finance](https://gitlab.edcast.com/journey/1549542) | Badge | All Users |
+| [Marketing Campaigns](https://gitlab.edcast.com/journey/1549528) | Badge | All Users |
+| [Project Management](https://gitlab.edcast.com/journey/1549515) | Badge | All Users |
+| [Marketing Product Knowledge](https://gitlab.edcast.com/journey/1549508) | Badge | All Users |
+| [Marketing Revenue Basics](https://gitlab.edcast.com/journey/1549505) | Badge | All Users |
+| [Marketing Writing and Communication](https://gitlab.edcast.com/journey/1549500) | Badge | All Users |
+| [Marketing Analytics](https://gitlab.edcast.com/journey/1467136) | Badge | All Users |
+| [Fieldn Manager Development](https://gitlab.edcast.com/journey/1396454) | N/A | All Users |
+| [DIB Training Certification](https://gitlab.edcast.com/journey/1146370) | Badge | All Users |
+| [PSE Communication Skills](https://gitlab.edcast.com/journey/1101399) | Badge | All Users |
+
+
 
 
 A content roadmap for GitLab Learn will be added to this handbook page in the coming months.
