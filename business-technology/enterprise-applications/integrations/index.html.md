@@ -18,7 +18,7 @@ title: "Enterprise Applications Integrations"
 
 1. [Milestone board](https://gitlab.com/groups/gitlab-com/-/boards/1937586){:target="_blank"}
 1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
-1. [Integrations Platform (Nexus)](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus){:target="_blank"}
+1. [Integrations Platform (Nexus)](./nexus){:target="_blank"}
 
 ## How we work
 To learn about our processes please visit the [How We Work](./how-we-work) page
