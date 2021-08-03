@@ -174,7 +174,7 @@ If at any time during the interview process a candidate is declined due to compe
 #### Team Interview
 
 *  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will ping `@ces` in the Greenhouse profile with specific communication on what interview(s) need to be scheduled. The CES team will then [schedule team interviews](/handbook/hiring/talent-acquisition-framework/coordinator/#schedule-team-interviews).
-* The number of team interviews and order will vary from vacacny to vacancy. An example of what a Team Interview may look like is:
+* The number of team interviews and order will vary from vacancy to vacancy. An example of what a Team Interview may look like is:
   * Round 1: 50 minute interview with Hiring Manager
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
   * If applicable, Round 2B: 25 minute interview with a Hiring Team member
