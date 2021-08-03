@@ -538,6 +538,16 @@ It is the goal of this team to make the first transaction with GitLab:
 2.  Efficient
 3.  Scaleable
 
+#### First Order Prospecting Guidelines
+
+**Inbound Leads**
+ 1. As a general rule, Sales Development Representatives (SDRs) own leads and Account Executives (AEs) own accounts and opportunities. It is the Account Executive's job to help the SDR understand how the First Order team works and what the expectations are. The expectations are as follows:
+   - Reach out to all [Marketing Qualified Leads](https://about.gitlab.com/handbook/marketing/marketing-operations/marketo/#:~:text=The%20lead%20scoring%20model%20is,Score%20and%20their%20Demographic%20Score%20.) (MQLs) within one hour of them being assigned to the SDR.
+    - The first outreach should be a phone call if there is a phone number listed
+    - After the initial call, the SDR should email the prospect using either the sequence designated for trial requests and contact requests or the sequence designated for all other MQLs.
+    - If an MQL or inquiry hasn't been actioned after two weeks of being assigned to the SDR, the AE has permission to reach out to the lead.
+
+
 #### First Order Handoff Process
 
 After the first transaction is closed by the MMKAFO team, the First Order AEs are responsible to kickstart the handover process. Below are the responsibilities of the Mid-Market Key Account First Order team and the Mid-Market Key Account Named team.
