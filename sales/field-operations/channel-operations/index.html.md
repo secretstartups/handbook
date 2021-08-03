@@ -166,7 +166,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
   - _Referral_: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
   - _DR - Status_: Dictates whether the Partner Sourced Deal Registration is approved or denied.
  
-![1-PSDR_Definitions](/handbook/sales/field-operations/channel-operations/1-PSDR_Definitions.png)
+![1-PSDR_Definitions](/handbook/sales/field-operations/channel-operations/images/1-PSDR_Definitions.png)
 
  
 ### Section II: Primary Partner Quote Data (Closed-Won Order Data)*
@@ -179,7 +179,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
   - _Referral_: The partner is bringing us the lead/opportunity but will either transact directly with GitLab or through another partner.
 ***Stamped from primary quote when approved. Fields are locked.***
  
-![2-Primary_Quote_Definitions](/handbook/sales/field-operations/channel-operations/2-Primary_Quote_Definitions.png)
+![2-Primary_Quote_Definitions](/handbook/sales/field-operations/channel-operations/images/2-Primary_Quote_Definitions.png)
  
 ### Section III: Partner Contribution Data
 - **Influence Partner**: Other partners, generally SI/GSIs or alliance partners, that have helped influence a deal but are not part of the actual transaction
@@ -226,7 +226,7 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 6. **Order Type**: Customer order designation in SFDC. New First Order or Growth
  
  
- ### Use Cases
+### Use Cases
 - **Numbers 1 & 4**
   - Channel Partner submits Partner Sourced Deal Reg and no Opportunity exists in the system. Therefore, the Initial source is CQL and SQS defaults to Channel Generated.
   - This applies to both New and Growth orders
@@ -337,7 +337,7 @@ To process a Partner Sourced Deal Registration for a resale opportunity, follow 
   - The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote.
  
 ### Partner Sourced Deal Registration: MSP Opportunities
-Partner Sourced Deal Registrations for MSP opportunities reward partners for managing products and services for their customers accounts. With an approved Partner Sourced Deal Registration for MSP, a partner will receive a different discount than other resale opportunities, according to the[GitLab Partner Program](https://handbook/resellers/). 
+Partner Sourced Deal Registrations for MSP opportunities reward partners for managing products and services for their customers accounts. With an approved Partner Sourced Deal Registration for MSP, a partner will receive a different discount than other resale opportunities, according to the [GitLab Partner Program](https://handbook/resellers/). 
  
 A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. _Please note that the steps for an MSP opportunity differ from the steps for a resale opportunity._
  
@@ -439,14 +439,15 @@ NOTE: Discounts are taken off GitLab list price.
  
 ## Partner Help Desk Support and Communication
  
-**Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops.
-**External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests.
-PHD team members monitor the queue and email inbox throughout the day in all time zones.
-Partner Help Desk’s primary internal communication channel is Salesforce Chatter. When you chatter @Partner Help Desk, it will automatically create a case in the Partner Help Desk (PHD) queue. **Please do not tag PHD team members directly in chatter or make a request through Slack direct message. Always use @Partner Help Desk for SFDC requests or post in #channel-programs-ops in Slack for general questions.**
-This ensures our team is working as efficiently as possible for everyone and that you are covered in case the team member who replied first becomes unavailable.
+**Internal Team Members:** Chatter @Partner Help Desk in Salesforce or for general questions, post in the Slack channel #channel-programs-ops.  
+
+**External Communication:** Email partnersupport@gitlab.com to include a partner or other external stakeholder for help with partner-related requests. PHD team members monitor the queue and email inbox throughout the day in all time zones.  
+
+Partner Help Desk’s primary internal communication channel is Salesforce Chatter. When you chatter @Partner Help Desk, it will automatically create a case in the Partner Help Desk (PHD) queue.  
+
+**Please do not tag PHD team members directly in chatter or make a request through Slack direct message. Always use @Partner Help Desk for SFDC requests or post in #channel-programs-ops in Slack for general questions.**. This ensures our team is working as efficiently as possible for everyone and that you are covered in case the team member who replied first becomes unavailable.
 If someone is working on a case, they will continue to support until the case is closed. If a matter was resolved, but needs to be revisited, please chatter @Partner Help Desk to reopen a case.
-To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opportunity or account page and a short sentence on your request. If the PHD team needs more information or needs to pull in another team, we will follow up directly via Chatter.
-If you need to involve a partner, please email partnersupport@gitlab.com, instead of an individual PHD team member so any team member can jump in as something moves forward.
+To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opportunity or account page and a short sentence on your request. If the PHD team needs more information or needs to pull in another team, we will follow up directly via Chatter. If you need to involve a partner, please email partnersupport@gitlab.com, instead of an individual PHD team member so any team member can jump in as something moves forward.
  
  
 ##  Program and Incentive Definitions
@@ -457,7 +458,9 @@ If you need to involve a partner, please email partnersupport@gitlab.com, instea
   - [Commercial Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s)
   - [Public Sector Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng)
   - [MSP Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM)
-_These matrices represent the discounts effective May 1, 2021 through August 14, 2021_.  
+
+  _These matrices represent the discounts effective May 1, 2021 through August 14, 2021_.  
+
 - Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com/).
  
 ## Partner Applicant Approval / Denial - Granting Portal Access
@@ -520,8 +523,8 @@ For any questions regarding our Alliance partners, please reach out to the #alli
 ***Use Case 1: Partner Co-Sell (Marketplace transaction with no source credit)*** 
 
 If a deal is being transacted through **GCP Marketplace** or **AWS Marketplace**, then the following fields need to be filled out on the opportunity:
-- **Partner Co-Sell** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)* or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*
-_*Be sure to use the correct SFDC account. Click on the link to confirm the GCP and/or AWS account.)  
+- **Partner Co-Sell** = [GCP](https://gitlab.my.salesforce.com/0014M00001nJhks)* or [AWS](https://gitlab.my.salesforce.com/0014M00001ldTdt)*  
+_*Be sure to use the correct SFDC account. Click on the link to confirm the GCP and/or AWS account.)_  
  
 ***Use Case 2: Partner Sourced Deal Registration (No Marketplace transaction)***  
 
