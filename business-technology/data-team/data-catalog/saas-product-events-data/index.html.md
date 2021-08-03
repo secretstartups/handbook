@@ -46,7 +46,14 @@ The Data Team maintains these fact tables that can be used to :
 - fct_daily_event_400: Table that will be implemented soon, progress can be tracked in this issue
 - fct_daily_xmau_400: Table that will be implemented soon, progress can be tracked in this issue
 
+
+<figure style="width: 640px; height: 480px; margin: 10px; position: relative;">
+<iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9893320a-3dc1-4585-b292-c7b3d02c2bea" id="ZEN0ht8-IFF2"></iframe>
+</figure>
+
 The list of events currently tracked in these tables is available here. Some new events can be added fairly easily, please see documentation below.
+
+
 
 #### How to add new events to this table ?
 
