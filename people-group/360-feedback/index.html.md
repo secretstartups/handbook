@@ -101,6 +101,7 @@ In Culture Amp, a reviewer is anyone who is requested to provide feedback for a 
 - Choose people who you have worked closely with for at least 3 months. An exception is where you may have worked very closely with someone, say on a project, but for a shorter amount of time.
 - Select reviewers who will provide you with honest and perhaps even "difficult to hear" feedback.
 
+
 Remember you want to hear honest feedback so select reviewers you know will provide you meaningful data. In general, comments should be to the point and include specific examples. Helping your team member understand the impact of what they are, or are not doing, is an important part of making that feedback actionable. Feedback will be anonymous, however each team member is given a unique email link to provide feedback so please do not share. In Culture Amp reviewers are listed in 3 categories:
 
 - Manager
@@ -229,5 +230,8 @@ Troubleshooting for common questions during the 360 process.
 - You have two options 
   1. Your manager/coach can update your nominations in CultureAmp -Or-
   1. You can email `#people-connect` with the email addresses of your nominations. 
+
+1. I submitted my 360 nominations but I want to make an adjustment, what can I do? 
+- Send an email to people-connect@gitlab.com with the team member you would like to add/delete and we can update your nominations. 
 
 
