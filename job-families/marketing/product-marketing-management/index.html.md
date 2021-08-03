@@ -36,6 +36,71 @@ The Manager, Product Marketing is a [grade 9.5](/handbook/total-rewards/compensa
 * You share our [values](/handbook/values/), and work in accordance with those values.
 * Ability to use GitLab
 
+### Director, Product Marketing
+The Director, Product Marketing reports to the Senior Director, Product & Solutions Marketing
+
+#### Director, Product Marketing Job Grade
+The Director, Product Marketing is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Director, Product Marketing Responsibilities
+* Define GitLab’s product marketing strategy and roadmap, in collaboration with partners across R&D and GTM
+* Create and solidify the platform value message and proposition - mapping across the platform stages and highlighting category benefits
+* Refine our understanding of buyer/decision-maker personas and journeys to streamline both digital/self-serve and sales-driven/assisted experiences
+* Amplify product content development, mapped to buyer journey and sales funnel based on a multi-persona approach
+* Partner with Sales to deliver enablement content, including sales plays, and objection handling based on our GTM strategy
+* Create a holistic competitive playbook to address multiple competitive vectors and opportunities across the market landscape
+* Influence Analyst Relations through cohesive messaging and value articulation
+* Implement a systematic program and strategy to launch new products, pricing and packaging changes
+* Translate customer insights to influence GitLab’s product strategy and roadmap so that we continue our category-defining trajectory
+* Collaborate with and connect stakeholders across R&D and GTM to ensure cross functional alignment on key objectives and results
+* Manage a team by coaching existing members and closing talent gaps where needed through acquisition of new team members
+
+#### Director, Product Marketing Requirements
+* 10+ years of experience including 3+ years of managing senior product marketers at a high-growth B2B SaaS company
+* Direct experience in enterprise software industry
+* Strong understanding and firm grasp of the DevTools market landscape
+* Articulate, clear, and concise communication (verbal and written)
+* Balance of strategic vision and tactical team-based execution
+* Excellent planning, organizational and initiative management skills
+* B.S. or equivalent experience; MBA a plus
+* You share our [values](/handbook/values/), and work in accordance with those values
+* Ability to use GitLab
+
+### Senior Director, Product & Solutions Marketing
+The Senior Director, Product & Solutions Marketing reports to the Vice President, Portfolio Marketing
+
+#### Senior Director, Product & Solutions Marketing Job Grade
+The Senior Director, Product & Solutions Marketing is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Senior Director, Product & Solutions Marketing Responsibilities
+* Define, evolve and evangelize the DevOps platform category positioning on behalf of GitLab
+* Create and solidify the platform value message and proposition - mapping across the platform stages and highlighting category benefits
+* Drive our expertise at influencing the buyer/decision-maker personas and journeys to streamline both digital/self-serve and sales-driven/assisted experiences
+* Elevate our category perspectives through thoughtful content mapped to market needs, organizational priorities and key persona triggers
+* Partner with Sales to shape our global enablement strategy, including sales plays, and objection handling based on our GTM strategy
+* Develop and implement cross-functional strategies based on deep competitive insight to help us play forward in a competitive environment
+* Build a solution marketing capability to help our GTM scale across multi-capability solution playbooks
+* Influence the influencers (from key thought leaders to industry analysts) by evangelizing our category positioning and market message
+* Architect a scalable strategy to launch new products, pricing and packaging changes that drive GTM growth
+* Proactively influence GitLab’s platform strategy and roadmap based on competitive insights and market forces
+* Build and scale new marketing capabilities in industry/vertical/sector marketing as well as geo/regional marketing
+* Collaborate with and connect stakeholders across R&D and GTM to ensure cross functional alignment on key objectives and results
+* Lead and grow a team by coaching existing members and closing talent gaps where needed through acquisition of new team members
+
+#### Senior Director, Product & Solutions Marketing Requirements
+* 15+ years of experience including 5+ years of managing high-growth teams
+* Direct experience in enterprise software industry
+* Strong understanding and firm grasp of the DevTools market landscape
+* Demonstrated progress across product and solutions marketing in high-growth environments
+* Articulate, clear, and concise communication (verbal and written)
+* Balance of strategic vision and tactical team-based execution
+* Adept at creating and managing multiple global programs
+* Excellent planning, organizational and initiative management skills
+* B.S. or equivalent experience; MBA a plus
+* You share our [values](/handbook/values/), and work in accordance with those values
+* Ability to use GitLab
+
+
 ### Manager, Technical Marketing
 
 The Manager, Technical Marketing Director of Product Marketing.  
