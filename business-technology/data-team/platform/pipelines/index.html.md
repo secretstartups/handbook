@@ -31,6 +31,19 @@ A[GitLab.com-DB-Live] -->|build_destroy_mechanism| B[GitLab.com-DB clone running
 
 Currently, to ensure a stable data-feed, both the incremental and full loads utilise the `GitLab.com-DB clone` instance. During development and tests activities, we faced issues with loading out of the `Gitlab.com-DB Live Replica` as a result of write and read actions at the same time (query conflicting). To increase the time for a query conflicting with recovery, there are `max_standby_archive_delay` and `max_standby_streaming_delay` settings. This should be configured on the server side and could result increasing lag on the replication process. We should avoid that and thus we are reading out of a more static data source.
 
+[Runbook](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/storage/fs/zfs/zlonk/README.md) entry of where to look for issue in the clone setup. 
+### Monitoring/Alerting
+Zlonk implements [job completion](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/uncategorized/job_completion.md) monitoring. Alerts are funneled to the `#alerts` Slack channel with a S4 severity.
+Alert something like [this](https://gitlab.slack.com/archives/C12RCNXK5/p1626695850455100) would be present. 
+Alert generated: 
+```
+GitLab job has failed: The GitLab job "clone" resource "zlonk.." has failed.
+Tier: db, Type: zlonk.postgres
+```
+
+We need to reach out to `@sre-oncall` on slack incase we see any issue with our pipeline where the postgress database of gitlab.com is not accessible. 
+
+
 ### Incremental and full loads
 1. Incremental extract 
 - This is the most convenient methodology, a minimal amount of records is transferred. Prerequisite is that there is a delta column available on the source table level
