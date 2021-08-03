@@ -29,6 +29,16 @@ A merge request is considered initially triaged when it has a:
 
 The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
 
+### Partial Triage
+
+A merge request is considered partially triaged when it has a:
+
+- [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
+  - (For `~"bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
+- [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
+- [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
+
+The Partial triage is completed by [Merge Request Coaches](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) via the [newly created Community contribution merge requests](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage) triage report.
 
 ### Complete Triage
 
@@ -55,7 +65,7 @@ A merge request is considered completely triaged when it:
 
 - is closed following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
 
-This triage process is being done manually on a case-by-case basis by the Code Contributor Program manager or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
+This triage process is being done manually on a case-by-case basis by [Merge Request Coaches](/job-families/expert/merge-request-coach/#closing-merge-requests) or [Engineering Managers](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention).
 
 ## Wider Community Merge Request Triage SLOs
 
@@ -72,7 +82,7 @@ Community contributions are valuable, and we should handle them as effectively a
 
 ## Triage levels for the www-gitlab-com project
 
-We define three levels of triage.
+The GitLab Website is owned and managed by a different team than GitLab.org; thus, a further triage process must be defined. 
 
 ### Initial Triage
 
@@ -82,17 +92,6 @@ A merge request is considered initially triaged when it has a:
 - [welcome message](https://gitlab.com/gitlab-org/quality/triage-serverless/-/blob/master/triage/processor/thank_community_contribution.rb) from the [`@gitlab-bot`](https://gitlab.com/gitlab-bot) user with more details on the process.
 
 The Initial triage is automated by the [Engineering Productivity team][Engineering Productivity team], please see [Community contributions on Triage Operations](/handbook/engineering/quality/triage-operations/#community-contributions) page for the full details.
-
-### Partial Triage
-
-A merge request is considered partially triaged when it has a:
-
-- [type label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#type-labels) applied.
-  - (For `~"bug"` and `~"UX Debt"`) It has a [severity label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) applied.
-- [stage label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#stage-labels) applied.
-- [group label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#group-labels) applied (e.g. `~"group:editor"`). If no group label exists, the stage label is enough.
-
-The Partial triage is completed by the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager.
 
 ### Complete Triage
 
@@ -114,7 +113,7 @@ A merge request is considered completely triaged when it:
 
 - is closed following the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
 
-This triage process is being done manually on a case-by-case basis by [Merge Request Coaches](/job-families/expert/merge-request-coach/#closing-merge-requests) or [Engineering Managers](/handbook/engineering/quality/triage-operations/#community-merge-requests-requiring-attention) or the [Code Contributor Program](/handbook/marketing/community-relations/code-contributor-program/) Manager.
+This triage process is being done manually on a case-by-case basis by the Code Contributor Program manager or the relevant [code owner](https://docs.gitlab.com/ee/user/project/code_owners.html).
 
 ## Wider Community Merge Request Triage SLOs
 
