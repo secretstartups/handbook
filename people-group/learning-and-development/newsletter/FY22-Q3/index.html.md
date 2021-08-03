@@ -70,7 +70,7 @@ Past Live Learning sessions can be found on our [Learning & Development Page](ht
 
 Throughout the month we will be covering a variety of different topics. A great place to get started is filling out your Individual Growth Plan and setting up an Epic to track career develpment as well as an Achievement Tracker. 
 
-Week 2 in August will be all about setting up your career development. Check out the videos below to learn more as well as the [pathway on GitLab Learn]. 
+Week 2 in August will be all about setting up your career development. Check out the videos below to learn more. 
 
 ### Epics for Tracking Career Development 
 
