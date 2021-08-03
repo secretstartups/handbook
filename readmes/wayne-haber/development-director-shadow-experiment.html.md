@@ -22,9 +22,75 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
 1. You have been with GitLab for at least 1 month
-1. Check this spreadsheet TBD for days that are open for shadowing. If this program is successful, the spreadsheet will be replaced with a table on this handbook page.
+1. Check the schedule below for days that are `Open` for shadowing.
 1. Confirm with your manager that they are ok with you participating
-1. Add yourself to the spreadsheet for the days in which you want to shadow
+1. Add yourself to the table for the days in which you want to shadow via an MR
+
+### Schedule
+
+|	Date	|	Shadow	|
+| ------ | ------ |
+|	8/16/2021	|	Open	|
+|	8/17/2021	|	Open	|
+|	8/18/2021	|	Open	|
+|	8/19/2021	|	Open	|
+|	8/23/2021	|	Open	|
+|	8/24/2021	|	Open	|
+|	8/25/2021	|	Open	|
+|	8/26/2021	|	Open	|
+|	8/30/2021	|	Time off	|
+|	8/31/2021	|	Time off	|
+|	9/1/2021	|	Time off	|
+|	9/2/2021	|	Time off	|
+|	9/6/2021	|	Open	|
+|	9/7/2021	|	Open	|
+|	9/8/2021	|	Open	|
+|	9/9/2021	|	Open	|
+|	9/13/2021	|	Open	|
+|	9/14/2021	|	Open	|
+|	9/15/2021	|	Open	|
+|	9/16/2021	|	Open	|
+|	9/20/2021	|	Open	|
+|	9/21/2021	|	Open	|
+|	9/22/2021	|	Open	|
+|	9/23/2021	|	Open	|
+|	9/27/2021	|	Open	|
+|	9/28/2021	|	Open	|
+|	9/29/2021	|	Open	|
+|	9/30/2021	|	Open	|
+|	10/4/2021	|	Open	|
+|	10/5/2021	|	Open	|
+|	10/6/2021	|	Open	|
+|	10/7/2021	|	Open	|
+|	10/11/2021	|	Open	|
+|	10/12/2021	|	Open	|
+|	10/13/2021	|	Open	|
+|	10/14/2021	|	Open	|
+|	10/18/2021	|	Open	|
+|	10/19/2021	|	Open	|
+|	10/20/2021	|	Open	|
+|	10/21/2021	|	Open	|
+|	10/25/2021	|	Open	|
+|	10/26/2021	|	Open	|
+|	10/27/2021	|	Open	|
+|	10/28/2021	|	Open	|
+|	11/1/2021	|	Open	|
+|	11/2/2021	|	Open	|
+|	11/3/2021	|	Open	|
+|	11/4/2021	|	Open	|
+|	11/8/2021	|	Open	|
+|	11/9/2021	|	Open	|
+|	11/10/2021	|	Open	|
+|	11/11/2021	|	Open	|
+|	11/15/2021	|	Open	|
+|	11/16/2021	|	Open	|
+|	11/17/2021	|	Open	|
+|	11/18/2021	|	Open	|
+|	11/22/2021	|	Open	|
+|	11/23/2021	|	Open	|
+|	11/24/2021	|	Open	|
+|	11/25/2021	|	Open	|
+
 
 ### How does the shadowing work?
 
