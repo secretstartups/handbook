@@ -7,7 +7,7 @@ title: "Legal Operations"
 
 ### Legal Operations Manager
 
-The Legal Operations Manager reports to the Director, Contracts and Legal Operations.
+The Legal Operations Manager reports to the Sr. Director, Contracts and Legal Operations.
 
 #### Legal Operations Manager Job Grade
 
