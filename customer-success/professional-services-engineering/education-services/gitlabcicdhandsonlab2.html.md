@@ -69,12 +69,9 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. Click the blue **Commit changes** button.
 
 ### View a pipeline's status, stages, jobs, and gitlab-runner
-1. In the left-hand navigation pane, click **CI/CD > Pipelines**
-1. The first row shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**. 
-1. Click the status icon to see the pipeline's details. You'll see columns representing the pipeline's stages, and widgets representing jobs within each stage.
-1. Click the job in the column representing the `Build` stage and the job in the column representing the `Test` stage to see their output in web terminals. 
-1. Identify the gitlab-runner for each job, listed near the top of each job's output. The gitlab-runner for each job is selected at random, but you can use tags to limit which runners run which jobs.
-
+1. In the left-hand navigation pane, click **CI/CD Pipelines** to see an overview of all pipelines. The top row in the overview shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**.
+1. Click the status icon of the top row to see the details of the most recent pipeline. You'll see columns representing the pipeline's stages, and widgets representing jobs within each stage.
+1. Click each of the two jobs to see the output in a web terminal. Identify the gitlab-runner for each job *Hint: it's listed near the top of each job's output*. The gitlab-runner for each job is selected at random, although you can use tags to limit which runners run which jobs.
 
 ## Suggestions?
 
