@@ -78,7 +78,7 @@ You can learn more about Nexus and our capabilities and offerings on our [handbo
 ## Infrastructure Engineering
 
 * **DRI:** [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler)
-* **Stable Counterparts:** [Dave Smith - (Manager, Site Reliability Engineering - GitLab SaaS)](https://about.gitlab.com/company/team/#dawsmith), [Marco Lancini (Infrastructure Security)](https://about.gitlab.com/company/team/#mlancini), [Paulo Martens (Infrastructure Security)](https://about.gitlab.com/company/team/#pmartinsgl)
+* **Stable Counterparts:** [Dave Smith - (Manager, Site Reliability Engineering - GitLab SaaS)](https://about.gitlab.com/company/team/#dawsmith), [Marco Lancini (Infrastructure Security)](https://about.gitlab.com/company/team/#mlancini), [Paulo Martins (Infrastructure Security)](https://about.gitlab.com/company/team/#pmartinsgl)
 * `#infra-access-requests` Slack Channel
 * [Handbook Page](/handbook/business-technology/engineering/infrastructure)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/engineering/infrastructure/issue-tracker)
