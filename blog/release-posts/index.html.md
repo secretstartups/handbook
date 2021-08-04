@@ -152,7 +152,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Merging the release post MR on the 22nd and ensuring the page goes live successfully (coordinate with the release managers in the
   `#releases` Slack channel and only merge once they've pinged you in Slack to confirm the packages are released, which will be sometime around 14:10 - 14:20)
 - Creating and collecting feedback in the release post retro issue during the release post
-- Doing a sync retro with the Tech Writer sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve process and update the handbook/MRs
+- Doing a sync retro with the Technical Writer, the Technical Advisor, the Release Post Manager Shadow, and the Product Operations DRI sometime between the 23rd and the 1st of the month, to identify and collaboratively complete actions to improve the process and update the handbook/MRs
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - If you need additional support in engaging with the community, the Developer Evangelism team ([#developer-evangelism](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
