@@ -142,7 +142,8 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - Creating MRs to collect [usability improvements, performance improvementsm and bug fixes](#create-mrs-for-usability-improvements-bugs-and-performance-improvements)
 - Soliciting/collecting votes for the [MVP](#mvp), getting the write-up form the nominator of the winning candidate and updating `release-X-Y/www-gitlab-com/data/mvps.yml` and `data/release_posts/X_Y/mvp.yml`
 - Adding the [cover image](#cover-image) that is (jpg, png) is [smaller than 300KB](#images)
-- Working with VP of Product Management to identify items to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
+- Working with VP of Product Management to identify features to highlight in the introdcution
+- Working with the VP of Product Management to identify what to include in [What's New](/handbook/product/gitlab-the-product/index.html#using-whats-new-to-communicate-updates-to-users)
 - Monitoring the Slack Release Post channel to help answer questions and troubleshoot hurdles
 - Pinging the PMs and others as needed in Slack or MRs to help resolve feedback
 - Sending out reminders about upcoming deadlines.
@@ -155,8 +156,9 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - If you need additional support in engaging with the community, the Developer Evangelism team ([#developer-evangelism](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
-- Work with PMsand others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
+- Work with PMs and others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
 - Making sure the Technical Writer is aware if release post items are added or removed after the 18th
+- Informing the social team that the release post has been published and it's time to schedule social media posts
 
 **The initial steps of creating a release post branch and the release post merge request are explained below. All subsequent steps for Release Post Manager are documented as checklist items in the merge request that gets created below.**
 
@@ -339,8 +341,9 @@ Here’s the 13.6 release post MR: https://gitlab.com/gitlab-com/www-gitlab-com/
 
 Cc `@Farnoosh @axil @Saumya Upadhyaya @Michael Karampalas`
 
-
 The Developer Evangelism team will reach out to the release post manager in Slack #release-post following their [Release days process](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days) when they need help responding to inquiries about content in the release post blog. These needs will primarily arise within the first week of going live with the blog. However, as Author for a specific release post, you may get pinged to help coordinate a response some weeks later as issues arise. You will usually just need to find the best DRI to handle the issue, often the PM of the release post item in question.
+
+Sometiemes, external PR and Marketing firms reporting on the release or managing media relations may ping the RPM directly with questions, since the RPM is  the "author"  of the release post. If this happens the release post manager should coordinate reach out to  Product Operation help who in Marketing can take over this communication.
 
 #### Content reviews
 
