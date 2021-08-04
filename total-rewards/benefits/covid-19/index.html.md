@@ -80,7 +80,7 @@ If you meet the criteria set forth above and find that you need additional time 
 
 ### FAQ for COVID-19 Medical Leave Policy
 
-* Does this leave cover leave to care for children under the age of 18 who are home because their school or childcare is unavailable due to COVID-19?
+* Does this cover leave to care for children under the age of 18 who are home because their school or childcare is unavailable due to COVID-19?
   * No. We are reviewing the various legislation being passed in different jurisdictions and determining whether other forms of leave may be necessary to accommodate.
 * Can the leave be intermittent (e.g., 4 hours/day or 3 days/week)
   * No. If, as this situation evolves and it is determined that recovery may allow work on an intermittent basis, the Total Rewards team will review and consider adjusting the policy as needed.
@@ -99,7 +99,7 @@ If you meet the criteria set forth above and find that you need additional time 
 * What if I am on a commission plan?
   * If applicable, commissions are paid according to your applicable commission plan while on COVID-19 related leave based on the prior six months of performance with a cap at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only.
 * What is the last day to apply for COVID-19 Leave?
-  * The ability to request COVID-19 Leave will run through June 30, 2021. That means, any requests for COVID-19 Leave must be made prior to March 31, 2021, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on June 30, 2021 for 4 weeks, the end date for their COVID-19 Leave would be July 31, 2021. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
+  * The ability to request COVID-19 Leave will run through December 31, 2021. That means, any requests for COVID-19 Leave must be made prior to October 31, 2021, however the leave itself may exceed that timeframe. By way of an example, if a team member requests COVID-19 Leave on December 31, 2021 for 4 weeks, the end date for their COVID-19 Leave would be January 31, 2022. As the situation around COVID-19 continues to evolve, GitLab will continue to revisit this policy before the 25th of the month and may adjust it accordingly.
 
 ## Expensing the COVID-19 Vaccine 
 
