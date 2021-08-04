@@ -6,13 +6,13 @@ title: "Engineering Analyst"
 # Engineering Analyst
 
 Engineering Analysts at GitLab build and improve on the data capabilities needed to support a highly productive Engineering Division. 
-They work equip Engineering leaders with metric intelligence and actionable performance indicators.
-They closely with GitLab’s Data team to enable new data capabilities that drives our analysis and visualizations.
+They equip Engineering leaders with metric intelligence and actionable performance indicators.
+They work closely with GitLab’s Data team to enable new data capabilities that drives our analysis and visualizations.
 
 
 ## Responsibilities
 * Create data queries that provide actionable data-driven insights.
-* Create actionable and concise data visualizations representation of 
+* Create actionable, concise, and presentable data visualizations
 * Ensure accuracy of Performance Indicators in the Engineering Division and all it's departments.
 * Continuously improve the accuracy and efficiency of Engineering Departments' performance indicators. 
 * Work in close collaboration with GitLab's Data team, provide feedback on o
@@ -61,7 +61,7 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 * Explain trends from data sources in assigned Engineering area and identify opportunities improvements.
 * Interface with various departments to provide timely, accurate and relevant data to Engineering Leaders.
 * Understand business processes and policies of assigned Engineering area. Make improvements and suggestions in the assigned area.
-* Manage, analyze and report assigned Engineering Division or Engineering Departments' Performance Indicators.
+* Manage, analyze and report on assigned Engineering Division or Engineering Departments' Performance Indicators.
 
 ### Senior Engineering Analyst
 
@@ -70,7 +70,7 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst) role.
+The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst-1) role.
 
 * Deliver data analytics and visualization with minimal guidance and support.
 * Contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
@@ -83,7 +83,7 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 * Proactively document Engineering Division's data-lifecycle our metrics framework in the handbook.
 * An expert in data domain of assigned Engineering Department.
 * Occasionally represent Engineering Analytics in broad company communication and announcements.
-* Occasionally contribute to the company's strategic Data direction in collaboration with the Data team. 
+* Occasionally contribute to the company's strategic Data direction in collaboration with the [Data team](https://about.gitlab.com/handbook/business-technology/data-team/#data-job-families). 
 * Influence the overall objectives and long-range goals of the Engineering Analytics team.
 
 ### Staff Engineering Analyst
@@ -94,7 +94,7 @@ The Senior Engineering Analyst is a [grade 8](/handbook/total-rewards/compensati
 
 #### Responsibilities
 
-The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staff-engineering-analyst) role.
+The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#senior-engineering-analyst) role.
 
 * Coach and mentor other team members so they can confidently deliver data analytics and visualization with minimal guidance.
 * Enforce and improve our SQL/Sisense guidelines and coding standards, review and make strategic improvements to achieve organizational objective.
@@ -107,9 +107,10 @@ The Staff Engineering Analyst role extends the [Staff Engineering Analyst](#staf
 * Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
 * Maintain expertise in data domains of two or more Engineering Departments.
 * Represent Engineering Analytics in broad company communication and announcements.
-* An expert in GitLab's Analytics space, contribute to the company's strategic Data direction in collaboration with the Data team. 
+* Contribute to the company's strategic Data direction in collaboration with the Data team. 
 * Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.
-* Create training guides, blog posts, templates, and recorded training sessions to help Infrastructure Department staff understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
+* Create training guides, blog posts, templates, and recorded training sessions to help Team Members understand how to accurately view data and create insight. 
+* Maintain awareness and guide other Team Members about the implications of data-driven analysis in relation to legal and security constraints.
 * Exert significant influence on the overall Engineering Analytics team objectives and long-range goals of GitLab.
 
 ## Specialties
