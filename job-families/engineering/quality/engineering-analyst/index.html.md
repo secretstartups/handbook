@@ -101,7 +101,6 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * Seek and deliver improvements to data quality, security, model refactoring and query performance.
 * Drive our handbook performance indicator pages' efficiency, guidelines and maintenance efforts. 
 * Maintain a deep understanding of how data flows within GitLab and identify new data sources needed to unblock business objectives.
-* Understand data trends across data sources inside Engineering Division and throughout the company.
 * Assist the Data team in expanding our data warehouse with clean data (ready for analysis) by implementing 
 * Enforce and champion handbook-first documentation. 
 * Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
@@ -111,7 +110,7 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.
 * Create training guides, blog posts, templates, and recorded training sessions to help Team Members understand how to accurately view data and create insight. 
 * Maintain awareness and guide other Team Members about the implications of data-driven analysis in relation to legal and security constraints.
-* Exert significant influence on the overall Engineering Analytics team objectives and long-range goals of GitLab.
+* Influence the overall objectives and long-range goals of the Engineering Analytics team.
 
 ## Specialties
 
