@@ -13,23 +13,6 @@ Welcome to the GitLab Learning & Development (L&D) newsletter! The purpose of th
 
 You can find more information on the [structure and process](/handbook/people-group/learning-and-development/newsletter/) for the L&D newsletter, as well as links to [past L&D Newsletters](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). 
 
-## Learn from Leadership 
-
-This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, Vice President, People Operations, Technology & Analytics, and Darren Murph, Head of Remote. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/k8k1xYtlo6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) in GitLab Learn to see the video and add questions for Pattie to her Async AMA Issue. 
-
-<figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/J9n0F22d0eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-
-Darren has been with GitLab since July 2019 (2019-07) as our Head of Remote. Learn more about his career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) in GitLab Learn to see the video and add questions for Darren to his Async AMA Issue. 
-
-
 ## Skill of the Month Spotlight 
 
 <figure class="video_container">
@@ -46,6 +29,21 @@ What you can expect this month:
 
 Want to learn more and follow along this month? Check out and follow the [FY22 Skill of the Month Channel](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) in GitLab Learn. 
 
+## Learn from Leadership 
+
+This month's Learn from Leadership looks a little different than [previous months](/handbook/people-group/learning-and-development/newsletter/#past-newsletters). August 2021 is our [Career Development](/handbook/people-group/learning-and-development/career-development/) Skill of the Month, so each week we will be releasing videos from 2 team members at GitLab discussing Career Development. This week we are learning from Pattie Egan, Vice President, People Operations, Technology & Analytics, and Darren Murph, Head of Remote. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k8k1xYtlo6U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+Pattie has been with GitLab since March 2021 (2021-03). Learn more about her career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) in GitLab Learn to see the video and add questions for Pattie to her Async AMA Issue. 
+
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J9n0F22d0eU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+Darren has been with GitLab since July 2019 (2019-07) as our Head of Remote. Learn more about his career development in the video above. Check out the [corresponding pathway](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) in GitLab Learn to see the video and add questions for Darren to his Async AMA Issue. 
 
 ## Recap of Q2
 
@@ -61,18 +59,17 @@ Past Live Learning sessions can be found on our [Learning & Development Page](ht
 
 * Skill of the Month
    * August - Career Development 
-   * September - 
-   * October - 
+   * September - Announcing Soon! 
+   * October - Announcing Soon! 
 * Crucial Conversations - October 
-   * If you are interested, [sign up here](). 
-* abc 
+   * If you are interested, [sign up here](https://docs.google.com/forms/d/e/1FAIpQLScFLrxgWNjS8Vc3QeNgZ7DKvU8HIRxZ8FQdb0TB12VxJ2HCVQ/viewform). 
 
 
 ## Career Develpment 
 
 Throughout the month we will be covering a variety of different topics. A great place to get started is filling out your Individual Growth Plan and setting up an Epic to track career develpment as well as an Achievement Tracker. 
 
-Week 2 in August will be all about setting up your career development. Check out the videos below to learn more as well as the [pathway on GitLab Learn]. 
+Week 2 in August will be all about setting up your career development. Check out the videos below to learn more. 
 
 ### Epics for Tracking Career Development 
 
@@ -93,7 +90,7 @@ You can learn more in the [Individual Growth Plan handbook section](/handbook/pe
 ### Achievement Tracker 
 
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 You can learn more in the [Achievement Tracker handbook section](/handbook/people-group/learning-and-development/career-development/#tracking-your-accomplishments). 
@@ -119,6 +116,7 @@ When it comes to learning, maybe you aren't sure where to start. Here are some g
 * Set aside 2 hours per week to work on personal development
 * Check out the [Certified Associate for team members](https://gitlab.edcast.com/pathways/copy-of-gitlab-certified-associate-pathway) training
 * Take a look at our [Recommended LinkedIn Learning Courses Channel](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses). You will find courses recommended by our L&D Team as well as your GitLab Team Member peers. 
+* We want to know more about how you prefer to learn. Please take [this short survey](https://forms.gle/aoojWtLwRoTrqa3d9) so we can better meet the needs of your learning style. 
 
 
 ### Team Member Contributions 
@@ -131,4 +129,4 @@ We love that our team members have been contributing to GitLab Learn by making c
 
 ## Discussion 
 
-If you would like to discuss items related to this newsletter, please see the related [issue](). 
+If you would like to discuss items related to this newsletter, please see the related [issue](https://gitlab.com/gitlab-com/people-group/learning-development/newsletter/-/issues/12). 
