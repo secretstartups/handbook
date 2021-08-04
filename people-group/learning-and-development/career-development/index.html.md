@@ -266,19 +266,31 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. More will be added to this section as we go through the weeks of the month. 
 
 #### Week 1 
-- Topic: Career Development for GitLab Team Members
+
+**Topic: Career Development for GitLab Team Members**
+
 - [Career Development with Pattie Egan](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) 
 - [Career Development with Darren Murph](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) 
 
 #### Week 2 
-- Topic: Individual Growth Plan 
+
+**Topic: Individual Growth Plan** 
+
 - Career Development Interviews
 - Using the Individual Growth Plan Interview 
+- Using the Achievement Tracker 
+- Live Session: Individual Growth Plan 
 
 #### Week 3 
-- Topic: Having Career Conversations with Your Manager
+
+**Topic: Having Career Conversations with Your Manager**
+
 - Career Development Interviews
+- Live Session: Having Career Conversations with Your Manager 
 
 #### Week 4 
-- Topic: Having Career Conversations with Your Team Members
+
+**Topic: Having Career Conversations with Your Team Members**
+
 - Career Development Interviews
+- Live Session: Having Career Conversations with Your Team Members
