@@ -1,11 +1,40 @@
 ---
 layout: job_family_page
-title: "Director, Contracts and Legal Operations"
+title: "Legal Operations"
 ---
 
-The Director, Contracts and Legal Operations Job Family is responsible for managing the contract management team. At the direction of the Chief Legal Officer, the Director, Contracts and Legal Operations will standardize the contracting process and will be part of the tiered escalation process. This is a remote role.
-
 ## Levels
+
+### Legal Operations Manager
+
+The Legal Operations Manager reports to the Sr. Director, Contracts and Legal Operations.
+
+#### Legal Operations Manager Job Grade
+
+The Legal Operations Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Legal Operations Manager Responsibilities
+
+* Program and Project Manage key legal initiatives from inception and through launch and beyond to future iterations  - including the launch of new technologies and updated processes and procedures
+* Organize and track milestones and requirements for successful launch of legal and legal related initiatives across GitLab
+* Audit, organize and maintain GitLab Legal handbook content utilizing input from a variety of stakeholders
+* Assist in the management and tracking of GitLab Legal OKRs
+* Assist in the creation of training and enablement documentation for the GitLab Legal Team and entire GitLab organization
+* Audit the use of software tools with an eye towards continually improving how they are configured
+* Manage software tools for GitLab Legal team and GitLab organization, including creating approval workflows for access and provisioning user credentials
+* As needed, assist with project management of GitLab Legal projects and initiatives as they arise
+
+#### Legal Operations Manager Requirements
+
+* Minimum 5 years of relevant experience and a solid understanding of operations and process creation and implementation
+* Strong analytical ability and able to prioritize multiple projects 
+* Excellent problem solving, project management, attention to detail, interpersonal and organizational skills
+* Skilled in creating and optimizing efficient processes 
+* Customer (internal and external) centric mindset 
+* Ability to see around corners, predict and eradicate blockers, collaborate internally and externally 
+* Detail oriented, works well with iteration
+* Interest in, and ability to use various software technologies including GitLab and other legal and legal operations software tools
+* You share the GitLab values and work in accordance with those values
 
 ### Director, Contracts and Legal Operations
 
@@ -13,7 +42,7 @@ The Director, Contracts and Legal Operations reports to the [Chief Legal Officer
 
 #### Director, Contracts and Legal Operations Job Grade
 
-The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and reports to the Senior Director, Contracts and Legal Operations.
+The Director, Contracts and Legal Operations is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Director, Contracts and Legal Operations Responsibilities
 
