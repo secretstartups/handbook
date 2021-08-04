@@ -375,6 +375,10 @@ It is recommended for the Release Post Manager to review all content for quality
 1. Search the [Available now on GitLab](https://about.gitlab.com/releases/gitlab-com/) and preview pages for characters like `[`, `]`, `(`, and `)` to find malformed links.
 1. Copy/paste the content of those pages into a tool like Grammarly to find less obvious typos like duplicate words.
 
+#### Introduction
+
+The introduction content of the release post (found in `YYYY-MM-DD-gitlab-X-Y-released.html.md`)  is templated to be standard across all release posts, and should not be modified without approval from the Product Operations DRI. This file is linked at the top of the release post MR for reference and ease of editing. The release post manager will tag in the VP of Product Management to choose features to highlight in the introduction and to also designate a top feature.
+
 ### PM Contributors
 
 Product Managers are responsible for [raising MRs for their content blocks](#content-blocks) and ensuring they are reviewed by necessary contributors by the due date. These are mostly added by the Product Managers, each filling up the sections they are [accountable for](/handbook/product/categories/#devops-stages), but anyone can contribute, including community contributors. Content blocks should also be added for any epics or notable community contributions that were delivered.
