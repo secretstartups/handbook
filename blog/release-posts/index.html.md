@@ -156,7 +156,7 @@ Remember - the goal of the shadow is to get them engaged and aware of the proces
 - [Communicate](#communication) directly with product managers using [#product](https://gitlab.slack.com/archives/C0NFPSFA8) on Slack as needed to field questions that come up from viewers of the release post blog once it is live on the 22nd
 - If you need additional support in engaging with the community, the Developer Evangelism team ([#developer-evangelism](https://gitlab.slack.com/archives/CMELFQS4B) on Slack) is available to support on [release days](/handbook/marketing/community-relations/developer-evangelism/hacker-news/#release-days)
 - Making sure the auto sorting of secondary features by title (alpha) and stage generally looks good or is revised if need be [Content Reviews](#content-reviews)
-- Work with PMs and others as needed  to make sure any external blogs they reference go live before the release post blog gets published on the 22nd.
+- Work with PMs and others as needed to make sure any external blogs they reference in their content blogs go live before the release post blog gets published on the 22nd.
 - Making sure the Technical Writer is aware if release post items are added or removed after the 18th
 - Informing the social team that the release post has been published and it's time to schedule social media posts
 
