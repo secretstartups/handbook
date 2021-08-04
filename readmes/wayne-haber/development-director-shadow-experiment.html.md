@@ -29,23 +29,23 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 ### How does the shadowing work?
 
 * The shadow will participate remotely.
-* You can be a shadow for as little as one week or as much as two weeks in a six month period.  The weeks do not need to be sequential.
+* You can be a shadow for as little as one week or as much as two weeks in a six-month period.  The weeks do not need to be sequential.
 * Join all meetings on my calendar on your shadow week that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
-* If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to.
-* If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
-* You are encouraged to take notes on what is being said in meeting documents that you have edit rights to (which will be most of them).  The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
-* You may be asked to drop from a meeting when something confidential needs to be shown or discussed
+* If you are so inclined, review all documents, issues and merge requests linked to the meetings that you have access to.
+* If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or grant you temporary access to the document.
+* You are encouraged to take notes in meeting documents.  The purpose of taking notes is to collect main points and outcomes, not to record a transcript of the conversation.
+* A meeting attendee may ask you to drop from the meeting before something confidential is covered.
 * Feel free to ask me questions via Slack in `#wayne_shadow_program`, after a meeting concludes, via scheduling a meeting with me, or via an ad-hoc Zoom discussion.
-* If you are so inclined, review my [GitLab history](https://gitlab.com/whaber) and Slack messages I have written in public channels.
-* Shadows can choose to be aware of the current time and providing timekeeping in meetings. This is for meeting participants to comfortably wrap up the meeting.
-* If you notice Wayne interrupting speakers, speaking too quickly, or not pausing often enough, please let him know.  These are things he is working on improving.
-* Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are a small number of attendees and/or the meeting is not public inside GitLab).  Tell participants who you are, what your normal job is, and that you are a shadow in this meeting. 
+* Review my [GitLab history](https://gitlab.com/whaber) and Slack messages I have written in public channels.
+* Shadows can choose to be aware of the current time and providing timekeeping in meetings. Doing timekeeping allows meeting participants to wrap up the meeting before the meeting end time comfortably.
+* Please let Wayne know if you notice him interrupting speakers, speaking too quickly, or not pausing often enough. These are things he is working on improving.
+* Feel free to introduce yourself in a meeting when you feel this is appropriate (especially when there are only a few attendees and the meeting is not public inside GitLab). Tell participants who you are, what your regular job is, and that you are a shadow in this meeting.
 * Even in meetings where you are unfamiliar with the subject matter, there is an opportunity to learn, document, and shape the evolution of GitLab's [values](/handbook/values/). 
 
 ## Process for non-shadow meeting attendees
 
-* If a meeting is public inside GitLab, shadows will simply attend the meeting as a regular participant
-* Some meetings will discuss confidential information. In those cases, I will ask the meeting owner and/or participants if they are ok with a shadow being in the meeting (and if they are ok with the shadow having read and/or read/write access to the meeting notes document).
+* If a meeting is public inside GitLab, shadows will attend the meeting as a regular participant
+* Some meetings will discuss confidential information. In those cases, I will ask the meeting attendees if they are ok with a shadow being in the meeting (and if they are ok with the shadow having read or read/write access to the meeting notes document).
 
 ## What this program is not
 
