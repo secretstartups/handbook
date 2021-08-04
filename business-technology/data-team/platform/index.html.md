@@ -376,15 +376,15 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 | common/prod/ | prod.common | Production fact/dim tables. | Yes |
 | common_mapping/ | prod.common_mapping | Contains mapping, bridge, or look-up tables | Yes |
 | common_mapping/prep/ | prod.common_mapping | Preparation tables for mapping, bridge, and look-up tables | Yes |
-| marts/ | prod.<marts> | Contains mart-level data. | Yes |
+| marts/ | prod.`marts` | Contains mart-level data. | Yes |
 | prep/ | prep.preparation | General preparation models for production. | No. |
 | legacy/ | prod.legacy | Contains models built in a non-dimensional manner | Yes |
-| sources/ | prep.<source> | Contains source models. Schema is based on data source | No |
-| workspaces/ | prod.workspace_<workspace> | Contains workspace models that aren't subject to SQL or dbt standards.  | Yes |
-| .. | prod.restricted_`domain`_common | Top-level folder for restricted facts and dimensions. Equivalent of the regular common schema, but for restricted data. | Yes |
-| .. | prod.restricted_`domain`_common_mapping | Contains restricted mapping, bridge, or look-up tables. Equivelement of regular common mapping schema, but for restricted data. | Yes |
-| .. | prod.restricted_`domain`_common_mart_sales | 
-| .. | prod.restricted_`domain`_legacy | Contains restricted models built in a non-dimensional manner. Equivalent of the normal legacy schema, but for restricted data). | Yes |
+| sources/ | prep.`source` | Contains source models. Schema is based on data source | No |
+| workspaces/ | prod.workspace_`workspace` | Contains workspace models that aren't subject to SQL or dbt standards.  | Yes |
+| common/restricted | prod.restricted_`domain`_common | Top-level folder for restricted facts and dimensions. Equivalent of the regular common schema, but for restricted data. | Yes |
+| common_mapping/resticted | prod.restricted_`domain`_common_mapping | Contains restricted mapping, bridge, or look-up tables. Equivelement of regular common mapping schema, but for restricted data. | Yes |
+| marts/restricted | prod.restricted_`domain`_common_`marts` | Yes | 
+| legacy/restricted | prod.restricted_`domain`_legacy | Contains restricted models built in a non-dimensional manner. Equivalent of the normal legacy schema, but for restricted data). | Yes |
 
 #### Static
 
