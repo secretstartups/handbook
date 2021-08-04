@@ -24,9 +24,9 @@ GitLab, Inc. is a global company with its headquarters in the U.S. This means th
 
 *Who is collecting your personal data (who is the data controller)?*
 
-The GitLab entity that is a party to your employment contract or contract for services or otherwise employs you will be the data controller of your personal data.  The following are the GitLab entities that act as controller:  GitLab, Inc., GitLab, LLC., GitLab BV, GitLab GmbH, GitLab, LTD, GitLab PTY Ltd, GitLab Canada Corp, GitLab IT BV, and other GitLab subsidiaries throughout the globe (collectively "GitLab").
+The GitLab entity that is a party to your employment contract or contract for services or otherwise employs you will be the data controller of your personal data.  The following are the GitLab entities that act as controller:  GitLab, Inc., GitLab, LLC., GitLab BV, GitLab GK, GitLab GmbH, GitLab PTY Ltd, GitLab Canada Corp, GitLab IT BV, GitLab UK, Ltd., GitLab Ireland Ltd., GitLab Korea Limited, GitLab Singapore Pte Ltd., GitLab France S.A.S. and other GitLab subsidiaries throughout the globe (collectively "GitLab").
 
-GitLab affiliates may act as processors on behalf of other GitLab affiliates and/ or controllers.  Furthermore, GitLab, its affiliates and subsidiaries participate in a group-wide IT system in order to harmonize GitLab’s IT infrastructure and its use (the “System”). The System also may hold data on all employees, workers, individual contractors and contingent workers ("Staff"). Insofar the System serves to improve and harmonize most of the human resources (“HR”) processes within GitLab. GitLab, Inc. in the US is responsible for the System.
+GitLab affiliates may act as processors on behalf of other GitLab affiliates and/ or controllers.  Furthermore, GitLab, its affiliates and subsidiaries participate in a group-wide IT system in order to harmonize GitLab’s IT infrastructure and its use (the “System”). The System also may hold data on all employees, workers, individual contractors and contingent workers ("Staff"). Insofar the System serves to improve and harmonize most of the human resources (“HR”) processes within GitLab. GitLab, Inc. in the U.S. is responsible for the System.
 
 *Applicability of Other GitLab Privacy Policies*
 
@@ -61,6 +61,7 @@ Examples of sensitive personal information include:
 - Political/religious beliefs.
 - Social security or other taxpayer/government issued identification numbers.
 - Financial information.
+- National identification number or passport information.
 - Health or medical information, including genetic information.
 - Criminal records.
 - And in some regions, such as the European Union, trade union membership.
@@ -102,7 +103,7 @@ Where permitted by law and applicable we may collect the results of credit and c
 
 - Information captured on security systems and key card entry systems.
 
-- Voicemails, e-mails, correspondence, documents, and other work product and communications created, stored or transmitted using our networks, applications, devices, computers, or communications equipment.
+- Voicemails, e-mails, correspondence, documents, and other work product and communications created, stored or transmitted for professional or job related purposes using our networks, applications, devices, computers, or communications equipment.
 
  - Date of resignation or termination, reason for resignation or termination, information relating to administering termination of employment (e.g. references).
 
