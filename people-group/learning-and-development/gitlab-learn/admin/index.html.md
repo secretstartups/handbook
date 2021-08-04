@@ -705,13 +705,15 @@ After a team member has completed the Access Request process for any elevated pe
 
 ## Reporting
 
-EdCast uses a tool called EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
+We use EdGraph, hosted by Domo, to provide pre-built and custom reports for users on GitLab Learn. EdGraph is powered by data sets that are stored in a system called [EdData](https://docs.edcast.com/docs/eddata). This documentation is important to review to understand what variables and attributes are captured in the data lake, and how you can access and combine these points.
 
 ### EdGraph Key Dashboards
 
 EdGraph comes with 6 dashboards, pre-populated with 5-10 reports each. These reports are some of the most commonly requested data arrangements requested by EdCast customers. These reports can be filtered, copied, saved, and shared and are a great jumping point for customization of existing data sets.
 
 Each dashboard and the corresponding reports in that dashboard can be found on the [EdGraph documentation page](https://docs.edcast.com/docs/edgraph)
+
+EdGraph also has a [CEP Reports dashboard](https://edcast-536.domo.com/page/1847096296) that includes reports for the CEP/Marketplace systems.
 
 ### GitLab Custom Dashboards
 
@@ -720,12 +722,15 @@ EdGraph has the option of building custom dashboards to organize data and report
 Below is a list of current custom dashboards used by the LXP team:
 
 1. [Field Sales Reports](https://edcast-536.domo.com/page/1094270617)
-1. [GitLab Learn Metrics: All Users](https://edcast-536.domo.com/page/2188975)
+1. [GitLab Learn Key Reports - All Users](https://edcast-536.domo.com/page/2188975)
 1. [DIB Certification Completions](https://edcast-536.domo.com/page/2098296181)
-1. [Key L&D Reports](https://edcast-536.domo.com/page/1036257110)
-1. [Executive Insights](https://edcast-536.domo.com/page/622335069)
+1. [GitLab Learn Key Reports - Team Members](https://edcast-536.domo.com/page/1036257110)
+1. [Product Management Channel](https://edcast-536.domo.com/page/742179426)
+1. [Legal Team Training Reports](https://edcast-536.domo.com/page/196772994)
+1. [PEA Team Reports](https://edcast-536.domo.com/page/1118869179)
+1. [Technical Marketing Course Completions](https://edcast-536.domo.com/page/1575621296)
 
-Please note that in order to view the above dashboards, you must have both access to EdGraph and be added to each dashboard. Please work with the L&D team to process an access request if you'd like to view reports in EdGraph.
+To access to any of the above reports, please [request EdGraph access](/handbook/people-group/learning-and-development/gitlab-learn/admin/#how-to-get-edgraph-access)
 
 ### How to get EdGraph Access
 
@@ -733,13 +738,18 @@ Follow the steps outlined in the handbook to open an [individual access request 
 
 Once processed, you'll be able to be added as a collaborator on reports in EdGraph. Please work with the L&D team to be sure the essential reports are shared to your account.
 
+### Useful Training
+
+1. This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
+1. [2021-04-02 EdGraph training](https://drive.google.com/file/d/1AIqtuWA3ttErKT-9iZXnpbthSfRLcWg_/view?usp=sharing) - building custom reports, drilling down into data sets, sharing dashboards, and general Q&A.
+
 ### Building Custom Reports
 
 #### Using key dashboards to build customs reports
 
 Existing reports on EdGraph key dashboards can be filtered and saved to create and share custom, specialized reports. Recorded examples of this functionality are included below.
 
-{Video training coming soon}
+[Video Training: How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
 
 ##### Using data sets to build custom reports
 
@@ -804,20 +814,78 @@ This training video demonstrates some of the stylized additions you can make to 
 1. Shared users now have access to view reports or dashboards shared with them. Note that the LXP implementation team are `editors` in EdGraph, but other users are `participants`. Participants cannot edit or manipulate data, they can only drill down and see the graphs and results you've curated.
 
 
-### Recorded trainings
+### L&D Monthly Reporting
 
-#### Office Hours Recordings
+Outlined below are the steps for completing the monthly report in the [FY22 GC Metrics sheet](https://docs.google.com/spreadsheets/d/1NxY5VWJlsQsOWmQrNAGPr7IIJ2Sa8qixXY7Et0cj45k/edit#gid=0)
 
-1. This [Google Drive](https://drive.google.com/drive/u/1/folders/1RMqJqYNwO2KMjnDKb5FwNxvwDHCcmbk6) contains recordings of office hours with EdCast that have a heavy focus on reporting using EdGraph and are great training resources for team members looking to build and access reports using the tool.
-1. [2021-04-02 EdGraph training](https://drive.google.com/file/d/1AIqtuWA3ttErKT-9iZXnpbthSfRLcWg_/view?usp=sharing) - building custom reports, drilling down into data sets, sharing dashboards, and general Q&A.
+**Report 1: % team members utilizing the LXP**
 
-#### L&D Monthly Reporting
+1. Divide [current team members in the GitLab internal team members group](https://gitlab.edcast.com/teams/gitlab-internal-team-members-everyone) by [total team members](https://about.gitlab.com/company/team/)
 
-The following private videos can be viewed by team members using the GitLab Unfiltered account for training on how to create reports using EdGraph and Domo.
+**Report 2: % team members as active users on LXP**
 
-1. [How L&D uses custom dashboards and reports in GitLab Learn](https://youtu.be/xQwhmX_hRYg)
-1. [How to create a custom report using EdGraph](https://youtu.be/ofqAjoUkJuM)
-1. [Monthly L&D reports](https://youtu.be/vS0XuxkAH_E) - this training walks through how our [Learning and Development Key Reports](https://edcast-536.domo.com/page/1036257110) is used to fill in monthly data in our [FY22 GC Metrics sheet](https://docs.google.com/spreadsheets/d/1NxY5VWJlsQsOWmQrNAGPr7IIJ2Sa8qixXY7Et0cj45k/edit#gid=0)
+1. Check [actively engaged team members by month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1712202093) for past month total
+1. Divide past month total / [current team members in the GitLab internal team members group](https://gitlab.edcast.com/teams/gitlab-internal-team-members-everyone)
+
+Note: An "Actively Engaged User" represents someone who has both signed in and performed at least one activity listed in EdCast [Performance Metrics](https://docs.edcast.com/docs/performance-metrics).
+
+**Report 3: % of Team Members enrolled (but not completed) in 1 course**
+
+This report currently **cannot be generated via the EdGraph reporting tool**.
+
+The limitation casued by reporting in EdGraph is due to the fact that the `Overall Assignment Progression` report shows not started/started/completed data for **assigned content only**. While this metric would provide insight into completion of compliance courses, it will not provide information about how many team members are self-selecting courses based on their career development goals and interests. Based on these limitations, the L&D team will leave this metric unreported until we can find a solution within EdGraph.
+
+Ideal report requirements:
+
+1. `GitLab Internal` = `t` or use of the Internal Team Members group
+1. Sort by `Content Stucture` to show only `Journeys` and `Pathways`
+1. Sort by `Performance` to include `started` (we don't need to include `completed` here as that is captured in other reports)
+1. Enable date range to narrow report on a monthly basis
+1. Filter to show total users who appear in this data set at least 1 time - ideally filter by user to show a count of how many Pathways or Journeys they have `started` but not completed in for the specific month.
+
+**Report 4: Team Members who completed 1+ course, all time**
+
+1. Open [team members who complete 1+ course all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1671460122)
+1. Click `edit in analyzer`
+1. Confirm filters: 
+     - `GitLab Internal` = `t`
+     - `User Full Name` = `Select All` then hit `Apply`
+1. Set date range to `All Time`
+1. Click `Save` and exit the `analyzer`
+1. Export as a CSV file
+1. `Rows` value - 1 = team members who completed 1+ course all time
+
+Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
+
+**Report 5: Team Members who completed 1+ course, per month**
+
+1. Open [team members who complete 1+ course all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1671460122)
+1. Click `edit in analyzer`
+1. Confirm filters: 
+     - `GitLab Internal` = `t`
+     - `User Full Name` = `Select All` then hit `Apply`
+1. Set date range to `Between` then choose first and last days of the desired month
+1. Click `Save` and exit the `analyzer`
+1. Export as a CSV file
+1. `Rows` value - 1 = team members who completed 1+ course in the specified month
+
+Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
+
+**Report 6: Total courses completed by team members**
+
+1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361)
+1. Add total completions for Pathway and Journey for the desired month
+
+Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
+
+**Report 7: Courses completed by non-team members**
+
+1. Open [total courses completed by all users all time/per month report](https://edcast-536.domo.com/page/2188975/kpis/details/863821097
+)
+1. Add total completions for Pathway and Journey for the desired month
+1. Subtract same month value from [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361) to exclude team members from this metric
+
+{might be able to remove step 3 if I can confirm how to sort by internal on the non-team member report - right now it shows no data}
 
 #### Other training
 
