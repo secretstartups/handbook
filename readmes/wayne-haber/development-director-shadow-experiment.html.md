@@ -23,7 +23,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
 1. You have been with GitLab for at least one month
 1. Check the schedule below for weeks that are `Open` for shadowing.
-1. Confirm with your manager that they are ok with you participating
+1. Obtain written approval from your manager that they are ok with you participating, as your workload will need to be reduced for the shadow program duration.
 1. Add yourself to the table for the weeks in which you want to shadow via an MR
 
 ### How does the shadowing work?
@@ -55,6 +55,7 @@ It is not a performance evaluation or a step for a future promotion.
 
 * Mentoring and learning opportunities for the shadow
 * Reverse mentorship learning for Wayne
+* Career development exploration
 
 ## Preparing for the program
 
