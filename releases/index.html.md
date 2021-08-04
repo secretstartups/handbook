@@ -234,7 +234,7 @@ from the regular release
 
 #### Labels indicating inclusion in upcoming Self-managed release
 
-As a merge request is included in self-managed release candidates (RC), it will receive the
+As a merge request is included in monthly self-managed release candidates (RC), it will receive the
 `released::candidate` label when the release candidate it is included in is deployed to
 [pre.gitlab.com]. See ["What is a release candidate and when are they created?"](#what-is-a-release-candidate-and-when-are-they-created)
 for more information on release candidates. This label indicates that the MR will most
@@ -295,11 +295,9 @@ channel.
 
 ### How can I determine if my merge request will make it into the monthly release?
 
-When we create release candidates, the [Release Tools project][release-tools]
-will post a comment on the merge requests included in the release candidate
-(unless they were included in a prior release candidate). When you see this
-comment you will know the merge request will be included in the release, unless
-it is reverted in a later release candidate.
+When we create release candidates, and when we create a new release package,
+the [Release Tools project][release-tools] will
+[add a label to the merge requests included](#labels-indicating-inclusion-in-upcoming-self-managed-release).
 
 For more information, refer to the [Auto-deploy
 status](https://gitlab.com/gitlab-org/release/docs/-/blob/master/general/deploy/auto-deploy.md#auto-deploy-status)
