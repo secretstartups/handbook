@@ -316,8 +316,8 @@ This is the list of topics that will be the focus in FY22. Each skill of the mon
 - June: Coaching
 - July: Culture of Feedback
 - August: Career Development
-- September: [topic TBD]
-- October: [topic TBD]
+- September: Manager of One
+- October: Emotional Intelligence
 - November: [topic TBD]
 - December: [topic TBD]
 - January: [topic TBD]
