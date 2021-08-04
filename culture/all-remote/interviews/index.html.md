@@ -17,7 +17,7 @@ twitter_creator: "@gitlab"
 
 ## Introduction
 
-On this page, we're curating a list of questions that we at GitLab appreciate hearing answers to from others in remote organizations. We'll also address a popular question: "How do you interview remotely?"
+On this page, we're addressing a popular question: "How do you interview remotely?" We're also curating a list of questions that we at GitLab appreciate hearing answers to from others in remote organizations. 
 
 ## How do you interview remotely?
 
@@ -25,7 +25,7 @@ On this page, we're curating a list of questions that we at GitLab appreciate he
 
 Whether you're wanting to learn how to hire remotely, or just wanting to know how to get hired for a remote position, it helps to know how you should prepare for a remote interview. You only get one chance to make a first impression, so keep these tips in mind.
 
-## How do I assess culture fit remotely?
+### How do I assess culture fit remotely?
 
 For hiring teams, a common challenge is this: "How do I assess culture fit remotely?"
 
@@ -48,7 +48,23 @@ Conducting a remote interview is all about preparation, and most importantly, se
 1. **Have questions prepared and in front of you ahead of time.** Owl Labs has prepared [this list of remote questions](https://www.owllabs.com/blog/remote-job-interview-questions) if you need some inspiration.
 1. **Share the process and documentation with others.** Make templates and processes available to other interviewers so that everyone communicates effectively.
 
-### How to prepare for a remote job interview
+### Remote job seekers and candidates
+
+When you're searching for a remote career opportunity, it can be daunting to know where to start. We've curated a [list of companies and job boards](/company/culture/all-remote/jobs/) to help narrow your search, as well as a [list of qualities to look for](/company/culture/all-remote/evaluate/) as you're evaluating a potential employer.
+
+#### How to showcase your remote expertise
+
+With many companies embracing remote work and hiring remotely, it's important to highlight your remote skills just like you would your other qualifications for the role. You can certainly incorporate this into the interview process, but you also may want to consider updating your resume. 
+
+The team at [We Work Remotely](https://weworkremotely.com/blog) addressed the question, "Should your resume change after the pandemic?" in [an Instagram post](https://www.instagram.com/p/CSFPMpaDJBr/?utm_medium=copy_link) with these five tips:
+
+1. **Showcase remote work skills:** Don't only focus on tools, explain how you've been able to collaborate online, and how comfortable you are with asynchronous communication. If you transitioned to remote work, explain how you did it successfully!
+1. **Focus on the results you've brought to your past jobs:** When your boss and coworkers can't see you, the only thing they can know about your work is the results you produce. Add what you've been able to accomplish in the past, numbers and processes are important to mention.
+1. **Don't be afraid to explain more if you have work gaps:** The pandemic resulted in many jobs lost. If you lost your job or had to quit for personal reasons, it's important to explain it (as long as you're comfortable). Take this as an opportunity to explain if you learned something during this time, if you leveled up a skill, or if you worked on side projects.
+1. **Show that you're more than just a worker:** Things have changed and companies are interested in knowing that you have a life outside of work. Add your interests or hobbies to your resume. Bonus points if you can explain how those help you be a better worker.
+1. **Keep your location general, or tweak it depending on the job you're applying to:** Your complete address is irrelevant, get rid of it! If the job you're applying to requires a specific location or time zone, be sure to add it to your resume. 
+
+#### How to prepare for a remote job interview
 
 Remote interviews are similar to in-person interviews in many ways: You're still trying to make a good impression and communicate your strengths, you're just not doing it from the same room. One of the ways that remote interviews can go wrong is if you don't take into account your environment and let yourself become distracted. Preparation is just as important in a remote interview as an in-person interview.
 
