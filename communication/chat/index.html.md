@@ -64,14 +64,6 @@ Group channels (prefixed with a `g_`) correspond to a [DevOps Stage group](/hand
 * **[`#g_create_source-code`](https://gitlab.slack.com/archives/g_create_source-code)**: Channel for the [Source Code](/handbook/product/categories/#source-code-group) development group.
 * **[`#g_geo`](https://gitlab.slack.com/archives/g_geo)**: Dedicated to the [Geo group](/handbook/engineering/development/enablement/geo/).
 
-#### Category Channels (c_)
-
-Category channels (prefixed with a `c_`) correspond to a [DevOps Stage group category](/handbook/product/categories/#hierarchy).
-
-**Example**
-
-* **[`#c_foundations`](https://gitlab.slack.com/archives/c_foundations)**: Channel for the [FE/UX Foundations](/direction/create/ecosystem/frontend-ux-foundations/) category within Ecosystem.
-
 #### Location Channels (loc_)
 
 These channels are used to help GitLab team-members who are in the same general region of the world to talk about get-togethers and other location-specific items. They are also instrumental if you're going to be visiting somewhere else in the world - there might be a GitLab team-member or two nearby! Feel free to join the channel temporarily to chat with GitLab team-members who live there, and see if there is an opportunity to leverage the [visiting grant](/handbook/incentives/#visiting-grant) to add value to your trip.
