@@ -386,13 +386,6 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 | .. | prod.restricted_`domain`_common_mart_sales | 
 | .. | prod.restricted_`domain`_legacy | Contains restricted models built in a non-dimensional manner. Equivalent of the normal legacy schema, but for restricted data). | Yes |
 
-
-	RESTRICTED_FINANCE_COMMON
-	RESTRICTED_FINANCE_COMMON_MAPPING
-	RESTRICTED_FINANCE_COMMON_MART_SALES
-	RESTRICTED_FINANCE_LEGACY
-
-
 #### Static
 
 For data warehouse use cases that require us to store data for our users without updating it automatically with dbt we use the `STATIC` database. This also allows for analysts and other users to create their own data resources (tables, views, temporary tables). There is a sensitive schema for sensitive data within the static database. If your use case for static requires the use or storage of sensitive data please create an issue for the data engineers.
