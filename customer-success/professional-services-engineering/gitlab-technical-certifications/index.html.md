@@ -37,25 +37,28 @@ The Associate level is a prerequisite for the Specialist level, and the Speciali
 
 ##### Flow
 
-The following diagram shows the journey from Associate through Professional for the GitLab Certified DevOps Professional certification.
+The following diagram shows the journey from Associate through Professional for the GitLab Certified DevOps Professional certificate.
 
 ```mermaid
-graph LR;
-  
-  A((GitLab Certified Associate))-->B([GitLab Certified CI/CD Specialist]);
-  style A fill:#bbf,stroke:#380D75,stroke-width:2px
-  style B fill:#bbf,stroke:#380D75,stroke-width:2px
-  style C fill:#bbf,stroke:#380D75,stroke-width:2px
-  style D fill:#bbf,stroke:#380D75,stroke-width:2px
-  style E fill:#bbf,stroke:#380D75,stroke-width:2px
-  A((GitLab Certified Associate))-->C([GitLab Certified Project Management Specialist]);
-  A((GitLab Certified Associate))-->D([GitLab Certified Security Specialist]);
-  E((GitLab Certified DevOps Professional))
-  B --> E
-  C--> E
-  D--> E
-```
 
+  flowchart LR
+    subgraph a [Specialist Curriculum]
+      cd_ci>GitLab CI/CD<br/> Specialist Certification]
+      pgm>GitLab Progam Management<br/> Specialist Certification]
+      sec>GitLab Security<br/> Specialist Certification]
+    end
+    gca>GitLab Certified<br/>Associate Certification]-->a
+    a-->devops{GitLab DevOps<br/> Professional Certificate}
+
+    classDef orange fill:#f96,stroke:#333,stroke-width:2px;
+    classDef fuschia fill:#FCB,stroke:#333,stroke-width:2px;
+    classDef burnt fill:#FFA,stroke:#333,stroke-width:2px;
+    class gca orange
+    class cd_ci fuschia
+    class pgm fuschia
+    class sec fuschia
+    class devops burnt
+```
 ### Why certification?
 
 #### For employers
