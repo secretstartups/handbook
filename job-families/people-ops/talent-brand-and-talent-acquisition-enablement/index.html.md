@@ -5,17 +5,17 @@ title: "Talent Brand and Talent Acquisition Enablement"
 
 ## Talent Brand 
 
-## levels
+## Levels
  
-### Senior Talent Brand Manager
+### Talent Brand Program Manager
  
-The Senior Talent Brand Manager reports to the Director of Talent Brand & Talent Acquisition Enablement. 
+The Talent Brand Program Manager reports to the Senior Director of Talent Brand & Talent Acquisition Enablement. 
  
-#### Senior Talent Brand Manager Job Grade
+#### Talent Brand Program Manager Job Grade
  
-The Senior Talent Brand Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Talent Brand Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
  
-#### Senior Talent Brand Manager Responsibilities
+#### Talent Brand Program Manager Responsibilities
  
 - Build talent brand programs, operationalize them, and measure their success
 - Collaborate with key stakeholders to develop GitLab's talent brand
@@ -29,9 +29,9 @@ The Senior Talent Brand Manager is a [grade 7](/handbook/total-rewards/compensat
 - Define our approach for employer awards and lists that will help GitLab be recognized as an employer of choice; complete applications and manage related internal surveys for these awards
 - Create recruiter enablement tools to assist the recruiting team in sharing the GitLab talent brand with candidates
  
-### Senior Talent Brand Manager Requirements
+### Talent Brand Program Manager Requirements
  
-- Bachelor’s degree and at least 3 years of Marketing or Human Resources experience
+- Bachelor’s degree and 3+ years of Marketing or Human Resources experience
 - Prior marketing, brand, and social media experience (preferably within recruiting or talent brand)
 - Demonstrated ability to deliver targeted recruitment marketing, social media, and employee value proposition building strategies
 - A natural storyteller with excellent narration and writing skills
@@ -49,17 +49,17 @@ The Senior Talent Brand Manager is a [grade 7](/handbook/total-rewards/compensat
 
 ## Levels 
 
-### Progam Manager, Enablement
+### Program Manager, Enablement
 
-The Progam Manager, Enablement reports to the Manager, Global Enablement.
+The Program Manager, Enablement reports to the Manager, Global Enablement.
 
-#### Progam Manager, Enablement Job Grade
+#### Program Manager, Enablement Job Grade
 
 The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Progam Manager, Enablement Responsibilities
+#### Program Manager, Enablement Responsibilities
 
-The Progam Manager, Enablement Responsibilities fall into four distinct buckets:
+The Program Manager, Enablement Responsibilities fall into four distinct buckets:
 
 * Operations
    * Work with the Manager, Enablement and systems/tools team to develop bespoke reporting for the TA function
@@ -68,7 +68,7 @@ The Progam Manager, Enablement Responsibilities fall into four distinct buckets:
    * Understand end-to-end TA processes and employ a “continuous improvement & iteration” rhythm 
    * Manage our procurement issues and certain external vendor relationships as it pertains to billing, action planning etc
 * Learning & Development
-   * Partner with the Senior Manager, TA Strategic Programs to develop the GitLab TA playbook (pitch decks, intake sessions, closing styles) and the GitLab candidate assessment framework
+   * Partner with TA leadership to develop the GitLab TA playbook (pitch decks, intake sessions, closing styles) and the GitLab candidate assessment framework
    * Own the recruiting team onboarding program
    * Develop learning paths for TA by level
    * Partner with the Head of TA to define a level-based competency framework
@@ -82,7 +82,7 @@ The Progam Manager, Enablement Responsibilities fall into four distinct buckets:
    * Play a part in future growth conversations, develop a strong relationship with finance to be able to understand the future plan for the org and how TA can play its part it fuelling the growth of the organization 
    * With a continued focus on Diversity, inclusion and belonging, the Enablement Analyst will ensure inclusivity as we establish processes and policies for our TA team members and candidates alike.
 
-#### Progam Manager, Enablement Requirements
+#### Program Manager, Enablement Requirements
 
 * Experience working in a fast-paced environment
 * A strong track record of successful project execution and strong project management skills
