@@ -482,6 +482,14 @@ We strive to set the clearest possible expectations with regard to performance a
 
 People Operations tracks the [Promotion Rate](/handbook/people-group/people-group-metrics/#promotion-rate) for the company overall and each division separately. The target is 12% annually. This metric is treated as an organizational health indicator for the quality of decisioning making our leaders are employing, and for the fairness in our process. In FY21 Engineering was exactly on its target of 12%. So we would not currently consider blocking any individual promotion based on the overall rate. If that were to change, and Engineering became an outlier, we would reevaluate. Here is the company-wide [process](/handbook/people-group/promotions-transfers/#bamboohr-promotion-approval-process).
 
+### Staff+ Promotions
+
+Staff+ promotions are not based solely on performance/merit but are also constrained by [opportunity](#opportunity-1),  
+[Staff+ IC Gearing Ratios](#staff-ic-gearing-ratios), and company need. As noted in 
+[promotions](/handbook/people-group/promotions-transfers/) promotion documents for Staff+ should include a section 
+that addresses how the role and individual address these requirements.
+
+
 #### Transfer Options
 
 The following table outlines some of the possible lateral transfer options at any level of the role, but don't feel limited by this table. Compa Ratio might differ per individual to determine leveling for each of the positions listed.
