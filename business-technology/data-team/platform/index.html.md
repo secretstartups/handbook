@@ -381,6 +381,17 @@ The source of truth for this is in the [`dbt_project.yml` configuration file](ht
 | legacy/ | prod.legacy | Contains models built in a non-dimensional manner | Yes |
 | sources/ | prep.<source> | Contains source models. Schema is based on data source | No |
 | workspaces/ | prod.workspace_<workspace> | Contains workspace models that aren't subject to SQL or dbt standards.  | Yes |
+| .. | prod.restricted_`domain`_common | Top-level folder for restricted facts and dimensions. Equivalent of the regular common schema, but for restricted data. | Yes |
+| .. | prod.restricted_`domain`_common_mapping | Contains restricted mapping, bridge, or look-up tables. Equivelement of regular common mapping schema, but for restricted data. | Yes |
+| .. | prod.restricted_`domain`_common_mart_sales | 
+| .. | prod.restricted_`domain`_legacy | Contains restricted models built in a non-dimensional manner. Equivalent of the normal legacy schema, but for restricted data). | Yes |
+
+
+	RESTRICTED_FINANCE_COMMON
+	RESTRICTED_FINANCE_COMMON_MAPPING
+	RESTRICTED_FINANCE_COMMON_MART_SALES
+	RESTRICTED_FINANCE_LEGACY
+
 
 #### Static
 
