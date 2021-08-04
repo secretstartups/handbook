@@ -29,11 +29,11 @@ For a session you would normally deliver in 1 day onsite, break it up into two 3
 
 #### Tip 4: Ask frequent questions
 
-At least every 10-15 minutes, ask attendees a question they must respond to. You can ask them as a group and wait for volunteers to answer. But if you’re not getting a variety of attendees participating in providing responses to your questions, your next go-to approach is to randomly call on a participant individually to answer a question. This will motivate everyone to pay attention so that they are prepared when you pick on them.
+At least every 10-15 minutes, ask attendees a question they must respond to. You can ask them as a group and wait for volunteers to answer. But if you’re not getting a variety of attendees participating in providing responses to your questions, your next go-to approach is to randomly call on a participant individually to answer a question. This will motivate everyone to pay attention so that they are prepared when you pick on them. You might also consider employing the "attention getters" meaning smartphones, and have a session manager send questions as text messages to the learners' phones. In this way, the learners have learning collateral with them during and after the class session.
 
 #### Tip 5: Encourage attendees to ask questions
 
-At the beginning of the session show attendees how to ask questions using your video conferencing tools, whether that is virtually raising their hand or submitting questions using a Chat or a Q&A tool. Take frequent designated Q&A breaks at least once or twice per 60 minutes of instruction.
+At the beginning of the session show attendees how to ask questions using your video conferencing tools, whether that is virtually raising their hand or submitting questions using a Chat or a Q&A tool. Take frequent designated Q&A breaks at least once or twice per 60 minutes of instruction. In terms of the kind of questions you elicit, you may want to get to a point where the audience is not regurgitating the past. Rather, your learners begin to intuit what might be possible, and in that way, they begin to project their intuitions about the concept into the future. This type of engagement by the learners creates positive instructional opportunities, which can can reduce learners' resistance to public speaking and improve observable attentiveness (e.g. smiling, nodding, shaking the head, using reactions, and chatting to everyone with questions).
 
 #### Tip 6: Have a team member join as a moderator
 
@@ -99,3 +99,11 @@ Be sure to practice ahead of time with pinning your video conferencing Chat or Q
 
 1.  If your video conferencing platform offers multiple tools for communicating with participants -- for example Chat and Q&A -- consider using just one of these tools instead of both. This will reduce complexity and make it easier for participants to have all communication in one place. Zoom Webinars allows you to restrict Chat to panelist usage so that attendees can only use the Q&A tool for communicating their questions.
 1. Use a mixture of lecture, questions, discussions, demos, and lab activities. Don't rely on just one technique -- participants can become bored when too much time is spent using one method. On the other hand, avoid too much mixing or alternating too frequently between techniques, which can become disjointed or confusing for participants. It's all about finding the right balance for your audience.
+
+#### Share the content, not your screen
+
+Adhering to the F-shaped pattern for reading, it makes little sense to share your full screen. This UX rule may affect the way in which presentation content is developed: minimize the amount of right, white space that the leaners need to see. Also, when presenting content, employ the F-shaped rule where the first line is the topic, and the following 2-3 lines are supporting sentences. From a development perspective, presentations with bullets would only include 3-5 topics, with supporting content in the presentation's speaker's notes.  
+
+#### If you're sharing your Terminal window, share your Terminal window
+
+Our Terminals are our babies, and we nurture them with beautiful styles including backgrounds, fonts, and sizes. But if we consider what this looks like to our learners, who are limited by the size of their monitors and Zoom windows (you're showing a window in a window), our babies look like small, malformed, screen blips. What we need to do is increase the font size and create better contrast between the background and the font color. Also, as system log messages often print in a different color then your input text, be sure to configure the sys log output as well.
