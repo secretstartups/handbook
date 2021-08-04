@@ -209,9 +209,12 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	| Virginia Reib |
-|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Laura Shand	| Rachel Hill |
+|	NA West	|	US West	|	MM-AMER-WEST-Mtn	|	Adam Pestreich	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-NorCal	|	Brooke Williamson	| Rachel Hill |
-|	NA West	|	US West	|	MM-AMER-WEST-NW	|	Brooke Williamson	| Rachel Hill |
+|	NA West	|	US West	|	MM-AMER-WEST-NW-1	|	Adam Pestreich	| Rachel Hill |
+|	NA West	|	US West	|	MM-AMER-WEST-NW-2	|	Brooke Williamson	| Rachel Hill |
+|	NA West	|	US West	|	MM-AMER-WEST-SW-1	|	Adam Pestreich	| Rachel Hill |
+|	NA West	|	US West	|	MM-AMER-WEST-SW-2	|	Douglas Robbin	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-SF	|	Laura Shand	| Rachel Hill |
 |	NA West	|	US West	|	MM-AMER-WEST-SoCal	|	Douglas Robbin	| Rachel Hill |
 
@@ -308,13 +311,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-NE	|	Matthew Walsh
 |	AMER	|	AMER	|	SMB-AMER-EAST-NY	|	Anthony Feldman
 |	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
-|	AMER	|	AMER	|	SMB-AMER-WEST-MW	|	Adam Pestreich
 |	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
-|	AMER	|	AMER	|	SMB-AMER-WEST-NW-1	|	Carrie Nicholson
-|	AMER	|	AMER	|	SMB-AMER-WEST-NW-2	|	James Altheide
-|	AMER	|	AMER	|	SMB-AMER-WEST-SF	|	Carrie Nicholson
-|	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Carrie Nicholson
-|	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Adam Pestreich
+|	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Blake Chalfant-Kero
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	TBH - James Komara
+|	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Jake Grothjan
+|	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Carrie Nicholson
 
 #### APAC
 
