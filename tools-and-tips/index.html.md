@@ -603,7 +603,7 @@ To add an event to this calendar:
 1. Create your calendar invite. 
 1. Add your zoom link. 
 1. Add agenda. 
-1. Under Add Guests, add `Gitlab Team Meetings` 
+1. Under Add Guests, add `Gitlab Team Meetings` in addition to anyone else you want invited (if you want the entire company invited please use everyone@) 
 
 
 #### Managing invite responses
