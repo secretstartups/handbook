@@ -41,7 +41,7 @@ no new JiHu contributions will be included in the release. The recommended time 
 
 Once it is certain that no new JiHu contributions will be added, follow the steps below:
 
-1. Run the [release certification tools script](https://gitlab.com/gitlab-com/gl-security/appsec/tooling/release-certification-tools), following the directions in the `README.md`. This will create an issue with a checklist containing each JiHu contribution associated with the upcoming release.
+1. Run the [release certification tools script](https://gitlab.com/gitlab-com/gl-security/appsec/tooling/release-certification-tools), following the directions in the `README.md`. This will create an issue in the [jh-upstream-report issue tracker](https://gitlab.com/gitlab-org/jh-upstream-report/-/issues) with a checklist containing each JiHu contribution associated with the upcoming release.
 1. Verify that every JiHu contribution going into the release is on this list. This can be done by looking at the [status report](https://gitlab.com/gitlab-jh/status-reports/-/issues) repository information in addition to searching for the `JiHu Contribution` labels in [each repository](/handbook/ceo/chief-of-staff-team/jihu-support/#projects) (the certification issue should have a link available). Be sure to look for both open and closed merge requests. The most likely reason a MR would be in the release but not in the checklist is the appropriate milestone had not been set for it.
 1. For each JiHu contribution on the checklist:
     * Look at the merge request and verify that an AppSec reviewer has indicated it has been reviewed and is acceptable
