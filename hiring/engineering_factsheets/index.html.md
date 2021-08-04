@@ -305,8 +305,8 @@ Bartek Marnane (Director of Engineering, Growth)
 **Hiring Managers:**
 Chun Du (Director of Engineering, Enablement)
 Craig Gomes	(Engineering Manager, Memory)
-[Product Vision page] https://about.gitlab.com/direction/create/ecosystem/
-[How the team works] https://about.gitlab.com/direction/create/ecosystem/#overview
+[Product Vision page](/direction/memory/)
+[How the team works](/handbook/engineering/development/enablement/memory/#work)
 **Links to relevant Handbook pages:** 
 [Product categories page](/handbook/product/categories/)
 [Memory team page](/handbook/engineering/development/enablement/memory/#team-members)
