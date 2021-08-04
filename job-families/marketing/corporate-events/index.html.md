@@ -3,13 +3,41 @@ layout: job_family_page
 title: "Corporate Events"
 ---
  
-### Corporate Events Manager
- 
 ## Levels
- 
+
+### Corporate Events Coordinator 
+
+The Corporate Events Coordinator reports to Manager, Corporate Events.
+
+#### Corporate Events Coordinator Job Grade
+
+The Corporate Events Manager (Intermediate) is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Corporate Events Coordinator Responsibilities
+
+* Work cross-functionally with internal and external stakeholders to develop end-to-end programs
+* Collaborate across teams to support initiatives led by the Corporate Events Team, ranging from branded events to sponsored events to internal events. 
+* Manage post-program deliverables,including event analysis, reports of budget, attendee feedback
+* Manage and on-board different vendor and partner contractors
+* Coordinate internal processes & deliverables (ie email support, campaign elements & documentation)
+* Think about how to connect the brand to all 
+
+#### Corporate Events Coordinator Requirements
+
+* 1-2 years experience in an event marketing role
+* Capability to coordinate across many teams and perform in fast-moving startup environment
+* Outstanding written and verbal communications skills
+* You embrace our values, and work in accordance with those values.
+* Self-sufficient worker capable of managing multiple deadlines with little supervision.
+* Ability to work smart under pressure and efficiently on multiple project requests simultaneously, and to deal with potential for tight deadlines and unexpected complexities.
+* Exemplary communicator and collaborator; able to work with a variety of teams and personalities, possessing excellent verbal and written communications skills.
+* Very detail-oriented.
+* Ability to use GitLab
+* 20% travel
+
 ### Corporate Events Manager (Intermediate)
  
-The Corporate Events Manager (Intermediate) reports to Manager, Corporate Events and Branding.
+The Corporate Events Manager (Intermediate) reports to Manager, Corporate Events.
  
 #### Corporate Events Manager (Intermediate) Job Grade 
  
@@ -17,7 +45,7 @@ The Corporate Events Manager (Intermediate) is a [grade 6](/handbook/total-rewar
  
 #### Corporate Events Manager (Intermediate) Responsibilities
  
-* Oversee execution of corporate events and swag to amplify our brand story and image at national and international trade shows, internal events, user conferences, brand activations and all other events.
+* Oversee execution of corporate events  to amplify our brand story and image at national and international trade shows, internal events, user conferences, brand activations and all other events.
 * Proactively manage and strategize all event needs. End-to-end event management, from lead-handling and content creation to venue selection and event execution.
 * Establish event goals and budget: gather and track ROI, engagement analytics, and feedback to consistently assess and implement opportunities for improvement.
 * Develop pre-event, at-event, and post-event marketing plans in conjunction with product marketing, content, alliances, demand generation and field teams.
@@ -38,11 +66,12 @@ The Corporate Events Manager (Intermediate) is a [grade 6](/handbook/total-rewar
 * Very detail-oriented.
 * Flexible work schedule and the availability to travel approximately 50% of the time.
 * Ability to use GitLab
-* **Additional Requirement for Europe candidates**:
- * Must be in Europe and must be fully eligible to travel within the EU.
- * Regional knowledge and existing network of vendors in EMEA.
+* Additional Requirement for Europe candidates:
+  * Must be in Europe and must be fully eligible to travel within the EU.
+  * Regional knowledge and existing network of vendors in EMEA.
 
-#### Corporate Events Manager (Intermediate) Performance Indicators 
+### Coordinator and Intermediate Performance Indicators 
+
 * [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
 * [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
 
@@ -65,24 +94,23 @@ The Senior Corporate Events Manager is a [grade 7](/handbook/total-rewards/compe
 
 #### Senior Corporate Events Manager Performance Indicators 
 
-* Extends those of the Corporate Events Manager (Intermediate) Performance Indicators
 * [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
  
-### Senior Global Events and Brand Manager
+### Senior Global Events Manager
 
-The Senior Global Events and Brand Manager reports to the Manager, Brand Activation.
+The Senior Global Events Manager reports to the Manager, Brand Activation.
 
-#### Senior Global Events and Brand Manager Job Grade
+#### Senior Global Events Manager Job Grade
 
-The Senior Global Events and Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Global Events Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Global Events and Brand Manager Requirements
+#### Senior Global Events Manager Requirements
 
 * Extends the Senior Corporate Event Manager Responsibilities
 - Exemplary analytical skills and proven aptitude to use data to optimize program performance and inform future strategies.
 - Plans and operatea in a transparent manner for cross-organizational visibility and be a leader in sharing best practices with other corporate event managers.z
 
-#### Senior Global Events and Brand Manager Responsibilities
+#### Senior Global Events Manager Responsibilities
 
 * Extends the Senior Corporate Event Manager Requirements
 * 10+ years of experience building and executing a regional strategy.
@@ -98,9 +126,11 @@ The Senior Global Events and Brand Manager is a [grade 8](/handbook/total-reward
 * Provides mentorship for all event managers on the team to help them grow in their tactical responsibilities and remove blockers to their autonomy.
 * Confidently ships large scale campaigns and events with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 
-#### Senior Global Events and Brand Manager Performance Indicators
+#### Senior Global Events Manager Performance Indicators
 
-* Extends the Senior Corporate Event Manager Performance Indicators
+* [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+* [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+* [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
 * [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
 
 ## Specialties
@@ -141,7 +171,7 @@ The Production Manager reports to Manager, Corporate Events and Branding.
  
 ### Manager, Corporate Events
  
-The Manager, Corporate Events reports to Senior Director, Corporate Marketing.
+The Manager, Corporate Events reports to VP, Corporate Marketing.
  
 #### Manager, Corporate Events Job Grade
  
@@ -150,15 +180,13 @@ The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensatio
 #### Manager, Corporate Events Responsibilities
  
 * Excel at all of the corporate events manager responsibilities above.
-* Oversee strategic and creative development of corporate events and swag strategy to amplify our brand story and image at national and international trade shows and events.
+* Oversee strategic and creative development of corporate events to amplify our brand story and image at national and international trade shows and events.
 * Strategically connect business priorities, goals, and key messages for complete brand experience.
 * Develop and manage external partners and vendors for multiple events and swag, including negotiating optimal terms.
 * Be a team player responsible to build out and manage processes that will ensure the success of our events across functional groups and with production partners.
-* Create corporate event marketing swag vision and strategy that integrates brand, design, content, corporate events, and PR to increase awareness and engagement, and express brand personality with every interaction.
-* Coordinate with design to develop swag strategy as part of brand persona. Evoke spirit of brand and personality in swag items.
 * Perform all management tasks for managing an effective, results focused team.
 * Participate with peers in creating and executing the Corporate Marketing strategy.
- 
+
 #### Manager, Corporate Events Requirements
  
 * 5-7 years corporate events planning and management experience in the high-tech industry.
@@ -170,79 +198,40 @@ The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensatio
 * Exemplary project management and decision-making skills.
 * Very detail oriented.
 * Flexible work schedule and the ability to travel approximately 30% of the time.
+ 
+### Senior Manager, Corporate Events 
 
-### Key Performance Indicators 
+The Senior Manager, Corporate Events reports to VP, Corporate Marketing.
 
-* Extends the Senior Manager Corporate Events Manager Performance Indicators
+#### Senior Manager, Corporate Events Job Grade
+
+The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Corporate Events Responsibilities
+
+* Extends that of the Manager, Corporate Events responsibilities
+* Works with leadership to collect overall feedback to provide a multi-faced events strategy.
+* Manages additional resources and agencies to help the events team execute on responsibilities.
+* Data-centric marketer that measures event success from agreed upon metrics year-to-year. 
+* Provides vision for internal and external event series to make sure that is reflected on GitLab Web identities.
+* Works cross-functionally after internal and external events to make sure they are merchandised successfully and integrated into content marketing, brand campaigns and GTM campaigns.
+
+#### Senior Manager, Corporate Events Requirements
+
+* Extends that of the Manager, Corporate Events requirements
+* 10+ years experience in corporate events management.
+* Background working with leadership to collaborate on corporate event strategy, goals and execution.
+* Ability to think creatively to solve problems that arise.
+* Proven experience managing budgets for large corporate marketing events. 
+
+#### Manager and Senior Manager Performance Indicators
+
+* [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+* [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+* [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+* [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
 * [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
- 
-### Senior Manager, Brand Activation
- 
-The Senior Manager, Brand Activation reports to Director, Corporate Marketing.
- 
-#### Senior Manager, Brand Activation Responsibilities
- 
-* Oversee execution of corporate events, integrated brand campaigns, and swag to amplify our brand story and image at national and international trade shows, internal events, brand activations and all other events.
-* Support other external brand channels such as social, Web, etc. to make sure the brand experience is consistent.
-Manage corporate events and design team to bring together a cohesive brand strategy that can be executed across events, and help GitLab become an engaging and household recognizable name.
-* Pilot cross-functional brand experience design programs to forge connections with our brand among internal employees, prospects, customers, partners, supported employees and more. Ensure all campaign touchpoints reflect and represent the GitLab brand and story.
-* Provide strategy to the design team on how people will engage with our brand through different marketing channels. Develop experience and design strategy to provide direction on content and campaign development to align with organizational initiatives and goals.
-* Proactively manage and strategize all event needs. End-to-end event management, from lead-handling and content creation to venue selection and event execution.
-* Establish event goals and budget: gather and track ROI, engagement analytics, and feedback to consistently assess and implement opportunities for improvement.
-* Develop pre-event, at-event, and post-event marketing plans in conjunction with product marketing, content, alliances, demand generation and field teams.
-* Advance, maintain, and manage external partners and vendors for multiple events and swag, including negotiating optimal terms.
-* Partner with internal cross-functional teams to create event agendas, campaigns, and content that meet engagement targets.
-* Oversee creation of event communications and promotion for event programs, in partnership with demand generation and sales development teams, to drive attendance.
-* Develop and deliver event enablement to include pre-event briefings, at-event briefings, and drive post-event follow-up briefings and event retrospectives.
- 
-#### Senior Manager, Brand Activation Requirements
- 
-* Familiarity with the GitLab brand and how the company has grown and developed to this day. Vision on how to take our experience with the brand to the next level.
-* Capable of setting strategy for multiple teams that map back to an overarching theme.
-* Exemplary communicator and collaborator; able to work with a variety of teams and personalities, possessing excellent verbal and written communications skills.
-* Ability to work smart under pressure and efficiently on multiple project requests simultaneously, and to deal with potential for tight deadlines and unexpected complexities.
-* Proven skills interacting with executive/senior management teams.
-* Very detail-oriented.
-* Flexible work schedule and the availability to travel approximately 50% of the time.
-* Ability to use GitLab.
 
-### Manager, Brand Growth
-
-#### Manager, Brand Growth Job Grade 
- 
-The Brand Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
- 
-#### Manager, Brand Growth Responsibilities
-
-* Identify how our brand is currently positioned in the market and develop a reporting process to document the progress of our brand
-* Implement brand measurement systems so the value of our brand can be easily tracked
-* Oversee the brand message creation process, as well as make sure the copy on our web properties align with the message
-* Develop and execute marketing campaigns aimed at communicating our brand message 
-* Educate and communicate our brand personality internally and align company around the message 
-* Develop brand guidelines and communication programs so entities outside of GitLab, can easily understand how to use our brand
-* Brand management for international expansion, including production of brand guidelines in collaboration with the Brand team.
-* Measure and report on success of brand marketing campaigns
-* Oversee merchandise management 
-* Provide support with brand team process establishment and documentation 
-* Lead Brand Growth Content team 
-
-#### Manager, Brand Growth Requirements
-
-* Ability to use GitLab
-* 5-7 years experience in a brand strategy role
-* Knowledge of brand tracking and brand measurement systems
-* Capability to coordinate across many teams and perform in fast-moving startup environment
-* Understand and be able to express the value of GitLab as a brand entity
-* Outstanding written and verbal communications skills
-* You embrace our values, and work in accordance with those values.
- 
-## Performance Indicators
- 
-* Staying within or under budget on AV, staging, projects.
-* Positive speaker and audience feedback on produced events (from survey results).
-* Continued speaker engagement.
-* Expansion of speaker and vendor catalogue.
- 
 ## Career Ladder
  
 The next step in the Corporate Events job family is not yet defined at GitLab.
@@ -253,7 +242,7 @@ Candidates for these positions can expect the hiring process to follow the order
  
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#conducting-a-screening-call) with one of our Global Recruiters
 * Next, candidates will be invited to schedule a first interview with the Hiring Manager
-* Next, candidates will be invited to interview with 2-5 teammates
+* Next, candidates will be invited to interview with 2-5 team members
 * There may be a final executive interview
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
