@@ -28,7 +28,7 @@ description: "Product Usage Data provides quantitative measurement of how, when,
 
 SaaS Product Events Data Pipeline provides business users (Product Analysts, Growht PMs, Core Product PMs) with a set of fact and mart tables capturing user ans namespace activity for our SaaS Product (Gitlab.com).
 
-The versatility of these table sets allow business stakeholders to perform a large array of analysis described below.
+The versatility of this table allows business stakeholders to perform a large array of analyses, such as the examples provided below.```
 
 ### Type of Analysis that can be performed
 
@@ -41,13 +41,13 @@ The versatility of these table sets allow business stakeholders to perform a lar
 
 The Data Team maintains these fact tables that can be used to :
 
-- [https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_400](): fact table at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. This fact table contains only events that happened only in the last 400 days. 
+- [fct_event_400](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.fct_event_400): fact table at the event-level grain. That means you will find in this table one row per event, an event being for example a issue created or a ci_pipeline started. This fact table contains only events that happened only in the last 400 days. 
 - fct_daily_event_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
 - fct_daily_xmau_400: Table that will be implemented soon, progress [can be tracked in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/9795)
 
 Under the hood, all these models are created through [this dbt model named prep_event](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.prep_event).
 
-`prep_event` model creates monthly partitioned table. Looking at Snowflake you can see one schema per month:
+`prep_event` model creates a monthly partitioned table. Looking at Snowflake you can see one schema per month:
 
 So that means we have one `prep_event` table per month. In dbt, you can see that the schema definition is defined in the `dbt_project.yml`.
 
