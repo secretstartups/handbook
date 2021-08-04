@@ -37,10 +37,11 @@ Examples of requests that may be denied:
 ### How to Apply For Growth and Development Benefits
 
 **For all Growth and Development Benefit applications**
-1. Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
-1. Following the discussion, managers must send the following email to the applying team member to be uploaded along with their G&D benefit application: `I approve [team member name]'s application for the GitLab Growth and Development benefit for participation in the [course name/learning opportunity details]`
-1. After this email is recieved, the applying team member must download this email and upload it to their Employee Uploads folder in the Documents tab of their BambooHR profile.
-1. Once uploaded, complete the following application form depending on the cost of the learning opportunity:
+
+Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
+
+
+Complete the following application form depending on the cost of the learning opportunity:
 
 **For Growth & Development Benefits that cost under $1,000 USD**
 If the cost is $1,000 USD or less, please fill out the [Growth & Development Benefit Form (Under $1,000)](https://forms.gle/ZLH2KtEqxBtW1Bja6) and submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement). 
