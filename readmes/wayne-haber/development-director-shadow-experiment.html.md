@@ -21,16 +21,16 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 ### Process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
-1. You have been with GitLab for at least 1 month
-1. Check the schedule below for days that are `Open` for shadowing.
+1. You have been with GitLab for at least one month
+1. Check the schedule below for weeks that are `Open` for shadowing.
 1. Confirm with your manager that they are ok with you participating
-1. Add yourself to the table for the days in which you want to shadow via an MR
+1. Add yourself to the table for the weeks in which you want to shadow via an MR
 
 ### How does the shadowing work?
 
 * The shadow will participate remotely.
-* You can be a shadow for as little as two days or as much as five days in six months.  The shadowing does not need to be on sequential days.
-* Join all meetings on my calendar on your shadow days that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
+* You can be a shadow for as little as one week or as much as two weeks in a six month period.  The weeks do not need to be sequential.
+* Join all meetings on my calendar on your shadow week that are not private (most are not private), unless I ask you not to because the meeting participants have opted out of this program for this meeting.
 * If you are so inclined, review all documents, issues, and merge requests linked to the meetings that you have access to.
 * If you don't have access to a document and the meeting participants are ok with allowing you to view it (which I will confirm), I will share my screen via Google Hangouts or will grant you temporary access to the document.
 * You are encouraged to take notes on what is being said in meeting documents that you have edit rights to (which will be most of them).  The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
@@ -79,67 +79,24 @@ No, not at this time.
 ### Schedule
 
 
-| Date | Shadow |
+| Week of | Shadow |
 | ------ | ------ |
 | 8/16/2021 | Open |
-| 8/17/2021 | Open |
-| 8/18/2021 | Open |
-| 8/19/2021 | Open |
 | 8/23/2021 | Open |
-| 8/24/2021 | Open |
-| 8/25/2021 | Open |
-| 8/26/2021 | Open |
 | 8/30/2021 | Time off |
-| 8/31/2021 | Time off |
-| 9/1/2021 | Time off |
-| 9/2/2021 | Time off |
 | 9/6/2021 | Open |
-| 9/7/2021 | Open |
-| 9/8/2021 | Open |
-| 9/9/2021 | Open |
 | 9/13/2021 | Open |
-| 9/14/2021 | Open |
-| 9/15/2021 | Open |
-| 9/16/2021 | Open |
 | 9/20/2021 | Open |
-| 9/21/2021 | Open |
-| 9/22/2021 | Open |
-| 9/23/2021 | Open |
 | 9/27/2021 | Open |
-| 9/28/2021 | Open |
-| 9/29/2021 | Open |
-| 9/30/2021 | Open |
 | 10/4/2021 | Open |
-| 10/5/2021 | Open |
-| 10/6/2021 | Open |
-| 10/7/2021 | Open |
 | 10/11/2021 | Open |
-| 10/12/2021 | Open |
-| 10/13/2021 | Open |
-| 10/14/2021 | Open |
 | 10/18/2021 | Open |
-| 10/19/2021 | Open |
-| 10/20/2021 | Open |
-| 10/21/2021 | Open |
 | 10/25/2021 | Open |
-| 10/26/2021 | Open |
-| 10/27/2021 | Open |
-| 10/28/2021 | Open |
 | 11/1/2021 | Open |
-| 11/2/2021 | Open |
-| 11/3/2021 | Open |
-| 11/4/2021 | Open |
 | 11/8/2021 | Open |
-| 11/9/2021 | Open |
-| 11/10/2021 | Open |
-| 11/11/2021 | Open |
 | 11/15/2021 | Open |
-| 11/16/2021 | Open |
-| 11/17/2021 | Open |
-| 11/18/2021 | Open |
 | 11/22/2021 | Time off  |
-| 11/23/2021 | Time off  |
-| 11/24/2021 | Time off  |
-| 11/25/2021 | Time off  |
-
+| 11/29/2021 | Open |
+| 12/6/2021 | Open |
+| 12/13/2021 | Open |
 
