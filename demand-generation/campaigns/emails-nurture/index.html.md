@@ -79,25 +79,25 @@ To be updated and documented upon revamp of nurture engine and database nurutrin
 {: #active-nurture-programs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-#### SaaS trial nurture
-{: #nurture-trial-saas}
+#### Trial nurture
+{: #nurture-trial}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-SaaS Gold trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
+* **Goal:** Educate trialers about key features to use during 30 day period.
+* **Delivery System:** Marketo (and Outreach sequences by SDRs)
+* **Trial Key Email:** the self-managed trial sign-up triggers a unique trial key email confirmation before launching the 30 day email series.
 
-**Goal of the Marketo nurture:** Educate trialers on key features within GitLab Gold SaaS tier.
+<iframe src='https://app.mural.co/embed/40f86b14-b313-48f8-a015-a00dcccfa3b8'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
 
-**Goal of SDR Outreach nurture:** Qualify and meetings setting for SaaS Gold trialers.
+##### Setup for Trial Nurture
+[Marketo Program]()
 
-**[>> Email copies for SaaS Gold package trial nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/98)**
-
-#### Self-hosted trial nurture
-{: #nurture-trial-self-hosted}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Self Hosted Ultimate trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
-
-**[>> Email copies for Self-hosted Ultimate package nurture](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22)**
+UTMs 
 
 #### GTM motion nurtures
 {: #gtm-motion-nurtures}
