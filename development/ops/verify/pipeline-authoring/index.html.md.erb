@@ -496,7 +496,12 @@ Note that a multiple factors can exist at once. In that case use your judgment t
   Then choose `severity::2`.
 - the problem is related to an important feature but the workaround is acceptable as the code around it does not
   change frequently. Then choose `severity::3`.
+#### Prioritization of Technical Debt
 
+Engineering Managers are responsible for collecting feedback from their engineering teams to help inform the Product Manager to decide on the priority of these technical debt issues.  Engineers should label these issues accordingly with their assessment of severity, weight, and make a recommendation on a technical proposal.
+- For tech debt which carries the weight of 1 or 2, engineers can schedule them for the current or future iteration.
+- For Tech debt that carries the weight of 3 and above should be scheduled by the Product Manager.
+In each iteration, we should try allocating time for fixing tech debt issues. Engineering teams should inform the product manager and EMs if there isn't enough time to fix those issues.
 ### Retrospectives
 
 <%= partial("handbook/engineering/development/ops/verify/includes/retrospectives.erb") %>
