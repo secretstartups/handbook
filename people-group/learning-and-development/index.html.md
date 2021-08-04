@@ -21,6 +21,8 @@ Email Us: `learning@gitlab.com`
 
 [Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
 
+Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
+
 
 ## Mission
 Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
