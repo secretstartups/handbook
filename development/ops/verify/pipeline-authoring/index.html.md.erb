@@ -457,13 +457,14 @@ When creating a follow-up issue for required tests:
 
 ### Technical Debt
 
-We track our technical debt using the following [Pipeline Authoring Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019541), where we track issues in the planning phase.
+- We track our technical debt using the following [Pipeline Authoring Technical Debt issue board](https://gitlab.com/groups/gitlab-org/-/boards/2019541), where we track issues in the planning phase.
+- We schedule issues that are labeled as `workflow::ready for development`.
 
-This board has 2 main sections:
+When creating a technical debt issue make sure to label it as such, in addition make sure to add labels based on the following guidelines: 
 
 1. Issue readiness
-    - In `workflow::planning breakdown` we find issues that are currently being groomed.
-    - In `workflow::ready for development` we find issues that clearly defined and a weight has been assigned.
+    - `workflow::planning breakdown` issues are currently being refined. These issues require a weight, any requirements to be clarified, and ideally a technical proposal prior to being able to mark them as `workflow::ready for development`.
+    - `workflow::ready for development` issues are clearly defined after review from an engineer, who applies a weight and a recommended technical approach. These issues are then ready to be scheduled.
 
 1. Impact breakdown. We use `severity::1`, `severity::2`, `severity::3` and `severity::4` labels to classify the impact of the specific tech debt item.
    We use the list below as a guideline to grade the impact.
@@ -476,7 +477,7 @@ This board has 2 main sections:
     - `severity::2` High
       - blocks many changes in the area or makes them difficult to work around it
       - the problem exists in an area that changes frequently, causing it or workarounds to spread easily
-      - the problem is related to an important feature (e.g multi-project pipelines)
+      - the problem is related to an important feature or a follow up of such
       - the problem is very common in a specific domain and leaks into other domains too
       - the problem is related to a number of reported `severity::2` bugs
     - `severity::3` Medium
@@ -495,7 +496,12 @@ Note that a multiple factors can exist at once. In that case use your judgment t
   Then choose `severity::2`.
 - the problem is related to an important feature but the workaround is acceptable as the code around it does not
   change frequently. Then choose `severity::3`.
+#### Prioritization of Technical Debt
 
+Engineering Managers are responsible for collecting feedback from their engineering teams to help inform the Product Manager to decide on the priority of these technical debt issues.  Engineers should label these issues accordingly with their assessment of severity, weight, and make a recommendation on a technical proposal.
+- For tech debt which carries the weight of 1 or 2, engineers can schedule them for the current or future iteration.
+- For Tech debt that carries the weight of 3 and above should be scheduled by the Product Manager.
+In each iteration, we should try allocating time for fixing tech debt issues. Engineering teams should inform the product manager and EMs if there isn't enough time to fix those issues.
 ### Retrospectives
 
 <%= partial("handbook/engineering/development/ops/verify/includes/retrospectives.erb") %>
