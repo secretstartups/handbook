@@ -232,14 +232,18 @@ The label should not be applied to merge requests:
 - Resolving a security vulnerability because process for security releases differs
 from the regular release
 
-As a merge request is included in self-managed releases, it will receive the
+#### Labels indicating inclusion in upcoming Self-managed release
+
+As a merge request is included in self-managed release candidates (RC), it will receive the
 `released::candidate` label when the release candidate it is included in is deployed to
 [pre.gitlab.com]. See ["What is a release candidate and when are they created?"](#what-is-a-release-candidate-and-when-are-they-created)
-for more information on release candidates.
+for more information on release candidates. This label indicates that the MR will most
+likely be included in the upcoming Self-managed release.
 
-A merge request will receive the `released::published` label when included in a
-packaged release, such as `13.6.0` or `13.5.2`, and deployed to
-[release.gitlab.net] for both automated and manual testing.
+A merge request will receive the `released::published` label (which replaces the `released::candidate` label)
+when included in a packaged release, such as `13.6.0` or `13.5.2`, and deployed to
+[release.gitlab.net] for both automated and manual testing. This label indicates that the
+MR will be published with the Self-managed release.
 
 ## Frequently Asked Questions
 
