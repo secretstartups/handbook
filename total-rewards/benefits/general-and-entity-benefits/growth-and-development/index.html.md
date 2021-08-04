@@ -54,10 +54,10 @@ Reimbursements above $1,000 USD will be paid via payroll in the following pay cy
 Reimbursements for over $1,000 USD will be processed by the following: 
 1. Team member fills out Growth & Development Benefit Form for over $1,000 USD
 1. All parties will sign the document following the [approval flow below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000)
-1. L&D or Total Rewards will notify the team member that all parties have signed the document and the file will be uploaded into their BambooHR folder
+1.Total Rewards will notify the team member that all parties have signed the document and the file will be uploaded into their BambooHR folder
 1. Once the team member completes the program, please send proof of completion to `total-rewards@gitlab.com` and `learning@gitlab.com`
 1. For reimbursements for conferences, workshops, professional membership, please also send the invoice to `total-rewards@gitlab.com` and `learning@gitlab.com` once you have signed up
-1. Once proof of completion and/or invoices are received, L&D or Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
+1. Once proof of completion and/or invoices are received, Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 1. **At this time team members will not submit expenses through Expensify for Growth & Development funds over $1000 USD**
 1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member
 
@@ -208,7 +208,7 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 
 ### Processing Steps for G&D Benefit
 
-The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. Please note that the following steps are performed by the L&D team every Tuesday and Friday. The L&D team can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
+The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. GitLab team members can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
 
 Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
 
