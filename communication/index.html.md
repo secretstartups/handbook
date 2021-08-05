@@ -315,6 +315,8 @@ Employ multimodal communication to broadcast important decisions. To reach our d
 
 When doing this, create and link to a [single source of truth](/company/culture/all-remote/handbook-first-documentation/): ideally the [handbook](/handbook/handbook-usage/#why-handbook-first), otherwise an epic, issue, or Google Doc. The email or Slack message should not be the source of truth.
 
+When referring to email that recipients should have received, reference the sender and subject of the email so its easy to find. For example, "You should have received an email from Jane Smith with the subject 'Training Seminar Details'"
+
 ## Not Public
 
 We make things public by default because [transparency is one of our values](/handbook/values/#transparency).
