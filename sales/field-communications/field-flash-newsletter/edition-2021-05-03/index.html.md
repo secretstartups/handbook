@@ -12,7 +12,7 @@ description: "May 2021 edition of the Field Flash Newsletter sent to the GitLab 
 
 *This email newsletter was originally sent to the GitLab Field Team and stakeholders on 2021-05-03.*
 
-## NEW ⚡️ GitLab Field Flash: April 2021 Edition ⚡️
+## NEW ⚡️ GitLab Field Flash: May 2021 Edition ⚡️
 In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll learn more about the first GitLab Sales Play, GitLab’s leadership position in Gartner’s latest Magic Quadrant for Enterprise Agile Tools, how GitLab compares to Jenkins when solving common decision maker problems, new resources for working with alliance partners and more. Plus, dive into Peter Davies’ Land deal of the month, and learn more about Alyssa Belardi in her team member spotlight. 
 
 ### Introducing: The First GitLab Sales Play! 
@@ -34,7 +34,7 @@ Keep an eye out for additional Sales Plays coming in Q2! Please reach out in #sa
 Peter Davies and John Feeny discuss how they closed a 300-seat Premium Land deal with a government entity on a tight timeline by demonstrating a clear understanding of the customer's digital transformation goals as well as the specific needs and requirements of Public Sector timelines and paper processes.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=BLOIY5YGnJg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/BLOIY5YGnJg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### New and Noteworthy Resources 📓
