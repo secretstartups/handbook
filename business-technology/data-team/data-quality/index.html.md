@@ -58,7 +58,7 @@ Every week, the Detection Rule “Batch” is run and output is saved in a persi
 
 ### Product Data Quality Scorecard
 
-- **Purpose** - Product Data Quality Scorecard quantifies the Data Quality Issues with respect to the Product Usage Data. 
+**Purpose** - Product Data Quality Scorecard quantifies the Data Quality Issues with respect to the Product Usage Data. 
 
 The Scorecard Dashboard contains visualizations that display the following information:
  - **Pass/Fail Percentage** of each of the Product Data Quality Detection rules. The Percentage of records passed is calculated by taking the Percentage of total number of records that have satisfy the condition or the data quality detection rule. The formula used for the Calculation is:
