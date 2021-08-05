@@ -29,7 +29,7 @@ workflow detailed at [Changing Zendesk Agent roles](zendesk_roles.html).
 ### Light Agents for Zendesk Global
 
 To obtain a Light Agent in Zendesk Global, the requester must send an email to
-`gitlablightagent.5zjj2@zapiermail.com`. After doing so, they will receive an
+`gitlablightagent.2lba7m@zapiermail.com`. After doing so, they will receive an
 automated reply with the result of your request. It must be sent via a GitLab
 Google / Gmail account. Any other address will be declined. The Subject and
 Body fields of the email can be empty in the email itself, as they have no
