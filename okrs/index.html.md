@@ -17,7 +17,7 @@ canonical_path: "/company/okrs/"
 
 All our OKRs are public and listed on the pages below.
 - [FY22-Q3 Active](/company/okrs/fy22-q3)
-- [FY22-Q3 Future](/company/okrs/fy22-q4)
+- [FY22-Q4 Future](/company/okrs/fy22-q4)
 - [Previous OKRs](#okr-archive)
 
 ## What are OKRs?
