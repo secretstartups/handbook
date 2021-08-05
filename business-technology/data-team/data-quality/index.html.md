@@ -77,7 +77,7 @@ IF the **percentage of records passed < threshold limit** then the Status of Det
 
 Kindly note that double clicking on the data points from the **Trend Analysis Chart** will navigate/drill-down to [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) that provides detailed information about the data rows and aggregated counts along with the Total ARR impacted for each of the Detection Rules.
 
- - **Summarized Counts for each day** shows the Total number of processed rows for each of the Daata Quality Detection Rule along with the Number of rows that Satisfy(pass) the rule/condition and that also do not satisfy(fail) the rule/condition for each data that is tracked by the Rule Run date.
+ - **Summarized Counts for each day** shows the Total number of processed rows for each of the Daata Quality Detection Rule along with the Number of rows that Satisfy(pass) the rule/condition and that also do not satisfy(fail) the rule/condition for each day that is tracked by the Rule Run date.
  
 The data on both the Dashboards - [TD: Product Data Quality Scorecard - Overview V1.0](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) and [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) gets refreshed on a daily basis.
 
