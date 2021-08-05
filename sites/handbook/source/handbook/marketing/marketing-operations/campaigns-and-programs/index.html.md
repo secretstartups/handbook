@@ -232,12 +232,12 @@ A survey that we or a 3rd party sends out. Tracks respondents and new leads we r
 
 Track cohort of Trials for each product line (Self-hosted or SaaS) to see their influence.
 
-**Bizible:** In-product trials are tracked as an **offline** Bizible touchpoint. Webform Self-hosted trials are an **online** Bizible touchpoint.
+**Bizible:** In-product self-managed and SaaS trials are tracked as an **offline** Bizible touchpoint. The self-managed trial utilizing a Marketo form is an **online** Bizible touchpoint.
 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
-| Target List | success, attended scheduled meeting | Yes |
+| Signed Up | Signed up for Trial | Yes |
 
 #### Vendor Arranged Meetings
 
