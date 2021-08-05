@@ -77,7 +77,7 @@ Below is a list of the different technical skill sets found on the Sales System 
    - Update the due date of the issue to the date they will be deleted
    - Confirm that there are no issues with the tagged related teams
    - Validate any change sets with updated automations (if applicable) before the issue due date
-   - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and delting fields from the `Deleted Fields` section in Salesforce
+   - On the issue due date deploy any change sets and delete the fields from production. If possible allow for a 1 day lag time between field deletion and deleting fields from the `Deleted Fields` section in Salesforce
 
 #### Process Deprecation 
 * Deprecating a process often includes a change in team behavior as well as updates to any processes. The Systems team is working on detailed documentation to address these changes and more info will be coming soon! 
@@ -102,7 +102,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 3.  Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4.  You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
 5.  You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirements.
-6.  You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority:Low`, `Priority:Medium`, `Priority:High`
+6.  You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
 
 **Change Managment Steps:**
 1.  Make sure you start on branch master and `git pull`.
@@ -138,11 +138,29 @@ Priority for the Sales Systems team is based on two axis, Impact and Urgency.  F
 
 ### Impact
 
-Impact defines how large of an impact (positive or negative) the change proposed in the issue will make for our business.  Impact is classified as High, Medium, and Low.Negative impact examples include system level outages due to issues or missing functionality to support business processes.  Postive impact can be in terms of increased revenue or less time spent by users performing repetitive actions.  A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reservered for OKRs and other company wide initiatives.
+Impact defines how large of an impact (positive or negative) the change proposed in the issue will make for our business.  Impact is classified as High, Medium, and Low.
+
+A change which only affects a single or small set of users should be classified as Low impact, while a change which impacts an entire department would be medium, with Large impact being reserved for OKRs and other company wide initiatives.
+
+Negative impact examples include:
+
+- System level outages preventing access to multiple users (High impact)
+- Missing functionality to support a key business process for a group of users (Medium impact)
+- A field inaccessible to a single user for reporting needs (Low impact)  
+
+Positive impact examples include:
+
+- A business process automation which will result in increased revenue or which supports an OKR (High impact)
+- Developing a new tool to support a department's use of Salesforce (Medium impact)
+- Automating a single repetitive action to save time for a single user (Low impact) 
 
 ### Urgency
 
-Urgency represents how quickly this change is needed by the business stakeholders.  High urgency means the issue should be addressed by a known due date in the next 30 calendar days, Medium means the issue should be addressed some time in the next 90 days, and Low urgency can be resolved as capacity allows. 
+Urgency represents how quickly this change is needed by the business stakeholders.  Please note that while the urgency is expressed in relation to a targeted delivery timeframe, the team will not always be able to accommodate the urgency if other higher priority issues are needed for the business.  The team does recognize that urgency is relative and can change over time, which would also cause an issue to elevate in priority over time.  When this occurs, the team will work with you to reclassify the priority of your issue accordingly during our next sprint planning meeting.
+
+- High urgency issues should be addressed by a known due date in the next 30 calendar days
+- Medium urgency issues should be addressed some time in the next 90 days
+- Low urgency should be be resolved as capacity allows
 
 ### Priority
 
@@ -151,9 +169,9 @@ Combining the two axis above results in the below priority matrix.
 
 | **Impact** / <br/> **Urgency** | **High** | **Medium** | **Low** |
 | ------ | ----- | ----- | -----	|
-| **High** |  `Priority:High` | `Priority:High` | `Priority:Medium` | 
-| **Medium**  | `Priority:High` | `Priority:Medium` | `Priority:Low` |
-| **Low** |  `Priority:Medium` | `Priority:Low` | `Priority:Low` |
+| **High** |  `Priority::High` | `Priority::High` | `Priority::Medium` | 
+| **Medium**  | `Priority::High` | `Priority::Medium` | `Priority::Low` |
+| **Low** |  `Priority::Medium` | `Priority::Low` | `Priority::Low` |
 
 
 
@@ -161,7 +179,7 @@ Combining the two axis above results in the below priority matrix.
 
 |	**Approval Type**	|	**Description**	|	**Standard**	|	**Comprehensive**	|	**Emergency**
 |	-----	|	-----	|	-----	|	-----	|	-----
-|	**Peer Review**	|	Peer Reviews are performed by a peer of the change requestor or developer and are intended to identify any potential issues with the planned change or change process. **Note:** The peer review process was established to mitigate the risk of the lack of segregation of duties between developer and implementer. The review provides comfort that changes to the production environment are valid.	|	Yes	|	Yes	|	Yes
+|	**Peer Review**	|	Peer Reviews are performed by a peer of the change requestor or developer and are intended to identify any potential issues with the planned change or change process.<br/><br/>**Note:** The peer review process was established to mitigate the risk of the lack of segregation of duties between developer and implementer. The review provides comfort that changes to the production environment are valid.	|	Yes	|	Yes	|	Yes
 |	**Business System Architect**	|	Approval by Business System Architect(or delegate)	|	Yes	|	Yes	|	Yes
 |	**Business Approval** (Typically BI and EA only)	|	Approval by Business Stakeholder that is responsible for the particular business tool or process which is impacted by the requested change.	|	Yes	|	Yes	|	Yes
 |	**Director of Sales Systems**	|	The Head of IT must approve all changes made during blackout periods	|	No	|	Yes	|	Yes |
@@ -182,8 +200,8 @@ Combining the two axis above results in the below priority matrix.
 ## Salesforce Data, Data Uploads & Permissions
 - Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
 
-### Data Uplod Permissions 
-- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restructions` table below. Please consult both while completing any data uploads. 
+### Data Upload Permissions 
+- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restrictions` table below. Please consult both while completing any data uploads. 
 - Any data uploads that impact more then one organization unit, can only be completed after the notice and approval by all impacted teams. When there is any doubt if a data upload will impact multiple teams a System Administrator should be consulted before completing the data upload. 
 - All users who wish to upload data using the DataLoader must first complete the requierments in the `Data Upload Training & Setup` section before being permitted to upload data.
 - When informing leadership or other teams of your data load be sure to summarize the fields that are being updated using the field name and API name of the field in order to strive for more efficient communication on the data load process. 
