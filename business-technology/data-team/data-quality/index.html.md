@@ -60,14 +60,26 @@ Every week, the Detection Rule “Batch” is run and output is saved in a persi
 
 - **Purpose** - Product Data Quality Scorecard quantifies the Data Quality Issues with respect to the Product Usage Data. 
 
-The Scorecard Dashboard provides or displays the following information:
- - the Pass/Fail Percentage of each of the Product Data Quality Detection rules. Kindly note that the Threshold  trend analysis and counts for each detection rule. 
- - Trend Analysis Chart
- - Summarized Counts for each day.
+The Scorecard Dashboard contains visualizations that display the following information:
+ - **Pass/Fail Percentage** of each of the Product Data Quality Detection rules. The Percentage of records passed is calculated by taking the Percentage of total number of records that have satisfy the condition or the data quality detection rule. The formula used for the Calculation is:
+**((passed_record_count/processed_record_count)*100)**
  
-Percentage of records passed is calculated by taking the percentage of total number of records that have passed the data quality detection rule. Likewise, 
-Percentage of records failed is calculated by taking the percentage of total number of records that have failed the data quality detection rule.
-The threshold limit will be compared against the percentage of passed or failed record counts to determine if the data quality rule has passed or failed. As of now the threshold value is set to 50. The exact threshold value needs to be determined by the DRI. Pass or Fail percentage for each detection rule is calculated based on percentage of records passed or percentage of records failed by comparing against threshold limit.
+Likewise, the Percentage of records failed is calculated by taking the percentage of total number of records that have failed to satisfy the condition or the data quality detection rule. 
+**((failed_record_count/processed_record_count)*100)**
+
+The Passing and Failing of a Detection rule is determined by comparing the percentage of records passed with that of the Threshold limit. As of now the threshold value is set to 50. The exact threshold value needs to be determined by the DRI. 
+
+IF the **percentage of records passed > threshold limit** then the Status of Detection rule is **Green**. For example, if the percentage of records passed is 72%(which is more than 50%), it means that 72% of records have satisfied the Data Detection Rule/condition.
+
+IF the **percentage of records passed < threshold limit** then the Status of Detection rule is **Red**. For example, if the percentage of records passed is 40%(which is less than 50%), it means that 60% of records have failed to satisfy the Data Detection Rule/condition. And they need attention and the data needs to be fixed by the Source teams.
+
+ - **Trend Analysis Chart** indicates the change in Pass/Fail percentage of each of the Data Quality Detection Rules over the period of a week.
+
+Kindly note that double clicking on the data points from the **Trend Analysis Chart** will navigate/drill-down to [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) that provides detailed information about the data rows and aggregated counts along with the Total ARR impacted for each of the Detection Rules.
+
+ - **Summarized Counts for each day** shows the Total number of processed rows for each of the Daata Quality Detection Rule along with the Number of rows that Satisfy(pass) the rule/condition and that also do not satisfy(fail) the rule/condition for each data that is tracked by the Rule Run date.
+ 
+The data on both the Dashboards - [TD: Product Data Quality Scorecard - Overview V1.0](https://app.periscopedata.com/app/gitlab/887191/TD:-Product-Data-Quality-Scorecard---Overview-V1.0) and [TD: Product Data Quality Detailed Dashboard V1.0](https://app.periscopedata.com/app/gitlab/868646/TD:-Product-Data-Quality-Detailed-Dashboard-V1.0) gets refreshed on a daily basis.
 
 ### Quick Links
 <div class="flex-row" markdown="0" style="height:80px">
@@ -76,8 +88,7 @@ The threshold limit will be compared against the percentage of passed or failed 
 </div>
 <br><br>
 
-
-Data Quality Detection Rule for product usage data
+The Data Quality Detection Rules that have currently been identified for Product usage data are: 
 
 | Detection Rule ID | Rule Description | DRI |
 | - | - | - |
