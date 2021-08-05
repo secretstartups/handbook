@@ -71,27 +71,25 @@ Check whether a requester matches a type in the following order:
 
 ### Identifying customers
 
-If a requester has identified themselves as a paid customer,
-you can tie the ZenDesk organization to the user if the user meets one of the following:
+If a requester has identified themselves as a paid customer, you can associate
+the customer with the ZenDesk organization if either:
 
-1. In Salesforce (SFDC), the email is listed as a contact for an organization.
-1. Meets [proof of entitlement](/support/#proving-your-support-entitlement), meaning:
-  - For self-managed, the user has provided the required license information.
-  - For GitLab.com, user is a member of paid group. Use the `GitLab User Lookup` app in the Zendesk sidebar to check the user's membership details.
-1. Possibly, ask the TAM (Technical Account Manager) or Account Owner (also known as AM / Account Manager)
-listed in SalesForce, in the `#account-management` slack channel,
-to add the user under the contacts for that Salesforce Account. We have contact syncing available from SFDC to Zendesk.
-While that's happening, please let the customer know you are reaching out to their TAM/AM to get them properly associated with the organization.
+1. The customer's email is listed in Salesforce (SFDC) as a contact for an
+   organization, OR
+1. The customer provides [proof of entitlement](/support/#proving-your-support-entitlement).
+For self-managed, you can use this macro, `Support::Self-Managed::Locating GitLab subscription`,
+to request it.
 
 *Look up resource*: You can use the [customer account look up workflow](looking_up_customer_account_details.html)
 to find the relevant subscription and organization name.
 
-If the user has not met the above criteria:
+If the customer meets the criteria, follow the process described in [Associating
+an organization](#associating-an-organization). Otherwise:
 
-- If it's unclear, you may need to ask the customer [to prove their entitlement](/support/#proving-your-support-entitlement) (for self-managed, macro: `Support::Self-Managed::Locating GitLab subscription`).
 - If the customer has a subscription, but *not* for the product they're inquiring about,
 let the customer know and consider them [a prospect](#identifying-and-marking-prospects).
-- If after reviewing the "proof", they do not appear to be a customer, check the following sections on identifying and marking trials, prospects, and free users.
+- If you review the evidence and they do not appear to be a customer, check the
+following sections on identifying and marking trials, prospects, and free users.
 
 ### Identifying and marking prospects
 
