@@ -97,7 +97,7 @@ In short, hiring managers check references:
 All GitLab hiring managers should be making the best effort to complete and conduct the reference checks for their candidate.
 
 #### Reference Check Questions
-When a candidate passes the initial screening and first rounds of interviews, but before they advance to meet with senior leadership, the talent acquisition team will reach out to the candidate to collect their references' details. The candidate will be asked to provide three references, at least one of which should be a former or current manager. At a minimum, two references should be completed. Once the talent acquisition team receives the references' details, they will inform the hiring manager, who should reach out and contact the references provided. If it is not possible to schedule a call via phone, a Hangouts or Zoom meeting can also be arranged if it's convenient. If that is not possible, an email can be sent with the following questions:
+When a candidate passes the initial screening and first rounds of interviews, but before they advance to meet with senior leadership, the talent acquisition team will reach out to the candidate to collect their references' details. Once the talent acquisition team receives the references' details, they will inform the hiring manager, who should reach out and contact the references provided. If it is not possible to schedule a call via phone, a Hangouts or Zoom meeting can also be arranged if it's convenient. If that is not possible, an email can be sent with the following questions:
 
 - Can you briefly describe your working relationship with them?
 - What are they like to work with?
