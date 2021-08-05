@@ -361,9 +361,9 @@ While we iterate with small changes, we strive for large, ambitious results. We 
    1. Keeping the focus on the [results](/handbook/values/#results) and the outcome
    1. Aiming to be best in the world across [all our functions](/handbook/leadership/no-matrix-organization/)
    1. Not being satisfied with the status quo and setting higher goals
-     1. Ambitious [mission](https://about.gitlab.com/company/mission/) and [vision](https://about.gitlab.com/company/vision/)
-     1. [Ambitious OKRs](/company/okrs/#okrs-are-stretch-goals-by-default)
-     1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
+      1. Ambitious [mission](https://about.gitlab.com/company/mission/) and [vision](https://about.gitlab.com/company/vision/)
+      1. [Ambitious OKRs](/company/okrs/#okrs-are-stretch-goals-by-default)
+      1. Having and reporting against [KPIs](/company/kpis/#what-are-kpis) with guiding targets
    1. Having other people adopt our way of working
       1. [Handbook](/handbook/)
       1. [Certifications](/handbook/people-group/learning-and-development/certifications/)
