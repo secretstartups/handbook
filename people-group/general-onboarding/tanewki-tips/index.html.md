@@ -13,7 +13,7 @@ description: A guide for new team members
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Welcome!
 {: #tanuki-orange}
 
-Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during onboarding as a new team member. 
+Hello! We could not be more excited to have you at GitLab. This page is here to help walk you through what you can expect before and during your first few weeks as a new team member. 
 
 
 ## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Meet the People Experience Team! 
@@ -49,7 +49,7 @@ After you sign your offer and complete your background check and references, you
 1. Once you accept your GitLab access invites, you'll be able to open up and see your own personalized version of the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md). 
 
 
-## <i class="fab fa-gitlab fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Onboarding Expectations
 {: #tanuki-purple}  
 
 1. Take your time! There is a lot to go through, and you may feel like you have to get to everything each day. If you do great! If not, that's great too.    
@@ -60,7 +60,23 @@ After you sign your offer and complete your background check and references, you
 {::options parse_block_html="true" /}
 
 <i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
-Want to learn more about Onboarding from current team members? View their feedback [here][https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback]!
+Want to learn more about Onboarding from current team members? View their feedback [here](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-feedback)!
 &nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
 {: .alert .alert-webcast}
+
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Expenses
+
+GitLab utitilizes Expensify as our team member [expense](https://about.gitlab.com/handbook/finance/expenses/) reimbursement tool. All team members will have access to Expensify within 2 days from their hire date. If you didn't receive an email from Expensify for your access, please contact `ap@gitlab.com`. 
+
+There are a few commonly expensed items amoung new hires that are listed below and a guide to how they can be categorized within Expensify.
+
+| Item| Expensify Category| 
+|:---------------|:---------------:|
+| Desk | Office Equipment  | 
+| Keyboard    | Office Equipment         |
+| Monitor     | Office Equipment         | 
+| Mouse | Office Equipment | 
+| Headphones | Office Equipment | 
+| Computer Case | Office Supplies | 
+| Monthly Internet Subscription | Telecom Internet | 
 
