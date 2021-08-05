@@ -284,17 +284,19 @@ New team members based in the Netherlands will send an email to people-exp@gitla
 
 ### Pulling Social Call Metrics 
 
-The People Experience Associate will assigned to this task, will pull this report at the end of the month.
+The People Experience Associate will assigned to this task, will pull this report the first week of the month.
 
 1. Open People Ops Zoom Account
-1. On the right side, Under Admin > Click on Dashboard
+1. On the left side, Under Admin > Click on Dashboard
 1. Click on Meetings 
 1. Select Past Meetings
 1. Adjust the Calendar to reflect the timeframe (it will only work for one month) > Done
-1. Type in the search bar the meeting ID - This can be found on the calendar invite. > Search 
+1. Type in the search bar the meeting ID - This can be found on the calendar invite. > Search
 1. Select Export
 1. Go to the downloads page. It will take a few minutes for the report to be ready, refresh your page if it is not loading. 
-1. C+P this data into the `Social Call` tab in the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 
+1. C+P this data into the `New Format` tab in the All-Time Data for Take a Break-Social Call Google Sheet. This is saved People Experience Google Shared Drive. 
+1. You will need to do this for each of the topics (Open Topic, Gaming, FitLab, Parenthood, Mental Health Social Hour) 
+1. Lastly, you'll open up a [new issue](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/new?issue%5Bmilestone_id%5D=) to summarize the metrics for the previous month tagging the whole team. 
 
 ### Slack Admin
 
