@@ -10,7 +10,7 @@ description: “Discover how to schedule meetings with VPs at GitLab”
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-When scheduling for VPs or directors at GitLab, please check the scheduling preferences below.
+When scheduling for VPs or Directors at GitLab, please check the scheduling preferences below.
 
 ## Scheduling for Pattie Egan, VP of People Operations, Technology, and Analytics
 
