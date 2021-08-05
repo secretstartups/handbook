@@ -263,7 +263,7 @@ Below is a short video from the L&D team reviewing how and why you might choose 
 
 ### Skill of the Month
 
-In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. More will be added to this section as we go through the weeks of the month. 
+In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68)More will be added to this section as we go through the weeks of the month. 
 
 #### Week 1 
 
@@ -277,8 +277,10 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 **Topic: Individual Growth Plan** 
 
 - Career Development Interviews
+- Pathways in GitLab Learn 
 - Using the Individual Growth Plan Interview 
 - Using the Achievement Tracker 
+- Using Epics to Track Career Development 
 - Live Session: Individual Growth Plan 
 
 #### Week 3 
