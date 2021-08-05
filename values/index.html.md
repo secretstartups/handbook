@@ -135,6 +135,10 @@ Give recognition generously, in the open, and often to [generate more engagement
 We use a lot of [text-based communication](/company/culture/all-remote/effective-communication/), and if you know the person behind the text, it will be easier to prevent conflicts.
 So we encourage people to get to know each other on a personal level through our [Take A Break Call](/handbook/communication/#take-a-break-call), virtual [coffee chats](/company/culture/all-remote/informal-communication/#coffee-chats), and during [GitLab Contribute](/events/gitlab-contribute/).
 
+##### Reach across company departments
+{:.no_toc}
+While it's wise to seek advice from experts within your function, we encourage GitLab team members to do the same across departments. This enables the company to iterate more quickly, embrace the understanding that everyone can contribute and include more diverse perspectives when possible.
+
 ##### Don't pull rank
 {:.no_toc}
 If you have to remind someone of the position you have in the company, you're doing something wrong.
@@ -629,9 +633,11 @@ Microaggressions are much more than merely rude or insensitive comments. They ca
 
 At GitLab we believe that everyone is entitled to a safe working space where they can express who they are and participate in conversations without worry of being spoken to in a harmful way, given that we want to encourage everyone to be mindful of what is a microaggression and be mindful of their potential impact. 
 
-##### Reach across company departments
+##### Seek diverse perspectives
 {:.no_toc}
-While it's wise to seek advice from experts within your function, we encourage GitLab team members to seek and provide feedback across departments. This enables the team to iterate more quickly, taking a more diverse perspective into account.
+We believe that team members seeking feedback from a diverse group of team members, inside and outside of their group or function, leads to better decisions and a greater sense of team member belonging. For more guidance on how we define Diversity, please refer to [GitLab's definition of Diversity, Inclusion & Belonging](https://about.gitlab.com/company/culture/inclusion/#gitlabs-definition-of-diversity-inclusion--belonging). Feedback from a more heterogenous group often leads to better business outcomes as we incorporate diverse perspectives and uncover unconscious bias.
+
+An example of this sub-value in action showcases the value of actively seeking diverse perspectives. The term "Brag Document" was used to describe when individuals documented their accomplishments. Documenting accomplishments is critical to team member development. However, team members had the **psychological safety** to raise the question of whether or not the title of the document made some feel uncomfortable. In an effort to seek a **diverse perspective**, a survey was conducted in one of the [TMRG](https://about.gitlab.com/company/culture/inclusion/erg-guide/#what-is-not-an-tmrg-at-gitlab) channels. The poll results showed that 100% of those polled preferred a different title and the title was changed.
 
 ##### Make family feel welcome
 {:.no_toc}
