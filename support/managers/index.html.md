@@ -39,6 +39,10 @@ For global team issues for which the Director is responsible, see the `Customer 
 
 As a larger leadership team, it's important that we remain in constant communication to ensure that we're building relationships and avoiding siloing. [You can read more about how we run our Leadership syncs in our handbook.](/handbook/support/managers/leadership-sync.html)
 
+### Senior Leadership Meetings
+
+While managers won't generally directly participate in Senior Leadership Meetings, it's important to know they exist, what topics are discussed at what cadence and where the public agenda is. [Read more about Senior Leadership Meetings](/handbook/support/managers/senior/senior-leadership-sync.html).
+
 ## Working with your team
 
 1. [Getting To Know Your Team Members](/handbook/support/managers/getting-to-know-you.html)
