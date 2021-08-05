@@ -48,17 +48,54 @@ Review the following terms to get familiar with language used in this documentat
 | GitLab Learn | The GitLab EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
-## Content Roadmap
+## Content Catalog and Roadmap
 
-The GitLab team is excited about growing new learning opportunities for team members, partners, and our wider community on the GitLab Learn platform.
+Existing training available in GitLab Learn
 
-Future learning content coming to GitLab Learn:
+| Training title and link | Badge or Certification earned? | Audience Details |
+| ----- | ----- | ----- |
+| [GitLab Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/5755275) | Badge | All Users |
+| [How to be a good Mentee and Mentor](https://gitlab.edcast.com/pathways/4347934)| N/A | All Users |
+| [GitLab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/4159230) | Certification | All Users |
+| [GitLab Certified Associate](https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam)| Certification | All Users |
+| [Giving Feedback](https://gitlab.edcast.com/pathways/1462159) | N/A | All Users |
+| [Managing Performance](https://gitlab.edcast.com/pathways/1461112) | N/A | All Users |
+| [User Research](https://gitlab.edcast.com/pathways/1434982) | N/A | All Users |
+| [Remote Foundations Badge](https://gitlab.edcast.com/pathways/1411408) | Badge | All Users |
+| [GitLab 201](https://gitlab.edcast.com/pathways/1411271) | Badge | All Users |
+| [Running an Effective 1:1](https://gitlab.edcast.com/pathways/1411234) | N/A | All Users |
+| [GitLab 101](https://gitlab.edcast.com/pathways/1411221) | Badge | All Users |
+| [Building High Performing Teams](https://gitlab.edcast.com/pathways/1410063) | N/A | All Users |
+| [Getting to Know Yourself and your Team](https://gitlab.edcast.com/pathways/1410038) | N/A | All Users |
+| [Jobs to be Done](https://gitlab.edcast.com/pathways/1407565) | N/A | All Users |
+| [Customer Interviewing](https://gitlab.edcast.com/pathways/1407533) | N/A | All Users |
+| [Opportunity Canvas](https://gitlab.edcast.com/pathways/1391567) | N/A | All Users |
+| [Learning Curator](https://gitlab.edcast.com/pathways/1288235) | Badge | Team Members |
+| [Develop your Rest Ethic](https://gitlab.edcast.com/pathways/1286440) | N/A | All Users |
+| [Mastering Self-Motivation and Self-Advocacy](https://gitlab.edcast.com/pathways/1245364) | Badge | All Users |
+| [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/1245323) | Badge | All Users |
+| [Bias towards Async Communication](https://gitlab.edcast.com/pathways/1187575) | Badge | All Users |
+| [Mental Health Awareness at GitLab](https://gitlab.edcast.com/pathways/1102247) | Badge | All Users |
+| [Being Inclusive](https://gitlab.edcast.com/pathways/1087036) | N/A | All Users |
+| [Being an Ally](https://gitlab.edcast.com/pathways/1047571)| Badge | All Users |
+| [Introduction to Coaching](https://gitlab.edcast.com/pathways/1047562) | Badge | All Users |
+| [Effective Communication](https://gitlab.edcast.com/pathways/1047551) | Badge | All Users |
+| [GitLab Values](https://gitlab.edcast.com/pathways/900926) | Badge | All Users |
+| [Marketing Operations and Finance](https://gitlab.edcast.com/journey/1549542) | Badge | All Users |
+| [Marketing Campaigns](https://gitlab.edcast.com/journey/1549528) | Badge | All Users |
+| [Project Management](https://gitlab.edcast.com/journey/1549515) | Badge | All Users |
+| [Marketing Product Knowledge](https://gitlab.edcast.com/journey/1549508) | Badge | All Users |
+| [Marketing Revenue Basics](https://gitlab.edcast.com/journey/1549505) | Badge | All Users |
+| [Marketing Writing and Communication](https://gitlab.edcast.com/journey/1549500) | Badge | All Users |
+| [Marketing Analytics](https://gitlab.edcast.com/journey/1467136) | Badge | All Users |
+| [Fieldn Manager Development](https://gitlab.edcast.com/journey/1396454) | N/A | All Users |
+| [DIB Training Certification](https://gitlab.edcast.com/journey/1146370) | Badge | All Users |
+| [PSE Communication Skills](https://gitlab.edcast.com/journey/1101399) | Badge | All Users |
 
-1. Trainings for managers in an all-remote setting
-1. Advanced GitLab topics
-1. Using GitLab for project management
-1. Psychological safety, bias for asynchronous communication, and more training to reinforce GitLab values
 
+
+
+A content roadmap for GitLab Learn will be added to this handbook page in the coming months.
 
 ## What will GitLab Learn do for the GitLab community?
 
