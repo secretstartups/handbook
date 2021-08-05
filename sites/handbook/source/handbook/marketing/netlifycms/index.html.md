@@ -97,6 +97,7 @@ Please note that it takes time for all existing blog posts to load in the admin.
 A case study page is a landing page where customers share how they've been able to shorten the software development lifecycle while using GitLab. Here is an example: [https://about.gitlab.com/customers/axway-devops/](https://about.gitlab.com/customers/axway-devops/)
 
 Case studies managed through Netlify CMS can be found at [https://about.gitlab.com/customers/](https://about.gitlab.com/customers/). The content is located/stored in the [/data/case_studies](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/case_studies) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these data files.
+
 ### Event landing pages
 
 Event landing pages can be created and edited using Netlify CMS.
@@ -153,6 +154,25 @@ The Comparison Pages that are linked in [DevOps Tools](https://about.gitlab.com/
 If there is no Comparison Page data for a particular page, the build process will fall back to the old style static image. Conversely, in order to render this data in the appropriate page, you must match the `slug` field with the name of the competitor as listed in `data/features.yml`.
 
 Comparison page data can currently be set up for comparison across all scores, or as single tools. There is a walkthrough video for this content type in the [learning resources YouTube playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KpF23RDebkNFjB4dNRlvoGN).
+
+### Solution landing pages
+
+Solution landing pages can be created and edited using Netlify CMS.
+
+Solution landing pages managed through Netlify CMS can be found at [https://about.gitlab.com/solutions/](https://about.gitlab.com/solutions/). The content is located at [`data/solution_slippers/`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/solution_slippers) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these `yml` files.
+
+Please note that not all solution landing pages are built using this process.
+
+To migrate an existing solution landing page over to a new template, make sure to remove the existing one from [`/sites/uncategorized/source/solutions`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/solutions). Please verify your review app is displaying your migrated solutions page properly! 
+
+#### Solution child pages
+
+Solution child pages can be created and edited using Netlify CMS.
+
+The content is located at [`data/solution_children/`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/solution_children) directory in the `www-gitlab-com` repository. Netlify CMS allows the user to edit these `yml` files.
+
+Please note that a parent solution page needs to be built with a data file at [`data/solution_slippers/`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/solution_slippers)` for this feature to be available in Netlify CMS.
+
 
 ## Admin features
 
