@@ -476,6 +476,23 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 * Flow: [Opp Approval Field Check 3.0 GitLab Admin Check](https://gitlab.lightning.force.com/lightning/setup/Flows/page?address=%2F3004M000000brYQQAY%3FretUrl%3D%2Flightning%2Fsetup%2FFlows%2Fhome)
 
 
+## Next Steps History
+
+**Business Process this supports:** Sales tracks their next steps in the `Next Steps` field. It is important to have a historical log of these "Next Steps" so that they can be referenced in the future. We have created a system to streamline this process so that sales will only need to update what the true "Next Step" is and the system will log the historcal data.
+
+**Overview:** On the Opportunity, when the `Next Steps` field is updated, the previous value of this field will be stamped into the `Next Steps History` field. This will be complete with a time stamp and will keep the previously existing value of `Next Steps History` to keep a full log.
+
+ **Criteria to enter this logic:**
+   * `Next Steps` has been changed/updated OR the Opportunity has just been created.
+   * `Next Steps` previous value was not a "blank" value.
+
+**Logic Locations:**
+
+* Workflow Rule: [Next Steps History](https://gitlab.my.salesforce.com/01Q4M000000sslN)
+* Field Update Action: [Update Next Steps History](https://gitlab.my.salesforce.com/04Y4M000000saO7)
+
+
+
 ## Automations
 
 ### Email Alerts
