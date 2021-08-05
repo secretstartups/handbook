@@ -93,7 +93,11 @@ The options shown are:
 - Other. 
 
 ### Reviewer Nomination Process 
-In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member. Reviewers can be managers, direct reports or co-workers. Here are some best practices for selecting reviewers:
+In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member. 
+
+**If you are unsure who to nominate as a reviewer, consider saving your nominations as a `Draft` in CultureAmp.** This will allow you to sign back in and add or delete your nominations. 
+
+Reviewers can be managers, direct reports or co-workers. Here are some best practices for selecting reviewers:
 
 - Nominate your manager, all of your direct reports (if applicable) and a selection of up to three peers. If you are in heavily cross-functional or leadership roles, ensure you have cross-functional representation in line with your level of collaboration.
 - Search for team members using their email or last name, as CultureAmp does not support listing Preferred Name, only Legal Name and Email.
@@ -232,6 +236,8 @@ Troubleshooting for common questions during the 360 process.
     1. You can email `#people-connect` with the email addresses of your nominations. 
 
 1. I submitted my 360 nominations but I want to make an adjustment, what can I do? 
-- Send an email to people-connect@gitlab.com with the team member you would like to add/delete and we can update your nominations. 
+   1. First, sign into CultureAmp to see if you submitted your nominations or if you saved them as a draft. If it is in draft mode you can adjust the nominations yourself. 
+   1. If it has been submitted - Send an email to people-connect@gitlab.com with the team member you would like to add/delete and we can update your nominations. 
+
 
 
