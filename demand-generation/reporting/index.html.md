@@ -50,13 +50,13 @@ The below table shares some key metrics, with our current SSoT source, filters t
 
 | Metric | Source | Notes |
 | --- | --- | --- |
-| SAOs by segment/region | Source | Notes |
-| MQLs by segment/region | Source | Notes |
-| Spend (planned/current) by segment/region | Source | Notes |
-| Spend (past actuals) by segment/region | Source | Notes |
-| Conversion rates by segment/region | Source | Notes |
-| Velocity by segment/region | Source | Notes |
-| Cost-per by segment/region | Source | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
+| SAOs by segment/region | DG Dash | Notes |
+| MQLs by segment/region | DG Dash | Notes |
+| Spend (planned/current) by segment/region | PMG | Notes |
+| Spend (past actuals) by segment/region | PMG | Notes |
+| Conversion rates by segment/region | DG Dash | Notes |
+| Velocity by segment/region | DG Dash | Notes |
+| Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
 | Pipeline coverage | [Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352) | Breaks out by segment and New FO/Growth |
 
 #### Cost-per by segment/region
@@ -76,10 +76,10 @@ The below table shares some key metrics, with our current SSoT source, filters t
 
 
 
-PMG Dashboard
-- is there a match up on the dg dash? If not, what might be the cause?
-- is what was expected to be spent in a given segment/region being spent? (compare against digital quarterization report)
-- are we hitting the number of inquiries expected?
+**Crosschecking for Digital:**
+- Is there a match up on the dg dash? If not, what might be the cause? Where to troubleshoot?
+- Is what was expected to be spent in a given segment/region being spent? (compare against digital quarterization report)
+   - [2H Quarterization](https://docs.google.com/spreadsheets/d/1YnVapJGloup6QInhi4alGFpxU8kViPklCx11EH34Y54/edit#gid=1264199374)
 
 ### Pipeline X-Ray Report
 {: #pipeline-xray}
@@ -111,10 +111,6 @@ In Google Drive look up `Pipeline X-Ray:  Net ARR - Current & Next Quarter Overv
 * QTD Closed Deals (#)
 * QTD Sales Funnel Target
 * QTD over Target QTD - Closed (#)
-
-**(Blue Section)**
-
-**(Green Section)**
 
 ### Sisense Demand Generation Dashboard
 {: #demand-gen-dash}
