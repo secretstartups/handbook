@@ -483,7 +483,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 ## ⏱️ Efficiency
 {:#efficiency .gitlab-purple}
 
-We care about working on the right things, not doing more than needed, and not duplicating work. This enables us to achieve more progress, which makes our work more fulfilling.
+Working efficiently enables us to make fast progress, which makes our work more fulfilling.
 
 ##### Write things down
 {:.no_toc}
