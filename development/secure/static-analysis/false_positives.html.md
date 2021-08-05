@@ -11,4 +11,8 @@ title: "Static Analysis Group Defined False Positives"
 
 ## Static Analysis Group Defined False Positives
 
-This is a place for the Static Analysis Group to document vulnerability False Positives it dismisses.
+The table below lists different rule ids and situations in which they can be considered as false positives. The column *Analyzer* shows the analyzer that produces the false positives, columns *CWE* and *ID* show the reported CWE ID and the native vulnerability ID that is used by the analyzer to identify a vulnerability, respectively. The column *False Positive Reason* details why the reported finding can be considered as a false positive.
+
+| Analyer  | CWE    | ID      | False Positive Reason   |
+| -------- | ------ | ------- | ----------------------- |
+| gosec    | 78     | G204    | only variables to which constant values are assigned are used as paramteres; variables are sanitized before used as parameters  |
