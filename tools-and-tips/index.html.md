@@ -608,9 +608,19 @@ To add an event to this calendar:
 
 #### Managing invite responses
 
-Add a filter to remove invites responses from your inbox with the following query:
+If you are familiar with queries in Gmail, add a filter to remove invites responses from your inbox with the following query:
 
 `*.ics subject:("invitation" OR "accepted" OR "rejected" OR "updated" OR "canceled event" OR "declined") when where calendar who organizer`
+
+You can also create a filter to remove ALL invite responses from your inbox with the following search terms:
+
+- Subject: "invitation" OR "accepted" OR "rejected" OR "updated" OR "canceled event" OR "declined"
+- Has the words: *.ics 
+
+Then click Create filter:
+
+- Skip the Inbox
+- Apply the label (of your choosing)
 
 #### Modifying Events
 
