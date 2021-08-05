@@ -43,3 +43,8 @@ The term *"sales"* refers to the Sales Team and *"field"* includes the Customer 
 
 #### Current Office Hours 
 - Sales Systems currently holds office hours every Wednesday at 10:30 AM PST
+
+### Field Operations Releases and Changelog 
+Field Operations works to deliver Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk (QTC) in a batched, bi-weekly release cadence. To learn more, see the [Field Ops Release Schedule page] (link TBD). 
+
+For a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk since Q3-FY22, see the [Field Ops Changelog page] (link TBD). 
