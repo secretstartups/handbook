@@ -261,7 +261,7 @@ Promotions and compensation change requests will reopen in BambooHR on 2021-02-0
 
 ## Performance Factor
 
-Performance Factors are assessed twice per year as part of the [Performance/Potential Matrix](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). The average performance output (developing - performing - exceeding) will be used for annual compensation review.
+Performance Factors are assessed twice per year as part of the [Performance/Growth Matrix](/handbook/people-group/talent-assessment/#the-performancegrowth-matrix). The average performance output (developing - performing - exceeding) will be used for annual compensation review.
 
 For FY22 compensation (effective February 1, 2021) we will only have the ability to have one assessment (conducted in November 2020). If a team has already submitted a Performance/Potential Assessment in Q3 FY21, they will not be required to submit another assessment in Q4, but may update their assessment if desired.
 
