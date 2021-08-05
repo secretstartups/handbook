@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Aug 4       |   [Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)       |  Fern D.          |
 | Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
 | Sep 1       |                |                |
 | Sep 15      |                |                |
@@ -37,6 +36,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-08-04   |   **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
 | 2021-07-14 | **[How to Introduce PS with Ease](https://youtu.be/JU3aXg7Hry0)** | Private |
 | 2021-06-16 | **[Container Host Security - Getting Started with Falco](https://youtu.be/LtQrLXzFc8E)** |   Public              |
 | 2021-05-19 | **[Enablement Roundtable - Completed OKR's](https://youtu.be/m6w4mVhA2GY)** |    Private          |
