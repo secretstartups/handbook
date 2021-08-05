@@ -270,7 +270,6 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [Digital Experience](/handbook/marketing/inbound-marketing/digital-experience/) | Michael Preuss | No | Every other month |
 | [General](/handbook/ceo/) | Sid Sijbrandij | No | Every other month |
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Becky Reich | No | Every other month |
-| [Inbound Marketing](/handbook/marketing/inbound-marketing/) | Danielle Morrill | No | Every other month |
 | [UX Research](/handbook/engineering/ux/ux-research/) | Sarah Jones/Adam Smolinski | No | Every other month |
 | [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Every other month |
 | [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No | Every other month |
