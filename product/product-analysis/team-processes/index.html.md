@@ -35,7 +35,8 @@ a self-service tool. As such, we feel comfortable setting a target of 3 PM:1 Pro
 
 ### Closing the Gap
 
-As a relatively new group at GitLab (established FY21 Q4), we are still growing the team and 
-we have a lot of ground to cover to close the gap between the current state and our target 
-ratio. As we onboard new team members, we will increase our coverage of the product organization, 
-but in the interim, we encourage PMs to leverage [office hours](/handbook/product/product-analysis/#office-hours).
+The current PM:Product Analyst ratio is ~10:1 - 40 IC product managers (including current openings) 
+and 4 product analysts (3 ICs and 1 IC/Manager hybrid). We plan to hire 4 more analysts by 
+the end of 2022, which would bring the ratio to 5:1 (assuming the PM head count remains the same). 
+As we work to close the gap and move towards to the 3:1 target, we encourage PMs to leverage 
+[office hours](/handbook/product/product-analysis/#office-hours).
