@@ -873,19 +873,18 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 
 **Report 6: Total courses completed by team members**
 
-1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361)
+1. Open [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1142844710)
+1. Confirm `GitLab Internal` = `t` filter is applied to remove non-team members
 1. Add total completions for Pathway and Journey for the desired month
 
 Note: Completed courses is equal to total completions of Journeys and Pathways in GitLab Learn
 
 **Report 7: Courses completed by non-team members**
 
-1. Open [total courses completed by all users all time/per month report](https://edcast-536.domo.com/page/2188975/kpis/details/863821097
-)
+1. Open [total courses completed by non-team members all time/per month report](https://edcast-536.domo.com/page/2188975)
+1. Confirm `Non-GitLab` filter is applied to remove team members from total count
 1. Add total completions for Pathway and Journey for the desired month
-1. Subtract same month value from [total courses completed by team members all time/per month report](https://edcast-536.domo.com/page/1036257110/kpis/details/1682472361) to exclude team members from this metric
 
-{might be able to remove step 3 if I can confirm how to sort by internal on the non-team member report - right now it shows no data}
 
 #### Other training
 
