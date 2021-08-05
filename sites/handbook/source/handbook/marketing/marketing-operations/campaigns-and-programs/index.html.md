@@ -299,6 +299,8 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
+For virtual events, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
+
 For all other campaign types, follow Steps 1-5 below. All steps are required. 
 
 **Important Notes**:
@@ -310,7 +312,9 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 - Conference - Virtual: [YYYYMMDD_Vendor_VirtualConfName (Conference - Virtual Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
-- Self-Service Virtual Event with or without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
+- Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
+- Self-Service Virtual Event with Promotion: [YYYYMMDD_SelfServiceTopic_Region(with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8387A1)
+- (ABM only) Self-Service Virtual Event with Marketo Landing Pages: [YYYYMMDD_SelfServiceTopic_Company(ABM)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
