@@ -150,7 +150,7 @@ The location factor review is an internal process completed by the Total Rewards
     1. Analyze the average data for all locations in a geographical region to determine the location factor for that geographical region.
     1. Analyze all data for metro areas and countries separately to determine which metro areas and countries will need to be separated from the location factor determined for the geographical region.
     1. If the formula is overwritten, notate the reasoning why.
-1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml).
+1. Once the new locations factors are reviewed and approved, these are updated in the [handbook](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/location_factors.yml).
 
 ###### Pulling Survey Data and Matching
 
