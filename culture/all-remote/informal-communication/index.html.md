@@ -22,13 +22,19 @@ On this page, we're detailing how informal communication occurs at GitLab, how i
 ## Formally design informal communications
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">When working remote it is important to formalize informal communication. Explicitly plan time to create, build, and maintain social connections and trust. In our handbook we list 15 methods <a href="https://t.co/OAYB1uKX3r">https://t.co/OAYB1uKX3r</a> which I&#39;ll summarize in this thread.</p>&mdash; Sid Sijbrandij (@sytses) <a href="https://twitter.com/sytses/status/1250946875143815168?ref_src=twsrc%5Etfw">April 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-In colocated environments, informal communication is naturally occurring. When individuals are physically located in the same space, there are ample opportunities to chitchat and carry on conversations outside of formal business settings. 
+### Organize informal communication
 
-Making social connections with coworkers is important to building trust within your organization. One must be **intentional** about designing **informal** communication when it cannot happen more organically in an office.
+Informal team member communications, such as a chat about life outside of work, are necessary for building trust. Trust is essential for great business results and is a [foundational element of culture](/company/culture/#culture-at-gitlab). Many businesses invest heavily in offices and facilities, because they believe offices are necessary for informal communication. 
+
+> During the pandemic, many businesses that were forced to work remotely discovered that productivity [increased](https://bfi.uchicago.edu/working-paper/why-working-from-home-will-stick/). Many of these same businesses are now making plans to return to the office. One reason given is that not everyone can work from home. GitLab solves this by allowing people to [rent and expense work space](/handbook/finance/expenses/#-coworking-or-external-office--space). Another reason given is that people miss working from a central office with co-workers. I don’t think that people miss the commute or the office furniture. They miss informal communication. Central offices are an expensive, inconvenient, and indirect way to facilitate informal communication. It is more efficient to directly organize informal communication.
+>
+> For example, every person who joins GitLab has to schedule at least 5 coffee chats during their onboarding. We also have social calls, Ask Me Anything meetings with senior leaders, and over 15 other explicit ways to encourage employee connections and relationship building. Intentionally organizing informal communication enables the trust-building conversations that are essential for collaboration. This can be more effective than relying on chance encounters in a physical office. You can connect with team members throughout the world and across departments through a coffee chat. You may not meet people outside of your own floor in an office setting. - *GitLab co-founder and CEO Sid Sijbrandij*
 
 ![Group social calls are a great way for remote teams to connect and bond](/images/all-remote/gitlab-marketing-team-hotdog-meeting.jpg){: .shadow.medium.center}
 Group social calls are a great way for remote teams to connect and bond
 {: .note.text-center}
+
+### Valuing conversation on non-work topics
 
 Informal communication is important, as it enables friendships to form at work related to matters *other* than work. Those who feel they have genuine friends at work are [more likely to enjoy their job](https://onlinelibrary.wiley.com/doi/full/10.1111/peps.12109), perform at a high level, feel invested in the company, and serve others within the organization. At GitLab, we desire those outcomes as well, reinforcing our [Results value](/handbook/values/#results). 
 
