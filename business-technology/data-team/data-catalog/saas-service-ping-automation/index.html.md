@@ -14,13 +14,15 @@ title: "SaaS Service Ping Automation"
 
 Service Ping is a process in GitLab that collects and sends a weekly payload to GitLab Inc. The payload provides important high-level data that helps our product, support, and sales teams understand how GitLab is used. For example, the data helps to:
 
-Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features.
-Collect other facts that help us classify and understand GitLab installations.
-Calculate our Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features.
+1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features.
+1. Collect other facts that help us classify and understand GitLab installations.
+1. Calculate our Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features.
 
 For SaaS, the process is currently manually created every week by one of the Product Intelligence Engineers. This process is very time-consuming and relies on the availability and the bandwidth of the Product Intelligence Engineers
 
-SaaS Service Ping Microservice is a service replicating the Service Ping currently generated manually.
+[Here is an example of how a Service Ping Payload looks like](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload)
+
+**SaaS Service Ping Microservice is a service replicating the Service Ping currently generated manually.**
 
 ## What is Service Ping ?
 
@@ -37,6 +39,9 @@ These metrics are actually created by a SQL query run against the Postgres SQL d
 
 ### Redis metrics
 
+This type of counters are used to record occurances of some arbitrary situation happening in GitLab system that does not create any permanent record in our Database, for example when user folds or unflods side bar. 
+
+In such cases developer might decided that it would be useful to report that situation occurrence, if they decided to do so, they arbitrary decided on the name that would represent give situation for example navigation_sidebar_opened and also arbitrary decide on moment (by adding dedicated piece of code in existing execution path) when it happen.
 
 ## SaaS Service Ping Payload Creation
 
@@ -58,9 +63,24 @@ The Product Intelligence team has created an API endpoint that enables us to ret
 
 Let's take a look at a few queries received in the JSON response:
 
+```
+ "counts": {
+    "assignee_lists": "SELECT COUNT(\"lists\".\"id\") FROM \"lists\" WHERE \"lists\".\"list_type\" = 3",
+    "boards": "SELECT COUNT(\"boards\".\"id\") FROM \"boards\"",
+    "ci_builds": "SELECT COUNT(\"ci_builds\".\"id\") FROM \"ci_builds\" WHERE \"ci_builds\".\"type\" = 'Ci::Build'",
+    "ci_internal_pipelines": "SELECT COUNT(\"ci_pipelines\".\"id\") FROM \"ci_pipelines\" WHERE (\"ci_pipelines\".\"source\" IN (1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13) OR \"ci_pipelines\".\"source\" IS NULL)",
+    "ci_external_pipelines": "SELECT COUNT(\"ci_pipelines\".\"id\") FROM \"ci_pipelines\" WHERE \"ci_pipelines\".\"source\" = 6",
+    "ci_pipeline_config_auto_devops": "SELECT COUNT(\"ci_pipelines\".\"id\") FROM \"ci_pipelines\" WHERE \"ci_pipelines\".\"config_source\" = 2",
+    "ci_pipeline_config_repository": "SELECT COUNT(\"ci_pipelines\".\"id\") FROM \"ci_pipelines\" WHERE \"ci_pipelines\".\"config_source\" = 1",
+    "ci_runners": "SELECT COUNT(\"ci_runners\".\"id\") FROM \"ci_runners\"",
+    "ci_triggers": "SELECT COUNT(\"ci_triggers\".\"id\") FROM \"ci_triggers\"",
+```
+
 So the goal would be to be able to run them against Snowflake tables. We need to do so, to have tables that have the same column names and the same granularity as the ones in the Postgres SQL tables.
 
-Here below, you see the way we currently transform the data:
+Here below, you see the way we currently transform the Postgres data in Snwoflake:
+
+![ALT](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/images/dotcom-data-transformation.png)
 
 As highlighted here, we created a `dedupe` layer that is exactly meeting this criteria. 
 
@@ -68,7 +88,15 @@ We have then identified the tables against which we can run the SQL-based metric
 
 We have a script running that transforms this SQL statements :
 
+```
+"SELECT COUNT(\"ci_builds\".\"id\") FROM \"ci_builds\" WHERE \"ci_builds\".\"type\" = 'Ci::Build'",
+```
+
 to this SQL statement:
+
+```
+"SELECT 'counts.ci_builds' AS counter_name,  COUNT(ci_builds.id) AS counter_value, TO_DATE(CURRENT_DATE) AS run_day   FROM prep.gitlab_dotcom.gitlab_dotcom_ci_builds_dedupe_source AS ci_builds WHERE ci_builds.type = 'Ci::Build'"
+```
 
 We then run all these queries and store the results in a json that we send them to the table called `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`. This table has the following columns:
 
@@ -87,6 +115,13 @@ We created a Airflow dag `saas-instance-usage-ping` run every Saturday that exec
 
 ### Summary
 
-This Lucid chart diagram summarizes the current workflow
-## From RAW to Sisense
+This Lucid chart diagram summarizes the current workflow:
 
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="l6G10K4T0B6q"></iframe></div>
+
+
+## From RAW to PROD database and Sisense
+
+We currently do limited transformation once the data is stored in RAW. In the future, the data flow will look like that:
+
+That means the data set created will be UNIONED with the current data pipeline in the model `prep_usage_data_flattened`.
