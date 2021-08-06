@@ -60,7 +60,7 @@ At a high level, the process is:
 | by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs
 | by the 17th | **EMs** merge MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring content blocks for usability, performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
 | on the 18th | At 8 AM PT, (3 PM UTC) the **Release Post Manager** aggregates all the content blocks by updating the release post branch from the `master` branch, and moving all the "unreleased" items into the release post branch for **final content assembly**.<br><br>The **Release Post Manager** adds the MVP for the release and selects a cover image<br><br>The **Release post manager** works with VP of Product Management to pick features highlighted and finalizes the introduction content |
-| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**. 
+| 18th - 20th | The **Release Post Manager and Technical Writer** perform final reviews/revisions to ensure everything is ready to publish. <br><br>Any changes after 8 AM PT (3 PM UTC) on the 18th will be done via the `release-X-Y` branch, not `master` branch, and is subject to approval by the **Release Post Manager**.
 
 The 18th - 20th can also fall on vacations or holidays. It is important for Product Managers to designate, ahead of time, who to respond to time-sensitive inquiries should they be unreachable. Release Post Managers are also empowered to make decisions and take actions after not hearing back from the product manager before the EOD on the 20th.
 |
@@ -252,7 +252,7 @@ _**Note:** The MRs for Usability improvements, Bugs, and Performance improvement
 1. On the `release-X-Y-bugs` branch, add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
    to the `data/release_posts/unreleased/` folder.
 1. On the `release-X-Y-usability-improvements` branch, add
-   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml) 
+   [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml)
 1. On the `release-X-Y-performance-improvements` branch, add
    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
    to the  `data/release_posts/unreleased/` folder.
@@ -360,7 +360,7 @@ After the Review App for the release post has been generated, the Release Post M
 
 It is the Release Post Manager's responsibility to make sure all content is completed by the 20th of the month, ensuring a one day buffer is left for final error fixes and small improvements.
 
-**NOTE** To the extent possible we strive to use [GitLab's Community Code Review Guidlines](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) when performing Release Post content review. 
+**NOTE** To the extent possible we strive to use [GitLab's Community Code Review Guidlines](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) when performing Release Post content review.
 
 ##### What RPM should look for when reviewing content blocks
 
@@ -576,7 +576,7 @@ It's also recommended you collaborate with your EM in deciding what to include.
 
 ##### Contributing to Usability Improvements
 
-It's up to the product manager's and product designer's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage PDs to make sure all items that don't make it into this section are added to the UI Polish gallery, with a link from the release post.  
+It's up to the product manager's and product designer's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage PDs to make sure all items that don't make it into this section are added to the UI Polish gallery, with a link from the release post.
 
 When evaluating what to include consider the following factors:
 
@@ -996,8 +996,8 @@ Content blocks in the YAML data file contain the following entries, as exemplifi
 ```yaml
 features:
   primary:
-    - name: "Multi-Project Pipeline Graphs"
-      available_in: [premium, ultimate]
+    - name: "Do great things with this feature"
+      available_in: [core, premium, ultimate]
       documentation_link: 'https://docs.gitlab.com/ee/ci/multi_project_pipelines.html#multi-project-pipeline-visualization-premium'
       image_url: '/images/topics/multi-project_pipelines.png'
       reporter: bikebilly
@@ -1007,7 +1007,11 @@ features:
         - "SAST"
       issue_url: 'https://gitlab.com/gitlab-org/gitlab/issues/1234'
       description: |
-        Lorem ipsum dolor sit amet, [consectetur adipisicing](#link) elit.
+        Use present tense, and speak about "you" instead of "the user."
+
+        Describe how the new functionality is beneficial. Use phrases that start with, "In previous versions of GitLab, you couldn't... Now you can..."
+
+        [Add another link](#link) if needed.
 ```
 
 #### Description
@@ -1232,7 +1236,7 @@ If you need an extra block to convey important info, and it doesn't fit the othe
 
 ```yaml
 extras:
-  header: "GitLab SaaS Performance Improvements" 
+  header: "GitLab SaaS Performance Improvements"
   blocks:
   - title: "Example performance improvement"
     description: | # supports markdown
@@ -1243,7 +1247,7 @@ For more multiple blocks, use:
 
 ```yaml
 extras:
-  header: "GitLab SaaS Performance Improvements" 
+  header: "GitLab SaaS Performance Improvements"
   blocks:
   - title: "Example performance improvement"
     description: | # supports markdown
@@ -1267,17 +1271,18 @@ _To be added by Product Managers or Engineering Managers and merged by either._
 
 To better understand GitLab's overall deprecations and removals policy, check out this [video](https://about.gitlab.com/handbook/product/gitlab-the-product/#video-on-deprecations-and-removals-process).
 
-A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included in the release post as far in advance as possible or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 Create a deprecation notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
 ```yaml
 deprecations:
-  - feature_name: Lorem ipsum dolor
+  - feature_name: XYZ feature or function will be deprecated at ABC time
     due: May 22nd, 2017 # example
     reporter: bikebilly # item author username
     description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
+      Use future tense ("will be") because this deprecation hasn't happened yet, but is planned for the future.
+
+      [Add another link](#link) if needed.
 ```
 
 `feature_name` should follow the structure of "XYZ feature or function will be deprecated at ABC time."
@@ -1327,39 +1332,45 @@ Create a removal notice by creating one .yml file in the `/data/release_posts/un
 
 ```yaml
 removals:
-  - feature_name: Lorem ipsum dolor
-    date_of_removal: May 22nd, 2017 # example
-    reporter: bikebilly # item author username
+  - feature_name: XYZ feature or function has been removed
+    date_of_removal: May 22nd, 2017 # day the removal was released
+    reporter: bikebilly # GitLab username of the person reporting the removal
     description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
+      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
+
+      [Add another link](#link) if needed.
+
+      Don't forget to edit /data/features.yml.
 ```
 
 If you need to set up multiple removals, notify the [Release Post Manager](#release-post-manager) and make use of multiple feature removal blocks in a single file:
 
 ```yaml
 removals:
-  - feature_name: Lorem ipsum dolor
-    date_of_removal: May 22nd, 2017 # example
-    reporter: bikebilly # item author username
+  - feature_name: XYZ feature or function has been removed
+    date_of_removal: May 22nd, 2017 # day the removal was released
+    reporter: bikebilly # GitLab username of the person reporting the removal
     description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
-  - feature_name: Lorem ipsum dolor
-    date_of_removal: May 22nd, 2017. # example
-    reporter: bikebilly # item author username
+      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
+
+      [Add another link](#link) if needed.
+
+      Don't forget to edit /data/features.yml.
+  - feature_name: ABC feature or function has been removed
+    date_of_removal: May 22nd, 2017. # day the removal was released
+    reporter: bikebilly # GitLab username of the person reporting the removal
     description: |  # example (supports markdown)
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-      Veritatis, quisquam.
+      Describe the feature that was removed. Use past tense ("feature X was removed") because the removal has already happened.
+
+      [Add another link](#link) if needed.
+
+      Don't forget to edit /data/features.yml.
 ```
 
-`feature_name` should follow the structure of "XYZ feature or function has been removed."
-
-`date_of_removal` should be the day the removal was releaed, e.g. May 22nd, 2021. 
-
-`reporter` should be the gitlab username of the person reporting the removal. 
-
-`description` should contain a brief description of the feature or functionality being removed.
+- `feature_name` should follow the structure of "XYZ feature or function has been removed."
+- `date_of_removal` should be the day the removal was released, e.g. May 22nd, 2021.
+- `reporter` should be the GitLab username of the person reporting the removal.
+- `description` should contain a brief description of the feature or functionality being removed.
 
 The `/data/features.yml` file should also be edited with the removed features deleted from the file.
 
@@ -1539,7 +1550,7 @@ Important note: Feature order should not be changed without approval from the Re
 
 Primary feature content blocks are sorted alphabetically by file name so if necessary, the ordering can be affected by adding a 2-digit numerical prefix to the file name of each individual content block. For example, `01_filename.yml`, `02_another_file.yml`, etc.
 
-Secondary features are first grouped by stage and within each stage sorted alphabetically by title. Features with no specified stage are grouped last. In release 13.10 and prior, bug fixes, performance improvements, and usability sections were also part of this automated sort order.  Starting with release 13.11, bugs, performance improvement, and usability sections were changed from secondary features to tertiary features, so they now will automatically come after the secondary features and prior to the Deprecations Removals and Upgrades sections. 
+Secondary features are first grouped by stage and within each stage sorted alphabetically by title. Features with no specified stage are grouped last. In release 13.10 and prior, bug fixes, performance improvements, and usability sections were also part of this automated sort order.  Starting with release 13.11, bugs, performance improvement, and usability sections were changed from secondary features to tertiary features, so they now will automatically come after the secondary features and prior to the Deprecations Removals and Upgrades sections.
 
 It is not recommended but possible to manually affect the sort order of the secondary features. To do so a change to the content block's `title` is required.
 
@@ -1763,7 +1774,7 @@ please make sure to specify them in the title, add the correct [category](../#ca
    1. Images will end up at a URL like `https://about.gitlab.com/images/X_Y/XXXXXXX.XXX` Make sure you provide a full URL for the YAML entry. Ex: `https://about.gitlab.com/images/13_7/reviewers_sidebar.png`
    1. If an image is not available, you can use a generic image (ex: https://about.gitlab.com/images/ci/gitlab-ci-cd-logo_2x.png) but it is recommended to only use release post items that have an image as an additional measure to check for posts that don't make the release
 1. Submit the MR and add labels  ~"documentation" and ~"Pick into XX.Y" where XX.Y is the release that the What's New MR is for.
-1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews. 
+1. **IMPORTANT: The MR should not be merged until after the release post is live on the 22nd or the images will not display** After the release post is live, but before merging, the branch should be checked out and the content checked in GDK to make sure that all images are displaying, links are accurate, and that the What's New items are part of the final release post. Only once those are confirmed should the MR be merged. Typically this means the What's New content will be live on the 23rd or 24th, depending on maintainer reviews.
 
 <style>
   pre { margin-bottom: 20px; }
