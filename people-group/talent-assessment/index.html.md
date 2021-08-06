@@ -264,9 +264,11 @@ Our goal is to have the whole company use the the Matrix [Assessment Tool](https
 
 ## Identifying Action 
 
-There is an overview of recommended actions to take after the calibration session included in the [Performance/Growth Training Information](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g88f412eeb7_1_13) from slide 26- 35. Additionally, this matrix can facilitate: 
+After the calibration sessions the performance and growth outcomes can be used as input for the following: 
 * [Career Development Conversations](https://about.gitlab.com/handbook/leadership/1-1/#career-development-discussion-at-the-1-1)
 * Promotion planning 
+* Identifing [L&D opportunities](/handbook/people-group/learning-and-development/)
+* Succession Planning
 
 # Timeline
 
