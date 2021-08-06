@@ -51,6 +51,7 @@ We plan on starting with important pages that are simpler with lower risk, gradu
 3. Free Trial
 4. Pricing
 5. Homepage
+
 ## Scope
 - 6-8 weeks w/ 2 engineers
 - Targeting 5 pages fully transitioned with the remaining being completed through Q4
