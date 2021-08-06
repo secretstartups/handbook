@@ -95,12 +95,12 @@ We will require GCP Deployment Keys from Infrastructure. We would also like a ne
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQLPxxhS_duhyznvWPP4YcrW_cihzViiKeyDOP9tJWzFpOb2g_cbaNXR7Oy1nYcjpojEzorNUzMj1k-/pub?w=1440&amp;h=1080">
 
-### BENEFITS
+### Benefits
 1. Increased output on key business driving page
 1. Minimizes breakage for pages like the release post
 1. Sets up a migration plan we can continue to work on as new pages become prioritized
 
-### RISKS
+### Risks
 1. Will need very clear documentation to ensure clarity of what lives where
 1. We will most likely need support from Infrastructure
 1. Duplication of dependencies on both sites (until entire Marketing site is moved to new architecture)
