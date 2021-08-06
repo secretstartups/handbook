@@ -36,8 +36,9 @@ The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki ca
 This call occurs every two weeks on Thursday at two times to account for timezones.
 - 11:00pm PT
 - 08:30am PT
-For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar.
-For future team members: You will receive an email with the future dates.
+
+* For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar.
+* For future team members: You will receive an email with the future dates.
 
 Please note that this call will take a place a week or two before your actual start date.
 
