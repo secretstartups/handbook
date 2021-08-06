@@ -3,8 +3,6 @@ layout: job_family_page
 title: "Engineering Analyst"
 ---
 
-# Engineering Analyst
-
 Engineering Analysts at GitLab build and improve on the data capabilities needed to support a highly productive Engineering Division. 
 They equip Engineering leaders with metric intelligence and actionable performance indicators.
 They work closely with GitLab’s Data team to enable new data capabilities that drives our analysis and visualizations.
@@ -15,8 +13,6 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 * Create actionable, concise, and presentable data visualizations
 * Ensure accuracy of Performance Indicators in the Engineering Division and all it's departments.
 * Continuously improve the accuracy and efficiency of Engineering Departments' performance indicators. 
-* Work in close collaboration with GitLab's Data team, provide feedback on o
-
 
 ## Requirements
 
@@ -70,7 +66,7 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst-1) role.
+The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst) role.
 
 * Deliver data analytics and visualization with minimal guidance and support.
 * Contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
@@ -101,7 +97,6 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * Seek and deliver improvements to data quality, security, model refactoring and query performance.
 * Drive our handbook performance indicator pages' efficiency, guidelines and maintenance efforts. 
 * Maintain a deep understanding of how data flows within GitLab and identify new data sources needed to unblock business objectives.
-* Assist the Data team in expanding our data warehouse with clean data (ready for analysis) by implementing 
 * Enforce and champion handbook-first documentation. 
 * Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
 * Maintain expertise in data domains of two or more Engineering Departments.
@@ -137,10 +132,16 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * Community Contributions
 
 ### UX
+* SUS Scores
+* UX Debt
 
 ### Security
+* Security Vulnerabilities
+* Compliance levels
 
 ### Support 
+* Cost of goods sold
+* CapEx
 
 ## Performance Indicators 
 * Engineering Performance Indicator Content MR Rate 
@@ -148,17 +149,15 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
   * [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
   * [Infrastructure cost vs plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)
 
-
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
 
 * Selected candidates will be invited to fill out a short questionnaire.
 * Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with our Manager, Data & Analytics
-* Next, candidates will be invited to schedule a second interview with a Data Analyst
-* Next, candidates will be invited to schedule a third interview with additional members of the Data Team
-* Next, if applying for a specialty, candidates will be invited to schedule a fourth interview with our the specialty lead
-* Finally, candidates may be asked to interview with our CEO
+* Next, candidates will be invited to schedule a first interview with the hiring manager
+* Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst
+* Next, candidates will be invited to schedule a third interview with additional members of the Engineering Analytics Team
+* Finally, candidates may be asked to interview with the VP of Quality.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
 
