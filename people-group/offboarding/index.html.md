@@ -90,6 +90,10 @@ If resignation is the only solution after you have discussed your concerns, plea
 
 1. **Team Member**: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
 1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
+1. **Team Member**: The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe:
+    - Marc DiSabatino - AMER time zone
+    - Paul Laurinavicius - EMEA time zone
+    - Steve Ladgrove - APAC time zone
 1. **PBP**: Upon receipt of the resignation, the manager will notify the People Business Partner (PBP) by sending a copy of the resignation email/letter.
     * A discussion with the  manager and PBP should also happen if needed to determine what led up to the resignation.
     * The PBP will acknowledge the receipt of the resignation with the team member confirming the last working day. Feel free to reference this [example email](https://docs.google.com/document/d/1rZvczqEuyyFDAzjheiF4LpcLuvj9fFd6maPOSDwkYpQ/edit).
@@ -118,7 +122,7 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
       * Remind the departing team member it is necessary to complete the [Exit Survey](#exit-survey) _prior_ to the Exit Interview so it can be discussed.
       * Before the exit interview the interviewer (The People Specialist and/or People Business Partner) should make sure to carve out time to review the Exit Survey answers and prepare for the interview. If any voilations to our Code of Conduct are mentioned in the exit survey, these should be discussed first in the exit interview. 
       * Once the exit interview has been completed and all notes entered, the assigned People Specialist will ping the PBP in the `#pbp-peopleops` Slack channel to confirm that the notes have been added and that the Exit Interview has been completed. This ping will occur within 48 hours of the exit interview.
-1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regionl time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
+1. **Experience**: The People Experience team member will reach out to the departing team member directly to confirm the time at which they can proceed with the creation of the [offboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/offboarding.md) on the team member's last day. **Offboardings will see issues being created automatically at the latest 4:00pm their regional time, at which point de-provisioning will commence, unless there are unavoidable circumstances for a later offboarding.**
 
 
 ### Exit Survey
