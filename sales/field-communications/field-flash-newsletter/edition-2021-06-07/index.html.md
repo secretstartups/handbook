@@ -74,7 +74,7 @@ Take 5 minutes to review the [updated Sales Order Processing handbook page](/han
 ----
 The Channel Ops team has announced **multiple updates and improvements to Channel processes**: 
 1. The [@ Partner Help Desk Chatter alias](/handbook/sales/field-operations/channel-operations/#partner-help-desk-support-and-communication) is now live in Salesforce for Partner-related requests
-1. New [partner discount structures](/handbook/sales/field-operations/channel-operations/#partner-program-discounts) and [partner requirements](/handbook/resellers/) are now live 
+1. New [partner discount structures](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s) and [partner requirements](/handbook/resellers/) are now live 
 1. [Channel Neutral](https://gitlab.slack.com/archives/C013X9Z6892/p1620252796114200) will now be calculated during the end of month close process based on validated deal attribution and will no longer show an estimate in SFDC while a deal is open
 
 Please reach out in #sales-support with questions. 
@@ -91,48 +91,62 @@ To see what's ahead in 14.0, watch the [kickoff video](https://youtu.be/Z1FqGH0p
 
 ### Upcoming Events 🎟
 **Corporate/Regional Event Spotlights**
-
+- [Global: REMOTE by GitLab](https://remotebygitlab.com/) - June 29
+- [AMER East: GitLab Demo Days Series - Jenkins to GitLab with Customer Use Case](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2627) - June 29
+- [AMER West: Super West Advanced CI/CD Virtual Workshop](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2710) - June 16
+- [AMER PubSec: ATARC/GitLab Program Management Webinar](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2820) - June 30
+- [APAC: DevOps Evolution in the Public Sector](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2979) - June 9
+- [EMEA: GitLab Demo Days Series: Level Up DevOps](https://gitlab.com/gitlab-com/marketing/field-marketing/-/issues/2893) - June 15 - July 1
 
 For a full list of virtual events, see a convenient [calendar view in the Marketing Handbook](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar). 
 
 **Channel Webinars**
-
+- [Partner roundtable: Securing the GitOps Workflow](https://page.gitlab.com/webcast-securing-gitops-workflow.html) - June 15
+- [Partner Marketing Webcast](https://www.brighttalk.com/webcast/18613/492001?utm_source=GitLabInc&utm_medium=brighttalk&utm_campaign=492001) - June 16
+- [May Partner Tech Chat: GitLab on Openshift](https://gitlab.zoom.us/rec/share/xaAfAq9RYKuh8bHWKO-iDNXrp-xJ0qxQsP8qt47FQBOw3loN-nSCcYR-gZqv-FpI.6TLgsoljW7L6WXlj) - Watch the replay
 
 Want the latest on Partner webinars? Subscribe to our [GitLab Partner Channel](https://www.brighttalk.com/channel/18613/). 
 
 ### Enablement Corner 🧠
+Field Enablement and Marketing are partnering to create a new pitch deck for Sales to use in conversations with senior economic buyers. **Please take this quick, [10-question survey](https://w1s9fihea0m.typeform.com/to/q6jJz0m7) and let us know how we can make this next pitch deck great for you!**
 
+---
+Commercial Enablement has kicked off the [Commercial Sales Voice of the Customer video series](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/508). [Watch the recording](https://chorus.ai/playlists/360042) from the first session for valuable insights directly from GitLab customer Vivek Desai, VP of Cloud Infrastructure at Olive.
 
+---
+GitLab is making a significant investment to help Enterprise reps be successful in reaching their Peak Performance in FY22 and beyond through [Account Planning](/handbook/sales/account-planning/)! By now, all ENT SALs, SAs and TAMs should have completed the [Account Planning Methodology Course](https://gitlab.edcast.com/pathways/ECL-9f7e58e8-8600-4f7e-8a8c-dc2d31421443), and the [Account Snapshot in Gainsight Course](https://gitlab.edcast.com/pathways/ECL-5c4a6b55-f0cc-4a15-b445-6b46b2824a1f) and identified their account to plan. The next mini-course, Relationship/ Influence Mapping, is due June 18.
 
 ### Team Member Spotlight 🔦
 
-#### [Alyssa Belardi - SAL, AMER West](https://about.gitlab.com/company/team/#abelardi)
+#### Haydn Mackay - Regional Director, AMER West
 
-![Alyssa-Belardi-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Alyssa-Belardi-TMS-Thumb.jpeg)
+![Haydn-Mackay-TMS-Thumb](/handbook/sales/field-communications/field-flash-newsletter/images/Haydn-Mackay-TMS-Thumb.png)
 
 **Where did you grow up, and where are you based now?**
 
-I grew up in a split household between San Francisco and Tiburon, California. I love the SF Bay Area and have been fortunate enough to stay here for my entire life (except for a short stint living in the Australian bush… slack me to hear that crazy story) and now reside in Orinda, CA. 
+I was born in Melbourne, Victoria, Australia but moved to a small country town about 3 hours north of Melbourne called Milawa when I was 5 years old. After 17 years in the San Francisco Bay Area, I moved to Incline Village, Nevada on the east shore of Lake Tahoe right before COVID broke out.
 
-**What is your favorite thing about your job?**
+**What was your favorite thing about your job?**
 
-Collaborating with various teams to achieve desired results. The most important part of my job is triangulating resources to tell an impactful story, prove the product, provide for and inspire our customers. Without the support of the broader GitLab team, I would most certainly not be able to do my job effectively. 
+It’s always been about the people and building new relationships (both internal and external) to achieve a goal. Helping someone be successful has always provided me the most satisfaction.
 
 **Which of GitLab's Values resonates most with you?**
 
-Results because I firmly believe one can’t achieve Results without Collaboration, Iteration, Diversity/Inclusion, Efficiency and Transparency. This GitLab value holds me accountable every day. 
+When I first found GitLab in 2014, the value of Transparency really stood out. As an open source project, being open and transparent with your community is really important, and I suspect that’s why GitLab was able to build a strong community very quickly. 
 
-**Do you have a helpful tip for working at GitLab to share?**
+**Do you have a helpful tip for working at GitLab and/or in the Field org to share?**
 
-Don’t be shy in Slack channels. Using the channels yields incredible responses from multiple sources – I’ve learned so much from some of the conversations started with what I thought was a simple question. 
+In 2018, William Chia (Manager, Product Marketing), was kind enough to introduce me to Twilio’s current CRO, Marc Boroditsky, for a coffee chat. Marc used the term ‘relentless prioritization’ and that stuck with me. With GitLab being so open where everyone can contribute, it’s easy to lose focus on your OKRs. So, I encourage you to write that on a post-it note and stick it on your monitor. 
+
+In terms of day-to-day work, my advice is to bookmark the [Field Flash archives page](/handbook/sales/field-communications/field-flash-newsletter/#past-newsletters) as there’s so much useful and consolidated content that can help you.
 
 **What is a hobby or skill you have that the team might not know about?**
 
-I collect vintage and unique glass items. Vases are my favorite - especially from Sklo Union, Rosenthal Studio and Louise Roe Copenhagen. I adore arranging flowers in special vases around the house, it’s my simple pleasure to make living itself an art. 
+I can touch the tip of my nose with my tongue.
 
-**Icebreaker: What was your favorite item of clothing as a kid?**
+**We will miss you! Are there any parting words you’d like to share with the team?**
 
-When I was 8, I loved my red high top Chuck Taylor converse… they were the best and I wore them until there were holes through the soles. I still love and wear high top chucks today!
+Be kind to each other. With all that’s happening in the world right now and the pressure of working at a fast-growing company, kindness isn’t always easy. You have to be deliberate about it. I recorded a short farewell video for the team reflecting on my 7+ years at GitLab. [You can watch it here](https://www.youtube.com/watch?v=i5bU1KFmZes). 
 
 ----
 
