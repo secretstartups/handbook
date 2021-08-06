@@ -45,8 +45,8 @@ title: "Sales Territories"
 - **VP Enterprise Sales**: Mike Pyle
 - <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): TBH, Regional Director
 - <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
-- <b>North America - US East</b> (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
-- <b>North America - US West</b> (`#us-west` Slack channel): TBH, Regional Director
+- <b>North America - US East</b> (`#us-east` Slack channel): TBH, Regional Director
+- <b>North America - US West</b> (`#us-west` Slack channel): Brittany Caulfield, Area Vice President
 - <b>Public Sector</b> (`#public-sector` Slack channel): Bob Stevens, Area Vice President
  
 **Commercial Sales**
