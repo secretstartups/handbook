@@ -53,7 +53,8 @@ title: "Sales Territories"
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
 - **Mid Market Global Sales**: Timmothy Ideker, Regional Director
 - **SMB North America Sales** (`#smb` Slack channel): Nick Christou, Regional Director
-- **SMB EMEA/APAC Sales** (`#international-smb` Slack channel): Helen Mason, Area Sales Manager
+- **SMB EMEA Sales** (`#international-smb` Slack channel): Hailey Pobanz, Area Sales Manager
+- **SMB APAC Sales** (`#international-smb` Slack channel): Aasim Khan
 
 ## Territories
 
