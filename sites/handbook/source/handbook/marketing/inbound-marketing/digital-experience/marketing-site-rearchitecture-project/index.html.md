@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Marketing Site Rearchitecture Plan'
+title: 'Core Marketing Site Architecture Plan'
 description: "Core Marketing Site Changes"
 ---
 
