@@ -976,7 +976,7 @@ The following Zendesk macros are set up in the Professional Services Zendesk vie
 1. Wait XX time until deletion is complete, then double check in the admin panel for confirmation
 1. Confirm via email or Zendesk ticket with the user that their account has been deleted
 
-TBD: This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
+This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
 
 ### Automatic email templates
 
