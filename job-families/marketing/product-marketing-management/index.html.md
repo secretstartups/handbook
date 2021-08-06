@@ -232,6 +232,38 @@ Partner and work closely with Strategic Marketing, Product Management, Sales, En
 * You share our values, and work in accordance with those values.
 * Ability to use GitLab.
 
+### Director, Market Strategy & Insights
+This role reports to the Vice President of Portfolio Marketing.
+
+#### Director, Market Strategy & Insights Job Grade
+The Director, Market Strategy & Insights is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Market Strategy & Insights Responsibilities
+* Drive the strategy that enables GitLab to create category-leading GTM programs based on timely market insights and inputs.
+* Create and amplify our analyst relations programs to distill category and market trends. Synthesize those insights into initiatives that inform, educate, and influence the analyst community to accurately position GitLab’s vision and approach.
+* Lead our customer reference functions to evolve into an enterprise-grade voice of the customer strategic function, scaling globally across customer advisory boards and enabling executive briefings.
+* Translate market insights and customer engagements to influence GitLab’s platform strategy and roadmap so that we accelerate our category-defining trajectory.
+* Conduct market studies with trusted independent vendors to analyze addressable market trends and insights to shape our GTM investments and strategies.
+* Collaborate with and connect stakeholders across R&D and GTM to ensure cross functional alignment on key objectives and results.
+* Ensure processes are designed, documented, understood, and followed in a way that minimizes bad or incomplete data.
+* Lead, manage, and grow a team by coaching existing members and closing talent gaps where needed through acquisition of new team members.
+* Proactively manage program budgets and negotiate contracts with vendors.
+
+#### Director, Market Strategy & Insights Requirements
+* 12+ years of experience including 5+ years of management experience
+* Direct experience in the enterprise software industry
+* Prior experience at category-leading/defining software companies is a plus
+* Insights into the frameworks or approach of analyst firms is a plus
+* Experience managing a growing team of high single-digit to double-digit members is a plus
+* Strong leadership presence with clear and concise communication (verbal and written)
+* Balance of strategic vision and tactical execution
+* Adept at creating and managing multiple global programs
+* Excellent planning, organizational and initiative management skills
+* BA or equivalent experience; MBA a plus
+* You share our [values](/handbook/values/), and work in accordance with those values.
+* Ability to use GitLab
+
+
 ### Director, Global Partner Marketing
 
 The Director, Global Partner Marketing reports to 
