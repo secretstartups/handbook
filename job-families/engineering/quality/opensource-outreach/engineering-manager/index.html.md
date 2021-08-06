@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Community Outreach Engineering Manager"
+title: "Open-source Outreach Engineering Manager"
 ---
 
 
