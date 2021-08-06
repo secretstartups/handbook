@@ -68,7 +68,7 @@ For a full list of virtual events, see a convenient [calendar view in the Market
 Want the latest on Partner webinars? Subscribe to our [GitLab Partner Channel](https://www.brighttalk.com/channel/18613/). 
 
 ### Enablement Corner 🧠
-The **latest Sales Play is now available related to the [Atlassian Server EOL announcement](https://www.atlassian.com/migration/journey-to-cloud)**! This [lightweight Sales Play](/handbook/sales/salesplays/) is broken into four phases, providing detailed guidance for your discovery call, POV & evaluation and negotiation.
+The **latest Sales Play is now available related to the [Atlassian Server EOL announcement](https://www.atlassian.com/migration/journey-to-cloud)**! This [lightweight Sales Play](/handbook/marketing/sales-plays/) is broken into four phases, providing detailed guidance for your discovery call, POV & evaluation and negotiation.
 
 ### Team Member Spotlight 🔦
 
