@@ -40,6 +40,10 @@ The following can be used as a guide on what actions could need to be taken befo
 
 - Unassign / Reassign any open projects, issues or merge requests to other team members or your manager. Use the [Global Search](https://docs.google.com/spreadsheets/d/1kVpBWDgxEp3zLyurE5Q9zpeDrGjWcDB7wb11uBl89ZQ/edit#gid=0) function and search your gitlab handle. 
 - [Install JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#installing-jamf) to assist the IT OPs team (if not already done).
+- Schedule a meeting with one of the IT Ops team members (depending on your region) for 30-60 minutes before your scheduled offboarding **time**. 
+    - Marc DiSabatino - https://calendly.com/mdisabatino - US time zone
+    - Paul Laurinavicius - https://calendly.com/plaurinavicius - EMEA time zone
+    - Steve Ladgrove - https://calendly.com/sladgrove - APAC time zone
 - Copy over any personal passwords currently stored in 1Password (this will be disabled once offboarding is processed and you will no longer have any access to any of your personal passwords).
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
@@ -54,19 +58,23 @@ The following can be used as a guide on what actions could need to be taken befo
 
 #### Do I need to wipe my laptop?
 
-A laptop wipe/reset is required once you have been offboarded. The IT OPs team will reach out to you 1 - 2 days after your last day in order to get this completed via your personal email address. If you have an Apple computer, please ensure you have enrolled in [JAMF](https://about.gitlab.com/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/#enrolling-in-jamf) prior to your final day. Please under no circumstance should you perform your own disk wipe on the laptop. If someone from IT does not reach out within 1-2 business days prior to offboarding please send an email to it-help@gitlab.com
+A laptop wipe/reset is **required** once you have been offboarded. Please ensure to set up a meeting with the IT OPs team on your last day to complete the laptop wipe. Please under **no circumstance** should you perform your own disk wipe on the laptop. Please send an email to `it-help@gitlab.com` if you have any questions regarding this.
 
 #### Can I purchase my laptop from GitLab?
 
 IT Ops will contact you after your last day to determine if this is a possibility. You can view the Laptop buy back policy [here.](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#laptop-buy-back-policy)
 
-### Compensation 
+### Compensation - Payroll
+
+#### CXC & GitLab Contractors (only)
+
+Please reach out to the Payroll team `nonuspayroll@gitlab.com` before your last day (ideally one week before) to get your final pay computation in order to submit your invoice before access is deprovisioned.
 
 #### When will I receive my final pay?
 
-This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com`. 
+This will vary depending on location and entity. Please refer to [Payroll Pay Date Handbook Page](https://about.gitlab.com/handbook/finance/payroll/#pay-date). If you have any additonal questions please contact `NONuspayroll@gitlab.com` or `USpayroll@gitlab.com` (depending on your location). 
 
-#### When will I receive (if applicable) commissions payment(s)?
+#### When will I receive (if applicable) commission payment(s)?
 
 Any final commissions earned up until your last working day will be paid (directly deposited) at the end of the next month. Commissions are paid one month in arrears, so for example, if your last day is January 7, any January commissions would be paid at the end of February. If you have any questions on this payment, please contact Sales Commissions at `sales-comp@gitlab.com`. 
 
