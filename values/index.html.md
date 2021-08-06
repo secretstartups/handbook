@@ -483,7 +483,7 @@ We demonstrate results when we do what we promised to each other, customers, use
 ## ⏱️ Efficiency
 {:#efficiency .gitlab-purple}
 
-Working efficiently enables us to make fast progress, which makes our work more fulfilling.
+Working efficiently on the right things enables us to make fast progress, which makes our work more fulfilling.
 
 ##### Write things down
 {:.no_toc}
