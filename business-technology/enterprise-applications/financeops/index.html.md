@@ -17,7 +17,7 @@ The **Finance Systems Administrator Team** implements and supports specialized a
 
 ## <i class="fas fa-users" id="biz-tech-icons"></i> Meet the team
 
-- [Alex Westbrook](https://about.gitlab.com/company/team/#awestbrook) - Sr. Finance Systems Administrator (Allottabit about all the finance systems), *Certified Zuora Administrator*
+- [Alex Westbrook](https://about.gitlab.com/company/team/#awestbrook) - Manager, Finance Systems Administrators (Allottabit about all the finance systems), *Certified Zuora Administrator*
 - [Wendy Lam](https://about.gitlab.com/company/team/#wlam) - Finance Systems Administrator (P2P and Record to Report Expert)
 - [Jessica Salcido](https://about.gitlab.com/company/team/#jesssalcido) - Finance Systems Administrator (Q2C Expert)
 - [Cristine Marquardt](https://about.gitlab.com/company/team/#csotomango) - Finance Systems Administrator (Service Desk Guru), *Certified Zuora Administrator*
