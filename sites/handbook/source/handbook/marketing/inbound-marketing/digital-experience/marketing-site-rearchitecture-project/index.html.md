@@ -103,6 +103,8 @@ We will require GCP Deployment Keys from Infrastructure. We would also like a ne
 1. Will need very clear documentation to ensure clarity of what lives where
 1. We will most likely need support from Infrastructure
 1. Duplication of dependencies on both sites (until entire Marketing site is moved to new architecture)
+1. Negative impact to other teams' workflows as we move the single source of truth for some pages elsewhere.
+1. Time estimation on related tasks will be inconsistent and incorrect as we learn what to anticipate with a new codebase.
 
 ## Definitions
 1. Core Marketing Site: Key pages that drive ARR
