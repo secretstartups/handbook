@@ -31,7 +31,7 @@ If so, reach out in #support-managers slack first, as a quick touch base. At thi
 
 ## How to start an escalation
 
-At this point, review the [TAM handbook for escalation levels](sites/handbook/source/handbook/customer-success/tam/escalations/index.html.md) to see which best applies. The most important thing for a Support Engineer here is to create a Slack room that will live for the duration of the escalation. If there is a TAM, they will start an escalation document to help manage the escalation internally. If there isn't a TAM, coordinate with the on-call Support Manager to get that document created, as per [the TAM Handbook](/handbook/customer-success/tam/escalations/index.html). 
+At this point, review the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels) to see which best applies. The most important thing for a Support Engineer here is to create a Slack room that will live for the duration of the escalation. If there is a TAM, they will start an escalation document to help manage the escalation internally. If there isn't a TAM, coordinate with the on-call Support Manager to get that document created, as per [the TAM Handbook](/handbook/customer-success/tam/escalations/index.html). 
 
 ## Expectations during an escalation
 
