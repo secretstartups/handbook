@@ -36,7 +36,7 @@ The updates included in this process are *strictly* system/process-based. Other 
 >    - See the [Field Ops Changelog] for past changes.
 3. Update is included in next-available [WW Field Sales Call](/handbook/sales/sales-meetings/#bi-weekly-ww-field-sales-call). (Sync or async depending on announcement scope) 
 4. Summary epics are aggregated in next-available [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/), "Did You Know?" section.
-5. Changes are documented in the [Field Ops Changelog] (link TBD)
+5. Changes are documented in the [Field Ops Changelog](/handbook/sales/field-operations/changelog/)
 
 ### Process
 
