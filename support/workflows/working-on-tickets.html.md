@@ -100,7 +100,7 @@ assigned when the first reply is made.
    1. If you can, then take those steps, including updating the user
    1. If not, then link the ticket in Slack and ask for help from your teammates
 1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
-   1. Check the priority of the top ticket in the view [for your region](#main-views). If its preferred region is `All Regions`, and the priority is High, follow [High Priority All-Region Tickets Wofklow](/handbook/support/workflows/working-on-tickets.html)
+   1. Check the priority of the top ticket in the view [for your region](#main-views). If its preferred region is `All Regions`, and the priority is `High`, follow the [High Priority All-Region Tickets Workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html)
    1. If the priority is lower, assign it to yourself
 1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
    1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
