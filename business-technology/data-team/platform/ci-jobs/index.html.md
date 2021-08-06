@@ -23,6 +23,9 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing. 
 * If still uncertain, tag @gitlab-data/data-engineers (or any individual engineer if urgent assistance is required) on your issue and request assistance in resolving the issue.  
 
+### Pipeline variables not being passed to the job
+
+
 ## Stages
 
 CI jobs are grouped by stages.
