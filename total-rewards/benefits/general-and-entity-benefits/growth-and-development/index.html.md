@@ -49,8 +49,6 @@ If the cost is $1,000 USD or less, please fill out the [Growth & Development Ben
 If the cost is greater than $1,000 USD, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards or Learning & Development will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
 
 #### Reimbursement 
-Reimbursements above $1,000 USD will be paid via payroll in the following pay cycle after you have completed the program and meet any extra eligibility requirements stated in the table below. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
-
 Reimbursements for over $1,000 USD will be processed by the following: 
 1. Team member fills out Growth & Development Benefit Form for over $1,000 USD
 1. Total Rewards will stage an Agreement form
@@ -60,6 +58,7 @@ Reimbursements for over $1,000 USD will be processed by the following:
 1. For reimbursements for conferences, workshops, professional membership, please also send the invoice to `total-rewards@gitlab.com` once you have signed up
 1. Once proof of completion and/or invoices are received, Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 1. **At this time team members will not submit expenses through Expensify for Growth & Development funds over $1000 USD**
+1. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
 1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member
 
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab. If you opted to receive 50% of the reimbursement up front but the total amount on your form is at least $1,000 USD, the amount will still need to be refunded back to GitLab.
