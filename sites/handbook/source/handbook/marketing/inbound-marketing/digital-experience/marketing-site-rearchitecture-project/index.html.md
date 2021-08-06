@@ -33,6 +33,24 @@ After considering [3 different approaches](https://docs.google.com/document/d/1y
 1. Changing anything to the current processes of the Handbook
 1. Changing any processes to the pages not identified as part of this project
 
+## Goals and Measurement
+Ultimately this plan will reduce the time, money, and resources required to meet our team goals. Specifcally we will look to measure:
+
+1. Reduce the time it takes to push a change to production
+    1. Local build time
+    1. Pipeline time
+1. Increase the frequency of MRs
+1. Decrease time to close issues
+1. Decrease negative effects on Infrastructure and SRE team
+
+## Pages We're Focusing On First
+We plan on starting with important pages that are simpler with lower risk, gradually increasing in value and risk.
+
+1. Enterprise
+2. SMB
+3. Free Trial
+4. Pricing
+5. Homepage
 ## Scope
 - 6-8 weeks w/ 2 engineers
 - Targeting 5 pages fully transitioned with the remaining being completed through Q4
@@ -45,6 +63,10 @@ DRI: @laurenbarker
 - @laurenbarker: Senior Fullstack Engineer who is most familiar with our tech stack, needs, and requirements.
 - @tywilliams: Excellent engineering (specifically Ruby) skills required for this project.
 - @mpreuss: Product Management. Digital Experience team leader, accountable for successful delivery of this effort.
+
+## Needs
+
+We will require GCP Deployment Keys from Infrastructure. We would also like a new storage container to enable the plan we have for the new build process.
 
 ## Scope
 1. Move 10 - 25 marketing webpage to new static site generator repository
