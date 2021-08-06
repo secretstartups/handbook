@@ -1026,6 +1026,17 @@ The following Zendesk macros are set up in the Professional Services Zendesk vie
 | I found a mistake in GitLab Learn - how do I report it? | Send `Professional Services -> Report-a-Problem` macro in Zendesk |
 | How do I contribute to GitLab Learn? | Send `Professional Services -> Contribute` macro in Zendesk |
 
+### Delete users from GitLab Learn
+
+1. Document the deletion request in [this Google sheet](https://docs.google.com/spreadsheets/d/1lncdFnLYa3eY_v503abvGviVzVh5fwllbvqrbYMFdss/edit#gid=920552359), visable only to some GitLab team members
+1. Open the `admin` panel 
+1. Find the user via email
+1. Select the checkbox associated with the user account and click the `Delete User` button
+1. Confirm `Yes` or `No` that you'd like to delete the user
+1. Wait XX time until deletion is complete, then double check in the admin panel for confirmation
+1. Confirm via email or Zendesk ticket with the user that their account has been deleted
+
+This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
 
 ### Automatic email templates
 
