@@ -57,13 +57,15 @@ We plan on starting with important pages that are simpler with lower risk, gradu
 - Targeting 5 pages fully transitioned with the remaining being completed through Q4
 
 ## Roles
-DRI: @laurenbarker 
+DRI: [@laurenbarker](https://gitlab.com/laurenbarker)
 
 **Team Members Involved and Why**
 
-- @laurenbarker: Senior Fullstack Engineer who is most familiar with our tech stack, needs, and requirements.
-- @tywilliams: Excellent engineering (specifically Ruby) skills required for this project.
-- @mpreuss: Product Management. Digital Experience team leader, accountable for successful delivery of this effort.
+- [@laurenbarker](https://gitlab.com/laurenbarker): Senior Fullstack Engineer who is most familiar with our tech stack, needs, and requirements.
+- [@tywilliams](https://gitlab.com/tywilliams): Excellent engineering (specifically Ruby) skills required for this project.
+- [cwoolley-gitlab](https://gitlab.com/cwoolley-gitlab): Chad will be a stable counterpart and consult in this effort. Chad's involvement to date as well as his knowledge will greatly increase the success of this project.
+- [@mpreuss22](https://gitlab.com/mpreuss22): Product Management. Digital Experience team leader, accountable for successful delivery of this effort.
+
 
 ## Needs
 
