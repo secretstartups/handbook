@@ -12,7 +12,7 @@ I live in [Chesapeake Beach, MD, USA](https://goo.gl/maps/DvsKCBtDPNm84D186) ([U
 
 ## How I work
 
-I typically work 9am-6pm in the [US Eastern time zone](https://www.timeanddate.com/worldclock/converter.html?iso=20210806T220000&p1=4989). The best way to reach is on Slack, or tag me in a GitLab issue [`@christiaanconover`](https://gitlab.com/christiaanconover).
+I typically work 9am-6pm in the [US Eastern time zone](https://www.timeanddate.com/worldclock/converter.html?iso=20210806T220000&p1=4989). The best way to reach me is on Slack, or tag me in a GitLab issue [`@christiaanconover`](https://gitlab.com/christiaanconover).
 
 ### Meetings
 
