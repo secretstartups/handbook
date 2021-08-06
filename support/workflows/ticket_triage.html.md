@@ -36,7 +36,7 @@ graph TD
 
 ## Applying the Correct Form
 
-A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request.
+A ticket should have the correct [form](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/#ticket-form-id-numbers) applied to it to help route it to the right set of individuals who can assist with that request. 
 
 Below is a list of the most commonly used Zendesk forms with a brief explanation regarding their usage:
 
@@ -45,9 +45,27 @@ Below is a list of the most commonly used Zendesk forms with a brief explanation
 - SaaS Account: Single user account issue only, all others go to GitLab.com (SaaS).
 - Security: See [when to transfer to security](/handbook/support/workflows/working_with_security.html#identifying-issues-for-transfer-to-security).
 - Accounts Receivable: refunds, VAT and invoices.
-- L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/workflows/#license-and-subscription).
+- L&R (License and Renewals): any subscription, purchase, and customers portal issue not covered by AR form (in above point). See also [L&R workflows](/handbook/support/license-and-renewals/workflows/).
 - Community: any ticket not entitled to support. Typically, Self-managed CE user, or SaaS free user request [not listed as supported](/support/statement-of-support.html#support-for-free-plan-users). New tickets will activate the [`Ticket::Autoresponder::Community tickets`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=20010334&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073064519) trigger.
-- Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab Learn platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/)(`gitlab.edcast.com`). Use the [`General::Forms::Change to Professional Services`](https://gitlab.com/search?utf8=%E2%9C%93&search=360063214199&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar) macro to apply the right form.
+- Professional Services: For tickets that should go to the Professional Services team, such as requests about [the GitLab Learn platform](https://about.gitlab.com/handbook/people-group/learning-and-development/gitlab-learn/)(`gitlab.edcast.com`).
+
+
+The following macros exist and should be used to change the form:
+ - [`General::Forms::Change to Alliance Partners`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373920)
+ - [`General::Forms::Change to Billing`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373940)
+ - [`General::Forms::Change to General Support`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063214319)
+ - [`General::Forms::Change to License and Renewals`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373840)
+ - [`General::Forms::Change to Open Partners`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063374040)
+ - [`General::Forms::Change to Other`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063374080)
+ - [`General::Forms::Change to Professional Services`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063214199)
+ - [`General::Forms::Change to SaaS Account Support`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373800) 
+ - [`General::Forms::Change to SaaS Support`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063214239)
+ - [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880) 
+ - [`General::Forms::Change to Select Partners`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063214279)
+ - [`General::Forms::Change to Self-Managed Support`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063214139)
+
+
+
 
 
 ## After applying the correct form
