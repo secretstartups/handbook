@@ -12,9 +12,9 @@ description: "Core Marketing Site Changes"
 
 ## Why We Are Proposing This Change
 {:.no_toc}
-Over the last year it's been challenging to prioritize and make progress on the [Monorepo Project](https://gitlab.com/groups/gitlab-com/-/epics/282). The lack of improvement to the developer experience is compromising the Digital Experience team's efficiency and we're not able to deliver our team's true output.
+Over the course of FY21 and FY22 it's been challenging to prioritize and make progress on the [Monorepo Project](https://gitlab.com/groups/gitlab-com/-/epics/282). The lack of improvement to the developer experience is compromising the Digital Experience team's efficiency and we're not able to deliver our team's true output.
 
-GitLab's Marketing site is also experiencing several technical issues that effect our current and prospective customers due to the complexities of our current repo. Digital Experience is not able to effectively solve and release fixes quickly which is undoubtedly causing GitLab to lose potential customers.
+GitLab's Marketing site is also experiencing several technical issues that affect our current and prospective customers due to the complexities of our current repo. Digital Experience is not able to effectively solve and release fixes quickly which is undoubtedly causing GitLab to lose potential customers.
 
 After considering [3 different approaches](https://docs.google.com/document/d/1yFw0I3zLJESzH2wa4jqs-bpkEEY5xwREjewGIEFhPkE/edit#) we've aligned on the following as our best option.
 
@@ -53,8 +53,8 @@ We plan on starting with important pages that are simpler with lower risk, gradu
 5. Homepage
 
 ## Scope
-- 6-8 weeks w/ 2 engineers
-- Targeting 5 pages fully transitioned with the remaining being completed through Q4
+- 6-8 weeks with 2 engineers
+- Targeting 5 pages fully transitioned with the remaining page listed below in Scope being completed through Q4
 
 ## Roles
 DRI: [@laurenbarker](https://gitlab.com/laurenbarker)
@@ -85,12 +85,11 @@ We will require GCP Deployment Keys from Infrastructure. We would also like a ne
     1. Enterprise
     1. SMB
     1. Partners (Landing and single)
-    1. Blog (Landing and single)
     1. Comparison Pages
 1. Switch to Nuxt.js as SSG
 1. Seamless integration with Slippers for efficiency and developer experience
 1. Static site generator builds and deploys these 10 - 25 pages to the existing about.gitlab.com domain
-1. Digital Experience team stops maintaining the www-gitlab-com repository
+1. Digital Experience team reduces maintainance of the www-gitlab-com repository
 1. Iteratively migrate parts of marketing site to new repo over FY23
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQLPxxhS_duhyznvWPP4YcrW_cihzViiKeyDOP9tJWzFpOb2g_cbaNXR7Oy1nYcjpojEzorNUzMj1k-/pub?w=1440&amp;h=1080">
