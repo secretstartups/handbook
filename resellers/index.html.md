@@ -605,7 +605,7 @@ GitLab marketing resources can be found on the [GitLab Partner Portal](https://p
 
 ##### Campaigns on portal
 
-*   Learn more about our campaigns:[ /handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/](/handbook/marketing/strategic-marketing/analyst-relations/channel-marketing/)
+*   Learn more about our campaigns:[ /handbook/marketing/channel-marketing/](/handbook/marketing/channel-marketing/)
 
 ##### Swag Requests
 
