@@ -39,7 +39,7 @@ Managing and identifying underperformance can be one of the most difficult respo
 
 ### Managing Performance at GitLab
 
-GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations/team-member-relations-philosophy/) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations#team-member-relations-philosophy) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
 Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all leaders manage performance timely and provide team members with clear feedback and guidance.  There are many reasons why a leader may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
