@@ -66,7 +66,7 @@ _Values are not just things we do but things that actively drive good behaviour.
 ## 🤝 Collaboration
 {:#collaboration .gitlab-purple}
 
-Helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve.
+To achieve results, team members must work together effectively. At GitLab, helping others is a priority, even when it is not immediately related to the goals that you are trying to achieve.
 Similarly, you can rely on others for help and advice—in fact, you're expected to do so.
 Anyone can chime in on any subject, including people who don't work at GitLab.
 The person who's responsible for the work decides how to do it,
