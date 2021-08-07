@@ -85,8 +85,6 @@ Assess and forecast Professional Services department's performance.
 [File](https://docs.google.com/spreadsheets/d/15YQV6dBpO06quxdvbZq6svTU-HgW06maZuhcwz7PYjI/edit#gid=1456058003)
 
 ## Dashboards
-[D01 LAM Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOd) - Showcase Landed Addressable Market (LAM) offered by our existing customer base; [README](https://docs.google.com/presentation/d/1OfxlJb1F-dndEQZ2zozppGJm1J6CyxN79MfABeh5M-g/edit#slide=id.g8fb2a2c968_1_77)
-
 [D03 ARR Basis Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXKR) - ARR Basis by Close Date & Subs Start Date
 
 [D04 Top Net ARR Movement Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXnE) - Net ARR Bookings by Order Type (First Order, Expansion, Contraction, Churn)
@@ -154,3 +152,5 @@ also compared to historical quarters to inform whether the current quarter is ah
 **Net ARR Pipeline Movement** - This file is intended to detail how the pipeline evolves throughout the quarter: capturing deals in the initial pipeline, those added later in the quarter, closed deals, slipped deals, and those remaining at quarter end.
 
 [File](https://docs.google.com/spreadsheets/d/1L4Rl6hGb5t8x8f_3ILwUlYvOL7Rdo2Rh8FZf0RumBqE/edit#gid=1993507993)
+
+[D01 LAM Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oXOd) - Showcase Landed Addressable Market (LAM) offered by our existing customer base; [README](https://docs.google.com/presentation/d/1OfxlJb1F-dndEQZ2zozppGJm1J6CyxN79MfABeh5M-g/edit#slide=id.g8fb2a2c968_1_77)
