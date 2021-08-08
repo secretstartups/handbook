@@ -91,7 +91,7 @@ Based on the requirements above, this is the first iteration of the newsletter f
    - Short, written Q&A highlighting a member of the Sales/CS/SDR teams or supporting teams (can be new or tenured). They answer these questions:
       - Where did you grow up, and where are you based now?
       - What is your favorite thing about your job? 
-      - Which of our [GitLab Values](https://about.gitlab.com/handbook/values/) resonates most with you? 
+      - Which of our [GitLab Values](/handbook/values/) resonates most with you? 
       - Do you have a helpful tip for working at GitLab and/or in the Field org to share?
       - What is a hobby or skill you have that the team might not know about?
       - Icebreaker question of the month (i.e. What are your favorite songs from your teenage years that you still rock out to when nobody else is listening?)
@@ -155,6 +155,9 @@ Qualitative Success Metrics
 
 | **Edition** | **Subj Line** | **Highlights** |
 | ------ | ------ | ------ |
+| [August 2021: 2021-08-02](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-08-02) | NEW ⚡️ GitLab Field Flash: August Edition ⚡️ | FY22 Billing & Subscription Management Updates Enablement Resources, Partner Program and System changes |
+| [July 2021: 2021-07-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-07-06) | NEW ⚡️ GitLab Field Flash: July Edition ⚡️ | GitLab Product Vision, Newest Sales Play |
+| [June 2021: 2021-06-07](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-06-07) | NEW ⚡️ GitLab Field Flash: June Edition ⚡️ | GitOps Sales Play, President’s Club 2022 dashboard, Microsoft Compete |
 | [May 2021: 2021-05-03](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-05-03) | NEW ⚡️ GitLab Field Flash: May Edition ⚡️ | Upselling Premium to Ultimate Sales Play, Incident Management, Magic Quadrant for Enterprise Agile Tools |
 | [April 2021: 2021-04-06](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-04-06) | NEW ⚡️ GitLab Field Flash: April Edition ⚡️ | Field Ops updates, GitLab IDC feature, Co-selling with Partners & Alliances |
 | [March 2021: 2021-03-01](/handbook/sales/field-communications/field-flash-newsletter/edition-2021-03-01) | NEW ⚡️ GitLab Field Flash: March Edition ⚡️ | SKO Recordings, Engagement Survey, DIB Certification, BoxBoat Partner Resources |
