@@ -62,22 +62,19 @@ description: "Business Systems Lead to Fulfillment Documentation"
 
 ## Contact
 
-### People
+### Team
 
-- **[Business Systems Analyst - Barbara Roncato](/job-families/finance/business-system-analyst/)**
-- **[Integrations Engineer - Daniel Parker](/job-families/finance/integrations-engineer)**
-- **[Product Manager, Fulfillment - Amanda Rueda](/job-families/product/product-manager/)**
+- **[Business Systems Analysts](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/)**
+- **[Integrations Engineers](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)**
+- **[Finance Systems Admins](https://about.gitlab.com/handbook/business-technology/enterprise-applications/financeops/)**
+- **[IT Compliance](https://about.gitlab.com/handbook/business-technology/it-compliance/)**
 
 ### Open an issue
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">BSA</a>
   <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Enterprise Applications Integrations</a>
-  <a href="https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">L&R team tracker</a>
-  <a href="https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Fulfillment</a>
   <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
-  <a href="https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-  <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Ops</a>
 </div>
 
 ### Slack channels
@@ -85,19 +82,11 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
 - [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
 - [`#btg-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
-- [`#s_fulfillment`](https://gitlab.slack.com/archives/CMJ8JR0RH)
-- [`#g_product_intelligence`](https://gitlab.slack.com/archives/CL3A7GFPF)
 - [`#business-fulfillment-sync`](https://gitlab.slack.com/archives/CR0FUJRRV)
 - [`gtm-operations`](https://gitlab.slack.com/archives/GEMFSJ94L)
 
-### Engagement meetings
-
-- [Business Fulfillment Sync wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/business-fulfillment-sync/-/wikis/home)
-- [SFDC<>Zuora Tech Sync wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/sfdc-zuora-sync/-/wikis/home)
 
 ## Enterprise Application Ecosystem
-
-tier one applications of lead to fulfillment
 
 ### CustomersDot
 
@@ -175,14 +164,6 @@ tier one applications of lead to fulfillment
 
 </details>
 
-##### labels
-
-- `EntApp Ecosystem`: in groups gitlab-com, gitlab-org; gitlab-services; gitlab-data; used for anything related to the enterprise application ecosystem integration and data flow
-- `EntApp Integration Work`: in groups gitlab-com, gitlab-org; used for flagging work that is specific to the enterprise application integrations
-- `System Integrity`: in group gitlab-org; used specifically to flag work on the integration between the CustomersDot and Zuora or Salesforce
-- `System Integrity`: in group gitlab-org; used by the Fulfillment System Integrity team to flag work to improve the system reliability and integrations
-- `Affects Salesforce`: in group gitlab-org; used by the Fulfillment team to flag any work that could affect data in Salesforce and indicates that the Sales Systems team should review the code
-- `EntApp Gap`: in groups gitlab-com, gitlab-org; used to flag gaps in automation of integrations in the Enterprise Application Ecosystem
 
 ## Resources
 
@@ -230,22 +211,15 @@ tier one applications of lead to fulfillment
 
 </details>
 
-## Diagrams
+## Process Flow Diagrams
 
-##### trial web direct system flow
-
-- tab 1: trial flows for SaaS and Self-managed through Tier 1 applications
-- tab 2: includes LeanData
+##### Web Direct: New Subscription
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/46865cd9-a20f-4700-b1f7-a78e5979f9cf" id="Rc-ygnLVD2A7"></iframe></div>
 </div>
 
-##### new business system flow
-
-- first tab: direct via Sales
-- second two tabs: SaaS and Self-managed web direct
-- includes abandoned cart for web direct flows and contact sales
+##### Sales-Assisted: New Subscription
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/56f1f1b3-68f2-4609-a867-711f1fdaca15" id="tc-yhP~KqHYz"></iframe></div>
@@ -264,13 +238,8 @@ tier one applications of lead to fulfillment
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/5845e3b1-d8fc-453c-984f-3c66b1dbea3d" id="4b-y4oHm3itk"></iframe></div>
 </div>
 
-##### customer flow
 
-<div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/d5593761-efdf-43a0-bfe5-717d787404d7" id="_OtpjB8oRZGk"></iframe></div>
-</div>
-
-##### overall lead to fulfillment
+##### Lead-to-Fulfillment System Architecture
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/b5a0e4b3-ff40-4685-8d21-3109696c8f64" id="X~9ywPrrncS-"></iframe></div>
