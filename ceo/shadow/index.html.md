@@ -455,7 +455,6 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | [Valley Meetings](/handbook/ceo/shadow/#valley-meetings)  | No notes       | Timekeeping    |
 | L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
-| Investor Calls | No notes | No timekeeping unless requested |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
