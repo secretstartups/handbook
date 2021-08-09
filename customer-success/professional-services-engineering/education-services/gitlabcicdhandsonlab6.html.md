@@ -11,7 +11,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
 1. Open the `ci-structure` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
-1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the **Edit** button. Paste the snippet at the end of the file.
 1. At the top of `.gitlab-ci.yml`, in the `stages` section, add `review` and `deploy` stages.
 1. In the **Commit message** field, type `Add CI structure job definitions`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 1. In the left-hand navigation pane, click **CI/CD > Pipelines** and click the status icon next to the most recent pipeline run.

@@ -20,8 +20,8 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 3. Create a Merge Request from the Issuee.  Click the **Create Merge Request** button 
 4. Locate the new branch and click on it 
 5. Click on **Web IDE** to begin editing your .gitlab-ci.yml file. 
-6. Scroll to the bottom of the file and uncomment the # - local: ci-template/Load-Performance-Testing.yml 
-7. Comment out the  - template: Jobs/Load-Performance-Testing.gitlab-ci.yml  Discuss **Local** vs **template** 
+6. Scroll to the bottom of the file delete the `# ` in front of the `- local: ci-template/Load-Performance-Testing.yml `line.
+7. Remove the line with `- template: Jobs/Load-Performance-Testing.gitlab-ci.yml`. Discuss **Local** vs **template** 
 8. In another browser go to the **CI/CD** locate the **production** job and open it.  Scroll to the bottom of the output and locate the production URL 
 9. In your IDE tab, go to src/test/load-test.js file.  Replace the text URLREPLACE with the URL copied from the production output 
 10. Click the blue **Commit** button to begin running your pipeline.

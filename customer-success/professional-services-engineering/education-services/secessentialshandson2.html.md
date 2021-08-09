@@ -9,15 +9,16 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 ## LAB 2- Review and create actions on Vulnerabilities
 
 ### View the scanning results in the Security Dashboard 
+***You will not be able to view the dashboard until your .gitlab-ci.yml file has been merged to the master and the pipeline has finished. **
 1. Validate your pipeline has completed and passed
 2. Navigate to **Security & Compliance** in the left menu pane  
 3. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
 4. Review the vulnerability information and click the **status** button. In the dropdown choose **Dismiss**
 5. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
 6. Review the vulnerability information and click the **status** button. In the dropdown choose **Confirm**
-7. On the critical vulnerability report, click **create issue** button.  Assign the ticket to yourself and **submit issue**.
-8. Review the Issue and the solution.  Review the link back to the vulnerability report.
-9. On the left-hand panel, click the **Security and Compliance** section and Vulnerability Report tab. -> Click a critical vulnerability in the report field.
+7. On the critical vulnerability report, click the **Create issue** button.  Assign the ticket to yourself and **submit issue**.
+8. Review the Issue and the solution. Review the link back to the vulnerability report.
+9. On the left-hand panel, click the **Security and Compliance** section, then the **Vulnerability Report** tab. Click a critical vulnerability in the report field.
 10. Review the vulnerability information and click the **status** button. In the dropdown choose **Resolved**
 11. Review the different information displayed, the status, severity, and scanner types shown in the Dashboard. Set the **status** dropdown to **All**
 12. Once you have reviewed all of the information, click on the other reports that appears.

@@ -10,23 +10,22 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ### Create a Project
 1. Navigate to **Groups** > **Your Groups**
-2. Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session.
-3. Navigate to the **New Project** button and click it.
-4. Click on **Create from Template** and then click on the instance tab. Choose the **security essentials fuzz test** template then click on the **Use Template** button.
-5. In the Project name dialog box, enter “***{lastname} SecurityProject2*”**. Optionally you may include a few notes in the Project Description Dialog Box.
-6. Under Visibility Level, click the radio button for **Private**.
-7. Click on the CI/CD button on the left hand side menu.  Click the **Run Pipeline** button to restart the pipeline.
-8. Wait until the pipeliine finishes, Examine each job and discuss 
+-   If you are in an Instuctor Led Class: Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session.
+-   If you are in the Self-Paced Enviornment: Navigate to the **My Test Group- {username}**
+2. Navigate to the **New Project** button and click it.
+3. Click on **Create from Template** and then click on the **Instance** tab. Choose the **GitLab Security - GO Fuzzing Demo** template then click on the **Use Template** button.
+4. In the Project name dialog box, enter “***{lastname} SecurityProject2*”**. Optionally you may include a few notes in the Project Description Dialog Box.
+5. Under Visibility Level, click the radio button for **Private** and click the **Create Project** button.
+6. Click on the CI/CD item on the left-hand navigation menu.  Click the **Run Pipeline** button to restart the pipeline.
+7. Wait until the pipeliine finishes and then examine each job status. 
 
 ### View the scanning results in the Security Dashboard 
 1. Validate your pipeline has completed and passed
-2. Navigate to **Security & Compliance** in the left menu pane  
-3. Click on the **Vulnerability Report** tab -> Click a vulnerability in the report field.
+2. Navigate to **Security & Compliance** in the left-hand navigation menu.  
+3. Click on the **Vulnerability Report** tab, then review the vulnerabilities in the dashboard.
+4. Select any vulnerability that displays a `Detected` or `Confirmed` status.
+5. Click on the **Set Status** drop-down and click on **Dismiss** from the drop-down menu. Click the **Change Status** button to confirm the change.
 
-### Read an Artifacts for the Scanning Reports
-1. Click on the **CI/CD** button on the Left menu.  
-2. On the pipeline click the artifacts dropdown menu.  
-3. Select various reports and review 
 
 ### SUGGESTIONS?
 

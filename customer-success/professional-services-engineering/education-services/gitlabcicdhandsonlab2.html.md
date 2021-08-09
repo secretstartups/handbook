@@ -28,13 +28,14 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 
 ### Create a project
 1. In the top navigation bar, click **Groups > Your Groups**.
-1. Expand the arrow to the left of **Training Users**. Within that group, expand the arrow to the left of your session's group. Within your session's group, open the group called **My Test Group - \<USERNAME\>**
-1. Click the blue **New project** button. Click **Create blank project**.
-1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select `training-users/session-<SESSION>/<USERNAME>` to create your project within your group's namespace and not your user's top-level namespace.
+-   If you are in an Instuctor Led Class: Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session.
+-   If you are in the Self-Paced Enviornment: Navigate to the **My Test Group- {username}**
+1. Click the **New project** button. Click **Create blank project**.
+1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select `<USERNAME>` to create your project within your group's namespace and not your user's top-level namespace.
 1. Optionally include a few notes in the **Project description** field.
 1. Under **Visibility Level**, click the radio button for **Private**.
 1. Enable the **Initialize repository with a README** checkbox. <br/>Note: If you do not initialize your repository with a README, you will create a "bare" Git repo that will be difficult to work with in GitLab until you push files to it from a local repository.
-1. Click the blue **Create project** button.
+1. Click the **Create project** button.
 
 ### Register a Specific GitLab Runner dedicated to your project
 1. In your **CICD Demo** project, in the left-hand navigation pane, click **Settings** > **CI/CD**
@@ -66,7 +67,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
      - test
    ```
    
-1. Click the blue **Commit changes** button.
+1. Click the **Commit changes** button.
 
 ### View a pipeline's status, stages, jobs, and gitlab-runner
 1. In the left-hand navigation pane, click **CI/CD Pipelines** to see an overview of all pipelines. The top row in the overview shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**.
