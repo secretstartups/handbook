@@ -427,7 +427,7 @@ The CEO and the [Learning & Development](/handbook/people-group/learning-and-dev
 
 #### Removing yourself from personal CEO documents
 
-For certain meetings, such as Valley Meetings, a CEO Shadow may be added to an agenda document that is accessible to people outside of the GitLab organization.
+For certain meetings, such as [Valley Meetings](/handbook/ceo/shadow/#valley-meetings), a CEO Shadow may be added to an agenda document that is accessible to people outside of the GitLab organization.
 
 At the conclusion of the call, the CEO Shadows should remove themselves from document(s) they were added to via the following steps.
 
@@ -452,7 +452,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Legal meeting                    | No notes       | Timekeeping    |
 | GitLab Board meeting or meeting with a GitLab [Board Member](/handbook/board-meetings/#board-of-directors)                   | No notes       | Timekeeping    |
 | Internal meeting (CEO not host)  | Notes optional | Timekeeping    |
-| Valley Meetings                  | No notes       | Timekeeping    |
+| [Valley Meetings](/handbook/ceo/shadow/#valley-meetings)  | No notes       | Timekeeping    |
 | L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
 | Investor Calls | No notes | No timekeeping unless requested |
@@ -516,11 +516,11 @@ In internal meetings, `I think` can be used to signal opportunity for others to 
 
 #### CEO shadow introductions
 
-At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. The terms **first** and **second** shadow define the order of who has decided to speak in any relevant meeting.
+**Order of introductions:** At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. During investor meetings, Sid may decide the order for CEO Shadow introductions by mentioning one of the CEO Shadows first, usually the CEO Shadow who is completing their last week in the two week program. 
 
 It's important to set the correct tone, so please stick to the following introductions verbatim.
 
-When attending Valley meetings please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid is acting in an individual capacity.
+When attending [Valley meetings](/handbook/ceo/shadow/#valley-meetings) please be sure to use the **For Valley meetings** intro. It can cause much confusion if you mention GitLab when Sid is acting in an individual capacity.
 
 When attending investor meetings, please introduce yourself and hand it off to the next team member by announcing their name.
 
