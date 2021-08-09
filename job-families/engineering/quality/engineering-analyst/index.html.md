@@ -71,12 +71,11 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 * Deliver data analytics and visualization with minimal guidance and support.
 * Contribute to our SQL/Sisense guidelines and coding standards, make recommendations that improve our best practices and efficiency.
 * Improve our handbook performance indicator pages content and guidelines.
-* Advocate for improvements to data quality, security, and query performance.
+* Contribute to data quality improvement efforts; review, optimize, and refactor data models for efficiency.
 * Deep understanding of how data is created and transformed into Sisense visualization at GitLab.
 * Understand data trends across Engineering data sources.
 * Understand business processes and policies to improve Engineering processes and workflow. 
-* Contribute to data quality improvement needs; review, optimize, and refactor data models for efficiency.
-* Proactively document Engineering Division's data-lifecycle our metrics framework in the handbook.
+* Document Engineering Division's data-lifecycle and metrics framework in the handbook.
 * An expert in data domain of assigned Engineering Department.
 * Occasionally represent Engineering Analytics in broad company communication and announcements.
 * Occasionally contribute to the company's strategic Data direction in collaboration with the [Data team](https://about.gitlab.com/handbook/business-technology/data-team/#data-job-families). 
@@ -86,7 +85,7 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 
 #### Job Grade
 
-The Senior Engineering Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff Engineering Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
 
@@ -94,12 +93,12 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 
 * Coach and mentor other team members so they can confidently deliver data analytics and visualization with minimal guidance.
 * Enforce and improve our SQL/Sisense guidelines and coding standards, review and make strategic improvements to achieve organizational objective.
-* Seek and deliver improvements to data quality, security, model refactoring and query performance.
+* Advocate for and deliver improvements to data quality, security, model refactoring and query performance.
 * Drive our handbook performance indicator pages' efficiency, guidelines and maintenance efforts. 
-* Maintain a deep understanding of how data flows within GitLab and identify new data sources needed to unblock business objectives.
+* Deep understanding of how data flows within GitLab and identify new data sources needed to unblock business objectives.
 * Enforce and champion handbook-first documentation. 
 * Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
-* Maintain expertise in data domains of two or more Engineering Departments.
+* An expert in data domains of two or more Engineering Departments.
 * Represent Engineering Analytics in broad company communication and announcements.
 * Contribute to the company's strategic Data direction in collaboration with the Data team. 
 * Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.
