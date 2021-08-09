@@ -1,0 +1,61 @@
+---
+layout: handbook-page-toc
+title: "LinkedIn Sales Insights"
+description: "LinkedIn Sales Insights provides access to LinkedIn data and insights at scale, giving sales operations the clarity they need to do smarter sales planning."
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+### About LinkedIn Sales Insights
+
+LinkedIn Sales Insights provides access to LinkedIn data and insights at scale, giving sales operations the clarity they need to do smarter sales planning. We use this tool to write back LinkedIn data onto our Salesforce account records.
+
+### Set Up
+
+You can log in to LinkedIn Sales Insights (LSI) using your regular LinkedIn username/password here: https://www.linkedin.com/sales-insights/. This tool is currently only accessible by Sales Ops and Sales Leadership. Sales Ops will provision licenses, and you will receive an email invite to log in.
+
+### Overview
+
+Once logged in, you can use this tool to compare data from our Salesforce Account records to what LinkedIn has in their database about those same companies.
+- On the Sources tab, you can upload a .csv file of Accounts you have exported from SFDC.
+- On the Reports tab, you select your list as the Source, and the tool will give back LinkedIn data about those companies. 
+- Alternatively, on the Reports tab, you can select Salesforce CRM as the Source, and the tool will give back LinkedIn data about every Salesforce account record that it can match.
+
+The tool does all of the matching between our Salesforce Account records and the LinkedIn company records itself, and this is not customizable. The matching relies on our SFDC account name, website, and address fields.
+
+Also note that all of the data provided by this tool is based solely on what people have entered on their LinkedIn resumes. This means that if LinkedIn is not used by all employees at a company, or if LinkedIn is not very widely used in a particular country, there will be weakness in the data provided.
+
+LSI provides info on employee count, industry, location of the HQ and/or the person, as well as how many jobs have been posted recently on LinkedIn for that company (an indicator of growth), and connectivity (how many employees from this company are connected to GitLab employees on LinkedIn).
+
+You can also set up Personas to look for people with a particular job title or job function. When you run the report against a specific Persona, it will give you employee counts for LinkedIn resumes that match your Persona. For example, we are currently using the "Eng/IT (by job function)" Persona to get LinkedIn software developer counts.
+
+You can export the results of your report in two ways:
+- download as a .csv
+- write data directly back onto the matching Salesforce account record
+
+Once a LinkedIn company has been exported to our Salesforce CRM, it will continue to auto-enrich with LinkedIn data daily at midnight PST.
+
+### What is this tool used for?
+
+The main use case for this tool currently is to populate developer count numbers into the LinkedIn Developer Count field on the SFDC Account object. This field can be used by Sales to help prioritize their prospect accounts. We will also use the LinkedIn Developer Count as an input to our LAM calculation, which will help us understand potential future growth of our accounts.
+
+The tool can also be used by Sales Leadership to assess and research whitespace (companies that are potential GitLab customers but that do not yet exist as accounts in our SFDC instance).
+
+### What is this tool not used for?
+
+Since we are already getting employee count, industry, and address data from other more reliable sources, we do not intend to use that information from LSI.
+
+We also don't expect sales reps to use this tool, although they will have access to the LinkedIn developer count data on the SFDC Account record.
+
+This is also not a true outbound prospecting tool. While it does allow you to research whitepace by viewing accounts that exist in LinkedIn's database but not in our Salesforce CRM, it does not currently have the capability of creating new SFDC account records to fill in the whitespace.
+
+### Credits
+
+Exporting records from LSI uses 1 credit per record. We purchase annual credits in increments of 20k records. Only Sales Ops has permission to export records.
+
+
+
