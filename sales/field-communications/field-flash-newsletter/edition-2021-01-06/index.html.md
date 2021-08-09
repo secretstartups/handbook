@@ -53,7 +53,7 @@ Learn how the U.S. Army Cyber School created secure, collaborative coursework wi
 
 ----
 In the spirit of Iteration and Collaboration, **the Risk and Field Security Team has launched several new pieces of Sales and Customer Success Collateral**:
-1. Blog Post - [How GitLab uses Third Party Security ratings to boost Customer Confidence](https://about.gitlab.com/blog/2020/12/18/how-gitlab-uses-third-party-security-ratings-to-build-customer-confidence/) along with [GitLab's BitSight Rating Report](/handbook/engineering/security/security-assurance/risk-field-security/customer-assurance-package.html#bitsight) on the Customer Assurance Package page.
+1. Blog Post - [How GitLab uses Third Party Security ratings to boost Customer Confidence](https://about.gitlab.com/blog/2020/12/18/how-gitlab-uses-third-party-security-ratings-to-build-customer-confidence/) along with [GitLab's BitSight Rating Report](/https://about.gitlab.com/security/cap/) on the Customer Assurance Package page.
 1. [Redesigned Trust Center](https://about.gitlab.com/security/) with more resources related to privacy and data protection.
 1. Updated [Customer-Facing Security FAQ Page](https://about.gitlab.com/security/faq/).
 
