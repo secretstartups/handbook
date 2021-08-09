@@ -216,6 +216,30 @@ Combining the two axis above results in the below priority matrix.
 |Refresh step|Owner|To be completed by|Environments|Action steps|
 |-----|-----|-----|-----|-----|
 |Reconnect RingLead user|@ksavage|@ksavage/@rrosu|STAGING|1. Login to RingLead.<br>2. Locate the SFDC connections page.<br>3. Authenticate with the RingLead Integration user using the user password for this account in the production org (stored in 1Password).|
+|Disable Scheduled Apex Jobs||||
+|Disable Outbound Messages or point them to QA server endpoints||||
+|Reconfigure External Web Service calls for a non-production environment||||
+|Disable Analytic Snapshots [ If any ]||||
+|Get the new Sandbox Org ID and instance Id if required||||
+|Remove the email suffix for required users to send email with new sandbox link
+
+      Required Users in Staging Sandbox 
+
+                 - [ ] jbren
+                 - [ ] jpetr
+                 - [ ] msnow
+                 - [ ] mclyn
+                 - [ ] lscho
+                 - [ ] svisw||||
+| Create any required users who don't exist in Production||||
+| Regenerate (or completely disable) Inbound Email Services||||
+|Delete / modify entries in Remote Site Settings if you don't want to perform certain callouts.||||
+|Disable "Big Deal Alert" on Opportunities [ If any]||||
+|If you have managed packages with API keys ask support teams to regenerate the keys [If Needed]||||
+|If you have "power users" that will coordinate User Acceptance Testing - create entries in Delegated Administration area so they can "login as"||||
+|Break Email addresses on Contacts, Leads etc. with suffix like it's done for users (if there's any risk of routine communication kicking in for example from workflow email alerts)||||
+|Disable Weekly Data Export||||
+|For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)||||
 
 #####Refresh cadence
 
