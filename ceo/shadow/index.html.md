@@ -515,7 +515,7 @@ In internal meetings, `I think` can be used to signal opportunity for others to 
 
 #### CEO shadow introductions
 
-**Order of introductions:** At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. During investor meetings, Sid may decide the order for CEO Shadow introductions by mentioning one of the CEO Shadows first, usually the CEO Shadow who is completing their last week in the two week program. 
++**Order of introductions:** At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. During some meetings, Sid may decide the order for CEO Shadow introductions by mentioning one of the CEO Shadows first, usually the CEO Shadow who is completing their last week in the two week program. 
 
 It's important to set the correct tone, so please stick to the following introductions verbatim.
 
