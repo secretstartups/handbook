@@ -64,7 +64,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Notice to Employees - unemployment, disability, and paid family leave insurance](https://www.edd.ca.gov/pdf_pub_ctr/de1857a.pdf)
 * [Sexual Harassment Fact Sheet](https://www.dfeh.ca.gov/wp-content/uploads/sites/32/2020/03/SexualHarassmentFactSheet_ENG.pdf)
 * [Supplemental Paid Sick Leave - COVID-19](https://www.dir.ca.gov/dlse/2021-COVID-19-Supplemental-Paid-Sick-Leave.pdf)
-* [Payday Notice](https://drive.google.com/file/d/12-5BlbwGf0g_WOevYTTLoDKr1CFzJm7r/view?usp=sharing)
+* [Payday Notice](https://drive.google.com/file/d/1eIhDxbf42Jfvy9DjuYiLyuLQFHqMcx9I/view?usp=sharing)
 * [Right to Vote Notice](https://elections.cdn.sos.ca.gov/pdfs/tov-english.pdf)
 * Notice of Workers' Compensation Carrier and Coverage
 * **City of Berkeley** 
@@ -93,7 +93,7 @@ Since GitLab is an [all remote](/company/culture/all-remote/) company we don't h
 * [Employment Security Act](https://www.colorado.gov/pacific/sites/default/files/502_NoticeToWorkers-Poster.pdf)
 * [Minimum Wage and Overtime Pay Standards](https://cdle.colorado.gov/sites/cdle/files/COMPS%20Order%20%2337%20%282021%29%20Poster%20CLEAN.pdf)
 * [Notice to Employer of Injury](https://www.colorado.gov/pacific/sites/default/files/WC050_Notice_of_Injury_Poster.pdf)
-* [Notice of Paydays](https://drive.google.com/file/d/1zKeijMMsae8k13O3R0H6OTABsfT321Gb/view?usp=sharing)
+* [Notice of Paydays](https://drive.google.com/file/d/1B9NG0eCOvxGD_KE_R9Zxtw58lTi4fkje/view?usp=sharing)
 * [Pregnancy Accommodations](https://www.colorado.gov/pacific/sites/default/files/CCRD%20Notice%20re%20Pregnant%20Workers%20Fairness%20Act%20%282%29.pdf)
 * [Worker's Compensation Act](https://drive.google.com/file/d/1OkdN7QSD23d5-etB7awiU4C_JjM9KXHM/view?usp=sharing)
 * [Paid Leave, Whistleblowing, and Personal Protective Equipment](https://cdle.colorado.gov/sites/cdle/files/Poster%2C%20Paid%20Leave%20%26%20Whistleblower%20-%202021%20poster.pdf)
