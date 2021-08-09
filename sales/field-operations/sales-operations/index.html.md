@@ -838,14 +838,14 @@ Note: The most accurate access level will be on the Tech Stack or the AR, genene
 1.  Permissions:  Everyone should be a User. Admin is only for Operations Team.
 
 ### DocuSign
-1. SalesOps supports provisioing for DocuSign from within SFDC.  For DocuSign standalone, please refer to the tech stack for the provisioner. 
+1. SalesOps supports provisioing for DocuSign from within SFDC.  For the DocuSign standalone appication, please refer to the tech stack for the provisioner. 
 1. Navigate to the user record in SFDC.
-1. Add permission set base on the users role at GitLab.  SalesOps (Provisioners) will reveive the DocuSign Administrator Permission set.  Sales Team will received DocuSign Sender for Reps and Docusign User Permission Sets. 
-1. Each user will also need to be assigned a license through the Docusign Setup Tab/App.
-     1. When using SFDC Classic, use the plus sign in the navigation bar to locate addititonal tabs.  Locate the DocuSign Setup Tab.
-     1. From the DocuSign Setup Tab, Go to User Management and then Add User. 
-1.  For escalations and additional help troubleshooting set up, SalesOps can reach out to Sales Systems. 
-1.  For Sales Team escalations on how-tos, the user shoudl chatter on the record in SFDC. 
+1. Add permission set(s) based on the users role at GitLab.  SalesOps (Provisioners) will receive the **DocuSign Administrator Permission set**.  Sales Team will receive the **DocuSign Sender for Reps** and **Docusign User Permission Sets**. 
+1. Each user will also need to be assigned a license through the **Docusign Setup Tab/App**.
+     1. When using SFDC Classic, use the plus sign in the navigation bar to locate addititonal tabs.  Locate the **DocuSign Setup Tab**.
+     1. From the **DocuSign Setup Tab**, Go to **User Management** and then **Add User**. 
+1.  For technical escalations and additional help troubleshooting set up, SalesOps can reach out to Sales Systems. 
+1.  For Sales Team escalations on how-tos, the user should chatter sales-support on the record in SFDC. 
 
 
 
