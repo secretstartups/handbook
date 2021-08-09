@@ -1028,15 +1028,16 @@ The following Zendesk macros are set up in the Professional Services Zendesk vie
 
 ### Delete users from GitLab Learn
 
+This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
+
 1. Document the deletion request in [this Google sheet](https://docs.google.com/spreadsheets/d/1lncdFnLYa3eY_v503abvGviVzVh5fwllbvqrbYMFdss/edit#gid=920552359), visable only to some GitLab team members
 1. Open the `admin` panel 
 1. Find the user via email
 1. Select the checkbox associated with the user account and click the `Delete User` button
 1. Confirm `Yes` or `No` that you'd like to delete the user
-1. Wait XX time until deletion is complete, then double check in the admin panel for confirmation
+1. The deletion should happen real time, but could take up to 30 minutes to actually remove the accounts. 
+If you can't confirm the deletion was immediate, wait 30 minutes and check in the admin panel for confirmation before following up with the user.
 1. Confirm via email or Zendesk ticket with the user that their account has been deleted
-
-This process will delete the user from EdCast, EdGraph and the CEP Marketplace.
 
 ### Automatic email templates
 
