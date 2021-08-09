@@ -27,6 +27,6 @@ we will list all the team members that we audited _and_ that had something marke
 
 ## GitLab usernames
 
-Often times, team members won't follow the procedure outlined in the [tools and tips page](/tools-and-tips/#change-your-username-at-gitlabcom) to change their GitLab username. This leads to inaccurate or outdated data in BambooHR.
+Often times, team members won't follow the procedure outlined on the [tools and tips page](/handbook/tools-and-tips/#change-your-username-at-gitlabcom) to change their GitLab username. This leads to inaccurate or outdated data in BambooHR.
 
 To remedy this situation, every Wednesday, we audit all GitLab usernames stored on BambooHR (`customGitLabUsername` field) and verify that those usernames are members of the [gitlab-com group](https://gitlab.com/groups/gitlab-com/-/group_members). When a BambooHR `customGitLabUsername` is not in the group, a message is automatically sent in `#peopleops-alerts` on Slack.
