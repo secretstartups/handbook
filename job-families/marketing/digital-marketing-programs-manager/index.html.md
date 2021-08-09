@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Digital Marketing Programs Manager"
+title: "Digital Marketing Manager"
 ---
 
 ## Overview
