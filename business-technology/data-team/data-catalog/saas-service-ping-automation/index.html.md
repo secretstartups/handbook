@@ -55,11 +55,15 @@ An example of the JSON Response is available here. Note that `-3` means that the
 
 More information in the Data Flow Diagram below.
 
+A technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api)
+
 ### SQL-based metrics 
 
 The SQL-based metrics workflow is a bit more complicated. As described above, these metrics are generated through SQL queries. The goal of this module will be to run against our Snowflake database instead of the postgres SQL database of our SaaS Instance.
 
 The Product Intelligence team has created an API endpoint that enables us to retrieve all the SQL queries to run to calculate the metrics. Here is an example file.
+
+A technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
 
 Let's take a look at a few queries received in the JSON response:
 
@@ -117,7 +121,7 @@ We created a Airflow dag `saas-instance-usage-ping` run every Saturday that exec
 
 This Lucid chart diagram summarizes the current workflow:
 
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="l6G10K4T0B6q"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="ZaD2gkT4TN7D"></iframe></div>
 
 
 ## From RAW to PROD database and Sisense
