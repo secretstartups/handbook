@@ -3,20 +3,23 @@ layout: job_family_page
 title: "Open-source Outreach Fullstack Engineer"
 ---
 
-TBD overview
+Open-source Outreach Engineers works on laying down an efficiency foundation for our community members to contribute to GitLab.
 
 ## Responsibilities 
 
-* Make GitLab contribution process the best and most welcomed in the software world
-* Improve MR Coaching processes.
-* Be proficient at one or more MR Coach speciality
-* Coach and lead a cohort of community contributors
-* Track contribution delivery of the community cohort you are assigned to lead
-* Carry out project plans for Engineering Open Source Outreach efforts
-* Participate in the Community Outreach team stand-up and agile processes
-* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas
-* Collaborate closely with our Developer Relations team and Core team
-* Contribute to GitLab's overall open-source outreach events and processes
+* Make GitLab contribution process the best and most welcomed in the world.
+* Carry out Engineering Open-source Outreach efforts
+* Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
+* Coach and lead cohorts of community contributors and ensure their success.
+* Provide guidance to community contributors on technical and non-technical aspects.
+* Track contribution delivery of the community cohorts you are assigned.
+* Nominate community contributors and contribution for recognition. 
+* Be a permanent member of GitLab MR Coaches.
+* Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+* Collaborate with GitLab's Core team and Developer Relations team.
+* Participate in Open-source Outreach team stand-up and agile processes.
+* Be a sounding board for our community contributors.
+* Participate in GitLab's overall open-source outreach events and processes.
 
 ## Requirements
 
@@ -27,8 +30,8 @@ TBD overview
 * Extensive experience developing in Ruby
 * Extensive experience developing in Javascript
 * Extensive experience using Git and source control
-* Extensive experience with Open Sourcing
-* Track record of contributing to well-known opensource projects
+* Extensive experience with the Open-source community
+* Track record of contributing to well-known open-source projects
 * BS degree in Computer Science,
 * Proficiency in the English language, with excellent written and oral communication skills.
 * You share our [values](/handbook/values/), and work in accordance with those values
@@ -49,8 +52,19 @@ The Open-source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewar
 
 #### Responsibilities
 
-* ...
-* ...
+* Contribute to GitLab's contribution efficiency results. 
+* Deliver tasks assigned from Engineering Open-source Outreach project plans.
+* Coach and lead community contributors.
+* Give orientation to newly formed community contributor cohorts
+* Provide guidance to community contributors on technical and non-technical aspects.
+* Track contributions from community members and drive them to completion.
+* Implement pipeline efficiency improvements.
+* Nominate impactful community contributors and contribution for recognition. 
+* Be a permanent member of GitLab MR Coaches.
+* Be proficient at one MR Coach speciality (Development, Test, Documentation and etc).
+* Participate in Open-source Outreach team stand-up and agile processes.
+* Listen to community contributors' feedback and capture them as issues in the backlog.
+* Participate in GitLab's overall open-source outreach events and processes.
 
 ### Senior Open-source Outreach Fullstack Engineer
 
@@ -59,11 +73,21 @@ The Open-source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewar
 The Senior Open-source Outreach Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities
-The Senior Engineering Analyst role extends the [Open-source Outreach Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
+The Senior Open-source Outreach Fullstack Engineer role extends the [Open-source Outreach Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
 
-* ...
-* ...
-
+* Drive GitLab's contribution efficiency efforts and results. 
+* Own one or more Engineering Open-source Outreach project plans.
+* Coach and lead cohorts of community contributors.
+* Give orientation to newly formed community contributor cohorts
+* Provide guidance to community contributors on technical and non-technical aspects.
+* Track contributions from community contributor cohorts and drive them to completion.
+* Propose efficient metrics for tracking community efficiency.
+* Nominate impactful community contributors, cohorts and contribution for recognition. 
+* Be a permanent member of GitLab MR Coaches.
+* Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+* Drive Open-source Outreach team stand-up and agile processes.
+* Advocate prioritization of improvements backlog based on feedback from our community.
+* Participate in GitLab's overall open-source outreach events and processes.
 
 ### Staff Open-source Outreach Fullstack Engineer
 
@@ -75,13 +99,25 @@ The Staff Open-source Outreach Fullstack Engineer is a [grade 8](/handbook/total
 
 The Staff Engineering Analyst role extends the [Senior Open-source Outreach Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
 
-* ...
-* ...
+* Author results-focused proposals to improve GitLab's contribution efficiency and drive them to completion. 
+* Propose effective Engineering Open-source Outreach project plans.
+* Propose groups of community contributors to form teams of community contributors (cohort)
+* Give orientation to newly formed community contributor cohorts
+* Track community contributor & community cohorts efficiency metrics
+* Implement results-focused community efficiency metrics and measurements
+* Provide guidance to community contributors on technical and non-technical aspects. 
+* Propose pipeline efficiency improvements and drive them to completion.
+* Review nominations of community contributors, cohorts and contribution for recognition. 
+* Be a permanent member of GitLab MR Coaches.
+* Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
+* Own Project Management of Open-source Outreach team stand-up and agile processes. 
+* Make trade-off recommendations to priorize the most impactful improvements for the community.
+* Participate in GitLab's overall open-source outreach events and processes.
 
 
 ### Performance Indicators
 * [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr)
-* [Community MR Age](/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
+* [Open Community MR Age (OCMA)](/handbook/engineering/quality/performance-indicators/#open-community-mr-age-ocma)
 * [Community MR Coaches per Month](/handbook/engineering/quality/performance-indicators/#community-mr-coaches-per-month)
 * [Unique Community Contributors per Month](/handbook/engineering/quality/performance-indicators/#unique-community-contributors-per-month)
 

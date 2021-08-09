@@ -3,16 +3,17 @@ layout: job_family_page
 title: "Open-source Outreach Engineering Manager"
 ---
 
+Open-source Outreach Engineers
 
 ## Responsibilities 
-* Manage a team of Community Outreach Engineers
+
+* Manage a team of Open-source Outreach Engineers
 * Contribute to GitLab MR Coach processes, one or more MR Coach speciality
 * Author project plans for Engineering Open Source Outreach efforts
 * Run agile project management processes
 * Provide guidance and coaching to team members on technical contributions, product architecture, and other areas
 * Collaborate closely with our Developer Relations team and Core team
 * Improve our outreach contribution processes
-
 
 ## Requirements
 
@@ -29,6 +30,12 @@ title: "Open-source Outreach Engineering Manager"
 * Proficiency in the English language, with excellent written and oral communication skills.
 * You share our [values](/handbook/values/), and work in accordance with those values
 
+### Nice to haves
+* Experience in a peak performance organization
+* Notable ties into the Open-source community
+* Enterprise software company experience.
+* Developer platform/tool industry experience.
+
 ## Levels 
 ### Open-source Outreach Engineering Manager 
 
@@ -39,12 +46,20 @@ The Open-source Outreach Engineering Manager  is a [grade 8](/handbook/total-rew
 #### Responsibilities
 
 * Manage a team of Community Outreach Engineers
-* Contribute to GitLab MR Coach processes, one or more MR Coach speciality
-* Author project plans for Engineering Open Source Outreach efforts
-* Run agile project management processes
-* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas
-* Collaborate closely with our Developer Relations team and Core team
-* Improve our outreach contribution processes
+* Author team quarterly OKRs and drive them to completion.
+* Review contribution efficiency proposals, delegate and drive them to completion. 
+* Review Engineering Open-source Outreach project plans, delegate and drive them to completion. 
+* Review recommendations from team members and priorize most impactful improvements for the community.
+* Own the formation process of community contributor cohorts, a teams of community contributors.
+* Create orientation process and materials for newly formed community contributor cohorts
+* Track community contributor & community cohorts efficiency metrics
+* Implement results-focused community efficiency metrics and measurements
+* Provide guidance to community contributors on technical and non-technical aspects. 
+* Track pipeline efficiency improvements and drive them to completion.
+* Review nominations and assign awards to community contributors, cohorts and contribution. 
+* Be a permanent member of GitLab MR Coaches.
+* Own Project Management of Open-source Outreach team stand-up and agile processes. 
+* Represent GitLab in open-source outreach events and processes.
 
 
 ### Performance Indicators
