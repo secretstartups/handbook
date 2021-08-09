@@ -18,7 +18,7 @@ GitLab offers [Supplementary Medical Insurance](https://drive.google.com/file/d/
 
 ## Pension
 
-GitLab does not plan to offer pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)
+GitLab does not plan to offer a supplementary private pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)
 
 ## Life Insurance and Disability
 
