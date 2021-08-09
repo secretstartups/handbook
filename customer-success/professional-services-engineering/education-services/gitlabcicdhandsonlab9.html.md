@@ -11,7 +11,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 1. Go to the [snippets page](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-ci-cd/gitlab-cicd-hands-on-demo/-/snippets) of the **CICD Hands On Demo** project.
 1. Open the `ci-sast` snippet and click the **Copy file contents** icon in the upper right corner of the file.
 1. Open your **CICD Demo** project from previous labs.
-1. Click on your `.gitlab-ci.yml` file to view its contents. Click the blue **Edit** button. Paste the snippet at the end of the file.
+1. Click on your `.gitlab-ci.yml` file to view its contents. Click the **Edit** button. Paste the snippet at the end of the file.
 1. In the **Commit message** field, type `enable SAST`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 1. Navigate to the pipeline that was started by this change and click the `gosec-sast` job to ensure that it's running. *Note: it might take a minute or two for the `Build` stage to complete first.*
 1. To view the results of the SAST scan, click **Security & Compliance > Vulnerability Report** in the left-hand navigation pane. In the **Scanner** drop-down list, select **SAST**. Click on any vulnerabilities to learn more about them.
