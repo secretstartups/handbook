@@ -455,6 +455,7 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Valley Meetings                  | No notes       | Timekeeping    |
 | L & D Weekly Learning Session    | Special ([See above](/handbook/ceo/shadow/#ceo-handbook-learning-sessions)) | No Timekeeping |
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
+| Investor Calls | No notes | No timekeeping unless requested |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
 
@@ -528,8 +529,8 @@ When introducing yourself in a meeting as the first shadow, say:
 1. I'm NAME.
 1. I normally am a/the TITLE.
 1. This is my first/last week in the two-week CEO shadow program.  
-1. **For internal meetings:** The goal of the program is to give participants an overview of the functions at GitLab.
-1. **For Valley meetings:** The goal of the program is to give participants an introduction to Silicon Valley discussions.
+1. **For GitLab-related meetings:** The goal of the program is to give participants an overview of the functions at GitLab.
+1. **For Valley meetings (not related to GitLab):** The goal of the program is to give participants an introduction to Silicon Valley discussions.
 
 
 When introducing yourself in a meeting as the second shadow, say:
