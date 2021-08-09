@@ -221,16 +221,7 @@ Combining the two axis above results in the below priority matrix.
 |Reconfigure External Web Service calls for a non-production environment||||
 |Disable Analytic Snapshots [ If any ]||||
 |Get the new Sandbox Org ID and instance Id if required||||
-|Remove the email suffix for required users to send email with new sandbox link
-
-      Required Users in Staging Sandbox 
-
-                 - [ ] jbren
-                 - [ ] jpetr
-                 - [ ] msnow
-                 - [ ] mclyn
-                 - [ ] lscho
-                 - [ ] svisw||||
+|Remove the email suffix for required users to send email with new sandbox link<br/><br/>Required Users in Staging Sandbox<br/><br/>jbren<br/>jpetr<br/>msnow<br/>mclyn<br/>lscho<br/>svisw||||
 | Create any required users who don't exist in Production||||
 | Regenerate (or completely disable) Inbound Email Services||||
 |Delete / modify entries in Remote Site Settings if you don't want to perform certain callouts.||||
@@ -241,7 +232,7 @@ Combining the two axis above results in the below priority matrix.
 |Disable Weekly Data Export||||
 |For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)||||
 
-#####Refresh cadence
+##### Refresh cadence
 
 Sandboxes which are managed as part of our team's SDLC process will follow a regular refresh schedule, as detailed below.
 
