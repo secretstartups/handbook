@@ -97,7 +97,7 @@ A **standard change** is a pre-authorized change that is low risk, relatively co
 A **comprehensive change** is *high risk, high impact,* or has a *more complex procedure.*
 * All changes to **financially significant applications** also are considered comprehensive due to the type of systems that they affect and the potential impact that could occur if there is an issue.
 * **Infrastructure changes** are also considered comprehensive.
-* **They require peer review, Impacted Team(s) Management approval, and Head of IT Approval.**
+* **They require peer review, Impacted Team(s) Management approval, Business Owner Approval, and Head of IT Approval.**
   * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Emergency**
