@@ -66,7 +66,8 @@ For a more extensive resource, see [GTM Product Analytics: Status, Gaps and the 
 | Working Group Role                   | Person                   | Title                          |
 |--------------------------------------|--------------------------|--------------------------------|
 | Executive Stakeholder                 | David Sakamoto           | VP Customer Success         |
-| Facilitator                           | Jeff Beaumont            | Senior Manager Customer Success Operations    |
+| Facilitator | Emily McInerney | Manager Customer Success Operations|
+| Functional Lead, Customer Success Operations                        | Jeff Beaumont            | Director Customer Success Operations    |
 | Functional Lead, Data                 | Rob Parker               | Senior Director, Data and Analytics |
 | Functional Lead, Product Analytics    | Amanda Rueda             | Interim PM, Product Intelligence |
 | Functional Lead, Fulfillment          | Justin Farris            | Group Manager, Product - Fulfillment |
@@ -77,8 +78,9 @@ For a more extensive resource, see [GTM Product Analytics: Status, Gaps and the 
 | Member                                | Jake Bielecki            | Senior Director, Sales Strategy & Analytics |
 | Member                                | Caitlin Ankney           | Customer Success Operations Analyst |
 | Member                                | Melia Vilain             | Manager, Sales Analytics |
-| Member                                | Dave Peterson            | Senior Product Analyst  |
+| Member                                | Brandon Butterfield         | Customer Success Operations Analytics Analyst  |
 | Member                                | Justin Stark             | Staff Data Engineer |
+| Member                                | Michael Arntz            | Customer Success Strategy Manager |
 
 ## Meetings
 
