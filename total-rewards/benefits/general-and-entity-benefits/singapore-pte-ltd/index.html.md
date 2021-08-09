@@ -30,20 +30,34 @@ GitLab offers company paid [Group Term Life and Group Personal Accident](https:/
 
 #### Maternity Leave
 
-Team members are entitled to either 16 weeks of Government-Paid maternity leave depending on the following criteria:
- - The child is a Singapore citizen.
- - Team member is lawfully married to the child’s father; and
- - Team member has served GitLab for a continuous period of at least 3 months before the birth of the child.
+Team members who have been continuously employed by GitLab for at least 3 months immediately before the birth of their child may be entitled to either 16 weeks of government-paid maternity leave in accordance with the Child Development Co-Savings Act or 12 weeks of maternity leave in accordance with the Employment Act. Eligibility can be determined by visiting the [Ministry of Manpower](https://www.mom.gov.sg/employment-practices/leave/maternity-leave/eligibility-and-entitlement) website.
 
-If the child is not a Singapore citizen, then the maternity leave is 12 weeks
+**Government-paid maternity leave entitlement**
+- For 1st and 2nd births, team members are entitled to 8 weeks paid by their employer and 8 weeks paid by the government.
+- The first 8 weeks of leave must be taken in one continuous block. The following 8 weeks may be broken up into different periods; however, it must end no later than 12 months from the child's date of birth.
+- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. Team members must initiate their leave by selecting the `Parental Leave` option in PTO by Roots at least 30 days before leave starts.
+
+**Applying for government paid maternity leave**
+- Team members must submit a [GPML Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPML1.pdf) to [Total Rewards](total-rewards@gitlab.com) as soon as possible. 
+- GitLab will continue to pay the team member's salary during their leave and [submit a claim for reimbursement](https://www.profamilyleave.gov.sg/Pages/GPML.aspx#What%20should%20I%20do%20as%20an%20employer?).
+- For 1st and 2nd births, GitLab will apply for reimbursement for the 9th - 16th weeks of leave. For 3rd and subsequent births, GitLab will apply for reimbursement for the full 16 weeks.
+
+**Maternity Leave entitlements under the Employment Act**
+- Eligible team members may be entitled to 12 weeks of maternity leave. This entitlement includes 8 weeks of leave paid by their employer and 4 weeks of unpaid leave.
+
+**To initiate leave:**
+- Team members must submit their leave request through PTO by Roots by choosing the `Parental Leave` option. 
+- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid maternity leave. 
 
 #### Paternity Leave
 
-Team members are entitled to 2 weeks of Paternity Leave.
-Team members are entitled to Government-Paid Paternity Leave (GPPL) for all births depending on the following criteria:
- - The child is a Singapore citizen.
- - Team member is or had been lawfully married to the child’s mother between conception and birth.
- - Team member has served GitLab for a continuous period of at least 3 months before the birth of your child.
+Team members who have been continuously employed by GitLab for at least 3 months immediately before their child's due date may be entitled to 2 weeks of government-paid paternity leave. Please visit the [Ministry of Manpower website](https://www.mom.gov.sg/employment-practices/leave/paternity-leave) for more information on eligibility.
+- For [eligible](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave) team members, this leave runs concurrently with GitLab Parental Leave. If eligible, team members would receive up to 16 weeks of paid paternity leave. 
+
+**Applying for Government-Paid Paternity Leave**
+- Team members must submit their leave request through PTO by Roots by choosing the `Parental Leave` option.
+- Team members must submit a [GPPL Declaration](https://www.profamilyleave.gov.sg/Documents/PDF/GPPL1.pdf) to [Total Rewards](total-rewards@gitlab.com) as soon as possible. 
+- GitLab will continue to pay the team member's salary during their leave and [submit a claim for reimbursement](https://www.profamilyleave.gov.sg/Pages/GPML.aspx#What%20should%20I%20do%20as%20an%20employer?).
 
 #### **Annual Leave** 
 - Team members in Singapore are entitled to Fourteen (14) days of annual leave per year which accrues on a pro rata basis throughout the year. This leave runs concurrently with GitLab PTO. Team members should initiate leave by entering their time off into PTO by Roots and selecting the `Vacation` option.
