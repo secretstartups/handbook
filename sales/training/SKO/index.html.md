@@ -26,3 +26,9 @@ This page will be updated as additional details are confirmed.
 ## [Sales Kickoff 2020](/handbook/sales/training/SKO/2020)
 
 ## [Sales Kickoff 2021](/handbook/sales/training/SKO/2021)
+
+----
+
+## Sales Kickoff Planning 
+
+For more information about the Sales Kickoff planning core team and process, see the [Sales Kickoff Planning](https://about.gitlab.com/handbook/sales/training/SKO/SKO-planning/) page.

@@ -39,6 +39,7 @@ GitLab Sales Kickoff 2021 consisted of half-day virtual sessions (due to COVID-1
 | **Session Name** | **Presentation** | **Video** |
 | ------ | ------ | ------ |
 | Marketing Keynote: Prepare for Peak Performance | [slides](https://docs.google.com/presentation/d/175Qyf6TGGN8vgDaCrBKek6hOGMA-LHYfqjl9or-RPyE/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-marketing) (GitLab internal) |
+| Guest Speaker (Jamie Clarke): Expedition Life--Perform Your Best When It Matters Most | slides (N/A) | [video](https://gitlab.edcast.com/insights/keynote-guest) (GitLab internal) | 
 | Channel Keynote: Cover More Ground with Channel Partners | [slides](https://docs.google.com/presentation/d/18OL3wiTPvhK4ZEzhHcxIErE5WqtmGpdJdMyr0fFqHDM/edit#slide=id.gb5ab6e1814_0_0) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-channel) (GitLab internal) |
 | Alliances Keynote: Winning is a Team Sport! | [slides](https://docs.google.com/presentation/d/1DOzBi5Jrc7kUxhaECy13hR1LBv6TRvx2JP7JlYtvEN8/edit?usp=sharing) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-alliances) (GitLab internal) |
 | Closing Keynote: It's Time for Peak Performance | [slides](https://docs.google.com/presentation/d/1qjQIuynuPQg6rGuNQSzKFSgdS8q_QJLzlmYujRcP3VE/edit) (GitLab internal) | [video](https://gitlab.edcast.com/insights/keynote-closing) (GitLab internal) |

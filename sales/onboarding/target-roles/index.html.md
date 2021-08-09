@@ -22,5 +22,6 @@ title: "Targeted Sales & Customer Success Roles for Sales Quick Start (SQS)"
    - Customer Success Managers and Directors
    - Channels (all roles)
    - Alliances (all roles)
+   - Field Operations (all roles)
 *  Professional Services Engineers (PSEs) do not participate in the Sales Quick Start Workshop
 *  Sales Development Reps (SDRs) have their own separate onboarding process (but many of the same elements are shared), and they attend SQS Workshops as well

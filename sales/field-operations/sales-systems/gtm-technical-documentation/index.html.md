@@ -438,7 +438,7 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 
  **Business Process this supports:** Digital Journey - In order to deliver the digital journey enablement series to new customers, we need a way to identify contact roles for certain personas in the business to receive the right material.
 
-**Overview:** For the Commercial market, we will require identifying the GitLab admins at each Account at the time of Opportunity approval submission. When the “Submit for Approval” button is clicked in the Opportunity, logic will run the check criteria (defined below) on if a GitLab Admin is required and if there is currently one defined. Providing a GitLab Admin is defined by having at least one contact on the Account that has `Role` CONTAIN GitLab Admin [as seen here.](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/) Note: This contact can have other roles defined in this field in addition to GitLab Admin. If the criteria is met, there are two potential results:
+**Overview:** For the Commercial and Enterprise markets, we will require identifying the GitLab admins at each Account at the time of Opportunity approval submission. When the “Submit for Approval” button is clicked in the Opportunity, logic will run the check criteria (defined below) on if a GitLab Admin is required and if there is currently one defined. Providing a GitLab Admin is defined by having at least one contact on the Account that has `Role` CONTAIN GitLab Admin [as seen here.](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/) Note: This contact can have other roles defined in this field in addition to GitLab Admin. If the criteria is met, there are two potential results:
 
    1. There is already a GitLab Admin defined on the Account. 
       * Result: The submission continues to the normal screen of Closed Won Reason requirements for approvals.
@@ -447,9 +447,9 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 
    **Criteria to enter this logic:**
    * `Web Portal Purchase` is Unchecked (false value)
-   * `Order Type 2.0` is 1. New - First Order
+   * `Order Type 2.0` is 1. New - First Order OR 2. New - Connected OR 3. Growth
    * `Net ARR` less than $50,000
-   * `Account Owner Team` is Commercial
+   * `Stamped Opp Owner User Segment` is SMB or Mid-Market or Large
    * `[TSP] Region` is not APAC
    * `[TSP] Region` is not LATAM
 
@@ -474,6 +474,23 @@ Once this is complete, a validation rule will prohibit anyone other than the abo
 **Logic Locations:**
 
 * Flow: [Opp Approval Field Check 3.0 GitLab Admin Check](https://gitlab.lightning.force.com/lightning/setup/Flows/page?address=%2F3004M000000brYQQAY%3FretUrl%3D%2Flightning%2Fsetup%2FFlows%2Fhome)
+
+
+## Next Steps History
+
+**Business Process this supports:** Sales tracks their next steps in the `Next Steps` field. It is important to have a historical log of these "Next Steps" so that they can be referenced in the future. We have created a system to streamline this process so that sales will only need to update what the true "Next Step" is and the system will log the historcal data.
+
+**Overview:** On the Opportunity, when the `Next Steps` field is updated, the previous value of this field will be stamped into the `Next Steps History` field. This will be complete with a time stamp and will keep the previously existing value of `Next Steps History` to keep a full log.
+
+ **Criteria to enter this logic:**
+   * `Next Steps` has been changed/updated OR the Opportunity has just been created.
+   * `Next Steps` previous value was not a "blank" value.
+
+**Logic Locations:**
+
+* Workflow Rule: [Next Steps History](https://gitlab.my.salesforce.com/01Q4M000000sslN)
+* Field Update Action: [Update Next Steps History](https://gitlab.my.salesforce.com/04Y4M000000saO7)
+
 
 
 ## Automations

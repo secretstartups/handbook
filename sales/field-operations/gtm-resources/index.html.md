@@ -166,6 +166,8 @@ LinkedIn/Websites are not designated data sources.
 If a prospect communicates a different employee size from DataFox/Zoominfo that conflicts with segmentation of what is determined by DataFox/Zoominfo then SalesOPS should be notified via chatter on the record with documented proof from the prospect.
 Admins have the ability to override the `Employees` and bypass this hierarchy but only during our [sales segment review process](#sales-segment-and-hierarchy-review-process).
 
+Mid-Market accounts can managed either as a [MM Key Account or belong to a MM Territory AE](/handbook/sales/commercial/#mid-market-roles).
+
 ### Sales Segment and Hierarchy Review Process
 
 In order to address issues when it is believed that the employee count, account address and/or account ownership is incorrect follow the [Sales Operations process](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/#what-if-tsp-is-wrong-how-can-i-request-a-change) to have the `[TSP]` fields updated and the account will be reviewed per the Rules of Engagement. 
@@ -176,12 +178,19 @@ If the number of employees, according to our sources based on our hierarchy as d
 
 ### Regional Leadership
 
+**Enterprise Sales**
+- **VP Enterprise Sales**: Mike Pyle
+- **Europe, Middle East and Africa** (`#emea` Slack channel): TBH, Regional Director
+- **Asia Pacific** (`#apac` Slack channel): Anthony McMahon, Regional Director
+- **North America - US East** (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
+- **North America - US West** (`#us-west` Slack channel): TBH, Regional Director
+- **Public Sector** (`#public-sector` Slack channel): Bob Stevens, Area Vice President
+ 
+**Commercial Sales**
 - **VP Commercial Sales** (Mid-Market & Small Business): Ryan O'Nell
-- <b>Europe, Middle East and Africa</b> (`#emea` Slack channel): TBH, Regional Director
-- <b>Asia Pacific</b> (`#apac` Slack channel): Anthony McMahon, Regional Director
-- <b>North America - US East</b> (`#us-east` Slack channel): Brittany Caulfield, Area Vice President
-- <b>North America - US West</b> (`#us-west` Slack channel): TBH, Regional Director
-- <b>Public Sector</b> (`#public-sector` Slack channel): Bob Stevens, Area Vice President 
+- **Mid Market Global Sales**: Timmothy Ideker, Regional Director
+- **SMB North America Sales** (`#smb` Slack channel): Nick Christou, Regional Director
+- **SMB EMEA/APAC Sales** (`#international-smb` Slack channel): Helen Mason, Area Sales Manager
 
 ### Territories
 
@@ -683,7 +692,7 @@ The following fields have been obtained:
 - Potential seats of the first opportunity (if this is a new account or buying group)
 
 **Timing**
-After the initial qualifying meeting with the account leader/executive, there must be a next step that is set to occur within a *60 day timeframe.
+After the initial qualifying meeting with the account leader/executive, there must be a tangible next step scheduled with the prospect that is set to occur within a *60 day timeframe.
 (*If next step isn’t within a 60 day timeframe, the opportunity remains in stage 0 and in SDR ownership to nurture until the next step is actualized.)
 
 _**SDR best practice:**_

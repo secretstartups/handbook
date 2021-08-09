@@ -13,7 +13,7 @@ description: "Effective discovery is critical to thoroughly understanding custom
 {::options parse_block_html="true" /}
 
 # Overview 
-Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. Consider tuning into the below podcast to improve your discovery effectiveness.
+Effective discovery is critical to thoroughly understanding customer needs and establishes the foundation for being able to effectively articulate GitLab's value and differentiation in a compelling, customer-centric way. Effective discovery will help you attach to your customers' biggest problems, gain access to higher-level business stakeholders, and serve as a trusted advisor to your customers. This, in turn, will help you build and maintain a healthy and predictable pipeline to meet and exceed your sales goals while helping your customers achieve their business objectives. 
 
 ![discovery-components-visual](/handbook/sales/playbook/discovery/discovery-components-visual.png)
 
@@ -90,6 +90,12 @@ Leverage the TED questioning model (see below) to get the prospect to open up an
 - E: Can you please **explain** the impact of...?
 - D: Will you please **describe** how others are affected by...?
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/VOu0q2NvH_s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 #### Five Whys
 Use the [Five Whys](/handbook/customer-success/tam/success-plans/questions-techniques/#five-whys) technique to identify the root cause(s) and understand the "So what?" Check out the short video below and read the [Why Salespeople Should Ask The Same Question 5 Times In A Row](https://blog.hubspot.com/sales/the-five-whys-sales-strategy) blog to learn more.
 
@@ -130,6 +136,12 @@ The final phase of discovery identifies the roadmap, along with potential roadbl
 ## Lack of Preparation
 See the [above section](/handbook/sales/playbook/discovery/#preparation) for tips to avoid what may be the most common discovery pitfall.
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/7nSImEMagAQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Happy Ears
 Resist the urge to prematurely talk about or begin to position GitLab until you have a thorough understanding of the customer’s challenges, the implications of those challenges, how big the problem is, the urgency of the problem, who cares about the problem and why, and more (see below).
 
@@ -155,11 +167,11 @@ You must have a solid understanding of the prospect's key business drivers, stra
 <!-- blank line -->
 
 ## Failing to Identify the Negative Consequences of Doing Nothing
-Watch the short video below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
+Watch the short videos below to learn more about the importance of seeking to understand, and helping your prospect understand, the negative implications of their current state. As a salesperson, you must understand the difference between the prospect's _current state_ and the _future state that GitLab can help deliver_ and effectively articulate that difference in a way that compels them to take action. 
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/zDh2GwVaK8A" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/DTxFqjLbvtI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
@@ -198,6 +210,9 @@ Sales multi-threading refers to the concept of engaging and developing relations
 
 **Attaching to the Biggest Problem**
 - [How to Enable Reps to Sell Higher](https://theaudible-readypodcast.sounder.fm/episode/decision-process-brian-walsh) podcast (27 minutes) 
+
+**Identifying the Negative Consequences of Doing Nothing**
+- [Standing in the Moment of Pain](https://youtu.be/zDh2GwVaK8A) (1 minute)
 
 **Multi-Threading**
 - [Navigating the Decision Process with Multiple Buyers](https://theaudible-readypodcast.sounder.fm/episode/decision-process) podcast (11.5 minutes)

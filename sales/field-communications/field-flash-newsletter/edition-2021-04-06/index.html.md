@@ -29,7 +29,7 @@ Questions? Reach out in #sales-support.
 Marsja Jones, Taylor Medlin and Kasim Ahmad share how they closed an Ultimate upgrade with an SMB AI customer. Learn why “reduce security and compliance risk” guided the conversation and how the team leveraged alliance partner GCP to close the deal.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=n3C5JAW0w1A" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/n3C5JAW0w1A" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 Check out Marsja’s [custom deck here](https://docs.google.com/presentation/d/1QOYJrHQji51q1xNA0AiWqIzpD5jr2wjlx78TfQdYFyg/edit#slide=id.gb546c55f9b_0_295).
