@@ -170,11 +170,13 @@ You can search for organizations using the ZD search (see screenshow below).
 
 ### Adding a customer to an organization
 
-Follow these steps after [identifying the user as a customer](#identifying-customers).
+Follow these steps after [identifying the user as a customer](#identifying-customers)
+and verifying their proof of entitlement.
 
 To associate a user with an organization:
 
-1. Make sure the user exists in SFDC. If not, please ping their AM/TAM (via Chatter aka Salesforce Feed) to add the user in SFDC.
+1. Make sure the customer exists in SFDC. If not, please ping their AM/TAM via Chatter
+   (Salesforce Feed) to add them as a contact in SFDC.
 1. Click on the user's name in ZD ticket.
 1. In the "Org" field type the organization name.
 1. Select the appropriate organization.
