@@ -3,7 +3,8 @@ layout: job_family_page
 title: "Open-source Outreach Engineering Manager"
 ---
 
-Open-source Outreach Engineers
+The Open-source Outreach Engineering Manager managers a team of full-stack engineers driving efficiency and improvements of our contribution process. 
+The Open-source Outreach Engineering team collaborates closely with our Community Relation team counterpart.
 
 ## Responsibilities 
 
@@ -52,8 +53,8 @@ The Open-source Outreach Engineering Manager  is a [grade 8](/handbook/total-rew
 * Review recommendations from team members and priorize most impactful improvements for the community.
 * Own the formation process of community contributor cohorts, a teams of community contributors.
 * Create orientation process and materials for newly formed community contributor cohorts
-* Track community contributor & community cohorts efficiency metrics
-* Implement results-focused community efficiency metrics and measurements
+* Drive iterative improvements to Open-source Outreach team's key and regular performance indicators.
+* Continuously monitor community efficiency metrics and performance indicators.
 * Provide guidance to community contributors on technical and non-technical aspects. 
 * Track pipeline efficiency improvements and drive them to completion.
 * Review nominations and assign awards to community contributors, cohorts and contribution. 
