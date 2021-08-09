@@ -74,14 +74,15 @@ Check whether a requester matches a type in the following order:
 If a requester has identified themselves as a paid customer, you can associate
 the customer with the ZenDesk organization if either:
 
-1. The customer's email is listed in Salesforce (SFDC) as a contact for an
-   organization, OR
+1. The customer's email is listed in Salesforce (SFDC) as a contact for that
+   organization. You can use the
+   [customer account look up workflow](looking_up_customer_account_details.html)
+   to help you to find this information.
+   
+   OR
 1. The customer provides [proof of entitlement](/support/#proving-your-support-entitlement).
 For self-managed, you can use this macro, `Support::Self-Managed::Locating GitLab subscription`,
 to request it.
-
-*Look up resource*: You can use the [customer account look up workflow](looking_up_customer_account_details.html)
-to find the relevant subscription and organization name.
 
 If the customer meets the criteria, follow the process described in [Associating
 an organization](#associating-an-organization). Otherwise:
@@ -175,8 +176,10 @@ and verifying their proof of entitlement.
 
 To associate a user with an organization:
 
-1. Make sure the customer exists in SFDC. If not, please ping their AM/TAM via Chatter
-   (Salesforce Feed) to add them as a contact in SFDC.
+1. Verify that the customer exists in SFDC, and remember that if you don't have access
+   to SFDC, there are other ways to [look up customer account details](https://about.gitlab.com/handbook/support/workflows/looking_up_customer_account_details.html#looking-up-customer-account-details).
+   If they do not exist in SFDC, please ping their AM/TAM in the `#account-management`
+   Slack channel to ask them to add the customer as a contact in SFDC.
 1. Click on the user's name in ZD ticket.
 1. In the "Org" field type the organization name.
 1. Select the appropriate organization.
@@ -186,9 +189,10 @@ To associate a user with an organization:
 
 **Note**: If a customer raises a ticket to add some users in their organization, here are some things to take note of: 
 
-- If the user exists in both SFDC and Zendesk, we can associate the user to the org. 
+- If the user exists in both SFDC and Zendesk, you can associate the user to the org. 
 - If the user exists in SFDC but not in Zendesk, you can create the user in Zendesk if you desire or just inform the user that when they first submit a ticket in the Support Portal the Zapier process we have in place should auto-associate the user in the org.
-- If the user does not exist in both SFDC and Zendesk,  we can ping their TAM/AM (via Chatter aka Salesforce Feed) and ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal. 
+- If the user does not exist in both SFDC and Zendesk,  you can ping their TAM/AM in the `#account-management`
+  Slack channel to ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal. 
 
 ### Removing a user from an organization
 
