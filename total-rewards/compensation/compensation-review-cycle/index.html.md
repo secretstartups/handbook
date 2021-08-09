@@ -492,17 +492,31 @@ For Fiscal Year 2022, the promotion and annual compensation review budget is sep
 
 ## Targeted Mid-year Increase Review
 
-Team members hired between November 1st and January 31st or team members who did not receive an increase during the most recent annual compensation review due to a recent promotion, compensation adjustment, or for performance may not have their compensation evaluated for more than a year. In order for GitLab to help Managers to be better equipped to retain team members and reward high performers who were not increased during the previous annual compensation review, Managers will be able to recommend team members for targeted mid-year increases.
+Team members hired between November 1st and January 31st or team members who did not receive an increase during the most recent annual compensation review for example due to a recent promotion, compensation adjustment, or for performance may not have their compensation evaluated for more than a year. In order for GitLab to help Managers to be better equipped to retain team members and reward high performers who were not increased during the previous annual compensation review or after, Managers will be able to recommend team members for targeted mid-year increases.
 
 During the [annual compensation review](#annual-compensation-review), the budget for these team members is separated out to be used in August. If anyone would fall out of the compensation range, the team member would be adjusted immediately, but this would be deducted from the budget used in August.
 
-This review will only take into account a performance alignment (if any). Team members should not expect an increase, but instead understand that their compensation is being reviewed to ensure alignment to market and performance.
+Team members should not expect an increase, but instead understand that their compensation is being reviewed to ensure alignment to market and performance. 
+
+For the FY23 Targeted Mid Year Review, team members on the Frontend Engineer benchmark or in the Security and UX department will also be eligible for the compensation review cycle as the [benchmarks have been [updated to align with a competitive rate in the market](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/merge_requests/280/diffs). In line with GitLab's [Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/#gitlabs-compensation-principles), when we update the SF benchmark we review compensation for new hires and current team members to ensure alignment to a competitive rate. 
 
 ### Manager Process
 
 In August, a compensation review cycle using [Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas) will open for all eligible team members' compensation to be reviewed. 
 
-This is a cash only cycle as equity will be reviewed in the next Annual Compensation Review process. 
+This is a cash only cycle as equity will be reviewed in the next Annual Compensation Review process. If a team member within the team of the manager is eligible for the Targeted Mid-year review we recommend for the manager to go into Compaas and review: 
+- Reason for eligibility (start date or not receiving an increase)
+- Any updates to the compensation bands of the Job Family (benchmark and/or location changes)
+- Performance of the team member. Note: Prior to the Targeted Mid-Year increase there will **not** be a formal performance assessment. This means that the recommended increases which are applicable over [the Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review) should **not** be expected now. Rather than a formal performance assessment we ask managers to review whether the team member is meeting performance expectations. 
+- Whether the team member is at a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location
+
+_Team members who are currently struggling to perform at their current level should have that communicated clearly and the manager should consider delaying the increase until team member meets performance expectations._
+
+**Example scenario 1.**
+A team member was hired on 2020-11-01 and thus was not eligible for Annual Compensation Review for FY22. The team member is exceeding with a high growth factor. The manager would like to denote this performance by granting a small increase to avoid waiting more than 15 months before a review of compensation. The manager proposes a 3% increase to help bridge the gap in time before Annual Compensation Review. In Q4 you will formally assess their Performance and Growth and they will be eligible for Annual Compensation Review. 
+
+**Example scenario 2.**
+A team member did not receive an increase over Annual Compensation review as they were promoted on 2021-12-01. In the increase for promotion you took into account the Annual Compensation review and have given them a higher increase than the recommended 5-10% for promotions. They are currently placed a a competitive rate for their level, role and location just below the median. The team member is meeting performance expectations. As a manager you are not going to recommend a targeted mid year increase but will formally assess their performance and growth in the new role in Q4. At the annual compensation review they will be eligible again for an increase. 
 
 ### Targeted Mid-year Increase Review Timeline
 
