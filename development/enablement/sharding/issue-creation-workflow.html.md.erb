@@ -25,8 +25,9 @@ graph TD
     is_active -->|No| milestone
     active --> milestone
     other_group --> sharding_blocker[label sharding-blocker]
-    sharding_blocker --> milestone[add appropriate milestone]
-    milestone --> epic[add to appropriate epic]
+ sharding_blocker --> milestone[add appropriate milestone]
+    milestone --> priority[add priority label]
+    priority --> epic[add to appropriate epic]
 
 ```
 Notes
