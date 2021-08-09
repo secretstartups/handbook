@@ -276,12 +276,16 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 **Topic: Individual Growth Plan** 
 
-- Career Development Interviews
-- Pathways in GitLab Learn 
-- Using the Individual Growth Plan Interview 
-- Using the Achievement Tracker 
-- Using Epics to Track Career Development 
+- [Career Development with Nicolas Dular](https://gitlab.edcast.com/pathways/career-development-with-nicolas-dular )
+- [Career Development with Rebecca Spainhower](https://gitlab.edcast.com/pathways/career-development-with-rebecca-spainhower )
+- [Building an Individual Growth Plan](https://gitlab.edcast.com/pathways/building-an-individual-growth-plan) 
+- [Using the Individual Growth Plan Interview](/handbook/people-group/learning-and-development/career-development/#gitlab-team-member-using-the-igp) 
+- [Using the Achievement Tracker](/handbook/people-group/learning-and-development/career-development/#using-your-accomplishment-tracker) 
+- [Using Epics to Track Career Development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) 
 - Live Session: Individual Growth Plan 
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - 2021-08-11 @ 6pm PT 
 
 #### Week 3 
 
