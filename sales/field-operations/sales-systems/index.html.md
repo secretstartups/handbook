@@ -130,7 +130,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 23.  Before moving to your next task rebase with `git checkout master` then `git pull`. **Always be pulling!**
 24.  Clone the merged change set that was deployed into production and push and deploy this change set to staging. (Post deploy steps and setup are optionable)
 
-Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD Pipelines](https://trailhead.salesforce.com/en/content/learn/projects/automate-cicd-with-gitlab)
+Note: We are continuing to move towards using [Salesforce SFDX and GitLab CI/CD Pipelines](https://gitlab.zoom.us/j/6480310139?pwd=dFptM3ROMTRMQUY4OG5WVUlvVjk2Zz09).  Contribute on [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1851)!
 
 ## Priority Matrix
 
