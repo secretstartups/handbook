@@ -90,15 +90,15 @@ A **standard change** is a pre-authorized change that is low risk, relatively co
 * A standard change is one that is frequently implemented, has repeatable implementation steps, and has a proven history of success.
 * Standard changes have to go through the change management process.
 * **They require a peer review and Impacted Team(s) Management approval.**
-  * * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
+  * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Comprehensive**
 
 A **comprehensive change** is *high risk, high impact,* or has a *more complex procedure.*
 * All changes to **financially significant applications** also are considered comprehensive due to the type of systems that they affect and the potential impact that could occur if there is an issue.
 * **Infrastructure changes** are also considered comprehensive.
-* **They require peer review, Impacted Team(s) Management approval, and Head of IT Approval.
-  * * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
+* **They require peer review, Impacted Team(s) Management approval, and Head of IT Approval.**
+  * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Emergency**
 
