@@ -11,36 +11,50 @@ title: "Incident Management OnCall onboarding"
 {:toc .hidden-md .hidden-lg}
 
 ## Introduction
-This page is meant to be the starting point for someone looking to learn about IMOC and eventually join the rotation.
+This page is meant to be the starting point for onboarding as a new IMOC (Incident Manager).
 
-As a means to expand the Incident Management OnCall (IMOC) rotation and increase number of people who are qualified to take on the [IMOC role](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities) at GitLab for GitLab SaaS environments, this IMOC onboarding program exists. As an incident manager, people get to learn about how we run GitLab.com and other GitLab SaaS environments. They get to help ensure the availability goals for GitLab.com by working with reliability engineers on call and development team members. 
+As a means to ensure a healthly [IMOC](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities) rotation with sufficient staffing and no significant burden on any single individual we staff this role with both Engineering Manager and Senior Engineering staff from across Engineering. As an incident manager, Team Members learn how we run GitLab.com and other GitLab SaaS environments. They help ensure the availability goals for GitLab.com by working with reliability engineers on call and development team members. The experience and awareness gained in this role leads to better understanding of building GitLab at scale and ultimately, a more reliable and scalable GitLab SaaS service and product.
 
-### Questions about getting into IMOC
+### Questions about becoming a new IMOC
 
 #### What prerequisites are there?
 This is largely thanks to [PagerDuty's guide](https://response.pagerduty.com/training/incident_commander/):
 * Excellent verbal and written communication skills
 * High level knowledge of GitLab architecture and how [GitLab.com is architected](https://about.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
-* Ability to size up a situation, assess the effectiveness of various tactics/strategies, and make rapid decisions on appropriate courses of action.
+* Ability to size up a situation, assess the effectiveness of various tactics/strategies, and make decisions on appropriate courses of action.
 * Has flexibility, and is able to listen to expert feedback, modifying plans on-the-fly as necessary and knows when to ask for more help.
 * Ability to take ownership of an active incident, managing traffic and engagement on the incident call, even if it means asking people to leave a call to remove distractions.
 
-#### Who can join?
-Senior or above members of Support, Development and Infrastructure teams with approval from their manager since there is a time/interrupt commitment.
+#### Who are the IMOCs?
+Currently, IMOCs are Engineering Managers or above members of the Development and Infrastructure teams. In the future, it is expected that the IMOC pool of Team Members will also include Staff+ Engineers across Engineering. Occassionally there are individual exceptions to who is part of IMOC, to date this is most often seen by Senior Engineers within Infrastructure functioning as IMOCs. Exceptions such as these will continue to be made as necessary and with the approval of the the VP of Infrastructure.
+
+#### How many Team Members are needed to appropriately staff the IMOC pool? 
+A minimum of 24 Team Members are needed in order to provide global coverage and ensure that any single individuals are not overly burdened. In addition to the overall total of 24, a minimum of 6 within each major timezone geography are also required. With sufficient staffing, the IMOC duties can be performed during a shift which is proximate to a normal business hours working day time for each individual.
+
+#### Is this a volunteer effort? 
+The IMOC pool starts with those interested in the effort, but is to be staffed up to minimum level by assignment. Assignment will be coordinated by the VP of Infrastructure and the VP of Development or their designees.
+
+#### What are the expected commitments? and how do I balance my normal job responsibilities?
+Starting August 30, 2021 the shifts are 8 hours from xx:00 - xx:00 UTC (APAC), xx:00 UTC - xx:00 UTC (EMEA), and xx:00 - xx:00 UTC (AMER) each day. Each IMOC assignment is for 3 consecutive days where a Team Member in the IMOC role will have that responsibility for the shift which cooresponds to their geography. Shifts will include weekends based on this 3 day rotating assignment.
+When you are scheduled to be IMOC, this must by your #1 work priority. However, while it is the priority, there may not be any incidents. When there is not an active incident requiring IMOC leadership you maintain your normal work duties. 
+Currently, pages to IMOCs happen roughly 0 to 4 times a week. During the time an IMOC is oncall, there is a 15 minute SLA to respond to escalations. This can mean dropping out of meetings, 1:1s, etc. to join incident calls. This demand can make balancing hard, and you may have to reschedule meetings on short notice. Because of the interrupt-driven nature of IMOC, it is advised that you shift sync meetings which would be difficult for you to leave to a later date.
+
+#### How often will I have an IMOC shift?
+Three day shifts mean that, at the most, a Team Member participating in IMOC will have shifts every 19 days (assuming minimum 6 person pool). Each additional Team Members added to the pool in your region extends this timing by 3 days. The more Team Members involved, the well often any individual will have shifts. 
+
+#### Can I shift my IMOC days around?
+Yes, this is one of the other benefits of having a well staffed pool of Team Members engaged as IMOC. Shift "trades" are easy to arrange in Pagerduty. It is your responsibility to ensure that your assigned shift is covered, but in extraordinary circumstances please reach out to the VP of Infrastructure for assistance.
 
 #### How does someone onboard into the IMOC rotation? 
 Create an IMOC onboarding issue via [this link](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues/new?issuable_template=imoc_onboarding).
 
-#### What are the expected commitments? and how do I balance my normal job responsibilities?
-The commitment will vary with the size of the IMOC rotation. Currently shifts are 12 hours from 04:00 - 16:00 UTC and 16:00 UTC - 04:00 UTC during weekdays. There is a separate weekend rotation staffed by Infrastructure managers. As we grow the rotations, we will be able to change the shifts to a 3 by 8 hour rotation.  The frequency of oncall depends on how many people are in the rotation.  It could be as short as every other week or once every 6 weeks. Ask in [#infrastructure-lounge](https://gitlab.slack.com/archives/CB3LSMEJV) if you are curious what the current rotation is like. Currently, pages to IMOCs happen roughly 0 to 4 times a week. During the time an IMOC is oncall, there is a 15 minute SLA to respond to escalations. This can mean dropping out of meetings, 1:1s, etc. to join incident calls. This demand can make balancing hard, and you may have to reschedule meetings on short notice.
-
 #### Can I withdraw?  
-Yes - we value the right to a 2 way door decision.
+Yes - if you have volunteered for IMOC and wish to withdraw you may do so as long as the minimum pool size remains. If your withdrawal will reduce the pool below minimum staff you will need to work with leadership to have another Team Member assigned to take your place.
+
+#### Will the IMOCs always be the same people?
+No. It is intended that we rotate Team Members in/out of the IMOC pool approximately every 6 months. These rotations will begin in Jan 2022 with a couple Team Members every few weeks so that we establish a rotation that is spread out instead of everyone rotating at the same time.
 
 ## Learning about Incident Management 
 We have a detailed handbook page that covers how we do [Incident Management](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/) at GitLab.
-
-## Joining the rotation and vision
-As we add more people to the IMOC rotation, your time will likely be much less frequent for oncall. Assuming we can get to 18 people with 6 in each "region", IMOCs will only be oncall once every 6 weeks for the 24x5 weekdays that are critical to cover.
 
 
