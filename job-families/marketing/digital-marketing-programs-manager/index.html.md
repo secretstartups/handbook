@@ -1,69 +1,81 @@
 ---
 layout: job_family_page
-title: "Digital Marketing Programs Manager"
+title: "Digital Marketing Manager"
 ---
 
-## Intro
+## Overview
 
-You might describe yourself as analytical, creative, organized, and diplomatic. You have experience driving web traffic to build revenue by deploying a variety of crafts that span marketing, content, and product management. You enjoy setting up conversion rate optimization experiments to continually improve the results of a prospective customers journey, and sharing results and insights with a broad group of stakeholders throughout the company. You also enjoy employing a number of marketing tactics to attract a relevant audience to a marketing site.
+The Digital Marketing Manager works under the Demand Generation team and is responsible for developing and managing the digital demand strategy and plans to support GitLab marketing campaigns across paid search, paid social, programmatic display, and sponsored publisher channels. This role will drive digital campaign execution across integrated marketing teams, and will develop and manage demand execution to drive inquiries and meet pipeline goals from both inbound and outbound campaigns.  The ideal candidate is a proven marketing technologist and strategist who possesses a start-up mentality, can quickly uncover new opportunities to optimize and build, takes ownership of key tools, aligns and organizes with cross-functional teams toward one mission. They will have a genuine curiosity for testing new and innovative approaches to generate demand, and will take a data-driven approach to planning and optimizing digital demand across both inbound and outbound channels.
 
 ## Responsibilities
 
-- Ensure all online marketing enhances our brand with developers, IT ops practitioners, and IT leaders. Be an expert on our audiences and their preferences.
+- Have a firm understanding of historical campaign performance by segment, audience, product, channel, content and region to drive data-driven strategic campaign recommendations
+- Leverage segmentation and buying group data to define target audiences and channels of reach for demand programs, and deliver insights to drive campaign optimization
+- Develop quarterly forecasts to ensure inquiries, MQLs and pipeline deliver on goals across all channels and align to demand and sales targets
 - Be an expert on our customer lifecycle, and ways in which customer needs are evolving/how our product meets them.
-- Work with product team to implement marketing strategies that span into trial/product experience, and impact both customer conversion and future retention/upsell.
+- Work with product team to implement marketing strategies that span into trial/product experience, and impact both customer conversion and future retention/upsell
 - Drive innovation and experimentation on the marketing site & trial experience to improve demand creation & conversion.
-- Oversee our paid search and paid social programs, maximizing for return on marketing spend.
-- Analyze and report data across multiple channels to monitor marketing site growth.
+- Oversee our paid demand generation programs with our Ad Agency to maximize return on marketing spend.
+- Analyze and report data across multiple channels to monitor marketing site growth
+- Research marketing trends to continually innovate and test new lead generation approaches
+- Effectively communicate campaign strategy, plans and performance across key stakeholders and executives
 
-## Specialties and levels
 
-### Digital Marketing
-The ideal digital marketer for GitLab will understand the larger opportunity across marketing channels and will have experience in a wide range of paid marketing tactics as well as a solid background in SEO and the ability to make decisions about the best marketing channels to reach our audience.  They will also be able to use data and research to make marketing decisions and run conversion rate optimization experiments.
+## Levels
 
-#### Digital Marketing Program Manager
+#### Digital Marketing Manager
 
 ##### Job Grade 
 
-The Digital Marketing Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Digital Marketing Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
-- Assist with building and improving paid search and social campaigns.
-- Assist in growing traffic to about.gitlab.com through paid search and social marketing programs.
-- Work with marketing and sales ops to evaluate and implement adtech and martech.
-- Work with our content team to ensure the content we create on the marketing site is promoted in paid and social marketing sites and sponsorships.
+- Assist in building and improving paid demand generation campaigns across paid search, paid social, programmatic display, and/or sponsored publisher channels.
+- Help manage paid demand generation strategy to assist in building sales pipeline by driving high quality leads to our Sales team
+- Leverage the customer’s buyer’s journey to architect innovative multi-channel engagement programs that will lead customer prospects through the sales funnel (inquiry through closed-won).
+- Manage budgets and project plans to ensure campaigns launch on due date and meet their objectives
+- Partner with Campaigns team to develop creative, content, and web experiences that follow media best practices that will engage customers throughout their journey
+- Provide campaign support to other parts of the organization (field marketing, corporate, account-based marketing, etc). 
+- Work closely with our Ad Agency to ensure the execution of our demand generation campaigns
+- Partner with Analytics team to establish measurement framework for digital media campaigns that map to the program goals
 - Monitor market trends and competitors to determine marketing opportunities and recommend and take actions to improve visibility of site.
-- Grow trial conversion to paying customer by optimizing the customer journey
-- Develop and execute on strategies to improve free user to paid plan conversion.
 
 ##### Requirements
-- 3+ years in Digital Marketing role
-- 2+ years experience Google Analytics (or related tool) and Google Adwords and expert-level SEO/SEM tool experience.
-- 1-3 years of enterprise software marketing experience.
-- 1-3 years paid social media marketing experience
-- Technical/industry experience focused on SEO, SEM, online advertising, and/or web conversion rate optimization to improve lead generation, sales pipeline, and revenue.
-- Advanced analytics and reporting experience including advanced knowledge of Excel, Tableau, SQL, and/or similar.
 
-####  Senior Digital Marketing Program Manager
+- 3+ years in Digital Marketing or Demand Generation role
+- 3+ years technical/industry experience focused on SEO, SEM, paid social, programmatic display, and/or web conversion rate optimization to improve lead generation, sales pipeline, and revenue.
+- 2+ years experience with web analytics such as Google Analytics (or related tool)
+- 1-3 years of enterprise software marketing experience
+- Advanced analytics and reporting experience including advanced knowledge of Excel, Tableau, SQL, and/or similar.
+- Experience in using Salesforce, Marketo (or other marketing automation software) a plus
+
+####  Senior Digital Marketing Manager
 
 ##### Job Grade 
 
-The Senior Digital Marketing Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Digital Marketing Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
-- Define our overall digital strategy together with marketing team and digital marketing agency.
-- Manage our paid sponsorship opportunity and budget.
-- Develop and manage our paid social and search opportunity and budget.
-- Improve closed-loop reporting and analysis capabilities for paid search, social, sponsorships, ABM, and SEO.
-- Drive innovation and experimentation on the marketing site & trial experience to improve inbound demand creation & conversion.
+
+- Define our overall paid demand generation strategy across paid search, paid social, programmatic display, and/or sponsored publisher channels
+- Plan quarterly media budgets across various segments and regions in order to help Sales meet their pipeline goals
+- Leverage the customer’s buyer’s journey to architect innovative multi-channel engagement programs that will lead customer prospects from inquiry > MQL > SAO > closed won
+- Lead efforts and strategy with our Ad Agency proactively test and improve demand generation campaigns
+- Improve closed-loop reporting and analysis capabilities for all paid demand generation efforts
+- Drive innovation and experimentation in our demand generation programs to improve our demand creation & conversion
+- Work with marketing and sales ops to evaluate and implement adtech and martech
+- Partner with Analytics team to establish measurement framework for digital media campaigns that map to the program goals
+- Work with inbound marketing teams to build conversion rate optimization strategies around onsite content and strucutre
+- Monitor market trends and competitors to determine marketing opportunities and recommend and take actions to improve visibility of site.
 
 ##### Requirements
-- 5+ years in Digital Marketing role
-- 5+ years experience Google Analytics (or related tool) and Google Adwords and expert-level SEO/SEM tool experience.
-- 3+ years of enterprise software marketing experience.
-- 3+ years paid social media marketing experience
-- Technical/industry experience focused on SEO, SEM, online advertising, and/or web conversion rate optimization to improve lead generation, sales pipeline, and revenue.
-- Advanced analytics and reporting experience including advanced knowledge of Excel, Tableau, SQL, and/or similar.
+
+- 5+ years in Digital Marketing or Demand Generation role
+- 5+ years technical/industry experience focused on SEO, SEM, paid social, programmatic display, and/or web conversion rate optimization to improve lead generation, sales pipeline, and revenue.
+- 5+ years experience with web analytics such as Google Analytics (or related tool)
+- 1-3 years of enterprise software marketing experience
+- 1-3 years experience in using Salesforce, Marketo (or other marketing automation software) required
+- Advanced analytics and reporting experience including advanced knowledge of Excel, Tableau, SQL, and/or similar.=
 
 #### Manager, Digital Marketing Programs
 
@@ -71,16 +83,16 @@ The Manager of Digital Marketing Programs for GitLab should have a background an
 
 ##### Job Grade 
 
-The Manager, Digital Marketing Programs is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, Digital Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ##### Responsibilities
-- Administer the Digital Marketing Programs marketing budget and ensure marketing costs are tracked correctly.
+- Administer the Digital Marketing media budget and ensure marketing costs are tracked correctly.
 - Manage, build, and lead a strong team by coaching and developing existing members and closing talent gaps where needed through acquisition of new team members.
-- Build and implement Digital Marketing Programs strategy—understand key partnerships within organization to drive full funnel of customer acquisition, retention, and upsell.
+- Build and implement Digital Marketing strategy—understand key partnerships within organization to drive full-funnel customer acquisition, retention, and upsell.
 - Define, manage, and implement our overall digital strategy together with marketing team and digital marketing agency.
-- Create strategies for conversion rate optimization (CRO) projects.
-- Lead effort to create standardized marketing reporting and dashboards, presenting performance to the marketing department as well as stakeholders throughout the company.
-- Oversee our paid search, social, sponsorships, and account based advertising programs, maximizing for return on marketing spend.
+- Create strategies for conversion rate optimization (CRO) projects
+- Lead effort to create standardized marketing reporting and dashboards, presenting performance to the marketing department as well as stakeholders throughout the company
+- Oversee our paid search, paid social, programmatic display, and sponsored publisher programs, maximizing for return on marketing spend
 - [Leadership at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
 
 ##### Requirements
@@ -89,12 +101,6 @@ The Manager, Digital Marketing Programs is a [grade 8](/handbook/total-rewards/c
 - Experience managing a marketing team.
 - In-depth industry experience and knowledge in at least one digital marketing or marketing programs specialty.
 - Strong technical marketing and advanced digital analytics skills
-
-## Career Ladder
-
-The next step in the Digital Marketing Programs job family is not yet defined at GitLab. 
-
-## Performance Indicator
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
