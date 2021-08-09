@@ -65,7 +65,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 4. Prepend `[DEPRECATE]` to the beginning of the field name. If the field name cannot accommodate a field name that long copy and paste the original name into the description, trim unnecessary characters from the name and try again. For this reason `[DELEETE]` is also acceptable to prepend to the field name. 
 5. In Visual Studio Code, pull from master and perform a scan for each of the API names in the issue. If the field is used, investigate if the code can be updated as to not include this field. 
 6. If code is updated in the previous step prepare a merge request and relate it to the issue.
-7. If your sandbox is out of date, refresh it so that any recent edits are included in the next step.
+7. If your sandbox is out of date, [work with the Systems team to refresh it](/handbook/sales/field-operations/sales-systems/#sandbox-refreshes) so that any recent edits are included in the next step.
 8. Push any updated code to your sandbox (if applicable) and start a change set.
 9. For all fields that are still eligible to be deprecated log into your sandbox and attempt to delete them one by one. Record any connection between any fields and any field updates, workflow rules, validation rules etc. (Reports, Report Types etc can be ignored in this step)
 10. Investigate any connections found in the previous steps and if the field can still be deleted.
@@ -102,7 +102,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 3.  Your SFDC Dev Environment is correctly pointed at your SFDC Dev Sandbox
 4.  You have cloned our [Git repository](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src) into your local Sandbox working directory.
 5.  You are working from a GitLab issue with clear technical specifications that deliver on the agreed business requirements.
-6.  You have identified the priority of the request based on our [priority matrix](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
+6.  You have identified the priority of the request based on our [priority matrix](/handbook/sales/field-operations/sales-systems/#priority-matrix), and added the appropriate label: `Priority::Low`, `Priority::Medium`, `Priority::High`
 
 **Change Managment Steps:**
 1.  Make sure you start on branch master and `git pull`.
@@ -173,8 +173,6 @@ Combining the two axis above results in the below priority matrix.
 | **Medium**  | `Priority::High` | `Priority::Medium` | `Priority::Low` |
 | **Low** |  `Priority::Medium` | `Priority::Low` | `Priority::Low` |
 
-
-
 ## Approval Matrix
 
 |	**Approval Type**	|	**Description**	|	**Standard**	|	**Comprehensive**	|	**Emergency**
@@ -184,7 +182,10 @@ Combining the two axis above results in the below priority matrix.
 |	**Business Approval** (Typically BI and EA only)	|	Approval by Business Stakeholder that is responsible for the particular business tool or process which is impacted by the requested change.	|	Yes	|	Yes	|	Yes
 |	**Director of Sales Systems**	|	The Head of IT must approve all changes made during blackout periods	|	No	|	Yes	|	Yes |
 
-## Salesforce.com Installed Package Removal Process
+
+## Salesforce specific policies and actions
+
+### Installed Package Removal Process
 
 1. Identify the package and what reason(s) you may think it can be removed.
 2. Perform initial research on what the packages original intent may have been and identify who owns/owned the use of the functionality. 
@@ -196,11 +197,39 @@ Combining the two axis above results in the below priority matrix.
 6. Document any relevant information about the package. 
    * An example of this could be SFDC fields that are part of the package.
 7. Remove the package from production, update the issue and close out.
+ 
 
-## Salesforce Data, Data Uploads & Permissions
+### Sandbox refreshes
+
+#### How to request a sandbox refresh for a personal sandbox
+
+1. Create an issue for the Sales Systems team by following the instructions above.
+2. In the issue description, include the name of the sandbox and the names of any users who need to be granted access to the sandbox.
+3. Link the issue to any other issues which are blocked pending the refresh of this environment.
+
+#### Refresh process for sandboxes maintained as part of the SDLC process
+
+1. The Sales Systems team will have an issue tracked in each month for the refresh of each environment with a due date of the refresh date.
+2. On the date of the refresh, the assigned Sales Systems team member will kick off the refresh in production.  Note: A sandbox refresh can take up to 72 hours to complete.
+3. After the refresh completes, the Sales Systems team will complete the following steps to set the environment.
+
+|Refresh step|Owner|To be completed by|Environments|Action steps|
+|-----|-----|-----|-----|-----|
+|Reconnect RingLead user|@ksavage|@ksavage/@rrosu|STAGING|1. Login to RingLead.<br>2. Locate the SFDC connections page.<br>3. Authenticate with the RingLead Integration user using the user password for this account in the production org (stored in 1Password).|
+
+#####Refresh cadence
+
+Sandboxes which are managed as part of our team's SDLC process will follow a regular refresh schedule, as detailed below.
+
+|Sandbox name|Sandbox type|Used for|Refresh cadence|Last refresh date|Next refresh issue|
+|-----|-----|-----|-----|-----|-----|
+|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|Monthly, on the second Friday of the month| 3/11/2021 10:06 AM |To be provided|
+|[SANDBOX](https://gitlab--staging.my.salesforce.com)|Partial|Developer integration and testing org. |Monthly, on the third Friday of the month|6/18/2021 3:14 PM|To be provided|
+
+### Data, Data Uploads & Permissions
 - Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
 
-### Data Upload Permissions 
+#### Data Upload Permissions 
 - It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restrictions` table below. Please consult both while completing any data uploads. 
 - Any data uploads that impact more then one organization unit, can only be completed after the notice and approval by all impacted teams. When there is any doubt if a data upload will impact multiple teams a System Administrator should be consulted before completing the data upload. 
 - All users who wish to upload data using the DataLoader must first complete the requierments in the `Data Upload Training & Setup` section before being permitted to upload data.
@@ -214,7 +243,7 @@ Combining the two axis above results in the below priority matrix.
 | Channel Operations |  Members of the Channel Operations Team may complete any data uploads to fields that solely impact the Channel and their wholly owned processes |
 | Marekting Operations | Members of the Marketing Operations Team may complete any data uploads to fields that solely impact the Marketing Team and their wholly owned processes. Prior to completing the uploads though they must inform a member of the Sales Systems team to ensure the fields that they are updating do not cause any cascading updates in Salesforce. Additionally since Marketo and Salesforce are tighly integrated it is encouraged that Marketing Ops also coordinates with the Marketo System Owner to help limit any issues with the integration, API usage etc.  |
 
-### Data Uplod Restrictions
+#### Data Uplod Restrictions
 - When in doubt if you have permission to update fields in Salesforce using the data upload process reach out to a System Administrator to clarify if your uploads are permitted and have any unintentional impacts. 
 
 | Data | Data Restrictions | 
@@ -224,7 +253,7 @@ Combining the two axis above results in the below priority matrix.
 | Closed Opportunity Fields | No updates to Opportunity Fields on any Closed Oportunities can be completed without consulting the leadership of the Sales Systems Teams or the Sales Operations Teams |
 | Any Deletions | No mass data deletions may be completed without first consulting the leadership of the Sales Systems Teams or the Sales Operations Teams |
 
-### Data Upload Training & Setup 
+#### Data Upload Training & Setup 
 - Prior to being permitted to utilize the Data Loader all users must review the [Data Loader Documentation provided by Salesforce](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm)
    - Key Highlights: 
       - [Data Loader Configuration](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/configuring_the_data_loader.htm) especially as it pertains to batch size and to working with Null values. This should be reviewed and confirmed prioir to every Data Upload 
