@@ -13,6 +13,7 @@ description: "Support Engineering workflows for account deletion and data access
 {:toc .hidden-md .hidden-lg}
 
 ## Purpose/Overview
+
 Use the appropriate workflow on this page when a user requests one of the following (under [GDPR Article 15](https://gdpr-text.com/read/article-15/), [CCPA](https://oag.ca.gov/privacy/ccpa)) through a Zendesk ticket or via form submission to our [Account Deletion and Other Requests](https://gitlab.com/gitlab-com/gdpr-request/issues/service_desk) project. **These requests must be filled within 30 days.**
 
 - deletion of everything (GitLab.com and all other data associated with their account)
@@ -53,8 +54,8 @@ Examples of personal requests that you may receive (based on the request type) a
 ### Examples of **data access requests**:
 
 - Please confirm whether or not my personal data is being processed. If it is, please provide me with the categories of personal data you have about me in your files and databases.
-     - In particular, please tell me what you know about me in your information systems, whether or not contained in databases, and including e-mail, documents on your networks, or voice or other media that you may store.
-     - Additionally, please advise me in which countries my personal data is stored, or accessible from. In case you make use of cloud services to store or process my data, please include the countries in which the servers are located where my data are or were stored.
+  - In particular, please tell me what you know about me in your information systems, whether or not contained in databases, and including e-mail, documents on your networks, or voice or other media that you may store.
+  - Additionally, please advise me in which countries my personal data is stored, or accessible from. In case you make use of cloud services to store or process my data, please include the countries in which the servers are located where my data are or were stored.
 - Please provide me with a copy of, or access to, my personal data that you have or are processing.
 - Please provide me with a detailed accounting of the specific uses that you have made, are making, or will be making of my personal data.
 - Please provide a list of all third parties with whom you have (or may have) shared my personal data.
@@ -92,7 +93,7 @@ Upon submission, the submitter will receive an autoresponder depending on the re
 
 >**NOTE:** Users have a total of 14 days to respond to the challenge questions. In order to keep track of the requests that are pending a response to the challenge questions, you can apply the `Awaiting::Challenge Answers` label, if it does not already exist.
 
-##### **Verifying Ownership**
+##### Verifying Ownership
 
 The user will automatically receive a set of [Verification Challenges](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Account-Verification-Challenges) after form submission, as long as the following form entries have been validated:
 
@@ -102,9 +103,17 @@ The user will automatically receive a set of [Verification Challenges](https://g
 - account is not part of a paid namespace
 - the user checked the box confirming their intent to delete their account (required field)
 
-Once the user replies back with their answers to the challenges, follow the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#if-the-user-responds-with-the-need-for-further-verification-by-answering-the-challenges) workflow using a data classification of `RED` as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036).
+If the user replies back with their answers to the challenges, perform the following steps:
 
-##### **Verification Failure**
+1. Evaluate the users answers to the challenge questions using the [Account Verification](https://about.gitlab.com/handbook/support/workflows/account_verification.html#evaluating-challenge-answers) workflow with a data classification of `RED`, as all user data is [classified as red](https://docs.google.com/spreadsheets/d/1eNuSLuBcZWQe13SV1TfEjtNdCOZw7G7ofY9A42Y0sPA/edit#gid=797822036).
+1. Proceed to [Stage 2](#stage-2-processing-the-request) if ownership verification was successful.
+1. Proceed to [Verification Failure](#verification-failure) if ownership verification was unsuccessful.
+
+If the user does not reply back with their answers to the challenges, do the following:
+
+1. Proceed to [No Response](#no-response).
+
+##### Verification Failure
 
 If verification fails or is otherwise not possible, apply the `Account Verification Failed` label and respond with the following:
 
@@ -118,7 +127,11 @@ If verification fails or is otherwise not possible, apply the `Account Verificat
   <p>Regards,</p>
 </details>
 
-##### **Request Submitted Directly**
+##### **Closure Reasons**
+
+In certain circumstances we will need to close a users request without processing it. Outside of ownership verification failure this should only be done in the following scenarios.
+
+###### Request Submitted Directly
 
 If a request is received because the requestor submitted it directly to the Personal Account Requests Service Desk email address rather than using [the form](https://support.gitlab.io/account-deletion/), close the issue and inform the requestor with the following snippet to open a new request through the form so that we can assist them.
 
@@ -128,6 +141,20 @@ If a request is received because the requestor submitted it directly to the Pers
   <p>Greetings,</p>
 
   <p>It looks like you've emailed this request in to us directly. In order for us to best assist you please re-submit this request via our [Personal Data Request Form](https://support.gitlab.io/account-deletion/). Doing so will allow us to process your request more quickly and efficiently. This request will now be closed, and we're eagerly awaiting your resubmission. Thank you!</p>
+
+  <p>Regards,</p>
+</details>
+
+###### No Response
+
+If a user fails to respond to our verification challenge questions after 14 days, apply the `Account Verification Failed` to the issue and close it with the following snippet:
+
+<details>
+  <summary markdown="span">Request Closed - No Response</summary>
+
+  <p>Greetings,</p>
+
+  <p>We have not heard back from you with responses to our verification challenge questions, which are required in order to verify your identity before we process your request. We will now close this request. If you still wish to proceed please feel free to submit a new request via our [Personal Data Request Form](https://support.gitlab.io/account-deletion/).</p>
 
   <p>Regards,</p>
 </details>
@@ -157,7 +184,7 @@ I(Create Delete or Data Access Request Meta Issue)
 
 ## Group Managed Accounts
 
-If a group is using [group managed accounts](https://docs.gitlab.com/ee/user/group/saml_sso/group_managed_accounts.html), user accounts may be orphaned until [gitlab#209081](https://gitlab.com/gitlab-org/gitlab/-/issues/209081) is fixed. You can use chatops to check whether a group has the relevant feature flags enabled.
+If a group is using [group managed accounts](https://docs.gitlab.com/ee/user/group/saml_sso/group_managed_accounts.html), user accounts may be orphaned until [gitlab#209081](https://gitlab.com/gitlab-org/gitlab/-/issues/209081) is fixed. You can use ChatOps to check whether a group has the relevant feature flags enabled.
 
 When checking the user account in admin, the user will be badged as a "Group Managed Account". Double check that the user is no longer a member of any group.
 
@@ -165,10 +192,9 @@ In these cases, we can delete the account so that a new user account can be crea
 
 1. Use the [`Support::SaaS::Group Managed Account Deletion` macro](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360073474899), which outlines the criteria and deletion.
 
-
 1. Once Support receives permission from *both* the account holder and a group owner:
 1. Create an [internal request issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new) titled "Account Deletion" with the username, email, ticket number, and the reason in brief in the description.
-1. Email both the accound holder and group owner infoming that you are going to delete the account asking them to confirm for a final time.
+1. Email both the account holder and group owner informing them that you are going to delete the account asking them to confirm for a final time.
 1. Once confirmation has been received go to the user's admin page and click on "Delete user and all contributions".
 1. Close the internal issue, and respond to the customer that the account has been deleted.
 
