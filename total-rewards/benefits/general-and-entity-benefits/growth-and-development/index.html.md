@@ -50,16 +50,16 @@ If the cost is $1,000 USD or less, please fill out the [Growth & Development Ben
 If the cost is greater than $1,000 USD, please fill out the [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) at least 30 days before the commencement date. Total Rewards or Learning & Development will stage a Growth & Development Agreement for you and obtain signatures from the approvers per the table below. If the education provider does not allow for tuition/payment deferment and this would cause financial strain, you can request to receive 50% of the reimbursement up front and the other 50% upon successful completion of the course/program (this option is available for reimbursements above $1,000 USD only as it is processed via payroll).
 
 #### Reimbursement 
-Reimbursements above $1,000 USD will be paid via payroll in the following pay cycle after you have completed the program and meet any extra eligibility requirements stated in the table below. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
-
 Reimbursements for over $1,000 USD will be processed by the following: 
 1. Team member fills out Growth & Development Benefit Form for over $1,000 USD
+1. Total Rewards will stage an Agreement form
 1. All parties will sign the document following the [approval flow below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#approval-flow-for-benefits-over-1000)
-1. L&D or Total Rewards will notify the team member that all parties have signed the document and the file will be uploaded into their BambooHR folder
-1. Once the team member completes the program, please send proof of completion to `total-rewards@gitlab.com` and `learning@gitlab.com`
-1. For reimbursements for conferences, workshops, professional membership, please also send the invoice to `total-rewards@gitlab.com` and `learning@gitlab.com` once you have signed up
-1. Once proof of completion and/or invoices are received, L&D or Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
+1. Total Rewards will upload the signed document into the team member's BambooHR folder
+1. Once the team member completes the program, please send proof of completion to `total-rewards@gitlab.com`
+1. For reimbursements for conferences, workshops, professional membership, please also send the invoice to `total-rewards@gitlab.com` once you have signed up
+1. Once proof of completion and/or invoices are received, Total Rewards will notify payroll to begin the reimbursement process. Please see the below [table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 1. **At this time team members will not submit expenses through Expensify for Growth & Development funds over $1000 USD**
+1. For Your 4th Trimester Coaching, GitLab will pay the provider directly.
 1. Once payroll is notified, reimbursement will occur in the following pay cycle for the team member
 
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab. If you opted to receive 50% of the reimbursement up front but the total amount on your form is at least $1,000 USD, the amount will still need to be refunded back to GitLab.
@@ -71,7 +71,7 @@ If requesting over $1,000 for the Growth & Development benefit, the approval flo
 2. Team Member signature
 3. Direct Manager signature
 4. Executive Signature: E-Group or C-Suite Member 
-5. Once all signatures have been signed, the form will be saved in the team member's Bamboo HR file under the Documents tab, Growth & Development folder
+5. Once all signatures have been signed, Total Rewards will save the form in the team member's BambooHR file under the Documents tab, Growth & Development folder
 
 If approvals are taking longer than expected, the team member should send a message to all signatures to ask them to sign. 
 
@@ -161,20 +161,6 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 1. You must complete the Crucial Conversations self-paced training and attend **at least** 4 live training sessions **within 3 months of starting the training**. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license. 
 
 **An important note:** As you are planning your professional development for the calendar year, please keep in mind the cost of this training program ($295 per license). If you have already exceeded your G&D budget or plan to later in the year, you could elect to pay for this license out of pocket, or plan to take the training next year.
-
-
-### Administration of Growth and Development Reimbursements (Over $1,000)
-
-1. A new form submission will notify the team that a new entry has been submitted and autofill a Growth and Development Benefit Agreement.
-1. Check the team member's eligibility and check that the team member's year-to-date spend is within the $10,000 USD limit (check the `Tally` tab on the log). Some team members may have granted an exception to spend up to $20,000 USD for academic study. Any exceptions will be marked `Yes` on the `Limit Exception` column.
-1. Download the team member's Growth and Development Benefit Agreement from the "Populated Agreements" folder and stage the document in DocuSign.
-1. Fill out the Status columns (in blue) on the Growth and Development Benefit Log sheet.
-   * For 4th Trimester expenses, tag Total Rewards on the sheet. 
-1. Once all parties have signed the agreement, send an e-mail to the team member to notify them that the agreement has been signed and to send their transcript, certificate of completion or invoice (refer to the [reimbursement category table](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements)) once they are ready to receive the reimbursement.
-1. Save the signed agreement in the team member's BambooHR "Benefits and ISO" folder.
-1. Upon completion, update columns L-R on the sheet. Tag Total Rewards on the sheet to notify Payroll via the appropriate Payroll Changes files. 
-
-
 ### Administration of Academic Study Exceptions
 
 1. Forward the team member's e-mail to the Compensation Group.
@@ -209,7 +195,7 @@ Process for Total Rewards Analysts for recouping Growth & Development reimbursem
 
 ### Processing Steps for G&D Benefit
 
-The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. Please note that the following steps are performed by the L&D team every Tuesday and Friday. The L&D team can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
+The following steps are to be completed by the GitLab team who processes and approves G&D benefit applications for team members. GitLab team members can access [this training in Google Drive](https://drive.google.com/file/d/14g3CoWWdaf9TZ3YAk1d06wH0OJRuZii2/view?usp=sharing) that goes over the details of this process.
 
 Team members will need access to the following resources to complete this process and should submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) if they do not yet have access:
 
@@ -224,6 +210,8 @@ This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c92235
 
 1. An email is triggered for each application submission for both the under and over $1,000 USD applications
 1. When you are added to the application spreadsheet, you will receive and email for each new application. Click in the email spreadsheet attached to each email to see the list of submitted applications
+1. Check the team member's eligibility and check that the team member's year-to-date spend is within the $10,000 USD limit (check the `Tally` tab on the log). Some team members may have granted an exception to spend up to $20,000 USD for academic study. Any exceptions will be marked `Yes` on the `Limit Exception` column.
+
 1. In the form, there are two tabs - for over and under $1,000USD applications. Follow the steps below for each application type:
 
 ##### Applications for expenses under $1,00 USD
@@ -252,40 +240,8 @@ This [loom recording](https://www.loom.com/share/13431873d3ad42a9b292428c8c92235
 1. Drag and drop signature, name, and date boxes for the `manager`. Add manager initials to the text box for management check points to ensure that the applicant is in good standing with GitLab. Add a text box for manager business rationale for manager to fill in. Add initial for c-suite team member to initial the business rationale.
 1. Drag and drop signature, name, and date boxes for the `e-group`. Add initials of e-group to business rational/development objective at the top of the form. 
 1. Send for signature
-1. Return to the application spreadsheet and update the status to `Agreement Staged`
-1. Send the **notification email** below to the team member. Some forms can be hung up during the approval flow, you include in the CC line the other signatures required. 
+1. Return to the application spreadsheet and update the status to `Agreement Staged` 
 1. You will recieve updates via email when documents are signed. When all 4 signatures are complete, you will get a PDF in your email.
-1. When you get the PDF, send the **signatures complete** email below to the applicant.
 1. Upload a copy of the signed agreement to the applicant's BambooHR folder.
 1. For conferences and workshops, team members often request to be [reimbursed in advance](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursement). Go to the next step to kick-off the reimbursement process. Ensure that receipts/proof of registration are added to applicants BambooHR G&D folder. 
-1. When the transcript is sent, update the status to `Payroll Notified` in the application spreadsheet which will notify Payroll to start the reibursement process. It might be helpful to check in with total rewards to make sure that Payroll has been notified but tagging them directly in the document. 
-
-###### Email Templates
-
-**Notification Email**
-
-CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Emails`
-
-Subject: `Growth and Development Benefit Form`
-
-Text: 
-
-`Hi [Application Name], Thanks for filling out the Growth & Development form. Just letting you know your agreement has now been staged for signatures. I'll let you know once it's been signed by all parties. If you have any questions, please let us know. Kind regards,`
-
-**Signatures Complete Email**
-
-CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
-
-Subject: `Growth and Development Benefit Form`
-
-`Hi [Application Name] Your tuition reimbursement form has been signed by all parties. Once you receive your transcript, please forward that to us to initiate the reimbursement process.  If you have any questions, please let us know. Kind regards,`
-
-
-**Workshops and Conferences Signatures Complete Email** 
-
-CC: `totalrewards@gitlab.com`  and `Learning@gitlab.com` and `Approval Chain Emails`
-
-Subject: `Growth and Development Benefit Form`
-
-`Hi [Application Name], Your tuition reimbursement form has been signed by all parties. Once you have registered for the conference or coaching sessions, please forward proof of attendence/reciept to us to initiate the reimbursement process.  If you have any questions, please let us know. Kind regards,`
-
+1. When the transcript is sent, update the status to `Payroll Notified` in the application spreadsheet which will notify Payroll to start the reibursement process. It might be helpful to check in with total rewards to make sure that Payroll has been notified but tagging them directly in the document.
