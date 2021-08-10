@@ -201,7 +201,7 @@ Combining the two axis above results in the below priority matrix.
 - Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
 
 ### Data Upload Permissions 
-- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restrictions` table below. Please consult both while completing any data uploads. 
+- It is important to highlight that the below permission all follow the restrictions as laid out in the `Data Upload Restructions` table below. Please consult both while completing any data uploads. 
 - Any data uploads that impact more then one organization unit, can only be completed after the notice and approval by all impacted teams. When there is any doubt if a data upload will impact multiple teams a System Administrator should be consulted before completing the data upload. 
 - All users who wish to upload data using the DataLoader must first complete the requierments in the `Data Upload Training & Setup` section before being permitted to upload data.
 - When informing leadership or other teams of your data load be sure to summarize the fields that are being updated using the field name and API name of the field in order to strive for more efficient communication on the data load process. 
@@ -214,7 +214,7 @@ Combining the two axis above results in the below priority matrix.
 | Channel Operations |  Members of the Channel Operations Team may complete any data uploads to fields that solely impact the Channel and their wholly owned processes |
 | Marekting Operations | Members of the Marketing Operations Team may complete any data uploads to fields that solely impact the Marketing Team and their wholly owned processes. Prior to completing the uploads though they must inform a member of the Sales Systems team to ensure the fields that they are updating do not cause any cascading updates in Salesforce. Additionally since Marketo and Salesforce are tighly integrated it is encouraged that Marketing Ops also coordinates with the Marketo System Owner to help limit any issues with the integration, API usage etc.  |
 
-### Data Uplod Restrictions
+### Data Upload Restrictions
 - When in doubt if you have permission to update fields in Salesforce using the data upload process reach out to a System Administrator to clarify if your uploads are permitted and have any unintentional impacts. 
 
 | Data | Data Restrictions | 
