@@ -67,17 +67,41 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #nurture-programs .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Intelligent Email Nurture
+{: #intelligent-email-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Quick Links
+{: #intellient-email-nurture-quick-links}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [WIP Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+* [MURAL (WIP) of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
+* [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
+* [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
+
+#### Documentation of Past Nurture Setup
+{: #documentation-past}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
+* [CTA & UTM documentation experienece prior to intelligent nurturee](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+
+#### Reading for those unfamiliar with Marketo
+{: #marketo-nurutre-reading}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Adding a Program to an Engagement Program Stream](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.html?lang=en) - we will be employing this advanced setup
+* [Add People to an Engagement Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html?lang=en) - Amy will be managing this in a single automation engine ("air traffic control") to ensure no mailable lead is left behind.
+* [Understanding Engagement Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+
+<!--
 ### Visualization of active nurture streams
 {: #active-nurtures-visualization}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be updated and documented upon revamp of nurture engine and database nurutring FY22 Q2.
 - [Epic for Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
 - [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+--->
 
-### Active Nurture Programs
-{: #active-nurture-programs}
-<!-- DO NOT CHANGE THIS ANCHOR -->
+
 
 #### Trial nurture
 {: #nurture-trial}
@@ -97,7 +121,13 @@ To be updated and documented upon revamp of nurture engine and database nurutrin
 ##### Setup for Trial Nurture
 [Marketo Program]()
 
-UTMs 
+UTMs
+
+###
+
+### Active Nurture Programs (Prior to Intelligent Nurture)
+{: #active-nurture-programs}
+<!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### GTM motion nurtures
 {: #gtm-motion-nurtures}
