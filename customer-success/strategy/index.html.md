@@ -15,7 +15,7 @@ description: "Create a company-wide customer success approach, providing an enga
 
 ### FY22 Strategy and Priorities
 
-**Orchestrate achievement of customer outcomes with appropriate experience driving growth for GitLab**
+#### *Orchestrate achievement of customer outcomes with appropriate experience driving growth for GitLab*
 
 1. Support delivery to our net ARR goals (new and growth)
 2. Develop customer journey-based selling and adoption 
@@ -32,13 +32,13 @@ description: "Create a company-wide customer success approach, providing an enga
 
 ### Q3 and Q4 FY22
 
-#### **CS Team Goals** 
+#### CS Team Goals 
 
 1. Maintain pace of high quality team member candidates with zero candidates “reducing 3. “Behind Plan 30+” to zero by the end of the quarter
 2. Quarterly enablement or event that is centered on Diversity and Inclusion
 3. Deliver to initiatives created based on team feedback from “Team Engagement Survey” and communicate updates quarterly (at minimum)
 
-#### **Professional Services**
+#### Professional Services
 
 1. Drive booking growth by improving predictability and linearity while increasing ARR attach rate by 6% in Large AMER, PUBSEC and EMEA and transaction attach rate by 4% and rep coverage measurement on who sold services
    - Measured by forecast accuracy at the beginning of quarter
@@ -52,7 +52,7 @@ description: "Create a company-wide customer success approach, providing an enga
 4. Increase the number of customers with training certifications and/or trained users by 25% by end of year
    - Adoption of eLearning in self-paced 
 
-#### **Solution Architects**
+#### Solution Architects
 
 1. Building a high performance culture (up-leveling the team)
    - Demo2Win Sustainability through 100% team participation and deliberate practice.
@@ -99,7 +99,7 @@ description: "Create a company-wide customer success approach, providing an enga
    - Surveys: Expand Onboarding, NPS, Professional Services, and other surveys with actionable feedback loops
    - Digital Orchestration: Collaborate cross-functionally to align customer journey with team handoffs and feedback loops for a unified experience
 
-#### **Customer Success Operations**
+#### Customer Success Operations
 
 1. Improve visibility across CS team so each team (TAM, SA, PS) has visibility into YTD and QTD performance
 2. Collaborate with Product to instrument new product usage metrics to enhance visibility into customers achieving their desired outcomes and improved time to value metrics - epic
@@ -108,7 +108,7 @@ description: "Create a company-wide customer success approach, providing an enga
    - Increase renewal visibility and predictability
    - Deploy efficient customer engagement strategies
 
-#### **Public Sector**
+#### Public Sector
 
 1. Guide our customers through Cybersecurity Executive Order (EO) conformance
    - Develop and maintain strategic, documented customer guidance in response to published guidelines related to the Executive Order
@@ -122,4 +122,4 @@ description: "Create a company-wide customer success approach, providing an enga
 
 #### FY22 OKRs
 
-- [Q3FY22 Customer Success Leadership OKRs tracking](https://docs.google.com/spreadsheets/d/1QQ_5vbSgQu1a4hq3de6FlwqcuG-BhhFuua8O-iEUdv0/edit#gid=0) *(internal GitLab only)
+-  *(internal GitLab only)*[Q3FY22 Customer Success Leadership OKRs tracking](https://docs.google.com/spreadsheets/d/1QQ_5vbSgQu1a4hq3de6FlwqcuG-BhhFuua8O-iEUdv0/edit#gid=0) 
