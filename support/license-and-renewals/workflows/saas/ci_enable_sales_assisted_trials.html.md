@@ -12,7 +12,7 @@ category: GitLab.com subscriptions & purchases
 
 ## Summary
 
-The following process will remove the resitrictions for using CI minutes for groups with one of the folowing characteristics:
+The following process will remove the restrictions for using CI minutes for groups that meet one of the following criteria:
 
 1. Groups on a **free** plan who have purchased CI minutes
 1. Groups who are part of a sales assisted trial
