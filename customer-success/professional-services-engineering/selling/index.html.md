@@ -82,7 +82,7 @@ Remember to update the SFDC Professional Services Opportunity to **"closed lost"
 1. SA: Create baseline SoW from Services Calculator
 1. SA: Add details to issue around customer requirements
 1. SA & Sr. PS Engagement Manager: Conduct detailed scoping call with the customer
-1. PSE: Develop Custom SoW and pricing for customer
+1. PSEM: Develop Custom SoW and pricing for customer
 1. Account team: Deliver SoW to the customer, add to the Salesforce (SFDC) opportunity
 1. Send for signature (just like software terms)
 1. When Closed Won PS team will assign engineer and service delivery will start typically with 4 weeks lead time
