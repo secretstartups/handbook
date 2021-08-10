@@ -1487,16 +1487,16 @@ If both are present, the video will override the image (it won't display the ima
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, provident.
 ```
 
-Make sure to add the `/embed/` video URL from YouTube. Follow the steps
+- Make sure to add the `/embed/` video URL from YouTube. Follow the steps
 described on the [Markdown guide](/handbook/markdown-guide/#display-videos-from-youtube) to find the correct path.
+- The domain `https://www.youtube-nocookie.com/` will allow YouTube videos to display in the review app correctly.
+- Loading HTML videos from the source also work with no further adjustments. For example:
 
-Also note that the domain `https://www.youtube-nocookie.com/` will allow YouTube videos to display in the review app correctly.
+   ```yaml
+   video: '/images/13_8/create_code_review-click-drag-multi-line-comments.mp4'
+   ```
 
-Loading HTML videos from the source also work with no further adjustments. For example:
-
-```yaml
-video: '/images/13_8/create_code_review-click-drag-multi-line-comments.mp4'
-```
+- Review the auto-generated captions for your video, and [clean them up for accuracy](https://www.youtube.com/watch?v=uJnhnA1fELY). Machine-generated captions often mangle technical terms.
 
 ##### Videos added to the description
 
