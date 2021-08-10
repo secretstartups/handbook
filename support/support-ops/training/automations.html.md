@@ -58,7 +58,7 @@ From here, you will:
    conjunction with the **all** conditions).
 1. enter the actions for the automation to perform
 
-After doing this, you will then click the black `Create automation` button.
+After doing this, you will then click the blue `Create automation` button.
 
 **Note**: By default, the automation's position will be set to the bottom of all
 automations. To adjust this, see [Positioning](#positioning).
@@ -78,7 +78,7 @@ the title (if your automation is currently inactive, you will need to click the
 
 Doing so will bring up the automation editor page. From here, you can tweak the
 various aspects of the automation. Once you have the edits in place, ensure the
-dropdown at the bottom right says `Update` and click the black `Submit` button.
+dropdown at the bottom right says `Update` and click the blue `Submit` button.
 
 ## Deactivating an automation via Zendesk
 
@@ -94,7 +94,7 @@ option and the automation will be deactivated.
 
 The alternative way to deactivate an automation in the Zendesk UI is from within
 the automation editor page. At the bottom right, ensure the dropdown says
-`Deactivate` and then click the black `Submit` button.
+`Deactivate` and then click the blue `Submit` button.
 
 **Note**: Deactivating an automation does not change its position. This value is
 retained in the backend. Re-enabling the automation will have it take the same
