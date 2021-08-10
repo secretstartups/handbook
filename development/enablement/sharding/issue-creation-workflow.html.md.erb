@@ -26,10 +26,11 @@ graph TD
     active --> milestone
     other_group --> sharding_blocker[label sharding-blocker]
  sharding_blocker --> milestone[add appropriate milestone]
-    milestone --> priority[add priority label]
+    milestone --> priority[add priority/severity labels]
     priority --> epic[add to appropriate epic]
 
 ```
 Notes
+- Assign Priority/Severity based on the desired [Time To Resolve SLO](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#availability) 
 - Adding `sharding::active` will make the issue visible on the [Sharding build board](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding&label_name[]=sharding%3A%3Aactive)
 - The `sharding-blocker` label is typically only used for groups other than `group::sharding`
