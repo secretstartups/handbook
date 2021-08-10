@@ -353,7 +353,7 @@ All payroll changes (demographic information, job, bonus/commission payout reque
 - GitLab PTY LTD New Zealand [Payroll Calendar](https://docs.google.com/spreadsheets/d/19S-PMIDLCCn0goo407lXKutbuMlFynoO63BBu8V5hO0/edit#gid=0)
 - GitLab France S.A.S. [Payroll Calendar](https://docs.google.com/d/12Uod9dg2sqBt9Zi8DxPyQKCN8jG5PXfTp2oJ3No-EBc/edit#gid=0)
 - GitLab Korea Limited [Payroll Calendar](https://docs.google.com/spreadsheets/d/1aa_WLBdDoPyBO9aaFmpAdymHjhULQgGJH0UiiLB6TnE/edit#gid=0)
-- GitLab Singapore PTE. LTD. [Payroll Calendar] (https://docs.google.com/spreadsheets/d/1ehVE2FbztGNWz1zN8vSUb0d4o6VKXW8zbMP-_0eIXDI/edit#gid=0)
+- GitLab Singapore PTE. LTD. [Payroll Calendar](https://docs.google.com/spreadsheets/d/1ehVE2FbztGNWz1zN8vSUb0d4o6VKXW8zbMP-_0eIXDI/edit#gid=0)
 - For all PEOs and iiPay Contractors, the payroll cut off date is 8th of each month.
     - CXC (Poland, Turkey, Israel, Ukraine, Russia, Romania, Portugal, Greece, Czech Republic, Slovenia, Serbia) [Payroll Calendar](https://docs.google.com/spreadsheets/d/18cPImcwNM4muYxJj-NHQ6YwPrxG45AmDn7GZ1t-N1rI/edit#gid=268925776)
     -  SafeGuard ([Italy](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2113229619), [Spain](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=2086701953), [Switzerland](https://docs.google.com/spreadsheets/d/1-Kj8RqhrRbbYK00DbWLkZh42wxXpoqqDLZWjFHi-erY/edit#gid=1979351390)) Payroll Calendar
