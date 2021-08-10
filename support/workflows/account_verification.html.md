@@ -268,3 +268,5 @@ In a paid namespace: If the user elects to have an Owner vouch for their request
    - Verify that the author of the Snippet is an Owner in the paid namespace
 1. If the Owner passes, you may count this towards the account verification challenges.
 
+Please note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case please verify the owner vouch and proceed with the request.
+
