@@ -469,6 +469,31 @@ irb(main):180:0> order = Order.find 0000
 irb(main):021:0> associate_full_user_count_with_group(order)
 => {:success=>true}
 ```
+### Remove CC validation from sales supported trials and consumption users
+
+> *Note*: consumption users are user who bought minutes for CI/CD but are not enrolled in a payed subscription.
+
+This function allows removal of the CC validation **only for sale supported trials and consumption users** to prevent having to enroll these users credit cards to use CI/CD.
+
+**Warning**: Make sure you use this function *only* for the intended target. Otherwise you will lift of the restrictions to a wrong user.
+
+#### Parameters
+
+This function requires an order object
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | Namespace to update |
+
+#### Sample
+
+```ruby
+irb(main):003:0> enable_ci_minutes("mmoraphotocr")
+
+
+=> "{\"status\":\"success\",\"message\":\"mmoraphotocr members are now enabled to run CI minutes\"}"
+irb(main):004:0>
+```
 
 ## GitLab.com Group methods
 
