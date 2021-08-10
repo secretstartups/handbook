@@ -70,6 +70,15 @@ _Sign up for your default Zoom Pro account in Okta. All team members should have
 Before using Zoom for the first time, it is recommended to [test your audio]( https://support.zoom.us/hc/en-us/articles/201362283-Testing-Computer-or-Device-Audio) as well as [test your video](https://support.zoom.us/hc/en-us/articles/201362313-How-Do-I-Test-My-Video-).
 Zoom even has its own [test](https://zoom.us/test) that you can utilize to ensure everything is set up correctly.
 
+#### Enable captions and live transcription
+
+If you are the meeting host, consider enabling live transcriptions for accessibility. Live transcription is not enabled by default, and must be enabled manually for each meeting:
+
+1. In the Zoom toolbar, select **CC** (for closed captioning).
+1. Select **Enable live transcription**.
+
+If the host is not present, no one can enable live transcription. If you've created a meeting but won't be attending, consider assigning alternative host permissions to someone who will be present, so they can enable live transcription.
+
 ### Making a customized Personal link
 
 Please make sure that you customize your Personal link under **Profile > Personal Link**.
@@ -339,7 +348,7 @@ If you would like to practice presenting, you can do so using your own private Z
 
 Sharing a document is not recommended in Zoom.  Instead, participants can follow along in the document themselves.  The link to the document should be included in the meeting invite.
 
-If you share your screen (for a document despite above recommendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted. 
+If you share your screen (for a document despite above recommendation, for a web based application demo, for an ssh session, etc.) it is recommended that you increase the font size so that the text can easily be read by those who are farsighted.
 
 If you share your screen in zoom, please wait until after introductions have been completed to allow participants to see each other clearly during introductions. This is especially important during external calls when participants are meeting each other for the first time.
 
@@ -470,7 +479,7 @@ Note that you must start the `ZoomLauncher` binary and not the shell script wrap
 
 ### Virtual background
 
-With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call. 
+With or without a physical [green screen](https://www.amazon.com/dp/B00JSAOGWG/ref=psdc_3443951_t1_B0053EBFRU), you can utilize [virtual backgrounds](https://support.zoom.us/hc/en-us/articles/210707503-Virtual-Background) so that you don't have to worry about what's behind you while on a video call.
 
 Consider using a [custom GitLab Background](https://drive.google.com/drive/u/1/folders/1Fv6_e_1dgSDE5N_KuMvtDM6gdNIUgRcT) (*Google Drive access available to GitLab team members who are logged in*).
 
