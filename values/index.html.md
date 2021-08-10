@@ -877,9 +877,9 @@ This doesn't mean we don't recognize our successes; for example, see our [Say Th
 
 We are positive about the future of the company. We are **S**hort **Te**rm **C**ritical **A**nd **L**ong **T**erm **O**ptimistic (`STeCALTO`, for short).
 
-##### Do things that don't scale
+##### Be deliberate about scale
 {:.no_toc}
-First, optimize for speed and results; when it is a success, figure out how to scale it. Great examples are in [this article by Paul Graham](http://paulgraham.com/ds.html).
+First, optimize for speed and results (and be deliberate about how your change affects other processes/functionality); when it is a success, figure out how to scale it. Great examples are in [this article by Paul Graham](http://paulgraham.com/ds.html).
 
 ##### Make two-way door decisions
 {:.no_toc}
