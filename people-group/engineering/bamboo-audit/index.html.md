@@ -24,3 +24,9 @@ spreadsheet we will list all the team members that we audited and mark the colum
 Every first of the month at 10AM UTC, we run the audit on all the active team members at GitLab. A spreadsheet is created 
 in a Google Drive folder that is shared with Total Rewards and the VP People Operations, Technology & Analytics. In the spreadsheet
 we will list all the team members that we audited _and_ that had something marked as _needs to be checked_.
+
+## GitLab usernames
+
+Often times, team members won't follow the procedure outlined on the [tools and tips page](/handbook/tools-and-tips/#change-your-username-at-gitlabcom) to change their GitLab username. This leads to inaccurate or outdated data in BambooHR.
+
+To remedy this situation, every Wednesday, we audit all GitLab usernames stored on BambooHR (`customGitLabUsername` field) and verify that those usernames are members of the [gitlab-com group](https://gitlab.com/groups/gitlab-com/-/group_members). When a BambooHR `customGitLabUsername` is not in the group, a message is automatically sent in `#peopleops-alerts` on Slack.
