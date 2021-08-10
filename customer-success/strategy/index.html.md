@@ -32,11 +32,11 @@ description: "Create a company-wide customer success approach, providing an enga
 
 ### Q3 and Q4 FY22
 
-#### **CS Team** 
+#### **CS Team Goals** 
 
 1. Maintain pace of high quality team member candidates with zero candidates “reducing 3. “Behind Plan 30+” to zero by the end of the quarter
 2. Quarterly enablement or event that is centered on Diversity and Inclusion
-3. Track and communicate programs related to “Team Engagement Survey”
+3. Deliver to initiatives created based on team feedback from “Team Engagement Survey” and communicate updates quarterly (at minimum)
 
 #### **Professional Services**
 
