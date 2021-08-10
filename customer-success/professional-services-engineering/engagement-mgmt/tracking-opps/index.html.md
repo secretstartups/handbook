@@ -26,8 +26,8 @@ To help this visibilty, the Engagement Managers maintain a subset of fields agai
 - `EM Confidence`, this can be set as:
     - **Grey** (Default), meaning the EM does not have visibility or awareness of the opportunity
     - **Red**, meaning in the opinion of the EM, this will not close won within the timeframe stated
-    - **Amber**, meaning the EM is confident the oportunity will close won, but not necessarily within the timeframe stated
-    - **Green**, meaning the EM is condient that the opportunity will close won within the time started
+    - **Amber**, meaning the EM is confident the opportunity will close won, but not necessarily within the timeframe stated
+    - **Green**, meaning the EM is confident that the opportunity will close won within the time stated
 - `EM Confidence Rationale` - Context and rationale to support the `EM Confidence` field
 - `Scoping Issue Link` - A direct link to the supporting scoping issue
 
