@@ -14,7 +14,7 @@ description: "Available development paths and resources for Technical Account Ma
 As a Technical Account Manager, it is essential to understand what resources are available for your personal and professional development.   This page strives to be a place for leadership and TAMs to contribute to resources available for the progression and development of the TAM team.
 
 ## Key handbook sections, roadmaps and L&D platforms for enablement:
-1. [TAM Planned Enablement Roadmap for H1 FY22](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g605d07d6c5_2_96)
+1. [TAM Planned Enablement Roadmap for H2 FY22](https://docs.google.com/presentation/d/1HCoPkdjucC7nUaJl5eNzj3VNCWFdQ3nWvUNiMv2tcDU/edit#slide=id.g605d07d6c5_2_96)
 1. [Customer Success Education & Enablement (All-CS)](/handbook/customer-success/education-enablement/)
 1. [New TAM Sales Quickstart Learning Path](https://about.gitlab.com/handbook/sales/onboarding/sales-learning-path/): Delivered through scheduled training sessions and pre/post work, with portions applicable only to the TAM role.
 1. [Edcast](https://gitlab.edcast.com/): For certifications, learning paths and more!
