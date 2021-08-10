@@ -55,7 +55,8 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 
 ### Zoom
 
-* If I don't have my video feed on, it is likely because I am listening but multitasking (working on something, doing something at home, etc) and I don't want those other activities to be distracting to the meeting attendees.
-* I will sometimes use the Zoom emoji feature rather than interupting the speaker to express my feedback on something.  I find that this allows me to provide feedback without interrupting whomever is speaking.
 * I am working on interrupting people less, slowing down my pace, and pausing more often.  This is to increase the clarity of what I am communicating while also increasing my emotional intelligence.  I am getting realtime feedback on this via system called [Poised](https://www.poised.com/).  In particular, rather than interrupting a speaker when I have something to say, I am trying to indicate that via non-verbal communication via video.  
+* When on video, I will sometimes use the Zoom emoji feature rather than interupting the speaker to express my feedback on something.
+* If I don't have my video feed on, it is likely because I am listening but multitasking (working on something, doing something at home, etc) and I don't want those other activities to be distracting to the meeting attendees.
+
 
