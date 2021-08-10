@@ -36,13 +36,14 @@ Maximize the Community Relations team's efficiency, productivity and performance
 The Junior Community Operations Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Junior Community Operations Manager Responsibilities
+- Extends the Associate Community Operations Specialist responsibilities
 - Thrive at developing new ways.
 - Refine existing processes.
 - Enable teams to work more efficiently.
 
 #### Junior Community Operations Manager Requirements
 - 1-2 years of experience
-- Ability to 
+- Ability to
 
 ### Community Operations Manager (Intermediate)
 
@@ -68,7 +69,7 @@ The Senior Community Operations Manager is a [grade 7](/handbook/total-rewards/c
 
 #### Senior Community Operations Manager Responsibilities
 - Extends the Community Operations Manager (Intermediate) responsibilities.
-- Significantly contribute to automate all the Community Relations team's processes and worflows.
+- Significantly contribute to automate all the Community Relations team's processes and workflows.
 - Proactively work across functions with peers in other groups to ensure collaboration on shared goals.
 - Collaborate with all Community Relations team's Program Managers to create a framework for community programs, including templates and guidelines for landing pages, contributor events, membership, incentives, etc.
 
@@ -79,7 +80,6 @@ The Senior Community Operations Manager is a [grade 7](/handbook/total-rewards/c
 
 - Time to approve community program applications
 - Percentage of manual vs. automated application processes
-- Number of community content impressions per month
 - Member/contributor satisfaction for community programs
 
 ### Career Ladder
