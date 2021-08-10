@@ -442,9 +442,7 @@ At the conclusion of the call, the CEO Shadows should remove themselves from doc
 
 Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting.   
 
-Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes. If you're unsure whether or not to take notes, default to take them or ask the CEO.   
-
- Here are the responsibilities shadows have during meetings:
+Here are the responsibilities shadows have during meetings:
 
 | Meeting type                     | Notes?         | Timekeeping?   |
 | -------------------------------- | -------------- | -------------- |
@@ -457,6 +455,9 @@ Assume that you are taking notes in a Google Doc affixed to the meeting invite u
 | Customer Meeting    | Yes, please use the externally-shared collaboration doc | Timekeeping |
 | Anything else (unless specified) | Notes          | Timekeeping    |
 
+Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes.
+
+If you're unsure whether or not to take notes, default to take them, ask the CEO before the meeting begins, or ping the [EBAs](/handbook/eba/#executive-business-administrator-team) on Slack via `#ceo-shadow` or `ceo-shadow-private` (depending on the sensitivity of the meeting).   
 
 
 ##### Taking notes
