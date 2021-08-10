@@ -11,8 +11,10 @@ description: "LinkedIn Sales Insights provides access to LinkedIn data and insig
 {:toc .hidden-md .hidden-lg}
 
 ### About LinkedIn Sales Insights
+
+
 LSI provides info on employee count, industry, location of the HQ and/or the person, as well as how many jobs have been posted recently on LinkedIn for that company (an indicator of growth), and connectivity (how many employees from this company are connected to GitLab employees on LinkedIn).
-   - Since we are already getting employee count, industry, and address data from other more reliable sources, we do not intend to use that information from LSI.
+   - Since we are already getting employee count, industry, and address data from other more reliable sources, we do not intend to use that information from LSI.  We will continue to follow the steps and data sources outlined in the [ROE](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#account-ownership-rules-of-engagement) for segmentation and assignment.  
    - GitLab's main use case for this tool currently is to populate developer count numbers into the LinkedIn Developer Count field on the SFDC Account object. This field can be used by Sales to help prioritize their prospect accounts. We will also use the LinkedIn Developer Count as an input to our LAM calculation, which will help us understand potential future growth of our accounts.
    - NOTE: All of the data provided by this tool is based solely on what people have entered on their LinkedIn resumes. This means that if LinkedIn is not used by all employees at a company, or if LinkedIn is not very widely used in a particular country, there will be weakness in the data provided.
 
