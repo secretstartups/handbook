@@ -97,9 +97,9 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
 
 Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
 
-## Learning & Development [MONTHLY]//[QUARTERLY] Announcements
+## Learning & Development Monthly Announcements
 
-In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the team's group conversations. These [MONTHLY]//[QUARTERLY] announcements are an interation on the group conversations. The goals of these announcements include:
+In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the team's group conversations. These monthly announcements are an interation on the group conversations. The goals of these announcements include:
 
 1. Announce upcoming L&D programs for team members
 1. Field async questions about L&D and from the team
@@ -109,25 +109,20 @@ In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the 
 
 Monthly Announcements from the L&D team are a 3-part announcement. This includes:
 
-1. Slide deck highlighting upcoming and existing L&D opportunities for team members and key results from the previous [MONTH]//[QUARTER]
+1. Async AMA issue for threaded discussion and to share upcoming opportunities and key results in the issue body
 2. Short, 3 minute video recorded using [LOOM] and shared via [SLACK]/[GITLAB LEARN] that highlights opportunities and results
-3. Discussion issue in the L&D project for an async AMA
 
 ### Preparation checklist for GitLab team members
 
-1. Copy and create a slide presentation that highlights current and ongoing efforts from the L&D team
-1. Record short video that highlights 2-3 opportunities coming up and 1-2 key results from the previous [MONTH]//[QUARTER]
-1. Open an AMA issue in the L&D project with the following questions as individual threads:
-     - What future training or skill development would you like to see from the L&D team in future months?
-     - What questions do you have about the L&D team key results shared in this announcement?
-     - What questions do you have about upcoming L&D opportunities?
-     - Any other questions, concerns, or feedback
-1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the [MONTH]//[QUARTER] in the #whats-happening-at-gitlab Slack channel
-1. Share the post in the #ceo channel and tag Sid
+1. Record short video that highlights 2-3 opportunities coming up and 1-2 key results from the previous month
+1. Open and populate an issue using the `monthly-announcement` template
+1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
+1. Use Bananatag to send an email to the GitLab team with an embeded video and link to the AMA issue.
+1. Share the post from the #whats-happening-at-gitlab channel to the #ceo channel and tag Sid
 
 ### Schedule
 
-Monthly announcements are shared by the L&D team on the [FIRST TUESDAY OF EACH MONTH]//[FIRST TUESDAY OF EACH QUARTER]. Below, you'll find links to previous announcement materials.
+Monthly announcements are shared by the L&D team on the first Tuesday of each month. Below, you'll find links to previous announcement materials.
 
 | Month | Slide Deck | Video | Async AMA |
 | ----- | ----- | ----- | ----- | 
