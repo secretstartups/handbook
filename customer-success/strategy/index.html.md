@@ -32,7 +32,15 @@ description: "Create a company-wide customer success approach, providing an enga
 
 ### FY22 Focus Areas
 The GitLab Customer Success strategy is aligned to driving Net Revenue Retention (NRR) or Net ARR that aligns better to our measures.
-![Customer Success Focus Areas](cs_priorities.png)
+
+|      |                                                              |                                                              |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | **Integrated value-selling approach centered on the customer journey** | New logos, Account Plan / Command Plan / Success Plan alignment, technical wins in alignment with desired business outcomes (workshops, demos, etc.), land with services |
+| 2    | **Customer Experience**                                      | Time-to-value acceleration, seamless transitions, GitLab / partner professional services (education, consulting, migration) |
+| 3    | **Retention and Expansion**                                  | Outcome delivery, adoption management, expansion playbooks (product use cases, subscription tier) |
+| 4    | **Proactive Visibility**                                     | Customer health, leading indicators (time-to-value, product usage, engagement, sentiment), opportunity / risk management, escalation |
+| 5    | **Scale and Efficiency**                                     | Systems (Troops, Mavenlink, Gainsight, LXP), data-driven insights, digital adoption journey / coverage, automation (process, customer-specific), ongoing enablement and certifications |
+| 6    | **Company-wide Orchestration**                               | Partnership: Sales, Product, Growth, Marketing, Finance, Ops, Channel, and Alliances *(includes our partners)* |
 
 ### Q3 and Q4 FY22
 
