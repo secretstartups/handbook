@@ -100,8 +100,14 @@ Effective May 1, 2021 GitLab team members and their dependants enrolled in Canad
 * Definition: 2 years own occupation
 * Offsets: Primary
 * Cost of Living Adjustment: Not included
-* Non-Evidence Maximum: 5,600
+* Non-Evidence Maximum: 7,000 (see below for EOI instructions to increase up to 12,500)
 * Termination: Age 65
+
+### Evidence of Insurability (EOI)
+Please fill out the [Evidence of Insurability Form] (https://drive.google.com/file/d/10ufkx55lIXY9dbwdals41FIAz52PS0YH/view?usp=sharing) 
+* Reach out to Total Rewards to fill out section 1-3 first. 
+* Total Rewards will return this to you to complete the remaining sections. 
+* Once completed, please submit directly to Canada Life at groupmed@canadalife.com 
 
 ## PTO and Vacation Information
 
