@@ -45,13 +45,14 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
     - Host will mover over the name of the participant you are passing host controls to
     - Select 'More'
     - Click 'Make Host' and select 'Yes'
-    - The new host will now have the ability to livestream the call from Zoom 
+    - The new host will now have the ability to livestream the call from Zoom
 1. Generally, for a livestream, it's helpful to have a separate person handling [promoting people to panelist](https://support.zoom.us/hc/en-us/articles/115004834466-Managing-Participants-in-Webinar).
+1. To improve accessibility, [enable live transcription](/handbook/tools-and-tips/zoom/#enable-captions-and-live-transcription).
 1. **Please don't include any confidential information in the description of your Youtube video since there is a bug that can cause [private video descriptions to propagate over to public ones](https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/809)**
 
 ### Livestream with Zoom
 
-1. Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiltered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) and double check that the user you are signed in with at the top left-hand corner is GitLab Unfiltered and not your work or personal email address. 
+1. Ensure you have access to the GitLab Unfiltered YouTube Channel. Check this by confirming you can sign in with the [GitLab Unfiltered Account](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#unable-to-view-a-video-on-youtube). If you cannot access private videos on GitLab Unfiltered follow the [Access Instructions](https://about.gitlab.com/handbook/marketing/marketing-operations/youtube/#access) and double check that the user you are signed in with at the top left-hand corner is GitLab Unfiltered and not your work or personal email address.
 
 1. Configure your Zoom [advanced meeting options](https://zoom.us/profile/setting#advanced_meeting_options) to enable livestreaming for YouTube.
 
@@ -73,18 +74,18 @@ In that case, you can [upload it to YouTube](#uploading-conversations-to-youtube
 
 ![configure stream](/handbook/marketing/marketing-operations/youtube/stream_settings.png)
 
-1. Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy reference post meeting. 
+1. Click the down arrow next to "Live on YouTube" in the top left once the streaming has begun. Then click "Copy Streaming Link" and paste in the agenda for easy reference post meeting.
 
 ![stream link](/handbook/marketing/marketing-operations/youtube/youtube-stream-link.jpg)
 
 #### Video walkthough of how to Livestream to YouTube
-The following 5-minute video shows how to start a livestream from a Zoom Meeting to YouTube Unfiltered.  
+The following 5-minute video shows how to start a livestream from a Zoom Meeting to YouTube Unfiltered.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/mWWWdbS2q9U" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-If you recieve a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help. 
+If you recieve a permission error when attempting to start a livestream (i.e. "Please grant necessary privilege for live streaming"), you may need to first select your `user@gitlab.com` account in step 4 above. It will prompt you to grant permissions, and you should do so. After that, return to step 3 but this time select GitLab / GitLab Unfiltired at step 4. If the problem persists, reach out in #it-help.
 
 ### Livestream with OBS
 
@@ -141,15 +142,15 @@ If you mark a video private when it doesn't need to be, it is be easy to undo: s
 
 ## Why not Google Drive
 
-Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following: 
+Google Drive is not intended to process video distrubtion and, as a result, lengthy uploading and processing times are common. Google drive can create a number of issues including the following:
 
-1. Long upload times (in some cases up to 10 hours for longer content) that risk failing before completion. 
-1. Extended processing time, as Google Drive is not intended to quickly turn around video for playback.  
+1. Long upload times (in some cases up to 10 hours for longer content) that risk failing before completion.
+1. Extended processing time, as Google Drive is not intended to quickly turn around video for playback.
 1. Compromised playback quality.
 1. Not inclusive (for example, no caption support)
-1. Not indexed for searching. 
-1. Less transparent to both other employees and to the public. 
-1. Difficult to view across multiple devices. 
+1. Not indexed for searching.
+1. Less transparent to both other employees and to the public.
+1. Difficult to view across multiple devices.
 1. No support for other critical features such as playlist, chaptering, descriptions, embedding, or timecodes.
 
 Always use YouTube and never use Google Drive, even for [private videos](#visibility), because YouTube videos:
