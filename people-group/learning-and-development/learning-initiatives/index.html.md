@@ -97,14 +97,47 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
 
 Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
 
-## Learning & Development Group Conversations
+## Learning & Development [MONTHLY]//[QUARTERLY] Announcements
 
-The L&D team hosts [Group Conversations](/handbook/group-conversations/) approximately every six weeks to share regular updates across all GitLab teams. All team members are invited to participate to understand and learn about the latest information for learning. Group Conversations are targeted for the largest internal audience at GitLab. The L&D team will create slides and a pre-recorded video to be watched beforehand for all attendees. 
+In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the team's group conversations. These [MONTHLY]//[QUARTERLY] announcements are an interation on the group conversations. The goals of these announcements include:
+
+1. Announce upcoming L&D programs for team members
+1. Field async questions about L&D and from the team
+1. Increase participation from team members in all time zones
+
+### Monthly Announcement Strucutre
+
+Monthly Announcements from the L&D team are a 3-part announcement. This includes:
+
+1. Slide deck highlighting upcoming and existing L&D opportunities for team members and key results from the previous [MONTH]//[QUARTER]
+2. Short, 3 minute video recorded using [LOOM] and shared via [SLACK]/[GITLAB LEARN] that highlights opportunities and results
+3. Discussion issue in the L&D project for an async AMA
+
+### Preparation checklist for GitLab team members
+
+1. Copy and create a slide presentation that highlights current and ongoing efforts from the L&D team
+1. Record short video that highlights 2-3 opportunities coming up and 1-2 key results from the previous [MONTH]//[QUARTER]
+1. Open an AMA issue in the L&D project with the following questions as individual threads:
+     - What future training or skill development would you like to see from the L&D team in future months?
+     - What questions do you have about the L&D team key results shared in this announcement?
+     - What questions do you have about upcoming L&D opportunities?
+     - Any other questions, concerns, or feedback
+1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the [MONTH]//[QUARTER] in the #whats-happening-at-gitlab Slack channel
+1. Share the post in the #ceo channel and tag Sid
+
+### Schedule
+
+Monthly announcements are shared by the L&D team on the [FIRST TUESDAY OF EACH MONTH]//[FIRST TUESDAY OF EACH QUARTER]. Below, you'll find links to previous announcement materials.
+
+| Month | Slide Deck | Video | Async AMA |
+| ----- | ----- | ----- | ----- | 
+| - | - | - | - |
+| - | - | - | - |
 
 
 ## Monthly Continuous Learning Call Overview
 
-At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab.
+The Learning and Development (L&D) team previously hosted a monthly Monthly Continuous Learning call. The series was intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. The series was replaced in FY22 with involvement in company-wide Group Conversations in an effor to increase participation and attendance in the calls.
 
 ### Goals
 
