@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: Core Marketing Site Architecture Plan
+description: Core Marketing Site Changes
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -29,6 +35,7 @@ After considering [3 different approaches](https://docs.google.com/document/d/1y
 
 1. Changing anything to the current processes of the Handbook
 1. Changing any processes to the pages not identified as part of this project
+1. Changing any of our current deployment and hosting infrastructure - we will continue to use GitLab, GitLab CI, GCP, and Fastly.
 
 ## Goals and Measurement
 
