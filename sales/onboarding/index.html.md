@@ -28,8 +28,8 @@ For a detailed list of SQS Learning Objectives, please visit [this page](https:/
 | DATES | GEO | LOCATION | ISSUE |
 | ------ | ------ | ------ | ------ |
 | Jul 6 - 16 2021 | AMER / EMEA | Virtual | [SQS16 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/827) | 
-| Aug 24 - Sep 2 2021 | AMER / EMEA | Virtual | [SQS17 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/896) | 
-| Early Oct (exact dates TBD) | AMER / EMEA | Virtual | SQS18 issue (coming soon) | 
+| Aug 30 - Sep 9 2021 | AMER / EMEA | Virtual | [SQS17 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/896) | 
+| Early Oct (exact dates TBD) | AMER / EMEA | Virtual | [SQS18 issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/902) | 
 
 
 ## Swag for New Sales Team Members
