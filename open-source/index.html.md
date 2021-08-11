@@ -29,9 +29,20 @@ See [Creating a new project](/handbook/engineering/#creating-a-new-project) for 
 
 ### Contributor License Agreements (CLAs)
 
-TBD
-- What is the process to follow to sign a CLA or corporate CLA?
-- Do we track which corporate CLAs have been signed already? Would be great to have a link to the list here.
+If you'll be contributing to an open source project on behalf of GitLab, you may be asked to sign an individual or corporate CLA. 
+
+All CLAs require Legal review. We prefer to sign corporate CLAs whenever possible in order to track them more easily.
+
+Here are the steps to follow for each kind of CLA you may be asked to sign: 
+
+**Corporate CLAs:** 
+ 1. Open an issue in the Legal team's project. 
+ 1. Send the CLA to `cla_managers`[at] `gitlab.com`. If this is not possible, sign up using the `cla_managers` email.
+
+**Individual CLAs:**
+ 1. Check with Legal on next steps by filing an issue in their project, or sending a message on the Slack `#legal` channel.
+
+We are continuing to develop our policy and workflow around CLAs on behalf of GitLab contributors. [See related issue here](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/general/-/issues/238). For any questions in the meantime, please post to the `#legal` Slack channel. 
 
 ### Contributing to a project on GitLab
 
