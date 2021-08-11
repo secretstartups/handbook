@@ -15,6 +15,8 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 To learn how GitLab TAMs approach customer engagement and planning conversations, a new team member shadows an established, more senior member of the team in a variety of meetings and actions taken related to those meetings.
 
+Senior members of the team should proactively invite new TAMs for shadowing and include them on any prep or follow up that takes place for the call. New TAMs should also feel empowered to reach out to various members of the global TAM team (not just their regional team) to ask to shadow and learn from them. The goal is to get exposure to different types of calls, relationships, ways of working, topics, etc., without the pressure of owning the accounts.
+
 ## Cadence calls
 
 The [cadence call](/handbook/customer-success/tam/cadence-calls/) is a core element of the TAM's engagement with a customer. There are several elements involved in a cadence call beyond the call itself.
