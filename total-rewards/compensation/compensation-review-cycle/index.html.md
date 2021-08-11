@@ -526,7 +526,7 @@ A team member did not receive an increase over Annual Compensation review as the
 All approved increases will be effective on September 1.
 
 * August 11th: Compaas Opens
-* August 25th: Compaas Closes, All e-group approvals must be in place by August 25th  
+* August 20th: Compaas Closes, All e-group approvals must be in place by August 25th  
 * August 25th: Visibility for team members to view compensation in BambooHR will be turned off 
 * August 26th - 27th: New Compensation will be reviewed / audited by Total Rewards and confirmed by the Compensation Group 
 * September 1st: Compensation Increases will be uploaded to BambooHR
