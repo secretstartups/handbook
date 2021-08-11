@@ -5,27 +5,40 @@ descrription: "Learn more about Community Operations roles, responsibilities, re
 ---
 ## Community Operations Manager
 
-The GitLab Community Operations Manager is responsible for managing the Community Relations Teams operations including Community Programs Applications workflows, budgeting workflows, and infrastructure for the Community Relations team.  The Community Operations Manager reports to the [Director of Community Relations](https://about.gitlab.com/job-families/marketing/director-of-community-relations/).
+The GitLab Community Operations Manager is responsible for managing the [Community Relations Team](https://about.gitlab.com/handbook/marketing/community-relations/)'s operations including the [community programs' application workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/), budgeting workflows, and infrastructure for the Community Relations team. The Community Operations Manager reports to the [Director of Community Relations](https://about.gitlab.com/job-families/marketing/director-of-community-relations/) and owns the [Community Operations](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/) handbook.
 
 ### Responsibilities
 
-- Support the GitLab for Education, GitLab for Open Source, GitLab for Startups and GitLab for Non-Profit Programs and the associated Community Applications Workflows. This includes responding to all in-bound applications and requests from program members and the wider GitLab community.
-- Act as the DRI for the Automated Community Programs workflows. This includes evolving and troubleshooting processes and working closely with associated teams in Product, Fulfillment, and Sales Operations.
-- Define and maintain the tool stack required for all Community Operations. This includes but it not limited to: Keyhole, Zendesk, Discourse, SheerId, Coupa, Allocadia, Disqus, and Google Analytics. See the [full tech stack](handbook/marketing/community-relations/community-operations/#community-operations-tool-stack) list here.  
-- Establish quarterly budgeting processes. Maintain and lead regular planning and reporting cadence for the Community
-Maximize the Community Relations team's efficiency, productivity and performance.
-- Act as a partner to all Program Managers in the Community Relations team to define, implement and refine KPIs/PIs to measure and report the success and effectiveness of our programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
-- Be the DRI for the Community Relations team's webpages on about.gitlab.com. Work with the pertinent teams to produce relevant, enticing and up-to-date content for contributors.
+- Support the [GitLab for Education](https://about.gitlab.com/solutions/education/), [GitLab for Open Source](https://about.gitlab.com/solutions/open-source/), and [GitLab for Startups](https://about.gitlab.com/solutions/startups/) programs, as well as any new programs that are created, and the associated [community programs' application workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/). This includes responding to all in-bound applications and requests from program members and the wider GitLab community.
+- Actively participate in the implementation of, and then lead the maintainance of the [Automated Community Programs workflows](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/automated-community-programs/). This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Community Relations, Product, Fulfillment, Sales Operations, and Customer Support.
+- Define and maintain the tool stack required for all Community Relations team operations. This includes but it not limited to: Keyhole, Zendesk, Discourse, SheerID, Coupa, Allocadia, Disqus, and Google Analytics. See the [full tech stack](handbook/marketing/community-relations/community-operations/#community-operations-tool-stack) list here.  
+- Establish quarterly budgeting processes. Maintain and lead a regular planning and reporting cadence for the Community Relations team.
+- Maximize the Community Relations team's efficiency, productivity, and performance. 
+- Partner with all Program Managers on the Community Relations team to define, implement and refine KPIs/PIs to measure and report the success and effectiveness of their programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
+- Be the [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the Community Relations team's webpages on about.gitlab.com. 
+- Work with the pertinent teams to produce relevant, enticing, and up-to-date content for contributors.
 - Curate and maintain documentation for any team member to productively engage with the wider community.
 
 
 ### Requirements
-
-- Thrive at developing new ways and refining existing processes to enable teams to work more efficiently.
-- You'll love making sure our program members have the best experience possible as they interact with our systems.
-- Excellent written and spoken English. Proven track record of creating documentation and process oriented content.
-- Willing to use GitLab.
 - You share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
+- You thrive at developing new approaches and refining existing processes to enable teams to work more efficiently. 
+- You are pattern-seeking and enjoy creating replicable, scalable processes.
+- You love making sure community members have the best experience possible as they interact with our tools and systems.
+- You excel at working cross-functionally or with multiple stakeholders.
+- You have excellent written and spoken English language communication skills.
+- You have had experience working in a customer, or community-facing environment and are able to communicate effectively and empathetically.
+- You are very detail oriented.
+- You have proven experience creating documentation and process-oriented content.
+- You are willing to use GitLab.
+
+Preferred Qualifications
+- Familiarity using GitLab, Salesforce, Zendesk, and other tools that the Community Relations team uses.
+- Experience creating and maintaing budgets. 
+- Change management skills.
+- Experience updating website copy or making website edits.
+- Vendor-management, negotiation, and procurement experience.
+- Data-oriented and familiar with defining and implementing key performance metrics.
 
 ## Levels
 
@@ -43,7 +56,6 @@ The Junior Community Operations Manager is a [grade 5](/handbook/total-rewards/c
 
 #### Junior Community Operations Manager Requirements
 - 1-2 years of experience
-- Ability to
 
 ### Community Operations Manager (Intermediate)
 
