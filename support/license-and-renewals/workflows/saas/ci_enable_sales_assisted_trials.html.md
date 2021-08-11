@@ -36,7 +36,7 @@ irb(main) enable_ci_minutes_trial('namespace')
 => "{\"status\":\"success\",\"message\":\"namespace members are now enabled to run CI minutes\"}"
 ```
 
-#### For consumptions groups
+#### For consumption groups
 
 ```ruby
 irb(main) enable_ci_minutes_trial('namespace', true)
