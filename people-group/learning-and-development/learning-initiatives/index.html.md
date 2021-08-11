@@ -110,7 +110,7 @@ In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the 
 Monthly Announcements from the L&D team are a 3-part announcement. This includes:
 
 1. Async AMA issue for threaded discussion and to share upcoming opportunities and key results in the issue body
-2. Short, 3 minute video recorded using [LOOM] and shared via [SLACK]/[GITLAB LEARN] that highlights opportunities and results
+2. Short, 3 minute video recorded using Loom and shared via Slack and Email that highlights opportunities and results
 
 ### Preparation checklist for GitLab team members
 
@@ -128,6 +128,16 @@ Monthly announcements are shared by the L&D team on the first Tuesday of each mo
 | ----- | ----- | ----- | ----- | 
 | - | - | - | - |
 | - | - | - | - |
+
+### Results
+
+The following metrics will be used to measure results of the L&D monthly announcements
+
+| Metric | Monthly Goal |
+| ----- | ----- | 
+| Total Loom Video Views | | 
+| Total questions asked on the issue | | 
+| Emails opened {better metric from bananatag?} | |
 
 
 ## Monthly Continuous Learning Call Overview
