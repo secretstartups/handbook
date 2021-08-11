@@ -51,9 +51,9 @@ The stakeholders in the Error Budget process are:
 
 1. Stage teams (Product department and the supporting Engineering teams represented on the [product categories page][categories])
 1. Infrastructure teams (Teams represented on the [infrastructure team page][infra teams])
-1. Infrastructure organization and [VP of Infrastructure](https://about.gitlab.com/handbook/engineering/infrastructure/#mstaff) (Responsible for the implementation, maintenance, and overall effectiveness of Error Budget programs and policy)
+1. [VP of Infrastructure and Infrastructure Leadership](https://about.gitlab.com/handbook/engineering/infrastructure/#mstaff)
+1. VP of Development and VP of Product 
 
-Both the Stage teams as well as Infrastructure may contribute to budget spend.
 
 ## Budget allocation
 
@@ -69,6 +69,16 @@ This includes all Rails Controllers, API Endpoints, Sidekiq workers, and other S
 
 This budget does not take into account the number or complexity of the features owned by a team, existing product priorities, or the team size.
 
+## Budget spend announcements
+
+On the 4th of each month, the following announcements are made:
+
+- Budget Spend by Service 
+- Budget Spend by Stage Group 
+
+The announcements appear in `#product`, `#eng-managers`, `#f_error_budgets` and `#development`
+
+Feature categories with monthly spend above the allocated budget for three consecutive months are reported as part of the Engineering Allocation meeting.
 
 ## Budget spend(by service)
 
@@ -83,12 +93,6 @@ The budget spend is currently aggregated at the primary service level.
 ![Spent budget](img/spent-budget.png)
 
 Details on what contributed to the budget spend can be further found by examining the raised incidents, and exploring the specific service dashboard (and its resources).
-
-### Budget accounting
-
-The Infrastructure department announces the budget spend at the end of each month in [the relevant Engineering communication channels][eng comms].
-
-The budget spend is also announced in [the weekly GitLab SaaS call](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure).
 
 ## Budget spend (by stage group)
 
@@ -108,45 +112,85 @@ This gives us the percentage of operations that completed successfully and is co
 (1 - stage group availability) * (28 * 24 * 60)
 ```
 
-Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). 
+Apdex and Error Rates are explained in more detail on [the handbook page](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability).  
 
-### Budget accounting
+Error Budget Spend information is available on the [Error Budgets Overview Dashboard](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) in Sisense.
 
-The budget spend on each stage group dashboard shows the value for the previous 28 days. 
-
-Each week, budget spend information is added to the Engineering Allocation meeting agenda.
-
-Top-level error budget spend information is available in Sisense on the [Error Budgets Overview Dashboard](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview)
-
-Guidance for stage groups is:
-
-|**Monthly Spend** |**Action**|
-|------------------|----------|
-| < 10 minutes     | Understand your spend - no further action required. |
-| > 10 minutes     | Increase focus on performance and availability, reach out to Scalability for guidance via [review request issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=). |
-
-#### How to change error budget attribution
+### How to change error budget attribution
 
 Error budget events are attributed to stage groups via [feature categorization](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization). Updates to this mapping can be managed via merge requests if ownership of a part of the platform moves from one feature category to another.
 
 Updates to feature categories only change how future events are mapped to stage groups. Previously reported events will not be retroactively updated and will continue to count against stage group error budgets.
 
+### Contract
+
+All feature categories are expected to perform within their Error Budget regardless of traffic share. This ensures a consistent approach to prioritization of reliability concerns.  
+
+Error Budgets should be reviewed monthly as part of the [Product Development Timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline). 
+
+The balance between feature development and reliability development for a feature category should be as follows:
+
+|**Monthly Spend**               |**Action**|
+|------------------------------  |----------|
+| <= 20 minutes                   | Understand your spend - no further action required. |
+| > 20 minutes                   | Commitment to [reliability/availability improvements](https://about.gitlab.com/handbook/product/product-processes/#prioritization), feature development is secondary. |
+
+Feature categories with monthly spend above the allocated budget for three consecutive months may have additional feature development restrictions put in place.    
+_This is subject to change as Error Budget spend across feature categories decreases._
+
+### Error Budget DRIs 
+
+| Role | K/PI | Target | Current Tracking Status |
+| --- | --- | --- | --- |
+| Product Management | [Maintaining the Spend of the Error Budget](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) | 20 minutes over 28 days (equivalent to 99.95% availability) | Complete - In Sisense |
+| Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
+
+* For groups with engineering allocations, the responsibility to maintain the spend of error budget is with the development team instead of the product management team.
+
 # Current State and Future Intent
 
-This process complements the [Engineering Architecture evolution process][architecture] in that:
+## Current State
 
-1. Error budgets show trends focused on the specific feature category.
-1. Architecture evolution proposes a fundamental change spanning one or more of affected features.
-1. Both in turn drive the prioritization process based on the existing need to improve reliability.
-1. The outcome of improvement reinstates the spent budget allowing for new feature development.
+1. Error budgets exist for each feature category and incorporate a standard apdex threshold and error rate.
+1. Error budgets are published for stage groups and stages through Grafana and Sisense Dashboards.
+1. Contributing factors are explorable through links available on the Grafana Dashboards.
+1. Error budgets are included in the [Product Prioritization process]((https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline).). 
 
-This initial error budget instrumentation, tracking, and reporting is meant to provide insight into future product prioritization process changes. We recognize that it is rarely easy to implement the changes which allow for "switch to reliability focus" upon the depletion of an error budget. We will seek to learn through this initial implementation and continue to iterate to make error budgets an effective influence to continuing reliability of GitLab.com SaaS services.
+## Roadmap
 
-Notable items to be addressed in future iterations include:
+The changes below aim to increase the maturity of the Error Budgets. 
 
-1. Definition, description, process, and collaboration on what is expected by teams in response to the depletion of an error budget. We're focusing on visibility now, but we need to decide together and in a detailed way how we respond to this in the future.
-1. De-coupling Error Budgets direct availability measurement. SLOs are meant to inform SLAs and we shouldn't aim to consistently exceed SLOs. However, for this to work they must not be the same value.
-1. We will create a more gradual scale and tighten the budgets as we start seeing budgets used more widely for prioritization decisions.
+#### 1. Increase precision of Error Budget calculations (apdex portion)
+
+**Improvements**
+
+1. Calculations use a standard request duration threshold which is not appropriate for all endpoints. Stage groups will be enabled 
+to set their own SLO per endpoint. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
+1. Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200)
+and having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/gitlab/-/issues/328535).
+1. The [impact of system-wide outages on Error Budgets should be more clear](https://gitlab.com/gitlab-com/Product/-/issues/2884).
+1. Provide guidance for PM's who report on both Error Budgets and Service Availability. (Such as Runner and Pages). 
+
+** Product Development Activities**
+
+Product Development teams are encouraged to:
+1. Continue working on Infradev issues
+1. Propose SLOs for their endpoints
+1. Provide further feedback for future improvements to Error Budgets
+
+#### 2. Increase visibility into Error Budgets (error portion)
+
+1. Stage groups are provided with error count information. This can be supplemented with further detail by [making error information
+explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/396). 
+
+#### 3. Tune the scope of Error Budgets
+
+1. Consider incorporating P1/S1 incidents into the Error Budget Calculation.  
+
+## More information
+
+1. [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
+1. [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
@@ -165,16 +209,3 @@ Notable items to be addressed in future iterations include:
 [eng comms]: /handbook/engineering/#keeping-yourself-informed
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now
 [stage group dashboards]: https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups
-
-### Error Budget DRIs 
-
-| Role | K/PI | Target | Current Tracking Status |
-| --- | --- | --- | --- |
-| Product Management | [Maintaining the Spend of the Error Budget](https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now) | 20 minutes over 28 days (equivalent to 99.95% availability) | In progress - In Grafana<br/>Working to add per Stage data to Sisense [gitlab#1033](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1033) |
-| Infrastructure | [Setting the Error Budget Minutes and Availability Target](/handbook/engineering/infrastructure/performance-indicators/#gitlabcom-availability) | 99.95% (20 minutes over 28 days Error Budget) | Complete - In Grafana |
-
-
-### More information
-
-1. [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
-1. [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
