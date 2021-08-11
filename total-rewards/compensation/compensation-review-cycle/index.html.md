@@ -498,15 +498,18 @@ During the [annual compensation review](#annual-compensation-review), the budget
 
 Team members should not expect an increase, but instead understand that their compensation is being reviewed to ensure alignment to market and performance. 
 
-For the FY23 Targeted Mid Year Review, team members on the Frontend Engineer benchmark or in the Security and UX department will also be eligible for the compensation review cycle as the [benchmarks have been [updated to align with a competitive rate in the market](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/merge_requests/280/diffs). In line with GitLab's [Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/#gitlabs-compensation-principles), when we update the SF benchmark we review compensation for new hires and current team members to ensure alignment to a competitive rate. 
+For the FY22 Targeted Mid Year Review, team members on the Frontend Engineer benchmark or in the Security and UX department will also be eligible for the compensation review cycle as the [benchmarks have been updated to align with a competitive rate in the market](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/merge_requests/280/diffs). In line with GitLab's [Compensation Principles](https://about.gitlab.com/handbook/total-rewards/compensation/#gitlabs-compensation-principles), when we update the SF benchmark we review compensation for new hires and current team members to ensure alignment to a competitive rate. 
 
 ### Manager Process
 
 In August, a compensation review cycle using [Compaas](/handbook/total-rewards/compensation/compensation-review-cycle/#manager-review-in-compaas) will open for all eligible team members' compensation to be reviewed. 
 
 This is a cash only cycle as equity will be reviewed in the next Annual Compensation Review process. If a team member within the team of the manager is eligible for the Targeted Mid-year review we recommend for the manager to go into Compaas and review: 
-- Reason for eligibility (start date or not receiving an increase)
-- Any updates to the compensation bands of the Job Family (benchmark and/or location changes)
+- Reason for eligibility found by clicking on the team member's card in your slate in Compaas:
+   * If a team member is eligible due to start date or not receiving an increase, this will be notated in Compaas as `Targeted-Mid Year Compensation Review` and the team member should be reviewed for alignment to market and performance.
+   * If a team member is eligible due to updates to the compensation bands of the Job Family, this will be notated in Compaas as `Benchmark Review` (only applicable to certain team members in UX, Frontend, & Security as detailed above).
+     * If your team is eligible for this reason, the slate will already be locked due to VP review taking place prior to the cycle launch.
+   * ![eligibility reason](/images/handbook/people-group/compaas_eligibility_reason.png)
 - Performance of the team member. Note: Prior to the Targeted Mid-Year increase there will **not** be a formal performance assessment. This means that the recommended increases which are applicable over [the Annual Compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#performance-factor-and-annual-compensation-review) should **not** be expected now. Rather than a formal performance assessment we ask managers to review whether the team member is meeting performance expectations. 
 - Whether the team member is at a [competitive rate](/handbook/total-rewards/compensation/#competitive-rate) for their Level, Role, and Location
 
