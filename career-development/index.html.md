@@ -178,6 +178,9 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   eng:dir(Director of Engineering);
   click eng:dir "/job-families/engineering/engineering-management/#director-development";
 
+  eng:pre(Principal Engineer);
+  click eng:pre "/job-families/engineering/engineering-management/#principal-engineer";
+
   eng:dis(Distinguished Engineer);
   click eng:dis "/job-families/engineering/engineering-management/#distinguished-engineer";
 
@@ -196,7 +199,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   eng:stb & eng:bem;
 
   eng:bem & eng:fem-->eng:sme-->eng:dir-->eng:sde-->eng:vpd;
-  eng:stb & eng:stf-->eng:dis-->eng:fel;
+  eng:stb & eng:stf-->eng:pre-->eng:dis-->eng:fel;
   end
   subgraph Merit Based
   eng:jfe-->eng:ife-->eng:sfe-->eng:stf & eng:fem
