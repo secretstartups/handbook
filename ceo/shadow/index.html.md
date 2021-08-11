@@ -494,7 +494,7 @@ While it may feel awkward to interrupt the flow of a conversation to provide a v
 Shadows should provide a 5-minute and 1-minute notification. If a meeting is running over the allocated time by saying "we're in overtime". Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes".
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat. At time, the same will occur with "We are at time". To use the script:
-1. Download it (recommended within your Home folder for easy access)
+1. Download [setalarm](setalarm.sh), making sure to preserve the .sh extension. (recommended within your Home folder for easy access)
 1. Load MacOS Terminal by running `Cmd+Space` and typing `terminal`.
 1. Run `source setalarm.sh` to load the `setalarm` function into memory.
 1. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided). 
