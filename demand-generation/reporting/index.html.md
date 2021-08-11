@@ -130,7 +130,7 @@ To add a new integrated campaign group, open an issue by using the [demand-gen-d
 {: #dashboard-metrics}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-- **Inquiries**: Form fills on the campaign landing page + form fills tagged with the campaign utms anywhere on our marketing site.
+- **Inquiries**: Form fills on the campaign landing page + form fills tagged with the campaign utms anywhere on our marketing site. The Inquiry numbers are based on touchpoints, and deduplicated by email address in the topline metrics view. The pivot table view is not deduplicated and will show all touchpoints.
 - **MQL**: Campaign inquiries that have MQL'ed (MQL date  is not blank). Estimated Free Trial Paid MQLs are also included.
 - **SDR Accepted**: Number of campaign inquiries worked by the SDRs.
 - **New Inquiries**: Number of new emails created from campaign inquiries.
