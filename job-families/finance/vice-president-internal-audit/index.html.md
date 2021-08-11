@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: Vice President, Internal Audit
+title: "Vice President, Internal Audit"
 ---
 
 ## Vice President, Internal Audit
