@@ -162,11 +162,11 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 
 ### **SuperSonics Billing and Subscription Management Experience**
 
-GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Metrics. 
+GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Data. 
 
 #### SuperSonics Eligibility
 
-Starting 2021-08-02, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Metrics, review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
+Starting 2021-08-02, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
 
 #### SuperSonics and Sales Assisted Transactions
 
@@ -174,33 +174,33 @@ New fields have been added to the Quote object to support SuperSonics Functional
 
 **Zuora Fields**
 
-This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Metrics). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
+This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Data). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
 
 For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix), the default values will be "No" for all fields. 
 * Note: If a customer is exempt from SuperSonics, or has opted out, Legal Language will populate on the Order Form noting that SuperSonics does not apply. In these cases, such language can only be removed or edited by the GitLab Legal Team.
 
 | Field Name | Field Description |
 |-|-|
-| Contract Auto Renew | (Yes/No) Shows whether customer is contractually eligible for Auto-Renewal  |
-| Contract Seat Reconciliation | (Yes/No) Shows whether customer is contractually eligible for Quarterly Subscription Reconciliation |
-| Contract Operational Metrics | (Yes/No) Shows whether customer is contractually eligible for Operational Metrics |
-| Turn On Auto Renew | (Yes/No) Shows whether Auto-Renewal is enabled for the subscription |
-| Turn On Seat Reconciliation | (Yes/No) Shows whether Quarterly Subscription Reconciliation is enabled for the subscription |
-| Turn On Operational Metrics | (Yes/No) Shows whether Operational Metrics is enabled for the subscription |
+| Contract Auto-Renewal | (Yes/No) Shows whether customer is contractually eligible for Auto-Renewal  |
+| Contract Quarterly Reconciliation | (Yes/No) Shows whether customer is contractually eligible for Quarterly Subscription Reconciliation |
+| Contract Operational Data | (Yes/No) Shows whether customer is contractually eligible for Operational Data |
+| Turn On Auto-Renewal | (Yes/No) Shows whether Auto-Renewal is enabled for the subscription |
+| Turn On Quarterly Reconciliation | (Yes/No) Shows whether Quarterly Subscription Reconciliation is enabled for the subscription |
+| Turn On Operational Data | (Yes/No) Shows whether Operational Data is enabled for the subscription |
 
 **Cloud Licensing Fields**
 
-The fields in this section enable contractual opt-outs for each SuperSonics feature. If you wish to request an opt-out of Auto-Renewal, Quarterly Subscription Reconciliation, or Operational Metrics, you must check the applicable box on the quote object. Checking these boxes will trigger an approval workflow, and will ultimately insert legal language onto the Order Form that opts the customer out of the related feature. If any of these boxes are checked, and the opt-out is approved, the related Zuora Fields will reset to "No." 
+The fields in this section enable contractual opt-outs for each SuperSonics feature. If you wish to request an opt-out of Auto-Renewal, Quarterly Subscription Reconciliation, or Operational Data, you must check the applicable box on the quote object. Checking these boxes will trigger an approval workflow, and will ultimately insert legal language onto the Order Form that opts the customer out of the related feature. If any of these boxes are checked, and the opt-out is approved, the related Zuora Fields will reset to "No." 
 
 | Field Name | Field Description |
 |-|-|
-| [Cloud Lic] Add Quarterly Coterm Opt-Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
+| [Cloud Lic] Add QuarterlyReconcil OptOut | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
-| [Cloud Lic] Add Operational Metrics Opt-Out | (Checkbox) Opts customer out of Operational Metrics |
+| [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
 
 #### How To Opt-Out of SuperSonics Features
 
-During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Metrics may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
+During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
 
 **Steps to Request an Opt-Out:**
 1. Navigate to the Cloud Licensing Fields section of the quote, and check the box next to the applicable SuperSonics Feature (i.e. Add Auto-Renewal Opt-Out). Click Save.
@@ -222,7 +222,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 #### SuperSonics: Frequently Asked Questions
 
 1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
-  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto Renew," "Turn On Seat Reconciliation," or "Turn On Operational Metrics," then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
+  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
 2. **I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?**
   - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) for more information on exemptions.
   - Note: This language is not optional and cannot be removed unless the customer opts into SuperSonics. If you would like to discuss such a scenario, tag @Sales-Support in chatter.
