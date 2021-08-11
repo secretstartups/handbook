@@ -730,7 +730,7 @@ At GitLab we embrace Neurodiversity through adopting a variety of different work
 
 Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent) even if someone behaves in an unexpected way.  Although it is unexpected to you, it is not for the individual exhibiting this behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
 
-We also support any team member who requests a [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation).  A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or a variety of supportive software tools.  
+We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or a variety of supportive software tools.  
 
 The most important thing that managers can do is to provide all team members with the [psychological safety](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) to make requests for [whatever a team member needs](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.  
 
