@@ -199,6 +199,13 @@ Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. G
 
 `Web direct` covers web portal purchase. Deal Path is `Channel` when the Partner Account name is not blank on the opportunity.
 
+**What filters to use for GTM Motion reporting (e.g. DevOps GTM)**
+
+- Select `Integrated_Campaign = DevOps GTM` (depending on which GTM motion you are reporting on).
+- Select `Touchpoint_Segment = Demand Gen + Other`
+- Only if you are looking to report on First Order, select `SFDC_Order_Type_Stamped = 1. New - First Order`
+- Check `Snapshot view`
+
 **Snapshot View vs Touchpoint View:**
 
 The following table gives a better understanding of the difference between the 2 views (with dummy data). The table shows 1 SFDC Sales accepted opportunity (SAO) with 4 different touchpoints and the Linear SAO. Each touchpoint happens on a different day and the SAO date of the opportunity is on `2021-01-20`.
