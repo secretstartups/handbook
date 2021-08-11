@@ -42,9 +42,10 @@ Changes are implemented via merge requests, including changes to our pipelines, 
 | Extraction      |  Stitch, Fivetran, and Custom |
 | Loading         |  Stitch, Fivetran, and Custom |
 | Orchestration   |            Airflow            |
-| Storage         |           Snowflake           |
+| Data Warehouse  |           Snowflake           |
 | Transformations |     dbt and Python scripts    |
-| Analysis        | Sisense For Cloud Data Teams‎ |
+| Data Visualization | Sisense For Cloud Data Teams‎ |
+| Advanced Analytics | jupyter‎ |
 
 ## <i class="fas fa-exchange-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="extract-and-load"></i>Extract and Load
 
