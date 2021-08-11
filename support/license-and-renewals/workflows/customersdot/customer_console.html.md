@@ -479,7 +479,7 @@ This function allows removal of the CC validation **only for sale supported tria
 
 #### Parameters
 
-This function requires an order object
+This function requires a namespace object
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
