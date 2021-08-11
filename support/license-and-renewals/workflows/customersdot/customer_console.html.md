@@ -473,9 +473,9 @@ irb(main):021:0> associate_full_user_count_with_group(order)
 
 > *Note*: consumption groups are those that have bought minutes for CI/CD but are not enrolled in a paid subscription.
 
-This function allows removal of the CC validation **only for sale supported trials and consumption users** to prevent having to enroll these users credit cards to use CI/CD.
+This function allows removal of the CC validation **only for sale supported trials or consumption groups** to prevent having to enroll these users credit cards to use CI/CD.
 
-**Warning**: Make sure you use this function *only* for the intended target. Otherwise you will lift of the restrictions to a wrong user.
+**Warning**: Make sure you use this function *only* for the intended target. Otherwise, you will lift of the restrictions to the wrong group.
 
 #### Parameters
 
@@ -484,7 +484,7 @@ This function requires an order object
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | Namespace to update |
-
+|`:consumption`|*No*|Consumption flag
 #### Sample
 
 ```ruby
