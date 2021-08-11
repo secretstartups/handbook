@@ -16,7 +16,6 @@ The GitLab Community Operations Manager is responsible for managing the [Communi
 - Maximize the Community Relations team's efficiency, productivity, and performance. 
 - Partner with all Program Managers on the Community Relations team to define, implement and refine KPIs/PIs to measure and report the success and effectiveness of their programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
 - Be the [Directly Responsible Individual (DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) for the Community Relations team's webpages on about.gitlab.com. 
-- Work with the pertinent teams to produce relevant, enticing, and up-to-date content for contributors.
 
 
 ### Requirements
