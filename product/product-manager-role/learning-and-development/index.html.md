@@ -234,18 +234,20 @@ This content is divided into five key competencies for Product Managers.
 - [Jake Knapp: Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 - [Ash Maurya: Running Lean: Iterate from Plan A to a Plan That Works](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 
-### 💡 Growth and experimentation 
+### 💡 Growth, Product-led Growth, and Experimentation 
 
 ##### Quick reads and videos
 
 - [Product Managers: It's Time to Move from Whole Product to Product-led Growth](https://expand.openviewpartners.com/product-managers-its-time-to-move-from-whole-product-to-product-based-go-to-market-304467093357#.1euz7drsb)
 - [10 Statistics Traps in A/B Testing: The Ultimate Guide for Optimizers](https://cxl.com/blog/testing-statistics-mistakes/)
 - [5 Common Threats to Your A/B Test’s Validity](https://instapage.com/blog/validating-ab-tests)
+- [Matching Price to Value: 3 Lessons in Monetization from Menlo Ventures](https://www.youtube.com/watch?v=hGUEDKaTFXw) (30 min video)
 
 ##### Deeper dive
 
 - [Product Led Growth Resources](https://openviewpartners.com/product-led-growth-resources/)
 - [GrowthHackers: Growth University](https://university.growthhackers.com/)
+- [Product-led Growth Collective](https://www.productled.org/)
 
 ##### Online courses 
 
@@ -253,6 +255,7 @@ This content is divided into five key competencies for Product Managers.
 
 ##### Books
 
+- [Product-Led Growth: How to Build a Product That Sells Itself](https://www.amazon.com/Product-Led-Growth-Build-Product-Itself-ebook/dp/B07P6288ZF/)
 - [Sean Ellis: Hacking Growth: How Today's Fastest-Growing Companies Drive Breakout Success](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X)
 - [Nir Eyal: Hooked: How to Build Habit-Forming Products](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788)
 - [Trusworthy Online Controlled Experiments](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
