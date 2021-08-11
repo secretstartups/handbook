@@ -471,7 +471,7 @@ irb(main):021:0> associate_full_user_count_with_group(order)
 ```
 ### Remove CC validation from sales supported trials and consumption users
 
-> *Note*: consumption users are user who bought minutes for CI/CD but are not enrolled in a payed subscription.
+> *Note*: consumption groups are those that have bought minutes for CI/CD but are not enrolled in a paid subscription.
 
 This function allows removal of the CC validation **only for sale supported trials and consumption users** to prevent having to enroll these users credit cards to use CI/CD.
 
