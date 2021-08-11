@@ -14,10 +14,6 @@ The purpose of this page is to document how a GitLab employee can:
 - Use a third-party open source code in a GitLab's project
 
 ## General notes
-
-- If you use your work email, this could help promote the company by showing that GitLab is giving back to the open source community reflecting our values of [Collaboration](/handbook/values/#collaboration) and [Transparency](/handbook/values/#transparency).
-
-TBD
 - Mention Intellectual Property /handbook/legal/gitlab-code-of-business-conduct-and-ethics/#intellectual-property-and-protecting-ip ?
 - [PIAA](/handbook/people-group/contracts-probation-periods/#piaa-proprietary-information-and-assignment-agreement) ?
 
@@ -25,24 +21,24 @@ TBD
 
 See [Creating a new project](/handbook/engineering/#creating-a-new-project) for the instructions.
 
-## Contributing to a third party project
+## Contributing to a third-party project
 
 ### Contributor License Agreements (CLAs)
 
-If you'll be contributing to an open source project on behalf of GitLab, you may be asked to sign an individual or corporate CLA. 
+If you're contributing to an open source project, you may be required to enter into a CLA; Legal approval is required before you enter into any CLA on behalf of GitLab.
 
-All CLAs require Legal review. We prefer to sign corporate CLAs whenever possible in order to track them more easily.
+If you have the choice between a Corporate and Individual CLAs, opt for the Corporate CLA.
 
-Here are the steps to follow for each kind of CLA you may be asked to sign: 
+Follow these steps to obtain legal approval and enter into a CLA on behalf of GitLab: 
 
-**Corporate CLAs:** 
- 1. Open an issue in the Legal team's project. 
- 1. Send the CLA to `cla_managers`[at] `gitlab.com`. If this is not possible, sign up using the `cla_managers` email.
+ 1. Open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) in the [Legal and Compliance Project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues).
+ 1. Apply the `Licensing` label to the issue.
+ 1. Include details of the project you are contributing to, and add the CLA for approval, either as an attachment or a hyperlink, to the issue.
+ 1. Legal will review the CLA, requesting additional information where necessary, and approve.
+ 1. If an email address and/or account is required to enter into the CLA, the `cla_managers`[at] `gitlab.com` email address should be used. Access to this Google Group can be requested and granted via the issue if required. 
+ 1. Once Legal have confirmed approval of the CLA in the issue, you can proceed to enter into the CLA (using the `cla_managers`[at] `gitlab.com` email if one is required) and begin contributing to the project.
 
-**Individual CLAs:**
- 1. Check with Legal on next steps by filing an issue in their project, or sending a message on the Slack `#legal` channel.
-
-We are continuing to develop our policy and workflow around CLAs on behalf of GitLab contributors. [See related issue here](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/general/-/issues/238). For any questions in the meantime, please post to the `#legal` Slack channel. 
+We are continuing to develop our policy and workflow around CLAs on behalf of GitLab contributors. [See related issue here](https://gitlab.com/gitlab-com/marketing/community-relations/opensource-program/general/-/issues/238). For any questions in the meantime, please post to the [#legal](https://gitlab.slack.com/app_redirect?channel=C78E74A6L) Slack channel. 
 
 ### Contributing to a project on GitLab
 
