@@ -50,7 +50,7 @@ The below table shares some key metrics, with our current SSoT source, filters t
 
 | Metric | Source | Notes |
 | --- | --- | --- |
-| SAOs by segment/region | DG Dash | Notes |
+| Linear SAOs by segment/region | DG Dash | Notes |
 | MQLs by segment/region | DG Dash | Notes |
 | Spend (planned/current) by segment/region | PMG | Notes |
 | Spend (past actuals) by segment/region | PMG | Notes |
@@ -58,6 +58,8 @@ The below table shares some key metrics, with our current SSoT source, filters t
 | Velocity by segment/region | DG Dash | Notes |
 | Cost-per by segment/region | DG Dash | [Jump to details on filters and calculation](/handbook/marketing/demand-generation/#cost-per) |
 | Pipeline coverage | [Pipeline X-Ray](https://docs.google.com/spreadsheets/d/1B4M60jehG4lfxoHgZeUCXRw9HUECFZarkKvFAvBwrR8/edit#gid=395575352) | Breaks out by segment and New FO/Growth |
+| SDR SAOs by segment/region | TD: Marketing Metrics Dash | Notes |
+| INQ > SAO conversion rate by segment | TD: Marketing Metrics Dash | Need to confirm if this is accurate by region |
 
 #### Cost-per by segment/region
 {: #cost-per}
