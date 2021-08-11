@@ -399,6 +399,7 @@ We have the following deadlines:
 - By month `M-1, 4th` (at least 14 days before milestone `m` begins):
   - Draft of the issues that will be included in the next release (released 22nd of next month).
   - Start capacity and technical discussions with engineering/UX.
+  - Assess error budgets to determine feature/reliability balance.
 - By month `M-1, 13th` (at least 5 days before milestone `m` begins):
   - Release scope is finalized. In-scope issues marked with milestone `m`; label `deliverable` applied.
   - Kickoff document is updated with relevant items to be included.
