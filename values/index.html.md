@@ -722,9 +722,18 @@ When planning an event, the organizer should cater for location density differen
 {:.no_toc}
 As a globally-dispersed company, we have team members from many different backgrounds and cultures. That means it is important for each of us to use great judgment in being respectful and inclusive of our teammates. At the same time, we may sometimes not fully realize we have said or done something to offend someone. It is important that our teammates hold each other accountable and let them know if they have unintentionally or intentionally done something so they can learn and gain additional understanding of perspectives different from our own. It is also important that our teammates don't feel excluded or minimized by the words we use or the things we do. Thus, we all need to speak up when we see something that isn't respectful or inclusive.
 
-##### Neurodiversity
+##### Embrace Neurodiversity
 {:.no_toc}
 [Neurodiversity](http://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/) is a type of diversity that includes: autism, ADHD, dyslexia, dyscalculia, dyspraxia, cognitive impairment, and other styles of neurodivergent functioning. While neurodivergent individuals often bring [unique skills and abilities](https://adhdatwork.add.org/potential-benefits-of-having-an-adhd-employee/) which can be harnessed for [competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage) in many fields including [cybersecurity](https://www.forbes.com/sites/samcurry/2019/05/13/neurodiversity-a-competitive-advantage-in-cybersecurity/), neurodivergent individuals are often discriminated against, and sometimes have trouble making it through traditional hiring processes. These individuals should be able to contribute as GitLab team members. The handbook, values, strategy, and interviewing process should never discriminate against the neurodivergent.
+
+At GitLab we embrace Neurodiversity through adopting a variety of different work styles and communication styles. Although we already lean into [transparency](https://about.gitlab.com/handbook/values/#transparency), asynchronous as a default working style, and pre-filled meeting agendas.  These behaviors become even more important when embracing neurodiversity. Providing multiple ways to consume information (written / video / audio) allows everyone to contribute independent of they preferred comprehension style. It is important to ask team members specifically what their preferred communication is in order to provide them information in the format that is easily consumable for them. 
+
+Remember, **brains work differently** and always [assume positive intent](https://about.gitlab.com/handbook/values/#assume-positive-intent) even if someone behaves in an unexpected way.  Although it is unexpected to you, it is not for the individual exhibiting this behavior. That is the beauty and value of diversity, embracing differences and becoming stronger and better as a result.
+
+We also support any team member who request a [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation).  A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and deadlines when given tasks or a variety of  supportive software tools.  
+
+The most important thing that managers can do is to provide all team members with the [psychological safety](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) to make requests for [whatever a neurodivergent team member needs](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.  
+
 
 ##### Family and friends first, work second
 {:.no_toc}
