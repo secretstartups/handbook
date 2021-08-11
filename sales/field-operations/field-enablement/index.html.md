@@ -162,21 +162,20 @@ Knowledge x Practice = Capability
 
 - **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
     - [David Somers](/company/team/#dcsomers)
-- **[Manager, Field Enablement Programs](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
+- **[Manager, Field Enablement](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
     - [Kris Reynolds](/company/team/#kreynolds1)
-- **[Program Managers: Enterprise Sales, Commercial Sales, and Technical Sales / Customer Success](/job-families/sales/program-manager-field-enablement/)**
-    - [Kris Reynolds](/company/team/#kreynolds1) (Customer Success Enablement)
+- **[Role-based Enablement Managers: Enterprise Sales, Commercial Sales, Customer Success, and Partners](/job-families/sales/program-manager-field-enablement/)**
+    - [Thabo Bopape](/company/team/#tbopape) (Solution Architect and Technical Enablement)
+    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Technical Account Manager Enablement)
+    - [Emelie Rodriguez](/company/team/#emelier) (Enterprise Sales Enablement)
     - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
-    - [Alvaro Warden](/company/team/#awarden) (Partner Enablement)
-    - TBH (Enterprise Sales Enablement)
-- **[Field Onboarding Program Manager](/job-families/sales/program-manager-field-enablement/)**
+    - TBH (Partner Enablement)
+- **[Program Manager, Sales Content & Messaging](/job-families/sales/program-manager-field-enablement/)**
     - [Tanuja Paruchuri](/company/team/#tparuchuri)
-- **[Sales Training Facilitator](/job-families/sales/sales-training-facilitator-field-enablement/)**
+- **[Program Manager, Field Onboarding and Continuous Education](/job-families/sales/sales-training-facilitator-field-enablement/)**
     - [John Blevins](/company/team/#jblevins608)
 - **[Field Communications Manager](/job-families/sales/field-communications/)**
     - [Monica Jacob](/company/team/#monicaj)
-- **[Technical Instructional Designer](/job-families/sales/technical-instructional-designer/)**
-    - [Issac Abbasi](/company/team/#iabbasi)
 
 </details>
 
