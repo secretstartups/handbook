@@ -60,11 +60,12 @@ in the team.
    should be evaluated (by the issue reporter or another stakeholder) to verify that it solves the original problem.
    - Once signed off, the issue can be closed.
 
-There are two more states an issue can be placed in:
+There are three more states an issue can be placed in:
 - `Workflow::Waiting`: Issues that are waiting from input from someone or are waiting on a dependency. These are
    issues that need input or progress from others before they can progress.
 - `Workflow::Blocked`: These issues are either blocked by another issue or by missing API endpoints. The People
 Ops Engineer always adds the reason why an issue is moved to blocked.
+- `Workflow::On Hold`: These issues are currently on hold by the requestor. It is still an important idea but there may not be capacity or resources to move the request forward.
 
 #### Triaging new tickets
 
@@ -75,6 +76,7 @@ set to having new tickets being triaged within 7 working days. Everyone in the P
 - check if we have any follow up questions for the creator, if we do, ping the author of the issue and ask them the questions, add the label `Workflow::Waiting`
 - determine the project labels (for example `~p-compensation-calculator`, `~p-assessment-tool`, etc)
 - determine the priority label (see [priorities](https://about.gitlab.com/handbook/people-group/engineering/#priorities))
+- determine the team label `request-PeopleOps`, `request-TalentAcq`, `request-PeopleSuccess`, `request-TotalRewards` etc)
 - determine if it is a new project `~PopsEng::New Project` or a bug `~PopsEng::Bug` or an addition to an existing project or integration `~PopsEng::Addition`
 - when we have all the information needed to start working on the ticket, label it with either `Workflow::Ready for Development` or `Workflow::Next Up`
 
