@@ -168,8 +168,8 @@ Feel free to make this your own and personalize it based on the specific message
 
 >  Hi, {NAME}, thank you for your interest in GitLab!
 It's an exciting time to be part of our team. We're one of the largest all-remote companies in the world, with team members in more than 65 countries.
-The best way to share your information with our talent acquisition team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), but first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
-You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/#gitlabs-outbound-talent-acquisition-model), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
+The best way to share your information with our talent acquisition team is to apply to a relevant role on our [careers page](/jobs/careers/). But first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
+You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
 I also recommend reading through our [company values](/handbook/values/) to understand how we work and interact as a team.
 GitLab is an incredibly unique place to work, and I'm happy to point you in the right direction if you have more questions.
 
