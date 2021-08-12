@@ -36,7 +36,7 @@ If you are setting this repo up for the first time please use one of the other s
 7. To connect to jupyter go to your web browser and copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
 8. Run through the notebook in the repo at /data-science/notebooks/templates/auth_example.ipynb to confirm that you have configured everything successfully. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
-#### Jupyter-local-conda (Full install) - Recommended
+#### Jupyter-local-conda (Full install): Recommended
 
 - **This install includes all libraries defined by the Pipfile, along with a complete install for Conda & supporting libraries.**
 
@@ -74,10 +74,15 @@ By default, the local install will use the data-science folder as the root direc
 1. Remove the # at the beginning of the line to allow the line to execute
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
-### Increasing Docker Memory Allocation
+#### Increasing Docker Memory Allocation
+- By default, docker will allocate 2GB of memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the docker memory allocation to avoid out-of-memory errors.
+1. Open Docker dashboard.
+1. Click on the gear icon in the upper right to show settings.
+1. Under "Resources" allocate additional memory to be used by Docker. 8GB is recommended but you may have to increase it futher if working with large datasets.
+1. Restart Docker. 
 
-### Setting Up Jupyter Extensions
-- The data-science contains comes with many useful Jupyter Lab extensions pre-installed, including git, variable inspector, collapsible headings, execute time, and system monitor. 
+#### Setting Up Jupyter Extensions
+- The data-science repo contains comes with many useful Jupyter Lab extensions pre-installed, including [git](https://github.com/jupyterlab/jupyterlab-git), [variable inspector](https://github.com/lckr/jupyterlab-variableInspector), [collapsible headings](https://github.com/aquirdTurtle/Collapsible_Headings), [execute time](https://github.com/deshaw/jupyterlab-execute-time), and [system monitor](https://github.com/jtpio/jupyterlab-system-monitor). 
 - To get the most out of these (and to avoid haing to configure them every time), create the following file: `/Users/{user}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
 - Within that file, paste the following and save: 
 ```
@@ -97,35 +102,27 @@ By default, the local install will use the data-science folder as the root direc
 ### Interesting libraries included
 
 #### Data/Model Analysis
-* ELI5: 
-    https://eli5.readthedocs.io/en/latest/overview.html#installation
-* QuickDA: 
-    https://pypi.org/project/quickda/
+* [ELI5](https://eli5.readthedocs.io/en/latest/overview.html#installation)
+* [QuickDA](https://pypi.org/project/quickda/)
   
 #### Visualisation tools: 
 
-* Plotly
-  https://plotly.com/python/
-* Seaborn 
-  https://seaborn.pydata.org/
+* [Plotly](https://plotly.com/python/)
+* [Seaborn](https://seaborn.pydata.org/)
 
 #### ML libraries
-* Slearn
-  https://scikit-learn.org/stable/index.html
-* Tensorflow
-  https://www.tensorflow.org/
-  https://www.tensorflow.org/api_docs/python/tf
-* Torch
-https://pytorch.org/
-* Py-earth https://contrib.scikit-learn.org/py-earth/content.html
-* Autots https://pypi.org/project/AutoTS/
-* lazypredidct (must be self-installed) https://pypi.org/project/lazypredict/
+* [SKlearn](https://scikit-learn.org/stable/index.html)
+* [Tensorflow](https://www.tensorflow.org/api_docs/python/tf)
+* [Torch](https://pytorch.org/)
+* [Py-earth](https://contrib.scikit-learn.org/py-earth/content.html) (linear and logistic regression) 
+* [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api) (time series)
+* [Autots](https://pypi.org/project/AutoTS/) (time series)
+* [lazypredidct](https://pypi.org/project/lazypredict/) (AutoML; must be self-installed) 
 
-##### Easy concurrency 
-* Modin (must be self-installed)
-https://modin.readthedocs.io/en/latest/#
-* Dask https://dask.org/
+#### Easy concurrency 
+* [Modin](https://modin.readthedocs.io/en/latest/#)
+* [Dask](https://dask.org/) (must be self-installed)
+
 
 #### GPU speedup
-* PlainML 
-https://github.com/plaidml/plaidml
+* [PlainML](https://github.com/plaidml/plaidml)
