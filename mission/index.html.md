@@ -30,8 +30,7 @@ Our Mission is on a 30 year [cadence](/company/cadence/#mission). Our [Vision](/
 
 ## Mission
 
-It is GitLab's mission to change all creative work from read-only to
-read-write so that **everyone can contribute**.
+It is GitLab's mission to make it so that **everyone can contribute**.
 
 When **everyone can contribute**, users become contributors and we greatly
 increase the rate of innovation.
