@@ -30,7 +30,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
-### Legal verbiage that should be included in all event contracts thoughout FY21
+### Legal verbiage that should be included in all event contracts thoughout FY22
 
 - This language is what we should be adding to supplier agreements (when agreeing on their template):
   - "Termination for Convenience. GitLab may terminate this Agreement, any SOW or Order, or all at any time, for no reason or for any reason, upon notice to Vendor. Upon receipt of notice of such termination, Vendor shall inform GitLab of the extent to which it has completed performance as of the date of the notice, and Vendor will collect and deliver to GitLab whatever Work Product then exists, if applicable. GitLab will pay Vendor for all Work acceptably performed through the date of notice of termination, provided that GitLab will not be obligated to pay any more than the payment that would have become due had Vendor completed and GitLab had accepted the Work. GitLab will have no further payment obligation in connection with any termination. Upon termination or expiration of this Agreement, Vendor shall return or destroy any GitLab Confidential Information and provide certification thereof."
@@ -527,7 +527,7 @@ The above planning list is not exhaustive - see planning issue template in field
 - The event DRI determines how many staffers we need at the event and is responsible for ensuring the staffers are all set to attend the event.
 - If the event is more enterprise-focused we try to send more marketing/sales. Regional Sales Managers in partnership with FM select team members based on who has the most potential contacts in the area or going to an event.
 - If the event is more user-focused we will lean towards sending more technical people to staff and fewer sales.
-- Suggestion for staffing: Field Marketing will evalute GitLabbers who live in the area that might be a good fit for the audience.
+- Suggestion for staffing: Field Marketing will evalute GitLab team members who live in the area that might be a good fit for the audience.
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
 - We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you would like to or would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
@@ -723,7 +723,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) rules
+- Record ownership will be assigned using the [Global Ownership](handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
