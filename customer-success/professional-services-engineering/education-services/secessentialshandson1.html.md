@@ -20,18 +20,17 @@ GitLab Security Scanning allows you to analyze your source code for known vulner
 5. Under Visibility Level, click the radio button for **Private**.
 
 ### Add a .gitlab-ci.yml File and 
-1. Start with an issue.  Click issues on the left hand menu.  Click the **New Issue** button
-2. In the Title type **create .gitlab-ci.yml**, leave all other details at their default and click the **Create Issue** button.
-3. Create a Merge Request from the Issuee.  Click the **Create Merge Request** button 
-4. Locate the new branch and click on it.
+1. Start with an issue.  Click Issues on the left hand menu.  Click **New Issue**. 
+2. In the Title type **create .gitlab-ci.yml** and **Create** the issue.  
+3. Create a Merge Request from the Issue.  Click **Create Merge Request**.  
+4. Locate the new branch and click on it 
 5. Navigate to the **New File** button and click on it.
 6. In the file name dialog box type **“*.gitlab-ci.yml”***
-7. In order to get started, open a new tab in your browser. We are going to Copy the text from the following [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-security-essentials/sast-demo-project/-/snippets/73) and paste it into your YAML file.
-8. Click the green **Commit Changes** button.
+7. In order to get started, open a new tab in your browser. We are going to Copy the text from the following [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-security-essentials/sast-demo-project/-/snippets/73) and paste it into `gitlab-ci.yml`.
+8. Click **Commit Changes**.
 9. Ensure your pipeline configuration is valid, and then move onto the next step.
-10. After the pipeline runs, click on the Merge Requests section on the left-hand navigation bar.
-11. Open your Merge Request and click **Mark as Ready** and then **Merge when pipeline succeeds** or **Merge** depending on where your pipeline is at.
-10. While your pipeline is running Click on .gitlab-ci.yml file.  Examine each of the stages and includes at the bottom.
+10. After the pipeline runs, Merge your Merge Request 
+10. While your pipeline is running Click on `.gitlab-ci.yml`.  Examine each of the stages and includes at the bottom.
 11. Click on the CI/CD button on the left hand side menu.  Examine each job and discuss 
 
 ### SUGGESTIONS?
