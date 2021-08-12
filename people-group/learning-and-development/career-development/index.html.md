@@ -115,6 +115,12 @@ The video below is an interivew with a GitLab team member who has used the Indiv
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ih0lMoKxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+##### IGP Live Learning
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment Skill of the Month. 
+
+<iframe width="560" height="315" src="addurl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Tracking your Accomplishments 
 
 Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
@@ -293,6 +299,9 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 - Career Development Interviews
 - Live Session: Having Career Conversations with Your Manager 
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - 2021-08-11 @ 6pm PT 
 
 #### Week 4 
 
@@ -300,3 +309,6 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 - Career Development Interviews
 - Live Session: Having Career Conversations with Your Team Members
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - 2021-08-11 @ 6pm PT 
