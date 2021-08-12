@@ -65,7 +65,7 @@ A lot of people love to share about their cultures! When in doubt, ask. Asking q
 ***Recognize that your beliefs are not absolute***. There are 195 countries in the world, 4,200 different religions, and 7.5 billion people; each one of us has a unique set of customs and culture, even if our cultural backgrounds are similar. Awareness that different beliefs exist is a critical step in practicing effective cross-cultural communication.
 
 #### Be Empathetic 
-Be empathetic towards others, their reactions, and their culture. There is often more then meets the eye, and it is important to remember that something “normal” to one person may not be normal to the other.
+Be empathetic towards others, their reactions, and their culture. There is often more than meets the eye, and it is important to remember that something “normal” to one person may not be normal to the other.
 
 #### Set Expectations
 Clearly set expectations around communication in order to establish and align on what works best for your team dynamic and the cultures within your team. Creating this awareness and alignment can help avoid misunderstandings and ensure cultural and personal backgrounds are respected. 
