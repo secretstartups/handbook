@@ -209,7 +209,7 @@ Functional leaders are responsible for updating the their objectives and KRs in 
 Each functional epic should appear under the relevant CEO epic. Naming conventions are captured in the chart below.
 
 <div class="panel panel-success">
-**This is the format for OKRs added as issues and pics.**
+**This is the format for OKRs added as issues and epics.**
 {: .panel-heading}
   <div class="panel-body">
 **1. [EPIC] Title: Objective as a sentence.**
