@@ -23,7 +23,7 @@ Your work mantra is to solve the problem, not the symptom.
 The Support Operations Manager is a
 [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-### What you can expect in a Support Operations Specilaist role at GitLab:
+### What you can expect in a Support Operations Specialist role at GitLab:
 
 As a Support Operations Manager you will:
 
