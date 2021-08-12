@@ -10,7 +10,7 @@ As a company, GitLab is dedicated to open source. Not only do we believe in it, 
 The purpose of this page is to document how a GitLab employee can:
 
 - Create an open source project on behalf of GitLab
-- Contribute to a third-party open source project
+- Contribute to a third-party open source project on behalf of GitLab
 - Use a third-party open source code in a GitLab's project
 
 ## General notes
@@ -21,11 +21,11 @@ The purpose of this page is to document how a GitLab employee can:
 
 See [Creating a new project](/handbook/engineering/#creating-a-new-project) for the instructions.
 
-## Contributing to a third-party project
+## Contributing to a third-party project on behalf of GitLab
 
 ### Contributor License Agreements (CLAs)
 
-If you're contributing to an open source project, you may be required to enter into a CLA; Legal approval is required before you enter into any CLA on behalf of GitLab.
+If you're contributing to an open source project on behalf of GitLab, you may be required to enter into a CLA. In accordance with the [Authorization Matrix Policy](https://about.gitlab.com/handbook/finance/authorization-matrix/#authorization-matrix-policy), Legal approval is required to you enter into a CLA on behalf of GitLab.
 
 If you have the choice between a Corporate and Individual CLAs, opt for the Corporate CLA.
 
