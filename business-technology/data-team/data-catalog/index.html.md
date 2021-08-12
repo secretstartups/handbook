@@ -83,7 +83,9 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 ## Metrics and Terms Index
 
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
-* ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr) 
+* ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
+* CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)
+* LTV: [_customer_ LifeTime Value](/handbook/sales/sales-term-glossary/#life-time-value-ltv)
 * [Namespace](https://docs.gitlab.com/ee/user/group/#namespaces)
 * NDR: [Net Dollar Retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
 * PQL: [Product Qualified Lead](/handbook/product/product-principles/#product-qualified-leads-pqls)
