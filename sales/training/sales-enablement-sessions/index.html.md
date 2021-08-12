@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Aug 12    |   Enablement on ServiceNow <> GitLab    |    Mike L.    |
 | Aug 19    |   Deal Review Panel Discussion   |  Alan G. & Aslihan K.       |
 | Aug 26    |   Digital Programs for non-TAM-assigned accounts    |   Michelle H.     |
 | Sep 2    |   Verify: Testing Category Vision & Positioning    |  James H.      |
@@ -45,6 +44,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-08-12    |   **[ServiceNow <> GitLab: Better Together](https://youtu.be/bUl1-mAmMY4)**    |    Public    |
 | 2021-08-05    |   **[Q3FY22 Channel Update](https://youtu.be/mwSnV5s_CsQ)**    |  Private    |
 | 2021-07-21  | **[Q2 FY22 Alliances Update: The Importance of Ecosystem Partners](https://youtu.be/lJfkkPeQtlI)** | Private |
 | 2021-07-08  | **[Q2 FY22 Product Update](https://youtu.be/_DC-Cdd-RNY)** | Public |
