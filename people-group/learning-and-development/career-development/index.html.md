@@ -119,7 +119,7 @@ The video below is an interivew with a GitLab team member who has used the Indiv
 
 The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
-<iframe width="560" height="315" src="addurl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJezH0ToqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Tracking your Accomplishments 
 
