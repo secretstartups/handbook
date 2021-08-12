@@ -39,7 +39,11 @@ As per Wikipedia, **MLOps** or **ML Ops** is a set of practices that aims to dep
 
 ![](image.png)
 
-Read more about it [here](https://en.wikipedia.org/wiki/MLOps)
+Read more about the topic area from the links below:
+
+  - [MLOps Wikipedia](https://en.wikipedia.org/wiki/MLOps)
+  - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+  - [Machine Learning Operations](https://ml-ops.org/)
  
 ## Exit Criteria 
 
