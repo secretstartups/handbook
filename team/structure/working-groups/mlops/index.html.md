@@ -31,7 +31,16 @@ This Working Group has the following goals:
 1. Determine how to distribute machine learning models on self-hosted instances
 1. Define a security/legal process for security-related ML models and pre-processing
 
+## Definitions
 
+### What is MLOps?
+
+As per Wikipedia, **MLOps** or **ML Ops** is a set of practices that aims to deploy and maintain machine learning models in production reliably and efficiently.
+
+![](image.png)
+
+Read more about it [here](https://en.wikipedia.org/wiki/MLOps)
+ 
 ## Exit Criteria 
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping concerns, and produce a standard framework for ongoing and future ML-related projects.
@@ -41,11 +50,7 @@ The charter of this working group is to bridge the gap between different teams t
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
 | Executive Sponsor     | Laurence Bierner      | Director, Security Engineering & Research       |
-| Facilitator           | Alex Groleau          | Interim Manager, Security Automation            |
-| Functional Lead       | Bartek Marnane        | VP of Incubation Engineering                    |
-| Functional Lead       | David DeSanto         | Senior Director, Product Management - Dev & Sec |
-| Functional Lead       | Wayne Haber           | Director Engineering, Growth & Fulfillment      |
-| Functional Lead       | Charl De Wit          | Security Manager, Trust & Safety                |
+| Facilitator           | Alex Groleau          | Security Automation Manager |
 | Member                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
 | Member                | Alexander Chueshev    | Senior Backend Engineer, Machine Learning       |
 | Member                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
