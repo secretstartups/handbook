@@ -1048,3 +1048,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-06-14 | 2021-06-25 | [Vincy Wilson](https://gitlab.com/vincywilson) | Quality Engineering Manager, Fulfillment, Growth & Sec | |
 | 2021-06-21 | 2021-07-02 | [Simon Liang](https://gitlab.com/sliang2) | Principal Internal Communications Manager | |
 | 2021-06-28 | 2021-07-30 | [Christine Lee](https://gitlab.com/christinelee) - Strategy and Operations Director | |
+| 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) - Manager, Technical Marketing | |
