@@ -15,4 +15,4 @@ The table below lists different rule ids and situations in which they can be con
 
 | Source Project | Origin  | CWE    | ID      | False Positive Reason   |
 | ---------- | ------- | ------ | ------- | ----------------------- |
-| [brakeman](https://gitlab.com/gitlab-org/security-products/analyzers/brakeman), [flawfinder](https://gitlab.com/gitlab-org/security-products/analyzers/flawfinder)  |  gosec  | 78     | G204   | only variables to which constant values are assigned are used as parameters; variables are sanitized before used as parameters  |
+| [brakeman](https://gitlab.com/gitlab-org/security-products/analyzers/brakeman), [flawfinder](https://gitlab.com/gitlab-org/security-products/analyzers/flawfinder), [php-security-audit](https://gitlab.com/gitlab-org/security-products/analyzers/phpcs-security-audit)  |  gosec  | 78     | G204   | only variables to which constant values are assigned are used as parameters; variables are sanitized before used as parameters  |
