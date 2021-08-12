@@ -469,7 +469,7 @@ irb(main):180:0> order = Order.find 0000
 irb(main):021:0> associate_full_user_count_with_group(order)
 => {:success=>true}
 ```
-### Remove CC validation from sales supported trials and consumption users
+### enable_ci_minutes
 
 > *Note*: consumption groups are those that have bought minutes for CI/CD but are not enrolled in a paid subscription.
 
@@ -484,7 +484,7 @@ This function requires a namespace object
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | Namespace to update |
-|`:consumption`|*No*|Consumption flag
+|`:consumption`|*No*|Consumption flag |
 #### Sample
 
 ```ruby
