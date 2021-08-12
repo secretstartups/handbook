@@ -59,6 +59,13 @@ The Field Enablement team's mission is to: *Design and deliver effective enablem
 
 <!-- blank line -->
 
+## Results 
+
+You can find a read-out of Field Enablement team results by quarter – including overall team achievements, progress against OKRs and program-specific key accomplishments and results – in the Field Enabelement Quarterly Read-Out decks below: 
+
+- [Q2-FY22 Field Enablement Results Readout](https://docs.google.com/presentation/d/1xVt4_1tl_8CgPNAexo4ycq5xWmb6nXEC7WUEBJv3oWw/edit#slide=id.g59bfc474c5_2_145)
+- [Q1-FY22 Field Enablement Results Readout](https://docs.google.com/presentation/d/1La-jKxkb6sId1iZCocX35n5z7cXYF0OcLp7pUzTSBjs/edit#slide=id.g59bfc474c5_2_145)
+
 ## Handbook-First Approach to GitLab Learning and Development Materials
 
 Chat between David Somers (Sr. Director, Field Enablement) and Sid Sijbrandij (CEO)
