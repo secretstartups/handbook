@@ -222,8 +222,8 @@ This content is divided into five key competencies for Product Managers.
 ##### Deeper dive
 
 - [Melissa Perri - Lean Product Management](https://vimeo.com/122742946) (42 min video)
+- [GitLab Remote Design Sprint guidelines](/handbook/engineering/ux/design-sprint/)
 - [How to Run Amazing Remote Design Sprints!](https://www.youtube.com/watch?v=IFHfsRNTGCM) (60 min video)
-- [Design Sprint Exercise Video Series](https://www.youtube.com/playlist?list=PLxk9zj3EDi0X5CgoFckoheIFAx-uT2i7j)
 
 ##### Online courses 
 
