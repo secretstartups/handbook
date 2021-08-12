@@ -129,7 +129,7 @@ Remember to say only things that help the customer and that maintain their confi
 - _I'm working on finding someone who has specific expertise in this area._
 - _I don't know the answer just yet, but I'm here for you and I will use all the resources at my disposal to get this resolved._
 
-If you are encounter a SaaS emergency at the weekend that you are unable to progress, then check if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available and is able to help.
+If you encounter a SaaS emergency at the weekend that you are unable to progress, then consider checking if the [CMOC engineer on call](https://gitlab.pagerduty.com/escalation_policies#PNH1Z1L) is available and is able to help you.
 
 If you are still stuck _and_ are having difficulty finding help, contact the [manager on-call](/handbook/support/on-call/#paging-the-on-call-manager) or initiate the [dev-escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html#escalation-process).
 
