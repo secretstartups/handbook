@@ -484,7 +484,8 @@ This function requires a namespace object
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | Namespace to update |
-|`:consumption`|*No*|Consumption flag |
+| `:consumption` | *No* | Consumption flag |
+
 #### Sample
 
 ```ruby
