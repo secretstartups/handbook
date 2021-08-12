@@ -4,7 +4,7 @@ title: "Product handbook updates"
 canonical_path: "/handbook/product/handbook-updates/"
 ---
 
-<% 
+<%
 # set the total number of releases to display. includes upcoming and past
 release_cnt = 12
 overviews = Hash.new { |hash, key| hash[key] = Hash.new(&hash.default_proc) }
@@ -20,9 +20,9 @@ overviews["13.9"] = <<-13_9
 
 <% cnt = 0 # do not modify this %>
 <% pdf_release_handbook["Product Operations,product handbook,prodops:release"].keys.sort_by {
-    |x|  
+    |x|
     x1, x2 = x.split(".")
-    x1.to_i * 10 + x2.to_i
+    x1.to_i * 100 + x2.to_i
    }.reverse.each do |release| %>
     <% next if pdf_release_handbook["Product Operations,product handbook,prodops:release"][release]["content"].blank? || (cnt >= release_cnt) %>
     <% cnt += 1 %>

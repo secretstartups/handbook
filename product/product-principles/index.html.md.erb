@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Product Principles
+description: "These are core principles we believe world class product organizations exhibit. The goal is to build a PM system that fosters and honors these principles, in a way that works for GitLab."
 ---
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -32,6 +33,8 @@ These are core principles we believe world class product organizations exhibit. 
     - Helpful resource: [Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_3?keywords=lean+startup&qid=1558392463&s=gateway&sr=8-3)
 1. **Be data driven.** Always have success metrics, track them, and try to move them in the right direction with our actions.
     - Helpful resource: [How to Measure Anything](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273/ref=sr_1_3?crid=34TJSQF3Z49AR&keywords=how+to+measure+anything&qid=1558392490&s=gateway&sprefix=how+to+measure+an%2Caps%2C167&sr=8-3)
+1. **Product-led growth.** Strive to build a delightful product and user experience that seamlessly acquires, activates, and retains customers in partnership with Marketing, Growth, Pricing, Fulfillment, and Sales.
+    - [Product-Led growth](https://www.productled.org/foundations/what-is-product-led-growth) does not mean _product-management-led growth_. However, following this principle product becomes a central piece in driving growth and is used for many activities that were traditionally outside of the product to provide a scalable approach.
 
 ## How we follow our Principles
 
@@ -468,7 +471,7 @@ graph TD;
     id6 --> id11(Protect - 28%)
 ```
 
-- The percentage here is defined as % of monthly active paid ultimate-tier self-managed instances that adopted that stage. The [data](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard?widget=11889000&udv=1341189) captured is a snapshot as of 2021-06-15.
+- The percentage here is defined as % of monthly active paid ultimate-tier self-managed instances that adopted that stage. The [data](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard?widget=12251348&udv=1326898) captured is a monthly snapshot.
 - The Golden Journey: The bolded path is the "Golden Journey" where we observe as the most common stages adopted by paid customers and serve as foundation to adopt other stages: it starts from Create, then goes to Verify and Release. If the Golden Journey is complete, all stages of GitLab are available for use. Our biggest opportunity is to improve Verify to Release adoption rate.
 
 Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.
@@ -627,7 +630,7 @@ With this in mind, below are some product guidelines to consider:
 - **Low level of shame still applies here**
     - When we start to integrate with another product, it's almost like opening a whole new Category of work. With this in mind, a friendly reminder that [low level of shame](/handbook/values/#low-level-of-shame) applies, just like it would anywhere else. The integration may not be very valuable _today_, but it's just a starting place, and we should use our first iteration to validate what belongs in the next one.
 - **Track the maturity of the integration**
-    - Like any other category of work, we should track the maturity of the integration somewhere that's visible. Consider adding your integration to the [Ecosystem Integrations direction page](/direction/ecosystem/integrations/), which contains a table that tracks our high-priority integrations and their maturity levels.
+    - Like any other category of work, we should track the maturity of the integration somewhere that's visible. Consider adding your integration to the [Ecosystem Integrations direction page](/create/direction/ecosystem/integrations/), which contains a table that tracks our high-priority integrations and their maturity levels.
 - **Respect security and permissions**
     - External applications may have security and permissions concerns that we don't have in our application. We should take careful consideration of these, since ignoring them could be potentially disastrous for our users. For example, if we ask a user for an administrative token with full access and then display content in our UI based on those privileges, we could potentially display sensitive data that shouldn't leave that application.
 - **Navigation**

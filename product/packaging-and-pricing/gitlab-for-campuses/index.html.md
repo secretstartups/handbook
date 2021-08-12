@@ -75,7 +75,7 @@ The GitLab for Campuses enterprise offering is available at the following tiers:
 The steps for building a GitLab for Campuses quote vary slightly from standard quotes. 
 
 1. Before building the quote, determine the proper tier based on the most recently published enrollment data provided by the insitution. 
-2. After creating the opportunity and a new quote following the steps in the [Sales Order Processing handbook page](/sales/field-operations/order-processing/)
+2. After creating the opportunity and a new quote following the steps in the [Sales Order Processing handbook page](/handbook/sales/field-operations/order-processing/)
   - On the `Select Billing Account page`choose the appropriate Quote Template - `01.21 New Order Form - EDU / 01.21 Amendment Order Form - EDU / 01.21 Renewal Order Form - EDU`. 
   - Proceed as usual until the  `Add base products`, and Click `Select Plan` on the relevant product. Scroll to the appropriate product SKU names from the table above. For example, `[EDU Enterprise-Small] SaaS - Ultimate (formerly Gold) - 1 Year`. 
   - Proceed as usual. 
@@ -87,7 +87,7 @@ The GitLab for Campuses Order form must be used for all GitLab for Campuses quot
 GitLab for Campuses can be sold through GitLab resellers. The specific language regarding the size of the institution from the GitLab for Campuses Order Form must be added to the Reseller Order Form.  
 
 ### GitLab for Campuses Agreeement
-The standard [GitLab Subscription Agreement](/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering. 
+The standard [GitLab Subscription Agreement](/handbook/legal/subscription-agreement/) is applicable to the GitLab for Campuses offering. 
 
 
 #### Definitions of Qualifying Education Institutions and Associated Entities

@@ -83,7 +83,7 @@ going to stay "no." We keep an open mind for improvements.
 
 ### Example: Customer needs support configuring a self-managed runner with a SaaS license or are looking for prescriptive advice for setting up GitLab 
 
-If you need support with a specific customer and your Technical account manager is unable configure what is being requested or you are being asked to provide very specific guidelines for use of GitLab, we suggest creating an issue using the [Product Support Request](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Support-Request.md), and following the steps suggested in the issue. 
+If you need support with a specific customer and your Technical account manager is unable to configure what is being requested or you are being asked to provide very specific guidelines for use of GitLab, we suggest creating an issue using the [Product Support Request](https://gitlab.com/gitlab-com/Product/-/blob/main/.gitlab/issue_templates/Product-Support-Request.md), and following the steps suggested in the issue. 
 
 To remain focused on [customer results](/handbook/values/#customer-results) and [efficiency](/handbook/values/#efficiency), we recommend setting a due date on the issue in 5 business days and assigning the issue to the Product Leader of the section for triage. 
 

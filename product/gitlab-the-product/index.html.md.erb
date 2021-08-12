@@ -116,44 +116,81 @@ Similar to Beta, but only available to selected users.
 
 #### Generally Available (GA)
 
-Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md) for GitLab.com, which means that it is:
+Passed the [Production Readiness Review](https://gitlab.com/gitlab-com/gl-infra/readiness/-/blob/master/.gitlab/issue_templates/production_readiness.md) for GitLab.com, which means that it is:
 
 - ready for production use at any scale
 - fully documented and [supported](https://about.gitlab.com/support/statement-of-support.html#starter-premium-and-ultimate-users)
 
-### Deprecating and removing features
+### Breaking changes, deprecations, and removing features
 
-Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our customers. As you move through the process, use the language `Deprecated` or `Removed` to specify the current state of the feature that is going to be or has been removed.
+A breaking change may occur when you intentionally plan to change or remove functionality. Breaking changes can sometimes result from the addition of new features. It is the responsibility of the PM and EM for a category to carefully consider the risk and impact of introducing a breaking change as they can cause severe disruption to customers.
+
+If you have determined that you are introducing a breaking change, you must notify the user community and customers. This means including a deprecation notice in the monthly release post as soon as possible and following the process outlined below for deprecations and removals.
+
+#### Examples of breaking changes
+
+- API Changed
+- Behavior Changed
+- Default Changed
+
+#### Deprecating and removing features
+
+Deprecating and removing a feature needs to follow a specific process because it is important that we minimize disruption for our customers. As you move through the process, use the language `deprecated` or `removed` to specify the current state of the feature that is going to be or has been removed.
+
+**Note** - some deprecations or removals do not result in a breaking change. So in your deprecation or removal notice, you need to be explicit about the following:
+
+- Does the deprecation or removal result in a breaking change?
+- If the deprecation or removal results in a breaking change, then what does it break? 
+- If the deprecation or removal results in a breaking change, what is the user's remediation? 
+
+**Note** - as you are aware, some deprecations or removals do not result in a breaking change. So in your deprecation or removal notice, you need to be explicit about the following:
+
+- Does the deprecation or removal result in a breaking change?
+- If the deprecation or removal results in a breaking change, then what does it break? 
+- If the deprecation or removal results in a breaking change, what is the user's remediation? 
 
 #### Definitions
-
-**Deprecation** is defined as:
-- May be removed at a specified point in the future
-- Still available with new installations, but documentation mentions deprecated state
-- No longer receives new features and active development, but still supported: critical bugs and regressions are fixed
-
-**Removal** is defined as:
-- No longer available in the latest version of the product
-- No longer supported 
 
 **Breaking change** is defined as:
 - Change in one part of a software system that causes a disruption to a customer's workflows or tasks
 - Requires action from customer to ensure continuity of function
 
+**Deprecation** is defined as:
+- Will be removed at a specified point in the future
+- Still available with new installations, works as is, but documentation mentions deprecated state
+- No longer receives new features and active development
+- Customer support is available but does not include proactive fixes or functionality enhancements
+- We provide fixes for critical bugs, security issues and regressions
+
+**Removal** is defined as:
+- No longer available in the latest version of the product
+- No longer supported 
+
 #### Process for deprecating and removing a feature
 
-**3 milestones before intended removal:**
+** At least 2 milestones before intended removal:**
 1. Identify if deprecating the feature creates a breaking change. If so, you will need to wait until a XX.0 release to remove it. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
-2. Begin announcing it as a deprecation in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations)
+2. Begin announcing it as a deprecation in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes)
 3. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings). 
 4. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
 4. Label the feature accordingly in documentation and the application
 5. Remove the feature from marketing pages
 
+**Important Notes**
+
+- The deprecation notice and the linked issue must have clear language describing the change and the impact to users.
+- It is the responsibility of the PM and EM for a category to carefully review the language in the linked issue for clarity.
++- Regardless of whether the Product Manager or Engineering Manager creates the initial deprecation epic/issue, they must @mention the following stable counterparts for their category on each deprecation epic/issue to keep them informed: Support, Customer Success, and Product Marketing.
+     - To make this easy and consistent, the [deprecations issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md) should be leveraged. 
+
 **Milestone of Removal:**
 
 1. Announce the final removal in the [Release Post](https://about.gitlab.com/handbook/marketing/blog/release-posts/#removals)
 2. Engage the support team to update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
+
+#### Video on deprecations and removals process
+
+- Watch this [video](https://youtu.be/ehT1xBajCRI) for an overview of GitLab's deprecations and removals policy and recent updates to it. It also includes an overview of the process from the Runner engineering team for managing deprecations and removals between major releases.
 
 ### Naming features
 
@@ -217,7 +254,7 @@ So, in the long term, we want our permission system to explicitly cover the next
 1. A manager. A role to keep a project running, add new team members etc.
 1. A higher development role to do code review, approve contributions, and other development related tasks.
 
-All the above can be achieved by iteratively improving existing roles and maybe [adding one more](https://gitlab.com/gitlab-org/gitlab/issues/21906).
+All the above can be achieved by iteratively improving existing roles.
 
 [Documentation on permissions](https://docs.gitlab.com/ee/user/permissions.html)
 
