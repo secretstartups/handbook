@@ -92,6 +92,8 @@ The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitla
 
 The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification:**
+
 #### Staff Analytics Engineer Responsibilities
 
 Responsibilites for the Staff Analytics Engineer extend the Senior Analytics Engineer job. In addition:
@@ -122,6 +124,8 @@ The Principal Analytics Engineer reports to the [Manager, Data](https://about.gi
 #### Principal Analytics Engineer Job Grade
 
 The Principal Analytics Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:**
 
 #### Principal Analytics Engineer Responsibilities
 
