@@ -111,8 +111,8 @@ As a result an interview can be canceled at any time even if the interviews are 
 
 To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-- Candidates will be invited to complete a technical assessment from our Recruiting team.
-- Qualified candidates will be invited to schedule a 30 minute screening call with our Recruiting team.
+- Candidates will complete a technical assessment when they apply. Sometimes this will be shared by our Talent Acquisiton team after an application is made.
+- Qualified candidates will be invited to schedule a 30 minute screening call with our Talent Acquisiton team.
 - Next, candidates will be invited to schedule a 45 minute first interview with the Hiring Manager for the team you are interviewing for. Once the interview is completed, there may be occasions where the interviewer believes you are a better match for another team we are hiring for. In this instance, we will ask you to meet another Hiring Manager as part of the process. 
 - Next, candidates will then be invited to schedule a 1 hour peer interview with two Engineers in the Quality department.
 - Next, candidates will then be invited to schedule a 1 hour technical interview with a Senior Software Engineer in Test. This will be booked for a date that is around 7-10 business days into the future. This is done in order to give them time to complete the asynchronous portion of the technical interview.  
