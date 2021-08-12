@@ -26,7 +26,7 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 * [TD: Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation)
 * [TD: Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel)
-* [Usage Data Upload](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
+* [Manual Usage Data Upload Process](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
 
 ### Finance
 
@@ -34,10 +34,28 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 ### Product
 
+#### Dashboards
+
 * [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
 * [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
-* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis)
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
+
+#### Analytics Projects
+
+* [2020-12 Product Analytics Offsite](https://docs.google.com/presentation/d/1y9iTbHBNSCoq26Wxb0MnGAP7vlcPdAG5Ehigsyr3Hpw/edit#slide=id.g29a70c6c35_0_68)
+* [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
+
+### Growth
+
+#### Dashboards
+
+* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis)
+
+#### Analytics Projects
+
+* [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
+* [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
+
 
 ### Customer Success
 
@@ -64,11 +82,16 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 ## Metrics and Terms Index
 
-* [ARR - Annual Recurring Revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
-* [ATR - Available To Renew](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr) 
-* [NDR - Net Dollar Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
-* [xMAU - x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
+* ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
+* ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr) 
+* [Namespace](https://docs.gitlab.com/ee/user/group/#namespaces)
+* NDR: [Net Dollar Retention](/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+* PQL: [Product Qualified Lead](/handbook/product/product-principles/#product-qualified-leads-pqls)
 * [Product Stage](/handbook/product/product-categories/#devops-stages)
+* SM: [Self-Managed aka Self-Hosted](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#why-you-probably-want-gitlab-saas)
+* UPA: [Ultimate Parent Account](/handbook/sales/sales-term-glossary/#additional-customer-definitions)
+* xMAU: [x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
+
 
 ### Legend
 
