@@ -24,8 +24,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
 | Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
-| Sep 1       |                |                |
-| Sep 15      |                |                |
+| Sep 1       |  [Reporting Options/ Metrics with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29)              |  Sameer K.              |
+| Sep 15      |   [Gitlab + DVC for Code and Data Version Control](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/139)             |    William A.            |
 | Oct 6      |                |                |
 | Oct 20       |                |                |
 
