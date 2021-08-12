@@ -381,9 +381,9 @@ Salesforce case management system to enable the transfer of certain cases (creat
 1. Enterprise West: Kira Savage
 1. Enterprise APAC: Meri Gil Galindo
 1. Public Sector: Jeny Bae
-1. Commercial Leadership: Tav Scott
-1. Commercial EMEA / APAC: Monika Deshmukh
-1. Commercial Amer: Jeny Bae
+1. Commercial (Mid-Market & SMB) Leadership: Tav Scott
+1. Commercial (Mid-Market & SMB) EMEA / APAC: Monika Deshmukh
+1. Commercial Amer (Mid-Market & SMB): Jeny Bae
 1. Escalations / Approvals: Lindsay Schoenfeld (DRI), James Harrison 
 
 **Notes on Case Behavior:**
