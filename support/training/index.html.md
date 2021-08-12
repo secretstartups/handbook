@@ -132,7 +132,7 @@ When this Area of Focus module is complete, let your manager know that you are r
 
 | Module | Duration | Description |
 | ------ | ------ | ------ |
-| [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
+| [License and Renewals](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Subscriptions%20License%20and%20Renewals.md) | 2 Weeks | Understand the basics to answer our product's License and Renewals related tickets |
 
 ## On-call rotations
 
