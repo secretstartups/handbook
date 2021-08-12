@@ -484,7 +484,7 @@ This function requires a namespace object
 | Name | Required | Details |
 | ------ | ------ | ------ |
 | `:namespace` | *Yes* | Namespace to update |
-| `:consumption` | *No* | Consumption flag |
+| `:consumption` | *No* | Consumption flag, use this to identify a consumption group, leave blank for sales assisted trial |
 
 #### Sample
 
