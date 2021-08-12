@@ -199,6 +199,7 @@ Exceptional community members may be able to participate, as well.
 | 2021-08-02 | 2021-08-06 | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager | [Tye Davis](https://gitlab.com/davistye) - Manager, Technical Marketing |
 | 2021-08-09 | 2021-08-13 | [Neil McCorrison](https://gitlab.com/nmccorrison), Frontend Enginnering Manager, Secure | [Nuritzi Sanchez](https://gitlab.com/nuritzi), Sr. Open Source Program Manager |
 | 2021-08-16 | 2021-08-20 | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager | [Neil McCorrison](https://gitlab.com/nmccorrison), Frontend Enginnering Manager, Secure |
+| 2021-08-23 | 2021-08-27 | UNAVAILABLE | UNAVAILABLE |
 | 2021-08-30 | 2021-09-03 | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
 | 2021-09-13 | 2021-09-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
