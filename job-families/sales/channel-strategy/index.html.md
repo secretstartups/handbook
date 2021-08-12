@@ -7,7 +7,7 @@ title: "Channel Strategy"
 
 ### Director, Channel Strategy
 
-The Director, Channel Strategy reports to
+The Director, Channel Strategy reports to the [VP, Global Channel](/job-families/sales/vp-of-global-channels/).
 
 #### Director, Channel Strategy Job Grade
 
@@ -52,11 +52,14 @@ The Director, Channel Strategy is a [grade 10](/handbook/total-rewards/compensat
 
 ## Performance Indicators
 
-*
+- % Revenue Partner Initiated
+- % Services Attached
+- Size of Partner Practices - skilled, certified consultants amd eliver resources
+- SMAU metrics acceleration by stage or # seats in named enterprise accounts 
 
 ## Career Ladder
 
-*
+* The next steps for the Director, Channel Strategy job family is yet to be defined.
 
 ## Hiring Process
 
