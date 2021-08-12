@@ -186,12 +186,20 @@ Please be aware that new team members' PTO by Roots accounts are activated and s
 
 ### Slack Commands
 * `/pto-roots ooo` Create an OOO event.
-* `/pto-roots me` View your OOO dashboard to edit, add or remove OOO events.
 * `/pto-roots whosout` See upcoming OOO for everyone in the channel where this command is used.
 * `/pto-roots @username`  Check if a particular person is OOO and if they are, see which of your co-workers are covering for them.
+* `/pto-roots @usergroup See upcomming OOO for everyone on the particualr user group.
 * `/pto-roots feedback` This is your direct line to support. At any time, use this command to report bugs or share your thoughts on how the product can be improved or what’s working well.
 * `/pto-roots help` A top-level look at PTO by Roots items that you may need help with, and how to receive help.
-* `/pto-roots settings` This is where you modify your profile and calendar settings. This is also where you opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+
+### Home Tab
+
+You can find the Home Tab by visiting `Apps` in the menu bar within Slack, and search for or select PTO by Roots.  From the Home Tab you  can do the follwoing.
+
+* View your OOO dashboard to edit, add or remove OOO events. 
+* Modify your profile and calendar settings. 
+* Opt-in and out-put for reminders, including monthly messages prompting you to consider what PTO you may take this month.
+
 
 ### PTO by Roots / BambooHR Time Off Sync
 
@@ -257,8 +265,8 @@ Especially in large channels and during popular vacation times, PTO's role remin
 
 You can bulk add holidays based on your region and then modify them manually if needed. Any Public Holidays added to PTO by Roots in your dashboard will not auto-set an OOO event for you, you will still need to create an OOO event if observing that holiday. To add a Public Holiday, follow the below instructions.
 
-* Type `/pto-roots me` in Slack
-* Choose `Holidays` from the `Upcoming OOO` dropdown menu
+* Visit `Apps` in the menu bar within Slack, and search for or select PTO by Roots
+* Choose `Holidays` from the dropdown menu
 * Choose the desired year
 * Click on `Bulk Add By Region`
 
