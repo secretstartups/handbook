@@ -16,7 +16,7 @@ description: "Guidance on interacting with SnowFlake internally using JupyterLab
 - Natively connected to Snowflake using your dbt credentials. No login required!
 - Git functionality: push and pull to Gitlab repos natively within JupyterLab ([requires ssh credentials](https://docs.gitlab.com/ee/ssh/index.html))
 - Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the docker container
-- Need a feature you use but don't see? Let us know and we can add it!
+- Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
 
 ### Getting Started 
 You have multiple options when setting up jupyter via the data-science repo. Choose from one of the following:
