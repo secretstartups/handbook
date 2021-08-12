@@ -49,9 +49,11 @@ The Junior Community Operations Manager is a [grade 5](/handbook/total-rewards/c
 
 #### Junior Community Operations Manager Responsibilities
 - Extends the Associate Community Operations Specialist responsibilities
+- Actively participate in the implementation of, and then lead the maintainance of the Automated Community Programs workflows. This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Community Relations, Product, Fulfillment, Sales Operations, and Customer Support.
 - Thrive at developing new ways.
 - Refine existing processes.
 - Enable teams to work more efficiently.
+
 
 #### Junior Community Operations Manager Requirements
 - 1-2 years of experience
@@ -65,9 +67,9 @@ The Community Operations Manager (Intermediate) is a [grade 6](/handbook/total-r
 #### Community Operations Manager (Intermediate) Responsibilities
 - Extends the Junior Community Operations Manager responsibilities.
 - Assist in developing common policies, processes and resources consistent across all community programs, with a handbook-first approach.
-- Assess new tools to more effectively serve the GitLab community and to contribute to growth.
-- Drive the design and implementation of all relevant community KPI dashboards.
-- Provide advice and implement proposals to increase website traffic for community-oriented content. Measure the impact in number of contributions and program memberships.
+- Manage existing tools and assess new tools to more effectively serve the GitLab community and to contribute to growth.
+- Partner with all Program Managers on the Community Relations team to measure and report the success of their programs.  In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
+- Establish quarterly budgeting processes. Maintain and lead a regular planning and reporting cadence for the Community Relations team.
 
 #### Community Operations Manager (Intermediate) Requirements
 - 3-5 years of experience.
@@ -123,8 +125,9 @@ The Associate Community Operations Specialist is a [grade 5](/handbook/total-rew
 * Manage the day-to-day renewal management, ensuring compliance with published sales and business approval policies
 * Understand, troubleshoot, and resolve program member’s needs via email
 * Create and update issues for program member’s needs and internal operations
-* Create or update handbook documentation based on community members needs
+* Create or update handbook documentation based on changes the applications workflow and community members needs
 * Manage, track, and report on all activities and results
+* Troubleshoot, document and strive to solve problems with existing systems, especially with regards to the Community Programs Applications Workflows 
 
 
 ### Requirements
