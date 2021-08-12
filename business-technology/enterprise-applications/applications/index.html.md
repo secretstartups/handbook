@@ -143,7 +143,6 @@ description: "Business Systems Lead to Fulfillment Documentation"
 </summary>
 
 - [Sales Systems](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name%5B%5D=SalesSystems)
-- [Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/1763801?&label_name[]=devops%3A%3Afulfillment)
 - [BTG Integrations: Finance projects](https://gitlab.com/groups/gitlab-com/-/boards/1780217?label_name%5B%5D=BTG%20Integrations)
 
 </details>
@@ -197,17 +196,6 @@ description: "Business Systems Lead to Fulfillment Documentation"
 
 - [walkthrough video of purchasing CI minutes](https://drive.google.com/drive/folders/1UxEVNgAkL2TwH8NOOmT4a6cFL_vqIZCH)
 
-##### rough drafts
-
-<details>
-<summary markdown='span'>
-  Notes to be turned into proper documentation
-</summary>
-
-- [WIP: Lucidchart diagram lead to fulfillment through systems](https://www.lucidchart.com/documents/edit/fe61ff48-c0e3-4f40-b2de-4023d48101d9/0_0)
-- [Slack convo around customer web store purchase system order of operations](https://docs.google.com/document/d/1tujf8SrpoTx-5ToFy33LIRk5VpfW03aQWDDeaUIJGsM/edit)
-- [Webstore and CustomersDot Changes - Reseller Deals](https://docs.google.com/document/d/1uDsOPtGhkrEhSDB8vhhX8VHbvsOlOj3RekK5sveVGgs/edit#heading=h.orzte2ssic3m)
-- [GitLab.com <> Customers <> Salesforce integration](https://docs.google.com/document/d/1Q3aL3DbfAsYfpG9r5y3KbxZ-4rk38e6FjYKzktnsZQo/edit)
 
 </details>
 
@@ -221,23 +209,23 @@ description: "Business Systems Lead to Fulfillment Documentation"
 
 ##### Sales-Assisted: New Subscription
 
+
 <div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/56f1f1b3-68f2-4609-a867-711f1fdaca15" id="tc-yhP~KqHYz"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="C2F3OR6HW3-s"></iframe></div>
 </div>
 
-##### renewals system flow
+##### WIP: Sales-Assisted: Renewal
 
-- includes cancellation flow
-- four tabs
-    - direct
-    - web direct SaaS (auto-renew = on vs off)
-    - web direct Self-managed (auto-renew = on vs off)
-    - future state: automated web direct
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/5845e3b1-d8fc-453c-984f-3c66b1dbea3d" id="4b-y4oHm3itk"></iframe></div>
 </div>
 
+##### Web Direct: New Subscription
+
+<div class="center">
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="L3F3X9UoOjBI"></iframe></div>
+</div>
 
 ##### Lead-to-Fulfillment System Architecture
 
