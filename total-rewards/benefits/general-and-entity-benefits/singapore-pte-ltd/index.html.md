@@ -14,7 +14,10 @@ description: "Discover GitLab's benefits for team members in Singapore"
 
 ## Medical
 
-GitLab offers [Supplementary Medical Insurance](https://drive.google.com/file/d/1HqsJmqg9qQj265aMIYDXmEca-gtnI4EB/view?usp=sharing) through AVIVA Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums for medical (Basic & Major), general practitioner, specialist practitioner, X-ray & Laboratory Test and dental coverage.
+GitLab offers Supplementary Medical Insurance through AVIVA Health Insurance which covers 100% of team member and eligible dependents (spouse & kids) contributions of premiums for the following plans:
+1. [MyBenefits Plus Group Basic Medical+Major](https://drive.google.com/file/d/19zTv4QLOMN-eZnKw266IkCo76pEzGMHv/view?usp=sharing)
+2. [MyBenefits Plus Group Outpatient (GP + SP)](https://drive.google.com/file/d/1F5DNdKShKGsd4TwAEgqIpyvcXULpWL3J/view?usp=sharing)
+3. [MyBenefits Plus Group Denticare](https://drive.google.com/file/d/18B1IYPSV6_id821swmUyqA9RhoPV8qMF/view?usp=sharing)
 
 ## Pension
 
@@ -22,7 +25,7 @@ GitLab does not plan to offer a supplementary private pension benefit at this ti
 
 ## Life Insurance and Disability
 
-GitLab offers company paid [Group Term Life and Group Personal Accident](https://drive.google.com/file/d/1HqsJmqg9qQj265aMIYDXmEca-gtnI4EB/view?usp=sharing) through AVIVA. This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
+GitLab offers company paid [Group Term Life](https://drive.google.com/file/d/1yffWuxwXD_GGzs2MCbA9xgAbgAb4JC3S/view?usp=sharing) and [Group Personal Accident](https://drive.google.com/file/d/1h2DrjLvlpC3nhwMCuUwvmyR3MXSDSnvG/view?usp=sharing) through AVIVA. This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
 ## GitLab Singapore Pte Ltd Parental Leave
 
