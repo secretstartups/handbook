@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "CI/CD Campaign"
-description: "Everything you need to know about the CI/CD campaign."
+title: "DevSecOps 2.0 Campaign"
+description: "Everything you need to know about the DevSecOps 2.0 campaign."
 twitter_image: '/images/tweets/handbook-marketing.png'
 ---
 
@@ -17,6 +17,8 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ### Business Objectives
 {: #business-objectives}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+1. Get Security DMs and Manager of App Dev to convert on our Security assets
+2. Help sales land Ultimate deals by highlighting the value of a single DevSecOps platform
 
 ### Campaign Visual
 {: #campaign-visual}
