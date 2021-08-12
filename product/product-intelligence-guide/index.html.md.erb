@@ -17,7 +17,7 @@ There are several stages and teams involved to go from collecting data to making
 | Stage | Description | DRI | Support Teams |
 | ----- | ----------- | --- | ------------- |
 | Privacy Settings | The implementation of our Privacy Policy including data classification, data access, and user settings to control what data is shared with GitLab. | Product Intelligence | Legal, Data |
-| Collection | <span class="colour" style="color:rgb(0, 0, 0)">The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and </span><span class="colour" style="color:rgb(17, 85, 204)"><u>[about.gitlab.com](http://about.gitlab.com/)</u></span><span class="colour" style="color:rgb(0, 0, 0)">. Our current tooling includes Snowplow, Usage Ping, and Google Analytics.</span> | Product Intelligence | Infrastructure |
+| Collection | <span class="colour" style="color:rgb(0, 0, 0)">The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and </span><span class="colour" style="color:rgb(17, 85, 204)"><u>[about.gitlab.com](http://about.gitlab.com/)</u></span><span class="colour" style="color:rgb(0, 0, 0)">. Our current tooling includes Snowplow, Service Ping, and Google Analytics.</span> | Product Intelligence | Infrastructure |
 | Extraction | The data extraction tools used to extract data from Product, Infrastructure, Enterprise Apps data sources. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Loading | The data loading tools used to extract data from Product, Infrastructure, Enterprise Apps data sources and to load them into our data warehouse. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Orchestration | The orchestration of extraction and loading tooling to move data from sources into the Enterprise Data Warehouse. Our current tooling includes Airflow. | Data |  |
@@ -40,7 +40,7 @@ The systems overview is a simplified diagram showing the interactions between Gi
 For Product Intelligence purposes, GitLab Inc has three major components:
 
 1. [Data Infrastructure](https://about.gitlab.com/handbook/business-ops/data-team/platform/infrastructure/): This contains everything managed by our data team including Sisense Dashboards for visualization, Snowflake for Data Warehousing, incoming data sources such as PostgreSQL Pipeline and S3 Bucket, and lastly our data collectors [GitLab.com's Snowplow Collector](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow/) and GitLab's Versions Application.
-1. GitLab.com: This is the production GitLab application which is made up of a Client and Server. On the Client or browser side, a Snowplow JS Tracker (Frontend) is used to track client-side events. On the Server or application side, a Snowplow Ruby Tracker (Backend) is used to track server-side events. The server also contains Usage Ping which leverages a PostgreSQL database and a Redis in-memory data store to report on usage data. Lastly, the server also contains System Logs which are generated from running the GitLab application.
+1. GitLab.com: This is the production GitLab application which is made up of a Client and Server. On the Client or browser side, a Snowplow JS Tracker (Frontend) is used to track client-side events. On the Server or application side, a Snowplow Ruby Tracker (Backend) is used to track server-side events. The server also contains Service Ping which leverages a PostgreSQL database and a Redis in-memory data store to report on usage data. Lastly, the server also contains System Logs which are generated from running the GitLab application.
 1. [Monitoring infrastructure](https://about.gitlab.com/handbook/engineering/monitoring/): This is the infrastructure used to ensure GitLab.com is operating smoothly. System Logs are sent from GitLab.com to our monitoring infrastructure and collected by a FluentD collector. From FluentD, logs are either sent to long term Google Cloud Services cold storage via Stackdriver, or, they are sent to our Elastic Cluster via Cloud Pub/Sub which can be explored in real-time using Kibana.
 
 ### Self-managed
@@ -52,7 +52,7 @@ For Product Intelligence purposes, self-managed instances have two major compone
 
 ### Differences between GitLab Inc and Self-managed
 
-As shown by the orange lines, on GitLab.com Snowplow JS, Snowplow Ruby, Usage Ping, and PostgreSQL database imports all flow into GitLab Inc's data infrastructure. However, on self-managed, only Usage Ping flows into GitLab Inc's data infrastructure.
+As shown by the orange lines, on GitLab.com Snowplow JS, Snowplow Ruby, Service Ping, and PostgreSQL database imports all flow into GitLab Inc's data infrastructure. However, on self-managed, only Service Ping flows into GitLab Inc's data infrastructure.
 
 As shown by the green lines, on GitLab.com system logs flow into GitLab Inc's monitoring infrastructure. On self-managed, there are no logs sent to GitLab Inc's monitoring infrastructure.
 
@@ -104,16 +104,16 @@ These are integrations your GitLab instance interacts with such as an [external 
 
 [Source file](https://docs.google.com/spreadsheets/d/1e8Afo41Ar8x3JxAXJF3nL83UxVZ3hPIyXdt243VnNuE/edit#gid=0)
 
-1. Plan-level reporting for Usage Ping Redis on SaaS for multi-tenant reporting
-1. Plan-level and Group-level reporting for Usage Ping Postgres on SaaS for multi-tenant reporting
-1. Usage Ping Snowplow on Self-Managed (using internal collector and database for moderate volume)
+1. Plan-level reporting for Service Ping Redis on SaaS for multi-tenant reporting
+1. Plan-level and Group-level reporting for Service Ping Postgres on SaaS for multi-tenant reporting
+1. Service Ping Snowplow on Self-Managed (using internal collector and database for moderate volume)
 1. Group-level, Project-level, User-level tracking for Snowplow on SaaS
-1. Usage Ping Snowplow on SaaS (using external collector and database for scaled up volume)
+1. Service Ping Snowplow on SaaS (using external collector and database for scaled up volume)
 
 We use three methods to gather product usage data:
 
 - [Snowplow](#snowplow)
-- [Usage Ping](#usage-ping)
+- [Service Ping](#service-ping)
 - [Database import](#database-import)
 
 ### Snowplow
@@ -129,11 +129,11 @@ events.
 
 For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html) guide.
 
-### Usage Ping
+### Service Ping
 
-Usage Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Usage Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
+Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Service Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
 
-For more details, read the [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/) guide.
+For more details, read the [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) guide.
 
 ### Database import
 
@@ -141,19 +141,19 @@ Database imports are full imports of data into GitLab's data warehouse. For GitL
 
 ### Reporting level
 
-Our reporting levels of aggregate or individual reporting varies by segment. For example, on Self-Managed Users, we can report at an aggregate user level using Usage Ping but not on an Individual user level.
+Our reporting levels of aggregate or individual reporting varies by segment. For example, on Self-Managed Users, we can report at an aggregate user level using Service Ping but not on an Individual user level.
 
 ### Reporting time period
 
-Our reporting time periods varies by segment. For example, on Self-Managed Users, we can report all time counts and 28 day counts in Usage Ping.
+Our reporting time periods varies by segment. For example, on Self-Managed Users, we can report all time counts and 28 day counts in Service Ping.
 
 ## Metrics Dictionary
 
-The Metrics Dictionary is a single source of truth for the metrics and events we collect for product usage data. The Metrics Dictionary lists all the metrics we collect in Usage Ping, why we're tracking them, and where they are tracked.
+The Metrics Dictionary is a single source of truth for the metrics and events we collect for product usage data. The Metrics Dictionary lists all the metrics we collect in Service Ping, why we're tracking them, and where they are tracked.
 
-The [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/metrics_dictionary.html) should be updated any time a new metric is implemented, updated, or removed.
+The [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html) should be updated any time a new metric is implemented, updated, or removed.
 
-We're currently focusing our Metrics Dictionary on [Usage Ping](https://docs.gitlab.com/ee/development/usage_ping.html). In the future, we will also include [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html). We currently have an initiative across the entire product organization to complete the [Metrics Dictionary for Usage Ping](https://gitlab.com/groups/gitlab-org/-/epics/5425).
+We're currently focusing our Metrics Dictionary on [Service Ping](https://docs.gitlab.com/ee/development/service_ping.html). In the future, we will also include [Snowplow](https://docs.gitlab.com/ee/development/snowplow/index.html). We currently have an initiative across the entire product organization to complete the [Metrics Dictionary for Service Ping](https://gitlab.com/groups/gitlab-org/-/epics/5425).
 
 ## Implementing Product Performance Indicators
 
@@ -168,7 +168,7 @@ To accomplish these OKRs, we setup a seven step process to implement product met
 | --------------------- | ----------- | -------------- | ------------- |
 | [Definition](#definition) | The definition step outlines the process for deciding which product metrics to track. | PM Responsibility, Product Intelligence Support | Metric is defined in the Event Dictionary and [in the Performance Indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators) with the future `metric_name`. Issue for instrumentation is completed and scheduled for the current release. |
 | [Instrumentation](#instrumentation) | The instrumentation step outlines how each product team implements data collection. | PM Responsibility, Product Intelligence Support | Instrumentation is completed and feature flags are turned off so that data can be collected |
-| [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Intelligence Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product-intelligence/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed usage ping implementation, check the #g_product_intelligence slack channel for the latest SaaS Usage Ping Payload. |
+| [Data Availability](#data-availability) | The data availability step outlines the timing of a product release to receiving product usage data in the data warehouse. | PM Responsibility, Product Intelligence Support | PM confirms that the `metric_name` is present in the data set, updates the PI file with a cc to `@gitlab-org/growth/product-intelligence/engineers @gitlab-data` to inform them that the metric is available. For example, for self-managed service ping implementation, check the #g_product_intelligence slack channel for the latest SaaS Service Ping Payload. |
 | [Dashboard](#dashboard) | The dashboarding step outlines how Sisense dashboards are built. | PM Responsibility, Product Intelligence Support | There is a chart in Sisense. |
 | [Handbook](#handbook) | The [Product PI handbook page](/handbook/product/performance-indicators/#how-to-work-with-pages-like-this) describes how product performance indicators are added for each product section, stage, and group. | PM Responsibility, Product Intelligence Support | Chart is embedded into the handbook. Target has been assigned based off the data. |
 | [Target](#target) | The target definition step outlines how targets are defined for each performance indicator. | PM Responsibility, Product Intelligence Support | The target value is in both the chart and in the Performance Indicator (PI) file. |
@@ -186,11 +186,11 @@ Determine what metrics are important for your specific section, stage, or group.
     1. Group level - GMAU, Paid GMAU, Other PI
 1. Define the metric. This is typically done by selecting an initial AMAU that is most representative of overall stage/group use
 1. Determine the right [collection framework](/direction/product-intelligence-guide/#collection-framework) to utilize. Some guidance for considering collection frameworks:
-    - **Usage Ping - General** - There are many frameworks that report via Usage Ping. All of them have various capabilities regarding types of events and available segementation. All Usage Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
-    - **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Usage Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
-    - **Usage Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
-    - **Usage Ping - Postgres** - Our original Usage Ping implementation this collects distinct database counts.
-    - **Usage Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
+    - **Service Ping - General** - There are many frameworks that report via Service Ping. All of them have various capabilities regarding types of events and available segementation. All Service Ping collection frameworks have a frequency of monthly for self-managed usage and every-other-week for SaaS usage.
+    - **Snowplow** - Investment in instrumentation should be discouraged - there is already great URL and path tracking from SnowPlow for Gitlab.com. If additional tracking is needed on front-end events consider utilizing Service Ping Redis HLL. Snowplow instrumentation becomes immediately available on GitLab.com only.
+    - **Service Ping - Redis HLL** - Redis HLL can track distinct counts, typically in front-end metrics on both the client (Javascript) and server (Ruby) side. Redis HLL does not provide session level segmentation on GitLab.com. As Usage Ping instrumentation it is returned from both SaaS and Self-Managed.
+    - **Service Ping - Postgres** - Our original Service Ping implementation this collects distinct database counts.
+    - **Service Ping - Prometheus** - Note there is no future plan to increase the segmentation of this collection framework and it is presently limited to Instance wide metrics.
 1. Plan your future events and metrics with your engineering team and add them to the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485).
 1. Add the value from column A of the [Event Dictionary](https://docs.google.com/spreadsheets/d/1VzE8R72Px_Y_LlE3Z05LxUlG_dumWe3vl-HeUo70TPw/edit#gid=618391485) to the [Performance Indicator (PI) yaml file as the `metric_name`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/performance_indicators)
 
@@ -206,22 +206,22 @@ Note: We now enable you to deduplicate aggregated metrics implemented via Redis 
 
 ### 2. Instrumentation
 
-Work with your engineering team to instrument tracking for your XMAU. Focus on using Usage Ping as your metrics will be available on both SaaS and self-managed.
+Work with your engineering team to instrument tracking for your XMAU. Focus on using Service Ping as your metrics will be available on both SaaS and self-managed.
 
-The [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/) outlines the steps required for instrumentation. It includes:
+The [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/) outlines the steps required for instrumentation. It includes:
 
-- [What is Usage Ping?](https://docs.gitlab.com/ee/development/usage_ping/#what-is-usage-ping)
-- [How Usage Ping works](https://docs.gitlab.com/ee/development/usage_ping/#how-usage-ping-works)
-- [Implementing Usage Ping](https://docs.gitlab.com/ee/development/usage_ping/#implementing-usage-ping)
-- [Developing and Testing Usage Ping](https://docs.gitlab.com/ee/development/usage_pin/#developing-and-testing-usage-ping)
-- [Example Payload](https://docs.gitlab.com/ee/development/usage_ping/#example-usage-ping-payload)
+- [What is Service Ping?](https://docs.gitlab.com/ee/development/service_ping/#what-is-usage-ping)
+- [How Service Ping works](https://docs.gitlab.com/ee/development/service_ping/#how-usage-ping-works)
+- [Implementing Service Ping](https://docs.gitlab.com/ee/development/service_ping/#implementing-usage-ping)
+- [Developing and Testing Service Ping](https://docs.gitlab.com/ee/development/service_pind/#developing-and-testing-service-ping)
+- [Example Payload](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload)
 
 Also see the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html).
 
 **Instructions:**
 
 1. Read the docs and work with your engineers on instrumentation.
-1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review) in your MR.
+1. Ask for a [Product Intelligence Review](https://docs.gitlab.com/ee/development/service_ping/#9-ask-for-a-product-intelligence-review) in your MR.
 
 ### 3. Data Availability
 
@@ -230,8 +230,8 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 **Timeline:**
 
 1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
-1. Wait one week for customers to upgrade to the new release and for a Usage Ping to be generated (+7 days)
-1. Usage Pings are collected in the Versions application. The Versions application's database is automatically imported into the Snowflake Data Warehouse every day (+1 day).
+1. Wait one week for customers to upgrade to the new release and for a Service Ping to be generated (+7 days)
+1. Service Pings are collected in the Versions application. The Versions application's database is automatically imported into the Snowflake Data Warehouse every day (+1 day).
 
 In total, plan for up to 38 day cycle times (Examples [1](https://gitlab.com/gitlab-data/analytics/-/issues/5629#note_389671640), [2](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/31785#note_392882428)). Cycle times are slow with monthly releases and weekly pings, so, implement your metrics early.
 
@@ -252,7 +252,7 @@ We need PMs to self-serve their own dashboards as data team capacity is limited.
 
 To learn how to create your own dashboard, see [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
 
-To update the SMAU Summary Dashboards: [GitLab.com Postgres SMAU Dashboard (SaaS)](https://app.periscopedata.com/app/gitlab/604621/GitLab.com-Postgres-SMAU) and [Usage Ping SMAU Dashboard (SaaS + Self-Managed)](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard), please open a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues).
+To update the SMAU Summary Dashboards: [GitLab.com Postgres SMAU Dashboard (SaaS)](https://app.periscopedata.com/app/gitlab/604621/GitLab.com-Postgres-SMAU) and [Service Ping SMAU Dashboard (SaaS + Self-Managed)](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard), please open a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues).
 
 **Dashboard Prioritization**
 
@@ -312,15 +312,41 @@ All of the prior steps have been completed and a PI is successfully implemented.
 1. Line up your roadmap priorities to positively influence the adoption funnel, drive the performance metric, and hit the growth targets.
 1. Deeply understand the drivers of your metric through customer interviews and other product usage data. Visualize this through a user adoption funnel that describes how users enjoy the value of the particular product area you are measuring.
 
+## Past Promises with Product Usage Data
+
+Over the past few years GitLab has made commitments to our community around the collection, processing, and use of analytics data. This page summarizes those promises and provides guidance to team members working on projects that involve the collection of analytics data from our customers. 
+
+### Definition of Analytics Data
+
+Product Analytics Data can be too generic of a term. The list below are the specific types of Product data that is in scope: 
+
+* Service Ping - aggregate counts of product usage from a GitLab instance
+* [Snowplow](https://snowplowanalytics.com/) Events - dynamic events collected from either a client or server.
+* Database events - using Database records from gitlab.com to measure and understand usage
+
+## Collection of events, blog posts and customer/community communication
+
+* [Update on Free Software and Telemetry](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/)
+* [Product Usage Tracking Issue](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/5672)
+
+## Promises
+
+
+* GitLab will commit to not implementing telemetry in our products that sends usage data to a third-party product analytics service ([source](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/))
+* GitLab will proactively involve the community on any changes to collection and configuration of Product Analytics data ([source](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/))
+* GitLab will only add free javascript (as in [freedom](https://www.gnu.org/philosophy/free-sw.html)) to it's core product. ([source](https://mikegerwitz.com/2016/01/google-analytics-removed-from-gitlabcom-instance)] 
+
+
 ## Quick Links
 
 | Resource | Description |
 | -------- | ----------- |
 | [Product Intelligence Guide](/handbook/product/product-intelligence-guide) | A guide to Product Intelligence |
-| [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/) | An implementation guide for Usage Ping |
+| [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/) | An implementation guide for Service Ping |
 | [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html) | An implementation guide for Snowplow |
 | [Event Dictionary](/handbook/product/product-intelligence-guide#metrics-dictionary) | A SSoT for all collected metrics and events |
 | [Privacy Policy](/privacy/) | Our privacy policy outlining what data we collect and how we handle it |
 | [Implementing Product Performance Indicators](/handbook/product/product-intelligence-guide#implementing-product-performance-indicators) | The workflow for putting product performance indicators in place |
 | [Product Intelligence Direction](/direction/product-intelligence/) | The roadmap for Product Intelligence at GitLab |
 | [Product Intelligence Development Process](/handbook/engineering/development/growth/product-intelligence/) | The development process for the Product Intelligence groups |
+
