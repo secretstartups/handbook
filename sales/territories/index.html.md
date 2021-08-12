@@ -203,10 +203,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-West-Named-1	|	Christopher Chiappe	| Rachel Hill | 
 |	NA East	|	US East	|	MM-AMER-West-Named-2	|	Kyla Gradin	| Rachel Hill |
 |	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	| Rachel Hill |
-|	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	| Virginia Reib |
-|	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	| Virginia Reib |
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Kaley Johnson	| Virginia Reib |
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Nick Kalina	| Virginia Reib |
 |	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	| Virginia Reib |
-|	NA East	|	US East	|	MM-AMER-EAST-MidAtlantic	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	| Virginia Reib |
