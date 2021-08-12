@@ -29,7 +29,41 @@ Add notes here
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
-Add notes here
+### UTM Values
+{: #utm-values .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/digital-advertising/-/issues/498#note_571907936)):
+* Make all values lowercase, all the time - every time.
+   - Why: Some platforms are case sensitive and others are not, and it's frankly just an easy thing to mess up when using builders, tools, etc. Some tools will automatically make something lowercase and then it messes something up because it's not the way you were expecting, or vice versa. Is an easy variable to eliminate.
+* No spaces. So, if more than one word, using a hyphen.
+   - Why: Spaces can be filled in with other characters when pulling from raw url and is just an easy/messy thing to avoid.
+
+
+#### Medium
+{: #utm-medium .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+
+#### Source
+{: #utm-source .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+Values:
+* 
+* 
+* 
+* 
+
+#### Campaign
+{: #utm-campaign .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+
+#### Content
+{: #utm-content .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
