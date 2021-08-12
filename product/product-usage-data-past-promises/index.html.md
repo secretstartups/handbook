@@ -25,3 +25,4 @@ Analytics Data can be too generic of a term. The list below are the specific typ
 
 * GitLab will commit to not implementing telemetry in our products that sends usage data to a third-party product analytics service ([source](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/))
 * GitLab will proactively involve the community on any changes to collection and configuration of Product Analytics data ([source](https://about.gitlab.com/blog/2019/10/10/update-free-software-and-telemetry/))
+* GitLab will only add free javascript (as in [freedom](https://www.gnu.org/philosophy/free-sw.html)) to it's core product. ([source](https://mikegerwitz.com/2016/01/google-analytics-removed-from-gitlabcom-instance)] 
