@@ -29,6 +29,8 @@ Add notes here
 {: #utm-builder .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
+**[UTM builder googlesheet with formulas](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=1052439774)**
+
 ### UTM Values
 {: #utm-values .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
