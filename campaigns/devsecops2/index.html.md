@@ -141,7 +141,7 @@ Recent software supply chain attacks are raising awareness of the need for great
 {: #keyword-research .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See the DevSecOps 2.0 keyword research doc >>]()**
+**[See the DevSecOps 2.0 keyword research doc >>](https://docs.google.com/spreadsheets/d/1yaozMlR3SpxfX1_rMVWEhJTfMgT5sXwpkfXO9WOwSck/edit#gid=0)**
 
 ### Polished Messaging
 {: #polished-messaging .gitlab-purple}
@@ -237,7 +237,7 @@ Recent software supply chain attacks are raising awareness of the need for great
 #### Campaign Execution Documentation & Resources
 {: #campaign-execution .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-* [Campaign Epic]()
-* [Project timeline plan]()
+* [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2201)
+* [Project timeline plan](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=1019466600)
 * [Copy Doc]()
 * [Art Work]()
