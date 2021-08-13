@@ -31,6 +31,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 
 ### TAM Responsibilities
 
+- [TAM Onboarding](/handbook/customer-success/tam/tam-onboarding/)
 - [Using Gainsight](/handbook/customer-success/tam/gainsight/)
 - [TAM Responsibilities and Services](/handbook/customer-success/tam/services/)
 - [TAM and Product Interaction](/handbook/customer-success/tam/product/)
