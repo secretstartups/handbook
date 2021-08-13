@@ -4,10 +4,10 @@ title: "Dogfooding GitLab Releases"
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
-- TOC {:toc .hidden-md .hidden-lg}
+- TOC
+{:toc .hidden-md .hidden-lg}
 
 ### Dogfooding GitLab Releases
 
@@ -25,7 +25,7 @@ Before we began dogfooding our releases feature, we published releases to
 process, we replaced the content of this page with a link to the [GitLab
 project's releases page](https://gitlab.com/gitlab-org/gitlab/-/releases).
 
-#### How does this process work?
+### How does this process work?
 
 At a high level, the automated release creation process works like this:
 
