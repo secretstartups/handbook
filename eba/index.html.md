@@ -23,7 +23,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
 * Jaclyn Grant (Sr. EBA) supporting Brian Robins(CFO) and Finance Leadership: Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 * Trevor Knudsen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success)
-* Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), Johnathan Hunt (VP of Security), Anoop Dawar (VP of Product Management), David DeSanto (Sr. Director of Product Management, Dec & Sec)
+* Kristie Thomas (EBA) supporting Scott Williamson (CProdO),Eric Johnson (CTO), Johnathan Hunt (VP of Security) & Anoop Dawar (VP of Product Management)
 
 ### All-Directs EBA's 
 * Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
