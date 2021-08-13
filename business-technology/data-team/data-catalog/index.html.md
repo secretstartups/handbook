@@ -64,8 +64,10 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 ## Metrics and Terms Index
 
-* [ARR](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
-* [XMAU](/handbook/product/performance-indicators/#structure/)
+* [ARR - Annual Recurring Revenue](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/)
+* [ATR - Available To Renew](https://about.gitlab.com/handbook/sales/sales-term-glossary/#available-to-renew-atr) 
+* [NDR - Net Dollar Retention](https://about.gitlab.com/handbook/customer-success/vision/#retention-gross--net-dollar-weighted)
+* [xMAU - x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
 * [Product Stage](/handbook/product/product-categories/#devops-stages)
 
 ### Legend

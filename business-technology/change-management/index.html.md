@@ -11,7 +11,9 @@ description: "Business Technology Change Management"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Business Technology Change Management
+# Business Technology Change Management
+
+## Purpose
 
 Business Technology Change Management covers changes to System settings in addition to Process and Policy changes. The Business Technology Change Management (CM) process at GitLab provides a framework for the thorough documentation, testing, and evaluation of proposed changes to the Business Technology systems. The CM process mitigates risk to production applications that could threaten the stability, resiliency, security, data availability, integrity, and regulatory compliance.
 
@@ -25,7 +27,7 @@ For additional information regarding Change Management, refer to our [Change Man
 
 **A Business Technology change request is only needed when a change is being requested for review for applications already listed in our tech stack.**
 
-## Why Change Management is important
+### Why Change Management is important
 
 There are many benefits from effective change management.
 
@@ -46,12 +48,12 @@ There are many benefits from effective change management.
 
 **Note** This would be the final stage of scope. As the first iteration, we will need to scope this down more and implement phases to the scope.
 
-#### Criteria
+### Criteria
 
 Change Management process covers changes to systems across the Business Applications.
 
 * All changes to BT Systems
-* Includes requests for program changes, system changes, and maintenance, and administration access
+* Includes requests for program changes, system changes, system maintenance, and administration access
 * Changes to data and data structures
 * Controls provide reasonable assurance that system changes do not affect financial reporting
 
@@ -65,42 +67,60 @@ A few examples are listed below. These examples are not meant to be all encompas
 * Other production systems like our enterprise data warehouse and integrations
 * Implementing a new system policy for user access
 
-## Change Request Types
+## Roles and Responsibilities
+
+| Role | Responsibility |
+| ------ | ------ |
+| **IT Compliance Team** | Maintain a mechanism to intake and respond to Change Management Activities |
+| | Provide complete and accurate responses within documented SLA |
+| | Document and report any risks or trends identified during Change Management Activities |
+| | Maintain Metrics |
+| **Business Requestor** | Complete the Change Management issue |
+| | Work with the Technical Owner to document, test, and obtain approval(s) for change |
+| **Technical Owner** | Work with the Business Requestor to ensure requested change is documented, tested, and approval(s) have been completed |
+| | Ensure Peer Review is completed prior to obtaining Business Approval |
+| **Peer Review** | Review and ensure requested change has been documented and there are no undocumented downstream impacts |
+| **Business Owner** | Review and provide approval prior to change being implemented |
+
+### Change Request Types
 
 **Standard**
 
 A **standard change** is a pre-authorized change that is low risk, relatively common and follows a specified procedure or work instruction.
 * A standard change is one that is frequently implemented, has repeatable implementation steps, and has a proven history of success.
-* Standard changes have to go through the change management process and can be executed in scheduled windows without CAB approval.
-* **They require a peer review and Team Member Enablement Management approval.**
+* Standard changes have to go through the change management process.
+* **They require a peer review and Impacted Team(s) Management approval.**
+  * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Comprehensive**
 
 A **comprehensive change** is *high risk, high impact,* or has a *more complex procedure.*
 * All changes to **financially significant applications** also are considered comprehensive due to the type of systems that they affect and the potential impact that could occur if there is an issue.
 * **Infrastructure changes** are also considered comprehensive.
-* **CAB approval must also be obtained** in order to proceed with implementation of a comprehensive change.
+* **They require peer review, Impacted Team(s) Management approval, Business Owner Approval, and Head of IT Approval.**
+  * **Manager** - prior to approving the change request, please ensure that the correct change request template is being used.
 
 **Emergency**
 
 An **emergency change** follows the same approval process as comprehensive.
 * It can be entered for approval after the change has been implemented in production.
 * Emergency changes are intended to be used only where there is an immediate critical need to correct an operational or security issue that is preventing users from working or transactions to not be processed or processed incorrectly.
-* Emergency changes are discussed at the next scheduled CAB meeting.
+* **They require review and all approvals after the change has been implemented.**
 
-
-## Approval Matrix
+### Approval Matrix
 
 |	**Approval Type**	|	**Description**	|	**Standard**	|	**Comprehensive**	|	**Emergency**
 |	-----	|	-----	|	-----	|	-----	|	-----
 |	**Peer Review**	|	Peer Reviews are performed by a peer of the change Requestor or Developer and are intended to identify any potential issues with the planned change or change process. **Note:** The peer review process was established to mitigate the risk of the lack of segregation of duties between developer and implementer. The review provides comfort that changes to the production environment are valid.	|	Yes	|	Yes	|	Yes
-|	**IT Management**	|	Approval by Management that is responsible for the particular system	|	Yes	|	Yes	|	Yes
-|	**Business Approval** (Typically BI and EA only)	|	Approval by Business that is responsible for the particular system.	|	Yes	|	Yes	|	Yes
-|	**Change Approval Board (CAB)**	|	The Change Approval Board has representatives from all of the respective IT teams and approves all Comprehensive and Emergency changes. ***Approval for Emergency changes occurs after changes have been implemented in production.**	|	No	|	Yes	|	Yes*
-|	**Head of IT, Business**	|	The Head of IT must approve all changes made during blackout periods	|	No	|	Yes	|	Yes |
+|	**Impacted Team(s) Management approval**	|	Approval by Management that is responsible for the particular system	|	Yes	|	Yes	|	Yes
+|	**Business Approval**	|	Approval by Impacted Team(s) Management approval that is responsible for the particular system or is impacted by the change.	|	No	|	Yes	|	Yes
+|	**Head of IT, Business**	|	The Head of IT must approve all changes made during blackout periods	|	No	|	Yes	|	Yes* |
 
+* (*) Refer to Emergency Change section under [Change Request Types](https://about.gitlab.com/handbook/business-technology/change-management/#change-request-types) for approval requirement details. 
 
-## Blocked periods
+## Procedure
+
+### Blocked periods
 
 **Blocked periods** are established to ensure that BT system changes do not adversely affect quarter-end, or year-end closing processes for financially significant applications. 
 
@@ -118,7 +138,7 @@ Last 7 calendar days and first 7** calendar days of each quarter
 
 **Finance impacted systems.
 
-## Business Technology Change Request Workflow
+### Business Technology Change Request Workflow
 
 Business Technology change requests are important because they help us track and manage the risk of making wide-reaching configuration and setting changes. All requests for Application, Process, and/or Policy changes are initiated by the requestor submitting a [Business Technology Change Request](https://gitlab.com/gitlab-com/business-ops/change-management/issues/new?issuable_template=Business%20Technology%20Change%20Management) issue.
 
@@ -138,7 +158,7 @@ To make a global configuration or settings change to a [third-party application 
         - IT will review the change request and engage Legal as needed. Additional participants will be included during weekly CAB reviews to include team members requesting change(s) and their managers. 
 - In the event a change request is not approved, IT will work with the individual submitting the change request to address any blockers/concerns.
 
-## Communication Changes
+### Communication Changes
 
 If during the Business Technology change request process it's decided team members should be notified of a change (for example, changing the default Google Doc sharing settings), please ensure that you communicate the change and its impact by posting in `#whats-happening-at-gitlab`.
 
@@ -147,3 +167,12 @@ If during the Business Technology change request process it's decided team membe
 Please note the change will always be implemented on a Tuesday following the change approval and communication. This will allow the ability and coverage should the change need to be backed out and re-reviewed.
 
 **If no communication is required or the change has been communicated already, make the change.**
+
+## Exceptions
+
+Exceptions to this procedure will be tracked as per the [Information Security Policy Exception Management Process](https://about.gitlab.com/handbook/engineering/security/#information-security-policy-exception-management-process).
+
+## References
+
+
+
