@@ -57,11 +57,13 @@ The charter of this working group is to bridge the gap between different teams t
 
 | Working Group Role    | Person                | Title                                           |
 |-----------------------|-----------------------|-------------------------------------------------|
-| Executive Sponsor     | Laurence Bierner      | Director, Security Engineering & Research       |
+| Executive Sponsor     | TBD      | TBD       |
 | Facilitator           | Alex Groleau          | Security Automation Manager |
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
-| Member                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
-| Member                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
+| Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
+| Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
+| Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
-| Member                | Juliet Wanjohi        | Security Engineer, Security Automation          |
+| Member                | Charl De Wit            | Security Manager, Trust & Safety |
+
 
