@@ -13,6 +13,8 @@ The Director, Channel Strategy reports to the [VP, Global Channel](/job-families
 
 The Director, Channel Strategy is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification:** While an Individual Contributor equivalent of Director in Channel Strategy is not applicable in survey data, Sales Strategy is a critical role in growth initiative organizations. Many times senior level team members are tasked with setting up new business and thus set as an Individual Director equivalent. This role brings extensive experience to help scale partner strategy for emerging markets. 
+
 #### Director, Channel Strategy Responsibilities 
 
 * This role 3 day per week or 30 hours focused on specific scoped projects that will drive ARR Growth via the channel
