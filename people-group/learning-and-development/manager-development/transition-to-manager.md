@@ -73,6 +73,10 @@ The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-gro
 
 If you have questions as you work your way through this checklist please ask them in [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 
+## Becoming a GitLab Manager Issue Retrospective
+
+An important task is to create a retrospective thread within the Becoming a GitLab Manager issue, so that the team member can log any questions, comments, proposals and more about their issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Becoming a GitLab Manager issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Feel free to please ask any questions in the [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
+
 #### Create a personalized learning pathway
 Take a moment to reflect on where you are in this transition. Then use this [google form](https://forms.gle/WUpxZNG2VcYFQLon9) to add your thoughts about the challenges you face, how you plan to overcome them, and what resources you have found helpful so far. The Learning and Development team will review this feedback to personalize your development pathway as a manager at GitLab.  This may include developing custom training modules, pairing you with a mentor, or providing you with opportunities to practice skills.
 
