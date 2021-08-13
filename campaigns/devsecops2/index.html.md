@@ -30,7 +30,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 
 **[See the FY22 Marketing Calendar for upcoming virtual events >>]()**
 
-Always On Lead Generation:
+Always On Lead Generation: [assets available](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
 * :books: Content | 
 * :books: Content | 
 * :video_camera: On-Demand Webinar | 
@@ -145,21 +145,21 @@ Recent software supply chain attacks are raising awareness of the need for great
 
 **[See the DevSecOps 2.0 keyword research doc >>](https://docs.google.com/spreadsheets/d/1yaozMlR3SpxfX1_rMVWEhJTfMgT5sXwpkfXO9WOwSck/edit#gid=0)**
 
-### Polished Messaging
+### Polished Messaging 
 {: #polished-messaging .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 #### Overall
 
 |  | Polished Messaging |
 | ------ | ------ |
-| **Overall Message** | Bolster security and streamline the SDLC by embedding security into DevOps |
-| **Headline** | Harness the developer's existing workflow to scale your application security program |
-| **Statement** | GitLab automates robust application security scanning, embedded within CI, to help you align your security program to an iterative agile development process. |
-| **Key Messages** | 1. As developers push code faster and in smaller increments, you need application scanning that can keep up. GitLab scans run quickly by scanning the code that changed.|
-||2. GitLab provides SAST, DAST, Container and Dependency Security scanning within the DevOps CI workflow, out of the box, without building pipelines yourself. |
-|| 3. Empower developers to find and fix vulnerabilities before their code is merged with others. |
-|| 4. Scan every code change before it leaves the developer's hands, simplifying and even automating remediation. |
-|| 5. Embedded vs integrated security. What GitLab does, we embed security. VS What others do (and probably what is most searched for) is integrated security (must be set up).|
+| **Overall Message** | Improve security without adding complexity by embedding security within DevOps |
+| **Headline** | Simplify and scale security and compliance while adding visibility and control |
+| **Statement** | GitLab simplifies application security and compliance while protecting the integrity of the software lifecycle and uniting Dev, Sec, and Ops. |
+| **Key Messages** | 1. The complexity of integrating security is one of the biggest challenges facing DevOps. GitLab's DevOps platform simplifies DevSecOps efforts by embedding robust security capabilities, including vulnerability management. Stop building and maintaining tool integrations and stop juggling spreadsheets to track vulnerabilities from multiple tools.  |
+|| 2. Today's sophisticated attackers, along with new attack surfaces of cloud native applications, require greater defense in depth. GitLab provides SAST, DAST, Container and Dependency scanning, API testing, fuzz testing, secrets detection, and license compliance within the developer's CI workflow, out of the box. |
+|| 3. As developers push code faster and more iteratively, you need security scanning that can keep up along with guardrails to ensure policy compliance. GitLab automates security scanning, using compliant pipelines and controls that reflect your policies. Developers see the security flaws they just created before their changes are merged, providing actionable and timely insight.|
+|| 4. Gain visibility into risk via robust scanning during development. GitLab's platform approach enables dynamic testing and API fuzzing during development while this single source of truth improves efficiencies and collabration between dev and sec.
+
 | **Topics** | 1. DevSecOps / security embedded within CI pipelines|
 ||2. Managing the growing risk and scaling remediation of third-party code vulnerablities.  |
 ||3. Container security |
