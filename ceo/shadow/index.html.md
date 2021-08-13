@@ -247,7 +247,9 @@ Outgoing shadows are responsible for training incoming shadows. We currently tra
 
 #### Consider creating goals
 
-Consider adding goals for your time as a CEO Shadow, and adding these goals to your onboarding issue. Consider using the [SMART goal framework](https://www.mindtools.com/pages/article/smart-goals.htm) to make your goals more actionable. Doing this may help you reflect upon your overall CEO Shadow experience more easily, and ut may help you write a better blog post after you complete the program. 
+Consider adding goals for your time as a CEO Shadow, and adding them to your onboarding issue. To make your goals more ationable, you may want to use the [SMART goals framework](https://www.mindtools.com/pages/article/smart-goals.htm).
+
+Doing this will help you reflect upon your overall CEO Shadow experience more easily, and it may help you write a better blog post after you complete the program. 
 
 For inspiration, here is [an example](https://gitlab.com/nmccorrison/ceo-shadow/-/issues/1#my-goals) of a CEO Shadow who added goals to their onboarding issue. 
 
