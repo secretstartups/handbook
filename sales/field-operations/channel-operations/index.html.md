@@ -429,12 +429,12 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
   - 10 or more Services per quarter: 7.5% on license net ARR (Max payout $7500/closed-won opportunity)
 - Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
 - Rebates and referral fees may require CRO approval. 
+- Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Channel Account Manager must agree on the negotiated discount amount.
  
 For more information on quoting or the Partner Program, please visit:
 - [Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 - [Partner Program](https://about.gitlab.com/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).  
-NOTE: Discounts are taken off GitLab list price.
  
  
 ## Partner Help Desk Support and Communication
