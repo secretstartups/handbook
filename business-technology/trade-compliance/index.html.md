@@ -76,6 +76,10 @@ title: "Trade Compliance"
     This could be a potential future state scenario if we link all contacts to accounts.
     If the contact were to contact sales or marketing and need to fix an issue with their account and they've been added as a billing contact, they should not be able to receive a license key.
 
+## Broadening access to GitLab
+
+- As discussed elsewhere on this page, GitLab is subject to US Export Regulations which prohibit the company from conducting business with individuals or companies located in embargoed countries, including Crimea, Cuba, Iran, North Korea, Sudan and Syria. GitLab is continually reevaluating the regulatory landscape to broaden access to GitLab in a complaint manner to further our mission that everyone can contribute.
+
 ## Links
 
 - Internal only [Legal's Matrix](https://docs.google.com/spreadsheets/d/1MW7Djn4CsxKLk643eh2PI0yMIf4FjG15gMZftNMLe0Q/edit#gid=500140507)

@@ -25,7 +25,7 @@ The Data team has implemented the following triage schedule to take advantage of
 | Sunday    | `@ken_aguilar` | -                 |
 | Monday    | `@mpeychet`    | `@vedprakash2021` |
 | Tuesday   | `@mpeychet`    | `@paul_armstrong` |
-| Wednesday | `@iweeks`      | `@vedprakash2021` |
+| Wednesday | `@michellecooper` | `@vedprakash2021` |
 | Thursday  | `@ken_aguilar` | `@snalamaru`      |
 | Friday    | `@jeanpeguero` | `@laddula`        |
 
