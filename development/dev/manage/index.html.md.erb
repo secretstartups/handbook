@@ -264,6 +264,15 @@ It can be hard to understand how you're doing in your role, because feedback can
 
 ### Group Access - additional considerations
 
+#### Code Review
+
+Access works on components of the application that have a far-reaching impact. Because only a simple change can cause widespread support tickets and/or production incidents, there is less room for error which requires us to take these extra steps:
+
+1. Access merge requests will be assigned to another Access engineer for first review in order to build more institutional knowledge across the team
+1. Access merge requests will include a comment that needs answered before merging, "Should this be behind a feature flag?" This is an effort to remind engineers about feature flag usage, but also to challenge reasoning as to why changes do not need to be behind a feature flag.
+1. Merge requests that are specific to Linear Namespaces will require a feature flag with gradual rollouts, either by grouping the work behind a single flag or by using multiple flags
+
+
 #### Security Rota
 
 The Access group are responsible for several product categories that attract a significant amount of scrutiny from a security perspective. An outcome of this is that we see a higher number of new security issues being created compared to other groups, which over time has caused the security backlog to grow. To help tackle the backlog, from milestone 13.3, we will assign 2 Backend Engineers per milestone to a security rota.
