@@ -5,7 +5,7 @@ title: "Data Engineering"
 
 ## Data Engineer
 
-This role requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of strong quality data insights to drive business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
+The *Data Engineer* role requires an analytical and business-oriented mindset with the ability to implement rigorous database solutions and best practices in order to produce and influence the adoption of data insights to support business decisions in all areas of GitLab. Data Engineers are essentially software engineers who have a particular focus on data movement and orchestration.
 
 ### Job Grade
 
@@ -59,6 +59,29 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 * Generate architecture recommendations and the ability to implement them
 * Great communication: Regularly achieve consensus amongst teams
 * Perform technical interviews
+
+
+## Staff Data Engineer
+
+The SeStaffnior Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
+
+### Job Grade
+
+The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+* All requirements of an Intermediate Data Engineer
+* Understand and implement data engineering best practices
+* Improve, manage, and teach standards for code maintainability and performance in code submitted and reviewed
+* Create smaller merge requests and issues by collaborating with stakeholders to reduce scope and focus on iteration
+* Ship medium to large features independently
+* Generate architecture recommendations and the ability to implement them
+* Great communication: Regularly achieve consensus amongst teams
+* Perform technical interviews
+
+
+
 
 ## Performance Indicators (PI)
 
