@@ -487,9 +487,14 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and verbally providing timekeeping in many [types of meetings](#responsibilities). This allows participants to comfortably wrap up the meeting. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable. 
+Shadows are responsible for being aware of the current time and verbally providing timekeeping in many [types of meetings](#responsibilities). This allows participants to comfortably wrap up the meeting. 
 
-Please use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings). **Shadows should provide a 5-minute and 1-minute verbal notification (and a notification on Zoom chat, if possible).** While it might feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". If a meeting is running over the allocated time, say "we're in overtime". 
+**Tips for time-keeping:** 
+- Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable. 
+- Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings). 
+- **Shadows should provide a 5-minute and 1-minute verbal notification (and a notification on Zoom chat, if possible).** While it might feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". If a meeting is running over the allocated time, say "we're in overtime". 
+
+**Tools to help.**
 
 You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat in addition to verbalizing it. At the end of the meeting, the same will occur with "We are at time". 
 
