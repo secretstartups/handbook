@@ -163,7 +163,7 @@ GitLab's paid Parental Leave is for any team member (regardless of gender) who b
 
 We encourage parents to take the time they need. GitLab team members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off. Many GitLab team members are from countries that have longer standard Parental Leaves or births can have complications and sometimes 16 weeks just isn't enough. Any GitLab team member can request additional unpaid Parental Leave for up to 4 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the Parental Leave period should be taken in the first year.
 
-**If you haven't been at GitLab for six months**, you can take up to 25 days of paid Parental Leave from the time of birth or adoption event which will count against the 16-week balance. The rest of the paid Parental Leave period can be taken once you reach six months of service at GitLab. Depending on where you live, you may be able to receive statutory Parental Leave pay from the government to cover any unpaid time off. 
+**If you haven't been at GitLab for six months**, you can take up to 25 days of paid Parental Leave using GitLab's PTO policy from the time of birth or adoption event which will count against the 16-week total. Full salary supplementation from GitLab will begin once you hit six months of service for the remaining Parental Leave balance. Depending on where you live, you may be able to receive statutory Parental Leave pay from the government to cover any unpaid time off
 
 ### How to Initiate Your Parental Leave
 
