@@ -432,4 +432,8 @@ unemployment rate.
 
 If you are a full-time team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits, you may be a victim of unemployment claim fraud. Before giving out any information to the caller, please confirm that you are speaking with an agency employee. If you confirm with your state's Unemployment Commission that there is a fraudulent claim, please report it via email to `peopleops@gitlab.com`. Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud), which lists additional information.
 
+## FAQ
 
+### Will I still have access to my GitLab.com account after leaving GitLab?
+
+Yes, your GitLab account will remain active and in your ownership. The account will be downgraded to a free account and will lose access to internal GitLab groups and projects.
