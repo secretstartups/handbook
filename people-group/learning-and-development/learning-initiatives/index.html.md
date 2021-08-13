@@ -118,7 +118,10 @@ Monthly Announcements from the L&D team are a 3-part announcement. This includes
 1. Open and populate an issue using the `monthly-announcement` template
 1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
 1. Use Bananatag to send an email to the GitLab team with an embeded video and link to the AMA issue.
-1. Share the post from the #whats-happening-at-gitlab channel to the #ceo channel and tag Sid
+1. Share the post from the #whats-happening-at-gitlab channel to 
+     - the #ceo channel and tag Sid
+     - the #managers channel and ask managers to share with their teams
+     - the PBPs and ask to amplify with division leadership
 
 ### Schedule
 
