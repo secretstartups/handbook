@@ -44,6 +44,7 @@ Read more about the topic area from the links below:
   - [MLOps Wikipedia](https://en.wikipedia.org/wiki/MLOps)
   - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
   - [Machine Learning Operations](https://ml-ops.org/)
+  - [MLOps Slack Group](https://mlops.community/)
  
 ## Exit Criteria 
 
@@ -65,5 +66,6 @@ The charter of this working group is to bridge the gap between different teams t
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
-
+| Member                | Wayne Haber         | Engineering director |
+| Member                | Alexander Chueshev         | Senior Backend Engineer, Applied ML |
 
