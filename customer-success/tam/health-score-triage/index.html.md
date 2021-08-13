@@ -221,6 +221,20 @@ When creating triage issues, it's important to apply the correct labels to the i
 - `~risk::competition`
 - `~risk::covid-19`
 
+##### DevOps Stage Label
+
+If the account is labeled with a Customer Success Risk Reason of "product experience",
+TAMs are encouraged to add a DevOps stage label (i.e. `~devops::*`)
+to the triage issue, and clearly identify any related issues that are blocking adoption or required
+to improve the customer's product experience within the triage issue.
+
+Identify the Product DRI by from our [product categories](https://about.gitlab.com/handbook/product/categories/#devops-stages)
+page and ping them in the issue.
+As the TAM responsible for the at-risk account, you are accountable for coordinating all resources. 
+Engage early and often with product and any other groups required to advocate for your customer's desired outcomes.
+
+Because `devops::` labels are scoped; please choose the highest-impact stage label and apply it.
+
 ## Related Processes
 
 [Customer Success Escalations Process](/handbook/customer-success/tam/escalations/)
