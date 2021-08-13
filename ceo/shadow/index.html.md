@@ -237,6 +237,20 @@ Make sure to bring comfortable shoes with you to Mission Control any time there 
 
 ### Pre-Program Tasks
 
+#### Create an onboarding issue
+
+Outgoing shadows are responsible for training incoming shadows. We currently track onboarding and offboarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
+
+**Make sure you do the following:**
+ * **Create an onboarding issue.** The incoming shadow is responsible for creating their onboarding issue by the Friday before they start the program using the [`onboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=onboarding). Assign the issue to both the incoming and outgoing shadows (the person who will be "teaching one" and yourself).
+ * **Create an offboarding issue.** Prepare the issue on your second week by using the [`offboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=offboarding).
+
+#### Consider creating goals
+
+Consider adding goals for your time as a CEO Shadow, and adding these goals to your onboarding issue. Consider using the [SMART goal framework](https://www.mindtools.com/pages/article/smart-goals.htm) to make your goals more actionable. Doing this may help you reflect upon your overall CEO Shadow experience more easily, and ut may help you write a better blog post after you complete the program. 
+
+For inspiration, here is [an example](https://gitlab.com/nmccorrison/ceo-shadow/-/issues/1#my-goals) of a CEO Shadow who added goals to their onboarding issue. 
+
 #### Practice your introduction
 
 You will get asked about yourself during the program, and it's important to describe it correctly. So stand in front of a mirror and practice 3 times. The main point is, do _not_ say that your role is to "follow Sid around" or "follow the CEO around". The program is for exploring and learning about all the parts of GitLab, and there's where the emphasis should lie. See [CEO Shadow Introductions](#ceo-shadow-introductions) for specifics.
@@ -251,14 +265,9 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 
 #### Coffee Chat with the CLO
 
-Should it be useful or complementary to your time as a CEO Shadow, our [CLO](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. Please @ mention the CLO's [Sr. EBA](/handbook/eba/) in `#ceo-shadow` should you wish to be added to an instance or you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
+Due to the sensitivity of some of the conversations you'll be listening in on, you may end up having questions about what you can talk about or share with others. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. 
 
-#### Create an onboarding issue
-
-Outgoing shadows are responsible for training incoming shadows. We currently track onboarding and offboarding in the [ceo-shadow](https://gitlab.com/gitlab-com/ceo-shadow) project.
-The incoming shadow is responsible for creating their onboarding issue by the Friday before they start the program using the [`onboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=onboarding).
-Assign both incoming and outgoing shadows to the issue.
-Don't forget to prepare your offboarding on your second week by creating another issue using this time the [`offboarding` template](https://gitlab.com/gitlab-com/ceo-shadow/onboarding/-/issues/new?issuable_template=offboarding).
+Please @ mention the CLO's [Sr. EBA](/handbook/eba/#executive-business-administrator-team) in `#ceo-shadow` should you wish to be added to an upcoming session, or if you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
 
 #### Explore the CEO Shadow project
 
