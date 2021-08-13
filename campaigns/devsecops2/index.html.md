@@ -152,13 +152,13 @@ Recent software supply chain attacks are raising awareness of the need for great
 
 |  | Polished Messaging |
 | ------ | ------ |
-| **Overall Message** | Improve security without adding complexity by embedding security within DevOps |
+| **Overall Message** | The complexity of integrating security is one of the biggest challenges facing DevOps. GitLab simplifies DevSecOps efforts and improves compliance, by embedding robust security capabilities for both the developer and the security pro into one end-to-end DevOps platform. |
 | **Headline** | Simplify and scale security and compliance while adding visibility and control |
-| **Statement** | GitLab simplifies application security and compliance while protecting the integrity of the software lifecycle and uniting Dev, Sec, and Ops. |
-| **Key Messages** | 1. The complexity of integrating security is one of the biggest challenges facing DevOps. GitLab's DevOps platform simplifies DevSecOps efforts by embedding robust security capabilities, including vulnerability management. Stop building and maintaining tool integrations and stop juggling spreadsheets to track vulnerabilities from multiple tools.  |
-|| 2. Today's sophisticated attackers, along with new attack surfaces of cloud native applications, require greater defense in depth. GitLab provides SAST, DAST, Container and Dependency scanning, API testing, fuzz testing, secrets detection, and license compliance within the developer's CI workflow, out of the box. |
-|| 3. As developers push code faster and more iteratively, you need security scanning that can keep up along with guardrails to ensure policy compliance. GitLab automates security scanning, using compliant pipelines and controls that reflect your policies. Developers see the security flaws they just created before their changes are merged, providing actionable and timely insight.|
-|| 4. Gain visibility into risk via robust scanning during development. GitLab's platform approach enables dynamic testing and API fuzzing during development while this single source of truth improves efficiencies and collabration between dev and sec.
+| **Statement** | GitLab simplifies application security and compliance while protecting the integrity of the software supply chain. |
+| **Key Messages** | 1. Improve application security without adding complexity by uniting Dev and Sec within one DevOps platform. Stop building and maintaining tool integrations and stop juggling spreadsheets to track vulnerabilities. Built-in AppSec testing and vulnerability management allow teams to mitigate risk while maintaining development velocity. |
+|| 2. Today's sophisticated attackers, along with new attack surfaces of cloud native applications, require greater defense in depth. GitLab provides SAST, DAST, Container and Dependency scanning, API testing, fuzz testing, secrets detection, and license compliance within the developer's CI workflow, with no integration required. |
+|| 3. As developers push code faster and more iteratively, you need security scanning that can keep up, along with guardrails to ensure policy compliance. GitLab automates security scanning using compliant pipelines and controls that reflect your policies. |
+|| 4. Gain visibility into risk while improving collaboration. Developers see the security flaws they just created before their changes are merged, providing actionable and timely insight. Security teams see unresolved vunlerabilities, including findings from dynamic scans, while code is in development. This single source of truth improves efficiencies and collabration between dev and sec.
 
 | **Topics** | 1. DevSecOps / security embedded within CI pipelines|
 ||2. Managing the growing risk and scaling remediation of third-party code vulnerablities.  |
