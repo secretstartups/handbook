@@ -48,11 +48,11 @@ Preferred Qualifications
 The Junior Community Operations Manager is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Junior Community Operations Manager Responsibilities
-- Extends the Associate Community Operations Specialist responsibilities
+- Extends the Associate Community Operations Specialist responsibilities.
 - Actively participate in the implementation of, and then lead the maintainance of the Automated Community Programs workflows. This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Community Relations, Product, Fulfillment, Sales Operations, and Customer Support.
-- Thrive at developing new ways.
-- Refine existing processes.
+- Thrive at developing process improvements and an excellent critical thinker.
 - Enable teams to work more efficiently.
+- Use GitLab extensively to organize work and collaborate cross-functionally.
 
 
 #### Junior Community Operations Manager Requirements
@@ -68,7 +68,7 @@ The Community Operations Manager (Intermediate) is a [grade 6](/handbook/total-r
 - Extends the Junior Community Operations Manager responsibilities.
 - Assist in developing common policies, processes and resources consistent across all community programs, with a handbook-first approach.
 - Manage existing tools and assess new tools to more effectively serve the GitLab community and to contribute to growth.
-- Partner with all Program Managers on the Community Relations team to measure and report the success of their programs.  In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
+- Partner with all Program Managers on the Community Relations team to measure and report the success of their programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
 - Establish quarterly budgeting processes. Maintain and lead a regular planning and reporting cadence for the Community Relations team.
 
 #### Community Operations Manager (Intermediate) Requirements
@@ -85,15 +85,16 @@ The Senior Community Operations Manager is a [grade 7](/handbook/total-rewards/c
 - Significantly contribute to automate all the Community Relations team's processes and workflows.
 - Proactively work across functions with peers in other groups to ensure collaboration on shared goals.
 - Collaborate with all Community Relations team's Program Managers to create a framework for community programs, including templates and guidelines for landing pages, contributor events, membership, incentives, etc.
+- Use GitLab extensively for project management and process improvements. Create best practices to roll out to the rest of the Community Relations team.
 
 #### Senior Community Operations Manager Requirements
 - 6+ years of experience.
 
 ### Performance Indicators
 
-- Time to approve community program applications
-- Percentage of manual vs. automated application processes
-- Member/contributor satisfaction for community programs
+- Time to approve community program applications.
+- Percentage of manual vs. automated application processes.
+- Member/contributor satisfaction for community programs.
 
 ### Career Ladder
 
@@ -118,36 +119,36 @@ The Associate Community Operations Specialist reports to the [Community Operatio
 The Associate Community Operations Specialist is a [grade 5](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
-* Effectively manage the inbound queue flow for community applications via Zendesk
-* Qualify inbound  and renewal applications for Community Relations Programs using research skills as well as business and industry knowledge
-* Engage with applicants to determine eligibility and answer questions regarding the process and benefits where necessary
-* Book and provision benefits for new and renewing program members by using existing tech stack and business processes
-* Manage the day-to-day renewal management, ensuring compliance with published sales and business approval policies
-* Understand, troubleshoot, and resolve program member’s needs via email
-* Create and update issues for program member’s needs and internal operations
+* Effectively manage the inbound queue flow for community applications via Zendesk.
+* Qualify inbound  and renewal applications for Community Relations Programs using research skills as well as business and industry knowledge.
+* Engage with applicants to determine eligibility and answer questions regarding the process and benefits where necessary.
+* Book and provision benefits for new and renewing program members by using existing tech stack and business processes.
+* Manage the day-to-day renewal management, ensuring compliance with published sales and business approval policies.
+* Understand, troubleshoot, and resolve program member’s needs via email.
+* Create and update issues for program member’s needs and internal operations.
 * Create or update handbook documentation based on changes the applications workflow and community members needs
-* Manage, track, and report on all activities and results
-* Troubleshoot, document and strive to solve problems with existing systems, especially with regards to the Community Programs Applications Workflows 
+* Manage, track, and report on all activities and results.
+* Troubleshoot, document and strive to solve problems with existing systems, especially with regards to the Community Programs Applications Workflows.
 
 
 ### Requirements
-* Ability to use GitLab
-* Working knowledge of sales processes and Salesforce
-* Highly organized, customer-focused, innovative, and attentive to details
-* Excellent written and verbal communication
-* Critical thinker with an ability to work independently
-* Proven ability to support diverse community needs with skill - don't be afraid of well-placed humor! We are not robots
-* Excellent communicator, self-aware, transparent, and open to feedback
-* Ability to multitask and prioritize at times of high volume
-* Strong team player with service-oriented attitude and customer focus
-* An eye for detail and out-of-the-box thinking
-* You share our values and work in accordance with those values
-* Fast learner who likes to learn new tools
+* Willingness to use GitLab.
+* Working knowledge of sales processes and Salesforce.
+* Highly organized, customer-focused, innovative, and attentive to details.
+* Excellent written and verbal English language communication.
+* Critical thinker with an ability to work independently.
+* Proven ability to support diverse community needs with skill - don't be afraid of well-placed humor! We are not robots.
+* Excellent communicator, self-aware, transparent, and open to feedback.
+* Ability to multitask and prioritize at times of high volume.
+* Strong team player with service-oriented attitude and customer focus.
+* An eye for detail and out-of-the-box thinking.
+* You share our values and work in accordance with those values.
+* Fast learner who likes to learn new tools.
 
 
 ### Performance Indicators
-* Number of community program applications solved
-* Able to process a community program application in the time promised our customers; 5-10 business days
+* Number of community program applications solved.
+* Ability to process a community program application in the time promised our customers; 5-10 business days.
 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
