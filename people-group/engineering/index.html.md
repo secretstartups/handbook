@@ -65,7 +65,7 @@ There are three more states an issue can be placed in:
    issues that need input or progress from others before they can progress.
 - `Workflow::Blocked`: These issues are either blocked by another issue or by missing API endpoints. The People
 Ops Engineer always adds the reason why an issue is moved to blocked.
-- `Workflow::On Hold`: These issues are currently on hold by the requestor. It is still an important idea but there may not be capacity or resources to move the request forward.
+- `Workflow::On Hold`: These issues are currently on hold and the requester has been informed about this. It is still an important idea but there may not be capacity or resources to move the request forward. When a change in capacity and/or resources happens, we will re-evaluate the status of the ticket.
 
 #### Triaging new tickets
 
