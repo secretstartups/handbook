@@ -527,17 +527,6 @@ At GitLab, planning starts with long term goals. GitLab uses business drivers to
 
 Business drivers are the key inputs and activities that drive the operational and financial results of a business. [Business Drivers cited by CFI](https://corporatefinanceinstitute.com/resources/knowledge/modeling/business-drivers/)
 
-## Long Term Targets
-
-| Division      | Long Term Target   |
-| ------------- | ------------------ |
-| Cost of Sales | 15% of Revenue     |
-| R&D           | 20% of Revenue     |
-| Marketing     | 12.5% of Revenue   |
-| Sales         | 22.5% of Revenue   |
-| G&A           | 10% of Revenue     |
-| **Total**     | **80% of Revenue** |
-
 ## Department Structure
 
 ### Creating New Departments
