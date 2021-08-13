@@ -11,6 +11,9 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-generational-understandi
 - TOC
 {:toc}
 
+![TMRG Logo](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/raw/master/design/gitlab-brand-files/gitlab-logo-files/global-diversity-inclusion/full-color/jpg/di-generational-understanding-logo-rgb.jpg)
+
+
 ## Mission
 
 The mission of the generational understanding [TMRG](/company/culture/inclusion/erg-guide/) is to ensure that team members of all ages feel they have a safe space to communicate, unite and share issues that are reflective of their experience while at GitLab, and to explicitly foster more sharing of wisdom across generations. We encourage a work culture where GitLab team members of all ages are valued, empowered, and given opportunities to develop and contribute to their full potential. This culture will be a competitive advantage for GitLab, as it helps GitLab become a thought leader on this topic. It will leverage the wisdom of all team members, as it helps identify ongoing patterns as well as best practices for mentoring.
