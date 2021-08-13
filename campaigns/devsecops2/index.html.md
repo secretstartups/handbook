@@ -158,15 +158,16 @@ Recent software supply chain attacks are raising awareness of the need for great
 | **Key Messages** | 1. Improve application security without adding complexity by uniting Dev and Sec within one DevOps platform. Stop building and maintaining tool integrations and stop juggling spreadsheets to track vulnerabilities. Built-in AppSec testing and vulnerability management allow teams to mitigate risk while maintaining development velocity. |
 || 2. Today's sophisticated attackers, along with new attack surfaces of cloud native applications, require greater defense in depth. GitLab provides SAST, DAST, Container and Dependency scanning, API testing, fuzz testing, secrets detection, and license compliance within the developer's CI workflow, with no integration required. |
 || 3. As developers push code faster and more iteratively, you need security scanning that can keep up, along with guardrails to ensure policy compliance. GitLab automates security scanning using compliant pipelines and controls that reflect your policies. |
-|| 4. Gain visibility into risk while improving collaboration. Developers see the security flaws they just created before their changes are merged, providing actionable and timely insight. Security teams see unresolved vunlerabilities, including findings from dynamic scans, while code is in development. This single source of truth improves efficiencies and collabration between dev and sec.
+|| 4. Gain visibility into risk while improving collaboration. Developers see the security flaws they just created before their changes are merged, providing actionable and timely insight. Security teams see unresolved vunlerabilities, including findings from dynamic scans, while code is in development. This single source of truth improves efficiencies and collabration between dev and sec. |
+|| 5. Recent attacks, along with the U.S. Executive Order on Cybersecurity, have elevated the need to secure software supply chains. GitLab's DevOps platform provides common controls for compliance from planning to production and enables you to see who changed what, where, and when across the entire SDLC. |
 
-| **Topics** | 1. DevSecOps / security embedded within CI pipelines|
+| **Topics** | 1. DevSecOps / security embedded within CI pipelines / shift left |
 ||2. Managing the growing risk and scaling remediation of third-party code vulnerablities.  |
-||3. Container security |
-||4. API Security|
-| **Top-level Keywords**  | DevSecOps, application security, application security testing, software security, dependency scanning, container scanning, container security |
+||3. Container security / cloud native application security / IaC Security |
+||4. EO on Cybersecurity|
+| **Top-level Keywords**  | DevSecOps, application security, application security testing, software security, dependency scanning, container scanning, container security, compliance, secure software supply chain |
 
-| Theme | Digestable Sound bytes |
+| Theme | Digestable Sound bytes (to be revised) |
 | ------ | ------ |
 | Embed security within CI pipelines | Embedded security will streamline your software development lifecycle, allowing for faster feedback and faster cycle times. |
 | | DevSecOps with GitLab will help customers shift left, enabling them to find and resolve security vulnerabilities earlier in the DevOps lifecycle. |
