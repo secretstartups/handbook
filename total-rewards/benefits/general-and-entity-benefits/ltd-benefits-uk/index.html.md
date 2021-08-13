@@ -308,9 +308,9 @@ The following leave types run concurrently with GitLab PTO. Team members should 
  
 **Time off for Public Duties:** Team members are entitled to a reasonable amount of time off if they are a local councillor, a school governor, a member of any statutory tribunal, a member of the managing or governing body of an educational establishment, a member of a health authority, a member of a school council or board in Scotland, a member of the Environment Agency or the Scottish Environment Protection agency, a member of the prison independent monitoring boards (England or Wales) or a member of the prison visiting committees (Scotland), a member of Scottish Water or a Water Customer Consultation Panel, or a trade union member. The amount of time should be agreed upon between the team member and the manager beforehand based on how long the duties might take, the amount of time the team member has already taken off for public duties, and how the time off will affect the business.
 
-## Employer's Liability Insurance
+## Employers' Liability Insurance
 
-You can view the `Certificate of Employers Liabilty Insurance` [here](https://drive.google.com/file/d/1eK-_KjE_ITcaryW5QLfP6_v__u3jtaBH/view?usp=sharing).
+You can view the `Certificate of Employers' Liability Insurance` [here](https://drive.google.com/file/d/1xxvrXO653txHtto5xe62jRkHVzc-hut6/view?usp=sharing).
 
 ## Monthly Medical Bill Payments
 
