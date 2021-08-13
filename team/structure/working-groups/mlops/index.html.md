@@ -45,6 +45,11 @@ Read more about the topic area from the links below:
   - [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
   - [Machine Learning Operations](https://ml-ops.org/)
   - [MLOps Slack Group](https://mlops.community/)
+
+### Related GitLab Documentation
+  - [MLOps Single-Engineer Group](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
+  - [MLOps Primer](https://about.gitlab.com/handbook/engineering/incubation/mlops/modelops-primer.html)
+  - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
  
 ## Exit Criteria 
 
@@ -61,11 +66,12 @@ The charter of this working group is to bridge the gap between different teams t
 | Executive Sponsor     | TBD      | TBD       |
 | Facilitator           | Alex Groleau          | Security Automation Manager |
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
+| Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, Applied ML |
 | Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
-| Member                | Alexander Chueshev         | Senior Backend Engineer, Applied ML |
+
 
