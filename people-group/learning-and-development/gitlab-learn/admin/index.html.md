@@ -17,8 +17,8 @@ On this page, team members working in the GitLab Learn platform will find docume
 | Title | Purpose |
 | ----- | ----- | 
 | [Best practices for content creation and organization](/handbook/people-group/learning-and-development/gitlab-learn/admin/#best-practices-for-content-creation-and-organization) | Outlines best practices for creating on-brand, handbook first learning content in GitLab learn. Please get familiar with this section before creating or organizing content in GitLab Learn. |
-| [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast)) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
-| [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#approvals) | Includes key links and trainings in EdGraph |
+| [Processes, management, and maintenance of content in EdCast](/handbook/people-group/learning-and-development/gitlab-learn/admin/#processes-management-and-maintence-of-content-in-edcast) | Outlines processes in the frontend and backend of GitLab Learn that are used to create, edit, and maintain content |
+| [Reporting](/handbook/people-group/learning-and-development/gitlab-learn/admin/#reporting) | Includes key links and trainings in EdGraph |
 | [Moderation](/handbook/people-group/learning-and-development/gitlab-learn/admin/#moderation) | TBD |
 | [Support](/handbook/people-group/learning-and-development/gitlab-learn/admin/#support)| Includes support workflows for users and templates for contacting EdCast support |
 
