@@ -19,6 +19,45 @@ The Adoption Group is part of the [Growth Sub-department]. We work on [connectin
 Questions should start by @ mentioning the Product Manager for the [Adoption group](/handbook/product/categories/#adoption-group)
 or creating a new issue in the Growth Product [Adoption issues] list.
 
+## Mission
+
+The Growth:Adoption Group works on the Adopt Create [KPI](/handbook/product/performance-indicators/#new-group-namespace-create-stage-adoption-rate)
+and contributes to Growth initiatives including [First Mile](https://gitlab.com/groups/gitlab-org/-/epics/4745) (New user flow)
+and [Continuous onboarding](https://gitlab.com/groups/gitlab-org/-/epics/4817).
+
+## Team Members
+
+The following people are permanent members of the Growth:Adoption team:
+
+<%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion', role_regexp: /(Growth:Adoption)/) %>
+
+### Group members
+
+We work directly with the following team members in the Growth:Adoption group:
+
+<%=
+other_manager_roles = ['Director of Engineering, Growth, Fulfillment, and Applied ML']
+direct_managers_role = 'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
+roles_regexp = /Adoption/
+
+stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
+%>
+
+## Functional Counterparts
+
+We collaborate with our colleagues in the Growth Sub-department teams:
+
+* [Activation](/handbook/engineering/development/growth/activation/)
+<!-- * [Adoption](/handbook/engineering/development/growth/adoption/) -->
+* [Conversion](/handbook/engineering/development/growth/conversion/)
+* [Expansion](/handbook/engineering/development/growth/expansion/)
+* [Product Intelligence](/handbook/engineering/development/growth/product-intelligence/)
+
+As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
+
+### UX
+The Growth UX team has a [handbook page](/handbook/product/growth/) which includes [Growth specific workflows](/handbook/product/growth/#how-we-work).
+
 ## How we work
 
 * We're data savvy
@@ -33,7 +72,7 @@ Prioritization is a collaboration between Product, UX, Data, and Engineering.
 
 * We use the [ICE framework](/direction/growth/#growth-ideation-and-prioritization) for experiments.
 * We use [Priority](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels)
-and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
+  and [Severity](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#severity-labels) labels for bugs.
 
 ### Workflow
 
@@ -66,45 +105,10 @@ The above boards can be filtered by milestone to provide additional context arou
 For example a `priority::3` security issue ([due within 90 days](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues))
 will be added to one of the next 3 milestones by the Engineering team during the `workflow::scheduling` stage to ensure that SLA is met.
 
-### UX
-The Growth UX team has a [handbook page](/handbook/product/growth/) which includes [Growth specific workflows](/handbook/product/growth/#how-we-work).
-
-## Team Members
-
-The following people are permanent members of the Growth:Adoption team:
-
-<%= direct_team(manager_role: 'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion', role_regexp: /(Growth:Adoption)/) %>
-
-### Group members
-
-We work directly with the following people in the Growth:Adoption group:
-
-<%=
-other_manager_roles = ['Director of Engineering, Growth, Fulfillment, and Applied ML']
-direct_managers_role = 'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
-roles_regexp = /Adoption/
-
-stable_counterparts(role_regexp: roles_regexp, direct_manager_role: direct_managers_role, other_manager_roles: other_manager_roles)
-%>
-
-## Functional Counterparts
-
-We collaborate with our colleagues in the Growth Sub-department teams:
-
-* [Activation](/handbook/engineering/development/growth/activation/)
-<!-- * [Adoption](/handbook/engineering/development/growth/adoption/) -->
-* [Conversion](/handbook/engineering/development/growth/conversion/)
-* [Expansion](/handbook/engineering/development/growth/expansion/)
-* [Product Intelligence](/handbook/engineering/development/growth/product-intelligence/)
-
-As well as the wider Growth Sub-department [stable counterparts](/handbook/engineering/development/growth/#stable-counterparts).
-
-## Adoption Links
-* `#g_adoption` in [Slack](https://gitlab.slack.com/archives/g_adoption) (GitLab internal)
-* [Adoption issues]
-
 ## Common Links
 
+* `#g_adoption` in [Slack](https://gitlab.slack.com/archives/g_adoption) (GitLab internal)
+* [Adoption issues]
 * [Growth Sub-department]
 * [Growth issues board]
 * `#s_growth` in [Slack](https://gitlab.slack.com/archives/s_growth) (GitLab internal)
