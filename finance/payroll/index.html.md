@@ -303,7 +303,7 @@ Team members from the above countries will get paid through CXC Global on or aro
 
 1. Team members should ensure their expenses are final approved on Expensify before the 8th of each month so they can include them on their invoice to CXC.
 1. Payroll will gather & submit any commission, bonus, and expenses to CXC by the 10th of each month (unless this falls on a weekend then it will be the working day before). This is to give CXC time to invoice GitLab for the cost and for GitLab to turn around the payment to ensure funding.
-1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred. 
+1. Team members should submit their monthly invoice (Salary, bonus, commission, expense, etc) to CXC Global <gitlabpayrollteam@cxcglobal.com> any time between the 12th to the 15th of each month using either the following [template](https://docs.google.com/spreadsheets/d/1uQ-0KOgifQW0ZNiUS4z5nk1pQstwSpSXdYYM11KElCk/edit#gid=1931869221) or any other format as preferred. 
 1. CXC checks that the Payroll submission matches with the invoice, thereafter payment is issued.
 1.  New hires starting after the 1st of the relevant month should pro rate using the following calculation: `(monthly salary / # of business days for that month) * actual workdays from the hire date` team members can email nonuspayroll@gitlab.com if they have any queries in regards to their invoice.
 
