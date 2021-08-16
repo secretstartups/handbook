@@ -4,7 +4,6 @@ title: "Open-source Outreach Engineering Manager"
 ---
 
 The Open-source Outreach Engineering Manager managers a team of full-stack engineers driving efficiency and improvements of our contribution process. 
-The Open-source Outreach Engineering team collaborates closely with our Community Relation team counterpart.
 
 ## Responsibilities 
 
@@ -21,15 +20,13 @@ The Open-source Outreach Engineering team collaborates closely with our Communit
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with excellent organizational skills and eyes for quality.
 * Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 * Fluent in using GitLab
-* 5 years or more developing in Ruby and/or Javascript
-* Extensive experience developing in Ruby
-* Extensive experience developing in Javascript
+* 5 years or more developing in Ruby and Javascript
+* 2 years or more in people leadership positions
 * Extensive experience using Git and source control
 * Extensive experience with Open Sourcing
 * Track record of contributing to well-known opensource projects
-* BS degree in Computer Science,
+* BS degree in Computer Science (MS preferred)
 * Proficiency in the English language, with excellent written and oral communication skills.
-* You share our [values](/handbook/values/), and work in accordance with those values
 
 ### Nice to haves
 * Experience in a peak performance organization
@@ -40,11 +37,11 @@ The Open-source Outreach Engineering team collaborates closely with our Communit
 ## Levels 
 ### Open-source Outreach Engineering Manager 
 
-#### Job Grade
+#### Open-source Outreach Engineering Manager Job Grade
 
 The Open-source Outreach Engineering Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Open-source Outreach Engineering Manager Responsibilities
 
 * Manage a team of Community Outreach Engineers
 * Author team quarterly OKRs and drive them to completion.

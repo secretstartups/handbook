@@ -46,11 +46,11 @@ Open-source Outreach Engineers works on laying down an efficiency foundation for
 ## Levels 
 ### Open-source Outreach Fullstack Engineer
 
-#### Job Grade
+#### Open-source Outreach Fullstack Engineer Job Grade
 
 The Open-source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Open-source Outreach Fullstack Engineer Responsibilities
 
 * Contribute to GitLab's contribution efficiency results. 
 * Deliver tasks assigned from Engineering Open-source Outreach project plans.
@@ -68,11 +68,11 @@ The Open-source Outreach Fullstack Engineer is a [grade 6](/handbook/total-rewar
 
 ### Senior Open-source Outreach Fullstack Engineer
 
-#### Job Grade
+#### Senior Open-source Outreach Fullstack Engineer Job Grade
 
 The Senior Open-source Outreach Fullstack Engineer is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Senior Open-source Outreach Fullstack Engineer Responsibilities
 The Senior Open-source Outreach Fullstack Engineer role extends the [Open-source Outreach Fullstack Engineer](#open-source-outreach-fullstack-engineer) role.
 
 * Drive GitLab's contribution efficiency efforts and results. 
@@ -91,11 +91,11 @@ The Senior Open-source Outreach Fullstack Engineer role extends the [Open-source
 
 ### Staff Open-source Outreach Fullstack Engineer
 
-#### Job Grade
+#### Staff Open-source Outreach Fullstack Engineer Job Grade
 
 The Staff Open-source Outreach Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Staff Open-source Outreach Fullstack Engineer Responsibilities
 
 The Staff Engineering Analyst role extends the [Senior Open-source Outreach Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
 
