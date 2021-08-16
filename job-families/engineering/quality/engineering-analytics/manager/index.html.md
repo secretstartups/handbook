@@ -3,19 +3,20 @@ layout: job_family_page
 title: "Engineering Analytics Manager"
 ---
 
-Engineering Analytics at GitLab build and improve on the data capabilities needed to support a highly productive Engineering Division. 
-They equip Engineering leaders with metric intelligence and actionable performance indicators.
-They work closely with GitLab’s Data team to enable new data capabilities that drives our analysis and visualizations.
+Engineering Analytics Manager manages a team of Engineering Analysts that work on data capabilities for the Engineering Division. 
 
 ## Responsibilities 
 
-* Manage a team of Engineering Analyst
-* Contribute to GitLab MR Coach processes, one or more MR Coach speciality
-* Author project plans for Engineering Open Source Outreach efforts
-* Run agile project management processes
-* Provide guidance and coaching to team members on technical contributions, product architecture, and other areas
-* Collaborate closely with our Developer Relations team and Core team
-* Improve our outreach contribution processes
+* Define the tools and process to deliver data-driven insights for the Engineering Division.
+* Define and maintain Engineering Division's data visualizations guidelines and standards.
+* Ensure accuracy of Performance Indicators in the Engineering Division and all it's departments.
+* Drive efficiency of Engineering Division's dashboards and metrics.
+* Author team's quarterly OKRs and project plans to deliver on them.
+* Run Engineering Analytics agile process and stand-up.
+* Plan Engineering Analytics's long-term tasks and align with Quality Department's direction and vision.
+* Hire and growth a team of Engineering Analysts.
+* Provide guidance and coaching to Engineering Analysts.
+* Collaborate closely with GitLab’s Data team.
 
 ## Requirements
 
@@ -47,24 +48,42 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 ## Levels 
 ### Engineering Analytics Manager 
 
-#### Job Grade
+#### Engineering Analytics Manager Job Grade
 
-TheEngineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Engineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Engineering Analytics Manager Responsibilities
 
-* Manage a team of Community Outreach Engineers
 * Author team quarterly OKRs and drive them to completion.
-* Review contribution efficiency proposals, delegate and drive them to completion. 
-* Review Engineering Open-source Outreach project plans, delegate and drive them to completion. 
-* Review recommendations from team members and priorize most impactful improvements for the community.
-* Own the formation process of community contributor cohorts, a teams of community contributors.
-* Create orientation process and materials for newly formed community contributor cohorts
-* Drive iterative improvements to Open-source Outreach team's key and regular performance indicators.
-* Continuously monitor community efficiency metrics and performance indicators.
-* Provide guidance to community contributors on technical and non-technical aspects. 
-* Track pipeline efficiency improvements and drive them to completion.
-* Review nominations and assign awards to community contributors, cohorts and contribution. 
-* Be a permanent member of GitLab MR Coaches.
-* Own Project Management of Open-source Outreach team stand-up and agile processes. 
+* Align Engineering Analytics team OKRs with Engineering Division's needs.
+* Author metrics efficiency proposals, delegate and drive them to completion. 
+* Author project plans, delegate and drive them to completion. 
+* Collaborate with Engineering leaders on business needs and requirements for the Engineering Analytics team.
+* Review feedback and recommendations from team members and prioritize actionable improvements.
+* Own the hiring and team formation process of the Engineering Analytics team.
+* Provide guidance to Engineering Analysts on technical and non-technical aspects. 
+* Own Project Management of Engineering Analytics team stand-up and agile processes. 
 * Represent GitLab in open-source outreach events and processes.
+
+## Performance Indicators 
+
+* Engineering PI Content MR Rate 
+* Handbook MR Rate
+* Open Engineering Analytics Issue Age  
+
+## Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+
+* Selected candidates will be invited to fill out a short questionnaire.
+* Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters.
+* Next, candidates will be invited to schedule a first interview with the hiring manager.
+* Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst.
+* Next, candidates will be invited to schedule a third interview with an additional member of the Engineering Analytics Team.
+* Next, candidates will be invited to schedule a forth interview with a peer Engineering Manager in the Quality Department.
+* Finally, candidates may be asked to interview with the VP of Quality.
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring).
+
+## Career Ladder
+
+For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.

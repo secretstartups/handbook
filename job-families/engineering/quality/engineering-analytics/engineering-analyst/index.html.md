@@ -44,11 +44,11 @@ They work closely with GitLab’s Data team to enable new data capabilities that
 ## Levels 
 ### Engineering Analyst
 
-#### Job Grade
+#### Engineering Analyst Job Grade
 
 The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Engineering Analyst Responsibilities
 
 * Develop analytical models to provide data-driven guidance on business decisions.
 * Develop utilization/forecasting models to predict future outcome of business or financial objective.
@@ -61,11 +61,11 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 
 ### Senior Engineering Analyst
 
-#### Job Grade
+#### Senior Engineering Analyst Job Grade
 
 The Senior Engineering Analyst is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Senior Engineering Analyst Responsibilities
 The Senior Engineering Analyst role extends the [Engineering Analyst](#engineering-analyst) role.
 
 * Deliver data analytics and visualization with minimal guidance and support.
@@ -83,11 +83,11 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 
 ### Staff Engineering Analyst
 
-#### Job Grade
+#### Staff Engineering Analyst Job Grade
 
 The Staff Engineering Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Responsibilities
+#### Staff Engineering Analyst Responsibilities
 
 The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#senior-engineering-analyst) role.
 
@@ -143,7 +143,9 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * CapEx
 
 ## Performance Indicators 
-* Engineering Performance Indicator Content MR Rate 
+* Engineering PI Content MR Rate 
+* Handbook MR Rate
+* Open Engineering Analytics Issue Age  
 * Infrastructure Specialty:
   * [Infrastructure Cost per GitLab.com Monthly Active Users](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-per-gitlab-com-monthly-active-users)
   * [Infrastructure cost vs plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#infrastructure-cost-vs-plan)
@@ -153,9 +155,10 @@ Candidates for this position can expect the hiring process to follow the order b
 
 * Selected candidates will be invited to fill out a short questionnaire.
 * Next, candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with the hiring manager
-* Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst
-* Next, candidates will be invited to schedule a third interview with additional members of the Engineering Analytics Team
+* Next, candidates will be invited to schedule a first interview with the hiring manager.
+* Next, candidates will be invited to schedule a second technical interview with an Engineering Analyst.
+* Next, candidates will be invited to schedule a third interview with am additional member of the Engineering Analytics Team.
+* Next, candidates will be invited to schedule a forth interview with an additional members of the GitLab Data Team.
 * Finally, candidates may be asked to interview with the VP of Quality.
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).
@@ -163,4 +166,3 @@ Additional details about our process can be found on our [hiring page](/handbook
 ## Career Ladder
 
 For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
-
