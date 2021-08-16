@@ -40,4 +40,4 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from August 1, 20
    1. **CEO KR:** Meet hiring targets and have a diverse top of pipeline. [Issue 12071](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12071)
    1. **CEO KR:** 7 certifications with more than 10,000 certificates issued. [Issue 13](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12076)
    1. **CEO KR:** Graduate 2 internal projects from internal limited to public. [Issue 12072](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12072)
-   1. **CEO KR:** Ensure 50% of GitLab teams have OKRs or KRs that empower everyone to contribute inside and outside of our company.
+   1. **CEO KR:** Raise monthly contributors from 80 to 150.
