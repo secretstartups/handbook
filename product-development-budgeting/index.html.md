@@ -15,7 +15,7 @@ The pre-planning is done in advance of budget becoming available, so that the po
 
 | DRI | Task | 
 | --- | --- | 
-| Product Managers | Product managers do their planning for future potential investments in advance.  This will be a list of ready to go business cases in advance, using the TBD planning issue template. (Template to be created by VP of PM that includes guardrails for investment (restructure existing teams, investment size, margin requirements). |
+| Product Managers | Product managers do their planning for future potential investments in advance.  This will be a list of ready to go business cases in advance, using the `potential investment`  issue template. |
 | Product Managers | Create private issues using the issue template and collaborate with PM and Engineering teams on them via tagging the appropriate development director, UX stable counterpart, SET stable counterpart, etc as appropriate. |
 
 ## Vetting and communication of new investment 
