@@ -8,12 +8,16 @@ The Open-source Outreach Engineering Manager managers a team of full-stack engin
 ## Responsibilities 
 
 * Manage a team of Open-source Outreach Engineers
-* Contribute to GitLab MR Coach processes, one or more MR Coach speciality
 * Author project plans for Engineering Open Source Outreach efforts
+* Improve GitLab's Contribution Efficiency and Merge Request Coaching process
+* Organize community contributors into Cohorts and ensure their success
+* Provide guidance to community contributors on technical and non-technical aspects
+* Track contribution delivery of the Community Contributors and Cohorts
+* Provide input into awarding impactful community contributors and contribution
+* Contribute as an MR Coach in one or more MR Coach speciality
 * Run agile project management processes
 * Provide guidance and coaching to team members on technical contributions, product architecture, and other areas
 * Collaborate closely with our Developer Relations team and Core team
-* Improve our outreach contribution processes
 
 ## Requirements
 
@@ -24,7 +28,7 @@ The Open-source Outreach Engineering Manager managers a team of full-stack engin
 * 2 years or more in people leadership positions 
 * Extensive experience using Git and source control
 * Extensive experience with Open Sourcing
-* Track record of contributing to well-known opensource projects
+* Track record of contributing to well-known open-source projects
 * Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills
 

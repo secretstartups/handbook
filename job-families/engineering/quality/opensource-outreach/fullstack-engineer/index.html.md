@@ -26,9 +26,7 @@ Open-source Outreach Engineers works on laying down an efficiency foundation for
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with excellent organizational skills and eyes for quality.
 * Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 * Fluent in using GitLab
-* 5 years or more developing in Ruby and/or Javascript
-* Extensive experience developing in Ruby
-* Extensive experience developing in Javascript
+* 5 years or more developing in Ruby and Javascript
 * Extensive experience using Git and source control
 * Extensive experience with the Open-source community
 * Track record of contributing to well-known open-source projects
