@@ -25,11 +25,12 @@ The Open-source Outreach Engineering Manager managers a team of full-stack engin
 * Extensive experience using Git and source control
 * Extensive experience with Open Sourcing
 * Track record of contributing to well-known opensource projects
-* BS degree in Computer Science (MS preferred)
+* Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills
 
 ### Nice to haves
 * Experience in a peak performance organization
+* BS or MS degree in Computer Science
 * Notable ties into the Open-source community
 * Enterprise software company experience
 * Developer platform/tool industry experience

@@ -32,13 +32,14 @@ Open-source Outreach Engineers works on laying down an efficiency foundation for
 * Extensive experience using Git and source control
 * Extensive experience with the Open-source community
 * Track record of contributing to well-known open-source projects
-* BS degree in Computer Science,
+* Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills.
 * You share our [values](/handbook/values/), and work in accordance with those values
 
 
 ### Nice to haves
 * Experience in a peak performance organization
+* BS or MS degree in Computer Science
 * Notable ties into the Open-source community
 * Enterprise software company experience.
 * Developer platform/tool industry experience.
