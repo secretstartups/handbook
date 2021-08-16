@@ -469,6 +469,32 @@ irb(main):180:0> order = Order.find 0000
 irb(main):021:0> associate_full_user_count_with_group(order)
 => {:success=>true}
 ```
+### enable_ci_minutes
+
+> *Note*: consumption groups are those that have bought minutes for CI/CD but are not enrolled in a paid subscription.
+
+This function allows removal of the CC validation **only for sale supported trials or consumption groups** to prevent having to enroll these users credit cards to use CI/CD.
+
+**Warning**: Make sure you use this function *only* for the intended target. Otherwise, you will lift of the restrictions to the wrong group.
+
+#### Parameters
+
+This function requires a namespace object
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:namespace` | *Yes* | Namespace to update |
+| `:consumption` | *No* | Consumption flag, use this to identify a consumption group, leave blank for sales assisted trial |
+
+#### Sample
+
+```ruby
+irb(main):003:0> enable_ci_minutes("mmoraphotocr")
+
+
+=> "{\"status\":\"success\",\"message\":\"namespace members are now enabled to run CI minutes\"}"
+irb(main):004:0>
+```
 
 ## GitLab.com Group methods
 
