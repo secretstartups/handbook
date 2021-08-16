@@ -50,6 +50,8 @@ Read more about the topic area from the links below:
   - [MLOps Single-Engineer Group](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
   - [MLOps Primer](https://about.gitlab.com/handbook/engineering/incubation/mlops/modelops-primer.html)
   - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
+  - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
+  - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
  
 ## Exit Criteria 
 
