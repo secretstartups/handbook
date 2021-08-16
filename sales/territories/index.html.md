@@ -256,18 +256,18 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Tim Guilbert	| Shay Fleming | Kristine Setschin 
-|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Tim Guilbert	| Shay Fleming | Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Tim Guilbert	| Shay Fleming | Kristine Setschin |
-|	France	|	R	|	MM-EMEA-France-R	|	Tim Guilbert	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Tim Guibert	| Shay Fleming | Kristine Setschin 
+|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	France	|	R	|	MM-EMEA-France-R	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	MEA	|	R	|	MM-EMEA-MEA-R	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Elli Posch	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Tim Guilbert	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Tim Guilbert	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Russia	|	RU	|	MM-EMEA-Russia	|	Chris Willis	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
