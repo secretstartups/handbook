@@ -76,7 +76,7 @@ set to having new tickets being triaged within 7 working days. Everyone in the P
 - check if we have any follow up questions for the creator, if we do, ping the author of the issue and ask them the questions, add the label `Workflow::Waiting`
 - determine the project labels (for example `~p-compensation-calculator`, `~p-assessment-tool`, etc)
 - determine the priority label (see [priorities](https://about.gitlab.com/handbook/people-group/engineering/#priorities))
-- determine the team label `request-PeopleOps`, `request-TalentAcq`, `request-PeopleSuccess`, `request-TotalRewards` etc)
+- determine the team label `PopsEng::Team::People Success`, `PopsEng::Team::People Operations`, etc). You can also find a GitLab board, with the issues sorted by team [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/3107533).
 - determine if it is a new project `~PopsEng::New Project` or a bug `~PopsEng::Bug` or an addition to an existing project or integration `~PopsEng::Addition`
 - when we have all the information needed to start working on the ticket, label it with either `Workflow::Ready for Development` or `Workflow::Next Up`
 
