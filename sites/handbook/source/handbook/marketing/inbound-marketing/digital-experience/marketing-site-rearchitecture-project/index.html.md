@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: 'Core Marketing Site Architecture Plan'
-description: "Core Marketing Site Changes"
+title: Core Marketing Site Architecture Plan
+description: Core Marketing Site Changes
 ---
 
 ## On this page
@@ -12,6 +12,7 @@ description: "Core Marketing Site Changes"
 
 ## Why We Are Proposing This Change
 {:.no_toc}
+
 Over the course of FY21 and FY22 it's been challenging to prioritize and make progress on the [Monorepo Project](https://gitlab.com/groups/gitlab-com/-/epics/282). The lack of improvement to the developer experience is compromising the Digital Experience team's efficiency and we're not able to deliver our team's true output.
 
 GitLab's Marketing site is also experiencing several technical issues that affect our current and prospective customers due to the complexities of our current repo. Digital Experience is not able to effectively solve and release fixes quickly which is undoubtedly causing GitLab to lose potential customers.
