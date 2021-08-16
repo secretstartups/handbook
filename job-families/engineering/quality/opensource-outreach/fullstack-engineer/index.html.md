@@ -16,7 +16,7 @@ Open-source Outreach Engineers works on laying down an efficiency foundation for
 * Nominate community contributors and contribution for recognition. 
 * Be a permanent member of GitLab MR Coaches.
 * Be proficient at one or more MR Coach speciality (Development, Test, Documentation and etc).
-* Collaborate with GitLab's Core team and Developer Relations team.
+* Collaborate with GitLab's Core and Developer Relations teams.
 * Participate in Open-source Outreach team stand-up and agile processes.
 * Be a sounding board for our community contributors.
 * Participate in GitLab's overall open-source outreach events and processes.
