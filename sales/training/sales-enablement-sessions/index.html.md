@@ -29,9 +29,9 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Sep 9    |       |        |
 | Sep 16    |       |        |
 | Sep 23    |  No session (GitLab Contribute)     |        |
-| Sep 30    |       |        |
+| Sep 30    |  Bitbucket Sales Play     | Brain G.       |
 | Oct 7    |       |        |
-| Oct 14    |       |        |
+| Oct 14    |  Q3 FY22 Product Update     |   Brian G.     |
 | Oct 21    | *No sessions during the last two weeks of a quarter*      |        |
 | Oct 28    |  *No sessions during the last two weeks of a quarter*     |        |
 
