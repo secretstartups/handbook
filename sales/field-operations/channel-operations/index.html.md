@@ -455,9 +455,9 @@ To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opport
 - The GitLab Partner Program provides partners with set discounts based on their program status and whether or not there is an active deal registration.
 - At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
 - GitLab employees can access the discount tables using the links below:
-  - [Commercial Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s)
-  - [Public Sector Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng)
-  - [MSP Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM)
+  - [Commercial Matrix](https://gitlab.my.salesforce.com/0694M00000DsShm?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
+  - [Public Sector Matrix](https://gitlab.my.salesforce.com/0694M00000DsShr?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
+  - [MSP Matrix](https://gitlab.my.salesforce.com/0694M00000DsShw?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
 
   _These matrices represent the discounts effective May 1, 2021 through August 14, 2021_.  
 
