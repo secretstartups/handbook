@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "The Ally Lab"
-description: Learn what is an ally, how to be and ally and what it means to be an ally.
+description: Learn what is an ally, how to be an ally and what it means to be an ally.
 canonical_path: "/company/culture/inclusion/being-an-ally/"
 ---
 
@@ -23,7 +23,7 @@ It is not required to be an ally to work at GitLab. At GitLab it is required to 
 
 Being an ally goes a step beyond being inclusive to taking action to support marginalized groups. The first step in being an ally is self-educating. 
 
-This ally lab with provide you with some of the tools, resources and learning activities to help you grow as an ally.
+This ally lab will provide you with some of the tools, resources and learning activities to help you grow as an ally.
 
 ## Skills and Behaviours of allies 
 
@@ -43,14 +43,14 @@ To be an effective ally it is important to understand some of the skills and beh
     - **An example of this could be:** A colleague comes to you and tells you that their pronouns are being misused often at work and it is making them feel uncomfortable and they are avoiding social calls and interactions. Whilst you haven’t experienced this yourself and unlikely you would experience this, you allow yourself to think of situations where you have felt uncomfortable at work before. You also put yourself consciously into the shoes of your colleague and think of a way you can practically help. You offer to your colleague that in the next 5 calls they participate in you will be on the call and actively point out misuse of their pronouns to other colleagues to take away some of the emotional burden. 
 
 * Active learning about other experiences
-    - You go beyond performative actions for example black squares on instagram for Black Lives Matter, but actively does the work to understand the pain, struggle and experience of those burdened. 
-    - **This could look like:** You are managing  black team members, an incident has occurred externally that could effect the mental health of those team members. You actively research the experience and historical context of the trauma associated with incident. You use this to ensure you are informed and able to appropriate apply empathy if a team member approaches you to ask for assistance.  
+    - You go beyond performative actions for example black squares on Instagram for Black Lives Matter, but actively does the work to understand the pain, struggle and experience of those burdened. 
+    - **This could look like:** You are managing black team members, an incident has occurred externally that could affect the mental health of those team members. You actively research the experience and historical context of the trauma associated with the incident. You use this to ensure you are informed and able to appropriately apply empathy if a team member approaches you to ask for assistance.  
  
 * Humility 
     - Non-defensive
-    - Willingingness to take on feedback
+    - Willingness to take on feedback
     - You aren’t going to get it right all the time and you have to be ok with that. Be willing to take feedback on and not let it deter you from continuing to be an ally. 
-    - **Example of this could be:** You are in a safe space with an underrepresented group acting as an ally and absorbing information. A point comes up that you are passionate about and you talk over someone in the group and take over the conversation. After the meeting someone from the group jumps on a zoom meeting with you and explains that it felt you took away the viewpoints of a number of people from the URG because you took over the conversation and interrupted an individual. You apologise,  take on the feedback, ask for any tips on how to make sure it doesn’t happen again and take necessary steps. --- One of the mistakes that often happens here is being defensive or justifying the action. The group will already know you are operating with good intent but generally are wanting to help you level up in there lived experience. 
+    - **Example of this could be:** You are in a safe space with an underrepresented group acting as an ally and absorbing information. A point comes up that you are passionate about and you talk over someone in the group and take over the conversation. After the meeting someone from the group jumps on a Zoom meeting with you and explains that it felt you took away the viewpoints of a number of people from the URG because you took over the conversation and interrupted an individual. You apologise,  take on the feedback, ask for any tips on how to make sure it doesn’t happen again and take the necessary steps. --- One of the mistakes that often happens here is being defensive or justifying the action. The group will already know you are operating with good intent but generally are wanting to help you level up in their lived experience. 
 
 * Courage
     - Comfortable getting uncomfortable
@@ -59,7 +59,7 @@ To be an effective ally it is important to understand some of the skills and beh
 
 * Self-awareness
     - Own and use your privilege
-    - **This could look like:** You are in a product meeting and the meeting will be making critical decisions about the product roadmap for the next three months and you notice that everyone in the meeting is of the same gender and race. You use your privilege situation in the meeting to point this out and ask the people in the meeting. Who should be invited to ensure we are getting a diverse perspective and viewpoint on the agenda items for the meeting?   
+    - **This could look like:** You are in a product meeting and the meeting will be making critical decisions about the product roadmap for the next three months and you notice that everyone in the meeting is of the same gender and race. You use your privileged situation in the meeting to point this out and ask the people in the meeting. Who should be invited to ensure we are getting a diverse perspective and viewpoint on the agenda items for the meeting?   
 
 * Action orientated
     - You see something, you say something 
@@ -81,7 +81,7 @@ To be an effective ally it is important to understand some of the skills and beh
 1. Ally: a member of a social group that has some privilege, that is working to end oppression and understands their own privilege 
 1. Power: The ability to control circumstances or access to resources and/or privileges  
 1. Marginalized groups:  a person or group that are treated as unimportant, insignificant or of lower status. In a workplace setting, employees could be treated as invisible, as if they aren't there or their skills or talents are unwelcome or unnecessary
-1. Performative allyship: referring to allyship that is done to increase a persons social capital rather than because of persons devotion to a cause. For example some people used #metoo during the Me Too movement, without actually bringing more awareness or trying to effect change. 
+1. Performative allyship: referring to allyship that is done to increase a person's social capital rather than because of a person's devotion to a cause. For example some people used #metoo during the Me Too movement, without actually bringing more awareness or trying to effect change. 
 
 ## Tips on being an ally
 
@@ -184,7 +184,7 @@ TBC
   <iframe width="560" height="315" src="https://www.youtube.com/embed/dPywm-j1iic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-The Ally Lab Learning Group is an initiative to learn to become or be a better ally within a collaborative group of peers who are seeking the same aim of allyship growth. All team members have the ability to be an ally whether you are a part of an underrepresented groups (URGs) or not, there are URGs that may not belong to and you have the ability to be an ally to them. There will be regular intakes of team members into groups.
+The Ally Lab Learning Group is an initiative to learn to become or be a better ally within a collaborative group of peers who are seeking the same aim of allyship growth. All team members have the ability to be an ally whether you are a part of an underrepresented group (URG) or not, there are URGs that may not belong to and you have the ability to be an ally to them. There will be regular intakes of team members into groups.
 
 The next intake: [You can sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd7tN0rj_Jh30BuSsF3wS73FEAZRLB5zxNt_AUOFvJzAPsdtg/viewform?usp=sf_link)
 
@@ -194,7 +194,7 @@ To sign up: TBC
 
 - ALLG Facilitator
 - 5-10 team members
-- Diversity within the group where self identification is available
+- Diversity within the group where self-identification is available
 
 What you will need:
 - The ability to have 1 synchronous 30-45min a week (Timezone convenient location)
@@ -216,8 +216,8 @@ What you will do:
 4. **Session 4:** Together, write a commitment to allyship and the values you will abide by to be an ally.
     1. In the last session you will decide as a group a short commitment statement that should be shared on the [Diversity, Inclusion & Belonging Sharing Page](https://about.gitlab.com/company/culture/inclusion/DIB-sharing-page/). Think about what you have individually and collectively learnt during the experience.
 
-Create 2-5 values that, as a group, you will hold in your continuous learning in allyship and hold yourself accountable to when situations arise. 
- 
+Create 2-5 values that, as a group, you will hold in your continuous learning in allyship and take into account when situations arise.
+
 
 Once completed you now have a safe group to discuss allyship with, either to get advice, hold yourself accountable to or run through a situation. Things you can do post the 4 week ALLG:
 
