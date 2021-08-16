@@ -51,6 +51,15 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 
 **NOTE:** In the compensation calculator below, fill in "Manager" in the `Level` field for this role.
 
+#### Interview Process
+
+- [Screening call](/handbook/hiring/#screening-call) with a recruiter. In this call we will discuss your experience, understand what you are looking for in a UX Research leadership role, talk about your work and approach to user research, discuss your compensation expectations and reasons why you want to join GitLab, and answer any questions you have.
+- Interview with a UX Researcher. In this interview, the interviewer will spend a lot of time trying to understand the experiences and challenges you've had as a manager, specific details of any initiatives you've led, the problems you were trying to solve, and the outcomes of these initiatives. Do be prepared to talk about your work and research experience, too.
+- Interview with a Product Design Manager. The interviewer will also want to understand how you work with cross-functional partners, how you've handled conflict, and how you've dealt with difficult situations in the past.
+- Interview with a UX Director. In this interview, the interviewer will spend a lot of time trying to understand the experience you have as a manager, your ways of ensuring the team is well-positioned to produce research studies that have a strong impact on product strategy, what types of teams you have led, and your management style.  This interviewer will also want to know how you think about the place of user research within an organization, understand how you define strategy and vision, and understand the size and scope of teams you've managed throughout your career.
+- Interview with Product Management Group Manager. In this interview, the interviewer will want to understand how your career experiences will set you up for success at GitLab. They will also look to understand how you work with cross-functional partners, the domains you've worked in previously, and the types of teams you've led.
+- Interview with VP of UX. In this interview, the interviewer will want to understand the experience you have as a manager, your experience working remotely, and how these two elements of your career intersect. They will also look to understand your technical skills and the types of products you've worked on previously. 
+
 ### Senior Manager, UX Research
 
 The Senior Manager, UX Research reports to the Director of UX, and Manager, UX Research report to the Senior Manager, UX Research.
