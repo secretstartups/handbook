@@ -164,19 +164,22 @@ Recent software supply chain attacks are raising awareness of the need for great
 | **Topics** | 1. DevSecOps / security embedded within CI pipelines / shift left |
 ||2. Managing the growing risk and scaling remediation of third-party code vulnerablities.  |
 ||3. Container security / cloud native application security / IaC Security |
-||4. EO on Cybersecurity|
+||4. EO on Cybersecurity / compliance |
 | **Top-level Keywords**  | DevSecOps, application security, application security testing, software security, dependency scanning, container scanning, container security, compliance, secure software supply chain |
 
 | Theme | Digestable Sound bytes (to be revised) |
 | ------ | ------ |
-| Embed security within CI pipelines | Embedded security will streamline your software development lifecycle, allowing for faster feedback and faster cycle times. |
-| | DevSecOps with GitLab will help customers shift left, enabling them to find and resolve security vulnerabilities earlier in the DevOps lifecycle. |
-||Stop managing complex tool chain plug-ins and fragile automation scripts when you embed security. Don't just integrate it.|
-|A single source of truth for DevSecOps|GitLab is a single tool for the entire SDLC – including security. Increase transparency and collaboration between teams by providing team members with a single view of each project.|
-||Harness the developer's existing workflow to scale your application security program, improve efficiency, and keep security team members in the loop.|
-|Scan code at every commit|Automate security scans at every commit to ensure that all code can be reviewed at scale and that developers receive immediate feedback. |
+| Simplify DevSecOps | Simplify DevSecOps by using a DevOps platform, loved by developers, with security already embedded. |
+||Stop managing complex tool chain plug-ins and fragile automation scripts. The GitLab DevOps platform includes robust app sec scanning within the CI pipeline, no integration necessary.|
+||GitLab provides a single source of truth that unites Dev and Sec efforts to resolve software vulnerabilities.|
+| Shift left | Shift security left to empower developers to find and fix software vulnerabilities earlier in the DevOps lifecycle. |
+||Automate security scans with every code change to better defend your organization from attack. |
 ||Reduce delays in production by finding and fixing vulnerabilities in development.|
-|Reduce risk with DevSecOps|Scan more code faster with GitLab Secure embedded into your DevOps workflow.|
+| Visibility | GitLab's end-to-end DevOps platform helps you see who changed what, where, when from software planning through production. |
+||Harness the developer's existing workflow to scale your application security program, improve efficiency, and surface risks earlier.|
+| Control and compliance | Apply and enforce security and compliance policies throughout your software development process. |
+|| Apply security and compliance guardrails to your DevOps platform to provide consistency, simplify audits, and reduce risks.
+
 
 ## Buyer Journeys, Content & Emails
 {: .alert #content-emails .alert-gitlab-orange}
@@ -184,6 +187,8 @@ Recent software supply chain attacks are raising awareness of the need for great
 ### Prescriptive Buyer Journeys
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+
+See [spreadsheet](https://docs.google.com/spreadsheets/d/1H8CZn676pDsZRl2Mb52wrb6om0r_lMaGo7oHINKettI/edit#gid=0_)
 
 #### Developers
 {: #buyer-journey-ic}
