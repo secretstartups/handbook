@@ -82,6 +82,7 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 ## Metrics and Terms Index
 
+* [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary)
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
 * ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
 * CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)
