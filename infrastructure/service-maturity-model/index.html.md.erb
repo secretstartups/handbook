@@ -28,7 +28,7 @@ not need development documentation).
 ## Maturity score by service
 
 ❌ indicates the service does meet even the Level 1 criteria
- 
+
 | Service | Level |
 | --- | --- |
 <% data.service_maturity.each do |service, maturity| %>
@@ -40,6 +40,7 @@ not need development documentation).
 Key:
 * ✅ Service meets the criteria
 * ❌ Service does not meet the criteria
+* ➖ The criteria is skipped. Some maturity criteria make less sense for some services. For example, infrastructure-facing service like Woodhouse is crucial to ops, but not related to development, hence does not require development guidelines.
 * ⚪ We don't measure the criteria yet.  See [https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/398](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/398) for progress
 
 <% data.service_maturity.each do |service, maturity| %>
