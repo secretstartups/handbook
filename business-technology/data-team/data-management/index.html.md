@@ -20,19 +20,32 @@ The Enterprise Data Platform captures, processes, and stores [data collected fro
 
 ### Sisense
 
+We deploy a Role-Based Data Access Scheme in Sisense:
+
 * [User Access is managed with Okta](/handbook/business-technology/data-team/platform/periscope/#accessing-sisense)
-* [Each user is assigned a User Role](/handbook/business-technology/data-team/platform/periscope/#user-roles)
-* Based on the Data Classification standard, [data is managed with Spaces](/handbook/business-technology/data-team/platform/periscope/#spaces)
-* [Unused Dashboard Are Archived](/handbook/business-technology/data-team/platform/periscope/#auto-archival-of-unused-dashboards)
+* Data Access is managed with [Roles](/handbook/business-technology/data-team/platform/periscope/#user-roles) and [Spaces](/handbook/business-technology/data-team/platform/periscope/#spaces)
+* Each user is assigned a Sisense Role and this enables Data Access to dashboards and reports
+* The Sisense scheme interacts with the Snowflake Data Access schema to ensure a user does not have a "back door" into data from either system
+
+Additional controls include:
+
+* [Unused Dashboards Are Archived](/handbook/business-technology/data-team/platform/periscope/#auto-archival-of-unused-dashboards)
 * [System Access is managed with an API Key](/handbook/business-technology/data-team/platform/periscope/#sisense-api-key)
 
 ### Snowflake
 
+We deploy a Role-Based Data Access Scheme in Snowflake:
+
 * User Access is managed with Okta and [Access Requests are managed with GitLab](/handbook/business-technology/data-team/platform/#warehouse-access)
 * Each user is assigned one more (Roles based on their job function)[/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm] and this configuration is managed with [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
+* The Snowflake scheme interacts with the Sisense Data Access schema to ensure a user does not have a "back door" into data from either system
+
+Additional controls include:
+
 * Based on the Data Classification standard, [data is managed with Databases and Schemas](/handbook/business-technology/data-team/platform/#data-storage)
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
+
 
 ### General Data Controls
 
