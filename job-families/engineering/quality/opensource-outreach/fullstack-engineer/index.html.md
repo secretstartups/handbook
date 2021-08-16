@@ -98,7 +98,7 @@ The Staff Open-source Outreach Fullstack Engineer is a [grade 8](/handbook/total
 
 #### Staff Open-source Outreach Fullstack Engineer Responsibilities
 
-The Staff Engineering Analyst role extends the [Senior Open-source Outreach Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
+The Staff Engineering Open Source Outreach Fullstack Engineer role extends the [Senior Open-source Outreach Fullstack Engineer](#senior-open-source-outreach-fullstack-engineer) role.
 
 * Author results-focused proposals to improve GitLab's contribution efficiency and drive them to completion. 
 * Propose effective Engineering Open-source Outreach project plans.
