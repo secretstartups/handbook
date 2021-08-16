@@ -50,16 +50,17 @@ Users include both the developer and the security pro. We pride ourselves on hav
 * **Function: Application Security**. In large organizations, Application Security is a dedicated team or person. In smaller IT shops a group or individual security person may be responsible for application security along with network security, security operations, and more.
 While developers and DevOps teams like to use GitLab for security, the security pro is often skeptical, comparing it to their favorite incumbant scanner. They may have bet their career on justifying a very expensive scanner like Fortify or Veracode and are often reluctant to replace it, even if it can simplify their work as well as that of the developer.
 
-* **Challenges we're trying to solve with this campaign:**  
-   Security struggles to fit traditional application scanning methods into an iterative, agile development environment. 
-     1) Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
-     2) Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
-     3) Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
-     4) Dependency backlog continues to grow (technical debt)
-     5) Integrating incumbent scanners into CI pipelines is complex with often unpredictable app sec license costs.  
+* **Challenges we're trying to solve with this campaign:** 
 
+  Security struggles to fit traditional application scanning methods into an iterative, agile development environment.
 
-   Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. Complexity is becoming an even bigger challenge!
+  1. Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live.
+  2. Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
+  3. Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
+  4. Dependency backlog continues to grow (technical debt)
+  5. Integrating incumbent scanners into CI pipelines is complex with often unpredictable app sec license costs.
+
+  Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. Complexity is becoming an even bigger challenge!
   
 * **How GitLab helps:** Forrester research shows that complexity is one of the biggest challenges facing CISO's today. GitLab provides:
    * **simplicity** - less tool integration and maintenance, one predictable cost
@@ -82,16 +83,16 @@ Competitive solutions require substantial set-up and maintenance to integrate sc
 The security pro cares most about managing risk to the enterprise/agency. They take a broad view of process looking for process improvement areas to reduce risk and avoid repeat mistakes. Because they care about risk, they want to identify unresolved vulnerabilities, their severity, and their remediation status. They care about trends over time and aggregate improvements. Often their metrics are mean time to remediation. It is rare that the security person themselves is able to remediate a software security flaw; they depend upon the developer to do this. This goal misalignment is often a reason for contention between the groups. In traditional app sec environments, where testing is done at the end of the SDLC, they may spend alot of their time tracking and reporting vulnerability statuses, vetting findings, and triaging to dev teams. Where development is more automated, they may be able to focus more on setting policies and allowing the tools to enforce them. They often want to avoid moving any new critical/high vulnerabilities into production and favor breaking the build to enforce this.
 
 * **Challenges we're trying to solve with this campaign:** 
+  Security struggles to fit traditional application scanning methods into an iterative, agile development environment. 
 
-Security struggles to fit traditional application scanning methods into an iterative, agile development environment. 
-  1) Vulnerabilities ar4e often discovered in production, or right before, causing project delays because security finds issues just before go-live. The security practitioner becomes 'the bad guy', stopping a launch.
-  2) Siloed tools waste time understanding context of a vuln reported today that was created a week ago and translation may be required between findings from a security tool and where the flaw resides in the code.
-  3) The growing use of dependencies, APIs, containers, Kubernetes adds attack surfaces to assess and monitor while security teams struggle to keep up. Sadly, some practitioners may not even know they have this problem.
-  4) Tracking remediation status is difficult - often many spreadsheets and constantly asking others for updates.
-  5) Keeping up with wildly different licensing between multliple security scanners can waste time determining if current licensing is sufficient for each new project. 
-  6) Security pros are outnumbered by the development teams they are aligned to - frustration, overworked.
+  1. Vulnerabilities ar4e often discovered in production, or right before, causing project delays because security finds issues just before go-live. The security practitioner becomes 'the bad guy', stopping a launch.
+  2. Siloed tools waste time understanding context of a vuln reported today that was created a week ago and translation may be required between findings from a security tool and where the flaw resides in the code.
+  3. The growing use of dependencies, APIs, containers, Kubernetes adds attack surfaces to assess and monitor while security teams struggle to keep up. Sadly, some practitioners may not even know they have this problem.
+  4. Tracking remediation status is difficult - often many spreadsheets and constantly asking others for updates.
+  5. Keeping up with wildly different licensing between multliple security scanners can waste time determining if current licensing is sufficient for each new project.
+  6. Security pros are outnumbered by the development teams they are aligned to - frustration, overworked.
 
-Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. More pressure on an already difficult job!
+  Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also policy automation, common compliance controls, and improved visibility and control over the SDLC tools and cloud native infrastructure. More pressure on an already difficult job!
   
 * **How GitLab helps:** 
    * earlier **visibility** into risk by scanning earlier and using single source of truth between dev and sec
@@ -115,14 +116,14 @@ The developer cares about security but does not want to become a security expert
 
 * **Challenges we're trying to solve with this campaign:** 
 
-Security is important but we need new tools/methods in order to fit it into an iterative, agile development environment. Traditional app sec frustrates development efforts:
-  1) Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
-  2) Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago.
-  3) Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
-  4) Security finds everything - but too late - it becomes technical debt to go back and fix later (and potential liability too).
-  5) Some security teams actually want developers to use the security scanners (like Fortify) directly!
+  Security is important but we need new tools/methods in order to fit it into an iterative, agile development environment. Traditional app sec frustrates development efforts:
+  1. Vulnerabilities often discovered in production causing project delays because security finds issues just before go-live
+  2. Friction in the workflow causes rework and wastes time understanding context of a vuln reported today that was created a week ago
+  3. Business improvements (a VP App goal) take a back seat to fixing security vulns (not my goal - this is a goal of the CISO) creating adversaries between groups.
+  4. Security finds everything - but too late - it becomes technical debt to go back and fix later (and potential liability too)
+  5. Some security teams actually want developers to use the security scanners (like Fortify) directly!
 
-Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also protecting the software supply chain. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. I have a feeling things will get more complex with more people looking over my shoulder and more controls hindering my development efforts.
+  Recent software supply chain attacks are raising awareness of the need for greater application security that includes not only app sec testing but also protecting the software supply chain. The USA Executive Order on Cybersecurty will only heighten the need for better security and compliance processes. I have a feeling things will get more complex with more people looking over my shoulder and more controls hindering my development efforts.
   
 * **How GitLab helps:** 
    * **simplicity** - I can stick with a tool I already use + less tool integration and maintenance, let's us focus on business needs not tool chains   
@@ -188,44 +189,8 @@ Recent software supply chain attacks are raising awareness of the need for great
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See [spreadsheet](https://docs.google.com/spreadsheets/d/1H8CZn676pDsZRl2Mb52wrb6om0r_lMaGo7oHINKettI/edit#gid=0_)
+See [spreadsheet](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)
 
-#### Developers
-{: #buyer-journey-ic}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-| Stage | Asset 1 | Asset 2| Asset 3 |
-| ------ | ------ | -------| -------|
-| Awareness|  |  | |
-| Consideration |  |  | |
-| Purchase| | | |
-
-#### Individual Contributor (Security)
-{: #buyer-journey-ic}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-| Stage | Asset 1 | Asset 2| Asset 3 |
-| ------ | ------ | -------| -------|
-| Awareness|  |  | |
-| Consideration |  |  | |
-| Purchase| | | |
-
-
-#### Manager (Security)
-{: #buyer-journey-ic}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-| Stage | Asset 1 | Asset 2| Asset 3 |
-| ------ | ------ | -------| -------|
-| Awareness|  |  | |
-| Consideration |  |  | |
-| Purchase| | | |
-
-#### Manager (Development or DevOps)
-{: #buyer-journey-ic}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-| Stage | Asset 1 | Asset 2| Asset 3 |
-| ------ | ------ | -------| -------|
-| Awareness|  |  | |
-| Consideration |  |  | |
-| Purchase| | | |
 
 ### Marketo Nurture Emails
 {: #nurture-emails .gitlab-purple}
