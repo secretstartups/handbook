@@ -20,7 +20,7 @@ description: "GitLab Data Triage Guide"
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
 
-| UTC Day   | Data Analyst.     | Data Engineer     |
+| UTC Day   | Data Analyst      | Data Engineer     |
 | --------- | ----------------- | ----------------- |
 | Sunday    | `@ken_aguilar`    | -                 |
 | Monday    | `@mpeychet`       | `@vedprakash2021` |
