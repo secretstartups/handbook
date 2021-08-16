@@ -42,12 +42,13 @@ Below are some rules (per [PMG advice](https://gitlab.com/gitlab-com/marketing/d
    - Why: Spaces can be filled in with other characters when pulling from raw url and is just an easy/messy thing to avoid.
 
 
-#### Medium
+#### utm_medium
 {: #utm-medium .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
 
-#### Source
+
+#### utm_source
 {: #utm-source .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
@@ -57,15 +58,49 @@ Values:
 * 
 * 
 
-#### Campaign
+#### utm_campaign
 {: #utm-campaign .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
+These are the UTMs (**utm_campaign**) to align to the anchor campaigns (both GTM and sub-campaigns within GTMs). They must be followed as below in order to display in the Demand Gen Dashboard.
 
-#### Content
+Using proper `utm_campaign` values below will minimize number of manual updates required for the DG Dashboard.
+
+* singleappci = CI/CD Campaign
+* devsecopsusecase = DevSecOps Campaign
+* gitopsusecase = GitOps Campaign
+* devopsplatform = DevOps Platform Campaign
+
+
+#### utm_content
 {: #utm-content .gitlab-purple}
 <!-- DO NOT CHANGE ANCHOR -->
 
+`utm_content` indicates the content offered by the URL. This is being done currently in publisher utms, and will be instrumented in nurture emails through the [intelligent nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836) project.
+
+See values in [this googlesheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=232997146) in column `utm_content=`. These are continually changed as new content is developed, and therefore new `utm_content` values are added.
+
+## UTMs in Practice
+{: #utms-in-practice .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+### UTM structure for nurture emails
+{: #utms-nurture-emails .gitlab-purple}
+<!-- DO NOT CHANGE ANCHOR -->
+
+* UTM Medium = `email` (never changes)
+* UTM Source = `marketo` (never changes)
+* UTM campaign = `campaign short hand` (the campaign that the content aligns to)
+   - Limited options; keep consistent with other channels.
+   - [See utm_campaign](/handbook/marketing/utm-strategy/#utm-campaign) for accepted options.
+   - Using proper utm_campaign will minimize number of manual updates required for DG Dashboard.
+* UTM content = `shorthand of content` (i.e. ``)
+   - Limited options; keep consistent with other channels.
+   - [See utm_content](/handbook/marketing/utm-strategy/#utm-content) for accepted options.
+   - Do not use `nurture` for utm_content.
+* UTM GTM = `overarching GTM`
+
+[Documenting issue of discussion on UTM structure for nurture emails](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1513)
 
 ## Marketo > Bizible integration
 {: #marketo-bizible .gitlab-purple}
