@@ -62,7 +62,7 @@ The expected close to invoice cycle is 24-48 hours depending on the complexity o
 
 > Any manual updates to invoices concerning invoice templates should go through Legal.
 
-## Functional Resposibilities
+## Functional Responsibilities
 
 - **Review Billing Information**
     - Daily review of opportunities pending approval and invoicing
