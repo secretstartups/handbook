@@ -12,6 +12,7 @@ Open-source Outreach Engineers works on laying down an efficiency foundation for
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process.
 * Coach and lead cohorts of community contributors and ensure their success.
 * Provide guidance to community contributors on technical and non-technical aspects.
+* Create video resources and blog posts to improve contribution experience. 
 * Track contribution delivery of the community cohorts you are assigned.
 * Nominate community contributors and contribution for recognition. 
 * Be a permanent member of GitLab MR Coaches.
