@@ -12,7 +12,7 @@ description: "The Data Management Page covers the content around managing, secur
 
 ##  Welcome to the Data Management Page
 
-* This page covers practices and policies around managing, securing, and governing the Enterprise Data Platform and related activities.
+This page covers practices and policies around managing, securing, and governing the Enterprise Data Platform and related activities.
 
 ### Data Security Practices
 
@@ -52,18 +52,18 @@ Additional controls include:
 * `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform, including Snowflake and Sisense.
 
 | Control | RED | ORANGE | YELLOW |
-|--|--| --|--|
-| **General Data Controls** |
+| :-- | :-- | :-- | :-- |
+| **General Data Controls** |  | |
 | Data Registry Listing  | Required | Required | Recommended |
 | Encryption At Rest | Required | Required | Required |
 | Encryption In Transit | Required | Required | Required |
 | Privacy Review | Required | Recommended | Not Required |
 | Data Retention Procedures | Required | Recommended | Not Required |
-| **Data Infrastructure Controls** Data Infrastructure includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users. | 
+| **Data Infrastructure Controls: Data Infrastructure includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.  | | |
 | Multi-Factor Authentication | Required | Required | Required |
 | Role Based Access | Required | Required | Required |
 | Access Logging | Required | Required | Recommended |
-| **Data Warehouse Controls** The Enterprise Data Warehouse is a Tier 1 System |
+| **Data Warehouse Controls** The Enterprise Data Warehouse is a Tier 1 System. | | |
 | Quarterly Snowflake User Audits | Required | Required | Required |
 | Quarterly SiSense User Audits | Required  | Required | Required |
 | Quarterly Change Management Review | Required  | Recommended | Not Required |
