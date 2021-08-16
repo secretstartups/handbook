@@ -66,7 +66,7 @@ In the grid below, these are the items that show up in the Hierarchy column. You
 
 The same categories (and line items) show up in this grid regardless of whether you are entering your bottoms up `Plan` for the quarter/year or if you are entering your `Forecast` as your expenses solidify throughout the quarter.
 
-##### + Line Item
+##### Line Item
 
 There needs to be one line item for every contract that will be paid. That being said, if you have multiple charges that relate to the same vendor/ will get billed together, those can all show up on the same line item.
 
