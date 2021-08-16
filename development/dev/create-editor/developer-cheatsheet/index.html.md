@@ -93,7 +93,7 @@ Workaround: you can still connect to workhorse on port 3000 using a Ruby (NOT Ra
 1. Make sure you have done `gdk stop rails-web`
 1. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
     - Ruby Script (Note: This is actually from the `gitlab-puma` gem): `/Users/YOUR_USER/.asdf/installs/ruby/RUBY_VERSION/bin/puma`
-    - Script Arguments: `--config /Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/config/puma.rb --environment development start_foreground`
+    - Script Arguments: `--config /Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/config/puma.rb --environment development`
     - Working Directory: `/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/`
     - Environment Variables (Note: these are taken from the current GDK Procfile, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
 1. Start the config in Run or Debug.
