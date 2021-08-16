@@ -209,7 +209,7 @@ Combining the two axis above results in the below priority matrix.
 
 #### Refresh process for sandboxes maintained as part of the SDLC process
 
-1. The Sales Systems team will have an issue tracked in each month for the refresh of each environment with a due date of the refresh date.
+1. The Sales Systems team will have an issue tracked in GitLab with a label of `SalesSystems` and `Sandbox Refresh Checklist` for the refresh of each environment with a due date of the refresh date.
 2. On the date of the refresh, the assigned Sales Systems team member will kick off the refresh in production.  Note: A sandbox refresh can take up to 72 hours to complete.
 3. After the refresh completes, the Sales Systems team will complete the following steps to set the environment.
 
@@ -238,8 +238,8 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 
 |Sandbox name|Sandbox type|Used for|Refresh cadence|Last refresh date|Next refresh issue|
 |-----|-----|-----|-----|-----|-----|
-|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|Monthly, on the second Friday of the month| 3/11/2021 10:06 AM |To be provided|
-|[SANDBOX](https://gitlab--staging.my.salesforce.com)|Partial|Developer integration and testing org. |Monthly, on the third Friday of the month|6/18/2021 3:14 PM|To be provided|
+|[STAGING](https://gitlab--staging.my.salesforce.com)|Full|Pre-production org.  Used for UAT of Systems issues prior to release to production.  Also used for troubleshooting.|As needed, up to once per month, minimum once per quarter| 3/11/2021 10:06 AM |To be provided|
+|[SANDBOX](https://gitlab--staging.my.salesforce.com)|Partial|Developer integration and testing org. |As needed, up to once per month, minimum once per quarter|6/18/2021 3:14 PM|To be provided|
 
 ### Data, Data Uploads & Permissions
 - Salesforce is one of the key systems that our business relies on and as such the data and its accuracy is extremly important to the business. As such we strive to find the balance between ability to update the data within Saleforce and maintaining its integrity. While we do implement systems that strive to maintain and ensure that the data within Salesforce is correct we understand that sometimes the data is incorrect as business requirements change and updates to the data are needed. As such the below aims to outline the individuals who are allowed to mass update the data within Salesforce and the corresponding fields that are permitted to be updated as well as the fields that are restricted from being updated. 
