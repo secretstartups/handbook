@@ -192,36 +192,38 @@ To sign up: TBC
 
 **The Group:** 
 
-- ALLG Facilitator 
-- 5-10 team members 
-- Ability to have 1 synchronous 30-45min a week (Timezone convenient location)
-- Diversity within the group where self identification is available 
-- All member come with a higher intent to become allies 
+- ALLG Facilitator
+- 5-10 team members
+- Diversity within the group where self identification is available
 
-What will you do:
+What you will need:
+- The ability to have 1 synchronous 30-45min a week (Timezone convenient location)
+- A higher intent to become an ally
 
-1. **Session 1:** Async ally training and courses. Synchronus meeting to discuss what you have learned.
+What you will do:
+
+1. **Session 1:** Async ally training and courses. Synchronous meeting to discuss what you have learned.
     1. [Equality Ally Strategies](https://trailhead.salesforce.com/en/content/learn/modules/workplace_equality_ally_strategies)
-    1. [Cultivate Equality at Work](https://trailhead.salesforce.com/en/content/learn/trails/champion_workplace_equality\)
+    1. [Cultivate Equality at Work](https://trailhead.salesforce.com/en/content/learn/trails/champion_workplace_equality)
     1. [Communicating with Empathy](https://www.linkedin.com/learning/communicating-with-empathy/empathy-as-a-path-to-productive-conversations?u=2255073)
     1. [Effective Listening](https://www.linkedin.com/learning/improving-your-listening-skills/welcome?autoplay=true&resume=false&u=2255073)
     1. [Building Trust](https://www.linkedin.com/learning/building-trust-6/building-trust?u=2255073)
     1. [The importance of trust](https://www.linkedin.com/learning/why-trust-matters-with-rachel-botsman/the-importance-of-trust?u=2255073)
-    1. [How to engage meaniningfully in allyship and anti-racism - OPTIONAL](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
+    1. [How to engage meaningfully in allyship and anti-racism - OPTIONAL](https://www.linkedin.com/learning/paths/how-to-engage-meaningfully-in-allyship-and-anti-racism?u=2255073)
     1. [Inclusive mindset of committed allies - OPTIONAL](https://www.linkedin.com/learning/inclusive-mindset-for-committed-allies/becoming-a-true-ally?u=2255073)
 2. **Session 2:** The importance of being an ally and why you want to be an ally.
 3. **Session 3:** Work as a group to discuss a number of scenarios and how to tackle them as an ally.
-4. **Session 4:** Together write a commitment to allyship and the values you will abide by to be an ally.
+4. **Session 4:** Together, write a commitment to allyship and the values you will abide by to be an ally.
     1. In the last session you will decide as a group a short commitment statement that should be shared on the [Diversity, Inclusion & Belonging Sharing Page](https://about.gitlab.com/company/culture/inclusion/DIB-sharing-page/). Think about what you have individually and collectively learnt during the experience.
 
-Create 2-5 values that as a group you will hold in your continuous learning in allyship and hold yourself accountable to when situations arise. 
+Create 2-5 values that, as a group, you will hold in your continuous learning in allyship and hold yourself accountable to when situations arise. 
  
 
-Once completed you now have a safe group to discuss allyship with, either to get advice, hold yourself accountable too or run through a situation. Things you can do post the 4 week ALLG:
+Once completed you now have a safe group to discuss allyship with, either to get advice, hold yourself accountable to or run through a situation. Things you can do post the 4 week ALLG:
 
 - Schedule a quarterly or bi-yearly call with your group
 - Ask members of your group for regular coffee chats to discuss the above 
-- Reflect regularly on your commitment and values you agreed too and situations where you could have displayed allyship
+- Reflect regularly on your commitment and values you agreed to and situations where you could have displayed allyship
 
 
 
