@@ -492,7 +492,7 @@ This function requires a namespace object
 irb(main):003:0> enable_ci_minutes("mmoraphotocr")
 
 
-=> "{\"status\":\"success\",\"message\":\"mmoraphotocr members are now enabled to run CI minutes\"}"
+=> "{\"status\":\"success\",\"message\":\"namespace members are now enabled to run CI minutes\"}"
 irb(main):004:0>
 ```
 
