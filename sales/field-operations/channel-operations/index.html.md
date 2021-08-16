@@ -459,7 +459,7 @@ To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opport
   - [Public Sector Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng)
   - [MSP Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM)
 
-  _These matrices represent the discounts effective May 1, 2021 through August 14, 2021_.  
+  _These matrices represent the discounts effective August 15, 2021_.  
 
 - Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com/).
  
