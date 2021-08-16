@@ -46,37 +46,29 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
-
 ### General Data Controls
 
-For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#determining-critical-system-tiers). 
-
-`RED Data`
-
-RED data is prohibited from permanent storage or export from an approved Business Application, the Enterprise Data Warehouse, or GitLab products. RED data may be temporarily stored for the purpose of conducting a non-routine or one-time activity and in this case the Security Team will require confirmation of data purge.
-
+* For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#determining-critical-system-tiers). 
+* `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform, including Snowflake and Sisense.
 
 | Control | RED | ORANGE | YELLOW |
 |--|--| --|--|
 | **General Data Controls** |
 | Data Registry Listing  | Required | Required | Recommended |
-| Encryption At Rest | Required | Required | Recommended |
-| Encryption In Transit | Required | Required | Recommended |
-| Regular Backups | Required | Required | Recommended |
+| Encryption At Rest | Required | Required | Required |
+| Encryption In Transit | Required | Required | Required |
 | Privacy Review | Required | Recommended | Not Required |
 | Data Retention Procedures | Required | Recommended | Not Required |
-| Bulk Access Review (Per Instance) | Required | Required | Recommended |
 | **Data Infrastructure Controls** Data Infrastructure includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users. | 
-| Multi-Factor Authentication | Required | Required | Not Required |
-| Role Based Access | Required | Required | Not Required |
+| Multi-Factor Authentication | Required | Required | Required |
+| Role Based Access | Required | Required | Required |
 | Access Logging | Required | Required | Recommended |
 | **Data Warehouse Controls** The Enterprise Data Warehouse is a Tier 1 System |
-| Quarterly Snowflake User Audits |  |  |  |
-| Quarterly SiSense User Audits | Required  |  |  |
-| Quarterly Change Management Review | Required  |  |  |
-| Bi-Annual RED Data Audits | Required  |  |  |
+| Quarterly Snowflake User Audits | Required | Required | Required |
+| Quarterly SiSense User Audits | Required  | Required | Required |
+| Quarterly Change Management Review | Required  | Recommended | Not Required |
+| Quarterly RED Data Scanner | Required | N/A | N/A |
 | **Endpoint Devices** All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1 |
 | Anti-Malware | Required |  |  |
 | Full-Disk Encryption | Required |  |  |
-| RED Data Audits | Required |  |  |
-| Data Purge | Required | Required | Not Required |
+| Quarterly Data Purge | Required | Required | Not Required |
