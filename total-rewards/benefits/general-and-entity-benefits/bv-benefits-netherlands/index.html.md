@@ -30,6 +30,13 @@ Note that in the Netherlands every citizen is obliged to have at least a basic h
 
 GitLab does not plan on adding additional medical cover at this time due to the governmental cover.
 
+Due to the [Working Conditions Act](https://www.arboineuropa.nl/en/legislation/wetgeving-in-het-engels/), GitLab contracts an occupational safety and health service. The OSH-service can assist employees who are not able to work because of illness. The contact information for GitLab's designated Occupational Health Service provider is:
+
+**[Zorg van de Zaak](https://www.zorgvandezaak.nl/)**, Beneluxlaan 901, 3526 KK Utrecht, the Netherlands 
+
+Tel: 088-2778870
+Email: info@zorgvandezaak.nl
+
 ## Pension
 
 State pension (AOW) is standard and will be paid out at retirement age. Starting January 1, 2021, GitLab will offer a private pension plan through [Brand New Day](https://new.brandnewday.nl/) for all team members over the age of 21 employed via a GitLab BV Netherlands employment contract. The pension plan will be a Defined Contribution Agreement with a flat rate of 3.00% of the pension base. The GitLab team member will contribute 2%, with the employer (GitLab) contributing 1%. The pension base equals the pensionable salary less the state pension offset. For additional training, Brand New Day has provided [video](https://drive.google.com/drive/folders/1qjCicb0JxnCmG5i4l3Hv5CEs5q8mOuXX?usp=sharing) explanations on how the pension plan works. 
