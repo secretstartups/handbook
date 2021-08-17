@@ -33,9 +33,9 @@ For video overviews, see:
 - [Product Usage Data - video overview](https://youtu.be/5_J9Kfbu5JA)
 - [Health Measures and Data Quality](https://www.youtube.com/watch?v=XQCGKL4XF_o)
 
-**Note**: for License Usage, see [License Usage Salesforce App](/handbook/sales/field-operations/sales-systems/license-usage-app/) and [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
+**Note**: for License Usage, see [License Usage in Gainsight](/handbook/customer-success/tam/gainsight/license-usage/).
 
-For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). FY22-Q1 will have self-managed only. 
+For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). 
 
 ### Quick Links
 
@@ -53,16 +53,15 @@ For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.c
 
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage - Customer Analytics](https://gitlab.gainsightcloud.com/v1/ui/home#9d75e4c5-d770-4c78-a0d5-d4f568083987) Dashboard to see the full list of your accounts. Once on the C360, 
+Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts. Once on the C360, 
 
 
 | Report Name | Description | Application |
 | ------ | ------ | ------ |
-| **License Utilization (Seat Link)** | current, high level license utilization statistics | Use this to quickly identify the depth of adoption, if the account is Reporting  |
-| **License Utilization Trends (Seat Link)** | Week-over-Week license utilization trend charts | Useful for understanding if and how much the customer is adding or removing licenses |
-| **Monthly Distilled Metrics (Usage Ping)** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
-| **Monthly Use Case Trends (Usage Ping)** | Month-over-Month trend analyses for use cases such as CI or SCM | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
-| **Instance Details (Usage Ping)** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self-managed-instance-type) |
+| **Summary** | Shows Company-wide License Utilization and Total Licenses Sold | Use this to quickly identify the depth of adoption, if the account is Reporting  |
+| **Adoption Metric %s** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
+| **Product Usage Trends** | Month-over-Month trend analyses for use cases such as SCM, CI, DevSecOps, and License Utilization | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
+| **Instance and Namespace Details** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self-managed-instance-type) |
 
 
 ## Ways to Use These Metrics
