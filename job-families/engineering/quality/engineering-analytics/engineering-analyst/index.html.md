@@ -54,10 +54,12 @@ The Engineering Analyst is a [grade 6](/handbook/total-rewards/compensation/comp
 * Develop utilization/forecasting models to predict future outcome of business or financial objective.
 * Create visualizations that conveys Engineering metrics that are concise and easy to comprehend.
 * Create SQL/Sisense code that meets our guidelines and coding standards.
-* Explain trends from data sources in assigned Engineering area and identify opportunities improvements.
-* Interface with various departments to provide timely, accurate and relevant data to Engineering Leaders.
-* Understand business processes and policies of assigned Engineering area. Make improvements and suggestions in the assigned area.
-* Manage, analyze and report on assigned Engineering Division or Engineering Departments' Performance Indicators.
+* Explain trends from data sources and identify opportunities for improvements in the assigned Engineering Department.
+* Understand business processes and policies of assigned Engineering Department.
+* Manage, analyze and report on assigned Engineering Department's Performance Indicators.
+* Attend and ensure key-review readiness of assigned Engineering Department.
+* Interface with leaders to provide timely, accurate and relevant data.
+* Document Engineering Analytics team process in the handbook.
 
 ### Senior Engineering Analyst
 
@@ -77,6 +79,7 @@ The Senior Engineering Analyst role extends the [Engineering Analyst](#engineeri
 * Understand business processes and policies to improve Engineering processes and workflow. 
 * Document Engineering Division's data-lifecycle and metrics framework in the handbook.
 * An expert in data domain of assigned Engineering Department.
+* Attend and ensure key-review readiness of assigned Engineering Department.
 * Occasionally represent Engineering Analytics in broad company communication and announcements.
 * Occasionally contribute to the company's strategic Data direction in collaboration with the [Data team](https://about.gitlab.com/handbook/business-technology/data-team/#data-job-families). 
 * Influence the overall objectives and long-range goals of the Engineering Analytics team.
@@ -99,6 +102,7 @@ The Staff Engineering Analyst role extends the [Senior Engineering Analyst](#sen
 * Enforce and champion handbook-first documentation. 
 * Ensure broad organizational awareness of the Engineering Division's data-lifecycle and metrics framework.
 * An expert in data domains of two or more Engineering Departments.
+* Attend and ensure key-review readiness of assigned Engineering Departments.
 * Represent Engineering Analytics in broad company communication and announcements.
 * Contribute to the company's strategic Data direction in collaboration with the Data team. 
 * Drive innovation across GitLab and research new data analytics methodologies with minimal guidance and support from other team members.

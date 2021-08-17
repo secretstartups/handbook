@@ -56,14 +56,16 @@ The Engineering Analytics Manager  is a [grade 8](/handbook/total-rewards/compen
 
 * Author team quarterly OKRs and drive them to completion.
 * Align Engineering Analytics team OKRs with Engineering Division's needs.
-* Author metrics efficiency proposals, delegate and drive them to completion. 
-* Author project plans, delegate and drive them to completion. 
-* Collaborate with Engineering leaders on business needs and requirements for the Engineering Analytics team.
-* Review feedback and recommendations from team members and prioritize actionable improvements.
+* Write detailed and actionable metrics proposals, delegate and drive them to completion. 
+* Drive process and work stream efficiency that results in Engineering Analytics team's output.
+* Participate in all of Engineering Key Reviews and ensure that the needs of Engineering leaders are met.
+* Collaborate with Engineering leaders on business needs and capture them as requirements for the Engineering Analytics team.
+* Listen and capture feedback from team members and prioritize actionable improvements.
 * Own the hiring and team formation process of the Engineering Analytics team.
 * Provide guidance to Engineering Analysts on technical and non-technical aspects. 
-* Own Project Management of Engineering Analytics team stand-up and agile processes. 
-* Represent GitLab in open-source outreach events and processes.
+* Own project management, agile process of the Engineering Analytics team. 
+* Collaborate with GitLab’s Data team on data dependencies for Engineering.
+* Partner with GitLab’s Data team on training activities for Engineering Analysts.
 
 ## Performance Indicators 
 
