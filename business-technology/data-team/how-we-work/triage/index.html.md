@@ -20,14 +20,14 @@ description: "GitLab Data Triage Guide"
 
 The Data team has implemented the following triage schedule to take advantage of native timezones:
 
-| UTC Day   | Data Analyst   | Data Engineer     |
-| --------- | -------------- | ----------------- |
-| Sunday    | `@ken_aguilar` | -                 |
-| Monday    | `@mpeychet`    | `@vedprakash2021` |
-| Tuesday   | `@mpeychet`    | `@paul_armstrong` |
-| Wednesday | `@michellecooper` | `@vedprakash2021` |
-| Thursday  | `@ken_aguilar` | `@snalamaru`      |
-| Friday    | `@jeanpeguero` | `@laddula`        |
+| UTC Day   | Data Analyst      | Data Engineer     |
+| --------- | ----------------- | ----------------- |
+| Sunday    | `@ken_aguilar`    | -                 |
+| Monday    | `@mpeychet`       | `@vedprakash2021` |
+| Tuesday   | `@mpeychet`       | `@paul_armstrong` |
+| Wednesday | `@michellecooper` | `@jjstark`        |
+| Thursday  | `@ken_aguilar`    | `@snalamaru`      |
+| Friday    | `@jeanpeguero`    | `@laddula`        |
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
 this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
