@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Business Systems: Enterprise Applications, Integrations, and Flow"
+title: "Business Systems: Enterprise Applications Ecosystem"
 description: "Business Systems Lead to Fulfillment Documentation"
 ---
 
@@ -60,30 +60,8 @@ description: "Business Systems Lead to Fulfillment Documentation"
 </div>
 </div>
 
-## Contact
 
-### Team
 
-- **[Business Systems Analysts](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/)**
-- **[Integrations Engineers](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)**
-- **[Finance Systems Admins](https://about.gitlab.com/handbook/business-technology/enterprise-applications/financeops/)**
-- **[IT Compliance](https://about.gitlab.com/handbook/business-technology/it-compliance/)**
-
-### Open an issue
-
-<div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">BSA</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Enterprise Applications Integrations</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
-</div>
-
-### Slack channels
-
-- [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
-- [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
-- [`#btg-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
-- [`#business-fulfillment-sync`](https://gitlab.slack.com/archives/CR0FUJRRV)
-- [`gtm-operations`](https://gitlab.slack.com/archives/GEMFSJ94L)
 
 
 ## Enterprise Application Ecosystem
@@ -463,20 +441,6 @@ Emails notifications are sent through Mailgun
 - [License documentation](https://docs.gitlab.com/ee/user/admin_area/license.html)
 - [CustomersDot: Admin internal documentation](/handbook/internal-docs/customers-admin/)
 
-##### refunds
-
-<details>
-<summary markdown='span'>
-  When might [Billing cancel and/or downgrade a subscription](/handbook/finance/accounting/#zuora-subscription-status-active)?
-</summary>
-
-- request from the customer to have it cancelled as they don’t want to use it in the future
-- customer bought the wrong number of seats and we refund due to this; we would not downgrade as we know that the customer will repurchase soon and we don’t want to cause disruption
-- we need to change the entity of an account at renewal (sales assisted only).
-    In this case, the subscription will be cancelled and a new one will be created under a new account.
-- if credit card payment is declined for auto-renewed accounts (SaaS)
-
-</details>
 
 ## Licensing and Renewals (L&R) Queue in Zendesk
 
@@ -557,9 +521,19 @@ Directly Responsible Individual Jack Brennan
 - Work with Finance Operations and Fulfillment team to identify gaps, improve integrations between systems.
 - Participate in end to end testing of enterprise application ecosystem.
 
-## Fulfillment
+## Contact Us
+### Open an issue
 
-| [Fulfillment](https://about.gitlab.com/direction/fulfillment/)         | Request Type                                                                                         |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Purchase](https://about.gitlab.com/direction/fulfillment/purchase/)   | managing subscription, billable users, account management and the purchase flows (including trials). |
-| [Provision](https://about.gitlab.com/direction/fulfillment/provision/) | post-purchase activities: provision license, integration with SalesForce, Zuora, Marketo.            |
+<div class="flex-row" markdown="0" style="height:80px">
+  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">BSA</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Enterprise Applications Integrations</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
+</div>
+
+### Slack channels
+
+- [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
+- [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
+- [`#btg-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
+- [`#business-fulfillment-sync`](https://gitlab.slack.com/archives/CR0FUJRRV)
+- [`gtm-operations`](https://gitlab.slack.com/archives/GEMFSJ94L)
