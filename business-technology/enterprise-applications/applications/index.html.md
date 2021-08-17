@@ -13,7 +13,7 @@ description: "Business Systems Lead to Fulfillment Documentation"
 {:toc .hidden-md .hidden-lg}
 
 
-### Lead to Fulfillment Applications
+## Lead to Fulfillment Applications
 
 <div class="limit-width">
 <div class="grid-container">
@@ -127,28 +127,23 @@ description: "Business Systems Lead to Fulfillment Documentation"
 </div>
 
 ##### Web Direct: New Subscription
-
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="L3F3X9UoOjBI"></iframe></div>
 </div>
 
 ##### Lead-to-Fulfillment System Architecture
-
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/b5a0e4b3-ff40-4685-8d21-3109696c8f64" id="X~9ywPrrncS-"></iframe></div>
 </div>
 
 ##### Zuora and Salesforce
-
 <img src="/handbook/business-technology/images/zuoraSFDC1.png" class="full-width">
 
-## System Integrations Requirements
-
+## System Integrations 
 - API should send country codes ISO 2 from CustomersDot or GitLab.com forms to SFDC and Marketo
 - [Required fields](https://gitlab.com/groups/gitlab-org/-/epics/3627) for submitting new leads to Marketo in order for them to be properly rotated to the sales team.
 
 ## Zuora Configurations
-
 - [overall Zuora system configurations](https://docs.google.com/spreadsheets/d/11VnuTlWuMe6XGf6gB0_x16MSQvJryuEY8gQRx66wjJ4/edit?ts=5f0f28d0#gid=152692183)
 - [finance systems integrations inventtory](https://docs.google.com/spreadsheets/d/1H2DTuP0lS6J129pProMajhdH_as6i38RV1_FjA59uM8/edit#gid=0)
 - [heatmap of finance systems](https://app.lucidchart.com/invitations/accept/df465e7e-de32-4e6f-b93d-0c89044bca5c)
@@ -393,7 +388,7 @@ Tickets come into the L&R queue in Zendesk generally three ways, generally prior
     This puts the ticket into the Billing Team's queue which they then manage.
 
 
-## <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
+## Contact Us
 ### Slack Channels
 - `#enterprise-apps`
 - `#business-technology`
