@@ -59,16 +59,21 @@ Additional controls include:
 | Encryption In Transit | Required | Required | Required |
 | Privacy Review | Required | Recommended | Not Required |
 | Data Retention Procedures | Required | Recommended | Not Required |
-| **Data Infrastructure Controls: Data Infrastructure includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users. | | | |
+| **Data Infrastructure Controls** | | | |
 | Multi-Factor Authentication | Required | Required | Required |
 | Role Based Access | Required | Required | Required |
 | Access Logging | Required | Required | Recommended |
-| **Data Warehouse Controls** The Enterprise Data Warehouse is a Tier 1 System.| | | |
+| **Data Warehouse Controls** | | | |
 | Quarterly Snowflake User Audits | Required | Required | Required |
 | Quarterly SiSense User Audits | Required  | Required | Required |
 | Quarterly Change Management Review | Required  | Recommended | Not Required |
 | Quarterly RED Data Scanner | Required | N/A | N/A |
-| **Endpoint Devices** All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1 | | | |
+| **Endpoint Devices** | | | |
 | Anti-Malware | Required | Required | Required |
 | Full-Disk Encryption | Required | Required | Required |
 | Quarterly Data Purge | Required | Required | Required |
+
+
+* Data Infrastructure: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
+* Data Warehouse Controls: The Enterprise Data Warehouse is a Tier 1 System.
+* Endpoint Devices: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
