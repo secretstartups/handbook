@@ -44,10 +44,10 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Passionate about open source and developer tools
 
 ## Levels
-* [Intermediate](https://about.gitlab.com/job-families/engineering/backend-engineer/#intermediate-backend-engineer)
-* [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
-* [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
-* Backend Engineering Manager
+* [Intermediate](/job-families/engineering/development/backend/intermediate)
+* [Senior](/job-families/engineering/development/backend/senior)
+* [Staff](/job-families/engineering/development/backend/staff)
+* [Backend Engineering Manager](/job-families/engineering/development/backend/manager)
 
 ## Performance Indicators
 Backend Engineering Managers have the following job-family performance indicators.
