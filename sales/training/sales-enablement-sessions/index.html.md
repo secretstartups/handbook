@@ -26,11 +26,11 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | Aug 19    |   Deal Review Panel Discussion   |  Alan G. & Aslihan K.       |
 | Aug 26    |   Digital Programs for non-TAM-assigned accounts    |   Michelle H.     |
 | Sep 2    |   Verify: Testing Category Vision & Positioning    |  James H.      |
-| Sep 9    |       |        |
+| Sep 9    |   The Value of EBR's    |  TBD      |
 | Sep 16    |       |        |
 | Sep 23    |  No session (GitLab Contribute)     |        |
 | Sep 30    |  Bitbucket Sales Play     | Brain G.       |
-| Oct 7    |       |        |
+| Oct 7    |  Q3 FY22 Competitive Update     | Aleeta B.       |
 | Oct 14    |  Q3 FY22 Product Update     |   Brian G.     |
 | Oct 21    | *No sessions during the last two weeks of a quarter*      |        |
 | Oct 28    |  *No sessions during the last two weeks of a quarter*     |        |
