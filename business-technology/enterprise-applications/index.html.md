@@ -12,7 +12,7 @@ description: "The Enterprise Applications Team implements and supports specializ
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# <i class="fas fa-newspaper" id="biz-tech-icons"></i> Who We Are
+# <i class="fas fa-users" id="biz-tech-icons"></i> Who We Are
 
 The **Enterprise Applications Team** implements and supports specialized applications that support our business processes within GitLab.
 
@@ -20,7 +20,17 @@ We are directly responsible for all of GitLab's finance systems and Enterprise A
 
 Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Expensify, and etc. (tech stack).  Also we are responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
 
-# <i class="fas fa-tasks" id="biz-tech-icons"></i> Our Vision
+Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles below!
+
+
+<div class="flex-row" markdown="0" style="height:80px">
+  <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
+  <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
+  <a href="/handbook/business-technology/enterprise-applications/financeops/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
+  <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:25%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
+</div>
+
+# <i class="fas fa-bullseye" id="biz-tech-icons"></i> Our Vision
 
 - To enable end to end business processes within the enterprise applications that seamlessly hand off to each other and ensure it provides a great user experience to our business partners
 - Ensure data integrity between systems  and security of that data
@@ -49,18 +59,9 @@ Our team ensures the availability of these applications and integrations through
 ### Project Retrospectives
 * We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
 
-# <i class="fas fa-users" id="biz-tech-icons"></i> The Team
+### Architectural Troubleshooting
 
-
-Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles below!
-
-
-<div class="flex-row" markdown="0" style="height:80px">
-  <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
-  <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
-  <a href="/handbook/business-technology/enterprise-applications/financeops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
-  <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
-</div>
+We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
 
 
 ## <i class="far fa-building" id="biz-tech-icons"></i> Results We've Delivered
@@ -72,24 +73,17 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 - DocuSign Implementation
 
 
-##### CustomersDot integrations and operations
-
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1586460?assignee_username=j.carey&" class="btn btn-purple">Work Management Board</a>
-
-- CustomersDot Analysis/Research, Documentation, and Architecture Recommendations
-- Partner to Go to Market Operations (Marketing and Sales Ops), Sales Systems, Customer Success Operations, and Channel Operations.
 
 
-## Templates
+
+## ## <i class="far fa-file-alt" id="biz-tech-icons"></i> Templates We Use
 *  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
 *  [Change Management: Third Party Applications Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Third%20Party%20Change%20Management)
 *  [Change Management: Internal Tool Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Internal_Change_Management)
 *  [Software application selection: Request for Proposal](https://docs.google.com/document/d/1_Q2b5opYUQ9TlGmF2vOJ6anu0spVFMkNO6YCR4UjYXM/edit?usp=sharing)
 *  [Software application selection: User Stories](https://docs.google.com/spreadsheets/d/1c1R0pqKr8YwXXATzFVEUaofF2luNrHbmcNkKAWisebs/edit?usp=sharing)
 
-##### Solving Business Problems/Architectural Troubleshooting
 
-We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
 
 #####  Documentation we support
 
@@ -137,16 +131,15 @@ We have high level views of the enterprise application ecosystem and can help tr
 1. Mavenlink
 1. EdCast
 
-#### What's the status of my request?
 
-- Every issue will have a tag of either
-- ~"BT PS:: Backlog" > Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
-- ~"BT PS::To Do" > Team will look at the issue within a week of submitting
-- ~"BT PS::In Progress" > Team is currently actively working on scoping out and gathering requirements
-- ~"BT PS::Done"
 
-##### Change Process
 
+
+## Guides
+[Enterprise Application guides for internal training](./guides)
+
+## <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Process
+### Issue Process
 1. [Issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) submitted with request
 1. Request is approved by technical owner and business owner (as necessary).
     ([Approvals Queue](https://gitlab.com/groups/gitlab-com/-/boards/1774935))
@@ -154,5 +147,12 @@ We have high level views of the enterprise application ecosystem and can help tr
 1. Change validated
 1. Change deployed to production environment
 
-## Guides
-[Enterprise Application guides for internal training](./guides)
+### Issue Status
+
+- Every issue will have a tag of either
+- ~"BT PS:: Backlog" > Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
+- ~"BT PS::To Do" > Team will look at the issue within a week of submitting
+- ~"BT PS::In Progress" > Team is currently actively working on scoping out and gathering requirements
+- ~"BT PS::Done"
+
+## <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
