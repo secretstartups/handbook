@@ -27,8 +27,7 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 ## Requirements
 * Ability to use GitLab
 * Exquisite brokering skills: regularly achieve consensus amongst departments
-* 5 years or more experience
-* 2 years or more experience in a leadership role with current technical experience
+* Demonstrated progressive experience in a leadership role with current technical experience
 * In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's [specialty](#specialties)
 * Excellent written and verbal communication skills
 * You share our [values](/handbook/values/), and work in accordance with those values
