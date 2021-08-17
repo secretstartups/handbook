@@ -297,7 +297,9 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 **Topic: Having Career Conversations with Your Manager**
 
-- Career Development Interviews
+- [Career Development with Brittany Rohde](https://gitlab.edcast.com/pathways/career-development-with-brittany-rohde)
+- [Career Development with Christopher Wang](https://gitlab.edcast.com/pathways/career-development-with-christopher-wang)
+- [Career Development with Brendan O'Leary](https://gitlab.edcast.com/pathways/career-development-with-brendan-o-leary)
 - Live Session: Having Career Conversations with Your Manager 
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
@@ -309,6 +311,7 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 - Career Development Interviews
 - Live Session: Having Career Conversations with Your Team Members
+   - 2021-08-11 @ 12am PT 
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
-   - 2021-08-11 @ 6pm PT 
+
