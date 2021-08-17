@@ -13,22 +13,6 @@ description: "Business Systems Lead to Fulfillment Documentation"
 {:toc .hidden-md .hidden-lg}
 
 
-
-## Primary Enterprise Applications
-
-#### Salesforce
-* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
-* Salesforce is owned by the Sales Systems team at GitLab.
-
-#### Zuora
-* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
-* Zuora is owned by the Finance team at GitLab.
-
-#### CustomersDot
-* CustomersDot is used when the customer logs in to manage their account details for their subscription
-* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
-
-
 ### Lead to Fulfillment Applications
 
 <div class="limit-width">
@@ -75,6 +59,20 @@ description: "Business Systems Lead to Fulfillment Documentation"
 <div class="grid-item-small" style="background-color: #168f48; grid-column-start: 4;grid-column-end: 5;">See Sell</div>
 </div>
 </div>
+
+## Primary Enterprise Applications
+
+#### Salesforce
+* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
+* Salesforce is owned by the Sales Systems team at GitLab.
+
+#### Zuora
+* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
+* Zuora is owned by the Finance team at GitLab.
+
+#### CustomersDot
+* CustomersDot is used when the customer logs in to manage their account details for their subscription
+* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 
 
 ## Resources
@@ -394,75 +392,17 @@ Tickets come into the L&R queue in Zendesk generally three ways, generally prior
 - **Passing to Billing:** The mechanism to pass tickets to the Billing team is to open the ticket, then change the field `form` from the value `Upgrades, Renewals & AR (refunds)` to `Accounts Receivable/Refunds`.
     This puts the ticket into the Billing Team's queue which they then manage.
 
-## Defined Technology Approach
 
-##### sales operations
+## <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
+### Slack Channels
+- `#enterprise-apps`
+- `#business-technology`
+- `#bt-finance-operations`
+- `#financesystems_help`
+- `#bt-integrations`
 
-Directly Responsible Individual James Harrison
-
-- Clear, consistent workflows for Sales to be trained on new business and renewals.
-- Clear, consistent processes on how to get self-service support or Sales support.
-
-##### fulfillment
-
-Directly Responsible Individual Amanda Rueda
-
-- Customers and Sales to be provided with easy to read format of known bugs that are affecting the CustomersDot, what is the workaround, how to ask for the workaround to be applied to them, and what the timeline to fix is.
-- Improvements to the web store’s user interface, user experience, and backend processes and integrations.
-- Provide regular and clear updates to the Sales and Customer Success organizations about work in progress and upcoming work that has an impact on those customer facing organizations.
-
-##### support
-
-Directly Responsible Individuals Donique Smit and Shaun McCann
-
-- Support, triage and work the Zendesk License and Renewal queue.
-- Provide feedback to stakeholders.
-- Document known bugs and workarounds in appropriate locations as identified by Product.
-- Participate in single lane channel identified by Sales to request help from Support.
-- Work with Sales Systems team to resolve Salesforce synchronization problems.
-
-##### enterprise applications
-
-Directly Responsible Individuals Christopher Nelson
-
-- Provide support to Sales, Support, and Product in creating interdepartmental feedback loops, workflows, and processes.
-- Continue to monitor and illuminate gaps.
-- Document the relationship between the CustomersDot and the product for Docs and Sales to provide to the customer during onboarding.
-- Work with Product, Sales, and Support on a unified list of product features and functionality in prioritized order for Product.
-
-##### enterprise applications integrations
-
-Directly Responsible Individual Daniel Parker
-
-##### finance operations
-
-Directly Responsible Individual Alex Westbrook, Mark Quitevis
-
-- Primary administration of Zuora.
-- Work with Sales Systems and Fulfillment team to identify gaps, improve integrations between systems.
-- Participate in end to end testing of enterprise application ecosystem.
-
-##### sales systems
-
-Directly Responsible Individual Jack Brennan
-
-- Primary administration of Salesforce.
-- Work with Finance Operations and Fulfillment team to identify gaps, improve integrations between systems.
-- Participate in end to end testing of enterprise application ecosystem.
-
-## Contact Us
-### Open an issue
-
+### GitLab Issues
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">BSA</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Enterprise Applications Integrations</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
-</div>
-
-### Slack channels
-
-- [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
-- [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
-- [`#btg-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
-- [`#business-fulfillment-sync`](https://gitlab.slack.com/archives/CR0FUJRRV)
-- [`gtm-operations`](https://gitlab.slack.com/archives/GEMFSJ94L)
+  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
