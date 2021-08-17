@@ -304,6 +304,7 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
    - 2021-08-11 @ 6pm PT 
+   - [Recording of call](/handbook/people-group/learning-and-development/career-development/#igp-live-learning)
 
 #### Week 4 
 
