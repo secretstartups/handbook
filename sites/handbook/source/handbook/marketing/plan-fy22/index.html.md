@@ -128,7 +128,7 @@ _The list below includes potential and recommended items to include in a GTM Mot
     - Product capabilities
     - etc.
 - [Campaign Brief(s)](/handbook/marketing/plan-fy22/#gtm-motion-campaign)
-- [Sales Play(s)]((/handbook/marketing/plan-fy22/#sales-plays)
+- [Sales Play(s)](/handbook/marketing/plan-fy22/#sales-plays)
 - Supporting content
     - Buyer journey content (including awareness, consideration, and decision)
     - Competitive assets
