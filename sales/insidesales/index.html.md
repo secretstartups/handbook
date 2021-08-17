@@ -77,7 +77,7 @@ A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and
 
 ISR Requirements:
 - Copy the account leader on all customer-facing communications
-- Maintain Opportunity Task (with current or future date) on ALL open opportunities in Tier 2
+- Maintain an Opportunity Task (with current or future date) on ALL open opportunities in Tier 2
 - Ensure that the _Activity Task_ and/or _Next Steps_ field includes who is responsible for next steps
 - Ensure proper logging of ALL activities in Salesforce
 
@@ -86,7 +86,7 @@ ISR Requirements:
 "SAL-managed" opportunities are managed entirely by the SAL including customer-facing activities, quoting, internal approvals and paper process.
 
 ISR Requirements:
-- Assist with paper process, quoting, approvals on an as-needed basis
+- Assist with paper process, quoting, approvals, and customer-facing activity on an as-needed basis
 - Ensure all activities are logged in next steps
 
 #### Tier 4 = Low touch
