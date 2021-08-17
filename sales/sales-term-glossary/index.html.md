@@ -367,7 +367,7 @@ formula: (Net ARR / # of native quota carrying reps adjusted for ramp time) * 12
 The Net ARR used in this calculation only includes opportunities owned by quota carrying sales reps (not by a manager, director, or VP).
 Additionally, opportunities that represent web portal purchases are split out separately.
 
-#### Measuring Sales Rep Productivity
+### Measuring Sales Rep Productivity
 
 The primary metric when measuring rep productivity for only for quota attainment but also for compensation is the Gross Annual Recurring Revenue Value (Gross ARR).
 Is is important to remember that while renewals are not a part of comp or quota attainment, renewing customers is still very important aspect of our business.
@@ -380,6 +380,11 @@ Another measured KPI is Rep Productivity (as defined above) divided by On Target
 ### Full Time Equivalent (FTE)
 
 A ramp adjusted sales head count. 
+
+### Measuring Sales Rep Participation
+
+During Sales Key Review meetings, we review Sales Rep participation, which we define as the % of active Reps on a team who have eclipsed defined thresholds of either quota attainment or pipeline coverage. Thresholds change throughout the year and are communicated in the Sales Key Review presentations in #key-review. The logic is that not all Reps may be able to participate by closing an acceptable % of their quota to date, however they should have enough deals in the pipe to cover their remaining quota in order to be deemed participating. Another lens is the population of reps at risk, which is the direct inverse of participating Reps. Reps at risk fail to meet both our quota attainment and pipe coverage thresholds.
+
 
 ## Systems Terminology Definitions 
 
