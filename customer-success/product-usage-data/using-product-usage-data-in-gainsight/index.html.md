@@ -147,12 +147,11 @@ Below are the various data sources, their definitions, and uses.
 
 ### Triaging Data Quality
 
-* Seat Link: Use the [License Usage reporting bad data](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/#reporting-bad-data) process
-* Usage Ping: 
-   1. Confirm with CS Operations whether the data quality issue is specific to Gainsight or upstream (post in #gainsight-users)
-   1. If the data quality issue is upstream, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues)
-      1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
-      1. Please include screenshots for troubleshooting and _mark issue as confidential_
+1. Confirm with CS Operations whether the data quality issue is specific to Gainsight or upstream (post in #gainsight-users)
+   1. Alternatively, compare Gainsight to LicensesDot
+1. If the data quality issue is upstream, create a data quality issue in the [Data project](https://gitlab.com/gitlab-data/analytics/-/issues)
+   1. Attach to the [data quality epic](https://gitlab.com/groups/gitlab-data/-/epics/216)
+   1. Please include screenshots for troubleshooting and _mark issue as confidential_
 
 ##### Usage Ping (self-managed)
 
@@ -160,13 +159,7 @@ We utilize Usage Ping to derive self-managed customer usage data. For more detai
 
 ##### SaaS (Snowplow))
 
-We are targeting SaaS product usage data in FY22-Q2.
-
-##### Seat Link
-
-Seat Link data encompasses license utilization data for **all** customers, regardless of type (self-managed or SaaS). Limitations:
-1. For privacy reasons, we do not collect the hostname (see [blog post](https://about.gitlab.com/blog/2020/03/16/how-were-improving-self-managed-billing/)) or other instance meta data. Instead, the highest reporting instance for a given subscription is displayed
-1. Seat Link does **not** have product usage data; it only counts licenses
+SaaS customer data is in Gainsight as of the end of FY22-Q2.
 
 ##### Mapping Licenses to Subscriptions
 
