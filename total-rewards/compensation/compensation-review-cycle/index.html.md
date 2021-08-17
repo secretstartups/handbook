@@ -523,7 +523,7 @@ A team member did not receive an increase over Annual Compensation review as the
 
 ### Targeted Mid-year Increase Review Timeline
 
-All approved increases will be effective on September 1.
+**All approved increases will be effective on September 1.**
 
 * August 11th: Compaas Opens
 * August 20th: Compaas Closes, All e-group approvals must be in place by August 25th  
