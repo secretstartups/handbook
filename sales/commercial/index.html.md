@@ -393,7 +393,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
+It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:
