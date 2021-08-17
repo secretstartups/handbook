@@ -66,13 +66,28 @@ This process helps to better organize, track, and report on the different types 
 
 An "actively managed" opportunity is any opportunity or renewal which has been delegated by a SAL or AE to be directly managed by an ISR. 
 
+ISR Requirements:
+- Copy the account leader on all customer-facing communications
+- Maintain an Opportunity Task (with current or future date) on ALL open opportunities in Tier 1
+- Ensure proper logging of ALL activities in Salesforce
+
 #### Tier 2 = Co-managed by SAL and ISR
 
-A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and work together with customers to close. For Tier 2 opportunities, ISR's and SAL's should notate in the _activity task_ and/or _next steps field_ which individual is responsible for next steps.
+A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and work together with customers to close. 
+
+ISR Requirements:
+- Copy the account leader on all customer-facing communications
+- Maintain Opportunity Task (with current or future date) on ALL open opportunities in Tier 2
+- Ensure that the _Activity Task_ and/or _Next Steps_ field includes who is responsible for next steps
+- Ensure proper logging of ALL activities in Salesforce
 
 #### Tier 3 = SAL-managed
 
 "SAL-managed" opportunities are managed entirely by the SAL including customer-facing activities, quoting, internal approvals and paper process.
+
+ISR Requirements:
+- Assist with paper process, quoting, approvals on an as-needed basis
+- Ensure all activities are logged in next steps
 
 #### Tier 4 = Low touch
 
@@ -80,7 +95,7 @@ A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and
 
 
 ### Opportunity Task Management
-In addition to being tagged on every opportunity in region, ISRs should maintain an `Opportunity Task` for each open opportunity. These tasks help ISRs stay on task and should be maintained and updated regularly as opportunities progress through the sales cycle. Each ISR has an individual Opportunity Task report that is reviewed by leadership to ensure that regional opportunities are being progressed and that all opportunities are being tracked by the Inside Sales team.
+In addition to being tagged on every opportunity in region, ISRs should maintain an `Opportunity Task` for each open opportunity in Tiers 1, 2, and 4. These tasks help ISRs stay on task and should be maintained and updated regularly as opportunities progress through the sales cycle. Each ISR has an individual Opportunity Task report that is reviewed by leadership to ensure that regional opportunities are being progressed and that all opportunities are being tracked by the Inside Sales team.
 
 ### ISR Note Taking
 
