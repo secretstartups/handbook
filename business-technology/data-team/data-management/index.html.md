@@ -12,9 +12,9 @@ description: "The Data Management Page covers the content around managing, secur
 
 ##  Welcome to the Data Management Page
 
-This page covers practices and policies around managing, securing, and governing the Enterprise Data Platform and related activities.
+This page covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it.
 
-### Data Security Practices
+## Data Security Practices
 
 The Enterprise Data Platform captures, processes, and stores [data collected from many systems](/handbook/business-technology/data-team/platform/#extract-and-load). Not all of this data is of the same importance and we use the [Critical System Tier](/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html) framework and [Data Classification Standard](/handbook/engineering/security/data-classification-standard.html#security-and-privacy-controls) to help us determine what data is most important and how to best secure it.
 
@@ -38,7 +38,7 @@ We deploy a Role-Based Data Access Scheme in Snowflake:
 
 * User Access is managed with Okta and [Access Requests are managed with GitLab](/handbook/business-technology/data-team/platform/#warehouse-access)
 * Each user is assigned one more (Roles based on their job function)[/handbook/business-technology/data-team/platform/#snowflake-permissions-paradigm] and this configuration is managed with [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
-* The Snowflake scheme interacts with the Sisense Data Access schema to ensure a user does not have a "back door" into data from either system
+* The Snowflake scheme interacts with the Sisense Data Access scheme to ensure a user does not have a "back door" into data from either system.
 
 Additional controls include:
 
@@ -46,10 +46,10 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
-### General Data Controls
+### General Data Security Controls
 
 * For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/risk-field-security/critical-systems.html#determining-critical-system-tiers). 
-* `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform, including Snowflake and Sisense.
+* `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
 
 | Control | RED | ORANGE | YELLOW |
 | :-- | :-- | :-- | :-- |
@@ -74,6 +74,6 @@ Additional controls include:
 | Quarterly Data Purge | Required | Required | Required |
 
 
-* Data Infrastructure: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
-* Data Warehouse Controls: The Enterprise Data Warehouse is a Tier 1 System.
-* Endpoint Devices: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
+* **Data Infrastructure**: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
+* **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
+* **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
