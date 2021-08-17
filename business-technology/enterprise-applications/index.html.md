@@ -164,4 +164,11 @@ We also use labels to identify the responsible group within Enterprise Applicati
 - `#enterprise-apps`
 - `#business-technology`
 - `#bt-finance-operations`
-- `#gtm-operations`
+- `#financesystems_help`
+- `#bt-integrations`
+
+### GitLab Issues
+<div class="flex-row" markdown="0" style="height:80px">
+  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
