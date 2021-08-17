@@ -31,26 +31,29 @@ Our team ensures the availability of these applications and integrations through
 
 # <i class="fas fa-bullhorn" id="biz-tech-icons"></i> Services We Offer
 
-##### Business Process Improvements
+### Business Process Improvements
 * Being business process first, means that the Enterprise Applications team will firm up requirements, use cases, and process flows as we implement systems, enhance them or deliver fixes.   Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/).
 
-##### Application Evaluations & Implementations 
+### Application Evaluations & Implementations 
 *  We provide templates for vendor evaluations, can help write and review your user stories, and are happy to participate in tool evaluations that integrate with other applications or intersect with multiple departments. Once an application is selected, our team will align with vendor teams to implement Enterprise Applications that are coming on board. We follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/#system-implementations).
 
-##### Finance Systems Administration
+### Finance Systems Administration
 *  Enterprise Applications supports all of the core finance systems with experienced admins that streamline and enhance current processes, turn on new features, and improve end to end process cycle time.
 
-##### Integrations Engineering
+### Integrations Engineering
 * Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
 
-##### IT Audit and Compliance
+### IT Audit and Compliance
 * Focusing on operationalizing and optimizing the Information Technology General Compute Controls (ITGCs) for GitLab.  This is a critical step to supporting our security posture and meeting SOX compliance and becoming a public company. Learn more in our [IT Compliance handbook page](https://about.gitlab.com/handbook/business-technology/it-compliance/).
 
-##### Project Retrospectives
+### Project Retrospectives
 * We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
 
-# <i class="fas fa-users" id="biz-tech-icons"></i> The team
-Our Enterprise application team is made up of 4 roles. Learn more about each by clicking on the tiles below!
+# <i class="fas fa-users" id="biz-tech-icons"></i> The Team
+
+
+Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles below!
+
 
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
