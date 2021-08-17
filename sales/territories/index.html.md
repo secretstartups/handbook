@@ -176,7 +176,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Antonio Mimmo |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Pierre Goyeneix	| Anthony Seguillon | Sarina Kraft |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2.1	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
