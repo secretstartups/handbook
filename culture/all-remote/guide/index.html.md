@@ -89,6 +89,10 @@ Despite its many [advantages](/company/culture/all-remote/benefits/), all-remote
 
 Learn more about [disadvantages to all-remote, along with solutions to these challenges](/company/culture/all-remote/drawbacks/).
 
+## The GitLab Test: 12 Steps to Better Remote
+
+Borrowing format from The Joel Test, this [12 question test](/company/culture/all-remote/the-gitlab-test-remote-work/) helps leaders understand if you're running a great remote operation.
+
 ## Remote work emergency plan: What to do (and where to start)
 
 Due to global issues concerning COVID-19 (Coronavirus), many employees and employers are facing a new reality: they're remote, and they’re unsure of when they’ll be able to return to the office.
