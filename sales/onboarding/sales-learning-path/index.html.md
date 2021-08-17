@@ -12,7 +12,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ## Sales & Customer Success Quick Start Learning Path - Core Curriculum
 
-### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1471767)
+### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -60,7 +60,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
-### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470260)
+### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7172709)
 *  **Our Portfolio**
    - Please click on the link below and go through the course modules. 
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
