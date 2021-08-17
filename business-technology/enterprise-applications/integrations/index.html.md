@@ -35,7 +35,7 @@ Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/
 ### Karuna Singh - Integrations Engineer
 GitLab handle: [@Karuna16](https://gitlab.com/Karuna16){:target="_blank"}
 
-Slack handle: [@dparker](https://gitlab.slack.com/team/U01760T6R6Y){:target="_blank"}
+Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK){:target="_blank"}
 
 Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
