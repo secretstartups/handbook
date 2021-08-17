@@ -26,8 +26,8 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 | Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
 | Sep 1       |  [Reporting Options/ Metrics with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29)              |  Sameer K.              |
 | Sep 15      |   [Gitlab + DVC for Code and Data Version Control](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/139)             |    William A.            |
-| Oct 6      |                |                |
-| Oct 20       |                |                |
+| Oct 6      |   [How to spin-up GitLab instance in AWS marketplace](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/143)             |    Itzik G.            |
+| Oct 20       |   [GitOps with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/141)             |  Cesar S.              |
 
 
 ## Past Sessions
