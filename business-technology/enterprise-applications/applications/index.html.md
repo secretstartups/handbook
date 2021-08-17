@@ -12,8 +12,30 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+# Enterprise Application Ecosystem
+The Enterprise Applications team helps to maintain, support and enhance our enterprise application ecosystem, including the following business processes:
+* Lead to Cash
+* Procure to Pay
+* Record to Report
 
-## Lead To Fulfillment Process Components
+## Lead To Cash Process
+
+### Key Applications
+
+#### Salesforce
+* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
+* Salesforce is owned by the Sales Systems team at GitLab.
+
+#### Zuora
+* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
+* Zuora is owned by the Finance team at GitLab.
+
+#### CustomersDot
+* CustomersDot is used when the customer logs in to manage their account details for their subscription
+* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
+
+
+### High-level Application Flow
 
 <div class="limit-width">
 <div class="grid-container">
@@ -64,54 +86,9 @@ description: "Business Systems Lead to Fulfillment Documentation"
 
 
 
-## Enterprise Application Ecosystem
 
-### CustomersDot
 
-- This application is where the customer logs in to manage their account details for their subscription
-- The CustomersDot also sends and receives data to and from other applications like: Zuora, Salesforce, GitLab.com, and LicenseDot.
-- GitLab engineers created CustomersDot and the [Fulfillment team manages it](/handbook/engineering/development/fulfillment/).
-- Additionally, there are two other points of sale online: via the [AWS marketplace](https://aws.amazon.com/marketplace/seller-profile?id=9657c703-ca56-4b54-b029-9ded0fadd970) and [GOV.UK Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/526446644571793).
 
-### Salesforce
-
-### Zuora
-
-### EntApp Ecosystem issues and boards
-
-<details>
-<summary markdown='span'>
-  issue lists
-</summary>
-
-- [all issues with EntApp Ecosystem label](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=EntApp%20Ecosystem)
-
-</details>
-
-<details>
-<summary markdown='span'>
-  issue boards
-</summary>
-
-- [gitlab-org Fulfillment board by milestone](https://gitlab.com/groups/gitlab-org/-/boards/2197144?scope=all&utf8=%E2%9C%93&label_name[]=devops%3A%3Afulfillment&label_name[]=EntApp%20Ecosystem)
-- [EntApp Integration Work label in gitlab-org](https://gitlab.com/groups/gitlab-org/-/boards/1862236?&label_name%5B%5D=EntApp%20Integration%20Work)
-- [EntApp Integration Work label in gitlab-com](https://gitlab.com/groups/gitlab-com/-/boards/1862240?&label_name%5B%5D=EntApp%20Integration%20Work)
-- [gitlab-services](https://gitlab.com/groups/gitlab-services/-/boards/1582585?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=EntApp%20Ecosystem)
-- [gitlab-data](https://gitlab.com/gitlab-data/analytics/-/boards/1723125?&label_name%5B%5D=EntApp%20Ecosystem)
-- [Sales Systems by EntApp Ecosystem label](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/boards/1877940?&label_name%5B%5D=EntApp%20Ecosystem)
-- [Potential work for EntApp Integration team - by Security label](https://gitlab.com/gitlab-org/customers-gitlab-com/-/boards/1735210?label_name%5B%5D=security)
-
-</details>
-
-<details>
-<summary markdown='span'>
-  related epics
-</summary>
-
-- [Improve CustomersDot to GitLab.com provisioning sync](https://gitlab.com/groups/gitlab-org/-/epics/3379)
-- [GitLab.com <> CustomersDot, License, Zuora Integration](https://gitlab.com/groups/gitlab-org/-/epics/3602)
-
-</details>
 
 ##### team boards
 
