@@ -190,6 +190,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * Mail related to employment, payroll, workers compensation, court orders - mail to designated Payroll Specialist.
 * Mail related to unemployment claims - scan and email to the [designated People Operations Specialist](/handbook/people-group/offboarding/#us-unemployment-claim-management) at `peopleops@gitlab.com`.
 * Mail addressed to AP - scan and email to ap@gitlab.com.
+* Mail addressed to Meltano - scan and email to the contact person as listed in the Company Mail doc.
 * All human resources related documents will be sent to a designated team member on the People Group Team.
 * The Sr. EBA to the CFO is responsible for all remaining mail, which will be dispersed accordingly to specific individuals.
 * More information can be found [here](https://docs.google.com/document/d/1EwaqZpivB2b7tozZNV6iaFzIpNePIM4HsLbk62Ym0lQ/edit#).
