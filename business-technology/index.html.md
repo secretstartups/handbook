@@ -53,7 +53,6 @@ description: Business Technology
 ## <i id="biz-tech-icons" class="far fa-newspaper"></i>What's happening?
 
 - [FY22 OKRs Business Technology](https://gitlab.com/gitlab-com/business-technology/okrs/-/blob/master/README.md)
-- [Endpoint management](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48867)
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>Objectives of our organization
 
