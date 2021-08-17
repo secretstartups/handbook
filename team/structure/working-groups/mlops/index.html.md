@@ -25,7 +25,7 @@ canonical_path: "/company/team/structure/working-groups/mlops/"
 
 This Working Group has the following goals:
 
-1. Define a process for generating, storing and accessing data for training of models from GitLab.com
+1. Formalize the processes related to provenance, storage and access of GitLab.com production data for the purpose of model training.
     - Determine how to build a GitLab asynchronous event stream for the purposes of getting data for pre-processing and training
 1. Establish a framework and tooling for hyper-parameter tuning, retraining, versioning, and deploying new ML models
 1. Determine how to distribute machine learning models on self-hosted instances
@@ -57,9 +57,9 @@ Read more about the topic area from the links below:
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
 
-1. Produce a somewhat standard/conventional definition of tooling and frameworks that GitLab teams can refer to when kicking off ML-related projects.
+1. Produce a standard/conventional definition of tooling and frameworks that GitLab teams can refer to when kicking off ML-related projects.
 1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
-1. TBD
+1. Define a system architecture for incorporating an event stream for asynchronous processing and storage of events for training ML models.
 
 ## Roles and Responsibilities
 
