@@ -97,6 +97,11 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 | 2020-07-07 | Which historical figure would you most like to go for a drink with? | ? |
 | 2020-08-04 | Favorite Pizza Toppings (Wrong Answers Only)| [Angelo](https://gitlab.com/agulina) |
 | 2020-09-01 | [Movie / TV Series line](http://gph.is/1GFhxC9) you would use in a Merge Request | ? |
+| 2020-10-20 | Spooktakular | ? |
+| 2021-03-02 | What's your favourite childhood movie? Or the one you've watched the most times? | ? |
+| 2021-05-11 | If you were not a software engineer, what would you do? | Sheldon |
+| 2021-06-22 | What's the piece of tech you miss the most? | Paul S |
+| 2021-08-17 | A kilobyte of fun | Mark |
 
 ### Frontend calendar
 
