@@ -115,6 +115,24 @@ When going out of office, please be sure to [clearly communicate](https://about.
 - [14.1 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/240)
 - [14.2 Planning Issue](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/275)
 
+### Estimation
+
+#### Features
+
+For feature work, we follow the [estimation rubric](https://about.gitlab.com/handbook/engineering/development/fulfillment/#estimation) provided on the Fulfillment handbook page that matches a description to a weight mostly along complexity and breadth of change required.
+
+#### Spikes
+
+We use spikes to produce a design document or similar artifact that is useful for planning out feature work. This can simply be, but not limited to, an issue containing a summary of the discussions on the topic, answers to questions from the spike description, links to any PoC MRs produced, a roadmap or other detailed outline.
+
+Estimating the effort required for a Spike is not as clearly set or easily defined as feature work because the complexity can't be accurately estimated. Take into consideration the following criteria when adding a weight to spike issue.
+
+- scope
+- duration (time box)
+- outcome / deliverable / artifact production
+
+Follow the same Fibbonacci scale used for feature work from 1 (low, quick, easy) to 5 (large, lengthy, difficult). Historically, we have not estimated [spikes](https://gitlab.com/dashboard/issues?scope=all&state=closed&label_name[]=group%3A%3Autilization&label_name[]=spike) higher than 5.
+
 ## Triage
 
 The following lists are links to Sentry and other tools where we proactively identify and triage Utilization problems. Proactive triage will not only provide for a more secure and robust application, but also provide for a better user experience especially as we iterate on features, reveal features from behind a feature flag, or introduce a refactoring. It leans into our Bias for Action sub-value and raises our awareness of application performance.
