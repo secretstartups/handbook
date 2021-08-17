@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Business Systems: Enterprise Applications Ecosystem"
+title: "Business Systems Documentation"
 description: "Business Systems Lead to Fulfillment Documentation"
 ---
 
@@ -12,15 +12,9 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# Enterprise Application Ecosystem
-The Enterprise Applications team helps to maintain, support and enhance our enterprise application ecosystem, including the following business processes:
-* Lead to Cash
-* Procure to Pay
-* Record to Report
 
-## Lead To Cash Process
 
-### Key Applications
+## Primary Enterprise Applications
 
 #### Salesforce
 * Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
@@ -35,7 +29,7 @@ The Enterprise Applications team helps to maintain, support and enhance our ente
 * GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 
 
-### High-level Application Flow
+### Lead to Fulfillment Applications
 
 <div class="limit-width">
 <div class="grid-container">
@@ -83,45 +77,9 @@ The Enterprise Applications team helps to maintain, support and enhance our ente
 </div>
 
 
-
-
-
-
-
-
-
-##### team boards
-
-<details>
-<summary markdown='span'>
-  not filtered by EntApp Ecosystem label
-</summary>
-
-- [Sales Systems](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name%5B%5D=SalesSystems)
-- [BTG Integrations: Finance projects](https://gitlab.com/groups/gitlab-com/-/boards/1780217?label_name%5B%5D=BTG%20Integrations)
-
-</details>
-
-##### relevant repos and projects
-
-<details>
-<summary markdown='span'>
-  Sales Systems, Growth:Product Intelligence, Fulfillment Engineering, Support Ops, Ent App Integrations
-</summary>
-
-- [Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src)
-- [Zendesk](https://gitlab.com/gitlab-com/support/support-ops)
-- [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
-- [Version app](https://gitlab.com/gitlab-services/version-gitlab-com)
-- [LicenseDot](https://gitlab.com/gitlab-com/license-gitlab-com)
-- [BTG EntApp Integration project](https://gitlab.com/gitlab-com/business-technology/integrations-entapp-ecosystem)
-
-</details>
-
-
 ## Resources
 
-##### high level
+##### High Level
 
 - [WIP: view only Lucidchart diagram lead to fulfillment system flow](https://app.lucidchart.com/documents/view/fe61ff48-c0e3-4f40-b2de-4023d48101d9/0_0)
 - [video of custom setup](https://drive.google.com/drive/folders/1kfCEQM6XYGWYxq3Ke4TNvtmDR-46erVD)
@@ -152,15 +110,9 @@ The Enterprise Applications team helps to maintain, support and enhance our ente
 - [walkthrough video of purchasing CI minutes](https://drive.google.com/drive/folders/1UxEVNgAkL2TwH8NOOmT4a6cFL_vqIZCH)
 
 
-</details>
-
 ## Process Flow Diagrams
 
-##### Web Direct: New Subscription
 
-<div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/46865cd9-a20f-4700-b1f7-a78e5979f9cf" id="Rc-ygnLVD2A7"></iframe></div>
-</div>
 
 ##### Sales-Assisted: New Subscription
 
@@ -169,7 +121,7 @@ The Enterprise Applications team helps to maintain, support and enhance our ente
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="C2F3OR6HW3-s"></iframe></div>
 </div>
 
-##### WIP: Sales-Assisted: Renewal
+##### DRAFT: Sales-Assisted: Renewal
 
 
 <div class="center">
