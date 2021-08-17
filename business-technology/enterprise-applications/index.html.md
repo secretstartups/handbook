@@ -61,36 +61,31 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 
 ### Architectural Troubleshooting
 
-We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
+* We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
 
 
-## <i class="far fa-building" id="biz-tech-icons"></i> Results We've Delivered
+## <i class="far fa-clipboard-check" id="biz-tech-icons"></i> Results We've Delivered
 
-#### New Application Implementations
-- [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76).
+### New Application Implementations
+- [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76)
 - [Adaptive Insights Implementation](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/wikis/2.-Adaptive-Insights)
-- Coupa P2P Implementation
-- DocuSign Implementation
+- [Coupa P2P Implementation](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/168)
+- [DocuSign Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/215)
+
+### Other Initiatives
+- [Zuora CPQ & 360 upgrade to latest version](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/75)
 
 
 
 
 
-## ## <i class="far fa-file-alt" id="biz-tech-icons"></i> Templates We Use
+
+## <i class="far fa-file-alt" id="biz-tech-icons"></i> Templates We Use
 *  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
 *  [Change Management: Third Party Applications Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Third%20Party%20Change%20Management)
 *  [Change Management: Internal Tool Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Internal_Change_Management)
 *  [Software application selection: Request for Proposal](https://docs.google.com/document/d/1_Q2b5opYUQ9TlGmF2vOJ6anu0spVFMkNO6YCR4UjYXM/edit?usp=sharing)
 *  [Software application selection: User Stories](https://docs.google.com/spreadsheets/d/1c1R0pqKr8YwXXATzFVEUaofF2luNrHbmcNkKAWisebs/edit?usp=sharing)
-
-
-
-#####  Documentation we support
-
-- [Tech Stack](/handbook/business-technology/tech-stack-applications/)
-- [CustomersDot Flow](/handbook/business-technology/enterprise-applications/applications/)
-- [Change Management](/handbook/business-technology/change-management/)
-
 
 
 ##### What we are working on?
@@ -135,24 +130,38 @@ We have high level views of the enterprise application ecosystem and can help tr
 
 
 
-## Guides
-[Enterprise Application guides for internal training](./guides)
+## Documentation We Support
+- [Enterprise Application guides for internal training](./guides)
+- [Tech Stack](/handbook/business-technology/tech-stack-applications/)
+- [CustomersDot Flow](/handbook/business-technology/enterprise-applications/applications/)
+- [Change Management](/handbook/business-technology/change-management/)
+
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Process
 ### Issue Process
 1. [Issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) submitted with request
 1. Request is approved by technical owner and business owner (as necessary).
     ([Approvals Queue](https://gitlab.com/groups/gitlab-com/-/boards/1774935))
-1. Change pushed to sandbox/dev environment (as necessary)
+1. Change pushed to sandbox/dev environment
 1. Change validated
 1. Change deployed to production environment
 
-### Issue Status
+### Issue Labels
+Every issue will have a scope tracking tag showing the current status:
+- `BT:Backlog` - Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
+- `BT:To Do` - Team will look at the issue within a week of submitting
+- `BT:In Progress` - Team is currently actively working on scoping out and gathering requirements
+- `BT:Done` - Completed
 
-- Every issue will have a tag of either
-- ~"BT PS:: Backlog" > Unless a due date is indicated or urgency specified, non-access related issues will go into the backlog and prioritized bi-weekly
-- ~"BT PS::To Do" > Team will look at the issue within a week of submitting
-- ~"BT PS::In Progress" > Team is currently actively working on scoping out and gathering requirements
-- ~"BT PS::Done"
+We also use labels to identify the responsible group within Enterprise Applications:
+- `BSA` - business systems analysts issue
+- `BT Finance Systems` - finance admin issue
+- `BT Integrations:Kanban` - integrations team issue
+- `IT Compliance` - IT compliance team
 
 ## <i class="fas fa-headset" id="biz-tech-icons"></i> Contact Us
+### Slack Channels
+- `#enterprise-apps`
+- `#business-technology`
+- `#bt-finance-operations`
+- `#gtm-operations`
