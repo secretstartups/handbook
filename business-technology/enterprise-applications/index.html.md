@@ -14,13 +14,14 @@ description: "The Enterprise Applications Team implements and supports specializ
 
 # <i class="fas fa-users" id="biz-tech-icons"></i> Who We Are
 
+
 The **Enterprise Applications Team** implements and supports specialized applications that support our business processes within GitLab.
 
 We are directly responsible for all of GitLab's finance systems and Enterprise Applications Integrations.  We build and extend these applications to support the processes of our business partners and rationalize our application landscape to ensure it is optimized for efficiency and spend.
 
-Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Expensify, and etc. (tech stack).  Also we are responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
+Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Expensify, etc.  We are also responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
 
-Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles below!
+Our Enterprise Applications team is made up of a combination of roles to best support the services we offer. Learn more about each by clicking on the tiles:
 
 
 <div class="flex-row" markdown="0" style="height:80px">
@@ -64,7 +65,7 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 * We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
 
 
-## <i class="far fa-clipboard-check" id="biz-tech-icons"></i> Results We've Delivered
+## <i class="far fa-poll" id="biz-tech-icons"></i> Results We've Delivered
 
 ### New Application Implementations
 - [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76)
@@ -83,9 +84,9 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 *  [Software application selection: Request for Proposal](https://docs.google.com/document/d/1_Q2b5opYUQ9TlGmF2vOJ6anu0spVFMkNO6YCR4UjYXM/edit?usp=sharing)
 *  [Software application selection: User Stories](https://docs.google.com/spreadsheets/d/1c1R0pqKr8YwXXATzFVEUaofF2luNrHbmcNkKAWisebs/edit?usp=sharing)
 
-## <i class="far fa-laptop-code" id="biz-tech-icons"></i> Applications We Own
+## <i class="far fa-database" id="biz-tech-icons"></i> Applications We Own
 
-1. Zuora: [Board](https://gitlab.com/groups/gitlab-com/-/boards/1723367?label_name[]=FinSys%20-%20Zuora) with everything slated to be done.
+1. Zuora
 1. Z-Revenue (RevPro)
 1. Netsuite
 1. Tipalti
@@ -153,7 +154,7 @@ We also use labels to identify the responsible group within Enterprise Applicati
 - `#financesystems_help`
 - `#bt-integrations`
 
-### GitLab Issues
+### Open an Issue
 <div class="flex-row" markdown="0" style="height:80px">
   <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
   <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
