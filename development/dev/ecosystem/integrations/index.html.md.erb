@@ -25,11 +25,15 @@ Slack Channel (internal): [#g_ecosystem_integrations](https://gitlab.slack.com/a
 
 ## Backend Team Members
 
-<%= direct_team(manager_role: 'Acting Backend Engineering Manager, Ecosystem:Integrations') %>
+<%= direct_team(manager_role: 'Acting Backend Engineering Manager, Ecosystem:Integrations', role_regexp: /Backend/) %>
+
+## Frontend Team Members
+
+<%= direct_team(manager_role: 'Acting Backend Engineering Manager, Ecosystem:Integrations', role_regexp: /Frontend/) %>
 
 ## OKRs
 
-Each quarter we have a series of Objectives and Key Results (OKRs) for our team. To find the current OKRs for this quarter, use [this issue list](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OKR&label_name[]=group%3A%3Aecosystem&label_name[]=backend).
+Each quarter we have a series of Objectives and Key Results (OKRs) for our team. To find the current OKRs for this quarter, use [this issue list](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=OKR&label_name[]=group%3A%3Aintegrations).
 
 ## Metrics
 
@@ -53,16 +57,33 @@ Quality engineering is included in our workflow via the [Quad Planning Process](
 
 <%= partial("handbook/engineering/development/dev/create/what_to_work_on.erb", locals: { group: "Integrations", slack_channel: "g_ecosystem_integrations" }) %>
 
-[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem
+[issue board]: https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=group%3A%3Aintegrations
 [assignment board]: https://gitlab.com/groups/gitlab-org/-/boards/2168283
 
 ### Issue Boards
 
-The work for the Ecosystem Backend team can be tracked on the following issue boards:
+The work for the Integrations team can be tracked on the following issue boards:
 
-- [Ecosystem BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Aecosystem&label_name[]=backend) - Tracks the workflow progress of issues
-- [Ecosystem BE Team Member Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283) - Tracks `backend` and `group::ecosystem` labeled issues by the assigned team member.
-- [Deliverable Board](https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aecosystem) - Tracks `~Deliverable` and `~Stretch` issues
+### Workflow Boards
+
+Workflow Boards track the workflow progress of issues.
+
+- [BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Aintegrations&label_name[]=backend)
+- [FE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/1290820?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Aintegrations&label_name[]=frontend)
+
+### Team Member Boards
+
+Team Member Boards track `group::integrations` labeled issues by the assigned team member.
+
+- [BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&label_name[]=backend&label_name[]=group%3A%3Aintegrations)
+- [FE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/2168283?scope=all&label_name[]=frontend&label_name[]=group%3A%3Aintegrations)
+
+### Deliverable Boards
+
+Deliverable Boards tracks `~Deliverable` and `~Stretch` issues.
+
+- [BE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=backend&label_name[]=group%3A%3Aintegrations)
+- [FE Workflow Board](https://gitlab.com/groups/gitlab-org/-/boards/412126?label_name[]=frontend&label_name[]=group%3A%3Aintegrations)
 
 ### Monitoring
 
@@ -112,5 +133,5 @@ Here are some resources team members can use for employee development:
 - [Create Stage Training opportunities](https://about.gitlab.com/handbook/engineering/development/dev/create/engineers/training/)
 - [GitLab Learning and Development](https://about.gitlab.com/handbook/people-group/learning-and-development/)
 - [GitLab Learn](https://gitlab.edcast.com/)
-- [Ecosystem BE Career Chats](/handbook/engineering/development/dev/ecosystem/integrations/career-chats)
+- [Ecosystem Career Chats](/handbook/engineering/development/dev/ecosystem/integrations/career-chats)
 
