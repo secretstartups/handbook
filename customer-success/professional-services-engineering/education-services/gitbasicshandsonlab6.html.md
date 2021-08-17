@@ -44,7 +44,7 @@ Next, let's add a file with a known vulnerability and see if SAST detects it.
 1. Click **Commit changes**.
 1. In the left-hand navigation pane, click **CI/CD > Pipelines**. 
 1. In the top row of the table of pipelines, click the **running** or **passed** status label. Under the **Test** stage, you should see the `gosec-sast` job. This job does SAST scanning for Go code.
-1. Click the **Security** tab near the middle of the page. In the **Vulnerability** column, click on the `Errors unhandled` vulnerability to read about a potential security problem detected by SAST scanning.
+1. Click on the **Vulnerability Report** under the **Security & Compliance** tab near the middle of the left sidebar. Click on the `Errors unhandled` vulnerability to read about a potential security problem detected by SAST scanning.
 
 ## Suggestions?
 
