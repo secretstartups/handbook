@@ -73,6 +73,7 @@ The charter of this working group is to bridge the gap between different teams t
 | Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
+| Functional Lead                | Eduardo Bonet         | Staff Full Stack Engineer - MLOps, SEG |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
