@@ -20,7 +20,7 @@ We are directly responsible for all of GitLab's finance systems and Enterprise A
 
 Our team ensures the availability of these applications and integrations through monitoring and alerting. These internal-facing applications include a multitude of different applications and environments, including Zuora, Adaptive Planning, Netsuite, Expensify, and etc. (tech stack).  Also we are responsible for the IT Audit and Compliance function to ensure we pass SOX Audit for our IT General Controls (ITGC).
 
-# <i class="fas fa-tasks" id="biz-tech-icons"></i> Vision
+# <i class="fas fa-tasks" id="biz-tech-icons"></i> Our Vision
 
 - To enable end to end business processes within the enterprise applications that seamlessly hand off to each other and ensure it provides a great user experience to our business partners
 - Ensure data integrity between systems  and security of that data
@@ -29,64 +29,44 @@ Our team ensures the availability of these applications and integrations through
 - IT Audit and Compliance - Ensuring that all customer / business data is secure and can pass key audits for attestations and compliance with SOX, SOC, etc.
 
 
-# <i class="fas fa-bullhorn" id="biz-tech-icons"></i> Services we offer
+# <i class="fas fa-bullhorn" id="biz-tech-icons"></i> Services We Offer
 
-##### Business Analysis
-* Being business process first, means that the Enterprise Applications team will firm up requirements, use cases, and process flows as we implement systems, enhance them or deliver fixes.   Learn more here (Link Coming Soon).
+##### Business Process Improvements
+* Being business process first, means that the Enterprise Applications team will firm up requirements, use cases, and process flows as we implement systems, enhance them or deliver fixes.   Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/).
 
-##### Implementation Management
-*  Our team will align with vendor teams to implement Enterprise Applications that are coming on board. We follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently. Learn more here (Link Coming Soon).
+##### Application Evaluations & Implementations 
+*  We provide templates for vendor evaluations, can help write and review your user stories, and are happy to participate in tool evaluations that integrate with other applications or intersect with multiple departments. Once an application is selected, our team will align with vendor teams to implement Enterprise Applications that are coming on board. We follow a process that ensures we keep multiple groups aligned as we iterate to get the systems up quickly and efficiently. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/bsa/#system-implementations).
 
-##### Finance Systems Admin
+##### Finance Systems Administration
 *  Enterprise Applications supports all of the core finance systems with experienced admins that streamline and enhance current processes, turn on new features, and improve end to end process cycle time.
 
-##### Integration Engineering
+##### Integrations Engineering
 * Our integration team manages all of the integrations between Enterprise Applications at GitLab.  Focusing on building out failover, redundant and auditable integrations that are constantly monitored. Learn more [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/).
 
 ##### IT Audit and Compliance
 * Focusing on operationalizing and optimizing the Information Technology General Compute Controls (ITGCs) for GitLab.  This is a critical step to supporting our security posture and meeting SOX compliance and becoming a public company. Learn more in our [IT Compliance handbook page](https://about.gitlab.com/handbook/business-technology/it-compliance/).
 
+##### Project Retrospectives
+* We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
+
 # <i class="fas fa-users" id="biz-tech-icons"></i> The team
+Our Enterprise application team is made up of 4 roles. Learn more about each by clicking on the tiles below!
 
 <div class="flex-row" markdown="0" style="height:80px">
-  <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analyst</a>
+  <a href="/handbook/business-technology/enterprise-applications/bsa/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
   <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">IT Compliance</a>
   <a href="/handbook/business-technology/enterprise-applications/financeops/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Operations</a>
   <a href="/handbook/business-technology/enterprise-applications/integrations/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
 </div>
 
-## <i class="far fa-building" id="biz-tech-icons"></i> Results we are focused on!
 
+## <i class="far fa-building" id="biz-tech-icons"></i> Results We've Delivered
 
-#### Finance
-
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1580145?assignee_username=broncato&&label_name[]=BTG-Project" class="btn btn-purple">Work Management Board</a>
-
-- Work with the Finance and Accounting teams to improve workflows, processes, and application ecosystem
-- Project work to implement new modules to tools
-- Work with stakeholders from other teams like Field Ops and Fulfillment team that integration with the financial ecosystem.
-
-##### In-Flight Projects
-- Zuora Revenue Implementation
-  - Operational Go-live date: December 18 2020.
-  - Project development being tracked in [this Epic](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76).
-
-- Zuora Health Check
-  - Next Milestone: October 31 2020.
-  - Project development and relevant information detailed in [the project wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/wikis/1.-Zuora-Health-Check).
-
-##### On Hold Projects
-- Coupa
-   - Start date: TBD
-   - Project development will be tracked in [this Epic](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/112).
-- Zuora Collect
-   - Start date: TBD
-   - Project development is being tracked in [this Issue](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/325).
-
-##### Completed Projects
-- Adaptive Insights
-  - Go-Live date: August 10 2020.
-  - Project development and relevant information detailed in [the project wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/wikis/2.-Adaptive-Insights).
+#### New Application Implementations
+- [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76).
+- [Adaptive Insights Implementation](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/wikis/2.-Adaptive-Insights)
+- Coupa P2P Implementation
+- DocuSign Implementation
 
 
 ##### CustomersDot integrations and operations
@@ -96,19 +76,6 @@ Our team ensures the availability of these applications and integrations through
 - CustomersDot Analysis/Research, Documentation, and Architecture Recommendations
 - Partner to Go to Market Operations (Marketing and Sales Ops), Sales Systems, Customer Success Operations, and Channel Operations.
 
-### Other activities we support
-
-
-##### Retrospectives
-
-We can host your project retrospective. Please open an issue in the [Business Technology tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
-
-##### Application Evaluations
-
-We provide templates for vendor evaluations, can help write and review your user stories, and are happy to participate in tool evaluations that integrate with other applications or intersect with multiple departments.
-
-Please involve us in all tool evaluations that integrate into the enterprise application ecosystem before beginning demos with vendors.
-[Open an issue.](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new)
 
 ## Templates
 *  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
@@ -128,30 +95,6 @@ We have high level views of the enterprise application ecosystem and can help tr
 - [Change Management](/handbook/business-technology/change-management/)
 
 
-
-##### IT Operations and People Operations
-
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1596495?assignee_username=lisvinueza&" class="btn btn-purple">Work Management Board</a>
-
-- Partner to Team Member Enablement and People Operations
-- Business Technology Operations and Workflows
-
-## <i class="fas fa-user-shield" id="biz-tech-icons"></i> IT Compliance Manager
-
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1802558?label_name[]=IT%20Compliance" class="btn btn-purple">Work Management Board</a>
-
-- Partner to Legal and Security teams to ensure business compliance
-    - Offboarding
-    - GDPR/CCPA
-    - Business Preparedness Plans
-    - SOX Compliance
-
-## <i class="fas fa-hand-holding-usd" id="biz-tech-icons"></i> Finance Operations
-
-- Technical and Operational owner of the finance application ecosystem partnering with Finance and Accounting
-- Maintains and optimizes the integrations of the ecosystem
-- Partner to Sales Ops, Sales Systems, Growth Teams and other departments where the integrations intersect and the data passes from one system into another
-- Slack Channel `#financesystems_help`
 
 ##### What we are working on?
 
