@@ -76,10 +76,6 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 - [Zuora CPQ & 360 upgrade to latest version](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/75)
 
 
-
-
-
-
 ## <i class="far fa-file-alt" id="biz-tech-icons"></i> Templates We Use
 *  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
 *  [Change Management: Third Party Applications Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Third%20Party%20Change%20Management)
@@ -87,25 +83,7 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 *  [Software application selection: Request for Proposal](https://docs.google.com/document/d/1_Q2b5opYUQ9TlGmF2vOJ6anu0spVFMkNO6YCR4UjYXM/edit?usp=sharing)
 *  [Software application selection: User Stories](https://docs.google.com/spreadsheets/d/1c1R0pqKr8YwXXATzFVEUaofF2luNrHbmcNkKAWisebs/edit?usp=sharing)
 
-
-##### What we are working on?
-
-<a href="https://gitlab.com/groups/gitlab-com/-/boards/1722830?assignee_username=awestbrook&" class="btn btn-purple">Work Management Board</a>
-
-- Backlog and In progress issues related to all [finance systems](/handbook/business-technology/enterprise-applications/#finance-systems-covered)
-
-##### Types of Support
-
-1. Access Request or change in access: [Queue](https://gitlab.com/groups/gitlab-com/-/boards/1765444?&label_name[]=FinSys%20-%20Access%20Request).
-    Submit [issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
-1. Breaks, bugs and incidents related to a system.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
-1. Enhancement Request for a system.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
-1. Other and questions.
-    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
-
-##### Finance Systems Covered
+## <i class="far fa-laptop-code" id="biz-tech-icons"></i> Applications We Own
 
 1. Zuora: [Board](https://gitlab.com/groups/gitlab-com/-/boards/1723367?label_name[]=FinSys%20-%20Zuora) with everything slated to be done.
 1. Z-Revenue (RevPro)
@@ -119,25 +97,33 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 1. Workiva
 1. FloQast
 1. Adaptive Planning
-
-##### _Coming Soon_
-
 1. Xactly
 1. Mavenlink
 1. EdCast
+1. DocuSign
 
 
-
-
-
-## Documentation We Support
+## <i class="fas fa-book" id="biz-tech-icons"></i>  Documentation We Support
 - [Enterprise Application guides for internal training](./guides)
 - [Tech Stack](/handbook/business-technology/tech-stack-applications/)
-- [CustomersDot Flow](/handbook/business-technology/enterprise-applications/applications/)
 - [Change Management](/handbook/business-technology/change-management/)
+
+For process flows, integration diagrams and more, check out our [Business Systems Documentation](/handbook/business-technology/enterprise-applications/applications/) page.
 
 
 ## <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Process
+
+### Types of Support
+
+1. Access Request or change in access: [Queue](https://gitlab.com/groups/gitlab-com/-/boards/1765444?&label_name[]=FinSys%20-%20Access%20Request).
+    Submit [issue](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
+1. Breaks, bugs and incidents related to a system.
+    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
+1. Enhancement Request for a system.
+    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
+1. Other and questions.
+    Submit [issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new).
+
 ### Issue Process
 1. [Issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems/-/issues/new) submitted with request
 1. Request is approved by technical owner and business owner (as necessary).
