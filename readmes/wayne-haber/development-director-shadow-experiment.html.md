@@ -9,6 +9,14 @@ title: "Development Director Shadow Experiment"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+### Overview video
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=xC9cOZkIhp0" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+[Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
+
 ### What is the Development Director Shadow Experiment?
 
 I got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [I did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
@@ -82,7 +90,6 @@ No, not at this time.
 
 | Week of | Shadow |
 | ------ | ------ |
-| 8/16/2021 | Open |
 | 8/23/2021 | Open |
 | 8/30/2021 | Time off |
 | 9/6/2021 | Open |
