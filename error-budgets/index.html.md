@@ -28,22 +28,22 @@ Future iterations of our error budgets will seek to further develop the importan
 ## What are the components of error budgets?
 
 Error Budgets first depend on establishing an SLO (Service Level Objective). SLOs are made up of an objective, and SLI (Service Level Indicator), and a timeframe.
-- Objective: The desired level of succcess, noted as a percentage
-- SLI: an evaluation used to distinguish number of failed events
-- Timeframe: enforcing a recency bias to the SLI
+- **Objective**: The desired level of succcess, noted as a percentage
+- **SLI**: an evaluation used to distinguish number of failed events
+- **Timeframe**: enforcing a recency bias to the SLI
 
 Here is an example of these elements:
-- Objective: 99.95% 
-- SLI: 95th percentile latency of api requests over 5 mins is < 100ms
-- Timeframe: previous 28 days
+- **Objective**: 99.95% 
+- **SLI**: 95th percentile latency of api requests over 5 mins is < 100ms
+- **Timeframe**: previous 28 days
 
-Taken all together, the above example SLO would be: _99.95% of the 95th percentile latency of api requests over 5 mins is < 100ms over the previous 28 days_
+Taken all together, the above example SLO would be: **_99.95% of the 95th percentile latency of api requests over 5 mins is < 100ms over the previous 28 days_**
 
-The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .0001).  Using our 28 day timeframe, the "budget" for errors is 20.16 minutes (.0001 * (28*24*60))
+The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .0001).  Using our 28 day timeframe, **the "budget" for errors is 20.16 minutes** (.0001 * (28 * 24 * 60))
 
 While the above example shows the SLI as a latency measurement, it is important to note that other measurements (such as % errors) are also good elements to use for SLIs.
 
-GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but as we continue with the roadmap we look to incorporate more into our approach. Additionally, it is expected that the practices of SLOs and Error Budgets evolves to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
+GitLab's current implementation of Error Budgets is only using some of the above sophistication of SLOs and Error Budgets, but as we continue with the roadmap we look to incorporate more into our approach. Additionally, it is expected that the practices of SLOs and Error Budgets evolve to have **_both_** the objective and the SLI vary (appropriately) based on the criticality of the service as well as the resiliency of other services and components which depend on it.
 
 ## Why are we using error budgets?
 
