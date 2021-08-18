@@ -74,7 +74,7 @@ Here are some steps you can take to get started optimizing your profile.
 **6. Add media**
 - Videos about your team or life at GitLab
 - Blog posts
-- Your [README file](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme)
+- Your [README file](/handbook/leadership/#your-individual-readme)
 
 #### More training for rocking your profile on LinkedIn
 
@@ -97,7 +97,7 @@ Once you've checked out the [team member social media policy](/handbook/marketin
 - [Videos about your team or job family](/handbook/hiring/vacancies/#add-a-video) or what it's like to work on your team ([example](https://youtu.be/KH0knfmwgvc)).
 - Photos of meetups or coworking days with GitLab team members
 - Articles about GitLab in the news - follow the #newswire channel in Slack for a great source of daily updates
-- Your [README file](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme)
+- Your [README file](/handbook/leadership/#your-individual-readme)
 - Consider hosting a public AMA (Ask Me Anything) on [social media](/handbook/marketing/team-member-social-media-policy/) or YouTube about working or life at GitLab, using the `#LifeAtGitLab` hashtag. Or, record a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) with a team member about life at GitLab and upload it to the `Working at GitLab` playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqNM5pnenLqkA9pIoFO5edr).
 
 Here are some [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) you can reference for our latest team headcount, awards, blogs, and more facts about working at GitLab.
