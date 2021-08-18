@@ -26,6 +26,20 @@ Since then, I have been thinking of doing something similar but smaller in scale
 I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
 
+## Benefits
+
+### For the shadow
+
+* Mentoring
+* Learning opportunites
+* Career development exploration
+
+### For the engineering director
+
+* Learning via reverse mentorship
+* Feedback
+
+
 ### Criteria and process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
@@ -58,12 +72,6 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 ## What this program is not
 
 It is not a performance evaluation or a step for a future promotion.
-
-## Benefits for the company
-
-* Mentoring and learning opportunities for the shadow
-* Reverse mentorship learning for Wayne
-* Career development exploration
 
 ## Preparing for the program
 
