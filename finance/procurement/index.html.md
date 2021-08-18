@@ -193,5 +193,6 @@ GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Tr
 * [Company Information](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/company-information) - general information about each legal entity of the company
 * [Trademark](/handbook/marketing/corporate-marketing/brand-activation/brand-standards/#trademark) - information regarding the usage of GitLab's trademark
 * [Authorization Matrix](/handbook/finance/authorization-matrix/) - the authority matrix for spending and binding the company and the process for signing legal documents
+* [Procurement Playbook](https://docs.google.com/document/d/1Hb3S0fZ9CoYpvwusksjSP7vibH4z1ShJE8GX62exLGQ/edit?usp=sharing)
 
 {::options parse_block_html="false" /}
