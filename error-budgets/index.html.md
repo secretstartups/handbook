@@ -185,8 +185,9 @@ The changes below aim to increase the maturity of the Error Budgets.
 
 **Improvements**
 
-- Calculations use a standard request duration threshold which is not appropriate for all endpoints. The threshold is also a value shared with alerting. The standard request duration threshold used for error budget calculation will be decoupled from the value for alerting and set to a higher value. This will reduce our expectations for latency used for Error Budget calculation while keeping the expectations high for the purposes of alerting.
-- Stage groups will next be enabled to set their own SLO per endpoint by expanding on the configurability of request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
+- The SLA objective currently used for Error Budgets are coupled with the alerting used for Infrastructure monitoring. We will separate these two so that we have one SLA objective for alerting (99.95%), and a separate SLA objective for Error Budgets (% to be determined) [issue](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1239)
+- SLI calculations use a shared (single) request duration threshold which is not appropriate for all endpoints. The threshold is also a value shared with alerting. The SLI request duration threshold used for error budget calculation will be decoupled from the value for alerting and set higher. This will reduce our expectations for latency used for Error Budgets while keeping the expectations high for the purposes of alerting.
+- Stage groups will next be enabled to set their own SLI per endpoint by expanding on the configurability of SLI request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
 - Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200)
 and having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/gitlab/-/issues/328535).
 - The [impact of system-wide outages on Error Budgets should be more clear](https://gitlab.com/gitlab-com/Product/-/issues/2884).
