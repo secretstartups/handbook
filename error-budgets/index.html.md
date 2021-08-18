@@ -164,33 +164,33 @@ The changes below aim to increase the maturity of the Error Budgets.
 
 **Improvements**
 
-1. Calculations use a standard request duration threshold which is not appropriate for all endpoints. Stage groups will be enabled 
-to set their own SLO per endpoint. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
-1. Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200)
+- Calculations use a standard request duration threshold which is not appropriate for all endpoints. The threshold is also a value shared with alerting. The standard request duration threshold used for error budget calculation will be decoupled from the value for alerting and set to a higher value. This will reduce our expectations for latency used for Error Budget calculation while keeping the expectations high for the purposes of alerting.
+- Stage groups will next be enabled to set their own SLO per endpoint by expanding on the configurability of request duration threshold. [epic](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/525). 
+- Endpoints that are currently `not_owned` will be attributed to the correct feature category. This will be addressed by [using caller information for Sidekiq](https://gitlab.com/gitlab-com/gl-infra/scalability/-/issues/1200)
 and having [graphQL query-to-feature correlation](https://gitlab.com/gitlab-org/gitlab/-/issues/328535).
-1. The [impact of system-wide outages on Error Budgets should be more clear](https://gitlab.com/gitlab-com/Product/-/issues/2884).
-1. Provide guidance for PM's who report on both Error Budgets and Service Availability. (Such as Runner and Pages). 
+- The [impact of system-wide outages on Error Budgets should be more clear](https://gitlab.com/gitlab-com/Product/-/issues/2884).
+- Provide guidance for PM's who report on both Error Budgets and Service Availability. (Such as Runner and Pages). 
 
-** Product Development Activities**
+**Product Development Activities**
 
 Product Development teams are encouraged to:
-1. Continue working on Infradev issues
-1. Propose SLOs for their endpoints
-1. Provide further feedback for future improvements to Error Budgets
+- Continue working on [Rapid Action][rapid action], [Infradev][infradev], [Corrective Actions][corrective action], [Security][security vulnerabilities], and [Engineering Allocation][engineering allocation] issues per our [Prioritization guidelines][engineering prioritization]
+- Propose SLOs for their endpoints
+- Provide further feedback for future improvements to Error Budgets
 
 #### 2. Increase visibility into Error Budgets (error portion)
 
-1. Stage groups are provided with error count information. This can be supplemented with further detail by [making error information
+- Stage groups are provided with error count information. This can be supplemented with further detail by [making error information
 explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/396). 
 
 #### 3. Tune the scope of Error Budgets
 
-1. Consider incorporating P1/S1 incidents into the Error Budget Calculation.  
+- Consider incorporating P1/S1 incidents into the Error Budget Calculation.  
 
 ## More information
 
-1. [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
-1. [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
+- [Error Budget AMA](https://docs.google.com/presentation/d/1yYnLlTN8KOYNHww91nJgnbFK7l2xf3Cy1mRvUAxHa08/edit)
+- [Understanding Stage Level Error Budget Dashboards](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget)
 
 [strategy]: /direction/#3-year-strategy
 [product strategy]: /direction/enablement/dotcom/
@@ -209,3 +209,9 @@ explorable with Sentry](https://gitlab.com/groups/gitlab-com/gl-infra/-/epics/39
 [eng comms]: /handbook/engineering/#keeping-yourself-informed
 [SLA dashboard]: https://dashboards.gitlab.net/d/general-slas/general-slas?orgId=1&from=now-30d&to=now
 [stage group dashboards]: https://dashboards.gitlab.net/dashboards/f/stage-groups/stage-groups
+[rapid action]: /handbook/engineering/development/#rapid-action
+[infradev]: /handbook/engineering/workflow/#infradev
+[corrective action]: /handbook/engineering/infrastructure/incident-review/#incident-review-issue-creation-and-ownership
+[security vulnerabilities]: /handbook/engineering/security/vulnerability_management/#vulnerability-management-overview
+[engineering allocation]: /handbook/engineering/#engineering-allocation
+[engineering prioritization]: /handbook/engineering/#prioritizing-technical-decisions
