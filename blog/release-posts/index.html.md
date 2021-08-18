@@ -892,6 +892,22 @@ Release post content assembly on the 18th and release post deployment on the 22n
 
 See also: [Google SRE Ch. 14](https://sre.google/sre-book/managing-incidents/)
 
+## Managing Ongoing Technical Support Tasks
+
+Anyone can contribute to technical issues that support the Release Post Process with the burden being mostly on the current volunteer tech advisor. The following outlines how to manage active and upcoming issues.
+
+### Tracking
+
+Use the following `~Release Post::Tech Advisor` label for issues that require changes to the tools that facilitate the delivery of a release post. Create issues for low priority issues that arise during the milestone or as an artifact of decisions made during a retrospective. Creating an issue for immediate incident response isn't required since the delivery of the release post requires quick resolution and synchronous communication.
+
+[This board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/3130926?&label_name[]=Release%20Post%3A%3ATech%20Advisor) organizes these labeled issues into a familiar software development workflow. When working on an issue, assign yourself and strive to keep the issue up-to-date with the proper workflow label and weekly async updates.
+
+### Handoff
+
+It's unlikely that one technical advisor will serve in back-to-back milestones. Therefore, clearly communicating with the incoming technical advisor about the state of issues as part of release post retrospective and kickoff is a good idea.
+
+Should you prefer to continue to contribute to an issue under active development after your volunteer rotation, that's great. In that situation, make it clear through assignments and issue updates that you will be the DRI.
+
 ---
 
 ## Monthly release blog post sections
