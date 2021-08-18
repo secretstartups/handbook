@@ -142,9 +142,9 @@ Once the total rewards team has approved the bike or ticket application, an invo
  
 #### State Parent’s Leave Payment
 * Team members must give written notice to Total Rewards (total-rewards@gitlab.com) of their intention to take parent’s leave at least six weeks before the intended start date.
-* Team members who take Parent’s Leave may also qualify for [Parent’s Benefit] (https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.en.html) if they have enough social insurance (PRSI) contributions.
+* Team members who take Parent’s Leave may also qualify for [Parent’s Benefit](https://www.citizensinformation.ie/en/social_welfare/social_welfare_payments/social_welfare_payments_to_families_and_children/parents_benefit.en.html) if they have enough social insurance (PRSI) contributions.
 * To apply for Parent's Benefit, submit your application via the [Parent's Benefit gov.ie website](https://www.gov.ie/en/service/b321b1-parents-benefit/).
-* Parent’s Leave runs concurrently with GitLab Parental Leave (https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
+* Parent’s Leave runs concurrently with [GitLab Parental Leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
  
 #### Parental Leave
 * Team members who have been employed for at least one year are entitled to up to 26 weeks of unpaid parental leave to care for a child under the age of 12 (or the age of 16 for a child with a disability). If you have been employed for at least 3 months, and your child is near the age threshold, you are entitled to pro-rata parental leave.
