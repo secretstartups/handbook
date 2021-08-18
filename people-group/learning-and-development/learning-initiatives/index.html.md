@@ -109,13 +109,13 @@ In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the 
 
 Monthly Announcements from the L&D team are a 3-part announcement. This includes:
 
-1. Async AMA issue for threaded discussion and to share upcoming opportunities and key results in the issue body
+1. Async AMA issue for sharing upcoming opportunities, key results, and threaded discussion
 2. Short, 3 minute video recorded using Loom and shared via Slack and Email that highlights opportunities and results
 
 ### Preparation checklist for GitLab team members
 
 1. Record short video that highlights 2-3 opportunities coming up and 1-2 key results from the previous month
-1. Open and populate an issue using the `monthly-announcement` template
+1. Open and populate an issue using the `monthly-announcement` template. Collaborate with L&D team to include all important events in this issue body.
 1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
 1. Use Bananatag to send an email to the GitLab team with an embeded video and link to the AMA issue.
 1. Share the post from the #whats-happening-at-gitlab channel to 
@@ -138,9 +138,9 @@ The following metrics will be used to measure results of the L&D monthly announc
 
 | Metric | Monthly Goal |
 | ----- | ----- | 
-| Total Loom Video Views | | 
-| Total questions asked on the issue | | 
-| Emails opened {better metric from bananatag?} | |
+| Total Loom Video Views | 20% of company | 
+| Total comments/questions posted on the issue | 10 | 
+| Email Views | 20% of company |
 
 
 ## Monthly Continuous Learning Call Overview
