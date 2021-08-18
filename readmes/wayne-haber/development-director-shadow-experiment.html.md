@@ -26,7 +26,7 @@ Since then, I have been thinking of doing something similar but smaller in scale
 I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program.  If it goes well, I will continue it and iteratively improve it.  If it doesn't go well, I will end it.
 
 
-### Process for requesting to be a shadow
+### Criteria and process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
 1. You have been with GitLab for at least one month
