@@ -27,7 +27,8 @@ This Working Group has the following goals:
 
 1. Formalize the processes related to provenance, storage and access of GitLab.com production data for the purpose of model training.
     - Determine how to build a GitLab asynchronous event stream for the purposes of getting data for pre-processing and training
-1. Establish a framework and tooling for hyper-parameter tuning, retraining, versioning, and deploying new ML models
+1. Share knowledge and determine best practices for hyper-parameter tuning, retraining, versioning, and deploying new ML models
+1. Determine best practices for benchmarking models built by different frameworks/libraries for different use cases in terms of accuracy and performance, and how to do it in a continuous basis.
 1. Determine how to distribute machine learning models on self-hosted instances
 1. Define a security/legal process for security-related ML models and data pre-processing
 
