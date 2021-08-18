@@ -24,15 +24,15 @@ As per the [statement of support](/support/#name-squatting-policy), namespaces m
 1. Apply the [`Support::SaaS::Name Squatting Policy::Internal Checklist`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569860) macro in Zendesk. Please remember, impersonating a user will reset the Last Sign-In values on the user account such as `Last Sign-In IP` and `Last Sign-in at` (Impersonation should be avoided when reviewing activity on Personal Namespace).
 1. Answer all questions in the **Internal Checklist** (Yes/No) ensuring to cross-check the information found in the admin section. The [SaaS Account Ticket Helper App](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#saas-account-ticket-helper) can be used from within ZenDesk to assist with this.
 1. If the namespace is eligible for immediate release, follow [Request successful](#request-successful).
-1. If the namespace is eligible for release, follow [Namespace is available](#namespace-is-available).
+1. If the namespace is eligible for release, but requires attempting to contact the owner, follow [Namespace needs owner contact](#namespace-needs-owner-contact).
 1. If the namespace is not eligible for release, follow: [Namespace is not available](#namespace-is-not-available).
 
-### Namespace is available
+### Namespace needs owner contact
 
 Contact Owner:
 
 1. Create a **new Zendesk ticket** with the **namespace owner's email address** as the requester (found in admin).
-1. Set the form of the new ticket to **Gitlab.com (SAAS) Account Related Form**.
+1. Set the form of the new ticket to **SaaS Account**.
 1. Apply the [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059) macro and mark the ticket as **On-hold**.
 1. Make an internal comment providing a link to the **namespace requester's ticket**.
 
