@@ -107,7 +107,7 @@ Be sure to highlight notable incidents in your 1:1 notes doc.
 
 **What does success look like?**
 
-1. Aim for two [pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing) per week. You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/support-pairing/)
+1. Aim for two [pairing sessions](https://gitlab.com/gitlab-com/support/support-pairing) per week. You can see how you're doing on this [pairing summary page](https://gitlab-com.gitlab.io/support/team/pairings.html)
 1. Ask and answer questions in Slack. (We don't have a way to easily make this visible, but feel free to share things you're proud of with your manager in your 1:1 notes doc.)
 1. If you have volunteered to be a [Support Stable Counterpart](/handbook/support/#support-stable-counterparts), collaborate with the group(s) you are assigned to and share knowledge with the Support Team.
 1. There are many other ways you can collaborate. Make a note of your collaborations in your 1:1 notes doc.
