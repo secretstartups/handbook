@@ -34,13 +34,10 @@ The Senior HRIS Analyst, People Technology is a [grade 7](/handbook/total-reward
 * Strong consulting skills with ability to lead design sessions with stakeholders, explain complex functionality, configure business processes, test functionality, document requirements, and assist with testing
 * Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
 * Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs
-
-#### Nice to Have
-
-* Bachelor's degree or equivalent experience
-* Completion of one full implementation with Workday HCM and/or Workday certification in HCM
-* Experience with Workday technical integrations - Workday Studio including BIRT, EIB, Cloud Connect
-* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services
+* Bachelor's degree or equivalent experience preferred
+* Completion of one full implementation with Workday HCM and/or Workday certification in HCM preferred
+* Experience with Workday technical integrations - Workday Studio including BIRT, EIB, Cloud Connect preferred
+* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
 
 <br>
 
@@ -75,12 +72,9 @@ The Staff HRIS Analyst, People Technology is a [grade 8](/handbook/total-rewards
 * Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
 * Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs
 * Passionate and constantly striving to create a seamless and delightful experience for our Team Members in our processes, tools, and systems
-
-#### Nice to Have
-
-* Bachelor's degree or equivalent experience
-* Completion of one full implementation with Workday HCM and/or Workday certification in HCM
-* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services
+* Bachelor's degree or equivalent experience preferred
+* Completion of one full implementation with Workday HCM and/or Workday certification in HCM preferred
+* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
 
 <br>
 
@@ -118,10 +112,7 @@ The Senior Staff HRIS Analyst, People Technology is a [grade 9](/handbook/total-
 * Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
 * Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs 
 * Passionate and constantly striving to create a seamless and delightful experience for our Team Members in our processes, tools, and systems. 
-
-#### Nice to Have
-
-* Bachelor's degree or equivalent experience
+* Bachelor's degree or equivalent experience preferred
 
 <br>
 
