@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Aug 18     |    [Demo Repo](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/134)            |    Tim P.            |
 | Sep 1       |  [Reporting Options/ Metrics with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/29)              |  Sameer K.              |
 | Sep 15      |   [Gitlab + DVC for Code and Data Version Control](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/139)             |    William A.            |
 | Oct 6      |   [How to spin-up GitLab instance in AWS marketplace](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/143)             |    Itzik G.            |
@@ -36,6 +35,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-08-18     |    **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
 | 2021-08-04   |   **[Creating and Deploying a Helm Chart with CICD](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/131)**   |  Public    |
 | 2021-07-14 | **[How to Introduce PS with Ease](https://youtu.be/JU3aXg7Hry0)** | Private |
 | 2021-06-16 | **[Container Host Security - Getting Started with Falco](https://youtu.be/LtQrLXzFc8E)** |   Public              |
