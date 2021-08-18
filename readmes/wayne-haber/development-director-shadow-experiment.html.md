@@ -3,13 +3,13 @@ layout: markdown_page
 title: "Development Director Shadow Experiment"
 ---
 
-### On this page
+## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-### Overview video
+## Overview video
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=xC9cOZkIhp0" frameborder="0" allowfullscreen="true"> </iframe>
@@ -17,7 +17,7 @@ title: "Development Director Shadow Experiment"
 
 [Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
 
-### What is the Development Director Shadow Experiment?
+## What is the Development Director Shadow Experiment?
 
 I got massive value out of participating in our [CEO Shadow Program](/handbook/ceo/shadow/) when [I did it in July of 2020](/blog/2020/07/08/ceo-shadow-impressions-takeaways/).
 
@@ -40,7 +40,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 * Feedback
 
 
-### Criteria and process for requesting to be a shadow
+## Criteria and process for requesting to be a shadow
 
 1. I am in the Eastern US (GMT-4).  The shadow must be available during some (but not all) of these working hours.  Confirm this works for you before proceeding.
 1. You have been with GitLab for at least one month
@@ -48,7 +48,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 1. Obtain written approval from your manager that they are ok with you participating, as your workload will need to be reduced for the shadow program duration.
 1. Add yourself to the table for the weeks in which you want to shadow via an MR
 
-### How does the shadowing work?
+## How does the shadowing work?
 
 * The shadow will participate remotely.
 * You can be a shadow for as little as one week or as much as two weeks in a six-month period.  The weeks do not need to be sequential.
