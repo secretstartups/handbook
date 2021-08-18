@@ -11,11 +11,6 @@ title: "Development Director Shadow Experiment"
 
 ## Overview video
 
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=xC9cOZkIhp0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 ![Overview video](eng_director_shadow.png)
 
 [Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
