@@ -98,8 +98,10 @@ fun and quirkiness to our team calls (so that we can learn more about each other
 | 2020-08-04 | Favorite Pizza Toppings (Wrong Answers Only)| [Angelo](https://gitlab.com/agulina) |
 | 2020-09-01 | [Movie / TV Series line](http://gph.is/1GFhxC9) you would use in a Merge Request | ? |
 | 2020-10-20 | Spooktacular (Special Halloween edition) | [Alexander Turinske](http://gitlab.com/aturinske) |
-| 2021-03-02 | What's your favourite childhood movie? Or the one you've watched the most times? | ? |
-| 2021-05-11 | If you were not a software engineer, what would you do? | Sheldon |
+| 2021-03-02 | What's your favourite childhood movie? Or the one you've watched the most times? | Frédéric C. |
+| 2021-04-06 | If you could have a super power, what would it be? (No matter what anyone says, being rich is not a superpower, sorry Batman)? | Lena H-K. |
+| 2021-05-11 | If you were not a software engineer, what would you do? | Lukas Eipert |
+| 2021-06-01 | What was the worst haircut you ever had? | Sheldon |
 | 2021-06-22 | What's the piece of tech you miss the most? | Paul S |
 | 2021-08-17 | A kilobyte of fun | Mark |
 
