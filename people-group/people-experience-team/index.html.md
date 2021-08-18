@@ -216,7 +216,7 @@ The People Experience Associate in the `Probation Period` rotation, will complet
 
 #### Triage People Group Issues
 
-The People Experience Associate in the 'triage' rotation will pull up all issues opened in the `General` project and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
+The People Experience Associate in the 'triage' rotation will pull up all issues opened in the [General project](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues) and tag / assign team members according to the request. It is important that once you have triaged the issue, to update the label from `workflow:triage` to `workflow:todo / doing`. 
 
 #### Deleting Team Member Data from Letter of Employment Rotation
 
