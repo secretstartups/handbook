@@ -1,13 +1,13 @@
 ---
 layout: job_family_page
-title: "Open-source Outreach Engineering Manager"
+title: "Open Source Outreach Engineering Manager"
 ---
 
-The Open-source Outreach Engineering Manager managers a team of full-stack engineers driving efficiency and improvements of our contribution process. 
+The Open Source Outreach Engineering Manager manages a team of full-stack engineers driving efficiency and improvements of our contribution process. 
 
 ## Responsibilities 
 
-* Manage a team of Open-source Outreach Engineers
+* Manage a team of Open Source Outreach Engineers
 * Author project plans for Engineering Open Source Outreach efforts
 * Improve GitLab's Contribution Efficiency and Merge Request Coaching process
 * Organize community contributors into Cohorts and ensure their success
@@ -28,25 +28,25 @@ The Open-source Outreach Engineering Manager managers a team of full-stack engin
 * 2 years or more in people leadership positions 
 * Extensive experience using Git and source control
 * Extensive experience with Open Sourcing
-* Track record of contributing to well-known open-source projects
+* Track record of contributing to well-known open source projects
 * Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills
 
 ### Nice to haves
 * Experience in a peak performance organization
 * BS or MS degree in Computer Science
-* Notable ties into the Open-source community
+* Notable ties into the Open source community
 * Enterprise software company experience
 * Developer platform/tool industry experience
 
 ## Levels 
-### Open-source Outreach Engineering Manager 
+### Open Source Outreach Engineering Manager 
 
-#### Open-source Outreach Engineering Manager Job Grade
+#### Open Source Outreach Engineering Manager Job Grade
 
-The Open-source Outreach Engineering Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Open Source Outreach Engineering Manager  is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Open-source Outreach Engineering Manager Responsibilities
+#### Open Source Outreach Engineering Manager Responsibilities
 
 * Manage a team of Community Outreach Engineers
 * Author team quarterly OKRs and drive them to completion
