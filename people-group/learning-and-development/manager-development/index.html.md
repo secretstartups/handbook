@@ -41,7 +41,7 @@ If you have been promoted to a manager role, a second challenge you might face i
 
 The key to making this transition smooth is to be inclusive and communicate with your team and external collaborators. During your first few weeks as a new manager, try to identify a few small decisions you can make fairly quickly, but defer bigger ones until you’ve been in the role longer and have time to gather input from everyone. For example, set up a new schedule and agenda for team meetings, this is a small change but it clearly establishes your role as manager. 
 
-Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/engineering/readmes/).
+Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/leadership/#your-individual-readme).
 
 During this type of transition, it’s easy to become overly focused on your former peers. Don’t forget to build relationships with your new leader and schedule coffee chats with other stakeholders across the organization.
 
