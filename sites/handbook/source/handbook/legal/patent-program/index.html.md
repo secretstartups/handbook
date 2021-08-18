@@ -16,6 +16,9 @@ description: "Learn about GitLab's Patent Program"
 
 Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
 
+### GitLab Patents
+GitLab owns several patents. Disclaimer: [This list](https://patents.google.com/?assignee=gitlab) is not exact. 
+
 ## Why patents?
 
 Seeking patent protection for inventions offers several benefits. For individual team members, appearing as a named inventor on a published patent is a significant achievement and something that provides tangible evidence of team members’ creative contributions to GitLab and emphasizes GitLab’s [focus on results](https://about.gitlab.com/handbook/values/#results).
