@@ -62,6 +62,8 @@ The Senior Corporate Communications Manager is a [grade 7](/handbook/total-rewar
 
 The Principal Corporate Communications Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+**Market Justification:** Survey data yields a return of 18 organizations with over 20 team members in the principal level within Marketing Communications. Additionally, this role is specialized due to industry experience required to collaborate with investors, e-group members, board members and other senior stakeholders. A comparable role at GitLab is the [Principal Internal Communications Manager](https://about.gitlab.com/job-families/marketing/internal-communications/#principal-internal-communications-manager). 
+
 ## Responsibilities
 * Lead public company communication program; including quarterly earnings press releases and activities, investor updates, media interviews, etc.
 * Lead business storyline portion of overall Corporate Communications strategy; including developing press releases and contributed articles, event strategy and media relations strategy for GitLab announcements and news.
