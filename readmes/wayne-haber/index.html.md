@@ -59,4 +59,15 @@ I’m a veteran of three successful startups (including GitLab) and have experie
 * When on video, I will sometimes use the Zoom emoji feature rather than interupting the speaker to express my feedback on something.
 * If I don't have my video feed on, it is likely because I am listening but multitasking (working on something, doing something at home, etc) and I don't want those other activities to be distracting to the meeting attendees.
 
+### Engineering director shadow program
+
+I got massive value out of participating in our CEO Shadow Program when I did it in July of 2020.
+
+Since then, I have been thinking of doing something similar but smaller in scale. In July of 2021, I asked my teams if they would be interested in remotely shadowing me and several team members expressed interest as they wanted to learn what I do, how I do it, and how I make decisions.
+
+I am experimenting for a couple of months with a smaller scope and smaller-scale shadow program than the CEO Shadow Program. If it goes well, I will continue it and iteratively improve it. If it doesn't go well, I will end it.
+
+[Engineering director shadow program](https://about.gitlab.com/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html)
+
+
 
