@@ -6,7 +6,7 @@ title: Senior Manager, Online Sales & Self Service Product & Data Analytics
 The Senior Manager, Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.
 
 ## Role
-The Senior Manager, Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.} The {Senior Manager, Online Sales & Self Service Product & Data Analytics reports to the [VP Online Sales and Self Service](https://about.gitlab.com/job-families/sales/vice-president-online-sales-and-self-service/).
+The Senior Manager, Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab. The Senior Manager, Online Sales & Self Service Product & Data Analytics reports to the [VP Online Sales and Self Service](https://about.gitlab.com/job-families/sales/vice-president-online-sales-and-self-service/).
 
 ### Job Grade
 The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
