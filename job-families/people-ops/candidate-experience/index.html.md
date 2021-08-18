@@ -97,12 +97,12 @@ The Candidate Experience Lead is a [grade 7](/handbook/total-rewards/compensatio
 
 * Experience with recruiting coordination at all levels, including Executive
 * Experience managing and influencing others, and building out trainings to upskill team members
-* Strong project management skills
+* Excellent project management skills
 * Experience partnering closely with sourcers, recruiters, hiring managers, and candidate experience specialists/recruiting coordinators
-* Proven organizational skills with high attention to detail and the ability to prioritize
+* Proven organizational skills with high attention to detail
 * Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse)
 * Solves problems in thoughtful, strategic ways that incorporate broader goals
-* Ability to use, or willingness to learn, GitLab
+* Able to use, or willingness to learn, GitLab
 
 
 ## Career Ladder
