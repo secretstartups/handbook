@@ -5,7 +5,9 @@ descrription: "Learn more about Community Operations roles, responsibilities, re
 ---
 ## Community Operations Manager
  
-The GitLab Community Operations Manager job family is responsible for managing the [Community Relations Team](https://about.gitlab.com/handbook/marketing/community-relations/)'s operations including the [community programs' application workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/), budgeting workflows, and infrastructure for the Community Relations team. The Community Operations Manager reports to the [Director of Community Relations](https://about.gitlab.com/job-families/marketing/director-of-community-relations/) and owns the [Community Operations](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/) handbook.
+The GitLab Community Operations Manager job family is responsible for managing operations for the [Community Relations Team](https://about.gitlab.com/handbook/marketing/community-relations/), including the [community programs' application workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/), budgeting workflows, and infrastructure for the Community Relations team. 
+
+The Community Operations Manager job family reports to the [Director of Community Relations](https://about.gitlab.com/job-families/marketing/director-of-community-relations/) and owns the [Community Operations](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/) handbook.
  
 ## Levels
  
