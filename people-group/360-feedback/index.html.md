@@ -92,6 +92,10 @@ The options shown are:
 - Technical Competence: Demonstrating a high level of domain, functional and/or technical capability. 
 - Other. 
 
+### Resources for Coaches 
+1. (360 survey overview for coaches)[https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s]
+1. (Coach's guide to taking action on Effectiveness 360 surveys)[https://support.cultureamp.com/hc/en-us/articles/208687485-Coach-s-guide-to-taking-action-on-Effectiveness-360-surveys]
+
 ### Reviewer Nomination Process 
 In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member. 
 
@@ -238,7 +242,9 @@ Troubleshooting for common questions during the 360 process.
 
 1. I submitted my 360 nominations but I want to make an adjustment, what can I do? 
    1. First, sign into CultureAmp to see if you submitted your nominations or if you saved them as a draft. If it is in draft mode you can adjust the nominations yourself. 
-   1. If it has been submitted - Send an email to people-connect@gitlab.com with the team member you would like to add/delete and we can update your nominations. 
+   1. If it has been submitted - reach out to your coach/manager. They are able to make these adjustments within CultureAmp. 
+   1. If you coach/manager is not available to make these changes, send an email the people-connect@gitlab.com with the names and changes you would like to make. 
+
 
 
 
