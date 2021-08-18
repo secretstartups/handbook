@@ -41,9 +41,6 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 * Ability to handle a fast-paced environment and ambitious workload
 
 ### Performance Indicators
-As with all roles in the Sales department the VP of Enterprise Sales participates in the Sales KPIs.
-
-Specific to this role:
 * CAC Ratio (target: Monthly target set by Finance)
 * Percent of Ramped Reps at or Above Quota (target: greater than 55%)
 * Percent of Ramping Reps at or Above 70% of Quota (target: greater than 70%)
