@@ -22,7 +22,7 @@ The pre-planning is done in advance of the budget becoming available so that the
 
 | DRI | Task |
 | --- | --- | 
-| VP of PM | Make sure the funding plan encompasses all known things that need to be budgeted from a PM perspective | 
+| VP of PM | Make sure the funding plan encompasses all known things that need to be budgeted for successfully executing on the opportunity and ensure that the "investment" part of ROI calculation is reflective of the true investment across GitLab as a company | 
 | [CTO](https://gitlab.com/edjdev) | Make sure the funding plan encompasses all known things that need to be budgeted from an Engineering perspective (such as not only new hires but comp reviews) | 
 | Product Managers | When a hiring plan is approved, document if previously approved reqs are or are not included |
 | [VP of PM](https://gitlab.com/adawar) |  Provide a (private) video walkthru of the approved hiring plan (as the spreadsheets tend to be hard to understand without an explanation) |
