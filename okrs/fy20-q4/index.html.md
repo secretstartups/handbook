@@ -203,7 +203,7 @@ This [fiscal quarter](/handbook/finance/#fiscal-year) will run from November 1, 
     1. VP of Product Strategy KR: Produce [strategy visuals](https://gitlab.com/gitlab-com/Product/issues/512) => 0%.
 1. **VP of Product Strategy: Get acquisitions into shape; build a well-oiled machine.**
     1. VP of Product Strategy KR: Build [soft-landing identification software](https://gitlab.com/gitlab-com/corporate-development/issues/1) => 10%
-    1. VP of Product Strategy KR: Identify 1000 [acquisition targets](/handbook/acquisitions/performance-indicators/#acquisition-targets) => 1500%.
+    1. VP of Product Strategy KR: Identify 1000 [acquisition targets](/handbook/product/performance-indicators/) => 1500%.
 1. **VP of Product Strategy: Lay groundwork for strategic initiatives.**
     1. VP of Product Strategy KR: Research 5 [strategic initiatives](https://docs.google.com/document/d/1CBvC5iSgvSfn0oBAu3ph9MAzrMHxhKCSjvigz0Lm1VM/edit) => 20%.
 1. VP of Product Management: Deliver on product roadmap.  Achieve 100% of our [category maturity](/direction/maturity/) plans.
