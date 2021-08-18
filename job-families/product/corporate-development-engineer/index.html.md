@@ -1,6 +1,9 @@
 ---
 layout: job_family_page
 title: "Data Engineer, Corporate Development"
+description: "As a Data Engineer in Corporate Development, you'll be in charge of developing
+innovative technical solutions to automate, scale, and streamline business
+operations"
 ---
 
 As a Data Engineer in Corporate Development, you'll be in charge of developing
@@ -48,8 +51,8 @@ open to a [soft-landing acquisition](/blog/2019/07/30/gitlab-acquisitions/).
 [iteration]: /handbook/values/#iteration
 
 ### Performance Indicators
-* [Acquisition velocity](/handbook/acquisitions/performance-indicators/#acquisition-velocity)
-* [Qualified acquisition targets](/handbook/acquisitions/performance-indicators/#qualified-acquisition-targets)
+* [Acquisition velocity](/handbook/product/performance-indicators/)
+* [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
