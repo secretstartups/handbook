@@ -173,11 +173,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
+|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | THB - Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | THB - Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | THB - Kristine Setschin |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | THB - Kristine Setschin |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2.1	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
 |	BeNeLux	|	BeNeLux|	Large-EMEA-UK/I-2.2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
@@ -290,11 +290,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | 
-|	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Rachel Hill |
-|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rachel Hill |
+|	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Ginny Reib |
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rich Hancock |
 |	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	| Rachel Hill |
 |	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|  Kristine Setschin |
-|	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Kristine Setschin |
+|	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Sarina Kraft |
 
 ### SMB
 
