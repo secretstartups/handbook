@@ -7,47 +7,47 @@ canonical_path: "/company/culture/inclusion/identity-data/"
 
 #### GitLab Identity Data
 
-Data as of 2021-05-31
+Data as of 2021-07-31
 
 ##### Country Specific Data
 
 | **Country Information**                     | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| Based in APAC                               | 147       | 11.19%          |
-| Based in EMEA                               | 373       | 28.39%          |
-| Based in LATAM                              | 23        | 1.75%           |
-| Based in NORAM                              | 771       | 58.68%          |
-| **Total Team Members**                      | **1,314** | **100%**        |
+| Based in APAC                               | 154       | 11.17%          |
+| Based in EMEA                               | 390       | 28.28%          |
+| Based in LATAM                              | 29        | 2.10%           |
+| Based in NORAM                              | 806       | 58.45%          |
+| **Total Team Members**                      | **1,379** | **100%**        |
 
 ##### Gender Data
 
 | **Gender (All)**                            | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| Men                                         | 888       | 67.58%          |
-| Women                                       | 426       | 32.42%          |
-| Other Gender Identities                     | 0         | 0%              |
-| **Total Team Members**                      | **1,314** | **100%**        |
+| Men                                         | 930       | 67.44%          |
+| Women                                       | 443       | 32.12%          |
+| Other Gender Identities                     | 6         | .44%            |
+| **Total Team Members**                      | **1,379** | **100%**        |
 
 | **Gender in Management**                    | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| Men in Management                           | 108       | 59.34%          |
-| Women in Management                         | 74        | 40.66%          |
-| Other Gender Management                     | 0         | 0%              |
-| **Total Team Members**                      | **182**   | **100%**        |
+| Men in Management                           | 118       | 59.60%          |
+| Women in Management                         | 79        | 39.90%          |
+| Other Gender Management                     | 1         | .51%            |
+| **Total Team Members**                      | **198**   | **100%**        |
 
 | **Gender in Leadership**                    | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| Men in Leadership                           | 76        | 69.72%          |
-| Women in Leadership                         | 33        | 30.28%          |
+| Men in Leadership                           | 80        | 68.97%          |
+| Women in Leadership                         | 36        | 31.03%          |
 | Other Gender Identities                     | 0         | 0%              |
-| **Total Team Members**                      | **109**   | **100%**        |
+| **Total Team Members**                      | **116**   | **100%**        |
 
 | **Gender in Engineering**                   | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| Men in Engineering                          | 443       | 79.82%          |
-| Women in Engineering                        | 112       | 20.18%          |
-| Other Gender Identities                     | 0         | 0%              |
-| **Total Team Members**                      | **555**   | **100%**        |
+| Men in Engineering                          | 450       | 80.07%          |
+| Women in Engineering                        | 111       | 19.75%          |
+| Other Gender Identities                     | 1         | .18             |
+| **Total Team Members**                      | **562**   | **100%**        |
 
 ##### Race/Ethnicity Data
 
@@ -151,15 +151,14 @@ Data as of 2021-05-31
 
 | **Age Distribution (Global)**               | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| 18-24                                       | 15        | 1.14%           |
-| 25-29                                       | 199       | 15.14%          |
-| 30-34                                       | 360       | 27.40%          |
-| 35-39                                       | 319       | 24.28%          |
-| 40-49                                       | 282       | 21.46%          |
-| 50-59                                       | 118       | 8.98%           |
-| 60+                                         | 21        | 1.60%           |
-| Unreported                                  | 0         | 0.00%           |
-| **Total Team Members**                      | **1,314** | **100%**        |
+| 18-24                                       | 15        | 1.09%           |
+| 25-29                                       | 214       | 15.52%          |
+| 30-34                                       | 373       | 27.05%          |
+| 35-39                                       | 333       | 24.15%          |
+| 40-49                                       | 298       | 21.61%          |
+| 50-59                                       | 120       | 8.70%           |
+| 60+                                         | 26        | 1.89%           |
+| **Total Team Members**                      | **1,379** | **100%**        |
 
 **Of Note**: `Management` refers to Team Members who are *People Managers*, whereas `Leadership` denotes Team Members who are in *Director-level positions and above*.
 
