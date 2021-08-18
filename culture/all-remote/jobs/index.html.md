@@ -55,7 +55,7 @@ However, an increasing amount of startups and small-to-medium sized businesses a
 1. [Techmeme](https://www.techmeme.com/), has been [fully remote since 2007](https://twitter.com/gaberivera/status/1226189350276341761), utilizing a global team of editors to "curate the technology news site of record for people both within and beyond the industry."
 1. [10up](https://10up.com/), is a fully remote team that works to "make the internet better with consultative creative and engineering services, innovative tools, and dependable products that take the pain out of content creation and management."
 1. [Zapier](https://zapier.com/), wrote a [book on remote work](https://zapier.com/learn/remote-work/), is 100% remote.
-1. [Close.io](https://close.io), see their [jobs page](http://jobs.close.io/) and [blog post about remote culture](http://blog.close.io/remote-team-culture).
+1. [Close.com](https://close.com), see their [jobs page](http://jobs.close.com/) and [blog post about remote culture](http://blog.close.io/remote-team-culture).
 1. [Hubstaff](https://hubstaff.com/), streamlines time tracking and team management, especially for remote teams. Check out the CEO's [growth blog](https://blog.hubstaff.com/startup-story-personal-pain/).
 1. [Groove](https://www.groovehq.com/), see their blog on being a [remote team](https://www.groovehq.com/blog/being-a-remote-team).
 1. [Jamm](https://jamm.app/) Fully remote team building an app to help remote teams work better together.
@@ -152,6 +152,7 @@ Here's a [list](https://www.ryrob.com/remote-jobs-websites/) of 60 remote jobs s
 1. [Glassdoor](https://www.glassdoor.com/) (toggle the "WFH or Remote" option to filter search results)
 1. [People First Jobs](https://peoplefirstjobs.com/jobs)
 1. [Remote Tech Jobs](https://www.remotetechjobs.com/)
+1. [Close Sales Remote Job Board](https://close.com/jobs)
 
 > "Getting promoted while working remotely really depends on how remote your company is. GitLab is a fully remote organization with over 700 folks around the world, so getting promoted wasn’t difficult at all. In previous roles, I was the only person who worked remotely. In those cases, I felt very forgotten by my employer." - _Emilie L Schario, a Data Engineer at GitLab_
 
