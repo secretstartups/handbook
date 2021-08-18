@@ -65,7 +65,7 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 * We have high level views of the enterprise application ecosystem and can help troubleshoot where a business process has broken down or a system flow is not working as expected. You can open an issue in the [Business Technology Tracker](https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new).
 
 
-# <i class="far fa-poll" id="biz-tech-icons"></i> Results we delivered in FY21
+# <i class="fas fa-building" id="biz-tech-icons"></i> Results We Delivered in FY22
 
 ### New Application Implementations
 - [Zuora Revenue Implementation](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/76)
@@ -77,14 +77,14 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 - [Zuora CPQ & 360 upgrade to latest version](https://gitlab.com/groups/gitlab-com/business-technology/enterprise-apps/-/epics/75)
 
 
-# <i class="far fa-file-alt" id="biz-tech-icons"></i> Templates We Use
+# <i class="fas fa-file-alt" id="biz-tech-icons"></i>  Templates We Use
 *  [Rollout Plan](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=public-rollout-plan)
 *  [Change Management: Third Party Applications Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Third%20Party%20Change%20Management)
 *  [Change Management: Internal Tool Changes](https://gitlab.com/gitlab-com/business-technology/change-management/issues/new?issuable_template=Internal_Change_Management)
 *  [Software application selection: Request for Proposal](https://docs.google.com/document/d/1_Q2b5opYUQ9TlGmF2vOJ6anu0spVFMkNO6YCR4UjYXM/edit?usp=sharing)
 *  [Software application selection: User Stories](https://docs.google.com/spreadsheets/d/1c1R0pqKr8YwXXATzFVEUaofF2luNrHbmcNkKAWisebs/edit?usp=sharing)
 
-# <i class="far fa-database" id="biz-tech-icons"></i> Applications We Own
+# <i class="fas fa-database" id="biz-tech-icons"></i>  Applications We Own
 
 1. Zuora
 1. Z-Revenue (RevPro)
