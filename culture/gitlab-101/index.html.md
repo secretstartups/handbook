@@ -16,6 +16,7 @@ There is a quarterly GitLab CEO 101 call with new hires and the CEO. This is a z
 1. Team structure [/company/team/structure/](/company/team/structure/) or [organization chart](/company/team/org-chart)
 1. How we work [/handbook/general-guidelines](/handbook/general-guidelines)
   - Please pay special attention to the guideline about developing content and procedures in a public, transparent, [handbook-first](/handbook/general-guidelines/#handbook-first) manner
+1. Reinforcements to stay a startup [/company/still-a-startup/]
 
 Note that, when thinking about what questions you'd like to ask, it’s hard to be open about financials. It’s easy when everything is going well but very hard when it’s not. We try to be open with our team as we progress, but it will hurt being open to the outside world about this in the future.
 
