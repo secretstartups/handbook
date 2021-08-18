@@ -14,9 +14,9 @@ description: Allocadia is Marketing Performance Management Software.
 
 Say good-bye to multiple spreadsheets, disparate data sets and misaligned marketing plans. The recognized leader in Marketing Performance Management (MPM), Allocadia’s budget management and strategic planning platform is the foundation for operational excellence for marketing leaders and their teams. Powered with data-driven insights, marketing leaders can visualize what’s working to enable greater planning agility. Learn how to run marketing like a business at Allocadia.com.
 
-:moneybag: Version purchased: [Allocadia Optimize](https://allocadia.com/pricing/)
+💰 Version purchased: [Allocadia Optimize](https://allocadia.com/pricing/)
 
-:key: Logins are available for Marketing budget holders
+🔑 Logins are available for Marketing budget holders 
 
 ## High level - how does it work?
 
@@ -51,6 +51,16 @@ The activity planning section is where you add the tactics of your quarterly/ann
 In the top right hand section of the screen, you will see a drop down of different `Views`. When making changes to your actual activity prior to the Allocadia `plan` being locked, be sure you are in a `plan` view. Once the `plan` has been locked, you must be in the `Forecast` view to make any changes. We are locking plans quarterly in line with Finance calendars.
 
 Within the view drop down you have the option to look at your targets by quarter or annually. Use whichever view best helps you run your business.
+
+#### View Definitions
+* **FM Forecasting Monthly** - will ONLY show line items with forecasted spend - Only available on the FMM activity plans
+* **FM Planning Monthly** - will only show line items that were present at the time the plan was locked - Only available on the FMM activity plans
+* **My Forecast FY22** - Where you see what's planned to ensure you've added forecasted amounts against the plan 
+* **Q1 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q1 
+* **Q2 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q2 
+* **Q3 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q3 
+* **Q4 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q4 
+* **Quarterly Summary** - where to see an annual summary of plan, forecast, and actuals broken out by quarter 
 
 ### Activities grid
 
@@ -93,6 +103,8 @@ For common vendors, it's important to note that you must use the same upper and 
 1. Demandbase
 1. SimplyDIRECT
 1. Tenandone
+1. Reachdesk 
+
 As we move to Coupa, that integration will allow us to use their list of standardized vendor names for ones that already exist in the system which should make this easier.
 
 We have just moved the Vendor to the Details panel - for now it shows up in both and can be updated in either place - but we are considering taking it off the main grid if there are no objections.
@@ -169,7 +181,7 @@ The calendar invite is set for the entire day. If you would like the event to be
 
 Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you how the calendar invite gets created, if you're more of a visual learner!
 
-##### Metrics Tab #️⃣
+##### Metrics Tab 
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
@@ -222,7 +234,7 @@ The reports are broken out in folder format and once you click into the folders,
 
 ##### Reporting folders breakdown
 
-1. Finance - we will view actuals here. We aren't using this folder in detail yet. More to come!
+1. Finance - reports the finance team uses 
 1. Health Check - We aren't using this folder in detail yet. More to come!
 1. Investment Planning
     1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
@@ -273,6 +285,9 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 ### Netsuite
 
 We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
+
+### Coupa 
+More info forthcoming! 
 
 #### Mapping Expenses
 
