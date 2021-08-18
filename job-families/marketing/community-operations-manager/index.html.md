@@ -83,7 +83,7 @@ The Associate Community Operations Manager is a [grade 5](/handbook/total-reward
 All general responsibilities plus the following:
 
 - **Standardize communications for community programs.** As we evolve our community programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.  
-- **Propose updates to web pages.** You will propose update to the Community website pages and partner with others on the Community Relations team and Digital Experience team to make the updates. 
+- **Propose updates to web pages.** You will propose updates to the Community website pages and partner with others on the Community Relations team and Digital Experience team to make the updates. 
 - **Improve efficiency of tools.** Make sure we are using all of our current tools in the best way possible. Become the team's expert in using each tool and suggest improved ways to use them to help with program goals. 
  
 ##### Associate Community Operations Manager Requirements
@@ -103,7 +103,7 @@ The Community Operations Manager (Intermediate) is a [grade 6](/handbook/total-r
  
 ##### Community Operations Manager (Intermediate) Responsibilities
 Extends the Associate Community Operations Manager responsibilities with the following: 
-- **Iterate on community program workflows**. Work to improve the community program application workflow by iterating on what we are already building. Proactively look for ways to make the processes even more efficient. 
+- **Iterate on community program workflows**. Work to improve the community programs application workflow by iterating on what we are already building. Proactively look for ways to make the processes even more efficient. 
 - **Create policies.** Assist in developing common policies, processes and resources consistent across all community programs, with a handbook-first approach.
 - **Assess new tools.** In addition to managing existing tools, you will assess new tools to more effectively serve the GitLab community and to contribute to growth.
 - **Dive into metrics.** Partner with all Program Managers on the Community Relations team to measure and report the success of their programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
