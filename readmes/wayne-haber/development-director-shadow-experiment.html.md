@@ -11,8 +11,10 @@ title: "Development Director Shadow Experiment"
 
 ## Overview video
 
-[![Overview video](eng_director_shadow.png) Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
+[![Overview video](eng_director_shadow.png)](https://www.youtube.com/watch?v=xC9cOZkIhp0)
 
+
+[Overview video](https://www.youtube.com/watch?v=xC9cOZkIhp0)
 
 ## What is the Development Director Shadow Experiment?
 
