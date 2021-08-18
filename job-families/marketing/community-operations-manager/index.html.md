@@ -53,10 +53,6 @@ Note: We strongly encourage people from underrepresented groups to apply. Even i
 * Number of community program applications solved.
 * Ability to process a community program application in the time promised our customers; 5-10 business days.
  
-### Career Ladder
- 
-The next step for the Community Operations Manager job family is not yet defined.
- 
 ### Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
@@ -141,4 +137,8 @@ Extends that of the Community Operations Manager (Intermediate) requirements wit
 - You have experience leading large or complex, cross-functional projects from start to finish.
 - You have an analytical mindset and are experienced with measuring the success of projects and programs.
 - You have rolled out new policies across an organization, or team, with great success.
+
+### Career Ladder
+ 
+The next step for the Community Operations Manager job family is not yet defined.
  
