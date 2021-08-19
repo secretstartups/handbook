@@ -9,11 +9,11 @@ The People Technology & Analytics Job Family owns the technology and reporting s
 
 ### Senior HRIS Analyst, People Technology
 
-The Senior HRIS Analyst, People Technology reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Senior HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior HRIS Analyst, People Technology is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior HRIS Analyst, People Technology is a grade 7.
 
 #### Responsibilities
 
@@ -43,11 +43,11 @@ The Senior HRIS Analyst, People Technology is a [grade 7](/handbook/total-reward
 
 ### Staff HRIS Analyst, People Technology
 
-The Staff HRIS Analyst, People Technology reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Staff HRIS Analyst, People Technology is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Staff HRIS Analyst, People Technology is a grade 8.
 
 #### Responsibilities
 
@@ -80,11 +80,11 @@ The Staff HRIS Analyst, People Technology is a [grade 8](/handbook/total-rewards
 
 ### Senior Staff HRIS Analyst, People Technology
 
-The Senior Staff HRIS Analyst, People Technology reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Senior Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior Staff HRIS Analyst, People Technology is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Staff HRIS Analyst, People Technology is a grade 9.
 
 #### Responsibilities
 
@@ -118,11 +118,11 @@ The Senior Staff HRIS Analyst, People Technology is a [grade 9](/handbook/total-
 
 ### Manager, People Technology
 
-The Manager, People Technology reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Manager, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Manager, People Technology, People Technology is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Technology, People Technology is a grade 8.
 
 #### Responsibilities
 
@@ -139,15 +139,15 @@ The Manager, People Technology, People Technology is a [grade 8](/handbook/total
 
 ### Senior Manager, People Technology
 
-The Senior Manager, People Technology reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Senior Manager, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior Manager, People Technology is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, People Technology is a grade 9.
 
 #### Responsibilities
 
-* Extends that of a Senior Staff HRIS Analyst, People Technology
+* Extends that of a Senior Staff HRIS Analyst/Manager, People Technology
 * Management responsibilities include recruiting, interviewing, hiring, compensation management, and handling other team member milestone events
 * Develop team leaders/managers through mentoring, coaching, and training actively sharing knowledge and guidance
 * Develop a training strategy to help elevate team members and to provide cross functional knowledge to ensure team coverage
@@ -192,11 +192,11 @@ As always, the interviews and screening call will be conducted via a [video call
 
 ### Senior Analyst, People Analytics
 
-The Senior Analyst, People Analytics reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Senior Analyst, People Analytics reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior Analyst, People Analytics is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, People Analytics is a grade 7.
 
 #### Responsibilities
 
@@ -221,11 +221,11 @@ The Senior Analyst, People Analytics is a [grade 7](/handbook/total-rewards/comp
 
 ### Manager, People Analytics
 
-The Manager, People Analytics reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Manager, People Analytics reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior Analyst, People Analytics is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Manager, People Analytics is a grade 8.
 
 #### Responsibilities
 
@@ -244,13 +244,51 @@ The Senior Analyst, People Analytics is a [grade 8](/handbook/total-rewards/comp
 * 6+ years of experience in People or Recruiting Analytics function
 * 1-2+ years of people management experience
 * Python, R, SAS, Julia or equivalent statistical programming language
-* Understanding of scalable data transformation techniques using advanced SQL or equivalent
+* Understanding of scalable data transformation techniques using SQL or equivalent
 * Functional experience utilizing data visualization tools  (Sisense, Tableau, or similar tools)
 * Ability to partner, collaborate with, and influence relevant stakeholders across diverse functions and experience levels
 * Strong independent judgment, critical thinking and problem-solving skills required to anticipate and respond to emerging challenges.
-* Knowledge or experience in HR and talent management systems, workforce analytics packages and reporting platforms (Workday, Greenhouse) a plus.
+* Knowledge or experience in HR and talent management systems (Workday, Greenhouse), workforce analytics packages and reporting platforms a plus.
 * Ability to use GitLab
 * Experience managing projects
+
+<br>
+
+### Senior Manager, People Analytics
+
+The Senior Manager, People Analytics reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Senior Manager, People Analytics is a grade 9.
+
+#### Responsibilities
+
+* Extends that of a Manager, People Analytics
+* Drive the long-term roadmap for scalable analytics and insights with Director of People Tools and Technology
+* Management responsibilities include recruiting, interviewing, hiring, compensation management, and handling other team member milestone events
+* Develop team leaders/managers through mentoring, coaching, and training actively sharing knowledge and guidance
+* Develop a training strategy to help elevate team members and to provide cross functional knowledge to ensure team coverage
+
+#### Requirements
+
+* Extends that of a Manager, People Technology
+* Advanced Python, R, SAS, Julia or equivalent statistical programming language
+* 3+ years of people management experience
+
+### Performance Indicators
+
+* Census
+* Attrition
+* Active Users with a Recruiting or Hiring Manager LinkedIn Seat
+* Average Location Factor
+* Cost Per Hire
+* Hires vs Plan
+* Time to Offer Accept
+
+### Career Ladder
+
+The next step in the job family is People Analytics Leadership.
 
 ### Performance Indicators
 
