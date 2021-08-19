@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "The GitLab Tax Team"
-description: "The tax department is responsible for GitLab’s overall tax strategy including all components of tax compliance, tax planning and accounting for income taxes."
+description: "The tax department is responsible for GitLab’s overall tax strategy including all components of tax compliance, tax planning and accounting for income taxes. In addition, the tax department manages GitLab's statutory requirements including statutory audits, filing of entity-level financial information, transfer pricing, and ensuring intercompany transactions are recorded appropriately."
 ---
 
 ## On this page
@@ -14,11 +14,11 @@ description: "The tax department is responsible for GitLab’s overall tax strat
 
 # Contacting the Tax Team
 
-The tax department is responsible for GitLab’s overall tax strategy including all components of tax compliance, tax planning and accounting for income taxes. Tax regulations taxation differ between countries, which can make this area complex. The tax team is here to support you, make it simple for you and guide you through the landscape of taxes. In case you have any ad-hoc questions please feel free reach out on the #tax channel on Slack. For the sake of clarity please do not use it to seek tax advice for personal matters. We will try to do our best to answer your questions on taxation of your #stock options though. For any in-depth discussions please reach out to the team.
+The tax department is responsible for GitLab’s overall tax strategy including all components of tax compliance, tax planning and accounting for income taxes. Tax regulations taxation differ between countries, which can make this area complex. The tax team is here to support you, make it simple for you and guide you through the landscape of taxes. In case you have any ad-hoc questions please feel free reach out on the [#tax](https://gitlab.slack.com/archives/CGW9UA3ML) channel on Slack. For the sake of clarity please do not use it to seek tax advice for personal matters. We will try to do our best to answer your questions on taxation of your #stock options though. For any in-depth discussions please reach out to the team.
 
 # Organisation
 
-The Tax Department is part of the Finance team and headed by the Director of Tax.  The Director of Tax reports to the Chief Financial Officer. For more information please check GitLab’s [Org Chart](/company/team/org-chart/). In addition, the employees responsible for entity finance functions have a ‘dotted’ lines towards the Director of Tax. The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
+The Tax Department is part of the Finance team and headed by the Director of Tax.  The Director of Tax reports to the Chief Financial Officer. For more information please check GitLab’s [Org Chart](/company/team/org-chart/). The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
 
 | RADCIE Model  | Director of Tax | Controller | Everyone |
 |-------------| :----------------:|:----------:| :-------:|
@@ -28,15 +28,17 @@ The Tax Department is part of the Finance team and headed by the Director of Tax
 | Tax Reporting | A / R           |            |  C / I   |
 | Tax Accounting | A / R          |            |  C / I   |
 | Tax Payments |                  |  A / R     |  C / I   |
+| Intercompany Accounting | A / R          |            |  C / I   |
+| Statutory Reporting and Compliance | A / R          |            |  C / I   |
 
-The [Accounting and External Reporting Manager](/job-families/finance/accounting-and-external-reporting-manager/) has the responsibility to deal with statutory tax reporting. However, the Accounting and External Reporting Manager informs the Director of Tax and keeps the Director of Tax up to date on tax related subjects. In order to ensure the uniform taxation of GitLab and to avoid adverse consequences and tax risks, the Director of Tax is empowered to make recommendations for GitLab. This applies to all areas of taxation, e.g. Corporate Income Tax, Transfer Pricing, Value Added Tax, GST, Tax Accounting, Tax Audits, et cetera.
+In order to ensure the uniform taxation of GitLab and to avoid adverse consequences and tax risks, the Director of Tax is empowered to make recommendations for GitLab. This applies to all areas of taxation, e.g. Corporate Income Tax, Transfer Pricing, Value Added Tax, GST, Tax Accounting, Tax Audits, et cetera.
 
 # Responsibility
 
-The scope of the Tax Function includes, but is not limited to continuous evaluation of i) GitLab's effectiveness of GitLab’s tax planning, ii) GitLab's tax risk management and iii) GitLab's tax risk controls; while supporting the Finance team’s stated goals and objectives. In exercising its activities the responsibilities of the Tax Department can be described as follows:
+The scope of the Tax Function includes, but is not limited to continuous evaluation of i) effectiveness of GitLab’s tax planning, ii) GitLab's tax risk management and iii) GitLab's tax risk controls; while supporting the Finance team’s stated goals and objectives. In exercising its activities the responsibilities of the Tax Department can be described as follows:
 
 * Primary responsibility for establishing GitLab’s international tax strategy and corporate structure;
-* Responsible for transfer pricing policy taking into account OECD standards;
+* Responsible for transfer pricing policy, taking into account OECD standards;
 * Responsible for managing PE risks in accordance with OECD standards;
 * Provide support to stakeholders for initiatives on mergers, acquisitions and corporate restructuring;
 * Oversight of the tax returns for the Company’s in all operational jurisdictions;
@@ -45,6 +47,9 @@ The scope of the Tax Function includes, but is not limited to continuous evaluat
 * Responsible for audits of international, federal and state income tax and state and local filings;
 * Responsible for accounting for income taxes (ASC 740) in the US and International subsidiaries;
 * Coordination of accounting for income taxes for international subsidiaries with third party vendors;
+* Ensuring country specific requirements are met in all jurisdictions where GitLab has an entity;
+* Ensuring that all accounting transactions are recorded on the appropriate entity and reclassing activity as needed;
+* Responsible for country, state, and local registrations;
 * Responsible for building and growing team of professional and paraprofessional staff;
 * Liaison with operating management on tax issues and accounting staff on tax accounting issues;
 * Ensuring that appropriate internal controls are in place over accounting for income taxes;
@@ -53,7 +58,7 @@ The scope of the Tax Function includes, but is not limited to continuous evaluat
 
 # Tax Procedures
 
-As described in the responsibility section, the Tax Department supports the Finance team to reach it goals and OKR's as set by the Management. To support the goals of using the GitLab Handbook as source of truth, some of the tax procedures have been described below. There are more to come as this is an iterative process.
+As described in the responsibility section, the Tax Department supports the Finance team to reach its goals and OKR's as set by Management. To support the goals of using the GitLab Handbook as a single source of truth, some of the tax procedures have been described below. There are more to come as this is an iterative process.
 
 ## Tax Procedure for Maintenance of GitLab's Corporate Structure
 
@@ -158,7 +163,7 @@ One of the consequences of GitLab's global footprint is that intercompany transa
 1. Services: e.g. management, research & development, general & administration, distribution, sales & marketing
 
 ### Intercompany Transactions at GitLab
-At GitLab the supply of tangibles is non-existent while the other transaction categories are available at GitLab. The intercompany transactions between the entities are provided in the table below:
+At GitLab the supply of tangibles is non-existent while the other transaction categories are available. Intercompany transactions between the entities are provided in the table below:
 
 | Entity     | Intangible | Financing | Management | DS&M | R&D | G&A |
 |------------|:----------:|:---------:|:----------:|:----:|:---:|:---:|
@@ -183,8 +188,8 @@ GitLab BV owns the IP and therefore all GitLab entities that resell GitLab's pro
 
 1. An amount necessary to allow the GitLab entities to earn a net operating profit equal to 2.5%
 1. In the event that net profit is below 2.5% of its net sales;
-- remuneration shall be waived and GitLab BV shall pay a marketing subsidy so that GitLab US’s net operating profit is 2.5% of sales, or
-- advances from GitLab BV to US shall be forgiven to produce the net operating profit of 2.5% of sales
+- remuneration shall be waived and GitLab BV shall pay a marketing subsidy so that the net operating profit of the other GitLab entities is 2.5% of sales, or
+- advances from GitLab BV to other GitLab entities shall be forgiven to produce the net operating profit of 2.5% of sales
 
 #### Research & Development
 For consideration of R&D services GitLab BV the arm's length remuneration is determined at cost-plus 6% on R&D costs.
@@ -193,18 +198,7 @@ For consideration of R&D services GitLab BV the arm's length remuneration is det
 For consideration for G&A services recipient entities will pay an arm's length remuneration of cost-plus 2.5% on G&A costs.
 
 #### Intercompany Settlement Procedure
-Each calendar month the intercompany transactions between GitLab entities are settled in accordance with GitLab's  Transfer Pricing Concept.
-
-1. Accounting Manager prepares the balances in the Intercompany Settlement Google sheet
-1. These balances derive from the AP and AR aging reports from Netsuite that are imported into the sheet
-1. To the extent possible, intercompany positions in AP/AR between the entities are netted
-1. The Accounting Manager sends to Controller for review and approval in the Google sheet
-1. The Accounting Manager sends to Director of Tax for review and approval in the Google sheet
-1. The Accounting Manager sends to CFO for review and approval in the Google sheet
-1. The Accounting Manager sends to CEO for review and approval in the Google sheet
-1. Payments are subsequently queued for disbursement from  the relevant bank accounts
-1. Disbursements are conducted according to the Signature authorization matrix. 
-1. Transaction is booked in NetSuite
+This process is currently being reviewed.
 
 ## Tax Procedure for Reporting Indirect Taxes to Tax Authorities
 
