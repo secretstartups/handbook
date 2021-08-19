@@ -158,6 +158,12 @@ Most commission plans are paid monthly; however there are some plans that are pa
 
 You can find the definitions of **Base Commission Rate (BCR)** and **Super Commission Rates (SCR)** in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#definitions) page under the Definitions section.
 
+### **OTI (Variable Pay) Proration**
+
+For any commissionable employee who joins GitLab or starts a new role after February 1st, OTI or Variable pay will be prorated based on the # of months the employee is in seat in a given role. For example, a 2021-04-01 new hire with a $50K annual OTI would see a prorated OTI of $41,667 (83.3%).
+
+However, for any employee on a commission plan with an Annual plan period (e.g. SAL, ASM, SA, etc.), if he/she transfers or is promoted to a role that also employs an Annual plan period, OTI will be prorated based on the % of carried quota in the new role. For example, if a SAL becomes an ASM on 2021-08-01, and the quota for H2 as an ASM is $3.0M out of $5.0M for the year (60%), said individual will receive a prorated OTI of 60% instead of 50% in the new role.
+
 ## **FY21 Commission Program Terminology**
 
 ### **Base Commission Rate (BCR)**
