@@ -48,6 +48,7 @@ Read more about the topic area from the links below:
   - [MLOps Slack Group](https://mlops.community/)
 
 ### Related GitLab Documentation
+
   - [MLOps Single-Engineer Group](https://about.gitlab.com/handbook/engineering/incubation/mlops/)
   - [MLOps Primer](https://about.gitlab.com/handbook/engineering/incubation/mlops/modelops-primer.html)
   - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
@@ -55,8 +56,10 @@ Read more about the topic area from the links below:
   - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
   - [Group Direction - Applied ML](https://about.gitlab.com/direction/modelops/applied_ml/)
   - [Applied ML Group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/)
+
 ### Related GitLab projects
-  - [Spamcheck[(https://gitlab.com/gitlab-org/spamcheck)
+
+  - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
   - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
 
