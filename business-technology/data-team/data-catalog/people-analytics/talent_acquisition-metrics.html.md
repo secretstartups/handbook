@@ -63,7 +63,7 @@ This dashboard is built off [`greenhouse_stage_analysis`](https://dbt.gitlabdata
 
 This data model provides an overview of each candidate that has gone through the hiring process and what stages they have hit in addition to key attributes (i.e. source, recruiter, division the job is for, etc)
 
-The underlying data to create this model is accessible to team members with access to `greenhouse` [role](https://gitlab.com/gitlab-data/analytics/-/blob/master/load/snowflake/roles.yml).
+The underlying data to create this model is accessible to team members with access to `greenhouse` [role](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml).
 
 In Sisense you'll see the underlying query displayed as:
 
