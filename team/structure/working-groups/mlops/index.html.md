@@ -53,7 +53,13 @@ Read more about the topic area from the links below:
   - [MLOps Exploration](https://gitlab.com/groups/gitlab-org/incubation-engineering/mlops/-/epics/1)
   - [Product Stage Direction - ModelOps](https://about.gitlab.com/handbook/engineering/development/modelops)
   - [Draft Group Direction - MLOps](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/source/direction/modelops/mlops/index.html.md.erb)
- 
+  - [Group Direction - Applied ML](https://about.gitlab.com/direction/modelops/applied_ml/)
+  - [Applied ML Group](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/)
+### Related GitLab projects
+  - [Spamcheck[(https://gitlab.com/gitlab-org/spamcheck)
+  - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
+  - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
+
 ## Exit Criteria 
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
@@ -78,5 +84,5 @@ The charter of this working group is to bridge the gap between different teams t
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
-
+| Member                | Bartek Marnane         | VP, Incubation Engineering |
 
