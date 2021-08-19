@@ -143,8 +143,8 @@ For more general presentation best practices, please see our communication handb
 
 We try not to cancel a GC.
 We prefer to have half-prepared GCs over delaying them, but occasionally there may be a last-minute cancellation or an open time slot on the calendar.
-If a Group Conversation is cancelled or if there is an opening in the schedule, the EBA Team should ask a member of the E-Group to host a Pop-up AMA.
-These should be called Pop-up AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a GC cancellation.
+If a Group Conversation is cancelled or if there is an opening in the schedule, the EBA Team should ask a member of the E-Group to host a Fill-In AMA.
+These should be called Fill-In AMAs so it's clear to team members that the AMA was added to the calendars solely as a function of a GC cancellation.
 
 #### Additional Consideration for Functional Presentations
 
