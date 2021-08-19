@@ -134,7 +134,8 @@ If you want to further learn, we recommend watching these recorded Live Learning
 ### Giving Feedback in 360s
 Besides the above content this section will talk about giving feedback specifically in the 360 Feedback process.
 
-If you feel overwhelmed by the number of team members that have requested feedback from you, keep in mind that you are providing your team members with a gift: the ability to learn and grow from the feedback they receive. However, you may not have feedback related to each of the questions asked. That is ok. If you don't have anything meaningful to provide, you can put not-applicable. Focus on the team member and the questions for which you have meaningful and helpful feedback. If you feel like you are not in a position to complete a meaningful review in general, please let the team member know as soon as possible, so they can select another reviewer instead. 
+If you feel overwhelmed by the number of team members that have requested feedback from you, keep in mind that you are providing your team members with a gift: the ability to learn and grow from the feedback they receive. However, you may not have feedback related to each of the questions asked. That is ok. If you don't have anything meaningful to provide, you can put not-applicable. Focus on the team members and the questions for which you have meaningful and helpful feedback. 
+If you feel like you are not in a position to complete a meaningful review in general, please let the team member know, so they can possibly select another reviewer instead. Be mindful of your own bandwidth when providing reviews: Start with your core group, and expand from there as capacity allows. 
 
 **General Tips:**
 
@@ -150,6 +151,7 @@ If you feel overwhelmed by the number of team members that have requested feedba
 - Team members have very different backgrounds, personalities, strengths and other elements that dictate their performance. The most important thing is that they are making progress and this should be encouraged.
 - Try to complete feedback for 1 or 2 people a day, versus waiting until the last minute. Spending 10-20 minutes a day on this can make thinking through and writing the feedback less overwhelming.
 - If you have submitted your requests for feedback in Culture Amp and need to make a change (add or remove a reviewer(s)), please reach out to [People Connect](https://about.gitlab.com/handbook/people-group/people-connect/)with the requested changes and we will update your profile if still within the deadline where changes can occur.
+- If you receive an overwhelming amount of feedback requests, prioritize the requests based on the team members you work most closely with (I.E. the people you feel you can provide the most meaningful and holistic feedback to). Feedback is a gift and you should try to provide meaningful feedback to as many requesters as possible, but be mindful of your own bandwidth as well. Start with your core group, and expand from there as capacity allows. 
 
 #### Bias
 
