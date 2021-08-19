@@ -246,12 +246,13 @@ There are several scenarios where you might need Legal assistance on an opportun
 #### Contact Legal
 For general questions related to the customer, please open a case with legal.
 
-On Customer Account, OR, Opportunity:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of Opportunity SFDC layout)
 1. Provide the question in the "NOTES" Section and hit "SAVE"
 1. The information provided will open a "Case", which will automatically be assigned to a Contract Manager / Legal Member
 1. The Contract Manager / Legal Member will review the question and provide an answer in the case comments and tag the requesting Sales Team Member via SFDC Chatter
 1. Once the question is addressed, the Case will be closed by the Contract Manager.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 
 <details>
@@ -352,8 +353,8 @@ You may contact Legal directly in Slack via #Legal
 
 #### Request editable version of GitLab Template:  
 
-At Customer Account, OR, Opportunity:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 1. For "**Type of Legal Request**" select "**Request for GitLab Agreement Template**"
 1. For "**Type of Contract**" select the Template desired. For example, for a Non-Dislclosure Agreement request, select "NDA"
 1. For "**Contract Source**" select "**GitLab Contract Template**"
@@ -362,13 +363,14 @@ At Customer Account, OR, Opportunity:
 1. The Contract Manager / Legal Member will attach the requested template and tag the requesting Sales Team Member
 1. The Sales Team Member will take the template version and provide to the Customer
   * NOTE: Sales Team Members are responsible for communication(s) with Customers. This includes providing back GitLab templates and negotiated terms.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 **At this time, the Contract Request Case will be marked as "Closed". Follow the below steps to initiate "Contract Review" of the Customer edits.**
 
 #### Request for GitLab review of Customer edits to GitLab Template, OR, Review of Customer Agreement Template
 
-On Customer Account, OR, Opportunity:
-1. Click "**Legal Request**" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 1. For "**Type of Legal Request**" select "Contract Review"
 1. For "**Type of Contract**" select the type of Agreement / Template being negotiated. For example, for a Non-Dislclosure Agreement request, select "NDA"
 1. For "**Contract Source**" select the applicable Agreement / Template Source
@@ -382,13 +384,14 @@ On Customer Account, OR, Opportunity:
 1. The same steps will repeat until an executable version is reached. At which point, the Contract Request Case will be closed.  
 1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](/handbook/business-ops/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
 NOTE: The above process may be used to also engage Contract Managers / Legal Members to add non-standard language to Order Forms
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 **All communications, and versions of Agreements, should be kept in the Contract Request Case**
 
 #### Request GitLab Partner Agreement:  
 
-At the Account, OR, Opportunity Page:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 2. For "**Type of Legal Request**" select "**Request for GitLab Agreement Template**"
 3. For "**Type of Contract**" select "**Other Agreement**"
 4. For "**Contract Source**" select "**GitLab Contract Template**"
@@ -398,6 +401,7 @@ At the Account, OR, Opportunity Page:
 8. The Sales Team Member will update the cover page of the Partner Agreement to include the Partner Information (i.e., Territory, Partner Address...etc)
 9. The Sales Team Member should send (AS A PDF) the Agreement to the Partner. If they require an editable version, they may send the "WORD" form originally provided.
   * NOTE: Sales Team Members are responsible for communication(s) with Partners. This includes providing back GitLab templates and negotiated terms.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request.
 
 **At this time, the Contract Request Case will be marked as "Closed". Follow the below steps to initiate "Contract Review" of the Partner edits. Please note, ANY DOCUMENT THAT REQUIRES GITLAB SIGNATURE MUST HAVE A GITLAB LEGAL STAMP (SEE OBTAIN SIGNATURE)**
 
