@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Business Systems: Enterprise Applications, Integrations, and Flow"
+title: "Business Systems Documentation"
 description: "Business Systems Lead to Fulfillment Documentation"
 ---
 
@@ -12,8 +12,10 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Quote to Cash Introduction
+The quote-to-cash (QTC) process encompasses lead conversion, customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
 
-## Lead To Fulfillment Process Components
+## Lead to Fulfillment Applications
 
 <div class="limit-width">
 <div class="grid-container">
@@ -60,133 +62,33 @@ description: "Business Systems Lead to Fulfillment Documentation"
 </div>
 </div>
 
-## Contact
+## Primary Enterprise Applications
 
-### People
+#### Salesforce
+* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
+* Salesforce is owned by the Sales Systems team at GitLab.
 
-- **[Business Systems Analyst - Barbara Roncato](/job-families/finance/business-system-analyst/)**
-- **[Integrations Engineer - Daniel Parker](/job-families/finance/integrations-engineer)**
-- **[Product Manager, Fulfillment - Amanda Rueda](/job-families/product/product-manager/)**
+#### Zuora Billing
+* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
+* Zuora is owned by the Finance team at GitLab.
 
-### Open an issue
+#### Zuora Revenue
+* Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
-<div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">BSA</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Enterprise Applications Integrations</a>
-  <a href="https://gitlab.com/gitlab-com/support/license-and-renewals/-/issues" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">L&R team tracker</a>
-  <a href="https://gitlab.com/gitlab-org/customers-gitlab-com/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Fulfillment</a>
-  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
-  <a href="https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Systems</a>
-  <a href="https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Marketing Ops</a>
-</div>
+#### CustomersDot
+* CustomersDot is used when the customer logs in to manage their account details for their subscription
+* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 
-### Slack channels
+#### NetSuite
+* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
+* The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
-- [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
-- [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
-- [`#btg-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
-- [`#s_fulfillment`](https://gitlab.slack.com/archives/CMJ8JR0RH)
-- [`#g_product_intelligence`](https://gitlab.slack.com/archives/CL3A7GFPF)
-- [`#business-fulfillment-sync`](https://gitlab.slack.com/archives/CR0FUJRRV)
-- [`gtm-operations`](https://gitlab.slack.com/archives/GEMFSJ94L)
 
-### Engagement meetings
 
-- [Business Fulfillment Sync wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/business-fulfillment-sync/-/wikis/home)
-- [SFDC<>Zuora Tech Sync wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/sfdc-zuora-sync/-/wikis/home)
-
-## Enterprise Application Ecosystem
-
-tier one applications of lead to fulfillment
-
-### CustomersDot
-
-- This application is where the customer logs in to manage their account details for their subscription
-- The CustomersDot also sends and receives data to and from other applications like: Zuora, Salesforce, GitLab.com, and LicenseDot.
-- GitLab engineers created CustomersDot and the [Fulfillment team manages it](/handbook/engineering/development/fulfillment/).
-- Additionally, there are two other points of sale online: via the [AWS marketplace](https://aws.amazon.com/marketplace/seller-profile?id=9657c703-ca56-4b54-b029-9ded0fadd970) and [GOV.UK Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/526446644571793).
-
-### Salesforce
-
-### Zuora
-
-### EntApp Ecosystem issues and boards
-
-<details>
-<summary markdown='span'>
-  issue lists
-</summary>
-
-- [all issues with EntApp Ecosystem label](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=EntApp%20Ecosystem)
-
-</details>
-
-<details>
-<summary markdown='span'>
-  issue boards
-</summary>
-
-- [gitlab-org Fulfillment board by milestone](https://gitlab.com/groups/gitlab-org/-/boards/2197144?scope=all&utf8=%E2%9C%93&label_name[]=devops%3A%3Afulfillment&label_name[]=EntApp%20Ecosystem)
-- [EntApp Integration Work label in gitlab-org](https://gitlab.com/groups/gitlab-org/-/boards/1862236?&label_name%5B%5D=EntApp%20Integration%20Work)
-- [EntApp Integration Work label in gitlab-com](https://gitlab.com/groups/gitlab-com/-/boards/1862240?&label_name%5B%5D=EntApp%20Integration%20Work)
-- [gitlab-services](https://gitlab.com/groups/gitlab-services/-/boards/1582585?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=EntApp%20Ecosystem)
-- [gitlab-data](https://gitlab.com/gitlab-data/analytics/-/boards/1723125?&label_name%5B%5D=EntApp%20Ecosystem)
-- [Sales Systems by EntApp Ecosystem label](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/boards/1877940?&label_name%5B%5D=EntApp%20Ecosystem)
-- [Potential work for EntApp Integration team - by Security label](https://gitlab.com/gitlab-org/customers-gitlab-com/-/boards/1735210?label_name%5B%5D=security)
-
-</details>
-
-<details>
-<summary markdown='span'>
-  related epics
-</summary>
-
-- [Improve CustomersDot to GitLab.com provisioning sync](https://gitlab.com/groups/gitlab-org/-/epics/3379)
-- [GitLab.com <> CustomersDot, License, Zuora Integration](https://gitlab.com/groups/gitlab-org/-/epics/3602)
-
-</details>
-
-##### team boards
-
-<details>
-<summary markdown='span'>
-  not filtered by EntApp Ecosystem label
-</summary>
-
-- [Sales Systems](https://gitlab.com/groups/gitlab-com/-/boards/1117318?label_name%5B%5D=SalesSystems)
-- [Fulfillment](https://gitlab.com/groups/gitlab-org/-/boards/1763801?&label_name[]=devops%3A%3Afulfillment)
-- [BTG Integrations: Finance projects](https://gitlab.com/groups/gitlab-com/-/boards/1780217?label_name%5B%5D=BTG%20Integrations)
-
-</details>
-
-##### relevant repos and projects
-
-<details>
-<summary markdown='span'>
-  Sales Systems, Growth:Product Intelligence, Fulfillment Engineering, Support Ops, Ent App Integrations
-</summary>
-
-- [Salesforce](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src)
-- [Zendesk](https://gitlab.com/gitlab-com/support/support-ops)
-- [CustomersDot](https://gitlab.com/gitlab-org/customers-gitlab-com)
-- [Version app](https://gitlab.com/gitlab-services/version-gitlab-com)
-- [LicenseDot](https://gitlab.com/gitlab-com/license-gitlab-com)
-- [BTG EntApp Integration project](https://gitlab.com/gitlab-com/business-technology/integrations-entapp-ecosystem)
-
-</details>
-
-##### labels
-
-- `EntApp Ecosystem`: in groups gitlab-com, gitlab-org; gitlab-services; gitlab-data; used for anything related to the enterprise application ecosystem integration and data flow
-- `EntApp Integration Work`: in groups gitlab-com, gitlab-org; used for flagging work that is specific to the enterprise application integrations
-- `System Integrity`: in group gitlab-org; used specifically to flag work on the integration between the CustomersDot and Zuora or Salesforce
-- `System Integrity`: in group gitlab-org; used by the Fulfillment System Integrity team to flag work to improve the system reliability and integrations
-- `Affects Salesforce`: in group gitlab-org; used by the Fulfillment team to flag any work that could affect data in Salesforce and indicates that the Sales Systems team should review the code
-- `EntApp Gap`: in groups gitlab-com, gitlab-org; used to flag gaps in automation of integrations in the Enterprise Application Ecosystem
 
 ## Resources
 
-##### high level
+##### High Level
 
 - [WIP: view only Lucidchart diagram lead to fulfillment system flow](https://app.lucidchart.com/documents/view/fe61ff48-c0e3-4f40-b2de-4023d48101d9/0_0)
 - [video of custom setup](https://drive.google.com/drive/folders/1kfCEQM6XYGWYxq3Ke4TNvtmDR-46erVD)
@@ -216,77 +118,46 @@ tier one applications of lead to fulfillment
 
 - [walkthrough video of purchasing CI minutes](https://drive.google.com/drive/folders/1UxEVNgAkL2TwH8NOOmT4a6cFL_vqIZCH)
 
-##### rough drafts
 
-<details>
-<summary markdown='span'>
-  Notes to be turned into proper documentation
-</summary>
+# Process Flow Diagrams
 
-- [WIP: Lucidchart diagram lead to fulfillment through systems](https://www.lucidchart.com/documents/edit/fe61ff48-c0e3-4f40-b2de-4023d48101d9/0_0)
-- [Slack convo around customer web store purchase system order of operations](https://docs.google.com/document/d/1tujf8SrpoTx-5ToFy33LIRk5VpfW03aQWDDeaUIJGsM/edit)
-- [Webstore and CustomersDot Changes - Reseller Deals](https://docs.google.com/document/d/1uDsOPtGhkrEhSDB8vhhX8VHbvsOlOj3RekK5sveVGgs/edit#heading=h.orzte2ssic3m)
-- [GitLab.com <> Customers <> Salesforce integration](https://docs.google.com/document/d/1Q3aL3DbfAsYfpG9r5y3KbxZ-4rk38e6FjYKzktnsZQo/edit)
 
-</details>
 
-## Diagrams
+##### Sales-Assisted: New Subscription
 
-##### trial web direct system flow
-
-- tab 1: trial flows for SaaS and Self-managed through Tier 1 applications
-- tab 2: includes LeanData
 
 <div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/46865cd9-a20f-4700-b1f7-a78e5979f9cf" id="Rc-ygnLVD2A7"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="PNs5p_JZW4yg"></iframe></div>
 </div>
 
-##### new business system flow
 
-- first tab: direct via Sales
-- second two tabs: SaaS and Self-managed web direct
-- includes abandoned cart for web direct flows and contact sales
 
-<div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/56f1f1b3-68f2-4609-a867-711f1fdaca15" id="tc-yhP~KqHYz"></iframe></div>
-</div>
 
-##### renewals system flow
+##### DRAFT: Sales-Assisted: Renewal
 
-- includes cancellation flow
-- four tabs
-    - direct
-    - web direct SaaS (auto-renew = on vs off)
-    - web direct Self-managed (auto-renew = on vs off)
-    - future state: automated web direct
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/5845e3b1-d8fc-453c-984f-3c66b1dbea3d" id="4b-y4oHm3itk"></iframe></div>
 </div>
 
-##### customer flow
-
+##### Web Direct: New Subscription
 <div class="center">
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/d5593761-efdf-43a0-bfe5-717d787404d7" id="_OtpjB8oRZGk"></iframe></div>
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
 </div>
 
-##### overall lead to fulfillment
-
+##### Lead-to-Fulfillment System Architecture
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://app.lucidchart.com/documents/embeddedchart/b5a0e4b3-ff40-4685-8d21-3109696c8f64" id="X~9ywPrrncS-"></iframe></div>
 </div>
 
 ##### Zuora and Salesforce
-
 <img src="/handbook/business-technology/images/zuoraSFDC1.png" class="full-width">
 
-## System Integrations Requirements
-
+## System Integrations 
 - API should send country codes ISO 2 from CustomersDot or GitLab.com forms to SFDC and Marketo
 - [Required fields](https://gitlab.com/groups/gitlab-org/-/epics/3627) for submitting new leads to Marketo in order for them to be properly rotated to the sales team.
 
-## Zuora Configurations
-
+# Zuora Documentation
 - [overall Zuora system configurations](https://docs.google.com/spreadsheets/d/11VnuTlWuMe6XGf6gB0_x16MSQvJryuEY8gQRx66wjJ4/edit?ts=5f0f28d0#gid=152692183)
 - [finance systems integrations inventtory](https://docs.google.com/spreadsheets/d/1H2DTuP0lS6J129pProMajhdH_as6i38RV1_FjA59uM8/edit#gid=0)
 - [heatmap of finance systems](https://app.lucidchart.com/invitations/accept/df465e7e-de32-4e6f-b93d-0c89044bca5c)
@@ -348,7 +219,7 @@ An authorized reseller based on Germany will be billed from GitLab GmbH; United 
 
 </details>
 
-## Notifications
+### Notifications
 
 <details>
 <summary markdown='span'>
@@ -363,31 +234,31 @@ Note: Email content cannot currently be tailored to SaaS vs. Self-managed.
 - The emails come from Zuora, with the exception of the "14 day SaaS auto-renew email", which is sent by the CustomersDot
     - 14 day SaaS auto-renew email is only sent if there is an increase in the customer's seat count which will lead to an increased bill
 
-### 90 day email
+#### 90 day email
 
 <a href="/images/growth/renewal_mailing_90.png"><img src="/images/growth/renewal_mailing_90.png"></a>
 
-### 45 day email
+#### 45 day email
 
 <a href="/images/growth/renewal_mailing_45.png"><img src="/images/growth/renewal_mailing_45.png"></a>
 
-### 21 day email (auto-renew on)
+#### 21 day email (auto-renew on)
 
 <a href="/images/growth/renewal_mailing_21_3.png"><img src="/images/growth/renewal_mailing_21_3.png"></a>
 
-### 15 day email
+#### 15 day email
 
 <a href="/images/growth/renewal_mailing_15.png"><img src="/images/growth/renewal_mailing_15.png"></a>
 
-### 14 day email (auto-renew on and having an increase)
+#### 14 day email (auto-renew on and having an increase)
 
 <a href="/images/growth/renewal_mailing_14.png"><img src="/images/growth/renewal_mailing_14.png"></a>
 
-### 3 day email (auto-renew on)
+#### 3 day email (auto-renew on)
 
 <a href="/images/growth/renewal_mailing_21_3.png"><img src="/images/growth/renewal_mailing_21_3.png"></a>
 
-### 0 day email
+#### 0 day email
 
 <a href="/images/growth/renewal_mailing_0.png"><img src="/images/growth/renewal_mailing_0.png"></a>
 
@@ -412,7 +283,7 @@ Emails notifications are sent through Mailgun
 
 </details>
 
-## Definitions
+### Definitions
 
 <details>
 <summary markdown='span'>
@@ -506,20 +377,6 @@ Emails notifications are sent through Mailgun
 - [License documentation](https://docs.gitlab.com/ee/user/admin_area/license.html)
 - [CustomersDot: Admin internal documentation](/handbook/internal-docs/customers-admin/)
 
-##### refunds
-
-<details>
-<summary markdown='span'>
-  When might [Billing cancel and/or downgrade a subscription](/handbook/finance/accounting/#zuora-subscription-status-active)?
-</summary>
-
-- request from the customer to have it cancelled as they don’t want to use it in the future
-- customer bought the wrong number of seats and we refund due to this; we would not downgrade as we know that the customer will repurchase soon and we don’t want to cause disruption
-- we need to change the entity of an account at renewal (sales assisted only).
-    In this case, the subscription will be cancelled and a new one will be created under a new account.
-- if credit card payment is declined for auto-renewed accounts (SaaS)
-
-</details>
 
 ## Licensing and Renewals (L&R) Queue in Zendesk
 
@@ -544,65 +401,17 @@ Tickets come into the L&R queue in Zendesk generally three ways, generally prior
 - **Passing to Billing:** The mechanism to pass tickets to the Billing team is to open the ticket, then change the field `form` from the value `Upgrades, Renewals & AR (refunds)` to `Accounts Receivable/Refunds`.
     This puts the ticket into the Billing Team's queue which they then manage.
 
-## Defined Technology Approach
 
-##### sales operations
+## Contact Us
+### Slack Channels
+- `#enterprise-apps`
+- `#business-technology`
+- `#bt-finance-operations`
+- `#financesystems_help`
+- `#bt-integrations`
 
-Directly Responsible Individual James Harrison
-
-- Clear, consistent workflows for Sales to be trained on new business and renewals.
-- Clear, consistent processes on how to get self-service support or Sales support.
-
-##### fulfillment
-
-Directly Responsible Individual Amanda Rueda
-
-- Customers and Sales to be provided with easy to read format of known bugs that are affecting the CustomersDot, what is the workaround, how to ask for the workaround to be applied to them, and what the timeline to fix is.
-- Improvements to the web store’s user interface, user experience, and backend processes and integrations.
-- Provide regular and clear updates to the Sales and Customer Success organizations about work in progress and upcoming work that has an impact on those customer facing organizations.
-
-##### support
-
-Directly Responsible Individuals Donique Smit and Shaun McCann
-
-- Support, triage and work the Zendesk License and Renewal queue.
-- Provide feedback to stakeholders.
-- Document known bugs and workarounds in appropriate locations as identified by Product.
-- Participate in single lane channel identified by Sales to request help from Support.
-- Work with Sales Systems team to resolve Salesforce synchronization problems.
-
-##### enterprise applications
-
-Directly Responsible Individuals Christopher Nelson
-
-- Provide support to Sales, Support, and Product in creating interdepartmental feedback loops, workflows, and processes.
-- Continue to monitor and illuminate gaps.
-- Document the relationship between the CustomersDot and the product for Docs and Sales to provide to the customer during onboarding.
-- Work with Product, Sales, and Support on a unified list of product features and functionality in prioritized order for Product.
-
-##### enterprise applications integrations
-
-Directly Responsible Individual Daniel Parker
-
-##### finance operations
-
-Directly Responsible Individual Alex Westbrook, Mark Quitevis
-
-- Primary administration of Zuora.
-- Work with Sales Systems and Fulfillment team to identify gaps, improve integrations between systems.
-- Participate in end to end testing of enterprise application ecosystem.
-
-##### sales systems
-
-Directly Responsible Individual Jack Brennan
-
-- Primary administration of Salesforce.
-- Work with Finance Operations and Fulfillment team to identify gaps, improve integrations between systems.
-- Participate in end to end testing of enterprise application ecosystem.
-
-## Fulfillment
-
-| [Fulfillment](https://about.gitlab.com/direction/fulfillment/)         | Request Type                                                                                         |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Purchase](https://about.gitlab.com/direction/fulfillment/purchase/)   | managing subscription, billable users, account management and the purchase flows (including trials). |
-| [Provision](https://about.gitlab.com/direction/fulfillment/provision/) | post-purchase activities: provision license, integration with SalesForce, Zuora, Marketo.            |
+### GitLab Issues
+<div class="flex-row" markdown="0" style="height:80px">
+  <a href="https://gitlab.com/gitlab-com/business-technology/business-technology/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Business Systems Analysts</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/issue-tracker/-/issues/new" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Integrations Engineering</a>
+  <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/financeops/finance-systems" class="btn btn-purple-inv" style="width:33%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Finance Systems</a>
