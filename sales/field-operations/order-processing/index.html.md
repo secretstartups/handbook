@@ -1137,7 +1137,7 @@ After the ISR or Account manager confirms the Distributor PO is correct, a quote
 <details>
 <summary markdown="span"><b>Booking Requirements for Professional Services opportunities</b></summary>
 
-Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services.
+Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services and the [Deal Desk handbook page for the details of PS quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services). 
 
 1. If a Professional Services Opportunity only includes any of these off-the-shelf SKUs
     * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products.
