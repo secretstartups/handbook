@@ -21,7 +21,9 @@ This page explains the main choices available to you. Some guidelines:
 1. Testing locally is also recommended - configuring a Docker / VM based system (details below) to your taste will let you quickly spin up a specific GitLab version.
 1. You will need licenses for all self-managed tiers so you can match the features available with your customer's features - see the next section.
 1. For most testing, a single box Omnibus installation will be fine.
-1. If you need a more complex environment (e.g. with a runner configured) [support resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) can help you.
+1. If you need a more complex environment (e.g. with a runner configured), the following tools can help:
+    * [Support Resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) via cloud (GCP) VMs
+    * [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups/-/blob/master/README.md) via local (Virtualbox, VMWare, libvirt) VMs
 1. For K8s Helm installations, we recommend using GKE - see the section below.
 1. If you need to replicate specific cloud provider environments (e.g. for a scaled architecture), see the sections on GCP, AWS and Azure below.
 1. Consider joining the [#support-testing Slack Channel](https://gitlab.slack.com/archives/C0167JB9E02) to share your own tips and tricks for testing environments.
@@ -168,6 +170,28 @@ virtualization.
 1. Install VirtualBox.
 
 **Note** The following list of commands can be saved as bash script for quickly spinning up new instances
+
+### Vagrant Testing Environment
+
+#### Install Vagrant
+
+From [Introduction to Vagrant](https://www.vagrantup.com/intro)
+
+> Vagrant is a tool for building and managing virtual machine environments in a single workflow
+
+Vagrant encapsulates the local VM apps VMWare and Virtual along with [libvirt](https://libvirt.org/).
+
+To install Vagrant, go to [tutorials/vagrant/getting-started-install](https://learn.hashicorp.com/tutorials/vagrant/getting-started-install?in=vagrant/getting-started)
+
+Once installed, [support/toolbox](https://gitlab.com/gitlab-com/support/toolbox) has two projects which you can explore for local GitLab and tools setup.
+
+* [GitLab Support Toolkit](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-toolkit)
+
+> Support toolkit to help manage GitLab inventory and additional services via docker containers.
+
+* [GitLab Support Setups](https://gitlab.com/gitlab-com/support/toolbox/gitlab-support-setups)
+ 
+> Provide a common provisioning and directory structure for various support setups including GitLab with connected GitLab Runners.
 
 ## Creating GitLab test instance
 #### Creating settings variables
