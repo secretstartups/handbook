@@ -11,8 +11,6 @@ canonical_path: "/company/still-a-startup/"
 - TOC
 {:toc}
 
-## Overview
-
 Most companies regress to the mean and slow down over time. We plan to maintain our startup ethos by doing the following:
 
 ### Reinforcing our values
