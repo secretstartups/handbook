@@ -46,8 +46,7 @@ Make sure to save these credentials as distinct from your regular GitLab credent
 
 ##### What is a True Up?
 
-- [definition](/handbook/sales/#true-up)
-- A true-up is a back payment for a customer going over their license count during the previous year.
+A true-up is a back payment for a customer going over their license count during the previous year.
 We use the true-up model so that the license never becomes a barrier to adoption for the client.
 
 ##### What causes a true-up error?
