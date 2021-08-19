@@ -13,10 +13,12 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 - Lisa Puzar, Senior Manager, Sales Commissions
 - Swetha Kashyap, Sales Commissions Manager
+- Praveen Ravi, Sales Commissions Analyst
+- Sophie Hamann, Sales Commissions Analyst
 
 ## **What's New?**
 
-Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! More information to follow, however, some key features are shown below:
+Exciting news for FY22! We have migrated our existing commission system to Xactly Incent! Some key features are shown below:
 
 #### Key Benefits of Xactly Incent
 
