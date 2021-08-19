@@ -40,8 +40,9 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 ### 🎥 [Watch the "How to Reach Legal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
 *Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
-1. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
-2. There is a:
+1. **UPDATE TO PROCESS:** Please note, the "Legal Request Button" will not be available exclusively in the Opportunity template layout. The purpose of this update was to enable Legal to gather more information regarding Legal Requests created and the applicable Opportunity information. If an Opportunity does not exists, please open a $0 Opportunity to then create the Legal Request following the steps within this Section and the video.  
+2. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
+3. There is a:
      * $25K ARR opportunity minimum threshold to review edits to our terms; and
      * $100K ARR opportunity minimum threshold to review Customer.
      
@@ -49,9 +50,9 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
     
 * The above thresholds do not apply to NDA's, simply follow the same process(es) and attach the Customer red-lined GitLab NDA, OR, the Customer's NDA template.
 
-3. Step-by-Step directions on opening a Legal Request can be found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-editable-version-of-gitlab-template)
+4. Step-by-Step directions on opening a Legal Request can be found [here](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#request-editable-version-of-gitlab-template)
 _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open another Legal Request when updated red-lines are provided. All red-lines / negotiated versions will be stored in one (1) Legal Request to ensure version history is maintained. 
-4. A presentation on this topic can be found [here](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)
+5. A presentation on this topic can be found [here](https://docs.google.com/presentation/d/1lesWNvPAFd1B3RuCgKsqQlE85ZEwLuE01QpVAKPhQKw/edit#slide=id.g5d6196cc9d_2_0)
 
 **Additional Resources:**
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
