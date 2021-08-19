@@ -914,6 +914,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/documentation/styleguide.html) for more information when writing documentation.
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
+   1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
 1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/#segmentation).
 
 ## Visuals
