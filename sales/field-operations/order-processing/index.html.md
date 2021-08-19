@@ -194,7 +194,7 @@ The fields in this section enable contractual opt-outs for each SuperSonics feat
 
 | Field Name | Field Description |
 |-|-|
-| [Cloud Lic] Add QuarterlyReconcil OptOut | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
+| [Cloud Lic] Add Reconciliation Opt Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
 | [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
 
