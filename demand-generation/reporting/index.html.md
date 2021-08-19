@@ -29,6 +29,7 @@ This handbook page covers key dashboards and reports, and tips on how we leverag
    - Look here for "best attempt" at overall MQL, SAO by segment/region
    - Salesforce Reports: *need to figure out how to replicate this for INQs/MQLs/SAOs from the TD Dashboard*
    - Includes everything, not just Demand Gen, but we can't use the DG Dash for accurate totals of INQs/MQLs/SAOs
+   - INQ cannot be filtered by region on this dashboard, only by segment
 * [(Gsheet) Demand Gen Metrics FY21 to FY22](https://docs.google.com/spreadsheets/d/1Jn3ywQMCdeBVT2OpAxFtiffZLAwDC_1dgcgAxLWc80w/edit#gid=1035863569): shows month-over-month total (and delta) in digital spend ($); INQ, MQL, SAO, Won (totals); conversion rates (%); cost-per ($); pipeline and won ($).
    - Total spend sourced from PMG invoice data (including PMG commission)
    - Totals (INQ, MQL, SAO) sourced from `GET FROM DUNK`
@@ -172,7 +173,7 @@ The above [Linear] attribution metrics are also available in other attribution m
 * **Date Range**: based on Bizible touchpoint date
 * **Group By Time:** You can toggle between different date aggregation (MoM,QoQ,YoY). _Note: If you use the dashboard for the very first time, you need to select any value in this filter in order to make the charts work on the dashboard._
 * **Touchpoint Segment:** multi-select filter with the option of `Demand Gen` and `Other` (if you select both, you would be able to see All touchpoints). `Other` touchpoints cover any non-Demand Gen data (e.g.: FMM, Direct, Organic Search etc.). Touchpoint Segment **does not** filter the PMG cost.
-* **Snapshot View:** When you select the `Snapshot View` option, the main KPIs (MQL,Linear SAO, Won) will be filtered by the relevant snapshot date instead of touchpoint date. What does this mean? Touchpoint view is based on Bizible touchpoint dates, while the Snapshot view is based on the relevant SFDC object date filters: for Linear SAO -> SAO date, Closed Won -> Closed date, MQLs -> MQL date. Inquiries is always filtered by the Bizible touchpoint date, so Inquiries and PMG cost is not affected by the Snapshot view. **Important** to know that the Snapshot View is only linked to the main Scorecards and the Funnel chart that are on the top of the Demand Gen dashboard.
+* **Snapshot View:** When you select the `Snapshot View` option, the main KPIs (MQL,Linear SAO, Won) will be filtered by the relevant snapshot date instead of touchpoint date. What does this mean? Touchpoint view is based on Bizible touchpoint dates, while the Snapshot view is based on the relevant SFDC object date filters: for Linear SAO -> SAO date, Closed Won -> Closed date, MQLs -> MQL date. Inquiries is always filtered by the Bizible touchpoint date, so Inquiries and PMG cost is not affected by the Snapshot view. **Important** to know that the Snapshot View is only linked to the main Scorecards and the Funnel chart that are on the top of the Demand Gen dashboard. Note that best practice is to use the `Snapshot View` on this dashboard.
 * **Integrated Campaign:** filters the charts and tables by integrated campaign group. `Free Trial` covers the Estimated Free Trials only.
 * **SFDC Sales Segment:** based on the sales segment on the lead object and the sales segment on the account linked to the contact. SFDC Sales Segment filters the PMG Cost based on the utm_segment in PMG data, that is defined in the `budget` field in their database. PMG Segments: SMB, Mid-Market, Large, Prospecting, Retargeting
 * **SFDC Region Normalized:** it's the Region on the lead object and the region on the account linked to the contact. PMG Cost is filtered by the region taken from the PMG campaign name
@@ -185,7 +186,7 @@ The Demand Gen dashboard has the following defaults filters set up:
 * Touchpoint_Segment=`Demand Gen`
 * DateRange =>`2020-02-01`
 * SFDC_Order_Type_Stamped = `1. New - First Order`
-* Snapshot View is turned off
+* Snapshot View is turned on
 
 When you want to reset the filter just open the filter pane and click on `Reset Filter`
 
@@ -209,6 +210,8 @@ Select `SFDC_Order_Type_Stamped = 1. New - First Order, 2. New - Connected, 3. G
 - Check `Snapshot view`
 
 **Snapshot View vs Touchpoint View:**
+
+Snapshot View is the default on the dashboard and the [best practice for use](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/429#note_655315272).
 
 The following table gives a better understanding of the difference between the 2 views (with dummy data). The table shows 1 SFDC Sales accepted opportunity (SAO) with 4 different touchpoints and the Linear SAO. Each touchpoint happens on a different day and the SAO date of the opportunity is on `2021-01-20`.
 
