@@ -178,6 +178,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
+| Sales Nominated | Status for when Sales and Marketing want to extend an event invitation | |
 | Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
 | Registered | Registered for event |  |
 | No Show | Registered but did not attend event |  |
