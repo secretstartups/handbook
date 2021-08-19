@@ -232,7 +232,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
       - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#viewing-support-tickets), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
 
-### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
+### 12. [Technical Deep Dive (SA, TAM, and PSE ONLY)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
    -Review the [GitLab Ultimate Demo](https://chorus.ai/meeting/1837148?tab=summary&call=5E63AE4EDCAD4960A59BEBBEF4CEE1BF)
 * **Auto DevOps (Material - GitLab Docs - 15 minutes)**
@@ -267,7 +267,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Bookmark these [Marketing Demos](/handbook/marketing/strategic-marketing/demo/)
 
 
-### 13. Integrations (SA, TAM, and PSE Only)
+### 13. [Integrations (SA, TAM, and PSE Only)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**
