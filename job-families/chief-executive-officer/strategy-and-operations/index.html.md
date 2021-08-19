@@ -134,7 +134,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Has experience in building and managing relationships with folks at executive and more junior levels
 - Has enough technical understanding to help coordinate required activities between JiHu and GitLab Inc. For instance, understands repos and licensing
 - Can speak Mandarin and read Simplified Chinese
-- Can work with some overlap with PST and CST timezones. This role would likely be based somewhere in APAC
+- Can work with some overlap with PST and CST timezones. This role would likely be based somewhere in APAC. Not based in China.
 
 ## Performance Indicators
 
