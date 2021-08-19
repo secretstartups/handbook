@@ -12,6 +12,8 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Quote to Cash Introduction
+The quote-to-cash (QTC) process encompasses lead conversion, customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
 
 ## Lead to Fulfillment Applications
 
@@ -66,13 +68,22 @@ description: "Business Systems Lead to Fulfillment Documentation"
 * Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
 * Salesforce is owned by the Sales Systems team at GitLab.
 
-#### Zuora
+#### Zuora Billing
 * Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
 * Zuora is owned by the Finance team at GitLab.
+
+#### Zuora Revenue
+* Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
 #### CustomersDot
 * CustomersDot is used when the customer logs in to manage their account details for their subscription
 * GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
+
+#### NetSuite
+* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
+* The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
+
+
 
 
 ## Resources
@@ -108,7 +119,7 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - [walkthrough video of purchasing CI minutes](https://drive.google.com/drive/folders/1UxEVNgAkL2TwH8NOOmT4a6cFL_vqIZCH)
 
 
-## Process Flow Diagrams
+# Process Flow Diagrams
 
 
 
@@ -146,7 +157,7 @@ description: "Business Systems Lead to Fulfillment Documentation"
 - API should send country codes ISO 2 from CustomersDot or GitLab.com forms to SFDC and Marketo
 - [Required fields](https://gitlab.com/groups/gitlab-org/-/epics/3627) for submitting new leads to Marketo in order for them to be properly rotated to the sales team.
 
-## Zuora Configurations
+# Zuora Documentation
 - [overall Zuora system configurations](https://docs.google.com/spreadsheets/d/11VnuTlWuMe6XGf6gB0_x16MSQvJryuEY8gQRx66wjJ4/edit?ts=5f0f28d0#gid=152692183)
 - [finance systems integrations inventtory](https://docs.google.com/spreadsheets/d/1H2DTuP0lS6J129pProMajhdH_as6i38RV1_FjA59uM8/edit#gid=0)
 - [heatmap of finance systems](https://app.lucidchart.com/invitations/accept/df465e7e-de32-4e6f-b93d-0c89044bca5c)
@@ -208,7 +219,7 @@ An authorized reseller based on Germany will be billed from GitLab GmbH; United 
 
 </details>
 
-## Notifications
+### Notifications
 
 <details>
 <summary markdown='span'>
@@ -223,31 +234,31 @@ Note: Email content cannot currently be tailored to SaaS vs. Self-managed.
 - The emails come from Zuora, with the exception of the "14 day SaaS auto-renew email", which is sent by the CustomersDot
     - 14 day SaaS auto-renew email is only sent if there is an increase in the customer's seat count which will lead to an increased bill
 
-### 90 day email
+#### 90 day email
 
 <a href="/images/growth/renewal_mailing_90.png"><img src="/images/growth/renewal_mailing_90.png"></a>
 
-### 45 day email
+#### 45 day email
 
 <a href="/images/growth/renewal_mailing_45.png"><img src="/images/growth/renewal_mailing_45.png"></a>
 
-### 21 day email (auto-renew on)
+#### 21 day email (auto-renew on)
 
 <a href="/images/growth/renewal_mailing_21_3.png"><img src="/images/growth/renewal_mailing_21_3.png"></a>
 
-### 15 day email
+#### 15 day email
 
 <a href="/images/growth/renewal_mailing_15.png"><img src="/images/growth/renewal_mailing_15.png"></a>
 
-### 14 day email (auto-renew on and having an increase)
+#### 14 day email (auto-renew on and having an increase)
 
 <a href="/images/growth/renewal_mailing_14.png"><img src="/images/growth/renewal_mailing_14.png"></a>
 
-### 3 day email (auto-renew on)
+#### 3 day email (auto-renew on)
 
 <a href="/images/growth/renewal_mailing_21_3.png"><img src="/images/growth/renewal_mailing_21_3.png"></a>
 
-### 0 day email
+#### 0 day email
 
 <a href="/images/growth/renewal_mailing_0.png"><img src="/images/growth/renewal_mailing_0.png"></a>
 
@@ -272,7 +283,7 @@ Emails notifications are sent through Mailgun
 
 </details>
 
-## Definitions
+### Definitions
 
 <details>
 <summary markdown='span'>
