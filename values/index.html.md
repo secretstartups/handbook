@@ -1228,26 +1228,26 @@ To reinforce that GitLab's values are a living document, we [capture contributio
 Whatever behavior you reward will become your values. We reinforce our values by:
 
 1. Criteria we use for [promotions](/handbook/people-group/promotions-transfers/) and communicate to the whole company on announcement.
-1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
 1. What we refer to when [making decisions](/handbook/leadership/#making-decisions).
 1. The example the E-group sets for the company since [a fish rots from the head down](https://thoughtmanagement.org/2011/11/21/does-the-fish-rot-from-the-head-down-when-organisations-go-toxic/).
 1. What we select for during [hiring](/handbook/hiring/).
-1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
 1. What we emphasize during [on-boarding](/handbook/people-group/general-onboarding/).
+1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
+1. What we expect from all team members, as [ambassadors for our values](/handbook/leadership/#gitlab-team-members).
+1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
 1. Behavior we give each other [360 feedback](/handbook/people-group/360-feedback/) on.
 1. Behavior we [compliment](/handbook/communication/#say-thanks).
 1. Criteria we use for [discretionary bonuses](/handbook/incentives/#discretionary-bonuses).
-1. Criteria we use for our [annual compensation review](/handbook/total-rewards/compensation/compensation-review-cycle/#annual-compensation-review).
+1. What we include in our [offer letters](/handbook/people-group/contracts-probation-periods/#employment-and-contractor-agreements)
 1. Criteria we use to [manage underperformance](/handbook/leadership/underperformance/).
 1. What we do when we [let people go](/handbook/people-group/offboarding/).
 1. Giving value awards during [Contribute](/events/gitlab-contribute/).
-1. Keeping them [up to date](/handbook/values/#updating-our-values) with a [stream of commits that add details](https://gitlab.com/gitlab-com/www-gitlab-com/-/commits/master/sites/handbook/source/handbook/values/index.html.md).
-1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
-1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
-1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
-1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
-1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
 1. Providing GitLab team members and [qualified individuals](https://about.gitlab.com/handbook/ceo/shadow/#eligibility) transparency into all aspects of the company through the [CEO Shadow Program](https://about.gitlab.com/handbook/ceo/shadow/#goal) to enable them to better engage and collaborate cross-functionally.
+1. Linking the takeaways of courses to our values, like we did for [the Crucial Conversations training](/handbook/leadership/crucial-conversations/#how-crucial-conversations-align-with-gitlab-values).
+1. The default settings of the software we use (for example: [Speedy meetings](/handbook/tools-and-tips/#speedy-meetings), [document sharing](/handbook/communication/#link-sharing), agendas, etc.)
+1. Reinforcing our values with features in GitLab, for example the [Iterations feature](https://docs.gitlab.com/ee/user/group/iterations/).
+1. Applying one of our [values virtual backgrounds](https://about.gitlab.com/press/press-kit/#green-screens) in video calls.
+1. Our GitLab [Song Book](https://about.gitlab.com/company/culture/songbook/), the song lyrics often mention GitLab values. 
 
 The most important moments to reinforce our values are decisions which affect individual team members most: hiring, promotions, and bonuses, which is why every promotion document at GitLab is shared with the entire company and uses the values as its core structure.
 
