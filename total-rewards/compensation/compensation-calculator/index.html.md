@@ -257,7 +257,7 @@ _Note: This table excludes Enterprise Sales, Commercial Sales, Channel Sales, an
 | 5			|                  | Junior                    |
 | 4			|                  | Intern                    |
 
-Dual career tracks can be added to each job family (regardless of division) when supported by data. Each level above senior will have links to market examples of that level in the relevant section of the job family.
+Dual career tracks can be added to each job family (regardless of division) when supported by data. Each individual contributor level above senior (grade 5) will have links to market examples of that level in the relevant section of the job family.
 
 ##### Sales/Sales Development:
 
