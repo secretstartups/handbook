@@ -109,6 +109,9 @@ GitLab's Fiscal Year runs from February 1 to January 31.
 
 Refer to our [writing style guidelines](/handbook/communication/#writing-style-guidelines) for proper use of date formats.
 
+### Revenue non-committee
+- **Internal Management Members:** Chief Finanical Officer (DRI), Chief Executive Officer, Chief Revenue Officer (model, guidance, plan, target)
+
 ## Invoice template and where to send
 
 <a name="invoices"></a>
