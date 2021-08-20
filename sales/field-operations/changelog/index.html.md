@@ -16,7 +16,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY22 
 
-### 2021-08-16 Release ([Epic] (link TBD))
+### 2021-08-30 Release ([Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
 Item 1 (title only) (issue link)
 
 Item 2 (issue link)
