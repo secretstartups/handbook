@@ -53,99 +53,99 @@ Data as of 2021-07-31
 
 | **Race/Ethnicity (US Only)**                | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| American Indian or Alaska Native            | 1         | 0.14%           |
-| Asian                                       | 68        | 9.51%           |
-| Black or African American                   | 21        | 2.94%           |
-| Hispanic or Latino                          | 40        | 5.59%           |
-| Native Hawaiian or Other Pacific Islander   | 1         | 0.14%           |
-| Two or More Races                           | 35        | 4.90%           |
-| White                                       | 536       | 74.97%          |
-| Unreported                                  | 13        | 1.82%           |
-| **Total Team Members**                      | **715**   | **100%**        |
+| American Indian or Alaska Native            | 2         | 0.27%           |
+| Asian                                       | 79        | 10.49%           |
+| Black or African American                   | 24        | 3.19%           |
+| Hispanic or Latino                          | 47        | 6.24%           |
+| Native Hawaiian or Other Pacific Islander   | 1         | 0.13%           |
+| Two or More Races                           | 37        | 4.91%           |
+| White                                       | 536       | 74.77%          |
+
+| **Total Team Members**                      | **753**   | **100%**        |
 
 | **Race/Ethnicity in Engineering (US Only)** | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
 | Asian                                       | 20        | 10.20%          |
 | Black or African American                   | 3         | 1.53%           |
-| Hispanic or Latino                          | 6         | 3.06%           |
+| Hispanic or Latino                          | 8         | 4.08%           |
 | Native Hawaiian or Other Pacific Islander   | 0         | 0.00%           |
-| Two or More Races                           | 11        | 5.61%           |
-| White                                       | 155       | 79.08%          |
-| Unreported                                  | 1         | 0.51%           |
+| Two or More Races                           | 12        | 6.12%           |
+| White                                       | 153       | 78.06%          |
+          |
 | **Total Team Members**                      | **196**   | **100%**        |
 
 | **Race/Ethnicity in Management (US Only)**  | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
-| Asian                                       | 11        | 9.24%           |
-| Black or African American                   | 4         | 3.26%           |
-| Hispanic or Latino                          | 5         | 4.20%           |
+| Asian                                       | 13        | 10.16%           |
+| Black or African American                   | 4         | 3.13%           |
+| Hispanic or Latino                          | 6         | 4.69%           |
 | Native Hawaiian or Other Pacific Islander   | 0         | 0.00%           |
-| Two or More Races                           | 8         | 6.72%           |
-| White                                       | 91        | 76.47%          |
-| Unreported                                  | 0         | 0%              |
-| **Total Team Members**                      | **119**   | **100%**        |
+| Two or More Races                           | 7         | 5.47%           |
+| White                                       | 98        | 76.56%          |
+ 
+| **Total Team Members**                      | **128**   | **100%**        |
 
 | **Race/Ethnicity in Leadership (US Only)**  | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
-| Asian                                       | 15        | 17.24%          |
+| Asian                                       | 18        | 18.56%          |
 | Black or African American                   | 0         | 0.00%           |
 | Hispanic or Latino                          | 0         | 0.00%           |
 | Native Hawaiian or Other Pacific Islander   | 0         | 0.00%           |
-| Two or More Races                           | 3         | 3.45%           |
-| White                                       | 66        | 75.86%          |
-| Unreported                                  | 3         | 3.45%           |
-| **Total Team Members**                      | **87**    | **100%**        |
+| Two or More Races                           | 3         | 3.09%           |
+| White                                       | 76        | 78.35%          |
+  
+| **Total Team Members**                      | **97**    | **100%**        |
 
 | **Race/Ethnicity (Global)**                 | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| American Indian or Alaska Native            | 1         | 0.08%           |
-| Asian                                       | 152       | 11.57%          |
-| Black or African American                   | 36        | 2.74           |
-| Hispanic or Latino                          | 73        | 5.56%           |
-| Native Hawaiian or Other Pacific Islander   | 3         | 0.23%           |
-| Two or More Races                           | 45        | 3.42%           |
-| White                                       | 830       | 63.17%          |
-| Unreported                                  | 174       | 13.24%          |
-| **Total Team Members**                      | **1,314** | **100%**        |
+| American Indian or Alaska Native            | 2         | 0.015%           |
+| Asian                                       | 172       | 12.47%          |
+| Black or African American                   | 41        | 2.97           |
+| Hispanic or Latino                          | 85        | 6.16%           |
+| Native Hawaiian or Other Pacific Islander   | 3         | 0.22%           |
+| Two or More Races                           | 50        | 3.36%           |
+| White                                       | 875       | 63.45%          |
+| Unreported                                  | 151       | 10.95%          |
+| **Total Team Members**                      | **1,379** | **100%**        |
 
 | **Race/Ethnicity in Engineering (Global)**  | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
-| Asian                                       | 65        | 11.71%          |
-| Black or African American                   | 12        | 2.16%           |
-| Hispanic or Latino                          | 28        | 5.05%           |
+| Asian                                       | 68        | 12.10%          |
+| Black or African American                   | 13        | 2.31%           |
+| Hispanic or Latino                          | 34        | 6.05%           |
 | Native Hawaiian or Other Pacific Islander   | 1         | 0.18%           |
-| Two or More Races                           | 17        | 3.06%           |
-| White                                       | 337       | 60.72%          |
-| Unreported                                  | 95        | 17.12%          |
-| **Total Team Members**                      | **555**   | **100%**        |
+| Two or More Races                           | 21        | 3.74%           |
+| White                                       | 342       | 60.85%          |
+| Unreported                                  | 83        | 14.77%          |
+| **Total Team Members**                      | **562**   | **100%**        |
 
 | **Race/Ethnicity in Management (Global)**   | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
-| Asian                                       | 18        | 9.89%           |
-| Black or African American                   | 4         | 2.20%           |
-| Hispanic or Latino                          | 6         | 3.30%           |
+| Asian                                       | 21        | 10.61%           |
+| Black or African American                   | 5         | 2.53%           |
+| Hispanic or Latino                          | 8         | 4.04%           |
 | Native Hawaiian or Other Pacific Islander   | 0         | 0.00%           |
-| Two or More Races                           | 9         | 4.95%           |
-| White                                       | 129       | 70.88%          |
-| Unreported                                  | 16        | 8.79%           |
-| **Total Team Members**                      | **182**   | **100%**        |
+| Two or More Races                           | 8         | 4.04%           |
+| White                                       | 141       | 71.21%          |
+| Unreported                                  | 15        | 7.58%           |
+| **Total Team Members**                      | **198**   | **100%**        |
 
 | **Race/Ethnicity in Leadership (Global)**   | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | American Indian or Alaska Native            | 0         | 0.00%           |
-| Asian                                       | 16        | 14.68%          |
+| Asian                                       | 19        | 16.38%          |
 | Black or African American                   | 0         | 0.00%           |
-| Hispanic or Latino                          | 1         | 0.92%           |
+| Hispanic or Latino                          | 1         | 0.86%           |
 | Native Hawaiian or Other Pacific Islander   | 0         | 0.00%           |
-| Two or More Races                           | 3         | 2.75%           |
-| White                                       | 77        | 70.64%          |
-| Unreported                                  | 12        | 11.01%          |
-| **Total Team Members**                      | **109**   | **100%**        |
+| Two or More Races                           | 3         | 2.59%           |
+| White                                       | 85        | 73.28%          |
+| Unreported                                  | 8        | 6.9%          |
+| **Total Team Members**                      | **116**   | **100%**        |
 
 ##### Age Distribution
 
