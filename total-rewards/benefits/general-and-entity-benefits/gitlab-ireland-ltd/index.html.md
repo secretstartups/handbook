@@ -153,6 +153,9 @@ Once the total rewards team has approved the bike or ticket application, an invo
 * Periods of parental leave taken during any previous employment will be taken into account in calculating the entitlement to parental leave. 
 * Team members must give written notice to Total Rewards (total-rewards@gitlab.com) at least six weeks before taking leave.
 * Team members must sign a [confirmation document](https://docs.google.com/document/d/1AuD4itCJb2TsUw6bkKZJWUIfL4UM1Q0MMuY_bNlpJsM/edit?usp=sharing) at least four weeks before leave is set to begin.
+
+#### Midwife Support Service 
+The Vhi Midwife Support Service is a new and improved benefit that’s available to team members. The midwife service gives expectant parents the opportunity to have three antenatal consultations staged throughout each trimester of their pregnancy. Once the team members new baby arrives, you can avail of four postnatal consultations over the following six weeks. The team member's dedicated midwife will guide them through the pregnancy journey offering education and support for each stage along the way. Expectant parents can register via the Vhi App or by emailing midwife@vhi.ie. Once registered, you will receive an email confirmation followed by a call from the Vhi midwife team within 2 working days. For more information please see the [Midwife Support Service flyer](https://drive.google.com/file/d/1NpfuZN0GUbenPVH3hsVuTSwu4NhmgPWk/view?usp=sharing) 
  
 #### Applying for Maternity, Adoptive, Paternity, Parent’s or Parental Leave in Ireland
 To initiate your leave, submit your time off by selecting the `Parental Leave` category in PTO by Roots at least 30 days before your leave starts and contact total-rewards@gitlab.com. Please familiarize yourself with [GitLab's Parental Leave policy](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave).
