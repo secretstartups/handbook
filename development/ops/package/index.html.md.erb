@@ -37,6 +37,27 @@ For more details about the vision for this area of the product, see the [product
 [product vision]: /direction/package/
 [Package stage]: /handbook/product/categories/#package-stage
 
+### Reliability and Infradev focus
+
+During FY22-Q3 GitLab in general, the Ops Sub-department, and the Package Group have a focus on items lablled as reliability issues with a particular focus on infradev issues. Infradev issues are issues that have been escalated by our infrastructure as items to address and have their own SLOs associated with them.
+
+The following are the goals of our group in executing on the vision to directly impact the performance of gitlab.com by delivering fixes for these key infradev issues.
+
+Here's the Package Group's board for infradev issues we're targeting during FY22-Q3: https://gitlab.com/gitlab-org/gitlab/-/boards/3143028?label_name[]=group%3A%3Apackage&label_name[]=infradev
+
+| Milestone | issue(s) | 
+| :-------- | :---- |
+| %14.3     | [Investigation: Consider caching the list of tags for container repositories](https://gitlab.com/gitlab-org/gitlab/-/issues/327311) |
+|           | [Remove subtransactions from `Packages::Package` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338947) |
+|           | [Remove subtransactions from `Packages::Composer::CacheFile` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338953) |
+|           | [Remove subtransactions from `Packages::BuildInfo` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338954) |
+| %14.4     | [Dependency Proxy workhorse migration implementation plan (rails)](https://gitlab.com/gitlab-org/gitlab/-/issues/335560) |
+|           | [When Container Registry is unavailable, the UI of GitLab shows incorrect information](https://gitlab.com/gitlab-org/gitlab/-/issues/227466) |
+| %14.5     | [Properly reply when "go get" gets a user that needs a 2factor authentication](https://gitlab.com/gitlab-org/gitlab/-/issues/292732) |
+|           | [GET /api/:version/groups/:id/registry/repositories has poor performance](https://gitlab.com/gitlab-org/gitlab/-/issues/329637) |
+
+The second issue scheduled for %14.5 [GET /api/:version/groups/:id/registry/repositories has poor performance](https://gitlab.com/gitlab-org/gitlab/-/issues/329637) is a breaking API change and likely won't be delivered until %15.0.
+
 ### Recent accomplishments
 
 <%= partial("accomplishments") %>
