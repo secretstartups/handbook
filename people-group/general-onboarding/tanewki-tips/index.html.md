@@ -80,3 +80,36 @@ There are a few commonly expensed items amoung new hires that are listed below a
 | Computer Case | Office Supplies | 
 | Monthly Internet Subscription | Telecom Internet | 
 
+## <i class="fab fa-gitlab fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i> Frequently Asked Questions
+
+**Q: Am I able to buy things prior to my start date then expense once started?**
+
+A: Absolutely! We recommend reviewing our [expenses](https://about.gitlab.com/handbook/finance/expenses/) handbook page about items are are expensable vs. non-expensable. 
+
+**Q: I haven't received my GitLab issued laptop yet. Is it okay to use a personal one until it arrives?**
+
+A: Yes. You can absolutely use a personal laptop until your GitLab one arrives. You'll want to hold off on doing any of the hardware Security practices found in your onboarding issue until you have your GitLab laptop though. 
+
+**Q: I purposed my own laptop for work. How do I go about expensing it?**
+
+A: You will get access to Expensify during your first week and you'll want to submit your receipts for reimbursemnt through the program. 
+
+**Q: I would like to work in a co-working space instead of my home. Is that possible?** 
+
+A: It is! You'll just want to make sure to review our co-working space details listed out [here](https://about.gitlab.com/handbook/finance/expenses/#-coworking-or-external-office--space) before signing any agreements.
+
+**Q: I received an email from Okta about access, do I need to do anything with it?**
+
+A: You won't need to action anything until day one! We are going to want you to review your `Welcome to GitLab Onboarding` email first and follow the instructions within that email to make sure that all your access is set up correctly. This will include creating your GitLab account, getting access to your GitLab email, and all other systems!
+
+**Q: Any tips for working in a remote environment and keeping myself engaged and productive?**
+
+A: GitLab has an entire team dedicated to providing the best tools to be successful at an all remote company. We highly suggest reviewing our [playbook](https://about.gitlab.com/company/culture/all-remote/).
+
+**Q: I have preplanned vacations or commitments, how should I handle this upon starting?**
+
+A: That's absolutely okay. You'll want to make sure to talk with your manager as soon as you can about the days to make sure appropriate coverage is there and then once you get access to Slack, you'll be able to submit your time off in [PTO Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots). 
+
+**Q: How long do I have to enroll in benefits?** 
+
+A: You have 30 days fron your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
