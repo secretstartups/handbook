@@ -3,9 +3,7 @@ layout: job_family_page
 title: "Public Sector Field Marketing Manager"
 ---
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=A67lWGfue_U" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A67lWGfue_U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Public Sector Field Marketing Manager
@@ -26,12 +24,12 @@ The Public Sector Field Marketing Manager has the same requirements as other [Fi
 
 ### Additional Requirements for US Public Sector
 
-- Successful track record working with US Public Sector sales team,  distributors, and channel partners.
+- Successful track record working with US Public Sector sales team, distributors, and channel partners.
 - Knowledge of state & local, Civilian, DoD, and Intelligence Community agencies and ability to translate this into a cohesive marketing plan for the Public Sector.
 
 ## Career Ladder
 
-The next step for both individual contributors and managers of people is to move to the [Director of Field Marketing](/job-families/marketing/director-field-marketing) job family or laterally to the [Account Based Marketing Manager](/job-families/marketing/account-based-marketing-manager/) job family.
+The next step for individual contributors is to move to the Manager of role listed in the Field Marketing page](/job-families/marketing/#manager-field-marketing) or laterally to the [Account Based Marketing Manager](/job-families/marketing/account-based-marketing-manager/) job family.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
