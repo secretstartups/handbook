@@ -24,7 +24,7 @@ We are a small team with a leader and data analysts.
 
 ## <i id="biz-tech-icons" class="fas fa-users"></i>Meet the Team
 
-- [Christine Lee, Intermittent Director](https://about.gitlab.com/company/team/#christinelee)
+- [Christine Lee, Interim Director](https://about.gitlab.com/company/team/#christinelee)
 - [Jerome Ahye, Manager, Data Performance](https://about.gitlab.com/company/team/#jahye1)
 - [Robert Kohnke, Data Analyst](https://about.gitlab.com/company/team/#rkohnke)
 - [David Egan, Senior Data Analyst](https://about.gitlab.com/company/team/#dwegan)
