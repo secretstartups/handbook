@@ -13,22 +13,20 @@ description: "Business Systems Lead to Fulfillment Documentation"
 {:toc .hidden-md .hidden-lg}
 
 ## Quote to Cash Introduction
-The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
+The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process. Some of the major applications that make up this process are listed below.
 
-#### Quote to Cash Applications
-
-##### Salesforce
+#### Salesforce
 * Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
 * Salesforce is owned by the Sales Systems team at GitLab.
 
-##### Zuora Billing
+#### Zuora Billing
 * Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
 * Zuora is owned by the Finance team at GitLab.
 
-##### Zuora Revenue
+#### Zuora Revenue
 * Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
-##### CustomersDot
+#### CustomersDot
 * CustomersDot is used when the customer logs in to manage their account details for their subscription
 * GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
 
@@ -90,17 +88,17 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 
 
 <div class="center">
-<div style="width: 700px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:700px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="PNs5p_JZW4yg"></iframe></div>
+<div style="width: 720px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:720px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="PNs5p_JZW4yg"></iframe></div>
 </div>
 
 #### Sales-Assisted: Renewal
 <div class="center">
-<div style="width: 700px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:700px; height:480px" src="https://lucid.app/documents/embeddedchart/5243568d-6c04-4c52-a14c-ea3c5bf42ac0" id="gx25Mg96427t"></iframe></div>
+<div style="width: 720px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:720px; height:480px" src="https://lucid.app/documents/embeddedchart/5243568d-6c04-4c52-a14c-ea3c5bf42ac0" id="gx25Mg96427t"></iframe></div>
 </div>
 
 #### Web Direct: New Subscription
 <div class="center">
-<div style="width: 700px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:700px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
+<div style="width: 720px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:720px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
 </div>
 
 ## Contact Us
