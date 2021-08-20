@@ -195,7 +195,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-08-16 | 2021-08-20 | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager | [Neil McCorrison](https://gitlab.com/nmccorrison), Frontend Enginnering Manager, Secure |
 | 2021-08-23 | 2021-08-27 | UNAVAILABLE | UNAVAILABLE |
 | 2021-08-30 | 2021-09-03 | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
@@ -1061,4 +1060,5 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-06-21 | 2021-07-02 | [Simon Liang](https://gitlab.com/sliang2) | Principal Internal Communications Manager | |
 | 2021-06-28 | 2021-07-30 | [Christine Lee](https://gitlab.com/christinelee) | Strategy and Operations Director | |
 | 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) | Manager, Technical Marketing | |
-| 2021-08-02 | 2021-08-013 | [Nuritzi Sanchez](https://gitlab.com/nuritzi) | Sr. Open Source Program Manager | |
+| 2021-08-02 | 2021-08-13 | [Nuritzi Sanchez](https://gitlab.com/nuritzi) | Sr. Open Source Program Manager | |
+| 2021-08-09 | 2021-08-20 | [Neil McCorrison](https://gitlab.com/nmccorrison) | Frontend Engineering Manager, Secure | |
