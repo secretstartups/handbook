@@ -109,7 +109,9 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 - [Tech Stack](/handbook/business-technology/tech-stack-applications/)
 - [Change Management](/handbook/business-technology/change-management/)
 
-For process flows, integration diagrams and more, check out our [Business Systems Documentation](/handbook/business-technology/enterprise-applications/applications/) page.
+For process flows, integration diagrams and more, check out our Business Systems Documentation pages:
+
+- [Quote to cash](/handbook/business-technology/enterprise-applications/quote-to-cash)
 
 
 # <i class="fas fa-tasks" id="biz-tech-icons"></i>  Our Process
