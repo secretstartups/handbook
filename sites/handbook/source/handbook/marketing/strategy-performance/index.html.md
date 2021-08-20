@@ -63,10 +63,12 @@ We can be reached via our own #mktg-strat-perf channel, although we also monitor
 
 ## <i id="biz-tech-icons" class="fas fa-tasks"></i>How We Work
 
+We use milestones to create 2 week sprints. Below are links to our project within GitLab.com and our a view of our current and upcoming milestones.
+
 <div class="flex-row" markdown="0">
   <div>
-    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Strategy and Performance local issue board</a>
-    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance" class="btn btn-purple" style="width:170px;margin:5px;">Marketing Strategy and Performance project</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Performance local issue board</a>
+    <a href="https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance" class="btn btn-purple" style="margin:5px;">Marketing Strategy and Performance project</a>
   </div>
 </div>
 
@@ -81,6 +83,10 @@ With [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/) being 
 **Format:** `As a _____ (role in marketing), I would like to ____________(need), so that ________________(reason).`
 
 Mktg Strategy uses a [local issue board](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/boards/2084660) within the [`Marketing` project](https://gitlab.com/gitlab-com/marketing).
+
+#### Issue Weights
+
+Mktg Strategy uses the Fibonnacci sequence when creating [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html). We start with a weight of 2, smaller is too simple for an issue. Similarly, we break any issue larger than 13 into an epic. 
 
 ### Epics
 
