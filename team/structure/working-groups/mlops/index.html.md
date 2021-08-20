@@ -86,6 +86,7 @@ The charter of this working group is to bridge the gap between different teams t
 | Functional Lead                | Roger Ostrander       | Senior Security Engineer, Trust & Safety        |
 | Functional Lead                | Alexander Chueshev         | Senior Backend Engineer, Applied ML |
 | Functional Lead                | Taylor McCaslin         | Principal Product Manager, Secure |
+| Functional Lead                | David DeSanto           | Senior Director, Product Management - Dev & Sec |
 | Functional Lead                | Ethan Urie            | Senior Backend Engineer, Security Automation    |
 | Functional Lead                | Jayson Salazar        | Senior Security Engineer, Security Automation   |
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
