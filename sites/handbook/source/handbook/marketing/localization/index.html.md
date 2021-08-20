@@ -150,3 +150,16 @@ The canonical version of our site will the United States English version on `abo
 It's important to note we need to declare the default page from our repository as the canonical version to avoid penalities across Google properties.
 
 Aleyda Solis maintains a great [tool to build `hreflang` tags](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/) we can use for reference as well.
+
+### List of Localized Websites
+
+| Language | Localized Website | Status |
+| ------ | ------------ | ------ |
+| French | https://about.gitlab.com/fr-fr/ | Live |
+| Japanese | https://about.gitlab.com/ja-jp/ | Live |
+| German | https://about.gitlab.com/de-de/ | Live |
+| Korean | https://about.gitlab.com/ko-kr/ | In progress |
+| Italian | https://about.gitlab.com/it-it/ | In progress |
+| Portugese | https://about.gitlab.com/pt-br/ | In progress |
+| Spanish | https://about.gitlab.com/es-es/ | In progress |
+| Russian | https://about.gitlab.com/ru-ru/ | In progress |
