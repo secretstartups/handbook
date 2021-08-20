@@ -201,9 +201,9 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-07 | 2021-09-10 | AVAILABLE - REMOTE (short week due to Holiday) | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
 | 2021-09-13 | 2021-09-17 | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote | AVAILABLE - REMOTE |
 | 2021-09-20 | 2021-09-24 | AVAILABLE - REMOTE | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote |
-| 2021-09-27 | 2021-10-01 | UNAVAILABLE | UNAVAILABLE |
-| 2021-10-04 | 2021-10-08 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | AVAILABLE - REMOTE |
+| 2021-09-27 | 2021-10-01 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
+| 2021-10-11 | 2021-10-15 | [Chris Hill](https://gitlab.com/chillosu) | UNAVAILABLE |
 | 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | [Chris Hill](https://gitlab.com/chillosu) |
 | 2021-10-25| 2021-10-29 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-01| 2021-11-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
