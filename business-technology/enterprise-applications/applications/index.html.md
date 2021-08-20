@@ -83,6 +83,20 @@ The quote-to-cash (QTC) process encompasses lead conversion, customer account ma
 * NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
 * The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
+## Process Flow Diagrams
+
+##### Sales-Assisted: New Subscription
+
+
+<div class="center">
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="PNs5p_JZW4yg"></iframe></div>
+</div>
+
+##### Web Direct: New Subscription
+<div class="center">
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
+</div>
+
 ## Contact Us
 ### Slack Channels
 - `#enterprise-apps`
