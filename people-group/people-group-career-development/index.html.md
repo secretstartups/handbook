@@ -13,22 +13,22 @@ description: "Learn about learning and development opportunities for members of 
 
 Click here to visit the [People Group Learning Hub in GitLab Learn])https://gitlab.edcast.com/channel/people-group-learning-hub)!
 
-It's important for members of the People Group to [take time to learn](LINK) and prioritize their personal and professional development as members of the GitLab team. Use the [People Group Learning Hub](https://gitlab.edcast.com/channel/people-group-learning-hub) to view suggested courses fron LinkedIn Learning, the GitLab Handbook, and other sources specific to each People Group department. You'll also find suggested training that crosses all departments, including leadership development, diversity, inclusion, and belonging, and team member wellbeing.
+It's important for members of the People Group to [take time to learn](/handbook/people-group/learning-and-development/learning-initiatives/#take-time-out-to-learn-campaign) and prioritize their personal and professional development as members of the GitLab team. Use the [People Group Learning Hub](https://gitlab.edcast.com/channel/people-group-learning-hub) to view suggested courses fron LinkedIn Learning, the GitLab Handbook, and other sources specific to each People Group department. You'll also find suggested training that crosses all departments, including leadership development, diversity, inclusion, and belonging, and team member wellbeing.
 
 ## Where should I start?
 
 Not sure how to get started? Use these steps to determine the best place to start on your career development journey.
 
-1. Open an Individual Growth Plan and discuss your learning goals with your manager
+1. Get clear on your goals using an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan). Discuss these plans with your manager and ask for their input on how you can develop in your role. 
 1. Set a recurring time block of at least 1 hour per week to work on professional development. Communicate when you're taking this time to your manager and team
-1. Use the questions below to help determine the best courses to start with
+1. Use the questions below to help determine the best courses to start with from the lists below.
 
 | Career Development Goal | Suggested Starting Point |
 | ----- | ----- |
-| I want to work on my department-specific skill development | [Talent Aquisition](LINK), [Total Rewards](LINK), [People Ops](LINK), and [People Success](LINK) |
-| I want to grow as a leader on the People team | [Becoming a People Group Leader](LINK)  |
-| I want to get better at leading with our GitLab values | [Values-Aligned Skill Development](LINK) |
-| I'd like to work on preventing burnout and improving my wellbeing at work | [Wellbeing](LINK) |
+| I want to work on my department-specific skill development | Talent Aquisition, Total Rewards, People Ops, and People Success |
+| I want to grow as a leader on the People team | Becoming a People Group Leader |
+| I want to get better at leading with our GitLab values | Values-Aligned Skill Development |
+| I'd like to work on preventing burnout and improving my wellbeing at work | Wellbeing |
 
 ## Suggested training for People Group Career Development
 
@@ -84,16 +84,12 @@ TBD
 
 Check out quick tips and testimonails from members of the People Group to learn how they make time to learn, find great courses, and prioritize their professional development.
 
-1.  
+If you're a member of the people group, you're invited to open an MR on this page and add your best tips and recommendations for career development at GitLab.
+
+1. "I set a 2 hour time block recurring every Friday on my calendar for professional development. I usually spent this time updating my IGP or working on a LinkedIn Learning course. If I have a Friday off, I usually shorted the time block to 1 hour and move it to Thursday of that week - this way, I still prioritize learning even on short weeks!" Samantha Lee, L&D 
 1. 
-1.  
 1. 
-1.  
-1. 
-1.  
-1. 
-1.  
-1. 
+ 
 
 
 ## How to Contribute
@@ -101,4 +97,4 @@ Check out quick tips and testimonails from members of the People Group to learn 
 If you've taken a great course or read a helpful article that has helped you grow in your role in the People Group, there are 2 ways you can contribute.
 
 1. Open an MR and add it to this page
-1. Become a [Learning Curator](LINK) and help curate content for other team members on the People Group Learning Hub
+1. Become a [Learning Curator](https://gitlab.edcast.com/pathways/ECL-5bcdc812-5b76-4921-b483-5846ba5acd79) and help curate content for other team members on the People Group Learning Hub
