@@ -500,7 +500,28 @@ Slack channel
     * Canada - All expense reports must be approved by manager and Accounts Payable before 1st day of each payroll period.
     * All non-US contractors - All expense reports must be approved by manager and Accounts Payable no later than the 8th of each month. Team members - please be sure to submit your report(s) a couple days before the due date.
 
+## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses:
 
+As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), so try not to micromanage spending. Our spending sub-value works as the foundation of our expense philosophy when team members exercise thoughtful judgement in purchasing. Most team members do this, but there have been bad actors. Some examples of purchases that have raised eyebrows include:
+1. Costume for the party at the end of Contribute.
+1. Boarding expense for animals while traveling.
+1. A $1700 office chair from a celebrity furniture maker.
+1. A llama rental for a team event.
+1. Meals during the Contribute when team members opt out of the company provided meal option.
+1. Cellphones and accessories.
+1. Travel related expenses for family members of GitLab employees.
+1. Fitness equipment (treadmill, etc..) and gym membership.
+1. Meals from co-working day(s).
+1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
+1. Meals or beverages while attending co working space
+1. Treadmill Desks
+1. Portable Air Conditioners
+1. Home Power Generators 
+1. [Individual subscriptions ex. Krisp , apple music](#individual-subscriptions)
+
+You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. 
+
+In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 ----
 
 Return to the main [finance page](/handbook/finance/).
