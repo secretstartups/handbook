@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Customer Digital Journey"
+title: "Digital Customer Programs"
 ---
 
 ## On this page
@@ -19,13 +19,25 @@ Strategy deck can be found [here](https://docs.google.com/presentation/d/1EsCcVq
 ### **[ FY22 CS Program Calendar SSoT](https://docs.google.com/spreadsheets/d/12t6619gcr0eeMeHqF4wibDUqoxEkY1_QA-QJOM95Wu0/edit?usp=sharing)**
 ## The Content
 
-Digital journey content is an extension of our existing documentation and community enablement materials ([YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg), [GitLab blog](https://about.gitlab.com/blog/), [case studies](https://about.gitlab.com/customers/), [forums](https://forum.gitlab.com/), [docs site](https://docs.gitlab.com/) ) designed to help organize the most relevant and most useful resources and help implementation engineers quickly become experts with advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements.  
+Digital program content is an extension of our existing documentation and community enablement materials:
+
+- [YouTube](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)
+- [GitLab blog](https://about.gitlab.com/blog/)
+- [Case studies](https://about.gitlab.com/customers/)
+- [Forums](https://forum.gitlab.com/)
+- [GitLab Docs](https://docs.gitlab.com/)
+
+This content is designed to help organize the most relevant and useful resources into one location. Using advice taken from hundreds of existing customers’ experiences and unique environmental or business requirements, it will help implementation engineers quickly become experts.
+
+![Customer Lifecycle](https://lucid.app/publicSegments/view/880a7c11-120e-4972-aa6f-972395cdbb3f/image.png "Customer Lifecycle")
 
 ## Email Nurture Programs
 
-### Onboarding
-The email templates will leverage basic onboarding enablement material provided by the Techincal Account Management Commercial segment.  A strong emphasis needs to be placed on making these materials easy for a busy DevSecOps team to consume quickly; as such, some longer materials may need to be adapted to a shorter format for best results.
+The email templates will use basic onboarding and enablement material provided by the Technical Account Management Commercial segment, and Technical Writing team. The content created will live on our Docs site which will be the single source of information. ⭐
 
+**[>> Convert Emails to Docs Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/73)**
+
+### Onboarding
 The Onboarding Quick Guide project template will allow customers to self-service the materials provided from the email templates. The below video provides an overview of how to use the Onboarding Quick Guide project template.
 
 [![GitLab Onboarding Quick Guide](https://i.imgur.com/p3ZPslJ.png
@@ -34,26 +46,35 @@ The Onboarding Quick Guide project template will allow customers to self-service
 
 **[>> Onboarding Quick Guide project template](https://gitlab.com/gitlab-com/cs-tools/gitlab-cs-tools/onboarding-quick-guide)**
 
-**[>> Email copies for the onboarding series](https://docs.google.com/document/d/1yosBBsBqvsgBYCqkn7zv9-YsT5sTynB6khRZJi8IhPE/edit?usp=sharing)**
+**[>> Onboarding Enablement](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/320)**
 
 **[>> Epic](https://gitlab.com/groups/gitlab-com/customer-success/-/epics/65)**
 
-### Post Onboarding Survey
-
 **[>> Email copy for post-onboarding survey](https://docs.google.com/document/d/1B3RV2RuUkb3RzuQeNUTDz1BnpZLRwInnb_igm4ra7aw/edit?usp=sharing)**
 
-### CI Enablement (Verify)
+### Stage Enablement 
 
-**[>> Email copies for the CI (Verify) series](https://docs.google.com/document/d/1otgcT0U4tbZJ5cGkvpzmCG7EKuSF19cR7EoPkTtRMzY/edit?usp=sharing)**
+**[>> CI (Verify) Enablement](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/190)**
 
-## Newsletters
+**[>> DevSecOps (Secure) Enablement](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/319)**
+
+**[>> CD (Release) Enablement](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/348)**
+
+
+### Newsletters
 **[>> Email copy of past and upcoming newsletters](https://docs.google.com/document/d/1Fv8B49E7FSmKDgc6uDQG51p3UAj-OsgwmdPtdAyRKcc/edit?usp=sharing)**
+
+### Webinars
+**[>> Customer Programs Commercial Webinar Series](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/37)**
+### NPS/CSAT Surveys
+Information on Customer NPS/CSAT Surveys can be found [here](https://about.gitlab.com/handbook/customer-success/tam/gainsight/#customer-npscsat-surveys)
+
+**[>> NPS/CSAT Survey for all customers ](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)**
 
 ## Roadmap of Epics
 
-- [Customer Programs <5k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/26)
-- [Customer Programs 5k - 20k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/27)
-- [Customer Programs 20k - 50k Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/31)
+- [Digital Customer Programs <$50K CARR Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/51)
+- [TAM Focused Customer Programs (>$50K CARR)](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/52)
 
 ## How To Use 
 
