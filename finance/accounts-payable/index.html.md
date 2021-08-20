@@ -102,6 +102,14 @@ Invoices for Ireland, GK, GmbH, Korea, UK, Canada Corp, Singapore entities can b
 
 > Further details on this process can be found at [the Procure to Pay page](/handbook/finance/accounting/#procure-to-pay)
 
+## <i aria-hidden="true" style="color:rgb(252,109,38); font-size:.85em" class="fas fa-receipt"></i>FedEx 
+
+- When needing to send a package on behalf of GitLab our main courier account is with FedEx
+- The first step is to contact AP in the #AccountsPayable channel to request the corporate account number
+- When sending a package **the Shipper MUST put their name under GitLab Inc in the sender field, or their full Cost Center for ex. Marketing - Field Marketing.** If you are unsure of your full cost center please go into your Bamboo HR application. On the left hand side under your name you will be able to find your Cost Center details.
+- Anyone failing to provide the correct information which will hinder AP's ability to properly code courier charges will not be allowed to use the company account in the future
+
+
 ## <i aria-hidden="true" style="color:rgb(252,109,38); font-size:.85em" class="fas fa-receipt"></i>Expenses
 
 Please review the page on [Spending Company Money](/handbook/spending-company-money/) to ensure that your spend is within GitLab's [Expense policy](/handbook/finance/expenses/).
