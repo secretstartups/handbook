@@ -237,7 +237,7 @@ Tipalti is an Accounts Payable Invoice and Payment Processing System that feeds 
 
 Coupa is a procure-to-pay system that streamlines the purchase request process, initiate workflow with approvals, and enable Purchase Orders. We will be rolling out in a phased approach, starting with the US and Netherlands entities - GitLab Inc, Federal, IT BV and BV.
 
-> You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
+> You can learn more about Coupa on our [FAQ Page](/handbook/finance/procurement/coupa-faq/)
 
 **How vendors are added into Coupa:**
 1. Any Coupa user can request a new supplier using the New Supplier Request form.
@@ -314,17 +314,41 @@ Invoices in Coupa can be created via 4 different channels:
 For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). The Accounts Payable team will evaluate on an invoice by invoice basis which goes into Coupa and which will go into Tipalti. If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others. If you are a GitLab vendor who invoices for multiple entitites and you have any questions, please reach out to *ap@gitlab.com*.
 {: .alert .alert-warning}
 
+#### Approving an Invoice in Coupa
+
+Invoices requiring PO receipts or approval will appear in user's To Do list within Coupa. Users will also receive email notifications from Coupa (depending on user's notification setting in Coupa).
+
+PO receipts notifications will enable users to "Create Receipt" by clicking on the button and entering the quantity received and receipt date. Please watch the [End Users training video](https://drive.google.com/file/d/1ZS5uh7ccPjyD6VYzzlyGX9Elvcs7TJEa/view?usp=sharing) (starting at the 30:15 mark) for more information.
+
+Approval notifications will enable users to reject or approve invoices by clicking on the appropriate button. 
+
+<div class="panel panel-success">
+**Top information to verify before approving an invoice**
+{: .panel-heading}
+<div class="panel-body">
+- Verify invoice copy is attached
+- Verify correct PO is matched
+- Verify coding (Billing) is correct
+- Verify service date is entered and correct
+- Verify tag/class is entered (if applicable)
+- Verify invoice total is correct
+
+If there are issues with any of the above items, please tag `@Accounts Payable Approval Group` in the Comments section with details. 
+</div>
+</div>
+
+
 #### Disputing an Invoice in Coupa
 
 The invoice dispute process in Coupa enables the Accounts Payable team to request corrections on invoices from suppliers.
 
-Invoices in "AP Hold", "Pending Action", "Pending Receipt", "On Hold", "Pending Approval" or "Rejected" statuses can be Disputed to the supplier for corrections. Disputing an invoice requires a dispute reason and sends an email notification to the supplier contract on record and any additional listed recipients.<br> 
+Invoices in "AP Hold", "Pending Action", "Pending Receipt", "On Hold", "Pending Approval" or "Rejected" statuses can be disputed to the supplier for corrections. Disputing an invoice requires a dispute reason and sends an email notification to the supplier contact on record and any additional listed recipients.<br> 
 Once disputed, an invoice can be Withdrawn from Dispute by Accounts Payable or Voided; or Resolved by the supplier.
 {: .alert .alert-warning}
 
 #### Rejecting an Invoice in Coupa
 
-The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before routing them to internal approval once again.
+The invoice rejection process in Coupa allows the Accounts Payable team to make adjustments on invoices before restarting approvals, continuing approvals or disputing the invoice back to the supplier. This is an internal status that suppliers cannot see indicating that an approver or approval group rejected the invoice. Comments are required when rejecting an invoice - please provide as much detail/information as possible.
 
 ###  Payment Process
 
@@ -352,14 +376,19 @@ There are four different ways that suppliers will be able to provide their payme
 - **Coupa Supplier Portal (CSP) Legal Entity Section**: Mostly used if a supplier is changing their bank account information or needs to make any updates. The vendor is able to manage that directly within their Coupa Supplier Portal profile and either add a new legal entity (which will be associated with a new bank account) or adjust an existing one.
 - **Invoicing Section**: If for some reason, a supplier is submitting their first invoice and they have not provided their banking information before they are creating their first invoice, that will create a new supplier payment account in Coupa.
 
-If you are a GitLab vendor and you want to know more about how to update your CSP profile, check the [Create or Update Your Profiles](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Get_Started_with_the_CSP/Create_or_Update_Your_Profiles) documentation.
+If you are a GitLab vendor and you want to know more about how to update your CSP profile, check Coupa's [Create or Update Your Profiles](https://success.coupa.com/Suppliers/For_Suppliers/Coupa_Supplier_Portal/Get_Started_with_the_CSP/Create_or_Update_Your_Profiles) documentation.
+
 {: .alert .alert-warning}
 
-After the supplier submits their supplier payment account information, it will come into Coupa automatically and create a supplier payment account record.
+After the supplier submits their supplier payment account information, it will transfer into Coupa automatically and create a supplier payment account record.
 
-If the supplier is going through the SIM process, then the approval for that supplier payment account will occur directly on the SIM External Form, and AP won't have to go into the supplier payment accounts object and approve it.
+If the supplier is going through the SIM process, the approval for that supplier payment account will occur directly on the SIM External Form, and AP won't have to go into the supplier payment accounts to provide approval.
 {: .alert .alert-info}
 
+
+For more information regarding how to set up SPAs or Coupa Pay, please check out the lower section of our [Coupa FAQ page](/handbook/finance/procurement/coupa-faq/).
+
+ 
 #### Creating a Batch in Coupa
 
 - Only Invoices in the “Ready to Pay” status can be utilized to create a batch.
