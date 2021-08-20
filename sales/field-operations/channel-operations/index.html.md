@@ -142,7 +142,7 @@ All US PubSec deals are transacted through Carahsoft or Immix (GSA only).
 
 
 ### Billing Contacts in Partner Accounts
-When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
+When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. Partner accounts that will transact via distribution do not need a billing account set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
  
  
 ### Quoting Requirements for Channel Deals
