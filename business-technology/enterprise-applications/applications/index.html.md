@@ -15,7 +15,7 @@ description: "Business Systems Lead to Fulfillment Documentation"
 ## Quote to Cash Introduction
 The quote-to-cash (QTC) process encompasses lead conversion, customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
 
-## Lead to Fulfillment Applications
+## Lead to Cash Flow
 
 <div class="limit-width">
 <div class="grid-container">
@@ -62,7 +62,7 @@ The quote-to-cash (QTC) process encompasses lead conversion, customer account ma
 </div>
 </div>
 
-## Primary Enterprise Applications
+## Order to Cash Applications
 
 #### Salesforce
 * Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
@@ -85,14 +85,19 @@ The quote-to-cash (QTC) process encompasses lead conversion, customer account ma
 
 ## Process Flow Diagrams
 
-##### Sales-Assisted: New Subscription
+#### Sales-Assisted: New Subscription
 
 
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0f691079-8ee9-4663-84d7-6d03e7f87ed8" id="PNs5p_JZW4yg"></iframe></div>
 </div>
 
-##### Web Direct: New Subscription
+#### Sales-Assisted: Renewal
+<div class="center">
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/5243568d-6c04-4c52-a14c-ea3c5bf42ac0" id="gx25Mg96427t"></iframe></div>
+</div>
+
+#### Web Direct: New Subscription
 <div class="center">
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/09ac03f9-ae40-4bbd-961c-f64bb44f5b4f" id="KWs5ZPs-THoH"></iframe></div>
 </div>
