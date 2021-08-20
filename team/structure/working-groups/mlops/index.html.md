@@ -63,11 +63,17 @@ Read more about the topic area from the links below:
   - [Tanuki-Stan](https://gitlab.com/gitlab-org/ml-ops/tanuki-stan)
   - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
 
+### Related ML Slack channels
+ - #g_applied_ml
+ - #g_machine-learning
+ - #feed_tanuki-stan
+ - #security-ml
+
 ## Exit Criteria 
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
 
-1. Produce a standard/conventional definition of tooling and frameworks that GitLab teams can refer to when kicking off ML-related projects.
+1. Create a handbook page discussing a deep analysis of the tooling for ML out there and a proof-of-concept framework using an ideal pathway that GitLab teams can refer to and easily extend when kicking off ML-related projects.
 1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
 1. Define a system architecture for incorporating an event stream for asynchronous processing and storage of events for training ML models.
 
