@@ -193,6 +193,8 @@ If the candidate declines GitLab's offer, or the offer is extended to another ca
 
 ### **Step 8: Justification (Engineering Only)**
 
+See [Justification section in offer packages](/handbook/hiring/offers/#justification-section).
+
 ### **Step 9: Offer Approval**
 
 Once references are completed or as they are in progress, the Recruiter will move the candidate to offer stage and collect and submit offer details in Greenhouse. The Recruiter will ensure the offer is routed for approval. Please note, with the use of Guide, candidates will be made aware when they are moved into Offer stage so move stages with caution.
