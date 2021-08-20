@@ -129,7 +129,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 * Extends that of the Staff or Principal level Strategy and Operations
 - Is GitLab's key point of contact with [JiHu](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/), an indepedent company in China that is licensed to sell GitLab software 
 - Has experience with B2B and startup tech businesses in China
-- Has a proven ability to manage strategic business alliances with and support external groups while coordinating with the internal team, including finance, sales, legal, technical and other team members
+- Has a proven ability to manage strategic business alliances and support external groups while coordinating with the internal team, including finance, sales, legal, technical and other team members
 - Has cross-functional and operational experience. This should include direct experience in supporting the operations of different business functions 
 - Has experience in building and managing relationships with folks at executive and more junior levels
 - Has enough technical understanding to help coordinate required activities between JiHu and GitLab Inc. For instance, understands repos and licensing
