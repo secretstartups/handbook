@@ -330,6 +330,27 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 * The requirements for a Commercial Solutions Architect are the same as a Solutions Architect.
 
+### Field CTO
+
+#### Field CTO Responsibilties 
+
+- Extends the responsibilities of Principal Solutions Architect
+- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
+- Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+- Act as a prospect / customer advocate on DevSecOps transformation initiatives 
+
+
+#### Field CTO Requirements
+
+- Extends the requirements of Principal Solutions Architect
+- Significant experience with architecture of enterprise software development workflow
+- Experience as CTO is a plus
+- Experience delivering information/Cyber Security and compliance related solutions and assessments
+- Experience with software development tools, practices, and methodologies
+- Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
+- Ability to use GitLab, including learning GitLab as part of the role
+
 ### Field Security Officer 
 
 #### Field Security Officer Responsibilities
