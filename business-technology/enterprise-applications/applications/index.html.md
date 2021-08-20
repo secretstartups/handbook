@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Business Systems Documentation"
-description: "Business Systems Lead to Fulfillment Documentation"
+title: "Quote to Cash Documentation"
+description: "Enterprise Appliactions Quote to Cash Documentation"
 ---
 
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
