@@ -256,8 +256,19 @@ Who can travel: GitLab Team Members responsible for business critical events or 
 Where Can GitLab Team Members Travel: While some areas of the world have decreased cases of Covid-19, some are increasing.  Team Members must refer to the [CDC website](https://covid.cdc.gov/covid-data-tracker/#global-counts-rates) to ensure that both locations (traveling from and to) are safe locations in which to travel. 
 
 Required of/by Team Members Prior to Traveling:
-- All Team Members must abide by the guidelines enforced in all locations to which they are travelling.   
-- Travel is voluntary and no Team Member is required to travel.  Proposals are requests by the Team Member and should never be made against their own judgement or comfort level.  If you are not comfortable traveling, please don't make a request.
+
+- Travel is voluntary and no Team Member is required to travel. Travel proposals shall be requested by the Team Member and should never be made against the Team Member’s own judgment or comfort level. As a Team Member, if you are not comfortable traveling, please don't make a request.
+- At this time, only vaccinated team members may request travel. Vaccinated team members must wear a mask that meets CDC or WHO guidelines during travel to their destination, and must continue to follow mask requirements meeting CDC/WHO guidelines or local requirements, whichever is more strict.
+- Based on home country, Team Members will be required to provide/use the following to travel:  
+    US - an attestation within the Travel Exception form (below) attesting to being fully vaccinated 2 weeks prior to traveling.    
+    EU - an EU Digital Covid Certificate to travel within EU countries and any countries in the EEA that accept it.   
+    England - a NHS Covid Pass  
+    All Other Locations - Proof of vaccination as required by local guidelines in their home country for travel.
+- Non vaccinated team members (including those with valid exemptions for vaccinations) are currently not allowed to travel.  
+- All international travelers must follow each country's guidelines governing entry and re-entry. 
+- As a reminder, travel is entirely voluntary, and no employment decisions are based on a Team Member’s decision to travel or not to travel. 
+
+-*All team members must be fully vaccinated (two weeks post final vaccination)
 
 Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
 
