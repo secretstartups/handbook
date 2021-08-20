@@ -13,7 +13,28 @@ description: "Business Systems Lead to Fulfillment Documentation"
 {:toc .hidden-md .hidden-lg}
 
 ## Quote to Cash Introduction
-The quote-to-cash (QTC) process encompasses lead conversion, customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
+The quote-to-cash (QTC) process encompasses customer account management, order fulfillment, billing, and accounts receivables functions. This process is owned by the Enterprise Applications team and this handbook page is intended to be used as a table of contents for key documentation of this process.
+
+#### Quote to Cash Applications
+
+##### Salesforce
+* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
+* Salesforce is owned by the Sales Systems team at GitLab.
+
+##### Zuora Billing
+* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
+* Zuora is owned by the Finance team at GitLab.
+
+##### Zuora Revenue
+* Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
+
+##### CustomersDot
+* CustomersDot is used when the customer logs in to manage their account details for their subscription
+* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
+
+##### NetSuite
+* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
+* The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
 ## Lead to Cash Flow
 
@@ -62,26 +83,6 @@ The quote-to-cash (QTC) process encompasses lead conversion, customer account ma
 </div>
 </div>
 
-## Order to Cash Applications
-
-#### Salesforce
-* Salesforce is used as our CRM tool for managing customer Leads, Contacts, Accounts and Opportunities.
-* Salesforce is owned by the Sales Systems team at GitLab.
-
-#### Zuora Billing
-* Zuora is used as our CPQ, Billing and revenue tool for managing customer subscriptions, payments and invoicing.
-* Zuora is owned by the Finance team at GitLab.
-
-#### Zuora Revenue
-* Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
-
-#### CustomersDot
-* CustomersDot is used when the customer logs in to manage their account details for their subscription
-* GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
-
-#### NetSuite
-* NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
-* The platform allows enhanced dimensional reporting as well as multi-currency and multi-entity reporting. This is where the General Ledger resides and all financial activity is ultimately recorded, which is critical to reporting the financial health of the company.
 
 ## Process Flow Diagrams
 
