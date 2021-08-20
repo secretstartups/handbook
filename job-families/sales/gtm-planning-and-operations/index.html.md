@@ -16,11 +16,11 @@ The Go-to-Market (GTM) Planning and Operations job family supports GitLab's go-t
 
 ## Requirements
 
-* Ability to partner, collaborate and influence across functional areas (e.g. Finance, People Operations and Sales) and support multiple business partners
+* Willingness to partner, collaborate and influence across functional areas (e.g. Finance, People Operations and Sales) and support multiple business partners
 * Excellent problem solving, project management, interpersonal and organizational skills
 * Previous experience in Consulting, Banking, PE or Strategy roles a big plus 
 * Basic SQL skills a big plus; we have experts, but it helps tremendously 
-* SFDC and Xactly expertise and knowledge of typical enterprise SaaS tools 
+* SFDC and Xactly familiarity and knowledge of typical enterprise SaaS tools 
 * SaaS and B2B experience preferred
 * Interest in GitLab, and open source software
 * Share our [values](/handbook/values/), and work in accordance with those values.
@@ -73,7 +73,7 @@ The Senior Manager, GTM Planning and Operations is a [9](/handbook/total-rewards
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
 * Considerable relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics 
 * Considerable experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
-* Advanced analytical and financial modeling skills with a superb ability to drive high value insights 
+* Advanced analytical and financial modeling skills with high motivation to drive high value insights 
 * Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
 
 ### Manager, GTM Planning and Operations
@@ -96,7 +96,7 @@ The Manager, GTM Planning and Operations is an [8](/handbook/total-rewards/compe
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
 * Relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics 
 * Some experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
-* Advanced analytical and financial modeling skills with a superb ability to drive high value insights 
+* Advanced analytical and financial modeling skills with high motivation to drive high value insights 
 * Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
 
 ### Sr. Analyst, GTM Planning and Operations
@@ -117,7 +117,7 @@ The Sr. Analyst, GTM Planning and Operations is a [7](/handbook/total-rewards/co
 #### Sr. Analyst, GTM Planning and Operations Requirements
 
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
-* Advanced analytical and financial modeling skills with a superb ability to drive high value insights 
+* Advanced analytical and financial modeling skills with high motivation to drive high value insights 
 * Relevant experience and a solid understanding of go-to-market design & sales planning
 * Experience collaborating closely with leaders at the Director level and below
 
@@ -138,7 +138,7 @@ The Analyst, GTM Planning and Operations is a [6](/handbook/total-rewards/compen
 #### Analyst, GTM Planning and Operations Requirements
 
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
-* Advanced analytical and financial modeling skills with a superb ability to drive high value insights 
+* Advanced analytical and financial modeling skills with high motivation to drive high value insights 
 * Some experience with go-to-market design & sales planning initiatives
 * Experience collaborating closely with leaders at the Sr. Manager level and below
 
