@@ -22,6 +22,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 * [Lab 7: Using artifacts](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab7.html)
 * [Lab 8: GitLab docker registry](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab8.html)
 * [Lab 9: Security scanning](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9.html)
+* [Lab 9 (alternative): Code quality scanning](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab9alt.html)
 
 
 ## Quick links
