@@ -107,7 +107,7 @@ Pre-Approved Legal Language can be added to each quote. Selections are listed as
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
 | Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
-| Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form |
+| Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form *This language permits manual quarterly add-ons, and can only be used when SuperSonics Quarterly Reconciliations do not apply |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 Quotes run through an automated logic check to ensure that the selected Legal Language can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
