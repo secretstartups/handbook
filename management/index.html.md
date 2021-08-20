@@ -108,9 +108,10 @@ Where:
 
 - Acting or Interim roles are [temporary management positions](/handbook/engineering/career-development/#temporary-management-positions).
 - `Senior` manager roles are introduced when needed, usually related to management [span of control](/company/team/structure/#management-group) in the relevant department.
-- Some departments have domain specific role names as well as or instead of `Engineering Manager`. While these roles may not utilize the Engineering Manager title, they are considered EMs during processes such as the [Product Development Flow](/handbook/product-development-flow/).
+- Some departments have domain specific role names as well as, or instead of, `Engineering Manager`. Be specific when identifying which manager under Engineering is responsible for certain tasks in order to avoid confusion over the term "EM". For example:
     - `Product Design Manager` for UX.
     - `Support Operations Manager` for Support.
+    - `Development Department Engineering Manager` for Development.
 - Specialty can be one or many, and should generally be listed as:
     - One specialty: ", Specialty I".
     - Two specialties: ", Specialty I & Specialty II".
