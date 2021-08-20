@@ -109,9 +109,9 @@ No, not at this time.
 | 10/25/2021 | Open |
 | 11/1/2021 | Open |
 | 11/8/2021 | Open |
-| 11/15/2021 | Open |
+| 11/15/2021 | @mlindsay |
 | 11/22/2021 | Time off  |
 | 11/29/2021 | Open |
 | 12/6/2021 | Open |
-| 12/13/2021 | Open |
+| 12/13/2021 | @mlindsay |
 
