@@ -143,7 +143,7 @@ To create a new git tag to rebuild the analyzer, follow these steps:
    git push origin --tags
    ```
 1. A new pipeline for the git tag will be triggered and a new image will be built and tagged
-
+1. Run a new pipeline for the `master` branch in order to run the full suite of tests and generate a new vulnerability report for the newly tagged image. This is necessary because the release pipeline triggered in step `3.` above runs only a subset of tests, for example, it does not perform a `Container Scanning` analysis.
 
 ### Release Manager
 
