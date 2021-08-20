@@ -41,14 +41,14 @@ The Director, GTM Planning and Operations is a [10](/handbook/total-rewards/comp
 * Design and drive the annual Go-To-Market planning process for the CRO organization
 * Own the Field Planning & Bottoms-up Quota Capacity Models; maintain throughout the year and use to drive insights that improve efficiency of the GTM motion
 * Responsible for the design and implementation of Go-To-Market experimentation (e.g. Land vs. Expand pilots)
-* Deliver structured, actionable and insightful comp analytics that lead to improvements in the design and effectiveness of compensation models 
+* Deliver structured, actionable and insightful comp insights that lead to improvements in the design and effectiveness of compensation models 
 * Be a thought leader in quota/compensation troubleshooting throughout the year 
 * Drive the evaluation and implementation of software tools required for Field, Quota and Territory planning
 
 #### Director, GTM Planning and Operations Requirements
 
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
-* Significant experience in relevant fields and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics
+* Significant experience in relevant fields and a comprehensive understanding of go-to-market design & sales planning as well as sales compensation design & analytics
 * Significant experience interacting with C-suite Executives and closely partnering with Leaders at the VP level and below
 * Advanced analytical and financial modeling skills with a superb ability to drive high value insights
 * Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
@@ -64,7 +64,7 @@ The Senior Manager, GTM Planning and Operations is a [9](/handbook/total-rewards
 #### Senior Manager, GTM Planning and Operations Responsibilities
 
 * Be a key driver and architect of the annual Go-To-Market planning process for the CRO organization
-* Take a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
+* Play a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
 * Partner closely with Sales Leadership, Finance and Sales Operations to help design an efficient, effective and predictable GTM motion
 * Be a key leader in the design and implementation of Go-To-Market experimentation (e.g. Land vs. Expand pilots)
 
@@ -87,7 +87,7 @@ The Manager, GTM Planning and Operations is an [8](/handbook/total-rewards/compe
 #### Manager, GTM Planning and Operations Responsibilities
 
 * Be a key driver and architect of the annual Go-To-Market planning process for the CRO organization
-* Take a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
+* Play a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
 * Partner closely with Sales Leadership, Finance and Sales Operations to help design an efficient, effective and predictable GTM motion
 * Be a leader in the design and implementation of Go-To-Market experimentation (e.g. Land vs. Expand pilots)
 
