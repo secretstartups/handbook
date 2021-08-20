@@ -71,7 +71,7 @@ The Out of Office message will stay on the account for 90 days, aftewards ITOPs 
 IT Ops check if the team member has created any bots before disabling the account. Go to [Slack](https://gitlab.slack.com/apps/manage) or on your admin Slack profile click Menu >> Configure Apps >> Custom Integrations >> Bots and search through the bots' list for the team member.
 If a bot exists, please DM the manager to confirm if the bot should be removed.
 
-- Custom Emoji's
+- Custom Emojis
 
 There is currently a task listed in the offboarding template for the People Experience Associate handling the offboarding to search for and remove any custom emoji for the offboarded team member. Herewith the steps to complete:
 
