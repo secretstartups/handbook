@@ -41,7 +41,9 @@ Team members in a US policy will be automatically reimbursed through Expensify a
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Office Equipment and Supplies
 
-The company will reimburse for the following items if you **require it to work efficiently**, and local law allows us to pay for it without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting. 
+The company will reimburse for the following items if you **require them to work efficiently**, and local law allows us to pay for them without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting. 
+
+When you evaluate the value of additional efficiency, we encourage you to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own). This means weighing the cost of a dollar spent to the value that it brings to the business--just as you would assess a personal dollar that you spend against the relative benefit that it brings you.
 
 When reimbursing through Expensify please select "reimbursable" for the portion which GitLab will be covering, and add a note explaining the receipt difference.
 
@@ -163,7 +165,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 
 ##### Desktop monitors
 
-Each person's monitor set up is a personal preference based on your own productivity. In recent years, many team members have decided to change from dual monitors to a single ultrawide monitor. Based on the table above, you can expense up to two 16:9 monitors (up to $500 each reference price in the USA), or one ultrawide monitor (up to $1,000 reference price in the USA). 
+Each person's monitor set up is a personal preference based on your own productivity. In recent years, many team members have decided to change from dual monitors to a single ultrawide monitor. Based on the table above, you can expense up to two 16:9 monitors (the reference price is $500 in the USA), or one ultrawide monitor (the reference price is $1000 in the USA). 
 
 If you are an engineer or in a similar role, we encourage dual monitors or an ultrawide monitor. If you are not in an engineer(-like) role, you can make a choice based on your own personal preference and if it is required/helpful for your role and choose whether you want a single 16:9 monitor, dual 16:9 monitors, or a single ultrawide monitor.
 
