@@ -13,11 +13,11 @@ The Community Operations Manager reports to the [Director of Community Relations
 
 - **Support Community Programs.** Support the [GitLab for Education](/solutions/education/), [GitLab for Open Source](/solutions/open-source/), and [GitLab for Startups](/solutions/startups/) programs, as well as any new programs that are created, and the associated [community programs' application workflow](/handbook/marketing/community-relations/community-operations/community-program-applications/). This includes responding to all in-bound applications and requests from program members and the wider GitLab community.
 - **Implement, maintain, and troubleshoot.** Actively participate in the implementation of, and then lead the maintenance of the [Automated Community Programs workflows](/handbook/marketing/community-relations/community-operations/community-program-applications/automated-community-programs/). This includes improving and troubleshooting related processes and working cross-functionally with associated teams in Community Relations, Product, Fulfillment, Sales Operations, and Customer Support.
-- **Maintain tool stack.** Maintain the tool stack required for all Community Relations team operations. This includes, but is not limited to: Keyhole, Zendesk, Discourse, SheerID, Coupa, Allocadia, Disqus, and Google Analytics. See the [full tech stack](handbook/marketing/community-relations/community-operations/#community-operations-tool-stack) list here. 
+- **Maintain tool stack.** Maintain the tool stack required for all Community Relations team operations. This includes, but is not limited to: Keyhole, Zendesk, Discourse, SheerID, Coupa, Allocadia, Disqus, and Google Analytics. See the [full tech stack](/handbook/marketing/community-relations/community-operations/#community-operations-tool-stack) list here. 
 - **Maintain budget.** Establish quarterly budgeting processes. Maintain and lead a regular planning and reporting cadence for the Community Relations team.
 - **Improve efficiency.** Maximize the Community Relations team's efficiency, productivity, and performance.
 - **Measure effectiveness of community programs.** Partner with all Program Managers on the Community Relations team to measure and report the success and effectiveness of their programs. In doing so, you will also be working closely with the Marketing Operations, and Data and Analytics teams.
-- **Maintain Community website page content.** Be the [Directly Responsible Individual (DRI)](/handbook/people-group/directly-responsible-individuals/) for the [Community Relations team's webpages](https://about.gitlab.com/community/) on about.gitlab.com.
+- **Maintain Community website page content.** Ensure that we have up-to-date content on our [community website pages](/community/) and liaise with the web team to ensure the design and UX is consistent with the rest of the website.
 - **Monitor changes.** GitLab moves very quickly, an aspect of this role is keeping up with all the changes that occur in the product and offerings. This role will keep abreast of changes and make sure that the programs adapt.
 - **Use GitLab.** Use GitLab extensively to organize work and collaborate cross-functionally.
 
@@ -79,7 +79,6 @@ The Associate Community Operations Manager is a [grade 5](/handbook/total-reward
 All general responsibilities plus the following:
 
 - **Standardize communications for community programs.** As we evolve our community programs, we'll need to make sure that we update all of our outreach and support materials. You will lead this effort and suggest ways we can make our messaging more customer-friendly and effective.  
-- **Propose updates to web pages.** You will propose updates to the Community website pages and partner with others on the Community Relations team and Digital Experience team to make the updates. 
 - **Improve efficiency of tools.** Make sure we are using all of our current tools in the best way possible. Become the team's expert in using each tool and suggest improved ways to use them to help with program goals. 
  
 ##### Associate Community Operations Manager Requirements
@@ -140,5 +139,5 @@ Extends that of the Community Operations Manager (Intermediate) requirements wit
 
 ### Career Ladder
  
-The next step for the Community Operations Manager job family is not yet defined.
+The next step for the Community Operations Manager job family is not yet defined past Senior Community Operations Manager.
  
