@@ -3,7 +3,7 @@ layout: job_family_page
 title: "People Technology and Analytics"
 ---
 
-The People Technology & Analytics Job Family owns the technology and reporting solutions at Gitlab. Working in partnership with the People Leadership team, they play both a strategic and tactical role setting the direction for the technology and analytics strategy at Gitlab and operating with a “data-first” mindset.
+The People Technology & Analytics Job Family owns the technology and reporting solutions at GitLab. Working in partnership with the People Leadership team, they play both a strategic and tactical role setting the direction for the technology and analytics strategy at GitLab and operating with a “data-first” mindset.
 
 ### Levels
 
