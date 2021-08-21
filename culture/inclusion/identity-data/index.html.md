@@ -25,14 +25,14 @@ Data as of 2021-07-31
 |---------------------------------------------|-----------|-----------------|
 | Men                                         | 930       | 67.44%          |
 | Women                                       | 443       | 32.12%          |
-| Other Gender Identities                     | 6         | .44%            |
+| Other Gender Identities                     | 6         | 0.44%           |
 | **Total Team Members**                      | **1,379** | **100%**        |
 
 | **Gender in Management**                    | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
 | Men in Management                           | 118       | 59.60%          |
 | Women in Management                         | 79        | 39.90%          |
-| Other Gender Management                     | 1         | .51%            |
+| Other Gender Management                     | 1         | 0.51%           |
 | **Total Team Members**                      | **198**   | **100%**        |
 
 | **Gender in Leadership**                    | **Total** | **Percentages** |
@@ -46,7 +46,7 @@ Data as of 2021-07-31
 |---------------------------------------------|-----------|-----------------|
 | Men in Engineering                          | 450       | 80.07%          |
 | Women in Engineering                        | 111       | 19.75%          |
-| Other Gender Identities                     | 1         | .18             |
+| Other Gender Identities                     | 1         | 0.18%           |
 | **Total Team Members**                      | **562**   | **100%**        |
 
 ##### Race/Ethnicity Data
@@ -97,9 +97,9 @@ Data as of 2021-07-31
 
 | **Race/Ethnicity (Global)**                 | **Total** | **Percentages** |
 |---------------------------------------------|-----------|-----------------|
-| American Indian or Alaska Native            | 2         | 0.015%          |
+| American Indian or Alaska Native            | 2         | 0.15%           |
 | Asian                                       | 172       | 12.47%          |
-| Black or African American                   | 41        | 2.97            |
+| Black or African American                   | 41        | 2.97%           |
 | Hispanic or Latino                          | 85        | 6.16%           |
 | Native Hawaiian or Other Pacific Islander   | 3         | 0.22%           |
 | Two or More Races                           | 50        | 3.36%           |
