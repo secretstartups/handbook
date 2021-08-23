@@ -198,7 +198,7 @@ When on the call...
 _"Thanks for joining the call, [team member name].
 Unfortunately, the reason I wanted to speak with you is because we have decided that we have to let you go and end your employment / contract with GitLab because of xyz."_
 
-1. ***TMR***: As soon as the conversation begins, the TMR will ping the team members in the confidential `#offboardings` Slack channel with the name of the team member to immediately start the offboarding process.
+1. ***TMR***: As soon as the conversation begins, the TMR will complete the offboarding form which will post to `#offboardings` Slack channel with the name of the team member to immediately start the offboarding process.
 1. ***People Operations Specialist***:The assigned People Specialist send out the Offboarding Informational Email according to the appropriate template. Current templates include [USA](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_USA.md),[Canada](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_Canada.md) and[Other countries](https://gitlab.com/gitlab-com/people-group/General/-/blob/master/.gitlab/email_templates/Offboarding_Involuntary_Other_countries.md)
 1. ***Manager***: Hand the call over to the TMR to continue. 
 1. ***TMR***: The TMR will also make it clear that the decision is final, but also will genuinely listen to the team member's side of the story since there may be useful lessons in what they say for the rest of the team e.g. regarding hiring and vetting practices.
