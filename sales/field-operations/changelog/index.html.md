@@ -17,7 +17,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 ## Q3-FY22 
 
 ### 2021-08-30 Release ([Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
-Item 1 (title only) (issue link)
+**[GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
 
 Item 2 (issue link)
 
