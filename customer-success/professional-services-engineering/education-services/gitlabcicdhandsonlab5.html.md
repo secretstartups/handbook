@@ -37,13 +37,6 @@ job-a:
   script:
     - echo $LOCAL_SCOPE_VAR
     - echo $GLOBAL_SCOPE_VAR
-```yml
-variables:
-  my_scope_is_global
-
-job_a:
-  variables:
-    my_scope_is_local
 ```
 
 
