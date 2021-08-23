@@ -12,7 +12,7 @@ SpaceX has been one of the few private companies who have been able to break int
 * First reuse, reflight and landing of an orbital first stage.
 * Largest commercial satellite constellation operator in the world.
 
-While there are likely many reasons for their success, Elon Musk highlighted in [an interview with Tim Dodd](https://www.youtube.com/watch?v=t705r8ICkRw) their take on building new features and products. It is composed of five steps:
+While there are likely many reasons for their success, Elon Musk highlighted in [an interview with Tim Dodd](https://www.youtube.com/watch?v=t705r8ICkRw) their process for building new features and products. It is composed of five steps:
 
 1. Challenge and refine requirements
 1. Try to remove part/process
@@ -37,7 +37,7 @@ Everyone’s wrong, no matter who you are, everyone’s wrong some of the time. 
 For GitLab, one can translate this into two key actions:
 
 1. Ensure we have a strong understanding of the problem we want to solve
-1. Ensure there is a well-documented justification for the requirements in the epics and issues for the given change
+1. Ensure there is well-documented and compelling justifications for each requirement in the epics and issues for the given change
 
 These two actions help to ensure our requirements are "less dumb" and it is clear to all why a given requirement is in place.
 
@@ -57,7 +57,7 @@ This is indeed important, especially as a company and a product scale and grow o
 
 From a process standpoint, decision velocity can be slowed as well as overall time to market. From a product standpoint, the UX, code, and feature set can become so complex that it is difficult to learn, maintain, and use.
 
-As you are building new features or introducing new code/processes, ask whether this is really needed, as well as whether by virtue of this addition deprecate existing features/processes.
+As you are building new features or introducing new code/processes, ask whether this is really needed, as well as whether by virtue of this addition could we deprecate existing features/code/processes.
 
 ### Simplify and optimize
 
@@ -68,7 +68,7 @@ Then only in the third step is “Simplify or optimize”. The third step, not t
 For GitLab and software companies, one can translate this into a few recommended actions:
 
 1. Challenge yourself on whether a given setting or feature is required. Is there a possibility to utilize [convention over configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)? Each setting/feature generates an on-going maintenance cost, as well as cognitive load on users. 
-1. If you believe a feature is needed, ask yourself if there is a more general purpose way of solving this. Is there a small building block feature which could enable users to solve this problem, but also unlock the possibility to solve others? Could another feature be re-used or extended? An example of this is GitLab CI, where we provide a set of building blocks which users can assemble in many ways, as well as incident management which re-uses issues.
+1. If you believe a feature is needed, ask yourself if there is a more general purpose way of solving this. Is there a small building block feature which could enable users to solve this problem, but also unlock the possibility to solve others? Could another feature be re-used or extended? An example of this is GitLab CI, where we provide a set of building blocks which users can assemble in many ways to solve a wide variety of problems, as well as incident management which re-uses issues.
 
 [Convention over Configuration](https://about.gitlab.com/handbook/product/product-principles/#convention-over-configuration)
 
