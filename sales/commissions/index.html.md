@@ -29,7 +29,8 @@ Exciting news for FY22! We have migrated our existing commission system to Xactl
 
 #### How to Navigate your Incentive Statement
 
-- [Video Tutorial on YouTube Unfiltered](https://youtu.be/CN_csFiDlAM)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://youtu.be/CN_csFiDlAM" height="315" width="560"></iframe></figure>
 
 ## **How to Communicate with Us**
 
