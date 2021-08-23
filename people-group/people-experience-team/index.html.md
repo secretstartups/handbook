@@ -190,6 +190,25 @@ Every week on Tuesday, the People Experience Associate in the rotation will send
 1. Select `employee` 
 1. Send Invite
 
+### Monthly Reporting
+
+#### Retaining & Purging Form I-9
+
+Per the [USCIS (United States Citizenship and Immigration Service](https://www.uscis.gov/i-9-central/complete-correct-form-i-9/retention-and-storage), form I-9, which is completed for all US-based team members, must be retained and purged according to the USCIS retention policies.
+
+**Form I-9 must be retained as long as a team member is Active. If a US-based team member is Inactive, Form I-9 must be purged 3 years after a team member's start date _or_ 1 year after their departure date, whichever is later.**
+
+Example 1: Team member Marie Curie's start date was 2017-01-01 and she departed the company on 2021-06-01. Her Form I-9 must be purged after 2022-06-01.
+
+Example 2: Team member Matt Gandhi's start date was 2019-06-01 but he departed on 2019-12-15. His Form I-9 must be purged after 2022-06-01.
+
+1. The People Experience team must run a monthly report in BambooHR to show all Inactive US-based team members and compare it to Guardian's Inactive team member report. 
+1. The People Experience team confirm the correct purging dates in the Guarding report using the above formula to calculate how long Form I-9 must be kept for the relevant team members and then purge them after the calculated time period. 
+1. When a team member has passed a purging date, the People Experience team must:
+
+    - Confirm with Guardian that the team member I-9 records have been deleted.
+    - Review the team member's Verification folder in BambooHR to ensure that no form I-9 copies are present. Delete form I-9 if found. Receipt and confirmation of work eligibility do not need to be deleted.
+
 ### Letters of Employment and Employee Verification Requests
 
 This lists the steps for the People Experience team to follow when receiving requests:
