@@ -425,7 +425,7 @@ The People Operations Specialist team own the US Unemployment Claim process. Ash
 When unemployment claims are received, usually by [company mail](/handbook/eba/#company-mail), they will be sent and reviewed by the GitLab US Unemployment Claim Designate. The designate will:
 
 - Review all claims and protest when appropriate to help minimize increases to GitLab's
-unemployment rate.
+unemployment rate, according to the [People Ops internal handbook](https://gl-people-operations.gitlab.io/internal-handbook/) process.
 - Audit quarterly unemployment reports to ensure that claims are valid and that charges are contested, when appropriate.
 
 ### Reporting a False Unemployment Claim
