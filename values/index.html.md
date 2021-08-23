@@ -929,6 +929,7 @@ Iteration is so important to GitLab that the CEO hosts [Iteration Office Hours](
 You can view these on our [GitLab Unfiltered YouTube channel](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/search?query=%22Iteration+Office+Hours%22).
 
 #### Examples of iteration in other companies
+{:.no_toc}
 
 Iteration is a key vlaue in many disruptive and successful organizations. Below are some examples:
 
