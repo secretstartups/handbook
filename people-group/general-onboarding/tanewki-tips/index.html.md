@@ -90,7 +90,7 @@ A: Absolutely! We recommend reviewing our [expenses](https://about.gitlab.com/ha
 
 A: Yes. You can absolutely use a personal laptop until your GitLab one arrives. You'll want to hold off on doing any of the hardware Security practices found in your onboarding issue until you have your GitLab laptop though. 
 
-**Q: I purposed my own laptop for work. How do I go about expensing it?**
+**Q: I purchased my own laptop for work. How do I go about expensing it?**
 
 A: You will get access to Expensify during your first week and you'll want to submit your receipts for reimbursemnt through the program. 
 
