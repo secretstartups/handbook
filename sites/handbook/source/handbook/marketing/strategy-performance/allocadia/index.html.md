@@ -240,6 +240,19 @@ The reports are broken out in folder format and once you click into the folders,
     1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
     1. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the
 
+##### Back end names of useful fields 
+We do have a few fields within Allocadia which have a different name on the front end (i.e. what you see on the screen) vs. what is used in reporting, for various, perhaps unknown reasons. Fields are as follows: 
+
+| Front end field name  | Field name used for reporting                 |
+|-----------------------|-----------------------------------------------|
+| Start Date            | Date (Line Item Start Date)                   |
+| End Date              | Date (Line Item End Date)                     |
+| MQL                   | Estimated Outcome (First Funnel Level Total)  |
+| SAO                   | Estimated Outcome (Middle Funnel Level Total) |
+| Closed Won            | Estimated Outcome (Last Funnel Level Total)   |
+|              | |
+|              | |
+
 ## Integrations (behind the scenes)
 
 ### GitLab Procurement issues
