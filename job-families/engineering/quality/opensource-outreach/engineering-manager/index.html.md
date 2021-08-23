@@ -51,18 +51,18 @@ The Open Source Outreach Engineering Manager  is a [grade 8](/handbook/total-rew
 * Manage a team of Community Outreach Engineers
 * Author team quarterly OKRs and drive them to completion
 * Review contribution efficiency proposals, delegate and drive them to completion
-* Review Engineering Open-source Outreach project plans, delegate and drive them to completion
+* Review Engineering Open Source Outreach project plans, delegate and drive them to completion
 * Review recommendations from team members and priorize most impactful improvements for the community
 * Own the formation process of community contributor cohorts, a teams of community contributors
 * Create orientation process and materials for newly formed community contributor cohorts
-* Drive iterative improvements to Open-source Outreach team's key and regular performance indicators
+* Drive iterative improvements to Open Source Outreach team's key and regular performance indicators
 * Continuously monitor community efficiency metrics and performance indicators
 * Provide guidance to community contributors on technical and non-technical aspects
 * Track pipeline efficiency improvements and drive them to completion
 * Review nominations and assign awards to community contributors, cohorts and contribution
 * Be a permanent member of GitLab MR Coaches
-* Own Project Management of Open-source Outreach team stand-up and agile processes
-* Represent GitLab in open-source outreach events and processes
+* Own Project Management of Open Source Outreach team stand-up and agile processes
+* Represent GitLab in Open Source outreach events and processes
 
 
 ### Performance Indicators
