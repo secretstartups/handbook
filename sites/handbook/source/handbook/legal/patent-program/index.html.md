@@ -16,8 +16,11 @@ description: "Learn about GitLab's Patent Program"
 
 Innovation is key to GitLab’s success. The GitLab Patent Program seeks to maximize the competitive and commercial value of GitLab’s intellectual property rights and capitalize on the time and effort invested by team members in developing patentable inventions. The Program establishes a process to systematically identify valuable inventions, assess their patentability and, where appropriate, enable successful prosecution and registration of a patent covering the invention.
 
-### GitLab Patents
-GitLab owns several patents. Disclaimer: [This list](https://patents.google.com/?assignee=gitlab) is not exact. 
+## GitLab patents
+GitLab holds the following registered patents:
+- US patent [9,910,766](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _whitebox network fuzzing_
+- US patents [9,767,005](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=2&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) and [9,098,352](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9098352.PN.&OS=PN/9098352&RS=PN/9098352), Chinese patent [104346277A](http://ensearch.cnipr.com.cn/sipo_EN/search/detail.do?method=view&parm=16b414c21a2f19d11b2c18401bcd1a5f183a19461ad91be11a601c4c07792e231f4c21ba22572195236c20482755275723ca24be2221222525702494250d26c0274025822c3f29092a7c29a02d6d2d6f28fa2ed62bd12c892f482c34330947932f5c2c0a2ac731b9333c316c366534e7318235ee337934f1360837f03747371b371a34e231bf38f13b04390c3e0d3f6f39ea3dc63c573d6d3e683e4c26d918c33ffe3c523c273e354334405c47c545774302408e4423458947b84688462d46a946c846aa436f47554bcc49784a2d), and pending European patent application [14175419.2](https://register.epo.org/espacenet/regviewer?AP=14175419&CY=EP&LG=en&DB=REG) covering _metaphor based language fuzzing of computer code_
+- US patent [9,323,597](https://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=3&f=G&l=50&co1=AND&d=PTXT&s1=%22peach+fuzzer%22.ASNM.&OS=AN/%22peach+fuzzer%22&RS=AN/%22peach+fuzzer%22) covering _flow based fault testing_
 
 ## Why patents?
 
