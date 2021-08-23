@@ -39,7 +39,7 @@ Managing and identifying underperformance can be one of the most difficult respo
 
 ### Managing Performance at GitLab
 
-GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations/team-member-relations-philosophy/) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
+GitLab strives to treat all team members with dignity and respect at all times. You can review GitLab's [Team Member Relation Philosophy](/handbook/people-group/team-member-relations#team-member-relations-philosophy) which outlines how we treat all team members and provides guidelines for how we address issues within GitLab.  The kindest thing we can do for our team members is to address any issue early, and to provide a supportive environment where they can work on the issues and improve their performance.  
 
 Managing a team member who is underperforming is one of the more challenging aspects of the manager role.  Though challenging it is expected that all leaders manage performance timely and provide team members with clear feedback and guidance.  There are many reasons why a leader may not actively manage an underperforming team member.  Below are a few reasons why managers sometimes avoid the difficult performance conversations:  
 
@@ -173,7 +173,7 @@ Please know that I am fully committed to working with you in addressing these is
 Thanks,
 (Manager name)
 
-Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format/). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Tempate](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
+Underperformance feedback should be the first item on your [1-1 agenda](/handbook/leadership/1-1/suggested-agenda-format/). If it is helpful, managers can use the [Managing Underperformance Meeting Plan Template](https://docs.google.com/document/d/1dNFrGWS9NNUNrIo8ts9RwXObVB9nTgHaXr-_y2A0ipU/edit#) to facilitate the discussion with clear actionable steps on how to talk through feedback. 
 
 Helping GitLab team members understand clearly how their performance is below the standard expected quickly is very important to foster immediate improvement and continued success. It is also important to clarify when feedback given can provide helpful coaching vs. when to address a skill/will based performance issue. It is not always clear how serious the feedback being provided is and setting the context can be critical.
 
