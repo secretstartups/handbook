@@ -25,18 +25,17 @@ Exciting news for FY22! We have migrated our existing commission system to Xactl
 - Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll.
 - Visibility into payout estimates on open opportunities with Incentive Estimator feature.
 - Incentive statements on a single layout instead of having to open individual monthly statements.
-- Manager access to their team's individual statements.
+- Manager access to their team's incentive statements.
 
-![Xactly1](/handbook/sales/commissions/picturea.png)
+#### How to Navigate your Incentive Statement
 
-![Xactly2](/handbook/sales/commissions/pictureb.png)
+- [Video Tutorial on YouTube Unfiltered](https://youtu.be/CN_csFiDlAM)
 
 ## **How to Communicate with Us**
 
-There are two ways to connect with us.
-
 - Via email sales-comp@gitlab.com
-- Via the Chatter feature in Salesforce
+- Via the Chatter feature in Salesforce (tag individuals, not Sales Comp)
+- Submit an Inquiry within Xactly Incent
 
 ## **Quick Reference Guide**
 
