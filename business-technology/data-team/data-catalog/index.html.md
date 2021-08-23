@@ -17,6 +17,11 @@ description: "The Data Catalog page indexes Analytics Dashboards, Workflows, and
 
 The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Key Terms. Please feel free to contribute to add additional links and resources.
 
+## Sisense Dashboards
+
+Sisense is our enterprise standard BI tool and is used across the company for data visualization, reporting, and analysis. 
+
+
 ### Marketing
 
 * [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
