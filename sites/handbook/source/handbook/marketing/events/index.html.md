@@ -723,7 +723,7 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
 - Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
