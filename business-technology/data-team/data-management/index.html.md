@@ -77,3 +77,29 @@ Additional controls include:
 * **Data Infrastructure**: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
 * **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
+
+### Quarterly Data Health and Security Audit
+
+Quarterly audit is performed to validate security like right people with right access in environments (Example: Sisense, Snowflake.etc) and data feeds that are running are healthy (Example: Salesforce, GitLab.com, Zuora..etc).
+
+The process is supported by a issue [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+ 
+Below checklist of activities would be run once at the end of every quarter to validate security and system health.
+ 
+#### Snowflake
+ 
+- Validate terminated employees have been removed from Snowflake access.
+- Deactivate any account that has not logged-in within the past 60 days from the moment of performing an audit from Snowflake.
+- Validate all user accounts require multi-factor authentication.
+ 
+#### Sisense
+ 
+- Validate terminated employees have been removed from Sisense access.
+- Deactivate any account that has not logged-in within the past 60 days from the moment of performing an audit from Sisense.
+- Validate all user accounts require multi-factor authentication.
+ 
+#### Trusted Data
+ 
+- Review all Golden Record TD tests and make sure they're passing.
+- Review Data Siren to confirm known existence of RED data.
+- Generate a report of all changes to the TD: Sales Funnel dashboard in the quarter.
