@@ -94,6 +94,6 @@ Besides creating the deck, there are a few other items to consider to ensure you
 
 #### EBR Examples
 
-To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1FfHBVMsY2a3cteylz7Alq-K43OmBPLylBoVdIccsO8g/edit?usp=sharing).  Please note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider removing elements such as product and support insights depending on most relevant content and time allotted.
+To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1aAhseDh-uUwiOZ7D21hR1ROgAfPmU3fEFZkfT9tbmIQ/edit?usp=sharing).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
