@@ -202,6 +202,36 @@ The Senior Manager, Recruiting is a [grade 9](/handbook/total-rewards/compensati
 * Successful track record of partnering with senior leaders to create and deliver hiring strategies with a high level of attainment to plan
 * Proven ability to effectively influence and communicate cross-functionally to drive results
 
+####  Director
+
+##### Job Grade
+
+The Director, Recruiting is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+##### Responsibilities
+
+* Lead a recruiting team that could include Sr. Managers, Managers, Leads, or Recruiters.
+* Own the recruiting processes across the organization with input from stakeholders to ensure consistency and optimization across all departments.
+* Anticipate recruitment team needs to support the business
+* Mentor, guide, and grow the careers of all team members
+* Assess and predict workloads for the team and effectively load balance to ensure recruiters are able to work efficiently, strategically and bring speed to the business
+* Help to create and implement hiring strategies to achieve an annual hiring plan that emphasizes quality and diversity of hires, process efficiency, strong client management and encourages the sharing of best practices
+* Provide strategic input on the direction of the recruiting team to the Senior Director
+* Collaborate closely with partners such as People Business Partners and Finance to ensure alignment and communication
+
+##### Requirements
+
+* Consistent track record with sourcing, recruiting, and closing extraordinary talent (especially passive)
+* Demonstrated success leading recruiting for a function at large scale in a fast-paced environment
+* Experience executing on hiring plans and recruiting strategy
+* Proven organizational skills with high attention to detail and the ability to prioritize
+* Confidence to learn new technologies (MAC, Google Workspace, GitLab) and translate that learning to others
+* Experience building and defining recruiting pipeline metrics and data
+* Experience and proficiency with Applicant Tracking Systems and other recruiting software (ideally including Greenhouse and LinkedIn Recruiter)
+* Solid analytical skills and ability to work with metrics, numbers, and trends
+* Successful track record of partnering with senior leaders to create and deliver hiring strategies with a high level of attainment to plan
+* Proven ability to effectively influence and communicate cross-functionally to drive results
+
 ## Performance Indicators
 
 * [Hire vs Plan](https://about.gitlab.com/handbook/hiring/metrics/#hires-vs-plan)
