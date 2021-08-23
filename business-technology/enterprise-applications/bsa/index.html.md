@@ -133,7 +133,7 @@ EntApps owns developing a deployment plan and collaborating with other implement
 - EntApps Roadmap Update
 
 ### Rolly
-[Rolly](handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
+[Rolly](/handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
 
 ### Labels
 Labels help us organize and tag our work so we can track and find the work items we’re interested in.
