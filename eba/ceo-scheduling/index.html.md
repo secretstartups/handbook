@@ -20,14 +20,12 @@ title: "CEO Scheduling & Preferences"
     1. Triage #ceo slack channel
     1. Assists CoS with company-wide OKRs as required
     1. Coordinates the quarterly E-Group offsite and other social/team bonding events for the Executive team 
-1. **[Katie Gammon](https://about.gitlab.com/company/team/#kgammon) - Executive Business Adminstrator** 
-   1. Schedules internal and external meetings with CEO (exception is Board Meetings)
-   1. Triage meeting requests in #eba-team, engage the Staff EBA to the CEO as necessary 
-   1. Triage the CEO’s inbox and assign messages to the Staff EBA or the CoS to draft and follow up on. 
-   1. Expense Reports for the CEO 
-   1. Total travel coordination for the CEO
-   1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
-   1. Ad-hoc requests from the Staff EBA + CEO  
+    1. Schedules internal and external meetings with CEO
+    1. Triage meeting requests in #eba-team 
+    1. Expense Reports for the CEO 
+    1. Total travel coordination for the CEO
+    1. Live-streaming meetings on behalf of the CEO. For instance: CEO General Group Conversation, CEO 101, CEO AMA, Iteration Office Hours, Pick Your Brain live-streams
+    1. Ad-hoc requests from the CEO  
 1. **[Jacqueline Hogue](https://about.gitlab.com/company/team/#jhogue) - Sr. Corporate Communications Manager, Executive Communications** 
    1. Vetting, preparing content, briefing and supporting the CEO for external speaking enagements 
 
