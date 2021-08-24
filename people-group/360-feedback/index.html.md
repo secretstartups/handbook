@@ -93,8 +93,8 @@ The options shown are:
 - Other. 
 
 ### Resources for Coaches 
-1. (360 survey overview for coaches)[https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s]
-1. (Coach's guide to taking action on Effectiveness 360 surveys)[https://support.cultureamp.com/hc/en-us/articles/208687485-Coach-s-guide-to-taking-action-on-Effectiveness-360-surveys]
+1. [360 survey overview for coaches](https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s)
+1. [Coach's guide to taking action on Effectiveness 360 surveys](https://support.cultureamp.com/hc/en-us/articles/208687485-Coach-s-guide-to-taking-action-on-Effectiveness-360-surveys)
 
 ### Reviewer Nomination Process 
 In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member. 
