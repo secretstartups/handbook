@@ -48,7 +48,7 @@ Please adhere to the [Community Code of Conduct](https://about.gitlab.com/commun
 ### What you should do
 <details>
   <summary markdown='span'>
-   Do disclose that you're a team member
+    Do disclose that you're a team member
   </summary>
 If you talk about work-related matters within your job responsibility area, you must disclose your affiliation with GitLab. If you have a vested interest in something you're posting on social, point it out. You can identify yourself as a team member in your profile bio, list GitLab as your employer, or mention that you're a team member in the post itself. Consider adding #LifeAtGitLab to the end of your social post to sum it up quickly and easily.
 </details>
@@ -79,6 +79,13 @@ Don't misrepresent yourself. If you're not a director in your role, don't say yo
     Do try to live our values
   </summary>
 Easier said than done, but consider our values when engaging online. The same space and respect we grant each other is needed with strangers on social media.
+</details>
+
+<details>
+  <summary markdown='span'>
+    Do share GitLab content that is already published
+  </summary>
+If it's written in a blog, a case study, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain or in the company social media advocacy tool can and should be shared freely. 
 </details>
 
 ### It's your job to protect GitLab, our customers, and our team members 
