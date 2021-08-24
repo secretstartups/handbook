@@ -80,30 +80,27 @@ Additional controls include:
 
 ### Quarterly Data Health and Security Audit
 
-Quarterly audit is performed to validate security like right people with right access in environments (Example: Sisense, Snowflake.etc) and data feeds that are running are healthy (Example: Salesforce, GitLab.com, Zuora..etc).
+A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
 
-The process is supported by an issue [template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
  
-Below the checklist of the current activities would be run once by the end of every quarter to validate security and system health. New activities will be added when becoming applicable. 
+Here is a sample checklist of activities:
  
-#### Snowflake
+* [ ] Snowflake
+     - Deactivate off-boarded employees from Snowflake
+     - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
+     - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     - Validate all user accounts require multi-factor authentication.
+
+* [ ] Sisense
+     - Deactivate off-boarded employees from Sisense.
+     - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Sisense.
+     - Any Sisense account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     -  Validate all user accounts require multi-factor authentication.
  
-- Deactivate off-boarded employees from Snowflake.
-    - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
-- Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
-    - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
-- Validate all user accounts require multi-factor authentication.
- 
-#### Sisense
- 
-- Deactivate off-boarded employees from Sisense.
-    - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
-- Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Sisense.
-   - Any Sisense account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
-- Validate all user accounts require multi-factor authentication.
- 
-#### Trusted Data
- 
-- Review all Golden Record TD tests and make sure they're passing.
-- Review Data Siren to confirm known existence of RED data.
-- Generate a report of all changes to the TD: Sales Funnel dashboard in the quarter.
+* [ ] Trusted Data
+     - Review all Golden Record TD tests and make sure they're passing.
+     - Review Data Siren to confirm known existence of RED data.
+     - Generate a report of all changes to the TD: Sales Funnel dashboard in the quarter.
