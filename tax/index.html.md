@@ -9,7 +9,7 @@ description: "The tax department is responsible for GitLab’s overall tax strat
 
 - TOC
 {:toc .hidden-md .hidden-lg}
- 
+
 # Keep calm and love taxes!
 
 # Contacting the Tax Team
@@ -18,12 +18,12 @@ The tax department is responsible for GitLab’s overall tax strategy including 
 
 # Organisation
 
-The Tax Department is part of the Finance team and headed by the Director of Tax.  The Director of Tax reports to the Chief Financial Officer. For more information please check GitLab’s [Org Chart](/company/team/org-chart/). The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
+The Tax Department is part of the Finance team and headed by the Director of Tax. The Director of Tax reports to the Chief Financial Officer. The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
 
 | RADCIE Model  | Director of Tax | Controller | Everyone |
 |-------------| :----------------:|:----------:| :-------:|
 | Tax Planning | A / R            |            |  C / I   |
-| Tax Returns | A / R             |            |  C / I   |        
+| Tax Returns | A / R             |            |  C / I   |
 | Tax Risk Management| A / R      |            |  C / I   |
 | Tax Reporting | A / R           |            |  C / I   |
 | Tax Accounting | A / R          |            |  C / I   |
@@ -62,7 +62,7 @@ As described in the responsibility section, the Tax Department supports the Fina
 
 ## Tax Procedure for Maintenance of GitLab's Corporate Structure
 
-Maintenance of Corporate Structure covers the following procedure 
+Maintenance of Corporate Structure covers the following procedure
 
 1. Management decides to change the corporate structure (e.g. for purpose of setting up an entity, merger, acquisition, other);
 1. Director of Tax reviews possibilities and confirms with external consultant;
@@ -94,7 +94,7 @@ GitLab Inc (USA 2014-09-10)
   ```
 ## Establishment of a NewCo
 
-What are the prerequisites for a decision to establish a NewCo in a country where GitLab does not have a corporate footprint yet? It basically comes down to a combination of two factors: 
+What are the prerequisites for a decision to establish a NewCo in a country where GitLab does not have a corporate footprint yet? It basically comes down to a combination of two factors:
 
 **Local presence** is a result of organic and exponential growth of the [GitLab team](/company/team/). At a given point in time the workforce in a country has grown to a substantial level where the demand for an entity is getting too large to ignore.
 
@@ -130,7 +130,7 @@ The corporate secretary for each subsidiary board shall ensure that there are se
 2. The subsidiary’s corporate secretary reaches out before the meeting to collect questions from the board members and prepares and shares the agenda.
 3. The subsidiary’s corporate secretary sends notice to the board within the timeframe required per each subsidiary’s governance documents.
 4. Presentations for the subsidiary board meeting should be ready 10 days prior to the meeting.
-5. Once approved, the subsidiary’s corporate secretary distributes the subsidiary board materials 3 days before the meeting to the applicable board members for the subsidiary. All presentations and content should be finalized at this time with no further changes. 
+5. Once approved, the subsidiary’s corporate secretary distributes the subsidiary board materials 3 days before the meeting to the applicable board members for the subsidiary. All presentations and content should be finalized at this time with no further changes.
 6. The subsidiary’s corporate secretary is responsible for linking all materials in the agendas for each session of the board meeting. Materials should always be linked in the agenda and shared with the appropriate attendees.
 7. The day before the meeting, the subsidiary’s corporate secretary ensures that the “introduction” section of the agenda is up to date with the latest attendees. The Director of Tax also ensures that the agenda document is locked to further questions 24 hours before the meeting is set to begin. Questions can still be raised verbally during the meeting.
 8. The subsidiary’s corporate secretary is responsible for ensuring that the Board meeting runs according to the time allotted.
@@ -139,7 +139,7 @@ The corporate secretary for each subsidiary board shall ensure that there are se
 
 **Agenda**
 
-1. Prior to distributing the Board deck, the subsidiary’s corporate secretary groups questions together in the agenda by function. Questions can be added to the agenda up to 24 hours before the meeting starts. After this point, the agenda will be locked. 
+1. Prior to distributing the Board deck, the subsidiary’s corporate secretary groups questions together in the agenda by function. Questions can be added to the agenda up to 24 hours before the meeting starts. After this point, the agenda will be locked.
 2. Board materials are presented during subsidiary board meetings. This includes:
     *   The Board deck (excluding the appendix or any pre-read slides) and highlighting the items requiring the subsidiary board approval, if any. Five to eight minutes will be allocated for this.
 3. Questions can be asked throughout presentations, but 30 minutes at the end will be allocated just for discussion.
@@ -205,7 +205,7 @@ This process is currently being reviewed.
 GitLab's entities are subject to statutory reporting requirements of indirect tax in their home countries (i.e. GST and VAT).
 
 ### USA Territory
-In the USA the filing of Sales & Use Tax returns is managed via [Avalara](https://www.avalara.com/us/en/index.html) software. Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). State returns are automatically filed by Avalara. Quarterly analysis is performed to check taxable nexus in each state (e.g. depending on ths state, nexus arises economically by volume of transactions, or physically by employees being resident of that state or sales representatives traveling through that state). 
+In the USA the filing of Sales & Use Tax returns is managed via [Avalara](https://www.avalara.com/us/en/index.html) software. Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). State returns are automatically filed by Avalara. Quarterly analysis is performed to check taxable nexus in each state (e.g. depending on ths state, nexus arises economically by volume of transactions, or physically by employees being resident of that state or sales representatives traveling through that state).
 
 ### Canada Territory
 GitLab Inc. is registered as non-resident for GST/HST, PST, and QST purposes. As such Avalara AvaTax automatically calculates sales and use tax for transactions, invoices, and other activities registered on [Zuora](https://www.zuora.com/). Customers that have provided their TQ number to GitLab should not be charged with QST. QST returns are filed quarterly. See below section for a process description.
@@ -306,7 +306,7 @@ When the application is approved, the R&D tax credit can be deducted from the wa
 * Confirm in the issue, by Avalara due date, that tax collection has started.
 2. Share the issue in the #tax, #finance and #sales-support Slack channels.
 
-## Tax Procedure for Making US Corporate Tax Payments 
+## Tax Procedure for Making US Corporate Tax Payments
 Open an inssue in the tax team [CIT Estimates/Prepayments] (https://gitlab.com/groups/gitlab-com/-/epics/1268) epic, with the below information:
 * Tax preparer uploads calculation for quarterly/annual/other corporate tax payments for Tax Director's review and approval
 * After approval, tax preparer will initation US corporate tax payments, print payment confirmations and send to A/P team for backup
@@ -321,7 +321,7 @@ Fees under this Agreement are exclusive of any and all taxes or duties, now or h
 
 ## Indirect Taxes Management
 
-The payment for the use of GitLab's software can be subject to any indirect taxes, taking into consideration the local indirect tax requirements. Please be aware that GiLab might charge any related indirect taxes, without prior notice, as a consequence of a required tax registration obligation for GitLab. Based on the local regulations, output indirect taxes charged by GitLab are generally claimable as input tax on the customer’s indirect tax return. 
+The payment for the use of GitLab's software can be subject to any indirect taxes, taking into consideration the local indirect tax requirements. Please be aware that GiLab might charge any related indirect taxes, without prior notice, as a consequence of a required tax registration obligation for GitLab. Based on the local regulations, output indirect taxes charged by GitLab are generally claimable as input tax on the customer’s indirect tax return.
 
 Please be aware Gitlab is currently collecting indirect taxes in the following locations:
 
@@ -337,12 +337,8 @@ As non-resident:
 * Russian Federation
 * Canada (from July 2021) + applicable provinces
 
-Please be aware the calculation of all indirect taxes is done by our tax engine, Avalara (Avatax). 
+Please be aware the calculation of all indirect taxes is done by our tax engine, Avalara (Avatax).
 Indirect taxes are calculated based on the "Sold-To" location provided by the customer during the sales process. Any adjustments to the indirect taxes amounts are done on a invoice/credit-memo generation basis, therefore, only a credit and rebill from an originating transaction will create adjustments to indirect taxes (via the Avalara platform).
 
 Paragraph 6.7 of GitLab's [terms](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees) and conditions prescribe that the customer will pay any required taxes itself and will not reduce the amount paid to GitLab on account thereof.
 Fees under this Agreement are exclusive of any and all taxes or duties, now or hereafter imposed by any governmental authority, including, but not limited to any national, state or provincial tax, sales tax, value-added tax, property and similar taxes, if any. Fees under this Agreement shall be paid without any withholding or deduction. In the case of any deduction or withholding requirements, Customer will pay any required withholding itself and will not reduce the amount to be paid to GitLab on account thereof.
-
-
-
-
