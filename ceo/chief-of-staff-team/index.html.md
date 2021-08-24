@@ -44,7 +44,7 @@ The CoST works closely with the [CEO](/job-families/chief-executive-officer/), t
 
 #### Many Functional
 
-GitLab is a [functional organization](/handbook/leadership/#no-matrix-organization), which means the [people are organized by function](/company/team/org-chart/).
+GitLab is a [functional organization](/handbook/leadership/#no-matrix-organization), which means the people are organized by function.
 Usually, when a project arises between two Departments, they can work something out on their own.
 When a project arises between three or more Departments, the Chief of Staff will be the point person to execute.
 In many cases, the Chief of Staff will be the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/).
@@ -150,7 +150,7 @@ The Group Conversations are stored in the "CEO Evangelism" folder on Google Driv
 * Update with timely announcements, e.g. E-Group Offsite updates, anything shared in Company FYI recently, any great wins.
 * If there aren't any timely announcements, take this opportunity to remind folks about some of the key features of our [Communication](/handbook/communication/) guidelines, including our Top Misused Terms, MECEFU, or Why we track public Slack messages.
 * Review the [recent CEO Shadow MRs](https://gitlab.com/dashboard/merge_requests?scope=all&utf8=✓&state=all&label_name[]=ceo-shadow) and the CoS agenda for anything that could be added to the "Top of Mind" section.
-* Ping the two current and two former [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/)in #ceo-shadow with the deck and request that they each add 1 slide based on their observations, topics that stood out or would be good to highlight at the company level from their shadow rotation.  
+* Ping the two current and two former [CEO Shadows](https://about.gitlab.com/handbook/ceo/shadow/)in #ceo-shadow with the deck and request that they each add 1 slide based on their observations, topics that stood out or would be good to highlight at the company level from their shadow rotation.
 
 Be sure that slides are prepared with enough notice for the CEO to record a video and for it to be shared at least 24 hours in advance of the Group Conversation.
 
@@ -165,16 +165,16 @@ Here is feedback on the last [offsite all-directs meeting](https://gitlab.com/gi
 
 ## CEO Performance Evaluation
 
-In Q1 of a new fiscal year, the Chairperson of the Compensation Committee conducts the annual CEO Evaluation. The Chairperson meets with all members of GitLab's Board and E-Group for their feedback on the CEO's performance over the past Fiscal Year. The Chairperson meets with the CEO for their self-assessment at the beginning of the evaluation cycle. 
+In Q1 of a new fiscal year, the Chairperson of the Compensation Committee conducts the annual CEO Evaluation. The Chairperson meets with all members of GitLab's Board and E-Group for their feedback on the CEO's performance over the past Fiscal Year. The Chairperson meets with the CEO for their self-assessment at the beginning of the evaluation cycle.
 
 The CEO's self assessment is centered on three main areas
-1. Areas of Notable Success 
-1. Areas of Disappointment 
-1. Areas for Improvement and Focus in the next fiscal year 
+1. Areas of Notable Success
+1. Areas of Disappointment
+1. Areas for Improvement and Focus in the next fiscal year
 
-The Staff EBA to the CEO assists the Chairperson to schedule the performance review meetings with each Board Member (50 minutes, 1:1) and E-Group member (25 minutes, 1:1). These are conducted in an interview format to capture the richest possible feedback regarding the CEO's performance. During these calls, Board Members can expect to share their perspectives on the CEO's major accomplishments and disappointments in areas such as: vision, strategy, operations, management team development, company culture and relationship with the Board. General areas of strength. Areas for improvement and/or additional focus. Key fiscal year strategic/operational, non financial goals. 
+The Staff EBA to the CEO assists the Chairperson to schedule the performance review meetings with each Board Member (50 minutes, 1:1) and E-Group member (25 minutes, 1:1). These are conducted in an interview format to capture the richest possible feedback regarding the CEO's performance. During these calls, Board Members can expect to share their perspectives on the CEO's major accomplishments and disappointments in areas such as: vision, strategy, operations, management team development, company culture and relationship with the Board. General areas of strength. Areas for improvement and/or additional focus. Key fiscal year strategic/operational, non financial goals.
 
-The results from the Board and E-Group team interviews are summarized (without attribution) by the Chairperson and shared for discussion at the March Board of Directors meeting. 
+The results from the Board and E-Group team interviews are summarized (without attribution) by the Chairperson and shared for discussion at the March Board of Directors meeting.
 
 The CoS is responsible for a mid-year and an end of year update to the Board on the progress made across focus areas. This will come in the form of a progress scorecard.
 For example, if one area of focus is "set 3-year strategy", the CoS will evaluate whether the activity is on track or needs attention. The scorecard will be updated with a progress score (on track, needs attention, or at risk) and a high level summary of relevant key activities.
@@ -195,7 +195,7 @@ There is an issue to also [add DRIs and review the mitigations](https://gitlab.c
 This is not the SSOT for these dates and is meant only for informational/organizational purposes.
 
 **Informal Board Meetings**
-* Monthly on the 3rd Friday except in months where a formal BOD Meeting is scheduled 
+* Monthly on the 3rd Friday except in months where a formal BOD Meeting is scheduled
 
 **NomGov Meetings**
 * 2021-03-15
@@ -215,7 +215,7 @@ This is not the SSOT for these dates and is meant only for informational/organiz
 
 ## Chief of Staff Shadow
 
-The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff in the #chief-of-staff-team channel. The CoST will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities. 
+The Chief of Staff may occasionally have a Chief of Staff Shadow, a GitLab team member who will participate in a specific project or initiative for a fixed period of time. Shadow responsibilities could include: taking notes, providing feedback, and/or supporting the overall initiative success. This role would be in addition to any existing responsibilities at GitLab. Participants would opt in to experience another function within GitLab and contribute to a different part of the business. Since participation would be in addition to an existing workload, managers must sign off before a CoS Shadow can participate. Interested team members can share their interest with the Chief of Staff in the #chief-of-staff-team channel. The CoST will follow up with you to understand what you are looking to get out of the experience and review projects that may be a good match. If there is not an existing project, you will be kept in mind for future opportunities.
 
 Once a project or initiative to Shadow has been identified and the team member decides to participate, the team member should open a merge request to add their name to the below table. The MR should be shared through slack in `#chief-of-staff-team` for review and merge.
 
