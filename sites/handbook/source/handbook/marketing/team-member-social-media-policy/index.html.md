@@ -25,9 +25,9 @@ You'll be asked to confirm reading this section during your onboarding to the co
 
 ### Definition of social media 
 
-The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, and forums (including the GitLab Forum).
+The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, forums (including the GitLab Forum, private groups or forums on public sites like Facebook Groups), and private/direct messages on public social media channels (Twitter DMs, Instagram Directs, etc.).
 
-The term "social media" applies to any web-based technology in use now or in the future that enables you to send or receive information and communicate or interact with others. **This policy includes email, texting, private messaging (DMs or direct messages)**. Any website where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
+The term "social media" applies to any web-based technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any website where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
 ##### As business needs change and GitLab continues on our journey, this policy will be updated. We'll be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
 {:.no_toc}
