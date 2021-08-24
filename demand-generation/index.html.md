@@ -25,8 +25,6 @@ twitter_creator: "@gitlab"
 - [Digital Marketing](/handbook/marketing/demand-generation/digital-marketing/)
 - [Partner and Channel Marketing](/handbook/marketing/strategic-marketing/partner-marketing/)
 
-[See team members in org chart](https://about.gitlab.com/company/team/org-chart/)
-
 ## Reporting
 {: #reporting .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
