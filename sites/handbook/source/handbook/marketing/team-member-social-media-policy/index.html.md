@@ -31,6 +31,9 @@ The GitLab Social Media policy for team members applies to traditional social me
 
 The term "social media" applies to any web-based technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any website where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
+##### Exclusions for anonymous review sites 
+This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites.
+
 ##### As business needs change and GitLab continues on our journey, this policy will be updated. We'll be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
 {:.no_toc}
 
