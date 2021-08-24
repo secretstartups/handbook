@@ -143,9 +143,15 @@ Managers in GitLab Learn can use the Manager Dashboard feature to track learning
 
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
 
-{Short video explaining manager dashboards}
+{Add short video explaining manager dashboards}
 
-Managers can see the following metrics on their dashboard for their direct reports. For team members, this Manager/Direct Report relationship is set automatically via our integration with BambhooHR.
+#### Important tips for using the Manager Dashboard
+
+1. Filter data by direct report by clicking on their name/photo in each tab
+1. Use the date and assignments filters in the top right hand corner of the report to set date restrictions
+1. You cannot download data as a CSV or other file time from the Manager Dashboard.
+
+#### Metrics overview
 
 There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined below.
 
@@ -156,18 +162,22 @@ There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined
 | Assignments | View assignment progression and send reminders for each direct report |
 | Learning History | View completed assigned content for each direcr report |
 
+Managers can see the following metrics on their dashboard for their direct reports. For team members, this Manager/Direct Report relationship is set automatically via our integration with BambhooHR.
 
-| Metric | Application |
-| ----- | ----- |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Metric | Description | Application |
+| ----- | ----- | ----- |
+| Overall Activity | All events completed by direct reports - i.e. cards completed, cards contributed, bookmarks, comments, and likes | General indication of platform activity |
+| Cards Completed | Total cards completed by direct reports | General indication of content consumed |
+| Cards Contributed | Net new cards added by direct reports | Indicates overall contribution from team to GitLab Learn |
+| Points Scored | TBD | TBD |
+| Learning Hours | Time spent {on the platform? in a pathway? not sure} | TBD |
+| Assignments Overdue | Number of assignments made to direct reports that were not completed by the due date | Indicates need to follow up or send reminder to complete |
+| Card Shared | TBD | TBD |
+| Top Learning Goals | Displays top learning goals from direct reports | Provides a learning needs analysis of direct reports |
+| Top Skills | TBD | TBD |
+| % completed of courses | Visual bar of percentage completed of course for each direct report | Indicates course interest, lack of interest, time spent learning, and more |
+| Total assigned | Number of total assigned content to direct reports | Demonstrates ask from team members to complete required content |
+| In Progress assignments | Number of started but not completed assignments | Indicates who needs reminder to complete assignments |
 
 
 
