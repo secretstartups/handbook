@@ -105,6 +105,8 @@ Whether you're an intern or our CEO, protecting the GitLab brand, the company, a
 
 Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law. Allow the team member(s) to own the decision on what is and isn't public about them.
 
+For customers, any [customer with a published case study](https://about.gitlab.com/customers/) is available to share publicly. If you would like to share information about another customer that does not have a publicly available case study, please reach out to the customer reference team first before sharing any content on social media. 
+
 </details>
 
 <details>
@@ -179,7 +181,7 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 ### Examples of what you should, and are encouraged, to share on social media
 - GitLab [blogs](https://about.gitlab.com/blog/) and [press releases](https://about.gitlab.com/press/releases/)
-- Positive news media that mentions GitLab
+- Positive news media that mentions GitLab and is shared in the #external-communications Slack channel
 - Industry reports that are publicly available and are ungated
 - Videos from either our [brand](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) or [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube Channels
 - Third-party articles that don’t bash competitors (mentioning them or comparing GitLab and competitors is fine)
