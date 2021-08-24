@@ -46,7 +46,7 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
-### General Data Security Controls
+## General Data Security Controls
 
 * For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). 
 * `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
@@ -78,7 +78,7 @@ Additional controls include:
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
 * **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
 
-### Quarterly Data Health and Security Audit
+## Quarterly Data Health and Security Audit
 
 A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
 
