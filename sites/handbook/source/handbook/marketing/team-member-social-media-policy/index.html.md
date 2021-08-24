@@ -23,6 +23,8 @@ Be diligent, and if it's questionable, don't say it. You are personally responsi
 
 You'll be asked to confirm reading this section during your onboarding to the company. We'll ask everyone to review and sign off on review in partnership with legal for existing employees.
 
+If you've been identified as a spokesperson for the company or a specific function within GitLab, you may have unique circumstances. Please refer to your team guidelines or the communications team for more information about your work as a spokesperson and the social media policy.
+
 ### Definition of social media 
 
 The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, forums (including the GitLab Forum, private groups or forums on public sites like Facebook Groups), and private/direct messages on public social media channels (Twitter DMs, Instagram Directs, etc.).
