@@ -35,7 +35,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
 *  **GitLab SDLC Quiz (Quiz - 9 Points - Pre Work)**
    - Take a look at the [handbook page on the SDLC](https://about.gitlab.com/stages-devops-lifecycle/) and take this short [quiz](https://forms.gle/Ed9JjNmKsXPhJ4Fr7)
@@ -49,7 +49,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
 *  **Our Customers**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
    - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
@@ -62,7 +62,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7172709)
 *  **Our Portfolio**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
