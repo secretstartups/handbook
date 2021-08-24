@@ -1162,7 +1162,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 #### FY22 Bookings Policy
 
 
-This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+This policy dictates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 ##### New Business/Add-On Opportunities:
 - <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.
