@@ -141,15 +141,26 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
 
 Managers in GitLab Learn can use the Manager Dashboard feature to track learning progress of your direct reports. You can find the Manager dashboard by navigating to the navigation waffle in the top right corner of every page and then choosing the `Manager Dashboard` option.
 
+The manager dashboard in GitLab Learn enables managers to: 
+
+1. Track top learning goals of their direct reports
+1. View basics metrics of direct reports platform engagement at the team level, including total hours learned, assignments overdue, cards completed, cards shared, cards contributed, and points scored
+1. View completion of individuals on assigned content
+1. Send remidners to direct reports about assignments and upcoming or past due dates
+1. View learner history
+
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
 
 {Add short video explaining manager dashboards}
 
-#### Important tips for using the Manager Dashboard
+#### Important tips
 
 1. Filter data by direct report by clicking on their name/photo in each tab
 1. Use the date and assignments filters in the top right hand corner of the report to set date restrictions
-1. You cannot download data as a CSV or other file time from the Manager Dashboard.
+1. You cannot download data as a CSV or other file time from the Manager Dashboard
+1. The `Cards Completed` metric on the `Overview` tab will indicate the **total number of times any card on the system was completed** by your team member. For example: if 2 teams members each complete a pathway that has 10 total cards, this metric will show 20 card completions. This count is not useful for understanding how many total courses or trainings are actually completed by your team
+1. Managers can only send reminders on courses they have assigned
+1. If you need to send a reminder to team members to complete an assigned piece of content, used the `Assignments` tab. Managers can send reminders to their direct reports by clicking the `Send Reminder` button next to the relevant assignment. You can select which members of your team you'd like to recieve the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
 
 #### Metrics overview
 
@@ -180,6 +191,10 @@ Managers can see the following metrics on their dashboard for their direct repor
 | In Progress assignments | Number of started but not completed assignments | Indicates who needs reminder to complete assignments |
 
 
+#### Automation of manager chain
+
+1. EdCast syncs with BambhooHR to pull manager data. This automation runs on a [time/cadence].
+1. The option to edit this manager field needs to stay `on` for all users in GitLab Learn. We want to enable customer and community teams to use GitLab Learn as a group, making manager and direct report assignemnts. If we shut the feature off, then the manager features would only be accessible by the GitLab Team. [need to explore if this is what we want - ask Kendra in terms of customer user case]
 
 ### User privacy in GitLab Learn
 
