@@ -19,8 +19,10 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 ## Sisense Dashboards
 
-Sisense is our enterprise standard BI tool and is used across the company for data visualization, reporting, and analysis. 
+[Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) (formerly known as Periscope) is our enterprise standard BI tool and is used across the company for data visualization, reporting, and analysis. The [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/) is used to segment Sisense dashboards into SAFE and non-SAFE categories. 
 
+
+## Data By Subject Area
 
 ### Marketing
 
