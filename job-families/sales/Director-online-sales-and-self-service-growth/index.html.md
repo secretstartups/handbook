@@ -35,11 +35,9 @@ The Director, Online Sales & Self Service Growth is a [grade 10](/handbook/total
 * Operational execution and troubleshooting by identifying issues as they surface; proposing and executing changes to fix root causes
 
 ## Performance Indicators
-* CAC Ratio (target: Monthly target set by Finance)
-* Percent of Ramped Reps at or Above Quota (target: greater than 55%)
-* Percent of Ramping Reps at or Above 70% of Quota (target: greater than 70%)
-* Churn and Contraction / ATR (target: Quarterly target set by Sales & Finance)
-* ARPU (target: 1.5% increase per month)
+* Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction and Rep productivity.
+* Key customer success measures (e.g., product adoption / health score, customer satisfaction score, etc.). A number of these measures need to evolve to be developed.
+* Future chat experience OKRs (e.g., customer satisfaction score, first response time, first contact resolution, etc.) These measures need to be finalized based on creation of chat.
 
 ## Career Ladder
 The next step for the Director, Online Sales & Self Service Growth Job Family is to move to the Senior Director, Online Sales & Self Service Job Family.
