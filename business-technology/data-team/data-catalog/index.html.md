@@ -21,7 +21,7 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 
 [Sisense](https://about.gitlab.com/handbook/business-technology/data-team/platform/periscope/) is our enterprise standard BI tool. Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
 - the **SAFE Dashboard Space** houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
-- the **General Access Dashboard Space** houses all dashboards which do not require SAFE handling and these dashboards are available to all GitLab Team Members.
+- the **General Access Dashboard Space** houses all dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
 
