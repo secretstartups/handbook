@@ -62,5 +62,5 @@ A request can be worked on without explicit permission from the account holder i
 1. The user account meets one of the following conditions:
     - was created 2021-02-01 or later.
     - has a SAML or SCIM identity tied to the organization's group.
-    - has provisioned_by_group_id value that is the same as the organization's group's ID.
+    - has a `provisioned_by_group_id` value that is the same as the organization's group's ID. (This can be found with the [Users API](https://docs.gitlab.com/ee/api/users.html#for-admins))
     - is a member of the organization's group, where the subscription was purchased or renewed 2021-02-01 or later.
