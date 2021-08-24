@@ -3,7 +3,7 @@ layout: job_family_page
 title: "Open Source Outreach Fullstack Engineer"
 ---
 
-Open Source Outreach Engineers works on laying down an efficiency foundation for our community members to contribute to GitLab.
+Open Source Outreach Fullstack Engineers work on laying down an efficiency foundation for our community members to contribute to GitLab.
 
 ## Responsibilities 
 
