@@ -26,9 +26,10 @@ The quote-to-cash (QTC) process encompasses customer account management, order f
 #### Zuora Revenue
 * Zuora Revenue is our automated revenue recognition application that meets current and future U.S. GAAP, including the new ASC 606 and IFRS 15 revenue standards.
 
-#### CustomersDot
-* CustomersDot is used when the customer logs in to manage their account details for their subscription
+#### CustomersDot (Customer Portal)
+* CustomersDot is used when the customer logs in to manage their subscriptions
 * GitLab engineers created CustomersDot and it is owned by the [Fulfillment team](/handbook/engineering/development/fulfillment/)
+* CustomersDot integrates with Zuora to enable self-service purchasing and subscription management
 
 #### NetSuite
 * NetSuite is the company Enterprise Resource Planning (ERP) system, which is primarily managed by the Finance team. 
