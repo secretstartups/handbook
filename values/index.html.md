@@ -318,6 +318,20 @@ We do what we promised to each other, customers, users, and investors.
 We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
 off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
+##### Build Reliable Software
+{:.no_toc}
+**Infrastructure**, **Quality**, **Security**, and **Performance** are the pillars for building reliable software. Reliability is our contract with our customer that says you can count on us to deliver an available and dependable product. Everyone in the organization has a role to play. 
+
+Engineers, Product Managers, and Designers are the first line of defense and have the most direct influence over the reliability of the code through either planning, implementation, monitoring (e.g. [Kibana](/handbook/support/workflows/kibana.html), [Sentry](/handbook/support/workflows/sentry.html), Grafana) or prioritization of the work. Management monitors (e.g. [Error Budgets](/handbook/engineering/error-budgets/)) and measures the reliability of features and makes recommendations if necessary. Management will also ensure the teams have the tools and training required to build reliable software. The [Infrastructure](/handbook/engineering/infrastructure/#mission), [Application Security](/handbook/engineering/security/security-engineering-and-research/application-security/#application-security-mission), [Database](/handbook/engineering/development/enablement/database/#mission) and [Quality](/handbook/engineering/quality/#mission) teams are the Subject Matter Experts and serve as consultants to the engineering teams. 
+
+##### Follow Established Processes
+{:.no_toc}
+All team members are expected to follow documented processes. We develop and document processes (e.g. [Feature flag usage](https://docs.gitlab.com/ee/development/feature_flags/index.html), [Code Review Guielines](https://docs.gitlab.com/ee/development/code_review.html)) once we identify opportunities for improvements. We find opportunities for improvement through numerous ways such as analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal/root-cause-analysis.html) and receiving feedback from team members. 
+
+Following established processes ensures that we learn from our mistakes and efficiently deliver high-quality, highly performant, and secure software. We prefer to fail fast and learn quickly. Team members who are not software developers benefit from working more efficiently to deliver their results as well. Regardless of your discipline, processes are the guard rails that ensure we produce desirable and predictable results.
+
+Everyone can contribute by proposing new processes and improving upon existing processes.
+
 ##### Dogfooding
 {:.no_toc}
 1.  We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
@@ -801,7 +815,7 @@ If you would like to improve your skills or expand your knowledge on topics rela
 
 We do the [smallest thing possible and get it out as quickly as possible](/blog/2017/01/04/behind-the-scenes-how-we-built-review-apps/). If you make suggestions that can be excluded from the first iteration, turn them into a separate issue that you link. Don't write a large plan; only write the first step. Trust that you'll know better how to proceed after something is released. You're doing it right if you're slightly embarrassed by the minimal feature set shipped in the first iteration. This value is the one people most underestimate when they join GitLab. The impact both on your work process and on how much you achieve is greater than anticipated. In the beginning, it hurts to make decisions fast and to see that things are changed with less consultation. But frequently, the simplest version turns out to be the best one. 
 
-People that join GitLab all say they already practice this iteration. But this is the value that they have the hardest time adopting. People are trained that if you don't deliver a perfect or polished thing, you get dinged for it. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other people in the GitLab organization being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product.
+People that join GitLab all say they already practice this iteration. But this is the value that they have the hardest time adopting. People are trained that if you don't deliver a perfect or polished thing, you get dinged for it. If you do just one piece of something, you have to come back to it. Doing the whole thing seems more efficient, even though it isn't. If the complete picture is not clear, your work might not be perceived as you want it to be perceived. It seems better to make a comprehensive product. They see other people in the GitLab organization being really effective with iteration but don't know how to make the transition, and it's hard to shake the fear that constant iteration can lead to shipping lower-quality work or a worse product. It is possible to ship a minimally viable product while continuing to adhere to the documented quality standards. 
 
 The way to resolve this is to write down only what you can do with the time you have for this project right now. That might be 5 minutes or 2 hours. Think of what you can complete in that time that would improve the current situation. Iteration can be uncomfortable, even painful. If you're doing iteration correctly, it should be. Reverting work back to a previous state is positive, not negative. We're quickly getting feedback and learning from it. Making a small change prevented a bigger revert and made it easier to revert.
 
@@ -905,7 +919,7 @@ That said, we would love to work on a two-week release cycle, but that should be
 ##### Embracing Iteration 
 {:.no_toc}
 
-In order to embrace iteration, the quality of your first iteration should not matter and it shouldn't discourage you from starting. We should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations. 
+In order to embrace iteration, we should have the attitude that we are trying to achieve as much as possible in a small amount of time; it's where we are at the end state of an iteration, that counts. The benefit of iteration is to get feedback from the end-user. Focus on sharing context on the _end of the first iteration_ rather than a _hypothetical future state_ requiring multiple iterations. 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/nXfKtnVUhvQ" frameborder="0" allowfullscreen="true"> </iframe>
