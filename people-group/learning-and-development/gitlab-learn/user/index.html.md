@@ -137,6 +137,39 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
      - Profile and banner image
      - Job title
 
+### Using the Manager Dashboard
+
+Managers in GitLab Learn can use the Manager Dashboard feature to track learning progress of your direct reports. You can find the Manager dashboard by navigating to the navigation waffle in the top right corner of every page and then choosing the `Manager Dashboard` option.
+
+Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
+
+{Short video explaining manager dashboards}
+
+Managers can see the following metrics on their dashboard for their direct reports. For team members, this Manager/Direct Report relationship is set automatically via our integration with BambhooHR.
+
+There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined below.
+
+| Tab Title | Purpose |
+| ----- | ----- |
+| Overview | High level metrics of all direct reports |
+| Learnign Plan | View in-progress learning for each direct report |
+| Assignments | View assignment progression and send reminders for each direct report |
+| Learning History | View completed assigned content for each direcr report |
+
+
+| Metric | Application |
+| ----- | ----- |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+
 
 ### User privacy in GitLab Learn
 
