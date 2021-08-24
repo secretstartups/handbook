@@ -933,7 +933,7 @@ You can view these on our [GitLab Unfiltered YouTube channel](https://www.youtub
 
 Iteration is a key vlaue in many disruptive and successful organizations. Below are some examples:
 
-* [SpaceX and Elon Musk](iteration-examples/spacex.html)
+* [SpaceX](iteration-examples/spacex.html)
 
 ##### Iteration Competency
 {:#iteration-competency.no_toc}
