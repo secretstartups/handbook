@@ -541,7 +541,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 
 If there is something that you want to discuss, but you do not feel that it is
 a reasonable option to discuss with either your manager or CEO, then you can reach
-out to any of the other [C-level GitLab team members](/company/team/org-chart/) or our board member Bruce Armstrong.
+out to any of the other C-level GitLab team members or our board member Bruce Armstrong.
 
 ## Social Call
 
@@ -792,7 +792,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
 ### Note taking
 
 1. [Write down your questions](/handbook/values/#write-things-down) in the agenda before vocalizing. Always ask people to vocalize their questions to provide the most detailed context and for any people that only use audio, for example listening to a recording of the call later while running.
-1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/). 
+1. If there isn’t a note taker listed in the document at the start of the meeting, people should self-note-take. If you're not talking in the meeting, at any given time, [help take notes](/company/culture/all-remote/live-doc-meetings/).
 1. Consider asking other people to write down the answers in real-time to allow the person who asked the question to focus on the answer. The person asking the question can touch up the answer when the conversation has moved on to something less relevant to them.
 
 ### You are the manager of your attention
@@ -1367,7 +1367,7 @@ account and set the visibility and access controls according to the following gu
 
 The recommended defaults when sharing a document for GitLab internal purposes is setting visibility to **On - GitLab** and access to **Can Edit** to ensure everyone can contribute!
 
-**Note:** 
+**Note:**
 To our knowledge, it is not possible to set the default to **Can Edit** and you have to change the permissions from **View** manually. We hope that Google adds this capability in the future.
 
 | **Visibility Setting**                | **Use Cases**                                                                                                                                                                                             |
