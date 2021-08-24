@@ -28,6 +28,7 @@ Looking for GitLab's library of guides to working remotely? Those are [**here**]
 #### Articles
 
 - [Fast Company: Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
+- [Protocol: Do you need to hire a 'head of remote?'](https://www.protocol.com/workplace/head-of-remote-darren-murph)
 - [Washington Post: Hot new job title in a pandemic: ‘Head of remote work’](https://www.washingtonpost.com/business/2020/09/09/head-of-remote-work-jobs/)
 - [CNBC: Embracing Remote Work: Meet the Oracles](https://www.cnbc.com/video/2020/11/13/embracing-remote-work-meet-the-oracles.html)
 - [Harvard Business Review: Remote Work Doesn’t Have to Mean All-Day Video Calls](https://hbr.org/2020/09/remote-work-doesnt-have-to-mean-all-day-video-calls/)
