@@ -25,6 +25,7 @@ canonical_path: "/company/team/structure/working-groups/mlops/"
 
 This Working Group has the following goals:
 
+1. Begin defining and refine the results driven business value stream of MLOps at GitLab.
 1. Formalize the processes related to provenance, storage and access of GitLab.com production data for the purpose of model training.
     - Determine how to build a GitLab asynchronous event stream for the purposes of getting data for pre-processing and training
 1. Share knowledge and determine best practices for hyper-parameter tuning, retraining, versioning, and deploying new ML models
@@ -73,6 +74,7 @@ Read more about the topic area from the links below:
 
 The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
 
+1. Creation of a mission statement that the MLOps Working Group operates under, added to the handbook.
 1. Create a handbook page discussing a deep analysis of the tooling for ML out there and a proof-of-concept framework using an ideal pathway that GitLab teams can refer to and easily extend when kicking off ML-related projects.
 1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
 1. Define a system architecture for incorporating an event stream for asynchronous processing and storage of events for training ML models.
