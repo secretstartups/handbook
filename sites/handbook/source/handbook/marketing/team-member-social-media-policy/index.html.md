@@ -148,10 +148,12 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 <details>
   <summary markdown='span'>
-    Don't use third-party logos without the permission of the owner
+    Don't create images with or manipulate third-party logos without the permission of the owner
   </summary>
 <ul>
 <li> Logos (including those indicating companies, and products and services) are registered trademarks. You must obtain the consent of the owner before using, for any purpose, any third-party logo.</li>
+
+<li>If you're wanting to share content from GitLab's website or social channels and it has logos or trademarks from other companies, this is okay to use. The various marketing teams at GitLab are responsibile for confirming the company's use of these logos and trademarks and sharing links or images that GitLab produced does not violate this policy.</li>
 
 <li>You can refer to other companies, or products and services, by name (without using a logo) provided that (i) the company, product or service in question could not easily be identified without using its name; and (ii) your use does not imply endorsement by, or affiliation with, the trademark owner.</li>
 
