@@ -91,11 +91,12 @@ It generally occurs in:
 * January
 
 In 2021, the following offsite dates have been confirmed (starting dates):
-* 2021-01-11
-* 2021-04-12
 * 2021-06-28
-* 2021-10-12
+* 2021-11-01
 * 2022-01-10
+* 2022-04-04
+* 2022-07-11
+* 2022-10-03
 
 ## Timeline
 
