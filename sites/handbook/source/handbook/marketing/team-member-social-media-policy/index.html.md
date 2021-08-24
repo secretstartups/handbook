@@ -15,7 +15,7 @@ twitter_image_alt: GitLab Social Media Policy
 ## Introduction
 {:.no_toc}
 
-We recognize that many team members engage in social media activity. This policy establishes a set of rules and guidelines for any activity and participation in “social media” by all GitLab Team Members. These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by GitLab at any time, for any reason, without notice to team members. This policy also applies to social media activity when on or off duty, while using the Company's or personal electronic resources, and whether the team member posts anonymously or using a pseudonym.
+We recognize that many team members engage in social media activity. This policy establishes a set of rules and guidelines for any activity and participation on social media channels when commenting about GitLab or GitLab related topics. These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by GitLab at any time, for any reason, without notice to team members. This policy also applies to social media activity when on or off duty, while using the Company's or personal electronic resources, and whether the team member posts anonymously or using a pseudonym.
 
 Be diligent, and if it's questionable, don't say it. You are personally responsible for the social posts, likes and shares, and replies you post on social media while representing GitLab. Everything you publish is publicly viewable and will be available for a long time, even if redacted. Remember that you represent GitLab and our culture. When commenting on posts, please keep in mind: "Don't argue but represent".
 
