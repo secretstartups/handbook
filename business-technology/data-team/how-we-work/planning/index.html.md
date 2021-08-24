@@ -5,6 +5,7 @@ description: "GitLab Data Team OKR and Milestone planning process"
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -15,13 +16,14 @@ description: "GitLab Data Team OKR and Milestone planning process"
 ---
 
 ## Data Team Planning Drumbeat
+
 The Data Team Planning Drumbeat is a pre-set sequence that happens every quarter. The Planning Drumbeat follows GitLab's financial year/quarter structure. The Data Team Planning looks as follows:
 
 ![Planning Drumbeat](/handbook/business-technology/data-team/how-we-work/planning/Planning_Drumbeat.png) <br>
 [link to orginal](https://docs.google.com/spreadsheets/d/1hdJqCfDPR-LqTTRBy4JEQ-MbrL-RyNHzXaMzvsGWkSQ/edit#gid=0)
 
 Milestone naming convention; Milestone FYxx-Qxx-MSxx. I.e. FY22-Q02-MS01 <br>
-LT = Leadership Team (`@rparker2`, `@iweeks`, `@dvanrooijen2`) <br>
+LT = Leadership Team (`@rparker2`, `@iweeks`, `@dvanrooijen2`, `@mlaanen`) <br>
 DT = Data team (Product Fusion Team, GTM Fusion Team or Data Engineering Team)
 
 The overall ambition is to **structure** why, when and what we are doing. 
@@ -51,6 +53,7 @@ Examples of OKR alignment _in-action_ includes:
 During the OKR Review, the Data Leadership Team reviews the current status of the current FQ KRs. The results of the OKRs are evaluated and propagated to next FQ OKRs where applicable.
 
 ### Work breakdown
+
 The outcome of the work breakdown is a detailed description of the work to be performed, deliverables and responsibilities in the next quarter and is determined by:
 1. Defined upcoming OKRs 
 2. OKR Review
