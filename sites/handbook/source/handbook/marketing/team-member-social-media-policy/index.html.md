@@ -85,7 +85,7 @@ Easier said than done, but consider our values when engaging online. The same sp
   <summary markdown='span'>
     Do share GitLab content that is already published
   </summary>
-If it's written in a blog, a case study, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain or in the company social media advocacy tool can and should be shared freely. 
+If it's written in a blog, a case study, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain, posted in the #newswire Slack channel, or in the company social media advocacy tool can and should be shared freely. Some items in the #newswire Slack channel may say "shareable internal only", so please do not share those stories on social media.
 </details>
 
 ### It's your job to protect GitLab, our customers, and our team members 
@@ -188,7 +188,7 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 ### Examples of what you should, and are encouraged, to share on social media
 - GitLab [blogs](https://about.gitlab.com/blog/) and [press releases](https://about.gitlab.com/press/releases/)
-- Positive news media that mentions GitLab and is shared in the #external-communications Slack channel
+- Positive news media that mentions GitLab and is shared in the #newswire Slack channel (team member adds no commentary/copy to the post) or is available to share in the social media advocacy tool (with commentary/copy to share)
 - Industry reports that are publicly available and are ungated
 - Videos from either our [brand](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) or [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube Channels
 - Third-party articles that don’t bash competitors (mentioning them or comparing GitLab and competitors is fine)
