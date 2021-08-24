@@ -155,7 +155,7 @@ Examples of when someone may request a meal train (this list isn't exhaustive):
 1. Ensure you can follow through on the date you sign up for or please help coordinate a replacement as soon as you know you can no longer participate. 
 1. Participation is voluntary and is **NOT** reimbursable by GitLab. Any expense incurred would be your responsibility. 
 
-If you have any questions, please reach out to the Total Rewards team.
+If you have any questions, please reach out to parental-leave@gitlab.com.
 
 ## Parental Leave
 
@@ -180,13 +180,13 @@ When you return from Parental Leave, please [notify Total Rewards that you have 
 Your 16 weeks of Parental Leave starts on the first day that you take off. This day can be in advance of the day that the baby arrives. You don't have to take your Parental Leave in one continuous period, we encourage you to plan and arrange your Parental Leave in a way that suits you and your family's needs. You may split your Parental Leave dates as you see fit, so long as it is within the 12 months of the birth or adoption event.
 
 You can change the dates of your Parental Leave via PTO by Roots. Total Rewards will receive a notification every time you edit your Parental Leave dates. Make sure your leave is under the Parental Leave category, otherwise Total Rewards won't get a notification.
-Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to Total Rewards.
+Please note, if you are planning to change or extend your Parental Leave by using a different type of leave such as PTO, unpaid leave or any local statutory leave, please send an e-mail to parental-leave@gitlab.com.
 
 ### Taking PTO After Taking Parental Leave
 
 If you need to take more time off after taking 16 weeks of Parental Leave, you can utilize our [Paid Time Off policy](https://about.gitlab.com/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off). You'll need to return for at least 7 calendar days before taking any further time off since the full 16 weeks of parental leave will have been used. 
 
-Please e-mail Total Rewards if you'd like to make this request and submit your PTO dates in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots).
+Please e-mail parental-leave@gitlab.com if you'd like to make this request and submit your PTO dates in [PTO by Roots](https://about.gitlab.com/handbook/paid-time-off/#pto-by-roots).
 
 ### Commission Payout and Quota Relief
 
