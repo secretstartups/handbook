@@ -23,7 +23,7 @@ Be diligent, and if it's questionable, don't say it. You are personally responsi
 
 You'll be asked to confirm reading this section during your onboarding to the company. We'll ask everyone to review and sign off on review in partnership with legal for existing employees.
 
-### Definition of social media
+### Definition of social media 
 
 The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, and forums (including the GitLab Forum).
 
