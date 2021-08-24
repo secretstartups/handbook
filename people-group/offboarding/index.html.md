@@ -174,7 +174,7 @@ The manager and the team member should have walked through the guidelines on [un
 1. ***TMR***: The TMR will notify the People Operations Specialist team of the offboarding by posting in the `#Offboardings` confidential Slack channel. The TMR will indicate the team member's name, last day, reason for resignation, and rehire eligibility. The first Specialist to respond to the post will be the Specialist that partners with the TMR for the offboarding process.<br>
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. ***TMR***: The TMR will create a private Slack channel that will include the PBP, Manager, and Leader of the organization to review the offboarding and agreed upon offboarding date. 
-1. ***Specialist***: If applicable, the People Specialist will prepare the severance agreement in preparation for the call between the TMR specialist, Manager, and team member. Additional guidelines for the preparation of this agreement can be found below in the [Separation and Release of Claims Agreements](#separation-agreement) section. To determine whether or not a severance agreement is applicable, please refer to the `Severance Elgibility` guidelines accessible by PBPs, Team Member Relations Specialist and People Specialists. 
+1. ***Specialist***: If applicable the TMR Specialist will prepare the severance agreement in preparation for the call with the Manager, and team member. Additional guidelines for the preparation of this agreement can be found below in the [Separation and Release of Claims Agreements](#separation-agreement) section. To determine whether or not a severance agreement is applicable, please refer to the `Severance Elgibility` guidelines accessible by PBPs and Team Member Relations Specialist.
    _Note: For any severance that has less than 48 hours turn around the Team Member Specialist will handle._
 1. ***Manager***: Once the date and time is confirmed, the manager will schedule time with the team member and send the TMR specialist a _private and separate calendar invite_ with the Zoom details for the meeting with the team member to share the news of the offboarding. 
 1. ***Payroll***: If the team member is employed by a PEO/entity with statutory leave requirements, review if any time off needs to be paid on the last paycheck by looking in BambooHR in the `Time Off` section.
@@ -253,11 +253,11 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 
 ### Severance Process for US-based Team Members
 
-1. ***Specialist***: The People Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
-1. ***Specialist***: The People Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
-1. ***Specialist***: The People Specialist should fill out the document. 
-1. ***Specialist***: The People Specialist will ping the stock team in the stock option section of the document. 
-1. ***Specialist***: The People Specialist will share with the PBP and Legal for final review/approval. 
+1. ***TMR***: The TMR Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
+1. ***TMR***: The TMR Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
+1. ***TMR***: The TMR Specialist should fill out the document. 
+1. ***TMR***: The TMR Specialist will ping the stock team in the stock option section of the document. 
+1. ***TMR***: The TMR Specialist will share with the PBP and Legal for final review/approval. 
 1. ***TMR***: The TMR will stage the document in DocuSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
