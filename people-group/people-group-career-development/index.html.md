@@ -47,7 +47,9 @@ TBD
 
 ### People Ops
 
-TBD
+1. [Human Resources: Protecting Confidentiality](https://gitlab.edcast.com/insights/human)
+1. [Learning Document Retention and Data Management](https://gitlab.edcast.com/insights/learning-document)
+1. [GDPR Compliance: Essential Training](https://gitlab.edcast.com/insights/gdpr-compliance)
 
 
 ### Total Rewards
