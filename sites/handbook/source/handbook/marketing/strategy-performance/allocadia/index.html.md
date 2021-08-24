@@ -16,7 +16,7 @@ Say good-bye to multiple spreadsheets, disparate data sets and misaligned market
 
 💰 Version purchased: [Allocadia Optimize](https://allocadia.com/pricing/)
 
-🔑 Logins are available for Marketing budget holders 
+🔑 Logins are available for Marketing budget holders
 
 ## High level - how does it work?
 
@@ -53,14 +53,15 @@ In the top right hand section of the screen, you will see a drop down of differe
 Within the view drop down you have the option to look at your targets by quarter or annually. Use whichever view best helps you run your business.
 
 #### View Definitions
-* **FM Forecasting Monthly** - will ONLY show line items with forecasted spend - Only available on the FMM activity plans
-* **FM Planning Monthly** - will only show line items that were present at the time the plan was locked - Only available on the FMM activity plans
-* **My Forecast FY22** - Where you see what's planned to ensure you've added forecasted amounts against the plan 
-* **Q1 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q1 
-* **Q2 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q2 
-* **Q3 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q3 
-* **Q4 team Tracking**  - shows both plan AND forecasted line items with a start and end date in Q4 
-* **Quarterly Summary** - where to see an annual summary of plan, forecast, and actuals broken out by quarter 
+
+- **FM Forecasting Monthly** - will ONLY show line items with forecasted spend - Only available on the FMM activity plans
+- **FM Planning Monthly** - will only show line items that were present at the time the plan was locked - Only available on the FMM activity plans
+- **My Forecast FY22** - Where you see what's planned to ensure you've added forecasted amounts against the plan
+- **Q1 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q1
+- **Q2 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q2
+- **Q3 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q3
+- **Q4 team Tracking** - shows both plan AND forecasted line items with a start and end date in Q4
+- **Quarterly Summary** - where to see an annual summary of plan, forecast, and actuals broken out by quarter
 
 ### Activities grid
 
@@ -103,7 +104,7 @@ For common vendors, it's important to note that you must use the same upper and 
 1. Demandbase
 1. SimplyDIRECT
 1. Tenandone
-1. Reachdesk 
+1. Reachdesk
 
 As we move to Coupa, that integration will allow us to use their list of standardized vendor names for ones that already exist in the system which should make this easier.
 
@@ -154,12 +155,9 @@ _GitLab Internal Calendars_
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
 
 - **Groups who have calendar creation access**
-
 - Field Marketing
 - Brand Activation
-
 - **How the calendar process is mapped**
-
 - You may ONLY create a calendar invite at the `line item` level. Meaning you CANNOT create a calendar invite at the `Category` OR `Sub-category` level.
 - Based on the inputs from the details panel, the logic is built as follows:
     - Question within Allocadia: `Is this an in person event?`
@@ -181,7 +179,7 @@ The calendar invite is set for the entire day. If you would like the event to be
 
 Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you how the calendar invite gets created, if you're more of a visual learner!
 
-##### Metrics Tab 
+##### Metrics Tab
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
@@ -234,24 +232,25 @@ The reports are broken out in folder format and once you click into the folders,
 
 ##### Reporting folders breakdown
 
-1. Finance - reports the finance team uses 
+1. Finance - reports the finance team uses
 1. Health Check - We aren't using this folder in detail yet. More to come!
 1. Investment Planning
     1. Target vs. Plan Full - here you can view your target vs. plan in full detail - this is same information that is reflected in the Investment Tracking Summary.
     1. Vendor Plan details - Management uses this section to understand how much we are spending with Demandbase because we open insertion orders (IOs) on a qtly basis this is essential for us to know how much we need to open. We also use this section to understand the
 
-##### Back end names of useful fields 
-We do have a few fields within Allocadia which have a different name on the front end (i.e. what you see on the screen) vs. what is used in reporting, for various, perhaps unknown reasons. Fields are as follows: 
+##### Back end names of useful fields
 
-| Front end field name  | Field name used for reporting                 |
-|-----------------------|-----------------------------------------------|
-| Start Date            | Date (Line Item Start Date)                   |
-| End Date              | Date (Line Item End Date)                     |
-| MQL                   | Estimated Outcome (First Funnel Level Total)  |
-| SAO                   | Estimated Outcome (Middle Funnel Level Total) |
-| Closed Won            | Estimated Outcome (Last Funnel Level Total)   |
-|              | |
-|              | |
+We do have a few fields within Allocadia which have a different name on the front end (i.e. what you see on the screen) vs. what is used in reporting, for various, perhaps unknown reasons. Fields are as follows:
+
+| Front end field name | Field name used for reporting |
+| -------------------- | ----------------------------- |
+| Start Date | Date (Line Item Start Date) |
+| End Date | Date (Line Item End Date) |
+| MQL | Estimated Outcome (First Funnel Level Total) |
+| SAO | Estimated Outcome (Middle Funnel Level Total) |
+| Closed Won | Estimated Outcome (Last Funnel Level Total) |
+|  |  |
+|  |  |
 
 ## Integrations (behind the scenes)
 
@@ -285,7 +284,10 @@ If you've hit the GitLab Procurement issue template button and the wrong issue t
 ### SalesForce.com (SFDC)
 
 As mentioned above, there is a listing of available FY22 SFDC campaigns to choose from in the detail panel. Once the initial connection has been made between Allocadia and SFDC on a given campaign, Allocadia will push over all the fields that have been completed in the details panel. In addition, we will be sending over forecast amounts into the SFDC Campaign Budget field as it gets updated. If there are multiple line items for a given SFDC campaign, they will be combined for the updated SFDC Campaign Budget. Keep this in mind when considering which line to map to a SFDC campaign: it does not matter which one you decide to use (line, category or subcategory). It's up to the user to figure out their folder structure and determine the highest level ID that houses all the information.
+
 When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
+
+Detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
 
 ### Okta
 
@@ -299,8 +301,9 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
 
-### Coupa 
-More info forthcoming! 
+### Coupa
+
+More info forthcoming!
 
 #### Mapping Expenses
 
