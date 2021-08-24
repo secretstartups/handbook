@@ -23,6 +23,7 @@ The Staff Strategy and Operations is a [grade 8](/handbook/total-rewards/compens
 - Translate practical needs into technical and/or business requirements
 - Support special projects that are urgent and important
 - Execute on projects and ongoing assignments for the Chief of Staff
+- Determine long-term owners outside of the Strategy and Operations team for initiatives and asks that are best served through a functional home. Partner with future owners to ensure that ownership and responsibilities are understood and agreed upon
 - Demonstrate GitLab values in all work
 
 #### Staff Strategy and Operations Requirements
