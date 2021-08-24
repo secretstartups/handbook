@@ -50,11 +50,11 @@ title: "Financial Planning & Analysis"
 
 Purpose: Identify and agree on long-term investments and capabilities that will position GitLab for success over the long-term. Determine whether near-term priorities and funding need to change in order to achieve long-term goals and financial targets.
 
-What: The Long Range Plan (LRP) is a three to five year strategic and financial plan: 
+What: The Long Range Plan (LRP) is a three to five year strategic and financial plan:
 - Strategic plan: Refresh and reaffirm company's [three year strategy](https://about.gitlab.com/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
 - Financial plan: Set the financial envelope needed to achieve GitLab's LT targets, including bookings, revenue, P&L and cash metrics. Ensure healthy tension between funding investment needs and fiscal discipline / company efficiency.
 
-Principles: 
+Principles:
 - Focus on identifying drivers which would bend or shift growth curves, for both top-line and expense
 - Is a tops-down strategic and financial plan, not a bottoms-up operational plan
 - Cross-functional leadership buy-in required; not a finance-only numbers exercise
@@ -371,7 +371,7 @@ Please note these process details:
 1. When you are under expense in a certain category, you can redeploy in the same category within your organization. For example, you can redeploy non-headcount funds in another non-headcount category without formal approvals. You couldn't deploy headcount funds in a new non-headcount category without formal approvals.
 1. If you are under expense in headcount, you can’t redeploy to a field marketing event or another non headcount category.  All but emergency approval requests should we raised in the [E-Group Weekly](/handbook/e-group-weekly/).
 1.  24hr approval is possible in emergency situations. A first step is to post the request in #e-group-confidential.
-1. Collectively, we’ll do the right thing for the business. A lot of the off cycle budget approvals will be non-recurring. 
+1. Collectively, we’ll do the right thing for the business. A lot of the off cycle budget approvals will be non-recurring.
 
 ## Investor and Board Communication
 
@@ -539,7 +539,7 @@ Successfully creating new departments require that various company systems be up
 4. Provide all detail necessary to ensure team members are assigned to the newly created departments.
 5. Create a MR to update the [Cost & Reporting Structure](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/data/cost_center_division_department_mapping.csv) in the GitLab Data project with the new department. This ensures the new departments are in GitLab's data warehouse.
 
-Below is a table showing the structure of GitLab departments as they exist in BambooHR and netsuite. Please [check out the Team Page](/company/team/org-chart) to see our org chart.
+Below is a table showing the structure of GitLab departments as they exist in BambooHR and netsuite.
 
 ## Cost & Reporting Structure
 
