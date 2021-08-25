@@ -40,7 +40,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Priya | Verticurl, Campaigns Team Consultant | @@priya_sridhar | `mohanapriya.thangavel@verticurl.com` |
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
 | Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
-| Karthikeyan K. | Verticurl, FMM/ABM resource | @? | `karthikeyan.k@verticurl.com` |
+| Karthikeyan K. | Verticurl, FMM/ABM resource | @@karthikeyan.k  | `karthikeyan.k@verticurl.com` |
 
 
 ## Project Management - Campaigns team
@@ -158,3 +158,18 @@ When working with Verticurl, we must specify a specific time we would like the e
 - APAC label: 11am AEST
 
 Should a requested send time be missed, Verticurl can take the liberty to schedule the send within 8 hours of the original ask. If the send time window goes beyond the 8 hour time frame, then Verticurl must get approval from sender to move to a different time. As an example, if the send time was scheduled for 6 AM ET, and for ever reason, the send time did not get scheduled for 6 AM ET, Verticurl can make the decision when to send the email if its between 6:01 AM ET - 2:01 PM ET on the same day of the send.
+
+## EMEA FMC Coordinator 
+The EMEA Field Marketing team has contracted for XYZ hours with Verticurl to augment their FMC duties as that team grows. 
+
+The FMC resources can be found [here](/handbook/marketing/demand-generation/campaigns/agency-verticurl/#team). 
+
+FMC DRI - Helena Dixon. 
+
+### FMC Duties 
+Helena to add 
+
+### FMC Triage Steps
+Helena to add  if its different 
+
+
