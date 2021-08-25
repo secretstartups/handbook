@@ -82,7 +82,7 @@ This manager is expected to manage a small team of ICs, while also contributing 
 
 ## Performance Indicators
 - Number of work delivered weekly
-- [TMAU](url)/[SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau)
+- [TMAU]/[SMAU](https://about.gitlab.com/handbook/product/performance-indicators/#stage-monthly-active-users-smau)
 - [SPU](https://about.gitlab.com/handbook/product/performance-indicators/#stages-per-user-spu)
 - [Direct Signup ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#direct-signup-arr-growth-rate)
 - [Free to Paid ARR Growth Rate](https://about.gitlab.com/handbook/product/performance-indicators/#free-to-paid-arr-growth-rate)
