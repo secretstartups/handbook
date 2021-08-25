@@ -1,16 +1,16 @@
 ---
 layout: job_family_page
 title: "Partner Help Desk Specialist"
-description: "The Partner Help Desk Specialist is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions. "
+description: "The Partner Help Desk is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions. "
 ---
 
-The Partner Help Desk Specialist is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions to achieve stated channel sales targets.  The Partner Help Desk Specialist will support Channel Sales Managers in addressing partner questions and system issues, and will proactively drive partner onboarding to speed each partner's time to their first deal.
+The Partner Help Desk Specialist team is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions to achieve stated channel sales targets.  The Partner Help Desk Specialist will support Channel Sales Managers in addressing partner questions and system issues, and will proactively drive partner onboarding to speed each partner's time to their first deal.
 
 ## Levels
 
 ### Partner Help Desk Specialist (Intermediate)
 
-The Partner Help Desk Specialist (Intermediate) reports to the [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/).
+The Partner Help Desk Specialist (Intermediate) reports to the Partner Helpdesk Manager.
 
 #### Partner Help Desk Specialist (Intermediate) Job Grade
 
@@ -23,6 +23,7 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 * Support partner in all stages of the customer lifecycle; demand database management, deal registration, quote creation, order processing, add-ons & renewals etc.
 * Execute sales and marketing enablement to channel & distribution partners.
 * Support the execution of GTM, Sales, Marketing, Channel Services.
+* Document processes and best practices to enable Help Desk team members, Partners, Channel Sales, Operations and Sales.
 
 #### Partner Help Desk Specialist (Intermediate) Requirements
 
@@ -40,9 +41,10 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 * Desire to learn the use of the GitLab platform.
 * Ability to use GitLab.
 
+
 ### Senior Partner Help Desk Specialist
 
-The Senior Partner Help Desk Specialist reports to [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/).
+The Senior Partner Help Desk Specialist reports to Partner Helpdesk Manager.
 
 #### Senior Partner Help Desk Specialist Job Grade
 
@@ -57,6 +59,28 @@ The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/c
 * Extends that of the Partner Help Desk Specialist (Intermediate) requirements
 * 3+ years of experience with B2B sales.
 
+
+### Partner Help Desk Manager
+
+The Partner Help Desk Manager reports to [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/).
+
+#### Partner Help Desk Manager Job Grade
+
+The Senior Partner Help Desk Specialist is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+
+#### Partner Help Desk Manager Responsibiliites
+
+* Extends that of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist responsibilities
+* Manages  Partner Help Desk team members.  Establishes team OKRs and plans, and supports team in enablement and problem solving.  Ensures team results.
+* Collaborates with [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) in rolling out program updates, system enhancements and enablement offers. 
+* Leads cross-functional initiatives with Operations and Marketing teams.
+
+#### Partner Help Desk Manager Requirements
+
+* Extends that of the Senior Partner Help Desk Specialist requirements
+* Team leadership experience 
+* 5+ years of experience with B2B sales and/or sales or partner support.
+
 ## Performance Indicators
 * 80% of Partners trained / certified
 * Increase in number of Partner Initiated Opportunities
@@ -65,7 +89,7 @@ The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/c
 
 ## Career Ladder
 
-The next step in the Partner Helpdesk Specialist job family is not yet defined at GitLab.
+The next step in the Partner Helpdesk Specialist job family is is to move into the [Channel Programs and Enablement](https://about.gitlab.com/job-families/sales/director-channel-programs-and-enablement/), the [Channel Sales Manager](https://about.gitlab.com/job-families/sales/channel-sales-manager/) or the [Sales Operations](https://about.gitlab.com/job-families/sales/sales-operations/) Job Family.
 
 ## Hiring Process
 
