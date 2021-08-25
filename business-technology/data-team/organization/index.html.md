@@ -83,34 +83,28 @@ Data Team Demos are available in [our YouTube Channel](https://www.youtube.com/p
 ## Data Roles and Career Development
 
 ### [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
+
+```mermaid
+  graph LR;
+
+  subgraph Based on Merit &amp; Company Need
+    supe:de(Data Engineer)-->supe:sde(Senior Data Engineer);
+    supe:sde(Senior Data Engineer)-->supe:fde(Staff Data Engineer);
+    supe:fde(Staff Data Engineer)-->supe:pde(Principal Data Engineer);
+  end
+
+  click supe:de "/job-families/finance/data-engineer#data-engineer";
+  click supe:sde "/job-families/finance/data-engineer#senior-data-engineer";
+  click supe:fde "/job-families/finance/data-management#staff-data-engineer";
+  click supe:pde "/job-families/finance/data-engineer#principal-data-engineer";
+```
+
 ### [Data Analyst](https://about.gitlab.com/job-families/finance/data-analyst)
 ### [Data Scientist](https://about.gitlab.com/job-families/finance/data-scientist)
 ### [Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer)
 ### [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
 
-```mermaid
-  graph LR;
 
-  subgraph Merit Based
-    supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
-    supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
-  end
-
-  subgraph Based on Merit &amp; Company Need
-    supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
-    supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
-
-    supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
-    supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
-  end
-
-  click supe:se "/job-families/engineering/support-engineer#support-engineer";
-  click supe:sse "/job-families/engineering/support-engineer#senior-support-engineer";
-  click supe:sem "/job-families/engineering/support-management#support-engineering-manager";
-  click supe:stse "/job-families/engineering/support-engineer#staff-support-engineer";
-  click supe:ssem "/job-families/engineering/support-management/index.html.md#senior-support-engineering-manager"
-  click supe:ds "/job-families/engineering/support-management#director-of-support";
-```
 
 
 
