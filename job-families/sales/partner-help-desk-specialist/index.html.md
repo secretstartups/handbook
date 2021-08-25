@@ -66,7 +66,7 @@ The Partner Help Desk Manager reports to [Senior Director, Channel Programs and 
 
 #### Partner Help Desk Manager Job Grade
 
-The Senior Partner Help Desk Specialist is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Partner Help Desk Manager is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
 #### Partner Help Desk Manager Responsibiliites
 
