@@ -15,14 +15,14 @@ The mission of the GitLab product team is to consistently create products and ex
 _Partner with the Group Manager, Product Operations to maintain a prioritized Product Operations backlog focused on the areas below:_
 - [Operationalize Outcome Driven Products](https://about.gitlab.com/direction/product-operations/#operationalizing-outcome-driven-products)
    - Identify opportunities to automate GitLab product managers' [responsibilities](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-responsibilities) and [related tasks](https://about.gitlab.com/handbook/product/product-manager-responsibilities/#core-pm-tasks) to help drive consistency and efficiency across product management as a whole
-   - Improve the [release post](url) and [release notes](url) framework for Gitlab the company through process refinements and automation
+   - Improve the release post and release notes framework for Gitlab the company through process refinements and automation
    - Contribute to the definition and management of the GitLab [product development flow](https://about.gitlab.com/handbook/product-development-flow/)
    - Recommend and implement optimizations to the [product development timeline](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline)
 - [Build Qualitative & Quantitive Feedback Loops](https://about.gitlab.com/direction/product-operations/#building-qualitative--quantitative-feedback-loops)
    - Help streamline intelligence as a whole between product management and its stable counterparts within GitLab the company through process/frameworks refinements and automation
    - Leverage automation to boost internal and external knowledge about GitLab's key product communications such as:
      - Updates to product Vision/Strategy, Section Direction and monthly [kick-offs](/handbook/product/product-management/process/#kickoff-meetings)
-     - Presentation and discoverability of [release post](url) and [release notes](url)
+     - Presentation and discoverability of release post and release notes
      - Design and build systems to better share knowledge and align product management and its stable counterparts such as Marketing, Support, Sales and Customer Support
      - Develop tools for collecting and aggregating larger volumes of customer and user feedback from GitLab issues
    - Support maintenance and automation of [Product Operations owned surveys](https://about.gitlab.com/direction/product-operations/#product-operations-survey-results)

@@ -12,7 +12,7 @@ Executive Business Administrator's at GitLab toggle seamlessly between various s
 
 ### Executive Business Administrator (Associate) 
 
-Executive Business Administrators (Associate) report to the [Staff Executive Business Administrator to the CEO](/job-families/executive-business-administration/staff-executive-business-administrator-to-the-ceo) or a [Sr. Executive Business Adminstrator, Lead]. 
+Executive Business Administrators (Associate) report to the [Staff Executive Business Administrator to the CEO](/job-families/people-ops/executive-business-administrator/#staff-executive-business-administrator-to-the-ceo) or a [Sr. Executive Business Adminstrator, Lead]. 
 
 #### Executive Business Administrator (Associate) Job Grade
 
