@@ -80,11 +80,40 @@ Beyond the fore-mentioned engagement, we also have Monthly Release Communication
 
 Data Team Demos are available in [our YouTube Channel](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). Every GitLab Team Member is invited to attend our [weekly Data Team Demo session](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTAzMDRUMTYwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL).
 
-### Data Team Roles:
+## Data Roles and Career Development
 
-<div class="flex-row" markdown="0" style="height:80px">
-  <a href="https://about.gitlab.com/job-families/finance/data-analyst/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Data Analyst</a>
-  <a href="https://about.gitlab.com/job-families/finance/data-engineer/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Data Engineer</a>
-  <a href="https://about.gitlab.com/job-families/finance/manager-data" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Manager</a>
-  <a href="https://about.gitlab.com/job-families/finance/dir-data-and-analytics" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Director of Data & Analytics</a>
-</div>
+### [Data Engineering](https://about.gitlab.com/job-families/finance/data-engineer)
+### [Data Analyst](https://about.gitlab.com/job-families/finance/data-analyst)
+### [Data Scientist](https://about.gitlab.com/job-families/finance/data-scientist)
+### [Analytics Engineer](https://about.gitlab.com/job-families/finance/analytics-engineer)
+### [Data Management](https://about.gitlab.com/job-families/finance/manager-data)
+
+```mermaid
+  graph LR;
+
+  subgraph Merit Based
+    supe:si(Intern, Support Engineer)-->supe:se(Support Engineer);
+    supe:se(Support Engineer)-->supe:sse(Senior Support Engineer);
+  end
+
+  subgraph Based on Merit &amp; Company Need
+    supe:sse(Senior Support Engineer)-->supe:stse(Staff Support Engineer);
+    supe:sse(Senior Support Engineer)-->supe:sem(Support Engineering Manager);
+
+    supe:sem(Support Engineering Manager)-->supe:ssem(Senior Support Engineering Manager);
+    supe:ssem(Senior Support Engineering Manager)-->supe:ds(Director of Support);
+  end
+
+  click supe:se "/job-families/engineering/support-engineer#support-engineer";
+  click supe:sse "/job-families/engineering/support-engineer#senior-support-engineer";
+  click supe:sem "/job-families/engineering/support-management#support-engineering-manager";
+  click supe:stse "/job-families/engineering/support-engineer#staff-support-engineer";
+  click supe:ssem "/job-families/engineering/support-management/index.html.md#senior-support-engineering-manager"
+  click supe:ds "/job-families/engineering/support-management#director-of-support";
+```
+
+
+
+
+
+
