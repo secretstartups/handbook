@@ -55,6 +55,7 @@ If the user made a typo:
         - View User: `/chatops run user find <user or email>`
         - Edit Email: `/chatops run user update_email <username or current email> <new_eamil@example.com>`
 1. Ensure that it now shows the new email.
+1. Add an [admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html) to the account.
 
 ### Removing a Suppression in Zendesk
 
