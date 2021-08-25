@@ -38,7 +38,7 @@ delivered in an iteration, are independent "slices" of value that can be used by
 mocked UIs or backend-only work that is inaccessible), and when all delivered will completely
 fulfill the original issue's requirements.
 
-* EM output: Once all of the above requirements have been satisfied the EMs assign a frontend and backend engineer as respective DRIs to create Implementation Issues under the MVC epic(s). The Design issue created by UX is also closed at this point by the EM. 
+* EM output: Once all of the above requirements have been satisfied the EMs assign a frontend and backend engineer as respective [DRI](#epic-engineering-dri)s to create Implementation Issues under the MVC epic(s). The Design issue created by UX is also closed at this point by the EM. 
 
 * Engineering output: Frontend and backend DRIs [create implementation issue](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Implementation)s following the [Implementation template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Implementation.md) available for the Gitlab-org project issues. Once they are done, they unassign themself and move issues to the `workflow::refinement` state. 
 
@@ -198,6 +198,22 @@ The issue verification should be done by someone else other than the MR author[^
 1. An issue can be closed once it has been verified in production.
 
 [^4]: When the engineer who writes the code is the only one verifying it, it increases the chance of defects getting into production because when that engineer tests in a new environment, they are likely to try all the same attempts to break it as they did during writing the code, which does not bring any value. If a person who did not write the code verifies the resolution in a deployed environment, they will come in with a different perspective and is more likely to cover more test cases.
+
+## Epic Engineering DRI
+
+Once an Epic moves to the refinement stage, the EMs will assign someone as the DRI for each required tech stack.
+
+As the DRI for an Epic, the engineer is **not** responsible for executing all the work but they are responsible for:
+
+1. Suggesting the implementation issue breakdown and requesting feedback.
+1. Writing the agreed implementation issues.
+1. Identifying when further research is required and writing the spike issue(s).
+1. Making technical decisions.
+1. Providing status updates when requested.
+1. Identifying and communicating blockers.
+
+The DRI may choose to refine and work on the issues they created but they're not expected to
+deliver the whole Epic on their own.
 
 ## FAQs
 
