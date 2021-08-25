@@ -22,7 +22,7 @@ Finance Team Member on-boarding will include specific tasks and information to f
 
 -   a working style assessment using Simpli5
 
--   a view into the Finance Career Ladders and a view of the [Org Chart](https://about.gitlab.com/company/team/org-chart/)
+-   a view into the Finance Career Ladders and a view of the [Org Chart](https://comp-calculator.gitlab.net/org_chart)
 
 -   a link to read GitLab's take on [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#what-is-career-development)
 
@@ -40,18 +40,12 @@ Every individual is ultimately responsible for their career plan and managers ar
 
 **Cross Training, Mentorship and Shadow Programs**
 
-To align with career development plans, we will create opportunities for cross training with other team members. This will not only allow for knowledge transfer for growth, it will also allow leadership opportunities for team members that wish to train. 
- 
+To align with career development plans, we will create opportunities for cross training with other team members. This will not only allow for knowledge transfer for growth, it will also allow leadership opportunities for team members that wish to train.
+
 With the success of several mentorship programs at GitLab, we will create a [similar program for the Finance Org](/handbook/finance/growth-and-development/mentorship/). An example for us to align to is the [Women in Sales Mentorship Program](/handbook/people-group/women-in-sales-mentorship-pilot-program/#women-in-sales-mentorship-program-pilot).
 
 We will create opportunities to shadow finance leaders for team members to gain perspective and business acumen.
 
 **Training Aligned to GitLab L&D**
 
-To align and support the broader GitLab L&D efforts, we will promote the training made available by the People team. This will allow us to give back and contribute in a way that makes this program even stronger. We will also look for ways to create a curriculum that fits the different areas of the finance org. 
-
-
-
-
-
-
+To align and support the broader GitLab L&D efforts, we will promote the training made available by the People team. This will allow us to give back and contribute in a way that makes this program even stronger. We will also look for ways to create a curriculum that fits the different areas of the finance org.
