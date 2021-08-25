@@ -19,7 +19,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 ### 2021-08-30 Release ([Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
 **[GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
 
-Item 2 (issue link)
+**[Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
 
 Item 3 (issue link)
 
