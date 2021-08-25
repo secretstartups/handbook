@@ -1189,7 +1189,18 @@ As the DRI for prioritization, it is the Product Manager's job to prioritize for
 when it is needed. You should do so by ensuring you prioritize a deliverable, and its dependencies,
 so that it can reasonably be expected to be delivered by any committed dates. If there is time pressure to hit a date, the PM should also explore de-scoping the issue to meet the deadline, rather than pressuring engineering to move abnormally fast or cut corners.
 
-#### Headcount Resets
+#### Private tools and dashboards for monitoring and KPI tracking
+
+These information sources may be useful to help you prioritize.
+
+- [Feature usage](https://redash.gitlab.com/dashboard/feature-adoption)
+- [EE usage](https://version.gitlab.com/): dev.gitlab.org account
+- [Grafana](https://dashboards.gitlab.net): Google gitlab.com account
+- [Kibana](https://log.gprd.gitlab.net): dev.gitlab.org account
+- [S3stat](https://www.s3stat.com): GitLab 1Password account
+- [Sentry](https://sentry.gitlab.net): dev.gitlab.org account
+
+### Global Prioritization
 {: #prioritize-global}
 
 Individual product managers must consider, and advocate for [global optimizations](/handbook/values/#results)
@@ -1222,8 +1233,33 @@ review and refinement. If a global optimization which spans beyond your
 Department leaders is required, then the Senior Director of Engineering, VP of
 Product, and VP of Engineering should be pinged.
 
-Please note: this is now called a "Headcount Reset" because it shifts team members from one team to another, and can have significant opportunity costs.
-Taking people who are familiar with a task and putting them on a new, unfamiliar task instead of new hires (who are also not familiar with the task) is inefficient. Recommend to follow [this issue format](https://gitlab.com/gitlab-com/Product/-/issues/501) for headcount reset requests, creating private issues as we plan changes and then publish the issue out once done.
+There are two ways to swarm on top priority issues: multi-group swarm and headcount resets.
+
+#### Multi-group Swarm
+
+[Development groups operate on the principle of stable counterparts](https://about.gitlab.com/company/team/structure/#product-groups), enabling them to be efficient, effective, and iterative. When a global top-priority item is identified (by individual groups), PMs and EMs are encouraged to seek ways they can contribute to that top priority via a multi-group swarm.
+
+Unlike a Headcount Reset, no team members change teams. Rather EMs and PMs work together with their existing group to deliver the work. As such, there will be additional coordination overhead between the groups. If there is a concern of coordination overhead, the Eng leader is the DRI to make a decision on whether or not to proceed with a multi-group swarm.
+
+The benefit of working this way is that cross-group collaboration occurs while resolving pressing issues. Over time, this helps foster more collaboration, shared understanding, and resilience between the development groups. Multi-group swarms are temporary and teams can return to their normal operation when issues are resolved.
+
+In coordination with Engineering leadership, the supporting group's PM is responsible for determining how much capacity to dedicate to the swarm. The supporting group's EM is responsible for providing a recommendation on the length of time to be in a swarm based on the required capacity needed for the effort. 
+
+The group that is requesting the swarm is the **initiating group**. The group(s) that support the initiating group are **supporting groups**.
+
+##### Multi-group coordination
+
+We recommend the following process to facilitate coordination:
+1. Create an issue or epic describing the swarm to provide supporting groups with context, scope, and expectations.
+1. The initiating team should organize work to be done, so that other groups can self serve to help.
+1. The initiating team will designate DRI(s) that helping teams can ping for support.
+1. The supporting groups review the prioritized issues, and the EMs add their group label to the issues they want to own.
+
+#### Headcount Resets
+
+A Headcount Reset is when team members are shifted from one team to another temporarily.  
+
+It is recommend that PMs follow [this issue format](https://gitlab.com/gitlab-com/Product/-/issues/1455) for headcount reset requests, creating private issues as we plan changes and then publish the issue out once done.
 
 ##### When Requiring Specialty
 
@@ -1244,17 +1280,6 @@ Week 1 is the first week a new hire joins the team.
 | Onboarding | Week 1 ~ 3 | On-loan engineer works full-time on receiving team to bring up new hire. | New hire's first week priority is onboarding. |
 | Collaboration | Week 4 ~ 5 | On-loan engineer works half-time on receiving team while new hire is able to submit MRs of low complexity issues. | On-loan engineer's time may be dedicated completely in pair programming or code review, not necessarily making direct contribution to issues. |
 | Handoff | Week 6 ~ 8 | New hire is now the owner. On-loan engineer transitions to a consultant role, reverting back to full-time in original team. |  |
-
-#### Private tools and dashboards for monitoring and KPI tracking
-
-These information sources may be useful to help you prioritize.
-
-- [Feature usage](https://redash.gitlab.com/dashboard/feature-adoption)
-- [EE usage](https://version.gitlab.com/): dev.gitlab.org account
-- [Grafana](https://dashboards.gitlab.net): Google gitlab.com account
-- [Kibana](https://log.gprd.gitlab.net): dev.gitlab.org account
-- [S3stat](https://www.s3stat.com): GitLab 1Password account
-- [Sentry](https://sentry.gitlab.net): dev.gitlab.org account
 
 ### Managing creation of new groups, stages, and categories
 
