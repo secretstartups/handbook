@@ -33,7 +33,7 @@ A complete list of Dashboards, including SAFE Dashboards, is available in the [G
 
 ### Accessing a SAFE Dashboard
 
-Access to a SAFE Dashboard requires your immediate manager's approval, Departmental VP (or equivalent) approval, and approval of the SAFE Space Owner defined in the GitLab Dashboard Index. To gain access to a specific SAFE Dashboard:
+Access to a SAFE Dashboard requires your immediate manager's approval, Departmental VP (or equivalent) approval, and approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index. To gain access to a specific SAFE Dashboard:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and specify the Dashboard Name(s) as listed in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index)
 2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header
