@@ -89,6 +89,7 @@ Our Enterprise Applications team is made up of a combination of roles to best su
 1. Zuora
 1. Z-Revenue (RevPro)
 1. Netsuite
+1. Coupa
 1. Tipalti
 1. Expensify
 1. Stripe
