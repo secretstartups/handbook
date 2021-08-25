@@ -97,8 +97,6 @@ No, not at this time.
 
 | Week of | Shadow |
 | ------ | ------ |
-| 8/23/2021 | Open |
-| 8/30/2021 | Time off |
 | 9/6/2021 | Open |
 | 9/13/2021 | Open |
 | 9/20/2021 | Open |
