@@ -319,7 +319,7 @@ responsibility, willingness of GitLab team-members to teach new GitLab team-memb
 1. Hire in departments that need more GitLab team-members.
   * We understand that there is always a lot to do at GitLab and for some departments this means that we might need to hire more GitLab team-members. If this is the case please communicate this to your manager and/or People Ops. If appropriate People Ops will [open the role](/handbook/hiring/#vacancy-creation-process), and add it to the [jobs page](/jobs/).
 1. Refine onboarding to be less intense/intimidating.
-  * Onboarding can be overwhelming and sometimes confusing. To alleviate confusion about what you are doing and why, we created an [Onboarding](/handbook/people-group/general-onboarding/onboarding-101/) guide to explain each step. Update: This page has been moved to [Onboarding](/handbook/people-group/general-onboarding/).
+  * Onboarding can be overwhelming and sometimes confusing. To alleviate confusion about what you are doing and why, we created an [Onboarding](/handbook/people-group/general-onboarding/) guide to explain each step. Update: This page has been moved to [Onboarding](/handbook/people-group/general-onboarding/).
 1. Move unlimited vacation to a set amount so GitLab team-members take their full vacation.
   * We are taking a look at what the best option is in regard to a limited or unlimited vacation. We want to urge that GitLab team-members take enough [time off](/handbook/paid-time-off) to recharge! Unlimited vacation/taking vacation is encourage at GitLab. For information on how these developments are going, check out the open [issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues/952)
 1. Less downtime on GitLab.com.
