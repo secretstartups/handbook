@@ -46,7 +46,7 @@ Additional controls include:
 * Every query/user/process is assigned a [pre-defiend Warehouse, or Compute Resource](/handbook/business-technology/data-team/platform/#compute-resources)
 * (Passwords are rotated)[/handbook/business-technology/data-team/platform/#passwords]
 
-### General Data Security Controls
+## General Data Security Controls
 
 * For the purpose of defining Data Controls, the Enterprise Data Platform is a [Tier 1 system](/handbook/engineering/security/security-assurance/security-risk/storm-program/critical-systems.html). 
 * `IMPORTANT`: [Customer Private RED data](/handbook/engineering/security/data-classification-standard.html#red) is prohibited from permanent storage in the Enterprise Data Platform.
@@ -77,3 +77,30 @@ Additional controls include:
 * **Data Infrastructure**: includes any systems with interact access or process data as part of a Data Warehouse and makes data available to end users.
 * **Data Warehouse Controls**: The Enterprise Data Warehouse is a Tier 1 System.
 * **Endpoint Devices**: All Endpoints Which Have Access To The Data Warehosue are Classified as Tier 1
+
+## Quarterly Data Health and Security Audit
+
+A **Quarterly Audit** is performed to validate system security, such as ensuring the right people have correct data access configuration and data pipelines are running correctly.
+
+The process is supported by the [Quarterly Data Health and Security issue template](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Quarterly%20Data%20Health%20and%20Security%20Audit.md). 
+ 
+Here is a sample checklist of activities:
+ 
+* [ ] **Snowflake**
+     - Deactivate off-boarded employees from Snowflake
+     - All Snowflake accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Snowflake.
+     - Any named user Snowflake account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     - Validate all user accounts require multi-factor authentication.
+
+* [ ] **Sisense**
+     - Deactivate off-boarded employees from Sisense.
+     - All Sisense accounts from GitLab team members that are off-boarded, should be deactived from the day they are off-boared. This activity checks for any active accounts for off-boared GitLab team members. Subsequently any active account will be deactivated. 
+     - Deactivate any account, that has not logged-in within the past 60 days from the moment of performing an audit, from Sisense.
+     - Any Sisense account that hasn't logged for more than 60 days will be deactivated. After deactivation, the user will be informed. If a GitLab team member wants to have access provsioned back again, a regular AR needs to be created. After manager approval the account will be activated. 
+     -  Validate all user accounts require multi-factor authentication.
+ 
+* [ ] **Trusted Data**
+     - Review all Golden Record TD tests and make sure they're passing.
+     - Review Data Siren to confirm known existence of RED data.
+     - Generate a report of Business logic changes to the TD: Sales Funnel dashboard in the quarter. Business logic such as adding new dimensions, new facts, new marts, changing joins, adding new calculated fields.
