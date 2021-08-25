@@ -112,7 +112,9 @@ If the offer is for a manager or individual contributor, the CPO or CEO do not n
 
 ### Communicating the Offer
 
-Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. It is also important when communicating the offer to go over the candidate’s [employment type](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) and [benefits](/handbook/total-rewards/benefits/).
+Once the offer package has been approved by the approval chain, the verbal offer will be given, which will be followed by an official contract, which is sent through Greenhouse. During the verbal offer, it is important that the Recruiter or individual making the offer, communicate to the candidate that we will never expect anyone to join on a National Holiday in their location and if they can therefore confirm a viable start date. The earliest start date will be determined by the contract type. PEOs need up to 10 business days to share a contract with a prospective team member. It's important to consider this timeline when deciding on a start date. 
+
+It is also important when communicating the offer to go over the candidate’s [employment type](/handbook/people-group/employment-solutions/#team-member-types-at-gitlab) and [benefits](/handbook/total-rewards/benefits/).
 
 You can find more about making a verbal offer [here](/handbook/hiring/talent-acquisition-framework/req-overview/#step-11-verbal-offer).
 
