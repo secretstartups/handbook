@@ -77,10 +77,6 @@ The Senior Anti-Abuse Analyst is responsible for leading and implementing the va
 ### Security Compliance
 See [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
 
-### Risk and Field Security
-See [Risk and Field Security](https://about.gitlab.com/job-families/engineering/risk-field-security/)
-
-
 ### External Communications
 The External Communications Team leads customer advocacy, engagement and communications in support of GitLab Security Team programs. Initiatives for this specialty include:
 
