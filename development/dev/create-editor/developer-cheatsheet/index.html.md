@@ -78,24 +78,53 @@ See more detailed instructions for this process here: <https://gitlab.com/gitlab
 
 #### RubyMine Debugging
 
-You can stop the GDK rails process using:
+##### Note on Rails Puma binding
 
-```
-gdk stop rails-web
-```
+By default, the Rails [puma configuration template which GitLab uses binds to a socket](https://gitlab.com/gitlab-org/gitlab-development-kit/blob/d948d5485e3f519688783dc92ad70d94f132e396/support/templates/puma.rb.erb#L44), instead of a TCP port.
 
-Then start a Rails debug server in RubyMine using the process below.
+[This MR](https://gitlab.com/gitlab-org/gitlab-development-kit/-/merge_requests/1693) added support for configuring the GDK to bind Rails puma to a TCP socket, and added support for Workhorse to use TCP ports instead of sockets.
 
-**NOTE ON WORKHORSE USING TCP PORTS: It is not currently possible to use a standard "Rails" Run/Debug configuration because of this RubyMine bug: [https://youtrack.jetbrains.com/issue/RUBY-27404](https://youtrack.jetbrains.com/issue/RUBY-27404). You can use the workaround below to run it as a "Ruby" Run/Debug config. However, even with the bug, the workaround below may not be necessary since this MR was merged to allow configuration of Workhorse to use TCP ports instead of sockets: <https://gitlab.com/gitlab-org/gitlab-development-kit/-/merge_requests/1693>. TODO: Need to try it out...**
+See the [architecture documentation around components](https://docs.gitlab.com/ee/development/architecture.html#components) for more details on how GitLab Workhorse and Puma work together.
 
-Workaround: you can still connect to workhorse on port 3000 using a Ruby (NOT Rails) Run/Debug config:
+Why is all of this important?
 
-1. Make sure you have done `gdk stop rails-web`
+Because unfortunately, because of [this RubyMine bug (https://youtrack.jetbrains.com/issue/RUBY-27404)](https://youtrack.jetbrains.com/issue/RUBY-27404), it is not possible to use the default RubyMine `Rails` Run Configuration with a puma configuration which uses a socket binding. (NOTE: If you want this fixed, please go to the issue and thumbs-up to vote for it!) 
+
+So, you have two choices to work around this:
+
+1. Set up a RubyMine "Ruby" Run Configuration to directly run puma using the default socket binding. Even though this is a slightly more complex config in RubyMine, it is recommended, because it will still continue working even if you reinstall your GDK and lose the overridden config to bind puma to a TCP port.
+1. Configure the GDK to bind puma to a TCP port, and set up a RubyMine "Rails" Run Configuration for that port. This may also be useful for other debugging scenarios, like being able to use Wireshark to debug TCP traffic.
+
+Note that you **COULD** just not worry about any of this, and run a normal RubyMine "Rails" Run Configuration without changing the GDK config, and directly connect to the port it uses (by default 3000). However, this means that you won't be connecting and proxying through the GitLab Workhorse according to the [standard component architecture](https://docs.gitlab.com/ee/development/architecture.html#components), and some features may be slower, work differently, or not work at all. So, it's safer to go ahead and do one of these two suggested options to use a standard configuration running puma behind the Workhorse proxy.  
+
+The following two sections explain how to do those two options.
+
+##### Setting up a RubyMine "Ruby" Run Configuration with puma using default socket binding (recommended)
+
+1. Make sure you have done `gdk stop rails-web` before each debugging session (and `gdk start rails-web` when you are done debugging)
 1. Set up a Ruby (NOT Rails) Run/Debug config like this in RubyMine:
+    - Name: `Development: gitlab-puma (use if gdk.yml gitlab rails address IS NOT overridden to use TCP port)`
     - Ruby Script (Note: This is actually from the `gitlab-puma` gem): `/Users/YOUR_USER/.asdf/installs/ruby/RUBY_VERSION/bin/puma`
     - Script Arguments: `--config /Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/config/puma.rb --environment development`
     - Working Directory: `/Users/YOUR_USER/PATH_TO/gitlab-development-kit/gitlab/`
-    - Environment Variables (Note: these are taken from the current GDK Procfile, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
+    - Environment Variables (Note: these are taken from the current GDK `Procfile`, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
+1. Start the config in Run or Debug.
+
+##### Setting up a RubyMine "Rails" Run Configuration with puma overridden to use TCP address binding
+
+1. In your `gitlab-development-kit/gdk.yml`, add the following. You can use any port, and the hostname should be whatever you normally use - localhost, or gdk.test if you have that hostname set up.
+    ```
+    gitlab:
+      rails:
+        address: gdk.test:3001
+    ```
+1. `gdk reconfigure` to apply the settings to the `bind` entry in `gitlab-development-kit/gitlab/config/puma.rb`
+1. Make sure you have done `gdk stop rails-web` before each debugging session (and `gdk start rails-web` when you are done debugging)
+1. Set up a Rails Run/Debug config like this in RubyMine:
+    - Name (optional): `Development: gitlab (use if gdk.yml gitlab rails address IS overridden to use TCP port)`
+    - IP Address: `0.0.0.0`
+    - Port: `3001` (or whatever you put in `gdk.yml`)
+    - Environment Variables (Note: these are taken from the current GDK `Procfile`, they may become outdated): `RAILS_ENV=development;RAILS_RELATIVE_URL_ROOT=/;ACTION_CABLE_IN_APP=true;ACTION_CABLE_WORKER_POOL_SIZE=4`
 1. Start the config in Run or Debug.
 
 ## Git Tips
