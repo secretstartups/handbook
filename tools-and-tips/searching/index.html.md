@@ -54,7 +54,7 @@ The steps below show you how to set up a keyword search for searching the GitLab
 
 | Step | Image |
 |---|---|
-| 1. Right-click on the address bar in Chrome and select `Edit Search Engines...` | ![Edit search engine](/images/handbook/tools-and-tips/searching/1_edit_search_engine.png) |
+| 1. Right-click on the address bar in Chrome and select `Manage Search Engines...` | ![Manage search engine](/images/handbook/tools-and-tips/searching/1_manage_search_engine.png) |
 | 2. In the new search engines page, click the `Add` button | ![Add search engine](/images/handbook/tools-and-tips/searching/2_add_search_engine.png) |
 | 3. In the new `Add search engine` dialog, enter the following then click `Add`: <br> a. `GitLab handbook` in *Search Engine* <br> b. `hb` in *Keyword* <br> c. `/handbook/#stq=%s` in *URL* | ![Enter search engine details](/images/handbook/tools-and-tips/searching/3_enter_search_engine_details.png) |
 
