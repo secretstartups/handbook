@@ -340,7 +340,7 @@ but as always check with your financial or tax advisor before taking any action.
 ## Taxes
  
 Tax law is complex and you should consult a tax attorney or other tax advisor who is
-familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](/handbook/tax/stock-options/) page for more information on taxation of stock options.
+familiar with startup stock options before making any decisions. Please go to the [tax team's stock options](/handbook/tax/stock-options/) page for more information about the taxation of stock options.
  
 ### US employees with Incentive Stock Options (ISOs)
  
@@ -369,13 +369,13 @@ For non-employees of GitLab that have been granted stock options, their stock op
  
 Since GitLab's stock options are not actively traded on an established market, the NSO is taxed at exercise. The gain of the exercise (fair market value minus the exercise price) has to be reported by [form 1099-MISC (box 7)](https://www.irs.gov/pub/irs-pdf/f1099msc.pdf). Withholding is typically not required, however when the service provider fails to provide a valued tax identification number in form 1099, GitLab has to ensure backup withholding (roughly 25%).
  
-### Netherlands, Germany and Australia
+### Netherlands and Germany
  
-For our employees based in the Netherlands, Germany and Australia, the difference between the exercise price and the fair market value is considered taxable at the date you exercise your stock options. With respect to reporting taxes: the taxable gains are subject to employer tax withholding. The tax payable is therefore deducted from your gross payroll with respect to the exercise of your stock options.
+For our employees based in the Netherlands and Germany, the difference between the exercise price and the fair market value is considered taxable at the date you exercise your stock options. With respect to reporting taxes: the taxable gains are subject to employer tax withholding. The tax payable is therefore deducted from your gross payroll with respect to the exercise of your stock options.
  
 ### The United Kingdom
  
-In the United Kingdom there is a small difference in the tax treatment of exercising your stock options as opposed to the other entities; the difference between the fair market value and the exercise price is taxed through payroll at the date of exercise if there is a liquid market for the stock at time of exercise. If there is no liquid market, income tax will likely still be due but the team member will need to settle this directly with HMRC. For more information please check [our memo on this](/handbook/tax/#international-territory).
+In the United Kingdom there is a small difference in the tax treatment of exercising your stock options as opposed to the other entities; the difference between the fair market value and the exercise price is taxed through payroll at the date of exercise if there is a liquid market for the stock at time of exercise. If there is no liquid market, income tax will likely still be due but the team member will need to settle this directly with HMRC. For more information please check [UK's stock option page](/handbook/tax/stock-options/unitedkingdom/).
  
 ## Dual-Class Stock
  
