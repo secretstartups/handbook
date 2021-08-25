@@ -23,3 +23,8 @@ title: "R&D Finance"
 | Incubation Engineering | @cbennett3 | Sr. FP&A |
 | Product | @JonathanMiller | FP&A Manager |
 | Customer Support | @cbennett3 | Sr. FP&A |
+
+## Common Links
+
+- [Financial Planning & Analysis (FP&A)](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
+- [Finance Issue Tracker](https://gitlab.com/gitlab-com/finance/issues)
