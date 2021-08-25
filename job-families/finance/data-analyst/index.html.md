@@ -107,13 +107,41 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 * Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems
 * Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment; Maintain and advocate for these standards through code review
 * Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions
-* Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities
+* Provide mentorship for Junior and Intermediate Analysts on your team to help them grow in their technical responsibilities
 * Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
 * Build close relationships with other functional teams to truly democratize data understanding and access
 * Influence and implement our service level framework [SLOs](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source) and SLAs for our data sources and data services
 * Identifies changes for the product architecture and from third-party services from the reliability, performance and availability perspective with a data driven approach focused on relational databases, knowledge of another data storages is a plus
 * Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make compute queries cheaper
 * Participate in [Data Quality Process](/handbook/business-technology/data-team/data-quality/) or other data auditing activities
+
+### Staff Data Analyst
+
+The Staff Data Analyst reports to the department manager or director.
+
+#### Staff Data Analyst Job Grade
+
+The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Staff Data Analyst Responsibilities
+
+* Extends that of the Data Analyst (Senior) responsibilities
+
+#### Staff Data Analyst Requirements  
+
+* Extends that of the Data Analyst (Senior) requirements
+* Advocate for improvements to data quality, security, and performance that have particular impact across the company as a Subject Matter Expert (SME)
+* Solve the most difficult technical problems
+* Exert influence on the long-range goals of the wider department and the company as a whole
+* Thorough understanding of the code base in order to drive new data innovation
+* Extensive experience with performance and optimization problems at large scale, and a demonstrated ability to both diagnose and prevent these problems
+* Drive continous improvements in our internal standards for style, maintainability, and best practices for a high-scale web environment
+* Provide mentorship for the entire team to help them grow in their technical responsibilities
+* Leads data analytics projects with minimal guidance
+* Leads cross-functional projects in collaboration with others in the company
+* Leads data software/platform evaluations and implementations
+* Build close relationships with other functional teams to increase the data analytics capabilities across the company
+* Define and lead the [Data Quality Process](/handbook/business-technology/data-team/data-quality/) or other data auditing activities
 
 ## Specialties
 
@@ -196,7 +224,7 @@ The next step in the Data Analyst job family is to move to the [Data Management]
 
 * Selected candidates will be invited to fill out a short questionnaire.
 * Next, candidates will be invited to schedule a screening call with our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with our Senior Director, Data and Analytics
+* Next, candidates will be invited to schedule a first interview with our Senior Director, Data and Analytics or Managers, Data
 * Next, candidates will be invited to schedule a second interview with the business division DRI
 * Next, candidates will be invited to schedule a third interview with one a member from our Data team
 * Next, candidates will be invited to schedule a fourth interview with a specialty Engineering manager
