@@ -406,7 +406,7 @@ When adding an image to a webpage, be sure that you optimize the image first.
 
 ### Updating the team page and org chart
 
-1. Both the [team page](/company/team/) and [org chart](/company/team/org-chart/) are updated based on your individual [team member .yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team_members/person).
+1. Both the [team page](/company/team/) and [org chart](https://comp-calculator.gitlab.net/org_chart) are updated based on your individual [team member .yml file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/team_members/person).
 1. Follow the directions to [add or update your team page entry](https://about.gitlab.com/handbook/git-page-update/#12-add-yourself-to-the-team-page).
 
 ### Updating the homepage promo banner (`hello-bar`)
@@ -516,7 +516,7 @@ This list is used in the automated triage operation ["Stage and group labels inf
 - `ux_scorecard_link`: should link to the specific issue for the scorecard for this category. More details on [UX Scorecards here](https://about.gitlab.com/handbook/engineering/ux/ux-scorecards/#setup)
 - `dogfooding_status`: values can be `planned`, `limited`, and `exclusive`. Described in detail and used on `/source/direction/dogfooding`
 - `dogfooding_issue`: should link to the specific issue tracking dogfooding for this issue, per the [Dogfooding process](/handbook/product/product-processes/#dogfooding-process)
-- `dogfooding_group`: should list the right group/team/role/individual inside GitLab that should use the capability 
+- `dogfooding_group`: should list the right group/team/role/individual inside GitLab that should use the capability
 
 #### Working with category maturity
 
@@ -809,16 +809,16 @@ Read the [Netlify CMS handbook page](/handbook/marketing/netlifycms/) for up to 
 If you're interested in getting a pulse on how recently the marketing website has been updated you can use a quick script to create a CSV in your local tmp/ folder with file names and their last commit date. Run it from the root directory of www-gitlab-com on your local machine:
 
 ```
-ruby scripts/get-most-recent-commits.rb 
+ruby scripts/get-most-recent-commits.rb
 ```
 
 It doesn't exactly map to URLs on about.GitLab.com, but this should be able to give you a pulse of what gets updated and how frequently. It only checks files in `data/` and `sites/uncategorized/` for now. For each file tracked in git in both of those folders, it grabs the file name and its most recent commit date (as known to git on your machine - so it will be incorrect if you haven't recently fetched or pulled from master).
 
-Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for https://about.gitlab.com/topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files. 
+Most of the `data/` files map closely to a URL on the website. For instance, `data/topic/ci-cd.yml` is the data for https://about.gitlab.com/topics/ci-cd/. So you should be able to scan through the CSV and get a good sense of how recently we've updated data files.
 
-The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `https://about.gitlab.com/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages. 
+The files in `sites/uncategorized` are a little more complex. Some of them are straightforward, like `sites/uncategorized/source/get-started/index.html.md` is `https://about.gitlab.com/get-started/`. Others are a little more meta, but still give you good information, like `sites/uncategorized/source/includes/cms/topic/body.html.haml` will tell you how recently we have updated the layout for the body partials of the aforementioned topic pages.
 
-Getting a direct mapping of each URL and its corresponding files is possible, but not practical. The only way we can find that out is by hooking into the [Middleman sitemap](https://www.rubydoc.info/gems/middleman-core/Middleman/Sitemap), which is [only available to us in templates](https://middlemanapp.com/advanced/sitemap/#accessing-the-sitemap-from-code). That means we have to have a Middleman instance running (or run the build process). But getting the most recent commit date requires having Ruby run a [system call](https://www.rubyguides.com/2018/12/ruby-system/) to run `git log -1 --format=%cd --date=short /path/to/file` for each and every file. It takes a long time, and including that in Middleman somewhere would impact the overall pipeline negatively. 
+Getting a direct mapping of each URL and its corresponding files is possible, but not practical. The only way we can find that out is by hooking into the [Middleman sitemap](https://www.rubydoc.info/gems/middleman-core/Middleman/Sitemap), which is [only available to us in templates](https://middlemanapp.com/advanced/sitemap/#accessing-the-sitemap-from-code). That means we have to have a Middleman instance running (or run the build process). But getting the most recent commit date requires having Ruby run a [system call](https://www.rubyguides.com/2018/12/ruby-system/) to run `git log -1 --format=%cd --date=short /path/to/file` for each and every file. It takes a long time, and including that in Middleman somewhere would impact the overall pipeline negatively.
 
 In the future, we could explore a [custom Middleman extension](https://middlemanapp.com/advanced/custom-extensions/) that provides your data through the interface like `http://localhost:7654/__middleman` has for most of the other config. But it would still be as slow as the system calls take (which is about 20ish minutes for the actual entire sitemap including handbook. Closer to 5-10 minutes for just marketing).
 
