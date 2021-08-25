@@ -308,7 +308,7 @@ Based on their business objectives, assess interest in learning more on theses t
    * [Shift security left](https://docs.google.com/presentation/d/1iH7DbyDMX9kvTWUz2rh0Da9xPTHqZdNfGY70DfiAMPY/edit?usp=sharing)
    * [HackerOne case study](https://about.gitlab.com/customers/hackerone/)  
 * **If Priority = consistency/compliance** then use:    
-   * [Auditing and Compliance reporting](link), Sam Kerr, PM.   
+   * [Auditing and Compliance reporting], Sam Kerr, PM.   
    * Security of software supply chain (deck coming soon), Cindy Blake, PMM    
 * **If Priority = predictable cost to scale** then ask for ROI discussion - see meeting 3   
 * **If Priority = vulnerabilities/risk** then use:     
