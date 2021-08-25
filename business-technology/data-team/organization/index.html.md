@@ -16,7 +16,7 @@ description: "GitLab Data Team Organization"
 
 ## Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform-team).
+The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform & Engineering Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform--engineering-team).
 
 ```mermaid
 classDiagram
@@ -39,18 +39,7 @@ classDiagram
     Platform : +Data Engineer
   ```
 
-### Fusion Team Assignments
-
-| **GTM** | **R&D** | **G&A** |
-| ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@rparker2` (Acting) _Lead/DRI_ | 
-| `@ken_aguilar` |  `@snalamaru` |  |
-| `@jeanpeguero` | `@mpeychet` |  |
-| `@michellecooper` | `@chrissharp` | |
-| `@paul_armstrong` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| `@rbacovic` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| |  
-| | | |
-						
-## How Data Fusion Teams Work
+Data Fusion Teams are described in our 
 
 Critical to successful Data Fusion Teams are the following elements:
 
@@ -67,6 +56,19 @@ We encourage our stakeholders to follow along with our issue boards to understan
 3. [G&A](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People) 
 
 <!-- need to update boards potentially based on new label names -->
+
+
+### Fusion Team Assignments
+
+| **GTM** | **R&D** | **G&A** |
+| ----- | ----- | ----- |
+| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@rparker2` (Acting) _Lead/DRI_ | 
+| `@ken_aguilar` |  `@snalamaru` |  |
+| `@jeanpeguero` | `@mpeychet` |  |
+| `@michellecooper` | `@chrissharp` | |
+| `@paul_armstrong` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| `@rbacovic` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| |  
+| | | |
+						
 
 ### Visibility
 
