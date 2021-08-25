@@ -146,14 +146,16 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 <details>
   <summary markdown='span'>
-    Don't use third-party materials (including images, videos, or text) without permission from the owner
+    Don't use third-party materials (including images, videos, or text) without permission from the owner 
   </summary>
 <ul>
 <li>Images, videos, and text, even if posted publicly on the internet, are copyright-protected materials and should not be used without the permission of the owner.</li>
 
 <li>If you're unable to obtain permission from the owner, hyperlink to the relevant material rather than copying it.</li>
 
-<li>Consider using a source of permissively-licensed images, like [unsplash.com](https://unsplash.com/), which provides free to use materials which [do not require attribution](https://unsplash.com/license).</li>
+<li>Consider using a source of permissively-licensed images, like <a href="https://unsplash.com/">unsplash.com</a>, which provides free to use materials which <a href="https://unsplash.com/license">do not require attribution</a>.</li>
+
+<li>You can (and are encouraged to)share GitLab-made assets even if these contain third-party materials</li>
 
  <li>If you're unsure what's permissible, reach out to the #legal Slack channel.</li> 
 </ul>
@@ -162,7 +164,7 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 <details>
   <summary markdown='span'>
-    Don't create images with or manipulate third-party logos without the permission of the owner
+    Don't create images with, or manipulate, third-party logos without the permission of the owner
   </summary>
 <ul>
 <li> Logos (including those indicating companies, and products and services) are registered trademarks. You must obtain the consent of the owner before using, for any purpose, any third-party logo.</li>
@@ -170,6 +172,8 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 <li>If you're wanting to share content from GitLab's website or social channels and it has logos or trademarks from other companies, this is okay to use. The various marketing teams at GitLab are responsibile for confirming the company's use of these logos and trademarks and sharing links or images that GitLab produced does not violate this policy.</li>
 
 <li>You can refer to other companies, or products and services, by name (without using a logo) provided that (i) the company, product or service in question could not easily be identified without using its name; and (ii) your use does not imply endorsement by, or affiliation with, the trademark owner.</li>
+
+<li>You can (and are encouraged to)share GitLab-made assets even if these contain third-party logos</li>
 
 <li>If you're unsure what's permissible, reach out to the #legal Slack channel.</li>
 </ul>
