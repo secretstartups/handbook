@@ -18,7 +18,7 @@ With a great team make a popular next generation product that grows revenue.
 
 ## Objective 1: Grow incremental ACV according to plan.
 
-* CEO: Build [sales qualified leads (SQL)](/handbook/marketing/business-development/#sql) pipeline for new business. 300% of [incremental annual contract value (IACV)](/handbook/finance/#iacv) plan
+* CEO: Build sales qualified leads (SQL) pipeline for new business. 300% of [incremental annual contract value (IACV)](/handbook/finance/#iacv) plan
   * CMO: Identify CE installations within strategic organizations with installations with over 500 users and launch demand generation campaigns. => Achieved. 50 SQOs generated.
   * CMO: More demand coming from inbound marketing activities. 50% of sales pipeline quota. => Achieved on SQL $, miss on #
     * CMO: Increase EE Trials. 21% Quarter over Quarter (QoQ) => [Miss](https://gitlab.com/gitlab-com/marketing/issues/1458)
@@ -183,7 +183,7 @@ With a great team make a popular next generation product that grows revenue.
 * CEO: Effective leadership. NPS of leaders as rated by their reports 10% improvement. Update: This will be pushed back until [360 reviews](/handbook/people-group/360-feedback/) are established in 2018.
   * VP PO: Management completed basic management (MGR) classes. 75% completed
   * VP PO: 5 GitLab specific courses for the management team.  Published and delivered.
-  * CFO: [Real-time analytics platform](/handbook/finance/analytics/). 40% of metrics live 50% ACHIEVED - 20% OF METRICS
+  * CFO: Real-time analytics platform. 40% of metrics live 50% ACHIEVED - 20% OF METRICS
 * CEO: Attract great people. New hire score 2% improvement
   * VP PO: More sourced recruiting. 20% of total hires
   * VP PO: Hires from lower cost locations. 20% increase
