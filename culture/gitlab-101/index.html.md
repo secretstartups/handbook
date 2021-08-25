@@ -9,12 +9,12 @@ canonical_path: "/company/culture/gitlab-101/"
 
 ### CEO 101
 
-There is a quarterly GitLab CEO 101 call with new hires and the CEO. This is a zoom call that will be recorded and uploaded to Unfiltered on YouTube. Please read the history and values links provided below and come prepared with questions added to the notes doc included in the calendar invite. Questions that are more personal in nature or around family and friends are also welcomed and encouraged (example: What is your favorite food? Where is your favorite place to travel?) The call will be driven by questions asked by new team members. 
+There is a quarterly GitLab CEO 101 call with new hires and the CEO. This is a zoom call that will be recorded and uploaded to Unfiltered on YouTube. Please read the history and values links provided below and come prepared with questions added to the notes doc included in the calendar invite. Questions that are more personal in nature or around family and friends are also welcomed and encouraged (example: What is your favorite food? Where is your favorite place to travel?) The call will be driven by questions asked by new team members.
 
 1. Questions about GitLab history [/company/history/](/company/history/)
 1. Questions about our values [/handbook/values](/handbook/values/)
-1. Team structure [/company/team/structure/](/company/team/structure/) or [organization chart](/company/team/org-chart)
-1. How we work [/handbook/general-guidelines](/handbook/general-guidelines)
+2. Team structure [/company/team/structure/](/company/team/structure/) or [organization chart](https://comp-calculator.gitlab.net/org_chart)
+3. How we work [/handbook/general-guidelines](/handbook/general-guidelines)
   - Please pay special attention to the guideline about developing content and procedures in a public, transparent, [handbook-first](/handbook/general-guidelines/#handbook-first) manner
 1. (Reinforcements to stay a startup)[/company/still-a-startup/]
 
