@@ -56,7 +56,7 @@ The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/c
 
 #### Senior Partner Help Desk Specialist Requirements
 
-* Extends that of the Partner Help Desk Specialist (Intermediate) requirements
+* Extends the responsibilities of the Partner Help Desk Specialist (Intermediate) requirements
 * 3+ years of experience with B2B sales.
 
 
@@ -70,7 +70,7 @@ The Partner Help Desk Manager is a [Grade 8](/handbook/total-rewards/compensatio
 
 #### Partner Help Desk Manager Responsibiliites
 
-* Extends that of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist responsibilities
+* Extends the responsibilities of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist responsibilities
 * Manages  Partner Help Desk team members.  Establishes team OKRs and plans, and supports team in enablement and problem solving.  Ensures team results.
 * Collaborates with [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) in rolling out program updates, system enhancements and enablement offers. 
 * Leads cross-functional initiatives with Operations and Marketing teams.
