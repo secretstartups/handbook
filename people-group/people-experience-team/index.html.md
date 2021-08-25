@@ -252,6 +252,20 @@ Once a new team member has completed their onboarding, they are asked to complet
 
 In the same survey, new team members are able to provide a score and feedback on their onboarding buddy. If the score and feedback received is constructive and valuable insights when the score is low, the People Experience Associate assigned to that specific team members onboarding, should reach out to the manager of the onboarding buddy and provide feedback in a polite and supportive way.  
 
+### Onboarding Cohort Creation
+
+During the last week of the month, the PEA in the assigned rotation will create a new slack public channel for the next month by following the below steps: 
+
+1. Create a new public slack channel with the naming convention `month-year-new-hire-lounge` and add in the People Experience team to start
+1. Next, you'll want to go into the `donut` app in Slack and select `Donut Channel Settings` and this will pop open in a new window
+1. Navigate to the `Templates` tab on the top of the page, find `New Hire Cohort Watercooler` and select `Preview` then `Use Template`
+1. Select `Use an existing channel`, type in to find the newly created slack channel you just made and select `Add Donut Channel`
+1. You'll want to make sure that the Program Basics are set up to twice a week (Tuesday and Thursday) and the Next Send Date is for the first Tuesday of the month and that the Intros option is toggled to `On`. Hit `Save`. 
+1. Next you'll want to navigate to the Topics Queue tab and select Shuffle to mix up the questions from all the different packs. 
+1. You're going to create 4 (or 5, depending on how many weeks the month has) custom questions by clicking `Add a Topic` near the top of the page. All 4 of these are going to be the same question of `Do you have any questions regarding GitLab onboarding?` and feel free to add a fun gif to the prompt as well. 
+1. You'll want to make sure that your 4 custom prompts are the questions for the Thursdays within the first month. After the first month, every prompt will be a purely social one. You can organize the prompts by dragging and dropping the questions to be in the order you'd like them to be. Remember to hit `Save` at the top of the page once done.
+1. The very last step you'll need to do is locate the `Access` tab and make sure to add the entire People Experience team to the list of people who can modify the donut settings. Hit `Save`. 
+
 ### Anniversary Period Gift Process
 
 People Experience Team process:
