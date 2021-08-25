@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Learning Initiatives
+description: "The Learning & Development team is rolling out learning programs to enable a culture of curiosity and continual learning."
 ---
 
 ## On this page
@@ -376,7 +377,7 @@ If you are a GitLab Team Member and interested in participating in the course, y
 
 ### Setting up the Training 
 
-1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide](add link)
+1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide].
 1. Ensure we have a sign up link from crucial conversations. 
 1. Once we have the link, send the invite email to all team members interested in the program. 
 1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel
