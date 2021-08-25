@@ -775,7 +775,7 @@ Indicate your availability by updating your own calendar using Google's ["out of
    1. Suggested headphone models can be found in the handbook under [spending company money](/handbook/finance/expenses/#headphones-and-earbuds).
    1. If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html) that is fine but please ensure the microphone is active.
 1. Consider using a utility to easily mute/unmute yourself, see [Shush](/handbook/tools-and-tips/other-apps/#shush) in the tools section.
-1. [Hybrid calls are horrible](#hybrid-calls-are-horrible)
+1. [Hybrid calls are annoying](#hybrid-calls-are-annoying)
 1. Always be sure to advise participants to mute their mics if there is unnecessary background noise to ensure the speaker is able to be heard by all attendees.
 1. We start on time and do not wait for people. People are expected to join no later than the scheduled minute of the meeting (before :01 if it is scheduled for :00). The question 'is everyone here' is not needed.
 1. It feels rude in video calls to interrupt people. This is because the latency causes you to talk over the speaker for longer than during an in-person meeting. We should not be discouraged by this, the questions and context provided by interruptions are valuable.
@@ -824,7 +824,7 @@ more than just "First!". The meeting DRI will be happy to see there is a
 question ready before to kick off the meeting. The Meeting DRI should remember
 to thank the person for asking the first question.
 
-## Hybrid calls are horrible
+## Hybrid calls are annoying
 
 In calls that have remote participants everyone should use their own equipment (camera, headset, screen).
 
