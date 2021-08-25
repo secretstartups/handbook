@@ -33,7 +33,7 @@ A complete list of Dashboards, including SAFE Dashboards, is available in the [G
 
 ### Accessing a SAFE Dashboard
 
-To gain access a specific SAFE Dashboard, complete an [Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and specify the Dashboard Name(s) as listed in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index). Tag your manager and the SAFE Space Owner defined in the GitLab Dashboard Index for approval. Once the Access Request is approved you will be able to login to Sisense and access the SAFE dashboard as you would any other dashboard.
+To gain access to a specific SAFE Dashboard, complete an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and specify the Dashboard Name(s) as listed in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index). Tag your manager and the SAFE Space Owner defined in the GitLab Dashboard Index for approval. Once the Access Request is approved you will be able to login to Sisense and access the SAFE dashboard as you would any other dashboard.
 
 ### Accessing a General Access Dashboard
 
