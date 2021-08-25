@@ -62,11 +62,11 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Executive Sponsor | Tim Zallmann |  | Senior Director |
 | Facilitator | Sam Beckham | Frontend:Verify | Frontend Engineering Manager |
 | Functional Lead | Sarah Groff Hennigh-Palermo | Frontend:Verify::Pipeline Authoring | Senior FE Engineer |
-| Functional Lead | Drew Cimino | Backend:Verify::Testing | Backend Engineer |
+| Functional Lead | Drew Cimino | Backend:Verify::Pipeline Execution | Backend Engineer |
 | Functional Lead | Andrew Newdigate | Infrastructure | Distinguished Engineer |
 | Member | José Vargas López | Frontend:Verify::Pipeline Execution | Senior FE Engineer |
 | Member | Thomas Randolph | Frontend:Create::Code Review | Senior FE Engineer |
 | Member | Daniel Fosco | Design:Release::Release | Senior Product Designer |
-| Member | Marius Bobin | Backend:Verify::Pipeline Execution | Senior Product Designer |
+| Member | Marius Bobin | Backend:Verify::Pipeline Execution | Backend Engineer |
 | Member | Miguel Rincon | Frontend:Verify::Runner | Senior FE Engineer |
 | Member | Dov Herskhovitch | Product Manager:Verify::Pipeline Authoring | Senior Product Manager |
