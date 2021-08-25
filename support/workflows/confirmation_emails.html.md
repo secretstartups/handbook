@@ -53,7 +53,7 @@ If the user made a typo:
     - Admin: when viewing the user in admin, click on `Edit`, then `Save` when done.
     - Chatops
         - View User: `/chatops run user find <user or email>`
-        - Edit Email: `/chatops run user update_email <username or current email> <new_eamil@example.com>`
+        - Edit Email: `/chatops run user update_email <username or current email> <new_email@example.com>`
 1. Ensure that it now shows the new email.
 1. Add an [admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html) to the account.
 
