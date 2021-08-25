@@ -519,7 +519,7 @@ As we ask team members to [spend company money like its your own](/handbook/valu
 1. Home Power Generators 
 1. [Individual subscriptions ex. Krisp , apple music](#individual-subscriptions)
 
-You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. 
+You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. Please [say why, not just what](/handbook/values/#say-why-not-just-what).
 
 In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
 ----
