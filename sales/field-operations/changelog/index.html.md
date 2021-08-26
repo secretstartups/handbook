@@ -17,6 +17,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 ## Q3-FY22 
 
 ### 2021-08-30 Release ([Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
+
 **[GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
 
 **[Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
@@ -24,6 +25,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 **[LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
 
 ### 2021-08-02 Release
+
+[Launch of Field Operations Changelog](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/853)
+
 [Partner Program and System Changes](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/49)
 
 [FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](/handbook/sales/field-operations/order-processing/#supersonics-billing-and-subscription-management-experience)
