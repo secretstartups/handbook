@@ -23,10 +23,6 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **[LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
 
-Item 4 (issue link)
-
-Item 4 (issue link)
-
 ### 2021-08-02 Release
 [Partner Program and System Changes](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/49)
 
