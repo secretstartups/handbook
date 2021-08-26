@@ -45,7 +45,7 @@ I am experimenting for a couple of months with a smaller scope and smaller-scale
 1. You have been with GitLab for at least one month
 1. Check the schedule below for weeks that are `Open` for shadowing.
 1. Obtain written approval from your manager that they are ok with you participating, as your workload will need to be reduced for the shadow program duration.
-1. Add yourself to the table for the weeks in which you want to shadow via an MR
+1. Add yourself to the table for the weeks in which you want to shadow via an MR. To get started, you can [edit the page here](https://gitlab.com/-/ide/project/gitlab-com/www-gitlab-com/edit/master/-/sites/handbook/source/handbook/engineering/readmes/wayne-haber/development-director-shadow-experiment.html.md) (internal).
 
 ## How does the shadowing work?
 
