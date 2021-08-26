@@ -44,7 +44,7 @@ The CoST works closely with the [CEO](/job-families/chief-executive-officer/), t
 
 #### Many Functional
 
-GitLab is a [functional organization](/handbook/leadership/#no-matrix-organization), which means the people are [people are organized by function](/company/team/org-chart/).
+GitLab is a [functional organization](/handbook/leadership/#no-matrix-organization), which means the [people are organized by function](/company/team/org-chart/).
 Usually, when a project arises between two Departments, they can work something out on their own.
 When a project arises between three or more Departments, the Chief of Staff will be the point person to execute.
 In many cases, the Chief of Staff will be the [directly responsible individual (DRI)](/handbook/people-group/directly-responsible-individuals/).
