@@ -41,7 +41,7 @@ The Verticurl team will be working with GitLab to execute email marketing setup 
 | Viswanath R | Verticurl, Project Management | @? | `Viswanath.R@verticurl.com` |
 | Prathap Arumugam | Verticurl, Backup Project Management | @? | `prathap.arumugam@verticurl.com` |
 | Karthikeyan K. | Verticurl, FMM/ABM resource | @@karthikeyan.k  | `karthikeyan.k@verticurl.com` |
-
+| Alexia Emmanoulopoulou | Verticurl, EMEA FMC resource | @@ae5202 | `alexia.emmanoulopoulou@verticurl.com` |
 
 ## Project Management - Campaigns team
 {: #project-management-campaigns-team}
