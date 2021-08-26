@@ -159,3 +159,11 @@ All requests for BambooHR-related data or reports with personal people data shou
 1. The certificate will then be sent within a couple of weeks to the team member’s home address
 1. The team member needs to email their certificate to hr@savvy-group.eu and upload it to BambooHR under the Documents tab, Verification folder
 1. Any costs related to this process can get reimbursed by submitting them as an expense. Please follow the process as described on the [expenses handbook page](/handbook/finance/expenses/#-expense-policy).
+
+## Germany: 'Arbeitsbescheinigung' - form sent by Bundesagentur fuer Arbeit
+This form is a verification of former employment sent by the Federal Employment Agency in Germany. It is mandatory for employers to fill this form in and currently only available in German language.
+- Please email the form to peopleops@gitlab.com and the People Operations Team will work on completing the form. Please allow some time for this, as various information from different stakeholders is required.
+- The People Operations Specialist emails the form to nonuspayroll@gitlab.com to fill in salary related information.
+- The People Operations Specialist fills in fields using BambooHR and if applicable reaches out to teammemberrelations@gitlab.com with questions relating to the termination.
+- Our legal council in Germany can support with questions to make sure the form is filled in correctly. In order for our legal council to review the form, please include the following documents in the email: Employment Contract, Termination letter/agreement and reasons for termination. Please find the contact details in the PeopleOps vault in 1password. 
+- As the form requires a company stamp and a wet signature, the People Operations Specialists sends the filled in form by email to our Director of Tax, so it can get signed, stamped and posted to the previous team member. Please include the address the form should get posted to in the email.
