@@ -10,6 +10,10 @@ description: "LinkedIn Sales Insights provides access to LinkedIn data and insig
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+- - -
+
+{::options parse_block_html="true" /}
+
 ### About LinkedIn Sales Insights
 
 LSI is a tool that lets us view and export data from LinkedIn's database onto our SFDC Account records.
