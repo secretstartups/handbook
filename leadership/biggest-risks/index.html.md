@@ -296,10 +296,10 @@ To make sure this is clear we:
 1. Have clear [KPIs](/handbook/business-ops/data-team/metrics/#gitlab-kpis) across the company
 1. Have [Key Reviews](/handbook/key-review/)
 1. Have each job family include specific [performance indicators](/handbook/hiring/job-families/#why-job-families-have-performance-indicators)
-2. Have a [clear org-chart](/company/team/org-chart/) where [each individual reports to exactly one person](/handbook/leadership/#no-matrix-organization)
-3. Have managers regularly ask team members if they understand job expectations and close any gaps in understanding.
-4. Ensure that at least 90% of the population responds favorably to the Engagement Survey question "I know what is expected of me to be successful in my job."
-5. Celebrate our growth in revenue when we hit $100M in ARR instead of 1000 people. We put our attention in celebrating our output instead of input, per our [results value](/handbook/values/#results).
+1. Have a [clear org-chart](/company/team/org-chart/) where [each individual reports to exactly one person](/handbook/leadership/#no-matrix-organization)
+1. Have managers regularly ask team members if they understand job expectations and close any gaps in understanding.
+1. Ensure that at least 90% of the population responds favorably to the Engagement Survey question "I know what is expected of me to be successful in my job."
+1. Celebrate our growth in revenue when we hit $100M in ARR instead of 1000 people. We put our attention in celebrating our output instead of input, per our [results value](/handbook/values/#results).
 
 ## 17. Vulnerabilities from transparency
 {:#vulnerabilities-from-transparency}
