@@ -13,8 +13,8 @@ There is a quarterly GitLab CEO 101 call with new hires and the CEO. This is a z
 
 1. Questions about GitLab history [/company/history/](/company/history/)
 1. Questions about our values [/handbook/values](/handbook/values/)
-2. Team structure [/company/team/structure/](/company/team/structure/) or [organization chart](https://comp-calculator.gitlab.net/org_chart)
-3. How we work [/handbook/general-guidelines](/handbook/general-guidelines)
+1. Team structure [/company/team/structure/](/company/team/structure/) or [organization chart](https://comp-calculator.gitlab.net/org_chart)
+1. How we work [/handbook/general-guidelines](/handbook/general-guidelines)
   - Please pay special attention to the guideline about developing content and procedures in a public, transparent, [handbook-first](/handbook/general-guidelines/#handbook-first) manner
 1. (Reinforcements to stay a startup)[/company/still-a-startup/]
 
