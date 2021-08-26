@@ -28,7 +28,7 @@ description: "Learn more about the Product Career Development Framework Working 
 
 ## Business Goals
 
-1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles to Group Manager of Product based on new competencies by 2021-09-30. 
+1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles in Product based on new competencies by 2021-12-31. 
 1. Conduct AMAs and training with Product Organization on new CDFs for use in FY22-Q4 Career Conversations. 
 
 ### Protocols and Processes
