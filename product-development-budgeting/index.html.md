@@ -15,7 +15,7 @@ The pre-planning is done in advance of the budget becoming available so that the
 
 | DRI | Task | 
 | --- | --- | 
-| [Product Managers](/job-families/product/product-manager/) | Product managers do their planning for future potential investments in advance.  This will be a list of ready-to-go business cases in advance, using the `potential investment`  issue template. |
+| [Product Managers](/job-families/product/product-manager/) | Product managers do their planning for future potential investments in advance.  This will be a list of ready-to-go business cases in advance, via [creating issues using the `potential investment` issue template.](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=potential_investment#) |
 | Product Managers | Create private issues using the issue template and collaborate with PM and Engineering teams via tagging the appropriate development director, UX stable counterpart, SET stable counterpart, etc, as appropriate. |
 
 ## Vetting and communication of new investment 
