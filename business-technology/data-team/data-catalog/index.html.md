@@ -44,7 +44,7 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 3. Once the request is approved, tag @gitlab-data/analysts and the Data Team will process the request.
 4. After processing is complete you will be able to login to Sisense and access the SAFE dashboard within the SAFE Dashboard Space.
 
-![Sisense Spaces](/images/sisense_spaces.png)
+![Sisense Spaces](sites/handbook/source/handbook/business-technology/data-team/data-catalog/images/sisense_spaces.png)
 
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
 
