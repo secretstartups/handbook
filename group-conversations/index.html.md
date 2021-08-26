@@ -262,7 +262,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [Infrastructure](/handbook/engineering/infrastructure/) | Steve Loyd | Yes | Monthly |
 | [Support](/handbook/support/) | Tom Cooney | Yes | Monthly |
 | [Security](/handbook/engineering/security/) | Johnathan Hunt | Yes | Every other month |
-| [Security](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
+| [UX](/handbook/engineering/ux/) | Christie Lenneville | Yes | Every other month |
 | [Development](/handbook/engineering/development/) | Christopher Lefelhocz | Yes | Every other month |
 | [Quality](/handbook/engineering/quality/) | Mek Stittri | Yes | Every other month |
 | [Portfolio Marketing](/handbook/marketing/strategic-marketing/) | Tye Davis | No | Every other month |
@@ -272,8 +272,10 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Becky Reich | No | Every other month |
 | [UX Research](/handbook/engineering/ux/ux-research/) | Sarah Jones/Adam Smolinski | No | Every other month |
 | [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Every other month |
-| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Evan Whelchel | No | Every other month |
-| [Alliances](/handbook/alliances/) | Mayank Tahilramani | No | Every other month |
+| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Craig Mestel | No | Every other month |
+| [Alliances](/handbook/alliances/) | Nima Badiey | No | Every other month |
+| [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No | Every other month |
+
 
 ## Request a new Group Conversation
 
