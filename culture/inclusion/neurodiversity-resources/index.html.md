@@ -14,6 +14,8 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Neurodiverse is a competitive advantage](https://hbr.org/2017/05/neurodiversity-as-a-competitive-advantage)
 - [ADHD in the workplace](https://www.webmd.com/add-adhd/adhd-in-the-workplace)
 - [Free neurodiversity peer mentorships](https://www.neurodiver-city.org/)
+- [Digital magazine with articles on ADD/ADHD including latest research](https://www.additudemag.com/)
+- [Youtube channel with significant amounts of information, interviews, and personal experiences relating to ADHD](https://www.youtube.com/c/HowtoADHD)
 
 ## Resources for Team Members and Managers+
 
@@ -23,7 +25,7 @@ canonical_path: "/company/culture/inclusion/neurodiversity-resources/"
 - [Understanding the benefits of neurodiversity in the workplace](https://www.hays.com.au/blog/insights/understanding-the-benefits-of-neurodiversity-in-the-workplace)
 - [Neurodiversity Resources for Employers](https://www.neurodiversityhub.org/resources-for-employers)
 - [Neurodiver-city.org](https://www.neurodiver-city.org/)
-
+- Useful vidoes for understanding ADHD from the outside, [What is ADHD?](https://www.youtube.com/watch?v=xMWtGozn5jU) and [Why Do We Hold Ourselves to Neurotypical Standards?](https://www.youtube.com/watch?v=IMeCxDQZeqY) 
 
 ## Reasonable Accommodations
 
