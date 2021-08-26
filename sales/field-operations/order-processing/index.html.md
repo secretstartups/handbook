@@ -1023,14 +1023,14 @@ Quoting:
 
 1. Create a quote object per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
-1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
+1. Once Order Form PDF is generated, chatter Emily Murphy (Alliance Ops) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance. Reach out to Pete Goldberg with additional questions.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
 
 Requirements to Close Deal:
 
 1. A Private Offer must have been created within the AWS Private Offer Portal, accepted by the customer, and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
-1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Pete Goldberg to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
-1. Deal Desk will confirm the purchase with Pete Goldberg before booking.
+1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Emily Murphy to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
+1. Deal Desk will confirm the purchase with Emily Murphy before booking.
 
 Closing the Deal:
 
