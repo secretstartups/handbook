@@ -329,9 +329,18 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 **Topic: Having Career Conversations with Your Team Members**
 
-- Career Development Interviews
+- [Career Development with Diana Stanley](https://gitlab.edcast.com/pathways/ECL-3b8242ee-8583-4dbd-80b1-e337d812d406)
+- Career Conversations with your Team
+   - [Eric Johnson](https://www.youtube.com/watch?v=hYahDZ9nIWA)
+   - [Darva Satcher](https://www.youtube.com/watch?v=F7br2CqkjGE)
+   - [Jane Gianoutsos](https://www.youtube.com/watch?v=PA3Cb51aNrA)
+- [Career Development Framework interview with Kenny Johnston](https://www.youtube.com/watch?v=dNZjmf68UIg)
 - Live Session: Having Career Conversations with Your Team Members
    - 2021-08-11 @ 12am PT 
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
+   - [Recording of call](add url)
 
+#### Week 5
+
+- Career Development with Sherrod Patching
