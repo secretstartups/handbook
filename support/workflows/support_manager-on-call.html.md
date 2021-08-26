@@ -25,7 +25,7 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. Ensuring customer emergencies are [handled promptly and accurately](#handling-customer-emergencies-and-incidents), [according to SLAs](https://about.gitlab.com/support/)
 1. [Handling customer-related escalations](#mechanics-of-handling-escalations) during business hours according to the [support escalation definitions of urgency](/handbook/support/internal-support/support-escalations.html#definition-of-urgency)
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
-1. Analyzing and dispatching [Live Upgrade Assistance Requests](#analyze-and-dispatch-live-upgrade-assistance-requests) initiated during the shift
+1. Providing direction and assistance with regards to [Live Upgrade Assistance Requests](#provide-assistance-with-live-upgrade-assistance-requests) initiated during the shift
 
 ## Handling customer emergencies and incidents
 
@@ -86,26 +86,20 @@ When an escalation is resolved:
 
 When GitLab experiences a [security incident](/handbook/engineering/security/security-operations/sirt/security-incident-communication-plan.html#extended-team-roles-responsibilities-and-points-of-contact), the Support Manager on-call is responsible for triaging and responding to customer communications stemming from the security incident. This may include involving the [CMOC](/handbook/support/workflows/cmoc_workflows.html).
 
-## Analyze and dispatch Live Upgrade Assistance Requests
+## Provide assistance with Live Upgrade Assistance Requests
 
-Analyzing [live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) means that you must ensure the request conforms to the requirements documented in [Scheduling Live Upgrade Assistance](/handbook/support/workflows/live-upgrade-assistance.html).
+[Live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
 
-To dispatch a request:
+#### Example situations and potential solutions:
 
-1. Review the issue to make sure that the required information has been provided, 
-including the appropriate region's label. If you notice missing information, tag 
-the requester and ask for it to be provided.
-1. If the Live Upgrade Assistance request is scheduled inside your region's
-working hours, follow steps 2 and 3 of the [Global Support 
-Process](/handbook/support/workflows/live-upgrade-assistance.html#global-support-process),
-keeping in mind that you are the DRI. In brief, the process states that you need to:
-   * Assign the support manager and support engineer who will be on-call on the requested upgrade date.
-   * Find a support engineer to perform the pre-scheduling tasks.
-   * Find a support engineer to perform the day-of-upgrade tasks (may be the same engineer as above).
-
-**NOTE**: If the Live Upgrade Assistance request is scheduled outside of your region's
-working hours, assign the Request to all the managers of the appropriate region.
-It is their task to complete steps 2 and 3 described above.
+- User requesting Live Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-support-hours)
+   - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accomodate the day/time being requested
+   - Work with the end user to reschedule for another date/time that is more amenable to support staffing
+- User has provided insufficient [scheduling notice](/support/scheduling-live-upgrade-assistance.html#how-far-in-advance-must-i-open-a-support-request-to-request-live-upgrade-assistance)
+   - Evaluate whether the scope of the upgrade may allow for an expedited review within the original timeframe (ie. single minor version upgrade on single node omnibus)
+   - Work with the end user to reschedule or advise them that we may be able to perform a review of their plans but may not be able to schedule a live session with an engineer
+- Last minute change in assignee availability
+   - Work with available team members to determine if the upgrade assistance can be transferred to a new engineer and communicate the change(s) to the end user for awareness
 
 ## Reassigning or swapping your on-call shift
 
