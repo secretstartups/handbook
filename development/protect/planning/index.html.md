@@ -201,7 +201,7 @@ The issue verification should be done by someone else other than the MR author[^
 
 ## Epic Engineering DRI
 
-Once an Epic moves to the refinement stage, the EMs will assign someone as the DRI for each required tech stack.
+As an Epic is ready to move to the refinement stage, the EMs assigns someone as the DRI for each required tech stack. This may happen sooner, during planning breakdown.
 
 As the DRI for an Epic, the engineer is **not** responsible for executing all the work but they are responsible for:
 
