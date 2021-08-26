@@ -22,8 +22,8 @@ What is a Crucial Conversation: According to the [book](https://www.amazon.com/C
 
 Most of us are good at avoiding them because it's human nature to avoid pain and discomfort when addressing a crucial conversation. So what do you do when faced with a crucial conversation?
 1. We can avoid them
-2. We can face them and them poorly
-3. We can them and handle them well
+2. We can face them and handle them poorly
+3. We can face them and handle them well
 
 At GitLab, there can be many instances where a crucial conversation is needed. Whether it is addressing the underperformance of a team member, discussing the results of promotion, interviewing, being notified that a high performer is leaving the team, etc. The Crucial Conversations book has strategies laid out that can help master one:
 1. **Power of Dialogue:** Gaining information and context on the situation. The free flow of meaning between two or more people. 
