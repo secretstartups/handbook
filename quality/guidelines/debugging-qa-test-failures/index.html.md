@@ -32,8 +32,7 @@ The test pipelines run on a scheduled basis, and their results are posted to Sla
 | [CustomersDot Staging](https://gitlab.com/gitlab-org/customers-gitlab-com/-/pipelines) | Full | After each deployment to CustomersDot Staging | [`#qa-staging`](https://gitlab.slack.com/messages/CBS3YKMGD) [`#s_fulfillment_status`](https://gitlab.slack.com/messages/CL7SX4N86) |
 | [Preprod](https://ops.gitlab.net/gitlab-org/quality/preprod/pipelines) | Smoke, Reliable | After [deployment to preprod](/handbook/engineering/infrastructure/environments/#pre) during Security and Patch releases | [`#qa-preprod`](https://gitlab.slack.com/archives/CR7QH0RV1) |
 | [Nightly packages](https://gitlab.com/gitlab-org/quality/nightly/pipelines) | Full | [Daily at 4:00 am UTC](https://gitlab.com/gitlab-org/quality/nightly/pipeline_schedules). | [`#qa-nightly`](https://gitlab.slack.com/messages/CGLMP1G7M) |
-| [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) | Full | When the `package-and-qa job` executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules). | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) |
-| [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) | Full | When the `package-and-qa job` executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab-foss/pipeline_schedules/23141/edit). | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) |
+| [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) | Full | When the `package-and-qa` job executes from a [scheduled pipeline every 2 hours](https://gitlab.com/gitlab-org/gitlab/pipeline_schedules). | [`#qa-master`](https://gitlab.slack.com/archives/CNV2N29DM) |
 
 _^Test pipelines also run against an Omnibus-GitLab Docker image that reflects the current release on staging.com. These are referred to in notifications as `dev.gitlab.org:5005/gitlab/omnibus-gitlab/gitlab-ee:xxx`_
 
