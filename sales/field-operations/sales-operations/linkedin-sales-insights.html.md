@@ -30,13 +30,13 @@ LSI also provides info on employee count, industry, location of the HQ and/or th
 
 ### Login
 
-This tool is currently only accessible by Sales Ops and Sales Leadership.
+This tool is currently only accessible by Sales Ops and Sales Leadership (ASMs and up).
 
 You can log in to LinkedIn Sales Insights (LSI) using your regular LinkedIn username/password here: https://www.linkedin.com/sales-insights/. 
 
 To request access please create an [Access Request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#how-do-i-choose-which-template-to-use). 
 
-### Sales Leadership Use Cases
+### Sales Leadership (ASMs and up) Use Cases
 
 1. Sales Leadership can use this tool to compare data from our Salesforce Account records to what LinkedIn has in their database.
    - On the Sources tab, you can upload a .csv file of Accounts you have exported from SFDC.
