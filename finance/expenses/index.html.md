@@ -82,7 +82,9 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 
 #### Expensing hardware outside of the US
 
-**The prices in the table below can serve as reference for team members as they look into purchasing new equipment. As an all-remote global company, GitLab understands that prices might vary per region depending on taxes, tariffs and other factors. We ask team members to look into 2 or 3 different providers and compare prices before acquiring new equipment. If the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the average price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.**```
+**The prices in the table below can serve as reference for team members as they look into purchasing new equipment. As an all-remote global company, GitLab understands that prices might vary per region depending on taxes, tariffs and other factors. When making a spend above $100 USD, we encourage team members to look into 2 or 3 different providers and compare prices before acquiring new equipment.** 
+
+**For non-US team members: if the product cost is higher in your location, confirm that an equivalent product in the United States would be close to the average price in the table below. In the event there are additional taxes or other fees in your region, please note this cost increase when submitting an expense report to ensure an efficient and speedy approval and reimbursement from our third party accounting team.**```
 
 
 | Item                                             | Average Price in USD (for purchases in the USA)     | Importance | Why                                                                                                                                                                                                                                                                                 |
