@@ -18,7 +18,7 @@ The tax department is responsible for GitLab’s overall tax strategy including 
 
 # Organisation
 
-The Tax Department is part of the Finance team and headed by the Director of Tax. The Director of Tax reports to the Chief Financial Officer. For more information please check GitLab’s [Org Chart](https://comp-calculator.gitlab.net/org_chart). The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
+The Tax Department is part of the Finance team and headed by the Director of Tax. The Director of Tax reports to the Chief Financial Officer. For more information please check GitLab’s [Org Chart](/company/team/org-chart/). The table below provides an overview of the responsibilities of the tax function in a [RADCIE-model](/handbook/people-group/directly-responsible-individuals/#radcie):
 
 | RADCIE Model  | Director of Tax | Controller | Everyone |
 |-------------| :----------------:|:----------:| :-------:|
