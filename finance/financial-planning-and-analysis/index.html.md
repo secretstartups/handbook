@@ -19,6 +19,7 @@ title: "Financial Planning & Analysis"
 - [Slack Channel](https://gitlab.slack.com/archives/fpanda)
 - [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
 - [Marketing Finance](/handbook/finance/financial-planning-and-analysis/Marketing-Finance)
+- [R&D Finance](/handbook/finance/financial-planning-and-analysis/R&D-Finance)
 - [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
 - [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
