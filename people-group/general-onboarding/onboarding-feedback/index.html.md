@@ -22,9 +22,13 @@ Wondering if you are doing okay with your onboarding? Need some suggestions or g
 </figure>
 <!-- blank line -->
 
-### {Insert team member name}
+### Daniel Diniz
 
-- Embed the video created once uploaded to GitLab Unfiltered YouTube Channel
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vVe2UhSgkQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 
 ## Team Member Video Process
