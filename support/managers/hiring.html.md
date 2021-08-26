@@ -54,12 +54,12 @@ After getting approval from your manager open two interview training issues:
 - [Support Interview Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Support%20Interview%20Training)
 
 ### Reviewing Assessments
-Assessments (and answers) for all Support job families are available in the [people-ops/hiring-processes](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Support) repository.
+Guidlines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
 
-When reviewing an assessment:
-1. Use the rubrik for the assessment that was sent along to determine if they passed or not.
-2. Review their CV, Cover Letter and any attached documentation. Does this person possess the background and skills to succeed in your role?
-3. Fill out the scorecard.  Refer to the [private project](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) for guidelines.
+Assessments are assigned by the support aligned Recruiter in the Talent Acquisition team.  These are carried out asynchronously, so you could be asked to to review assessments from candidates in all regions. 
+
+Assessments that are sent to candidates for all Support job families are available in the [people-ops/hiring-processes](https://gitlab.com/gitlab-com/people-ops/hiring-processes/tree/master/Engineering/Support) repository.
+
 
 ### Technical Interviews
 The technical interview process is documented in the [Support Team project](https://gitlab.com/gitlab-com/support/tech-interview/se-interview). Follow the instructions there to conduct this interview. Take any notes in Greenhouse and make a note if you are inclined or not inclined to hire. Your role in the interview process for this candidate is complete!
