@@ -125,13 +125,13 @@ If you received the same nomination twice (for the same person and the same reas
 
 **Manager Process**
 1. The Nominator bot will send you a Slack DM asking to approve or reject the nomination.
-1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and Total Rewards team)
+1. When you decide to approve, all you need to do is click the approve button. The bot will take care of the next steps (sending it to the second level manager and the People Connect team).
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel.
 
-**Total Rewards Process**
-1. The Nominator bot will send a Slack DM on `#total-rewards-nominator-bot` asking to approve or reject the nomination.
-1. Approve the request within `#total-rewards-nominator-bot` and ensure the date and amount transferred properly to the BambooHR profile.
+**People Connect Process**
+1. The Nominator bot will send a Slack DM on `#people-group-nominator-bot` asking to approve or reject the nomination.
+1. Approve the request within `#people-group-nominator-bot` and ensure the date and amount transferred properly to the BambooHR profile.
 1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 
@@ -147,7 +147,7 @@ graph TD;
   F{Manager's Leader}
   F -->|Reject| H[Bot logs];
   F -->|Approve| L;
-  L{Total Rewards}
+  L{People Connect}
   L -->|Reject| M[Bot logs];
   L -->|Approve| N[Bot logs and sends to BambooHR];
 ```
@@ -194,9 +194,9 @@ graph TD;
 **Approval Process:**
 
 1. The Manager's Manager receives an alert from BambooHR and can approve or deny.
-1. Once approved, the request is sent to the Total Rewards Analyst to process the bonus in the applicable payroll and notify the manager via email.
+1. Once approved, the request is sent to People Connect to process the bonus in the applicable payroll and notify the manager via email.
 1. Notify Payroll of the bonus.
-1. Per the email from Total Rewards Analysts, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
+1. Per the email from People Connect, the manager will notify the team member of the bonus and will announce it on the GitLab Slack channel [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K). The announcement should include the “who” and “why” of the bonus.
 
 #### Communicating Discretionary Bonuses
 
@@ -273,7 +273,7 @@ We offer an add-on referral bonus for the following groups:
 
 For information regarding the program details and team member eligibility and understanding, please visit our [guide in the Hiring section of GitLab's handbook](/handbook/hiring/referral-process/).
 
-If a team member has been referred, the People Experience team will review team members' self-identification data in BambooHR including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Experience team will edit the referrer's referral bonus as applicable. The Total Rewards Analysts will confirm the bonus amount when it is entered into BambooHR and will process the bonus.
+If a team member has been referred, the People Connect team will review team members' self-identification data in BambooHR including Gender, Ethnicity and Veteran status to determine if the team member qualifies as belonging to a select underrepresented group. The People Connect team will edit the referrer's referral bonus as applicable. People Connect will confirm the bonus amount when it is entered into BambooHR and will process the bonus.
 
 * Exceptions
    * no bonus for hiring people who report to you directly or are in your direct reporting chain,
@@ -300,7 +300,7 @@ If a team member has been referred, the People Experience team will review team 
 
 #### Notification to Process a Bonus
 
-1. BambooHR will send an email to Total Rewards Analysts on the date that the referral bonus should be paid for processing through the applicable payroll system.
+1. BambooHR will send an email to People Connect on the date that the referral bonus should be paid for processing through the applicable payroll system.
 1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
   * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
 1. Once the bonus has been processed, change the note in BambooHR from "future" to "paid".
@@ -309,8 +309,8 @@ If a team member has been referred, the People Experience team will review team 
 #### Temporary Add-on Campaign additional tracking for payout
 
 1. Talent Acquisition Manager will track all referrals set to hired in time period of Add-on campaign.
-2. Talent Acquisition Manager will notify Total Rewards by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
-3. Talent Rewards will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
+2. Talent Acquisition Manager will notify People Connect by Slack or email, the first of the month that aligns with the referral new hire's 3 month employment at GitLab.
+3. People Connect will follow [steps outlined above](/handbook/incentives/#document-a-future-bonus-in-bamboohr)
 
 ### Visiting Grant
 
