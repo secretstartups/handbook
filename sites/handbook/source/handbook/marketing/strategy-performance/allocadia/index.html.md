@@ -301,9 +301,59 @@ We will be using CSV transfer files to upload plans from Allocadia to Adaptive. 
 
 We will eventually be able to use an FTP data integration to download actual expenses from Netsuite. In the meantime, we will be using CSV transfer files. [Instructions for Allocadia Admin to upload](https://drive.google.com/file/d/1CldCHFYJtaOo3NAjBHXPsjwPxqBarmOw/view?usp=sharing) were prepared by Allocadia. Actual expenses will not be available though until after month end close for Accounting, so generally mid-month of the following month. These expenses will automatically map to the line items and show in the `Actuals` column if there was an Allocadia ID set up initially. However, until we have all set up, we will have to work through a manual process to map expenses to the line items. Allocadia will do its best guess but without the Allocadia ID, we will need to confirm or correct.
 
-### Coupa
+### [Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/)
+Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa Request from within Allocadia. This is a one way push of data from Allocadia into Coupa, so if you make any changes within the Coupa request, please note it will not be updated automatically within Allocadia. Video walk through of how to create a Coupa requisition directly from Allocadia can be found [here](https://youtu.be/XroayEye3kY).
 
-More info forthcoming!
+#### Prerequisites and Notes
+
+* The vendor/supplier must be in Coupa in active status to submit a Coupa req through Allocadia. If you need to process a new supplier request, please follow instructions [here](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier).
+* Coupa reqs are created on the line item level and cannot be created in a category or sub-category.
+* Make sure your line item panel details are completed and you have a cost associated with your line item.
+* There should only be 1 Coupa req per supplier. If you are submitting a multi line item req, you cannot add lines from a different supplier. The line items you create in your req should ultimately match the line items in the invoice the supplier provides.
+
+#### Steps to Submitting a Coupa Req through Allocadia
+
+* Click into the appropriate activity plan
+* Click into the details panel of the line item in the activity for which you are creating the Coupa req
+* Scroll to the bottom of the panel and click `Create PR in Coupa` and your request form will appear. If it does not, the error message will inform you that you are missing required information. Go back to your panel and line item and make sure all required fields have been filled in.
+* `Created By` can be left under your name, unless you would like the requisition to be submitted under someone else’s name, in which case, you can pull the person’s name in the drop down options in the `On Behalf Of` field 
+* `Supplier` should pull over automatically based on the supplier you have provided in the Allocadia line item. **Note:** You must have the name of the supplier in your line item listed exactly as Coupa has the supplier listed. If not, the supplier will not pull through automatically, in which case, you can search the drop down for the supplier listing. 
+* `Description of Purchase` should provide details of your purchase - Example - Contract for ABC Event
+* `Vendor has access to red or orange data` is a required field, see linked handbook page in the form for more information
+* `List data and system involved` is only a field that should be filled in if you select YES to the above data question
+* `Vendor’s Contact Email` is a required field and is generally utilized for contract countersignature requests 
+* `Vendor’s Security Contact Email` is a field to be filled in if vendor has access to red or orange data
+* `Attachment` is required and this where you would attach the appropriate contract
+* Click `Next`
+* Select `AMT` or `QTY` based on the type of purchase (generally, you will be submitting a Coupa req based on `AMT`)
+* `Item` will pull from the line item name you have listed
+* `Unit Price` will pull from your total line item cost
+* `Need by Date` is the due date for the Coupa req
+* `Service Start`, `End Date`, `Chart of Accounts`, `Subsidiary`, `Department`, and `GL Account` will all pull from your line item
+
+##### If submitting a single line item Coupa req
+
+* If you are submitting a single line item request, click `Submit`
+* The system will provide you with the link to your Coupa req (this will also be linked in your Allocadia line item’s detail panel)
+* **PLEASE NOTE** - This does NOT mean your Coupa req has been submitted. This is taking you to the actual req in Coupa to review and you will still need to submit the req in Coupa.
+* Click on your Coupa req link and review 
+* At this point you can make any adjustments needed and even [add an approver](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-an-approver)
+* When you are ready to submit your req, click `Submit`
+
+##### If submitting a multi-line item Coupa req
+
+* Click `Add Another`
+* Use the drop down to find the additional line item you are linking
+* Click `Add Item`
+* Follow the instructions above for filling in the fields for that additional item
+* Repeat until you have all of the line items added
+* Click `Submit`
+* The system will provide you with the link to your Coupa req (this will also be linked in your Allocadia line item’s detail panel for each line item of your Coupa req)
+* **PLEASE NOTE** - This does NOT mean your Coupa req has been submitted. This is taking you to the actual req in Coupa to review and you will still need to submit the req in Coupa.
+* Click on your Coupa req link and review 
+* At this point you can make any adjustments needed and even [add an approver](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-an-approver)
+* When you are ready to submit your req, click `Submit`
+
 
 #### Mapping Expenses
 
