@@ -27,3 +27,7 @@ The pre-planning is done in advance of the budget becoming available so that the
 | Product Managers | When a hiring plan is approved, document if previously approved reqs are or are not included |
 | [VP of PM](https://gitlab.com/adawar) |  Provide a (private) video walkthru of the approved hiring plan (as the spreadsheets tend to be hard to understand without an explanation) |
 | Development directors |  The directors will confirm and update the budgeting to ensure it includes proper EM to engineer ratios.  The directors will also collaborate with the leadership from other engineering teams to make sure the plan encompasses proper ratios for UX, SET, SRE, and other stable counterpart roles. |
+
+## Viewing existing potentiat investments
+
+[Search for issues with the label `potential-investment`](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?label_name[]=potential-investment)
