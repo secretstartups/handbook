@@ -539,7 +539,7 @@ Successfully creating new departments require that various company systems be up
 4. Provide all detail necessary to ensure team members are assigned to the newly created departments.
 5. Create a MR to update the [Cost & Reporting Structure](https://gitlab.com/gitlab-data/analytics/blob/master/transform/snowflake-dbt/data/cost_center_division_department_mapping.csv) in the GitLab Data project with the new department. This ensures the new departments are in GitLab's data warehouse.
 
-Below is a table showing the structure of GitLab departments as they exist in BambooHR and netsuite.
+Below is a table showing the structure of GitLab departments as they exist in BambooHR and netsuite. Please [check out the Team Page](https://comp-calculator.gitlab.net/org_chart) to see our org chart.
 
 ## Cost & Reporting Structure
 
