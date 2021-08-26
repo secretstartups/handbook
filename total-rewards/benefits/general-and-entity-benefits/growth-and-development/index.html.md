@@ -82,11 +82,6 @@ If approvals are taking longer than expected, the team member should send a mess
 - Field Operations: David Hong (VP of Field Operations)
 - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
 
-### How to Apply for an Exception
-
-GitLab understands that tuition costs for academic study can cost more than the $10,000 USD yearly limit. If you have a strong business justification to take up a course or degree and the tuition costs will exceed this limit, then you can apply for an exception (for a maximum amount of up to $20,000 USD per calendar year). To be considered for an exception, the academic study has to be a requirement for the team member's role or it is business critical as decided by the E-Group. To apply, send Total Rewards and Learning & Development an e-mail (keep your manager copied) with the course information, business justification for the exception and the yearly cost. Please send the e-mail at least 30 days before your course commencement date.
-
-Total Rewards will get an approval from GitLab's Compensation Group then notify you and the L&D team the outcome. If approved, you can fill out a [Growth & Development Benefit Form (Over $1,000 USD)](https://docs.google.com/forms/d/e/1FAIpQLScoql6Yr-r8j_XjUjJNnJRzgf2rOsOE-gXpydn6r1INLqEfKw/viewform) for the upcoming semester. A new form submission will be needed for each following semester.
 
 ### Tax Implications for Tuition Reimbursement by Country
 
@@ -161,11 +156,6 @@ Crucial Conversations charges per-learner to deliver this content. Each license 
 1. You must complete the Crucial Conversations self-paced training and attend **at least** 4 live training sessions **within 3 months of starting the training**. If you do not complete the training in this timeframe, you will be required to pay for the cost of your license. 
 
 **An important note:** As you are planning your professional development for the calendar year, please keep in mind the cost of this training program ($295 per license). If you have already exceeded your G&D budget or plan to later in the year, you could elect to pay for this license out of pocket, or plan to take the training next year.
-### Administration of Academic Study Exceptions
-
-1. Forward the team member's e-mail to the Compensation Group.
-1. Notify the team member and L&D of the decision outcome.
-1. Once approved and the team member submits a Growth & Development form, L&D can update the `Limit Exception` column on the log.
 
 
 ### Administration of Your 4th Trimester 
