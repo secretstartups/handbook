@@ -177,6 +177,14 @@ The video below is a recording of the Live Learning that took place in August 20
   <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+#### Having Career Development Conversations with your Team
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="addurl" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Career Development Conversation Acknowledgements
 
 Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
