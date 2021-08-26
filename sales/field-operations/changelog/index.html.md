@@ -21,7 +21,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **[Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
 
-Item 3 (issue link)
+**[LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
 
 Item 4 (issue link)
 
