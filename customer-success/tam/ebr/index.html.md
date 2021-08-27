@@ -38,13 +38,13 @@ This is an example is a GitLab senior leader or executive sends the email. Some 
 
 *(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:* 
 
-****-** Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes**
+****- Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes
 
-****-** Collect and discuss future goals and desired success measures**
+****- Collect and discuss future goals and desired success measures
 
-****-** Discuss product use cases of interest and/or future roadmap items**
+****- Discuss product use cases of interest and/or future roadmap items
 
-****-** Provide an updat on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)**
+****- Provide an updat on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)
 
 *Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes.*
 
