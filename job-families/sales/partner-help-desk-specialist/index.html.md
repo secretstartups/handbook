@@ -72,15 +72,15 @@ The Manager, Partner Help Desk is a [Grade 8](/handbook/total-rewards/compensati
 
 #### Manager, Partner Help Desk Responsibiliites
 
-* Extends the responsibilities of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist responsibilities
-* Manages  Partner Help Desk team members, and is responsible for recruiting, onboarding and ongoing development of team.  
+* Extends the responsibilities of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist
+* Manages  Partner Help Desk team members and is responsible for recruiting, onboarding and ongoing development of team.  
 * Establishes team OKRs and plans, and supports team in enablement and problem solving.  Ensures team results.
 * Collaborates with [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) in rolling out partner program updates, system enhancements and enablement programs. 
 * Leads cross-functional initiatives with Operations and Marketing teams around system implementations, process improvements and program implementations.
 
 #### Manager, Partner Help Desk Requirements
 
-* Extends that of the Senior Partner Help Desk Specialist requirements
+* Extends requirements of the Senior Partner Help Desk Specialist 
 * Team leadership and coaching experience 
 * Advanced problem solving skills and cross-functional collaboration.
 * 5+ years of experience with B2B sales and/or sales or partner support.
