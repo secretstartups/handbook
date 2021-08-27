@@ -92,7 +92,7 @@ The Staff Analytics Engineer reports to the [Manager, Data.](https://about.gitla
 
 The Staff Analytics Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:**
+**Market Justification:** From a survey data perspective 98 companies have this role with an average of 3 employee incumbents in all industries. In tech there are 33 companies reporting an average of 2 employee incumbents. The business justification for Analytics Engineer Staff and Principal job grades is to retain and develop deep technical talent by establishing Individual Contributor focused career paths for our team members who do not want to move into [Data People Management](https://about.gitlab.com/job-families/finance/manager-data/). Despite residing in the Finance Division, all Data job families are deeply technical in nature and require knowledge of databases, SQL, and modeling. Education in a technical field, typically Computer Science, Mathematics, Management Information Systems, or Data Analytics is typical for individuals in Data careers. At GitLab, the Analytics Engineer role is critical to support the growing Data Program because it helps glue together the business-facing Data Analyst roles with the technology-focused Data Engineering roles by creating data solutions for both roles. The Analytics Engineer is a specialized in dbt, which GitLab has chosen as the standard for developing Trusted Data Models.
 
 #### Staff Analytics Engineer Responsibilities
 
@@ -125,7 +125,10 @@ The Principal Analytics Engineer reports to the [Manager, Data](https://about.gi
 
 The Principal Analytics Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-**Market Justification:**
+**Market Justification:** While there is limited supporting survey data for a grade 9, the same market justification for a Staff Analytics Engineer holds true for a Principal Analytics Engineer. In addition, Analytics Engineering is a relatively new job family in the Data space and is not as mature as the well-established Data Analysis, Data Engineering, and Data Scientist job families. Despite this, the Analytics Engineering job family is growing quickly and there are reasonable analysis to support the addition of new job grades:
+  - From a survey data perspective 11 companies have this role with an average of 1 employee incumbent in all industries.
+  - a LinkedIn search on 2021-08-16 identified 3 Principal Analytics Engineers within the tech sector. 
+  - Companies which support the Analytics Engineer job family include: Netifly, Miro, Spotify, Netflix, Frame.io, Slalom, Pluralsight, and dbt. 
 
 #### Principal Analytics Engineer Responsibilities
 
