@@ -48,10 +48,11 @@ If you want to be involved in the hiring process - let your manager know! The ma
 - reviewing technical assessments
 - conducting technical interviews
 
-After getting approval from your manager open two interview training issues:
+Each of these have a training module.  The technical assessments don't involve direct interaction with candidates, however the technical interviews do, so a component of the training module is to complete the GitLab Interview training. Have a chat with your manager, then create and complete your training issue.
 
-- [PeopleOps Interview Training](https://gitlab.com/gitlab-com/people-ops/Training/issues/new?issuable_template=interview_training)
-- [Support Interview Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Support%20Interview%20Training)
+- [Stage 1 - Assessment Review Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Support%20Hiring%20-%20Stage1%20Assessment%20review%20training)
+- [Stage 2 - Technical Interview Training](https://gitlab.com/gitlab-com/support/support-training/issues/new?issuable_template=Support%20Hiring%20-%20Stage2%20Technical%20Interview%20Training)
+
 
 ### Reviewing Assessments
 Guidlines for reviewing and giving feedback on assessments for the Support Engineer role can be found in the [Support-Assessment-Solutions](https://gitlab.com/gitlab-com/support/support-assessment-solutions/-/blob/master/README.md) project. 
