@@ -89,7 +89,7 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 
 ## Backup check
 
-[Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.01_backup_configuration.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.03_alternate_storage.html).
+[Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
 
 ## Distribute and Verify the Plan / Approval from Senior management
 
@@ -174,9 +174,9 @@ The purpose of the BIA is to identify and prioritize system components by correl
 
 1. Identifying resource requirements:  Realistic recovery efforts require a thorough evaluation of the resources required to resume business processes and related interdependencies as quickly as possible.  Examples of resources that should be identified include software, data files, system components, and vital records.
 
-    - The [Backup and Recovery process](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.01_backup_configuration.html) in GitLab is robust enough to satisfy the above requirement as it relates to GitLab.com.
+    - The [Backup and Recovery process](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html) in GitLab is robust enough to satisfy the above requirement as it relates to GitLab.com.
 
-1. Determining alternate storage and strategies:  Identify any alternate strategies in place to meet expected RTOs.  This includes backup or spare equipment and vendor support contracts.[GitLab alternate storage process, serves to securely store data in an alternate location from source data](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.01_backup_configuration.html)
+1. Determining alternate storage and strategies:  Identify any alternate strategies in place to meet expected RTOs.  This includes backup or spare equipment and vendor support contracts.[GitLab alternate storage process, serves to securely store data in an alternate location from source data](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html)
 
 1. Identifying recovery priorities for system resources based on standards: Adherence to GitLab's agreed upon RTO/ RPO:  Apart from determining the [RTO and RPO](/handbook/business-ops/gitlab-business-continuity-plan#recovery-time-objective-rto-and-recovery-point-objective-rpo), BIA also defines Maximum Tolerable Downtime (MTD)
 
