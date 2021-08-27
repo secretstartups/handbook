@@ -38,14 +38,14 @@ The Product Analysis group works in two-week iterations, which dictate how and w
 plan and prioritize work. Iterations start on Mondays and end on Sundays (Fridays are the 
 final working day).
 
-You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914?iteration_id=Current&label_name[]=product%20analysis).
+You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914).
 
 ### Issue Intake
 
 For all product analysis requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
 apply the `product analysis` label, and follow the guidelines below.
 
-All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103?label_name[]=product%20analysis).
+All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
 
 #### Issue Templates
 
@@ -353,7 +353,8 @@ the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](ht
 ## Product Analysis Handbook Contents
 
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
-* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
+* [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
+* [Team Processes](/handbook/product/product-analysis/team-processes/)
 
 ## Other helpful resources & links
 
@@ -362,3 +363,4 @@ the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](ht
 1. [Growth Product Handbook](/handbook/product/growth/)
 1. [Data Team Handbook](/handbook/business-technology/data-team/)
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
+1. [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
