@@ -57,6 +57,8 @@ The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/c
 #### Senior Partner Help Desk Specialist Requirements
 
 * Extends the responsibilities of the Partner Help Desk Specialist (Intermediate) requirements
+* Experience with Salesforce.com and Partner Relationship Management (PRM) systems.
+* Advanced experience with partner enablement and/or partner operations.
 * 3+ years of experience with B2B sales.
 
 
@@ -79,7 +81,8 @@ The Manager, Partner Help Desk is a [Grade 8](/handbook/total-rewards/compensati
 #### Manager, Partner Help Desk Requirements
 
 * Extends that of the Senior Partner Help Desk Specialist requirements
-* Team leadership experience 
+* Team leadership and coaching experience 
+* Advanced problem solving skills and cross-functional collaboration.
 * 5+ years of experience with B2B sales and/or sales or partner support.
 
 ## Performance Indicators
