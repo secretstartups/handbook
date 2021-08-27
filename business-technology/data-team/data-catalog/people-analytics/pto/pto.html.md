@@ -20,7 +20,7 @@ title: "PTO by Roots"
 <li>What % of our team members have not taken time off</li>
 <li>Help plan for Family &amp; Friends Day</li>
 <li>Better understand upcoming capacity to plan milestones and OKRs.</li>
-<li>Measure impact on performance metrics. We use this data to help understand fluctuations in the <a href=“https://app.periscopedata.com/app/gitlab/686954/Development-Department-MR-Rate”>Development Department Narrow MR Rate/a>, an indicator of how productive our team members are. We encourage our team members to take the time off to recharge, and by considering time off we are able to explain perceived drops or increases in MR rate over time. For example, an increase in time off from the previous month may explain a drop in the narrow MR rate this month.</li>
+<li>Measure impact on performance metrics. We use this data to help understand fluctuations in the <a href=“https://app.periscopedata.com/app/gitlab/686954/Development-Department-MR-Rate”>Development Department Narrow MR Rate</a>, an indicator of how productive our team members are. We encourage our team members to take the time off to recharge, and by considering time off we are able to explain perceived drops or increases in MR rate over time. For example, an increase in time off from the previous month may explain a drop in the narrow MR rate this month.</li>
 </ol>
 
 Please do not use this data to evaluate the specific amount of time or reason why individual team members are absent. Instead, if you have any concerns about an individual's attendance, you should notify your People Business Partner.
