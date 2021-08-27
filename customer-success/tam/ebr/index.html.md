@@ -34,18 +34,21 @@ Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjX
 #### Sample EBR Email
 This is an example is a GitLab senior leader or executive sends the email. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
 
-_Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab._
+*Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
 
-_(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include: _
+*(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:* 
 
-_- Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes_
-_- Collect and discuss future goals and desired success measures_
-_- Discuss product use cases of interest and/or future roadmap items_
-_- Provide an updat on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)_
+****-** Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes**
 
-_Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes._
+****-** Collect and discuss future goals and desired success measures**
 
-_Please let me know if you have any questions._
+****-** Discuss product use cases of interest and/or future roadmap items**
+
+****-** Provide an updat on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)**
+
+*Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes.*
+
+*Please let me know if you have any questions.*
 
 
 ### EBRs in Gainsight
