@@ -58,14 +58,14 @@ description: This page is about working with sales.
              > Following the new "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
       1. Repeat as necessary every 24 hours and go one step up the reporting
          line, going all the way up to CEO if necessary.
-   * It is helpful to refer to the [company organization chart](https://about.gitlab.com/company/team/org-chart/)
+   * It is helpful to refer to the [company organization chart](/company/team/org-chart/)
      to see who to escalate to.
 1. When someone from sales says they'll be in touch with the customer:
    1. Post an update to the ticket, mentioning:
       * The name of the person who will be in touch.
       * Tell the customer to let us know if they haven't heard back within 2
         business days.
-      * Inform the customer that if we don't receive a reply from them within 20 days following our last reply, 
+      * Inform the customer that if we don't receive a reply from them within 20 days following our last reply,
         our ticketing system will mark the ticket as solved. If the customer then doesn't respond within 7 days
         of the ticket being marked as solved, our ticketing system will proceed to close the ticket
         (see [Handling unresponsive tickets](https://about.gitlab.com/support/#handling-unresponsive-tickets)).
@@ -139,7 +139,7 @@ Workflow:
 
 **PRODUCT TRANSFER** - a customer wishes to transfer from SaaS to Self-managed or vice versa
 
-Workflow: 
+Workflow:
 
 - If the current subscription is close to its end date, advise the customer to let it expire and purchase a new subscription
 - If the current subscription is close to its start date, ask billing if a refund would be possible. If they say yes, seek confirmation from the customer that we can cancel and refund their current subscription so that they can purchase a new subscription with the correct product type
@@ -148,4 +148,4 @@ Workflow:
 
 **DOWNGRADE PLAN** - a customer wishes to downgrade from their current tier to a different tier (same product)
 
-Workflow: Ask in Slack for advice on the best solution for the situation you are dealing with. 
+Workflow: Ask in Slack for advice on the best solution for the situation you are dealing with.
