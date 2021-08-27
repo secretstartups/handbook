@@ -20,9 +20,9 @@ We frequently get asked questions like:
 - What are your biggest fears?
 - What keeps you up at night?
 
-On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market. 
+On this page, we document the biggest risks and how we intend to mitigate them. We also have a [biggest tailwinds](/handbook/leadership/biggest-tailwinds) page to see what waves we are riding in our current market.
 
-The list below has a rough ranking of risks. The items toward the top of the list have a higher probability of occurring and/or anticipated level of consequence if are to occur. 
+The list below has a rough ranking of risks. The items toward the top of the list have a higher probability of occurring and/or anticipated level of consequence if are to occur.
 
 ## 1. Security breach
 {:#security-breach}
@@ -54,7 +54,7 @@ We mitigate this risk in a number of ways:
 * we prioritize [security and availability](/handbook/product/#prioritization) over velocity
 * we have multiple [reliability teams](/handbook/engineering/infrastructure/team/reliability) who focus on ensuring our infrastructure is reliable.
 * we have the [scalability team](/handbook/engineering/infrastructure/team/scalability/), whose focus is to make sure that the application running on that infrastructure is also reliable.
-* we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.  
+* we have an [infra-dev escalation process](/handbook/engineering/development/processes/Infra-Dev-Escalation/) created to prioritize issues affecting availability and reliability.
 * the [Quality Engineering Department](/handbook/engineering/quality) makes sure everyone is aware of what the quality of the product is, empirically.
 * the [Application Security team](/handbook/engineering/security/#application-security) are responsible for ensuring the security of the GitLab application, which we also operate on GitLab.com.
 * the [Security Operations team](/handbook/engineering/security/#security-operations), who are responsible for managing security incidents across GitLab and GitLab.com.
@@ -141,7 +141,7 @@ We should [identify and take action as early as possible](/handbook/leadership/u
 ## 6. Key people leave
 {:#key-people-leave}
 
-GitLab's success will create growth opportunities for team members inside *and* outside of the company. 
+GitLab's success will create growth opportunities for team members inside *and* outside of the company.
 
 To mitigate the risk of key people leaving the company, we:
 1. Invest in a [talent development program](/handbook/people-group/talent-development-program/) to increase team member engagement
@@ -177,7 +177,7 @@ In order to address this, we:
 * Maintain the minimum number of [layers](/company/team/structure/#organizational-chart) to be effective
 * Train, [coach](/handbook/people-group/guidance-on-feedback/), and [publicly recognize](/handbook/communication/#say-thanks) good management
 * Set goals for management success (helping managers become great managers)
-* Offer targeted [support to new managers and those onboarding into a management role from outside of GitLab](/handbook/people-group/learning-and-development/manager-development/) 
+* Offer targeted [support to new managers and those onboarding into a management role from outside of GitLab](/handbook/people-group/learning-and-development/manager-development/)
 
 ## 8. Loss of the values that bind us
 {:#loss-of-the-values-that-bind-us}
@@ -242,18 +242,18 @@ We can address this by:
 * [living out our customer results value](/handbook/values/#customer-results)
 * product managers continuing to do [customer validation cycles](/handbook/product-development-flow/#validation-track)
 * [dogfooding](/handbook/values/#dogfooding) so we experience the same pain points our customers do
-* optimizing for [user experience and usability](/handbook/engineering/ux/). We manage toward improving performance for [UX KPIs](/company/kpis/#ux-department-kpis), including [SUS score](/handbook/engineering/ux/performance-indicators/#system-usability-scale-sus-score) 
+* optimizing for [user experience and usability](/handbook/engineering/ux/). We manage toward improving performance for [UX KPIs](/company/kpis/#ux-department-kpis), including [SUS score](/handbook/engineering/ux/performance-indicators/#system-usability-scale-sus-score)
 
 ## 12. Remote proliferation
 {:#remote-proliferation}
 
 Remote work is a [diminishing competitive advantage](/company/culture/all-remote/vision/#diminishing-competitive-advantage) for GitLab, which is a net positive for the world but creates unique pressures to retain team members. Key people may leave as remote opportunities proliferate, impacting talent retention, recruitment, team continuity, and financial pressures related to total rewards.
 
-GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator. 
+GitLab team members are distinctly positioned to be [recruited](https://www.penews.com/articles/companies-search-remote-working-experts-as-the-home-becomes-the-new-office-20201001) by newly-remote and [transitioning organizations](/company/culture/all-remote/transition/). As a workaround for the acute shortage of operational talent in the remote transformation space, organizations may be inclined to prioritize hires for existing roles from GitLab and other established remote firms, justifying above-market compensation by factoring inbuilt expertise on managing a remote team. This is akin to someone who speaks multiple languages receiving more regard and compensation for the same role, with GitLab team members serving as a proverbial remote work translator.
 
 Accelerated by the COVID-19 pandemic, more organizations are [now willing](https://www.beautiful.ai/player/-MN2DyuYlmg6Bh5JA3sn/Remote-Work-Trends) to hire remotely. While [hybrid-remote](/company/culture/all-remote/hybrid-remote/) is a suboptimal experience compared to all-remote, investment in equitible workplace experiences will narrow this gap.
 
-At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy. 
+At particular risk is GitLab's geographic diversity. Team members farthest from major cities may leave to achieve accelerated financial success at newly-remote organizations which utilize a different compensation philosophy.
 
 ## 13. Innovation and creativity are stifled
 {:#innovation-and-creativity-are-stifled}
@@ -306,7 +306,7 @@ To make sure this is clear we:
 
 [Transparency](/handbook/values/#transparency) is a GitLab value. It is central to how we operate and our success as a company. It is important for employee recruitment and retention. It is also valued by GitLab customers, contributors, and the many folks who utilize GitLab's handbook to better their own businesses. While GitLab will continue to prioritize transparency, it must also promote "responsible" transparency as openly sharing information can have unintended consequences. To mitigate risks from irresponsible (or "[radical](/handbook/communication/top-misused-terms/#radical_transparency)") transparency, we:
 
-1. Are clear with team members on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/#not-public) section of the handbook 
+1. Are clear with team members on which information cannot be public. This should be clearly captured in the [not public](/handbook/communication/#not-public) section of the handbook
 1. Execute fast and [efficiently](/handbook/values/#efficiency) to drive [results](/handbook/values/#results) and stay ahead of competitors who read our handbook. As Peter Drucker says, "Strategy is a commodity, execution is an art"
 1. Educate team members on effective and responsible transparency. For example, we offer a [transparency competency](/handbook/values/#transparency-competency)
 
@@ -483,9 +483,3 @@ We can mitigate this risk by:
 {:#insufficient-investment-in-innovation}
 
 We've seen other companies struggle when they have been unwilling or unable to invest in future product innovations or disrupt current offerings to meet future demands. We mitigate this by allocating a portion of R&D budget to future innovations and exploring new opportunities through [Single-Engineer Groups](/company/team/structure/#single-engineer-groups). [Iteration](/handbook/values/#iteration) helps us to place small bets and justify future investment after seeing initial momentum.
-
-
-
-
-
-
