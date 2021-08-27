@@ -10,7 +10,7 @@ The Partner Help Desk Specialist team is responsible for supporting the GitLab p
 
 ### Partner Help Desk Specialist (Intermediate)
 
-The Partner Help Desk Specialist (Intermediate) reports to the Partner Helpdesk Manager.
+The Partner Help Desk Specialist (Intermediate) reports to the Manager, Partner Helpdesk .
 
 #### Partner Help Desk Specialist (Intermediate) Job Grade
 
@@ -44,7 +44,7 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 
 ### Senior Partner Help Desk Specialist
 
-The Senior Partner Help Desk Specialist reports to Partner Helpdesk Manager.
+The Senior Partner Help Desk Specialist reports to Manager, Partner Helpdesk .
 
 #### Senior Partner Help Desk Specialist Job Grade
 
@@ -60,22 +60,23 @@ The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/c
 * 3+ years of experience with B2B sales.
 
 
-### Partner Help Desk Manager
+### Manager, Partner Help Desk 
 
-The Partner Help Desk Manager reports to [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/).
+The Manager,Partner Help Desk reports to [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/).
 
-#### Partner Help Desk Manager Job Grade
+#### Manager, Partner Help Desk  Job Grade
 
-The Partner Help Desk Manager is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Manager, Partner Help Desk is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Partner Help Desk Manager Responsibiliites
+#### Manager, Partner Help Desk Responsibiliites
 
 * Extends the responsibilities of the Partner Help Desk Specialist and Senior Partner Help Desk Specialist responsibilities
-* Manages  Partner Help Desk team members.  Establishes team OKRs and plans, and supports team in enablement and problem solving.  Ensures team results.
-* Collaborates with [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) in rolling out program updates, system enhancements and enablement offers. 
-* Leads cross-functional initiatives with Operations and Marketing teams.
+* Manages  Partner Help Desk team members, and is responsible for recruiting, onboarding and ongoing development of team.  
+* Establishes team OKRs and plans, and supports team in enablement and problem solving.  Ensures team results.
+* Collaborates with [Senior Director, Channel Programs and Enablement](/job-families/sales/director-channel-programs-and-enablement/) in rolling out partner program updates, system enhancements and enablement programs. 
+* Leads cross-functional initiatives with Operations and Marketing teams around system implementations, process improvements and program implementations.
 
-#### Partner Help Desk Manager Requirements
+#### Manager, Partner Help Desk Requirements
 
 * Extends that of the Senior Partner Help Desk Specialist requirements
 * Team leadership experience 
