@@ -90,11 +90,11 @@ The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/
 
 #### Senior Absence Management Partner
  
-The Senior Absence Management Partner reports to Director, Team Member Relations
+The Senior Absence Management Partner reports to Director, Team Member Relations. 
 
 #### Senior Absence Management Partner Job Grade
 
-The Senior Absence Management Partner is a grade 7.
+The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Absence Management Partner Responsibilities
 
@@ -119,7 +119,6 @@ Excellent written and verbal communication and interpersonal skills.
 * Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
-
 
 ### Manager, Team Member Relations
 
