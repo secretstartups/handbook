@@ -60,12 +60,17 @@ If the namespace owner makes no response, follow the [Request successful](#reque
 
 If the request is successful, follow these steps:
 
-In admin, rename the owner's namespace:
+For users, change the owner's username with [Chatops](https://docs.gitlab.com/ee/development/chatops_on_gitlabcom.html):
+
+1. In Slack, run `/chatops run user idle <owner_username>`.
+1. Add an [Admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html).
+
+If you'd prefer to use admin, or for groups, rename the owner's namespace with these steps:
 
 1. Navigate to the namespace in admin - [users](https://gitlab.com/admin/users) or [groups](https://gitlab.com/admin/groups)
 1. Select “Edit” on the profile.
 1. Append "_idle" to the username in case of a user, or to the group URL in case of a group.
-1. Add an [Admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html)
+1. Add an [Admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html).
 1. Save changes.
 
 In Zendesk:
