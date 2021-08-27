@@ -46,8 +46,9 @@ The Senior HRIS Analyst, People Technology is a grade 7.
 The Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
-
 The Staff HRIS Analyst, People Technology is a grade 8.
+
+**Market Justification:** When reviewing survey data there are 112 companies with 223 at the Staff level of an HRIS role. The business need for GitLab to have an individual contributor grade 8 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager. 
 
 #### Responsibilities
 
@@ -76,15 +77,15 @@ The Staff HRIS Analyst, People Technology is a grade 8.
 * Completion of one full implementation with Workday HCM and/or Workday certification in HCM preferred
 * Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
 
-<br>
+### Principal HRIS Analyst, People Technology
 
-### Senior Staff HRIS Analyst, People Technology
-
-The Senior Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
+The Principal HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
 #### Job Grade
 
-The Senior Staff HRIS Analyst, People Technology is a grade 9.
+The Principal HRIS Analyst, People Technology is a grade 9.
+
+**Market Justification:** When reviewing survey data there are 13 companies with 14 team members at the Principal level of an HRIS role. The business need for GitLab to have an individual contributor grade 9 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager. 
 
 #### Responsibilities
 
@@ -114,8 +115,6 @@ The Senior Staff HRIS Analyst, People Technology is a grade 9.
 * Passionate and constantly striving to create a seamless and delightful experience for our Team Members in our processes, tools, and systems. 
 * Bachelor's degree or equivalent experience preferred
 
-<br>
-
 ### Manager, People Technology
 
 The Manager, People Technology reports into the Director, People Tools and Technology.
@@ -135,8 +134,6 @@ The Manager, People Technology, People Technology is a grade 8.
 * Extends that of a Staff HRIS Analyst, People Technology
 * 1-2+ years of people management experience
 
-<br>
-
 ### Senior Manager, People Technology
 
 The Senior Manager, People Technology reports into the Director, People Tools and Technology.
@@ -147,21 +144,15 @@ The Senior Manager, People Technology is a grade 9.
 
 #### Responsibilities
 
-* Extends that of a Senior Staff HRIS Analyst/Manager, People Technology
+* Extends that of a Principal HRIS Analyst/Manager, People Technology
 * Management responsibilities include recruiting, interviewing, hiring, compensation management, and handling other team member milestone events
 * Develop team leaders/managers through mentoring, coaching, and training actively sharing knowledge and guidance
 * Develop a training strategy to help elevate team members and to provide cross functional knowledge to ensure team coverage
 
 #### Requirements
 
-* Extends that of a Senior Staff HRIS Analyst, People Technology
+* Extends that of a Principal HRIS Analyst, People Technology
 * 3+ years of people management experience
-
-#### Market Justification
-
-Market Justification: 
-
-Business Justification: The need for dual career paths within People Technology is to ensure that we are providing a path to team members who do not have a desire to become people managers. This is not uncommon for this function as there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager. 
 
 #### Performance Indicators
 
