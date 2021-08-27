@@ -317,7 +317,7 @@ Sometimes `bin/release-post-assemble`  may fail if there is a Ruby version updat
 
 #### Communication
 
-The release post manager, the Technical Advisor, the Product Operations DRI, and the Technical Writer will need to communicate about topics that are related to the release post but not relevant to all participants in the main [Slack release post channel](https://gitlab.slack.com/archives/C3TRESYPJ). The Release Post Manager will create a Slack channel called "X-Y-release-post-prep to facilitate communication specific to the release post leads, which will be utilized till the 21st to minimize noise in the main release post Slack channel. On the 22nd, this channel will be abandoned and all communication will default to the main release post Slack channel for the final day of collaboration.
+The release post manager, the Technical Advisor, the Product Operations DRI, and the Technical Writer will need to communicate about topics that are related to the release post, these should occur in the `#release-post` channel in Slack.
 
 The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
 
@@ -1637,7 +1637,7 @@ If you'd like to check to see when the last pipeline ran (and if it picked up yo
 
 You can also watch [this overview video](https://www.youtube.com/watch?v=rfn9ebgTwKg) demonstrating how to use the `release post item generator`.
 
-*note: The release post item generator is still in beta. If you find issues or have questions post them in Slack [#release-post-iteration](https://gitlab.slack.com/archives/CTXULEPQD)* or add them to the current cycle release post retrospective issue.
+*Note: If you find problems with the `release post item generator`, questions should be posted in Slack [#release-post](https://gitlab.slack.com/archives/CTXULEPQD)* or added to the release post retrospective issue, tagging the release post [technical advisor](#technical-advisors). 
 
 The generator script can also be run on your computer.
 
