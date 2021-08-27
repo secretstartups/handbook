@@ -120,6 +120,22 @@ Excellent written and verbal communication and interpersonal skills.
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
 
+## Performance Indicators
+
+* Team Member Absence Management Case Management
+   * Seniro Absence Management Partner will respond to all requests for assistance from team members within 24 hours. 
+   * All cases are resolved in a consistent, fair and unbiased process.  
+   * Identify and resolve potential risks to GitLab.  
+   * When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive exeriences while taking time off. 
+   * Overall employee sentiment is positive (>80%) on the Engagement Survey.
+
+* Collaboration
+   * Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
+
+## Career Ladder
+
+The next step in the job family is Team Member Relations Partner or Compliance Partner
+
 ### Manager, Team Member Relations
 
 The Manager, Team Member Relations reports to the Director, Team Member Relations.
