@@ -203,46 +203,52 @@ refers purely to their position in Zendesk.
 
 ```mermaid
 graph TD;
-  Start-->|"Sev1"| Sev1;
-  Sev1-->|"Yes"| Emergency;
-  Sev1-->|"No"| Sev2;
-  Start-->|"Sev2"| Sev2;
-  Start-->|"Sev3/Blank"| Sev3;
-  Start-->|"Sev4"| Sev4;
-  Sev2--> Schedule;
-  Sev3--> Schedule;
-  Sev4--> Schedule;
-  Emergency--> Pagerduty;
-  Schedule-->|"Non-support"| BusinessHours;
-  Schedule-->|"Medium/Low priority"| BusinessHours;
-  Schedule-->|"Starter/bronze"| BusinessHours;
-  Schedule-->|"Free/trial/prospect"| BusinessHours;
-  Schedule-->|"Other"| Preferred;
-  Preferred-->|"All/Blank"| BusinessHours;
-  Preferred-->|"AMER"| AMER;
-  Preferred-->|"APAC"| APAC;
-  Preferred-->|"EMEA"| EMEA;
+  Start-->Form;
+  Form-->|"Yes"| Stage;
+  Form-->|"No"| NonSupport;
+  Stage-->|"Needs Org"| NeedsOrg;
+  Stage-->|"Needs Triage"| NeedsTriage;
+  Stage-->|"FRT"| Plan;
+  Stage-->|"NRT"| NRT;
+  Plan-->|"Ultimate"| Priority;
+  Plan-->|"Premium"| Priority;
+  Plan-->|"Starter/Bronze"| Starter;
+  Plan-->|"Consumption"| Priority;
+  Priority-->|"High"| PreferredRegion;
+  Priority-->|"Medium"| PreferredRegion;
+  Priority-->|"Low"| Low;
+  PreferredRegion-->|"All Regions"| AllRegions;
+  PreferredRegion-->|"AMER"| AMER;
+  PreferredRegion-->|"APAC"| APAC;
+  PreferredRegion-->|"EMEA"| EMEA;
 
-  Pagerduty--> BusinessHours;
-  Start{"What is the severity?"}
-  Sev1{"Can this ticket be an emergency ticket?"};
-  Sev2["Priority set to High"];
-  Sev3["Priority set to Normal"];
-  Sev4["Priority set to Low"];
-  click Sev4 "https://gitlab.zendesk.com/agent/admin/triggers/360076290239" _blank;
-  Emergency["Set form, priority, severity for emergencies"]
-  click Emergency "https://gitlab.zendesk.com/agent/admin/triggers/360075984960" _blank;
-  Pagerduty["Trigger Pagerduty for emergency ticket"];
-  click Pagerduty "https://gitlab.zendesk.com/agent/admin/triggers/360074069999" _blank;
-  Schedule{"What criteria does it meet?"};
-  Preferred{"What is the preferred region of support?"}
-  AMER["Set schedule to AMER"];
-  click AMER "https://gitlab.zendesk.com/agent/admin/triggers/360014043640" _blank;
-  APAC["Set schedule to APAC"];
-  click APAC "https://gitlab.zendesk.com/agent/admin/triggers/360014043600" _blank;
-  EMEA["Set schedule to EMEA"];
-  click EMEA "https://gitlab.zendesk.com/agent/admin/triggers/360014064819" _blank;
-  BusinessHours["Set schedule to Business Hours"];
+  Start["Set schedule to Business Hours by default"]
+  Form{"Is this SaaS, SaaS Account,<br>Self-managed, or a Partner form?"}
+  Stage{"What is the ticket stage value?"}
+  Plan{"What is the support level?"}
+  Priority{"What is the ticket priority?"}
+  PreferredRegion{"What is the preferred region of support?"}
+  AMER["Set schedule to AMER"]
+  APAC["Set schedule to APAC"]
+  EMEA["Set schedule to EMEA"]
+  NRT["Set schedule to Business Hours"]
+  NeedsOrg["Set schedule to Business Hours"]
+  NeedsTriage["Set schedule to Business Hours"]
+  Starter["Set schedule to Business Hours"]
+  Low["Set schedule to Business Hours"]
+  AllRegions["Set schedule to Business Hours"]
+  NonSupport["Set schedule to Business Hours"]
+  click Start "https://gitlab.zendesk.com/agent/admin/triggers/1900000930334" _blank;
+  click NonSupport "https://gitlab.zendesk.com/agent/admin/triggers/1900000930374" _blank;
+  click NeedsOrg "https://gitlab.zendesk.com/agent/admin/triggers/360079161439" _blank;
+  click NeedsTriage "https://gitlab.zendesk.com/agent/admin/triggers/360078881760" _blank;
+  click NRT "https://gitlab.zendesk.com/agent/admin/triggers/1900000930474" _blank;
+  click Starter "https://gitlab.zendesk.com/agent/admin/triggers/360078881880" _blank;
+  click Low "https://gitlab.zendesk.com/agent/admin/triggers/360078881900" _blank;
+  click AllRegions "https://gitlab.zendesk.com/agent/admin/triggers/1900000930434" _blank;
+  click AMER "https://gitlab.zendesk.com/agent/admin/triggers/360078881840" _blank;
+  click APAC "https://gitlab.zendesk.com/agent/admin/triggers/1900000930394" _blank;
+  click EMEA "https://gitlab.zendesk.com/agent/admin/triggers/1900000930414" _blank;
 ```
 
 ## Remaining stages
