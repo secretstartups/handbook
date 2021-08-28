@@ -19,6 +19,19 @@ twitter_creator: '@gitlab'
 The purpose of this handbook page is to align our marketing team on a single FY22 marketing plan. This page and the FY22 plan are intended to be an ongoing work-in-progress, contributed to by the entire team throughout FY22 to foster collaboration and focus.
 
 Everyone can contribute. See something you'd like to discuss or iterate on? Start an MR and tag @jgragnola, @lblanchard, or @darawarde to assist with merging!
+### Marketing Strategy:
+
+- Create the DevOps Platform Category
+- Support sales in land and expand motion:
+   - Bottoms up driving awareness in Developer and Operations professional personas
+   - Tops down with purpose tops down marketing to owners of DevOps Tools, CTO, CIO, CISO, VP of Application Development
+   - Land and expand requires both bottoms up and tops down
+
+#### Marketing Pillars:
+
+1. Elevate our brand messaging and product positioning
+1. Increase Funnel Volume to drive Pipeline 
+1. Maintain team member delight through strong collaboration and prioritization 
 
 ### Goal of FY22 Marketing Plan:
 {: #goal}
