@@ -15,7 +15,7 @@ If you're a GitLab team member and are looking to alert Reliability Engineering 
 If you're a GitLab team member looking for who is currently the Engineer On Call (EOC), please see the [Who is the Current EOC?](/handbook/engineering/infrastructure/incident-management/#who-is-the-current-eoc) section.
 {: .alert .alert-info}
 
-If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call) section.
+If you're a GitLab team member looking for help with a security problem, please see the [Engaging the Security On-Call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) section.
 {: .alert .alert-info}
 
 ## Expectations for On-Call
