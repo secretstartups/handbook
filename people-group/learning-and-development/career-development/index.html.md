@@ -117,7 +117,7 @@ The video below is an interivew with a GitLab team member who has used the Indiv
 
 ##### IGP Live Learning
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJezH0ToqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -171,7 +171,7 @@ There are various internal opportunities to expand a team member's exposure to m
 
 #### Having Career Development Conversations with your Manager
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
@@ -179,7 +179,7 @@ The video below is a recording of the Live Learning that took place in August 20
 
 #### Having Career Development Conversations with your Team
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
