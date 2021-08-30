@@ -507,7 +507,7 @@ Slack channel
 As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), we try not to micromanage spending. Our spending sub-value is the foundation of our expense philosophy, and we've found that the vast majority of team members exercise thoughtful judgement in purchasing. That said, we've had some questionable purchases. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
 1. Costume for the party at the end of Contribute.
 1. Boarding expense for animals while traveling.
-1. A $1700 office chair from a celebrity furniture maker.
+1. A $1700 office chair from a celebrity furniture designer. 
 1. A llama rental for a team event.
 1. Meals during the Contribute when team members opt out of the company provided meal option.
 1. Cellphones and accessories.
