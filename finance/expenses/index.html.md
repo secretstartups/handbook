@@ -115,7 +115,7 @@ It is uncommon for you to need all of the items listed below. Read [GitLab's gui
 1. Work-related books
 
 ### Transport/Delivery of free procurements
-Feel free to check local second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost is reasonable based on the table above.
+Feel free to check local second-hand/free markets when looking for equipment, especially furniture such as desks and chairs. GitLab will reimburse the cost of any transport and delivery services you need to procure the item(s) provided the total cost is reasonable based on the table above factoring in any local pricing adjustments.
 
 GitLab will also reimburse costs relevant to one's location in cases where anniversary gifts or company issued swag incurs additional import costs.
 
