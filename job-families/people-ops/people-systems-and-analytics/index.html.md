@@ -156,13 +156,7 @@ The Senior Manager, People Technology is a grade 9.
 
 #### Performance Indicators
 
-* Implementation projects on time and within budget
-* Number of internally delivered business solutions
-* Number of business processes streamlined and HRIS systems leveraged for onboarding, offboarding, hiring, time off, etc.
-* Well defined security levels audited and maintained, reviewed with Legal/Privacy
-* Documentation captured within internal Handbook on how to navigate and use systems
-* Established structure for ticket intake and timeline to resolution
-* Customer satisfaction on completed tickets
+Performance indicators currently being defined. 
 
 #### Career Ladder
 
@@ -269,31 +263,11 @@ The Senior Manager, People Analytics is a grade 9.
 
 ### Performance Indicators
 
-* Census
-* Attrition
-* Active Users with a Recruiting or Hiring Manager LinkedIn Seat
-* Average Location Factor
-* Cost Per Hire
-* Hires vs Plan
-* Time to Offer Accept
+Performance indicators currently being defined. 
 
 ### Career Ladder
 
 The next step in the job family is People Analytics Leadership.
-
-### Performance Indicators
-
-* Census
-* Attrition
-* Active Users with a Recruiting or Hiring Manager LinkedIn Seat
-* Average Location Factor
-* Cost Per Hire
-* Hires vs Plan
-* Time to Offer Accept
-
-### Career Ladder
-
-The next step in the job family is Senior Manager, People Analytics.
 
 ### Hiring Process
 
