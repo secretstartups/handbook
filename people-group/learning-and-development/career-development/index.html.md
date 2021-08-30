@@ -182,7 +182,7 @@ The video below is a recording of the Live Learning that took place in August 20
 The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <figure class="video_container">
-  <iframe src="addurl" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Career Development Conversation Acknowledgements
