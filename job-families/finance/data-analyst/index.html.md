@@ -3,7 +3,49 @@ layout: job_family_page
 title: "Data Analytics"
 ---
 
-[Data Analytics Handbook Page](/handbook/business-ops/data-team/organization/analytics/)
+##  Data Analyst Roles at GitLab
+
+GitLab is one of the most _data-informed-and-driven_ companies you'll find. Check out our [KPI Page](https://about.gitlab.com/company/kpis/) and metrics-driven [Quarterly Objectives](https://about.gitlab.com/company/okrs/) as proof. Data is used by every team and every person, helping us better understand our customers, products, and performance. As an all-remote company, sharing performance metrics helps us [collaborate](https://about.gitlab.com/handbook/values/#collaboration) better, align on [results](https://about.gitlab.com/handbook/values/#results) better, and perform our day-to-day jobs [transparently](https://about.gitlab.com/handbook/values/#transparency).  As a Data Analyst, you'll have the opportunity work on a wide variety of problems and influence GitLab's performance, our customer's experience, and how we develop overall. Read more about this role in the [Data Analytics Handbook Page](/handbook/business-ops/data-team/organization/analytics/).
+
+## Responsibilities
+
+* Collaborate with other functions across the company by building reports and dashboards with useful analysis and data insights
+* Explain trends across data sources, potential opportunities for growth or improvement, and data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive data analysis
+* Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-ops/data-team/#-extract-and-load) to help drive product designs or service usage or note impacts to data reporting capabilities
+* Understand and document the full lifecycle of data and our common data framework so that all data can be integrated, modeled for easy analysis, and analyzed for data insights
+* Document every action in either issue/MR templates, the [handbook](/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
+* Expand our database with clean data (ready for analysis) by implementing data quality tests while continuously reviewing, optimizing, and refactoring existing data models
+* Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
+* Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope
+* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+* Own the end-to-end process of on-call data triaging from reading Airflow logs, to diagnosing the data issue, and to verifying and implementing a solution with an automated alerting system (ChatOps, etc) as well as providing data support for all GitLab members
+* Contribute to and implement data warehouse and data modeling best practices, keeping reliability, performance, scalability, security, automation, and version control in mind
+* Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
+* This position reports to the Manager, Data
+
+## Requirements
+
+* 2+ years experience in an analytics role
+* Experience building reports and dashboards in a data visualization tool
+* Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
+* Experience with a variety of data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-ops/data-team/#-extract-and-load))
+* Demonstrate capacity to clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
+* Deep understanding of SQL in analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
+* Hands on experience working with SQL, Python, API calls, and JSON, to generate business insights and drive better organizational decision making
+* Familiarity with Git and the command line
+* Deep understanding of relational and non-relational databases, SQL and query optimization techniques, and demonstrated ability to both diagnose and prevent performance problems
+* Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
+* Positive and solution-oriented mindset
+* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
+* Ability to thrive in a fully remote organization
+* Share and work in accordance with our values
+* Successful completion of a [background check](/handbook/people-group/code-of-conduct/#background-checks)
+* Ability to use GitLab
+
+==================
+
+
 
 ## Levels
 
