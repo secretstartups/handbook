@@ -25,6 +25,10 @@ On this page you will be provided an overview of the Diversity, Inclusion & Belo
 |     | [Launched GitLab's First DIB Training Certification](https://about.gitlab.com/company/culture/inclusion/dib-training/)
 | Feb | Annual DIB Survey via Culture Amp                         |
 | Apr | [Published updated Reverse AMA process](https://about.gitlab.com/handbook/communication/ask-me-anything/#process-for-initiating-a-reverse-ama)
+| May | Launched Global Seld ID Campaign
+| Jun | [Published DIB Advisory Group Goals](https://about.gitlab.com/company/culture/inclusion/advisory-group-guide/#6-month-goals--action-for-the-dib-advisory-group---as-of-july-2021) |
+| Aug | Published 2021 DIB survey results to the company |
+
 
 ##  Summary of Events for 2020
 
