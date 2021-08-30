@@ -343,4 +343,4 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 #### Week 5
 
-- Career Development with Sherrod Patching
+- [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
