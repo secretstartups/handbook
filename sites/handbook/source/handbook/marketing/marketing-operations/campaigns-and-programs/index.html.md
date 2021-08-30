@@ -178,6 +178,7 @@ This is a light weight virtual event that can be hosted on GitLabber's personal 
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
+| Sales Nominated | Status for when Sales and Marketing want to extend an event invitation | |
 | Waitlisted | Holding state if registration is full will be moved to `Registered` if space opens |  |
 | Registered | Registered for event |  |
 | No Show | Registered but did not attend event |  |
@@ -210,6 +211,7 @@ This is webcast hosted on an external partner/vendor platform. The status of `At
 | Member Status | Definition | Success |
 | ------------- | ---------- | ------- |
 | No Action | default starting position for all records |  |
+| Sales Nominated | Used by marketing for invitee tracking | | 
 | Registered | Registered for webcast |  |
 | Attended | Attended event | Yes |
 | Follow Up Requested | Requested to be followed up with from GitLab | Yes |
@@ -313,8 +315,7 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 - Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 - Conference - Virtual: [YYYYMMDD_Vendor_VirtualConfName (Conference - Virtual Template)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME7624A1)
 - Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
-- Self-Service Virtual Event with Promotion: [YYYYMMDD_SelfServiceTopic_Region(with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8387A1)
-- (ABM only) Self-Service Virtual Event with Marketo Landing Pages: [YYYYMMDD_SelfServiceTopic_Company(ABM)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
+- Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
 - Vendor Arranged Meetings (1:1 meetings): [YYYYMMDD_ArrangedMeetingsVendorName_Region](https://app-ab13.marketo.com/#PG5698A1)
 - Executive Roundtables: [YYYYMMDD_ExecutiveRoundtable_Topic_Region](https://app-ab13.marketo.com/#ME6028A1)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
@@ -357,8 +358,17 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
 - Update the utm_campaign field using the following format: Campaign Tag, with no spaces, capitalization, underscores, or special characters.
 
 ##### Step 4: Activate Marketo smart campaign(s)
-* If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded.
-* Click the "Smart Campaigns" folder
+* If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
+* If this is `Self-Service with Promotion` follow the below activation instructions:
+     * Click the `Smart Campaigns` folder
+     * Select the `00 - Processing - No Shows / Attendees` smart campaign
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`  
+     * Select the `01a Registration Flow` smart campaign
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`         
+* For all other campaign types, follow the below activation instructions:
+     * Click the "Smart Campaigns" folder
      * Select the `Interesting Moments` smart campaign. 
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the "Schedule" tab and click `Activate`.
