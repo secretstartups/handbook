@@ -7,8 +7,6 @@ title: "Marketing Strategy and Operations"
 
 ### Sr. Director, Marketing Strategy and Operations
 
-The Sr. Director, Marketing Strategy and Operations reports to the VP, Marketing Strategy and Operations.
-
 #### Sr. Director, Marketing Operations and Strategy Job Grade
 
 The Director, Marketing Strategy is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
@@ -47,8 +45,6 @@ The Director, Marketing Strategy is a [grade 11](/handbook/total-rewards/compens
 * Ability to use GitLab
 
 ### VP, Marketing Strategy and Operations
-
-The VP, Marketing Strategy and Operations report to the CMO.
 
 #### VP Marketing Operations and Strategy Job Grade
 
