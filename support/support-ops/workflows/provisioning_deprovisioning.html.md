@@ -55,8 +55,7 @@ works using the following process:
 
 <details>
 <summary>The Python script used</summary>
-
-```python
+<div><pre><code>
 def check_email_domain(email):
   email_domain = email.split('@')[1]
   if email_domain != "gitlab.com":
@@ -96,27 +95,22 @@ if check_email_domain(email) == 'pass':
 else:
   output = {'result': 'Invalid email domain. You must use a gitlab.com email address.'}
 output
-```
-
+</code></pre></div>
 </details>
 
 <details>
 <summary>Outbound email contents</summary>
-
-> Hi ,
-> 
-> Thanks for requesting a Zendesk Light Agent account. This is the result of
-> your request:
-> 
-> RESULT_FROM_PYTHON_SCRIPT
-> 
-> You now need to wait 24 hours for the account to be provisioned to Okta.
-> You'll then see Zendesk in your list of Okta applications and you can sign in
-> from there.
-> 
-> Any questions or problems please contact Support Operations in Slack
-> #support_operations.
-
+<blockquote>
+<p>Hi,</p>
+<p></p>
+<p>Thanks for requesting a Zendesk Light Agent account. This is the result of your request:</p>
+<p></p>
+<p>RESULT_FROM_PYTHON_SCRIPT</p>
+<p></p>
+<p>You now need to wait 24 hours for the account to be provisioned to Okta. You'll then see Zendesk in your list of Okta applications and you can sign in from there.</p>
+<p></p>
+<p>Any questions or problems please contact Support Operations in Slack #support_operations.</p>
+</blockquote>
 </details>
 
 ## Provisioning in Zendesk Global
@@ -135,10 +129,10 @@ Once one has been received, the process will go as follows:
    * Subject: US Citizenship Verification Request
    * Body:
      > Greetings all!
-     > 
+     >
      > Can you verify if NAME is a US Citizen? They are requesting access to the
      > Federal Zendesk instance via ISSUE which does require it.
-     > 
+     >
      > Thanks!
    * Replace NAME with the requester's name
    * Replace ISSUE with the link to the Access Request issue
