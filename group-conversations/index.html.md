@@ -272,7 +272,7 @@ On 2021-04-19, we'll move our Group Conversations to a new schedule to ensure [f
 | [Brand Activation](/handbook/marketing/corporate-marketing/brand-activation/) | Becky Reich | No | Every other month |
 | [UX Research](/handbook/engineering/ux/ux-research/) | Sarah Jones/Adam Smolinski | No | Every other month |
 | [Community Relations](/handbook/marketing/community-relations/) | David Planella | No | Every other month |
-| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Craig Mestel | No | Every other month |
+| [Revenue Marketing](/handbook/marketing/revenue-marketing/) | Jean-Baptiste Larramendy | No | Every other month |
 | [Alliances](/handbook/alliances/) | Nima Badiey | No | Every other month |
 | [Learning and Development](/handbook/people-group/learning-and-development/) | Josh Zimmerman | No | Every other month |
 
