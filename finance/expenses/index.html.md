@@ -167,7 +167,7 @@ If you need HDMI connectivity (e.g. to connect a TV, projector or monitor) and a
 
 ##### Desktop monitors
 
-Each person's monitor set up is a personal preference based on your own productivity. In recent years, many team members have decided to change from dual monitors to a single ultrawide monitor. Based on the table above, you can expense up to two 16:9 monitors (the reference price is $500 in the USA), or one ultrawide monitor (the reference price is $1000 in the USA). 
+Each person's monitor set up is a personal preference based on your own productivity. In recent years, many team members have decided to change from dual monitors to a single ultrawide monitor. Based on the table above, you can expense up to two 16:9 monitors (the reference price is $500 in the USA) or one ultrawide monitor (the reference price is $1000 in the USA). 
 
 If you are an engineer or in a similar role, we encourage dual monitors or an ultrawide monitor. If you are not in an engineer(-like) role, you can make a choice based on your own personal preference and if it is required/helpful for your role and choose whether you want a single 16:9 monitor, dual 16:9 monitors, or a single ultrawide monitor.
 
