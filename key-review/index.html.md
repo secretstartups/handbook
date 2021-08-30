@@ -29,9 +29,9 @@ For each [executive](/company/team/structure/#executives) — and some departmen
 Meetings are scheduled monthly starting on the 15th day after month end.  
 
 ## Scheduling
-The EBA to the CFO is the scheduling DRI for the Monthly Key Reviews, with the exception of the Sales Key Review, the EBA to the CRO is the scheduling DRI for the Sales Key Review.
+The Sr. EBA to the CFO is the scheduling DRI for the Monthly Key Reviews and will schedule no more than 2 Key Reviews on a given day. The only exception is the Sales Key Review, for which the Staff EBA to the CRO is the scheduling DRI. The Key Review meeting invitations will utilize that review's functional DRI's Zoom account, always be set to record, and set the Sr. EBA to the CFO and the functional DRI's corresponding EBA as co-hosts.  
 
-A Key Review should not be cancelled, permission to cancel or make changes to the Key Review schedule must be approved by the CFO. If the CFO is not available the CEO will make the decision. Requests should be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
+A Key Review should not be cancelled; permission to cancel or make changes to the Key Review schedule must be requested in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel, tagging the CFO for approcal and the Sr. EBA to the CFO for awareness. If the CFO is not available, the CEO will make the decision. All changes to the Key Review schedule and/or invites have to be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel.
 
 Each month's Key Review schedule will be posted in the [#key-review](https://gitlab.slack.com/archives/CPQT0TRFX) Slack channel on the first Monday of each month (if that Monday falls on a holiday it will be posted on the next business day).
 
