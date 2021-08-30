@@ -10,24 +10,24 @@ description: "A running log of Field Operations changes (Sales Ops, CS Ops, Chan
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly Field Ops release milestone/epic. It was started in Q3-FY22 and is organized by newest updates at the top.
+The Field Operations Changelog keeps a running log of Field Ops changes related to Sales Ops, CS Ops, Channel Ops & Deal Desk. The log is organized by fiscal year/quarter and sub-organized by the bi-weekly Field Ops release milestone/epic. It was started in Q3-FY22 and is organized by newest updates at the top. Any entries that were included in a Field Ops Release are **bolded**.
 
 To learn more about Field Ops releases, see the [Field Ops Release Schedule handbook page](/handbook/sales/field-operations/release-schedule/). 
 
 ## Q3-FY22 
 
-### 2021-08-16 Release ([Epic] (link TBD))
-Item 1 (title only) (issue link)
+### 2021-08-30 Release ([Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
 
-Item 2 (issue link)
+**[GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
 
-Item 3 (issue link)
+**[Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
 
-Item 4 (issue link)
-
-Item 4 (issue link)
+**[LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
 
 ### 2021-08-02 Release
+
+[Launch of Field Operations Changelog](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/853)
+
 [Partner Program and System Changes](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/49)
 
 [FY22 Billing and Subscription Management Experience Improvements (Project Super Sonics) - Sales Order Processing Handbook Page Updates](/handbook/sales/field-operations/order-processing/#supersonics-billing-and-subscription-management-experience)
