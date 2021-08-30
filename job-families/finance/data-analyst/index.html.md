@@ -16,10 +16,8 @@ GitLab is one of the most _data-informed-and-driven_ companies you'll find. Chec
 * Document every action in either issue/MR templates, the [handbook](/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 * Expand our database with clean data (ready for analysis) by implementing data quality tests while continuously reviewing, optimizing, and refactoring existing data models
 * Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
-* Provide data modeling expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries in Snowflake and in Periscope
+* Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
 * Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
-* Own the end-to-end process of on-call data triaging from reading Airflow logs, to diagnosing the data issue, and to verifying and implementing a solution with an automated alerting system (ChatOps, etc) as well as providing data support for all GitLab members
-* Contribute to and implement data warehouse and data modeling best practices, keeping reliability, performance, scalability, security, automation, and version control in mind
 * Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
 * This position reports to the Manager, Data
 
@@ -117,20 +115,13 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 
 Extends the requirements of the Data Analyst (Intermediate) requirements, plus:
 * 6+ years in the Data space as an analyst, engineer, scientist, or equivalent
-* Advocate for improvements to data quality, security, and query performance that have particular impact across your team as a Subject Matter Expert (SME)
+* Build close relationships with other functional teams to truly democratize data understanding and access
 * Solve technical problems of high scope and complexity
 * Exert influence on the long-range goals of your team
+* Advocate for improvements to data quality, security, and query performance that have particular impact across your team as a Subject Matter Expert (SME)
 * Understand the code base extremely well in order to conduct new data innovation and to spot inconsistencies and edge cases
-* Experience with performance and optimization problems, particularly at large scale, and a demonstrated ability to both diagnose and prevent these problems
-* Help to define and improve our internal standards for style, maintainability, and best practices for a high-scale web environment; Maintain and advocate for these standards through code review
-* Represent GitLab and its values in public communication around broader initiatives, specific projects, and community contributions
 * Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities
 * Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
-* Build close relationships with other functional teams to truly democratize data understanding and access
-* Influence and implement our service level framework [SLOs](/handbook/business-ops/data-team/platform/#slos-service-level-objectives-by-data-source) and SLAs for our data sources and data services
-* Identifies changes for the product architecture and from third-party services from the reliability, performance and availability perspective with a data driven approach focused on relational databases, knowledge of another data storages is a plus
-* Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make compute queries cheaper
-* Participate in [Data Quality Process](/handbook/business-ops/data-team/data-quality-process/) or other data auditing activities
 
 ### Staff Data Analyst
 
@@ -150,11 +141,6 @@ Extends the requirements of the Senior Data Analyst requirements, plus:
 * 8+ years in the Data space as an analyst, engineer, scientist, or equivalent
 * Drive innovation across GitLab with a willingness to experiment and to boldly confront problems of immense complexity and scope
 * Seek out difficult impediments to our efficiency as a team ("technical debt"), propose and implement solutions that will enable the entire team to iterate faster
-* Exert significant influence on the long-range goals of GitLab
-* Reviews and analyzes query performances (in Snowflake) to add new best practices to the Data Team's coding standards
-* Ensure that our standards for style, are maintained, and best practices are suitable for the unique problems of scale and diversity of use. Maintain and advocate for these standards through code review
-* Maintains the Data Team Business Intelligence (BI) tool environment (permissions, access, etc.)
-* Research new data analytics methodologies with minimal guidance and support from other team members. Collaborate with the team on larger projects
 * Act as a specialist in the Data Analytics industry and in GitLab by setting the strategic aims and the short term goals of the Data Team, focusing on team improvements
 * Provide mentorship for all analysts at GitLab to help them grow in their technical responsibilities, remove blockers to their autonomy, and share your knowledge across the organization
 * Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
