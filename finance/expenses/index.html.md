@@ -41,7 +41,7 @@ Team members in a US policy will be automatically reimbursed through Expensify a
 
 ## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Office Equipment and Supplies
 
-The company will reimburse for the following items if you **require them to work efficiently**, and local law allows us to pay for them without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting. 
+The company will reimburse for the following items if they **assist you in achieving greater business [results](/handbook/values/#results)**, and local law allows us to pay for items without incurring payroll taxes. Please keep in mind that while the amounts below are guidelines and not strict limits, any purchase (other than a laptop) that will cost GitLab $1000 USD per item (or over) will require prior approval from your Manager and Accounting.  
 
 When you evaluate the value of greater results relative to the cost of an item, we encourage you to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own). This means weighing the cost of a dollar spent to the value that it brings to the business--just as you would assess a personal dollar that you spend against the relative benefit that it brings you.
 
