@@ -79,7 +79,7 @@ If you have questions around an upcoming Group Conversation or would like to sta
 
 ### Tips for Particpation
 All team members are encourated to particpate in Group Conversations. Homework is not required! 
-1. Reviewing the slide deck and highlight video before the Group Conversation are *optional*, not required. 
+1. Reviewing the slide deck and highlight video before the Group Conversation is *optional*, not required. 
 1. You can ask questions about topics that are not highlighted in the deck. 
 1. You can ask questions about topics that are in the deck even if you haven't reviewed the deck in detail. 
 1. Feel free to ask questions about general topics that you are curious about. 
