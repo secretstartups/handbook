@@ -504,7 +504,7 @@ Slack channel
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses:
 
-As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), so we try not to micromanage spending. Our spending sub-value works as the foundation of our expense philosophy when team members exercise thoughtful judgement in purchasing. Most team members do this, but there have been bad actors. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
+As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), we try not to micromanage spending. Our spending sub-value is the foundation of our expense philosophy, and we've found that the vast majority of team members exercise thoughtful judgement in purchasing. That said, we've had some questionable purchases. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
 1. Costume for the party at the end of Contribute.
 1. Boarding expense for animals while traveling.
 1. A $1700 office chair from a celebrity furniture maker.
