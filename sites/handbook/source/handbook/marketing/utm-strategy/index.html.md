@@ -68,8 +68,10 @@ Using proper `utm_campaign` values below will minimize number of manual updates 
 
 * singleappci = CI/CD Campaign
 * devsecopsusecase = DevSecOps Campaign
-* gitopsusecase = GitOps Campaign
-* devopsplatform = DevOps Platform Campaign
+* iacgitops = GitOps Campaign
+* devopsgtm = DevOps Platform Campaign
+* vccusecase = VC&C Campaigns (retired)
+
 
 
 #### utm_content
