@@ -177,6 +177,14 @@ The video below is a recording of the Live Learning that took place in August 20
   <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
+#### Having Career Development Conversations with your Team
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Career Development Conversation Acknowledgements
 
 Career development is a key factor in team member engagement and role satisfaction. As part of the FY'20 GitLab annual [engagement survey results](/handbook/people-group/engagement/) it was clear that team members want to have meaningful conversations with their managers on an annual basis or even more frequently. Starting in FY'22 we will be tracking career development conversations via BambooHR. 
@@ -321,9 +329,18 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 **Topic: Having Career Conversations with Your Team Members**
 
-- Career Development Interviews
+- [Career Development with Diana Stanley](https://gitlab.edcast.com/pathways/ECL-3b8242ee-8583-4dbd-80b1-e337d812d406)
+- Career Conversations with your Team
+   - [Eric Johnson](https://www.youtube.com/watch?v=hYahDZ9nIWA)
+   - [Darva Satcher](https://www.youtube.com/watch?v=F7br2CqkjGE)
+   - [Jane Gianoutsos](https://www.youtube.com/watch?v=PA3Cb51aNrA)
+- [Career Development Framework interview with Kenny Johnston](https://www.youtube.com/watch?v=dNZjmf68UIg)
 - Live Session: Having Career Conversations with Your Team Members
    - 2021-08-11 @ 12am PT 
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
+   - [Recording of call](add url)
 
+#### Week 5
+
+- [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
