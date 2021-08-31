@@ -134,6 +134,7 @@ This guidance may be helpful if you are wondering the go-forward type label base
   - `~"Architecture Decision"`
 - `~"feature::maintenance"` for addition or updates to specs for existing GitLab features
 - `~"feature::addition"` for all changes related to the release of a new feature
+- `~"feature::enhancement"` for user-facing improvements that refine the initial MVC to make it more useful and usable.
 - `~"tooling::workflow"` for changes to engineering workflows such as:
   - `~"Danger bot"`
   - `~"static analysis"`
@@ -143,16 +144,13 @@ This guidance may be helpful if you are wondering the go-forward type label base
 
 `~backstage` will be removed with <https://gitlab.com/gitlab-org/quality/triage-ops/-/issues/483>.
 
-
 ### Stage and Group labels
 
 In the spirit of "Everyone can Contribute" it's natural that members in a group will contribute to another group.
-Our guideline aims to cover for the 20/80 (default accounting method). By default the MR from an author should belong to their `group::xxx` and direct parent `devops::xxx`
-Optimizing for all edge cases will lead to complexity since there will always be edge cases.
 
 We allow flexibility where the parent `devops::xxx` and child `group::xxx` label may not match. For example:
 * In the case where labelling was corrected by a human.
-* When working on shared `frontend`, `backend` components or `backstage` work that spans multiple groups.
+* When working on shared `frontend`, `backend` components or `tooling` work that spans multiple groups.
 
 If a contribution happens across groups, we leave it to the discretion of the engineering and product manager to change the `group::xxx` label to reflect which group worked on it.
 They can also decide if they want to move over the `devops::xxx` as well or keep it to reflect the product area.
