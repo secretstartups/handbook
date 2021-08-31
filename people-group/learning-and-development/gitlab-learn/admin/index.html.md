@@ -934,7 +934,7 @@ graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
+    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin]
 
 ```
 
