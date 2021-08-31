@@ -19,7 +19,7 @@ GitLab Security Scanning allows you to analyze your source code for known vulner
 4. In the Project name dialog box, enter “***{lastname} SecurityProject1*”**. Optionally you may include a few notes in the Project Description Dialog Box.
 5. Under Visibility Level, click the radio button for **Private**.
 
-### Add a .gitlab-ci.yml File and 
+### Add a .gitlab-ci.yml file and 
 1. Start with an issue.  Click Issues on the left hand menu.  Click **New Issue**. 
 2. In the Title type **create .gitlab-ci.yml** and **Create** the issue.  
 3. Create a Merge Request from the Issue.  Click **Create Merge Request**.  
