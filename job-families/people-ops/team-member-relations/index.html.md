@@ -88,6 +88,54 @@ The Senior Team Member Relations Partner is a [grade 7](/handbook/total-rewards/
 * Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
 * Ability to interface and partner with stakeholders to achieve and influence results.
 
+#### Senior Absence Management Partner
+ 
+The Senior Absence Management Partner reports to Director, Team Member Relations. 
+
+#### Senior Absence Management Partner Job Grade
+
+The Senior Absence Management Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Absence Management Partner Responsibilities
+
+* Administers global absence management programs and drives policy and practice revisions as needed.
+* Ensures compliance with all leave of absence and employment laws across all countries in which we have entities.  
+* Oversees the creation and/or modification of LOA policies and practices to ensure alignment with applicable requirements as well as GitLabs’ Values.
+* Ensures alignment with partners across the organization including Legal, Compliance, Sales Operations, Payroll, benefits/leave vendors, and Total Rewards.  
+* Primary absence partner and subject matter expert for Global LOA inquiries, requests, designations and approvals.  
+* Hands-on responsibility of day-to-day administration of all employee leave of absence programs.  
+* Maintains communication with team members on leave to facilitate a smooth departure as well as a smooth transition back to work.  
+* Partners with leaders and team members regarding workplace accommodations.  
+* Optimizes the LOA processes to deliver exceptional Team member experiences before, during and after the leave of absence.
+* Optimizes the administrative processing of LOA’s to ensure accurate and timely completion of required steps.  May be required to determine outsourcing options for administrative aspects of LOA’s.  
+* Provides trend LOA data and status reports as needed.  
+* Ensures the proper tracking of LOA’s and identifies the process dependencies and remediation of those dependencies.
+
+#### Senior Absence Management Partner Requirements
+
+* 5-7+ years of progressive Absence Management experience. 
+* Expert level knowledge of leave requirements and regulations in multiple countries including US and Canada.  Must have the willingness and desire to learn other countries' requirements.  
+Excellent written and verbal communication and interpersonal skills.
+* Strong problem-solving skills, critical thinking, and intuitive sense of business acumen.
+* Ability to execute tasks with attention to detail, reliability, and a relatively quick pace.
+* Ability to interface and partner with stakeholders to achieve and influence results.
+
+## Performance Indicators
+
+* Team Member Absence Management Case Management
+   * Seniro Absence Management Partner will respond to all requests for assistance from team members within 24 hours. 
+   * All cases are resolved in a consistent, fair and unbiased process.  
+   * Identify and resolve potential risks to GitLab.  
+   * When surveyed, >90% utilizing the Team Member Absence Management Partner report effective interactions and outcomes, and positive exeriences while taking time off. 
+   * Overall employee sentiment is positive (>80%) on the Engagement Survey.
+
+* Collaboration
+   * Effective partnership with key stakeholders such as Team Member Relations, People Business Partners, Legal and People Success.  
+
+## Career Ladder
+
+The next step in the job family is Team Member Relations Partner or Compliance Partner
+
 ### Manager, Team Member Relations
 
 The Manager, Team Member Relations reports to the Director, Team Member Relations.
