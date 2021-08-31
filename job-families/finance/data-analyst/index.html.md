@@ -141,6 +141,9 @@ The Staff Data Analyst reports to the [Manager, Data.](https://about.gitlab.com/
 
 The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is equivalent to the [Manager,Data (Intermediate)](https://about.gitlab.com/job-families/finance/manager-data/#manager-data-intermediate) job grade.
 
+**Market Justification:**
+The business need for this role is to hire, retain, and develop technical talent by establishing Individual Contributor focused career paths for our team members who do not want to move into Data People Management. Staff Data Analyst is a widely accepted role, as supported by survey data, and is common in many data-driven companies. In some companies this position is also called Lead Data Analyst. 
+
 #### Staff Data Analyst Responsibilities
 
 The responsibilities of the Staff Data Analyst extend the Senior Data Analyst role and include:
