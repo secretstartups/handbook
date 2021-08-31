@@ -5,7 +5,7 @@ title: "Data Analytics"
 
 ##  Data Analyst Roles at GitLab
 
-GitLab is one of the most _data-informed-and-driven_ companies you'll find. Check out our [KPI Page](https://about.gitlab.com/company/kpis/) and metrics-driven [Quarterly Objectives](https://about.gitlab.com/company/okrs/) as proof. Data is used by every team and every person, helping us better understand our customers, products, and performance. As an all-remote company, sharing performance metrics helps us [collaborate](https://about.gitlab.com/handbook/values/#collaboration) better, align on [results](https://about.gitlab.com/handbook/values/#results) better, and perform our day-to-day jobs [transparently](https://about.gitlab.com/handbook/values/#transparency).  As a Data Analyst, you'll have the opportunity work on these and other areas, influence GitLab's performance, our customer's experience, and how we develop as a company and community. Read more about this role in the [Data Analytics Handbook Page](/handbook/business-ops/data-team/organization/analytics/).
+Read more about this role in the [Data Analytics Handbook Page](/handbook/business-ops/data-team/organization/analytics/).
 
 ## Responsibilities
 
