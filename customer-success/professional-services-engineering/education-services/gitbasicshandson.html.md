@@ -22,4 +22,4 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## Suggestions?
 
-If you'd like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.
+If you’d like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.

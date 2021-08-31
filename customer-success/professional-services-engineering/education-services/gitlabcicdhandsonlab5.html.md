@@ -24,21 +24,22 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
     variables:   
       INLINE_LOCAL_VARIABLE: "I'm an inline variable set at the job level of the CI/CD configuration file"
     ```
+    When defining variables, watch your indentation. Global variables must be indented by 2 spaces, and must be immediately under a flush-left `variables` keyword that is outside any job definition. Local variables must be indented 4 spaces, and must be immediately under a `variables` keyword that is indented 2 spaces and is within a job definition. Here's an example of how to define global and local variables:
 
-When defining variables, watch your indentation. Global variables must be indented by 2 spaces, and must be immediately under a flush-left `variables` keyword that is outside of any job definition. Local variables must be indented 4 spaces, and must be immediately under a `variables` keyword that is indented 2 spaces and is within a job definition.
+    ```yml
+    # NOTE: this code demonstrates how to define global and local variables. 
+    # Do NOT copy and paste this code into your .gitlab-ci.yml file.
 
-```yml
-variables:
-  GLOBAL_SCOPE_VAR: "foo"
-
-job-a:
-  variables:
-    LOCAL_SCOPE_VAR: "bar"
-  script:
-    - echo $LOCAL_SCOPE_VAR
-    - echo $GLOBAL_SCOPE_VAR
-```
-
+    variables:
+      GLOBAL_SCOPE_VAR: "value1"
+    
+    job-a:
+      variables:
+        LOCAL_SCOPE_VAR: "value2"
+      script:
+        - echo $LOCAL_SCOPE_VAR
+        - echo $GLOBAL_SCOPE_VAR
+    ```
 
 1. In the **Commit message** field, type `add custom variables`, leave the **Target Branch** set to `main`, and click **Commit changes**.
 

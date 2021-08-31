@@ -8,7 +8,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ## LAB 6: Static Application Security Testing (SAST)
 
-SAST, an optional feature on CI/CD pipelines, analyzes your source code for known vulnerabilities. GitLab's Vulnerability Report then shows any old or new vulnerabilities found with each pipeline run.
+SAST, an optional feature on CI/CD pipelines, analyzes your source code for known vulnerabilities. GitLab’s Vulnerability Report then shows any old or new vulnerabilities found with each pipeline run.
 
 This lab uses SAST to identify security vulnerabilities in your code.
 
@@ -33,7 +33,7 @@ include:
 1. Click **Commit to the `main` branch** instead of creating a new branch.
 1. Click **Commit**. The pipeline will now run, and will include a SAST job.
 
-Next, let's add a file with a known vulnerability and see if SAST detects it.
+Next, let’s add a file with a known vulnerability and see if SAST detects it.
 
 ### Add a `main.go` file and view SAST results
 
@@ -48,4 +48,4 @@ Next, let's add a file with a known vulnerability and see if SAST detects it.
 
 ## Suggestions?
 
-If you'd like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.
+If you’d like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.

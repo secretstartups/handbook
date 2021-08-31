@@ -16,16 +16,16 @@ We will use a pre-defined template for NodeJS Express to show how Auto DevOps wo
 1. Instead of making a blank project, click **Create from template**, and then click **Use template** next to **NodeJS Express**.
 1. In the **Project name** field, enter `Auto DevOps-test`<br/>
    Make sure the **Visiblity Level** is **Private**. Click **Create project**.
-1. Auto DevOps is an alternative to writing and using your own `.gitlab-ci.yml` file. Note the banner at the top of the window alerting us that Auto DevOps is enabled. GitLab has turned it on automatically since it can't find a `.gitlab-ci.yml` file in this project's repository.
+1. Auto DevOps is an alternative to writing and using your own `.gitlab-ci.yml` file. Note the banner at the top of the window alerting us that Auto DevOps is enabled. GitLab has turned it on automatically since it can’t find a `.gitlab-ci.yml` file in this project’s repository.
 1. In the left-hand navigation pane, click **CI/CD > Pipelines**. Note that no pipelines have run yet.
 1. In the left-hand navigation pane, click **Repository > Branches**. Click **New branch**.
 1. In the **Branch name** field, enter `new-feature`. Click **Create branch**.
-1. In the left-hand navigation pane, click **CI/CD > Pipelines**. You'll see a pipeline with the **Auto DevOps** label, which is running on the branch you just created.
-1. Click the pipeline's **running** status icon and note the 6 stages (represented by 6 columns in the pipeline graph) that Auto DevOps has created.
+1. In the left-hand navigation pane, click **CI/CD > Pipelines**. You’ll see a pipeline with the **Auto DevOps** label, which is running on the branch you just created.
+1. Click the pipeline’s **running** status icon and note the 6 stages (represented by 6 columns in the pipeline graph) that Auto DevOps has created.
 
 ### Commit a change to trigger a pipeline run
 
-The most common way to run a pipeline is commit to a branch of your project's repository. Let's do that next.
+The most common way to run a pipeline is commit to a branch of your project’s repository. Let’s do that next.
 
 1. In the left-hand navigation pane, click **Repository > Files**.
 1. Near the top left of the window, switch to the **new-feature** branch by selecting it in the dropdown that currently says **master**.
@@ -39,7 +39,7 @@ The most common way to run a pipeline is commit to a branch of your project's re
 1. In the **Commit message** field, type `Update welcome message in index.pug`. Leave the **Target branch** field set to `new-feature`. Click **Commit changes**.
 1. Click **Create merge request**.
 1. Assign the merge request to yourself.
-1. Add `Draft:` to the beginning of the text in the **Title** field to show that the merge request isn't ready to be merged yet.
+1. Add `Draft:` to the beginning of the text in the **Title** field to show that the merge request isn’t ready to be merged yet.
 1. Leave all other fields at their default values and click **Create merge request** at the bottom of the page. 
    
     You now have an active merge request for merging the `new-feature` branch into the `master` branch. The page you are on shows the details of that merge request, including the status of the last pipeline that was run on the `new-feature` branch (you might have to refresh the page to see the pipeline status). GitLab will run a new pipeline every time you commit to the `new-feature` branch.
@@ -49,4 +49,4 @@ The most common way to run a pipeline is commit to a branch of your project's re
 
 ## Suggestions?
 
-If you'd like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.
+If you’d like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.

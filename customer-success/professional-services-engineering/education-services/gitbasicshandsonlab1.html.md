@@ -14,8 +14,8 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 1. Click the **New project** button. Click **Create blank project**.
 1. In the **Project name** field, enter `Top Level Project`<br/>
    Optionally, include a few notes in the **Project description** box.
-1. Under **Visibility Level**, click the radio button for **Private** if it's not already selected.
-1. Click the **Initialize repository with a README** checkbox. If you don't initialize your repository with a README, you will create a “bare” Git repository that you will need to add content to in order to bring into existence.
+1. Under **Visibility Level**, click the radio button for **Private** if it’s not already selected.
+1. Click the **Initialize repository with a README** checkbox. If you don’t initialize your repository with a README, you will create a “bare” Git repository that you will need to add content to in order to bring into existence.
 1. Click **Create project**.
 
 ### Create an issue
@@ -46,7 +46,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### Assign labels to an issue
 1. In the right-hand pane of the `my first issue` page, find the **Labels** section. Click **Edit** in that section.
 1. Click on the `Opened` and `Needs documentation` labels you created earlier.
-1. Click away from the **Labels** section. *This step isn't obvious, but is important in order to complete the process of assigning labels.* Notice that the issue now has both labels applied.
+1. Click away from the **Labels** section. *This step isn’t obvious, but is important in order to complete the process of assigning labels.* Notice that the issue now has both labels applied.
 
 ## Suggestions?
-If you'd like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.
+If you’d like to suggest changes to the *GitLab with Git Basics Hands-on Guide*, please submit them via merge request.

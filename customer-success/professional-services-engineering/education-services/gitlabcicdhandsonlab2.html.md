@@ -27,18 +27,18 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 1. After finishing the installation, run `gitlab-runner status` to verify that the **gitlab-runner** service is up. Usually a computer restart is not needed in order for **gitlab-runner** to start, despite instructions in the documentation to do so.
 
 ### Create a project
-1. In the top navigation bar, click **Groups > Your Groups**.
--   If you are in an Instuctor Led Class: Navigate to **Training Users** and expand the arrow to the left of Training Users, your training login will be the first one under your class session.
--   If you are in the Self-Paced Enviornment: Navigate to the **My Test Group- {username}**
-1. Click the **New project** button. Click **Create blank project**.
-1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select `<USERNAME>` to create your project within your group's namespace and not your user's top-level namespace.
+1. In the top navigation bar, click **Menu > Groups > Your Groups**.
+    + If you are in an instructor-led class, expand the arrow to the left of the **Training Users** group. Expand the arrow to the left of your Session's subgroup. Open the subgroup called **My Test Group - \<USERNAME\>**.
+    + If you are in the self-paced environment, open the group called **My Test Group - \<USERNAME\>**.
+1. Click **New project**. Click **Create blank project**.
+1. In the **Project name** field, enter `CICD Demo`. In the **Project URL** dropdown, select **training-users/session-\<SESSION\>/\<USERNAME\>** to create your project within your group's namespace and not your user's top-level namespace.
 1. Optionally include a few notes in the **Project description** field.
 1. Under **Visibility Level**, click the radio button for **Private**.
 1. Enable the **Initialize repository with a README** checkbox. <br/>Note: If you do not initialize your repository with a README, you will create a "bare" Git repo that will be difficult to work with in GitLab until you push files to it from a local repository.
-1. Click the **Create project** button.
+1. Click **Create project**.
 
 ### Register a Specific GitLab Runner dedicated to your project
-1. In your **CICD Demo** project, in the left-hand navigation pane, click **Settings** > **CI/CD**
+1. In your **CICD Demo** project, in the left-hand navigation pane, click **Settings > CI/CD**
 1. Scroll down to the **Runners** section. Click the **Expand** button next to that section.
 1. Within the **Specific runners** section, navigate to **Set up a specific runner manually**
 1. Copy the URL in step 2, labeled **Register the runner with this URL**
@@ -67,7 +67,7 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
      - test
    ```
    
-1. Click the **Commit changes** button.
+1. Click **Commit changes**.
 
 ### View a pipeline's status, stages, jobs, and gitlab-runner
 1. In the left-hand navigation pane, click **CI/CD Pipelines** to see an overview of all pipelines. The top row in the overview shows the pipeline that started a few seconds ago, when you committed `.gitlab-ci.yml`. The status icon at the left of the row should say either **running** or **passed**.
@@ -76,4 +76,4 @@ If attendees have problems with permissions, firewalls, etc., they should use a 
 
 ## Suggestions?
 
-If you wish to make a change to the *Hands On Guide for GitLab CI/CD*, please submit your changes via Merge Request!
+If you wish to make a change to the *Hands-On Guide for GitLab CI/CD*, please submit your changes via Merge Request!
