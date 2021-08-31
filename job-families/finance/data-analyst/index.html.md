@@ -11,41 +11,34 @@ Read more about this role in the [Data Analytics Handbook Page](/handbook/busine
 
 * Collaborate with other functions across the company by building reports and dashboards with useful analysis and data insights
 * Explain trends across data sources, potential opportunities for growth or improvement, and data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive data analysis
-* Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-ops/data-team/#-extract-and-load) to help drive product designs or service usage or note impacts to data reporting capabilities
-* Understand and document the full lifecycle of data and our common data framework so that all data can be integrated, modeled for easy analysis, and analyzed for data insights
+* Understand and document the full lifecycle of data in our [Data Catalog](/handbook/business-technology/data-team/data-catalog/) so data can be efficiently integrated, modeled, and analyzed 
+* Develop new [Trusted Data Tests](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) to expand test coverage for the [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
 * Document every action in either issue/MR templates, the [handbook](/handbook/), or READMEs so your learnings turn into repeatable actions and then into automation following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
-* Expand our database with clean data (ready for analysis) by implementing data quality tests while continuously reviewing, optimizing, and refactoring existing data models
 * Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
-* Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
-* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
 * Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
-* This position reports to the Manager, Data
 
 ## Requirements
 
-* 2+ years experience in an analytics role
-* Experience building reports and dashboards in a data visualization tool
-* Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
-* Experience with a variety of data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-ops/data-team/#-extract-and-load))
-* Demonstrate capacity to clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
-* Deep understanding of SQL in analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
-* Hands on experience working with SQL, Python, API calls, and JSON, to generate business insights and drive better organizational decision making
-* Familiarity with Git and the command line
-* Deep understanding of relational and non-relational databases, SQL and query optimization techniques, and demonstrated ability to both diagnose and prevent performance problems
-* Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
-* Positive and solution-oriented mindset
-* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
-* [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
+* Ability to use GitLab
 * Ability to thrive in a fully remote organization
 * Share and work in accordance with our values
+* Positive and solution-oriented mindset
+* Clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
+* Fluent in SQL within analytical data warehouses (we use Snowflake SQL) and in business intelligence tools (we use Periscope)
+* Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
+* Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data (we use dbt)
+* Experience working with a variety of complex data sources. Our data includes Salesforce, Zuora, Zendesk, Marketo, NetSuite, Snowplow and many others (see the [data team page](/handbook/business-ops/data-team/#-extract-and-load))
+* Effective communication and [collaboration](/handbook/values/#collaboration) skills, including clear status updates
+* Comfort working in a highly agile, [intensely iterative](/handbook/values/#iteration) environment
+* [Self-motivated and self-managing](/handbook/values/#efficiency), with strong organizational skills
 * Successful completion of a [background check](/handbook/people-group/code-of-conduct/#background-checks)
-* Ability to use GitLab
+* Prior experience in an analytics role, or equivalent education
 
 ## Levels
 
 ### Data Analyst Intern 
 
-An intern is not required to meet the standards of an intermediate data analyst, but is required to be interested in developing in towards them.
+An intern is not required to meet the base Data Analyst responsibilities and requirements, but is required to be interested in developing in towards them.
 An intern must:
 * Have a track record of asking hard questions and thinking critically
 * Self-starter committed to remote work and its intricacies
@@ -75,12 +68,13 @@ The Junior Data Analyst is a [grade 5](/handbook/total-rewards/compensation/comp
 
 #### Junior Data Analyst Responsibilities
 
-* The Junior Data Analyst Responsibilites are listed above in the first Responsibilities section.
+The responsibilities of the Junior Data Analyst are listed in the Responsibilities section above.
 
 #### Junior Data Analyst Requirements
 
-* The Junior Data Analyst Requirements are listed in the first Requirements section, with the following exceptions:
-* 1+ years experience in an analytics role or equivalent experience/training.
+The Junior Data Analyst Requirements extend the Requirements section above and include:
+
+* 1+ years experience in an analytics role or equivalent experience/training
 
 ### Data Analyst (Intermediate)
 
@@ -92,12 +86,22 @@ The Data Analyst (Intermediate) is a [grade 6](/handbook/total-rewards/compensat
 
 #### Data Analyst (Intermediate) Responsibilities
 
-* Extends that of the Junior Data Analyst responsibilities
+The responsibilities of the Data Analyst extend the Junior Data Analyst role and include:
+
+* Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-ops/data-team/#-extract-and-load) to help drive product designs or service usage or note impacts to data reporting capabilities
+* Serve as a Subject Matter Expert (SME) in one or more [Data Sources](/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
+* Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
+* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+
 
 #### Data Analyst (Intermediate) Requirements
 
-* Extends that of the Junior Data Analyst requirements
-* 2+ years experience in an analytics role
+The requirements of the Data Analyst extend the Junior Data Analyst role and include:
+
+* 2+ years experience in an analytics role or equivalent experience/training
+* Hands on experience working with Python, API calls, and JSON, to generate business insights and drive better organizational decision making
+* Demonstrated analytical experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
+* Demonstrated ability to define, design, and develop [Key Performance Indicators](https://about.gitlab.com/company/kpis/) related to one or more business subject areas
 
 ### Senior Data Analyst
 
@@ -109,19 +113,25 @@ The Senior Data Analyst is a [grade 7](/handbook/total-rewards/compensation/comp
 
 #### Senior Data Analyst Responsibilities
 
-* Extends that of the Data Analyst (Intermediate) responsibilities
+The responsibilities of the Senior Data Analyst extend the Data Analyst (Intermediate) role and include:
 
-#### Senior Data Analyst Requirements  
-
-Extends the requirements of the Data Analyst (Intermediate) requirements, plus:
-* 6+ years in the Data space as an analyst, engineer, scientist, or equivalent
 * Build close relationships with other functional teams to truly democratize data understanding and access
 * Solve technical problems of high scope and complexity
 * Exert influence on the long-range goals of your team
 * Advocate for improvements to data quality, security, and query performance that have particular impact across your team as a Subject Matter Expert (SME)
 * Understand the code base extremely well in order to conduct new data innovation and to spot inconsistencies and edge cases
-* Provide mentorship for Junior and Intermediate Engineers on your team to help them grow in their technical responsibilities
+* Provide mentorship for Junior and Intermediate members of the team to help them grow in their responsibilities
 * Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
+
+#### Senior Data Analyst Requirements  
+
+The requirements of the Senior Data Analyst extend the Data Analyst (Intermediate) role and include:
+
+* 6+ years experience in an analytics role or equivalent experience/training
+* Fluent in all Data Analysis technologies defined in in the [Data Team Platform](/handbook/business-technology/data-team/platform/)
+* Recognized expert in SQL and Data Visualization
+* Own and maintain one or more sections of the [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
+* Own and maintain one or more sections of the [Trusted Data Framework](/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework)  for a specified Trusted Model
 
 ### Staff Data Analyst
 
@@ -133,18 +143,24 @@ The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/comp
 
 #### Staff Data Analyst Responsibilities
 
-* Extends that of the Senior Data Analyst responsibilities
+The responsibilities of the Staff Data Analyst extend the Senior Data Analyst role and include:
+
+* Help promote data innovation across GitLab with a willingness to experiment and to confront hard and complex problems
+* Identify and resolve impediments to efficiency and enable the entire Data Program to iterate faster
+* Act as a specialist in the Data Analytics industry and in GitLab by setting the strategic aims and the short term goals of the Data Team
+* Provide mentorship for all analysts at GitLab to help them grow in their business and technical capabilities, remove blockers to their autonomy, and share your knowledge across the organization
+* Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
+* Help create the sense of psychological safety in the department
 
 #### Staff Data Analyst Requirements  
 
-Extends the requirements of the Senior Data Analyst requirements, plus:
-* 8+ years in the Data space as an analyst, engineer, scientist, or equivalent
-* Drive innovation across GitLab with a willingness to experiment and to boldly confront problems of immense complexity and scope
-* Seek out difficult impediments to our efficiency as a team ("technical debt"), propose and implement solutions that will enable the entire team to iterate faster
-* Act as a specialist in the Data Analytics industry and in GitLab by setting the strategic aims and the short term goals of the Data Team, focusing on team improvements
-* Provide mentorship for all analysts at GitLab to help them grow in their technical responsibilities, remove blockers to their autonomy, and share your knowledge across the organization
-* Create training guides, blog posts, templates, and recorded training sessions to help all at GitLab understand how to accurately view data, use data for insights, and the implications of data-driven analysis in conjunction with legal and security concerns
-* Help create the sense of psychological safety in the department
+The requirements of the Staff Data Analyst extend the Senior Data Analyst role and include:
+
+* 8+ years experience in an analytics role or equivalent experience/training
+* Fluent in all major technologies in the [Data Team Platform](/handbook/business-technology/data-team/platform/), with a particular emphasis on Data Visualization and modeling
+* Recognized expert in SQL, Sisense, and dbt
+* Influence the Analytics Roadmap for one of the [Data Flywheels](/handbook/business-technology/data-team/direction/#data-flywheels)
+* Own and maintain one or more sections of the [Enterprise Data Platform](/handbook/business-technology/data-team/direction/#a-complete-enterprise-data-platform)
 
 ## Specialties
 
