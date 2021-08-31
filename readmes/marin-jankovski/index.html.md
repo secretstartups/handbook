@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Marin Jankovski's README"
-job: "Engineering Manager, Delivery"
+job: "Director of Platform Infrastructure"
 ---
 
 ## On this page
@@ -13,41 +13,31 @@ job: "Engineering Manager, Delivery"
 ## Purpose
 
 Inspired by the [CEO page](/handbook/ceo/),
-this page is a readme for the current Engineering Manager of Delivery team,
-[Marin Jankovski](/company/team/#maxlazio).
+this page is a readme for the [Marin Jankovski](/company/team/#maxlazio).
 
 ## Team(s)
 
-I am the primary engineering manager for [Delivery](/handbook/engineering/infrastructure/team/delivery/) team.
+Over the course of my tenure at GitLab, I've bootstrapped and onboarded a number of teams. Currently serving in the role of a Director of Platform Infrastructure.
 
-Prior to this team, I was the Engineering Manager for [Distribution team](/handbook/engineering/development/enablement/distribution/).
-I was the first engineer working on tasks related to GitLab installation and as GitLab grew, I ended up building up the Distribution team
+I was a team lead and an engineering manager for [Distribution team](/handbook/engineering/development/enablement/distribution/), [Delivery team](/handbook/engineering/infrastructure/team/delivery/), and [Scalability team](/handbook/engineering/infrastructure/team/scalability/)
 
-My teams have a clear mission and vision, and if you read Distribution and Delivery's mission side by side you'll notice some
-similarities.
-Namely, Distribution team is focused on easing GitLab installation as a whole to our customers and users
-and Delivery team focuses on enabling engineering teams within GitLab to get their work
-ready for shipping *and* running on GitLab.com.
+I was the first engineer working on tasks related to GitLab installation and as GitLab grew, so did the need to impact wider scope increase.
 
-In other words, Delivery team primary focus is on tasks prior to releasing GitLab to public
-and Distribution on tasks for easing customer/user consumption of GitLab.
+As I build a team, the first task I tackle is to ensure that my teams have a clear mission and vision. The handbook page for each team is the single source of truth for that team, and if the information is not discoverable on the team page, it can be considered as not important.
 
 ## Time allocation
 
 Between enabling every team member to do their jobs the best they can, engineering tasks
 and hiring, my work day is a stream of context switching.
 
-The work week can however be roughly divided as:
-
-  * 1 day a week for all 1-1s with all my direct reports
-  * 1 days a week for Distribution team related tasks
-  * 3 days a week for Delivery team related tasks
+To ensure that I can stay on top of my tasks, I use [bullet journaling](https://bulletjournal.com/) combined with my Remarkable2 tablet. I finish each day by writing the list of tasks that need to be completed the next day. I start each work day by cross checking my weekly and monthly plan with the daily list I created the day before to prioritise the order of tasks I am aiming to complete on that day. 
+This ensures that I do the highest priority items on the short term, while aligning with the mid to long term set of tasks. This approach also allows me to question whether the long term plan is good for the current state of affairs.   
 
 ### 1-1s
 
-I hold weekly 1-1s with all my direct reports. Most common call duration is 30 minutes
+I hold weekly 1-1s with all my direct reports, and monthly 1-1s with all my indirect reports. Most common call duration is 30 minutes
 but this vastly depends on the individual report. In all cases, I find it acceptable
-when the meetings are both shorter and longer but I dislike skipping these calls.
+when the meetings are both shorter and longer, but I dislike skipping these calls.
 
 I've found that important information gets lost when 1-1s are skipped because
 the smallest, most insignificant looking "btw" often can save a lot of time and
@@ -56,7 +46,7 @@ I don't often quote other people so I won't do that now too, but I'll just say t
 [High Output Management - Andrew Grove] is very often right in my opinion.
 
 My 1-1s do have some structure, but only as a guideline in case people are not
-inspired (which can often be the case when you have the same type of call every week).
+inspired (which can often be the case when you have the same type of call every week, or when the calls are far apart).
 
 The structure consists of:
 
@@ -66,23 +56,6 @@ The structure consists of:
 * The doc can be used as a place to write down all the thoughts, positive and negative
 * In case of an item that requires attention prior to the scheduled call, the report can mention
 me or raise it up in direct message in Slack
-
-## Distribution team
-
-Prior to the Delivery team, I was the Distribution Engineering Manager.
-As an engineer tasked working on software packaging at the early days of GitLab,
-I've built up the team from scratch before departing for the Delivery team.
-
-I hold on-demand 1-1s with my old reports to help them with navigating their
-careers at GitLab.
-
-## Delivery team
-
-Delivery team is inward facing so majority of my work is looking into
-engineering processes and driving a change that helps us deliver faster.
-Large chunk of this is working on direction blueprints that not only allows
-engineers to work more efficiently, but also changes in the way we deploy our
-code into GitLab.com environments.
 
 ## My Availability
 
@@ -130,7 +103,7 @@ of behaviour.
 
 If I feel that I am repeating my feedback or that my feedback is being
 misused without raising this directly with me, I tend to react by withdrawing the
-trust completely. From then on, earning back my trust is a lot of work.
+trust completely. From then on, earning back my trust tends to be a lot of work.
 
 For this reason I ask people working with me to always provide me direct feedback
 in time, and to react to my feedback timely without holding back.
