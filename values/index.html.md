@@ -517,7 +517,11 @@ Consider the time investment you are asking others to make with meetings and a p
 
 ##### Spend company money like it's your own
 {:.no_toc}
-Every dollar we spend will have to be earned back; be as frugal with company money as you are with your own.
+Every dollar we spend will have to be earned back. Be as frugal with company money as you are with your own. In saying this, we ask team members to weigh the cost of purchases against the value that they will bring to the company. 
+
+Consider the degree to which a purchase increases your ability to better accomplish your work and achieve business [results](/handbook/values/#results) relative to cost. 
+
+We have [guidelines](/handbook/spending-company-money/#guidelines) around this sub-value to help team members better understand our expensing process and expectations.
 
 ##### Frugality
 {:.no_toc}
