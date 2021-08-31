@@ -17,12 +17,12 @@ Hello and welcome to the Asia-Pacific Islander TMRG space! Join us in our Slack 
 
 [API TMRG Slide Deck](https://docs.google.com/presentation/d/1Ing9WaXDLcvAKiCTBf_hnwtHmCyHWn_WbtOlLj45964/edit?usp=sharing)
 [API TMRG GitLab Project](https://gitlab.com/gitlab-com/api-tmrg)
-[API TMRG Slack Channel](https://gitlab.slack.com/archives/C02A0M4311U)  # check
-[API TMRG Google Group](https://groups.google.com/a/gitlab.com/g/api-tmrg)  # check
+[API TMRG Slack Channel](https://gitlab.slack.com/archives/C02A0M4311U)
+[API TMRG Google Group](https://groups.google.com/a/gitlab.com/g/api-tmrg)
 
-**Purpose of the TMRG**  
+**Purpose of the TMRG**
 
-The API TMRG provides a safe space for every GitLab team member to raise awareness about and celebrate Asian culture, and to understand how the diversity of this region can be leveraged to contribute to GitLab's strategic objectives and global success. This TMRG is non-exclusionary in nature and open to anyone at GitLab. 
+The API TMRG provides a safe space for every GitLab team member to better understand Asian culture, and to understand how diversity can be leveraged to contribute to GitLab's strategic objectives and global success. This TMRG is non-exclusionary in nature and open to anyone at GitLab.
 
 ## Mission
 
