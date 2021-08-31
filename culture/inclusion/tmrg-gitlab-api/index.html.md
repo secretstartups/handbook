@@ -15,7 +15,7 @@ canonical_path: "/company/culture/inclusion/tmrg-gitlab-api/"
 
 Hello and welcome to the Asia-Pacific Islander TMRG space! Join us in our Slack channel #api-tmrg to be notified of events and meet other members.
 
-Links:
+Resources:
 * [API TMRG Slide Deck](https://docs.google.com/presentation/d/1Ing9WaXDLcvAKiCTBf_hnwtHmCyHWn_WbtOlLj45964/edit?usp=sharing)
 * [API TMRG GitLab Project](https://gitlab.com/gitlab-com/api-tmrg)
 * [API TMRG Slack Channel](https://gitlab.slack.com/archives/C02A0M4311U)
