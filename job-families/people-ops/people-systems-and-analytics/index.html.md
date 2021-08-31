@@ -39,8 +39,6 @@ The Senior HRIS Analyst, People Technology is a grade 7.
 * Experience with Workday technical integrations - Workday Studio including BIRT, EIB, Cloud Connect preferred
 * Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
 
-<br>
-
 ### Staff HRIS Analyst, People Technology
 
 The Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
@@ -156,7 +154,10 @@ The Senior Manager, People Technology is a grade 9.
 
 #### Performance Indicators
 
-Performance indicators currently being defined. 
+* OSAT score: New team member feedback of the onboarding experience in a given month. The Onboarding Satisfaction target is > 4.5 
+* Security compliance: 100% completion rate of security audits
+* Bug to first action: Measurement of time that an issue is being reported and taken action on. SLA is 1 working day. 
+* New requests are triaged: Measurement of time that an issue is being reported and taken action on. SLA is within 7 working days. 
 
 #### Career Ladder
 
@@ -172,8 +173,6 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
-
-<br>
 
 ### Senior Analyst, People Analytics
 
@@ -202,7 +201,6 @@ The Senior Analyst, People Analytics is a grade 7.
 * Solid experience with regression analysis and other statistical modeling techniques
 * Experience with Workday and Greenhouse preferred
 
-<br>
 
 ### Manager, People Analytics
 
@@ -237,8 +235,6 @@ The Manager, People Analytics is a grade 8.
 * Ability to use GitLab
 * Experience managing projects
 
-<br>
-
 ### Senior Manager, People Analytics
 
 The Senior Manager, People Analytics reports into the Director, People Tools and Technology.
@@ -263,7 +259,10 @@ The Senior Manager, People Analytics is a grade 9.
 
 ### Performance Indicators
 
-Performance indicators currently being defined. 
+* Cost Per Hire
+* Hires vs Plan
+* Offer acceptance rate greater than 90%
+* Team member retention greater 84%
 
 ### Career Ladder
 
