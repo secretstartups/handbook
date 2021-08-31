@@ -11,7 +11,7 @@ title: "Business Continuity Plan"
 
 ## GitLab Business Continuity Plan (BCP) Context
 
-GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters.
+GitLab, by its remote-only nature, is not easily affected by typical causes of business disruption, such as local failures of equipment, power supplies, telecommunications, social unrest, terrorist attacks, fire, or natural disasters. Additionally, to ensure BCP procedures are planned and documented appropriately, data from the [Business Impact Analysis](/handbook/engineering/security/security-assurance/security-risk/storm-program/business-impact-analysis.html) is utilized as part of business continuity planning.
 
 ## BCP for Remote Workers
 

@@ -26,7 +26,7 @@ The Data Catalog page indexes Analytics Solutions, Dashboards, Workflows, and Ke
 **On 2021-09-08 Sisense dashboard access will be changing, driven by GitLab's maturation and the [SAFE Data Framework](https://about.gitlab.com/handbook/legal/safe-framework/). The following section describes the planned access process.**
 
 Access to Sisense dashboards is based on job role and goverened by the [SAFE Data Access Framework](https://about.gitlab.com/handbook/legal/safe-framework/). In Sisense, dashboards are classified into the following spaces:
-- the **SAFE Dashboards** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
+- the **SAFE Dashboard** space houses all dashboards that meet [GitLab's SAFE criteria](https://about.gitlab.com/handbook/legal/safe-framework/#safe-flowchart). SAFE Dashboards are available to GitLab Team Members based on job role or demonstrated need.
 - the **GitLab** space is a General Access area which houses all dashboards which do not require SAFE handling. General Access Dashboards are accessible by all GitLab Team Members.
 
 A complete list of Dashboards, including SAFE Dashboards, is available in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index).
@@ -44,7 +44,7 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 3. Once the request is approved, tag @gitlab-data/analysts and the Data Team will process the request.
 4. After processing is complete you will be able to login to Sisense and access the SAFE dashboard within the SAFE Dashboard Space.
 
-![Sisense Spaces](sites/handbook/source/handbook/business-technology/data-team/data-catalog/images/sisense_spaces.png)
+![Sisense Spaces](sisense_spaces_singular.png)
 
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
 
