@@ -139,7 +139,7 @@ The Staff Data Analyst reports to the [Manager, Data.](https://about.gitlab.com/
 
 #### Staff Data Analyst Job Grade
 
-The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Data Analyst is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) and is equivalent to the [Manager,Data (Intermediate)](https://about.gitlab.com/job-families/finance/manager-data/#manager-data-intermediate) job grade.
 
 #### Staff Data Analyst Responsibilities
 
