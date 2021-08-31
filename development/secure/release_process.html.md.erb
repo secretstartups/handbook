@@ -73,9 +73,11 @@ the location below.
     - The token will be entered by its creator as a [**protected** and **masked** variable](https://docs.gitlab.com/ee/ci/variables/#add-a-cicd-variable-to-a-project) on the
       originating project (i.e. the project under https://gitlab.com/gitlab-org/security-products/)
 - Project Settings
-  - Visibility, project features, permissions
-    - Public; uncheck "Users can request access"
-    - Disable: Issues, Merge requests, Forks, Git LFS, Packages, CI/CD, Analytics, Requirements, Wiki, Snippets, Pages, Operations.
+  - Visibility, project features, permissions.
+    - Project visibility: Public. Uncheck "Users can request access".
+    - Issues: disable.
+    - Repository: set to "Only Project Members". Disable: Merge requests, Forks, Git LFS, Packages, CI/CD.
+    - Disable remaining items: Analytics, Requirements, Wiki, Snippets, Pages, Operations.
   - Service Desk: disable
 
 Each group in the Sec Section is responsible for:
