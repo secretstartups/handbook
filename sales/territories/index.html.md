@@ -160,6 +160,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	| Daphne Yam | Peter Huynh |
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	| Daphne Yam | Peter Huynh |
 |	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	| Daphne Yam | Peter Huynh |
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-6	|	Vijay Singh	| Daphne Yam | Peter Huynh |
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-7	|	Anthony McMahon	| Daphne Yam | Peter Huynh |
 |	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	| Daphne Yam | Peter Huynh |
 |	Asia Central	|	Asia Central	|	Large-APAC-S Korea-1	|	Tae Ho Hyun	| Daphne Yam | Peter Huynh |
 
@@ -173,11 +175,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
+|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Kristine Setschin |
 |	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Pierre Goyeneix	| Anthony Seguillon | Sarina Kraft |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Kristine Setschin |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2.1	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
 |	BeNeLux	|	BeNeLux|	Large-EMEA-UK/I-2.2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
