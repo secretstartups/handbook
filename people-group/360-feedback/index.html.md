@@ -27,7 +27,7 @@ In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we
 | 2021-07-28  | -          | AMA                                        |         |
 | 2021-08-02  | -          | Launch Date                                |         |
 | 2021-08-02  | 2021-08-15 | Nomination Phase                      | 14      |
-| 2021-08-16  | 2021-09-05 | Feedback Phase                          | 21      |
+| 2021-08-16  | 2021-09-05 12PM PST | Feedback Phase                          | 21      |
 | 2021-09-06  | 2021-09-12 | Review Phase            | 7       |
 | 2021-09-13  | 2021-09-27 | Discussion Phase  | 14       |
 
