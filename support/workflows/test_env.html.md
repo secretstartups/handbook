@@ -42,7 +42,7 @@ As usual, public projects get Gold features, but if you need to test paid group 
 Typically, Support team members are added as `Owner` in these groups, while other team members are added as `Maintainer` or `Owner` with an expiry date.
 If you require access, please ask an existing owner.
 
-If you require a group of your own to have a paid tier, please submit an access request.
+If you require a group of your own to have a paid tier, please submit an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request).
 
 ## Testing Environment License
 
@@ -62,7 +62,7 @@ You can create (ephemeral) testing environments. We recommend using the support-
 
 #### GCP `support-resources` automation (preferred)
 
-Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances. If you don't have access to this project, please create an access request and assign your manager for approval.
+Use the [support-resources](https://gitlab.com/gitlab-com/support/support-resources/-/blob/master/README.md) to automatically spin up resources. They will appear in the `support-resources` GCP project. All Support Engineers should have access to this project. This is the preferred way to create GitLab testing instances. If you don't have access to this project, please create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and assign your manager for approval.
 
 #### GitLab Sandbox Cloud for GCP
 
@@ -100,13 +100,13 @@ Please use [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-stan
 
 ### Azure Testing Environment
 
-If you need access to Azure for testing, please create an access request and tag your manager.
+If you need access to Azure for testing, please create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and tag your manager.
 
 Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credentials are in 1password `Azure Active Directory Sandbox (SAML Testing)`.
 
 ### Okta Testing Environment
 
-For SAML/SCIM testing, please open an access request for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
+For SAML/SCIM testing, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
 
 ### LDAP Testing Environments
 
