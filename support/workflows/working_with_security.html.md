@@ -54,7 +54,7 @@ For the following, transfer to Security:
 
 ### SIRT 
 
-- [Security Incidents](/handbook/engineering/security/#engaging-the-security-on-call) 
+- [Security Incidents](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) 
 - [Other](/handbook/engineering/security/#sirt---security-incident-response-team)
 
 ### Identifying Issues for Transfer to Support
@@ -75,7 +75,7 @@ responding to these tickets in a timely manner is a responsibility of the
 and they will reach out to AppSec when needed.
 
 If any team member has *any* concern about a report and an Application Security
-engineer is not available, [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call).
+engineer is not available, [engage the Security Engineer on call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
 
 ### Request for Information on Security Update or Patch
 
@@ -132,7 +132,7 @@ Triage vulnerability reports in a similar manner to our [HackerOne proccess](/ha
     that is being worked on.
 * If the report is a new, valid issue:
   * If the severity may be an ~severity::1 or otherwise needs immediate investigation:
-    * [page the security on call](/handbook/engineering/security/#engaging-the-security-on-call)
+    * [Engage the Security Engineer on-call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
     * Manually create an issue for report following the [creating a security issue instructions](/handbook/engineering/security/#creating-new-security-issues)
   * Otherwise, reply to the reporter to see if they wish to either:
     * Report via HackerOne (if they qualify)
