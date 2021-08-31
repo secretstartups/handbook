@@ -289,7 +289,7 @@ In the case of a high severity bug that is in an ongoing, or upcoming deployment
 
 ### Security Incidents
 
-If an incident may be security related, engage the Security Operations on-call by using `/security` in Slack. More detail can be found in [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call).
+If an incident may be security related, engage the Security Engineer on-call by using `/security` in Slack. More detail can be found in [Engaging the Security Engineer On-Call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
 
 ## Communication
 
