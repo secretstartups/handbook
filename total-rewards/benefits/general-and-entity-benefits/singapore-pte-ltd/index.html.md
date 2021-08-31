@@ -19,6 +19,12 @@ GitLab offers Supplementary Medical Insurance through AVIVA Health Insurance whi
 2. [MyBenefits Plus Group Outpatient (GP + SP)](https://drive.google.com/file/d/1F5DNdKShKGsd4TwAEgqIpyvcXULpWL3J/view?usp=sharing)
 3. [MyBenefits Plus Group Denticare](https://drive.google.com/file/d/18B1IYPSV6_id821swmUyqA9RhoPV8qMF/view?usp=sharing)
 
+AvivaOnline IT Helpdesk Contact Information:
+- Hotline: `1800 827 9955  or 6827 9955`
+- Fax: `(65) 6827 7700`
+- Email: `avivaonline_ithelpdesk@aviva-asia.com`
+- Address: `Aviva Asia Pte Ltd, 4 Shenton Way #01-01 SGX Centre 2, Singapore 068807`
+
 ## Pension
 
 GitLab does not plan to offer a supplementary private pension benefit at this time as Singapore has their Pension system called as [Central Provident Fund](https://www.cpf.gov.sg/members)
