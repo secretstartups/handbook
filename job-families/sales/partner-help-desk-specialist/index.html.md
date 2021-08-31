@@ -1,10 +1,10 @@
 ---
 layout: job_family_page
 title: "Partner Help Desk Specialist"
-description: "The Partner Help Desk is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions. "
+description: "The Partner Help Desk Specialist is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions. "
 ---
 
-The Partner Help Desk Specialist team is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions to achieve stated channel sales targets.  The Partner Help Desk Specialist will support Channel Sales Managers in addressing partner questions and system issues, and will proactively drive partner onboarding to speed each partner's time to their first deal.
+The Partner Help Desk Specialist is responsible for supporting the GitLab partner development, sales enablement, pipeline development and sales transactions to achieve stated channel sales targets.  The Partner Help Desk Specialist will support Channel Sales Managers in addressing partner questions and system issues, and will proactively drive partner onboarding to speed each partner's time to their first deal.
 
 ## Levels
 
