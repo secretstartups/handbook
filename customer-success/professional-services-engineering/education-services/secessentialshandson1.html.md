@@ -31,7 +31,7 @@ GitLab Security Scanning allows you to analyze your source code for known vulner
 9. Ensure your pipeline configuration is valid, and then move onto the next step.
 10. After the pipeline runs, Merge your Merge Request 
 10. While your pipeline is running Click on `.gitlab-ci.yml`.  Examine each of the stages and includes at the bottom.
-11. Click on the CI/CD button on the left hand side menu.  Examine each job and discuss 
+11. Click on the CI/CD button on the left hand side menu.  Examine each job and ensure the output matches SolutionSnippet_1. 
 
 ### SUGGESTIONS?
 
