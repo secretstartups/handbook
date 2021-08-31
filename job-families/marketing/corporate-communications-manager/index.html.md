@@ -33,7 +33,7 @@ The Corporate Communications Manager is a [grade 6](/handbook/total-rewards/comp
 * Proven ability to be self-directed and work with minimal supervision.
 * Outstanding written and verbal communications skills.
 * You share our values, and work in accordance with those values.
-* Williness to work within GitLab.com.
+* Willingness to work within GitLab.com.
 
 ### Senior Corporate Communications Manager
 
@@ -85,7 +85,7 @@ The Director of Corporate Communications is a [grade 10](/handbook/total-rewards
 * 12+ years experience managing public relations and communications teams
 * Experience developing overall strategy for corporate communications, public relations and social media teams.
 * Experience managing budgets aligning with communications objectives and goals.
-* Experience working with leaderrship to drive external awareness activities.
+* Experience working with leadership to drive external awareness activities.
 
 ## Specialties
 
@@ -95,7 +95,7 @@ The executive communications manager will work closely with the executive leader
 #### Responsibilities
 * Work closely with the executive leadership team to develop strong narrative presentations and content for external speaking opportunities.
 * Work with the brand, design, technical marketing team and others needed to develop state of the art slide decks for external events.
-* Lead speaking coaching sessions with leadership team to make sure they comfortably deliver the content in a natural and charismatic way; incorporate edits as needed.
+* Lead speaking coaching sessions with the leadership team to make sure they comfortably deliver the content in a natural and charismatic way; incorporate edits as needed.
 * Think strategically about other executive leadership platforms and how we should be promoting them externally, whether that is via our blog, contributed articles, podcasts, YouTube or other external platforms.
 * Work closely with others in the Corporate Communications department and with PR agencies to share presentation narratives for media consumption and obtain media messages/interview feedback to incorporate in external speaking presentations.
 * Work closely with Senior Manager, Corporate Communications to manage executive visibility programs.
@@ -128,7 +128,7 @@ The [Principal Internal Communications Manager](https://about.gitlab.com/job-fam
 The next step in the Corporate Communications job family is not yet defined at GitLab. 
 
 ## Performance Indicators
-* Increase overall brand awareness through key message pull through in media articles and speaking presenations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
+* Increase overall brand awareness through key message pull through in media articles and speaking presentations, secure opportunities for executives to speak at conferences and with media, submit strong award applications.
 
 ## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
