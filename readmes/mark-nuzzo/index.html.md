@@ -40,7 +40,7 @@ I live just outside of Chicago, Illinois with my wife, 3 children and puppy (Rey
 * My idea of fun is being placed into the middle of a room with a lot of people and introducing myself to them.
 * I love to talk about anything as I find having a conversation I can learn so much from a person.
 
-### Top profesesional books I recommend for other Engineering Managers
+### Top professional books I recommend for other Engineering Managers
 
 * The DevOps Handbook - Gene Kim, Jez Humble, Patrick Debois and John Willis
 * Accelerate - Nicole Forsgren, PhD, Jez Humble and Gene Kim
