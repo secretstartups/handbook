@@ -231,6 +231,8 @@ Combining the two axis above results in the below priority matrix.
 |Break Email addresses on Contacts, Leads etc. with suffix like it's done for users (if there's any risk of routine communication kicking in for example from workflow email alerts)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
 |Disable Weekly Data Export|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
 |For any sensitive email templates it might be worthwhile to change content (fake logo, big red "TEST ONLY" etc)|@sheelaviswanathan |@sheelaviswanathan @mclyne |||
+|Disable Marketo sync|Marketing Operations|Marketing Operations|Staging|Contact Marketing Operations to disable the SFDC sync. Must rebuild `Marketo Sync` field on Leads and Contacts in staging before reconnecting. May need to generate a new key|
+|Refresh step|Owner|To be completed by|Environments|Action steps|
 
 ##### Refresh cadence
 
