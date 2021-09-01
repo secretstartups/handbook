@@ -109,7 +109,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	| David Fisher | Virginia Reib |
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Madison Taft | Rachel Hill |
