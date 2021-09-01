@@ -107,6 +107,7 @@ The Senior Manager, GTM Planning and Operations is a [grade 9](/handbook/total-r
 * Play a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
 * Partner closely with Sales Leadership, Finance and Sales Operations to help design an efficient, effective and predictable GTM motion
 * Be a key leader in the design and implementation of Go-To-Market experimentation (e.g. Land vs. Expand pilots)
+* Build, develop, and lead a high functioning team of Go-To-Market planning specialists
 
 #### Senior Manager, GTM Planning and Operations Requirements
 
@@ -132,6 +133,7 @@ The Director, GTM Planning and Operations is a [grade 10](/handbook/total-reward
 * Deliver structured, actionable and insightful comp insights that lead to improvements in the design and effectiveness of compensation models 
 * Be a thought leader in quota/compensation troubleshooting throughout the year 
 * Drive the evaluation and implementation of software tools required for Field, Quota and Territory planning
+* Build, develop, and lead a high functioning team of Go-To-Market planning specialists
 
 #### Director, GTM Planning and Operations Requirements
 
