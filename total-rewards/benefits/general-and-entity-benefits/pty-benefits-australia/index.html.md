@@ -52,6 +52,24 @@ Team members in Australia have the option to make concessional super contributio
 ### Life insurance
 GitLab does not plan to offer life insurance at this time as Australians can access [government payments and services](https://www.humanservices.gov.au/individuals/subjects/payments-people-living-illness-injury-or-disability) if they get ill, injured or have a disability. Most Australians who choose to have life insurance take out cover from their super fund.
 
+### Workers' Compensation
+[Fair Work statement](https://www.fairwork.gov.au/leave/workers-compensation)
+
+GitLab renews the Workers' Compensation premium annually for each state. Premium are based on the annual declared wages.
+
+Below are the list of Workers' Compensation regulator for each state:
+
+| State| Regulator | 
+| ------ | ------ | 
+|NSW|iCare Worker Insurance|
+|QLD|WorkCover|
+|NT|WorkCover|
+|SA|ReturnToWorkSA|
+|TAS|Allianz|
+|WA|WorkCover|
+|VIC|WorkSafe|
+
+If you need to file a claim, kindly reach out to the Payroll Team or email nonuspayroll@gitlab.com. 
 
 ### On-Call (Engineering only)
 
