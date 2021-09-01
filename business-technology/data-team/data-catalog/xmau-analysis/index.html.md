@@ -74,11 +74,8 @@ Currently, recorded metrics that have identified usage ping metrics have been ch
 
 xMAU is calculated mainly thanks to Service Ping Data source. When the project started, stage and group Product Managers chose one specific service ping metric based on which are produced their xMAU charts.
 
-- list of GMAU metrics used
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12468487, dashboard: 758607, embed: 'v2') %>">
-
-- list of SMAU metrics used
-<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12468482, dashboard: 758607, embed: 'v2') %>">
+- [list of GMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468487&udv=1146726)
+- [list of SMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468482&udv=1146726)
 
 
 The current SSOT for the xMAU metrics is [this spreadsheet](https://docs.google.com/spreadsheets/d/1_b-BoKfrt2iH1dYUMYBxSw_CFpYiQ2W84XD3-AnfuwY/edit?usp=sharing) which is imported via Sheetload to our datawarehouse. That means that when updating the GMAU, SMAU columns for a specific metrics, the changes will propagate downstream until the xMAU charts updated in the handbook.
