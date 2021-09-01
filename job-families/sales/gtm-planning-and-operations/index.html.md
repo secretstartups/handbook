@@ -91,7 +91,7 @@ The Manager, GTM Planning and Operations is a [grade 8](/handbook/total-rewards/
 * Relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics 
 * Some experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
 * Advanced analytical and financial modeling skills with high motivation to drive high value insights 
-* Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
+* Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
 
 ### Senior Manager, GTM Planning and Operations
 
@@ -114,7 +114,7 @@ The Senior Manager, GTM Planning and Operations is a [grade 9](/handbook/total-r
 * Considerable relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics 
 * Considerable experience interacting with Leaders at the VP level as well as experience collaborating closely with leaders at the Sr. Director level and below
 * Advanced analytical and financial modeling skills with high motivation to drive high value insights 
-* Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
+* Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
 
 ### Director, GTM Planning and Operations
 
@@ -139,7 +139,7 @@ The Director, GTM Planning and Operations is a [grade 10](/handbook/total-reward
 * Significant experience in relevant fields and a comprehensive understanding of go-to-market design & sales planning as well as sales compensation design & analytics
 * Significant experience interacting with C-suite Executives and closely partnering with Leaders at the VP level and below
 * Advanced analytical and financial modeling skills with a superb ability to drive high value insights
-* Meet the [Leadership at Gitlab](/company/team/structure/#management-group) requirements
+* Meet the [Leadership at Gitlab](https://about.gitlab.com/company/team/structure/#management-group) requirements
 
 ## Performance Indicators
 
@@ -154,7 +154,7 @@ The next steps in the GTM Planning and Operations job family is not yet defined 
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
 - Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
 - Next, candidates will be invited to schedule a 25 minute interview with the Hiring Manager,
