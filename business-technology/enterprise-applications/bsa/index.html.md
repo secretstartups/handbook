@@ -101,13 +101,13 @@ On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) wi
 
 Depending on the complexity and urgency of the request, the BSA will either track work and provide updates directly in the Issue or create a project Epic to properly manage more-intricate requests.
 
-#### Project Epics
+### Project Epics
 The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 6 Epics and a Change Management Issue. A single parent Epic is created with 5 children Epics that represent each phase of the project.
 
 ![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/project_stages.png)
 
 ### Phase Exit Criteria
-#### Define
+#### DEFINE
 During Define, EntApps articulates the business problem and definition of done. This phase covers uses cases, technology impacted and requirements. The ultimate goal of Define is not to figure out everything but to document the process and what is impacted. Finally, before beginning the design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
 
 **Business Systems Analysts**
@@ -121,7 +121,7 @@ During Define, EntApps articulates the business problem and definition of done. 
 **Technical**
 - Ideation (high-level solution)
 
-### Design
+#### DESIGN
 This phase creates the roadmap of how things will work in the future. Here the EntApps will work with the business to design a future state process and refine the requirements to build it. This phase should iron out all the details and questions from above. 
 
 **Business Systems Analysts**
@@ -130,7 +130,7 @@ This phase creates the roadmap of how things will work in the future. Here the E
 **Technical**
 - Solution Proof of concept (POC) in a development environment
 
-#### Build
+#### BUILD
 In the Build phase, EntApps collaborates with other stakeholders to develop solutions that meet the business requirements but also that are scalable and aligned with best-practices.
 
 **Business Systems Analysts**
@@ -142,7 +142,7 @@ In the Build phase, EntApps collaborates with other stakeholders to develop solu
 - Solution detail documented
 - Quality Assurance (QA) Testing
 
-#### Test
+#### TEST
 EntApps collaborates with other stakeholders to develop test scripts and facilitates the user acceptance testing process.
 
 **Business Systems Analysts**
@@ -152,7 +152,7 @@ EntApps collaborates with other stakeholders to develop test scripts and facilit
 **Technical**
 - Deployment plan documentation
 
-#### Deploy
+#### DEPLOY
 EntApps owns developing a deployment plan and collaborating with other implementation teams to ensure completeness. This involves launch plans, user enablement, and go-live communications.
 
 **Business Systems Analysts**
