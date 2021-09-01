@@ -110,14 +110,18 @@ In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the 
 Monthly Announcements from the L&D team are a 3-part announcement. This includes:
 
 1. Async AMA issue for sharing upcoming opportunities, key results, and threaded discussion
-2. Short, 3 minute video recorded using Loom and shared via Slack and Email that highlights opportunities and results
+2. Short, 3 minute video recorded using Loom and shared via Slack
+
+Future iterations of the announcement will include:
+
+1. Using Bananatag to share the content via email with the team and Email that highlights opportunities and results
+1. Leveraging relationships with managers and PBPs to share in division specific channels
 
 ### Preparation checklist for GitLab team members
 
-1. Record short video that highlights 2-3 opportunities coming up and 1-2 key results from the previous month
+1. Record short video using Loom that highlights 2-3 opportunities coming up and 1-2 key results from the previous month
 1. Open and populate an issue using the `monthly-announcement` template. Collaborate with L&D team to include all important events in this issue body.
 1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
-1. Use Bananatag to send an email to the GitLab team with an embeded video and link to the AMA issue.
 1. Share the post from the #whats-happening-at-gitlab channel to 
      - the #ceo channel and tag Sid
      - the #managers channel and ask managers to share with their teams
@@ -127,10 +131,14 @@ Monthly Announcements from the L&D team are a 3-part announcement. This includes
 
 Monthly announcements are shared by the L&D team on the first Tuesday of each month. Below, you'll find links to previous announcement materials.
 
-| Month | Slide Deck | Video | Async AMA |
-| ----- | ----- | ----- | ----- | 
-| - | - | - | - |
-| - | - | - | - |
+| Month | Video Link | Async AMA |
+| ----- | ----- | ----- | 
+| 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)|
+| 2021-10 | - | - |
+| 2021-11 | - | - |
+| 2021-12 | - | - |
+| 2022-01 | - | - |
+
 
 ### Results
 
@@ -140,8 +148,6 @@ The following metrics will be used to measure results of the L&D monthly announc
 | ----- | ----- | 
 | Total Loom Video Views | 20% of company | 
 | Total comments/questions posted on the issue | 10 | 
-| Email Views | 20% of company |
-
 
 ## Monthly Continuous Learning Call Overview
 
