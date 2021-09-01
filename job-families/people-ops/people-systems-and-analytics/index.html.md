@@ -5,7 +5,7 @@ title: "People Technology and Analytics"
 
 The People Technology & Analytics Job Family owns the technology and reporting solutions at GitLab. Working in partnership with the People Leadership team, they play both a strategic and tactical role setting the direction for the technology and analytics strategy at GitLab and operating with a “data-first” mindset.
 
-### Levels
+## People Technology  
 
 ### Senior HRIS Analyst, People Technology
 
@@ -152,18 +152,18 @@ The Senior Manager, People Technology is a [grade 9](https://about.gitlab.com/ha
 * Extends that of a Principal HRIS Analyst, People Technology
 * 3+ years of people management experience
 
-#### Performance Indicators
+### People Technology Performance Indicators
 
 * OSAT score: New team member feedback of the onboarding experience in a given month. The Onboarding Satisfaction target is > 4.5 
 * Security compliance: 100% completion rate of security audits
 * Bug to first action: Measurement of time that an issue is being reported and taken action on. SLA is 1 working day. 
 * New requests are triaged: Measurement of time that an issue is being reported and taken action on. SLA is within 7 working days. 
 
-#### Career Ladder
+### People Technology Career Ladder
 
 The next step in the job family is to move into HRIS Leadership.
 
-#### Hiring Process
+### People Technology Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
@@ -173,6 +173,8 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+
+## People Analytics 
 
 ### Senior Analyst, People Analytics
 
@@ -200,7 +202,6 @@ The Senior Analyst, People Analytics is a [grade 7](https://about.gitlab.com/han
 * Strong data visualization & storytelling skills
 * Solid experience with regression analysis and other statistical modeling techniques
 * Experience with Workday and Greenhouse preferred
-
 
 ### Manager, People Analytics
 
@@ -257,18 +258,18 @@ The Senior Manager, People Analytics is a [grade 9](https://about.gitlab.com/han
 * Advanced Python, R, SAS, Julia or equivalent statistical programming language
 * 3+ years of people management experience
 
-### Performance Indicators
+### People Analytics Performance Indicators
 
 * Cost Per Hire
 * Hires vs Plan
 * Offer acceptance rate greater than 90%
 * Team member retention greater 84%
 
-### Career Ladder
+### People Analytics Career Ladder
 
 The next step in the job family is People Analytics Leadership.
 
-### Hiring Process
+### People Analytics Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
