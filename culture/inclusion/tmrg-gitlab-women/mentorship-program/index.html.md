@@ -5,6 +5,12 @@ description: "Mentorship opportunities for women at GitLab sponspored by a partn
 canonical_path: "/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/"
 ---
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
 ## Women at GitLab Mentorship Program 
 
 The Women at GitLab Mentorship program is a career development opportunity for participants to build trust across the organization, enable pathways for internal growth and development, and increase collaboration across teams. The program is hosted in collaboration with the Women's TMRG, GitLab Learning and Development team, and the GitLab DIB team.
@@ -56,7 +62,6 @@ _This requirement was updated on 2021-06-28 with the following goals in mind: in
 
 At the program half-way point, program participants will be encouraged to attend live/watch the recording of the Skill of the Month Individual Growth Plan Trainings hosted by the L&D team. The week after the training, participants will be invited to attend one of three office hour sessions to share examples, ask questions about, and discuss the IGP.
 
-
 **End of Program Celebration**
 
 To conclude the program, mentors and mentees will gather for small and full group discussions to share biggest takeaways from the program. We'll host multiple sessions of this celebration to accommodate workings hours of all participants. The celebration call will be 50 minutes long.
@@ -73,7 +78,8 @@ To conclude the program, mentors and mentees will gather for small and full grou
 | Between 2021-06-29 and 2021-07-07 | Optional: Mentor/Mentee pre-program coffee chats | |
 | 2021-07-07 and 2021-07-08 | [Initial program Kickoff meeting](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) | |
 | Week of 2021-07-12 | Self-Paced Training for Mentors and Mentees | See section on [Mentor/Mentee Training](/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/#structure) |
-| Week of 2021-08-16 | Mid program AMA | Date TBD |
+| 2021-08-11 | IGP Sessions | Training during Career Development Skill of the Month |
+| 2021-08-25 | IGP Office Hours | Async + Sync participation options |
 | Week of 2021-09-20 | End of program celebration | Date TBD |
 
 
@@ -151,7 +157,7 @@ Please note that applying for a mentee does not guarentee you a spot in the prog
 
 ### Metrics and Outcomes
 
-Mentors and mentees will complete a mid-program and end of program survey to collect feedback, assess skills, and determine if goals set during mentor/mentee relationships have been set.
+Mentors and mentees will complete a pre-program and end of program survey to collect feedback, assess skills, and determine if goals set during mentor/mentee relationships have been set.
 
 Success of this program will be measured by:
 
@@ -177,8 +183,8 @@ The following section will be updated throughout the program to reflect particip
 | Event Name | Total Attendance Percentage | Attendance Session 1/Session 2/Session 3 |
 | ----- | ----- | ----- |
 | Program Kickoff | 95.31% | 7/12/42 |
-| Mid-Program Event | | |
-| End of Program Event | | |
+| Mid-Program Event | 4.5% | 0 / 0 / 3 |
+| End of Program Event | TBD | TBD |
 
 ##### 1:1 Mentorship Meeting Data
 
@@ -190,8 +196,6 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 1. 4 have their first mentorship session scheduled for next week (week of 2021-07-26)
 1. 1 falls in an `other` category
 
-###### Feedback Trends 
-
 ##### Pre-Program Survey
 
 | Participant | Completions |
@@ -199,9 +203,9 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 | Mentor | 20/33 |
 | Mentee | 16/33 |
 
-##### Mentor Results
+###### Mentor Results
 
-![mentor-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.png)
+![mentor-data](/sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentor-data.jpg)
 
 *What is something you hope to learn from your mentee during this program?*
 
@@ -234,8 +238,7 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 
 ##### Mentee Results
 
-![mentee-data](sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.png)
-
+![mentee-data](/sites/uncategorized/source/company/culture/inclusion/tmrg-gitlab-women/mentorship-program/mentee-data.jpg)
 
 **What is one goal you hope to accomplish by participating in this Women at GitLab mentorship program?**
 
@@ -265,10 +268,6 @@ Based on a survey sent via the Polly Slack app on 2021-07-23:
 1. Goal Setting
 1. Strategic thinking
 
-
-##### Mid-Program Survey:
-
-TBD, Shared during the week of 2021-08-16
 
 ##### Post-Program Survey:
 
