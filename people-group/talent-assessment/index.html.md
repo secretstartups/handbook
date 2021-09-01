@@ -237,11 +237,9 @@ It is **absolutely essential** that managers complete the required pre-work to e
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
 - If you did not attend the people manager live training session in August 2021, please watch the Performance/Growth Training video overview below:
 
-
-<figure class=“video_container”>
-  <iframe src=“https://www.youtube.com/embed/siI3wRtQYQA” frameborder=“0” allowfullscreen=“true”> </iframe>
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/siI3wRtQYQA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
 
 ### Calibration Session
 
