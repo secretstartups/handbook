@@ -266,7 +266,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Russia	|	RU	|	MM-EMEA-Russia	|	Chris Willis	| Shay Fleming | Kristine Setschin |
@@ -275,7 +275,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Conor Brady	| Shay Fleming | Kristine Setschin |
@@ -353,3 +353,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
 |	AMER	|	US West	|	SMB-AMER-West-FO	|	Da'Neil Olsen	|
+|	AMER	|	US East	|	SMB-AMER-East-FO	|	Phillip Knorr	|
