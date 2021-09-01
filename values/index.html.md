@@ -736,7 +736,7 @@ Remember, **brains work differently** and always [assume positive intent](https:
 
 We also recommend that all team members review the [Reasonable Accommodation](https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation) process. A Reasonable Accommodation for a team member could include noise-cancelling headphones, scheduling smaller group session zoom calls, providing very explicit and precise instructions and due-dates when given tasks, or providing a variety of supportive software tools.  
 
-The most important thing that managers can do is facilitate an environment in which all team members with feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.  
+The most important thing that managers can do is facilitate an environment in which all team members feel [psychologically safe](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety/#what-is-psychological-safety) enough to make requests for [what they need](https://about.gitlab.com/company/culture/inclusion/neurodiversity-resources/#resources-for-team-members-and-managers) in order to do their job.  
 
 
 ##### Family and friends first, work second
