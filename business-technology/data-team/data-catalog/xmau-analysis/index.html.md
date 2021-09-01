@@ -63,7 +63,7 @@ Explanations for the metrics below can be found on [the Product Team Performance
 - **[Stage Monthly Active Users (SMAU)](/handbook/product/performance-indicators/#stage-monthly-active-users-smau)**
 - **[Section Monthly Active Users (Section MAU)](/handbook/product/performance-indicators/#structure)**
 - **[Section Total Monthly Active Users (Section CMAU)](https://about.gitlab.com/handbook/product/performance-indicators/#structure)**
-- **[Cobined Monthly Active Users (CMAU)](/handbook/product/performance-indicators/#structure)**
+- **[Combined Monthly Active Users (CMAU)](/handbook/product/performance-indicators/#structure)**
 
 Each metric has three different versions (Recorded, Estimated, Projected), explained on
   - [the Product Team Performance Indicator page](/handbook/product/performance-indicators/#three-versions-of-xmau)
