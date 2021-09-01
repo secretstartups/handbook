@@ -51,13 +51,13 @@ The duration of each experiment will vary depending on how long it takes for exp
 - We choose reviewers and domain experts from relevant groups where possible to ensure different groups are familiar with the changes we are introducing
 - When our product managers make the call, we initiate experiment and feature flag cleanup, either adding the experiment feature to the product or reverting
 1. Engineering & PM collaborate on getting the experiment activated according to the defined rollout plan
-    - PM or Engineering update the [experiment tracking](#experiment-tracking-issue) issue, setting the experiment scoped label to `~"experiment::active"` when the experiment is live
-    - PM or Engineering notify interested parties (their team, data team, support, TAMs, etc.) by at-mentioning them in a comment on the [experiment tracking](#experiment-tracking-issue) issue, and on the `#production` Slack channel
-1. PM monitors the experiment via data sent to Sisense, adjusting the rollout strategy in the [experiment tracking](#experiment-tracking-issue) issue as necessary
+    - PM or Engineering update the [experiment rollout](#experiment-rollout-issue) issue, setting the experiment scoped label to `~"experiment::active"` when the experiment is live
+    - PM or Engineering notify interested parties (their team, data team, support, TAMs, etc.) by at-mentioning them in a comment on the [experiment rollout](#experiment-rollout-issue) issue, and on the `#production` Slack channel
+1. PM monitors the experiment via data sent to Sisense, adjusting the rollout strategy in the [experiment rollout](#experiment-rollout-issue) issue as necessary
 1. PM compares recorded data to the experiment's criteria for measuring success
     - if experiment (variant) is successful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to fully integrate the successful flow into the product
     - if experiment (all variants) are unsuccessful, PM/Engineering create an [Experiment Cleanup Issue](#experiment-cleanup-issue) to remove the experimentation code, reverting back to the "control" flow
-1. Once the [experiment cleanup](#experiment-cleanup-issue) issue is resolved, the [experiment tracking](#experiment-tracking-issue) issue and [Experiment Epic](#experiment-epic) are closed and the experimentation process is complete
+1. Once the [experiment cleanup](#experiment-cleanup-issue) issue is resolved, the [experiment rollout](#experiment-rollout-issue) issue and [Experiment Epic](#experiment-epic) are closed and the experimentation process is complete
 
 See also the [Growth RADCIE and DRIs](https://about.gitlab.com/handbook/product/growth/#growth-radcie-and-dris) for determining DRIs at each stage.
 
@@ -65,11 +65,11 @@ See also the [Growth RADCIE and DRIs](https://about.gitlab.com/handbook/product/
 
 A backlog of experiments are tracked on the [Experiment backlog](https://gitlab.com/groups/gitlab-org/-/boards/2028884?&label_name[]=growth%20experiment) board.
 
-To track the status of an Experiment, Experiment tracking issues using the `~"experiment tracking"` and scoped `experiment::` labels are tracked on Experiments tracking boards across the following groups:
+To track the status of an Experiment, Experiment tracking issues using the `~"experiment-rollout"` and scoped `experiment::` labels are tracked on experiment rollout boards across the following groups:
 
 | gitlab-org | gitlab-com | all groups |
 | ------ | ------ | ------ | ------ |
-| [Experiment tracking](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [Experiment tracking](https://gitlab.com/groups/gitlab-com/-/boards/1542208) | [Issues List](https://gitlab.com/dashboard/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=devops%3A%3Agrowth&label_name[]=growth%20experiment&label_name[]=experiment%20tracking) |
+| [Experiment rollout](https://gitlab.com/groups/gitlab-org/-/boards/1352542) | [Experiment rollout](https://gitlab.com/groups/gitlab-com/-/boards/1542208) | [Issues List](https://gitlab.com/dashboard/issues?scope=all&state=opened&label_name[]=experiment-rollout) |
 
 #### Experiment Setup
 
@@ -77,7 +77,7 @@ To track the status of an Experiment, Experiment tracking issues using the `~"ex
     - The epic becomes the single source of truth (SSoT) for the experiment
     - The original [Experiment Definition Issue](#experiment-definition-issue) is closed and gets attached to the epic
     - The final definition, hypothesis, & measurement criteria from the [Experiment Definition Issue](#experiment-definition-issue) are copied into the new epic's description
-- New issues related to the experiment (such as an [experiment tracking](#experiment-tracking-issue) issue, an [experiment cleanup](#experiment-cleanup-issue) issue, a UX spec issue, or an Engineering work issue) are attached to the epic
+- New issues related to the experiment (such as an [experiment rollout](#experiment-rollout-issue) issue, an [experiment cleanup](#experiment-cleanup-issue) issue, a UX spec issue, or an Engineering work issue) are attached to the epic
 
 ##### Experiment Definition Issue
 
@@ -89,7 +89,7 @@ This issue acts as the starting point for defining an experiment, including an o
 1. The experiment is as atomic as possible (i.e. it is easiest to measure one, specific, individual change rather than a series or group of changes)
 1. The experiment has clearly defined and reliably measurable success metrics
     - There is consensus around the chosen success metric
-    - The success metric is clearly tied to a piece of data which will be collected & measured during the active phase of the experiment ([experiment tracking](#experiment-tracking-issue) issue)
+    - The success metric is clearly tied to a piece of data which will be collected & measured during the active phase of the experiment ([experiment rollout](#experiment-rollout-issue) issue)
 1. The experiment includes an estimated time to significance: how long the experiment would need to run given the population size and expected conversion rate
     - Can use handy tools, like the [A/B-Test Calculator (external)](https://cxl.com/ab-test-calculator/), to help calculate this estimate
 
@@ -97,7 +97,7 @@ This issue acts as the starting point for defining an experiment, including an o
 
 This epic acts as the single source of truth (SSoT) for the experiment once an experiment has been properly defined according to our [Experiment Definition Standards](#experiment-definition-standards) and is deemed worthwhile to run. Once an [Experiment Definition Issue](#experiment-definition-issue) is added to this epic, we fill out further details such as the expected rollout plan. We also assign the experiment to a milestone and follow the product development flow for UX & Engineering work. As the experiment design and rollout progresses, this epic or parent issue should contain details or links to further information about experiment including the tracking events and data points used to determine if the experiment is a success as well as links to relevant metrics-reporting dashboards (such as Sisense).
 
-##### Experiment Tracking Issue
+##### Experiment Rollout Issue
 
 This issue is used to track the experiment progress once deployed. It is similar to a Feature Flag Roll Out issue with an additional `experiment::` scoped label to track the status of the experiment. The [Experiment Tracking] issue template includes an overview of the experiment, who to contact, rollout steps, and a link to the overall experiment issue or epic.
 
@@ -112,7 +112,10 @@ The `experiment::` scoped labels are:
 
 #### Experiment Cleanup Issue
 
-This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). The cleanup work may include completely removing the experiment (in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`). The cleanup issue should be linked to the experiment tracking issue as a reference to ensure the experiment is concluded prior to cleanup.
+This issue is used to clean up an experiment after an experiment has been completed. It is created within the project where the cleanup work will be done (e.g. the `gitlab-org/gitlab` project). 
+The cleanup work may include completely removing the experiment 
+(in the case of `~"experiment::invalidated"` and `~"experiment::inconclusive"`) or refactoring the experiment feature for the long run (in the case of `~"experiment::validated"`). 
+The cleanup issue should be linked to the experiment rollout issue as a reference to ensure the experiment is concluded prior to cleanup.
 
 The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template can be used for the `gitlab-org/gitlab` project.
 
