@@ -40,7 +40,7 @@ Thank you for visiting! The purpose of this resource is to provide Sales reps as
 ### 🎥 [Watch the "How to Reach Legal" Video](https://www.youtube.com/embed/bCLagn_sWSI)
 *Learn about how to open a Legal Request, When to Open a Legal Request; 2:24 (Log into GitLab Unfiltered)*
 
-1. **UPDATE TO PROCESS:** Please note, the "Legal Request Button" will not be available exclusively in the Opportunity template layout. The purpose of this update was to enable Legal to gather more information regarding Legal Requests created and the applicable Opportunity information. If an Opportunity does not exists, please open a $0 Opportunity to then create the Legal Request following the steps within this Section and the video.  
+1. **UPDATE TO PROCESS:** Please note, the "Legal Request Button" will now be available exclusively in the Opportunity template layout. The purpose of this update was to enable Legal to gather more information regarding Legal Requests created and the applicable Opportunity information. If an Opportunity does not exists, please open a $0 Opportunity to then create the Legal Request following the steps within this Section and the video.  
 2. For all questions related to Partners and/or Customers, including: NDA's, Contract Review / Negotiations, Legal Questions...etc., please open a **Legal Request** in SFDC. 
 3. There is a:
      * $25K ARR opportunity minimum threshold to review edits to our terms; and
