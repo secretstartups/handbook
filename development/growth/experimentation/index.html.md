@@ -124,12 +124,12 @@ The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issue
 - GitLab `gitlab-org/gitlab` project
     - [Experiment idea](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Idea) issue template
     - [Experimentation](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experimentation) issue template for Engineering
-    - [Experiment tracking](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=experiment_tracking_template)
+    - [Experiment rollout](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=experiment_tracking_template)
     - [Experiment successful cleanup](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Experiment%20Successful%20Cleanup) issue template for converting a successful experiment into a feature
 - Growth `team-tasks` project
     - [Milestone planning](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=growth_team_planning_template) issue template for Growth groups
     - [Experiment idea](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Growth%20experiment) issue template for Growth groups
-    - [Experiment tracking](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template) issue template for Growth groups
+    - [Experiment rollout](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=experiment_tracking_template) issue template for Growth groups
 
 
 ### Minimum Viable Experiment (MVE)
