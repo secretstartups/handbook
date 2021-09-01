@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "R&D-Finance"
+title: "R&D Finance"
 ---
 
 ## On this page
