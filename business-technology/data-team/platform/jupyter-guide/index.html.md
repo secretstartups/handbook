@@ -11,6 +11,8 @@ description: "Guidance on interacting with SnowFlake internally using JupyterLab
 {:toc .toc-list-icons .hidden-md .hidden-lg}
 
 ---
+See related [repository](https://gitlab.com/gitlab-data/data-science)
+
 ### Features 
 - Common python DS/ML libraries (pandas, scikit-learn, sci-py, etc.)
 - Natively connected to Snowflake using your dbt credentials. No login required!

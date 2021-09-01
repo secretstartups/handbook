@@ -21,7 +21,7 @@ description: "GitLab Data Team Platform"
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
-- [Jupyter Guide](/handbook/business-technology/data-team/platform/python-guide)
+- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
