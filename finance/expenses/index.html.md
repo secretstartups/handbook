@@ -219,7 +219,7 @@ You may also want to buy a monitor arm for your desk that increases ergonomics. 
   * JBL T450BT On-ear Bluetooth Headphones - [Germany](https://www.amazon.de/dp/B01M6WNWR6/)
   * OnePlus Bullets Wireless 2 - [India](https://www.oneplus.in/product/oneplus-bullets-wireless-2)
   * Logitech H390 Headset - [AU](https://www.amazon.com.au/Logitech-981-000485-USB-Headset-H390/dp/B077DC9XQH)
-  * Apple AirPods are not recommended for Mac users and **cannot** be expensed for reimbursement - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers)
+  * Apple AirPods are not recommended for Mac users - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers)
     * Note: We do not recommend using AirPods in Zoom meetings if you are using a [Mac](https://www.apple.com/mac/) due to the audio quality issues. It is sometimes difficult to hear team members who are using the microphone on AirPods. [This may be due to AirPods automatically switching the microphones between left and right](https://authenticstorytelling.net/how-to-fix-your-airpods-microphone-to-work-better-on-phone-calls-and-not-cut-out/). This can be fixed by [setting the AirPods to use the audio mic from one or the other](https://www.pcmag.com/how-to/how-to-connect-your-airpods-to-your-mac). Another option is to use an [external microphone](https://about.gitlab.com/company/culture/all-remote/workspace/#microphones). AirPods also have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
 
 Keep in mind, open-ear headphones can often be worn longer than in-ear or closed headphones.
