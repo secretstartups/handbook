@@ -51,4 +51,7 @@ In order to maintain the confidentiality of your invention, do not discuss it on
 
 ## Conditions of participation
 
-Inventors must be current GitLab Team Members in order to participate in the GitLab Patent Program. GitLab may change or terminate the Program at any time. GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt. Participation in the GitLab Patent Program is subject to local employment and intellectual property laws.
+- Inventors must be current GitLab Team Members to participate in the GitLab Patent Program and be eligible for the receipt of Patent Awards.
+- GitLab may change or terminate the Program at any time.
+- GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt.
+- Participation in the GitLab Patent Program is subject to local employment and intellectual property laws.
