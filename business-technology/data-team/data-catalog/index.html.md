@@ -57,9 +57,15 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 
 ### Sales
 
+#### Dashboards
+
 * [TD: Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation)
 * [TD: Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel)
 * [Manual Usage Data Upload Process](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
+
+#### Analytics Projects
+
+* [Propensity to Buy - Account Score](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy---account-score)
 
 ### Finance
 
@@ -80,7 +86,6 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 #### Analytics Projects
 
 * [2020-12 Product Analytics Offsite](https://docs.google.com/presentation/d/1y9iTbHBNSCoq26Wxb0MnGAP7vlcPdAG5Ehigsyr3Hpw/edit#slide=id.g29a70c6c35_0_68)
-* [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
 
 ### Growth
 
