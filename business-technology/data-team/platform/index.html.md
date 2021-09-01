@@ -15,7 +15,7 @@ description: "GitLab Data Team Platform"
 ---
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
-
+ 
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure)
 - [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
