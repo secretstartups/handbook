@@ -70,22 +70,22 @@ The Sr. Analyst, GTM Planning and Operations is a [grade 7](/handbook/total-rewa
 * Relevant experience and a solid understanding of go-to-market design & sales planning
 * Experience collaborating closely with leaders at the Director level and below
 
-### Manager, GTM Planning and Operations
+### GTM Planning and Operations Manager
 
-The Manager, GTM Planning and Operations reports to the [Director, GTM Planning & Operations](/job-families/sales/gtm-planning-and-operations/).
+The GTM Planning and Operations Manager reports to the [Director, GTM Planning & Operations](/job-families/sales/gtm-planning-and-operations/).
 
-#### Manager, GTM Planning and Operations Job Grade
+#### GTM Planning and Operations Manager Job Grade
 
-The Manager, GTM Planning and Operations is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The GTM Planning and Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Manager, GTM Planning and Operations Responsibilities
+#### GTM Planning and Operations Manager Responsibilities
 
 * Be a key driver and architect of the annual Go-To-Market planning process for the CRO organization
 * Play a leadership role in providing the CRO organization with thoughtful insights about the effectivness of Go-To-Market planning initiatives
 * Partner closely with Sales Leadership, Finance and Sales Operations to help design an efficient, effective and predictable GTM motion
 * Be a leader in the design and implementation of Go-To-Market experimentation (e.g. Land vs. Expand pilots)
 
-#### Manager, GTM Planning and Operations Requirements
+#### GTM Planning and Operations Manager Requirements
 
 * BA/BS degree in engineering, accounting, finance, economics or other quantitative fields preferred
 * Relevant experience and a solid understanding of go-to-market design & sales planning as well as sales compensation design & analytics 
