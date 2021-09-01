@@ -77,8 +77,8 @@ If you have questions around an upcoming Group Conversation or would like to sta
 1. You can contribute taking notes to transcribe the answers during the conversation. Thanks!
 1. Make sure there are at least 5 empty items in the list (that just contain a space) for people to add new questions.
 
-### Tips for Particpation
-All team members are encourated to particpate in Group Conversations. Homework is not required! 
+### Tips for the Presenter to Solicit Questions
+Presenters can encourage participation by reminding the attendees that all team members are encouraged to participate in Group Conversations. Homework is not required! 
 1. Reviewing the slide deck and highlight video before the Group Conversation is *optional*, not required. 
 1. You can ask questions about topics that are not highlighted in the deck. 
 1. You can ask questions about topics that are in the deck even if you haven't reviewed the deck in detail. 
