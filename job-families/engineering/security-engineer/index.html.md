@@ -118,7 +118,7 @@ The Principal Security Engineer role extends the [Staff Security Engineer](#staf
 
 ### Job Grade
 
-The Staff Security Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Principal Security Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Distinguished Security Engineer
 
