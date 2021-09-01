@@ -71,7 +71,11 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 
 * [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
 * [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
+
+#### Data Models
+
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
+* [SaaS Usage Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 
 #### Analytics Projects
 
@@ -86,9 +90,11 @@ Access to a SAFE Dashboard requires your immediate manager's approval, Departmen
 
 #### Analytics Projects
 
+* [2021-08 Customer Centric Product Insights](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
+* [2021-08 Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/edit#slide=id.gca4c496ea4_0_0)
 * [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
 * [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
-
+* [FY22-Q1 Growth Team KPI Review](https://docs.google.com/presentation/d/1VX85L9UTD7PQbb_aPJolqhRkq2KE7r8up2dSOzWNTeo/edit#slide=id.gdd1aebac8e_0_0)
 
 ### Customer Success
 
