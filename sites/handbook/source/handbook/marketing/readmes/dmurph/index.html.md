@@ -56,6 +56,7 @@ For more on this topic, I've shared [17 questions that this role answers](https:
 * Fast Company — [Extremely Transparent and Incredibly Remote](https://www.fastcompany.com/90548691/extremely-transparent-and-incredibly-remote-gitlabs-radical-vision-for-the-future-of-work)
 * San Francisco Chronicle — [Tech's hottest job title in 2021? 'Head of remote work'](https://www.sfchronicle.com/local/article/Meet-the-people-making-your-work-from-home-16044685.php)
 * Crowe Global — [Exclusive Q&A With GitLab’s Head Of Remote](https://www.crowe.com/global/insights/art-of-smart/exclusive-q-a-with-gitlab-head-of-remote)
+* The Chartered Institute of Marketing - [Is "head of remote" a marketer’s next career choice?](https://www.cim.co.uk/content-hub/editorial/is-head-of-remote-a-marketer-s-next-career-choice/)
 * TechCrunch — [GitLab's Head of Remote on hiring, onboarding, and why Slack is a no-work zone](https://techcrunch.com/2020/05/19/gitlabs-head-of-remote-on-hiring-onboarding-and-why-they-dont-do-work-stuff-on-slack/)
 * TechCrunch — [What people tend to get wrong about remote work](https://techcrunch.com/2020/05/20/what-people-tend-to-get-wrong-about-remote-work/)
 * Silicon Foundry — [Remote Work, Resilient Organizations, and Better Lives](https://sifoundry.medium.com/remote-work-resilient-organizations-and-better-lives-81218b4a4d15)
