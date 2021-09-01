@@ -1,88 +1,281 @@
 ---
 layout: job_family_page
-title: "People Systems and Analytics"
+title: "People Technology and Analytics"
 ---
 
-The People Systems and Analytics Job Family owns the technology and reporting solutions at Gitlab. Working in partnership with the People Leadership team, they play both a strategic and tactical role setting the direction for the technology and analytics strategy at Gitlab and operating with a “data-first” mindset.
+The People Technology & Analytics Job Family owns the technology and reporting solutions at GitLab. Working in partnership with the People Leadership team, they play both a strategic and tactical role setting the direction for the technology and analytics strategy at GitLab and operating with a “data-first” mindset.
 
-## Levels
+## People Technology  
 
-### Senior Systems and Analytics Partner
+### Senior HRIS Analyst, People Technology
 
-The Senior Systems and Analytics Partner reports into the [Director, People Tools and Technology](/job-families/people-ops/leadership-people-operations-tech-analytics/#director-people-tools-and-technology).
+The Senior HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
-#### Senior Systems and Analytics Partner Job Grade
+#### Job Grade
 
-The Senior Systems and Analytics Partner is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior HRIS Analyst, People Technology is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Senior Systems and Analytics Partner Responsibilities
+#### Responsibilities
 
-* Own technology, reporting and insights and Gitlab
-* Develop consultative business partnerships with People Leadership to address challenges and influence business decisions through insights.
-* Lead multiple systems and analytics projects at a time, from conception to completion.
-* Manage the proactive and reactive split for data needs. Ensure a relevant suite of deliverables for ongoing requirements while also supporting adhoc requests.
-* Drive elements of the Workday and Greenhouse Integration to improve recruiter workflows, daily roadblocks, and interruptions and design processes to eliminate data inconsistencies.
-* Empower leaders and organizations by providing high quality and timely reporting, analyses and actionable insights.
-* In partnership with a centralized Data team, design, develop and automate self-service dashboards to ensure our business leadership have easy access to the right information when monitoring organizational health and making talent decisions.
-* Develop new models and methods for evaluating existing data or correlating new to existing data sources for intuitive reporting solutions.
-* Clean, organize and synthesize large data sets and determine actions and insights based on findings.  
-* Handle large amounts of sensitive and confidential data with discretion and care.  
-* Manage vendor relationships for the recruiting team.
+* Serve as HRIS system administrator by providing functional and technical expertise including system configurations, managing settings, business process enhancements, troubleshooting issues, employing improvements, and ensuring overall data quality and integrity
+* Maintain data security and compliance by regularly analyzing and auditing data 
+* Serve as a consultant to various business groups taking a systems thinking approach and recommending process improvements and/or innovative, alternative solutions while considering downstream impacts
+* Configure and test for annual People programs, system releases, which includes end-to-end scoping of configuration and integration
+* Serve as a functional resource on reporting, including dashboard creation, data analyses and creating calculated fields
+* Provide technical support, troubleshooting, and guidance, which includes HRIS training to support users and strengthen the organization’s ability to effectively and efficiently use the system
+* Load mass datasets, distribute policies and documents with confidence and thorough testing
+* Maintain knowledge of trends and developments in data management, security, and HR technology
 
-#### Senior Systems and Analytics Partner Requirements
+#### Requirements
 
-* Previous recruiting market/talent intelligence or talent mapping experience
-* Consulting skills with the demonstrated ability to successfully influence clients at all levels.
-* Experience building reports and dashboards in a data visualization tool
-* Experience with a variety of data sources
-* Experience in a remote startup environment
-* Proven ability to multitask and prioritize workload
-* Excellent communication and interpersonal skills
-* Demonstrated ability to work in a team environment and work collaboratively
-* Proficient in Google Workspace
-* Willingness to learn and use software tools including Git and GitLab, prior experience with GitLab is a plus.
-* Ability to recognize and appropriately handle highly sensitive and privileged information
-* Prior experience using an applicant tracking system (ATS), such as Greenhouse
-* Prior experience using external recruiting tools such as LinkedIn Talent Insights
-* Prior experience using a human resources information system (HRIS), such as Workday, is a plus
-* Share our values and work in accordance with those value
+* 4+ years of hands on HR technology experience managing Workday
+* Understanding and experience (configuring 1 or more) of Workday functionality including HCM, Core & Advanced Compensation, Benefits (annual and life events enrollment), Time Off and Tracking, Talent Management, Performance, Security
+* Ability to use GitLab
+* Strong consulting skills with ability to lead design sessions with stakeholders, explain complex functionality, configure business processes, test functionality, document requirements, and assist with testing
+* Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
+* Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs
+* Bachelor's degree or equivalent experience preferred
+* Completion of one full implementation with Workday HCM and/or Workday certification in HCM preferred
+* Experience with Workday technical integrations - Workday Studio including BIRT, EIB, Cloud Connect preferred
+* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
 
-## Specialties 
+### Staff HRIS Analyst, People Technology
 
-#### Systems and Analytics Partner (Talent Acquisition) Responsibilities
+The Staff HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
 
-* Extends that of the Senior Systems and Analytics Partner responsibilities
-* Partner with the GitLab Global Talent Acquisition team
-* Develop consultative business partnerships with TA Leadership to address challenges and influence business decisions through insights.
+#### Job Grade
+The Staff HRIS Analyst, People Technology is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Systems and Analytics Partner (Talent Acquisition) Requirements
+**Market Justification:** When reviewing survey data there are 112 companies with 223 at the Staff level of an HRIS role. The business need for GitLab to have an individual contributor grade 8 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager. 
 
-* Extends that of the Senior Systems and Analytics Partner requirements
-* Experience working directly with Talent Acquistion functions
+#### Responsibilities
 
-#### Systems and Analytics Partner (Talent Acquisition) Performance Indicators
+* Manage HRIS system by providing functional and technical expertise including major system configurations, business process enhancements, troubleshooting complex issues, employing improvements, and ensuring overall data quality and integrity
+* Oversee data security and compliance across our people systems (both production and non-production environments) by conducting regular audits, being vigilant about security and access
+* Serve as a trusted advisor and consultant to various business groups taking a systems thinking approach and recommending process improvements and/or innovative, alternative solutions while considering downstream impacts
+* Lead the configuration and testing for annual People programs, system releases, which includes end-to-end scoping of configuration and integration
+* Serve as a functional expert on reporting, including dashboard creation, data analyses and assisting stakeholders with metrics. Comfortable with composite, matrix and trending reports, with the ability to create/modify calculated fields and business intelligence reports
+* Provide technical support, troubleshooting, and guidance for system issues and integration errors, which includes HRIS training to support users and strengthen the organization’s ability to effectively and efficiently use the system
+* Load mass datasets, distribute policies and documents with confidence and thorough testing
+* Maintain knowledge of trends and developments in data management, security, and HR technology
 
-* Active Users with a Recruiting or Hiring Manager LinkedIn Seat
-* Average Location Factor
+#### Requirements
+
+* 6+ years of hands on HR technology experience managing HRIS systems such as Workday
+* 2-3 years implementing and integrating new people technology systems(HRIS, ATS, case management tools)
+* Experience with technical integrations using EIB (Workday Studio, BIRT, Cloud Connect knowledge and experience preferred)
+* Ability to use GitLab
+* Previously a functional consultant or subject matter expert in Human Capital Management business processes or regulations
+* Deep understanding and experience (configuring 2 or more) of Workday functionality including HCM, Core & Advanced Compensation, Benefits (annual and life events enrollment), Time Off and Tracking, Talent Management, Performance, Security
+* Strong consulting skills with ability to lead design sessions with stakeholders, explain complex functionality, configure business processes, test functionality, document requirements, and assist with testing
+* Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
+* Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs
+* Passionate and constantly striving to create a seamless and delightful experience for our Team Members in our processes, tools, and systems
+* Bachelor's degree or equivalent experience preferred
+* Completion of one full implementation with Workday HCM and/or Workday certification in HCM preferred
+* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services preferred
+
+### Principal HRIS Analyst, People Technology
+
+The Principal HRIS Analyst, People Technology reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Principal HRIS Analyst, People Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** When reviewing survey data there are 13 companies with 14 team members at the Principal level of an HRIS role. The business need for GitLab to have an individual contributor grade 9 is to ensure we have a high level of skill when building out systems architecture cross functionally. In the market, there can be HRIS architects who have interest in managing the system and/or technical integrations only. Not having this career parth option can make it difficult to retain and attract talent. Advanced HRIS professionals may often be found in titles such as Staff HRIS Analyst, Senior Staff HRIS Analyst, Consultant, Sr. HRIS Consultant, Product Manager, Senior Product Manager. 
+
+#### Responsibilities
+
+* Manage overall HRIS system and ecosystem of People tools by providing functional and technical expertise including system configurations, business process enhancements, troubleshooting complex issues, employing improvements, and ensuring overall data quality and integrity
+* Oversee data security strategy and compliance across our people systems (both production and non-production environments) by conducting regular audits, being vigilant about security and access, and monitoring integrations in partnership with IT
+* In partnership with Director of People Tools & Technology, develop strategy and roadmap to implement scalable and efficient technology solutions that align with business needs and provide a seamless experience for team members
+* Serve as a trusted advisor with deep subject matter expertise to various business groups taking a systems thinking approach and recommending process improvements and/or innovative, alternative solutions while considering downstream impacts
+* Oversee configurations and testing for annual People programs, system releases, which includes end-to-end scoping of configuration and integration
+* Serve as a functional expert on reporting, including dashboard creation, data analyses and assisting stakeholders with metrics. Comfortable with composite, matrix and trending reports, with the ability to create/modify calculated fields and business intelligence reports
+* Provide technical support, troubleshooting, and guidance, which includes HRIS training to support users and strengthen the organization’s ability to effectively and efficiently use the system
+* Provide guidance and mentorship to other team members
+* Maintain knowledge of trends and developments in data management, security, and HR technology
+
+#### Requirements
+
+* 8+ years of hands on HR technology experience managing HRIS systems such as Workday
+* 3-5 years implementing and integrating new people technology systems 
+* Completion of at least one implementation with Workday HCM and/or Workday certification in HCM
+* Experience with technical integrations using EIB, Workday Studio, BIRT, Cloud Connect
+* Exposure to HTML, Javascript, XML, CSS, SOAP & REST web services
+* Ability to use GitLab 
+* Previously a functional consultant or subject matter expert in Human Capital Management business processes or regulations
+* Deep understanding and experience (configuring 4 or more) of Workday functionality including HCM, Core & Advanced Compensation, Benefits (annual and life events enrollment), Time Off and Tracking, Talent Management, Performance, Security 
+* Strong consulting skills with ability to lead design sessions with stakeholders, explain complex functionality, configure business processes, test functionality, document requirements, and assist with testing
+* Utilize proven interpersonal and change management skills to champion adoption of new processes and technologies
+* Strong business acumen to recommend optimal solutions to complex business problems by critically evaluating and distinguishing user requests from the underlying true business needs 
+* Passionate and constantly striving to create a seamless and delightful experience for our Team Members in our processes, tools, and systems. 
+* Bachelor's degree or equivalent experience preferred
+
+### Manager, People Technology
+
+The Manager, People Technology reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Manager, People Technology, People Technology is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Extends that of a Staff HRIS Analyst, People Technology
+* Management responsibilities include recruiting, interviewing, hiring, training, compensation management, and handling other team member milestone events
+* Develop team members through mentoring, coaching, and training actively sharing knowledge and guidance
+
+#### Requirements
+
+* Extends that of a Staff HRIS Analyst, People Technology
+* 1-2+ years of people management experience
+
+### Senior Manager, People Technology
+
+The Senior Manager, People Technology reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Senior Manager, People Technology is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Extends that of a Principal HRIS Analyst/Manager, People Technology
+* Management responsibilities include recruiting, interviewing, hiring, compensation management, and handling other team member milestone events
+* Develop team leaders/managers through mentoring, coaching, and training actively sharing knowledge and guidance
+* Develop a training strategy to help elevate team members and to provide cross functional knowledge to ensure team coverage
+
+#### Requirements
+
+* Extends that of a Principal HRIS Analyst, People Technology
+* 3+ years of people management experience
+
+### People Technology Performance Indicators
+
+* OSAT score: New team member feedback of the onboarding experience in a given month. The Onboarding Satisfaction target is > 4.5 
+* Security compliance: 100% completion rate of security audits
+* Bug to first action: Measurement of time that an issue is being reported and taken action on. SLA is 1 working day. 
+* New requests are triaged: Measurement of time that an issue is being reported and taken action on. SLA is within 7 working days. 
+
+### People Technology Career Ladder
+
+The next step in the job family is to move into HRIS Leadership.
+
+### People Technology Hiring Process
+
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 50 minute interview with our Director of People Tools & Technology
+* After that, candidates will be invited to schedule a 30 minute interview with members of the People Technology team
+* Next, candidates will be invited to a 30 minute interview with the Senior Director, Enterprise Applications
+* Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
+
+As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
+
+## People Analytics 
+
+### Senior Analyst, People Analytics
+
+The Senior Analyst, People Analytics reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Senior Analyst, People Analytics is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Design, develop, and continuously optimize reporting and dashboard solutions that meet business needs and requirements
+* Create opportunities for automation, improvements and scalability
+* Orchestrate expert level data visualizations and presentations that convey a meaningful story and actionable insights to business partners
+* Translate technical outputs into clear narratives with recommendations to help achieve business objectives
+* Make recommendations to improve existing process design for data-collection methodologies
+* Build effective relationships and collaborate with team members, business leaders and partners to solve organizational problems
+
+#### Requirements
+
+* 4+ years of experience in People or Recruiting Analytics function
+* Strong business acumen, analytical skills including written communication and presentation development.
+* Advanced SQL skills and experience modeling within large-scale relational databases
+* Experience developing reporting and dashboards with BI tools such as Tableau, Power BI, Looker, or similar tools
+* Strong data visualization & storytelling skills
+* Solid experience with regression analysis and other statistical modeling techniques
+* Experience with Workday and Greenhouse preferred
+
+### Manager, People Analytics
+
+The Manager, People Analytics reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Manager, People Analytics is a [grade 8](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Manage the overall People Analytics function delivering analytics and insights on programs that lead to informed decision making within the People Group
+* Lead a team providing coaching, mentoring, and supervision of team members 
+* Design, develop, and optimize reporting and dashboard solutions that meet business needs and requirements
+* For complex reporting requests with multiple data sources, work in partnership with the IT-Data Analytics team to facilitate requirements, partner on report/dashboard design, and execute on final solution
+* Create opportunities for automation, improvements and scalability
+* Orchestrate expert level data visualizations and presentations that convey a meaningful story and actionable insights to business partners
+* Translate technical outputs into clear narratives with recommendations to help achieve business objectives.
+* Make recommendations to improve existing process design for data-collection methodologies.
+* Build effective relationships and collaborate with team members, business leaders and cross functional partners to solve organizational problems.
+
+#### Requirements
+
+* 6+ years of experience in People or Recruiting Analytics function
+* 1-2+ years of people management experience
+* Python, R, SAS, Julia or equivalent statistical programming language
+* Understanding of scalable data transformation techniques using SQL or equivalent
+* Functional experience utilizing data visualization tools  (Sisense, Tableau, or similar tools)
+* Ability to partner, collaborate with, and influence relevant stakeholders across diverse functions and experience levels
+* Strong independent judgment, critical thinking and problem-solving skills required to anticipate and respond to emerging challenges.
+* Knowledge or experience in HR and talent management systems (Workday, Greenhouse), workforce analytics packages and reporting platforms a plus.
+* Ability to use GitLab
+* Experience managing projects
+
+### Senior Manager, People Analytics
+
+The Senior Manager, People Analytics reports into the Director, People Tools and Technology.
+
+#### Job Grade
+
+The Senior Manager, People Analytics is a [grade 9](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Extends that of a Manager, People Analytics
+* Drive the long-term roadmap for scalable analytics and insights with Director of People Tools and Technology
+* Management responsibilities include recruiting, interviewing, hiring, compensation management, and handling other team member milestone events
+* Develop team leaders/managers through mentoring, coaching, and training actively sharing knowledge and guidance
+* Develop a training strategy to help elevate team members and to provide cross functional knowledge to ensure team coverage
+
+#### Requirements
+
+* Extends that of a Manager, People Technology
+* Advanced Python, R, SAS, Julia or equivalent statistical programming language
+* 3+ years of people management experience
+
+### People Analytics Performance Indicators
+
 * Cost Per Hire
 * Hires vs Plan
-* Time to Offer Accept
+* Offer acceptance rate greater than 90%
+* Team member retention greater 84%
 
-## Performance Indicators
+### People Analytics Career Ladder
 
-Overall job family performance indicators are yet to be determined.
+The next step in the job family is People Analytics Leadership.
 
-## Career Ladder
+### People Analytics Hiring Process
 
-The next step in the People Systems and Analytics Job Family has not yet been defined.
-
-## Hiring Process
-
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
-
-* Selected candidates will be invited to schedule a 30min screening call with one of our Global Recruiters
-* Next, candidates will be invited to schedule a first interview with the Hiring Manager
-* Next, candidates will be invited to interview with 2-5 team members
-* There may be a final executive interview
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
+* Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a first interview with the Hiring Manager for 50 minutes
+* After that, candidates will be invited to schedule two 30 minute interviews with the Data Analytics Manager and another member of the Data Team
+* Next, candidates will be invited to schedule a 30 minute interview with our Vice President, Talent Acquisition
+* Finally, our Vice President, People Operations, Technology, and Analytics may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a [video call](/handbook/communication/#video-calls). See more details about our interview process [here](/handbook/hiring/interviewing/).
