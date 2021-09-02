@@ -77,13 +77,6 @@ If you have questions around an upcoming Group Conversation or would like to sta
 1. You can contribute taking notes to transcribe the answers during the conversation. Thanks!
 1. Make sure there are at least 5 empty items in the list (that just contain a space) for people to add new questions.
 
-### Tips for the Presenter to Solicit Questions
-Presenters can encourage participation by reminding the attendees that all team members are encouraged to participate in Group Conversations. Homework is not required! 
-1. Reviewing the slide deck and highlight video before the Group Conversation is *optional*, not required. 
-1. You can ask questions about topics that are not highlighted in the deck. 
-1. You can ask questions about topics that are in the deck even if you haven't reviewed the deck in detail. 
-1. Feel free to ask questions about general topics that you are curious about. 
-
 ## For Meeting Leaders
 
 ### Scheduling and Selecting an Alternate Host
@@ -248,7 +241,7 @@ Additional links which may be useful when preparing to moderate a call include:
 1. It's the responsibility of the team members of the group to ensure the content is distributed, this includes ensuring appropriate notes are taken in the [Group Conversation Agenda](https://docs.google.com/document/d/1zELoftrommhRdnEOAocE6jea6w7KngUDjTUQBlMCNAU/edit)
 1. This meeting is scheduled to be 25 minutes long. Please keep an eye on the clock and end the meeting on schedule. This meeting must end no later than 29 minutes after the hour.
 1. It is appropriate to end the call early if there are no more questions. We aim for results, not for spending the time allotted. Please avoid the temptation of presenting slides to fill time.
-1. Don't do a countdown when you're asking for questions, people will not ask one. Just end the call or even better say: we'll not end the call before getting at least one question.
+1. If there are no questions in the doc, remind the attendees that homework is not required to participate. For example, "Please feel free to ask questions about general topics that you curious about and topics that are not in the slides. Also, you are welcome to ask questions about topics in the slides even if you have not reviewed the slides before hand."
 1. If there are more questions or a need for longer conversation, mention on what chat channel the conversation can continue or link to a relevant issue.
 1. If an attendee experiences poor wifi or loses audio while speaking on a call sometimes they can't hear you if you tell them. In that case it's encouraged to talk over them, mute them, and pro-actively move the next agenda item. Nobody wants to have other people to waste their time waiting for them while they are not aware.
 
