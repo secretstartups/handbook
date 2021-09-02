@@ -21,7 +21,7 @@ get merged into GitLab.
 * Make it easy to contribute to GitLab even for people who are new to Ruby,
   JavaScript, Golang, etc. or programming entirely. For example, you can add any hints or possible fixes on issues that are open for community contribution.
 * Join and actively follow the internal #mr-coaching Slack channel and the external #contributors Gitter channel to assist contributors and fellow MR Coaches when they need help or to discuss best practices for collaboration.
-* Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle.html) stays relevant, up-to-date and keeps evolving.
+* Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle) stays relevant, up-to-date and keeps evolving.
 
 ### Specialties 
 
