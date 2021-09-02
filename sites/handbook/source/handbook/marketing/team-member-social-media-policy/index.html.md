@@ -225,7 +225,7 @@ Most social media websites/services have rules concerning the use of and activit
 
 If the company finds any statements or claims that are false or misleading, or we discover an activity that does not follow the policy, we will contact you to correct the situation. 
 
-If you are consistently disregarding the social media policy, especially if you fail to disclose your relationship to GitLab, make false or misleading statements about GitLab or our products and services, GitLab retains the right to discipline (up to termination of employment), or cut ties with anyone that does not comply with this policy.
+If you are consistently disregarding the social media policy, especially if you fail to disclose your relationship to GitLab, make false or misleading statements about GitLab or our products and services, GitLab retains the right to discipline, up to termination of employment with anyone that does not comply with this policy.
 
 ## Conflicts with local laws
 
