@@ -21,13 +21,13 @@ description: "This page is an overview of the search team alignment and the tale
 | Marketing, SDR Global | Amy Anderson  | Amy Anderson|
 | G&A, Finance, People, CEO | Maria Gore | Alina Moise |
 | G&A, Accounting, Legal | Rachelle Druffel | Alina Moise |
-| Development | Mark Deubel | Zsuzsanna Kovacs / Joanna Michniewicz  |
+| Development | Mark Deubel | Zsuzsanna Kovacs |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support | Joanna Michniewicz  |  Joanna Michniewicz  |
+| Support | Joanna Michniewicz  |  Joanna Michniewicz |
 | Security | Rupert Douglas  |  Zsuzsanna Kovacs |
 | Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Joanna Michniewicz |
+| Infrastructure   | Matt Allen  | Chris Cruz |
 | Product Management  | Matt Allen | Chris Cruz |
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
