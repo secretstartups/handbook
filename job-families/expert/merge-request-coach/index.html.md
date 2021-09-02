@@ -45,13 +45,13 @@ After a merge request from a wider community member has been submitted and you h
 
 Some MRs may not need triaging and as an MR coach you should feel empowered to approve an MR immediately before passing it to the appropriate maintainer(s) for merging if appropriate. Examples of these types of MRs include:
 
-* MRs where the content is tightly related to your own domain expertise.
+* MRs where the content is tightly related to your domain knowledge.
 * MRs that include only whitespace or stylistic changes.
 * MRs that resolve ignored Rubocop violations.
 
 ### Finishing merge requests
 
-Sometimes a contributor will either become unresponsive or state that they will not be able to finish a merge requests. If a Merge Request Coach deems the effort worthwile and has the expertise and the bandwidth to complete it, they will take over bringing the MR to the finish line instead of [closing it](#closing-merge-requests).
+Sometimes a contributor will either become unresponsive or state that they will not be able to finish a merge request. If a Merge Request Coach deems the effort worthwile and has the knowledge and the bandwidth to complete it, they will bring the MR to the finish line instead of [closing it](#closing-merge-requests).
 
 Steps:
 
