@@ -30,9 +30,7 @@ The working group ensures consistent alignment and development of all Merge Requ
 
 The working group is tasked with creating a joint codebase where consistency is at the core of each widget. It's enforced and achieved by the codebase and established APIs.
 
-
 ## Business goal
-
 
 Drive forward the [adoption goals through usability](https://gitlab.com/gitlab-com/Product/-/issues/2697) by facilitating improvements to merge requests that will positively impact the shared [FY22-Q3 KR between Product and UX](https://gitlab.com/gitlab-com/Product/-/issues/2872). By following the [UX Framework](https://gitlab.com/groups/gitlab-org/-/epics/5710), we ensure the level of maturity expected by customers dealing with merge requests. From now on, we will have clear and strict guidance to ensure sustainable and consistent growth for the MR Widget ecosystem.
 
@@ -40,20 +38,14 @@ The main target of the working group is not to implement everything themselves b
 
 ## Scope and definitions
 
-<dl>
-<dt>Merge Request Reports Region</dt>
-<dd>Area of the merge request with summaries of analysis done and proposed changes. This area resides in the **Overview** tab, between the description and comments or system notes.</dd>
+**Merge Request Reports Region**
+* Area of the merge request with summaries of analysis done and proposed changes. This area resides in the **Overview** tab, between the description and comments or system notes.</dd>
 
-<dt>Merge Request Widget Extensions</dt>
-<dd>Each piece of software that presents summarized information for analysis performed.</dd>
+**Merge Request Widget Extensions**
+* Each piece of software that presents summarized information for analysis performed.
 
-<dt>Merge Request Widget Extension Component (<a href="https://docs.gitlab.com/ee/development/new_fe_guide/modules/widget_extensions.html">docs</a>)</dt>
-<dd>Reusable component to allow each extension to customize the presentation of the information while still ensuring a consistent user and developer experience for all extensions attached to the merge request.</dd>
-
-<dt>...</dt>
-<dd>...</dd>
-
-</dl>
+**Merge Request Widget Extension Component (<a href="https://docs.gitlab.com/ee/development/new_fe_guide/modules/widget_extensions.html">docs</a>)**
+* Reusable component to allow each extension to customize the presentation of the information while still ensuring a consistent user and developer experience for all extensions attached to the merge request.
 
 ## Exit criteria
 
@@ -61,8 +53,6 @@ The main target of the working group is not to implement everything themselves b
 *  The shared component follows the [Report regions design guidelines](https://design.gitlab.com/regions/merge-request-reports) defined in the Pajamas Design System.
 * The documentation reflects the capabilities of the shared component.
 * Ensure there is clear documentation written for extending the component.
-* TBD…
-
 
 ## Roles and responsibilities
 
@@ -73,7 +63,6 @@ The functional leads will be responsible for:
 * Communicating the output from the working group (if any) and answering questions from their dept/sub-dept.
 
 Ideally, the functional lead is someone who is an IC working in the affected groups, but anyone capable of representing a group, department, or sub-department in the fashion mentioned above is welcome.
-
 
 | Working Group Role    | Person                | Stakeholder Dept. | Title                          |
 |-----------------------|-----------------------|-----------------------|--------------------------------|
