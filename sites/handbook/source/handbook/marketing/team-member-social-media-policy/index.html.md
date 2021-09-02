@@ -206,9 +206,13 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 
 In case you want to connect with fellow team members of GitLab on social media, you have to keep it professional. With this communication, we would like you to consider GitLab’s [Communication Guidelines](/handbook/communication/) at all times. Aligned with our [Anti-Harassment Policy](/handbook/anti-harassment/), it is expected that everyone will contribute to an inclusive and collaborative working environment and respect each other at all times.
 
-### Mimicking the brand or unauthorized social media accounts
+### Mimicking the GitLab brand
 
-Please keep your identity clear on your social media channels by not using the GitLab logo as your profile image, not adding GitLab to your @handle, and not adding the company to your display names. It should be clear to everyone that you are a team member of GitLab, but not GitLab the company. Use common sense when selecting pictures and names to use. We'll always work to get profile names and visuals updated to reflect who runs the account, but if we come across profiles that don't respond to these requests, we will report them for impersonating our brand. 
+Keep your identity clear on social media channels by not using the GitLab logo as your profile image, not adding GitLab to your @handle, and not adding the company name to your display names. 
+
+Upon first glance of your social media profile, there should be immense clarity that you are a team member of GitLab and not GitLab the company. Use common sense when selecting pictures and names to use. We'll always work to get profile names and visuals updated to reflect who runs the account. If the corporate marketing team comes across profiles that don't respond to these requests, we will report them for impersonating our brand. 
+
+### Unauthorized GitLab brand social media accounts
 
 As a Team Member of GitLab, you aren't authorized to create company/brand social media profiles to use for your work. If promoting content should come from the company, you'll need to [open a request issue with the organic social team](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/admin/#requesting-social-promotion-). If the corporate marketing team encounters unauthorized profiles, they will be treated as external threats and reported for impersonation. There is no formal method for requesting new brand channels, nor is there an outline for managing to do so. It's best to use personally identified social media profiles to share your posts.
 
