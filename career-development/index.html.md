@@ -114,7 +114,7 @@ _Note that `previous management experience` can be management experience in a pr
 
 For Director+ positions no interim is required.
 
-Exceptions can also be reviewed on a case-by-case basis depending on readiness for team members who have served in acting roles, and who have passed the interview process for a permanent role. 
+Exceptions can also be reviewed on a case-by-case basis depending on readiness for team members who have served in acting roles, and who have passed the interview process for a permanent role.
 
 ###### Ending Interim Period
 
@@ -504,9 +504,9 @@ Lateral transfers among backend teams are also an option. Those teams include Di
 
 ### Staff+ Promotions
 
-Staff+ promotions are not based solely on performance/merit but are also constrained by [opportunity](#opportunity-1),  
-[Staff+ IC Gearing Ratios](#staff-ic-gearing-ratios), and company need. As noted in 
-[promotions](/handbook/people-group/promotions-transfers/) promotion documents for Staff+ should include a section 
+Staff+ promotions are not based solely on performance/merit but are also constrained by [opportunity](#opportunity-1),
+[Staff+ IC Gearing Ratios](#staff-ic-gearing-ratios), and company need. As noted in
+[promotions](/handbook/people-group/promotions-transfers/) promotion documents for Staff+ should include a section
 that addresses how the role and individual address these requirements.
 
 ## Team members on loan to another team
@@ -520,7 +520,7 @@ A team member may be "on loan" to another team for various reasons. This is less
 Team members who were on loan to another team documented these best practices in a retrospective.
 
 ## Staff+ IC Gearing Ratios
- 
+
 Engineering includes groups of team members organized in different structures towards completing a mission. We’ll accommodate this diversity of structure by referring to these as "workgroups". A workgroup is a collection of team members with a shared mission and typically arranged according to a product group, team, or other problem-solving unit.
 
 We use [gearing ratios](/handbook/finance/financial-planning-and-analysis/#business-drivers-also-known-as-gearing-ratios) to govern the amount of Staff, Principal, Distinguished, and Fellow level positions (collectively referred to as "Staff+") in Engineering because the work needed to be done at these levels is proportional to the mission of their workgroup. This is similar to how Manager, Senior Manager, Director and VP level positions are proportional to the organization's size and our recommended [span-of-control limits (bullet #5)](/company/team/structure/#management-group).
@@ -529,9 +529,9 @@ It's obvious why a manager cannot manage too many people effectively, or why the
 
 By default, each workgroup is limited to 1 Staff+ Engineer.
 
-Some workgroups within engineering may directly align to staffing of Staff+ roles according to team organization. Each team has a single Staff Engineer, just as they have a single Manager; with the two working together to lead the team in their mission. 
+Some workgroups within engineering may directly align to staffing of Staff+ roles according to team organization. Each team has a single Staff Engineer, just as they have a single Manager; with the two working together to lead the team in their mission.
 
-Distinct from the general team workgroup noted above, some workgroups based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes). 
+Distinct from the general team workgroup noted above, some workgroups based on their mission, may require multiple Staff+ team members. The need for multiple Staff+ team members in a workgroup should be examined and explained through the [four archetypes](/handbook/engineering/ic-leadership/#the-four-archetypes).
 
 As teams grow in both scope and size it is important to determine whether they should expand the number of Staff+ roles, or if the growth is reason to split out to another workgroup.
 
@@ -553,7 +553,7 @@ The method for documenting and adopting an exception consists of:
 1. Identification of the intended new Staff+ ratio(s).
 1. Review and approval by the department VP.
 
-Since collective exceptions within a department will at some point impact overall funded headcount, exceptions require the approval of department heads. Exceptions to gearing ratios may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted). 
+Since collective exceptions within a department will at some point impact overall funded headcount, exceptions require the approval of department heads. Exceptions to gearing ratios may be approved without the specific funding of new headcount (agreement that more staff is needed, but not currently budgeted).
 
 All exceptions should be documented in a handbook page local to the workgroup or in an issue/epic, and linked to the table below. This process is established as of March 2021 and may not reflect all existing workgroup situations. At any point when additional exceptions are required, just start an MR to add them per the steps noted above.
 
@@ -570,12 +570,13 @@ All exceptions should be documented in a handbook page local to the workgroup or
 | Vulnerability Research | Development | 2 Staff+ : Team | [Issue](https://gitlab.com/gitlab-org/secure/general/-/issues/155) |
 | Create:Editor Team | Development | 2 Staff+ : Team | [Editor Team Page](/handbook/engineering/development/dev/create-editor/#team-ic-gearing) |
 | Sharding Team | Development | 4 Staff+ : Team | [Sharding Team Page](/handbook/engineering/development/enablement/sharding/#team-ic-gearing) |
+| Engineering Productivity Team | Quality | 2 Staff+ : Team | [Engineering Produtivity Team Page](/handbook/engineering/quality/engineering-productivity-team/#team-ic-gearing) |
 
 ### Opportunity
 It is not the intent of these gearing ratios to limit individual opportunity for advancement although it is acknowledged that at full staff capacity this situation could occur.
 In March 2021 a point-in-time review of all engineering teams found that of 64 potential Staff roles, more than 40 were currently unfilled (from a gearing limit perspective). This analysis is available in this sheet (internal only) [2021 March - Staff Current Roles](https://docs.google.com/spreadsheets/d/1LlhqyPXqfBsweGoeA98Xcw981rNwaTpIIQbWOxjTFAE/edit?usp=sharing).
 
-In addition to the current set of opportunities, our Engineering organization is continuing to grow and with each new team comes the potential for another Staff role. 
+In addition to the current set of opportunities, our Engineering organization is continuing to grow and with each new team comes the potential for another Staff role.
 
 Finally, in conjunction with the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing) effort, the Principal Engineer role has [been established](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/74187) to the Engineering Career Path. This new role offers further career advancement opportunities to existing Staff Engineers and in turn opens future opportunities for Senior Engineers.
 
@@ -585,7 +586,7 @@ A number of alternative approaches were considered as a solution for this gearin
 * Provides flexibility for workgroups which require a different approach
 * Doesn't require any title changes as part of a transition
 * Doesn't require any role changes as part of the transition
- 
+
 Details of various options as well as additional detail on differences can be found in a [comparison sheet](https://docs.google.com/spreadsheets/d/17yKkJf2VihllVnD_nveDqitdt7KUCL-spD-WR4cxVHo/edit#gid=0) (internal only), and in the [working group meeting notes](https://docs.google.com/document/d/1WJg306wfKhpdwAqMBDj7R_QuBUwGCmz11mvuxOXUHU8/edit#heading=h.g4xz6ruvxn73) (internal only)
 
 ### Drawbacks of this solution and mitigations
@@ -594,4 +595,3 @@ Details of various options as well as additional detail on differences can be fo
 
 ### IC Gearing References
 The approach to gearing ratios was established in early 2021 and much additional context can also be referenced from the [IC Gearing Working Group](https://about.gitlab.com/company/team/structure/working-groups/ic-gearing/).
-
