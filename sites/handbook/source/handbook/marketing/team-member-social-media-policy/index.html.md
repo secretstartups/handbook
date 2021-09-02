@@ -51,7 +51,7 @@ Please adhere to the [Community Code of Conduct](https://about.gitlab.com/commun
   <summary markdown='span'>
     Do disclose that you're a team member
   </summary>
-If you talk about work-related matters within your job responsibility area, you must disclose your affiliation with GitLab. If you have a vested interest in something you're posting on social, point it out. You can identify yourself as a team member in your profile bio, list GitLab as your employer, or mention that you're a team member in the post itself. Consider adding #LifeAtGitLab to the end of your social post to sum it up quickly and easily.
+If you talk about work-related matters within your job responsibility area, you must disclose your affiliation with GitLab. If you have a vested interest in something you're posting on social, point it out. You can identify yourself as a team member in your profile bio, list GitLab as your employer, or mention that you're a team member in the post itself. You can also add #LifeAtGitLab to the end of your social posts about GitLab-related topics. How you choose to disclose is up to you.
 </details>
 
 <details>
