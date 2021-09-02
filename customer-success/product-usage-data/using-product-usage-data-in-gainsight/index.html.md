@@ -68,22 +68,22 @@ Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/
 
 There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
-### Understanding The Basics of My Customer's Usage
 
-With data syncing to Gainsight, we can quickly and easily look up an account and see instances (note: this data is currently limited to self-managed customers only) where we are receiving their data. Use this to see all instances related to your account (Production and non-Production) and their activity. NOTE: this only works for instances that are tied to an active subscription. 
-
-* Who is sending us their usage ping data?
+| Topic | Description | Questions to address | References |
+| ------ | ------ | ------ | ------ |
+| Understanding The Basics of My Customer's Usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances (note: this data is currently limited to self-managed customers only) where we are receiving their data. Use this to see all instances related to your account (Production and non-Production) and their activity. NOTE: this only works for instances that are tied to an active subscription. 
+ | * Who is sending us their usage ping data?
 * Are they sending Production data?
 * Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage?
+ |  |
+| How Active Is My Customer? | While we can use License Usage (see above) to understand the activated seats vs. licensed seats, [Unique Monthly Active Users (UMAU)](/handbook/product/performance-indicators/#unique-monthly-active-users-umau) can help assess how many of those activated licenses are currently being used. For example, a customer may have 1,000 users "activated" but only 700 of them are logging in. That can highlight a risk.
+ | * How many licenses has my customer deployed? <br> * What trends can I see? | * C360: User Adoption Metrics <br> * Product Usage Data dashboard |
+| Understanding My Customer's GitLab Adoption   | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
+ | * Which use cases has my customer adopted? <br> * To what degree have they adopted which use case? <br> * Which features of each use case have they adopted? |  |
+| ------ | ------ | ------ | ------ |
 
+ 
 
-### How Active Is My Customer?
-
-While we can use License Usage (see above) to understand the activated seats vs. licensed seats, [Unique Monthly Active Users (UMAU)](/handbook/product/performance-indicators/#unique-monthly-active-users-umau) can help assess how many of those activated licenses are currently being used. For example, a customer may have 1,000 users "activated" but only 700 of them are logging in. That can highlight a risk.
-
-### Understanding My Customer's GitLab Adoption  
-
-As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
 
 Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
 
