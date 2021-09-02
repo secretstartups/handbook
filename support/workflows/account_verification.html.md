@@ -201,7 +201,7 @@ Wait for the customer to comment on the issue and approve the request to disable
 ##### 4. Disable 2FA
 {:.no_toc}
 
-Once the customer has approved the request, disable 2FA on the user's account, and then close both the support ticket and issue.
+Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
 
 ##### No Shared Slack Channel
 
@@ -220,7 +220,7 @@ Wait for the customer to comment on the issue and approve the request to disable
 ##### 3. Disable 2FA
 {:.no_toc}
 
-Once the customer has approved the request, disable 2FA on the user's account, and then close both the support ticket and issue.
+Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
 
 
 ## **Authentication For GLGL Reports**
