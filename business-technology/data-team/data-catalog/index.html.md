@@ -37,12 +37,17 @@ General Access Dashboards are available to all GitLab Team members and no Access
 
 ### Accessing a SAFE Dashboard
 
-Access to a SAFE Dashboard requires your immediate manager's approval, Departmental VP (or equivalent) approval, and approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index. To gain access to a specific SAFE Dashboard:
+All SAFE Dashboards are stored within the Sisense SAFE Dashboard space and access is granted at the Sisense space level. Access to a single SAFE Dashboard provides access to all SAFE Dashboards. Access to a SAFE Dashboard (and the space) requires:
+1. Your immediate manager's approval
+2. Departmental VP (or equivalent) approval
+3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index
 
-1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and specify the Dashboard Name(s) as listed in the [GitLab Dashboard Index.](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index)
+To gain access to SAFE Dashboards:
+
+1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and list up to three SAFE Dashboards from the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) you require access to. This list of SAFE Dashboards will help  approvers understand your needs and intent.
 2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the GitLab Dashboard Index header.
 3. Once the request is approved, tag @gitlab-data/analysts and the Data Team will process the request.
-4. After processing is complete you will be able to login to Sisense and access the SAFE dashboard within the SAFE Dashboard Space.
+4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
 
 ![Sisense Spaces](sisense_spaces_singular.png)
 
