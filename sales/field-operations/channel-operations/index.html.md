@@ -212,10 +212,10 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 - Non-contracted partners may transact on a one-off basis, only with explicit approval of regional channel directors, the director of channel programs, or the vice president of channels.
  
 ## Unauthorized Partners
-- A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the approval of a regional channel director, the director of channel programs, or the vice president of channels. 
+- A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.  
 - Unauthorized partners have not signed a GitLab Partner Agreement.
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
-- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted. Please reach out to the #channel-programs-ops Slack channel.
+- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #channel-programs-ops Slack channel.
 
  
 ## Channel Reporting and Tagging
