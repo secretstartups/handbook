@@ -72,7 +72,9 @@ In addition to the above criteria, we can automatically offer to import a projec
 
 A GitLab.com admin is required to correctly map users in GitLab, [per our documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html). Without an admin account, repository commits will have correct user attribution but issues and merge requests will not. We can import a project for a customer if they require this and there are *no other* issues with their import.
 
->**NOTE:** Using an admin account will not be required once [223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137) is implemented.
+Any request should include a comment on the relevant feature request [#223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137).
+
+>**NOTE:** All users' emails must be **public** for contributions to map.
 
 #### Other Cases
 
