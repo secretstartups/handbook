@@ -30,7 +30,7 @@ title: "CEO Scheduling & Preferences"
    1. Vetting, preparing content, briefing and supporting the CEO for external speaking enagements 
 
 ### How to request a meeting with CEO? 
-Reach out to Katie Gammon in #eba-team with the [required details](/handbook/eba/#meeting-request-requirements) to book a meeting with the CEO. Katie handles scheduling for the CEO with the exception of the [Board and Committee Meetings](/handbook/board-meetings/) which are managed by Cheri Holmes. 
+Reach out to Cheri Holmes in #eba-team with the [required details](/handbook/eba/#meeting-request-requirements) to book a meeting with the CEO. 
 
 All meetings on Sid's calendar should be scheduled and vetted by the EBA to the CEO. Please do not directly schedule a meeting onto Sid's calendar without confirming with the EBA to the CEO in advance. The CEO requires meetings to originate from his calendar and on his Zoom account. 
 
