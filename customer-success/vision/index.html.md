@@ -94,11 +94,7 @@ For a detailed description of Customer Health and Early Warning System methodolo
 
 ### Retention and Reasons for Churn
 
-We measure customer success through Net Retention.
-
-Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) net retention rate is above 130%.
-
-Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) gross retention rate is 90%.
+We measure customer success through Gross and Net Retention.
 
 #### Retention, Gross & Net (Dollar Weighted)
 
