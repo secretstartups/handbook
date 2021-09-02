@@ -16,6 +16,14 @@ description: "Overview of three critical pieces of GitLab's talent development p
 
 The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#key-people-leave). 
 
+Additional key benefits of the Assessment Program include:
+- Help facilitate career development conversations (and ensure they're occurring regularly)
+- Ensure transparency and ongoing feedback between team members and their managers
+- Discuss promotion readiness and plan promotions
+- Succession planning
+- Increase awareness of top talent across departments (during calibration sessions)
+
+
 ### Overview 
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Matrix (commonly known as "9-Box" in the US) and annually review Key Talent. 
@@ -38,6 +46,8 @@ This matrix is an individual assessment tool that evaluates both a team members 
 It is commonly used in succession planning as a method of evaluation an organization's talent pool, identifying potential leaders, and identifying any gaps or risks.
 It is regularly considered a catalyst for robust dialogue (through a calibration process) and is considered more accurate than one person's opinion.
 The performance/growth matrix can be a diagnostic tool for career development.
+
+The matrix serves as a tool to help managers assess, develop, and coach their team members - ultimately resulting in an ability to more effectively and efficiently lead teams.
 
 ## What is "Performance"?
 
@@ -182,7 +192,7 @@ Below under each pillar there are a few questions that managers should consider 
 
 ### Growth Output
 
-After assessing team member growth based on the four pillars outlined above, managers can determine whether team member growth is currently low, medium, or high. 
+After assessing team member growth based on the four pillars outlined above, managers can determine whether team member growth is currently developing, growing, or exceeding. 
 
 #### Developing
 
