@@ -88,6 +88,18 @@ Easier said than done, but consider our values when engaging online. The same sp
 If it's written in a blog, a case study, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain, posted in the #newswire Slack channel, or in the company social media advocacy tool can and should be shared freely. Some items in the #newswire Slack channel may say "shareable internal only", so please do not share those stories on social media.
 </details>
 
+#### Examples of what you should, and are encouraged, to share on social media
+- GitLab [blogs](https://about.gitlab.com/blog/) and [press releases](https://about.gitlab.com/press/releases/)
+- Positive news media that mentions GitLab and is shared in the #newswire Slack channel (team member adds no commentary/copy to the post) or is available to share in the social media advocacy tool (with commentary/copy to share)
+- Industry reports that are publicly available and are ungated
+- Videos from either our [brand](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) or [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube Channels
+- Third-party articles that don’t bash competitors (mentioning them or comparing GitLab and competitors is fine)
+- Retweeting or sharing GitLab brand social channel posts from [Twitter](https://twitter.com/gitlab), [LinkedIn](https://www.linkedin.com/company/gitlab-com/), [Facebook](https://www.facebook.com/gitlab/), or [Instagram](https://www.instagram.com/gitlab/)
+- All of the above from our eco and alliance partners
+- Items that are not connected to your job or GitLab at all! Social Media is best when you bring your true-self to the mix. DevOps isn't the only thing you're interested in, so consider posting about other passions and topics.
+
+[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/)
+
 ### It's your job to protect GitLab, our customers, and our team members 
 Whether you're an intern or our CEO, protecting the GitLab brand, the company, and our entire team is a part of your job description.
 
@@ -189,19 +201,6 @@ Never share anything to do with a legal issue, legal case, or attorneys without 
 </ul>
 
 </details>
-
-### Examples of what you should, and are encouraged, to share on social media
-- GitLab [blogs](https://about.gitlab.com/blog/) and [press releases](https://about.gitlab.com/press/releases/)
-- Positive news media that mentions GitLab and is shared in the #newswire Slack channel (team member adds no commentary/copy to the post) or is available to share in the social media advocacy tool (with commentary/copy to share)
-- Industry reports that are publicly available and are ungated
-- Videos from either our [brand](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg) or [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) YouTube Channels
-- Third-party articles that don’t bash competitors (mentioning them or comparing GitLab and competitors is fine)
-- Retweeting or sharing GitLab brand social channel posts from [Twitter](https://twitter.com/gitlab), [LinkedIn](https://www.linkedin.com/company/gitlab-com/), [Facebook](https://www.facebook.com/gitlab/), or [Instagram](https://www.instagram.com/gitlab/)
-- All of the above from our eco and alliance partners
-- Items that are not connected to your job or GitLab at all! Social Media is best when you bring your true-self to the mix. DevOps isn't the only thing you're interested in, so consider posting about other passions and topics.
-
-[Learn more about what is encouraged and how GitLab helps to enable you to become great at using social media on our team member advocacy page.](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/team-member-social-advocacy/)
-
 
 ### Connecting with Team Members on Social Media
 
