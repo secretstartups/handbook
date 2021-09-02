@@ -21,7 +21,7 @@ We are on a mission to **improve the efficiency of GitLab by designing and imple
 ## Who Are We?
 We are a global team of five, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/). To meet the team, check out our intro video below!
 
-**Barbara Roncato - Business Systems Analyst**  
+**Barbara Roncato - Senior Business Systems Analyst**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
 Slack handle: `@barbara`   
 Location and Timezone: Portugal, WEST/GMT+1  
@@ -39,7 +39,7 @@ Slack handle: `@kayokocooper` <br>
 Location and Timezone: USA, EDT/EST
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
-**Lis Vinueza - Business Systems Analyst**  
+**Lis Vinueza - Senior Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
 Location and Timezone: Ecuador, UTC-5/GMT-5
