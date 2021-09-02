@@ -99,7 +99,7 @@ The Senior People Business Partner is a [grade 7](/handbook/total-rewards/compen
 
 ### Job Grade
 
-The Associate People Business Partner is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director People Business Partner is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
