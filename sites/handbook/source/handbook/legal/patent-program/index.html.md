@@ -33,9 +33,9 @@ GitLab holds the following registered patents:
 ## Patent Awards
 
 As a recognition of the efforts of team members who develop inventions for GitLab, named inventors who contribute patentable inventions under the Patent Program may be eligible for Patent Awards totalling $1,750 U.S. dollars, as follows:
-- Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, paid at the time of acceptance.
-- Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, paid at the time of filing.
-- Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, paid at the time of patent issue.
+- Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, payable after acceptance.
+- Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, payable after filing.
+- Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, payable after patent issue.
 
 
 ## How to participate
