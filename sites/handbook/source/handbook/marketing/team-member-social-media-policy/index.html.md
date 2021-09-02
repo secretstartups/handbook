@@ -17,7 +17,7 @@ twitter_image_alt: GitLab Social Media Policy
 
 We recognize that many team members engage in social media activity. This policy establishes a set of rules and guidelines for any activity and participation on social media channels when commenting about GitLab or GitLab-related topics.
 
-These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by GitLab at any time, for any reason, without notice to team members. However, we will work to be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
+**These rules are intended to be adaptable to the changes in technology and norms of online communication and behavior and may be amended by GitLab at any time, for any reason, without notice to team members. However, we will work to be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.**
 
 This policy also applies to social media activity when on or off duty, while using the Company's or personal electronic resources, and whether the team member posts anonymously or using a pseudonym.
 
@@ -37,9 +37,6 @@ The term "social media" applies to any web-based technology in use now or in the
 
 ##### Exclusions for anonymous review sites 
 This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites.
-
-##### As business needs change and GitLab continues on our journey, this policy will be updated. We'll be as transparent as possible when communicating changes, what those changes are, and when they are expected to go into effect.
-{:.no_toc}
 
 ### All other GitLab codes of conduct and policies also apply to our social media policy
 {:.no_toc}
