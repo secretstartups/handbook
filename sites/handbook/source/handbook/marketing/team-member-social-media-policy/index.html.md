@@ -47,6 +47,9 @@ Please adhere to the [Community Code of Conduct](https://about.gitlab.com/commun
 {:.no_toc}
 
 ### What you should do
+
+_Click each recommendation below for more details_
+
 <details>
   <summary markdown='span'>
     Do disclose that you're a team member
@@ -105,6 +108,8 @@ If it's written in a blog, a case study, presented at a public conference, or si
 Whether you're an intern or our CEO, protecting the GitLab brand, the company, and our entire team is a part of your job description.
 
 ##### You can protect GitLab by not sharing the following data with the public on your social media profiles.
+
+_Click each recommendation below for more details_
 
 <details>
   <summary markdown='span'>
