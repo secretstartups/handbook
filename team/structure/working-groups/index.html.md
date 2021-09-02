@@ -129,6 +129,7 @@ If you are interested in participating in an active working group, it is general
 * [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 * [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
+* [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
 * [MLOps](/company/team/structure/working-groups/mlops/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
