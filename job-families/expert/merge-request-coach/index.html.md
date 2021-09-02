@@ -9,22 +9,19 @@ get merged into GitLab.
 
 ## Responsibilities
 
-* Triage merge requests labeled `~"Community contribution"`.
+* Triage merge requests labeled `~"Community contribution"` according to the [Wider Community Merge Request Triage policy].
 * Close merge requests that we don't want, with a clear explanation on the
   reasons why, so that people don't feel discouraged.
 * Help contributors to get their merge requests to meet the
   [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
-* Read the weekly `Merge requests requiring attention` email to follow-up on inactive MRs. Each coach should pick a few MRs to follow-up each week.
+* Act on the merge requests assigned to you on the daily [newly created community contribution merge requests triage report].
 * Help find and assign merge requests to available reviewers.
 * If the contributor is unresponsive or if they are unable to finish it, finish
   their merge requests. Also, see the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
-  1. Close the original merge request and say that you will finish it.
-  1. Check out the branch locally.
-  1. Make sure a changelog entry crediting the author exists.
-  1. Add your own commits to improve and finish the original work.
-  1. Push to a new branch and open a new merge request.
 * Make it easy to contribute to GitLab even for people who are new to Ruby,
   JavaScript, Golang, etc. or programming entirely. For example, you can add any hints or possible fixes on issues that are open for community contribution.
+* Join and actively follow the internal #mr-coaching Slack channel and the external #contributors Gitter channel to assist contributors and fellow MR Coaches when they need help or to discuss best practices for collaboration.
+* Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle) stays relevant, up-to-date and keeps evolving.
 
 ### Specialties 
 
@@ -51,6 +48,18 @@ Some MRs may not need triaging and as an MR coach you should feel empowered to a
 * MRs where the content is tightly related to your own domain expertise.
 * MRs that include only whitespace or stylistic changes.
 * MRs that resolve ignored Rubocop violations.
+
+### Finishing merge requests
+
+Sometimes a contributor will either become unresponsive or state that they will not be able to finish a merge requests. If a Merge Request Coach deems the effort worthwile and has the expertise and the bandwidth to complete it, they will take over bringing the MR to the finish line instead of [closing it](#closing-merge-requests).
+
+Steps:
+
+ 1. Close the original merge request and say that you will finish it.
+ 1. Check out the branch locally.
+ 1. Make sure a changelog entry crediting the author exists.
+ 1. Add your own commits to improve and finish the original work.
+ 1. Push to a new branch and open a new merge request.
 
 ### Closing merge requests
 
