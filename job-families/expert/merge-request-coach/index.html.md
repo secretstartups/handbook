@@ -14,7 +14,7 @@ get merged into GitLab.
   reasons why, so that people don't feel discouraged.
 * Help contributors to get their merge requests to meet the
   [contribution acceptance criteria](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#contribution-acceptance-criteria).
-* Act on the merge requests assigned to you on the daily [newly created community contribution merge requests triage report].
+* Act on the merge requests assigned to you on the daily [newly created community contribution merge requests triage report](/handbook/engineering/quality/triage-operations/#newly-created-community-contribution-merge-requests-requiring-first-triage).
 * Help find and assign merge requests to available reviewers.
 * If the contributor is unresponsive or if they are unable to finish it, finish
   their merge requests. Also, see the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
