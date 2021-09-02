@@ -89,6 +89,7 @@ If resignation is the only solution after you have discussed your concerns, plea
 ### Voluntary Process
 
 1. **Team Member**: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
+1. **Team Member** If you are employed via one of our [Professional Employer Organization/ Employer of Record and not a GitLab entity](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), please forward your resignation to the PEO for their process and record keeping. 
 1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
 1. **Team Member**: The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe:
     - Marc DiSabatino - AMER time zone
@@ -108,7 +109,7 @@ If resignation is the only solution after you have discussed your concerns, plea
 1. **PBP**: PBP will forward the resignation email to the People Experience team at `people-exp@gitlab.com`, the People Operations Specialist team email inbox `peopleops@gitlab.com`, as well as to the payroll lead. The PBP will indicate the last day, reason for resignation, and rehire eligibility in the email. 
 _Note: If the team member has a contract with a co-employer, the payroll lead will forward the email to the contact at the co-employer._
 1. **Experience**: The People Experience will save a pdf of the resignation email to the team member's BambooHR profile in their `Contracts & Changes` folder. 
-1. **Specialist**: The Specialist will add the offboarding to the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) in the `Specialist Offboardings` tab and add their name as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
+1. **Specialist**: The Specialist handling the exit interview / survey process will add their name to column `AC` in the offboarding [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=488708224) as a DRI, or ping the other Specialists to be certain that there is a fair balance and rotation of who is the DRI.
 
 1. **Experience**: The People Experience Team will determine who will create the offboarding issue according to the [offboarding guidelines](/handbook/people-group/offboarding/offboarding_guidelines/), and confirm this in the [People Exp/Ops Tracker](https://docs.google.com/spreadsheets/d/1Z45eOZ2rCRIKgGae3eOKQ8lhIbAPikSs5gLz3V8Kh9U/edit?ts=5e18b512#gid=0).
     
