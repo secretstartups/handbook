@@ -33,14 +33,16 @@ GitLab holds the following registered patents:
 ## Patent Awards
 
 As a recognition of the efforts of team members who develop inventions for GitLab, named inventors who contribute patentable inventions under the Patent Program may be eligible for Patent Awards totalling $1,750 U.S. dollars, as follows:
-- Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, paid at the time of acceptance.
-- Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, paid at the time of filing.
-- Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, paid at the time of patent issue.
+- Level One Patent Award: $250 for each named inventor on each patent application submission accepted for filing by GitLab, payable after acceptance.
+- Level Two Patent Award: $500 for each named inventor on each patent application filed by GitLab, payable after filing.
+- Level Three Patent Award: $1,000 for each named inventor on each patent issued to GitLab, payable after patent issue.
 
 
 ## How to participate
 
 To disclose an invention, complete an [Invention Disclosure Form](https://docs.google.com/document/d/1BndxggJyA3aMdYav-ghNwpTdNcfgJcrHFRlT6u8KFD8/copy) and email it to [patent-program@gitlab.com](mailto:patent-program@gitlab.com).
+
+The Invention Disclosure Form **must not be shared outside GitLab, even to former GitLab team members**. If the input of a former GitLab team member is required to complete the form, contact [patent-program@gitlab.com](mailto:patent-program@gitlab.com) to discuss before proceeding.
 
 You should submit an Invention Disclosure Form any time you think you may have made an invention. **The sooner you submit the Form, the better.** Since you may be overly conservative in determining what constitutes an invention, you should submit a Form even if you aren’t sure that your work is sufficiently novel to be an invention. So, err on the side of disclosing, leaving it to the Legal Team, and our external patent specialists, to decide whether to file, retain as a trade secret, or publish to preempt.
 
@@ -49,4 +51,7 @@ In order to maintain the confidentiality of your invention, do not discuss it on
 
 ## Conditions of participation
 
-Inventors must be current GitLab Team Members in order to participate in the GitLab Patent Program. GitLab may change or terminate the Program at any time. GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt. Participation in the GitLab Patent Program is subject to local employment and intellectual property laws.
+- Inventors must be current GitLab Team Members to participate in the GitLab Patent Program and be eligible for the receipt of Patent Awards.
+- GitLab may change or terminate the Program at any time.
+- GitLab reserves the right in its sole discretion to decide whether to file for a patent on submissions or retain submissions as a trade secret or publish to preempt.
+- Participation in the GitLab Patent Program is subject to local employment and intellectual property laws.
