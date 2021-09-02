@@ -9,7 +9,7 @@ get merged into GitLab.
 
 ## Responsibilities
 
-* Triage merge requests labeled `~"Community contribution"` according to the [Wider Community Merge Request Triage policy].
+* Triage merge requests labeled `~"Community contribution"` according to the [Wider Community Merge Request Triage policy](/handbook/engineering/quality/merge-request-triage).
 * Close merge requests that we don't want, with a clear explanation on the
   reasons why, so that people don't feel discouraged.
 * Help contributors to get their merge requests to meet the
