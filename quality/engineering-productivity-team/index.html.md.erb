@@ -27,9 +27,9 @@ The Engineering Productivity team increases productivity of GitLab team members 
 
 ### Mission
 
-[Reduce pipeline cost](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-cost-per-merge-request-pipeline-for-gitlab), [reduce pipeline duration](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#average-merge-request-pipeline-duration-for-gitlab), and [increase pipeline stability](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#gitlab-project-master-pipeline-success-rate) for GitLab projects focusing on projects with the largest reach, leveraging GitLab features where possible.
+[Reduce pipeline cost](/handbook/engineering/quality/performance-indicators/#gitlab-project-average-pipeline-cost-per-merge-request), [reduce pipeline duration](/handbook/engineering/quality/performance-indicators/#gitlab-project-average-successful-merge-request-pipeline-duration), and [increase pipeline stability](handbook/engineering/quality/performance-indicators/#gitlab-project-master-pipeline-success-rate) for GitLab projects focusing on projects with the largest reach, leveraging GitLab features where possible.
 
-Improve engineering workflow automation to [decrease mean time to merge](https://about.gitlab.com/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm), [decrease ~"bug" open past SLO](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#s1s2-open-bugs-past-target-slo), and [time to triage for new issues](https://about.gitlab.com/handbook/engineering/quality/performance-indicators/#new-issue-first-triage-slo).
+Improve engineering workflow automation to [decrease mean time to merge](/handbook/engineering/development/performance-indicators/#open-to-merge), and [decrease open ~"bug" age](/handbook/engineering/quality/performance-indicators/#s1-oba).
 
 Enable frequent and positive experience of Community Contributions from the Wider GitLab Community.
 
@@ -43,33 +43,32 @@ The Engineering Productivity team focuses on the following workstreams and the a
 | ~"ep::review-apps" | [Improve Review Apps Reliability](https://gitlab.com/groups/gitlab-org/-/epics/605)<br />[Improve Review Apps setup and usefulness](https://gitlab.com/groups/gitlab-org/-/epics/606) |
 | ~"ep::triage" | [Quality: Triage](https://gitlab.com/groups/gitlab-org/-/epics/1461) |
 | ~"ep::metrics" | [Centralized handbook first metrics dashboard](https://gitlab.com/groups/gitlab-org/-/epics/3580) |
-| ~"ep::workflow" | [Reviewer Roulette Improvements](https://gitlab.com/groups/gitlab-org/-/epics/3287)<br /> |
+| ~"ep::workflow" | [Reviewer Roulette Improvements](https://gitlab.com/groups/gitlab-org/-/epics/3287) |
 
 
 ## Areas of Responsibility
 
-* **See it and find it**: Build automated measurements and dashboards to gain insights into the productivity of the Engineering organization to identify opportunities for improvement
-  * Implement new measurements to provide visibility into improvement opportunities
-  * Collaborate with other Engineering teams to provide visualizations for measurement objectives
-  * Improve existing performance indicators
+* **See it and find it**: Build automated measurements and dashboards to gain insights into the productivity of the Engineering organization to identify opportunities for improvement.
+  * Implement new measurements to provide visibility into improvement opportunities.
+  * Collaborate with other Engineering teams to provide visualizations for measurement objectives.
+  * Improve existing performance indicators.
 * **Do it for internal team**: Increase contributor and developer productivity by making measurement-driven improvements to the development tools / workflow / processes, then monitor the results, and iterate.
-  * Identify and implement quantifiable improvement opportunities with proposals and hypothesis for metric improvements
-  * Automated [merge request quality checks](https://docs.gitlab.com/ee/development/dangerbot.html) and [code quality checks](https://docs.gitlab.com/ee/development/contributing/style_guides.html)
-  * [GitLab project pipeline](https://docs.gitlab.com/ee/development/pipelines.html) improvements to improve efficiency, quality or duration
-* **Dogfood use**: Dogfood GitLab product features to improve developer workflow and provide feedback to product teams
+  * Identify and implement quantifiable improvement opportunities with proposals and hypothesis for metric improvements.
+  * Automated [merge request quality checks](https://docs.gitlab.com/ee/development/dangerbot.html) and [code quality checks](https://docs.gitlab.com/ee/development/contributing/style_guides.html).
+  * [GitLab project pipeline](https://docs.gitlab.com/ee/development/pipelines.html) improvements to improve efficiency, quality or duration.
+* **Dogfood use**: Dogfood GitLab product features to improve developer workflow and provide feedback to product teams.
   * Use new features from related product groups (Analytics, Monitor, Testing).
   * Improve usage of [Review Apps] for GitLab development and testing.
-* **Engineering support**: Participate in activities related to Engineering throughput and [Quality KPIs](/handbook/engineering/quality/performance-indicators/)
-  * [#master-broken](/handbook/engineering/workflow/#broken-master) pipeline monitoring
-  * KPI corrective actions such as review app stabilization
-  * Quality department pipeline on-call
-  * [Merge Request Coach](https://about.gitlab.com/job-families/expert/merge-request-coach/) for ~"Community contribution" merge requests
-* **Engineering workflow**: Develop automated processes for improving label classification hygiene in support of product and engineering workflows.
-  * Automated issues and merge requests triage.
+* **Engineering support**: Participate in activities related to [Engineering MR Rate](/handbook/engineering/performance-indicators/#engineering-mr-rate) and [Quality KPIs](/handbook/engineering/quality/performance-indicators/).
+  * [`#master-broken`](/handbook/engineering/workflow/#broken-master) pipeline monitoring.
+  * KPI corrective actions such as [Review Apps stabilization](/handbook/engineering/quality/performance-indicators/#review-app-deployment-success-rate-for-gitlab).
+  * [Merge Request Coach](/job-families/expert/merge-request-coach/) for ~"Community contribution" merge requests.
+* **Engineering workflow**: Develop automated processes for improving label classification hygiene in support of product and Engineering workflows.
+  * [Automated issues and merge requests triage](/handbook/engineering/quality/triage-operations/).
   * Improvements to the labelling classification and automation used to support Engineering measurements.
   * See the [GitLab Triage], [GitLab triage operations], and [GitLab triage serverless] projects for examples.
-* **Do it for wider community**: Increase efficiency for wider GitLab Community contributions
-* **Dogfood build**: Enhance and add new features to the GitLab product to improve engineer productivity
+* **Do it for wider community**: Increase efficiency for wider GitLab Community contributions.
+* **Dogfood build**: Enhance and add new features to the GitLab product to improve engineer productivity.
 
 ## Team Members
 
@@ -81,12 +80,14 @@ The Engineering Productivity team uses [modified prioritization and planning gui
 
 ## Projects
 
-1. [GitLab] CI Pipeline configuration optimization and stability.
+1. [GitLab] CI [Pipeline configuration optimization and stability](https://docs.gitlab.com/ee/development/pipelines.html).
 1. [GitLab] [Review apps] provisioning.
-1. [GitLab Insights] (native) and [Development department metrics](/handbook/engineering/development/performance-indicators/groups) for measurements of Quality and Productivity.
 1. [GitLab triage operations] for issues, merge requests, community contributions.
 1. [GitLab triage reactive (aka serverless) operations] for issues, and merge requests.
-1. [GitLab Triage] engine maintenance.
+1. [GitLab Triage] engine, used by [GitLab triage operations].
+1. [GitLab Insights] (deprecated) and [Development department metrics](/handbook/engineering/development/performance-indicators/groups) for measurements of Quality and Productivity.
+1. [GitLab Dangerfiles] for shared [Danger](https://docs.gitlab.com/ee/development/dangerbot.html#danger-bot) rules and plugins.
+1. [GitLab Styles] for shared [RuboCop cops](https://docs.gitlab.com/ee/development/contributing/style_guides.html#ruby-rails-rspec).
 1. [GitLab Docs] (to be moved to a dedicated team in UX)
 
 ## Engineering productivity team metrics
@@ -161,3 +162,5 @@ This is a list of Engineering Productivity experiments where we identify an oppo
 [Review apps]: https://docs.gitlab.com/ee/development/testing_guide/review_apps.html
 [GitLab triage serverless]: https://gitlab.com/gitlab-org/quality/triage-serverless
 [GitLab docs]: https://gitlab.com/gitlab-org/gitlab-docs
+[GitLab Dangerfiles]: https://gitlab.com/gitlab-org/gitlab-dangerfiles
+[GitLab Styles]: https://gitlab.com/gitlab-org/gitlab-styles
