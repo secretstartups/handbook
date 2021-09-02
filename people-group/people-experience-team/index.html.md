@@ -265,7 +265,15 @@ During the last week of the month, the PEA in the assigned rotation will create 
 1. Next you'll want to navigate to the Topics Queue tab and select Shuffle to mix up the questions from all the different packs. 
 1. You're going to create 4 (or 5, depending on how many weeks the month has) custom questions by clicking `Add a Topic` near the top of the page. All 4 of these are going to be the same question of `Do you have any questions regarding GitLab onboarding?` and feel free to add a fun gif to the prompt as well. 
 1. You'll want to make sure that your 4 custom prompts are the questions for the Thursdays within the first month. After the first month, every prompt will be a purely social one. You can organize the prompts by dragging and dropping the questions to be in the order you'd like them to be. Remember to hit `Save` at the top of the page once done.
-1. The very last step you'll need to do is locate the `Access` tab and make sure to add the entire People Experience team to the list of people who can modify the donut settings. Hit `Save`. 
+1. The last step for the Donut set up you'll need to do is locate the `Access` tab and make sure to add the entire People Experience team to the list of people who can modify the donut settings. Hit `Save`. 
+1. Next, we'll want to set up a Slack Workflow so that anyone who is added to the slack channel will get [this message](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/onboarding-cohorts-intro-slack-message.md). 
+   - Open Slack
+   - Select GitLab -> Tools -> Workflow Builder
+   - Make sure you're on the `Templates` tab and select `Set up` on: A warm welcome for new teammates
+   - Input the monthly onboarding cohort slack channel
+   - Select `Edit` on the message text box and copy/paste the [intro message](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/blob/master/.gitlab/email_templates/onboarding-cohorts-intro-slack-message.md) making sure to format it correctly to be visually pleasing. 
+   - Rename the bot from `Welcome Bot` to `(Month) Onboarding Cohort Welcome Bot`
+   - Hit Publish
 
 ### Anniversary Period Gift Process
 
