@@ -59,7 +59,7 @@ Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/
 | Report Name | Description | Application |
 | ------ | ------ | ------ |
 | **Summary** | Shows Company-wide License Utilization and Total Licenses Sold | Use this to quickly identify the depth of adoption, if the account is Reporting  |
-| **Adoption Metric %s** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
+| **User Adoption Metrics** | Contextually-based metrics to graph the adoption percentage of the account (e.g., users who ran a pipeline divided by monthly active users). | Metrics to help the account team understand monthly use case and license usage to assess for expansion or enablement decisions. Toggle through the different reports to see different graphs. |
 | **Product Usage Trends** | Month-over-Month trend analyses for use cases such as SCM, CI, DevSecOps, and License Utilization | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
 | **Instance and Namespace Details** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self-managed-instance-type) |
 
@@ -69,18 +69,15 @@ Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/
 There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
 
-| Topic | Description | Questions to address | References |
-| ------ | ------ | ------ | ------ |
-| Understanding The Basics of My Customer's Usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances (note: this data is currently limited to self-managed customers only) where we are receiving their data. Use this to see all instances related to your account (Production and non-Production) and their activity. NOTE: this only works for instances that are tied to an active subscription. 
- | * Who is sending us their usage ping data?
-* Are they sending Production data?
-* Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage?
- |  |
-| How Active Is My Customer? | While we can use License Usage (see above) to understand the activated seats vs. licensed seats, [Unique Monthly Active Users (UMAU)](/handbook/product/performance-indicators/#unique-monthly-active-users-umau) can help assess how many of those activated licenses are currently being used. For example, a customer may have 1,000 users "activated" but only 700 of them are logging in. That can highlight a risk.
- | * How many licenses has my customer deployed? <br> * What trends can I see? | * C360: User Adoption Metrics <br> * Product Usage Data dashboard |
-| Understanding My Customer's GitLab Adoption   | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. 
- | * Which use cases has my customer adopted? <br> * To what degree have they adopted which use case? <br> * Which features of each use case have they adopted? |  |
-| ------ | ------ | ------ | ------ |
+
+| Topic                                           | Description                                                  | Questions to Address                                         | References                                                   |
+| ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Understanding The Basics of My Customer's Usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data. Use this to see all instances and namespaces related to your account (Production and non**-**Production) and their activity. NOTE**:** this only works for instances that are tied to an active subscription. | * Who is sending us their usage ping data?<br />* Are they sending Production data?<br />* Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage? | C360: Instance and Namespace Details                         |
+| What version(s) are my customers on?            | To better support my customer, I need to know what GitLab version they're on so I can help them upgrade or patch (i.e., security risk) their self-managed instance | * Which version is my customer on? <br> * If they have multiple instances, how do I know which instance is on which version? | C360: Instance and Namespace Details                         |
+| How Active Is My Customer?                      | License Utilization (see above) to understand how many licenses have been deployed `billable_user_count/licensed seats`. For example, a customer may have purchased 200 licenses and have only deployed 80 after 9 months of being a customer. | \* How many licenses has my customer deployed? <br> \* What trends can I see? | * C360: User Adoption Metrics <br> \* Product Usage Data dashboard |
+| Understanding My Customer's GitLab Adoption     | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. | \* Which use cases has my customer adopted? <br/> \* To what degree have they adopted which use case? <br/> \* Which features of each use case have they adopted? | * C360: Scorecard <br> * Product Usage Data dashboard        |
+|                                                 |                                                              |                                                              |                                                              |
+
 
  
 
