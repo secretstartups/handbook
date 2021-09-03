@@ -292,7 +292,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | 
 |	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Ginny Reib |
-|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rich Hancock |
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Clayton Houston	| Rich Hancock |
 |	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	| Rachel Hill |
 |	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|  Kristine Setschin |
 |	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Sarina Kraft |
@@ -314,7 +314,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
 |	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Blake Chalfant-Kero
-|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	TBH - James Komara
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	Stacy Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Jake Grothjan
 |	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Carrie Nicholson
 
