@@ -422,7 +422,7 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 * Final Smart List is available 2 days prior to email deployment - MOps
 
 #### List Exports
-If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
+If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](handbook/engineering/security/security-assurance/field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
 
 
 ## Mailchimp sends
