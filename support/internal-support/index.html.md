@@ -172,6 +172,23 @@ Please see the dedicated [Support Escalations](/handbook/support/internal-suppor
 
 ---
 
+### Contacting customers via tickets
+
+At times, you may need to reach out to one or more users about
+GitLab SaaS. Some examples might be:
+
+* An urgent Security related issue
+* Important project/group affecting changes
+* Account problems
+* Questionable user behavior
+
+| Request | What to do |
+|---------|------------|
+| I need to reach out to a single user | Use the information at [Contacting a User](../workflows/cmoc_workflows.html#contacting-a-user). This will guide you on how to make the request. |
+| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
+
+**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
+
 ### Other
 
 #### Trials and Prospect Support
