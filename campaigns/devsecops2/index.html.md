@@ -185,12 +185,19 @@ The developer cares about security but does not want to become a security expert
 ## Buyer Journeys, Content & Emails
 {: .alert #content-emails .alert-gitlab-orange}
 
-### Prescriptive Buyer Journeys
+### Prescriptive Buyer Journeys/ PathFactory track
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**See [spreadsheet>>](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)**
+**[Overview of Prescriptive Buyer's journey>>](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)**
 
+#### PathFactory track
+
+**[Awareness pathfactory track>>](https://gitlab.lookbookhq.com/authoring/content-library/recommend/77514)**
+
+**[Consideration pathfactory track>>](https://gitlab.lookbookhq.com/authoring/content-library/recommend/78131)**
+
+**[Purchase pathfactory track>>](https://gitlab.lookbookhq.com/authoring/content-library/recommend/78215)**
 
 ### Marketo Nurture Emails
 {: #nurture-emails .gitlab-purple}
@@ -199,10 +206,32 @@ The developer cares about security but does not want to become a security expert
 **[See Marketo Nurture Email Copies >>](https://docs.google.com/document/d/1Jl1YeoZn8ywGXsPNX6ImMstR_0sP6OGEzcVeV8iE014/edit#heading=h.mjjsf5ikgyrg)**
 
 
-### Outreach sequence
+### SDR Follow up process
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-**[See Outreach sequence>>](https://app1a.outreach.io/sequences/8901)**
+#### 🔔 About the inbound leads
+
+* **What did they do?** They downloaded a relevant DevSecOps asset, registered/attended a DevSecOps webcast/workshop/demo or viewed DevSecOps assets in the campaign's PathFactory track.
+* **Are they MQLs?** If they did one of the actions above and consume additional assets in PF, they will reach the 90 point threshold and MQL.
+* **What if they don't hit the threshold?** They will receive additional related assets via an email nurture campaign in Marketo. As they engage more, their score increases toward the 90 point threshold.
+
+#### Accessing leads in SFDC
+
+In an effort to keep you focused on the prioritized lead and contact views, an **Interesting Moment** is triggered from Marketo.
+
+**Interesting Moment to look for: those that contains `DevSecOps`phrase**
+
+Please prioritize lead AND contacts views per normal SLAs:
+*  [My MQL](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oXl9)
+*  [My Inquiries](https://gitlab.my.salesforce.com/00Q?fcf=00B4M000004oXlO)
+
+*If they are in salesadmin / raw status / legacy AE owned, managers will monitor these leads for re-routing.*
+
+#### Outreach sequence
+
+Please put leads tagged with relevant last interesting moments into the below master sequence:
+
+**[Master Outreach sequence>>](https://app1a.outreach.io/sequences/8901)**
 
 ## Behind the Scenes
 {: .alert #research-prep .alert-gitlab-orange}
