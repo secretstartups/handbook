@@ -189,20 +189,20 @@ The developer cares about security but does not want to become a security expert
 {: #buyer-journey .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-See [spreadsheet](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)
+**See [spreadsheet>>](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=852304802)**
 
 
 ### Marketo Nurture Emails
 {: #nurture-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See Marketo Nurture Email Copies >>](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/2478#ship-final-copies)**
+**[See Marketo Nurture Email Copies >>](https://docs.google.com/document/d/1Jl1YeoZn8ywGXsPNX6ImMstR_0sP6OGEzcVeV8iE014/edit#heading=h.mjjsf5ikgyrg)**
 
 
-### Outreach Emails
+### Outreach sequence
 {: #outreach-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
+**[See Outreach sequence>>](https://app1a.outreach.io/sequences/8901)**
 
 ## Behind the Scenes
 {: .alert #research-prep .alert-gitlab-orange}
@@ -212,5 +212,4 @@ See [spreadsheet](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGW
 <!-- DO NOT CHANGE THIS ANCHOR -->
 * [Campaign Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2201)
 * [Project timeline plan](https://docs.google.com/spreadsheets/d/17jpqNUlldGaQ7EMEUEPGGWH-7JqIpuTDDBaOsNECNpE/edit#gid=1019466600)
-* [Copy Doc]()
-* [Art Work]()
+* [Art Work](https://www.canva.com/folder/FAEnjuqKtuQ)
