@@ -99,9 +99,43 @@ The Staff Security Engineer role extends the [Senior Security Engineer](#senior-
 
 The Staff Security Engineer is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
+### Principal Security Engineer
+
+The Principal Security Engineer role extends the [Staff Security Engineer](#staff-security-engineer) role.
+
+* Collaborate and makes proposals across several teams on cross-functional security initiatives
+* Help team members make informed decisions in support of and alignment with the sub-department strategy
+* Expose technology and organizational needs throughout their department
+* Teach, guide and mentor new and existing team members
+* Play a central role in technical, business, and organizational contributions affecting the sub-department/department
+* Assist in developing team and sub-department roadmap
+* Solve technical problems of the highest scope, complexity, and ambiguity for their sub-department.
+* Interface with organizational stakeholders and enable Staff Engineers to engage on department-level aspects of larger (sub-department wide) initiatives.
+* Looks for innovation opportunities between several teams with a willingness to experiment and to boldly confront problems of large complexity and scope.
+* Guide conversations to remove blockers and encourage collaboration across teams.
+* Provide a point of escalation for sub-department teams facing complex technical challenges.
+* Exposes the work of the sub department and their business impact internally.
+
+### Job Grade
+
+The Principal Security Engineer is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
 ### Distinguished Security Engineer
 
-TBD
+The Distinguished Security Engineer role extends the [Principal Security Engineer](#principal-security-engineer) role.
+
+* Considered the leading domain expert for the sub-department
+* Act as DRI and point of escalation for teams facing extremely complex technical challenges
+* Responsible for attaining a measurable impact of leading initiatives within sub-department
+* Identify challenges and technical interdependencies and suggest solutions to address them
+* Use quantitative analysis to impact key business decisions
+* Evangelize and drive department needs across organiational stakeholders to achieve success
+* Lead conversations to encourage collaboration across teams
+* Assist in the growth and development of team members within sub-department
+* Play central role in decision making for technical, business, and organizational issues
+* Build technology and organizational bridges to key organizational partners
+* Ownership of significant sub-department objectives, goals and OKR's
+* Contributor to sub-department roadmap and strategic direction
 
 ### Job Grade
 

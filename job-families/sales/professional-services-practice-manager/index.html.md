@@ -3,11 +3,13 @@ layout: job_family_page
 title: "Professional Services Practice Manager"
 ---
 
-## Job Grade 
+## Professional Services Practice Manager
+
+#### Job Grade 
 
 The Professional Services Practice Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-## Responsibilities
+#### Responsibilities
 
 * Define, scope, and prioritize GitLab’s services and training offerings, including persona and market segmentation analysis, offering definition, scope, and pricing
 * Collaborate with subject matter experts in the field, Product Management & Marketing, and instructional designers (as appropriate) to develop and deliver prioritized global services and training offerings, content, and sales & marketing collateral
@@ -18,7 +20,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 * Identify and act on opportunities to improve the customer experience via innovative services/training offerings
 * Build business case for additional services and training and enablement resources as needed
 
-## Requirements
+#### Requirements
 
 * Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
 * 3+ years relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
@@ -34,16 +36,16 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 * [Leadership at GitLab](/company/team/structure/#director-group)
 * Ability to use GitLab
 
-## Performance Indicators
+#### Performance Indicators
 
 * [Bookings attached rate per agreed plan](/handbook/sales/#pcv)
 * [Services bookings and revenue per agreed plan](/handbook/sales/#pcv)
 
-## Specialties
+### Specialties
 
 ### Professional Services & Consulting
 
-## Responsibilities
+#### Responsibilities
 
 - Serve in a player/coach role balancing field delivery with operations and strategy
 - Establish strategic plans and operational practices (e.g., people, skill sets, engagement approaches, processes and policies, enablement and coaching) for existing and new services
@@ -57,7 +59,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 
 ### Training & Certification
 
-## Responsibilities
+#### Responsibilities
 
 * Develop, implement and monitor training programs.
 * Evaluate needs of the company and align training with the organization’s strategic plans.
@@ -73,7 +75,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 * Supervise, coach and mentor staff.
 * Collaborate with other departmental heads to define training needs and skills gaps.
 
-## Requirements
+#### Requirements
 
 * Bachelor’s degree in business, management, education or related field.
 * 5+ years managing, specifically creating, training programs.
@@ -91,11 +93,75 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 * [Leadership at GitLab](/company/team/structure/#director-group)
 * Ability to use GitLab
 
-## Career Ladder
+### Levels
+
+## Manager, Professional Services Practice Management 
+
+The Manager, Professional Services Practice Management reports into the Senior Director, Professional Services.
+
+#### Job Grade 
+
+The Manager, Professional Services Practice Management is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities
+
+* Work as part of the Professional Service Leadership team to build a portfolio of service offerings, including development of new service offerings and performance of existing offerings as measured by bookings, revenue, delivery reliability, and customer satisfaction
+* Provide guidance to the development of thought leadership, event-specific, and customer-facing offering and presentations
+* Share hands-on technical preparation and presentation work for key accounts helping sell on the value of what GitLab professional services has to offer
+* Ensure development of complete offers to ensure the services teams (i.e., partner and GitLab) can successfully deliver the offering, including systems, tools, processes, and sales enablement content.
+* Establish strategic plans along with other business leaders and maintain strong relationships with solutions delivery, the sales team, client and account managers and other business leaders in support of cross-product businesses
+* Develop processes that Professional Services team can continually leverage and grow to become trusted advisors to customers
+* Identify and implement improvements to the processes and tools used by project teams and partners in support of external customers
+* Work together with our sales organization to propose, scope, and price professional services offerings, including leading the GTM (Engagement Manager team)
+* Build and scale global service methodology (i.e., people, process, systems and tools) to deliver a best-in-class customer experience while building an effective and efficient delivery processes
+* Provide leadership and guidance to coach, motivate and lead services team members to their optimum performance levels and career development
+* Ensure delivery model is focused on quality, cost effective delivery of services, and customer success outcomes
+* Remains knowledgeable and up-to-date on GitLab releases
+* Documents services provided to customers, including new code, techniques, and processes, in such a way as to make such services more efficient in the future and to add to the GitLab community
+* Works with the Product Engineering and Support teams, to contribute documentation for GitLab
+
+#### Requirements
+
+All requirements for the Professional Services Practice Manager role apply to the Manager, Professional Services Practice Management role, as the management role will need to understand and participate with the day-to-day aspects of the Professional Services organization in addition to managing the team. 
+
+Additional requirements include:
+* 3+ years of experience managing, leading and/or delivering professional services or customer success
+* Proven ability to develop strategies, translate them into initiatives and track successful delivery results including growth and profitability on services offers and customer satisfaction
+* Able to adapt to environmental change and retrospecting on success and failures
+* Possesses a strong management presence and leadership ability, with communication and interpersonal skills that inspire and motivate leaders and team
+* Experienced in collaborating with other managers and executing strategies
+* Proven track record in software/technology sales or consulting and management
+
+## Senior Manager, Professional Services
+
+The Senior Manager, Professional Services reports into the Senior Director, Professional Services.
+
+#### Job Grade 
+
+The Senior Manager, Professional Services is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Responsibilities 
+
+* Extends that of the Manager, Professional Services responsibilities
+* Define and deliver strategies and plans that enhance and integrate Professional Services into GitLab's Go-To-Market strategies and plans, including direct and channel services
+* Build market-specific strategies and plans based on industry best practices to improve efficiency and growth
+* Manage and nurture executive relationships with customers, including management of executive-level escalations
+* Be accountable for services financial goals and metrics, including revenue, gross margin and utilization.
+* Own operational metrics, such as time-to-value, customer satisfaction and on-time completion of projects.
+
+#### Requirements
+
+* Extends that of the Manager, Professional Services requirements
+* 5+ years of experience managing, leading and/or delivering professional services or customer success
+* 3+ years experience with a subscription-based business model, delivering on-premises and SaaS solutions
+* Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners
+
+
+### Career Ladder
 
 The next steps for the Professional Services Practice Manager Job Family would be to move to the [Director, Professional Services](/job-families/sales/director-of-professional-services/) Job family.
 
-## Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 

@@ -169,7 +169,7 @@ Managers in the Social Marketing team are prolific and creative social media str
 {:.no_toc}
 The Manager, Social Marketing is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
-#### Responsibilites
+#### Responsibilities
 {:.no_toc}
 - Define, implement, and regularly iterate on GitLab's social media marketing strategy
 - Oversee all social marketing initiatives
@@ -199,7 +199,7 @@ Senior Managers in the Social Marketing team take their role as a people manager
 {:.no_toc}
 The Senior Manager, Social Marketing is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades) role.
 
-#### Responsibilites
+#### Responsibilities
 {:.no_toc}
 - Integrate personal social media management philosophy, GitLab's brand voice, and GitLab's values into our social media strategy and content
 - Lead on campaigns, positioning, and messaging as the expert on the GitLab brand

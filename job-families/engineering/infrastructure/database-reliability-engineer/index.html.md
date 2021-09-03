@@ -82,7 +82,7 @@ The Database Reliability Engineer is a [grade 6](/handbook/total-rewards/compens
 * Improves documentation all around, either in application documentation, or in runbooks, explaining the why, not stopping with the what.
 * Improves the performance of the system by either making better use of resources, distributing load or reducing the latency.
 * Shares the learnings publicly, either by creating issues that provide context for anyone to understand it or by writing blog posts.
-* Deep knowledge of the 2 of the areas of expertise in postgreSQL ecosystem.
+* Deep knowledge of the 2 of the areas of expertise in PostgreSQL ecosystem.
 * Great expertise in SQL, able to review SQL statements and guide developers with best practices how to interact with the database,for a high-scale web environment.
 * Process oriented driven, iterating with the existent or creating new ones.
 * Apply elevated testing practices to ensure smooth releases and changes.
@@ -100,13 +100,13 @@ The Senior Database Reliability Engineer is a [grade 7](/handbook/total-rewards/
 * Identifies changes for the product architecture from the reliability, performance and availability perspective with a data driven approach focused on relational databases. Knowledge of another data storage is a plus.
 * Proactively work on the efficiency and capacity planning to set clear requirements and reduce the system resources usage to make GitLab cheaper to run for all our customers.
 * Perform and run blameless RCA's on incidents and outages, relentlessly looking for answers that will prevent the incident from ever happening again.
-* Show ownership of postgreSQL ecosystem, great plus on ownership of major part of the infrastructure.
+* Show ownership of PostgreSQL ecosystem, great plus on ownership of major part of the infrastructure.
 * Deep knowledge in architectural overview, knowledge of engineering practices, ORM’s, caching...
 * Identify parts of the system that do not scale, provide immediate palliative measures and drive long term resolution of these incidents.
 * Identify the SLO (Service Level Objectives) that will align the team to meet the availability and latency objectives.
 * Be constructive, strong initiatives, approach with solutions, think out of the box, able to switch focus or priorities as required.
 * Priority driven, focused on what matters, raises concerns, delivered focus.
-* Deep knowledge in 3 areas of expertise related to postgreSQL and his ecosystem, considering another data storages an option, general knowledge of all areas of expertise from the postgreSQL ecosystem, radiate that knowledge.
+* Deep knowledge in 3 areas of expertise related to PostgreSQL and his ecosystem, considering another data storages an option, general knowledge of all areas of expertise from the PostgreSQL ecosystem, radiate that knowledge.
 * Leads and participates in several projects, having an overview and giving input on projects to be accomplished with the best performance and lower impact.
 
 

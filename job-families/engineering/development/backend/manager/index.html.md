@@ -27,8 +27,7 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 ## Requirements
 * Ability to use GitLab
 * Exquisite brokering skills: regularly achieve consensus amongst departments
-* 5 years or more experience
-* 2 years or more experience in a leadership role with current technical experience
+* Demonstrated progressive experience in a leadership role with current technical experience
 * In-depth experience with Ruby on Rails, Go, and/or Git, in addition to any experience required by the position's [specialty](#specialties)
 * Excellent written and verbal communication skills
 * You share our [values](/handbook/values/), and work in accordance with those values
@@ -44,10 +43,10 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Passionate about open source and developer tools
 
 ## Levels
-* [Intermediate](https://about.gitlab.com/job-families/engineering/backend-engineer/#intermediate-backend-engineer)
-* [Senior](https://about.gitlab.com/job-families/engineering/backend-engineer/#senior-backend-engineer)
-* [Staff](https://about.gitlab.com/job-families/engineering/backend-engineer/#staff-backend-engineer)
-* Backend Engineering Manager
+* [Intermediate](/job-families/engineering/development/backend/intermediate)
+* [Senior](/job-families/engineering/development/backend/senior)
+* [Staff](/job-families/engineering/development/backend/staff)
+* [Backend Engineering Manager](/job-families/engineering/development/backend/manager)
 
 ## Performance Indicators
 Backend Engineering Managers have the following job-family performance indicators.

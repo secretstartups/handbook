@@ -71,7 +71,7 @@ The Senior Product Designer is a [grade 7](/handbook/total-rewards/compensation/
 
 ## Performance Indicators
 * [Contributing to the success of Marketing's Quarterly Initiatives](/handbook/marketing/inbound-marketing/#q3-fy21-initiatives)
-* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/brand-and-digital-design/#sprint-planning)
+* [Identifying and organizing epics into executable Sprint plans](/handbook/marketing/inbound-marketing/digital-experience/#sprint-planning)
 * [Successfully completing weekly Sprint tasks](/handbook/marketing/growth-marketing/brand-and-digital-design/#sprint-cycle)
 * [Collaborating on identifying issues to be completed within Epics](/handbook/marketing/inbound-marketing/#epics)
  

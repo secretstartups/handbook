@@ -118,7 +118,6 @@ As a Product Marketing Manager, Verify Specialist, you will work closely with ou
 * Understand enterprise buyer and user personas tasked with both developer and QA tools and solutions and how to market to them.
 * Experience with jenkins, bamboo, circle CI, automated testing, quality management, traceability and cloud-native applications.
 
-
 ### Agile-Planning Specialist (Plan)
 As a Product Marketing Manager, Agile-Planning Specialist, you will work closely with our marketing, engineering, business development, and sales team, and partners to help them understand how GitLab planning and portfolio management capabilities help solve customer problems as well as educate them about market competitors.  You will also be responsible for crafting, testing, creating and rolling out messaging and positioning of GitLab’s agile project management capabilities.
 
@@ -129,31 +128,32 @@ As a Product Marketing Manager, Agile-Planning Specialist, you will work closely
 * Experience with Jira, Rally, Version One, Agile Craft and other planning and portfolio mgt tools.
 
 #### Competitive Intelligence Specialist
-As a Competitive Intelligence Specialist, you will work closely with our marketing, engineering, business development,
-sales team, and partners to help them understand the competitive landscape and competitor details. You will be responsible for creating, maintaining,
-and enabling sales on competitive content (such as competitive cards, objections, SWOT analysis, traps, positioning, company/product research, etc). You
-will also be responsible for informing Product Marketing and Product Management about the competitive landscape.
+As a Competitive Intelligence Product Marketer, you will work closely with a wide range of cross-functional teams (Product, Marketing, Sales) to turn competitive insights into actionable advantages for GitLab’s go-to-market motion. To achieve this ambition, you will organize and distill competitive intelligence, educate our teams, and create specific competitive playbooks & content that increase our share of the market. Product Marketing (Competitive Intelligence) reports to the Senior Director, Product & Solutions Marketing.
 
 #### Requirements
-* At least 5 years developing technical collateral such as demos, webinars, videos, competitive battle cards, ROI tools, and assist with customer Requests For Proposals (RFPs).
-* Prior experience in competitive intelligence, product management, technical product marketing or solution architect roles.
+* At least 5 years developing competitive collateral (e.g. playbooks, content, decks, demos, webinars, videos, battle cards, ROI tools, etc.) and collaborating with GTM teams (Marketing & Sales) on competitive response situations.
+* Prior experience in Product Development or Software Engineering & Architecture is a plus.
+* Prior experience in Solution Architecture & Engineering or Technical Account Management is a plus.
 * Hands-on experience installing, configuring, evaluating, and analyzing competitive and complementary technologies to compare and differentiate them.
 * Understand market dynamics, the competition, and customer needs of the enterprise application development and delivery space.
 * Understand enterprise buyer and user personas tasked with developer, security, and operations tools and solutions and how to market to them.
-* Sales or sales engineering experience a plus.
+* Ability to move iteratively with speed and urgency.
+* Written and verbal communication fit to engage customers, analysts, and influencers.
 
 #### Responsibilities
-* Maintain competitive information repository and keep competitor information up to date.
-* Work and collaborate with different teams including product management, engineering, marketing, and sales teams to analyze and identify competitive products strengths, weaknesses, and differentiators.
-* Provide competitive intelligence training, support and consulting to sales, product, marketing, and partner teams.
-* Provide core competitive content to marketing and sales teams to support competitive take-out campaigns.
-* Develop and maintain competitive landscape content including website pages, presentations, demos, and other assets.
+* Develop, organize, and maintain a competitive information repository, both internal and external facing.
+* Partner with our Product team to ensure a single source of truth across GitLab that surfaces product strengths, weaknesses, and differentiators.
+* Collaborate with Sales to enable all teams to confidently and proactively pitch GitLab in competitive situations.
+* Develop competitive playbooks (discovery, positioning, messaging, objection handling, scripts, battle-cards, ROI tools, etc.) with respect to specific markets or competitors to drive GTM campaigns.
+* Ensure accuracy and maintain competitive landscape content including website pages, presentations, demos, and other assets.
 
 #### Senior Responsibilities
+* Translate competitive developments into meaningful ‘so-what’ and ‘why’ insights for GitLab’s GTM strategy.
+* Develop specific playbooks iteratively that guide our Sales and Channel teams on how to compete in specific stages.
 * Drive deep competitor analysis including product strategy research, customer research, and technical research.
 * Train and enable sales and partner teams on a technical level to deeply understand competitor features and capabilities vs GitLabs.
-* Drive development of technical collateral such as demos, webinars, videos, competitive battle cards, ROI tools, and assist with customer Requests For Proposals (RFPs).
-* Deliver technical insight about GitLab products and competitor products to product management to assist in product direction.
+* Develop and represent GitLab across demos, webinars, and videos across a range of decision-maker audiences.
+* Leverage technical insight about GitLab products and competitor products to influence the overall product strategy and roadmap.
 
 
 ### Partner and Channel Marketing

@@ -118,9 +118,9 @@ The Director, Corporate Development is a [grade 10](/handbook/total-rewards/comp
 
 #### Performance Indicators
 
-* [Acquisition velocity](/handbook/acquisitions/performance-indicators/#acquisition-velocity)
-* [Acquisition success](/handbook/acquisitions/performance-indicators/#acquisition-success)
-* [Qualified acquisition targets](/handbook/acquisitions/performance-indicators/#qualified-acquisition-targets)
+* [Acquisition velocity](/handbook/product/performance-indicators/)
+* [Acquisition success](/handbook/product/performance-indicators/)
+* [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ### Senior Director of Corporate Development
 
@@ -161,9 +161,9 @@ The Senior Director of Corporate Development is a [grade 11](/handbook/total-rew
 
 #### Performance Indicators
 
-* [Acquisition velocity](/handbook/acquisitions/performance-indicators/#acquisition-velocity)
-* [Acquisition success](/handbook/acquisitions/performance-indicators/#acquisition-success)
-* [Qualified acquisition targets](/handbook/acquisitions/performance-indicators/#qualified-acquisition-targets)
+* [Acquisition velocity](/handbook/product/performance-indicators/)
+* [Acquisition success](/handbook/product/performance-indicators/)
+* [Qualified acquisition targets](/handbook/product/performance-indicators/)
 
 ## Career Ladder
 
