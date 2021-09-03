@@ -23,7 +23,7 @@ Instead, consistent with our value of transparency but in line with our agreemen
 
 Team members can access [the calculator](https://comp-calculator.gitlab.net/users/sign_in)
 at any time with their GitLab credentials. Applicants will be given credentials and
-will be able access the calculator themselves as well, during the application process.
+will be able access the calculator themselves as well, during the application process. The information from the calculator should only be shared with those who have access (GitLab team members and candidates).
 
 You can use the calculator to determine the overall Total Rewards Package Offered by GitLab (Cash + Equity + Benefits). Internal team members can also use the [following spreadsheet](https://docs.google.com/spreadsheets/d/1SJnsj-IOTDrAIhTki-oKaJPydiF6vlS1nMKcE88xax8/edit?usp=sharing) by making a copy and adding in your specific information to calculate the GitLab Total Rewards annual amount.
 
