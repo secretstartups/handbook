@@ -555,7 +555,6 @@ If you have a **Product Enhancement Request** or need to submit a **Support Tick
 1. By using the *Live Chat* feature from anywhere within Greenhouse (bottom left corner)
 1. By submitting a request on [Greenhouse Support's Website](https://support.greenhouse.io/hc/en-us/requests/new).
 
-To note, when contacting Greenhouse's Support Team directly, please cc [Erich Wegscheider](mailto:ewegscheider@gitlab.com) on **all** tickets.
 
 =======
 
