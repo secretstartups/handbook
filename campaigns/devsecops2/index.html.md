@@ -14,6 +14,8 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ## Campaign Overview
 {: #overview .alert .alert-gitlab-orange}
 
+### [Mural of campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c?)
+
 ### Business Objectives
 {: #business-objectives}
 <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -203,7 +205,7 @@ The developer cares about security but does not want to become a security expert
 {: #nurture-emails .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See Marketo Nurture Email Copies >>](https://docs.google.com/document/d/1Jl1YeoZn8ywGXsPNX6ImMstR_0sP6OGEzcVeV8iE014/edit#heading=h.mjjsf5ikgyrg)**
+**[See Marketo Nurture Emails >>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c?wid=0-1630702873976)**
 
 
 ### SDR Follow up process
