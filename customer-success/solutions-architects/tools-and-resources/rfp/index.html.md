@@ -50,7 +50,7 @@ After the issue is created, create a Google document and start filling in the de
 
 In the event that the RFx requires:
 
-- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/engineering/security/security-assurance/risk-field-security/) handbook.
+- Security Questionnaire, please follow the process described in the [Risk and Field Security Team](/handbook/engineering/security/security-assurance/field-security/) handbook.
 - A legal review, please follow the process described in [Collaborating with GitLab legal](/handbook/legal/customer-negotiations/) handbook page.
 - A professional services component, the [Selling Professional Services](/handbook/customer-success/professional-services-engineering/selling/) handbook page will be of help.
 
