@@ -89,7 +89,7 @@ More details on this will be covered in the `BC plan - roles & responsibilities 
 
 ## Backup check
 
-[Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.01_backup_configuration.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/BU.1.03_alternate_storage.html).
+[Make sure that backups are performed daily](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html), and include running an additional full local backup on all servers and data in the Business Continuity preparation plan. Run them as far in advance as possible tp ensure that they’re backed up to a location that will not be impacted by the disaster. [Alternate storage provisioning](/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
 
 ## Distribute and Verify the Plan / Approval from Senior management
 
