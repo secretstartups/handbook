@@ -73,18 +73,17 @@ While we follow GitLab's product development flow, our processes as a backend en
 Board in their assigned epic swimlane and pull them through the identified states. In addition to the workflow states identified by the company, we are experimenting with the 
 `~workflow::refinement` state. Engineers are expected to use their best judgment as to how issues flow through the board, but the following outcomes are expected at each state.
 
+An issue landing on the delivery board is the means by which work is released to the engineering team for Delivery. This event is the beginning of the process by which the 
+engineers will scrutinize an issue's readiness, estimate it size, and implement the changes necessary to achieve the desired outcomes.
+
 | State | Expected Outcomes |
 | ----- | ----------------- |
-| `~workflow::planning breakdown` | - Issues deemed complete and understood.<br />- Issue split into smallest units of value.<br />- We try to split issues vertically rather than horizontally. Splitting vertically means the whole system will do something noticeably different; splitting horizontally results in trying to realize the fullest possible change in an individual component.<br />- If the issue can - and should - be split into separate issues, engineers are empowered to create the new issues, attach them to the epic they are working, and collaborate with product management on if they are included in current scope. |
+| `~workflow::planning breakdown` | - Issues deemed complete and understood.<br />- Issue split into smallest testable units of value.<br />- We try to split issues vertically rather than horizontally. Splitting vertically means the whole system will do something noticeably different; splitting horizontally results in trying to realize the fullest possible change in an individual component.<br />- If the issue can - and should - be split into separate issues, engineers are empowered to create the new issues, attach them to the epic they are working, and collaborate with product management on if they are included in current scope. |
 | `~workflow::refinement` | - Implementation plan<br />- Relative size applied as weight. |
 | `~workflow::ready for development` | Buffer queue - issue deemed to be `~Deliverable`, `~Stretch`, or possibly punted to a future iteration. |
 | `~workflow::in dev` | Last MR is up and out of Draft or WIP status. |
 | `~workflow::in review` | Last MR is merged and changes are available in a production environment. |
 | `~workflow::verification` | Changes functionally tested in a production environment. |
-
-#### Code Review Process
-
-The process for reviewing and maintainer code is documented within our [Static Analysis Group Code Review](/handbook/engineering/development/secure/static-analysis/code_review.html) page.
 
 #### Weights
 
@@ -109,6 +108,29 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 | 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
 | 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
 | Bigger | Epic in disguise |  |
+
+#### How we commit to delivering work in a milestone
+
+In GitLab, the `~Deliverable` label is referred to as a [release scoping label](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#release-scoping-labels). Applying this label 
+represents a commitment from the engineering team to realize the work required in the issue within the milestone to which the issue is assigned. This means we decide whether we can commit to 
+delivering work once an issue is in the `workflow::ready for development` state. 
+
+The decision on when to use the `~Deliverable` label is made through answering the following questions.
+
+- Given the issue's weight, are we reasonably confident there is enough time left in the milestone for the engineer to deliver the issue?
+    - We currently assume an engineer in Static Analysis can achieve a velocity of 9 in any one milestone.
+- Would the issue be achievable early in the next milestone if work began now?
+    - If so, discuss with the Product Manager about the situation. Work can begin if the Product Manager agrees with the proposed timeline and would like to proceed.
+    - Please make sure the milestone is updated before continuing with work.
+- Is this the smallest, testable unit of work which adds value and cannot be further broken down without adding overhead?
+
+The `~Deliverable` label is applied if the answer to the above questions are yes. The use of this label impacts the group's Say/Do ratio, making the Engineering Manager the directly responsible 
+individual for this label. However, engineers in Static Analysis are empowered to use their judgment about applying this label and proceeding if they believe the work is achievable. Please 
+have a conversation with the Engineering Manager if uncertain about how to proceed.
+
+#### Code Review Process
+
+The process for reviewing and maintainer code is documented within our [Static Analysis Group Code Review](/handbook/engineering/development/secure/static-analysis/code_review.html) page.
 
 #### Stabilization Period and Slack Time
 
