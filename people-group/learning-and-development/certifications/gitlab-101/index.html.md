@@ -49,6 +49,11 @@ Summarized: GitLab is a complete DevOps platform, delivered as a single applicat
 This will make more sense once you understand all of the terminology.
 
 ### Terminology
+1. Open Source
+   1. **Definition:** denoting software for which the original source code is made freely available and may be redistributed and modified.
+   1. **Example:** Our GitLab [handbook](/handbook/) is open source because anyone can make changes and contribute to it.
+1. Source Code
+   1. **Definition:** a text listing of commands to be compiled or assembled into an executable computer program.
 1. Git
    1. **Definition:** is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 1. DevOps
@@ -68,6 +73,11 @@ This will make more sense once you understand all of the terminology.
 1. Weight
    1. **Definition:** allow you to get a better idea of how much time, value or complexity a given issue has or will cost.
    1. **More information on:** [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html)
+1. Local
+   1. **Definition:** your machine
+   1. **Example:** If someone says to do something locally that means to open the terminal on your computer to make a change.
+1. Branch
+   1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
 1. Merge Request
    1. **Definition:** allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
    1. **Example:** This is a [Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/40563#0c7def9794ef444dbc7eb560126846353b630886).
@@ -79,18 +89,10 @@ This will make more sense once you understand all of the terminology.
 1. Markdown
    1. **Definition:** a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
    1. **Example:** Take a look at our [GitLab Markdown Guide](/handbook/markdown-guide/)
-1. Local
-   1. **Definition:** your machine
-   1. **Example:** If someone says to do something locally that means to open the terminal on your computer to make a change.
 1. SSH Key (SSH = Secure Shell)
    1. **Definition:** a cryptographic network protocol for operating network services securely over an unsecured network.
-1. Source Code
-   1. **Definition:** a text listing of commands to be compiled or assembled into an executable computer program.
 1. Terminal
    1. **Definition:** used for entering data into, and displaying or printing data from, a computer or a computing system.
-1. Open Source
-   1. **Definition:** denoting software for which the original source code is made freely available and may be redistributed and modified.
-   1. **Example:** Our GitLab [handbook](/handbook/) is open source because anyone can make changes and contribute to it.
 
 ### Most Common Terms at GitLab
 
