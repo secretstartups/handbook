@@ -321,7 +321,7 @@ off shouldn't feel like they did something wrong. You don't have to defend how y
 ##### Dogfooding
 {:.no_toc}
 1.  We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
-Our development organization uses GitLab.com to manage the DevOps lifecycle of the GitLab.
+Our development organization uses GitLab.com to manage the DevOps lifecycle of GitLab itself.
 1.  Our entire company uses GitLab to collaborate on this handbook.
 We also capture other content and processes in Git repos and manage them with GitLab.
 1.  When something breaks, doesn't work well, or needs improvement, we are more likely to notice it internally and address it before it impacts our larger community.
