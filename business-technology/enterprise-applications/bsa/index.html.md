@@ -85,7 +85,7 @@ EntApps works to resolve business issues using a 5 stage process: Define, Design
 ### Intake
 The first step to engage the Business Systems Analysts is opening an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
 
-On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&utf8=%E2%9C%93&assignee_id=None), assign them to a specific BSA to prioritize it and perform Discovery duties. Additional information will be requested in the Issue.
+On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&label_name[]=EntApps%20Intake&not[label_name][]=BSA&not[label_name][]=BT%20Finance%20Systems) and assign them to a specific BSA to perform Discovery duties. Additional information will be requested in the Issue.
 
 #### Intake Exit Criteria (for BSAs)
 

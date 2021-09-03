@@ -21,7 +21,7 @@ description: "GitLab Data Team Platform"
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
-- [Jupyter Guide](/handbook/business-technology/data-team/platform/python-guide)
+- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
@@ -53,6 +53,10 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
 For source ownership please see [the Tech Stack Applications sheet (internal only).](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+
+### Data Sources
+
+The following table indexes all of the RAW data sources we are loading into the data wareouse. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
 
 **Key**
 - Pipeline: The technology we use to replicate data.
@@ -93,6 +97,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |
 | [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h |
+| [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h |
