@@ -72,7 +72,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 - **NA East - Southeast**: TBD
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: TBD
+- **NA West - Rockies/SoCal**: Corey Sanders
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Kris Nelson
 - **Inside Sales - Public Sector**: Brent Caldwell
@@ -109,7 +109,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	| David Fisher | Virginia Reib |
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Madison Taft | Rachel Hill |
@@ -267,7 +266,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
 |	Russia	|	RU	|	MM-EMEA-Russia	|	Chris Willis	| Shay Fleming | Kristine Setschin |
@@ -276,7 +275,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
 |	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Conor Brady	| Shay Fleming | Kristine Setschin |
@@ -293,7 +292,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | 
 |	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Ginny Reib |
-|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rich Hancock |
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Clayton Houston	| Rich Hancock |
 |	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	| Rachel Hill |
 |	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|  Kristine Setschin |
 |	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Sarina Kraft |
@@ -315,7 +314,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
 |	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Blake Chalfant-Kero
-|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	TBH - James Komara
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	Stacy Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Jake Grothjan
 |	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Carrie Nicholson
 
@@ -354,3 +353,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
 |	AMER	|	US West	|	SMB-AMER-West-FO	|	Da'Neil Olsen	|
+|	AMER	|	US East	|	SMB-AMER-East-FO	|	Phillip Knorr	|
