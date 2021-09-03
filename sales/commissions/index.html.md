@@ -136,7 +136,7 @@ Example:
 
 ### **Quota Minimums**
 
-Based on the above Ramp schedules, native quota-carrying salespeople who join in the latter half of the year may end up with low current year carried quotas. As such, any new team member who ends up with an annual carried quota of less than $100K, he or she will instead receive a $100K minimum carried quota.
+Based on the above Ramp schedules, native quota-carrying salespeople who join in the latter half of the year may end up with low current year carried quotas. As such, a $100K minimum carried quota will be assigned per team member.
 
 ### **End of Year Compensation Plans**
 
