@@ -100,9 +100,11 @@ Please use [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-stan
 
 ### Azure Testing Environment
 
-If you need access to Azure for testing, please create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and tag your manager.
+For *Group* SAML/SCIM (GitLab.com) testing, shared account credentials can be located within the 1password entry `Azure Active Directory Sandbox (SAML Testing)`. This level of access should be sufficient for the majority of test cases.
 
-Specifically for *Group* SAML/SCIM (GitLab.com) testing, shared account credentials are in 1password `Azure Active Directory Sandbox (SAML Testing)`.
+If you need access to the shared infrastructure team's Azure account for testing AKS and similar features, please create an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) and tag your manager.
+
+For features not available in either instance, please create your own trial for Azure.
 
 ### Okta Testing Environment
 
