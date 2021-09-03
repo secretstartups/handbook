@@ -30,19 +30,19 @@ Linkedin Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
 **Courtney Meddaugh - Senior Business Systems Analyst**  
 GitLab handle: [@courtmeddaugh](https://gitlab.com/courtmeddaugh)  
 Slack handle: `@Courtney Meddaugh` <br>
-Location and Timezone: USA, CDT/CST
+Location and Timezone: USA, CDT/CST  
 Linkedin Profile: [/courtney-meddaugh](https://www.linkedin.com/in/courtney-meddaugh/)
 
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@kayokocooper` <br>
-Location and Timezone: USA, EDT/EST
+Location and Timezone: USA, EDT/EST  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
 **Lis Vinueza - Senior Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
-Location and Timezone: Ecuador, UTC-5/GMT-5
+Location and Timezone: Ecuador, UTC-5/GMT-5  
 Linkedin Profile: [/lisbeth-vinueza](https://www.linkedin.com/in/lisbeth-vinueza/)
 
 **Mark Quitevis - Senior Business Systems Analyst**  
