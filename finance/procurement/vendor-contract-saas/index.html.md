@@ -150,7 +150,7 @@ This section articulates the information regarding the vendor and the current co
 
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
 
-Review our [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) and submit a request accordingly. 
+Review our [Third Party Risk Management Procedure](handbook/engineering/security/security-assurance/field-security/third-party-risk-management.html) and submit a request accordingly. 
 
 To expedite the risk assessment process, complete the identified check boxes as relative:
 
@@ -159,7 +159,7 @@ To expedite the risk assessment process, complete the identified check boxes as 
 
 **Security Documentation**
    * Request your vendor contact share with us independent certifications validating the security protocols in place for our review.
-   * Send this email template [requesting security documentation](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html#email-request-template) to your vendor contact
+   * Send this email template [requesting security documentation](https://about.gitlab.comhandbook/engineering/security/security-assurance/field-security/third-party-risk-management.html#email-request-template) to your vendor contact
 
 **Non Disclosure Agreement (NDA)**
    * If this is a **NEW vendor**, an NDA is oftentimes required from the vendor in order to share security certification
