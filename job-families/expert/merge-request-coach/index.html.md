@@ -20,7 +20,8 @@ get merged into GitLab.
   their merge requests. Also, see the [closing policy for issues and merge requests](https://docs.gitlab.com/ee/development/contributing/#closing-policy-for-issues-and-merge-requests).
 * Make it easy to contribute to GitLab even for people who are new to Ruby,
   JavaScript, Golang, etc. or programming entirely. For example, you can add any hints or possible fixes on issues that are open for community contribution.
-* Join and actively follow the internal #mr-coaching Slack channel and the external #contributors Gitter channel to assist contributors and fellow MR Coaches when they need help or to discuss best practices for collaboration.
+* Join and actively follow the internal [`#mr-coaching` Slack channel](https://app.slack.com/client/T02592416/C2T9APP9C) and the external [`#contributors` Gitter channel](https://gitter.im/gitlab/contributors) to assist contributors and fellow MR Coaches when they need help or to discuss best practices for collaboration.
+  * You can also use the [`#gitter-contributors-room` Slack channel](https://app.slack.com/client/T02592416/CV0SHHVNW) which tunnels all conversations between Gitter and Slack.
 * Ensure the content on the [MR Coaches handbook pages](/handbook/marketing/community-relations/code-contributor-program/resources/merge-request-coach-lifecycle) stays relevant, up-to-date and keeps evolving.
 
 ### Specialties 
