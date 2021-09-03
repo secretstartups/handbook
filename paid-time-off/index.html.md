@@ -113,7 +113,7 @@ We encourage everyone to fully step away from work on their days off but underst
 
 ### Sick Time - Taking and Reporting
 
-In keeping with our [values](/handbook/values/) of freedom, efficiency, transparency, kindness, and boring solutions, we have crafted the following protocol around sick time for all GitLab team-members.
+In keeping with our values of [CREDIT](/handbook/values/), we have crafted the following protocol around sick time for all GitLab team members.
 
 #### Sick Time Procedures - All Team Members
 
