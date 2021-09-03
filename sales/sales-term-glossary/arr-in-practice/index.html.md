@@ -14,4 +14,4 @@ The below page includes a deep-dive into the definition of ARR at GitLab and is 
 
 ## Annual Recurring Revenue (ARR)
 
-[Please see the Internal Sales Handbook Defition Doc] (https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.4z6lmbtfepzq)
+[Please see the Sales Handbook Definitions Doc] (https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.4z6lmbtfepzq)
