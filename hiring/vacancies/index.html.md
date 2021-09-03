@@ -23,6 +23,14 @@ The term “requisition” (req) is used when referring to an open job. The term
 
 We don't use the word "job" to refer to a job family or vacancy because it is ambiguous.
 
+### Vacancy structure
+
+All vacancies should use the following copy as an introduction
+
+> GitLab's [DevOps platform](https://about.gitlab.com/solutions/devops-platform/) empowers 100,000+ organizations to deliver software faster and more efficiently. [We are one of the world’s largest all-remote companies](https://about.gitlab.com/company/culture/all-remote/guide/) with 1,400+ team members and [values](https://about.gitlab.com/handbook/values/) that guide a culture where people embrace the belief that [everyone can contribute](https://about.gitlab.com/company/mission/).
+
+## Specialist versus expert
+
 People at GitLab can be a specialist on one thing and expert in many:
 
 - A [specialization](/company/team/structure/#specialist) is specific to a job family, each team member can have only one, it defined on the relevant job family page. A specialist uses the compensation benchmark of the job family.
