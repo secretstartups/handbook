@@ -87,7 +87,7 @@ Each group in the Sec Section is responsible for:
 1. Configuring builds to push release artifacts to the new location.
 1. Removing or keeping images in old locations according to their own support agreements.
 
-## Security fixes of Go
+## Security and Build fixes of Go
 
 The `Dockerfile` of the Secure analyzers implemented in Go must reference a `MAJOR` release of Go, and not a `MINOR` revision.
 This ensures that the version of Go used to compile the analyzer includes all the security fixes available at a given time.
@@ -112,6 +112,9 @@ In that case, it might be necessary to reference a `MINOR` revision of Go in the
 and document that exception until the compatibility issue has been resolved.
 
 Since it is NOT referenced in the `Dockerfile`, the `MINOR` revision of Go is NOT mentioned in the project changelog.
+
+There may be times where it makes sense to use a build tag as the changes made are build related and don't
+require a changelog entry. For example, pushing docker images to a new registry location.
 
 #### Git tag to rebuild
 
