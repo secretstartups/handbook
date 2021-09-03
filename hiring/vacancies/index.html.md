@@ -25,9 +25,11 @@ We don't use the word "job" to refer to a job family or vacancy because it is am
 
 ### Vacancy structure
 
-All vacancies should use the following copy as an introduction
+All vacancies will automatically include the following copy as an introduction:
 
 > GitLab's [DevOps platform](https://about.gitlab.com/solutions/devops-platform/) empowers 100,000+ organizations to deliver software faster and more efficiently. [We are one of the world’s largest all-remote companies](https://about.gitlab.com/company/culture/all-remote/guide/) with 1,400+ team members and [values](https://about.gitlab.com/handbook/values/) that guide a culture where people embrace the belief that [everyone can contribute](https://about.gitlab.com/company/mission/).
+
+This paragraph is pre-populated on our vacancies which means we should avoid re-using this language in the body of the vacancy.
 
 ## Specialist versus expert
 
