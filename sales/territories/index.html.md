@@ -72,7 +72,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 - **NA East - Southeast**: TBD
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: TBD
+- **NA West - Rockies/SoCal**: Corey Sanders
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Kris Nelson
 - **Inside Sales - Public Sector**: Brent Caldwell
