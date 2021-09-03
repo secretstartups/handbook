@@ -78,11 +78,11 @@ xMAU is calculated mainly thanks to Service Ping Data source. When the project s
 - [list of SMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468482&udv=1146726)
 
 
-The current SSOT for the xMAU metrics is [this spreadsheet](https://docs.google.com/spreadsheets/d/1_b-BoKfrt2iH1dYUMYBxSw_CFpYiQ2W84XD3-AnfuwY/edit?usp=sharing) which is imported via Sheetload to our datawarehouse. That means that when updating the GMAU, SMAU columns for a specific metrics, the changes will propagate downstream until the xMAU charts updated in the handbook.
+The current SSOT for the xMAU metrics is [this spreadsheet](https://docs.google.com/spreadsheets/d/1_b-BoKfrt2iH1dYUMYBxSw_CFpYiQ2W84XD3-AnfuwY/edit?usp=sharing) which is imported via Sheetload to our datawarehouse. That means that when updating the GMAU, SMAU columns for a specific metrics, the changes will propagate downstream to the xMAU charts updated in the handbook.
 
 There is a plan for migrating this SSOT from this spreadsheet to the dictionary YAML files, [work to do is in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/10106).
 
-If you have more questions on the metrics definition, you should ask the Product Intelligence team. They are currently maintaining a Metric dictionary available here. Also if the metrics are database calculation they are able to provide you with the SQL query run to generate the metrics value.
+If you have more questions on the metrics definition, you should ask the Product Intelligence team. They are currently maintaining a Metric dictionary available [here](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/). Also if the metrics are database calculations, they are able to provide you with the SQL query run to generate the metrics value.
 
 #### Difference between xMAU and Paid xMAU
 
@@ -137,7 +137,13 @@ The mart `mart_estimated_xmau` is built in order to generate easily the estimate
 End-users can then use very simple charts to create their estimated xMAU chart:
 
 ```
-code snippet needed
+SELECT 
+reporting_month,
+product_tier,
+SUM(estimated_monthly_metric_value_sum)
+FROM common_mart_product.mart_estimated_xmau
+WHERE xmau_level = 'SMAU' AND stage_name = 'create'
+GROUP BY 1,2```
 ```
 
 A `mart_paid_estimated_xmau` datamart has been created to construct specifically paid xMAU charts
