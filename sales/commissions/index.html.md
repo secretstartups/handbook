@@ -132,6 +132,16 @@ Example:
 - Hired on 4/10/2021:   Month 1 = April 2021
 - Hired on 4/22/2021:   Month 1 = May 2021
 
+#### **End of Year Hires**
+
+### **Quota Minimums**
+
+Based on the above Ramp schedules, native quota-carrying salespeople who join in the latter half of the year may end up with low current year carried quotas. As such, any new team member who ends up with an annual carried quota of less than $100K, he or she will instead receive a $100K minimum carried quota.
+
+### **End of Year Compensation Plans**
+
+Any Enterprise native quota-carrying salespople who join the organization on 2021-11-01 or after and any Mid-Market native quota-carrying salespeople who join the organization on 2021-12-01 or after will receive an End of Year compensation plan, without a quota. In lieu of a quota and standard commission rates, a flat rate will be provided to pay the team member on all Net ARR that she or she closes during the remainder of the year. Flat rates will be communicated to the team member in a participant schedule and will be set to the average of peer salespeoples' Base Commission Rates (BCRs).
+
 ## **Commissions Overview**
 
 Most commission plans are paid monthly; however there are some plans that are paid on a quarterly basis. Most commissions plans are calculated in CaptivateIQ.
