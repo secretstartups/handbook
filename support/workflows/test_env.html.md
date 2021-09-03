@@ -108,7 +108,7 @@ For features not available in either instance, please create your own trial for 
 
 ### Okta Testing Environment
 
-For SAML/SCIM testing, please open an [access request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for GitLab's Okta Preview instance with `admin` role and ability to add *Applications*.
+If you need an Okta sandbox environment to test SAML and SCIM, please go to https://developer.okta.com/signup/ and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
 
 ### LDAP Testing Environments
 
