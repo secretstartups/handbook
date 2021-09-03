@@ -6,9 +6,22 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 # GitLab Security Essentials Hands On Guide- Lab 2
 {:.no_toc}
 
-## LAB 2- Review and create actions on Vulnerabilities
+## LAB 2- Configure and Enable Dependency Scanning, and Interact with Vulnerabilities
 
-### View the scanning results in the Security Dashboard 
+### Configure Dependency Scanning (Note to KM: This would require rethinking Lab 1)
+1. Add the following to your `.gitlab-ci.yml`:
+```
+    include:
+        - template: Dependency-Scanning.gitlab-ci.yml
+```
+2. The results will be saved as a dependency scanning report artifact. [See example.](https://docs.gitlab.com/ee/ci/yaml/index.html#artifactsreportsdependency_scanning)
+
+### Enable Dependency Scanning via an automatic merge request
+1. In your project, navigate to **Security & Compliance > Configuration**.
+2. In the Dependency Scanning row, select **Configure via Merge Request**.
+3. This automatically creates a merge request with the changes necessary to enable Dependency Scanning that you can review and merge to complete the configuration.
+
+### Use the Security Dashboard and Interact with Vulnerabilities
 ***You will not be able to view the dashboard until your .gitlab-ci.yml file has been merged to the master and the pipeline has finished. **
 1. Validate your pipeline has completed and passed
 2. Navigate to **Security & Compliance** in the left menu pane  
@@ -24,10 +37,10 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 12. Once you have reviewed all of the information, click on the other reports that appears.
 13. Click the **Configure** button in the Manage column to view the specific configuration options available for your SAST Scanner. Once you have reviewed the options available, you can close out of this section.
 
-### Read an Artifacts for the Scanning Reports
+### Review a Dependency Scanning Report Artifact
 1. Click on the **CI/CD** button on the Left menu.  
 2. On the pipeline click the artifacts dropdown menu.  
-3. Select various reports and review 
+3. Select various reports and review. 
 
 
 ### SUGGESTIONS?
