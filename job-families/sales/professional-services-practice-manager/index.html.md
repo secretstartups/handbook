@@ -132,17 +132,17 @@ Additional requirements include:
 * Experienced in collaborating with other managers and executing strategies
 * Proven track record in software/technology sales or consulting and management
 
-## Senior Manager, Professional Services
+## Senior Manager, Professional Services Practice Management
 
-The Senior Manager, Professional Services reports into the Senior Director, Professional Services.
+The Senior Manager, Professional Services Practice Management reports into the Senior Director, Professional Services.
 
 #### Job Grade 
 
-The Senior Manager, Professional Services is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities 
 
-* Extends that of the Manager, Professional Services responsibilities
+* Extends that of the Manager, Professional Services Practice Management responsibilities
 * Define and deliver strategies and plans that enhance and integrate Professional Services into GitLab's Go-To-Market strategies and plans, including direct and channel services
 * Build market-specific strategies and plans based on industry best practices to improve efficiency and growth
 * Manage and nurture executive relationships with customers, including management of executive-level escalations
@@ -151,7 +151,7 @@ The Senior Manager, Professional Services is a [grade 9](/handbook/total-rewards
 
 #### Requirements
 
-* Extends that of the Manager, Professional Services requirements
+* Extends that of the Manager, Professional Services Practice Management requirements
 * 5+ years of experience managing, leading and/or delivering professional services or customer success
 * 3+ years experience with a subscription-based business model, delivering on-premises and SaaS solutions
 * Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners
