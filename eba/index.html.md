@@ -202,7 +202,7 @@ To view members of Google Groups, reference the [Google Workspace group member r
 * EBA to the CEO to assist in maintaining and scheduling meetings revolving around the [OKR updating process](/company/okrs/#updating).
 
 ## Performance Indicators (PI)
-https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#performance-indicator
+More information can be found [here](https://about.gitlab.com/job-families/people-ops/executive-business-administrator/#performance-indicator)
 
 ### Leadership SAT Survey
 
@@ -214,4 +214,32 @@ Sample Questions:
 * EBA knows and keeps Executive(s) informed of all activities and appointments at all times.
 * EBA interacts and communicates clearly with key stakeholders both internally and externally through completion of tasks with little direction
 * EBA proactively seeks feedback on the quality of administrative support and demonstrates an approach of continuous improvement
+
+## Signature Request procedure
+
+### When requesting a wet signature for a document(s) please have the following questions answered in advance.
+1. Is there an issue? If there is more than two documents you may want to consider creating an issue to track progress
+1. What is this for?
+1. Electronic signature or physical wet signature?
+1. Who needs to sign? See [Authorization Matrix](/handbook/finance/authorization-matrix/)
+1. Why is this person’s signature required?
+1. If a wet signature is required,  is there a specific ink color that should be use?
+1. Is there a specific paper size that is required? For example, Ireland requires A4.
+1. Is Legal required to review and/or stamp approved?
+1. Is a notary required?
+1. Is an apostille required?
+1. When is this due?
+1. Where should the originals be sent? Include the recipient's name, company name, address and phone number.
+
+### Specific directions for signature request:
+* Indicate page numbers of document where signature is required, per document. For example Jane Doe is required to sign pages 3, 5 in two places and 8.
+* If there is more than one signature line on the signature page without details (name / company name) please indicate where to sign.
+* Should the document be dated? If yes, are we using the date the document is actually signed or different date? If we are using a different date please explain why.
+
+### Directions for executed documents:
+* Scan and upload to Google drive?
+* Scan and email?
+* Send originals where?
+
+
 
