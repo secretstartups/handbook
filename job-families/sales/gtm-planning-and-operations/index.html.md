@@ -54,7 +54,7 @@ The Senior Analyst, GTM Planning and Operations reports to the [Director, GTM Pl
 
 #### Senior Analyst, GTM Planning and Operations Job Grade
 
-The Sr. Analyst, GTM Planning and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Analyst, GTM Planning and Operations is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Analyst, GTM Planning and Operations Responsibilities
 
@@ -77,6 +77,9 @@ The GTM Planning and Operations Manager reports to the [Director, GTM Planning &
 #### GTM Planning and Operations Manager Job Grade
 
 The GTM Planning and Operations Manager is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** 
+From a survey data perspective, this role rolls up to the broader Sales Operations job match where 91 companies have a grade 8 level with an average of 3 employee incumbents within the tech market. The business justification for a Go-To-Market Planning & Operations Manager as an individual contributor is to attract experienced top-tier talent. The Go-To-Market Planning & Operations Manager role requires a highly skilled individual capable of leading the decision-making process regarding complex planning and strategy matters for a 500+ Field Sales team. As GitLab and its Sales team continue to grow exponentially, the role will continue to require navigating an ever-more complex network of 170+ prime Sellers, 100+ Sales leaders, 15+ unique roles, 7+ Vice Presidents, along with considerable time interfacing with the CRO and CFO on all matters Go-To-Market planning. In the marketplace, similar IC roles can be found at Google, Salesforce, an Twilio.
 
 #### GTM Planning and Operations Manager Responsibilities
 
