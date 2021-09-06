@@ -13,7 +13,7 @@ title: "Data pipelines"
 
 ## Background
 The data warehouse contains source data from different source systems, via different extraction methodologies (i.e. Fivetran, Stich and Postgres pipeline). This page describes the different data sources and the way we extract this data via data pipelines.
- 
+
 ## GitLab Postgres Database
 
 There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
@@ -134,6 +134,18 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
  **Source freshness** is checked via the dbt functionality.
 <br> **Row count** and **Data actual** are performed via an extra `DAG`, named `gitlab_com_data_reconciliation_extract_load` in Airflow and the results are stored in snowflake table named `RAW.TAP_POSTGRES.GITLAB_PGP_EXPORT`
+
+## Service ping
+Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance.
+More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with reach documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
+
+Data is loaded into Data Warehouse in two ways: 
+    - using SQL statements from Gitlab Postgres Database Replica and
+    - RestFUL API call from Redis 
+
+### Loading instance SQL metrics
+
+### Loading instance Redis metrics
 
 ## SheetLoad
 
