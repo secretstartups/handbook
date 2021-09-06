@@ -13,7 +13,7 @@ title: "Data pipelines"
 
 ## Background
 The data warehouse contains source data from different source systems, via different extraction methodologies (i.e. Fivetran, Stich and Postgres pipeline). This page describes the different data sources and the way we extract this data via data pipelines.
-
+ 
 ## GitLab Postgres Database
 
 There are **dedicated** gitlab.com _read_ replica database instances used for data pulls into Snowflake. There are 2 replicas available, with each having their own replication frequency and behavior.  
