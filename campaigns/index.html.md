@@ -112,7 +112,7 @@ FY22 Integrated Campaigns and GTM Motions TBD. **[See Epic for FY21 Integrated C
 
 * [Epic with tactical issues](https://gitlab.com/groups/gitlab-com/marketing/-/epics/743)
 * [SDR & Sales enablement epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/874)
-* [Live landing page](https://about.gitlab.com/why/shift-your-security-scanning-left/)
+* [Live landing page](https://about.gitlab.com/solutions/dev-sec-ops/)
 * [Slack](https://gitlab.slack.com/archives/CV8GZ63GR)
 * [SFDC campaign](https://gitlab.my.salesforce.com/7014M000001df4w?srPos=0&srKp=701)
 
