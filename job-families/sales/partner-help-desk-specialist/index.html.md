@@ -10,11 +10,11 @@ The Partner Help Desk Specialist is responsible for supporting the GitLab partne
 
 ### Partner Help Desk Specialist (Intermediate)
 
-The Partner Help Desk Specialist (Intermediate) reports to the Manager, Partner Helpdesk .
+The Partner Help Desk Specialist (Intermediate) reports to the Manager, Partner Help Desk.
 
 #### Partner Help Desk Specialist (Intermediate) Job Grade
 
-The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Partner Help Desk Specialist (Intermediate) Responsibilities
 
@@ -44,11 +44,11 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 
 ### Senior Partner Help Desk Specialist
 
-The Senior Partner Help Desk Specialist reports to Manager, Partner Helpdesk .
+The Senior Partner Help Desk Specialist reports to Manager, Partner Help Desk.
 
 #### Senior Partner Help Desk Specialist Job Grade
 
-The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Partner Help Desk Specialist is a [Grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Partner Help Desk Specialist Responsibiliites
 
