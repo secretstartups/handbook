@@ -326,7 +326,7 @@ It is recommended (but not required) that managers have discussions on [Performa
 
 #### Timeline
 
-Mid-year conversations should be complete and documented by September 20, 2021 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
+Mid-year conversations should be complete and documented by October 3, 2021 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
 
 1. Conduct a single conversation on Performance/Growth/and 360 feedback results aligned with the [360 feedback cycle timeline](/handbook/people-group/360-feedback/#timeline-fy22)
 1. Conduct two separate conversations (one of Performance/Growth, and another on 360 feedback results after [reports come out](/handbook/people-group/360-feedback/#timeline-fy22)). If this option is chosen, 360 feedback results should be considered and reviewed to incorporate into Performance/Growth documentation after the fact to ensure we do not lose this data point. 
@@ -336,9 +336,9 @@ There will be a Manager training session on Performance and Growth delivered by 
 _Note: Not all division chose to participate in the 360 feedback cycle for FY'22. This is completely fine, and we recommend that Performance/Growth conversations are conducted regardless leveraging other feedback and data points pertaining to Performance and Growth._
 
 1. **2021-08-02 (APAC/Americas) and 2021-08-03 (EMEA/Americas)**: Manager training on Performance and Growth delivered by PBPs _(Note: "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.)_
-1. **2021-08-04 - 2021-08-30**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
-1. **2021-09-06**: 360 reports become available for divisions that chose to participate. 
-1. **2021-09-13 - 2021-09-27:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
+1. **2021-08-04 - 2021-09-10**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
+1. **2021-09-11**: 360 reports become available for divisions that chose to participate. 
+1. **2021-09-11 - 2021-10-03:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
 
 
 
