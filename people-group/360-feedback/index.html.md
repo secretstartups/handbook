@@ -27,18 +27,18 @@ In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we
 | 2021-07-28  | -          | AMA                                        |         |
 | 2021-08-02  | -          | Launch Date                                |         |
 | 2021-08-02  | 2021-08-15 | Nomination Phase                      | 14      |
-| 2021-08-16  | 2021-09-05 12PM PST | Feedback Phase                          | 21      |
-| 2021-09-06  | 2021-09-12 | Review Phase            | 7       |
-| 2021-09-13  | 2021-09-27 | Discussion Phase  | 14       |
+| 2021-08-16  | 2021-09-10 12PM PST | Feedback Phase                          | 28      |
+| 2021-09-11  | 2021-09-19 | Review Phase            | 7       |
+| 2021-09-20  | 2021-10-03 | Discussion Phase  | 14       |
 
 
 
 - August 2nd, 2021 - Survey Launch
 - **Nomination Phase** (2 weeks) - Team member nominates peers, manager, and any direct reports they have. Managers can adjust the peer nominations at this time and whenever the nominations are set the manager or a Culture Amp admin can launch the individual review.
-- **Feedback Phase** (3 weeks) - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. All team members will be moved from feedback phase to review phase at 12 PST on September 5th. This is a manual task that the People Ops Specialist will complete.
+- **Feedback Phase** (4 weeks) - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. All team members will be moved from feedback phase to review phase at 12 PST on September 10th. This is a manual task that the People Ops Specialist will complete.
 - **Review Phase** (1 week) -  at the close of the 360 feedback session CultureAmp will send the team member and the manager the report for review.
 - **Discussion Phase** (2 Weeks) - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-meeting).
-- September 27th  - Closing the cycle
+- October 3rd  - Closing the cycle
 - Date TBD - Feedback Retrospective issue can be found [here](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/1269).
 
 _Please note: for 360 feedback cycle we will only include team members with a hire date of before June 1st in the automatic email communications. If you are a team member with a hire date of post June 1st and you want to be added, please reach out to [People Connect](/handbook/people-group/people-connect/) to be manually added._
