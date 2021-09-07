@@ -277,8 +277,10 @@ A performance improvement plan includes the following:
     - Re-iterate that you want them to improve and you're there to support them. You will be checking their progress each week (or day if really necessary)
     - Ask them if they have any questions
     - Inform the Team Member Relations Specialist (TMR) that the PIP conversation has taken place and the document have been sent to the team member.
-    - Once the PIP has been presented to the team member the TMR will upload in Docusign and send for the team members signature.  Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred. 
-    - Once the PIP is signed and returned, the team member relations specialist will track the start and end date of the PIP in the team member relations tracking tool. 
+    - Once the PIP has been presented to the team member the TMR will upload in Hellosign and send for the team members signature.  Signing the document does not mean a team member agrees with the PIP but acknowledges that the PIP conversation between the manager and team member has occurred. 
+    - Once the PIP is signed and returned, the team member relations specialist will uploaded the PIP to the team member BambooHR file under the document tabs in the performance folder.
+    - The TMR will track the start and end of PIPs in BambooHR in the Performance and Potential Table located in the Job tab.  
+    
 1. Typically, a team member gets time (2-4 weeks depending on the role and circumstances) to demonstrate improvement and meet specific goals, outlined in the PIP. By design, a PIP is expected to support a successful and sustained improvement in performance.
     - If sufficient improvement is not made, the PIP may end early and we move to next steps in termination (steps may vary by country). 
     - If sufficient improvement is not made but progress is headed in the right direction, a PIP may be extended at the discretion of the manager. 
