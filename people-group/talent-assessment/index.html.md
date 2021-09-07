@@ -16,6 +16,14 @@ description: "Overview of three critical pieces of GitLab's talent development p
 
 The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#key-people-leave). 
 
+Additional key benefits of the Assessment Program include:
+- Help facilitate career development conversations (and ensure they're occurring regularly)
+- Ensure transparency and ongoing feedback between team members and their managers
+- Discuss promotion readiness and plan promotions
+- Succession planning
+- Increase awareness of top talent across departments (during calibration sessions)
+
+
 ### Overview 
 
 There are many talent assessment options, and we have opted to use a Performance/Growth Matrix (commonly known as "9-Box" in the US) and annually review Key Talent. 
@@ -38,6 +46,8 @@ This matrix is an individual assessment tool that evaluates both a team members 
 It is commonly used in succession planning as a method of evaluation an organization's talent pool, identifying potential leaders, and identifying any gaps or risks.
 It is regularly considered a catalyst for robust dialogue (through a calibration process) and is considered more accurate than one person's opinion.
 The performance/growth matrix can be a diagnostic tool for career development.
+
+The matrix serves as a tool to help managers assess, develop, and coach their team members - ultimately resulting in an ability to more effectively and efficiently lead teams.
 
 ## What is "Performance"?
 
@@ -182,7 +192,7 @@ Below under each pillar there are a few questions that managers should consider 
 
 ### Growth Output
 
-After assessing team member growth based on the four pillars outlined above, managers can determine whether team member growth is currently low, medium, or high. 
+After assessing team member growth based on the four pillars outlined above, managers can determine whether team member growth is currently developing, growing, or exceeding. 
 
 #### Developing
 
@@ -235,6 +245,11 @@ It is **absolutely essential** that managers complete the required pre-work to e
         - Anything else noteworthy (I.E. recently promoted, COVID impact, etc.)
 - Keep the [SBI Model](/handbook/people-group/guidance-on-feedback/#s-b-i-model) (Situation, Behavior, Impact) in mind when adding notes for strengths/accomplishments and improvement areas. Each point should include clear examples and blanket statements should be avoided. 
 - Review the notes of your peers for other team members and add feedback/questions/thoughts for discussion
+- If you did not attend the people manager live training session in August 2021, please watch the Performance/Growth Training video overview below:
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/siI3wRtQYQA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Calibration Session
 
@@ -311,7 +326,7 @@ It is recommended (but not required) that managers have discussions on [Performa
 
 #### Timeline
 
-Mid-year conversations should be complete and documented by September 20, 2021 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
+Mid-year conversations should be complete and documented by October 3, 2021 at the latest. Managers have a couple of options in terms of timeline and when to conduct these conversations:
 
 1. Conduct a single conversation on Performance/Growth/and 360 feedback results aligned with the [360 feedback cycle timeline](/handbook/people-group/360-feedback/#timeline-fy22)
 1. Conduct two separate conversations (one of Performance/Growth, and another on 360 feedback results after [reports come out](/handbook/people-group/360-feedback/#timeline-fy22)). If this option is chosen, 360 feedback results should be considered and reviewed to incorporate into Performance/Growth documentation after the fact to ensure we do not lose this data point. 
@@ -321,9 +336,9 @@ There will be a Manager training session on Performance and Growth delivered by 
 _Note: Not all division chose to participate in the 360 feedback cycle for FY'22. This is completely fine, and we recommend that Performance/Growth conversations are conducted regardless leveraging other feedback and data points pertaining to Performance and Growth._
 
 1. **2021-08-02 (APAC/Americas) and 2021-08-03 (EMEA/Americas)**: Manager training on Performance and Growth delivered by PBPs _(Note: "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.)_
-1. **2021-08-04 - 2021-08-30**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
-1. **2021-08-30**: 360 reports become available for divisions that chose to participate. 
-1. **2021-09-06 - 2021-09-20:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
+1. **2021-08-04 - 2021-09-10**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
+1. **2021-09-11**: 360 reports become available for divisions that chose to participate. 
+1. **2021-09-11 - 2021-10-03:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
 
 
 

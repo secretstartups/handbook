@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Learning Initiatives
+description: "The Learning & Development team is rolling out learning programs to enable a culture of curiosity and continual learning."
 ---
 
 ## On this page
@@ -97,14 +98,61 @@ Example of a Social Learning Live Learning Session on [Building High Performing 
 
 Social Learning can also occur in GitLab's Learning Experience Platform - [GitLab Learn](https://gitlab.edcast.com/) and asynchronous forums using GitLab. (i.e. [Manager Challenge](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/26))
 
-## Learning & Development Group Conversations
+## Learning & Development Monthly Announcements
 
-The L&D team hosts [Group Conversations](/handbook/group-conversations/) approximately every six weeks to share regular updates across all GitLab teams. All team members are invited to participate to understand and learn about the latest information for learning. Group Conversations are targeted for the largest internal audience at GitLab. The L&D team will create slides and a pre-recorded video to be watched beforehand for all attendees. 
+In FY22 Q1 and Q2, the L&D team noticed low attendance and participation in the team's group conversations. These monthly announcements are an interation on the group conversations. The goals of these announcements include:
 
+1. Announce upcoming L&D programs for team members
+1. Field async questions about L&D and from the team
+1. Increase participation from team members in all time zones
+
+### Monthly Announcement Strucutre
+
+Monthly Announcements from the L&D team are a 3-part announcement. This includes:
+
+1. Async AMA issue for sharing upcoming opportunities, key results, and threaded discussion
+2. Short, 3 minute video recorded using Loom and shared via Slack
+
+Future iterations of the announcement will include:
+
+1. Using Bananatag to share the content via email with the team and Email that highlights opportunities and results
+1. Leveraging relationships with managers and PBPs to share in division specific channels
+
+### Preparation checklist for GitLab team members
+
+1. Record short video using Loom that highlights 2-3 opportunities coming up and 1-2 key results from the previous month
+1. Open and populate an issue using the `monthly-announcement` template. Collaborate with L&D team to include all important events in this issue body.
+1. Post video, link to slides, and link to AMA issue in Slack on the first Tuesday of the month in the #whats-happening-at-gitlab Slack channel
+1. Share the post from the #whats-happening-at-gitlab channel to 
+     - the #ceo channel and tag Sid
+     - the #managers channel and ask managers to share with their teams
+     - the PBPs and ask to amplify with division leadership
+
+### Schedule
+
+Monthly announcements are shared by the L&D team on the first Tuesday of each month. Below, you'll find links to previous announcement materials.
+
+| Month | Video Link | Async AMA |
+| ----- | ----- | ----- | 
+| 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)|
+| 2021-10 | - | - |
+| 2021-11 | - | - |
+| 2021-12 | - | - |
+| 2022-01 | - | - |
+
+
+### Results
+
+The following metrics will be used to measure results of the L&D monthly announcements
+
+| Metric | Monthly Goal |
+| ----- | ----- | 
+| Total Loom Video Views | 20% of company | 
+| Total comments/questions posted on the issue | 10 | 
 
 ## Monthly Continuous Learning Call Overview
 
-At GitLab, the Learning and Development (L&D) team hosts a monthly Monthly Continuous Learning call. The series is intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. It's an opportunity to come together as an organization and highlight everything we are doing within the L&D space and to help instill a learning culture at GitLab.
+The Learning and Development (L&D) team previously hosted a monthly Monthly Continuous Learning call. The series was intended to showcase all of the L&D initatives taking place at GitLab as well as provide a space for team members to ask questions. The series was replaced in FY22 with involvement in company-wide Group Conversations in an effor to increase participation and attendance in the calls.
 
 ### Goals
 
@@ -376,7 +424,7 @@ If you are a GitLab Team Member and interested in participating in the course, y
 
 ### Setting up the Training 
 
-1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide](add link)
+1. Use the Crucial Conversations [Course Manager Tool](https://training.vitalsmarts.com/learn/sign_out?client=gitlab) and [Course Manager Guide].
 1. Ensure we have a sign up link from crucial conversations. 
 1. Once we have the link, send the invite email to all team members interested in the program. 
 1. Add all cohort participants to the [#crucial-conversations](https://app.slack.com/client/T02592416/C0258087472) Slack channel

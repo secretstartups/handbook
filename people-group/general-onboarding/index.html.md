@@ -62,10 +62,11 @@ General Topics Coveraged
 1. Once new hires have completed the form an auto-response (via Document Studio) will reply with the zoom link and the date selected.
 
 
-## Onboarding Check-In Call
-All new team members are invited to the Onboarding Check-In call. This call occurs every other Thursday in both an APAC/EMEA and an Americas friendly time.
+## Onboarding Cohorts
 
-This call is available for new team members to ask questions about onboarding, benefits, and anything else they have not been able to find the answer to. It is an AMA (Ask Me Anything) style call. Coming prepared with questions is always encouraged.
+As a way to create a connection and social element from day one, all new team members from the specific hiring month will be [added to a Slack channel](https://about.gitlab.com/handbook/people-group/people-experience-team/#onboarding-cohort-creation). This will be linked to the Donut Watercooler App, which prompt different questions for team members to answer weekly on a Tuesday and a Thursday. These questions will also be used as a general onboarding check-in. 
+
+To be more inclusive to all team members across the world and embracing our [bias towards asynchronous communication](https://about.gitlab.com/handbook/values/#bias-towards-asynchronous-communication), the onboarding cohorts has been created async.
 
 ## Slack Channel Support for New Team Members
 

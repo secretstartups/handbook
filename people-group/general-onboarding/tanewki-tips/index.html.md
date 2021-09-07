@@ -5,6 +5,7 @@ description: A guide for new team members
 ---
 
 ## On this page
+{:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
@@ -22,6 +23,7 @@ Hello! We could not be more excited to have you at GitLab. This page is here to 
 [The People Experience Team](https://about.gitlab.com/handbook/people-group/people-experience-team/) is here to help guide you in your journey here at GitLab. A memeber of the team will be assigned to your Onboarding Issue, and will be there to provide guidance as you begin onboarding. You can learn more about us below by reading our bios on the team page. 
 
 - [Alex Venter, People Experience Associate](https://about.gitlab.com/company/team/#alex_venter)
+- [Nitin Upadhyay, Sr. People Experience Associate](https://about.gitlab.com/company/team/#nutaurus)
 - [Ashley Jones, Sr. People Experience Associate](https://about.gitlab.com/company/team/#asjones)
 - [Emily Mowry, Sr. People Experience Associate](https://about.gitlab.com/company/team/#Mowry)
 - [Beverley Rufener, Manager, People Operations](https://about.gitlab.com/company/team/#brufener)

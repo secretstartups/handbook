@@ -117,7 +117,7 @@ The video below is an interivew with a GitLab team member who has used the Indiv
 
 ##### IGP Live Learning
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJezH0ToqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -145,6 +145,14 @@ Steps:
 
 - [Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development](https://www.stitcher.com/podcast/dose-of-leadership-podcast)
 
+### Career Development Handbook Learning Session
+
+On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Internal Resources
 
 During our Career Development workshops at Contribute, May 2019 we took team members through tips to creating a clear growth (aka development) plan. Below are the resources from that session:
@@ -171,10 +179,18 @@ There are various internal opportunities to expand a team member's exposure to m
 
 #### Having Career Development Conversations with your Manager
 
-The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Devleopment [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+#### Having Career Development Conversations with your Team
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Career Development Conversation Acknowledgements
@@ -321,9 +337,18 @@ In August 2021 we are holding a Career Development Skill of the Month. All items
 
 **Topic: Having Career Conversations with Your Team Members**
 
-- Career Development Interviews
+- [Career Development with Diana Stanley](https://gitlab.edcast.com/pathways/ECL-3b8242ee-8583-4dbd-80b1-e337d812d406)
+- Career Conversations with your Team
+   - [Eric Johnson](https://www.youtube.com/watch?v=hYahDZ9nIWA)
+   - [Darva Satcher](https://www.youtube.com/watch?v=F7br2CqkjGE)
+   - [Jane Gianoutsos](https://www.youtube.com/watch?v=PA3Cb51aNrA)
+- [Career Development Framework interview with Kenny Johnston](https://www.youtube.com/watch?v=dNZjmf68UIg)
 - Live Session: Having Career Conversations with Your Team Members
    - 2021-08-11 @ 12am PT 
    - 2021-08-11 @ 6am PT
    - 2021-08-11 @ 1pm PT 
+   - [Recording of call](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations-with-your-team)
 
+#### Week 5
+
+- [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)

@@ -19,7 +19,7 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 | Fact | To date 2021-03 |
 | ------ | ------ |
-| Headcount | 1,300+ |
+| Headcount | 1,400+ |
 | Countries | 65+ |
 | Remote team members | 100% |
 | Pets | 300+ |

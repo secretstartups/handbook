@@ -934,7 +934,7 @@ graph TD
     A[User Question] --> B[Determine user audience]
     B -->|Team Member| D[Support via Slack from L&D]
     B -->|Customer| E[Support via ticket from PS team]
-    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin
+    B -->|Community Member| F[Support via ticket or Community Forum answer from LXP admin]
 
 ```
 
@@ -1071,9 +1071,15 @@ The GitLab Learning and Development Team
 ### Admin Support
 
 This section outlines workflows and processes that the GitLab Learn admin can use to obtain support from EdCast.
+
+Administrators added to the Enterprise Support Community can view our team [Cases](https://edcast-support.force.com/s/case/Case/00B6g00000ChvBYEAZ) in the portal to track and respond directly to tickest with the EdCast support team.
+
 #### Submitting a feature request to EdCast
 
-To make a feature request to the EdCast product, email the EdCast team along with `support@edcast.com` with the following information:
+Submit a feature request to EdCast by either
+
+1. Opening a ticket in the [Enterprise Support Community](https://edcast-support.force.com/s/)
+1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
 ```
 1. Indicate the Enhancement Request Subject Area:
@@ -1114,7 +1120,10 @@ To make a feature request to the EdCast product, email the EdCast team along wit
 
 ##### Web Incidents
 
-To engage the EdCast team in an incident on EdCast Web, email the EdCast team with the following information:
+Submit a feature request to EdCast by either
+
+1. Opening a ticket in the [Enterprise Support Community](https://edcast-support.force.com/s/)
+1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
 ```
  
@@ -1154,7 +1163,10 @@ To engage the EdCast team in an incident on EdCast Web, email the EdCast team wi
 
 ##### Mobile Incidents
 
-To engage the EdCast team in an incident on EdCast Mobile, email the EdCast team with the following information:
+Submit a feature request to EdCast by either
+
+1. Opening a ticket in the [Enterprise Support Community](https://edcast-support.force.com/s/)
+1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
 ```
 Below is the information that would be needed when opening a “mobile” related support ticket.
@@ -1184,7 +1196,10 @@ Below is the information that would be needed when opening a “mobile” relate
 
 ##### Reporting performance issues on edcast.com
 
-To engage the EdCast team in a performance related incident, email the EdCast team with the following information:
+Submit a feature request to EdCast by either
+
+1. Opening a ticket in the [Enterprise Support Community](https://edcast-support.force.com/s/)
+1. Email `support@edcast.com` using the below template, adding as much detail as possinble:
 
 ``` 
 1. Incident Details
