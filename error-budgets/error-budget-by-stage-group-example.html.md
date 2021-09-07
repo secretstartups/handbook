@@ -48,7 +48,7 @@ We record log information for each request. We store:
 - (a variety of other things)
 
 Every endpoint is [associated with a feature category](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization). 
-We use this to help with incident response as well as to attribute error budget spend to the right state group. 
+We use this to help with incident response as well as to attribute error budget spend to the right stage group. 
 
 When we store how long it takes to generate the response, we can't store the exact duration due to size constraints. Instead we
 use a histogram with buckets of `[0.1, 0.25, 0.5, 1.0, 2.5, 5.0]` which are [defined in the metrics catalog](https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/metrics/web_transaction.rb#L9).
