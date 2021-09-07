@@ -1,9 +1,3 @@
----
-layout: handbook-page-toc
-title: "SA Career Development"
-description: "For career development Solution Architects can choose between an individual contributor or leadership track"
----
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
@@ -30,6 +24,4 @@ Solution Architects can choose between the following specialties:
 
 Solution Architects are hired through a hiring process [Solution Architect hiring process](https://about.gitlab.com/job-families/sales/solutions-architect/#hiring-process)
 
-
 [TODO] Solution Architect promotion process is listed here
-
