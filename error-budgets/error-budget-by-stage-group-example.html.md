@@ -13,7 +13,7 @@ title: "Engineering Error Budgets"
 
 Error Budgets consist of two components: Apdex and Error Rate.
 
-**Apdex**: The rate of operations that performed adequately.
+**Apdex Success Rate**: The rate of operations that were successful and performed adequately.
 
 The threshold for ‘performed adequately’ is different for each service. 
 
