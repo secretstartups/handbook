@@ -389,7 +389,7 @@ You are encouraged to share your experience as a shadow with your call group whi
 ###### E-Group Weekly Meetings and E-Group Quarterly Offsites
 {:.no_toc}
 
-The weekly e-group meetings are very fast paced with lots of back and forth between the e-group team members. Remember that notetaking should focus on capturing the conclusions at the end of the discussion. 
+The weekly E-group meeting and quarterly E-Group offsites are fast-paced, with a lot of back and forth discussion between team members. Remember that it is more important to capture accurate takeaways than precise notes if you can't type fast enough to keep up with the conversation. 
 
 Occasionaly, other team members may be invited to discuss a specific item. If so, a seperate agenda will be included in an invite adjacent to the main invite and agenda. In this case, you will need to switch between agendas as appropriate.  
 
