@@ -150,7 +150,7 @@ Any line items within a category or subcategory default inherit the details from
 - GitLab Procurement issue URL - this will auto populate for you if you've created the issue with a click of a button within Allocadia
 - GL Account - will be selected for you based on your input in Spend Type above
 
-_GitLab Internal Calendars_
+##### GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
 
@@ -353,7 +353,6 @@ Via an integration of Allocadia and Coupa, Marketers are able to create a Coupa 
 * Click on your Coupa req link and review 
 * At this point you can make any adjustments needed and even [add an approver](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-add-an-approver)
 * When you are ready to submit your req, click `Submit`
-
 
 #### Mapping Expenses
 
