@@ -14,11 +14,12 @@ description: "The Business Technology Engineering team develops custom applicati
 
 ## Who We Are
 
-The Business Technology Engineering team develops custom applications, automation, and integrations that support business efficiency and processes managed by the Business Technology department. 
-
-We also manage AWS and GCP infrastructure that is not related to GitLab.com SaaS production infrastructure and provide managed infrastructure services for other departments, including most ephemeral sandbox infrastructure needs across the company.
-
 The prime directive of the Business Technology Engineering group is to achieve maximum iteration velocity with designing, developing, and implementing automation efficiencies using software and systems to improve GitLab's business processes, software systems, and cloud infrastructure. Our collective group is broken into smaller functional teams that focus on one or more specialized areas. 
+
+The Business Technology Engineering team focuses on three primary competencies:
+1. Internally Facing Software Development and Integrations - We develop custom applications, automation, and integrations that support business efficiency and processes managed by the Business Technology department. 
+2. Cloud Infrastructure Automation and Management - We manage AWS and GCP infrastructure that is not related to GitLab.com SaaS production infrastructure and provide managed infrastructure services for other departments, including most ephemeral sandbox infrastructure needs across the company. We also handle access requests for cloud infrastructure.
+3. Tech Stack Applications Implementation Engineering - We provide implementation engineering and support for 3rd party tech stack applications that are managed by Business Technology and other non-engineering departments. We usually classify this work as "Operations Engineering".
 
 ### Engineering Team
 
