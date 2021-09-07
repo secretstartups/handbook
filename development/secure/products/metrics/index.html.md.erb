@@ -1,0 +1,73 @@
+---
+layout: handbook-page-toc
+title: "Secure Product Metrics"
+---
+
+{::options parse_block_html="true" /}
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+This page shows various metrics for the products developed and maintained by
+the [Secure Stage](/handbook/product/categories/#secure-stage)
+
+## SAST
+
+### CWE Coverage
+
+The table below shows the combined
+[Common Weakness Enumerator (CWE)](https://cwe.mitre.org/) findings reported by
+[our SAST analyzers](https://docs.gitlab.com/ee/user/application_security/sast/) on
+projects hosted on [gitlab.com](https://gitlab.com/)
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591658, dashboard: 915236, embed: 'v2') %>">
+
+The table below shows unreported CWEs.
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591665, dashboard: 915236, embed: 'v2') %>">
+
+Below you can find the occurrence-based CWE coverage broken down by analyzers.
+
+<details>
+<summary markdown="span">eslint</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591659, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+<details>
+<summary markdown="span">flawfinder</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591660, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+<details>
+<summary markdown="span">gosec</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591661, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+<details>
+<summary markdown="span">nodejs-scan</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591662, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+<details>
+<summary markdown="span">semgrep</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591663, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+<details>
+<summary markdown="span">spotbugs</summary>
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591664, dashboard: 915236, embed: 'v2') %>">
+</details>
+
+## DAST
+
+### CWE Coverage
+
+The table below shows the combined
+[Common Weakness Enumerator (CWE)](https://cwe.mitre.org/) findings reported by
+[our DAST analyzers](https://docs.gitlab.com/ee/user/application_security/dast/) on
+projects hosted on [gitlab.com](https://gitlab.com/)
+
+<embed width="100%" height="400px" src="<%= signed_periscope_url(chart: 12591657, dashboard: 915236, embed: 'v2') %>">
