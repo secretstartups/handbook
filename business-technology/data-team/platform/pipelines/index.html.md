@@ -141,12 +141,13 @@ Service Ping is a method for GitLab Inc to collect usage data on a GitLab instan
 More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
 
 Data is loaded into Data Warehouse in two ways:
-* using SQL statements from Gitlab Postgres Database Replica and
-* RestFUL API call from Redis 
+* using `SQL` statements from Gitlab Postgres Database Replica and
+* RestFUL API call from `Redis` 
 
 Implementation details from Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
 
-![Overview of data flow for saas_usage_ping](saas_service_ping_workflow.png)
+<img src="saas_service_ping_workflow.png" alt="drawing" width="800"/>
+
 
 ### Loading instance SQL metrics
 
