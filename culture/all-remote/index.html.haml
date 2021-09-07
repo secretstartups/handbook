@@ -430,9 +430,21 @@ extra_js:
                   formXDPath : "/rs/194-VVC-221/images/marketo-xdframe-relative.html"
                 });
                 MktoForms2.loadForm("//page.gitlab.com", "194-VVC-221", 2460, function(form) {
+                  let formHasFormBeenFocused = false;
+                  form.onValidate(function(){
+                    if(formHasFormBeenFocused == false){
+                      dataLayer.push({
+                        'event' : 'mktoLead', 
+                        'mktoFormId' : form.getId(),
+                        'eventCallback' : function()
+                        {}, 'eventTimeout' : 3000
+                      });
+                      formHasFormBeenFocused = true;
+                      return false;
+                    };
+                  });
                   form.onSuccess(function(values, followUpUrl) {
-                    dataLayer.push(
-                    {
+                    dataLayer.push({
                       'event' : 'mktoLead', 
                       'mktoFormId' : form.getId(),
                       'eventCallback' : function()
@@ -501,10 +513,21 @@ extra_js:
         {
           formXDPath : "/rs/194-VVC-221/images/marketo-xdframe-relative.html"
         });
-        MktoForms2.loadForm("//page.gitlab.com", "194-VVC-221", #{localvar_form_id}, function(form)
-        {
-          form.onSuccess(function()
-          {
+        MktoForms2.loadForm("//page.gitlab.com", "194-VVC-221", #{localvar_form_id}, function(form){
+          let formHasFormBeenFocused = false;
+              form.onValidate(function(){
+                if(formHasFormBeenFocused == false){
+                  dataLayer.push({
+                    'event' : 'public-sector', 
+                    'mktoFormId' : form.getId(),
+                    'eventCallback' : function()
+                    {}, 'eventTimeout' : 3000
+                  });
+                  formHasFormBeenFocused = true;
+                  return false;
+                };
+              });
+          form.onSuccess(function(){
             dataLayer.push({
               'event' : '#{localvar_form_type}', 
               'mktoFormId' : form.getId(),
