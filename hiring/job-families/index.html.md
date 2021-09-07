@@ -20,6 +20,8 @@ Job families are [organized by function in directories in the www-gitlab-com rep
     * Sometimes you should just add a level, a specialty or a segment and not create a new job family.
 1. We don't include location requirements for most roles (EMEA, Americas, APAC) in the job family because these can change over time and job families are constant.
 1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
+1. We don't include a specific number of years of experience unless absolutely neccesary. We instead say that a person in a specified role should be able to show "relevant, progressive experience" in a particular field. 
+    * For grade 4 & 5 roles, we avoid listing any kind of prior experience requirements to encourage people with unique career or educational journeys to see themselves in a particular role.
 1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. The verbiage you don't want to use includes phrases like "you will", or "exciting opportunity" or "we're hiring for".
 1. We are continually iterating on job families. Do not search other job families for examples of what good looks like. The templates below and this page are the SSOT for guidance.
 1. Team Lead vs people Manager vs function Manager: you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. There are 2 instances where a Team Lead role can be used:
