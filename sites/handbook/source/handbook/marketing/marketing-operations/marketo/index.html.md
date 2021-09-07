@@ -81,20 +81,8 @@ Each Marketo form should push an event after successful submission to trigger ev
 We add the following line above `return false` in the form embed code. Please update the event label from `demo` to reflect the appropriate form completion.
 
 ```
-let formHasFormBeenFocused = false;
-form.onValidate(function(){
-  if(formHasFormBeenFocused == false){
-    dataLayer.push({
-      'event' : 'demo', 
-      'mktoFormId' : form.getId(),
-      'eventCallback' : function(){},
-      'eventTimeout' : 3000
-    });
-    formHasFormBeenFocused = true;
-    return false;
-  };
-});
-dataLayer.push({
+dataLayer.push(
+{
   'event' : 'demo',
   'mktoFormId' : form.getId(),
   'eventCallback' : function()
