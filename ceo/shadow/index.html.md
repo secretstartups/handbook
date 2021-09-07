@@ -391,7 +391,7 @@ You are encouraged to share your experience as a shadow with your call group whi
 
 The weekly E-group meeting and quarterly E-Group offsites are fast-paced, with a lot of back and forth discussion between team members. Remember that it is more important to capture accurate takeaways than precise notes if you can't type fast enough to keep up with the conversation. 
 
-Occasionaly, other team members may be invited to discuss a specific item. If so, a seperate agenda will be included in an invite adjacent to the main invite and agenda. In this case, you will need to switch between agendas as appropriate.  
+Occasionally, other team members are invited to discuss a specific topic with E-Group. If so, a separate agenda shared with the invited team members will be included in a calendar invite adjacent to the main calendar event and agenda. In this case, shadows should take notes in the agenda for the specific topic versus the main E-Group agenda 
 
 ###### Media Briefings
 {:.no_toc}
