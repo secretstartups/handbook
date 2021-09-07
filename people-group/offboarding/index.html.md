@@ -253,12 +253,12 @@ Separation and Release of Claims Agreements ***do not*** apply for all offboardi
 
 ### Severance Process for US-based Team Members
 
-1. ***TMR***: The TMR Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
-1. ***TMR***: The TMR Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
-1. ***TMR***: The TMR Specialist should fill out the document. 
-1. ***TMR***: The TMR Specialist will ping the stock team in the stock option section of the document. 
-1. ***TMR***: The TMR Specialist will share with the PBP and Legal for final review/approval. 
-1. ***TMR***: The TMR will stage the document in DocuSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
+1. ***TMR***: The TMR Partner/Specialist assigned to the particular offboarding case at hand should select the appropriate severance template. Options include: Non-California over 40, California over 40, Non-California under 40, California under 40. 
+1. ***TMR***: The TMR Partner/Specialist should make a copy of the template and save it in the `Copies of Individual Severance Agreements` folder. 
+1. ***TMR***: The TMR Partner/Specialist should fill out the document. 
+1. ***TMR***: The TMR Partner/Specialist will ping the stock team in the stock option section of the document. 
+1. ***TMR***: The TMR Partner/Specialist will share with the PBP and Legal for final review/approval. 
+1. ***TMR***: The TMR Partner/Specialist will stage the document in DocuSign for signatures. Please note that depending on the template used, team members have a limited amount of time to sign the Separation and Release of Claims Agreement.
 
 
 *  When staging the document for signatures, please note:
