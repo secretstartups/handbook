@@ -141,8 +141,8 @@ Service Ping is a method for GitLab Inc to collect usage data on a GitLab instan
 More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
 
 Data is loaded into Data Warehouse in two ways:
-    - using SQL statements from Gitlab Postgres Database Replica and
-    - RestFUL API call from Redis 
+* using SQL statements from Gitlab Postgres Database Replica and
+* RestFUL API call from Redis 
 
 Implementation details from Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
 
@@ -152,15 +152,15 @@ Implementation details from Data team is shown under [Readme.md](https://gitlab.
 
 Data is loaded from `Postgres Sql` replica: The queries are version controlled in the very large JSON files present within this extract.  The queries are split out into two categories: instance queries and namespace queries. The instance queries generate data about GitLab.com as a whole, while the namespace queries generate data about each namespace on GitLab.com.
 Data is stored in the table:
-    - `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_METRICS"`
-    - `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up.
-    - `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_METRICS"`
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up.
+* `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
 
 ### Loading instance Redis metrics
 
 Data is picked via API, refer to API specification: [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Stored in a `JSON` format, approximately size is around 2k lines, usually one file per load _(at the moment, it is a weekly load)_. The main purpose of loading data from Redis is to ensure fine granulation of metrics.
 Data is stored in the table: 
-        - `"RAW"."SAAS_USAGE_PING"."INSTANCE_REDIS_METRICS"`
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_REDIS_METRICS"`
 
 ## SheetLoad
 
