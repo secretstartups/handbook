@@ -54,7 +54,6 @@ description: "Learn more about the Product Career Development Framework Working 
 | Executive Sponsor     | Anoop Dawar | VP, Product Management |
 | Facilitator           | Jackie Porter | Group Manager, Product |
 | Contributor           | Farnoosh Seifoddini | Principal PM, Product Operations|
-| Contributor           | Kenny Johnston  |  Senior Director of Product, Ops  |
 | Functional Lead       | Hila Qu |  Director of Product, Growth |
 | Functional Lead       | Joshua Lambert | Director of Product, Enablement |
 | Functional Lead       | David DeSanto  | Senior Director of Product, Dev & Sec |
