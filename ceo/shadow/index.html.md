@@ -385,6 +385,13 @@ You will not attend a meeting when:
 When it comes time for the [Social calls](/handbook/communication/#social-call), CEO shadows should attend on their own.
 You are encouraged to share your experience as a shadow with your call group while you are shadowing.
 
+###### E-Group Weekly Meetings and E-Group Quarterly Offsites
+{:.no_toc}
+
+The weekly E-group meeting and quarterly E-Group offsites are fast-paced, with a lot of back and forth discussion between team members. Remember that it is more important to capture accurate takeaways than precise notes if you can't type fast enough to keep up with the conversation. 
+
+Occasionally, other team members are invited to discuss a specific topic with E-Group. If so, a separate agenda shared with the invited team members will be included in a calendar invite adjacent to the main calendar event and agenda. In this case, shadows should take notes in the agenda for the specific topic versus the main E-Group agenda 
+
 ###### Media Briefings
 {:.no_toc}
 
