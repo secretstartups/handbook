@@ -36,8 +36,8 @@ The SKO core team also includes an executive sponsor (VP, Field Ops) with respon
 
 | Sub-Team | Responsibilities | Key Collaborators |
 | ------ | ------ | ------ |
-| Event Support & Logistics | - Brand / Design<br>- Budget management<br> Venue details<br>- Partner Summit logistics<br>- F&B (onsite & offsite)<br>- Registration<br>- Run of show<br>- Event check-in<br>- Signage<br>- Mobile app<br>- Ancillary events (if applicable) | - Brand<br>- Field Enablement<br>- Channel Programs |
-| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** _see additional details below_ | ** _see additional details below_ |
+| Event Support & Logistics | - Brand / Design<br>- Budget management<br>- Venue details<br>- Partner Summit logistics<br>- F&B (onsite & offsite)<br>- Registration<br>- Run of show<br>- Event check-in<br>- Signage<br>- Mobile app<br>- Ancillary events (if applicable) | - Brand<br>- Field Enablement<br>- Channel Programs |
+| Content | - Mainstage content<br>- Non-mainstage content<br>- Partner Summit content<br>- Awards & Compensation<br>- Production Video<br><br> ** _see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below_ | ** _see additional details in the [Content Sub-Team Deeper Dive](/handbook/sales/training/SKO/SKO-planning/#content-sub-team-deeper-dive) section below_ |
 | Communications | - Comms plan<br>- Event copy<br>- Slack channels<br>- Survey planning & execution<br>- Post-event content sharing<br>- Event summary / wrap-up | Events |
 
 ### Content Sub-Team Deeper Dive
@@ -48,12 +48,12 @@ The SKO core team also includes an executive sponsor (VP, Field Ops) with respon
 | Non-mainstage | - Role-based breakouts<br>- Birds of a Feather sessions | - Events<br>- Portfolio Marketing<br>- Field org |
 | Partner Summit | - Partner Summit sessions<br>- Partner sponsorships | - Events<br>- Portfolio Marketing<br>- Field Enablement |
 | Awards & Compensation | - Tracking final results<br>- Awards<br>- President’s Club winners<br>- Comp Overview | - Events<br>- CRO leaders |
-| Production Video | - Video for mainstage sessions <br>- Video content production for SKO and Partner Summit, Event recording, Other (Lauren Conway) | - Digital Production<br>- Events<br>- Field Enablement<br>- Channel |
+| Production Video | - Video for mainstage sessions <br>- Video content production for SKO and Partner Summit, Event recording, and Other | - Events<br>- Digital Production<br>- Field Enablement<br>- Channel |
 
 ## Managing SKO Work
 Scheduling and logistics are managed in a [Sales Kickoff (SKO) 2022 Agenda & Logistics](https://docs.google.com/spreadsheets/d/1jhcTMj5ypA5KWEqXvHhp5ujnzV70jkMpIjO9h_Y9jOU/edit?usp=sharing) Google sheet, while actual work is managed in GitLab. 
 
-SKO work within GitLab is managed in epics and issues (see [SKO 2022 meta epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/2). Sub-team DRIs are empowered to manage their child epics and issues as they see fit.
+SKO work within GitLab is managed in epics and issues (see [SKO 2022 meta epic](https://gitlab.com/groups/gitlab-com/marketing/sales-kick-off/-/epics/2)). Sub-team DRIs are empowered to manage their child epics and issues as they see fit.
 
 The [Sales Kickoff (SKO) 2022 Agenda & Logistics](https://docs.google.com/spreadsheets/d/1jhcTMj5ypA5KWEqXvHhp5ujnzV70jkMpIjO9h_Y9jOU/edit?usp=sharing) Google sheet contains:
 
@@ -121,7 +121,7 @@ Below is are the criteria used to select submissions for SKO breakout sessions.
 1. Proposed session is interactive and takes advantage of in-person modality
 1. High content quality
 1. Fresh content (not a rehash of old ideas or topics)
-1. Session topic embodies the CREDIT values
+1. Session topic embodies the [GitLab values](/handbook/values/)
 1. Content fits well in the landscape of all other topics being chosen (i.e. a blend of technical, functional/soft skill topics) 
 
 **Selection Process**
