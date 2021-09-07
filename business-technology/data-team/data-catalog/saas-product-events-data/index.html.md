@@ -1,39 +1,28 @@
 ---
 layout: handbook-page-toc
 title: "SaaS Product Events Data"
-description: "Product Events Data provides measurements of how"
----
-
-## On this page
-- TOC
-{:toc}
-
-{::options parse_block_html="true" /}
-
----
-## SaaS Product Events Data---
-layout: handbook-page-toc
-title: "SaaS Product Events Data"
 description: "Product Usage Data provides quantitative measurement of how, when, and where Paid and Free Users are using GitLab as a product."
 ---
-
-## On this page
-- TOC
-{:toc}
-
 {::options parse_block_html="true" /}
 
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .toc-list-icons .hidden-md .hidden-lg}
+
 ---
+
 ## SaaS Product Events Data
 
-SaaS Product Events Data Pipeline provides business users (Product Analysts, Growht PMs, Core Product PMs) with a set of fact and mart tables capturing user ans namespace activity for our SaaS Product (Gitlab.com).
+The **SaaS Product Events Data Pipeline** provides business users (Product Analysts, Growth PMs, Core Product PMs, and others) with a set of fact and mart tables capturing user ans namespace activity for our SaaS Product (Gitlab.com).
 
-The versatility of this table allows business stakeholders to perform a large array of analyses, such as the examples provided below.```
+The versatility of this table allows business stakeholders to perform a large array of analyses, such as the examples provided below.
 
 ### Type of Analysis that can be performed
 
 1. [User Journey Analysis](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard): See how often different product stages are used by the same namespaces. See what stages are used in combination.
-1. [New Namespace Stage Adoption](https://app.periscopedata.com/app/gitlab/761347/Group-Namespace-Conversion-Metrics): Evaluate how often new namespaces are adopting stages such as 'Create' and 'Verify' within their first days of use.
+1. [Namespace Stage Adoption](https://app.periscopedata.com/app/gitlab/761347/Group-Namespace-Conversion-Metrics): Evaluate how often new namespaces are adopting stages such as 'Create' and 'Verify' within their first days of use.
 1. [Stages per Organization](https://app.periscopedata.com/app/gitlab/824044/Stages-per-Organization-Deep-Dive---SpO): Identify how namespaces adopt stages within their first days and how this correlates with paid conversion and long-term engagement.
 
 
@@ -150,8 +139,4 @@ Don't hesitate to ask any questions regarding your MR to Data Team members eithe
 ##### Backfill the data
 
 Once the data is merged, you need to backfill the prep_event data. For this, please ask a Data Engineer to trigger the [Airflow Dag called t_prep_dotcom_usage_events_backfill](https://airflow.gitlabdata.com/tree?dag_id=t_prep_dotcom_usage_events_backfill) which will run the backfill for the last 3 years of data.
-
-
-
-
 
