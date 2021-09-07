@@ -345,7 +345,7 @@ GitLab has an entity (Ireland LTD) in Ireland . All team members in this locatio
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
 ## Process for GitLab Team Members in Singapore, South Korea, or France
-GitLab has an entity (Ireland LTD) in Ireland . All team members in this location are employees, but payroll will be processed through Global Upside. Please be sure to select the correct docusign email template so they will be CC'ed as the final step of the offer process.
+GitLab has entities in Singapore, South Korea, and France. All team members in this location are employees, but payroll will be processed through Global Upside. Please be sure to select the correct docusign email template so they will be CC'ed as the final step of the offer process.
 
 Reminder: France requires contracts to be individually drafted by the Legal team. There is a [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0) where we keep track of these requests. 
 
