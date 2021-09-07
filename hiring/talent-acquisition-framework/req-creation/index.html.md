@@ -253,19 +253,20 @@ Also, if this is your first time conducting interviews on behalf of GitLab I wi
 As always, If you have any questions let me know!
 Thanks, xxx
 
-### Reqs going Outbound to Inbound (DRI: CES Team)
+### Reqs going Outbound to Inbound 
 
-Once it's been decided that the req is ready to go inbound, the recruiter should tag CES in the req. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
+Once it's been decided that the req is ready to go inbound, the recruiter should follow the steps below to ensure the job shows up correctly on 3rd party job boards.
 
-If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. LinkedIn will pull the specific country from the `Publish to Free Job Boards` location within Greenhouse.
+If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. LinkedIn will pull the specific country from the `Publish to Free Job Boards` location within Greenhouse. 
 
-If the job is regional (e.g. APAC, EMEA, LATAM), the CES will make sure this role is added to LinkedIn by following the steps below:
+If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is added to LinkedIn by following the steps below:
 
 - Click on the < > on the menu bar in the description text box to open the source code
 - Scroll to the bottom of the pop-up
 - Paste the following HTML `<div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div>` at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
-- Please copy directly from the sheet because spaces matter.
-- The default tag should be Remote-Global if no other locations were given by the recruiter.
+- Please copy directly from the sheet because spaces matter
+- The default tag should be Remote-Global if no other locations were given by the recruiter
+- GitLab team members can review [job wrapping tags here](https://docs.google.com/spreadsheets/d/1CrrPGk3imxrap7Na3AQTQ0lmw2ENyZ51/edit?usp=sharing&ouid=100237668635376025864&rtpof=true&sd=true)
 - Click Ok
 
 If multiple tags are added to the description, please enter the additional tag on a new line. For example:
