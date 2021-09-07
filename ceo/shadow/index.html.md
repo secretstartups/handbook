@@ -149,13 +149,13 @@ Shadows who have chosen to delay their rotations until another time include:
 - Liam McNally
 - Bartek Marnane
 
-### How to apply 
+### How to apply
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
 1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
 1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team), link to the merge request in the `#ceo-shadow` channel, and `@mention` the Executive Business Admin supporting the CEO in the message.
 
-Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises. 
+Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises.
 
 
 ### Parental Participation
@@ -190,10 +190,10 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-07 | 2021-09-10 | [Kris Reynolds](https://about.gitlab.com/kreykrey) - Manager, Field Enablement Programs| [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
 | 2021-09-13 | 2021-09-17 | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote | [Kris Reynolds](https://about.gitlab.com/kreykrey) - Manager, Field Enablement Programs |
 | 2021-09-20 | 2021-09-24 | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote |
-| 2021-09-27 | 2021-10-01 | AVAILABLE - REMOTE | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
+| 2021-09-27 | 2021-10-01 | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
 | 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
 | 2021-10-11 | 2021-10-15 | UNAVAILABLE | UNAVAILABLE |
-| 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | AVAILABLE - REMOTE |
+| 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity |
 | 2021-10-25 | 2021-10-29 | AVAILABLE - REMOTE | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations |
 | 2021-11-01 | 2021-11-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-08 | 2021-11-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
@@ -242,9 +242,9 @@ Outgoing shadows are responsible for training incoming shadows. We currently tra
 
 Consider adding goals for your time as a CEO Shadow, and adding them to your onboarding issue. To make your goals more ationable, you may want to use the [SMART goals framework](https://www.mindtools.com/pages/article/smart-goals.htm).
 
-Doing this will help you reflect upon your overall CEO Shadow experience more easily, and it may help you write a better blog post after you complete the program. 
+Doing this will help you reflect upon your overall CEO Shadow experience more easily, and it may help you write a better blog post after you complete the program.
 
-For inspiration, here is [an example](https://gitlab.com/nmccorrison/ceo-shadow/-/issues/1#my-goals) of a CEO Shadow who added goals to their onboarding issue. 
+For inspiration, here is [an example](https://gitlab.com/nmccorrison/ceo-shadow/-/issues/1#my-goals) of a CEO Shadow who added goals to their onboarding issue.
 
 #### Practice your introduction
 
@@ -260,7 +260,7 @@ Feel free to schedule a coffee chat with any of the CEO Shadow Alumni. You can r
 
 #### Coffee Chat with the CLO
 
-Due to the sensitivity of some of the conversations you'll be listening in on, you may end up having questions about what you can talk about or share with others. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST. 
+Due to the sensitivity of some of the conversations you'll be listening in on, you may end up having questions about what you can talk about or share with others. Should it be useful or complementary to your time as a CEO Shadow, our [Chief Legal Officer (CLO)](/job-families/legal/chief-legal-officer/) hosts Monthly Shadow Chats on the 3rd Tuesday of every month at 08:30 PST.
 
 Please @ mention the CLO's [Sr. EBA](/handbook/eba/#executive-business-administrator-team) in `#ceo-shadow` should you wish to be added to an upcoming session, or if you would like to schedule a 1:1 coffee chat with the CLO. This option is available to all Shadows, past, present, and future.
 
@@ -386,9 +386,9 @@ You are encouraged to share your experience as a shadow with your call group whi
 ###### E-Group Weekly Meetings and E-Group Quarterly Offsites
 {:.no_toc}
 
-The weekly E-group meeting and quarterly E-Group offsites are fast-paced, with a lot of back and forth discussion between team members. Remember that it is more important to capture accurate takeaways than precise notes if you can't type fast enough to keep up with the conversation. 
+The weekly E-group meeting and quarterly E-Group offsites are fast-paced, with a lot of back and forth discussion between team members. Remember that it is more important to capture accurate takeaways than precise notes if you can't type fast enough to keep up with the conversation.
 
-Occasionally, other team members are invited to discuss a specific topic with E-Group. If so, a separate agenda shared with the invited team members will be included in a calendar invite adjacent to the main calendar event and agenda. In this case, shadows should take notes in the agenda for the specific topic versus the main E-Group agenda 
+Occasionally, other team members are invited to discuss a specific topic with E-Group. If so, a separate agenda shared with the invited team members will be included in a calendar invite adjacent to the main calendar event and agenda. In this case, shadows should take notes in the agenda for the specific topic versus the main E-Group agenda
 
 ###### Media Briefings
 {:.no_toc}
@@ -425,12 +425,12 @@ Personal meetings will be marked as "busy" on the calendar. Shadows do not atten
 ##### CEO Handbook Learning Sessions
 {:.no_toc}
 
-The CEO and the [Learning & Development](/handbook/people-group/learning-and-development/) team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following: 
+The CEO and the [Learning & Development](/handbook/people-group/learning-and-development/) team host weekly [handbook learning sessions](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions) to record videos for handbook pages. During these sessions, CEO Shadows are recommended to do the following:
 1. Follow the [agenda doc](https://docs.google.com/document/d/1dKmYWl1OQB5LIm43iZv5ExZz8Iqty2kiys3RuVUVRhs/edit#heading=h.954v91mukl7r) during the session
 1. Take notes of important points during the call (no need to be comprehensive, this is geared towards improvements later on) and collaborate with the CEO shadows on points to include on the page
 1. Open an MR for the specific page being discussed during or following the recording
-1. Make updates to the page based on points captured in the agenda doc and discussion, ([example MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/77125/diffs#4b5137b156df6eb619d14177c6847ba13f774506)). 
-1. The goal is to make five improvements to the page 
+1. Make updates to the page based on points captured in the agenda doc and discussion, ([example MR](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/77125/diffs#4b5137b156df6eb619d14177c6847ba13f774506)).
+1. The goal is to make five improvements to the page
 1. Following the recording, include the video on the respective handbook page
 1. Solicit feedback on the MR with the [L&D team](/handbook/people-group/learning-and-development/#ld-organization) and CEO in the CEO channel
 1. Make additional MR's to the specific page if necessary
@@ -452,7 +452,7 @@ At the conclusion of the call, the CEO Shadows should remove themselves from doc
 
 #### Responsibilities
 
-Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting.   
+Meetings come in many different formats. Your responsibilities may change slightly based on the kind of meeting.
 
 Here are the responsibilities shadows have during meetings:
 
@@ -469,7 +469,7 @@ Here are the responsibilities shadows have during meetings:
 
 Assume that you are taking notes in a Google Doc affixed to the meeting invite unless it is explicitly stated not to take notes.
 
-If you're unsure whether or not to take notes, default to take them, ask the CEO before the meeting begins, or ping the [EBAs](/handbook/eba/#executive-business-administrator-team) on Slack via `#ceo-shadow` or `ceo-shadow-private` (depending on the sensitivity of the meeting).   
+If you're unsure whether or not to take notes, default to take them, ask the CEO before the meeting begins, or ping the [EBAs](/handbook/eba/#executive-business-administrator-team) on Slack via `#ceo-shadow` or `ceo-shadow-private` (depending on the sensitivity of the meeting).
 
 
 ##### Taking notes
@@ -478,7 +478,7 @@ If you're unsure whether or not to take notes, default to take them, ask the CEO
   <iframe src="https://www.youtube.com/embed/DtRWvIzOnP4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in. 
+The goal of the notes is to collect the main points and outcomes, not a full transcript of the conversation. As you are taking notes, be mindful that the goal of the program is to absorb what is being said in the meetings you are in.
 
 In many instances, when shadows are taking notes during meetings, the discussion is moving too quickly to fully or accurately capture all of the discussion points. Additionally, the shadows may not be fully aware of the full context of the discussion or familiar with certain terminology being used in the meeting. The meeting notes are also not reviewed nor approved by the meeting attendees. Accordingly, meeting notes should not be the SSOT for any meeting as they may not fully or accurately capture the discussion that was had at the meeting.
 
@@ -499,30 +499,30 @@ Tips:
 
 ##### Keeping time
 
-Shadows are responsible for being aware of the current time and verbally providing timekeeping in many [types of meetings](#responsibilities). This allows participants to comfortably wrap up the meeting. 
+Shadows are responsible for being aware of the current time and verbally providing timekeeping in many [types of meetings](#responsibilities). This allows participants to comfortably wrap up the meeting.
 
-**Tips for time-keeping:** 
-- Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable. 
-- Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings). 
-- **Shadows should provide a 5-minute and 1-minute verbal notification (and a notification on Zoom chat, if possible).** While it might feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". If a meeting is running over the allocated time, say "we're in overtime". 
+**Tips for time-keeping:**
+- Decide who. Past shadows have found it helpful for the individual in the second week of the program to commit to keeping time when applicable.
+- Understand meeting length. Use the calendar invite as an indication of how long the meeting should last. Remember, we do [speedy meetings](/handbook/communication/#scheduling-meetings).
+- **Shadows should provide a 5-minute and 1-minute verbal notification (and a notification on Zoom chat, if possible).** While it might feel awkward to interrupt the flow of a conversation to provide a verbal time cue, it is more respectful to signal a 5-minute warning than to allow a call to end abruptly. Don't wait for a break in the conversation; unmute and say "Hi all, we have 5 minutes left" or "Time check, 5 minutes". If a meeting is running over the allocated time, say "we're in overtime".
 
 **Tools to help.**
 
-You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat in addition to verbalizing it. At the end of the meeting, the same will occur with "We are at time". 
+You can use this [shell script](setalarm.sh) (MacOS only) to run a timer for the desired number of minutes. The script will notify you 5 minutes before the end of the meeting, and will copy "We have five minutes left" to you clipboard, so you can paste the text directly in the Zoom chat in addition to verbalizing it. At the end of the meeting, the same will occur with "We are at time".
 
 To use the script:
 1. Download [setalarm](setalarm.sh), making sure to preserve the .sh extension. (recommended within your Home folder for easy access)
 1. Load MacOS Terminal by running `Cmd+Space` and typing `terminal`.
 1. Run `source setalarm.sh` to load the `setalarm` function into memory.
-1. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided). 
+1. Then simply type `setalarm 50` to set a 50-minute timer (`setalarm` defaults to 25 minutes if no argument is provided).
 
-Press `Ctrl+C` if you need to cancel the alarm. You may keep the terminal window running indefinitely so that it is at your finger tips throughout your program duration. 
+Press `Ctrl+C` if you need to cancel the alarm. You may keep the terminal window running indefinitely so that it is at your finger tips throughout your program duration.
 
 A handy App for time keeping is Senzillo's "Speech Timer for Talks".  It is available for [iOS](https://apps.apple.com/us/app/speech-timer-for-talks/id979433325) and [Android](https://play.google.com/store/apps/details?id=senzillo.talk_timer_free&hl=en_US&gl=US). Compared to other apps, this timer is easy to setup for the meeting warning levels and to switch between meeting time lengths. It costs $1 to have 3 warning levels - purchasing the application is not required if you just wish to have one warning visualization and watch the timer for the others.
 
 ##### If you see something, say something
 
-Shadows should notify GitLab meeting participants if their [name and job title](/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) are not mentioned on Zoom.  
+Shadows should notify GitLab meeting participants if their [name and job title](/handbook/tools-and-tips/zoom/#adding-your-title-to-your-name) are not mentioned on Zoom.
 
 If a GitLab team member is sharing their screen before introductions have occurred, shadows should remind GitLab presenters that GitLab does not [recommend sharing screens during zoom meetings](https://about.gitlab.com/handbook/tools-and-tips/zoom/#sharing-your-screen-in-zoom) and to please wait until after introductions have been completed to allow participants to see each other clearly during introductions. This is especially important during external calls when participants are meeting each other for the first time.
 
@@ -533,13 +533,13 @@ Shadows need to speak up in video calls, and speak up when the CEO's camera isn'
 
 ##### Notify CEO on use of 'I think'
 
-When attending **external meetings**, notify the CEO in a private Zoom chat message when the CEO uses the phrase `I think`. [Hedge words](https://ethos3.com/2020/02/hedging-the-speaking-habit-harming-your-credibility/) can have the effect of making the speaker seem uncertain or unconfident. 
+When attending **external meetings**, notify the CEO in a private Zoom chat message when the CEO uses the phrase `I think`. [Hedge words](https://ethos3.com/2020/02/hedging-the-speaking-habit-harming-your-credibility/) can have the effect of making the speaker seem uncertain or unconfident.
 
 In internal meetings, `I think` can be used to signal opportunity for others to present a contrasting opinion.
 
 #### CEO shadow introductions
 
-+**Order of introductions:** At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. During some meetings, Sid may decide the order for CEO Shadow introductions by mentioning one of the CEO Shadows first, usually the CEO Shadow who is completing their last week in the two week program. 
++**Order of introductions:** At the start of meetings, CEO shadows will introduce themselves. There is no set order for which shadow introduces themselves first. Sometimes one shadow will arrive to the meeting first, and make their introduction as the **first shadow** to speak. During some meetings, Sid may decide the order for CEO Shadow introductions by mentioning one of the CEO Shadows first, usually the CEO Shadow who is completing their last week in the two week program.
 
 It's important to set the correct tone, so please stick to the following introductions verbatim.
 
@@ -551,7 +551,7 @@ When introducing yourself in a meeting as the first shadow, say:
 
 1. I'm NAME.
 1. I normally am a/the TITLE.
-1. This is my first/last week in the two-week CEO shadow program.  
+1. This is my first/last week in the two-week CEO shadow program.
 1. **For GitLab-related meetings:** The goal of the program is to give participants an overview of the functions at GitLab.
 1. **For Valley meetings (not related to GitLab):** The goal of the program is to give participants an introduction to Silicon Valley discussions.
 
