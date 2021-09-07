@@ -44,7 +44,7 @@ Increase engineer productivity by fixing and improving our frontend build toolin
 
 ## Conclusion
 
-This effort is now looked after by the [Frontend Foundation category](https://about.gitlab.com/direction/create/ecosystem/frontend-ux-foundations/) of the [Ecosystem group](https://about.gitlab.com/direction/create/ecosystem/).
+This effort is now looked after by the [Ecosystem:Foundations group](/direction/ecosystem/foundations/).
 
 ## Roles and Responsibilities
 

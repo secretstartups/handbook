@@ -82,7 +82,7 @@ For clarification, this working group is focused on horizontal scaling across mu
 | Member | Brent Newton | Director, Infrastructure, Reliability Engineering |
 | Member | Dilan Orrino | Senior Prouct Manager, Distribution |
 | Member | Mark Wood | Senior Prouct Manager, Create:Gitaly |
-| Member | Zeger-Jan van de Weg | Engineering Manager, Gitaly |
+| Member | TBD | Engineering Manager, Gitaly |
 
 ## Related Links
 

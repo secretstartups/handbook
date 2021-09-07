@@ -17,12 +17,13 @@ Like all groups at GitLab, a [working group](https://en.wikipedia.org/wiki/Worki
 
 ### CEO Handbook Learning Discussion on Working Groups
 
-GitLab's CEO, Sid, and Chief of Staff, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).  
+GitLab's CEO, Sid, and Chief of Staff, Stella, and the Learning & Development team discuss Working Groups in detail during a [CEO handbook learning session](/handbook/people-group/learning-and-development/learning-initiatives/#ceo-handbook-learning-sessions).
 
-Topics covered include: 
+Topics covered include:
 1. What is a working group
 2. When to start a working group
-3. Difference between project managers and working groups
+3. Difference between project managers and working groups. 
+   1. Note: GitLab does not internally have project managers. Individual team members should have agency and accountability. We don't want someone who just tracks the status of work and makes updates. We want people to do this directly, and we want the [DRI](/handbook/people-group/directly-responsible-individuals/) to own the process and outcome. This supports accountability. We sometimes have project managers when interacting with external organizations, because accountability is harder when working with external parties.
 4. Lessons learned from previous working groups
 5. Why and how working groups support cross-functional projects
 
@@ -99,8 +100,8 @@ If something isn't on our [Not Public list](/handbook/communication/#not-public)
    1. Create an overview page and add the link to [Active Working Groups](/company/team/structure/working-groups/#active-working-groups-alphabetic-order). You can share limited information, but capture key team members, including the facilitator, executive stakeholder, and functional lead.
    1. If working in the handbook, evaluate whether the page should be confidential or be housed in a new project with limited access. Consider working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook). We use this when information may need to be iterated on or MR branches may need to be created in staging before it is made public. Outside of E-Group, temporary access may be granted on a project-specific basis.
    1. Maintain a list of working group members and other folks who are participating in or informed of the project. This list should be available to all participating team members. Folks should not be added to this list until it is confirmed that they understand what can be communicated.
-   1. Ensure that each working group team member understands what can be communicated externally and internally. 
-   1. Have private Slack channels that include folks who are directly working on the project. 
+   1. Ensure that each working group team member understands what can be communicated externally and internally.
+   1. Have private Slack channels that include folks who are directly working on the project.
    1. Limit the agenda to a specific set of folks.
 1. Communicate the results
    1. Communicate results and progress to the direct working group or other key stakeholders to ensure that folks are aligned and have context on key happenings. Do not share sensitive information outside of private channels.
@@ -109,7 +110,7 @@ If something isn't on our [Not Public list](/handbook/communication/#not-public)
    1. Evaluate which artifacts and communication material can be made internally available or public.
       1. If you were working in the [staging handbook](/handbook/handbook-usage/#the-staging-handbook), follow instructions to make a merge request against the public repo.
       1. Transition members to public Slack channels and archive private channels.
-      1. Deprecate private agendas. Link this to a new agenda document. 
+      1. Deprecate private agendas. Link this to a new agenda document.
       1. Consider making GitLab Groups and Projects public or avialable to a broader audience.
 
 ## Participating in a Working Group
@@ -122,15 +123,15 @@ If you are interested in participating in an active working group, it is general
 * [Category Creation](/company/team/structure/working-groups/category-creation/)
 * [China Service](/company/team/structure/working-groups/china-service/)
 * [Database Scalability](/company/team/structure/working-groups/database-scalability/)
+* [Frontend Observability](/company/team/structure/working-groups/frontend-observability/)
 * [GitLab.com Disaster Recovery](/company/team/structure/working-groups/disaster-recovery/)
 * [GTM Product Analytics](/company/team/structure/working-groups/product-analytics-gtm/)
-* [Handbook Separation](/company/team/structure/working-groups/handbook-separation/)
 * [IACV - Delta ARR](/company/team/structure/working-groups/iacv-delta-arr/)
 * [Improve Ops Quality](/company/team/structure/working-groups/improve-ops-quality/)
-* [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage)
 * [Issue Prioritization Framework](/company/team/structure/working-groups/issue-prioritization-framework/)
+* [Merge Request Report Widgets](/company/team/structure/working-groups/merge-request-report-widgets/)
+* [MLOps](/company/team/structure/working-groups/mlops/)
 * [Multi-Large](/company/team/structure/working-groups/multi-large/)
-* [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
 * [Pipeline Validation Service Operations](/company/team/structure/working-groups/pipeline-validation-service-operations/)
 * [Real-Time](/company/team/structure/working-groups/real-time/)
 * [Talent Acquisition SSOT](/company/team/structure/working-groups/recruiting-ssot/)
@@ -151,6 +152,7 @@ If you are interested in participating in an active working group, it is general
 * [GitLab.com Revenue](/company/team/structure/working-groups/gitlab-com-revenue)
 * [gitlab-ui (CSS and Components)](/company/team/structure/working-groups/gitlab-ui/)
 * [IC Gearing](/company/team/structure/working-groups/ic-gearing)
+* [Internal Feature Flag usage](/company/team/structure/working-groups/feature-flag-usage)
 * [Isolation](/company/team/structure/working-groups/isolation/)
 * [Licensing and Transactions Improvements](/company/team/structure/working-groups/licensing-transactions-improvements/)
 * [Log Aggregation](/company/team/structure/working-groups/log-aggregation/)
@@ -159,6 +161,7 @@ If you are interested in participating in an active working group, it is general
 * [Performance Indicators](/company/team/structure/working-groups/performance-indicators/)
 * [Product Analytics](/company/team/structure/working-groups/product-analytics/)
 * [Product Development Flow](/company/team/structure/working-groups/product-development-flow/)
+* [Product Engagement Actions (FY21)](/company/team/structure/working-groups/FY21-product-engagement-actions/)
 * [Secure Offline Environment Working Group](/company/team/structure/working-groups/secure-offline-environment/)
 * [Self-Managed Scalability](/company/team/structure/working-groups/self-managed-scalability/)
 * [Sharding](/company/team/structure/working-groups/sharding)

@@ -28,7 +28,7 @@ description: "Learn more about the Product Career Development Framework Working 
 
 ## Business Goals
 
-1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles to Group Manager of Product based on new competencies by 2021-09-30. 
+1. Deliver a revised [Product Career Development Framework](https://about.gitlab.com/handbook/product/product-manager-role/product-CDF-competencies/#product-management-career-development-framework) for Individual Contributor roles in Product based on new competencies by 2021-12-31. 
 1. Conduct AMAs and training with Product Organization on new CDFs for use in FY22-Q4 Career Conversations. 
 
 ### Protocols and Processes
@@ -54,7 +54,6 @@ description: "Learn more about the Product Career Development Framework Working 
 | Executive Sponsor     | Anoop Dawar | VP, Product Management |
 | Facilitator           | Jackie Porter | Group Manager, Product |
 | Contributor           | Farnoosh Seifoddini | Principal PM, Product Operations|
-| Contributor           | Kenny Johnston  |  Senior Director of Product, Ops  |
 | Functional Lead       | Hila Qu |  Director of Product, Growth |
 | Functional Lead       | Joshua Lambert | Director of Product, Enablement |
 | Functional Lead       | David DeSanto  | Senior Director of Product, Dev & Sec |
@@ -64,6 +63,7 @@ description: "Learn more about the Product Career Development Framework Working 
 | Reviewer              | Taylor McCaslin | Principal PM, Secure|
 | Reviewer              | Christen Dybenko | Senior Product Manager|
 | Reviewer              | Viktor Nagy | Senior Product Manager|
+| Reviewer              | Keith Chung | Senior Director, Pricing |
 
 ## Meetings
 
