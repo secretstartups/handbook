@@ -13,10 +13,10 @@ description: "November edition of the Field Flash Newsletter sent to the GitLab 
 *This email newsletter was originally emailed to the GitLab Field Team and stakeholders on 2020-11-02.*
 
 ## NEW ⚡️ GitLab Field Flash: November Edition⚡️
-Congratulations on the close of another successful quarter, and welcome to Q4! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find new GitHub and CircleCI competitive resources, a developer-led landscape report, two new ABM target lists, a new Partner Deal Registration system, and more. Plus, the H-E-B account team hosts the Deal of the Month. And, we learn more about our legal counterpart Rob Nalen in his (newly redesigned) team member spotlight. (***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
+Congratulations on the close of another successful quarter, and welcome to Q4! In this month's [Field Flash](/handbook/sales/field-communications/field-flash-newsletter/#overview), you'll find new GitHub and CircleCI competitive resources, a developer-led landscape report, two new ABM target lists, a new Partner Deal Registration system, and more. Plus, the account team for a large US food retailer hosts the Deal of the Month. And, we learn more about our legal counterpart Rob Nalen in his (newly redesigned) team member spotlight. (***Pro Tip:*** Don’t forget to click the “View entire message” link at the bottom of this email when viewing in Gmail to see the full newsletter each month!)
 
 ### Deal of the Month 🏅
-Matt Petrovick, David Astor, and Taylor McCaslin share more about how security, trust, and collaboration helped them close a 4-year upgrade and growth in 1,500 Ultimate SaaS licenses with H-E-B Digital!
+Matt Petrovick, David Astor, and Taylor McCaslin share more about how security, trust, and collaboration helped them close a 4-year upgrade and growth in 1,500 Ultimate SaaS licenses with a large US food retailer!
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/F4SBwde9Kdo" frameborder="0" allowfullscreen="true"> </iframe>

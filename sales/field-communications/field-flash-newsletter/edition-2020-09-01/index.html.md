@@ -135,7 +135,7 @@ As a part of v1.2, Product Marketing has created a [GitLab Customer Use Case Sol
 Should we expand to include all use cases? We want to hear your feedback! Let us know your thoughts in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/478). 
 
 ### Team Member Spotlight 🔦
-Glen Miller was nominated for going above and beyond and exceeding expectations while supporting customers like T-Mobile as a Professional Services Implementation Engineer. Learn how Glen embraces our values of Results, Iteration, Collaboration, and Transparency to serve as our customers' trusted advisor. And, meet his two adorable rescue pups – Apollo and Maisel! 🐕
+Glen Miller was nominated for going above and beyond and exceeding expectations while supporting Enterprise customers as a Professional Services Implementation Engineer. Learn how Glen embraces our values of Results, Iteration, Collaboration, and Transparency to serve as our customers' trusted advisor. And, meet his two adorable rescue pups – Apollo and Maisel! 🐕
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/O_OvmKxQsLE" frameborder="0" allowfullscreen="true"> </iframe>

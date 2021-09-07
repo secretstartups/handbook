@@ -25,7 +25,7 @@ There are multiple **new Competitive Intelligence resources** available to aid y
 Questions? Feedback for the team on content you'd like to see? Slack #competition.
 
 ### Deal of the Month 🏅
-Steve Challis, Strategic Account Leader UK, is joined by Brandon Jung, VP Alliances, and Kevin Franklin, Channel Sales Manager UK, to discuss a recent deal with Premiere Farnell. Learn more about how our partner, McKinsey, played a huge role in this deal and the potential of what we can achieve together with an engaged, inspired channel.
+Steve Challis, Strategic Account Leader UK, is joined by Brandon Jung, VP Alliances, and Kevin Franklin, Channel Sales Manager UK, to discuss a recent deal with a large electronics company. Learn more about how our partner, McKinsey, played a huge role in this deal and the potential of what we can achieve together with an engaged, inspired channel.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/H1jG--VYrFc" frameborder="0" allowfullscreen="true"> </iframe>
