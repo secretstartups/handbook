@@ -1287,7 +1287,7 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 To better understand GitLab's overall deprecations and removals policy, check out this [video](https://about.gitlab.com/handbook/product/gitlab-the-product/#video-on-deprecations-and-removals-process).
 
-A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included as soon as possible in the [documentation](https://docs.gitlab.com/ee/deprecations) or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included as soon as possible in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
 Create a deprecation notice by adding a `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project in the following format:
 
 ```yaml
