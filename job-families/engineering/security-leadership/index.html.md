@@ -42,7 +42,7 @@ Leaders in the security department at GitLab see the team as their product. Whil
 
 ### Senior Manager, Security (Sub-Department)
 
-The Senior Security Manager, Development role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level based on the needs and growth of the security department.
+The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level based on the needs and growth of the security department.
 
 #### Senior Manager, Security Job Grade
 
@@ -186,7 +186,7 @@ The Senior Director role extends the Director role defined by the functional are
 
 #### Senior Director, Security Job Grade
 
-The  Senior Director, Development is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The  Senior Director, Security is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Senior Director, Security Responsibilities
 
