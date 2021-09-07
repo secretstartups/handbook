@@ -883,6 +883,15 @@ List your inbox and preview mails in one view with this configuration change:
 - Save changes
 - Reload inbox
 
+### Disable Google Meet and Chat in Google Mail
+
+The integration for Google Meet and Google Chat is enabled by default. It can consume too much space in the left menu listing mailbox folders. In order to disable the integration in Google Mail, navigate to `Settings` at the right top, `See all settings`, `Mail and Chat` and select the following:
+
+- Chat: `Off`
+- Meet: `Hide the Meet section in the main menu`
+
+Save the changes and wait for Google Mail to reload. 
+
 ### Google Slides
 
 Use this general [GitLab branded slide template](https://docs.google.com/a/gitlab.com/presentation/d/16FZd01-zCj_1jApDQI7TzQMFnW2EGwtQoRuX82dkOVs/edit?usp=sharing) when creating slide decks for internal and external use.
