@@ -114,7 +114,7 @@ When publicly thanking, it's important to recognize the following:
 
 * Showing thanks in as large a setting as possible (company-wide) at a company as large as ours is the exception instead of the norm, it takes some getting used to.
 * Being thanked at the company level for what you view as a relatively small or minuscule contribution can feel awkward.
-+* Thanking a person in #thanks should be done sincerely and summarize why you are thankful so the person on the receiving end can easily understand why they are being thanked. Even while [assuming positive intent](#assume-positive-intent), not all folks are comfortable with public praise. Help this person understand how they went above and beyond and why you felt it was important for the team member to be recognized.
+* Thanking a person in #thanks should be done sincerely and summarize why you are thankful so the person on the receiving end can easily understand why they are being thanked. Even while [assuming positive intent](#assume-positive-intent), not all folks are comfortable with public praise. Help this person understand how they went above and beyond and why you felt it was important for the team member to be recognized.
 * There are a number of good ways and places to say thanks. We shouldn't limit saying thanks to just the `#thanks` channel.
 
 ##### Give feedback effectively
