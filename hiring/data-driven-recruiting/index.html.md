@@ -39,7 +39,7 @@ As we aim to build an even more diverse team in the most efficient way possible,
 GitLab Talent Acquisition team also strives to leverage the use of [LinkedIn _Talent Insights_ reports](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/req-overview/#step-3-complete-kick-off-session-agree-on-priority-level--complete-a-sourcing-session). Given specific inputs (e.g. job titles, skills, and/or geographic regions) we're able to see how big a talent pool is. That talent pool can be honed in further by referencing how many of those prospects are either engaged with GitLab updates, have followed or visited GitLab's LinkedIn profile, or have viewed posted jobs.
 
 ### General guidelines
-While there are different ways of combining the parameters listed above, our goal is to use Data Driven Recruitment approach at the beginning of every search to build robust pipeline and oprtimize our sourcinng effort. These are the steps you can take to adopt the Data Driven Approach to your search:
+While there are different ways of combining the parameters listed above, our goal is to use Data Driven Recruitment approach at the beginning of every search to build robust pipeline and oprtimize our sourcing effort. These are the steps you can take to adopt the Data Driven Approach to your search:
 
 1. Define your hiring needs and the purpose of the DDR to understand what results you’d like to get.
 1. Break down the project into steps, for example:
