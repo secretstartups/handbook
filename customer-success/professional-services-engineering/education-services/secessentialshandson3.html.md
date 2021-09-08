@@ -12,25 +12,72 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## LAB 3- ADD Manual k6 Load testing
+## LAB 3- Build and Push an Image and Run Container Scanning
+### The starting gitlab-ci.yml
+This is the state of the gitlab-ci.yml at the beginning of the lab:
+```yml
+build:
+  image: docker:stable
+  stage: build
+  services:
+    - docker:dind
+  variables:
+    IMAGE: $CI_REGISTRY_IMAGE/$CI_COMMIT_REF_SLUG:$CI_COMMIT_SHA
+  script:
+    - apk add npm
+    - npm i npm@latest -g
+    - docker 
+    - docker 
+    - docker 
 
-### Edit the Load testing file with your URL
-1. In the Project **{lastname} SecurityProject1**, Click issues on the left hand menu. Click the **New Issue** button
-2. In the Title type **create manual load test** submit the issue.  
-3. Create a Merge Request from the Issuee.  Click the **Create Merge Request** button 
-4. Locate the new branch and click on it 
-5. Click on **Web IDE** to begin editing your .gitlab-ci.yml file. 
-6. Scroll to the bottom of the file delete the `# ` in front of the `- local: ci-template/Load-Performance-Testing.yml `line.
-7. Remove the line with `- template: Jobs/Load-Performance-Testing.gitlab-ci.yml`. Discuss **Local** vs **template** 
-8. In another browser go to the **CI/CD** locate the **production** job and open it.  Scroll to the bottom of the output and locate the production URL 
-9. In your IDE tab, go to src/test/load-test.js file.  Replace the text URLREPLACE with the URL copied from the production output 
-10. Click the blue **Commit** button to begin running your pipeline.
-11. After the pipeline runs Merge your Merge Request 
-12. In your project repository review the  ci-template/Load-Performance-Testing.yml and look for the load-test.js script 
-13. After the pipeline runs, review the output in the **Load-Performance** job 
-14. validate execution: local
-     script: src/test/load-test.js
+include:
+  
+```
+### Authenticate with Docker commands
+Pushing to the Container Registry with Docker commands requires authentication.
+1. Authentication with the Container Registry is required.    
+   - Authenticate with either:
+       - A personal access token.
+       - A deploy token.      
+   - Create a personal access token:
+       - You can create as many personal access tokens as you like.
+       - In the top-right corner, select your avatar.
+       - Select Edit profile.
+       - In the left sidebar, select Access Tokens.
+       - Enter a name and optional expiry date for the token.
+       - Select the desired scopes:
+           - Both of these require the minimum scope to be:
+                - For read (**pull**) access, `read_registry`.
+                - For write (**push**) access, `write_registry`.
+        - Select Create personal access token.
+        **Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.**
+    - Authenticate by running the Docker command as a script in the `gitlab-ci.yml`.   
+   ```yml
+   # Add the following command under the script task in gitlab-ci.yml
+   - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+   ```
+### Build and push image to Container Registry
+Build and push to the Container Registry:
 
+2. Authenticate with the Container Registry.    
+    - Run the following command to build:
+```yml
+# This command builds the image of variable $IMAGE
+- docker build -t $IMAGE .
+```
+... and push to the Container Registry:
+```yml
+# This command pushes the built containerized app
+- docker push $IMAGE
+```
+3. View the container in **Packages & Registries > Container Registry**.
+### Add a Container Scanning Template to gitlab-ci.yml
+Include the Container Scanning template on gitlab-ci.yml.
+```yml
+include:
+  - template: Security/Container-Scanning.gitlab-ci.yml
+```
+Run the pipeline and look at the Security Dashboard for any Container Scanning vulnerabilities. 
 
 ### SUGGESTIONS?
 
