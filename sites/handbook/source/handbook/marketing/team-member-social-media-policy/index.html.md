@@ -36,7 +36,7 @@ The GitLab Social Media policy for team members applies to traditional social me
 The term "social media" applies to any online technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any site where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
 ##### Exclusions for anonymous review sites 
-This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/)```
+This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites, as long as the feedback follows our [SAFE Framework](https://about.gitlab.com/handbook/legal/safe-framework/).
 
 ### All other GitLab codes of conduct and policies also apply to our social media policy
 {:.no_toc}
@@ -89,7 +89,7 @@ Easier said than done, but consider our values when engaging online. The same sp
   <summary markdown='span'>
     Do share GitLab content that is already published
   </summary>
-If it's written in a blog, a case study, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain, posted in the #newswire Slack channel, or in the company social media advocacy tool can and should be shared freely. Some items in the #newswire Slack channel may say "shareable internal only", so please do not share those stories on social media.
+If it's written in a blog, presented at a public conference, or simply on GitLab's website, it's publicly available to share on social media. GitLab's social media advocacy tool will have a lot of preapproved content, including links, images, and copy, available to all team members. Anything already in the public domain, posted in the #newswire Slack channel, or in the company social media advocacy tool can and should be shared freely. Some items in the #newswire Slack channel may say "shareable internal only", so please do not share those stories on social media.
 </details>
 
 #### Examples of what you should, and are encouraged, to share on social media
