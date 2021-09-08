@@ -68,21 +68,31 @@ In total, there are 4 types of Service Ping either in production or development:
 
 ### Process Overview
 
-Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse, so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW, while redis data is accessed at program runtime and also stored in RAW. Once these data stores are available in Snowflake, separate processes run to generate Service Ping metrics results from them.
+Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse, so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW, while redis data is accessed at program runtime and also stored in RAW. Once these data stores are available in Snowflake, separate processes run to generate Service Ping metrics results from them. Finally, the new  SaaS Namespace Service Ping metrics are powered by GitLab [`namespaces`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) and Namespace metrics are only available for Postgres SQL-source metrics, not Redis metrics.
 
 ```mermaid
 graph LR
-subgraph Postgres SQL-sourced Metrics
+subgraph Postgres SQL-sourced Instance Level Metrics
 B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
 C --> D[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
-D --> E[Store metrics results in Snowflake RAW]
+D --> E[Store metrics results in Snowflake RAW GITLAB_DOTCOM]
 end
 ```
 
 ```mermaid
 graph LR
-subgraph Redis-sourced Metrics
-B[Gather Metrics Values via API] --> C[Store metrics results in Snowflake RAW]
+subgraph Redis-sourced Instance Level Metrics
+B[Gather Metrics Values via API] --> C[Store metrics results in Snowflake RAW INSTANCE_REDIS_METRICS]
+end
+```
+
+```mermaid
+graph LR
+subgraph Postgres SQL-sourced Namespace Level Metrics
+B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
+C --> D[Append Namespaces SQL to Snowflake-SQL]
+D --> E[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
+E --> F[Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
 ```
 
