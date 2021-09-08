@@ -185,7 +185,7 @@ This process should be followed when all of the following are true:
 
 ### Stage 2: **Incident Updates**
 
-To update an active incident click the incidents icon from the dashboard.
+To update an active incident, click the incidents icon from the dashboard.
 
 ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
@@ -207,7 +207,7 @@ A ready to be published update should look similar to the following.
 
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
-After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear.
+After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear. The remaining step is to copy/paste the update into the `#e-group` slack thread.
 
 ### Stage 3: **Incident Resolution**
 
