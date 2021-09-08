@@ -81,7 +81,7 @@ We store metrics in Prometheus as counters.
 - error-counter: This counter gets incremented for every 5xx
 
 Counters are separated using the following labels:
-- component: the SLI this refers to (for example 'puma' would indicate request duration)
+- component: the SLI this refers to (for example 'puma' would indicate a request handled by puma)
 - environment: 'gstg', 'gprd', ... Only production environments are included in the error budget, but we have them for others.
 - feature_category: The feature this request was for, this is used to later map this to a group based on the info in `stages.yml` (when imported).
 - type: The service this request was for (for example 'api', 'web', or 'git', in case of the puma component).
