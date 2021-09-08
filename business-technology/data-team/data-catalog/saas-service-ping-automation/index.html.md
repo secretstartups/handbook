@@ -99,7 +99,7 @@ SaaS Namespace Service Ping produces metrics at a finer-level of granularity tha
 ```mermaid
 graph LR
 subgraph Postgres SQL-sourced Namespace Level Metrics
-A --> B[1: Load namespace-level Snowflake-SQL]
+B[1: Load namespace-level Snowflake-SQL]
 B --> C[2: Run Snowflake-SQL versus Snowflake's GitLab.com clone]
 C --> D[3: Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
