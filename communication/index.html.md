@@ -658,6 +658,7 @@ The goal of Focus Fridays is to maximize efficiency by creating designated meeti
 - Consider blocking off your calendar as "busy" on Fridays to block your work time
 - Consider looking into apps like [Clockwise](https://www.getclockwise.com/) that can provide recommendations on how to refactor your calendar for focused work
 - Consider using Fridays to dedicate time to your [learning and development](/handbook/people-group/learning-and-development/)
+- For those in APAC Focus Fridays, team members can decided to have Focus Mondays instead to align our work more efficiently with other global timezones. 
 
 You are encouraged to talk to your manager for guidance on how best to embrace Focus Fridays on your team and with your individual schedule.
 
