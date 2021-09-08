@@ -17,7 +17,7 @@ description: "The Business Technology Engineering team develops custom applicati
 The prime directive of the Business Technology Engineering group is to achieve maximum iteration velocity with designing, developing, and implementing automation efficiencies using software and systems to improve GitLab's business processes, software systems, and cloud infrastructure. Our collective group is broken into smaller functional teams that focus on one or more specialized areas. 
 
 The Business Technology Engineering team focuses on three primary competencies:
-1. Internally Facing Software Development and Integrations - We develop custom applications, automation, and integrations that support business efficiency and processes managed by the Business Technology department. 
+1. Internally & Externally Facing Software Development and Integrations - We develop custom applications, automation, APIs and integrations that support business efficiency and processes managed by the Business Technology department. 
 2. Cloud Infrastructure Automation and Management - We manage AWS and GCP infrastructure that is not related to GitLab.com SaaS production infrastructure and provide managed infrastructure services for other departments, including most ephemeral sandbox infrastructure needs across the company. We also handle access requests for cloud infrastructure.
 3. Tech Stack Applications Implementation Engineering - We provide implementation engineering and support for 3rd party tech stack applications that are managed by Business Technology and other non-engineering departments. We usually classify this work as "Operations Engineering".
 
@@ -27,7 +27,7 @@ The Business Technology Engineering team focuses on three primary competencies:
 |-----------------------------------------------------------------------------|-----------------------------------|--------------------------------------------------------------|
 | [Daniel Parker](https://about.gitlab.com/company/team/#dparker)             | Senior Integrations Engineer      | Enterprise Applications and Integrations                     |
 | [Karuna Singh](https://about.gitlab.com/company/team/#Karuna16)             | Integrations Engineer             | Enterprise Applications and Integrations                     |
-| [To Be Hired](https://boards.greenhouse.io/gitlab/jobs/5372358002)          | Integrations Engineer             | Enterprise Applications and Integrations Engineering         |
+| [Dominic Roy-Stang](https://about.gitlab.com/company/team/#droystang)       | Integrations Engineer             | Enterprise Applications and Integrations                     |
 | [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin)       | Senior IT Systems Engineer        | Access Manager, Infrastructure, Demo Systems, Training Labs  |
 | [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler)      | IT Systems Engineer               | Access Manager, Infrastructure, Operations                   |
 | [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker)         | Senior IT Systems Engineer        | Okta Integrations, Operations                                |
@@ -99,14 +99,28 @@ It is important to distinguish that Access Manager automates the provisioning pr
 ## Enterprise Applications and Integrations Engineering
 
 * **DRI:** [Daniel Parker](https://about.gitlab.com/company/team/#dparker)
-* **Team Members:** [Karuna Singh](https://about.gitlab.com/company/team/#Karuna16)
-* **Stable Counterparts:** [Alex Westbrook (Manager, Finance Systems Administrators)](https://about.gitlab.com/company/team/#awestbrook), [Lien Van Den Steen (People Group Engineering)](https://about.gitlab.com/company/team/#lienvdsteen)
+* **Team Members:** [Karuna Singh](https://about.gitlab.com/company/team/#Karuna16), [Dominic Roy-Stang](https://about.gitlab.com/company/team/#droystang)
+* **Stable Counterparts:** 
+  * [Barbara Roncato (Senior Business Systems Analyst)](https://about.gitlab.com/company/team/#broncato)
+  * [Alex Westbrook (Manager, Finance Systems Administrators)](https://about.gitlab.com/company/team/#awestbrook)
+  * [Andrew Murray (Senior Director, Revenue Accounting)](https://about.gitlab.com/company/team/#andrew_murray)
+  * [Anesia Chan (Director of People Tools & Technology)](https://about.gitlab.com/company/team/#anechan)
+  * [Lien Van Den Steen (People Group Engineering)](https://about.gitlab.com/company/team/#lienvdsteen)
+  * [Justin Farris (Director of Product Management, Fulfillment)](https://about.gitlab.com/company/team/#justinfarris)
+  * [Tatyana Golubeva (Principal Product Manager, Fulfillment:Purchase)](https://about.gitlab.com/company/team/#tgolubeva)
+  * [Samantha Lee (Learning & Development Generalist)](https://about.gitlab.com/company/team/#slee24)
+  * [Amy Waller (Senior Marketing Operations Manager)](https://about.gitlab.com/company/team/#amy.waller)
+  * [Matthew Roark (Business Systems Architect, Salesforce)](https://about.gitlab.com/company/team/#mroark1)
+  * [Colleen Farris (Director, Channel Operations)](https://about.gitlab.com/company/team/#cfarris)
+  * [Justin Stark (Staff Data Engineer)](https://about.gitlab.com/company/team/#jjstark)
+  * [Robyn Hartough (Senior EBA, CLO)](https://about.gitlab.com/company/team/#rhartough)
+  * [Bronwyn Barnett (Paralegal, Privacy Reviews)](https://about.gitlab.com/company/team/#bronwynbarnett)
+  * [Dominic Couture (Senior Security Engineer, Application Security)](https://about.gitlab.com/company/team/#dcouture)
 * `#bt-integrations` Slack Channel
 * [Handbook Page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work)
 * [Project Repositories](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations)
 * [Related - Project Nexus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/nexus/#nexus-distilled)
-* [Related - People Group Engineering Handbook Page](https://about.gitlab.com/handbook/people-group/engineering/)
 
 The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Nexus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaas).
 
