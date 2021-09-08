@@ -89,9 +89,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
 - Sales Operations will make any necessary updates to account fields to reflect changes such as employee count, address or add the parent to the account. 
 - If the request is approved the account will either be moved immediately or marked with the pick list value of `Quarterly Review` in the  `Account Reassignment Status` field. 
 - Accounts that have CARR must be flagged to be reviewed at the quarter to review the sum of CARR on all of the AEs accounts requested to move. If both ASMs agree to immediately move an account with CARR, Sales Ops management would also need to approve this move outside of the Quarterly review.
-- During the quarterly review process: 
-    - If the sum of CARR for all requested accounts is under $50K the accounts can be moved as agreed upon. 
-    - If the sum of CARR for all requested accounts is over $50K Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. 
+- Sales Operations will work with Sales Strategy to evaluate the potential impact on AEs quota and work directly with the ASM an accounts will remain with the current owner until a decision is made. 
 - Flagged accounts can be tracked in the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
 1. **Sales Operations Immediate and Quarterly Account Review Process** 
    1. Accounts that can be moved immediately by Sales Operations: 
@@ -105,7 +103,7 @@ This pairing owns all records (LEADS and CONTACTS) associated to a Named Account
        1. Accounts owned by SDRs, Sales Administrator or any other non sales role
    1. Accounts that will be marked for quarterly review and moved at the quarter with approvals: 
        1. Prospects with open opportunities
-       1. Customer accounts - Sales Operations will not immediatly move accounts due to total CARR value of all requested account moves by a rep per quarter. If a rep requests accounts accumulating in over $50K of CARR to be transferred will require a review of remaining accounts to ensure quota is not affected
+       1. Customer accounts - Sales Operations will not immediatly move accounts and will require a review of remaining accounts to ensure quota is not affected
 1. **Holdover Accounts** 
 Requested holdover accounts will have the expriation date and next approved owner populated 90 days from date of approval from all parties.These accounts are monitored on the [Sales Ops: ROE Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7).
    1. Holdover Accounts will be moved on the expiration date listed on the account in the `Holdover Expiration Date` field to the `[TSP] Next Approved Owner`
@@ -120,7 +118,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
 1. **Opportunity Ownership:** 
     1. Only active Field Sales (AE/SAL) members can own opportunities. The exceptions to this rule include:
-        1. **Community Program opportunities** (primarily $0 EDU/OSS): which will be owned by a member of that team.
+        1. **Community Program opportunities**: which will be owned by a member of that team.
             - For scenarios where there's a paid opportunity **and** a free EDU opportunity, the AE/SAL owns the relationship. If there is not a paid opportunity closed-won or any open paid opportunity (pre-closed-won) then the appropriate Commumity Programs team member manages the relationship.
                 - If a paying customer is also interested in a free EDU license, the Commumity Programs team will always reach out to the AE/SAL prior to engaging with the customer.  
         1. **Reseller opportunities**: which can be owned by the AE/SAL or channel manager
@@ -171,8 +169,7 @@ Accounts will be reviewed annually prior to the Fiscal Year planning process and
 
  **Quarterly Account Review Process**
 1. Use the reports on the [Sales Operations Quarterly Account Review Dashboard](https://gitlab.my.salesforce.com/01Z4M000000oYC7) to review the requested account moves. 
-   1. Prospect and Customer accounts with all approvals and  with `CARR` under $50K can be transferred immediately. Move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
-   1. Prospect and Customer accounts with `CARR` over $50K with all approvals will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved, follow the step above
+   1. Prospect and Customer accounts will need to be evaluated to ensure the move doesn't impact quota. Once approved to be moved: move any open opportunties stages 0-3 to the new owner. Opportunities stages 4-6 mark the `Holdover Expiration Date` for 90 days from date of approval on the Opportunity. 
    1. Once account ownership has been updated remove the `Quarterly Review` picklist value from the `Account Reassignment Status`
 
 **Holdover Account and Opportunity Review Process**
