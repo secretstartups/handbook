@@ -72,7 +72,7 @@ Some useful links to see how and what we are working on include:
 ### People leaders in development
 
 <%=
-departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Intelligence']
+departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Intelligence', 'Growth']
 department_regexp = /(#{Regexp.union(departments)})/
 
 direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth, Fulfillment, and Applied ML')
@@ -133,7 +133,7 @@ role_regexp = /[,&] (Growth|Product Intelligence)/
 direct_manager_role = 'Director of Engineering, Growth, Fulfillment, and Applied ML'
 other_manager_roles = [
   'Interim Fullstack Engineering Manager, Product Intelligence',
-  'Fullstack Engineering Manager, Growth:Activation, Adoption, Conversion and Expansion'
+  'Interim Senior Engineering Manager, Growth'
 ]
 stable_counterparts(role_regexp: role_regexp, direct_manager_role: direct_manager_role, other_manager_roles: other_manager_roles)
 %>
@@ -264,7 +264,7 @@ The Growth groups regularly run experiments to test product hypothesis.
 
 - Read about the [experimentation process](./experimentation).
 - View the [developer documentation](https://docs.gitlab.com/ee/development/experiment_guide/)
-- View slides for the [Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/) (GitLab internal)
+- View slides for the [Experimentation Workshop](https://docs.google.com/presentation/d/1nmStWChWkYad9K-dced9wS4jS7XLIrHB-WKafc7jrMU/)
 
 GitLab team members are welcome to attend the [Growth Engineering Weekly](#growth-engineering-weekly) meetings
 to connect with growth team members and find out more about running experiments at GitLab.
