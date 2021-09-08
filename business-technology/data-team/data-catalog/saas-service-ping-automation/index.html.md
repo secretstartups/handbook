@@ -10,9 +10,14 @@ title: "SaaS Service Ping Automation"
 {::options parse_block_html="true" /}
 
 ---
-## SaaS Service Ping Automation
+## Service Ping Overview
 
-Service Ping is a process in GitLab that collects and sends a weekly payload to GitLab Inc. The payload provides important high-level data that helps our product, support, and sales teams understand how GitLab is used. For example, the data helps to:
+[Service Ping](https://docs.gitlab.com/ee/development/service_ping/) is a background process that runs veruss a GitLab Instance is responsible for collecting, aggregating, and packaging a set of metrics useful for analytics purposes. The metrics captured are defined in the [Metrics Dictionary YAML.](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metrics-definition-and-validation) and this dictionary is easily extensible, with new metrics changing regularly per the [Metric Lifecycle](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html). The full set of metrics are bundled into a JSON payload and sent to the GitLab Versions App where they are synced to Snowflake. [Service Ping can be disabled](https://docs.gitlab.com/ee/development/service_ping/#disable-service-ping) in individual customer instances.
+
+
+SaaS Service Ping Automation
+
+The payload provides important high-level data that helps our product, support, and sales teams understand how GitLab is used. For example, the data helps to:
 
 1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features.
 1. Collect other facts that help us classify and understand GitLab installations.
