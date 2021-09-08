@@ -63,24 +63,43 @@ To summarize, there are 4 types of Service Ping either in production or developm
 
 ## Automated SaaS Service Ping Implementation
 
-Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via pgp and available in RAW, while redis data is accessed at program runtime and also stored in RAW.
-
 ### Process Overview
 
-Automated SaaS Service Ping runs as follows:
+Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse, so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW, while redis data is accessed at program runtime and also stored in RAW. Once these data stores are available in Snowflake, separate processes run to generate Service Ping metrics results from them.
+
+```mermaid
+graph LR
+subgraph Postgres SQL-sourced (PSQL) Metrics
+B[Gather Metrics Queries via API] --> C[Transform PSQL to SSQL]
+C --> D[Run SSQL versus Snowflake GitLab.com clone]
+D --> E[Store metrics results in Snowflake RAW]
+end
+```
+
+```mermaid
+graph LR
+subgraph Redis-sourced Metrics
+B[Gather Metrics Values via API] --> C[Store metrics results in Snowflake RAW]
+end
+```
 
 1. Assume the GitLab.com postgres source data pipelines are running and fresh up-to-date data is available in Snowflake RAW and PREP
-1. Grab the latest set of metrics queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
-1. For SQL-Based postgres Metrics
-     1. Transform Instance-Level Postgres SQL to Instance-Level Snowflake SQL and version control the resulting code
-     1. Run the Instance-Level Snowflake SQL versus the SaaS postgres data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
-     1. [Transform Instance-Level Postgres SQL to Namespace-Level Snowflake SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
-     1. Run the Namespace-Level Snowflake SQL versus the SaaS postgres data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
+1. Grab the latest set of metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
+1. For Postgres SQL-sourced (PSQL) Metrics
+     1. Transform Instance-Level PSQL to Snowflake SQL (SSQL) and version control the resulting code
+     1. Run SSQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
+     1. [Transform Instance-Level PSQL to Namespace-Level SSQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
+     1. Run the Namespace-Level SSQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 1. For Redis-sourced Metrics
-     1. Data is picked up and stored in a JSON format, approximately size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
+     1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
 1. Once all of the metrics have been collected from sources external to Snowflake and brought into Snowflake (either in tables or as in the case of Redis, JSON), more traditional Snowflake dbt data transformations are initiated:
     1. [instance dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
     1. [namespace dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
+
+#### Known Limitations/Improvements
+
+- Namespace-level Redis-source Metrics are not yet available
+- Snowflake has redundant "legacy" service-ping processes and these need to be deprecated
 
 ### Service Ping Metrics Types
 
@@ -89,7 +108,9 @@ Within Service Ping, there are 2 main types of metrics supported:
 - SQL metrics: metrics sourced from postgres tables
 - Redis metrics: metrics sourced from Redis counters
 
+
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="ZaD2gkT4TN7D"></iframe></div>
+
 
 #### SQL Metrics Implementation
 
@@ -156,7 +177,6 @@ We created a Airflow dag `saas-instance-usage-ping` run every Saturday that exec
 - transforming the queries to be able to run them against Snowflake dedupe layer
 - run the queries
 - store the results in Snowflake 
-
 
 ## From RAW to PROD database and Sisense
 
