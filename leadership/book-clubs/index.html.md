@@ -19,6 +19,17 @@ To propose a new book club, [create an
 issue](https://gitlab.com/gitlab-com/book-clubs/issues/new) in the [book
 clubs project](https://gitlab.com/gitlab-com/book-clubs).
 
+## Better Onboarding
+
+* Dates: 2021-07-08 and 2021-07-15
+* Time: 02:00 PM UTC
+* [Zoom](https://gitlab.zoom.us/j/99228304969) (password is in the calendar event info)
+* [Meeting agenda](https://docs.google.com/document/d/1BlNlGZb6kJPxUKNmJrJtQLvQxHsQx3WSpxSLUyc56FA/edit#)
+* [Discussion issue](https://gitlab.com/gitlab-com/book-clubs/-/issues/27)
+* [Recording Session 1](https://drive.google.com/drive/folders/1Evt0ex97k8ZJMqH10WSMb6z1LqNTDPFE?usp=sharing)
+* [Recording Session 2](https://drive.google.com/drive/folders/1cbtczvk30BDSzdbrByqdB8ETAz3avKOs?usp=sharing)
+* Suggested audience: Growth, Product, Product Design and Development
+
 ## Trustworthy Online Controlled Experiments (A Practical Guide to A/B Testing)
 
 * Dates: 2021-03-11 to 2021-06-10 (every week)
