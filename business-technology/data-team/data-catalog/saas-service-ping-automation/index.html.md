@@ -72,9 +72,9 @@ Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data
 
 ```mermaid
 graph LR
-subgraph Postgres SQL-sourced (PG-SQL) Metrics
-B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL (S-SQL)]
-C --> D[Run S-SQL versus Snowflake GitLab.com clone]
+subgraph Postgres SQL-sourced Metrics
+B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
+C --> D[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
 D --> E[Store metrics results in Snowflake RAW]
 end
 ```
