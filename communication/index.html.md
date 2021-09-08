@@ -480,16 +480,23 @@ Add Values emoji reactions to thank you messages in the [`#thanks` slack channel
 or feel free to use them in GitLab.com, other slack channels and
 social media, when you see alignment to our values: [GitLab's values](/handbook/values/).
 
-- `:handshake:` = Collaboration
-- `:chart_with_upwards_trend:` = Results
-- `:stopwatch:` = Efficiency
-- `:globe_with_meridians:` = Diversity
-- `:footprints:` = Iteration
-- `:eye:` = Transparency
+
+| Emoji                        | Custom tanuki emoji      | Meaning                           |
+| ---------------------------- | ------------------------ | --------------------------------- |
+| `:handshake:`                | `:collaboration-tanuki:` | Collaboration                     |
+| `:chart_with_upwards_trend:` | `:results-tanuki:`       | Results                           |
+| `:stopwatch:`                | `:efficiency-tanuki:`    | Efficiency                        |
+| `:globe_with_meridians:`     | `:diversity-tanuki:`     | Diversity Inclusion and Belonging |
+| `:footprints:`               | `:iteration-tanuki:`     | Iteration                         |
+| `:eye: `                     | `:transparency-tanuki:`  | Transparency                      |
 
 ![Values emoji](/images/handbook/values-emoji.png)
 
-As a second iteration, we will begin tracking the number of emoji reactions for each value through the Reacji API and update this page with our findings!
+![Custom emoji](/images/handbook/values-custom-emoji.png)
+
+As a second iteration, we will [add these custom emoji to GitLab](https://gitlab.com/gitlab-org/gitlab/-/issues/231317) to enable tanuki values reactions in issues and MRs.
+
+As a later iteration, we will begin tracking the number of emoji reactions for each value through the Reacji API and update this page with our findings!
 
 ## Communicate directly
 
