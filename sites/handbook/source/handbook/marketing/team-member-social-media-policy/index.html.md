@@ -130,7 +130,7 @@ _Click each recommendation below for more details_
 
 Team Members are prohibited from using social media to post or display comments about co-workers or supervisors/managers of GitLab that are knowingly false, vulgar, obscene, threatening, intimidating, disparages GitLab's products or services, depicts the team member engaging in conduct that is unlawful or in violation of GitLab’s workplace policies against workplace violence or discrimination and harassment based on any protected status under federal, state or local law. Allow the team member(s) to own the decision on what is and isn't public about them.
 
-For customers, any [customer with a published case study](https://about.gitlab.com/customers/) is available to share publicly. If you would like to share information about another customer that does not have a publicly available case study, please reach out to the customer reference team first before sharing any content on social media. 
+For customers, any [customer with a published case study](https://about.gitlab.com/customers/) is available to share publicly. If you would like to share information about a customer please reach out to the customer reference team first before sharing any content on social media. 
 
 </details>
 
