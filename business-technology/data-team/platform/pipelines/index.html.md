@@ -137,10 +137,21 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
 ## Service ping
 
-Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance.
-More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/). 
+Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
+More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
 
-Data is loaded into Data Warehouse in two ways:
+Service ping has two major varieties:
+- Self-Managed Service Ping
+- SaaS Service Ping
+
+### Self-Managed Service Ping
+
+Self-Managed Service Ping is loaded into the Data Warehouse from the Versions app and is stored in the `VERSION_DB` databases.
+
+
+### SaaS Service Ping
+
+SaaS Service Ping is loaded into Data Warehouse in two ways:
 * using `SQL` statements from Gitlab `Postgres Database` Replica and
 * RestFUL API call from `Redis` 
 
@@ -148,8 +159,7 @@ Implementation details from Data team is shown under [Readme.md](https://gitlab.
 
 <img src="saas_service_ping_workflow.png" alt="drawing" width="800"/>
 
-
-### Loading instance SQL metrics
+#### Loading instance SQL metrics
 
 Data is loaded from `Postgres Sql` replica: The queries are version controlled in the very large JSON (couple of hundreds queries in the file) files present within this extract.  The queries are split out into two categories: instance queries and namespace queries. The instance queries generate data about `GitLab.com` as a whole, while the namespace queries generate data about each namespace on `GitLab.com`.
 Data is stored in the tables (in the `RAW` schema):
@@ -157,7 +167,7 @@ Data is stored in the tables (in the `RAW` schema):
 * `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up during data processing for SQL metrics.
 * `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
 
-### Loading instance Redis metrics
+#### Loading instance Redis metrics
 
 Data is downloaded via API, refer to API specification: [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Stored in a `JSON` format, approximately size is around 2k lines. Usually, it is one file per load _(at the moment, it is a weekly load)_. The main purpose of loading data from Redis is to ensure fine granulation of metrics can't be fetched using SQL queries.
 Data is stored in the table (in the `RAW` schema): 
