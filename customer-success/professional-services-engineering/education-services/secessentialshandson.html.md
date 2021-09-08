@@ -16,8 +16,8 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ## GitLab Security Essentials Labs
 * [Lab 1: Enable, configure, and run SAST, Secret Detection, and DAST](./secessentialshandson1.html)
 * [Lab 1.5: Review and take action on vulnerabilities](./secessentialhandson1-5.html)
-* [Lab 2: Review and take action on vulnerabilities](./secessentialshandson2.html)
-* [Lab 3: Build and Push an Image and Run Container Scanning](./secessentialshandson3.html)
+* [Lab 2: Configure and Enable Dependency Scanning, and Interact with Vulnerabilities](./secessentialshandson2.html)
+* [Lab 3: Add manual k6 Load testing](./secessentialshandson3.html)
 * [Lab 4: Run a fuzz test](./secessentialshandson4.html)
 
 
