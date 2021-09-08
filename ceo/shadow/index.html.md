@@ -1068,3 +1068,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) | Manager, Technical Marketing | |
 | 2021-08-02 | 2021-08-13 | [Nuritzi Sanchez](https://gitlab.com/nuritzi) | Sr. Open Source Program Manager | |
 | 2021-08-09 | 2021-08-20 | [Neil McCorrison](https://gitlab.com/nmccorrison) | Frontend Engineering Manager, Secure | |
+|2021-08-16 & 2021-08-30 | 2021-08-20 & 2021-09-03 | [Christina Hupy](https://gitlab.com/c_hupy)| Manager, Education Programs | [CEO Shadow Reflections](https://youtu.be/ZmLIP5jQS4g) |
