@@ -14,7 +14,6 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ## Campaign Overview
 {: #overview .alert .alert-gitlab-orange}
 
-### [Mural of campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c?)
 
 ### Business Objectives
 {: #business-objectives}
@@ -25,17 +24,20 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 ### Campaign Visual
 {: #campaign-visual}
 <!-- DO NOT CHANGE THIS ANCHOR -->
+### [Mural of campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c?)
 
 ### Campaign Pages & Activities
 {: #campaign-activities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See the FY22 Marketing Calendar for upcoming virtual events >>]()**
+**[See the FY22 Marketing Calendar for upcoming virtual events & planned DevSecOps campaign >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1628010250)**
 
-Always On Lead Generation: [assets available](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
-* :books: Content | 
-* :books: Content | 
-* :video_camera: On-Demand Webinar | 
+Primary assets to be used in Always On Lead Generation:
+* :books: Dev focused content (Awareness stage)| [ebook: Building a Modern DevSecOps Software Factory](https://learn.gitlab.com/devsecops-aware/building-modern-devsecops-software-factory)
+* :books: Dev focused content (Consideration stage)| [eBook: How to achieve DevSecOps with CI/CD](https://learn.gitlab.com/devsecops-consider/ebook-achieve-devsec)
+* :books: AppSec focused Content  (Purchase stage)| [2021 Magic Quadrant for Application Security Testing](https://learn.gitlab.com/devsecops-purchase/2020-gartner-mq-ast)
+
+ [other assets available](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
 
 ## Research & Prep
 {: .alert #research-prep .alert-gitlab-orange}
@@ -140,7 +142,6 @@ The developer cares about security but does not want to become a security expert
    3. Built-in fuzz testing makes it easier to apply a pretty advanced method without much learning ramp. It can help me find quality/logic flaws as well.
    4. Transparency of who changed what/where/when can save me time later when audit comes around asking questions.
     
-
 
 ### Keyword Research
 {: #keyword-research .gitlab-purple}
