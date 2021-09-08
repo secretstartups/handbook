@@ -61,8 +61,6 @@ To summarize, there are 4 types of Service Ping either in production or developm
 | Data Granularity | Instance | Instance | Instance | Namespace |
 | Development Status | Live-Production | Live-Production | In Development | Live-Production | 
 
-
-
 ## Automated SaaS Service Ping Implementation
 
 Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via pgp and available in RAW, while redis data is accessed at program runtime and also stored in RAW.
@@ -74,9 +72,9 @@ Automated SaaS Service Ping runs as follows:
 1. Grab the latest set of metrics queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
 1. For SQL-Based postgres Metrics
      1. Transform Instance-Level Postgres SQL to Instance-Level Snowflake SQL and version control the resulting code
-     1. Run the Instance-Level Snowflake SQL  versus the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
+     1. Run the Instance-Level Snowflake SQL versus the SaaS postgres data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
      1. [Transform Instance-Level Postgres SQL to Namespace-Level Snowflake SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
-     1. Run the Namespace-Level Snowflake SQL versus the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
+     1. Run the Namespace-Level Snowflake SQL versus the SaaS postgres data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 1. For Redis-sourced Metrics
      1. Data is picked up and stored in a JSON format, approximately size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
 1. Once all of the metrics have been collected from sources external to Snowflake and brought into Snowflake (either in tables or as in the case of Redis, JSON), more traditional Snowflake dbt data transformations are initiated:
@@ -87,12 +85,12 @@ Automated SaaS Service Ping runs as follows:
 
 Within Service Ping, there are 2 main types of metrics supported:
 
-- SQL-based batch counting metrics
-- redis metrics
+- SQL metrics: metrics sourced from postgres tables
+- Redis metrics: metrics sourced from Redis counters
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="ZaD2gkT4TN7D"></iframe></div>
 
-#### SQL-based metrics 
+#### SQL Metrics Implementation
 
 The SQL-based metrics workflow is the most complicated flow. SQL-based metrics are actually created by a SQL query run against the Postgres SQL database of the instance. For large tables, these queries can be very long to run. An example is for example the `counts.ci_builds` metric which is running a COUNT(*) on the ci_builds which is one of our largest (see dbt table containing more than 1 bilion rows). The goal of this module will be to run against our Snowflake database instead of the postgres SQL database of our SaaS Instance.
 
@@ -115,9 +113,9 @@ Let's take a look at a few queries received in the JSON response:
     "ci_triggers": "SELECT COUNT(\"ci_triggers\".\"id\") FROM \"ci_triggers\"",
 ```
 
-So the goal would be to be able to run them against Snowflake tables. We need to do so, to have tables that have the same column names and the same granularity as the ones in the Postgres SQL tables.
+So the goal would be to be able to run them against tables in Snowflake (sycned from GitLab Saas). We need to do so, to have tables that have the same column names and the same granularity as the ones in the Postgres SQL tables.
 
-Here below, you see the way we currently transform the Postgres data in Snwoflake:
+Here below, you see the way we currently transform the Postgres data in Snowflake:
 
 ![ALT](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/images/dotcom-data-transformation.png)
 
@@ -143,7 +141,7 @@ We then run all these queries and store the results in a json that we send them 
 - run_results: that stores the results returns
 - ping_date: date when the query got run
 
-#### Redis metrics
+#### Redis Metrics Implementation
 
 Redis counters are used to record high-frequncy occurances of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when user folds or unflods the side bar. In such cases, the backend engineer will define a name that would represent give situation for example navigation_sidebar_opened and also arbitrary decide on moment (by adding dedicated piece of code in existing execution path) when it happen.
 
