@@ -33,7 +33,7 @@ If you've been identified as a spokesperson for the company or a specific functi
 
 The GitLab Social Media policy for team members applies to traditional social media channels, like Twitter, LinkedIn, Facebook, and Instagram, as well as "social-like" sites, like YouTube, HackerNews, Reddit, blogs (on the GitLab website, Medium, or any other online journals or diaries), message boards, forums (including the GitLab Forum, private groups or forums on public sites like Facebook Groups), and private/direct messages on public social media channels (Twitter DMs, Instagram Directs, etc.).
 
-The term "social media" applies to any web-based technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any website where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
+The term "social media" applies to any online technology in use now or in the future that enables you to send or receive information and communicate or interact with others. Any site where you can share a post or comment on a post would be considered a social media website for the purposes of this policy.
 
 ##### Exclusions for anonymous review sites 
 This policy is not intended to limit team members from sharing their feedback or reviews of their experiences at GitLab on sites like Glassdoor, Fishbowl, Indeed, or similar sites. While we encourage you to share feedback with your manager and the people ops team, we celebrate our value of transparency and welcome feedback from team members on these sites.
