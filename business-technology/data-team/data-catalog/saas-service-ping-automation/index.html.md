@@ -93,7 +93,7 @@ Within Service Ping, there are 2 main types of metrics supported:
 
 #### SQL Metrics Implementation
 
-The SQL-based metrics workflow is the most complicated flow. SQL-based metrics are actually created by a SQL query run against the Postgres SQL database of the instance. For large tables, these queries can be very long to run. An example is for example the `counts.ci_builds` metric which is running a COUNT(*) on the ci_builds which is one of our largest (see dbt table containing more than 1 bilion rows). The goal of this module will be to run against our Snowflake database instead of the postgres SQL database of our SaaS Instance.
+The SQL-based metrics workflow is the most complicated flow. SQL-based metrics are actually created by a SQL query run against the Postgres SQL database of the instance. For large tables, these queries can be very long to run. An example is for example the `counts.ci_builds` metric which is running a COUNT(*) on the ci_builds which is one of our largest (see dbt table containing more than 1 billion rows). The goal of this module will be to run against our Snowflake database instead of the postgres SQL database of our SaaS Instance.
 
 The Product Intelligence team has created an API endpoint that enables us to retrieve all the SQL queries to run to calculate the metrics. Here is an example file.
 
@@ -114,7 +114,7 @@ Let's take a look at a few queries received in the JSON response:
     "ci_triggers": "SELECT COUNT(\"ci_triggers\".\"id\") FROM \"ci_triggers\"",
 ```
 
-So the goal would be to be able to run them against tables in Snowflake (sycned from GitLab Saas). We need to do so, to have tables that have the same column names and the same granularity as the ones in the Postgres SQL tables.
+So the goal would be to be able to run them against tables in Snowflake (synced from GitLab Saas). We need to do so, to have tables that have the same column names and the same granularity as the ones in the Postgres SQL tables.
 
 Here below, you see the way we currently transform the Postgres data in Snowflake:
 
@@ -144,7 +144,7 @@ We then run all these queries and store the results in a json that we send them 
 
 #### Redis Metrics Implementation
 
-Redis counters are used to record high-frequncy occurances of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when user folds or unflods the side bar. In such cases, the backend engineer will define a name that would represent give situation for example navigation_sidebar_opened and also arbitrary decide on moment (by adding dedicated piece of code in existing execution path) when it happen.
+Redis counters are used to record high-frequency occurrences of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when a user folds or unfolds the side bar. In such cases, the backend engineer will define a name that would represent a given situation, for example navigation_sidebar_opened, and also arbitrarily decide on the moment (by adding dedicated piece of code in existing execution path) when it happens.
 
 The Product Intelligence team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available here. Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api).
 
