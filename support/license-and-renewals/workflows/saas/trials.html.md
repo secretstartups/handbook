@@ -29,7 +29,7 @@ If any fields in the issue description were filled out incorrectly by the submit
 2. Check over the request and ensure that we've been provided enough information to action the request. To do this check that:
    1. The `GitLab.com Link to Namespace:` field contains a valid GitLab.com link to the namespace that holds the active trial. This should not be a Salesforce link or email address.
    2. The `Extend Until:` field contains a future date.
-3. Use the [Update Trial form processor](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/LR/update_trial.html) to process the request.
+3. Use the [Update GitLab Subscription form](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/customersdot/mechanizer.html#update-gitlab-subscription) to process the request.
    1. If successful, this should create a new internal request issue documenting the change action. Link this new issue to the one where the extension was requested.
    2. If there is an error while taking action, locate the [error in sentry](https://sentry.gitlab.net/gitlab/customersgitlabcom/) (see [Searching Sentry](/handbook/support/workflows/500_errors.html#searching-sentry) if needed) and file an issue, or comment on an existing one.
 4. If namespace needs to be adjusted manually, then add the `~Admin Escalation` label, and if you do not have GitLab.com admin access, ping `gitlab-com/support/dotcom`.
