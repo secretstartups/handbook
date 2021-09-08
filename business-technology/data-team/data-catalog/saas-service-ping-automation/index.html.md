@@ -12,28 +12,58 @@ title: "SaaS Service Ping Automation"
 ---
 ## Service Ping Overview
 
-[Service Ping](https://docs.gitlab.com/ee/development/service_ping/) is a background process that runs veruss a GitLab Instance is responsible for collecting, aggregating, and packaging a set of metrics useful for analytics purposes. The metrics captured are defined in the [Metrics Dictionary YAML.](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metrics-definition-and-validation) and this dictionary is easily extensible, with new metrics changing regularly per the [Metric Lifecycle](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html). The full set of metrics are bundled into a JSON payload and sent to the GitLab Versions App where they are synced to Snowflake. [Service Ping can be disabled](https://docs.gitlab.com/ee/development/service_ping/#disable-service-ping) in individual customer instances.
+Previously called "Usage Ping", [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) is a background process that [runs weekly](https://docs.gitlab.com/ee/development/service_ping/#how-service-ping-works) in a GitLab Instance and is responsible for collecting, aggregating, and packaging a set of metrics useful for analytics purposes. The metrics are defined in the [Metrics Dictionary](https://docs.gitlab.com/ee/development/service_ping/metrics_dictionary.html#metrics-definition-and-validation) and this dictionary is easily extensible, with new metrics changing regularly per the [Metric Lifecycle](https://docs.gitlab.com/ee/development/service_ping/metrics_lifecycle.html). Once metrics are collected, the full set of metrics are bundled into a JSON payload (the "ping") and posted to the GitLab Versions App where they are then synced to downstream processes such as Snowflake. [Here is an example of a Service Ping Payload](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload).
 
+### Service Ping Usage
 
-SaaS Service Ping Automation
+Service Ping metics provide insights that help our Product, Support, and Sales teams understand how GitLab is used. For example, the data helps to:
 
-The payload provides important high-level data that helps our product, support, and sales teams understand how GitLab is used. For example, the data helps to:
+1. Support [GitLab xMAU KPIs](https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/xmau-analysis/) KPI
+1. Calculate Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features
+1. Understand which features are or are not being used and provide guidance to customers to help them take advantage of GitLab's rich feature set
+1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features
+1. Collect other facts that help us classify and understand GitLab installations
 
-1. Compare counts month over month (or week over week) to get a rough sense for how an instance uses different product features.
-1. Collect other facts that help us classify and understand GitLab installations.
-1. Calculate our Stage Monthly Active Users (SMAU), which helps to measure the success of our stages and features.
+### Self-Managed Service Ping
 
-For SaaS, the process is currently manually created every week by one of the Product Intelligence Engineers. This process is very time-consuming and relies on the availability and the bandwidth of the Product Intelligence Engineers
+Self-Managed customers setup and run Service Ping to provide analytics for their own deployments (instances) of GitLab. Customers optionally [disable Service Ping](https://docs.gitlab.com/ee/development/service_ping/#disable-service-ping) in which case metrics will not be sent to GitLab. Customers have access to Service Ping data through the console application.
 
-[Here is an example of how a Service Ping Payload looks like](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload)
+### SaaS Service Ping
 
-**SaaS Service Ping Microservice is a service replicating the Service Ping currently generated manually.**
+GitLab.com (or GitLab SaaS) is essentially a GitLab-hosted multi-tenant version of GitLab. A manually generated version of Service Ping (Manual SaaS Service Ping) has been implemented for SaaS and provides equivalent analytics coverge of SaaS that we achieve with Self-Managed instances.
 
-## What is Service Ping ?
+However, the current process suffers from two major sets of problems: 
 
-Service Ping payload is a JSON containing more than 1000 aggregated metrics that will help track feature adoption and product usage. This data is consumed to build all our xMAU KPIS.
+**Performance Problems**
 
-We have 2 main types of metrics:
+* The process is error-prone and causes resource contention with live customer activity
+* The process is slow, and individual metric queries regularly fail
+* The process is implemented to run manually during off-peak hours
+* The process requires available staffing to manage end-to-end
+
+**Data Coverage Deficiency**
+
+In addition, Manual SaaS Service Ping is only capable of generating instance-level (the entire site) data and does not meet all the needs of Sales, Customer Success, and others who need more granular data from the `namespace` level to measure individual GitLab.com customer adoption.
+
+To solve for these two primary sets of problems, the Data Team is developing two new programs to be run in the [Data Platform](/handbook/business-technology/data-team/platform/), a system designed for Big Data, Automation, and Scale. With these programs fully operationalized, Manual SaaS Service Ping can be decomissioned. The two programs are:
+
+* Automated SaaS Instance Service Ping - Automated weekly generation of Service Ping for the GitLab.com instance
+* Automated SaaS Namespace Service Ping - Automated weekly generation of Service Ping for every GitLab.com instance->namespace
+
+### 4 Types of Service Ping Processes
+
+To summaruze, there are 4 types of Service Ping either in production or development:
+
+| | Self-Managed Service Ping | Manual SaaS Instance Service Ping | Automated SaaS Instance Service Ping | Automated SaaS Namespace Service Ping |
+| :--- | :--- | :--- | :--- | :--- |
+| Where Run | A Customer's Self-Managed Instance | Within GitLab.com Infrastructure | Data Platform Infrastructure | Data Platform Infrastructure |
+| Run By | Customer (Automatically) | GitLab Product Intelligence (Manually) | GitLab Data Team (Automatically) | GitLab Data Team (Automatically) |
+| Data Granularity | Instance | Instance | Instance | Namespace |
+| Development Status | Live-Production | Live-Production | In Development | Live-Production | 
+
+## Service Ping Metrics Types
+
+We have 2 main types of metrics generated in Service Ping:
 
 - SQL-based batch counting metrics
 - redis metrics
