@@ -90,6 +90,14 @@ It is important to enable a human-to-human approach and realize the other party 
 - This person wants to feel respected, appreciated, and competent, just like me.
 - This person wishes for peace, joy, and happiness, just like me.
 
+# Psychological Safety Learning & Development
+
+## Psychological Safety Short Course 
+
+If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning. 
+
+You can access the [Psychological Safety Short Course here](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r)
+
 ## Live Learning Session 
 
 During Week 3 of our [Manager Challenge Pilot](/handbook/people-group/learning-and-development/manager-challenge/), we had a course covering Building an Inclusive & Belonging Environment. The [slide deck](https://docs.google.com/presentation/d/1eBr33VeYePGck9K5Q5WGqrhqKmKT8zLgkO3kNNRCew0/edit?usp=sharing) and [meeting agenda](https://docs.google.com/document/d/13BofXLCDC2fafHlYij7sZetBidB2cycuz1BeJSSDsMo/edit?usp=sharing) follow along with the session. 
