@@ -91,7 +91,7 @@ Counters are separated using the following labels:
 When a person visits the stage group dashboards to see their Error Budget, we perform a calculation using the metrics
 we hold about how requests have been performing.
 
-Using the formula on the previous page, we use the percentage of successful operations across all 8 days.   
+Using the formula on the previous page, we use the percentage of successful operations across all 28 days.   
 
 When changes are made to the thresholds used in this calculation, it takes 28 days for the effect to be seen because we are summing stored data for the whole period. 
 
