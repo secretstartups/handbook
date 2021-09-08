@@ -45,16 +45,16 @@ However, the current process suffers from two major sets of problems:
 
 In addition, Manual SaaS Service Ping is only capable of generating instance-level (the entire site) data and does not meet all the needs of Sales, Customer Success, and others who need more granular data from the `namespace` level to measure individual GitLab.com customer adoption.
 
-To solve for these two primary sets of problems, the Data Team is developing two new programs to be run in the [Data Platform](/handbook/business-technology/data-team/platform/), a system designed for Big Data, Automation, and Scale. With these programs fully operationalized, Manual SaaS Service Ping can be decomissioned. The two programs are:
+To solve for these two primary sets of problems, the Data Team is developing "Automated SaaS Service Ping". Automated SaaS Service Ping is a set of programs that run natively in the [Enterprise Data Platform](/handbook/business-technology/data-team/platform/), a system designed for Big Data, Automation, and Scale. With Automated SaaS Service Ping fully operationalized, Manual SaaS Service Ping can be decomissioned. There are two programs that make up Automated SaaS Service Ping:
 
-* Automated SaaS Instance Service Ping - Automated weekly generation of Service Ping for the GitLab.com instance
-* Automated SaaS Namespace Service Ping - Automated weekly generation of Service Ping for every GitLab.com instance->namespace
+* **SaaS Instance Service Ping** - Automated weekly generation of Service Ping for the GitLab.com instance
+* **SaaS Namespace Service Ping** - Automated weekly generation of Service Ping for every GitLab.com instance->namespace
 
-### 4 Types of Service Ping Processes
+#### 4 Types of Service Ping Processes (Temporarily)
 
 To summarize, there are 4 types of Service Ping either in production or development:
 
-| | Self-Managed Service Ping | Manual SaaS Instance Service Ping | Automated SaaS Instance Service Ping | Automated SaaS Namespace Service Ping |
+| | Self-Managed Service Ping | Manual SaaS Instance Service Ping | (Automated) SaaS Instance Service Ping | (Automated) SaaS Namespace Service Ping |
 | :--- | :--- | :--- | :--- | :--- |
 | Where Run | A Customer's Self-Managed Instance | Within GitLab.com Infrastructure | Data Platform Infrastructure | Data Platform Infrastructure |
 | Run By | Customer (Automatically) | GitLab Product Intelligence (Manually) | GitLab Data Team (Automatically) | GitLab Data Team (Automatically) |
@@ -69,6 +69,7 @@ Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data
 
 Automated SaaS Service Ping runs as follows:
 
+1. Assume the GitLab.com postgres source data pipelines are running and fresh up-to-date data is available in Snowflake RAW and PREP
 1. Grab the latest set of metrics queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
 1. For SQL-Based postgres Metrics
      1. Transform Instance-Level Postgres SQL to Instance-Level Snowflake SQL and version control the resulting code
