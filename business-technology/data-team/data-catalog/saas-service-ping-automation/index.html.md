@@ -30,7 +30,7 @@ Self-Managed customers setup and run Service Ping to provide analytics for their
 
 ### SaaS Service Ping
 
-GitLab.com (or GitLab SaaS) is essentially a GitLab-hosted multi-tenant version of GitLab. A manually generated version of Service Ping (Manual SaaS Service Ping) has been implemented for SaaS and provides equivalent analytics coverge of SaaS that we achieve with Self-Managed instances.
+GitLab.com (or GitLab SaaS) is essentially a GitLab-hosted multi-tenant version of GitLab. A manually generated version of Service Ping (Manual SaaS Service Ping) has been implemented for SaaS and provides analytics coverge of SaaS equivalent to what we achieve with Self-Managed instances.
 
 However, the current process suffers from two major sets of problems: 
 
