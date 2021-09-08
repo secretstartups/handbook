@@ -95,7 +95,6 @@ Using the formula on the previous page, we use the percentage of successful oper
 
 When changes are made to the thresholds used in this calculation, it takes 28 days for the effect to be seen because we are summing stored data for the whole period. 
 
-This is different from how the Error Budget is calculated for services. For services, availability is calculated daily and then averaged. 
  
 
 
