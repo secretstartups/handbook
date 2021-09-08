@@ -464,6 +464,10 @@ When customers are putting negative emotions into ticket communications, refer t
 [how to keep a ticket moving toward resolution when emotions are getting involved](./emotionally-charged-tickets.html)
 for helpful tips and guidance. 
 
+### Handling Free User tickets
+
+Free users receive support in a few specified cases following the [free users section of the statement of support.](/support/statement-of-support.html#free-users). See the [Handling Free User tickets section of the triaging workflow](/handbook/support/workflows/ticket_triage.html#handling-free-user-tickets) for more details on how to triage these tickets.
+
 # How to succeed at working on tickets
 
 ## 1. Weekly ticket review
