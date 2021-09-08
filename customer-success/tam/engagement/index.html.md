@@ -29,7 +29,7 @@ Technical Account Managers will typically manage customer engagements via a GitL
 ### Start a customer upgrade engagement
 
 1. After the Technical Account Manager has been aligned with the account, they will assign themselves to the “Technical Account Manager” field within Salesforce.
-1. Provided that the customer is Ruby tier or higher and in Enterprise, confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
+1. Provided that the customer is part of the [TAM-Assigned segment](https://about.gitlab.com/handbook/customer-success/tam/customer-segments-and-metrics/#tam-assigned-segment), confirm that the customer project has been created previously during the customer journey sequence, and if not available create a project for the customer in GitLab and include a Technical Account Manager who is best aligned with the customer account transition. For Commercial accounts, the TAM will determine if it is beneficial to have a customer project.
 1. Verify that the project complies with the [Enterprise](https://gitlab.com/gitlab-com/account-management/customer-collaboration-project-template) or the [Commercial](https://gitlab.com/gitlab-com/account-management/commercial/templates/new-customer-project/) Customer Success Plan Template.
 1. Follow the steps in the PLEASE-READ-THESE-INSTRUCTIONS.md file.
 
