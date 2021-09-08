@@ -128,18 +128,19 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-2** | Susannah Reed | Christine Saah | Evan Mathis |  Kira Aubrey |
 | Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis | Kira Aubrey |
+| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Whitney Hurston | Kira Aubrey |
+| Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Whitney Hurston | Kira Aubrey |
+| Public Sector | **State and Local (SLED West)** | Ivan Nepomuceno | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Josh Downey | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Whitney Hurston | Helen Ortel |
 | Public Sector | **Federal - DoD-Agencies** | Scott McKee | Joe Fentor | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - NSG-1** | Marc Kriz | Joe Fenter | Josh Downey |  Helen Ortel |
 | Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey | Helen Ortel |
@@ -147,6 +148,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - NSG-5** | Garry Judy | Nate Houston | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - Channel SI** | Marty Fisher | Jay Jewell | Josh Downey | Helen Ortel |
+| Public Sector | **Federal - Channel SI-2** | Tim Besecker | Jay Jewell | Josh Downey | Helen Ortel |
 
 #### APAC
 
