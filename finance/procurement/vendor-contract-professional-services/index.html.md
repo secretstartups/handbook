@@ -128,7 +128,7 @@ All third parties will undergo a Risk Assessment to determine if a full Security
 To expedite the security review process:
 
 - **Provide Vendor Security Contact Name and Email Address to Risk and Field Security Team**
-- **Notify the Vendor of GitLab's [Third Party Minimum Security Standards](/handbook/engineering/security/security-assurance/risk-field-security/third-party-minimum-security-standards.html)**
+- **Notify the Vendor of GitLab's [Third Party Minimum Security Standards](/handbook/engineering/security/security-assurance/security-risk/third-party-minimum-security-standards.html)**
 - **Ensure there is a Non Disclosure Agreement (NDA) in place**
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 4 | Approvals
