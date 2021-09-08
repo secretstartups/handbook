@@ -123,7 +123,7 @@ This section articulates the information regarding the vendor and the current co
    * If, and only if, this is a marketing request related to a campaign, please add the tag directly from the finance budget doc here to avoid delays in budgeting and payments.
 
 ## <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Risk Assessment and Security Review
-All third parties will undergo a Risk Assessment to determine if a full Security Review is needed as described in the [Third Party Risk Management procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html).
+All third parties will undergo a Risk Assessment to determine if a full Security Review is needed as described in the [Third Party Risk Management procedure](/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html).
 
 To expedite the security review process:
 

@@ -150,7 +150,7 @@ This section articulates the information regarding the vendor and the current co
 
 ### <i class="fas fa-file-signature" id="biz-tech-icons"></i> Step 3 | Security Review
 
-Review our [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) and submit a request accordingly. 
+Review our [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/security-risk/third-party-risk-management.html) and submit a request accordingly. 
 
 To expedite the risk assessment process, complete the identified check boxes as relative:
 
