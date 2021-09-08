@@ -71,12 +71,7 @@ Some useful links to see how and what we are working on include:
 
 ### People leaders in development
 
-<%=
-departments = ['Activation', 'Conversion', 'Expansion' , 'Adoption', 'Product Intelligence', 'Growth']
-department_regexp = /(#{Regexp.union(departments)})/
-
-direct_team(role_regexp: department_regexp, manager_role: 'Director of Engineering, Growth, Fulfillment, and Applied ML')
-%>
+<%= shared_team_members(role_regexps: [/(Director of Engineering, Growth, Fulfillment, and Applied ML|Senior Engineering Manager, Growth|Fullstack Engineering Manager, Product Intelligence)/i]) %>
 
 ### All Team Members
 
