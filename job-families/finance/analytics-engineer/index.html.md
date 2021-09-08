@@ -166,6 +166,7 @@ We are evaluating the addition of levels beyond the Senior level. Currently, bey
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a first interview with a Data Director or Manager
+* Next, candidates will be asked to complete a 'take home assessment' that is completed in their own time. 
 * Next, candidates will be invited to schedule one or more interviews with members of the Data Team
 * Next, candidates will be invited to schedule one or more interviews with Business Partners
 * Finally, candidates may be asked to interview with our VP, IT or similar
