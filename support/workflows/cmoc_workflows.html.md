@@ -185,6 +185,13 @@ This process should be followed when all of the following are true:
 
 ### Stage 2: **Incident Updates**
 
+When updating incidents, there are 2 actions to take:
+
+1. Update the incident.
+1. Update the E-Group slack thread.
+
+#### 1. Update the incident
+
 To update an active incident, click the incidents icon from the dashboard.
 
 ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
@@ -207,7 +214,11 @@ A ready to be published update should look similar to the following.
 
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
-After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear. The remaining step is to copy/paste the update into the `#e-group` slack thread.
+After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear. 
+
+#### 2. Update the E-Group
+
+1. Copy/paste the update in to the `#e-group` slack thread that was created in Stage 1. 
 
 ### Stage 3: **Incident Resolution**
 
