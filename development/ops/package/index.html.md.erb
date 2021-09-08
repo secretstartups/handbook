@@ -45,16 +45,16 @@ You can view the Package Group's board for infradev issues we're targeting durin
 
 | Milestone | issue(s) | 
 | :-------- | :---- |
-| %14.3     | [Investigation: Consider caching the list of tags for container repositories](https://gitlab.com/gitlab-org/gitlab/-/issues/327311) |
+| 14.3      | [Investigation: Consider caching the list of tags for container repositories](https://gitlab.com/gitlab-org/gitlab/-/issues/327311) |
 |           | [Remove subtransactions from `Packages::Package` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338947) |
 |           | [Remove subtransactions from `Packages::Composer::CacheFile` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338953) |
 |           | [Remove subtransactions from `Packages::BuildInfo` model](https://gitlab.com/gitlab-org/gitlab/-/issues/338954) |
-| %14.4     | [Dependency Proxy workhorse migration implementation plan (rails)](https://gitlab.com/gitlab-org/gitlab/-/issues/335560) |
+| 14.4      | [Dependency Proxy workhorse migration implementation plan (rails)](https://gitlab.com/gitlab-org/gitlab/-/issues/335560) |
 |           | [When Container Registry is unavailable, the UI of GitLab shows incorrect information](https://gitlab.com/gitlab-org/gitlab/-/issues/227466) |
-| %14.5     | [Properly reply when "go get" gets a user that needs a 2factor authentication](https://gitlab.com/gitlab-org/gitlab/-/issues/292732) |
+| 14.5      | [Properly reply when "go get" gets a user that needs a 2factor authentication](https://gitlab.com/gitlab-org/gitlab/-/issues/292732) |
 |           | [GET /api/:version/groups/:id/registry/repositories has poor performance](https://gitlab.com/gitlab-org/gitlab/-/issues/329637) |
 
-The second issue scheduled for %14.5 [GET /api/:version/groups/:id/registry/repositories has poor performance](https://gitlab.com/gitlab-org/gitlab/-/issues/329637) is a breaking API change and likely won't be delivered until %15.0.
+The second issue scheduled for 14.5 [GET /api/:version/groups/:id/registry/repositories has poor performance](https://gitlab.com/gitlab-org/gitlab/-/issues/329637) is a breaking API change and likely won't be delivered until 15.0.
 
 ### Recent accomplishments
 
@@ -166,7 +166,7 @@ The purpose of this meeting is to discuss the vision, product roadmap, user rese
 The goal of this meeting will be to align the team on our medium to long-term goals and ensure that our short-term goals are leading us in that direction.
 
 #### How it works
-We have a ThinkBIG meeting on the second Wednesday of the month at 1:30PM UTC. The agenda document is available per [communication guidelines](/handbook/communication/#scheduling-meetings) and the video of the meeting is shared on our [GitLabUnfiltered YouTube channel](https://www.youtube.com/c/GitLabUnfiltered) to enable asynchronous collaboration. Action items from the meeting will be created with the label `~Package:ThinkBIG`. We evaluate the cadence of the meeting to make sure that it's valuable and in adherance to [meeting guidelines](/company/culture/all-remote/meetings/). For more information on this session, visit the [ThinkBIG handbook page](/handbook/engineering/ux/thinkbig/)
+We have a ThinkBIG meeting on the second Wednesday of the month at 1:30PM UTC. The agenda document is available per [communication guidelines](/handbook/communication/#scheduling-meetings) and the video of the meeting is shared on our [GitLabUnfiltered YouTube channel](https://www.youtube.com/c/GitLabUnfiltered) to enable asynchronous collaboration. Action items from the meeting will be created with the label `Package:ThinkBIG`. We evaluate the cadence of the meeting to make sure that it's valuable and in adherance to [meeting guidelines](/company/culture/all-remote/meetings/). For more information on this session, visit the [ThinkBIG handbook page](/handbook/engineering/ux/thinkbig/)
 
 #### How to contribute
 If possible, join the synchronous meeting and discussion on Wednesdays
@@ -198,13 +198,13 @@ Our Product Manager owns the problem validation backlog and problem validation p
 
 At the end of this process, the issues will be ready for the [build track](/handbook/product-development-flow/#build-track) which is owned by the Product Developers and lives in the [Package:Workflow](https://gitlab.com/groups/gitlab-org/-/boards/1284221?label_name[]=group%3A%3Apackage) issue board.
 
-Once an issue receives the `workflow:scheduling` label, engineers will give the issue a weight, identify any gaps in the description moving the issue eventually to the `workflow:ready for development` state (with the matching label).
+Once an issue receives the `workflow::scheduling` label, engineers will give the issue a [weight](#issue-weighting), identify any gaps in the description moving the issue eventually to the `workflow::ready for development` state (with the matching label).
 
 Our Product Manager and Engineering Manager will ensure that the `package:active` label is applied to sufficient issues for the team to have work items. Product Developers are empowered to move items into this state as well.
 
 The Product Manager owns the process of populating the current milestone with feature work. This feature work will take priority but, will be limited to 3 to 4 items per milestone. Product Developers are empowered, once feature work has been exhausted, to prioritise customer value issues that will quickly deliver customer value preferring smaller issues over larger ones.
 
-Issues that we're actually expecting to work on will have the `package:active` label added to them at which point they'll appear in the Package:Workflow board. As product developers begin working on the issue, they'll assign the `workflow:in dev` label.
+Issues that we're actually expecting to work on will have the `package:active` label added to them at which point they'll appear in the Package:Workflow board. As product developers begin working on the issue, they'll assign the `workflow::in dev` label.
 
 #### Cross-Group Dependencies
 
@@ -220,13 +220,13 @@ Our Product Manager, Product Designer, and Engineering Manager develop a plan fo
 #### Priorities
 
 Throughout the workflow, issues should be addressed in the following priority order:
-1. Security issues: These will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) and identified with either a `Planning Priority` or `Package::P1` label
+1. Security issues: These will be at the top of our [Package:Milestones Board](https://gitlab.com/groups/gitlab-org/-/boards/1196366?label_name[]=devops%3A%3Apackage&label_name[]=group%3A%3Apackage) and identified with either a `Planning Priority` or `Package:P1` label
 1. `Planning Priority` label: Organizational level priorities that span multiple customers and prospects.
 1. `Package:P1` label: Used to identify high priority issues that should be committed to in a given milestone or scheduled in an upcoming milestone.
 1. `Package:P2` label: Used to identify security issues, bugs and feature requests that although may not be in a milestone, should be worked on ahead of any other work.
 1. `Package:Triage` label: Cross-functional dependencies required to resolve important issues for our team.
 1. `package:active` label: least effort to largest
-1. `workflow::scheduling` label: These are issues that require weighting, feedback and scheduling before being moved to `package:active`
+1. `workflow::scheduling` label: These are issues that require [weighting](#issue-weighting), feedback and scheduling before being moved to `package:active`
 
 #### Error Budget
 
@@ -238,7 +238,7 @@ The engineering manager will review the error budget dashboard weekly to determi
 
 #### Refactoring
 
-When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type oof work.
+When working on an MR for a Deliverable, don't lose track of the aim: release the Deliverable in time. That doesn't mean that refactorings can't happen or that we can't take time to investigate side subjects. It means that we need to limit the time allocated for this type of work.
 
 When considering a refactoring or a heavy refactoring, consider working [iteratively](https://about.gitlab.com/handbook/values/#iteration). A refactoring can be implemented and refined many times but consider releasing a good enough first version so that depending work is not delayed or blocked. For an example of how we can work iteratively, please see [how we worked through lifting the npm naming conventioon](https://gitlab.com/gitlab-org/gitlab/-/issues/33685#note_512942088).
 
@@ -263,7 +263,7 @@ If a bug investigation takes more time than intended, it's better to:
 
 #### Bug detection
 
-When a bug is detected on staging, engineers should evaluate its severity will be on production. You can use kibana or other tools to evaluate the number of requests impacted. If the severity is high, [appropriate actions](/releases/#deployment-blockers) should be taken.
+When a bug is detected on staging, engineers should evaluate its severity will be on production. You can use kibana or other tools to evaluate the number of requests impacted. If the severity is high, [appropriate actions](/handbook/engineering/releases/#deployment-blockers) should be taken.
 
 In particular, when the most used package registries (npm, Maven) are impacted negatively, consider the bug a higher severity. If the bug disrupts the expected behavior of those package registries, consider blocking the next production deployment with the appropriate actions above.
 
@@ -272,13 +272,13 @@ In particular, when the most used package registries (npm, Maven) are impacted n
 In order to better align our effort with our customer's needs we will use the following methodology to measure our results. We believe that our best measure of success and progress is our [product category maturity plan](https://about.gitlab.com/direction/maturity/#package). Progress towards these goals will be measured as follows:
 
 1. The long term product category maturity goals will be split into each stage: [minimal, viable, complete and, loveable](https://about.gitlab.com/direction/maturity/)
-1. For each catergory's next maturity stage, we'll break down each feature into small iterations and give them [issue weights](/handbook/engineering/development/ops/package/#issue-weighting)
-1. These weighted issues will have the ~Package:P1 label applied then be scheduled in upcoming milestones
+1. For each category's next maturity stage, we'll break down each feature into small iterations and give them [issue weights](/handbook/engineering/development/ops/package/#issue-weighting)
+1. These weighted issues will have the `Package:P1` label applied then be scheduled in upcoming milestones
 1. We'll measure our delivery by the percentage of committed product issues that were completed within a given development phase. Our goal is 100% completion. We track this measurement with a [Say Do Ratio](/handbook/engineering/development/performance-indicators/#say-do-ratios).
 1. We will resolve security vulnerabilities in a timely manner, based on severity.
 1. We will reevaluate our ability to deliver on our long term goals in each iteration.
 
-The process of making sure that there are issues to evaluate and break down is the responsibility of our Product Manager. It is the responsibility of the engineering team to evaluate each issue and make sure it's ready for development (using the ~"workflow::ready for development" label). It is the responsibility of our Product Designer to evaluate user experience and score our product maturity based on user research. This process will take some time to complete each time we achieve a new maturity stage. [MR Rate](/handbook/engineering/development/performance-indicators/#mr-rate) will be used as an objective measure of our efficiency, not of alignment with our customer's needs or our organizational goals.
+The process of making sure that there are issues to evaluate and break down is the responsibility of our Product Manager. It is the responsibility of the engineering team to evaluate each issue and make sure it's ready for development (using the `workflow::ready for development` label). It is the responsibility of our Product Designer to evaluate user experience and score our product maturity based on user research. This process will take some time to complete each time we achieve a new maturity stage. [MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate) will be used as an objective measure of our efficiency, not of alignment with our customer's needs or our organizational goals.
 
 ##### Product maturity goals
 
@@ -347,7 +347,7 @@ Ultimately the aim is to enable community contributor to deliver meaningful work
 
 ##### Definition
 A merge request with the following properties:
-1. It impacts features or issues managed by the Package group. This means it has the ~"devops::package" label
+1. It impacts features or issues managed by the Package group. This means it has the `devops::package` label
 2. Contributed by anyone in the wider community or at GitLab who isn't part of the Package group
 3. Contributed by a team member who doesn't work in the same functional area (Frontend engineer contributing to Backend code)
 
@@ -365,7 +365,7 @@ A Package group member will adopt the community contribution with the following 
 
 Given the number of community contributions submitted (thank you!), the Package team will include them in [Milestone Planning issues](https://gitlab.com/groups/gitlab-org/-/epics/3591). We'll schedule time for team members to assist with the various community contributions as part of our milestone plan. You can view  guidelines for merge requests and a definition of done [here](https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html#definition-of-done).
 
-The Package team will add review weight labels to community contributions to try to help understand the required effort and plan capacity. The intention is to help the team better plan for the support of community contributions among other priorities. We'll start with labels for weights of 1, 2, 3, and 5 similar to the weights we use for our issues. The only difference is that a package-review-weight::5 won't be replaced with an investigation. We will analyse our community contribution capacity in %"14.3".
+The Package team will add review weight labels to community contributions to try to help understand the required effort and plan capacity. The intention is to help the team better plan for the support of community contributions among other priorities. We'll start with labels for weights of 1, 2, 3, and 5 similar to the weights we use for our issues. The only difference is that a `package-review-weight::5` won't be replaced with an investigation. We will analyse our community contribution capacity in milestone `14.3`.
 
 Other points to consider for the Package group member:
 * The coaching can range from commenting/reviewing the merge request to pair programming through Zoom.
@@ -379,7 +379,7 @@ Other points to consider for the Package group member:
 
 #### Missed deliverables retrospectives
 
-When issues that we commit to delivering (have the ~Deliverable label) are not delivered in the milestone we commit to, we will hold an asynchronous retrospective on the miss to determine the root cause following the [guidelines outlined in the handbook](/handbook/engineering/root-cause-analysis/). In instances of a single issue, these retrospectives may be quite brief, in scenarios where we miss a larger effort, the root cause analysis will be more detailed. These should be conducted within the first week following the determination that we'll miss the deliverable.
+When issues that we commit to delivering (have the `Deliverable` label) are not delivered in the milestone we commit to, we will hold an asynchronous retrospective on the miss to determine the root cause following the [guidelines outlined in the handbook](/handbook/engineering/root-cause-analysis/). In instances of a single issue, these retrospectives may be quite brief, in scenarios where we miss a larger effort, the root cause analysis will be more detailed. These should be conducted within the first week following the determination that we'll miss the deliverable.
 
 #### Async Daily Standups
 
