@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/merge-request-report-wid
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | August 1, 2021 |
-| Target End Date | October 31, 2021 |
+| Target End Date | January 31, 2022 |
 | Slack           | [#wg_merge-request-report-widgets](https://gitlab.slack.com/archives/CV2M96LJG) (only accessible from within the company) |
 | Google Doc      | [Merge Request Report Widgets Working Group Agenda](https://docs.google.com/document/d/1bcch8UUkwmgEHFolTWDrQFJtUiiXlv_yQFAGwSSDSUE/edit?usp=sharing) (only accessible from within the company) |
 | Implementation discussion | [gitlab#333975](https://gitlab.com/gitlab-org/gitlab/-/issues/333975) |
