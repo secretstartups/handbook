@@ -8,7 +8,7 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ## LAB 2- Configure and Enable Dependency Scanning, and Interact with Vulnerabilities
 
-### Configure Dependency Scanning (Note to KM: This would require rethinking Lab 1)
+### Configure Dependency Scanning 
 1. Add the following to your `.gitlab-ci.yml`:
 ```
     include:
