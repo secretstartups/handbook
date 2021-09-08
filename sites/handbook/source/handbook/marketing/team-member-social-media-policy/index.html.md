@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Team Member Social Media Policy 
 description: This is the GitLab employee social media policy
-twitter_image: 
+twitter_image: "/images/opengraph/handbook/social-marketing/team-member-social-media-policy.png"
 twitter_image_alt: GitLab Social Media Policy
 
 ---
