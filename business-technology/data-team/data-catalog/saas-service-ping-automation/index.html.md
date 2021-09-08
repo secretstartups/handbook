@@ -50,14 +50,17 @@ To solve for these two primary sets of problems, the Data Team is developing "Au
 * **SaaS Instance Service Ping** - Automated weekly generation of Service Ping for the GitLab.com instance
 * **SaaS Namespace Service Ping** - Automated weekly generation of Service Ping for every GitLab.com instance->namespace
 
-#### 4 Types of Service Ping Processes (Temporarily)
+#### 4 Types of Service Ping Processes Run Versus 3 Environments
 
 To summarize, there are 4 types of Service Ping either in production or development:
 
-| | Self-Managed Service Ping | Manual SaaS Instance Service Ping | (Automated) SaaS Instance Service Ping | (Automated) SaaS Namespace Service Ping |
+| | 1. Self-Managed Service Ping | 2. SaaS Service Ping | 3. SaaS Instance Service Ping | 4. SaaS Namespace Service Ping |
 | :--- | :--- | :--- | :--- | :--- |
-| Where Run | A Customer's Self-Managed Instance | Within GitLab.com Infrastructure | Data Platform Infrastructure | Data Platform Infrastructure |
-| Run By | Customer (Automatically) | GitLab Product Intelligence (Manually) | GitLab Data Team (Automatically) | GitLab Data Team (Automatically) |
+| Where Run | Environment 1: A Customer's Self-Managed Instance | Environment 2: Within GitLab.com Infrastructure | Environment 3: Data Platform Infrastructure | Environment 3: Data Platform Infrastructure |
+| Run By | GitLab (Automatically) | Product Intelligence (Manually) | Airflow (Automatically) | Airflow (Automatically) |
+| Frequency | Weekly | Weekly | Weekly | Weekly |
+| Code Owner | Product Intelligence | Product Intelligence | Data Team | Data Team |
+| Source Code | Ruby, SQL | Ruby, SQL | Python, SQL, dbt | Python, SQL, dbt |
 | Data Granularity | Instance | Instance | Instance | Namespace |
 | Development Status | Live-Production | Live-Production | In Development | Live-Production | 
 
@@ -69,9 +72,9 @@ Automated SaaS Service Ping is a [python program](https://gitlab.com/gitlab-data
 
 ```mermaid
 graph LR
-subgraph Postgres SQL-sourced (PSQL) Metrics
-B[Gather Metrics Queries via API] --> C[Transform PSQL to SSQL]
-C --> D[Run SSQL versus Snowflake GitLab.com clone]
+subgraph Postgres SQL-sourced (PG-SQL) Metrics
+B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL (S-SQL)]
+C --> D[Run S-SQL versus Snowflake GitLab.com clone]
 D --> E[Store metrics results in Snowflake RAW]
 end
 ```
@@ -85,16 +88,16 @@ end
 
 1. Assume the GitLab.com postgres source data pipelines are running and fresh up-to-date data is available in Snowflake RAW and PREP
 1. Grab the latest set of metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
-1. For Postgres SQL-sourced (PSQL) Metrics
-     1. Transform Instance-Level PSQL to Snowflake SQL (SSQL) and version control the resulting code
-     1. Run SSQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
-     1. [Transform Instance-Level PSQL to Namespace-Level SSQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
-     1. Run the Namespace-Level SSQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
+1. For Postgres SQL-sourced (PG-SQL) Metrics
+     1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) and version control the resulting code
+     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
+     1. [Transform Instance-Level PG-SQL to Namespace-Level S-SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
+     1. Run the Namespace-Level S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 1. For Redis-sourced Metrics
      1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
 1. Once all of the metrics have been collected from sources external to Snowflake and brought into Snowflake (either in tables or as in the case of Redis, JSON), more traditional Snowflake dbt data transformations are initiated:
-    1. [instance dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
-    1. [namespace dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
+    1. [Begin instance dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
+    1. [Begin namespace dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
 
 #### Known Limitations/Improvements
 
