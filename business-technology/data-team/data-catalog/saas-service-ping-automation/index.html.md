@@ -68,46 +68,70 @@ In total, there are 4 types of Service Ping either in production or development:
 
 ### Process Overview
 
-**(Automated) SaaS Service Ping** is a collection of [python programs](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) and dbt processes orchestrated with Airflow and scheduled to run weekly. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program needs to access data from two primary data sources: redis counters and SQL-Based postgres tables. Neither data store is natively available in the Snowflake Data Warehouse, so they are "piped" into Snowflake with automated data pipelines. SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW, while redis data is accessed at program runtime and also stored in RAW. Once these data stores are available in Snowflake, separate processes run to generate Service Ping metrics results from them. Finally, the new  SaaS Namespace Service Ping metrics are powered by GitLab [`namespaces`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) and Namespace metrics are only available for Postgres SQL-source metrics, not Redis metrics.
+**(Automated) SaaS Service Ping** is a collection of [python programs](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py) and dbt processes orchestrated with Airflow and scheduled to run weekly within the Enterprise Data Platform. The [Automated SaaS Service Ping Project](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) stores all source code and configuration files. The program relies on two primary data sources: redis counters and SQL-Based postgres tables. Both sources are implemented as automated data pipelines into Snowflake, intended to run independently of the SaaS Service Ping implementation process.
+* SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW
+* Redis data is accessed at program runtime and also stored in RAW
+
+#### SaaS Instance Service Ping
+
+SaaS Instance Service Ping runs as described in the Process Overview.
 
 ```mermaid
 graph LR
 subgraph Postgres SQL-sourced Instance Level Metrics
-B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
-C --> D[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
-D --> E[Store metrics results in Snowflake RAW GITLAB_DOTCOM]
+B[1: Gather latest Metrics Queries via API] --> C[2: Transform PG-SQL to Snowflake-SQL]
+C --> D[3: Run Snowflake-SQL versus Snowflake's GitLab.com clone]
+D --> E[4: Store metrics results in Snowflake RAW GITLAB_DOTCOM]
 end
 ```
 
 ```mermaid
 graph LR
 subgraph Redis-sourced Instance Level Metrics
-B[Gather Metrics Values via API] --> C[Store metrics results in Snowflake RAW INSTANCE_REDIS_METRICS]
+B[1: Gather Metrics Values via API] --> C[2: Store metrics results in Snowflake RAW INSTANCE_REDIS_METRICS]
 end
 ```
+
+#### SaaS Namespace Service Ping
+
+SaaS Namespace Service Ping produces metrics at a finer-level of granularity than SaaS Instance Service Ping. The process accesses a list of all namespaces in GitLab.com and loops through each namespace to generate ultimate-parent namespace-level usage metrics. The [`namespaces`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql) table provides input to the the program and for efficiency, a SQL SET OPERATION is used with SQL `GROUP BY` namespace-id instead of a traditional 1-by-1 namespace loop. **Final metrics output is stored at the ultimate parent namespace level**. A drawback with Namespace Service Ping is that only SQL-sourced metrics are currently available and Redis-sourced metrics such as `analytics_unique_visits.g_analytics_contribution` are currently unavailable.
 
 ```mermaid
 graph LR
 subgraph Postgres SQL-sourced Namespace Level Metrics
-B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
-C --> D[Append Namespaces SQL to Snowflake-SQL]
-D --> E[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
-E --> F[Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
+A --> B[1: Load namespace-level Snowflake-SQL]
+B --> C[2: Run Snowflake-SQL versus Snowflake's GitLab.com clone]
+C --> D[3: Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
 ```
 
+### Metric Generation Process Pseudo-code
+
 1. Assume the GitLab.com postgres source data pipelines are running and fresh up-to-date data is available in Snowflake RAW and PREP
-1. Grab the latest set of metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
-1. For Postgres SQL-sourced (PG-SQL) Metrics
-     1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) and version control the resulting code
-     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
-     1. [Transform Instance-Level PG-SQL to Namespace-Level S-SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
-     1. Run the Namespace-Level S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
-1. For Redis-sourced Metrics
-     1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
-1. Once all of the metrics have been collected from sources external to Snowflake and brought into Snowflake (either in tables or as in the case of Redis, JSON), more traditional Snowflake dbt data transformations are initiated:
+1. Begin [Service Ping python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py)
+     1. Start Instance-level metrics generation
+          1. Start Postgres SQL-sourced Metrics
+               1. Grab the latest set of Postgres SQL-sourced (PG-SQL) metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
+               1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) using the [python transformer](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py)
+               1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
+          1. Start Redis-sourced Metrics
+                1. Call the Redis API
+                1. Data is picked up and stored in a [JSON format](https://gitlab.com/-/snippets/2095831), the approximate size is around 2k lines, usually one file per load (at the moment, it is a weekly load) and stored in `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`
+     1. Start Namespace-Level metrics generation
+          1. Grab the latest metrics queries from the [Namespace Queries JSON](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping_namespace_queries.json)
+          1. Run the Namespace Queries versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
+1. Now with all source data in Snowflake, start dbt processing
     1. [Begin instance dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
     1. [Begin namespace dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
+
+
+### Instance Ping DBT Process Pseudo-code
+
+`coming soon`
+
+### Namespace Ping DBT Process Pseudo-code
+
+`coming soon`
 
 #### Known Limitations/Improvements
 
