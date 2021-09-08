@@ -718,7 +718,7 @@ Calculates the storage usage of the container registry for each project in a giv
 
 | Name | Required | Details |
 | ------ | ------ | ------ |
-| `:grouo` | *Yes* | The group to query |
+| `:group` | *Yes* | The group to query |
 
 #### Sample
 
