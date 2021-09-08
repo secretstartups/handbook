@@ -708,6 +708,36 @@ irb(main):180:0>  update_extra_storage("gitlab-gold",5000)
 => nil
 ```
 
+### container_registry_storage_usage
+
+> Note: For a large group, this may take several hours, if unsure ask for help in confirmation before running it.
+
+Calculates the storage usage of the container registry for each project in a given group, the output is the total result in GB and detailed per project.  
+
+#### Parameters
+
+| Name | Required | Details |
+| ------ | ------ | ------ |
+| `:grouo` | *Yes* | The group to query |
+
+#### Sample
+
+```ruby
+irb(main):749:0>  container_registry_storage_usage('some-group') ; nil
+[*] Total Storage Used [ 0.799 GB ]
+
+{"my-project-bash"=>
+  {"project_id"=>00000000,
+   "project_path"=>"example/for-output/my-project-bash",
+   "container_registry_storage_used"=>"0.764 GB"},
+ "my-other-project"=>
+  {"project_id"=>00010000,
+   "project_path"=>"example/for-output/my-other-project",
+   "container_registry_storage_used"=>"0.025 GB"}}
+=>
+
+```
+
 ## FAQ
 
 1. How can I add a function?
