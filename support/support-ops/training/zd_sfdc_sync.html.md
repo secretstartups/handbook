@@ -5,10 +5,6 @@ category: Zendesk
 description: 'Training documentation concerning Zendesk<>Salesforce Sync'
 ---
 
-> this is a test
->
-> more line
-
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
