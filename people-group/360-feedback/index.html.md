@@ -37,7 +37,7 @@ In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we
 - **Nomination Phase** (2 weeks) - Team member nominates peers, manager, and any direct reports they have. Managers can adjust the peer nominations at this time and whenever the nominations are set the manager or a Culture Amp admin can launch the individual review.
 - **Feedback Phase** (4 weeks) - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. All team members will be moved from feedback phase to review phase at 12 PST on September 10th. This is a manual task that the People Ops Specialist will complete.
 - **Review Phase** (1 week) -  at the close of the 360 feedback session CultureAmp will send the team member and the manager the report for review.
-- **Discussion Phase** (2 Weeks) - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-meeting).
+- **Discussion Phase** (2 Weeks) - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation).
 - October 3rd  - Closing the cycle
 - Date TBD - Feedback Retrospective issue can be found [here](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/1269).
 
