@@ -39,7 +39,7 @@ The following shows the high-level view of the capabilities that we will be deve
 ![GitLab Capabilities Roadmap](images/capabilities-roadmap.jpeg)
 
 ## Strategy and Priorities Page
-The ["Strategy and Priorities Page"](/handbook/customer-success/strategy/) will show updates on our strategy and priorities for the given period.
+The [Strategy and Priorities Page](https://docs.google.com/document/d/1W2FO-vZV5Q3OoRyDvRUNpxVWVLUW4dKZ-HNNckPdJi8/edit) (internal only) will show updates on our strategy and priorities for the given period.
 
 ## Product Usage Data 
 
@@ -94,58 +94,7 @@ For a detailed description of Customer Health and Early Warning System methodolo
 
 ### Retention and Reasons for Churn
 
-We measure customer success through Net Retention.
-
-Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) net retention rate is above 130%.
-
-Our [Target](/handbook/finance/financial-planning-and-analysis/#terminology) gross retention rate is 90%.
-
-#### Retention, Gross & Net (Dollar Weighted)
-
-We measure Net and Gross Retention aggregated by month, for the [three levels of customers](/handbook/sales/sales-term-glossary/).
-
-```
-For an individual customer:
-
-Gross Retention (%) = C / A * 100%
-Net Retention (%) = B / A * 100%
-
-**A** = MRR from 12 months ago from active customer
-**B** = Current MRR from the same customer in A
-**C** = Gross retained dollars calculated as min(B, A)
-
-Individual customer retention calculations cannot be averaged together directly to determine the retention across all customers.
-Because customers have different values, the retention percentages don't represent the same magnitude.
-
-For all customers, first calculate gross retained dollars for each individual customer and then calculate as follows:
-
-Gross Retention (%) = sum(C) / sum(A) * 100%
-Net Retention (%) = sum(B) / sum(A) * 100%
-
-**A** = MRR from 12 months ago from all active customers
-**B** = Current MRR from the same set of customers in A
-**C** = Gross retained dollars for each customer (see individual example)
-
-
-Example:
-There are two customers (X and Y) who each have $100 in MRR in the current month (B).
-12 months ago, X had $50 in MRR and Y had $125 in MRR (A).
-
-Gross retention for X is (min(100, 50) / 50) * 100% = 100%
-Net retention for X is (100 / 50) * 100% = 200%
-
-Gross retention for Y is (min(100, 125) / 125) * 100% = 80%
-Net retention for Y is (100 / 125) * 100% = 80%
-
-Gross retention across both is sum(min(100, 50), min(100, 125)) / sum(50+125) * 100% = ~86%
-Net retention across both is (sum(100+100) / sum(50+125)) * 100% = 114%
-```
-
-Gross Retention cannot exceed 100%. [Industry guidance](http://www.forentrepreneurs.com/saas-metrics-2/%22) suggests median gross dollar churn performance for SaaS/subscription companies is 8% per year (or 92% gross retention).
-
-Since MRR values can change on a regular basis, retention can therefore change since it relies on MRR. See [Monthly Recurring Revenue](/handbook/finance/operating-metrics/#monthly-recurring-revenue-mrr) for more details
-
-We need to choose a single retention level to measure for customer success, so the default value used is the Parent Account in that context.
+We measure customer success through Gross and Net Retention.
 
 #### Reasons for Churn / Expansion, Dollar Weighted
 
