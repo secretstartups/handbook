@@ -16,7 +16,7 @@ title: "Inside Sales, Mid-Market"
 ## Requirements
 
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
 * Comfort using Zuora, Salesforce
 * Experience selling into commercial organizations
 * Interest in GitLab, and open source software

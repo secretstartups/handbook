@@ -18,7 +18,7 @@ The VP, Global Enterprise Sales is a [grade 12](/handbook/total-rewards/compensa
 
 ## Requirements
 
-* 15+ years of progressive, global enterprise sales leadership and operations experience within the software / open source / devops industry.
+* Demonstrated progressive progressive, global enterprise sales leadership and operations experience within the software / open source / devops industry.
 * Experience leveraging, building and managing enterprise sales teams globally; proven record of recruiting and enabling top talent.
 * Experience selling to Fortune 500; willing to “roll up the sleeves’ and sell, and help teams close deals when needed.
 * Proven track record of meeting or exceeding performance objectives (revenue targets, pipeline targets, etc.)

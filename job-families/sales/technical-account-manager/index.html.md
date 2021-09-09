@@ -51,7 +51,7 @@ The Junior TAM is a job grade [level 5](/handbook/total-rewards/compensation/com
 
 ### Junior TAM Requirements
 
-* 3 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+* Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 
 ## Technical Account Manager (TAM) (Intermediate)
 
@@ -73,7 +73,7 @@ The TAM( Intermediate) is a [grade 6](/handbook/total-rewards/compensation/compe
 
 ### TAM (Intermediate) Requirements
 
-- 7 + years of experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
+- Demonstrated progressive experience in a related function is required with direct customer advocacy and engagement experience in post-sales or professional services functions
 - Experience with Ruby on Rails applications and Git
 - Deep knowledge of software development lifecycle and development pipeline
 - Understanding of continuous integration, continuous deployment, chatOps, and cloud-native
@@ -104,7 +104,7 @@ The Public Sector Technical Account Manager is a [grade 6](/handbook/total-rewar
 
 - In addition to the TAM (Intermediate) requirements:
 - TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
+- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
 
 ## Senior TAM
 
@@ -152,7 +152,7 @@ The Senior Public Sector Technical Account Manager is a [grade 7](/handbook/tota
 
 - In addition to the Senior TAM (Intermediate) requirements:
 - TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
+- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
 
 ## Principal TAM (Account)
 
@@ -295,7 +295,7 @@ The Manager, Public Sector Technical Account Manager is a [grade 9](/handbook/to
 
 - In addition to the Manager, TAM requirements:
 - TS/SCI Security Clearance if applicable
-- Knowledge of and at least four years of experience with Federal Public Sector customers
+- Knowledge of and demonstrated progressive experience with Federal Public Sector customers
 
 ## Senior Manager, TAM
 
@@ -318,8 +318,8 @@ The Senior Manager, TAM is a [grade 9](/handbook/total-rewards/compensation/comp
 ### Senior Manager, TAM Requirements
 
 * Extends the Manager, TAM requirements
-* 2-4 years of management experience leading teams in a software company
-* 2 years experience leading customer success managers, account management or sales teams with team sizes of 5+ people
+* Demonstrated progressive management experience leading teams in a software company
+* Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 5+ people
 * Proven experience leading teams, driving software adoption, and building and scaling customer success management practices
 
 ## Director of TAMs
@@ -356,9 +356,9 @@ The Director of TAMs is a job grade [level 10](/handbook/total-rewards/compensat
 
 ###  Director of TAMs Requirements
 
-* 7 - 10 years of management experience leading teams in a software company 
-* 5 years experience leading customer success managers, account management or sales teams with team sizes of 30 people+
-* 3 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+* Demonstrated progressive management experience leading teams in a software company 
+* Demonstrated progressive experience leading customer success managers, account management or sales teams with team sizes of 30 people+
+* Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 * Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and/or cloud deployment models (AWS, GCP, Azure) is a plus
 * Demonstrated ability to lead managers and successfully manage global, distributed teams across cultures, lines of business, and geographies
 * Possesses a strong management presence and leadership ability, with communication and interpersonal skills that inspire and motivate leaders and teams
@@ -386,7 +386,7 @@ The Director of TAMs is a job grade [level 11](/handbook/total-rewards/compensat
 ###  Senior Director of TAMs Requirements
 
 * Extends that of the Director of TAMs requirements
-* 5 years experience leading managers of customer success teams in a SaaS or subscription enterprise software company
+* Demonstrated progressive experience leading managers of customer success teams in a SaaS or subscription enterprise software company
 
 ## Specialties
 

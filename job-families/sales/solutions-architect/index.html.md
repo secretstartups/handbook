@@ -208,8 +208,8 @@ The Director, Solutions Architects is a [grade 10](/handbook/total-rewards/compe
 
 #### Director, Solutions Architects Requirements
 
-- 5+ years of experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
-- 2+  years of experience building and leading global teams of managers with team sizes of 30+ team members
+- Demonstrated progressive experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
+- Demonstrated progressive experience building and leading global teams of managers with team sizes of 30+ team members
 - Demonstrated proficiency building and improving strategies and operations to technical assessment processes and team enablement
 - Experience with software development lifecycle processes and tools as well as agile and or DevOps practices
 - Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and or cloud deployment models (AWS, GCP, Azure)
@@ -232,8 +232,8 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 #### Senior Director, Solutions Architects Requirements
 
 - Extends the Director, Solutions Architect requirements
-- 7+ years of experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
-- 4+ years of experience building and leading global teams of managers and directors with team sizes of 50+ team members
+- Demonstrated progressive experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
+- Demonstrated progressive experience building and leading global teams of managers and directors with team sizes of 50+ team members
 
 ---
 ## Specialties
@@ -312,7 +312,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 * Manage all technical aspects of the sales cycle: creating high-quality professional presentations, custom demos, proof of concepts, deliver technical deep-dive sessions & workshops, differentiate GitLab from alternative solutions, answering RFI, RFPs, etc.
 * TS/SCI Security Clearance
 * Must be located in the Washington DC metro area
-* Knowledge and at least four years of experience with Federal customers
+* Knowledge and demonstrated progressive experience with Federal customers
 * Ability to travel up to 50%
 * Understand mono-repo and distributed-repo approaches.
 
