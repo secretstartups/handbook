@@ -85,7 +85,7 @@ EntApps works to resolve business issues using a 4 stage process: discover, buil
 ### Intake
 Open a request for the Enterprise Applications team by using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
 
-On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open unassigned Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&utf8=%E2%9C%93&assignee_id=None) and assign them to a specific BSA to perform Discovery duties. Additional information will be requested in the Issue.
+On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&label_name[]=EntApps%20Intake&not[label_name][]=BSA&not[label_name][]=BT%20Finance%20Systems) and assign them to a specific BSA to perform Discovery duties. Additional information will be requested in the Issue.
 
 Depending on the complexity and urgency of the request, the BSA will either track work and provide updates directly in the Issue or create a project Epic to properly manage more-intricate requests.  The same phases, discussed below, are followed for both Intake Requests and Project Epics.
 
@@ -133,7 +133,7 @@ EntApps owns developing a deployment plan and collaborating with other implement
 - EntApps Roadmap Update
 
 ### Rolly
-[Rolly](handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
+[Rolly](/handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
 
 ### Labels
 Labels help us organize and tag our work so we can track and find the work items we’re interested in.

@@ -232,11 +232,18 @@ If you decide to donate your laptop instead of the Trade-in program in terms of 
 
 ### Laptop Repair
 
-If your laptop is broken and needs to be repaired you can take it into an Apple repair store.
-If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense.
-If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
+If your laptop is broken and needs to be repaired you can take it into an Apple repair store. You should ensure that you have a recent backup before doing so, and that your laptop is not your only registered device for iCloud two-factor authentication.
+
+If the repair is not going to be too expensive (more than $1000 dollars USD), go ahead and repair and expense. If the repair is going to take longer than a day then you need to make sure you have a back up laptop to work on that is non-Windows.
+
 You can open an issue in the [Team Member Enablement Issue Tracker](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Repair) to document the repair and get your managers approval.
+
+Do not provide the repair center with any credentials to your laptop. If they ask, you can tell them that they're authorized to do a factory reset on the laptop should it be necessary to run diagnostics. This will help prevent sensitive data from being accidentally or intentionally leaked during repair.
+
+Once you receive your laptop back, re-install MacOS ([instructions here](https://support.apple.com/en-au/HT208496)) and restore your data from a recent backup. This is to ensure that no unauthorized software was added during the repair process.
+
 If, however, the repair is going to be expensive and take weeks to fix and you have no back up laptop, your best option is to replace the laptop.
+
 In this case please open [an issue to replace](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement).
 Then please follow the guidelines in the template and once you receive the new laptop we can have the old one sent off to our reseller.
 
@@ -299,12 +306,12 @@ Reformatting a computer is not sufficient in these cases because it is possible 
 
 ### Snipe-IT
 
-The Team Member Enablement Team has been busy iterating and and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021 Gitlab now has an asset tracking application that will be used as a source of truth for all Gitlab hardware! If you are a member of Gitlab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials). 
+The Team Member Enablement Team has been busy iterating and setting up [Snipe-IT open source asset management](https://snipeitapp.com/). As of April 2021, GitLab has an asset tracking application that is the source of truth for all GitLab hardware! If you are a member of GitLab you can sign in and view the application at https://snipeit.gitlab.net/ (Use your Okta credentials). 
 
 How does it work exactly?
 
-Im glad you asked! We installed and configured the application in a GCP virtual machine, we setup an integration with Jamf and our Okta LDAP directory to automatically sync users and laptop information from Jamf. Linux machines will be imported manually through the apps web interface.
-If you would like a more detailed view of whats been completed and what will come in the future please check out the [master issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/296) for Snipe-IT.
+I'm glad you asked! We installed and configured the application in a GCP virtual machine, we set up an integration with Jamf and our Okta LDAP directory to automatically sync users and laptop information from Jamf. Linux machines will be imported manually through the apps web interface.
+If you would like a more detailed view of what has been completed and what will come in the future, please check out the [master issue](https://gitlab.com/gitlab-com/business-technology/change-management/-/issues/296) for Snipe-IT.
 
 ## Other Resources
 

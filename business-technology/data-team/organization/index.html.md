@@ -43,10 +43,10 @@ classDiagram
 
 | **GTM** | **R&D** | **G&A** |
 | ----- | ----- | ----- |
-| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@rparker2` (Acting) _Lead/DRI_ | 
-| `@ken_aguilar` |  `@snalamaru` |  |
-| `@jeanpeguero` | `@mpeychet` |  |
-| `@michellecooper` | `@chrissharp` | |
+| `@iweeks` _Lead/DRI_ | `@mlaanen` _Lead/DRI_  | `@iweeks` _DRI_                 | 
+| `@ken_aguilar`       |  `@snalamaru`          | `@pempey` _Lead_                 |
+| `@jeanpeguero`       | `@mpeychet`            |                                 |
+| `@michellecooper`    | `@chrissharp`          |                                 |
 | `@paul_armstrong` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| `@rbacovic` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_| |  
 | | | |
 						

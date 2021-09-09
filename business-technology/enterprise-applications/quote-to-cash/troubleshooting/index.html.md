@@ -46,8 +46,7 @@ Make sure to save these credentials as distinct from your regular GitLab credent
 
 ##### What is a True Up?
 
-- [definition](/handbook/sales/#true-up)
-- A true-up is a back payment for a customer going over their license count during the previous year.
+A true-up is a back payment for a customer going over their license count during the previous year.
 We use the true-up model so that the license never becomes a barrier to adoption for the client.
 
 ##### What causes a true-up error?
@@ -65,7 +64,7 @@ If the true-up is not added or has the incorrect number of users over the licens
 
 The customer is always free to renew for as many users as they would like, even if this number is lower than the previous year; the true-up amount just needs to be paid for in full.
 
-If a customer is having issues obtaining the number of licenses needed to purchase, you can [request a screenshot](/handbook/business-technology/enterprise-applications/applications/troubleshooting/#how-to-ask-the-customer-for-a-screenshot-needed-for-users-over-license-with-self-managed) from them or else access their usage ping data through the [version application](https://version.gitlab.com/).
+If a customer is having issues obtaining the number of licenses needed to purchase, you can [request a screenshot](/handbook/business-technology/enterprise-applications/quote-to-cash/troubleshooting/#how-to-ask-the-customer-for-a-screenshot-needed-for-users-over-license-with-self-managed) from them or else access their usage ping data through the [version application](https://version.gitlab.com/).
 If there is no data available through usage ping, we can conclude that the usage ping has been disabled in the instance, and you will need to obtain this information manually.
 
 ##### Customer Question: Why is there a discrepancy between “Maximum Users” and “Users” on the admin dashboard? (self-managed)

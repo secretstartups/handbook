@@ -222,7 +222,7 @@ Manual job to do a dry run of [Permifrost](https://gitlab.com/gitlab-data/permif
 
 #### yaml_validation
 
-Triggered when there is a change to `load/snowflake/roles.yml`. Validates that the YAML is correctly formatted.
+Triggered when there is a change to `permissions/snowflake/roles.yml`. Validates that the YAML is correctly formatted.
 
 ### 🛑 Snowflake Stop
 

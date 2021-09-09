@@ -15,7 +15,7 @@ title: "Team Member Separations"
 ---
 ## Team Member Separations Report
 
-This report identifies all separated team members. Note: This data is accessible only in snowflake to users with the bamboohr_sensitive_separation role in [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/load/snowflake/roles.yml). This data is not accessible in Sisense.
+This report identifies all separated team members. Note: This data is accessible only in snowflake to users with the bamboohr_sensitive_separation role in [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml). This data is not accessible in Sisense.
 
 
     Data can be access by running:

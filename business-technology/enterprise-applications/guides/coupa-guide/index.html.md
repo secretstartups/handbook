@@ -129,6 +129,9 @@ For approvals as part of an approval group, the individual must be a member of t
 
 ### How to Create a Requisition
 
+For Field Marketing Dept Only - please refer to the [Field Marketing Handbook - Allocadia](https://about.gitlab.com/handbook/marketing/strategy-performance/allocadia/#coupa) to understand how to create Coupa requisitions directly from Allocadia. 
+{: .alert .alert-info}
+
 #### Free-Form Requisition
 
 ![coupa-image-4](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa4.png)
