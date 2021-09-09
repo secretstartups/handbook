@@ -130,11 +130,6 @@ Considerations are cumulative and can be:
 1. You are based in APAC
 1. You belong to a GitLab Team Member Resource Group ([TMRG](/company/culture/inclusion/erg-guide/))
 
-If you are not a GitLab team member and you'd like to apply to the program, you are eligible if:
-1. You've work(ed) at an investment firm and while there helped to lead a private round in GitLab.
-1. A member of GitLab's Customer Advisory Board (CAB)[marketing/strategic-marketing/customer-reference-program/CAB/]
-1. A CEO of a customer or prospect company with high GitLab [LAM](/handbook/sales/sales-term-glossary/#landed-addressable-market-lam) 
-1. A CEO of a startup and you were invited by an [E-Group](https://about.gitlab.com/company/team/structure/#executives) member
 
 Exceptions to eligibility:
 
@@ -154,7 +149,7 @@ Shadows who have chosen to delay their rotations until another time include:
 - Liam McNally
 - Bartek Marnane
 
-### How to apply if you're a GitLab Team Member
+### How to apply 
 
 1. Create a merge request to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria (merge request examples: [Anastasia Pshegodskaya](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/43159), [Jackie Meshell](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/42958), [Philippe Lafoucrière](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/51265)).
 1. Assign your manager and ask them to approve (**but not to merge**) the merge request. Managers, please ensure the candidate meets the eligibility criteria.
@@ -162,10 +157,6 @@ Shadows who have chosen to delay their rotations until another time include:
 
 Please keep in mind when selecting dates that the CEO's schedule is fluid and subject to constant change, which also means that the CEO shadow rotation is subject to constant change. The posted dates are not guaranteed. We will work with you to reschedule your rotation if a conflict arises. 
 
-### How to apply if you're not a GitLab Team Member 
-1. Create a merge request (requires a GitLab account) to add yourself to the [rotation schedule](#rotation-schedule). Ensure the merge request description highlights how you meet the eligibility criteria and includes your email address. 
-1. Assign the merge request to the [Executive Business Admin supporting the CEO](/handbook/eba/#executive-business-administrator-team) [@cheriholmes](https://gitlab.com/cheriholmes) in the Assignee field.  Within 48hrs, the EBA will reach out to you via e-mail. 
-1. Upon approval of your application the program, you will be sent an NDA via DocuSign from the EBA or Legal department for your signature. An executed NDA is required to participate in the program. 
 
 ### Parental Participation
 
@@ -202,15 +193,22 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-27 | 2021-10-01 | AVAILABLE - REMOTE | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
 | 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
 | 2021-10-11 | 2021-10-15 | UNAVAILABLE | UNAVAILABLE |
-| 2021-10-18 | 2021-10-22 | AVAILABLE - REMOTE | UNAVAILABLE |
-| 2021-10-25| 2021-10-29 | Omar Fernández - Director, Strategy and Operations | AVAILABLE - REMOTE |
-| 2021-11-01| 2021-11-05 | AVAILABLE - REMOTE | Omar Fernández - Director, Strategy and Operations |
-| 2021-11-08| 2021-11-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-11-15| 2021-11-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-11-22| 2021-11-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-11-29| 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
-| 2021-12-06| 2021-12-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2021-12-13| 2021-12-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-10-18 | 2021-10-22 | Omar Fernández - Director, Strategy and Operations | AVAILABLE - REMOTE |
+| 2021-10-25 | 2021-10-29 | AVAILABLE - REMOTE | Omar Fernández - Director, Strategy and Operations |
+| 2021-11-01 | 2021-11-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-08 | 2021-11-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-15 | 2021-11-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-22 | 2021-11-24 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-11-29 | 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
+| 2021-12-06 | 2021-12-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-03 | 2022-01-07 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-10 | 2022-01-14 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+| 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
+
+
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
 
