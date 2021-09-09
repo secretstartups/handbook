@@ -72,7 +72,14 @@ The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/
 - Humble, servant leader
 
 ### Hiring Process
-This position is currently only attainable as a promotion within the Security Department
+Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
+* Candidates will then be invited to schedule an interview with the VP of Security
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Director, Security Assurance
 This position reports to the VP of Security.
@@ -180,7 +187,7 @@ Candidates for the director positions can expect the hiring process to follow th
  
 Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
-### Senior Director, Security (Sub-Department)
+### Senior Director, Security
 
 The Senior Director role extends the Director role defined by the functional area(s) the person manages.
 
@@ -211,7 +218,15 @@ The  Senior Director, Security is a [grade 11](/handbook/total-rewards/compensat
 - Humble, servant leader
 
 ### Hiring Process
-This position is currently only attainable as a promotion within the Security Department
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with VP of Security
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
+* Candidates may be requested to meet again with the VP of Security for a shortened conversation
+* Candidates will then be invited to schedule an interview with CTO of Engineering
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Vice President (VP) of Security
 This position reports to the Chief Technology Officer (CTO).
