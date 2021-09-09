@@ -72,6 +72,12 @@ In total, there are 4 types of Service Ping either in production or development:
 * SQL-Based postgres data from SaaS is synced via [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) and made available in RAW
 * Redis data is accessed at program runtime and also stored in RAW
 
+Automated SaaS Service Ping consists of two major data processing phases.
+1. **Phase 1** is gathering and genterating the metrics as defined in the [Metric Dictionary](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/)
+2. **Phase 2** is transforming the metrics into Trusted Data Model (FCT and DIM tables) format.
+
+### Phase 1: Metrics Gathering and Generation
+
 #### SaaS Instance Service Ping
 
 SaaS Instance Service Ping runs as described in the Process Overview.
@@ -105,7 +111,7 @@ C --> D[3: Store metrics results in Snowflake RAW GITLAB_DOTCOM_NAMESPACE]
 end
 ```
 
-### Metric Generation Process Pseudo-code
+#### Metrics Gathering and Generation Process Pseudo-code
 
 1. Assume the GitLab.com postgres source data pipelines are running and fresh up-to-date data is available in Snowflake RAW and PREP
 1. Begin [Service Ping python program](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping.py)
@@ -120,16 +126,18 @@ end
      1. Start Namespace-Level metrics generation
           1. Grab the latest metrics queries from the [Namespace Queries JSON](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/usage_ping_namespace_queries.json)
           1. Run the Namespace Queries versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
-1. Now with all source data in Snowflake, start dbt processing
-    1. [Begin instance dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)
-    1. [Begin namespace dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
 
+### Phase 2: Metrics transformation to Trusted Data Model 
 
-### Instance Ping DBT Process Pseudo-code
+Once all of the source metrics are available in Snowflake `RAW`, we begin dbt processing to transform the data into the Trusted Data Model format.
+- [Instance-level metrics dbt processing ](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_instance?g_v=1&g_i=%2Bsaas_usage_ping_instance%2B)=
+- [Namespace-level dbt processing](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.saas_usage_ping_namespace)
+
+#### Instance Ping DBT Process Pseudo-code
 
 `coming soon`
 
-### Namespace Ping DBT Process Pseudo-code
+#### Namespace Ping DBT Process Pseudo-code
 
 `coming soon`
 
@@ -144,7 +152,6 @@ Within Service Ping, there are 2 main types of metrics supported:
 
 - SQL metrics: metrics sourced from postgres tables
 - Redis metrics: metrics sourced from Redis counters
-
 
 <div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/8e8decaf-a45c-4bc3-9fd5-6fa3dd1ea660" id="ZaD2gkT4TN7D"></iframe></div>
 
