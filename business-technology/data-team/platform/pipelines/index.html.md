@@ -45,6 +45,7 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 
 
 ### Incremental and full loads
+
 1. Incremental extract 
 - This is the most convenient methodology, a minimal amount of records is transferred. Prerequisite is that there is a delta column available on the source table level
 - +/- 120 tables are incrementally extracted
@@ -59,6 +60,7 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 The extraction methodology is determined via the manifest file. 
 
 ### Manual Backfill of table from Postgres To Snowflake
+
 This section is used only when we need to do a backfill for a table that has below condition satisfied of gitlab Postgres database. 
 - Airflow task for the table has been completed to the latest date. 
 - The data in the table is missing for a date or date range for which catch-up has already been completed. 
@@ -147,7 +149,6 @@ Service ping has two major varieties:
 ### Self-Managed Service Ping
 
 Self-Managed Service Ping is loaded into the Data Warehouse from the Versions app and is stored in the `VERSION_DB` databases.
-
 
 ### SaaS Service Ping
 
