@@ -15,13 +15,12 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 - Reason for Privileges Chosen:
 - Learnings from the experience: 
 
-
 - Group Members: Hannah Schuler, Julia Hill- Wright, Lea Tuizat, Ryan Kimball and Steve Cull
 - Privileges Chosen: 2,8,11,20,5,14,18,16,3,7
 - Reason for Privileges Chosen:
 - Learnings from the experience:
 
-#### June 2021 Ally Lab Learning Group 2
+**June 2021 Ally Lab Learning Group 2**
 
 - Group Members: Ethan Urie, Jessica Reeder, Steve Abrams, Naomi Khan, Emily Plotkin, Meghan Maneval, and Isaac Dawson
 - Privileges Chosen: 2, 3, 4, 5, 6, 8, 11, 13, 18, 20
@@ -45,18 +44,16 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 1. Empathy first. 
 1. Asking better questions of other people. Help me understand where other people came from. 
 
-#### June 2021 Ally Lab Learning Group 2
+**June 2021 Ally Lab Learning Group 2**
 
 - Group Members: Ethan Urie, Jessica Reeder, Steve Abrams, Naomi Khan, Emily Plotkin, Meghan Maneval, and Isaac Dawson
 
 - What is one thing as a group can we do to make a positive impact on Diversity, Inclusions and Belonging?:
-1. Honesty and authenticity
-1. Be more focused on learning about others than sharing about ourselves. Being a person who listens and asks questions to genuinely understand and learn about others. I really enjoyed the one talk about building trust - so much of that gets pushed aside in business, but is really important for fostering these qualities. 
-1. Being open-minded and accepting and being prepared to be vulnerable an trust in each other.
-1. Being conscious of your own empathy and being ok with stepping into an uncomfortable place sometimes and making mistakes.
-1. Having genuine conversations about these topics with more and more people as your comfort zone expands. 
-
-
+   - Honesty and authenticity
+   - Be more focused on learning about others than sharing about ourselves. Being a person who listens and asks questions to genuinely understand and learn about others. I really enjoyed the one talk about building trust - so much of that gets pushed aside in business, but is really important for fostering these qualities. 
+   - Being open-minded and accepting and being prepared to be vulnerable an trust in each other.
+   - Being conscious of your own empathy and being ok with stepping into an uncomfortable place sometimes and making mistakes.
+   - Having genuine conversations about these topics with more and more people as your comfort zone expands. 
 
 ### Ally Lab Learning Groups Activity Sharing 
 
@@ -65,7 +62,7 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 - Activity:
 - Learnings, Actions, or Answers etc:  
 
-#### June 2021 Ally Lab Learning Group 2
+**June 2021 Ally Lab Learning Group 2**
 
 - Group Members: Ethan Urie, Jessica Reeder, Steve Abrams, Naomi Khan, Emily Plotkin, Meghan Maneval, and Isaac Dawson
 - Learnings, Actions, or Answers etc:  
@@ -80,7 +77,7 @@ canonical_path: "/company/culture/inclusion/DIB-sharing-page/"
 - Committment: As a group we commit to 
 - Values: The values we have chosen to ensure we align to out committment are as follows: Example: Action: We will say something when we see a DIB issue
 
-#### June 2021 Ally Lab Learning Group 2
+**June 2021 Ally Lab Learning Group 2**
 
 - Group Members: Ethan Urie, Jessica Reeder, Steve Abrams, Naomi Khan, Emily Plotkin, Meghan Maneval, and Isaac Dawson
 
