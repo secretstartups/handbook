@@ -60,27 +60,16 @@ If you have a resource you'd like to include, please open a merge request and co
 | [People Experience Shadow Program](https://about.gitlab.com/handbook/people-group/people-experience-shadow-program/)| The program allows for anyone to get an understanding of the People Experience responsibilities and allows for collaboration and iteration. |
 | [Stanford Continuing Studies Department](https://continuingstudies.stanford.edu/) | Standford offers many continuing education programs in multiple diciplines including leadership, writing, and professional/personal development |
 
-### Women TRMG LinkedIn Learning Cohort
+### LinkedIn Learning Pathways
 
-In March 2021, the Professional Member Development subcommittee launched our first two [LinkedIn Learning cohorts](/handbook/people-group/learning-and-development/linkedin-learning/#linkedin-learning-cohorts). The goal of these cohorts is to organize members around common learning goals, keep each other accountable, and prioritize learning.
+Review two learning pathways built by the Professional Member Development subcommittee shared in FY21 Q1 and Q2 as[LinkedIn Learning cohorts](/handbook/people-group/learning-and-development/linkedin-learning/#linkedin-learning-cohorts). You can access these courses and complete them on your own time using GitLab Learn.
 
-If you'd like to participate in the learning cohorts, please visit the [Women TMRG GitLab Learn channel](https://gitlab.edcast.com/channel/gitlab-women-tmrg). In this channel, we've organized learning pathways that each cohort will follow. If the cohort has completed, you can always work through these learning pathways asychronously!
-
-Upcoming LinkedIn Cohort dates are listed below:
-
-| Cohort Pathway | Dates |
-| ----- | ----- |
-| [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/women-in-leadership) | 2021-06 to 2021-09 |
-| [Mastering Self-Motivation and Self-Advocacy Course](https://gitlab.edcast.com/pathways/mastering-self-motivation-and-self-aadvocacy) | 2021-06 to 2021-09  |
-
-#### LinkedIn Learning Cohort Discussions
-
-To follow each LinkedIn Learning cohort, participants get together to discuss key topics and takeaways. Check out the recorded discussions below!
+1. [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/women-in-leadership)
+1. [Mastering Self-Motivation and Self-Advocacy Course](https://gitlab.edcast.com/pathways/mastering-self-motivation-and-self-aadvocacy)
 
 **FY22 Q1 LinkedIn Learning Cohort Discussion**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PX7w1D1-nmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ### Suggested LinkedIn Learning Courses
 
