@@ -107,6 +107,21 @@ In a scenario when gitlab cloned Postgres database is not accessible then follow
 4. Once the issue is resolved or confirmed from the `@sre-oncall` person, unpause all the paused DAG. Check by clearing the status of the failed task to see if the connection has been restored. 
 5. If the DAG has missed the scheduled run, trigger the DAG manually to do the catch-up.
 
+## Zuora Stitch Integration single or set of table level reset
+One common failure we see with Zuora Stitch table level loading is `Primary Keys for table do not match Primary Keys of incoming data`. In this case the solution provided by Stitch is to [reset the table](https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference).
+Currently Zuora Stitch integration donot provide [table level reset](https://www.stitchdata.com/docs/integrations/saas/zuora#zuora-feature-snapshot).
+
+In order to this below steps can be followed using which we have successfully done the table level reset. 
+In this example we have used Zuora `subscription` table. 
+
+Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
+
+    alter table "RAW"."ZUORA_STITCH"."SUBSCRIPTION" rename to "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
+Step 2:- Create  a new integration Zuora-Subscription in Stitch (with only the subscription table to replicate) and paused the regular integration.
+
+Step3:- 
+
+
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
 We need to work in our normal working hour perform the list of task mentioned for the triage day in the [Triage Template](https://gitlab.com/gitlab-data/analytics/-/issues/new?issuable_template=Data%20Triage&issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=)
