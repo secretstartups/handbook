@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
-title: "Multi-Large Working Group"
-description: "The charter of this working group is to improve the operational efficiency of running multiple, large, independent GitLab sites without needing linear growth on staffing."
+title: "Kubernetes Migration Working Group"
+description: "The charter of this working group is to, except for postgres, migrate all of GitLab.com to Kubernetes."
 canonical_path: "/company/team/structure/working-groups/multi-large/"
 ---
 
@@ -17,52 +17,35 @@ canonical_path: "/company/team/structure/working-groups/multi-large/"
 |-----------------|-----------------|
 | Date Created    | June 22, 2020 |
 | End Date | TBD |
-| Slack           | [#wg_multi-large](https://gitlab.slack.com/archives/C016JU3CZKJ) (only accessible from within the company) |
+| Slack           | [#wg_k8s-migration](https://gitlab.slack.com/archives/C016JU3CZKJ) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit#) (only accessible from within the company) |
 | Issue Board     | TBD             |
 
 ### Charter
 
-The charter of this working group is to improve the operational efficiency of running multiple, large, independent GitLab sites without needing linear growth on staffing.
+The charter of this working group is to synchronize cross department efforts, as a means to support GitLab.com migration to the Kubernetes platform. This migration is essential as it is a base for other initiatives which require running multiple, large independent GitLab sites without significant staffing demand.   
 
 ### Scope and Definitions 
 
-In this context,
+In this context, the scope of this working group is defined by the following list outlines the order of deliverables per Working Group Agenda on [2020-07-13](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit#bookmark=id.dej0jql4zr9f), and then further refined on [2021-02-01](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit?ts=60183e13#bookmark=id.ncj5do925oqy). The goal of this list is to define deliverables for the Working Group such that its charter can be finite.
 
-*  **GitLab sites** means GitLab instances under a GitLab domain managed by GitLab (i.e, not operated on behalf of customers)
-   *  Automation developed should be applicable and usable to self-managed installations in the future
-   *  The scope excludes customer instances to focus on the problem of running multiple large sites fully under our control, where we are the ultimate DRIs for what policies and solutions we adopt as a company to apply to those instances.
-*  **Multiple** means up to 10 primary instances
-* **large** means instances that start at the [1K users Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html) and can scale beyond the [50K users Reference Architecture](https://docs.gitlab.com/ee/administration/reference_architectures/50k_users.html) to **a million active users**
-* **independent** means they're fully isolated from each other, they don't have a common virtual operations centre
-
-An example of this type of instance would include GitLab.eu. The working group may possibly consider GitLab Federal, although this has to be an explicit decision, as operating federal entails clearances and such.
-
-#### Sequence Order Of Deliverables
-
-The following list outlines the order of deliverables per Multi-large Working Group Agenda on [2020-07-13](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit#bookmark=id.dej0jql4zr9f), and then further refined on [2021-02-01](https://docs.google.com/document/d/1dbJZNAiTVvwJ9ICu10FpxP9AaAVDXDVkATmpzSONztE/edit?ts=60183e13#bookmark=id.ncj5do925oqy). The goal of this list is to define deliverables for the Working Group such that its charter can be finite.
-
-##### Deprecate NFS
+#### Deprecate NFS
 
 1. Make Web/API work without NFS ([issue tracker](https://gitlab.com/groups/gitlab-org/-/epics/1316#note_377457528))
 1. Make CI/CD live traces work without NFS ([issue tracker](https://gitlab.com/groups/gitlab-org/-/epics/3791))
 1. Make Pages work without NFS (Scalability: [https://gitlab.com/groups/gitlab-org/-/epics/3980](https://gitlab.com/groups/gitlab-org/-/epics/3980))
 
-##### Helm Charts
+#### Helm Charts
 
 1. Move Web/API nodes of .com to Helm charts ([issue tracker](https://gitlab.com/groups/gitlab-org/-/epics/5327))
 1. Move Pages nodes of .com to Helm Charts ([issue tracker](https://gitlab.com/groups/gitlab-org/-/epics/5326))
 
-##### Stateful Nodes
+#### Stateful Nodes
 
 1. Gitaly to K8s
 1. Redis to K8s
 
 Note that not all stateful nodes are scoped here, notably PostgreSQL, and this is intentional. 
-
-### Horizontal Scaling Across Multiple Instances
-
-For clarification, this working group is focused on horizontal scaling across multiple GitLab sites. Single-site scaling (e.g., GitLab.com) is already covered under the charter of the [Scalability Team](https://about.gitlab.com/handbook/engineering/infrastructure/team/scalability/).
 
 ## Roles and Responsibilities
 
