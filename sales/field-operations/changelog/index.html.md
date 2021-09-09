@@ -16,7 +16,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY22 
 
-**Item 1 (title only)** (issue link)
+**Item 1 Publicly Accessible Chorus Recordings** (https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)
 
 **Item 2 (title only)** (issue link)
 
