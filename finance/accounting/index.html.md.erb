@@ -320,7 +320,6 @@ There is also a View in Coupa that will list invoices not exported to NetSuite. 
 ![coupa-image-1](/handbook/finance/accounting/finance-ops/coupainvoiceview.png)
 
 However, there will be no details regarding the integration issue. You will need to review the NetSuite error log (referenced above) for the details.
-
 <br>
 For vendors who invoice GitLab for multiple entities, all invoices are separated by subsidiary (due to audit standards). The Accounts Payable team will evaluate on an invoice by invoice basis which goes into Coupa and which will go into Tipalti. If the vendor onboards for the Coupa Supplier Portal (CSP), the vendor will only see the POs related to those entities, and will need to email the others. If you are a GitLab vendor who invoices for multiple entitites and you have any questions, please reach out to *ap@gitlab.com*.
 {: .alert .alert-warning}
@@ -413,7 +412,7 @@ For more information regarding how to set up SPAs or Coupa Pay, please check out
 
 **Segregation of Duties:** The creator of the Batch cannot be the releasor of the same batch regardless of the permissions they have.
 {: .alert .alert-info}
-<br>
+
 #### Coupa Integration Troubleshooting for Payments
 
 A NetSuite error log identifying payment integration issues will be emailed to the Accounts Payable Team every Tuesday and Friday. The email is sent from **Finance Systems Admins** and the Subject is **Coupa2NS Pay Payments Integration Log**. Download the attached file and filter by Type = **Error**. Review the **Details** field to find the payment number that needs to be reviewed/corrected. For information regarding common errors and how to correct them, please see this [file](https://docs.google.com/spreadsheets/d/1KL6ft-kNkeKhvf-iORfar_3vzK6mySHB/edit#gid=1779396759). If any troubleshooting assistance is needed, please ask in the **#coupa_help** Slack channel.
