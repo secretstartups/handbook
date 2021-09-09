@@ -1,21 +1,21 @@
 ---
 layout: job_family_page
-title: "Channel Go to Market"
+title: "Channel Projects - Go to Market"
 ---
 
 ## Levels
 
-### Director, Channel Go to Market
+### Director, Channel Projects - GTM
 
-The Director, Channel Go to Market reports to the [VP, Global Channel](/job-families/sales/vp-of-global-channels/).
+The Director, Channel Projects - GTM reports to the [VP, Global Channel](/job-families/sales/vp-of-global-channels/).
 
-#### Director, Channel Go to Market Job Grade
+#### Director, Channel Projects - GTM Job Grade
 
-The Director, Channel Go to Market is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Director, Channel Projects - GTM is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 **Market Justification:** While an Individual Contributor equivalent of Director in Channel Go to Market is not applicable in survey data, Go to Market and Sales Strategy is a critical role in growth initiative organizations. Many times senior level team members are tasked with setting up new business and thus set as an Individual Director equivalent. This role brings extensive experience to help scale partner strategy for emerging markets. 
 
-#### Director, Channel Strategy Responsibilities 
+#### Director, Channel Projects - GTM Responsibilities 
 
 * This role 3 day per week or 30 hours focused on specific scoped projects that will drive ARR Growth via the channel
    * Phase 1 - Project 1: Emerging Markets Partner Program 
@@ -31,7 +31,7 @@ The Director, Channel Go to Market is a [grade 10](/handbook/total-rewards/compe
 * Execute on projects and ongoing assignments for the Channel Leadership team 
 * Demonstrate GitLab values in all work
 
-#### Director, Go to Market Requirements
+#### Director, Channel Projects - GTM Requirements
 
 * Proven experience in Channel sales & leadership roles within a high growth start up environment 
 * Experience in Emerging Markets 
@@ -61,7 +61,7 @@ The Director, Channel Go to Market is a [grade 10](/handbook/total-rewards/compe
 
 ## Career Ladder
 
-* The next steps for the Director, Channel Go to Market job family is yet to be defined.
+* The next steps for the Director, Channel Projects - GTM job family is yet to be defined.
 
 ## Hiring Process
 
