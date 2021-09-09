@@ -39,7 +39,7 @@ The [Update Plan](https://gitlab-com.gitlab.io/support/toolbox/forms_processor/L
 These three fields are mandatory:
 
 - **Your GitLab Username**: Your non-admin GitLab.com username without a preceding @ (e.g. `username` and not `@username`).
-- **Namespace**: The customer's group namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please verify that the namespace specifies a group and **not** a user.
+- **Namespace**: The customer's namespace as it appears in the URL.  For example, if the customer namespace is located at http://gitlab.com/gitlab-com then the namespace would be `gitlab-com`. Please confirm the namespace with the TAM and/or customer to ensure you are updating the right one.
 - **Plan**: The subscription plan that you would like applied for the customer's group.  If the `free` option is selected, the customer's trial or subscription will immediately be downgraded and terminated.
 
 These two fields are optional:
