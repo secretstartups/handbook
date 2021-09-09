@@ -261,7 +261,7 @@ Required of/by Team Members Prior to Traveling:
 
 Please discuss your travel plans with a senior leader in your function (Sr. Director/VP) to determine whether travel is necessary.  Each request will be routed to the [E-Group Member](https://about.gitlab.com/company/team/structure/#e-group) of your function for final approval.  Request approval for business travel by completing this form:  [Travel Exception Request](https://docs.google.com/forms/d/e/1FAIpQLSe_FDsWXyOr0gFlKw_jTJwlElBHaS0b7bSTKQsch6sgyYUvOA/viewform)
 
-When expensing approved travel please attach a link to the [E-Group member](https://about.gitlab.com/company/team/structure/#e-grou) approval.  
+When expensing approved travel please attach a link to the [E-Group member](https://about.gitlab.com/company/team/structure/#e-group) approval.  
 
 General recommendations/precautions:
 
