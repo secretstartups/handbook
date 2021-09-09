@@ -36,7 +36,7 @@ In Q3 FY'22 we will launch our next 360 feedback cycle. From the People Group we
 - August 2nd, 2021 - Survey Launch
 - **Nomination Phase** (2 weeks) - Team member nominates peers, manager, and any direct reports they have. Managers can adjust the peer nominations at this time and whenever the nominations are set the manager or a Culture Amp admin can launch the individual review.
 - **Feedback Phase** (4 weeks) - Team member, managers, and peers complete reviews for themselves and each other. Managers will have visibility into all self and peer reviews for their direct reports as they are completed. All team members will be moved from feedback phase to review phase at 12 PST on September 10th. This is a manual task that the People Ops Specialist will complete.
-- **Review Phase** (1 week) -  at the close of the 360 feedback session CultureAmp will send the team member and the manager the report for review.
+- **Review Phase** (1 week) -  at the close of the 360 feedback session CultureAmp will open the feedback report for the coach to review and share with the team member. 
 - **Discussion Phase** (2 Weeks) - Manager and team member schedule a 360 [feedback meeting](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-meeting).
 - October 3rd  - Closing the cycle
 - Date TBD - Feedback Retrospective issue can be found [here](https://gitlab.com/gitlab-com/people-group/people-operations/General/-/issues/1269).
@@ -95,6 +95,16 @@ The options shown are:
 ### Resources for Coaches 
 1. [360 survey overview for coaches](https://support.cultureamp.com/hc/en-us/articles/115005117369-Individual-Effectiveness-Coach-s-guide-to-360s)
 1. [Coach's guide to taking action on Effectiveness 360 surveys](https://support.cultureamp.com/hc/en-us/articles/208687485-Coach-s-guide-to-taking-action-on-Effectiveness-360-surveys)
+
+#### Checklist for Coaches 
+Utilize this checklist to ensure all necessary steps are accomplished during the 360 process. 
+
+1. **Reviewers** - Check with the team member to see who they have nominated for reviewers 
+1. Provide **Feedback** - As a coach, you may have been nominated to give feedback to your team member
+1. Review Feedback and [**Share Report**](https://about.gitlab.com/handbook/people-group/360-feedback/#sharing-the-report-as-a-manager)
+1. Conduct [**Feedback Conversation** ](https://about.gitlab.com/handbook/people-group/360-feedback/#360-feedback-conversation)
+1. **Take Action** on the feedback 
+1. **Complete** the 360 process 
 
 ### Reviewer Nomination Process 
 In Culture Amp, a reviewer is anyone who is requested to provide feedback for a team member. 
@@ -179,9 +189,15 @@ If you would like to learn more, we held a [Receiving Feedback Live Learning cou
 The feedback that your team member receives may reinforce excellent or under performance you have already observed, but shouldn't be the only data point you use in evaluating performance. In cases where you’ve identified your top performer, we should learn from what makes that person successful to share with others. In cases where unsatisfactory performance is identified, you should also address that timely and honestly. The feedback included through the 360 process may help in talking through examples of strengths or improvement areas, but you should not wait for the 360 Feedback process to address performance matters.
 
 ### Sharing the report as a Manager
-Once the survey closes for managers we advise to send out the completed review to their direct reports within 48 hours. Managers and the team member should schedule time within the next 2 weeks to go over the results and as a follow up can create a development plan. 
+Once the survey closes for managers we advise to send out the completed review to their direct reports within 48 hours. 
 
-Giving and receiving feedback can be hard for both the manager and the team members, remember to be open minded and calm. Be open minded to the fact that others may see something that you do not. If you disagree with the feedback, others may be seeing something that you are not aware of- we called these blind spots earlier. Allow for the fact that other may be right, and use that possibility to look within yourself. Managers, feedback should never be a surprise! It is meant to guide, mentor, support, enhance and to help the team member grow. Try and maintain the model that feedback is a gift- it is data. More data is always better because it provides us with choices we wouldn't otherwise have.
+1. Log into CultureAmp and view your tasks 
+1. Select a team member and `preview feedback`
+1. Once you are satisfied with the feedback you can select `Share` and this will send the report to the team member 
+1. Coaches are asked to schedule a time within the next two weeks to go over the results and as a follow up create an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan). 
+
+
+Giving and receiving feedback can be hard for both the manager and the team members. Remember to be open-minded and calm. Be open-minded to the fact that others may see something that you do not. If you disagree with the feedback, others may be seeing something that you are not aware of- we called these blind spots earlier. Allow for the fact that others may be right, and use that possibility to look within yourself. Managers, feedback should never be a surprise! It is meant to guide, mentor, support, enhance, and help the team member grow. Try and maintain the model that feedback is a gift- it is data. More data is always better because it provides us with choices we wouldn't otherwise have.
 
 ### 360 Feedback Conversation
 
@@ -229,6 +245,8 @@ Examples of actions to take following the conversation and depending on area of 
 ### Sharing 360 Feedback outside of the 360 Feedback Cycle
 
 If a team member becomes a manager to direct reports after the 360 Feedback cycle has completed, and would like to see their new direct reports' 360 Feedback reports, the new manager must reach out to the direct reports directly to ask permission for either the previous manager to download and send the reports, or for the direct reports to download their own reports and send them directly to the new manager. Any approval should be in writing by email, not Slack.
+
+Detailed instructions for sharing this report can be found [here](https://support.cultureamp.com/hc/en-us/articles/115005797129-Share-feedback-report-in-Individual-effectiveness-360-). 
 
 ## Common Questions 
 
