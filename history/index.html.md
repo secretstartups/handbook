@@ -70,7 +70,7 @@ With over 1,200 team members in more than 65 countries, GitLab was the world's l
 
 ### _2021: 10 Years of GitLab
 
-This year we celebrated 10 years of GitLab, marking a decade since the [first commit](https://gitlab.com/gitlab-org/gitlab-foss/-/commit/9ba1224867665844b117fa037e1465bb706b3685) was made! Our focus on community contributions remained strong, averaging more than 650 code contributions a month from over 2500 wider community contributors. We grew to more than 1 million active license users and 30+ million estimated registered users as of August 2021. GitLab, the company, grew to over 1400 team members in 65 countries and regions around the world. We continued to support and educate businesses about the benefits of remote work by leading more than 60 collaborative remote work discussions with companies, VCs and universities since the beginning of the pandemic.
+This year we celebrated 10 years of GitLab, marking a decade since the [first commit](https://gitlab.com/gitlab-org/gitlab-foss/-/commit/9ba1224867665844b117fa037e1465bb706b3685) was made! Our focus on community contributions remained strong, averaging more than 650 code contributions a month from over 2500 wider community contributors. Thanks to our DevOps Platform, we grew to more than 1 million active license users and 30+ million estimated registered users as of August 2021. GitLab, the company, grew to over 1400 team members in 65 countries and regions around the world. We continued to support and educate businesses about the benefits of remote work by leading more than 60 collaborative remote work discussions with companies, VCs and universities since the beginning of the pandemic.
 
 ## When did we know that GitLab would work?
 
