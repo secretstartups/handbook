@@ -13,7 +13,7 @@ title: "Graduating from Sales Onboarding"
 In order to officially “graduate” from Sales Onboarding at GitLab, we have identified a few components that are considered milestones of achievement (many of these must be done concurrently to ensure completion):
 
 Sales, Customer Success and SDR Roles:
-*  Complete Sales Quick Start learning path in Google Classroom prior to the SQS Workshop (at least 80% completion required, though 100% is preferred)
+*  Complete Sales Quick Start learning path in EdCast prior to the SQS Workshop (at least 80% completion required, though 100% is preferred)
 *  Complete the Sales Quick Start (SQS) Workshop
 *  Articulate the Command of the Message Mantra
 *  Articulate the 30 second GitLab elevator pitch (memorized)

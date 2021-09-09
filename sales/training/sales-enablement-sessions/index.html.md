@@ -21,22 +21,17 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 **Summer 2021 Lineup**
 
-| DATE   | TOPIC    | SPEAKERS                                       |
-|--------|--------------------------------------------------------------------------|-------------------------------------------------|                      
-| Aug 12    |   Enablement on ServiceNow <> GitLab    |    Mike L.    |
-| Aug 19    |   Deal Review Panel Discussion   |  Alan G. & Aslihan K.       |
-| Aug 26    |   Digital Programs for non-TAM-assigned accounts    |   Michelle H.     |
-| Sep 2    |   Verify: Testing Category Vision & Positioning    |  James H.      |
-| Sep 9    |       |        |
-| Sep 16    |       |        |
-| Sep 23    |  No session (GitLab Contribute)     |        |
-| Sep 30    |       |        |
-| Oct 7    |       |        |
-| Oct 14    |       |        |
-| Oct 21    | *No sessions during the last two weeks of a quarter*      |        |
-| Oct 28    |  *No sessions during the last two weeks of a quarter*     |        |
-
-                                                                                                                                  
+| DATE   | TOPIC | SPEAKERS |
+|--------|--------|--------|                      
+| Sep 9  | Bitbucket Sales Play | Brian Glanz  |
+| Sep 16 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood, Kristen Reynolds |
+| Sep 23 | TBD | TBD |
+| Sep 30 | TBD | TBD |
+| Oct 7  | FY22-Q3 Competitive Update | TBD |
+| Oct 14 | FY22-Q3 Product Update | Brian Glanz |
+| Oct 21 | *No sessions during the last two weeks of a quarter* | N/A |
+| Oct 28 | *No sessions during the last two weeks of a quarter* | N/A |
+                                                                                                                              
                                                                                                                                    
 ## Past Sessions
 <details>
@@ -45,19 +40,23 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
-| 2021-08-05    |   **[Q3FY22 Channel Update](https://youtu.be/mwSnV5s_CsQ)**    |  Private    |
-| 2021-07-21  | **[Q2 FY22 Alliances Update: The Importance of Ecosystem Partners](https://youtu.be/lJfkkPeQtlI)** | Private |
-| 2021-07-08  | **[Q2 FY22 Product Update](https://youtu.be/_DC-Cdd-RNY)** | Public |
-| 2021-07-01  | **[The Value of Professional Services](https://youtu.be/LBQu10PRR2Y)** | Private |
+| 2021-09-02 | **[Verify: Testing Vision & Positioning](https://youtu.be/Zisa9Qfh8v8)** | Public |
+| 2021-08-26 | **[Digital Programs for non-TAM-assigned accounts](https://www.youtube.com/watch?v=_2J71ruCqH8)** | Private |
+| 2021-08-19 | **[Deal Review Panel Discussion](https://youtu.be/Onn7K9k3jsw)**   | Private | 
+| 2021-08-12 | **[ServiceNow <> GitLab: Better Together](https://youtu.be/bUl1-mAmMY4)**    |    Public    |
+| 2021-08-05 | **[Q3FY22 Channel Update](https://youtu.be/mwSnV5s_CsQ)**    |  Private    |
+| 2021-07-21 | **[Q2 FY22 Alliances Update: The Importance of Ecosystem Partners](https://youtu.be/lJfkkPeQtlI)** | Private |
+| 2021-07-08 | **[Q2 FY22 Product Update](https://youtu.be/_DC-Cdd-RNY)** | Public |
+| 2021-07-01 | **[The Value of Professional Services](https://youtu.be/LBQu10PRR2Y)** | Private |
 | 2021-06-24 | **[Competing against Microsoft for Plan - Azure Boards](https://youtu.be/IRC6CFUfO-Y)** |  Private  |
 | 2021-06-17 | **[Breaking Changes in 14.0 - AMA with Product & Customer Success](https://youtu.be/k-wvJtL_NeM)** | Private     |
 | 2021-06-10 | **[Account Planning Office Hours](https://youtu.be/A8FEiwOkmSo)** |  Private   |
 | 2021-06-03 | **[Q2 FY22 Competitive Update](https://youtu.be/TtisyWQ9rE8)** |  Private |
 | 2021-05-27 | **[GitOps Infrastructure Automation Sales Play](https://youtu.be/aXg3zGg54sg)** |  Private    |
-| 2021-05-20  | **[Office Hours for Gainsight & Account Planning](https://youtu.be/lnEkbLnxs-8)** | Private   |
+| 2021-05-20 | **[Office Hours for Gainsight & Account Planning](https://youtu.be/lnEkbLnxs-8)** | Private   |
 | 2021-05-13 | **[Sales Ops Update - Docusign Rollout](https://youtu.be/Dch4zaUQOeg)** |    Private  |
-| 2021-05-06  | **[Channel Program Updates](https://youtu.be/sOx3WSscAF8)** | Private |
-| 2021-04-22  | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
+| 2021-05-06 | **[Channel Program Updates](https://youtu.be/sOx3WSscAF8)** | Private |
+| 2021-04-22 | **[GitLab Premium to Ultimate Sales Playbook Launch](https://youtu.be/UY-J-SHcCC8)** | Private |
 | 2021-04-15 | **[Q1 FY22 Market Research and Customer Insights (MRnCI) Update](https://youtu.be/Pus0y34mIQA)** | Private |
 | 2021-04-08 | **[How to Avoid Common Discovery Pitfalls](https://youtu.be/04kviW1GkW4)** | Private |
 | 2021-04-01 | **[Co-Selling with AWS](https://youtu.be/dKWjSjkhyE0)**              |   Private              |
@@ -84,16 +83,16 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 | 2020-08-13 | **[Gainsight Overview for Sales](https://youtu.be/mBdVeZJKthw)** | Private | 
 | 2020-08-06 | **[The Value of Professional Services: A CFO's Perspective](https://youtu.be/arF-6BBRAxU)** | Private |
 | 2020-07-16 | **[The GitLab Journey & the GitOps Use Case](https://youtu.be/Ap14indu2-w)** | Public |
-| 2020-07-14  | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)** | Private |
+| 2020-07-14 | **[Special: Forrester TEI Report](https://youtu.beJ_6QgemCz2E)** | Private |
 | 2020-07-09 | **[Channel Partner Success for GitLab Sellers](https://youtu.be/OeykHQetd7U)** | Private |
 | 2020-07-02 | **[Closing Best Practices](https://youtu.be/y3iLSsAD24s)** | Private |
 | 2020-06-25 | **[Q2 FY21 Competitive Update](https://youtu.be/S_z_hgf3ASc)** | Private |
 | 2020-06-18 | **[NEW Forrester TEI Report](https://youtu.be/AwYPuWruCjE)** | Private |
-| 2020-06-11  | **[Best Practices for Selling Premium and Ultimate](https://youtu.be/jvMPcLdQNI0)** | Private |
-| 2020-06-04  | **[Q2 FY21 GitLab Product Release Update](https://youtu.be/36-G7teGhwY)** | Public |
-| 2020-06-01  | **[GitLab Pricing Overview](https://youtu.be/qn4rlhJ21Nw)** | Private |
-| 2020-05-21  | **[Competitive Update: GitHub Support](https://youtu.be/HY1bffR8Kfc)** | Private |                 
-| 2020-05-14  | **[Compliance](https://youtu.be/MRaCKYDXmuI)** | Public |                      
+| 2020-06-11 | **[Best Practices for Selling Premium and Ultimate](https://youtu.be/jvMPcLdQNI0)** | Private |
+| 2020-06-04 | **[Q2 FY21 GitLab Product Release Update](https://youtu.be/36-G7teGhwY)** | Public |
+| 2020-06-01 | **[GitLab Pricing Overview](https://youtu.be/qn4rlhJ21Nw)** | Private |
+| 2020-05-21 | **[Competitive Update: GitHub Support](https://youtu.be/HY1bffR8Kfc)** | Private |                 
+| 2020-05-14 | **[Compliance](https://youtu.be/MRaCKYDXmuI)** | Public |                      
 | 2020-05-08 | **[Quarterly Co-Terms](https://youtu.be/CnLfeDhbzcM)** | Private |
 | 2020-05-07 | **[Operational Efficiencies](https://youtu.be/8z1ek4Qwnqw)** | Public |
 | 2020-04-16 | **[Competitive Update: GitHub](https://youtu.be/1iMBhe0wUdI)** | Private |

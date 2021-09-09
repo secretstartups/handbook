@@ -12,7 +12,7 @@ description: GitLab sales process for engaging and educating the customer
 
 # Engage & Educate the Customer
 
-Your goal as a sales representative is to build 2.5 -3x your annual quota for **IACV**. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
+Your goal as a sales representative is to build 2.5 -3x your annual **[ARR](/handbook/sales/sales-term-glossary/#annual-recurring-revenue-arr)** quota. The ability to achieve this goal is based on your ability to create **Moments That Matter** (MTM), interactions with a customer that make a positive emotional impact about the value you and your product bring to their organization. The ability to **Engage and Educate the Customer** is fundamental to creating positive Moments That Matter.
 
 In this Sales Standard Operating Procedures page, the four phases of the sales cycle are:
 
@@ -55,13 +55,13 @@ Determine your customers common routes to market and best strategies for territo
 
 Work with your extended team to analyze your territory and build your strategy. Your team may consist of a variety of the following:
 
-- ISR/SDR
+- SDR
+- ISR
 - SA
 - TAM
 - Reseller Channel Mgr
 - SI Channel Manager
 - OEM/Cloud Channel Manager
-- Product Marketing
 - Field Marketing
 
 ### Strategic planning
@@ -127,7 +127,7 @@ At this point, the selected engagement activities should have generated a signif
     - Technology Leader
     - Business Application Leader
     - Security Leaders
-    - COO/CXX Leader
+    - COO/CXO Leader
     - Financial Leader
 1. **Reference Buyer Process Maps** (BPMs) - are maps of mental pathways buyers’ travel to make decisions. BPMs will guide selling activity based on where the buyer is in their process. Your goals in this step is differentiation, reduction in resistance, avoid wasting cycles, and facilitate better meetings and create **Moments that Matter**. See a breakdown of the <b>[Buyer Process Map](https://docs.google.com/presentation/d/181vsu60-UYk1890BJjemfjZ3GIQhYrPrsNAh4xN3-wM/edit#slide=id.p25)</b> stage and the common buyer actions that indicate what stages of the buyer process the prospect is in.
 1. **Research the Buyer** - includes a number of sub-tasks necessary to get additional insight into the buyer.
@@ -137,14 +137,13 @@ At this point, the selected engagement activities should have generated a signif
     1. Develop **Pre-Call Planning Questions** to better determine what discovery questions. The pre-call planning questions will cause you as the seller to further validate and reference the buyer persona you will engage with.
     1. Develop a **Persona Based Call Plan** to ensure that you gather more pertinent information from the buyer. It will help identify information gaps, set specific objectives, and ultimately increase your buyer’s confidence in you.
 1. Utilize <b>[MEDDPPICC](/handbook/sales/meddppicc/)</b> to create Discovery questions to gather the information necessary to qualify the opportunity. MEDDPPICC is a qualification framework that will help you determine if the opportunity is worth your time, effort, and company resources. It will help you to more quickly determine what stage the buyer falls in the sales process. The framework will also expose problems and clarify next steps. It will help make you more efficient and focused sales representatives by making it easier to sort the good deals from no deals, and quick deals from long term deals. The foundation of MEDDPPICC is based on asking good discovery questions.
-1. Draft <b>[Discovery Questions](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do)</b> which are designed to identify existing needs, problems, customer pain points, customer’s goals etc. Discovery questions are designed to get to the known, and to ferret out what the known unknowns the customer has about their environment.
+1. Ask effective, open-ended **[Discovery Questions](/handbook/sales/qualification-questions/)** to identify existing customer needs, problems, pain points, goals etc. The **[GitLab CxO Digital Transformation Discovery Guide](https://drive.google.com/a/gitlab.com/open?id=1balLINV-vnd6-6TYzF3SIIJKrBPUQofVSDgQ5llC2Do)** is a helpful resource with sample discovery questions for senior economic buyers. 
 1. **Prepare a Meeting Agenda** to identify how the buyer wants will match what you will cover. Leverage this [Pre-Call Plan](https://docs.google.com/document/d/1yjyfvMoDvayZca5hXiIwSHYc9T1M3mTc7ocqzjhqOf8/copy) document to prepare for this and subsequent customer calls/meetings. In addition, consider sending your proposed agenda to the buyer in advance of the meeting to ensure alignment. For each agenda item, include some questions from the BPM, prepare statements, industry case studies. Research 1-3 items in the Objectives and Obstacles section of the personas. Finalize your meeting objectives in order to show the buyer you are prepared, listening, and empathic. Structure the meeting so that the prospect is relaxed and is comfortable going deep with their problems and needs.
-1. Utilize a <b>[Command Plan](/handbook/sales/command-of-the-message/command-plan/)</b> to track the progress of a deal. It’s an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
+1. Utilize a **[Command Plan](/handbook/sales/command-of-the-message/command-plan/)** to track the progress of a deal. The Command Plan an iterative document within Salesforce that gives you and your team macro and micro level visibility into an opportunity. It is designed to align and guide you through the necessary [MEDDPPICC](/handbook/sales/meddppicc/) process to quickly capture the information necessary to properly qualify an opportunity. Here is a sample [Command Plan](https://docs.google.com/spreadsheets/d/16m5_w4NiNSXfJFt9576IktNUp6uTCOKxaLBtoyR0lrA/edit#gid=299910663).
 
-**Reminder**: A [Command Plan](/handbook/sales/command-of-the-message/command-plan/) is not a one and done document. Nor will you gather all the necessary information in one meeting, but most likely over 1-3 meetings. So be prepared to work through pieces of the document over a series of meetings. Taking this time up front will help you better evaluate the deal by asking deeper trap setting questions that will help you gather more insightful data about your customer. The data gathered will eventually enable you to demonstrate [Command of the Message](https://drive.google.com/a/gitlab.com/open?id=1Jp1nAsDf8Ooy9564ZxAO5MHK7QpCb4RHwotsQuUtmUo) which is defined as _“being audible ready to define your solutions to customers’ problems in a way that differentiates you from your competitors.”_
+**Reminder**: A [Command Plan](/handbook/sales/command-of-the-message/command-plan/) is not a one and done document. Nor will you gather all the necessary information in one meeting, so be prepared to work through pieces of the document over a series of meetings. Taking this time up front will help you better evaluate the deal by asking deeper trap-setting questions that will help you gather more insightful data about your customer. 
 
-As a rule of thumb here is the cadence for updating your [Command Plans](/handbook/sales/command-of-the-message/command-plan/).
-
+As a rule of thumb, here is the cadence for updating your [Command Plans](/handbook/sales/command-of-the-message/command-plan/).
 - Command Plan: Opportunity Overview - Real Time
 - Command Plan: MEDDPPICC Data - Real Time
 - Command Plan: Close Plan - Real Time
@@ -171,13 +170,9 @@ Once the lead has been evaluated according to the above criteria, it can be desi
 
 Your goal is to close deals and the best way to do that is to track where your sales stands within your sales framework as well as where the deal stands within the **buyer’s journey**. This is done through pipeline management and forecasting.
 
-- **Pipeline** is defined as the total number of opportunities a sales person is handling.
-- **Forecasting** is an estimate of the opportunities likely to close in a given time period.
-- **IACV** is defined as the amount of booked opportunities.
-
 ### Pipeline Management
 
-**Pipeline Management** is typically done in **Salesforce** and forecasting is done in **Clari**. The common pipeline stages within Salesforce are the following:
+**Pipeline Management** is typically done in **Salesforce**, and forecasting is done in **Clari**. The common pipeline stages within Salesforce are the following:
 
 - 0 - Pending Acceptance
 - 1 - Discovery
@@ -207,25 +202,25 @@ Below are **DAILY TASKS** you’ll need to perform within Salesforce.
     1. Set a response time to respond to inbound leads
     1. Set a number of touches per lead spread out over one month
     1. Set a number and a variety of email, phone, and social media touches a lead receives
-    1. Every touch a lead receives should include new information or resources from the <b>[Use Case GTM Bill of Material Priorities](/handbook/marketing/strategic-marketing/usecase-gtm/)</b> matrix.
+    1. Every touch a lead receives should include new information or resources from the **[Use Case GTM Bill of Material Priorities](/handbook/marketing/strategic-marketing/usecase-gtm/)** matrix.
 
 ### Forecasting
 
-**Forecasting** in simple terms is determining if you will hit your sales numbers at a given point and time. Clari is the tool to help you track your sales projections. Clari delivers insights by pulling data from all your engagements (phone calls, emails, calendar, social media, and news) and fuses that data so that you can better estimate the timing and likelihood of closing. Clari is also a good tool to quickly understand your **sales gap to quota** and help you focus on your deals from best case to worst case.
+**Forecasting** in simple terms is determining if you will hit your sales numbers at a given point in time. Clari is the tool to help you track your sales projections. Clari delivers insights by pulling data from all your engagements (phone calls, emails, calendar, social media, and news) and fuses that data so that you can better estimate the timing and likelihood of closing. Clari is also a good tool to quickly understand your **sales gap to quota** and help you focus on your deals from best case to worst case.
 
-Below are the **WEEKLY TASK** you’ll need to perform within Clari. Navigate to the **Net IACV** tab within Clari.
+Below are the **WEEKLY TASK** you’ll need to perform within Clari. Navigate to the **Net ARR** tab within Clari.
 
 1. Renewal Loss Best Case
-    - **Click “NetIACV”, then Click “Renewal Loss Best Case”.** This field should reflect the value of non-renewals during the current quarter with a LOWER probability (or Best Case) but a HIGHER value than Renewal Loss Commit.
+    - **Click “Net ARR”, then Click “Renewal Loss Best Case”.** This field should reflect the value of non-renewals during the current quarter with a LOWER probability (or Best Case) but a HIGHER value than Renewal Loss Commit.
 1. Renewal Loss Commit
-    - **Click “NetIACV”, then Click “Renewal Loss Commit”.** This field should reflect the value of non-renewals during the current quarter with a HIGHER probability (or Commit) but a LOWER value than Renewal Loss Best Case.
-1. Gross IACV Best Case
-    - **Click “NetIACV”, then Click “Gross IACV BEST CASE ”.** This field should have the value for your Gross IACV Best Case minus your Renewal Loss Best Case.
-1. Gross IACV COMMIT
-    - **Click “NetIACV”, then Click “Gross IACV Commit”.** This field should have the value for your Gross IACV Commit minus your Renewal Loss Commit.
+    - **Click “Net ARR”, then Click “Renewal Loss Commit”.** This field should reflect the value of non-renewals during the current quarter with a HIGHER probability (or Commit) but a LOWER value than Renewal Loss Best Case.
+1. Gross ARR Best Case
+    - **Click “NetIACV”, then Click “Gross ARR BEST CASE ”.** This field should have the value for your Gross ARR Best Case minus your Renewal Loss Best Case.
+1. Gross ARR COMMIT
+    - **Click “Net ARR”, then Click “Gross ARR Commit”.** This field should have the value for your Gross ARR Commit minus your Renewal Loss Commit.
 1. NET 50/50
-    - **Click “NetIACV”, then Click “NET 50/50”.** This field should have the value for what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
+    - **Click “Net ARR”, then Click “Net 50/50”.** This field should have the value for what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
-For in-depth training on Clari go to the <b>[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting/#clari-for-salespeople-instructional-videos)</b>.
+For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting/#clari-for-salespeople-instructional-videos)**.
 
-Now you are ready to move into the next phase of the sales cycle, <b>[Facilitating the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)</b>.
+Now you are ready to move into the next phase of the sales cycle, **[Facilitating the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)**.

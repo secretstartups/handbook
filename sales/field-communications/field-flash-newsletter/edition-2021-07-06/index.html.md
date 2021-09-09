@@ -18,7 +18,7 @@ In this month's [Field Flash](/handbook/sales/field-communications/field-flash-n
 ### Deal of the Month 🏅
 Rahim Abdullayev explains how co-selling and collaboration both internally and with his champion led to an expansion from Premium to Ultimate SaaS with a financial services customer. 
 
-https://gitlab.edcast.com/insights/rahim
+https://gitlab.edcast.com/insights/rahim (GitLab internal only)
 
 ### New and Noteworthy Resources 📓
 ICYMI, check out this 6-min video from our Product team demonstrating where the GitLab product is headed over the next 3 years and why a single DevOps Platform approach is the key to current and future success. [Watch Now -->](https://www.youtube.com/watch?v=2By7ipuQk1o)

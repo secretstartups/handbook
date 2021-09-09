@@ -19,16 +19,16 @@ Once the account is won it is time for the AE/SAL/TAM/PSE to work together to en
 *   Customer Account Management
 *   Customer Account Expansion
 
-In the retention and expansion phase, the roles and responsibilities of the TAM/PSE/AE/SAL run parallel and it is very important that all roles work together to help the customer be successful. Retention and expansion is typically the purview of the TAM regarding most project management and technical aspects of customer success, but it’s important for the AE/SAL to conduct ongoing sales engagement activities with the account in order to provide dependable touch points for customer support. This SOP Standard Operating Procedure will layout the steps, tasks, and deliverables necessary by all parties below related to account management.  
+In the retention and expansion phase, the roles and responsibilities of the TAM/PSE/AE/SAL run parallel and it is very important that all roles work together to help the customer be successful. Retention and expansion is typically the purview of the TAM regarding most project management and technical aspects of customer success, but it’s important for the AE/SAL to conduct ongoing sales engagement activities with the account in order to provide dependable touch points for customer support. This Standard Operating Procedure (SOP) will layout the steps, tasks, and deliverables necessary by all parties below related to account management.  
 
-*   Strategic Account Leader/Account Executive
+*   Strategic Account Leader ([Enterprise](https://about.gitlab.com/job-families/sales/strategic-account-leader/)) or Account Executive ([SMB](/handbook/sales/commercial/#smb-account-executives) | [Mid Market](/handbook/sales/commercial/#mid-market-account-executive))
 *   [Technical Account Manager](/handbook/customer-success/tam/#what-is-a-technical-account-manager-tam)
 *   [Solutions Architect](/handbook/customer-success/solutions-architects/)
 *   [Professional Services](/handbook/customer-success/professional-services-engineering/)
 
 ## 1.Customer Onboarding  
 
-**Customer onboarding** is a term typically used to describe the process users go through, from the start of their journey to become a customer and beyond. Within GitLab, customer onboarding encompases an the SAL/AE conducting an official introduction and account management transition to TAM and PSE to customer stakeholders via a Welcome Call.  Additionally, the TAM will begin to re-validate an understanding of the customer's use case, technology stack. The tasks that need to be accomplished are below:
+**[Customer onboarding](/handbook/customer-success/tam/onboarding/)** is a term typically used to describe the process users go through, from the start of their journey to become a customer and beyond. Within GitLab, customer onboarding encompases an the SAL/AE conducting an official introduction and account management transition to TAM and PSE to customer stakeholders via a Welcome Call.  Additionally, the TAM will begin to re-validate an understanding of the customer's use case, technology stack. The tasks that need to be accomplished are below:
 
 1. Professional Services Implementation kick-off. TAM manages the kick-off and implementation plan catered to the customer. 
 -  [Professional Services](/handbook/customer-success/professional-services-engineering/sales-enablement/) helps your customer accelerate their DevOps Transformation by delivering services to improve operational efficiency, accelerate time to market and reduce risk through GitLab product adoption. We accomplish these by offering categories of services to help ensure the initial gitlab rollout goes smoothly so the end users can get value as fast as possible. It is important for a ISR/SAL to understand the services that certain types of customers typically engage in and how to position those services when building out a success plan. Utilize the [Positioning Professional Services](/handbook/customer-success/professional-services-engineering/positioning/) handbook page to understand all the services available to customers and how to market to them.
@@ -38,7 +38,7 @@ In the retention and expansion phase, the roles and responsibilities of the TAM/
 3. Account Executive transitions customer meta-record and business profile to TAM
 4. Define transition process for customers. Plans should not end at signature but from their goal and work backwards
     *   SAL/AE updates [Command Plan](/handbook/sales/command-of-the-message/command-plan/)
-    *   TAM builds the Success Plan
+    *   TAM builds the [Success Plan](/handbook/customer-success/tam/success-plans/)
 5. TAM creates and execute onboarding and implementation plans
 2. Customer Implementation
 
@@ -52,7 +52,7 @@ There are two types of success plans in Gainsight. The first is the **ROI Succes
 The **Return on Investment (ROI) Success Plan** is a customer facing interactive map created by a TAM to align the purchase (or renewal!) reasons to customer outcomes, develop joint accountabilities, measure progress and evolve as customers’ needs change. Put another way, it’s the way the customer can see and know that they’re attaining significantly more value than the cost of a product or service. Success Planning focuses on helping customers achieve their desired objectives and recognizes that the purchase transaction is just the beginning of the customer's journey with GitLab. This includes outlining a vision to customers that combines the Gitlab road map with the customer road map.
 
 *   TAM responsibilities include a full use-case, stakeholder, technology stack, and opportunity discovery with the account customer.  The information gathered for the customer’s success plan is housed in **[GainSight](/handbook/customer-success/tam/gainsight/)**, which is embedded as an additional link within Salesforce. 
-*   TAM coordinates and educates customer and positions them for GitLab Certification with GitLab 101
+*   TAM coordinates and educates customer and positions them for GitLab Certification with GitLab 101.
 
 ### 2.2 [Stage Adoption](/handbook/customer-success/tam/stage-adoption/)
 
@@ -79,7 +79,7 @@ Customer service is an important aspect of the customer journey. The reason this
 It is important that both the SAL/AE and TAM conduct ongoing customer touchpoints and engagements. TThe following are tasks that fall under the purview of ongoing customer engagement:
 
 *   SAL/TAM continually re-verify and documents customer’s positive business outcomes and connects the GitLab solution with their pain.
-    *   Success Plans for TAMs in GainSight
+    *   [Success Plans](/handbook/customer-success/tam/success-plans/) for TAMs in GainSight
     *   [Command Plan](/handbook/sales/command-of-the-message/command-plan/) for SALs in Salesforce
 *   TAM develops a clear process for responding to problems that support escalations (collaborating with Sales, Support, Product, and Engineering, TAMs). Host escalation calls and manage the customer from an escalated state back to a normal state. SAL supports the TAM.
 *   SAL/AE/TAM continually meets with customers to capture problems, adjust the plan, reinforce confidence, and identify new opportunities to resell.
@@ -108,7 +108,7 @@ For in-depth training on Clari go to the [Clari for Salespeople Instructional Vi
 
 ### 3.3 Conduct [Executive Business Reviews](/handbook/customer-success/tam/ebr/) (TAMs)
 
-An Executive Business Review (EBR) is a strategic meeting with stakeholders from both GitLab and the customer. Together with the SAL/AE, a TAM is responsible for scheduling and conducting EBRs and working with their customers to achieve the primary objectives and desired business outcomes. The TAM will own the content creation, and together the SAL/AE and TAM will determine the flow of the review based on best practices and insight into the customer relationship.
+An [Executive Business Review (EBR)](/handbook/customer-success/tam/ebr/) is a strategic meeting with stakeholders from both GitLab and the customer. Together with the SAL/AE, a TAM is responsible for scheduling and conducting EBRs and working with their customers to achieve the primary objectives and desired business outcomes. The TAM will own the content creation, and together the SAL/AE and TAM will determine the flow of the review based on best practices and insight into the customer relationship.
 
 TAMs should hold EBRs with each of their customers at least once per year. Larger ARR accounts or those with more strategic initiatives may benefit from or even require a quarterly cadence, a decision to be made by the TAM, SAL/AE, and Sales/CS leadership.
 
@@ -123,7 +123,7 @@ The TAM will coordinate with SALSA to determine who will invite the stakeholders
 Below are some of the top processes to be performed by TAM Managers on a recurring cadence. The overall goal is to ensure the TAM Manager has a strong grasp on their team's group of customers through various data points (health, Support tickets, Onboarding objects, renewals, etc.). Resources such as Dashboards and videos are included for easy reference.
 
 *   Conduct regular [Health Checks](/handbook/customer-success/tam/health-score-triage/) with customers.
-*   Conduct [Renewal Review Meeting](/handbook/customer-success/tam/renewals/#renewal-review-meeting) with SAL/AE.  A key part of the customer relationship lifecycle is the renewal phase. TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) to ensure that a customer renewal takes place.
+*   Conduct [Renewal Review Meeting](/handbook/customer-success/tam/renewals/#renewal-review-meeting) with SAL/AE. A key part of the customer relationship lifecycle is the renewal phase. TAMs must proactively track the renewal dates of their customers and align with their Strategic Account Manager (SAL) to ensure that a customer renewal takes place.
 **At the beginning of each month** a TAM should review their list of accounts in Salesforce and note the renewal dates for their accounts. If a renewal date is within six months the TAM should schedule two “Renewal Review” meetings with the appropriate SAL and Solutions Architect (SA). The first “Renewal Review” meeting should be scheduled five months out from the renewal date and the second should be scheduled three months out from the renewal date.
 *   Conduct **SAL/SA/TAM** meetings to review forecasting, pipeline, and identify new sales opportunities.
 *   Develop **Net Promoter Score** NPS/ CSAT twice per year to rate general customer satisfaction (after closed cases).
@@ -132,11 +132,11 @@ Below are some of the top processes to be performed by TAM Managers on a recurri
 
 For TAM Managers, here is a short checklist to assist in the review:
 
-*   [Account assignment:](/handbook/customer-success/tam/tam-manager/#account-assignment) Accounts have been reviewed and are assigned or are in review
-*   [Customer Onboarding:](/handbook/customer-success/tam/tam-manager/#onboarding-object-review) Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
-*   [Success Plans:](/handbook/customer-success/tam/tam-manager/#success-plan-review) Customers have a Success Plan, it is being communicated with the customer, and the TAM is using it as the guiding document
-*   [Triage and Health:](/handbook/customer-success/tam/tam-manager/#triage-and-health-review) Health for all TAM-assigned accounts have been updated within the last month, and any accounts in Triage are being evaluated
-*   [Renewal Review:](/handbook/customer-success/tam/tam-manager/#renewal-review) Upcoming customer renewals have been reviewed — the TAM has updated customer health and communicated with the SAL and SA for the upcoming renewal
+*   [Account assignment](/handbook/customer-success/tam/tam-manager/#account-assignment): Accounts have been reviewed and are assigned or are in review
+*   [Customer Onboarding](/handbook/customer-success/tam/tam-manager/#onboarding-object-review): Customers in the Onboarding phase have been reviewed and onboarding status and notes are complete
+*   [Success Plans](/handbook/customer-success/tam/tam-manager/#success-plan-review): Customers have a Success Plan, it is being communicated with the customer, and the TAM is using it as the guiding document
+*   [Triage and Health](/handbook/customer-success/tam/tam-manager/#triage-and-health-review): Health for all TAM-assigned accounts have been updated within the last month, and any accounts in Triage are being evaluated
+*   [Renewal Review](/handbook/customer-success/tam/tam-manager/#renewal-review): Upcoming customer renewals have been reviewed — the TAM has updated customer health and communicated with the SAL and SA for the upcoming renewal
 
 
 ### 4.3 SAL/AE Customer Account Expansion Activities
@@ -167,7 +167,7 @@ These questions should be answered as a team with the SAL/AE,TAM, and SA pulling
 
 #### 4.3.3. Customer Deck Renewal Deal Package
 
-As you did in the Factiliate the Opportunity and Deal Closure, you will need an updated customer deck.  This consists of an overall deal package to engage the economic buyer with a package that aligns high level business priorities with GitLabs Value Drivers. The focus of the  renewal customer package is to make them more forward thinking by investing earlier and having a full toolbox as they grow.
+As you did in the Factiliate the Opportunity and Deal Closure, you will need an updated customer deck.  This consists of an overall deal package to engage the economic buyer with a package that aligns high level business priorities with GitLabs Value Drivers. The focus of the renewal customer package is to make them more forward thinking by investing earlier and having a full toolbox as they grow.
 
 The customer deck should be created with the idea that your champion can present it to the economic buyer. To do this you will need to work side-by-side with your advocates, champions, TAM, and SA to update the customer deck and provide the following components to an economic buyer:
 
@@ -175,4 +175,4 @@ The customer deck should be created with the idea that your champion can present
 2. Case study that aligns with the customer’s top priorities
 3. Justification
     * Includes a market thesis on where the market is currently and what they’ll gain over time by investing now versus waiting. If they buy at a higher tier they’ll have specific features as needed but also gain single application capability when they need it.
-4. Preliminary Pricing Proposal that aligns with the customer’s budget
+4. Preliminary pricing proposal that aligns with the value GitLab is delivering while taking into consideration the customer's budget or financial constraints

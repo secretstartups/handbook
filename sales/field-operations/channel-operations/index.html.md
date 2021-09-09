@@ -139,6 +139,10 @@ As of May 3, 2021, all partners in India must transact through our distribution 
 For the US and EMEA, we encourage Open Partners to purchase through Distribution, but it is not a requirement.  
 
 All US PubSec deals are transacted through Carahsoft or Immix (GSA only). 
+
+
+### Billing Contacts in Partner Accounts
+When onboarding a new partner that will be purchasing directly from GitLab, a billing account must be created. Upon being notified of a new partner, the Channel Manager should ensure there is a contact created within the account that represents the partner's account's payable contact information. Chatter '@billing-ops' on the account record, provide the accounts payable contact information, and ask for a billing account to be set up. Partner accounts that will transact via distribution do not need a billing account set up. More information on billing accounts can be found on the [Billing Operations Handbook Page](https://about.gitlab.com/handbook/finance/accounting/finance-ops/billing-ops/).
  
  
 ### Quoting Requirements for Channel Deals
@@ -205,14 +209,14 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 ### Program Compliance
 - For partners to transact according to program discounts, they must agree to the GitLab Partner Agreement.
 - To earn partner discounts, partners are required to be program compliant.
-- Non-contracted partners may transact on a one-off basis, only with explicit approval of channel leadership.
+- Non-contracted partners may transact on a one-off basis, only with explicit approval of regional channel directors, the director of channel programs, or the vice president of channels.
  
 ## Unauthorized Partners
+- A key goal of the GitLab Channel Program is the success of our authorized partners, which means whenever possible, we should work deals with them. We are developing our channel to provide coverage across geos, customer segments and vertical markets. However, there are some situations where customer requires a deal be transacted by a partner that is not willing to join the GitLab Partner Program. Only in those situations should we transact with an unauthorized partner, and only with the explicit approval of the programs team.  
 - Unauthorized partners have not signed a GitLab Partner Agreement.
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
-- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted. Please reach out to the #channel-programs-ops Slack channel.
-- A key goal of the GitLab Channel Program is the success of our authorized partners. We are developing our channel to provide coverage across geos, customer segments and vertical markets.
- 
+- Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #channel-programs-ops Slack channel.
+
  
 ## Channel Reporting and Tagging
 ![4-Ch_Reporting_Tagging](/handbook/sales/field-operations/channel-operations/images/4-Ch_Reporting_Tagging.png)
@@ -429,12 +433,12 @@ Rebate payouts will be reported and paid after each GitLab quarter close.
   - 10 or more Services per quarter: 7.5% on license net ARR (Max payout $7500/closed-won opportunity)
 - Partners must register a Services Attach deal registration and provide proof of performance to qualify for the incentive.
 - Rebates and referral fees may require CRO approval. 
+- Discounts are off list price.  If GitLab is deeply discounting a large ARR customer engagement, the partner can reasonably expect to share in that with a discount reduction.  The Partner, GitLab Sales, Channel Account Manager must agree on the negotiated discount amount.
  
 For more information on quoting or the Partner Program, please visit:
 - [Deal Desk Quote Configuration](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#zuora-quote-configuration-guide---standard-quotes)
 - [Partner Program](https://about.gitlab.com/handbook/resellers/)
 - [Channel Discount Matrices for GitLab Team Members](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-program-discounts).  
-NOTE: Discounts are taken off GitLab list price.
  
  
 ## Partner Help Desk Support and Communication
@@ -455,11 +459,11 @@ To Chatter the PHD team, tag @Partner Help Desk in Chatter on the related opport
 - The GitLab Partner Program provides partners with set discounts based on their program status and whether or not there is an active deal registration.
 - At least one partner employee must complete the Sales Core training for the partner to qualify for deal registration and program discounts.
 - GitLab employees can access the discount tables using the links below:
-  - [Commercial Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1K/ZtACDN.hFA1h_ST3qrbWSnzw6HQosEw467XKt6XHN2s)
-  - [Public Sector Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1F/UqIsQERnDC.vjdlNcxG9CmzaRbewWFtuh5IIhkEx_ng)
-  - [MSP Matrix](https://gitlab.my.salesforce.com/sfc/p/#61000000JNOF/a/4M000000gO1A/2WB5w5FkEJFBN_jcjmA9.9fp8n5rxvkOYpr9.mQ_1JM)
+  - [Commercial Matrix](https://gitlab.my.salesforce.com/0694M00000DsShm?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
+  - [Public Sector Matrix](https://gitlab.my.salesforce.com/0694M00000DsShr?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
+  - [MSP Matrix](https://gitlab.my.salesforce.com/0694M00000DsShw?retUrl=%2F_ui%2Fcore%2Fchatter%2Ffiles%2FFileTabPage)
 
-  _These matrices represent the discounts effective May 1, 2021 through August 14, 2021_.  
+  _These matrices represent the discounts effective August 15, 2021_.  
 
 - Partners can find the discount table in the Asset Library on the [GitLab Partner Portal](https://partners.gitlab.com/).
  

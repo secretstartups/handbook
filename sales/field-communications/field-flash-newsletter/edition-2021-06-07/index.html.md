@@ -33,7 +33,7 @@ For a detailed overview, watch the [Sales Enablement LevelUp Webcast recording](
 ### Deal of the Month 🏅
 Marc Kriz and Kevin Chasse share how widespread cross-functional collaboration and a deep understanding of the customer’s goals and needs led to us closing a deal for GitLab's now largest customer. 
 
-https://gitlab.edcast.com/insights/marc 
+https://gitlab.edcast.com/insights/marc (GitLab internal only)
 
 ### New and Noteworthy Resources 📓
 GitLab has acquired UnReview, marking an exciting first step for GitLab in building its Applied Machine Learning for DevOps. Reference the [Company FAQ](https://docs.google.com/document/d/14iyUxP9f33OpK2hKIQxUBmUzfeujfIm3GS6AtHblW18/edit) for more internal details, the [Sales Positioning document](https://docs.google.com/document/d/1AoE6D9fMch05iFGjZM-gfpaGdjTWfP1UaR6saDKfeYU/edit?ts=60b63e6c) for helpful context for customer conversations, and share the [TechCrunch article](https://techcrunch.com/2021/06/02/gitlab-acquires-unreview-as-it-looks-to-bring-more-ml-tools-to-its-platform/). [Read and Share -->](https://about.gitlab.com/press/releases/2021-06-02-gitlab-acquires-unreview-machine-learning-capabilities.html)

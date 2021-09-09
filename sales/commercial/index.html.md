@@ -201,6 +201,9 @@ Failure to follow the above is not acceptable in any situation.
 
 1. When beginning a proactive time block, open your opportunities view and sort by Next Steps Date.
 1. Your Next Steps should be specific and compelling so that you can take action on them within 3 minutes of reading.
+    1. `Next Steps` should contain **_only_** the actions you will take next: no dates, no history, just the Next Steps
+    2. When you update `Next Steps`, the `Next Steps History` will automatically capture your prior `Next Steps`, applying a date stamp and storing them in reverse-chronological order
+    3. __Please Note:__ If you previously included history in the `Next Steps` field, the next time you update `Next Steps` you will need to clear the field completely and input only your Next Steps
 
 ### Opportunity-Specific Slide Deck
 
@@ -393,7 +396,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 
 ## Account Ownership Rules of Engagement for Commercial Sales
 
-It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
+It's expected from the Commercial Sales Team to follow the [Account Ownership Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/)
 This section provides step by step clarity on how to follow the **ROE**.
 
 ### Process to follow:

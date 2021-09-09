@@ -18,7 +18,7 @@ Because of the pace at GitLab, the Field team is often overwhelmed by the amount
 
 ### Release Schedule Scope
 
-The updates included in this process are *strictly* system/process-based. Other announcements go through the normal [Field Announcement Request process](/handbook/sales/field-communications/#requesting-field-announcements). The primary update types are related to Sales Ops, CS Ops, Channel Ops and Deal Desk. (Systems is a supplementary use case, but they are usually incorporated as a part of Ops updates.)
+The updates included in this process are *strictly* system/process/policy-based. Other announcements go through the normal [Field Announcement Request process](/handbook/sales/field-communications/#requesting-field-announcements). The primary update types are related to Sales Ops, CS Ops, Channel Ops and Deal Desk. (Systems is a supplementary use case, but they are usually incorporated as a part of Ops updates.)
 
 ### Cadence and Format
 

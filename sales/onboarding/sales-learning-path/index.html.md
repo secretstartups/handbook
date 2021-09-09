@@ -12,7 +12,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ## Sales & Customer Success Quick Start Learning Path - Core Curriculum
 
-### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1471767)
+### 1.[Welcome to GitLab Sales!](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7167664)
 *  **ACTIVITY: Let's Git To Know Each Other! (Assignment, 5 minutes, 1 Point - Pre Work)**
    - Please complete this brief [google form](https://docs.google.com/forms/d/e/1FAIpQLScXH3QSAcqUP4mRJsqUWbn7BUJS_SYJVjFg2oXqOoOwzBMzLA/viewform) to introduce yourself.
 *  **What is GitLab? (Material - Video, 31 Minutes)**
@@ -31,11 +31,11 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read the [Handbook](/handbook/values/#short-toes)
 *  **Org Chart (Material - Handbook - 10 Minutes)**
    - You can see more information about team members and who reports to whom on the team page. Throughout the course you will be asked to schedule a few brief meetings with your peers. Keep in mind that it is always ok to put a meeting on someone's calendar, if they can't make it and decline it is not a problem. We hope you enjoy getting to know your super cool co-workers!
-   - Check out the [org chart](https://about.gitlab.com/company/team/org-chart/) and the [Team Page](https://about.gitlab.com/company/team/)
+   - Check out the [org chart](/company/team/org-chart/) and the [Team Page](https://about.gitlab.com/company/team/)
 
 ### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [DevOps Technology Landscape](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/DevOps+Technology+Landscape+-+Storyline+output/story.html)
 *  **GitLab SDLC Quiz (Quiz - 9 Points - Pre Work)**
    - Take a look at the [handbook page on the SDLC](https://about.gitlab.com/stages-devops-lifecycle/) and take this short [quiz](https://forms.gle/Ed9JjNmKsXPhJ4Fr7)
@@ -49,7 +49,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 
 ### 3. [Our Customers](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459979)
 *  **Our Customers**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [Our Customers](https://gitlabfieldenablement.s3.us-east-2.amazonaws.com/Our+Customers+-+Storyline+output/story.html)
 * **QUIZ: Buyer Personas (Assignment - 5 Points - Pre Work)**
    - Please take a moment to complete this short [quiz](https://docs.google.com/forms/d/e/1FAIpQLSeIDnYn4kWcBZSeRJ98AjUZK7pfj0DqOsnVIcbZjE-atYFExg/viewform) based on information in the [handbook.](/handbook/marketing/strategic-marketing/roles-personas/buyer-persona/)
@@ -60,9 +60,9 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
 *  **Marketing Materials Repository (Material - Gitlab.com - 10 Minutes)**
    - Check out the GitLab [marketing materials repository](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) to see all of our best and most relevant sales collateral. Please be careful to only view or download these files, and feel free to send copies to your clients to help them understand GitLab value. If you would like to share one of these assests on social media please be careful to only use the gated links to content.
 
-### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1470260)
+### 4. [Our Portfolio](https://gitlab.edcast.com/pathways/sales-quick-start/cards/7172709)
 *  **Our Portfolio**
-   - Please click on the link below and go through the course modules. 
+   - Please click on the link below and go through the course modules.
    - [Our Portfolio](https://gitlabtrainingcontent.s3-us-west-2.amazonaws.com/GitLab+Field+Enablement+Our+Portfolio+-+Storyline+output/story.html)
 *  **QUESTION: Pitch Deck Video (Material - Video - 15 Minutes)**
    - Please write one thing you learned or found interesting from watching the GitLab Pitch Deck video.
@@ -232,7 +232,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
   - All GitLab staff can request a 'Light Agent' account so that you can see customer tickets in Zendesk and leave notes for the Support team. These accounts are free. To request a Light Agent Zendesk account, please send an email to [gitlablightagent.5zjj2@zapiermail.com]. You'll receive an automated reply with the result of your request. NOTE: you must send your request from your GitLab Google / Gmail account. No other addresses will work. The Subject and Body fields of the email can be empty.
       - Check out the additional information in the [handbook](https://about.gitlab.com/handbook/support/internal-support/#viewing-support-tickets), in [Zendesk](https://www.zendesk.com/company/collaboration-add-on-additional-features/), and on [gitlab.com](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request). Once the account is created, you'll need to wait 24 hours for it to be assigned in Okta. Once Zendesk is assigned, you should be able to login to Zendesk at https://gitlab.zendesk.com/agent.
 
-### 12. Technical Deep Dive (SA, TAM, and PSE ONLY)
+### 12. [Technical Deep Dive (SA, TAM, and PSE ONLY)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 *  **GitLab Ultimate Demo (Material - Video - 60 minutes)**
    -Review the [GitLab Ultimate Demo](https://chorus.ai/meeting/1837148?tab=summary&call=5E63AE4EDCAD4960A59BEBBEF4CEE1BF)
 * **Auto DevOps (Material - GitLab Docs - 15 minutes)**
@@ -267,7 +267,7 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
    -Bookmark these [Marketing Demos](/handbook/marketing/strategic-marketing/demo/)
 
 
-### 13. Integrations (SA, TAM, and PSE Only)
+### 13. [Integrations (SA, TAM, and PSE Only)](https://gitlab.edcast.com/insights/ECL-a9fb71d3-9877-4da9-af7d-7eab2dd1c04b)
 * **Category Overview**
    - GitLab's vision is to be the best single application for every part of the DevOps toolchain. However, some customers use tools other than our built-in features–and we respect those decisions. The Integrations category was created specifically to better serve those customers. Currently, GitLab offers [30+ project services](https://docs.gitlab.com/ee/user/project/integrations/project_services.html#project-services) that integrate with a variety of external systems. Integrations are a high priority for GitLab, and the Integrations category was established to develop and maintain these integrations with key 3rd party systems and services.
 * **Jira**

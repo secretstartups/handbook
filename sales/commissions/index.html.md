@@ -13,28 +13,30 @@ Sales Commissions is a part of Field Operations, reporting into Sales Operations
 
 - Lisa Puzar, Senior Manager, Sales Commissions
 - Swetha Kashyap, Sales Commissions Manager
+- Praveen Ravi, Sales Commissions Analyst
+- Sophie Hamann, Sales Commissions Analyst
 
 ## **What's New?**
 
-Exciting news for FY22! We are migrating our existing commission system to Xactly Incent! More information to follow, however, some key features are shown below:
+Exciting news for FY22! We have migrated our existing commission system to Xactly Incent! Some key features are shown below:
 
 #### Key Benefits of Xactly Incent
 
 - Refreshes multiple times per day for real-time estimated commission payout visibility, resulting in fewer adjustments after payroll.
 - Visibility into payout estimates on open opportunities with Incentive Estimator feature.
 - Incentive statements on a single layout instead of having to open individual monthly statements.
-- Manager access to their team's individual statements.
+- Manager access to their team's incentive statements.
 
-![Xactly1](/handbook/sales/commissions/picturea.png)
+#### How to Navigate your Incentive Statement
 
-![Xactly2](/handbook/sales/commissions/pictureb.png)
+<!-- blank line -->
+<figure class="video_container"><iframe src="https://youtu.be/CN_csFiDlAM" height="315" width="560"></iframe></figure>
 
 ## **How to Communicate with Us**
 
-There are two ways to connect with us.
-
 - Via email sales-comp@gitlab.com
-- Via the Chatter feature in Salesforce
+- Via the Chatter feature in Salesforce (tag individuals, not Sales Comp)
+- Submit an Inquiry within Xactly Incent
 
 ## **Quick Reference Guide**
 
@@ -121,14 +123,38 @@ We also factor in seasonality into our calculations. We expect most of our busin
 
 Each native-quota carrying salesperson carries an individual seasonality based on the specific circumstances of their accounts, territory, region and segment.  The above seasonality is the aggregation of GitLab as a whole, and is not specific to one person or team.  Xactly will provide Quotas by Month and Quarter.
 
-#### **Overlay Quotas Proration**
+#### **Sales Management, Channel and Alliances Quota Proration**
 
-1. Overlay Quota Reps:  Effective February 1st, 2021, we utilize a 15 day rule to determine the first month in which your quota takes place, where if you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then there is a 0% contribution of that month's quota, and your "first month of quota begins on the first of the following month.
+For Sales Management, Channel and Alliances, if hired on the 1st day of the month, you will be assigned quota for your first month which will be considered your “Month 1”.  If hired after the 1st day of the month, you will not receive a quota or commissions for this first partial month of employment. If hired after the 1st day of the month, your “Month 1” will begin on the first day of the following month for quota and crediting purposes but your variable will be calculated based on your date of hire.
 
-Example:
+(Examples are for an employee with a $50,000 variable)
 
-- Hired on 4/10/2021:   Month 1 = April 2021
-- Hired on 4/22/2021:   Month 1 = May 2021
+Example 1: Hired on April 1, 2021:  “Month 1” Quota begins May 1, 2021
+(Quota begins April 1, 2021 with applied seasonality; Variable is $41,780.82)
+
+Example 2: Hired on April 22, 2021:  “Month 1” Quota begins June 1, 2021
+(Quota begins May 1 with applied seasonality; Variable is retroactive to April 22, 2021 and is $38,904.11)
+
+#### **Customer Success Quota Proration**
+
+For Solutions Architects and Technical Account Managers, effective February 1st, 2021, we utilize a 15-day rule to determine the first month in which your draw and quota takes place.  If you are hired during the 1st-15th of any given month, that is considered your "Month 1", and if you are hired after the 15th of any given month, then your “Month 1” will begin on the first of the following month.
+(Examples are for an employee with a $50,000 variable)
+
+Example 1: Hired on April 1, 2021:  “Month 1” Draw begins April 1, 2021 and continues through June 30, 2021
+(Quota begins July 1, 2021 with applied seasonality; Variable is $29,315.07)
+
+Example 2: Hired on April 22, 2021:  “Month 1” Draw begins May 1, 2021 and continues through July 31, 2021
+(Quota begins August 1, 2021 with applied seasonality; Variable is $26,301.27 which includes variable for August through January in addition to variable for April 22 – April 30.)
+
+#### **End of Year Hires**
+
+### **Quota Minimums**
+
+Based on the above Ramp schedules, native quota-carrying salespeople who join in the latter half of the year may end up with low current year carried quotas. As such, a $100K minimum carried quota will be assigned per team member.
+
+### **End of Year Compensation Plans**
+
+Any Enterprise native quota-carrying salespople who join the organization on 2021-11-01 or after and any Mid-Market native quota-carrying salespeople who join the organization on 2021-12-01 or after will receive an End of Year compensation plan, without a quota. In lieu of a quota and standard commission rates, a flat rate will be provided to pay the team member on all Net ARR that she or she closes during the remainder of the year. Flat rates will be communicated to the team member in a participant schedule and will be set to the average of peer salespeoples' Base Commission Rates (BCRs).
 
 ## **Commissions Overview**
 
@@ -157,6 +183,12 @@ Most commission plans are paid monthly; however there are some plans that are pa
 ### **Commission Rates**
 
 You can find the definitions of **Base Commission Rate (BCR)** and **Super Commission Rates (SCR)** in the [Sales Compensation Plan](/handbook/finance/sales-comp-plan/#definitions) page under the Definitions section.
+
+### **OTI (Variable Pay) Proration**
+
+For any commissionable employee who joins GitLab or starts a new role after February 1st, OTI or Variable pay will be prorated based on the # of months the employee is in seat in a given role. For example, a 2021-04-01 new hire with a $50K annual OTI would see a prorated OTI of $41,667 (83.3%).
+
+However, for any employee on a commission plan with an Annual plan period (e.g. SAL, ASM, SA, etc.), if he/she transfers or is promoted to a role that also employs an Annual plan period, OTI will be prorated based on the % of carried quota in the new role. For example, if a SAL becomes an ASM on 2021-08-01, and the quota for H2 as an ASM is $3.0M out of $5.0M for the year (60%), said individual will receive a prorated OTI of 60% instead of 50% in the new role.
 
 ## **FY21 Commission Program Terminology**
 

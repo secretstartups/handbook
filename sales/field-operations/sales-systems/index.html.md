@@ -91,6 +91,7 @@ Below is a list of the different technical skill sets found on the Sales System 
 *  [Go-To-Market Integrated Environments](/handbook/sales/field-operations/sales-systems/gtm-integrated-environments/)
 *  [License Usage App Documentation](/handbook/sales/field-operations/sales-systems/license-usage-app/)
 *  [Salesforce Configuration Documentation](/handbook/sales/field-operations/sales-systems/salesforce-config/)
+*  [Lead source master data set](/handbook/marketing/marketing-operations/#initial-source)
 
 ## Salesforce.com Change Management Process
 
@@ -257,7 +258,7 @@ Sandboxes which are managed as part of our team's SDLC process will follow a reg
 | Sales Operations | Members of the Sales Operations Team may complete any data uploads to fields that they can update on their own UIs |
 | Customer Success Operations | Members of the Customer Success Operations Team may complete any data uploads to fields that solely impact the Customer Succes organization and their wholly owned processes |
 | Channel Operations |  Members of the Channel Operations Team may complete any data uploads to fields that solely impact the Channel and their wholly owned processes |
-| Marekting Operations | Members of the Marketing Operations Team may complete any data uploads to fields that solely impact the Marketing Team and their wholly owned processes. Prior to completing the uploads though they must inform a member of the Sales Systems team to ensure the fields that they are updating do not cause any cascading updates in Salesforce. Additionally since Marketo and Salesforce are tighly integrated it is encouraged that Marketing Ops also coordinates with the Marketo System Owner to help limit any issues with the integration, API usage etc.  |
+| Marketing Operations | Members of the Marketing Operations Team may complete any data uploads to fields that solely impact the Marketing Team and their wholly owned processes. Prior to completing the uploads though they must inform a member of the Sales Systems team to ensure the fields that they are updating do not cause any cascading updates in Salesforce. Additionally since Marketo and Salesforce are tighly integrated it is encouraged that Marketing Ops also coordinates with the Marketo System Owner to help limit any issues with the integration, API usage etc.  |
 
 #### Data Upload Restrictions
 - When in doubt if you have permission to update fields in Salesforce using the data upload process reach out to a System Administrator to clarify if your uploads are permitted and have any unintentional impacts. 

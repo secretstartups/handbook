@@ -72,7 +72,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 - **NA East - Southeast**: TBD
 - **NA East - Northeast**: Sheila Walsh
 - **NA East - Central**: Adam Olson
-- **NA West - Rockies/SoCal**: TBD
+- **NA West - Rockies/SoCal**: Corey Sanders
 - **NA West - Bay Area**: Alan Cooke
 - **NA West - PNW/MidWest**: Kris Nelson
 - **Inside Sales - Public Sector**: Brent Caldwell
@@ -109,7 +109,6 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	Northeast	|	Large-AMER-Northeast-2	|	Paul Duffy	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-3	|	Peter McCracken	| David Fisher | Virginia Reib |
 |	NA East	|	Northeast	|	Large-AMER-Northeast-4	|	Tony Scafidi	| David Fisher | Virginia Reib |
-|	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-1	|	Rick Walker	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-2	|	Chris Cornacchia	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-3	|	Brad Downey	| Madison Taft | Rachel Hill |
 |	NA West	|	Southwest	|	Large-AMER-Rockies/SoCal-4	|	Steve Clark	| Madison Taft | Rachel Hill |
@@ -129,18 +128,19 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - Civilian-2** | Susannah Reed | Christine Saah | Evan Mathis |  Kira Aubrey |
 | Public Sector | **Federal - Civilian-3** | Luis Vazquez | Bill Duncan | Evan Mathis | Kira Aubrey |
 | Public Sector | **Federal - Civilian-5** | Joel Beck | Nathan Houston | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Evan Mathis | Kira Aubrey |
+| Public Sector | **Federal - Civilian-6** | Matt Kreuch | Christine Saah | Whitney Hurston | Kira Aubrey |
+| Public Sector | **Federal - Civilian-7** | Tyler Kensky | Christine Saah | Whitney Hurston | Kira Aubrey |
+| Public Sector | **State and Local (SLED West)** | Ivan Nepomuceno | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED East)** | Dan Samson | Alexis Shaw | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED Central)** | Matt Stamper | Victor Brew | Evan Mathis | Kira Aubrey |
 | Public Sector | **State and Local (SLED South)** | Adam Mitchell | Alexis Shaw | Evan Mathis | Kira Aubrey |
-| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Josh Downey | Helen Ortel |
-| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Josh Downey | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-1** | Matt Jamison | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-2** | TBH / Ralph Kompare | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Air Force-3** | Stan Brower | Craig Pepper | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Navy-1** | TBH / Ralph Kompare | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Navy-2** | Chris Rennie | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Army-1** | Ron Frazier | Patrick Gerhold | Whitney Hurston | Helen Ortel |
+| Public Sector | **Federal - DoD-Army-2** | Allison Mueller | Patrick Gerhold | Whitney Hurston | Helen Ortel |
 | Public Sector | **Federal - DoD-Agencies** | Scott McKee | Joe Fentor | Josh Downey | Helen Ortel |
 | Public Sector | **Federal - NSG-1** | Marc Kriz | Joe Fenter | Josh Downey |  Helen Ortel |
 | Public Sector | **Federal - NSG-2** | Mike Sellers | Joe Fenter | Josh Downey | Helen Ortel |
@@ -148,6 +148,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Public Sector | **Federal - NSG-4** | Russ Wilson | Bill Duncan | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - NSG-5** | Garry Judy | Nate Houston | Evan Mathis | Helen Ortel |
 | Public Sector | **Federal - Channel SI** | Marty Fisher | Jay Jewell | Josh Downey | Helen Ortel |
+| Public Sector | **Federal - Channel SI-2** | Tim Besecker | Jay Jewell | Josh Downey | Helen Ortel |
 
 #### APAC
 
@@ -160,6 +161,8 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-2	|	Rob Hueston	| Daphne Yam | Peter Huynh |
 |	ANZ	|	ANZ	|	Large-APAC-Large-APAC-3	|	David Haines	| Daphne Yam | Peter Huynh |
 |	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-4	|	Hui Hui Cheong	| Daphne Yam | Peter Huynh |
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-6	|	Vijay Singh	| Daphne Yam | Peter Huynh |
+|	Asia SE	|	Southeast Asia	|	Large-APAC-Large-APAC-7	|	Anthony McMahon	| Daphne Yam | Peter Huynh |
 |	Asia Central	|	Asia Central	|	Large-APAC-Large-APAC-5	|	Rob Hueston	| Daphne Yam | Peter Huynh |
 |	Asia Central	|	Asia Central	|	Large-APAC-S Korea-1	|	Tae Ho Hyun	| Daphne Yam | Peter Huynh |
 
@@ -173,22 +176,17 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Europe Central	|	Europe Central	|	Large-EMEA-DACH-4	|	Timo Schuit	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Germany	|	Large-EMEA-DACH-5	|	Christoph Stahl	| Anthony Seguillon | Sarina Kraft |
 |	Europe Central	|	Eastern Europe	|	Large-EMEA-Large-EMEA-1	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Antonio Mimmo |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Vadim Rusin	| Anthony Seguillon | Sarina Kraft |
-|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Antonio Mimmo |
+|	MEA	|	MEA	|	Large-EMEA-Large-EMEA-2	|	Phillip Smith	| Anthony Seguillon | Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-3	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-4	|	Anthony Seguillon (SAL)	| Anthony Seguillon | Kristine Setschin |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-5	|	Pierre Goyeneix	| Anthony Seguillon | Sarina Kraft |
+|	Southern Europe	|	Europe South	|	Large-EMEA-Large-EMEA-6	|	Hugh Christey	| Anthony Seguillon | Kristine Setschin |
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-1	|	Annette Kristensen	| Chris Loudon | Kristine Setschin 
 |	Nordics	|	Nordics	|	Large-EMEA-UK/I-2.1	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
 |	BeNeLux	|	BeNeLux|	Large-EMEA-UK/I-2.2	|	Aslihan Kurt	| Chris Loudon | Kristine Setschin 
-|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Robbie Byrne	| Chris Loudon | Kristine Setschin |
+|	UKI	|	UKI	|	Large-EMEA-UK/I-3	|	Jessica Cousins	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-4	|	Nasser Mohunlol	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-5	|	Justin Haley	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-6	|	Nicholas Lomas	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-7	|	Warren Searle	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-8	|	Steve Challis	| Chris Loudon | Kristine Setschin |
 |	UKI	|	UKI	|	Large-EMEA-UK/I-9	|	Peter Davies	| Chris Loudon | Kristine Setschin |
-|	UKI	|	UKI	|	Large-EMEA-UK/I-10	|	Godwill NDulor	| Chris Loudon | Kristine Setschin |
 
 
 ### Mid-Market
@@ -203,10 +201,9 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	NA East	|	US East	|	MM-AMER-West-Named-1	|	Christopher Chiappe	| Rachel Hill | 
 |	NA East	|	US East	|	MM-AMER-West-Named-2	|	Kyla Gradin	| Rachel Hill |
 |	NA East	|	US East	|	MM-AMER-West-Named-3	|	Matthew Kobilka	| Rachel Hill |
-|	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Michael Miranda	| Virginia Reib |
-|	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Jenny Kline	| Virginia Reib |
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-1	|	Kaley Johnson	| Virginia Reib |
+|	NA East	|	US East	|	MM-AMER-EAST-CTL-2	|	Nick Kalina	| Virginia Reib |
 |	[LATAM](/handbook/sales/territories/latam/)	|	US East	|	MM-AMER-EAST-LATAM	|	Romer Gonzalez	| Virginia Reib |
-|	NA East	|	US East	|	MM-AMER-EAST-MidAtlantic	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-NE	|	Michael Miranda	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-SE	|	Jenny Kline	| Virginia Reib |
 |	NA East	|	US East	|	MM-AMER-EAST-Southeast	|	Daniel Parry	| Virginia Reib |
@@ -237,50 +234,50 @@ For the detailed breakdown of how the territories are mapped please reference th
 | ---------- | ---- | -------------- | ----- | ----- | ----- |
 |	EMEA	|	MEA	|	MM-EMEA-Named-1	|	Anthony Ogunbowale-Thomas | Shay Fleming | Kristine Setschin |
 |	EMEA	|	MEA	|	MM-EMEA-Named-2	|	Israa Mahros	| Shay Fleming | Kristine Setschin 
-|	Africas	|	Africas	|	MM-EMEA-Africas	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
+|	Africas	|	Africas	|	MM-EMEA-Africas	|	Chris Willis	| Shay Fleming | Kristine Setschin |
 |	Benelux	|	BE/LU	|	MM-EMEA-Benelux-BeLu	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 10x-19x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 20x-29x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 30x-39x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
 |	Benelux	|	NL	|	MM-EMEA-Benelux-NL 40x-99x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	AT	|	MM-EMEA-Central-AT	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	CH	|	MM-EMEA-Central-CH	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 0x	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 1x	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 2x	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 3x	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 4x	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 5x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 6x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 7x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 8x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	DE	|	MM-EMEA-Central-DE 9x	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Europe Central	|	LI	|	MM-EMEA-Central-LI	|	Elli Posch	| Shay Fleming | Kristine Setschin |
 |	Europe CEE	|	R	|	MM-EMEA-Eastern Europe	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Israa Mahros	| Shay Fleming | Kristine Setschin 
-|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	France	|	R	|	MM-EMEA-France-R	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
-|	MEA	|	R	|	MM-EMEA-MEA-R	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
-|	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 0x-6x	|	Tim Guibert	| Shay Fleming | Kristine Setschin 
+|	France	|	FR	|	MM-EMEA-France-FR 7x	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	France	|	FR	|	MM-EMEA-France-FR 8x-9x	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	France	|	R	|	MM-EMEA-France-R	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	MEA	|	AE	|	MM-EMEA-MEA-AE	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	MEA	|	R	|	MM-EMEA-MEA-R	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	MEA	|	SA	|	MM-EMEA-MEA-SA	|	Elli Posch	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	DK	|	MM-EMEA-Nordics-DK	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	FI	|	MM-EMEA-Nordics-FI	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	NO	|	MM-EMEA-Nordics-NO	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	Nordics	|	R	|	MM-EMEA-Nordics-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Russia	|	RU	|	MM-EMEA-Russia	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
-|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Conor Brady	| Shay Fleming | Kristine Setschin |
-|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Daisy Miclat	| Shay Fleming | Kristine Setschin |
-|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Chris Willis	| Shay Fleming | Kristine Setschin |
-|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Nordics	|	SE	|	MM-EMEA-Nordics-SE	|	Tim Guibert	| Shay Fleming | Kristine Setschin |
+|	Russia	|	RU	|	MM-EMEA-Russia	|	Chris Willis	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	ES	|	MM-EMEA-Southern-ES	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	IL	|	MM-EMEA-Southern-IL	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	IT	|	MM-EMEA-Southern-IT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	PT	|	MM-EMEA-Southern-PT	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	Southern Europe	|	R	|	MM-EMEA-Southern-R	|	Laura Geburtzki	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-GB	|	Hans Frederiks	| Shay Fleming | Kristine Setschin |
+|	UKI	|	IE	|	MM-EMEA-UKI-Ireland	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London E	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London EC	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London N	|	Conor Brady	| Shay Fleming | Kristine Setschin |
+|	UKI	|	GB	|	MM-EMEA-UKI-London NW	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London SE	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London SW	|	Conor Brady	| Shay Fleming | Kristine Setschin |
 |	UKI	|	GB	|	MM-EMEA-UKI-London W	|	Conor Brady	| Shay Fleming | Kristine Setschin |
@@ -291,11 +288,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 
 | Sub-Region | Area | **Territory Name** | Sales | FMM |
 | ---------- | ---- | -------------- | ----- | ----- | 
-|	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Rachel Hill |
-|	NA West	|	US West	|	MM-AMER-FO-West	|	Todd Lauver	| Rachel Hill |
+|	NA East	|	US East	|	MM-AMER-FO-East	|	Todd Lauver	| Ginny Reib |
+|	NA West	|	US West	|	MM-AMER-FO-West	|	Clayton Houston	| Rich Hancock |
 |	NA Central	|	US Central	|	MM-AMER-FO-Central	|	Lexi Roman	| Rachel Hill |
 |	Northern Europe	|	Northern Europe	|	MM-EMEA-FO-North	|	Lisa VdKooij	|  Kristine Setschin |
-|	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Kristine Setschin |
+|	Southern Europe	|	Southern Europe	|	MM-EMEA-FO-South	|	Sophia Simunec	| Sarina Kraft |
 
 ### SMB
 
@@ -314,7 +311,7 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	AMER	|	AMER	|	SMB-AMER-EAST-SE	|	Kaley Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-NorCal |	James Altheide
 |	AMER	|	AMER	|	SMB-AMER-WEST-NW	|	Blake Chalfant-Kero
-|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	TBH - James Komara
+|	AMER	|	AMER	|	SMB-AMER-WEST-SF/LA	|	Stacy Johnson
 |	AMER	|	AMER	|	SMB-AMER-WEST-SoCal	|	Jake Grothjan
 |	AMER	|	AMER	|	SMB-AMER-WEST-SW	|	Carrie Nicholson
 
@@ -340,11 +337,11 @@ For the detailed breakdown of how the territories are mapped please reference th
 |	Southern Europe	|	EMEA	|	SMB-EMEA-FR-1	|	Wiam Aissaoui
 |	Southern Europe	|	EMEA	|	SMB-EMEA-FR-2	|	Wiam Aissaoui
 |	Southern Europe	|	Europe South	|	SMB-EMEA-Greece	|	Arina Voytenko
-|	MEA	|	MEA	|	SMB-EMEA-MEA	|	Camilo Villanueva
+|	MEA	|	MEA	|	SMB-EMEA-MEA	|	Georges Atta
 |	Nordics	|	Nordics	|	SMB-EMEA-Nordics-1	|	Goran Bijelic
 |	Nordics	|	Nordics	|	SMB-EMEA-Nordics-2	|	Goran Bijelic
 |	Europe Central	|	DACH	|	SMB-EMEA-Rest of DACH	|	Rahim Abdullayev
-|	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Camilo Villanueva
+|	Southern Europe	|	Europe South	|	SMB-EMEA-Southern Europe	|	Georges Atta
 |	UKI	|	UKI	|	SMB-EMEA-UKI-1	|	Camilo Villanueva
 |	UKI	|	UKI	|	SMB-EMEA-UKI-2	|	Noria Aidam
 
@@ -353,3 +350,4 @@ For the detailed breakdown of how the territories are mapped please reference th
 | Sub-Region | Area | **Territory Name** | Sales | 
 | ---------- | ---- | -------------- | ----- | 
 |	AMER	|	US West	|	SMB-AMER-West-FO	|	Da'Neil Olsen	|
+|	AMER	|	US East	|	SMB-AMER-East-FO	|	Phillip Knorr	|

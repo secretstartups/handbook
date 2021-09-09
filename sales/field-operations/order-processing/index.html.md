@@ -107,7 +107,7 @@ Pre-Approved Legal Language can be added to each quote. Selections are listed as
 |--------------------------------|------------------------------------------------------------------------------------------|
 | Annual Payments                | Annual Payment Language will populate in Payment Details on the Order Form PDF           |
 | Customer Reference Language    | Customer Reference Language will populate in Notes Section of the order form             |
-| Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form |
+| Add Quarterly True Up Language | Standard Quarterly True Up Language will populate in the Notes section of the Order Form *This language permits manual quarterly add-ons, and can only be used when SuperSonics Quarterly Reconciliations do not apply |
 | Remove Signature Block         | Signature Block will be removed. Use for customers with Existing Agreements (MSA)        |
 
 Quotes run through an automated logic check to ensure that the selected Legal Language can be added to the order form. This logic check reviews characteristics of the quote, including populated fields, route to market, and products being sold. 
@@ -162,11 +162,11 @@ Follow the standard process for [quote creation](https://about.gitlab.com/handbo
 
 ### **SuperSonics Billing and Subscription Management Experience**
 
-GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Metrics. 
+GitLab's Cloud Licensing experience allows for the activation and provisioning of Quarterly Subscription Reconciliation and Auto-Renewals, which apply to both SaaS and Self-Managed Subscription plans. In addition, the new Cloud Licensing experience introduces Operational Data. 
 
 #### SuperSonics Eligibility
 
-Starting 2021-08-02, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Metrics, review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
+Starting 2021-08-02, the SuperSonics Billing and Subscription Management Experience applies to all eligible new customers and any eligible existing customers at their next renewal, assuming they are running GitLab 14.1 and have opted into the new terms. To determine whether your customer is eligible for Auto-Renewal, Quarterly Subcription Reconciliation, and Operational Data, review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) and read the [Customer Availability Summary Table](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#bookmark=id.jb012t7kd93k) section of the [Field Team FAQ](https://docs.google.com/document/d/1XmaIDggCYespisg1MTXHMVDUnWtdRsDw_brz-ir9RrI/edit#). Please direct any questions regarding SuperSonics eligibility to the #pnp-changes-field-questions Slack channel.
 
 #### SuperSonics and Sales Assisted Transactions
 
@@ -174,33 +174,34 @@ New fields have been added to the Quote object to support SuperSonics Functional
 
 **Zuora Fields**
 
-This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Metrics). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
+This section contains a number of fields that show the current state of each SuperSonics feature (Auto-Renewal, Quarterly Subscription Reconciliation, Operational Data). The "Contract" fields show whether the customer is contractually eligible for the related feature. The "Turn On" fields show whether that feature is actually enabled on the subscription. 
 
 For customers who are not exempt, the default values will be "Yes" for all fields. For customers who are exempt based on the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix), the default values will be "No" for all fields. 
-* Note: If a customer is exempt from SuperSonics, or has opted out, Legal Language will populate on the Order Form noting that SuperSonics does not apply. In these cases, such language can only be removed or edited by the GitLab Legal Team.
+- Note: If a customer is exempt from SuperSonics, or has opted out, Legal Language will populate on the Order Form noting that SuperSonics does not apply. In these cases, such language can only be removed or edited by the GitLab Legal Team.
+  - For exemptions related to MSAs or partner deals, legal opt-out language will not populate on the Order Form. 
 
 | Field Name | Field Description |
 |-|-|
-| Contract Auto Renew | (Yes/No) Shows whether customer is contractually eligible for Auto-Renewal  |
-| Contract Seat Reconciliation | (Yes/No) Shows whether customer is contractually eligible for Quarterly Subscription Reconciliation |
-| Contract Operational Metrics | (Yes/No) Shows whether customer is contractually eligible for Operational Metrics |
-| Turn On Auto Renew | (Yes/No) Shows whether Auto-Renewal is enabled for the subscription |
-| Turn On Seat Reconciliation | (Yes/No) Shows whether Quarterly Subscription Reconciliation is enabled for the subscription |
-| Turn On Operational Metrics | (Yes/No) Shows whether Operational Metrics is enabled for the subscription |
+| Contract Auto-Renewal | (Yes/No) Shows whether customer is contractually eligible for Auto-Renewal  |
+| Contract Quarterly Reconciliation | (Yes/No) Shows whether customer is contractually eligible for Quarterly Subscription Reconciliation |
+| Contract Operational Data | (Yes/No) Shows whether customer is contractually eligible for Operational Data |
+| Turn On Auto-Renewal | (Yes/No) Shows whether Auto-Renewal is enabled for the subscription |
+| Turn On Quarterly Reconciliation | (Yes/No) Shows whether Quarterly Subscription Reconciliation is enabled for the subscription |
+| Turn On Operational Data | (Yes/No) Shows whether Operational Data is enabled for the subscription |
 
 **Cloud Licensing Fields**
 
-The fields in this section enable contractual opt-outs for each SuperSonics feature. If you wish to request an opt-out of Auto-Renewal, Quarterly Subscription Reconciliation, or Operational Metrics, you must check the applicable box on the quote object. Checking these boxes will trigger an approval workflow, and will ultimately insert legal language onto the Order Form that opts the customer out of the related feature. If any of these boxes are checked, and the opt-out is approved, the related Zuora Fields will reset to "No." 
+The fields in this section enable contractual opt-outs for each SuperSonics feature. If you wish to request an opt-out of Auto-Renewal, Quarterly Subscription Reconciliation, or Operational Data, you must check the applicable box on the quote object. Checking these boxes will trigger an approval workflow, and will ultimately insert legal language onto the Order Form that opts the customer out of the related feature. If any of these boxes are checked, and the opt-out is approved, the related Zuora Fields will reset to "No." 
 
 | Field Name | Field Description |
 |-|-|
-| [Cloud Lic] Add Quarterly Coterm Opt-Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
+| [Cloud Lic] Add Reconciliation Opt Out | (Checkbox) Opts customer out of Quarterly Subscription Reconciliation  |
 | [Cloud Lic] Add Auto-Renewal Opt-Out | (Checkbox) Opts customer out of Auto-Renewal |
-| [Cloud Lic] Add Operational Metrics Opt-Out | (Checkbox) Opts customer out of Operational Metrics |
+| [Cloud Lic] Add Operational Data Opt Out | (Checkbox) Opts customer out of Operational Data |
 
 #### How To Opt-Out of SuperSonics Features
 
-During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Metrics may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
+During the Sales process, a customer who would not otherwise be exempt from Auto-Renewal, Quarterly Subscription Reconciliation, and/or Operational Data may request to disable one or more of these features. Every opt-out will require approvals, as noted in the [Deal Approval Matrix](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.6ae1zz9525h7). If an opt-out is requested and approved, upon Closed Won the related feature will be disabled for the subscription in question.
 
 **Steps to Request an Opt-Out:**
 1. Navigate to the Cloud Licensing Fields section of the quote, and check the box next to the applicable SuperSonics Feature (i.e. Add Auto-Renewal Opt-Out). Click Save.
@@ -222,7 +223,7 @@ During the Sales process, there may be a need for Sales to "pause" an upcoming A
 #### SuperSonics: Frequently Asked Questions
 
 1. **I'm working on a deal. How can I tell if SuperSonics features apply to that deal?**
-  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto Renew," "Turn On Seat Reconciliation," or "Turn On Operational Metrics," then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
+  - First, create a quote. After you've saved your quote, check the [Zuora Fields](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#supersonics-and-sales-assisted-transactions). If you see "Yes" next to "Turn On Auto-Renewal", "Turn On Quarterly Reconciliation", or "Turn On Operational Data", then that feature applies to your customer. If you see "No" next to these fields, SuperSonics features do not apply to your customer, and Legal opt-out language will be automatically populated on the Order Form.
 2. **I created a quote and legal language has automatically populated in the Notes section of the Order Form. Why did that happen?**
   - This means that your customer is exempt from one or more SuperSonics features. These SuperSonics features are not available for the deal, and we must place legal opt-out language on the Order Form to make it clear that these features do not apply. Review the [Availability Matrix](https://gitlab-com.gitlab.io/licensing/cloud-licensing/#availability-matrix) for more information on exemptions.
   - Note: This language is not optional and cannot be removed unless the customer opts into SuperSonics. If you would like to discuss such a scenario, tag @Sales-Support in chatter.
@@ -246,12 +247,13 @@ There are several scenarios where you might need Legal assistance on an opportun
 #### Contact Legal
 For general questions related to the customer, please open a case with legal.
 
-On Customer Account, OR, Opportunity:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of Opportunity SFDC layout)
 1. Provide the question in the "NOTES" Section and hit "SAVE"
 1. The information provided will open a "Case", which will automatically be assigned to a Contract Manager / Legal Member
 1. The Contract Manager / Legal Member will review the question and provide an answer in the case comments and tag the requesting Sales Team Member via SFDC Chatter
 1. Once the question is addressed, the Case will be closed by the Contract Manager.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 
 <details>
@@ -352,8 +354,8 @@ You may contact Legal directly in Slack via #Legal
 
 #### Request editable version of GitLab Template:  
 
-At Customer Account, OR, Opportunity:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 1. For "**Type of Legal Request**" select "**Request for GitLab Agreement Template**"
 1. For "**Type of Contract**" select the Template desired. For example, for a Non-Dislclosure Agreement request, select "NDA"
 1. For "**Contract Source**" select "**GitLab Contract Template**"
@@ -362,13 +364,14 @@ At Customer Account, OR, Opportunity:
 1. The Contract Manager / Legal Member will attach the requested template and tag the requesting Sales Team Member
 1. The Sales Team Member will take the template version and provide to the Customer
   * NOTE: Sales Team Members are responsible for communication(s) with Customers. This includes providing back GitLab templates and negotiated terms.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 **At this time, the Contract Request Case will be marked as "Closed". Follow the below steps to initiate "Contract Review" of the Customer edits.**
 
 #### Request for GitLab review of Customer edits to GitLab Template, OR, Review of Customer Agreement Template
 
-On Customer Account, OR, Opportunity:
-1. Click "**Legal Request**" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 1. For "**Type of Legal Request**" select "Contract Review"
 1. For "**Type of Contract**" select the type of Agreement / Template being negotiated. For example, for a Non-Dislclosure Agreement request, select "NDA"
 1. For "**Contract Source**" select the applicable Agreement / Template Source
@@ -382,13 +385,14 @@ On Customer Account, OR, Opportunity:
 1. The same steps will repeat until an executable version is reached. At which point, the Contract Request Case will be closed.  
 1. The Sales Team Member will follow the steps found at ["Obtain Signatures"](/handbook/business-ops/order-processing/#how-to-obtain-signatures-for-any-external-contract-or-agreement-including-vendor-forms) and attach the fully executed version to the Customer Account.
 NOTE: The above process may be used to also engage Contract Managers / Legal Members to add non-standard language to Order Forms
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request. 
 
 **All communications, and versions of Agreements, should be kept in the Contract Request Case**
 
 #### Request GitLab Partner Agreement:  
 
-At the Account, OR, Opportunity Page:
-1. Click "Legal Request" (located at the top of Account and Opportunity SFDC layout)
+Within the Customer Opportunity:
+1. Click "Legal Request" (located at the top of the Opportunity SFDC layout)
 2. For "**Type of Legal Request**" select "**Request for GitLab Agreement Template**"
 3. For "**Type of Contract**" select "**Other Agreement**"
 4. For "**Contract Source**" select "**GitLab Contract Template**"
@@ -398,6 +402,7 @@ At the Account, OR, Opportunity Page:
 8. The Sales Team Member will update the cover page of the Partner Agreement to include the Partner Information (i.e., Territory, Partner Address...etc)
 9. The Sales Team Member should send (AS A PDF) the Agreement to the Partner. If they require an editable version, they may send the "WORD" form originally provided.
   * NOTE: Sales Team Members are responsible for communication(s) with Partners. This includes providing back GitLab templates and negotiated terms.
+1. **NOTE:** If not Opportunity exists yet, please create a $0 to open the Legal Request.
 
 **At this time, the Contract Request Case will be marked as "Closed". Follow the below steps to initiate "Contract Review" of the Partner edits. Please note, ANY DOCUMENT THAT REQUIRES GITLAB SIGNATURE MUST HAVE A GITLAB LEGAL STAMP (SEE OBTAIN SIGNATURE)**
 
@@ -1018,14 +1023,14 @@ Quoting:
 
 1. Create a quote object per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
-1. Deliver PDF of Order Form to Peter Goldberg (GitLab Alliances team) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance.
+1. Once Order Form PDF is generated, chatter Emily Murphy (Alliance Ops) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance. Reach out to Pete Goldberg with additional questions.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
 
 Requirements to Close Deal:
 
 1. A Private Offer must have been created within the AWS Private Offer Portal, accepted by the customer, and must match the deal elements as approved on the SFDC quote object / Order Form. The Private Offer will include the AWS Private Offer Order Form and the standard GitLab Subscription Agreement (as provided by Legal). Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer.
-1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Pete Goldberg to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
-1. Deal Desk will confirm the purchase with Pete Goldberg before booking.
+1. Once the Private Offer has been accepted by the customer in the AWS Portal, the sales rep should work with Emily Murphy to attach evidence of the transaction, and then submit the opportunity for approval in SFDC. 
+1. Deal Desk will confirm the purchase with Emily Murphy before booking.
 
 Closing the Deal:
 
@@ -1137,7 +1142,7 @@ After the ISR or Account manager confirms the Distributor PO is correct, a quote
 <details>
 <summary markdown="span"><b>Booking Requirements for Professional Services opportunities</b></summary>
 
-Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services.
+Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services and the [Deal Desk handbook page for the details of PS quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services). 
 
 1. If a Professional Services Opportunity only includes any of these off-the-shelf SKUs
     * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products.
@@ -1158,7 +1163,7 @@ Review the [Professional Services handbook page](/handbook/customer-success/prof
 #### FY22 Bookings Policy
 
 
-This policy dicates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
+This policy dictates the timing of opportunity closure for all sales-assisted deals. The purpose of this policy is to ensure forecast predictability and proper revenue recognition.
 
 ##### New Business/Add-On Opportunities:
 - <ins>New Business and Add-On opportunities</ins> will be Closed Won *no more than 15 days prior to the Quote Start Date* as reflected on the opportunity.

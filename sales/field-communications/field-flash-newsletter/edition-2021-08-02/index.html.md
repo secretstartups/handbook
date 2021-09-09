@@ -30,7 +30,7 @@ You can check your knowledge of these changes in our [enablement course](https:/
 ### Deal of the Month 🏅
 Hear from Sean Billow, Cherry Han, Vick Kelkar and a guest from IBM about a joint deal with IBM. 
 
-https://gitlab.edcast.com/insights/sean 
+https://gitlab.edcast.com/insights/sean (GitLab internal only)
 
 ### New and Noteworthy Resources 📓
 GitLab has created the “SAFE” framework – **S**ensitive, **A**ccurate, **F**inancial, **E**ffect – as a guide for sharing information about our company and a tool to enable responsible transparency in order to protect GitLab and our team members. Understand how to apply this framework to your conversations with external audiences like customers and partners. [Learn More -->](/handbook/legal/safe-framework/#safe)
