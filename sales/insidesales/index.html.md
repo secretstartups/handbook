@@ -68,7 +68,8 @@ An "actively managed" opportunity is any opportunity or renewal which has been d
 
 ISR Requirements:
 - Copy the account leader on all customer-facing communications
-- Maintain an Opportunity Task (with current or future date) on ALL open opportunities in Tier 1
+- Create & maintain an open Opportunity Task on all open opportunities assigned in Salesforce
+- Ensure the _Next Step_ field is up-to-date with the context as well as who owns the next step (if it is not the ISR)
 - Ensure proper logging of ALL activities in Salesforce
 
 #### Tier 2 = Co-managed by SAL and ISR
@@ -77,8 +78,8 @@ A "co-managed" opportunity is an opportunity that SALs & ISRs collaborate on and
 
 ISR Requirements:
 - Copy the account leader on all customer-facing communications
-- Maintain an Opportunity Task (with current or future date) on ALL open opportunities in Tier 2
-- Ensure that the _Activity Task_ and/or _Next Steps_ field includes who is responsible for next steps
+- Create & maintain an open Opportunity Task on all open opportunities assigned in Salesforce
+- Ensure the _Next Step_ field is up-to-date with the context as well as who owns the next step (if it is not the ISR)
 - Ensure proper logging of ALL activities in Salesforce
 
 #### Tier 3 = SAL-managed
@@ -86,16 +87,22 @@ ISR Requirements:
 "SAL-managed" opportunities are managed entirely by the SAL including customer-facing activities, quoting, internal approvals and paper process.
 
 ISR Requirements:
-- Assist with paper process, quoting, approvals, and customer-facing activity on an as-needed basis
-- Ensure all activities are logged in next steps
+- Backup / Emergency support on paper process, quoting, approvals, and customer-facing activity on an as-needed basis
+- If an ISR is looped in to support a SAL-managed opportunity, the ISR should update the _ISR Priority_ field and move it to the appropriate tier.
 
 #### Tier 4 = Low touch
 
 "Low touch" opportunities require no customer-facing activities from the inside sales rep to close. Or Opportunities in which the ISR is responsible for only internal processes like quote generation, internal approvals, deal facilitation, processing, or license management.
 
+ISR Requirements:
+- Copy the account leader on all customer-facing communications
+- Create & maintain an open Opportunity Task on all open opportunities assigned 
+- Ensure the _Next Step_ field is up-to-date with the context as well as who owns the next step (if it is not the ISR)
+- Ensure that all customer-facing activities and communications are logged in Salesforce
 
 ### Opportunity Task Management
-In addition to being tagged on every opportunity in region, ISRs should maintain an `Opportunity Task` for each open opportunity in Tiers 1, 2, and 4. These tasks help ISRs stay on task and should be maintained and updated regularly as opportunities progress through the sales cycle. Each ISR has an individual Opportunity Task report that is reviewed by leadership to ensure that regional opportunities are being progressed and that all opportunities are being tracked by the Inside Sales team.
+In addition to being tagged on every opportunity in region, ISRs should maintain an `Opportunity Task` for each open opportunity that they are assigned. For Public Sector ISRs, there should be an open task for all assigned opportunities. Enterprise ISRs are required to have an opportunity task for all assigned opportunities in Tiers 1, 2, and 4. These tasks help ISRs stay on task and should be maintained and updated regularly as opportunities progress through the sales cycle. 
+
 
 ### ISR Note Taking
 
