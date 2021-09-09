@@ -92,11 +92,13 @@ It is important to enable a human-to-human approach and realize the other party 
 
 # Psychological Safety Learning & Development
 
-## Psychological Safety Short Course 
+## [Psychological Safety Short Course](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/) 
 
 If you want to learn more about how you can impact psychological safety, you can take the Psychological Safety Short Course which takes approximately 30-45mins. This will guide you things that impact psychological safety, how you can cultivate psychological safety as well as run through scenarios to reaffirm your learning. 
 
 You can access the [Psychological Safety Short Course here](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r)
+
+You can also access the [read section here](https://about.gitlab.com/handbook/leadership/emotional-intelligence/psychological-safety-short-course/)
 
 ## Live Learning Session 
 
