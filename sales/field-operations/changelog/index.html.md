@@ -16,15 +16,22 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ## Q3-FY22 
 
-**Item 1 Publicly Accessible Chorus Recordings** (https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)
+### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
-**Item 2 (title only)** (issue link)
+**SOPS) Publicly Accessible Chorus Recordings** (https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)
 
-**Item 3 (title only)** (issue link)
+**CSOPS [Gainsight Dashboard filtering: added TAM Manager as filter](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/445)**
+
+**CSOPS [At-Risk Customer Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615), [issue](https://gitlab.com/groups/gitlab-com/-/epics/1462) and [handbook page](At-Risk Customer Dashboard creation and handbook)**
+
+**CSOPS [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/)**
+
 
 **Item 4 (title only)** (issue link)
 
-### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
+**Item 4 (title only)** (issue link)
+
+**Item 4 (title only)** (issue link)
 
 
 ### 2021-08-30 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
