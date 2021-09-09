@@ -16,11 +16,21 @@ This policy specifies requirements related to the use of GitLab computing resour
 
 It is the responsibility of every member of our Community to interact with GitLab computing resources and data in a secure manner and to that end we provide the following acceptable use standards related to computing resources, company and customer data, mobile and tablet devices, and removable and external media storage devices.
 
-## Scope of Acceptable Use Policy
+## Scope
 
 This policy applies to all GitLab team-members, contractors, advisors, and contracted parties interacting with GitLab computing resources and accessing company or customer data.
 
-## Acceptable Use and Security Requirements of Computing Resources at GitLab
+## Roles & Responsibilities:
+
+| Role  | Responsibility | 
+|-----------|-----------|
+| GitLab Team Members | Responsible for following the requirements in this procedure |
+| Security, Legal and PeopleOps | Responsible for implementing and executing this procedure | 
+| Security, Legal and PeopleOps (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+## Procedure
+
+### Acceptable Use and Security Requirements of Computing Resources at GitLab
 
 GitLab-managed assets are provided to conduct GitLab business with consideration given for limited personal use. Our company uses global electronic communications and resources as routine parts of our business activities. It is essential that electronic resources used to perform company business are protected to ensure that these resources are accessible for business purposes and operated in a cost-effective manner, that our company’s reputation is protected, and that we minimize the potential for legal risk.
 
@@ -60,7 +70,6 @@ Prohibited system and network activities include, but are not limited to, the fo
 - Circumventing user authentication or security of any computer host, network, or account used by GitLab.
 - Tunneling between network segments or security zones (e.g., `gprd`, `gstg`, `ops`, `ci`), except when troubleshooting issues for the benefit of GitLab.
 - Given the potential sensitivity of the data contained in screenshot images, the use of tools that capture and share screenshots to hosted sites online is prohibited without the explicit approval of the Security and Legal Departments.  Screenshots should be stored locally or within Google drive folders associated with your GitLab.com account. Access to these drives and files should be managed in accordance with our [Access Control policy](/handbook/engineering/security/#access-management-process), and handled according to our [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html). Tools such as [Lightshot](https://app.prntscr.com/en/index.html), where upload functionality cannot be disabled and could result in inadvertant uploads, should not be used.
-
 
 ### Unacceptable Email and Communications Activities
 
@@ -112,13 +121,13 @@ Compliance with this policy will be verified through various methods, including 
 
 Any team member or contractor found to be in violation of this policy may be subject to disciplinary action, up to and including termination of employment, or contractual agreement.
 
-Exceptions to this policy must be approved by Security, Legal and PeopleOps Departments.
-
 ### Consultations
 
 To consult with the Security Team, use the appropriate contact: `security@gitlab.com`, or create an issue in the [Security Compliance tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/issues).
 
-### Related Documents and Handbook Entries
+## Exceptions
+
+Exceptions to this policy must be approved by Security, Legal and PeopleOps Departments.
 
 - [Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md)
 - [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html)
