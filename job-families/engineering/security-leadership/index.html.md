@@ -40,9 +40,9 @@ Leaders in the security department at GitLab see the team as their product. Whil
 
 ## Levels
 
-### Senior Manager, Security (Sub-Department)
+### Senior Manager, Security
 
-The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level based on the needs and growth of the security department.
+The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
 
 #### Senior Manager, Security Job Grade
 
