@@ -27,7 +27,7 @@ The Inside Sales Representative is a [grade 6](/handbook/total-rewards/compensat
 #### Inside Sales Representative Requirements
 
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
 * Experience selling into large organizations
 * Interest in GitLab, and open source software
 * Ability to leverage established relationships and proven sales techniques for success
@@ -77,7 +77,7 @@ The Manager, Inside Sales is a [grade 9](https://about.gitlab.com/handbook/total
  
 * Extends that of the Senior Inside Sales Representative Requirements
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
   
 ### Senior Manager, Inside Sales
 
@@ -100,8 +100,8 @@ The Senior Manager, Inside Sales, is a [grade 9](https://about.gitlab.com/handbo
 #### Senior Manager, Inside Sales Requirements
 
 * Extends that of the Manager, Insides Sales Requirements 
-* 5 to 7 years in a Management role
-* 7+ years of experience with B2B software sales
+* Demonstrated progressive experience in a Management role
+* Demonstrated progressive experience with B2B software sales
 * Interest in GitLab, and open source software
 * Excellent negotiation, presentation and closing skills
 * Motivated and committed to engage in disussions and GitLab Issues with cross functional teams to convey the needs of the Public Sector sales team.

@@ -25,9 +25,9 @@ The VP, Field Operations is a [grade 12](/handbook/total-rewards/compensation/co
  
 ### Requirements
 
-* 10-15 years of experience in a global SAAS sales or sales operations environment.
+* Demonstrated progressive experience in a global SAAS sales or sales operations environment.
 * Demonstrated passion for information and business intelligence; thorough understanding of sales processes and methodologies.
-* Minimum of 10 years experience in Salesforce.com.
+* Demonstrated progressive experience in Salesforce.com.
 * Experience growing within a small start-up. Strong ability to interact and influence effectively with all C-level executives and team members.
 * Ability to work independently with a high degree of accountability, while also able to collaborate cross-functionally (finance, marketing, sales enablement, etc) with exceptional intrapersonal skills.
 * Exceptional written/verbal communication and presentation skills.

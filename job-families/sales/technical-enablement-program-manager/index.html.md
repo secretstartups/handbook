@@ -30,7 +30,7 @@ The Senior Technical Enablement Program Manager is a [grade 7](/handbook/total-r
 
 #### Senior Technical Enablement Program Manager Requirements 
 
-* 5+ years experience in a software sales or sales enablement role, preferably with expertise in DevOps and/or Open Source
+* Demonstrated progressive experience in a software sales or sales enablement role, preferably with expertise in DevOps and/or Open Source
 * Self-manages workload to meet deadlines and prioritize accordingly
 * Proven experience building and managing successful sales enablement programs for B2B enterprise sales professionals
 * Technical presentation and communication skills

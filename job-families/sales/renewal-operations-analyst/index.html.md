@@ -35,8 +35,8 @@ The Renewals Operations Analyst (Intermediate) is a [grade 6](/handbook/total-re
 
 #### Renewals Operations Analyst (Intermediate) Requirements
 
-* 3+ years of Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
-* 2+ years of Sales or Customer Success experience
+* Demonstrated progressive Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
+* Demonstrated progressive Sales or Customer Success experience
 * Proven track-record of increasing renewal rates
 * Experience implementing renewal processes and metrics
 * Able to teach best practices, strategies, and tactics
@@ -67,8 +67,8 @@ The  Senior Renewals Operations Analyst is a [grade 7](/handbook/total-rewards/c
 #### Senior Renewals Operations Analyst Requirements
 
 * Extends that of the Renewals Operations Analyst (Intermediate) requirements
-* 5+ years of Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
-* 3+ years of Sales or Customer Success experience
+* Demonstrated progressive Operations experience supporting Sales / Customer Success / Account Management teams, preferably within an Enterprise SaaS organization
+* Demonstrated progressive Sales or Customer Success experience
 
 
 ## Performance Indicators

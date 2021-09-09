@@ -26,7 +26,7 @@ The Solutions Manager (Intermediate) is a [grade 6](/handbook/total-rewards/comp
 #### Solutions Manager (Intermediate) Requirements
 
 - Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-- 3+ years relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
+- Demonstrated progressive relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
 - Ability to quickly understand technical concepts and explain them to customer and professional services audiences (mostly technical)
 - Proven ability to effectively interact with and influence senior executives and team members
 - Exceptional written/verbal communication and presentation skills
@@ -52,7 +52,7 @@ The Senior Solutions Manager is a [grade 7](/handbook/total-rewards/compensation
 ### Senior Solutions Manager Requirements
 
 * Extends the Solutions Manager requirements
-- 7+ years relevant experience defining, developing, and executing customer services and/or training strategies, tactics and action plans
+- Demonstrated progressive relevant experience defining, developing, and executing customer services and/or training strategies, tactics and action plans
 - Advanced experience and insight with the GitLab platform
 - Demonstrated experience leading others and partnering with senior executives
 - Advanced ability to think strategically about business, products, and technical challenges
@@ -80,7 +80,7 @@ The Senior Solutions Manager is a [grade 7](/handbook/total-rewards/compensation
 
 * Extends that of the Solutions Manager (Intermediate) or Senior Solutions Manager requirements
 * Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-* 3 plus years relevant experience in building and scaling a channel partner program
+* Demonstrated progressive relevant experience in building and scaling a channel partner program
 * Effectively interacts with and influences senior executives and team members
 * Exceptional written/verbal communication and presentation skills
 * Team player with developed interpersonal skills, experience with project management and cross-functional collaboration

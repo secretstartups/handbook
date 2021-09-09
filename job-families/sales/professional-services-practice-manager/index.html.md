@@ -23,7 +23,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 #### Requirements
 
 * Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-* 3+ years relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
+* Demonstrated progressive relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
 * Ability to quickly understand technical concepts and explain them to customer and professional services audiences (mostly technical)
 * Proven ability to effectively interact with and influence senior executives and team members
 * Exceptional written/verbal communication and presentation skills
@@ -78,7 +78,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 #### Requirements
 
 * Bachelor’s degree in business, management, education or related field.
-* 5+ years managing, specifically creating, training programs.
+* Demonstrated progressive experience managing, specifically creating, training programs.
 * Comprehensive knowledge of the principles, methods, and techniques used in the development and delivery of training programs
 * Comprehensive knowledge of relevant training technologies, such as Learning Management Systems (LMS).
 * Strong computer skills. Proficiency in Word, Excel and PowerPoint required. A working knowledge of core business systems preferred

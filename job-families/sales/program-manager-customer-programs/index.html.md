@@ -30,8 +30,8 @@ The Program Manager, Customer Programs is a [Grade 6](/handbook/total-rewards/co
 #### Program Manager, Customer Programs (Intermediate) Requirements
  
 - You are obsessed with making customers happy
-- 2+ years of hands-on experience with Gainsight Journey Orchestrator or relevant digital marketing platform 
-- 3+ years of digital or content marketing experience and understanding of relevant metrics and KPIs (i.e., click-through, engagement, etc.)
+- Demonstrated progressive hands-on experience with Gainsight Journey Orchestrator or relevant digital marketing platform 
+- Demonstrated progressive digital or content marketing experience and understanding of relevant metrics and KPIs (i.e., click-through, engagement, etc.)
 - Experience with technical products. Understanding of SLDC, software development tools, agile, and/or DevOps preferred.
 - Deep empathy for our audience of developers and IT leaders
 - Experienced administrator of Gainsight and CRM software (Salesforce preferred)
@@ -55,8 +55,8 @@ The Senior Program Manager, Customer Programs is a [Grade 7](/handbook/total-rew
 #### Senior Program Manager, Customer Programs Requirements
 
 * Extends that of the Program Manager, Customer Programs (Intermediate) Requirements.
-* 3+ years of hands-on experience with Gainsight Journey Orchestrator or relevant digital marketing platform 
-- 4+ years of digital or content marketing experience and understanding of relevant metrics and KPIs (i.e., click-through, engagement, etc.)
+* Demonstrated progressive hands-on experience with Gainsight Journey Orchestrator or relevant digital marketing platform 
+- Demonstrated progressive digital or content marketing experience and understanding of relevant metrics and KPIs (i.e., click-through, engagement, etc.)
  
 ## Performance Indicators
  
