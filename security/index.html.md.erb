@@ -161,18 +161,16 @@ If you have a question or concern and need to speak with the Security Team, you 
 1. Set up a screen saver with **password lock** on your laptop with a timeout of 5 minutes or less. GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 1. Never leave your unlocked computer **unattended**. Activate the screensaver,
   lock the desktop, or close the lid.
-1. When backing up data the preference is to use GitLab's Google Drive since this is regularly tested and we know it is encrypted.
-   1. For backups on macOS (when Google Drive backups are not possible or sufficient) follow this tutorial: [How to use Time Machine](https://support.apple.com/en-us/HT201250)
-      1. If you backup your computer make sure the backup drive is encrypted with a strong password.
+1. When backing up data team members should use GitLab's Google Drive. Our deployment is regularly tested and data at rest is encrypted by default. For alternative options, please reach out to IT.
+
 1. [Purchase](/handbook/spending-company-money) (if necessary) and install
   security related software.
   1. Little Snitch is an excellent personal firewall solution for macOS. Recommended to monitor application network communications.
-  1. An anti-virus/antimalware program such as Malwarebytes, ESET, or Norton.
   1. Refer to [Why We Don't Have A Corporate VPN](#why-we-dont-have-a-corporate-vpn) for
      more information about personal VPN usage at GitLab
 1. Do not allow your web browser (e.g. Chrome, Safari, Firefox) to store passwords when
   prompted. This presents an unnecessary risk and is redundant.
-1. Do not install software with many known security vulnerabilities. Follow the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) for review of services individually deployed on endpoint devices. After a decision regarding deployment of an endpoint management solution is made the process will be redesigned accordingly and services, where applicable, will be retroactively reviewed. Please ensure you continue to follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
+1. We encourage team members to not use or install software unless a security review has been completed. Follow the [Third Party Risk Management Procedure](/handbook/engineering/security/security-assurance/risk-field-security/third-party-risk-management.html) to request a review of new services. Please ensure you follow the requirements defined in the [acceptable use policy](/handbook/people-group/acceptable-use-policy/).
 1. Enable automatic software updates for security patches. On macOS, this is
   found under "System Preferences" -> "Software Update", "Automatically keep
   my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
@@ -198,7 +196,7 @@ Refer to this [guide](network-isolation/index.html) for setting up a dedicated W
 
 Many services that team members use such as Slack and Zoom have mobile applications that can be loaded onto iOS or Android devices, allowing for use of those resources from a mobile phone. Refer to the [acceptable use policy](/handbook/people-group/acceptable-use-policy/#personal-mobile-phone-and-tablet-usage) for more information on using a mobile device.
 
-Most major applications (Slack, Zoom, Okta Verify) have been examined and vetted by the Security Team, but there are some applications such as BambooHR's mobile app which are not only of limited scope in the data they can access, but also have security issues. In such cases, use the mobile device's web browser for access to the resource. If you have a question about the security of a mobile app and want to know if you should be using it to access GitLab data, contact the Security Team via Slack in the #security channel.
+Most major applications (Slack, Zoom, Okta Verify) have been examined and vetted by the Security Team, but there are some applications such as BambooHR's mobile app which are not only of limited scope in the data they can access, but also have security issues. In such cases, use the mobile device's web browser for access to the resource. If you have a question about the security of a mobile app and want to know if you should be using it to access GitLab data, contact the Security Team via Slack in the #security-department channel.
 
 ### Google Cloud Resources
 
