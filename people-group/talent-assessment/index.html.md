@@ -175,7 +175,7 @@ Below under each pillar there are a few questions that managers should consider 
 
 1. Does the team member demonstrate interest in other areas outside of the immediate scope of their role?
 1. Does the team member invest time in learning new skills that will help them grow (laterally or vertically)?
-1. Has the team member volunteered for any "stretch" projects or initiatves? 
+1. Has the team member volunteered for any "stretch" projects or initiatives? 
 1. Does the team member coach, mentor, and/or influence others? 
 
 #### Consistency
