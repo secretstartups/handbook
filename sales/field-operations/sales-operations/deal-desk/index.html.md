@@ -76,20 +76,7 @@ A Deal Desk team member will respond to your chatter request with an estimate on
 
 #### Deal Desk - A Global Presence
 
-The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member, as outlined below. 
-
-**EMEA**
-*  Marcsi Szucs - Budapest, Hungary
-*  Donatela Cekada - Dublin, Ireland
-
- **AMER**
-*  Jesse Rabbits - New York, NY 
-*  Ashley Potter - New York, NY 
-*  Cal Baker - Seattle, WA
-*  Prathyusha Lakshmipuram - San Francisco, CA 
-
-**APAC**
-*  Kriti D'Souza - Pune, India
+The Deal Desk team is located around the world and will be available during standard business hours within most regions - typically 9:00am - 6:00pm for the local time of the team member.
 
 #### Salesforce Chatter Communication
 
@@ -179,7 +166,7 @@ C.  Provide Quote, Account, and Subscription Term Details and click “Next.”
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form                 | Most quotes, including alliance marketplace transactions, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
 | Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals. Otherwise Identical to the Standard Order Form Template       |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
@@ -244,7 +231,7 @@ Amendments to subscriptions must be processed entirely before any changes can be
 
 |Template                             | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form                 | Most quotes, including alliance marketplace transactions, or Customers with an Existing Agreement (MSA) in place |
 | Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
@@ -311,7 +298,7 @@ Note: "Renew Subscription" quotes should be used even if the customer is renewin
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form                 | Most quotes, including alliance marketplace transactions, or Customers with an Existing Agreement (MSA) in place |
 | Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
@@ -360,7 +347,7 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form                 | Most quotes, including alliance marketplace transactions, or Customers with an Existing Agreement (MSA) in place |
 | Standard Order Form (Hide Discount) | Hide the Discount Column for Direct Deals                                                                |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
@@ -489,7 +476,7 @@ To learn more about the SuperSonics Billing and Subscription Management experien
 ##### Before submitting a Scoped/Custom Professional Services Opportunity for Closure:
 
 *   Please note that the following items must be attached to the opportunity before it can be Closed Won:
-    *   SOW signed by **both the customer and Dale Brown or Brian Robins.****
+    *   SOW signed by **both the customer and GitLab's PAO or CFO.****
     *   Cost Estimate spreadsheet (Link provided by the PS team)
     *   For opportunities with both - standard professional services skus AND a custom service package - then both a fully executed SOW and Cost Estimate is required 
 
@@ -688,20 +675,7 @@ The following fields are maintained by Deal Desk to distinguish standard vs. non
 
 #### Opportunity Category
 
-*  Standard (Default Value)
-   *  _Definition: A straightforward sale with no custom deal elements._
-*  Ramp
-   *  _Definition: A single deal with multiple individual ramp periods._
-*  Contract Reset
-   *  _Definition: A new subscription that replaces an existing subscription, where the existing subscription is canceled prior to its end date._
-*  Credit
-   *  _Definition: A cancellation related to a contract reset._
-*  Decommission
-   *  _Definition: A deal that is being debooked in full or in part, where all related commission/billing/revenue is being removed._
-*  Decommissioned
-   *  _Definition: A deal that has been removed from record, and is no longer active due to a subsequent decommission opportunity._
-*  Internal Correction
-   *  _Definition: An internal correction to a previously booked opportunity, where commission/billing/revenue figures are not altered._
+Opportunity Category Definitions are viewable [here](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#heading=h.te2fab3byieu).
 
 #### Opportunity to Decommission
 
