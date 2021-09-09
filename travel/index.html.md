@@ -227,7 +227,7 @@ For additional security specifically when travelling through an airport, the fol
 
 ## Travel Guidance: COVID-19
 
-Our top priority is the health and safety of our team members. 
+Our top priority is the health and safety of our team members. The policy below applies to any travel that requires hotel and/or flight.  
 
 ### Covid-19 Travel Working Group
 The COVID-19 Travel Working Group is comprised of the Covid Response Committee that was formed in 2020. Members are: Chief People Officer, Chief Legal Officer, Chief Marketing Officer and Chief Revenue Officer with additional support by the Staff EBA and Principal Internal Communications Manager. This group meets once monthly for 25min to review the current travel guidance around COVID-19. The meeting generally occurs on the second Thursday of every month which began on 2021-03-11
