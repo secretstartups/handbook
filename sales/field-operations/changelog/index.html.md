@@ -26,13 +26,13 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **CSOPS [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/)**
 
-**Customer Programs [Updated digital onboarding program and TAM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)
+**Customer Programs [Updated digital onboarding program and TAM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)**
 
-**Customer Programs [Launched Customer Newsletter program highlighting 14.2 release](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)
+**Customer Programs [Launched Customer Newsletter program highlighting 14.2 release](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)**
 
-**Customer Programs [Synced Program emails to C360 section in Gainsight](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/398)
+**Customer Programs [Synced Program emails to C360 section in Gainsight](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/398)**
 
-**Customer Programs [Launched Customer Webinar Invite - Advanced CI/CD with largest attendance to date](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/296) 
+**Customer Programs [Launched Customer Webinar Invite - Advanced CI/CD with largest attendance to date](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/296)**
 
 **Item 4 (title only)** (issue link)
 
