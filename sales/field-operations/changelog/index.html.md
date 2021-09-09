@@ -34,7 +34,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Customer Programs [Launched Customer Webinar Invite - Advanced CI/CD with largest attendance to date](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/296)**
 
-**Item 4 (title only)** (issue link)
+**Account Standardiztion for Merging Accounts in SFDC** (https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/452)
 
 **Item 4 (title only)** (issue link)
 
