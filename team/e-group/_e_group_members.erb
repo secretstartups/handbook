@@ -1,0 +1,48 @@
+<div class="row board-members">
+
+<% Gitlab::Homepage::team.members.select { | member | member.departments.include? 'Executive' }.each do | member | %>
+
+<div class="col-lg-4" style="text-align: center;position: relative;max-width: 400px;margin: 0 auto 45px;height:210px;">
+<div class="card">
+<div class="front">
+<% photo = image_tag member.avatar_url, style: 'border-radius:50%;', alt: member.name, width: 120, height: 120, loading: 'lazy' %>
+<%= link_to photo, "/company/team/##{member.anchor}" %>
+<a href="/company/team/#<%= member.anchor %>" style="display:block;font-weight: 600;color: #333;font-size: 18px;margin-bottom: 6px;text-decoration:none;">
+<%= member.name %>
+</a>
+<%= member.role %>
+<% if member.locality || member.country %>
+<% location = [member.locality, member.country].compact.join(", ") %>
+<h5 style="font-size: 14px;font-weight: 400;color: #828282;margin: 0;">
+<%= "<a href=\"https://maps.google.com?q=#{location}\" style=\"color: #828282;text-decoration:none;\">" %>
+<%= location %>
+<%= member.country_info&.emoji_flag %>
+</a>
+</h5>
+<% end %>
+<div class="social">
+<% if member.linkedin %>
+<a href="https://www.linkedin.com/in/<%= member.linkedin %>" style="padding:4px;text-decoration:none;">
+<span class="sr-only">
+LinkedIn
+</span>
+<i class="fab fa-linkedin"></i>
+</a>
+<% end %>
+<% if member.twitter %>
+<a href="https://twitter.com/<%= member.twitter %>" style="padding:4px;text-decoration:none;">
+<span class="sr-only">
+Twitter
+</span>
+<i class="fab fa-twitter"></i>
+</a>
+<% end %>
+</div>
+</div>
+</div>
+</div>
+
+<% end %>
+
+<div style="clear:both;">
+</div>
