@@ -153,6 +153,7 @@ Check on duplicate ids due to 2 different extractors:
     select id, count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION"
     group by id
     having count(*) > 1
+**Note** Refer the [MR](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
