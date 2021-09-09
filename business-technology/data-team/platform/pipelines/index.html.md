@@ -45,6 +45,7 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 
 
 ### Incremental and full loads
+
 1. Incremental extract 
 - This is the most convenient methodology, a minimal amount of records is transferred. Prerequisite is that there is a delta column available on the source table level
 - +/- 120 tables are incrementally extracted
@@ -59,6 +60,7 @@ We need to reach out to `@sre-oncall` on slack incase we see any issue with our 
 The extraction methodology is determined via the manifest file. 
 
 ### Manual Backfill of table from Postgres To Snowflake
+
 This section is used only when we need to do a backfill for a table that has below condition satisfied of gitlab Postgres database. 
 - Airflow task for the table has been completed to the latest date. 
 - The data in the table is missing for a date or date range for which catch-up has already been completed. 
@@ -134,6 +136,43 @@ On this data pipeline, 3 types of Trusted Data Framework tests are executed:
 
  **Source freshness** is checked via the dbt functionality.
 <br> **Row count** and **Data actual** are performed via an extra `DAG`, named `gitlab_com_data_reconciliation_extract_load` in Airflow and the results are stored in snowflake table named `RAW.TAP_POSTGRES.GITLAB_PGP_EXPORT`
+
+## Service ping
+
+Service Ping is a method for GitLab Inc to collect usage data about a given GitLab instance.
+More information about `Service ping` (formerly known as `Usage ping`) from a Product perspective, should be found **[here](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)**. Comprehensive guide with rich documentation is exposed in [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/).
+
+Service ping has two major varieties:
+- Self-Managed Service Ping
+- SaaS Service Ping
+
+### Self-Managed Service Ping
+
+Self-Managed Service Ping is loaded into the Data Warehouse from the Versions app and is stored in the `VERSION_DB` databases.
+
+### SaaS Service Ping
+
+SaaS Service Ping is loaded into Data Warehouse in two ways:
+* using `SQL` statements from Gitlab `Postgres Database` Replica and
+* RestFUL API call from `Redis` 
+
+Implementation details from Data team is shown under [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md#user-content-technical-implementation) file.
+
+<img src="saas_service_ping_workflow.png" alt="drawing" width="800"/>
+
+#### Loading instance SQL metrics
+
+Data is loaded from `Postgres Sql` replica: The queries are version controlled in the very large JSON (couple of hundreds queries in the file) files present within this extract.  The queries are split out into two categories: instance queries and namespace queries. The instance queries generate data about `GitLab.com` as a whole, while the namespace queries generate data about each namespace on `GitLab.com`.
+Data is stored in the tables (in the `RAW` schema):
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_METRICS"`
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_SQL_ERROR"` - this table contains SQL command where error pops-up during data processing for SQL metrics.
+* `"RAW"."SAAS_USAGE_PING"."GITLAB_DOTCOM_NAMESPACE"`
+
+#### Loading instance Redis metrics
+
+Data is downloaded via API, refer to API specification: [UsageDataNonSqlMetrics API](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api). Stored in a `JSON` format, approximately size is around 2k lines. Usually, it is one file per load _(at the moment, it is a weekly load)_. The main purpose of loading data from Redis is to ensure fine granulation of metrics can't be fetched using SQL queries.
+Data is stored in the table (in the `RAW` schema): 
+* `"RAW"."SAAS_USAGE_PING"."INSTANCE_REDIS_METRICS"`
 
 ## SheetLoad
 
