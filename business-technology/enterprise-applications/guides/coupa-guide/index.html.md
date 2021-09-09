@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Coupa Procure-to-Pay, Coupa Pay and Supplier Information Management"
-description: "Coupa Procure-to-Pay, Coupa Pay and Supplier Information Management guide"
+title: "Coupa End Users Guide"
+description: "Coupa End Users Guide"
 ---
 
 {::options parse_block_html="true" /}
@@ -61,7 +61,7 @@ Due to the limited number of licenses available for Coupa, it is recommended tha
 </div>
 </div>
 
-## How to use Coupa
+## How to Use Coupa for Purchasing
 
 ### Home Page Overview
 
@@ -484,6 +484,13 @@ To complete the Professional Services Request form:
 ![coupa-image-22](/handbook/business-technology/enterprise-applications/guides/coupa-guide/coupa22.png)
 
 The user can now proceed with the [creation of the purchase request](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) by adding the remaining details to the line item.
+
+## How to Use Coupa for Invoicing and Payments
+
+For further instructions on the invoicing and payment modules in Coupa, please visit the following links:
+- [Invoicing in Coupa](https://about.gitlab.com/handbook/finance/accounting/#invoicing-in-coupa).
+- [Payments in Coupa](https://about.gitlab.com/handbook/finance/accounting/#processing-payment-for-invoices-in-coupa).
+
 
 ## Coupa Training Videos
 
