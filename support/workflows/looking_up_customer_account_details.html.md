@@ -131,9 +131,21 @@ domain. Therefore, search by e-mail is more reliable.
 ## Within license.gitlab.com
 
 All self-managed licenses including trial ones should be available in [LicenseDot](http://license.gitlab.com) portal.
-You should be able to access it with your dev.gitlab.org account. If a customer provides you with their license ID,
-you can verify it in the portal by appending the ID to the link https://license.gitlab.com/licenses/, so the final link
-to the license will look like https://license.gitlab.com/licenses/LICENSE_ID
+You should be able to access it with your dev.gitlab.org account.
+
+## When the license ID is provided
+
+If a customer provides you with their license ID, you may need to check for it
+both in [CustomersDot](https://customers.gitlab.com/admin) and [LicenseDot](http://license.gitlab.com).
+
+You can do so by appending the ID to the following URLs:
+
+- https://customers.gitlab.com/admin/license/
+
+  *e.g.* `https://customers.gitlab.com/admin/license/<LICENSE_ID>`
+- https://license.gitlab.com/licenses/
+
+  *e.g.* `https://license.gitlab.com/licenses/<LICENSE_ID>`
 
 ### When full license file is provided
 
