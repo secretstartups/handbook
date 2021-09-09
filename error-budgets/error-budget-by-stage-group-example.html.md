@@ -38,7 +38,7 @@ Finally, the SLI is the indicator we use to determine if will meet our objective
 
 The SLA is the percentage of time that SLIs met their SLO.   
 
-### Storing the data to use in calculations
+## Storing the data to use in calculations
 
 In this section, we talk about Apdex for Web and API endpoints. 
 
@@ -66,7 +66,7 @@ We also store if the request was faster or slower than the request duration thre
 use the same duration threshold, but in a future iteration each endpoint will be able to specify it's own threshold to use in this
 calculation.   
 
-### Metric information 
+## Metric information 
 
 We store metrics in Prometheus as counters.
 
@@ -86,7 +86,7 @@ Counters are separated using the following labels:
 - feature_category: The feature this request was for, this is used to later map this to a group based on the info in `stages.yml` (when imported).
 - type: The service this request was for (for example 'api', 'web', or 'git', in case of the puma component).
 
-### Performing the calculations
+## Performing the calculations
 
 When a person visits the stage group dashboards to see their Error Budget, we perform a calculation using the metrics
 we hold about how requests have been performing.
