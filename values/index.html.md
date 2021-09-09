@@ -894,7 +894,12 @@ We are positive about the future of the company. We are **S**hort **Te**rm **C**
 {:.no_toc}
 First, optimize for speed and results (and be deliberate about how your change affects other processes/functionality); when it is a success, figure out how to scale it. Great examples are in [this article by Paul Graham](http://paulgraham.com/ds.html).
 
+**Resist bundling**
+
+Resist the urge to bundle a series of smaller iterations so team members don't see a project as their last (or best) opportunity to contribute. It's tempting to [create encompassing projects or initiatives](https://news.ycombinator.com/item?id=28463789) that roll many smaller projects up. This incarnation of scope creep drives up cost, encourages fewer risks, and incentivizes perfection (via longer cycle times) over progress. 
+
 ##### Make two-way door decisions
+
 {:.no_toc}
 Most decisions are easy to reverse. In these cases, the [directly responsible individual](/handbook/people-group/directly-responsible-individuals/) should go ahead and make them without approval. As [Jeff Bezos describes](http://minimumviablestrategy.com/lessons/leadership/one-way-and-two-way-door-decisions/) only when you can't reverse them should there be a more thorough discussion.
 
@@ -944,7 +949,7 @@ You can view these on our [GitLab Unfiltered YouTube channel](https://www.youtub
 #### Examples of iteration in other companies
 {:.no_toc}
 
-Iteration is a key vlaue in many disruptive and successful organizations. Below are some examples:
+Iteration is a key value in many disruptive and successful organizations. Below are some examples:
 
 * [SpaceX](iteration-examples/spacex.html)
 
