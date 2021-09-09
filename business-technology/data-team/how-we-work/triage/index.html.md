@@ -114,16 +114,45 @@ Currently Zuora Stitch integration donot provide [table level reset](https://www
 In order to this below steps can be followed using which we have successfully done the table level reset. 
 In this example we have used Zuora `subscription` table. 
 
-Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
+#### Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
 
-    alter table "RAW"."ZUORA_STITCH"."SUBSCRIPTION" rename to "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
-Step 2:- 
-    ![Create  a new integration Zuora-Subscription in Stitch (with only the subscription table to replicate).](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
+    ALTER TABLE "RAW"."ZUORA_STITCH"."SUBSCRIPTION" RENAME TO "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
+
+#### Step 2:- Create  a new integration Zuora-Subscription in Stitch.
+While setting it up setup the extraction frequencey to 30 minutes and date from extraction to 1st Jan 2012 to ensure all data gets pulled through.
+
+    ![With only the subscription table to replicate](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
     
-and paused the regular integration.
+#### Step 3:- Pause the regular integration.
+    ![Pause Regular integration](/images/Stitch_table_reset/Stitch_2.png "Stitch_int_2")
 
-Step3:- 
+#### Step 4:- Run the newly created integration.
+Try running the newly created integration manualy and wait for it to complete.Once completed then and it shows in the home page successfull.Once done Pause the newly integration task because we don't want any misalinged data while we follow the next steps.
 
+#### Step 5:- Check for the records.
+In the newly created table `"RAW"."ZUORA_STITCH"."SUBSCRIPTION"` cross check the number of rows showing as loaded in the intgeration UI in stitch and loaded in table is same.
+
+#### Step 6:- Create the table in the main schema.
+Move the freshly loaded data to `ZUORA_STITCH` schema  because the new integration will create the table in the `ZUORASUBSCRIPTION` as stated above in the image. 
+    
+    CREATE TABLE "RAW"."ZUORA_STITCH"."SUBSCRIPTION" CLONE  "RAW"."ZUORASUBSCRIPTION"."SUBSCRIPTION";
+**Note:** Check for the primary key present in the table post  clone or not if not check for the primary key in the [link](https://www.stitchdata.com/docs/integrations/saas/zuora#subscription) and add the contraint on those columns. 
+
+#### Step 7:- Make records count check to ensure we don't have less records in the new table. 
+    select count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903" where deleted = 'FALSE';
+    select count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION" ;
+
+#### Step 8:- Drop the new schema 
+    DROP SCHEMA "RAW"."ZUORASUBSCRIPTION"  CASCADE ;
+
+### Step 9:- Delete temp Zuora-Subscription integration and enable regular integration
+### Step 10:- Run regular integration and validate
+This is to ensure that error observed previously to the table is gone and data is getting populated in the table.
+Check on duplicate ids due to 2 different extractors:
+
+    select id, count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION"
+    group by id
+    having count(*) > 1
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>
