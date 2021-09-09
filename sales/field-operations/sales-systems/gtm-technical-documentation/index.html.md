@@ -365,7 +365,29 @@ Please see our internal [document](https://docs.google.com/document/d/1UaKPTQePA
  
 **Business Process this supports:** [Decommission Opportunity Process](/handbook/sales/field-operations/sales-operations/deal-desk/#creating-decomission-opportunties)
  
-**Overview:**  For this process to function properly there is a button that has been added to the Opportunity layout. This button should only be visible to users who should be working on our bookings (Deal Desk, Finance Users, etc.). This button, when clicked, updated a checkbox on that opportunity to mark it as a refunded opportunity. This checkbox causes the trigger class to run and create a full clone of the existing opportunity. This class also updates a number of fields to null or the override fields are used to negate our bookings numbers. Additionally if the owner of the original opportunity is no longer active the Opportunity owner is updated to that users Manager. If that manager is also no longer active than the opportunity is assigned to the user who triggered the process. Because this process uses a checkbox field it is also possible to mass trigger refunds through a data load or similar mass update.
+**Overview:**  For this process to function properly there is a button that has been added to the Opportunity layout. This button should only be visible to users who should be working on our bookings (Deal Desk, Finance Users, etc.). This button, when clicked, updated a checkbox on that opportunity to mark it as a refunded opportunity. If the button is clicked for an already refunded Opportunity, the user will be presented with an error informing them that the refund has already been completed.
+
+Selecting this checkbox on an Opportunity causes the Opportuntiy trigger to execute a method which will create a full clone of the existing opportunity.  Additionally, if the owner of the original opportunity is no longer active, the refund opportunity owner is updated to that user's Manager. If that manager is also no longer active, then the refund opportunity is assigned to the user who triggered the process. 
+
+The action does change several values on the Opportunity, mostly to update a number of fields to null or override fields are used to negate our bookings numbers. Specific changes include:
+
+The values in the following fields will be carried over and flipped to negative on the refund opportunity (i.e. grab the value from the originating opportunity, and stamp the inverse on the refund opportunity created via button):
+
+- Recurring Amount
+- True Up Amount
+- ProServ Amount
+- Other Non-Recurring Amount
+
+The values in the following fields will be carried over as is from the originating opportunity:
+
+- DR - Partner
+- Resale Partner
+- DR - Partner Deal Type
+- DR - Channel Manager
+- Distributor
+- Resale Channel Manager
+
+Note: Because this process uses a checkbox field, it is also possible to trigger refunds through a data load or similar mass update.
  
 **Logic Locations:**
   * [OpportunityClass.cls](https://gitlab.com/gitlab-com/sales-team/field-operations/salesforce-src/-/blob/master/force-app/main/default/classes/OpportunityClass.cls)
