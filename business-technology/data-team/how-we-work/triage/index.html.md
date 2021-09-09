@@ -117,7 +117,10 @@ In this example we have used Zuora `subscription` table.
 Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
 
     alter table "RAW"."ZUORA_STITCH"."SUBSCRIPTION" rename to "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
-Step 2:- Create  a new integration Zuora-Subscription in Stitch (with only the subscription table to replicate) and paused the regular integration.
+Step 2:- 
+    ![Create  a new integration Zuora-Subscription in Stitch (with only the subscription table to replicate).](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
+    
+and paused the regular integration.
 
 Step3:- 
 
