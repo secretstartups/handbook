@@ -193,8 +193,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-09-27 | 2021-10-01 | AVAILABLE - REMOTE | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
 | 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
 | 2021-10-11 | 2021-10-15 | UNAVAILABLE | UNAVAILABLE |
-| 2021-10-18 | 2021-10-22 | Omar Fernández - Director, Strategy and Operations | AVAILABLE - REMOTE |
-| 2021-10-25 | 2021-10-29 | AVAILABLE - REMOTE | Omar Fernández - Director, Strategy and Operations |
+| 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | AVAILABLE - REMOTE |
+| 2021-10-25 | 2021-10-29 | AVAILABLE - REMOTE | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations |
 | 2021-11-01 | 2021-11-05 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-08 | 2021-11-12 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-11-15 | 2021-11-19 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
