@@ -169,9 +169,9 @@ There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined
 | Tab Title | Purpose |
 | ----- | ----- |
 | Overview | High level metrics of all direct reports |
-| Learnign Plan | View in-progress learning for each direct report |
-| Assignments | View assignment progression and send reminders for each direct report |
-| Learning History | View completed assigned content for each direcr report |
+| Learning Plan | View in-progress learning for each direct report |
+| Assignments | View assignment progression and send reminders for each direct report (For both self-assigned and manager assigned content)|
+| Learning History | View all content completed by each direct report |
 
 Managers can see the following metrics on their dashboard for their direct reports. For team members, this Manager/Direct Report relationship is set automatically via our integration with BambhooHR.
 
