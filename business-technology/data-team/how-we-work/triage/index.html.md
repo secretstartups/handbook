@@ -117,20 +117,14 @@ In this example, we have used Zuora `subscription` table, but this could be appl
 #### Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
 
     ALTER TABLE "RAW"."ZUORA_STITCH"."SUBSCRIPTION" RENAME TO "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
-
-#### Step 2:- Create a new integration Zuora-Subscription in Stitch.
-While setting it up setup the extraction frequency to 30 minutes and date from extraction to 1st Jan 2012 to ensure all data gets pulled through.
-
-    ![With only the subscription table to replicate](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
     
-#### Step 3:- Pause the regular integration.
 #### Step 2:- Pause the regular integration.
-    ![Pause Regular integration](/images/Stitch_table_reset/Stitch_2.png "Stitch_int_2")
+![Pause Regular integration](/images/Stitch_table_reset/Stitch_2.png "Stitch_int_2")
 
 #### Step 3:- Create a new integration Zuora-Subscription in Stitch.
 While setting it up setup the extraction frequency to 30 minutes and date from extraction to 1st Jan 2012 to ensure all data gets pulled through.
 
-    ![With only the subscription table to replicate](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
+![With only the subscription table to replicate](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
 
 #### Step 4:- Run the newly created integration..
 Try running the newly created integration manually and wait for it to complete. Once completed then and it shows on the home page successfully. Once done Pause the newly integration task because we don't want any misaligned data while we follow the next steps.
