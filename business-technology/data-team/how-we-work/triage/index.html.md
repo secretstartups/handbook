@@ -108,8 +108,9 @@ In a scenario when gitlab cloned Postgres database is not accessible then follow
 5. If the DAG has missed the scheduled run, trigger the DAG manually to do the catch-up.
 
 ## Zuora Stitch Integration single or set of table-level reset
-It could happen, in any case, to [reset the table] (https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference) in Stitch for the Zuora data pipeline, in order to backfill a table completely (i.e. new columns added to in the source, technical error etc).
-Currently, Zuora Stitch integration does not provide [table level reset](https://www.stitchdata.com/docs/integrations/saas/zuora#zuora-feature-snapshot).
+It could happen, in any case, to [reset the table](https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference) in Stitch for the Zuora data pipeline, in order to backfill a table completely (i.e. new columns added to in the source, technical error etc).
+Currently, Zuora Stitch integration does not provide [table level reset](https://www.stitchdata.com/docs/integrations/saas/zuora#zuora-feature-snapshot), and thus we have to perform a reset of all the tables in the integration. This will result in extra costs and risks.
+
 To this below steps can be followed using which we have successfully done the table level reset. 
 In this example, we have used Zuora `subscription` table, but this could be applied to any other table in the Stitch Zuora data pipeline.
 
