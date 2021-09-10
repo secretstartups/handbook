@@ -136,6 +136,7 @@ To gain access to SAFE Dashboards:
 
 ## Metrics and Terms Index
 
+* [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary)
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
 * ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
 * CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)
