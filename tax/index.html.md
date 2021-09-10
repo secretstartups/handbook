@@ -98,7 +98,7 @@ What are the prerequisites for a decision to establish a NewCo in a country wher
 
 **Local presence** is a result of organic and exponential growth of the [GitLab team](/company/team/). At a given point in time the workforce in a country has grown to a substantial level where the demand for an entity is getting too large to ignore.
 
-**Sales revenue** from certain [territories](/handbook/business-ops/#territories) where GitLab is active, can also lead to a demand from the business to establish an entity. A clear reason from tax risk management is to prevent that GitLab runs a permanent establishment risk in any of the territories.
+**Sales revenue** from certain [territories](/handbook/business-ops/) where GitLab is active, can also lead to a demand from the business to establish an entity. A clear reason from tax risk management is to prevent that GitLab runs a permanent establishment risk in any of the territories.
 
 To monitor developments and keeping stakeholders informed, weekly cross-functional meetings are held with Legal, Payroll, People Ops and Tax. FP&A is included about planned hiring for new markets.
 
