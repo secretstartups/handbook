@@ -36,6 +36,17 @@ Federal tickets can be linked publicly, such as in an issue or merge request as 
 
 When pairing over video chat, be sure you only pair with engineers that have access to the US Federal instance and avoid screensharing content from the US Federal Support Instance, logs, or other information that is required to be kept confidential.
 
+### How to reference customer information securely in chat?
+
+You may leverage links to records in controlled access systems such as Salesforce or Zendesk in order to securely provide information. 
+
+Examples: 
+- "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
+- "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF?srPos=1&srKp=003"
+
+The use of an acronym to discuss an organization is **not permitted** in either #support_us-federal-chat or #feed_zd-federal channels to prevent disclosure of sensitive information.
+
+
 ## Getting help with a ticket
 
 Getting help with a US Federal ticket can be tricky since some information must be kept confidential. However, there are many times when a non-US Federal engineer may be the subject matter expert needed to help efficiently resolve a US Federal Support case. It is encouraged to ask questions in `#support_self-managed` and other non-private slack channels provided the [Communication Guidelines](#communication-guidelines) are followed. You may also consider cross-posting the request for help back to the private `#support_us-federal-chat` channel to maximize the pool of engineers who may be able to assist. It should be kept in mind that although the `#support_us-federal-chat` slack channel is a private channel the communication guidelines still apply as workspace admins and other users invited to the channel may not have been vetted for US Citizenship.
