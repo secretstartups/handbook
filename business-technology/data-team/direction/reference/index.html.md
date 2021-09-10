@@ -56,7 +56,7 @@ The Self-Service Data Certificate program is based on the [Learning and Developm
 
 ### Key Terms
 
-- Territory - data can be visualized using [GitLab Sales Territories](/handbook/sales/territories/#territories): AMER, APAC, EMEA
+- Territory - data can be visualized using [GitLab Sales Territories](/handbook/sales/territories/): AMER, APAC, EMEA
 - Country - data can be visualized by [ISO Country](https://www.iso.org/iso-3166-country-codes.html)
 - IP-to-Geolocation Mapping - mapping an [IP address to its geographic location](https://en.wikipedia.org/wiki/Geolocation) on a map
 

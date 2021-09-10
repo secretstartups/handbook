@@ -77,7 +77,7 @@ Much of the data within and supporting the Customer Segmentation Dashboard is [O
 1. [Product Category, Product Tier, Delivery](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview)
 1. [Sales Segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
 1. [Account Owner Team](https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment)
-1. [Territory](https://about.gitlab.com/handbook/sales/territories/#territories)
+1. [Territory](https://about.gitlab.com/handbook/sales/territories/)
 1. [Customer](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer)
 1. Industry
 
