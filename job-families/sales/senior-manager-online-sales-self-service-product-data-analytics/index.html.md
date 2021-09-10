@@ -1,11 +1,51 @@
 ---
 layout: job_family_page
-title: Senior Manager, Online Sales & Self Service Product & Data Analytics
+title: Online Sales & Self Service Product & Data Analytics
 ---
 
+The Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.
+
+## Senior Analyst, Online Sales & Self Service Data
+The Senior Data Analyst role is responsible for creating and scaling our use of data for GtiLab’s self-service business. This is a dynamic role focusing on product analytics, target setting, performance tracking and ad hoc strategic products. 
+
+The Senior Analyst, Online Sales & Self Service Data reports to the Senior Manager, Online Sales & Self Service Product & Data Analytics.
+
+### Job Grade
+The Senior Analyst, Online Sales & Self Service Growth is a [grade 7](https://about.gitlab.com/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+* Inspire and empower our self-service team  to leverage data to drive action, measure and prove success
+* Continuously find ways to improve our signup flow and self-service buying experience
+* Ownership in scoping, sizing and delivering multiple requests balancing prioritization, efficiency and quality
+* Comfortable working with large data sets via query languages and BI tools for dashboards and reporting
+* Quantity business value by self-service product feature to inform prioritization
+* Develop strategies and drive team focus based on data insights and findings
+* Design and build insightful dashboards for the self-service team and our stakeholders
+* Monitor metric & business performance
+* Be proactive and identify trends or flag potential issues
+* Establish KPIs and targets for measuring the impact of the self-service initiatives
+
+### Requirements
+* Ability to use GitLab
+* BS/BA degree in business engineering, economics, or related degree OR equivalent combination of education, training, and experience
+* Demonstrated progressive of experience in data analytics
+* Excellent written and verbal communication skills
+* Comfortable presenting data and providing recommendations with confidence to senior level stakeholders, even when there is ambiguity involved
+* A knack for identifying and investigating anomalies in data and operations
+* Familiarity with product analytics and tools (e.g. Amplitude)
+* Familiarity with sales & marketing funnel reporting and industry KPIs, such as website sessions, MQLs, pipeline, and bookings
+* Familiarity with BI tools (e.g. Explore, Tableau) and Excel / Google Sheet functions
+* Experience with SQL,  data warehouses and/or scripting languages (e.g. Python, BigQuery, MySQL)
+* Experience analyzing CRM data (e.g. Salesforce) and web tracking (e.g. Google Analytics)
+
+### Performance Indicators
+* [nARR vs. plan](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1 through development of self-service targets
+* [nARR efficiency](https://about.gitlab.com/handbook/sales/performance-indicators/#iacv-vs-plan) > 1.0 through development of self-service targets
+* Increased adoption of self-service solutions (buying & account management) driving increased customer satisfaction and Rep productivity leveraging product data insights and recommendations
+
+## Senior Manager, Online Sales & Self Service Product & Data Analytics
 The Senior Manager, Online Sales & Self Service Product & Data Analytics job family is responsible for all Product & Data Analytics solutions driving the growth and maturity of Self Service at GitLab.
 
-## Role
 The Senior Manager, Online Sales & Self Service Product & Data Analytics reports to the [VP Online Sales and Self Service](https://about.gitlab.com/job-families/sales/vice-president-online-sales-and-self-service/).
 
 ### Job Grade
@@ -47,10 +87,10 @@ The Senior Manager, Online Sales & Self Service Product & Data Analytics is a [g
 * Churn and Contraction / ATR (target: Quarterly target set by Sales & Finance)
 * ARPU (target: 1.5% increase per month)
 
-### Career Ladder
-The next step for the Senior Manager, Online Sales & Self Service Product & Data Analytics Job Family is to move to the Director, Online Sales & Self Service Job Family. 
+## Career Ladder
+The next step for the Online Sales & Self Service Product & Data Analytics Job Family is to move to the [Director, Online Sales & Self Service Job Family](https://about.gitlab.com/job-families/sales/Director-online-sales-and-self-service-growth/). 
 
-### Hiring Process
+## Hiring Process
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 
