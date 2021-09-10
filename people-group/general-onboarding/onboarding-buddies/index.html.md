@@ -23,7 +23,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
     - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
     - [The tools page](/handbook/tools-and-tips)
-    - [The team chart](https://comp-calculator.gitlab.net/org_chart)
+    - [The internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
     - [The positioning FAQ](/handbook/positioning-faq)
 1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
 1. **Encourage them to organize a group call with other new hires.** New GitLab team-members who are used to (or prefer) a more conventional new hire orientation — frequently hosted in group settings in colocated organizations — [may feel a lack of early bonding](/company/culture/all-remote/learning-and-development/). Encourage them to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
