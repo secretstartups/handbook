@@ -44,7 +44,7 @@ description: This page is about working with sales.
         * Account owner says they have no time to help.
    1. If the Salesforce `Account Owner` is not a person
       1. Find the person in charge of the [sales segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
-        and [sales territory](https://about.gitlab.com/handbook/sales/territories/#territories)
+        and [sales territory](https://about.gitlab.com/handbook/sales/territories/)
         and mention them in a Chatter comment.
    1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays):
       1. Mention the person's direct manager in a Chatter comment.
