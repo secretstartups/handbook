@@ -726,7 +726,7 @@ Common lead questions:
 - Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
