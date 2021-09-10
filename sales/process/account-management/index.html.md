@@ -57,7 +57,7 @@ Do NOT invoice before feature/work is completed.
 
 * Sales adds the real number of hours spent to the sales sheet
 
-* Sales invoices customer ([credit card](/handbook/sales-process/accounting/) or bank) for the quoted number of hours
+* Sales invoices customer for the quoted number of hours
 
 * Deal is marked won
 
@@ -102,9 +102,7 @@ puts the sales team in the cc to avoid creating duplicate tickets for the Suppor
 
 ## Creating an Issue for feature requests
 
-1. Create an issue on the [public issue tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues) and mention someone (Dimitriy, Sytse, Job).
+1. Create an issue and mention someone (Dimitriy, Sytse, Job).
 1. Do not mention customer name but confirm if large, medium, or small, and include URL to Salesforce account.
 
-## Federal agency templates and certificates
 
-1. [GitLab does has a VPAT for 508 compliance](https://drive.google.com/open?id=0B01UYC-Rx46pX284T0ZyNVNXYmk1QVdDTnRUeEVCSFdHM0xZ) (INTERNAL ONLY)
