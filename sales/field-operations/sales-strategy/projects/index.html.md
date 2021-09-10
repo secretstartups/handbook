@@ -17,12 +17,12 @@ The Sales Strategy team is involved in multiple projects in the areas of Analyti
 ---
 ## Fortune Rank to SFDC
 
-https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.vkhb6a9ugrkh
+[Please see the Sales Handbook Definitions Doc](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.vkhb6a9ugrkh)
 
 
 ## Forbes 2000 to SFDC
 
-https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.hlidqemi1m03
+[Please see the Sales Handbook Definitions Doc](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.hlidqemi1m03)
 
 
 ## Potential LAM
