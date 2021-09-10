@@ -77,6 +77,10 @@ graph LR
   repo(GitLab Inc. Repo)
 ```
 
+#### Guidelines for contributing database changes
+
+For database-related changes, including schema and data migrations, please refer to [this documentation](./jihu-database-change-process.html)
+
 #### Guidelines for proprietary and upstream contributions
 
 Contributions in projects that have proprietary and upstream contributions will use the following guidelines to have a streamlined review.
