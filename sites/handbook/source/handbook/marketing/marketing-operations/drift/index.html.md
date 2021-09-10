@@ -80,7 +80,7 @@ The account lists and playbook routing rules that govern how most Drift conversa
 
 **Marking a chat as a CQL**
 *  A CQL is a Chat Qualified Lead. 
-*  On the right hand side of your conversations view, you will be able to see information about the site visitor. Right below their name, you will see the four options of CQL in the form of a lightning bolt. Please mark a lead with the red line for `unqualified lead`, one lightning bolt for `Inquiry`, and three lightning bolts for `MQL`. Refer to this [term glossary](/handbook/sales/field-operations/gtm-resources/#glossary) for a refresher on `Inquiry` and `MQL` definitions. 
+*  On the right hand side of your conversations view, you will be able to see information about the site visitor. Right below their name, you will see the four options of CQL in the form of a lightning bolt. Please mark a lead with the red line for `unqualified lead`, one lightning bolt for `Inquiry`, and three lightning bolts for `MQL`. Refer to this [term glossary](/handbook/sales/field-operations/gtm-resources/) for a refresher on `Inquiry` and `MQL` definitions. 
 
 **Sharing your calendar in chat**
 *  At the right-hand side of the conversation toolbar there is a small calendar icon. Click there and you can share your own calendar or anyone else’s calendar that is connected in Drift.
