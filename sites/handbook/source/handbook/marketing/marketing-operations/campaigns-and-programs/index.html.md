@@ -389,6 +389,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
     - Update `Large Bucket` based on [criteria above](/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets)
     - Change the `Enable Bizible Touchpoints` to `Include only "Responded" Campaign Members`
     - Confirm that start date and end date populated correctly (this is automated).
+    - Update the `Is this an in person event` dropdown, based on `in-person` vs `virtual` type
     - Update the event epic
     - Update the description (if any)
     - Update `Budgeted Cost` - If cost is $0 list `1` in the `Budgeted Cost` field. - NOTE there needs to be at least a 1 value here for ROI calculations, otherwise, when you divide the pipeline by `0` you will always get `0` as the pipe2spend calculation.
