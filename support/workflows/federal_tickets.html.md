@@ -38,14 +38,13 @@ When pairing over video chat, be sure you only pair with engineers that have acc
 
 ### How to reference customer information securely in chat?
 
-You may leverage links to records in controlled access systems such as Salesforce or Zendesk in order to securely provide information. 
+You may leverage links to records in controlled access systems such as Salesforce or Zendesk in order to securely provide information. Note that if you have Slack link expansion enabled for SFDC records you should immediately remove the expansion after making your comment.
 
 Examples: 
 - "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
 - "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF?srPos=1&srKp=003"
 
 The use of an acronym to discuss an organization is **not permitted** in either #support_us-federal-chat or #feed_zd-federal channels to prevent disclosure of sensitive information.
-
 
 ## Getting help with a ticket
 
