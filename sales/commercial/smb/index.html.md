@@ -15,7 +15,7 @@ description: >-
 ## "You should expect excellence of yourself, teammates, and managers in your role. We will be excellent if we expect it."
 {: .no_toc}
 
-Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/sales/field-operations/gtm-resources/#segmentation). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
+Small and Medium Size Business Account Executives "SMB AE" act as Account Executives and the face of GitLab for SMB prospects and customers. They are the primary point of contact for companies that employ between [1 to 99 employees](/handbook/sales/field-operations/gtm-resources/). These GitLab team members are responsible for working new business in their territory as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their GitLab evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions.
 
 ### Reaching the SMB team (internally)
 
@@ -184,13 +184,13 @@ Opportunity Consults are weekly meetings that promote continued learning. This m
 
 ### Compensation
 
-- The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/#quotas-overview) attainment. All [iACV](/handbook/sales/sales-term-glossary/arr-in-practice) goes toward the global _shared quota_ retirement.
-- The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/#gross-incremental-annual-contract-value-gross-iacv).
+- The global SMB team is measured monthly on shared [quota](/handbook/sales/commissions/) attainment. All [iACV](/handbook/sales/sales-term-glossary/arr-in-practice) goes toward the global _shared quota_ retirement.
+- The global SMB team is paid on [gross IACV](https://about.gitlab.com/handbook/sales/sales-term-glossary/arr-in-practice/).
 - Because SMB AEs operate as individual contributors toward a shared quota, [collaboration](/handbook/values/#collaboration) is key. One teammate's success is everyone's success.
 
 #### [Payment Schedule](/handbook/finance/payroll/#pay-date):
 
-- AMER: [commissions](/handbook/sales/commissions/#base-commission-rate-bcr) based on prior month attainment are paid on the 2nd payroll cycle the following month.
+- AMER: [commissions](/handbook/sales/commissions/) based on prior month attainment are paid on the 2nd payroll cycle the following month.
 - EMEA & APAC: commission payout dates are specific to the country of residency.
 - you can find your adjusted payout statement and submit inquiries via [CaptivateIQ](https://www.captivateiq.com/).
 

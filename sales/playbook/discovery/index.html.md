@@ -18,7 +18,7 @@ Effective discovery is critical to thoroughly understanding customer needs and e
 ![discovery-components-visual](/handbook/sales/playbook/discovery/discovery-components-visual.png)
 
 ## Qualification
-The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**. 
+The first phase of any discovery process is to determine whether or not you should spend time on a particular opportunity pursuit. A good guide for this phase is codified in the [Criteria for Sales Accepted Opportunity (SAO)](/handbook/sales/field-operations/gtm-resources/) and includes confirmation of **Authority**, **Initiative**, **Fit**, and **Timing**. 
 
 Ideally, effective qualification also includes identification of the prospect's: 
 - Cloud strategy
