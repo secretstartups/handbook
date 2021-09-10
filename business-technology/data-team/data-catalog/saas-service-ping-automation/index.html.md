@@ -76,6 +76,7 @@ subgraph Postgres SQL-sourced Instance Level Metrics
 B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
 C --> D[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
 D --> E[Store metrics results in Snowflake RAW INSTANCE_SQL_METRICS]
+D --> F[ON ERROR store data in Snowflake RAW INSTANCE_SQL_ERRORS]
 end
 ```
 
@@ -100,7 +101,7 @@ end
 1. Grab the latest set of metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
 1. For Postgres SQL-sourced (PG-SQL) Metrics
      1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) and version control the resulting code
-     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`
+     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`. In case of error, data will land in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table.
      1. [Transform Instance-Level PG-SQL to Namespace-Level S-SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
      1. Run the Namespace-Level S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 1. For Redis-sourced Metrics
@@ -175,6 +176,8 @@ We then run all these queries and store the results in a json that we send them 
 - query_map: that stores all the queries run 
 - run_results: that stores the results returns
 - ping_date: date when the query got run
+
+For any error appeared, data is saved into `RAW.SAAS_USAGE_PING.INSTANCE_SQL_ERRORS` table. This table keeps data in `json` data type.
 
 #### Redis Metrics Implementation
 
