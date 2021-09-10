@@ -17,7 +17,7 @@ The SAL Heatmap provides a high level view of current achivement, pipe coverage 
 
 **Example screenshot of the SAL Heatmap:**
 
-![SAL Heatmap](sal_heatmap_example.jpg "SAL Heatmap")
+![SAL Heatmap](sal_heatmap.jpg "SAL Heatmap")
 
 ### Access
 

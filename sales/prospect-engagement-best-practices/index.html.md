@@ -78,9 +78,4 @@ If you want to associate emails to Opportunities or other records using the Sale
 
 If you have any issues with the setup, please contact the Director of Sales Operations via Slack, email, or SFDC Chatter.
 
-## Understanding Opportunities
 
-Sales Leadership primarily [uses Clari to understand opportunities](/handbook/sales/forecasting/#advantages-to-updating-opps-in-clari). Other GitLab Team Members with SFDC access should use the following resources to understand a Sales opportunity.
-- The [opportunity](/handbook/sales/field-operations/gtm-resources/) (if available [Command Plans](/handbook/sales/forecasting/#opportunity-management-requirements) or existing customer [Success Plans](/handbook/customer-success/tam/success-plans/) offer great overviews)
-- The [Account Plan](https://drive.google.com/drive/folders/0B-ytP5bMib9Ta25aSi13Q25GY1U)
-- Directly reaching out to the [Account owner](#initial-account-owner---based-on-segment) or [TAM](/handbook/customer-success/#technical-account-managers) (in the internal slack channel)
