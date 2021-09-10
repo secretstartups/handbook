@@ -20,8 +20,8 @@ When a prospect is moving towards becoming a customer, they will need to be tran
 
 | Team | Stage | Notes | 
 | ---  | ---   | ---   |
-| Commercial | `Closed Won` | Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)`Closed-Won`, the AE/SA and TAM should begin the transition process. The AE/SA will send an email to the technical customer team to introduce the TAM.| 
-| Enterprise | `5-Negotiating` or <br> `Closed Won`| Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) `5-Negotiating` or `Closed Won`, the SA and TAM should begin the transition process. The SA will set up the call with the technical customer team to introduce the TAM.| 
+| Commercial | `Closed Won` | Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/)`Closed-Won`, the AE/SA and TAM should begin the transition process. The AE/SA will send an email to the technical customer team to introduce the TAM.| 
+| Enterprise | `5-Negotiating` or <br> `Closed Won`| Once a prospect opportunity reaches [stage ](/handbook/sales/field-operations/gtm-resources/) `5-Negotiating` or `Closed Won`, the SA and TAM should begin the transition process. The SA will set up the call with the technical customer team to introduce the TAM.| 
 
 The transition process is outlined in the sections below. 
 

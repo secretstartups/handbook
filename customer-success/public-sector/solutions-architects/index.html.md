@@ -53,7 +53,7 @@ The goals of this introduction are many:
 
 ### Program Flow
 
-Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) is as follows:
+Prior to introducing the program, the SA should ensure that all sales stage data is recorded and available to kick off the Success Management Program. The required workflow within [each sales stage](/handbook/sales/field-operations/gtm-resources/) is as follows:
 
 Stages 0-2
 - As discovery occurs in early sales stages, the Stage Technology fields on the Account record in Salesforce should begin to be populated.

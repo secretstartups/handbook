@@ -7,7 +7,7 @@ description: "The Commercial Sales segment consists of two sales teams, Small Bu
 # Commercial Sales - Customer Success Handbook
 {:.no_toc}
 
-GitLab defines Commercial Sales as worldwide sales for the mid-market and small/medium business segments. [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation) is defined by the total employee count of the global account. The Commercial Sales segment consists of two sales teams, Small Business (SMB) and Mid-Market (MM). The Commercial Sales segment is supported by a dedicated team of Solutions Architects (SA) and Technical Account Managers (TAM).
+GitLab defines Commercial Sales as worldwide sales for the mid-market and small/medium business segments. [Sales segmentation](/handbook/sales/field-operations/gtm-resources/) is defined by the total employee count of the global account. The Commercial Sales segment consists of two sales teams, Small Business (SMB) and Mid-Market (MM). The Commercial Sales segment is supported by a dedicated team of Solutions Architects (SA) and Technical Account Managers (TAM).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
