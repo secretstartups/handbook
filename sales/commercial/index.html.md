@@ -12,7 +12,7 @@ department: "The Commercial Sales department at GitLab focuses on delivering max
 
 ## Welcome to the Commercial Sales Handbook
 
-The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/#segmentation) customers throughout their entire journey with GitLab.
+The Commercial Sales department is part of the overall [GitLab Sales](/handbook/sales) Division. We focus on delivering maximum value to [SMB and Mid-Market](/handbook/sales/field-operations/gtm-resources/) customers throughout their entire journey with GitLab.
 
 ## <i class="fas fa-users fa-fw icon-color font-awesome"></i>Commercial Team Groups
 
@@ -242,7 +242,7 @@ It is required that all opportunities above $10,000 (Mid Market) and $5,000 (SMB
 
 ## SMB Account Executives
 
-SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/#segmentation) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
+SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLab for [SMB](/handbook/sales/field-operations/gtm-resources/) prospects and customers. They are the primary point of contact for companies that employ between 1 to 99 employees. These GitLab team members are responsible for working new business in their [territory](/handbook/sales/territories) as well as handling the customer journey for new and existing customers. SMB Account Executives will assist prospects through their evaluation and buying process and will be the customer's point of contact for any renewal and expansion discussions. [Please read through the SMB handbook page for more information](/handbook/sales/commercial/smb).
 
 ### Critical Salesforce reports to follow and bookmark
 - [SMB AMER Required 7](https://gitlab.my.salesforce.com/01Z4M000000oXCS)
@@ -253,7 +253,7 @@ SMB Account Executives "SMB AEs" act as Account Executives and the face of GitLa
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from Commercial SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
@@ -367,7 +367,7 @@ Mid-Market AEs work closely in tandem with the business development team and sal
 #### New Business
 
 - Work Initial Qualification Meetings [IQM's](/handbook/sales/commercial/#inbound-queue-management) from SDR Team
-- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/#criteria-for-sales-accepted-opportunity-sao)
+- Accept Sales Accepted Opportunities according to [SAO Criteria](/handbook/sales/field-operations/gtm-resources/)
 - Nurture and help prospects during their Trial evaluation after Accepting Opportunities
 - Push to Webdirect or help with the Sales Order Process
 
