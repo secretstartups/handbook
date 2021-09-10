@@ -54,6 +54,8 @@ The left side panel of the 360 contains the following sections:
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)
+- Survey - holds all survey response data from Journey Orchestrator customer programs
+- Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
 
 If you'd like, you can toggle the "Scrolling" button at the top of any 360 page to enable scrolling through all of the sections, rather than having to click into them.
 

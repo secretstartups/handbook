@@ -16,8 +16,6 @@ This page focuses on emails and nurture programs, owned and managed by Customer 
 
 Strategy deck can be found [here](https://docs.google.com/presentation/d/1EsCcVqKYL1WkwFkOZDr6TV_DBJMEvrGy3ErPlJLcfPg/edit?usp=sharing). (_GitLab internal only_)
 
-### [FY22 CS program calendar SSoT](https://docs.google.com/spreadsheets/d/12t6619gcr0eeMeHqF4wibDUqoxEkY1_QA-QJOM95Wu0/edit?usp=sharing)
-
 ## Digital Program content
 
 Digital program content is an extension of our existing documentation and community enablement materials:
@@ -77,11 +75,6 @@ Information on customer NPS/CSAT surveys can be found on the [Customer NPS/CSAT 
 
 - [NPS/CSAT Survey issue for all customers](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)
 
-## Roadmap of epics
-
-- [Digital Customer Programs <$50K CARR Epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/51)
-- [TAM Focused Customer Programs (>$50K CARR)](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/52)
-
 ## How to access and use Digital Programs
 
 You may request new Digital Programs or update existing programs.
@@ -129,25 +122,3 @@ This information from the issue template **must** be filled out before the progr
 - Product analytics
 - Seat utilization
 
-#### Filtering fields
- 
-Use these filters when requesting a Digital Program journey. Filters may be created automically, or manually by TAMs.
-
-| Field Titles                      | Description                         | Automatic/manual? |
-| --------------------------------- | ------------------------------------| ----------------- |
-| CARR (This Account)               | The ARR for a specific account      | Automatic         |
-| Technical Account Manager         | The TAM for this account            | Automatic         |
-| Account Owner Team                | The customer region (EMEA, APAC...) | Automatic         |
-| Products Purchased (This Account) | This can include multiple subscriptions, CI Minutes, etc. | Automatic |
-| Deployment Type                   | SaaS or Self-Managed, to track the type of customer deployment | Automatic |
-| Support Level                     | The level of GitLab Support the customer receives | Automatic |
-| [Deployer](/handbook/customer-success/tam/gainsight/deployment-types/#deployer) | Customer-deployed, GitLab services, Partner services | Manual |
-| [Hosting](/handbook/customer-success/tam/gainsight/deployment-types/#hosting)   | Customer's hosting (on-premises, cloud, hybrid, GitLab.com, etc. | Manual |
-| [Customer Conversion Source](/handbook/customer-success/tam/gainsight/deployment-types/#customer-conversion-source) | Community conversion, New customer, Existing - New TAM | Manual |
-| [Provider](/handbook/customer-success/tam/gainsight/deployment-types/#provider) | Customer providers (AWS, GCP, etc.) | Manual |
-| Geo?                              | True/false if they're using Geo     | Manual            |
-| High Availability?                | True/false if they're have HA       | Manual            |
-| Technology Stack                  | Multi-select of all tools used by the customer | Manual |
-
-### Methodology 
-To be added

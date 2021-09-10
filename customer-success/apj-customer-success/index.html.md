@@ -36,7 +36,7 @@ Currently the local APJ CS team has Solutions Architects & Technical Account Man
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
 - [Technical Account Manager](/handbook/customer-success/tam/) responsibilities
 
-Starting from the GitLab [org chart](/company/team/org-chart/) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
+Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
 
 | Role | Name | Base location |
 | ------ | ------ | ------ |

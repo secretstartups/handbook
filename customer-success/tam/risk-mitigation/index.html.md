@@ -3,7 +3,7 @@ layout: handbook-page-toc
 title: "TAM Strategies for Mitigating Risk In Customer Accounts"
 description: "TAM Strategies for Mitigating Risk In Customer Accounts"
 ---
-
+ 
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
