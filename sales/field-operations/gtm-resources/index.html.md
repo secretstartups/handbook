@@ -494,8 +494,8 @@ Extending self-managed trials requires access to the internal `Licensing App`.
 
 United States
 
-- **Public** University = [Public Sector team](/handbook/sales/territories#public-sector)
-- **Private** University = [Public Sector team](/handbook/sales/territories#public-sector)
+- **Public** University = [Public Sector team](/handbook/sales/territories)
+- **Private** University = [Public Sector team](/handbook/sales/territories)
 
 Rest of the World
 
