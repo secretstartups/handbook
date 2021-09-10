@@ -87,6 +87,7 @@ To gain access to SAFE Dashboards:
 
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
 * [SaaS Usage Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
+* [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 
 #### Analytics Projects
 
@@ -106,6 +107,7 @@ To gain access to SAFE Dashboards:
 * [2021-08 Stage:Secure Adoption and Conversion Analysis](https://docs.google.com/presentation/d/1bbvfsNzKoZw4kCYB9coexiXzPiLZ5E3XPe6hOsbZlag/edit#slide=id.g29a70c6c35_0_68)
 * [2021-08 Namespace Conversion Analysis](https://docs.google.com/presentation/d/10soQFzNH6dguVMIuzsd8b8ODmyDyycxU1dyefUTODqk/edit#slide=id.gcf1e8c1d1f_7_180)
 * [FY22-Q1 Growth Team KPI Review](https://docs.google.com/presentation/d/1VX85L9UTD7PQbb_aPJolqhRkq2KE7r8up2dSOzWNTeo/edit#slide=id.gdd1aebac8e_0_0)
+* [2021-08 SSO Login Deep Dive Analysis](https://docs.google.com/presentation/d/1j66MejLh8uKhUDUkSVIhPLI79M1LtbgCSxuvJKzRRaI/edit#slide=id.p)
 * [Growth Insights](/direction/growth/#insights)
 * [Concluded Growth Experiments](/direction/growth/#growth-experiments-knowledge-base---concluded-experiments)
 
@@ -134,6 +136,7 @@ To gain access to SAFE Dashboards:
 
 ## Metrics and Terms Index
 
+* [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary)
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
 * ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
 * CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)
