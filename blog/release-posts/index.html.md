@@ -1290,8 +1290,6 @@ To better understand GitLab's overall deprecations and removals policy, check ou
 A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included as soon as possible in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. You should try to merge your MR by the 16th of the month so that the self-hosted customers receive it in a timely fashion. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
 Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project using the template below.  After adding the file, you must run `bin/rake gitlab:docs:compile_deprecations` locally before committing and pushing your changes.
 
-Note: For deprecations to be included in the documentation for self managed instances, they must be merged in prior to the date that the final build is cut.  Typically this is done around the 15th of each month.
-
 ```yaml
 - name: # The name of the feature to be deprecated
   announcement_milestone: # XX.YY format - the milestone when this feature was first announced as deprecated
