@@ -9,23 +9,4 @@ title: "Total Addressable Market"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-Total Addressable Market (TAMkt) is derived by multiplying the estimated number of seats licenses (Users) available by GitLab's potential annual average revenue per user (ARPU).  
-
-| Year | Audience | Users | ARPU | TAMkt |
-| ---- | -------- | ----- | ---- | --- |
-| 2013 | Enthusiasts | 1m | $20 | 20m |
-| 2015 | Developers | 20m | $100 | 2b |
-| 2019 | Enterprise | 41m<sup>1</sup> | $350 | 14b |
-
-<sup>1</sup>GitLab projection for users within organizations of more than 2,000 employees
-
-<sup>2</sup>GitLab projection for users accountable for software development, security, and operations
-
-<sup>3</sup>Additional potential users:
- 1. Product managers
- 1. Management
- 1. Compliance
- 1. Network engineers
- 1. Designers 
-
-For a breakdown of the future TAMkt serviceable by our current products, view [Total and Served Addressable Markets](/handbook/product/investment/#total-and-served-addressable-markets).
+[Please see the Sales Handbook Definitions Doc] (https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.l7kqvh4ikqb6)
