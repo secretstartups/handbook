@@ -30,12 +30,12 @@ For an overview and runthrough of manual searching of SFDC, customers.gitlab.com
 [How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
 video.
 
-### GitLab User Lookup app in Zendesk
+## GitLab User Lookup app in Zendesk
 
 From the Zendesk [GitLab User Lookup application](../support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) you have access to the requester details in SFDC and GitLab.com.
 
 
-### Within Salesforce
+## Within Salesforce
 
 If you are trying to find the ticket requester's organization, you'll have to look it
 up directly in Salesforce.
@@ -47,7 +47,7 @@ the 1Password Support vault. Notes:
 - If prompted to provide a verification code sent by email, the email account
   credentials are available in 1Password.
 
-#### Finding the customer's organization
+### Finding the customer's organization
 
 1. Search for the customer's domain (e.g. `customer.com`) or full email address
    (e.g. `flastname@customer.com`) in the search bar at the top of the
@@ -66,7 +66,7 @@ the 1Password Support vault. Notes:
 if the e-mail has previously been associated with a trial account it will still be visible
 in SFDC but this might not be the same account that is used by the organization.
 
-#### Finding the customer's GitLab subscription information
+### Finding the customer's GitLab subscription information
 
 In the customer's organization page, look for the **GitLab Subscription Information**
 section. The most relevant pieces of information to support in this section are:
@@ -79,7 +79,7 @@ section. The most relevant pieces of information to support in this section are:
 You can also confirm if the organization is a paying customer by look for the
 `Type` field under the **Account Detail** section. It should say `Customer`.
 
-#### Finding the customer's account owner
+### Finding the customer's account owner
 
 In the customer's organization page, look for the **Account Detail** section.
 There should be an `Account Owner` field. This is the person responsible for
@@ -96,7 +96,7 @@ customer account.
 
 ![List of account team members](/handbook/support/workflows/assets/salesforce-account-team-list.png)
 
-#### Finding the customer's renewal opportunity owner
+### Finding the customer's renewal opportunity owner
 
 In the customer's organization page, look for the **Opportunities** table. Look
 for a row with a `Close Date` in the future and a stage that is not `Closed Won`
@@ -147,13 +147,13 @@ You can do so by appending the ID to the following URLs:
 
   *e.g.* `https://license.gitlab.com/licenses/<LICENSE_ID>`
 
-### When full license file is provided
+## When the full license file is provided
 
 Sometimes a customer may include the full license file to prove their support
 entitlement. There are two methods to decode a license. One method is to use a
 script and the other is to use the Rails console on a self-managed instance.
 
-#### License Decoder
+### License Decoder
 
 The easiest method is to use the [License Decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder) ruby script.
 It outputs nice clean information including links to subscription information
@@ -163,7 +163,7 @@ Follow the [instructions](https://gitlab.com/gitlab-com/support/toolbox/license-
 for installation and usage instructions.
 
 
-#### From the Rails console
+### From the Rails console
 
 You can determine the license ID (and thus organization) by
 extracting the ID.
