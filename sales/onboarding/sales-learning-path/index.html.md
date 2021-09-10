@@ -31,7 +31,7 @@ description: "Core curriculum for GitLab's Sales & Customer Success onboarding"
    - Read the [Handbook](/handbook/values/#short-toes)
 *  **Org Chart (Material - Handbook - 10 Minutes)**
    - You can see more information about team members and who reports to whom on the team page. Throughout the course you will be asked to schedule a few brief meetings with your peers. Keep in mind that it is always ok to put a meeting on someone's calendar, if they can't make it and decline it is not a problem. We hope you enjoy getting to know your super cool co-workers!
-   - Check out the [org chart](/company/team/org-chart/) and the [Team Page](https://about.gitlab.com/company/team/)
+   - Check out the [org chart](https://comp-calculator.gitlab.net/org_chart) and the [Team Page](https://about.gitlab.com/company/team/)
 
 ### 2. [DevOps Technology Landscape](https://gitlab.edcast.com/pathways/sales-quick-start/cards/1459977)
 *  **DevOps Technology Landscape**

@@ -53,7 +53,7 @@ Learn how financial services company New10 increased deployment speed by 3x and 
 
 For a full overview of these changes, please reference these resources:
 1. [ARR & Renewals Overview Deck](https://docs.google.com/presentation/d/1oDSNFyW04VqcrOJ-AHhyS423UN_eJh8a7xTeAEJKYDk/edit#slide=id.gb96ff25233_0_0)
-1. [ARR in Practice handbook page](/handbook/sales/sales-term-glossary/arr-in-practice/#annual-recurring-revenue-arr-and-salesforce)
+1. [ARR in Practice handbook page](/handbook/sales/sales-term-glossary/arr-in-practice/)
 1. [ARR - Sales FAQ](https://docs.google.com/document/d/1k3W92igPlRDkhkQZV2JcKAKksGuTHJR3tdGjth677X0/edit#)
 1. [Salesforce Booking Metrics Field Data Dictionary](/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/sfdc-booking-metric-fields/)
 1. [New Sales Renewals Guidance handbook page](/handbook/sales/sales-renewal-process/)

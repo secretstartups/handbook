@@ -23,10 +23,9 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 9  | Bitbucket Sales Play | Brian Glanz  |
-| Sep 16 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood, Kristen Reynolds |
+| Sep 16 | New Golden Pitch Deck | TBD |
 | Sep 23 | TBD | TBD |
-| Sep 30 | TBD | TBD |
+| Sep 30 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood |
 | Oct 7  | FY22-Q3 Competitive Update | TBD |
 | Oct 14 | FY22-Q3 Product Update | Brian Glanz |
 | Oct 21 | *No sessions during the last two weeks of a quarter* | N/A |
@@ -40,6 +39,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-09-09 | **[Bitbucket Sales Play](https://youtu.be/SjvL0hyV3Zo)** | Private |
 | 2021-09-02 | **[Verify: Testing Vision & Positioning](https://youtu.be/Zisa9Qfh8v8)** | Public |
 | 2021-08-26 | **[Digital Programs for non-TAM-assigned accounts](https://www.youtube.com/watch?v=_2J71ruCqH8)** | Private |
 | 2021-08-19 | **[Deal Review Panel Discussion](https://youtu.be/Onn7K9k3jsw)**   | Private | 
