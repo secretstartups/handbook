@@ -17,79 +17,13 @@ The Sales Strategy team is involved in multiple projects in the areas of Analyti
 ---
 ## Fortune Rank to SFDC
 
-#### Goal
-
-Provide visibility of Gitlab expansion within the top 1000 Fortune Rank accounts.
-
-To allow SFDC reporting by Fortune Rank, we will create a 1:1 relationship between every Fortune account and a single SFDC account.
-
-#### Methodology
-
-Fortune Rank 1000 will be extracted from ZoomInfo and manually loaded into SFDC based on the matching ZoomInfo : SFDC ID. 
-
-The following rules were applied for the matching:
-
-1.  ZoomInfo uses the criteria outlined [here](https://university.zoominfo.com/learn/article/implementation-guide-salesforce) in the Duplicate Checking section to match between ZoomInfo:SFDC
-2.  Sales Operations will manualy spot check for accuracy
-
-#### Result
-
-The matched file for FY 2022 can be found here shortly.
-
-#### Considerations
-
-As the matching is primarily automatic, there may be some unexpected discrepancies. If any issue is identified, please reach out to the Sales Operations via chatter on the Account team to have it corrected.
-
-#### Update frequency
-
-The data will be updated once a year around June. The Sales Operations team is responsible for pulling the data and for the upload.
-
-#### SFDC Fields
-
-This placeholder will be updated once the field is added.
+https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.vkhb6a9ugrkh
 
 
 ## Forbes 2000 to SFDC
 
-#### Goal
+https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.hlidqemi1m03
 
-Provide visibility of Gitlab expansion within the top 2000 Global Forbes accounts. 
-
-To allow SFDC reporting by Forbes rank, we created a 1:1 relationship between every Forbes account and a single SFDC account.
-
-The original issue can be found [here](https://gitlab.com/gitlab-com/sales-team/field-operations/analytics/-/issues/135).
-
-#### Methodology
- 
- The following rules were applied for the matching:
-
-- Apply two rounds of matching:
-     1. First, Forbes against ARR driving accounts in SFDC (customers).
-     1. Second, Forbes against all other non-ARR accounts.
-- Three methods for matching were used, ordered by priority:
-     1. Website: Using domain of the Forbes website vs the SFDC website of the child account.
-     1. Name: Using a lower case, stripped version of the Forbes and SFDC name.
-     1. Fuzzy: Using fuzzy matching for the ARR driving accounts, to try to catch as much relevant value as possible.
-- Forbes accounts matched in the first round were not to be matched again.
-- Names and websites were standardized to improve matching rates.
-- A rough manual check was done vs top ARR accounts.
-
-#### Result
-
-The matched file for 2020 can be found [here](https://docs.google.com/spreadsheets/d/1sr3MGraDVAbBzqYWVHS0NoABisnWxnViGYRm_7PHE3w/edit#gid=1803700829).
-The matched file for FY 2022 can be found [here](https://docs.google.com/spreadsheets/d/1MrHIPj6OSN3jhXQoBcmvM751y-IT0xffFt_WgmJwsTA/edit#gid=204503389)
-
-#### Considerations
-
-As the matching was mostly automatic, it is far from perfect. If any issue is identified, please reach out to the Sales Strategy team to have it corrected.
-
-#### Update frequency
-
-The report will be updated once a year around June. The Sales Strategy team is responsible for the matching and the Sales Ops team for the upload.
-
-#### SFDC Fields
-
-[Forbes 2000 Rank](https://gitlab.my.salesforce.com/00N4M00000IbEN6?setupid=AccountFields)
 
 ## Potential LAM
 
