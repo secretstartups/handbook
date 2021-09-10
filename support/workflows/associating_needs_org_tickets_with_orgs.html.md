@@ -191,6 +191,17 @@ To associate a user with an organization:
 
 - If the user exists in both SFDC and Zendesk, you can associate the user to the org. 
 - If the user exists in SFDC but not in Zendesk, you can create the user in Zendesk if you desire or just inform the user that when they first submit a ticket in the Support Portal the Zapier process we have in place should auto-associate the user in the org.
+- If the user exists in Zendesk but not in SFDC, associate the user to the organization in
+  Zendesk, refresh the Zendesk Apps (click the refresh arrow in the top right)
+  and then use the
+  [SFDC Tool app](../support-ops/documentation/zendesk_global_apps.html.md#sfdc-tool)
+  to add the user as a contact under the organization in SFDC. Refresh the apps once
+  more to confirm they were added properly. If this does not work, please
+  contact Support Ops via the #support_operations slack channel.
+
+**Note**: The original method for handling cases where the user is absent
+in both SFDC and Zendesk is as follows:
+
 - If the user does not exist in both SFDC and Zendesk,  you can ping their TAM/AM in the `#account-management`
   Slack channel to ask them to add the user in SFDC. Once the user is in SFDC, the Zapier process we have in place will also auto-associate the user to their org when they register or submit a ticket via the Support portal. 
 
@@ -203,9 +214,10 @@ If you erroneously assigned a user to an incorrect organization, follow these st
 1. Make sure that the user changes were saved - you will see a message like `<User Name> was successfully updated.`
 1. Please remove the form related tags in case if form of the ticket needs to be changed from the ticket as well. For example, Subscription type or problem type tags would be different for SAAS or Self Managed form.
 
-**Note**: If the organization automatically comes back after un-assigning it, it likely means that this org has `Domains` specified:
-if an org has `domain.tld` in `Domains` list, any user with `@domain.tld` will be automatically added to this org. If it is the case, please contact `#support_operations` Slack channel to discuss and fix it.
-
+**Note**: If the organization gets automatically reassigned after you un-assign it, it
+likely means the org is using domain matching or the user is a contact in SFDC
+(and is being auto-synced). In those cases, please reach out to Support Ops via
+the #support_operations Slack channel for assistance.
 
 ## Marking free users
 
