@@ -354,7 +354,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
 
 - Complete the information for each token. Instructions for what to enter for each token are included in the template.
     - Note that it is important that all tokens are completed as the "Interesting Moments" Smart Campaigns pushes information to Salesforce based on the tokens. Depending on the campaign, some auto-responders and emails rely on tokens as well.
-    - Note that the token for `Event Location` should be filled in with the `City` for `In-Person` events and `Virtual` for `virtual events`.
+    - Note that the token for `Event Location` should be filled in with the `City` for `In-Person` events and `Virtually` for `virtual events`.
     - You do not need to update the following tokens upon setup:
         - ((my.email header image url}} - This is optional. You will need this if you had custom images created.
         - {{my.ondemandurl}} - This will be entered AFTER the event date. It is the link to the recorded webcast. You will need to come back after the event and update this token.
