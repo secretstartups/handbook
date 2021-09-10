@@ -36,7 +36,7 @@ We have great investors who can and want to help us penetrate strategic accounts
 ### Top Account Criteria and Approval Process
 
 - Top Accounts should meet the below criteria:
-    - Minimum of 5000 total developers
+    - Minimum number of total developers (Confidential)
     - High LAM potential 
     - GitLab does not have an active opportunity with the account that they’re already making good progress on 
         - “Stalled” or Existing Closed Lost opportunities ARE eligible 
