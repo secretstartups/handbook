@@ -88,6 +88,7 @@ subgraph Postgres SQL-sourced Instance Level Metrics
 B[1: Gather latest Metrics Queries via API] --> C[2: Transform PG-SQL to Snowflake-SQL]
 C --> D[3: Run S-SQL versus Snowflake's GitLab.com clone]
 D --> E[4: Store metrics results in Snowflake RAW INSTANCE_SQL_METRICS]
+D --> F[5: ON ERROR store error information in Snowflake RAW INSTANCE_SQL_ERRORS]
 end
 ```
 
