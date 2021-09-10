@@ -108,7 +108,7 @@ If you need an account to test QA issues assigned to you on Staging, you may alr
 | ---- | --- | ------- | ------ | -------- | --------------- |
 | pre | pre.gitlab.com | GitLab.com pre | Release candidates | Separate and local | SREs |
 
-The pre environment is an environment used for validating release candidates used to prepare final self-managed releses and production patches. It does not have a full production HA topology or a
+The pre environment is an environment used for validating release candidates used to prepare final self-managed releases and production patches. It does not have a full production HA topology or a
 copy of the production database.
 
 ### Release
