@@ -22,7 +22,7 @@ Finance Team Member on-boarding will include specific tasks and information to f
 
 -   a working style assessment using Simpli5
 
--   a view into the Finance Career Ladders and a view of the [Org Chart](/company/team/org-chart/)
+-   a view into the Finance Career Ladders and a view of the [Org Chart](https://comp-calculator.gitlab.net/org_chart)
 
 -   a link to read GitLab's take on [Career Development](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#what-is-career-development)
 
