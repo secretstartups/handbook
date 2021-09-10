@@ -113,7 +113,7 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 | ----- | ----- | ---------------- |
 | [Enterprise ISR Team Slack Channel](https://gitlab.slack.com/archives/C01P39947ND) | Enterprise | Team slack channel for internal team communications and requests | 
 | [Public Sector ISR Team Slack Channel](https://gitlab.slack.com/archives/CNAMWG9N3) | PubSec | Team slack channel for internal team communications and requests | 
-| [GitLab Sales Territories](https://about.gitlab.com/handbook/sales/territories/#territories) | All | Handbook page that outlines regional alignment for SALs and ISRs |
+| [GitLab Sales Territories](https://about.gitlab.com/handbook/sales/territories/) | All | Handbook page that outlines regional alignment for SALs and ISRs |
 | [FY22 Sales Compensation Plan](https://about.gitlab.com/handbook/finance/sales-comp-plan/#fy22-sales-compensation-plan) | All | Outline of the FY22 inside sales commission plan | 
 | [Sales Commissions](https://about.gitlab.com/handbook/sales/commissions/) | All | Handbook page that includes process and policies related to GitLab commissions |
 
