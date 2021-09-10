@@ -51,7 +51,7 @@ Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_char
 | Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/@bma) | Sydney, Australia |
 | Technical Account Manager | [**Rohan Shah**](https://gitlab.com/@rmsrohan) | Mumbai, India |
 
-The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/#apac) and [Mid-Market](/handbook/sales/territories/#apac-1) APJ outlines territories.
+The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
 ## Engagement options with the APJ Customer Success team
 Any customer, customer prospect, GitLab Business Partner and/or GitLab Sales representative requiring assistance with GitLab's technology should be directed to the Customer Experience Manager (CEM).
