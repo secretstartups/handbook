@@ -18,7 +18,7 @@ Customer segmentation is the process of dividing our customers into groups based
 
 This data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
-1. Dashboard Users: A [Sisense dashboard](https://app.periscopedata.com/app/gitlab/718514/Customer-Segmentation-Analysis) to visualize ARR and customer count by industry, product category, [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation), delivery, account owner team, and territory
+1. Dashboard Users: A [Sisense dashboard](https://app.periscopedata.com/app/gitlab/718514/Customer-Segmentation-Analysis) to visualize ARR and customer count by industry, product category, [sales segment](/handbook/sales/field-operations/gtm-resources/), delivery, account owner team, and territory
 1. Dashboard Developer: A new Sisense data model containing the complete dimensional model components to build new dashboards and link existing dashboards to customer segmentation data.
 1. SQL Developer: An Enterprise Dimensional Model subject area
 
