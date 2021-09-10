@@ -108,8 +108,15 @@ with a LanguageTool server [run locally with Docker](https://github.com/language
 This ensures that spell and grammar checking remains both convenient and confidential:
 
 1. Install the [LanguageTool browser extension](https://www.languagetool.org/#firefox_chrome).
+1. Install Docker Desktop and open it.
 1. Follow the setup instructions at [Erikvl87/docker-languagetool](https://github.com/Erikvl87/docker-languagetool).
-1. Configure the browser extension under `Experimental settings > Other server` with the IP and port that the container exposes (see ReadMe in 2. for defaults).
+1. Configure the browser extension under `Experimental settings > Local server`.
+
+Note: The instructions on GitHub have some extra things you won't need. Really, all you need to do is open Terminal and run 
+
+`docker pull erikvl87/languagetool` 
+
+`docker run -d --restart unless-stopped -p 8010:8010 erikvl87/languagetool`
 
 ### Simplenote
 
