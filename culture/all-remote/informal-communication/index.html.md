@@ -189,7 +189,7 @@ Coffee Chats are a fantastic opportunity to intentionally broaden your perspecti
 1. Pair with someone from a different region of the world (being respectful of working hours).
 1. Pair with someone complementary to you — for example, if you're new, find someone who's been here a while; if you're in marketing, pair with a developer; and so on.
 
-You can use the [GitLab org chart](/company/team/org-chart/), [Product stages page](/handbook/product/categories/), or [Team page](/company/team/) to find team members to pair with.
+You can use the [GitLab org chart](https://comp-calculator.gitlab.net/org_chart), [Product stages page](/handbook/product/categories/), or [Team page](/company/team/) to find team members to pair with.
 
 ### Leadership Coffee Chat with URG Team Members
 
