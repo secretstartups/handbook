@@ -75,7 +75,7 @@ graph LR
 subgraph Postgres SQL-sourced Instance Level Metrics
 B[Gather Metrics Queries via API] --> C[Transform PG-SQL to Snowflake-SQL]
 C --> D[Run Snowflake-SQL versus Snowflake's GitLab.com clone]
-D --> E[Store metrics results in Snowflake RAW GITLAB_DOTCOM]
+D --> E[Store metrics results in Snowflake RAW INSTANCE_SQL_METRICS]
 end
 ```
 
@@ -100,7 +100,7 @@ end
 1. Grab the latest set of metric queries from the [Metrics Dictionary API Query Endpoint](https://docs.gitlab.com/ee/api/usage_data.html#export-service-ping-sql-queries)
 1. For Postgres SQL-sourced (PG-SQL) Metrics
      1. Transform Instance-Level PG-SQL to Snowflake SQL (S-SQL) and version control the resulting code
-     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`
+     1. Run S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`
      1. [Transform Instance-Level PG-SQL to Namespace-Level S-SQL](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/transform_instance_level_queries_to_snowsql.py) and version control the resulting code
      1. Run the Namespace-Level S-SQL versus the SaaS GitLab.com clone data available in the Snowflake Data Warehouse and store the results in `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM_NAMESPACE`
 1. For Redis-sourced Metrics
@@ -170,7 +170,7 @@ to this SQL statement:
 "SELECT 'counts.ci_builds' AS counter_name,  COUNT(ci_builds.id) AS counter_value, TO_DATE(CURRENT_DATE) AS run_day   FROM prep.gitlab_dotcom.gitlab_dotcom_ci_builds_dedupe_source AS ci_builds WHERE ci_builds.type = 'Ci::Build'"
 ```
 
-We then run all these queries and store the results in a json that we send them to the table called `RAW.SAAS_USAGE_PING.GITLAB_DOTCOM`. This table has the following columns:
+We then run all these queries and store the results in a json that we send them to the table called `RAW.SAAS_USAGE_PING.INSTANCE_SQL_METRICS`. This table has the following columns:
 
 - query_map: that stores all the queries run 
 - run_results: that stores the results returns
@@ -180,7 +180,7 @@ We then run all these queries and store the results in a json that we send them 
 
 Redis counters are used to record high-frequency occurrences of some arbitrary situation happening in GitLab, that do not create a permanent record in our Database, for example when a user folds or unfolds the side bar. In such cases, the backend engineer will define a name that would represent a given situation, for example navigation_sidebar_opened, and also arbitrarily decide on the moment (by adding dedicated piece of code in existing execution path) when it happens.
 
-The Product Intelligence team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available here. Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api).
+The Product Intelligence team has created an API endpoint that allows the Data Team to retrieve all Redis metrics value at any time we want. An example of the JSON Response is available here. Note that `-3` means that the metrics is not redis so the API doesn't retrieve any value for it. Once the JSON response received, we store it in Snowflake in the table `RAW.SAAS_USAGE_PING.INSTANCE_REDIS_METRICS`. Additional technical documentation about the API endpoint [is available here](https://docs.gitlab.com/ee/api/usage_data.html#usagedatanonsqlmetrics-api).
 
 ### Airflow setup
 
