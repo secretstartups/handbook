@@ -15,7 +15,7 @@ description: "This Hands On Guide is designed to walk you through the lab exerci
 ## GitLab Security Essentials Labs
 * [Lab 1: Create A Project and Run Security Scanning](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson1.html)
 * [Lab 2: Review and create actions on Vulnerabilities](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson2.html)
-* [Lab 3: Add Manual k6 Load testing](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3.html)
+* [Lab 3: Build and Push an Image and Run Container Scanning](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson3.html)
 * [Lab 4: Run a Fuzz test](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/education-services/secessentialshandson4.html)
 
 ## Quick links
