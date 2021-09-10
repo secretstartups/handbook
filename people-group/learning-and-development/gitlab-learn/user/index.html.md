@@ -139,32 +139,25 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
 
 ### Using the Manager Dashboard
 
-Managers in GitLab Learn can use the Manager Dashboard feature to track learning progress of your direct reports. You can find the Manager dashboard by navigating to the navigation waffle in the top right corner of every page and then choosing the `Manager Dashboard` option.
+GitLab managers can use the Manager Dashboard feature to track learning progress of their direct reports. Find the dashboard by clicking on the navigation waffle then choose `Manager Dashboard`.
 
-The manager dashboard in GitLab Learn enables managers to: 
-
-1. Track top learning goals of their direct reports
-1. View basics metrics of direct reports platform engagement at the team level, including total hours learned, assignments overdue, cards completed, cards shared, cards contributed, and points scored
-1. View completion of individuals on assigned content
-1. Send remidners to direct reports about assignments and upcoming or past due dates
-1. View learner history
+{Embed infographic here: https://www.canva.com/design/DAEpW-9XIb8/Z3yfDHwBPWhMRmoYkXcxRw/view?utm_content=DAEpW-9XIb8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton}
 
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
 
-{Add short video explaining manager dashboards}
+{To Do: Add short video explaining manager dashboards} - Read the [Metrics Overview] section below if you prefer to read this material.
 
 #### Important tips
 
-1. Filter data by direct report by clicking on their name/photo in each tab
-1. Use the date and assignments filters in the top right hand corner of the report to set date restrictions
-1. You cannot download data as a CSV or other file time from the Manager Dashboard
-1. The `Cards Completed` metric on the `Overview` tab will indicate the **total number of times any card on the system was completed** by your team member. For example: if 2 teams members each complete a pathway that has 10 total cards, this metric will show 20 card completions. This count is not useful for understanding how many total courses or trainings are actually completed by your team
-1. Managers can only send reminders on courses they have assigned
-1. If you need to send a reminder to team members to complete an assigned piece of content, used the `Assignments` tab. Managers can send reminders to their direct reports by clicking the `Send Reminder` button next to the relevant assignment. You can select which members of your team you'd like to recieve the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
+1. Click on team members photo in each tabe to filter data by team membr
+1. Use the `date` and `assignments` filters in the top right hand corner of the report to set date restrictions
+1. You cannot download data as a CSV or other file type from the Manager Dashboard. If you need this kind of report, work with the L&D team to build a report using EdGraph.
+1. The `Cards Completed` metric on the `Overview` tab will indicate the **total number of times any card was completed** by your team member. For example: if 2 teams members each complete a pathway that has 10 total cards, this metric will show 20 card completions. This count is not useful for understanding how many total courses or trainings are actually completed by your team.
+1. Send a reminder to complete assigned content by clicking the `Assignments` tab. Then click the `Send Reminder` button next to the relevant assignment. Select which members you'd like to recieve the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
 
 #### Metrics overview
 
-There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined below.
+There are 4 tabs on the Manager Dashboard. The purposes of each tab is outlined below. Watch the [short video linked above] if you prefer to watch and listen to this information.
 
 | Tab Title | Purpose |
 | ----- | ----- |
@@ -173,28 +166,33 @@ There are 4 tabs on the Manager Dashboard. The purposes of each tab are outlined
 | Assignments | View assignment progression and send reminders for each direct report (For both self-assigned and manager assigned content)|
 | Learning History | View all content completed by each direct report |
 
-Managers can see the following metrics on their dashboard for their direct reports. For team members, this Manager/Direct Report relationship is set automatically via our integration with BambhooHR.
+Managers can see the following metrics on their dashboard for their direct reports.
 
-| Metric | Description | Application |
+| Metric | Description | Application of Metric |
 | ----- | ----- | ----- |
-| Overall Activity | All events completed by direct reports - i.e. cards completed, cards contributed, bookmarks, comments, and likes | General indication of platform activity |
-| Cards Completed | Total cards completed by direct reports | General indication of content consumed |
-| Cards Contributed | Net new cards added by direct reports | Indicates overall contribution from team to GitLab Learn |
-| Points Scored | TBD | TBD |
-| Learning Hours | Time spent {on the platform? in a pathway? not sure} | TBD |
-| Assignments Overdue | Number of assignments made to direct reports that were not completed by the due date | Indicates need to follow up or send reminder to complete |
-| Card Shared | TBD | TBD |
-| Top Learning Goals | Displays top learning goals from direct reports | Provides a learning needs analysis of direct reports |
-| Top Skills | TBD | TBD |
-| % completed of courses | Visual bar of percentage completed of course for each direct report | Indicates course interest, lack of interest, time spent learning, and more |
-| Total assigned | Number of total assigned content to direct reports | Demonstrates ask from team members to complete required content |
-| In Progress assignments | Number of started but not completed assignments | Indicates who needs reminder to complete assignments |
-
+| Overall Activity | All events completed by direct reports | Platform activity including cards completed, contributed, bookmarks, comments, likes, etc. |
+| Cards Completed | Total cards completed by direct reports | Content consumed |
+| Cards Contributed | Net new cards added by direct reports | Overall contribution |
+| Points Scored | Aggregate of team's leaderboard points | Engagement metric |
+| Learning Hours | Time spent learning determiend by each SmartCard | Engagement metric |
+| Assignments Overdue | Number of assignments made to direct reports not completed by due date | Follow up/reminder required |
+| Cards Shared | Total cards shared with other users | Engagement metric |
+| Top Learning Goals | Top learning goals from direct reports | Learning needs analysis |
+| Top Skills | TBD | TBD | {still don't know this one}
+| % completed of courses | Visual bar of percentage of course completed for each direct report | Learner behavior and interest |
+| Total assigned | Total assigned content to direct reports | Required content totals |
+| In Progress assignments | Number of started but not completed assignments | Reminders may be necessary |
 
 #### Automation of manager chain
 
+{setting this up is on hold until EdCast resolved key ongoing issues}
+
 1. EdCast syncs with BambhooHR to pull manager data. This automation runs on a [time/cadence].
 1. The option to edit this manager field needs to stay `on` for all users in GitLab Learn. We want to enable customer and community teams to use GitLab Learn as a group, making manager and direct report assignemnts. If we shut the feature off, then the manager features would only be accessible by the GitLab Team. [need to explore if this is what we want - ask Kendra in terms of customer user case]
+
+### Leaderboard Points
+
+{Add screenshots of points earned and reference in table above}
 
 ### User privacy in GitLab Learn
 
