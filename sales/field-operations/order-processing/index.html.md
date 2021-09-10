@@ -95,7 +95,7 @@ GitLab uses 5 quote templates to support each type of transaction. The following
 
 | Template                            | Use For                                                                                                  |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Standard Order Form                 | Most quotes, including AWS, IBM, GCP, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
+| Standard Order Form                 | Most quotes, including alliance marketplace transactions, EDU/OSS/YC, or Customers with an Existing Agreement (MSA) in place |
 | Standard Order Form (Hide Discount) | Hide the Discount and List Price Column for Direct Deals. Otherwise Identical to the Standard Order Form |
 | Authorized Reseller Order Form      | Authorized Reseller Transactions                                                                         |
 | MSP Order Form                      | Managed Service Provider Transactions                                                                    |
@@ -496,13 +496,13 @@ For assistance with a Subscription Transfer Agreement please open a Legal Reques
 GitLab provides free licenses to qualifying entities through the Community Programs: [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/) and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/). All applications to these programs are routed through the [Community Programs application workflow](https://about.gitlab.com/handbook/marketing/community-relations/community-operations/community-program-applications/). **Only Community Relations team members** should handle these applications and opportunities because the team verifies program requirements before issuing/renewing licenses and these opportunities are handled differently since the opportunities are free.
 
 #### Inquiry and Application Process (Leads or Contacts)
-1. If an existing contact or new lead is interested in applying to one of the programs, direct them to the appropriate application form: [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/)and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/) or send the appropriate inquiry template: [Education Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#edu-basic-info-on-edu-program), [Open Source Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#oss-oss-basic-program-information), or [Startups Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#startups-providing-basic-program-information). If the lead has specific questions, direct them to send an email to education@gitlab.com, startups@gitlab.com, or opensource@gitlab.com. Then reassign the lead to the appropriate program manager: Christina Hupy for GitLab for Education and Nuritzi Sanchez for GitLab for Open Source and GitLab for Startups. 
+1. If an existing contact or new lead is interested in applying to one of the programs, direct them to the appropriate application form: [GitLab for Education Program](https://about.gitlab.com/solutions/education/), [GitLab for Open Source Program](https://about.gitlab.com/solutions/open-source/)and [GitLab for Startups Program](https://about.gitlab.com/solutions/startups/) or send the appropriate inquiry template: [Education Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#edu-basic-info-on-edu-program), [Open Source Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#oss-oss-basic-program-information), or [Startups Program inquiry template](/handbook/marketing/community-relations/community-operations/community-program-applications/email-and-zendesk-macros/#startups-providing-basic-program-information). If the lead has specific questions, direct them to send an email to education@gitlab.com, startups@gitlab.com, or opensource@gitlab.com. Then reassign the lead to the appropriate program manager.
 1. In the situation that you need direct assistance with the lead/contact, chatter the program manager in Salesforce with a note about the requested action. 
 1. When an applicant applies to one of the programs, the program managers will receive a notification via the Zendesk-Marketo integration. All in-bound applicants will automatically be turned into a lead and assigned to the program managers as part of this process.
 
 #### Assigning Opportunities and Renewal Opportunities
-1. All Education opportunities should be owned by Christina Hupy and all open source or startup opportunities should be owned by Nuritzi Sanchez.
-1. If you need to assign an opportunity or a renewal opportunity to Christina Hupy or Nuritzi Sanchez, please chatter the program manager in Salesforce. 
+1. All Education opportunities should be owned by the Manager, Education Programs and all open source or startup opportunities should be owned by Sr. Open Source Program Manager.
+1. If you need to assign an opportunity or a renewal opportunity to the Manager, Education Programs or the Sr. Open Source Program Manager, please chatter the program manager in Salesforce. 
 
 ### **How to Submit a Quote for Discount and Payment Term Approval**
 
@@ -714,19 +714,6 @@ If you are a quote approver and will be out of office for any duration of time, 
 
 Note: If you are a Delegated Approver and are not recieving approval emails, contact sales-support for assitance.     
 
-
-#### Quote Metrics
-
-The following quote metrics are available:
-
- * MRR (Monthly Recurring Revenue) - Monthly recurring revenue (MRR) calculates subscription recurring fees normalized to a monthly value.
- * Delta MRR - Delta of the total MRRs between the original subscription and the amendment.
- * TCV (Total Contract Value) - Total contract value (TCV) calculates the total recurring charges over the lifetime of a subscription.
- * Delta TCV - Delta of the TCVs between the original subscription and the amendment.
- * Sub-total - The quote subtotal for the specified billing periods, excluding discount charges and taxes.
- * Discount - The sum of all discount charges for the specified billing periods.
- * Tax - The tax calculated for the specified billing periods.
- * Total - The quote total for the specified billing periods, including discount charges and taxes.
 
 #### Approving Multiple Product Tiers on One Quote
 
