@@ -102,11 +102,11 @@ Salesforce [chatter](/handbook/sales/field-operations/sales-operations/deal-desk
 1. [Updating or creating Opportunity Splits ](/handbook/sales/forecasting/#opportunity-splits)
 1. [Salesforce Lightning for Gmail](/handbook/sales/prospect-engagement-best-practices)
 1. [Support from the Community Advocacy Team](/handbook/marketing/revenue-marketing/sdr/#working-with-the-community-advocacy-team)
-1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/#segmentation)
+1. [DataFox/Zoominfo segmentation conflicts](/handbook/sales/field-operations/gtm-resources/)
 1. [Reassigning to a Territory Rep](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
 1. [Requesting Reassignment](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
-1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/#record-creation-in-salesforce)
-1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+1. [If LEAD or CONTACT is owned by SDR team member](/handbook/sales/field-operations/gtm-resources/)
+1. [Locked Deal](/handbook/sales/field-operations/gtm-resources/)
 1. [Deal Desk assistance](/handbook/sales/field-operations/sales-operations/deal-desk/#salesforce-chatter-communication)
 
 </details>
@@ -630,7 +630,7 @@ The Pipeline Health Check Dashboards will be sent to each regional team for thei
 
 - [Account Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#objectives)
 - [Opportunity Ownership Rules of Engagement Handbook](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-ownership-rules-of-engagement)
-- [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/#changing-ownership-in-salesforce)
+- [Changing Ownership in Salesforce](/handbook/sales/field-operations/gtm-resources/)
 - [Order Type Rules of Engagement](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/#opportunity-order-type-rules-of-engagement)
 
 ### **Territory Management**

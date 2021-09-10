@@ -54,7 +54,7 @@ Code Units:
 
 ## Contact Ownership
 
-**Business Process this supports:** This supports our [contact ownership rules](/handbook/sales/field-operations/gtm-resources/#changing-contact-ownership-in-salesforce)
+**Business Process this supports:** This supports our [contact ownership rules](/handbook/sales/field-operations/gtm-resources/)
 
 **Overview:** The goal of the Contact Ownership code is to ensure that contacts are owned by the appropriate user within salesforce in an automated fashion so that contact ownership is maintained without any work needed by team members. 
 
@@ -267,7 +267,7 @@ Code Units:
 
 ## Lead Segmentation
 
-**Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
+**Business Process this supports:** [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
 
 **Overview:** Leads should be sorted into different Sales Segments based on their company's employee count so the appropriate salesperson can pursue them. We have a number of different information sources to get company size, so we must also establish a hierarchy for them.
 

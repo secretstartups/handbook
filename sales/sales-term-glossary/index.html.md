@@ -101,7 +101,7 @@ For this reason, **New Logos for the PubSec team are defined as opportunities wh
 
 ### Customer Segmentation
 
-Customer segmentation follows the segmentation as laid out in the [Go to Market Handbook](/handbook/sales/field-operations/gtm-resources/#segmentation) at the [Parent Account level](#customers).
+Customer segmentation follows the segmentation as laid out in the [Go to Market Handbook](/handbook/sales/field-operations/gtm-resources/) at the [Parent Account level](#customers).
 
 ### Customer Counts
 
@@ -474,7 +474,7 @@ The number of contracted users on active paid subscriptions. Excludes OSS, Educa
 
 ### Sales Qualified Lead (SQL)
 
-[Sales Qualified Lead](/handbook/sales/field-operations/gtm-resources/#customer-lifecycle)
+[Sales Qualified Lead](/handbook/sales/field-operations/gtm-resources/)
 
 
 ### User Hierarchy

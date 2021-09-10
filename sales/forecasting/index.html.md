@@ -50,7 +50,7 @@ See the [Command Plan](/handbook/sales/command-of-the-message/command-plan/) Han
 
 ### Default Salesforce Stage to Forecast Category and Churn Renewal Mapping
 
-See the [Opportunity Stages overview](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) for more information. 
+See the [Opportunity Stages overview](/handbook/sales/field-operations/gtm-resources/) for more information. 
 
 ### Forecast Categories Definitions
 There are five types of categories we review when your forecasts are pushed to Clari:
