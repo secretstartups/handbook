@@ -83,10 +83,10 @@ To gain access to SAFE Dashboards:
 * [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
 * [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
 
-#### Data Models
+#### Data Models and Processes
 
 * [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
-* [SaaS Usage Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
+* [SaaS Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 * [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 
 #### Analytics Projects
