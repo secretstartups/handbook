@@ -107,6 +107,19 @@ A nice way to celebrate a team member's new addition to their family is by hosti
    * To apply for this coaching program, follow the [Growth & Development process (Over $1,000 USD)](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#how-to-apply-for-growth-and-development-benefits).
 * Read [GitLab's guide to parenting as a remote worker](/company/culture/all-remote/parenting/)
 * Consider reaching out to a [Parental Leave Reentry Buddy](#parental-leave-reentry-buddies)
+* Watch the video below from [Crucial Conversations](https://about.gitlab.com/handbook/leadership/crucial-conversations/) entitled `How Working Moms can Do it All`: 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/IRvsi-zsKvM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+* Watch the video below from [Crucial Conversations](https://about.gitlab.com/handbook/leadership/crucial-conversations/) entitled `How Working Moms can Ask for Help at Home`
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/6CHPChKAsBE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Parental Leave Policy Feedback
 
