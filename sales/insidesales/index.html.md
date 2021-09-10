@@ -135,4 +135,4 @@ As it relates to retirement of quota, we will refer to the Closed Won date as we
 
 | Link | Type  | Purpose           | 
 | ----- | ----- | ---------------- |
-| [Territory Change Request](https://about.gitlab.com/handbook/sales/territories/#territory-ownership-isr) | Sales Operations | This process is used by sales operations, ISR management, and regional sales directors to update ISR alignment|
+| [Territory Change Request](https://about.gitlab.com/handbook/sales/territories/) | Sales Operations | This process is used by sales operations, ISR management, and regional sales directors to update ISR alignment|

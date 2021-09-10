@@ -54,9 +54,9 @@ All team members from Commercial Sales are expected to implement the [Required 7
 
 Overview of the divided territories and owners for `SMB segment`. This territory page also shows Account owners for the other segments (`Mid Market` and `Strategic`)
 
-- [EMEA](/handbook/sales/territories/#emea-2)
-- [AMER](/handbook/sales/territories/#amer-2)
-- [APAC](/handbook/sales/territories/#apac-2)
+- [EMEA](/handbook/sales/territories/)
+- [AMER](/handbook/sales/territories/)
+- [APAC](/handbook/sales/territories/)
 - Follow the [rules of engagement (ROE)](/handbook/sales/commercial/#account-ownership-rules-of-engagement-for-commercial-sales) when an account is wrongly routed into your name
 
 #### Team Dashboards
