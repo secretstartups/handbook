@@ -17,7 +17,7 @@ We don't test fixes for typos, link updates, or other structural improvements to
 1. Improve customer experience
 
 ### Always be testing
-Testing requires a control and a variant within the same time period, while holding all other variables constant. Using A/B testing tools allow us to create tests to follow testing best practices and gather data about what works or does not work to encourage people to spend time on our site or [convert on a form](/handbook/sales/field-operations/gtm-resources/#mql-definition-and-scoring). With testing, we can make informed decisions about what works for our audience and helps them reach their goals, and what works for us to help use meet our business goals.
+Testing requires a control and a variant within the same time period, while holding all other variables constant. Using A/B testing tools allow us to create tests to follow testing best practices and gather data about what works or does not work to encourage people to spend time on our site or [convert on a form](/handbook/sales/field-operations/gtm-resources/). With testing, we can make informed decisions about what works for our audience and helps them reach their goals, and what works for us to help use meet our business goals.
 
 ### Types of experiments
 
