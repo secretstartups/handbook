@@ -221,6 +221,6 @@ Below are the **WEEKLY TASK** you’ll need to perform within Clari. Navigate to
 1. NET 50/50
     - **Click “Net ARR”, then Click “Net 50/50”.** This field should have the value for what you believe will be the actual forecast for your team. If you consider the Commit as the floor and Best Case as the ceiling, then the 50-50 is what is the most likely outcome.
 
-For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting/#clari-for-salespeople-instructional-videos)**.
+For in-depth training on Clari go to the **[Clari for Salespeople Instructional Videos](/handbook/sales/forecasting/)**.
 
 Now you are ready to move into the next phase of the sales cycle, **[Facilitating the Opportunity](/handbook/sales/sales-operating-procedures/facilitate-the-opportunity/)**.

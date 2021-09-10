@@ -42,7 +42,7 @@ Exciting news for FY22! We have migrated our existing commission system to Xactl
 
 | **GETTING STARTED** | **QUOTAS** | **COMMISSION PLANS** |
 | --------------- | ------ | ---------------- |
-| [**FY21 Sales Compensation Plan**](/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63) | [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](/handbook/sales/commissions/#quota-components)<br><br>[**Month 1 Ramp Schedule: 15 Day Rule**](/handbook/sales/commissions/#month-1-ramp-schedule)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](/handbook/sales/commissions/#opportunity-splits) |
+| [**FY21 Sales Compensation Plan**](/handbook/finance/sales-comp-plan/)<br><br>[**FY21 Commission Program**](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g153a2ed090_0_63) | [**Quotas Overview**](/handbook/sales/commissions/#quotas-overview)<br><br>[**Quota Components**](/handbook/sales/commissions/#quota-components)<br><br>[**Month 1 Ramp Schedule: 15 Day Rule**](/handbook/sales/commissions/#month-1-ramp-schedule)<br><br>[**Seasonality Assumptions**](/handbook/sales/commissions/#seasonality-assumptions) | [**Commissions Overview**](/handbook/sales/commissions/#commissions-overview)<br><br>[**FY21 Commission Program Terminology**](/handbook/sales/commissions/#fy21-commission-program-terminology)<br><br>[**Commissions Rules**](/handbook/sales/commissions/#commissions-rules)<br><br>[**Commission Hold and Releases**](/handbook/sales/commissions/#hold-and-releases)<br><br>[**Participant Schedules**](/handbook/sales/commissions/#participant-schedules)<br><br>[**Opportunity Splits**](/handbook/sales/commissions/) |
 
 ## **Quotas Overview**
 
@@ -240,7 +240,7 @@ Within the first few weeks of your employment, you should receive your participa
 
 Credit splits are allowed at an opportunity level and can be requested by native-quota carrying salespeople. Opportunity splits must be requested before any work is shared on an opportunity and approved prior to the closed won date.
 
-- Follow [Opportunity Split approval process](/handbook/sales/forecasting/#opportunity-splits)
+- Follow [Opportunity Split approval process](/handbook/sales/forecasting/)
 - On approval opportunity split crediting and commissions will be automatically calculated in CaptivateIQ commissions system
 
 ## **Sales Representation Letter**
