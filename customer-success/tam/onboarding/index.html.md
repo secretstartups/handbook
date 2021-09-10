@@ -21,7 +21,7 @@ The customer onboarding phase is critical to getting a customer started on a suc
 
 ## Onboarding steps
 
-The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating"](/handbook/sales/field-operations/gtm-resources/#opportunity-stages) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opportunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
+The onboarding process should begin when the [customer opportunity reaches stage "5-Negotiating"](/handbook/sales/field-operations/gtm-resources/) in order to introduce the TAM while we have high-touch engagement to close the opportunity. Once an [opportunity that will qualify a customer for TAM alignment](/handbook/customer-success/tam/services/#tam-alignment) reaches stage 5, a [Gainsight CTA will be created](#cta-creation-criteria) for the TAM Manager to assign the customer to a TAM. The assigned TAM should then start the onboarding process with the rest of the [account team](/handbook/customer-success/account-team/).
 
 ⚠️ **NOTE:** Please review the [time to value metrics](#time-to-value-metrics) for target completion timeline.
 
