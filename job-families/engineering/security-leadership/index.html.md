@@ -65,7 +65,7 @@ The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/
 #### Senior Manager, Security Requirements
 
 - Technical credibility: Significant experience in multiple domains of sub-department
-- Management credibility: 3 years experience in Security management
+- Management credibility: relevant, progressive experience in Security management
 - Ability to understand, communicate and improve the quality of multiple teams
 - Demonstrate longevity at at least one recent job
 - Ability to be successful managing at a remote-only company
@@ -99,7 +99,7 @@ The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compens
 
 #### Director, Security Assurance Requirements
 * Proven ability to successfully recruit, manage, motivate and develop high performing teams
-* At least 8 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
 
 ### Hiring Process
@@ -133,7 +133,7 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 
 #### Director, Security Engineering & Research Requirements
 * Proven ability to successfully recruit, manage, motivate and develop high performing teams
-* At least 8 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation
 
 ### Hiring Process
@@ -211,7 +211,7 @@ The  Senior Director, Security is a [grade 11](/handbook/total-rewards/compensat
 #### Senior Director, Security Requirements
 
 - Technical credibility: Significant experience in all domains within sub-department
-- Management credibility: 7 years experience in Security management leadership
+- Management credibility: Relevant, progressive experience Security management leadership
 - Ability to understand, communicate and improve the quality of multiple teams
 - Demonstrate longevity at at least one recent job
 - Ability to be successful managing at a remote-only company
@@ -251,7 +251,7 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 GitLab’s VP of Security must have all of the following attributes.
 
 Must-haves:
-* At least 10 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Excellent written and verbal communication skills
 * Be able to quickly hire top-quality team members and managers
 * Experience managing a multi-level security organization with managers and IC’s
