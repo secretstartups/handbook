@@ -915,7 +915,7 @@ Theoretically you can have multiple people in a room with their own equipment bu
 1. Do not use acronyms when you can avoid them. Acronyms have the effect of excluding people from the conversation if they are not familiar with a particular term. Example: instead of `MR`, write `merge request (MR)`.
    1. If acronyms are used, expand them at least once in the conversation or document and define them in the document using [Kramdown abbreviation syntax](https://kramdown.gettalong.org/syntax.html#abbreviations). Alternatively, link to the definition.
    1. If you don't know the meaning of an acronym, ask. It's always ok to [speak up](handbook/values/#share).
-1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/#segmentation).
+1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market, and Small Medium Business (SMB)](/handbook/sales/field-operations/gtm-resources/).
 
 ## Visuals
 
@@ -1001,7 +1001,7 @@ We want to use MECEFU terms to describe a domain to ensure efficient communicati
 1. Few words: the longer terms are the more likely it is people will not use all of them and cause confusion, therfore consider two words as the upper limit for a single term. Avoid acronyms because they are hard to remember (we're open to a few words to replace MECEFU as an acronym :)
 1. Ubiquitous language: [defined above](#ubiquitous-language)
 
-An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation):
+An example of a MECEFU term is our [sales segmentation](/handbook/sales/field-operations/gtm-resources/):
 
 1. Mutually Exclusive: There is no overlap between the numbers and there is a single dimension.
 1. Collectively Exhaustive: Everything for 0 to infinite employees is covered.
