@@ -190,6 +190,22 @@ To gain access to the data warehouse:
 - Create an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required.
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
+- When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role). 
+
+#### Accessing SAFE Data
+All SAFE Data are stored in tables within seperate database schemas in Snowflake. Access to 1 table provides access to all SAFE tables. Access to SAFE data requires:
+
+1. Your immediate manager's approval
+2. Departmental VP (or equivalent) approval
+3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index
+
+To gain access to SAFE Data:
+
+1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
+2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header.
+3. Once the request is approved, tag the Snowflake provisioners and they will process the request.
+4. After processing is complete you will be able to login to Sisense and access your requested SAFE dashboard and all other dashboards within the SAFE Dashboard Space.
+
 
 ### Snowflake Permissions Paradigm
 
