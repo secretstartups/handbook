@@ -137,13 +137,13 @@ Open - Resellers, integrators and other sales and services partners join the pro
 
 ### Partners can help you scale and working with them is comp neutral
 
-[Channel Neutral Compensation](/handbook/sales/commissions/#channel-neutral-compensation)
+[Channel Neutral Compensation](/handbook/sales/commissions/)
 
-To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total Net ARR to GitLab (via discounts or rebates). More information can be found on the [compensation page](/handbook/sales/commissions/#channel-neutral-compensation).
+To incentivize working with our Channel partners, 'Channel Neutral' means that we will not reduce $ value to individual sellers even if the Channel business reduces total Net ARR to GitLab (via discounts or rebates). More information can be found on the [compensation page](/handbook/sales/commissions/).
 
 FY21 commissions will be channel neutral for all deals through partners (including Distributors, if applicable), which means standard partner discounts are credited back to the salesperson and must follow [order processing procedures](/handbook/business-ops/order-processing/) to correctly flag partner attribution. Total Net ARR on the deal after all discounts will count towards quota credit, but the channel neutral amount does not qualify for quota credit and only pays out for compensation at BCR. See Channel Neutral section referenced in the [FY21 Commission Plan presentation](https://docs.google.com/presentation/d/1lPZAmdHPPJwhJ4felwsgDXopIt7Usn3UnK5siOpQMlY/edit#slide=id.g7da31a6494_6_0)
 
-Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/#fy21-professional-services-spiff-v2). So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
+Partner Services also qualify for [FY21 Professional Services Spiff (v2)](/handbook/sales/commissions/). So as partners help customers adopt and expand their GitLab deployments, they can earn a Services Attach rebate and the GitLab sales team can earn the Professional Services Spiff.
 
 ### Maximizing value by working with Channel Partners
 
