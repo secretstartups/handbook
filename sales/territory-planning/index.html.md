@@ -23,5 +23,3 @@ To get started, you'll need to understand how the territory looks.
 1. Understand the routes to market: Direct, Channel, and taking advantage of customer initiatives/ Programs 
 1. Use [Demandbase](/handbook/marketing/revenue-marketing/account-based-strategy/demandbase/), GitLab's targeting and personalization platform, to review intent data and ideal customer profiles  
 
-Once you've organized your accounts and understand your routes to market, you can determine which resources to engage with to begin [Account Planning](/handbook/sales/account-planning/).
-

@@ -205,8 +205,7 @@ This field inherits data from other fields in the following priority:
 1. Admin Manual Override (if present) 
 2. Datafox 
 3. Zoominfo 
-4. Shipping Address 
-5. Billing Address
+4. Billing Address
 
 ### Industries & Sub-Industries
 
