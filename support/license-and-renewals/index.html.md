@@ -223,8 +223,8 @@ The queue should not be used for the following:
   * [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-ops/enterprise-applications/applications/)
   * [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-ops/enterprise-applications/applications/troubleshooting/)
 * [Sales](/handbook/sales/)
-  * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
-  * [Sales Territories](/handbook/sales/territories/)
+  * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
+  * [Sales Territories](/handbook/sales/territories/#territories)
 * [Marketing](/handbook/marketing/)
   * [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 
