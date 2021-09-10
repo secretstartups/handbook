@@ -116,7 +116,7 @@ Note: The instructions on GitHub have some extra things you won't need. Really, 
 
 `docker pull erikvl87/languagetool` 
 
-`docker run --rm -p 8010:8010 erikvl87/languagetool`
+`docker run -d --restart unless-stopped -p 8010:8010 erikvl87/languagetool`
 
 ### Simplenote
 
