@@ -1008,7 +1008,7 @@ AWS Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create a quote object per standard practice, and enter Amazon Web Services as the Invoice Owner. The Invoice Owner Contact field should remain blank. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
+1. Create a quote object per standard practice, and **enter "Amazon Web Services, Inc." as the Invoice Owner. The Invoice Owner Contact field should reflect "Accounts Payable" (ensure the correct Accounts Payable contact from the Amazon Web Services SFDC account is selected)**. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. Once Order Form PDF is generated, chatter Emily Murphy (Alliance Ops) to create Private Offer. Work with Alliances to provide Private Offer to customer for acceptance. Reach out to Pete Goldberg with additional questions.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to AWS is taken into account upon booking. Compensation for AWS deals will be channel neutral specifically for the margin to AWS.
@@ -1035,7 +1035,7 @@ GCP Private Offer Transactions have a unique process flow, from quoting to oppor
 
 Quoting:
 
-1. Create a quote object per standard practice, and enter Google Cloud Marketplace as the Invoice Owner, and Cloud Marketplace Payments as the Invoice Owner Contact. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
+1. Create a quote object per standard practice, and **enter "Google Cloud Marketplace" as the Invoice Owner, and "Cloud Marketplace Payments" as the Invoice Owner Contact**. The Sold To contact must be the individual who will receive the license. Use the Standard Order Form quote template. 
 1. Any additional discounts, non-standard payment terms, or other devitation from standard terms will require approval per the approval matrix. Such approvals must be obtained BEFORE applicable terms are relayed to the customer.
 1. [Open a new issue](https://gitlab.com/gitlab-com/alliances/google/gitlab-tracker/-/issues/new?issuable_template=marketplace_deal) with the Alliance team to create the Private Offer. Please use the issue template *marketplace_deal* and fill out the description including the Order Form from Salesforce. When generating the PDF, be sure to select the GCP Quote Template before generating a PDF. Note that the Order Form's purpose is to highlight what is being sold, and will not be signed by the end customer. The Private Offer must reference the GitLab Quote Number, and must match the deal elements as approved on the SFDC quote object / Order Form. Work with Alliances to provide Private Offer to customer for acceptance. Note that the Private Offer references GitLab's subscription terms, and that the customer's acceptance of the Private Offer signifies their acceptance of GitLab's subscription terms.
 1. Note that Net ARR will reflect the net price on the opportunity, after the margin to GCP is taken into account upon booking. Compensation for GCP deals will be channel neutral specifically for the margin to GCP.
@@ -1077,6 +1077,7 @@ Example Opportunity: https://gitlab.my.salesforce.com/0064M00000ZFzVI
   - Region: NORAM, Sub-Region: US East
 3. Create a quote per standard practice, and enter the following information:
   - Invoice Owner = IBM OEM (Alliance Partner)
+  - Invoice Owner Contact = IBM Ecosystem Project Office
   - Sold To Contact = IBM Ecosystem Project Office
   - Bill To Contact = IBM Ecosystem Project Office
   - Purchase Order # - Enter PO Number (see "PO" column)
