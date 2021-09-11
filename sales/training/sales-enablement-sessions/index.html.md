@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 16 | New Golden Pitch Deck | TBD |
+| Sep 16 | No planned session at this time | TBD |
 | Sep 23 | TBD | TBD |
 | Sep 30 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood |
 | Oct 7  | FY22-Q3 Competitive Update | TBD |
