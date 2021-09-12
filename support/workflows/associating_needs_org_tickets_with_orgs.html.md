@@ -194,7 +194,7 @@ To associate a user with an organization:
 - If the user exists in Zendesk but not in SFDC, associate the user to the organization in
   Zendesk, refresh the Zendesk Apps (click the refresh arrow in the top right)
   and then use the
-  [SFDC Tool app](../support-ops/documentation/zendesk_global_apps.html.md#sfdc-tool)
+  [SFDC Tool app](../support-ops/documentation/zendesk_global_apps.html#sfdc-tool)
   to add the user as a contact under the organization in SFDC. Refresh the apps once
   more to confirm they were added properly. If this does not work, please
   contact Support Ops via the #support_operations slack channel.
