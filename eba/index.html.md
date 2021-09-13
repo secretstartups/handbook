@@ -241,5 +241,24 @@ Sample Questions:
 * Scan and email?
 * Send originals where?
 
+### Virtual Team Building Ideas
+
+Games
+Hosted
+* [TeamClass](https://www.teamclass.com/) (Private virtual team building events that ship kits nationwide)
+* [Trivia, Charades, Pictionary](https://www.letsroam.com/team_building_activities/virtual_team_building/?utm_source=snacknation&utm_medium=blog&utm_term=virtualteambuilding&cjevent=snacknation)
+* [Clue Murder Mystery, Team Pursuit, Game Show Extravaganza, or Code Break](https://www.outbackteambuilding.com/ca/remote/virtual-team-building-activities/)
+* [Tea vs Coffee tasting](https://tea-vs-coffee.com/?_ga=2.247653248.688593637.1601499129-156624589.1601499129)
+* [Virtual Survey Says](https://www.teambonding.com/virtual-events/virtual-survey-says/) - FieldOps Team did this event and loved it. Host was great.
+* [Speakeasy VIRTUAL Team Building Events](https://www.thespeakeasysf.com/) ---> Brochure: https://drive.google.com/file/d/13qtyaplMP3t_zawqvPw4a4ROB4Xib168/view?usp=sharing - recommended by David Sakamoto
+* [Teambonding](https://www.teambonding.com/virtual-events/) - Quickfire Olympics - FieldOps team did this event (wasn’t as good as Survey Says!) 
+* [Teambuilding]9https://teambuilding.com/) - Trivia - FieldOps team enjoyed Trivia, hosts were high energy.
+
+Not Hosted
+*Online Team Building Bingo (free!)
+*Virtual Time Capsule (free!)
+
+
+
 
 
