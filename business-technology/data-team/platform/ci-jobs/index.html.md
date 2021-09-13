@@ -23,6 +23,13 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * Confirm [model selection syntax](https://docs.getdbt.com/reference/node-selection/syntax). In general, it is easiest to simply use the file names of the models you are changing. 
 * If still uncertain, tag @gitlab-data/data-engineers (or any individual engineer if urgent assistance is required) on your issue and request assistance in resolving the issue.  
 
+### Pipeline variables not being passed to the job
+
+* There is currently an issue with the GitLab CI pipelines. Pipelines which require variables to be passed through to them only allow for this to happen once.
+* This means that if you would like to test using the dbt models pipelines to run the process for a second time you should create a new pipeline. 
+* The easiest way to do to this is to click the blue run pipeline button as below: 
+![run_pipeline_button.png](run_pipeline_button.png)
+
 ## Stages
 
 CI jobs are grouped by stages.
