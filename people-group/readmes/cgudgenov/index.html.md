@@ -39,13 +39,13 @@ Hi! 👋 I'm **Cassiana Gudgenov, People Compliance Partner**
 
 🔗[**INFP**: Mediator](https://www.16personalities.com/infp-personality)
 
-A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These rare personality types tend to be quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do.
+A Mediator (INFP) is someone who possesses the Introverted, Intuitive, Feeling, and Prospecting personality traits. These personality types tend to be "quiet, open-minded, and imaginative, and they apply a caring and creative approach to everything they do".
 
 ### DiSC Profile
 
 🔗[**S**: The Supporter](https://www.crystalknows.com/disc/s-personality-type)
 
-People with the S (Supporter) personality type tend to be calm, patient and respectful. I also connect with the IS (Harmonizer) type as someone who is warm, even-tempered, accepting, posiive and joyful.
+People with the S (Supporter) personality type tend to be "calm, patient and respectful". I also connect with the IS (Harmonizer) type as someone who is often described as "warm, even-tempered, accepting, positive and joyful".
 
 ## Strengths
 
