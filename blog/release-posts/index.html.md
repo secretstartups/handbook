@@ -419,7 +419,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
   - Assign the MR to the relevant Product Marketing Manger, and/or Director if additional review is needed
   - Once all content is reviewed and complete, add the `Ready` label and assign MR to the appropriate Engineering Manager (EM) to merge when the feature is deployed and enabled.
 
-  **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process. Either underscores `_` or hyphens `-` can be used as long as the correct prefix is used (`stagename`, `dep`, `removal`, or `upgrade`) as listed below.
+  **Important note on naming files**: PMs should create file names that are descriptive and have reasonable overlap with the title of the content block itself. This makes it easier to related content blocks to yml file by different participants in the review process. Either underscores `_` or hyphens `-` can be used as long as the correct prefix is used (`stagename`, `removal`, or `upgrade`) as listed below.
 
   - Feature file names: `stagename-featurename.yml` (for example, `create-group-wikis.yml`). **Do not:**
     - Designate primary vs secondary as that can change.
