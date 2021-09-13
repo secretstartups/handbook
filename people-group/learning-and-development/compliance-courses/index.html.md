@@ -37,7 +37,7 @@ We have four separate trainings, but you only need to complete one of them. For 
 |---------|-----------------|------------------| 
 | Supervisor | Not in the United States | [**Anti-Harassment Training for Non-U.S. Supervisors**](https://docs.google.com/document/d/1iPJtkEWpqHijkrRDqcw_khW4eFNMFCRG2wWs0rLvzPQ/edit?usp=sharing) |
 | Individual Contributor | Not in the United States | [**Anti-Harassment Training for Non-U.S. Team Members**](https://docs.google.com/document/d/1UNgLozq4KhnJwoE4Fuw_ygFzMchTriYfjyNAwXycs0s/edit?usp=sharing) |
-| Individual Contributor | In the United States and NOT in Connectiut | [**Anti-Harassment Training for U.S. Team Members**](https://docs.google.com/document/d/1Nm1GxbjTixS7goig0YuyXUPibYqKFRtFD1xVvxiR06o/edit?usp=sharing) | 
+| Individual Contributor | In the United States and NOT in Connecticut | [**Anti-Harassment Training for U.S. Team Members**](https://docs.google.com/document/d/1Nm1GxbjTixS7goig0YuyXUPibYqKFRtFD1xVvxiR06o/edit?usp=sharing) | 
 | Individual Contributor | In the United States and IN Connecticut | [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing) | 
 | Supervisor | In the United States | [**Anti-Harassment Training for U.S. Supervisors**](https://docs.google.com/document/d/17QLry3O0T_FNZV69QBJfjcYOhag0f8HwHBxCH9vTlaQ/edit?usp=sharing) | 
 
