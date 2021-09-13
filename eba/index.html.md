@@ -255,8 +255,8 @@ Hosted
 * [Teambuilding]9https://teambuilding.com/) - Trivia - FieldOps team enjoyed Trivia, hosts were high energy.
 
 Not Hosted
-*Online Team Building Bingo (free!)
-*Virtual Time Capsule (free!)
+* Online Team Building Bingo (free!)
+* Virtual Time Capsule (free!)
 
 
 
