@@ -54,16 +54,16 @@ Simplified process description:
 
 ## Customer Security Assurance
 
-Follow the process detailed in the [GitLab's Customer Assurance Activities](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html)
+Follow the process detailed in the [GitLab's Customer Assurance Activities](handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html)
 handbook page.
 
 Simplified process description:
 
 - Start with [Security - GitLab Trust Center](https://about.gitlab.com/security/).
-- Encourage customers to use and review [Self-service Information Gathering](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
+- Encourage customers to use and review [Self-service Information Gathering](handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html#customer-self-service-information-gathering).
 - SAs are expected to attempt a first-pass for all security questionnaires
     - Do it, it’s fun and educational!
-    - Make use of the [GitLab AnswerBase](/handbook/engineering/security/security-assurance/risk-field-security/common-security-questions.html) (200+ pre-answered questions)
+    - Make use of the [GitLab AnswerBase](handbook/engineering/security/security-assurance/field-security/common-security-questions.html) (200+ pre-answered questions)
 - Additional requests can be made in [#sec-fieldsecurity](https://gitlab.slack.com/archives/CV5A53V70) Slack Channel.
 - It is critical to ensure we capture the initial time dedicated by the SAs in this process in our SA Activity Capture system (troops) to be able to increase future efficiencies 
 
@@ -121,7 +121,7 @@ Solution Architects should participate in [technical discovery](#technical-disco
 - Prospect Q&A sessions
 - RFI/RFP completion
 - PoV planning, documentation and execution strategy 
-- [Security Audits](https://about.gitlab.com/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html)
+- [Security Audits](https://about.gitlab.comhandbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html)
 - [SOW Scoping with Professional Services] (https://about.gitlab.com/handbook/customer-success/professional-services-engineering/selling/)
 
 SA's may also work in tandem with a TAM to support existing customers, especially when expand opportunities exist within the account. And SA's may also have regular touch points smaller customers who do not have a TAM assigned.
