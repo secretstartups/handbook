@@ -50,7 +50,7 @@ For the following, transfer to Security:
 
 -  Security questionnaires or other requests for documentation
 
-   * [Customer Assurance Procedure](/handbook/engineering/security/security-assurance/risk-field-security/).
+   * [Customer Assurance Procedure](handbook/engineering/security/security-assurance/field-security/).
 
 ### SIRT 
 
