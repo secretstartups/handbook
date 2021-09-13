@@ -426,7 +426,6 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
     - Use category or group name.
     - Include the reporter's name.
 
-  - Deprecation file names: `dep-something-descriptive.yml`
   - Removal file names: `removal-something-else-descriptive.yml`
   - Upgrade file names: `upgrade-another-description.yml`
 
@@ -1297,13 +1296,9 @@ Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecati
   body: | # Do not modify this line, instead modify the lines below.
     <!-- START OF BODY COMMENT
 
-    This area supports markdown.
+    This area supports markdown.  Delete this entire comment and replace it with your markdown content.
 
-    It is recommended to copy and paste the release post entry content here.
-
-    You can shorten it if needed, but remember that the entry itself has already been reviewed by Tech Writing so don't feel like you need to reword anything.
-
-    Delete this entire comment and replace it with your markdown content.
+    When ready, assign to your tech writer to review and merge.
 
     END OF BODY COMMENT -->
   stage: # (optional - may be required in the future) String value of the stage that the feature was created in. e.g., Growth
