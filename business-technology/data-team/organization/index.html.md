@@ -16,7 +16,19 @@ description: "GitLab Data Team Organization"
 
 ## Data Team Organization
 
-The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform & Engineering Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform--engineering-team). Read more about how the team is organized and how we work with the rest of GitLab in [How Data Works at GitLab](/handbook/business-technology/data-team/#how-data-works-at-gitlab).
+The Data Team is organized into centers of technical and subject matter excellence, complemented by __Business-Focused__ and __Business-Involved__ teams responsible for delivering data solutions that we call [**Fusion Teams**](/handbook/business-technology/data-team/#data-fusion-teams). Complementing the Data Fusion Teams by providing a high-performance compute and storage layer, in addition to data sources, pipelines, and analytics tooling is the [Data Platform & Engineering Team](https://about.gitlab.com/handbook/business-technology/data-team/#the-data-platform--engineering-team). And complemeting the Data Teams bu providing advanced analytics is the [Data Science Team](/handbook/business-technology/data-team/#the-data-science-team). Read more about how the team is organized and how we work with the rest of GitLab in [How Data Works at GitLab](/handbook/business-technology/data-team/#how-data-works-at-gitlab).
+
+### Data & Analytics Demos
+
+Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
+
+### Data Program Recruiting Video
+
+We've put together a short [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
+
+## Data Fusion Team Organization
+
+Data Fusion Teams are composed of team members from across the business and the Data Team. Read about the current [Data Fusion Teams](/handbook/business-technology/data-team/#data-fusion-teams) on our front page.
 
 ```mermaid
 classDiagram
@@ -48,8 +60,7 @@ classDiagram
 | `@jeanpeguero` | `@chrissharp` |
 | `@michellecooper` | `@rbacovic`  _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_ |
 | `@paul_armstrong` _DE [Stable Counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts)_ |
-						
-            
+
 ### Fusion Team Operations
 
 Critical to successful Data Fusion Teams are the following elements:
@@ -64,16 +75,6 @@ We encourage our stakeholders to follow along with our issue boards to understan
 2. [R&D](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AR%26D)
 3. G&A: [People](https://gitlab.com/groups/gitlab-data/-/boards/1435002?&label_name[]=People), Engineering Analytics `coming soon`
 4. [Platform](https://gitlab.com/gitlab-data/analytics/-/issues?label_name%5B%5D=Team%3A%3AData+Platform)
-
-### Visibility
-
-#### Data & Analytics Demos
-
-Data & Analytics Demos are a great way for everyone involved in the Data Program to share progress, innovation, collaborate, and just have fun. Data & Analytics Demos are [held every Thursday](https://calendar.google.com/event?action=TEMPLATE&tmeid=Z2Zibm5rbWZvamptajYwOGs4dWI2ODk0c2tfMjAyMTA5MTZUMTUwMDAwWiBnaXRsYWIuY29tX2Q3ZGw0NTdmcnI4cDU4cG4zazYzZWJ1bzhvQGc&tmsrc=gitlab.com_d7dl457frr8p58pn3k63ebuo8o%40group.calendar.google.com&scp=ALL) and recordings are posted to the [GitLab Unfildered Data Team playlist](https://www.youtube.com/playlist?list=PL05JrBw4t0KrRVTZY33WEHv8SjlA_-keI). 
-
-#### Data Program Recruiting Video
-
-We've put together a short [GitLab Data Recruiting](https://youtu.be/4DlwsBIPxUw) video to say "Hi" and give you some insight into how we work and what we work on. Enjoy!
 
 ## Data Roles and Career Development
 
