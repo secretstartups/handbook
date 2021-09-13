@@ -128,13 +128,13 @@ Please see [/handbook/leadership/skip-levels](/handbook/leadership/skip-levels).
 
 ## Your Individual README
 
-A team member's README page is intended to help others understand what it might be like to work with them, especially people who haven’t worked with them before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share your ideas of a good working relationship, to reduce the anxiety of people who may be on your team, now or in the future. 
+A team member's README page is intended to help others understand what it might be like to work with them, especially people who haven’t worked with them before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share your ideas of a good working relationship, to reduce the anxiety of people who may be on your team, now or in the future.
 
 READMEs provide a genuine report on how a person works, reducing bias/assumption and enabling people to work together based on a common framework. As part of GitLab's [transparency](/handbook/values/#transparency) value, we encourage each GitLab team member to consider creating their own README.
 
 ### READMEs by Division
 
-GitLab division README pages are linked below for context. Reading other READMEs is an important way to get ideas on what you can include in yours. Let these serve as a guide and inspiration to you. 
+GitLab division README pages are linked below for context. Reading other READMEs is an important way to get ideas on what you can include in yours. Let these serve as a guide and inspiration to you.
 
 - [Engineering READMEs](/handbook/engineering/readmes/)
 - [Marketing Team READMEs](/handbook/marketing/readmes/)
@@ -143,6 +143,7 @@ GitLab division README pages are linked below for context. Reading other READMEs
 - [People Group READMEs](/handbook/people-group/readmes/)
 - [Finance Team READMEs](/handbook/finance/readmes/)
 - [Legal Team READMEs](/handbook/legal/readmes/)
+- [Chief of Staff Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
 ### Creating Your README
 
