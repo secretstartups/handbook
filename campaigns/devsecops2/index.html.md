@@ -30,7 +30,7 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 {: #campaign-activities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See the FY22 Marketing Calendar for upcoming virtual events & planned DevSecOps campaign >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1628010250)**
+**[See the FY22 Marketing Calendar for upcoming virtual events & planned content around this campaign >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1628010250)**
 
 Primary assets to be used in Always On Lead Generation:
 * :books: Dev focused content (Awareness stage)| [ebook: Building a Modern DevSecOps Software Factory](https://learn.gitlab.com/devsecops-aware/building-modern-devsecops-software-factory)
