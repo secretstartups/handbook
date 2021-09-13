@@ -58,6 +58,9 @@ After you sign your offer and complete your background check and references, you
  - The entire onboarding issue is self-paced however, anything marked with a big red dot - 🔴 - should be completed with importance on the assigned day it is under.
 1. You are going to be overwhelmed when looking at your onboarding issue. This feeling is completely normal. But remember that your manager, onboarding buddy, assigned People Experience Associate, and the entire company is here to help you if you need it. 
     - Two of the best Slack channels to get yourself into to ask questions are `#it-help` and `#people-connect`
+1. New user to Mac, don't worry, many of us were also first time users. If you get your laptop, feel free to explore and get used to using your Macbook (just remembering not to set up an Apple ID). There is this really great [Handbook page](https://about.gitlab.com/handbook/tools-and-tips/mac/) that share different helpful tips and many helpful [YouTube video's](https://www.youtube.com/watch?v=PlruI5ryP8Q). 
+1. We use Slack as our formal/informal communications tool. This allows us to communicate with our team members, teams and wider company. New to Slack? No problem! This [quick start guide](https://slack.com/intl/en-za/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide) will share all the helpful tips on getting you started. 
+1. We do not use the standard operating software and instead have a business account with Google Workspace. We use the [Gmail](https://workspace.google.com/intl/en/products/gmail/) feature to retrieve our emails, we use [Drive](https://workspace.google.com/intl/en/products/drive/) to store all our important documents, and Google [Docs](https://workspace.google.com/intl/en/products/docs/)/[Sheets](https://workspace.google.com/intl/en/products/sheets/) for anything we need to document. 
 
 {::options parse_block_html="true" /}
 
@@ -115,3 +118,7 @@ A: That's absolutely okay. You'll want to make sure to talk with your manager as
 **Q: How long do I have to enroll in benefits?** 
 
 A: You have 30 days fron your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
+
+**Q: What is Family & Friend's Day?**
+
+A: In an ongoing pandemic with COVID-19 affecting many of our team members, we want to ensure that people are making their well-being a top priority and that we are living out our values, to emphasize this we will coordinate a monthly "Family and Friends Day". On this day, we will close the doors to the GitLab virtual office, reschedule all meetings, and have a publicly visible shutdown. You can read up more about it and view the schedule in our [Handbook](https://about.gitlab.com/company/family-and-friends-day/).
