@@ -309,7 +309,7 @@ Please also raise awareness by looping in the appropriate team members from the 
 If you've found that the test is the cause of the failure (either because the application code was changed or there's a bug in the test itself), it will need to be fixed. This might be done by another SET or by yourself. However, it should be fixed as soon as possible. In any case, the steps to follow are as follows:
 
 - Create a merge request (MR) with the fix for the test failure.
-- Apply the ~"Pick into auto-deploy", ~"priority::1", and ~"severity::1" labels.
+- Apply the ~"Pick into auto-deploy", ~"priority::1", and ~"severity::1" labels if the fix is urgent and required to unblock deployments.
 
 If the test was flaky:
 
@@ -351,7 +351,8 @@ To quarantine a test:
 > **Note** If the example has a `before` hook, [the `quarantine` metadata should be assigned to the outer context](#nested-contexts) to avoid running the `before` hook.
 
 - Create a merge request using the [Quarantine End to End Test](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/merge_request_templates/Quarantine%20End%20to%20End%20Test.md) template.
-  - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug", ~"Pick into auto-deploy"`.
+  - The merge request shall have the labels: `~"Quality", ~"QA", ~"bug"`.
+  - The merge request may have auto-deploy labels: `~"Pick into auto-deploy", ~"priority::1", and ~"severity::1"`. Please note that this is reserved for emergency cases only, such as blocked deployments, as it will delay all other deployments by around two hours. 
   - The merge request may have stage or group labels. E.g. `~"devops::create" ~"group::source code"`.
   - The merge request shall have the current milestone.
   - The merge request shall link to (but not close) the failure issue.
