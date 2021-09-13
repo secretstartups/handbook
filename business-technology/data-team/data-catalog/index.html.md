@@ -51,6 +51,8 @@ To gain access to SAFE Dashboards:
 
 ![Sisense Spaces](sisense_spaces_singular.png)
 
+Please see the [Accessing](/handbook/business-technology/data-team/platform/#warehouse-access) SAFE Data in Snowflake for instructions on to access the SAFE data in Snowflake.
+
 `END OF 2021-09-08 SAFE Dashboard Change Announcement`
 
 ## Data By Subject Area
