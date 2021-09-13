@@ -165,12 +165,11 @@ Behavior scoring is based on the actions that person has taken. The cadence of h
 |* Survey - Med|(None Defined)	|+30|	{{my.Survey - Med}}		|Trigger|Everytime|
 |* Survey - Low|Googleforms, <br> Default	|+15|	{{my.Survey - Low}}		|Trigger|Everytime|
 |* PathFactory |Consumes PF content|+10|{{my.Content - High}}|Trigger|Everytime|
-|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
+|* Inbound  - High|Contact Request, <br> Demo, <br> Renewals <br> [Hand Raise PQL](https://about.gitlab.com/handbook/product/product-principles/#a-pql-can-be-further-broken-down-into-two-types-usage-and-hand-raise)|	+100|{{my.Inbound - High}}|	Trigger|	1/day	|
 |* Inbound - Med|Inbound form, not above |	+60|{{my.Inbound - Med}}	|	Trigger	|1/day|
 |Drift - High| Drift Interactions with Meeting Scheduled|+100|{{my.Drift - High}}|Trigger|1/day|
 |Drift - Low|All other Drift Interactions|+10|{{my.Drift - Low}}|Trigger|1/day|
-|* Trial - Business Email | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+100|{{my.Trial}}	|Trigger| 1/day	|
-|* Trial - Personal Email | SaaS,<br>Self-Managed   |	+65|{{my.Trial - Personal}}	|Trigger| 1/day	|
+|* Trial | SaaS,<br>Self-Managed,<br>Subscription Portal   |	+65|{{my.Trial}}	|Trigger| 1/day	|
 |Subscription|Fills out Subscription Form	|+5|{{my.Subscription}}	|Trigger	|1/week	|
 |Visits Key Webpage|`/pricing, /get-started`, `/install`, `/free-trial`	|+5	|{{my.Visits Key Webpage}}	|Trigger|1/day	|
 |Visits Mult Webpages|7 pages in 1 day	|+5	|{{my.Visits Mult. Webpages}}	|Trigger	|1/ 3 days|
@@ -202,6 +201,7 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 
 |**Action**|Campaign Type|**Points**|**Token**|**Type**|**Schedule/Flow Limit**|
 |:-------------:|:-------:|:-----:|:--------:|:-------------:|:-----:|
+|Setup for Company/Team Use|Self-Identified as using for company or team in the product|	+40	|{{my.Setup for Company}}|	Trigger|Once|
 |Focus Account|	[Account Based/Centric](/handbook/marketing/revenue-marketing/account-based-strategy/#gl4300--mm4000)|	+20	|{{my.Focus Account}}|	Trigger|Once|
 |Technology - High (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+20|	{{my.Tech - High}}|	Batch / Nightly|	Once|
 |Technology - Low (Not Live)|[See tech here](https://docs.google.com/spreadsheets/d/1EztHU53vE9Y_mmxlb4taQJ5_oo7CatdFvZNxbMklJf4/edit?usp=sharing)	|+10|{{my.Tech - Low}}	|	Batch / Nightly|	Once|
