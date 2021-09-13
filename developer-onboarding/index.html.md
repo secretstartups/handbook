@@ -138,7 +138,7 @@ relevant developers as well:
 
 [handbook]: /handbook
 [in the open]: /2015/08/03/almost-everything-we-do-is-now-open/
-[contrib-guide]: https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md
+[contrib-guide]: https://about.gitlab.com/community/contribute/
 
 ## Relevant links
 
