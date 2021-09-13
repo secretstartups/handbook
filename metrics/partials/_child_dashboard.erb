@@ -2,22 +2,22 @@
 
 ### <%= filter_type == 'stage' ? "<a href='#{filter_value.downcase}'>#{header}</a>" : header %>
 
-#### <%= header %> development indicators
+#### <%= header %> development dashboard
 
 <%= partial "handbook/engineering/metrics/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
 
-#### <%= header %> Infrastructure indicators
+#### <%= header %> Infrastructure dashboard
 
 <%= partial "handbook/engineering/metrics/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
 
-#### <%= header %> quality indicators
+#### <%= header %> quality dashboard
 
 <%= partial "handbook/engineering/metrics/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
 
-#### <%= header %> UX indicators
+#### <%= header %> UX dashboard
 
 <%= partial "handbook/engineering/metrics/partials/ux_dashboard.erb", locals: { filter_type: filter_type_for("ux", filter_type), filter_value: filter_value_for('ux', filter_type, filter_value) } %>
 
-#### <%= header %> Security indicators
+#### <%= header %> Security dashboard
 
 <%= partial "handbook/engineering/metrics/partials/security_dashboard.erb", locals: { filter_type: filter_type_for("security", filter_type), filter_value: filter_value_for('security', filter_type, filter_value) } %>
