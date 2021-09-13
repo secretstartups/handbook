@@ -64,6 +64,20 @@ Parts of triage are assisted by the [GitLab Triage Bot](https://gitlab.com/gitla
 
 Changes to the triage bot policy file should be tested in the MR by running the "dry-run:triage" CI job and inspecting the log output.  This CI job is a dry-run, meaning it will not actually take any actions in the project but will print out what would happen if the policy was actually executed.
 
+### End of day wrap-up
+
+In order to get better and be more efficient in daily triage, we wrap-up the work by the end of the day. The following information is provided by the Data Analyst and Data Engineer each day:
+ 
+- Time Tracking: Listing down the time spent that day on triage and which activities are performed. The general idea is to gain an understanding on where the workload is, in order to optimize those activities. Please list down the work so it is useful for analysis purposes. I.e:
+   - 2 hours solving data ingestion issue, for source x
+   - 1 hours solving data transformation issue
+   - 1 hour on solving a broken Sisense Dashboard
+   - 1 hour triaging and re-routing (new) issues
+   - 0.5 hour on answering Slack questions
+- Groundhog Issues. Issues that occur on a regular basis are annoying and costing us unnecessary time. List down any issue that is popping up time after time. This is in order to find any spots in the current landscape to address.
+ 
+A triage roundup will take place at the end of every milestone by the data leadership team to consolidate the milestones triage efforts. Please bear in mind the purpose of the information provided, to make it useful and improve Triage.
+
 ### GitLab.com DB structure changes
 1 of the most important data source, that regularly changes, is the GitLab.com database. In order not to break the daily operation, changes to the database needs to be tracked and checked. Any change to the GitLab.com database, is made to the db/structure\.sql file. The Data Team gets notified, by applying labels to the MR, if a change to the db/structure\.sql is made, via the Danger Bot. 
 
