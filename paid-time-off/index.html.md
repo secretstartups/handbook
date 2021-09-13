@@ -319,11 +319,11 @@ To clarify, once the event has completed and synced to BambooHR, both the Bamboo
 
 ## Management’s Role in Paid Time Off
 
-Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off let them know they can do this.
+Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
 
 For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth.  Whether a team member is taking one day off, or 25+ days off, all team members must use [PTO by Roots](#pto-by-roots).
 
-If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans.
+If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans. Reminders can be sent in Slack, shared on a team calendar, or noted during team meetings.
 
 If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Experience team at `people-exp @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Experience team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
 
@@ -342,7 +342,7 @@ More training materials are found in the [Training & Kickoff Materials folder](h
 
 #### How to use PTO by Roots data to support your team
 
-Understanding the PTO that your team has taken, and plan to take, can help managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Roots data.
+Understanding the PTO that your team has taken, and plans to take, helps managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Roots data.
 
 #### Discuss team member burnout
 
@@ -351,6 +351,7 @@ Understanding the PTO that your team has taken, and plan to take, can help manag
      - How much sick leave did your team take? Check in with team members who've taken multiple sick days to see how they are doing.
      - How many vacation days did your team take? Reminded team members to take time off of work to rest and recharge.
      - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative)
+     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of your team is working.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
