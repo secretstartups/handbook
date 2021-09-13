@@ -24,14 +24,12 @@ The team accomplishes this mission by building machine learning models and analy
 
 ### Propensity to Buy -> Account Score
 
+- [Data Science Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340) 
 - [Development Epic](https://gitlab.com/groups/gitlab-data/-/epics/302)
 - Start Date: 2021-06-30
 - [Slack Channel](https://gitlab.slack.com/archives/C027EEYL8EL)
 
 
-## Tools 
-
-The Data Science team uses Python and Jupyter to deliver projects. 
 
 # Data Science responsibilities 
 
@@ -113,6 +111,42 @@ Projects with indirect impact do not translate directly to monetary value, but p
 Currently data science team uses JupyterLab configured in docker image to build models and derive insights. Despite the fact that GitLab's infrastructure is setup in Google Cloud Platform environment, GitLab does not use DataLab (built-in Jupyter instance provided by Google Cloud). There are two reasons for it: 1. issues that occur when we want to connect to Snowflake with DataLab 2. DataLab sets default Python as Python 2 and if we want to use Python 3 we can use only version up to 3.5, what puts limits on our team.
 
 To setup JupyterLab for your @gitlab.com account, follow the steps on the data-science repo [README](https://gitlab.com/gitlab-data/data-science/). Please note if you want to use Snowflake tables in Jupyter, you will need completed"Connecting to Snowflake" and "Getting Set up with dbt locally" from the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)
+
+
+# Common Data Science terms 
+
+Below listed common data science terms that are used by team. 
+
+
+**Data Science (DS)** - interdisciplinary field that uses computer science, statistical techniques and domain expertise to extract insights from data
+
+**Machine Learning (ML)** - use and development of algorithms without being explicitly programmed to determine patterns in data
+
+**Algorithm** -  sequence of computer-implementable instructions used to solve specific problem
+
+**Feature** - single column in dataset that can be used for analysis, such as country, age etc. Sometimes refered to as variables or attributes 
+
+**Feature Engineering** -  process of selecting, combining and transforming data into features
+
+**Weight** - numerical value assigned to feature that determines it's strength
+
+**Model** - an applied algorithm with weights determined by input data
+
+**Imputation** - process of replacing missing data with substituted values
+
+**Training** -  assigning weights in a model based on input data
+
+**Testing** - comparing predicted values from trained model to actual values 
+
+**Classification** - process of predicting categories for each data point 
+
+**Regression** - process of predicting continuous numerical variable for each data point 
+
+**Clustering** - process of definining groupings in dataset 
+
+
+
+
 
 
 

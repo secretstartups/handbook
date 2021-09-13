@@ -18,7 +18,7 @@ Customer segmentation is the process of dividing our customers into groups based
 
 This data solution delivers three [Self-Service Data](/handbook/business-technology/data-team/direction/self-service/) capabilities:
 
-1. Dashboard Users: A [Sisense dashboard](https://app.periscopedata.com/app/gitlab/718514/Customer-Segmentation-Analysis) to visualize ARR and customer count by industry, product category, [sales segment](/handbook/sales/field-operations/gtm-resources/#segmentation), delivery, account owner team, and territory
+1. Dashboard Users: A [Sisense dashboard](https://app.periscopedata.com/app/gitlab/718514/Customer-Segmentation-Analysis) to visualize ARR and customer count by industry, product category, [sales segment](/handbook/sales/field-operations/gtm-resources/), delivery, account owner team, and territory
 1. Dashboard Developer: A new Sisense data model containing the complete dimensional model components to build new dashboards and link existing dashboards to customer segmentation data.
 1. SQL Developer: An Enterprise Dimensional Model subject area
 
@@ -77,7 +77,7 @@ Much of the data within and supporting the Customer Segmentation Dashboard is [O
 1. [Product Category, Product Tier, Delivery](https://about.gitlab.com/handbook/marketing/strategic-marketing/tiers/#overview)
 1. [Sales Segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
 1. [Account Owner Team](https://about.gitlab.com/handbook/sales/#initial-account-owner---based-on-segment)
-1. [Territory](https://about.gitlab.com/handbook/sales/territories/#territories)
+1. [Territory](https://about.gitlab.com/handbook/sales/territories/)
 1. [Customer](https://about.gitlab.com/handbook/sales/sales-term-glossary/#customer)
 1. Industry
 

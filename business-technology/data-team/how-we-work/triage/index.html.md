@@ -25,12 +25,12 @@ The Data team has implemented the following triage schedule to take advantage of
 | Sunday    | `@ken_aguilar`    | -                 |
 | Monday    | `@mpeychet`       | `@vedprakash2021` |
 | Tuesday   | `@mpeychet`       | `@paul_armstrong` |
-| Wednesday | `@michellecooper` | `@jjstark`        |
-| Thursday  | `@ken_aguilar`    | `@snalamaru`      |
-| Friday    | `@jeanpeguero`    | `@laddula`        |
+| Wednesday | `@michellecooper` | `@rbacovic`       |
+| Thursday  | `@ken_aguilar`    | `@laddula`        |
+| Friday    | `@jeanpeguero`    | `@jjstark`        |
 
 A team member who is off, on vacation, or working on a high priority project is responsible for finding coverage and communicating to the team who is taking over their coverage;
-this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
+this should be updated on the [Data Team's Google Calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV9kN2RsNDU3ZnJyOHA1OHBuM2s2M2VidW84b0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). To avoid putting the _Monday workload_ on the same shoulders every week again, the Data Engineers will will rotate/exchange every now and then triage days in good collaboration on an ad-hoc basis.
 
 Having dedicated triagers on the team helps address the bystander affect. The schedule shares clear daily ownership information but is not an on-call position. Through clear ownership, we create room for everyone else on the team to spend most of the day around deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
 
@@ -106,6 +106,54 @@ In a scenario when gitlab cloned Postgres database is not accessible then follow
 3. Reach out to `@sre-oncall` slack handle to look into the issue. 
 4. Once the issue is resolved or confirmed from the `@sre-oncall` person, unpause all the paused DAG. Check by clearing the status of the failed task to see if the connection has been restored. 
 5. If the DAG has missed the scheduled run, trigger the DAG manually to do the catch-up.
+
+## Zuora Stitch Integration single or set of table-level reset
+It could happen, in any case, to [reset the table](https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference) in Stitch for the Zuora data pipeline, in order to backfill a table completely (i.e. new columns added to in the source, technical error etc).
+Currently, Zuora Stitch integration does not provide [table level reset](https://www.stitchdata.com/docs/integrations/saas/zuora#zuora-feature-snapshot), and thus we have to perform a reset of all the tables in the integration. This will result in extra costs and risks.
+
+To this below steps can be followed using which we have successfully done the table level reset. 
+In this example, we have used Zuora `subscription` table, but this could be applied to any other table in the Stitch Zuora data pipeline.
+
+#### Step 1:- Rename existing table with the date suffix to identity the backup, recommended format YYYYMMDD
+
+    ALTER TABLE "RAW"."ZUORA_STITCH"."SUBSCRIPTION" RENAME TO "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903";
+    
+#### Step 2:- Pause the regular integration.
+![Pause Regular integration](/images/Stitch_table_reset/Stitch_2.png "Stitch_int_2")
+
+#### Step 3:- Create a new integration Zuora-Subscription in Stitch.
+While setting it up setup the extraction frequency to 30 minutes and date from extraction to 1st Jan 2012 to ensure all data gets pulled through.
+
+![With only the subscription table to replicate](/images/Stitch_table_reset/Stitch_1.png "Stitch_int_1")
+
+#### Step 4:- Run the newly created integration..
+Try running the newly created integration manually and wait for it to complete. Once completed then and it shows on the home page successfully. Once done Pause the newly integration task because we don't want any misaligned data while we follow the next steps.
+
+#### Step 5:- Check for the records.
+In the newly created table `"RAW"."ZUORASUBSCRIPTION"."SUBSCRIPTION"` cross-check the number of rows showing as loaded in the integration UI in stitch and loaded in the table is same.
+
+#### Step 6:- Create the table in the main schema.
+Move the newly loaded data to `ZUORA_STITCH` schema because the new integration will create the table in the `ZUORASUBSCRIPTION` as stated above in the image. 
+
+    CREATE TABLE "RAW"."ZUORA_STITCH"."SUBSCRIPTION" CLONE  "RAW"."ZUORASUBSCRIPTION"."SUBSCRIPTION";
+**Note:** Check for the primary key present in the table post clone or not if not check for the primary key in the [link](https://www.stitchdata.com/docs/integrations/saas/zuora#subscription) and add the constraints on those columns. 
+
+#### Step 7:- Make records count check to ensure we don't have fewer records in the new table. 
+    select count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION_20210903" where deleted = 'FALSE';
+    select count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION" ;
+
+#### Step 8:- Drop the new schema 
+    DROP SCHEMA "RAW"."ZUORASUBSCRIPTION"  CASCADE ;
+
+### Step 9:- Delete temp Zuora-Subscription integration and enable regular integration
+### Step 10:- Run regular integration and validate
+This is to ensure that error observed previously to the table is gone and data is getting populated in the table.
+Check on duplicate ids due to 2 different extractors, to ensure the data is getting populated in the table correctly.
+
+    select id, count(*) from "RAW"."ZUORA_STITCH"."SUBSCRIPTION"
+    group by id
+    having count(*) > 1
+**Note** Refer to the [MR](https://gitlab.com/gitlab-data/analytics/-/issues/10065#note_668365681) for more information.
 
 ## Triage FAQ
 **Is Data Triage 24/7 support or shift where we need to support it for 24 hours?** <br>

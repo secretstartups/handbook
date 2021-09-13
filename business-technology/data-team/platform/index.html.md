@@ -15,13 +15,13 @@ description: "GitLab Data Team Platform"
 ---
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
-
+ 
 - [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure)
 - [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
 - [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
 - [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
 - [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
-- [Jupyter Guide](/handbook/business-technology/data-team/platform/python-guide)
+- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
 - [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
 - [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
 - [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
@@ -42,9 +42,10 @@ Changes are implemented via merge requests, including changes to our pipelines, 
 | Extraction      |  Stitch, Fivetran, and Custom |
 | Loading         |  Stitch, Fivetran, and Custom |
 | Orchestration   |            Airflow            |
-| Storage         |           Snowflake           |
+| Data Warehouse  |           Snowflake           |
 | Transformations |     dbt and Python scripts    |
-| Analysis        | Sisense For Cloud Data Teams‎ |
+| Data Visualization | Sisense For Cloud Data Teams‎ |
+| Advanced Analytics | jupyter‎ |
 
 ## <i class="fas fa-exchange-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true" id="extract-and-load"></i>Extract and Load
 
@@ -53,6 +54,10 @@ We currently use [Stitch](https://www.stitchdata.com) and [Fivetran](https://fiv
 Stitch and Fivetran handle the start of the data pipeline themselves. This means that Airflow does not play a role in the orchestration of the Stitch- and Fivetran schedules.
 
 For source ownership please see [the Tech Stack Applications sheet (internal only).](https://docs.google.com/spreadsheets/d/1mTNZHsK3TWzQdeFqkITKA0pHADjuurv37XMuHv12hDU/edit#gid=0)
+
+### Data Sources
+
+The following table indexes all of the RAW data sources we are loading into the data wareouse. We manage the development backlog and priorities in the [New Data Source/Pipeline Project Management](https://docs.google.com/spreadsheets/d/14uqsAIqRnyyL9Ta39QYwheXnf0k86yTTIKhrkY_1el8/edit#gid=0) sheet, with links to GitLab issues for up-to-date status and progress management. The [new data source handbook](/handbook/business-technology/data-team/how-we-work/new-data-source/) page describes how the Data Team handles any request for new data sources. 
 
 **Key**
 - Pipeline: The technology we use to replicate data.
@@ -93,6 +98,7 @@ For source ownership please see [the Tech Stack Applications sheet (internal onl
 | [Snowplow](https://snowplowanalytics.com/) | [Snowpipe](/handbook/business-technology/data-team/platform/snowplow/index.html#snowpipe) | `snowplow` | `snowplow` | Product | 15m / 24h |
 | [Thanos](https://thanos-query.ops.gitlab.net/graph)| [Snowflake Task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `prometheus` | `prometheus` | Engineering |  24 h / x |
 | [Version DB](https://version.gitlab.com/users/sign_in) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `version_db` | `version_db` | Product |  24 h / 48 h |
+| [Xactly](https://www.xactlycorp.com) | [Meltano](https://meltano.com/) | `tap_xactly` | N/A | Sales | 24h / N/A |
 | [Zendesk](https://www.zendesk.com/) | [Stitch](https://www.stitchdata.com/) | `zendesk_stitch` | `zendesk` | Support | 6h / 24h |
 | [Zoom](https://zoom.us/) | [Meltano](https://meltano.com/) | `tap_zoom` | N/A | People | 24h / N/A |
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h |
@@ -151,7 +157,7 @@ Refer to the [Snowplow Infrastructure page](/handbook/business-technology/data-t
 - [Netsuite](https://www.youtube.com/watch?v=u2329sQrWDY)
     - [Netsuite and Campaign Data](https://drive.google.com/open?id=1KUMa8zICI9_jQDqdyN7mGSWSLdw97h5-)
 - [Version (pings)](https://drive.google.com/file/d/1S8lNyMdC3oXfCdWhY69Lx-tUVdL9SPFe/view)
-    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com _data source_ and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) of the version data source.
+    - Note that up until October 2019, the data team referred to the entire **version** data source as "pings". However, usage ping is only one subset of the version data source which is why we now use "version" or "version app" to refer to the version.gitlab.com _data source_ and "usage data" or "usage pings" or "pings" to refer to the [specific usage data feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) of the version data source. In the context of Data extraction, when it comes to `Service ping` data ingestion, specific details should be found in the [Service ping](handbook/business-technology/data-team/platform/pipelines/index.html.md/#service-ping) page or in the [Readme.md](https://gitlab.com/gitlab-data/analytics/-/blob/master/extract/saas_usage_ping/README.md) page for Service ping
 - [Salesforce](https://youtu.be/KwG3ylzWWWo)
 - [Zendesk](https://drive.google.com/open?id=1oExE1ZM5IkXcq1hJIPouxlXSiafhRRua)
 
@@ -185,6 +191,21 @@ To gain access to the data warehouse:
 - Create an issue in the [access requests project](https://gitlab.com/gitlab-com/team-member-epics/access-requests) documenting the level of access required.
 - Do not request a shared account - each account must be tied to a user.
 - We loosely follow the paradigm explained in [this blog post](https://blog.fishtownanalytics.com/how-we-configure-snowflake-fc13f1eb36c4) around permissioning users.
+- When asking to mirror an existing account, please note that access to restricted SAFE data will **not** be provisioned/mirrored (currently provided via `restricted_safe` role). 
+
+#### Accessing SAFE Data
+All SAFE Data are stored in tables within seperate database schemas in Snowflake. Access to 1 table provides access to all SAFE tables. Access to SAFE data requires:
+
+1. Your immediate manager's approval.
+2. Departmental VP (or equivalent) approval.
+3. Approval of the SAFE Dashboard Space Owner defined in the GitLab Dashboard Index.
+
+To gain access to SAFE Data:
+
+1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
+2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header.
+3. Once the request is approved, tag the Snowflake [provisioners](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and they will process the request.
+4. After processing is complete you will be able to access SAFE Data (schemas) in Snowflake.
 
 ### Snowflake Permissions Paradigm
 

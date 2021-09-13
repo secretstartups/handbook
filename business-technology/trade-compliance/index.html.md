@@ -39,7 +39,7 @@ title: "Trade Compliance"
 
 #### Effect on opportunities
 
-- [Detailed Documentation](/handbook/sales/field-operations/gtm-resources/#locking-opportunities-as-a-result-of-their-at-risk-potential)
+- [Detailed Documentation](/handbook/sales/field-operations/gtm-resources/)
 - High level: Opportunities are screen on creation by Visual Compliance.
 - Contacts are screened by Visual Compliance once a contact is loaded into an order as the `Bill-to` or `Sold-to` contact on the quote.
 
