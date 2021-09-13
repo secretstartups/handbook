@@ -106,6 +106,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Experience stepping into a new data source and preparing new analyses
 - A familiarity with proxy metrics where actual measurements aren’t available
 - Ability to guide conversations related to strategic choices of performance indicators
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategy and Operations (Operations)
 
@@ -115,6 +116,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Track record of moving key initiatives from idea to delivery
 - Experience in setting goals and driving toward quantifiable results
 - Ability to operate [iteratively](/handbook/values/#iteration)
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategy and Operations (Technical)
 
@@ -124,6 +126,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Readiness to partner directly with the CEO, CoST, or other senior leaders on high priority initiaties
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategic Technical Partnership Manager for JiHu 
 
