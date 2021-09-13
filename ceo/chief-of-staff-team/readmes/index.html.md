@@ -4,4 +4,4 @@ title: "Chief of Staff Team READMEs"
 ---
 ## Chief of Staff Team READMEs
 
-Placeholder for READMEs
+- [Omar's README (Director of Strategy and Operations)](/handbook/ceo/chief-of-staff-team/readmes/ofernandez2/)
