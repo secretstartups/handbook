@@ -18,6 +18,26 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
+**SOPS: [Publicly Accessible Chorus Recordings](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)**
+
+**SOPS: [Account Standardization for Merging Accounts in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/452)**
+
+**SOPS: [New process for US PubSec to select preferred co-sell partners for opps](https://gitlab.com/gitlab-com/channel/channels/-/issues/668)**
+
+CSOPS: [Gainsight Dashboard filtering: added TAM Manager as filter](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/445)
+
+CSOPS: [At-Risk Customer Dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/8e0f5cb6-c8e1-4b06-8cd2-92af72d76615), [issue](https://gitlab.com/groups/gitlab-com/-/epics/1462) and [handbook page](/handbook/customer-success/tam/renewals/#tracking-account-health-and-risks)
+
+CSOPS: [Gainsight: License Utilization calculations now use billable_user_count](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/400) and [handbook](/handbook/customer-success/tam/gainsight/license-usage/)
+
+Customer Programs: [Updated digital onboarding program and TAM playbook to include links to Docs](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/470)
+
+Customer Programs: [Launched Customer Newsletter program highlighting 14.2 release](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/34)
+
+Customer Programs: [Synced Program emails to C360 section in Gainsight](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/398)
+
+Customer Programs: [Launched Customer Webinar Invite - Advanced CI/CD with largest attendance to date](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/296)
+
 
 ### 2021-08-30 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
 
