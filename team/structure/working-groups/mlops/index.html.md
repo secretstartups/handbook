@@ -92,6 +92,7 @@ The charter of this working group is to bridge the gap between different teams t
 | Functional Lead                | Juliet Wanjohi        | Security Engineer, Security Automation          |
 | Functional Lead                | Eduardo Bonet         | Staff Full Stack Engineer - MLOps, SEG |
 | Functional Lead                | Monmayuri Ray         | Engineering Manager, Applied Machine Learning & Anti-abuse |
+| Functional Lead                | Shawn Sichak         | Senior Security Engineer, Trust and Safety |
 | Member                | Alexander Dietrich    | Senior Security Engineer, Security Automation   |
 | Member                | Charl De Wit            | Security Manager, Trust & Safety |
 | Member                | Wayne Haber         | Engineering director |
