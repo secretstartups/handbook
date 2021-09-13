@@ -90,6 +90,14 @@ Alternatively, you can paste the following search string into the Zendesk search
 
 This shows new tickets created in the previous 4 hours - change the range if the incident began earlier than that.
 
+### Tagging Tickets
+
+If there is any customer contact regarding an incident regardless of severity, you should create an incident tag in ZenDesk as soon as possible. You can check for customer tickets by using the tips above, by scanning the FRT & Free ticket queue and validating the tickets, or by asking the wider Support team. You can create a tag on a ticket directly by finding the `tags` field and using the format `com_incident_####`. Replace #### with the production incident number of the issue. Once you've added the tag, submit the ticket with an appropriate `Incident First Response` macro and the tag will become available to use on other tickets.
+
+Tagging tickets can be done throughout the incident process but the CMOC should check the queue for accurate tagging during the incident resolution stage. The tagging of tickets is useful for guaging support impact, ease of finding related tickets for active incident troubleshooting, and ease of finding related tickets for historical reference.
+
+For details on tagging and tracking security related incidents, please see [Tracking Security Incidents](handbook/support/workflows/tracking_incidents.html) workflow.
+
 ### Reviewing Past Incidents
 
 Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
