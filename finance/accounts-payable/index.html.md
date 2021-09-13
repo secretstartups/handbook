@@ -95,18 +95,21 @@ Invoices for GitLab Inc, Federal LLC, IT BV and BV entities can be sent to <i>[i
 1. PO Requirements:	
     - All purchases with a value over $5000 are required to have a purchase order. 
     - If the invoice is received without a PO, we will reach out to the business owner and request that the supplier's PO is created before we process the invoice. 
-    - Please visit this() handbook page for more details on the procurement process and how to get started on this in Coupa 
-1. Detaching PO from invoice: If an invoice is matched to the incorrect PO, how do we fix this and open up the PO again?   
+    - Please visit this [procurement handbook page](https://about.gitlab.com/handbook/finance/procurement/#-purchase-request-quick-guide) for more details on their process and how to get started on this in Coupa. 
+1. Un-matching a PO from an invoice. If an invoice is matched to the incorrect PO, how do we fix this and open up the PO again?   
     - If the invoice was submitted by the supplier and is pending approval it needs to be **disputed** to the vendor, not rejected.
     - If the invoice is already approved, the invoice must be voided and you will have to credit or fix the entry in NetSuite as well. 
-1. If the PO is created after the invoice was processed: Soft close the PO (it can be re-opened if needed); can be fully closed after being soft closed). 
-    - If PO is hard closed, it cannot be reversed.
+1. If the PO is created after the invoice was processed: Soft close the PO (it can be re-opened if needed); it can be fully closed after being soft closed. 
+    - If PO is hard/fully closed, it cannot be reversed.
 1. Payment batch creation:
-    - Use the pre-set views for each entity which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date. 
+    - Use the pre-set view "Payment Setup" which has filters applied to select anything for a vendor that is "payable" and due within 6 days and aged prior to the current date.
+     ![Paynent-setup](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/images/paymnent-setup.png "Payment Setup"){: .shadow}
 1. How to remove an invoice from a payment batch:	
     - To remove a payment from a submitted batch, please add a comment to the batch and tag Misty Brown so that she can remove the payment and the request will be recorded in Coupa.
-1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76). Whichever AP team member is assigned for email duty that day, must check through these errors.	
-1. Handling export issues on invoices and payments	
+1. Use of daily checklist to clear errors per [this issue](https://gitlab.com/gitlab-com/Finance-Division/ap-team/ap-project/-/issues/76). 
+    - Whichever AP team member is assigned for email duty that day, must check through these errors.	
+    - If team members have questions on these errors, please post in the Coupa_AP slack channel.
+1. Handling export issues on invoices and payments:	
     - Finance System Admins send a repot to the AP team twice weekly. 
     - AP team will adjust the vendor card for new currencies or entites. 
     - Change Exported to YES in Coupa when the error is fixed.
