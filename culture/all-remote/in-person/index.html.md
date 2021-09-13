@@ -23,6 +23,16 @@ On this page, we're detailing considerations for in-person interactions within a
 
 GitLab Head of Remote Darren Murph shares on GitLab's intentional approach to in-person interactions (and business travel's purpose in a remote company) in a TripActions [blog](https://tripactions.com/blog/q-and-a-darren-murph-head-of-remote-at-gitlab) and [podcast](https://tripactions.com/blog/podcast-how-remote-companies-think-about-business-travel). 
 
+## Bridging the gap during the pandemic
+
+While the Covid-19 pandemic has impacted many teams' ability to gather in person, the guidance on this page can be used as a blueprint for your organization's future in-person interactions. 
+
+Small teams located in the same city or region may be able to still gather in person, but for an all-remote company where team members are distributed across many time zones, you'll need to lean on platforms like [Zoom](https://zoom.us/), [Hopin](https://hopin.com/), or [Virbela](https://www.virbela.com) to gather virtually in the meantime. It's important to maintain the purpose of these gatherings, and to be intentional and creative about continuing to bring the team together. 
+
+For example, at GitLab, we hosted our 2020 [Contribute](/events/gitlab-contribute/) virtually. We used this time to take a break from our daily projects, celebrate the achievements of the team, and get to know one another better. By focusing this time on bonding rather than active work, we were able to boost engagement and invest in strengthening the relationships across the organization. 
+
+Between these larger gatherings, informal communication is another important element to maintain. We've curated a list of ways to approach this in our [informal communication guide](/company/culture/all-remote/informal-communication/).  
+
 ## Meetups
 
 <!-- blank line -->

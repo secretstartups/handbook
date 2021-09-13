@@ -35,7 +35,7 @@ A large part of onboarding is providing answers to logistical questions:
 
 Traditional in-person companies usually rely on trainers or more hands-on approaches to help new hires navigate their surroundings. All-remote companies have to be more efficient and make information easily accessible, so documentation will be essential for a smooth onboarding process. At GitLab, we provide a detailed [handbook](/handbook/) that is always evolving. 
 
-The GitLab team handbook is the central repository for how we run the company. Printed, it consists of over [10,000 pages of text](/handbook/about/#count-handbook-pages), all searchable of course. Our handbook serves as a [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot) that all team members can reference and depend on for answers about GitLab. 
+The GitLab team handbook is the central repository for how we run the company. It consists of over [2,000 webpages of text](/handbook/about/#count-handbook-pages), all searchable of course. Our handbook serves as a [single source of truth](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot) that all team members can reference and depend on for answers about GitLab. 
 
 For onboarding, we're able to direct new hires to a huge repository of information and also teaching them to be self-sufficient and proactive when looking for answers. Because we've implemented a [handbook-first approach](/company/culture/all-remote/handbook-first-documentation/#make-handbook-first-documentation-a-value), the GitLab handbook is always changing and growing as we learn new things.
 
