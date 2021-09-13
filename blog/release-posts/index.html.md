@@ -1298,6 +1298,8 @@ Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecati
 
     This area supports markdown.  Delete this entire comment and replace it with your markdown content.
 
+    Make sure to run `bin/rake gitlab:docs:compile_deprecations` locally before committing and pushing your changes.
+
     When ready, assign to your tech writer to review and merge.
 
     END OF BODY COMMENT -->
