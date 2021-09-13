@@ -574,6 +574,8 @@ It's the PMs discretion on which bugs or performance improvements to include in 
 
 It's also recommended you collaborate with your EM in deciding what to include.
 
+Note that security fixes should be included in, and announced with, the [Patch and Security release posts](https://about.gitlab.com/handbook/marketing/blog/release-posts/#patch-and-security-release-posts) which is a different process than the monthly release post.
+
 ##### Contributing to Usability Improvements
 
 It's up to the product manager's and product designer's discretion, in partnership, to decide what usability improvements to highlight in a release post. This section will be limited to a maximum of 12 line items for consumability. We encourage PDs to make sure all items that don't make it into this section are added to the UI Polish gallery, with a link from the release post.
