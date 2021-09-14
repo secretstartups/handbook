@@ -14,7 +14,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Pattie Egan, VP of People Operations, Technology, and Analytics
 
-* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* Please schedule all meetings through the People Function's EBA, Katrina Allen
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
@@ -24,7 +24,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Rob Allen, VP, Talent Acquisition
 
-* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* Please schedule all meetings through the People Function's EBA, Katrina Allen
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * Skip level 1:1's occur every other month
@@ -34,7 +34,7 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Carol Teskey, Sr. Director, People Success
 
-* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* Please schedule all meetings through the People Function's EBA, Katrina Allen
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
 * 1:1 meetings are dark dark green, internal meetings are purple, external meetings are orange, coffee chats are light blue, reminders are in yellow, interviews are in dark blue, anything where attendance is essential and Carol plays a huge part in the meeting should be noted in red.
@@ -43,10 +43,10 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Sales VPs
 
-**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, Michelle Hodges**
+**David Hong, David Sakamoto, Mike Pyle, Ryan O’Nell, Michelle Hodges, Nima Badiey**
 
-* Please reach out to Victoria Reinhardt (EBA) to schedule or reschedule any meetings for David Sakamoto, Mike Pyle and Ryan O'Nell
-* Please reach out to Jennifer Garcia (EBA) to schedule or reschedule any meetings for David Hong and Michelle Hodges
+* Please reach out to Victoria Reinhardt (EBA) to schedule or reschedule any meetings for David Sakamoto, Mike Pyle, and Ryan O'Nell
+* Please reach out to Dana Pelton (Sr EBA) to schedule or reschedule any meetings for David Hong, Michelle Hodges, and Nima Badiey
 * Don't schedule over DNB or any CRO calls without reaching out for approval from VP and EBA
 * For interviews: CES should tag EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
@@ -64,9 +64,9 @@ When scheduling for VPs or Directors at GitLab, please check the scheduling pref
 
 ## Scheduling for Finance VPs and Sr. Leadership
 
-**Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO - Igor Groenewegen-Mackintosh, Director of Tax - Tony Righetti, Sr. Director of IR**
+**Bryan Wise, VP of IT - Craig Mestel, VP of FP&A - Dale Brown, PAO**
 
-* Please reach out to Jaclyn Grant (Sr. EBA) to schedule or reschedule any meetings
+* Please reach out to To Be Hired to schedule or reschedule any meetings
 * Don't schedule over DNB blocks
 * For interviews: CES should tag Sr. EBA on Greenhouse to review times submitted by the candidate, or to provide times for the VP
 * If you add any meetings to calendar directly, tick the box “Attendees can modify” so EBA can change if necessary
