@@ -167,7 +167,7 @@ Team members may request an unpaid leave of absence by working with their manage
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
 * Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay.
 
-### Communicating with team members while they are leave of absence
+### Communicating with team members while they are on a leave of absence
 
 For team members who are on paid or unpaid leave of absence like [parental leave](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#sts=Parental%20Leave), [short or long-term disability](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#group-long-term-and-short-term-disability-insurance), or [other approved leaves](https://about.gitlab.com/handbook/paid-time-off/#unpaid-leave-of-absence) there is no expectation that work would be accomplished during this time.  Team members should use their approved paid or unpaid leave as an opportunity to focus on their health and well being.  For managers it is important that you do not reach out to team members and ask them to complete work while on an approved leave of absence.  An occasional quick call for a simple question is acceptable but these should be infrequent and simple requests that can be answered during that conversation.  
 
@@ -319,13 +319,13 @@ To clarify, once the event has completed and synced to BambooHR, both the Bamboo
 
 ## Management’s Role in Paid Time Off
 
-Managers have a duty of care towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
+Managers have a duty towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
 
 For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth.  Whether a team member is taking one day off, or 25+ days off, all team members must use [PTO by Roots](#pto-by-roots).
 
 If you discover that multiple people in your team want to be off at the same time, see what the priorities are, review the impact to the business, and use your best judgement. Discuss this with your team so you can manage the time off together. It is also a good idea to remind your team to give everyone an early heads-up, if possible, about upcoming vacation plans. Reminders can be sent in Slack, shared on a team calendar, or noted during team meetings.
 
-If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Experience team at `people-exp @gitlab.com` without disclosing private medical information in compliance with privacy laws such as [HIPAA](https://www.hhs.gov/hipaa/for-professionals/index.html) in the US and [GDPR](https://about.gitlab.com/handbook/legal/privacy/privacy-laws.html#gdpr) in the EU. The People Experience team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
+If as a manager you are notified that your direct report has been incapacitated or unable to submit an OOO request in PTO by Roots and needs to take time off, be it Sick Time or otherwise, please document this information, and relay it to the People Experience team at `people-exp @gitlab.com` without disclosing private medical information in compliance with applicable privacy laws. The People Experience team will submit an OOO request on the team member's behalf and mark the reason as `Per Manager Name`, and save the email thread in the team member's `Sickness` folder in BambooHR. This documentation will be unshared and will not contain any personal medical information.
 
 ### PTO by Roots Manager Reporting
 
@@ -348,7 +348,7 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 
 1. Pull a report of PTO taken in the previous quarter
 1. Notice the kind of PTO that your team has taken. Consider the following questions and manager actions: 
-     - How much sick leave did your team take? Check in with team members who've taken multiple sick days to see how they are doing and what support they might need.
+     - How much sick leave did your team take? If you have a team member who has taken multiple sick days, please contact Team Member Relations at `teammemberrelations @gitlab.com` to address the next steps to take in line with applicable law.  
      - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
      - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative).
      - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working.
