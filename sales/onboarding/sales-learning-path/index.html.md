@@ -304,7 +304,14 @@ Please take a moment to answer the questions in this short [quiz.](https://docs.
 *  **OPTIONAL: Sign up for a Sandbox Cloud Environment**
    - [Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/) is an automated provisioning platform for AWS or GCP environments. These environments are helpful for demo/sandbox/testing purposes and is paid for by GitLab.
 
-### 15. TAMs Only: Customer Onboarding
+### 15. TAMs Only: Certifications to Complete and Lifecycle Processes
+
+#### Certifications:
+1. [Success Plans](https://gitlab.edcast.com/pathways/ECL-47775d76-4bc6-4fe8-bdde-07f6ffc56578)
+1. [Executive Business Reviews](https://gitlab.edcast.com/pathways/tam-executive-business-reviews) 
+
+
+#### Customer Onboarding
 *  **Customer Onboarding (Material - Handbook and Video - 60 Minutes)**
    - Customer on-boarding is a 45 day time period. Technical Account Managers and Professional Services Engineers should work closely together throughout the on-boarding process, with support from Solutions Architects and Strategic Account Leaders/Account Managers where appropriate. The Customer Kickoff is a moment that matters in the customer's journey. Below are resources you should familiarize yourself with as you get ready to start interacting with customers.
    - [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
