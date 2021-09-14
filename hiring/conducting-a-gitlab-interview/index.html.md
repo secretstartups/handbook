@@ -111,6 +111,8 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 
 ### Candidate Performance Evaluation
 
+#### Behavioral Questions
+
 The goal of behavioral questions is to get the candidate to share data on past experiences. Previous behavior is considered the most effective indicator of how a person is going to act in the future. It is important to remember that skills and knowledge can be learned easier than habitual behaviors can be changed, especially when candidates are unaware of the impact of the undesired behaviors.
 
 The questions are usually in the form of:
@@ -143,6 +145,20 @@ The key to analyzing each of the reverse-STAR steps is to ask _What, Why, How, a
 These questions can be quite unbalancing and can increase the stress during the interview. Again, be kind and help the candidate understand what you are looking for, and provide an example if one is needed when you notice the candidate is blocked.
 
 It can also happen that the candidate does not have a story to share with you; that is okay. It's just another data point that should be added to the feedback (I failed to get data on ...). Just move to the next question and be sure to have a few questions as a backup.
+
+#### Career Change Drivers
+
+The goal of this interview exercise is to understand what motivated the candidate to make transitions in their career. Understanding this ensures that the candidate is positioned to be successful in the role they are interviewing for.
+
+Walk through the candidates resume in reverse chronological order. For each role ask:
+
+* Why did you take the role?
+* Why did you leave the role?
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=jyFQHOo9LF8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Interview feedback
 
