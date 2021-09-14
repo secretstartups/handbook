@@ -107,8 +107,10 @@ It is possible to make an appointment within 2 weeks.
 
 Everyone that meets the following requirements can request to immigrate and relocate to the Netherlands, but you will also still need to pass the formal visa application process to qualify. The three requirements are:
 
-1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) (also note, that the Dutch government has a higher requirement for team members aged 30 and above). The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
-_Note: This calculation should be based on what GitLab *would* pay the team member in the Netherlands in accordance with the compensation calculator, *not* based on the team member's current salary._ 
+1. When using the [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) you must meet the Dutch salary requirement for [highly skilled migrants for 3 more years](https://ind.nl/en/Pages/required-amounts-income-requirement.aspx#Application_for_residence_permit_highly_skilled_migrant_and_European_Blue_Card) 
+- Note, that the Dutch government has a higher requirement for team members aged 30 and above. The age related wage requirement does not increase when reaching 30 if you already have an approved migrant visa (with the same employer).
+- The following pay elements are not included in the salary criterion and can't be used to meet the mimimum salary requirement: Vacation allowance; the value of payment made in kind; Uncertain, non-regular pay elements (for example overtime allowances, variable boni and payments from funds).
+- _Note: This calculation should be based on what GitLab *would* pay the team member in the Netherlands in accordance with the compensation calculator, *not* based on the team member's current salary._ 
 1. You have been a team member at GitLab for one year.
 1. You are not on a Performance Improvement Plan (PIP).
 
