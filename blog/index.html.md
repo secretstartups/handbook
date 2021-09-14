@@ -56,7 +56,7 @@ If your proposed post doesn't meet the [criteria for an announcement](#-if-you-w
 
 Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
 
-If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@bmatturro` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
+If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@vsilverthorne` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
 If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team.
 
@@ -884,7 +884,7 @@ merch_four:
 
 #### Requesting new merchandise
 
-If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker or @bmatturro on your issue.
+If you have a new asset you'd like to promote with merchandise on the blog, please open an issue in the Corporate Marketing project using the [`blog-merch-request` issue template](https://gitlab.com/gitlab-com/marketing/growth-marketing/brand-and-digital/brand-and-digital/-/issues/new?issuable_template=blog-merch-request). When you have filled in the required copy, please ping @luke to assign someone from the Design team to create the required images. When you have these, create a merge request to add the new merch to the www-gitlab-com repository and update the [current merch items](#current-merch-items) in this handbook. If you're not sure how, please ping @laurenbarker on your issue.
 
 ### Adding code blocks
 
