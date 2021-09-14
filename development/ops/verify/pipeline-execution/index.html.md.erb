@@ -35,14 +35,13 @@ This team maps to [Verify](/handbook/product/categories/#verify-stage) devops st
 - Pipeline processing: processes responsible for transitions of pipelines, stages and jobs.
 - Rails-Runner communication: jobs queuing, API endpoints and their underlying functionalities related
   to operations performed by and for Runners.
-- Job artifacts: storage and management of artifacts is the gateway for many CI/CD features.
 
-Not included in PE group's domain:
+Not included in the Pipeline Execution group's domain:
 
-- Secrets Management, see the [direction page](https://about.gitlab.com/direction/release/secrets_management/)
-- Pipeline Authoring, see the [direction page](https://about.gitlab.com/direction/verify/pipeline_authoring/)
-- Compliance in Pipelines, see the [direction page](https://about.gitlab.com/direction/manage/compliance-management/)
-
+- Secrets Management, see the [direction page](/direction/release/secrets_management/)
+- Pipeline Authoring, see the [direction page](/direction/verify/pipeline_authoring/)
+- Compliance in Pipelines, see the [direction page](/direction/manage/compliance-management/)
+- [Job artifacts: storage and management of artifacts is the gateway for many CI/CD features]((/direction/verify/build_artifacts/)
 
 ## Team Members
 
@@ -58,7 +57,7 @@ The following people are permanent members of the Verify:Pipeline Execution grou
 
 The following members of other functional teams are our stable counterparts:
 
-<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Execution/, direct_manager_role: 'Acting Senior Manager, Engineering, Verify & Backend Engineering Manager, Verify:Pipeline Execution', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
+<%= stable_counterparts(role_regexp: /[,&] Verify(?!:)|Pipeline Execution/, direct_manager_role: 'Interim Senior Manager, Engineering, Verify & Backend Engineering Manager, Verify:Pipeline Execution', other_manager_roles: ['Frontend Engineering Manager, Verify']) %>
 
 ## Technologies
 
@@ -299,10 +298,8 @@ The Pipeline Execution group supports the product marketing categories described
 | Label                 | |  | Description |
 | ----------------------| -------| ----|------------|
 | `api` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=api&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=api&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to API endpoints for CI features. |
-| `CI artifacts` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+artifacts&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+artifacts&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to [CI build artifacts](http://doc.gitlab.com/ce/ci/build_artifacts/README.html). Formerly `~artifacts` |
 | `CI permissions` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+permissions&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+permissions&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to `CI_JOB_TOKEN` and CI authentication |
 | `CI minutes` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+minutes&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+minutes&label_name[]=group%3A%3Acontinuous%20integration) | All issues and MRs related to how we count continuous integration minutes and calculate usage. Formely `~ci minutes` |
-| `CI variables` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=CI+variables&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=CI+variables&label_name[]=group%3A%3Acontinuous%20integration) | Relates to functionality surrounding pre-defined and user-defined variables available in the Build environment. Formerly `~ci variables` |
 | `merge requests` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=merge+requests&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=merge+requests&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to CI functionality within the Merge Request. |
 | `notifications` | [Issues](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=notifications&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/groups/gitlab-org/-/merge_requests?label_name%5B%5D=notifications&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to various forms of notifications related to CI features. |
 | `pipeline analytics` | [Issues](https://gitlab.com/gitlab-org/gitlab/-/issues?label_name%5B%5D=pipeline+analytics&label_name[]=group%3A%3Acontinuous%20integration) | [MRs](https://gitlab.com/gitlab-org/gitlab/-/merge_requests?label_name%5B%5D=pipeline+analytics&label_name[]=group%3A%3Acontinuous%20integration) | Issues related to CI pipeline statistics and dashboards. |
