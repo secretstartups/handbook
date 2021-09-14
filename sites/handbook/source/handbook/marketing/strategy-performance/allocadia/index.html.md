@@ -150,7 +150,7 @@ Any line items within a category or subcategory default inherit the details from
 - GitLab Procurement issue URL - this will auto populate for you if you've created the issue with a click of a button within Allocadia
 - GL Account - will be selected for you based on your input in Spend Type above
 
-##### GitLab Internal Calendars
+#### 🗓 GitLab Internal Calendars
 
 Certain groups within GitLab have the ability to create a calendar invite directly from the details panel within Allocadia.
 
@@ -179,7 +179,7 @@ The calendar invite is set for the entire day. If you would like the event to be
 
 Here is a [quick video walk through](https://youtu.be/xa8OpqMDrJw) to show you how the calendar invite gets created, if you're more of a visual learner!
 
-##### Metrics Tab
+#### Impact Modeller 
 
 Today our Field Marketing team is the only team using this function. If you are interested in having this added to your view please open [this issue](https://gitlab.com/gitlab-com/marketing/marketing-strategy-performance/-/issues/new) for Marketing Strat & Performance.
 
@@ -199,7 +199,7 @@ A calculation is then done by then taking into account the MQLs, region, segment
 
 We are discontinuing use of the Strategy tab at this time. We had thought we could use this tab to connect line item to Marketing level quarterly OKRs or Project Compass, but the bigger ask was to connect with GTM Motions and we moved those to the Details Panel in the Activities grid.
 
-## Insights 📊
+## 📊 Insights 
 
 Most reporting is done within the Insights tab within Allocadia. Reports are built at the highest level and then use a drill down feature so each team does not have to recreate reports.
 
