@@ -1333,6 +1333,8 @@ If you have a priority blog post that is time sensitive, indicate this by [apply
 
 Tag the reviewer from the editorial team in a comment on the issue that explains the time sensitive nature of the blog post. If an editorial team member is not available to review and/or merge the blog post, reach out to the #content team on Slack and ask for a team member to review and merge.
 
+_A time sensitive blog post may be held until it can be reviewed by the proper team members if the content contained in it is possibly [unSAFE](/handbook/legal/safe-framework/)._
+
 ## When your blog post has been published
 
 Once your blog post is live, the Editorial team member who merged it will share it in #content-updates on Slack. From there, a team member from Social Marketing will schedule it for our social channels.
