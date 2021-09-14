@@ -24,34 +24,6 @@ The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
 
-## Publishing process
-
-If you'd like to write about something for the GitLab blog, please use the guide below to decide which process to follow:
-
-### 📣 If you want to share news/an update or are seeking feedback
-{: #if-you-want-to-share-newsan-update-or-are-seeking-feedback}
-
-If your proposed blog post includes any of the following:
-
-- A new product feature and capabilities
-- A partner integration
-- A significant milestone achieved
-- A new initiative
-- A customer case study
-- Inclusion in an analyst report
-- A breaking change
-- A deprecation
-- A change in policy or pricing
-- A product promotion (launching or ending)
-- A request for feedback from customers or our community
-
-Please see the [PR handbook](/handbook/marketing/corporate-marketing/#requests-for-announcements) for instructions on submitting a request via an `announcement` issue template in the [Corporate Marketing project](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues). This is to ensure we have an opportunity to identify the best channel to share your news before starting work on a blog post draft.
-
-### 📝 If you want to write about something else
-{: #if-you-want-to-write-about-something-else}
-
-If your proposed post doesn't meet the [criteria for an announcement](#-if-you-want-to-share-newsan-update-or-are-seeking-feedback), please [follow the instructions below to pitch your idea to the Editorial team](#how-to-pitch-a-blog-post). This process is intended to ensure the Editorial team is spending the bulk of their time working on posts that get results and align with the goals for the blog.
-
 ## How to pitch a blog post
 
 Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
@@ -62,34 +34,6 @@ If you prefer, you can start drafting your blog post right away, before getting 
 
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
 
-### Why do we use a pitching process?
-
-Many people throughout GitLab the company and community contribute to the blog. Our pitching process ensures we can prioritize submissions so we don't overwhelm our audience with too much content at once, and to help our contributors craft their ideas in a way that will get views. After reviewing years of data, we know what type of content is likely to get views and what is unlikely to resonate. We want to help every contributor maximize the impact of their contribution.
-
-Data shows that more blog posts does not equal more views. In fact, too much content can have a negative impact on our traffic. The pitching process allows us to review each article and schedule it at the most appropriate time. We've found that publishing ~3 articles per week is the most effective publishing cadence for the GitLab blog.
-
-Note: All blog posts related to the Board must be reviewed by legal prior to publication. Please indicate if this applies to your pitch by checking the relevant box in your issue description. Ideally, Legal should be looped in as early as possible.
-{: .alert .alert-info .note}
-
-Note: If you're planning to write a tutorial post describing how to do something with GitLab, please ensure that the relevant [documentation](https://docs.gitlab.com/) exists _first_ before you write a blog post about it. A blog post should not replace documentation, but should add more information, context, and color around a technical subject, linking back to the documentation for full instructions.
-{: .alert .alert-info .note}
-
-### How to get your blog post pitch accepted
-
-The team will be assessing pitches against the following criteria:
-
-1. The post idea aligns with the [blog objectives](/handbook/marketing/inbound-marketing/content/editorial-team/#objectives) and [scope](/handbook/marketing/inbound-marketing/content/editorial-team/#scope); and/or
-1. The idea shows potential to become [a high-performing post](/handbook/marketing/blog/#attributes-of-a-successful-blog-post)
-
-To give your idea the best chance of being accepted, be sure to demonstrate how your pitch meets the criteria above. It may also help to think about the following:
-
-1. Who is your post for? (i.e. Who is the intended audience?)
-1. What will readers gain from reading your post? What will they learn?
-1. Are there tangible examples/outcomes you can share to illustrate your points? Issues/MRs/epics you can link to?
-1. What makes this post different to other blog posts on this topic (on the GitLab blog or elsewhere)?
-1. What makes you the best person to write about this topic? What unique experience or insight do you bring to it?
-
-Showing how your proposed blog posts meets the criteria and that you've given thought to the considerations above will give your pitch the best chance of being accepted.
 
 ### Examples of strong blog post pitches
 
@@ -100,12 +44,6 @@ Below are links to blog post proposals that demonstrate the value the post will 
 - [Fixing Git mistakes](https://gitlab.com/gitlab-com/content-hack-day/issues/146)
 - [How to avoid broken master with Pipelines for merged results and Merge Train](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4786)
 - [Git performance on NFS](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4653)
-
-### Triage of pitches
-
-The Editorial team will review issues with the label `Blog::Pitch` every Monday, and a team member will respond on your issue to let you know whether to move forward with your draft.
-
-If your pitch isn't accepted, no problem! The Editorial team will suggest alternative publishing options. Sometimes a blog post is better suited for your personal blog platform, such as a LinkedIn post or a Medium blog post; a personal social media post, like a twitter thread. Othertimes, an idea for a blog post is better as a handbook page update or content marketing asset, like a case study or e-book. The Editorial team will suggest alternatives for blog post pitches that are not deemed suitable for the corporate blog.  
 
 ### If your pitch is accepted
 
@@ -144,13 +82,9 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 {: .alert .alert-info}
 
 ## Third-party posts
-We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in.
+We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
 
-**If you are a partner or industry-adjacent third party who wants to write for our blog, please contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same.**
-
-Blog posts concerning third parties or partners, whether they are to be published on the GitLab blog or externally, should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
-
-As a rule, any blog post, regardless of the author, should offer some informational, educational, or entertainment value to the reader. We do not publish material that is exclusively promotional in nature.
+**Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader. 
 
 ### Guest author bio
 
@@ -205,9 +139,6 @@ For either type of guest post, the process and guidelines for publishing are as 
 
 If the author of a guest post is not an official GitLab partner, they may link back to their website or own content with inline links, but may not include a [CTA button](#cta) or promotional copy.
 
-### Cross posts
-
-We do not republish posts from other publications verbatim. The same principles apply as in [Joint announcements](#joint-announcements): it's more impactful and valuable to cross-promote a story that appears on one platform than to publish the same post in two places.
 
 #### If you're publishing a GitLab story on another site
 
@@ -217,64 +148,7 @@ If there is another layer/angle to the story, we could explore this in a new pos
 
 #### If you see a story we should feature on our blog
 
-If you spot a tweet, post, or feedback anywhere detailing an interesting use case for GitLab which you think could make a good story, open an issue and ping @kimlock to help determine whether we should pursue an interview for a blog post or case study (we will not ask the original author to create something for us).
-
-## Pick Your Brain posts
-
-For follow-up posts to [Pick Your Brain interviews with the CEO](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings), as soon as an [interview](https://www.youtube.com/playlist?list=PLFGfElNsQthafBVmoPPVMvBc_Gg2nsyQb) or livestream is scheduled, please open an issue in the  [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues) project, using the `PYB blog post` template, and fill out the relevant information there.
-
-The blog editorial team will assess the content of the post and decide how best to leverage it. This may mean publishing on the blog, on our Medium site, or something else.
-
-Once agreed, the blog team will assign and communicate the expected publish date.
-
-## Writing blog posts – best practices
-
-We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
-
-It's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
-
-### Think of our audience first
-
-When writing a blog post, please keep the reader in mind. This person has more than likely searched for a topic or a trend and is looking for comprehensive content with a clear takeaway. Write to this person and consider the tone and the language that will best get your point across.
-
-Our "[How to get your blog post pitch accepted](#how-to-get-your-blog-post-pitch-accepted)" section has some tips and prompts to help you prioritize our audience when planning your blog post.
-
-### How to write with the reader in mind
-
-It is important to have empathy for your reader. What this means is putting yourself in the position of the reader when writing or reviewing a blog post. Oftentimes, we write similarly to how we talk or think, which can lead to fractured phrasing and other patterns that can make it trickier for the reader to follow along. Remember: The reader doesn't have the background knowledge that the writer does. A good rule to remember is always write in a way that helps your reader move forward, and never requires them to go back to the previous sentence.
-
-#### A few best practices for effective writing
-
-The blog editor may point out some of these common areas for growth in the comments section of the blog post. Here are a few things to keep in mind:
-
-- Don't start a sentence with "This" or "That": It requires the reader go to the previous sentence to find out what you're referencing. Instead, define what you're saying outright.
-- Don't assume your reader knows what you're talking about. Define key concepts and terms, and explain what particular products and businesses do. For example, [in the following sentence, the author explains what Terraform is and does](/blog/2021/09/14/gitlab-together-with-terratag-open-source-to-help-you-manage-terraform-resources/): "Terraform is a command line (CLI) tool that can help manage and provision external resources such as public cloud infrastructure, private cloud infrastructure, network appliances, and SaaS and PaaS vendors."
-- Add links to relevant documentation, issues, MRs, or past blog posts whenever possible. This allows the reader to click the link and learn more if they're interested.
-- If the blog editor needs to read your sentence more than once, they may ask questions about what you're trying to say, or ask you to explain it. The editing process is conversation and [collaborative](/handbook/values/#collaboration), and may require a few asynchronous exchanges to help us get to a common understanding. The goal is always to help improve the clarity of ideas and language in the blog post, which will help us [drive results](/handbook/values/#results)!
-
-When in doubt, go through the draft again but this time adopting the eyes of a reader instead of a storyteller. Also, it is always easier to edit something that someone else has written, it is much harder to edit your own copy. This is where peer reviewers and the editorial team comes in!
-
-### Contextualize your post
-
-It's also important to consider the context of the post. Ask yourself why it matters to the reader, and, if possible, connect your story to a broader industry issue. Don't jump in straight away with what you want to tell the reader about without first giving some thought to and communicating why the reader should be interested. That type of context can "uplevel" your content and result in a better reader experience.
-
-There are generally two ways to go about this:
-
-**1. Include a "sweep" paragraph near the beginning of your post to contextualize**
-
-The following prompts may help you determine what to write about here:
-
-- What is the status quo?
-- What problem are you trying to solve or what challenge are you hoping to address?
-- What will the reader gain from reading your post? What will they learn?
-
-You can see an example of "sweep" paragraphs at the beginning of [this post on low-code/no-code tools](/blog/2020/03/26/low-code-no-code/), giving history and context to the topic before diving into the GitLab-specific story.
-
-**2. Uplevel the whole post**
-
-Example: "[The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)" was originally planned to be just about how GitLab's Frontend group redesigned its technical interviews. After discussion, it was decided that there was a broader story to tell here, because the GitLab story (redesigning Frontend technical interviews) was really addressing a greater, industry-wide problem, which is that technical interviews aren't effective and aren't always inclusive.
-
-Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
+If you spot a tweet, post, or feedback anywhere detailing an interesting use case for GitLab which you think could make a good story, open an issue and ping @nwoods to help determine whether we should pursue an interview for a blog post or case study (we will not ask the original author to create something for us).
 
 ### Is your blog post SAFE?
 
@@ -466,8 +340,6 @@ Look for the following patterns:
 
 Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
 
-## Publishing natively on LinkedIn and Medium
-Occasionally, some blog posts are better suited to publishing natively by the author on LinkedIn, or on [Medium](https://medium.com/@gitlab). We reach slightly different audiences on these channels, and some content will get better exposure and reach if published there. If you submit a blog post and the content team decides it's a better fit for one of these, we will let you know. For now, we will treat this segmentation as an experiment, monitor the performance of different types of content on different channels, and apply our learnings. We may then be able to start planning content for specific outlets and commission stories accordingly.
 
 ## Formatting guidelines
 
