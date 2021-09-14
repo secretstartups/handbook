@@ -546,7 +546,6 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - open source
 - patch releases
 - performance
-- [pick your brain](/handbook/eba/ceo-scheduling/#pick-your-brain-meetings)
 - production
 - releases
 - remote work
