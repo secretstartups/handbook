@@ -252,11 +252,63 @@ Sample Questions:
 * [Virtual Survey Says](https://www.teambonding.com/virtual-events/virtual-survey-says/) - FieldOps Team did this event and loved it. Host was great.
 * [Speakeasy VIRTUAL Team Building Events](https://www.thespeakeasysf.com/) ---> Brochure: https://drive.google.com/file/d/13qtyaplMP3t_zawqvPw4a4ROB4Xib168/view?usp=sharing - recommended by David Sakamoto
 * [Teambonding](https://www.teambonding.com/virtual-events/) - Quickfire Olympics - FieldOps team did this event (wasn’t as good as Survey Says!) 
-* [Teambuilding]9https://teambuilding.com/) - Trivia - FieldOps team enjoyed Trivia, hosts were high energy.
+* [Teambuilding](https://teambuilding.com/) - Trivia - FieldOps team enjoyed Trivia, hosts were high energy.
 
 ### Not Hosted
-* Online Team Building Bingo (free!)
-* Virtual Time Capsule (free!) 
+* [Online Team Building Bingo (free!)](https://teambuilding.com/blog/online-team-building-bingo)
+* [Virtual Time Capsule (free!)](https://teambuilding.com/blog/virtual-team-building-activities#virtual-time-capsule) 
+
+### Escape Rooms 
+* [The Escape Room](https://theescapegame.com/remote-adventures/)
+* [Reason](https://www.tryreason.com/)
+* [Mystery Escape Room](https://www.mysteryescaperoom.com/) - the TAM and FieldOps teams did this one
+
+### Murder Mysteries 
+* [Whudunnit](https://www.eventbrite.com/e/virtual-mystery-for-private-events-tickets-106555751120)
+* [Murder Mystery - 80's Prom Gone Bad](https://nightofmystery.com/product/totally-rad-80s-prom-gone-bad/)
+* [Murder Mystery](https://teambuilding.com/events/murder-mystery)
+* [Host you own - Instructions here](https://www.realsimple.com/work-life/entertainment/virtual-murder-mystery-party)
+
+### Contests
+* Costume Contest
+  * At an appointed time or over the course of a week people can submit photos of their costumes, their kids’ or pets’ costumes, etc., and you set up voting.  
+  * Individually or by team for larger groups
+  * Can be themes / categories (punniest, most creative, etc.) 
+* Zoom Background Contest
+  * Have everyone show up with it or start with blank backgrounds and have each person turn theirs on one at a time. 
+* Virtual pumpkin carving and/or cookie decorating and/or gingerbread house making (anything, really)
+  * Team members can submit photos or reveal live (or enact live but this  may need to be timeboxed to maintain momentum and interest)
+  * [Virtual Pumpkin Carving](https://www.teambonding.com/virtual-events/pumpkin-carving-virtual/)
+  * Can have different categories (carved, painted, decorated, etc.)
+
+### Themed
+* Themed treat boxes for each team member
+  * Make it a gift or enjoy together at a virtual event
+  * Decorating Cookie Kit (has both prepared and mix options)
+* Themed cocktail kits for each team member 
+  * Make it a gift or enjoy together at a virtual event
+* Slide show of team members’ childhood pictures
+  * Can be theme-specific (like Halloween costumes)
+* Themed Trivia
+
+### Magician
+* [Zoom Magician](https://www.alanhudson.net/magic/online-magic-show-interactive-magician-zoom/)- onlined interactive magic show
+
+### Happy Hours
+* [Cocktail Courier Kits](https://www.cocktailcourier.com/shop/all/?sort_id=new&cocktails=1&products=0) - great for a Happy Hour. The kits come with everything you need and ship directly to the team.
+* [Virtual Happy Hour Cocktail Kits](https://www.teambonding.com/diy-team-building/virtual-happy-hour-cocktail-kits/)
+* [Virtual Team Painting](https://www.teambonding.com/virtual-events/team-painting/)
+* [Sketch it Forward](https://www.teambonding.com/virtual-events/sketch-it-forward/)
+
+### Other Hosted Experiences 
+* [Thriver Virtual Experiences](https://www.thriver.com/) ---> [Thriver PDF](https://drive.google.com/file/d/1d7fP2Rxh_tJc8YfFU2I4Dv2HEbh7ESJX/view)
+* [Offsite Co](https://www.theoffsiteco.com/virtual-retreat#explore)
+* [Offsyte.com](https://www.offsyte.co/discover)
+  * [Cyber Sleuths: A Virtual Codebreaking Adventure](https://www.offsyte.co/activities/cyber-sleuths)
+  * [Amazing Cyberspace Race](https://www.offsyte.co/activities/amazing-cyberspace-racehttps://www.offsyte.co/activities/amazing-cyberspace-race)
+* [We Crush Events - Amazing Cyberspace Race](https://www.offsyte.co/activities/amazing-cyberspace-race)
+* [Luca and Lorenzo Cooking Event](https://www.airbnb.com/experiences/1526657)
+
 
 ### In-person events 
 * To be added 
