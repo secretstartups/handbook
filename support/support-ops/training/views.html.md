@@ -140,7 +140,7 @@ their actions, we strive to meet some standards on all views we work with.
 
 ### Naming standards
 
-The name used for the form should be simple, clear, and concise. You want the
+The name used for the view should be simple, clear, and concise. You want the
 name to convey what the view is used for.
 
 ### Condition standards
@@ -153,7 +153,6 @@ exclusions for _every_ other form. This can take time and practice to learn, so
 when in doubt, pair with the rest of the Support Ops team!
 
 ## Change management
-
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/MSkyalDswso" frameborder="0" allowfullscreen="true"> </iframe>
