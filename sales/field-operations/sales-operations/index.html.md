@@ -40,3 +40,4 @@ Sales Operations main focus is on the Sales organization and supports this group
     <a href="/handbook/sales/field-operations/sales-strategy/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Sales Strategy</a>
   </div>
 
+[Sales Operations Internal Page](https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.tl3z53xvd1wc)
