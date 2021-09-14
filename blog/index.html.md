@@ -261,6 +261,38 @@ Example: "[The trouble with technical interviews? They aren't like the job you'r
 
 Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
 
+### Is your blog post SAFE?
+
+GitLab is a maturing company, and while transparency remains a core value, we are considering what information falls under "Internal Transparency" and what falls under "External Transparency". The Editorial team has the responsibility of making sure that all blog content is consistent with our **SAFE** guidelines. Below is a summary of the [SAFE guidelines created by our legal team](/handbook/legal/safe-framework/):
+
+**1. Sensitive:** "The S in SAFE serves as a reminder to make sure that Team Members are not sharing information which could be considered Sensitive information without express approval from GitLab Legal."
+
+Example: Does this blog post contain confidential company information, customer or partner information, or information about the security or stability of GitLab's platform?
+
+**2. Accurate:** "The A in SAFE serves as a reminder to double-check that the information Team Members are sharing is Accurate."
+
+Example: Can you site the information shared in this blog post? Is this information verifiable if challenged by an external party?
+
+Remember: "Not only should Team Members make sure that the information is Accurate, but they should be able to provide the underlying data, if applicable, to support the accuracy or confirm the methodology used to achieve the data."
+
+Fix this by attributing data or information to a source.
+
+**3. Financial**: "The F in SAFE serves as a reminder that the company’s Financial information is so important to protect that it requires CFO’s approval prior to sharing externally."
+
+Example: Does your blog post contain any financial information, such as dollars, performance metrics, or margins? Does the information you are about to share include any **forward-looking statements**? This includes quantitative (something that CAN be expressed as a number) and qualitative (something that CANNOT be expressed as a number) statements.
+
+**4. Effect:** "The E in SAFE serves as a reminder to be mindful about the Effect - intentional and unintentional - that the information Team Members are sharing may have on the company."
+
+Example: Does your blog post contain information that could be helpful or harmful to the company or team members? What effect could the information contained in your blog post have on the "information mix" available to the public?
+
+Remember: "When considering what information to disclose, Team Members should consider the pros and cons of the Effect the information will have on all parties inside and outside the company. Furthermore, Team Members should also consider that in some instances information intended to have one Effect may have a completely different, unintended Effect. When in doubt, talking it over with a colleague or reaching out via #safe is always a good option."
+
+#### What does this mean for my blog post?
+
+GitLab has a bias for action, and the Editorial team is no different. However, the GitLab Blog is a public-facing asset and represents the company. If the Editorial team has concerns or questions about the information contained in the blog post, the **Editorial team members have the authority to hold a blog post** until Legal, Corporate Commmunications, Partner Marketing, the CMO, etc., can review the blog post to mitigate any potential risk for the company.
+
+Learn more about the [SAFE Guidelines by reading the handbook page](/handbook/legal/safe-framework/).
+
 ### Diversity, Inclusion, and Belonging (DIB) checklist for blog writers
 
 It is important that our blog content represents our company values of diversity, inclusion, and belonging. Not all of these points will be relevant to your blog post, but they are important values and practices to be mindful of throughout the writing process. The blog editorial team tries to check for these things, but it is better if all content is created with these values and practices in mind. Tag us if you have questions!
