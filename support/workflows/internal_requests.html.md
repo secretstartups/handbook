@@ -104,6 +104,7 @@ This is a generic template used to request an engineer with GitLab.com console a
 Common issues include the following when the UI and API methods are not working:
 
 - Deletion of projects, groups, cluster integrations, container registries, etc.
+- Deletion of uploads or attachments containing sensitive information, until [gitlab#16229](https://gitlab.com/gitlab-org/gitlab/-/issues/16229) (or similar) is implemented.
 - User account changes
 - Group namespace changes
 - Project export
