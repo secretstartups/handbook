@@ -331,27 +331,27 @@ If as a manager you are notified that your direct report has been incapacitated 
 
 Reporting from the PTO by Roots app helps managers:
 
-1. Make sure their direct reports are taking enough PTO
-1. Compare upcoming PTO to make project management decisions and manage team member burnout
+1. Be sure their direct reports are taking enough PTO
+1. Review upcoming PTO of direct reports to make project management decisions and manage team member burnout
 
 Managers can access the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
 
 ![how to pull pto by roots reports](/sites/handbook/source/handbook/paid-time-off/pto-reports.png){: .medium.center}
 
-More training materials are found in the [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) and the [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing). 
+More training materials for PTO by Roots are found in the [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) and the [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing). 
 
 #### How to use PTO by Roots data to support your team
 
-Understanding the PTO that your team has taken, and plans to take, helps managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Roots data.
+Understanding the PTO that teams have taken, and plan to take, helps managers have conversations about burnout and burnout management with their direct reports. Below are common scenarios faced by managers than can be supported using PTO by Roots data.
 
 #### Discuss team member burnout
 
 1. Pull a report of PTO taken in the previous quarter
 1. Notice the kind of PTO that your team has taken. Consider the following questions and manager actions: 
-     - How much sick leave did your team take? Check in with team members who've taken multiple sick days to see how they are doing.
-     - How many vacation days did your team take? Reminded team members to take time off of work to rest and recharge.
-     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative)
-     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of your team is working.
+     - How much sick leave did your team take? Check in with team members who've taken multiple sick days to see how they are doing and what support they might need.
+     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
+     - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative).
+     - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
 
 #### Planning and decision making for future projects
@@ -361,8 +361,9 @@ Understanding the PTO that your team has taken, and plans to take, helps manager
      - What does my team have capacity to achieve this quarter?
      - What weeks should I avoid scheduling key communication or planning?
      - What weeks are best to have synchronous team calls?
-1. If your team does not have any planned PTO when you run the report, consider sending a message or encouraging them in your next 1:1 to plan ahead to take PTO.
-1. Confirm that you're getting calendar invitations for your direct reports PTO. This way, you can use your weekly and monthly calendar view to plan for your team. If you're not, ask your reports to add you following these steps:
+     - What weeks do I plan to take off, and how do those overlap with my team?
+1. If your team does not have any planned PTO when you run the report, consider sending a message or encouraging them in your next 1:1 to plan ahead to take PTO. Getting ahead of burnout is important and can be partially addressed with adequate rest.
+1. Confirm that you're getting calendar invitations for your direct reports PTO. This way, you can use your weekly and monthly calendar views to plan for your team. If you're not, ask your reports to add you following these steps:
 
 ![how to sync calendar with PTO by Roots](/sites/handbook/source/handbook/paid-time-off/calendar-sync.png){: .medium.center}
 
