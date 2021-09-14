@@ -11,7 +11,7 @@ description: "Successful management includes onboarding, reviewing Command Plans
 {:toc .hidden-md .hidden-lg}
 
 ## Overview
-As a compliment to the [Enterprise ASM Manager Operating Rhythm (MOR) 1-pager](https://docs.google.com/spreadsheets/d/1s_QMqt4a3UKKZkIdf82N5840_ygPE4z7mpgpniSCsNc/edit?usp=sharing), the below content provides more granular guidance into how each of these responsibilities is conducted. The content has been sourced from experienced GitLab ASMs and is meant to serve as a guide (not hard and fast mandates) to help you manage your business and optimize results.
+As a complement to the [Enterprise ASM Manager Operating Rhythm (MOR) 1-pager](https://docs.google.com/spreadsheets/d/1s_QMqt4a3UKKZkIdf82N5840_ygPE4z7mpgpniSCsNc/edit?usp=sharing), the below content provides more granular guidance into how each of these responsibilities is conducted. The content has been sourced from experienced GitLab ASMs and is meant to serve as a guide (not hard and fast mandates) to help you manage your business and optimize results.
 
 ## Planning and Execution
 
@@ -128,6 +128,7 @@ Always be recruiting! As outlined in the [Winning Top Talent](/handbook/sales/fi
 **Key Resources**    
 - Success Profile
 - Interview Guide
+- Networking tools
 - "Why GitLab" Summary
 
 ### Onboarding
