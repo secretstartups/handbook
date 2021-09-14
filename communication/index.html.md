@@ -1101,12 +1101,12 @@ We have a low internal email culture, as we see greater efficiency in other form
 
 Slack is used for:
 
-1. Internal-only communications and important announcements impacting all team members
+1. Internal-only communication and announcements impacting all team members
 1. Company newsletters and team updates
 1. Asynchronous team standups, questions, and quick collaboration
-1. Informal communications
+1. Informal communication
 
-Use a [Bias for action](/handbook/values/#bias-for-action) to quickly move conversations that require collaboration and action out of Slack and into an issue.
+Use a [bias for action](/handbook/values/#bias-for-action) to quickly move conversations that require collaboration and action out of Slack and into an issue.
 
 Slack should specifically NOT be used for:
 
