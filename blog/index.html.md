@@ -4,7 +4,7 @@ title: "Blog Handbook"
 description: "A comprehensive guide to pitching and publishing to the GitLab blog."
 ---
 
-The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/).
+The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/). The managing editor of the blog is Valerie Silverthorne (@vsilverthorne).
 
 ## Communication
 - Chat channels; use `#content` for questions, see `#content-updates` for updates on most recently published articles.
@@ -26,14 +26,15 @@ The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing
 
 ## How to pitch a blog post
 
-Please open an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
+The first step to publishing a blog is to pitch an idea.
+
+Start by opening an issue in the [gitlab.com/gitlab-com/www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com/issues/new?issuable_template=blog-post) using the `Blog post` template. Include a short summary of your proposed blog post where indicated, and add the `Blog::Pitch` label to ensure your pitch is triaged. Unless your post is urgent, there is no need to ping the Editorial team as pitches with that label are reviewed weekly.
 
 If you hope to publish on a specific date or within a specific timeframe, please allow at least three weeks' lead time from the date you open your issue and ping `@vsilverthorne` immediately, as the [Editorial calendar](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-calendar) fills up quickly and we cannot guarantee there will be a slot for your post without adequate notice. Please give a rationale for your proposed publish date in the issue description so the team can prioritize accordingly.
 
 If you prefer, you can start drafting your blog post right away, before getting approval. All this means is that you may need to edit your post based on feedback from the Editorial team.
 
 If you do not intend to write the post yourself but are just suggesting an idea you think would be worth pursuing, please make this clear in your issue description.
-
 
 ### Examples of strong blog post pitches
 
@@ -82,6 +83,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 {: .alert .alert-info}
 
 ## Third-party posts
+
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
 
 **Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader.
@@ -113,7 +115,7 @@ At this stage you and Alliances can decide whether or not the blog post topic ju
 When the merge request has been reviewed by the Editorial team, please assign the blog post MR and associated issue to the partner manager to submit the draft to our partners for review while CC'ing the appropriate stakeholders from marketing for visibility. This should be done with 48 hours' courtesy notice, for the sole purpose of providing feedback on the following areas:
 
 - Accuracy and appropriate representation of the partner in the context of the blog
-- Accuracy of the technical components of the blog. (i.e. If we're using the wrong CLI command or stating something inaccurate about their service/product offering)
+- Accuracy of the technical components of the blog. (i.e., If we're using the wrong CLI command or stating something inaccurate about their service/product offering)
 - The headline, only in cases where the partner or their product or services are named in the headline
 
 We should not proceed to publish the blog post until the partner manager has received the feedback and/or has received acknowledgment from the partner that they have read the draft within the 48-hour window. If we need to escalate within the Alliance team, @bjung is the highest escalation point within that team.
