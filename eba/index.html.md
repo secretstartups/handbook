@@ -30,7 +30,7 @@ This page details processes and general guidelines specific to the Executive Bus
 * Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
 * Jennifer Garcia (EBA) supporting Johnathan Hunt (VP of Security) and Anoop Dawar (VP of Product Management)
-* To be hired (EBA) supporting Finance Leadership: Dale Brown, Bryan Wise
+* To be hired (EBA) supporting Finance Leadership: Dale Brown, Bryan Wise, VP of IR 
 
 
 ## Contact us
