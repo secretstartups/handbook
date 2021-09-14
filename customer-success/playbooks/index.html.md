@@ -1,10 +1,9 @@
 ---
 layout: handbook-page-toc
-title: "Customer Success Playbooks"
+title: Customer Success Playbooks
 ---
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -12,8 +11,7 @@ title: "Customer Success Playbooks"
 
 View the [Customer Success homepage](/handbook/customer-success/) for additional Customer Success handbook content.
 
----
-
+- - -
 
 Customer Success playbooks assist in selling, driving adoption, and ultimately delivering more value to customers via GitLab's DevOps platform. The below playbooks will include original content as well as links to other parts of the handbook.
 
@@ -42,64 +40,67 @@ Customer Success playbooks assist in selling, driving adoption, and ultimately d
 ## Types of Playbooks
 
 - **Risk**: Represents negative trends with customers. Examples include low license utilization, non-engaged customer and product risk.
-
 - **Event/Lifecycle**: Lifecycle-based and typically scheduled events. Examples include onboarding, EBRs, and success planning.
-
 - **Opportunity/Expansion**: Enablement/Expansion which is tied to revenue and/or product growth. Examples include stage adoption and uptiering.
-
 - **Objectives**: Tied to Success Plans and can only be created in C360 > Success Plans section.
-
 - **Activity**: Tied to 360 Timeline Activities. Activity is generally used as the default CTA type for CTAs created from the Timeline feature automatically. Users can also create CTAs of this type from the Cockpit page. Example includes account handoff AND update stale TAM sentiment.
-
 - **Digital Journey**: Represents the Customer Digital Journey content. Examples include digital onboarding and adoption email series.
 
 ## Catalog of Playbooks
 
 The following playbooks are aligned to our [customer adoption journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) and support adoption of the related customer capability and [GitLab stage](/handbook/product/categories/). Within Gainsight, the TAM can manually add any Playbook ([instructions](/handbook/customer-success/tam/gainsight/#ctas)) to a Customer.
 
-| Title | Live in GS? | Automated? | Gainsight Location | Type | Internal Reference Link |
-| ------ | ------ | ------ | ------ | ------ | ------ |
-| Stage Adoption: Manage    | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Plan      | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Create    | **Yes** | Manual | Success Plan | Stage Adoption | [Source Code Management (SCM) / Create Stage](/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/) |
-| Stage Adoption: Verify    | **Yes** | Manual | Success Plan | Stage Adoption | [Continuous Integration / Verify](/handbook/marketing/strategic-marketing/usecase-gtm/ci/) and [TAM CI Workshop](/handbook/customer-success/playbooks/ci-verify.html)|
-| Stage Adoption: Package   | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Secure    | **Yes** | Manual | Success Plan | Stage Adoption | [DevSecOps / Security / Secure](/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/) |
-| Stage Adoption: Release   | **Yes** | Manual | Success Plan | Stage Adoption | [Continuous Delivery / Release](/handbook/customer-success/playbooks/cd-release.html) |
-| Stage Adoption: Configure | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Monitor   | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Stage Adoption: Protect    | **Yes** | Manual | Success Plan | Stage Adoption | |
-| Selling Ultimate to New Customers   | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
-| Ultimate uptier for existing customers  | **Yes** | Manual | Success Plan | ROI Success | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/) |
-| Server Migration - On-Prem to On-Prem    |**Yes** | Manual | Success Plan | Stage Adoption | |
-| Server Migration - On-Prem to Self-Managed Cloud    |**Yes** | Manual | Success Plan | Stage Adoption | |
-| Server Migration - On-Prem/Cloud to K8S    |**Yes** | Manual | Success Plan | Stage Adoption | |
-| Server Migration - Self-Managed to GitLab SaaS    |**Yes** | Manual | Success Plan | Stage Adoption | |
-| Geo Implementation  |**Yes** | Manual | Success Plan | ROI Success | [Info Sheet](https://docs.google.com/document/d/1Gn93NUWq4RxPvfxJRodEyvb-6-dLqUV6euPV8k9yIvw/edit)<br>[Discovery Questions](https://docs.google.com/document/d/1KgSHHsYFHPB__xA9rlUEbLBRYDlPl6FyKzn1V8I2Wfk/edit)<br>[Implementation Tips&Tricks](https://docs.google.com/document/d/1EhXT-_Wf0GrmDSh2vthca0sl6bWb-1hQruv2lHd4aFs/edit?ts=60356ba2) |
-| Account Triage | **Yes** | Automated | CTA | Risk |      |
-| Low License Utilization | **Yes** | Automated | CTA | Risk |      |
-| Product Risk | **Yes** | Manual | CTA | Risk |      |
-| Non-Engaged Customer | **Yes** | Manual | CTA | Risk |      |
-| CI Health Enablement/Expansion Review | **Yes | Automated | CTA | Activity | 
-| Create Success Plan | **Yes** | Automated | CTA | Lifecycle |      |
-| Customer Offboarding | **Yes** | Automated | CTA | Lifecycle |      |
-| Executive Business Reviews | **Yes** | Automated | CTA | Lifecycle | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)<br>(Internal Only Link)     |
-| New Customer Onboarding | **Yes** | Automated | CTA | Lifecycle |      |
-| High License Utilization: Growth Opportunity | **Yes** | Automated | CTA | Lifecycle |      |
-| Usage Ping Enablement | **Yes** | Manual | CTA | Lifecycle | [Usage Ping FAQ](/handbook/customer-success/tam/usage-ping-faq/) |
-| Onboarding Pilot | **Yes** | Automated | CTA | Lifecycle |      | 
-Upcoming Renewal | **Yes** | Automated | CTA | Renewal |      |
-| Prometheus & Grafana | **Yes** | Manual | Not Available | Not Available |  [Internal link - existing Playbook](https://drive.google.com/open?id=1pEu4FxYE8gPAMKGaTDOtdMMfoEKjsfBQ)    |
-| GitLab Days | **Yes** | Manual | Not Available | Not Available | [Internal link - existing Playbook](https://drive.google.com/open?id=1LrAW0HI-8SiPzgqCfMCy2mf9XYvkWOKG)     |
-| Account Handoff | **Yes** | Manual | CTA | Activity |      |
-| Update Stale TAM Sentiment | **Yes** | Manual | CTA | Activity |      |
-| New TAM Account Assignment | **Yes** | Automated | CTA | N/A |  |
-| [GitLab Server Migrations](/handbook/customer-success/playbooks/server-migrations.html) | **Yes** | Manual | CTA | Not Available | [Internal link - existing Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)  |
-| Digital Onboarding - Welcome Email | **Yes** | Manual | CTA | Digital Journey |      | 
-| Digital Onboarding - Self-Managed Alternative Backup Strategies | **Yes** | Manual | CTA | Digital Journey |      | 
-| New Customer Digital Onboarding - SaaS Email Series | **Yes** | Manual | CTA | Digital Journey |  [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     |
-| New Customer Digital Onboarding - Self-Managed Email Series | **Yes** | Manual | CTA | Digital Journey |  [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     |
-| Digital Onboarding - CI Enablment (Verify) | **Yes** | Manual | CTA | Digital Journey | [Internal link - existing Playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)     | 
-
+|| Playbook Name                                                   | Automated/Manual | Type            | Internal Reference Link                                      |
+|-----------------------------------------------------------------|------------------|-----------------|--------------------------------------------------------------|
+| At-Risk                                                         | Automated        | Risk            |                                                              |
+| Low License Utilization                                         | Automated        | Risk            |                                                              |
+| Non-Engaged Customer                                            | Manual           | Risk            |                                                              |
+| Product Risk                                                    | Manual           | Risk            |                                                              |
+| Risk Escalation                                                 | Manual           | Risk            | [Opening a Triage CTA](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#triage-cta)                                         |
+| Create Success Plan                                             | Automated        | Lifecycle       |                                                              |
+| Customer Offboarding                                            | Automated        | Lifecycle       |                                                              |
+| Executive Business Review (EBR)                                 | Automated        | Lifecycle       | [EBR in a Box](https://drive.google.com/open?id=1wQp59jG8uw_UtdNV5vXQjlfC9g5sRD5K)                                             |
+| High License Utilization: Growth Opportunity                    | Automated        | Lifecycle       |                                                              |
+| New Customer Digital Onboarding: SaaS Email Series              | Manual           | Lifecycle       |                                                              |
+| New Customer Digital Onboarding: Self-Managed Email Series      | Manual           | Lifecycle       |                                                              |
+| New Customer Onboarding                                         | Automated        | Lifecycle       |                                                              |
+| Onboarding Pilot                                                | Automated        | Lifecycle       |                                                              |
+| Usage Data Enablement                                           | Manual           | Lifecycle       | [Usage Ping FAQ](https://about.gitlab.com/handbook/customer-success/tam/usage-ping-faq/)                                               |
+| Agile Enablement Stage Adoption                                 | Manual           | Objective       |                                                              |
+| Agile Expansion Stage Enablement                                | Manual           | Objective       |                                                              |
+| CD Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Delivery/Release](https://about.gitlab.com/handbook/customer-success/playbooks/cd-release.html)                                  |
+| CD Expansion Stage Adoption                                     | Manual           | Objective       |                                                              |
+| CI Enablement Stage Adoption                                    | Manual           | Objective       | [Continuous Integration/Verify](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/ci/) <br> [TAM CI Workshop](https://about.gitlab.com/handbook/customer-success/playbooks/ci-verify.html)               |
+| CI Expansion Stage Adoption                                     | Manual           | Objective       |                                                              |
+| Configure Enablement Stage Adoption                             | Manual           | Objective       |                                                              |
+| Configure Expansion Stage Adoption                              | Manual           | Objective       |                                                              |
+| Create Enablement Stage Adoption                                | Manual           | Objective       | [Source Code Management (SCM)/Create Stage](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/version-control-collaboration/)                    |
+| Create Expansion Stage Adoption                                 | Manual           | Objective       |                                                              |
+| DevSecOps Enablement Stage Adoption                             | Manual           | Objective       | [DevSecOps/Security](https://about.gitlab.com/handbook/marketing/strategic-marketing/usecase-gtm/devsecops/)                                           |
+| DevSecOps Expansion Stage Adoption                              | Manual           | Objective       |                                                              |
+| Geo Implementation                                              | Manual           | Objective       | [Info Sheet](https://docs.google.com/document/d/1Gn93NUWq4RxPvfxJRodEyvb-6-dLqUV6euPV8k9yIvw/edit)<br> [Discovery Questions](https://docs.google.com/document/d/1KgSHHsYFHPB__xA9rlUEbLBRYDlPl6FyKzn1V8I2Wfk/edit)<br>[Implementation Tips and Tricks](https://docs.google.com/document/d/1EhXT-_Wf0GrmDSh2vthca0sl6bWb-1hQruv2lHd4aFs/edit?ts=60356ba2) |
+| Improve Cycle Time (Lead Time for Changes)                      | Manual           | Objective       |                                                              |
+| Increase Deployment Frequency                                   | Manual           | Objective       |                                                              |
+| Manage Enablement Stage Adoption                                | Manual           | Objective       |                                                              |
+| Manage Expansion Stage Adoption                                 | Manual           | Objective       |                                                              |
+| Monitor Enablement Stage Adoption                               | Manual           | Objective       |                                                              |
+| Monitor Expansion Stage Adoption                                | Manual           | Objective       |                                                              |
+| Package Enablement Stage Adoption                               | Manual           | Objective       |                                                              |
+| Package Expansion Stage Adoption                                | Manual           | Objective       |                                                              |
+| Selling Ultimate to New Customers                               | Manual           | Objective       | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)                                               |
+| Server Migration - On-Prem to On-Prem                           | Manual           | Objective       | [GitLab Server Migrations Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)                            |
+| Server Migration - On-Prem to Self-Managed Cloud                | Manual           | Objective       | [GitLab Server Migrations Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)                               |
+| Server Migration - On-Prem/Cloud to K8S                         | Manual           | Objective       | [GitLab Server Migrations Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)                               |
+| Server Migration - Self-Managed to GitLab SaaS                  | Manual           | Objective       | [GitLab Server Migrations Playbook](https://docs.google.com/spreadsheets/d/1cP6czE6zZ9EWT5HGOF2MGP2repiV0GI8a8V2i9iK9vM/edit#gid=0)                               |
+| Ultimate Uptier for Existing Customers                          | Manual           | Objective       | [Handbook link](https://about.gitlab.com/handbook/customer-success/solutions-architects/sales-plays/)                                                |
+| Account Handoff                                                 | Manual           | Activity        |                                                              |
+| Update Stale TAM Sentiment                                      | Manual           | Activity        |                                                              |
+| Upcoming Renewal                                                | Automated        | Renewal         |                                                              |
+| Digital Adoption - CI Enablement                                | Manual           | Digital Journey |                                                              |
+| Digital Onboarding - SaaS Email Series                          | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)                            |
+| Digital Onboarding - Self-Managed Alternative Backup Strategies | Manual           | Digital Journey |                                                              |
+| Digital Onboarding - Self-Managed Email Series                  | Manual           | Digital Journey | [Internal link - existing playbook](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/)                            |
+| Digital Onboarding - Welcome Email                              | Manual           | Digital Journey |                                                              |
+| TAM Account Transitions                                         | Manual           | Digital Journey |                                                              |
 
 TAMs create playbooks to provide a prescriptive methodology to help with customer discussions around certain aspects of GitLab. We currently have a [Stage Adoption Guideline](/handbook/customer-success/tam/stage-adoption/) to assist with understanding where a customer stands, and we are working on merging adoption maps into the use case pages.
