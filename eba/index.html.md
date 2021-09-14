@@ -17,19 +17,20 @@ This page details processes and general guidelines specific to the Executive Bus
 
 ### E-Group Member EBA's
 * Cheri Holmes (Staff EBA) supporting Sid Sijbrandij (Co-Founder & CEO) and Michael McBride (CRO)
-* Katie Gammon (EBA) supporting Scott Williamson (CProdO) (interim), Michael McBride (CRO), and Stella Treas (Chief of Staff)
-  * Contact Katie for all scheduling requests for the CRO, CProdO and CoS 
 * Stefanie Haynes (Sr. EBA) supporting Craig Mestel (CMO), Harsh Jawharkar (VP, Product Marketing) and Melissa Smolensky (VP of Corporate Marketing)
-* Robyn Hartough (Sr. EBA) supporting Robin Schulman (CLO), Brian Robins (CFO) (interim support) and Legal Directors: Rashmi Chachra (Corporate), Rob Nalen (Operations & Contracts), Emily Plotkin (Employment), and Lynsey Sayers (Privacy & Product)
-* Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success)
-* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO), Eric Johnson (CTO), Johnathan Hunt (VP of Security) and Anoop Dawar (VP of Product Management)
-* To be hired (Sr. EBA) supporting Brian Robins (CFO). Robyn Hartough supporting in the interim. 
+* Megan Mozart (Temporary EBA) supporting Robin Schulman (CLO) and Brian Robins (CFO) (interim support)
+* Kat Allen (EBA) supporting Wendy Barnes (CPO), Pattie Egan (VP of People Operations, Technology and Analytics), Rob Allen (VP, Talent Acquisition) and Carol Teskey (Senior Director, People Success), Stella Treas (Chief of Staff)
+* Kristie Thomas (Sr. EBA) supporting Scott Williamson (CProdO) and Eric Johnson (CTO)
+  * Jennifer Garcia (EBA) providing interim support
+* To be hired (Sr. EBA) supporting Robin Schulman (CLO)
+* To be hired (Sr. EBA) supporting Brian Robins (CFO)
 
 
 ### All-Directs EBA's 
-* Jennifer Garcia (EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
+* Dana Pelton (Sr. EBA) supporting David Hong (VP of Field Operations), Michelle Hodges (VP of Worldwide Channels) and Nima Badiey (VP of Alliances)
 * Victoria Reinhardt (EBA) supporting David Sakamoto (VP of Customer Success), Ryan O’Nell (VP of Commercial Sales), Mike Pyle (VP of Enterprise Sales)
-* To be hired (Sr. EBA) supporting Finance Leadership: Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
+* Jennifer Garcia (EBA) supporting Johnathan Hunt (VP of Security) and Anoop Dawar (VP of Product Management)
+* To be hired (EBA) supporting Finance Leadership: Dale Brown, Bryan Wise, Tony Righetti, Igor Groenewegen-Mackintosh
 
 
 ## Contact us
