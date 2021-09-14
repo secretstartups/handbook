@@ -24,6 +24,28 @@ The [GitLab blog](/blog/) is managed by [the Editorial team](/handbook/marketing
  and [tone of voice guidelines](/handbook/marketing/corporate-marketing/#tone-of-voice)
 - [Monthly release post](/handbook/marketing/blog/release-posts/)
 
+## Who can publish content to the GitLab blog? 
+
+[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog pitches, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published to the main blog must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
+
+The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) – anyone can give input, but the editorial team will decide.
+
+All content that is published to the [main GitLab blog](/blog) must be carefully vetted to ensure the information shared is accurate, credible, [consistent with our values](/handbook/values/), and accurately represents the GitLab brand. The [editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/), which manages the GitLab blog, is tasked with this responsibility. Oftentimes, this responsibility involves [connecting with internal stakeholders on the partner marketing, corporate marketing, and legal teams to ensure the content has been vetted](/handbook/marketing/inbound-marketing/content/editorial-team/#process-for-blog-posts-that-require-approval).
+
+Before publishing, a blog post **must be reviewed by a member of the editorial team**. If the editorial team member is out of the office, a member of the content team can review the blog post. Once the appropriate reviewer has edited and approved the content, the editorial team member can add the blog post to the merge train, which means it is in the queue to publish.
+
+**Announcements may be reviewed and published by members of the corporate marketing team**.
+
+Otherwise, no blog may be published to the main blog without being reviewed by an editorial or content team member. The authority to publish rests with this team.
+
+### But what if my blog post is time sensitive?
+
+If you have a priority blog post that is time sensitive, indicate this by [applying the `priority` label to your blog post issue](/handbook/marketing/inbound-marketing/content/editorial-team/#labels) and explain why it is a priority blog post.
+
+Tag the reviewer from the editorial team in a comment on the issue that explains the time sensitive nature of the blog post. If an editorial team member is not available to review and/or merge the blog post, reach out to the #content team on Slack and ask for a team member to review and merge.
+
+_A time sensitive blog post may be held until it can be reviewed by the proper team members if the content contained in it is possibly [unSAFE](/handbook/legal/safe-framework/)._
+
 ## How to pitch a blog post
 
 The first step to publishing a blog is to pitch an idea.
@@ -1189,30 +1211,6 @@ This is usually because the image filename and what you entered in the frontmatt
 Make sure that the image path is correct (i.e. it begins with `/images/blogimages/` – no missing slash at the front, no `source` before the first slash).
 
 It often helps to look at the file of [another recent blog post that is already live](https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/sites/uncategorized/source/blog/blog-posts) and compare it to your file to see if there are any discrepancies.  
-
-## What team members have permission to publish to the main GitLab blog?
-
-### Who can publish to the main blog?
-
-All content that is published to the [main GitLab blog](/blog) must be carefully vetted to ensure the information shared is accurate, credible, [consistent with our values](/handbook/values/), and accurately represents the GitLab brand. The [editorial team](/handbook/marketing/inbound-marketing/content/editorial-team/), which manages the GitLab blog, is tasked with this responsibility. Oftentimes, this responsibility involves [connecting with internal stakeholders on the partner marketing, corporate marketing, and legal teams to ensure the content has been vetted](/handbook/marketing/inbound-marketing/content/editorial-team/#process-for-blog-posts-that-require-approval).
-
-Before publishing, a blog post **must be reviewed by a member of the editorial team**, or, if the editorial team member is out of the office, a member of the content team. Once the appropriate reviewer has edited and approved the content, the editorial team member can add the blog post to the merge train, which means it is in the queue to publish.
-
-**Only members of the editorial team may publish to the main blog**. [As stated in the blog post merge request template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/merge_request_templates/blog-post.md), if the editorial team member you were working with is out of office or otherwise unavailable and your post is time sensitive, ping the #content channel on Slack to ask a content marketing team member to review and publish the blog post. Announcements may be reviewed and published by members of the corporate marketing team. Otherwise, no blog may be published to the main blog without being reviewed by an editorial or content team member. The authority to publish rests with this team.
-
-### Why can only content team members click publish?
-
-[Everyone can contribute at GitLab](/company/mission/#mission). For the blog, this means we welcome your blog pitches, ideas, and drafts. However, the [main blog](/blog) is one of the many official voices of GitLab – meaning content that is published to the main blog must be carefully vetted to ensure we are accurately representing GitLab – both the company and the product. The editorial team, which manages the blog, is tasked with this responsibility.
-
-The editorial team members are the [directly responsible individuals (DRI) for the official GitLab blog](/handbook/people-group/directly-responsible-individuals/) – anyone can give input, but the editorial team will decide. Publishing content to the main blog that has not been copy edited or vetted by content marketing and/or corporate marketing team members may expose the brand to unnecessary risk and violates the DRI principles. The editorial team should have reviewed each piece of content before it is published to the main GitLab blog.
-
-### But what if my blog post is time sensitive?
-
-If you have a priority blog post that is time sensitive, indicate this by [applying the `priority` label to your blog post issue](/handbook/marketing/inbound-marketing/content/editorial-team/#labels). In the issue, provide justification for why the blog post should be prioritized ahead of all others in the queue.
-
-Tag the reviewer from the editorial team in a comment on the issue that explains the time sensitive nature of the blog post. If an editorial team member is not available to review and/or merge the blog post, reach out to the #content team on Slack and ask for a team member to review and merge.
-
-_A time sensitive blog post may be held until it can be reviewed by the proper team members if the content contained in it is possibly [unSAFE](/handbook/legal/safe-framework/)._
 
 ## When your blog post has been published
 
