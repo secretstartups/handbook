@@ -2,6 +2,9 @@ These KPIs are a subset of the [Development Department Performance Indicators](/
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
+    <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 922124, chart: 12716683, embed: 'v2') %>">
+  </div>
+  <div>
     <embed width="100%" height="350" src="<%= signed_periscope_url(dashboard: 922124, chart: 12717047, embed: 'v2') %>">
   </div>
   <% else %>
