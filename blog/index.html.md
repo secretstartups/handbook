@@ -84,7 +84,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 ## Third-party posts
 We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
 
-**Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader. 
+**Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader.
 
 ### Guest author bio
 
@@ -563,16 +563,8 @@ You can include as many tags as you like, separated by commas. Please only inclu
 - workflow
 - zero trust
 
-#### GitLab Commit tags
-
-In addition to the tags above, we also have tags for GitLab Commit events. If you want your blog post to appear on the relevant post-event GitLab Commit landing page, add the relevant tag to the frontmatter in the `tags` field. New tags will be added for each year of GitLab Commit.
-
-- brooklyn-2019  (post will display on [about.gitlab.com/events/commit/brooklyn](/events/commit/brooklyn/))
-- london-2019 (post will display on
-  [about.gitlab.com/events/commit/london](/events/commit/london/))
-- sanfrancisco-2019 (post will display on [about.gitlab.com/events/commit/sanfrancisco](/events/commit/sanfrancisco/))
-
 #### Call to action
+
 The CTA entry is optional; if you don't need to add any CTA to the hero, just omit both entries, leaving the frontmatter without them. Do not include any UTM parameters in the link. Always wrap their values with quotes.
 
 The final result is a red button over the cover image of the post.
