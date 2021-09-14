@@ -122,6 +122,16 @@ Once an implementation plan has been finalized, the following steps should be ta
 #### Merge request count as a measure of issue weight
 As a byproduct of the engineering evaluation process, a rough estimate of the number of merge requests required to develop a feature will be produced. This measure can be used as a way to determine issue weights. These weights can be useful during the planning process to get a rough gauge of how many features can be worked on in a milestone, and to understand how much work the team can do in a milestone. This metric also aligns with the [merge request rate metric](/handbook/engineering/metrics/) currently measured by engineering teams.
 
+### Error budget
+The [Release Error Budget dashboard](https://dashboards.gitlab.net/d/stage-groups-release/stage-groups-group-dashboard-release-release?orgId=1) is used to identify and prioritize issues that are impacting our customers and infrastructure performance. 
+
+To ensure that we are consistently monitoring and addressing these issues, each milestone the engineering manager will review the error budget dashboard to monitor changes and determine whether or not we're exceeding our budget. If needed, investigation issues will be opened to identify what is contributing to our error budget spend, and the `~release::error-budget` label 
+will be applied to facilitate tracking and measurement. These issues will be added to the upcoming milestone, and an engineer will be assigned to help determine the root cause. Once a potential solution has been identified, the issue will be triaged based on the [regular triage process](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) and scheduled per the regular async planning process. 
+
+In some instances, we may determine that a service is functioning properly and that an adjustment needs to be made to our [Service Level Indicators (SLI)](https://about.gitlab.com/handbook/engineering/monitoring/#gitlabcom-service-level-availability). If it is determined that the current thresholds are too low for a given service, the Product Manager who is the DRI for error budget spend, will work with the team to determine an appropriate SLI for that service. 
+
+More information about [error budgets](https://about.gitlab.com/handbook/engineering/error-budgets/) and how they are calculated can be found in the [error budget dashboard documentation](https://docs.gitlab.com/ee/development/stage_group_dashboards.html#error-budget).
+
 ### Quality
 Our goal is to ship software at scale without sacrificing quality or velocity. In order to do that, we believe that the quality of our product must be a shared responsibility. 
 
