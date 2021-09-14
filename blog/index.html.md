@@ -342,7 +342,6 @@ Look for the following patterns:
 
 Team members can also browse the [Content Marketing Dashboard](https://datastudio.google.com/open/1NIxCW309H19eLqc4rz0S8WqcmqPMK4Qb) to see more examples of current blog posts drawing high traffic.
 
-
 ## Formatting guidelines
 
 Please see the [publishing process](/handbook/marketing/blog#publishing-process) before you get started.
