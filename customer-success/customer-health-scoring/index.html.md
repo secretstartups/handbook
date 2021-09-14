@@ -18,9 +18,9 @@ description: "Customer Account Scoring overview and methodology framework to imp
 
 # Purpose
 
-The Customer Health Score assists GitLab Account Teams in understanding the relative health and growth potential (LAM) of customers for the purposes of predicting expansion, retention, and churn. 
+The Customer Health Score assists GitLab Account Teams in understanding the relative health of customers for the purposes of predicting expansion, retention, and churn. 
 
-This will be leveraged for the Early Warning System (EWS) as it is a work in progress, starting in FY22-Q2 and expected to take multiple quarters to achieve the overall objective.
+This will be leveraged for the Early Warning System (EWS) as it is a work in progress, starting in FY22-Q2 and expected to take multiple quarters to achieve the overall objective. Future state will include LAM for expansion potential.
 
 ## Account Health Predictor
 
