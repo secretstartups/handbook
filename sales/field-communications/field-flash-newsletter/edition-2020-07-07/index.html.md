@@ -31,7 +31,7 @@ Steve Challis, Strategic Account Leader UK, is joined by Brandon Jung, VP Allian
   <iframe src="https://www.youtube.com/embed/H1jG--VYrFc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-You can find the pre-written security questionnaire and SOC Compliance reports that Steve mentioned in GitLab's [Customer Assurance Package](/handbook/engineering/security/security-assurance/risk-field-security/customer-assurance-package.html).
+You can find the pre-written security questionnaire and SOC Compliance reports that Steve mentioned in GitLab's [Customer Assurance Package](handbook/engineering/security/security-assurance/field-security/customer-assurance-package.html).
 
 Have a deal you'd like to nominate? Fill out the [nomination form](https://forms.gle/7AYwzgFStrai5D2F7).
 
