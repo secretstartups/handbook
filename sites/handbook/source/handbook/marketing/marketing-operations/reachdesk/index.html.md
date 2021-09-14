@@ -27,9 +27,11 @@ TBD
 
 ## How to use 
 
-### Non-Marketo Campaigns
-All campaigns must have a Salesforce.com attached. If this campaign involves marketo, please skip to those instructions, otherwise follow directions below:
+All campaigns must have a Salesforce.com attached. If this campaign involves Marketo, please skip to [those instructions](handbook/marketing/marketing-operations/reachdesk/#marketo-campaigns), otherwise follow directions [below](handbook/marketing/marketing-operations/reachdesk/#salesforce-campaigns).
 
+Please use this (Mural TO BE CREATED) to determine your setup.
+
+### Salesforce Campaigns
 1. Clone [SFDC template](https://gitlab.my.salesforce.com/7014M000001vgGz) and fill in all necessary fields. You must clone because this template contains the  correct member statuses for the integration.
 1. Make sure bizible touchpoints are set to `Include only "Responded" Campaign Members`
 1. Create your ReachDesk Campaign
