@@ -216,52 +216,6 @@ For Job role/function and seniority descriptions can be found [here](https://doc
 Generic Domain|Contains generic email domain|	-5	|{{my.Generic Domain}}|Triggered|Once|
 |Country - P0, P1|[Country = P0, P1](https://about.gitlab.com/handbook/marketing/localization/#priority-countries)|	+5	|{{my. Country - P0, P1}}|	Trigger on creation or Update 	|Once|
 
-### Folder Structure
-
-
-Marketo Marketing Activities are broken up into three sections: `Operational Programs`, `Active Marketing Programs` and `Archive`.
-Below is the folder structure to hold and categorize different operational programs and marketing programs.
-
-<details>
-<summary markdown='span'>
-Folder Structure
-</summary>
-
-- Active Marketing Programs
-    - Conference
-    - Direct Mail
-    - Emails
-        - Adhoc Emails
-        - General Newsletter (Bi-weekly)
-        - Remote Newsletter (Monthly)
-        - Security Releases
-        - Webcast Newsletter
-    - Gated Content
-        - Content Marketing
-        - Content Syndication
-    - Integrated Campaigns
-    - Nurtures
-    - Owned Events
-    - Virtual Events
-        - Executive Roundtables
-        - GitLab-Hosted Campaign Webcasts
-        - GitLab-Hosted Workshops
-        - On Demand Reseller Webcasts
-        - Self-Service Events
-        - Sponsored Virtual Conference
-        - Sponsored Webcast
-        - Vendor Arranged Meetings
-    - Web Forms
-- Operational - Do not edit
-    - Data Management
-    - Sales Insight
-    - Scoring
-- Archive
-
-* Nested under each folder there are programs. Quarterly folders are created at the end of the quarter to help with organization. Quarterly folders will be archived after two quarters. In the future if we have additional types of folders to add, we can do so.* 
-
-</details>
-
 ## Lists and Segmentation
 
 ### Segmentations
