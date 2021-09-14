@@ -452,6 +452,23 @@ Teams roll up by the org chart hierarchy -
 - [General information](./processes/Infra-Dev-Escalation/)
 - [Process outline](./processes/Infra-Dev-Escalation/process.html)
 
+### Reducing the impact of far-reaching work
+
+Because our teams are working in separate groups within a single application, there is a high potential for our changes to impact other groups or the application as a whole. Examples of this would be changes to user authentication or login, which might impact seemingly unrelated services, such as project management or viewing an issue.
+
+Far-reaching work is work that has a large "blast radius" and includes changes to areas which:
+1. will be seen by a high percentage of traffic share
+1. impact entire services
+1. touch multiple areas of the application
+1. could have legal or security consequences
+1. could impact revenue
+
+If your group, product area, feature, or merge request fits within one of the descriptions above, you must seek to understand your impact and how to reduce it. This might include creating a one-off process for those types of changes, such as:
+- Creating a roll out plan procedure
+- Requiring feature flag usage
+- Requiring some existing but "recommended" process, like domain expert reviews
+- Requesting manual testing of the work before approval
+
 ## Books
 
 Note: books in this section [can be expensed](/handbook/spending-company-money).
