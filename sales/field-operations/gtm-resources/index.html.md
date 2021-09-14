@@ -15,3 +15,4 @@ description: "Operations, Procedures, Documentation"
 
 {::options parse_block_html="true" /}
 
+https://docs.google.com/document/d/1UaKPTQePAU1RxtGSVb-BujdKiPVoepevrRh8q5bvbBg/edit#bookmark=id.fmzmvoan49cf
