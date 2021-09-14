@@ -1209,7 +1209,7 @@ You may find this video walkthrough helpful for creating your blog post MR from 
 
 ### Creating a post from the command line
 
-You will need to be set up to edit the website locally in order to create your post this way. Please see [GitLab 102](/handbook/marketing/strategic-marketing/getting-started/102/) for instructions. If you're already set up:
+You will need to be set up to edit the website locally in order to create your post this way. Please see [how to edit locally](/handbook/git-page-update/) for instructions. If you're already set up:
 
 - Run `git checkout master`
 - Run `git pull` to ensure your version of master is up to date with GitLab.com
