@@ -139,6 +139,16 @@ Apdex and Error Rates are explained in more detail on [the handbook page](https:
 
 Error Budget Spend information is available on the [Error Budgets Overview Dashboard](https://app.periscopedata.com/app/gitlab/891029/Error-Budgets-Overview) in Sisense.
 
+### System-wide incidents
+
+System-wide incidents affecting shared services (such as the database or Redis) may have an impact on a team's 
+Error Budget spend. Since we look at spend over a 28 day period, the impact of these short lived events should be mostly
+negligible.
+
+If the impact is significant, we can discuss on the Monthly Report if this incident should warrant a manual adjustment to spend. 
+
+At this time, we are not looking futher into automatically discounting system-wide events from incidents because the associated spend and discussion could prove valuable in creating projects to harden and improve the resilience of the system.
+
 ### How to change error budget attribution
 
 Error budget events are attributed to stage groups via [feature categorization](https://docs.gitlab.com/ee/development/feature_categorization/index.html#feature-categorization). Updates to this mapping can be managed via merge requests if ownership of a part of the platform moves from one feature category to another.
