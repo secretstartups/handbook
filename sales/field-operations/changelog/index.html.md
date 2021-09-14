@@ -41,11 +41,11 @@ Customer Programs: [Launched Customer Webinar Invite - Advanced CI/CD with large
 
 ### 2021-08-30 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/60))
 
-**[GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
+**Channel Ops: [GCP Marketplace Private Offer Portal Migration Complete](https://gitlab.com/gitlab-com/sales-team/field-operations/enablement/-/issues/960#note_658162138)**
 
-**[Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
+**SOPS: [Salesforce: Command Plan Button - Open in New Tab](https://gitlab.com/gitlab-com/sales/-/issues/410)**
 
-**[LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
+**SOPS: [LinkedIn Developer Count](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1924)**
 
 ### 2021-08-02 Release
 
