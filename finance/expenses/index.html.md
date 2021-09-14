@@ -219,7 +219,7 @@ You may also want to buy a monitor arm for your desk that increases ergonomics. 
   * JBL T450BT On-ear Bluetooth Headphones - [Germany](https://www.amazon.de/dp/B01M6WNWR6/)
   * OnePlus Bullets Wireless 2 - [India](https://www.oneplus.in/product/oneplus-bullets-wireless-2)
   * Logitech H390 Headset - [AU](https://www.amazon.com.au/Logitech-981-000485-USB-Headset-H390/dp/B077DC9XQH)
-  * Apple AirPods are not recommended for Mac users - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers). They can be purchased for folks who use them for work phone calls 
+  * Apple AirPods are not recommended for Mac users - [US](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers). Apple Airpods Pro can be purchased for folks who use them for work phone calls 
     * Note: Do not use AirPods in Zoom meetings for work if you are using a [Mac](https://www.apple.com/mac/) due to the audio quality issues. It is sometimes difficult to hear team members who are using the microphone on AirPods. AirPods also have limited battery life, and we often see problems with them not lasting through multiple meetings. Consider options that will last longer and not cause interruptions.
 
 Keep in mind, open-ear headphones can often be worn longer than in-ear or closed headphones.
@@ -505,15 +505,16 @@ Slack channel
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses:
 
 As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), we try not to micromanage spending. Our spending sub-value is the foundation of our expense philosophy, and we've found that the vast majority of team members exercise thoughtful judgement in purchasing. That said, we've had some questionable purchases. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
-1. Costume for the party at the end of Contribute.
-1. Boarding expense for animals while traveling.
-1. A $1700 office chair from a celebrity furniture designer. 
-1. A llama rental for a team event.
-1. Meals during the Contribute when team members opt out of the company provided meal option.
-1. Cellphones and accessories.
-1. Travel related expenses for family members of GitLab employees.
-1. Fitness equipment (treadmill, etc..) and gym membership.
-1. Meals from co-working day(s).
+
+1. Costume for the party at the end of Contribute
+1. Boarding expense for animals while traveling
+1. A $1700 office chair from a celebrity furniture designer 
+1. A llama rental for a team event
+1. Meals during the Contribute when team members opt out of the company provided meal option
+1. Cellphones and accessories
+1. Travel related expenses for family members of GitLab employees
+1. Fitness equipment (treadmill, etc..) and gym membershi.
+1. Meals from co-working day(s)
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
 1. Meals or beverages while attending co working space
 1. Treadmill Desks
