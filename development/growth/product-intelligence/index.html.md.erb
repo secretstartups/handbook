@@ -193,36 +193,67 @@ Our team mostly follows the [Product Development Timeline](/handbook/engineering
 
 The specific application of this timeline to the Product Intelligence Milestone planning process is summarized below and in this recorded overview [video](https://youtu.be/dcO-Qbd042E).
 
-**2-3 weeks prior to the start of the next milestone**
-1. Milestone planning issue is created by the Product Manager. We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331864). 
-1. Issues are added to the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence) by the Product Manager
-     1. Issues at this stage will have the `~"workflow::planning breakdown"` label
-1. Product Manager will ping engineering team on Planning Issue asking for Technical Debt candidates
+#### Overview
 
-**2 weeks prior to the start of the next milestone**
-1. Product manager invites engineering to breakdown issues planned for next milestone
-     1. Review issue description for understanding and thoroughness
-     1. Ask questions
-     1. Break issue into smaller parts 
-     1. Create a technical plan
-     1. Add issue weight
-1. Monthly Roadmap Planning discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the first meeting of every month.
+| Phase           | Time                     | 
+|-----------------|--------------------------|
+| Planning Phase  | Prior to 18th of Month N |
+| Breakdown Phase | 18th – 22nd              |
+| Development Phase   | 23rd - 17th of Month N+1 |
 
-**1 week prior to start of the next milestone**
-1. Engineering completes board refinement, all issues are weighted
-     1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
-1. Engineering team indicates reduced capacity by adding planned time off to the Planning Issue     
-1. Product Manager orders the issue board by priority
-1. Product Manager adds/removes issues if the board is over/under target weight   
-1. Product Manager finalizes Planning Issue and pings engineering team
-1. Release Day happens on the `Current Month 22nd`
+#### 1. Planning Phase
 
-**Start of Milestone**
-1. Product Manager moves any open issues from the prior milestone to the new milestone and apply the `missed::x.xx` label
-1. Product Manager updates the planning issue with the weights closed in the prior milestone and the weights for the current milestone
-1. [Team Retrospectives](/handbook/engineering/management/team-retrospectives/) for prior milestone begins
-     1. Team Retrospective discussion takes place as a part of our Product Intelligence Sync meetings and it occurs on the last meeting of every month.
+**Timeline**: Latest one week prior the start of the next milestone
 
+**Tasks**:
+1. PM: Milestone planning issue gets created.  
+  We utilize a planning issue to keep our team organized during the planning phase. Here is an [example milestone planning issue](https://gitlab.com/gitlab-org/gitlab/-/issues/331864). 
+1. PM: Issues are added to the [Issue Board by Milestone](https://gitlab.com/groups/gitlab-org/-/boards/2774881?label_name%5B%5D=group%3A%3Aproduct%20intelligence).  
+    Issues at this stage will have the `~"workflow::planning breakdown"` label.
+1. PM: orders the issue board by priority
+1. PM: shares the roadmap as part of our Product Intelligence Sync meetings as a separated recorded video
+1. Engineers: indicate reduced capacity by adding planned time off in the [Planning Spreadsheet](https://docs.google.com/spreadsheets/d/1bqImTa34jTrEjFEfU8j4yHrzk29xyrWinTjgstYlrg4/) (internal link)
+
+**Definition of done**: Milestone issue is created and we have an estimated capacity.
+
+#### 2. Breakdown Phase
+
+This time will be used to:
+1. Review issue description for understanding and thoroughness
+1. Ask questions
+1. Break issue into smaller parts 
+1. Create a first technical plan
+1. Add issue weight
+
+This Phase does not include time for complex technical proposals. They will be worked on in the "Development Phase" of the milestone.
+
+**Timeline**: 18th - 22nd of the month.
+
+**Tasks**:
+1. All: **[Team Retrospectives](/handbook/engineering/management/team-retrospectives/) for prior milestone begins. 
+1. PM: updates the planning issue with the weights closed in the prior milestone and the weights for the current milestone.
+1. PM: moves any open issues from the prior milestone to the new milestone and apply the `missed::x.xx` label.
+1. PM: will ping engineering team on Planning Issue asking for Technical Debt candidates.
+1. PM: invites engineering to breakdown issues planned.
+1. Engineers: bring up Technical Debt candidates.
+1. Engineers: weight issues.
+1. Engineers: break down issues by posting a rough technical plan on each issue that has a weight bigger than 2.
+1. Engineers: coordinate with FE & BE work.
+1. Engineers: self-organize sync calls to discuss issues in depth.
+1. Engineers: link related and blocked issues
+
+**Definition of done**
+1. Engineering completes issue refinement, all issues are weighted & have a rough technical plan if weight is above 2.
+1. Engineering or Product Manager updates issue label to `~"workflow::ready for development"`
+
+#### 3. Development Phase: 
+- **Timeline**: 23rd of the month – 17th of next month.
+- **Tasks**:
+1. PM: adds/removes issues if the board is over/under target weight.
+1. PM: finalizes Planning Issue and pings engineering team. 
+1. Engineers: work on the planned issues.
+1. Engineers: can pick issues that are unassigned and label them with `~"workflow::in dev"`.  
+    Issues get assigned once an engineer starts working on it.
 
 #### Milestone Capacity
 
