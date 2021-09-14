@@ -461,7 +461,7 @@ The Total Rewards Analyst will review and initiate payment for all monthly healt
 
 ## GitLab Inc. United States Leave Policy
 
-Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencies/whd/fmla), US team members are "eligible to take job-protected leave for specified family and medical reasons with continuation of group health insurance coverage under the same terms and conditions as if the team member had not taken leave." For more information on what defines an eligible team member and medical reason please visit the [Electronic Code of Federal Regulation](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&sid=d178a2522c85f1f401ed3f3740984fed&rgn=div5&view=text&node=29:3.1.1.3.54&idno=29#sp29.3.825.b) for the most up to date data.
+Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencies/whd/fmla), US team members are "eligible to take job-protected leave for specified family and medical reasons with continuation of group health insurance coverage under the same terms and conditions as if the team member had not taken leave." For more information on what defines an eligible team member and medical reason please see [Employee Rights Under the Family and Medical Leave Act](https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf).
 
 ### Apply For Parental Leave in the US
 
