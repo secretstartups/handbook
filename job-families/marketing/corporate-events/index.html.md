@@ -24,7 +24,7 @@ The Corporate Events Manager (Intermediate) is a [grade 5](/handbook/total-rewar
 
 #### Corporate Events Coordinator Requirements
 
-* 1-2 years experience in an event marketing role
+* Relevant, progressive experience
 * Capability to coordinate across many teams and perform in fast-moving startup environment
 * Outstanding written and verbal communications skills
 * You embrace our values, and work in accordance with those values.
@@ -57,7 +57,7 @@ The Corporate Events Manager (Intermediate) is a [grade 6](/handbook/total-rewar
  
 #### Corporate Events Manager (Intermediate) Requirements
  
-* 3+ years corporate marketing events planning and management experience in the high-tech industry.
+* Relevant, progressive experience
 * Self-sufficient worker capable of managing multiple deadlines with little supervision.
 * Ability to work smart under pressure and efficiently on multiple project requests simultaneously, and to deal with potential for tight deadlines and unexpected complexities.
 * Exemplary communicator and collaborator; able to work with a variety of teams and personalities, possessing excellent verbal and written communications skills.
@@ -90,7 +90,7 @@ The Senior Corporate Events Manager is a [grade 7](/handbook/total-rewards/compe
 #### Senior Corporate Events Manager Requirements
 
 * Extends the Corporate Events Manager (Intermediate) Requirements
-* 7+ years corporate marketing events planning and management experience in the high-tech industry.
+* Relevant, progressive experience.
 
 #### Senior Corporate Events Manager Performance Indicators 
 
@@ -113,7 +113,7 @@ The Senior Global Events Manager is a [grade 8](/handbook/total-rewards/compensa
 #### Senior Global Events Manager Responsibilities
 
 * Extends the Senior Corporate Event Manager Requirements
-* 10+ years of experience building and executing a regional strategy.
+* Relevant, progressive experience
 * Capacity to easily transition from high level strategic thinking to creative and detailed execution.
 * Excellent communicator with proven aptitude to clearly convey ideas and data in written and verbal presentations to a variety of audiences.
 * Advocates for improvements to event quality, results, and efficiency that have particular impact across your team and others.
@@ -189,7 +189,7 @@ The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensatio
 
 #### Manager, Corporate Events Requirements
  
-* 5-7 years corporate events planning and management experience in the high-tech industry.
+* Relevant, progressive experience
 * Strategic marketing experience that goes beyond event operations/production, and includes substantial understanding of marketing communications, campaigns, event messaging, product and corporate content, and customer experience.
 * Self-sufficient worker capable of managing multiple deadlines with little supervision.
 * Ability to work smart under pressure and efficiently on multiple project requests simultaneously, and to deal with potential for tight deadlines and unexpected complexities.
@@ -219,7 +219,7 @@ The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/comp
 #### Senior Manager, Corporate Events Requirements
 
 * Extends that of the Manager, Corporate Events requirements
-* 10+ years experience in corporate events management.
+* Relevant, progressive experience
 * Background working with leadership to collaborate on corporate event strategy, goals and execution.
 * Ability to think creatively to solve problems that arise.
 * Proven experience managing budgets for large corporate marketing events. 
@@ -251,7 +251,7 @@ The Director, Corporate Events is a [grade 10](/handbook/total-rewards/compensat
 #### Director, Corporate Events Requirements
 
 * Extends that of the Senior Manager, Corporate Events requirements.
-* 15+ years experience in corporate events.
+* Relevant, progressive experience
 * Proven experience managing and growing teams.
 * Proven experience managing agencies and contractors to accomplish goals.
 
