@@ -28,10 +28,10 @@ See all current and planned category maturity in the [Maturity page](https://abo
 We want software teams to feel confident that the changes they introduce into their code are safe and conformant. 
 
 ## Performance Indicators
-We measure the value we contribute by using a [Product Performance Indicator](/handbook/product/metrics/). Our current PI for the Testing group is the [Paid GMAU](/handbook/product/ops-section-performance-indicators/#verifytesting---paid-gmau---count-of-active-paid-testing-feature-users). This is a rolling count of unique users who have interacted with any paid Testing feature. We count only users interacting with Paid Features, as opposed to users on paid plans using any feature, because our team goal is to drive additional value in the Premium and Ultimate tiers within the Verify Stage. We are tracking progress of this in [this epic](https://gitlab.com/groups/gitlab-org/-/epics/2991).
+We measure the value we contribute by using a [Product Performance Indicator](/handbook/product/metrics/). Our current PI for the Testing group is the [GMAU](/handbook/product/ops-section-performance-indicators/#verifytesting---gmau---count-of-active-users-triggering-a-pipeline-with-a-testing-artifact). This is a rolling count of unique users who have triggered a pipeline that uploads a test or coverage report. This is not currently instrumented and we are tracking progress of instrumentation in [gitlab&4528](https://gitlab.com/groups/gitlab-org/-/epics/4528).
 
 ### Adoption Funnel
-This funnel represents the customer journey and the various means a product manager may apply a Performance Indicator metric to drive a desired behavior in the funnel. This framework can be applied to any of the categories being worked on by Verify:Testing. The current priority is to increase Activation, Retention and Revenue within the [Code Quality](/direction/secure/static-analysis/code_quality/) Category.
+This funnel represents the customer journey and the various means a product manager may apply a Performance Indicator metric to drive a desired behavior in the funnel. This framework can be applied to any of the categories being worked on by Verify:Testing. The current priority is to increase Activation within the [Code Testing and Coverage](/direction/verify/code_testing/) Category.
 
 ```mermaid
 classDiagram
@@ -41,13 +41,13 @@ classDiagram
   Revenue --|> Referral
   Referral --|> Acquistion
     Acquistion : Awareness
-    Acquistion : Measurement (page views on code quality docs)
+    Acquistion : Measurement (page views on code testing docs)
     Activation : Use
-    Activation : Measurement (Uploads of a code quality artifact)
+    Activation : Measurement (Uploads of a code testing artifact)
     Retention : Continued Use
-    Retention : Measurement (Unique users that engaged with code quality widget)
+    Retention : Measurement (Unique users that engaged with test summary widget)
     Revenue : Payment
-    Revenue : Measurement (Unique users that have viewed a full code quality report)
+    Revenue : Measurement (TBD)
     Referral : Talk about
     Referral : Measurement (TBD)
 ```
