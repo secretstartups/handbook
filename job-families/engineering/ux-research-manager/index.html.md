@@ -38,8 +38,8 @@ The Manager, UX Research is a [grade 8](/handbook/total-rewards/compensation/com
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 5 years of experience in hands-on research.
-* A minimum of 3 years of experience managing UX Researchers or large research teams.
+* Expert-level knowledge in the field of UX Research with a strong understanding of quantitative and qualitative research methods.
+* Experience managing UX Researchers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of driving change through UX Research.
@@ -110,8 +110,8 @@ The Senior Manager, UX Research is a [grade 9](/handbook/total-rewards/compensat
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 8 years of experience in hands-on research.
-* A minimum of 2 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research with expert-level understanding of quantitative and qualitative research methods.
+* Experience managing UX Research Managers who focus on enterprise, developer, and/or business tools.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.
@@ -161,8 +161,9 @@ The Director, UX Research is a [grade 10](/handbook/total-rewards/compensation/c
 
 #### Requirements
 
-* Expert-level knowledge in the field of UX Research with at least 10 years of experience in hands-on research.
-* A minimum of 4 years of experience managing UX Research Managers.
+* Expert-level knowledge in the field of UX Research and experience setting UX Research vision for a product company.
+* Experience managing UX Research Managers.
+* A clear philosophy about how to create an environment that empowers remote UX Research teams and encourages them to deliver high-impact work.
 * Outstanding communicator both verbally and in writing.
 * Strong collaboration skills.
 * A proven record of leading a team that drives change through UX Research.
