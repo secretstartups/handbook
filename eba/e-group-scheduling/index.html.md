@@ -44,7 +44,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Stella Treas, Chief of Staff
 
-* All meeting requests should go through the CoS's EBA, Katie Gammon
+* All meeting requests should go through Katrina Allen
 * Priority given to candidate interviews, CEO, E-Group, GitLab BoD, and direct reports to the CoS
 * Limited availability due to personal commitments from 7-9am PT Mon.-Fri. due personal commitments during the California shelter in place order (related to Covid-19). Can often make meetings during these blocks, if given advance notice, but strong preference for meeting outside of these times
 * If meetings need to happen before 9am PT or after 5pm PT check with EBA
@@ -126,7 +126,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 
 ## Scheduling for Robin Schulman, Chief Legal Officer
 
-* All meeting requests should go through the CLO's Sr. EBA, Robyn Hartough
+* All meeting requests should go through the CLO's Interim EBA, Megan Mozart
 * Priority to candidate interviews, CEO, E-Group and GitLab BoD
 * Unavailable due to Group Conversations, Company Calls and personal commitments from 7-9am PT
 * During Zoom meetings please do not post information in the chat, add it to the meeting doc or in slack
@@ -135,7 +135,7 @@ Before scheduling with an E-Group member, please be sure to reach out to their p
 * Working blocks on the calendar are OK and can be moved to prioritize other meeting requests, team members should check in with the CLO's Sr. EBA to request a meeting using the meeting request requirements as a guideline
 
 ## Scheduling for Wendy Barnes, Chief People Officer
-* Please schedule all meetings through the People Function's EBA, Trevor Knudsen
+* Please schedule all meetings through the People Function's EBA, Katrina Allen
 * All meeting requests should include an agenda or doc for reference unless it is a Coffee Chat
 * Keep meetings to 25 or 50 minutes unless otherwise specified
 * Direct Report 1:1's occur weekly
