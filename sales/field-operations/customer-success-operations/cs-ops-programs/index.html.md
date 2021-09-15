@@ -69,7 +69,7 @@ You may add a GitLab Admin contact at any point in the customer lifecycle.
 
 **To add a contact using Gainsight:**
 
-1. Navigate to the Gainsight C360 page.
+1. Navigate to the Gainsight Customer360 page.
 1. Under **Contacts**, find the contact name to enroll.
 1. Click the `...` icon.
 1. Click **View Details**.
@@ -138,6 +138,23 @@ You may request new programs, such as an email series, contribute to existing pr
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
 CS Ops will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
+
+## Create a CTA with a Digital Program playbook
+
+Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
+
+See the [Customer Success Playbooks page](https://about.gitlab.com/handbook/customer-success/playbooks/) for a list of current playbooks.
+
+**To use a playbook to send emails**:
+
+1. In Gainsight, create a new CTA in the Customer 360.
+1. For `Type`, choose **Digital Journey**.
+1. Select the appropriate playbook. For example: `New Customer Digital Onboarding - Self-Managed Email Series`, which will add a checklist for each email in the sequence.
+1. Save the CTA.
+1. Click the whitespace next to the name of the next email to be sent.
+1. Click **Validate Email**. This opens an editor where you can choose contacts and modify the email before sending it.
+1. Click **Preview and Proceed** to see the fully populated and formatted email before sending.
+1. Send the email, or save as a draft.
 
 ## A/B testing for digital customers
 
