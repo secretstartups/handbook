@@ -43,7 +43,7 @@ You'll spend your time collaborating with a [cross-functional team](/handbook/pr
 ### Requirements
 
 * Experience managing a group of designers who work on complex products.
-* A strong philosophy about how to successfully manage remote design teams.
+* A clear philosophy about how to successfully manage remote design teams.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy (the why) and creating design deliverables (the how) based on research.
