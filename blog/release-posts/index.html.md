@@ -232,8 +232,8 @@ Create dedicated MRs from the sample templates for these content blocks (Usabili
 
 _**Note:** The MRs for Usability improvements, Bugs, and Performance improvements provide a place for others to add their content. While the Release Post Manager isn't responsible for creating the content, they are responsible for completing the tasks assigned to them in the checklist of the templates for these MRs, on schedule._
 
-1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 new
-   branches from master: one for bugs, one for usability improvements and one for performance improvements.
+1. In the `gitlab.com/gitlab-com/www-gitlab-com` project, create 3 [new
+   branches](https://gitlab.com/gitlab-com/www-gitlab-com/-/branches/new) from master: one for bugs, one for usability improvements and one for performance improvements.
    Name the branches `release-X-Y-bugs` `release-X-Y-usability-improvements` and `release-X-Y-performance-improvements`.
 1. From each of these newly created branches, open a merge request (MR)
    targeted at the master branch. Name the MRs `Draft: release-X-Y-bugs` `Draft: release-X-Y-usability-improvements`and
@@ -249,13 +249,12 @@ _**Note:** The MRs for Usability improvements, Bugs, and Performance improvement
    - `release post item`
    - `Technical Writing`
 1. In each MR, replace the `@mentions` with the actual task owner names.
-1. On the `release-X-Y-bugs` branch, add [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
-   to the `data/release_posts/unreleased/` folder.
+1. On the `release-X-Y-bugs` branch, add a new file to the `data/release_posts/unreleased/` folder called bugs.yml and populate it with the content of [`bugs.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/bugs.yml)
 1. On the `release-X-Y-usability-improvements` branch, add
+a new file to the `data/release_posts/unreleased/` folder called release-post-ux-improvements.yml and populate it with the content of 
    [`release-post-ux-improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/usability_improvements.yml)
 1. On the `release-X-Y-performance-improvements` branch, add
-   [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
-   to the  `data/release_posts/unreleased/` folder.
+a new file to the `data/release_posts/unreleased/` folder called performance_improvements.yml and populate it with the content of    [`performance_improvements.yml`](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/release_posts/unreleased/samples/performance_improvements.yml)
 
 #### Local dev environment setup to run content assembly script
 
