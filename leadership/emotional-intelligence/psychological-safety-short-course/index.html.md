@@ -153,21 +153,21 @@ Try to dismantle perceptions of hierarchy by ensuring you are part of the team a
 - How do you react to frustrated team members?
 
 **Examples:**
-When I am excited I am animated with my hands
-When I am stressed with work I am less transparent and tend to to shut off 
-When I am stressed in my personal life I can get distracted
-When I am excited I tend to interrupt people 
-When something stressful happens I tend to panic 
-When something stressful happens I tend to be defensive 
+    - When I am excited I am animated with my hands
+    - When I am stressed with work I am less transparent and tend to to shut off 
+    - When I am stressed in my personal life I can get distracted
+    - When I am excited I tend to interrupt people 
+    - When something stressful happens I tend to panic 
+    - When something stressful happens I tend to be defensive 
  
 - Can they be considered psychologically safe?
 **Examples**
-I am animated with my hands which can be a sensory overload for someone who is neurodivergent. That said on most occasions it is safe. 
-I interrupt people often when I am excited which can cause frustration and make people feel as though their voice is not heard. This can be unsafe. 
+    - I am animated with my hands which can be a sensory overload for someone who is neurodivergent. That said on most occasions it is safe. 
+    - I interrupt people often when I am excited which can cause frustration and make people feel as though their voice is not heard. This can be unsafe. 
  
 - Have you provided your intent?
 **Examples**
-I want everyone to be aware that when stressful things happen I can shut off and just put my head down. If you notice this and feel I am not being transparent about activities please let me know. 
+    - I want everyone to be aware that when stressful things happen I can shut off and just put my head down. If you notice this and feel I am not being transparent about activities please let me know. 
 I am aware that when I am excited I tend to cut people off. Please call me out on this behaviour when it happens as I often don’t realise I am doing it. 
  
 - What are your unconscious biases and have you challenged them?
@@ -178,7 +178,7 @@ I am aware that when I am excited I tend to cut people off. Please call me out o
 
 - What constitutes psychologically unsafe behaviour? Leaders and team members will provide feedback for example, that in itself isn’t psychologically unsafe but someone may feel that any feedback makes them feel unsafe. Challenge your assumptions on whether it is truly unsafe or part of the work.
 **Examples**
-Giving and receiving feedback at work should be psychologically safe if done correctly. Giving negative feedback should not inherently be un-psychologically safe.
+    - Giving and receiving feedback at work should be psychologically safe if done correctly. Giving negative feedback should not inherently be un-psychologically safe.
 
 ## Scenarios & Quiz
 
