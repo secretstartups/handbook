@@ -91,6 +91,7 @@ To contribute, open an issue in the Product project using the [Product Competenc
 In FY22-Q3 to FY22-Q4, select Product teammates and managers will be engaging in a pilot of this new CDF. The process will include: 
 
 1. Using the new CDF [template](https://docs.google.com/spreadsheets/d/1V1dgARiOw38xtfG0Mdn1Sn34y94RfNzOUH2IBp0pDAs/edit#gid=1091464991) alongside their existing CDF document 
+1. Managers will only provide feedback using the new CDF template 
 1. Complete 2 CDF evaluations using the two CDF formats (add Jackie to the invite an optional attendee to send an survey link)
 1. Complete a survey after each CDF review 
 1. Close pilot 
