@@ -348,8 +348,8 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 
 1. Pull a report of PTO taken in the previous quarter
 1. Notice the kind of PTO that your team has taken. Consider the following questions and manager actions: 
+    - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
      - How much sick leave did your team take? If you have a team member who has taken multiple sick days, please contact Team Member Relations at `teammemberrelations @gitlab.com` to address the next steps to take in line with applicable law.  
-     - How many vacation days did your team take? Remind team members to take time off of work to rest and recharge.
      - Did your team take days off for Family and Friends day? Remind team members to take off F&F day following the [documented policy](/company/family-and-friends-day/#im-in-a-role-which-requires-me-to-work-that-day-how-can-i-still-benefit-from-this-initiative).
      - Has your team logged any local holiday time off? Remind team members to take off local holidays even if the rest of the team is working.
 1. Use your 1:1s to check in with team members and make sure they are taking enough PTO.
