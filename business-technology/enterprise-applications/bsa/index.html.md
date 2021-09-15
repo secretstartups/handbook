@@ -21,34 +21,34 @@ We are on a mission to **improve the efficiency of GitLab by designing and imple
 ## Who Are We?
 We are a global team of five, focused on designing, delivering, and maintaining high quality business systems solutions. To learn more about our individual job functions, visit the [BSA families page](https://about.gitlab.com/job-families/finance/business-system-analyst/). To meet the team, check out our intro video below!
 
-**Barbara Roncato - Business Systems Analyst**  
+**Barbara Roncato - Senior Business Systems Analyst**  
 GitLab handle: [@broncato](https://gitlab.com/broncato)  
 Slack handle: `@barbara`   
-Location: Porto, Portugal   
+Location and Timezone: Portugal, WEST/GMT+1  
 Linkedin Profile: [/roncatobarbara](https://www.linkedin.com/in/roncatobarbara/)
 
 **Courtney Meddaugh - Senior Business Systems Analyst**  
 GitLab handle: [@courtmeddaugh](https://gitlab.com/courtmeddaugh)  
 Slack handle: `@Courtney Meddaugh` <br>
-Location: Austin, TX, USA   
+Location and Timezone: USA, CDT/CST  
 Linkedin Profile: [/courtney-meddaugh](https://www.linkedin.com/in/courtney-meddaugh/)
 
 **Kayoko Cooper - Business Systems Analyst**  
 GitLab handle: [@kayokocooper](https://gitlab.com/kayokocooper)  
 Slack handle: `@kayokocooper` <br>
-Location:  Duluth, GA, USA  
+Location and Timezone: USA, EDT/EST  
 Linkedin Profile: [/kayoko-cooper-a1063522](https://www.linkedin.com/in/kayoko-cooper-a1063522/)
 
-**Lis Vinueza - Business Systems Analyst**  
+**Lis Vinueza - Senior Business Systems Analyst**  
 GitLab handle: [@lisvinueza](https://gitlab.com/lisvinueza)  
 Slack handle: `@lis`    
-Location: Quito, Ecuador   
+Location and Timezone: Ecuador, UTC-5/GMT-5  
 Linkedin Profile: [/lisbeth-vinueza](https://www.linkedin.com/in/lisbeth-vinueza/)
 
 **Mark Quitevis - Senior Business Systems Analyst**  
 GitLab handle: [@mquitevis](https://gitlab.com/mquitevis)  
 Slack handle: `@Mark Quitevis`   
-Location: Philadelphia, PA, USA   
+Location and Timezone: USA, CDT/CST  
 Linkedin Profile: [/mark-quitevis-b314b968](https://www.linkedin.com/in/mark-quitevis-b314b968/)
 
 <figure class="video_container">
@@ -80,57 +80,88 @@ We have high level views of the enterprise application ecosystem and can help tr
 ## How We Work
 EntApps works to ensure GitLab’s Order-to-Cash (OTC) lifecycle is as efficient as possible, supporting our internal business teams and applications involved throughout the OTC process. This includes working with teams such as Sales, Sales Ops, Billing, Procurement and Finance to understand and build solutions for their business problems. To do this, we partner with other technical teams and application owners within the OTC process, such as Engineering and Sales Systems. 
 
-EntApps works to resolve business issues using a 4 stage process: discover, build, test, and deploy.  More information about the 4 stages can be found in the Phase Exit Criteria section.
+EntApps works to resolve business issues using a 5 stage process: Define, Design, Build, Test, and Deploy.  More information about the 5 stages can be found in the Phase Exit Criteria section.
 
 ### Intake
-Open a request for the Enterprise Applications team by using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
+The first step to engage the Business Systems Analysts is opening an [intake issue](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues/new?issue%5Bmilestone_id%5D=#) using the “Request” template under the [Enterprise Application Group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps) | [Intake Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/issues).
 
 On a weekly basis, the Enterprise Applications Business Systems Analyst (BSA) will review all [open Intake Issues](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/intake/-/boards/2798638?scope=all&label_name[]=EntApps%20Intake&not[label_name][]=BSA&not[label_name][]=BT%20Finance%20Systems) and assign them to a specific BSA to perform Discovery duties. Additional information will be requested in the Issue.
 
-Depending on the complexity and urgency of the request, the BSA will either track work and provide updates directly in the Issue or create a project Epic to properly manage more-intricate requests.  The same phases, discussed below, are followed for both Intake Requests and Project Epics.
+#### Intake Exit Criteria (for BSAs)
 
-#### Project Epics
-The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 5 Epics and a change management Issue. A single parent Epic is created with 4 children Epics that represent each phase of the project
+- Current State Process Flow/User Stories
+   - Impacted Process documented
+   - Impacted Teams documented
+- Questionnaire Completed
+   - Size 
+   - Goal 
+   - Measure 
+   - Stakeholders
+- Initial Prioritization
 
-![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/projects.png)
+Depending on the complexity and urgency of the request, the BSA will either track work and provide updates directly in the Issue or create a project Epic to properly manage more-intricate requests.
+
+### Project Epics
+The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 6 Epics and a Change Management Issue. A single parent Epic is created with 5 children Epics that represent each phase of the project.
+
+![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/project_stages.png)
 
 ### Phase Exit Criteria
-#### Discover
-During Discovery, EntApps conducts independent research and meets with business stakeholders to gain a better understanding of the business problem.  We then compile and cleanse detailed business requirements.  Finally, before beginning solution design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
+#### DEFINE
+During Define, EntApps articulates the business problem and definition of done. This phase covers uses cases, technology impacted and requirements. The ultimate goal of Define is not to figure out everything but to document the process and what is impacted. Finally, before beginning the design, we request approval sign-off from key stakeholders to ensure business requirements are accurate and all-inclusive.
 
-- Requirements documented and approved by business partners
-- Main project Epic Rolly updates
-- Change management Issue drafted
-- Re-evaluation and update of project dates
-- Finance System Admin, Enterprise Applications Integration Engineer, or Business Partner Engagement
-- EntApps Roadmap Update
+**Business Systems Analysts**
+- Problem Statements defined/documented
+   - Use Cases
+- Prioritization Matrix completed
+- Requirements documented
+- Ideation (high-level solutions)
+   - Socialization with stakeholders
 
-#### Build
+**Technical**
+- Ideation (high-level solution)
+
+#### DESIGN
+This phase creates the roadmap of how things will work in the future. Here the EntApps will work with the business to design a future state process and refine the requirements to build it. This phase should iron out all the details and questions from above. 
+
+**Business Systems Analysts**
+- Solution sign-off
+
+**Technical**
+- Solution Proof of concept (POC) in a development environment
+
+#### BUILD
 In the Build phase, EntApps collaborates with other stakeholders to develop solutions that meet the business requirements but also that are scalable and aligned with best-practices.
 
-- Test scripts documented on QA/UAT Epic
-- Main project Epic Rolly updates
-- Solution documentation complete
-- Change management Issue completed and approved by business partners
-- Re-evaluation and update of project dates
-- EntApps Roadmap Update
+**Business Systems Analysts**
+- Test Scripts documented
+- Quality Assurance (QA) Testing
 
-#### QA/UAT
+**Technical**
+- Solution in a staging environment
+- Solution detail documented
+- Quality Assurance (QA) Testing
+
+#### TEST
 EntApps collaborates with other stakeholders to develop test scripts and facilitates the user acceptance testing process.
 
-- UAT signoff by business partners
-- Deployment checklist documented and socialized with business partners
-- Main project Epic Rolly updates
-- Re-evaluation and update of project dates
-- EntApps Roadmap Update
+**Business Systems Analysts**
+- User Acceptance Testing (UAT)
+- Deployment plan documentation
 
-#### Deploy
+**Technical**
+- Deployment plan documentation
+
+#### DEPLOY
 EntApps owns developing a deployment plan and collaborating with other implementation teams to ensure completeness. This involves launch plans, user enablement, and go-live communications.
 
-- Deploy announcement
+**Business Systems Analysts**
+- Deployment announcement
 - Handbooking
-- Hyper care
-- EntApps Roadmap Update
+
+**Technical**
+- Production configuration
+- Handbooking
 
 ### Rolly
 [Rolly](/handbook/business-technology/how-we-work/rolly/) is a program status rollup automation tool and the BSAs use it to extract key status information from their current project epics and compile them into one issue [every week](https://gitlab.com/gitlab-com/business-technology/business-technology-ops/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name%5B%5D=EntApps-weekly-rollup). This issue is then used in different meetings to cover project statuses, what's in progress and what is blocked.
