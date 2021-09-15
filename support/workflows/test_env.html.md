@@ -110,6 +110,8 @@ For features not available in either instance, please create your own trial for 
 
 If you need an Okta sandbox environment to test SAML and SCIM, please go to https://developer.okta.com/signup/ and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
 
+**Please note**: We have observed a bug while setting up an environment using `developer.okta.com`. When you assign an app to the user then the username field is prefilled with `user.getInternalProperty('id')` instead of Username/Identity. This works perfectly fine when using a trial.
+
 ### LDAP Testing Environments
 
 For testing LDAP integrations with a self-managed GitLab instance, you may consider any of these options:
