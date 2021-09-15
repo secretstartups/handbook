@@ -42,7 +42,8 @@ You'll spend your time collaborating with a [cross-functional team](/handbook/pr
 
 ### Requirements
 
-* A minimum of 3 years experience managing a group of designers.
+* Experience managing a group of designers who work on complex products.
+* A strong philosophy about how to successfully manage remote design teams.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy (the why) and creating design deliverables (the how) based on research.
@@ -86,7 +87,7 @@ The Senior Product Design Manager is a [grade 9](/handbook/total-rewards/compens
 
 ### Requirements
 
-* A minimum of 3 years experience managing Product Design Managers.
+* Experience managing Product Design Managers who focus on enterprise, developer, and/or business tools.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Experience defining the high-level strategy (the why) and helping your team tie design and research back to that strategy.
 * Experience driving organizational change with cross-functional stakeholders.
@@ -131,7 +132,8 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 
 ### Requirements
 
-* A minimum of 10 years experience managing designers, and leading design for a product company.
+* Experience managing Product Design Managers and leading product design for a company that focuses on enterprise, developer, and/or business tools.
+* A strong philosophy about how to create an environment that empowers remote design teams and encourages them to deliver high-impact work.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
 * Experience defining the high-level strategy (the why) and creating design deliverables (the how) based on research.
@@ -175,7 +177,8 @@ The VP of UX is a [grade 12](/handbook/total-rewards/compensation/compensation-c
 
 ### Requirements
 
-* A minimum of 10 years experience managing designers, researchers, and writers and leading design for a product company.
+* Experience managing Product Designers, UX Researchers, and Technical Writers and leading UX for a product company.
+* A strong philosophy about how to help cross-functional UX teams to work together effectively and collaborate with their business counterparts. 
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Passion for creating visually pleasing and intuitive user experiences.
 * Collaborative team spirit with great communication skills.
