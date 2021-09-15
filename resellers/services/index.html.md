@@ -227,8 +227,7 @@ All GitLab Certified Service Partner certifications are reviewed periodically.  
      <br>*   at least one (1) <a href="https://about.gitlab.com/handbook/resellers/training/">GitLab Verified Solution Architect</a>, and  
      <br>*   at least two (2) <a href="https://about.gitlab.com/handbook/customer-success/professional-services-engineering/gitlab-certified-trainer-process/">GitLab Certified Trainers</a> 
      <ol>
-     <li>     Each trainer must be certified in delivering the <a href="https://about.gitlab.com/services/education/gitlab-basics/">GitLab with Git Basics Training</a></li>
-     <li>     Each CTP organization must be able to deliver at least three (3) GitLab courses</li>
+     <li>     Each CTP organization must be able to deliver at least four (4) GitLab courses</li>
      </ol>
      </td>
   </tr>
