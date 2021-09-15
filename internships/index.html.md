@@ -101,7 +101,7 @@ Below and example of a 4 month internship program:
 Internships at GitLab offered in the framework described on this page will be paid and follow the same logic as that depicted in our [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/calculator/) and according to our [Global Compensation Principles](/handbook/total-rewards/compensation/). This means that, as usual, the San Francisco benchmark, location and experience factors will be taken into account during the recruitment process and before making an offer. Depending on country regulations, we will have to align with national labor laws.
 
 ### How to apply for an internship
-We post our open internship positions in the Careers section of the [GitLab Jobs site](https://about.gitlab.com/jobs), so keep an eye out for new openings there. If you want to show interest in upcoming internships, you can do so via [this page](https://boards.greenhouse.io/gitlab/jobs/5197819002). 
+We post our open internship positions in the Careers section of the [GitLab Jobs site](https://about.gitlab.com/jobs/), so keep an eye out for new openings there. If you want to show interest in upcoming internships, you can do so via [this page](https://boards.greenhouse.io/gitlab/jobs/5197819002). 
 
 # <i class="fas fa-tasks" id="biz-tech-icons"></i> Program Processes
 
