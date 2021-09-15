@@ -42,12 +42,13 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 1. ENT Sales Leadership
 
 **COMM Sales QBRs**
-1. Mid Market Americas East
-1. Mid Market Americas West
-1. Mid Market EMEA
-1. Mid Market & SMB APAC
-1. SMB Americas East & West
-1. SMB EMEA
+1. COMM EMEA SMB
+1. COMM EMEA Mid Market
+1. COMM First Order
+1. COMM AMER SMB East & West
+1. COMM AMER Mid Market: East
+1. COMM AMER Mid Market: West
+1. COMM APAC SMB/MM
 1. COMM Sales Leadership
 
 **Channel & Alliances QBRs**
@@ -57,8 +58,8 @@ QBRs are typically organized by region, and the agenda is determined by the Regi
 
 **CS QBRs**
 1. Solutions Architects
-1. Solutions Architects - APAC 
 1. Technical Account Managers 
+1. Solutions Architects & Technical Account Managers - APAC 
 1. Professional Services 
 1. Public Sector 
 1. CS Leadership 
@@ -271,14 +272,14 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 #### 5 weeks before QBRs are scheduled to start
 1. Field EBAs to finalize initial QBR Schedule, Attendee and Agenda document. (See past documents in the [Field Operatons Google Drive folder](https://drive.google.com/drive/u/0/folders/1Zy1AFhJoHo3_nXCiKU8gtM3a1UBBJu6Y).)
    1. Field Comms will provide a sample agenda for ENT and COMM segments to be used as a reference point for ASMs.
-1. Field EBAs to create a QBR issue that will be used to share:
+1. Field Comms to create a QBR issue that will be used to share:
    1. Agenda documents
    1. Deck templates
    1. Notes documents for each session
    1. A checklist of key dates and milestones
 1. Field Comms will host a "QBR Kickoff Call" with the CRO, ENT and COMM VPs, and all RDs/ASMs to overview the upcoming QBR planning process and reiterate asks/responsibilities. (All field managers will be added as optional.)
    1. If there are no material changes in the schedule or QBR process, this call can be canceled in favor of an async approach.
-1. Field EBAs to stand up QBR-specific Slack channels to address questions from field managers and coordinate RD/ASM asks.
+1. Field Comms to stand up QBR-specific Slack channels to address questions from field managers and coordinate RD/ASM asks.
 1. RDs/ASMs to provide input in the following areas by EOW.
    1. Final approval/check on the assigned date for their QBR
    1. A full list of attendees – team members, relevant SAs/TAMs, any delegates they want to ensure are included (SDRs, PMMs, etc.)
@@ -289,7 +290,7 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
 1. Field EBAs to send out initial QBR calendar hold invites that include the following attendees:
    1. RDs, ASMs, team members for that region - mandatory
    1. GTM leaders - optional (See [QBR Participation](/handbook/sales/qbrs/#qbr-participation) section above for full list)
-1. Field EBAs to engage delegate organizations to assign attendees from the following teams for each QBR in the QBR Schedule, Attendee and Agenda document by EOW.
+1. Field Comms to engage delegate organizations to assign attendees from the following teams for each QBR in the QBR Schedule, Attendee and Agenda document by EOW.
    1. Sales Dev
    1. Field Marketing
    1. Product Marketing
