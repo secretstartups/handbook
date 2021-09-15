@@ -106,7 +106,7 @@ Continuous delivery mindset: With time-sensitive posts, don't wait to publish a 
 
 ## Third-party posts
 
-We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard [pitching process for blog posts](/handbook/marketing/blog/#how-to-pitch-a-blog-post).
+We will promote anyone integrating with GitLab, even if we compete with them. It is very important to demonstrate to our customers that we do not lock them in. Partner or industry-adjacent third parties who want to contribute to our blog should contact the [Partner Marketing](/handbook/marketing/strategic-marketing/partner-marketing/) team before proceeding. GitLab team members asking on behalf of a third party should do the same. Third-party posts should follow the standard pitching process for blog posts.
 
 **Note**: We do not publish material that is exclusively promotional in nature. All blog posts should offer some informational, educational, or entertainment value to the reader.
 
