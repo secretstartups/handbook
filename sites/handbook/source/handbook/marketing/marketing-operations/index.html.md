@@ -278,6 +278,7 @@ Other tools directly used by Marketing and maintained by Marketing Operations
 - [iconik](/handbook/marketing/marketing-operations/iconik)
 - Keyhole
 - LaunchDarkly
+- [LogRocket](/handbook/marketing/marketing-operations/logrocket)
 - [Litmus](/handbook/marketing/marketing-operations/litmus)
 - MailChimp
 - [OneTrust](/handbook/marketing/marketing-operations/onetrust)
