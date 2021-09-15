@@ -282,7 +282,7 @@ If GitLab has been included in an analyst report and you wish to share this news
 
 These are generally popular if GitLab genuinely has something meaningful or useful to contribute to the conversation. The point of a newsjacking post should not be self serving.
 
-This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, [contextualizes it](#contextualize-your-post), and then goes into a tutorial.
+This post about [an experimental Git feature](/blog/2020/03/13/partial-clone-for-massive-repositories/) is a great example, because it takes something newsy, contextualizes it, and then goes into a tutorial.
 
 Examples of successful newsjacking posts:
 
