@@ -73,13 +73,6 @@ Recurring meetings are oftentimes established as meaningful points along a given
 
 ### Use the right tools
 
-<!-- blank line -->
-
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/Kf0QOihrxLg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<!-- blank line -->
 All-remote meetings are made simpler given that there's no jockeying for space in a boardroom, scrounging for huddle rooms, or wondering if a given group still needs the meeting room they've reserved — all very real conundrums in colocated environments.
 
 1. GitLab uses Zoom for video calls and screensharing. Its simple recording function makes it easy to capture meetings for others to watch at a later time. Learn more about how we optimize Zoom usage in our meetings in the [Tools and Tips](/handbook/tools-and-tips/#zoom) portion of our Handbook.
