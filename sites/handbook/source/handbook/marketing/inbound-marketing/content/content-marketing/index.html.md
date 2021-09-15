@@ -156,22 +156,22 @@ A post on the GitLab blog is used during the Awareness or Consideration stage of
 **Content Marketer workflow**
 1. To suggest a blog post, follow the **[How to pitch a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post)** process in the handbook. It's ideal to do this as far in advance of when you hope to publish as possible, so there's plenty of time to discuss the ideal angle or approach to optimize for GitLab's blog audience. Be sure to include any context the Editorial team might need when reviewing your pitch (e.g. Is the post supporting a campaign? Is there a specific reason why you chose this topic? Does anyone else need to approve the post before we can go ahead?) and alert them if the blog post needs to be published on a specific date (to support an event or campaign, for example).
 2. Once the Editorial team has provided feedback and approved the blog topic, consider opening an issue in the [Content Marketing project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=) to capture your work during the writing and collaboration process (See: [Every task should be an issue](/handbook/marketing/project-management-guidelines/issues/#every-task-should-be-an-issue)).
-3. Once blog copy has been reviewed by the required SMEs/strategic marketing counterparts, close the Content Marketing issue, [create a merge request](/handbook/marketing/blog/#when-youre-ready-to-create-your-blog-post) from your www-gitlab-com issue, and when ready, assign it to the Editorial team member who reviewed your pitch. They will then schedule your blog post for the next available date on the [Editorial calendar](/handbook/marketing/inbound-marketing/content/#editorial-calendar). 
+3. Once blog copy has been reviewed by the required SMEs/strategic marketing counterparts, close the Content Marketing issue, [create a merge request](/handbook/marketing/blog/#when-youre-ready-to-create-your-blog-post) from your www-gitlab-com issue, and when ready, assign it to the Editorial team member who reviewed your pitch. They will then schedule your blog post for the next available date on the [Editorial calendar](/handbook/marketing/inbound-marketing/content/#editorial-calendar).
 1. The Editorial team member will review your draft and may leave feedback for you to resolve before publishing. When you have done so, reassign the MR to the Editorial team member for final review and merging.
 
 Blogs can be pitched to the [official GitLab blog](/blog/){:target="_blank"} or published directly on the [Unfiltered blog](/blog/categories/unfiltered/){:target="_blank"} without editorial approval.
 
-Visit the blog handbook to learn more about the [blog publishing process](/handbook/marketing/blog/#publishing-process){:target="_blank"}.
+Visit the blog handbook to learn more about the [blog publishing process](/handbook/marketing/blog/){:target="_blank"}.
 
 #### Blog repurpose
 
-A blog can and should be repurposed as a web article/cluster page if the content is evergreen and awareness stage. The blog should also be older than six months and not GitLab-centric. 
+A blog can and should be repurposed as a web article/cluster page if the content is evergreen and awareness stage. The blog should also be older than six months and not GitLab-centric.
 
 **Blog repurpose workflow**
 1. Work with the SEO team to identify existing, older blogs that are the best options for repurposing.
 2. Ensure that the editorial team is aware of the intention and has approved the redirect.
 3. In a Google doc, copy and paste the existing blog. From there, use the keyword spreadsheets to identify the best possible updates -- this can include changing the title to a better keyword phrase, identifying areas of copyediting improvements, adding links, adding a 'More On' section, and elaborating on longtail keywords throughout the content.  
-5. Create a merge request on the `www-gitlab-com` project. 
+5. Create a merge request on the `www-gitlab-com` project.
 6. Once the web article is edited and merged, open an [issue to redirect](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new#set-up-a-new-redirect) the blog URL to the new web article. Add the new URL and old URL in the issue. The labels are included in the issue, do not assign.
 7. After the web article is merged and the blog redirected, add the web article link to the associated Topics page in the sidebar.
 
@@ -201,7 +201,7 @@ An eBook tends to be broader in scope than a whitepaper and provides a clear def
 
 A content team member develops eBook content with input and review from their product marketing counterpart. More technical or instructive eBooks may require more collaboration with product marketing. eBooks follow the [internal gated content](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#internal-content-created-by-the-gitlab-team) asset workflow.
 
-Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#organizing-content-pillar-epics-and-issues). 
+Follow the instructions for creating an internal gated asset and start the eBook process by creating an epic using the [epic template](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/gated-content/#organizing-content-pillar-epics-and-issues).
 
 **For other GitLab team members:** To request an eBook from the content team, feel free to open a [content request](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) issue. If you would like to write an eBook, we have an [eBook google doc template](https://docs.google.com/document/d/1V944SVbjBxUVMtZiWIS-Baoxc7Ui-gjq3fCYf8tK0D4/edit?usp=sharing) available for GitLab team members to use with general best practices.
 
@@ -243,7 +243,7 @@ Web articles are educational, informational content, designed to support topic p
 
 Case studies are in-depth customer stories that provide insight as to how GitLab has resolved significant software workflow problems for a company. The case study tells the story using quotes from customer interviews and straightforward metrics that broadly show the impact of adopting GitLab.
 
-[Case studies](/customers/) are created in partnership with the customer reference team. The customer reference team has a process in place for how they add new references and provide a list of [customer value drivers](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#command-of-message-questions). The content team is responsible for writing the case study asset using [this template](https://docs.google.com/document/d/1UbhW2AEP7BfEZJGcp7w4LS6-W-xSeGET4K4NDr7bP0E/edit?usp=sharing), [publishing the case study](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#publishing-to-the-website) to the website, [adding the customer logo](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#adding-customer-logo-and-case-study-to-customers-grid) to the customer logo grid, and ensuring that the case study goes through proper social media and newsletter steps. 
+[Case studies](/customers/) are created in partnership with the customer reference team. The customer reference team has a process in place for how they add new references and provide a list of [customer value drivers](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#command-of-message-questions). The content team is responsible for writing the case study asset using [this template](https://docs.google.com/document/d/1UbhW2AEP7BfEZJGcp7w4LS6-W-xSeGET4K4NDr7bP0E/edit?usp=sharing), [publishing the case study](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#publishing-to-the-website) to the website, [adding the customer logo](/handbook/marketing/product-marketing/customer-reference-program/customer-insight/#adding-customer-logo-and-case-study-to-customers-grid) to the customer logo grid, and ensuring that the case study goes through proper social media and newsletter steps.
 
 **Examples:**
 1. [How Hotjar deploys 50% faster with GitLab](/customers/hotjar/)
@@ -255,7 +255,7 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 ```
 ## Persona: [Example: Software developer Sacha](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/#software-developer-sacha)
 
-## Use Case: [Example: Continuous integration](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/) 
+## Use Case: [Example: Continuous integration](https://about.gitlab.com/handbook/marketing/product-marketing/usecase-gtm/ci/)
 
 ## Theme
 
@@ -273,8 +273,8 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 
 1. Link to Path Factory use case track
 1. Link to blog topic tag
-1. Link to resources page filtered by topic 
-1. Link to topic page 
+1. Link to resources page filtered by topic
+1. Link to topic page
 1. Link to solutions page
 1. Link to related /stages-devops-lifecycle/ pages
 
@@ -298,14 +298,14 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 
 *What content are you planning to create/update and why?*
 
-- Topic maturity assessment -- Following the template of the [DevSecOps maturity assessment](https://about.gitlab.com/resources/devsecops-methodology-assessment/), we'll create a module for each topic. Ideally, this will be interactive for the user and then align with the buyer's journey to provide content according to where they land on the assessment. 
+- Topic maturity assessment -- Following the template of the [DevSecOps maturity assessment](https://about.gitlab.com/resources/devsecops-methodology-assessment/), we'll create a module for each topic. Ideally, this will be interactive for the user and then align with the buyer's journey to provide content according to where they land on the assessment.
 
 - eBook
-      
+
       1. Focus/Title
 
 - Web article
-      
+
       1. Focus/Title
       2.
       3.
@@ -313,10 +313,10 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
       5.
 
 - Topic page
-     
+
        1. Review/update/add - keep your topic page on your radar to continuously iterate.
 
-## Timeline 
+## Timeline
 
 *List content with phases and due dates*
 
@@ -328,7 +328,7 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
       1. Due date
 
 - Web articles
-      
+
       1. Due date
       2.
       3.
@@ -336,7 +336,7 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
       5.
 
 - Topic page
-     
+
        1. How often will you update (i.e. 2/month, etc)
 
 ```
@@ -361,5 +361,3 @@ Case studies are in-depth customer stories that provide insight as to how GitLab
 * [ ]  2020-XX-XX MR ready to launch (-3 business days from launch)
 * [ ]  2020-XX-XX Asset added to pathfactory (-3 business days from launch)
 ```
-
-
