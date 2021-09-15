@@ -21,6 +21,8 @@ We use LogRocket to monitor the frontend of about.gitlab.com, excluding pages un
 
 ## Implementation
 
+[View the initial merge request to add LogRocket](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/90358)
+
 We followed the [LogRocket Quickstart](https://docs.logrocket.com/docs/quickstart) for most of these steps. We installed LogRocket as a node module with `yarn add logrocket`, so it's managed in our `node_modules` dependencies.
 
 In the [www-gitlab-com](https://gitlab.com/gitlab-com/www-gitlab-com) repository, you'll find the entrypoint for our LogRocket installation at `source/javascripts/logrocket.js`. This script imports `LogRocket`, and runs the initialization.
