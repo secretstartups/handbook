@@ -142,12 +142,12 @@ Error Budget Spend information is available on the [Error Budgets Overview Dashb
 ### System-wide incidents
 
 System-wide incidents affecting shared services (such as the database or Redis) may have an impact on a team's 
-Error Budget spend. Since we look at spend over a 28 day period, the impact of these short lived events should be mostly
+Error Budget spend. Since we look at spend over a 28-day period, the impact of these short lived events should be mostly
 negligible.
 
 If the impact is significant, we can discuss on the Monthly Report if this incident should warrant a manual adjustment to spend. 
 
-At this time, we are not looking futher into automatically discounting system-wide events from incidents because the associated spend and discussion could prove valuable in creating projects to harden and improve the resilience of the system.
+At this time, we are not looking further into automatically discounting system-wide events from incidents because the associated spend and discussion could prove valuable in creating projects to harden and improve the resilience of the system.
 
 ### How to change error budget attribution
 
