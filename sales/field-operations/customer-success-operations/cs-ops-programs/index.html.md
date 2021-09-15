@@ -6,7 +6,6 @@ description: "Customer Programs creates communication paths using Gainsight to i
 <link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
 ## On this page
-
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
