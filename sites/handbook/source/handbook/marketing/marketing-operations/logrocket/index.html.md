@@ -33,6 +33,8 @@ The review apps generated via merge requests in that repository build the site i
 
 In addition to calling the script in the `head`, we had to update our [Content Security Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) according to the [LogRocket troubleshooting around session recording](https://docs.logrocket.com/docs/troubleshooting-sessions). Safari and Mobile Safari don't yet support the `worker-src` directive provided by LogRocket, so we [modified the CSP changes according to this StackOverflow post](https://stackoverflow.com/a/67163499/12502416), session recordings work across Safari and Mobile Safari.
 
+We have not yet integrated with the [Core Marketing Site](https://gitlab.com/gitlab-com/marketing/core-marketing-site), since that project is not yet in production, but the integration will be slightly different there. 
+
 ## Integrations
 
 LogRocket is integrated with Google Analytics in `source/javascripts/logrocket.js`, and we have the ability to [integrate with many other services](https://docs.logrocket.com/docs/integrations). Salesforce and Qualtrics need to be integrated outside of our codebase, and we may need to work on the Drift integrations via Google Tag Manager.
