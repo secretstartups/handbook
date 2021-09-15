@@ -91,7 +91,7 @@ These definitions imply several on-call rotations for the different roles.
     1. **"No alerts" is not the same as "no problem"**
 1. GitLab.com is a complex system. It is ok to not fully understand the underlying issue or its causes. However, if this is the case, as EOC you should engage with the IMOC to find a team member with the appropriate expertise.
     1. Requesting assistance does not mean relinquishing EOC responsibility. The EOC is still responsible for the incident.
-    1. The [GitLab Organizational Chart](/company/team/org-chart/) and the [GitLab Team Page](/company/team/), which lists areas of expertise for team members, are important tools for finding the right people.
+    1. The [GitLab Organizational Chart](https://comp-calculator.gitlab.net/org_chart) and the [GitLab Team Page](/company/team/), which lists areas of expertise for team members, are important tools for finding the right people.
 1. As soon as an [S1/S2](/handbook/engineering/infrastructure/production/#severity) [incident is declared](#declaring-an-incident), join the `The Situation Room Permanent Zoom`. The Zoom link is in the `#incident-management` topic.
     1. GitLab works in an asynchronous manner, but incidents require a synchronous response. Our collective goal is high availability of 99.95% and beyond, which means that the timescales over which communication needs to occur during an incident is measured in seconds and minutes, not hours.
 1. Keep in mind that a GitLab.com incident is not an "infrastructure problem". It is a company-wide issue, and as EOC, you are leading the response on behalf of the company.
@@ -291,7 +291,7 @@ In the case of a high severity bug that is in an ongoing, or upcoming deployment
 
 ### Security Incidents
 
-If an incident may be security related, engage the Security Operations on-call by using `/security` in Slack. More detail can be found in [Engaging the Security On-Call](/handbook/engineering/security/#engaging-the-security-on-call).
+If an incident may be security related, engage the Security Engineer on-call by using `/security` in Slack. More detail can be found in [Engaging the Security Engineer On-Call](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html).
 
 ## Communication
 

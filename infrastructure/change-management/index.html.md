@@ -227,7 +227,7 @@ The following dates are currently scheduled PCLs. Times for the dates below begi
 
 | Dates                       | Type       | Reason                        |
 |-----------------------------|------------|-------------------------------|
-| 17 Sept 2021                | Soft       | Load protection day https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/76 (internal only)|
+| 17-19 Sept 2021                | Hard       | Load protection days https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/76 (internal only)|
 | 27-31 July 2021             | Soft |   Address items raised in https://gitlab.com/gitlab-com/gl-infra/mstaff/-/issues/75 |
 | 22-26 July 2021             | Hard |      Ensure changes are going through extra checks |
 | Recurring: 22nd of every month         | Soft       | Release day                   |
