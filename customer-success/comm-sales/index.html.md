@@ -76,12 +76,12 @@ A seamless customer journey requires a continuous flow of relevant information b
 
 ### SA to TAM (new accounts)
 
-When an opportunity reaches stage `7-Negotiating` and is above the [account value threshold](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial), the Commercial TAM Manager will be automatically flagged for a new account to be assigned to a TAM. Once a TAM is assigned to the account, the TAM will arrange an "Technical Internal Plan" meeting with the SA to reviewing account notes for a smooth transition. Prior to the "Technical Internal Plan" meeting, the SA should have completed the following for optimal transition:
-  * The command plan for the opportunity should be up to date on their Why Now and specific Pain Points.
-  * Ensure any account notes, [tech stack discoveries](https://docs.google.com/spreadsheets/d/1sOeluQhMO4W0wWIC6rbSE_E1NzTj7eTaR-FDKLYlLb4/edit#gid=912439232), [technical briefs](https://gitlab.com/gitlab-com/customer-success/tko/technical-followup-briefs/-/tree/master) or running call notes are linked to Salesforce and shared with the TAM
-  * SA to clearly outline to TAM how far the customer is in their adoption of GitLab
+When an opportunity reaches stage `7-Negotiating` and is above the [account value threshold](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial), the Commercial TAM Manager will be automatically flagged for a new account to be assigned to a TAM. Once a TAM is assigned to the account, the TAM will arrange a Technical Internal Plan meeting with the SA to review account notes. Prior to the Technical Internal Plan meeting, the following are expected to be updated:
+  * The Command Plan for the opportunity should be up to date on their Why Now and specific pain points in Identify Pain.
+  * The Custom Pitch Deck (attached to the opportunity) ought to provide current state assessments of their environment and initial plans for adoption of GitLab.  
+  * Raw notes available in the Activity History in Salesforce to provide the TAM any additional context necessary.
 
-After the "Technical Internal Plan" meeting, the AE is to arrange a transition meeting with the customer that includes both the SA and TAM for a smooth transition. This meeting will at least cover the communication plan between the TAM and customer going forward.
+After the Technical Internal Plan meeting, the AE is to arrange a transition meeting with the customer that includes both the SA and TAM. This meeting will at least cover the communication plan between the TAM and customer going forward.
 
 
 ### SA to SA (new accounts)
