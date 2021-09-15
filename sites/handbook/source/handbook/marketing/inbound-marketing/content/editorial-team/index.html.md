@@ -488,9 +488,59 @@ Note: This principle applies to process changes. Don't worry about pinging every
 
 ### Why use the blog style guide?
 
-The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@skassabian) or open a merge request with your suggested update and ping the team there.
+The blog style guide covers styling, punctuation, spelling, and grammatical guidelines for posts on the GitLab blog. If you have questions about writing, word usage, etc. that aren't included in the style guide, feel free to reach out to the Editorial team (@vsilverthorne) or open a merge request with your suggested update and ping the team there.
 
-If you're looking for tips to improve your writing and storytelling, please see [Writing blog posts – best practices](/handbook/marketing/blog/#writing-blog-posts--best-practices) in the blog handbook.
+If you're looking for tips to improve your writing and storytelling, please see [Writing blog posts – best practices]() in the blog handbook.
+
+## Writing blog posts – best practices
+
+We review traffic to blog posts on a quarterly basis. You can view past analyses and takeaways in the [Editorial team handbook](/handbook/marketing/inbound-marketing/content/editorial-team/#blog-traffic-analyses), but below are the key points for all team members to keep in mind.
+
+It's clear that technical/actionable/how-to content attracts the most blog readers and thus should be the focus of the majority of the content we create for the blog.
+
+### Think of our audience first
+
+When writing a blog post, please keep the reader in mind. This person has more than likely searched for a topic or a trend and is looking for comprehensive content with a clear takeaway. Write to this person and consider the tone and the language that will best get your point across.
+
+Our "[How to get your blog post pitch accepted](#how-to-get-your-blog-post-pitch-accepted)" section has some tips and prompts to help you prioritize our audience when planning your blog post.
+
+### How to write with the reader in mind
+
+It is important to have empathy for your reader. What this means is putting yourself in the position of the reader when writing or reviewing a blog post. Oftentimes, we write similarly to how we talk or think, which can lead to fractured phrasing and other patterns that can make it trickier for the reader to follow along. Remember: The reader doesn't have the background knowledge that the writer does. A good rule to remember is always write in a way that helps your reader move forward, and never requires them to go back to the previous sentence.
+
+#### A few best practices for effective writing
+
+The blog editor may point out some of these common areas for growth in the comments section of the blog post. Here are a few things to keep in mind:
+
+- Don't start a sentence with "This" or "That": It requires the reader go to the previous sentence to find out what you're referencing. Instead, define what you're saying outright.
+- Don't assume your reader knows what you're talking about. Define key concepts and terms, and explain what particular products and businesses do. For example, [in the following sentence, the author explains what Terraform is and does](/blog/2021/09/14/gitlab-together-with-terratag-open-source-to-help-you-manage-terraform-resources/): "Terraform is a command line (CLI) tool that can help manage and provision external resources such as public cloud infrastructure, private cloud infrastructure, network appliances, and SaaS and PaaS vendors."
+- Add links to relevant documentation, issues, MRs, or past blog posts whenever possible. This allows the reader to click the link and learn more if they're interested.
+- If the blog editor needs to read your sentence more than once, they may ask questions about what you're trying to say, or ask you to explain it. The editing process is conversation and [collaborative](/handbook/values/#collaboration), and may require a few asynchronous exchanges to help us get to a common understanding. The goal is always to help improve the clarity of ideas and language in the blog post, which will help us [drive results](/handbook/values/#results)!
+
+When in doubt, go through the draft again but this time adopting the eyes of a reader instead of a storyteller. Also, it is always easier to edit something that someone else has written, it is much harder to edit your own copy. This is where peer reviewers and the editorial team comes in!
+
+### Contextualize your post
+
+It's also important to consider the context of the post. Ask yourself why it matters to the reader, and, if possible, connect your story to a broader industry issue. Don't jump in straight away with what you want to tell the reader about without first giving some thought to and communicating why the reader should be interested. That type of context can "uplevel" your content and result in a better reader experience.
+
+There are generally two ways to go about this:
+
+**1. Include a "sweep" paragraph near the beginning of your post to contextualize**
+
+The following prompts may help you determine what to write about here:
+
+- What is the status quo?
+- What problem are you trying to solve or what challenge are you hoping to address?
+- What will the reader gain from reading your post? What will they learn?
+
+You can see an example of "sweep" paragraphs at the beginning of [this post on low-code/no-code tools](/blog/2020/03/26/low-code-no-code/), giving history and context to the topic before diving into the GitLab-specific story.
+
+**2. Uplevel the whole post**
+
+Example: "[The trouble with technical interviews? They aren't like the job you're interviewing for](/blog/2020/03/19/the-trouble-with-technical-interviews/)" was originally planned to be just about how GitLab's Frontend group redesigned its technical interviews. After discussion, it was decided that there was a broader story to tell here, because the GitLab story (redesigning Frontend technical interviews) was really addressing a greater, industry-wide problem, which is that technical interviews aren't effective and aren't always inclusive.
+
+Not every post will be suitable for this treatment, so you and the Editorial team member reviewing your post can use your discretion. In some cases it may be appropriate to tweak just the title of the post to make it broader (e.g. "How ~~GitLab~~ CI helps solve common DevSecOps challenges" – see [below](#gitlab-feature-posts)).
+
 
 ### Acronyms
 
