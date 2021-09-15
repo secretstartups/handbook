@@ -319,7 +319,7 @@ To clarify, once the event has completed and synced to BambooHR, both the Bamboo
 
 ## Management’s Role in Paid Time Off
 
-Managers have a duty towards their direct reports in managing their wellbeing and ensuring that time off is being taken. Sometimes, when working remotely from home, a good work-life balance can be difficult to find. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
+Managers have a duty to manage their direct reports wellbeing and ensure that time off is being taken. Sometimes, when working remotely from home, it can be hard to find a good work-life balance. It is also easy to forget that your team is working across multiple time zones, so some may feel obligated to work longer to ensure there is overlap. It is important that you check-in with your reports through one-to-ones, and if you think someone needs some time off, let them know they can do this.
 
 For audit and compliance purposes, managers are responsible for ensuring that their team members track and communicate all time off using [PTO by Roots](#pto-by-roots) as the single source of truth.  Whether a team member is taking one day off, or 25+ days off, all team members must use [PTO by Roots](#pto-by-roots).
 
