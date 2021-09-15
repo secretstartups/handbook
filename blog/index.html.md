@@ -168,7 +168,7 @@ If the author of a guest post is not an official GitLab partner, they may link b
 
 Please try to include 2-3 relevant links back to about.gitlab.com, where appropriate. This is advantageous for SEO and may send some new visitors back to our site.
 
-If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please [open an issue to propose this](#publishing-process) if that's the case.
+If there is another layer/angle to the story, we could explore this in a new post on our own blog, which could then link back to the original post on the other site. Please open an issue to propose this if that's the case.
 
 #### If you see a story we should feature on our blog
 
