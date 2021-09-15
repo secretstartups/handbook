@@ -135,7 +135,7 @@ With the exception of big news, for example a funding announcement or [making pa
 - [How recent acquisitions introduce fuzz testing to GitLab](/blog/2020/07/17/fuzz-testing/)
 - [GitLab named Challenger in Gartner Magic Quadrant for Application Release Orchestration 2019](/blog/2020/01/16/2019-gartner-aro-mq/)
 
-Please see [best practices documented in the blog handbook](/handbook/marketing/blog/#writing-blog-posts--best-practices).
+Please see [best practices documented in this handbook].
 {: .alert .alert-info}
 
 #### Operational announcements
@@ -211,7 +211,7 @@ We review traffic to blog posts on a quarterly basis. You can view past analyses
 - Invite the editorial team and any other relevant contributors or stakeholders to leave their feedback and observations on the issue
 - The managing editor and senior manager, global content should review the previous quarter ~2 weeks into the current quarter
 - The managing editor will present findings in the next Growth Marketing weekly meeting
-- Document any [key takeaways](#top-performing-blog-posts), changes to [blog strategy](#posts-that-do-not-draw-much-traffic), or [best practices](/handbook/marketing/blog/#writing-blog-posts--best-practices) in the handbook and [circulate with the team](#updating-the-handbook-or-issuemr-templates)
+- Document any [key takeaways](#top-performing-blog-posts), changes to [blog strategy](#posts-that-do-not-draw-much-traffic), or [best practices](/handbook/marketing/inbound-marketing/content/editorialteam/#writing-blog-posts--best-practices) in the handbook and [circulate with the team](#updating-the-handbook-or-issuemr-templates)
 - [Add the traffic review issue to the handbook](#blog-traffic-analyses) before closing
 
 **Column explanations:**
@@ -465,7 +465,7 @@ This is not an exhaustive list of criteria, as the Editorial team member will al
 
 - It's an extra bonus if the post links to related posts either on the main blog or to other posts on Unfiltered. Cross-linking helps the reader and boosts search engine optimization, meaning more people will see the post!
 - In some cases, an Unfiltered post may be drawing a lot of traffic, but the topic is outside the [scope of the blog](#scope). In this case we will not move the post, for example [Introducing the WoW rule: A formula for growth for SaaS Startups](/blog/2020/05/05/wow-rule/).
-- We may need to tweak the post to adhere to our [best practices](/handbook/marketing/blog#writing-blog-posts--best-practices) (e.g. adding more context, making the value for our audience clearer).
+- We may need to tweak the post to adhere to our [best practices](/handbook/marketing/inbound-marketing/content/editorialteam/#writing-blog-posts--best-practices) (e.g., adding more context, making the value for our audience clearer).
 - It might help to think about the Unfiltered post in the same way that we approach [reviewing pitches](#what-to-look-for). Is the topic likely to be of interest to our audience of software developers and related professions? Is there practical, actionable content from which our audience can learn? If the answers are "yes" then it's worth thinking about how we can adjust or adapt the post for the main blog.
 - If the topic of the post falls under one of the content marketers' [use cases](/handbook/use-cases/), you can ping that content marketer for their input, in case the content can be used to support a campaign or is otherwise useful.
 
