@@ -12,7 +12,7 @@ description: "An overview of the strategy and processes for the Global Content t
 
 The Global Content team is responsible for generating content growing GitLab's website traffic and share of voice.
 
-Global Content is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure), and has four (4) teams: 
+Global Content is part of the [Inbound Marketing department](/company/team/structure/#organizational-structure), and has four (4) teams:
 - [Content Marketing](/handbook/marketing/inbound-marketing/content/content-marketing/)
 - [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
 - [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team)
@@ -45,99 +45,99 @@ You can view the [editorial calendar](https://calendar.google.com/calendar/u/0?c
 
 - 📣 Announcement
 - 📝 Blog post
-- 🔍 Case Study 
+- 🔍 Case Study
 - 📚 eBook/Whitepaper
-- 📍 Homepage Hero Content 
+- 📍 Homepage Hero Content
 - ℹ️ Infographic
 - 🎙️ Podcast
 - 📈 Report
 - 📹 Video
 - 🌐 Webpage
 
-## Goals & Key Deliverables 
+## Goals & Key Deliverables
 
 Global Content supports GitLab's overall revenue growth and company goals with our contributions to achieving the Inbound Marketing KPIs and OKRs
 
-### Increasing GitLab.com website traffic 20% YoY 
+### Increasing GitLab.com website traffic 20% YoY
 
-1. Publishing search optimized content to the GitLab blog. 
-1. Publishing search optimized topic pages and web articles to the GitLab marketing website. 
-1. Publishing video content to attract visitors. 
-1. Publishing links to our marketing site from YouTube videos. 
+1. Publishing search optimized content to the GitLab blog.
+1. Publishing search optimized topic pages and web articles to the GitLab marketing website.
+1. Publishing video content to attract visitors.
+1. Publishing links to our marketing site from YouTube videos.
 
-### Delivering inbound MQLs 
+### Delivering inbound MQLs
 
 1. Publishing gated content like eBooks, whitepapers, and research reports.
-1. Supporting integrated campaigns with content journey maps, nurture emails, and supplementary content. 
-1. Copyediting and optimizing website content for conversions. 
+1. Supporting integrated campaigns with content journey maps, nurture emails, and supplementary content.
+1. Copyediting and optimizing website content for conversions.
 
 ### Increasing conversions of free GitLab.com users to paying customers
 
 1. Publishing content that helps users understand how to get the most out of GitLab.
-1. Supporting the Growth Product team with content for product trials and in-app messaging. 
+1. Supporting the Growth Product team with content for product trials and in-app messaging.
 
 ## Content Strategy
 
-Embrace a media company mindset to develop a content strategy that organically attracts and retains our target audience over the use of traditional disruption tactics with the goal of increasing website traffic and preference for our content resources. Our global content strategy prioritizes the needs and preferences of our audiences over selling GitLab in order to build trust and increase audience retention. We aim to create enjoyable content experiences that people seek out. 
+Embrace a media company mindset to develop a content strategy that organically attracts and retains our target audience over the use of traditional disruption tactics with the goal of increasing website traffic and preference for our content resources. Our global content strategy prioritizes the needs and preferences of our audiences over selling GitLab in order to build trust and increase audience retention. We aim to create enjoyable content experiences that people seek out.
 
-We accomplish this through: 
+We accomplish this through:
 
-1. Rigorous research and understanding of our audience needs, behaviors, and lived experiences. 
-1. A single content hub that is easy to find, search, and interact with. 
-1. Consistency in quality and format. Our audience knows what to expect. 
-1. A mix of journalistic and entertainment style content. 
-1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutsy, convoluted language. 
+1. Rigorous research and understanding of our audience needs, behaviors, and lived experiences.
+1. A single content hub that is easy to find, search, and interact with.
+1. Consistency in quality and format. Our audience knows what to expect.
+1. A mix of journalistic and entertainment style content.
+1. Exceptional communication standards. We prioritize a clear and direct tone of voice over cutsy, convoluted language.
 
-### Content Strategy Principles 
+### Content Strategy Principles
 
-1. **Audience-first mindset.**  All content is produced with the audience in mind and has a clearly defined "who, what, why, how". 
-1. **Entertain and connect.** Our content is entertaining, enjoyable to consume, and expresses our acute understanding of our audience. We want our content to compel our audience to binge and share versus bookmark for later. 
-1. **Make it easy.** Relevant content is easy to find regardless of format. Our content finds our audiences where they are. 
-1. **Media company mindset.** Our global content team operates with the mindset that our audience is our customers, content is our product, and subscribers are our currency. 
+1. **Audience-first mindset.**  All content is produced with the audience in mind and has a clearly defined "who, what, why, how".
+1. **Entertain and connect.** Our content is entertaining, enjoyable to consume, and expresses our acute understanding of our audience. We want our content to compel our audience to binge and share versus bookmark for later.
+1. **Make it easy.** Relevant content is easy to find regardless of format. Our content finds our audiences where they are.
+1. **Media company mindset.** Our global content team operates with the mindset that our audience is our customers, content is our product, and subscribers are our currency.
 
 ## FY21-22 Direction
 
 Our FY21-22 direction focuses on building inbound organic search traffic and getting traffic into a funnel. We need to improve our search rankings for key search terms related to our use cases and optimize those pages for conversion. We will do this by:
 
 1. **Creating a "content hub" for all content related to a specific topic on the topic page.** Instead of topic tags on our blog linking to a list of blog posts, they will link to the topic page where users can find contextual information on the topic, evergreen web articles, related blogs, resources, and enter into a Path Factory track.
-1. **A single gated content offer per persona per topic.** We will audit existing gated content for targeting and quality and may combine or choose to retire old assets in favor of a new one. This will allow us to ensure that the asset is quality enough to warrant gating and give a single asset to track success and make improvements on. 
-1. **Optimize the Path Factory track experience.** We will audit each track and retire, update, create, or add missing assets. The goal is a more curated, targeted experience that gets them to MQL quicker. 
+1. **A single gated content offer per persona per topic.** We will audit existing gated content for targeting and quality and may combine or choose to retire old assets in favor of a new one. This will allow us to ensure that the asset is quality enough to warrant gating and give a single asset to track success and make improvements on.
+1. **Optimize the Path Factory track experience.** We will audit each track and retire, update, create, or add missing assets. The goal is a more curated, targeted experience that gets them to MQL quicker.
 
 ### Blog
 
-The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab. 
+The Editorial team's [goals are to grow our blog audience, engage readers, and covert readers into subscribers](/handbook/marketing/inbound-marketing/content/editorial-team/#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers). To achieve this our strategy is guided by our existing audience's needs and wants; prioritizing useful, educational, informative, and entertaining content that has value beyond promoting GitLab.
 
 Areas of focus:
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
-- Continue to document [best practices](/handbook/marketing/blog/#writing-blog-posts--best-practices) to enable contributors
+- Continue to document [best practices](/handbook/marketing/inbound-marketing/content/editorialteam/#writing-blog-posts--best-practices) to enable contributors
 - Improve SEO in new blog posts and selected past posts
 - Experiment with curated content ("collections" of new and existing content on specific themes)
 - Experiment with editorial-first content (i.e. a journalistic approach to stories and covering industry trends or news that is relevant to our audience, but may not place GitLab front and center)
 - Collaborate with Digital Experience on [blog redesign work](https://gitlab.com/groups/gitlab-com/-/epics/158)
 
-### Content Marketing 
+### Content Marketing
 
 The content market team creates, writes, and publishes awareness and consideration level content for the website. The content focuses primarily on topics pages, web articles, eBooks, infographics, case studies, and white papers. The team works closely with various groups to strategize and develop content for all integrated marketing campaigns, including creating assets and providing awareness level insights for email marketing.
 
 Areas of focus:
 - Continue to create content for existing campaigns: VC&C, CI/CD, DevSecOps, GitOps.
 - Continue cross-team collaboration for partner campaigns.
-- Continue to produce case studies, web articles, and topics pages. 
+- Continue to produce case studies, web articles, and topics pages.
 - Work with content gap analysis to continue to create content accordingly.
 - Create topics pages and web articles to coincide with product marketing use cases.
 
-### [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/) 
+### [Digital Production](/handbook/marketing/inbound-marketing/content/digital-production/)
 
 - Launch GitLab.tv with designated channels, including events, commuunity, product, and all-remote
 - Launch a GitLab branded podcast
 - Support AV-related needs and promos for corporate events
-- Launch GitLab web series curating content from the Unfiltered channel 
+- Launch GitLab web series curating content from the Unfiltered channel
 
 ### Website
 
-Detail our plan & roadmap for content creation. Link to the CM handbook. Include plans to place/distribute content on the site. 
+Detail our plan & roadmap for content creation. Link to the CM handbook. Include plans to place/distribute content on the site.
 
-## Communication Overview 
+## Communication Overview
 
 ### Issue trackers
  - [Global Content](https://gitlab.com/groups/gitlab-com/-/boards/1500703?&label_name[]=Global%20Content)
@@ -189,14 +189,14 @@ We use the [mktg-status:: labels](/handbook/marketing/#boards-and-labels) to wor
 
 The homepage hero is updated frequently to promote new content, events, and announcements. To use the homepage hero for promotion, follow the guidelines below. **Please submit your request as early as possible to get on the content calendar.**
 
-1. [Open a homepage promotion request issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) **as early as possible.** If there is another promotion already scheduled, we may not be able to accommodate your request. 
-1. Fill out the request completely. Provide as much information as possible for the copywriter. 
-1. Suggested promotion period should not exceed two weeks. If you are promoting an event that is happening months into the future, we can promote the event more than once. Suggest a few 2-week periods for promotion. For example, if your event is happening in September and registration opens in June, you may want to promote your event for two weeks following initial promotion, and for two weeks leading up to the event. 
+1. [Open a homepage promotion request issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/new?issuable_template=request-website-homepage-promotion) **as early as possible.** If there is another promotion already scheduled, we may not be able to accommodate your request.
+1. Fill out the request completely. Provide as much information as possible for the copywriter.
+1. Suggested promotion period should not exceed two weeks. If you are promoting an event that is happening months into the future, we can promote the event more than once. Suggest a few 2-week periods for promotion. For example, if your event is happening in September and registration opens in June, you may want to promote your event for two weeks following initial promotion, and for two weeks leading up to the event.
 
 ## Writing copy for the homepage hero
 
 1. The H1 should be 50 characters or less and include a "you" statement, speaking directly to the reader.
-1. The H2 should be 65 characters or less and include a value statement (i.e. what the reader will gain). 
+1. The H2 should be 65 characters or less and include a value statement (i.e. what the reader will gain).
 1. CTAs should be lead with an action verb and convey exactly what will be given in exchange for filling out the form.  
 
 ## Requesting content team support
@@ -204,7 +204,7 @@ The homepage hero is updated frequently to promote new content, events, and anno
 
 ### Requesting content and copy reviews
 
-1. Use the [editing request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=editing-request). 
+1. Use the [editing request template](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/content-marketing/-/issues/new?issuable_template=editing-request).
 
 ## Content production
 
@@ -212,7 +212,7 @@ The content team supports many cross-functional marketing initiatives. We aim fo
 
 Content production is determined and prioritized based on the following:
 
-1. SEO recommendations 
+1. SEO recommendations
 1. Integrated campaigns
 1. Corporate marketing events
 1. Newsworthiness
