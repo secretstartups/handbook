@@ -634,6 +634,17 @@ Custom carousels in a channel can help organize and guide users to highlighted c
 
 It's best practice to create these custom carousel on a channel rather than use the automatic options as these provide a more curated and specific experience for the learner.
 
+#### Featuring content in a channel
+
+On a channel’s homepage you have the option to feature content you may want to highlight. This might be new or important content, or you could create a smartcard to act as a guide for other content in the channel.
+
+1. First, add the content you’d like to feature to the channel. Follow the instructions above in `Editing an existing channel`
+2. Open the channel, ensuring you have the `ALL` tab selected. This will display all content shared in the channel, organised by carousel.
+3. Locate the carousel containing the content you’d like to feature. Click the small pencil button to edit.
+4. Hover over the relevant smartcard then click to feature/ un-feature the content.
+5. Click back
+6. The content will now be featured at the top of the channel, you can feature multiple cards if you like.
+
 ### Carousels
 
 #### Creating a custom carousel
