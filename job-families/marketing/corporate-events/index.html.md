@@ -171,7 +171,7 @@ The Production Manager reports to Manager, Corporate Events and Branding.
  
 ### Manager, Corporate Events
  
-The Manager, Corporate Events reports to VP, Corporate Marketing.
+The Manager, Corporate Events reports to Director, Corporate Events.
  
 #### Manager, Corporate Events Job Grade
  
@@ -201,7 +201,7 @@ The Manager, Corporate Events is a [grade 8](/handbook/total-rewards/compensatio
  
 ### Senior Manager, Corporate Events 
 
-The Senior Manager, Corporate Events reports to VP, Corporate Marketing.
+The Senior Manager, Corporate Events reports to Director, Corporate Events. 
 
 #### Senior Manager, Corporate Events Job Grade
 
@@ -225,6 +225,37 @@ The Senior Manager, Corporate Events is a [grade 9](/handbook/total-rewards/comp
 * Proven experience managing budgets for large corporate marketing events. 
 
 #### Manager and Senior Manager Performance Indicators
+
+* [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
+* [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
+* [50% or more SOV compared to most published competitor](/handbook/marketing/performance-indicators/#50-or-more-sov-compared-to-most-published-competitor)
+* [Marketing efficency ratio](/handbook/marketing/performance-indicators/#marketing-efficiency-ratio)
+* [LTV / CAC ratio](https://about.gitlab.com/handbook/marketing/performance-indicators/#ltv--cac-ratio)
+
+### Director, Corporate Events
+
+Director, Corporate Events reports to VP, Corporate Marketing. 
+
+### Director, Corporate Events Job Grade
+
+The Director, Corporate Events is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Corporate Events Responsibilities
+
+* Extends that of Senior Manager, Corporate Events responsibilities.
+* Thinks strategically and forward looking about overall team, budget and resources needed to execute corporate events.
+* Sets OKRs and overall goals for the team. 
+* Works collaboratively with leaders across the organization to align on objectives and overall structure for coroprate events.
+* Shares overall results of events, and then takes feedback and data to iterate on future events.
+
+#### Director, Corporate Events Requirements
+
+* Extends that of the Senior Manager, Corporate Events requirements.
+* 15+ years experience in corporate events.
+* Proven experience managing and growing teams.
+* Proven experience managing agencies and contractors to accomplish goals.
+
+#### Director Performance Indicators
 
 * [Net new business created](/handbook/marketing/performance-indicators/#net-new-business-pipeline-created)
 * [Pipe to Spend](/handbook/marketing/performance-indicators/#pipe-to-spend-per-marketing-activity)
