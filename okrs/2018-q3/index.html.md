@@ -96,7 +96,7 @@ canonical_path: "/company/okrs/2018-q3/"
     * [Establish the User Experience direction for the security dashboard](https://gitlab.com/groups/gitlab-org/-/epics/252): Aid in completing a Competitive analysis, identify 10 must have items for the security dashboard, complete a design artifact/discovery issue: 100%
     * [Identify and document the styles for the first 10 components](https://gitlab.com/groups/gitlab-org/-/epics/283) being developed by the FE team: 90%
     * UX Research
-      * [Incorporate personas into our design process for 100% of our product features](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas): 100%
+      * [Incorporate personas into our design process for 100% of our product features](https://about.gitlab.com/handbook/marketing/strategic-marketing/roles-personas/): 100%
       * [Identify 5 pain points for users who have left GitLab.com. Work with Product Managers to identify solutions](https://gitlab.com/gitlab-org/ux-research/issues/81): 90%
   * Security
     * [Identify and push top 10 sources/attributes to S3 instance and ensure at least 90 day retention and tooling for security investigations](https://docs.google.com/document/d/1Kqjp8DFndTnJ_ZPwgDq6fvf5TuFyi2bn5-cdCdNpwBY/edit?usp=sharing): 100%
