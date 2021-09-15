@@ -36,9 +36,9 @@ To access the Netlify CMS:
 1. Click "Login with GitLab" and use your GitLab account, the one with membership privileges in [`www-gitlab-com` repository](https://gitlab.com/gitlab-com/www-gitlab-com)
 1. If you have sufficient authorization, you should be redirected to the Netlify CMS admin page.
 
-## Editorial workflow process 
+## Editorial workflow process
 
-The editorial workflow enables Netlify CMS to create corresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit through your account to a merge request with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to pull your branch and make changes that way instead. 
+The editorial workflow enables Netlify CMS to create corresponding merge requests with your changes. Netlify CMS will open a merge request and make a commit through your account to a merge request with your changes to a single page. Future changes to the draft will be additional commits by the user making the changes to the draft. We can also use a traditional git workflow once the MR is created if someone wants to pull your branch and make changes that way instead.
 
 The editorial workflow is a powerful process that allows content contributors and developers to contribute to the same merge request with different tools.
 
@@ -67,7 +67,7 @@ To edit an existing or create a new page in Netlify CMS, make sure that the [con
 7. Visit GitLab and locate the associated merge request with your edit.
     - If it's in the draft stage, you can find the MR with the [netlify-cms/draft label](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=netlify-cms%2Fdraft)
 8. Assign the merge request to yourself, and assign a reviewer if it's ready to be reviewed.
-9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](/handbook/marketing/blog/#publishing-process) for instructions.
+9. Assign a reviewer with maintainer access to the `www-gitlab-com` repository when it's ready to be merged. **Note**: There is a separate approval process if you are planning to publish a new blog post. Please see the [blog handbook](/handbook/marketing/blog/) for instructions.
 
 ## Content types enabled in Netlify CMS
 
@@ -110,9 +110,9 @@ If you'd like to [use this feature for production builds of about.gitlab.com](ht
 
 #### Icon library for event template
 
-We have a selection of icons available for the event template. These are svgs and require a specific string to work properly. We are iterating to make this a visual experience in the admin, however for the current iteration you must place the exact string in the icon field for it to work properly. 
+We have a selection of icons available for the event template. These are svgs and require a specific string to work properly. We are iterating to make this a visual experience in the admin, however for the current iteration you must place the exact string in the icon field for it to work properly.
 
-The option of icon strings available are: 
+The option of icon strings available are:
 
 * /icons/slp-tracks.svg
 * /icons/slp-separator-vertical.svg
@@ -138,18 +138,18 @@ The option of icon strings available are:
 * /icons/slp-bulb.svg
 * /icons/slp-arrow-left.svg
 
-If you do not designate an icon, we have default ones set up for each block. 
+If you do not designate an icon, we have default ones set up for each block.
 
 #### Icon color for tracks
 
-For the tracks module, you must designate a background color for the icon. Current options are listed in our [Slippers Tailwind Config](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/tailwind/#Colors). 
+For the tracks module, you must designate a background color for the icon. Current options are listed in our [Slippers Tailwind Config](https://gitlab-com.gitlab.io/marketing/inbound-marketing/slippers-ui/tailwind/#Colors).
 
 
 Place the class name of background color you'd like your icon displayed on. For example `slp-bg-brand-purple`.
 
 ### Comparison Pages
 
-The Comparison Pages that are linked in [DevOps Tools](https://about.gitlab.com/devops-tools/) can be edited via Netlify CMS. Their data files exist in `data/comparison_pages`. They get conditionally rendered, the logic of which is controlled in `sites/uncategorized/source/layouts/comparison_page_v2.haml`, where we check if the `data.comparison_pages[key_one]` exists. If it does, we use this data in the new Slippers Comparison Infographic component. 
+The Comparison Pages that are linked in [DevOps Tools](https://about.gitlab.com/devops-tools/) can be edited via Netlify CMS. Their data files exist in `data/comparison_pages`. They get conditionally rendered, the logic of which is controlled in `sites/uncategorized/source/layouts/comparison_page_v2.haml`, where we check if the `data.comparison_pages[key_one]` exists. If it does, we use this data in the new Slippers Comparison Infographic component.
 
 If there is no Comparison Page data for a particular page, the build process will fall back to the old style static image. Conversely, in order to render this data in the appropriate page, you must match the `slug` field with the name of the competitor as listed in `data/features.yml`.
 
@@ -163,7 +163,7 @@ Solution landing pages managed through Netlify CMS can be found at [https://abou
 
 Please note that not all solution landing pages are built using this process.
 
-To migrate an existing solution landing page over to a new template, make sure to remove the existing one from [`/sites/uncategorized/source/solutions`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/solutions). Please verify your review app is displaying your migrated solutions page properly! 
+To migrate an existing solution landing page over to a new template, make sure to remove the existing one from [`/sites/uncategorized/source/solutions`](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/sites/uncategorized/source/solutions). Please verify your review app is displaying your migrated solutions page properly!
 
 #### Solution child pages
 
@@ -204,7 +204,7 @@ If you experience an issue or bug using the system, submit an issue! GitLab's ma
 
 #### Drafts missing from the workflow tab
 
-Sometimes drafts in progress are missing from the workflow tab in Netlify CMS. This makes it hard for an editor to access the Netlify CMS UI to continue editing this draft! This is a known [issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1166). However, you can still access the draft editing interface with a direct URL. 
+Sometimes drafts in progress are missing from the workflow tab in Netlify CMS. This makes it hard for an editor to access the Netlify CMS UI to continue editing this draft! This is a known [issue](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1166). However, you can still access the draft editing interface with a direct URL.
 
 The URL structure to find the draft in Netlify CMS is `/admin/#/collections/COLLECTION_NAME/entries/BRANCH_NAME?ref=workflow`
 - `COLLECTION_NAME` = topic, topic_child, or blog_posts
@@ -214,22 +214,22 @@ The URL structure to find the draft in Netlify CMS is `/admin/#/collections/COLL
 
 Here is an example [MR #78654](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/78654):
 - Branch Name: `cms/topic/ci-cd`
-- Netlify CMS Direct URL: `/admin/#/collections/topic/entries/ci-cd?ref=workflow` 
+- Netlify CMS Direct URL: `/admin/#/collections/topic/entries/ci-cd?ref=workflow`
 
 The Netlify CMS Direct URL will no longer work once a merge request has been merged with the master branch.
 
 #### Netlify CMS branches not deleted after merging with master
 
-When a branch is published through Netlify CMS, the `cms/` branch remains in the repo after it's merged with master. This was reported [here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1171). This causes an API error message when a editor goes to edit the same page at a later date. 
+When a branch is published through Netlify CMS, the `cms/` branch remains in the repo after it's merged with master. This was reported [here](https://gitlab.com/gitlab-com/marketing/inbound-marketing/growth/-/issues/1171). This causes an API error message when a editor goes to edit the same page at a later date.
 
-As a stop-gap solution, we are manually deleting merged `cms/` branches at the end of every iteration cycle. 
+As a stop-gap solution, we are manually deleting merged `cms/` branches at the end of every iteration cycle.
 
 ### Can I still edit content locally or via the GitLab interface?
 
-We hope the Netlify CMS integration is easy and comprehensive enough to meet all your day-to-day content editing needs. But we also understand sometimes people might prefer to edit their content locally through an IDE, or directly through the GitLab interface. 
+We hope the Netlify CMS integration is easy and comprehensive enough to meet all your day-to-day content editing needs. But we also understand sometimes people might prefer to edit their content locally through an IDE, or directly through the GitLab interface.
 
-Netlify CMS is a layer on top of data that still lives in this git repository, and is still accessibile via your local environment or the GitLab interface. In many cases, the content exists as markdown files (for example, blog posts in `sites/marketing/source/blog/blog-posts`). In other cases, the content exists as a YAML file (for example, topic pages in `data/topic`). 
+Netlify CMS is a layer on top of data that still lives in this git repository, and is still accessibile via your local environment or the GitLab interface. In many cases, the content exists as markdown files (for example, blog posts in `sites/marketing/source/blog/blog-posts`). In other cases, the content exists as a YAML file (for example, topic pages in `data/topic`).
 
-You can determine the relevant file path to content by referencing the [Netlify CMS configuration file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/admin/config.yml). Most of our content types are [folder collections](https://www.netlifycms.org/docs/collection-types/#folder-collections). So if you check the configuration file for `folder` underneath the collection you want to edit, you'll see the path to its data files. From there, you can make edits in your IDE or the GitLab interface. 
+You can determine the relevant file path to content by referencing the [Netlify CMS configuration file](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/marketing/source/admin/config.yml). Most of our content types are [folder collections](https://www.netlifycms.org/docs/collection-types/#folder-collections). So if you check the configuration file for `folder` underneath the collection you want to edit, you'll see the path to its data files. From there, you can make edits in your IDE or the GitLab interface.
 
 Since this manual editing is outside of the Netlify CMS formatting rules, you'll have to be mindful of formatting issues with YAML and Markdown, and may want to double check your local environment or review app before publishing changes.
