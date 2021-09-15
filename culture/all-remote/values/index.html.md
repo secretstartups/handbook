@@ -146,15 +146,9 @@ In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRT
 
 ## Transparency
 
-[Transparency](/handbook/values/#transparency) is simplest to implement when there is nowhere to hide. In all-remote companies, there's no hallway chatter, no secret elevator talks, and no locked boardrooms. All-remote companies require transparency to thrive. All companies should aspire for transparency, but an all-remote culture receives outsized benefit by achieving it. 
+[Transparency](/handbook/values/#transparency) is simplest to implement when there is nowhere to hide. In all-remote companies, there's no hallway chatter, no secret elevator talks, and no locked boardrooms. All-remote companies require transparency to thrive. Every company should aspire to transparency, but an all-remote culture receives outsized benefit by achieving it. 
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/hpyR39y_1d0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-In the [GitLab Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A) video above, GitLab CMO Todd Barr covers marketing metrics and [OKRs](/company/okrs/). This is an excellent example of transparency providing benefit to an all-remote culture. Team members are able to listen and learn when it best suits their schedule, and even those who work in functions outside of marketing are able to gain a broader understanding of what matters to the company. 
+At GitLab, we have regular, recorded meetings to discuss progress on each department's metrics and [OKRs](/company/okrs/). This is an excellent example of transparency providing benefit to an all-remote culture. Team members are able to listen and learn when it best suits their schedule, and even those who work in functions outside of that team are able to gain a broader understanding of what matters to the company. 
 
 ---
 
