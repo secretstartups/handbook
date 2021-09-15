@@ -67,7 +67,7 @@ GitLab does not offer life insurance in the Netherlands at this time. Team membe
 Eligible team members may apply for the 30% Tax Ruling. More information can be found on our [Visas](/handbook/people-group/visas/#30-ruling-in-the-netherlands) page. Kindly note, this can also be [expensed](/handbook/people-group/visas/#expensing).
 
 ## Bike to Work/Tax Saver Commuter Scheme
-GitLab uses HR Savvy to assist with the administration of the bike to work/tax saver commuter scheme. 
+GitLab uses HR Savvy to assist with the administration of [the bike to work/tax saver commuter scheme](https://business.gov.nl/running-your-business/environmental-impact/making-your-business-sustainable/buy-or-lease-a-company-bicycle/).
 
 Cycle to work will have a maximum expenditure of 1200 EUR for a bike. The team members can avail this benefit every 2 years. This duration will be calculated based on the start date of the previously availed bike scheme benefit. 
 
