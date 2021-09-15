@@ -32,13 +32,16 @@ When the issues are complete, they are either closed or marked with label `BT-Re
 
 #### SDLC Flowchart
 
+```mermaid
+graph TD
     A[Intake project Epic] -->|After discovery session| B(Epic created in Integration Project)
     B --> C(epic broken down into sub epics and issues)
     C --> |labels - BT Integrations Backlog, BT Priority 1,2,3|D(issues added to Planning board - work in planning)
     D --> |labels - BT Integrations Kanban, BT Priority 1,2,3, BT-To Do OR in progress|E(Issues added to Kanban Board - work in progress)
     E --> |labels - BT done OR BT Ready for Review|F(issue completion)
+```
 
-#### SDLC Artifacts
+#### SDLC Artifact
 
 ##### Labels
 
