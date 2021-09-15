@@ -262,7 +262,7 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
 - Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/#requests-for-announcements) instead?
 - If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-pitch-a-blog-post)).
 - Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#gitlab-feature-posts).
-- Does the pitch meet the requirements and answer the questions outlined in [How to get your pitch accepted](/handbook/marketing/blog/#how-to-get-your-blog-post-pitch-accepted)
+- Does the pitch meet the requirements and answer the questions outlined in [How to pitch a blog post](/handbook/marketing/blog/#how-to-pitch-a-blog-post)
     - What's in it for the audience?
 - Does the pitch show potential to help us meet our [goals for the blog](#goal-grow-our-audience-engage-readers-and-convert-readers-into-subscribers)?
 - Have we published anything on an overlapping topic recently?
