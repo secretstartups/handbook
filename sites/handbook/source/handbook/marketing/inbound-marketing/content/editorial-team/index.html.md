@@ -129,7 +129,7 @@ For context, we aim for a blog post to achieve a minimum of >1,000 unique views 
 
 #### Promotional announcements
 
-With the exception of big news, for example a funding announcement or [making paid features open source](/blog/2020/03/30/new-features-to-core/), promotional announcements do not tend to draw lots of traffic. We encourage team members to check out our [best practices in the blog handbook](/handbook/marketing/blog/#writing-blog-posts--best-practices), which may help contributors to adjust the angle or substance of their post to be more appealing to our audience. In some cases a straightforward announcement is more appropriate than attempting to tell a story with the news, in which case the Editorial team member reviewing the draft will just do a light proofread and check for formatting rather than a more in-depth edit.
+With the exception of big news, for example a funding announcement or [making paid features open source](/blog/2020/03/30/new-features-to-core/), promotional announcements do not tend to draw lots of traffic. We encourage team members to check out our [best practices in the blog handbook], which may help contributors to adjust the angle or substance of their post to be more appealing to our audience. In some cases a straightforward announcement is more appropriate than attempting to tell a story with the news, in which case the Editorial team member reviewing the draft will just do a light proofread and check for formatting rather than a more in-depth edit.
 
 - [Celebrating 3,000 wider community contributors](/blog/2020/06/23/3000-contributors-post/)
 - [How recent acquisitions introduce fuzz testing to GitLab](/blog/2020/07/17/fuzz-testing/)
@@ -260,7 +260,7 @@ Every Monday, a member of the Editorial team reviews [blog post pitches](https:/
 
 - Has another member of the Editorial team already reviewed the pitch and responded? If so, no need to review.
 - Should the pitch be an [announcement request](/handbook/marketing/corporate-marketing/#requests-for-announcements) instead?
-- If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/#how-to-pitch-a-blog-post)).
+- If the post is a tutorial explaining how to do something with GitLab, does the relevant documentation exist? This needs to be in place before we can publish a blog post about it (see note in [the blog handbook](/handbook/marketing/blog/index.html#how-to-pitch-a-blog-post)).
 - Is the pitch about a GitLab feature? Make sure it aligns with our [best practices for feature posts](/handbook/marketing/blog/#gitlab-feature-posts).
 - Does the pitch meet the requirements and answer the questions outlined in [How to get your pitch accepted](/handbook/marketing/blog/#how-to-get-your-blog-post-pitch-accepted)
     - What's in it for the audience?
@@ -290,7 +290,7 @@ Following the review above, the pitch should fall into one of three categories:
 
 When responding to the person who pitched, be sure to include your rationale for your response and any relevant data or examples to justify your decision.
 
-## Sourcing blog posts 
+## Sourcing blog posts
 
 In addition to reviewing pitches submitted by team members, the Editorial team also actively sources topics for potential blog posts in the following ways:
 
@@ -298,14 +298,14 @@ In addition to reviewing pitches submitted by team members, the Editorial team a
 
 - Weekly [review of the GitLab Unfiltered blog](/handbook/marketing/inbound-marketing/content/editorial-team/#featuring-unfiltered-posts) to surface blog posts to bring over to the main blog
 
-#### Sweep of Unfiltered YouTube Channel 
+#### Sweep of Unfiltered YouTube Channel
 -  Twice a month, review the GitLab Unfiltered YouTube channel for videos discussing topics that are popular on the blog, such as Kubernetes, CI/CD, GitOps.
-- Check to see if there are any videos that follow up on a topic that has been covered in a past blog post in case there is an update we can share. 
-- Check to see if there are any videos that are receiving a lot of views (a high number of views in a short period of time, or a high number of views over a longer period of time). Once one or more videos are identified, check with the Digital Production team to see if the number of views accurately represents viewer engagement with the video, since sometimes a lot of people click videos but don't watch more than a few seconds. 
-- Once one or more GitLab Unfiltered videos are identified as a good candidate for a blog post, open an issue and connect with the team members featured in the video. Some questions to ask them: Why do you think viewers were interested in this video? Would you be interested in writing a blog post about this video, or being interviewed for a blog post about this topic? 
-- An example of a blog post based on an Unfiltered video: "[How we used parallel CI/CD jobs to increase our productivity](/blog/2021/01/20/using-run-parallel-jobs/)" 
+- Check to see if there are any videos that follow up on a topic that has been covered in a past blog post in case there is an update we can share.
+- Check to see if there are any videos that are receiving a lot of views (a high number of views in a short period of time, or a high number of views over a longer period of time). Once one or more videos are identified, check with the Digital Production team to see if the number of views accurately represents viewer engagement with the video, since sometimes a lot of people click videos but don't watch more than a few seconds.
+- Once one or more GitLab Unfiltered videos are identified as a good candidate for a blog post, open an issue and connect with the team members featured in the video. Some questions to ask them: Why do you think viewers were interested in this video? Would you be interested in writing a blog post about this video, or being interviewed for a blog post about this topic?
+- An example of a blog post based on an Unfiltered video: "[How we used parallel CI/CD jobs to increase our productivity](/blog/2021/01/20/using-run-parallel-jobs/)"
 
-### Follow up on top-performing posts 
+### Follow up on top-performing posts
 
 During [quarterly traffic analysis](#blog-traffic-analyses), identify high-traffic blog posts (published at any time, not necessarily from that quarter).
 
@@ -313,35 +313,35 @@ We can optimize these in a few ways:
 
 #### Follow up
 
-Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there. 
+Reach out to the blog post author to find out if there is an update to the story that might make a good blog post, or if they have another story to share. You can do this by [opening an issue for a new blog post](#checklist-for-blog-post-issues) and pinging the author there.
 
 This is a good idea for engineering posts that explain in depth how we built a feature, completed a major migration, or fixed a bug. These posts don't age poorly because they describe something that has already happened. We don't need to keep them current in the same way as a tutorial, but there might be more to the story now that time has passed.  
 
 For example, [this post about Praefect](/blog/2021/01/21/high-availability-git-storage-with-praefect/) is a follow-up to a [popular post from 2018 about Gitaly](/blog/2018/09/12/the-road-to-gitaly-1-0/).
 
-#### Update 
+#### Update
 
 Update the blog post and republish it, with a link to the original post. We can do this either by reaching out to the author of the post, or if the author is not available and technical knowledge is required, we can open a [Strategic Marketing Support Request](https://gitlab.com/gitlab-com/marketing/strategic-marketing/product-marketing/-/issues/new?issuable_template=A-SM-Support-Request) to ask Technical Marketing to take it on.
 
-This works for tutorials and how-to posts that are no longer current. Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/). 
+This works for tutorials and how-to posts that are no longer current. Here is [an example of an updated blog post](/blog/2020/12/10/basics-of-gitlab-ci-updated/).
 
-#### Repurpose 
+#### Repurpose
 
-[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose). 
+[Repurpose the blog post into a different, evergreen content format](/handbook/marketing/inbound-marketing/content/content-marketing/#blog-repurpose).
 
 This approach is suitable for older blog posts covering high-level, foundational topics that don't age (DevOps fundamentals, CI best practices, etc.) and which aren't specifically about GitLab features or functionality.
 
 ### #trending Slack channel
 
-The #trending channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video). 
+The #trending channel is for team members to surface new story ideas to Editorial. Anyone is welcome to join and can share links to news or opinion that could be worth pursuing as a blog post or in another content format (e.g. video).
 
 We know that team members often share noteworthy news or developments in other channels – the difference here is the channel will help the Editorial team to aggregate and curate items that have [strong blog post potential](#top-performing-blog-posts). The content can be anything that's relevant to our audience and within our [blog scope](#scope).
 
 - Team members can post in the channel ad hoc, or participate in the channel's weekly Geekbot prompts. Feel free to suggest edits to the Geekbot questions.
-- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-pitch-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas. 
-- It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team. 
+- The channel does not replace [pitching to the blog](/handbook/marketing/blog/#how-to-pitch-a-blog-post). Team members can still open an issue to pitch a blog post if they want to write about something, and there's no requirement to post in the channel. The channel is for more informal sharing of possible ideas.
+- It's up to the sharer to decide if they would like to write a post or if they're just offering the idea to the Editorial team.
 - Whoever intends to write a post inspired by #trending will need to open [a blog post issue](/handbook/marketing/blog/#how-to-pitch-a-blog-post) to get started.
-- We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts. 
+- We won't be able to turn all ideas into blog posts. In some cases an idea may be more suitable for another format or publishing outlet, or it may spark an idea for a related post or series of posts.
 
 ## Checklist for blog post issues
 
@@ -473,9 +473,9 @@ This is not an exhaustive list of criteria, as the Editorial team member will al
 
 ## Updating the handbook or issue/MR templates
 
-Occasionally team members may notice something is missing from or could be improved in the [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team/) or [blog](/handbook/marketing/blog/) handbooks, including the [style guide](#blog-style-guide), or issue/MR templates. 
+Occasionally team members may notice something is missing from or could be improved in the [Editorial](/handbook/marketing/inbound-marketing/content/editorial-team/) or [blog](/handbook/marketing/blog/) handbooks, including the [style guide](#blog-style-guide), or issue/MR templates.
 
-Team members are strongly encouraged to work [handbook first](/handbook/handbook-usage/#why-handbook-first) and to [start with an MR](/handbook/communication/#everything-starts-with-a-merge-request). Whether a proposed change comes up in discussion on Slack, on GitLab, or in a meeting, or you just have an idea you would like to contribute, please open an MR to suggest the change, or open an issue in the [Editorial project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues) if you're not sure what change to make or want to put an idea up for discussion with the team first. 
+Team members are strongly encouraged to work [handbook first](/handbook/handbook-usage/#why-handbook-first) and to [start with an MR](/handbook/communication/#everything-starts-with-a-merge-request). Whether a proposed change comes up in discussion on Slack, on GitLab, or in a meeting, or you just have an idea you would like to contribute, please open an MR to suggest the change, or open an issue in the [Editorial project](https://gitlab.com/gitlab-com/marketing/inbound-marketing/global-content/editorial/-/issues) if you're not sure what change to make or want to put an idea up for discussion with the team first.
 
 If you open an MR, please assign it to the managing editor to merge, and ping the rest of the Editorial team so everyone is aware of the change and can contribute to the discussion. Looping everyone in, even in cases where a change has been discussed and agreed on in a meeting, for example, is to ensure that the MR accurately captures what was agreed on, and that the whole team is aware of and understands any changes in case we need to explain anything to team members from other groups.
 
@@ -875,13 +875,13 @@ If you run into issues with your MR, pipeline, or Terminal, it's usually quickes
 - Ronald van Zon
 - Thomas Woodham
 
-## Process for paid social 
+## Process for paid social
 
-To run a paid promotion to blog posts, a series, or PathFactory track, plan at least four weeks ahead to gather all necessary assets, and coordinate with other groups. 
+To run a paid promotion to blog posts, a series, or PathFactory track, plan at least four weeks ahead to gather all necessary assets, and coordinate with other groups.
 
-- Decide on the content you want to promote and [which channels and formats](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#channels) you want to use. If you're not sure, reach out in #digital-marketing on Slack. 
-- If you are planning to promote multiple pieces of content (blog posts, video, web articles, etc.), it may make sense to create a [PathFactory](/handbook/marketing/marketing-operations/pathfactory/) track to enable better exploration and discovery of the content. In this case, open a [PathFactory Track Request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track). 
-- Open a [Paid Digital Request issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/new?issuable_template=paid-digital-request) and fill in as much as possible. 
+- Decide on the content you want to promote and [which channels and formats](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#channels) you want to use. If you're not sure, reach out in #digital-marketing on Slack.
+- If you are planning to promote multiple pieces of content (blog posts, video, web articles, etc.), it may make sense to create a [PathFactory](/handbook/marketing/marketing-operations/pathfactory/) track to enable better exploration and discovery of the content. In this case, open a [PathFactory Track Request issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=request-pathfactory-track).
+- Open a [Paid Digital Request issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/new?issuable_template=paid-digital-request) and fill in as much as possible.
 - Open a [design request issue](https://about.gitlab.com/handbook/marketing/corporate-marketing/brand-activation/brand-design/#brand--marketing-design-issue-templates) for the visual assets for your paid social. In most cases, you will use the [general design request template](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-general), but if you are planning to run a bigger promotion with multiple assets, please use [the integrated campaign request issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=request-design-concepting-integrated-campaign) instead.
 - Phew! That was a lot of issues. Make sure to go back and add the design and PathFactory request issues as [blocking](https://docs.gitlab.com/ee/user/project/issues/related_issues.html) the Paid Digital issue and add links in the description where necessary.
 
@@ -889,7 +889,3 @@ Things to note:
 
 - We don't need to provide copy for the ads. Our [agency](/handbook/marketing/revenue-marketing/digital-marketing-programs/digital-marketing-management/#working-with-pmg-our-digital-agency) takes care of that.
 - Avoid launching promotions in Q4 as holidays in November and December delay the process and the people you're trying to reach with the promotion may take time off then too.
-
-
-
-
