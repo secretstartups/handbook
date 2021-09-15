@@ -110,7 +110,11 @@ For features not available in either instance, please create your own trial for 
 
 If you need an Okta sandbox environment to test SAML and SCIM, please go to https://developer.okta.com/signup/ and enter your credentials for a free developer instance where you can perform all your tests. This is a full featured environment so you should be able to add and remove applications, and perform all tests as if you were in a regular production instance.
 
-**Please note**: We have observed a bug while setting up an environment using `developer.okta.com`. When you assign an app to the user then the username field is prefilled with `user.getInternalProperty('id')` instead of Username/Identity. This works perfectly fine when using a trial.
+**Please note**: We have observed a bug while setting up an environment using `developer.okta.com`. When you assign a SAML app to the user then the username field is prefilled with the configured value for the NameID ( e.g. `user.getInternalProperty('id')` ) instead of the created user Identity. This works perfectly fine when using a trial.
+
+ ![Assign SAML app on Okta](/images/handbook/support/error_assiging_SAML.png)
+
+In case you are setting up SCIM along with SAML, you can work around this bug by assigning SCIM app first to the user, and copy the user externalId, then manually fill in the username with this value when assiging the SAML app to this user 
 
 ### LDAP Testing Environments
 
