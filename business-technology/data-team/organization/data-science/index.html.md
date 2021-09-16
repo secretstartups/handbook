@@ -22,14 +22,23 @@ The team accomplishes this mission by building machine learning models and analy
 
 ## Projects
 
-### Propensity to Buy -> Account Score
+### Propensity to Buy (Upsell)
 
-- [Data Science Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340) 
-- [Development Epic](https://gitlab.com/groups/gitlab-data/-/epics/302)
 - Start Date: 2021-06-30
+- [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
+- [Data Science Work breakdown](https://gitlab.com/groups/gitlab-data/-/epics/340)
 - [Slack Channel](https://gitlab.slack.com/archives/C027EEYL8EL)
 
+### Project Backlog
 
+- Buy (Upsell) Predicted ARR
+- Golden Journey - Growth Team - Hila Qu
+- PtB.first order  - Growth Team - Hila Qu
+- PtB.churn - Customer Success Team - David Sakamoto
+- User Segmentation / persona activity, use cases - Product Team - Hila Qu
+- Community Sentiment Analysis / twitter, facebook - Product Team
+- GitLab MLOps Product Development - Product Team - Taylor
+- Feature $ARR uplift prediction - Product Team - Anoop Dawar
 
 # Data Science responsibilities 
 
@@ -66,10 +75,9 @@ Modeling refers to building machine learning model, which consists of training, 
 
 In this phase, performance of model is measured (if required in Business Understanding) and outcomes are presented to stakeholders and end users for feedback. This phase is strongly aligned with one of the GitLab's values - [Iteration](https://about.gitlab.com/handbook/values/#iteration) After feedback, data scientists iterate on above phases as long as business goal is met.
 
-### Deployment 
+### Deployment / Productionalization
 
-Once success criteria has been met, If it is ad-hoc analysis then no production deployment is needed, only handover to end-users. In last phase it is important to remember about [Handbook First](https://about.gitlab.com/company/culture/all-remote/handbook-first-documentation/) approach, although it is recommended to document efforts regularly, during all phases. 
-
+Once a viable prediction model has been created, the next step is to deploy the model in to the TBD data science production pipeline. This process automatically updates ("re-trains") the model as new data becomes available and generates predictions for all eligable records on a regular cadence.  
 
 # Success Criteria 
 
@@ -81,11 +89,11 @@ Success criteria is measured as follows:
 
 We recognise two types of business outcomes from data science projects: direct and indirect impact.
 
-## Direct impact 
+## Direct Impact 
 
 Projects with direct impact allow to translate project outcomes directly to monetary value. This usually can be achieved by optimisation projects which goal is to reduce time spent on process or increase revenue of company. Below provided examples of success criteria statement for direct impact: 
 
-### Time saved 
+### Time Saved 
 
 "Our project helped to reduce time spent on process X by 10 000 hours valued at $500k."
 
@@ -97,23 +105,29 @@ Projects with direct impact allow to translate project outcomes directly to mone
 
 Projects with indirect impact do not translate directly to monetary value, but provide platform for other decision makers to bring monetary value. These projects are usually the ones where critical insights are provided to stakeholders as scalable product and then used to increase capabilities of decision maker. Below provided examples of success criteria statement for indirect impact:
 
-### Increased visibility 
+### Increased Visibility 
 
 "Our project helped stakeholders increase decision making capabilities, which improved sales strategy by 10%."
 
-### Capability unlock 
+### Unlock Insights 
 
 "Our project enabled the product team to finally understand who our major customers are and the behaviors they exhibited. This knowledge helped to secure a new customer worth $1M ARR."
 
 
-# Tools setup
+# Data Science Tools at Gitlab
 
-Currently data science team uses JupyterLab configured in docker image to build models and derive insights. Despite the fact that GitLab's infrastructure is setup in Google Cloud Platform environment, GitLab does not use DataLab (built-in Jupyter instance provided by Google Cloud). There are two reasons for it: 1. issues that occur when we want to connect to Snowflake with DataLab 2. DataLab sets default Python as Python 2 and if we want to use Python 3 we can use only version up to 3.5, what puts limits on our team.
+- The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the [data-science project](https://gitlab.com/gitlab-data/data-science) for additional information and setup instructions 
+- Modeling Templates (**Coming Soon!**)
+- gitlabds python tools (**Coming Soon!**)
 
-To setup JupyterLab for your @gitlab.com account, follow the steps on the data-science repo [README](https://gitlab.com/gitlab-data/data-science/). Please note if you want to use Snowflake tables in Jupyter, you will need completed"Connecting to Snowflake" and "Getting Set up with dbt locally" from the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md)
 
+# Useful Data Science & Machine Learning Resources
 
-# Common Data Science terms 
+- Python Data Science Handbook by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science
+- Python Machine Learning by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
+- The Elements of Stastical Learning, Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
+
+# Common Data Science Terms 
 
 Below listed common data science terms that are used by team. 
 
