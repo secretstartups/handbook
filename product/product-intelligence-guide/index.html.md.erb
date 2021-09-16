@@ -204,6 +204,8 @@ For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/sno
 
 Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Service Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
 
+With the exception of name and email of the license contact associated with customer instances, service ping does not collect personally identifiable (PII) data about the instances users. Service ping simply increments a number when a code path is executed in the application. It can function without any understanding of who users are. 
+
 For more details, read the [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) guide.
 
 ### Database import
