@@ -18,7 +18,8 @@ description: "GitLab Data Science Team Handbook"
 
 
 The mission of the Data Science team is to help understand business, customers and products better with model-based insights.
-The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products.
+The team accomplishes this mission by building machine learning models and analysing data to convert results into trusted and scalable products. 
+
 
 ## Projects
 
@@ -42,14 +43,18 @@ The team accomplishes this mission by building machine learning models and analy
 
 # Data Science responsibilities 
 
-Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
+- What exactly is data science?! Check out [this video](https://www.youtube.com/watch?v=wRbNExL0hv8) or [these slides](https://docs.google.com/presentation/d/1Y-V6bZ5w8Ms5yfMiuYCYZs9ald7Q5MxydYhSh9DWwwQ/edit?usp=sharing) for a quick overview.
 
-Additionally, the **Data Science Team** supports the following responsibilities
-- With the **Data Leadership Team**:
-    - Defining and publishing a Data Science roadmap to expand analytical capabilities
-    - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-- With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
-    - Helping to define and champion Data Quality practices and programs for GitLab data systems
+- Responsibilities of data scientists are outlined [here](https://about.gitlab.com/job-families/finance/data-science/) 
+
+- Additionally, the **Data Science Team** supports the following responsibilities:
+    - With the **Data Leadership Team**:
+        - Defining and publishing a Data Science roadmap to expand analytical capabilities
+        - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
+    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
+        - Helping to define and champion Data Quality practices and programs for GitLab data systems
+
+
 
 # Projects structure 
 
