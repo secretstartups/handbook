@@ -20,6 +20,8 @@ This document provides information on what Kibana is, how to search it, interpre
 
 [Kibana](https://log.gprd.gitlab.net/) is an [open source data visualization plugin](https://www.elastic.co/kibana) for [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch). It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Support Engineering uses Kibana to both search for error events on GitLab.com and to detect when specific changes were made to various aspects of it by a user.
 
+>**Note:** Kibana does not retain logs older than 7 days.
+
 #### Parameters
 
 Knowing *where* to search in Kibana is paramount to getting the proper results. The area of the application (GitLab.com) that you're searching is known as the `Index` in Kibana. The default index used for searching is `pubsub-rails-inf-gprd-*` but you can change this by clicking the `(change)` button:
@@ -158,8 +160,6 @@ Kibana is not typically used to locate `5XX` errors, but there are times where t
 ```plaintext
 "gitlab-ee" AND "error"
 ```
-
->**Note:** Kibana does not retain logs older than 7 days.
 
 It's recommended to apply a **Negative Filter** to the `gitlab_error.log` and `gitlab_access.log` log files. These two generate a large amount of noise and may not be relevant to your search.
 
