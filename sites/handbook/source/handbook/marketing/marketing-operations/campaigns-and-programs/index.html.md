@@ -301,9 +301,18 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
-For virtual events, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
+For **virtual events**, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
 
 For all other campaign types, follow Steps 1-5 below. All steps are required. 
+
+For some events, there are mutiple campaigns that occur as a part of a single initiative (Ex. A conference with speaking sessions and direct mail) When this happens, a `parent` campaign should be created in SFDC and have each `child` campaign represent the individual tactics. in Marketo you can use a folder instead of creating a program. This parent campaign should not include any members, or include bizible touchpoints. You can associate parent/child on the campaign in SFDC under the `Parent Campaign` field, which is a campaign look up. (You will need to click `edit` button to update this, it can't be done in-line)
+
+An example of set up in Marketo is:
+- Conference Name (Folder)
+   - Conference Name (Program w/ members)
+   - Direct Mail Name (Program w/ members)
+   - Speaking Session 1 (Program w/ members)
+   - Speaking Session 2 (Program w/ members)
 
 **Important Notes**:
 1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
