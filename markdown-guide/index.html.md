@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Markdown Guide"
+title: "Handbook Markdown Guide"
 description: "Read through our Markdown kramdown Style Guide!"
 ---
 
