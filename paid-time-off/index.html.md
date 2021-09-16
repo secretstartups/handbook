@@ -336,7 +336,7 @@ Reporting from the PTO by Roots app helps managers:
 
 Managers can access the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
 
-![how to pull pto by roots reports](/sites/handbook/source/handbook/paid-time-off/pto-reports.png)
+![how to pull pto by roots reports](pto-reports.png)
 
 More training materials for PTO by Roots are found in the [Training & Kickoff Materials folder](https://drive.google.com/drive/folders/13GJGkLOtha_EtCAxBu7EGO13NCovaIcJ?usp=sharing) and the [Manager Overview document](https://docs.google.com/document/d/1Rxtlu4rwblUHZPrvi3gbhufR-fcLcwiOTNGaFBAjUxg/edit?usp=sharing). 
 
@@ -365,7 +365,7 @@ Understanding the PTO that teams have taken, and plan to take, helps managers ha
 1. If your team does not have any planned PTO when you run the report, consider sending a message or encouraging them in your next 1:1 to plan ahead to take PTO. Getting ahead of burnout is important and can be partially addressed with adequate rest.
 1. Confirm that you're getting calendar invitations for your direct reports PTO. This way, you can use your weekly and monthly calendar views to plan for your team. If you're not, ask your reports to add you following these steps:
 
-![how to pull pto by roots reports](pto-reports.png)
+![how to pull pto by roots reports](calendar-sync.png)
 
 
 ### Recognizing Burnout
