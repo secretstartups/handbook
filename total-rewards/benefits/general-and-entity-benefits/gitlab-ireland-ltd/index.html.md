@@ -93,7 +93,7 @@ From 2021, Cycle to work will have a maximum expenditure of 1250 EUR or 1500 EUR
 
 Once the total rewards team has approved the bike or ticket application, an invoice is generated. Once payment as been received, TravelHub emails the team member a voucher to use in the bike shop or tickets are dispatched in to the team member. 
 
- ## GitLab Ireland LTD Leave Policy
+## GitLab Ireland LTD Leave Policy
  
 ### Sick Leave
  
