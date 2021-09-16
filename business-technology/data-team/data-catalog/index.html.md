@@ -72,7 +72,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 #### Analytics Projects
 
-* [Propensity to Buy](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy-(upsell))
+* [Propensity to Buy](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
 
 ### Finance
 
