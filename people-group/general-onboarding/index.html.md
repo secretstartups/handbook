@@ -34,8 +34,8 @@ In certain instances, the People Experience team may not be able to assist with 
 The People Experience Team hosts a pre-onboarding call known as the Ta-New-Ki call (a play on the abstract Tanuki i.e. Japanese raccoon dog you will find in our logo).  The purpose of this call, which is hosted in Zoom, is to give soon to onboard team members the chance to meet / socialise and to provide an opportunity to ask any lingering questions ahead of their start date.  Internally we refer to this as an AMA (Ask Me Anything) call. **This call is open to all current team members, hiring managers.**
 
 This call occurs every two weeks on Thursday at two times to account for timezones.
-- 11:00pm PT
-- 08:30am PT
+- 11:00/23:00 **PM** PT
+- 08:30 **AM** PT
 
 * For current team members: To add the invite to your calendar, review the GitLab Team Meeting Calendar.
 * For future team members: You will receive an email with the future dates.
