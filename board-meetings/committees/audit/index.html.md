@@ -14,7 +14,7 @@ title: "Audit Committee"
 ## Audit Committee Composition
 
 - **Chairperson:** Karen Blasing
-- **Members:** Bruce Armstrong, David Hornik
+- **Members:** Sunny Bedi, David Hornik
 - **Management DRI:** Chief Financial Officer
 
 ## Audit Committee Charter
