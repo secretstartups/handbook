@@ -51,7 +51,7 @@ The team accomplishes this mission by building machine learning models and analy
     - With the **Data Leadership Team**:
         - Defining and publishing a Data Science roadmap to expand analytical capabilities
         - Broadcasting regular updates about data deliverables, ongoing initiatives, and upcoming plans
-    - With the [**Data Engineering Team**](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
+    - With the [**Data Engineering Team**](https://about.gitlab.com/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities):
         - Helping to define and champion Data Quality practices and programs for GitLab data systems
 
 
