@@ -111,19 +111,13 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 |---------|-----------------|------------------|---------|---------|
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 1 hour | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
 | Day 7   | Live Learning Session - Coaching and Feedback Scenarios | 1 hour | Live Learning Session | <br> *Real Life Scenarios </br> * Hear from the Audience <br> |
-| Day 8   | Cross-Cultural Collaboration and the Building an Inclusive Team | 1 hour | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
-| Day 9   | Live Learning - Putting it All Together | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback, coaching, DBI  and 1-1's |
+| Day 8   | Cross-Cultural Collaboration and the Building an Inclusive Team | 1 hour | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration <br> * Managing in a Global Team <br> * Building Trust |
+| Day 9   | Live Learning - Putting it All Together | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback, coaching, DBI  and 1-1's <br> * Networking |
 | Day 10  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> |
 
 ### Week 3
 
-| Day     | Challenge Topic | Length of Time   |  Format | Activity | 
-|---------|-----------------|------------------|---------|---------|
-| Day 11   | Catch Up Day | TBD | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
-| Day 12   | Coaching and Feedback | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway for coaching and feedback |
-| Day 13   | Performance Management | 1 hour | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
-| Day 14   | Live Learning - Manager Challenge Retrospective | 30 Minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 15  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
+The final week will be a catch-up week for anyone who missed some of the async activities. In addition, L&D will be hosting a retrospective with all participants so that L&D can better understand what went well, what could be improved, and actions for the future. 
 
 
 ### Individual Growth Plan
@@ -167,9 +161,9 @@ Team members have access to [LinkedIn Learning](https://about.gitlab.com/handboo
 1. **Do I have to participate?**
      - We strongly recommend that all managers that sign up for the program complete the daily challenges and actively participate. All new managers are strongly encouraged to participate in their first year of leading teams. 
 1. **Have we done this program in the past?**
-    - We launched the pilot in September 2020. We delivered the second iteration in January 2021.
+    - We launched the pilot in September 2020, and have completed programs in January and May of 2021
 1. **What is required of me?**
-     - Monday to Wednesday there will be a series of daily challenges that a manager can complete asynchronously on their own time that will cover a range of topics. On Thursday's we will come together as a group in a live learning session to apply the challenges to real scenarios managers face in a remote environment; as well as network as a cohort! 
+     - Async activities can be done self-paced or with a buddy. Live Learning sessions are not required to attend but highly encouraged in order to build relationship with managers across the organization
 1. **Is there an async option for the live learnings?**
      - Yes, the program will include async learning options for those that are unable to make the live learning sessions. 
 1. **I have a lot of management experience, will this help?**
