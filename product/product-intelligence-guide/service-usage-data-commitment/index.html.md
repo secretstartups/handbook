@@ -62,7 +62,7 @@ Our [pseudonymization process](https://gitlab.com/groups/gitlab-org/-/epics/6309
 
 A key part of our plan is to pseudonymize data at the [collection layer](https://gitlab.com/groups/gitlab-org/-/epics/6309#hashing-on-the-collector-layer), which allows GitLab to resolve any issues without a dependency for upgrading versions on your part. 
 
-As part of our larger [roadmap](/direction/product-intelligence/), and with the pseudonymization service in place to protect your privacy, we will begin to collect `Project_ID`, `Namespace_ID` and pseudonymized `User_ID`. Collecting these identifiers make the aggregated metrics we collect much more revealing. Now, instead of know there were 1000 clicks of some button, we can know things like: "Unidentified User "X" clicked a button, performed an action, then hit an error." This rich user journey will greatly improve GitLab's ability to improve our product for you, our end user.
+As part of our larger [roadmap](/direction/product-intelligence/), and with the pseudonymization service in place to protect your privacy, we will begin to collect `Project_ID`, `Namespace_ID` and pseudonymized `User_ID`. Collecting these identifiers make the aggregated metrics we collect much more revealing. Now, instead of know there were 1000 clicks of some button, we can know things like: "Unidentified User "X" clicked a button, performed an action, then hit an error." This rich [user journey](https://about.gitlab.com/handbook/product/product-intelligence-guide/#example-user-journey) will greatly improve GitLab's ability to improve our product for you, our end user.
 
 ## Related Content 
 
