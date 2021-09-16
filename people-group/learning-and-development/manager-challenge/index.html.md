@@ -15,6 +15,11 @@ Welcome to the GitLab Manager Challenge page. The Learning and Development Team 
 
 L&D will be rolling out a new iteration of the program following the GitLab Contribute event in September. The next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. **Currently, the program is being offered to GitLab team members only.**
 
+### Leadership Development Award   
+
+The Manager Challenge was awarded a Gold Excellence in Leadership Development by the Brandon Hall Group for the Best Unique and Innovative Leadership Development Program. Brandon Hall operates the largest and longest running awards in Human Capital Management. The GitLab program was evaluated by a panel of learning and development veterans, senior industry experts, analysts, and executives. L&D is thrilled to have been recognized for this achievement! 
+
+
 ### Team Member Time Investment Level
 
 If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program.
