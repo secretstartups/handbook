@@ -195,4 +195,51 @@ Exceptions will be addressed to the regional Sales Management team and documente
 
 ### Commercial (NORAM, LATAM, EMEA)
 
-[TAM-assigned customers](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial) are all priority 1 at this time. We anticipate adding priority 2 and 3 towards the end of Q2 FY22
+#### Determining priority
+All new Commercial customers default to `Priority 1` to start their engagement. This ensures sufficient time for discovering customer needs and orienting them to working with GitLab (Support plan, success planning, available services and training, etc).
+
+While engaging with a customer, the TAM then determines the appropriate engagement model below needed to ensure long-term success with GitLab. Based on the criteria below, the TAM essentially qualifies the account for a lower level of engagement, moving from highest to lowest engagement.
+
+#### Qualification Criteria
+
+**<u>Priority 1</u>**
+- **ARR:**  (Top 30 account by ARR)([gainsight](https://gitlab.gainsightcloud.com/v1/ui/gsdashboard#/913fcf6c-759b-43e4-a4c0-d4ecff6d46ee)),  OR  
+- **Success Planning:**  Unclear, or includes a critical project
+- **Stages adopted:**  Not already using 2-3 stages
+- Account at-risk or in triage ([handbook](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#gitlab-account-triage-project))
+
+**<u>Priority 2</u>**
+- **ARR:**  <$75k ARR, OR
+- **Success Planning:** Objectives only, due date (tasks, highlights, strategy all optional)
+- **Stages adopted:**  3 or more
+
+For each priority level, we follow the ARR rule OR some combination of the other rules.  So an account could have clear objectives and be using 5 stages, but if are a top 30 ARR account they remain priority 1. For smaller accounts with low upside, or low stage adoption, we will mark them `Priority 1` only until we have captured Objectives, so that Sales can have more specific conversations when a TAM isn't fully engaged.
+
+In the future we may consider the following:
+- Metrics:  SaaS or usage ping enabled
+- Professional Services or Channel partner engaged
+
+A TAM may choose to qualify an account up to a higher level of engagement based on the following considerations:
+- Uptier opportunity identified w/ timeline (prefer 9 months or less)
+- At-risk triage meeting determines the customer needs more attention (including negative NPS)
+- Key logo or case study agreement
+- Possible channel engagement or initiatives affecting multiple end customers
+
+#### Engagement Guidelines
+
+For each level of engagement above, the TAM is expected to provide the following services:
+
+**<u>Priority 1</u>**
+- **Onboarding ([handbook](https://about.gitlab.com/handbook/customer-success/tam/onboarding/#time-to-onboard)):**  Kick-off call + meet every 2-4 weeks
+- **Frequency:**  Monthly status/consulting calls
+- **Success Planning:**  Fully “green” success plan ([handbook](https://about.gitlab.com/handbook/customer-success/tam/success-plans/#create-a-success-plan-in-gainsight)) with at least 3 objectives
+- **Executive Business Reviews** ([handbook](https://about.gitlab.com/handbook/customer-success/tam/ebr/)):  1-2 per year
+- **Q&A:**  Live calls and email
+
+**<u>Priority 2</u>**
+- **Onboarding:**  Kick-off call + digital, check-in calls every 2-4 weeks
+- **Frequency:**  Quarterly or semi-annual meetings
+- **Success Planning:**  Objectives only, no tasks. Strategy and Highlights optional (refer to Command Plan)
+- **Executive Business Reviews:**  TAM discretion
+- **Q&A:**  Inbound TAM email or Support ticket
+
