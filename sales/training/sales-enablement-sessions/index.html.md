@@ -167,7 +167,7 @@ There are a few places to see previous Sales Enablement sessions:
 - [Services to Accelerate Customer Adoption](/handbook/customer-success/professional-services-engineering/sales-enablement)
 
 ## To request new sales enablement sessions
-- Complete and submit this [Sales Enablement Session Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_request)
+- Complete and submit this [Sales Enablement Session Request issue template](https://gitlab.com/gitlab-com/sales-team/sales-enablement-videocast-series/-/issues/new?issuable_template=sales_enablement_sessions)
 - For urgent requests, please send a Slack message to #field-enablement-team and mention @John Blevins
 
 ## Scheduling trainings
