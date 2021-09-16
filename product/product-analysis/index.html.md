@@ -24,28 +24,24 @@ Read more about what we do at GitLab on our [Direction](/direction/product-analy
 * [Dave Peterson](/company/team/#dpeterson1): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 * [Nicole Galang](/company/team/#nicolegalang): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
 * [Neil Raisinghani](/company/team/#nraisinghani): [Product Analyst](/job-families/product/product-analyst/#product-analyst-intermediate)
+* [TBH](https://boards.greenhouse.io/gitlab/jobs/5429229002): [Senior Product Analyst](/job-families/product/product-analyst/#senior-product-analyst)
 
 As part of the [Research & Development (R&D) Data Fusion Team](/handbook/business-technology/data-team/#data-fusion-teams), 
-the product analysts also work closely with members from the central Data team, including:
-* [Mathieu Peychet](/company/team/#mpeychet_): [Senior Data Analyst](/job-families/finance/data-analyst/#senior-data-analyst)
-
-The Product Analysis group hopes to partner more closely with data engineers on the Data 
-team, as well.
+the product analysts also work closely with members from the central Data team.
 
 ## Working With Us
 
 The Product Analysis group works in two-week iterations, which dictate how and when we 
-plan and prioritize work. Iterations start on Mondays and end on Sundays (Fridays are the 
-final working day).
+plan and prioritize work. Iterations start on Thursdays and end on Wednesdays.
 
-You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914?iteration_id=Current&label_name[]=product%20analysis).
+You can see our current iteration [here](https://gitlab.com/groups/gitlab-data/-/boards/2973914).
 
 ### Issue Intake
 
 For all product analysis requests, please create an issue in the [GitLab Data Product Analytics project](https://gitlab.com/gitlab-data/product-analytics/-/issues), 
 apply the `product analysis` label, and follow the guidelines below.
 
-All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103?label_name[]=product%20analysis).
+All data issues with the `product analysis` label will appear on the [Product Analysis board](https://gitlab.com/groups/gitlab-data/-/boards/2959103).
 
 #### Issue Templates
 
@@ -60,7 +56,7 @@ to triage and begin work on the issue.
 
 #### Submission Deadline
 
-In order to be considered for the upcoming iteration, please open all issues by EOD Wednesday 
+In order to be considered for the upcoming iteration, please open all issues by EOD Monday 
 before the next iteration begins. We understand that urgent matters come up, but please try to 
 adhere to the submission deadline for any planned work. 
 
@@ -73,9 +69,9 @@ impactful to the [company KPIs](/company/kpis/) should be higher in priority.
 ### Iteration Planning
 
 Final commitment and prioritization will occur during the iteration planning meeting, which 
-takes places the Thursday before an iteration begins. The team will consider new and existing 
-issues, along with issues in progress. When selecting issues for the next iteration, the team 
-considers the following:
+takes places the day before an iteration begins (every other Wednesday). The team will consider 
+new and existing issues, along with issues in progress. When selecting issues for the next 
+iteration, the team considers the following:
 
 * Issue priority
 * Issue weight
@@ -353,7 +349,8 @@ the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](ht
 ## Product Analysis Handbook Contents
 
 * [Growth Data Guide](/handbook/product/product-analysis/growth-data-guide/)
-* [Experimentation Design & Analysis Framework](/handbook/product/product-analysis/experimentation/)
+* [Experimentation Design & Analysis](/handbook/product/product-analysis/experimentation/)
+* [Team Processes](/handbook/product/product-analysis/team-processes/)
 
 ## Other helpful resources & links
 
@@ -362,3 +359,4 @@ the Product Analysis team's asynchronous daily stand-up, powered by [Geekbot](ht
 1. [Growth Product Handbook](/handbook/product/growth/)
 1. [Data Team Handbook](/handbook/business-technology/data-team/)
 1. [Data for Product Managers](/handbook/business-technology/data-team/programs/data-for-product-managers/)
+1. [Experimentation Best Practices](/handbook/business-technology/data-team/experimentation-best-practices/)
