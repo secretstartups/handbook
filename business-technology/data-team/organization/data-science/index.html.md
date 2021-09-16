@@ -23,7 +23,7 @@ The team accomplishes this mission by building machine learning models and analy
 
 ## Projects
 
-### Propensity to Buy (Upsell)
+### Propensity to Buy
 
 - Start Date: 2021-06-30
 - [Project](https://gitlab.com/gitlab-data/propensity-to-buy)
