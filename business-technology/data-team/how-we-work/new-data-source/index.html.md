@@ -78,6 +78,9 @@ Although it could be helpful to already provide the Data Team access to the sour
 #### Work breakdown
 End goal of the validation is to have a solution design and a complete work breakdown, with DRI's and size estimation attached. All the work that needs to be performed is stated down. We aim to have it on a level, where every work action could be converted to an issue with no larger T-Shirt size than `M` / `5/8` issue poins.
  
+#### MNPI Data
+It needs to be determined if there is MNPI data in the data sources and if this data is about to be extracted towards the Data Warehouse. If the data source contains MNPI and this data is extracted, change the issue label of the issue to `new data source MNPI`.
+
 ### workflow::3 - scheduling
 Based on the business case, effort to implement, workload in the Data Team and Data Team priorities, the implementation will be scheduled. For scheduling we follow the GitLab Data Team Planning [Drumbeat](/handbook/business-technology/data-team/how-we-work/planning). This means that for every quarter, the Data Team determines when a new data source request will be picked up. When a new data source request remains in `scheduling`, it does not mean that it isn't on the radar of the Data Team. It means that it isn't been scheduled yet, because:
 1. Defining the OKRs for the upcoming quarter didn't take place. Once a quarter the Data Team sets the OKRs for the next quarter.
@@ -88,7 +91,9 @@ When a request for implementing a new data source is in scope for next quarter O
  
 ### workflow::5 - development
 When the execution of the work starts, the issue is in development and follows the regular development life cycle.
- 
+
+During the development, the Data Engineer aligns with all the stakeholders, about access to the data. Data access can be provided to the `raw` schema, depending on the data and the use case.
+
 ### workflow::6 - review
 When the execution of the work is finished, the issue is in review and follows the regular development life cycle.
  
