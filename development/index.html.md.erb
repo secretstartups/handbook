@@ -475,6 +475,26 @@ If your group, product area, feature, or merge request fits within one of the de
 - Changing a recommended process to a required process for this change, such as a domain expert review
 - Requesting manual testing of the work before approval
 
+##### At risk areas
+
+Some areas have already been identified that meet the definition above, and may consider altered approaches in their work:
+
+| Area             | Reason                      | Special workflows (if any) |
+| ---------------- | --------------------------- | -------------------------  |
+| Database changes | impact to an entire service |                            | 
+| Sidekiq changes  | impact to an entire service |                            | 
+| Redis changes    | impact to an entire service |                            | 
+| Source Code product areas        | high percentage of traffic share |       |
+| Package product areas            | high percentage of traffic share |       |
+| Gitaly product areas             | high percentage of traffic share |       |
+| Pipeline Execution product areas | high percentage of traffic share |       |
+| Access product areas   | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/#code-review) |
+| Compliance product areas | potentially have legal, security, or compliance consequences | |
+| Fulfillment product areas | potentially impact revenue | |
+
+
+
+
 ## Books
 
 Note: books in this section [can be expensed](/handbook/spending-company-money).
