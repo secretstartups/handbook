@@ -54,7 +54,7 @@ General goals of this internship are:
 1. Become familiar with the relevant group's product strategy and with how prioritization is done. Although the Product Manager remains the DRI for product priorities, interns are encouraged to openly share their insights on the priorities along with the rationale for their thoughts.
 1. Perform one or more of the following:
   1. Under the guidance of the mentor, lead research in a Problem Validation cycle to gather information about user needs.  The intern will conclude by proposing next steps to be taken along with creating issues/epics for any relevant product improvements.
-  1. Under the guidance of the mentor, collaborate with a UX designer to define the requirements and user experience for a feature.  The intern will be responsible for taking this feature through planning breakdown and working with the engineering team on the execution of the feature.
+  1. Under the guidance of the mentor, collaborate with a Product Designer to define the requirements and user experience for a feature.  The intern will be responsible for taking this feature through planning breakdown and working with the engineering team on the execution of the feature.
   1. Under the guidance of the mentor, do extensive competitive, market, and analyst research to refine our product strategy.  The intern will be responsible for proposing updates to direction pages to better describe our competitive position and our strategy to prioritize development in a way that optimizes the value we provide to our users.
 1. Write a report and create collateral detailing their experience and the
   steps above.
