@@ -17,11 +17,11 @@ L&D will be rolling out a new iteration of the program following the GitLab Cont
 
 ### Team Member Time Investment Level
 
-If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program.
+If you plan to participate in the Manager Challenge, please discuss with your manager. Let them know you are interested and will be dedicating the two weeks to actively participating. This is not like the [CEO Shadow program](/handbook/ceo/shadow/), but the Manager Challenge will **require a heavy time investment**. If you plan to participate, try to do everything you can to block one to two hours each day during the program. This is an intensive program with the goal of covering a lot of material in a short amount of time to increase knowledge retention!
 
 Make the program part of your [career development](/handbook/people-group/learning-and-development/career-development/), and include in your [Individual Growth Plan](/handbook/people-group/learning-and-development/career-development/#internal-resources-1).
 
-L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities. 
+L&D will be making some significant changes to the program in the meantime, but expect to dedicate 1 hour (daily challenges) to and 1.5 hours (live learnings) each day during the program. Some participants, request additional time to complete the async activities so please plan accordingly. 
 
 All details relating to the next iteration of the Manager Challenge program can be found on this page. 
 
@@ -75,10 +75,6 @@ See the video below for a quick overview of how we use GitLab to facilitate mana
 </figure>
 <!-- blank line -->
 
-### Pre-Challenge Kickoff Call
-
-Before the challenge is offically kicked off, a kickoff meeting will take place to get to know one another better. A roundtable discussion and intro's will take place. The program will be reviewed in depth and questions will be answered. The call is optional, but everyone is invited to attend! 
-
 ### Week 1
 
 The below curriculum will be updated for the October program: 
@@ -93,8 +89,8 @@ During week one we will discuss **The Art of Management** at GitLab. Information
 
 | Day     | Challenge Topic | Length of Time   |  Format | Activity |
 |---------|-----------------|------------------|---------|---------|
-| Day 1    | Getting to know yourself and team members | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway <br> *Define what it means to be a manager at GitLab |
-| Day 2    | Managerial output, leverage, and delegation | 1 hour | Self-paced Daily Challenge | <br> *Share how to improve mangerial productivitiy |
+| Day 1    | Live Learning - Kickoff Call: What It Means to Be a Manager/Leader at GitLab | 50 minutes | Live Learning Session | <br> * Management at Gitlab 101 * Scenario exploration |
+| Day 2    | Getting to know yourself and team members | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway <br> *Define what it means to be a manager at GitLab |
 | Day 3    | Building high performing teams | 1 hour | Self-paced Daily Challenge | <br> *Explore & determine where your team is in the high performance model <br> *Complete the learning pathway |
 | Day 4    | Live Learning - The Art of Management and Building High Performing Teams | 1hr 20 minutes | Live Learning | <br> *Group excercise to develop a high performing team <br> *Networking with other managers at Gitlab |
 | Day 5    | Manager action plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges
@@ -114,10 +110,21 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 1 hour | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
-| Day 7   | Coaching and Feedback | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway for coaching and feedback |
-| Day 8   | Performance Management | 1 hour | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
-| Day 9   | Live Learning - Effective Communications with Your Team | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
-| Day 10  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
+| Day 7   | Live Learning Session - Coaching and Feedback Scenarios | 1 hour | Live Learning Session | <br> *Real Life Scenarios </br> * Hear from the Audience <br> |
+| Day 8   | Cross-Cultural Collaboration and the Building an Inclusive Team | 1 hour | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
+| Day 9   | Live Learning - Putting it All Together | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback, coaching, DBI  and 1-1's |
+| Day 10  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> |
+
+### Week 3
+
+| Day     | Challenge Topic | Length of Time   |  Format | Activity | 
+|---------|-----------------|------------------|---------|---------|
+| Day 11   | Catch Up Day | TBD | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
+| Day 12   | Coaching and Feedback | 1 hour | Self-paced Daily Challenge | <br> *Complete the learning pathway for coaching and feedback |
+| Day 13   | Performance Management | 1 hour | Self-paced Daily Challenge | <br> *Understanding Underperformance <br> * Complete the learning pathway on underperformance |
+| Day 14   | Live Learning - Manager Challenge Retrospective | 30 Minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback,  and 1-1's |
+| Day 15  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> <br> *Share Manager Challenge [certification on LinkedIn](/handbook/people-group/learning-and-development/certifications/#sharing-your-certificate/)! |
+
 
 ### Individual Growth Plan
 
