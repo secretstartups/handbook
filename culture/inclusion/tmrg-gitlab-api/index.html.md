@@ -23,11 +23,11 @@ Resources:
 
 **Purpose of the TMRG**
 
-The API TMRG provides a safe space for every GitLab team member to better understand Asian culture, and to understand how diversity can be leveraged to contribute to GitLab's strategic objectives and global success. This TMRG is non-exclusionary in nature and open to anyone at GitLab.
+The API TMRG provides a safe space for every GitLab team member to better understand Asian and Pacific Islander cultures, and to understand how diversity can be leveraged to contribute to GitLab's strategic objectives and global success. This TMRG is non-exclusionary in nature and open to anyone at GitLab.
 
 ## Mission
 
-“To promote the advancement, cultural awareness, talent recruitment, retention, and professional development for API individuals by giving a voice to the diverse backgrounds of the Asian community within GitLab in order to ensure the GitLab messaging continues to reflect its core value of Diversity, Inclusion and Belonging.”
+“To promote the advancement, cultural awareness, talent recruitment, retention, and professional development for API individuals by giving a voice to the diverse backgrounds of the Asian and Pacific Islander communities within GitLab in order to ensure the GitLab messaging continues to reflect its core value of Diversity, Inclusion and Belonging.”
 
 ## Leads
 * [Tanuja Paruchuri](https://gitlab.com/tparuchuri)
