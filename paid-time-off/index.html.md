@@ -334,7 +334,7 @@ Reporting from the PTO by Roots app helps managers:
 1. Be sure their direct reports are taking enough PTO
 1. Review upcoming PTO of direct reports to make project management decisions and manage team member burnout
 
-PTO by Roots sends an automated report like the one below at the beginning of every month:
+PTO by Roots sends an automated report to managers like the one below at the beginning of every month:
 
 ![example of auto PTO reports](automatic-pto-reports.png)
 
