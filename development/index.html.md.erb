@@ -481,10 +481,10 @@ Some areas have already been identified that meet the definition above, and may 
 
 | Area             | Reason                      | Special workflows (if any) |
 | ---------------- | --------------------------- | -------------------------  |
-| Database changes | impact to an entire service |                            | 
-| Sidekiq changes (adding or removing workers, renaming queues, changing arguments)  | impact to an entire service | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) | 
-| Redis changes    | impact to an entire service |                            | 
-| Source Code product areas        | high percentage of traffic share |       |
+| Database migrations, tooling, complex queries, metrics | impact to entire application<br/><br/>The database is a critical component where any severe degradation or outage leads to an S1 incident. | [Documentation](https://docs.gitlab.com/ee/development/database_review.html#general-process) | 
+| Sidekiq changes (adding or removing workers, renaming queues, changing arguments, changing profile of work required)  | impact to multiple services<br/><br/>Sidekiq shards run groups of workers based on their profile of work, eg memory-bound. If a worker fails poorly, it has the potential to halt all work on that shard. | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) | 
+| Redis changes    | impact to multiple services<br/><br/>Redis instances are responsible for sets of data that are not grouped by feature category. If one set of data is misconfigured, that Redis instance may fail.  |                            | 
+| Protected Branches, CODEOWNERS, MR Approvals, Gitaly interface | high percentage of traffic share |       |
 | Package product areas            | high percentage of traffic share |       |
 | Gitaly product areas             | high percentage of traffic share |       |
 | Pipeline Execution product areas | high percentage of traffic share |       |
