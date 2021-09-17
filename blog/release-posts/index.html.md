@@ -182,7 +182,7 @@ There are two ways to create the initial monthly release post in the [about.GitL
 ##### First way: using a script
 
 1. Make sure you have [set everything up to contribute to the about.GitLab.com repository](/handbook/git-page-update/).
-1. Locally, in a terminal, run the task:
+1. In a terminal (locally or Gitpod), run the task:
 
    ```shell
    bundle exec rake "release:monthly"
@@ -194,6 +194,16 @@ There are two ways to create the initial monthly release post in the [about.GitL
    abort.
 
 1. Push the branch that was created and follow the link to [create the merge request](#create-the-release-post-mr).
+
+###### Gitpod
+
+If you want to use the script but don't want to setup the local environment you can use [GitPod](https://www.gitpod.io/).
+
+1. [Enable Gitpod in your GitLab settings](https://docs.gitlab.com/ee/integration/gitpod.html#enable-gitpod-in-your-user-settings)
+1. Go to [about.GitLab.com repository](https://gitlab.com/gitlab-com/www-gitlab-com) and click the down caret next to the "WebIDE" button and slect "Gitpod" from the drop down.
+1. Click the Gitpod button and follow the prompts to create an account (if you have not previously)
+1. Wait for setup of the environemnt to happen
+1. Follow steps above but in the Gitpod terminal not local terminal
 
 ##### Second way: manually
 
