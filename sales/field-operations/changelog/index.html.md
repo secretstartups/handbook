@@ -18,6 +18,7 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-09-27 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/62))
 
+**SOPS: [Hide shipping address field on Account Object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1906)**
 
 
 
