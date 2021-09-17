@@ -482,7 +482,7 @@ Some areas have already been identified that meet the definition above, and may 
 | Area             | Reason                      | Special workflows (if any) |
 | ---------------- | --------------------------- | -------------------------  |
 | Database changes | impact to an entire service |                            | 
-| Sidekiq changes  | impact to an entire service |                            | 
+| Sidekiq changes (adding or removing workers, renaming queues, changing arguments)  | impact to an entire service | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) | 
 | Redis changes    | impact to an entire service |                            | 
 | Source Code product areas        | high percentage of traffic share |       |
 | Package product areas            | high percentage of traffic share |       |
