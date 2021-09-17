@@ -328,27 +328,41 @@ If something isn't listed in the sections below we should make it available exte
 Some things are **internal**, available internally but not externally. The following items are internal:
 
 1. Security and [abuse](/handbook/engineering/security/security-operations/trustandsafety/#what-is-abuse) vulnerabilities are not public since they would allow attackers to compromise GitLab installations. We do make them public after we remediated a vulnerability. Issues that discuss how to improve upon the security posture of an implementation that is working as intended can be made public, and are often labeled as feature proposals. Security and abuse implementations that detect malicious activities cannot be made public because doing so would undermine our operations.
-1. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
-   1. the specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity;
-   1. total monthly cash inflow/outflow for GitLab.com;
-   1. spend of more than 10%;
-   1. a department's cost;
-   1. team member retention (analysts may make business assumptions based on this);
-   1. the Sales pipeline (but the Marketing pipeline can be public);
-   1. net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.); and,
-   1. forward-looking statements, including the timing and plans for [becoming a public company](/handbook/being-a-public-company/). The going-public date is too sensitive to share broadly internally. The press is very eager to report on it. If it leaks, having reports out there is a big problem because it reduces our flexibility. Therefore, it will be on a need-to-know basis, even inside the company. Everyone will find out when the [S1](https://en.wikipedia.org/wiki/Form_S-1) becomes public, 21 days before going public.
-1. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
-1. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent provided by the data owner, such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
-1. Legal discussions are not public due to the purpose of Attorney-Client Privilege
-1. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
-1. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
-1. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
-1. Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
-1. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context. The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) will be public.
-1. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
-1. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
-1. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
-1. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
+
+2. Financial information, including revenue and costs for the company, is confidential because we plan to be a public company and, as such, need to limit both the timing and content of financial information as investors will use and rely on it as they trade in GitLab stock. As the guideline, if it is a first step to constructing a profit, we need to keep it confidential. Examples include:
+   - the specific [IACV](/handbook/sales/sales-term-glossary/arr-in-practice/) of an opportunity;
+   - total monthly cash inflow/outflow for GitLab.com;
+   - spend of more than 10%;
+   - a department's cost;
+   - team member retention (analysts may make business assumptions based on this);
+   - the Sales pipeline (but the Marketing pipeline can be public); and
+   - net and gross retention KPIs (only the actual numbers can't be public. Everything else- the goal, their calculation, etc- can be.).    
+
+3. Please do not share outside of GitLab, any information related to the company's plans related to being a public company, its anticipated public offering, including sharing of the Form S-1 by linking to the document or otherwise, or the company's possible forward looking plans. All external communications should be in line with the company's [SAFE Guidelines](https://about.gitlab.com/handbook/legal/safe-framework/) and [Social Media Policy](https://about.gitlab.com/handbook/marketing/team-member-social-media-policy/). If you have any questions please reach out via the [#Safe](https://gitlab.slack.com/archives/C01UZQ63WFQ) Slack channel.
+
+4. Deals with external parties like contracts and [approving and paying invoices](/handbook/finance/accounting/#procure-to-pay).
+
+5. Content that would compromise a GitLab team member, customer, or user's personal data as defined by [GDPR](https://gdpr.eu/article-4-definitions/), unless explicit consent provided by the data owner, such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
+
+6. Legal discussions are not public due to the purpose of Attorney-Client Privilege
+
+7. Acquisition offers for us are not public since informing people of an acquisition that might not happen can be very disruptive.
+
+8. Acquisition offers we give are not public since the organization being acquired frequently prefers to have them stay private.
+
+9. Customer information is not public since customers are not comfortable with that, and it would make it easier for competitors to approach our customers. If an issue needs to contain _any_ specific information about a customer, including but not limited to company name, employee names, number of users, the issue should be made confidential. Try to avoid putting customer information in an issue by describing them instead of naming them and linking to their SalesForce account. When we discuss a customer by name that is not public unless we're sure the customer is OK with that. When we discuss a competitor (for example in a sales call) this can be public as our competitive advantages are public.
+
+10. Competitive sales and marketing campaign planning is confidential since we want to minimize the time the competition has to respond to it.
+
+11. Discussions that involve decisions related to country of residence are not public as countries are a core part of people's identity and any communication should have complete context. The output of such decisions, such as [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) will be public.
+
+12. If public information compromises the physical safety of one or more team members, it will be made not public because creating a safe, inclusive environment for team members is important to how we work. Information that might compromise the physical safety of a team member includes doxxing or threats made against a team member.
+
+13. Information related to a press embargo, or related to an upcoming publication where the response will be managed by our external communications team
+
+14. Information that relies on someone else's copyrighted IP. Our [compensation calculator](/handbook/total-rewards/compensation/compensation-calculator/), for example, relies on private sources of information and can't be made completely public.
+
+15. Information related to early exploratory initiatives in which premature sharing of information could slow down purchases.
 
 ### Limited Access
 
