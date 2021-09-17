@@ -147,7 +147,7 @@ negligible.
 
 If the impact is significant, we can discuss on the Monthly Report if this incident should warrant a manual adjustment to spend. 
 
-At this time, we are not looking further into automatically discounting system-wide events from incidents because the associated spend and discussion could prove valuable in creating projects to harden and improve the resilience of the system.
+At this time we are not looking further into automatically discounting system-wide events from group-level error budgets. The team is focused on building a strong foundation for error budgets, with sufficient tuning capability to be relevant for each group.
 
 ### How to change error budget attribution
 
