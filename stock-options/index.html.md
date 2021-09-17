@@ -592,3 +592,6 @@ The number of award transactions processed in Carta over a quarter. This is meas
 
 The number of participants supported is measured on the last day of the calendar month.
 
+## Equity Knowledge Assessment
+
+The Equity Knowledge Assessment is currently being updated to reflect RSU updates.
