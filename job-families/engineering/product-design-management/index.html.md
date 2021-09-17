@@ -132,7 +132,7 @@ The Director of Product Design is a [grade 10](/handbook/total-rewards/compensat
 
 ### Requirements
 
-* Experience managing Product Design Managers and leading product design for a company that focuses on enterprise, developer, and/or business tools.
+* Relevant, progressive experience managing Product Design Managers and leading product design for a company that focuses on enterprise, developer, and/or business tools.
 * A strong philosophy about how to create an environment that empowers remote design teams and encourages them to deliver high-impact work.
 * Solid visual awareness with understanding of basic design principles like typography, layout, composition, and color theory.
 * Proficiency with pre-visualization software (e.g. Figma, Sketch, Adobe Photoshop, Illustrator).
