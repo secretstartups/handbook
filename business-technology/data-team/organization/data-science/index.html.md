@@ -121,16 +121,21 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 # Data Science Tools at Gitlab
 
-- The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the [data-science project](https://gitlab.com/gitlab-data/data-science) for additional information and setup instructions 
-- Modeling Templates (**Coming Soon!**)
-- gitlabds python tools (**Coming Soon!**)
+- **Pre-configured JuypterLab Image:** The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the [data-science project](https://gitlab.com/gitlab-data/data-science) for additional information and setup instructions .
+
+- **[gitlabds](https://gitlab.com/gitlab-data/gitlabds/) Python Tools**: Functions that help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly from pip or use as part of the Data Science JupyterLab package above.
+
+- **Modeling Templates** (**Coming Soon!**)
+
 
 
 # Useful Data Science & Machine Learning Resources
 
-- Python Data Science Handbook by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science
-- Python Machine Learning by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
-- The Elements of Stastical Learning, Data Mining, Inference, and Prediction by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
+- _Python Data Science Handbook_ by Jake VanderPlas: Great for beginngers looking to learn python and dip their toes into data science.
+
+- _Python Machine Learning_ by Sebastian Raschka & Vahid Mirjalili: More advanced topics with the assumption of a basic level of python.
+
+- _The Elements of Stastical Learning, Data Mining, Inference, and Prediction_ by Trevor Hastie, Robert Tibshirani, & Jerome Friedman: Great deep dive into all the statistics and logic behind many of the commonly used predictive techniques. Can be pretty stats/math heavy at time.
 
 # Common Data Science Terms 
 
