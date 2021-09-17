@@ -20,51 +20,26 @@ See related [repository](https://gitlab.com/gitlab-data/data-science)
 - Run any python file or notebook on your computer or in a Gitlab repo; the files do not have to be in the docker container
 - Need a feature you use but don't see? Let us know on [#bt-data-science](https://gitlab.slack.com/archives/C027285JQ4E) and we can add it!
 
-### Getting Started 
-You have multiple options when setting up jupyter via the data-science repo. Choose from one of the following:
+### Getting Started
+You have two options when setting up jupyter via the data-science project. Choose from one of the following:
+- **Full install (Recommended)**: Installs all libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile), **_plus_** a complete anaconda install.
+- **Lightweight install**: installs **_only_** the libraries defined by the [Pipfile](https://gitlab.com/gitlab-data/data-science/-/blob/main/Pipfile) and should be used if you already have a python environment on your local machine that you would like to use as the base image.
 
-#### Jupyter-docker (To be deprecated)
-
-- **Intended for use with the analyst image hosted here: https://registry.gitlab.com/gitlab-data/data-image/analyst-image**
-
-If you are setting this repo up for the first time please use one of the other setup instructions, docker uses an authentication method which will be removed.
-
-1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does** include your password, can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as a starting point. 
-2. Install Docker
-3. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
-4. Run `cd data-science`
-5. Ensure docker is installed
-6. Run `make jupyter` from the root of the directory. This will set up a jupyter-lab instance within docker 
-7. To connect to jupyter go to your web browser and copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
-8. Run through the notebook in the repo at /data-science/notebooks/templates/auth_example.ipynb to confirm that you have configured everything successfully. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
-
-#### Jupyter-local-conda (Full install): Recommended
-
-- **This install includes all libraries defined by the Pipfile, along with a complete install for Conda & supporting libraries.**
-
-1. This method requires that you have anaconda installed on your machine and that it is the default python instance. If unsure, type `which python` into terminal and it should show `/Users/{usser}/anaconda3/bin/python`. If not, install anaconda
-1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password, can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as a starting point (but make sure to remove or exclude the password field)
+### Installation Instructions
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
 1. Run `cd data-science`
-1. Run `make setup-jupyter-local`
+1. Based on which version you would like to install, run one of the following:
+    - For full install: run `make setup-jupyter-local`
+    - For lightweight install: run `make setup-jupyter-local-no-conda` 
 1. Run `make jupyter-local`
-1. Make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). To connect to jupyter go to your web browser and copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
-1. Run through the notebook in the repo at /data-science/templates/auth_example.ipynb to confirm that you have configured everything successfully. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
+1. Jupyter should launch automatically. If it does not, first make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). Then, in Chrome, copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
+
+#### Connecting to Snowflake
+1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
+1. Run through the [auth_example notebook](https://gitlab.com/gitlab-data/data-science/-/blob/main/templates/auth_example.ipynb) in the repo to confirm that you have configured everything successfully. The first time you run it you will get a browser redirect to authenticate your snowflake credientials via Okta. After that, if you run the notebook again you should be able to query data from Snowflake.  
+1. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
 
 
-#### Jupyter-local-no-conda (Lightweight install)
-
-- **This install only includes the libraries defined by the Pipfile, and should be used if you want to setup your own environment**
-
-1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password, can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as a starting point (but make sure to remove or exclude the password field)
-2. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
-3. Run `cd data-science`
-4. Run `make setup-jupyter-local-no-conda` 
-5. Run `make jupyter-local` 
-6. Make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). To connect to jupyter go to your web browser and copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container. 
-7. Run through the notebook in the repo at /data-science/notebooks/templates/auth_example.ipynb to confirm that you have configured everything successfully. If you get an error then likely Snowflake is not properly configured on your machine. Please refer to the Snowflake and dbt sections of the [Data Onboarding Issue](https://gitlab.com/gitlab-data/analytics/-/blob/master/.gitlab/issue_templates/Data%20Onboarding.md). It is likely that your .dbt/profiles.yml is not setup correctly.
-
-### Configuration
 #### Mounting a local directory
 By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when all your code, data, and notebooks are in other locations on your computer. To change, this you will need to create and modify a jupyter notebook config file:
 1. Run `jupyter-lab --generate-config` 
@@ -119,7 +94,7 @@ By default, the local install will use the data-science folder as the root direc
 * [Py-earth](https://contrib.scikit-learn.org/py-earth/content.html) (linear and logistic regression) 
 * [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api) (time series)
 * [Autots](https://pypi.org/project/AutoTS/) (time series)
-* [lazypredidct](https://pypi.org/project/lazypredict/) (AutoML; must be self-installed) 
+* [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html) (powerful black-box method) 
 
 #### Easy concurrency 
 * [Modin](https://modin.readthedocs.io/en/latest/#)
