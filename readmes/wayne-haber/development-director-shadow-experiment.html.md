@@ -97,8 +97,6 @@ No, not at this time.
 
 | Week of | Shadow |
 | ------ | ------ |
-| 9/6/2021 | Open |
-| 9/13/2021 | Open |
 | 9/20/2021 | @warias |
 | 9/27/2021 | Open |
 | 10/4/2021 | Open |
