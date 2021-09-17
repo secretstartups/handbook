@@ -40,13 +40,10 @@ There are some tools/services that other companies are using for this
   1. [RabbitMQ](https://rabbitmq.com)
   1. [GCP PubSub](https://cloud.google.com/pubsub)
 
-### Related GitLab Documentation
+### Related GitLab Documentation or Issues
+ * https://gitlab.com/gitlab-org/gitlab/-/merge_requests/34042
+ * https://gitlab.com/gitlab-org/gitlab/-/issues/338454
 
-
-### Related GitLab projects
-
-  - [Spamcheck](https://gitlab.com/gitlab-org/spamcheck)
-  - [UnReview](https://about.gitlab.com/handbook/engineering/development/modelops/appliedml/projects/unreview/)
 
 ## Exit Criteria 
 If it is decided that an Event Stream should be implemented, our exit criteria should be:
@@ -54,14 +51,6 @@ If it is decided that an Event Stream should be implemented, our exit criteria s
  1. Define system architecture
  1. Define an implementation plan and philosophy
  1. Define event structure
-
-
-The charter of this working group is to bridge the gap between different teams that are building ML products at GitLab by discussing overlapping architectural concerns:
-
-1. Creation of a mission statement that the MLOps Working Group operates under, added to the handbook.
-1. Create a handbook page discussing a deep analysis of the tooling for ML out there and a proof-of-concept framework using an ideal pathway that GitLab teams can refer to and easily extend when kicking off ML-related projects.
-1. Creation of helpers/libraries (presumably in Python) that can be shared across teams and used for the purposes of similar tasks e.g. data access and storage, data pre-processing.
-1. Define a system architecture for incorporating an event stream for asynchronous processing and storage of events for training ML models.
 
 ## Roles and Responsibilities
 
