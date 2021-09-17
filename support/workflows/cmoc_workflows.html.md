@@ -218,11 +218,9 @@ After publishing the update, visit the live [GitLab Status Page](https://status.
 
 #### 2. Update the E-Group
 
+1. When the update would help keep the e-group informed of progress, copy/paste the update in to the `#e-group` slack thread that was created in Stage 1. 
+
 It is not always necessary to perform this step.  The goal is to equip the e-group with information that allows them to know approximately where we are in the process of resolving the incident. For example, "no material update" type messages do NOT need to be shared on the e-group incident thread.  
-
-Where the update would help keep the e-group informed of progress, perform the following:
-
-1. Copy/paste the update in to the `#e-group` slack thread that was created in Stage 1. 
 
 ### Stage 3: **Incident Resolution**
 
