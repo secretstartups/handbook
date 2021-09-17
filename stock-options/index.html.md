@@ -592,8 +592,3 @@ The number of award transactions processed in Carta over a quarter. This is meas
 
 The number of participants supported is measured on the last day of the calendar month.
 
-## Equity Knowledge Assessment
-
-You can test your knowledge on our equity by taking the [GitLab Equity Knowledge Assessment](https://docs.google.com/forms/d/e/1FAIpQLSe2SgyY8Ndfam39-2LOhgJf3ySgvml2zDdrStFuSCVbBUBQoA/viewform).
-
-If you have questions about equity or the content in the Knowledge Assessment, please reach out to the Total Rewards team. If the quiz is not working or you have not received your certificate after passing the Knowledge Assessment, please reach out to the Learning & Development team at `learning@gitlab.com`.
