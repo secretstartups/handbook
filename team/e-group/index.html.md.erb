@@ -4,15 +4,20 @@ title: "GitLab Executives (E-group)"
 description: "Meet the GitLab E-group"
 canonical_path: "/company/team/e-group/"
 suppress_header: true
+extra_css:
+  - team-egroup.css
+extra_js:
+  - team-egroup.js
 ---
+<% event = data.team_egroup %>
 
-<div class="simple-header">
-  <h1>GitLab Executive Team</h1>
-  <p>Meet the GitLab E-group.</p>
+<div class="container slp-container header-content slp-text-center slp-mb-64">
+  <h1 class="slp-text-3xl slp-pt-32 slp-pb-16 md:slp-text-5xl">GitLab Executive Team</h1>
+  <h4 class="slp-text-lg slp-pb-8 md:slp-text-xl">Meet the GitLab E-group</h4>
 </div>
+<%= partial "includes/cms/reusable-blocks/team-speakers", locals: { speakers_block: event.speakers_block } %>
 
-<div class="content-container">
-  <div class="content">
-    <%= partial("company/team/e-group/e_group_members") %>
-  </div>
-</div>
+<script data-cookieconsent="ignore" src="/javascripts/slippers-event-speaker.js" type="text/javascript"></script>
+<script data-cookieconsent="ignore" src="https://unpkg.com/micromodal/dist/micromodal.min.js" type="text/javascript"></script>  
+
+
