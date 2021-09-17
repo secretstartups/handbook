@@ -303,11 +303,15 @@ For **Linkedin Social Ads** follow the instructions documented in [the Linkedin 
 
 For **virtual events**, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
 
-For all other campaign types, follow Steps 1-5 below. All steps are required. 
+For all other campaign types, follow Steps 1-5 below. All steps are required.   
 
-For some events, there are mutiple campaigns that occur as a part of a single initiative (Ex. A conference with speaking sessions and direct mail) When this happens, a `parent` campaign should be created in SFDC and have each `child` campaign represent the individual tactics. in Marketo you can use a folder instead of creating a program. This parent campaign should not include any members, or include bizible touchpoints. You can associate parent/child on the campaign in SFDC under the `Parent Campaign` field, which is a campaign look up. (You will need to click `edit` button to update this, it can't be done in-line)
+**Parent/Child Campaigns**  
 
-An example of set up in Marketo is:
+For some tactics, there are mutiple campaigns that occur as a part of a single initiative. Some examples of these could be a conference with speaking session, direct mail, content syndication, or hybrid events (where in-person and virtual leads will be tracked separately). When this happens, a `parent` campaign should be created in SFDC and have each `child` campaign represent the individual tactics. The parent SFDC campaign should not include any members, or include bizible touchpoints.  Since we do not have the same parent/child relationship structure available in Marketo, you will create a folder that will house all of the shared tactics together. 
+
+To assocate a child SFDC campaign to a parent SFDC campaign, go into what will be the child SFDC campaign and at the top of the campaign, click `Edit`. This will open the SFDC fields and then you can add the parent SFDC campaign name into the `Parent` field. Click `Save`. 
+
+An example of a folder setup in Marketo is:
 - Conference Name (Folder)
    - Conference Name (Program w/ members)
    - Direct Mail Name (Program w/ members)
