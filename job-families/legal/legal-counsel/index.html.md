@@ -99,7 +99,9 @@ The Senior Legal Counsel reports to the [Director, Legal](/job-families/legal/di
  
 ### Senior Legal Counsel Job Grade
 
-The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+**Market Justification:** Over 200 companies have this senior individual contributor level with an average of 5 incumbents. In order to independently manage strategic and complex legal matters, additional experitise and experience as an individual contributor is vital for business success.
  
 ### Senior Legal Counsel Responsibilities
 
@@ -130,7 +132,9 @@ The Lead Legal Counsel reports to the [Director, Legal](/job-families/legal/dire
  
 ### Lead Legal Counsel Job Grade
 
-The Lead Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
+The Lead Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades). 
+
+**Market Justification:** Over 100 companies have this senior individual contributor level with an average of 5 incumbents. In order to independently manage strategic and complex legal matters and act as a subject matter expert, a high level of experitise and experience as an individual contributor is vital for business success.
  
 ### Lead Legal Counsel Responsibilities
 
