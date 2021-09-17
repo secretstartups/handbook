@@ -48,7 +48,7 @@ The following can be used as a guide on what actions could need to be taken befo
 - Prepare a handover document for your team / manager. 
 - Notify customers and introduce them to the team member that will be assisting them going forward (if applicable). 
 - If you feel comfortable, send a message in the `team-member-updates` Slack channel notifying everyone of your departure. 
-- Set up accounts that you'll need access to after your last day. They may include:
+- Set up accounts that you'll need access to after your last day. Ensure your personal email address is up to date with these accounts. They may include:
   - ADP (payroll): https://workforcenow.adp.com
   - Lumity (US Health Benefits): https://login.lumity.com
   - Betterment (US 401(k)): https://wwws.betterment.com/app/login
@@ -86,7 +86,7 @@ Please create your final expense report to Expensify (for employees), OR, please
 
 Finance provides an invoice template that can be emailed to your personal email. Return the completed form to `uspayroll@gitlab.com`
 
-### Other Reimbursements, Refunds or Repurchasements
+#### Other Reimbursements, Refunds or Repurchasements
 
 - Please review our [Loan Policy](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#loans) if it applies to you. Please also note that in the event that a loan is approved, a legal contract, in accordance to the team member's state, local or federal laws regarding loans and repayment of loans during employment, will be created by the Legal team. It will lay out the complete loan terms, repayment and refunding policy if applicable. If you leave GitLab with any loan balance not yet repaid, it will be refunded to GitLab, if applicable and legally allowed, as laid out in the terms of the original contract and with support from the Payroll team.
 - Please review our [Unpaid Leave](/handbook/paid-time-off/#unpaid-leave-of-absence) section regarding payments in error. 
@@ -108,7 +108,7 @@ More information can be found in the [Growth and Development](/handbook/total-re
 
 ### USA
 
-If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-exp@ gitlab.com` so that we can keep your address up to date in BambooHR.
+If you are a US-based team member, your benefits will cease on last day of the month of your departure. You are eligible for [Consolidated Omnibus Budget Reconciliation Act (“COBRA”)](https://www.dol.gov/sites/dolgov/files/ebsa/about-ebsa/our-activities/resource-center/faqs/cobra-continuation-health-coverage-consumer.pdf), the COBRA administrator has been notified and will send out the paperwork to your home address on file. More information on timelines and contact information for our COBRA administrator can be found in the [COBRA section](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cobra).  You may also be eligible under the Patient Protection and Affordable Care Act (“PPACA”) for subsidized health care options via the marketplace. If you are interested it is important that you sign up with the market place well before the 15th of the month to have coverage for the following month. Under the Health Insurance Portability and Accountability Act of 1996 (HIPAA), if you need a certificate of credible coverage please download it from your current carrier's online portal or request it from the Compensation & Benefits team by emailing `total-rewards@ gitlab.com`. If you move, please email `people-connect@ gitlab.com` so that we can keep your address up to date in BambooHR.
 
 #### How do I roll over my retirement account and funds?
 
@@ -118,7 +118,7 @@ Contact our 401(k) administrative vendor directly to get more information about 
 
 All information on HSA/FSA accounts is in the [WEX (Discovery Benefits)](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#wex-discovery-benefits-health-savings-accounts-and-flexible-spending-accounts) section of the US Benefits handbook page.
 
-### What about my Supplemental Life Insurance?
+#### What about my Supplemental Life Insurance?
 
 Please review our [Cigna Supplemental Life Insurance/AD&D](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/#cigna-supplemental-life-insuranceadd) section.
 
@@ -139,6 +139,6 @@ If there are any issues that they cannot help with, please contact the Total Rew
 
 #### What if I move?
 
-If you move, please email `people-exp@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR. 
+If you move, please email `people-connect@gitlab.com` so that the People Experience team can keep your address up to date in BambooHR. 
 
 
