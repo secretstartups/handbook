@@ -63,8 +63,7 @@ That's all there is to it! Thanks for your help welcoming the newest GitLab team
 1. Go through the relevant names in the OSAT Survey [results](https://docs.google.com/spreadsheets/d/1sAaQntIaQAnj8Z1NY6WRyQGRIyIoKa_6TratKWtScdo/edit#gid=63110344) and Career Mobility Survey [results](https://docs.google.com/spreadsheets/d/1rxrtgxZUrSVHwBj3ZGtn8UUDV32juBknlx6BKQBjHTE/edit#gid=1057162945) sheet.
 1. Create a new tab in the `Onboarding Buddy Raffle Names` [spreadsheet](https://docs.google.com/spreadsheets/d/17_DKxVvT277YnJcEnN-j4Th8I_WmSAUo9GJ4Znh_xPk/edit#gid=525713889) in Google Drive for the respective quarter and add the relevant onboarding buddy names.
 1. Make a comment in the top of the spreadsheet marking which rows from the survey results are being used.
-1. Decide on the raffle date and announce in the #whats-happening-at-gitlab Slack channel.
 1. Place all names in the wheel of names and design according to GitLab colors.
-1. On the day of the scheduled draw, send a reminder in Slack to remind team members to join the call. 
+1. Record yourself spinning the wheel of names for the winners of the raffle.
+1. Post the recording and announcement of the winners in the #whats-happening-at-gitlab Slack channel - making sure to tag the winners.
 1. Once the draw has taken place, send the winners an email with the Printfection link in order to redeem their prize. The link can be found in the People Operations 1Password vault under `Gift & Flower Vendors` - `Printfection Onboarding Buddy Prize Link`
-
