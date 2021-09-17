@@ -320,6 +320,7 @@ Post the MR links in the `#ceo` Slack channel and `@`-reference the CEO so the C
 1. Answer the phone and door at Mission control.
 1. Provide training to the incoming CEO Shadow(s).
 1. Speak up when the [CEO displays flawed behavior](/handbook/ceo/#flaws).
+    - Share an overall Positivity Score in the `#ceo-shadow-private` Slack channel with the CEO immediately following meetings (excluding 1:1s). Scores can range from 1 (the least positive someone could respectfully be) to 10 (the most positive someone could authentically be), focused on the CEO's presence and reactions during the meeting.
 
 #### Collecting and managing tasks
 {:.no_toc}
