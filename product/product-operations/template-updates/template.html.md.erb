@@ -26,7 +26,7 @@ overviews["14.3"] = <<-14_3
    }.reverse.each do |release| %>
     <% next if pdf_templates["Product Operations,templates,prodops:release"][release]["content"].blank? || (cnt >= release_cnt) %>
     <% cnt += 1 %>
-### <%= release %> (<%= pdf_templates["Product Operations,descripon templates,prodops:release"][release]["date"] %>)
+### <%= release %> (<%= pdf_templates["Product Operations,templates,prodops:release"][release]["date"] %>)
     <% if !overviews[release].empty? %>
 
 <%= overviews[release] %>
