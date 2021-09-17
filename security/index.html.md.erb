@@ -175,18 +175,20 @@ If you have a question or concern and need to speak with the Security Team, you 
   found under "System Preferences" -> "Software Update", "Automatically keep
   my Mac up to date". GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
 1. Enable your system's built in firewall. In macOS, this can be found in
-   `System Settings` -> `Security & Privacy` under the `Firewall` tab. It is
-   recommended to select "Block all incoming connections"; however, if choosing
-   not to block all incoming traffic, apply the following configuration (see screenshot):
-    * Deselect "Automatically allow downloaded signed software to receive incoming messages"
-    * Select "Enable stealth mode"
-    * GitLab is currently utilizing [JAMF](/handbook/business-ops/team-member-enablement/onboarding-access-requests/endpoint-management/) for endpoint management and can assist with this step.
+`System Preferences` -> `Security & Privacy` under the `Firewall` tab. If the option reads `Firewall: Off`, you will need to click on the lock at the bottom of the dialog box to make changes, and click on `Turn Firewall On` (see screenshot).
 
 <div style="text-align:center;">
-  <img src="/handbook/security/macos_firewall_settings.png" alt="macOS Firewall Settings" width="560px"/>
+  <img src="/handbook/security/firewall_on.png" alt="macOS Firewall On" width="560px"/>
 </div>
 
-[FileVault]: https://support.apple.com/en-us/HT204837
+Sometimes a team member needs to test a particular scenario that requires bypassing of the firewall. If this is the case, ensure one of the following network scenarios/configurations is used for your laptop:
+
+    * If you do not need Internet access during your test scenario, disconnect from the Internet before disabling the firewall for your tests and re-enable it before re-connecting to the Internet.
+    * If you must use a public network (such as while traveling), use a personal VPN to help protect your connection. Refer to the [Personal VPN](/handbook/tools-and-tips/personal-vpn/) page for more information.
+    * Make sure the connected network is not a public network, or a network with a publicly-known WiFi password (e.g. a coffee shop WiFi network with the password written on a chalkboard). Your home network with your laptop behind the built-in firewall in your Internet router that protects your network is considered a non-public network. Refer to this [guide](network-isolation/index.html) for more information.
+    * Keep the firewall active and make use of virtual machines and containers to create a self-contained network configuration.
+    * If your testing is frequent, configure the firewall to only allow the ports needed for your testing, and stay on an [isolated network](network-isolation/index.html) or use a [personal VPN](/handbook/tools-and-tips/personal-vpn/).
+    * Contact the Security department in the `security` Slack channel if you have questions about this.
 
 ### WiFi configuration
 
