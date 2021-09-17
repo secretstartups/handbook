@@ -15,7 +15,7 @@ canonical_path: "/company/team/structure/working-groups/event-stream/"
 
 | Property        | Value           |
 |-----------------|-----------------|
-| Date Created    | 2021-08-30 |
+| Date Created    | 2021-09-20 |
 | Target End Date | - |
 | Slack           | #wg_event-stream (only accessible from within the company) |
 | Google Doc      | [Event Stream Working Group Agenda]() (only accessible from within the company) |
