@@ -27,7 +27,7 @@ All of the benefits listed below are administered and managed by [Global Upside]
 ### Medical Benefits
 
 * Group Mediclaim Policy is arranged through [ICICI Lombard](https://www.icicilombard.com/)
-* Group Mediclaim Policy which will take care of hospitalization expenses, the coverage provided is available for the team member, their spouse and up to two children.  Should additional cover be required this will need to be purchased by the team member in the form of an Individual Policy. This can not be purchased under the Group Mediclaim Policy.
+* Group Mediclaim Policy which will take care of hospitalization expenses, the coverage provided is available for the team member, their spouse, up to two children, and dependent parents or parent in-laws.  Should additional cover be required this will need to be purchased by the team member in the form of an Individual Policy. This can not be purchased under the Group Mediclaim Policy.
 * Group Personal Accident policy including accidental death benefit.
 * For additional information on how [Benefits](https://drive.google.com/file/d/1jd1gCLiWZTwIeaDgnvo8SX1TXDNbYnrW/view?usp=sharing) operate, please check out the documentation on the Google Drive.
 
