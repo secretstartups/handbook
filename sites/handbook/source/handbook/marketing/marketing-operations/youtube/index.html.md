@@ -15,7 +15,7 @@ description: "We use YouTube as our single source of truth for video content inc
 
 There are two YouTube channels we use at GitLab:
 
-1. [Branded](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg): used for content intended for people in the wider community, including marketing and event content, customer, community and user stories, employment branding, and polished sales videos and demos. For example [our GitLab informercial](https://www.youtube.com/watch?v=gzYTZhJlHoI).
+1. [Branded](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg): used for content intended for people in the wider community, including marketing and event content, customer, community and user stories, employment branding, and polished sales videos and demos. For example [our GitLab infomercial](https://www.youtube.com/watch?v=gzYTZhJlHoI).
 1. [Unfiltered](https://www.youtube.com/channel/UCMtZ0sc1HHNtGGWZFDRTh5A/): used for content intended for team and community members, including (but not limited to) team meetings, discussions, monthly release kick-offs, office hours, CEO 101 meetings, and casual demos. For example [a weekly meeting of the Plan group](https://www.youtube.com/watch?v=xXGAcFyBupA).
 
 Everything posted to our **Branded** channel should pass through digital production for quality control on branding and production standards. If you are wondering if your video should go on the Branded channel, reach out to the [Digital Production team in Slack](https://gitlab.slack.com/archives/C01LRUKFQTB).
