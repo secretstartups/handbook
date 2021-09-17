@@ -20,7 +20,7 @@ Many items on this page are a guidelines for our [Executive Business Administrat
 
 ### CEO Bio
 
-Sid Sijbrandij is the Co-founder, Chief Executive Officer and Board Chairperson of GitLab Inc., the DevOps platform. GitLab’s single application helps organizations deliver software faster and more efficiently while strengthening their security and compliance.
+Sid Sijbrandij is the Co-founder, Chief Executive Officer and Board Chair of GitLab Inc., the DevOps platform. GitLab’s single application helps organizations deliver software faster and more efficiently while strengthening their security and compliance.
 
 Sid’s career path has been anything but traditional. He spent four years building recreational submarines for U-Boat Worx and while at Ministerie van Justitie en Veiligheid he worked on the Legis project, which developed several innovative web applications to aid lawmaking. He first saw Ruby code in 2007 and loved it so much that he taught himself how to program. In 2012, as a Ruby programmer, he encountered GitLab and discovered his passion for open source. Soon after, Sid commercialized GitLab, and by 2015 he led the company through Y Combinator’s Winter 2015 batch. Under his leadership, the company has grown with an estimated 30 million+ registered users from startups to global enterprises.
 
