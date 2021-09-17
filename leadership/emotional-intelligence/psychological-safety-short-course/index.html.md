@@ -17,7 +17,7 @@ This is a short course designed to help with your understanding of psychological
 
 We are doing this to ensure we create an environment where everyone is able to thrive, be able to easily embody our values of Collaboration, Results, Efficiency, DIB, Iteration and Transparency and the sub values that accompany this. In this course you will see how certain actions can lead quickly to erosion of these values and the erosion of trust amongst team members.
 
-There are 2 ways to take the course. You can watch the [videos](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) on Edcast  or read the content, this is also best done on Edcast you achieve your badge. You are free to view both of course but the content is duplicated across the two mediums. 
+There are 2 ways to take the course. You can watch the [videos](https://gitlab.edcast.com/journey/psychological-safety-understanding-empowerment-and-self-r) on Edcast  or read the content, this is also best done on Edcast where you achieve your badge. You are free to view both of course but the content is duplicated across the two mediums. 
 
 ## Introduction to Psychological Safety 
 
@@ -73,30 +73,30 @@ This also means acknowledging and apologising when you get it wrong. People who 
 
 3. **Have moral courage** - This is the practice of being brave even when it is a risk or inconvenient for you for ethical and moral reasons.
 
-**Scenario:** Someone is consistently using the wrong pronouns for a team member who identifies as non-binary. They use the pronouns They/Them. The person doing this is at Director level and you have a great relationship with them. After an incident of doing the director doing this, you ask for a zoom chat and explain the issue.
+**Scenario:** Someone is consistently using the wrong pronouns for a team member who identifies as non-binary. They use the pronouns They/Them. The person doing this is at Director level and you have a great relationship with them. After an incident of seeing the director doing this, you ask for a zoom chat and explain the issue.
 
 **Risks:**
 
 - The person is higher in the hierarchy
-- You may not know there conservative or liberal views
+- You may not know their conservative or liberal views
 - Risking the friendship you have with the person
 
 ### Nurturing Psychological Safety for All Team Members
 
 It is important that there are consistent things that we do to ensure that nurture and cultivate psychological safety.
 
-Everyone at GitLab can follow these key practice to create and continue the culture we desire:
+Everyone at GitLab can follow these key practices to create and continue the culture we desire:
 
 - Embrace a culture of respectable debate 
 
-We have our value sub value, Disagree, Commit, Disagree - to help embrace this practice.
+We have our values' sub value of Disagree, Commit, Disagree - to help embrace this practice.
 
 It allows us to have those conversations that spark creativity, iterations and gather viewpoints that we may have missed. With our value ensuring that we still progress and move forward.
 
 
 - Encourage and Share personal stories
 
-This is a great way of ensuring that as team members we build relationships and ultimately trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
+This is a great way of ensuring that as team members we build relationships and, ultimately, trust at work. Coffee chats are a great avenue for this so that you are more comfortable bringing up pertinent issues.
 
 - Practice self-reflection
 
@@ -104,7 +104,7 @@ We will have a task later in the course to help you practice this, but it is imp
 
 - Allow for experimentation and failure
  
-Again this is something that sparks creativity and allows some freedom for projects to not workout, provide space for our iteration and efficiency value to prosper. We don't want to be stuck in "we have always done it this way."
+Again, this is something that sparks creativity and allows some freedom for projects to not workout, provide space for our iteration and efficiency value to prosper. We don't want to be stuck in "we have always done it this way."
 
 - Build a culture of curiosity
 
@@ -112,7 +112,7 @@ Ask questions not only about people's lives as above about sharing personal stor
 
 - Be open to feedback
 
-Always be open to both good and constructive feedback. Receiving constructive feedback should not be psychologically unsafe. Leaders ensure you understand how to give feedback effectively but also how a team member likes to receive constructive feedback.
+Always be open to both good and constructive feedback. Receiving constructive feedback should not be psychologically unsafe. Leaders, ensure you understand how to give feedback effectively but also how a team member likes to receive constructive feedback.
 
 - Encourage creative collaboration and collaborative learning
 
@@ -124,7 +124,7 @@ Ask team members from underrepresented groups to avoid confirmation bias. It is 
 
 ### Nurturing Psychological Safety for Leaders
 
-These are specific practices and actions for leaders and future leaders. Whilst nurturing and cultivating psychological safety is everyones job, leaders are in a unique position to have a disproportionate affect on this.
+These are specific practices and actions for leaders and future leaders. Whilst nurturing and cultivating psychological safety is everyone's job, leaders are in a unique position to have a disproportionate effect on this.
 
 - Foster a pro diversity mindset and build diverse teams
 
@@ -144,7 +144,7 @@ Try to dismantle perceptions of hierarchy by ensuring you are part of the team a
 
 - Avoid blame & keep negative feedback in 1-1
 
-## Self Relfecltion Exercise 
+## Self Reflection Exercise 
 
 - What are your stress responses? (When you are excited, angry, stressed etc)
  
