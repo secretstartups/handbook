@@ -318,20 +318,6 @@ We do what we promised to each other, customers, users, and investors.
 We care about what you achieve: the code you shipped, the user you made happy, and the team member you helped. Someone who took the afternoon
 off shouldn't feel like they did something wrong. You don't have to defend how you spend your day. We trust team members to do the right thing instead of having rigid rules. Do not incite competition by proclaiming how many hours you worked yesterday. If you are working too many hours, talk to your manager to discuss solutions.
 
-##### Build Reliable Software
-{:.no_toc}
-**Availability/Reliability**, **Quality**, **Security**, and **Performance** are the pillars for building reliable software. Reliability is our contract with our customer that says you can count on us to deliver an available and dependable product. Everyone in the organization has a role to play. 
-
-Engineers, Product Managers, and Designers have the most direct influence over the reliability of the code through either planning, implementation, monitoring (e.g. [Kibana](/handbook/support/workflows/kibana.html), [Sentry](/handbook/support/workflows/sentry.html), Grafana), or prioritization of the work. Product and Engineering management monitors (e.g. [Error Budgets](/handbook/engineering/error-budgets/)) and measures the reliability of features and makes recommendations if necessary. Our focus on [learning and development](https://about.gitlab.com/handbook/people-group/learning-and-development/) will also ensure that teams have the tools and training required to build reliable software. The [Infrastructure](/handbook/engineering/infrastructure/#mission), [Application Security](/handbook/engineering/security/security-engineering-and-research/application-security/#application-security-mission), [Database](/handbook/engineering/development/enablement/database/#mission) and [Quality](/handbook/engineering/quality/#mission) teams are the Subject Matter Experts supporting product development teams. 
-
-##### Follow Established Processes
-{:.no_toc}
-All team members are expected to follow documented processes. We develop and document processes (for example: [Feature flag usage](https://docs.gitlab.com/ee/development/feature_flags/index.html), [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html)) through constant iteration and refinement. We find opportunities for improvement through analyzing metrics to identify trends, hosting retrospectives (e.g. [Group Retrospectives](/handbook/engineering/management/group-retrospectives/), [Iteration Retrospectives](/handbook/engineering/development/dev/create/engineers/iteration/)), performing [Root Cause Analyses](/handbook/customer-success/professional-services-engineering/workflows/internal\root-cause-analysis.html), and receiving feedback from team members. Team members are encouraged to identify opportunities to improve our processes and propose solutions, examples of this could be an MR or and issue describing these opportunities.
-
-Following established processes ensures that we learn from our mistakes and efficiently deliver high-quality, highly performant, and secure software. We prefer to fail fast and learn quickly. Team members who are not software developers benefit from working more efficiently to deliver their results as well. Regardless of your discipline, processes are the guard rails that ensure we produce desirable and predictable results.
-
-Everyone can contribute by proposing new processes and improving upon existing processes.
-
 ##### Dogfooding
 {:.no_toc}
 1.  We [use our own product](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
