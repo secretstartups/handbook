@@ -11,12 +11,13 @@ description: "Overview of three critical pieces of GitLab's talent development p
 {:toc .hidden-md .hidden-lg}
 
 # Talent Assessment Program 
-
+ 
 ### Purpose
 
 The purpose of the Talent Assessment Program is to identify and retain team members who drive the success of our organization. This is a top priority and strategic process for people managers at GitLab. Our Talent Assessment Program (which is a critical piece of our overall [Talent Development Program](/handbook/people-group/talent-development-program/)) serves as a mechanism to help mitigate a couple of our biggest company risks: [lack of performance management](/handbook/leadership/biggest-risks/#underperformance) and [losing key people](/handbook/leadership/biggest-risks/#key-people-leave). 
 
 Additional key benefits of the Assessment Program include:
+
 - Help facilitate career development conversations (and ensure they're occurring regularly)
 - Ensure transparency and ongoing feedback between team members and their managers
 - Discuss promotion readiness and plan promotions
@@ -160,8 +161,8 @@ There are four primary pillars to consider when measuring growth:
 | --------------- | ----------------- |
 | Adaptability | Demonstrating a willingness and ability to learn new skills and apply them to be successful under new, tough, or difficult conditions. |
 | Expandability | Expandability outside their areas (laterally or vertically), with the willingness and ability to take on a role of greater complexity, impact, and scope |
-| Consistency | Demonstrating effective problem-solving capabilities and the consistent delivery of results over time in changing circumstances |
-| Self-Awareness | The depth to which an individual recognizes skills, strengths, weaknesses, blind spots, and is able to reflect and act to improve and invest in their own development.|
+| Consistency | Demonstrating effective problem-solving capabilities, the consistent delivery of results over time in changing circumstances, and dependability in the commitments you make. |
+| Self-Awareness | The depth to which an individual recognizes skills, strengths, weaknesses, blind spots, and is able to reflect and act to improve and invest in their own development. Judgment in decision-making is also a key element of self-awareness. Judgment can be seen through our level of self-awareness in several ways, including communication, collaboration, and results. Judgment can be defined as "The ability to make considered decisions or come to well thought-out conclusions", and to do this effectively, we need to have a heightened sense of self-awareness in terms of how our communication will come across and how decisions and conclusions drawn will impact others and their willingness to collaborate. |
 
 Below under each pillar there are a few questions that managers should consider when assessing team member growth. Please note that the answer to all of these questions does not have to be `yes` to determine a team member is "exceeding" growth, the questions are here to help guide managers through the thought and evaluation process.  
 
@@ -182,6 +183,7 @@ Below under each pillar there are a few questions that managers should consider 
 
 1. Does the team member consistently deliver results?
 1. Does the team member follow through on their commitments? 
+1. Is the team member dependable? 
 1. If scope or timeline change, does the team member communicate the change and provide updates to stakeholders? 
 
 #### Self-Awareness
@@ -189,6 +191,7 @@ Below under each pillar there are a few questions that managers should consider 
 1. Does the team member respond to feedback aligned with our [Receiving Feedback Guidelines](/handbook/people-group/guidance-on-feedback/#receiving-feedback)?
 1. Does the team member acknowledge their strengths and areas of improvement?
 1. Does the team member work towards closing gaps for their improvement areas? 
+1. Does the team member demonstrate sound judgment in their decision-making?
 
 ### Growth Output
 
