@@ -31,7 +31,8 @@ If you have the choice between a Corporate and Individual CLAs, opt for the Corp
 
 Follow these steps to obtain legal approval and enter into a CLA on behalf of GitLab: 
 
- 1. Open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) in the [Legal and Compliance Project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues).
+ 1. Check the [Third-party CLA Tracker](https://docs.google.com/spreadsheets/d/106bLmkl6IofWN__iwnu0UwQZzdm5JvDf8qdLV_4DTh8/edit#gid=0) to verify whether there is already a CLA in place in respect of the project you want to contribute to. 
+ 1. If there's no CLA already in place listed in the [Third-party CLA Tracker](https://docs.google.com/spreadsheets/d/106bLmkl6IofWN__iwnu0UwQZzdm5JvDf8qdLV_4DTh8/edit#gid=0), open a new [General Legal Issue](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues/new?issuable_template=general-legal-template) in the [Legal and Compliance Project](https://gitlab.com/gitlab-com/legal-and-compliance/-/issues).
  1. Apply the `Licensing` label to the issue.
  1. Include details of the project you are contributing to, and add the CLA for approval, either as an attachment or a hyperlink, to the issue.
  1. Legal will review the CLA, requesting additional information where necessary, and approve.
