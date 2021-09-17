@@ -123,7 +123,7 @@ Projects with indirect impact do not translate directly to monetary value, but p
 
 - **Pre-configured JuypterLab Image:** The data science team uses JupyterLab pre-configured with common python modules (pandas, numpy, etc.), native Snowflake connectivity, and git support. Working from a common framework allows us to create models and derive insights faster. This setup is freely available for anyone to use. Check out the [data-science project](https://gitlab.com/gitlab-data/data-science) for additional information and setup instructions .
 
-- **[gitlabds](https://gitlab.com/gitlab-data/gitlabds/) Python Tools**: Functions that help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly from pip or use as part of the Data Science JupyterLab package above.
+- **[gitlabds](https://gitlab.com/gitlab-data/gitlabds/) Python Tools**: Functions that help automate common data prep (dummy coding, outlier detection, variable reduction, etc.) and modeling tasks (i.e. evaluating model performance). Install directly via `pip install gitlabds` or use as part of the Data Science JupyterLab package above.
 
 - **Modeling Templates** (**Coming Soon!**)
 
