@@ -14,6 +14,8 @@ description: "Offboarding procedures for all stakeholders"
 
 Facilitation of the offboarding process is shared by the GitLab [People Business Partners (PBPs)](https://about.gitlab.com/job-families/people-ops/people-business-partner/), [People Operations Specialists](https://about.gitlab.com/job-families/people-ops/people-operations/), [People Experience Team](https://about.gitlab.com/job-families/people-ops/people-experience-associate/), [Team Member Relations Specialist](https://about.gitlab.com/job-families/people-ops/people-operations/) and various [Tech Stack Provisioners](https://about.gitlab.com/handbook/business-ops/tech-stack-applications/).
 
+If you have any questions about the offboarding process, please review the Offboarding [FAQ page](/handbook/people-group/offboarding/faq.html). 
+
 The process to be followed will be guided by the nature of the offboarding at hand i.e. either **Voluntary** or **Involuntary** - both of which have been described in greater detail below.  Each of the stakeholders listed play a critical role in ensuring that offboarding takes place in a manner that is efficient and best serves the unique needs and sensitivities surrounding the respective team members situation.
 
 ## Starting the Process
@@ -384,7 +386,14 @@ Select the right policy based upon the entity that employs the team member. Sele
 Select the individual's name and click "Remove".
 If the person has a company credit card assigned to them please notify Finance before un-assigning it.
 
-### Evaluation
+
+
+### Retrospective for Managers
+For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and coaching/communication of the departing team member. As a manager, you can use [this template](https://docs.google.com/document/d/1AWth5o_sagDTwQ92FJr7WDHPNezEg6-BgRY6Tafejgo/edit?usp=sharing) for a retrospective. Please share the filled out template with your manager as well as the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for your group.
+
+Within the Engineering division this is a **required process** because it causes hiring managers to reflect on what led to the ultimate decision of parting ways with the team member, and how that might be prevented during future hiring processes.
+
+#### Evaluation
 
 1. How could this outcome have been avoided?
 2. Were there early signs that were missed?
@@ -393,10 +402,6 @@ If the person has a company credit card assigned to them please notify Finance b
 For example, "How would you compare yourself relative to your peers?"
 People are surprisingly honest here.
 
-### Retrospective for Managers
-For involuntary offboardings it is optional to do a retrospective on the hiring, onboarding and coaching/communication of the departing team member. As a manager, you can use [this template](https://docs.google.com/document/d/1AWth5o_sagDTwQ92FJr7WDHPNezEg6-BgRY6Tafejgo/edit?usp=sharing) for a retrospective. Please share the filled out template with your manager as well as the [People Business Partner](https://about.gitlab.com/handbook/people-group/#people-business-partner-alignment-to-division) for your group.
-
-Within the Engineering division this is a **required process** because it causes hiring managers to reflect on what led to the ultimate decision of parting ways with the team member, and how that might be prevented during future hiring processes.
 
 ## Declination (Prior to Day 1 and up to Day 5)
 
@@ -432,8 +437,4 @@ unemployment rate, according to the [People Ops internal handbook](https://gl-pe
 
 If you are a full-time team member and you are contacted by your state's Unemployment Commission to discuss your request for unemployment benefits, you may be a victim of unemployment claim fraud. Before giving out any information to the caller, please confirm that you are speaking with an agency employee. If you confirm with your state's Unemployment Commission that there is a fraudulent claim, please report it via email to `peopleops@gitlab.com`. Additionally here is a link to the [U.S Department of Labor Report Unemployment Insurance Fraud](https://www.dol.gov/agencies/eta/unemployment-insurance-payment-accuracy/report-unemployment-insurance-fraud), which lists additional information.
 
-## FAQ
 
-### Will I still have access to my GitLab.com account after leaving GitLab?
-
-Yes, your GitLab account will remain active and in your ownership. The account will be downgraded to a free account and will lose access to internal GitLab groups and projects.
