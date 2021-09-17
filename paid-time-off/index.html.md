@@ -334,7 +334,11 @@ Reporting from the PTO by Roots app helps managers:
 1. Be sure their direct reports are taking enough PTO
 1. Review upcoming PTO of direct reports to make project management decisions and manage team member burnout
 
-Managers can access the **Reporting** view by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
+PTO by Roots sends an automated report like the one below at the beginning of every month:
+
+![example of auto PTO reports](automatic-pto-reports.png)
+
+Managers can also access the **Reporting** view at any time by using the dropdown menu in the **Home** tab of the PTO by Roots Slack app. Reports only show team members in their reporting tree - direct reports and below. When managers generate a report through the PTO by Roots app, they select a time frame. That timeframe can be anything - YTD, this past week, the upcoming quarter, etc. The `Total` column will show what’s taken/scheduled to be taken during the timeframe selected.
 
 ![how to pull pto by roots reports](pto-reports.png)
 
