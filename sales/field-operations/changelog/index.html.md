@@ -20,7 +20,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **SOPS: [Hide shipping address field on Account Object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1906)**
 
+**Deal Desk: [Initial Term Automation for Amend Subscription Quotes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1539)**
 
+**Deal Desk: [Approval Matrix Update: <12 Month Subscriptions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/4408)**
 
 ### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
