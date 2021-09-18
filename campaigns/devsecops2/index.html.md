@@ -26,18 +26,28 @@ twitter_image: '/images/tweets/handbook-marketing.png'
 <!-- DO NOT CHANGE THIS ANCHOR -->
 ### [Mural of campaign flow>>](https://app.mural.co/t/gitlab2474/m/gitlab2474/1630693252879/2f82f169e602ffb66e482c261be27c471d6abb6c?)
 
-### Campaign Pages & Activities
+### Campaign Assets & Activities
 {: #campaign-activities}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-**[See the FY22 Marketing Calendar for upcoming virtual events & planned content around this campaign >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1628010250)**
-
-Primary assets to be used in Always On Lead Generation:
+**Primary assets to be used in Always On Lead Generation:**
 * :books: Dev focused content (Awareness stage)| [ebook: Building a Modern DevSecOps Software Factory](https://learn.gitlab.com/devsecops-aware/building-modern-devsecops-software-factory)
 * :books: Dev focused content (Consideration stage)| [eBook: How to achieve DevSecOps with CI/CD](https://learn.gitlab.com/devsecops-consider/ebook-achieve-devsec)
 * :books: AppSec focused Content  (Purchase stage)| [2021 Magic Quadrant for Application Security Testing](https://learn.gitlab.com/devsecops-purchase/2020-gartner-mq-ast)
 
- [other assets available](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
+[other assets available>>](https://docs.google.com/spreadsheets/d/15-yai90Ol7k4D2exHXqHXtFastR6FcE6HABD_GisAl8/edit#gid=0)
+
+**Relevant Powerpoint presentations:**
+  - [Updated Security and Compliance overview](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_2092)
+  - [Presentation on securing your software supply chain (with demo suggestions)](https://docs.google.com/presentation/d/1dE0MB0facIS-TmWgyfirA_OfgoN7lJlVF961EGQePzQ/edit#slide=id.gda9e872569_0_407)
+  - [Security testing FAQ ](https://docs.google.com/presentation/d/1mLnmgQ5hqTzcwk3Vjh0BEIdx9SYgORV-2g7zPKmFKFc/edit)
+  - [15 min shift-left focused presentation](https://docs.google.com/presentation/d/10_mn0Tmn6c_MxFCyvJjvzDHaQocsngqrdq6vg18KN-c/edit#slide=id.ge5feaf531d_0_118)
+  - [GitLab Security & Compliance Capabilities - 2021 Sept](https://docs.google.com/presentation/d/1WHTyUDOMuSVK9uK7hhSIQ_JbeUbo7k5AW3D6WwBReOg/edit#slide=id.g9d701d7d89_8_1931)
+  - [What’s new in Secure & Protect (as of 2021-08-22)](https://docs.google.com/presentation/d/1eBI7POoTPo47GIJmfRgdq-fNW_AzQVFanrj-e9JLfIk/edit#slide=id.ge8e47211f3_0_909)
+
+#### New Assets and Upcoming events
+
+**[See the FY22 Marketing Calendar for upcoming events & planned content around this campaign >>](https://docs.google.com/spreadsheets/d/1c2V3Aj1l_UT5hEb54nczzinGUxtxswZBhZV8r9eErqM/edit#gid=571560493&fvid=1628010250)**
 
 ## Research & Prep
 {: .alert #research-prep .alert-gitlab-orange}
