@@ -502,7 +502,7 @@ Slack channel
     * Canada - All expense reports must be approved by manager and Accounts Payable before 1st day of each payroll period.
     * All non-US contractors - All expense reports must be approved by manager and Accounts Payable no later than the 8th of each month. Team members - please be sure to submit your report(s) a couple days before the due date.
 
-## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses:
+## <i class="far fa-flag" id="biz-tech-icons"></i> Non-reimbursable Expenses
 
 As we ask team members to [spend company money like its your own](/handbook/values/#spend-company-money-like-its-your-own), we try not to micromanage spending. Our spending sub-value is the foundation of our expense philosophy, and we've found that the vast majority of team members exercise thoughtful judgement in purchasing. That said, we've had some questionable purchases. Some examples of purchases that have felt incongruent with the spirit of our spending sub-value include:
 
@@ -524,7 +524,10 @@ As we ask team members to [spend company money like its your own](/handbook/valu
 
 You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. Please [say why, not just what](/handbook/values/#say-why-not-just-what) when you are explaining what you are purchasing and why.
 
-In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute related on their invoices, prior to submitting to the Company.
+## <i class="far fa-flag" id="biz-tech-icons"></i> Independent Contractors
+
+In accordance with [Reimbursable Expense guidelines](/handbook/finance/accounting/#reimbursable-expenses), independent contractors should note which expenses are Contribute-related on their invoices, prior to submitting to the Company.
+
 ----
 
 Return to the main [finance page](/handbook/finance/).
