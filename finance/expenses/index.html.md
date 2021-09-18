@@ -512,15 +512,15 @@ As we ask team members to [spend company money like its your own](/handbook/valu
 1. A llama rental for a team event
 1. Meals during the Contribute when team members opt out of the company provided meal option
 1. Cellphones and accessories
-1. Travel related expenses for family members of GitLab employees
-1. Fitness equipment (treadmill, etc..) and gym membershi.
+1. Travel-related expenses for family members of GitLab employees
+1. Fitness equipment (treadmill, etc..) and gym membership
 1. Meals from co-working day(s)
 1. Home office decor (picture frames, hanging plants, area rugs, book shelves)
-1. Meals or beverages while attending co working space
+1. Meals or beverages while attending co-working space
 1. Treadmill Desks
 1. Portable Air Conditioners
 1. Home Power Generators 
-1. [Individual subscriptions ex. Krisp , apple music](#individual-subscriptions)
+1. [Individual subscriptions ex. Krisp, Apple Music](#individual-subscriptions)
 
 You should proactively engage your manager if you plan to make a work purchase that is outside of what would be considered standard by an average team member. Please [say why, not just what](/handbook/values/#say-why-not-just-what) when you are explaining what you are purchasing and why.
 
