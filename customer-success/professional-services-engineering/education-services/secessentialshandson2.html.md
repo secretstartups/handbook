@@ -18,24 +18,24 @@ description: "This Hands On Guide Lab is designed to walk you through the lab ex
 
 ### Enable Dependency Scanning via an automatic merge request
 1. In your project, navigate to **Security & Compliance > Configuration**.
-2. In the Dependency Scanning row, select **Configure via Merge Request**.
-3. This automatically creates a merge request with the changes necessary to enable Dependency Scanning that you can review and merge to complete the configuration.
+1. In the Dependency Scanning row, select **Configure via Merge Request**.
+1. This automatically creates a merge request with the changes necessary to enable Dependency Scanning that you can review and merge to complete the configuration.
 
 ### Use the Security Dashboard and Interact with Vulnerabilities
-***You will not be able to view the dashboard until your .gitlab-ci.yml file has been merged to the master and the pipeline has finished. **
+**You will not be able to view the dashboard until your .gitlab-ci.yml file has been merged to the master and the pipeline has finished.**
 1. Validate your pipeline has completed and passed
-2. Navigate to **Security & Compliance** in the left menu pane  
-3. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
-4. Review the vulnerability information and click the **status** button. In the dropdown choose **Dismiss**
-5. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
-6. Review the vulnerability information and click the **status** button. In the dropdown choose **Confirm**
-7. On the critical vulnerability report, click the **Create issue** button.  Assign the ticket to yourself and **submit issue**.
-8. Review the Issue and the solution. Review the link back to the vulnerability report.
-9. On the left-hand panel, click the **Security and Compliance** section, then the **Vulnerability Report** tab. Click a critical vulnerability in the report field.
-10. Review the vulnerability information and click the **status** button. In the dropdown choose **Resolved**
-11. Review the different information displayed, the status, severity, and scanner types shown in the Dashboard. Set the **status** dropdown to **All**
-12. Once you have reviewed all of the information, click on the other reports that appears.
-13. Click the **Configure** button in the Manage column to view the specific configuration options available for your SAST Scanner. Once you have reviewed the options available, you can close out of this section.
+1. Navigate to **Security & Compliance** in the left menu pane  
+1. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
+1. Review the vulnerability information and click the **status** button. In the dropdown choose **Dismiss**
+1. Click on the **Vulnerability Report** tab -> Click a critical vulnerability in the report field.
+1. Review the vulnerability information and click the **status** button. In the dropdown choose **Confirm**
+1. On the critical vulnerability report, click the **Create issue** button.  Assign the ticket to yourself and **submit issue**.
+1. Review the Issue and the solution. Review the link back to the vulnerability report.
+1. On the left-hand panel, click the **Security and Compliance** section, then the **Vulnerability Report** tab. Click a critical vulnerability in the report field.
+1. Review the vulnerability information and click the **status** button. In the dropdown choose **Resolved**
+1. Review the different information displayed, the status, severity, and scanner types shown in the Dashboard. Set the **status** dropdown to **All**
+1. Once you have reviewed all of the information, click on the other reports that appears.
+1. Click the **Configure** button in the Manage column to view the specific configuration options available for your SAST Scanner. Once you have reviewed the options available, you can close out of this section.
 
 ### Review a Dependency Scanning Report Artifact
 1. Click on the **CI/CD** button on the Left menu.  
