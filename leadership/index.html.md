@@ -219,8 +219,8 @@ Building a team to deliver [results](/handbook/values/#results) is a very import
 **Skills and behavior of [building high performing teams competency](/handbook/competencies/#list) for Managers**:
 
 - Models and encourages teamwork by fostering collaboration, communication, [trust](/handbook/leadership/building-trust), shared goals, mutual accountability and support
-- Fosters an environment where results are balanced with time management of multiple assignments and DRI's on important topics
-- Empowers team members to be a Manager of One and gives them the tools to grow professionally in their careers
+- Fosters an environment where results are balanced with time management of multiple assignments and [Direct Responsible Individuals (DRI's)](/handbook/people-group/directly-responsible-individuals/) on important topics
+- Empowers team members to be a [Manager of One](/handbook/values/#managers-of-one) and gives them the tools to grow professionally in their careers
 - Attracts and retains top talent by creating an inclusive environment [built on trust](/handbook/leadership/building-trust), delegation, accountability, and teachability
 
 ### Strategies to Build High Performing Teams
