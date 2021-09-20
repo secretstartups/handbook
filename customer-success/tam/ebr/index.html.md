@@ -77,6 +77,9 @@ If no progress has been made on the CTA (no tasks have been completed) and there
 
 ### How to prepare an EBR
 
+#### EBR Training Certification 
+Follow this link to access the EBR certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/tam-executive-business-reviews)
+
 #### Content
 
 EBRs typically consists of the following content:
