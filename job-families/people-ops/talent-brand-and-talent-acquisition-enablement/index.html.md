@@ -13,7 +13,7 @@ The Talent Brand Program Manager reports to the Senior Director of Talent Brand 
  
 #### Talent Brand Program Manager Job Grade
  
-The Talent Brand Program Manager is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Talent Brand Program Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
  
 #### Talent Brand Program Manager Responsibilities
  
@@ -55,7 +55,7 @@ The Program Manager, Enablement reports to the Manager, Global Enablement.
 
 #### Program Manager, Enablement Job Grade
 
-The Progam Manager, Enablement is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Progam Manager, Enablement is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Program Manager, Enablement Responsibilities
 
