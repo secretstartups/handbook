@@ -24,8 +24,8 @@ The Open Source Outreach Engineering Manager manages a team of full-stack engine
 * [Self-motivated and self-managing](https://about.gitlab.com/handbook/values/#efficiency), with excellent organizational skills and eyes for quality.
 * Share our [values](https://about.gitlab.com/handbook/values/), and work in accordance with those values.
 * Fluent in using GitLab
-* 5 years or more developing in Ruby and Javascript
-* 2 years or more in people leadership positions 
+* Relevant, progressive experience developing in Ruby and Javascript
+* Relevant, progressive experience in people leadership positions 
 * Extensive experience using Git and source control
 * Extensive experience with Open Sourcing
 * Track record of contributing to well-known open source projects
