@@ -1293,7 +1293,10 @@ The alphabetically sorted starter list below spotlights a few of GitLab's [many 
 | `#thanks`                            | Recognition is an [important part of GitLab's culture](/handbook/communication/#say-thanks); give a public "thanks" to your teammates here!                                                                                          |
 | `#people-connect`                     | For anything related to compensation, benefits, or equity. You can also check out the Total Rewards [issue tracker](https://gitlab.com/gitlab-com/people-group/total-rewards/issues) and [handbook page](/handbook/total-rewards/)!  |
 | `#travel`                            | A place to discuss all things [travel](/company/culture/all-remote/people/#travelers)!                                                                                                                                               |
+| `#values`                             | Channel to discuss iterations on GitLab values                                                                                                                                                                                |
 | `#women`                             | Employee resource group for members and allies.                                                                                                                                                                                      |
+
+
 
 ### Slackbots
 
