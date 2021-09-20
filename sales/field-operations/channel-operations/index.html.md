@@ -266,7 +266,7 @@ The process to request the [legal team’s involvement in partner contracts](htt
 In order to transact with GitLab, a partner must both be authorized by GitLab, and have completed at least one sales training.
  
 ### Partner Co-Sell
-All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://handbook/resellers/).
+All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
  
 ### Partner Sourced Deal Registration
 There are three types of Partner Sourced Deal Registrations within the GitLab Partner Program. For step-by-step instructions on how to process each of these opportunities, see the specific sections: [Resale](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities), [MSP](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), and [Referral](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-referral-opportunities) .
@@ -345,7 +345,7 @@ To process a Partner Sourced Deal Registration for a resale opportunity, follow 
   - The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote.
  
 ### Partner Sourced Deal Registration: MSP Opportunities
-Partner Sourced Deal Registrations for MSP opportunities reward partners for managing products and services for their customers accounts. With an approved Partner Sourced Deal Registration for MSP, a partner will receive a different discount than other resale opportunities, according to the [GitLab Partner Program](https://handbook/resellers/). 
+Partner Sourced Deal Registrations for MSP opportunities reward partners for managing products and services for their customers accounts. With an approved Partner Sourced Deal Registration for MSP, a partner will receive a different discount than other resale opportunities, according to the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/). 
  
 A Managed Service Provider (MSP) purchases licenses on behalf of an end user. The MSP will be the owner and manager of the licenses but their customer, the end user, is the one using the licenses. This creates specific needs in GitLab Salesforce opportunities to ensure proper reporting and compensation. _Please note that the steps for an MSP opportunity differ from the steps for a resale opportunity._
  
@@ -375,7 +375,7 @@ To process a Partner Sourced Deal Registration for an MSP opportunity, follow th
 _The deal registration form is not a quoting tool and will not have all the information needed to create the quote. You must get this information from the partner or elsewhere before requesting the quote._
  
 ### Partner Sourced Deal Registration: Referral Opportunities
-Partner Sourced Deal Registrations for referral opportunities reward partners for bringing net-new business to GitLab, even if that partner does not transact the deal. With an approved Partner Sourced Deal Registration for a referral, a partner will receive a **back-end rebate**, processed quarterly, according to the [GitLab Partner Program](https://handbook/resellers/).
+Partner Sourced Deal Registrations for referral opportunities reward partners for bringing net-new business to GitLab, even if that partner does not transact the deal. With an approved Partner Sourced Deal Registration for a referral, a partner will receive a **back-end rebate**, processed quarterly, according to the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
  
 To process a Partner Sourced Deal Registration for a referral opportunity, follow the steps:
  
