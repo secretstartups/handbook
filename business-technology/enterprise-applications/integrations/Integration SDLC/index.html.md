@@ -15,26 +15,41 @@ title: "Integrations SDLC Process"
 
 ## Integrations - SDLC Process
 
+### Quick links
+- [Integration Planning Board](https://gitlab.com/groups/gitlab-com/-/boards/3224617)
+- [Integration Kanban Board](https://gitlab.com/groups/gitlab-com/-/boards/2031131?milestone_title=22%20-%20BT%20EntApps%20-%202021-09-07&label_name%5B%5D=BT%20Integrations%3A%3AKanban)
+- [Backlog filter](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=BT%20Integrations%3A%3ABacklog)
+- [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus)
+
+
 ### SDLC
+The page defines the different workflow stages and artifacts used to define those stages. In here, we use combinations of milestones, boards, epics, issues and labels to manage and plan the work.
+
+#### SDLC stage 1 - Intake
 The work lifecycle starts when BSAs create epics/issues in Intake Project and tag integration team for the implementation. 
 Once integration team is onboarded depending upon the size of the project (Small, Medium, large) it traverses through the [project workflow](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues/289) and goes live.
+Labels specific to this stage: `EntApps Intake`
 
-Within the integration we use combinations of milestones, boards, epics, issues and labels to manage and plan the work.
+#### SDLC stage 2 - Design
+During the Design phase of the project, the epic or user stories are created in the [Gitlab.com group](https://gitlab.com/gitlab-com). It describes the unit of work and its acceptance criteria. The epic is then sub divided into issues. 
 
-#### SDLC stage - 1
-During the Design phase of the project, the epic in [Integrations group](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations) or user stories are created in the [Integration Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work). It describes the unit of work and its acceptance criteria. The epic is then sub divided into issues. These issues are then added to the [BT Integrations Planning board](https://gitlab.com/groups/gitlab-com/-/boards/3224617) via label `BT Integration Backlog`. Good practice is to use additional labels to define the priority like BT Priority 1, 2, 3 and the nature of work like Field Marketing, Finance Systems or Bug. The board comes in handy while planning for milestones (each of 1 month long) where we know what is to be planned in the current milestone and what goes in the next one as per their priority.
+Issues are the smallest unit of work. They are created in the [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/issues). As a good practice, make sure the merge requests in the Nexus project have issue number in their names. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/merge_requests/25)
 
-#### SDLC stage - 2
-During the build phase, when we plann for the upcmoning milestone, issues are transfered from Backlog board to Kanban board by assiging the label `BT Integration Kanban`. This is the board which holds all the in-progress work and therefore all the issues in the current miletsone must have this label.
+These issues are then added to the [BT Integrations Planning board](https://gitlab.com/groups/gitlab-com/-/boards/3224617) via label `BT Integrations::Backlog`. Good practice is to use additional labels to define the priority like BT Priority 1, 2, 3 and the nature of work like Field Marketing, Finance Systems or Bug. The board comes in handy while planning for milestones (each of 1 month long) where we know what is to be planned in the current milestone and what goes in the next one as per their priority. [Guide on how to use and plan milestones](#3-milestone-process)
 
-#### SDLC stage - 3
-When the issues are complete, they are either closed or marked with label `BT-Ready For Review`. At this stage, the code is merged in master branch and is ready for pear review.
+#### SDLC stage 3 - Build
+During the build phase, when we plan for the upcoming milestone, issues are transfered from Backlog board to Kanban board by assiging the label `BT Integrations::Kanban`. This is the board which holds all the in-progress work and therefore all the issues in the current miletsone must have this label.
+
+#### SDLC stage 4 & 5 - Test and Deploy
+When the issues are complete, they are either closed or marked with label `BT::Done` or mark the issue merge request as `BT::Ready for Review` . At this stage, the code is merged in master branch and is ready for peer review.
+
+Once reviewed and approved, the merge request is marked `BT::Ready to Deploy`
 
 #### SDLC Flowchart
 
 ```mermaid
 graph TD
-    A[Intake project Epic] -->|After discovery session| B(Epic created in Integration Project)
+    A[Intake Epic] -->|After discovery session| B(Epic created in Integration Project)
     B --> C(epic broken down into sub epics and issues)
     C --> |labels - BT Integrations Backlog, BT Priority 1,2,3|D(issues added to Planning board - work in planning)
     D --> |labels - BT Integrations Kanban, BT Priority 1,2,3, BT-To Do OR in progress|E(Issues added to Kanban Board - work in progress)
@@ -47,25 +62,19 @@ graph TD
 
 | Label                         | Description                                                                                     |      project/group     |  type  |
 | :---------------------------- | :---------------------------------------------------------------------------------------------- | :--------------------: | :----: |
-| BusinessTechnology                   | Business Technology is actively involved                                                                        | gitlab-com, gitlab-org |    - |
-| BT Integration Backlog                       | Add issues to the Planning board              | gitlab-com, gitlab-org |    - |
-| BT Integration Kanban                            | Add issues to the In progress board work                                                                   | gitlab-com, gitlab-org |    - |
-| BT-Status::1-Needs Review    | This has not been looked at.                                                                    | gitlab-com, gitlab-org | scoped |
-| BT-Status::2-Backlog         | This work is in the backlog and will be pulled forward when expedient                           | gitlab-com, gitlab-org | scoped |
-| BT-Status::3-Working         | This work is in progress.                                                                       | gitlab-com, gitlab-org | scoped |
-| BT-Status::4-Change          | This needs a change in order to be approved or merged                                           | gitlab-com, gitlab-org | scoped |
-| BT-Status::5-Needs Info      | This needs information from requestor to move forward                                           | gitlab-com, gitlab-org | scoped |
-| BT-Status::6-On Hold         | This is on hold for a longer period of time                                                     | gitlab-com, gitlab-org | scoped |
-| BT-Status::7-Ready to Deploy | This is ready to be merged or the work executed                                                 | gitlab-com, gitlab-org |    - |
-| BT-Status::8-Denied          | This work is considered incomplete and won't be worked on or will not be worked on at this time | gitlab-com, gitlab-org | scoped |
-| BT-Priority::1               | Critical                                                                                        | gitlab-com, gitlab-org | scoped |
-| BT-Priority::2               | Important not urgent                                                                            | gitlab-com, gitlab-org | scoped |
-| BT-Priority::3               | No rush to do, but please do it.                                                                | gitlab-com, gitlab-org | scoped |
-| BT-To Do                   | This is for work that's not started yet                                                        | gitlab-com, gitlab-org |    - |
-| BT-Blocked                       | This blocks other work                                                                          | gitlab-com, gitlab-org |    - |
-| BT-To In progress                | This is for work that's in progress stage request                                                                                  | gitlab-com, gitlab-org |    - |
-| BT-Done               | This is for work completed by the assignee request                                                                                  | gitlab-com, gitlab-org |    - |
-| Bug               | This is for issues raised in the delivered work request                                                                                  | gitlab-com, gitlab-org |    - |
+| BusinessTechnology                   | Business Technology is actively involved                                                                        | gitlab-com |    - |
+| BT Integrations::Backlog                       | Add issues to the Planning board              | gitlab-com |    - |
+| BT Integrations::Kanban                            | Add issues to the In progress board work                                                                   | gitlab-com |    - |
+| BT-Priority::1               | Critical                                                                                        | gitlab-com | scoped |
+| BT-Priority::2               | Important not urgent                                                                            | gitlab-com | scoped |
+| BT-Priority::3               | No rush to do, but please do it.                                                                | gitlab-com | scoped |
+| BT::To Do                   | This is for work that's not started yet                                                        | gitlab-com| scoped |
+| BT::Blocked                       | This blocks other work                                                                          | gitlab-com | scoped |
+| BT::In Progress                | This is for work that's in progress stage request                                                                                  | gitlab-com | scoped |
+| BT::Done               | This is for work completed by the assignee request                                                                                  | gitlab-com | scoped |
+| BT::Ready to Deploy                | This is for merge request ready to be deployed in master request                                                                                  | gitlab-com | scoped |
+| BT::Ready for Review                | This is for merge request ready for team memeber review request                                                                                  | gitlab-com | scoped |
+| Bug               | This is for issues raised in the delivered work request                                                                                  | gitlab-com | scoped |
 
 
 #### Issue Weights
