@@ -133,13 +133,15 @@ In Japan, for a team member to qualify for subsidized day care, they need to dem
 
 
 ## Name Change
-{: #name-change}
 
-To initiate a change in name please complete the following:
+Our HRIS (human resource management system) is BambooHR and it is our Single Source of Truth for team member personal information, including your [Legal Name](https://en.wikipedia.org/wiki/Legal_name). To initiate a request to have your legal name changed in BambooHR, please complete the following:
 
 - Team member: Open an access request issue following our [handbook instructions](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) to request to change your name and all other applicable systems.
-- Team member: Email people-connect@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested name.
-- People Experience: Update Name in BambooHR 
+- Team member: Email people-connect@gitlab.com, total-rewards@gitlab.com, and payroll@gitlab.com linking your access request issue and including legal documents with proof of your requested new name. Legal documents will be reviewed on a case-by-case basis and People Ops will request additional documentation if warranted. 
+    - For US-based team members, an updated Social Security card is preferrable.
+       - We ask for an updated Social Security card to insure tax records and payroll are aligned. 
+    - For non-US team members, please provide a legal document showing your new name, with the approving regional or federal goverment listed.
+- People Experience: Update Name in BambooHR. 
 - People Experience: Update email adress in BambooHR and this will sync to Okta and GSuite.
 - People Experience: Update the name in Slack.
 - People Experience: Create an MR to update the Team Page with the new name, new GitLab username, as well as any direct reports with the new GitLab username. Ensure to rename the team members image file with the new name as well. 
