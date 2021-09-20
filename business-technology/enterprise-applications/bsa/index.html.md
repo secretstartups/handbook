@@ -104,7 +104,7 @@ Depending on the complexity and urgency of the request, the BSA will either trac
 ### Project Epics
 The Enterprise Application BSA team is responsible for creating project Epics and ensuring that they are regularly updated at each stage of the project. Projects consist of 6 Epics and a Change Management Issue. A single parent Epic is created with 5 children Epics that represent each phase of the project.
 
-![projects](/onboarding/project_stages.jpeg)
+![projects](/handbook/business-technology/enterprise-applications/bsa/onboarding/project_stages.jpeg)
 
 ### Phase Exit Criteria
 #### DEFINE
