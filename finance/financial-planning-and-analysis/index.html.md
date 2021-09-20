@@ -10,7 +10,7 @@ title: "Financial Planning & Analysis"
 - TOC
   {:toc .hidden-md .hidden-lg}
 
-## Financial Planning & Analysis @ GitLab
+## Financial Planning & Analysis at GitLab
 
 ## Common Links
 
@@ -23,7 +23,7 @@ title: "Financial Planning & Analysis"
 - [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
 - [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
-## What is purpose of FP&A @ GitLab?
+## What is purpose of FP&A at GitLab?
 
 1. Facilitate aligned cross-functional execution of GitLab's [strategy](/company/strategy/)
 2. Bring predictability and operational rigor to GitLab
@@ -43,17 +43,17 @@ title: "Financial Planning & Analysis"
    - Analytics
    - Education
 
-## GitLab's Board Plan and Forecasting Process
+## GitLab's Plan and Forecasting Process
 
 ### Definitions
 
-#### Long Range Numbers
+#### Strategic Outlook
 
 Purpose: Identify and agree on long-term investments and capabilities that will position GitLab for success over the long-term. Determine whether near-term priorities and funding need to change in order to achieve long-term goals and financial targets.
 
-What: The Long Range Plan (LRP) is a three to five year strategic and financial plan:
+What: The Strategic Outlook is a three to five year strategic and financial plan:
 - Strategic plan: Refresh and reaffirm company's [three year strategy](https://about.gitlab.com/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
-- Financial plan: Set the financial envelope needed to achieve GitLab's LT targets, including bookings, revenue, P&L and cash metrics. Ensure healthy tension between funding investment needs and fiscal discipline / company efficiency.
+- Financial plan: Set the financial envelope needed to achieve GitLab's long-term targets, including bookings, revenue, P&L and cash metrics. Ensure healthy tension between funding investment needs and fiscal discipline / company efficiency.
 
 Principles:
 - Focus on identifying drivers which would bend or shift growth curves, for both top-line and expense
@@ -61,23 +61,23 @@ Principles:
 - Cross-functional leadership buy-in required; not a finance-only numbers exercise
 - Public company benchmarking drive decisions around GitLab long-term targets
 
-Governance: The LRP is reviewed and discussed by the board of directors every year.
+Governance: The Strategic Outlook is reviewed and discussed by the board of directors every year.
 
-#### Street Model
+#### Model
 
-What: The Street Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
+What: The Model is a three statement excel model that we will use to guide Wall Street on a quarterly and annual basis.
 
-Governance: Street model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and eGroup. Reviewed by the Board of Directors.
+Governance: Model in the form of company guidance will be prepared by corporate finance, signed off on by CFO and e-group. Reviewed by the Board of Directors.
 
-#### Board Plan
+#### Plan
 
-Purpose: GitLab's Board Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
+Purpose: GitLab's Plan identifies GitLab's company goals for the next year and strategies for achieving them. Provide guidelines to understand how much capital is needed to achieve these goals.
 
-What: The Board Plan includes the annual strategy, business Plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Board Plan is a three statement (Income Statement, Balance Sheet and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off 90% confidence bookings plan and expenses are planned at the headcount and vendor level. The Board Plan is a 90% confidence Plan and expenses for R&D and G&A are based on the revenue in the Plan. Expenses for sales are based on capacity to achieve Company Target (below).
+What: The Plan includes the annual strategy, business plans/budgets for each function, plans for how we will achieve our key metrics and forecasts for all of our key metrics. The Plan is a three statement (Income Statement, Balance Sheet, and Statement of Cashflow), non-GAAP bottoms-up plan that spans the current fiscal year. The revenue is forecast off 90% confidence bookings plan and expenses are planned at the headcount and vendor level. The Plan is a 90% confidence plan and expenses for R&D and G&A are based on the revenue in the Plan. Expenses for sales are based on capacity to achieve Company Target (below).
 
-Governance: The Board Plan is approved by the board of directors every year.
+Governance: The Plan is approved by the board of directors every year.
 
-#### Company Target
+#### Target
 
 Purpose: Build a go-to-market business plan to achieve the company's tops-down target.
 
@@ -85,21 +85,21 @@ What: This is the plan with Targets for bookings and revenue at a 50% confidence
 
 #### Actuals
 
-What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Board Plan, Target and our forecasts.
+What: Actuals are results that have been reported or exist in a system that is designated as a single source of truth for the item that is being measured. Each month accounting closes the month and financial results are recorded in our ERP system and are published in our financial statements. These actuals are compared to the Plan, Target, and our forecasts.
 
-#### Monthly Forecast
+#### Forecast at `CYyyyy-mm`
 
 Purpose: In a dynamic high-growth business, GitLab's needs may change through the year and we need to be able to predict what is going to happen.
 
-What: Forecast is a dynamic assessment based on current expectations of financial performance. The FP&A team will publish a monthly forecast for revenue driven by bookings and expenses driven by headcount and vendors. A monthly forecast does not extend the forecast period. For example in March 2020, the forecast will span from February 2020 to January 2021 with February actuals and March 2020 to January 2021 forecast - this will be called the (1+11) forecast. A monthly forecast will not be formally compared to actuals in variance.
+What: Forecast is a dynamic assessment based on current expectations of financial performance. The FP&A team will publish a monthly forecast for revenue driven by bookings and expenses driven by headcount and vendors. A monthly forecast does not extend the forecast period. For example in March 2020, the forecast will span from February 2020 to January 2021 with February actuals and March 2020 to January 2021 forecast — this will be called the (1+11) forecast. A monthly forecast will not be formally compared to actuals in variance.
 
-Governance: The monthly forecast is approved by VP Finance and reviewed with CFO.
+Governance: The Forecast at `CYyyyy-mm` is approved by VP Finance and reviewed with CFO.
 
-#### Quarterly Forecast (Rolling four quarters)
+#### Forecast at `FYyy-Qx` (Rolling four quarters)
 
 Purpose: In a dynamic high-growth business, GitLab's needs may change through the year and we need a guidepost to hold business leaders accountable. We plan our expenses at a high level (e-group) and we expect this group to make prioritizations and trade-offs while remaining accountable against the plan parameters. By formally reforecasting quarterly, we can quickly evaluate and incorporate new initiatives into our forecasting model. That being said, we do follow an annual plan to set our goals and measurement for our top-level targets of revenue, profitability and expense management.
 
-What: Forecast is a dynamic assessment based on current expectations of financial performance. The (3+9), (6+6) an (9+3) quarterly forecasts include revenue driven by key metrics and expenses driven by headcount and vendors. On the quarterly forecast another quarter will be added to the end of the forecast period so that we have a valid rolling four quarters. For example in May of 2020 we will forecast from Feb 2020 to April 2021 adding FY22-Q1 with FY21-Q1 (Feb 2020-Apr 2020) as actuals. The team may go out farther to the end of the next fiscal year.
+What: Forecast at `FYyy-Qx` is a dynamic assessment based on current expectations of financial performance. The (3+9), (6+6), and (9+3) quarterly forecasts include revenue driven by key metrics and expenses driven by headcount and vendors. On the quarterly forecast another quarter will be added to the end of the forecast period so that we have a valid rolling four quarters. For example in May of 2020 we will forecast from Feb 2020 to April 2021 adding FY22-Q1 with FY21-Q1 (Feb 2020-Apr 2020) as actuals. The team may go out farther to the end of the next fiscal year.
 
 Governance: The quarterly rolling forecast is approved by the eGroup and CEO and reviewed with the board of directors. eGroup will be held accountable to the quarterly rolling forecast for expenses. For revenue the company will always be held accountable to Plan.
 
@@ -123,7 +123,7 @@ Governance: The quarterly rolling forecast is approved by the eGroup and CEO and
 
 ![alt text](/handbook/finance/financial-planning-and-analysis/financial-workflow.png "Operating Model")
 
-## Planning process @ GitLab
+## Planning process at GitLab
 
 - Planning begins with an annual planning process that drives the annual board approved budget.
 - Every month as part of the close process the team will generate a monthly forecast
@@ -428,7 +428,7 @@ GitLab provides our investors updated information on the state of the business o
 
 ---
 
-### Budgeting @ GitLab
+### Budgeting at GitLab
 
 GitLab uses several different methods to budget specific revenue and expenses. During the Rolling 4 Quarter Forecast planning process GitLab may use one of the following methods to allocate revenue or expenses.
 
