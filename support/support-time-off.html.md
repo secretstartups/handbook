@@ -34,7 +34,7 @@ possible for everyone to take their desired days off. As you look to plan your
 time off, please:
 
 - ensure you know the [company wide paid time off guidelines](/handbook/paid-time-off/#a-gitlab-team-members-guide-to-time-off)
-- consider a different time off schedule if your regional capacity
+- consider a different time off schedule if your regional capacity 
   calendar shows that on any of the days you would be absent the regional team
   would be short by 20% or more of its people
 - schedule your time off as far in advance as you can, especially for days that
@@ -126,10 +126,19 @@ Groom your queue before going on PTO. As guidelines cannot cover every case, thi
 1. Change your workflow in advance of your absence:
   1. A week in advance: Start thinking about whether you may need to hand off tickets, and pair with others to get them up to speed.
   1. Two to three days in advance: stop taking new tickets.
-   1. Work to resolve and close as many of your assigned tickets as possible
-   1. Contribute more to other people's tickets - internal comments, pairing
+   1. work to resolve and close as many of your assigned tickets as possible
+   1. contribute more to other people's tickets - internal comments, pairing
       sessions - to make up for not taking new tickets of your own
-1. Hand over your assigned tickets by following the [OOO handover workflow](/handbook/support/workflows/ooo-handover.html)
+1. Find a new assignee for your tickets
+
+   For all tickets, find a new assignee, and if possible review the tickets with them before
+   reassigning.
+   If you can't find someone to take one or more tickets, ask a manager to help.
+   If you and the manager fail to find someone for any given ticket, as a last resort,
+   you can 'unassign' yourself by assigning it to a 'group' ('Support EMEA', 'Support APAC', 'Support AMER').
+   If the user has specified a preferred region, select the corresponding group.
+   Otherwise, select any group - the ticket will still be visible for all Support Engineers.
+   Ensure to follow the internal note process described above so that the next engineer can come up to speed quickly.
 1. Update your [GitLab status](https://docs.gitlab.com/ee/user/profile/index.html#set-your-current-status) to ensure you're not auto-assigned to GDPR requests:
 
    - The status text should contain one of the following strings: 'OOO', 'PTO', 'Parental Leave', or 'Friends and Family'
