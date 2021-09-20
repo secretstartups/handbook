@@ -181,7 +181,8 @@ If you haven't created a role based entitlement template for a role you are hiri
 
 #### How can I create a new AR using a baseline template? 
 
-Please use the following steps only in the following situations: A new team member is onboarding and their access request wasn't created OR a current team member is moving to another position internally {: .alert .alert-gitlab-orange}
+Please use the following steps only in the following situations: A new team member is onboarding and their access request wasn't created OR a current team member is moving to another position internally 
+{: .alert .alert-gitlab-orange}
 
 All existing role based entitlement templates can be found in [this list](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks). The templates are organized by department. Once you have found the template you would like to use:
 
