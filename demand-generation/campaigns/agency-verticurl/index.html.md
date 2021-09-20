@@ -166,10 +166,23 @@ The FMC resources can be found [here](/handbook/marketing/demand-generation/camp
 
 FMC DRI - Helena Dixon. 
 
-### FMC Duties 
-Helena to add 
+### Vericurl FMC Duties 
+1. Verticurl FMC reviews Field Marketing Issues
+1. Verticurl FMC creates the epic and sub-issues 
+
 
 ### FMC Triage Steps
-Helena to add  if its different 
+1. **GitLab**: FMM moves the Field Marekting issue to `mktg-status::wip`. The Event details and FMC Checklist must be filled out in full and line item complete in Allocadia to an issue to WIP).
+1. **GitLab**: FMM pings the FMC in the FIeld Marketing issue to request epic and sub issue creation.
+1. **GitLab**: EMEA FMC reviews Field Marekting Issue, confirms the campaign tag or Allocadia ID has been created and adds in the allocadia line item to the event details.
+1. **GitLab**: EMEA FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue and `@helenadixon` will assign issue to a Verticurl FMC DRI (Directly Responsible Individual)
+1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete
+1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this list of epics. 
+1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the internal calendar.
+1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
+1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
+1. **GitLab**: EMEA FMC will change label `FMM-Verticrul::review` to the Field Marketing Issue
+
+
 
 
