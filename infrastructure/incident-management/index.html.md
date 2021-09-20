@@ -164,12 +164,14 @@ CMOC coverage in APAC hours does not include the weekends. 24x7 coverage for CMO
 Saturday / Sunday 00:00 - 08:00 UTC does not currently have CMOC coverage.
 
 ### Corrective Actions
-Corrective Actions (CAs) are work items that we create as a result of an incident. They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence.
+Corrective Actions (CAs) are work items that we create as a result of an incident. Only issues arising out of an incident should receive the label "corrective action". They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence and as such are part of the Incidence Management cycle.
 
-Corrective Actions should be related to the incident issue to help with downstream analysis.
+Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue. 
 
 ##### Best practices and examples, when creating a Corrective Action issue:
 - They should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant and Time-bounded.
+- Link to the incident they arose from.
+- Be assigned a Sev label designating the urgency of the issue completion date.
 - Avoid creating CAs that:
   - Are too generic (most typical mistake, as oposed to Specific)
   - Only fix incident symptoms.
