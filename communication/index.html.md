@@ -193,7 +193,7 @@ To learn more on when to use asynchronous and synchronous communication, example
 1. It is perfectly fine to create a channel, even for a single customer meeting. These channels should be named "a\_<customer-name>-internal" to indicate their "internal" nature (not shared with customers).
 1. Use [low-context communications](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures) by being explicit in your communications. We are a remote-only company, located all over the world. Provide as much context as possible to avoid confusion. Relatedly, we use [ubiquitous language](#ubiquitous-language) for communication efficiency.
 1. When discussing concepts, be careful not to lean too much into hypotheticals. There is a tipping point in which it decreases value and no longer becomes constructive at helping everyone come into a unified decision.
-1. Consult our [tips for better writing](/company/culture/all-remote/effective-communication/#tips-for-better-writing/).
+1. Consult our [tips for better writing](/company/culture/all-remote/effective-communication/#tips-for-better-writing).
 
 ### How to make a Company wide Announcement
 
