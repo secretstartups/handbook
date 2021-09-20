@@ -20,7 +20,7 @@ title: "Financial Planning & Analysis"
 - [Sales Finance](/handbook/finance/financial-planning-and-analysis/Sales-Finance)
 - [Marketing Finance](/handbook/finance/financial-planning-and-analysis/Marketing-Finance)
 - [R&D Finance](/handbook/finance/financial-planning-and-analysis/R-and-D-Finance)
-- [FP&A Job Ladder](https://about.gitlab.com/job-families/finance/finance-planning-and-analysis/)
+- [FP&A Job Ladder](/job-families/finance/finance-planning-and-analysis/)
 - [Adaptive Insights](/handbook/finance/financial-planning-and-analysis/adaptive-insights)
 
 ## What is purpose of FP&A at GitLab?
@@ -52,7 +52,7 @@ title: "Financial Planning & Analysis"
 Purpose: Identify and agree on long-term investments and capabilities that will position GitLab for success over the long-term. Determine whether near-term priorities and funding need to change in order to achieve long-term goals and financial targets.
 
 What: The Strategic Outlook is a three to five year strategic and financial plan:
-- Strategic plan: Refresh and reaffirm company's [three year strategy](https://about.gitlab.com/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
+- Strategic plan: Refresh and reaffirm company's [three year strategy](/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
 - Financial plan: Set the financial envelope needed to achieve GitLab's long-term targets, including bookings, revenue, P&L and cash metrics. Ensure healthy tension between funding investment needs and fiscal discipline / company efficiency.
 
 Principles:
@@ -564,7 +564,7 @@ An area of special expertise or responsibility within a GitLab division.
 
 ## Adaptive Insights
 
-We produce all our forecasts and plan within Adaptive Insights. To see more details, [see here](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/adaptive-insights/)
+We produce all our forecasts and plan within Adaptive Insights. To see more details, [see here](/handbook/finance/financial-planning-and-analysis/adaptive-insights/)
 
 ## Allocation Methodology
 
