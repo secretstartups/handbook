@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 16 | No planned session | N/A |
 | Sep 23 | TBD | TBD |
 | Sep 30 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood |
 | Oct 7  | DevSecOps | Cindy Blake, Agnes Oetama |
