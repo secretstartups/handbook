@@ -96,7 +96,7 @@ If there is any customer contact regarding an incident regardless of severity, y
 
 Tagging tickets can be done throughout the incident process but the CMOC should check the queue for accurate tagging during the incident resolution stage. The tagging of tickets is useful for gauging support impact, ease of finding related tickets for active incident troubleshooting, and ease of finding related tickets for historical reference.
 
-For details on tagging and tracking incidents, please see [Tracking Incidents](handbook/support/workflows/tracking_incidents.html) workflow.
+For details on tagging and tracking incidents, please see [Tracking Incidents](tracking_incidents.html) workflow.
 
 ### Reviewing Past Incidents
 
