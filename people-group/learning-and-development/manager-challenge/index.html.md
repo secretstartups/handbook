@@ -13,7 +13,7 @@ title: Manager Challenge
 
 Welcome to the GitLab Manager Challenge page. The Learning and Development Team has iterated on the program and designed a new curriculum that incorporates elements of [Leadership](/handbook/leadership/) and the book [High Output Management](/handbook/leadership/#books/). 
 
-L&D will be rolling out a new iteration of the program following the GitLab Contribute event in September. The next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. **Currently, the program is being offered to GitLab team members only.**
+L&D will be rolling out a new iteration of the program and the next Manager Challenge will start on 2021-10-18 to 2021-10-29. If you are interested in participating in October, you can [sign up on this issue](https://gitlab.com/gitlab-com/people-group/learning-development/challenges/-/issues/67). Aspiring managers are welcome to sign up for the program, however, seats will be prioritized for current people leaders with direct reports. **Currently, the program is being offered to GitLab team members only.**
 
 ### Leadership Development Award   
 
