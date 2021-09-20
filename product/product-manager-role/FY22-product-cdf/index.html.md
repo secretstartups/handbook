@@ -88,7 +88,6 @@ Product Managers must be able to demonstrate a variety of skills across our CDF.
 - [Competitive Analysis](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-competitive-analysis)
 - [Relationships with Customers](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-relationships-with-customers)
 
-
 ### Thought Leadership 
 
 - [Product management thought leadership](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#product-management-thought-leadership)
