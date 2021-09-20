@@ -72,13 +72,35 @@ Product Managers must be able to demonstrate a variety of skills across our CDF.
 
 ### Product Roadmap Vision & Execution 
 
+- [Iteration](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-iteration)
+- [Jobs to Be Done](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-jobs-to-be-done)
+- [Lean Product Development](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-lean-product-development)
+- [User Stories](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-user-stories)
+- [Backlog Management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-backlog-management)
+- [KPIs and Metrics](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-kpis-and-metrics)
+- [Product Strategy](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-product-strategy)
+
 ### Sensing Mechanisms 
+
+- [User Research](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-user-research)
+- [Customer Interviewing](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-customer-interviewing)
+- [Design](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-design)
+- [Competitive Analysis](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-competitive-analysis)
+- [Relationships with Customers](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-relationships-with-customers)
 
 ### Thought Leadership 
 
+- [Product management thought leadership](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#product-management-thought-leadership)
+
 ### Aligning Teams with Values 
 
+- [Leadership and influence](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-leadership-and-influence)
+- [Communicating to inspire, align, and activate](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-communicating-to-inspire-align-and-activate)
+- [Cross-functional team management](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-cross-functional-team-management)
+
 ### Product Led Growth 
+
+- [Growth, Product-led Growth, and Experimentation](https://about.gitlab.com/handbook/product/product-manager-role/learning-and-development/#-growth-product-led-growth-and-experimentation)
 
 #### Contributing to our PM Competencies
 
