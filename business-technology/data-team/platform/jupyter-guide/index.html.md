@@ -27,12 +27,14 @@ You have two options when setting up jupyter via the data-science project. Choos
 
 ### Installation Instructions
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
-1. Run `cd data-science`
-1. Based on which version you would like to install, run one of the following:
+2. Run `cd data-science`
+3. Based on which version you would like to install, run one of the following:
     - For full install: run `make setup-jupyter-local`
     - For lightweight install: run `make setup-jupyter-local-no-conda` 
-1. Run `make jupyter-local`
-1. Jupyter should launch automatically. If it does not, first make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). Then, in Chrome, copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
+4. Run `make jupyter-local`
+5. Jupyter should launch automatically. If it does not: 
+   1. First make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). 
+   2. Then, in Chrome, copy paste the url and token found in terminal once the docker image creates. It should look something like `http://127.0.0.1:8888/lab?token=5c7f7da79f4a0968501f087f3c79ee4dd8bd7a63e0f088a8`. The token will change each time you spin up the docker container.
 
 #### Connecting to Snowflake
 1. Make sure you have setup a `{User}/.dbt/profiles.yml` file which **does not** include your password. You can use the example provide [here](https://gitlab.com/gitlab-data/analytics/-/blob/master/admin/sample_profiles.yml) as reference
@@ -62,6 +64,7 @@ By default, the local install will use the data-science folder as the root direc
 - The data-science repo contains comes with many useful Jupyter Lab extensions pre-installed, including [git](https://github.com/jupyterlab/jupyterlab-git), [variable inspector](https://github.com/lckr/jupyterlab-variableInspector), [collapsible headings](https://github.com/aquirdTurtle/Collapsible_Headings), [execute time](https://github.com/deshaw/jupyterlab-execute-time), and [system monitor](https://github.com/jtpio/jupyterlab-system-monitor). 
 - To get the most out of these (and to avoid haing to configure them every time), create the following file: `/Users/{user}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
 - Within that file, paste the following and save: 
+
 ```
 {
     "codeCellConfig": {
