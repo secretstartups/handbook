@@ -29,8 +29,8 @@ You have two options when setting up jupyter via the data-science project. Choos
 1. Clone the repo to your local machine `git clone git@gitlab.com:gitlab-data/data-science.git`
 2. Run `cd data-science`
 3. Based on which version you would like to install, run one of the following:
-    - For full install: run `make setup-jupyter-local`
-    - For lightweight install: run `make setup-jupyter-local-no-conda` 
+    - **_For full install_**: run `make setup-jupyter-local`
+    - **_For lightweight install_**: run `make setup-jupyter-local-no-conda` 
 4. Run `make jupyter-local`
 5. Jupyter should launch automatically. If it does not: 
    1. First make sure that Google Chrome is your default browser (go to "System Preferences", click "General" and choose Google Chrome from dropdown menu in section "Default web browser"). 
@@ -44,25 +44,22 @@ You have two options when setting up jupyter via the data-science project. Choos
 
 #### Mounting a local directory
 By default, the local install will use the data-science folder as the root directory for jupyter. This is not terribly useful when all your code, data, and notebooks are in other locations on your computer. To change, this you will need to create and modify a jupyter notebook config file:
-1. Run `jupyter-lab --generate-config` 
-1. This writes a file to /Users/{user}/.jupyter/jupyter_lab_config.py
+1. Run `jupyter-lab --generate-config`. This creates the file `/Users/{user}/.jupyter/jupyter_lab_config.py`
 1. Browse to the file location and open it in an Editor
-1. Search for the following line in the file: #c.ServerApp.root_dir = ''
-1. Replace by c.ServerApp.root_dir = '/the/path/to/other/folder/'. If unsure, set the value to your repo directory (i.e. c.ServerApp.root_dir = '/Users/{user}/repos')
-1. Make sure you use forward slashes in your path and use /home/user/ instead of ~/ for your home directory, backslashes could be used if placed in double quotes even if folder name contains spaces as such : `\yourUserName\Any Folder\More Folders\`
-1. Remove the # at the beginning of the line to allow the line to execute
+1. Search for the following line in the file: `#c.ServerApp.root_dir = ''` and replace with `c.ServerApp.root_dir = '/the/path/to/other/folder/'`. If unsure, set the value to your repo directory (i.e. `c.ServerApp.root_dir = '/Users/{user}/repos'`). Make sure you remove the `#` at the beginning of the line.
+1. Make sure you use forward slashes in your path. Backslashes could be used if placed in double quotes, even if folder name contains spaces as such as `\yourUserName\Any Folder\More Folders\`
 1. Rerun `make jupyter-local` from the data-science directory and your root directory should now be changed to what you specified above. 
 
 #### Increasing Docker Memory Allocation
-- By default, docker will allocate 2GB of memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the docker memory allocation to avoid out-of-memory errors.
+By default, docker will allocate 2GB of memory to run containers. This is likely not enough RAM to work with jupyter and python, as data is held in-memory. It is recommended you increase the docker memory allocation to avoid out-of-memory errors.
 1. Open Docker dashboard.
 1. Click on the gear icon in the upper right to show settings.
 1. Under "Resources" allocate additional memory to be used by Docker. 8GB is recommended but you may have to increase it futher if working with large datasets.
 1. Restart Docker. 
 
 #### Setting Up Jupyter Extensions
-- The data-science repo contains comes with many useful Jupyter Lab extensions pre-installed, including [git](https://github.com/jupyterlab/jupyterlab-git), [variable inspector](https://github.com/lckr/jupyterlab-variableInspector), [collapsible headings](https://github.com/aquirdTurtle/Collapsible_Headings), [execute time](https://github.com/deshaw/jupyterlab-execute-time), and [system monitor](https://github.com/jtpio/jupyterlab-system-monitor). 
-- To get the most out of these (and to avoid haing to configure them every time), create the following file: `/Users/{user}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
+- The data-science repo comes with many useful Jupyter Lab extensions pre-installed, including [git](https://github.com/jupyterlab/jupyterlab-git), [variable inspector](https://github.com/lckr/jupyterlab-variableInspector), [collapsible headings](https://github.com/aquirdTurtle/Collapsible_Headings), [execute time](https://github.com/deshaw/jupyterlab-execute-time), and [system monitor](https://github.com/jtpio/jupyterlab-system-monitor). 
+- To get the most out of these (and to avoid having to configure them every time you run the container), create the following file: `/Users/{user}/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings`
 - Within that file, paste the following and save: 
 
 ```
