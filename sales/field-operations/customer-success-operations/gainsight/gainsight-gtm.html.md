@@ -164,17 +164,17 @@ To see a complete list of fields that are synced back from Gainsightto Salesforc
 
 Gainsight syncs any updates, new customer accounts, and more up into Gainsight first before pushing information back to Salesforce.
 
-| Rule                                   | Rule Type              | Time        | Day Type |   |   |   |   |
-|----------------------------------------|------------------------|-------------|----------|---|---|---|---|
-| User, Company, and Company Person sync | Connector 2.0          | 12:00AM PST | Daily    |   |   |   |   |
-| Admin Daily - Load to Company          | Gainsight Rules Engine | 3:00AM PST  | Daily    |   |   |   |   |
-| Admin Daily - Stage Adoption           | Gainsight Rules Engine | 3:30AM PST  | Daily    |   |   |   |   |
-| Scorecard Rules                        | Gainsight Rules Engine | 4:00AM PST  | Daily    |   |   |   |   |
-| CTAs - Daily                           | Gainsight Rules Engine | 4:30AM PST  | Daily    |   |   |   |   |
-| Bi-directional Builds - Weekday        | Gainsight Rules Engine | 5:00AM PST  | Weekday  |   |   |   |   |
-| Push to SFDC - Weekday                 | Gainsight Rules Engine | 5:30AM PST  | Weekday  |   |   |   |   |
-| Push to SFDC - Weekend                 | Weekend                | 9:00AM PST  | Weekend  |   |   |   |   |
-| Bi-directional Builds - Weekend        | Weekend                | 8:00AM PST  | Weekend  |   |   |   |   |
+| Rule                                   | Rule Type              | Time        | Day Type |
+|----------------------------------------|------------------------|-------------|----------|
+| User, Company, and Company Person sync | Connector 2.0          | 12:00AM PST | Daily    |
+| Admin Daily - Load to Company          | Gainsight Rules Engine | 3:00AM PST  | Daily    |
+| Admin Daily - Stage Adoption           | Gainsight Rules Engine | 3:30AM PST  | Daily    |
+| Scorecard Rules                        | Gainsight Rules Engine | 4:00AM PST  | Daily    |
+| CTAs - Daily                           | Gainsight Rules Engine | 4:30AM PST  | Daily    |
+| Bi-directional Builds - Weekday        | Gainsight Rules Engine | 5:00AM PST  | Weekday  |
+| Push to SFDC - Weekday                 | Gainsight Rules Engine | 5:30AM PST  | Weekday  |
+| Push to SFDC - Weekend                 | Weekend                | 9:00AM PST  | Weekend  |
+| Bi-directional Builds - Weekend        | Weekend                | 8:00AM PST  | Weekend  |
 <br>
 
 ## Syncing data from Zendesk to Gainsight
