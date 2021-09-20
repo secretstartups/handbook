@@ -34,6 +34,13 @@ Regardless of the type of issue, please include any relevant information _along_
 
 Please see the product handbook to see [what information product wants us to provide for feature requests](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature)
 
+Optional:
+
+[Search for Zendesk tickets based on the `GitLab Issues` custom field](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html#searching-by-custom-ticket-field). Copy and add the link to the search query as a comment to the issue, specifying that it's an internal link to a ZenDesk search of related tickets. This will give the PM more insight into how many customers have encountered an open bug, or have requested a certain feature.
+ 
+**Note:** To obtain the field ID for the `GitLab Issues` field, you can reference [this repository file](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/-/blob/master/ticket_fields/active/GitLab%20Issues.yaml).
+
+
 ## Adding Labels
 
 Using the appropriate labels is _critical_ to ensuring visibility of issues and to get them on relevant PM's radar.
