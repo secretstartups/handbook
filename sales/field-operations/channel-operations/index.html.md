@@ -217,6 +217,10 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
 - Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #channel-programs-ops Slack channel.
 
+### Legal Requests for Partner Contracts**
+
+The process to request the [legal team’s involvement in partner contracts](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the process for any other legal request.
+
  
 ## Channel Reporting and Tagging
 ![4-Ch_Reporting_Tagging](/handbook/sales/field-operations/channel-operations/images/4-Ch_Reporting_Tagging.png)
