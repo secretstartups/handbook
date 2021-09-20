@@ -37,7 +37,7 @@ We have not yet integrated with the [Core Marketing Site](https://gitlab.com/git
 
 ## Integrations
 
-LogRocket is integrated with Drift and Google Analytics in `source/javascripts/logrocket.js`, and we have the ability to [integrate with many other services](https://docs.logrocket.com/docs/integrations). Salesforce and Qualtrics need to be integrated outside of our codebase.
+We have the ability to [integrate with many of our existing tools](https://docs.logrocket.com/docs/integrations). Currently, our LogRocket has no additional integrations. Some DRI for marketing operations or another relevant area should determine what tools we want to integrate. We have a variety of options built in to the tooling.
 
 ## Privacy
 
