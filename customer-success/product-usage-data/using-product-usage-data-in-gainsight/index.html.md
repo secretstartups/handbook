@@ -130,6 +130,28 @@ Eventually, the metrics list and definitions will be embedded directly in the ha
 
 See our technical documentation for our [instance of Gainsight's Adoption Explorer](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit).
 
+### User and Project Adoption Metrics
+
+Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count.
+
+|               Metric Name               |                                                              Calculation                                                             |
+|:---------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
+| UMAU User %                             | UMAU/billable_user_count                                                                                                             |
+| License Utilization                     | Billable_user_count / Licenses Sold                                                                                                  |
+| UMAU Utilization                        | UMAU/Licenses Sold                                                                                                                   |
+| Create User %                           | SMAU Create/ billable_user_count                                                                                                     |
+| Protect User %                          | SMAU Protect/ billable_user_count                                                                                                    |
+| Secure User %                           | SMAU Secure/ billable_user_count                                                                                                     |
+| Verify User %                           | SMAU Verify/ billable_user_count                                                                                                     |
+| Merge Request User %                    | Merge Requests / billable_user_count                                                                                                 |
+| CI Builds User %                        | CI Builds / billable_user_count                                                                                                      |
+| Auto Devops Projects %                  | counts.auto_devops_enabled / counts.projects                                                                                         |
+| Package Registry Projects %             | counts.projects_with_packages / counts.projects                                                                                      |
+| Competitor CI Projects %                | (counts.projects_jenkins_active + projects_bamboo_active_all_time_event + projects_drone_ci_active_all_time_event) / counts.projects |
+| Enabled Clusters Projects %             | usage_activity_by_stage_monthly.configure.project_clusters_enabled / counts.projects                                                 |
+| Required Code Owner Approval Projects % | Usage_activity_by_stage_monthly.create.projects_enforcing_code_owner_approval / counts.projects                                      |
+| SMAU Verify Utilization                 | SMAU Verify / Licenses Sold                                                                                                          |
+
 ## Data
 
 ### Data Integrations
