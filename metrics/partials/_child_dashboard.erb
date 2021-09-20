@@ -1,8 +1,9 @@
 <% header = "#{filter_value} #{filter_type.capitalize}" %>
 
-### <%= filter_type == 'stage' ? "<a href='#{filter_value.downcase}'>#{header}</a>" : header %>
+### <%= filter_type == 'stage' ? "Test &nbsp; <a href='#{filter_value.downcase}'>#{drill down}</a>" : header %>
 
-#### <%= header %> development dashboard
+
+#### <%= header %> Development dashboard
 
 <%= partial "handbook/engineering/metrics/partials/dev_dashboard.erb", locals: { filter_type: filter_type_for("dev", filter_type), filter_value: filter_value_for('dev', filter_type, filter_value) } %>
 
@@ -10,7 +11,7 @@
 
 <%= partial "handbook/engineering/metrics/partials/infrastructure_dashboard.erb", locals: { filter_type: filter_type_for("infrastructure", filter_type), filter_value: filter_value_for('infrastructure', filter_type, filter_value) } %>
 
-#### <%= header %> quality dashboard
+#### <%= header %> Quality dashboard
 
 <%= partial "handbook/engineering/metrics/partials/quality_dashboard.erb", locals: { filter_type: filter_type_for("quality", filter_type), filter_value: filter_value_for('quality', filter_type, filter_value) } %>
 
