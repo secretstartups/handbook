@@ -38,6 +38,12 @@ Our long term goal for [GitLab Learn](https://about.gitlab.com/learn/) is to cre
 
 All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values.](https://about.gitlab.com/handbook/values/). The LXP is [team member](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and community driven with content on an open platform for all to consume! 
 
+### Brandon Hall Award
+
+The launch of the GitLab Learn LXP was awarded a Silver Excellence in Learning by the [Brandon Hall Group](http://www.brandonhall.com/excellenceawards/) for the Best Launch of a Corporate Learning University. 
+
+![silver brandon hall group award logo](silver-award.png){: .shadow.medium.center}
+
 #### A note about naming
 
 Review the following terms to get familiar with language used in this documentation.
