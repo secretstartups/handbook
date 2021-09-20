@@ -434,10 +434,6 @@ process. Click the blue `Uninstall` button to confirm.
 
 ### Testing locally
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/TBD" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
 **Note**: This cannot be done if your app is using secure parameters. Instead,
 you would need to install the app into the Sandbox and test from there.
 
@@ -485,7 +481,7 @@ _what they want done in Zendesk_.
 
 All request issues should contain the following labels at creation:
 
-* "Support-Ops-Category::Triggers"
+* "Support-Ops-Category::Apps"
 * A priority label, which is one of:
   * "Support-Ops-Priority::Urgent"
   * "Support-Ops-Priority::High"
@@ -573,7 +569,7 @@ approval has been added, an implementation date can be determined.
 **Note**: All merge requests in the zendesk-triggers repo should contain the
 following labels (the same as with issues):
 
-* "Support-Ops-Category::Triggers"
+* "Support-Ops-Category::Apps"
 * A priority label, which is one of:
   * "Support-Ops-Priority::Urgent"
   * "Support-Ops-Priority::High"
