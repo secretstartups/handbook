@@ -57,6 +57,16 @@ _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open ano
 **Additional Resources:**
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
+**To Request a Legal Review for a Channel Partner Contract**
+
+For Channel and Alliance Partner contract reviews _only_, the process for the legal request is as follows:
+1. Navigate to the partner account record in SFDC.
+2. Click the legal request button.
+3. Choose “Partner Agreement” in the dropdown menu
+4. Follow the process as the system lays out
+
+For any other channel partner legal request, please follow the [standard legal request process](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal).
+
 ## How do I get an Agreement signed
 *Learn about how to get an Agreement Signed; Who can sign on behalf of GitLab*
 
