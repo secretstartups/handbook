@@ -109,7 +109,7 @@ The Editorial team's [goals are to grow our blog audience, engage readers, and c
 
 Areas of focus:
 - Continue to monitor traffic to posts and document takeaways on performance to inform our planning of future posts
-- Continue to document [best practices](/handbook/marketing/inbound-marketing/content/editorialteam/#writing-blog-posts--best-practices) to enable contributors
+- Continue to document [best practices](/handbook/marketing/inbound-marketing/content/editorial-team/#writing-blog-posts--best-practices) to enable contributors
 - Improve SEO in new blog posts and selected past posts
 - Experiment with curated content ("collections" of new and existing content on specific themes)
 - Experiment with editorial-first content (i.e. a journalistic approach to stories and covering industry trends or news that is relevant to our audience, but may not place GitLab front and center)
