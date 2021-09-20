@@ -179,7 +179,9 @@ Role based entitlements are pre-defined groups and system-level access that are 
 
 If you haven't created a role based entitlement template for a role you are hiring for, you'll need to manually create a [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) for your new hire.
 
-#### How can I create a new AR using a template if one wasn't automatically created for my new team member?
+#### How can I create a new AR using a baseline template? 
+
+Please use the following steps only in the following situations: A new team member is onboarding and their access request wasn't created OR a current team member is moving to another position internally {: .alert .alert-gitlab-orange}
 
 All existing role based entitlement templates can be found in [this list](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/tree/master/.gitlab/issue_templates/role_baseline_access_request_tasks). The templates are organized by department. Once you have found the template you would like to use:
 
