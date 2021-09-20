@@ -145,9 +145,11 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. NOW you will navigate to the Campaign in SFDC to do a quick review - [Shortcut to Campaigns](https://gitlab.my.salesforce.com/701/o)
 1. Click into the SFDC campaign
 1. Change the campaign owner to the webcast DRI
+1. Update Large Bucket ([Definitions](https://about.gitlab.com/handbook/marketing/marketing-operations/campaigns-and-programs/#campaign-large-buckets))
 1. Change the status to `in progress`
 1. Edit the `Enable Bizible Touchpoints` field to `Include only "Responded" Campaign Members`
 1. Edit the Budgeted Cost (required) to cost of webcast, or "$1" if there is no cost associated
+1. Update `Region` and `Subregion` if you have the data available
 1. Click save
 
 ### Create webcast in BrightTALK
