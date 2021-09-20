@@ -26,6 +26,8 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **SOPS: [Fortune Ranking automated in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1935#note_680945815)**
 
+**SOPS: [Enterprise ISR Prioritization & Opportunity Tiering](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2240)**
+
 ### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
 **SOPS: [Publicly Accessible Chorus Recordings](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)**
