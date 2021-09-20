@@ -57,7 +57,8 @@ More details on definitions of outage, and degradation are on the [incident-mana
 
 | **Year Month** | **Availability** | **Comments** |
 | ---- | ----------- | ---- |
-| 2021 August | TBD |  |
+| 2021 September | TBD |  |
+| 2021 August | 99.86 |  |
 | 2021 July | 99.78% |  |
 | 2021 June | 99.84% |  |
 | 2021 May | 99.85% | does not include manual adjustment for [PostgreSQL 12 Upgrade](https://gitlab.com/gitlab-com/gl-infra/production/-/issues/4037) |
