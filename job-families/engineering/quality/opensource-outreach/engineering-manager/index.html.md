@@ -31,7 +31,7 @@ The Open Source Outreach Engineering Manager manages a team of full-stack engine
 * Track record of contributing to well-known open source projects
 * Computer science education or equivalent experience
 * Proficiency in the English language, with excellent written and oral communication skills
-
+* Experience leading a team following an iterative, agile development process. 
 ### Nice to haves
 * Experience in a peak performance organization
 * BS or MS degree in Computer Science
