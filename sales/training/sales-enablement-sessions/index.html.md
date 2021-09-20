@@ -38,6 +38,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-09-20 | **[NEW DevOps Platform customer deck](https://youtu.be/mtQ1HbnXjb4)** | Private |
 | 2021-09-09 | **[Bitbucket Sales Play](https://youtu.be/SjvL0hyV3Zo)** | Private |
 | 2021-09-02 | **[Verify: Testing Vision & Positioning](https://youtu.be/Zisa9Qfh8v8)** | Public |
 | 2021-08-26 | **[Digital Programs for non-TAM-assigned accounts](https://www.youtube.com/watch?v=_2J71ruCqH8)** | Private |
