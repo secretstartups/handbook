@@ -23,27 +23,48 @@ title: "Integrations SDLC Process"
 
 
 ### SDLC
-The page defines the different workflow stages and artifacts used to define those stages. In here, we use combinations of milestones, boards, epics, issues and labels to manage and plan the work.
+The page defines the different SDLC stages and artifacts delivered at the completion of each stage. We use combinations of milestones, boards, epics, issues and labels to manage, plan and track the work as it flows through the SDLC pipeline.
 
-#### SDLC stage 1 - Intake
-The work lifecycle starts when BSAs create epics/issues in Intake Project and tag integration team for the implementation. 
-Once integration team is onboarded depending upon the size of the project (Small, Medium, large) it traverses through the [project workflow](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues/289) and goes live.
-Labels specific to this stage: `EntApps Intake`
+Note: The Integrations team uses the same project phases as the Enterprise Applications BSAs. Information on the phases can be found [here](../../bsa/#how-we-work)
 
-#### SDLC stage 2 - Design
-During the Design phase of the project, the epic or user stories are created in the [Gitlab.com group](https://gitlab.com/gitlab-com). It describes the unit of work and its acceptance criteria. The epic is then sub divided into issues. 
+#### SDLC Phases
+For each phase, we (the integrations team) require certain additional artifacts in order to exit a phase and enter the next. We also have specific separate locations where we might track progress through a phase.
 
-Issues are the smallest unit of work. They are created in the [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/issues). As a good practice, make sure the merge requests in the Nexus project have issue number in their names. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/merge_requests/25)
+For full information on the EntApps SDLC phases please see the [BSA handbook page](../../bsa/#how-we-work).
 
-These issues are then added to the [BT Integrations Planning board](https://gitlab.com/groups/gitlab-com/-/boards/3224617) via label `BT Integrations::Backlog`. Good practice is to use additional labels to define the priority like BT Priority 1, 2, 3 and the nature of work like Field Marketing, Finance Systems or Bug. The board comes in handy while planning for milestones (each of 1 month long) where we know what is to be planned in the current milestone and what goes in the next one as per their priority. [Guide on how to use and plan milestones](#3-milestone-process)
+##### [Phase 1 - Intake](../../enterprise-applications/bsa/#intake)
+Intake may come directly to the integrations team but may also go through the normal EntApps intake process. In the latter scenario, the BSAs would triage any related work to the Integrations team which is then the first time a project would appear on our radar. 
 
-#### SDLC stage 3 - Build
-During the build phase, when we plan for the upcoming milestone, issues are transfered from Backlog board to Kanban board by assiging the label `BT Integrations::Kanban`. This is the board which holds all the in-progress work and therefore all the issues in the current miletsone must have this label.
+In reality the method with which a project is made known to us can vary from an intake issue, to a slack message, to being invited to a Zoom call. We always strive to convert those initial conversations into an intake issue so as to have that engagement on record.
 
-#### SDLC stage 4 & 5 - Test and Deploy
-When the issues are complete, they are either closed or marked with label `BT::Done` or mark the issue merge request as `BT::Ready for Review` . At this stage, the code is merged in master branch and is ready for peer review.
+##### [Phase 2 - Define](../../enterprise-applications/bsa/#define)
+From an engineering perspective, define is crucial to our project as it's the primary opportunity to surface high-level asks and define scoping and a potential timeline. Oftentimes there is an implicit expectation that all questions will be answered in this phase, unfortunately that's not the case and usually we won't delve into the details of features until the design phase. Please keep in mind that this might be the first time that we collectively have encountered your specific business problem or ask. We will do our best to document as much about the problem as possible and gain a sufficient understanding to effectively develop a solution for you. This phase has a direct impact on almost all subsequent phases and is probably the most crucial in the SDLC process. We may even ask to return to this phase from a future phase if we feel that enough context/information has not been gained in the first pass.
 
-Once reviewed and approved, the merge request is marked `BT::Ready to Deploy`
+The primary artifact of the define phase are user stories, specifications and possibly some engineering prototypes. We would also ask for stakeholder signoff of the user stories and specifications in order to exit this phase.
+
+Another artifact of this phase would be a UAT plan primarily developed by the technical stakeholders. This should include sample input and expected output data for all features as the engineering team will use that for dev testing as well.
+
+> "A user story is a promise for a conversation" - Alistair Cockburn
+
+##### [Phase 3 - Design](../../enterprise-applications/bsa/#design)
+User stories would be converted into sub-epics of the main project with each specification being documented on the epics. These epics will live in the [Gitlab.com group](https://gitlab.com/gitlab-com). The engineering team will create various design documents and break down the specifications into engineering issues. Issues are the smallest unit of work. They are created in the [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/issues)
+
+Note: In order to correctly associate changes to their respective projects; merge requests in the Nexus project must have an issue number in their title. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/merge_requests/25)
+
+These issues are then added to the [BT Integrations Planning board](https://gitlab.com/groups/gitlab-com/-/boards/3224617) via label `BT Integrations::Backlog`. Good practice is to use additional labels to define the priority like BT Priority 1, 2, 3 and the nature of work like Field Marketing, Finance Systems or Bug. The board comes in handy while planning for the engineering [milestones](../how-we-work/#3-milestone-process), because we can select backlog items to bring into current or future milestones based on project and issue priority.
+
+The engineers will also deliver a design document, which will be placed in the [team wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/wikis/integrations-list) before this phase is complete.
+
+A privacy review and Appsec review **MUST** be initiated in this phase at the latest in order for those to be complete before the feature goes live.
+
+##### [Phase 4 - Build](../../enterprise-applications/bsa/#build)
+The engineering issues above once planned into an engineering milestone will be built by the team. The team works on various projects in tandem and as such a milestone may include tasks for multiple different projects. For the most part we try to focus a team member to an individual project so as to reduce distractions and increase delivery efficiency. A project may span multiple one-month milestones or may be limited to just one, it depends a lot on the size of the project. For all projects the team strives to deliver in small batches. What this means is that we will try to constantly deliver small increments to a functioning feature. Production (and staging) deployment does not occur at the end of the project, but rather on a daily basis. This approach ensures that we constantly have a buildable solution ready to deploy at all times and that we avoid a risky "all-in-one" deployment at the end of a project. It also means that we can get continuous feedback from the stakeholders on these partial deliveries and that testing can occur as soon as a feature is working rather than all at the end of a project.
+
+##### [Phase 5 - Test](../../enterprise-applications/bsa/#test)
+This phase is driven by the stakeholders and technically can begin during the build phase as soon as functionality is available for testing. Each of the agreed-upon UAT scenarios should be tested and receive signoff from the stakeholders. Problems that are discovered during UAT testing should be raised as either bugs (incorrectly implemented logic) or change requests (changes to the specifications).
+
+#### [Phase 6 - Deploy](../../enterprise-applications/bsa/#deploy)
+Though deployments have been occurring all through the build and test phases, we treat this phase as the final delivery of an agreed-upon feature to the team. This step will probably involve some final connecting of systems and end-to-end validation of the feature in the full production environment with other systems.
 
 #### SDLC Flowchart
 
@@ -56,7 +77,10 @@ graph TD
     E --> |labels - BT done OR BT Ready for Review|F(issue completion)
 ```
 
-#### SDLC Artifact
+#### SDLC Artifacts
+
+##### Artifact epic & issue templates
+> Coming soon; stay tuned
 
 ##### Labels
 
