@@ -53,15 +53,17 @@ Programs can be any of the following:
 
 ### Program recipients
 
-Customer programs are sent to our GitLab Admin contacts. Monthly newsletters are sent to all accounts, but email programs do _not_ include PubSec accounts.
+Customer programs are primarily sent to our digital-only GitLab Admin contacts. Monthly newsletters are sent to both TAM-assigned and digital-only GitLab Admin contacts.
 
-Programs may also be sent to Sold To contacts, for our web-direct customers using Commercial and Enterprise.
-
-For our TAM-assigned, or digital-only customers, we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
+For our digital-only customers, we require a GitLab Admin contact to be added to the following deals at the time of the opportunity approval submission:
 
 - `New - First Order`
 - `New - Connected`
 - `Growth`
+
+Learn more about the GitLab Admin contact role requirement [here](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required)
+
+Programs may also be sent to Sold To contacts, for our web-direct digital-only customers.
 
 ## GitLab Admin contacts
 
@@ -92,7 +94,7 @@ Programs are available to specific customer types.
 
 ### All-customer programs
 
-The programs below are available to **all customers**.
+The programs below are available to **digital-only customers**.
 
 | Program                         | Category    | Content  | Recipients                                              |
 |---------------------------------|-------------|----------|---------------------------------------------------------|
@@ -121,7 +123,7 @@ The programs below are available to **TAM-assigned accounts** only.
 | NPS/CSAT Post-Onboarding Survey*      |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Customer since = 60 days                |
 | NPS/CSAT Pre-Renewal Survey*          |            | [Issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/228)    | Next renewal date = 120 days            |
 
-_* Monthly newsletters require a GitLab Admin contact_<br>
+_* Monthly newsletters and NPS/CSAT surveys require a GitLab Admin contact_<br>
 
 ## Create or update a program
 
@@ -134,10 +136,11 @@ You may request new programs, such as an email series, contribute to existing pr
 
    - CS Programs Request
    - CS Programs Update Request
+   - Program Webinar Request
 
 1. Fill out as much of the template as possible. Missing information may cause delays.
 
-CS Ops will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
+CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
 
 ## Create a CTA with a Digital Program playbook
 
