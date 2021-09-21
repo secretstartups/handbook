@@ -443,60 +443,8 @@ A high level overview of the contribution process is as follows:
 
 ## Onboarding
 
-All new team members to the Product Intelligence teams are provided two onboarding issues to help ramp up on our analytics tooling. New team member members should create their own onboarding issues in the [gitlab-org/growth/team-tasks project](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues). Note that this template lives in our handbook page instead of inside a GitLab template as it provides better visibility for incoming team members.
+All new team members to the Product Intelligence teams are provided two onboarding issues to help ramp up on our analytics tooling. New team member members should create their own onboarding issues in the [gitlab-org/product-intelligence project](https://gitlab.com/gitlab-org/product-intelligence/-/issues) and use the `service_ping_onboarding` and `snowplow_onboarding` templates.
 
-### Usage Ping Onboarding Template
-
-* Issue Title: Send and receive a Usage Ping from GitLab to Versions app locally
-* Example Issue: [Product Intelligence Usage Ping Onboarding Issue](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/304)
-
-```
-## Overview
-
-The goal of this issue is to introduce you to how usage ping works. Your first task is to locally replicate the sending and receiving of a Usage Ping. In order to do this, you will traverse the gitlab and versions codebases to see how a usage ping is sent and collected.
-
-Please work with your onboarding buddy if you have any questions.
-
-## Steps
-- [ ] Read the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/)
-- [ ] Read the [Usage Ping Guide](https://docs.gitlab.com/ee/development/usage_ping/)
-- [ ] Clone and start https://gitlab.com/gitlab-org/gitlab
-- [ ] Clone and start https://gitlab.com/gitlab-services/version-gitlab-com
-- [ ] Setup versions to listen for incoming usage pings
-- [ ] Point gitlab to the versions endpoint instead of the default endpoint
-- [ ] In gitlab via rails console, manually trigger a usage ping
-- [ ] In versions via rails console, check that a usage ping was successfully received, parsed, and stored in the Versions database.
-- [ ] Notify your manager and onboarding buddy once this issue is complete
-- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review)
-- [ ] Close off this issue
-```
-
-### Snowplow Onboarding Template
-
-* Issue Title: Send and receive Snowplow Events from GitLab to Snowplow Micro
-* Example Issue: [Product Intelligence Snowplow Onboarding Issue](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/316)
-
-```
-## Overview
-
-The goal of this issue is to introduce you to how Snowplow works. Your first task is to locally replicate the sending and receiving of Snowplow events. In order to do this, you will traverse the gitlab and snowplow codebases to see how a snowplow event is sent and collected.
-
-Please work with your onboarding buddy if you have any questions.
-
-## Steps
-- [ ] Read the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/)
-- [ ] Read the [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html)
-- [ ] Clone and start GitLab https://gitlab.com/gitlab-org/gitlab
-- [ ] Clone and read through the readme for Snowplow Iglu https://gitlab.com/gitlab-org/iglu
-- [ ] Clone and start Snowplow Micro https://docs.gitlab.com/ee/development/snowplow/index.html#snowplow-micro
-- [ ] Add a Snowplow event using HAML https://docs.gitlab.com/ee/development/snowplow/index.html#tracking-in-haml-or-vue-templates
-- [ ] Add a Snowplow event using Ruby https://docs.gitlab.com/ee/development/snowplow/index.html#implementing-snowplow-ruby-backend-tracking
-- [ ] Using your browser, navigate to wherever the event was added and trigger all the added Snowplow events (HAML, Ruby)
-- [ ] In Snowplow Micro, ensure all of the above mentioned events are successfully captured as good events in `localhost:9090/micro/good`
-- [ ] Notify your manager and onboarding buddy once this issue is complete
-- [ ] Ask your manager to add you to the [/gitlab-org/growth/product-intelligence/engineers/](https://gitlab.com/groups/gitlab-org/growth/product-intelligence/engineers/-/group_members) so that you can start doing [Product Intelligence reviews](https://docs.gitlab.com/ee/development/usage_ping/#9-ask-for-a-product-intelligence-review)
-- [ ] Close off this issue
-```
 
 ## Quick Links
 
