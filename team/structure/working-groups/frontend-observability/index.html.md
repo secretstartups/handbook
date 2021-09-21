@@ -66,7 +66,6 @@ Ideally the functional lead is someone who is an IC that might be affected by th
 | Functional Lead | Andrew Newdigate | Infrastructure | Distinguished Engineer |
 | Member | José Vargas López | Frontend:Verify::Pipeline Execution | Senior FE Engineer |
 | Member | Thomas Randolph | Frontend:Create::Code Review | Senior FE Engineer |
-| Member | Daniel Fosco | Design:Release::Release | Senior Product Designer |
 | Member | Marius Bobin | Backend:Verify::Pipeline Execution | Backend Engineer |
 | Member | Miguel Rincon | Frontend:Verify::Runner | Senior FE Engineer |
 | Member | Dov Herskhovitch | Product Manager:Verify::Pipeline Authoring | Senior Product Manager |
