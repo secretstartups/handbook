@@ -72,7 +72,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 #### Analytics Projects
 
-* [Propensity to Buy - Account Score](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy---account-score)
+* [Propensity to Buy](/handbook/business-technology/data-team/organization/data-science/#propensity-to-buy)
 
 ### Finance
 
@@ -150,7 +150,6 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 * SM: [Self-Managed aka Self-Hosted](/handbook/marketing/strategic-marketing/dot-com-vs-self-managed/#why-you-probably-want-gitlab-saas)
 * UPA: [Ultimate Parent Account](/handbook/sales/sales-term-glossary/#additional-customer-definitions)
 * xMAU: [x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
-
 
 ### Legend
 
