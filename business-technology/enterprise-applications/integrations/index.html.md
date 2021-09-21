@@ -39,6 +39,13 @@ Slack handle: [@Karuna Singh](https://gitlab.slack.com/team/U01GEHXQZEK){:target
 
 Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
 
+### Dominic Roy-Stang - Integrations Engineer
+GitLab handle: [@droystang](https://gitlab.com/droystang){:target="_blank"}
+
+Slack handle: [@droystang](https://gitlab.slack.com/team/U01JM8ZJUVD){:target="_blank"}
+
+Job Family: [Integrations Engineer](/job-families/finance/integrations-engineer/#integrations-engineer){:target="_blank"}
+
 ### Contacting us
 Slack: `#bt-integrations`
 
