@@ -202,8 +202,8 @@ Exceptional community members may be able to participate, as well.
 | 2021-11-29 | 2021-12-03 | UNAVAILABLE | UNAVAILABLE |
 | 2021-12-06 | 2021-12-10 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2021-12-13 | 2021-12-17 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-| 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) | AVAILABLE - REMOTE |
-| 2022-01-10 | 2022-01-14 | AVAILABLE - REMOTE | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) |
+| 2022-01-03 | 2022-01-07 | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager | AVAILABLE - REMOTE |
+| 2022-01-10 | 2022-01-14 | AVAILABLE - REMOTE | [Josh Zimmerman](https://gitlab.com/Josh_Zimmerman) - Learning & Development Manager |
 | 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
