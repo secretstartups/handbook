@@ -217,9 +217,9 @@ Channel Managers or Sales Reps are responsible for quoting all GitLab direct and
 - If an unauthorized partner would like to transact GitLab products or services, please have them visit the [Partner Portal](https://partners.gitlab.com/) to sign up. Someone who has authority to accept the Agreement is required.
 - Unauthorized partners cannot transact GitLab products and/or services, unless rare but explicit approval is granted by the programs team. Please reach out to the #channel-programs-ops Slack channel.
 
-### Legal Requests for Partner Contracts**
+### Legal Requests for Partner Contracts
 
-The process to request the [legal team’s involvement in partner contracts](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the process for any other legal request.
+The process to request the [legal team’s involvement in partner contracts](https://about.gitlab.com/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract) can be found on the legal team’s handbook page. Please note that the process for getting partner contracts signed is different from the [process for any other legal request](https://about.gitlab.com/handbook/legal/customer-negotiations/#how-to-reach-legal).
 
  
 ## Channel Reporting and Tagging
@@ -481,6 +481,7 @@ For partners that have questions about the contract or need to negotiate terms a
 2. If the decision is to move forward with the partner first check to see if a partner account already exists in Salesforce. If it is a duplicate, request for the accounts to be merged by the Channel Operations team. If the decision is to deny the partner then go to step #7.
 3. To start the contracting process click the Legal Request button in SFDC on the partner account record.
   - Request the appropriate contract addendum (Resale, Referral/Services or both **OR** MSP **OR** OTHER). Default should be Resale and Referral/Services.
+  - The detailed process for a legal request can be found on the [legal team's handbook page](https://about.gitlab.com/handbook/legal/customer-negotiations/#to-request-a-legal-review-for-a-channel-partner-contract).
 4. Once the contract is fully executed and attached to the partner account record in SFDC the following fields need to be updated by the Channel Sales Manager and are required(*) in order to save the account.
   - *Change Partner Status = Authorized.
   - *Select Partner Type.
