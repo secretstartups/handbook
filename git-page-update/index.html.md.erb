@@ -82,7 +82,7 @@ Any of these three options is perfectly suitable, but *you should only choose on
 ### asdf
 
 1. [Follow the asdf installation instructions](https://asdf-vm.com/#/core-manage-asdf). This will install the more general asdf software on your machine.
-1. With asdf installed on your machine, you'll need to add the [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) plugin. Refer to their [install heading](https://github.com/asdf-vm/asdf-ruby#install) for the specific commands. If this is your first time installing a Ruby version manager, you shouldn't need to worry about any additional items in their documentation. The default should just work. 
+1. With asdf installed on your machine, you'll need to add the [asdf-ruby](https://github.com/asdf-vm/asdf-ruby) plugin. Refer to their [install heading](https://github.com/asdf-vm/asdf-ruby#install) for the specific commands. If this is your first time installing a Ruby version manager, you shouldn't need to worry about any additional items in their documentation. The default should just work.
 1. Determine the current ruby version for this project by checking [`.ruby-version`](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.ruby-version).
 1. Execute `asdf install ruby <version-from-.ruby-version>` in your terminal. Replace `<version-from.ruby-version>` with the number in `.ruby-version`, as mentioned in the previous step.
 
@@ -135,6 +135,7 @@ If you ever want to switch between SSH and https, execute `git remote remove ori
 
 1. Execute: `cd www-gitlab-com` to change to the www-gitlab-com directory created when you cloned the repository.
 1. Execute: `bundle install` to install all gem dependencies.
+1. Execute: `yarn install` to install all JavaScript dependencies.
 1. Install additional dependencies [Homebrew, nvm, and yarn](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/development.md). If not installed, step 9 may result in an error. (Note: This step can be skipped if you used the 'single script setup method' above)
 1. Each time you update this repository (`git pull`) new dependencies might be required. You can execute the `bin/doctor` script to check your ruby version, bundle, and yarn, and receive suggestions for updating these.
 
@@ -188,7 +189,7 @@ For more in-depth details on setting up and using the local development environm
 
 We are happy to have you join our company and to include you in our [team page](/company/team/)! [A sync](/handbook/people-group/engineering/onboarding#sync-to-team-page) will add a basic entry for you on our team page on your second day of employment at GitLab. You are invited to personalize this entry and add more information to it.
 
-Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.  
+Ask anyone in the company for help if you need it - you can use either the #mr-buddies or #questions Slack channel for this purpose. There are **three** ways to update the website.
 1. [Add your info on GitLab.com using the Web IDE](https://about.gitlab.com/handbook/git-page-update/#method-1-add-your-info-on-gitlabcom-using-the-web-ide)
 2. [Add your info on GitLab.com using the 'web interface'](https://about.gitlab.com/handbook/git-page-update/#method-2-add-your-info-on-gitlabcom-using-the-web-interface)
 3. [Add your info using a Local Git clone (using the terminal and an IDE)](https://about.gitlab.com/handbook/git-page-update/#method-3-add-your-info-using-a-local-git-clone-using-the-terminal-and-an-ide)
@@ -216,16 +217,16 @@ Choose the method below that feels most comfortable and have the following infor
 
 <figure class="video_container"><iframe src="https://www.youtube.com/embed/J0uZYxGGerE" width="560" height="315"></iframe></figure>
 
-  1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` on BambooHR for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name. 
+  1. Go to the [Team page](https://about.gitlab.com/company/team/) and find yourself. Note: if you choose `No` on BambooHR for `Export Name/Location to Team Page?` you will have to find yourself by your job title instead of your name.
   1. Click on the avatar above your name (or job title). A modal will open.
   1. In that modal, on the bottom, click `Edit in Web IDE`
   1. Our web editor will open with your team page entry opened.
   1. <%= partial "team-page-fields" %>
-  1. To upload your image - Select the upload file button on the left handside (An example of this can be found starting at 9:29 in the youtube video above.) 
-     1. Select the image you want to upload and it will upload to the root file. 
-     1. Navigate to the image you have uploaded by scrolling down on the left handside. 
-     1. Hover over the image and select the `v` button and pick Rename/Move. 
-     1. You will rename the image to `sites/uncategorized/source/images/team/``imagefilename.jpg` for example `sites/uncategorized/source/images/team/ashleyjameson.png` This will move the file to the correct location. 
+  1. To upload your image - Select the upload file button on the left handside (An example of this can be found starting at 9:29 in the youtube video above.)
+     1. Select the image you want to upload and it will upload to the root file.
+     1. Navigate to the image you have uploaded by scrolling down on the left handside.
+     1. Hover over the image and select the `v` button and pick Rename/Move.
+     1. You will rename the image to `sites/uncategorized/source/images/team/``imagefilename.jpg` for example `sites/uncategorized/source/images/team/ashleyjameson.png` This will move the file to the correct location.
      1. Now you will navigate back your team page entry and Add the filename of your profile picture, making sure to match letter case. Delete ../gitlab-logo-extra-whitespace.png, if present. The completed line should look like this: picture: yournameinlowercase.jpg.
   1. Once you have finished this, click the `Commit` button in the bottom left. It should say something like `2 unstaged and 0 staged changes`. This will bring up a sidebar with an `Unstaged` and `Staged` area.
   1. Check the files to ensure your updates are what you expect. If they are, click the check mark above the changed file list to "stage" all changes. You can also use the `Stage` button in the upper-right of the changed file view to stage each one individually. You should now see `0 unstaged and 2 staged changes`.
