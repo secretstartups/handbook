@@ -162,4 +162,3 @@ exists on. If you are sure you wish to confirm the deletion, click the red
 ## Useful links
 
 * [GitLab Labels documentation](https://docs.gitlab.com/ee/user/project/labels.html)
-* TBD
