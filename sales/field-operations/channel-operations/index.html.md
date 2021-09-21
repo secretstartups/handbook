@@ -267,6 +267,37 @@ In order to transact with GitLab, a partner must both be authorized by GitLab, a
  
 ### Partner Co-Sell
 All Channel deals are considered Partner Co-Sell opportunities unless there is an approved Partner Sourced Deal Registration. These opportunities are not sourced solely by a partner, but highlight the relationship between GitLab and partners in the selling process. Partner Co-Sell deals do not require the partner to submit a deal registration, and should be processed according to standard Partner Co-Sell discounts as identified in the [GitLab Partner Program](https://about.gitlab.com/handbook/resellers/).
+
+###US Public Sector Preferred Partner CoSell Request Process
+
+The Partner Sourced Deal Registration process is the same for commercial and US Pubsec business. The instructions below apply _only_ to US Public Sector CoSell opportunities.
+
+1. Each public sector partner is provided a link to a Google form by either the SAL, ISR, or Channel Manager. This form must be completed in order for a partner to receive Preferred Partner Co-Sell discounts.
+2. When a partner becomes aware of an opportunity, they must fill in the Google form, which will timestamp all of the relevant data to a [Google sheet](https://docs.google.com/spreadsheets/d/1Cd5xEDdfiiyMW81oykv6Gq58nG1kn3Sxz9h7adY1o8U/edit?usp=sharing).
+3. Part of filling out the Google form requires the partner to input the name and email of the SAL with whom they’ve discussed this. When that email address is inputted into the form and the form is submitted, that SAL will receive notification of a Pubsec Co-Sell opportunity.
+4. The SAL will then approve or deny the submission based on Handbook guidelines. 
+   - The business reason for accepting a preferred partner submission must be noted on the Google form. 
+   - The SAL’s approval or denial will be time stamped in the Google sheet.
+5. Once a partner is approved and selected, the 18-digit opportunity ID will be shared with them.
+6. If a partner was previously approved but is now being removed, that SAL can selected the “Removed” option and enter the partner’s email address to notify them   
+
+All submissions will be recorded and tracked for audit purposes. The chosen preferred partner should match the Resale Partner on the quote with the Partner Co-Sell discount.    
+
+Any other partner receiving a quote for the same opportunity will be provided MSRP.    
+
+Further enablement for GitLab Team Members is available. For further information, contact the #channel-programs-ops slack channel.   
+
+
+###Guidelines for approving US Public Sector Co-Sell Partner Submissions
+
+The following are explicit guidelines for approved US Public Sector Partners to receive preferred pricing on Gitlab-sourced opportunities.   
+
+Partner Requirements:
+- Must be an approved US Public Sector Partner, [authorized to transact with GitLab](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#standard-channel-practices)   
+- The partner must have completed one meeting with the SAL for the opportunity
+   -This meeting must have included a conversation about alignment of how we can work together to land with vision and expand with purpose 
+- The partner must have filled out the Public Sector Co-Sell form and include the 18-digit Opportunity ID provided by the SAL
+
  
 ### Partner Sourced Deal Registration
 There are three types of Partner Sourced Deal Registrations within the GitLab Partner Program. For step-by-step instructions on how to process each of these opportunities, see the specific sections: [Resale](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-resale-opportunities), [MSP](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-msp-opportunities), and [Referral](https://about.gitlab.com/handbook/sales/field-operations/channel-operations/#partner-sourced-deal-registration-referral-opportunities) .
