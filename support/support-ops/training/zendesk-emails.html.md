@@ -34,6 +34,13 @@ ticket created from it. Usage of this varies widely from instance to instance.
 
 ## How to create a Zendesk email
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Emails
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Emails management
+pages under `Channels` > `Talk and email` > `Email`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/BT_gsitram0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -42,9 +49,10 @@ ticket created from it. Usage of this varies widely from instance to instance.
 do this at GitLab. Instead, we create Zendesk email addresses and have the
 GitLab email group forward to said Zendesk email address.
 
-To create a Zendesk email, you first need to go to the admin panel (by clicking
-on the gear icon on the left-hand side of the page). from there, click the
-`Emails` link (under the `Channels` section).
+To create a Zendesk email, you first need to go to the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the Emails
+management pages under `Channels` > `Talk and email` > `Email`.
 
 You will then click `Add address` on the top-right of the page. This will have a
 dropdown appear. In this dropdown, click `Create new Zendesk address`. A pop-up
@@ -62,6 +70,13 @@ to forward the emails to.
 
 ## How to edit a Zendesk email
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Emails
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Emails management
+pages under `Channels` > `Talk and email` > `Email`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ljeiVV9gYUU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -70,9 +85,10 @@ to forward the emails to.
 need to change the address, you will need to delete the existing one and create
 a whole new one.
 
-To edit a Zendesk email, you first need to go to the admin panel (by clicking on
-the gear icon on the left-hand side of the page). from there, click the `Emails`
-link (under the `Channels` section).
+To edit a Zendesk email, you first need to go to the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the Emails
+management pages under `Channels` > `Talk and email` > `Email`.
 
 From here, locate the email address you wish to edit and then click the `edit`
 link on the right-hand side of the email address. Doing so will make a pop-up
@@ -82,6 +98,13 @@ Here, you can edit the name of the address.
 
 ## How to delete a Zendesk email
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Emails
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Emails management
+pages under `Channels` > `Talk and email` > `Email`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/4thlcXwk6l0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -90,9 +113,10 @@ Here, you can edit the name of the address.
 are 110% sure this needs to be done. An unused email address is annoying but
 safe. A deleted email address that was in use causes many issues!
 
-To delete a Zendesk email, you first need to go to the admin panel (by clicking
-on the gear icon on the left-hand side of the page). from there, click the
-`Emails` link (under the `Channels` section).
+To delete a Zendesk email, you first need to go to the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the Emails
+management pages under `Channels` > `Talk and email` > `Email`.
 
 From here, locate the email address you wish to delete, hover over it, and then
 click the `delete` link.
@@ -102,7 +126,6 @@ box appear. A pop-up box will appear asking you to confirm the deletion. Click
 the black `Delete address` button to confirm.
 
 ## Change managemenet
-
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/MSkyalDswso" frameborder="0" allowfullscreen="true"> </iframe>

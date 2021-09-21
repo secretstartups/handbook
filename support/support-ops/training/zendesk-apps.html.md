@@ -332,6 +332,13 @@ zafclient.request({
 
 ## How to create a Zendesk App
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Apps
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Apps management pages
+under `Apps and integrations` > `Apps` > `Zendesk Support apps`. Once you
+access the management pages, the steps to create/edit/etc. are the same.
+
 To create a Zendesk app, you will first make a new folder on your local computer
 (where you will build the app) and cd into the new directory:
 
@@ -392,10 +399,12 @@ jcolyer@jcolyer-Desktop:~/my_new_app$ zat package
      package  created at ./tmp/app-20210920131122.zip
 ```
 
-The created zip file it what contains your Zendesk App. Go to the Zendesk admin
-panel (the gear icon on the left-hand side), then click the `Manage` link under
-the `Apps` section (at the top of the left-hand side). On this page, click the
-white `Upload private app` button in the top-right of the page.
+The created zip file it what contains your Zendesk App. Go to the Admin Center,
+which you can locate by clicking the four squares in the top-right of the page
+and clicking the Admin Center link. After doing so, you can locate the Apps
+management pages under `Apps and integrations` > `Apps` >
+`Zendesk Support apps`. On this page, click the white `Upload private app`
+button in the top-right of the page.
 
 On this page, enter the App's name and select the zip file from your local
 computer. After doing so, click the black `Upload` button. A pop-up will appear
@@ -409,26 +418,43 @@ the blue `Install` button.
 
 ## How to update a Zendesk App
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Apps
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Apps management pages
+under `Apps and integrations` > `Apps` > `Zendesk Support apps`. Once you
+access the management pages, the steps to create/edit/etc. are the same.
+
 To update an app, you edit the code and the version (found in the manifest.json
 file) and package it up using `zat package`.
 
-After doing so, go to the Zendesk admin panel (the gear icon on the left-hand
-side), then click the `Manage` link under the `Apps` section (at the top of the
-left-hand side). On this page, locate the app you are updating, hover over it,
-and click the down arrow that appears (next to a gear icon). Click the `Update`
-option to proceed.
+After doing so, go to the Admin Center, which you can locate by clicking the
+four squares in the top-right of the page and clicking the Admin Center link.
+After doing so, you can locate the Apps management pages under
+`Apps and integrations` > `Apps` > `Zendesk Support apps`. On this page, locate
+the app you are updating, hover over it, and click the down arrow that appears
+(next to a gear icon). Click the `Update` option to proceed.
 
 From here, it is basically the same as creating a new app. You select the file
 from your local computer, click the black `Upload` link, and the app updates.
 
 ## How to deactivate a Zendesk App
 
-To deactivate an app, go to the Zendesk admin panel (the gear icon on the
-left-hand side), then click the `Manage` link under the `Apps` section (at the
-top of the left-hand side). On this page, locate the app you are updating, hover
-over it, and click the down arrow that appears (next to a gear icon). Click the
-`Uninstall` option to proceed. A pop-up will ask you to confirm the uninstall
-process. Click the blue `Uninstall` button to confirm.
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Apps
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Apps management pages
+under `Apps and integrations` > `Apps` > `Zendesk Support apps`. Once you
+access the management pages, the steps to create/edit/etc. are the same.
+
+To deactivate an app, go to the Admin Center, which you can locate by clicking
+the four squares in the top-right of the page and clicking the Admin Center
+link. After doing so, you can locate the Apps management pages under
+`Apps and integrations` > `Apps` > `Zendesk Support apps`. On this page, locate
+the app you are updating, hover over it, and click the down arrow that appears
+(next to a gear icon). Click the `Uninstall` option to proceed. A pop-up will
+ask you to confirm the uninstall process. Click the blue `Uninstall` button to
+confirm.
 
 ## Testing
 

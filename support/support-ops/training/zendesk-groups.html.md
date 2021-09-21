@@ -34,14 +34,21 @@ For GitLab, we use groups to help in view management primarily.
 
 ## How to create a Zendesk group
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Groups
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. Once you access the management pages,
+the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/adAcb1F_SaI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a group, you must first access the admin panel by clicking on the gear
-icon on the left-side of the page. From there, locate the `People` link under
-the Manage section. On this page, click the `group` link at the top-right of the
-page (next to the word add and between the `user` and `organization` links).
+To create a group, you must first access Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`.
 
 This will bring you to the group creation page. On this page, you will:
 
@@ -55,22 +62,35 @@ page.
 
 ## How to edit a Zendesk group
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Groups
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. Once you access the management pages,
+the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/O4Gm0bmpeyc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To edit a group, you must first access the admin panel by clicking on the gear
-icon on the left-side of the page. From there, locate the `People` link under
-the Manage section. On this page, click the `groups` below the searchbar at the
-top the page (next to the words `or browse` and between `agents` and
-`organizations`). From here, locate the group in question and click the black
-`edit` link on the right-hand side.
+To edit a group, you must first access the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. From here, locate the group in
+question and click the black `edit` link on the right-hand side.
 
 This page will look nearly identical to the creation page. Make the edits you
 wish to make and then click the black `Update group` button at the bottom-right
 of the page.
 
 ## How to manage users in Zendesk groups
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Groups
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. Once you access the management pages,
+the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/_1GkCkYnDxY" frameborder="0" allowfullscreen="true"> </iframe>
@@ -100,16 +120,22 @@ the pop-up menu.
 
 ## How to delete a Zendesk group
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Groups
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. Once you access the management pages,
+the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/PrR9dFzdxig" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To delete a group, you must first access the admin panel by clicking on the gear
-icon on the left-side of the page. From there, locate the `People` link under
-the Manage section. On this page, click the `groups` below the searchbar at the
-top the page (next to the words `or browse` and between `agents` and
-`organizations`). From here, locate the group in question and click the black
-`edit` link on the right-hand side.
+To delete a group, you must first access the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Groups management
+pages under `People` > `Team` > `Groups`. From here, locate the group in
+question and click the black `edit` link on the right-hand side.
 
 On the edit page (where you should now be), scroll to the very bottom of the
 page and click the `Delete` button.

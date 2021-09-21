@@ -57,16 +57,24 @@ That said, it is going to depend largely on what you are aiming to do.
 
 ## How to create a Zendesk extension and webhook
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Extensions
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/lbt5smXy1Z0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Creating an extension
 
-To create an extension, you will first go to the admin panel by clicking on the
-gear icon on the left-hand side of the page. From there, scroll to the bottom to
-locate the `Extensions` link (in the `Settings` category). Clicking on that will
-open the extensions page. On this page, click the `add target` link in the
+To create an extension, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Clicking on that
+will open the extensions page. On this page, click the `add target` link in the
 top-right of the page.
 
 From here, select the type of extension you wish to create.
@@ -100,17 +108,25 @@ successful, you will then click the blue `Create` button.
 
 ## How to edit a Zendesk extension and webhook
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Extensions
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/_4ud1tHrrSs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Editing an extension
 
-To edit an extension, you will first go to the admin panel by clicking on the
-gear icon on the left-hand side of the page. From there, scroll to the bottom to
-locate the `Extensions` link (in the `Settings` category). Clicking on that will
-open the extensions page. On this page, locate the extension you wish to edit
-and click on the `edit` link on the right-hand side of the extension.
+To edit an extension, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Clicking on that
+will open the extensions page. On this page, locate the extension you wish to
+edit and click on the `edit` link on the right-hand side of the extension.
 
 After doing so, you will then fill out the values required for the extension
 type you selected.
@@ -142,15 +158,23 @@ successful, you will then click the blue `Update` button.
 
 ## How to deactivate a Zendesk extension and webhook
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the Extensions
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/ZASCg_3dX8Q" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 ### Deactivating an extension
 
-To deactivate an extension, you will first go to the admin panel by clicking on
-the gear icon on the left-hand side of the page. From there, scroll to the
-bottom to locate the `Extensions` link (in the `Settings` category). Clicking on
+To deactivate an extension, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the Extensions management
+pages under `Apps and integrations` > `Targets` > `Targets`. Clicking on
 that will open the extensions page. On this page, locate the extension you wish
 to edit and click on the `deactivate` link on the right-hand side of the
 extension (seen by hovering over it). Confirm your deactivation by clicking on

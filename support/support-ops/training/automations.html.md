@@ -37,15 +37,23 @@ instantly. They are time-based instead of being event-based.
 
 ## Creating an automation via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the automations
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the automations management
+pages under `Objects and rules` > `Business rules` > `Automations`. All videos
+are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
-    <iframe src="https://www.youtube.com/embed/fHFmn-lcGjI" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/fHFmn-lcGjI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create an automation in Zendesk, you first need to go to the admin panel,
-which can be located by the gear icon on the left-hand side. From there, you
-will want to go to the `BUSINESS RULES` sections on the left-hand side panel
-(it is normally second from the bottom, so you might need to scroll down). Under
-that section, click the `Automations` link.
+To create an automation in Zendesk, you first need to go to the admin center,
+which can be located by the clicking the four squares in the top-right of the
+page and clicking the Admin Center link. After doing so, you can locate the
+automations management pages under `Objects and rules` > `Business rules` >
+`Automations`.
 
 After doing so, you will then click the `Add automation` button on the top-right
 side of the page. This will then load up the new automation page.
@@ -65,6 +73,14 @@ automations. To adjust this, see [Positioning](#positioning).
 
 ## Editing an automation via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the automations
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the automations management
+pages under `Objects and rules` > `Business rules` > `Automations`. All videos
+are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/J7TDkbQBrzs" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -81,6 +97,14 @@ various aspects of the automation. Once you have the edits in place, ensure the
 dropdown at the bottom right says `Update` and click the blue `Submit` button.
 
 ## Deactivating an automation via Zendesk
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the automations
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the automations management
+pages under `Objects and rules` > `Business rules` > `Automations`. All videos
+are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/bXqLTat0n9U" frameborder="0" allowfullscreen="true"> </iframe>
@@ -101,6 +125,14 @@ retained in the backend. Re-enabling the automation will have it take the same
 position it was in while previously active.
 
 ## Positioning
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the automations
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the automations management
+pages under `Objects and rules` > `Business rules` > `Automations`. All videos
+are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/0MTOyWpde84" frameborder="0" allowfullscreen="true"> </iframe>

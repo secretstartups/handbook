@@ -31,34 +31,61 @@ issuing these tokens.
 
 ## How to create a Zendesk API token
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the API tokens
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. Once you access
+the management pages, the steps to create/edit/etc. are the same.
+
 **Note**: As all API tokens are issues at the admin level, you need to ensure
 you follow proper [token issuing process](#token-issuing-process) and
 [API token standards](#api-token-standards).
 
-To create an API token, you will first go to the admin panel by clicking on the
-gear icon on the left-hand side. From there, locate the Channels section and
-click the API link within it. This will bring you to the API page.
+To create an API token, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. This will bring
+you to the API page.
 
 From here, click the white `Add API token` button. You will then enter a
 description, copy the token it generated, and click the blue `Save` button.
 
 ## How to edit a Zendesk API token
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the API tokens
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. Once you access
+the management pages, the steps to create/edit/etc. are the same.
+
 **Note**: You can only edit a token's description. If you need the token itself,
 you will have to delete the token and re-create it.
 
-To edit an API token, you will first go to the admin panel by clicking on the
-gear icon on the left-hand side. From there, locate the Channels section and
-click the API link within it. This will bring you to the API page.
+To edit an API token, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. This will bring
+you to the API page.
 
 From here, locate the token you wish to edit and click on it. From there, edit
 the description. Once done, click the blue `Save` button.
 
 ## How to delete a Zendesk API token
 
-To delete an API token, you will first go to the admin panel by clicking on the
-gear icon on the left-hand side. From there, locate the Channels section and
-click the API link within it. This will bring you to the API page.
+**Note**: As of 2021-09-21, Zendesk has changed the location of the API tokens
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. Once you access
+the management pages, the steps to create/edit/etc. are the same.
+
+To delete an API token, you will first go to the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the API tokens management
+pages under `Apps and integrations` > `APIs` > `Zendesk API`. This will bring
+you to the API page.
 
 From here, locate the token you wish to edit and click on it. From here, click
 the red `Delete` link in the top-right of the token box. A pop-up will appear
