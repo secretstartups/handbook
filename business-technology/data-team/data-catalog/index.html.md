@@ -151,7 +151,6 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 * UPA: [Ultimate Parent Account](/handbook/sales/sales-term-glossary/#additional-customer-definitions)
 * xMAU: [x Monthly Active Users](/handbook/product/performance-indicators/#structure/)
 
-
 ### Legend
 
 📊 indicates that the solution is operational and is embedded in the handbook.
