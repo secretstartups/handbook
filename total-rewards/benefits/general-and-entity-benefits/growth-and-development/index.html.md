@@ -17,9 +17,13 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 
 ## Growth and Development Benefit Eligibility 
 
-Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
+* Team members who are full-time and have been employed for three months can participate in this benefit. If you are a part-time GitLab team member, you may still be eligible to participate in this benefit but your reimbursement might be reduced. These situations will be discussed on a case-by-case basis.
+* Team members who are meeting performance expectations in their current role:
+    * Currently in good standing with GitLab in terms of performance and behaviours
+    * Not currently on a [PIP](/handbook/leadership/underperformance/#performance-improvement-plan-pip)
+    * Not on any type of remedial, formal coaching as outlined in the [Underperformance page](/handbook/leadership/underperformance/)
 
-Examples of requests that may be approved:
+**Examples of requests that may be approved:**
 * A Backend Engineer who is not on a performance improvement plan seeking a bachelor's degree in Computer Science.
 * A People Operations Generalist seeking a master's in Human Resources with a concentration in International Employee Relations.
 * A Security Analyst seeking to take courses to gain a Cybersecurity certificate through an accredited college or university.
@@ -27,12 +31,11 @@ Examples of requests that may be approved:
 * A Technical Account Manager seeking to obtain a Cloud Certification such as CompTIA Cloud, AWS Certified Solutions Architect, MicroSoft MCSA/MCSE, Cisco CCNA/CCNP.
 * Learning how to code for all team members (for example [Learning Rails on Codecademy](https://www.codecademy.com/learn/learn-rails)).
 
-Examples of requests that may be denied:
+**Examples of requests that may be denied:**
 * A Marketing Manager seeking a master's in Human Resources, but has no intention of applying to a role in people ops.
 * A Frontend Engineer seeking a master's in computer science who is on a performance improvement plan or having discussions around underperformance.
 * If the tuition reimbursement budget has been reached, then your request may be denied, even if you meet eligibility requirements.
 
-**Please note that in order to be eligiblity for the Growth and Development benefit, a team member must be meeting performance expectations in their current role.**
 
 ## How to Apply For Growth and Development Benefits
 
