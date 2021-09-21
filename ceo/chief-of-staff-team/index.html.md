@@ -16,7 +16,7 @@ description: "GitLab CoS Team Handbook"
 
 
 ## Team Mission
-Compliment the CEO through being the cross-functional linchpin for GitLab when it comes to strategy and operations.
+Complement the CEO through being the cross-functional linchpin for GitLab when it comes to strategy and operations.
 
 ## Quick Links and Fun Facts
 * [Chief of Staff Job Family](/job-families/chief-executive-officer/chief-of-staff/)
@@ -25,6 +25,7 @@ Compliment the CEO through being the cross-functional linchpin for GitLab when i
 * CoS = Chief of Staff
 * CoST = Chief of Staff Team
 * [Project](https://gitlab.com/gitlab-com/chief-of-staff-team/cos-team)
+* [Team READMEs](/handbook/ceo/chief-of-staff-team/readmes/)
 
 ## Contact Us
 * [chief-of-staff-team](https://gitlab.slack.com/archives/CN7MPDZF0/p1568035351000200) on Slack
