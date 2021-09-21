@@ -15,14 +15,16 @@ The pre-planning is done in advance of the budget becoming available so that the
 
 | DRI | Task | 
 | --- | --- | 
-| [Product Managers](/job-families/product/product-manager/) | Product managers do their planning for future potential investments in advance.  This will be a list of ready-to-go business cases in advance, via [creating issues using the `potential investment` issue template.](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/new?issuable_template=potential_investment#) |
+| [Product Managers](/job-families/product/product-manager/) | Product managers do their planning for future potential investments in advance.  This will be a list of ready-to-go business cases in advance, via [creating issues using the `potential investment` issue template.](https://gitlab.com/gitlab-com/Product/-/issues/new?issuable_template=Investment-Case) |
 | Product Managers | Create private issues using the issue template and collaborate with PM and Engineering teams via tagging the appropriate development director, UX stable counterpart, SET stable counterpart, etc, as appropriate. |
+| Section Leaders | Maintain a prioritized list of next investment asks vetted from proposal across their section |
 
 ## Vetting and communication of new investment 
 
 | DRI | Task |
 | --- | --- | 
-| VP of PM | Make sure the funding plan encompasses all known things that need to be budgeted for successfully executing on the opportunity and ensure that the "investment" part of ROI calculation is reflective of the true investment across GitLab as a company | 
+| Section Leaders | Make sure the funding plan encompasses all known things that need to be budgeted for successfully executing on the opportunity and ensure that the "investment" part of ROI calculation is reflective of the true investment across GitLab as a company. Prioritize investment asks within your Section |
+| VP of PM | Review plans and priorities and ensure that product-wide priorities and global optimizations are accounted for. | 
 | [CTO](https://gitlab.com/edjdev) | Make sure the funding plan encompasses all known things that need to be budgeted from an Engineering perspective (such as not only new hires but comp reviews) | 
 | Product Managers | When a hiring plan is approved, document if previously approved reqs are or are not included |
 | [VP of PM](https://gitlab.com/adawar) |  Provide a (private) video walkthru of the approved hiring plan (as the spreadsheets tend to be hard to understand without an explanation) |
@@ -30,4 +32,4 @@ The pre-planning is done in advance of the budget becoming available so that the
 
 ## Viewing existing potential investments
 
-[Search for issues with the label `potential-investment`](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?label_name[]=potential-investment)
+[Search for issues with the label `Investment Case`](https://gitlab.com/gitlab-com/Product/-/issues?scope=all&state=opened&label_name[]=Investment%20Case)
