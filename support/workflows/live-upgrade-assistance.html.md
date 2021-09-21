@@ -25,7 +25,9 @@ advance of the production upgrade.
 #### Initiating The Process
 
 1. The end user initiating the request will open a new Support Request using the Support for Self managed Instance form with the problem type set to "Live Upgrade Assistance Request" or for eligible users, the [US Federal Live Upgrade Assistance Request](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001434131) form in the respective Support Portal. This will generate a high priority ticket in the instance.
-1. The triaging engineer will assign the ticket to themselves and will review the given information. If the organization has a TAM, the TAM should be added as a CC or follower to the ticket.
+1. The triaging engineer should assign the ticket to themselves and review the initial provided information. EMEA engineers should consult the [EMEA Live Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3562) and APAC engineers should consult the
+[APAC Live Upgrade Assistance Request Tracker](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3399) to determine who they should ask to perform the upgrade. Once agreement has been reached with the engineer scheduled to perform the upgrade then the ticket should be reassigned to that engineer.
+1. The ticket assignee should review if the organization has a TAM, if so then the TAM should be added as a CC or follower to the ticket.
 1. The user provided information must include all of the [required information](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html#what-information-do-i-need-to-schedule-live-upgrade-assistance).
 1. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
     - The engineer may opt to use the `Live Upgrade Request Missing Info` macro in Zendesk to help the user understand that we cannot proceed with scheduling
