@@ -132,13 +132,13 @@ Future iterations of the announcement will include:
 
 Monthly announcements are shared by the L&D team on the first Tuesday of each month. Below, you'll find links to previous announcement materials.
 
-| Month | Video Link | Async AMA |
-| ----- | ----- | ----- | 
-| 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)|
-| 2021-10 | - | - |
-| 2021-11 | - | - |
-| 2021-12 | - | - |
-| 2022-01 | - | - |
+| Month | Video Link | Async AMA | Total Views | Total Comments |
+| ----- | ----- | ----- | ----- | ----- |
+| 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)| 44 | 1 |
+| 2021-10 | - | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/324) | - | - |
+| 2021-11 | - | - | - | - |
+| 2021-12 | - | - | - | - |
+| 2022-01 | - | - | - | - |
 
 
 ### Results
