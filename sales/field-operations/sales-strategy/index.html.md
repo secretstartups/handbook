@@ -49,8 +49,8 @@ The SS&A team is reponsible of maintaining a set of key reports for the Sales or
 | ----- | ----- | 
 | [Pipeline X-Ray](/handbook/sales/field-operations/sales-strategy/analytics/pipeline-x-ray) | Pipeline coverage & generation by segment, region, order type & sales qualified source for current and future fiscal quarters
 | [SAL Heatmap](/handbook/sales/field-operations/sales-strategy/analytics/sal-heatmap) | Achievement, coverage and pipeline generation summary by SAL by region |
-| [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab/799969/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
-| [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab/850343/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
+| [SS&A - Pipeline Velocity & Generation](https://app.periscopedata.com/app/gitlab:safe-dashboard/919343/SS&A---Pipeline-Velocity-&-Generation)|  Pipeline and Pacing progression by day of current and previous fiscal quarters | 
+| [SS&A - Pipeline Movement Tracker](https://app.periscopedata.com/app/gitlab:safe-dashboard/919348/SS&A---Pipeline-Movement-Tracker) | Helps to identify root causes of Open Pipeline and Pipeline Generation movements |
 
 ### FY22 Field Planning
 
