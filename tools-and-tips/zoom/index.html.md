@@ -517,6 +517,13 @@ In the above Chrome support thread, the following macOS solution is listed:
 
  Once you do this, when you start your next Zoom meeting, just check the box to always trust Zoom and you'll never see it again.
 
+### Zoom automatically lowering your microphone input volume
+
+If you have a loud keyboard or a fan in your office, Zoom may try to automatically reduce your microphone input volume. This can be frustrating because then other participants have trouble hearing you speak later in the call.
+If you are experiencing this issue, go into your Zoom client settings and uncheck "Automatically adjust microphone volume".
+
+![Zoom mic settings](/images/handbook/tools-and-tips/zoom-mic-volume.png)
+
 ### Google Calendar Add-on for Zoom
 
 To make it easy to set up Zoom sessions for your calendar events, enable the [Google Calendar add-on for Zoom](https://support.zoom.us/hc/en-us/articles/360020187492-Google-Calendar-Add-On).
