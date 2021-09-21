@@ -441,11 +441,11 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | Status | Definition |
 | ------ | ---------- |
 | Raw | Untouched brand new lead |
-| Inquiry | Form submission, meeting @ trade show, content offer |
+| Inquiry | Action was taken by the record to specifically give their contact information to GitLab |
 | MQL | Marketing Qualified through systematic means |
 | Accepted | Actively working to get in touch with the lead/contact |
 | Qualifying | In 2-way conversation with lead/contact |
-| Qualified | Progressing to next step of sales funnel (typically OPP created & hand off to Sales team) |
+| Qualified | Progressing to next step of sales funnel (typically SAO created & hand off to Sales team) |
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
