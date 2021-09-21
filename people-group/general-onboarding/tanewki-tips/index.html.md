@@ -103,6 +103,10 @@ A: You will get access to Expensify during your first week and you'll want to su
 
 A: It is! You'll just want to make sure to review our co-working space details listed out [here](https://about.gitlab.com/handbook/finance/expenses/#-coworking-or-external-office--space) before signing any agreements.
 
+**Q: When will my first paycheck be?** 
+
+A: Depending on where you are located, you can find the payroll cut off dates [here](https://about.gitlab.com/handbook/finance/payroll/#payroll-cut-off-dates) and when you can expect to receive your first paycheck.
+
 **Q: I received an email from Okta about access, do I need to do anything with it?**
 
 A: You won't need to action anything until day one! We are going to want you to review your `Welcome to GitLab Onboarding` email first and follow the instructions within that email to make sure that all your access is set up correctly. This will include creating your GitLab account, getting access to your GitLab email, and all other systems!
