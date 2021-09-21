@@ -150,13 +150,13 @@ Campaign webcasts are hosted on BrightTALK, and project management is organized 
 1. Edit the Budgeted Cost (required) to cost of webcast, or "$1" if there is no cost associated
 1. Click save
 
-### Create webcast in BrightTALK
+### Create live webcast in BrightTALK
 {:#bt-create-webcast} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, schedule a talk. _*Note: Only type: `talk` allows you to share videos_
 1. **TALK TITLE**: Insert the title of the webcast (public facing)
 1. **DESCRIPTION**: Enter here a brief synopsis of the webcast. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it.
-1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also.
+1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
 1. **DURATION**: Add how long the webcast will be.
 1. **START DATE**: Select the date your live webcast will take place on.
 1. **START TIME**: Time your webcast will go live.
@@ -169,6 +169,7 @@ PUBLISHING
 1. **Channel Survey**: Select 'Enabled' to allow surveys to go out for this webcast. Otherwise, select 'Disabled'.
 1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
 1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
+1. **NOTE ON UTMS**: After you schedule your event, BrightTalk will provide you with a link to promote the event. It will have UTMs already associated with it. You can change the utm_campaign= to match your campaign UTM (and other utms, if desired) in Marketo or when providing the link to others for promotion. You cannot change the utms in BrightTalk directly.
 
 ### Connect the Marketo program to BrightTALK
 {:#bt-marketo-connect} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -176,7 +177,7 @@ PUBLISHING
 1. Navigate to the [Connectors Tab](https://www.brighttalk.com/central/account/20277/channel/17523/connectors) in BrightTALK Demand Central
 1. Click to [Manage](https://www.brighttalk.com/central/account/20277/channel/17523/connector/1579/manage) under the Marketo Account
 1. Navigate to `Marketo Programs`, find your program and select `Connect`
-1. Insert program name EXACTLY as it is spelled in marketo, and click Next. *CRITIACL NOTE: If you change the program name, the sync will break.
+1. Insert program name EXACTLY as it is spelled in marketo, and click Next. *CRITICAL NOTE: If you change the program name, the sync will break.
 1. Select how far back you want to sync data for, typically put in today's date. Click Next.
 1. You are now connected! The sync runs every hour.
 
@@ -214,14 +215,14 @@ PUBLISHING
 * After the practice session, the system will automatically `Publish` your dry run. When your dry run completes, go into the Content section of your channel, Manage the dry run, click Edit, and change it to `Unpublish`.
 * If you watch the replay of the practice session and notice that slides, video, or demo look grainy, select the gear button on the video and change the resolution of the webcast.
 
-### Loading a video to replay in BrightTALK
+### Loading a video to use in BrightTALK during a live talk or mock-live replay
 {:#bt-video-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-* You must upload the video you plan to play in a live talk prior to the event.
+* You must upload the video you plan to play in a live talk prior to the event. A video must also be loaded before scheduling a replay.
 1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Add content`, Upload a Video. Videos are uploaded as Unpublished.
 1. **WEBCAST TITLE**: Insert the title of the video (public facing)
 1. **DESCRIPTION**: Enter here a brief synopsis of the video. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it if you plan to make this public.
-1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also.
+1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
 1. **DATE**: Select the date of upload (or date of the video)
 1. **TAG**: Enter up to 10 terms that cover the topics and themes of your content - simply type each tag and click 'Add tag'. BrightTalk will suggest topics that are trending, but feel free to add any tag you believe is relevant - up to 34 characters per tag.
 1. **DON'T PROMOTE**: If you only want to play this video in a live webcast, select `Don't promote this webcast into any communities`
@@ -229,8 +230,33 @@ PUBLISHING
 1. Select the video for upload. Add the time stamp to capture an image, or upload a featured image.
 1. Select the nearest upload location to you.
 1. Click upload. This may take awhile, depending on how large the video is.
-1. After the video uploads, click `Edit and publish`. Change the video to `Private` if you are going to play it during a live webcast.
-1. You can now select the video to play from the presenter screen of your Talk.
+1. After the video uploads, click `Edit and publish`. Change the video to `Private` if you are going to play it during a live webcast or use it as a replay.
+1. You can now select the video to play from the presenter screen of your Talk or proceed to scheduling the replay.
+
+### Scheduling a Replay
+{:#bt-schedule-replay} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+* This option allows you to play a recorded webcast as live at a specific time. The video will play automatically with this option, no one needs to log in to start the webcast. Questions from viewers are recorded and can be downloaded from BrightTalk, then loaded to SFDC for follow-up. If you would like to have a live Q&A session, follow the instructions to schedule a `Talk` instead. You will need to log in to play the pre-recorded video and your presenters will need to be available to answer the questions live.
+* Complete steps to [load a video](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#bt-video-replay) before scheduling your replay. 
+1. **LOGIN**: log into BrightTALK, go into the Content tab, and select `Select content` under the Replay section.
+1. **SELECT VIDEO**: Select the video you would like to use in your replay. Click Proceed. 
+1. **REPLAY TITLE**: Insert the title of the webcast (public facing). This information will be prefilled, based on the information provided when the video was uploaded.
+1. **DESCRIPTION**: Enter here a brief synopsis of the webcast. Keeping this description relevant to the content of the webcast will make it easier for viewers to search for it. This information will be prefilled, based on the information provided when the video was uploaded.
+1. **ATTACHMENTS**: If attachments or surveys were associated to the video (or the first live webcast), you can check this box to keep those attachments and surveys associated with your replay. Uncheck the box if you do not want to include any attachments (this will be most common).
+1. **PRESENTER**: Enter the name(s) of the presenter(s) who will be delivering the webcasts. Role and company can be included also. You can separate multiple speakers by using `;`. There is a character limit, so if you have several speakers, name and company are recommended. If they are all GitLab speakers, use name and title.
+1. **DURATION**: This is automatically pulled from the video length.
+1. **START DATE**: Select the date your mock-live webcast will take place on.
+1. **START TIME**: Time your mock-live webcast will go live.
+1. **TIMEZONE**: Enter the timezone of your `Start Time` here. NOTE: This will NOT affect how your webcast is listed. Webcasts are always listed in your player and on BrightTALK in the local time of your viewers.
+1. **TAG**: Enter up to 10 terms that cover the topics and themes of your content - simply type each tag and click 'Add tag'. BrightTalk will suggest topics that are trending, but feel free to add any tag you believe is relevant - up to 34 characters per tag.
+1. **IMAGE UPLOAD**: This will be used for the click to play overlay and thumbnail. Upload JPG/PNG image file of size 640x360. File upload limit 1MB. You can select an image from the video, but if you are doing a live replay, make sure it does not have a picture of the speaker presenting the content. Uploading the welcome screen of the presentation is recommended.
+
+PUBLISHING
+1. **Public/Private**: Select 'Public' to promote this webcast in your channel listing and via the BrightTALK email service. Select 'Private' to run this webcast without it being promoted in your channel listing or via the BrightTALK email service. Only viewers with a direct link to the 'Private' webcast will be able to view it.
+1. **Campaign Reference**: Insert name of the Marketo Campaign **exactly** as shown in Marketo. Once added here, any changes to the Marketo program name will *BREAK* the sync! If you have a date change for your webcast, just leave it as-is in Marketo if the sync has already been set up.
+1. **Add to BrightTalk Communities**: Control which BrightTALK communities to promote this webcast into by adding them below. The 'Primary community' you select will be the focus for promotional activities such as the BrightTALK email service.
+1. **NOTE ON UTMS**: After you schedule your event, BrightTalk will provide you with a link to promote the event. It will have UTMs already associated with it. You can change the utm_campaign= to match your campaign UTM (and other utms, if desired) in Marketo or when providing the link to others for promotion. You cannot change the utms in BrightTalk directly.
+
 
 ### BrightTALK Webcast Invitations
 {:#bt-email-invitations} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -255,7 +281,7 @@ PUBLISHING
 
 Submit a test lead using your gitlab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from BrightTALK.
 
-:stopwatch: It will take up to 2 hours to sync the regisration from BrightTalk to Marketo.
+:stopwatch: It will take up to 2 hours to sync the registration from BrightTalk to Marketo.
 
 ### Switching BrightTALK Webcasts to On-Demand
 {:#bt-ondemand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
