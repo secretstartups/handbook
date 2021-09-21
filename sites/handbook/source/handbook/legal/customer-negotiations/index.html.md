@@ -57,7 +57,7 @@ _NOTE:_ Once you open a Legal Request for "Contract Review", **DO NOT** open ano
 **Additional Resources:**
 [Field Operations Legal Request Overview](https://about.gitlab.com/handbook/sales/field-operations/order-processing/#contact-legal) 
 
-**To Request a Legal Review for a Channel Partner Contract**
+### **To Request a Legal Review for a Channel Partner Contract**
 
 For Channel and Alliance Partner contract reviews _only_, the process for the legal request is as follows:
 1. Navigate to the partner account record in SFDC.
