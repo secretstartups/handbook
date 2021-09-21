@@ -11,6 +11,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### Create a project
 1. In the top navigation bar, click **Menu > Groups > Your groups**.
 1. Expand the arrow to the left of **Training Users**. Expand the arrow to the left of the **Session** entry for your class. Click on the test group that includes your username. *Hint: if you see more than one group, the group with the `Owner` tag is yours.*
+   Sherrod: Not sure what this should be, but I didn't find this step at all - clicking on 'your groups' took me to a list of my test groups, with the one group in it.  Nothing around training users or session that I could find
 1. Click the **New project** button. Click **Create blank project**.
 1. In the **Project name** field, enter `Top Level Project`<br/>
    Optionally, include a few notes in the **Project description** box.
