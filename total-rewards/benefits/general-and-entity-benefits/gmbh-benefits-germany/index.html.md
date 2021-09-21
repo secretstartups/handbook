@@ -96,10 +96,20 @@ For expecting fathers, team members will need to apply for a state benefit (Basi
 
 https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave
 
-
 **Vacation Leave**
 
 Team members are entitled to at least 20 vacation days which run concurrently with GitLab PTO. The days will accrue from the start date. In general, team members must take their annual vacation days during the calendar year, otherwise it is forfeited. However, unused vacation days can be carried forward until the 31st of March of the next calendar year if the team member was unable to take the holiday due to operational or personal reasons. Team members must designate all vacation time taken as `Vacation` in PTO by Roots to ensure that vacation entitlement is properly tracked.
+
+**Family Care Leave and Nursing Leave**
+
+Per the [Family Care Leave Act and the Care Leave Act](https://www.bundesgesundheitsministerium.de/service/begriffe-von-a-z/f/freistellungen-nach-pflegezg-und-fpfzg.html), in certain cases team members are able to receive partial or full care allowance as a wage replacement benefit. This is granted on request by the long-term care insurance or the private compulsory long-term care insurance of the team member in need of care. Team members must provide proof of the relevant illness of the close relative by means of a medical certificate.
+
+- Team members who need time to organize or ensure the care of a close relative in need of care in an acute care situation can take partial paid leave for up to ten days; 
+- Team members who care for a close relative or a close relative at home can also, under certain conditions, take full or partial leave of work for up to six months;
+- Team members who accompany a close relative in the last phase of life can claim full or partial leave from work for up to three months;
+- Team members who care for a close relative in need of care in a home environment are entitled to family care leave, i.e. to a partial leave of absence to  for a period of up to 24 months. If the relative is underage, there is an entitlement to leave even if care takes place outside the home environment. 
+
+Please communicate with total-rewards@gitlab.com to ensure your eligibility and awareness of your proposed leave. 
 
 ## Sick Leave
 
@@ -109,4 +119,13 @@ Team members are entitled to at least 20 vacation days which run concurrently wi
 * If the team member is sick for more than six weeks, they can apply for "Krankengeld" from their health insurer. The benefit amount will be less that the team member's salary. 
 
 #### During COVID-19
+
 During the COVID-19 Pandemic, per German labor law, team members are required to present a doctor's certificate if they need to take more than 3+ consecutive sick days. We encourage all team members to meet with a _virtual doctor_ for the certificate to avoid the need to leave home. The team member will send doctor's note to Total Rewards at total-rewards@gitlab.com. Total Rewards will file this in their BambooHR profile and forward to Payroll for processing. 
+
+**Infection Protection Act**
+
+With the amendment to the [Infection Protection Act](https://www.bundesregierung.de/breg-de/themen/coronavirus/kinderkrankengeld-1836090) that came into force on April 2021, the entitlement to children's sickness benefit will be further expanded for 2021. The federal government supports parents who have to look after their children at home due to a pandemic. The entitlement not only applies if the child is sick, but also if daycare centers and schools are closed or care is limited.
+
+Team members who are legally insured and who are entitled to sickness benefit themselves and whose child is under twelve years of age are entitled to this. In the case of children with a disability, the entitlement continues beyond the age of twelve. Another prerequisite is that there is no other person in the household who can look after the child. Privately insured parents and parents entitled to subsidies can make a claim for compensation in accordance with Section 56 (1a) of the Infection Protection Act (IfSG).
+
+In 2021, the entitlement to child sickness benefit will increase from 20 days per parent and child to 30 days and thus to 60 days per child for parents. For single parents, too, the entitlement per child doubles from 30 to now 60 days. If there are several children, a maximum of 65 days applies, for single parents a maximum of 130 days.
