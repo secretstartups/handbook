@@ -181,10 +181,11 @@ Verticurl FMC
 1. **GitLab**: EMEA FMC reviews Field Marekting Issue, confirms the campaign tag or Allocadia ID has been created and adds in the allocadia line item to the event details.
 1. **GitLab**: EMEA FMC adds the label `FMM-Verticurl::wip` to the Field Markeitng Issue and `@helenadixon` will assign issue to a Verticurl FMC DRI (Directly Responsible Individual)
 1. **Verticurl**: Verticurl FMC reviews Field Marketing Issue espcially that the FMC Checklist is complete
-1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this list of epics. 
-1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the internal calendar.
+1. **Verticurl**: Verticurl FMC creates the epic and sub-issues utilizing this [list of epics](/handbook/marketing/revenue-marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)  
+1. **Verticurl**: Verticurl FMC adds the event to the appropriate events calendar. All events should be added to the [internal calendar](https://about.gitlab.com/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/#gitlab-virtual-events-calendar)
 1. **Verticurl**: Verticurl FMC creates the Marketo program and SFDC campaign utilizing the Program Tracking sub-issue previously created
 1. **Verticurl**: Verticurl FMC pings the FMM in the Program Tracking issue that the Marketo program and SFDC campaign have been created and closes issue
+1. **Verticurl**: Verticurl FMC pings the EMEA FMC once all sub-issues are created.
 1. **GitLab**: EMEA FMC will change label `FMM-Verticrul::review` to the Field Marketing Issue
 
 
