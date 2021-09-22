@@ -166,6 +166,10 @@ The FMC resources can be found [here](/handbook/marketing/demand-generation/camp
 
 FMC DRI - Helena Dixon. 
 
+Verticurl FMC 
+1. Sonu Gifty - @sonugifty `sonugifty.thomas@verticurl.com` 
+1. Priya - @priya_sridhar  `mohanapriya.thangavel@verticurl.com` 
+
 ### Vericurl FMC Duties 
 1. Verticurl FMC reviews Field Marketing Issues
 1. Verticurl FMC creates the epic and sub-issues 
