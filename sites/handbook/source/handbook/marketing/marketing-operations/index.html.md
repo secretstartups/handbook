@@ -357,7 +357,7 @@ Marketing Ops is responsible for maintaining the email marketing database. Go to
 
 `Initial Source` is the first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update the `Initial Source` field. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the `#mktgops` Slack channel. `Initial Source` in Marketo is named `Person Source`, and should only update when empty.
 
-We use Source Buckets to group raw Sources into acquisition channels. These groups are: core, inbound, outbound, paid demand gen, purchased list, referral, virtual event, and web direct. When using the [TD - Marketing Metrics dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) reports can be filterd by these source buckets.
+We use Source Buckets to group Sources into acquisition channels. These groups are: core, inbound, outbound, paid demand gen, purchased list, referral, virtual event, and web direct. When using the [TD - Marketing Metrics dashboard](https://app.periscopedata.com/app/gitlab/798262/TD---Marketing-Metrics) reports can be filterd by these source buckets.
 
 The values listed below are the only values currently supported. If you attempt to upload or import leads or contacts into Salesforce without one of these initial sources you will encounter a validation rule error. If you think that there needs to be a new Initial Source added to this list and into Salesforce please [open an issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new) with the marketing ops team. When a new initial source is added, the bucket must also be updated in a SFDC workflow to properly show in Sisense.
 
@@ -440,7 +440,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 
 | Status | Definition |
 | ------ | ---------- |
-| Raw | Untouched brand new lead |
+| Raw | Untouched prospect, default status |
 | Inquiry | Action was taken by the record to specifically give their contact information to GitLab |
 | MQL | Marketing Qualified through systematic means |
 | Accepted | Actively working to get in touch with the lead/contact |
@@ -453,7 +453,7 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 
 ## Data Cleanliness and Accuracy Process
 
-Marketing Operations has under its belt the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
+Marketing Operations has the responsibility for cleaning and enriching our database of leads/contacts with the most complete and up to date information. 
 
 The cleaning part of this process is currently being done using our lead/contact deduplication tool, Ringlead. The enrichment part of the process is done using the data appending/enrichment tool, [Zoominfo](https://about.gitlab.com/handbook/marketing/marketing-operations/zoominfo/), our SSOT when it comes to account/lead/contact data. 
 
