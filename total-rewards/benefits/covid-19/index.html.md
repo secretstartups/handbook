@@ -49,7 +49,7 @@ We want to make sure that team members are doing the things necessary to take ca
 
 GitLab has long believed in ["family and friends first”](/handbook/values/#family-and-friends-first-work-second) and we realize that our team members may require some additional time away from work in the event they or a dependent family member are directly affected by COVID-19. In order to best support our team members who find themselves or family member(s) directly affected by COVID-19, GitLab has created this COVID-19 Medical Leave Policy to allow for leave time explicitly and guaranteed.
 
-GitLab team members directly affected by COVID-19 who need to take leave for one of the two reasons set forth below are eligible to take up to 12 weeks of leave with full pay after utilizing our Paid Time Off policy. In the event that the sick leave provided under your local law is more generous than this GitLab COVID-19 Policy, your local law will supersede this policy.
+GitLab team members directly affected by COVID-19 who need to take leave for one of the two reasons set forth below are eligible to take up to 12 weeks of leave with full pay after utilizing our [Sick Leave policy](https://about.gitlab.com/handbook/paid-time-off/#sick-time---taking-and-reporting). In the event that the sick leave provided under your local law is more generous than this GitLab COVID-19 Policy, your local law will supersede this policy.
 1. The team member has received a confirmed medical diagnosis of COVID-19 from a licensed healthcare provider.
 1. The team member is caring for a [dependent family member](/handbook/total-rewards/benefits/covid-19/#faq-for-covid-19-medical-leave-policy) who has received a confirmed medical diagnosis of COVID-19 from a licensed healthcare provider.
 
