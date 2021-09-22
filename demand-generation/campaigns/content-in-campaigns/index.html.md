@@ -511,3 +511,9 @@ To be completed by the content owner if Pathfactory access is granted. If no acc
 1. For commit message, add `Upload [Asset Type]: [Asset Name]`, check box for "create new merge request", name your merge request, and click "Upload file"
 1. Add description to MR, complete the author checklist, assign to `@jgragnola` and click "Submit Merge Request"
 1. In your Marketo program, for the `pdfVersion` My Token, add the naming convention above which will be available when the MR is merged. (the token should look like `https://about.gitlab.com/resources/downloads/add-file-name-here.pdf`)
+
+# Content Syndication
+{: #content-syndication .gitlab-purple}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+To be added
