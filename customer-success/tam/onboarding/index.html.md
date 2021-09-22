@@ -29,9 +29,17 @@ The onboarding process should begin when the [customer opportunity reaches stage
 
 The first step is [completing the handoff from pre-sales to post-sales](/handbook/customer-success/pre-sales-post-sales-transition). This will ensure the entire account team is clear on the customer's status, and the TAM can be properly introduced to the customer.
 
-### TAM intro email
+### TAM intro email and onboarding
 
-The TAM should send the intro email that describes their role and value to the customer, using the email template [provided in Gainsight as part of the onboarding CTA](#cta-content-and-process). This should be completed prior to the [kickoff call](#kickoff-call), and is typically done after the [internal transition meeting](#internal-transition).
+Digital programs will automate the Intro to GitLab CS (what a TAM does) and onboarding enablement emails for all TAM assigned customers (Excluding PubSec). This will trigger for a customer when the onboarding playbook has been created and all emails come from a generic Customer Enablement @ GitLab address. Each email is tokenized with the TAM name and customers have the option to reply directly to the TAM to schedule a call or ask questions. Each TAM will also be cc'd on all emails sent to their customers.
+
+- Email 1: Introduction to GitLab CS Experience (what a TAM does)
+- Email 2: Onboarding Email - Intro, first steps, how to get help
+- Email 3: Onboarding Email - Security, backup and restore
+- Email 4: Onboarding Email - Monitor gitlab, API and rate limits
+- Email 5: Onboarding Email - Additional training and support
+
+Review email copy [here](https://docs.google.com/document/d/1rS1mV_8eKpM49Oh-35sCwmk_5hpV_CQl8S1g-Jc4Xxk/edit?usp=sharing) (interal only)
 
 ### Kickoff call
 
@@ -137,16 +145,12 @@ For both use cases above, a CTA is created for the TAM Manager if the TAM field 
 The CTA guides the TAM through the initial customer engagement.  The tasks and associated content are as follows:
 
 1. [Complete internal transition with the SAL/AE and SA](#internal-transition), covering the Command Plan, adoption goals and priorities and stakeholders
-1. [Send TAM Welcome Email](#tam-intro-email) introducing themselves and the role of the TAM (TAM sends, template in Gainsight)
 1. [Hold Kick Off Call](#kickoff-call) Using [Kick Off Deck](https://docs.google.com/presentation/d/1RcMrN-TQxQt-tEaX1J2EcJATJQfBunStXGTjhGu8CDA/edit?usp=sharing)
 1. [Document Customer Attributes](#success-plan-development-document-key-attributes) in Gainsight
 1. [Hold 1st Cadence Call](#1st-cadence-call-future-growth-discussion--checklist) Focusing on Future Growth
 1. Send Customer Satisfaction Survey & Swag Email (TAM sends, template in Gainsight)
 
 Use the Gainsight TAM Dashboard and the Customer Onboarding Dashboard to manage customers currently in Onboarding.
-
-Please also review our [TAM and Support interaction](/handbook/customer-success/tam/support) page as well as our [Support](/handbook/support) handbook section to assist with sharing support information with customers.
-
 While an Onboarding CTA is an automated process, it can also be created manually by going to the Cockpit, clicking `+ CTA` and then choosing the Onboarding playbook.
 
 ### Gainsight C360 Fields
