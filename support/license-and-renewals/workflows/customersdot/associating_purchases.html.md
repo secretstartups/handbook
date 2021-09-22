@@ -2,7 +2,7 @@
 layout: handbook-page-toc
 title: Associating purchases with additional accounts
 category: CustomersDot
-description: Associating subscription with another account on CustomersDot account. 
+description: Associating subscription with another account on CustomersDot account and for changing primary contact.
 ---
 
 {:.no_toc}
@@ -24,7 +24,7 @@ the subscription.
 
 **Add subscription management contact workflow**
 
-Before we make any changes to the existing contacts, we need **one** of the following:
+Before we add subscription management contact, we need **one** of the following, once the above requirements have been met:
 
 1. Approval from the existing contact
 1. Prior subscription contract
