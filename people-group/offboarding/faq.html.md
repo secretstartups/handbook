@@ -104,7 +104,7 @@ All information is on the [Stock Options](/handbook/stock-options/) handbook pag
 
 #### What happens to my Growth and Development Benefit?
 
-More information can be found in the [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursement) Reimbusement section, which states that if you voluntarily terminate employment with GitLab, any expenses or reimbursement related to this benefit will be refunded to GitLab.
+More information can be found in the [Growth and Development](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#recoupment-of-growth-and-development-reimbursements) Reimbusement section, which states that if you voluntarily terminate employment with GitLab, any expenses or reimbursement related to this benefit will be refunded to GitLab.
 
 ### USA
 
