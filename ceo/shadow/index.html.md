@@ -186,9 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-08-30 | 2021-09-03 | [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect | [Christina Hupy](https://gitlab.com/c_hupy), Sr. Education Program Manager |
-| 2021-09-07 | 2021-09-10 | [Kris Reynolds](https://about.gitlab.com/kreykrey) - Manager, Field Enablement Programs| [Sarah Bailey](https://gitlab.com/sbailey1) -  Solutions Architect  |
-| 2021-09-13 | 2021-09-17 | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote | [Kris Reynolds](https://about.gitlab.com/kreykrey) - Manager, Field Enablement Programs |
 | 2021-09-20 | 2021-09-24 | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote |
 | 2021-09-27 | 2021-10-01 | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
 | 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
@@ -207,7 +204,6 @@ Exceptional community members may be able to participate, as well.
 | 2022-01-18 | 2022-01-21 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-24 | 2022-01-28 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
 | 2022-01-31 | 2022-02-04 | AVAILABLE - REMOTE | AVAILABLE - REMOTE |
-
 
 
 If you have questions regarding the planned rotation schedule, please ping the [Staff Executive Business Admin to the CEO](/handbook/eba/#executive-business-administrator-team). The EBA to the CEO manages the rotation schedule, please do not add new dates to the schedule when adding in your rotation. The CEO's schedule is subject to constant change and your rotation may need to be rescheduled.
@@ -1064,7 +1060,9 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-06-14 | 2021-06-25 | [Vincy Wilson](https://gitlab.com/vincywilson) | Quality Engineering Manager, Fulfillment, Growth & Sec | |
 | 2021-06-21 | 2021-07-02 | [Simon Liang](https://gitlab.com/sliang2) | Principal Internal Communications Manager | |
 | 2021-06-28 | 2021-07-30 | [Christine Lee](https://gitlab.com/christinelee) | Strategy and Operations Director | |
-| 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) | Manager, Technical Marketing | |
+| 2021-08-02 | 2021-08-06 | [Tye Davis](https://gitlab.com/davistye) Shadow Alumni | Manager, Technical Marketing | |
 | 2021-08-02 | 2021-08-13 | [Nuritzi Sanchez](https://gitlab.com/nuritzi) | Sr. Open Source Program Manager | |
 | 2021-08-09 | 2021-08-20 | [Neil McCorrison](https://gitlab.com/nmccorrison) | Frontend Engineering Manager, Secure | |
 | 2021-08-16  | 2021-08-30 | [Christina Hupy](https://gitlab.com/c_hupy)| Manager, Education Programs | [CEO Shadow Reflections](https://youtu.be/ZmLIP5jQS4g) |
+| 2021-08-30  | 2021-09-10 | [[Sarah Bailey](https://gitlab.com/sbailey1) | Solutions Architect Manager | |
+| 2021-09-07  | 2021-09-17 | [Kris Reynolds](https://about.gitlab.com/kreykrey) | Manager, Field Enablement Programs | |
