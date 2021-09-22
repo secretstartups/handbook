@@ -304,12 +304,23 @@ Here are the proper steps for provisioning a new user and user role:
 - Copy the [`user_provision.sql`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/user_provision.sql) script and replace the email, firstname, and lastname values in the initial block
 - If a password is needed, use [Password Generator](https://passwordsgenerator.net/) to create one
     - Send username and password credentials to user with [One Time Secret](https://onetimesecret.com/) or via Slack
-- Document in Snowflake [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) permifrost config file (this file is automaticaly loaded every day at 12:00a.m. UTC)
+- Document in Snowflake [roles.yml](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) permifrost config file (this file is automatically loaded every day at 12:00a.m. UTC)
     - Add the user and user role you created
     - Assign the user role to new user
     - Assign any additional roles to user
 - Ensure the user is assigned the application in Okta
 - Ensure the user is assigned to the `okta-snowflake-users` [Google Group](https://groups.google.com/my-groups)
+
+Here are the proper steps for deprovisioning existing user:
+
+- Snowflake deprovision should be done via an offboarding issue or access request issue.
+- Make sure we have an issue in the the GitLab Data Team project linking the original source request with the `Deprovisioning` label applied.
+- Login to Snowflake and switch to `securityadmin` role
+    - All roles should be under `securityadmin` ownership.
+- Copy the [`user_deprovision.sql`](https://gitlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/user_deprovision.sql) script and replace the USER_NAME. The reason for not removing and leaving the user in snowflake and setting disabled = TRUE is to have a record of when the user lost access.
+- Remove the user from `okta-snowflake-users` [Google Group](https://groups.google.com/my-groups)
+- Remove the user records in Snowflake [roles.yml](https://gitxlab.com/gitlab-data/analytics/-/blob/master/permissions/snowflake/roles.yml) permifrost config file (this file is automatically loaded every day at 12:00a.m. UTC)
+
 
 </div>
 </div>
