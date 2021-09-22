@@ -1133,13 +1133,13 @@ After the ISR or Account manager confirms the Distributor PO is correct, a quote
 Review the [Professional Services handbook page](/handbook/customer-success/professional-services-engineering/#professional-services-handbook) for in-depth information on Professional Services and the [Deal Desk handbook page for the details of PS quote creation](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#quoting-professional-services). 
 
 1. If a Professional Services Opportunity only includes any of these off-the-shelf SKUs
-    * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products.
+    * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products. The opportunity should be created by going to the Open or Closed Won license opportunity and clicking on the New PS Opportunity button. This will generate a related PS opp.
     * A signed copy of the standard SOW is not required, but we can accept it if the customer insists (we love autographs!). The customer will only need to sign the Order Form.
     * Ensure that you have reviewed the standard SOW with your customer **PRIOR** to booking the opportunity. Everything listed in the SOW is what will be provided, no more, no less, no customizations.
 
 
 1. If a Professional Services Opportunity will include a custom SOW with unique deliverables
-    * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products.
+    * Note: Professional Services must be sold on standalone opportunity with the ***Opportunity Record Type*** set to ***Professional Services Only***. They must not be sold on the same opportunity as subscription products. The opportunity should be created by going to the Open or Closed Won license opportunity and clicking on the New PS Opportunity button. This will generate a related PS opp.
     * A fully signed copy of the SOW is **required**. Please review the process on obtaining signatures, as the SOW will also need to be counter-signed by an authorized signer at GitLab.
     * Account owners are not approved signers! **ALL** signatures must go through Legal and/or Finance.
     * A Custom SOW **does not** require a signed order form 
