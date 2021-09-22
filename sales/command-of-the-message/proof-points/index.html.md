@@ -216,17 +216,6 @@ _**Video:** [Ask Media Group shares with GitLab how they accomplished Cloud Nati
 
 ----
 
-<big>[Wish](/customers/wish/)</big><br>
-**Problem:** Wish was using TeamCity for CI and build management, but their automated jobs kept failing. The development team used a homegrown toolchain that included GitHub for SCM and Phabricator for code reviews<br>
-**Solution:** GitLab Premium (CI)<br>
-**Result:** 50% reduction in pipeline down time, 3 times increase in runners and less than 10 last minute fixes per release. Wish has removed the bottlenecks associated with complex toolchains<br>
-**Value Drivers:** Efficiency, Speed<br>
-**Differentiators:** Single App, SCM & CI<br>
-**Usecase:** CI, CD, SCM<br>
-**Vertical:** Retail<br>
-
-----
-
 <big>[Wag!](/blog/2019/01/16/wag-labs-blog-post/)</big><br>
 **Problem:** Slow release process taking over 40 minutes<br>
 **Solution:** GitLab Ultimate (CI, CD)<br>
