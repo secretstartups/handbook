@@ -45,7 +45,7 @@ A popular one recommended by the Security Team is [uBlock Origin](https://github
 
 #### One Tab
 
-[One Tab (Free)](https://www.one-tab.com/) tames tabs into a list which can be sorted and exported.
+[One Tab (Free)](https://www.one-tab.com/) turns tabs into a list which can be sorted and exported.
 
 #### SessionBox
 
