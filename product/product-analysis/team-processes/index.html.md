@@ -139,6 +139,7 @@ You should ask a peer to review your code and/or findings if:
 * You are new to the team
 * You are new to or unfamiliar with the data set
 * The code is going to be reused or highly-visible (ex: Sisense snippets and dashboards)
+* The code is going to be used to measure an experiment
 * The output is informing a critical business decision
 * You want extra eyes on it! Asking for a review is never a bad thing
 
@@ -149,6 +150,7 @@ Before submitting your code for peer review, please check the following:
 * Code is well-commented and easy to follow
   * This includes comments on `JOIN`s, values used in `WHERE` clauses, etc. When it doubt, add 
     a comment
+  * Consider adding aliases to column names to make references explicit
 * Any specific concerns or areas to focus on are called out
   * Ex: "I want some extra eyes on this `LEFT JOIN`", "these are the two most complex CTEs", etc
   * If portions of the code have already been reviewed, call out what is new and what is unchanged
