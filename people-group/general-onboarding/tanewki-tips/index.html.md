@@ -121,7 +121,7 @@ A: That's absolutely okay. You'll want to make sure to talk with your manager as
 
 **Q: How long do I have to enroll in benefits?** 
 
-A: You have 30 days fron your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
+A: You have 30 days from your start date to enroll in benefits. Even if you enroll on that 30th day, benefits coverage backdates to your start date.
 
 **Q: What is Family & Friend's Day?**
 
