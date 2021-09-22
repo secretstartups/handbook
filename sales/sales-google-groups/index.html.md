@@ -155,6 +155,7 @@ The below channels are owned by teams outside of the field organization but migh
 | #whats-happening-at-gitlab | public | Team-wide communication and announcements (reminders, events, project updates, etc.) |
 | #ceo | public | Questions and requests for Sid |
 | #competition | public | Used to share competitive insight/information from the market in real time and to ask the competitive intelligence team questions about how they might handle certain situations |
+| #support_ops-announcements | public (read-only) | Sharing updates on Support-related changes  |
 | #legal | public | General legal questions that are not confidential or seeking legal advice |
 | #marketing | public | General marketing team channel |
 | #sdr-global | public | Used to ask questions and provide useful information related to XDRs |
