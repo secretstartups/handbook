@@ -47,12 +47,12 @@ title: "Financial Planning & Analysis"
 
 ### Definitions
 
-#### Strategic Outlook
+#### Outlook
 
 Purpose: Identify and agree on long-term investments and capabilities that will position GitLab for success over the long-term. Determine whether near-term priorities and funding need to change in order to achieve long-term goals and financial targets.
 
-What: The Strategic Outlook is a three to five year strategic and financial plan:
-- Strategic plan: Refresh and reaffirm company's [three year strategy](/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
+What: The Outlook is a three to five year strategic and financial plan:
+- Outlook: Refresh and reaffirm company's [three year strategy](/company/strategy/). Make recommendations to identify and categorize strategic investment options which adjust our strategy. Focus on areas where decisions today meaningfully impact growth trajectory and/or investment needs. Identify blockers to LT targets and drive to resolution, including incremental funding and/or reprioritization.
 - Financial plan: Set the financial envelope needed to achieve GitLab's long-term targets, including bookings, revenue, P&L and cash metrics. Ensure healthy tension between funding investment needs and fiscal discipline / company efficiency.
 
 Principles:
@@ -61,7 +61,7 @@ Principles:
 - Cross-functional leadership buy-in required; not a finance-only numbers exercise
 - Public company benchmarking drive decisions around GitLab long-term targets
 
-Governance: The Strategic Outlook is reviewed and discussed by the board of directors every year.
+Governance: The Outlook is reviewed and discussed by the board of directors every year.
 
 #### Model
 
