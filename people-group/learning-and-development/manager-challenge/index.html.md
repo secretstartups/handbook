@@ -116,7 +116,7 @@ During week two we will discuss **Effective Communications with Your Team**. Inf
 | Day     | Challenge Topic | Length of Time   |  Format | Activity | 
 |---------|-----------------|------------------|---------|---------|
 | Day 6   | Running an Effective 1:1 (Frequency, format, topics, etc) | 1 hour | Self-paced Daily Challenge | <br> *Share tips on how to make a 1-1 successful <br> *Define difficult 1:1 topics <br> *Giving & Receiving Feedback <br> *Crucial Conversations |
-| Day 7   | Live Learning Session - Coaching and Feedback Scenarios | 1 hour | Live Learning Session | <br> *Real Life Scenarios </br> * Hear from the Audience <br> |
+| Day 7   | Live Learning Session - Coaching and Feedback Scenarios. Hear from the CEO | 1 hour | Live Learning Session | <br> *Real Life Scenarios </br> * Hear from the Audience <br> * GitLab CEO will be joining one of the sessions to do a Q&A on leadership/management at GitLab |
 | Day 8   | Cross-Cultural Collaboration and the Building an Inclusive Team | 1 hour | Self-paced Daily Challenge | <br> * Cross-Cultural Collaboration <br> * Managing in a Global Team <br> * Building Trust |
 | Day 9   | Live Learning - Putting it All Together | 1 hr 20 minutes | Live Learning | <br> *Live learning that includes Social Learning activity with role playing on crucial conversations, a bias for async, feedback, coaching, DBI  and 1-1's <br> * Networking |
 | Day 10  | Individual Growth Plan & weekly evaluation | 30 minutes | Self-paced writing & evaluation | <br> * Fill in the Individual Growth Plan based on the week's activities and self-reflection <br> *Complete the weekly evaluation <br> *Catch up on weekly challenges <br> |
