@@ -830,7 +830,7 @@ We don't use the first 15 minutes of a meeting to read the materials like they [
 
 Don't use your camera to signal you're not paying attention; [cameras should always be on](/handbook/communication/#video-calls).
 
-### First Post is a badge of honor
+### First post is a badge of honor
 
 You should take pride in being the first person to add a question to a
 meeting agenda, however unlike [the First post](https://knowyourmeme.com/memes/first)
@@ -838,6 +838,10 @@ meme we do want the first post to be
 more than just "First!". The meeting DRI will be happy to see there is a
 question ready before to kick off the meeting. The Meeting DRI should remember
 to thank the person for asking the first question.
+
+### Don't do a countdown before ending a call
+
+Never do a countdown or say something like. "I'll give it x seconds", people are very unlikely to ask a question if you do that. Either ask for a question, wait for a question, or end the call.
 
 ## Hybrid calls are annoying
 
