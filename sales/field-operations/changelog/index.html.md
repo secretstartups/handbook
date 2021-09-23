@@ -18,19 +18,21 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-09-27 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/62))
 
-**SOPS: [Hide shipping address field on Account Object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1906)**
-
 **Deal Desk: [Initial Term Automation for Amend Subscription Quotes](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1539)**
 
 **Deal Desk: [Approval Matrix Update: <12 Month Subscriptions](https://gitlab.com/gitlab-com/Finance-Division/finance/-/issues/4408)**
+
+**Deal Desk: [Quote Layout Update: Subscription Name and Type](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1927)**
 
 **SOPS: [Fortune Ranking automated in SFDC](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1935#note_680945815)**
 
 **SOPS: [Enterprise ISR Prioritization & Opportunity Tiering](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2240)**
 
-**Deal Desk: [Quote Layout Update: Subscription Name and Type](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1927)**
+**SOPS: [Hide shipping address field on Account Object](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1906)**
 
 **FOPS: [Partner Operations (Channel + Alliances) Chatter Alias](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2002)**
+
+**CSOPS: [Gainsight Success Plan/Account Plan UI Upgrades](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/568)**
 
 ### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
