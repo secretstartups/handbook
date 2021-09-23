@@ -16,7 +16,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | 2021-09-20|
-| Target End Date | 2021-01-31 |
+| Target End Date | 2022-01-31 |
 | Slack           | [#wg-learning restructure](https://join.slack.com/share/zt-whs6k6s0-RFQOqiPuY0tKYDnWKcmwdg) (only accessible from within the company) |
 | Google Doc      | [Learning Restructure Working Group Agenda](https://docs.google.com/document/d/1P-TEi3yXtRum2pV8KDHON4EIn-mYoH72YpDMJGClFR4/edit#heading=h.3f77vfk6c3o1) (only accessible from within the company) |
 | Related Epics and Issues | TBD         |
