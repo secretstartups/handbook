@@ -258,6 +258,56 @@ Candidates for this position can expect the hiring process to follow the order b
 * 50 minute interview with Director, Product
 * 50 minute interview with CEO
 
+### Senior Director of Product Monetization
+The Senior Director of Product Monetization reports to the [Chief Product Officer](/job-families/product/evp-of-product/).
+
+#### Senior Director of Product Monetization - Job Grade
+
+The Senior Director of Product Monetization is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director of Product Monetization - Responsibilities
+* Define and execute product led growth strategies and tactics to maximize monetization of the GitLab product. Work cross-functionally across GitLab to ensure shared and clear priorities, and excellent execution against priorities. Specific areas of ownership include:    
+
+1. [Growth Product Management](https://about.gitlab.com/direction/growth/).  Leverage experimentation tactics to improve free-to-paid conversion rates and net retention rates.
+1. [Fulfillment Product Management](https://about.gitlab.com/direction/fulfillment/).  Ensure a world class purchasing experience for GitLab customers, and drive towards 100% of sales transactions flowing through automated fulfillment systems.
+1. [Pricing](https://about.gitlab.com/company/pricing/).  Drive pricing and packaging improvements to increase Average Selling Price and Average Revenue Per User.
+
+* Align with Sales & Marketing leadership on the ideal customer acquisition paths for our various sales segments, and then build out a world class user experience to support those acquisition paths
+* Ensure unified priorities across Growth, Pricing, and Fulfillment
+* Leverage data analytics and generate insights to uncover the highest monetization priorities
+* Partner with the Product Intelligence and Data teams to ensure the product usage data set is sufficient to drive high priority monetization projects
+* Partner with Growth engineering to increase our ability to run experiments to one experiment per week per engineer
+
+#### Senior Director of Product Monetization - Requirements
+* 12+ years of relevant experience, with 7+ years of people management experience, including management of Directors+
+* Track record of leading products to successful commercial outcomes
+* Competency in product led growth, pricing, and self-service purchasing experience best practices
+* Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
+* Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
+
+#### Senior Director of Product Monetization - Hiring Process
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+
+* Apply on the GitLab Jobs [page](/jobs/)
+* 30 minute screening call with Recruiter
+* 50 minute interview with Chief Product Officer
+* 50 minute panel interview with the Director of Growth, Sr. Director of Pricing, Group Manager of Fulfillment, and Engineering Director of fulfillment and growth.
+* 50 minute interview with CMO
+* 50 minute interview with CRO
+* 50 minute interview with CEO
+
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+ 
+## Performance Indicators
+Product Leadership is responsible for building the capacity and capability of their team and the groups they support to achieve:
+1. Their [relevant Product Performance Indicators](/handbook/product/performance-indicators/#structure)
+1. Our global [Product KPIs](/company/kpis/#product-kpis)
+1. Job satisfaction of the team members who report to them (as measured by annual employee engagement survey)
+1. Hiring versus plan and [new hire location factor](/handbook/product/performance-indicators/#new-hire-location-factor)
+1. IACV attained by assigned [use case](/handbook/use-cases/#specific-use-cases) as designated in `Why GitLab` of opportunity [Command Plans](/handbook/sales/command-of-the-message/command-plan/) ([Dashboard](https://app.periscopedata.com/app/gitlab/705822/Product-Management-+-Sales-Opportunity-Feedback)).
+
+In addition, some roles have role-specific activities and performance indicators.
+
 ### VP of Product Monetization
 The VP of Product Monetization reports to the [Chief Product Officer](/job-families/product/evp-of-product/).
 
@@ -280,8 +330,9 @@ The VP of Product Monetization is a [grade 12](/handbook/total-rewards/compensat
 
 #### VP of Product Monetization - Requirements
 * 18 years+ of relevant experience, with 10+ years of people management experience, including management of Directors+
-* Track record of leading products to successful commercial outcomes
-* Demonstrated proficiency in product led growth, pricing, and self-service purchasing experience best practices
+* Track record of leading products to successful commercial outcomes while operating at the executive level
+* Demonstrated mastery of product led growth, pricing, and self-service purchasing experience best practices
+* Proven ability to set and communicate winning product led growth strategies
 * Excellent at boardroom and big stage presentations, and able to inspire and motivate customers and employees through written and verbal communications
 * Demonstrated ability to teach and coach the product management skills as outlined [here](/handbook/product/product-manager-role/product-CDF-competencies/)
 
