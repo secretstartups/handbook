@@ -165,7 +165,7 @@ Legend with links to the relevant metrics:
 1. [Wider community contributions Turbo](/handbook/marketing/community-relations/code-contributor-program/#wider-community-contributions-per-milestone)
 1. [R&D Overall MR Rate](/handbook/engineering/performance-indicators/#rd-overall-mr-rate)
 1. [Stage maturity](/direction/maturity/) increase
-1. [MAU](/handbook/product/metrics/#monthly-active-users-mau) increase 
+1. [MAU](/handbook/product/metrics/#monthly-active-users-mau) increase
 1. [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) increase Turbo which is only possible in a [single application with multiple stages](/handbook/product/single-application/)
 1. More [Licensed users](/handbook/sales/#licensed-users) is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) leading to a higher conversion from free to paid and a higher gross retention.
 1. Higher [Revenue per licensed user](/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu) due to the [Advantages of a single application](/handbook/product/single-application/)
