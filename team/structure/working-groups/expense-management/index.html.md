@@ -27,7 +27,7 @@ canonical_path: "/company/team/structure/working-groups/expense-management/"
 Ensure that our expense policy relects GitLab's [spend company like its your own sub-value](/handbook/values/#spend-company-money-like-its-your-own) while being highly efficient for accounting and other team members. 
 
 This will include:
-1.  Providing clarity around how to interpret the value
+1.  Providing clarity around how to interpret the sub-value
 1.  Updating the purchase recommendations page in the handbook
 1.  Evaluating current expense infrastruture and making any required changes
 1.  Updating current expense processes and policies and making any required changes
