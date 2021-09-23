@@ -110,7 +110,15 @@ To contribute, open an issue in the Product project using the [Product Competenc
 
 ## Pilot Program for New CDF 
 
-In FY22-Q3 to FY22-Q4, select Product teammates and managers will be engaging in a pilot of this new CDF. The process will include: 
+In FY22-Q3 to FY22-Q4, select Product teammates and managers will be engaging in a pilot of this new CDF. 
+
+Check out a quick overview of the pilot program and how to use the template below: 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/Xn_P3CWJWZM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+The process will include: 
 
 1. Using the new CDF [template](https://docs.google.com/spreadsheets/d/1V1dgARiOw38xtfG0Mdn1Sn34y94RfNzOUH2IBp0pDAs/edit#gid=1091464991) alongside their existing CDF document 
 1. Managers will only provide feedback using the new CDF template 
