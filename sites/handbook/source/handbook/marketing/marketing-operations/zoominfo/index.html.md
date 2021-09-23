@@ -110,7 +110,8 @@ Weekly enrichment in SFDC has been extended to all contacts as of 25th September
 
 Zoominfo Campaign Member Enrichment can be done in two ways: 
 
-1. Via Scheduled Enrich with List Views and Enrichment Jobs for both Leads & Contacts (Recommended)
+1. Via Scheduled Enrich with List Views and Enrichment Jobs for both Leads & Contacts (Recommended).
+
 To do this, follow the steps below:
 - Mark the leads & contacts with the use of an operational field like **MktgOPS_C**
 - Create Lead List Views & Contact List Views and filter using the operational field;
