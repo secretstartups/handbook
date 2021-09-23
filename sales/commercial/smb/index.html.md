@@ -100,28 +100,6 @@ True-ups are conversations that often come to the table with customers during re
 
 For suggested email templates for a mid-term call along with renewal calls, reference the latest in the **SMB Email Templates** shared document.
 
-#### Discount Approval Process (WIP)
-
-#### Forecasting (WIP)
-
-Please use the following analysis of your pipeline to get the most accurate monthly and quarterly forecast
-
-1. Find your total Closed Won "CW" pipeline
-1. Find the iACV in your Current Active pipeline. Forecast this bucket by weighted amounts (it can be weighted by each stage to be micro, or an average weight based on your close ratio). Manual work is taken into account here. You may have top value deals that need to be adjusted, closing at 100% for best case, or maybe 0-low x% worst case/commit.
-1. The next important number is your expected pipeline growth. On average how much pipeline do you create and close each week. As months (or quarters) continue does the close rate decrease or increase. Typically it decreases therefore the average amount created+closed per day as the month (or quarter) continues goes down and then restarts day 1 of the next month (or quarter)
-1. Finally, use the following equations to get your 50/50, best case, and commit number to forecast. This is all using Gross iACV as the renewal loss will be automatically calculated into this equation based on the input in Clari
-
-- CW + (Active * x%) + (Growth * x%) = 50/50
-- CW + ((active - top deals)* x% + top deals at 90-100%) + (Growth * x%) = best case
-- CW + ((active - top deals)* x% + top deals at 0-20%) + (Growth * x%) = commit/low
-
-1. Things to consider
-
-- Deals in next month that can pull into this month go into best case
-- Deals this month that can push to next month take out of commit
-- If you are earlier in the quarter you (growth *x%) is higher growth and higher % than end of month
-- How many blue birds do you get per quarter - have you had one this quarter? It can weigh the (growth *x%) to one extreme or another unexpectedly
-
 ### Tools
 
 - [ZenDesk](/handbook/support/workflows/zendesk-overview.html) - Ticketing system
