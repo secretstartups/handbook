@@ -30,6 +30,8 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 **Deal Desk: [Quote Layout Update: Subscription Name and Type](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/1927)**
 
+**FOPS: [Partner Operations (Channel + Alliances) Chatter Alias](https://gitlab.com/gitlab-com/sales-team/field-operations/systems/-/issues/2002)
+
 ### 2021-09-13 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/61))
 
 **SOPS: [Publicly Accessible Chorus Recordings](https://gitlab.com/gitlab-com/gl-security/security-operations/sirt/operations/-/issues/1560)**
