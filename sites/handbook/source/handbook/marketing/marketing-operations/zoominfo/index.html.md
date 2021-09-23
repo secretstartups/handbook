@@ -93,22 +93,29 @@ All of Salesforce current accounts in the database have been enriched with Zoomi
 
 ## SFDC Lead Enrichment
 The lead enrichment jobs currently running in Zoominfo prioritize the following leads: 
+
 1. Leads that are owned by the `SDR Queue` are scheduled to be enriched by Zoominfo weekly on Saturdays. Leads updated by ZoomInfo during this Scheduled Enrich job are reprocessed by LeanData and if possible, assigned to the appropriate SDR. 
 
-2. Leads that have the criteria below:  
-- Country = P0, P1 countries (AX,AU,AT,BR,CA,CN,DK,FO,FI,FR,DE,IE,IT,JP,KP,KR,MX,NL,NZ,NO);
-- have been created in the last 120 days;
-- have Lead Status = Inquiry; 
-- have no title OR no phone number OR have a free e-mail address (gmail,yahoo);
+2. Leads that either:
+- Had a Last Interesting Moment in the last 120 days;
+- Have No Phone # OR no Title OR no Email OR have free email AND are not in Raw status AND have not yet been enriched(based on `Zoominfo First Updated` field) ;
+- Large & MM leads based on `Employee bucket` field;
 
-These leads are scheduled to be enriched on a weekly basis on Wednesdays.
+All jobs are scheduled to be enriched over the weekend (on Saturdays). 
 
 ## SFDC Contact Enrichment
-The contact enrichment jobs currently running in Zoominfo prioritize contacts which follow the below criteria: 
-- Account: Shipping Country = P0, P1 countries (AX,AU,AT,BR,CA,CN,DK,FO,FI,FR,DE,IE,IT,JP,KP,KR,MX,NL,NZ,NO);
-- have no title OR no phone number OR have a free e-mail address (gmail,yahoo);
+Weekly enrichment in SFDC has been extended to all contacts as of 25th September 2021. 
 
-These contacts are scheduled to be enriched on a weekly basis on Thursdays.
+## Campaign Member Enrichment (Leads & Contacts) 
+
+Zoominfo Campaign Member Enrichment can be done in two ways: 
+
+1. Via Scheduled Enrich with List Views and Enrichment Jobs for both Leads & Contacts (Recommended)
+To do this, follow the steps below:
+- Mark the leads & contacts with the use of an operational field like **MktgOPS_C**
+- Create Lead List Views & Contact List Views and filter using the operational field;
+- Create & Schedule Zoominfo enrichment jobs for both leads & contacts and select enrichment via the list views created at the previous step. 
+2. Via Instant Enrich via SOQL (Currently buggy)
 
 ### Outreach Integration
 The ZoomInfo Outreach integration is now live and you may export contacts directly to Outreach. Any contacts you do export, will also be exported in SFDC. They will be initially missing some ZI information in SFDC but there will be an append job that will run automatically to update any missing information.
