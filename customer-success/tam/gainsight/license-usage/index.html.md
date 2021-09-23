@@ -11,9 +11,9 @@ License Utilization is calculated on a subscription level. In Gainsight, we roll
 
 You can watch the [5 minute Gainsight license utilization overview video](https://youtu.be/ZqpmxoUy6EE) for the visuals and ways to leverage the tooling. 
 
-There are three main fields we use at the subscription-level utilization data:
+There are three main fields we use at the Instance and Namespace level (generally subscription-level, too) for License Utilization data:
 
-* **Billable User Count**: From Operational Metrics. Number of users that can be billed for a license, excludes guest users.
+* **Billable Users**: From Operational Metrics. Number of users that can be billed for a license, excludes guest users.
 * **Licensed Users**: From Zuora, via Salesforce. Total number of seats purchased for a given subscription.
 * **License Utilization (Subscription)**: Calculated in Gainsight based on above metrics. Activated Users/Licensed Users percentage.
 
@@ -23,7 +23,7 @@ Gainsight then rolls up this data to the account level, and you can see the aggr
 
 On the Customer 360, you can view the following fields under the User Adoption Metrics section:
 
-* **Billable User Count Sum**: The number of current users that GitLab will bill the customer for across all subscriptions under the account 
+* **Billable Users - Account**: The number of current users that GitLab will bill the customer for across all subscriptions under the account 
 * **Total Licenses Sold (Account)**: The number of licenses purchased across all subscriptions under the account 
 * **License Utilization %**: Includes all subscriptions under the account. 
   * Sum of the Billable User Count field 
