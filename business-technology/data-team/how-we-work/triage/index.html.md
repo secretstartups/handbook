@@ -113,13 +113,43 @@ Determination matrix: **
 ** Determination matrix is not extensive. Every MR should be checked carefully.  
 
 ### GitLab Postgres Database not accessible
-In a scenario when gitlab cloned Postgres database is not accessible then follow the below course of action. 
+In a scenario when gitlab cloned Postgres database is not accessible, the airflow task log is showing below error. 
+```
+sqlalchemy.exc.OperationalError: (psycopg2.OperationalError) FATAL:  the database system is starting up\n
+b'FATAL:  the database system is starting up\n'
+```
+Follow the steps mentioned below. 
 
 1. Open an issue using the DE Triage template.
 2. Pause all the gitlab.com DAG named `gitlab_com_data_reconciliation_extract_load` , `gitlab_com_db_extract`,`gitlab_com_db_incremental_backfill`,`gitlab_com_scd_db_sync`.  The reason behind is to keep the alerting down and not use unwanted resources.
-3. Reach out to `@sre-oncall` slack handle to look into the issue. 
-4. Once the issue is resolved or confirmed from the `@sre-oncall` person, unpause all the paused DAG. Check by clearing the status of the failed task to see if the connection has been restored. 
-5. If the DAG has missed the scheduled run, trigger the DAG manually to do the catch-up.
+3. Look into the alert channel and search for the “GitLab Job has failed” to locate the alert. The sample alert will have content like below.
+```
+Firing 1 - GitLab Job has failed
+The GitLab job "clone" resource "zlonk.datalytics.dailyx" has failed.
+:chart: View Prometheus graph:label: Labels:
+ Alertname: JobFailed
+ Alert_type: symptom
+ Env: gprd
+ Environment: gprd
+ Fqdn: blackbox-01-inf-gprd.c.gitlab-production.internal
+ Job: clone
+ Monitor: default
+ Provider: gcp
+ Region: us-east
+ Resource: zlonk.datalytics.dailyx
+ Severity: s3
+ Shard: default
+ Stage: main
+ Tier: db
+ Type: zlonk.postgres
+Show less
+```
+4. Reach out to `@sre-oncall` slack handle to look into the issue also raise an incident request using [incident declare](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#reporting-an-incident). This will create a production incident issue for the SRE on-call team to act upon also `cc @gitlab-data/engineers` for broader visibility of the incident. 
+5. Link the Infra issue with the Triage Issue raised. 
+6. Once the issue is resolved or confirmed from the `@sre-oncall` person or someone from the DBRE team, try re-running one of the failed tasks by clearing one alone to validate the stability of the connection.
+7. For DAG `gitlab_com_scd_db_sync` , `gitlab_com_data_reconciliation_extract_load` and `gitlab_com_db_incremental_backfill` clear failed task so that it get picked up for run as these task runs only once in 24 hour window.In case we have missed the whole schedule, we re-trigger the DAG itself. 
+8. If DBT runs for the day miss the source refreshes, then post notification in the #data channel for the delay in source freshness using triage template.
+
 
 ## Zuora Stitch Integration single or set of table-level reset
 It could happen, in any case, to [reset the table](https://www.stitchdata.com/docs/troubleshooting/destinations/destination-loading-error-reference#snowflake-error-reference) in Stitch for the Zuora data pipeline, in order to backfill a table completely (i.e. new columns added to in the source, technical error etc).
