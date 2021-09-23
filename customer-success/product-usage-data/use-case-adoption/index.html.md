@@ -46,7 +46,7 @@ This looks to all users who ran any Secure scan in the last 28 days / Licenses S
 
 ## Continuous Delivery (CD)
 
-Continous Delivery is considered an expansionary use case (one after the initial purchase intent has been solved). 
+CD is considered an expansionary use case (one after the initial purchase intent has been solved). 
 Adoption timeline: 1 months after license purchase
 
 |                    | **Red** | **Yellow** | **Green** |
