@@ -107,6 +107,29 @@ _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on B
 - GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
 - Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
 
+## TFS to GitLab
+
+TFS contains more than a source code repository, so additional questions need to be asked while scoping out a TFS migration. Three common components in TFS are the following:
+
+- Code: The source code itself
+- Builds: Any automated build processes, usually defined in a XAML file along with a solution (.sln) and/or project file (.csproj)
+- Workitems: Issues/tickets for tracking work. Similar to GitLab issues or JIRA tickets
+
+| Question | Answer | Sample Answer | Rationale for asking|
+| ----- | ----- | ----- | ----- |
+| Are you using Git or TFVC for your SCM? | | TFVC | This will influence how we interact with the TFS server and determine if a conversion to Git is necessary |
+| How many code repositories? | | 500 | This will affect the decision on general approaches listed above |
+| Are you using branches in your code repositories? | | Yes | If the answer is no for some of the repositories, the customer will have to choose between converting specific folders in the repository to branches to retain history or accept a flat file migration of the repository with no history
+| Do you need to retain history in your code repositories? | | Yes | If the answer is no and the customer is using TFVC, then we do not need to convert the repos to Git. 
+| Are you using TFS to build your software? | | yes | This will add CI/CD consulting/transformation activities to the engagement if the answer is yes |
+| How many builds/build tempaltes are used per code repository? | | 1 | This is a guage of complexity. Sometimes a code repository can contain several different build definitions |
+| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | yes | This can lead to a time sink from a pipeline perspective or require a refactor to those solution/project files during the engagement |
+| How many build servers do you use? |  | 1 | We usually convert a build server to something more epehemeral so the more build servers in use, the more development is required to transition them to something more ephemeral |
+| Are you using workitems in TFS? |  | yes | If workitems need to be retained, then additional migration activities need to be added to the SOW |
+| Are there any specific flags used in your build process? If so, what? |  | Yes  | This shows the customer is measuring this data to be used during the transition process. |
+| Are there any external tools/applications tied to your TFS server? | | Yes. We use an in-house tool that pulls from TFS daily for gathering metrics | If the answer is yes, additional activities will need to be added to the SOW to accomodate transitioning those tools to pull from Git instead.
+
+
 ## Other git based SCMs
 - We can support these customers by using the "bare git" method of migration. This is done through the [Import repo by URL UI](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) or command line using `git push -u. 
 - The customer should provide a list of git urls to iterate over to support the migration. 
