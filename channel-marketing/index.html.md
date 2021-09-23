@@ -93,9 +93,11 @@ that details the FMM process where CAMs can read more about how to complete [the
 - Once a POP is completed, the Channel Marketing Manager will create an issue [`channel_mdf_pop`](https://gitlab.com/gitlab-com/marketing/partner-marketing/-/issues/new#channel_mdf_pop) and complete Step 1 
 - Once Step 1 is completed, Channel Marketing will notify Finance for their review and reimbursement payment to the partner
 
+## Partner-Initiated FREE Trials
+
+Partners now have the ability to place a FREE trial button on their website as a critical call to action to their demand generation plans. Free trials allow users to have access to a full set of features for a limited amount of time (30-days). Once a visitor requests a free trial from a GitLab partner, the record is sent to GitLab for the license key to be assigned and assigned to a partner in SFDC. In addition, the lead is then routed automatically via Vartopia to the partner for tracking and follow up. This is the same process that is followed whether the record is considered a lead or a contact within GitLab's instance of SFDC.
+
 ## Future/Potential Service Offerings
-
-
 
 *   Branding, awareness and promotion of GitLab channel partner badges
 *   Partner marketing concierge services (dependent on funding/resources)
