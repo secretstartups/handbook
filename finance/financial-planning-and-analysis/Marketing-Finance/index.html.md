@@ -84,8 +84,9 @@ If you have budget that you do not plan to spend in the quarter, you may realloc
 ## Sponsorships
 
 If you bring in revenue through sponsorships during a GitLab event, please do the following: 
-1. Create an issue outlining the sponsors, sponsors contact information and the expected sponsorship amounts 
-2. Work with Legal to create a sponsorship contract that can be used to send out to all of sponsors. Get these contracts signed and an agreement in place.
-3. Work with your finance business partner to send out invoices to the sponsors and to ensure that the revenue is being properly accounted for. 
+1. Confirm that the campaign tag for the event has an ISO date as the first eight characters. This will signal to our accounting team to recognize the sponsorships in the correct period 
+2. Create an issue outlining the sponsors, sponsors contact information and the expected sponsorship amounts. Tag finance and accounting in this issue. 
+3. Work with Legal to create a sponsorship contract that can be used to send out to all of sponsors. Get these contracts signed and an agreement in place.
+4. Work with your accounting partner to send out invoices to the sponsors and to ensure that the revenue is being properly accounted for. 
 
 
