@@ -7,8 +7,8 @@ title: Migrate CI Tables To New Database Plan
 
 There are 3 interesting parts of the migration with fairly simple solutions:
 
-1. How do we perform the switch: DNS CNAME. Our connections are already using DNS with short TTL so we just add another CNAME in the middle and switch it.
-1. How do we block writes during the cutover: Block connections via the PGBouncer CI write hosts as CI table writes will already be going via dedicated hosts.
+1. How do we perform the switch: Pause PGBouncer, reconfigure and reload configuration.
+1. How do we block writes during the cutover: Pause or shut down the PGBouncer CI write hosts as all CI table writes will already be going via dedicated hosts.
 1. How do we do initial and incremental data sync: Postgres streaming replication. Same as we use for replicas today.
 
 ## Background on existing production PGBouncer/Consul/Patroni/Postgres architecture
@@ -50,12 +50,11 @@ locations of primary and replica hosts.
    Standby Patroni Cluster has previously be setup for
    Geo](https://docs.gitlab.com/ee/administration/geo/setup/database.html#configuring-patroni-cluster-for-a-geo-secondary-site)
    which may inform how we set it up for this use case.
-1. We create a Consul DNS entry `CNAME master-ci-transition.patroni.service.consul -> master.patroni.service.consul`
 1. GitLab.com can now be configured so that replica connections for CI tables
    use service discovery for `db-ci-replica.service.consul`.
 1. Deploy a new set of PGBouncer primary hosts with hostname
    `pgbouncer-ci.int.gprd.gitlab.net` that connects to
-   `master-ci-transition.patroni.service.consul`.
+   `master.patroni.service.consul`.
 1. GitLab.com can now be configured so that primary connections for CI tables
    use `pgbouncer-ci.int.gprd.gitlab.net`.
 
@@ -64,16 +63,16 @@ locations of primary and replica hosts.
 1. On the weekend
 1. Confirm replication lag is low between our main Patroni cluster and new CI
    Patroni cluster
-1. Block writes via the CI PGBouncer write hosts. This can be done by
-   reconfiguring the main Postgres database to block connections from these
-   CI PGBouncer hosts
+1. Block writes via the CI PGBouncer write hosts. This can be done by pausing
+   PGBouncer or shutting it down
 1. Confirm there are currently no connections from CI PGBouncer write hosts to
    the main Postgres database
 1. Check current LSN of main Patroni cluster leader called `last_update_lsn`
 1. Wait until streaming replication from main Patroni cluster to CI Patroni
    cluster has caught up to `last_update_lsn`
 1. Remove the streaming replication from main Patroni cluster to CI Patroni cluster
-1. Update Consul DNS `CNAME master-ci-transition.patroni.service.consul -> master-ci.patroni.service.consul`
+1. Update the configuration of PGBouncer to point to `master-ci.patroni.service.consul`
+1. Restart/unpause PGBouncer
 1. This is considered the "Point of no return". See [Rolling
    back](#rolling-back) for the options for recovering from failures from here.
 1. At this point the transition is complete but there will be many failed
@@ -85,8 +84,6 @@ locations of primary and replica hosts.
 
 ### Cleanup after the migration
 
-1. Update new PGBouncer for CI R/W to connect to `master-ci.patroni.service.consul`
-1. Delete the `master-ci-transition.patroni.service.consul` DNS record
 1. Truncate ci tables on main database
 1. Delete non-ci tables from CI database
 
@@ -114,226 +111,28 @@ Here are some example scenarios:
    effectivly cleanup and does not need to be rushed.
 1. If you are past the "point of no return" and writes are not being written to
    the new destination host and they are just failing or being lost then:
-   you can change back to writing to the main Patroni cluster:
-   1. `CNAME master-ci-transition.patroni.service.consul -> master.patroni.service.consul`
+   you can change the CI PGBouncer host back to writing to the main Patroni
+   cluster `master.patroni.service.consul`.
 1. If you are past the "point of no return" and writes have been written to the
    new cluster but you need to roll back due to some performance issues then
    this will likely require downtime. If there is no data loss it will be
-   possible to recover by stopping any writes to `ci_*` tables (or GitLab.com
-   entirely) and then doing a `pgdump` of all the `ci_*` tables. Then use that
-   `pgdump` to recover the up to date state of all `ci_*` tables on the main Patroni cluster. At this point you can set the CNAME back to point to the main cluster `CNAME master-ci-transition.patroni.service.consul -> master.patroni.service.consul` and re-enable writes.
+   possible to recover by stopping the CI PGBouncer and then doing a `pgdump`
+   of all the `ci_*` tables. Then use that `pgdump` to recover the up to date
+   state of all `ci_*` tables on the main Patroni cluster. At this point you
+   can reconfigure the CI PGBouncer back to point to the main cluster
+   `master.patroni.service.consul` and re-enable writes.
+1. If you are past the "point of no return" and find out after we've done the
+   cutover migration that something was still updating CI tables in `main` DB.
+   This is a split brain and recovery will be very difficult. We may need to
+   tolerate data loss but we should try to mitigate the risk. One way is
+   [using Postgres locks/triggers to block writes](#using-postgres-lockstriggers-to-block-writes).
+   Another way to mitigate risk is by doing tests early and using monitoring to
+   confirm that `ci_*` tables are never updated via the `main` DB connection.
 
-## Process in diagrams
+## Process in diagrams and execution epic
 
-Below is the diagram of how Rails will connect to the different databases at the various stages of the migration. This diagram does not show how the databases are linked via replication. Some lines show the DNS record used to locate the service with the intention of highlighting how DNS records change throughout the migration.
-
-### Initial
-
-```mermaid
-graph LR
-    subgraph "Rails"
-    end
-
-    subgraph ILB["Load balancer virtual IP"]
-    end
-
-    subgraph "PgBouncer Host A"
-        PgBouncer1
-    end
-
-    subgraph "PgBouncer Host B"
-        PgBouncer2
-    end
-
-    subgraph "DB Primary Host"
-        PGBouncerDormant1
-        PGBouncerDormant2
-        Postgres["Postgres (read/write)"]
-    end
-
-    subgraph "DB Replica Host"
-        PgBouncerReplica1
-        PgBouncerReplica2
-        PostgresReplica["Postgres (read-only)"]
-    end
-
-    Rails -->|rdb-replica.service.consul| PgBouncerReplica1
-    Rails -->|db-replica.service.consul| PgBouncerReplica2
-
-    Rails -->|pgbouncer.int.gprd.gitlab.net|ILB
-
-    PgBouncerReplica1 --> PostgresReplica
-    PgBouncerReplica2 --> PostgresReplica
-
-
-    ILB --> PgBouncer1
-    ILB --> PgBouncer2
-
-    PgBouncer1 --> Postgres
-    PgBouncer2 --> Postgres
-```
-
-### Middle
-
-```mermaid
-graph LR
-    subgraph "Rails"
-    end
-
-    subgraph ILB["Load balancer virtual IP"]
-    end
-
-    subgraph ILBCI["Load balancer virtual IP (CI)"]
-    end
-
-    subgraph "PgBouncer Host A"
-        PgBouncer1
-    end
-
-    subgraph "PgBouncer Host B"
-        PgBouncer2
-    end
-
-    subgraph "PgBouncer CI Host A"
-        PgBouncerCI1
-    end
-
-    subgraph "PgBouncer CI Host B"
-        PgBouncerCI2
-    end
-
-    subgraph "DB Primary Host"
-        PGBouncerDormant1
-        PGBouncerDormant2
-        Postgres["Postgres (read/write)"]
-    end
-
-    subgraph "DB Primary Host (CI) -- NOT USED"
-        PGBouncerDormantCI1
-        PGBouncerDormantCI2
-        PostgresCI["Postgres (read/write)"]
-    end
-
-    subgraph "DB Replica Host"
-        PgBouncerReplica1
-        PgBouncerReplica2
-        PostgresReplica["Postgres (read-only)"]
-    end
-
-    subgraph "DB Replica Host (CI)"
-        PgBouncerReplicaCI1
-        PgBouncerReplicaCI2
-        PostgresReplicaCI["Postgres (read-only)"]
-    end
-
-    Rails -->|db-replica.service.consul| PgBouncerReplica1
-    Rails -->|db-replica.service.consul| PgBouncerReplica2
-
-    Rails -->|db-ci-replica.service.consul| PgBouncerReplicaCI1
-    Rails -->|db-ci-replica.service.consul| PgBouncerReplicaCI2
-
-    Rails -->|pgbouncer.int.gprd.gitlab.net|ILB
-    Rails -->|pgbouncer-ci.int.gprd.gitlab.net|ILBCI
-
-    PgBouncerReplica1 --> PostgresReplica
-    PgBouncerReplica2 --> PostgresReplica
-
-    PgBouncerReplicaCI1 --> PostgresReplicaCI
-    PgBouncerReplicaCI2 --> PostgresReplicaCI
-
-    ILB --> PgBouncer1
-    ILB --> PgBouncer2
-
-    ILBCI --> PgBouncerCI1
-    ILBCI --> PgBouncerCI2
-
-    PgBouncer1 --> Postgres
-    PgBouncer2 --> Postgres
-
-    PgBouncerCI1 -->|master-ci-transition.patroni.service.consul|Postgres
-    PgBouncerCI2 -->|master-ci-transition.patroni.service.consul|Postgres
-```
-
-### End
-
-```mermaid
-graph LR
-    subgraph "Rails"
-    end
-
-    subgraph ILB["Load balancer virtual IP"]
-    end
-
-    subgraph ILBCI["Load balancer virtual IP (CI)"]
-    end
-
-    subgraph "PgBouncer Host A"
-        PgBouncer1
-    end
-
-    subgraph "PgBouncer Host B"
-        PgBouncer2
-    end
-
-    subgraph "PgBouncer CI Host A"
-        PgBouncerCI1
-    end
-
-    subgraph "PgBouncer CI Host B"
-        PgBouncerCI2
-    end
-
-    subgraph "DB Primary Host"
-        PGBouncerDormant1
-        PGBouncerDormant2
-        Postgres["Postgres (read/write)"]
-    end
-
-    subgraph "DB Primary Host (CI)"
-        PGBouncerDormantCI1
-        PGBouncerDormantCI2
-        PostgresCI["Postgres (read/write)"]
-    end
-
-    subgraph "DB Replica Host"
-        PgBouncerReplica1
-        PgBouncerReplica2
-        PostgresReplica["Postgres (read-only)"]
-    end
-
-    subgraph "DB Replica Host (CI)"
-        PgBouncerReplicaCI1
-        PgBouncerReplicaCI2
-        PostgresReplicaCI["Postgres (read-only)"]
-    end
-
-    Rails -->|db-replica.service.consul| PgBouncerReplica1
-    Rails -->|db-replica.service.consul| PgBouncerReplica2
-
-    Rails -->|db-ci-replica.service.consul| PgBouncerReplicaCI1
-    Rails -->|db-ci-replica.service.consul| PgBouncerReplicaCI2
-
-    Rails -->|pgbouncer.int.gprd.gitlab.net|ILB
-    Rails -->|pgbouncer-ci.int.gprd.gitlab.net|ILBCI
-
-    PgBouncerReplica1 --> PostgresReplica
-    PgBouncerReplica2 --> PostgresReplica
-
-    PgBouncerReplicaCI1 --> PostgresReplicaCI
-    PgBouncerReplicaCI2 --> PostgresReplicaCI
-
-    ILB --> PgBouncer1
-    ILB --> PgBouncer2
-
-    ILBCI --> PgBouncerCI1
-    ILBCI --> PgBouncerCI2
-
-    PgBouncer1 --> Postgres
-    PgBouncer2 --> Postgres
-
-    PgBouncerCI1 -->|master-ci-transition.patroni.service.consul|PostgresCI
-    PgBouncerCI2 -->|master-ci-transition.patroni.service.consul|PostgresCI
-```
+You can find an epic describing the steps and blockers for executing this
+process at <https://gitlab.com/groups/gitlab-org/-/epics/6160> .
 
 ## Possible optimizations to the plan
 
@@ -342,15 +141,11 @@ that may reduce user impact or just generally make the process safer or faster.
 
 ### Using Postgres locks/triggers to block writes
 
-Any migration will require a brief moment of blocking writes while we actually
-switch the connections. The simplest option is detailed in the plan which is to
-block connections from the CI dedicated PGBouncer write hosts. This may be
-tricky to communicate specific errors to the client that could inform the
-client to retry and additionally it may take some time to apply the
-configuration change. Optionally we want to investigate the possibility of
-acquiring Postgres locks and installing triggers that return a clear error to
-the client to retry:
-
+Using PGBouncer to block CI writes may not give us 100% confidence that CI
+writes aren't still happening to the `main` DB due to an application bug. We
+may want to investigate using locks or triggers to block writes in the `main`
+database for any CI tables. This could act as a redundant check to mitigate
+risk.
 1. Open transaction and acquire a lock to block any writes to CI tables in main Patroni cluster:
    1. `LOCK TABLE ci_builds, ci_pipelines, ... IN EXCLUSIVE MODE`
 1. Add triggers to main database to fail INSERT/UPDATE (new triggers will not be
