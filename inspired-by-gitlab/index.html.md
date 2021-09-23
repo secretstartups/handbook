@@ -93,6 +93,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "As a [predominantly](https://www.ainfosec.com/we-are-in-this-together-ais-response-to-covid-19/) on-premise organization, [Assured Information Security](https://www.ainfosec.com/) is sitting on the shoulder of giants by adapting Gitlab [communication practices](/handbook/communication/) and using GitLab technology. The care and expertise is apparent in the [GitLab company values](/handbook/values/), handbook, community, and product, which has allowed us to rapidly [adopt a new way of doing business](/company/culture/all-remote/hybrid-remote/) and trust we are on a proven path."
 1. [Matter IP](https://www.matter-ip.com/)
    - "GitLab are real leaders in remote working, which is something essential to our business model but that we felt out of our depth on. The [Remote Playbook](http://allremote.info/) has been a great resource for us to makes sure we approach this in a way that leads to success."
+1. [OpenNebula](https://opennebula.io/all-remote-manifesto-opennebula-systems-goes-fully-distributed/)
+   - "Inspired by [GitLab and its all-remote movement](/company/culture/all-remote/), we are adopting a fully distributed work policy to improve talent recruitment and retention, employee wellness, and long-term flexibility, adaptability, and scalability. We are starting a journey to build remote fluency in our organization. In the following months, we will be implementing new operational processes to help our people and organization embrace remote work and the future of living.  
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
