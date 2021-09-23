@@ -944,7 +944,7 @@ Save event images and headers here: Save images for featured events [here](https
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
 - **Location** - city, state, provinces, districts, counties (etc depending on country), country where event will take place
-- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, or `Global`
+- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, `PubSec`, or `Global`
 - **Social tags** - hashtag for event shared by event host
 - **Event URL** - homepage for event
 
