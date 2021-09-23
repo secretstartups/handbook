@@ -1,7 +1,7 @@
 ---
 layout: markdown_page
 title: "Expense Management Working Group"
-description: "The business goal of GitLab expense management group is to update "
+description: "The business goal of GitLab expense management group is ensure efficient expense management in line with GitLab values"
 canonical_path: "/company/team/structure/working-groups/expense-management/"
 ---
 
