@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "LicenseDot Access and Use"
-description: "This page outlines how the Sales Org can access and use LicenseDot in support of their customers, including troubleshooting steps."
+title: "CustomersDot Access and Use"
+description: "This page outlines how the Sales Org can access and use CustomersDot in support of their customers, including troubleshooting steps."
 ---
 
 ## On this page
@@ -13,9 +13,9 @@ description: "This page outlines how the Sales Org can access and use LicenseDot
 {::options parse_block_html="true" /}
 
 
-## LicenseDot Access and Use - Sales
+## CustomersDot Access and Use - Sales
 
-### LicenseDot Use Cases
+### CustomersDot Use Cases
 
 **Lookup all issued licenses for a customer/prospect**
 
@@ -27,13 +27,13 @@ It's the only way to search for usage ping data if the server name is not known.
 
 **Quickly find which email address was used to deliver a license**
 
-It is important to know who received the license for further troubleshooting as LicenseDot is the SSOT for license information.
+It is important to know who received the license for further troubleshooting as CustomersDot is the SSOT for license information.
 
 ### Logging in 
 
-Access is via Okta. Either go to https://license.gitlab.com/users/sign_in and click “Sign in with Okta” or go to your Okta App and look for the LicenseDot box.
+Access is via Okta. Either go to https://license.gitlab.com/users/sign_in and click “Sign in with Okta” or go to your Okta App and look for the CustomersDot box.
 
-### Available Information in LicenseDot
+### Available Information in CustomersDot
 
 Once logged in, use the search (name, email, company) to find the relevant license id. Once in, you can see relevant facts such as:
 
