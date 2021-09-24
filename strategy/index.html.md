@@ -148,8 +148,8 @@ graph TB
   id3 --> id9
   id4(MAU increase) --> id5
   id5(More Licensed users) --> id6
-  id6(IACV) --> id12
-  id12(ARR) --> id8
+  id6(ARR) --> id12
+  id12(Net ARR) --> id8
   id7(R&D spend ratio) --> id8
   id8(R&D investment) --> id11
   id11(Development Department Narrow MR Rate) --> id2
@@ -169,7 +169,6 @@ Legend with links to the relevant metrics:
 1. [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) increase Turbo which is only possible in a [single application with multiple stages](/handbook/product/single-application/)
 1. More [Licensed users](/handbook/sales/#licensed-users) is due to an increase in unlicensed users (MAU) and the increase in [SpO](/handbook/product/performance-indicators/#stages-per-organization-spo) leading to a higher conversion from free to paid and a higher gross retention.
 1. Higher [Revenue per licensed user](/handbook/sales/#revenue-per-licensed-user-also-known-as-arpu) due to the [Advantages of a single application](/handbook/product/single-application/)
-1. [IACV](/handbook/sales/#incremental-annual-contract-value-iacv) 
 1. [ARR](/handbook/sales/#annual-recurring-revenue-arr) stands for Annual Recurring Revenue is our [most important KPI](/handbook/ceo/kpis/#gitlab-kpis)
 1. R&D spend ratio becomes higher if the growth rate is higher due to the [Hypergrowth Rule](/handbook/finance/financial-planning-and-analysis/hypergrowth-rule/)
 1. R&D investment is the amount of money spend on Product Management and Engineering excluding Support
