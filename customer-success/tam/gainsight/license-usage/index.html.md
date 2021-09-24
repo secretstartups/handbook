@@ -13,11 +13,13 @@ If you believe there is inaccurate data for an account, see how to [report bad d
 
 There are three main fields we use at the Instance and Namespace level (generally subscription-level, too) for License Utilization data:
 
-* **Billable Users**: From Operational Metrics. Number of users that can be billed for a license, excludes guest users.
-* **Licensed Users**: From Zuora, via Salesforce. Total number of seats purchased for a given subscription.
-* **License Utilization (Subscription)**: Calculated in Gainsight based on above metrics. Activated Users/Licensed Users percentage.
+* **Billable User Count**: From Operational Metrics. Number of users that can be billed for a license, excludes guest users.
+* **Licensed Users**: Number of licenses purchased for a given subscription.
+* **License Utilization (Subscription)**: Calculated in Gainsight based on above metrics: `Billable User Count/Licensed Users` represented as a percentage.
 
-Gainsight then rolls up this data to the account level, and you can see the aggregated data for your accounts.
+NOTE: these exist on the `Product Usage Metrics` object. This will be represented per Instance or Namespace.
+
+Gainsight then rolls up this data to the account level, and you can see the aggregated data for your accounts (see below). 
 
 ### Customer 360 Page
 
@@ -25,11 +27,7 @@ On the Customer 360, you can view the following fields under the User Adoption M
 
 * **Billable Users - Account**: The number of current users that GitLab will bill the customer for across all subscriptions under the account 
 * **Total Licenses Sold (Account)**: The number of licenses purchased across all subscriptions under the account 
-* **License Utilization %**: Includes all subscriptions under the account. 
-  * Sum of the Billable User Count field 
-  * Sum of Total Licenses Sold 
-  * Average % of license utilization (calculated as Sum of the Billable Users/Total Licenses Sold) 
-* **Account License Utilization %**: Sum of the Billable User Count/Total Licenses Sold (for all subscriptions under the account).
+* **License Utilization - Account**: Sum of the Billable User Count/Total Licenses Sold (for all subscriptions under the account).
 
 Please note that there may be situations where fields are blank or don't seem to include data from all subscriptions. This might occur because:
 
