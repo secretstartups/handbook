@@ -40,7 +40,7 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor selection process</span></a>  
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin-left:30px;margin-right:30px;display:grid;align-items:center;height:100%;">Vendor selection process</span></a>  
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</span></a>
 </div>
 
