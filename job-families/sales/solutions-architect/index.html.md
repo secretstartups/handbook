@@ -378,6 +378,35 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 - Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
 - Ability to use GitLab, including learning GitLab as part of the role
 
+### Demo Engineer
+
+While collaborating cross-functionally at GitLab, the Demo Engineer drives efficiency into Solutions Architecture execution through curating, creating, and maintaining Solutions Architecture field-facing artifacts.
+
+The Demo Engineer will have the opportunity to help shape and enhance the way customers experience interaction with GitLab from initial consultation throughout the entire customer journey. The ideal candidate must be self-motivated with a proven track record in software development, systems engineering, and technical sales. The ability to connect technology with measurable business value is critical to this role. You should also have a demonstrated ability to think strategically about business, products, and technical challenges.
+
+#### Demo Engineer Responsibilities
+
+* Work collaboratively with Solutions Architecture, Marketing, Field Enablement, and Product Management to curate, create, and maintain Solutions Architecture lead workshops, demonstrations, and other artifacts leveraged during pre-sales activities
+* Continuously test and update collateral to reflect GitLab product changes per release
+* Deliver prospect and customer-facing workshops and demonstrations using frequently leveraged artifacts
+* Collaborate with the Demo Systems Engineering team to ensure GitLab instances are configured and available for demonstrations and workshops
+* Ensure demo data and stories align to key business and marketing messaging
+* Design creative new ways to highlight GitLab functionality
+* Ensure systems contain reliable, current data for repeatability in storytelling
+* Document and communicate demo and workshop artifact availability and usage guidance
+
+#### Demo Engineer Requirements
+
+* Ideal candidates will have IT industry, software development,  and technical sales experience
+* Deep knowledge of software development lifecycle 
+* Software development experience
+* Understanding of continuous integration, continuous deployment, and cloud-native technology
+* Experience with waterfall, Agile (SCRUM, Kanban, etc.) and able to discuss workflows for different software development processes
+* Experience with modern development practices strongly preferred, including Kubernetes, Docker, Package Management, Application Security (SAST, DAST), Cloud infrastructure, and serverless
+* Excellent time management and self-organization skills while performing a wide range of tasks and quickly pivoting to respond to higher priorities
+* Successful completion of a background check
+* Ability to use GitLab
+
 ## Performance Indicators
 
 As with all roles in the Sales Department, the Solutions Archtiect job family participates in a subset the [Sales KPIs](/handbook/ceo/kpis/#sales-kpis).
