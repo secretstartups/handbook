@@ -31,7 +31,7 @@ It is important to know who received the license for further troubleshooting as 
 
 ### Logging in 
 
-Access is via Okta. Either go to https://license.gitlab.com/users/sign_in and click “Sign in with Okta” or go to your Okta App and look for the CustomersDot box.
+Access is via Okta. Either go to https://license.gitlab.com/users/sign_in and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal box.
 
 ### Available Information in CustomersDot
 
