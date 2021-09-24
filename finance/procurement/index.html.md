@@ -40,20 +40,21 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
 <div class="flex-row" markdown="0" style="height:110px;">
-  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Vendor selection process</span></a>  
-  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Purchase request process</span></a>
-  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>Vendor selection process</span></a>  
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
 
 ## How to start Procurement process?
-1. Identify the Billing Entity of your purchase.
-  - **US** or **Netherlands entity**: GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV
-  <br> OR <br>
-  - **Non-US** or **Non-Netherlands entity**: GitLab Gmbh, Gitlab Ltd., GitLab PTY Ltd., GitLab Canada Corp., GitLab GK, GitLab Korea Limited.
-2. Identify the cost of your purchase.
 
-- If your purchase falls under a **Non-US** or **Non-Netherlands entity**, please open a GitLab Procurement Issue based on your purchase type - Marketing, Software, Professional Services.
-- If your purchase falls under a **US** or **Netherlands entity**, please submit a Coupa request following the below Procurement Guide.
+### What are you buying?
+<div class="flex-row" markdown="0" style="height:110px;">
+  <a href="/handbook/finance/procurement/new-software/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>New Software</span></a>  
+  <a href="/handbook/finance/procurement/software-renewal/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Software renewal or add on</span></a>
+  <a href="/handbook/finance/procurement/professional-services/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Professional Services/Contractors/Agencies</span></a>
+  <a href="/handbook/finance/procurement/field-marketing-events/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Field Marketing and Events</span></a>
+  <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Travel and Expenses</span></a>
+</div> 
+
 
 
 ## <i class="far fa-flag" id="biz-tech-icons"></i> Purchase Request Quick Guide
