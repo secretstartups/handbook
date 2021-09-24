@@ -83,8 +83,10 @@ Priority Definitions include:
 1. Pr1: TAM-led onboarding, monthly cadence call (as minimum), full TAM-led customer lifecycle
 1. Pr2: 60 day call cadence, EBR, renewal touch point
 1. Pr3: Non-managed child accounts only
-1. Pr4: Digital-enablement only customres 
+1. Pr4: Digital-enablement only customers
 
+![Post-Sales Customer Segmentation](https://lucid.app/publicSegments/view/8a23ea4e-843c-47be-9337-d819c158efac/image.jpeg "Post-Sales Customer Segmentation")
+<br>
 
 Why do we use a prioritization system?
 
