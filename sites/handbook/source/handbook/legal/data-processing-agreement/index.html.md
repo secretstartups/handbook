@@ -4,4 +4,4 @@ title: "GitLab Data Processing Agreement"
 description: "This agreement ..."
 ---
 
-<a href="https://gitlab.com/gitlab-com/legal-and-compliance/-/blob/master/DPA_Signed_09_21_21.pdf">GitLab Data Processing Addendum</a>
+<a href="https://gitlab.com/gitlab-com/legal-and-compliance/-/raw/master/BR_signed_Hosted_DPA_V1-brobins_gitlab.com.pdf">GitLab Data Processing Addendum</a>
