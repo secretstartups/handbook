@@ -39,7 +39,7 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 - See the purchase request process for when to contact Procurement and how to open a purchase request issue.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
-<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
+<div class="flex-row" markdown="0" style="height:110px;justify-content:center;margin:25px">
   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>Vendor selection process</span></a>  
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Vendor guidelines</span></a>
 </div>
@@ -48,13 +48,13 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 
 ### What are you buying?
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/new-software/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>New Software</span></a>  
-  <a href="/handbook/finance/procurement/software-renewal/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Software renewal or add on</span></a>
-  <a href="/handbook/finance/procurement/professional-services/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Professional Services/Contractors/Agencies</span></a>
+  <a href="/handbook/finance/procurement/new-software/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span>New Software</span></a>  
+  <a href="/handbook/finance/procurement/software-renewal/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Software renewal or add on</span></a>
+  <a href="/handbook/finance/procurement/professional-services/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width:200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Professional Services/Contractors/Agencies</span></a>
 </div>
-<div class="flex-row" markdown="0" style="height:110px;">
-  <a href="/handbook/finance/procurement/field-marketing-events/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Field Marketing and Events</span></a>
-  <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Travel and Expenses</span></a>
+<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
+  <a href="/handbook/finance/procurement/field-marketing-events/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width:200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Field Marketing and Events</span></a>
+  <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn cta-btn ghost-purple" style="white-space: initial;min-width:200;width: auto;margin:5px;display:grid;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;">Travel and Expenses</span></a>
 </div> 
 
 
