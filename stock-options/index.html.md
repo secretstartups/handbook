@@ -20,7 +20,7 @@ GitLab will be iterating on the content on this handbook page to reflect the upd
 ### What’s changing?
 
 * For your new equity grants, you will receive RSUs instead of Stock Options. There is no change to our equity strategy or the dollar grant value you will receive. We will continue to grant the same dollar grant value as seen in the [GitLab Compensation Calculator](https://comp-calculator.gitlab.net/).
-* Vesting will change: Since we’re changing equity vehicles which have different tax requirements, our vesting will change as well. Grants begin vesting on the date of approval by the board of directors and will be granted monthly and vest quarterly with a one-year cliff.
+* Vesting will change: Since we’re changing equity vehicles which have different tax requirements, our vesting will change as well. Grants begin vesting on the date of approval by the board of directors and will be granted quarterly.
 
 ### Why the change to RSUs?
 
