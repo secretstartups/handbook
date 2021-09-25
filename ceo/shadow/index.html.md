@@ -1064,5 +1064,6 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-08-02 | 2021-08-13 | [Nuritzi Sanchez](https://gitlab.com/nuritzi) | Sr. Open Source Program Manager | |
 | 2021-08-09 | 2021-08-20 | [Neil McCorrison](https://gitlab.com/nmccorrison) | Frontend Engineering Manager, Secure | |
 | 2021-08-16  | 2021-08-30 | [Christina Hupy](https://gitlab.com/c_hupy)| Manager, Education Programs | [CEO Shadow Reflections](https://youtu.be/ZmLIP5jQS4g) |
-| 2021-08-30  | 2021-09-10 | [[Sarah Bailey](https://gitlab.com/sbailey1) | Solutions Architect Manager | |
+| 2021-08-30  | 2021-09-10 | [Sarah Bailey](https://gitlab.com/sbailey1) | Solutions Architect Manager | |
 | 2021-09-07  | 2021-09-17 | [Kris Reynolds](https://about.gitlab.com/kreykrey) | Manager, Field Enablement Programs | |
+| 2021-09-13  | 2021-09-24 | [Darren Murph](https://about.gitlab.com/dmurph) Shadow Alumni | Head of Remote | |
