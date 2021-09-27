@@ -23,6 +23,7 @@ This lab uses a CI/CD job that will not work on the shared runners available in 
     + scope it to your existing **CICD Demo** project by using the registration key from that project
     + assign it the `docker` executor
     + give it a tag of your choosing, to make sure it runs the CI/CD job you’ll create in this lab. The job definition you’ll paste in later uses the `byo-runner` tag, but you can change this to anything as long as the GitLab Runner has the same tag.
+    + for the `Enter the default Docker image` enter `Docker:stable`
     
 ### Edit the `config.toml` file
 
