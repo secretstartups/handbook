@@ -115,6 +115,15 @@ Localized campaigns currently follow the the [integrated campaign process](/hand
 
 After a content asset or webpage has been translated, be sure to add it to the [Localization Resources](https://docs.google.com/spreadsheets/d/1NK_0Lr0gA0kstkzHwtWx8m4n-UwOWWpK3Dbn4SjLu8I/edit?usp=sharing) spreadsheet. If edit access, isn't available, send the content addition to @bmatturro to update.
 
+### Language preference 
+
+The following language preference segmentations are available in Marketo:
+1. [French](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950653A1)
+2. [German](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950651A1)
+3. [Japanese](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950655A1)
+4. [Korean](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52953988A1)
+5. [Default (English)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/SL52950659A1)
+
 ### Translated URL structure
 
 All translated pages live in a sub-folder dedicated to a specific language. These sub-folders use [ISO 639-1 codes] (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes). For example, German pages live in the `/de/` sub-folder.
