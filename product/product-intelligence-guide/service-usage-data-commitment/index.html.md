@@ -56,9 +56,9 @@ While we will be pseudonymizing personal information for individual users, there
 1. In the case of single user subscribers, product usage activity can be tied back to an actual user (internally) via metadata in our enterprise applications.
 
 
-#### Roadmap
+#### Product Intelligence Roadmap
 
-Our [pseudonymization process](https://gitlab.com/groups/gitlab-org/-/epics/6309#proposed-solution) to de-identify [personally identifiable data](https://gitlab.com/gitlab-org/gitlab/-/issues/336779#considered-data-for-pseudonymization) which relies on [one-way hashing](https://gitlab.com/groups/gitlab-org/-/epics/6309#one-way-hashing) is targeting release in milestone 14.3. 
+Our [pseudonymization process](https://gitlab.com/groups/gitlab-org/-/epics/6309#proposed-solution) to de-identify [personally identifiable data](https://gitlab.com/gitlab-org/gitlab/-/issues/336779#considered-data-for-pseudonymization) which relies on [one-way hashing](https://gitlab.com/groups/gitlab-org/-/epics/6309#one-way-hashing) is targeting release in milestone 14.4 (October 2021). 
 
 A key part of our plan is to pseudonymize data at the [collection layer](https://gitlab.com/groups/gitlab-org/-/epics/6309#hashing-on-the-collector-layer), which allows GitLab to resolve any issues without a dependency for upgrading versions on your part. 
 
