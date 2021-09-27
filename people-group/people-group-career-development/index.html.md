@@ -42,7 +42,9 @@ Not sure how to get started? Use these steps to determine the best place to star
 
 ### Talent Aquisition
 
-TBD
+1. [Communication Foundations](https://gitlab.edcast.com/insights/communication)
+1. [Employer Branding on LinkedIn](https://gitlab.edcast.com/insights/employer)
+1. [Content Marketing Foundations](https://gitlab.edcast.com/insights/content-marketing-foundations)
 
 
 ### People Ops
@@ -61,7 +63,8 @@ TBD
 
 ### People Success
 
-TBD
+1. [Meeting Facilitation](https://gitlab.edcast.com/insights/meeting)
+1. [Communicating with Empathy](https://gitlab.edcast.com/insights/communicating-with-empathy)
 
 
 ### Becoming a People Group Leader
@@ -92,7 +95,6 @@ If you're a member of the people group, you're invited to open an MR on this pag
 1. 
 1. 
  
-
 
 ## How to Contribute
 
