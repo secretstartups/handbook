@@ -95,7 +95,7 @@ We recognize that this pattern has the following disadvantages (with mitigations
 | Disadvantage | Mitigation |
 |---|---|
 | We add database objects to GitLab that are unused in the codebase. | By annotating objects, we keep track of this to reduce confusion. |
-| We accept overhead for any GitLab installation, including GitLab.com,<br />to create and maintain JiHu-specific database objects that are not strictly in use by or necessary for GitLab. | For GitLab.com, we may choose to ignore `jihu_` indexes (we don't need to be able to upgrade to JH). |
+| We accept overhead for any GitLab installation, including GitLab.com,<br />to create and maintain JiHu-specific database objects that are not strictly in use by or necessary for GitLab. | For GitLab.com, we may choose to ignore JiHu-specific indexes (we don't need to be able to upgrade to JH). |
 | Always having to go through GitLab to add database migrations limits flexibility for JiHu. | We expect benefits from collaborating closely on database design in terms of knowledge exchange. |
 | Code review overhead: Without accompanying code, it is often difficult to provide meaningful feedback for database design. | We ask to link relevant code changes and provide as much information as possible upfront. |
 
