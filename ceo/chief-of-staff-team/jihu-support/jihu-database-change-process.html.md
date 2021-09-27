@@ -39,7 +39,7 @@ A JiHu contribution may add columns to existing GitLab tables. However, those co
 take the following measures for clarity:
 
 1. Annotate columns with a PostgreSQL comment to indicate the column is jihu-specific.
-1. Based on the annotations, we don't expose jihu-specific columns to ActiveRecord in a regular GitLab environment. This will be switched off in a JiHu environment.
+1. Based on the annotations, we don't expose JiHu-specific columns to ActiveRecord in a regular GitLab environment. This will be switched off in a JiHu environment.
 1. Added columns can *only* be set nullable (`NULL`) or not-null with a default `NOT NULL DEFAULT x`
 
 #### Table/view additions
