@@ -14,7 +14,7 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 ## Update to US based team members Benefits
 
-Open Enrollment has been scheduled for Calendar Year 2022 from 2021-11-08 to 2021-11-19. This is a _passive_*  enrollment as we are staying with our current carriers (Cigna, Kaiser, etc). For the upcoming U.S. Benefits Open Enrollment period, we have selected a new benefits administration platform and support team. Starting 2021-10-01, our U.S. team members will be able to:
+Open Enrollment has been scheduled for Calendar Year 2022 from 2021-11-08 to 2021-11-19. This is a _passive_  enrollment as we are staying with our current carriers (Cigna, Kaiser, etc). For the upcoming U.S. Benefits Open Enrollment period, we have selected a new benefits administration platform and support team. Starting 2021-10-01, our U.S. team members will be able to:
 * Elect benefits during open enrollment or for a qualifying life event in PlanSource.
 * View coverage details and carrier information via PlanSource. 
 * Call a new benefits helpline before, during, and after Open Enrollment leveraging our new partnership with Willis Towers Watson (“WTW”).  The dedicated support line WTW established can assist with all benefit related questions. This includes questions about benefits, ID cards, claims, EOBs, plan options and anything related to their current benefit offerings. 
