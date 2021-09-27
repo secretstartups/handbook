@@ -57,7 +57,11 @@ This is one link that can be sent to multiple recipients, and the gifts will be 
 PLEASE NOTE: Do not tick `Ask recipient to confirm their address` for  campaigns linked to a Landing Page
 1. Complete this form to request a landing page: https://form.asana.com/?k=mBpww9IX3k5mRbd1dt4D1A&d=1193162279639741
  
-Best Practices when completing the form:
+### Best Practices when completing the form:
+1. Create campaigns before completing the form and add the links of these campaigns into 'What campaign(s) would you like to link to this landing page?`
+1. Always state `Yes` for question `Would you like approval on submissions?`
+1. Revisions will require additional turnaround time, so please allow 5 - 7 days prior to the launch date
+
 
 # How to request an invoice for more credit
 
