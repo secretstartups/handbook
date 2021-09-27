@@ -572,6 +572,32 @@ The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For
 - Q3: [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
 - Q4: [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)
 
+## Retrospective Summary Experiment in FY22 Q4
+
+During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an expirement where we perform Retrospective Summaries at the Section level. Section level leaders in Product and Development are the DRIs for retrofitting the current Retrospective Summary process for their section and documenting their process for doing so.
+
+### Experiment Hypothesis
+
+As GitLab has grown their have become too many layers between a group retrospective and the company wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization. 
+
+### Experiment Success Measurements
+
+We'll consider this experiment a success if:
+- All team member cumulative engagement, as measured by issue and agenda doc comments, in all section Retrospective Summary discussions is higher than the current baseline (14.1,14.2,14.3)
+- Stable counterpart engagement, as measured by issue and agenda doc comments, in section Retrospective Summary discussions include team members from an average of more than 4 functions (Security, UX, Quality)
+- The effort to prepare and perform a retrospective summary is deemed by DRIs to be < 4 hours per month
+
+### Experiment Section DRIs
+
+While leaders are available in the [categories page](/handbook/product/categories/) (and subject to change) - we explicit call out the DRIs for each section in this experiment.
+
+- Dev - Tim Zallman and David Desanto
+- Sec - Todd Stadelhofer and Hillary Benson
+- Ops - Sam Goldstein and Kenny Johnston
+- Enablement - Chun Du and Josh Lambert
+- Growth - Wayne Haber and Hila Qu
+- Fulfillment - Wayne Haber and Justin Farris
+
 ## Milestone Cleanup
 
 Engineering Managers are responsible for capacity planning and scheduling for their respective teams with guidance from their counterpart Product Managers.
