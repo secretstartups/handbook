@@ -426,13 +426,13 @@ Plug the URL into the following:
 ```
 <iframe class="dashboard-embed" src="https://app.periscopedata.com/shared/string-of-numbers-here?embed=true" height="700"> </iframe>
 ```
-
+Note when using dashboards from the SAFE space, making an Externally Shared Dashboard will make the dashboard available to anyone with the link and is not recommended.  
 We aim to make sure that the dashboard does not require scroll within the handbook, so you will need to adjust the height value appropriately.
 There is no way to do that programmatically.
 
 #### Charts
 
-Embedded charts in the handbook should always be generated using the `signed_periscope_url` helper function. This function will generate a signed URL for you automatically without needing a member of the data team to help you. This is especially convenient when experimenting with passing different data options to the Sisense API.
+Embedded charts in the handbook should always be generated using the `signed_periscope_url` helper function. This function will generate a signed URL for you automatically without needing a member of the data team to help you. This is especially convenient when experimenting with passing different data options to the Sisense API.  This helper function will return an error if attempting to embed a chart from the SAFE space.  It is recommended that only URLs be shared to charts that are within the SAFE space.
 
 Note that your file must end in `.erb`. If you are working on a file which has a name `index.html.md` simply append `.erb` to create a filename of `index.html.md.erb`.
 
@@ -448,7 +448,7 @@ Tip: The embedded charts will not render locally, because the required PERISCOPE
 
 ### Performance Indicators YML
 
-`data/performance_indicators.yml` is the basis for a system that automatically generates handbook pages with performance indicator content on them, according to a convention. If you give an object the `periscope_data` property with sub-values, the template will automatically generate a signed URL and write the HTML for you. It uses the same helper function as above.
+`data/performance_indicators.yml` is the basis for a system that automatically generates handbook pages with performance indicator content on them, according to a convention. If you give an object the `periscope_data` property with sub-values, the template will automatically generate a signed URL and write the HTML for you. It uses the same `signed_periscope_url` helper function as above. This helper function will return an error if attempting to embed a chart from the SAFE space.  It is recommended that only URLs be shared to charts that are within the SAFE space.
 
 ```
 - name: MR Rate
