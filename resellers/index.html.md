@@ -315,7 +315,7 @@ Request your license by logging in to the [Partner Portal](https://www.partners.
 
 
 *   Partners can receive either Self-Managed or SaaS NFR licenses at the Ultimate level for a 12 month period.
-    *   Select partners can request a license for up to 25 users - additional licenses may be avaialble with business justification.
+    *   Select partners can request a license for up to 25 users - additional licenses may be available with business justification.
     *   Open partners can request a license for up to 10 users
 *   Please allow 2 business days for processing your request. 
 
@@ -330,7 +330,7 @@ To be eligible for the NFR program, partners must:
 **NFR Renewals**
 
 
-GitLab NFR licenses expire after a 12 month subscription period, unless they are add-on licenses, in which case they expire with the partner’s oldest NFR licenses.  For partners in good standing, the subscription will be automatically renewed.
+GitLab NFR licenses expire after a 12 month subscription period, unless they are add-on licenses, in which case they expire with the partner’s oldest NFR licenses. For Select partners in good standing, the licenses will be automatically renewed. For Open partners in good standing, renewal must be requested.
 
 **NFR Program Terms and Conditions:**
 
