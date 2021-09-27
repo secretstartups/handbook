@@ -46,13 +46,22 @@ When working with views, there are 3 things to keep in mind:
 
 ## Creating a view via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the views
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the views management
+pages under `Workspaces` > `Agent workspace` > `Views`. All videos are of the
+old location (i.e. in the admin panel). Once you access the management pages,
+the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/KIcieIX5kGI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a view, you will first go to the admin panel by clicking on the gear
-icon on the left-hand side of Zendesk. From there, locate the Manage section and
-then click on the Views link.
+To create a view, you will first go to the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the views management pages
+under `Workspaces` > `Agent workspace` > `Views`.
 
 Once on the view list page, click the `Add view` button on the top-right of the
 page. This will bring up the view creation page.
@@ -80,13 +89,22 @@ the page to create the view.
 
 ## Editing a view via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the views
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the views management
+pages under `Workspaces` > `Agent workspace` > `Views`. All videos are of the
+old location (i.e. in the admin panel). Once you access the management pages,
+the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/niDHNc-R2ZE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To edit a view, you will first go to the admin panel by clicking on the gear
-icon on the left-hand side of Zendesk. From there, locate the Manage section and
-then click on the Views link.
+To edit a view, you will first go to the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the views management pages
+under `Workspaces` > `Agent workspace` > `Views`.
 
 Once on the view list page, locate the view in the list (if looking to edit a
 personal view, you will need to change the filter on the left side below the
@@ -98,6 +116,14 @@ Once you are done making your edits, click the blue `Save` button at the
 bottom-right of the page to save the changes.
 
 ## Deactivating a view via Zendesk
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the views
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the views management
+pages under `Workspaces` > `Agent workspace` > `Views`. All videos are of the
+old location (i.e. in the admin panel). Once you access the management pages,
+the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/fA-8pGHReRE" frameborder="0" allowfullscreen="true"> </iframe>
@@ -118,6 +144,14 @@ retained in the backend. Re-enabling the view will have it take the same
 position it was in while previously active.
 
 ## Positioning
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the views
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the views management
+pages under `Workspaces` > `Agent workspace` > `Views`. All videos are of the
+old location (i.e. in the admin panel). Once you access the management pages,
+the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/TBD" frameborder="0" allowfullscreen="true"> </iframe>

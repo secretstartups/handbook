@@ -37,6 +37,13 @@ non-support tickets and for next response times).
 
 ## How to create a Zendesk SLA
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the SLAs
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the SLAs management pages
+under `Objects and rules` > `Business rules` > `Service level agreements`. Once
+you access the management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/haEvA5RV0iM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -45,11 +52,12 @@ non-support tickets and for next response times).
 getting a subscription. Please ensure you follow proper
 [change management](#change-management) at all times!
 
-To create a SLA policy in Zendesk, you will first go to the admin panel by
-clicking on the gear icon on the left-hand side of the page. From there, you
-will locate the `Service Level Agreements` link under the `Business Rules`
-section. On this page, click the white `Add policy` button. This will then
-display a new SLA where you will enter:
+To create a SLA policy in Zendesk, you will first go to the Admin Center, which
+you can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the SLAs
+management pages under `Objects and rules` > `Business rules` >
+`Service level agreements`. On this page, click the white `Add policy` button.
+This will then display a new SLA where you will enter:
 
 * a name for the SLA policy.
 * a description for the SLA policy.
@@ -62,6 +70,13 @@ After doing so, click the black `Save` button to create the SLA policy.
 
 ## How to edit a Zendesk SLA
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the SLAs
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the SLAs management pages
+under `Objects and rules` > `Business rules` > `Service level agreements`. Once
+you access the management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/m8M4ZMYiKUY" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -70,15 +85,24 @@ After doing so, click the black `Save` button to create the SLA policy.
 getting a subscription. Please ensure you follow proper
 [change management](#change-management) at all times!
 
-To edit a SLA policy in Zendesk, you will first go to the admin panel by
-clicking on the gear icon on the left-hand side of the page. From there, you
-will locate the `Service Level Agreements` link under the `Business Rules`
-section. On this page, locate the SLA policy to edit and click on it. This will
-open the SLA policy settings, where you can make the needed changes,
+To edit a SLA policy in Zendesk, you will first go to the Admin Center, which
+you can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the SLAs
+management pages under `Objects and rules` > `Business rules` >
+`Service level agreements`. On this page, locate the SLA policy to edit and
+click on it. This will open the SLA policy settings, where you can make the
+needed changes,
 
 After doing so, click the black `Save` button to update the SLA policy.
 
 ## How to delete a Zendesk SLA
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the SLAs
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the SLAs management pages
+under `Objects and rules` > `Business rules` > `Service level agreements`. Once
+you access the management pages, the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/QfNz4y3qMr8" frameborder="0" allowfullscreen="true"> </iframe>
@@ -88,13 +112,14 @@ After doing so, click the black `Save` button to update the SLA policy.
 getting a subscription. Please ensure you follow proper
 [change management](#change-management) at all times!
 
-To delete a SLA policy in Zendesk, you will first go to the admin panel by
-clicking on the gear icon on the left-hand side of the page. From there, you
-will locate the `Service Level Agreements` link under the `Business Rules`
-section. On this page, locate the SLA policy to edit and hover over it. You will
-then click the gear icon on the right-hand side of the SLA policy. From there,
-click on `Delete`. A pop-up box will appear asking you to confirm the deletion.
-To confirm, click the black `Delete policy` button.
+To delete a SLA policy in Zendesk, you will first go to the Admin Center, which
+you can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the SLAs
+management pages under `Objects and rules` > `Business rules` >
+`Service level agreements`. On this page, locate the SLA policy to edit and
+hover over it. You will then click the gear icon on the right-hand side of the
+SLA policy. From there, click on `Delete`. A pop-up box will appear asking you
+to confirm the deletion. To confirm, click the black `Delete policy` button.
 
 ## Trigger standards
 

@@ -31,13 +31,22 @@ These fall into one of two types:
 
 ## Creating a ticket form via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+forms management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+forms management pages under `Objects and rules` > `Tickets` > `Forms`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/K50KeqERqkI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a ticket form via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Forms link (under the Manage section towards the top) on the left-hand side.
+To create a ticket form via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket forms management pages under `Objects and rules` > `Tickets` > `Forms`.
 From there, click the `Add form` button at the top-right of the page.
 
 From here, you will do the following:
@@ -70,13 +79,22 @@ Once you have completed all the conditions you want to add, click the blue
 
 ## Editing a ticket form via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+forms management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+forms management pages under `Objects and rules` > `Tickets` > `Forms`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/jm_GDy7D6s8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To edit a ticket form via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Forms link (under the Manage section towards the top) on the left-hand side.
+To edit a ticket form via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket forms management pages under `Objects and rules` > `Tickets` > `Forms`.
 From there, locate the ticket form in question you want to edit.
 
 To edit the name, visibility, or fields used, click the title itself.
@@ -90,13 +108,22 @@ From there, the process matches what you'd see with
 
 ## Deactivating a ticket form via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+forms management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+forms management pages under `Objects and rules` > `Tickets` > `Forms`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/vAYVvX6EBI0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To deactivate a ticket form via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Forms link (under the Manage section towards the top) on the left-hand side.
+To deactivate a ticket form via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket forms management pages under `Objects and rules` > `Tickets` > `Forms`.
 From there, locate the ticket form in question you want to deactivate.
 
 From here, there are two ways to deactivate the ticket form:

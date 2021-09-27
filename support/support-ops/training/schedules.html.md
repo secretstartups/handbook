@@ -31,14 +31,23 @@ the setting of holidays.
 
 ## Managing schedules via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the schedules
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the schedules management pages
+under `Objects and rules` > `Business rules` > `Schedules`. All videos are of
+the old location (i.e. in the admin panel). Once you access the management
+pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/dp4_ts_ZX_c" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To manage schedules in Zendesk, you'll first go to the admin panel (the gear
-icon on the left-hand side). From there, scroll to the bottom and select
-`Schedules` under the `Settings` section. From here, you can add, edit, and
-delete schedules.
+To manage schedules in Zendesk, you'll first go to the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the schedules
+management pages under `Objects and rules` > `Business rules` > `Schedules`.
+From here, you can add, edit, and delete schedules.
 
 ### Creating a schedule
 

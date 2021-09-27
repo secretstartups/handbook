@@ -76,13 +76,22 @@ see are:
 
 ## Creating a ticket field via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+fields management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+fields management pages under `Objects and rules` > `Tickets` > `Fields`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/NrGHsoIy_74" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a ticket field via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Fields link (under the Manage section towards the top) on the left-hand side.
+To create a ticket field via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket fields management pages under `Objects and rules` > `Tickets` > `Fields`.
 From there, click the `Add field` button at the top-right of the page.
 
 You will then give your ticket field a title by clicking on `New field` at the
@@ -98,13 +107,22 @@ Finally, click the blue `Save` button in the bottom right-hand side of the page.
 
 ## Editing a ticket field via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+fields management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+fields management pages under `Objects and rules` > `Tickets` > `Fields`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/I02txo77PYE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To edit a ticket field via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Fields link (under the Manage section towards the top) on the left-hand side.
+To edit a ticket field via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket fields management pages under `Objects and rules` > `Tickets` > `Fields`.
 From there, locate the ticket field in question amongst the list of all ticket
 fields. After doing so, click on the name of the ticket field.
 
@@ -115,13 +133,22 @@ side of the page.
 
 ## Deactivating a ticket field via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the ticket
+fields management pages. They are now located in the Admin Center, which you
+can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the ticket
+fields management pages under `Objects and rules` > `Tickets` > `Fields`. All
+videos are of the old location (i.e. in the admin panel). Once you access the
+management pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/J-hK4QfQuCM" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To deactivate a ticket field via the Zendesk UI, you will first go to the admin
-panel (click the gear icon on the left-hand side). From there, locate the Ticket
-Fields link (under the Manage section towards the top) on the left-hand side.
+To deactivate a ticket field via the Zendesk UI, you will first go to the Admin
+Center, which you can locate by clicking the four squares in the top-right of
+the page and clicking the Admin Center link. After doing so, you can locate the
+ticket fields management pages under `Objects and rules` > `Tickets` > `Fields`.
 From there, locate the ticket field in question amongst the list of all ticket
 fields.
 
