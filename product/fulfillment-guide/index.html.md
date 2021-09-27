@@ -8,6 +8,12 @@ title: Fulfillment Guide
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Overview
+
+The Fulfillment Sub-department is responsible for the infrastructure between the systems which affect the user purchasing process, as well as being the primary caretakers of the [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot) and [LicenseDot](/handbook/engineering/development/fulfillment/architecture/#licensedot) systems.
+
+We frequently collaborate with other teams. For example if we are making a change which will affect [usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html#usage-ping) we collaborate with the [Product Intelligence group](/handbook/product/categories/#product-intelligence-group). When our work involves or affects any backend enterprise application, we collaborate with the [Sales Systems team](/handbook/sales/field-operations/sales-systems/).
+
 ## Customer subscription lifecycle
 
 Customers interact with GitLab throughout the trial and purchasing journey in a variety of ways.  This section will capture that journey, which will evolve over time.  
@@ -93,4 +99,15 @@ The list of namespaces are:
 1. Click on the `GitLab Groups`.
 1. If the trial is expired and needs to be extended, click on the `Renew Trial` button.
 1. Change the trial date as necessary and click on `Update`. **Warning:** Do not change the date to a date prior to today's date in UTC timezone.
+
+## How to connect with us
+
+* For help with a license error, resending a license or other support requests, [create an internal issue for the support team](/handbook/support/internal-support).
+* For general product questions, try the [#Questions](https://gitlab.slack.com/archives/C0AR2KW4B) Slack channel.
+* Reach out to [#s_fulfillment](https://gitlab.slack.com/archives/CMJ8JR0RH) with non-customer specific purchasing or provisioning questions, or to escalate an outage in our purchasing workflow.
+* To raise awareness or request elevated priority of an issue, mention [@amandarueda](https://gitlab.com/amandarueda) in the issue and provide relevant information.
+
+## Links
+
+To be added
 
