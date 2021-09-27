@@ -78,7 +78,6 @@ Sales QBRs include account teams, leadership, and delegates from across the busi
    1. Field Enablement
    1. Channel/Alliance
    1. People Team
-   1. Field Security
 1. Optional GTM leaders (* indicates optional on the QBR invite)
    1. CRO*
    1. All CRO Leadership* (outside of VP who a QBR's ASM reports to)
@@ -94,6 +93,8 @@ Sales QBRs include account teams, leadership, and delegates from across the busi
    1. Field EBAs*
    1. Field Talent Acquisition Team*
    1. Customer Reference*
+   1. Field Security
+
 
 **ENT Leadership QBR**
 1. Segment Sales VP
@@ -301,7 +302,6 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
    1. Field Enablement
    1. Channel/Alliance
    1. People Team
-   1. Field Security
 1. ENT Sales and COM Sales Enablement Program Managers (with support from Sales Ops) begin working with ENT and COMM VPs on QBR deck templates. Templates should include:
    1. Team slide – Territory coverage + account team
 
@@ -316,7 +316,6 @@ Below is a sample roll-out of the QBR planning and execution process that is fol
    1. Field Enablement
    1. Channel/Alliance
    1. People Team
-   1. Field Security
 
 #### 2 weeks before QBRs are scheduled to start
 1. Further scheduling changes for QBR sessions are discouraged in order to avoid disruptions for attendees.
