@@ -580,7 +580,7 @@ During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an expireme
 
 ### Experiment Hypothesis
 
-As GitLab has grown their have become too many layers between a group retrospective and the company wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization. 
+As GitLab has grown, there have become too many layers between a group retrospective and the company-wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization. 
 
 ### Experiment Success Measurements
 
