@@ -45,6 +45,6 @@ Add Epic
 |-----------------------|-----------------------|
 | Facilitator           | Christine Lee         | 
 | Functional Lead(s)    | Craig Mestel |
-| Member                | Tony Righetti, Harsh Jawharkar, Melissa Smolensky, Stella Treas, Mike Pyle, Monica Galleto | 
+| Member                | Harsh Jawharkar, Melissa Smolensky, Stella Treas, Mike Pyle, Monica Galleto | 
 | Executive Stakeholder | Sid Sijbrandij |
 

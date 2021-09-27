@@ -40,14 +40,15 @@ This Working Group has the following goals:
 | Working Group Role    | Person                | Title                          |
 |-----------------------|-----------------------|--------------------------------|
 | Executive Sponsor     | Christopher Lefelhocz | VP Development            |
-| Facilitator           | Sam Goldstein         | Director Engineering, Ops |
+| Facilitator APAC        | Mon Ray       | Engineering Manager anti-abuse |
+| Facilitator AMER       | Wayne Haber        | Director Engineering |
 | Development Functional Lead  | Stan Hu | Engineering Fellow |
-| Security Functional Lead    | TBD | |
+| Security Functional Lead   | Charl de Wit | Security Manager, Trust and Safety |
+| Security Functional Lead   | Roger Ostrander | Senior Security Engineer, Abuse Operations |
 | Infrastructure Functional Lead  | Igor Wiedler | Staff Site Reliability Engineer |
-| Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
-| Member | Wayne Haber | Director Engineering |
+| Product Functional Lead  | Taylor McSastlin | Product Manager, anti-abuse |
+| Member | Sam Goldstein | Director Engineering, Ops |
 | Member | Grzegorz Bizon | Staff Backend Engineer, Verify |
 | Member | Joanna Shih | Quality Engineering Manager, Ops |
-| Member | Charl de Wit | Security Manager, Trust and Safety |
-| Member | Roger Ostrander | Senior Security Engineer, Abuse Operations |
 | Member | Alex Groleau | Interim Manager, Security Automation |
+| Member | Jackie Porter | Group Manager, Product, Verify |
