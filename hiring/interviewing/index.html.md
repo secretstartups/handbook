@@ -83,9 +83,9 @@ We want our interview process to be accessible to everyone. You can inform us of
 <details open><summary>Process for the Talent Acquisition Team
 </summary>
 
-1. Ask the candidate if they require any reasonable adjustments in the invite for a screening call (this is built into the email template) as well as during the screening call in case they missed the question in the invite.
-1. If the candidate requests an adjustment add the Interview Adjustments during the screening stage, have them email those requests to 'interviews@gitlab.com' which is managed by the Candidate Experience Specialist (CES) team.
-1. The CES will ask the candidate if they have any recommendations on how to make the adjustment(s), if none are provided they will work with the Recruiter and ask for assistance from the appropriate People Business Partner to arrange adjustment(s).
+1. Ask the candidate if they require any [reasonable accommodation](/handbook/people-policies/inc-usa/#reasonable-accommodation) or adjustments in the invite for a screening call (this is built into the email template) as well as during the screening call in case they missed the question in the invite.
+1. If the candidate requests an accommodation, add the Interview Adjustments during the screening stage, have them email those requests to 'interviews@gitlab.com' which is managed by the Candidate Experience Specialist (CES) team.
+1. The CES will ask the candidate if they have any recommendations on how to make the adjustment(s). If none are provided they will work with the Recruiter and ask for assistance from the [Team Member Relations team](/handbook/people-group/team-member-relations) at `teammemberrelations@gitlab.com` to arrange adjustment(s).
 1. The CES will note the adjustment(s) in the Private Notes section on their profile and tag the upcoming interviewer. Close the issue once accommodations are agreed upon.
 1. As long as the candidate is in the interview process, the CES will notify the interview team of the adjustment(s) ahead of the upcoming interviews and ensure all involved in interviewing are equipped to provide a positive experience for the candidate.
 1. If extra time is given for the interview as an adjustment, CES will adjust scheduled interviews as necessary.
