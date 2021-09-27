@@ -47,33 +47,33 @@ As you can see, the opportunity to live our values in the red zone is very diffi
 
 In this section we will address 5 key things that effect Psychological Safety and this is certainly not exhaustive. This does focus on what negatively impacts Psychological Safety, in the next section in the course we will address how to tackle some of these issues and how we can cultivate a culture where these things do not arise.
 
-- Punishment culture - If we don't allow reasonable failures to happen, risk taking diminishes, iteration stops and creativity is stifled. This is a sure fire way to create a culture of "we have always done it this way"
-- Not allowing conflict - Disagree and commit is a sub value of GitLab and is very important in creating an environment where every one is heard, but still be able to move forward. This generates ideas, ensures many perspectives are taken into consideration when building process and products and avoids missing considerations which could have diversity implications.
-- Not understanding communication styles - not recognising others communication styles will mean you cannot effectively facilitate conversations and meetings, miss other points of views and potentially isolating individuals. This is a great exercise you can do with your team to help understand each others communication style better.
-- Blame culture - once we begin a culture of blaming individuals, much like punishment culture you reduce trust in team members developing creative solutions.
-- Leaders & Team Members not embracing feedback - if leaders do not take on feedback from team members trust erodes, messages are not delivered correctly and misunderstanding happens.
+- **Punishment culture** - If we don't allow reasonable failures to happen, risk taking diminishes, iteration stops and creativity is stifled. This is a sure fire way to create a culture of "we have always done it this way"
+- **Not allowing conflict** - Disagree and commit is a sub value of GitLab and is very important in creating an environment where every one is heard, but still be able to move forward. This generates ideas, ensures many perspectives are taken into consideration when building process and products and avoids missing considerations which could have diversity implications.
+- **Not understanding communication styles** - not recognising others communication styles will mean you cannot effectively facilitate conversations and meetings, miss other points of views and potentially isolating individuals. This is a great exercise you can do with your team to help understand each others communication style better.
+- **Blame culture** - once we begin a culture of blaming individuals, much like punishment culture you reduce trust in team members developing creative solutions.
+- **Leaders & Team Members not embracing feedback** - if leaders do not take on feedback from team members trust erodes, messages are not delivered correctly and misunderstanding happens.
  
 You may be thinking that these are obvious, but in scenarios later in the course you will see how these things can subtly happen and erode psychological safety. Next you will learn what you can do to cultivate psychological safety.
 
-## What you can do to promote and cultivate psychological safety at Team members and Leaders?
+## What can you do to promote and cultivate psychological safety as Team members and Leaders?
 
-### Three Practice to Cultivate Psychological Safety
+### Three Practices to Cultivate Psychological Safety
 
 These three great practices will help you really make that push into ensuring that everyone feels psychologically safe.
 
-1. **Perception vs Intent** - Ensuring that you are being mindful of this on both sides is very important. How could your actions be perceived against what you mean or how you perceived someone actions and what there actually intent was. Understanding your team members communication styles and work styles will go along way in avoiding this. We will talk more about awareness of this later in the course.
+1. **Perception vs Intent** - Ensuring that you are being mindful of this on both sides is very important. How could your actions be perceived against what you mean or how you perceived someone actions and what their actual intent was. Understanding your team members' communication styles and work styles will go along way in avoiding this. We will talk more about awareness of this later in the course.
 
 2. **Operate with a high intent** - We assume positive intent and on most occasions when mistakes are made where this is not the intent. A way to avoid these mistakes is to operate with higher intent.
 
- Higher intent is the practice of recognizing, reevaluating and reiterating on inclusive practices.
+Higher intent is the practice of recognizing, reevaluating and reiterating on inclusive practices.
 
 For example, you are an extrovert and enjoy participating in conversations in meetings, but you recognise that you are not the only voice in the meeting and some haven’t been heard. You use your confidence to encourage and provide space for other ideas.
 
-This also means acknowledging and apologising when you get it wrong. People who operate at a higher intent do not use positive intent as a defence but as a learning opportunity.
+This also means acknowledging and apologizing when you get it wrong. People who operate at a higher intent do not use positive intent as a defence but as a learning opportunity.
 
 3. **Have moral courage** - This is the practice of being brave even when it is a risk or inconvenient for you for ethical and moral reasons.
 
-**Scenario:** Someone is consistently using the wrong pronouns for a team member who identifies as non-binary. They use the pronouns They/Them. The person doing this is at Director level and you have a great relationship with them. After an incident of seeing the director doing this, you ask for a zoom chat and explain the issue.
+**Scenario:** Someone is consistently using the wrong pronouns for a team member who identifies as non-binary. They use the pronouns They/Them. The person doing this is at the Director level and you have a great relationship with them. After an incident of seeing the director doing this, you ask for a zoom chat and explain the issue.
 
 **Risks:**
 
@@ -83,7 +83,7 @@ This also means acknowledging and apologising when you get it wrong. People who 
 
 ### Nurturing Psychological Safety for All Team Members
 
-It is important that there are consistent things that we do to ensure that nurture and cultivate psychological safety.
+It is important that there are consistent things that we can do to ensure that we nurture and cultivate psychological safety.
 
 Everyone at GitLab can follow these key practices to create and continue the culture we desire:
 
@@ -153,6 +153,7 @@ Try to dismantle perceptions of hierarchy by ensuring you are part of the team a
 - How do you react to frustrated team members?
 
 **Examples:**
+
     - When I am excited I am animated with my hands
     - When I am stressed with work I am less transparent and tend to to shut off 
     - When I am stressed in my personal life I can get distracted
@@ -168,11 +169,11 @@ Try to dismantle perceptions of hierarchy by ensuring you are part of the team a
 - Have you provided your intent?
 **Examples**
     - I want everyone to be aware that when stressful things happen I can shut off and just put my head down. If you notice this and feel I am not being transparent about activities please let me know. 
-I am aware that when I am excited I tend to cut people off. Please call me out on this behaviour when it happens as I often don’t realise I am doing it. 
+    - I am aware that when I am excited I tend to cut people off. Please call me out on this behaviour when it happens as I often don’t realise I am doing it. 
  
 - What are your unconscious biases and have you challenged them?
 
-- Do you consciously evaluate your unconscious biases when communicating
+- Do you consciously evaluate your unconscious biases when communicating?
 
 - How do you like to receive feedback, do you do the same, does your team know how you like to receive feedback and do you know how they do?
 
