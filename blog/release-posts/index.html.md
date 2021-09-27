@@ -55,7 +55,7 @@ At a high level, the process is:
 | Date | Step |
 | ------ | ------ |
 | By the 7th | The **Release Post Manager** creates a branch on `www-gitlab-com` and MR in that project that will collect all the release post items in to a single blog entry <br><br> Note for Technical Writers: to avoid potential merge conflicts later during content assembly, please **do not** merge updates from `main` to the release post branch even if you notice it falling behind. The **Release Post Manager** has sole responsibility of the release post branch and will take care of merging from `master` as part of the content assembly process on the 18th. |
-| 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, deprecations, removals, and upgrades) as release post items in the `/data/release_posts/unreleased` directory. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for deprecations, removals, and upgrades as release post items in the `/data/release_posts/unreleased` directory.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
+| 1st - 10th | **PMs** contribute individual MRs for all of their content blocks (top/primary/secondary features, [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades)) as release post items. For primary items, PMs will also add the item to `features.yml`.<br><br>**EMs** can also contribute individual MRs for [Deprecations](#deprecations), [Removals](#removals), and [Upgrades](#upgrades) as release post items.<br><br>**PMs** add recurring content blocks for Omnibus improvements, deprecation warnings, and more |
 | by the 15th | **EMs, PMs and PDs** contribute to MRs for Usability, Performance Improvements and Bug Fixes. <br><br> **Note:** For items that are feature flagged, it is recommended they are `enabled by default` by this date to ensure inclusion into self-managed release. |
 | by the 16th | **TWs** (with optional PMMs, Product Designers, and PM Leader) review individual release post item MRs <br><br>**TW Lead** reviews usability, bugs and performance improvement MRs
 | by the 17th | **EMs** merge MRs if the underlying code was merged _before_ the 17th or manually verified to be in the release (check the release stable branch). [Be aware](https://about.gitlab.com/handbook/engineering/workflow/#product-development-timeline): "Merging [code] by the 17th does not guarantee that the feature will be in the [milestone] release."<br><br>**Release Post Manager** merges recurring content blocks for usability, performance improvements and bug fixes. Any MRs added after the 17th should be submitted against the Release Post branch, not Master.
@@ -363,7 +363,7 @@ Keeping an eye on the various content reviews (TW, PMM and Director) for the ind
 
 The content review of the Usability, Performance improvements, and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
-The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, deprecations, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
+The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. Deprecations are sorted by planned removal date. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
 
 After the Review App for the release post has been generated, the Release Post Manager solicits additional feedback from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Clearly communicate when they can expect to start their review 24 hours in advance; this is especially important when the review must happen over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
 
@@ -415,7 +415,7 @@ The [release post item generator](https://gitlab.com/gitlab-com/www-gitlab-com/b
 
 ###### Option 2: manual MR creation
 
-- Create a new branch from `master` for each feature/deprecation
+- Create a new branch from `master` for each feature (primary, secondary, removal). [Deprecations are handled differently](#deprecations)
 - Open a merge request targeted at the `master` branch
 - Use the [Release Post Item template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/.gitlab/merge_request_templates/Release-Post-Item.md)
 - Content should be one YAML file added to `data/release_posts/unreleased/` on the `master` branch
@@ -645,7 +645,7 @@ will guide them through the structural check.
 Given that the technical writing review occurs in release post items'
 merge requests, the purpose of the structural check is:
 
-- Review the overall post for consistency. For example, if there's an entry that deprecates an item called `auth-server`, raise questions if there's also an entry that removes an item referred to as `auth_server`.
+- Review the overall post for consistency. For example, if there's an entry in a previous release post that deprecates an item called `auth-server` for this date, raise questions if there's also an entry that removes an item referred to as `auth_server`.
 - Make sure the post renders well.
 - The content as a whole clearly describes the new features and feature improvements.
 - Check all the links work and are in place.
@@ -1289,10 +1289,14 @@ extras:
 _To be added by Product Managers or Engineering Managers and merged in by Technical Writers._
  Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
-**Please watch this video as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
+**Please watch the videos below as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
 
 <figure class="video_container">
-    <iframe src=https://www.youtube.com/embed/0TKmIIdGZIE" title="How to announce deprecations in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://www.youtube.com/embed/0TKmIIdGZIE" title="How to deprecate and remove features in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=0TKmIIdGZIE" title="Update GitLab Deprecation Process 2021 09 16" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 To better understand GitLab's overall deprecations and removals policy, check out this [video](https://about.gitlab.com/handbook/product/gitlab-the-product/#video-on-deprecations-and-removals-process).
@@ -1311,7 +1315,7 @@ Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecati
 
     This area supports markdown.  Delete this entire comment and replace it with your markdown content.
 
-    Make sure to run `bin/rake gitlab:docs:compile_deprecations` locally before committing and pushing your changes.
+    Add the `release post item` and `release post item::deprecation` labels and the current milestone to your MR so that the release post manager can see how many deprecations are coming.
 
     When ready, assign to your tech writer to review and merge.
 
@@ -1414,7 +1418,7 @@ _To be added by Product Managers or Engineering Managers and merged by Engineeri
 
 Describe any considerations administrators should have when upgrading to this version. These could be warnings about potential data loss, recommendations for maintenance beforehand, and other similar concerns.
 
-Considerations for future upgrades should be noted in the deprecations sections.
+Considerations for future upgrades should be noted in the [deprecations](#deprecations) sections.
 
 _One notable example was in %12.10, [we required administrators to migrate from Postgres 10 to Postgres 11](https://about.gitlab.com/releases/2020/04/22/gitlab-12-10-released/#upgrade)._
 
@@ -1561,7 +1565,7 @@ The template and helper files are used to render the blog post from the many con
 - **Helpers:**
   - [Helper (Ruby) file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/helpers/release_post_helpers.rb): when the release post is being rendered, the helper combines all the release post items into a variable that is used by the include (Haml) file. The output of the helper is consistent with single data file process used until GitLab 12.8.
 - **Content:**
-  - **Data (YAML) files**: each contain the content for one feature, improvement, or deprecation. Data files are added to the [unreleased](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased) directory, and then moved to a [release](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/12_8) directory. The purpose of the helper (Ruby) is to combine these files when rendering the release post.
+  - **Data (YAML) files**: each contain the content for one feature, improvement, or deprecation. Data files are added to the [unreleased](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/unreleased) or [data/deprecations](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) directories, and then moved to a [release](https://gitlab.com/gitlab-com/www-gitlab-com/-/tree/master/data/release_posts/12_8) directory. The purpose of the helper (Ruby) is to combine these files when rendering the release post.
   - **Blog post (Markdown) file**: the blog post file holds the introduction of the blog post and frontmatter ([template](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/doc/templates/blog/monthly_release_blog_template.html.md), [example](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/sites/uncategorized/source/releases/posts/2017-05-22-gitlab-9-2-released.html.md)).
 
 To learn more how the template system works, read through an overview on [Modern Static Site Generators](/blog/2016/06/10/ssg-overview-gitlab-pages-part-2/).
@@ -1663,7 +1667,7 @@ validates all items being merged to the `data/release_posts/unreleased` director
 standards. Specifically, it checks:
 
 - YAML can be parsed
-- Conformity to [schema](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/release-post-item-schema.yml)
+- Conformity to [schema]( https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/schemas/releasepost.schema.json)
   - Each file contains exactly one item (e.g. feature or deprecation)
   - Content blocks have valid fields
   - Deprecations have valid fields
