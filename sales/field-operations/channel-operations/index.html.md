@@ -540,7 +540,7 @@ The following price files are provided by Channel Ops:
  
 ### Locating and Sharing Channel Price Files
  
-Price Files can be found [in this folder](https://drive.google.com/drive/folders/1UCNH77wTF4eCiCeAQHqDItkCGITl534D?usp=sharing).
+Price Files can be found [in this folder](https://drive.google.com/drive/folders/1pouTUH1BHNQjKt-lNsIEu5IQppIRinbg?usp=sharing).
  
 When sharing a Channel Price File with a partner (either a distributor or reseller), please do NOT share the folder or file location. To share a document, please either copy it into your own google drive and update the permissions accordingly when you share a link, or attach a downloaded copy to an email to a partner. No partners should be given access to this folder. Only Channel Managers should be sharing Channel Price Files.
  
