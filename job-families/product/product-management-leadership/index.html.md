@@ -80,6 +80,15 @@ Responsible for the [Geo](https://about.gitlab.com/handbook/product/categories/#
 * Previous experience with self-managed products and their lifecycle operations
 * Strong communications skills and ability to work cross-functionally, as these groups affect many parts of GitLab
 
+##### Fulfillment
+Responsible for the [Fulfillment](/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
+
+**Requirements**
+* Familiarity with industry leading subscription management and CRM tools (e.g. Zuora, Salesforce)
+* Strong communications skills and ability to work cross-functionally, espeically with GTM counterparts
+
+
+
 #### Group Manager, Product (GMP) - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
 
@@ -156,9 +165,6 @@ and reports to the Chief Product Officer.
 The Director of Product Management, Enablement is the PM DRI for the Enablement parts of the
 [DevOps lifecycle](/handbook/product/categories/#enablement-section)
 and reports to the VP of Product Management.
-
-##### Fulfillment
-Responsible for the [Fulfillment](/direction/fulfillment/) product team, which owns delivering a flexible and powerful billing and licensing system.  Has the opportunity to work cross-functionally to ensure the billing and licensing system meets our evolving business needs and delivers a world class customer experience.
 
 
 #### Director of Product Management - Hiring Process
