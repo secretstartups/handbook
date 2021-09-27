@@ -591,7 +591,7 @@ We'll consider this experiment a success if:
 
 ### Experiment Section DRIs
 
-While leaders are available in the [categories page](/handbook/product/categories/) (and subject to change) - we explicit call out the DRIs for each section in this experiment.
+While leaders are available in the [categories page](/handbook/product/categories/) (and subject to change) - we explicitly call out the DRIs for each section in this experiment.
 
 - Dev - Tim Zallman and David Desanto
 - Sec - Todd Stadelhofer and Hillary Benson
