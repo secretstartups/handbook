@@ -1297,13 +1297,15 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 To better understand GitLab's overall deprecations and removals policy, check out this [video](https://about.gitlab.com/handbook/product/gitlab-the-product/#video-on-deprecations-and-removals-process).
 
-A deprecation is an announcement in the release post notifying the community of a future removal. Deprecations should be included as soon as possible in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. You should try to merge your MR by the 17th of the month so that the self-hosted customers receive it in a timely fashion. Check out the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. Deprecation MRs need to be merged by the 17th of the month so that self-managed customers receive notice in a timely fashion. Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+
 Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project using the template below.
 
 ```yaml
 - name: # The name of the feature to be deprecated
-  announcement_milestone: # XX.YY format - the milestone when this feature was first announced as deprecated
-  removal_milestone: # XX.YY format - the milestone when this feature is planned to be removed
+  announcement_milestone: # XX.YY format - The milestone when this feature was first announced as deprecated
+  announcement_date: # YYYY-MM-DD format - The date of the milestone release when this feature was first announced as deprecated
+  removal_milestone: # XX.YY format - The milestone when this feature is planned to be removed
   body: | # Do not modify this line, instead modify the lines below.
     <!-- START OF BODY COMMENT
 
@@ -1320,13 +1322,14 @@ Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecati
   documentation_url: # (optional) This is a link to the current documentation page
   image_url: # (optional) This is a link to a thumbnail image depicting the feature
   video_url: # (optional) Use the youtube thumbnail URL with the structure of https://img.youtube.com/vi/UNIQUEID/hqdefault.jpg
-  announcement_date: # (optional - may be required in the future) YYYY-MM-DD format - the date of the milestone release when this feature was first announced as deprecated
   removal_date: # (optional - may be required in the future) YYYY-MM-DD format - the date of the milestone release when this feature is planned to be removed
 ```
 
 `name` should follow the structure of "XYZ feature or function will be deprecated at ABC time."
 
 The `announcement_milestone` field should match the milestone when the feature was first deprecated (e.g. 13.9).  This field determines which release post will announce the deprecated feature.
+
+The `announcement_date` field should match the date of the release when this feature was first announced as deprecated (e.g. 2021-09-02).
 
 The `removal_milestone` field should match the milestone when the feature is planned to be removed from the product (e.g. 14.0).
 
@@ -1338,7 +1341,7 @@ Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.h
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage to merge it into the documentation.
 
----
+The deprecation yml file then goes through two processes to be seen by users. First, when the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) runs a rake task as part of their merge process, this updates the deprecation documentation page. Documentation is included in self-hosted instances and this then provides a complete list of deprecations for self-hosted users within their own documentation. When the Release Post Manager runs the content assembly step, the new (meaning the deprecation notices those files where the announcement milestone matches the current release post milestone) deprecations are included in the release post, but the older ones are not. A link to the documentation page is included so a user can see the full list at any time. For a deeper understanding of technical aspects of deprecations as part of the release post and Docs, visit [deprecation technical aspects](#deprecation-technical-aspects). 
 
 #### Removals
 
@@ -1563,8 +1566,6 @@ The template and helper files are used to render the blog post from the many con
 
 To learn more how the template system works, read through an overview on [Modern Static Site Generators](/blog/2016/06/10/ssg-overview-gitlab-pages-part-2/).
 
-
-
 ### Feature order
 
 Important note: Feature order should not be changed without approval from the Release Post Manager.
@@ -1757,6 +1758,27 @@ error: failed to push some refs to 'gitlab.com:gitlab-com/www-gitlab-com.git'`.
 
 **The action you can take here is to contact IT** More information can be found in the following issue:
 https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/-/issues/1263#note_491341250
+
+### Deprecation technical aspects
+
+1. To ensure you can run the local rake tasks please ensure your [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit) is configured correctly.
+    - Install the GDK: `curl "https://gitlab.com/gitlab-org/gitlab-development-kit/-/raw/main/support/install" | bash`
+    - Ensure your [local Gems](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions) are up to date:
+        ```
+        golang 1.16.8 1.17.1
+        minio 2021-04-06T23-11-00Z
+        nodejs 14.17.5
+        postgres 12.6 11.9
+        redis 6.0.15
+        ruby 2.7.4 3.0.2
+        yarn 1.22.11
+      ``` 
+1. When running the rake task to generate the Deprecation (`bin/rake gitlab:docs:compile_deprecations`), you might encounter some Gem bundler issues. To solve these ensure you are using the correct versions locally:
+      - `bundle update --bundler`
+    - `gem install bundler:2.1.4`
+1. Please be aware your Ruby version should match the [`.tool-versions`](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions) before attempting to update the bundler.
+
+---
 
 ### Release post merge request template
 
