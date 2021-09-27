@@ -1293,7 +1293,6 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 **Please watch the videos below as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
 
-</figure>
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/watch?v=0TKmIIdGZIE" title="Update GitLab Deprecation Process 2021 09 16" frameborder="0" allowfullscreen="true"> </iframe>
