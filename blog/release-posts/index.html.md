@@ -1295,7 +1295,6 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 
 <figure class="video_container">
-    <iframe src="https://www.youtube.com/watch?v=0TKmIIdGZIE" title="Update GitLab Deprecation Process 2021 09 16" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. Deprecation MRs need to be merged by the 17th of the month so that self-managed customers receive notice in a timely fashion. Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
