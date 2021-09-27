@@ -124,6 +124,7 @@ The following steps should be taken immediately after receiving a PagerDuty page
 1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
 1. Notify internal stakeholders, if necessary.
+1. Add `~Incident-Comms::Status-Page` label to the GitLab Incident Issue
 1. Resolve the PagerDuty page.
 
 #### PagerDuty Status
@@ -190,6 +191,14 @@ This process should be followed when all of the following are true:
 
 - CMOC escalation to an incident has occurred
 - Public notification is occurring or the IMOC has determined the incident requires e-group notification.
+
+#### 4. Label the GitLab Incident Issue to reflect customer communications status
+
+It is important that we are able to differentiate incidents which included outbound Status page and related notificatons from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
+
+Whenever a GitLab service incident includes the use of a Status Page incident this should be identified on the GitLab Incident Issue. See this, and other uses of this scoped label in the [Incident Management section of the handbook](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling).
+
+1. Add the `~Incident-Comms::Status-Page` scoped label to the GitLab Incident Issue
 
 ### Stage 2: **Incident Updates**
 
