@@ -1293,7 +1293,6 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 **Please watch the videos below as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
 
-<figure class="video_container">
     <iframe src="https://www.youtube.com/embed/0TKmIIdGZIE" title="How to deprecate and remove features in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
