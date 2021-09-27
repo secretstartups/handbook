@@ -123,9 +123,9 @@ TFS contains more than a source code repository, so additional questions need to
 | Do you need to retain history in your code repositories? | | Yes | If the answer is no and the customer is using TFVC, then we do not need to convert the repos to Git. 
 | Are you using TFS to build your software? | | yes | This will add CI/CD consulting/transformation activities to the engagement if the answer is yes |
 | How many builds/build tempaltes are used per code repository? | | 1 | This is a guage of complexity. Sometimes a code repository can contain several different build definitions |
-| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | yes | This can lead to a time sink from a pipeline perspective or require a refactor to those solution/project files during the engagement |
+| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | yes | If yes, this can require advisory services to refactor to those solution/project files to work with gitlab pipelines |
 | How many build servers do you use? |  | 1 | We usually convert a build server to something more epehemeral so the more build servers in use, the more development is required to transition them to something more ephemeral |
-| Are you using workitems in TFS? |  | yes | If workitems need to be retained, then additional migration activities need to be added to the SOW |
+| Are you using workitems in TFS? |  | yes | If workitems need to be retained, then additional migration and/or advisory activities need to be added to the engagement. _Note: there are features in TFS workitems (e.g. custom fields and workflows) that are not supported by GitLab issues. During scoping, make sure the customer is aware of these differences._  |
 | Are there any specific flags used in your build process? If so, what? |  | Yes  | This shows the customer is measuring this data to be used during the transition process. |
 | Are there any external tools/applications tied to your TFS server? | | Yes. We use an in-house tool that pulls from TFS daily for gathering metrics | If the answer is yes, additional activities will need to be added to the SOW to accomodate transitioning those tools to pull from Git instead.
 
