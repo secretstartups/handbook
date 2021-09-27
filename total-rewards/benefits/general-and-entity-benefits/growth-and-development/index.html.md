@@ -42,8 +42,8 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
 1. Applying team members must have a [career development conversation](/handbook/people-group/learning-and-development/career-development/#what-is-career-development) with their manager to discuss the learning opportunity. It's important to discuss timing, team member capacity, and application timeline for both the program and benefit processing. This conversation should allow time for both the team member to apply for program/benefit and the manager to ensure team budget capacity.
 
 2. Create a new Growth & Development issue at least 30 days before the commencement date:
-    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/academic_study.md) for applications relating to Academic Study
-    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/blob/master/.gitlab/issue_templates/other-growth-development.md) for other types of Growth & Development applications
+    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
+    * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
 
 Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
