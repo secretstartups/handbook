@@ -85,7 +85,7 @@ Responsible for the [Fulfillment](/direction/fulfillment/) product team, which o
 
 **Requirements**
 * Familiarity with industry leading subscription management and CRM tools (e.g. Zuora, Salesforce)
-* Strong communications skills and ability to work cross-functionally, espeically with GTM counterparts
+* Strong communications skills and ability to work cross-functionally, especially with GTM counterparts
 
 #### Group Manager, Product (GMP) - Hiring Process
 Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more [specialties](#specialties), the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. 
