@@ -92,7 +92,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
    - Invoice Submission via `ar@gitlab.com`
    - All cash applications (cash receipts)
 
-See also: [Zuora](https://about.gitlab.com/handbook/engineering/development/fulfillment/zuora/)
+See also: [Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/zuora)
 
 ### Zendesk
 

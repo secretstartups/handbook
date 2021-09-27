@@ -105,7 +105,7 @@ See also: [Business Operations - Salesforce Reference](https://about.gitlab.com/
     - Integrated to Avalara Tax Reporting Software
     - Integrated with Zuora Revenue
 
-See also: [Zuora](https://about.gitlab.com/handbook/engineering/development/fulfillment/zuora/)
+See also: [Zuora](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/zuora)
 
 ### Zendesk
 
