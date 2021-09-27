@@ -599,6 +599,7 @@ While leaders are available in the [categories page](/handbook/product/categorie
 - Enablement - Chun Du and Josh Lambert
 - Growth - Wayne Haber and Hila Qu
 - Fulfillment - Wayne Haber and Justin Farris
+- Applied ML and Antiabuse - Wayne Haber and Taylor McSastlin
 
 ## Milestone Cleanup
 
