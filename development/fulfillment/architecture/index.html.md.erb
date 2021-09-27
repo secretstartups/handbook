@@ -26,7 +26,7 @@ We follow the [GitLab architecture guide and practices](https://about.gitlab.com
 ## Zuora
 [Zuora](https://www.zuora.com/) is our subscription management and billing system, primarily managed by our Finance team. It is the single source of truth for subscriptions and SKUs and it generates invoices for customers. Other systems like LicenseDot and CustomersDot should use the Zuora API instead of storing it themselves. More information on the Zuora Object Model is in [Zuora's Knowledge Center](https://knowledgecenter.zuora.com/BB_Introducing_Z_Business/D_Zuora_Business_Objects_Relationship).
 
-An important initiative has been identified around fixing the data integrity issues with Zuora and [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot). More on this topic can be [found here](/handbook/engineering/development/fulfillment/zuora).
+An important initiative has been identified around fixing the data integrity issues with Zuora and [CustomersDot](/handbook/engineering/development/fulfillment/architecture/#customersdot). More on this topic can be [found here](https://gitlab.com/gitlab-org/customers-gitlab-com/-/tree/staging/doc/zuora).
 ## Stripe
 [Stripe](https://stripe.com/) is our payment gateway. It processes payments and communicates with CustomersDot indirectly via Zuora.
 ## GitLab
