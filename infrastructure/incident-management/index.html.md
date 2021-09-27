@@ -394,9 +394,22 @@ The current Root Cause labels are listed below. In order to support trend awaren
    | `~RootCause::Saturation` | failure resulting from a service or component which failed to scale in response to increasing demand (whether or not it was expected) |
    | `~RootCause::External-Dependency` | resulting from the failure of a dependency external to GitLab, including various service providers. Use of other causes (such as `~RootCause::SPoF` or `~RootCause::Saturation`) should be strongly considered for most incidents. |
    | `~RootCause::Release-Compatibility` | forward- or backwards-compatibility issues between subsequent releases of the software running concurrently, and sharing state, in a single environment (e.g. Canary and Main stage releases). They can be caused by incompatible database DDL changes, canary browser clients accessing non-canary APIs, or by incompatibilities between Redis values read by different versions of the application. |
-    | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
-    | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test |
-    | `~RootCause::Indeterminate` | when an incident has been investigated, but the root cause continues to be unknown and an agreement has been formed to not pursue any further investigation. |
+   | `~RootCause::Security` | an incident where the [SIRT team](/handbook/engineering/security/#sirt---security-incident-response-team-former-security-operations) was engaged, generally via a request originating from the SIRT team or in a situation where Reliability has paged SIRT to assist in the mitigation of an incident not caused by `~RootCause::Malicious-Traffic` |
+   | `~RootCause::Flaky-Test` | an incident, usually a deployment pipeline failure found to have been caused by a flaky QA test |
+   | `~RootCause::Indeterminate` | when an incident has been investigated, but the root cause continues to be unknown and an agreement has been formed to not pursue any further investigation. |
+
+#### Customer Communications Labeling
+
+We want to be able to report on a scope of incidents which have met a level of impact which necessitated customer communications. An underlying assumption is that any material impact will always be communicated in some form. Incidents are to be labeled indicating communications even if the impact is later determined to be lesser, or when the communication is done by mistake.
+
+Note: This does not include Contact Requests where the communication is due to identifying a cause.
+
+The CMOC is responsible for ensuring this label is set for all incidents involving use of the Status Page or where other direct notification to a set of customers is completed (such as via Zendesk). 
+   
+   | Customer Communications | Description |
+   | ------ | ------ |
+   | `~Incident-Comms::Status-Page` | Incident communication included use of the public [GitLab Status Page](https://status.gitlab.com/) |
+   | `~Incident-Comms::Private` | Incident communication was limited to fewer customers or otherwise was only directly communicated to impacted customers (not via the GitLab Status Page)|
 
 #### "Needs" labeling
 
@@ -430,6 +443,7 @@ In certain cases, additional labels will be added as a mechanism to add metadata
 | `~incident-type::deployment related` | Indicates that the incident is a failing deployment or that the incident was caused by a deployment. Failures may be caused by failing tests, application bugs, or pipeline problems. Incidents during deploys may be the result of disconnects or other deploy-related errors. |
 | `~group::*` | Any development group(s) related to this incident |
 | `~review-requested` | Indicates that that the incident would benefit from undergoing additional review. All S1 incidents are required to have a review. Additionally, anyone including the EOC can request an incident review on any severity issue. Although the review will help to derive [corrective actions](#corrective-actions), it is expected that corrective actions are filled whether or not a review is requested. If an incident does not have any corrective actions, this is probably a good reason to request a review for additional discussion. |
+| `~Incident-Comms::*` | Scoped label indicating the level of communications. |
 
 ### Workflow Diagram
 
