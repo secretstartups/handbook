@@ -3,78 +3,74 @@ layout: handbook-page-toc
 title: "Customer Success Operations"
 description: "The Customer Success Operations team's handbook page. This covers our mission, strategies, responsibilities, and processes."
 ---
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
 
-## Mission
+## On this page
 
-Customer Success Operations cross-functionally aligns GitLab for a superb customer experience through creating trust in data, clarity in effective processes, and predictability in outcomes.
+{:.no_toc .hidden-md .hidden-lg}
 
-## Strategy
-Customer Success Operations creates and updates existing processes for the Customer Success organization. CS Operations oversees:
+- TOC
+{:toc .hidden-md .hidden-lg}
 
-* Increase Net Retention 
-   * Visibility: Align product analytics to the customer adoption journey
-   * Efficiency: Automation and digital content for all segments
-   * CS Strategy: deploy finite resources for best-in-class customer experience
-* Public Company Readiness 
-   * Robust systems —> trustworthy data —> reliable insights
-   * Renewal predictability: Opportunity Health and Risks
-* Visibility, Accountability, Clarity
-   * Visibility: Sunlight is the best disinfectant
-   * Clarity & Accountability: everyone sings from the same music sheet
+{::options parse_block_html="true" /}
 
-### Key Metrics [(from Field Ops)](/handbook/sales/field-operations/#key-tenets)
-
-1. Visibility: to processes, data and analytics 
-1. Clarity: for definitions, processes, and events 
-1. Accountability: to uphold to expectations and SLAs
-
-## Customer Success Operations Responsibilities
+## What we do
 
 Customer Success Operations creates and updates existing processes for the Customer Success organization. CS Operations oversees:
 
-* Systems implementation and maintenance
-* Operational reporting
-* Systems enablement
-* Product analytics and renewal strategies
-* Fiscal Year planning and strategy
-* Operationalizing Customer Success Journeys
+- Systems implementation and maintenance
+- Operational reporting
+- Systems enablement
+- Product analytics and renewal strategies
+- Fiscal Year planning and strategy
+- Operationalizing Customer Success Journeys
+
+The CS Ops team also provides support for customer programs, renewals, and Gainsight.
+
+<div class="flex-row" markdown="0" style="height:80px">
+    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Programs</a>
+    <a href="/handbook/sales/field-operations/customer-success-operations/cs-ops-renewals/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Customer Success Renewals</a>
+    <a href="/handbook/sales/field-operations/customer-success-operations/gainsight/" class="btn btn-purple-inv" style="width:20%;height:100%;margin:1px;display:flex;justify-content:center;align-items:center;">Gainsight Management<br> and Support</a>
+</div>
+<br>
+
+## Who we work with
+
+Customer Success Operations provides support, content, and data analysis for all Customer Success teams.
 
 ## CS Ops Request Process
 
 ![CS Ops Issue Flowchart](https://www.lucidchart.com/publicSegments/view/42d94a0a-3a9c-4ffd-b483-51bd9009385f/image.jpeg "CS Ops Issue Flowchart")
 
-
-### CS Ops Board, Groups, Projects, and Labels
+## CS Ops Board, Groups, Projects, and Labels
 
 ### CS Operations Board
 
-[Customer Success Operations Board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps)
+The CS Ops team uses issues and issue boards to track our projects and tasks. If you need help with a project, please open an issue and add the ~CSOps label anywhere within the GitLab repo.
+
+CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo.
 
 ### Groups
 
-* Use the GitLab.com group for epics that may include issues within and outside the Sales Team group
-* Use the GitLab Sales Team group for epics that may include issues within and outside the Field Operations group
+- Use the `gitlab.com` group for epics that may include issues within and outside the Sales Team group.
+- Use the GitLab Sales Team group for epics that may include issues within and outside the Field Operations group.
 
 ### Projects
 
-Create issues under the ["CS Operations" project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations).
-
+Create issues in the [CS Operations project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations).
 
 ### Labels
 
-The CS Ops team uses issues and issue boards to track projects and tasks. If you need help with a project, please open an issue and ad the ~CSOps label anywhere within the GitLab repo.
+Labels to use when creating new issues or MRs for CS Ops:
 
-CS Operations uses a [global issue board](https://gitlab.com/groups/gitlab-com/-/boards/1498673?label_name[]=CSOps) to capture and track issues in any group or sub-group in the repo. 
-
-Labels to use:
-
-* CSOps - Label to track and manage all CS Operations related issues
-* CSOps::Need_More_Info - Requires additional information from the requester
-* CSOps::Ready_for_Assignment - Ready to be assigned and prioritized by CS Ops
-* CSOps::In_Process - Issues that are actively being worked on in the current week or sprint
-* CSOps::Blocked - Issues that are currently blocked by an internal or external prerequisite 
-* CSOps::Ready_to_Deploy - The issue is ready for deployment
-* CSOps::Completed - Issues where the CS Ops team has completed their portion
-* CSOps::Transferred - Issues that have been transferred to another team for review and/or completion
-* CSOps::Backlog - Issues that are not currently being evaluated or worked on
-
+- CSOps - Use to track and manage all CS Operations-related issues and MRs.
+- CSOps::Need_More_Info - Requires additional information from the requester, or lacks information to complete the request.
+- CSOps::Ready_for_Assignment - Ready to be assigned and prioritized by CS Ops.
+- CSOps::In_Process - Actively being worked on in the current week or milestone.
+- CSOps::Blocked - Currently blocked by an internal or external prerequisite.
+- CSOps::Ready_to_Deploy - The issue is ready for deployment.
+- CSOps::Completed - The CS Ops team has completed their work.
+- CSOps::Transferred - Transferred to another team for review and/or completion.
+- CSOps::Backlog - Not currently being evaluated or worked on.
+- CSOps::bug - A bug issue to be addressed by CS Ops.
+- CS Ops Technical Writing - Assigned to the CS Ops technical writers for review or creation of copy.
