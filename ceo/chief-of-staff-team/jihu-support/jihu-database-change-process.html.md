@@ -103,7 +103,7 @@ We recognize that this pattern has the following disadvantages (with mitigations
 
 We considered an [alternative approach is to keep JiHu specific migrations separate](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/90336).
 
-JiHu may want to implement mechanics to allow for JiHu specific migrations that are not going to be merged into the upstream project. This would allow for more flexibility and autonomy in terms
+JiHu may want to implement mechanics to allow for JiHu-specific migrations that are not going to be merged into the upstream project. This would allow for more flexibility and autonomy in terms
 of database changes, at the expense of increasing the complexity to support various upgrade paths between GitLab CE/EE and JiHu editions. Since there can be conflicts between GitLab and JiHu migrations
 over time (much like a Git timeline, examples in (issue #161)[https://gitlab.com/gitlab-jh/gitlab/-/issues/161]), JiHu would need to provide schema migrations specifically to each supported upgrade path from GitLab.
 
