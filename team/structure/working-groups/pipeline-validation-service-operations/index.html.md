@@ -46,9 +46,9 @@ This Working Group has the following goals:
 | Security Functional Lead   | Charl de Wit | Security Manager, Trust and Safety |
 | Security Functional Lead   | Roger Ostrander | Senior Security Engineer, Abuse Operations |
 | Infrastructure Functional Lead  | Igor Wiedler | Staff Site Reliability Engineer |
-| Product Functional Lead  | Jackie Porter | Group Manager, Product, Verify |
+| Product Functional Lead  | Taylor McSastlin | Product Manager, anti-abuse |
 | Member | Sam Goldstein | Director Engineering, Ops |
 | Member | Grzegorz Bizon | Staff Backend Engineer, Verify |
 | Member | Joanna Shih | Quality Engineering Manager, Ops |
 | Member | Alex Groleau | Interim Manager, Security Automation |
-| Member | Taylor McSastlin | Production Manager, anti-abuse |
+| Member | Jackie Porter | Group Manager, Product, Verify |
