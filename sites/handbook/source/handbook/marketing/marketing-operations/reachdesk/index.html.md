@@ -26,6 +26,7 @@ TBD - FM to fill in
 TBD
 
 ## How to use 
+ 
 
 # Building Campaigns
 ### Creating ReachDesk Campaigns
@@ -34,6 +35,15 @@ There are four options of campaigns to choose from
 1. E- Gift cards and reward Pass - sending e-gift cards, can choose from a vast selection, region specific. It is recommended to include min 3 types of cards
 1. Handwritten Note
 1. Marketplace - send a physical gift e.g food hampers, flowers, gift boxes etc
+
+## Project management 
+
+Here is a link to the campaign planning form [https://form.asana.com/?k=hvl00YjBdxU5Qtet-rjMsQ&d=1193162279639741] - for any items you would like the project management team to source directly to our warehouses for you. This could be branded swag or any other bespoke goods that are not available on the Marketplace. 
+
+## Branded banner for the e-gift emails 
+
+1. This image should be 600x80 pxl in Jpeg/Png format 
+1. The branding tab under 'Organization' only needs to be completed once, and is for address confirmation emails 
 
 # Creating a Triggered Campaign
 
