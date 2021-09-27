@@ -18,20 +18,21 @@ Open a terminal session or shell prompt and type `git version`. If the output pr
 ### Generate an SSH key
 
 These steps are only needed if you do not have an SSH key already installed.
-1. In a terminal or shell prompt, type `ssh-keygen`
-1. Use the default key location.
-1. Leave the passphrase blank.
+1. In a terminal or shell prompt, **enter** `ssh-keygen`.
+1. **Enter** with the default key location.
+1. **Enter** with a blank passphrase.
 
 ### Add an SSH key to your GitLab profile
 
-1. In the top right-hand corner of the GitLab page, click the **down arrow** to the right of your avatar.
+1. In the top right-hand corner where your avatar resides, click the **down arrow** to the right.
 1. From the dropdown menu, click **Edit profile**.
 1. In the left-hand navigation pane, click **SSH Keys**.
 1. Return to your terminal/shell session. Navigate to the folder that you saved the ssh key in: `cd .ssh`
 1. Type `ls -al` to see two key files: a public key and a private key. The public key ends with `.pub` and is what you need to share with GitLab.
 1. Type `cat <PUBLIC-KEY-FILE>` (for example, `cat id_rsa.pub`) to print the contents of your public key. Copy the output to your clipboard.
 1. Return to the GitLab app in your browser. Paste the public key contents into the `Key` field, enter any title you want in the `Title` field, and click **Add key**.
-1. Test your SSH key configuration with `ssh -T git@ilt.gitlabtraining.cloud`. If the command completes with a welcome message, your computer is configured to interact with the training instance of GitLab.
+1. For an instructor-led course, test your SSH key configuration with `ssh -T git@ilt.gitlabtraining.cloud`. And for the self-paced course, use `ssh -T git@spt.gitlabtraining.cloud`. 
+1. If the command completes with a welcome message, your computer is configured to interact with the training instance of GitLab.
 
 ### Clone a project repository to your local machine
 
