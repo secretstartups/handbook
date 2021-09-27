@@ -37,7 +37,35 @@ Utilization
 
 ## Team members
 
-<%= department_team(base_department: "Fulfillment Sub-department") %>
+### Fulfillment People Leaders
+
+<% fulfillment_em = %w[jeromezng chris_baus jameslopez csouthard rhardarson] %>
+<% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: fulfillment_em_members }) %>
+
+### Fulfillment:Purchase BE Team
+
+<%= department_team(base_department: "Fulfillment:Purchase BE Team") %>
+
+### Fulfillment:Purchase FE Team
+
+<%= department_team(base_department: "Fulfillment:Purchase FE Team") %>
+
+### Fulfillment:License BE Team
+
+<%= department_team(base_department: "Fulfillment:License BE Team") %>
+
+### Fulfillment:License FE Team
+
+<%= department_team(base_department: "Fulfillment:License FE Team") %>
+
+### Fulfillment:Utilization BE Team
+
+<%= department_team(base_department: "Fulfillment:Utilization BE Team") %>
+
+### Fulfillment:Utilization FE Team
+
+<%= department_team(base_department: "Fulfillment:Utilization FE Team") %>
 
 ## Stable counterparts
 
@@ -55,11 +83,15 @@ Utilization
 
 **Technical Writing**
 
-<%= shared_team_members(role_regexps: [/(Staff Technical Writer, Verify (Runner), Fulfillment)/i]) %>
+<% fulfillment_tw = %w[sselhorn] %>
+<% fulfillment_tw_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_tw.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: fulfillment_tw_members }) %>
 
 ### Fulfillment Security
 
-<%= shared_team_members(role_regexps: [/(Senior Security Engineer, Application Security, Growth (Activation, Conversion, Expansion, Adoption), Fulfillment (Purchase, License, Utilization), Enablement (Distribution, Geo, Memory, Global Search, Database))/i]) %>
+<% fulfillment_sec = %w[ankelly] %>
+<% fulfillment_sec_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_sec.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: fulfillment_sec_members }) %>
 
 ## How we work
 
@@ -69,7 +101,6 @@ Utilization
 * Everyone can contribute; no silos
 
 ### Planning
-
 
 We plan in monthly cycles in accordance with our [Product Development Timeline](/handbook/engineering/workflow/#product-development-timeline).
 Release scope for an upcoming release should be finalized by the `1st`.
