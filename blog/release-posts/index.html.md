@@ -363,7 +363,7 @@ Keeping an eye on the various content reviews (TW, PMM and Director) for the ind
 
 The content review of the Usability, Performance improvements, and bug fixes MRs are the responsibility of the Release Post Manager and the TW Lead.
 
-The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. Deprecations are sorted by planned removal date. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment.
+The review and any needed adjustment to the ordering of secondary features due to stakeholder feedback is the responsibility of the release post manager. Secondary features, bug fixes, usability, performance improvements, removals, and upgrade notes are all sorted alphabetically by title, grouped by stage. Deprecations are sorted by planned removal date. To affect the sort order of the secondary features, a change to the content block's `title` is required. The release post manager should work with the product managers of the content blocks to make these changes, to ensure accuracy and alignment. The ordering of deprecations should not be changed. 
 
 After the Review App for the release post has been generated, the Release Post Manager solicits additional feedback from the CEO and [product leaders](https://about.gitlab.com/handbook/product/product-leadership/#product-leadership-team-structure) via Slack in the #release-post channel. Clearly communicate when they can expect to start their review 24 hours in advance; this is especially important when the review must happen over the weekend. A best practice for capturing feedback from Slack is to copy the feedback into the MR comments with checkboxes to ensure each item is addressed. PMs can be tagged there also for easier tracking and follow up. Refer to [this 13.0 MR comment thread](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/48201#note_345230940) for reference.
 
@@ -1071,7 +1071,7 @@ Use the following pattern to apply the correct badge to the feature (Free, Premi
 
 If the feature is available in GitLab.com, the badges for GitLab.com will be
 applied automatically according to the self-managed availability. For example,
-`available_in: [premium, ultimate]` will "turn on" the badges Premium and Ultimate under Self-Managed and SaaS.
+`available_in: [premium, ultimate]` will "turn on" the badges Premium and Ultimate under self-managed and SaaS.
 
 If the feature is not available in GitLab.com, e.g., LDAP and admin settings,
 use the tag `gitlab_com: false` to turn off the entire SaaS badges' row. For
@@ -1345,7 +1345,7 @@ Per GitLab's [Versioning Policy](https://docs.gitlab.com/ee/policy/maintenance.h
 
 Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage to merge it into the documentation.
 
-The deprecation yml file then goes through two processes to be seen by users. First, when the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) runs a rake task as part of their merge process, this updates the deprecation documentation page. Documentation is included in self-hosted instances and this then provides a complete list of deprecations for self-hosted users within their own documentation. When the Release Post Manager runs the content assembly step, the new (meaning the deprecation notices those files where the announcement milestone matches the current release post milestone) deprecations are included in the release post, but the older ones are not. A link to the documentation page is included so a user can see the full list at any time. For a deeper understanding of technical aspects of deprecations as part of the release post and Docs, visit [deprecation technical aspects](#deprecation-technical-aspects). 
+The deprecation yml file then goes through two processes to be seen by users. First, when the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) runs a rake task as part of their merge process, this updates the deprecation documentation page. Documentation is included in self-managed instances and this then provides a complete list of deprecations for self-managed users within their own documentation. When the Release Post Manager runs the content assembly step, the new (meaning the deprecation notices those files where the announcement milestone matches the current release post milestone) deprecations are included in the release post, but the older ones are not. A link to the documentation page is included so a user can see the full list at any time. For a deeper understanding of technical aspects of deprecations as part of the release post and Docs, visit [deprecation technical aspects](#deprecation-technical-aspects). 
 
 #### Removals
 
