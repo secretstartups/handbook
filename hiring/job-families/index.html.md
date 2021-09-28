@@ -40,7 +40,8 @@ Anyone can create or edit a job family, in general it is the responsibility of t
   * There is a business need for the level within the job family.
   * The level is common in the market based on survey data. 
   * All components of the job family are populated. 
-  * A [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) is set to add to the Compensation Calculator.  
+  * A [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) is set to add to the Compensation Calculator.
+  * A Job Title is created within BambooHR.   
 
 ## Templates for New Job Family
 
