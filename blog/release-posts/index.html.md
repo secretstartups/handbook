@@ -1292,7 +1292,13 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
  Deprecation notices should be [added to the documentation per the deprecation policy](https://docs.gitlab.com/omnibus/package-information/deprecation_policy.html#deprecating-configuration).
 
 **Please watch the videos below as well as reading the info below to help clarify how to handle deprecations and removals in the release post.**
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/embed/9gy7tg94j7s" title="Overview of deprecation and removal of features in GitLab releases" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
+<figure class="video_container">
+    <iframe src="https://www.youtube.com/watch?v=0TKmIIdGZIE" title="How to add  GitLab deprecations to release posts and documentation" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 
 A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. Deprecation MRs need to be merged by the 17th of the month so that self-managed customers receive notice in a timely fashion. Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
