@@ -1765,9 +1765,12 @@ https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/
 
 ### Deprecation technical aspects
 
-1. To ensure you can run the local rake tasks please ensure your [GDK](https://gitlab.com/gitlab-org/gitlab-development-kit) is configured correctly.
-    - Install the GDK: `curl "https://gitlab.com/gitlab-org/gitlab-development-kit/-/raw/main/support/install" | bash`
-    - Ensure your [local Gems](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions) are up to date:
+To ensure you can run the local rake tasks please take the following steps:
+
+1. Verify that your Ruby version matches the [`.tool-versions`](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions).
+1. Verify that your gems are up-to-date by running `bundle update --bundler`.
+
+If you are still having trouble running the rake task, you might try running `gem install bundler:2.1.4`.  Also, you should verify that your [local Gems](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions) are up to date:
         ```
         golang 1.16.8 1.17.1
         minio 2021-04-06T23-11-00Z
@@ -1777,11 +1780,6 @@ https://gitlab.com/gitlab-com/business-ops/team-member-enablement/issue-tracker/
         ruby 2.7.4 3.0.2
         yarn 1.22.11
       ``` 
-1. When running the rake task to generate the Deprecation (`bin/rake gitlab:docs:compile_deprecations`), you might encounter some Gem bundler issues. To solve these ensure you are using the correct versions locally:
-      - `bundle update --bundler`
-    - `gem install bundler:2.1.4`
-1. Please be aware your Ruby version should match the [`.tool-versions`](https://gitlab.com/gitlab-org/gitlab-development-kit/-/blob/main/.tool-versions) before attempting to update the bundler.
-
 ---
 
 ### Release post merge request template
