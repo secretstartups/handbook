@@ -110,7 +110,7 @@ For suggested email templates for a mid-term call along with renewal calls, refe
 - CaptivateIQ - Commission Calculator
 - [Clari](/handbook/sales/forecasting/) - Forecasting
 - [Datafox](/handbook/business-ops/tech-stack/#datafox) - Client Information
-- [CustomersDot Admin](https://customers.gitlab.com/plans) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
+- [CustomersDot Admin](https://customers.gitlab.com/admin/) (see overview video [here](https://youtu.be/G9JuHXqV5LM))
 - [Chorus](/handbook/business-ops/tech-stack/#chorus) - Call/Demo Recording
 - [Crayon](https://app.crayon.co/intel/gitlab/battlecards/) - Competitor Insights
 - [Periscope](https://app.periscopedata.com/app/gitlab/403199/Welcome-Dashboard-%F0%9F%91%8B) - Data Visualization
