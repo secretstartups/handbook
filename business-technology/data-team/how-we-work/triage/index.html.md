@@ -23,8 +23,8 @@ The Data team has implemented the following triage schedule to take advantage of
 | UTC Day   | Data Analyst      | Data Engineer     |
 | --------- | ----------------- | ----------------- |
 | Sunday    | `@ken_aguilar`    | -                 |
-| Monday    | `@mpeychet`       | `@vedprakash2021` |
-| Tuesday   | `@mpeychet`       | `@paul_armstrong` |
+| Monday    | `@chrissharp`     | `@vedprakash2021` |
+| Tuesday   | `@chrissharp`     | `@paul_armstrong` |
 | Wednesday | `@michellecooper` | `@rbacovic`       |
 | Thursday  | `@ken_aguilar`    | `@laddula`        |
 | Friday    | `@jeanpeguero`    | `@jjstark`        |
