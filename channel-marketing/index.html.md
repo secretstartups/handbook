@@ -118,7 +118,7 @@ Partners now have the ability to place a FREE trial button on their website as a
 *   Press releases: The Channel Marketing team does not have the responsibility to edit and approve partner press releases.  Please create a [Channel or Tech Partner Announcement issue](https://gitlab.com/gitlab-com/marketing/corporate_marketing/corporate-marketing/-/issues/new?issuable_template=channel-partner-announcement-request) for coordination with the Corporate Communications/PR team
 *   Sponsored social media posts: partners looking to GitLab to promote partner activities would not route those requests through Channel Marketing.  Instead, CAM’s obtain the partner’s social media channels and [create an issue](https://about.gitlab.com/handbook/marketing/corporate-marketing/social-marketing/admin/#open-a-new-issue-to-request-social-coverage) for the Social Media team.  This request should include the partner’s social media information, detailed description of what we are being asked to promote and target dates.  
 *   Event attendance: The Channel Marketing team does not own a database of contacts by which to drive attendance to partner specific events nor do we possess the resources to support such requests.
-*   Partner training:**<span style="text-decoration:underline;"> [Partner training](https://about.gitlab.com/handbook/resellers/training/)</span>** is managed and supported by 
+*   Partner training:**<span style="text-decoration:underline;"> [Partner training](https://about.gitlab.com/handbook/resellers/training/)</span>** is managed and supported by the [Channel Partner Training, Certifications, and Enablement team](https://about.gitlab.com/handbook/resellers/training/).
 *   Partner portal management: [Partner portal administration](https://about.gitlab.com/handbook/sales/channel/channel-programs-ops/#partner-portal-administration) is managed by GitLab Channel Program Operations.
 
 ## Service Level Agreement
@@ -132,8 +132,7 @@ When requesting support from our team, we commit to responding to your [issue](h
 *   **David Duncan**: (aka Dunk) VP of Demand Generation & Partner Marketing
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
 *   **Lisa Rom**: Senior Partner Marketing Manager.  Lisa will be focusing on global alliances and channel marketing initiatives and major channel programs
-*   **Karen Pourshadi**: Senior Partner Marketing Manager.  Karen will be focused on content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated campaigns in a box for GitLab channel partners. 
-*   **Mon Ray**: Senior Partner Marketing Manager.  Mon will be focused on developing core Alliances initiatives and content.
+*   **Karen Pourshadi**: Senior Partner Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
 
 ## The best way to contact our team is through our Slack channels
 
