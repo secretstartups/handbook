@@ -86,7 +86,7 @@ In some rare cases, the privacy review process will uncover even risk that a ful
 
 The DPIA is a legal strategy document that will be presented to the relevant authorities if necessary. Because the document is privileged, it is confidential and accessible only by the Legal team and those individuals who are necessary to assist with its completion.
 
-For more information, check out GitLab's [DPIA Policy](/handbook/engineering/security/dpia-policy/)
+For more information, check out GitLab's [DPIA Policy](/handbook/legal/privacy/dpia-policy)
 
 ### DPIA FAQ
 
