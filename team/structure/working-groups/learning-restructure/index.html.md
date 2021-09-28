@@ -49,7 +49,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Facilitator           | Stella Treas            | Chief of Staff      |
 | Functional Lead       | Kris Reynolds      | Manager, Field Enablement Programs  |
 | Functional Lead       | Josh Zimmerman          | Manager, Learning and Development   |
-| Functional Lead       | Tye David         | Manager, Technical Marketing   |
+| Functional Lead       | Tye Davis         | Manager, Technical Marketing   |
 | Functional Lead       | Ed Cepulis         | Sr. Director, Channel Programs & Enablement   |
 | Functional Lead       | Michael Lutz         | Sr. Director, Professional Services   |
 | Functional Lead       | Christina Hupy         | Manager, Education Program   |
@@ -57,6 +57,7 @@ canonical_path: "/company/team/structure/working-groups/learning-restructure/"
 | Member                | Thabo Bopape            | Senior Technical Enablement Program Manager      |
 | Member                | Kendra Marquat     | Sr. Technical Instructional Designer, Customer Education |
 | Member                | Christopher Wang      | Senior Sales Development Solutions Architect        |
+| Member                | Marshall Cottrell      | Strategy and Operations Principal        |
 
 
 ## Meetings
