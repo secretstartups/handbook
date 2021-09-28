@@ -32,6 +32,19 @@ description: "This page is an overview of the search team alignment and the tale
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
 
+## Talent Acquisition Leader Alignment
+
+| Department                    | Leader      | 
+|--------------------------|-----------------|
+| Talent Acquisition         | Rob Allen |
+| Talent Brand and Enablement | Devin Rogozinski |
+| Talent Acquisition (Sales) | Jake Foster|
+| Talent Acquisition (Marketing) | Kelly Murdock |
+| Talent Acquisition (G&A) | Kelly Murdock |
+| Talent Acquisition (R&D) | Kelly Murdock|
+| Sourcing | Kelly Murdock |
+| Candidate Experience | Marissa Feber |
+
 ## Talent Acquisition Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
