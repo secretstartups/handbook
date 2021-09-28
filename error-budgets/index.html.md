@@ -39,7 +39,7 @@ Here is an example of these elements:
 
 Taken all together, the above example SLO would be: **_99.95% of the 95th percentile latency of api requests over 5 mins is < 100ms over the previous 28 days_**
 
-The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .0001).  Using our 28 day timeframe, **the "budget" for errors is 20.16 minutes** (.0001 * (28 * 24 * 60))
+The Error Budget is then 1 - Objective of the SLO, in this case (1 - .9995 = .0005).  Using our 28 day timeframe, **the "budget" for errors is 20.16 minutes** (.0005 * (28 * 24 * 60))
 
 While the above example shows the SLI as a latency measurement, it is important to note that other measurements (such as % errors) are also good elements to use for SLIs.
 
