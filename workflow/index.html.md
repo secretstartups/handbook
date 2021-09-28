@@ -504,7 +504,7 @@ At the end of every release, each team should host their own retrospective. For 
 
 ### Retrospective Summary
 
-Note - we are currently conducting an experiment with [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4). 
+Note - we are currently conducting an experiment with [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4). During such time we will not be conducting an R&D-wide Retrospective Summary.
 
 The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
 
