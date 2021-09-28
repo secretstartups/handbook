@@ -1297,7 +1297,7 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 </figure>
 
 <figure class="video_container">
-    <iframe src="https://www.youtube.com/watch?v=0TKmIIdGZIE" title="How to add  GitLab deprecations to release posts and documentation" frameborder="0" allowfullscreen="true"> </iframe>
+    <iframe src="https://www.youtube.com/embed/0TKmIIdGZIE" title="How to add  GitLab deprecations to release posts and documentation" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
 
