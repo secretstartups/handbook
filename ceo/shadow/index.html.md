@@ -966,6 +966,15 @@ Past Childcare facilities that have been accommodating:
 
 Our top priority is the health and safety of our team members, please refer to the current [travel policy](/handbook/travel/#travel-guidance-covid-19). The CEO Shadow program is classified as non-essential travel and travel to San Francisco will not be required during the time frame specified in the policy linked. CEO Shadows joining the program should plan on participating in the program remotely and matching the CEO's schedule which is primarily in the Pacific time zone unless the CEO is traveling to another time zone. If you have questions please use `#ceo-shadow` in slack and @ mention the [Staff EBA to the CEO](/handbook/eba/#executive-business-administrator-team)
 
+## Considerations for other companies starting CEO Shadow programs
+
+GitLab co-founder and CEO Sid Sijbrandij [answered questions in a YouTube livestream](https://youtu.be/ExG8_bnIAMI) from Sam Altman, as the two discussed considerations for implementing a CEO Shadow program in other organizations. Key takeaways are documented below.
+
+1. CEOs should not optimize meetings for Shadows. They are learning by being in the room, either in-person or virtual, and it's OK if the Shadow doesn't fully understand everything. 
+1. A well-designed CEO Shadow program shouldn't burden a CEO; in fact, Shadows should actively make a CEO's day easier by assisting with notes and changing relevant portions of the company handbook upon request.
+1. Non-obvious benefits for a CEO (and their organization) include CEO empathy and humanizing a CEO, such that team members are more comfortable contributing input to an executive. Shadow alumni are able to translate real-world examples of [assuming positive intent](/handbook/values/#assume-positive-intent) from their time in the program to their direct reports, further fortifying company culture. 
+1. Ensure that CEO Shadows do not plan to do any of their usual work. Shadows should prepare their team as if they were on vacation. Attempting to shadow the CEO while also maintaining a full workload creates undue stress for the CEO Shadow. 
+
 ## Alumni
 
 CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack channel to stay in touch after the program.
