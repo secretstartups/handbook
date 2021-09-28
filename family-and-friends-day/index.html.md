@@ -20,7 +20,6 @@ Team members can share about their Family and Friends Day in the `#family-and-fr
 
 ## Upcoming Family and Friends Days
 
-1. 2021-09-24
 1. 2021-10-15
 1. 2021-11-29
 
@@ -42,6 +41,7 @@ We will look at scheduling future dates pending the global COVID-19 situation. B
 1. A twelfth Family and Friends Day was held on `2021-06-25`.
 1. A thirteenth Family and Friends day was held on `2021-07-16`.
 1. A fourteenth Family and Friends day was held on `2021-08-27`.
+1. A fifteenth Family and Friends day was held on `2021-09-24`.
 
 
 ## FAQ about Family and Friends Day
