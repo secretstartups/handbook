@@ -87,7 +87,7 @@ See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsh
 
 It is up to managers to uphold a steady drumbeat of recognition for their teams. Field Managers consistently asked for a better forum to recognize their team members publicly. 
 
-As a result, we launched the #deal-gratitude channel as a forum for managers to provide recognition and share best-practices specifically related to Sales deals in a public channel rather than in a specific team channel or meeting. This channel also allows others to interact with reactions and comments. 
+As a result, we launched the #deal-gratitude channel as a forum for managers to provide recognition and share best-practices specifically related to Sales deals in a public channel rather than in a specific team channel or meeting. 
 
 Key features of this channel include: 
 1. Public channel
@@ -102,7 +102,7 @@ When using this channel, Field managers and above should keep these best-practic
 1. **Share best-practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  
 
 #### What is the difference between #deal-gratitude and #thanks? 
-The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated for managers+ to recognize team members for outstanding efforts specifically related to Sales deals. While this might include some "thanks", it is not limited to it. Posts in this channel should also share best-practices and lessons-learned so that the outstanding behaviors recognized are repeatable by peers.
+The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated for managers+ to recognize team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks", it is not limited to it. Posts in this channel should also share best-practices and lessons-learned so that the outstanding behaviors recognized are repeatable by peers.
 
 **When to use #deal-gratitude**
 
