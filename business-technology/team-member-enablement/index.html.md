@@ -89,3 +89,4 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 - IT Analyst APAC -  [Steve Ladgrove](https://about.gitlab.com/company/team/#sladgrove), sladgrove@gitlab.com, @sladgrove
 - IT Systems Engineer -  [Dillon Wheeler](https://about.gitlab.com/company/team/#dillonwheeler), dwheeler@gitlab.com, @dillonwheeler
 - Senior IT Systems Engineer -  [Jeff Martin](https://about.gitlab.com/company/team/#jeffersonmartin), jmartin@gitlab.com, @jeffersonmartin
+- Senior IT Systems Engineer - [Marcus Whitaker](https://about.gitlab.com/company/team/#mwhitaker), mwhitaker@gitlab.com, @mwhitaker
