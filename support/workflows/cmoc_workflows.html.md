@@ -90,6 +90,14 @@ Alternatively, you can paste the following search string into the Zendesk search
 
 This shows new tickets created in the previous 4 hours - change the range if the incident began earlier than that.
 
+### Tagging Tickets
+
+If there is any customer contact regarding an incident regardless of severity, you should create an incident tag in Zendesk as soon as possible. You can check for customer tickets by using the tips above, by scanning the FRT & Free ticket queue and validating the tickets, or by asking the wider Support team. You can create a tag on a ticket directly by finding the `tags` field and using the format `com_incident_####`. Replace #### with the production incident number of the issue. Once you've added the tag, submit the ticket with an appropriate `Incident First Response` macro and the tag will become available to use on other tickets.
+
+Tagging tickets can be done throughout the incident process but the CMOC should check the queue for accurate tagging during the incident resolution stage. The tagging of tickets is useful for gauging support impact, ease of finding related tickets for active incident troubleshooting, and ease of finding related tickets for historical reference.
+
+For details on tagging and tracking incidents, please see [Tracking Incidents](tracking_incidents.html) workflow.
+
 ### Reviewing Past Incidents
 
 Keep in mind that you can always [review past incidents](https://status.gitlab.com/pages/history/5b36dc6502d06804c08349f7) if you need examples or inspiration for how to fill in the details for a current incident.
@@ -116,6 +124,7 @@ The following steps should be taken immediately after receiving a PagerDuty page
 1. Join the incident Zoom call, provided by [Woodhouse](#how-are-incidents-declared).
 1. Create the incident in Status.io.
 1. Notify internal stakeholders, if necessary.
+1. Add `~Incident-Comms::Status-Page` label to the GitLab Incident Issue
 1. Resolve the PagerDuty page.
 
 #### PagerDuty Status
@@ -162,7 +171,7 @@ Change the following values:
 
 #### 3. Notify Stakeholders
 
-Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack.
+Once the severity of the incident has been set and it is on our status page, the CMOC should notify internal stakeholders using the Incident Notifier application in Slack. Internal stakeholders should be notified any time there is a public post on the status page, regardless of severity.
 
 This application prompts you to fill out a form and then posts its contents automatically to a direct message to the submitter along with the `#community-relations` and `#customer-success` channels, notifying them of the incident. To engage it:
 
@@ -183,9 +192,24 @@ This process should be followed when all of the following are true:
 - CMOC escalation to an incident has occurred
 - Public notification is occurring or the IMOC has determined the incident requires e-group notification.
 
+#### 4. Label the GitLab Incident Issue to reflect customer communications status
+
+It is important that we are able to differentiate incidents which included outbound Status page and related notificatons from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
+
+Whenever a GitLab service incident includes the use of a Status Page incident this should be identified on the GitLab Incident Issue. See this, and other uses of this scoped label in the [Incident Management section of the handbook](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling).
+
+1. Add the `~Incident-Comms::Status-Page` scoped label to the GitLab Incident Issue
+
 ### Stage 2: **Incident Updates**
 
-To update an active incident click the incidents icon from the dashboard.
+When updating incidents, there are 2 actions to take:
+
+1. Update the incident.
+1. Update the E-Group slack thread if the update is material in nature.
+
+#### 1. Update the incident
+
+To update an active incident, click the incidents icon from the dashboard.
 
 ![Active incident dashboard icon](/images/support/cmoc_update_incident_dashboard.png){: .shadow}
 
@@ -208,6 +232,12 @@ A ready to be published update should look similar to the following.
 Make sure to [verify](https://wordcounter.net/character-count) the update length before publishing it. If it exceeds 280 characters, the update won't be published on twitter with no failure notification from `status.io`.
 
 After publishing the update, visit the live [GitLab Status Page](https://status.gitlab.com) to verify the update went through and looks clear.
+
+#### 2. Update the E-Group
+
+1. When the update would help keep the e-group informed of progress, copy/paste the update in to the `#e-group` slack thread that was created in Stage 1.
+
+It is not always necessary to perform this step.  The goal is to equip the e-group with information that allows them to know approximately where we are in the process of resolving the incident. For example, "no material update" type messages do NOT need to be shared on the e-group incident thread.
 
 ### Stage 3: **Incident Resolution**
 
@@ -329,4 +359,4 @@ The [CMOC Shadow Schedule](https://gitlab.pagerduty.com/schedules#PQBZCSY) can t
 
 ## CMOC Training Videos
 
-It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy) 
+It is recommended to watch this video on how to perform CMOC duties effectively: [CMOC training video](https://drive.google.com/drive/u/0/folders/1JArmPtHxfx6YMIWA4Dz1StqGEU2XllRy)

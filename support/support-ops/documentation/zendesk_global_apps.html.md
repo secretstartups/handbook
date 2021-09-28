@@ -368,3 +368,17 @@ App information:
 * Located in the ticket sidebar
 * This application was developed by Gainsight and is available in the
   [Zendesk Marketplace](https://www.zendesk.com/apps/support/gainsight/).
+
+### SFDC Tool
+
+This app grabs the account information from SFDC and displays it in the
+sidebar. Currently, it pulls in the chatter data.
+
+It also checks if the requester is a contact in the org. If not, a handy button
+appears allowing you to add the user as a contact under the organization.
+
+App information:
+
+* Located in the ticket sidebar
+* This application was developed in-house and can be found
+  [SFDC Tool project](https://gitlab.com/gitlab-com/support/support-ops/zendesk-apps/sfdc_tool).

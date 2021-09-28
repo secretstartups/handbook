@@ -92,7 +92,7 @@ When GitLab experiences a [security incident](/handbook/engineering/security/sec
 
 #### Example situations and potential solutions:
 
-- User requesting Live Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-support-hours)
+- User requesting Live Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-global-support-hours)
    - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accomodate the day/time being requested
    - Work with the end user to reschedule for another date/time that is more amenable to support staffing
 - User has provided insufficient [scheduling notice](/support/scheduling-live-upgrade-assistance.html#how-far-in-advance-must-i-open-a-support-request-to-request-live-upgrade-assistance)

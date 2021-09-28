@@ -36,15 +36,22 @@ instead of being time-based.
 
 ## Creating a trigger via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the triggers
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the triggers management
+pages under `Objects and rules` > `Business rules` > `Triggers`. All videos are
+of the old location (i.e. in the admin panel). Once you access the management
+pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/rfrD_MaZKnU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a trigger in Zendesk, you first need to go to the admin panel, which
-can be located by the gear icon on the left-hand side. From there, you will want
-to go to the `BUSINESS RULES` sections on the left-hand side panel (it is
-normally second from the top, so you might need to scroll down). Under that
-section, click the `Triggers` link.
+To create a trigger in Zendesk, you first need to go to the Admin Center, which
+you can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the triggers
+management pages under `Objects and rules` > `Business rules` > `Triggers`.
 
 After doing so, you will then click the `Add trigger` button on the top-right
 side of the page. This will then load up the new trigger page.
@@ -65,6 +72,14 @@ select category. To adjust this, see [Positioning](#positioning).
 
 ## Editing a trigger via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the triggers
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the triggers management
+pages under `Objects and rules` > `Business rules` > `Triggers`. All videos are
+of the old location (i.e. in the admin panel). Once you access the management
+pages, the steps to create/edit/etc. are the same.
+
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/PioOpyydHWw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
@@ -81,6 +96,14 @@ various aspects of the trigger. Once you have the edits in place, ensure the
 dropdown at the bottom right says `Update` and click the blue `Submit` button.
 
 ## Deactivating a trigger via Zendesk
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the triggers
+management pages. They are now located in the Admin Center, which you can
+locate by clicking the four squares in the top-right of the page and clicking
+the Admin Center link. After doing so, you can locate the triggers management
+pages under `Objects and rules` > `Business rules` > `Triggers`. All videos are
+of the old location (i.e. in the admin panel). Once you access the management
+pages, the steps to create/edit/etc. are the same.
 
 <figure class="video_container">
     <iframe src="https://www.youtube.com/embed/59Xwwg_ldqk" frameborder="0" allowfullscreen="true"> </iframe>
@@ -301,25 +324,35 @@ following labels (the same as with issues):
 ### Pre-implementation announcement stage
 
 Once an implementation date has been determined, you need to announce this
-upcoming change. To do this, use the following template:
+upcoming change. To do this, go to the Slack channel
+`#support_ops-accouncements` and click the lightning bolt on the text box (this
+is the shortcuts icon). From there, select `Support Ops Announcement`. This
+will cause a form to pop-up. Fill out the form to generate a message in the
+`#support_ops-accouncements` channel.
 
-> As per the request ISSUE_LINK of REQUESTER, we are planning to implement
-> BRIEF_SUMMARY_OF_CHANGES. This is slated to be done on DATE. The impact you
-> might see is BRIEF_SUMMARY_OF_IMPACT.
+The form asks for the following:
 
-You will announce this in two places:
+* **Who** is this impacting
+* **What** is changing
+* **When** is it changing
+* **Why** is it changing
+* Other info (optional)
+* **Request link**
 
-* Post in the slack channel `#support_operations`
-* Add to the most recent "Things to Know About" section of the
-  [Support Week in Review](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit?usp=sharing)
-  document
+Once it posts, you will need to screenshot the post message and add that to the
+`Support Operations Corner` of the
+[Support Week in Review](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit?usp=sharing)
+document
 
-After posting, you then want to cross-link (copy the link to the post) the
-announcement in the slack channel `#support_operations` to the following
-channels:
+After adding it in the Support Week in Review, you then want to cross-link
+(copy the link to the post) the announcement to the following channels:
 
-* `#support_team-chat`
-* `#spt_managers`
+| Channel | When to cross-link |
+|---------|--------------------|
+| `#support_operations` | Every time |
+| `#support_team-chat` | If this impacts Support only or Everyone |
+| `#spt_managers` | If this impacts Support only or Everyone |
+| `#whats-happening-at-gitlab` | If the change is concerning SLA OR provisioning/deprovisioning |
 
 ### Implementation stage
 
@@ -330,26 +363,35 @@ for assistance.
 
 ### Post-implementation announcement stage
 
-Once an implementation has been completed, you need to announce it! To do this, use
-the following template:
+Once an implementation has been completed, you need to announce the change. To
+do this, go to the Slack channel `#support_ops-accouncements` and click the
+lightning bolt on the text box (this is the shortcuts icon). From there, select
+`Support Ops Announcement`. This will cause a form to pop-up. Fill out the form
+to generate a message in the `#support_ops-accouncements` channel.
 
-> As per the request ISSUE_LINK of REQUESTER, we have implemented
-> BRIEF_SUMMARY_OF_CHANGES. The impact you might see is BRIEF_SUMMARY_OF_IMPACT.
-> Please direct any issues/comments/feedback you see to the issue linked above.
+The form asks for the following:
 
-You will announce this in two places:
+* **Who** is this impacting
+* **What** is changing
+* **When** is it changing
+* **Why** is it changing
+* Other info (optional)
+* **Request link**
 
-* Post in the slack channel `#support_operations`
-* Add to the most recent "Things to Know About" section of the
-  [Support Week in Review](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit?usp=sharing)
-  document
+Once it posts, you will need to screenshot the post message and add that to the
+`Support Operations Corner` of the
+[Support Week in Review](https://docs.google.com/document/d/1eyMzbzImSKNFMpmu33C6imvC1iWEWHREJqaD6mkVDNg/edit?usp=sharing)
+document
 
-After posting, you then want to cross-link (copy the link to the post) the
-announcement in the slack channel `#support_operations` to the following
-channels:
+After adding it in the Support Week in Review, you then want to cross-link
+(copy the link to the post) the announcement to the following channels:
 
-* `#support_team-chat`
-* `#spt_managers`
+| Channel | When to cross-link |
+|---------|--------------------|
+| `#support_operations` | Every time |
+| `#support_team-chat` | If this impacts Support only or Everyone |
+| `#spt_managers` | If this impacts Support only or Everyone |
+| `#whats-happening-at-gitlab` | If the change is concerning SLA OR provisioning/deprovisioning |
 
 ## Useful links
 

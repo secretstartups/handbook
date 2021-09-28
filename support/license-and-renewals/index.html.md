@@ -218,13 +218,13 @@ The queue should not be used for the following:
 
 ### Handbook pages
 
-* [CustomersDot Admin Docs](/handbook/internal-docs/customers-admin/)
+* [CustomersDot Admin Docs](/handbook/product/fulfillment-guide)
 * [Business Ops](/handbook/business-ops/)
   * [Business Systems: Enterprise Applications, Integrations, and Flow](/handbook/business-ops/enterprise-applications/applications/)
   * [Troubleshooting: True Ups, Licenses + EULAs](/handbook/business-ops/enterprise-applications/applications/troubleshooting/)
 * [Sales](/handbook/sales/)
-  * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation)
-  * [Sales Territories](/handbook/sales/territories/#territories)
+  * [Sales Segmentation](/handbook/sales/field-operations/gtm-resources/)
+  * [Sales Territories](/handbook/sales/territories/)
 * [Marketing](/handbook/marketing/)
   * [Sales Enablement: GitLab.com subscriptions](/handbook/marketing/strategic-marketing/enablement/dotcom-subscriptions/)
 

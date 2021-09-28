@@ -83,28 +83,22 @@ in waiting until the subscription expires.
 
 There is currently [no ability to downgrade a subscription from a self-service perspective](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/368).
 
-If a user wants to downgrade and they are within 45 days of the purchase, send
-the request to the AR team by selecting the form `Accounts Receivable` in
-Zendesk and advise the user to purchase the desired plan once cancelled/refunded.
+Plan downgrades should only be done at renewal. However, if the customer purchased the wrong plan as a new subscription, send
+the request to the AR team by selecting the `Accounts Receivable` macro and ask that the incorrect purchase be cancelled so that a new subscription can be purchased on the Premium plan. 
 
-If the user is outside of the 45 day period, advise them that we can cancel the
-purchase but the subscription will not be refunded. In this case you can also
-consider passing the issue to the assigned Account Manager in sales if the deal
-is midmarket or higher.
+If a SaaS Ulimtate customer would like to renew for a Premium plan, advise them to purchase a Premium subscription and link their group to the new subscription. Ensure that they have set their Ulitmate subscription to expire/cancel on the end date.
+
+If a Self-managed Ultimate customer would like to renew for a Premium plan, refer them to Sales for assistance.
 
 ### Refunds
 
-GitLab provides Subscriptions on an annual basis which are not eligible for termination / refund for a Customer's convenience. 
+GitLab provides subscriptions on an annual basis which are not eligible for termination / refund for a customer's convenience. When a refund request is made, our billing team uses [this internal guide](https://gitlab.com/gitlab-com/Finance-Division/finance/-/wikis/Refund-Approvals-Sales-Assisted-&-Web-Direct) (GitLab internal) to determine if a refund is appropriate.
 
-> **Note:** *There may be special circumstances where we may be able to request
-a refund outside of the eligibility window - if you believe a case qualifies for
-this, CC a manager for approval.*
-
-1. Determine the reason that they're cancelling and requesting a refund.
+1. Determine the reason that the customer is cancelling and requesting a refund.
+1. Let the customer know that the billing team will advise whether a refund is possible and process the request if appropriate.
 1. Make sure that there aren't any other types of queries that would need the
    Support team's attention
-1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to
-   process the refund. They will reply to the customer once done.
+1. Use the [`General::Accounts Receivable`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360038646513) macro to transfer the ticket to AR to advise and process if relevant. They will reply to the customer once done.
 
 Note: we cannot do partial refunds, so when a refund is requested, the whole
 subscription will have to be cancelled and refunded. See [Renewal reversal](https://about.gitlab.com/handbook/support/license-and-renewals/workflows/billing_contact_change_payments.html#renewal-reversal) for accidental renewal scenarios.

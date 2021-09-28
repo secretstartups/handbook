@@ -20,7 +20,7 @@ The activation token in a confirmation email will only be valid for 24 hours. Th
 
 ### Triage the ticket with the correct problem type
 
-Make sure that the ticket is correctly triaged with the `Did not receive confirmation email` problem type, so that
+Make sure that the ticket is correctly triaged with the `SaaS Account` form and the `Did not receive confirmation email` problem type, so that
 the [SaaS Account Ticket Helper](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#saas-account-ticket-helper) can activate.
 
 If the user has already correctly chosen the problem type, the automation will activate when an agent opens the ticket for the first time.
@@ -53,8 +53,9 @@ If the user made a typo:
     - Admin: when viewing the user in admin, click on `Edit`, then `Save` when done.
     - Chatops
         - View User: `/chatops run user find <user or email>`
-        - Edit Email: `/chatops run user update_email <username or current email> <new_eamil@example.com>`
+        - Edit Email: `/chatops run user update_email <username or current email> <new_email@example.com>`
 1. Ensure that it now shows the new email.
+1. Add an [admin note](https://about.gitlab.com/handbook/support/workflows/admin_note.html) to the account.
 
 ### Removing a Suppression in Zendesk
 

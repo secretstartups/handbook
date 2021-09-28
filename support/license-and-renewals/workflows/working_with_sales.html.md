@@ -44,7 +44,7 @@ description: This page is about working with sales.
         * Account owner says they have no time to help.
    1. If the Salesforce `Account Owner` is not a person
       1. Find the person in charge of the [sales segment](https://about.gitlab.com/handbook/sales/field-operations/gtm-resources/#segmentation)
-        and [sales territory](https://about.gitlab.com/handbook/sales/territories/#territories)
+        and [sales territory](https://about.gitlab.com/handbook/sales/territories/)
         and mention them in a Chatter comment.
    1. If anyone you reach out to does not respond within 24 hours (excluding weekend, Family and Friends Day & global holidays):
       1. Mention the person's direct manager in a Chatter comment.
@@ -58,7 +58,7 @@ description: This page is about working with sales.
              > Following the new "Working with Sales workflow" I'm escalating support ticket https://gitlab.zendesk.com/agent/tickets/<ticket number\> as we haven't heard from <account owner\> nor <account owner's manager\> within the agreed upon time.
       1. Repeat as necessary every 24 hours and go one step up the reporting
          line, going all the way up to CEO if necessary.
-   * It is helpful to refer to the [company organization chart](/company/team/org-chart/)
+   * It is helpful to refer to the [company organization chart](https://comp-calculator.gitlab.net/org_chart)
      to see who to escalate to.
 1. When someone from sales says they'll be in touch with the customer:
    1. Post an update to the ticket, mentioning:

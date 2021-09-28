@@ -37,14 +37,22 @@ As per
 
 ## Creating a macro via Zendesk
 
+**Note**: As of 2021-09-21, Zendesk has changed the location of the macros
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the macros management pages
+under `Workspaces` > `Agent workspace` > `Macros`. All videos are of the old
+location (i.e. in the admin panel). Once you access the management pages, the
+steps to create/edit/etc. are the same.
+
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/6jyrqucevLU" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-To create a macro in Zendesk, you first need to go to the admin panel, which
-can be located by the gear icon on the left-hand side. From there, you will
-want to go to the `MANAGE` sections on the left-hand side panel (it is normally
-third from the top). Under that section, click the `Macros` link.
+To create a macro in Zendesk, you first need to go to the Admin Center, which
+you can locate by clicking the four squares in the top-right of the page and
+clicking the Admin Center link. After doing so, you can locate the macros
+management pages under `Workspaces` > `Agent workspace` > `Macros`.
 
 After doing so, you will then click the `Add macro` button on the top-right
 side of the page. This will then load up the new macro page.
@@ -59,6 +67,14 @@ From here, you will:
 After doing this, you will then click the blue `Create` button.
 
 ## Editing a macro via Zendesk
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the macros
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the macros management pages
+under `Workspaces` > `Agent workspace` > `Macros`. All videos are of the old
+location (i.e. in the admin panel). Once you access the management pages, the
+steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/wnRWTICvTDI" frameborder="0" allowfullscreen="true"> </iframe>
@@ -76,6 +92,14 @@ various aspects of the macro. Once you have the edits in place, click the blue
 `Save` button.
 
 ## Deactivating a macro via Zendesk
+
+**Note**: As of 2021-09-21, Zendesk has changed the location of the macros
+management pages. They are now located in the Admin Center, which you can locate
+by clicking the four squares in the top-right of the page and clicking the
+Admin Center link. After doing so, you can locate the macros management pages
+under `Workspaces` > `Agent workspace` > `Macros`. All videos are of the old
+location (i.e. in the admin panel). Once you access the management pages, the
+steps to create/edit/etc. are the same.
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/K6zVZuNb1XI" frameborder="0" allowfullscreen="true"> </iframe>
@@ -109,7 +133,7 @@ Macros are a bit unique in Zendesk. They have categorization, but it is not
 obvious in the UI. Instead, the categorization is determined based on the name
 of the macro itself. Essentially, every group of words becomes a "folder" of
 sorts in the macros dropdown selector. The separator currently used by Zendesk
-is two colons (`::`). 
+is two colons (`::`).
 
 This can get a bit confusing and hard to learn the ins and outs of, so when in
 doubt, reach out to your fellow Support Ops team members.

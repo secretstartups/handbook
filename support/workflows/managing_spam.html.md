@@ -39,7 +39,7 @@ the spammer's user profile and click on the "Report Abuse" button:
 
 Both the Akismet filter and [Spamcheck](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/automation/spamcheck.md) may also flag false positives and prevent a user from
 creating issues. The contents of the flagged issue get stored in the spam logs,
-which is only accessible to admin users. If you're unsure whether Akismet or Spamcheck is disrupting the creation of artifacts(issues, snippets, etc) you may diagnose the problem as described in https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/automation/spamcheck.md#false-negative-and-false-positive-investigation.
+which is only accessible to admin users. If you're unsure whether Akismet or Spamcheck is disrupting the creation of artifacts(issues, snippets, etc) you may diagnose the problem as described in the [Security runbook entry for falsely labelled spam](https://gitlab.com/gitlab-com/gl-security/runbooks/-/blob/master/automation/spamcheck.md#false-negative-and-false-positive-investigation).
 
 From time to time, we may need to submit the flagged issue as "ham" (e.g. when a user lodges a complaint on the
 Support Tracker about not being able to create issues). Currently, there are

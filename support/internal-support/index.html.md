@@ -115,7 +115,7 @@ Please consider the following:
 | Assistance with License Issue:<br> - For GitLab Self-managed, or converting from SaaS to Self-managed.<br> - Includes problems with: did not receive license, multi-year licenses, account ownership. | **Global organizations:** [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=License%20Issue) using the `License Issue` template. <br> **Public Sector organizations:** For confidential license issues, GitLab team members can [open a case with US Federal Support](https://federal-support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360001803151). <br> <sup> **Note**: This form is not publicly listed and is for internal GitLab team member use only.</sup> |
 | Send/Resend EULA | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=EULA) using the `EULA` template.
 | GitLab.com Billable Members List | Until [#27074](https://gitlab.com/gitlab-org/gitlab/-/issues/27074) or [#35454](https://gitlab.com/gitlab-org/gitlab/-/issues/35454) is implemented, [open an issue](https://gitlab.com/gitlab-com/support/internal-requests/issues/new?issuable_template=billable%20members) using the `Billable Members` template. |
-| Request for a license as a GitLab Team Member | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab%20Team%20Member%20License) using the `GitLab Team Member License` template |
+| Request for a license as a GitLab Team Member | [Open an Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request) using the `GitLab_Team_Member_License_request` template |
 | Request a license for a HackerOne reporter | [Open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=HackerOne%20Reporter%20License%20Request) using the `HackerOne Reporter License Request` template |
 
 #### GitLab.com Billable Members List
@@ -171,6 +171,23 @@ If *none* of these above are options for your case, open a [billable members int
 Please see the dedicated [Support Escalations](/handbook/support/internal-support/support-escalations.html) page.
 
 ---
+
+### Contacting customers via tickets
+
+At times, you may need to reach out to one or more users about
+GitLab SaaS. Some examples might be:
+
+* An urgent Security related issue
+* Important project/group affecting changes
+* Account problems
+* Questionable user behavior
+
+| Request | What to do |
+|---------|------------|
+| I need to reach out to a single user | Use the information at [Contacting a User](../workflows/cmoc_workflows.html#contacting-a-user). This will guide you on how to make the request. |
+| I need to reach out to many users | Fill out the [customer ticket generator form](https://gitlab-com.gitlab.io/support/support-ops/customer-ticket-generator/). This will create a structured issue that Support Ops will use to bulk create the requested tickets.  |
+
+**Please note**: This is not for marketing or sales related contact. This channel is only for communication with users regarding important items that might affect their usage of GitLab SaaS.
 
 ### Other
 

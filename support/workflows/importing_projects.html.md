@@ -72,7 +72,9 @@ In addition to the above criteria, we can automatically offer to import a projec
 
 A GitLab.com admin is required to correctly map users in GitLab, [per our documentation](https://docs.gitlab.com/ee/user/project/settings/import_export.html). Without an admin account, repository commits will have correct user attribution but issues and merge requests will not. We can import a project for a customer if they require this and there are *no other* issues with their import.
 
->**NOTE:** Using an admin account will not be required once [223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137) is implemented.
+Any request should include a comment on the relevant feature request [#223137](https://gitlab.com/gitlab-org/gitlab/-/issues/223137).
+
+>**NOTE:** All users' emails must be **public** for contributions to map.
 
 #### Other Cases
 
@@ -92,7 +94,7 @@ Note that lead time is required for the access request and possibly to find an e
 
 1. Open an issue using the [Single Person Access Request](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=Individual_Bulk_Access_Request) template and fill it out using the notes below.
 1. In a comment on the issue, tag your manager requesting their approval.
-1. Ensure it follow the process for an admin account provisioning (admin label, security approval).
+1. Ensure it follows the process for admin account provisioning (has the `admin-access` label, you've asked for approval from `@gitlab-com/gl-infra/managers`).
 1. If the account is not provisioned within a couple of days before the scheduled date,
 tag `@it-ops-team` in the [#it_help](https://gitlab.slack.com/archives/CK4EQH50E) Slack channel with a link to the request to ensure quick provisioning as soon as you receive a manager's approval.
 
