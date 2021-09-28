@@ -9,11 +9,11 @@ description: "This page is an overview of the search team alignment and the tale
 | Department                    | Recruiter       | Sourcer     |
 |--------------------------|-----------------|-----------------|
 | Executive          | Rich Kahn   | Chriz Cruz |
-| Enterprise Sales, NA | Jonathan Edwards |  Susan Hill |
+| Enterprise Sales, NA | Jonathan Edwards |  TBH |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Commercial Sales,	AMER | Marcus Carter | Susan Hill  |
-| Commercial Sales,	EMEA/APAC | Ben Cowdry | Susan Hill  |
+| Commercial Sales,	AMER | Marcus Carter | TBH  |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  |
 | Channel Sales, Global | Debbie Harris |  Kanwal Matharu |
 | Field Operations,	Global | Joanna Muttiah | Loredana Iluca |
 | Customer Success, Global | Joanna Muttiah | Loredana Iluca ||
