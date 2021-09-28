@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "LicenseDot Access and Use"
-description: "This page outlines how the Sales Org can access and use LicenseDot in support of their customers, including troubleshooting steps."
+title: "CustomersDot Access and Use"
+description: "This page outlines how the Sales Org can access and use CustomersDot in support of their customers, including troubleshooting steps."
 ---
 
 ## On this page
@@ -13,9 +13,9 @@ description: "This page outlines how the Sales Org can access and use LicenseDot
 {::options parse_block_html="true" /}
 
 
-## LicenseDot Access and Use - Sales
+## CustomersDot Access and Use - Sales
 
-### LicenseDot Use Cases
+### CustomersDot Use Cases
 
 **Lookup all issued licenses for a customer/prospect**
 
@@ -27,15 +27,15 @@ It's the only way to search for usage ping data if the server name is not known.
 
 **Quickly find which email address was used to deliver a license**
 
-It is important to know who received the license for further troubleshooting as LicenseDot is the SSOT for license information.
+It is important to know who received the license for further troubleshooting as CustomersDot is the SSOT for license information.
 
 ### Logging in 
 
-Access is via Okta. Either go to https://license.gitlab.com/users/sign_in and click “Sign in with Okta” or go to your Okta App and look for the LicenseDot box.
+Access is via Okta. Either go to https://customers.gitlab.com/admin/sign_in and click “Sign in with Okta” or go to your Okta App and look for the Customers Portal App.
 
-### Available Information in LicenseDot
+### Available Information in CustomersDot
 
-Once logged in, use the search (name, email, company) to find the relevant license id. Once in, you can see relevant facts such as:
+Once logged in, go the the left navigation panel and click on the Licenses tab to search and view (non-cloud) licenses. This takes you to a page that allows you to search for a license, or to view the list of most recently generated licenses. From here, you can search by name or browse the list.  Scroll to the right and click on ‘i’ to show details of a license.  On the details page you will find the company name, the user count and a link to subscription in Zuora.  The license key is shown at the bottom of the page.
 
 - **Contact name and email address**: who was the license sent to? Which email?
 - **Issued at**: When was the license issued to the customer? 
