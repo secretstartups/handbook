@@ -60,7 +60,6 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 * Great communication: Regularly achieve consensus amongst teams
 * Perform technical interviews
 
-
 ## Staff Data Engineer
 
 The SeStaffnior Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
@@ -71,17 +70,14 @@ The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/comp
 
 ### Responsibilities
 
-* All requirements of an Intermediate Data Engineer
-* Understand and implement data engineering best practices
-* Improve, manage, and teach standards for code maintainability and performance in code submitted and reviewed
-* Create smaller merge requests and issues by collaborating with stakeholders to reduce scope and focus on iteration
-* Ship medium to large features independently
-* Generate architecture recommendations and the ability to implement them
-* Great communication: Regularly achieve consensus amongst teams
-* Perform technical interviews
-
-
-
+* All requirements of a Senior Data Engineer
+* Ship large features and foundational improvements with minimal guidance and support from other team members
+* Solve technical problems of the highest scope and complexity
+* Exert significant influence on the long-range goals
+* Define and extend our internal standards for style, maintenance, and best practices for a high-scale data platform
+* Represent GitLab and its values in public communication around broad initiatives, specific projects, and community contributions
+* Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team
+* Provide mentorship for all on your team to help them grow in their technical responsibilities
 
 ## Performance Indicators (PI)
 
@@ -92,6 +88,7 @@ The Staff Data Engineer is a [grade 8](/handbook/total-rewards/compensation/comp
 *   [Mean Time to Repair (MTTR)](/handbook/business-ops/metrics/#mean-time-to-repair-mttr)
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
 
 * Selected candidates will be invited to schedule a [screening call](/handbook/hiring/#screening-call) with one of our Global Recruiters
@@ -104,4 +101,4 @@ Additional details about our process can be found on our [hiring page](/handbook
 
 ### Career Ladder
 
-The next step in the Data Engineer job family is to move to the [Data Management](/job-families/finance/manager-data/) job family. 
+The next step in the Data Engineer job family is to move to a Principal Job Level (`WIP`) or into the [Data Management](/job-families/finance/manager-data/) job family. 
