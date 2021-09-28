@@ -17,10 +17,7 @@ The Director, Channel Projects - GTM is a [grade 10](/handbook/total-rewards/com
 
 #### Director, Channel Projects - GTM Responsibilities 
 
-* This role 3 day per week or 30 hours focused on specific scoped projects that will drive ARR Growth via the channel
-   * Phase 1 - Project 1: Emerging Markets Partner Program 
-   * Phase 1 - Project 2: P1+ Indirect GTM Plan 
-* Understand and synthesize the GitLab channel, competition, and upcoming channel requirements to help the business meet ARR goals in 3 years 
+* Understand and synthesize the GitLab channel, competition, and upcoming channel requirements to help the business meet ARR goals 
 * Lead cross-functional projects 
 * Partner directly with Channel Leadership, CRO Leadership, Finance, Sales Ops & Strategy & Marketing in design and execution of assigned projects 
 * Operate at a strategic level while also understanding when to dive deep to keep the project on track
