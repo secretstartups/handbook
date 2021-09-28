@@ -12,7 +12,8 @@ description: "The Data Management Page covers the content around managing, secur
 
 ##  Welcome to the Data Management Page
 
-This page covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it.
+This page covers practices and policies around managing, securing, and governing the [Enterprise Data Platform](https://about.gitlab.com/handbook/business-technology/data-team/platform/) and activities related to it. The technical components of the Enterprise Data Platform are listed in the [GitLab Tech Stack](/handbook/business-technology/tech-stack-applications/).
+
 
 ## Data Security Practices
 
