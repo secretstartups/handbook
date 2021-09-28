@@ -25,9 +25,7 @@ Release posts follow a process outlined here, and the templates that are used to
 - For a list of release posts (both security and monthly), check the
   [blog category for releases](/releases/categories/releases/).
 - For a list of features per release, check the [releases page](/releases/).
-- For all named changes, check the changelog
-  for [GitLab CE](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CHANGELOG.md)
-  and [GitLab EE](https://gitlab.com/gitlab-org/gitlab-ee/blob/master/CHANGELOG.md).
+- For all named changes, check the changelog for [GitLab CE and GitLab EE](https://gitlab.com/gitlab-org/gitlab/-/blob/master/CHANGELOG.md).
 - See also [release managers](/community/release-managers/).
 - Release Post Managers will need [Maintainer](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions) access to project https://gitlab.com/gitlab-com/www-gitlab-com/. If you need access, model your request after [this confidential issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/10031).
 
