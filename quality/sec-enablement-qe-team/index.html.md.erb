@@ -21,23 +21,45 @@ Engineers in this team are embedded in the [Sec section] and [Enablement section
 
 ## Team members
 
-<%= direct_team(manager_role: 'Quality Engineering Manager, Fulfillment, Growth, Sec & Acting Quality Engineering Manager, Enablement', role_regexp: /(Enablement|Secure)/) %>
+Quality Engineering Manager: [Vincy Wilson]
 
-## Areas of Responsibility
+[Sec section]
 
-All stages under the [Sec section] and [Enablement section].
-* **[Secure stage]**: Security capabilities, integrated into the development lifecycle.
-  * [Static Analysis group] : SAST, Secret Detection
-  * [Dynamic Analysis group] : DAST, IAST, Fuzzing
-  * [Composition Analysis group] : Container Scanning, Dependency Scanning, License Compliance, Vulnerability Database
-* **[Protect stage]**
-  * [Container Security group] : Security Orchestration, Container Network Security, Container Host Security, Container Scanning
-* **[Enablement stage]**: An emphasis on the stability and performance of on-premise GitLab installations.
-  * [Distribution group] : Omnibus, Cloud Native Installation
-  * [Ecosystem group] : SDKs & Integration APIs, Native Integrations, Marketplace
-  * [Geo group] : Geo-replication, Disaster Recovery
-  * [Memory group]
-  * [Search group]
+| S.No 	| Stage       | Group                     	| SET Counterpart                                                        	|
+|------	|-------------|-----------------------------|------------------------------------------------------------------------	|
+| 1    	| [Secure]    | [Static Analysis]          	| [Careem Ahamed]                                                        	|
+| 2    	| [Secure]    | [Dynamic Analysis]         	| TBH                                                       	            |
+| 3    	| [Secure]    | [Composition Analysis]      | [Will Meek]                                                           	|
+| 4    	| [Secure]    | [Threat Insights]           | Hired                                                                 	|
+| 5    	| [Secure]    | [Vulnerability Research]    | TBH                                                                   	|
+| 6    	| [Protect]   | [Container Security]        | TBH                                                                    	|
+
+[Enablement section]
+
+| S.No 	| Stage       	| Group                   | SET Counterpart                                                        	|
+|------	|---------------|-------------------------|------------------------------------------------------------------------	|
+| 1    	| [Enablement]  | [Distribution]          | [Grant Young] <br/> [Nailia Iskhakova]                                  |
+| 2   	| [Enablement]  | [Geo]                   | [Nick Westbury]                                                        	|
+| 3    	| [Enablement]  | [Memory]                | TBH                                                                     |
+| 4   	| [Enablement]  | [Global Search]         | [Erick Banks]                                                          	|
+| 5   	| [Enablement]  | [Database]              | TBH                                                                    	|
+| 6   	| [Enablement]  | [Sharding]              | TBH                                                                    	|
+
+[SaaS Platforms section]
+
+| S.No 	| Stage           	| Group                 | SET Counterpart                                                         |
+|------	|-------------------|-----------------------|-------------------------------------------------------------------------|
+| 1    	| [SaaS Platforms]  | [Delivery]            | TBH                                                                     |
+| 2    	| [SaaS Platforms]  | [Scalability]         | TBH                                                                     |
+| 3    	| [SaaS Platforms]  | [Project Horse]       | TBH                                                                     |
+
+[ModelOps section]
+
+| S.No 	| Stage         	| Group                       | SET Counterpart                                                   |
+|------	|-----------------|-----------------------------|---------------------------------------------------------------------|
+| 1    	| [ModelOps]      | [Applied Machine Learning]  | TBH                                                                 |
+| 2    	| [ModelOps]      | [MLOps]                     | TBH                                                                 |
+| 3    	| [ModelOps]      | [DataOps]                   | TBH                                                                 |
 
 ## OKRs 
 
@@ -69,22 +91,42 @@ the [Self-Managed Environment Triage agenda] (internal only). To be added to the
 meetings, please reach out to the Quality Engineering Manager, Enablement.
 
 [Sec section]: /handbook/product/categories/#sec-section
-[Secure stage]: /handbook/product/categories/#secure-stage
-[Static Analysis group]: /handbook/product/categories/#static-analysis-group
-[Dynamic Analysis group]: /handbook/product/categories/#dynamic-analysis-group
-[Composition Analysis group]: /handbook/product/categories/#composition-analysis-group
-[Protect stage]: /handbook/product/categories/#protect-stage
-[Container Security group]: /handbook/product/categories/#container-security-group
+[Secure]: /handbook/product/categories/#secure-stage
+[Static Analysis]: /handbook/product/categories/#static-analysis-group
+[Dynamic Analysis]: /handbook/product/categories/#dynamic-analysis-group
+[Composition Analysis]: /handbook/product/categories/#composition-analysis-group
+[Threat Insights]: /handbook/product/categories/#threat-insights-group
+[Vulnerability Research]: /handbook/product/categories/#vulnerability-research-group
+[Protect]: /handbook/product/categories/#protect-stage
+[Container Security]: /handbook/product/categories/#container-security-group
 [Enablement section]: /handbook/product/categories/#enablement-section
-[Enablement stage]: /handbook/product/categories/#enablement-stage
-[Distribution group]: /handbook/product/categories/#distribution-group
-[Ecosystem group]: /handbook/product/categories/#ecosystem-group
-[Geo group]: /handbook/product/categories/#geo-group
-[Memory group]: /handbook/product/categories/#memory-group
-[Search group]: /handbook/product/categories/#search-group
+[Enablement]: /handbook/product/categories/#enablement-stage
+[Distribution]: /handbook/product/categories/#distribution-group
+[Geo]: /handbook/product/categories/#geo-group
+[Memory]: /handbook/product/categories/#memory-group
+[Global Search]: /handbook/product/categories/#global-search-group
+[Database]: /handbook/product/categories/#database-group
+[Sharding]: /handbook/product/categories/#sharding-group
+[SaaS Platforms section]: /handbook/product/categories/#saas-platforms-section
+[SaaS Platforms]: /handbook/product/categories/#saas-platforms-stage
+[Delivery]: /handbook/product/categories/#delivery-group
+[Scalability]: /handbook/product/categories/#scalability-group
+[Project Horse]: /handbook/product/categories/#project-horse-group
+[ModelOps section]: /handbook/product/categories/#modelops-section
+[ModelOps]: /handbook/product/categories/#modelops-group
+[Applied Machine Learning]: /handbook/product/categories/#applied-machine-learning-group
+[MLOps]: /handbook/product/categories/#mlops-group
+[DataOps]: /handbook/product/categories/#dataops-group
 [GitLab Performance Tool]: https://gitlab.com/gitlab-org/quality/performance
 [Performance Environment Builder]: https://gitlab.com/gitlab-org/quality/performance-environment-builder
 [Performance Test Data]: https://gitlab.com/gitlab-org/quality/performance-data
 [Performance Docker Images]: https://gitlab.com/gitlab-org/quality/performance-images
 [Self-Managed Environment Triage board]: https://gitlab.com/groups/gitlab-org/-/boards/1131633
 [Self-Managed Environment Triage agenda]: https://docs.google.com/document/d/1FpXtHlIEKNuTCooUn5MxlMvkNvml5UWeBNRHCcDfMrA/edit
+[Careem Ahamed]: https://about.gitlab.com/company/team/#cahamed
+[Erick Banks]: https://about.gitlab.com/company/team/#ebanks
+[Grant Young]: https://about.gitlab.com/company/team/#grantyoung
+[Nailia Iskhakova]: https://about.gitlab.com/company/team/#niskhakova
+[Nick Westbury]: https://about.gitlab.com/company/team/#nwestbury
+[Vincy Wilson]: https://about.gitlab.com/company/team/#vincywilson
+[Will Meek]: https://about.gitlab.com/company/team/#willmeek
