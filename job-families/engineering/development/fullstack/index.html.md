@@ -8,7 +8,7 @@ Fullstack Engineers at GitLab work in the Growth department, which analyzes the 
 
 Fullstack Engineers will work across the backend (Ruby on Rails), and frontend (Vue.js) parts of our application.  Due to the nature of our tech stack, the volume and complexity of work is weighted more strongly towards backend, rather than frontend.
 
-_Important: Within the Engineering division, the Fullstack Engineer job title is **only** used within the Growth department, **not** within other departments/teams. The reason for this is that the Growth department has a need for both Frontend and Backend skillsets, but as a small team, has optimized for team member efficiency to adopt the Fullstack role._
+_Important: Within the Engineering division, the Fullstack Engineer job title is **only** used within the Growth and Incubation Engineering departments, **not** within other departments/teams. The reason for this is that these departments have a need for both Frontend and Backend skill sets and have optimized for team member efficiency to adopt the Fullstack role._
 
 ### Job Grade
 

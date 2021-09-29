@@ -28,7 +28,7 @@ The Public Sector Inside Sales Representative is a [grade 6](/handbook/total-rew
 #### Public Sector Inside Sales Representative Requirements
 
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
 * Experience selling into large organizations
 * Interest in GitLab, and open source software
 * Ability to leverage established relationships and proven sales techniques for success
@@ -78,7 +78,7 @@ The Manager, Public Sector Inside Sales is a [grade 9](https://about.gitlab.com/
  
 * Extends that of the Senior Public Sector Inside Sales Representative Requirements
 * A true desire to see customers benefit from the investment they make with you
-* 5+ years of experience with B2B software sales
+* Demonstrated progressive experience with B2B software sales
   
 ### Senior Manager, Public Sector Inside Sales
 
@@ -102,8 +102,8 @@ The Public Sector Senior Inside Sales Manager, is a [grade 9](https://about.gitl
 #### Senior Manager, Public Sector Inside Sales Requirements
 
 * Extends that of the Manager, Public Sector Insides Sales Requirements 
-* 5 to 7 years in a Management role
-* 7+ years of experience with B2B software sales
+* Demonstrated progressive experience in a Management role
+* Demonstrated progressive experience with B2B software sales
 * Interest in GitLab, and open source software
 * Excellent negotiation, presentation and closing skills
 * One year of successful team management at GitLab related closed sales results with GitLab Public Sector clients.

@@ -26,7 +26,7 @@ The Junior Sales Commissions Analyst is a [grade 5](/handbook/total-rewards/comp
 ### Requirements
 
 * BA/BS degree in accounting, finance, economics or other quantitative fields preferred
-* 2+ years relevant experience and an understanding of sales incentive programs, processes and procedures
+* Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
 * Analytical skills with the ability to interpret and analyze data
 * A detail-oriented self starter with excellent problem solving, interpersonal and organizational skills
 * Excellent written and verbal skills
@@ -61,7 +61,7 @@ The Junior Sales Commissions Analyst is a [grade 6](/handbook/total-rewards/comp
 ### Requirements
 
 * BA/BS degree in accounting, finance, economics or other quantitative fields preferred
-* 4+ years relevant experience and an understanding of sales incentive programs, processes and procedures
+* Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
 * Analytical skills with the ability to interpret and analyze data
 * A detail-oriented self starter with excellent problem solving, interpersonal and organizational skills
 * Excellent written and verbal skills
@@ -96,7 +96,7 @@ The Senior Sales Commissions Analyst is a [grade 7](/handbook/total-rewards/comp
 ### Requirements
 
 * BA/BS degree in accounting, finance, economics or other quantitative fields preferred
-* 6+ years relevant experience and an understanding of sales incentive programs, processes and procedures
+* Demonstrated progressive relevant experience and an understanding of sales incentive programs, processes and procedures
 * Analytical skills with the ability to interpret and analyze data
 * A detail-oriented self starter with excellent problem solving, interpersonal and organizational skills
 * Excellent written and verbal skills
@@ -134,7 +134,7 @@ The Senior Manager, Sales Commissions is a [grade 9](/handbook/total-rewards/com
 ### Requirements
 
 * BA/BS degree in accounting, finance, economics or other quantitative fields preferred
-* 8+ years relevant experience and a solid understanding of sales incentive programs, processes and procedures
+* Demonstrated progressive relevant experience and a solid understanding of sales incentive programs, processes and procedures
 * Advanced analytical and modeling skills with the ability to interpret and analyze data
 * Ability to partner, collaborate and influence across functional areas (e.g. Finance, People Operations and Sales) and support multiple business partners
 * Excellent problem solving, project management, interpersonal and organizational skills

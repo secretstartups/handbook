@@ -32,7 +32,7 @@ The Professional Services Project Coordinator is a [grade 6](/handbook/total-rew
 #### Professional Services Project Coordinator Requirements
 
 * Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
-* 2-3 years industry experience in a Professional Services Operations or similar role for a high-tech product company
+* Demonstrated progressive industry experience in a Professional Services Operations or similar role for a high-tech product company
 * Professional Services Automation (PSA) tools experience recommended (i.e. NetSuite Openair, FinancialForce)
 * Previous experience in a data-driven, analytics-centric role
 * Working understanding of Professional Services cost structures strongly preferred
@@ -55,8 +55,8 @@ The Senior Professional Services Project Coordinator is a [grade 7](/handbook/to
 #### Senior Professional Services Project Coordinator Requirements
 
 * Extends the Professional Services Coordinator requirements
-* 4-6 years industry experience in a Professional Services Operations or similar role for a high-tech product company
-* 2+ years of PSA tools experience required (i.e. NetSuite Openair, FinancialForce)
+* Demonstrated progressive industry experience in a Professional Services Operations or similar role for a high-tech product company
+* Demonstrated progressive PSA tools experience required (i.e. NetSuite Openair, FinancialForce)
 
 ### Manager, Professional Services Operations
 
@@ -83,7 +83,7 @@ Works with finance, sales and the PS leadership to ensure effective use and adop
 
 ####  Manager, Professional Services Operations Requirements
 
-* Bachelor’s degree, and a minimum of 7 years of experience in professional services operations or delivery management.
+* Bachelor’s degree, and demonstrated progressive experience in professional services operations or delivery management.
 * Experience in building and maintaining effective working relationships with coworkers, managers, and employees, working effectively in a global team environment with shared responsibilities.
 * Experience with basic system administration and knowledge of applications including: PSA tools (i.e. NetSuite Openair, FinancialForce) and Salesforce.
 * Some travel required.
@@ -111,9 +111,9 @@ Provide administrative, technical and event coordination for remote and onsite t
 
 * Extends the Professional Services Project Coordinator requirements
 * Bachelor’s degree required, preferably in Finance, Accounting, Statistics, or Business Management
-* 2-4 years industry experience in a Education Services Operations or similar role for a high-tech product company
-* 2+ Expirience with Leaning Management Systems (LMS)/Learning Expirience Systems (LXP) such as EdCast, Absorb, Litmos LMS, etc.
-* 2+ Expirience with remote delivery tools such as Zoom Webinar, WebEx, MS Teams, Slack, etc.
+* Demonstrated progressive industry experience in a Education Services Operations or similar role for a high-tech product company
+* Demonstrated progressive experience with Leaning Management Systems (LMS)/Learning Expirience Systems (LXP) such as EdCast, Absorb, Litmos LMS, etc.
+* Demonstrated progressive experience with remote delivery tools such as Zoom Webinar, WebEx, MS Teams, Slack, etc.
 * Previous experience in a data-driven, analytics-centric role
 
 ## Performance Indicators

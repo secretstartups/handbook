@@ -18,11 +18,11 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 
 ## Requirements
 
-* 5+ years of second line leadership experience leading teams in strategic sales.
+* Demonstrated progressive second line leadership experience leading teams in strategic sales.
 * Multiple repeatable proof points of recruiting, hiring, developing, and retaining leaders and individual contributors that make-up a high performing enterprise sales organization.
 * Deep experience selling into accounts in core markets.
-* Multiple years of consistent overachievement of a $20m+ ACV annual quota
-* 10+ years in software sales, preferably with development tool and/or open source experience
+* Demonstrated progressive experience in consistent overachievement of a $20m+ ACV annual quota
+* Demonstrated progressive experience in software sales, preferably with development tool and/or open source experience
 * Proven track record of working closely with the channel for growth leverage.
 * Proven success partnering with Marketing, Channel, Alliances, Product, and Engineering peers.
 * Demonstration of high levels of integrity, initiative, honesty and leadership
@@ -44,7 +44,7 @@ The Area Vice President reports into the [VP, Enterprise Sales](/job-families/sa
 #### Area Vice President (Public Sector) Requirements
 
 * Extends that of the AVP Requirements
-* 5+ years of second line leadership experience leading teams in strategic sales specific to Public Sector.
+* Demonstrated progressive second line leadership experience leading teams in strategic sales specific to Public Sector.
 * Proven second line sales management experience with deep domain experience in the Public Sector/Federal vertical, including a history of successfully selling through the Public Sector channel.
 * Must have proven experience leading teams who sell to mission owners, identifying, uncovering, and developing new account opportunities in their territory.
 

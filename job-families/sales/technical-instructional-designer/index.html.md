@@ -24,7 +24,7 @@ The Technical Instructional Designer is responsible for designing and developing
 ## Requirements
 
 * Bachelor’s degree required; Master’s Degree in Instructional Development, Training Education/Communication is preferred
-* 5+ years related work experience in B2B SaaS customer, partner, and/or sales training instructional design (or equivalent combination of transferable experience and education)
+* Demonstrated progressive related work experience in B2B SaaS customer, partner, and/or sales training instructional design (or equivalent combination of transferable experience and education)
 * Deep experience designing and developing learning programs across delivery mediums and content types (mobile learning, e-learning, video, gamification, virtual learning, live simulation, and live classroom)
 * Proven experience designing and developing scalable, engaging, online training is a must
 * Demonstrated experience working with multiple industry recognized instructional design models preferred
@@ -79,7 +79,7 @@ The Senior Technical Instructional Designer is a [grade 7](/handbook/total-rewar
 #### Requirements
 
 * extends the Technical Instructional Designer (Intermediate) requirements
-* 5+ years experience in an instructional designer role, preferably with expertise in DevOps and/or Open Source
+* Demonstrated progressive experience in an instructional designer role, preferably with expertise in DevOps and/or Open Source
 * Self-manages workload to meet deadlines and prioritize accordingly
 
 ## Specialties

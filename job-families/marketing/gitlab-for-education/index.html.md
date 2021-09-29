@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "GitLab for Education"
+title: "GitLab for Education - Roles & Responsibilities"
 description: "The GitLab for Education team’s mission is to facilitate and drive the adoption of GitLab at educational institutions around the globe."
 ---
 

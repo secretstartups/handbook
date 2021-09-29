@@ -29,10 +29,10 @@ The Professional Services Engagement Manager (Intermediate) is a [grade 6](/hand
 
 #### Professional Services Engagement Manager (Intermediate) Requirements
 
-* 5+ years experience delivering consulting services, including team leadership and active involvement in selling professional services
-* 3+ years managing C-level client relationships, including escalation resolution
-* 3+ years of enterprise-level project management experience
-* 3+ years operating in a pre-sales environment, shaping and scoping large and complex implementation projects
+* Demonstrated progressive experience delivering consulting services, including team leadership and active involvement in selling professional services
+* Demonstrated progressive managing C-level client relationships, including escalation resolution
+* Demonstrated progressive enterprise-level project management experience
+* Demonstrated progressive experience operating in a pre-sales environment, shaping and scoping large and complex implementation projects
 * Extremely strong written and verbal communication skills, executive level presence and experience in working in a client advisory role
 * Able to command a group audience, facilitate solutioning and lead discussions such as implementation methodology, road mapping, enterprise strategy and executive-level requirement gathering sessions
 * Highly developed soft skills, with the ability to adjust communication style based on the audience and difficult client situations.
@@ -62,10 +62,10 @@ The Professional Services Engagement Manager (Senior) is a [grade 7](/handbook/t
 #### Senior Professional Services Engagement Manager Requirements
 
 * Extends that of the Professional Services Engagement Manager (Intermediate) requirements
-* 7+ years experience delivering consulting services, including team leadership and active involvement in selling professional services
-* 5+ years managing C-level client relationships, including escalation resolution
-* 5+ years of enterprise-level project management experience
-* 7+ years operating in a pre-sales environment, shaping and scoping large and complex implementation projects
+* Demonstrated progressive experience delivering consulting services, including team leadership and active involvement in selling professional services
+* Demonstrated progressive experience managing C-level client relationships, including escalation resolution
+* Demonstrated progressive enterprise-level project management experience
+* Demonstrated progressive experience operating in a pre-sales environment, shaping and scoping large and complex implementation projects
 * People management preferred, but not required
 
 ## Performance Indicators

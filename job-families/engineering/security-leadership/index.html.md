@@ -40,6 +40,47 @@ Leaders in the security department at GitLab see the team as their product. Whil
 
 ## Levels
 
+### Senior Manager, Security
+
+The Senior Manager, Security role is defined for each [Security Team](https://about.gitlab.com/job-families/engineering/) individually. However, a Senior Security Manager may be appointed at the sub-department level.
+
+#### Senior Manager, Security Job Grade
+
+The Senior Security Manager is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Manager, Security Responsibilities
+
+- Effectively grow and develop sub-department Security managers and team members
+- Guide, coach and mentor sub-department Security managers
+- Review and assess sub-department team strategies, objectives and initiatives
+- May also manage a Security team
+- Manage company and Security department initiatives at the sub-department level
+- Responsible for overflow Director responsibilities
+- Ensure alignment across sub-department teams with Security department and Engineering orgnization objectives
+- Generate and implement process improvements, especially cross-team processes
+- Hold regular [1:1s](/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
+- Assist in building morale, support and alignment within their sub-department
+- Work cross-functionally (both within and outside of Security) to promote and gain prioritization of sub-department needs
+
+#### Senior Manager, Security Requirements
+
+- Technical credibility: Significant experience in multiple domains of sub-department
+- Management credibility: relevant, progressive experience in Security management
+- Ability to understand, communicate and improve the quality of multiple teams
+- Demonstrate longevity at at least one recent job
+- Ability to be successful managing at a remote-only company
+- Humble, servant leader
+
+### Hiring Process
+Candidates for the senior manager positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with a Director of Security to which the position reports to
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with additional directors and managers within the Security Organization
+* Candidates will then be invited to schedule an interview with the VP of Security
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
 ### Director, Security Assurance
 This position reports to the VP of Security.
 
@@ -58,8 +99,19 @@ The Director, Security Assurance is a [grade 10](/handbook/total-rewards/compens
 
 #### Director, Security Assurance Requirements
 * Proven ability to successfully recruit, manage, motivate and develop high performing teams
-* At least 8 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Proficient experience with industry standard security and risk frameworks/standards/laws/regulations: NIST 800-53, NIST CSF, HITRUST, PCI, FedRAMP, ISO27002, ISO 31000, etc.
+
+### Hiring Process
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with VP of Security
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
+* Candidates may be requested to meet again with the VP of Security for a shortened conversation
+* Candidates will then be invited to schedule an interview with CTO of Engineering
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Director, Security Engineering & Research
 This position reports to the VP of Security.
@@ -81,8 +133,19 @@ The Director, Application Security is a [grade 10](/handbook/total-rewards/compe
 
 #### Director, Security Engineering & Research Requirements
 * Proven ability to successfully recruit, manage, motivate and develop high performing teams
-* At least 8 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Proficient experience with security technologies and engineering domains such as application security, cloud security, infrastructure security, containerized application architectures, and security automation
+
+### Hiring Process
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with VP of Security
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
+* Candidates may be requested to meet again with the VP of Security for a shortened conversation
+* Candidates will then be invited to schedule an interview with CTO of Engineering
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Director, Security Operations
 This position reports to the VP of Security.
@@ -116,8 +179,50 @@ controls, and common security flaws that apply to Ruby on Rails applications
 ### Hiring Process
 Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
-* Next, candidates will be invited to schedule an interview with VP of Security
-* Candidates will then be invited to schedule separate 30 minute interviews with three members of the Security Organization
+* Next, candidates will be invited to schedule a 45-60 minute interview with VP of Security
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with peer directors and reporting managers of the Security Organization
+* Candidates may be requested to meet again with the VP of Security for a shortened conversation
+* Candidates will then be invited to schedule an interview with CTO of Engineering
+* Successful candidates will subsequently be made an offer via email
+ 
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
+
+### Senior Director, Security
+
+The Senior Director role extends the Director role defined by the functional area(s) the person manages.
+
+#### Senior Director, Security Job Grade
+
+The  Senior Director, Security is a [grade 11](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Senior Director, Security Responsibilities
+
+* Expanded scope and functional area ownership over sub-department director responsibilities
+* Assist in the mentoring and coaching of Security Directors and Managers
+* Overflow VP responsibilities
+* Ability to successfully drive department-level initiatives
+* Ability to drive and influence change cross-company
+* Provide a consistent/successful interface between all applicable stakeholders including, but not limited to, Engineering, Product, Finance and Sales
+* Development, measurement, and management of key metrics for functional area's performance
+* Develop sub-department roadmap and strategic vision
+* Ensure alignment of sub-department goals and iniatitives with department and company goals
+* Public facing security champion towards customers, community and media
+
+#### Senior Director, Security Requirements
+
+- Technical credibility: Significant experience in all domains within sub-department
+- Management credibility: Relevant, progressive experience Security management leadership
+- Ability to understand, communicate and improve the quality of multiple teams
+- Demonstrate longevity at at least one recent job
+- Ability to be successful managing at a remote-only company
+- Humble, servant leader
+
+### Hiring Process
+Candidates for the director positions can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
+* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+* Next, candidates will be invited to schedule a 45-60 minute interview with VP of Security
+* Candidates will then be invited to schedule 3 separate 45-60 minute interviews with directors and reporting managers within the Security Organization
+* Candidates may be requested to meet again with the VP of Security for a shortened conversation
 * Candidates will then be invited to schedule an interview with CTO of Engineering
 * Successful candidates will subsequently be made an offer via email
  
@@ -146,7 +251,7 @@ The VP of Security is a [grade 12](/handbook/total-rewards/compensation/compensa
 GitLab’s VP of Security must have all of the following attributes.
 
 Must-haves:
-* At least 10 years prior experience managing information security teams
+* Relevant, progressive experience managing information security teams
 * Excellent written and verbal communication skills
 * Be able to quickly hire top-quality team members and managers
 * Experience managing a multi-level security organization with managers and IC’s

@@ -62,7 +62,7 @@ The Senior Channel Program Manager is a [grade 7](/handbook/total-rewards/compen
 * Working with your peers, marketing & Sales operations
 
 ### Requirements
-* Bachelor’s degree with 5+ years experience in channel programs.  
+* Bachelor’s degree with demonstrated progressive experience in channel programs.  
 * Experience building and managing a partner program in DevOps space
 * Excellent communication, analytical and organizational skills.
 * Execution & revenue focused

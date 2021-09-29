@@ -106,6 +106,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Experience stepping into a new data source and preparing new analyses
 - A familiarity with proxy metrics where actual measurements aren’t available
 - Ability to guide conversations related to strategic choices of performance indicators
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategy and Operations (Operations)
 
@@ -115,6 +116,7 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Track record of moving key initiatives from idea to delivery
 - Experience in setting goals and driving toward quantifiable results
 - Ability to operate [iteratively](/handbook/values/#iteration)
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
 ##### Strategy and Operations (Technical)
 
@@ -124,7 +126,19 @@ The Director of Strategy and Operations is a [grade 10](/handbook/total-rewards/
 - Readiness to partner directly with the CEO, CoST, or other senior leaders on high priority initiaties
 - Technical background and clear understanding of developer products. Familiarity with Git, Continuous Integration, Containers, Kubernetes, and Project Management software a plus
 - Ability to find opportunities where teams need to collaborate with each other and help them make those decisions that are optimal for the company even if they maybe sub-optimal in the short term for particular groups
+- Ability to take meetings with and work synchronously with folks in Pacific Standard Time
 
+##### Strategic Technical Partnership Manager for JiHu 
+
+* Extends that of the Staff, Principal, or Director level Strategy and Operations
+- Is GitLab's key point of contact with [JiHu](https://about.gitlab.com/blog/2021/03/18/gitlab-licensed-technology-to-new-independent-chinese-company/), an indepedent company in China that is licensed to sell GitLab software 
+- Has experience with B2B and startup tech businesses in China
+- Has a proven ability to manage strategic business alliances and support external groups while coordinating with the internal team, including finance, sales, legal, technical and other team members
+- Has cross-functional and operational experience. This should include direct experience in supporting the operations of different business functions 
+- Has experience in building and managing relationships with folks at executive and more junior levels
+- Has enough technical understanding to help coordinate required activities between JiHu and GitLab Inc. For instance, understands repos and licensing
+- Can speak Mandarin and read Simplified Chinese
+- Can work with some overlap with PST and CST timezones. This role would likely be based somewhere in APAC. Not based in China, Macau, or Hong Kong
 
 ## Performance Indicators
 

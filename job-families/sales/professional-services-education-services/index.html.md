@@ -51,7 +51,7 @@ Collaborate with Senior leadership to ensure financial and operational goals are
 #### Senior Manager, Professional Education Services Requirements
 
 * Bachelor’s degree in business, management, education or related field.
-* 5+ years building and managing for-profit education businesses, including product management, learning content delivery, training delivery, and certification programs.
+* Demonstrated progressive building and managing for-profit education businesses, including product management, learning content delivery, training delivery, and certification programs.
 * Comprehensive knowledge of the principles, methods, and techniques used in the development and delivery of training and certification programs
 * Comprehensive knowledge of relevant training technologies, such as Learning Management Systems (LMS).
 * Excellent written and verbal communication skills with the ability to focus and clarify concepts

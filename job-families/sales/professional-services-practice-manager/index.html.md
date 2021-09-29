@@ -23,7 +23,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 #### Requirements
 
 * Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-* 3+ years relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
+* Demonstrated progressive relevant experience defining, developing, and executing customer services and/or training strategies, operations and action plans
 * Ability to quickly understand technical concepts and explain them to customer and professional services audiences (mostly technical)
 * Proven ability to effectively interact with and influence senior executives and team members
 * Exceptional written/verbal communication and presentation skills
@@ -78,7 +78,7 @@ The Professional Services Practice Manager is a [grade 6](/handbook/total-reward
 #### Requirements
 
 * Bachelor’s degree in business, management, education or related field.
-* 5+ years managing, specifically creating, training programs.
+* Demonstrated progressive experience managing, specifically creating, training programs.
 * Comprehensive knowledge of the principles, methods, and techniques used in the development and delivery of training programs
 * Comprehensive knowledge of relevant training technologies, such as Learning Management Systems (LMS).
 * Strong computer skills. Proficiency in Word, Excel and PowerPoint required. A working knowledge of core business systems preferred
@@ -132,17 +132,17 @@ Additional requirements include:
 * Experienced in collaborating with other managers and executing strategies
 * Proven track record in software/technology sales or consulting and management
 
-## Senior Manager, Professional Services
+## Senior Manager, Professional Services Practice Management
 
-The Senior Manager, Professional Services reports into the Senior Director, Professional Services.
+The Senior Manager, Professional Services Practice Management reports into the Senior Director, Professional Services.
 
 #### Job Grade 
 
-The Senior Manager, Professional Services is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Professional Services Practice Management is a [grade 9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 #### Responsibilities 
 
-* Extends that of the Manager, Professional Services responsibilities
+* Extends that of the Manager, Professional Services Practice Management responsibilities
 * Define and deliver strategies and plans that enhance and integrate Professional Services into GitLab's Go-To-Market strategies and plans, including direct and channel services
 * Build market-specific strategies and plans based on industry best practices to improve efficiency and growth
 * Manage and nurture executive relationships with customers, including management of executive-level escalations
@@ -151,7 +151,7 @@ The Senior Manager, Professional Services is a [grade 9](/handbook/total-rewards
 
 #### Requirements
 
-* Extends that of the Manager, Professional Services requirements
+* Extends that of the Manager, Professional Services Practice Management requirements
 * 5+ years of experience managing, leading and/or delivering professional services or customer success
 * 3+ years experience with a subscription-based business model, delivering on-premises and SaaS solutions
 * Experience managing technical, cross-functional professional services teams (e.g., consulting, implementation, trainers, project managers) and delivery partners

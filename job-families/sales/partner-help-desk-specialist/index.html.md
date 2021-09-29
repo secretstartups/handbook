@@ -30,7 +30,7 @@ The Partner Help Desk Specialist (Intermediate) is a [Grade 6](/handbook/total-r
 * Previous experience of supporting sales or channel sales ideally within the same product category and channel.
 * Experience selling in the Software Development Tools and/or Application Lifecycle Management space via channel partnerships.
 * Experience selling or supporting Open Source Solutions.
-* 2+ years of experience with B2B sales.
+* Demonstrated progressive experience with B2B sales.
 * Interest in GitLab and open source software.
 * Effective communicator with excellent interpersonal skills and relationship builder with partners and GitLab teams.
 * Excellent sales support skills, proficiency with Salesforce a plus.

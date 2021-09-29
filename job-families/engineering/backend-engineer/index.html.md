@@ -646,15 +646,14 @@ every GitLab release reaches the public in time.
 ### Scalability
 
 The [Scalability team](/handbook/engineering/infrastructure/team/scalability/) is responsible for optimising GitLab.com
-performance through improving reliability, availability and performance of GitLab individual services and application as a whole.
+performance through improving the reliability, availability and performance of individual GitLab services and the application as a whole.
 
 #### Responsibilities
 
-- Analyse existing, create and maintain new GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective).
-- Resolve problems contributing to missing GitLab.com SLO targets.
-- Find, define and resolve architectural application bottlenecks as observed on GitLab.com.
-- Work with other engineering stakeholders on resolving larger architectural bottlenecks and participate as a representative of GitLab.com.
-- Provide guidance to other engineering stakeholders on scaling considerations.
+- Create, analyze, and maintain GitLab.com [Service Level Objectives](https://en.wikipedia.org/wiki/Service-level_objective) (SLOs).
+- Resolve problems that contribute to missed SLOs.
+- Find, define, and resolve application bottlenecks as observed on GitLab.com.
+- Work closely with embedded Site Reliability Engineers to prepare production changes.
 
 #### Requirements
 
@@ -667,13 +666,9 @@ Candidate should ideally be:
 
 Other qualifications include:
 
-- High proficiency in at least one of the following programming languages, in order of preference:
-  - Ruby.
-  - Go.
-  - Knowledge of other OOP languages is a nice to have.
-- Proficient in one or more of the following:
-  - Knowledge of profiling, and performance testing.
-  - Understanding of basic database principles and optimisation mechanisms.
+- High proficiency in Ruby or Go. Knowledge of other lanuages is a nice to have. 
+- Knowledge of profiling, and performance testing.
+- Understanding of basic database principles and optimisation mechanisms.
 
 ### Search
 

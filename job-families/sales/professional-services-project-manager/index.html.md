@@ -28,8 +28,8 @@ The Senior Professional Services Project Manager is a [grade 7](/handbook/total-
 
 - Knowledge of specific industry project management and technical delivery methodologies for software (e.g., Project Management Institute (PMI) methodologies, agile/scrum, and/or software SDLC)
 - Bachelor's degree in engineering, computer science or related field
-- 5+ years of experience working as a project manager on IT-based projects
-- 3+ years experience managing projects with external customers or clients, preferably enterprise customers. Professional Services experience is a plus.
+- Demonstrated progressive experience working as a project manager on IT-based projects
+- Demonstrated progressive experience managing projects with external customers or clients, preferably enterprise customers. Professional Services experience is a plus.
 - Demonstrated ability to motivate the advisor team and individual contributors and mediate conflicts
 - Experience using various project management and/or agile tools
 - Understanding of software development lifecycle, preferably experience in an agile and/or DevOps environment

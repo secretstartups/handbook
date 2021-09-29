@@ -60,23 +60,30 @@ The *Fullstack Engineering Manager* role is a [grade 8](/handbook/total-rewards/
 
 Fullstack Engineering Managers have the following job-family performance indicators.
 
-* [Mean Time to Merge (MTTM)](/handbook/engineering/development/performance-indicators/#mean-time-to-merge-mttm)
-* [Response to Community SLO](/handbook/engineering/development/performance-indicators/#response-to-community-slo)
-* [Hiring Actual vs. Plan](/handbook/engineering/performance-indicators/#engineering-hiring-actual-vs-plan)
-* [Development Department merge request rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
-* [Diversity](/handbook/engineering/performance-indicators/#diversity)
-* [Handbook Update Frequency](/handbook/engineering/performance-indicators/#handbook-update-frequency)
-* [Team Member Retention](/handbook/engineering/performance-indicators/#team-member-retention)
-* [Review To Merge Time](/handbook/engineering/development/performance-indicators/#review-to-merge-time-rtmt)
-* [Largest Contentful Paint (LCP)](/handbook/engineering/development/performance-indicators/#largest-contentful-paint-lcp)
+* [Key Performance Indicators](/handbook/engineering/development/performance-indicators/#key-performance-indicators)
+  * [Past Due Infradev Issues](/handbook/engineering/development/performance-indicators/#past-due-infradev-issues)
+  * [Open MR Review Efficiency (OMRE)](/handbook/engineering/development/performance-indicators/#open-mr-review-efficiency-omre) 
+  * [Development Team Member Retention](/handbook/engineering/development/performance-indicators/#development-team-member-retention)
+  * [Development Average Age of Open Positions](/handbook/engineering/development/performance-indicators/#development-average-age-of-open-positions)
+  
+* [Regular Performance Indicators](/handbook/engineering/development/performance-indicators/#regular-performance-indicators)
+  * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+  * [New Hire Average Location Factor](/handbook/engineering/development/performance-indicators/#development-department-new-hire-average-location-factor)
+  * [Development Department MR Rate](/handbook/engineering/development/performance-indicators/#development-department-mr-rate)
+  * [Open MR Age (OMA)](/handbook/engineering/development/performance-indicators/#open-mr-age-oma)
+  * [Open To Merge](/handbook/engineering/development/performance-indicators/#open-to-merge)
+  * [Overall MRs By Type](/handbook/engineering/development/performance-indicators/#overall-mrs-by-type)
+  
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to a 60 minute interview with the Hiring Manager.
 * Candidates will then be invited to a 45 minute peer interview with another Engineering Manager
 * Candidates will then be invited to a 45 minute direct report interview
-* Candidates will then be invited to a 60 minute interview with a senior leader in the development department
+* Candidates may then be invited to a 45 minute product manager interview
+* Candidates may then be invited to a 60 minute interview with a senior leader in the development department
 * Successful candidates will subsequently be made an offer
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring).

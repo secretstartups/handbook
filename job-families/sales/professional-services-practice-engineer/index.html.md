@@ -35,9 +35,9 @@ The Senior Professional Services Practice Engineer is a [grade 7](/handbook/tota
 #### Senior Practice Engineer Requirements
 
 * Knowledge and familiarity with the Software Development Life Cycle and DevOps required (open source software knowledge and familiarity considered a plus)
-* 3+ years relevant experience in building automation software in a collaborative environment.  
+* Demonstrated progressive relevant experience in building automation software in a collaborative environment.  
 * Deep understanding of- and hands on experience with- git and GitLab.
-* 3+ years experience in writing software using a majority of the following technologies: Python, Javascript, MongoDB, REST and GraphQL APIs, Ansible, Terraform, Docker, YML, and JSON.
+* Demonstrated progressive experience in writing software using a majority of the following technologies: Python, Javascript, MongoDB, REST and GraphQL APIs, Ansible, Terraform, Docker, YML, and JSON.
 * Experience in leading and/or delivering multiple concurrent development efforts. 
 * Proven ability to effectively to collect and prioritize requirements from the field PSEs and from the longer term strategic direction.
 * History of software development expertise as exemplified by commit history and participation in Merge Request Approval processes in collaboration with development team members.

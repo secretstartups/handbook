@@ -33,7 +33,7 @@ The Sales Strategy Manager is a [grade 8](/handbook/total-rewards/compensation/c
 #### Sales Strategy Manager Requirements
 
 * BA/BS degree
-* 3+ years of experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 * Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
 * Ability to think strategically, but also have exceptional attention to detail to drive program management and execution 
 * Extensive track record of building high-quality and complex spreadsheets, models and presentations
@@ -62,7 +62,7 @@ The Sales Strategy Senior Manager is a [grade 9](/handbook/total-rewards/compens
 #### Sales Strategy Senior Manager Requirements
 
 * Extends the Sales Strategy Manager Requirements
-* 5+ years of experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business. Preference for Sales Strategy, Business Intelligence/Analytics, Management Consulting, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 
 ### Director, Sales Strategy
 
@@ -90,7 +90,7 @@ The Sales Strategy Senior Manager is a [grade 10](/handbook/total-rewards/compen
 
 #### Director, Sales Strategy Requirements 
 
-* 7+ years of experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 * BA/BS degree, MBA Preferred 
 * Excellent quantitative analytical skills, creativity in problem solving, and a keen business sense
 * Ability to think strategically, but also have exceptional attention to detail to drive program management and execution 
@@ -120,29 +120,29 @@ The Senior Director, Sales Strategy is a [grade 11](/handbook/total-rewards/comp
 #### Senior Director, Sales Strategy Requirements
 
 * Extends that of the Director, Sales Strategy requirements
-* 8-10+ years of experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
+* Demonstrated progressive experience in an analytical role within a technology business.  Preference for Strategy Consulting, Corporate Strategy, Venture Capital/Private Equity, and/or Investment Banking backgrounds
 
 ## Specialties
 
 ### Channel
 
-* 2+ years experience focused directly with supporting Channel sales organizations
+* Demonstrated progressive experience focused directly with supporting Channel sales organizations
 
 ### Enterprise
 
-* 2+ years experience focused directly with supporting Enterprise sales organizations
+* Demonstrated progressive experience focused directly with supporting Enterprise sales organizations
 
 ### Commercial
 
-* 2+ years experience focused directly with supporting Commercial sales organizations
+* Demonstrated progressive experience focused directly with supporting Commercial sales organizations
 
 ### Customer Success
 
-* 2+ years experience focused directly with supporting Customer Success sales organizations
+* Demonstrated progressive experience focused directly with supporting Customer Success sales organizations
 
 ### Growth and Operations
 
-* 5+ years experience focused directly with focus on strategy and operations
+* Demonstrated progressive experience focused directly with focus on strategy and operations
 
 ## Performance Indicators
 

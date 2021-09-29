@@ -73,7 +73,7 @@ The Senior Solutions Architect reports to the Manger, Solutions Architect.
 
 The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades)
 
-#### Senior Solutions ArchitectResponsibilities
+#### Senior Solutions Architect Responsibilities
 
 * Extends the Associate Solutions Architect responsibilities
 * Solve technical customer issues of broad scope and high complexity.
@@ -84,6 +84,8 @@ The Senior Solutions Architect is a [grade 7](/handbook/total-rewards/compensati
 * Represent GitLab as a speaker at field events or as an author in GitLab-focused publications and blogs.
 * Provide opportunity strategy leveraging market and industry knowledge and trends.
 * Collaborate with the product team while representing customer requirements and feedback.
+* Regularly enhances GitLab documentation for clarity and accuracy as well as adding new explanations, examples and sections.
+* Share subject matter expertise through Slack posts, documentation updates, communities of practice, issue and MR participation and other common GitLab collaboration mechanisms.
 * Coach sales team-members on deal qualification when necessary.
 * Assists with specific objectives and key result associated tasks
 
@@ -208,8 +210,8 @@ The Director, Solutions Architects is a [grade 10](/handbook/total-rewards/compe
 
 #### Director, Solutions Architects Requirements
 
-- 5+ years of experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
-- 2+  years of experience building and leading global teams of managers with team sizes of 30+ team members
+- Demonstrated progressive experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
+- Demonstrated progressive experience building and leading global teams of managers with team sizes of 30+ team members
 - Demonstrated proficiency building and improving strategies and operations to technical assessment processes and team enablement
 - Experience with software development lifecycle processes and tools as well as agile and or DevOps practices
 - Knowledgeable with cloud technologies (e.g., Kubernetes, Docker), application security (SAST, DAST) and or cloud deployment models (AWS, GCP, Azure)
@@ -232,8 +234,8 @@ The Senior Director, Solutions Architects is a [grade 11](/handbook/total-reward
 #### Senior Director, Solutions Architects Requirements
 
 - Extends the Director, Solutions Architect requirements
-- 7+ years of experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
-- 4+ years of experience building and leading global teams of managers and directors with team sizes of 50+ team members
+- Demonstrated progressive experience leading technical sales teams (i.e., Solutions Architect and or Sales Engineering teams)
+- Demonstrated progressive experience building and leading global teams of managers and directors with team sizes of 50+ team members
 
 ---
 ## Specialties
@@ -312,7 +314,7 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 * Manage all technical aspects of the sales cycle: creating high-quality professional presentations, custom demos, proof of concepts, deliver technical deep-dive sessions & workshops, differentiate GitLab from alternative solutions, answering RFI, RFPs, etc.
 * TS/SCI Security Clearance
 * Must be located in the Washington DC metro area
-* Knowledge and at least four years of experience with Federal customers
+* Knowledge and demonstrated progressive experience with Federal customers
 * Ability to travel up to 50%
 * Understand mono-repo and distributed-repo approaches.
 
@@ -329,6 +331,27 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 #### Commercial Solutions Architect Requirements
 
 * The requirements for a Commercial Solutions Architect are the same as a Solutions Architect.
+
+### Field CTO
+
+#### Field CTO Responsibilties 
+
+- Extends the responsibilities of Principal Solutions Architect
+- Provide executive-level, thought leadership on strategic opportunities (i.e., new logo and growth) 
+- Curate and manage field feedback, while collaborating with the product team on roadmap and issue prioritization
+- Scale and grow regional-level expertise within the field (SAL/AE,SA,TAM) through contributions to enablement and content
+- Act as a prospect / customer advocate on DevSecOps transformation initiatives 
+
+
+#### Field CTO Requirements
+
+- Extends the requirements of Principal Solutions Architect
+- Significant experience with architecture of enterprise software development workflow
+- Experience as CTO is a plus
+- Experience delivering information/Cyber Security and compliance related solutions and assessments
+- Experience with software development tools, practices, and methodologies
+- Strong verbal and written skills with a strong ability to articulate and communicate strategies to all levels in an organization (i.e., executive to staff engineer)
+- Ability to use GitLab, including learning GitLab as part of the role
 
 ### Field Security Officer 
 
