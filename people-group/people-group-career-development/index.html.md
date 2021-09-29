@@ -21,14 +21,6 @@ Not sure how to get started? Use these steps to determine the best place to star
 
 1. Get clear on your goals using an [Individual Growth Plan](https://about.gitlab.com/handbook/people-group/learning-and-development/career-development/#individual-growth-plan). Discuss these plans with your manager and ask for their input on how you can develop in your role. 
 1. Set a recurring time block of at least 1 hour per week to work on professional development. Communicate when you're taking this time to your manager and team
-1. Use the questions below to help determine the best courses to start with from the lists below.
-
-| Career Development Goal | Suggested Starting Point |
-| ----- | ----- |
-| I want to work on my department-specific skill development | Talent Aquisition, Total Rewards, People Ops, and People Success |
-| I want to grow as a leader on the People team | Becoming a People Group Leader |
-| I want to get better at leading with our GitLab values | Values-Aligned Skill Development |
-| I'd like to work on preventing burnout and improving my wellbeing at work | Wellbeing |
 
 ## Suggested training for People Group Career Development
 
@@ -87,9 +79,7 @@ Not sure how to get started? Use these steps to determine the best place to star
 
 ## Career development tips from the People Group
 
-Check out quick tips and testimonails from members of the People Group to learn how they make time to learn, find great courses, and prioritize their professional development.
-
-If you're a member of the people group, you're invited to open an MR on this page and add your best tips and recommendations for career development at GitLab.
+You're invited to open an MR on this page and add your best tips and recommendations for career development at GitLab and on the People team!
 
 1. "I set a 2 hour time block recurring every Friday on my calendar for professional development. I usually spent this time updating my IGP or working on a LinkedIn Learning course. If I have a Friday off, I usually shorted the time block to 1 hour and move it to Thursday of that week - this way, I still prioritize learning even on short weeks!" Samantha Lee, L&D 
 1. 
