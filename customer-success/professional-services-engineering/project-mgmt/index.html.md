@@ -83,6 +83,10 @@ Each PS engagement will have a Google Sheet that shows the contracted revenue an
     - Schedule [project closure meeting with agenda](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
 13. PS Project Coordinator: PSE object update (set to complete)
 
+### Work Exception
+
+If a project is going to go over the alloted time/budget, open a work exception to get approvals from PS leadership by [creating a Work Exception type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception)
+
 
 ### Change Order
 
