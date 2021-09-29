@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Security Compliance"
+title: "Security Compliance - Roles & Responsibilities"
 description: "Security Compliance professionals at GitLab focus on operating our security compliance programs and are proficient in all things security compliance."
 extra_js:
 - libs/mermaid.min.js

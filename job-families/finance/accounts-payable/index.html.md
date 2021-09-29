@@ -1,6 +1,6 @@
 ---
 layout: job_family_page
-title: "Accounts Payable"
+title: "Accounts Payable - Roles & Responsibilities"
 description: "The Accounts Payable team is responsible for timely and accurate processing and payment of vendor invoices, processing vendor credits and expense reports submitted by GitLab team members."
 ---
 
