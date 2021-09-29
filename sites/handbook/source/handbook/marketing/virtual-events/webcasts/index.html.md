@@ -269,6 +269,8 @@ The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.go
    * Add BrightTALK login information for presenters
 
 ### Zoom Webcast Calendar
+{: #zoom-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
+
 The Field Marketing team manages the [zoom webcast license calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled Field Marketing hosted webcasts/workshops and their related dry runs. **The purpose of the webcast calendar is to ensure Field Marketers don't schedule overlapping webcasts when using the shared webcast license and to provide executive visibility into all webcasts being hosted.**
 
 Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom license date request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request) - please note that speakers must be secured and all details in the issue must be provided or the request will be rejected.
@@ -312,7 +314,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 {: #zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Step 1: Configure Zoom
-{: #configure-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #configure-zoom} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *Note: The webcasts@ zoom license can only be used for a single session at a time. This license is used for all field-marketing-run internally hosted webcasts. Therefore, when a webcast is requested please confirm there is not going to be a conflict between the pre-scheduled sessions - both live and dry-run - using that license by checking the [webcast gcal](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Schedule no less than 30min between sessions (before & after) so there is less chance of conflict and allows for a buffer.*
 
@@ -342,10 +344,10 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 
 
 ### Step 2: Set up the webcast in Marketo/SFDC, and integrate to Zoom
-{: #mkto-integrate-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-mkto-integrate} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Create program in Marketo - Zoom
-{: #create-mkto-program-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-marketo-program} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Create the webcast program in Marketo by navigating to either the [Webcast program template](https://app-ab13.marketo.com/#ME5512A1) or the correct template from [Workshop program templates folder](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF5975A1)
 1. Right-click the appropriate template, and select "clone"
@@ -355,7 +357,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
 #### Connect the Marketo program to Zoom via launchpoint integration
-{: #connect-mkto-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-marketo-connect} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
@@ -363,7 +365,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-1-configure-zoom)
 
 #### Create campaign in Salesforce - Zoom
-{: #create-sfdc-campaign-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-sfdc-campaign} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. In the Marketo program Summary view, you will see `Salesforce Campaign Sync:` with a link that says "not set".
 1. Click on "not set" 
@@ -380,7 +382,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Click save
 
 ### Step 3.A: Update Marketo Tokens
-{: #mkto-tokens-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-marketo-tokens} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Buckle up! There are a lot of tokens, but for good reason. This is an **advanced practice** and **best practice** within Marketo templates to increase efficiency and speed. Updating these at the top level of the program allows them to cascade through the landing page, emails, automation, and alerts creating a significantly more efficient process of launching new webcasts.
    * `{{my.apiKey}}` - apiKey from Zoom
@@ -413,13 +415,13 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * `{{my.webcastTitle}}` token with the webcast title.
 
 ### Step 3.B: Turn on smart campaigns in Marketo
-{: #mkto-smart-campaigns-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-marketo-smart-campaigns} <!-- DO NOT CHANGE THIS ANCHOR -->
 
    * Activate the `00 Interesting Moments` campaign.
    * Activate the `01a Registration Flow (single timeslot)` smart campaign.
 
 ### Step 3.C: Create the landing page
-{: #mkto-landing-page-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-marketo-lp} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * When you cloned the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
    * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
@@ -428,7 +430,7 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
 
 ##### Adjusting number of speakers in Marketo landing page
-{: #adjust-speakers-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-adjust-speakers} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Less Speakers**
 The speaker module is controlled in the Marketo landing page module. The template is initially set up to support three speakers (note: this is supported in both the My Tokens and the landing page template). If there are less speakers, follow the instructions below:
@@ -467,7 +469,7 @@ The speaker module is controlled in the Marketo landing page module. The templat
 If additional assistance is required, please comment in the [#marketing_programs slack](https://gitlab.slack.com/archives/CCWUCP4MS) for assistance if needed.
 
 #### Multiple timeslot webcast - Zoom
-{: #multiple-timeslots-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+{: #zoom-multiple-timeslots} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 :exclamation: **Note from @jgragnola: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
 
@@ -518,6 +520,8 @@ The Marketo and Zoom launchpoint integration does not currently support recurrin
 </details>
 
 #### Scheduling a multi-webcast series - Single landing page - Zoom
+{: #zoom-webcast-series} <!-- DO NOT CHANGE THIS ANCHOR -->
+
 <details>
 <summary>Expand for instruction on creating a single landing page for a multi-webcast series<summary>
 
@@ -582,6 +586,7 @@ This is considered a complex set-up. It is recommended that you engage Marketing
    * Schedule: Activate the campaign
 
 ### Webcast invitation - Zoom
+{: #zoom-webcast-invites} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 :exclamation: **Note from @jgragnola: we are working on further templatizing these invitations so that copy changes are not needed and tokens take care of these emails.** ([issue](https://gitlab.com/gitlab-com/marketing/digital-marketing-programs/-/issues/3422))
 
@@ -591,15 +596,20 @@ This is considered a complex set-up. It is recommended that you engage Marketing
 4. Once you get approval on the sample email copy, schedule the email programs outlined in step 1.
 
 ### Step 4: Add the webcast to the /events page
+{: #zoom-add-events-page} <!-- DO NOT CHANGE THIS ANCHOR -->
+
 *  To add the webcast to the /events page follow this [step by step guide](https://about.gitlab.com/handbook/marketing/events/#how-to-add-events-to-aboutgitlabcomevents).
 
 ### Step 5: Test your set up
+{: #zoom-testing} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Submit a test lead using your gitlab email on the LIVE landing page to make sure the registration is tracked appropriately in the Marketo program and you get a confirmation email from zoom.
 
-### Post LIVE webcast - Zoom
+### After the LIVE webcast - Zoom
+{: #zoom-after-webcast} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Converting the webcast to an On-Demand gated asset - Zoom
+{: #zoom-on-demand-switch} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Please Note: Workshops are not converted to on-demand assets.**
 
@@ -638,6 +648,7 @@ This is considered a complex set-up. It is recommended that you engage Marketing
 1. (Optional: Only if applicable/requested to add webcast leads to nurture) Click the `Add to Engagement Program Nurture` smart campaign, select the appropriate Engagement Program/Stream in the flow step. Run once.
 
 #### Test your follow up emails and set to send - Zoom
+{: #zoom-follow-up-emails .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Note: do not schedule the emails until you have completed the "on demand switch" process (and there is a Pathfactory URL ready to be used)
 
@@ -660,6 +671,7 @@ Note: do not schedule the emails until you have completed the "on demand switch"
    * Schedule the `02 Follow Up - No shows/Attended` smart campaign to be the following business day.
 
 #### Rescheduling a webcast - Zoom
+{: #zoom-reschedule .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event you need to change the date of your webcast, please follow the steps outlined below.
 
@@ -681,6 +693,7 @@ In the event you need to change the date of your webcast, please follow the step
 16. Go to Zoom, delete the Zoom program with the old webcast date/time and make sure to uncheck `send webinar cancellation email to panelists and registrants`.
 
 #### Canceling a webcast - Zoom
+{: #zoom-cancel .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 In the event you need to cancel your webcast, please follow the steps outlined below.
 
