@@ -56,7 +56,9 @@ Tip: If two or more users use the same MacBook Pro, each user can add a fingerpr
 
 If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
 
+![ALT](https://gitlab.com/plaurinavicius/image-sources-for-runbooks/-/blob/cb3b1d9ee7628a251347ed0075fee3b00c1794bd/Screenshot_2021-09-29_at_16.33.22.png)
 
+![ALT](https://gitlab.com/plaurinavicius/image-sources-for-runbooks/-/blob/cb3b1d9ee7628a251347ed0075fee3b00c1794bd/Screenshot_2021-09-29_at_16.16.43.png)
 
 ### Need Help?
 
