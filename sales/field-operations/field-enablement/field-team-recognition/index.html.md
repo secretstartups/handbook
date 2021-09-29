@@ -18,7 +18,7 @@ In response to the FY22 Field Engagement Survey, CRO leaders committed to focusi
 1. Growth & Development 
 1. Recognition 
 
-CRO Leaders partnered with People Ops and Field Enablement on initiatives to increase recognition across the Field team in FY22 and beyond, taking team member feedback and ideas closely into account during the planning process. The result was the launch of two recognition-based initiatives in FY22: 
+CRO Leaders partnered with the People group and Field Enablement on initiatives to increase recognition across the Field team in FY22 and beyond, taking team member feedback and ideas closely into account during the planning process. The result was the launch of two recognition-based initiatives in FY22: 
 1. Quarterly Achiever's Chat 
 1. #deal-gratitude Slack chanel 
 
