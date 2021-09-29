@@ -341,7 +341,7 @@ _Note: Not all division chose to participate in the 360 feedback cycle for FY'22
 1. **2021-08-02 (APAC/Americas) and 2021-08-03 (EMEA/Americas)**: Manager training on Performance and Growth delivered by PBPs _(Note: "Growth" was previously referred to as "Potential". Training will be provided as we will be implementing "Growth" assessments company-wide this year.)_
 1. **2021-08-04 - 2021-09-10**: Managers begin compiling any relevant data points/information to help facilitate the Performance/Growth and 360 feedback conversation with team members. Team members should also consider and reflect upon their own Performance and Growth ahead of the session.
 1. **2021-09-11**: 360 reports become available for divisions that chose to participate. 
-1. **2021-09-11 - 2021-10-03:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
+1. **2021-09-11 - 2021-10-04:** Manager and team members scheduling a synchronous discussion to discuss and document performance, growth, and 360 feedback results. 
 
 
 
