@@ -52,10 +52,26 @@ Tip: After setup, if you don’t see the Wi-Fi status icon  in the menu bar, you
 
 Tip: If two or more users use the same MacBook Pro, each user can add a fingerprint to Touch ID to quickly unlock, authenticate, and log in to the MacBook Pro. You can add up to three fingerprints per user account, and a total of five fingerprints for all your MacBook Pro user accounts.
 
+#### Macbook Cheat Sheet 
+
+If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
+
+
+
 ### Need Help?
 
 If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it-help channel.
 
 ### Laptop Setup: Linux
 
-There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! Please feel free to reach out in #Linux slack channel or #it_help for assistance!
+There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! However please feel free to reach out in #Linux slack channel or #it_help for assistance!
+
+## Extra Setup
+
+### Laptop Encryption
+
+It is essential to encrypt your laptops hard drive using Mac's filevault or Linux's built in encryption. This will prevent unauthorised access of the contents in your hard drive. Please refer to our security pages to complete this. 
+
+- [Macbook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
+- [Linux Encryption](https://about.gitlab.com/handbook/tools-and-tips/linux/#initial-installation)
+
