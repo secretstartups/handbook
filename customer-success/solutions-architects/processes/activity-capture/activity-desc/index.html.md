@@ -59,13 +59,11 @@ The SA debriefed internally with their SAL/AE/Channels Managers to understand th
 Sometimes a Pitch is requested by our SALs/AEs due to significant client discussion without a SA, which is completely acceptable. 
 
 - **Security Questionnaire / RFP** - Security Assessment and RFP
- * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
- * Security Assessment: Although technically speaking part of the tendering process, Security Assessment generally involve the SA to interact with GitLab governing divisions ensuring accuracy and legal responses. As such, the SA engages with a GitLab division internally to address those Security specific requirements but ahead of the process, the SAs have a responsibility to attempt in the form of a first attempt to the queries.
+  * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
+  * Security Assessment: Although technically speaking part of the tendering process, Security Assessment generally involve the SA to interact with GitLab governing divisions ensuring accuracy and legal responses. As such, the SA engages with a GitLab division internally to address those Security specific requirements but ahead of the process, the SAs have a responsibility to attempt in the form of a first attempt to the queries.
 
 - **Technical Support** - Proposal: A consideration to rename this [SA] Activity category. The reference “Support” should remain with the actual GitLab division. Rob Williams suggested that we consider a way to allow SAs to track their significant time spent on researching, forming a response to a very specific technical query and address it asynchronously, i.e. via email for instance.
- * Technical Assistance: SA’s often have to connect internally with peers, with product teams, potentially support and research documentation guidance. Often resulting in offering our customers asynchronous or synchronous guidance over email, instant messaging tools, text messaging, or any other communication modes. The SA should have the ability to record their achievements to guide our customers to success. A significant amount of effort actually goes into the top-notch response.
-
-Note: SA’s should not record every single async response to the customer but should have the ability on a weekly basis [or whatever makes more sense] for instance to record their achievements within troops. Potentially categorising the type of the response into a GitLab Stage or even into a product segment (SCM, CI, AppSec or CD) in case of several communications. Those types of insights could be of tremendous value in future deals.
+  * Technical Assistance: SA’s often have to connect internally with peers, with product teams, potentially support and research documentation guidance. Often resulting in offering our customers asynchronous or synchronous guidance over email, instant messaging tools, text messaging, or any other communication modes. The SA should have the ability to record their achievements to guide our customers to success. A significant amount of effort actually goes into the top-notch response.
 
 - **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.  
 
@@ -81,45 +79,45 @@ Select these [SA] Activity types when capturing activities by the Strategic Fiel
 
 Select these [SA] Activity types when capturing activities by the Alliance/Channel team but other activity types for Enterprise can also be used.
 
-- **Partner Enablement [Alliances][Channel]** - Calls and meetings with partners for GitLab product enablement.  
- * Initial Discovery discussions
- * Workshops/Demos
- * Competitive GitLab positioning
- * Partner bootcamps / Virtual Partner bootcamps, etc.
- * Building content (if needed)
- * Champions building
+- **Partner Enablement [Alliances][Channel]** - Calls and meetings with partners for GitLab product enablement. Example activities can be one of more than one of the following:
+  * Initial Discovery discussions
+  * Workshops/Demos
+  * Competitive GitLab positioning
+  * Partner bootcamps / Virtual Partner bootcamps, etc.
+  * Building content (if needed)
+  * Champions building
 
 - **Partner Services Attach [Channel]** - Develop partner services and help field SAs and accounts with services.
- * SA/Channels SA assisting the business partner with either sub-contracting SoW or SoW specifics to accounts (either GitLab introducing the partner to the customer and/or the partner introducing their engagement to GitLab)
- * Helping partner create their service catalog offering with GitLab
+  * SA/Channels SA assisting the business partner with either sub-contracting SoW or SoW specifics to accounts (either GitLab introducing the partner to the customer and/or the partner introducing their engagement to GitLab)
+  * Helping partner create their service catalog offering with GitLab
 
 - **Partner Opportunity** - Work with field SA on calls and meetings with customers for pre-sales activities.
 This is for specific account or opportunity and related to assistance of a SA/Channels SA working on GitLab's software solutioning/positioning for a specific customer/account
- * Alliances SA helping Account teams as SME’s on joint solution & joint value proposition
- * Helping partner with RFP
- * Helping partner’s Pro-serve engineers troubleshoot issues (this should not happen, but there are always exception cases). It can be combined with Techical Support activity type.
+  * Alliances SA helping Account teams as SME’s on joint solution & joint value proposition
+  * Helping partner with RFP
+  * Helping partner’s Pro-serve engineers troubleshoot issues (this should not happen, but there are always exception cases). It can be combined with Techical Support activity type.
 
-- **Partner Technical Evangelism [Alliances][Channel]** - Partner marketing and evangelism events
- * Conference/meetup presentations
- * Webinars (generic or specific use cases)
- * Joint bootcamps (open invite) with a partner (target audience is customer/prospects)
- * Potential 3-way play with Cloud+Channel partners 
- * Joint Marketing/Blog posts, win stories, etc
+- **Partner Technical Evangelism [Alliances][Channel]** - Partner marketing and evangelism events. Example activities can be one of more than one of the following:
+  * Conference/meetup presentations
+  * Webinars (generic or specific use cases)
+  * Joint bootcamps (open invite) with a partner (target audience is customer/prospects)
+  * Potential 3-way play with Cloud+Channel partners 
+  * Joint Marketing/Blog posts, win stories, etc
 
-- **Partner Cadence calls [Channel][Alliances]** - Calls and meetings for partner technical support. 
- * Discussing opportunities, issues, etc. 
- * Partner Tech Support (non-opportunity related) 
- * Requests from Channel partners seeking additional guidance/help on GitLab. 
+- **Partner Cadence calls [Channel][Alliances]** - Calls and meetings for partner technical support. Example activities can be one of more than one of the following:
+  * Discussing opportunities, issues, etc. 
+  * Partner Tech Support (non-opportunity related) 
+  * Requests from Channel partners seeking additional guidance/help on GitLab. 
 
-- **Partner Solutioning [Alliances]** - Calls and meetings for defining and developing partner solutions and integration with GitLab product.
- * Opinionated demos/solutions showing GitLab integrated with a partner product/platform. Eg: GitLab flows for GCP
- * Reference Architectures showing GitLab + partner product/platform. 
- * Joint solution offerings like AWS QuickStart, Runner Vending Machine, Runner on Kubernetes, CloudFormation Auto Deploy w/ Review Apps.
+- **Partner Solutioning [Alliances]** - Calls and meetings for defining and developing partner solutions and integration with GitLab product. Example activities can be one of more than one of the following:
+  * Opinionated demos/solutions showing GitLab integrated with a partner product/platform. Eg: GitLab flows for GCP
+  * Reference Architectures showing GitLab + partner product/platform. 
+  * Joint solution offerings like AWS QuickStart, Runner Vending Machine, Runner on Kubernetes, CloudFormation Auto Deploy w/ Review Apps.
 
-- **Internal Enablement and SME Assistance [Alliances]** - Calls and meetings for internal field SA enablement and assistance.
+- **Internal Enablement and SME Assistance [Alliances]** - Calls and meetings for internal field SA enablement and assistance. Example activities can be one of more than one of the following:
 Notes: not directly work with the customers
- * Reference architecture reviews (Quality/Distribution get the request directly).
- * Internal Webinars and Enablement sessions
- * Direct Deal Individual Meetings (1 or maybe 2 per deal) to handle deep Platform Partner SME questions and show GitLab has the tech chops on that. So far 
+  * Reference architecture reviews (Quality/Distribution get the request directly).
+  * Internal Webinars and Enablement sessions
+  * Direct Deal Individual Meetings (1 or maybe 2 per deal) to handle deep Platform Partner SME questions and show GitLab has the tech chops on that. So far 
 
 
