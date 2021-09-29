@@ -23,10 +23,9 @@ Solutions Architects record all customer and prospect activity with accurate act
 When recording prospect/customer activity by SA into `Task` objects within Salesforce based on the `Log a Call` action on an `Opportunity`, one or more than one activity type should be selected to accurately reflect the customer interaction. 
 
 This page describes all activity types available for SAs in 
-- Enterprise
-- Commercial 
-- Alliance/Channel and 
-- Strategic Field.
+- [Enterprise and Commercial](https://cherryhan-master-patch-25716.about.gitlab-review.app/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-enterprise-and-commercial-sa-teams) 
+- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-strategic-field-sa-team), and
+- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-alliancechannel-sa-team)
 
 
 ### SA Activity Type Description for Enterprise and Commercial SA Teams
@@ -35,7 +34,7 @@ Select these types when capturing activities by Enterprise and Commercial SA tea
 
 - **Customer No Show** - The SA has the opportunity to log an activity for a scheduled client meeting whereby the customer has not attended. In collaboration with the SAL/AE/Channels Manager, the SA should try to understand the underlying reason for the customers absence and record under the [SA] Activity Description.
 
-- **Demo** - The SA can record an activity when a planned GitLab product demonstration has been 
+- **Demo** - The SA can record the activity when a planned GitLab product demonstration has been 
 delivered to the client. In the [SA] Activity Description field in troops, the SA should 
 also refer to insights around the demonstration purpose and area of product walkthrough. Options could be a full high-level end-to-end GitLab overview, or a specific GitLab stage demonstration, a partial GitLab platform overview or a very specific technical deep dive into the product.
 
@@ -53,17 +52,17 @@ also refer to insights around the demonstration purpose and area of product walk
   * Technical Evaluation cadence: The SA has the opportunity to record their activity with their client specific in relation to the Technical Evaluation. Upon agreeing to a plan, specific requirements and the definition of success, a regular or irregular cadence may be set by the SA with collaboration with the customer. 
   * PoV cadence: The SA will often agree to a PoV plan, duration, sign off the in-scope PoV success criteria and work with their client on a regular cadence [weekly, bi-weekly, multi-weekly]. This [SA] Activity is an opportunity to capture the frequency and progress on the PoV. The SA should consider hosting a final cadence session with their client to agree on the sign off of the final completion of the evaluation.
 
-- **Presentation / pitch** - The SA has the opportunity to record their preparation for a presentation to the client as well as the actual delivery. Consideration for this type of [SA] activity are: 
-The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
-The SA debriefed internally with their SAL/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
-Sometimes a Pitch is requested by our SALs/AEs due to significant client discussion without a SA, which is completely acceptable. 
+- **Presentation / pitch** - The SA has the opportunity to record their preparation for a presentation to the client as well as the actual delivery. Sometimes a Pitch is requested by our SALs/AEs due to significant client discussion without a SA, which is completely acceptable. Consideration for this type of [SA] activity are: 
+  * The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
+  * The SA debriefed internally with their SAL/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
 
 - **Security Questionnaire / RFP** - Security Assessment and RFP
-  * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
   * Security Assessment: Although technically speaking part of the tendering process, Security Assessment generally involve the SA to interact with GitLab governing divisions ensuring accuracy and legal responses. As such, the SA engages with a GitLab division internally to address those Security specific requirements but ahead of the process, the SAs have a responsibility to attempt in the form of a first attempt to the queries.
+  * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
 
-- **Technical Support** - Proposal: A consideration to rename this [SA] Activity category. The reference “Support” should remain with the actual GitLab division. Rob Williams suggested that we consider a way to allow SAs to track their significant time spent on researching, forming a response to a very specific technical query and address it asynchronously, i.e. via email for instance.
-  * Technical Assistance: SA’s often have to connect internally with peers, with product teams, potentially support and research documentation guidance. Often resulting in offering our customers asynchronous or synchronous guidance over email, instant messaging tools, text messaging, or any other communication modes. The SA should have the ability to record their achievements to guide our customers to success. A significant amount of effort actually goes into the top-notch response.
+- **Technical Deep Dive** - SA should record sessions with the clients on in-depth review of technology and GitLab capabilities, and create customer solutions with GitLab.  
+
+- **Technical Support** - SA conducts the technical support sessions as the account team and with GitLab Support. The SA should have the ability to record their achievements to guide our customers to success. A significant amount of effort actually goes into the top-notch response.
 
 - **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.  
 
@@ -114,8 +113,9 @@ This is for specific account or opportunity and related to assistance of a SA/Ch
   * Reference Architectures showing GitLab + partner product/platform. 
   * Joint solution offerings like AWS QuickStart, Runner Vending Machine, Runner on Kubernetes, CloudFormation Auto Deploy w/ Review Apps.
 
-- **Internal Enablement and SME Assistance [Alliances]** - Calls and meetings for internal field SA enablement and assistance. Example activities can be one of more than one of the following:
+- **Internal Enablement and SME Assistance [Alliances]** - Calls and meetings for internal field SA enablement and assistance. 
 Notes: not directly work with the customers
+Example activities can be one of more than one of the following:
   * Reference architecture reviews (Quality/Distribution get the request directly).
   * Internal Webinars and Enablement sessions
   * Direct Deal Individual Meetings (1 or maybe 2 per deal) to handle deep Platform Partner SME questions and show GitLab has the tech chops on that. So far 
