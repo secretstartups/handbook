@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Triggers'
+title: 'Zendesk Global Triggers'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global triggers'
 ---

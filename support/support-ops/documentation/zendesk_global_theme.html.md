@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Theme'
+title: 'Zendesk Global Theme'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global theme'
 ---

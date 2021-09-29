@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Schedules'
+title: 'Zendesk US Federal Schedules'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal schedules'
 ---

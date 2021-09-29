@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Apps'
+title: 'Zendesk Global Apps'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global apps'
 ---

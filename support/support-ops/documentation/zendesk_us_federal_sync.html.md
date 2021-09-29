@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Sync Mechanisms'
+title: 'Zendesk US Federal Sync Mechanisms'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal sync mechanisms'
 ---

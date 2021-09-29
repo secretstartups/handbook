@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Users'
+title: 'Zendesk Global Users'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global users'
 ---

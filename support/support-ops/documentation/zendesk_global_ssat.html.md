@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'SSAT'
+title: 'Zendesk Global SSAT'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global SSAT'
 ---

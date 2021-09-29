@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Ticket Settings'
+title: 'Zendesk Global Ticket Settings'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global ticket settings'
 ---

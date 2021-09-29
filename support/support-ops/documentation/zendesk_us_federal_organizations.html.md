@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Organizations'
+title: 'Zendesk US Federal Organizations'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal organizations'
 ---

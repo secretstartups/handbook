@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Macros'
+title: 'Zendesk Global Macros'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global macros'
 ---

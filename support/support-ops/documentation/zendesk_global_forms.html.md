@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Forms'
+title: 'Zendesk Global Forms'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global forms'
 ---

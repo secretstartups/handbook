@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Schedules'
+title: 'Zendesk Global Schedules'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global schedules'
 ---

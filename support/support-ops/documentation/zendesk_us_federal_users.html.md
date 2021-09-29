@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Users'
+title: 'Zendesk US Federal Users'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal users'
 ---

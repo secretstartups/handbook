@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Sandbox'
+title: 'Zendesk Global Sandbox'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global sandbox'
 ---

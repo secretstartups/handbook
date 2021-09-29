@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Theme'
+title: 'Zendesk US Federal Theme'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal theme'
 ---

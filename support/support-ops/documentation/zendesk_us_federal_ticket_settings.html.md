@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Ticket Settings'
+title: 'Zendesk US Federal Ticket Settings'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal ticket settings'
 ---

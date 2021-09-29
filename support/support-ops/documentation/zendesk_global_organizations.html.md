@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Organizations'
+title: 'Zendesk Global Organizations'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global organizations'
 ---

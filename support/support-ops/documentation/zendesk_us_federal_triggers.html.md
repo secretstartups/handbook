@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Triggers'
+title: 'Zendesk US Federal Triggers'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal triggers'
 ---

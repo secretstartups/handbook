@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Tags'
+title: 'Zendesk Global Tags'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global tags'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Automations'
+title: 'Zendesk Global Automations'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global automations'
 ---

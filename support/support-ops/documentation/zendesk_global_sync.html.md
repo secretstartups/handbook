@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Sync Mechanisms'
+title: 'Zendesk Global Sync Mechanisms'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global sync mechanisms'
 ---

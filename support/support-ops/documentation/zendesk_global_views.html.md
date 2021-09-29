@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Views'
+title: 'Zendesk Global Views'
 category: 'Zendesk Global'
 description: 'An overview of the Zendesk Global views'
 ---

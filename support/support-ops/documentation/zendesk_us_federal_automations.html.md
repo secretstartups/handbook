@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Automations'
+title: 'Zendesk US Federal Automations'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal automations'
 ---

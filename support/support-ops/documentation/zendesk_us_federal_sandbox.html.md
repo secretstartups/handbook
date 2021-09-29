@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'Sandbox'
+title: 'Zendesk US Federal Sandbox'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal sandbox'
 ---

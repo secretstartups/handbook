@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: 'SSAT'
+title: 'Zendesk US Federal SSAT'
 category: 'Zendesk US Federal'
 description: 'An overview of the Zendesk US Federal SSAT'
 ---
