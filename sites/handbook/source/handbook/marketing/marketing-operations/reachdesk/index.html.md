@@ -51,7 +51,7 @@ Here is a link to the campaign planning form [https://form.asana.com/?k=hvl00YjB
 1. Go to Triggered Campaign > Create Triggered Campaign. Then under Campaign Trigger, select Connector (Salesforce).
 1. Select Salesforce as your connector and choose Object. This will depend on what you have in your own Salesforce.
 1. Under Field, select Stage. Other options are  Status, Opportunity ID, Opportunity Type, Probability, and Close Date.
-1. Under Field, Select Campaign ID (to ensure it is sent to those in that specific campaign), Comparator is Equals. Under Value, copy and paste the Campaign ID from the URL of the campaign in Salesforce.
+1. Under Field, Select Campaign ID (to ensure it is sent to those in that specific campaign), Comparator is Equals. Under Value, copy and paste the Campaign ID from the URL of the campaign in Salesforce. (You have to create a SFDC campaign first with [these steps](handbook/marketing/marketing-operations/reachdesk/#non-marketo-campaigns))
 1. Press AND + to add another field. This will then be sent to all members of that SF campaign. 
 1. Click Next and Save campaign
 TIP: it's advisable to `Pause` triggered campaigns until it's ready to go live/active.
@@ -82,7 +82,7 @@ PLEASE NOTE: Do not tick `Ask recipient to confirm their address` for  campaigns
 
 
 ### Non-Marketo Campaigns
-All campaigns must have a Salesforce.com attached. If this campaign involves marketo, please skip to those instructions, otherwise follow directions below:
+All campaigns must have a Salesforce.com attached. If this campaign involves marketo, please skip to those [instructions](handbook/marketing/marketing-operations/reachdesk/#marketo-campaigns), otherwise follow directions below:
 
 1. Clone [SFDC template](https://gitlab.my.salesforce.com/7014M000001vgGz) and fill in all necessary fields. You must clone because this template contains the  correct member statuses for the integration.
 1. Make sure bizible touchpoints are set to `Include only "Responded" Campaign Members`
