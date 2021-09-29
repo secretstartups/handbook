@@ -33,6 +33,18 @@ They can be hosted by anyone who wants to host an AMA, but typically are hosted 
 
 Occasionally an AMA might be held for a smaller audience. It is encouraged for all AMAs to be open to the full company whenever possible. Occasionally an AMA may not make sense to be sent to the whole company. In those instances, it is still encouraged to add the calendar invitation to the GitLab Team Meetings Calendar as sometimes team members may want to join a call that may not be directly directly applicable to them. Whenever creating an AMA for a smaller group, be sure to invite the team directly in the calendar invite.
 
+### Agenda document recommendations
+
+A lot of team members attend AMAs which can lead to the agenda document becoming overloaded. Since this can mean that notes can't be taken for the discussion, it's recommended that team members add their questions to the document and then close the document unless they're actively taking notes. 
+
+Team members who require the written notes in order to participate and/or retain information are encouraged to remain in the document.
+
+If the Google document becomes overloaded, people should add their questions to the zoom chat so that a notetaker or moderator of the AMA with access to the document can copy their questions into the agenda.
+
+For team members who are watching the AMA but don't have questions, consider opening the agenda document to gain any initial context but then closing the document in advance of any discussion.
+
+The intention of this is to make sure we're enabling asynchronous communication by allowing team members not in attendance to read a complete record of the AMA at a later time.
+
 ### Process for initiating a Reverse AMA 
 
 #### E-Group Initiated
