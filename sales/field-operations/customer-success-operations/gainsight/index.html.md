@@ -139,7 +139,7 @@ We use the account structure in Gainsight for hierarchy. There are also subscrip
 These are some notable standard/system objects in Gainsight:
 
 | Object Name | Data Source | Description |
-|---|---|---|
+| --- | --- | --- |
 | Company | Salesforce Account, manual inputs, calculations from inside Gainsight | Information about specific accounts. Mapping to Account object in Salesforce. Most used object. Where TAMs conduct their work. |
 | User | Salesforce User object | Gainsight users, populated by the User object in Salesforce |
 | Person/Company Person | Salesforce Contact object, manual inputs | Gainsight contacts, maps to Contact object in Salesforce |
@@ -147,6 +147,7 @@ These are some notable standard/system objects in Gainsight:
 | Activity Timeline | Manual inputs in Gainsight |  |
 | Call to Action | Rules engine, manually created |  |
 | Success Plan | Rules engine, manually created |  |
+
 <br>
 
 ### Custom objects
@@ -154,7 +155,7 @@ These are some notable standard/system objects in Gainsight:
 These are some notable custom objects that we have created in Gainsight:
 
 | Object Name | Data Source | Description |
-|---|---|---|
+| --- | --- | --- |
 | Customer Subscription | Salesforce Customer Subscription object |  |
 | Gainsight Opportunity | Salesforce Opportunity object |  |
 | Stage Adoption | Account Object (SFDC) |  |
@@ -163,6 +164,7 @@ These are some notable custom objects that we have created in Gainsight:
 | MonthlyMart SelfManaged Usage Data | Snowflake | All basic product usage from [Snowflake unioned dbt table](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_product_usage_paid_user_metrics_monthly).<br> This product has many records per instance. It should have one record per month per instance.<br> See how this was set up in [this video](https://gainsight.hubs.vidyard.com/watch/oMU8aPjpxK7azFDr87iFVt?). |
 | Product Usage Metrics | Data Designer: MonthlyMart SelfManaged Usage Data <br> SaaS Usage Data | Calculated metrics (A/B = C) based on the MonthlyMart table. |
 | Instance Data | Data Designer: MonthlyMart SelfManaged Usage Data | Updated rule is set to de-dupe the fetch from MonthlyMart data designer down to a single record for each UUID/Hostname/SFDC_AcctID combination.<br>  SSOT for which instances (self-managed) are Production or not.<br> This object allows TAMs to label the instance as one of the following:<br>  - Unknown (default) <br> - Production <br> - Non-production <br> - Obsolete <br> - Geo secondary mode  <br> This object has only one record per instance. |
+
 <br>
 
 ### Data designer objects
@@ -323,9 +325,10 @@ When creating rules, we add the following prefixes to rule titles for organizati
 - Set Score
 
 See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues/42).
+
 | Gainsight Feature | Admin Best Practice | Example |
-|---|---|---|
-| Rules | The start of each rule should be named with its primary "action or purpose." Always make sure rules contain a clear description of purpose. When creating new rules that are being built and not yet live, start the rule name with: STAGING so it is clear which rules are currently in the build process. These rules should be put into the STAGING folder and moved to their new applicable folder once they are live. | {Insert Name of CTA} Set Score: {Insert Name of Scorecard Measure} Load to {Object}: {Insert Name of Data Load Task} Load to People: Load Contact Role from Oppty |
+| --- | --- | --- |
+| Rules | The start of each rule should be named with its primary "action or purpose." Always make sure rules contain a clear description of purpose. When creating new rules that are being built and not yet live, start the rule name with: STAGING so it is clear which rules are currently in the build process. These rules should be put into the STAGING folder and moved to their new applicable folder once they are live. | `{Insert Name of CTA}` Set Score: `{Insert Name of Scorecard Measure}` Load to `{Object}: {Insert Name of Data Load Task}` Load to People: Load Contact Role from Oppty |
 | Folders | Folders should be created for each type of Rule | (CTA Rules, Load to Object Rules, Set Score Rules, etc). |
 | Rule Chains | Rules should be put into Rules chains when applicable for more efficient management and workflow. | Group CTA rules into a CTA Rule Chain. Group Scorecard Rules into a Scorecard Rule Chain. |
 | Inactive Rules | For Inactive rules, if they will need to be referenced in the future for any reason, deactivate the rule and put it in a deprecated folder. For rules that will never need to be referenced or used in the future, delete the rule entirely to keep the instance clean and the # of inactive rules low. |  |
@@ -335,8 +338,9 @@ See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team
 | Dashboard Folders | Creating Dashboard folders is often not necessary and can be repetitive. They are useful when your Gainsight instance is very large and there are a lot of different user profiles (TAM, Onboarding, CSM, etc). Remove any unused dashboards or dashboard folders, there is rarely a strong reason to keep deprecated dashboards. |  |
 | Data Model Improvements and Upkeep | When managing MDA data tables out of Data Management, always remove unused Data tables to limit technical debt. The only tables that should exist are those that are active or in staging. Always add descriptions to every custom MDA table. The description should clearly indicate what data resides in the table. |  |
 | Journey Orchestrator | Remove old/unused templates as well as outdated programs that are no longer in use and analytics will not need to be referenced in the future. Create folders for different types of programs | (Onboarding Programs, Adoption Programs, Retention Programs, Growth Programs) |
-| Templates | For any templates used in Email Assist or Programs start all templates with | Email Assist: {Insert Template Name} or Email Program: {insert Template Name} Email # - subject Example: Email Onboarding Program: Email 1 - Intro to GitLab |
+| Templates | For any templates used in Email Assist or Programs start all templates with | Email Assist: `{Insert Template Name}` or Email Program: `{insert Template Name}` Email # - subject Example: Email Onboarding Program: Email 1 - Intro to GitLab |
 | Email Template Folders | Create email template folders that indicate the purpose of the email | Email Assist Templates Onboarding Templates Renewal Templates |
+
 <br>
 
 ### Rule descriptions
@@ -351,7 +355,7 @@ See more about labeling in [this issue](https://gitlab.com/gitlab-com/sales-team
 We are currently using the following scorecard groups and measures:
 
 | Group Name | Measure Name | Rules and Methodology |
-|---|---|---|
+| --- | --- | --- |
 | Customer Outcomes | ROI |  |
 | Customer Sentiment | TAM Sentiment |  |
 |  | Engagement |  |
@@ -361,6 +365,7 @@ We are currently using the following scorecard groups and measures:
 |  | SCM Adoption |  |
 |  | CI Adoption |  |
 |  | DevSecOps Adoption |  |
+
 <br>
 
 ## Product usage data in Gainsight
