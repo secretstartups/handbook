@@ -74,7 +74,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
 | Clearbit | x | x | x | x / x | | No |
-| [CustomersDot](https://customers.gitlab.com/plans) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No |
+| [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No |
 | [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No |
 | [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |  No |
 | [GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `gitlab_dotcom` | Product, Engineering | 6h / x |  No |
