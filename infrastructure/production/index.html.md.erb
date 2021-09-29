@@ -133,11 +133,24 @@ For some incidents, we may figure out that the usage patterns that led to the is
 
 ## Backups
 
-### Summary of Backup Strategy
+### Purpose
 
-This section is part of [controlled document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) covering our controls for backups.  It covers BCD-11 in [the controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html). The configuration of these is set by the Infrastructure team.
+This section is part of [controlled document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html) covering our controls for backups.  It covers BCD-11 in [the controls](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-compliance/guidance/business-continuity-and-disaster-recovery.html).
 
-- Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service in parallel. These backups are encrypted, and follow the lifecycle:
+### Scope
+
+Production database backups
+
+### Roles & Responsibilities
+
+| Role  | Responsibility | 
+|-----------|-----------|
+| Infrastructure Team | Responsible for configuration and management | 
+
+
+### Procedure
+
+Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service in parallel. These backups are encrypted, and follow the lifecycle:
   - Initial 14 days in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) storage class.
   - After 14 days migrated to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class.
   - After 40 days migrated to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class.
@@ -149,6 +162,8 @@ This section is part of [controlled document](https://about.gitlab.com/handbook/
 Data stored in Object Storage (GCS) such as artifacts, the container registry, and others have no additional backups, relying on the [99.999999999% annual durability](https://cloud.google.com/storage/docs/storage-classes#descriptions) and multi-region buckets.
 
 For details see the runbooks, particularly for [GCP snapshots](https://gitlab.com/gitlab-com/runbooks/blob/master/docs/uncategorized/gcp-snapshots.md) and [Database backups using WAL-E/WAL-G (encrypted)](https://gitlab.com/gitlab-com/runbooks/-/blob/master/docs/patroni/postgresql-backups-wale-walg.md)
+
+### Exceptions
 
 Exceptions to this backup policy will be tracked in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/).
 
