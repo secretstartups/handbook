@@ -20,8 +20,8 @@ The goal of the refinement process is to
 - Raise any questions, concerns or alternative approaches.
 - Outline an implementation plan.
 - Ensure issue is ready to be worked on.
-- Identify code boundaries, for example, does the issue change code maintained by another team. 
-- Notify other teams if the issue is relevant to them in some way. 
+- Identify code boundaries, for example, does the issue change code maintained by another team.
+- Notify other teams if the issue is relevant to them in some way.
 - Assign a weight to the issue.
 
 The refinement process can break down the issue into technical subtasks by following the [sub-issue convention](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4588) but we should avoid redefining the scope of an implementation issue as this should have already been done during the Planning Breakdown with UX and PM.
@@ -99,6 +99,36 @@ as [velocity is more important than predictability](/handbook/engineering/#veloc
 | 8 | Extra-large task | [SAST for Apex](https://gitlab.com/gitlab-org/gitlab/-/issues/10680), [Add License information to the Dependency List - add license info backend](https://gitlab.com/gitlab-org/gitlab/issues/13084), [WAF statistics reporting](https://gitlab.com/gitlab-org/gitlab/-/issues/14707) |
 | 13 | Extra-extra-large task | [Add support for REST API scans to DAST](https://gitlab.com/gitlab-org/gitlab/-/issues/10928) |
 | Bigger | Epic in disguise |  |
+
+### Things to keep in mind when estimating
+
+* For tasks that involve making changes to the Rails codebase
+
+  Sometimes the most challenging part of working on a Rails codebase issue or bug is the difficulty of reproducing the problem locally and
+  writing tests to demonstrate that the fix correctly solves the issue. When estimating, make sure to take into account the time required
+  for a developer to understand how test factories for the relevant code are used and if they'll need to be updated in order to produce data
+  to create a failing test.
+
+  Bear in mind that the review process will be much more involved than a change to one of the secure analyzer projects because the number
+  of reviewers will be higher, sometimes requiring as many as 4 people, across different timezones. Keep in mind the turnover time
+  required to respond to comments, receive feedback the next day due to timezone differences, and then re-address those comments.
+
+  Also be careful when estimating issues that might have efficiency concerns, such as adding sorting code or anything that may increase
+  computational complexity. If this might be applicable to the issue you're estimating, make sure to include additional headroom to account
+  for the work required to possibly provide benchmarking details or the addition of feature flags to ensure that system performance isn't
+  negatively impacted.
+
+  In addition to the above concerns, running into flaky tests or unrelated failures can sometimes require
+  re-running the entire test suite after re-basing, or at least re-running individual tests until the pipeline goes green.
+
+  Because of these considerations, be careful when estimating issues with a weight of `1`, since this is extremely difficult to achieve
+  unless it's a minor uncontentious documentation change or a simple update such as adding a new element to an array of menu options, for
+  example.
+
+* For tasks that involve making changes to License Finder
+
+  The License Finder pipeline currently takes over an hour to run and quite often has flaky tests. Keep this in mind when estimating
+  the amount of effort to required to make updates to this project.
 
 ### Capacity planning documentation from other teams
 
