@@ -105,6 +105,47 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [Zuora](https://www.zuora.com/) | [Stitch](https://www.stitchdata.com/) | `zuora_stitch` | `zuora` | Finance | 6h / 24h | Yes |
 | [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue) | [Airflow](https://airflow.gitlabdata.com/home)  | `zuora_revenue` | `zuora_revenue` | Finance | 24h / 48h | Yes |
 
+
+#### Source contacts
+
+| Source | Contact |
+| ------ | ------- |
+[Adaptive](https://www.adaptiveplanning.com/)                                                                       ||
+[Airflow](https://airflow.apache.org/)                                                                              ||
+[BambooHR](https://www.bamboohr.com/)                                                                               ||
+[Clearbit](https://clearbit.com/)                                                                                   ||
+[CustomersDot](https://customers.gitlab.com/)                                                                       ||
+[Demandbase](https://www.demandbase.com/)                                                                           ||
+[Gitter](https://gitter.im/)                                                                                        ||
+[GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database)                  ||
+GitLab Ops DB                                                                                                       ||
+GitLab Profiler DB                                                                                                  ||
+[Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/)                                   ||
+[Google Cloud Billing](https://cloud.google.com/support/billing)                                                    ||
+[Graphite API](https://graphite-api.readthedocs.io/en/latest/)                                                      ||
+[Greenhouse](https://www.greenhouse.io/)                                                                            ||
+[Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml)              ||
+[Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py)     ||
+[Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) ||
+[LicenseDot](https://license.gitlab.com/)                                                                           ||
+[Marketo](https://www.marketo.com/software/marketing-automation/)                                                   ||
+[Netsuite](https://www.netsuite.com/portal/home.shtml)                                                              ||
+[PMG](https://www.pmg.com/)                                                                                         ||
+[PTO by Roots](https://www.tryroots.io/pto)                                                                         ||
+[Qualtrics](https://www.qualtrics.com/)                                                                             ||
+[SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping)                   ||
+[Salesforce](https://www.salesforce.com/)                                                                           ||
+[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  ||
+[Snowplow](https://snowplowanalytics.com/)                                                                          ||
+[Thanos](https://thanos-query.ops.gitlab.net/graph)                                                                 ||
+[Version DB](https://version.gitlab.com/users/sign_in)                                                              ||
+[Xactly](https://www.xactlycorp.com)                                                                                ||
+[Zendesk](https://www.zendesk.com/)                                                                                 ||
+[Zoom](https://zoom.us/)                                                                                            ||
+[Zuora](https://www.zuora.com/)                                                                                     ||
+[Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    ||
+
+
 ### Adding new Data Fields
 
 To add new fields to the BambooHR extract:
