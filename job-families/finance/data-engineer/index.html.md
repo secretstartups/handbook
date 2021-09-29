@@ -62,7 +62,7 @@ The Senior Data Engineer is a [grade 7](/handbook/total-rewards/compensation/com
 
 ## Staff Data Engineer
 
-The SeStaffnior Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
+The Staff Data Engineer role extends the [Senior Data Engineer](#responsibilities) role.
 
 ### Job Grade
 
