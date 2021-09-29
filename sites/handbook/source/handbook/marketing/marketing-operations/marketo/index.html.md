@@ -189,6 +189,7 @@ These are boosters to scores that occur when a special action takes place above 
 |PF Demo Booster|Consumes PF content that is a demo|+35|{{my.Demo PF Booster}}|Trigger|1/day|
 |PF Engagement Booster 1|Engagement Time >  2 minutes < 4 minutes|+10|{{my.Content Boost 1}}|Trigger|Everytime|
 |PF Engagement Booster 2|Engagement Time > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|Everytime|
+|BrightTalk Engagement Booster 2|Total Minutes Viewed > 4 minutes|+15|{{my.Content Boost 2}}|Trigger|1/day|
 |PF Fast Moving Buyer|Becomes fast moving buyer|+10|{{my.FMB Booster}}|Trigger|1/month|
 |LinkedIn Form Fill Booster| Fills out Linkedin Lead Gen Form | +30| {{my.Linkedin Booster}}|Trigger|Everytime|
 |Re-MQL Score|	Status changes to Nurture,<br>MQL Counter >0	|+20	|{{my.ReMQL}}	|Requested|	1/month|
@@ -376,11 +377,9 @@ The Field Marketing and Marketing Campaigns teams use targeted email lists as a 
 * Final Smart List is available 2 days prior to email deployment - MOps
 
 #### List Exports
-<<<<<<< HEAD
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](/handbook/engineering/security/security-assurance/security-risk/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
-=======
+
 If you need a list export, please fill out an [export request issue](https://gitlab.com/gitlab-com/marketing/marketing-operations/-/issues/new?issuable_template=export_request). If sharing externally, please follow [guidance](handbook/engineering/security/security-assurance/field-security/third-party-minimum-security-standards.html#guidance-to-sharing-data-externally) to help inform your request.
->>>>>>> 42c5e7866afa16dbfc45af80e04ef443261a62ee
 
 
 ## Mailchimp sends

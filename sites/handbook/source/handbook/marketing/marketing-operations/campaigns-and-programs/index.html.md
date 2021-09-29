@@ -301,9 +301,22 @@ The Marketo programs for the corresponding campaign types have been prebuilt to 
 
 For **Linkedin Social Ads** follow the instructions documented in [the Linkedin section](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-linkedin-lead-gen-form-gated-content-only)
 
-For virtual events, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
+For **virtual events**, there are additional set up details on this [page](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events).
 
-For all other campaign types, follow Steps 1-5 below. All steps are required. 
+For all other campaign types, follow Steps 1-5 below. All steps are required.   
+
+**Parent/Child Campaigns**  
+
+For some tactics, there are mutiple campaigns that occur as a part of a single initiative. Some examples of these could be a conference with speaking session, direct mail, content syndication, or hybrid events (where in-person and virtual leads will be tracked separately). When this happens, a `parent` campaign should be created in SFDC and have each `child` campaign represent the individual tactics. The parent SFDC campaign should not include any members, or include bizible touchpoints.  Since we do not have the same parent/child relationship structure available in Marketo, you will create a folder that will house all of the shared tactics together. 
+
+To assocate a child SFDC campaign to a parent SFDC campaign, go into what will be the child SFDC campaign and at the top of the campaign, click `Edit`. This will open the SFDC fields and then you can add the parent SFDC campaign name into the `Parent` field. Click `Save`. 
+
+An example of a folder setup in Marketo is:
+- Conference Name (Folder)
+   - Conference Name (Program w/ members)
+   - Direct Mail Name (Program w/ members)
+   - Speaking Session 1 (Program w/ members)
+   - Speaking Session 2 (Program w/ members)
 
 **Important Notes**:
 1. The `Active` checkbox must be checked on the SFDC campaign for Marketo to be able to "see" the campaign. This will happen automatically if you follow the process below, but if there is a time you cannot find a SFDC campaign in Marketo, check to make sure that box is checked in SFDC. Additionally, if this box is unchecked, Marketo cannot send leads or update campaign member status for that SFDC campaign.
@@ -312,32 +325,36 @@ For all other campaign types, follow Steps 1-5 below. All steps are required.
 
 ##### Step 1: Clone the Marketo program indicated below
 
-Be advised that some templates are being used for both `in-person` and `virutal events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual` or `In-Person`.  
+Be advised that some templates are being used for both `in-person` and `virutal events`. These templates have been marked as `Hybrid template`. For these templates, the naming convention is slightly different in that additional campaign information appears in the name. When naming the program, `EventType` is replaced with either `Virtual`, `In-Person`, or `Hybrid` (if an event will be both in-person and virtual).  
 
-- Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
-- Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
-- Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
-- Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
-- Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
+- Conference - `Hybrid template`: [YYYYMMDD_Conference_EventType_Template](https://app-ab13.marketo.com/#ME5100A1)
+- Conference Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_No Registration_Template](https://app-ab13.marketo.com/#ME5092A1)
 - Content Syndicaton: [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-content-syndication-in-marketo-and-sfdc)
 - Direct Mail: [YYYYMMDD_DirectMail_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG5392A1)
      - Direct Mail not needing a Marketo Program: [skip to specific setup detais here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-direct-mail-campaigns)
+- Executive Roundtables - `Hybrid template`: [YYYYMMDD_ExecutiveRoundtable_Topic_Region_EventType_template](https://app-ab13.marketo.com/#ME6028A1)
+- Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
+- Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
+- Owned Event - `Hybrid template`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
+     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
+- Speaking Session - [YYYYMMDD_SpeakingSession_EventType_Template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME5092A1)
 - Surveys (not SimplyDirect): [YYYYMMDD_SurveyName](https://app-ab13.marketo.com/#PG6402A1)
      - For SimplyDirect Surveys, [skip to specific setup details here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-setup-simplydirect-surveys-in-marketo-and-sfdc)
-- Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
-- Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up):
+- Vendor Arranged Meetings (1:1 meetings) - `Hybrid template`: [YYYYMMDD_ArrangedMeetingsVendorName_Region_EventType_template](https://app-ab13.marketo.com/#PG5698A1)
+
+**Webcasts/Workshops:**
+- BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
+ - WebEx GitLab Hosted Webcast: [YYYYMMDD_WebEx_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8983D4)
+ - Zoom GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://app-ab13.marketo.com/#ME5512A1)
+ - Zoom GitLab Hosted Workshops [please follow directions in the workshop set-up section](/handbook/marketing/revenue-marketing/field-marketing/workshop-webcast-how-to/#virtual-workshop-logistical-set-up):
      - Project Management: [YYYYMMDD_VirtualWorkshop_ProjectManagement](https://app-ab13.marketo.com/#ME6536A1)
      - Security: [YYYYMMDD_VirtualWorkshop_SecurityWorkshop](https://app-ab13.marketo.com/#ME6521A1)
      - DevOps Automation: [YYYYMMDD_VirtualWorkshop_DevOpsAutomation](https://app-ab13.marketo.com/#ME6532A1)
      - Advanced CI/CD: [YYYYMMDD_VirtualWorkshop_CI/CD](https://app-ab13.marketo.com/#ME6807A1)  
      - Jenkins [YYYYMMDD_VirtualWorkshop_Jenkins](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8285A1) 
-- Conference - `Hybrid template`: [YYYYMMDD_Conference_EventType_Template](https://app-ab13.marketo.com/#ME5100A1)
-- Conference Speaking Session - `Hybrid template`: [YYYYMMDD_SpeakingSession_EventType_No Registration_Template](https://app-ab13.marketo.com/#ME5092A1)
-- Owned Event - `Hybrid template`: [YYYYMMDD_OwnedEvent_EventType_Template](https://app-ab13.marketo.com/#ME4722A1)
-     - For Events using HopIn, follow all steps below in addition to steps outlined [here](/handbook/marketing/marketing-operations/campaigns-and-programs/#steps-to-use-hopin-connector).
-- BrightTALK GitLab Hosted Webcast: [YYYYMMDD_WebcastTopic_Region](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME6946A1)
-- Gated Content: [YYYY_Type_Content_Template](https://app-ab13.marketo.com/#PG5111A1)
-- Integrated Campaign: [FY20IntegratedCampaign_Template](https://app-ab13.marketo.com/#PG4924A1) 
+- Self-Service Virtual Event without Promotion: [YYYYMMDD_SelfServiceTopic_Region](https://app-ab13.marketo.com/#ME5143A1)
+- Self-Service Virtual Event with Promotion (with or without Marketo Landing Page): [YYYYMMDD_SelfServiceTopic_Region (with Promotion)](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME8760A1)
+- Sponsored Webcast: [YYMMDD_ExternalWebcastVendorName_Topic_Region](https://app-ab13.marketo.com/#PG5523A1)
 
 ##### Step 2: Sync to Salesforce
 
@@ -362,14 +379,22 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
 
 ##### Step 4: Activate Marketo smart campaign(s)
 * If this is a `Vendor Arranged Meeting` or `Executive Roundtable`, skip this step. The campaign and interesting moments will be run as a batch campaign after the list is loaded. 
-* If this is `Self-Service with Promotion` follow the below activation instructions:
+* If this is `Self-Service with Promotion` or `Speaking Session` follow the below activation instructions:
      * Click the `Smart Campaigns` folder
      * Select the `00 - Processing - No Shows / Attendees` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
      * Click to the `Schedule` tab and click `Activate`  
      * Select the `01a Registration Flow` smart campaign
      * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
-     * Click to the `Schedule` tab and click `Activate`         
+     * Click to the `Schedule` tab and click `Activate`  
+* If this is an `Owned Event` follow the below activation instructions:
+     * Click the `Campaigns` folder
+     * Select the `02a - Interesting Moments` smart campaign
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`  
+     * Select the `02b - Manual Upload Processing` smart campaign - This smart campaign looks for an addition to the lead list to update the status of the lead based on what list they are in. It's called manual upload because there needs to be a list upload to get these people updated in Marketo. If your campaign will need a list upload, you can turn this on.
+     * The correct program should automatically apply when cloned, so *you don't need to do anything here.* However, you can confirm that the campaign tag appears on in the Smart List and Flow. If the name of the template appears anywhere, replace it with the campaign tag.
+     * Click to the `Schedule` tab and click `Activate`           
 * For all other campaign types, follow the below activation instructions:
      * Click the "Smart Campaigns" folder
      * Select the `Interesting Moments` smart campaign. 
@@ -380,6 +405,7 @@ If you are a user of Allocadia, in this step you will also add the Allocadia ID 
      * Click to the "Schedule" tab and click `Activate`.
 
 - If you do not see an `Interesting Moments` campaign, check to see if that step is in `01 Processing` or `Viewed on Demand` campaigns.
+- For `Speaking Sessions` with pre-registration, find the `Pre-Registration` folder, and activate the `01 - Form Fill` step after populating the smart list with the correct form and landing page.
 
 ##### Step 5: Update the Salesforce campaign
 *If you are utilizing the Allocadia, please see below instructions.*  
