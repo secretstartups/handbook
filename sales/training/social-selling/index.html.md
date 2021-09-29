@@ -21,6 +21,6 @@ description: "How to use social media to build your professional brand and grow 
 - [Sales Navigator Customer Hub: Resources](https://business.linkedin.com/sales-solutions/sales-navigator-customer-hub/resources)
 - [Live and On-Demand Training Webinars](https://training.sales.linkedin.com/series/webinars)
 - [Social Selling Index (SSI)](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi)
-
-## Social Selling Plays
-- Coming soon
+- LinkedIn Learning courses:
+    - [Social Selling with LinkedIn](https://www.linkedin.com/learning/social-selling-with-linkedin-4/social-selling-with-linkedin?u=2255073) (Mar 2020)
+    - [Learning LinkedIn Sales Navigator](https://www.linkedin.com/learning/learning-linkedin-sales-navigator/welcome-to-sales-navigator?u=2255073) (Dec 2020)
