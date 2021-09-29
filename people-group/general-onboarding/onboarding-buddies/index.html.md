@@ -18,7 +18,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 
 ## Buddy Responsibilities
 
-1. **The first and most important thing a buddy should do is schedule a call with the GitLab team-member.** We attempt to match (as best as possible, anyway) time zones between the GitLab team-member and their buddy so that as soon as the GitLab team-member logs on, you, the buddy, can be there ready and waiting to welcome them to the team.
+1. **The first and most important thing a buddy should do is schedule a call with the GitLab team-member.** You can do this in the days leading up to a new team member starting at GitLab by asking their manager for the new starter's personal email address. Introduce yourself and ask them when a good time to schedule an initial coffee chat would be. Consider picking a time towards the end of their first day so they have time to digest some of the onboarding issue and can come to the coffee chat with questions. We attempt to match (as best as possible, anyway) time zones between the GitLab team-member and their buddy so that as soon as the GitLab team-member logs on, you, the buddy, can be there ready and waiting to welcome them to the team.
 1. **Check how far the new GitLab team-member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Check to see how much, if any, the GitLab team-member has done by the time your call happens, and offer some direction or advice on areas the team member may be having trouble with.
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
     - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
@@ -50,6 +50,28 @@ The People Experience team will randomly select 3 winners giveaway link to order
 ## How Can I Become An Onboarding Buddy?
 
 Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
+
+## Example Email Template
+
+This is an example template you can use to introduce yourself to a new team member as their onboarding buddy.
+
+```
+Hey {name}, and welcome to GitLab!
+
+My name's {your name} and I'm your Onboarding Buddy! I wanted to introduce myself and explain what my role will be in terms of your onboarding. We're really excited to have you join us.
+
+{ Talk about some of the things you've worked on at GitLab, a bit about your role and what you do for fun! Link to your personal README if you have one. }
+
+During your onboarding I will be your point of contact for any questions you have about onboarding, your role, or where to find information that you might need.
+I can also help with any technical issues like setting up the GitLab Development Kit. { Delete this line if new starter is not in Engineering Division }
+I'll also point you in the direction of some fun social channels in Slack to help you meet as many people as possible! (My personal favourites are #dog, #dad_jokes and #all-caps.)
+
+The most important thing we need to do prior to your start is to organize a coffee chat for your first day so we can get to know each other a bit and I can make sure I cover everything I need to. Do you know roughly what your working hours will be on day 1? I'll send you an invite for a Zoom call to your personal email address since your GitLab account won't be active until your first day.
+
+That's all I can think of right now, but don't hesitate to ask any questions that you might have before your start date if you would like. I'm happy to help and thrilled to have you joining us!
+
+Looking forward to meeting you and working together!
+```
 
 ## That's it!
 
