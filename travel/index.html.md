@@ -269,7 +269,15 @@ General recommendations/precautions:
 - Practice good respiratory hygiene, that is, when coughing and sneezing, cover your mouth and nose with flexed elbow or tissue – discard tissue immediately into a closed bin and clean your hands with alcohol-based hand rub or soap and water
 - Maintain physical distancing, that is, leave at least 2 metres (6 feet) distance between yourself and other people, particularly those who are coughing, sneezing and have a fever
 - Avoid touching your eyes, nose and mouth – if you touch your eyes, nose or mouth with your contaminated hands, you can transfer the virus from the surface to yourself
-- Keep the surfaces around you clean
+- Keep the surfaces around you clean 
+
+### Process for obtaining travel approval in the CRO Organization
+
+1. Review the steps above 
+1. Fill out the Travel Exception Request form (see above)
+1. Via email, forward the completed form to your manager and request their approval 
+1. Your manager should then forward the completed form with their approval and justification for approval (no more than 3 sentences) via email to your functional VP (one of McB's direct reports) i.e. if you're in Enterprise Sales, this form will need to be emailed to Mike Pyle for approval
+1. The functional VP will review and if approved, they should forward the email with their approval to McB and Cheri Holmes for final approval 
 
 ### Personal Travel
 
