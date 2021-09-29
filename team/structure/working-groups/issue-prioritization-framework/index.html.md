@@ -66,11 +66,12 @@ canonical_path: "/company/team/structure/working-groups/issue-prioritization-fra
 |-----------------------|--------------------------|--------------------------------|
 | Executive Sponsor     | David Sakamoto           | VP Customer Success         |
 | Facilitator           | Gabe Weaver              | Senior Product Manager, Plan    |
-| Functional Lead       | TBD (Data)               | TBD |
+| Functional Lead       | Israel Weeks               | Manager, Data |
 | Functional Lead       | Jeff Beaumont            | Senior Manager, CS Ops |
 | Functional Lead       | TBD (Sales)              | TBD |
 | Member                | Patrick Harlan           | Manager, Technical Account Managers (Commercial) |
 | Member                | Sophie Pouliquen         | Senior Techical Account Manager |
+| Member                | Martin Brümmer         | Senior Techical Account Manager |
 | Member                | Nick Post                | Senior Product Designer, Interim Product Manager (Manage: Analytics) |
 | Member                | Mek Stittri              | Director of Quality Engineering |
 | Member                | Kyle Wiebers             | Engineering Manager, Engineering Productivity |
