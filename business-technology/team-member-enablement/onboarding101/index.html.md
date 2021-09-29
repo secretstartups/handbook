@@ -58,4 +58,4 @@ If you need further assistance with setting up your Macbook please join our week
 
 ### Laptop Setup: Linux
 
-There are no specific instructions to setting up 
+There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! Please feel free to reach out in #Linux slack channel or #it_help for assistance!
