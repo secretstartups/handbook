@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Data Team Calendar"
+title: "Data Team Calendar - Adding Data Sources"
 description: "GitLab Data Team Calendar"
 ---
  
