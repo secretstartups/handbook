@@ -38,35 +38,39 @@ Tip: After setup, if you don’t see the Wi-Fi status icon  in the menu bar, you
 
 #### Initial Setup Part 2
 
-- Screen Time: Monitor and get reports on the use of your computer. For options and details, see Screen Time on Mac.
+- **Screen Time:** Monitor and get reports on the use of your computer. For options and details, see Screen Time on Mac.
 
-- Enable Siri and “Hey Siri”: You can turn on Siri and “Hey Siri” (so you can speak your Siri requests) during setup. To enable “Hey Siri,” speak several Siri commands when prompted. To learn how to turn on Siri and “Hey Siri” later and for information about using Siri on your Mac, see Siri on your Mac.
+- **Enable Siri and “Hey Siri”**: You can turn on Siri and “Hey Siri” (so you can speak your Siri requests) during setup. To enable “Hey Siri,” speak several Siri commands when prompted. To learn how to turn on Siri and “Hey Siri” later and for information about using Siri on your Mac, see Siri on your Mac.
 
-- Store files in iCloud: With iCloud, you can store all of your content—documents, movies, music, photos, and more—in the cloud, and access it anywhere you go. Be sure to sign in with the same Apple ID on all your devices. To set this option later, open System Preferences and sign in with your Apple ID if you haven’t already. Click Apple ID, click iCloud in the sidebar, then select the features you want to use. To find out more, see Access your iCloud content on your Mac.
+- **Store files in iCloud**: With iCloud, you can store all of your content—documents, movies, music, photos, and more—in the cloud, and access it anywhere you go. Be sure to sign in with the same Apple ID on all your devices. To set this option later, open System Preferences and sign in with your Apple ID if you haven’t already. Click Apple ID, click iCloud in the sidebar, then select the features you want to use. To find out more, see Access your iCloud content on your Mac.
 
-- Choose an appearance: Select Light, Dark, or Auto for your desktop appearance. If you want to change the choice you make during setup, open System Preferences, click General, then select an appearance option. You can also set other preferences here.
+- **Choose an appearance**: Select Light, Dark, or Auto for your desktop appearance. If you want to change the choice you make during setup, open System Preferences, click General, then select an appearance option. You can also set other preferences here.
 
-- Set up Touch ID: You can add a fingerprint to Touch ID during setup. To set up Touch ID later, or to add additional fingerprints, open System Preferences, then click Touch ID. To add a fingerprint, click the Add button and follow the onscreen instructions.
+- **Set up Touch ID**: You can add a fingerprint to Touch ID during setup. To set up Touch ID later, or to add additional fingerprints, open System Preferences, then click Touch ID. To add a fingerprint, click the Add button and follow the onscreen instructions.
 
 - You can also set options for how you want to use Touch ID on your MacBook Pro: to unlock your Mac, use Apple Pay (see Use Apple Pay on your Mac), purchase items on the App Store, Apple TV app, Apple Book Store, and websites, and auto-fill your password.
 
 Tip: If two or more users use the same MacBook Pro, each user can add a fingerprint to Touch ID to quickly unlock, authenticate, and log in to the MacBook Pro. You can add up to three fingerprints per user account, and a total of five fingerprints for all your MacBook Pro user accounts.
 
-#### Macbook Cheat Sheet 
+## Macbook Cheat Sheet 
 
 If you are new to using a Macbook or switched from another OS such as windows check out these useful shortcuts and options!
+<details><summary>Click Here for Tips!</summary>
 
 ![ALT](https://gitlab.com/plaurinavicius/image-sources-for-runbooks/-/raw/cb3b1d9ee7628a251347ed0075fee3b00c1794bd/Screenshot_2021-09-29_at_16.33.22.png)
 
 ![ALT](https://gitlab.com/plaurinavicius/image-sources-for-runbooks/-/raw/cb3b1d9ee7628a251347ed0075fee3b00c1794bd/Screenshot_2021-09-29_at_16.16.43.png)
 
-### Need Help?
-
-If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it-help channel.
+</details>
 
 ### Laptop Setup: Linux
 
 There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! However please feel free to reach out in #Linux slack channel or #it_help for assistance!
+
+## Need Help?
+
+If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it-help channel.
+
 
 ## Extra Setup
 
