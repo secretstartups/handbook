@@ -115,9 +115,9 @@ The following table indexes all of the RAW data sources we are loading into the 
 [BambooHR](https://www.bamboohr.com/)                                                                               ||
 [Clearbit](https://clearbit.com/)                                                                                   ||
 [CustomersDot](https://customers.gitlab.com/)                                                                       ||
-[Demandbase](https://www.demandbase.com/)                                                                           ||
+[Demandbase](https://www.demandbase.com/)                                                                           | cho@demandbase.com & khogan@demandbase.com |
 [Gitter](https://gitter.im/)                                                                                        ||
-[GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database)                  ||
+[GitLab.com](/handbook/business-technology/data-team/platform/pipelines/#gitlab-postgres-database)                  | Raise an incident with infrastructure |
 GitLab Ops DB                                                                                                       ||
 GitLab Profiler DB                                                                                                  ||
 [Google Analytics 360](https://marketingplatform.google.com/about/analytics-360/)                                   ||
@@ -128,21 +128,21 @@ GitLab Profiler DB                                                              
 [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py)     ||
 [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) ||
 [LicenseDot](https://license.gitlab.com/)                                                                           ||
-[Marketo](https://www.marketo.com/software/marketing-automation/)                                                   ||
+[Marketo](https://www.marketo.com/software/marketing-automation/)                                                   | FiveTran support |
 [Netsuite](https://www.netsuite.com/portal/home.shtml)                                                              ||
 [PMG](https://www.pmg.com/)                                                                                         ||
-[PTO by Roots](https://www.tryroots.io/pto)                                                                         ||
+[PTO by Roots](https://www.tryroots.io/pto)                                                                         | @gitlab-com/people-group/peopleops-eng & @droystang|
 [Qualtrics](https://www.qualtrics.com/)                                                                             ||
 [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping)                   ||
-[Salesforce](https://www.salesforce.com/)                                                                           ||
-[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  ||
+[Salesforce](https://www.salesforce.com/)                                                                           | Stitch support |
+[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  | Sheet-specific, confirm edit history in sheetload folder|
 [Snowplow](https://snowplowanalytics.com/)                                                                          ||
 [Thanos](https://thanos-query.ops.gitlab.net/graph)                                                                 ||
-[Version DB](https://version.gitlab.com/users/sign_in)                                                              ||
+[Version DB](https://version.gitlab.com/users/sign_in)                                                              | Raise an incident with infrastructure|
 [Xactly](https://www.xactlycorp.com)                                                                                ||
-[Zendesk](https://www.zendesk.com/)                                                                                 ||
+[Zendesk](https://www.zendesk.com/)                                                                                 | Stitch support |
 [Zoom](https://zoom.us/)                                                                                            ||
-[Zuora](https://www.zuora.com/)                                                                                     ||
+[Zuora](https://www.zuora.com/)                                                                                     | Stitch support |
 [Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    ||
 
 
