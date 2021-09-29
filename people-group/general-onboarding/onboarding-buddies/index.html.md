@@ -87,5 +87,6 @@ That's all there is to it! Thanks for your help welcoming the newest GitLab team
 1. Make a comment in the top of the spreadsheet marking which rows from the survey results are being used.
 1. Place all names in the wheel of names and design according to GitLab colors.
 1. Record yourself spinning the wheel of names for the winners of the raffle.
+    - (To Record yourself)[https://support.apple.com/en-us/HT208721], use Command, Shift, 5 on your keyboard to record your screen. 
 1. Post the recording and announcement of the winners in the #whats-happening-at-gitlab Slack channel - making sure to tag the winners.
 1. Once the draw has taken place, send the winners an email with the Printfection link in order to redeem their prize. The link can be found in the People Operations 1Password vault under `Gift & Flower Vendors` - `Printfection Onboarding Buddy Prize Link`
