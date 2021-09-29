@@ -25,7 +25,7 @@ For video overviews, see:
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
