@@ -70,10 +70,10 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | [Data Source](/handbook/business-technology/data-team/platform/pipelines) | Pipeline | Raw Schema | Prep Schema | Audience | RF / SLO| MNPI | 
 |------------:|:--------:|:---------:|:--------:|:-------:|:--------:|:--------:|
-| Adaptive | Meltano | `tap_adaptive` | | Finance | | Yes | 
+| [Adaptive](https://www.adaptiveplanning.com/) | Meltano | `tap_adaptive` | | Finance | | Yes | 
 | [Airflow](https://airflow.apache.org/) | [Stitch](https://www.stitchdata.com/) | `airflow_stitch` | `airflow` |  Data Team | 24h / 24h | No |
 | [BambooHR](https://www.bamboohr.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `bamboohr` | `sensitive` | People | 12h / 24h | No |
-| Clearbit | x | x | x | x / x | | No |
+| [Clearbit](https://clearbit.com/) | x | x | x | x / x | | No |
 | [CustomersDot](https://customers.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/customers-gitlab-com/-/blob/staging/doc/db_erd.pdf) | [pgp](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/postgres_pipeline) | `tap_postgres` | `customers` | Product | 24h / x |  No |
 | [Demandbase](https://www.demandbase.com/) | [Snowflake task](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `demandbase` | `demandbase` | Marketing | 24h / x |  No |
 | [Gitter](https://gitter.im/) | x | `gitter` | x | x | x |  No |
@@ -90,7 +90,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 | [LicenseDot](https://license.gitlab.com/) [ERD](https://gitlab.com/gitlab-org/license-gitlab-com/-/blob/master/doc/db_erd.pdf) | [Automatic Process](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `license_db` | `license_db` | Product |  24 h / 48 h |  No |
 | [Marketo](https://www.marketo.com/software/marketing-automation/) |  [Fivetran](https://fivetran.com/)  | `marketo` | x | Marketing | 24h / 24h |  No |
 | [Netsuite](https://www.netsuite.com/portal/home.shtml) | [Fivetran](https://fivetran.com/) | `netsuite_fivetran` | `netsuite` | Finance | 6h / 24h | Yes |
-| PMG | x | `pmg` | `pmg` | x | x / x | No |
+| [PMG](https://www.pmg.com/)   | x | `pmg` | `pmg` | x | x / x | No |
 | [PTO by Roots](https://www.tryroots.io/pto) | [Snowpipe](/handbook/business-technology/data-team/platform/infrastructure/#automated-processes-loading-data-into-snowflake) | `pto` | `gitlab_pto` | Engineering Productivity / People | 7 days / x | No |
 | [Qualtrics](https://www.qualtrics.com/) | [Airflow](https://airflow.gitlabdata.com/home) | `qualitrics` | `qualtrics` | Marketing | 12h / 48h | No |
 | [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping) | [Airflow](https://airflow.gitlabdata.com/home) | `saas_usage_ping` | `saas_usage_ping` | Product | 1 week / x |  No |
