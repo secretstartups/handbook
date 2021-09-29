@@ -380,7 +380,7 @@ If the customer needs to change the Quote Start Date (typically for Billing purp
 
 In accordance with Section 6 of the [GitLab Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/#6-payment-of-fees), customers may be required to pay for Overage Users upon the expiration of a Subscription Term in order to renew the Software. 
 
-Effective 2021-10-01, the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which tie to the related subscription SKU. When creating quotes that include a True-Up element, please select the appropriate True-Up SKU as listed below. For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.
+Effective [ **INSERT DATE HERE** ], the "Trueup" SKU has been deprecated and replaced with 6 new annual True-Up SKUs, each of which tie to the related subscription SKU. When creating quotes that include a True-Up element, please select the appropriate True-Up SKU as listed below. For the avoidance of doubt, you must select the True-Up SKU related to the subscription SKU that was in use when the True-Up was incurred.
 * Example: A customer purchased a 100 user SaaS - Premium subscription, and incurred 5 Overage Users. These Overage Users are charged as part of the customer's renewals. In this case, you should use the True-Up (Annually) - SaaS - Premium SKU.
 
 **Self-Managed True-Up SKUs**
