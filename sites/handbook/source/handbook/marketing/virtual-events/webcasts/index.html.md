@@ -234,20 +234,53 @@ Marketing Programs sometimes depend on GitLab's subject matter experts to delive
 Here are some basic tips to help ensure that you have a good experience preparing for and presenting on a webcast.
 
 ### Before Committing
-{:.no_toc}
+{: #speaker-before-committing .no_toc}
 Ask us any questions you have about the time commitment etc. and what exactly our expectations are. Talk about it with your manager if you're on the fence about your availability, bandwidth, or interest. Make sure you're both on the same page. We want this to be a meaningful professional development exercise for you, not a favor to us that you're lukewarm about — if you feel that way, none of will be able to do our best job. We'll be honest with you, so please do the same for us.
 
 ### Before the Dry Run
-{:.no_toc}
+{: #speaker-before-dry-run .no_toc}
 Select and set up your presentation space. Pick a spot with good wifi, and we recommend setting up an external mic for better audio quality, although this is optional. If you will be presenting from your home, alert your spouse/roommates of the time/date & ask them to be out of the house if necessary. Depending on your preferences and comfort level with public speaking, run through the script several times.
 
 ### Before the Presentation
-{:.no_toc}
+{: #speaker-before-presentation .no_toc}
 Try to get a good sleep the night before, and, if the presentation is in the morning, wake up early enough to run through your notes at least once. Review our [Positioning FAQ](https://about.gitlab.com/handbook/positioning-faq/), or keep the page handy in case you are asked in the Q&A about how GitLab compares to our competitors.
 
-# Logistical Set up 
+# Logistical Setup
+{: #logistical-setup .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ## Adding your webcasts into the calendar
+{: #add-to-calendar .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+### BrightTALK Webcast Calendar
+{: #bt-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
+
+The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled BrightTALK webcasts and their related dry runs. **The purpose of the BrightTALK webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all BrightTALK webcasts.**
+
+**Adding to the calendar:**
+1. Add tentative webcasts to the calendar with `[Hold]`
+   * ex. `[Hold] TALK | 7 secrets of effective GitOps`
+   * For dry run (practice) webcasts, add `DR` (ex. `[Hold DR] TALK | 7 secrets of effective gitops`)
+   * Include a link to the issue in the event description
+1. When the date/time/speakers of the webcast has been confirmed, remove `[Hold]` from the event title
+   * ex. `TALK | 7 secrets of effective GitOps` or `RP | 7 secrets of effective GitOps`
+   * Add the time of the webcast on the calendar event (if it is still an all-day event)
+   * Add the epic link, and remove the issue link, in the calendar description
+   * Add all presenters (internal GitLab team members and external speakers)
+   * Add BrightTALK login information for presenters
+
+### Zoom Webcast Calendar
+The Field Marketing team manages the [zoom webcast license calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled Field Marketing hosted webcasts/workshops and their related dry runs. **The purpose of the webcast calendar is to ensure Field Marketers don't schedule overlapping webcasts when using the shared webcast license and to provide executive visibility into all webcasts being hosted.**
+
+Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom license date request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request) - please note that speakers must be secured and all details in the issue must be provided or the request will be rejected.
+
+**Planned webcasts:**
+
+1. As soon as an issue is created for a webcast request, add the planned webcast to the webcast calendar by creating an event on the day you plan to host the webcast. For webcasts that are still in planning, use the following naming convention `[Hold WC Hosted] Webcast title` (e.g: `[Hold WC Hosted] Mastering CI`) and create it as an all-day event (no time slot selected). Make sure to also include the link to the issue in the calendar description.
+
+**Confirmed Webcasts**
+
+1. Once the date/time of the webcast has been confirmed, go to your calendar event and remove `Hold` from the event title `[WC Hosted] Webcast title` (e.g: `[WC Hosted] Mastering CI`). Specify the time on the calendar event and swap the issue link in the calendar description with the Epic link. *Note: In the spirit of efficiency, please be sure to add all presenters (GitLab team members and external speakers), the epic or issue (if you have one) and your Zoom invite info to the calendar invite so you're not having to create multiple calendar invites.*
+1. Make sure to also add dry runs to the webcast calendar. When creating the webcast dry run event(s), please use the following naming convention `[DR WC Hosted] Webcast title` (e.g: `[DR WC Hosted] Mastering CI`) and specify the date/time on the calendar event.
 
 ## BrightTALK Webcasts
 {: #brighttalk .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
@@ -271,43 +304,15 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
 * **VD (Video)**: essentially an on-demand webcast acting as content syndication into the BrightTALK channel
    - No pre-registration
 
-### BrightTALK Webcast Calendar
-{: #bt-calendar} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-The Campaigns Team manages the [BrightTALK webcast calendar](https://calendar.google.com/calendar/u/1?cid=Y19xdTVqMzRsZ2ZrcmlybmM5aGx1MWRkams0MEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled BrightTALK webcasts and their related dry runs. **The purpose of the BrightTALK webcast calendar is to avoid scheduling overlapping webcasts and to provide visibility into all BrightTALK webcasts.**
-
-**Adding to the calendar:**
-1. Add tentative webcasts to the calendar with `[Hold]`
-   * ex. `[Hold] TALK | 7 secrets of effective GitOps`
-   * For dry run (practice) webcasts, add `DR` (ex. `[Hold DR] TALK | 7 secrets of effective gitops`)
-   * Include a link to the issue in the event description
-1. When the date/time/speakers of the webcast has been confirmed, remove `[Hold]` from the event title
-   * ex. `TALK | 7 secrets of effective GitOps` or `RP | 7 secrets of effective GitOps`
-   * Add the time of the webcast on the calendar event (if it is still an all-day event)
-   * Add the epic link, and remove the issue link, in the calendar description
-   * Add all presenters (internal GitLab team members and external speakers)
-   * Add BrightTALK login information for presenters
-
-**Zoom Calendar**
-The Field Marketing team manages the [zoom webcast license calendar](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t), which will be used to log all planned and scheduled Field Marketing hosted webcasts/workshops and their related dry runs. **The purpose of the webcast calendar is to ensure Field Marketers don't schedule overlapping webcasts when using the shared webcast license and to provide executive visibility into all webcasts being hosted.**
-
-Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom license date request](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/new?issuable_template=zoom-license-date-request) - please note that speakers must be secured and all details in the issue must be provided or the request will be rejected.
-
-### Planned webcasts:
-
-1. As soon as an issue is created for a webcast request, add the planned webcast to the webcast calendar by creating an event on the day you plan to host the webcast. For webcasts that are still in planning, use the following naming convention `[Hold WC Hosted] Webcast title` (e.g: `[Hold WC Hosted] Mastering CI`) and create it as an all-day event (no time slot selected). Make sure to also include the link to the issue in the calendar description.
-
-### Confirmed webcasts:
-
-1. Once the date/time of the webcast has been confirmed, go to your calendar event and remove `Hold` from the event title `[WC Hosted] Webcast title` (e.g: `[WC Hosted] Mastering CI`). Specify the time on the calendar event and swap the issue link in the calendar description with the Epic link. *Note: In the spirit of efficiency, please be sure to add all presenters (GitLab team members and external speakers), the epic or issue (if you have one) and your Zoom invite info to the calendar invite so you're not having to create multiple calendar invites.*
-1. Make sure to also add dry runs to the webcast calendar. When creating the webcast dry run event(s), please use the following naming convention `[DR WC Hosted] Webcast title` (e.g: `[DR WC Hosted] Mastering CI`) and specify the date/time on the calendar event.
 
 ---
 <!-- NOTE: THE DOCUMENTATION BELOW IS FOR ZOOM ONLY!!! BRIGHTTALK & WEBEX IS BELOW IN THIS HANDBOOK PAGE -->
 
-## LIVE webcast registration and tracking - Zoom
+## Zoom Webcasts
+{: #zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 ### Step 1: Configure Zoom
+{: #configure-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 *Note: The webcasts@ zoom license can only be used for a single session at a time. This license is used for all field-marketing-run internally hosted webcasts. Therefore, when a webcast is requested please confirm there is not going to be a conflict between the pre-scheduled sessions - both live and dry-run - using that license by checking the [webcast gcal](https://calendar.google.com/calendar?cid=Z2l0bGFiLmNvbV8xcXZlNmc4MWRwOTFyOWhldnRrZmQ5cjA5OEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t). Schedule no less than 30min between sessions (before & after) so there is less chance of conflict and allows for a buffer.*
 
@@ -337,8 +342,10 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 
 
 ### Step 2: Set up the webcast in Marketo/SFDC, and integrate to Zoom
+{: #mkto-integrate-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 #### Create program in Marketo - Zoom
+{: #create-mkto-program-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. Create the webcast program in Marketo by navigating to either the [Webcast program template](https://app-ab13.marketo.com/#ME5512A1) or the correct template from [Workshop program templates folder](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF5975A1)
 1. Right-click the appropriate template, and select "clone"
@@ -348,12 +355,15 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Click "Create" (note - you will create the SFDC campaign from Marketo in the next step!)
 
 #### Connect the Marketo program to Zoom via launchpoint integration
+{: #connect-mkto-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+
 1. In the Marketo program Summary view, you will see `Event Partner:` with a link that says "not set".
 1. Click on "not set"
 1. In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
 1. In the Event drop-down, select the name of the Zoom webcast you set up in [Step 1: Configure Zoom](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/virtual-events/webcast/#step-1-configure-zoom)
 
 #### Create campaign in Salesforce - Zoom
+{: #create-sfdc-campaign-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 1. In the Marketo program Summary view, you will see `Salesforce Campaign Sync:` with a link that says "not set".
 1. Click on "not set" 
@@ -370,6 +380,7 @@ Anyone desiring to reserve the zoom license for a webcast must submit a [Zoom li
 1. Click save
 
 ### Step 3.A: Update Marketo Tokens
+{: #mkto-tokens-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 Buckle up! There are a lot of tokens, but for good reason. This is an **advanced practice** and **best practice** within Marketo templates to increase efficiency and speed. Updating these at the top level of the program allows them to cascade through the landing page, emails, automation, and alerts creating a significantly more efficient process of launching new webcasts.
    * `{{my.apiKey}}` - apiKey from Zoom
@@ -402,10 +413,13 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * `{{my.webcastTitle}}` token with the webcast title.
 
 ### Step 3.B: Turn on smart campaigns in Marketo
+{: #mkto-smart-campaigns-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
+
    * Activate the `00 Interesting Moments` campaign.
    * Activate the `01a Registration Flow (single timeslot)` smart campaign.
 
 ### Step 3.C: Create the landing page
+{: #mkto-landing-page-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 * When you cloned the webcast template, and update the Marketo tokens, your landing page is almost ready to go!
    * Under "Assets" right-click on `Registration Page` and hover over `URL Tools` > `Edit URL Settings`
@@ -414,6 +428,7 @@ Buckle up! There are a lot of tokens, but for good reason. This is an **advanced
    * Use the format `webcast-topic-thank-you` (or `webcast-topic-region-thank-you` if region is relevant) - ex. `webcast-mastering-cicd-thank-you` or `webcast-mastering-cicd-italian-thank-you`
 
 ##### Adjusting number of speakers in Marketo landing page
+{: #adjust-speakers-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 **Less Speakers**
 The speaker module is controlled in the Marketo landing page module. The template is initially set up to support three speakers (note: this is supported in both the My Tokens and the landing page template). If there are less speakers, follow the instructions below:
@@ -452,6 +467,7 @@ The speaker module is controlled in the Marketo landing page module. The templat
 If additional assistance is required, please comment in the [#marketing_programs slack](https://gitlab.slack.com/archives/CCWUCP4MS) for assistance if needed.
 
 #### Multiple timeslot webcast - Zoom
+{: #multiple-timeslots-zoom .gitlab-purple} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 :exclamation: **Note from @jgragnola: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
 
