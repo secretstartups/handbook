@@ -30,7 +30,7 @@ GitLab’s top priority is the health and safety of our attendees and team membe
 
 Travel guidance on COVID-19 can be [found here](/handbook/travel/#travel-guidance-covid-19).
 
-### Legal verbiage that should be included in all event contracts thoughout FY21
+### Legal verbiage that should be included in all event contracts thoughout FY22
 
 - This language is what we should be adding to supplier agreements (when agreeing on their template):
   - "Termination for Convenience. GitLab may terminate this Agreement, any SOW or Order, or all at any time, for no reason or for any reason, upon notice to Vendor. Upon receipt of notice of such termination, Vendor shall inform GitLab of the extent to which it has completed performance as of the date of the notice, and Vendor will collect and deliver to GitLab whatever Work Product then exists, if applicable. GitLab will pay Vendor for all Work acceptably performed through the date of notice of termination, provided that GitLab will not be obligated to pay any more than the payment that would have become due had Vendor completed and GitLab had accepted the Work. GitLab will have no further payment obligation in connection with any termination. Upon termination or expiration of this Agreement, Vendor shall return or destroy any GitLab Confidential Information and provide certification thereof."
@@ -84,13 +84,13 @@ Be sure you review the issue template and provide all necessary information that
 
 **NOTE**: Event owners are DRI to create/setup campaign names & tags!
 
-1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will add the campaign tag in the details panel in the field `Campaign Tag to be Created`
-   1. `Campaign Tag` ISO date = **first** day of event (if multiday) - Example: AWS reInvent Dec 2-5, 2019, `Campaign Tag` = `20191202_AWSreInvent`. Campaign tag should not include any special characters and stay within the 31 character limit.
-   1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
+1. When **Event Owner** begins campaign process and creates their line item in Allocadia, they will create the campaign tag in the details panel in the field `Campaign Tag to be Created`. 
+    1. `Campaign Tag` = `ISO date` (**first** day of event if multiday) underscore `tactic name` - Example: AWS reInvent Dec 2-5, 2019 - `Campaign Tag` = `20191202_AWSreInvent`. **Note:** Your `tactic name` in the tag should not be more than **14 characters long** and should **not contain any special characters**. 
+    1. We do not want to set this up too soon as it affects many systems - see [date change](/handbook/marketing/revenue-marketing/digital-marketing-programs/marketing-programs/#changes-to-offline-events-dates) but it does need to be done when we go into contracting or before any money is spent toward said event.
 
 ### Step 3 - Netsuite campaign tag creation for events UNDER the employee [authorization matrix](/handbook/finance/authorization-matrix/#authorization-matrix) approval threshold **AND** no contract or security review required
 
-1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item listed as `Line Item ID`) AND `Campaign Tag` into the event details section of the main event issue. The two IDs should be concatenated with a dash (example: 1114023-20211005_TheBestEventEver).
+1. **Event Owner** copy/paste the `Allocadia ID` (this can be found in the details panel of your Allocadia line item) AND `Campaign Tag` (under the `Campaign Tag to be Created` field also in your details panel that was created during [this process](/handbook/marketing/events/#all-events---setting-up-the-campaign-tag)) into the event details section of the main event issue. This concatenated campaign tag formula = `Allocadia ID` dash `ISO date` (**first** day of event if multiday) underscore `tactic name` (example: 1114023-20211005_TheBestEvent). Full campaign tag should not include any special characters and stay within the **31 character limit**, including the Allocadia ID. **Helpful Note:** Your `tactic name` in the tag should not be more than **14 characters long** as the combination of the `Allocadia ID` and `ISO date` (including dash and underscore) is 17 characters. 
 1. **Event Owner** to ping the GL Accountant (@GGGONZALEZ) in the main event issue to request the above combination tag be created in Netsuite. Please note that since this tag is what is entered into Netsuite, this will also be the tag utilized in Expensify for all expense reporting.
 1. When event budget is approved by Finance, **Event Owner** verifies that the tag on the event and finance issue are accurate and match.
 1. When creating the Marketo Program and SFDC Campaign, DRI (for Field Marketing, the FMCs) will still utilize just the `Campaign Tag` as the name of the campaign and not the combination tag mentioned above.
@@ -527,7 +527,7 @@ The above planning list is not exhaustive - see planning issue template in field
 - The event DRI determines how many staffers we need at the event and is responsible for ensuring the staffers are all set to attend the event.
 - If the event is more enterprise-focused we try to send more marketing/sales. Regional Sales Managers in partnership with FM select team members based on who has the most potential contacts in the area or going to an event.
 - If the event is more user-focused we will lean towards sending more technical people to staff and fewer sales.
-- Suggestion for staffing: Field Marketing will evalute GitLabbers who live in the area that might be a good fit for the audience.
+- Suggestion for staffing: Field Marketing will evalute GitLab team members who live in the area that might be a good fit for the audience.
 - We lean towards those who might be thought leaders, specialists, or more social for a specific show - i.e. if we are sponsoring an AWS show, we would like for a GitLab + AWS expert to staff the event.
 - We aim to bring minimal team members to keep costs and disruption to normal workflow low. We take into account what value everyone will provide as well as coverage balance. Please check with the event DRI if you would like to or would like to suggest someone participate in an event.
 - Once you have agreed to attend an event, you are not able to back out unless there is a customer facing obligation you need to tend to. We have this in place to avoid unnecessary rework on the event DRI’s behalf.
@@ -723,10 +723,10 @@ The `Dietary Restrictions` field can be leveraged as a list filter by the MPMs i
 
 Common lead questions:
 
-- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/#account-ownership-rules-of-engagement) rules
+- Record ownership will be assigned using the [Global Ownership](/handbook/sales/field-operations/gtm-resources/rules-of-engagement/) rules
 - All followup needs to be tracked in SFDC
 - List upload needs to be done **before** follow up is done so we can ensure proper order of operations & attribution is given correctly
-- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/#lead--contact-statuses) on the record as follow up is done.
+- Record Owner and/or SDR doing follow up need to be sure to update the [`Contact Status`](/handbook/sales/field-operations/gtm-resources/) on the record as follow up is done.
 - Campaign type & meaning of [Campaign Member status](/handbook/marketing/marketing-operations/#campaign-type--progression-status) can be found in the Marketing Ops handbook
 
 #### Onsite registration form & landing page
@@ -939,12 +939,12 @@ Save event images and headers here: Save images for featured events [here](https
 
 - **Topic** - Name of the event you would like to add
 - **Type** - Please choose one of the following: `Diversity`, `Conference`,
-  `MeetUp`, `Speaking Engagement`, `Webinar`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
+  `MeetUp`, `Speaking Engagement`, `Webcast`, `Community Event` or `GitLab Connect`. **Events cannot have more than one type.** If more than one apply, choose the best. If you feel your event doesn’t fit in the below category, do not just manually add a type. Please reach out to events@gitlab.com to suggest a new type of event.
 - **Date starts** - Day event starts
 - **Date ends** - Day event ends (For a single day event, please put the date in both the `Date starts` and `Date ends` section)
 - **Description** - Brief overview about event (can be taken from event homepage).
-- **Location** - city, state,provinces, districts, counties (etc depending on country), country where event will take place
-- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, or `Online`
+- **Location** - city, state, provinces, districts, counties (etc depending on country), country where event will take place
+- **Region** - `AMER`, `LATAM`, `EMEA`, `APAC`, `PubSec`, or `Global`
 - **Social tags** - hashtag for event shared by event host
 - **Event URL** - homepage for event
 
