@@ -17,7 +17,7 @@ The Staff Backend Engineer is a [grade 8](/handbook/total-rewards/compensation/c
 * Recognize impediments to our efficiency as a team ("technical debt"), propose and implement solutions.
 * Represent GitLab and its values in public communication around specific projects and community contributions.
 * Ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-* Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
+* Participate in either Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 * Ability to use GitLab.
