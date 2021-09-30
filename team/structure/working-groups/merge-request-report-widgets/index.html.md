@@ -82,3 +82,4 @@ Ideally, the functional lead is someone who is an IC working in the affected gro
 | Member | Payton Burdette | Verify:Pipeline Execution | Senior Frontend Engineer |
 | Member | Pedro Moreira da Silva | UX | Staff Product Designer, Create:Code Review |
 | Member | Tomislav Nikić | Quality | Software Engineer in Test, Create:Code Review |
+| Member | Gina Doyle | UX | Product Designer, Verify:Testing & Runner |
