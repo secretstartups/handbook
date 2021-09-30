@@ -36,13 +36,13 @@ When it comes to work, [Harvard Business Review](https://hbr.org/2020/10/use-gra
 1. Increased trust 
    - 50% of employees believe being thanked by managers not only improved their relationship but also built trust with their managers/executives ([source](https://www.tinypulse.com/blog/sk-employee-recognition-stats))
 
-It's important to note that these results rely on a steady gratitude practice over a longer period, which means **we must  make recognition a daily practice for our teams**. Recognition was a key component of Module 4 of the [Field Manager Development Program](https://about.gitlab.com/handbook/sales/field-manager-development/) in Q3-FY22.  
+It's important to note that these results rely on a steady gratitude practice over a longer period, which means **we must make recognition a daily practice for our teams**. Recognition was a key component of Module 4 of the [Field Manager Development Program](https://about.gitlab.com/handbook/sales/field-manager-development/) in FY22-Q3.  
 
 ## Field Quarterly Achiever's Chat 
 
 The Quarterly Achiever's Chat recognizes Field team members who have excelled in a given quarter by inviting them to join the CEO and CRO in a congratulatory chat. The benefit is three-fold:
 1. Top performers receive facetime and recognition directly at the executive level
-1. Knowledge sharing of best-practices that can replicated by other Field team members
+1. Knowledge sharing of best practices that can replicated by other Field team members
 1. Leaders/teams outside of the Field organization gain visibility into Sales momentum and key wins
 
 Key features of this call include: 
@@ -95,14 +95,14 @@ Key features of this channel include:
 1. Reports sent to Field Managers on a monthly basis regarding activity in the channel with reminders to contribute to the channel
 
 #### Best Practices for Managers+ 
-When using this channel, Field managers+ should keep these best-practices in mind: 
+When using this channel, Field managers+ should keep these best practices in mind: 
 1. **Take the lead.** When your team member has a big win, let them know that you will be the one to post a congratulatory message because you also want to recognize *them*. Asking for their help to gather all names and details is okay, but remember to proactively take the lead on giving your team member recognition, in addition to all of the team members who helped them.  
 1. **Be inclusive.** It takes a team to succeed – tag all team members who played an important role in the win/behavior that you are recognizing.  
 1. **Give recognition often.** Don't wait until the end of the quarter to recognize your team members – provide recognition as the activity happens, and provide it often. 
-1. **Share best-practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  
+1. **Share best practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  
 
 #### What is the difference between #deal-gratitude and #thanks? 
-The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated to recognizing team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks", it is not limited to it. Posts in this channel should also share best-practices and lessons-learned so that the outstanding behaviors recognized are repeatable by peers.
+The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated to recognizing team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks," it is not limited to it. Posts in this channel should also share best practices and lessons learned so that the outstanding behaviors recognized are repeatable by peers.
 
 **When to use #deal-gratitude**
 
@@ -115,7 +115,7 @@ The #thanks is a channel for any team member to thank anyone for contributions i
 
 **When to use #thanks**
 
-1. Giving thanks exclusively to team members outside of Sales. (i.e. Team member wants to thank Product for releasing a meaningful feature that is crucial in a deal.)
+1. Giving thanks exclusively to team members outside of Sales (i.e. team member wants to thank Product for releasing a meaningful feature that is crucial in a deal).
 1. General thanks around coffee chats, meetings, answered questions, assisting fellow team members, troubleshooting, manager appreciation, etc.
 
 ### Additional Resources for Recognition
