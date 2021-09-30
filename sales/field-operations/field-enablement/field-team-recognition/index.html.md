@@ -87,7 +87,7 @@ See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsh
 
 It is up to managers to uphold a steady drumbeat of recognition for their teams. Field Managers consistently asked for a better forum to recognize their team members publicly. 
 
-As a result, we launched the #deal-gratitude channel as a forum for managers to provide recognition and share best-practices specifically related to Sales deals in a public channel rather than in a specific team channel or meeting. 
+As a result, we launched the #deal-gratitude channel as a forum for managers to provide recognition and share best-practices specifically related to sales deals, customer support/expansion and channel & alliances momentum in a public channel rather than in a specific team channel or meeting. 
 
 Key features of this channel include: 
 1. Public channel
