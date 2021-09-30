@@ -17,6 +17,7 @@ The Frontend Engineering Manager specializes in Frontend Engineering Management 
 * Foster technical decision making on the team, and make final decisions when necessary
 * Discern engineering metrics and seek to improve them
 * May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 
 ## Requirements

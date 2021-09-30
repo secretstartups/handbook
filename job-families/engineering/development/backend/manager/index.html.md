@@ -23,6 +23,7 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 * Draft quarterly OKRs and [Engineering KPIs](/handbook/business-ops/data-team/metrics/#engineering-kpis)
 * Improve product quality, security, and performance
 * May have more than one specialty on their team, per our [shared manager team](/handbook/engineering/#starting-new-teams) concept
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 * Ability to use GitLab
