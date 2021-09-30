@@ -110,6 +110,10 @@ A great way to look at how specific groups of pages are performing is available 
 
 We use Google Tag Manager(GTM) to simplify activity tracking on about.gitlab.com with Google Analytics. This documents the system the Digital Marketing Programs team uses with our Google Tag Manager container.
 
+#### Data Attributes
+
+Previously, GitLab use to track GTM through the use of various CSS classes. This has been an issue, as it obfuscates what is being tracked and why. To add some clarity, we *highly recommend* GitLab team members to start using [data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes). 
+
 #### Naming convention
 
 We use semantic names for tags, triggers, and variables to make it simpler to determine what these components are supposed to do. Use an em dash (shift+option-_) to divide the components of each GTM component name.
