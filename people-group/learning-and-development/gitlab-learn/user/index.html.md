@@ -139,15 +139,19 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
 
 ### Using the Manager Dashboard
 
-GitLab managers can use the Manager Dashboard feature to track learning progress of their direct reports. Find the dashboard by clicking on the navigation waffle then choose `Manager Dashboard`.
+GitLab managers can use the Manager Dashboard to track learning progress of their direct reports who've added them as their manager in GitLab Learn. Find the dashboard by clicking on the navigation waffle then choose `Manager Dashboard`.
 
-{Embed infographic here: https://www.canva.com/design/DAEpW-9XIb8/Z3yfDHwBPWhMRmoYkXcxRw/view?utm_content=DAEpW-9XIb8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton}
+Managers can encourage their team to add their managers to GitLab Learn by going to `My Dashboard` -> `My Organization` then adding their manager.
+
+![example of auto PTO reports](manager-dash.png)
 
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
 
-{To Do: Add short video explaining manager dashboards} - Read the [Metrics Overview] section below if you prefer to read this material.
+{To Do: Add short video explaining manager dashboards} - 
 
-#### Important tips
+**Read the [Metrics Overview] section below if you prefer to read this material.**
+
+#### Important tips for managers
 
 1. Click on team members photo in each tabe to filter data by team membr
 1. Use the `date` and `assignments` filters in the top right hand corner of the report to set date restrictions
@@ -178,21 +182,10 @@ Managers can see the following metrics on their dashboard for their direct repor
 | Assignments Overdue | Number of assignments made to direct reports not completed by due date | Follow up/reminder required |
 | Cards Shared | Total cards shared with other users | Engagement metric |
 | Top Learning Goals | Top learning goals from direct reports | Learning needs analysis |
-| Top Skills | TBD | TBD | {still don't know this one}
 | % completed of courses | Visual bar of percentage of course completed for each direct report | Learner behavior and interest |
 | Total assigned | Total assigned content to direct reports | Required content totals |
 | In Progress assignments | Number of started but not completed assignments | Reminders may be necessary |
 
-#### Automation of manager chain
-
-{setting this up is on hold until EdCast resolved key ongoing issues}
-
-1. EdCast syncs with BambhooHR to pull manager data. This automation runs on a [time/cadence].
-1. The option to edit this manager field needs to stay `on` for all users in GitLab Learn. We want to enable customer and community teams to use GitLab Learn as a group, making manager and direct report assignemnts. If we shut the feature off, then the manager features would only be accessible by the GitLab Team. [need to explore if this is what we want - ask Kendra in terms of customer user case]
-
-### Leaderboard Points
-
-{Add screenshots of points earned and reference in table above}
 
 ### User privacy in GitLab Learn
 
