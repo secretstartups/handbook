@@ -23,8 +23,6 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | DATE   | TOPIC | SPEAKERS |
 |--------|--------|--------|                      
-| Sep 23 | TBD | TBD |
-| Sep 30 | The Value of EBRs (Executive Business Reviews) | Patrick Harlan, John Wood |
 | Oct 7  | DevSecOps | Cindy Blake, Agnes Oetama |
 | Oct 14 | FY22-Q3 Product Update | Brian Glanz |
 | Oct 21 | *No sessions during the last two weeks of a quarter* | N/A |
@@ -38,6 +36,7 @@ To see what training is coming soon, view the [Sales Enablement Session issue li
 
 | **Date** | **Topic** | **Public or Private** |
 | ------ | ------ | ------ |
+| 2021-09-30 | **[Co-Selling Executive Business Reviews](https://youtu.be/1CL5YQeC8Fs)** | Private |
 | 2021-09-20 | **[NEW DevOps Platform customer deck](https://youtu.be/mtQ1HbnXjb4)** | Private |
 | 2021-09-09 | **[Bitbucket Sales Play](https://youtu.be/SjvL0hyV3Zo)** | Private |
 | 2021-09-02 | **[Verify: Testing Vision & Positioning](https://youtu.be/Zisa9Qfh8v8)** | Public |
