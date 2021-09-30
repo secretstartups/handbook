@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Marketing Career Development"
+title: "Marketing Career Development - Career Paths"
 ---
 
 ## On this page
