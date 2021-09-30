@@ -21,6 +21,7 @@ For more information about the Field Enablement team, visit the [team handbook p
 - [GitLab Monthly Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
 - [Field Google Group and Slack Channel landscape](/handbook/sales/sales-google-groups/)
    - See this link for how best to communicate with the Field team on Slack or via email. 
+- [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
 
 ## Field Communications Playbook 
 In order to streamline important announcements and reduce noise for the field team, we operate by a set Field Communications Handbook process. This playbook defines tier 1, tier 2, and tier 3 organizational announcements/changes and applies a communication roll-out plan to each. The playbook works on a matrix of two main components: 
