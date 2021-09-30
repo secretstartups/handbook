@@ -135,7 +135,7 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. Add a positive filter on `json.action` for `update`.
 1. Add a positive filter on `json.method` for `PATCH`.
 1. Add a positive filter on `json.path` for the path of the group, `gitlab-silver` in this example case.
-1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"true\"` is present, that entry was logged when SSO Enforcement was enabled by the user in the `json.username` field.
+1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"1\"` is present, that entry was logged when SSO Enforcement was enabled by the user in the `json.username` field.
 
 ##### Disable SSO Enforcement
 
@@ -146,7 +146,7 @@ Kibana can be used to find out if and when SSO Enforcement was enabled or disabl
 1. Add a positive filter on `json.action` for `update`.
 1. Add a positive filter on `json.method` for `PATCH`.
 1. Add a positive filter on `json.path` for the path of the group, `gitlab-silver` in this example case.
-1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"false\"` is present, that entry was logged when SSO Enforcement was disabled by the user in the `json.username` field.
+1. If there are any results, observe the `json.params` field. If `\"enforced_sso\"=>\"0\"` is present, that entry was logged when SSO Enforcement was disabled by the user in the `json.username` field.
 
 #### Searching Kibana for 500 level errors
 
