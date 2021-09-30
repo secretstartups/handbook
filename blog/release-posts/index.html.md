@@ -801,7 +801,7 @@ This MR has **not** been reviewed by any other TW. For this MR, you'll check thi
 When a new GitLab version is released on the 22nd, the TW Lead also sets up the release
 of the published documentation for that version.
 
-For instructions, see the GitLab docs [Monthly release process](/handbook/engineering/ux/technical-writing/workflow/release.html).
+For instructions, see the GitLab docs [Monthly release process](https://gitlab.com/gitlab-org/gitlab-docs/-/blob/main/doc/releases.md).
 
 #### Update the deprecations doc
 
