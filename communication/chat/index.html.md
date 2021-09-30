@@ -43,7 +43,7 @@ These channels (prefixed with a `a_`) are for team members to collaborate and co
 
 Many customers that require coordination across GitLab teams have dedicated channels in slack to discuss that customer's needs internally. Those channels are all postfixed with `-internal`.
 
-Commercial (Mid-Market and SMB) accounts have specific [guidelines](/handbook/customer-success/comm-sales/sales-term-glossary-engagements) around having Slack channels with customers.
+Commercial (Mid-Market and SMB) accounts have specific guidelines around having Slack channels with customers.
 
 #### Feature Channels (f_)
 
