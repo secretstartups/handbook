@@ -63,12 +63,26 @@ Explanations for the metrics below can be found on [the Product Team Performance
 - **[Stage Monthly Active Users (SMAU)](/handbook/product/performance-indicators/#stage-monthly-active-users-smau)**
 - **[Section Monthly Active Users (Section MAU)](/handbook/product/performance-indicators/#structure)**
 - **[Section Total Monthly Active Users (Section CMAU)](https://about.gitlab.com/handbook/product/performance-indicators/#structure)**
-- **[Total Monthly Active Users (CMAU)](/handbook/product/performance-indicators/#structure)**
+- **[Combined Monthly Active Users (CMAU)](/handbook/product/performance-indicators/#structure)**
 
 Each metric has three different versions (Recorded, Estimated, Projected), explained on
   - [the Product Team Performance Indicator page](/handbook/product/performance-indicators/#three-versions-of-xmau)
   - [the Sisense Style Guide](/handbook/business-ops/data-team/platform/sisense-style-guide/#recorded-and-calculated-data)
 Currently, recorded metrics that have identified usage ping metrics have been charted on the Centralized Dashboard, but we are working on our first version of Estimated values [in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/6547#note_429610192).
+
+#### How xMAU are calculated ?
+
+xMAU is calculated mainly thanks to Service Ping Data source. When the project started, stage and group Product Managers chose one specific service ping metric which produces their xMAU charts.
+
+- [list of GMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468487&udv=1146726)
+- [list of SMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468482&udv=1146726)
+
+
+The current SSOT for the xMAU metrics is [this spreadsheet](https://docs.google.com/spreadsheets/d/1_b-BoKfrt2iH1dYUMYBxSw_CFpYiQ2W84XD3-AnfuwY/edit?usp=sharing) which is imported via Sheetload to our datawarehouse. That means that when updating the GMAU, SMAU columns for a specific metrics, the changes will propagate downstream to the xMAU charts updated in the handbook.
+
+There is a plan for migrating this SSOT from this spreadsheet to the dictionary YAML files, [work to do is in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/10106).
+
+If you have more questions on the metrics definition, you should ask the Product Intelligence team. They are currently maintaining a Metric dictionary available [here](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/). Also if the metrics are database calculations, they are able to provide you with the SQL query run to generate the metrics value.
 
 #### Difference between xMAU and Paid xMAU
 
@@ -97,7 +111,53 @@ _Notes_:
     * Unfortunately, this is not doable for every single counter. [Redis counters](https://docs.gitlab.com/ee/development/usage_ping/#redis-counters) are NOT SQL-generated counters. They also track actions that are not in the Postgres DB such as pageviews, or frontend interactions.
   * Therefore, only some metrics can be recreated using the Gitlab.com Postgres Replica. That means that for now, we are not able to calculate some of the SaaS Paid xMAU metrics like the Monitor Stage.
 
-\*\*\*: To calculate paid xMAU on Self-Managed we use the `edition` field in the [Usage Ping Payload](https://docs.gitlab.com/ee/development/usage_ping/#example-usage-ping-payload), selecting only usage pings with `EEP`, `EES` and `EEU` edition. The edition value is derived from the [plan column in the license table in the licenseDot database at the time the license was generated](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474)
+\*\*\*: To calculate paid xMAU on Self-Managed we use the `edition` field in the [Usage Ping Payload](https://docs.gitlab.com/ee/development/usage_ping/#example-usage-ping-payload), selecting only usage pings with `EEP`, `EES` and `EEU` edition. The edition value is derived from the [plan column in the license table in the licenseDot database at the time the license was generated](https://gitlab.com/gitlab-data/analytics/-/issues/7257#note_464118474). That means that currently we don't exclude EDU/OSS subscriptions from the paid xMAU calculations.
+
+### Data Sources
+
+Based on the explanations above, the 2 main data sources we are using are:
+
+- Service Ping Data Source
+- Gitlab.com Data Source
+
+### Data marts
+
+We have built a suite of datamarts that allow users to explore our different product data sources.
+
+#### Mart Service Ping Usage Ping Data
+
+The `mart_service_ping_product_usage_data` is the most comprehensive data model for all Service Ping data. This data model joins together Service Ping data with financial and GTM data sources such as subscription, CRM Account...
+
+This allows users to retrieve usage data for all monthly and all-time metrics which are [defined here](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html)
+
+#### Mart Estimated xMAU
+
+The mart `mart_estimated_xmau` is built in order to generate easily the estimated XMAU PIs. This model contains all the estimation logic which is explained [in this page](/handbook/business-technology/data-team/data-catalog/xmau-analysis/estimation-xmau-algorithm.html).
+
+End-users can then use very simple charts to create their estimated xMAU chart:
+
+```
+SELECT 
+reporting_month,
+product_tier,
+SUM(estimated_monthly_metric_value_sum)
+FROM common_mart_product.mart_estimated_xmau
+WHERE xmau_level = 'SMAU' AND stage_name = 'create'
+GROUP BY 1,2```
+```
+
+A `mart_paid_estimated_xmau` datamart has been created to construct specifically paid xMAU charts
+
+### Service Ping Data Pipeline
+
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/7ccc1e4a-75fd-4d9f-bd80-8268c5d267b8" id="XKD2Se~QQWM_"></iframe></div>
+
+### Sisense Snippets for Product Managers
+
+We created [another page](/handbook/business-technology/data-team/data-catalog/xmau-analysis/product-manager-toolkit.html) which contains a comprehensive list of all the snippets that were created for Product Managers. We recommend you read this page for more information about this topic.
+
+We also [created this dashboard](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations) 
+📊, full of examples on how to use these snippets.
 
 #### How to update targets for a specific xMAU chart using these snippets ?
 
@@ -185,112 +245,6 @@ For all embedded PI/xMAU charts using our standardized snippets and visualisatio
 ![target](/handbook/business-ops/data-team/data-catalog/xmau-analysis/images/target_change.png)
 1. Click the Save Button
 ![save](/handbook/business-ops/data-team/data-catalog/xmau-analysis/images/save_chart.png)
-
-
-### Data Models and Snippets
-
-We created 2 different data solutions:
-- The [xmau_202011 snippet](https://app.periscopedata.com/app/gitlab/snippet/xmau_202011/5539c0e26d2d4b0aad82a176896d2d2f/edit) that allows PMs to chart quickly their XMAU metric to put in my group/personal dashboard or embed them in the Dashboard: [More info here]()
-- The [mart_monthly_product_usage table](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_monthly_product_usage). If PMs want to investigate more into the data, understand who their top users are, or break down the results by some other dimensions (size of the deal, size of the company, product tier...).
-
-The Product Adoption Dashboard is created using 1 main snippet:
-
-
-<!-- I would recommend changing the sql snippet to a view so people can see what the data looks like when they click on this link by hitting run  -->
-#### [xmau_202011](https://app.periscopedata.com/app/gitlab/view/xmau_202011_example_all_tmau_view/5e845ed76f574567b892ecc8cd0ebfdb/edit)
-
-NB: The link redirects you to a Sisense View using this snippet. By hitting the `RUN SQL` button, you will be able to see the dataset.
-
-Some examples would help understand better the following explanations:
-
-- [Estimated CMAU for Dev Section](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690026&udv=0)
-- [Estimated Paid GMAU for Release Management Group](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690032&udv=0)
-- [Estimated SMAU for Plan Stage by edition](https://app.periscopedata.com/app/gitlab/602123/Data-For-Product-Managers:-Supporting-Dashboard?widget=10634308&udv=953103)
-
-This  snippet is mainly used to give estimated value for [estimated and recorded XMAU](https://app.periscopedata.com/app/gitlab/793297/xMAU-Analysis-Workflow---Example-Queries-and-Visualisations?widget=10690035&udv=0).
-
-You need to declare 4 parameters to use it succesfully:
-
-- **xmau_type**: to decide if you want to show All XMAU data or paid only. Values accepted are *'All'* or 'paid'
-- **xmau_level**: to choose among one of these values: `'CMAU'`, `'UMAU'`, `'SMAU'`, `'GMAU'`
-- **filter**: this depends on the value chosen for xmau_level:
-  - CMAU: you can declare ``All`` or choose a section name (camel case, possible values are `'dev'`, `'enablement'`, `'ops'`, `'secure_protect'`)
-  - SMAU: you can either choose a section name (camel case, possible values are `'dev'`, `'enablement'`, `'ops'`, `'secure_protect'`) or a stage_name (camel_case). The list of stage_names is shown in this [table](https://app.periscopedata.com/app/gitlab/789044/Estimation-Methodology-Experimentation-Dashboard?widget=10657566&udv=0)
-  - GMAU: you can either choose a stage name (camel case, list of stage names are available here) or a group name (camel_case). The list of group names is shown in this [table](https://app.periscopedata.com/app/gitlab/789044/Estimation-Methodology-Experimentation-Dashboard?widget=10657566&udv=0)
-- **target**: this allows you to define a target line in your chart. If you leave it empty it won't return anything. You can either create a static target line by just inputting the value you with to set as your target or a dynamic target line, by puting your monthly growth target (10% for example) as a decimal value (0.1 in this specific case)/
-
-This snippet will return a compact table with a limited set of dimensions you can play with:
-
-- **created_month**: reporting month
-- **product_tier**: [see definition here](/handbook/marketing/strategic-marketing/tiers/#overview). This is representing the product_tier the instance is on, not the product_tier of the subscription linked to the instance. ('All', 'target' are also potential values)
-- **delivery**: SaaS or Self-Managed ('All', 'target' are also potential values)
-- **breakdown**: SaaS for delivery='SaaS'. delivery='Self-Managed' is split between `Recorded Self-Managed` and `Estimated Self-Managed`. That allows us to create XMAU charts following our design standards ([see example here](https://about.gitlab.com/handbook/product/performance-indicators/#estimated-combined-monthly-active-users-tmau)). Note that 'All', 'target' are also potential values
-- **edition**: CE, EE or SaaS ('All', 'target' are also potential values)
-
-And one measure:
-
-- **mau_value**: which is the number of Active Users for the specific dimensions
-
-If you want to read more about the Estimation Algorithm, more details about the current methodology and our vision [are available here](https://mp-add-predicted-page.about.gitlab-review.app/handbook/business-ops/data-team/data-catalog/xmau-analysis/predicted-xmau-algorithm.html)
-
-
-#### [mart_monthly_product_usage](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_monthly_product_usage)
-
-This model joins together usage ping data with license, salesforce and zuora data. That means you will be able to play around with sales/financial and product data at the same time. You will be for example able to answer questions like:
-
-* Top 10 Universities who are contributing the most to plan XMAU (number of users creating issues)
-* Adoption Rate of a specific stage per month and per product tier
-* verify SMAU split by industry
-
-[The dbt model is well-documented](https://dbt.gitlabdata.com/#!/model/model.gitlab_snowflake.mart_monthly_product_usage) with a definition for each column. We also created [a dashboard which shows some questions](https://app.periscopedata.com/app/gitlab/793297/WIP:-MP-New-Product-Model---some-examples) that can be answered with this new model.
-
-Basic SQL query to plot monthly Number of Users creating an issue.
-
-```
-SELECT
-  reporting_month,
-  main_edition,
-  delivery,
-  SUM(monthly_metric_value)
-FROM legacy.mart_monthly_product_usage
-WHERE metrics_path = 'usage_activity_by_stage_monthly.plan.issues'
-GROUP BY 1,2,3
-```
-
-Basic query to extract Top 10 EDU/OSS subscriptions using the most the CI Pipelines feature:
-
-```
-SELECT
-  host_name,
-  license_id,
-  ping_id,
-  subscription_name_slugify,
-  ping_product_tier,
-  main_edition,
-  monthly_metric_value
-FROM legacy.mart_monthly_product_usage
-WHERE metrics_path = 'usage_activity_by_stage_monthly.verify.ci_pipelines'
-  -- snippet [last_month] is used to get the value from last calendar month only
-  AND reporting_month = [last_month]
-  AND delivery = 'Self-Managed'
-  -- is_program_subscription is a boolean flag turned to TRUE for all subscriptions which are part of the EDU/OSS Program
-  AND is_program_subscription
-ORDER BY monthly_metric_value DESC
-LIMIT 50
-```
-
-Basic query to plot monthly Number of users who created a deployments on Paid Self-Managed instances split by Salesforce Industry type
-
-```
-SELECT
-  reporting_month,
-  IFF(ultimate_parent_industry IS NOT NULL, ultimate_parent_industry, 'Unknown') AS ultimate_parent_industry,
-  SUM(monthly_metric_value)
-FROM legacy.mart_monthly_product_usage
-WHERE metrics_path = 'usage_activity_by_stage_monthly.release.deployments'
-  AND is_paid_subscription
-GROUP BY 1,2
-```
 
 ## Entity Relationship Diagrams
 One of our goals is to create a 1 model that easily provides all the data needed for analysis. As we continue to iterate on our solutions, we know that there will be information that isn't always available in this model! Here's where understanding the Entity Relationship Diagram helps. This model shows what tables are joined to create the layer you are accessing. This is really when you are looking to dive deeper and gain additional insight!
