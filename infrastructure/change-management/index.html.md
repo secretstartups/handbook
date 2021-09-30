@@ -238,7 +238,7 @@ There are 2 types of PCLs: soft and hard.
 ### Soft PCL
 
 Soft PCLs aim to mitigate risk without halting all changes to production.
-Soft PCLs prohibit infrastructure changes with a criticality level of 2 or higher. In case of an emergency, the EOC should interact with the IMOC for C1 and C2 changes.
+Soft PCLs prohibit infrastructure changes with a criticality level of 2 or higher. In case of an emergency, the EOC should interact with the Incident Manager On Call for C1 and C2 changes.
 
 During the soft PCL, code deployments to canary are allowed since we have tools to control canary impact. Production deployments are allowed for lower criticality items (C3/C4) in coordination with the EOC.
 These items include high priority code deployments (impactful bugs, security fixes).
@@ -246,8 +246,8 @@ These items include high priority code deployments (impactful bugs, security fix
 ### Hard PCL
 
 Hard PCLs include code deploys and infrastructure changes for every criticality level (see [change severities](/handbook/engineering/infrastructure/change-management/#change-severities)).
-In case of an emergency, the EOC should interact with the IMOC prior to making any decision.
-It is at EOC and IMOC discretion to make a decision on whether a change should be approved and executed. If the change is approved, IMOC should inform the VP of Infrastructure of this decision (who will inform the executive team as necessary).
+In case of an emergency, the EOC should interact with the Incident Manager On Call prior to making any decision.
+It is at EOC and Incident Manager On Call discretion to make a decision on whether a change should be approved and executed. If the change is approved, Incident Manager On Call should inform the VP of Infrastructure of this decision (who will inform the executive team as necessary).
 
 ## Feature Flags and the Change Management Process
 
