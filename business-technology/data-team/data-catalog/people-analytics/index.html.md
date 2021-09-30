@@ -25,11 +25,11 @@ The study of people at work! Human resource departments are flipping their appro
 
 ## Generic Rules and Guidance
 
-- The people team should be able to do their daily work within the operational software (BambooHR, Greenhouse, etc.).
-- People Data in the warehouse should be for reporting general People information “up and out” in the organization.
-- Should always know the roles and users that have access to the data from “cradle to grave” to understand the risk.
+- The People Group should be able to do their daily work within the operational software (BambooHR, Greenhouse, etc.).
+- People data in the warehouse should be for reporting general People information “up and out” in the organization.
+- Always know the roles and users that have access to the data from “cradle to grave” to understand the risk.
 - Only what is needed for reporting should be brought into the data warehouse and leave other potentially sensitive data in the operational tools.
-- When possible anonymize sensitive data that is used in metic calculations and reporting to reduce risk.
+- Anonymize sensitive data that is used in metic calculations and reporting to reduce risk when possible.
 
 
 ## People Data Sources
