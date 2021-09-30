@@ -58,14 +58,14 @@ Incident reviews second step is engaging with the customer, through the point of
 
 1. The TAM team reviews the findings provided in an async form.
 1. If the information is not available in async form, the TAM team can engage with Infrastructure management on expected review authoring timelines.
-1. IMOC provides TAM published review. IMOC can also include a recording of the review, if the recording does not contain sensitive information.
-1. TAM communicates to IMOC whether their customer(s) would like a synchronous review and the TAM schedules a review with the customer.
+1. Incident Manager provides TAM published review. Incident Manager can also include a recording of the review, if the recording does not contain sensitive information.
+1. TAM communicates to Incident Manager whether their customer(s) would like a synchronous review and the TAM schedules a review with the customer.
 1. TAM facilitates Customer access to the review and the Customer can add a set of questions prior to the meeting and all participants can collaborate on any changes or additions to corrective actions.
 
 ## Incident Review Timeline
 
-1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC and IMOC are assigned](#incident-review-issue-creation-and-ownership).
-   1. IMOC and EOC invite stakeholders for involvement in authoring the incident review via an @ mention of their GitLab handle in the incident issue. This can include one of more of:
+1. **Immediately following the incident**: The incident review is started in the original incident issue and the [EOC and Incident Manager are assigned](#incident-review-issue-creation-and-ownership).
+   1. Incident Manager and EOC invite stakeholders for involvement in authoring the incident review via an @ mention of their GitLab handle in the incident issue. This can include one of more of:
        1. The **Quality-engineering team**, in order to look for improvements to the QA process could have mitigated or reduced the length of the incident.
        1. The **Delivery team**, when release processes contributed to the incident.
        1. The **Scalability team**, when scaling bottlenecks contributed to the incident.
@@ -86,7 +86,7 @@ Incident reviews second step is engaging with the customer, through the point of
 Incident Reviews are conducted in the incident issue and their workflow is tracked on the [Production Incidents Board](https://gitlab.com/gitlab-com/gl-infra/production/-/boards/1717012?label_name[]=incident).
 
 1. Every incident and its review must be assigned a DRI. The DRI is the Engineer on Call (EOC).
-   1. The Incident Manager on Call (IMOC) is also assigned to the issue.
+   1. The Incident Manager is also assigned to the issue.
 1. The output of an incident review should include one or more issues labeled `~Corrective Action`.  Labeling and linking existing issues as corrective action is appropriate.
 1. The DRI is responsible for selecting and assigning corrective actions that should be prioritized and resolved within a specific timeframe.
    1. Check the `Target SLO` for `~Corrective Action` in this table:
@@ -109,9 +109,9 @@ Incident review sessions are open on the GitLab Team Meetings calendar with the 
 1. Tuesdays at 13:30 - 14:20 UTC
 1. Tuesdays at 22:00 - 22:50 UTC
 
-The assigned IMOC is responsible for adding it to the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#).
+The assigned Incident Manager is responsible for adding it to the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#).
 
-GitLab team members are encouraged to review the issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments. The IMOC assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be achieved by inviting them to the Google Calendar event for when the incident will be discussed, posting in their teams' Slack channels, at-mentioning them in the issue, and assigning them directly in the Google Doc&mdash;or some combination of those options. If the participation from stakeholders outside of Infrastructure department in either the async or sync review is not sufficient to create sufficient understanding of the situation and corrective actions, the IMOC will q the [infradev process](/handbook/engineering/development/#continuous-delivery-infrastructure-and-quality-collaboration) and escalate to the appropriate stakeholders.
+GitLab team members are encouraged to review the issues listed in the [agenda](https://docs.google.com/document/d/1Llm9tXHC2dNt_eercRUUXlUyWmOVw00wmXWQQbWvv2c/edit#) and add questions/comments. The Incident Manager assigned to a review is responsible for ensuring that stakeholders outside of Infrastructure are aware of the review. This can be achieved by inviting them to the Google Calendar event for when the incident will be discussed, posting in their teams' Slack channels, at-mentioning them in the issue, and assigning them directly in the Google Doc&mdash;or some combination of those options. If the participation from stakeholders outside of Infrastructure department in either the async or sync review is not sufficient to create sufficient understanding of the situation and corrective actions, the Incident Manager will q the [infradev process](/handbook/engineering/development/#continuous-delivery-infrastructure-and-quality-collaboration) and escalate to the appropriate stakeholders.
 
 The purpose of these sessions are to encourage discussion, asking questions and ensure that all aspects of the incident are reviewed, including:
 
@@ -124,7 +124,7 @@ The purpose of these sessions are to encourage discussion, asking questions and 
 
 ## Updating the GitLab SaaS Infrastructure Meeting
 
-In order to circulate the findings of the incident review across a wider audience, the IMOC should include a link to completed incident reviews in the [GitLab SaaS Infrastructure meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) [agenda](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#).
+In order to circulate the findings of the incident review across a wider audience, the Incident Manager should include a link to completed incident reviews in the [GitLab SaaS Infrastructure meeting](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) [agenda](https://docs.google.com/document/d/1fLQQBKt0mShmTk_mJ-BmBM6OFjal63-AH7yKSbMg6_s/edit#).
 
 ---
 
