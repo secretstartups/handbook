@@ -89,12 +89,13 @@ One thing to consider when a DRI needs to give or receive feedback is that they 
 
 Giving or receiving feedback is tough and we have looked at this in our previous [Guidance on Feedback Training](/handbook/people-group/guidance-on-feedback/). See also GitLab's [guide to communicating effectively and responsibly through text](/company/culture/all-remote/effective-communication/). 
 
-## RADCIE
+## DRI, Consulted, Informed (DCI)
 
 Different organizations use different methods of assigning responsibility; one of the most popular is the [RACI Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix), which outlines who the Responsible-Accountable-Consulted-Informed people should be on a decision or project.
 
-GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to RADCIE. 
-The **Responsible** and **Accountable** person is the **DRI**, and given that **[Everyone Can Contribute](/company/mission/#mission)**, the **Consulted** and **Informed** people are **Everyone**.
+GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to DCI (DRI, Consulted, Informed).
+
+The **Responsible** and **Accountable** person is the **DRI**, the **Consulted** people are those whose opinions are sought, typically subject-matter experts; and with whom there is two-way communication. and **Informed** people are those who are kept up-to-date on progress, often only on completion of the task or deliverable; and with whom there is just one-way communication. Given that **[Everyone Can Contribute](**/company/mission/#mission**)**, **Informed** people also includes **Everyone**.
 
 # Circumstances Requiring the Rare Need for Approvals
 
