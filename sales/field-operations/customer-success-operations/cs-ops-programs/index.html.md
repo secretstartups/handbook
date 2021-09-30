@@ -142,6 +142,22 @@ You may request new programs, such as an email series, contribute to existing pr
 
 CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
 
+## Request a customer program using the Research Template
+
+TAMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases.
+
+This template is designed to walk you through the questions to ask customers to create the most effective programs.
+
+**To create a Program Research issue**:
+
+1. Navigate to the [CS Ops Issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
+1. Create a new issue.
+1. Select the `CS Programs Research Template` from the dropdown menu.
+
+This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
+
+Once the issue is assigned, CS Programs and Technical Writing will begin work on the new program.
+
 ## Create a CTA with a Digital Program playbook
 
 Program emails intended to be sent as a sequence have been added as [playbooks](/handbook/customer-success/tam/gainsight/#ctas) in Gainsight. These need to be sent manually by the TAM. They are set up to facilitate reminders and make this process easy, while we learn how customers want to engage.
