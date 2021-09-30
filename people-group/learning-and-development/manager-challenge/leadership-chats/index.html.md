@@ -11,7 +11,7 @@ title: Leadership Chats
 
 ## Introduction
 
-Leadership Chats are monthly calls for people leaders at GitLab. All people leaders at GitLab are invited to join these calls. The sessions will not be recorded or shared. The goals of these synchronous sessions include:
+Leadership Chats are monthly calls for people leaders at GitLab. All people leaders at GitLab are invited to join these calls. The sessions will not be recorded nor shared. Goals of these synchronous sessions include:
 
 1. Provide a safe space for managers at GitLab to connect across teams about leadership topics
 1. Build connections and mentor relationships between new and existing managers
@@ -22,12 +22,12 @@ Leadership Chats are monthly calls for people leaders at GitLab. All people lead
 
 Some topics that managers can expect to discuss during these sessions include:
 
-1. Challenges faced as a manager of a all-remote team
-1. Crucial conversations: how to have them, what works, what doesn't
+1. Challenges faced as a [manager of an all-remote team](/company/culture/all-remote/being-a-great-remote-manager/)
+1. [Crucial conversations](/handbook/leadership/crucial-conversations/): how to have them, what works, what doesn't
 1. Work and life balance as a manager
-1. Professional development as both a manager and for direct reports
-1. Enabling GitLab culture
-1. Relationship and trust building
+1. [Professional development](/handbook/people-group/learning-and-development/career-development/) as both a manager and for direct reports
+1. Enabling [GitLab culture](/company/culture/#culture-at-gitlab)
+1. Relationship and [trust building](/handbook/leadership/building-trust/)
 1. More topics proposed on the leadership call [issue board](https://gitlab.com/gitlab-com/people-group/leaders-leancoffee-topics/-/boards/965643)
 
 
@@ -57,7 +57,7 @@ Note: Due to a planned commitment by the L&D team, the first session will be hel
 
 ## Attendance
 
-Leadership Chats are on the GitLab Team calendar. If you're having trouble finding the meeting, reach out to the L&D team in the [learning and development Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for support. 
+Leadership Chats are on the GitLab Team calendar. If you're having trouble finding the meeting, reach out to the L&D team in the [learning and development Slack channel](https://app.slack.com/client/T02592416/CMRAWQ97W) for support. Team members can also submit an [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#slack-google-groups-1password-vaults-or-groups-access-requests) to be added to the `managers@gitlab.com` email group so you can attend the Leadership Chats. 
 
 Since the meetings are not recorded, you can review the [meeting agenda](https://docs.google.com/document/d/1Hq9CykJn3EvYI5XblntORSIaheCdmyqYsqiHdrlHbHE/edit) to catch up on missed conversations.
 

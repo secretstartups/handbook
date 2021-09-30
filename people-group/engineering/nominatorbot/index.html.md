@@ -22,8 +22,7 @@ will be stored in a database and is sent through Slack to the nominee's manager.
 
 The manager can then decide to approve or reject this nomination. 
 
-On approval, the bot will send this nomination to the second level manager, People Business Partners and Total Rewards
-team. Each of them have to approve. On the final approval, it is added to BambooHR in the
+On approval, the bot will send this nomination to the second level manager and the People Group. Each of them have to approve. On the final approval, it is added to BambooHR in the
 bonus table. The nominator AND the manager of the nominee are also updated about a final approval.
 The manager will receive a message with the full nomination and will be asked to share this with the
 nominee and to share it in the #team-members-update channel on Slack.
@@ -64,9 +63,16 @@ the nominations you've reviewed and their current status.
 ## Frequenty asked questions
 
 ### How can I nominate someone?
+
 Anywhere in Slack, just type `/nominate` and a modal should open where you can submit the form. 
 Alternatively, you can go to the Home tab of the `Nominator` and click the `Nominate!` button. This 
 will do the same as when you just type `/nominate`. 
+
+### I don't seem to be able to submit my nomination?
+
+Sometimes people report that Slack does not allow them to submit the nomination. Please make sure to
+check you've filled in all the fields. It's not always clear you need to scroll down to fill in the 
+`How does this meet the criteria?` question as well.
 
 ### I nominated someone recently and I still haven't heard back?
 
@@ -82,8 +88,7 @@ The status is what you can use to see where the nomination might be stuck. Diffe
 
 - Waiting for manager approval: this means that the manager of the nominee has not approved it yet. 
 - Waiting for second level approval: this means that the manager of the manager of the nominee has not approved it yet.
-- Waiting for People Business Partner approval: this means that the relavant People Business Partner of the nominee has not approved it yet
-- Waiting for Total Reward approval: this means that someone from the Total Rewards team still need to approve it
+- Waiting for People Group approval: this means that someone from the People Group team still need to approve it
 
 There are also the following statuses, although at this point the nomination approval flow is wrapped up:
 - Rejected: sadly the nomination was rejected. The bot doesn't reach out when this happens, as we ask the rejector to reach out
@@ -99,6 +104,7 @@ If all of the above doesn't help you move the process forward, feel free to reac
 We will need the name of the nominee, please only do this in DM.
 
 ### I approved a nomination but I haven't heard back?
+
 First thing to note is that only the manager of the nominee will hear back when the nomination is fully approved. So if you're the second level approver, you will not get any notifications.
 
 However, every approver will have a section in the Nominator's Home tab on Slack where they can see all the nominations they've approved. 

@@ -19,7 +19,7 @@ Use this content library as a resource whenever you're acting as a talent ambass
 
 | Fact | To date 2021-03 |
 | ------ | ------ |
-| Headcount | 1,300+ |
+| Headcount | 1,400+ |
 | Countries | 65+ |
 | Remote team members | 100% |
 | Pets | 300+ |
@@ -28,7 +28,7 @@ Source: [GitLab team page](/company/team/)
 
 ## Key messages about life at GitLab
 
-- We're the largest all-remote company in the world, and we've intentionally built our culture this way from our founding year.
+- We're one of the largest all-remote companies in the world, and we've intentionally built our culture this way from our founding year.
 - GitLab is a place where you can contribute from almost anywhere around the globe.
 - We have an incredibly unique culture and working environment that's unlike any company you've experienced. This is an ambitious, productive team that embraces a [set of shared ​values and behaviors](/handbook/values/)​ in everything we do.
 - More about [life at GitLab and our culture](/company/culture/).

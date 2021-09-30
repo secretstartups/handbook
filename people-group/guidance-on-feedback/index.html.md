@@ -150,7 +150,7 @@ Consider:
    * For Example: "You always." "You never show up to meetings on time.") 
 1. Feedback should be both positive and constructive 
    * It is recommended to use a 4:1 ratio of positive to constructive 
-1. Use the Situation-Behavior-Impact (S-B-I) Model
+1. Use the [Situation-Behavior-Impact (S-B-I) Model](#s-b-i-model)
 1. Allow the feedback receiver time to reflect 
 
 ## All Feedback 
@@ -166,6 +166,8 @@ The Situation-Behavior-Impact (S-B-I) Model helps structure feedback in a manner
 **Behavior** -  Describe the observable behavior and how it was applied.
 
 **Impact** - Describe how the other person’s action affected you or others experiences and thinking.
+
+For a more in-depth look at how to apply this model see [The Situation-Behavior-Impact-Feedback Framework](https://medium.com/pm101/the-situation-behavior-impact-feedback-framework-e20ce52c9357), an external blog post that has a bit more detail and some examples.
 
 ### Cross-Cultural Feedback Considerations
 

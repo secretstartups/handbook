@@ -39,7 +39,7 @@ The program proposes a mentor/mentee relationship between selected applicants on
 
 ### Coaching Panels
 
-Every 3 weeks a panelist of mentors will host a `Coaching Panel` to discuss several topics mentees indicated to be of interest as a group. There will be pre-work for mentees prior to Coaching Panels (I.E. reading an article, an expert of the first chapter of a book, etc.) to help simulate discussion and basic understanding of the topic to be discussed. We will share material to review at least one week prior to the sessions. 
+Every 3 weeks a panelist of mentors will host a `Coaching Panel` to discuss several topics mentees indicated to be of interest as a group. There will be pre-work for mentees prior to Coaching Panels (I.E. reading an article, an expert of the first chapter of a book, etc.) to help stimulate discussion and basic understanding of the topic to be discussed. We will share material to review at least one week prior to the sessions. 
 
 Coaching panels will be held over Zoom with Q&A on the identified topic. They will be moderated by the program managers. As Coaching Panels are an extension of mentorship sessions with the wider pilot group, they will not be livestreamed. 
 

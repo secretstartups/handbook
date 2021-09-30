@@ -18,12 +18,12 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
 
 ## Buddy Responsibilities
 
-1. **The first and most important thing a buddy should do is schedule a call with the GitLab team-member.** We attempt to match (as best as possible, anyway) time zones between the GitLab team-member and their buddy so that as soon as the GitLab team-member logs on, you, the buddy, can be there ready and waiting to welcome them to the team.
+1. **The first and most important thing a buddy should do is schedule a call with the GitLab team-member.** You can do this in the days leading up to a new team member starting at GitLab by asking their manager for the new starter's personal email address. Introduce yourself and ask them when a good time to schedule an initial coffee chat would be. Consider picking a time towards the end of their first day so they have time to digest some of the onboarding issue and can come to the coffee chat with questions. We attempt to match (as best as possible, anyway) time zones between the GitLab team-member and their buddy so that as soon as the GitLab team-member logs on, you, the buddy, can be there ready and waiting to welcome them to the team.
 1. **Check how far the new GitLab team-member has gotten in their onboarding / career mobility issue.** The onboarding / career mobility issue that all new/transitioning GitLab team-members are assigned can be overwhelming at first glance, particularly on the first day of work. Check to see how much, if any, the GitLab team-member has done by the time your call happens, and offer some direction or advice on areas the team member may be having trouble with.
 1. **Suggest helpful handbook pages.** Chances are that you've discovered some particularly helpful pages in the handbook during your time at GitLab. Point them out to the new GitLab team-member, and help them get used to navigating the handbook. Some examples might include:
     - [GitLab's guide for starting a remote role](/company/culture/all-remote/getting-started/)
     - [The tools page](/handbook/tools-and-tips)
-    - [The team chart](/company/team/org-chart)
+    - [The internal-only org chart](https://comp-calculator.gitlab.net/org_chart)
     - [The positioning FAQ](/handbook/positioning-faq)
 1. **Remind them about introducing themselves.** Remind the new team member to introduce themselves in the Slack channel `#new_team_members` or relevant team channel. Encourage them to write a little personal note, and if they're comfortable, include a photo or two!
 1. **Encourage them to organize a group call with other new hires.** New GitLab team-members who are used to (or prefer) a more conventional new hire orientation — frequently hosted in group settings in colocated organizations — [may feel a lack of early bonding](/company/culture/all-remote/learning-and-development/). Encourage them to organize a group call with other new hires in order to walk through onboarding together, while learning about new personalities and [departments of the company](/company/team/structure/).
@@ -31,7 +31,7 @@ Not only are buddies helpful to someone that has just started with GitLab, but a
     - Be sure to suggest [location channels](/handbook/communication/chat/#location-channels-loc_) and [Social Slack Groups](/handbook/communication/chat/#social-groups) where they can immediately plug in with other team members who appreciate similar things.
 1. **Ask where they need help and connect them with the experts**. Buddies should make the effort to connect new GitLab team-members with subject matter experts if your assigned team member requests additional help in a given area. Examples are below.
     - For new GitLab team-members who have not worked in a [remote organization](/company/culture/all-remote/) before, they may need assistance in thinking through an ideal [workspace](/company/culture/all-remote/workspace/) and embracing [informal communication](/company/culture/all-remote/informal-communication/). Consider asking seasoned remote colleagues in the `#remote` Slack channel to reach out and answer questions.
-    - If they're new to [Git](/training/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
+    - If they're new to [Git](/learn/), consider asking experts in the `#git-help` Slack channel to reach out and offer a tutorial.
     - If they're new to [Markdown](/blog/2018/08/17/gitlab-markdown-tutorial/), consider asking experts in the `#content` Slack channel to reach out and offer support.
 1. **Help with the team page.** For less technical new hires, adding themselves to the [team page](/company/team/) might feel like the most daunting task on the onboarding issue. Offer to help with the process. This doesn't necessarily have to happen on day one, but you should let them know that you're available to help if and when they need it. Consider scheduling a second meeting later in the week to walk them through [the process](/handbook/git-page-update/#11-add-yourself-to-the-team-page)
     - In particular, help them to create their SSH key as this tends to be a sticking point for many new hires. You can also show them [Lyle's walkthrough](https://youtu.be/_FIOhk03VtM).
@@ -49,7 +49,29 @@ The People Experience team will randomly select 3 winners giveaway link to order
 
 ## How Can I Become An Onboarding Buddy?
 
-Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/-/blob/master/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
+Buddy assignation is the new team member's manager's responsibility as outlined in the [onboarding issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/onboarding.md) as the very first `Before Starting at GitLab` manager task. If you have been at GitLab 3+ months and are interested in participating in the Onboarding Buddy Program, please express your interest to your manager.
+
+## Example Email Template
+
+This is an example template you can use to introduce yourself to a new team member as their onboarding buddy.
+
+```
+Hey {name}, and welcome to GitLab!
+
+My name's {your name} and I'm your Onboarding Buddy! I wanted to introduce myself and explain what my role will be in terms of your onboarding. We're really excited to have you join us.
+
+{ Talk about some of the things you've worked on at GitLab, a bit about your role and what you do for fun! Link to your personal README if you have one. }
+
+During your onboarding I will be your point of contact for any questions you have about onboarding, your role, or where to find information that you might need.
+I can also help with any technical issues like setting up the GitLab Development Kit. { Delete this line if new starter is not in Engineering Division }
+I'll also point you in the direction of some fun social channels in Slack to help you meet as many people as possible! (My personal favourites are #dog, #dad_jokes and #all-caps.)
+
+The most important thing we need to do prior to your start is to organize a coffee chat for your first day so we can get to know each other a bit and I can make sure I cover everything I need to. Do you know roughly what your working hours will be on day 1? I'll send you an invite for a Zoom call to your personal email address since your GitLab account won't be active until your first day.
+
+That's all I can think of right now, but don't hesitate to ask any questions that you might have before your start date if you would like. I'm happy to help and thrilled to have you joining us!
+
+Looking forward to meeting you and working together!
+```
 
 ## That's it!
 
@@ -63,12 +85,8 @@ That's all there is to it! Thanks for your help welcoming the newest GitLab team
 1. Go through the relevant names in the OSAT Survey [results](https://docs.google.com/spreadsheets/d/1sAaQntIaQAnj8Z1NY6WRyQGRIyIoKa_6TratKWtScdo/edit#gid=63110344) and Career Mobility Survey [results](https://docs.google.com/spreadsheets/d/1rxrtgxZUrSVHwBj3ZGtn8UUDV32juBknlx6BKQBjHTE/edit#gid=1057162945) sheet.
 1. Create a new tab in the `Onboarding Buddy Raffle Names` [spreadsheet](https://docs.google.com/spreadsheets/d/17_DKxVvT277YnJcEnN-j4Th8I_WmSAUo9GJ4Znh_xPk/edit#gid=525713889) in Google Drive for the respective quarter and add the relevant onboarding buddy names.
 1. Make a comment in the top of the spreadsheet marking which rows from the survey results are being used.
-1. Decide on the raffle date and announce in the #whats-happening-at-gitlab Slack channel.
-
-To update the swag code for the next quarter winners;
-
-1. Email merch@gitlab.com requesting the codes and specifying the amount.
-1. Identify the amount and how many times it can be used (2 time = 2 winners).
-1. Follow up in Slack if no response is received.
-1. Once a Winner/Winners have been identified post a message to the `Whats-happening-at-gitlab` channel and tag the winner/winners.
-1. Email the winners their swag code.
+1. Place all names in the wheel of names and design according to GitLab colors.
+1. Record yourself spinning the wheel of names for the winners of the raffle.
+    - (To Record yourself)[https://support.apple.com/en-us/HT208721], use Command, Shift, 5 on your keyboard to record your screen. 
+1. Post the recording and announcement of the winners in the #whats-happening-at-gitlab Slack channel - making sure to tag the winners.
+1. Once the draw has taken place, send the winners an email with the Printfection link in order to redeem their prize. The link can be found in the People Operations 1Password vault under `Gift & Flower Vendors` - `Printfection Onboarding Buddy Prize Link`

@@ -49,6 +49,11 @@ Summarized: GitLab is a complete DevOps platform, delivered as a single applicat
 This will make more sense once you understand all of the terminology.
 
 ### Terminology
+1. Open Source
+   1. **Definition:** denoting software for which the original source code is made freely available and may be redistributed and modified.
+   1. **Example:** Our GitLab [handbook](/handbook/) is open source because anyone can make changes and contribute to it.
+1. Source Code
+   1. **Definition:** a text listing of commands to be compiled or assembled into an executable computer program.
 1. Git
    1. **Definition:** is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 1. DevOps
@@ -68,29 +73,24 @@ This will make more sense once you understand all of the terminology.
 1. Weight
    1. **Definition:** allow you to get a better idea of how much time, value or complexity a given issue has or will cost.
    1. **More information on:** [issue weights](https://docs.gitlab.com/ee/user/project/issues/issue_weight.html)
+1. Local
+   1. **Definition:** your machine
+   1. **Example:** If someone says to do something locally that means to open the terminal on your computer to make a change.
+1. Branch
+   1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
 1. Merge Request
    1. **Definition:** allows you to visualize and collaborate on the proposed changes to source code that exist as commits on a given Git branch. A Merge Request (MR) is the basis of GitLab as a code collaboration and version control platform. It is as simple as the name implies: a request to merge one branch into another.
    1. **Example:** This is a [Merge Request](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/40563#0c7def9794ef444dbc7eb560126846353b630886).
 1. Commit
    1. **Definition:** a change, or set of changes, to one or more files in the source code on a given Git branch. A commit allows you to mark the project in its current state as a kind of snapshot in time.
    1. **Example:** This is a [commit](https://gitlab.com/gitlab-com/www-gitlab-com/-/commit/e539128d235c084199047788d121141777a7fe2c).
-1. Branch
-   1. **Definition:** a version of a project’s working tree. You create a branch for each set of related changes you make. This keeps each set of changes separate from each other, allowing changes to be made in parallel, without affecting each other.
 1. Markdown
    1. **Definition:** a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
    1. **Example:** Take a look at our [GitLab Markdown Guide](/handbook/markdown-guide/)
-1. Local
-   1. **Definition:** your machine
-   1. **Example:** If someone says to do something locally that means to open the terminal on your computer to make a change.
 1. SSH Key (SSH = Secure Shell)
    1. **Definition:** a cryptographic network protocol for operating network services securely over an unsecured network.
-1. Source Code
-   1. **Definition:** a text listing of commands to be compiled or assembled into an executable computer program.
 1. Terminal
    1. **Definition:** used for entering data into, and displaying or printing data from, a computer or a computing system.
-1. Open Source
-   1. **Definition:** denoting software for which the original source code is made freely available and may be redistributed and modified.
-   1. **Example:** Our GitLab [handbook](/handbook/) is open source because anyone can make changes and contribute to it.
 
 ### Most Common Terms at GitLab
 
@@ -181,7 +181,7 @@ Knowing how to search for a GitLab issue can be very helpful, especially if you 
 1. In the top right click on the search bar
 1. Type in text you want to search for and hit enter
 1. On the next screen, select the group the issue is in that you are searching for. In this instance the group is `people-group`
-1. Then, select the project the issue is in that you are searching for. In this instance the group is `gitlab-tool-training`
+1. Then, select the project the issue is in that you are searching for. In this instance the project is `gitlab-tool-training`
 1. Click on the "issues" tab under the search bar to see all issues with the text you are searching for in that specific group and project. 
 
 This [docs resource](https://docs.gitlab.com/ee/user/search/) has helpful tips on searching for an Issue.
@@ -249,8 +249,8 @@ You can search for a GitLab Merge Request in the same way as you search for a Gi
    1. Who can merge your Merge Request (MR)? - your manager should have the ability to merge (i.e. [maintainer access](https://docs.gitlab.com/ee/user/permissions.html#project-members-permissions)). If they don't have the ability to merge, they will know who you can assign it to for review/merging.
       1. If you assign your MR to someone who isn't a Maintainer, there will be a yellow triangle with an exclamation point by their picture.
    1. Soft Wrap - when you are editing your MR, you can either select soft wrap or no wrap. If you select "soft wrap" you will be able to see all of the text in one screen. If you select "no wrap" (which is the default) you will have to scroll to the right if the text on the line is wider than the page.
-   1. Squash Commits -
-   1. Delete Branch -
+   1. Squash Commits - when obtaining a merge request, there is an option to enable or disable [“Squash commits when merge request is accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/squash_and_merge.html). If enabled, it combines all your merge request’s commits into one and retain a clean history.
+   1. Delete Branch - when creating or editing your merge request, you can also select the [“Delete source branch when merge request accepted”](https://docs.gitlab.com/ee/user/project/merge_requests/getting_started.html#deleting-the-source-branch) option.
 
 ### Quiz - Lesson 3: GitLab Merge Requests
 

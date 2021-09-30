@@ -14,17 +14,17 @@ description: “Discover GitLab Learn, a Learning Experience Platform for the Gi
 
 ## What is EdCast?
 
-GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we belive [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
+GitLab uses EdCast, a Learning Experience Platform (LXP). Our EdCast instance is named [GitLab Learn](https://gitlab.edcast.com/). At GitLab, we believe [everyone can contribute](https://about.gitlab.com/company/mission/#mission), and our LXP is no different. [Everyone can contribute to GitLab Learn!](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) 
 
-You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/)
+You can read more about the mission and vision of the LXP on the [EdCast About Page](https://www.edcast.com/corp/about-us/).
 
-Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/) 
+Users of GitLab Learn can find support in our [user docs](/handbook/people-group/learning-and-development/gitlab-learn/user/). 
 
-Administrators can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/)
+Administrators can find best practices and workflows for creating and managing content in our [admin docs](/handbook/people-group/learning-and-development/gitlab-learn/admin/).
 
 ### What is a LXP?
 
-A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (Ux).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
+A learning experience platform, or LXP, is [defined by EdCast](https://www.edcast.com/corp/blog/what-is-an-lxp/#:~:text=It%20brings%20together%20internal%2C%20external,the%20content%20to%20the%20user.) as a platform that "brings together internal, external, formal and informal sources of learning and knowledge in a simple, easy to use interface (UI), driving an intuitive user experience (UX).  A key feature is that an LXP should use Artificial Intelligence and Machine Learning (AI/ML) to personalize the content to the user. An LXP should be available on the web, and on a mobile device, anytime, anywhere."
 
 ## GitLab's Long Term Strategic Vision for the LXP
 
@@ -38,6 +38,12 @@ Our long term goal for [GitLab Learn](https://about.gitlab.com/learn/) is to cre
 
 All learning handbook follows our [handbook first learning best practices](https://about.gitlab.com/handbook/people-group/learning-and-development/interactive-learning/) and aligns with our [GitLab CREDIT values.](https://about.gitlab.com/handbook/values/). The LXP is [team member](/handbook/people-group/learning-and-development/gitlab-learn/contribute/) and community driven with content on an open platform for all to consume! 
 
+### Brandon Hall Award
+
+The launch of the GitLab Learn LXP was awarded a Silver Excellence in Learning by the [Brandon Hall Group](http://www.brandonhall.com/excellenceawards/) for the Best Launch of a Corporate Learning University. 
+
+![silver brandon hall group award logo](silver-award.png){: .shadow.medium.center}
+
 #### A note about naming
 
 Review the following terms to get familiar with language used in this documentation.
@@ -45,24 +51,61 @@ Review the following terms to get familiar with language used in this documentat
 | Term | Definition |
 | ----- | ----- |
 | EdCast | The vendor we're collaborating with to create GitLab Learn. |
-| GitLab Learn | GitLab's EdCast instance |
+| GitLab Learn | The GitLab EdCast instance |
 | Learning Experience Platform (LXP) | The type of learning platform that GitLab is using to organize learning content. Learn more in the [L&D handbook](https://about.gitlab.com/handbook/people-group/learning-and-development/#gitlab-learn-edcast-learning-experience-platform-lxp) |
 
-## Content Roadmap
+## Content Catalog and Roadmap
 
-The GitLab team is excited about growing new learning opportunities for team members, partners, and our wider community on the GitLab Learn platform.
+Existing training available in GitLab Learn
 
-Future learning content coming to GitLab Learn:
+| Training title and link | Badge or Certification earned? | Audience Details |
+| ----- | ----- | ----- |
+| [GitLab Technical Writing Fundamentals](https://gitlab.edcast.com/pathways/5755275) | Badge | All Users |
+| [How to be a good Mentee and Mentor](https://gitlab.edcast.com/pathways/4347934)| N/A | All Users |
+| [GitLab Certified CI/CD Specialist](https://gitlab.edcast.com/pathways/4159230) | Certification | All Users |
+| [GitLab Certified Associate](https://gitlab.edcast.com/pathways/cy-test-pathway-associate-study-exam)| Certification | All Users |
+| [Giving Feedback](https://gitlab.edcast.com/pathways/1462159) | N/A | All Users |
+| [Managing Performance](https://gitlab.edcast.com/pathways/1461112) | N/A | All Users |
+| [User Research](https://gitlab.edcast.com/pathways/1434982) | N/A | All Users |
+| [Remote Foundations Badge](https://gitlab.edcast.com/pathways/1411408) | Badge | All Users |
+| [GitLab 201](https://gitlab.edcast.com/pathways/1411271) | Badge | All Users |
+| [Running an Effective 1:1](https://gitlab.edcast.com/pathways/1411234) | N/A | All Users |
+| [GitLab 101](https://gitlab.edcast.com/pathways/1411221) | Badge | All Users |
+| [Building High Performing Teams](https://gitlab.edcast.com/pathways/1410063) | N/A | All Users |
+| [Getting to Know Yourself and your Team](https://gitlab.edcast.com/pathways/1410038) | N/A | All Users |
+| [Jobs to be Done](https://gitlab.edcast.com/pathways/1407565) | N/A | All Users |
+| [Customer Interviewing](https://gitlab.edcast.com/pathways/1407533) | N/A | All Users |
+| [Opportunity Canvas](https://gitlab.edcast.com/pathways/1391567) | N/A | All Users |
+| [Learning Curator](https://gitlab.edcast.com/pathways/1288235) | Badge | Team Members |
+| [Develop your Rest Ethic](https://gitlab.edcast.com/pathways/1286440) | N/A | All Users |
+| [Mastering Self-Motivation and Self-Advocacy](https://gitlab.edcast.com/pathways/1245364) | Badge | All Users |
+| [GitLab Women in Leadership Course](https://gitlab.edcast.com/pathways/1245323) | Badge | All Users |
+| [Bias towards Async Communication](https://gitlab.edcast.com/pathways/1187575) | Badge | All Users |
+| [Mental Health Awareness at GitLab](https://gitlab.edcast.com/pathways/1102247) | Badge | All Users |
+| [Being Inclusive](https://gitlab.edcast.com/pathways/1087036) | N/A | All Users |
+| [Being an Ally](https://gitlab.edcast.com/pathways/1047571)| Badge | All Users |
+| [Introduction to Coaching](https://gitlab.edcast.com/pathways/1047562) | Badge | All Users |
+| [Effective Communication](https://gitlab.edcast.com/pathways/1047551) | Badge | All Users |
+| [GitLab Values](https://gitlab.edcast.com/pathways/900926) | Badge | All Users |
+| [Marketing Operations and Finance](https://gitlab.edcast.com/journey/1549542) | Badge | All Users |
+| [Marketing Campaigns](https://gitlab.edcast.com/journey/1549528) | Badge | All Users |
+| [Project Management](https://gitlab.edcast.com/journey/1549515) | Badge | All Users |
+| [Marketing Product Knowledge](https://gitlab.edcast.com/journey/1549508) | Badge | All Users |
+| [Marketing Revenue Basics](https://gitlab.edcast.com/journey/1549505) | Badge | All Users |
+| [Marketing Writing and Communication](https://gitlab.edcast.com/journey/1549500) | Badge | All Users |
+| [Marketing Analytics](https://gitlab.edcast.com/journey/1467136) | Badge | All Users |
+| [Fieldn Manager Development](https://gitlab.edcast.com/journey/1396454) | N/A | All Users |
+| [DIB Training Certification](https://gitlab.edcast.com/journey/1146370) | Badge | All Users |
+| [PSE Communication Skills](https://gitlab.edcast.com/journey/1101399) | Badge | All Users |
 
-1. Trainings for managers in an all-remote setting
-1. Advanced GitLab topics
-1. Using GitLab for projecgt management
-1. Psychological safety, bias for asynchronous communication, and more training to reinforce GitLab values
 
 
-## What will GitLab Learn do for the GitLab community
 
-GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook first continuous learning. GitLab Learn will do the following for GitLab: 
+A content roadmap for GitLab Learn will be added to this handbook page in the coming months.
+
+## What will GitLab Learn do for the GitLab community?
+
+GitLab has invested in the LXP to enable our team members, partners, customers, and the broader community a personalized, self-service learning platform to enable handbook- first continuous learning. GitLab Learn will do the following for GitLab: 
 
 - **Aggregate** all knowledge and learning content into one system for easier accessibilitiy 
 - **Curate & Create** content that is [handbook first with interactivity](/handbook/people-group/learning-and-development/interactive-learning/)
@@ -89,7 +132,7 @@ By using the LXP to administer learning, your team can:
 1. Suggest related training based on previously completed or viewed content using machine learning in the EdCast platform
 1. Enable other team members and community members to access learning content
 
-If you're a GitLab team memmber looking to collaborate with the Learning and Development team in adding content to GitLab Learn, please review the process on our [work with us handbook page](/handbook/people-group/learning-and-development/work-with-us).
+If you're a GitLab team member looking to collaborate with the Learning and Development team in adding content to GitLab Learn, please review the process on our [work with us handbook page](/handbook/people-group/learning-and-development/work-with-us).
 
 
 ## Handbook first approach to the LXP
@@ -98,7 +141,7 @@ The GitLab LXP uses a [handbook first](https://about.gitlab.com/handbook/handboo
 
 ## Governance
 
-[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles & responsibilities outlined below.
+[Implementation of the EdCast LXP](/handbook/people-group/learning-and-development/gitlab-learn/implementation) at GitLab requires cross-functional collaboration across organizations to serve various audience needs. In the spirit of driving clarity, visibility, and accountability, we've identified DRIs for the roles and responsibilities outlined below.
 
 Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
@@ -106,11 +149,11 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
 | Name | Team | Executive Sponsor |
 | ------ | ------ | ------ |
-| David Sommers | Field Enablement | David Hong |
-| Christine Yoshida | Professional Services | Michael Lutz/David Sakamoto |
-| Josh Zimmerman | L&D | Carol Teskey |
-| Alvaro Warden | Channel/Partner Enablement | Michelle Hodges | 
-| Tye David | Marketing | Todd Barr | 
+| David Somers | Field Enablement | David Hong |
+| Kendra Marquart | Professional Services | Michael Lutz/David Sakamoto |
+| Josh Zimmerman | L&D | Wendy Barnes |
+| David Somers | Channel/Partner Enablement | Michelle Hodges | 
+| Tye David | Marketing | Harsh Jawharkar | 
 
 ### Audience Workstreams
 
@@ -128,12 +171,12 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | Content look and feel | Ensuring that all content has a similar look and feel, unified across Field Enablement, Partner Enablement, Community, Marketing, L&D, etc. | Samantha Lee |
 | Legal | Alignment with legal on EdCast features and capabilities for compliance of course content | Robert Nalen |
 | Branding | Need to have an EdCast designer that develops the look and feel  that is the same for partners, customers, and team members. Need logo, name, SEO, landing page, card styles, css style files, etc. | Samantha Lee, collaborating with Tye Davis |
-| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Leee  |
+| Marketing | Coordination with marketing team on larger marketing strategy and tactics (i.e. do we have campaigns, where is the landing page, what is the SEO, how does this fit into pipeline, third party content providers (Coursera)) | Samantha Lee  |
 | Manager Functionality & Reporting | Need to determine how managers can monitor team member learning paths and dashboard of training completion | Learning and Development Team |
 | System Design | Should the owner of systems settings be organized at the highest level, not by department? | Learning and Development Team |
 | Content Strategy | Need to determine what the content categories are across the organization | TBD |
 | Content Management | Will content be managed by respective departments or will this be done a centralized level? | Learning and Development team |
-| Assessments | Standardization of assessment look and feel across the organization? | Related content owner |
+| Assessments | Standardization of assessment look and feel across the organization | Related content owner |
 | Notifications | Determine how customers, partners, and team members will receive notifications and who owns the notification process to respective parties | Learning and Development team |
 | Support | Determine how technical issues and questions about the LXP will be managed | Learning and Development and Professional Services teams |
 | `www.about.gitlab.com/learn` Alignment | Determine how the LXP will be linked with the [GitLab Learn landing page](https://gitlab.com/groups/gitlab-com/marketing/-/epics/954#note_429575616) | Tye Davis |
@@ -150,14 +193,14 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 | David Somers | Field Enablement |
 | John Blevins | Field Enablement |
 | Kris Reynolds | Field Enablement |
-| Eric Brown | Field Enablement |
 | Monica Jacobs | Field Enablement |
 | Tanuja Paruchuri | Field Enablement |
 | Kelley Shirazi | Field Enablement |
-| Issac Abbasi | Field Enablement |
+| Pallavi Daliparthi | Field Enablement |
+| Thabo Bopape | Field Enablement |
+| Emelie Rodriguez | Field Enablement |
 | Christina Hupy | Marketing Enablement |
 | Christopher Wang | Marketing Enablement |
-| Alvaro Warden | Partner Enablement |
 | Christine Yoshida | Professional Services |
 | Kendra Marquart | Professional Services |
 | Wakae McLaurin | Professional Services |
@@ -173,7 +216,7 @@ Overall LXP Implementation DRI: Josh Zimmerman Learning & Development
 
 ## Platform Roles and Permissions
 
-The EdCast platform enables creating of cutsom user roles. This section outlines our roles, identifies the permissions of each role, and provides clarity on the audience that has access to or can request these roles.
+The EdCast platform enables creating of custom user roles. This section outlines our roles, identifies the permissions of each role, and provides clarity on the audience that has access to or can request these roles.
 
 The following permissions are available on the platform and can be set to the `on` or `off` status for each role:
 
@@ -346,7 +389,6 @@ Content Adminitrators and Learning Evangelists might request support from the `P
 | ----- | ----- |
 | Kelley Shirazi | Field Enablement |
 | John Blevins | Field Enablement |
-| Issac Abbasi | Field Enablement | 
 
 #### Task examples
 
@@ -367,7 +409,7 @@ Content Adminitrators and Learning Evangelists might request support from the `P
 | Like content | Off |
 | Bookmark content | Off |
 | Mark as complete | Off |
-| Assign content | Off |
+| Assign content | On |
 | Dismiss content | Off |
 | Dismiss assignment | Off |
 | Add to pathway | On |
@@ -536,7 +578,7 @@ The `Curator` role is for GitLab team members who are intersted in curating exis
 | Change author | Off |
 | Bypass curation | Off |
 | Developer | Off |
-| Upload scorm content | | Off |
+| Upload scorm content | Off |
 | Use dynamic selection | Off |
 | Perfect your pitch | Off |
 | Copy content | Off |
@@ -563,12 +605,12 @@ The `EdGraph: Reporting Access` role allows users to view data analtyics and rep
 
 | Permissions | Status |
 | ----- | ----- |
-| Enable edgraph | On |
+| Enable EdGraph | On |
 | All other permissions | Off |
 
 #### EdGraph: Reporting Access user group
 
-Our team is working on iterating analytics management from GitLab Learn to be visable in Sisense. Right now, the implementation team has this role provisioned on their accounts. However, it will be deprecated or restricted to Platform Administrators when the transition to Sisense is complete.
+Our team is working on iterating analytics management from GitLab Learn to be visible in Sisense. Right now, the implementation team has this role provisioned on their accounts. However, it will be deprecated or restricted to Platform Administrators when the transition to Sisense is complete.
 
 #### Task examples
 
@@ -621,7 +663,7 @@ Our team is working on iterating analytics management from GitLab Learn to be vi
 | Change author | Off |
 | Bypass curation | Off |
 | Developer | Off |
-| Upload scorm content | | Off |
+| Upload scorm content | Off |
 | Use dynamic selection | Off |
 | Perfect your pitch | Off |
 | Copy content | Off |
@@ -648,6 +690,7 @@ The `Manager` role is reserved for GitLab Managers who are interested in assigni
 The `Group_Admin` role is assigned to users who manage a Group in EdCast.
 
 #### Permissions
+
 | Permission | Status |
 | ----- | ----- |
 | Create comment | Off |
@@ -689,7 +732,7 @@ The `Group_Admin` role is assigned to users who manage a Group in EdCast.
 | Change author | Off |
 | Bypass curation | Off |
 | Developer | Off |
-| Upload scorm content | | Off |
+| Upload scorm content | Off |
 | Use dynamic selection | Off |
 | Perfect your pitch | Off |
 | Copy content | Off |
@@ -708,6 +751,7 @@ The `Group_Admin` role is assigned to users who manage a Group in EdCast.
 The `Group_Admin` role is assigned to users who support the `Group_Admin` by contributing to group curation. This role is often paired with the `Curator` or `Learning Evangelist` role.
 
 #### Permissions
+
 | Permission | Status |
 | ----- | ----- |
 | Create comment | Off |
@@ -749,7 +793,7 @@ The `Group_Admin` role is assigned to users who support the `Group_Admin` by con
 | Change author | Off |
 | Bypass curation | Off |
 | Developer | Off |
-| Upload scorm content | | Off |
+| Upload scorm content | Off |
 | Use dynamic selection | Off |
 | Perfect your pitch | Off |
 | Copy content | Off |

@@ -7,5 +7,5 @@ description: "The READMEs for the People Group team at GitLab can be found on th
 ## People Group READMEs
 
 - [Ashley Jones's README](/handbook/people-group/readmes/asjones/)
-- [Trevor Knudsen's README](/handbook/people-group/readmes/tknudsen)
+- [Cassiana Gudgenov's README (People Compliance Partner)](/handbook/people-group/readmes/cgudgenov)
 

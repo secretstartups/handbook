@@ -39,7 +39,7 @@ If you want to report bugs about existing integrations, you can use any of the f
 
 #### Urgent attention
 
-We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/), the [nominator bot](https://nominatorbot.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #peopleops-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
+We have monitoring setup in case some of our applications are no longer accessible. This is the case for the [compensation calculator](https://comp-calculator.gitlab.net/), the [nominator bot](https://nominatorbot.gitlab.net/) and the [assessment tool](https://assessment.gitlab.net/). This will trigger text messages to the People Group Engineer(s). If you need our immediate attention, feel free to use our #people-connect-eng Slack channel. Avoid pinging people directly unless there is a real urgency to the matter.
 
 ### Our workflow
 
@@ -53,17 +53,36 @@ label indicating an issue's current status:
 1. `Workflow::Ready for Development`: Issues that are groomed and are ready for an engineer to begin work. They're
    well defined in terms of the problem, and have a proposal that's defined enough for us to begin work; not every detail
    needs to have been defined, but an engineer should be able to start work on this issue by reading the issue description alone.
-   - Engineers beginning work on a ready for development issue should assign the issue to themselves and move it to `Workflow::In Progress`.
+1. `Workflow::Next Up`: These issues are determined as the next ones that we should work on. We try to keep this list to about 4 / engineer
+in the team.
 1. `Workflow::In Progress`: Issues that are actively being worked on by a developer.
 1. `Workflow::Verification`: Issues that have engineering work complete and ready for evaluation. At this point, the developed solution
    should be evaluated (by the issue reporter or another stakeholder) to verify that it solves the original problem.
    - Once signed off, the issue can be closed.
 
-There are two more states an issue can be placed in:
+There are three more states an issue can be placed in:
 - `Workflow::Waiting`: Issues that are waiting from input from someone or are waiting on a dependency. These are
    issues that need input or progress from others before they can progress.
 - `Workflow::Blocked`: These issues are either blocked by another issue or by missing API endpoints. The People
 Ops Engineer always adds the reason why an issue is moved to blocked.
+- `Workflow::On Hold`: These issues are currently on hold and the requester has been informed about this. It is still an important idea but there may not be capacity or resources to move the request forward. When a change in capacity and/or resources happens, we will re-evaluate the status of the ticket.
+
+#### Triaging new tickets
+
+We have a [performance indicator](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-new-requests-are-triaged) 
+set to having new tickets being triaged within 7 working days. Everyone in the People Engineering team can triage new tickets. What we do when a new ticket comes in:
+
+- check if everything in the template is filled in, if not ask the author to fill it in and add the label `Workflow::Waiting`
+- check if we have any follow up questions for the creator, if we do, ping the author of the issue and ask them the questions, add the label `Workflow::Waiting`
+- determine the project labels (for example `~p-compensation-calculator`, `~p-assessment-tool`, etc)
+- determine the priority label (see [priorities](https://about.gitlab.com/handbook/people-group/engineering/#priorities))
+- determine the team label `PopsEng::Team::People Success`, `PopsEng::Team::People Operations`, etc). You can also find a GitLab board, with the issues sorted by team [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/3107533).
+- determine if it is a new project `~PopsEng::New Project` or a bug `~PopsEng::Bug` or an addition to an existing project or integration `~PopsEng::Addition`
+- when we have all the information needed to start working on the ticket, label it with either `Workflow::Ready for Development` or `Workflow::Next Up`
+
+Note: for bugs, we have another [performance indicator](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#people-group-engineering-bug-to-first-action)
+that requires us to take action within one working day. This is because often a bug in any of the integrations would lead to inefficiences and manual work
+for the People Group.
 
 #### Priorities
 
@@ -73,34 +92,30 @@ Before we state a ticket as fully triaged, we need to have the following informa
 - how many team members are affected by this?
 - what is the manual effort (in time) currently required to accomplish this work today?
 
-What that knowledge in mind we determine the priority of a ticket, with the following table:
+With that knowledge in mind we determine the priority of a ticket, with the following table:
 
-| Priority Level   | Compliance | Impact                       | Occurrence               | Project involved                      |
-| --------------   | ---------- |-----------------             | ---------------          |-----------------------                |
-| p1 (`~pops::p1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
-| p2 (`~pops::p2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
-| p3 (`~pops::p3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
-| p4 (`~pops::p4`) | no         | Any | daily, weekly                 | n/a                                   |
-| p5 (`~pops::p5`) | no         | Any | monthly, yearly                 | n/a                                   |
+| Priority Level               | Compliance | Impact                       | Occurrence               | Project involved                      |
+| --------------               | ---------- |-----------------             | ---------------          |-----------------------                |
+| p1 (`~PopsEng::Priority::1`) | yes        | Any                          | daily, weekly or monthly | n/a                                   |
+| p1 (`~PopsEng::Priority::1`) | no         | OKR progression              | n/a                      | n/a                                   |
+| p2 (`~PopsEng::Priority::2`) | no         | Company                      | daily, weekly            | comp calc, nom bot or assessment tool |
+| p3 (`~PopsEng::Priority::3`) | no         | Division, Department or Team | daily, weekly            | nom bot or assessment tool            |
+| p4 (`~PopsEng::Priority::4`) | no         | Any                          | daily, weekly          | n/a                                   |
+| p5 (`~PopsEng::Priority::5`) | no         | Any                          | monthly, yearly        | n/a                                   |
 
 Our issues will be labeled according to the priority level. Anything that falls outside of the table won't be labeled with a priority and will be added to our backlog and worked after priority items are completed.  As this is a first iteration, we will review those without labels to see if they should've been labeled differently and if we need to rework this table.
 
-#### Milestones
+#### Kanban
 
-We plan everything in monthly milestones. Every new milestone starts at the beginning of the month. The first day of the
-milestone the People Engineering team will post a summary of the past milestone in #people-group on Slack. This
-will contain the main items we've worked. If important issues weren't completed, this will also be communicated at that time.  
-In the same summary, we also add the big next month tickets and paste a URL to the board with the milestone.
+Currently we moved away from monthly milestone and are trying out a Kanban approach for our work. The board
+can be found [here](https://gitlab.com/groups/gitlab-com/people-group/peopleops-eng/-/boards/2641488). The column 
+`Workflow::Next Up` is the one that determines our next work.
 
-At the start of the milestone, all tickets we aim to finish within the milestone should be labeled with the `Deliverable`
-label. That way we can easily see the difference between scheduled vs unplanned work. If a `Deliverable` ticket can't be
-wrapped up during the milestone, we should communicate this as soon as possible to the stakeholders.
-
-To plan the milestone, we filter the open issues on label: `~Workflow::Ready for Development` and `Milestone=None`. Then we first take the `~pops::p1` labeled issues. If there's room for other tickets left, we go to the `~pops::p2` labeled issues and so on.
-
-There are two exceptions on the priority labels:
-- issues labeled `bug`: these should be fixed either in the current milestone or in the next one
-- issues labeled `code maintenance`: these are tickets like library updates or refactors that we need to plan in to make sure our code stays up to standards
+The People Engineering team, tries to keep that column at about 4 tickets / engineer, so it's clear what our next
+priorities are. To determine what gets moved into that column, we use our priority labels. However there are two 
+exceptions on the priority labels:
+- issues labeled `bug`: these are tickets that often need to be fixed asap as this is usual an existing project or integration that is broken
+- issues labeled `code maintenance`: these are tickets like library updates or refactors that we need to plan in to make sure our code stays up to standards and secure
 
 ### Review process
 
@@ -129,6 +144,7 @@ We've build several automations and tools to support our People Group. In the fo
 - [Inclusive Language Check on Job Families](/handbook/hiring/job-families/#inclusive-language-check)
 - [BambooHR Audit](/handbook/people-group/engineering/bamboo-audit/)
 - [People Ops Internal Handbook](/handbook/people-group/engineering/pops-internal-handbook/)
+- [People Connect Bot](/handbook/people-group/engineering/people-connect-bot)
 
 ### Uncategorized
 

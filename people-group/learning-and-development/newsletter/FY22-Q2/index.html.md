@@ -80,7 +80,7 @@ This quarter's team spotlight is on the [Team Member Relations](/handbook/people
 
    - Resolving concerns quickly and proactively helps GitLab remain an employer of choice and a success in the marketplace.  
 
-**Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue](addURL) if there is a team you would like to see featured or if you would like your team to be featured! 
+**Is there a team at GitLab you want to learn more about?** Each quarter we will feature a different team and what they do here at GitLab. Leave a comment on the [dicussion issue] if there is a team you would like to see featured or if you would like your team to be featured! 
 
 ## Upcoming in FY22-Q2 
 

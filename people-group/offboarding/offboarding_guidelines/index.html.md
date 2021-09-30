@@ -16,23 +16,13 @@ The [People Experience Associate](/job-families/people-ops/people-experience-ass
 
 ### Notice of Offboarding
 
-The offboarding process kicks off once the People Business Partner completes the [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform), which is also included in the `#offboardings` Slack channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable. `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner.
+The offboarding process kicks off once the People Business Partner completes the [Offboarding Workflow Form](https://docs.google.com/forms/d/e/1FAIpQLScBBnV7bKKVkqfTk9Aq9sfSB_r85SKTxt0_mC6RhbRwU3DtSA/viewform), which is also included in the `#offboardings` Slack channel. This workflow should include information around the offboarding type, the exact date on which it will be effective i.e. immediate or future dated and whether or not the team member in question will be placed on Garden Leave.  The team members status should immediately be updated in BambooHR to either `Notice Period` or `Garden Leave` where applicable, and thereafter set for termination using the data in the tracker as per this [process](https://about.gitlab.com/handbook/people-group/offboarding/offboarding_guidelines/#updating-bamboohr). `Notice Period` is defined as the period of work after someone has voluntarily resigned from GitLab. `Garden Leave` can be found with additional details in the [handbook](https://about.gitlab.com/handbook/people-group/offboarding/#leave-of-absence-or-garden-leave) and will be confirmed by the People Business Partner.
 
 People Business Partners are encouraged to provide reasonable notice that an offboarding will be taking place to allow for adequate planning both on the part of the People Experience Team and the Tech Provisioners involved.
 
-In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled to take place on a Friday will see issues being created at the latest 12:00pm PT at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time we encourage team members to consider either the preceding Thursday or the following Monday as an alternative.
-
-We encourage an earlier time in the day to start offboarding and in timezones where it is more effective to do so earlier (EMEA and JPAC), we'll do our best to accomodate, but not later than 12:00pm PT.  Managers and People Business Partners should account for this in their planning and communicate the same to departing team members.
+In support of the People Experience Teams efforts to remain both compliant and efficient, offboardings which are scheduled will commence at 4PM in their regional timezone (EMEA, JAPAC, and NORAM) and 12pm in their regional timezone on Friday. at which point de-provisioning will commence - in instances where it may be tricky to have cut-off initiated at this time, we encourage team members or People Business Partners to advise the People Experiece team of an updated date and time.
 
 Should the offboarding fall on a day when the People Experience Team is [unavailable](https://about.gitlab.com/handbook/people-group/people-experience-team/), The People Experience Associate will create a private Slack channel with the team member's manager and team member and discuss offboarding options. 
-
-### Creating the Offboarding Issue
-
-1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run offboarding BambooHR_ID_number` (not Employee ID #). This number is found in the team member's BambooHR profile URL, after `id=`. It is a 5-digit number. An example of the command would be `/pops run offboarding 00000`. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
-1. You will be pinged in Slack once the offboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the new offboarding issue.
-1. You will need to update the Department, GitLab Email Address and GitLab Handle within the issue.
-
-Note: If the team member is transitioning to a [temporarily positioned contractor](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
 
 ### Updating BambooHR
 1. Click on the setting gear symbol in the right hand corner and set employee to terminated, which will prompt for the following information:
@@ -44,26 +34,35 @@ Note: If the team member is transitioning to a [temporarily positioned contracto
 1. Add exit impact below Employment Status table
 1. If the team member is within their probation period, delete the "End of Probation Period" and "Active" entries. The top entry in the Employment Status table should be the "Termination" entry.
 
+### Creating the Offboarding Issue
+
+Offboarding issues are now created [automatically](https://about.gitlab.com/handbook/people-group/engineering/offboarding/#scheduled-offboarding-issue-creation) using the data from the People Exp / Ops Tracker which is provided by the People Business Partner when submitting the form. **It is essential that the date and time inserted in the tracker is accurate as this will be the time in which the employment bot will open the offboarding issue**
+
+The relevant People Experience Associate will be pinged in Slack once the offboarding issue is created, and automatically assign the People Experience Associate. The ping will include a link to the new offboarding issue.
+
+Note: If the team member is transitioning to a [temporarily positioned contractor](/handbook/people-group/general-onboarding/consultants/), please proceed with the full offboarding and create a separate onboarding issue to grant only specific temporary access for what they would need to fulfill their contractual obligations.
+
+#### Creating the Offboarding Issue Manually
+
+In the event that the offboarding issue is not automatically opened or an urgent issue is needed to be opened, the People Experience Associate can open the offboarding issue manually, by following the steps below:
+
+1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run offboarding BambooHR_ID_number` (not Employee ID #). This number is found in the team member's BambooHR profile URL, after `id=`. It is a 5-digit number. An example of the command would be `/pops run offboarding 00000`. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
+1. You will be pinged in Slack once the offboarding issue is created, which usually takes 30 seconds or so. The ping will include a link to the offboarding issue and merge request removing from team page.
+1. You will need to check the Department, GitLab Email Address and GitLab Handle within the issue is correct.
 
 ## Tools Offboarding
 
 ### Google Workspace
 
 IT Ops will follow the below steps to set up an auto-response that notifies the sender that the team member they are trying to reach is no longer with GitLab and who to contact.
-1. Add the team member to the `former_employees@gitlab.com`'s email account by selecting the dropdown icon `ˇ` in the `User information` section and adding the team member's GitLab email address.
 
-_Note: Be sure to scroll down and `Save` this change or it will not be reflected._
-1. Set up a routing rejection rule for the team member by;
-   1. Navigate to Google admin portal then Apps > Google Workspace > Gmail > Advanced settings > Routing > Routing.
-   1. Hover over the routing option and click on `Add another`. Please enter a name below the title "Routing" with `lastname firstname rejection rule`
-   1. Check the option `Inbound` and `Internal-receiving` under `Messages to affect`.
-   1. Check `Only affect specific envelope recipients` under the `Envelope filter` title.
-   1. Enter the team members's email address right below the title `Email address`.
-   1. Under the title `For the above types of messages, do the following`, please change from `Modify message` to `Reject message`.
-   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
-   1. Scroll down and click on `Add setting` and then on `Save` at the bottom (once the window closes).
+   1. Navigate to Google admin portal and search for the email account.
+   1. Unsuspend the account, reset sign in cookies, reset password, do not email the password. 
+   1. Move account into the Former Team Memebers Organizational Unit. 
+   1. Use GAM to set a Out of Office Message on the account
+   1. Add the [appropriate template](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/offboarding_rejection.md) per team member's department under the `Customize rejection notice`
 
-After 5 days, when the former team member's offboarding issue is due, IT Ops will delete their Google Workspace account now refered to as `former_username@gitlab.com`. During this process, you will receive a prompt to transfer their Google Drive Documents. Please refer to the offboarded team member's Offboarding issue to review if the manager has requested to have Document ownership already transferred to them, or if they have agreed to not receive ownership.
+The Out of Office message will stay on the account for 90 days, aftewards ITOPs will follow up and archive the account in the G-Suite vault.
 
 ### Slack
 
@@ -72,7 +71,7 @@ After 5 days, when the former team member's offboarding issue is due, IT Ops wil
 IT Ops check if the team member has created any bots before disabling the account. Go to [Slack](https://gitlab.slack.com/apps/manage) or on your admin Slack profile click Menu >> Configure Apps >> Custom Integrations >> Bots and search through the bots' list for the team member.
 If a bot exists, please DM the manager to confirm if the bot should be removed.
 
-- Custom Emoji's
+- Custom Emojis
 
 There is currently a task listed in the offboarding template for the People Experience Associate handling the offboarding to search for and remove any custom emoji for the offboarded team member. Herewith the steps to complete:
 
@@ -92,14 +91,12 @@ As per the [automation](https://about.gitlab.com/handbook/people-group/engineeri
 - Removing the picture used in the previous file
 - Adjusting the reports_to in case the offboarded team member had reports
 - Removing the pet picture in case the team member had any
+- Removing the pet page entry
 - Update the CODEOWNERS file: change to the manager or remove if the manager is already a codeowner for that file
 
 The People Experience Associate will need to complete:
 
-- Remove from any entry applicable to the team member from the pet page
 - Remove the team members ReadMe
-- Check that the image for the pet/s has been removed, if not go remove
-
 
 ## Offboarding Compliance
 

@@ -41,7 +41,7 @@ If you have been promoted to a manager role, a second challenge you might face i
 
 The key to making this transition smooth is to be inclusive and communicate with your team and external collaborators. During your first few weeks as a new manager, try to identify a few small decisions you can make fairly quickly, but defer bigger ones until you’ve been in the role longer and have time to gather input from everyone. For example, set up a new schedule and agenda for team meetings, this is a small change but it clearly establishes your role as manager. 
 
-Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/engineering/readmes/).
+Also, in the first few weeks, take actions that establish your credibility and indicate how you’ll work as a manager. One of the best ways is to meet with your team, as a group and individually, and share with them your management style or review your Manager [README](/handbook/leadership/#your-individual-readme).
 
 During this type of transition, it’s easy to become overly focused on your former peers. Don’t forget to build relationships with your new leader and schedule coffee chats with other stakeholders across the organization.
 
@@ -54,6 +54,10 @@ As a manager, you can lead your team to learn, grow and succeed. Following their
 The **[Becoming a GitLab Manager issue](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md)** is a launchpad, and it can connect you with crucial information about being a manager at GitLab. This issue is created automatically during the [career mobility process](https://about.gitlab.com/handbook/people-group/promotions-transfers/#career-mobility-issue-creation-process), however, you can also assign it to yourself (Please ensure you use your legal name in the title). It is designed to ensure you start your journey as a manager with all the resources training available.  This checklist will evolve as we iterate upon it and continue to build this program. Your contributions as a new manager are essential, please submit a merge request with ideas for improvement.
 
 If you have questions as you work your way through this checklist please ask them in [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
+
+## Becoming a GitLab Manager Issue Retrospective
+
+An important task is to create a retrospective thread within the Becoming a GitLab Manager issue, so that the team member can log any questions, comments, proposals and more about their issue. Retrospectives are used in many ways at GitLab, such as which are used after GitLab product [releases](/handbook/communication/#release-retrospectives-and-kickoffs) and describing the Product [retrospective workflow](/handbook/engineering/workflow/#retrospective). For the Becoming a GitLab Manager issue, simply comment in the issue, starting a thread titled **Retro thread** or **Retrospective**. Feel free to please ask any questions in the [#managers](https://gitlab.slack.com/messages/C5Z55R5J5/details/) Slack channel.
 
 #### Coaching remote work practices
 

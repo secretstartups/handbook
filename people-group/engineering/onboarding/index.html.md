@@ -146,7 +146,7 @@ Our team members are expected to update their BambooHR profile on their first da
 
 ## Onboarding Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/email_templates) that is sent to our team members on the morning of their first day of employment (based upon the onboarding date in the issue title). The email is cc'd to `people-exp@domain`.
 
 Every day we run 3 scheduled pipelines. They are each set up for a specific region:
 
@@ -170,7 +170,7 @@ This data is used to populate the email that we then send to them. The email add
 
 ## Swag Email
 
-This is the [email](https://gitlab.com/gitlab-com/people-group/employment-templates/-/blob/master/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
+This is the [email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/email_templates/swag_email.md) that is sent on the first day of a new team member so they receive the code to get a discount at the swag store. The email is cc'd to `people-exp@domain`.
 
 Every day at 9 AM UTC we run a scheduled pipeline. This pipeline will fetch all the eligible team members. An eligible team
 member means:
@@ -244,6 +244,13 @@ However that entry is anonymized. For every new team member, we commit a new fil
 We then create a merge request on `www-gitlab-com` project so it can be merged.
 
 The merge request is assigned to the People Experience Team and they set it to merge when the pipeline succeeds.
+
+In case team members did not fill in the required data, we won't be able to sync them. A People Experience Associate
+can later on sync them with the following Slack command:
+
+`/pops run teampageindividual <bamboo_id>`.
+
+This will spin up a pipeline and fetch the details. Note that if the team member was synced already, it will abort the sync.
 
 ## Sync to Modern Health
 [Modern Health](/handbook/total-rewards/benefits/modern-health) needs a weekly update about all our active

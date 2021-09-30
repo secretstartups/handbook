@@ -22,9 +22,13 @@ Wondering if you are doing okay with your onboarding? Need some suggestions or g
 </figure>
 <!-- blank line -->
 
-### {Insert team member name}
+### Daniel Diniz
 
-- Embed the video created once uploaded to GitLab Unfiltered YouTube Channel
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vVe2UhSgkQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 
 ## Team Member Video Process
@@ -46,4 +50,4 @@ It's great that you are wanting to share your experience, anything up to 10 minu
 ### Notes
 
 - All video's shared will be uploaded to the GitLab Unfiltered Channel and to this Handbook page. 
-- Once you have recorded your video, please reach out to the People Experience team in the [#peopleops Slack channel](https://gitlab.slack.com/archives/C0SNC8F2N) or by email: `people-exp @gitlab.com`. 
+- Once you have recorded your video, please reach out to the People Experience team in the [#people-connect Slack channel](https://gitlab.slack.com/archives/C0SNC8F2N) or by email: `people-exp @gitlab.com`. 

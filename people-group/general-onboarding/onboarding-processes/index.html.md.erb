@@ -13,7 +13,7 @@ description: "A Guide for the People Experience Team to get new team members onb
 # Onboarding Processes
 
 ## Overview
-This page is a guide for People Experience Associates when onboarding new team members. All onboarding tasks and guidelines for new team members, People Experience, and Managers are in the [People Experience Onboarding Issue](https://gitlab.com/gitlab-com/people-group/employment-templates-2/blob/master/.gitlab/issue_templates/onboarding.md). Each onboarding issue is structured with tasks for all team members (day 1 to day 5 and then week 2 to week 4) and below those task sections are listed department-specific and/or role-specific tasks.  In some cases, specific tasks may link to supplemental issues, created by specific teams, with in-depth training.
+This page is a guide for People Experience Associates when onboarding new team members. All onboarding tasks and guidelines for new team members, People Experience, and Managers are in the [People Experience Onboarding Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/blob/master/.gitlab/issue_templates/onboarding.md). Each onboarding issue is structured with tasks for all team members (day 1 to day 5 and then week 2 to week 4) and below those task sections are listed department-specific and/or role-specific tasks.  In some cases, specific tasks may link to supplemental issues, created by specific teams, with in-depth training.
 In case this is a re-hire ping the ITOps team in the #it-help slack channel to ensure there are no blockers, before creating an onboarding issue or any accounts to avoid the re-hire from having system related issues on day 1.
 
 ### Timing
@@ -22,7 +22,7 @@ On Monday and Wednesday the People Experience Associate in the `BHR Onboarding R
 
 In the event that a team member has already been synced and a new team members start date changes, it is **important** that the Candidate Experience Specialist team notifies the People Experience team by submitting a Slack form in order to re-sync the team member and update the necessary systems (Onboarding issue, PEA tracker, BambooHR, etc).
 
-People Experience Associates will create the onboarding issue, and start completing the onboarding tasks, no later than 5 days before the new team member joins. People Experience Associates require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. To ensure we create a smooth onboarding experience for new team members, provide enough time for the IT Ops team for laptop orders, and completing the I-9 process (for US-base hires) 4 days is the minimum amount of time needed. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
+People Experience Associates will create the onboarding issue, and start completing the onboarding tasks, no later than 2 weeks before the new team member joins. People Experience Associates require a minimum of 4 business days (with the new hire timezone as the basis) before the new hire's start date to complete all onboarding tasks. To ensure we create a smooth onboarding experience for new team members, provide enough time for the IT Ops team for laptop orders, and completing the I-9 process (for US-base hires) 4 days is the minimum amount of time needed. Should a contract not be signed prior to 4 working days from the start date, a new start date will be required.
 
 If any changes or updates need to be made to the onboarding template, kindly notify team members of the People Experience team by ccing them in the MR with the `@gl-people-exp` handle. Also notify other teams if a change will impact them.
 
@@ -52,11 +52,18 @@ Labels Associated with Onboarding Issues
 
 
 ### Alerts & Announcements
-At 14:00 UTC every Wednesday, the `PeopleOps Bot` slack bot will send an alert in the `#peopleops-alerts` channel listing any data missing (if applicable) from the BambooHR profiles of team members joining the following week. The People Experience team will fill in these missing details as soon as possible since completeness and accuracy of BambooHR profiles is necessary for all automation.
+At 14:00 UTC every Wednesday, the `PeopleOps Bot` slack bot will send an alert in the `#people-connect-alerts` channel listing any data missing (if applicable) from the BambooHR profiles of team members joining the following week. The People Experience team will fill in these missing details as soon as possible since completeness and accuracy of BambooHR profiles is necessary for all automation.
 
-At 10:00 UTC every Thursday, the bot will send another alert in the `#team-member-updates` channel with a list of all new team members joining the following week. This list includes names, email addresses, joining dates, and job titles of the new hires along with links to a Sisense graph showing the hiring progress over time. If any issues are detected by the bot, the post will first be submitted to the `#peopleops-alerts` channel, where the People Experience team will then rectify and rerun the bot (/pops run joiningannouncement) in Slack.
+At 10:00 UTC every Thursday, the bot will send another alert in the `#team-member-updates` channel with a list of all new team members joining the following week. This list includes names, email addresses, joining dates, and job titles of the new hires along with links to a Sisense graph showing the hiring progress over time. If any issues are detected by the bot, the post will first be submitted to the `#people-connect-alerts` channel, where the People Experience team will then rectify and rerun the bot (/pops run joiningannouncement) in Slack.
 
 ## Pre-Onboarding
+
+### Converting from Consultant to Full Time Team Member
+
+In some cases, consultants will be hired with GitLab and converted to full time team members. If this is the case, the following should take place:
+
+- People Experience Associate should reach out to the manager in the onboarding issue once created to advise them that they need to complete an offboarding access request for the consultant as per this [process](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/#offboarding). The manager should then reach out to the IT Ops team to get it actioned and ensure that the new email address (which the People Experience Associates add to BambooHR) will sync correctly to Okta. 
+- The People Experience Associate should also send a message to the manager in the issue to see whether a laptop has been sent to the team member, as well as that the team member will need to split focus between carrying on role based tasks and completing the onboarding issue.  
 
 ### Pre-Onboarding, US
 - **I-9 and E-Verify**<a name="I-9"></a>
@@ -80,11 +87,15 @@ _Note: You can reference what are considered to be “Acceptable Documents” [h
 1. **Section 1** → Employee personal details. New team members fill out this section online personally.
 1. **Section 2** → Employee assigns a “Designated Agent” to view, verify and document their government-issued official document(s). The Designated Agent completes this section online personally, but with the new team member and their documents physically in hand next to the Designated Agent.
 
-**If a team member is synced from Greenhouse to BambooHR less than 7 days prior to their start date, we will manually need to run the [pops command](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#new-hires) to sync from BambooHR to LawLogix.
+**If a team member is synced from Greenhouse to BambooHR less than 7 days prior to their start date, we will manually need to run the [pops command](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#new-hires) to sync from BambooHR to LawLogix.
 
 #### Sending of Employee Instructions
 
-Once the sync has taken place to LawLogix, the **People Experience Associate** will complete the following steps:
+**All of the below is done automatically with the sync.** Action using the steps below is only needed when there is an error with the sync.
+
+In the event that the automation fails, the **People Experience Associate** can run the command `/pops run uploadtoi9 bambooid` in Slack, which will then automatically add the new team member to LawLogix.
+
+The **People Experience Associate** will complete the following steps:
 
 1. Open Dashboard and locate the team members name.
 1. Click on the team members name.
@@ -95,12 +106,6 @@ Once the sync has taken place to LawLogix, the **People Experience Associate** w
 1. Select insert the team members personal email and address and the select `Send or Edit Email`
 1. Select `Send Email`
    - All email templates are [located here](https://gitlab.com/gitlab-com/people-group/General/-/tree/master/.gitlab/email_templates)
-
-- At some point the above will be sent automatically once the sync happens.
-
-In the event that the automation fails, the **People Experience Associate** can run the command `/pops run uploadtoi9 bambooid` in Slack, which will then automatically add the new team member to LawLogix.
-
-The steps below serve as a guide for the **People Experience team** completing the I-9 process, once the new team member has completed Section 1:
 
 #### Designated Agent Section
 
@@ -184,19 +189,28 @@ The PEA team will send two payroll forms for the new team member to complete. Th
 1. The PEA will be sure to cc `nonuspayroll@gitlab.com` in the email sent to the team member so that they can see action has been taken
 1. Once both forms are completed, the PEA will save in BambooHR in the Payroll Folder
 
+### Pre-Onboarding, Germany
+The PEA team will send a sheet for the new team member to complete payroll forms. This enables our payroll provider to set up everything in anticipation of the team member starting. 
+
+1. Send the new team member the [GTL008_Monthly_LPI_Template_Germany](https://docs.google.com/spreadsheets/d/1gBVDpk_mk2iGyfcrLEEhfUGtoMzDC3tb/edit#gid=1185395756) form before the start date. Remember to make a copy and save it in the team members name. Share this file with the `@nonuspayroll@gitlab.com` to have access. 
+- [South Korea - Documents Required](https://drive.google.com/drive/folders/1zQ0aYTeor59dszMfYH4j7D4a3OB8Z9_Q)
+
 ### Pre-Onboarding, UK
 The PEA team will send two payroll forms for the new team member to complete. These forms enable our UK payroll provider (Vistra) to help with their new hire enrollment.
 
 1. A few days before the new team members start date, the PEA will send both:
 - The new team member the [UK email](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/email_templates).
-  - This email contains: New Starter Checklist link, information about P45, and notification that UK payroll form will be sent from HelloSign
-- Using HelloSign, send the new team member the UK payroll form.
+  - This email contains: New Starter Checklist link, information about P45, and notification that UK payroll form will be sent from DocuSign
+- Using DocuSign, send the new team member the UK payroll form.
   - To do this go to Template >> Use template >> GitLab Ltd Uk Payroll Form.
-  - On the drop-down menu on the right, choose use template. Fill in as much information as possible from BambooHR and stage in HelloSign for signature using their personal email.
-1. Once the payroll form has been completed and signed by the new team member file the document in BambooHR under Documents/Payroll Forms. If a New Starter Checklist was completed, save it in the same folder. If new team member has a P45, please save it there as well.
+  - On the drop-down menu on the right, choose use template. Fill in as much information as possible from BambooHR and stage in DocuSign for signature using their personal email.
+1. Once the payroll form has been completed and signed by the new team member file the document in BambooHR under Documents/Payroll Forms. If a New Starter Checklist was completed, save it in the same folder. If new team member has a P45, verify that the P45 is for the current tax year and please save it to BambooHR as well.
 1. When the Payroll form and P45 or New Starter Checklist are complete, send as encrypted attachments to Vistra Payroll along with an encrypted copy of the team member's signed contract. The signed contract is found in the Contracts & Changes folder in the team member's BambooHR profile.
 - This information should not be sent later than Day 1 of a new hire's start date. Do not cc the team as this is sensitive information. Once acknowledged, delete your email.
 - Failure to provide the documents before week one will result in payroll and benefits delays
+
+### Changing a Start Date
+The People Experience team should be notified of a start date change through the Slack workflow in the private channel changed with the CES team. Once we receive the notification, the People Experience Associate needs to update all the dates to the new start date in BambooHR. This includes all the following items on the Job tab: the Hire Date, Compensation, On Target Earnings, Currency Conversion, Equity, Job Information, Additional Information, Bonus (if applicable), and Employment Status
 
 ## Pre-Onboarding Issue Creation Tasks
 
@@ -226,27 +240,27 @@ As part of the [Greenhouse<>BambooHR automation](https://about.gitlab.com/handbo
 - If a new team member needs to adjust their start date but a new contract is not created, the People Experience team will:
 1. Have the Candidate Experience Specialist team complete the following [steps](/handbook/hiring/talent-acquisition-framework/ces-contract-processes/#how-to-update-a-start-date-after-the-contract-is-signed).
 1. Check all **Hire Dates** in BambooHR
+1. Update the **Time Off Accrual Option** to the new start date in BambooHR (applicable to certain locations)
 1. Update the onboarding issue (if created)
 1. Ensure the email with the updated start date is filed under the Contracts and Changes folder in BambooHR
 
 - If a new team member start date falls on a holiday that is observed by the new hire or the People Experience Team:
-1. The People Experience Associate will coordinate with the Candidate Experience Associate to adjust the start date to the next business day. Ensure the Hiring Manager is included in this communication.
+1. The People Experience Associate will coordinate with the Candidate Experience Specialist to adjust the start date to the next business day. Ensure the Hiring Manager is included in this communication.
 1. The BambooHR dates will not be adjusted.
 1. Update the Onboarding Issue title to reflect the "New Start Date". This date is used for the onboarding email automation.
 
 #### New team member rejects offer
 
-If a new team member has already been marked as hired in Greenhouse and the sync has taken place, then they reject our offer, the Candidate Experience team will notify both the Senior Director, People Success and the People Experience team in the #people-group-confidential Slack channel.
+If a new team member has already been marked as hired in Greenhouse and the sync has taken place, then they reject our offer, the Candidate Experience team will notify both the VP, People Operations, Technology & Analytics and the People Experience team in the #people-group-confidential Slack channel.
 1. Once confirmed, The People Experience Associate will verify that the profile has been deleted and then update the People Experience team onboarding tracker to remove the former team member.
-1. If a GitLab email address has already been created, proceed with deleting the email address from Google Workspace Admin.
-**It is important that this step is completed as soon as possible to prevent any issues with the automation**
+1. If the deleted team member was located in the US, review and delete the relevant I-9 entry for them in LawLogix as per the deletion [process](https://about.gitlab.com/handbook/people-group/general-onboarding/onboarding-processes/#team-member-is-no-longer-joining-but-i-9-process-has-started).
 
 #### Personal Tab
 
 1. **Name:**  Verify the team member's **full legal name** (as much as it is known before seeing legal ID) and preferred name if known has been added correctly as per the custom sync. The sync will import middle name as part of first name, you will need to seperate them if that was the case.
 1. **Address:** Enter full address, including Street address, City, Region, Zip/Post Code and Country. Only the country is pre-filled by the custom sync. This data can be found in Greenhouse under the 'Details' section.
 1. **Locality:** ([geo area](/handbook/total-rewards/compensation/compensation-calculator/#geographical-areas), country). This information should be visible in the offer details. If you have any questions, please reach out to the Total Rewards team.
-  * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
+  * Please note the formatting must be entered exactly as outlined in the [location factor file](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/main/data/location_factors.yml) with "area, country" or the integration outside BambooHR will fail. Please only choose a locality from the already created fields in BambooHR. Do not create any new localities.
 1. **Region:** If not: the three options are Americas, EMEA, or JAPAC.
 1. **Work Email** Add the GitLab email in the Work Email field. This can not be done by the sync, as the team member is synced before the email is created. Once added, this will sync from BambooHR to Okta and allow the team member to access their Google Mail via Okta.
 
@@ -311,7 +325,7 @@ _Note: A minimum of direct manager and Director-level approval is required for a
    * **Division:**  Lists the appropriate division the new team member is contracted through.
    * **Department:**  Lists the appropriate department the new team member is contracted through.
    * **Job Title:**  This will list the job title as stipulated on the signed contract.
-     - If the title does not exist, ping the `total-rewards` team in the private Slack channel `#peopleops_totalrewards` and verify the title is in the correct format before adding.
+     - If the title does not exist, ping the `total-rewards` team in the private Slack channel `#people-connect_totalrewards` and verify the title is in the correct format before adding.
      - Once confirmed, scroll to the bottom, click "Add New", create and save the new job title.
    * **Reports To:**  Check that the manager listed on the contract is listed correctly in BambooHR.
    * **Job Title Speciality:**  If there is a specialty (this would be found under On Job-  Offer Details), this will be inserted in the field. If the specialty is not listed in the drop down menu, create a new one. The Job Title Specialty field has no restrictions)
@@ -365,15 +379,9 @@ _Note: In the case that a referral was not added or was incorrectly added to Bam
    * If not already added, add the bonus to BambooHR as instructed above. For the `bonus date` section, the date that the referral bonus ***should have been paid out*** should be added (I.E. 3 months after the referred team member's start date).
    * Email both `payroll@gitlab.com` and `total-rewards@gitlab.com` to notify them of the change.
 
-#### Time Off Tab
-The sync can't do this yet.
-
-If applicable, add a time off accrual plan for employees located in GitLab LTD (UK), GitLab GmbH (Germany), GitLab Canada Corp (Canada), GitLab GK (Japan), GitLab B.V. (Belgium), GitLab Inc (China), and GitLab B.V.(Netherlands).
-1. Click on "Time Off", hover your cursor over the "Employee Accruals" box, and you should see "Accrual Options" appear at the bottom. Click on it and select the appropriate policy from the dropdown. The effective date is their hire date.
-1. Click Save.
 
 ## Onboarding Issue Creation
-The People Experience Associate will then create an onboarding issue with a ChatOps command in Slack 4-5 business days prior to the new team member's start date.
+The People Experience Associate will then create an onboarding issue with a ChatOps command in Slack 2 weeks prior to the new team member's start date.
 
 1. Before creating the onboarding issue, ensure that all information entered BambooHR is accurate and complete.
 1. In Slack, go to your profile as if you were going to send a Slack message to yourself. Type the command `/pops run onboarding BambooHR_ID_number` (not Employee ID #). This number is found in the team member's BambooHR profile URL, after `id=`. It is a 5-digit number. An example of the command would be `/pops run onboarding 00000`. If BambooHR's API is down, this ChatOps command will fail and will need to be created manually.
@@ -383,13 +391,21 @@ The People Experience Associate will then create an onboarding issue with a Chat
 1. Update if applicable the title with the Specialty as the bot does not add the Specialty so it must be manually added.
 1. If the manager is not automatically assigned and listed in the issue, add them. It could be because the employee's manager uses a name in GitLab that is very different from the one in BambooHR, and they don't use their `@gitlab.com` email ID as the primary email ID in GitLab. They will then manually need to be assigned.
 1. Copy and paste the link into the People Exp/Ops Task Tracker sheet in the team member's specific column on their line. Please note that this document is only viewable to the People Experience and People Operation Specialist Teams due to personal information.
+1. Once the onboarding issue has been opened, the Employment Bot will ping the manager in the issue if no Baseline Entitlement Access Request exists. In the event that a manager pings the Bot/People Experience Associate that one does exist (usually providing a link to the correct template), follow the steps below:
+  1. is the role template title == the team member's role
+  1. is the role template’s department folder == the team member's department
+  1. is the role template specified on speciality level and == the team member's specility the same
+  - Open the team members BambooHR profile and verify the above
+  - If the Access Request template can be used for the specific team member, add the role to the [Shared Components file](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/blob/master/.gitlab/issue_templates/role_baseline_access_request_tasks/shared_components.yml)
+  - Assign the merge request for the shared components file to IT OPs Manager to review and merge. Once merged, this will ensure that the template is created by day 2 (if merged before then)
+1. If a Baseline Entitlement Access Request exists, this will be [automatically](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#access-request-issue-creation) opened by the Bot on day 2. 
 1. If you are part of the People Experience team, IT Ops team, new team members's manager or onboarding buddy please note there are additional steps to complete directly in the new hire's onboarding issue in the 'Before Starting at GitLab' section.
 
 ### People Experience Pre-Start Onboarding Tasks
 
-#### Request Signature for Code of Conduct 2021 & Acknowledgement of Relocation 2021
+#### Request Signature for Code of Conduct 2021, Acknowledgement of Relocation 2021, Consent to Collect and Use Data Regarding Race Ethnicity and Social Media Policy Acknowledgment.
 
-Each assigned People Experience Associate will send their new team members our Code of Conduct 2021 and Acknowledgement of Relocation 2021 forms for review and signature.
+Each assigned People Experience Associate will send their new team members our Code of Conduct 2021, Acknowledgement of Relocation 2021, Consent to Collect and Use Data Regarding Race Ethnicity and Social Media Policy Acknowledgment forms for review and signature.
 
 1. In BambooHR, go to the Files section.
 1. Be sure you are in the Signature Templates section.
@@ -398,10 +414,11 @@ Each assigned People Experience Associate will send their new team members our C
 1. Type in the name of your assigned team members. Please note that self-service option needs to have been activated in BambooHR in order for us to request a signature.
 1. Message to Signers: Dear new team member, we are so happy you are part of the GitLab team. Please take a moment to sign this document. Thank you!
 1. Click Send Request.
-1. Repeat the above process for `Acknowledgement of Relocation 2021`.
-1. The People Experience Associate in the respective [bi-weekly rotation](https://about.gitlab.com/handbook/people-group/people-experience-team/#bi-weekly-rotations) will check to see whether the team members that started during those weeks have signed the Code of Conduct 2021 and Acknowledgement of Relocation 2021 form.
-1. Click on Code of Conduct 2021.pdf or Acknowledgement of Relocation 2021.pdf and notice the team members who were sent the document and have still not signed.
-1. If a team member was sent the document for signature or reminder over 2 weeks in the past, click the Bell icon on their line at the far right. Clicking on the bell will send them a notification to sign.
+1. Repeat the above process for `Acknowledgement of Relocation 2021`, `Consent to Collect and Use Data Regarding Race Ethnicity` and `Social Media Policy Acknowledgment`.
+**Important: Do NOT send the `Consent to Collect and Use Data Regarding Race Ethnicity` to team members located in the following countries: France, Belgium, Denmark, Finland, Iceland, Norway, or Sweden for compliance reasons**
+1. The People Experience Associate in the respective [bi-weekly rotation](https://about.gitlab.com/handbook/people-group/people-experience-team/#bi-weekly-rotations) will check to see whether the team members that started during those weeks have signed the Code of Conduct 2021, Acknowledgement of Relocation 2021, Consent to Collect and Use Data Regarding Race Ethnicity and Social Media Policy Acknowledgment forms.
+1. Click on Code of Conduct 2021.pdf or Acknowledgement of Relocation 2021.pdf or Consent to Collect and Use Data Regarding Race Ethnicity.pdf or Social Media Policy Acknowledgment and notice the team members who were sent the document and have still not signed.
+1. If a team member was sent the document for signature or reminded over 2 weeks in the past, click the Bell icon on their line at the far right. Clicking on the bell will send them a notification to sign.
 
 ### People Experience Day 1 Onboarding Tasks
 
@@ -411,11 +428,11 @@ Once you have seen the team member's legal ID (either through work eligibility c
 
 #### Onboarding Welcome Email
 
-The new team member will automically recieve a "Welcome to Onboarding" email. The People Experience team will be CCd on this process. More information about this email automation can be found [here](https://about.gitlab.com/handbook/people-group/engineering/email-automation/#onboarding-email). The team member will follow the instructions in the welcome email to access Okta and their GSuite account (this is no longer a manual process).
+The new team member will automically recieve a "Welcome to Onboarding" email. The People Experience team will be CCd on this process. More information about this email automation can be found [here](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#onboarding-email). The team member will follow the instructions in the welcome email to access Okta and their GSuite account (this is no longer a manual process).
 
 #### New Hire Swag Email
 
-The "New Hire Swag" email is [automatically](https://about.gitlab.com/handbook/people-group/engineering/email-automation/#swag-email) sent to the new hire on their first day with GitLab, with people-exp @gitlab.com cc'ed in the email. The email will state that the team members need to access the [GitLab Swag Store](https://shop.gitlab.com/), choose goods and use the new hire discount code provided in the email at checkout. New hires must use their GitLab email at checkout.
+The "New Hire Swag" email is [automatically](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#swag-email) sent to the new hire on their first day with GitLab, with people-exp @gitlab.com cc'ed in the email. The email will state that the team members need to access the [GitLab Swag Store](https://shop.gitlab.com/), choose goods and use the new hire discount code provided in the email at checkout. New hires must use their GitLab email at checkout.
 
 The People Experience Associates assigned to the respective team members onboarding is responsible for ensuring that the email is successfully sent on Day 1 and will be checked off in the onboarding issue as part of the tasks list.
 
@@ -431,7 +448,7 @@ In the event that team members experience any difficulties with gaining access t
 
 We expect every team member to be an advocate for GitLab and we offer every team member the opportunity to have business cards, to make GitLab feel real to people around them despite not having an office.
 
-Every week, the assigned People Experience Associate pulls a report, which will include the new team members email address, as per [this](/handbook/people-group/people-experience-team/#weekly_moo_report) process. An invitation will then be sent to the new team member by the Moo representative.
+Every Tuesday, the assigned People Experience Associate in the rotation, which will invite the new team members for that week, as per [this](/handbook/people-group/people-experience-team/#weekly-moo-report) process. 
 
 Business cards should be ordered by the team member themselves using the Moo platform. Self-help instructions are [here](/handbook/people-group/frequent-requests/#business-cards).
 
@@ -491,14 +508,15 @@ In the event that a former team member is rehired with the company, they will st
 
 - Ensure that the team members Greenhouse profile is linked to their original profile to ensure that a duplicate BambooHR profile is not created.
 - Notify the People Experience team as soon as possible that a former team member has been rehired in the private `people-exp_ces` Slack channel.
-- If the team member has not been sync with BambooHR, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#resync-team-member)
+- If the team member has not been sync with BambooHR, you may need to run a [Resync](https://about.gitlab.com/handbook/people-group/engineering/gh-bhr-sync/#missing-team-member)
 
 #### People Experience Team
 
 - Check when the team member was offboarded previously. Open a new onboarding issue if the team member was offboarded more than 3 months ago, or open a customised onboarding issue if offboarding took place in the last 3 months.
   - If a custom onboarding issue is created, be sure to include the default onboarding template table as the employment automation relies on the information.
 - Dependent upon the team members location, an employment verification may need to be commpleted (example: US team member needs to complete I-9 verification).
-  - If an I9 is needed you will need to run a rehire sync with [LawLogix](https://about.gitlab.com/handbook/people-group/engineering/miscellaneous/#rehired-team-member) if a previous I9 is present. If an I9 is not available then a new I9 will need to be created.
+  - If an I9 is needed you will need to run a rehire sync with [LawLogix](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#rehired-team-member) if a previous I9 is present. If an I9 is not available then a new I9 will need to be created.
+- Verify that the team members former email address is still available by searching in Google Workspace. Keep this email address the same as far as possible.
 - Reactivate the team members previous BambooHR profile to avoid duplicates from being created, as well as update any new employment terms.
     - Status on Personal tab: set to Active.
     - Employment Status: add new entry with new start date and set to Active.
@@ -605,7 +623,7 @@ As the interns already have entries in BambooHR, an update will be needed with t
 
 Core team members are team member that are not employed by GitLab but are part of the wider GitLab community. These team members can be granted access to certain systems at request from the Community Relations team by creating the respective [Core Team Member Onboarding Issue](https://gitlab.com/gitlab-com/temporary-service-providers/lifecycle/-/blob/master/.gitlab/issue_templates/orientation_issue_core_member.md).
 
-The Community Relations teamwill ping the People Experience team in the `#peopleops` Slack channel for assistance.
+The Community Relations teamwill ping the People Experience team in the `#people-connect` Slack channel for assistance.
 
 There are tasks within the issue that need to be completed by the People Experience Team.
 

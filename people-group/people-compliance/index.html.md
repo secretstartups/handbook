@@ -21,7 +21,7 @@ People Compliance works collaboratively with multiple functional teams throughou
 * Tag us in GitLab
    * `@gl-peoplecompliance`
 * Slack
-   * The #peopleops Slack channel is the best place for questions relating to our team.
+   * The #people-connect Slack channel is the best place for questions relating to our team.
 
 ## Defining People Compliance
 
@@ -39,8 +39,7 @@ Understanding GitLab's strategic priorities lays the foundation for a better und
 
 * Complete United States-related People Compliance Assessment by external vendor
 * Partial Global People Compliance Assessment by external vendor (starting with 5 entities)
-* Non-discriminatory Hiring assessment 
-* Affirmative Action Plan Parameters in Place for accurate 2022 report
+* Non-discriminatory Hiring assessment & Affirmative Action Program (see our [People Compliance Reporting](/handbook/people-group/people-compliance/people-compliance-reporting/) page)
 * Recommendations, procedures, and audits put in place from above assessments
 
 ## People Compliance Core Competencies & Responsibilities
@@ -55,7 +54,7 @@ All Responsibilities are listed in the [People Compliance job family page](https
 
 ## How we work
 
-Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/blob/master/.gitlab/issue_templates/compliance_request.md) and we will review and prioritize.
+Our [People Compliance Issue Board](https://gitlab.com/gitlab-com/people-group/compliance/-/boards/2082154) serves as the single source of truth on the People Compliance team's priorities. If you have a request for the People Compliance team, please [open a Compliance Request issue](https://gitlab.com/gitlab-com/people-group/compliance/-/issues/new?issue) and we will review and prioritize.
 
 ### Labels
 
@@ -75,28 +74,28 @@ Please see the [README.md](https://gitlab.com/gitlab-com/people-group/compliance
 * [Privacy](/handbook/legal/privacy/) and [Privacy Laws and GitLab](/handbook/legal/privacy/privacy-laws.html) - More information on GitLab's privacy practices.
 * [Employee Privacy Policy](/handbook/legal/privacy/employee-privacy-policy/) - GitLab's policy for how we handle the personal information of our team members.
 * [Records Retention Policy](/handbook/legal/record-retention-policy/) - GitLab's policy on the implementation of procedures, best practices, and tools to promote consistent life cycle management of GitLab records.
-* [DM.7.03 - Data Retention and Disposal Policy ](/handbook/engineering/security/security-assurance/security-compliance/guidance/DM.7.03_data_retention_and_disposal_policy.html) - GitLab's Security Compliance policies related to data retention and disposal.
-* [Data Protection Impact Assessment (DPIA) Policy](/handbook/engineering/security/dpia-policy/) - GitLab's policies related to Data Protection.
+* [Data Classification Policy](/handbook/engineering/security/data-classification-standard.html) - GitLab's Security Compliance policies related to data retention and disposal.
+* [Data Protection Impact Assessment (DPIA) Policy](/handbook/legal/privacy/dpia-policy) - GitLab's policies related to Data Protection.
 * [GitLab Audit Committee](/handbook/board-meetings/committees/audit/) - Information regarding GitLab's Audit Committee of the Board of Directors of GitLab Inc. 
 * [Total Rewards Audits](/handbook/total-rewards/total-rewards-audits/) - Information on some of our People Group audits.
 
 ## Performance Indicators
 
-#### [Compliance, data retention and implementation](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
+#### [Annual Mandated HR Reporting](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-annual-mandated-hr-reporting)
 
-This PI encompasses the 100% accuracy of personal information held in BambooHR for all team members under a GitLab entity or PEO. This PI also has as a goal to have documented and communicated policies for personal information data retention within BambooHR, their 100% implementation and 100% compliance.
+This PI encompasses the 100% completion of all mandated, annual HR reports to all relevant Offices and Departments, most commonly being related to United States HR-related reports.
 
-* [People Compliance and BambooHR](/handbook/people-group/people-compliance/people-compliance-and-bamboohr/)
+* [People Compliance Reporting](/handbook/people-group/people-compliance/people-compliance-reporting/)
 
-#### [Google Drive documentation](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
+#### [People Data and HRIS Compliance](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-people-data-and-hris-compliance)
 
-This PI encompasses the 100% accuracy and compliance of all People-related data and documents held in Google Drive.
+This PI encompasses the 100% accuracy of personal information held in our HRIS for all team members under a GitLab entity or PEO. This PI also has as a goal to have documented and communicated policies for personal information data retention within our HRIS, their 100% implementation and 100% compliance.
 
-* [People Compliance and Google Drive](/handbook/people-group/people-compliance/people-compliance-and-google-drive/)
+* [HRIS Compliance](/handbook/people-group/people-compliance/hris-compliance/)
 
-#### [Implementation of audits across Team Member Experience tasks](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#compliance-data-retention-and-implementation)
+#### [Onboarding Issue Audits](https://about.gitlab.com/handbook/people-group/people-success-performance-indicators/#onboarding-issue-audits)
 
-This PI encompasses the 100% implementation of quarterly audits for onboarding, offboarding and career mobility issues.
+This PI encompasses the 100% implementation of quarterly audits for onboarding issues and their related closure rates.
 
 * [People Compliance Audits](/handbook/people-group/people-compliance/people-compliance-audits/)
 

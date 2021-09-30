@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: GitLab Learn User Documentation
+description: "The following resources can be used by learners in the GitLab Learn platform to help navigate the login process, explore new content and more."
 ---
 
 ## On this page
@@ -12,7 +13,7 @@ title: GitLab Learn User Documentation
 
 ## GitLab Learn Users
 
-The following resources can be used by learners in the [GitLab Learn](/handbook/people-group/learning-and-development/gitlab-learn/) platform to help navigate the login process, explore new content, and more.
+The following resources can be used by learners in the [GitLab Learn](https://gitlab.edcast.com/) platform to help navigate the login process, explore new content, and more.
 
 **If you need support accessing GitLab Learn, have questions about content, need to edit or remove your account, or have feedback to provide, please [submit a ticket](https://support.gitlab.com/hc/en-us/requests/new?ticket_form_id=360000647759).**
 
@@ -39,10 +40,11 @@ If you're looking for support in getting your questions answered, please refer t
 
 ### First time login to GitLab Learn
 
-When you log on to GitLab Learn for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
+When you log on to [GitLab Learn](https://gitlab.edcast.com/) for the first time, you'll be prompted through the account setup process. The platform will use your answers to suggest new learning content based on your interests and expertise.
 
+Use the following URL to access the GitLab Learn Platform: [gitlab.edcast.com](https://gitlab.edcast.com/)
 
-Below is a [firt time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
+Below is a [first time login training video](https://www.youtube.com/watch?v=uE-1KRFArpA&feature=youtu.be) to walk you through each step.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uE-1KRFArpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -98,7 +100,7 @@ This navgation bar links to the following support resources:
 
 1. [GitLab Docs](https://docs.gitlab.com/)
 1. [GitLab Support Ticket](https://support.gitlab.com/hc/en-us)
-1. [GitLab Handbook](/about.gitlab.com/handbook/)
+1. [GitLab Handbook](/handbook/)
 1. User Documentation and Trainings (on this page)
 
 #### Search bar
@@ -207,7 +209,7 @@ From here, the GitLab L&D team will moderate and remove comments and content in 
 
 ## Reporting content errors in GitLab Learn
 
-Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions)
+Learners in the platform might come across errors like spelling mistakes, broken links, or information that is not up to date. Please help our team by reporting these errors by open an issue using the template `gitlab-learn-error-report` on the [lxp-contributions issue board](https://gitlab.com/gitlab-com/people-group/learning-development/lxp-contributions/-/issues)
 
 ## Frequently asked questions
 

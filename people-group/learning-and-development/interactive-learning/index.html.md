@@ -87,11 +87,17 @@ The following best practices should be followed when using video to create handb
 
 The following best practices should be followed when building learning content that includes private or internal only video.
 
-1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published ot YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
+1. Professional services shares recordings of live learning sessions directly with customers involved in each specific training via a Zoom link and recording password. These videos are not published on YouTube or to the handbook. Future iterations will include using EdCast to store and share these recordings using private Groups.
 
 #### Why not use the GitLab Unfiltered API in EdCast?
 
 Not all video on the GitLab Unfiltered channel is handbook first. In order to be sure that video in EdCast aligns with the handbook first best practices outlined above, we've elected to turn off the GitLab Unfiltered API in EdCast. 
+
+### Learning Video Best Practices
+
+In addition to making video learning content handbook first, consider these best practices when recording video training or delivering live training:
+
+1. Turn on [Zoom closed captionining and live transcription](https://support.zoom.us/hc/en-us/articles/207279736-Closed-captioning-and-live-transcription)
 
 
 ### Handbook first course example
@@ -106,7 +112,7 @@ Below is an outlined example of how the field enablement team created a handbook
 
 ### Building courses with Articulate360
 
-Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360
+Articulate360 is a powerful course creation tool. Below are a set of best practices and tips for creating handbook first courses using Articulate360:
 
 1. Our team has a GitLab branded template that can be used for course creation. The template has GitLab colored theme, buttons, and font. You can use this by clicking on the `Course Template` > `Duplicate` > and then rename using your course title
 1. Use [iframes](/handbook/people-group/learning-and-development/interactive-learning/#using-iframes-to-display-the-GitLab-handbook) to display sections of the GitLab handbook in your course
@@ -114,11 +120,11 @@ Articulate360 is a powerful course creation tool. Below are a set of best practi
 #### Using iframes to display the GitLab handbook
 
 This [training video](https://youtu.be/wlLKZz3vSAk
-) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course
+) provides an example of how iframes can be used to display sections of the handbook in a Rise 360 course.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wlLKZz3vSAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In the team Articulate- Rise 360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
+In the team Articulate - Rise 360 license, there is a block template for iframes. You can access this template in the the `block templates` section and add your iframe code directly.
 
 ![iframe-embed-template](/handbook/people-group/learning-and-development/interactive-learning/iframe-block.png)
 

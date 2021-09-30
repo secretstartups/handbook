@@ -21,9 +21,11 @@ Email Us: `learning@gitlab.com`
 
 [Request support/Collaborate on new learning content](/handbook/people-group/learning-and-development/work-with-us)
 
+Please take 5 minutes for a survey to [tell us how do you prefer to learn](https://forms.gle/Hafkqygy6LfJxWFw6)!
+
 
 ## Mission
-Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
+Our mission is to provide resources to enable team members to succeed in their current roles and develop new skills to further their professional and personal development. L&D provides adaptive and blended growth and development opportunities, including skills building, career development, and technical training that aligns with GitLab's strategic priorities of talent development & retention. L&D's mission is to cultivate a culture of curiosity and continuous learning. 
 
 ### GitLab Learning Strategy & Roadmap
 
@@ -67,8 +69,8 @@ We are a small team, but we've got a big role to play at GitLab!
 * [Learning and Development Manager](/job-families/people-ops/learning-development/#learning--development-manager): [Josh Zimmerman](/company/team/#Josh_Zimmerman)
 * [Learning and Development Generalist](/job-families/people-ops/learning-development-specialist/#learning--development-generalist): [Jacie Bandur](/company/team/#jbandur)
 * [Learning and Development Associate](/job-families/people-ops/learning-development-specialist/#learning--development-associate): [Samantha Lee](/company/team/#slee24)
-* [Instructional Designer](/job-families/people-ops/instructional-designer/): Role to be filled
-* [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): Role to be filled
+* [Instructional Designer](/job-families/people-ops/instructional-designer/): [Irina Grosu](https://gitlab.com/IrinaGrosu)
+* [Learning System Administrator](/job-families/people-ops/learning-system-administrator/): [Jamie Allen](https://gitlab.com/jallen16)
 
 ## FY22 Learning and Development Calendar 
 
@@ -112,7 +114,7 @@ Take advantage of [LinkedIn Learning](/handbook/people-group/learning-and-develo
 
 We are currently in the process of implementing GitLab Learn, our [EdCast Learning Experience Platform (LXP)](/handbook/people-group/learning-and-development/gitlab-learn/). **The LXP launched internally for GitLab team members on 2021-01-11** This system is more than just a Learning Management System, it is a platform to help deliver engaging learning tailored to you and your role. It can direct to handbook pages, make recommendations for learning based on previous consumption, and serve interactive learning content. 
 
-We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/)
+We are also in the process of launching LinkedIn Learning internally for all team members. Stay tuned for more details and the content will be supplemental to GitLab customized content and apply a [Handbook-first approach to interactive learning](/handbook/people-group/learning-and-development/interactive-learning/).
 
 ### Mentoring at GitLab
 
@@ -143,7 +145,7 @@ To request support from the L&D, please see the process for [how to work with us
 
 The L&D team uses GitLab issue boards to track priorities, organize collaboration, and set due dates based on three-week sprints.
 
-* The L&D team uses [this sprint issue board](hhttps://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
+* The L&D team uses [this sprint issue board](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/boards/1958538) to track priority issues each quarter.
 * The `open` list is a queue for issues that need to be addressed, but have not yet been assigned to a sprint, backlog, or priority.
 * When a new issue is opened, it should be moved to either the `ld-backlog` or `ld-fyxx-q1-priority` list. This will determine if the issue is a priority for the current quarter, or a backlog issue to be addresses as time allows.
 * The team maintains three milestones, one for each upcoming sprint. The sprints are organized with a milestone using the naming mechanism `L&D Sprint # (Date Range)`
@@ -242,6 +244,7 @@ Total number of [promotions](/handbook/people-group/promotions-transfers/) in a 
 This performance indicator is calculated the same as [12 month voluntary team member turnover KPI](/handbook/people-group/people-group-metrics/#team-member-turnover) but uses the number of team members actively choosing to leave GitLab for growth and development related reasons only. The target is to be determined.
 
 - **Exit Survey Data < 5 % of team members exiting GitLab related to L&D**
+- **This is my first commit request**
 
 Questions related to Learning & Development opportunities at GitLab through [Exit Survey Data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#)
 

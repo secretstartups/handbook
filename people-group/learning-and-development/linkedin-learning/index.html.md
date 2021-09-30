@@ -60,7 +60,7 @@ No problem! The goal of this initiative is to combine learning with something th
 
 ## Recommended Learning Paths
 
-We have outlined recommended LinkedIn Learning paths for different roles at GitLab. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
+We have outlined recommended LinkedIn Learning paths for different roles at GitLab. We also have a [Recommended LinkedIn Learning Courses](https://gitlab.edcast.com/channel/recommended-linkedin-learning-courses) channel in GitLab Learn to showcase popular and recommended courses among GitLab Team Members. These links will take you to GitLab Learn and if you decide to take the course it will open a new tab for the course in LinkedIn Learning. This is not an exhaustive list, but it is a good start if you are new to using the tool. 
 
 ### All Team Members 
 - [Confronting Bias: Thriving Across our Differences](https://gitlab.edcast.com/insights/ECL-393c827e-4175-46e2-bdfb-768c7cb49f27)
@@ -109,7 +109,9 @@ All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/lea
 
 ## How to access LinkedIn Learning
 
-All GitLab Team Members will be sent an invite to LinkedIn Learning. If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
+All GitLab Team Members will be sent an invite to LinkedIn Learning during their first week. It is important that the invites to LinkedIn Learning are not sent until the new hire has started as their GitLab email address isn't active until their first day. 
+
+If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
 1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
@@ -233,6 +235,21 @@ We recommend that all sub-admins take the [Getting Started as a LinkedIn Admin](
 1. [Skill Insights](https://www.linkedin.com/learning/getting-started-as-a-linkedin-learning-admin/skill-insights?u=2255073) (3m)
 
 If you would like to request access to be a sub-admin, please reach out to our team in the `#learninganddevelopment` Slack channel. 
+
+### Reporting
+
+For People Business Partners that are helping groups track LinkedIn usage for OKR purposes or otherwise, these are steps that can be followed after sub-admin access is provisioned. 
+
+1. Login to LinkedIn Learning
+1. Hover over the `Insights` tab at the top of the page, and then click `Dashboards`
+1. Click on the `Reports` tab
+
+From here, the report you download will depend on exactly what you are looking to track. LinkedIn Learning has many different reports available depending on the data you are looking to analyize. 
+
+A couple of useful reports and their functionality are:
+1. `Learner Management` report can help determine the number of team members in a given division/department with activated licenses (and also provides visibilty into who _does not_ have their license activated)
+1. `Learner Summary` report can help you review which users in a specific group are using LinkedIn Learning, hours spent within the platform, number of logins, etc.
+
 
 ## Groups and Sub-Groups
 

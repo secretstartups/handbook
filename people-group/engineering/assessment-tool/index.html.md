@@ -13,9 +13,9 @@ description: "Information on how GitLab's People Engineering team created and ho
 
 ## Overview
 
-To support the People Group with setting up 9 box assessment for all our team members, People Engineering created a tool.
+To support managers at GitLab with the Talent Assessment of their team members, People Engineering has built a talent assessment tool. 
 
-It's a basic tool that replaces the previous/current method of using Google Slides that were prepared by the People Business Partners. The goal is to have different teams within GitLab use the tool and iterate with feedback provided by the users.
+It's a basic tool that replaces the previous methods of using Google Slides that were prepared by the People Business Partners. The goal is to have different teams within GitLab use the tool and iterate with feedback provided by the users.
 
 #### Current Sign Up Process
 We use Okta as the authentication provider for the tool.
@@ -39,7 +39,7 @@ The tool uses BambooHR as the single source of truth for all the team members' d
 
 It has `write` access to the following fields:
 - Performance factor
-- Potential factor
+- Growth factor
 
 The access level for the API token is approved by the Total Rewards Team. If additional access is needed, an access request needs to be created.
 
@@ -57,11 +57,11 @@ On 2020-11-05 we had a live training session on the use of the tool and Calibrat
 
 #### Individual Contributors
 
-As an individual contributor, you are not required to sign up for or use the tool. Your manager will be asked to use the tool to make their recommendations and assess. 
+As an individual contributor, you are not required to sign up for or use the tool. Your manager will be asked to use the tool to make their recommendations, assess and calibrate with other managers in the department.  
 
 #### People Managers
 
-It is recommended that you before you log in, you read up on [what Performance/Potential Assessments at GitLab are](/handbook/people-group/performance-assessments-and-succession-planning/).
+It is recommended that you before you log in, you read up on [what Performance/Growth Assessments at GitLab are](/handbook/people-group/performance-assessments-and-succession-planning/).
 
 Once you're familiar with the process, you need to create an account (see "Creating an Account" section) to begin assessments.
 
@@ -70,16 +70,16 @@ Once you're familiar with the process, you need to create an account (see "Creat
 ##### Steps For Managers When Assessing Team Members 
 
 1. Click "Assess your team members within [TEAM]"
-1. Click `Open Box View`. This will take you to the Performance/Potential axis view for your team members. 
+1. Click `Open Box View`. This will take you to the Performance/Growth axis view for your team members. 
 1. If you are managing other managers, you can check and uncheck the filter for `Direct Reports Only` to view your direct reports only. 
 1. On the left side, you will see an overview of all the team members who directly or indirectly report to you. This view is in alphabetical order. 
 1. The view is divided into `Eligible team members`, `New hires (started in the last 90 days)` and `Excluded from the Assessment Round`. Team members that are Excluded from the Assessment round have a start date before the threshold as set by the People Business Partner. For example of November 1st as stated [in the handbook](/handbook/people-group/performance-assessments-and-succession-planning/#eligibility). 
 1. You can filter your view for `Division`, `Department`, `Roles`, and `Team`. By clicking the "x" next to the filter you reset to the full overview. 
 1. The colors indicate the location of the team members. We use this to create awareness pertaining to potential [unconscious bias](/company/culture/inclusion/unconscious-bias/) with regards to locations and regions.
-1. After familiarizing yourself with the tool, you're ready to assess your team members and place them in the appropriate box. (Example: Developing with High potential would be aligned with the bottom right box, or box 6).  
-1. When hovering over the box numbers you can view the definition, actions, and meaning for each box. This is aligned with the training material provided in [this slide deck](https://docs.google.com/presentation/d/151ys8xkOak9ifU9IPXQydZ44sb_BoMpMocWmjVonLHE/edit#slide=id.g817046ecd3_0_44) and in our [Performance/Potential handbook page](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix). 
+1. After familiarizing yourself with the tool, you're ready to assess your team members and place them in the appropriate box. (Example: Developing with Exceeding Growth would be aligned with the bottom right box, or box 6).  
+1. When hovering over the box numbers you can view the definition, actions, and meaning for each box. This is aligned with [the Handbook page on Talent Assessment](/handbook/people-group/talent-assessment/#talent-assessment-program). 
 1. If you prefer to review team members in a table view, you can click the button in the top left that reads `table view mode`.
-1. By clicking `assess` behind the team members' names, you will be asked to `Assess Potential` from a drop-down menu and `Assess Performance` from a drop-down menu. 
+1. By clicking `assess` behind the team members' names, you will be asked to `Assess Growth` from a drop-down menu and `Assess Performance` from a drop-down menu. 
 1. If Succession planning is enabled for this round, you can click the `+` behind the team members' names and indicate if and when they would be a successor for the next level. Options are: `Within 6 months`, `Within 12 months` or `After 12-24 months`. Also if someone has been the `Emergency contact`  while the next level leader has been away you can indicate that by checking the box. Note that the Succession part if enabled doesn't have to be filled out for all team members - you could fill out Succession for a limited amount of team members/it's optional. 
 1. If Promotion planning is enabled for this round, you can click the `+` behind the team members' names and indicate if and when they would be ready for a promotion. Options are: `Within 3 months`, `Within 6 months`, `Within 12 months` or `More than 12 months away`. The results of this assessment will help with promotion planning for the remainder of/the upcoming year. 
 1. After completing the assessment of all team members in the box view mode or table view mode, click `Save`. Note: you can also click `Save` in between so that your work doesn't get lost. 
@@ -119,9 +119,9 @@ to assess all the team members that are within your People Business Partner (PBP
 1. Log in to the tool via [this link](https://assessment.gitlab.net/users/sign_in) 
 1. Click `Dashboard` in the top right corner. 
 1. Click `Overview` for any of the departments you would want to be reviewing. 
-1. You will be taken to an overview for that department with bar charts - indicating how many team members are assessed at each level for Potential, Performance, and both. 
+1. You will be taken to an overview for that department with bar charts - indicating how many team members are assessed at each level for Growth, Performance, and both. 
 1. You can check the boxes behind `Aggregated Data:` to `Show male vs non-male` , `Use Percentages` and/or `Show Regions`. 
-1. In the [Performance/Potential handbook page](/handbook/people-group/performance-assessments-and-succession-planning/#what-is-performance) there are guidelines on distribution for team members overall. 
+1. In the [Talent Assessment](/handbook/people-group/talent-assessment/#expected-distribution-company-wide) there are guidelines on distribution for team members overall. 
 1. Note: Team members who are not places in a box would not count towards the total %. 
 1. This functionality already works before assessments have been confirmed and before the calibration sessions. Therefore it can be helpful to review before going into the [live calibration sessions](/handbook/people-group/performance-assessments-and-succession-planning/#calibration-session). 
 
@@ -129,22 +129,22 @@ to assess all the team members that are within your People Business Partner (PBP
 
 ```mermaid
 graph TD
-    A[2020-10-15 - PBP signs up with the tool]:::PBP -->B[2020-11-01 - PBP kicks off the Assessment period for the department aligned with steps above]
-    B:::PBP --> C[2020-11-01 - PBP determines start and end data of the assessment]
-    C:::PBP --> D[2020-11-01 - Managers sign up with the tool]
-    D:::CLIENT --> E[2020-11-01 - Managers would only be able to see their teams]
-    E:::CLIENT --> F{2020-11-XX - Assessment period starts}
+    A[2021-10-01 - PBP signs up with the tool]:::PBP -->B[2020-11-01 - PBP kicks off the Assessment period for the department aligned with steps above]
+    B:::PBP --> C[2021-11-01 - PBP determines start and end data of the assessment]
+    C:::PBP --> D[2021-11-01 - Managers sign up with the tool]
+    D:::CLIENT --> E[2021-11-01 - Managers would only be able to see their teams]
+    E:::CLIENT --> F{2021-11-XX - Assessment period starts}
     F:::POPS -->|PBP| G[Sets up the calibration meetings]
     F:::CLIENT -->|Managers| H[Start the assessment for their team members]
     G:::PBP --> I[Calibration meeting takes place]
     H:::CLIENT --> I[Calibration meeting takes place]
-    I:::TR --> J[2020-11-29 - Data is extracted into aggregated overview for analysis] 
-    J:::PBP --> K[2020-11-30 - PBP discusses with managers/leadership]
-    K:::CLIENT --> L[2020-11-30 - Performance/Potential reviews are finalised]
-    L:::CLIENT --> M[2020-11-30 - E-Group member/Senior Leadership signs off on the assessments]
-    M:::PBP --> N[2020-11-30 - Approval is obtained via tool or sheets]
-    N:::PBP --> O[2020-12-01 - PBP clicks send to BambooHR]
-    O:::PBP --> P[2020-12-01 - End of Tool cycle]
+    I:::TR --> J[2021-11-29 - Data is extracted into aggregated overview for analysis] 
+    J:::PBP --> K[2021-11-30 - PBP discusses with managers/leadership]
+    K:::CLIENT --> L[2021-11-30 - Performance/Growth reviews are finalised]
+    L:::CLIENT --> M[2021-11-30 - E-Group member/Senior Leadership signs off on the assessments]
+    M:::PBP --> N[2021-11-30 - Approval is obtained via tool or sheets]
+    N:::PBP --> O[2021-12-01 - PBP clicks send to BambooHR]
+    O:::PBP --> P[2021-12-01 - End of Tool cycle]
 
 
 classDef PBP fill:#D8BFD8, stroke: #333

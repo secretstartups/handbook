@@ -26,6 +26,19 @@ team members and the number of years they are celebrating at GitLab.
 Currently, the pipeline is scheduled to be run at 10:00 AM UTC on every
 Thursday.
 
+#### Birthday announcements
+
+Every monday morning, a scheduled pipeline is configured to automatically send a message
+congratulating team members celebrating their birthday that week to the
+`#celebrations` Slack channel. Only team members who have opted-into GitLab birthdays
+on their Slack profile will be listed in the congratulatory message.
+
+To opt-in, follow these steps on Slack
+
+1. Click on your profile photo in the top right corner
+1. Click on `Edit profile`
+1. Scroll down to the `GitLab Birthdays` field and select `Yes`
+
 #### Parental Leave Welcome Back
 
 A scheduled pipeline runs every day to check who's coming back from parental leave in 3 days.
@@ -40,7 +53,7 @@ For the new hire announcements to be accurate, it is required to ensure the
 BambooHR details of team members joining the following week is as complete as
 possible. To help PeopleOps team in this task, another scheduled pipeline is
 run to verify if the BambooHR details of all incoming team members is complete.
-This pipeline notifies Since People Experience Associates in `#peopleops-alerts` channel
+This pipeline notifies Since People Experience Associates in `#people-connect-alerts` channel
 about people whose details are missing and the details that are missing for each
 person.
 
@@ -70,7 +83,7 @@ People Experience team can discuss and take action.
 ### Referral bonus reminders
 
 A scheduled pipeline is configured to automatically send a message
-in the `#peopleops-alerts` Slack channel listing all team members who reached
+in the `#people-connect-alerts` Slack channel listing all team members who reached
 their 3 month work anniversary that week. For each anniversary, the team member's
 BambooHR and Greenhouse profiles are linked so that the people experience team
 can check if the listed team members were referred. For those that were referred, the 

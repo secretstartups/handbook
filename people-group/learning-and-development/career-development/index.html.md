@@ -96,6 +96,43 @@ Once you've agreed upon the internship goals, both managers should inform their 
 
 We recommend that, at any given time, each [team](/company/team/structure/#team-and-team-members) is handling only one intern. This is to allow for an efficient and focused mentorship without impacting the capacity of the team. You can, of course, adjust this depending on the size of the team but please consider the impact of mentoring when scheduling internships.
 
+#### Individual Growth Plan 
+
+The [Individual Growth Plan (IGP)](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit) is a great way to take initiative of your career growth. 
+
+Maybe you aren't sure where to start or you are having trouble filling out your IGP, we recommend watching the [How to Develop your Career Plan](https://www.linkedin.com/learning/how-to-develop-your-career-plan/introduction?u=2255073) course on LinkedIn Learning. 
+
+Steps: 
+1. Open the [Individual Growth Plan (IGP) Template](https://docs.google.com/document/d/1ZjdIuK5mNpljiHnFMK4dvqfTOzV9iSJj66OtoYbniFM/edit)
+1. Make a copy of the template + save to your drive
+1. Fill out the template 
+1. Review with your manager 
+1. Start working towards your goals! 
+
+##### GitLab Team Member Using the IGP
+
+The video below is an interivew with a GitLab team member who has used the Individual Growth Plan in their career development. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ih0lMoKxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### IGP Live Learning
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJezH0ToqLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Tracking your Accomplishments 
+
+Some people may call it a "brag sheet" some call it a CREDIT Tracker, either way, it's a great place to put all of your accomplishments and positive feedback. We encourage you to utizlize the Accomplishment tracker in conjunction with the IGP and GitLab Epics. 
+
+Steps: 
+1. Go to the [Accomplishment Tracker Template](https://docs.google.com/document/d/1tBjEbX-p4MYinEsdU-91KDQ_BJkihwrBKZ0n9yfdLjo/edit?usp=sharing)
+1. Make a copy + save to your drive
+1. Start filling it out (check out the video below for a walkthrough)
+
+##### Using your Accomplishment Tracker
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4a60slPg5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### External Resources some with no cost
 
@@ -107,6 +144,14 @@ We recommend that, at any given time, each [team](/company/team/structure/#team-
 - [WorkLife with Adam Grant Podcast](https://www.ted.com/series/worklife_with_adam_grant)
 
 - [Dose of Leadership with Richard Rierson - Authentic & Courageous Leadership Development](https://www.stitcher.com/podcast/dose-of-leadership-podcast)
+
+### Career Development Handbook Learning Session
+
+On 2021-08-18 Samantha Lee and Jacie Bandur on the Learning & Development team had a handbook learning session with Eric Johnson, CTO, about career development. 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/hYahDZ9nIWA" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Internal Resources
 
@@ -129,6 +174,24 @@ There are various internal opportunities to expand a team member's exposure to m
 - Writing for the [GitLab Blog](https://about.gitlab.com/handbook/marketing/blog/unfiltered/)
 - Apply to do the [CEO shadow program](https://about.gitlab.com/handbook/ceo/shadow/) for two weeks
 - When appropriate and possible, attending some of the staff meetings of the team members manager's manager
+
+### Having Career Development Conversations
+
+#### Having Career Development Conversations with your Manager
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/JA3NNTGoELU" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+#### Having Career Development Conversations with your Team
+
+The video below is a recording of the Live Learning that took place in August 2021 as part of our Career Development [Skill of the Month](/handbook/people-group/learning-and-development/learning-initiatives/#fy22-topic-outline). 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/f1T2KKlrZCY" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Career Development Conversation Acknowledgements
 
@@ -221,8 +284,71 @@ Epics are a great way to [transparently](/handbook/values/#transparency) and [ef
 
 Here are some ways you can use Epics when organizing your career development work. Here are two examples from the Learning and Development team: [Example 1](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/43), [Example 2](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/47)
 
+Below is a short video from the L&D team reviewing how and why you might choose to use epics for career development tracking:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xuisSgBQtaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 1. Open an epic in a personal or team project
 1. Use the description to highlight your learning goals, ideal programs or resources you want to review, considerations when planning, etc.
 1. Open issues to track actions you'll take as a result or inspriationo of learning resources you've used
 1. Add those issues as related to your epic. If you can't add the related issues becuase they are in differnet projects, consider starting a new thread in the epic that links to any and all issues that are a result of, or impacted by, your career development work
 
+### Skill of the Month
+
+In August 2021 we are holding a Career Development Skill of the Month. All items are linked in the [FY22 Skill of the Month](https://gitlab.edcast.com/channel/skill-of-the-month-fy22) GitLab Learn Channel. All of the Async AMA Issues can be found in the [Career Development Interviews 2021 Epic](https://gitlab.com/groups/gitlab-com/people-group/learning-development/-/epics/68). More will be added to this section as we go through the weeks of the month. 
+
+#### Week 1 
+
+**Topic: Career Development for GitLab Team Members**
+
+- [Career Development with Pattie Egan](https://gitlab.edcast.com/pathways/career-development-with-pattie-egan) 
+- [Career Development with Darren Murph](https://gitlab.edcast.com/pathways/career-development-with-darren-murph) 
+
+#### Week 2 
+
+**Topic: Individual Growth Plan** 
+
+- [Career Development with Nicolas Dular](https://gitlab.edcast.com/pathways/career-development-with-nicolas-dular )
+- [Career Development with Rebecca Spainhower](https://gitlab.edcast.com/pathways/career-development-with-rebecca-spainhower )
+- [Building an Individual Growth Plan](https://gitlab.edcast.com/pathways/building-an-individual-growth-plan) 
+- [Using the Individual Growth Plan Interview](/handbook/people-group/learning-and-development/career-development/#gitlab-team-member-using-the-igp) 
+- [Using the Achievement Tracker](/handbook/people-group/learning-and-development/career-development/#using-your-accomplishment-tracker) 
+- [Using Epics to Track Career Development](/handbook/people-group/learning-and-development/career-development/#use-gitlab-epics-to-track-your-career-development) 
+- Live Session: Individual Growth Plan 
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - 2021-08-11 @ 6pm PT 
+   - [Recording of call](/handbook/people-group/learning-and-development/career-development/#igp-live-learning)
+
+#### Week 3 
+
+**Topic: Having Career Conversations with Your Manager**
+
+- [Career Development with Brittany Rohde](https://gitlab.edcast.com/pathways/career-development-with-brittany-rohde)
+- [Career Development with Christopher Wang](https://gitlab.edcast.com/pathways/career-development-with-christopher-wang)
+- [Career Development with Brendan O'Leary](https://gitlab.edcast.com/pathways/career-development-with-brendan-o-leary)
+- Live Session: Having Career Conversations with Your Manager 
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - 2021-08-11 @ 6pm PT 
+   - [Recording of call](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations-with-your-manager)
+
+#### Week 4 
+
+**Topic: Having Career Conversations with Your Team Members**
+
+- [Career Development with Diana Stanley](https://gitlab.edcast.com/pathways/ECL-3b8242ee-8583-4dbd-80b1-e337d812d406)
+- Career Conversations with your Team
+   - [Eric Johnson](https://www.youtube.com/watch?v=hYahDZ9nIWA)
+   - [Darva Satcher](https://www.youtube.com/watch?v=F7br2CqkjGE)
+   - [Jane Gianoutsos](https://www.youtube.com/watch?v=PA3Cb51aNrA)
+- [Career Development Framework interview with Kenny Johnston](https://www.youtube.com/watch?v=dNZjmf68UIg)
+- Live Session: Having Career Conversations with Your Team Members
+   - 2021-08-11 @ 12am PT 
+   - 2021-08-11 @ 6am PT
+   - 2021-08-11 @ 1pm PT 
+   - [Recording of call](/handbook/people-group/learning-and-development/career-development/#having-career-development-conversations-with-your-team)
+
+#### Week 5
+
+- [Career Development with Sherrod Patching](https://gitlab.edcast.com/pathways/career-development-with-sherrod-patching)
