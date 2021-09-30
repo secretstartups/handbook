@@ -85,33 +85,33 @@ See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsh
 
 ## #deal-gratitude Slack Channel 
 
-It is up to managers to uphold a steady drumbeat of recognition for their teams. Field Managers consistently asked for a better forum to recognize their team members publicly. 
+It is up to managers to uphold a steady drumbeat of recognition for their teams. Field Managers consistently asked for a dedicated forum to recognize their team members publicly. 
 
-As a result, we launched the #deal-gratitude channel as a forum for managers to provide recognition and share best-practices specifically related to sales deals, customer support/expansion and channel & alliances momentum in a public channel rather than in a specific team channel or meeting. 
+As a result, we launched the #deal-gratitude channel as a forum for Field team members to provide recognition and share best-practices specifically related to sales deals, customer support/expansion and channel & alliances momentum in a public channel rather than in a specific team channel or meeting. 
 
 Key features of this channel include: 
 1. Public channel
-1. Read-only for all but Field Managers+
-1. Open for all GitLab to react and comment
+1. Managers encouraged to post regularly, but all team members are able to post
 1. Reports sent to Field Managers on a monthly basis regarding activity in the channel with reminders to contribute to the channel
 
 #### Best Practices for Managers+ 
-When using this channel, Field managers and above should keep these best-practices in mind: 
+When using this channel, Field managers+ should keep these best-practices in mind: 
+1. **Take the lead.** When your team member has a big win, let them know that you will be the one to post a congratulatory message because you also want to recognize *them*. Asking for their help to gather all names and details is okay, but remember to proactively take the lead on giving your team member recognition, in addition to all of the team members who helped them.  
 1. **Be inclusive.** It takes a team to succeed – tag all team members who played an important role in the win/behavior that you are recognizing.  
 1. **Give recognition often.** Don't wait until the end of the quarter to recognize your team members – provide recognition as the activity happens, and provide it often. 
 1. **Share best-practices.** Use this opportunity to show the Field team "what good looks like." Share all the detail and context (resources, etc.) that you can to allow other team members to learn from and repeat successful, recognition-worthy behavior.  
 
 #### What is the difference between #deal-gratitude and #thanks? 
-The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated for managers+ to recognize team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks", it is not limited to it. Posts in this channel should also share best-practices and lessons-learned so that the outstanding behaviors recognized are repeatable by peers.
+The #thanks is a channel for any team member to thank anyone for contributions in any aspect of their job or personal development. #deal-gratitude is a channel specifically dedicated to recognizing team members for outstanding efforts specifically related to sales deals, customer support/expansion and channel & alliances momentum. While this might include some "thanks", it is not limited to it. Posts in this channel should also share best-practices and lessons-learned so that the outstanding behaviors recognized are repeatable by peers.
 
 **When to use #deal-gratitude**
 
 1. Manager+ recognizing a rep and the full account team (including team members outside of Sales) for going above and beyond to close a customer deal. Shares insights into how/why we won deal.
-1. Manager+ commending an account team for tenacious efforts to close a deal even though it was lost. Shares insights into lost reasons.
-1. Manager commending a CS team member for positive feedback shared by a customer, saving an account from churn, etc.
-1. Manager recognizing a rep or team for successfully attaching professional services.
-1. Manager recognizing the Channel team for helping close a deal.
-1. Manager sharing a pitch deck or similar resource that helped close a deal/drive a meaningful customer meeting.
+1. Manager+ or team member commending an account team for tenacious efforts to close a deal even though it was lost. Shares insights into lost reasons.
+1. Manager+ or team member commending a CS team member for positive feedback shared by a customer, saving an account from churn, etc.
+1. Manager+ or team member recognizing a rep or team for successfully attaching professional services.
+1. Manager+ or team member recognizing the Channel team for helping close a deal.
+1. Manager+ or team member sharing a pitch deck or similar resource that helped close a deal/drive a crucial customer meeting.
 
 **When to use #thanks**
 
