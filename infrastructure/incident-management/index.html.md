@@ -166,14 +166,19 @@ Saturday / Sunday 00:00 - 08:00 UTC does not currently have CMOC coverage.
 ### Corrective Actions
 Corrective Actions (CAs) are work items that we create as a result of an incident. Only issues arising out of an incident should receive the label "corrective action". They are designed to prevent or reduce the likelihood and/or impact of an incident recurrence and as such are part of the Incidence Management cycle.
 
-Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue. 
+Corrective Actions should be related to the incident issue to help with downstream analysis, and it can be helpful to refer to the incident in the description of the issue.
+
+Corrective Actions issues in the Infrastructure project should be created using the Corrective Action issue template to ensure consistency in format and labeling.
 
 ##### Best practices and examples, when creating a Corrective Action issue:
-- They should be [SMART](https://en.wikipedia.org/wiki/SMART_criteria): Specific, Measurable, Achievable, Relevant and Time-bounded.
+- Use [SMART](https://en.wikipedia.org/wiki/SMART_criteria) criteria: Specific, Measurable, Achievable, Relevant and Time-bounded.
 - Link to the incident they arose from.
-- Be assigned a Sev label designating the urgency of the issue completion date.
+- Assign a Severity label designating the highest severity of related incidents.
+- Assign a priority label indicating the urgency of the work.
+- Assign the label for the associated affected service if applicable.
+- Provide enough context so that any engineer in the CA issue's project could pick up the issue and know how to move forward with it.
 - Avoid creating CAs that:
-  - Are too generic (most typical mistake, as oposed to Specific)
+  - Are too generic (most typical mistake, as opposed to Specific)
   - Only fix incident symptoms.
   - Introduce more human error.
   - will not help to keep the incident from happening again.
