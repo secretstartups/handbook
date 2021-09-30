@@ -476,14 +476,14 @@ If additional assistance is required, please comment in the [#marketing_programs
 <details>
 <summary>Expand for existing instruction on multiple timeslot webcasts</summary>
 
-* Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
+Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
 
-The Marketo and Zoom launchpoint integration does not currently support recurring webinars. You must set up a unique Marketo program and unique Zoom webinar program for each session. Despite this limitation, the set up below allows you to streamline the registration process for our target audience by setting up a single landing page with forms configured for multiple date/time options (step 7) to route registrations to the appropriate webcast programs in Marketo/Zoom.*
+The Marketo and Zoom launchpoint integration does not currently support recurring webinars. You must set up a unique Marketo program and unique Zoom webinar program for each session. Despite this limitation, the set up below allows you to streamline the registration process for our target audience by setting up a single landing page with forms configured for multiple date/time options (step 7) to route registrations to the appropriate webcast programs in Marketo/Zoom.
 
 1.  In Marketo to customize the multi-timeslot webcast form.
-  - Go to the design studio and select `FORM 1419: Webcast_MultipleTimeSlots`. 
-  - In `Choose preferred time` field, click `Values`>`Advanced Editor` .
-  - Specify the webcast date/time options and their subsequent unique server values. The server values will be stored in the `Event Date Code` field and used to add registrants to the appropriate Marketo programs you will create in steps 2-6 below.
+  * Go to the design studio and select `FORM 1419: Webcast_MultipleTimeSlots`. 
+  * In `Choose preferred time` field, click `Values`>`Advanced Editor` .
+  * Specify the webcast date/time options and their subsequent unique server values. The server values will be stored in the `Event Date Code` field and used to add registrants to the appropriate Marketo programs you will create in steps 2-6 below.
 
 **`Repeat steps 2 - 7 for each webcast date/time slots:`**
 
@@ -494,9 +494,9 @@ The Marketo and Zoom launchpoint integration does not currently support recurrin
     * Click salesforce campaign sync and select create new to create campaign in SFDC. Make sure to put the landing page url and also the link to the epic in the description.
 
 3. Connect the Marketo program to Zoom via Launchpoint integration
-   - In the Marketo program, click `Event Partner`.
-   - In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
-   - In the Event drop-down, select the name of the corresponding Zoom webcast you set up in step 1.
+   * In the Marketo program, click `Event Partner`.
+   * In the Event Partner drop down, select `Zoom` and in the Login drop down, select `Zoom Webcast`.
+   * In the Event drop-down, select the name of the corresponding Zoom webcast you set up in step 1.
 
 4. Update `My Tokens` at the webcast program level.
    * Update the `{{my.email header alt}}` token with the webcast title.
@@ -548,7 +548,7 @@ If you have 3 webcasts, you will have 3 Zoom webcasts and 3 Marketo programs. Ti
   * Update `Outbound -attendees` and `Outbound -no shows` emails with relevant follow up copies relevant to the webcast. 
   * Approve copy and send samples to the requestor, and the presenter (if different from requestor).
 
-**`Set-up multi-webcast processing`**
+**Set-up multi-webcast processing**
 This is considered a complex set-up. It is recommended that you engage Marketing Ops to assist in the set-up, or at a minimum check the final set-up before you go live.
 
 6. Clone [JPUserCaseStudySeries](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/ME9100A1). Name the new program according to your webcast series. :exclamation: Note for MOps - We need a new program template to clone
