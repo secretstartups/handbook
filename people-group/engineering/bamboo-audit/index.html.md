@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "People Group Engineering"
+title: "People Group Engineering - Bamboo Audit"
 description: "Information about the automated BambooHR Audit we perform on a weekly and monthly basis."
 ---
 
