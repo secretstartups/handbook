@@ -270,5 +270,5 @@ To align our education and enablement with our product, each of the topics below
 - [ Field Certification Handbook Page](/handbook/sales/training/field-certification/)
 - [Sales Training](/handbook/sales/training/)
 - [O'Reilly](https://learning.oreilly.com/home/). Contact your manager for a license.
-- [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice)
+- [Communities of Practice](/handbook/customer-success/initiatives/communities-of-practice.html)
 - [Learn at GitLab](https://about.gitlab.com/learn/)

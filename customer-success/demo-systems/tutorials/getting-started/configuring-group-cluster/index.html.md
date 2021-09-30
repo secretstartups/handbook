@@ -19,7 +19,7 @@ You can request your own Kubernetes cluster that is provisioned in Google Cloud'
 This tutorial shows you how to connect your cluster to your GitLab group after you are notified that your cluster is ready. You will access the Google Cloud Platform (GCP) console to see your cluster, use the Google Cloud Shell to run `kubectl` commands on your cluster, and access the GitLab Demo Cloud Omnibus instance to configure your pre-created group with a Kubernetes cluster. After your cluster has been added, we will install Helm, Prometheus and install your own GitLab Runner.
 
 #### Pre-Requisites
-* [Creating and accessing your account](/handbook/customer-success/demo-systems/tutorials/getting-started/creating-accessing-your-account)
+* Creating and accessing your account
 * Request a Kubernetes cluster in `#demo-systems` Slack channel
 
 ## Step-by-Step Instructions
