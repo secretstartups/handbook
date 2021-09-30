@@ -179,7 +179,7 @@ long internship might look like.
 
 ## How to apply
 
-To apply, please reach out to both David DeSanto (`@david`) and the mentor for listed below for the open time slot.
+To apply, please reach out to both Hillary Benson (`@hbenson`) and the mentor listed below for the open time slot.
 
 ## Upcoming Slots
 
