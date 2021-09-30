@@ -60,7 +60,7 @@ When creating a merge request or issue that affects all members of a given GitLa
 
 eg. for Canada Corp, use `@gitlab-com/entities/canada-corp`.
 
-### On-call scheduling spreadsheet
+## On-call scheduling spreadsheet
 
 On the first day of each month, we populate a spreadsheet including information for team members who have been at GitLab for more than 3 months. The spreadsheet is used by engineering to plan for on-call availability.
 
