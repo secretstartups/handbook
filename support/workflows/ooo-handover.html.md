@@ -19,7 +19,7 @@ As part of the workflow, the support engineer going on leave will leave notes on
 
 ## Workflow
 
-Go to the [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view in Zendesk. For each ticket in your view, do the following:
+Go to the [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view in Zendesk. For each ticket you wish to handover in your view, do the following:
 
 1. Use the [OOO Ticket Handover](https://gitlab.com/search?search=360079367860&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar) macro.
 1. Fill in the sections of the internal note with details for the next support engineer. It is important to leave a summary of what has happened in the ticket so far, and for the potential next steps. If you are uncertain what the next steps are, note that down so the team is at least aware.
