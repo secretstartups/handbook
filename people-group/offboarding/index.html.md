@@ -131,7 +131,20 @@ _Note: If the team member has a contract with a co-employer, the payroll lead wi
 ### Exit Survey
 
 The Exit Survey provides team members with the opportunity to freely express views about working at GitLab.
-People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+People Operations Specialists will send the [CultureAmp](https://www.cultureamp.com/) survey to all team members who are leaving voluntarily. If a team member leaves during a short notice and an exit interview cannot be scheduled prior to the team member leaving, one maybe scheduled after their offboarding date. 
+
+The People Specialist & the team member may proactively set up time to discuss their responses and ask for further information. Exit interviews are not mandatory, however your input will help provide GitLab with information regarding what is working well and what can be improved. Please point team member to the [Offboarding FAQ page](/handbook/people-group/offboarding/faq.html).
+
+#### Exit Survey - Inactive Team Member
+Follow this process to send out an exit survey to an inactive team member;
+
+1. Log into CultureAmp > Settings > Users.
+1. Search for the former team member in the inactive list. 
+1. Select the `activate` user option - This will add them to CultureAmp until the next data sync. The sync runs daily at 1 am PDT. 
+1. Update the email address to the team member personal email. 
+1. Search the former team member in the active list and select `send invite` on the right side of their name.
+1. Open the Exit Survey and follow normal exit survey steps. 
+
 
 #### Exit Survey Reporting on Culture Amp.(For Culture Amp Admins)
 
