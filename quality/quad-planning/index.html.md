@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Quad Planning"
+title: "Product Group Planning"
 description: "The Quality Engineering department helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature."
 ---
 
