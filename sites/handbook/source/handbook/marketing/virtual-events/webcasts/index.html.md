@@ -476,11 +476,11 @@ If additional assistance is required, please comment in the [#marketing_programs
 <details>
 <summary>Expand for existing instruction on multiple timeslot webcasts</summary>
 
-*Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
+* Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
 
 The Marketo and Zoom launchpoint integration does not currently support recurring webinars. You must set up a unique Marketo program and unique Zoom webinar program for each session. Despite this limitation, the set up below allows you to streamline the registration process for our target audience by setting up a single landing page with forms configured for multiple date/time options (step 7) to route registrations to the appropriate webcast programs in Marketo/Zoom.*
 
-1. In Marketo to customize the multi-timeslot webcast form.
+1.  In Marketo to customize the multi-timeslot webcast form.
   - Go to the design studio and select `FORM 1419: Webcast_MultipleTimeSlots`. 
   - In `Choose preferred time` field, click `Values`>`Advanced Editor` .
   - Specify the webcast date/time options and their subsequent unique server values. The server values will be stored in the `Event Date Code` field and used to add registrants to the appropriate Marketo programs you will create in steps 2-6 below.
@@ -523,9 +523,9 @@ The Marketo and Zoom launchpoint integration does not currently support recurrin
 {: #zoom-webcast-series} <!-- DO NOT CHANGE THIS ANCHOR -->
 
 <details>
-<summary>Expand for instruction on creating a single landing page for a multi-webcast series<summary>
+<summary>Expand for instruction on creating a single landing page for a multi-webcast series</summary>
 
-*Note: These instructions are for a multiple webcast series using a single landing page (supporting registration for multiple webcasts with one form submission). If you would like instructions for a single webcast with multiple timeslots and the person can only register for one time, see `Multiple time-slot webcast - Zoom` above. 
+* Note: These instructions are for a multiple webcast series using a single landing page (supporting registration for multiple webcasts with one form submission). If you would like instructions for a single webcast with multiple timeslots and the person can only register for one time, see `Multiple time-slot webcast - Zoom` above. 
 
 The Marketo and Zoom launchpoint integration does not currently support multiple webinars. You must set up a unique Marketo program and unique Zoom webinar program for each session. Despite this limitation, the set up below allows you to streamline the registration process for our target audience by setting up a single landing page with forms configured to allow registering for multiple webcasts at one time to route registrations to the appropriate webcast programs in Marketo/Zoom.*
 
@@ -584,6 +584,8 @@ This is considered a complex set-up. It is recommended that you engage Marketing
       * 5 - Change `List Name` to the List you created for the second webinar.
       * 6 - Change the `List Name` to the List you created for the third webinar. (If you only have two webcasts, delete this step)
    * Schedule: Activate the campaign
+
+</details>
 
 ### Webcast invitation - Zoom
 {: #zoom-webcast-invites} <!-- DO NOT CHANGE THIS ANCHOR -->
