@@ -12,10 +12,11 @@ description: "Information about creating and running experiments at GitLab."
   
 ### Experimentation
 
-This page covers the Growth engineering process for running experiments. See also the product guide, and developer documentation. 
+This page covers the Growth engineering process for running experiments. See also:  
 
-* [Growth Product experimentation](/handbook/product/growth/#how-growth-launches-experiments)
-* [GitLab Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/)
+* [How Growth Launches Experiments](/handbook/product/growth/#how-growth-launches-experiments) (Product)
+* [Experiment Guide](https://docs.gitlab.com/ee/development/experiment_guide/) (GitLab Developer Documentation)
+* [Experimentation Design & Analysis](https://about.gitlab.com/handbook/product/product-analysis/experimentation/) (Product Analysis)
 
 ## Running Experiments
 
@@ -132,7 +133,7 @@ The [Experiment Successful Cleanup](https://gitlab.com/gitlab-org/gitlab/-/issue
     - [Experiment rollout](https://gitlab.com/gitlab-org/growth/team-tasks/-/issues/new?issuable_template=Experiment%20Rollout) issue template for Growth groups
 
 
-### Minimum Viable Experiment (MVE)
+## Minimum Viable Experiment (MVE)
 
 Experimentation, like everything at GitLab, should be approached with [the GitLab CREDIT values](/handbook/values/) in mind, specifically the values of [Iteration](/handbook/values/#iteration), [Efficiency](/handbook/values/#efficiency), and [Results](/handbook/values/#results).
 
@@ -156,3 +157,17 @@ This can be a fairly low cost way to inform next steps, for example rolling back
 Keep in mind that "painted door" tests are not always the best first approach.
 The main idea is to strive for an iterative approach to experimentation.
 Ask yourself, "Is there a simpler version of this experiment which is worth deploying and which still gives us enough data to know how to proceed?"
+
+## Experiment Status
+
+For real time experiment rollout status GitLab team members can view the [experiments API](https://gitlab.com/api/v4/experiments) ([docs](https://docs.gitlab.com/ee/api/experiments.html)) (a JSON viewer for your browser is recommended). 
+
+The "current_status" will be on, off, or conditional. If conditional, there will be either a percentage_of_time or percentage_of_actors. Refer to the [note on feature flags](https://docs.gitlab.com/ee/development/experiment_guide/gitlab_experiment.html#notes-on-feature-flags) in the experiment guide. 
+
+There are dashboards in Sisense to indicate whether the experiment flag still exists, but not the current status. These are also only available to GitLab team members. 
+
+- [Experiments in codebase](https://app.periscopedata.com/app/gitlab/799224/Growth-experiment-cadence?widget=10640386&udv=0)
+- [Experiments removed](https://app.periscopedata.com/app/gitlab/799224/Growth-experiment-cadence?widget=12422147&udv=0)
+- [Legacy experiments (before 13.7)](https://app.periscopedata.com/app/gitlab/799224/Growth-experiment-cadence?widget=10640406&udv=0)
+
+The [experiment rollout board](https://gitlab.com/groups/gitlab-org/-/boards/1352542?label_name[]=experiment-rollout) lists rollout issues linked  [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type) used in development.
