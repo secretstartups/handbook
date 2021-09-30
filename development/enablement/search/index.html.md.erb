@@ -79,6 +79,23 @@ The two types of operations we detail severity metrics for above are:
 - Recall Record, Global: This is the time it takes to recall a record using a globally scoped search of GitLab.com. Records could be entities such as: projects, users, groups, etc.
 - Time until inserted record is recallable: This is the elapsed time between adding a new record and having that new record be recallable via a search. This process depends on many underlying technologies such as the [Go indexer](https://gitlab.com/gitlab-org/gitlab-elasticsearch-indexer), [Sidekiq queues](https://docs.gitlab.com/ee/development/elasticsearch.html#how-does-it-work), and the Elasticsearch database.
 
+### Weighting for Search Issues
+
+We use the Fibonacci rating system to assign weights to Search issues. Below are a few guidelines when assigning issue weight:
+
+* Issues that include `~backend` and `~frontend` work should have the weights added for a total weight representative of the work effort.
+* Spike issues are assigned a weight to help timebox the effort.
+* Bugs will not be assigned a weight.
+* Any issue weighted over 5 should be broken down into smaller iterative steps if the issue does not contain `~backend` and `~frontend` work.
+
+| Weight | Description |
+|--------|--------|
+| 0      | No effort or trivial effort (example: Documentation typo or Feature Flag Rollout) |
+| 1      | Low effort (No Database migrations or Advanced Search migrations) |
+| 2      | Low-Medium effort |
+| 3      | Medium effort |
+| 5      | High effort |
+
 ### Common Links
 
 * [Global Search Team Milestone Board](https://gitlab.com/groups/gitlab-org/-/boards/1339901?label_name[]=group%3A%3Aglobal%20search)
