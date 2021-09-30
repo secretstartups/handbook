@@ -5,7 +5,7 @@ title: "PR Manager"
 
 ## Role
 
-The GitLab PR Manager will help GitLab build thought leadership and drive conversation in external communications channels. This position is responsible for developing and overseeing the public relations (PR) strategy at GitLab, and will work across teams and the globe to develop and execute public relations (PR) campaigns in line with GitLab initiatives.
+The GitLab PR Manager will help GitLab build thought leadership and drive conversation in external communications channels. This position is responsible for contributing to developing and overseeing different aspects of the public relations (PR) strategy at GitLab, and will work across global teams to develop and execute public relations (PR) campaigns in line with GitLab's key initiatives.
 
 ## Responsibilities
 
@@ -41,24 +41,24 @@ The PR Manager is a [grade 6](/handbook/total-rewards/compensation/compensation-
 
 #### Responsibilities
 
-- Execute PR plans.
-- Work day-to-day with the media and PR agency to support PR efforts.
-- Ability to develop press releases, pitches and more.
-- Work across teams to find potential news or story ideas.
-- Independently manage projects from start to finish.
+- Execute PR plans that align with the team's OKRs and goals.
+- Work day-to-day with media and global PR agencies to support PR efforts and campaigns.
+- Ability to develop press releases, media pitches, and more.
+- Work with cross-functional teams to seek out potential news/announcements or proactive story ideas for thought leadership.
+- Strong self-starter and ability to independently manage projects from start to finish.
 
 #### Requirements
 
-- 6+ years experience in public relations.
+- 6+ years experience in public relations, preferrably at least 2-3 years of agency experience.
 - Experience in enterprise software or developer public relations.
-- Ability to develop strategic and proactive PR plans in coordination with the PR and wider corporate communications team.
+- Ability to develop strategic and proactive PR plans in coordination with the PR team and wider corporate communications team.
 - Experience working with technology, business, and trade media to achieve impression goals.
-- Excellent written and verbal communication skills.
+- Excellent verbal communication skills.
 - A natural storyteller with excellent writing skills.
 - Highly organized, detail-oriented and able to meet deadlines consistently.
-- Ability to independently manage projects from start to finish; work with light supervision.
-- Able to coordinate across many teams and perform in a fast-moving environment.
-- Experience working with and managing PR agencies
+- Strong time management skills.
+- Ability to successfully coordinate with cross-functional teams and perform in a fast-moving environment.
+- Experience working with and managing PR agencies.
 - Strong ability to use GitLab.
 - Share GitLab values, and work in accordance with those values.
 
@@ -106,7 +106,7 @@ The Senior PR Manager is a [grade 7](/handbook/total-rewards/compensation/compen
 Read more about what a [specialty](/handbook/hiring/vacancies/#definitions) is at GitLab here.
 
 ### Content
-The content specialty covers developing and overseeing the PR content strategy, which includes contributed articles and award submissions. This role also ensures the GitLab Press Page, Press Kit and Handbook pages are updated regularly.
+The content specialty covers developing and overseeing the PR content strategy, which includes contributed articles, thought leadership content for PR campaigns and proactive media outreach, customer case study promotion, press release development and award submissions. As a part of the PR content strategy, this role oversees media sponsorship enagagements, leads content ideation, drafting content and ensuring GitLab is maximizing and fulfillling the sponsorship agreements. This role also ensures the GitLab Press Page, Press Kit and Corporate Communications Handbook pages are updated regularly. 
 
 ### Events
 This specialty maps to the [Field Marketing](https://about.gitlab.com/handbook/marketing/revenue-marketing/field-marketing/) and [Corporate Event](https://about.gitlab.com/handbook/marketing/corporate-marketing/#corporate-events) departments at GitLab. The event specialty covers developing and overseeing the PR strategy for 3rd party tradeshows and GitLab hosted-events.
