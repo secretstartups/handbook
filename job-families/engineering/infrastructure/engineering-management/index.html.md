@@ -137,6 +137,53 @@ The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/
   - [Management at GitLab](https://about.gitlab.com/company/team/structure/#management-group)
   - Experience in managing a remote team
 
+## Manager, Engineering (Environment Automation)
+
+The Engineering Manager, Environment Automation directly manages the engineering team responsible for tasks relating to GitLab environment provisioning and configuration. Team consists of [Site Reliability Engineers](https://about.gitlab.com/job-families/engineering/site-reliability-engineer/) and [Backend Engineers](https://about.gitlab.com/job-families/engineering/backend-engineer/).
+
+The Engineering Manager's responsibility is primarily their team. They need to be familiar with GitLab's underlying technologies and processes to be able to support their team growth, as well as be the final decisive vote in cases where the team is blocked on a decision.
+
+Their primary focus is building a world-class team (hiring and coaching), and putting them in the best position to succeed. They must also efficiently coordinate across departments to accomplish collaborative goals.
+
+### Job Grade
+
+The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+### Responsibilities
+
+  - Hire an incredible team that lives our [values](https://about.gitlab.com/handbook/values/)
+  - Improve the happiness and productivity of the team
+  - Hold regular 1:1's with team members
+  - Drive efforts and ensure efficiency around GitLab production environments automation
+  - Manage team projects
+  - Work across sections within engineering
+  - Improve the quality, security and performance of the product
+  - Work on small code changes outside of the critical path
+
+### Requirements
+
+  - 3+ years managing software development and site reliability engineering teams
+  - Strong technical background
+  - Demonstrated teamwork in a peak performance organization
+  - Experience running a consumer scale platform
+  - Product company experience
+  - Enterprise software company experience or startup experience
+  - Computer science education or equivalent experience
+  - Passionate about open source and developer tools
+  - Exquisite communication skills
+  - [Leadership at GitLab](https://about.gitlab.com/handbook/leadership/#management-group)
+  - Experience in managing a remote team
+  - Ability to use GitLab
+
+### Performance Indicators
+
+Engineering Manager, Environment Automation, have the following job-family performance indicators:
+  - [Hiring Actual vs Plan](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#hiring-actual-vs-plan)
+  - [Diversity](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#diversity)
+  - [Handbook Update Frequency](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#handbook-update-frequency)
+  - [Team Member Retention](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators/#team-member-retention)
+
+
 ### Performance Indicators
 
 Manager, Engineering (Scalability), have the following job-family performance indicators:
@@ -200,7 +247,7 @@ The Senior Engineering Manager, Delivery and Scalability, has the following perf
 
 ## Director, Infrastructure (Reliability)
 
-The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department. These teams work on GitLab.com and also contribute to our core product. They are capable of managing multiple teams and guiding a portfolio of projects to successful outcomes. They are expert recruiters of Database Reliability Engineers, Site Reliability Engineers and Engineering Managers. They understand how to assess team capabilities and grow the existing talent on their teams. They possess a vision for successful reliability engineering and are advocates for supporting practices and technology. This role is a senior influencer who models the behaviors we want to see in our teams and contributes to great results. 
+The Director, Infrastructure (Reliability) manages the Engineering Reliability teams within the Infrastructure Department. These teams work on GitLab.com and also contribute to our core product. They are capable of managing multiple teams and guiding a portfolio of projects to successful outcomes. They are expert recruiters of Database Reliability Engineers, Site Reliability Engineers and Engineering Managers. They understand how to assess team capabilities and grow the existing talent on their teams. They possess a vision for successful reliability engineering and are advocates for supporting practices and technology. This role is a senior influencer who models the behaviors we want to see in our teams and contributes to great results.
 
 ### Job Grade
 
