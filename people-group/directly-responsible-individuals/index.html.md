@@ -91,7 +91,7 @@ Giving or receiving feedback is tough and we have looked at this in our previous
 
 ## DRI, Consulted, Informed (DCI)
 
-Different organizations use different methods of assigning responsibility; one of the most popular is the [RACI Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix), which outlines who the Responsible-Accountable-Consulted-Informed folks should be on a decision or project.
+Different organizations use different methods of assigning responsibility; one of the most popular is the [RACI Matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix), which outlines who the Responsible-Accountable-Consulted-Informed people should be on a decision or project.
 
 GitLab's implementation of a DRI for decision-making means that we have evolved the RACI matrix to DCI (DRI, Consulted, Informed).
 
