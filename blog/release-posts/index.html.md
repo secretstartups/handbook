@@ -71,6 +71,7 @@ _**Note:** The specific steps that should be followed, when they are due, and th
 - [**Release Post Manager**](#release-post-manager)
 - [**PM contributors**](#pm-contributors)
 - [**PMM reviewers**](#pmm-reviewers)
+- **PMM lead** (for the purpose of shadowing for the related but separate Marketing driven blog)
 - [**TW lead**](#tw-lead)
 - [**Product Design reviewers**](#product-design-reviewers)
 - [**TW reviewers**](#tw-reviewers)
@@ -225,7 +226,7 @@ The manual way can be done either locally or using the GitLab Web IDE:
 Create a merge request with the introductory changes _after the previous post has been merged and before the feature freeze date_ to make the post available to receive contributions from the team:
 
 1. The source branch must be `release-X-Y` and the target branch `master`.
-1. Set the title to `Release post - GitLab X.Y`.  Do **not** prefix the title with `Draft:` or `WIP:`.
+1. Set the title to `Draft: Release post - GitLab X.Y`.  Prefix the title with `Draft:` or `WIP:`.
 1. Confirm that "Delete source branch when merge request is accepted" is selected.
 1. Use the release post template for your MR.
 
@@ -324,7 +325,7 @@ Sometimes `bin/release-post-assemble`  may fail if there is a Ruby version updat
 
 #### Communication
 
-The release post manager, the Technical Advisor, the Product Operations DRI, and the Technical Writer will need to communicate about topics that are related to the release post, these should occur in the `#release-post` channel in Slack.
+The release post manager, the Technical Advisor, the Product Operations DRI, the Technical Writer, and PMM Lead will need to communicate about topics that are related to the release post but not relevant to the broader team, these chats should occur in Slack `#X-Y-release-post-prep` channel in Slack, to minimize distractions and unnecessary notifications for the broader team in Slack #release-post.
 
 The release post manager posts in Slack channels most requently with reminders. As such, if the release post manager is seeking guidance on how to phrase certain posts, it's recommended to scroll to the appropximate date that post would have been made by the previous release post manager in the relevant Slack channel. However, here are some best practices and an example:
 
