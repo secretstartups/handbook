@@ -206,7 +206,7 @@ The process is as follows:
         1. If it falls within the CA squad's scope, leave the Corrective Action label in place. Otherwise remove it with a note.
         1. New issues that are created related to an Epic with a "corrective action" label should not get that label, so as not to artificially inflate the numbers for tracking purposes. 
     1. Moved to another team/project
-        1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate projeet.
+        1. Sometimes it becomes clear that a particular corrective action is not an Infrastructure issue. Add a note and move the issue to the appropriate project. If the issue is the responsibility of a stage group, consider adding the `~infradev` label. 
     1. Needs more information
         1. If context is missing or scope is unclear, ping the relevant engineers or managers in the issue to get clear so that a determination can be made for one of the above four cases.
 1. When refinement is complete and the issue has one of above outcomes, label the issue with "workflow-infra::refined" to indicate refinement is completed and remove the "workflow-infra::under review" label. If you know you will be the one to do the work, leave yourself as the assignee, otherwise remove yourself.
