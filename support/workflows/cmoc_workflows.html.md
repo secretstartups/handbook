@@ -62,7 +62,7 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - _We're seeing elevated error rates on GitLab.com, investigation is underway in: link_
 - _Some users are reporting connection issues to GitLab.com, we're working on it in: link_
-- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the IMOC and EOCs:
+- Craft a draft of what you think is correct. Whenever possible use ["I intend to..." language](https://www.youtube.com/watch?v=7KnPjakwqeI) when communicating with the Incident Manager and EOCs:
 
   - _@IMOC - I'm going to post: "We've isolated the network problem to the APAC region and are working with Cloudflare support to get it resolved_.
   - _"In my next update I'm going to move the status to monitoring"_
@@ -76,13 +76,13 @@ Once you join the incident Zoom call, take note of any updates that have been ma
 
 - If you really don't know, it really is okay to ask!
 
-### EOC vs. IMOC
+### EOC vs. Incident Manager
 
-In later sections of this workflow it's called out that at times you should be asking the IMOC of the incident for permission to move an incident between certain states (updating, monitoring, resolving). On the rare occasion that an incident does not have an IMOC, you may ask the EOC instead.
+In later sections of this workflow it's called out that at times you should be asking the Incident Manager of the incident for permission to move an incident between certain states (updating, monitoring, resolving). On the rare occasion that an incident does not have an Incident Manager and EOC has assumed Incident Manager responsibilities you may ask them instead.
 
 ### Finding Related Tickets
 
-In some circumstances, the IMOC may ask you to find the number of tickets that an incident may have raised in order to evaluate the impact of the incident.
+In some circumstances, the Incident Manager may ask you to find the number of tickets that an incident may have raised in order to evaluate the impact of the incident.
 
 Because the default views will only show unassigned tickets in your region, start with using this [Zendesk Search](https://gitlab.zendesk.com/agent/search/1?type=ticket&q=created%3E4hours%20order_by%3Acreated_at%20sort%3Adesc%20group%3Anone%20group%3A%22support%22%20-form%3Abilling%20-form%3Asecurity) to find all recent tickets.
 
@@ -190,7 +190,7 @@ shadow}
 This process should be followed when all of the following are true:
 
 - CMOC escalation to an incident has occurred
-- Public notification is occurring or the IMOC has determined the incident requires e-group notification.
+- Public notification is occurring or the Incident Manager has determined the incident requires e-group notification.
 
 #### 4. Label the GitLab Incident Issue to reflect customer communications status
 
@@ -252,7 +252,7 @@ As noted in the specific sections below, some of these steps are situational and
 
 #### 1. Begin Monitoring (Situational)
 
-Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the IMOC. **It may also be requested that the monitoring period be skipped entirely.**
+Once the component affected by the incident has returned to operating normally we will often switch the incident over to a monitoring period to ensure that the problem does not recur. The monitoring period typically lasts for 30 minutes by default, but it can vary and a different amount of time may be requested by the Incident Manager. **It may also be requested that the monitoring period be skipped entirely.**
 
 If a monitoring period will be used simply edit the incident, and configure the update similar to the following.
 
@@ -269,7 +269,7 @@ Take special note of the changes made to the following fields at this stage.
 
 #### 2. Resolve Incident
 
-Once we're confident that systems have returned to normal operation, **the IMOC has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
+Once we're confident that systems have returned to normal operation, **the Incident Manager has given the all-clear**, and we've completed a monitoring period (if we chose to) of the incident we should mark it as resolved.
 
 Once these conditions are met, make an update to the incident and change the following fields.
 
@@ -351,7 +351,7 @@ Slash commands such as the following can be used to expedite getting the meeting
 /zoom meeting CMOC Handover Briefing
 ```
 
-In case there are any uncertainties around the status of an incident, please contact the IMOC for clarification.
+In case there are any uncertainties around the status of an incident, please contact the Incident Manager for clarification.
 
 ## CMOC Shadow PagerDuty Schedule
 

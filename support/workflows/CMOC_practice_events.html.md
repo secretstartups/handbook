@@ -22,12 +22,12 @@ The practice events provide an opportunity to practice the activities and proces
 
 - Familiarity with tools like Status.io so that in a real emergency they’re not a blocker to communication
 - Increased familiarity with the CMOC process and confidence in a live event
-- Familiarity with the incident room, Slack #incident-management channel and how communication is formalized between IMOC, EOC and CMOC during the course of an incident
+- Familiarity with the incident room, Slack #incident-management channel and how communication is formalized between Incident Manager, EOC and CMOC during the course of an incident
 - An opportunity to retrospect and get live feedback from a friendly audience
 
 ### Participants
 
-- a manager or senior support engineer will fulfill the role of the **IMOC** (and EOC if appropriate) and facilitate the practice event and scenario
+- a manager or senior support engineer will fulfill the role of the **Incident Manager** (and EOC if appropriate) and facilitate the practice event and scenario
 - a **note taker** (another manager or senior engineer) will take notes of any learnings, improvements or gaps in documentation or process identified during the event
 - the rostered  **CMOC** will participate as though it were a live incident (but without the pressure of an actual incident or busy incident room!)
 
@@ -36,7 +36,7 @@ The practice events provide an opportunity to practice the activities and proces
 - Practice event [Issue template](https://gitlab.com/gitlab-com/support/support-team-meta/-/blob/master/.gitlab/issue_templates/CMOC%20Practice%20Event.md)
 - Practice Environment for status.io - [status.io test](https://app.status.io/statuspage/5b36dc6502d06804c08349f7)
 - [Event feedback template](https://docs.google.com/document/d/1jMMpnwyfmQXI0uRoqk4AyvpwI75PevjyjeHOKNl1PPs/edit#heading=h.c2zm35l7tdgg) - coordinator of quarterly event creates a new version for the quarter
-- [Script library](https://docs.google.com/document/d/1vz64G0KUVnDwyUbqNsk12VuakU_IkeEfZtBBGFNrLtM/edit#heading=h.1acgctaxu9mf) - confidential to Support Managers (and SEs who may carry out the IMOC role for practice events)
+- [Script library](https://docs.google.com/document/d/1vz64G0KUVnDwyUbqNsk12VuakU_IkeEfZtBBGFNrLtM/edit#heading=h.1acgctaxu9mf) - confidential to Support Managers (and SEs who may carry out the Incident Manager role for practice events)
 - [CMOC workflow](https://about.gitlab.com/handbook/support/workflows/cmoc_workflows.html) handbook page
 - [Incident roles and responsibilities](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#roles-and-responsibilities) handbook page
 
