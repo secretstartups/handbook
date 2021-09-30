@@ -175,6 +175,7 @@ long internship might look like.
 
 | Intern | Mentor | Time Period | Type | Write-up |
 | @ericrosenberg88 | @stkerr | July 2020 | Internal | [Blog post](https://about.gitlab.com/blog/2020/08/04/security-scan-experience/)
+| @kkwentus1 | @sam.white | January 18, 2021 - February 19, 2021 | PM Shadow | |
 
 ## How to apply
 
@@ -183,8 +184,7 @@ To apply, please reach out to both David DeSanto (`@david`) and the mentor for l
 ## Upcoming Slots
 
 | Time frame | Mentor | Track |
-| January-July 2021 | @stkerr | Open Source |
-| January 18, 2021 - February 19, 2021 | @sam.white | PM Shadow |
+| None currently available.  If you are interested please comment in the #product Slack channel and tag @hillary | | |
 
 ### Interns
 
