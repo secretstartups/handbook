@@ -56,6 +56,8 @@ Note: This application process is visible internally. It is preferred and more e
 - Field Operations: David Hong (VP of Field Operations)
 - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
 
+4. Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
+
 ### Your 4th Trimester Applications
 For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`.
 
@@ -63,11 +65,12 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
-* Submit your expenses via [Expensify](https://about.gitlab.com/handbook/finance/expenses/#expense-reimbursement).
+* Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#-work-related-online-courses-and-professional-development-certifications).
+* Close the issue once you have submitted your Expensify report.
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 * for conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
-* Total Rewards will then notify payroll to begin the reimbursement process. 
+* Total Rewards will then notify payroll to begin the reimbursement process and close the issue.
 
 ## Recoupment of Growth and Development Reimbursements
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab.
@@ -84,6 +87,8 @@ Please contact [Payroll](mailto:payroll@gitlab.com) or [People Ops](mailto:peopl
 Reimbursements for over $1,000 USD will be processed by the following: 
 
 1. Team member opens a new Growth & Development issue and requests for approval from their Manager and Executive Leader (if the application is over $1000 USD).
+1. Total Rewards will log the application on their Growth & Development Benefit log and assign the label `GrowhDevelopment::Logged`.
+1. Total Rewards will update the label of the issue according to the approval progress of the application.
 1. Total Rewards will check the eligibility (hire date and tally) of the team member on the Growth & Development log.
 1. Once the team member completes the program or receives the invoice (for non academic study applications), the team member will send `growth-development@gitlab.com` a copy of the transcript/proof of completion/invoice.
 1. Total Rewards will upload the documents in the team member's BambooHR Growth & Development folder.
