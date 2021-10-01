@@ -50,23 +50,17 @@ You have the freedom to choose what is best for the customer and GitLab. We valu
 On a weekly basis:
 
 1. [Review at least two tickets with your manager in 1:1 calls](/handbook/support/workflows/working-on-tickets.html#1-weekly-ticket-review). This helps maintain and improve quality (technical, communication and collaboration).
-1. [Aim for around 50% to 60% of public replies to be on tickets that are assigned to you](/handbook/support/workflows/working-on-tickets.html#2-public-replies-on-your-assigned-tickets). Assigning tickets helps resolve customer problems quickly and efficiently as well as encouraging learning and collaboration.
 1. [Meet the ticket baseline](/handbook/support/workflows/working-on-tickets.html#3-meet-the-ticket-baseline) for solved tickets, public replies, and internal notes for the type of tickets you are working on. This encourages the even distribution of ticket volume across the team.
 
 ## 2. Help meet our Service Level Objectives for ticket reply times (Daily)
 
-Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-service-levels) mean that we offer round-the-clock support for customers. We work together as a team to meet SLAs, so you will often update tickets *assigned to people in other regions* that are close to breaching SLA.
+Our [Support Service Levels](https://about.gitlab.com/support/#gitlab-support-service-levels) mean that we need to reply to new tickets soon after they arrive.
 
-1. The [First Response Time Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#first-response-time-hawk) makes sure that new tickets are triaged and get a reply as soon as possible.
-1. The [SLA Hawk](/handbook/support/workflows/meeting-service-level-objectives.html#sla-hawk) draws attention to tickets that are near SLA breach.
-1. The [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew) replaces both FRT Hawk and SLA Hawk. The Response Crew system is currently being used by Support Engineers in EMEA and being trialled in AMER.
-
-**You should balance your time supporting the SLA hawk with the ['Solve Support Tickets'](#1-solve-support-tickets-daily) responsibility above.**
+**You should balance your time taking new tickets with the ['Solve Support Tickets'](#1-solve-support-tickets-daily) responsibility above.**
 
 **What does success look like?**
 
-1. Carrying out the [hawk roles or participating in the response crew](/handbook/support/workflows/meeting-service-level-objectives.html) when it's your turn in the rotation.
-1. Aim for around 40% to 50% of public replies each week to be on tickets that are assigned to someone else. You'll usually make these replies on tickets that are 'near the top of the queue' to help meet our Service Level Objectives. Engineers working in the US Federal on-call rotation should aim for at least 15% of public replies within the general tickets to be assigned to someone else since they are not part of the hawk rotations.
+1. Every day, [take ownership of new tickets to help us meet our FRT Service Level Agreement](/handbook/support/workflows/meeting-frt-sla.html). The linked page gives guidance on how many new tickets to take based on your focus area.
 
 ## 3. Join customer calls (Weekly)
 

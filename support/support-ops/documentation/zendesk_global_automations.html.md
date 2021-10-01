@@ -56,5 +56,4 @@ managing Zendesk via the various GitLab projects, please review
 | [Security::DMCA::Reopen on-hold DMCA requests](https://gitlab.zendesk.com/agent/admin/automations/360036581334) | 16 | Reopens on-hold DMCA tickets | Active |
 | [SSAT::Survey::Send out survey](https://gitlab.zendesk.com/agent/admin/automations/46784293) | 17 | Sends out the SSAT survey after a ticket has been solved for one day | Active |
 | [Status::Close::Autoclose JiHu tickets if user is not associated](https://gitlab.zendesk.com/agent/admin/automations/360072649139) | 18 | Closes JiHu tickets if there is no associated organization | Active |
-| [Notifications::Slack::Post soon to breach FRT tickets in spt_amer-crew](https://gitlab.zendesk.com/agent/admin/automations/360075049639) | 19 | Posts soon to breach tickets in the AMER response crew channel | Active |
 | [Status::Close::Close unassociated partner tickets](https://gitlab.zendesk.com/agent/admin/automations/360076287319) | 20 | Closes select/alliance partner tickets if there is no associated organization | Active |

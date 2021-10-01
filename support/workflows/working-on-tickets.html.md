@@ -26,8 +26,7 @@ When you're "Working on Tickets", you're driving achievement of our KPI of [Supp
 
 ## How do we prioritize tickets?
 
-While there may be some regional variations as to how/by which group of people this set of priorities is handled (for example, [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew)), the global priority order for handling tickets is:
-
+The global priority order for handling tickets is:
 
 | What | Description | Why? | What PI does this affect? |
 |---|---|---|---|
@@ -43,70 +42,32 @@ Here's what to do when you're actively working on tickets in Zendesk. Divide you
 
 1. taking **next** steps on tickets that are already in your
    [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834)
-   view, and
-2. assigning yourself new tickets from the main view for your region and
-   current focus (see [Main Views](#main-views) table), and identifying and
-   taking **first** steps on those tickets )in line with [Meeting Service Level Objectives](/handbook/support/workflows/meeting-service-level-objectives.html).
-
-If you are part of a [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew) this will influence how you divide your efforts as you will have more focus on incoming tickets on your crew day.
+   view
+1. replying to new tickets from the `Needs Org / FRT` and `Handover Needed` views (see [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html)).
 
 #### Main Views
-These views show all the unassigned tickets for their respective region and
-focus. All tickets in these views should be new, since all tickets should be
-assigned when the first reply is made.
 
-<table>
-  <tr><th>Current Focus</th><th>Region</th><th>Main View Name with Link</th></tr>
-  <tr>
-    <td rowspan="3">Support</td>
-    <td>AMER</td>
-    <td>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076150200">AMER Needs Org/Triage/FRT</a>
-      <br>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076150240">AMER+All Regions Needs Assignee</a>
-   </td>
-  </tr>
-  <tr>
-    <td>APAC</td>
-    <td>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076456599">APAC Needs Org/Triage/FRT</a>
-      <br>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076150260">APAC+All Regions Needs Assignee</a>
-   </td>
-  </tr>
-  <tr>
-    <td>EMEA</td>
-    <td>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076456639">EMEA Needs Org/Triage/FRT</a>
-      <br>
-      <a href="https://gitlab.zendesk.com/agent/filters/360076150280">EMEA+All Regions Needs Assignee</a>
-   </td>
-  </tr>
-  <tr>
-    <td rowspan="1">SaaS Account</td>
-    <td>All Regions</td>
-    <td><a href="https://gitlab.zendesk.com/agent/filters/360050768099">SaaS Account</a></td>
-  </tr>
-  <tr>
-    <td rowspan="1">L&R</td>
-    <td>All Regions</td>
-    <td><a href="https://gitlab.zendesk.com/agent/filters/360038103700">L&R</a></td>
-  </tr>
-</table>
+1. My Assigned Tickets - Keep your customers up to date and moving towards solutions
+1. [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360050768099) - all SEs find new tickets here
+1. [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360050768099) - all SEs find new tickets here
+1. [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - SaaS focused SEs find new tickets here
+1. [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
+1. [L&R](https://gitlab.zendesk.com/agent/filters/360038103700) - for L&R focused SEs
 
 #### The Full Workflow
+
 1. Start your work at the top of your own view
 1. Determine whether you can identify any next steps to make progress
    1. If you can, then take those steps, including updating the user
    1. If not, then link the ticket in Slack and ask for help from your teammates
-1. If it's been an hour or more since you checked the [Main Views](#main-views), or your own view is up-to-date or empty, and **you have the capacity to take on another ticket**, then:
-   1. Check the priority of the top ticket in the views [for your region](#main-views). If its preferred region is `All Regions`, and the priority is `High`, follow the [High Priority All-Region Tickets Workflow](/handbook/support/workflows/high-priority-all-regions-tickets-workflow.html)
-   1. If the priority is lower, assign it to yourself
+1. If **you have the capacity to take on another ticket**, find a new ticket to take ownership of by following the steps in [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html)
+
 1. If you've asked in Slack for help on a ticket, and nobody has stepped up to help, and you feel you can't wait any longer for help, then:
    1. `@mention` your manager in Slack in the thread where you requested help, and ask them what the next steps should be
 1. If there are tickets left in your view to work on, then go back to step 1, else go back to step 3
 
 #### Workflow Visual
+
 See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visual representation.
 
 <!-- ![Working on Tickets process flowchart](assets/working-on-tickets-workflow.png) -->
@@ -115,13 +76,8 @@ See the [Working on Tickets Flowchart](#working-on-tickets-flowchart) for a visu
 
 1. Teamwork is really important with this workflow. Be aware of what's happening
    across the board: watch Slack channels for requests from other SEs on their
-   tickets, and check the `Your region Needs Org/Triage/FRT`, `SaaS Account`, `Free user tickets`, and
-   `Your region+All Regions Needs Assignee` views for tickets you can work on.
-   that need some help. To be sure that your suggestions align with the work
-   the assignee has already done, it's best to post an internal note or to pair
-   with them. If you decide to post a public response, be sure that your next
-   steps align with the action plan that the assignee has described on their
-   replies or ticket summary.
+   tickets, and check the `Needs Org / FRT`, `Handover Needed`, `SaaS Account` and `Free user tickets`
+   views for tickets you can work on.
 1. Ensure that the subject of a support ticket is both descriptive and
 accurate. You can edit the Subject to fix typos or make the problem
 clearer. Some examples include:
@@ -169,11 +125,8 @@ Some caveats to bear in mind:
 
 ### FAQ About Working on Tickets workflow
 
-1. **How many tickets should I have assigned to me?** There's no specific number. Aim to take as many tickets as you can while being sure that you can give good attention to each of them daily (unless they’re on hold). You might expect that to be somewhere between three and ten open, pending or on-hold tickets in your [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view.
-1. **Isn't it the FRT Hawk's responsibility to give the first response on a
-   ticket, not mine?** In the past, FRT Hawks were responsible for new tickets. We've evolved our approach so that now new tickets are everyone's responsibility, not just the
-   FRT Hawk's. Some regions have a [Support Response Crew](/handbook/support/workflows/meeting-service-level-objectives.html#support-response-crew).  The FRT Hawk's job is **not** to provide the first response on every new ticket, but rather to provide that first response when
-   nobody else has been able to take the ticket in time to meet SLA.
+1. **How many new ticket should I pick up each day?** See [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html).
+1. **How many tickets should I have assigned to me?** There's no specific number. Aim to take as many tickets as you can while being sure that you can give good attention to each of them daily. You might expect that to be somewhere between three and ten open, pending or on-hold tickets in your [My Assigned Tickets](https://gitlab.zendesk.com/agent/filters/360062369834) view.
 1. **A ticket is assigned to someone else - can I work on it?** Absolutely!
    Support Engineers should
    [balance their day](/handbook/support/support-engineer-responsibilities.html#2-help-meet-our-service-level-objectives-for-ticket-reply-times-daily)
@@ -292,47 +245,6 @@ If another engineer is looking at a ticket that you’re interested in working o
    that you've stopped the SLA clock, so it's up to you to respond on time. **Do
    not take this action if you are not planning to be the one to follow up.**
 
-### A ticket is close to breaching SLA. Should I help or defer to the assignee?
-
-When you're helping the SLA Hawk to prevent tickets from breaching you need to
-make a judgement call on what the best action is for the user.
-
-**Usually** you will take next steps to move the ticket forward and reply with a
-helpful response even if the ticket is assigned to someone else and originates
-in another region.
-
-**Occasionally** it's more helpful to let the user know that the assignee will
-get back to them soon. **When would you do this?** There are no hard rules but
-consider things like:
-
-1. Are you unclear about the next step because you don't have
-   full context and it's not a problem with which you're familiar?
-1. Is the customer being severely impacted by the problem?
-1. Is the customer clearly in another region?
-   (check the 'Events' view in Zendesk and see where they're
-   located - shown at the bottom of all their replies)
-1. Is the assignee out of office today / tomorrow?
-
-If you choose to do this, make sure the ticket already has an assignee and send
-a public reply letting them know that:
-
-> 'Ticket owner name' will be back in touch with you later today with an update. Let us know if you need assistance before then.
-
-If the ticket has no preferred region set (the field is blank due to the user
-submitting the ticket by email) you could also ask:
-
-> I notice you're based in the USA, is it OK if we set the preferred region for this ticket to 'AMERICAS' so you'll receive replies during US office hours?
-
-You can now put the ticket 'on-hold'.
-
-As a courtesy it is **important to add an internal note** to let the ticket owner know your
-reasoning for sending the holding reply and checking they're OK with that. You
-can also ping them in Slack if you wish. Be mindful of how you feel if someone
-does this for a ticket assigned to you and explain why you thought this was the
-best course of action. You might write something like:
-
-> Putting on hold as (insert Ticket Owner Name) is part way through replicating this problem and is in communication with software engineers in their region about the issue.  Contact is based in AMER so is not expecting round the clock replies. Hope that's OK (insert Ticket Owner name)?
-
 ### I need deeper technical assistance on a non-emergency case - what do I do?
 
 Sometimes, you might require help from senior support engineers, subject matter experts or developers on your tickets. These tickets are most likely either long-running or technically challenging. We encourage [collaboration](/handbook/values/#collaboration) and you can use the following steps as a general guideline if you are unsure of what to do next:
@@ -353,7 +265,6 @@ At times the usual ticket workflow may be interrupted by a new customer [emergen
 ### A customer has confirmed a ticket can be closed but the ticket has no assignee - what should I to do?
 
 When reviewing tickets or monitoring them to prevent SLA breaches you may encounter instances where a customer has confirmed that they have been provided with a solution however the ticket has not been assigned to an individual support engineer.  In this type of situation you should inform the customer that you are changing the ticket status to solved and assign the ticket to either the engineer who provided the technical solution or if this is not distinguishable then use good judgement and assign the ticket to an engineer who has significantly contributed to the ticket throughout its life cycle. 
-
 
 ### Understanding Ticket Status
 
@@ -493,18 +404,15 @@ Free users receive support in a few specified cases following the [free users se
 1. It is not part of a formal performance review.
 1. We're investigating a more comprehensive [ticket retrospective process](https://gitlab.com/groups/gitlab-com/support/-/epics/23).
 
-## 2. Public replies on your assigned tickets
+## 2. Take ownership of new tickets
 
 ### Aim
 
-Alternate your focus between working on your assigned tickets and assisting
-others with making progress on theirs.
+Help the team in [Meeting FRT SLA](/handbook/support/workflows/meeting-frt-sla.html)) by replying and taking ownership of new tickets each day. Follow the link to see how many to reply to.
 
 ### How to do it
 
-1. Aim for around 50% to 60% of public replies to be on tickets that are assigned to you.
-
-[TODO: A report will be made available to Support Engineers so you can easily see how you are doing.]
+1. Reply and take ownership of at least the [recommended number of new tickets](/handbook/support/workflows/meeting-frt-sla.html#reply-and-assign-new-tickets-every-day) each week for the days you have worked.
 
 ## 3. Meet the ticket baseline
 

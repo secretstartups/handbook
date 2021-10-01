@@ -46,7 +46,6 @@ If at any point you would like advice or help finding additional support, go ahe
 1. Open the Zendesk ticket.
     1. Most PagerDuty notification formats provide a direct link to the ticket.
     1. Alternatively, use Zendesk search with the term `priority: urgent` to find the ticket.
-1. If you are simultaneously on an [FRT or SLA Hawk shift](/handbook/support/workflows/meeting-service-level-objectives.html), ask in Slack for someone to takeover those duties.
 1. Create a Public Comment in the ticket acknowledging the emergency; offer a Zoom call to the customer if appropriate to the reported situation. A SaaS emergency related to a public incident published on the status page, for example, would not warrant a call.
    * Example of self-managed emergency ticket which was resolved without a call: https://gitlab.zendesk.com/agent/tickets/148028
 1. Only Resolve the PagerDuty alert _after_ you have contacted the customer. This means that you are actively handling the emergency now and will see it through.

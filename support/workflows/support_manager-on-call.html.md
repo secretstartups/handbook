@@ -26,6 +26,7 @@ As part of [GitLab Support on-call](/handbook/support/on-call/), Support Manager
 1. [Handling customer-related escalations](#mechanics-of-handling-escalations) during business hours according to the [support escalation definitions of urgency](/handbook/support/internal-support/support-escalations.html#definition-of-urgency)
 1. Acting as a [notification point for security incidents](#act-as-a-notification-point-for-security-incidents)
 1. Providing direction and assistance with regards to [Live Upgrade Assistance Requests](#provide-assistance-with-live-upgrade-assistance-requests) initiated during the shift
+1. Help ensure new tickets don't breach by keeping an eye on the `Needs Org / FRT` view. Ping your region in `#support_team-chat` if tickets are building up to remind people to take new tickets. See [Meeting our FRT SLA](/handbook/support/workflows/meeting-frt-sla.html) for details of how we meet our FRT SLA.
 
 ## Handling customer emergencies and incidents
 
