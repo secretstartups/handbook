@@ -14,81 +14,57 @@ title: The GitLab Procurement Team
 {:toc}
 
 
-## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Policy and Team
-The mission of the Procurement Team at GitLab is to be a trusted business partner at driving business value through external partnerships.
-
-#### Why Procurement? 
+## <i class="far fa-paper-plane" id="biz-tech-icons"></i> Purchasing Mission and Policy
+- The mission of the Procurement Team at GitLab is to drive business value through external partnerships.
 - Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
-- All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved purchase order in Coupa. 
+- All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved Purchase Order (PO) in Coupa. 
 
-**Exceptions to this are:**
-1.  Purchases under $5K that are NOT Software
+**Exceptions to the PO Policy are:**
+1. Purchases under $5K that are NOT Software
       - For clarity, ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
-2.  Last minute un-planned onsite event needs such as food and rental transactions needed for event.
-3.  One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
+1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
+1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
      - In this instance, the vendor can invoice GitLab and AP will route approvals based on the matrix.
-4.  Confidential Legal Fees
-5.  Audit and Tax Fees
-6.  Benefits & Payroll
+1. Confidential Legal Fees
+1. Audit and Tax Fees
+1. Benefits & Payroll
 
-#### How do I contact Procurement?
+## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I contact Procurement?
 - If you have a question, use the #procurement slack channel.
 
+## How do I purchase something?
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
+Choose the type of purchase you're making for guidance:
+<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
+  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
+
+
+  <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renewal or add-on</a>
+
+  <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
+
+<a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
+
+  <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Travel and Home Office Expenses</a>
+
+</div> 
+
+## <i class="fas fa-stream" id="biz-tech-icons"></i> Toolkits
+Includes RFP Templates, scorecards and Vendor Guidelines for doing business with GitLab:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin-left:30px;margin-right:30px;display:grid;align-items:center;height:100%;">Vendor selection process</span></a>  
+  
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</span></a>
 </div>
 
-## How to start Procurement process?
-
-### What are you buying?
-
-
-<div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
-  <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software renewal or add on</a>
-  <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
-<a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
-  <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Travel and Expenses</a>
-</div> 
-
-
-## <i class="far fa-flag" id="biz-tech-icons"></i> Purchase Request Quick Guide
-
-If your purchase request is for one of the US or Netherlands entities (_GitLab Inc, GitLab Federal LLC, GitLab BV, GitLab IT BV_), follow the instructions on the table below.
-
-**Unsure if your vendor is new or existing?**  
-Check the section [How to Search for a Supplier in Coupa](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-search-for-a-supplier) for a detailed guide.  
-If you would prefer to have assistance setting up a new vendor, please ping us in the _#procurement_ channel - indicate you are requesting new vendor setup support and identify the vendor name. A member of the Procurement Team will respond with next steps.
-{: .alert .alert-info}
-
-|   | <$25K | >$25K  | 
-| ------ | ------ | ------ | 
-| **New Software** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create an issue with the [Intake for Software](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template | 
-| **Software Renewal** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  - Create an issue with the [Intake for Software](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template |  
-| **Add on Software** |  - Create an issue with the [Intake for Software](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template | - Create an issue with the [Intake for Software](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template |
-| Subscriptions<br>**New Vendor** | - Fill out a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
-| Subscriptions<br>**Existing Vendor** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |  Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | 
-| Field Marketing & Events<br>**New Vendor** | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [“New Supplier” form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-request-a-new-supplier) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
-| Field Marketing & Events<br>**Existing Vendor** | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) |
-| Professional Services Agency/Contractor<br>**New Vendor** | - Create an issue with the [Intake Form Professional Services](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template<br>| - Create an issue with the [Intake Form Professional Services](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/issues/new?issue%5Bmilestone_id%5D=#) template<br>| 
-| Professional Services Agency/Contractor<br>**Existing Vendor** | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | 
-| PS Partner Team | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | - Create a ["Professional Services Request" form](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-complete-the-professional-services-request-form) in Coupa<br>- Create a [Coupa Requisition](/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-create-a-requisition) | 
-
-As we implement Coupa in a [phased approach](/handbook/finance/procurement/coupa-faq/#does-the-coupa-implementation-impact-all-gitlab-entities), Purchase Requests for all other [GitLab entities](/handbook/tax/#tax-procedure-for-maintenance-of-gitlabs-corporate-structure) will continue to use the existing procurement issues.
-You can learn more about Coupa in our [FAQ Page](/handbook/finance/procurement/coupa-faq/) and checking the [Guide Page](/handbook/business-technology/enterprise-applications/guides/coupa-guide/).
-{: .alert .alert-info}
-
-### How to access Coupa
+### How do I access Coupa to create a Purchase Request?
 
 Coupa is available via Okta. To access the platform:
 1. Login to your [Okta home page](https://gitlab.okta.com/app/UserHome#).
 1. Click on the Coupa (Prod) button.
    - A new tab should open with your user logged in.
 
-Please note that every month all Coupa access will be reviewed and users who haven't been active in a period of 90 days will have their access removed. _(Note that this number may vary depending on the license count for the current month)_   
+Every month all Coupa access will be reviewed and users who haven't been active in a period of 90 days will have their access removed.
 If you need to request access again, please reopen your initial Access Request issue and tag the Finance Systems Admins team using `@gitlab-com/business-technology/enterprise-apps/financeops` in a comment.
 {: .alert .alert-warning}
 
@@ -105,76 +81,11 @@ If your job function requires you to submit purchase requests in Coupa, follow t
 **Best Practices**
 {: .panel-heading}
 <div class="panel-body">
-
 Due to the limited number of licenses available for Coupa, it is recommended that each department identify power users responsible for creating purchase requests on the team’s behalf.
 
-
 </div>
 </div>
 
-## <i class="fas fa-bullseye" id="biz-tech-icons"></i> Procurement Main Objectives
-
-Procurement operates with three main goals
-1.  Cost Savings
-2.  Centralize Spending
-3.  Compliance
-
-## <i class="far fa-clock" id="biz-tech-icons"></i> Procurement Performance Indicators
-Process of measurement in progress.
-
-**Response times to initial requests for review <= 2 business days**
-- Monthly average response time to new procurement purchase request issues within 2 business days. Issues with missing or incomplete information will be rejected after two consecutive attempts to follow up with the issue creator.
-
-**Administer, maintain, and manage the procurement purchase request issue tracker (daily, ongoing) <= 2 business days**
-* Triage and assign issues in the procurement [issue board](https://gitlab.com/gitlab-com/Finance-Division/procurement-team/procurement/-/boards/1844091) within 2 business days of receipt.
-
-**Ensure all contracts have the correct approvals in place before signed = 100%**
-* Verify the correct approvers have approved all purchase requests according to the [Authorization Matrix](/handbook/finance/authorization-matrix/) before the contract is signed. 
-
-**Ensure all fully executed vendor contracts are posted to ContractWorks = 100%**
-* Upload all fully executed agreement to ContractWorks for accurate recording. Legal team will assign terms and fields.
-
-**'Turn-Around' times <= 3 business days**
-* Monthly average response times within purchase request issues for proposal updates, commercial constructs, procurement questions, etc.
-
-
-## <i class="far fa-question-circle" id="biz-tech-icons"></i> Frequently asked questions
-
-#### What if the Vendor I am working with doesn't require a contract?
-1. GitLab requires a Vendor Contract even if your vendor doesn't.
-1. The Vendor Contract approval process is designed to protect both you and the GitLab and the vendor. 
-1. In this event legal can and will provide contract terms to govern the transaction based on the level of risk.
-1. Open the appropriate vendor contract request to initiate the process
-
-## <i class="far fa-flag" id="biz-tech-icons"></i> Important Considerations
-
-#### Vendor Code of Ethics
-All vendors that GitLab does business with, must legally comply with the [Supplier Code of Ethics](/handbook/people-policies/#partner-code-of-ethics). When having discussions with your vendor regarding the contract, make them aware of this requirement.
-
-#### Modern Slavery and Human Trafficking Compliance Program
-
-GitLab condemns exploitation of humans through the illegal and degrading practices of human trafficking, slavery, servitude, forced labor, forced marriage, the sale/exploitation of children and adults and debt bondage (“Modern Slavery”).  To combat such illegal activities, GitLab has implemented this Modern Slavery and Human Trafficking Compliance Program.  
-
-##### *Risk Areas and Markets*
-
-While Modern Slavery can occur in any country and in any market, some regions and sectors present higher likelihood of vioaltions. Geographies with higher incidents of slavery are India, China, Pakistan, Bangladesh, Uzbekistan, Russia, Nigeria, Indonesia and Egypt. Consumer sectors such as food, tobacco and clothing are high risk sectors; but Modern Slavery can occur in many markets.*  
- (*According to Source: Statista, Walk Free Foundation, https://www.statista.com/chart/4937/modern-slavery-is-a-brutal-reality-worldwide/)  
-
-##### *Actions to Address Modern Slavery Risks*
-
-All vendors, providers and entities providing services or products to GitLab (“Vendors”) are expected to comply with [GitLab’s Partner Code of Ethics](/handbook/people-policies/#partner-code-of-ethics) which specifically addresses Modern Slavery laws.  Compliance with the Partner Code of Ethics will be included in Vendor contracts and/or purchase orders going forward.  Existing Vendor contracts will be updated with the appropriate language upon renewal.
-
-Those entities who are of higher risk or whom GitLab suspects may be in violation of Modern Slavery laws, may be required to complete an audit.  Audits may be presented in the form of a questionnaire or may be an onsite visit.  Any known or suspected violations will be raised to Legal and/or Compliance.  Failure to comply with Modern Slavery laws will result in a termination of the relationship and GitLab retains all rights in law and equity.
-
-Vendors understand and agree that violations of Modern Slavery laws may require mandatory reporting to governing authorities. GitLab has discretion if and how to best consult with Vendors for purposes of Modern Slavery reporting. GitLab is sensitive to and will take into consideration, the relationship and the risk profile of Vendor to ensure that Modern Slavery risks have been appropriately identified, assessed and addressed and that the Vendor is aware of what actions it needs to take.
-
-##### *Assessment of Effectiveness*
-
-GitLab will review its Modern Slavery and Human Trafficking Compliance Program on an annual basis or sooner if it is determined there is increased exposure or concerns with overall compliance.   The Program may be amended from time to time by GitLab, to ensure compliance with the most current Modern Slavery laws and regulations.
-
-##### *Compliance Program Approval*
-
-GitLab’s Executive Team reviewed and approves this Modern Slavery and Human Trafficking Compliance Program.
 
 ## <i class="fas fa-book" id="biz-tech-icons"></i> Related Docs and Templates
 
