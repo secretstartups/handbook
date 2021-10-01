@@ -473,9 +473,6 @@ If additional assistance is required, please comment in the [#marketing_programs
 
 :exclamation: **Note from @jgragnola: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
 
-<details markdown="1">
-<summary>Expand for existing instruction on multiple timeslot webcasts</summary>
-
 Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
 
 The Marketo and Zoom launchpoint integration does not currently support recurring webinars. You must set up a unique Marketo program and unique Zoom webinar program for each session. Despite this limitation, the set up below allows you to streamline the registration process for our target audience by setting up a single landing page with forms configured for multiple date/time options (step 7) to route registrations to the appropriate webcast programs in Marketo/Zoom.
@@ -517,13 +514,8 @@ The Marketo and Zoom launchpoint integration does not currently support recurrin
   * Activate the `Interesting Moments` campaign.
   * In the `01b Registration Flow (Multi-timeslot)` smart campaign, modify the referrer link with the webcast landing page url without the https (e.g: `about.gitlab.com/webcast/securing-serverless/`). Add the appropriate `Event Date Code(s)` based on the unique server values outlined in step 1. Activate the smart campaign.
 
-</details>
-
 #### Scheduling a multi-webcast series - Single landing page - Zoom
 {: #zoom-webcast-series} <!-- DO NOT CHANGE THIS ANCHOR -->
-
-<details markdown="1">
-<summary>Expand for instruction on creating a single landing page for a multi-webcast series</summary>
 
 * Note: These instructions are for a multiple webcast series using a single landing page (supporting registration for multiple webcasts with one form submission). If you would like instructions for a single webcast with multiple timeslots and the person can only register for one time, see `Multiple time-slot webcast - Zoom` above. 
 
@@ -585,7 +577,6 @@ This is considered a complex set-up. It is recommended that you engage Marketing
       * 6 - Change the `List Name` to the List you created for the third webinar. (If you only have two webcasts, delete this step)
    * Schedule: Activate the campaign
 
-</details>
 
 ### Webcast invitation - Zoom
 {: #zoom-webcast-invites} <!-- DO NOT CHANGE THIS ANCHOR -->
