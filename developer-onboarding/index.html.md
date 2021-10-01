@@ -114,8 +114,8 @@ volunteer contributors.
 GitLab EE requires a license key to be used.
 
 To be able to run your own instances for development,
-[open an issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab%20Team%20Member%20License)
-using the `GitLab Team Member License` template. In the issue, request for a license that is valid for a year, and provide "Developer on-boarding"
+[open an issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/new?issuable_template=GitLab_Team_Member_License_request)
+using the `GitLab_Team_Member_License_request` template. In the issue, request for a license that is valid for a year, and provide "Developer on-boarding"
 as the reason for a longer expiration.
 
 [Learn more about working with licensing and subscriptions internally.](https://about.gitlab.com/handbook/support/internal-support/#regarding-licensing-and-subscriptions)
