@@ -3,6 +3,12 @@ layout: handbook-page-toc
 title: GitLab Learn User Documentation
 description: "The following resources can be used by learners in the GitLab Learn platform to help navigate the login process, explore new content and more."
 ---
+<style>
+.benImg{
+  max-width: 50%;
+}
+</style>
+
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -136,6 +142,63 @@ If you'd rather watch a video of how to update your GitLab Learn profile, click 
      - Preferred language
      - Profile and banner image
      - Job title
+
+### Using the Manager Dashboard
+
+GitLab managers can use the Manager Dashboard to track learning progress of their direct reports who've added them as their manager in GitLab Learn. Find the dashboard by clicking on the navigation waffle then choose `Manager Dashboard`.
+
+Managers can encourage their team to add their managers to GitLab Learn by going to `My Dashboard` -> `My Organization` then adding their manager.
+
+<div style="text-align: center;display: block;">
+<img class="benImg" src="manager-dash.png" alt="benefits of manager dashboards"/>
+</div>
+
+
+Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/mTC9hNqynNk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+
+**Read the [Metrics Overview] section below if you prefer to read this material.**
+
+#### Important tips for managers
+
+1. Click on team members photo in each tabe to filter data by team membr
+1. Use the `date` and `assignments` filters in the top right hand corner of the report to set date restrictions
+1. You cannot download data as a CSV or other file type from the Manager Dashboard. If you need this kind of report, work with the L&D team to build a report using EdGraph.
+1. The `Cards Completed` metric on the `Overview` tab will indicate the **total number of times any card was completed** by your team member. For example: if 2 teams members each complete a pathway that has 10 total cards, this metric will show 20 card completions. This count is not useful for understanding how many total courses or trainings are actually completed by your team.
+1. Send a reminder to complete assigned content by clicking the `Assignments` tab. Then click the `Send Reminder` button next to the relevant assignment. Select which members you'd like to recieve the custom reminder. Reminders can be customized for users who have `Not Started` and are `In Progress` on any given assignment
+
+#### Metrics overview
+
+There are 4 tabs on the Manager Dashboard. The purposes of each tab is outlined below. Watch the [short video linked above] if you prefer to watch and listen to this information.
+
+| Tab Title | Purpose |
+| ----- | ----- |
+| Overview | High level metrics of all direct reports |
+| Learning Plan | View in-progress learning for each direct report |
+| Assignments | View assignment progression and send reminders for each direct report (For both self-assigned and manager assigned content)|
+| Learning History | View all content completed by each direct report |
+
+Managers can see the following metrics on their dashboard for their direct reports.
+
+| Metric | Description | Application of Metric |
+| ----- | ----- | ----- |
+| Overall Activity | All events completed by direct reports | Platform activity including cards completed, contributed, bookmarks, comments, likes, etc. |
+| Cards Completed | Total cards completed by direct reports | Content consumed |
+| Cards Contributed | Net new cards added by direct reports | Overall contribution |
+| Points Scored | Aggregate of team's leaderboard points | Engagement metric |
+| Learning Hours | Time spent learning determiend by each SmartCard | Engagement metric |
+| Assignments Overdue | Number of assignments made to direct reports not completed by due date | Follow up/reminder required |
+| Cards Shared | Total cards shared with other users | Engagement metric |
+| Top Learning Goals | Top learning goals from direct reports | Learning needs analysis |
+| % completed of courses | Visual bar of percentage of course completed for each direct report | Learner behavior and interest |
+| Total assigned | Total assigned content to direct reports | Required content totals |
+| In Progress assignments | Number of started but not completed assignments | Reminders may be necessary |
 
 
 ### User privacy in GitLab Learn
