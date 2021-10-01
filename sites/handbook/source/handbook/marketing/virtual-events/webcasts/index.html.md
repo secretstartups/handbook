@@ -473,7 +473,7 @@ If additional assistance is required, please comment in the [#marketing_programs
 
 :exclamation: **Note from @jgragnola: let's see if we can simplify and remove the "multiple timeslot webcast" section so that there is just instruction on updating the form (or create a new program template in Marketo)**
 
-<details>
+<details markdown="1">
 <summary>Expand for existing instruction on multiple timeslot webcasts</summary>
 
 Note: These instructions are for a single webcast with multiple timeslots and the person can only register for one time. If you would like instructions for a single landing page for a webcast series of different topics, see `Scheduling a multi-webcast series - Single landing page` below. 
@@ -522,7 +522,7 @@ The Marketo and Zoom launchpoint integration does not currently support recurrin
 #### Scheduling a multi-webcast series - Single landing page - Zoom
 {: #zoom-webcast-series} <!-- DO NOT CHANGE THIS ANCHOR -->
 
-<details>
+<details markdown="1">
 <summary>Expand for instruction on creating a single landing page for a multi-webcast series</summary>
 
 * Note: These instructions are for a multiple webcast series using a single landing page (supporting registration for multiple webcasts with one form submission). If you would like instructions for a single webcast with multiple timeslots and the person can only register for one time, see `Multiple time-slot webcast - Zoom` above. 
