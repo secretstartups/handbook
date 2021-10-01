@@ -9,7 +9,7 @@ This Senior Manager, Self-Service Customer Engagement role is part of a team foc
 The Senior Manager, Self-Service Customer Engagement reports to the Director, Self Service Growth 
 
 ### Job Grade
-The Senior Manager, Self-Service Customer Engagement is a 9(/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Senior Manager, Self-Service Customer Engagement is a [9](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 * Design and implement new ways of engaging with our customers.  Including role definitions, role playbook and any required technology solutions.
