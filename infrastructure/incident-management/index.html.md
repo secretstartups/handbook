@@ -130,6 +130,8 @@ In some cases, we may choose not to post to status.io, the following are example
 1. In the event of a Severity 1 incident which has been running for an hour or more or appears that it will be a long-running Severity 1 incident, page Infrastructure leadership via email at `severity-1@gitlab.pagerduty.com` or via the `GitLab Production - Severity 1 Escalation` service in PagerDuty (app or website) with a link to the incident.
 1. After the incident is resolved, the Incident Manager is responsible for conducting the [post-incident review](/handbook/engineering/infrastructure/incident-review/).
 1. For high severity bugs that affect customers, the Incident Manager is responsible for making sure Incident Reviews are coordinated with other departments in Engineering and go through the complete Incident Review process.
+1. When engaged in an active incident near the end of an Incident Manager shift, the current Incident Manager owns the decision as to whether to continue in their role or to transition the active incident to the incoming Incident Manager. In most cases, this transition should be the expected default behavior. 
+1. During a shift where no Incident Manager engaged incidents have occurred, no transition ("handover") is required. 
 
 To engage the Incident Manager: either run `/pd trigger` in Slack, then select the "GitLab
 Production - IMOC" service, or create an incident in [the Pagerduty page for the
