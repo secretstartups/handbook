@@ -86,3 +86,7 @@ For example:
 > Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address?
 
 Once permission is confirmed by the user, then you may proceed.
+
+### Impersonating
+
+Impersonating a user is considered as taking action on account because it updates **Last sign-in IP** and **Last sign-in at** to the user impersonating.
