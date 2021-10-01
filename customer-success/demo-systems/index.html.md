@@ -14,7 +14,9 @@ description: "The GitLab Demo Systems provide infrastructure for the GitLab Cust
 
 The GitLab Demo Systems provide infrastructure for the GitLab Customer Success, Marketing, Sales, and Training teams to demonstrate GitLab features, value propositions, and workflows in a variety of asynchronous and live capacities.
 
-The Demo Systems were architected by [Jeff Martin](https://gitlab.com/jeffersonmartin) ([Senior Demo Systems Engineer](https://about.gitlab.com/job-families/sales/demo-systems-engineer/)). We have other team members in the Customer Success team that volunteer part-time to help support our users and infrastructure ([James Sandlin](https://gitlab.com/jsandlin) and [Cristiano Casella](https://gitlab.com/ccasella)). We also collaborate with counterparts in other departments for broader GitLab infrastructure configuration in AWS, GCP, etc and security incident response.
+The Demo Systems were architected by [Jeff Martin](https://gitlab.com/jeffersonmartin) starting in October 2019 when he was a ([Senior Demo Systems Engineer](https://about.gitlab.com/job-families/sales/demo-systems-engineer/)). We have other team members that contributed to help support our users and infrastructure ([James Sandlin](https://gitlab.com/jsandlin) and [Cristiano Casella](https://gitlab.com/ccasella)). We also collaborate with counterparts in other departments for broader GitLab infrastructure configuration in AWS, GCP, etc and security incident response.
+
+In June 2021, Jeff Martin changed roles to a [Senior IT Systems Engineer](https://about.gitlab.com/job-families/finance/it-systems-engineer/) and the Demo Systems program became a managed service of the [Business Technology Engineering Infrastructure](/handbook/business-technology/engineering/infrastructure/) team. We continue to maintain the infrastructure and Kubernetes support in the `#demo-systems` Slack channel and related channels listed below.
 
 For questions about what demo sample projects are available or peer assistance with troubleshooting your failed pipeline job, please ask in the `#cs-questions` Slack channel.
 
@@ -22,8 +24,7 @@ Please tag `@Jeff Martin` in one of the following Slack channels with any questi
 * `#demo-systems` is for SA, TAM, and PSE team members with questions or needing technical assistance. No longer for training/workshop related posts.
 * `#demo-systems-workshops` is for workshop-related discussions.
 * `#demo-systems-ps-education` is for ILT/SPT/etc related discussions for Professional Services.
-* `#sandbox-cloud` is for announcements of AWS and GCP sandbox infrastructure.
-* `#sandbox-cloud-questions` is for help and support with the Sandbox Cloud to reduce signal-noise ratio on #sandbox-cloud
+* `#sandbox-cloud-questions` is for help and support with the Sandbox Cloud
 
 Please consider this handbook documentation to be the single source of truth ("SSOT") for all resources that use the `gitlabdemo.com`, `gitlabdemo.cloud`, and `gitlabtraining.cloud` domain names.
 
@@ -99,26 +100,7 @@ These instructions provide you access to one or more of our [shared environments
 
 ### AWS Account or GCP Project (Sandbox Cloud)
 
-These instructions provide you access to your own AWS account and/or GCP project that you can use for deploying your own infrastructure with the benefit of centralized billing.
-
-> You can learn more about the Sandbox Cloud on the [Infrastructure Standards Sandbox Realm page](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/). The Sandbox Cloud is powered by [HackyStack](https://gitlab.com/hackystack/hackystack-portal), an open source project created by [Jeff Martin](https://gitlab.com/jeffersonmartin).
-
-1. Visit the GitLab Sandbox Cloud ([https://gitlabsandbox.cloud](https://gitlabsandbox.cloud)) and sign in with your Okta credentials.
-1. Navigate to **Cloud Infrastructure** in the top navigation.
-1. Click the purple **Create Individual Account** button.
-1. Choose the _cloud provider_ and _cloud organization unit_ from the dropdown menu.
-1. Click the green **Create Account** button.
-1. Your account will take 2-5 minutes for the API to finish the provisioning process while the cloud provider services are activated for your account.
-1. Please refresh your browser window every ~60 seconds until you see that your user account has changed from Provisioning to Active.
-1. Click the **View IAM Credentials** button in the top right corner.
-1. Use the provided URL, Username, and Password to sign in to your new AWS account. Be careful that your browser doesn't autofill saved credentials for a different account.
-1. You're all set! Please save your credentials in your 1Password private vault for easy access in the future.
-1. This is your account to do what you need to. The billing costs are monitored, however this is largely an honor system and we trust that you're doing what's needed for your job role and in the best interest of the spending company money. If the monthly bill reflects a cost that is higher than the customary for your role, the infrastructure team will contact you to review your usage justification and understand if cost efficiencies can be gained.
-1. You can ask for help in the `#sandbox-cloud` or `#sandbox-cloud-questions` Slack channel.
-
-If you would like an AWS account for multiple users in a small group or department, please create an issue using the [AWS Group Account Create Request](https://gitlab.com/gitlab-com/demo-systems/issue-tracker/-/issues/new?issuable_template=aws_group_account_create_request) issue template.
-
-If you would like a GCP project for multiple users in a small group or department, please ask in Slack for the latest process instructions.
+See the [Sandbox Realm](/handbook/infrastructure-standards/realms/sandbox/#how-to-get-started) handbook page for instructions on creating your own AWS account and/or GCP project that you can use for deploying your own infrastructure with the benefit of centralized billing.
 
 ### Invitation Code Creation
 
@@ -218,22 +200,20 @@ We delay the upgrade window for updates that we consider risky or occur during h
 
 For patch and security updates, we will usually only perform upgrades for critical updates and will announce maintenance windows in the `#demo-systems` channel on Slack.
 
-### FY22 Upgrade Schedule
+### Upgrade Schedule
+
+The `cs.gitlabdemo.cloud` instance is upgraded to the latest version on the second or third weekend after release (minimum 10 days) to allow time for patch versions. The `ilt`, `spt`, and `workshop` training instances are version locked based on training content and are upgraded in conunction with course material updates.
 
 | GitLab Version | Release Date     | Upgrade Window (Sat to Sun) |
 |----------------|------------------|-----------------------------|
-| v13.9          | 2021-02-22 (Mon) | 02-27 to 02-28              |
-| v13.10         | 2021-03-22 (Mon) | 03-27 to 03-28              |
-| v13.11         | 2021-04-22 (Thu) | 04-24 to 04-25              |
-| v13.12         | 2021-05-22 (Sat) | 06-05 to 06-06 (delay)      |
-| v14.0          | 2021-06-22 (Tue) | 06-26 to 06-27              |
-| v14.1          | 2021-07-22 (Thu) | 07-24 to 07-25              |
-| v14.2          | 2021-08-22 (Sun) | 08-28 to 08-29              |
-| v14.3          | 2021-09-22 (Wed) | 09-25 to 09-26              |
-| v14.4          | 2021-10-22 (Fri) | 10-23 to 10-24              |
-| v14.5          | 2021-11-22 (Mon) | 11-27 to 11-28              |
-| v14.6          | 2021-12-22 (Wed) | 01-01 to 01-02 (delay)      |
-| v14.7          | 2022-01-22 (Sat) | 02-05 to 02-06 (delay)      |
+| v14.3          | 2021-09-22 (Wed) | 10-02 to 10-03              |
+| v14.4          | 2021-10-22 (Fri) | 11-06 to 11-07              |
+| v14.5          | 2021-11-22 (Mon) | 12-03 to 12-04              |
+| v14.6          | 2021-12-22 (Wed) | 2022-01-01 to 01-02         |
+| v14.7          | 2022-01-22 (Sat) | 02-05 to 02-06              |
+| v14.8          | 2022-02-22 (Tue) | 03-05 to 03-06              |
+| v14.9          | 2022-03-22 (Tue) | 04-02 to 04-03              |
+| v14.10         | 2022-04-22 (Fri) | 05-07 to 05-08              |
 
 ### Legacy Version Support
 
