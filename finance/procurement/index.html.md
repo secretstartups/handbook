@@ -37,24 +37,17 @@ title: The GitLab Procurement Team
 Choose the type of purchase you're making for guidance:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
-
-
   <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renewal or add-on</a>
-
   <a href="/handbook/finance/procurement/professional-services/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Professional Services / Contractors / Agencies</a>
-
-<a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
-
+  <a href="/handbook/finance/procurement/field-marketing-events" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Field Marketing and Events</a>
   <a href="/handbook/finance/procurement/travel-and-expenses/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Travel and Home Office Expenses</a>
-
 </div> 
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Toolkits
 Includes RFP Templates, scorecards and Vendor Guidelines for doing business with GitLab:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
-  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin-left:30px;margin-right:30px;display:grid;align-items:center;height:100%;">Vendor selection process</span></a>  
-  
-  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</span></a>
+  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin-left:30px;margin-right:30px;display:grid;align-items:center;height:100%;">Vendor selection process</a>  
+  <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</a>
 </div>
 
 ### How do I access Coupa to create a Purchase Request?
