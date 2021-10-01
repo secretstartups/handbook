@@ -46,7 +46,10 @@ description: Business Technology
     <a href="/handbook/business-technology/it-compliance/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
     <a href="https://gitlab.com/gitlab-com/business-technology/it-compliance/it-compliance-issue-tracker/-/issues/new" class="btn btn-purple" style="width:170px;margin:5px;">Issue Tracker</a>
   </div>
-  <div style="width:50%;margin:5px;">
+  <div>
+    <h5>Engineering and Infrastructure</h5>
+    <a href="/handbook/business-technology/engineering/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="/handbook/business-technology/engineering/#how-to-engage-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
   </div>
 </div>
 
@@ -126,8 +129,10 @@ description: Business Technology
 - Channels in Slack
     - [`#business-technology`](https://gitlab.slack.com/archives/C01BLS12V37)
     - [`#bt-business-engagement-team`](https://gitlab.slack.com/archives/CKEFG8CBV)
+    - [`#bt-engineering`](https://gitlab.slack.com/archives/C01UDK81DRS)
     - [`#bt-finance-operations`](https://gitlab.slack.com/archives/CSTMYD5E1)
     - [`#bt-integrations`](https://gitlab.slack.com/archives/C015U7R5XJ8)
+    - [`#infra-access-requests`](https://gitlab.slack.com/archives/C027UCXNCTX)
     - [`#it_help`](https://gitlab.slack.com/archives/CK4EQH50E)
     - [`#procurement`](https://gitlab.slack.com/archives/CPTMP6ZCK)
 
