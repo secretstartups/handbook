@@ -18,54 +18,46 @@ title: Software renewals and add-on
 If your request is for any entity OTHER than the US or Netherlands CLICK HERE for instructions.
 
 ## <i class="far fa-clock" id="biz-tech-icons"></i> How Do I Renew My Software Agreement and/or Add Licenses to it?
-An enterprise contract is needed from the vendor to renew a software agreement and/or add additional licenses to an existing agreement. 
-In instances when an enterprise agreement isn’t available, the online terms and conditions can be reviewed for approval if deemed acceptable for GitLab during the legal review phase.
-Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
-This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
-All software renewals and add-ons must have an approved purchase request (LINK to “How do I start the process”) in Coupa before the vendor can be paid.
-Once the Coupa Purchase Request is approved, a Purchase Order (PO) is generated. This is an order number that is sent to the vendor’s billing team. 
-The vendor must reference this PO number on their invoice to GitLab.
-Contracts can only be signed after the Coupa purchase request is approved and may only be signed by the authorized parties in the Finance function. (LINK to auth matrix)
-Only stamped by Legal contracts can be routed for signatures.
-The procurement team will route the contract for signature at the “Contract Routing” approval step.
-The Coupa req creator will be copied on the email to the vendor when the signed contract is sent.
+- Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
+    - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
-HOW DO I START THE PROCESS?
-Login to Coupa via Okta 
-If you need support with login, please ping #coupa-help in slack.
-Create Coupa Renewal Form: “Software Renewal/Addition” (DRI: Business Owner)
-Be prepared to share the following in the Coupa Renewal form:
-Current usage (e.g. number of users, projects, API's, etc.)
-Anticipated usage for next 12 months (e.g. flat, growing or decreasing usage by 20 users, etc.)
-Satisfaction with services (scale of 1 (poor) - 10 (exceptional)) and why.
-Estimated budget
-Need By (Renewal) Date
-Requests without this form will be rejected until the form is added. 
-If you need support opening or completing your Coupa form, tag us in slack at #procurement.
-Once completed, a Coupa Purchase Request is automatically generated (DRI: Business Owner)
-Be prepared to populate the following in the Coupa Purchase Request:
-Vendor’s Main Contact Email address
-Whether or not the software will have access to red and/or orange data (LINK: https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) (incomplete info here will delay security review)
-The data and systems the vendor will have access to (incomplete info here will delay security review)
-Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
-Once submitted, Procurement will review all reqs within 1-2 business days. 
-If no further action or clarification is needed in the req, Procurement will approve - advancing the req will advance to the next approver as identified in Coupa.
-If the contract requires negotiation (LINK TO BELOW), the req will stay in “Pending Buyer Action” status while the procurement team works a-sync in the Coupa req, and/or schedules a meeting to review the goals of the renewal/addition.
+## How Do I Submit a Request to Renew/Add-On to my Agreement?
+1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
+1. Under "Forms", select "Software Renewal Request" and complete the required fields.  
+1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
+    - Whether or not the software will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
+    - All data and systems the vendor will have access to 
+        - Failure to complete this field will delay the review and approval of your request.
+    - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
+    - Upload any contracts you've received.
+    - Click "Submit for Approval"
 
-HOW LONG DOES IT TAKE TO GET MY RENEWAL APPROVED and SIGNED?
-All contracts greater than $25K will be negotiated by the procurement team. The negotiation cycle typically takes 1-3 weeks based on the scope of the request. Large and/or complex contracts can take longer to negotiate.
-Procurement will open software renewal reqs greater than $25K two months in advance of the renewal due date to begin the review and negotiation phase. 
-If Procurement has not created a Req for a renewal you need for any reason, please create or Req or ping us in Slack at #procurement.
-Contract renewal dates are stored here LINK. 
-If you have a software contract that is not listed here or has incorrect information listed, please add/correct it in a comment directly in the link above.
-All software contracts need multiple approvals including fp&a, security, legal, procurement, and functional leaders who each have their own SLA’s. 
-The specific approvals are automated within the Coupa Purchase Request based on your spend type, contract amount, and risk to GitLab. 
-This ensures that GitLab purchases are strategically aligned, and SOX Compliant.
-You can help expedite approvals by completing all fields in the Coupa Request with as much information as possible. If additional information is needed, SLA’s get delayed.
-WHAT IF I HAVE AN URGENT REQUEST?
-Urgent requests that need approval in less than one week, need to be tagged in the #procurement channel for expediting.
-Include a link to your urgent Coupa Request (LINK to How do I start the process?), identify the date needed, and specific impact to the business if this deadline is missed.
-Urgent requests will be reviewed and evaluated. 
-We may or may not be able to accommodate all urgent requests based on the risk and bandwidth necessary. 
-Status will be communicated directly to your slack message.
+## What Happens after I submit my Request?
+- The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
+    - If the contract requires negotiation, the req will stay in “Pending Buyer Action” status and a "Negotiation" Label will be added to the Coupa Req. 
+        - Within 1-2 business days a member of the procurement team will either reach out a-sync, or schedule a meeting to review, depending on the complexity.
+    - If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
+        - Allow 1-2 business days for review and processing.
+- Once neotiation is completed and/or it is determined negotiation is not needed, your purchase request will be approved by procurement and advance to the next approver. Typically the next approver is fp&a. 
+
+## How Long Does it take to get my Software Renewal Approved?
+- All software contracts greater than $25K will be negotiated by the procurement team. 
+    - The negotiation, review and approval cycle typically takes 3 weeks based on the scope of the request. Large and/or complex contracts can take longer to negotiate.
+- Software contracts less than $25K do not need to be negotiated by procurement unless there is a business reason to do so. 
+    - If no negotiation is required, the review and approval cycle typically takes 1-2 weeks. Large and/or complex contracts can take longer, and this can vary wildly based on supplier input into the proces.
+- The procurement process consists of multiple approvals from different cross-functional teams (this can include finance, IT, security, and legal. 
+- All approvals are necessary before your contract can be signed for compliance purposes. Keep in mind each cross-functional team has their own SLA's for review and approval. 
+
+## What if I have an Urgent Request?
+- Urgent requests that need approval in less than 5 business days, need to be escalated in the #procurement channel for expediting.
+- In your slack message you MUST include:
+    - Link to your Coupa Request 
+        - Contracts should not be posted directly in slack
+    - Date needed
+    - Specific and quantifiable impact to the business if date is missed. 
+        - "Supplier wants it signed today" does not qualify as a reason for escalation and these requests will be denied. 
+        - "Price will increase $45K if not signed by Friday" or "Material negative brand impact if not signed by Friday due to missed PR deadlines" are specific, tangible, business impacts, that will be reviewed.
+- Urgent requests will be evaluated, please note these are disruptive to our workflow and our ability to meet SLA's for requests opened on time.
+- We may or may not be able to accommodate your urgent request based on the risk and bandwidth available.
+- If you have a critical request, **please enter the request into Coupa 1-2 weeks prior to needing approval** to avoid needing escalation.
 
