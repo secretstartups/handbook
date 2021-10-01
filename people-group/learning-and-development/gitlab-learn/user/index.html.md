@@ -143,8 +143,6 @@ GitLab managers can use the Manager Dashboard to track learning progress of thei
 
 Managers can encourage their team to add their managers to GitLab Learn by going to `My Dashboard` -> `My Organization` then adding their manager.
 
-![benefits of manager dashboards](manager-dash.png)
-
 <div style="text-align: center;display: block;">
 <img src="sites/handbook/source/handbook/people-group/learning-and-development/gitlab-learn/user/manager-dash.png" alt="benefits of manager dashboards" width="350"/>
 </div>
