@@ -18,4 +18,4 @@ A consistent management operating rhythm (MOR) fosters efficient, predictable gr
 - [SMB Area Sales Manager (ASM) MOR](/handbook/sales/manager-operating-rhythm/smb-sales/)
 - [Channel Sales/Account Manager (CSM/CAM) Leader MOR](/handbook/sales/manager-operating-rhythm/channel-sales/)
 - [Solution Architect (SA) Manager MOR](/handbook/sales/manager-operating-rhythm/solution-architects/)
-- [Technical Account Manager (TAM) MOR](/handbook/sales/manager-operating-rhythm/technical-account-managers/)
+- [Technical Account Manager (TAM) Leader MOR](/handbook/customer-success/tam/tam-manager/)
