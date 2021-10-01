@@ -250,6 +250,15 @@ Learning campaigns at GitLab have an asynchronous focus and are used to raise aw
 
 Learning campaigns use a combination of GitLab issues and Slack announcements to raise awareness and spark discussion. Following the campaign, the L&D team will aggregate comments and resources that have surfaced and document in the handbook. Learning campaigns can be used to build buzz around a live speaker series or to start conversation about a common question or issue that GitLab team members are facing.
 
+### Management Tip of the Week
+
+Weekly Slack messages that are posted in the `#managers` channel with quick, practical maangement advice to help people leaders do their job better, delivered weekly on Friday's. Sample topics include:
+- LinkedIn Learning Courses, articles, GitLab Learn, handbook pages, etc. 
+- Training announcements
+- External webinars
+- Management thought leadership
+
+
 ## CEO Handbook Learning Sessions
 
 GitLab's Handbook pages grow every day. Each page serves as GitLab's primary source of [learning and development material](/handbook/people-group/learning-and-development/#handbook-first-training-content). Throughout FY22, the L&D team and the CEO will hold recorded interactive learning sessions to analyze Handbook pages. The goal of the sessions will be to incorporate more video-based learning into the handbook.
