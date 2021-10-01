@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
-title: "Data Team Calendar - Adding Data Sources"
-description: "GitLab Data Team Calendar"
+title: "New Data Source"
+description: "How to add a new data source"
 ---
  
 ## On this page
