@@ -52,6 +52,7 @@ Due to the nature of the work and projects involved in People Group, this role w
 ### Nice-to-haves
 
 - Experience working with modern Frontend frameworks (eg. React, Vue.js, Angular).
+- Experience with People systems such as Workday, Greenhouse, and BambooHR.
 - Experience in a peak performance organization, preferably a tech startup.
 - Experience with the GitLab product as a user or contributor.
 - Experience working with a remote team.
@@ -117,6 +118,7 @@ The Senior People Group Fullstack Engineer is [Job Grade 7](https://about.gitlab
 ### Nice-to-haves
 
 - Experience in a peak performance organization, preferably a tech startup.
+- Experience with People systems such as Workday, Greenhouse, and BambooHR.
 - Experience with the GitLab product as a user or contributor.
 - Experience working with a remote team.
 - Enterprise software company experience.
