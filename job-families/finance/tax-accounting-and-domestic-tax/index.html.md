@@ -46,7 +46,11 @@ The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-
 
 ## Performance Indicators
 
-*
+* Timely, complete, and accurate completion of tax accounting
+* Timely, complete, and accurate completion of tax returns
+* Efficient use of company resources
+* Project management (successful ability to drive projects to completion (regardless of the resource chosen)
+* Technical abilities
 
 ## Career Ladder
 
