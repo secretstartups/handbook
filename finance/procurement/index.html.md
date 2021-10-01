@@ -19,24 +19,21 @@ The mission of the Procurement Team at GitLab is to be a trusted business partne
 
 #### Why Procurement? 
 - Team members can purchase goods and services on behalf of the company in accordance with the [Signature Authorization Matrix](/handbook/finance/authorization-matrix/) and guide to [Spending Company Money](/handbook/spending-company-money/). 
-- However, all purchases made on behalf of GitLab that are not a personal expense, must first be reviewed by Procurement, then signed off by key members of the leadership team. 
-- Approved Purchase Request Issues are required for all third party purchases being made on behalf of GitLab that aren't considered a [personal reimbursable expense](/handbook/spending-company-money/#expense-policy). 
-- This ensures the organization can appropriately plan for spend and assess supplier risk. 
+- All purchases made on behalf of GitLab that do not qualify as a personal expense, need an approved purchase order in Coupa. 
 
 **Exceptions to this are:**
-1.  Last minute un-planned onsite event needs such as food and rental transactions needed for event.
-2.  One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
+1.  Purchases under $5K that are NOT Software
+      - For clarity, ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
+2.  Last minute un-planned onsite event needs such as food and rental transactions needed for event.
+3.  One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
      - In this instance, the vendor can invoice GitLab and AP will route approvals based on the matrix.
+4.  Confidential Legal Fees
+5.  Audit and Tax Fees
+6.  Benefits & Payroll
 
 #### How do I contact Procurement?
-- If you have a general question or are looking for direction, use the #procurement slack channel.
-- Attend the Procurement Office Hours available on the GitLab Team Calendar.
-- Create an Intake Form based on your needs (Marketing, Software or General/Professional Svcs Intake Form) - for **US** or **Netherlands entity**
-- Create a GitLab Procurement Issue based on your needs (Marketing, Software or General/Professional Svcs Intake Form) - for **Non-US** or **Non Netherlands entity**
+- If you have a question, use the #procurement slack channel.
 
-
-#### When should I contact Procurement?
-- See the purchase request process for when to contact Procurement and how to open a purchase request issue.
 
 ## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
