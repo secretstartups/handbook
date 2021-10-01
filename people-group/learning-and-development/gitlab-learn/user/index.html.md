@@ -3,6 +3,12 @@ layout: handbook-page-toc
 title: GitLab Learn User Documentation
 description: "The following resources can be used by learners in the GitLab Learn platform to help navigate the login process, explore new content and more."
 ---
+<style>
+.benImg{
+  max-width: 50%;
+}
+</style>
+
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -144,7 +150,7 @@ GitLab managers can use the Manager Dashboard to track learning progress of thei
 Managers can encourage their team to add their managers to GitLab Learn by going to `My Dashboard` -> `My Organization` then adding their manager.
 
 <div style="text-align: center;display: block;">
-<img src="manager-dash.png" alt="benefits of manager dashboards" max-width="350"/>
+<img class="benImg" src="manager-dash.png" alt="benefits of manager dashboards"/>
 </div>
 
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
