@@ -14,6 +14,22 @@ This document does not cover servers that are not integral to the public facing 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
+## Purpose
+
+This page is our [document](https://about.gitlab.com/handbook/engineering/security/controlled-document-procedure.html#creation) that captures an overview of the production architecture for GitLab.com.  
+
+## Scope
+
+The compute and network layout that runs GitLab.com
+
+## Roles and Responsibilities
+
+| Role  | Responsibility | 
+|-----------|-----------|
+| Infrastructure Team | Responsible for configuration and management | 
+| Infrastructure Management (Code Owners) | Responsible for approving significant changes and exceptions to this procedure |
+
+
 ## Related Pages
 
 - [Application Architecture documentation](https://docs.gitlab.com/ee/development/architecture.html)
@@ -161,3 +177,8 @@ For more information about secret management see the runbook for [Chef secrets u
 ## Monitoring
 
 See how it's doing, for more information on that, visit the [monitoring handbook](/handbook/engineering/monitoring/).
+
+
+### Exceptions
+
+Exceptions to this architecture policy and design will be tracked in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance/-/issues/).
