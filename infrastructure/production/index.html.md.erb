@@ -150,7 +150,7 @@ Production database backups
 
 ### Procedure
 
-Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage) currently, and soon also to a separate cloud service in parallel. These backups are encrypted, and follow the lifecycle:
+Backups of our production databases are taken every 24 hours with continuous incremental data (at 60 sec intervals), streamed into [GCS](https://cloud.google.com/storage). These backups are encrypted, and follow the lifecycle:
   - Initial 14 days in [Multi-regional](https://cloud.google.com/storage/docs/storage-classes#standard) storage class.
   - After 14 days migrated to [Nearline](https://cloud.google.com/storage/docs/storage-classes#nearline) storage class.
   - After 40 days migrated to [Coldline](https://cloud.google.com/storage/docs/storage-classes#coldline) storage class.
