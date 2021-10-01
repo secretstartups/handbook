@@ -49,17 +49,15 @@ For more information on managing Zendesk via the various GitLab projects, please
 
 ### Current views
 
-**Note**: Any inactive views are exclude from this table.
+**Note**: Any inactive views are excluded from this table.
 
 | Name | Order | Groups that can see it |
 |------|:-----:|------------------------|
 | [My Assigned Tickets](https://gitlab.zendesk.com/agent/admin/views/360062369834) | 1 | Shared |
-| [AMER Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076150200) | 8 | Support AMER |
-| [APAC Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076456599) | 9 | Support APAC |
-| [EMEA Needs Org/Triage/FRT](https://gitlab.zendesk.com/agent/admin/views/360076456639) | 15 | Support EMEA |
-| [AMER+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150240) | 16 | Support AMER |
-| [APAC+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150260) | 17 | Support APAC |
-| [EMEA+All Regions Needs Assignee](https://gitlab.zendesk.com/agent/admin/views/360076150280) | 18 | Support EMEA |
+| [Needs Org/FRT](https://gitlab.zendesk.com/agent/admin/views/360076150200) | 8 | Support AMER<br>Support APAC<br>Support EMEA |
+| [Handover Needed- AMER](https://gitlab.zendesk.com/agent/admin/views/360076150240) | 16 | Support AMER |
+| [Handover Needed- APAC](https://gitlab.zendesk.com/agent/admin/views/360076150260) | 17 | Support APAC |
+| [Handover Needed- EMEA](https://gitlab.zendesk.com/agent/admin/views/360076150280) | 18 | Support EMEA |
 | [SaaS Account](https://gitlab.zendesk.com/agent/admin/views/360050768099) | 20 | Support AMER<br>Support APAC<br>Support EMEA |
 | [Free user tickets](https://gitlab.zendesk.com/agent/admin/views/360038103100) | 22 | Support AMER<br>Support APAC<br>Support EMEA |
 | [L&R](https://gitlab.zendesk.com/agent/admin/views/360038103700) | 24 | Support Focus: L&R |
