@@ -89,4 +89,4 @@ Once permission is confirmed by the user, then you may proceed.
 
 ### Impersonating
 
-Impersonating a user is considered as taking action on account because it updates **Last sign-in IP** and **Last sign-in at** to the user impersonating.
+Impersonating a user is considered as taking action on account because it updates **Current sign-in IP:** and **Current sign-in at** to the user impersonating.
