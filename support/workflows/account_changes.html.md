@@ -89,6 +89,6 @@ Once permission is confirmed by the user, then you may proceed.
 
 ### Impersonating
 
-Impersonating a user is considered as taking action on account because it updates **Current sign-in IP:** and **Current sign-in at** to the user impersonating.
+Impersonating a user is considered as taking action on an account because it updates **Current sign-in IP** and **Current sign-in at** of the user you are impersonating.
 
-When impersonating a user, the administrator account will recieve a slack message fron **Tines** app asking to confirm the impersonation was a legit action.
+When impersonating a user, the administrator account will receive a slack message from the **Tines** app asking to confirm if the impersonation was a legit action.
