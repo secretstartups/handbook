@@ -153,9 +153,15 @@ Managers can encourage their team to add their managers to GitLab Learn by going
 <img class="benImg" src="manager-dash.png" alt="benefits of manager dashboards"/>
 </div>
 
+
 Watch the short video recording below to see how the dashboard can help managers track and encourage their team to take time to learn.
 
-{To Do: Add short video explaining manager dashboards} - 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/mTC9hNqynNk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 
 **Read the [Metrics Overview] section below if you prefer to read this material.**
 
