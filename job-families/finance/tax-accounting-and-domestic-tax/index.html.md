@@ -1,11 +1,20 @@
 ---
 layout: job_family_page
-title: Director of Tax Accounting and Domestic Tax
+title: "Tax Accounting and Domestic Tax"
 ---
 
-The position will report directly to the VP Tax and will interact with one peer and several Tax Department members.
+## Levels
 
-## Responsibilities
+### Director, Tax Accounting and Domestic Tax
+
+The Director, Tax Accounting and Domestic Tax report to the VP Tax and will interact with one peer and several Tax Department members.
+
+#### Director, Tax Accounting and Domestic Tax Job Grade
+
+The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+
+#### Director, Tax Accounting and Domestic Tax Responsibilities
+
 * Staff mentoring and supervision
 * SOX control implementation, testing, and narrative writing
 * Process implementation for global income tax accounting
@@ -19,7 +28,8 @@ The position will report directly to the VP Tax and will interact with one peer 
 * Tax account reconciliation
 * Working with Finance team members on intercompany settlements
 
-## Requirements
+#### Director, Tax Accounting and Domestic Tax Requirements
+
 * Bachelor’s Degree (B.S.) in Accounting. Master’s Degree in Business Taxation preferred.
 * JD and/or CPA preferred.
 * Experience with Software and/or SAAS in a high growth environment.
@@ -34,17 +44,16 @@ The position will report directly to the VP Tax and will interact with one peer 
 * Experience with NetSuite, SalesForce, Zuora, Coupa, GSuite and Avalara are plusses.
 * Ability to use GitLab
 
-## Levels
-### Director
-The Director of Tax Accounting and Domestic Tax reports to the VP, Tax.
+## Performance Indicators
 
-#### Director Job Grade
-The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+*
 
 ## Career Ladder
+
 The next step in the Director, Tax Accounting and Domestic Tax job family is Sr. Director within the Tax Department.
 
 ## Hiring Process
+
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
 * Next, candidates will be invited to schedule a first interview with our VP, Tax
@@ -52,8 +61,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule an interview with our VP, Corporate Controller
 * Finally, candidates will have a 30min call with either our CFO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
-
-## Compensation Calculator
-
-To find out more about the compensation for this role, please apply to a role first. Once selected for a screening call, you'll be able to sign up here to view our compensation calculator. Be sure to use the same email address for both.
+Additional details about our process can be found on our [hiring page](/handbook/hiring)
