@@ -113,9 +113,15 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 ### Coaching & Manager Operating Rhythm
 - [Coaching Handbook page](/handbook/leadership/coaching/)
     - [GROW Coaching Model](/handbook/leadership/coaching/#grow-model)
-- Manager Operating Rhythm (MOR) content coming later this year
+- [Manager Operating Rhythm (MOR)](/handbook/sales/manager-operating-rhythm/)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3iJwoydBbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.loom.com/embed/61fe084ac83741619a8fc5f3dd01c400" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 ## Core Team
 - [Carolyn Bednarz](/company/team/#cbednarz) (People Business Partner, Sales)
