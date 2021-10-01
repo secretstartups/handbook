@@ -148,11 +148,9 @@ Candidates for this position can expect the hiring process to follow the order b
 
 - Qualified candidates will be invited to schedule a 30 minute screening call with one of our Global Recruiters.
 - Next, candidates will be invited to schedule a 30 minute interview with our Director, People Tools & Technology.
-- Candidates will then take part in a 90 minute technical interview with a peer from the team.
-- Candidates will then have two 25 minute meetings with members from the People Group.
-- Candidates will then have a 25 minute meeting with an Engineering Manager.
-- Finally, candidates will be invited to a 25 minute interview with the Senior Director of People Success.
-
+- Candidates may take part in a 45 minute technical interview with a peer from the team.
+- Candidates will then have two 30 minute meetings with members from the People Group.
+- Finally, candidates will be invited to a 30 minute interview with the VP, People Operations, Technology & Analytics.
 Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Performance Indicators
