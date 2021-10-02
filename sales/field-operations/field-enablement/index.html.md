@@ -14,47 +14,61 @@ description: "The Field Enablement team's mission is to design and deliver effec
 
 ## Overview
 
-The Field Enablement team's mission is to: *Design and deliver effective enablement solutions to field team members and partners that grow expertise and confidence needed to drive efficient, predictable, and scalable growth for GitLab.* How we do this:
-- Collaborate with cross-functional stakeholders (including but not limited to Sales, Customer Success, Marketing, Sales Ops, Product/Engineering, and the People team) to address prioritized knowledge, behavior, and skill gaps in the GitLab Field Team to achieve desired business outcomes.
-- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (training, technology, knowledge, content, process, and tools) for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab.
-- Champion the needs and interests of the Field Team (all routes to market) – ensuring that they are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for their day-to-day work to meet and exceed business objectives.
-- Cultivate a culture of curiosity, iteration, and continuous learning & development across the GitLab field organization.
+### Field Enablement Mission
+**Design and deliver effective enablement solutions that grow field team members' and partners' expertise and confidence to drive efficient, predictable, and scalable growth for GitLab** 
+
+### Objectives
+1. Improve field efficiency (direct and indirect routes to market) with effective training solutions to address prioritized knowledge and skill gaps and build a culture of learning
+1. Orchestrate people, process, information, and technology to evolve sales conversations and simplify the ecosystem within which field team members operate
+1. Ensure that the GitLab field organization is regularly informed about relevant business and organizational updates
+
+### How We Do This
+- Collaborate with cross-functional stakeholders (*including but not limited to Sales, Customer Success, Marketing, Sales/CS/Channel Ops, Product/Engineering, Sales Strategy & Analytics, and the People team*) to address prioritized knowledge, behavior, and skill gaps in the GitLab field organization to achieve desired business outcomes
+- Define, coordinate, and/or lead the development and delivery of effective enablement solutions (*training, technology, knowledge, content, process, and tools*) for GitLab Sales, Customer Success, and Partners throughout all phases of the customer journey as well as different stages of each team member's tenure and/or experience at or with GitLab
+- Ensure field team members are regularly informed about relevant business and organizational updates and have access to enablement materials necessary for their day-to-day work to meet and exceed business objectives
+- Cultivate a culture of curiosity, iteration, and continuous learning & development across the GitLab field organization
 
 ## Contact Us 
 - Want to chat with us? Please Slack us at **[#field-enablement-team](https://gitlab.slack.com/archives/field-enablement-team)**. 
 - Have a Field Enablement request? Please use our **[quick request process](/handbook/sales/field-operations/field-enablement/#making-a-field-enablement-request)** below.
 
 ## Key Programs
-
--  [Sales Playbook](/handbook/sales/playbook/)
--  [Sales Onboarding](/handbook/sales/onboarding/)
--  [Command of the Message](/handbook/sales/command-of-the-message)
--  Continuous Learning
-     - [Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel) in GitLab Learn
+1. [Sales & Customer Success Onboarding](/handbook/sales/onboarding/)
+1. Sales Methodologies
+    - [Command of the Message (value-based sales messaging methodology)](/handbook/sales/command-of-the-message)
+    - [MEDDPPICC (strategic opportunity qualification)](/handbook/sales/meddppicc/)
+1. Continuous Learning
      - [Customer Success Skills Exchange](/handbook/sales/training/customer-success-skills-exchange)
      - [Sales Enablement Level Up Webcast Series](/handbook/sales/training/sales-enablement-sessions/)
      - [Sales Training Resources](/handbook/sales/training/)
      - [Technical Questions for Sales](/handbook/sales/training/technical-questions-for-sales/)
--  [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
--  [Customer Success Enablement](/handbook/customer-success/education-enablement/) 
--  [Field Certification Program](/handbook/sales/training/field-certification)
-     - [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)     
-- [Field Manager Development Program](/handbook/sales/field-manager-development/)
+1. Certification
+     - [Field Certification Program](/handbook/sales/training/field-certification)
+     - [Channel Partner Training, Certifications and Enablement](/handbook/resellers/training/)
+1. Revenue & Pipeline Acceleration Programs (coming soon)
+1. [Field Manager Development Program](/handbook/sales/field-manager-development/)
      - [Sales Manager Best Practices](/handbook/sales/field-operations/field-enablement/sales-manager-best-practices)
-- [Field Communications](/handbook/sales/field-communications/)
+1. [Field Communications](/handbook/sales/field-communications/)
      - [Field Flash Newsletter](/handbook/sales/field-communications/field-flash-newsletter/)
      - [Monthly GitLab Release Email to Sales](/handbook/sales/field-communications/monthly-release-sales-email)
-- Sales Events
+     - [Field Team Recognition Programs](/handbook/sales/field-operations/field-enablement/field-team-recognition)
+1. Sales Events
      - [Sales Kickoff](/handbook/sales/training/SKO)
      - [Sales QBRs](/handbook/sales/sales-meetings)
      - [GitLab President's Club](/handbook/sales/club/)
+
+## Additional Resources
+- [GitLab Learn: Field Enablement Channel](https://gitlab.edcast.com/channel/field-sales-team-content-channel)
+- [Field Functional Competencies](/handbook/sales/training/field-functional-competencies/)
+- [Sales Playbook](/handbook/sales/playbook/)
+- [Customer Success Enablement](/handbook/customer-success/education-enablement/)
 
 ## Strategy
 
 <!-- blank line -->
 
 <figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGUQ9g98p31bPZ267en01qJCqgjeX8ZC6GmChBTKz7TV0OEwhFlKbXPgf1YARh5V-lDBegFpu60iTL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5MC4a_pOOZbOCeCOAngFyY9rSEuPaMitIxHpDMvEgxV-9GqrLJtkbiwkZsCe9ueoIq04BSKdU8Qtg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </figure>
 
 <!-- blank line -->
@@ -156,19 +170,22 @@ Knowledge x Practice = Capability
 - **[Sr. Director, Field Enablement](/job-families/sales/director-of-field-enablement/#senior-director-field-enablement)**
     - [David Somers](/company/team/#dcsomers)
 - **[Manager, Field Enablement](/job-families/sales/director-of-field-enablement/#manager-field-enablement-programs)**
-    - [Kris Reynolds](/company/team/#kreynolds1)
-- **[Role-based Enablement Managers: Enterprise Sales, Commercial Sales, Customer Success, and Partners](/job-families/sales/program-manager-field-enablement/)**
-    - [Thabo Bopape](/company/team/#tbopape) (Solution Architect and Technical Enablement)
-    - [Pallavi Daliparthi](/company/team/#pdaliparthi) (Technical Account Manager Enablement)
-    - [Emelie Rodriguez](/company/team/#emelier) (Enterprise Sales Enablement)
-    - [Kelley Shirazi](/company/team/#kelley-shirazi) (Commercial Sales Enablement)
-    - TBH (Partner Enablement)
-- **[Program Manager, Sales Content & Messaging](/job-families/sales/program-manager-field-enablement/)**
-    - [Tanuja Paruchuri](/company/team/#tparuchuri)
-- **[Program Manager, Field Onboarding and Continuous Education](/job-families/sales/sales-training-facilitator-field-enablement/)**
-    - [John Blevins](/company/team/#jblevins608)
-- **[Field Communications Manager](/job-families/sales/field-communications/)**
-    - [Monica Jacob](/company/team/#monicaj)
+    - [Kelley Shirazi](/company/team/#kelley-shirazi) (Manager, Sales Enablement)
+    - [Kris Reynolds](/company/team/#kreynolds1) (Manager, Customer Success Enablement)
+- **[Role-based Enablement Managers](/job-families/sales/program-manager-field-enablement/)**
+    - Enterprise Sales Enablement: [Emelie Rodriguez](/company/team/#emelier)
+    - Commercial Sales Enablement: [Kelley Shirazi (*acting*)](/company/team/#kelley-shirazi)
+        - Commercial Sales Enablement, EMEA: TBH
+    - Partner Enablement: TBH
+    - Solution Architect and Technical Enablement: [Thabo Bopape](/company/team/#tbopape)
+    - Technical Account Manager Enablement: [Pallavi Daliparthi](/company/team/#pdaliparthi)
+- **[Field Enablement Program Managers](/job-families/sales/program-manager-field-enablement/)**
+    - Field Onboarding and Continuous Education: [John Blevins](/company/team/#jblevins608)
+    - Sales Messaging & Content: [Tanuja Paruchuri](/company/team/#tparuchuri)
+    - Field Manager Development: [David Somers (*acting*)](/company/team/#dcsomers)
+- **[Field Communications](/job-families/sales/field-communications)**
+    - [Monica Jacob](/company/team/#monicaj) (Manager, Field Communications)
+    - TBH (Field Communications Specialist)
 
 </details>
 
