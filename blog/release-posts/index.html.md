@@ -395,7 +395,7 @@ Product Managers are responsible for [raising MRs for their content blocks](#con
 
 In parallel with feature development, a merge request should be prepared by the PM with the required content. **Do not wait** for the feature to be merged before drafting the release post item, it is recommended PMs write Release Post Item MRs as they prepare for the milestone Kickoff.
 
-**Important**: The [Instructions](#instructions) below apply up to the 17th, at 11:59 PM PT (6:59 AM UTC). After content assembly on the 18th of the month, anyone who wants to include a change in the upcoming release post must coordinate with the Release Post Manager and follow detailed instructions in the [Merging content blocks after the 18th](#adding-or-removing-content-blocks-after-the-18th) section for special handling of late additions.
+**Important**: The [Instructions](#instructions) below apply up to the 17th, at 11:59 PM PT (6:59 AM UTC). After content assembly on the 18th of the month, anyone who wants to include a change in the upcoming release post must coordinate with the Release Post Manager and follow detailed instructions in the [Merging content blocks after the 18th](#adding-or-editing-or-removing-merged-content-blocks-after-the-18th-and-before-the-22nd) section for special handling of late additions.
 {:.alert .alert-info}
 
 ##### Key dates
@@ -489,11 +489,17 @@ To enable Engineering Managers to merge their feature blocks as soon as an issue
 
 #### Reviewing, editing and updating merged content blocks
 
-After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. It's important to check this page after the content block MR is merged because this page is LIVE to users and should be error free.
+After content block MRs are merged, they can be viewed on the [Preview page](https://about.gitlab.com/releases/gitlab-com/) and should be updated/edited via MRs to master up until the **final merge deadline of the 17th**. Starting on the 18th, content block MRs should be viewed in the Review app of the release post branch after **final content assembly**, and updated/edited on the release post branch by coordinating with the Release Post Manager. From the 22nd forward you should view the content blocks [on the blog](https://about.gitlab.com/releases/categories/releases/). It's important to check this page after the content block MR is merged because this page is LIVE to users and should be error free.
 
-#### Adding or removing content blocks after the 18th
+#### Adding or editing or removing merged content blocks after the 18th and before the 22nd
 
 After the content assembly starts on the 18th of the month and before the 20th, adding any new or removing any merged release post items **must be coordinated with the Release Post Manager**. This is necessary to allow them to assess the impact on the release post and coordinate any necessary adjustments with the release post team (Tech Writer, PM, etc.) Failure to do so might result in your changes not being picked into the release post. Before pinging the release post manager, ask yourself if your content absolutely needs to be part of the current release post. At end-of-day on the 20th, no late content blocks will be accepted.
+
+#### Adding, editing or removing merged content blocks after the 22nd
+
+After the post is live to make edits to feature blocks or deprecation blocks prior to 14.4 click "Edit in Web IDE " at the bottom of the blog post you wish to edit. You will need to make your adjustment in the correct sub-directory, for example, to add or edit the Secure example feature I would add or edit the file `data/release_posts/13_10/secure_feature_example.yml` in an MR against `master`. To remove the feature, simply remove the file as your MR. In the case of a deprecation before 14.4 you would need to make one edit to the file in each sub-directory (release) that it appeared in. For example, if a deprecation appeared in 13.10 and was removed in 14.0 you could need to edit 13.10, 13.11, and possibly the removal in 14.0.
+
+To make an edit to a deprecation in 14.4 and later you need to locate the correct `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project. Once complete, assign the MR to the [technical writer](/handbook/engineering/ux/technical-writing/#designated-technical-writers) assigned to the stage to merge it into the documentation. The next time the release post manager runs `/bin/release-post-assemble` it will automatically correct all previous deprecations to match with the true content from the Single Source of Truth file.
 
 ##### Process for merging late additions
 
@@ -1301,6 +1307,8 @@ _To be added by Product Managers or Engineering Managers and merged in by Techni
 
 
 A deprecation needs to have an initial announcement in the release post notifying the community **at least two releases in advance** of the date of planned removal. Deprecations should also be included in the [documentation](https://docs.gitlab.com/ee/update/deprecations.html) or for at least 2 releases prior to the final removal. Deprecation MRs need to be merged by the 17th of the month so that self-managed customers receive notice in a timely fashion. Please be sure to review and understand the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features). 
+
+#### Creating a deprecation entry
 
 Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project using the template below.
 
