@@ -33,7 +33,7 @@ We are a showcase of GitLab’s culture. Interacting with us is flexible, asynch
   <a href="#self-service-in-the-customer-journey" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Customer Journey</a>
   <a href="#our-partners" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Our Partners</a>
   <a href="#success-metrics" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Success Metrics</a>
-  <a href="#success-metrics" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">WIP Dashboards</a>
+  <a href="#coming-soon-dashboards" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">WIP Dashboards</a>
   <a href="#resources--communications" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Resources</a>
 </div>
 
@@ -60,9 +60,9 @@ __This section contains forward-looking content and may not accurately reflect c
 
 ```mermaid
 graph TD
-    A(Allie Marconi, VP Self-Service & Online Sales <br> Focus: Accountable to growing our self-service channel, aka Web Direct, nARR number and overall adoption of self-service <br> to improve the customer experience while improving go-to-market efficiency. <br> Charter: Lead cross functional efforts to improve and grow our self-service business.  Connect product, marketing and sales with shared vision and operational cadence. <br> Own the self-service vision and drive innovation to achieve.  Invest in and build out a self-service team.) 
-    A --> B(TBH Director <br> Focus: Sales Support, Customer Experience & Product Liaison <br> Charter: Stand up a front line to the self-service experience to improve the customer experience,  <br> save our sales teams time and accelerate our self-service adoption.  Develop our point of view on the customer experience and self-service. <br>  Act as liaison to our product fulfillment team who owns our self-service roadmap, align on prioritization and roadmap.) 
-    A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br> Focus: Product & Data Analytics <br> Charter: Leverage data to optimize for self-service in the customer experience to drive nARR and sales efficiency. <br> Insights will feed: sales visibility, self-service fulfillment features, and marketing experiments. ) 
+    A(Allie Marconi, VP Self-Service & Online Sales <br>  <br> Focus: Accountable to growing our self-service channel, aka Web Direct, <br> nARR number and overall adoption of self-service to improve the customer experience while improving go-to-market efficiency. <br> Charter: Lead cross functional efforts to improve and grow our self-service business.  Connect product, <br> marketing and sales with shared vision and operational cadence. <br> Own the self-service vision and drive innovation to achieve.  Invest in and build out a self-service team.) 
+    A --> B(TBH Director <br>  <br> Focus: Sales Support, Customer Experience & Product Liaison <br> Charter: Stand up a front line to the self-service experience to improve the customer experience,  <br> save our sales teams time and accelerate our self-service adoption.  Develop our point of view on the customer experience and self-service. <br>  Act as liaison to our product fulfillment team who owns our self-service roadmap, align on prioritization and roadmap.) 
+    A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br>  <br> Focus: Product & Data Analytics <br> Charter: Leverage data to optimize for self-service in the customer experience to drive nARR and sales efficiency. <br> Insights will feed: sales visibility, self-service fulfillment features, and marketing experiments. ) 
     C --> D(TBH Sr Analyst)
 ```
 
@@ -88,6 +88,7 @@ This section is to give you a sense of how the Self-Service team interacts with 
     - What is self-service utilization? % of self-service functionality used by customers 
 
 Illustrative example of self-service utilization. 
+
 X = indicates the customer conducted the action via self-service.
 
 |  **Customers** | **Trail** | **Purchase** | **Growth** | **Upgrade** | **Renew** | **Outreach** | **Utilization** |
@@ -100,7 +101,7 @@ X = indicates the customer conducted the action via self-service.
 ## `Coming Soon` Dashboards
 
 ## Resources & Communications
-- **Slack Channel**: `self-service_and_friends`
+- **Slack Channel**: `#self-service_and_friends`
 - Create an issue in the [Self-Service project](https://gitlab.com/gitlab-com/sales-team/self-service) and use the `Self-Service` label
 
 
