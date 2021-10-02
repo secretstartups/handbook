@@ -15,6 +15,7 @@ description: "The Self-Service Team is responsible for delivering a cohesive GTM
 ## Welcome to the Self-Service Handbook
 
 **The Self-Service Team is responsible for delivering a cohesive go-to-market (GTM) that enables customers and prospects to self-serve: from discovery and adoption, purchasing, expanding, and managing their GitLab subscription.** 
+{: .alert .alert-success}
 
 ## Self-Service Vision
 
@@ -27,11 +28,13 @@ We are a showcase of GitLab’s culture. Interacting with us is flexible, asynch
 ## Navigating the Self-Service Handbook
 
 <div class="flex-row" markdown="0" style="height:90px;">
-  <a href="handbook/sales/self-service/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Our Strategy</a>
-  <a href="handbook/sales/self-service/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">The Self-Service Team</a>
-  <a href="handbook/sales/self-service/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Our Partners</a>
-  <a href="handbook/sales/self-service/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Success Metrics</a>
-  <a href="handbook/sales/self-service/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">WIP Dashboards</a>
+  <a href="#our-strategy" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Our Strategy</a>
+  <a href="#the-self-service-team" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">The Self-Service Team</a>
+  <a href="#self-service-in-the-customer-journey" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Customer Journey</a>
+  <a href="#our-partners" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Our Partners</a>
+  <a href="#success-metrics" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Success Metrics</a>
+  <a href="#success-metrics" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">WIP Dashboards</a>
+  <a href="#resources--communications" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Resources</a>
 </div>
 
 ## Our Strategy
@@ -55,6 +58,14 @@ __This section contains forward-looking content and may not accurately reflect c
 
 ## The Self-Service Team
 
+```mermaid
+graph TD
+    A(Allie Marconi, VP Self-Service & Online Sales <br> Focus: Accountable to growing our self-service channel, aka Web Direct, nARR number and overall adoption of self-service <br> to improve the customer experience while improving go-to-market efficiency. <br> Charter: Lead cross functional efforts to improve and grow our self-service business.  Connect product, marketing and sales with shared vision and operational cadence. <br> Own the self-service vision and drive innovation to achieve.  Invest in and build out a self-service team.) 
+    A --> B(TBH Director <br> Focus: Sales Support, Customer Experience & Product Liaison <br> Charter: Stand up a front line to the self-service experience to improve the customer experience,  <br> save our sales teams time and accelerate our self-service adoption.  Develop our point of view on the customer experience and self-service. <br>  Act as liaison to our product fulfillment team who owns our self-service roadmap, align on prioritization and roadmap.) 
+    A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br> Focus: Product & Data Analytics <br> Charter: Leverage data to optimize for self-service in the customer experience to drive nARR and sales efficiency. <br> Insights will feed: sales visibility, self-service fulfillment features, and marketing experiments. ) 
+    C --> D(TBH Sr Analyst)
+```
+
 ## Self-Service in the Customer Journey
 
 This section is to give you a sense of how the Self-Service team interacts with the differents parts of the customer journey.
@@ -70,9 +81,27 @@ This section is to give you a sense of how the Self-Service team interacts with 
 
 ## Success Metrics
 
-## Dashboards
+- **Accelerate nARR**: nARR vs. plan > 1
+    - This is our north star metric
+- **Efficiency**: growth efficiency >= 1.5 by FY’23
+- **Customer Experience**: self-service utilization `coming soon`
+    - What is self-service utilization? % of self-service functionality used by customers 
+
+Illustrative example of self-service utilization. 
+X = indicates the customer conducted the action via self-service.
+
+|  **Customers** | **Trail** | **Purchase** | **Growth** | **Upgrade** | **Renew** | **Outreach** | **Utilization** |
+| :--------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- |
+| **Customer A** | X | X |  |  | X |  | **50%**
+| **Customer B** |  |  | X |  |  | X | **33%**
+| **Customer C** | X |  |  | X | X | X | **66%**
+| **Total** | **2** | **1** | **1** | **1** | **2** | **2** | **50%**
+
+## `Coming Soon` Dashboards
 
 ## Resources & Communications
+- **Slack Channel**: `self-service_and_friends`
+- Create an issue in the [Self-Service project](https://gitlab.com/gitlab-com/sales-team/self-service) and use the `Self-Service` label
 
 
 
