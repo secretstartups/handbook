@@ -29,11 +29,21 @@ The by-the-book schedule for the OKR timeline would be
 
 ## OKRs
 
-### 1. CEO
+### 1. CEO: Encourage wider community engagement
+   1. **CEO KR:** Develop a strategy to grow to 1000 contributors per month
+   1. **CEO KR:** Meet quarterly objectives for hyperscalers and partners
+   1. **CEO KR:** Meet quarterly objectives for customer focus
+   1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued
 
+### 2. CEO: Optimize GitLab Managed future
+   1. **CEO KR:** Improve SaaS reliability to be above 99.95% 
+   1. **CEO KR:** Define SaaS free user strategy, ensure FY23 staffing supports the strategy, and launch storage visibility to increase trial conversion from x% to y% on the path to z%
+   1. **CEO KR:** Have X customers live with GitLab Horse beta
+   1. **CEO KR:** Implement category creation plan
 
-### 2. CEO
+### 3. CEO: Accelerate customer initiatives
+   1. **CEO KR:** Improve SUS usability through completing 100% of quarterly initiatives related to Workspace, Learnability, and Foundations
+   1. **CEO KR:** First order large SAOs on yearly plan
+   1. **CEO KR:** Achieve X% of ARR on cloud licensing
 
-
-### 3. CEO
 
