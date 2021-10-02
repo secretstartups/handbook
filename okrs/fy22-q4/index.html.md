@@ -38,7 +38,7 @@ The by-the-book schedule for the OKR timeline would be
 ### 2. CEO: Optimize GitLab Managed future
    1. **CEO KR:** Improve SaaS reliability to be above 99.95% 
    1. **CEO KR:** Define SaaS free user strategy, ensure FY23 staffing supports the strategy, and launch storage visibility to increase trial conversion from x% to y% on the path to z%
-   1. **CEO KR:** Have X customers live with GitLab Horse beta
+   1. **CEO KR:** Have X customers live with Project Horse beta
    1. **CEO KR:** Implement category creation plan
 
 ### 3. CEO: Accelerate customer initiatives
