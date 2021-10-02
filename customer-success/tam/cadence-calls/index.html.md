@@ -46,14 +46,34 @@ Recommended details to include in the agenda include:
   - Items where the customer is looking for assistance from the TAM to get resolution (feature requests, support tickets, etc.)
   - [Suggested discussion topics](#cadence-call-topics)
   - Gaps in or outdated Gainsight information (watch an [8 minute video](https://youtu.be/yk95b6u26So) for recommendations!)
+  - Any other items; give room for the customer to bring up unplanned topics
+
+ - Platform
+   - Check for the current version, ongoing/planned deployments of any changes like GEO, HA, Storage, cluster changes) - Let the customer give you an overview of how the GitLab system looks like now or will look like once deployed. Ask if the customer needs support for any topic in the next few days. 
+    - Raise the importance of GitLab Security patches and use it as an additional argument to enable usage/service ping reports of GitLab. 
+    - Learn about the customer's preferred product areas by asking what they are mainly using in terms of tools, integrations, IDEs, languages, etc. Once a new release is out, you will know what you can highlight from the release. Later in future calls: discuss latest releases and availability/status of features requested by the customer.
+ - Support
+   - Explain support handling, including emergency tickets (e.g., do not CC the email, always add in TO, add logs, set correct priority) if there was a recent escalation/emergency. Later on, continue to discuss open/pending ZD tickets 
+ - Recap & Next Steps 
+    - Recap what was aligned on in the call.
+    - List agreed action items. If needed, add deadlines.
+    - Confirm availability dates/times for next call to secure the communication channel (keep this in each call as closing topic).
 
 The collaboration project template includes a [meeting agenda issue template](https://gitlab.com/gitlab-com/account-management/templates/customer-collaboration-project-template/-/blob/master/.gitlab/issue_templates/Meeting%20Agenda.md) that is structured to follow this format.
+
+The topics and the naming of the cadence call (when you send an invite to the customer) are also an important part of the TAM engagement. The following names for the cadence call have been used with success and are recommended - ordered by popularity:
+
+- "Gitlab / <CUSTOMER_NAME> TAM Call" 
+- "Gitlab - Bi-weekly Collaboration" (Adopt, depending on the frequency)
+- "GitLab - TAM Call"
 
 By developing an agenda and doing advance preparation for the meeting, the TAM (and the rest of the [account team](/handbook/customer-success/account-team/)) will be ready with relevant questions and information for the customer.
 
 ### Conducting the call
 
 If the TAM has sufficiently prepared, the call itself should be a comfortable and valuable experience for everyone involved. The TAM should be prepared to conduct the meeting according to the agenda and cover all of the listed discussion points. This is our chance to help the customer make forward progress on their objectives by sharing our expertise and answering their questions!
+
+The TAM should drive the call proactively so the customer sees a value in it. Try to ask questions to get into discussions and let the customer talk most of the time. When putting together the call agenda, ensure that you are covering topics that help you with your customer strategy, but also ask yourself "if I were the customer, would I find this relevant?"
 
 In addition to the [GitLab external communication guidelines](/handbook/communication/#external-communication), here are a few tips for having a strong cadence call:
 
