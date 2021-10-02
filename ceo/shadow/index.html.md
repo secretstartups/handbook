@@ -186,8 +186,6 @@ Exceptional community members may be able to participate, as well.
 
 | Start date | End date | See one | Teach one |
 | ---------- | -------- | ------- | --------- |
-| 2021-09-20 | 2021-09-24 | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  | [Darren Murph](https://gitlab.com/dmurph) - Head of Remote |
-| 2021-09-27 | 2021-10-01 | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity | [Christen Dybenko](https://gitlab.com/cdybenko) - Sr. Product Manager  |
 | 2021-10-04 | 2021-10-08 | UNAVAILABLE  | UNAVAILABLE |
 | 2021-10-11 | 2021-10-15 | UNAVAILABLE | UNAVAILABLE |
 | 2021-10-18 | 2021-10-22 | [Omar Fernández](https://gitlab.com/ofernandez2) - Director, Strategy and Operations | [Kyle Wiebers](https://gitlab.com/kwiebers) - Engineering Manager, Engineering Productivity |
@@ -1076,3 +1074,4 @@ CEO Shadow program alumni are welcome to join the `#ceo-shadow-alumni` Slack cha
 | 2021-08-30  | 2021-09-10 | [Sarah Bailey](https://gitlab.com/sbailey1) | Solutions Architect Manager | |
 | 2021-09-07  | 2021-09-17 | [Kris Reynolds](https://gitlab.com/kreykrey) | Manager, Field Enablement Programs | |
 | 2021-09-13  | 2021-09-24 | [Darren Murph](https://gitlab.com/dmurph) Shadow Alumni | Head of Remote | |
+| 2021-09-20  | 2021-10-01 | [Christen Dybenko](https://gitlab.com/cdybenko) Shadow Alumni | Sr. Product Manager | |
