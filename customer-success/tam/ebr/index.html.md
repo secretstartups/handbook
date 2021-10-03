@@ -21,6 +21,8 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
+For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+
 ### How to bring up an EBR with your customers
 
 To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
