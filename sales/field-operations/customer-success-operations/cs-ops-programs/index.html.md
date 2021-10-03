@@ -152,7 +152,7 @@ This template is designed to walk you through the questions to ask customers to 
 
 1. Navigate to the [CS Ops Issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
 1. Create a new issue.
-1. Select the `CS Programs Research Template` from the dropdown menu.
+1. Select the `TAM Program Research Template` from the dropdown menu.
 
 This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
 
