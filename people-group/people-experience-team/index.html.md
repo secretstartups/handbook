@@ -22,8 +22,6 @@ Holidays with no availability for onboarding/offboarding/career mobility issues:
 
 | Date    | Reason |
 |------------------- | --------------|
-| 2021-09-06 | Public Holiday
-| 2021-09-24 | Family and Friends Day
 | 2021-10-15 | Family and Friends Day
 | 2021-11-29 | Family and Friends Day
 
