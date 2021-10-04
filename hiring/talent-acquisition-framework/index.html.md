@@ -20,4 +20,4 @@ description: "This page is an overview of the processes each party of the search
    - [People Technology & Insights Processes](/handbook/hiring/talent-acquisition-framework/talent-acquisition-operations-insights)
    - [Req Creation Process](/handbook/hiring/talent-acquisition-framework/req-creation/)
    - [Req Overview Processes](/handbook/hiring/talent-acquisition-framework/req-overview/)
-   - [Talent Community Processes](/handbook/hiring/talent-acquisition-framework/talent-community/)
+   

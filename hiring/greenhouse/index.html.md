@@ -37,11 +37,6 @@ There is also a quick link to `People I'm Following`, so you can easily get to t
 The next section is called, `Helpful Links`, which includes a link to our [internal job board](https://app2.greenhouse.io/internal_job_board), a link to a list of our "in-house contacts" (which are GitLab team-members who are our Greenhouse account owners) with their names and emails, and a link to the Greenhouse [Help Center](https://support.greenhouse.io/hc/en-us).
 
 The last button of note is the `Personalize Dashboard` button at the bottom of the righthand panel. You can use this to adjust your settings on your dashboard. For example, to hide or rearrange sections to your liking.
-
-### Sharing the Talent Community on social media
-
-You can share the link to our Talent Community sign-up page. To note, sharing the Talent Community link with someone or on social media does **not** count as a *Referral* and is thus, **not** eligible for the [Referral Bonus](/handbook/incentives/#referral-bonuses).
-
 ## For all Interviewers
 
 ### Application Review for Interviewers
@@ -560,7 +555,6 @@ If you have a **Product Enhancement Request** or need to submit a **Support Tick
 1. By using the *Live Chat* feature from anywhere within Greenhouse (bottom left corner)
 1. By submitting a request on [Greenhouse Support's Website](https://support.greenhouse.io/hc/en-us/requests/new).
 
-To note, when contacting Greenhouse's Support Team directly, please cc [Erich Wegscheider](mailto:ewegscheider@gitlab.com) on **all** tickets.
 
 =======
 

@@ -344,6 +344,13 @@ GitLab has an entity (Ireland LTD) in Ireland . All team members in this locatio
 
 Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 
+## Process for GitLab Team Members in Singapore, South Korea, or France
+GitLab has entities in Singapore, South Korea, and France. All team members in this location are employees, but payroll will be processed through Global Upside. Please be sure to select the correct docusign email template so they will be CC'ed as the final step of the offer process.
+
+Reminder: France requires contracts to be individually drafted by the Legal team. There is a [SSOT document](https://docs.google.com/spreadsheets/d/1HQxOwt30v1qffulaZay61aj_A5edQgb_zfBrhoq0CgA/edit#gid=0) where we keep track of these requests. 
+
+Always ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
+
 ## CXC
 
 GitLab is working in partnership with [CXC Global](http://cxcglobal.com/) to employ GitLab team-members located in **Poland**, **Ukraine**, **Romania**, **Russia**, **Serbia**, & **Slovenia**. The actual employment contracts will be sent and issued by CXC and are in accordance with local labor law. CXC also handles the processing and payment of payroll and associated taxes and compliance in each of the countries on behalf of GitLab. The contracts themselves are between the individual and CXC.
@@ -384,7 +391,7 @@ To create the contract:
 
 ## Safeguard
 
-GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, France, Italy, Brazil, and South Korea. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
+GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in Switzerland, Italy,and Brazil. You can also review this [document](https://drive.google.com/file/d/1aUjgb37XO-3LqdW8WF8l-QV2ZcTLBTPj/view?usp=sharing) that Safeguard created regarding frequently asked questions about their process.
 
 To create the contract:
 

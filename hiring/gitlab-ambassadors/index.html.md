@@ -74,7 +74,7 @@ Here are some steps you can take to get started optimizing your profile.
 **6. Add media**
 - Videos about your team or life at GitLab
 - Blog posts
-- Your [README file](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme)
+- Your [README file](/handbook/leadership/#your-individual-readme)
 
 #### More training for rocking your profile on LinkedIn
 
@@ -97,7 +97,7 @@ Once you've checked out the [team member social media policy](/handbook/marketin
 - [Videos about your team or job family](/handbook/hiring/vacancies/#add-a-video) or what it's like to work on your team ([example](https://youtu.be/KH0knfmwgvc)).
 - Photos of meetups or coworking days with GitLab team members
 - Articles about GitLab in the news - follow the #newswire channel in Slack for a great source of daily updates
-- Your [README file](/handbook/marketing/inbound-marketing/digital-experience/website/#creating-and-publishing-your-gitlab-readme)
+- Your [README file](/handbook/leadership/#your-individual-readme)
 - Consider hosting a public AMA (Ask Me Anything) on [social media](/handbook/marketing/team-member-social-media-policy/) or YouTube about working or life at GitLab, using the `#LifeAtGitLab` hashtag. Or, record a [coffee chat](/company/culture/all-remote/informal-communication/#coffee-chats) with a team member about life at GitLab and upload it to the `Working at GitLab` playlist on [GitLab Unfiltered](https://www.youtube.com/playlist?list=PL05JrBw4t0KqNM5pnenLqkA9pIoFO5edr).
 
 Here are some [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) you can reference for our latest team headcount, awards, blogs, and more facts about working at GitLab.
@@ -168,8 +168,8 @@ Feel free to make this your own and personalize it based on the specific message
 
 >  Hi, {NAME}, thank you for your interest in GitLab!
 It's an exciting time to be part of our team. We're one of the largest all-remote companies in the world, with team members in more than 65 countries.
-The best way to share your information with our talent acquisition team is to [join our talent community](https://boards.greenhouse.io/gitlab/jobs/4700367002), but first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
-You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/#gitlabs-outbound-talent-acquisition-model), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
+The best way to share your information with our talent acquisition team is to apply to a relevant role on our [careers page](/jobs/careers/). But first, I encourage you to take a look through our [company handbook](/handbook/) to learn a bit more about our culture.
+You can find out more about our hiring process on the [Jobs FAQ page](/jobs/faq/), and our [all-remote page](/company/culture/all-remote/) is an awesome resource to explore GitLab's approach to remote work.
 I also recommend reading through our [company values](/handbook/values/) to understand how we work and interact as a team.
 GitLab is an incredibly unique place to work, and I'm happy to point you in the right direction if you have more questions.
 

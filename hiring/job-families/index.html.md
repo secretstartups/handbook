@@ -20,6 +20,8 @@ Job families are [organized by function in directories in the www-gitlab-com rep
     * Sometimes you should just add a level, a specialty or a segment and not create a new job family.
 1. We don't include location requirements for most roles (EMEA, Americas, APAC) in the job family because these can change over time and job families are constant.
 1. We don't include [expertises](/company/team/structure/#expert), since these are free form.
+1. We don't include a specific number of years of experience unless absolutely neccesary. We instead say that a person in a specified role should be able to show "relevant, progressive experience" in a particular field. 
+    * For grade 4 & 5 roles, we avoid listing any kind of prior experience requirements to encourage people with unique career or educational journeys to see themselves in a particular role.
 1. We don't allow them to read like a [vacancy](/handbook/hiring/vacancies/). The job family could be used for hiring however they are more often serving as the requirements that team members and managers alike use in conversations around career development and performance management. The verbiage you don't want to use includes phrases like "you will", or "exciting opportunity" or "we're hiring for".
 1. We are continually iterating on job families. Do not search other job families for examples of what good looks like. The templates below and this page are the SSOT for guidance.
 1. Team Lead vs people Manager vs function Manager: you should be aware of how GitLab defines these terms. Depending on the needs of the organization, a Team Lead may or may not directly manage people. There are 2 instances where a Team Lead role can be used:
@@ -33,9 +35,13 @@ Job families are [organized by function in directories in the www-gitlab-com rep
 Anyone can create or edit a job family, in general it is the responsibility of the person who will manage the position or job family. They may enlist help from others. After a merge request is created for an existing job family or a new one, **the merge request must follow this approval flow**:
 1. **Your manager**: Your direct manager is responsible for clarifying the scope of responsibilities and level of roles, checking responsibilities and requirements and ensuring the job family follows the template logic and **has all of the required areas**. Any review after this should be quick so the manager is the gatekeeper.
 1. **Your executive leader**: Your executive leader is responsible for confirming the role is in plan and review of department/division structure and levels.
-1. **[The Recruiting Manager](/company/team/#Kellymurdock)**: Ping them to approve by at-mentioning them in the #job-family slack channel and assigning the merge request to them. They are responsible for checking to ensure it follows template and conventions; they are the final step before the CEO, in cases where it is an existing role and no major changes have been made they may choose to merge without the CEO's involvement.
-1. **CEO**: After all have approved the merge request, ping the CEO to merge by at-mentioning the CEO in the #job-family slack channel and reassign them to the merge request. It is preferable to ping the CEO in the same thread as the previous step.
-1. **Total Rewards**: While the CEO reviews you should ping the Total Reward Team `@gl-total-rewards` on the merge request to review. They will propose a [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) to add to the [job families](https://gitlab.com/gitlab-com/people-group/peopleops-eng/compensation-calculator/-/blob/master/data/job_families.yml) file in GitLab and assign it to the leader of group. Once merged, the entry on the `job_families.yml` file will automatically update the [Compensation Calculator](/handbook/total-rewards/compensation/compensation-calculator/), which is available to all our team members and advanced candidates. If a benchmark is not clear the Total Rewards Team will reach out to the People Business Partner who supports the function to understand the job family better. The total rewards team will complete a separate merge request to add the comp benchmark. Once merged, they add the benchmark to the backend comp calc and compaas changes sheet.
+1. **[The Recruiting Manager](/company/team/#Kellymurdock)**: Ping them to approve by at-mentioning them in the #job-family slack channel and assigning the merge request to them. They are responsible for checking to ensure it follows template and conventions.
+1. **Total Rewards**: The Total Rewards Team, `@gl-total-rewards`, is the final approver for job families on the merge request ensuring:  
+  * There is a business need for the level within the job family.
+  * The level is common in the market based on survey data. 
+  * All components of the job family are populated. 
+  * A [benchmark](/handbook/total-rewards/compensation/compensation-calculator/#new-benchmark) is set to add to the Compensation Calculator.
+  * A Job Title is created within BambooHR.   
 
 ## Templates for New Job Family
 
@@ -137,7 +143,7 @@ Additional details about our process can be found on our [hiring page](/handbook
 * Do not repeat the junior requirement list for more senior levels:
    * You do not want to relist an entire requirement set from a more junior level that also pertains to a more senior one. You can choose to keep the section title as {Level} Requirements. You can then add a first bullet that says, "Extends the {name of lower job level} responsibilities" or "Extends the {name of lower job level} requirements."
 * Specialities may be relevant for some but not all levels. Clarify which specialties each level pertains to. If there are no specialties remove the section.
-* [Segment](/handbook/sales/field-operations/gtm-resources/#segmentation): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
+* [Segment](/handbook/sales/field-operations/gtm-resources/): A Segment is something you will see with Sales based Job Families (Example, Enterprise, Mid-market, SMB, Public Sector). If there is no segment for the job family remove the section.
 * If performance indicators are the same for all the levels on the job family do not list them under the levels section, rather list them at the end of the entire job family. Remove either the performance indicator section in the level section or at the end of the template.
 * Career Ladder: The next job family. All levels should be on one job family, except when the next job family manages over multiple job families. For [example](/job-families/people-ops/people-operations/#career-ladder). Some teams added a Career Path: **Moving to and moving from** which describes possible current and future roles which move to the job family and which the job family might move to. Here is [an example](/job-families/product/product-manager/#moving-to-and-moving-from).
 * The **Compensation** and **About GitLab** sections will auto-populate because of the job family formatting.
@@ -402,11 +408,11 @@ The following results lead to failure of the pipeline:
   <iframe src="https://www.youtube.com/embed/9EJkgBRUSDA" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-* All job families should have performance indicators.
+* All job families should have performance indicators (PIs).
 * Performance indicators should tell you whether or not you’re doing your job well or correctly. For example, our [Sr. Director, Investor Relations](/job-families/finance/senior-director-of-investor-relations) role has performance indicators that compare how we’re being described by analysts to how we describe ourself.
 * Performance indicators are important because people want to know that they’re contributing.
 * Candidates want to know what success looks like in a role.
-* Team Members what to know how they're being measured for success.
+* Team Members want to know how they're being measured for success.
 * Company, functional, or department KPIs are too generic and, thus, not useful as job family performance indicators, only a sub-set of performance indicators are KPIs.
 * Time sensitive PIs, like OKRs or weekly goals, are also not useful because they are not long term success factors.
 * Performance indicators should be specific to the role and not dependent on anyone else's performance.

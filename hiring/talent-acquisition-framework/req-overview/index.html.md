@@ -29,7 +29,7 @@ The communicated Talent Acquisition Process Framework specifically focuses on ap
 The Hiring Manager will determine the need for a vacancy and ensure it is listed on the GitLab Hiring Plan. Once confirmed, the Hiring Manager will notify the [Talent Acquisition Manager/Lead specific to their org](/handbook/hiring/recruiting-alignment/) utilizing the steps provided on the [vacancy creation process](/handbook/hiring/talent-acquisition-framework/req-creation/#requisition-creation-process).
 
 ###  **Step 2: Create vacancy in Greenhouse**
-The Talent Acquisition Manager/Lead will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved.
+The Recruiter will create the vacancy in Greenhouse following the [vacancy creation](/handbook/hiring/talent-acquisition-framework/req-creation/#opening-vacancies-in-greenhouse) guidelines. The assigned Recruiter, CES, and Sourcer should receive an email notification from Greenhouse when the vacancy is approved.
 
 ### **Step 3: Complete kick-off session, agree on priority level, & complete a sourcing session**
 The **kick-off session** provides an opportunity to gain alignment on the requirements, hiring process and, perhaps most importantly, the expectations and responsibilities of the Recruiter, Sourcer, CES, Hiring Team, and Hiring Manager. Recruiters and Sourcers should come prepared for the kick-off session with insights - such as the size and geographic distribution of the talent pool - and should act as a talent advisor. Such information can be pulled from *LinkedIn Talent Insights*. To request this report, please submit an Issue [here](https://gitlab.com/gl-talent-acquisition/operations/-/issues/new?issuable_template=LinkedIn%20Talent%20Insights%20Request.md#) using the `LinkedIn Talent Insights Request` template.
@@ -174,7 +174,7 @@ If at any time during the interview process a candidate is declined due to compe
 #### Team Interview
 
 *  Once a screening call is completed and a candidate is still determined as top talent, team interviews will be scheduled. To do this, the recruiter will ping `@ces` in the Greenhouse profile with specific communication on what interview(s) need to be scheduled. The CES team will then [schedule team interviews](/handbook/hiring/talent-acquisition-framework/coordinator/#schedule-team-interviews).
-* The number of team interviews and order will vary from vacacny to vacancy. An example of what a Team Interview may look like is:
+* The number of team interviews and order will vary from vacancy to vacancy. An example of what a Team Interview may look like is:
   * Round 1: 50 minute interview with Hiring Manager
   * If applicable, Round 2A: 25 minute interview with a Hiring Team member
   * If applicable, Round 2B: 25 minute interview with a Hiring Team member
@@ -192,6 +192,8 @@ Once a Hiring Manager has determined they want to move forward with a candidate,
 If the candidate declines GitLab's offer, or the offer is extended to another candidate and we do not move forward with a candidate that we started background check and references on, the Recruiter will tag the CES team in Greenhouse to inform them. The CES team member will `Dismiss` any associated reminders or tasks for the candidate at disposition.
 
 ### **Step 8: Justification (Engineering Only)**
+
+See [Justification section in offer packages](/handbook/hiring/offers/#justification-section).
 
 ### **Step 9: Offer Approval**
 

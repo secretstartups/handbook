@@ -12,11 +12,11 @@ description: "The Talent Acquisition Process Framework for Creating REQs provide
 
 ## Requisition Creation Process
 
-Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth). The Hiring manager will then notify the Recruiting Manager or Lead for their organization. The information they should be prepared to share with the [Recruiting Manager/ Lead](/handbook/hiring/recruiting-alignment/) is as follows:
+Prior to starting the req creation process, a Hiring Manager should follow the steps outlined to create a Job Family or create a MR to edit any relevant Job Family information as needed. For questions specific to Hiring Plans or how to go about making such changes, please refer to the [Finance section of the handbook](/handbook/finance/financial-planning-and-analysis/#headcount-and-the-recruiting-single-source-of-truth). The Hiring manager will then notify their [Recruiter](/handbook/hiring/recruiting-alignment/). The information they should be prepared to share with their Recruiter is as follows:
 
 - Job Title
 - Office or Territory
-- GitLab Hiring Plan ID
+- GitLab Hiring Plan ID (if a role for R&D)
 - Job Family URL
 - Employment Type (New Hire or Backfill. If a backfill, the name of the teammate and last day of employment)
 
@@ -28,11 +28,11 @@ The Hiring Manager carries the responsibility to ensure that vacancies in Greenh
 
 Once the vacancy is approved, the Hiring Manager will review the position description in the `/job-families` folder and update it, if needed. If there is no existing job family, follow the steps to [create a new job family](/handbook/hiring/job-families/#job-families). A compensation benchmark for the role should be set by working with the Compensation & Benefits team.
 
-### Opening Vacancies in Greenhouse (DRI: Recruiting Manager/Lead)
+### Opening Vacancies in Greenhouse (DRI: Recruiter)
 
-For positions that are included in the GitLab Hiring Plan, the Talent Acquisition Manager will create approved in-plan requisitions.
+For positions that are included in the GitLab Hiring Plan, the Recruiter will create approved in-plan requisitions.
 
-**The Talent Acquisition Manager will:**
+**The Recruiter will:**
 
 1. [Log in](/handbook/hiring/greenhouse/#how-to-join-greenhouse) to [Greenhouse](https://gitlab.greenhouse.io/users/sign_in) and hover over the plus sign in the top right corner of their dashboard, and then click [Create a Job](https://app2.greenhouse.io/plans/new).
 1. Click on [Start from a copy of an existing job](https://gitlab.greenhouse.io/get_started/show_existing_jobs). From there, select `Any Status` at the top bar, select `Draft`, and choose the template for the division. Please note that when creating a requisition, the `Start from Scratch` option should **not** be used, as important elements needed will **not** be included.
@@ -253,19 +253,20 @@ Also, if this is your first time conducting interviews on behalf of GitLab I wi
 As always, If you have any questions let me know!
 Thanks, xxx
 
-### Reqs going Outbound to Inbound (DRI: CES Team)
+### Reqs going Outbound to Inbound 
 
-Once it's been decided that the req is ready to go inbound, the recruiter should tag CES in the req. The recruiter will need to tell CES if there is a specific location the role needs to be “advertised” in if it's not specified in the job title.
+Once it's been decided that the req is ready to go inbound, the recruiter should follow the steps below to ensure the job shows up correctly on 3rd party job boards.
 
-If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. LinkedIn will pull the specific country from the `Publish to Free Job Boards` location within Greenhouse.
+If the job should only be advertised in a specific country (e.g. Japan, Germany), the LinkedIn Job Wrapping codes are not necessary. LinkedIn will pull the specific country from the `Publish to Free Job Boards` location within Greenhouse. 
 
-If the job is regional (e.g. APAC, EMEA, LATAM), the CES will make sure this role is added to LinkedIn by following the steps below:
+If the job is regional (e.g. APAC, EMEA, LATAM), recruiters can make sure it is added to LinkedIn by following the steps below:
 
 - Click on the < > on the menu bar in the description text box to open the source code
 - Scroll to the bottom of the pop-up
 - Paste the following HTML `<div><span style="font-size: xx-small;"><span style="color: white">Remote-XXX</span></span></div>` at the bottom and change the letters in Remote-XXX to the appropriate code for the current available LinkedIn Job Wrapping location(s)
-- Please copy directly from the sheet because spaces matter.
-- The default tag should be Remote-Global if no other locations were given by the recruiter.
+- Please copy directly from the sheet because spaces matter
+- The default tag should be Remote-Global if no other locations were given by the recruiter
+- GitLab team members can review [job wrapping tags here](https://docs.google.com/spreadsheets/d/1CrrPGk3imxrap7Na3AQTQ0lmw2ENyZ51/edit?usp=sharing&ouid=100237668635376025864&rtpof=true&sd=true)
 - Click Ok
 
 If multiple tags are added to the description, please enter the additional tag on a new line. For example:

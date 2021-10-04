@@ -54,7 +54,6 @@ Our hybrid recruiting model means that candidates enter the pipeline through an 
 
 You can work with your Recruiter and Sourcer to understand whether your time will be better spent on sourcing outreach or on reviewing inbound applications.
 
-
 ### Step 5/HM: Hiring team to complete feedback in Greenhouse
 
 Once each step in the interview plan is completed, the interview team will submit feedback via the designated scorecard in Greenhouse within 1 business day of their interviews. Each scorecard will include the following required sections:
@@ -69,14 +68,17 @@ If you have any questions or experience any issues accessing your scorecard, ple
 
 ### Step 6/HM: Complete references
 
-Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. These reference checks will be performed in accordance with the applicable law of the jurisdiction.  Where applicable, a reference check can also be used in the final decision for making an offer.  The reference check is not the sole factor for a decision to hire or not hire a candidate. However, in conjuction with the interview scores and the interview team feedback all of these factors go into the hiring manager decision. At least 2 references must be completed and documented in Greenhouse (one of them must be a manager or supervisor unless this reference only exists at their current company), before moving to offer with the candidate, unless requirements set out by local law differ. If a manager recieves conflicting or inconsistent feedback from the 2 references the manager should complete a 3rd reference to determine if there is any validity to the feedback received.
+Once the recruiter/CES has notified the hiring manager of the references sent by the candidate, the hiring manager will complete references to establish the candidate's strengths and opportunities, to set them up for success once joining GitLab. 
+
+These reference checks will be performed in accordance with the applicable law of the jurisdiction. Where applicable, a reference check can also be used in the final decision for making an offer. The reference check is not the sole factor for a decision to hire or not hire a candidate. However, in conjuction with the interview scores and the interview team feedback, all of these factors go into the hiring manager decision. 
+
+At least 2 references must be completed and documented in Greenhouse (one of them must be a manager or supervisor unless this reference only exists at their current company), before moving to offer with the candidate, unless requirements set out by local law differ. If a manager receives conflicting or inconsistent feedback from the 2 references, the manager should complete a 3rd reference to determine if there is any validity to the feedback received.
 
 Hiring managers are expected to contact references by call or by email. Some managers [send the reference a brief email](https://gitlab.com/gitlab-com/people-group/hiring-processes/snippets/1933704) stating the purpose of the call and including a Calendly link so that the reference can select a convenient time. You can add a template to your Greenhouse account for quick use. Some managers also ask the candidate to reach out to their references to expect the email from the manager (as sometimes the email is ignored if the recipient is not expecting it).
 
 In Greenhouse: Configure (the gear on the top right) - Email Templates - My Templates - New. Be sure to create the template as a Team Email under the Type field. If you create the email template with tokens please check the tokens were added correctly upon the first use.
 
 After creating the email template you can send to the references. Because there is not a bcc option you should send individual emails to each reference. From the Candidate's profile: Tools (bottom right on the page view) - Email the Team - Choose a template (drop-down) - (select the name of the template you created) - **Uncheck "Add a link to the candidate's profile"** - Send Email.
-
 
 #### Why Hiring Managers Should Check References
 
@@ -126,7 +128,7 @@ Increasingly, organizations have a company policy that prevents their employees 
 #### Internal References
 The talent acquisition team may also ask candidates if they've worked with anyone in the past who currently works at GitLab or knows someone at GitLab that we could talk to.
 
-If a GitLab team-member provides a positive or negative feedback on a candidate, they should provide specific details of their experience and relationship with the candidate to enable the hiring manager to make an informed decision.
+If a GitLab team member provides a positive or negative feedback on a candidate, they should provide specific details of their experience and relationship with the candidate to enable the hiring manager to make an informed decision.
 
 #### Backchannel References
 

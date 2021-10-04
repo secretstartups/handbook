@@ -17,7 +17,9 @@ Interviewing is hard for both sides. In less than one hour, you both need to get
 
 ### Interview Training and Preparation
 
-New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-talent-acquisition` in your training issue or [review our talent acquisition alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#talent-acquisition` channel in Slack.
+New internal interviewers will partake in [interviewing training](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/interview_training.md), which will be assigned by the the Candidate Experience team, or as a part of the [Becoming a GitLab Manager issue template](https://gitlab.com/gitlab-com/people-group/Training/-/blob/master/.gitlab/issue_templates/becoming-a-gitlab-manager.md). Current team members can also create their own interview training issue using the [`interview_training` template in the Training project](https://gitlab.com/gitlab-com/people-group/Training/-/issues/new).
+
+As part of the training, team members will shadow an interviewer and be shadowed by one in order to make sure all GitLab team-members are following our interviewing processes and creating an excellent candidate experience. The interviewer who will work with the team member should be aligned with either their timezone or the role they'll be helping interview for. Feel free to ping `@gl-talent-acquisition` in your training issue or [review our talent acquisition alignment ](/handbook/hiring/recruiting-alignment/) page if you are not sure which interviewer to contact, or send a message in the `#talent-acquisition` channel in Slack.
 
 Interviews should not be recorded. For interview training, we encourage our GitLab Hiring Managers to conduct mock interviews internally, or have no more than one GitLab team member at a time shadowing live interviews.
 
@@ -42,7 +44,7 @@ Remember, interviewing candidates is everyone's job as part of our collaboration
     * When reading through the candidate's application materials please remember that writing a good resume or cover letter is an art, and not many people master it. When you read through these materials, look for evolution rather than buzzwords, and, if something sparks your curiosity, prepare to ask about it during the interview.
 1. Make sure you're up to date on our latest headcount, notable awards, messaging, and other facts about working at GitLab. Take a look at these [talent brand resources](/handbook/people-group/employment-branding/#talent-brand-resources) to help guide your conversation with candidates.
 
-#### Confidentiality 
+#### Confidentiality
 
 Please note the importance of confidentiality in the interview process for both internal and external interview processes. Candidates should not be discussed outside of the hiring manager management chain and direct interview team. It is important to respect the privacy of all candidates who apply for positions at GitLab, whether they are internal or external.
 
@@ -109,6 +111,8 @@ typically do for developers during a technical interview. Avoid puzzles or weird
 
 ### Candidate Performance Evaluation
 
+#### Behavioral Questions
+
 The goal of behavioral questions is to get the candidate to share data on past experiences. Previous behavior is considered the most effective indicator of how a person is going to act in the future. It is important to remember that skills and knowledge can be learned easier than habitual behaviors can be changed, especially when candidates are unaware of the impact of the undesired behaviors.
 
 The questions are usually in the form of:
@@ -141,6 +145,20 @@ The key to analyzing each of the reverse-STAR steps is to ask _What, Why, How, a
 These questions can be quite unbalancing and can increase the stress during the interview. Again, be kind and help the candidate understand what you are looking for, and provide an example if one is needed when you notice the candidate is blocked.
 
 It can also happen that the candidate does not have a story to share with you; that is okay. It's just another data point that should be added to the feedback (I failed to get data on ...). Just move to the next question and be sure to have a few questions as a backup.
+
+#### Career Change Drivers
+
+The goal of this interview exercise is to understand what motivated the candidate to make transitions in their career. Understanding this ensures that the candidate is positioned to be successful in the role they are interviewing for.
+
+Walk through the candidates resume in reverse chronological order. For each role ask:
+
+* Why did you take the role?
+* Why did you leave the role?
+
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=jyFQHOo9LF8" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 ### Interview feedback
 
@@ -183,4 +201,4 @@ Scoring is defined as follows:
   ### Frequently Asked Questions (FAQ)
 
 * My Zoom link isn't working, who can help?
-  * This is common occurance due to a Zoom configuration issue. You can share a new Zooom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occuring in the future. 
+  * This is common occurance due to a Zoom configuration issue. You can share a new Zoom link directly via email with the candidate if you notice this problem at the scheduled interview time. The #IT-help Slack channel will be able to guide you on the correct configuration to prevent this issue occuring in the future.

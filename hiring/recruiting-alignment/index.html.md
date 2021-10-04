@@ -9,49 +9,58 @@ description: "This page is an overview of the search team alignment and the tale
 | Department                    | Recruiter       | Sourcer     |
 |--------------------------|-----------------|-----------------|
 | Executive          | Rich Kahn   | Chriz Cruz |
-| Enterprise Sales, NA | Marcus Carter |  Susan Hill |
+| Enterprise Sales, NA | Jonathan Edwards |  TBH |
 | Enterprise Sales, EMEA | Debbie Harris |  Kanwal Matharu |
 | Enterprise Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Commercial Sales,	Global | Marcus Carter | Susan Hill  |
-| Channel Sales, NA | Debbie Harris |  Kanwal Matharu |
-| Channel Sales, EMEA | Debbie Harris |  Kanwal Matharu |
-| Channel Sales, APAC | Debbie Harris |  Kanwal Matharu |
-| Field Operations,	NA | Joanna Muttiah | Loredana Iluca |
-| Field Operations,	EMEA | Joanna Muttiah | Loredana Iluca |
-| Field Operations,	APAC | Joanna Muttiah | Loredana Iluca |
-| Customer Success, NA | Joanna Muttiah | Loredana Iluca |
-| Customer Success, EMEA | Joanna Muttiah | Loredana Iluca |
-| Customer Success, APAC | Joanna Muttiah | Loredana Iluca |
-| Marketing, Global | Steph Sarff   | J.D. Alex |
+| Commercial Sales,	AMER | Marcus Carter | TBH  |
+| Commercial Sales,	EMEA/APAC | Ben Cowdry | TBH  |
+| Channel Sales, Global | Debbie Harris |  Kanwal Matharu |
+| Field Operations,	Global | Joanna Muttiah | Loredana Iluca |
+| Customer Success, Global | Joanna Muttiah | Loredana Iluca ||
+| Marketing, Global | Steph Sarff   | Alina Moise |
 | Marketing, SDR Global | Amy Anderson  | Amy Anderson|
-| G&A | Maria Gore | Alina Moise |
-| Development | Mark Deubel | Zsuzsanna Kovacs / Joanna Michniewicz  |
+| G&A, Finance, People, CEO | Maria Gore | Alina Moise |
+| G&A, Accounting, Legal | Rachelle Druffel | Alina Moise |
+| Development | Mark Deubel | Zsuzsanna Kovacs |
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
-| Support | Rupert Douglas (EMEA) / Matt Allen (AMER,APAC)  |  Joanna Michniewicz (AMER, EMEA) / Zsuzsanna Kovacs (APAC)  |
+| Support | Joanna Michniewicz  |  Joanna Michniewicz |
 | Security | Rupert Douglas  |  Zsuzsanna Kovacs |
 | Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Joanna Michniewicz |
+| Infrastructure   | Matt Allen  | Chris Cruz |
 | Product Management  | Matt Allen | Chris Cruz |
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
+
+## Talent Acquisition Leader Alignment
+
+| Department                    | Leader      | 
+|--------------------------|-----------------|
+| Talent Acquisition         | Rob Allen |
+| Talent Brand and Enablement | Devin Rogozinski |
+| Talent Acquisition (Sales) | Jake Foster|
+| Talent Acquisition (Marketing) | Kelly Murdock |
+| Talent Acquisition (G&A) | Kelly Murdock |
+| Talent Acquisition (R&D) | Kelly Murdock|
+| Sourcing | Kelly Murdock |
+| Candidate Experience | Marissa Feber |
 
 ## Talent Acquisition Platform Directly Responsible Individual
 
 | Platform                    | Responsibility        | DRI     |
 |--------------------------|-----------------|-----------------|
-| Comparably | Admin  | Betsy Church and Erich Wegscheider |
-| Comparably | Content Management | Betsy Church |
-| Comparably | Reporting | Erich Wegscheider |
-| Glassdoor | Admin  | Betsy Church and Erich Wegscheider |
-| Glassdoor | Responding to Reviews  | Betsy Church |
-| Glassdoor | Content Management | Betsy Church |
-| Glassdoor | Reporting | Erich Wegscheider |
-| LinkedIn | Admin - Recruiter  | Erich Wegscheider |
-| LinkedIn | Seats | Erich Wegscheider |
+| Comparably | Admin  | Devin Rogozinski/Marissa Ferber |
+| Comparably | Content Management | Devin Rogozinski |
+| Comparably | Reporting | Marissa Ferber |
+| Glassdoor | Admin  | Devin Rogozinski |
+| Glassdoor | Responding to Reviews  | Devin Rogozinski |
+| Glassdoor | Content Management | Devin Rogozinski |
+| Glassdoor | Reporting | Marissa Ferber |
+| LinkedIn | Admin - Recruiter  | Marissa Ferber |
+| LinkedIn | Seats | Marissa Ferber |
 | LinkedIn | Media - General | Marketing |
-| LinkedIn | Media - Talent Acquisition | Betsy Church |
+| LinkedIn | Media - Talent Acquisition | Devin Rogozinski |
 | LinkedIn | Content Management | Marketing |
-| LinkedIn | Content Management - Life at GitLab | Betsy Church |
+| LinkedIn | Content Management - Life at GitLab | Devin Rogozinski |
 | New Platform(s) | Requests | @domain |
 | Recruitment Marketing  | Requests | @domain |

@@ -17,10 +17,13 @@ find qualified candidates, and the purpose of sourcing is to generate a large li
 
 Sourcing has proved itself to be a great channel for attracting the best talent. It allows us to grow GitLab and build an even more diverse team in the most efficient way possible, while also sustaining our culture.
 
-## Sourced vs. Prospect
+## Sourced vs. Prospect vs. Candidate
 
-**Sourced** - a candidate who is IQA (Interested, Qualifed, Available). This candidate has shown interest and is scheduled to speak with someone (Recruiter/Hiring Manager) at GitLab.
-**Prospect** - a candidate that looks good based on the information we have available (LinkedIn, Blogs, Conference Talks, etc.). The candidate has been approached by the Talent Acquisition team (but we do not have any response or anything scheduled with them) or has joined our [Talent Community](https://about.gitlab.com/jobs/careers/).
+**Sourced** - a person who is found during sourcing (searching) efforts by the TA team with or without the help of the hiring team (Source-a-thon).
+This person is of interest, but has not interacted with the TA team or Hiring Manger yet.
+**Prospect** this person is IQA (Interested, Qualifed, Available) after the TA or Hiring team approached them during a sourcing effort, but has not yet decided if they want to formally apply. There is basic information available (LinkedIn, Blogs, Conference Talks, etc.). Or a person that has has joined our [Talent Community](https://about.gitlab.com/jobs/careers/).
+**Candidate** - A person that has been sourced and approached by the Talent Acquisition team or the Hiring team that has actively indicated they want to interview for the position offered. They change from the Prospect status to Candidate status.
+Or a person that applied directly via the Careers page or via 3rd parties liek LinkedIn.
 
 ## How to Source Candidates
 

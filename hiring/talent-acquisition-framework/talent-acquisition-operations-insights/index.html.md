@@ -411,14 +411,16 @@ The weekly reports are comprised of reports from both Greenhouse and Sisense. So
     * Additions & Terminations
     * Current Team Members
     * Terminations
-* **Instructions**: Pull the listed reports from BambooHR and import them into a Google Sheet. Additionally, split the Marketing and Sales divisions as follows for **all** tabs: `Marketing (SDR)` for *Sales Development* roles, while everything else is `Marketing`; `Sales (NQR)` for *Commercial-* and *Enterprise Sales* roles, while everything else is `Sales (Non-NQR)`.
+* **Instructions**: 
+* **Open the spreadsheet with last week's RAW data.  The file is typically called [RAW] Weekly People Overview as of 2021-0x-xx.  Make a copy with the date to reflect next Sunday's date.   Move Upcoming Week Dates into Last Weeks Actuals.  Update 'Upcoming Week Dates' as well as other dates within the column headers.
+* **Pull the listed reports from BambooHR and import them into a Google Sheet. Additionally, split the Marketing and Sales divisions as follows for **all** tabs: `Marketing (SDR)` for *Sales Development* roles, while everything else is `Marketing`; `Sales (NQR)` for *Commercial-* and *Enterprise Sales* roles, while everything else is `Sales (Non-NQR)`.
     * **Additions & Terminations**
         1. Pull the report with the Date Range = `Start of the Current Fiscal Year` to `Plus 8-months from the Current Month`.
             * **Additions Tab**
                 * Add a column after `Hire Date` and call it `Start Status` (Column H).
-                * If the `Hire Date` is in the coming week, enter *Pending Start*. If the `Hire Date` is in future week, enter *Accepted Not Started (or ANS)*. Enter *Hired* for all other `Hire Dates`.
+                * If the 'Hire Date' was during the 'Last Week', enter "Last Week Hires".  If the `Hire Date` is in the coming week, enter *Upcoming Week Hires*. If the `Hire Date` is in future week, enter *Accepted Not Started (or ANS)*. Enter *Hired* for all other `Hire Dates`.
                 * Create a separate tab for a pivot table and count the number of additions by `Hire Date` and division.
-                * Create another pivot within that tab to count the number of *Pending Starts* for the current week and all *Accepted Not Started* by divison.
+                * Create another pivot within that tab to count the number of *Upcoming Week Hires* for the current week and all *Accepted Not Started* by divison.
             * **Terminations Tab**
                 * Add a column after `Termination Date` and call it `Week Ending` (Column I).
                 * Enter the week end date (i.e. Sunday) in the ISO date format for any terminations in the current- or following week.
