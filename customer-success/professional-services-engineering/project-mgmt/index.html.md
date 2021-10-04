@@ -19,69 +19,69 @@ GitLab takes our customer's success very seriously. In Professional Services (PS
  
 ### Project plan
  
-Each PS Engagement will include a Project Plan based on the activities outlined in the Statement of Work (SOW) and/or other discussions between the GitLab Professional Services and the customer.  The Project Plan may include a Gantt chart, tasks list via spreadsheet, or another form of documented plan. This plan will follow the process listed above.
- 
-Each PS engagement will have a Google Sheet that shows the contracted revenue and the estimated cost measured in hours or days of effort required to complete the engagement. The cost estimate must be completed prior to SOW signature and attached to the opportunity in SFDC.
+Each PS Engagement will include a Project Plan based on the activities outlined in the Statement of Work (SOW). The Project Plan starts in Mavenlink but may be supplemented by a more detailed Gantt chart, tasks list, or another form of documented plan. This plan will follow the process listed above.
  
 ### Project workflow
 
-**Pre-Initiate**
+#### Pre-Project Prep
 
 
-1. Sr. PSE and/or Technical Architect: Once a project has moved into SFDC Phase 5 – “Negotiating”, SOW is reviewed and a PSE(s) are identified for the project. Choice is based on several aspects:
+1. PS Operations: Once a project has moved into SFDC Phase 5 – “Negotiating”, SOW is reviewed and a PSE(s) team member is identified for the project, working with Sr. PSE and/or Technical Architect. Choice is based on several aspects:
    - PSE technical skillset/experience
    - PSE personality match with the customer
    - PSE technical growth path opportunity
    - PSE time zone
-2. Sr. PSE and/or Technical Architect: Communicates decision and reasoning to the #ps_planning slack channel with an @mention to the Sr. PS Project Coordinator
-3. Sr. PS Project Coordinator: Reviews resource allocation request and approves/accommodates if possible, depending on existing schedule
+   - PSE availability
+2. PS Operations: Reviews team member availability and adds a soft-allocation to the Mavenlink project schedule.
+3. PS Operations: Research an appropriate Partner if it is determined that a GitLab team member is not available to work the project.
+   - TODO: Link to Partner process
 
-**Initiate**
+#### Initiate
 
 
-4. Sr. PS Project Coordinator: Once a project has moved for Closed/Won in Salesforce, a Mavenlink project is created.
-   - A Project Owner is assigned; this can be a Project Manager, or Professional Services Engineer (PSE)
-5. Sr. PS Project Coordinator: Send [initiation email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing).
-6. Project Owner: Begin planning the project 
+4. PS Operations: Once a project has moved to Closed/Won in Salesforce, a project is updated to “in set-up” status in Mavenlink.
+   - A Project Lead is assigned: this can be a Project Manager, or Professional Services staff member
+5. PS Operations: Send [initiation email](https://docs.google.com/document/d/1je9dqVJpFFMv7aw9WhPeQ8aufx6Sj3OZveqaHHd212w/edit?usp=sharing) and [existing customer initiation email](https://docs.google.com/document/d/1eNPXLmstMLoatpOBIhxrJgnPFgqYByPaJoFQRd2kz9U/edit?usp=sharing)
+6. Project Lead: Begins planning the project 
    - Internal PS project alignment meeting (includes Engagement Mgr, Project Coordinator, PSE)
-   - Sales to PS hand-off meeting (complete the hand-off issue in the customer Epic)
+   - [Project Preparation call](https://docs.google.com/document/d/1fOmBxXf9MqYHQ8LZD5nIepu5WcFeTiwss59RJbd3BWE/edit?usp=sharing) (PM, PSE and/or Technical Architect and customer Project Lead counterpart)
+   - Sales to PS hand-off meeting (PM to complete the hand-off issue in the customer Epic)
 
+#### Plan
 
-**Plan**
+7. Project Lead:
+    - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes are added directly to the Project Definition Template (attendees include the entire project teams on both sides)
+    - Submit resource request via Mavenlink to match the customer-confirmed project schedule
+    - Weekly project check-in meeting: Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+  
+#### Develop, Configure, Integrate
 
-7. Project Owner:
-    - External [Customer Project Kickoff](https://docs.google.com/presentation/d/1HtVIE64N94Rcc774ujllClGmYZ5y1_ApE4-O3pazR6k/edit?usp=sharing): Actions and meeting minutes can be added directly to the Project Definition Template.
-    - Request resources via Mavenlink and requests updates through project duration
-    - Weekly project meeting (if applicable): Notes documented in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
-    - Provide Weekly Status Report: Using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing).
-    - [Change request template ](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)(required for scope changes).
-    - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+8. PS Engineer: Complete work per the SOW
+9. Project Lead:
+    - Keep Mavenlink up to date: project schedule, project health/pulse report, milestone acceptance, update project tasks via task-tracker, timesheet approvals
+    - Provide Weekly Status Report to customer using the template in the [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing) using the template in the Project Definition
+       - Mavenlink schedule snapshot of the schedule (or other alternative view)
+       - Mavenlink hours burn-down report (for T&M only)
+       - Open Action Items [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+       - Issues & Escalations [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
+       - Planned Out of Office [Project Definition](https://docs.google.com/spreadsheets/d/18pxG8-rxzwu51x3oywOENuN7ScsivlC3iM8jYV_mGug/edit?usp=sharing)
 
-**Develop, Configure, Integrate**
+#### Validate
 
-8. PS Engineer: 
-   -Complete work per the SOW
-9. Project Owner:
-    - Weekly project meeting (if applicable): Notes documented in the Project Definition
-    - Keep Mavenlink up to date:  project schedule, project health, milestone acceptance
-    - Provide Weekly Status Report: Using the template in the Project Definition
-    - [Change request template ](https://docs.google.com/document/d/1zed5AsEpjzwII0HaIjsmXYaRAp5qHY-BGJfVCISVGcM/edit?usp=sharing)(required for scope changes).
-
-**Validate**
-
-10. Project Owner:
-   - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval
+10. Project Lead:
+   - Send [activity-based acceptance requests](https://docs.google.com/document/d/1RiS5TY5484nQuDTW8YMiB-CibVfoni7NJ8IUG2osUD0/edit?usp=sharing) to the customer for approval upon complete of each milestone
 11. Customer:
-   - Approves completion for each activity or deliverable via email
+   - Approves completion for each activity, deliverable, or milestone via email
 
-**Deploy & Close**
+#### Deploy & Close**
 
 12. Project Owner:
     - Complete this [sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
-    - Complete this [financial wrap-up workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/internal/financial-wrapup.html)
-    - [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
-    - Schedule [project closure meeting with agenda](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
-13. PS Project Coordinator: PSE object update (set to complete)
+    - Schedule [Project closure meeting](https://docs.google.com/document/d/1Cw5eLe8VKFtHG9xGqUiCua8Pbu52reMzHujcPWq3ofQ/edit?usp=sharing)
+    - Schedule [Project Retrospective](https://docs.google.com/document/d/1CXfnCzjF_hwapy0R-89txiFUmSmvX7jvlEqWn48zN8A/edit?usp=sharing)  
+
+### Project Management Process Templates
 
 ### Work Exception
 
