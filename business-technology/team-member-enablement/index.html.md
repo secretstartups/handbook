@@ -82,6 +82,7 @@ Experiencing some issues with your machine, access to systems, 2FA or other IT r
 
 #### GitLab IT Team
 
+- Senior Director, IT Operations - [Robert Rea](https://about.gitlab.com/company/team/#rrea1), rrea@gitlab.com, @rrea1
 - Manager of IT - [Peter Kaldis](https://about.gitlab.com/company/team/#pkaldis), pkaldis@gitlab.com, @pkaldis
 - Lead, IT Analyst Americas - [Marc Di Sabatino](https://about.gitlab.com/company/team/#marc_disabatino), mdisabatino@gitlab.com, @marc_disabatino
 - System Administrator - [Mohammed Al Kobaisy](https://about.gitlab.com/company/team/#malkobaisy), malkobaisy@gitlab.com, @malkobaisy
