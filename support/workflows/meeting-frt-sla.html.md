@@ -54,7 +54,7 @@ The `Handover Needed` view has tickets that have already had a first reply but a
     1. If you can't reply:
         1. try to collaborate first (see [Tips for sending first replies](#tips-for-sending-first-replies))
         1. leave an internal note describing your investigation
-        1. put the ticket back in the FRT view by assigning it to `GitLab Suppport`
+        1. put the ticket back in the FRT view by assigning it to `GitLab Support`
 
 #### Why assign first?
 
