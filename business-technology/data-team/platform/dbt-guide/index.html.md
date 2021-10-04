@@ -1030,3 +1030,59 @@ We also have a convenience macro [create_snapshot_base](https://gitlab.com/gitla
 #### Incremental models on top of snapshots
 
 If you are using date spining to generate record for each day, consider materializing the model as [incremental](https://docs.getdbt.com/docs/building-a-dbt-project/building-models/configuring-incremental-models/). This way only new records will be added based on the snapshot_date condition. For an example implementation look at the [mart_arr_snapshots model](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/models/marts/arr/mart_arr_snapshots.sql#L35)
+
+### Testing Downstream Impact
+
+As a way to test the downstream impact of the changes made to dbt models the `sisense_check.py` is included within the transform dbt project.  This script will check the [Periscope](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master) and [Sisense Safe](https://gitlab.com/gitlab-data/sisense-safe/-/tree/periscope/master) repositories for views, snippets, dashboard, and charts that reference any of a provided list of dbt models.  With the output of the this script individual views, snippets, and charts can be manually evaluated for column level impact.
+
+To provide a list of models to check use the [`dbt list`](https://docs.getdbt.com/reference/commands/list) command with relevant conditions to output the desired set of models and export the list of a file named `to_check.txt`.
+```
+dbt list -m sfdc_account_source+ netsuite_transaction_lines_source+ --exclude date_details dim_date > to_check.txt
+```
+
+The script assumes that the Periscope and the Sisense Safe repositories are checked out in the same parent directory as the analytics repository.  If the repository is not checked out the script will not return any results, additionally if the repository is not up to date the results may be incomplete.   The script will check for nested references, a table is references in a snippet that is then referenced in n a chart, adding the nested references to the output of the check.  However, the script will only check for direct database references in the following schemas:
+- legacy
+- boneyard
+- common*
+- restricted_safe*
+- workspace*
+
+
+Running the script will produce a JSON, `sisense_elements.json` file as an output that will contain the name of all of the views, snippets, dashboards, and charts that reference and of the models provided to check.
+
+```json
+"mart_arr": {
+        "periscope-snippets": [
+            "base_pricing_customer_overview.sql",
+            "mrarr_base.sql",
+            "nf_ptb_account_features.sql"
+        ],
+        "periscope-dashboards": {
+            "WIP (@marntz): TAM Attribution Analysis": [
+                "Median License Expansion (%)",
+                "ARR Growth by ARR Bucket (Evenly Distributed by ARR)",
+                "Median Lifetime ARR Expansion by Age Group ($)"
+            ],
+            "WIP: Kat Tam - Scratch- 2": [
+                "WIP: # Paid New Subscriptions Per Month - Zuora New ARR Mart",
+                "Check if subscription has multiple records"
+            ]
+        }
+}
+```
+
+Views and snippets included in the output will be surrounded by square brackets `[]` and listed at the same level of the output as the models checked.
+
+```json
+    "[nf_ptb_account_features]": {
+        "sisense-safe-dashboards": {
+            "NF - WIP Sandbox": [
+                "ARR per Periods - Extra data",
+                "SMB - ARR per Periods - Extra data",
+                "Current Period - PTB For Prediction"
+            ]
+        }
+    }
+```
+
+
