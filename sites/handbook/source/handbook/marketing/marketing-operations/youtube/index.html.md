@@ -224,6 +224,14 @@ Check out [this video](https://www.youtube.com/watch?v=dZtCuOf5aGk) for a visual
 1. GitLab branded channel: To request access, create a [Single Person Access Request issue](/handbook/business-ops/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request) and assign the listed provisioner (column G) from the [Tech Stack YAML](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml).
 1. GitLab Unfiltered: Everyone should get access to YouTube Unfiltered during onboarding. If you do not see an invitation in your Inbox, please check the [Pending Invitations](https://myaccount.google.com/brandaccounts) section of your Google Workspace account. If your invitation is not there, please request a new invitation in the `#people-connect` Slack channel.
 
+For People Connect troubleshooting:
+
+1. If a team member reaches out that they have not received their GitLab Unfiltered invite, resend the invite via the `Manage Permissions`
+1. Should the team member still not see the invite under `Pending Invitations`, revoke the original invite by doing `command f` in the `Manage Permissions` section for the team members email address. You can revoke by clicking the `X` next to the email address.
+1. Once you have revoked the invite, close the YouTube Unfiltered page and reopen. 
+1. Once reopen, select `Manage Permissions` and reinvite the team memebr by clicking on the `Add` option and enter the team members email address.
+1. This should now appear in the `Pending Invitations` section [here](https://myaccount.google.com/brandaccounts). 
+
 ## Commenting & Subscribing to Channels
 Please remember that if you find a user comment to respond to on one of our channel videos, that it will be perceived as official communication from the company. **In almost all cases, unless your job specifically requires you to interact in a community manager role or capacity, it is best to switch to a personal account prior to engaging with a video or user on YouTube.**
 
