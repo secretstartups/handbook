@@ -23,7 +23,10 @@ As per
 > problems arise.
 
 Keep in mind only 1 SLA policy can be in place for a ticket. As such, it will
-use the top most SLA based on the list of our SLAs (see below).
+use the top most SLA based on the list of our SLAs (see below). When multiple of 
+paid plan tags appear on the same ticket, it will apply the SLA
+policy that comes first (order wise). See
+[Zendesk Global Organizations](zendesk_global_organizations.html) for more details.
 
 **NOTE**: What appears here is all titled SLA, but many of these are internal
 SLOs instead. They are titled SLA because that is what Zendesk calls the
