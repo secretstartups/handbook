@@ -17,7 +17,7 @@ title: JiHu Contribution Review Process
 
 - [Regular code review](https://docs.gitlab.com/ee/development/code_review.html)
 - Security review
-- [Database migration review](sites/handbook/source/handbook/ceo/chief-of-staff-team/jihu-support/jihu-database-change-process.html) when applicable
+- [Database migration review](jihu-database-change-process.html) when applicable
 
 ### Security review process for JiHu contributions
 
