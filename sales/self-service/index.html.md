@@ -58,11 +58,13 @@ __This section contains forward-looking content and may not accurately reflect c
 
 ## The Self-Service Team
 
+Our team reports into the [VP of Commercial Sales](https://about.gitlab.com/job-families/sales/vp-of-commercial-sales/).
+
 ```mermaid
 graph TD
-    A(Allie Marconi, VP Self-Service & Online Sales <br>  <br> Focus: Accountable to growing our self-service channel, aka Web Direct, <br> nARR number and overall adoption of self-service to improve the customer experience while improving go-to-market efficiency. <br> Charter: Lead cross functional efforts to improve and grow our self-service business.  Connect product, <br> marketing and sales with shared vision and operational cadence. <br> Own the self-service vision and drive innovation to achieve.  Invest in and build out a self-service team.) 
-    A --> B(TBH Director <br>  <br> Focus: Sales Support, Customer Experience & Product Liaison <br> Charter: Stand up a front line to the self-service experience to improve the customer experience,  <br> save our sales teams time and accelerate our self-service adoption.  Develop our point of view on the customer experience and self-service. <br>  Act as liaison to our product fulfillment team who owns our self-service roadmap, align on prioritization and roadmap.) 
-    A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br>  <br> Focus: Product & Data Analytics <br> Charter: Leverage data to optimize for self-service in the customer experience to drive nARR and sales efficiency. <br> Insights will feed: sales visibility, self-service fulfillment features, and marketing experiments. ) 
+    A(Allie Marconi, VP Self-Service & Online Sales <br>  <br> Focus: Accountable to growing our self-service channel, aka Web Direct, <br>nARR number and overall adoption of self-service to improve the customer <br>experience while improving go-to-market efficiency. <br>Charter: Lead cross functional efforts to improve and grow our <br>self-service business.  Connect product, marketing and sales with <br>shared vision and operational cadence.  Own the self-service vision <br>and drive innovation to achieve.  Invest in and build out a self-service team.) 
+    A --> B(TBH Director <br>  <br>Focus: Sales Support, Customer Experience & Product Liaison <br>Charter: Stand up a front line to the self-service experience to <br>improve the customer experience, save our sales teams time and <br>accelerate our self-service adoption.  Develop our point of view <br>on the customer experience and self-service. Act as liaison to <br>our product fulfillment team who owns our self-service roadmap, <br>align on prioritization and roadmap.) 
+    A --> C(Alex Martin, Sr. Mgr, Product & Data Analytics <br>  <br>Focus: Product & Data Analytics <br>Charter: Leverage data to optimize for self-service <br>in the customer experience to drive nARR and sales efficiency.<br>Insights will feed: sales visibility, self-service fulfillment <br>features, and marketing experiments.) 
     C --> D(TBH Sr Analyst)
 ```
 
@@ -72,36 +74,55 @@ This section is to give you a sense of how the Self-Service team interacts with 
 
 |  **Customer Journey** | **Self-Service Team Role** |
 | :--------------- | :----------------- |
-| Discovery, Trial, & Free | Partner with owners (Marketing, Growth, and Fulfillment) in cross-functional working group. Potential partnerships: chat offering, transactional emails, commerce experience.
-| Paid, Upgrade, Growth, & Renewal | Provide continuous feedback to inform product roadmap and experience changes. Automate as much as possible through the self-service experience. Partner with sales to provide visibility and engagement opportunities with customers.  Create buying intent through self-service and in product experiences. Provide self-service on demand & in context support for customers.
-| Support | Partner with owners (Customer Success) in cross-functional working group. Potential partnerships: chat offering, customer success planning |
+| Discovery, Trial, & Free | Partner with owners (Marketing, Growth, and Fulfillment) in cross-functional working group.<br> Potential partnerships: chat offering, transactional emails, commerce experience.
+| Paid, Upgrade, Growth, & Renewal | Provide continuous feedback to inform product roadmap and experience changes.<br> Automate as much as possible through the self-service experience.<br> Partner with sales to provide visibility and engagement opportunities with customers.<br>  Create buying intent through self-service and in product experiences.<br> Provide self-service on demand & in context support for customers.
+| Support | Partner with owners (Customer Success) in cross-functional working group.<br> Potential partnerships: chat offering, customer success planning |
 
 
 ## Our Partners
+
+Below is a list of our cross-functional partners and high-level description of how we partner with them. Partners, please feel free to submit an MR to update or edit.
+
+SST = self-service team
+
+|  **Team** | **Sub-Team** | **How We Partner** | **Primary SST Point of Contact** |
+| :--------------- | :----------------- | :----------------- | :----------------- |
+| Fulfillment | [Product Intelligence](https://about.gitlab.com/handbook/product/product-intelligence-guide/) | The SST works with the product intelligence team in cases where our product data set is incomplete (i.e. instrumentation gaps, accessibility, accuracy) when the SST team is attempting to answer product questions related to self-service. | Alex Martin 
+| Fulfillment | License, Purchase, and Utilization |  | 
+| Growth | [Product Analysis](https://about.gitlab.com/handbook/product/product-analysis/#working-with-us) | Our teams have similar functions as it relates to product analytics (e.g. experiment analysis, product KPI tracking, ad hoc product analyses); however the lens through which we ask questions (product v. self-service) and our stakeholders (PMs v. SST/sales) differ. <br> <br> We share knowledge, best practices and output of our analyses across our two teams. | Alex Martin
+| Growth | [Conversion](https://about.gitlab.com/handbook/engineering/development/growth/conversion/) | We partner on experiments related to trial/free to paid self-service conversion. Example: define product qualified lead strategy (PQL) to understand how we can maximize for nARR while emphasizing efficiency through self-service. | Alex Martin
+| [Data](https://about.gitlab.com/handbook/business-technology/data-team/) | Core | SST is a [‘spoke’ and works closely with the core data team ‘hub’](https://about.gitlab.com/handbook/business-technology/data-team/#how-data-teams-work-together). SST digests the aggregated data tables created and maintained by the core data team. SST provides input and creates issues for the core team when we have gaps in our data needed for decision making. In the case that analyses become important and repeatable, SST works with the core data team to create long term solutions. | Alex Martin
+| [Data](https://about.gitlab.com/handbook/business-technology/data-team/) | [GTM Data Fusion & R&D Data Fusion](https://about.gitlab.com/handbook/business-technology/data-team/#data-fusion-teams) | SST partners with the GTM Data Fusion Team on special projects that impact sales and marketing teams as it relates to self-service (e.g. surfacing product insights to sales teams, PTB). | Alex Martin
+| [Marketing](https://about.gitlab.com/handbook/marketing/) |  |  | 
+| [Sales](https://about.gitlab.com/handbook/sales/) |  |  | 
+| Analytics & Business Insights |  | We divide and conquer as it relates to analyses involving the self-service business: Analytics & Business Insights team primarily focuses on first orders (FO), while the SST focuses on growth and account management. We collaborate to ensure we are telling a cohesive self-service story and share findings from analyses. | Alex Martin
+| [Sales Strategy](https://about.gitlab.com/handbook/sales/field-operations/sales-strategy/) |  | The Sales Strategy team is responsible for incorporating self-service into their workflow: forecasting calls, monthly key reviews, GTM planning, target setting, and high level reporting. The SST analysts are responsible for building self-service specific dashboards, proactively identifying self-service data trends, investigating the ‘why’ behind target attainment, providing self-service experiment read-outs, providing data to influence GTM or product changes, etc. | Alex Martin - Data <br> <br> Allie Marconi - GTM
+
+
 
 ## Success Metrics
 
 - **Accelerate nARR**: nARR vs. plan > 1
     - This is our north star metric
 - **Efficiency**: growth efficiency >= 1.5 by FY’23
-- **Customer Experience**: self-service utilization `coming soon`
+- **Customer Experience**: self-service utilization `target coming soon`
     - What is self-service utilization? % of self-service functionality used by customers 
 
 Illustrative example of self-service utilization. 
 
 X = indicates the customer conducted the action via self-service.
 
-|  **Customers** | **Trail** | **Purchase** | **Growth** | **Upgrade** | **Renew** | **Outreach** | **Utilization** |
+|  **Customers** | **Trial** | **Purchase** | **Growth** | **Upgrade** | **Renew** | **Outreach** | **Utilization** |
 | :--------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- | :----------------- |
 | **Customer A** | X | X |  |  | X |  | **50%**
 | **Customer B** |  |  | X |  |  | X | **33%**
 | **Customer C** | X |  |  | X | X | X | **66%**
-| **Total** | **2** | **1** | **1** | **1** | **2** | **2** | **50%**
+| **Total** | **2** | **1** | **1** | **1** | **2** | **2** | **50%** |
 
 ## `Coming Soon` Dashboards
 
 ## Resources & Communications
-- **Slack Channel**: `#self-service_and_friends`
+- **Slack Channel**: `#self-service_public`
 - Create an issue in the [Self-Service project](https://gitlab.com/gitlab-com/sales-team/self-service) and use the `Self-Service` label
 
 
