@@ -31,20 +31,20 @@ The by-the-book schedule for the OKR timeline would be
 
 ### 1. CEO: Encourage wider community engagement
 [Epic 1609](https://gitlab.com/groups/gitlab-com/-/epics/1609)
-   1. **CEO KR:** Develop a strategy to grow to 1000 contributors per month
-   1. **CEO KR:** Meet quarterly objectives for hyperscalers and partners
-   1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued
+   1. **CEO KR:** Develop a strategy to grow to 1000 contributors per month. [Issue 12480](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12480)
+   1. **CEO KR:** Meet quarterly objectives for hyperscalers and partners. [Issue 12479](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12479)
+   1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued. [Issue 12481](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12481)
 
 ### 2. CEO: Optimize GitLab Managed future
 [Epic 1610](https://gitlab.com/groups/gitlab-com/-/epics/1610)
-   1. **CEO KR:** Meet GitLab.com improvement goals (availability above 99.95%, free user RoI strategy, increase trial conversion from x% to y% on the path to z%)
-   1. **CEO KR:** Meet SaaS improvement goals (increase customer empathy project in engineering, x customers live with Project Horse beta, launch storage visibility)
-   1. **CEO KR:** Implement category creation plan
+   1. **CEO KR:** Meet GitLab.com improvement goals (availability above 99.95%, free user RoI strategy, increase trial conversion from x% to y% on the path to z%). [Issue 12482](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12482)
+   1. **CEO KR:** Meet SaaS improvement goals (increase customer empathy project in engineering, x customers live with Project Horse beta, launch storage visibility). [Issue 12483](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12483)
+   1. **CEO KR:** Implement category creation plan. [Issue 12484](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12484)
 
 ### 3. CEO: Accelerate customer initiatives
 [Epic 1611](https://gitlab.com/groups/gitlab-com/-/epics/1611)
-   1. **CEO KR:** Improve SUS usability through completing 100% of quarterly initiatives related to Workspace, Learnability, and Foundations
-   1. **CEO KR:** First order large SAOs on yearly plan
-   1. **CEO KR:** Achieve X% of ARR on cloud licensing
+   1. **CEO KR:** Improve SUS usability through completing 100% of quarterly initiatives related to Workspace, Learnability, and Foundations. [Issue 12485](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12485)
+   1. **CEO KR:** First order large SAOs on yearly plan. [Issue 12486](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12486)
+   1. **CEO KR:** Achieve X% of ARR on cloud licensing. [Issue 12487](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12487)
 
 
