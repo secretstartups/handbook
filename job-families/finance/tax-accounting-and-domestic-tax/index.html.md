@@ -9,11 +9,11 @@ title: "Tax Accounting and Domestic Tax"
 
 The Director, Tax Accounting and Domestic Tax report to the VP Tax and will interact with one peer and several Tax Department members.
 
-#### Director, Tax Accounting and Domestic Tax Job Grade
+### Director, Tax Accounting and Domestic Tax Job Grade
 
 The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Director, Tax Accounting and Domestic Tax Responsibilities
+### Director, Tax Accounting and Domestic Tax Responsibilities
 
 * Staff mentoring and supervision
 * SOX control implementation, testing, and narrative writing
@@ -28,7 +28,7 @@ The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-
 * Tax account reconciliation
 * Working with Finance team members on intercompany settlements
 
-#### Director, Tax Accounting and Domestic Tax Requirements
+### Director, Tax Accounting and Domestic Tax Requirements
 
 * Bachelor’s Degree (B.S.) in Accounting. Master’s Degree in Business Taxation preferred.
 * JD and/or CPA preferred.
@@ -44,7 +44,7 @@ The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-
 * Experience with NetSuite, SalesForce, Zuora, Coupa, GSuite and Avalara are plusses.
 * Ability to use GitLab
 
-## Performance Indicators
+### Performance Indicators
 
 * Timely, complete, and accurate completion of tax accounting
 * Timely, complete, and accurate completion of tax returns
@@ -52,11 +52,11 @@ The Director of Tax Accounting and Domestic Tax is a [grade 10](/handbook/total-
 * Project management (successful ability to drive projects to completion (regardless of the resource chosen)
 * Technical abilities
 
-## Career Ladder
+### Career Ladder
 
 The next step in the Director, Tax Accounting and Domestic Tax job family is Sr. Director within the Tax Department.
 
-## Hiring Process
+### Hiring Process
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process.
 * Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
