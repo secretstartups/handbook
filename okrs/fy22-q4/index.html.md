@@ -35,7 +35,7 @@ The by-the-book schedule for the OKR timeline would be
    1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued
 
 ### 2. CEO: Optimize GitLab Managed future
-   1. GitLab.com improvements (availability above 99.95%, free user RoI strategy, increase trial conversion from x% to y% on the path to z%
+   1. GitLab.com improvements (availability above 99.95%, free user RoI strategy, increase trial conversion from x% to y% on the path to z%)
    1. **CEO KR:** SaaS improvements (Customer empathy in engineering, x customers live with Project Horse beta, launch storage visibility)
    1. **CEO KR:** Implement category creation plan
 
