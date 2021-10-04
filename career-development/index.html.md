@@ -220,8 +220,8 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     sec:sse(Senior Security Engineer)-->sec:stse(Staff Security Engineer);
     sec:stse(Staff Security Engineer)-->sec:pse(Principal Security Engineer);
     sec:pse(Principal Security Engineer)-->sec:dse(Distinguished Security Engineer);
-    sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
-    sec:sem(Security Manager)-->sec:sms(Senior Manager, Security)
+    sec:sse(Senior Security Engineer)-->sec:sem(Manager, Security);
+    sec:sem(Manager, Security)-->sec:sms(Senior Manager, Security)
     sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
   end
 
