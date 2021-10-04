@@ -77,12 +77,15 @@ xMAU is calculated mainly thanks to Service Ping Data source. When the project s
 - [list of GMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468487&udv=1146726)
 - [list of SMAU metrics used](https://app.periscopedata.com/app/gitlab/758607/Centralized-SMAU-GMAU-Dashboard?widget=12468482&udv=1146726)
 
-
 The current SSOT for the xMAU metrics is [this spreadsheet](https://docs.google.com/spreadsheets/d/1_b-BoKfrt2iH1dYUMYBxSw_CFpYiQ2W84XD3-AnfuwY/edit?usp=sharing) which is imported via Sheetload to our datawarehouse. That means that when updating the GMAU, SMAU columns for a specific metrics, the changes will propagate downstream to the xMAU charts updated in the handbook.
 
 There is a plan for migrating this SSOT from this spreadsheet to the dictionary YAML files, [work to do is in this issue](https://gitlab.com/gitlab-data/analytics/-/issues/10106).
 
 If you have more questions on the metrics definition, you should ask the Product Intelligence team. They are currently maintaining a Metric dictionary available [here](https://gitlab-org.gitlab.io/growth/product-intelligence/metric-dictionary/). Also if the metrics are database calculations, they are able to provide you with the SQL query run to generate the metrics value.
+
+##### Date Range
+
+For every instance (self-managed and Saas/GitLab.com), we use the last ping generated during that month to calculate xMAU. Instances are randomly assigned a day of week to generate service pings, but that assigment is peristent over time. For example, if an instance is assigned Tuesdays to generate pings, it will always generate pings on Tuesdays. Since the day of week that pings are generated differs across instances, the exact date range captured in a 28-day counter will also differ.
 
 #### Difference between xMAU and Paid xMAU
 
