@@ -12,7 +12,7 @@ description: "Learn about the processes that the GitLab Project Management team 
 
 GitLab takes our customer's success very seriously. In Professional Services (PS) we strive to provide a first class experience for all engagements.
 
-![](./image.png)
+![](./ps-engagement-framework.png)
 
 - [Process Flow - trim (above)](https://docs.google.com/spreadsheets/d/1uRoB73lZtvNhkk-Z9eQS3_Ys4yX8vVUXXqQUO7Nm1ss/edit?usp=sharing)
 - [Process Flow - full](https://docs.google.com/spreadsheets/d/1Y8wWj5g8T6HuPGEnHaWUfdtI7LPmathGaMwfiA2b_Ks/edit?usp=sharing)
