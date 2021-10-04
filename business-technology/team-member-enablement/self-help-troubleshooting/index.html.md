@@ -170,14 +170,24 @@ With the installation of JAMF comes Self Service which can be found in Applicati
 
 ### Using JAMF Self Service to Update your OS
 
-You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. To do this follow the below instructions
+You can easily use JAMF's Self Service tool to update your Mac to the OS you need to update to. There are 2 ways to do this to do this
 
 ***Please make sure to backup your Mac before you commence any updates***
+
+Update to the newest OS
 
 1. Head to Finder on your Mac and select Applications
 2. Click on Self Service
 3. On the left hand side you'll see OS Updates, click on that
 4. From here you'll see the newest version of MacOS Big Sur. Click on it to install. This will redirect you to the Apple Store where you can install the OS. 
+5. This can take upwards of an hour, so please factor in that time when you are updating
+
+Update your existing OS to the most recent version
+
+1. Head to Finder on your Mac and select Applications
+2. Click on Self Service
+3. On the left you'll see OS updates, click on that
+4. From here you'll see 'Check for Apple Software Updates'. Click on that, and follow the instructions to update your OS
 5. This can take upwards of an hour, so please factor in that time when you are updating
 
 
