@@ -100,6 +100,87 @@ This will be the responsibility of the People Experience Associate that is assig
     - Ensure that the previous manager and current manager completes their respective tasks. 
     - The issue should be closed within 2 weeks of creation, ping the relevant team members to call for a task to be completed in the issue.
 
+#### Onboarding Audit
+
+Cadence: Each new joiner.
+
+This is a manual review of each new joiner's BambooHR profile that takes place within their first week of employment. This audit is intended to correct any profile errors and, for US team members only, to check that the I-9 has been completed and sort each team member into the correct Benefit Group. 
+
+##### Audit Steps 
+
+###### Who to Onboard 
+
+Check [Bamboo Onboarding Report](https://gitlab.bamboohr.com/reports/custom/Onboarding/511) to find out the list of new hire for the week.
+
+Only audit once team members have started and added their birthdate under the personal tab. If not, then comment on the onboarding issue and remind the concerned people experience associate to remind the team member on their 2nd day to add their DOB. 
+* Go to the team member’s Bamboo Profile > click “More” > Onboarding
+* Import from template
+* Go over the Onboarding Tasks.
+
+###### Access Level
+
+* Job tab > Settings icon > BambooHR Level:
+* For Employees who are Managers of people: "Managers"
+* For Contractors (independent or corp-to-corp): "Contractor Self-Service"
+* For Contractors who are Managers of people: "Multiple Access Levels": "Contractor Self-Service" and "Managers"
+
+###### Audit Job Tab
+
+* Signed Letter: Documents tab > check that the signed contract is in the “Contracts & Changes” folder. 
+   * Effective Date, Hire Date, Compensation & Job Information Effective Date, Employment Status: Check the hire date on the contract. If it is different, go back to the folder and search for a date change confirmation file (usually uploaded by candidate experience specialist. 
+   * If the signed letter is not in the folder: go to Greenhouse > search for team member > Activity Feed > Find CES > ping CES on slack and ask for the date change confirmation to be uploaded.
+* Cost Center, Department & Division: Should be the same as the manager’s.
+* [Payroll Type](https://about.gitlab.com/handbook/contracts/)
+* Compensation:
+   * Fill out the [onboarding calculator](https://docs.google.com/spreadsheets/d/1khOeUjkl6l6d_3TaLCo8qn_lnb3AbUq-1rspmNRLzcs/edit?ts=5d7edfee#gid=1910573508)
+   * Cross-check calculator results against Compensation, Pay Frequency, On Target Earnings, Currency Conversion fields
+   * For Non-Sales, “On Target Earnings” should say “No”, no need to add the date
+   * Effective Date should be the hire date.
+   * Exchange Rate Effective Date is going to be 2020-12-01 until we revisit this again in 2021
+   * Equity: Audit Shares field against contract or Greenhouse details.
+   * Job Information: cross-check against contract. 
+   * If title has a speciality, add it under “Job Title Speciality”, for example, “Backend Engineer, Verify” - “Backend Engineer” will go under “Job Title” but “Verify” will go under “Job Title Speciality”
+* Job Codes: audit job title and job code against this [list](https://docs.google.com/spreadsheets/d/1j7A0GmPffyICjBgKAY1RwcB2lx4Rx_uswFJA7Oc7KLM/edit#gid=1977487429)
+
+###### Audit Locality & Region
+* Personal tab > Audit Locality to match the city: 
+* Check if the locality is on Greenhouse (Candidate City + URL for compensation calculator). If not:
+* Check [distance of city to locality on Google Maps](https://www.google.com/maps/dir/Smyrna,+GA/Atlanta/@33.8222471,-84.5194938,12z/data=!3m1!4b1!4m18!4m17!1m5!1m1!1s0x88f50c3d75fa13e7:0x996104eec4f504a3!2m2!1d-84.5143761!2d33.8839926!1m5!1m1!1s0x88f5045d6993098d:0x66fede2f990b630b!2m2!1d-84.3879824!2d33.7489954!2m3!6e0!7e2!8j1571299200!3e0). Distance should not be more than 1 hour and 45 minutes during rush hour (8AM). Change the time to 8:00AM
+* Audit Region
+
+###### Sales Geo Differential
+* Personal tab > Sales Geo Differential
+* For non-sales : n/a Comp Calc
+* For sales: pick the region (it will be for any of the titles under the “Not In Comp Calc” section of the [comp calculator](https://docs.google.com/spreadsheets/d/1NS_yTVXQ87UnXaLYvnOk9_4D91jg1pMFRpFy4fgpuSg/edit?ts=5d7ee2b2#gid=1417734479) OR the team member will have On Target Earnings)
+
+###### Payroll Change Report
+
+Reports (black heading on BHR) > Standard reports > Payroll change report > Change the date for the week > tick the team member’s name
+
+###### Update GitLab and Turn off Notifications
+
+* Go back to the onboarding issue of the team member >  Before Starting at GitLab > Total Rewards > tick “Total Rewards Analyst” task
+* Turn off notifications
+
+###### Only For US Team Members:
+
+Wait for People Experience Team to tag you on the team member’s onboarding issue. Only audit the profile once the SSN has been added to the account. If not, comment on the onboarding issue and remind the team member on their 2nd day to add their SSN. 
+
+**Additional steps to audit the profile of US team member:**
+
+* SSN added?
+   * Personal tab > make sure “National Identification Number Type” and “National Identification Number” are filled out
+* I-9 Field
+   * Personal tab > Once the SSN has been added, tick the I-9 Processed checkbox
+* Benefit Group
+   * Check team member’s state (under Personal tab) against the [Benefit Group Cheat Sheet](https://docs.google.com/spreadsheets/d/1QU2rsFrrKSRQIrzWu2eqylK0HrNvt9FUhc_S5VQAVJ4/edit?ts=5d922f86#gid=0).
+* Ready to Add to ADP
+   * Comment on the onboarding issue, tagging US payroll Specialist to add to ADP.
+* Update GitLab and Turn off Notifications
+   * Go back to the onboarding issue of the team member >  Before Starting at GitLab > Total Rewards > tick “Total Rewards Analyst” task
+   * For employees in the US only > Total Rewards > Tick “Total Rewards Analyst” tasks
+   * Turn off notifications
+
 **Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
 
 #### Quarterly Audits
