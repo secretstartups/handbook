@@ -54,6 +54,8 @@ The left side panel of the 360 contains the following sections:
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)
+- Survey - holds all survey response data from Journey Orchestrator customer programs
+- Program Logs - automatically logs Journey Orchestrator customer program emails to the account history for visibility
 
 If you'd like, you can toggle the "Scrolling" button at the top of any 360 page to enable scrolling through all of the sections, rather than having to click into them.
 
@@ -71,7 +73,7 @@ The `Referenceable Customers` field on the C360 Attributes section highlights [i
 
 The purpose of these surveys are to measure customer loyalty, satisfaction, and enthusiasm with GitLab. The onboarding NPS/CSAT serves as an early warning system for the customer beyond what TAM sentiment or product usage data can tell us. It is another attribute that can point to risk early in an account, enabling faster time to resolution. The renewal NPS/CSAT serves as an additional attribute into our knowledge of the health of the renewal and enables an additional lens of focus for prioritization.
 
-In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/customer-success/tam/digital-journey/nominating-contacts-for-the-digital-journey/#adding-a-contact-via-gainsight) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
+In order for our customers to receive the surveys,  a [`GitLab admin` role needs to be assigned](https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/cs-ops-programs/#gitlab-admin-contacts) in Gainsight to the appropriate contacts.  It is the TAM’s role to complete the role assignment, and this process has been added as a task in the customer onboarding playbook, and again in the customer renewal playbook. 
 
 ##### What is NPS?
 - Net Promoter Score - From 1-10

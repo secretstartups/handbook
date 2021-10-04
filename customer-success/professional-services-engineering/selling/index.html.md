@@ -43,7 +43,7 @@ The SAL/ISR can find the general services the PS team offers on the [services pa
 
 ### Step 2: Create the opportunity in SFDC
 
-The SAL/ISR [creates a Professional Services Only opportunity](/handbook/sales/field-operations/gtm-resources/#creating-a-professional-services-opportunity).
+The SAL/ISR [creates a Professional Services Only opportunity](/handbook/sales/field-operations/gtm-resources/).
 
 #### Standard Services Only
 If the customer only needs standard services from the service catalog, the SAL/ISR can generate the quote from within the newly created SFDC PS opportunity by:

@@ -14,7 +14,7 @@ description: "This Hands-On Guide walks you through the lab exercises in the Git
 
 ## GitLab CI/CD Labs
 * [Lab 1: Review example GitLab CI/CD section](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab1.html)
-* [Lab 2: Create a project with a `.gitlab-ci.yml` file and register a runner](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab2.html)
+* [Lab 2: Create a project containing a `.gitlab-ci.yml` file and register a GitLab Runner](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab2.html)
 * [Lab 3: Create a basic CI configuration](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab3.html)
 * [Lab 4: Display pipeline environment info](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab4.html)
 * [Lab 5: Variable hierarchy](/handbook/customer-success/professional-services-engineering/education-services/gitlabcicdhandsonlab5.html)

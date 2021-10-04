@@ -36,7 +36,7 @@ Currently the local APJ CS team has Solutions Architects & Technical Account Man
 - [Solutions Architect](/handbook/customer-success/solutions-architects/) responsibilities
 - [Technical Account Manager](/handbook/customer-success/tam/) responsibilities
 
-Starting from the GitLab [org chart](/company/team/org-chart/) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
+Starting from the GitLab [org chart](https://comp-calculator.gitlab.net/org_chart) the [Customer Experience Manager (APJ)](https://about.gitlab.com/company/team/#adriansmolski) reports to the [WW Senior Director for Solutions Architecture](https://about.gitlab.com/company/team/#jfullam) who reports to the [Vice President, Customer Success](https://about.gitlab.com/company/team/#dsakamoto)
 
 | Role | Name | Base location |
 | ------ | ------ | ------ |
@@ -51,7 +51,7 @@ Starting from the GitLab [org chart](/company/team/org-chart/) the [Customer Exp
 | Technical Account Manager | [**Benjamin Ma**](https://gitlab.com/@bma) | Sydney, Australia |
 | Technical Account Manager | [**Rohan Shah**](https://gitlab.com/@rmsrohan) | Mumbai, India |
 
-The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/#apac) and [Mid-Market](/handbook/sales/territories/#apac-1) APJ outlines territories.
+The APJ CS team currently does not follow a strict territory alignment. The only exception is that customers in the home base location would have a preference for Customer Success team members to ensure GitLab adoption. The APJ Customer Success team supports the [Large](/handbook/sales/territories/) and [Mid-Market](/handbook/sales/territories/) APJ outlines territories.
 
 ## Engagement options with the APJ Customer Success team
 Any customer, customer prospect, GitLab Business Partner and/or GitLab Sales representative requiring assistance with GitLab's technology should be directed to the Customer Experience Manager (CEM).

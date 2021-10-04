@@ -21,6 +21,8 @@ TAMs should hold EBRs with each of their customers **at least** once per year. L
 
 The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-meddpicc-questions-for-deeper-qualification) the value they are getting in their partnership with GitLab. It is interactive from both sides, discussing the customer's desired business outcomes and related metrics, progress against these metrics and desired outcomes, and aligning on strategic next steps.  The most crucial element in all EBRs is giving the buyer the time to speak about what matters to them, and creating a framework to enable them to do so.
 
+For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
+
 ### How to bring up an EBR with your customers
 
 To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
@@ -77,6 +79,9 @@ If no progress has been made on the CTA (no tasks have been completed) and there
 
 ### How to prepare an EBR
 
+#### EBR Training Certification 
+Follow this link to access the EBR certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/tam-executive-business-reviews)
+
 #### Content
 
 EBRs typically consists of the following content:
@@ -111,6 +116,6 @@ Besides creating the deck, there are a few other items to consider to ensure you
 
 #### EBR Examples
 
-To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1aAhseDh-uUwiOZ7D21hR1ROgAfPmU3fEFZkfT9tbmIQ/edit?usp=sharing).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
+To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).

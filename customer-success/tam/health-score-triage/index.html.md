@@ -93,13 +93,16 @@ The TAM is responsible for coordinating with all relevant parties to develop a p
 
 ### Gainsight
 
+#### TAM Sentiment 
+
 TAMs update TAM Sentiment in determining overall account health. The guidelines are as follows:
 
 - **TAM Sentiment**: Qualitative measure that the TAM updates to indicate their perceived sentiment of the customer. This should consider all the factors mentioned above and measured by the health assessment (green, yellow, red) criteria
+- **TAM Sentiment Override of Overall Health Score**: When the TAM Sentiment score becomes red, the overall score will automatically become red. Once the TAM Sentiment moves back to a green or yellow score, the standard weighting of measures and groups will be reapplied as usual.
 
 The TAM Sentiment score will be updated each time you [log a Timeline activity](/handbook/customer-success/tam/gainsight/timeline/) and select a value from the TAM Sentiment dropdown. Once you have logged the activity to Timeline, Gainsight will update the value of the TAM Sentiment scorecard measure and display the notes from the Timeline activity on the scorecard. The rule that sets the scorecard value runs every 2 hours.
 
-TAM Sentiment health scores become stale aftter 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If you notice your account is marked as stale, but you've updated the TAM Sentiment within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). You will receive an automated CTA to update your TAM Sentiment score when it has not been updated in more than 90 days.
+TAM Sentiment health scores become stale after 90 days of not being updated; this will be reflected on your health score dashboard by an exclamation point next to the score. If you notice your account is marked as stale, but you've updated the TAM Sentiment within 90 days, please reach out in [gainsight-users](https://gitlab.slack.com/archives/C011ACG9MJB). You will receive an automated CTA to update your TAM Sentiment score when it has not been updated in more than 90 days.
 
 There are a number of [enablement videos](/handbook/customer-success/tam/gainsight/#videos) you can watch to learn how to update customer health assessment and log activities that affect that assessment.
 

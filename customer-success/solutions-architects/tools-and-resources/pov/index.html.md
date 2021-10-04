@@ -91,7 +91,7 @@ Below is best practice guidance for conducting each type of POV. These processes
 - SA: POV document is created if this is required by the customer, otherwise default to the Customer Success project
 - SA: Ensure POV goals and business outcomes are clearly identified prior to kickoff
 - SA: For the largest strategic opportunities, notify GitLab Support of POV dates, customer, and other relevant information using the applicable Slack channel related to Self-Managed or GitLab.com support
-- SAL/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](/handbook/sales/field-operations/gtm-resources/#opportunity-stages)
+- SAL/AE: Opportunity updated in Salesforce, set to Stage 3-Technical Evaluation, with POV Information entered per the [handbook](/handbook/sales/field-operations/gtm-resources/)
 - SAL/AE: Signed NDA by the legal team if required
 - SAL/AE: Schedule Internal kick off meeting (detailed below)
 - SAL/AE: Schedule kickoff meeting with customer

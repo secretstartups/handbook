@@ -4,28 +4,32 @@ title: "Using Product Usage Data in Gainsight"
 description: "Effective ways to apply product data for Sales and Customer Success teams to support their customers' top initiatives and business objectives."
 ---
 
+<link rel="stylesheet" type="text/css" href="/stylesheets/biztech.css" />
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
+{::options parse_block_html="true" /}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
-
-
-{::options parse_block_html="true" /}
 
 ---
 
 ## Purpose
 
-To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns. See [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
+To guide users in how to use the customer's product usage data within Gainsight, review use case adoption strategies, and understand how the data connects and what to do with data quality concerns.
+
+For a richer explanation of the purpose and intended outcomes, see the [Product Usage Data Vision](https://about.gitlab.com/handbook/customer-success/product-usage-data/) page for more information.
 
 ## Using Product Usage Data in Gainsight 
 
 For video overviews, see:
 
+
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed?v=CJ318OGtkb8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
@@ -37,23 +41,20 @@ For video overviews, see:
 
 For the overall 3-year vision, see [Project Compass #15 Vision](https://gitlab.com/groups/gitlab-com/-/epics/1247). 
 
-### Quick Links
+## Quick Links
 
 <div class="flex-row" markdown="0" style="height:80px">
 <a href="https://docs.gitlab.com/ee/development/usage_ping/dictionary.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Metrics Dictionary</a>
-<a href="https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data: Gainsight Technical Documentation</a>
+<a href="https://about.gitlab.com/handbook/sales/field-operations/customer-success-operations/gainsight/gainsight-gtm.html" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data:<br>Gainsight Technical Documentation</a>
 <a href="/handbook/product/product-intelligence-guide/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Intelligence Overview</a>
-<a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data - Data Team Handbook</a>
+<a href="https://about.gitlab.com/handbook/business-technology/data-team/data-catalog/product-usage-data/" class="btn btn-purple" style="width:33%;height:100%;margin:5px;float:left;display:flex;justify-content:center;align-items:center;">Product Usage Data -<br> Data Team Handbook</a>
 </div>
 
-<br><br><br><br><br><br><br><br>
-
-
+<br><br><br><br>
 
 ## Gainsight Reports and Dashboards
 
-Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts. Once on the C360, 
-
+Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) Dashboard to see the full list of your accounts. Once on the C360, these topics are most relevant for evaluating usage:
 
 | Report Name | Description | Application |
 | ------ | ------ | ------ |
@@ -62,24 +63,19 @@ Use the [Product Usage Data - v2](https://gitlab.gainsightcloud.com/v1/ui/home#/
 | **Product Usage Trends** | Month-over-Month trend analyses for use cases such as SCM, CI, DevSecOps, and License Utilization | Monthly data points for use case-specific metrics. To be used to help the account team learn feature and deployment depth and adoption — use this in conjunction with the Monthly Distilled Metrics. Toggle through the reports to analyze the top metrcs on a per use case basis. |
 | **Instance and Namespace Details** | List of all instances related to the account with `Instance Type` meta data | Use [Updating Self Managed Instance Type to update the hostname](#updating-self-managed-instance-type) |
 
-
 ## Ways to Use These Metrics
 
 There will be several limitations with the MVC deployment; however, as you come across use cases, please [open an issue](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues) or [request a new metric](#requesting-new-metrics). Here are several potential use cases for utilizing data:
 
+| Topic | Description | Questions to Address | References |
+| :--- | --- | --- | --- |
+| Understanding the basics of my customer's usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data.<br> Use this to see all instances and namespaces related to your account (Production and non-Production) and their activity. <br> **Note** : This only works for instances that are tied to an active subscription. | {::nomarkdown}<ul><li>Who is sending us their usage ping data?</li><li>Are they sending Production data?</li><li>Is their activity in line with my expectations?</li><li>Does the activity found in the product usage data agree with what I know about their usage?</li></ul>{:/} |  |
+| C360: Instance and Namespace Details | To better support my customer, I need to know what GitLab version they're on so I can help them upgrade or patch their self-managed instance. | {::nomarkdown}<ul><li>What versions are my customers on?</li><li> If they have multiple instances, how do I know which instance is on which version?</li></ul>{:/} | C360: Instance and Namespace<br><br> Product Usage Data Dashboard (`Self Managed Instances - Current GitLab Version Details`) |
+| How many licenses has my customer deployed? | License Utilization (see above) to understand how many licenses have been deployed  `billable_user_count/licensed seats`. <br> For example, a customer may have purchased 200 licenses and have only deployed 80 after 9 months of being a customer. | {::nomarkdown}<ul><li>What trends can I see?</li><li> How do I understand my customer's License Utilization?</li></ul>{:/} | C360: User Adoption Metrics<br><br> Product Usage Data dashboard<br><br>[License Utilization Handbook](/handbook/customer-success/tam/gainsight/license-usage/) |
+| Understanding my customer's GitLab adoption | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption.<br> Use the [Use Case Adoption guide](/handbook/customer-success/product-usage-data/use-case-adoption/) for specific definitions around whether a customer has adopted a specific stage. <br> See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. | {::nomarkdown}<ul><li>Which use cases has my customer adopted?</li><li>To what degree have they adopted which use case?</li><li>Which features of each use case have they adopted?</li><li>Does feature adoption align to customer purchase intent?</li></ul>{:/} | C360: Scorecard<br><br>Product Usage Data dashboard 
+| How do I understand the health score with Product Usage Data? | Product Usage Data is now synced into Gainsight for a quick, high level roll-up of the customer's adoption per use case. This should be used to help quickly identify if the customer is on track for each GitLab use case. | {::nomarkdown}<ul><li>My customer’s Use Case health is red, yellow, or green — how is that calculated?</li><li>How is Product Usage Data weighted?</li><li>What is "good" health?</li></ul>{:/} | [Use Case Adoption methodology](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/)<br><br>[Health Score Measure Weightings](https://about.gitlab.com/handbook/customer-success/tam/health-score-triage/#enterprise)<br><br>[Product Usage Data v2 dashboard](https://gitlab.gainsightcloud.com/v1/ui/home#/191fa30f-7632-4000-b57a-edb62d9bb81b) |
 
-
-| Topic                                           | Description                                                  | Questions to Address                                         | References                                                   |
-| ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Understanding The Basics of My Customer's Usage | With data syncing to Gainsight, we can quickly and easily look up an account and see instances where we are receiving their data. Use this to see all instances and namespaces related to your account (Production and non**-**Production) and their activity. NOTE**:** this only works for instances that are tied to an active subscription. | * Who is sending us their usage ping data?<br />* Are they sending Production data?<br />* Is their activity in line with my expectations? Does the activity found in the product usage data agree with what I know about their usage? | C360: Instance and Namespace Details                         |
-| What version(s) are my customers on?            | To better support my customer, I need to know what GitLab version they're on so I can help them upgrade or patch (i.e., security risk) their self-managed instance | * Which version is my customer on? <br> * If they have multiple instances, how do I know which instance is on which version? | * C360: Instance and Namespace <br> * Product Usage Data Dashboard (`Self Managed Instances - Current GitLab Version Details`)                         |
-| How Active Is My Customer?                      | License Utilization (see above) to understand how many licenses have been deployed `billable_user_count/licensed seats`. For example, a customer may have purchased 200 licenses and have only deployed 80 after 9 months of being a customer. | \* How many licenses has my customer deployed? <br> \* What trends can I see? | * C360: User Adoption Metrics <br> \* Product Usage Data dashboard |
-| Understanding My Customer's GitLab Adoption     | As an MVC, use metrics mapped to use cases SCM (Create), CI (Verify), and DevSecOps (Secure) to understand their adoption. Use the [Use Case Adoption](/handbook/customer-success/product-usage-data/use-case-adoption/) guide for specific definitions around whether a customer has adopted a specific stage. See the [GitLab Adoption Journey](/handbook/customer-success/vision/#high-level-visual-of-gitlab-adoption-journey) for an explanation on the adoption of SCM, CI, and Secure. | \* Which use cases has my customer adopted? <br/> \* To what degree have they adopted which use case? <br/> \* Which features of each use case have they adopted? | * C360: Scorecard <br> * Product Usage Data dashboard        |
-|                                                 |                                                              |                                                              |                                                              |
-
-
- 
-
+<br>
 
 Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
 
@@ -89,6 +85,7 @@ Remember, this is an MVC — please [create an issue to suggest new metrics](#re
 | CI (Verify)        | Product Stickiness       | As part of their continued adoption and customer journey, we want to help our customers adopt CI, as well as helping their central DevOps teams to better understand their organization's adoption of CI. Use these metrics to help determine progress towards adoption |
 | DevSecOps (Secure) | Enablement & Expansion   | Finally, for customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
 
+<br>
 
 ## TAM Actions
 
@@ -109,6 +106,9 @@ To make sure we correctly identifying Production vs. other types, use these inst
 1. Review Hostnames under Accounts with Unknown Instance Names Report (best to click the "Maximize Report" for viewing)
    1. Optional: if you want to view hostname usage, use this dashboard and filter via Hostname to see the usage for any specific hostnames
 
+This process is critical as a customer can have multiple subscriptions and each subscription can have multiple instances. See example diagram:
+
+![Fictitious Self-Managed diagram](https://lucid.app/publicSegments/view/74e7b4aa-6e71-4f60-83bb-6439c459358c/image.png)
 
 ### Updating Self-Managed Instance Type
 
@@ -121,7 +121,6 @@ For your self-managed customers, label your customers' instances as Production, 
 
 NOTE: Anything labeled as "Unknown" should be treated as a _temporary_ holding title that needs to be updated to Production, Non-Production, or Obsolete.
 
-
 ## Field Definitions
 
 The Product Stage definitions have been extracted from the [Metrics Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html). For more information on Stage metrics, please review the dictionary.
@@ -129,6 +128,33 @@ The Product Stage definitions have been extracted from the [Metrics Dictionary](
 Eventually, the metrics list and definitions will be embedded directly in the handbook. As a first iteration, the list of metrics and their definitions are in the [Data Mart - Table Definitions](https://docs.google.com/spreadsheets/d/1EhSXqx6YXcpqHg2TpS0ZN5Rk_d2hhrTPrW5FTbmuZjw/edit#gid=0) spreadsheet.
 
 See our technical documentation for our [instance of Gainsight's Adoption Explorer](https://docs.google.com/document/d/1TvSCT_yj73AS0PuLxPonuF5QHWyM3dqG_i8H1U1cwf0/edit).
+
+### User and Project Adoption Metrics
+
+Below is a list of user- and project-based adoption metrics to assist with understanding the usage of key features for the overall customer. Examples include the number of users running ci_pipelines divided by the total licensed user count.
+
+| Metric | Calculation | Description |
+| ------ | ----------- | ----------- |
+| UMAU User % | UMAU/billable_user_count | How many deployed licenses are actively used on a monthly basis? |
+| License Utilization | Billable_user_count / Licenses Sold | What percentage of licenses have been activated? Are they consuming their purchased licenses? |
+| UMAU Utilization | UMAU/Licenses Sold | What percentage of purchased licenses are in use? Is there a risk of seat reduction? |
+| Create User % | SMAU Create/ billable_user_count | What percentage of billable licenses are active on the Create stage? Has this customer sufficiently on this Product stage? |
+| Protect User % | SMAU Protect/ billable_user_count | What percentage of billable users are running Container scans? |
+| Secure User % | SMAU Secure/ billable_user_count | What percentage of billable users are actively running Secure scans? What is their methodology to scans, do they have few or many people running scans? |
+| Verify User % | SMAU Verify/ billable_user_count | What percentage of billable users are actively running ci_pipelines? Do we have light or deep user-level penetration into CI? |
+| Merge Request User % | Merge Requests / billable_user_count | What percentage of billable users run merge requests? This can reveal SCM usage, as well as providing insight for expanding into CI and other use cases. |
+| CI Builds User % | CI Builds / billable_user_count | What percentage of billable users are creating CI builds? Consider contrasting this with total CI builds. |
+| Auto Devops Projects % | counts.auto_devops_enabled / counts.projects | What percentage of total projects with auto devops set up. For certain customers, this can help illuminate the depth and month-over-month auto devops expansion via projects. |
+| Package Registry Projects % | counts.projects_with_packages / counts.projects | What percentage of total projects with package registry enabled? |
+| Competitor CI Projects % | (counts.projects_jenkins_active + projects_bamboo_active_all_time_event + projects_drone_ci_active_all_time_event) / counts.projects | What percentage of total projects have active competitor integrations? Helpful to monitor increases/decreases over time. |
+| SMAU Verify Utilization | SMAU Verify / Licenses Sold | What percentage of total subscription licenses have users running ci_pipelines in the last 28 days? Useful to track CI growth over time. |
+| Merge Requests Utilization | Merge Requests - User L28D / Licenses Sold | What percentage of total subscription licenses have users running merge requests? This can help us understand the depth of SCM/VC&C usage. |
+| CI Pipeline Config Utilization | CI Pipeline Config - User L28D / Licenses Sold | What percentage of total subscription licenses have users running ci_pipelines from templates in the repo in the last 28 days? Useful to track pipeline config outcomes. |
+| SMAU Secure Utilization | All Secure Scanners - User L28D / Licenses Sold | What percentage of total subscription licenses have users running any type of DevSecOps scan in the last 28 days? Useful as a top-level usage DevSecOps indicator. |
+| Releases Utilization | Deployments - User L28D / Licenses Sold | What percentage of total subscription licenses have users running deployments in the last 28 days? Useful for Release and CD analysis. |
+| Issues Created Utilization | Issues Created - User L28D / Licenses Sold | What percentage of total subscription licenses have created issues in the last 28 days? Useful for evaluating broad usage of Plan |
+| Package Utilization | Packages - User L28D / Licenses Sold | What percentage of total subscription licenses have published a package to the registry in the last 28 days? Useful for a high level adoption of Package |
+
 
 ## Data
 
@@ -154,7 +180,7 @@ Below are the various data sources, their definitions, and uses.
 
 We utilize Usage Ping to derive self-managed customer usage data. For more details, see [Usage Ping FAQs](/handbook/customer-success/tam/usage-ping-faq/). Any references to "Usage Ping" in Gainsight explicitly refers to self-managed product usage data (licenses + feature use).
 
-##### SaaS (Snowplow))
+##### SaaS (Snowplow)
 
 SaaS customer data is in Gainsight as of the end of FY22-Q2.
 

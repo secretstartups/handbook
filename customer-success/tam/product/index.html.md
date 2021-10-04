@@ -29,6 +29,18 @@ Following the process described here will ensure that customer interest in featu
 
 On top of these processes, we've also documented guidelines for when [a customer expressed interest in a feature](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature).
 
+## TAMs managing their customer feedback from the Product CAB
+Find TAM [process](https://docs.google.com/presentation/d/1LPJazgskhQJnqjBYzRlu5dGDVmUbnvfpzfYrPXqXkRY/edit#slide=id.gf25b6c3b0c_2_0) for managing customer feedback from the Product CAB. 
+
+**Process**
+1. The Customer Reference Manager (CRM) creates the “CAB TAM Follow up” [issue template](https://gitlab.com/gitlab-com/marketing/strategic-marketing/customer-reference-content/customer-advisory-board/-/issues/new?issue%5Bmilestone_id%5D=) in the CAB project and uploads links to the recordings etc
+2. The CRM tags the TAMs and TAM managers in the issue to review the CAB recordings/ notes and transcripts when their customer has attended the CAB
+3. The TAM create new issues in the Product repo as per [agreed process](https://about.gitlab.com/handbook/customer-success/tam/product/) based upon their customer feedback (links to the customer SFDC account as per standard process for reporting)
+4. If the issue already exists please add the CAB label provided and add the customer SFDC record 
+5. The TAM tags the issue with the CAB label (CAB Takeaway+FQ+FY) so we can track CAB input into product)
+6. The CRM schedules an annual meeting with CS/TAM/Product teams to review the CAB Takeaway label board in the Product Repo
+
+
 ### GitLab Issues
 
 If your customer has a feature request that doesn't already exist, refer to the [example of how to express the customer's interest](/handbook/product/how-to-engage/#a-customer-expressed-interest-in-a-feature) in an issue. Open an issue in the [gitlab-org issue tracker](https://gitlab.com/gitlab-org/gitlab/-/issues) and choose the **[Feature Proposal](https://gitlab.com/gitlab-org/gitlab/-/issues/new?issuable_template=Feature%20Proposal%20-%20lean)** template, following the instructions and providing as much information as possible. Once you've created the issue,  make sure to add the appropriate labels for the [product stage and/or group](https://about.gitlab.com/handbook/product/categories/) (e.g `~"devops::plan"`) if known and add a comment tagging the appropriate Product Manager asking for review with the customer's Salesforce account link included.

@@ -39,7 +39,7 @@ Individual GitLab team members can request to audit a customer-facing training s
 
 ### For Sales Reps and SAs: How to order Professional Services
 
-1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/#how-to-create-an-opportunity) using the record type "Professional Services Only."
+1. To order Professional Services, the SAL or ISR [creates an Opportunity in SFDC](/handbook/sales/field-operations/gtm-resources/) using the record type "Professional Services Only."
 
 1. The next steps depend on whether the services needed are standard or custom.
 

@@ -44,6 +44,7 @@ Anyone can establish or participate in an existing Community of Practice. Below 
 | [Advanced Pipelines](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/advanced-pipeline-community-of-practice)                  | [@juliebyrne](https://gitlab.com/juliebyrne) |
 | [Modern Applications](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/modern-applications)                 | [@reshmikrishna](https://gitlab.com/reshmikrishna) |
 | [Trusted Advisor Skill Development](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/trusted-advisor-skill-development)   | [Darwin Sanoy (@darwinjs)](https://gitlab.com/darwinjs), [Chester Nwachukwu (@cnwachukwu)](https://gitlab.com/cnwachukwu) |
+| [OpenShift](https://gitlab.com/gitlab-com/customer-success/communities-of-practice/redhat-openshift-community-of-practice)                  | [Kurt Dusek (@kdusek)](https://gitlab.com/kdusek) |
 
 #### Suggested Communities of Practice
 

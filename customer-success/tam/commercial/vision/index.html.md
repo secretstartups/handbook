@@ -44,4 +44,8 @@ Suggested topics:
 -  CI/CD for new users and admins
 -  Secure - Scan setup and basic troubleshooting, working with the results
 -  GitLab approvals, gates, and compliance workflows
+-  New customer onboarding and orientation
 -  GitOps, Configure, Package and Release for DevOps teams
+-  Round 1 focus:  Operationalize Webinars
+-  Round 2 focus:  Increase Promotion, pair w/ Marketing
+-  Round 3 focus:  On-demand webinars

@@ -23,15 +23,21 @@ The first step once you are aware of a handoff is for the new TAM to open an [CT
 
 ### Account Handoff CTA Tasks
 
-- Open a [handoff issue](https://gitlab.com/gitlab-com/customer-success/tam/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=#) to be the source of truth for any discussion items, questions, notes, etc. that pop up during the handoff process (new TAM)
-- Have an internal meeting with old and new team (new TAM)
-- Intro new team on next cadence call (old TAM)
-- Send intro email to customer with new team's contact details (old TAM)
-- Invite new team to customer Slack channels if applicable (old TAM)
-- Add new account team to SFDC and/or Gainsight (new TAM)
-- New TAM turn on watch notifications for collaboration project (new TAM)
+- Old TAM: Review account handoff handbook page
+- Old TAM: Ensure the success plan and any CTAs are updated, and that the Attributes tab in Gainsight contains links to the collaboration project, meeting notes doc, and triage issue (if applicable)
+- New TAM: Review account handoff handbook page
+- Old TAM: Schedule an internal meeting between the current TAM & new TAM to review account details (collaboration project, success/command plans, meeting notes, EBRs, account history, etc.)
+- Old TAM: Add new TAM to any Slack channels
+- New TAM: Turn on watch notifications for the collaboration project
+- Old TAM: Introduce new team on next cadence call (schedule one if there is not one upcoming)
+- Old TAM: Send follow up email to the customer with the new TAM's contact information
+- Old TAM: Assign the account (and relevant child accounts) to the new TAM in Gainsight
+- Old TAM: Assign any open CTAs and the success plan (and its objectives/tasks) to the new TAM
+- Old TAM: Delete the cadence call calendar events (if created internally); or, if the events were created by the customer, reach out to ask that the customer invites the new TAM to the events directly
+- New TAM: Create and send out a new invite for cadence calls, to ensure there is no disruption, as some customers' internal systems do not cooperate with Google Calendar
+- New TAM: Schedule additional sync with old TAM if needed; otherwise close this CTA
 
-As you follow the tasks in the CTA and collaborate in the issue and in the internal meeting, be aware of the following suggestions to ensure a seamless handoff experience.
+As you follow the tasks in the CTA and collaborate amongst each other, be aware of the following suggestions to ensure a seamless handoff experience.
 
 ## Topics to Cover
 
@@ -92,7 +98,7 @@ If you're interested in past email exchanges, these can be found in the "Salesfo
 
 Review the cadence call schedule, and the usual list of attendees. Also review agendas for recent cadence calls to familiarize on the topics that are currently being discussed.
 
-💡 **Tip:** When transitioning the cadence call to a new TAM, don't change the meeting owner but instead delete the current meeting and have the new TAM send a new invite. Changing the owner doesn't always work for all attendees, which can result in customer attendees having multiple and/or outdated meetings on their calendar.
+Depending on the situation, it may be beneficial for both the new TAM and the customer to have a slower transition (1-2 months). In this case, for cadence calls, it's helpful for the old TAM to lead the cadence calls at first, while the new TAM shadows, and both TAMs pair on any questions or follow up, until the new TAM is ready to take over leading and be solo.
 
 #### Meeting Notes
 

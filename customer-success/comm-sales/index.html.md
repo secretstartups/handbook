@@ -7,7 +7,7 @@ description: "The Commercial Sales segment consists of two sales teams, Small Bu
 # Commercial Sales - Customer Success Handbook
 {:.no_toc}
 
-GitLab defines Commercial Sales as worldwide sales for the mid-market and small/medium business segments. [Sales segmentation](/handbook/sales/field-operations/gtm-resources/#segmentation) is defined by the total employee count of the global account. The Commercial Sales segment consists of two sales teams, Small Business (SMB) and Mid-Market (MM). The Commercial Sales segment is supported by a dedicated team of Solutions Architects (SA) and Technical Account Managers (TAM).
+GitLab defines Commercial Sales as worldwide sales for the mid-market and small/medium business segments. [Sales segmentation](/handbook/sales/field-operations/gtm-resources/) is defined by the total employee count of the global account. The Commercial Sales segment consists of two sales teams, Small Business (SMB) and Mid-Market (MM). The Commercial Sales segment is supported by a dedicated team of Solutions Architects (SA) and Technical Account Managers (TAM).
 
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
@@ -76,12 +76,13 @@ A seamless customer journey requires a continuous flow of relevant information b
 
 ### SA to TAM (new accounts)
 
-* SA completes the [New Customer Transition Template](https://docs.google.com/document/d/1Zl8fho1PYyQ-jdpKrG-lM2bRp_R2oMu4SY8anSNLxUE/edit#heading=h.g51kgr7ordew) (available only to GitLab team members) and stores it in the
-* Ensure any account notes, [tech stack discoveries](https://docs.google.com/spreadsheets/d/1sOeluQhMO4W0wWIC6rbSE_E1NzTj7eTaR-FDKLYlLb4/edit#gid=912439232), [technical briefs](https://gitlab.com/gitlab-com/customer-success/tko/technical-followup-briefs/-/tree/master) or running call notes are linked to Salesforce and shared with the TAM
-* SA to clearly outline to TAM how far the customer is in their adoption of GitLab
-* TAM begins onboarding process for new customers
-* Add TAM name to account team in Salesforce, ensure SA name is already present
-* Ensure any urgent action items are identified via an issue on the [Commercial TAM Triage board](https://gitlab.com/gitlab-com/account-management/commercial/triage/-/boards/1139879?&label_name[]=Status%3A%3ANew)
+When an opportunity reaches stage `7-Negotiating` and is above the [account value threshold](https://about.gitlab.com/handbook/customer-success/tam/services/#commercial), the Commercial TAM Manager will be automatically flagged for a new account to be assigned to a TAM. Once a TAM is assigned to the account, the TAM will arrange a Technical Internal Plan meeting with the SA to review account notes. Prior to the Technical Internal Plan meeting, the following are expected to be updated:
+  * The Command Plan for the opportunity should be up to date on their Why Now and specific pain points in Identify Pain.
+  * The Custom Pitch Deck (attached to the opportunity) ought to provide current state assessments of their environment and initial plans for adoption of GitLab.  
+  * Raw notes available in the Activity History in Salesforce to provide the TAM any additional context necessary.
+
+After the Technical Internal Plan meeting, the AE is to arrange a transition meeting with the customer that includes both the SA and TAM. This meeting will at least cover the communication plan between the TAM and customer going forward.
+
 
 ### SA to SA (new accounts)
 

@@ -29,13 +29,13 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA/S
 | SCM Migration Scoping Question | Customer Response | Example response | Rationale for asking | 
 | - | - | - | - |
 | Source SCM System(s) | to-do | Bitbucket Server, GitLab Self-Managed | GitLab PS has automation to facilitate migration for the most popular source systems. Need to know what systems the data is coming from to accurately scope the time to migrate. |
-| Total number of Users** | to-do | BB = 225, GLSM = 775 | Migrating users is a pre-requisite step to migrating the data to ensure data elements are associated properly. This is a discrete task in migration engagements and must be scoped with number of users as an input. |
-| Total portfolios (w/ stakeholder rep) | to-do | 6 | We use total portfolios as a proxy metric to identify how much coordination will be required during migration. Each portfolio leader needs to understand and buy into the migration process for things to go smoothly. This coordination time is built into the migration engagement. |
-| Total number projects <5GB (git repositories)  | to-do | BB = 1,234; GL = 4321 | Large repositories must be migrated with a different more manual process that requires coordination with other departments in gitlab. As such, we will scope these migration activities accordingly. |
-| Total >5GB GitLab repositories | to-do | BB N/A, GL = 3 | Large repositories must be migrated with a different more manual process that requires coordination with other departments in gitlab. As such, we will scope these migration activities accordingly. |
 | Destination GitLab deployment  (SaaS, Self-Managed(HA), Self-Managed(single node)) | to-do | SaaS | We ask this to ensure the destination system deployment is strong enough to handle the throughput of data that will be required during migration. |
 | Source gitlab version (must be 2 behind latest) | to-do | 13.4 | Migration services leverage many GitLab APIs including our project import/export API. There are specific compatability guidelines [documented here](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history) |
 | Destination gitlab version (must be within 2 minor versions of source) | to-do | 14.1 |  Migration services leverage many GitLab APIs including our project import/export API. There are specific compatability guidelines [documented here](https://docs.gitlab.com/ee/user/project/settings/import_export.html#version-history) |
+| Total number of Users** | to-do | BB = 225, GLSM = 775 | Migrating users is a pre-requisite step to migrating the data to ensure data elements are associated properly. This is a discrete task in migration engagements and must be scoped with number of users as an input. |
+| Total portfolios (w/ stakeholder rep) | to-do | 6 | We use total portfolios as a proxy metric to identify how much coordination will be required during migration. Each portfolio leader needs to understand and buy into the migration process for things to go smoothly. This coordination time is built into the migration engagement. |
+| Total number of git repositories  | to-do | BB = 1,234; GL = 4321 | We need to know the total number of repositories to be migrated in order to estimate the number of days of effort.  Note: A bitbucket project can contain multiple git repositories.  We need the total number of repos. |
+| Total >5GB GitLab repositories | to-do | BB N/A, GL = 3 | Only applicable for GitLab self-managed migrations to GitLab.com; repos >5GB must be manually migrated due to a 5 GB Cloudflare limitation.  Note that we only care about repo size, not the total project size. |
 | CI/CD System(s) | to-do | Jenkins | We need to know what CI/CD systems are being used to estimate how much it will take to repoint those pipeline jobs to the new SCM system to help the customer resume IT operations. |
 | Total ci/cd jobs? (CI/CD jobs will need cut-over even if not migrated) | to-do | 4567 | The engagement could include repointing CI/CD jobs back to a source repository. If this is the case, we will need to know how many jobs need to be reconfigured. |
 | Typical registry size | to-do | 159MB | If registry sizes are unusually big, it could affect the speed of migration. _Note: this question only applies to migrations where gitlab is a source system._ |
@@ -47,6 +47,7 @@ Using the [services calculator](https://services-calculator.gitlab.io/), an SA/S
 
 
 ## GitLab Self-Managed to GitLab.com Migration Notes
+- [Migrating from Self-Managed to SaaS](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/) has additional information, rough order magnitude estimates, and common customer questions
 - see [Congregate Features Matrix](https://gitlab.com/gitlab-com/customer-success/professional-services-group/global-practice-development/migration/congregate/-/blob/master/gitlab-migration-features-matrix.md) to see a comparison of GitLab ui migration vs Congregate migration and gain a better understanding of which features get migrated and which don't.
 - Migrations from one GitLab instance to another using Congregate require that the group and project structure of the source system is retained during migration. 
 - scoping uses our standard [Automated Migration PS Engagement Estimate Template](https://docs.google.com/spreadsheets/d/1YKMyflzsA-VPEVobB82zC8-n0hlC-uRBtiNB7Fm-kZg/edit#gid=498273375) as long as there are 50 projects or more; for less than 50 projects, use the [Manual Migration Estimate Template](https://docs.google.com/spreadsheets/d/1YKMyflzsA-VPEVobB82zC8-n0hlC-uRBtiNB7Fm-kZg/edit#gid=1993932036)
@@ -106,6 +107,29 @@ _Note: A project on bitbucket is equivalent to a GitLab group. A Repository on B
 ### Bitbucket Cloud to GitLab SaaS
 - GitLab does not have an API to initiate an import from bitbucket cloud currently. Automated migrations are not possible. 
 - Can position a teach a customer to fish advisory approach that uses the [BB cloud import UI](https://docs.gitlab.com/ee/user/project/import/bitbucket.html) to help with importing. 
+
+## TFS to GitLab
+
+TFS contains more than a source code repository, so additional questions need to be asked while scoping out a TFS migration. Three common components in TFS are the following:
+
+- Code: The source code itself
+- Builds: Any automated build processes, usually defined in a XAML file along with a solution (.sln) and/or project file (.csproj)
+- Workitems: Issues/tickets for tracking work. Similar to GitLab issues or JIRA tickets
+
+| Question | Answer | Sample Answer | Rationale for asking|
+| ----- | ----- | ----- | ----- |
+| Are you using Git or TFVC for your SCM? | | TFVC | This will influence how we interact with the TFS server and determine if a conversion to Git is necessary |
+| How many code repositories? | | 500 | This will affect the decision on general approaches listed above |
+| Are you using branches in your code repositories? | | Yes | If the answer is no for some of the repositories, the customer will have to choose between converting specific folders in the repository to branches to retain history or accept a flat file migration of the repository with no history
+| Do you need to retain history in your code repositories? | | Yes | If the answer is no and the customer is using TFVC, then we do not need to convert the repos to Git. 
+| Are you using TFS to build your software? | | yes | This will add CI/CD consulting/transformation activities to the engagement if the answer is yes |
+| How many builds/build templates are used per code repository? | | 1 | This is a guage of complexity. Sometimes a code repository can contain several different build definitions |
+| Are multiple solution (.sln) or project (.csproj) files building the same packages? | | yes | If yes, this can require advisory services to refactor to those solution/project files to work with gitlab pipelines |
+| How many build servers do you use? |  | 1 | We usually convert a build server to something more epehemeral so the more build servers in use, the more development is required to transition them to something more ephemeral |
+| Are you using workitems in TFS? |  | yes | If workitems need to be retained, then additional migration and/or advisory activities need to be added to the engagement. _Note: there are features in TFS workitems (e.g. custom fields and workflows) that are not supported by GitLab issues. During scoping, make sure the customer is aware of these differences._  |
+| Are there any specific flags used in your build process? If so, what? |  | Yes  | This shows the customer is measuring this data to be used during the transition process. |
+| Are there any external tools/applications tied to your TFS server? | | Yes. We use an in-house tool that pulls from TFS daily for gathering metrics | If the answer is yes, additional activities will need to be added to the SOW to accomodate transitioning those tools to pull from Git instead.
+
 
 ## Other git based SCMs
 - We can support these customers by using the "bare git" method of migration. This is done through the [Import repo by URL UI](https://docs.gitlab.com/ee/user/project/import/repo_by_url.html) or command line using `git push -u. 

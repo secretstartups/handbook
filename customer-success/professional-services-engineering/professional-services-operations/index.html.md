@@ -25,9 +25,7 @@ ___
 
 #### Who we are
 
-[Donita Farnsworth, our Senior Consulting Project Coordinator](https://about.gitlab.com/company/team/#dfarnsworth04)
-
-[Wakae McLaurin, our Senior Training Project Coordinator](https://about.gitlab.com/company/team/#wmclaurin) 
+Internal Page Coming Soon! 
 
 ___
 

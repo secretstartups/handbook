@@ -33,7 +33,7 @@ In the event that an incident issue is confidential, TAMs should leverage the
 
 Immediately following the resolution of an incident, asynchronous work to author
  an Incident Review is started within the incident issue. Within seven working days,
- the Incident Review should be complete, and the IMOC is responsible for labelling
+ the Incident Review should be complete, and the last Incident Manager assigned to the response is responsible for labelling
  it appropriately and adding it to the agenda for Infrastructure's
  [Synchronous Review Meeting](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#synchronous-review-meeting-sessions)
  held weekly on Tuesdays, and published in the GitLab Team Meetings calendar.  
@@ -52,7 +52,7 @@ For our top ARR customers or those significantly impacted by an incident, a cust
  [Incident Review](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/#review-of-root-causes-and-corrective-actions)
  may be requested by the customer or by TAM/GitLab leadership. This customer-facing review
  should only proceed after the incident has been internally reviewed during a weekly review.
- A TAM should interface with the IMOC to ensure timelines are clear and to coordinate a
+ A TAM should interface with the Incident Manager to ensure timelines are clear and to coordinate a
  customer-facing meeting. In the instances that a TAM is asked by a customer for
  an RCA with the GitLab team, or feels that one is required, the TAM is to work 
  with their TAM Manager on next steps. For the sake of efficiency, we seek to keep

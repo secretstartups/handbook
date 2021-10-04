@@ -116,6 +116,8 @@ PSEs or Technical Instructors who deliver GitLab Education Services instructor-l
 
 1. Review the train-the-trainer (T3) video for the course you are delivering.
 
+1. Review and follow the [Instructor Pre-Training Checklist](/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you are properly prepared for your delivery. 
+
 1. Review, practice, and use these [PS Remote Training Tips and Tricks](/handbook/customer-success/professional-services-engineering/remote-training-tips/).
 
 1. Complete the GitLab Training Lab set up steps below. Make sure that you review the lab exercises and ensure that the labs are working properly prior to the first day of class. 
@@ -150,7 +152,7 @@ PS uses the [GitLab Demo Cloud](http://gitlabdemo.com/) as the standard environm
 1. Click the blue button to access your group and create your first project.
 
 **4. Training Closeout**:
-1. Create a PDF version of the slides and send it to the Project Coordinator. The Project Coordinator will send a copy of the slide deck to the customer and save a copy to the Active Projects Google Drive folder.
+1. Review the [Instructor Post-Training Checklist](/handbook/customer-success/professional-services-engineering/processes/delivery-checklists/) to ensure that you have followed all of the steps to close out your training class.
 1. The Project Coordinator will download the Zoom attendee report and send a Next Steps email to the customer main point of contact using an email template located in the [email communication templates](https://docs.google.com/document/d/1rJ9q9gEzsumRxDhoWEe45u70efmKA0eWNg69WONuCYs/edit?usp=sharing).
 1. <strong>For courses that have certification assessments</strong>: When an attendee submits their certification assessment, review their work in the demo lab cloud within 7 days of the attendee's submission and manually release their results using the attendee's completed Google Form. [Here are the detailed instructions](https://gitlab.com/gitlab-com/customer-success/professional-services-group/education-services/-/wikis/GitLab-Certification-Instructions) for certifying customers.
 
