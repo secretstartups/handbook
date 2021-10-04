@@ -252,7 +252,7 @@ Learning campaigns use a combination of GitLab issues and Slack announcements to
 
 ### Management Tip of the Week
 
-Weekly Slack messages that are posted in the #managers channel with quick, practical management advice to help people leaders do their job better, delivered weekly on Friday's. Sample topics include:
+Weekly Slack messages that are posted in the #managers channel with quick, practical management advice to help people leaders do their job better, delivered weekly on Thrusday's. Sample topics include:
 - LinkedIn Learning Courses, articles, GitLab Learn, handbook pages, etc. 
 - Training announcements
 - External webinars
