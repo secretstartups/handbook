@@ -53,7 +53,7 @@ Key features of this call include:
 
 #### Selection Criteria - Q4-FY22 
 
-In total, 11 team members from across the Field organization will be recognized. The categories by segment include: 
+In total, 12 team members from across the Field organization will be recognized. The categories by segment include: 
 1. Enterprise Sales
    1. ENT Rookie Award
    1. Land with Vision Expand with Purpose Award
@@ -70,6 +70,8 @@ In total, 11 team members from across the Field organization will be recognized.
    1. Partner Collaboration Award
 1. Alliances 
    1. Alliances Peak Results Award
+1. Field Operations
+   1. Field Operations MVP
 
 See the detailed criteria in [this spreadsheet](https://docs.google.com/spreadsheets/d/1hSHyI-jZL_TwrhHeZILQWIktfFJXr_3jQ16E56thnEk/edit?usp=sharing). Considerations include: 
 1. Categories are reevaluated by CRO leadership and Field Operations every quarter and changed if deemed necessary. 
