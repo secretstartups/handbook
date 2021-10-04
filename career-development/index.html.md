@@ -221,7 +221,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
     sec:stse(Staff Security Engineer)-->sec:pse(Principal Security Engineer);
     sec:pse(Principal Security Engineer)-->sec:dse(Distinguished Security Engineer);
     sec:sse(Senior Security Engineer)-->sec:sem(Security Engineering Manager);
-    sec:sem(Security Engineering Manager)-->sec:sms(Senior Manager, Security)
+    sec:sem(Security Manager)-->sec:sms(Senior Manager, Security)
     sec:sms(Senior Manager, Security)-->sec:ds(Director of Security);
   end
 
@@ -231,7 +231,7 @@ Once the Interim Manager's first new hire has been at GitLab for 30 days, or oth
   click sec:stse "/job-families/engineering/security-engineer/#staff-security-engineer";
   click sec:pse "/job-families/engineering/security-engineer/#principal-security-engineer";
   click sec:dse "/job-families/engineering/security-engineer/#distinguished-security-engineer";
-  click sec:sem "/job-families/engineering/security-management#security-engineering-manager";
+  click sec:sem "/job-families/engineering/security-leadership/#security-leadership-roles-at-gitlab";
   click sec:sms "/job-families/engineering/security-leadership/#senior-manager-security";
   click sec:ds "/job-families/engineering/security-leadership/#security-leadership-roles-at-gitlab";
 ```
