@@ -23,9 +23,24 @@ Fulfillment focuses on improving our capabilities and metrics in the following a
 * License: [Direction](https://about.gitlab.com/direction/fulfillment/license), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#license), [Backend Team](/handbook/engineering/development/fulfillment/be-license/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-license-utilization/)
 * Utilization: [Direction](https://about.gitlab.com/direction/fulfillment/utilization), [Group Responsibilities](https://about.gitlab.com/direction/fulfillment/#utilization), [Backend Team](/handbook/engineering/development/fulfillment/be-utilization/), [Frontend Team](/handbook/engineering/development/fulfillment/fe-purchase-license-utilization/)
 
+## Direction
+
+In addition to the [Fulfillment Product Direction](https://about.gitlab.com/direction/fulfillment/), the Fulfillment Development Sub-department strives to:
+
+* Increase the reliability and availability of our Fulfillment infrastructure
+* Make foundational technical improvements to the architecture and data models of the Fulfillment systems
+* Improve the developer experience of Fulfillment engineers through better tooling and documentation
+
+### OKRs
+
+We follow the [OKR (Objective and Key Results)](https://about.gitlab.com/company/okrs/) framework to set and track goals on a quarterly basis. The Fulfillment section OKRs are set across the enture [Quad](https://about.gitlab.com/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris):
+
+* [FY22-Q3 Quad OKR's](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/269)
+* [FY22-Q4 Quad OKR's](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/320)
+
 ## Team members
 
-### Fulfillment People Leaders
+### Fulfillment Sub-department People Leaders
 
 <% fulfillment_em = %w[jeromezng chris_baus jameslopez csouthard rhardarson] %>
 <% fulfillment_em_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_em.include?(person.anchor) } %>
@@ -485,11 +500,6 @@ Use these prompts or similar to start conversation threads.
 /due in 1 week
 /label ~"Iteration Retrospective"
 ```
-
-## OKRs
-
-* [FY22 Q2 Quad OKR's](https://gitlab.com/gitlab-org/fulfillment-meta/-/issues/169) (In Progress)
-* [FY22 Q1 Engineering OKR's](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/10680)
 
 ## Performance indicators
 
