@@ -147,8 +147,11 @@ TFS contains more than a source code repository, so additional questions need to
 - We strongly recommend against this for GitLab as the source and destination systems. This seems counterintuitive, but because GitLab has lots of other data outside of the repository structure that sits in the project/group structure that needs to be maintained, the reorganization step should not happen during the migration. If a customer MUST do this, recommend doing it as a pre or post migration step using the UI or API to coordinate the local moves of projects and groups.
    - This can be positioned as additional days of migration advisory time. We need to determine what this is a function of to have objective scoping.
 
-### Other Resources
-- See the publicly available [Migration Toolkit](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template) with a [Customer folder](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template/-/tree/master/customer) containing useful documentation to help a customer prepare for their migration.
-- [Migrating from Self-Managed to SaaS](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/)
+### 2. We're on 13.5 (or some old version), can we still migrate?
+- The more of a difference between the source and destination software versions, the higher likelihood there is for data integrity to be lost during migration. The team who maintains the import functionality documented that the importers work when source and destination are [no more than 2 minor releases](https://docs.gitlab.com/ee/user/project/settings/import_export.html#130) apart from each other. For this reason we include upgrade services to help customers get their source instance to be matching or no less than 2 minor versions from the destination software version. Only in extreme circumstances will we consider exceptions to this guidance. 
 
+## Other Resources
+- See the publicly available [Migration Toolkit](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template) to help understand the steps taken during delivery of migration services. 
+- The [Customer folder](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template/-/tree/master/customer) of the migration template project contains useful documentation to help a customer prepare for their migration.
+- The [Migrating from Self-Managed to SaaS](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/) handbook page has details specific to migrating to gitlab.com. 
 
