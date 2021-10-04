@@ -85,7 +85,17 @@ If you have more questions on the metrics definition, you should ask the Product
 
 ##### Date Range
 
-For every instance (self-managed and Saas/GitLab.com), we use the last ping generated during that month to calculate xMAU. Instances are randomly assigned a day of week to generate service pings, but that assigment is peristent over time. For example, if an instance is assigned Tuesdays to generate pings, it will always generate pings on Tuesdays. Since the day of week that pings are generated differs across instances, the exact date range captured in a 28-day counter will also differ.
+For every instance (self-managed and Saas/GitLab.com), we use the last ping generated that month to calculate xMAU. Instances are randomly assigned a day of week to generate service pings, but that assigment is peristent over time. For example, if an instance is assigned Tuesdays to generate pings, it will always generate pings on Tuesdays. Since the day of week that pings are generated differs across instances, the exact date range captured in a 28-day counter will also differ.
+
+Currently, the "last ping of the month" is determined by the date at the beginning of the week (Monday). (In SQL: `DATE_TRUNC('month', ping_created_at_week)`). As such, sometimes the "last ping of the month" does not technically happen during the month of measurement. Here is an example from August 2021:
+
+| Ping Created Date | Ping Created Week | Is used for August 2021 xMAU |
+| --- | --- | --- |
+| `2021-08-05` | `2021-08-02` | FALSE |
+| `2021-08-12` | `2021-08-09` | FALSE |
+| `2021-08-19` | `2021-08-16` | FALSE |
+| `2021-08-26` | `2021-08-23` | FALSE |
+| `2021-09-02` | `2021-08-30` | TRUE |
 
 #### Difference between xMAU and Paid xMAU
 
