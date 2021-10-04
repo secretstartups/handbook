@@ -7,7 +7,7 @@ title: "People Group Fullstack Engineering"
 
 ### People Group Fullstack Engineer
 
-The People Group Fullstack Engineer reports to 
+The People Group Fullstack Engineer reports to Director, People Tools & Technology.
 
 #### People Group Fullstack Engineer Job Grade
 
@@ -76,7 +76,7 @@ Additional details about our process can be found on our [hiring page](https://a
 
 ### Senior People Group Fullstack Engineer
 
-The Senior People Group Fullstack Engineer reports to
+The Senior People Group Fullstack Engineer reports to Director, People Tools & Technology.
 
 #### Senior People Group Fullstack Engineer Job Grade
 
@@ -128,7 +128,7 @@ The Senior People Group Fullstack Engineer is [Job Grade 7](https://about.gitlab
 
 ### Staff People Group Fullstack Engineer
 
-The Staff People Group Fullstack Engineer reports to
+The Staff People Group Fullstack Engineer reports to Director, People Tools & Technology.
 
 #### Staff People Group Fullstack Engineer Job Grade
 
