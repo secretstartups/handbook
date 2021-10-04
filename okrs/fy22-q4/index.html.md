@@ -32,7 +32,6 @@ The by-the-book schedule for the OKR timeline would be
 ### 1. CEO: Encourage wider community engagement
    1. **CEO KR:** Develop a strategy to grow to 1000 contributors per month
    1. **CEO KR:** Meet quarterly objectives for hyperscalers and partners
-   1. **CEO KR:** Meet quarterly objectives for customer focus
    1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued
 
 ### 2. CEO: Optimize GitLab Managed future
