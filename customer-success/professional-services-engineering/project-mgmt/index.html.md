@@ -74,7 +74,7 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 11. Customer:
    - Approves completion for each activity, deliverable, or milestone via email
 
-#### Deploy & Close**
+#### Deploy & Close
 
 12. Project Owner:
     - Complete this [sign off workflow](https://about.gitlab.com/handbook/customer-success/professional-services-engineering/workflows/project_execution/sign-off.html)
@@ -83,19 +83,19 @@ Each PS Engagement will include a Project Plan based on the activities outlined 
 
 ### Project Management Process Templates
 
-### Work Exception
+#### Work Exception
 
 If a project is going to go over the alloted time/budget, open a work exception to get approvals from PS leadership by [creating a Work Exception type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=work-exception)
 
 
-### Change Order
+#### Change Order
 
 Change orders are common elements of Professional Services engagements.  Apply the following steps to create a change order issue, which describes the change order process.
 * Note the engagement Epic number
 * [Create a Change Order type issue in PS Plan](https://gitlab.com/gitlab-com/customer-success/professional-services-group/ww-consulting/ps-plan/-/issues/new?issue%5Bmilestone_id%5D=&issuable_template=change-order&issue%5Btitle%5D=Change%20Order)
 * Replace `<!-- ADD CUSTOMER EPIC NUMBER HERE, e.g. &65-->` at the bottom of the description with the epic number e.g. `&65` 
 
-### Work At Risk
+#### Work At Risk
 
 When work at risk is sought, apply the following steps to create a work at risk issue, which describes the work at risk process.
 * Note the engagement Epic number
