@@ -1,3 +1,9 @@
+---
+layout: handbook-page-toc
+title: GitLab GmbH (Germany) benefits
+description: GitLab GmbH (Germany) benefits specific to Germany based team members.
+---
+
 Can't find what you're looking for? Try the main [People Operations page](/handbook/people-group/).
 
 ## On this page
@@ -16,7 +22,7 @@ Currently, GitLab does not provide additional benefits over and above the mandat
 
 GitLab and team members contributions to pension, health insurance, care in old age insurance and unemployment insurance are mandatory, as required by the state system. The payments are calculated each month by payroll and are shown on the employee pay-slips.
 
-Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/gtai-en/invest/investment-guide/employees-and-social-security/the-german-social-security-system-65600).
+Further information can also be found on the [Germany Trade & Invest Website](https://www.gtai.de/gtai-en/invest/investment-guide/employees-and-social-security-659058).
 
 ## Life Insurance
 
