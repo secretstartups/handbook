@@ -53,13 +53,13 @@ Team members should not use a Corporate Credit Card to purchase office equipment
 
 For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/business-ops/team-member-enablement/onboarding-access-requests/#laptops) policy and procedure.
 
-### Obtaining approval from Accounting 
+### Obtaining pre-approval from Accounting 
 
 In order to prevent issues during the reimbursement of purchases that go above the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page, we recommend getting pre-approval before making a purchase and submitting for a reimbursement. This isn't required for purchases below the guideline price. 
 
 Keep in mind that GitLab won't reimburse items that are included in the [list of non-reimbursable expenses.](#-non-reimbursable-expenses) 
 
-To obtain approval, post in the #[expense-reporting-inquires](https://gitlab.slack.com/archives/C012ALM8P29) slack channel - the equipment you are purchasing, the cost of the item and the reason why the purchase is above the guideline price (this could be due to higher taxes in your region for example). Someone from our Accounts Payable team will reply to you with approval. When you are submitting your expense, add a note saying "`Jane Doe (name of approver)` pre-approved this expense".
+To obtain pre-approval, post in the #[expense-reporting-inquires](https://gitlab.slack.com/archives/C012ALM8P29) slack channel - the equipment you are purchasing, the cost of the item and the reason why the purchase is above the guideline price (this could be due to higher taxes in your region for example). Someone from our Accounts Payable team will reply to you with approval. When you are submitting your expense, add a note saying "`Jane Doe (name of approver)` pre-approved this expense".
 
 ### Rejected expenses
 
