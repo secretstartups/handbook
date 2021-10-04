@@ -76,7 +76,7 @@ This is basically the same as above:
     1. If you can't reply:
         1. try to collaborate first
         1. leave an internal note describing your investigation
-        1. put the ticket back in the `Handover Needed` view by assigning it to `GitLab Suppport`
+        1. put the ticket back in the `Handover Needed` view by assigning it to `GitLab Support`
 
 ### How do I choose between `Needs Org / FRT` and `Handover Needed` view?
 
