@@ -13,7 +13,7 @@ title: JiHu Contribution Review Process
 
 - Changes outside of `jh/` directory.
 
-## What approvals are needed
+## What approvals are required
 
 - [Regular code review](https://docs.gitlab.com/ee/development/code_review.html)
 - Security review
