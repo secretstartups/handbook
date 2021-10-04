@@ -149,3 +149,9 @@ TFS contains more than a source code repository, so additional questions need to
 
 ### 2. We're on 13.5 (or some old version), can we still migrate?
 - The more of a difference between the source and destination software versions, the higher likelihood there is for data integrity to be lost during migration. The team who maintains the import functionality documented that the importers work when source and destination are [no more than 2 minor releases](https://docs.gitlab.com/ee/user/project/settings/import_export.html#130) apart from each other. For this reason we include upgrade services to help customers get their source instance to be matching or no less than 2 minor versions from the destination software version. Only in extreme circumstances will we consider exceptions to this guidance. 
+
+## Other Resources
+- See the publicly available [Migration Toolkit](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template) to help understand the steps taken during delivery of migration services. 
+- The [Customer folder](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/migration-template/-/tree/master/customer) of the migration template project contains useful documentation to help a customer prepare for their migration.
+- The [Migrating from Self-Managed to SaaS](/handbook/customer-success/professional-services-engineering/engagement-mgmt/scoping-information/migrations/SM-to-SaaS/) handbook page has details specific to migrating to gitlab.com. 
+
