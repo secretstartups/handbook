@@ -1033,7 +1033,7 @@ If you are using date spining to generate record for each day, consider material
 
 ### Testing Downstream Impact
 
-As a way to test the downstream impact of the changes made to dbt models the `sisense_check.py` is included within the transform dbt project.  This script will check the [Periscope](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master) and [Sisense Safe](https://gitlab.com/gitlab-data/sisense-safe/-/tree/periscope/master) repositories for views, snippets, dashboard, and charts that reference any of a provided list of dbt models.  With the output of the this script individual views, snippets, and charts can be manually evaluated for column level impact.
+As a way to manually test the downstream impact of the changes made to dbt models the `sisense_check.py` is included within the transform dbt project.  This script will check the [Periscope](https://gitlab.com/gitlab-data/periscope/-/tree/periscope/master) and [Sisense Safe](https://gitlab.com/gitlab-data/sisense-safe/-/tree/periscope/master) repositories for views, snippets, dashboard, and charts that reference any of a provided list of dbt models.  With the output of the this script individual views, snippets, and charts can be manually evaluated for column level impact.
 
 To provide a list of models to check use the [`dbt list`](https://docs.getdbt.com/reference/commands/list) command with relevant conditions to output the desired set of models and export the list of a file named `to_check.txt`.
 ```
@@ -1058,15 +1058,20 @@ Running the script will produce a JSON, `sisense_elements.json` file as an outpu
             "nf_ptb_account_features.sql"
         ],
         "periscope-dashboards": {
-            "WIP (@marntz): TAM Attribution Analysis": [
-                "Median License Expansion (%)",
-                "ARR Growth by ARR Bucket (Evenly Distributed by ARR)",
-                "Median Lifetime ARR Expansion by Age Group ($)"
-            ],
-            "WIP: Kat Tam - Scratch- 2": [
-                "WIP: # Paid New Subscriptions Per Month - Zuora New ARR Mart",
-                "Check if subscription has multiple records"
+            "Investor Relations": [
+                "Licensed users -- Saas/self-managed",
+                "Total ARPU Breakdown",
+                "Customer (Parent Customer) Count by ARR Buckets"
             ]
+        },
+        "sisense-safe-dashboards": {
+            "TD: ARR per Licensed User (ARPU)": [
+                "Customer ARR by Product, Sales Segment, Account Owner Team",
+                "Total ARPU Breakdown",
+                "ARPU: Self-Managed by Customer Segment",
+                "ARPU: Other by Customer Segment",
+                "ARPU: Total"
+            ],
         }
 }
 ```
