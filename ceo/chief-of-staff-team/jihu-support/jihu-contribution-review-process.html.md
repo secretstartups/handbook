@@ -9,7 +9,17 @@ title: JiHu Contribution Review Process
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## JiHu Contribution Review Process
+## What to review
+
+- Changes outside of `jh/` directory.
+
+## What approvals are required
+
+- [Regular code review](https://docs.gitlab.com/ee/development/code_review.html)
+- Security review
+- [Database migration review](jihu-database-change-process.html) when applicable
+
+### Security review process for JiHu contributions
 
 In order to make sure that a release with JiHu contributions can be certified, members of the AppSec team
 need to perform a security review of any JiHu contribution and explicitly approve them.  The JiHu team will be contributing code to
@@ -30,7 +40,7 @@ the AppSec engineer on [Triage (mentions and issues) Rotation](./triage-rotation
 1. If the stable counterpart is unavailable or unassigned, the AppSec engineer on Triage Rotation can perform the review
 1. Alternatively, they can ask that someone else review it by linking to the MR in the `#sec-appsec` Slack channel and asking for a reviewer to volunteer
 
-### Review Workflow
+### Security review workflow for JiHu contributions
 
 When performing the security review of a JiHu contribution, the reviewer needs to:
 
