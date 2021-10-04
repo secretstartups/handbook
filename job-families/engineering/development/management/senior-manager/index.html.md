@@ -27,7 +27,7 @@ and [Fullstack Engineering Managers](/job-families/engineering/development/manag
 * Give regular and clear feedback around the [individual's performance](/handbook/leadership/1-1/suggested-agenda-format/)
 * Draft quarterly [OKRs](/company/okrs/) and [Engineering KPIs](/handbook/engineering/performance-indicators/#key-performance-indicators)
 * Improve product quality, security, and performance
-* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+* Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 
