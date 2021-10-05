@@ -31,6 +31,7 @@ The following activities can be logged in Gainsight:
 - **Meeting**: On-site or otherwise in-person meeting with the customer.
 - **Email**: Message sent to the customer, or message thread between the TAM and the customer.
 - **Milestone**: This tracks when the customer achieves a major milestone such as Onboarding, time to value, TAM transition, etc.
+- **Workshop**: A customer workshop, which can include GitLab Days, Workshops, Lunch and & Learns, and more.
 
 ### Last Activity Date
 
