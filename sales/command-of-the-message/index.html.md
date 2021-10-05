@@ -25,15 +25,15 @@ Value drivers describe what organizations are likely proactively looking for or 
 
 ## Resources: Core Content
 
-Please see [Resources: Core Content](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.ubdqhzd73q97) listed in the Command of the Message Resource Guide.
+Please see [Resources: Core Content](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.ubdqhzd73q97) (**GitLab internal only**) listed in the Command of the Message Resource Guide.
 
 ## GitLab Differentiators
 
-Please see [GitLab Differentiators](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.6zwr35r6eyfw) described in the Command of the Message Resource Guide.
+Please see [GitLab Differentiators](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.6zwr35r6eyfw) (**GitLab internal only**) described in the Command of the Message Resource Guide.
 
 ## Additional Resources
 
-1. [The Mantra](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.xnjmdw9bzvgf)
-1. [Job Aids](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.toeaw0vfw4e9)
-1. [Sharing Feedback](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.2ztomklbgx8p)
-1. [GitLab Value Framework Iteration](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.coq5jpyfc2aa)
+1. [The Mantra](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.xnjmdw9bzvgf) (**GitLab internal only**)
+1. [Job Aids](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.toeaw0vfw4e9) (**GitLab internal only**)
+1. [Sharing Feedback](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.2ztomklbgx8p) (**GitLab internal only**)
+1. [GitLab Value Framework Iteration](https://docs.google.com/document/d/1wwNZCkbEv4-WXm8WQmgR6LKjSgxyLZ-wg-Rp9Qav0Zw/edit#heading=h.coq5jpyfc2aa) (**GitLab internal only**)
