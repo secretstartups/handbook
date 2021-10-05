@@ -15,7 +15,7 @@ description: How to handover tickets when going on scheduled PTO
 
 This workflow covers how support engineers can asynchronously handover tickets within Zendesk when they go on PTO. It is recommended to follow this workflow if 3 days or more of PTO is taken.
 
-As part of the workflow, the support engineer going on leave will leave notes on currently Open/Pending/On-Hold tickets for the next engineer with a macro. This macro will unassign the ticket so that it goes back to the `Needs assignee` view, CCs the support engineer onto the ticket, and adds the `ooo_handover` tag onto the ticket.
+As part of the workflow, the support engineer going on leave will leave notes on currently Open/Pending/On-Hold tickets for the next engineer with a macro. This macro will unassign the ticket so that it goes back to the `Handover Needed` view, CCs the support engineer onto the ticket, and adds the `ooo_handover` tag onto the ticket.
 
 ## Workflow
 
