@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Rhythm of Business"
+title: "TAM Rhythm of Business"
 ---
 
 ## On this page
@@ -13,7 +13,7 @@ View the [TAM Handbook homepage](/handbook/customer-success/tam/) for additional
 
 ---
 
-### Rhythm of Business 
+### TAM Rhythm of Business 
 
 A successful TAM is pulled into various tasks across multiple territories and accounts. It is critical for a TAM to manage time effectively and concentrate on tasks that have the most positive impact for GitLab and the customer. 
 
