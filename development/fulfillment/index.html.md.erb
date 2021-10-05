@@ -255,13 +255,13 @@ We do this to encourage our team to be more async in collaboration and to allow 
 
 ### Quality
 
-GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality. 
+GitLab's Quality is everyone's responsibility. The [SETs](/handbook/engineering/quality/#stable-counterparts) embedded within Fulfillment section follow the [Quality Engineering Departments's principles](https://about.gitlab.com/handbook/engineering/quality/#our-principles) primarily to ensure that everyone is aware of product quality.
 
 #### Quad-planning workflow
 
 The SETs helps facilitate the quad-planning process. This is the participation of Product Management, Development, UX, and the Quality team which aims to bring test planning as a topic before the development of any feature.
 
-We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process). 
+We follow the Quad Planning process defined [here](https://about.gitlab.com/handbook/engineering/quality/quad-planning/#process).
 
 [Quad Planning Dashboard](https://app.periscopedata.com/app/gitlab/634305/Quad-Planning-Dashboard?widget=8844548&udv=1040834) showcases the total Planned issues for Quad Planning vs the actual ones for each milestone.
 
@@ -293,6 +293,7 @@ Below are examples of changes that can be high risk because they can require coo
 * Launching a new paid feature
 * Deprecating an existing paid feature
 * Changes to terms of service and related contract changes
+* Changes to the way the consumption of resources is calculated or displayed (e.g., user counts, CI minutes)
 
 Below are changes that can often be low risk:
 * Backend enhancements that are not yet used by the frontend
@@ -301,6 +302,7 @@ Below are changes that can often be low risk:
 
 The following processes should be followed for high-risk changes:
 
+* Update feature documentation of the new/updated behavior and share with relevant stakeholders
 * Use confidential issues for these changes
 * Release changes under a feature flag so this can be enabled on the release date
 * Create a rollout issue for the release date and make sure all parties are informed about the process. [Example](https://gitlab.com/gitlab-org/gitlab/-/issues/299068)
