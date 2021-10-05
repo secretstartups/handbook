@@ -33,7 +33,7 @@ Sid and Dmitriy teamed up and introduced [GitLab Enterprise Edition](/blog/2013/
 
 ### _2014: GitLab was incorporated_
 
-In 2014 GitLab was officially incorporated as a [limited liability corporation](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com).
+In 2014 GitLab was officially incorporated as a [limited liability corporation](/blog/2014/04/18/gitlab-cloud-becomes-gitlab-com/).
 GitLab released a new version every month on the 22nd, just as every year before and after.
 The first release of the year at January 22nd: GitLab 6.5. At the end of 2014, December 2014, GitLab 7.6 was released.
 In the end of that year we submitted [our application to Y Combinator](/blog/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/).
