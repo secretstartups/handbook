@@ -635,7 +635,7 @@ For technical debt which might span, or fall in gaps between groups they should 
 
 ## UX debt
 
-Sometimes there is an intentional decision to deviate from the agreed-upon MVC, which sacrifices the user experience. When this occurs, the Product Designer creates a follow-up issue and labels it `UX debt` to address the UX gap in subsequent releases.
+Sometimes there is an intentional decision to deviate from the agreed-upon [MVC](/handbook/product/product-principles/#the-minimal-viable-change-mvc), which sacrifices the user experience. When this occurs, the Product Designer creates a follow-up issue and labels it `UX debt` to address the UX gap in subsequent releases.
 
 For the same reasons as technical debt, we don't want UX debt to grow faster than our code base.
 
