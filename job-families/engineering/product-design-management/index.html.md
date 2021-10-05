@@ -28,7 +28,7 @@ The Product Design Manager is a [grade 8](/handbook/total-rewards/compensation/c
 * **Hiring:** Interview and conduct portfolio reviews of Product Design candidates to hire a world-class team. Review and provide feedback on interview scorecards to maintain a high-quality interview process. 
 * **Public presence:** Help promote GitLab publicly through activities like writing blog articles, giving talks, publishing videos to GitLab Unfiltered, and engaging in social media efforts, where appropriate.
 * **Vision and direction:** Have an awareness of [Opportunity Canvas](/handbook/product/product-processes/#opportunity-canvas) reviews, strategy, and vision of the stages or areas you're assigned.
-* **People management:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
+* **Career Development:** Hold weekly [1:1s](/handbook/leadership/1-1/) with every member of your team and create Individual Growth Plans with monthly Career Development check-ins.
 
 ### Specialties
 
