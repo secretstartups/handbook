@@ -96,6 +96,42 @@ We follow the [OKR (Objective and Key Results)](https://about.gitlab.com/company
 <% fulfillment_sec_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| fulfillment_sec.include?(person.anchor) } %>
 <%= partial('includes/team_member_table', locals: { team_members: fulfillment_sec_members }) %>
 
+### Enterprise Applications
+
+<% ent_apps = %w[ccnelson dparker mquitevis courtmeddaugh jesssalcido] %>
+<% ent_apps_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| ent_apps.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: ent_apps_members }) %>
+
+### Sales Ops
+
+<% sales_ops = %w[james_harrison jbrennan1 mroark1] %>
+<% sales_ops_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| sales_ops.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: sales_ops_members }) %>
+
+### Enterprise Sales
+
+<% enterprise_sales = %w[mpyle alliemarconi] %>
+<% enterprise_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| enterprise_sales.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: enterprise_sales_members }) %>
+
+### Commercial Sales
+
+<% commercial_sales = %w[ronell] %>
+<% commercial_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| commercial_sales.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: commercial_sales_members }) %>
+
+### Channel Sales
+
+<% channel_sales = %w[mwhodges] %>
+<% channel_sales_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| channel_sales.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: channel_sales_members }) %>
+
+### Billing and Accounts Receivable
+
+<% billing_ar = %w[s_mccauley annapiaseczna] %>
+<% billing_ar_members = Gitlab::Homepage::Team::Member.all!.find_all { |person| billing_ar.include?(person.anchor) } %>
+<%= partial('includes/team_member_table', locals: { team_members: billing_ar_members }) %>
+
 ## How we work
 
 * In accordance with our [GitLab values](/handbook/values/)
