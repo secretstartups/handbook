@@ -33,7 +33,7 @@ The by-the-book schedule for the OKR timeline would be
 [Epic 1609](https://gitlab.com/groups/gitlab-com/-/epics/1609)
    1. **CEO KR:** Develop a strategy to grow to 1000 contributors per month. [Issue 12480](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12480)
    1. **CEO KR:** Meet quarterly objectives for hyperscalers and partners. [Issue 12479](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12479)
-   1. **CEO KR:** Achieve 7 certifications with each more than 2,500 certificates issued. [Issue 12481](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12481)
+   1. **CEO KR:** Achieve seven certifications with each more than 2,500 certificates issued. [Issue 12481](https://gitlab.com/gitlab-com/www-gitlab-com/-/issues/12481)
 
 ### 2. CEO: Optimize GitLab Managed future
 [Epic 1610](https://gitlab.com/groups/gitlab-com/-/epics/1610)
