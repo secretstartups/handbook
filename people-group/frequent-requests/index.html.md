@@ -87,7 +87,7 @@ you to provide information about your financial status, usually in the form of a
 of your total financial status (including any savings you have). The requirements for
 this seem to vary a bit between mortgage providers.
 
-If you need a werkgeversverklaring, be sure to reach out to people-connect@gitlab. The People team will then forward the request to our Payroll Vendor in the Netherlands, to ensure the document is created in Dutch.
+If you need a werkgeversverklaring, be sure to reach out to `people-connect@gitlab.com`. The People team will then forward the request to our Payroll Vendor in the Netherlands, to ensure the document is created in Dutch.
 
 ## Business Cards
 {: #business-cards}
