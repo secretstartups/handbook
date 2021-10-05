@@ -59,8 +59,14 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 ### Marketing
 
+#### Dashboards
+
 * [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
 * [TD: SDR Performance Dashboard](https://app.periscopedata.com/app/gitlab/894285/TD-SDR-Performance-Dashboard---V1.0)
+
+#### Analytics Projects
+
+* [2021-10-01 SAO Analysis](https://docs.google.com/presentation/d/1kmkmSRoAC7-CyNRzLc3vmH8NE-Abn6A-X6Z2JstCk1I/edit?usp=sharing)
 
 ### Sales
 
