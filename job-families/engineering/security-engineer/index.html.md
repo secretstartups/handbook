@@ -263,11 +263,15 @@ Trust & Safety Requirements
 - Experience with SQL
 - Nice to Have: Experience with Google Cloud Platform (GCP), AWS, and/or Azure
 
-### Security Compliance
+### Security Assurance
 
-Security Compliance specialists enables Sales by achieving standard as required by our customers. This includes SaaS, self-managed, and open source instances.
+Security Assurance Engineers enable Sales by achieving standards as required by our customers and helping to secure the organization. This includes SaaS, self-managed, and open source instances.
 
-*  Please refer to the [Security Analyst](https://about.gitlab.com/job-families/engineering/security-analyst/) page for additional information.
+*  Please refer to the [Security Assurance ](https://about.gitlab.com/handbook/engineering/security/security-assurance/security-assurance.html) page for additional information.
+  - [Security Compliance](https://about.gitlab.com/job-families/engineering/security-compliance/)
+  - [Field Security](https://about.gitlab.com/job-families/engineering/field-security/)
+  - [Security Risk](https://about.gitlab.com/job-families/engineering/security-risk/)
+  - [Security Governance](https://about.gitlab.com/job-families/engineering/security-governance/)
 
 ### Red Team
 
