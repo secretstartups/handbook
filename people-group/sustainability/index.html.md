@@ -79,32 +79,66 @@ We don't know what our philosophy on sustainability will be yet. We don't have m
 
 ## Quantifying carbon emissions and offsets
 
-While we need to do more to understand our carbon footprint, we have begun to quantify our CO2 emissions and investing in offsets. For FY22, we did a rough estimate across four key emissions contribution areas.
+While we can do more to understand our carbon footprint, we have begun to quantify our CO2 emissions and invest in offsets. For FY22, we did a rough estimate across four key emissions contribution areas.
 
 1. **Data Centers**
 GitLab uses the Google Cloud Platform (GCP). GCP is already carbon neutral: https://cloud.google.com/sustainability/region-carbon. As a future iteration, we could partner with GCP to explore whether we could reallocate our server choices for cleaner energy upfront. We estimate 0 tons of CO2 to offset in FY22.
 
 1. **Travel**
     1. **[Contribute](https://about.gitlab.com/events/gitlab-contribute/)** is a global GitLab event that includes team members in addition to the broader community. The in-person Contribute was cancelled in FY21 and FY22 due to the Covid-19 pandemic, but it will be a material C02 contributor in future years. For Contribute 2020, [Pachama](https://pachama.com/about), a company dedicated to solving climate change, calculated the carbon emissions for 1,000 people flying an average of 10,000 miles (round-trip) and staying a week at a conference. It determined we would contribute 1,379 tons of CO2. We can use this as a baseline in making assupmtions around emissions for future Contributes.
-    1. **[Work travel]** has been low in 2020 and 2021, so we used 2019 travel as a baseline and focused on [field team](https://about.gitlab.com/handbook/sales/) travels as the field team accounts for the majority of GitLab team member travels. Using [myclimate.org's](https://co2.myclimate.org/en/portfolios?calculation_id=4024000) calculator, we determined that a round trip regional flight on economy (New York City, NY to Atlanta, Georgia USA) for one person would have 0.5 tons of emmissions. In an average year, a field person would make an average of 30 trips. With a team of roughly 300, we would estimate 4,500 tons of emissions, but actual emissions in FY21 and FY22 have been much lower due to reduced travel due to the pandemic. 
+    1. **[Work travel]** has been low in 2020 and 2021, so we used 2019 travel as a baseline and focused on [field team](https://about.gitlab.com/handbook/sales/) travels as the field team accounts for the majority of GitLab team member travels. Using [myclimate.org's](https://co2.myclimate.org/en/portfolios?calculation_id=4024000) calculator, we determined that a round trip regional flight on economy (New York City, NY to Atlanta, Georgia USA) for one person would have 0.5 tons of emmissions. In an average year, a field person would make an average of 30 trips. With a team of roughly 300, we would estimate 4,500 tons of emissions, but actual emissions in FY21 and FY22 have been much lower due to reduced travel due to the pandemic. As a conservative estimate for FY22, we assume that the field team travels 1/3 of the usual amount (10 trips in FY22).
 
 1. **Team Member Work from Home Emissions**
-GitLab team members [work remotely](https://about.gitlab.com/company/culture/all-remote/guide/), so there are no central offices. Accordingly, some amount of home energy use should be attributed to GitLab work. In April 2020, [Buffer](https://buffer.com/) estimated the [annual CO2 emissions for home energy usage per person](https://buffer.com/resources/carbon-footprint/) in an average household (of three people in California) is around 1.39 tons. We assume that this is the typical energy usage for a household and conservatively estimate that 60% of the emissions for such a household is attributable to GitLab work. With 1300 team members, we'd have 1084 tons of emissions per year.
+GitLab team members [work remotely](https://about.gitlab.com/company/culture/all-remote/guide/), so there are no central offices. Accordingly, some amount of home energy use should be attributed to GitLab work. In April 2020, [Buffer](https://buffer.com/) estimated the [annual CO2 emissions for home energy usage per person](https://buffer.com/resources/carbon-footprint/) in an average household of three people in California is around 1.39 tons. We assume that this is the typical energy usage for a household and conservatively estimate that 60% of the emissions (0.834 tons) for such a household is attributable to GitLab work. With 1300 team members, we'd have 1084 tons of emissions per year.
 
-**This is our FY23 esimate based on the above information**
+**This is our FY22 estimate based on the above information**
 | Emissions Category | Team Members in Group | Tons CO2 Emissions per Member | Total CO2 Emissions |
 | ------ | ------ |------ | ------ |
 | Data Centers | NA |NA | 0 |
 | Travel: Contribute | 0 |0 | 0 |
-| Travel: Work Travel | 300 |15 | 4500 |
+| Travel: Work Travel | 300 | 5 | 1500 |
 | Work from Home | 1300 |0.834 | 1084 |
-| Total |  | | 5,584 |
+| Total |  | | 2,584 |
 
-Pachama estimates that CO2 emissions are about $13 USD per ton. The offset for this iteration would be $72,592.
+We assume that CO2 emissions offsets are about $13 USD per ton. This is a very conservative assumption as we have seen a range from $3 to $13 per ton when we did this analysis in FY22-Q2. The offset for this iteration would be $33,592.
 
 These are rough estimates and there is more that we can do to continue to refine our calcuation in future iterations. For example:
 1. Consider vendor business offsets and adjust GitLab's based on findings
+1. Travel in addition to plane travel
 1. Consider non-field team member travel beyond Contribute
+1. Update for future years as travel picks up post-pandemic
+
+## GitLab Offsets
+
+In 2020, GitLab purchased 1379 tons of carbon credits from Pachama for $4,964 in order to offset Contribute travel for 1000 employees. The Contribute event was cancelled because of the Covid-19 pandemic.
+
+In the second quarter of calendar year 2021, GitLab donated $248,860 to Pachama for 19182 tons of carbon credits. While we have yet do an in depth analysis, we believe that this donation should have made GitLab [carbon negative](https://www.cnet.com/home/energy-and-utilities/carbon-neutral-vs-carbon-negative-whats-the-difference/) as GitLab as GitLab was incorporated in 2014 and didn't have more than 100 people until 2016. If we did not have the pandemic in FY22, we believe that we would have seen the following emissions:
+
+| Emissions Category | Team Members in Group | Tons CO2 Emissions per Member | Total CO2 Emissions |
+| ------ | ------ |------ | ------ |
+| Data Centers | NA |NA | 0 |
+| Travel: Contribute | 1000 | 1.5 | 1500 |
+| Travel: Work Travel | 300 | 15 | 4500 |
+| Work from Home | 1300 |0.834 | 1084 |
+| Total |  | | 7084 |
+
+At $13 per ton of CO2 offset, we would have anticipated $92,092 in offset expenses in 2021 for an average of 1250 team members or ~$74 USD and 5.67 tons per team member. Scaling with rough company size for :
+
+| Fiscal Year | Estimated Employee Number | Total CO2 Emissions |
+| ------ | ------ |------ | 
+| 2014 | 50 | 284 |
+| 2015 | 120 | 680 |
+| 2016 | 200 | 1,134 |
+| 2017 | 300 | 1,701 |
+| 2018 | 350 | 1,985 |
+| 2019 | 700 | 3,969 |
+| 2020 | 1200 | 2,481* |
+| 2021 | 1250 | 2,584* |
+*Scaled down due to Covid-19 travel reduction.
+
+This amounts to 14,817 tons of CO2 emissions and $192,626 in expense through the end of 2021. 
+
+We'll continue to increaese our sophistication of calculation and explore opportunities for future investment.
 
 ## Additional sustainable projects already in motion
 
