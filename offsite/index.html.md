@@ -115,7 +115,7 @@ Examples of prep work include:
 * Executives working with their People Business Partners to prep the [Performance/Potential Matrix of their direct reports](/handbook/people-group/performance-assessments-and-succession-planning/#the-performancepotential-matrix)
 * Executives working with their People Business Partners to prep any [Director + promotion nominations](/handbook/people-group/promotions-transfers/#bamboohr-or-greenhouse-process)
 * Reviewing any Section Direction Materials for reviews, such as the [Growth Section's Direct](/direction/growth/)
-* [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears)
+* [Watch this short clip on the danger of sticky bears](/company/offsite/beware-sticky-bears/)
 
 Anyone who is presenting for a topic should share materials with the prep work.
 
