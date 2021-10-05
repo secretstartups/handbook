@@ -322,7 +322,7 @@ _Please see related issues for details related to their respective purposes - th
 
 ## 🔗 UTM for tracking URLs
 * Overall utm_campaign - `tbd`, i.e. **`utm_campaign=`** [determine UTM with DMP]
-* More on [when](/handbook/marketing/marketing-sales-development/online-marketing/#url-tagging) and [how](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0) to use UTMs
+* More on [when](/handbook/marketing/demand-generation/digital-marketing/digital-marketing-management/#utm-tracking) and [how](https://docs.google.com/spreadsheets/d/12jm8q13e3-JNDbJ5-DBJbSAGprLamrilWIBka875gDI/edit#gid=0) to use UTMs
 
 ## ⚡ Quick Links
 * [Marketo Program]()
