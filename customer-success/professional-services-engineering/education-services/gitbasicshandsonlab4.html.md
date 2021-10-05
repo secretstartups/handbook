@@ -11,22 +11,23 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### Create a new project and add a CI/CD configuration file
 
 1. Navigate to your group, click **New project**, and click **Create blank project**.
-1. Name your project `CI Test`
-1. Make sure the **Visibility Level** is set to **Private**.
-1. Enable the **Initialize repository with a README** checkbox.
-1. Click **Create project** and wait for GitLab to redirect you to the new project’s main page.
-1. Find the **+** dropdown a few lines below the project’s title. Create a new file by clicking **+ > This directory > New file**
-1. In the **File name** dialog box enter `.gitlab-ci.yml`
-1. If it’s not already selected, click **.gitlab-ci.yml** in the next dropdown to the right, which selects a file template.
-1. In the **Apply a template** dropdown, select **General > Bash**. This populates your file with the contents of a minimal `.gitlab-ci.yml` file.
-1. In the editor, delete all lines above the `build1:` line and below the `- echo "For example run a test suite"` line. This will leave you with two sections of code, which define the **build1** and **test1** jobs.
-1. Define **build** and **test** stages by adding these 3 lines at the top of the file. *IMPORTANT: if you copy and paste these lines, you’ll need to delete 3 spaces at the beginning of each line. This is a limitation of our layout system. The `stages` keyword must be flush left and the stage names must be indented by 2 spaces.*
+2. Name your project `CI Test`
+3. Make sure the **Visibility Level** is set to **Private**.
+4. Enable the **Initialize repository with a README** checkbox.
+5. Click **Create project** and wait for GitLab to redirect you to the new project’s main page.
+6. Find the **+** dropdown a few lines below the project’s title. Create a new file by clicking **+ > This directory > New file**
+7. In the **File name** dialog box enter `.gitlab-ci.yml`
+8. If it’s not already selected, click **.gitlab-ci.yml** in the next dropdown to the right, which selects a file template.
+9. In the **Apply a template** dropdown, select **General > Bash**. This populates your file with the contents of a minimal `.gitlab-ci.yml` file.
+10. In the editor, delete all lines above the `build1:` line and below the `- echo "For example run a test suite"` line. This will leave you with two sections of code, which define the **build1** and **test1** jobs.
+11. Define **build** and **test** stages by adding these 3 lines at the top of the file. *The `stages` keyword must be flush left and the stage names must be indented by 2 spaces.*
+
     ```yaml
-      stages:
-        - build
-        - test
+    stages:
+      - build
+      - test
     ```
-1. Leave the default values for the **Commit message** and **Target Branch** fields, and click **Commit changes**.
+12. Leave the default values for the **Commit message** and **Target Branch** fields, and click **Commit changes**.
 
 ### Inspect the CI/CD pipeline
 
