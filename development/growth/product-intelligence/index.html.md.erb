@@ -386,25 +386,25 @@ which is tracked using our [Growth Section Performance Indicators](/handbook/eng
 
 ## Product Intelligence dbt development process
 
-[Dbt](../../../business-technology/data-team/platform/dbt-guide/#what-and-why), short for data build tool, is an open source project for managing data transformations in a data warehouse.
-The data warehouse and dbt are managed by the [Data team](../../../business-technology/data-team).
+[Dbt](/handbook/business-technology/data-team/platform/dbt-guide/#what-and-why), short for data build tool, is an open source project for managing data transformations in a data warehouse.
+The data warehouse and dbt are managed by the [Data team](/handbook/business-technology/data-team/).
 In order to reduce cycle time, increase understanding, and enable the Product Intelligence team to fully own collected metrics, the Product Intelligence team should be empowered to develop and modify data models
 that represents Product Intelligence metrics.
 
 ### Requirements
 
-1. Access to the Snowflake data warehouse: follow the [access request](../../../business-technology/team-member-enablement/onboarding-access-requests/access-requests/) process. For example: [confidential Snowflake access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/8026).
+1. Access to the Snowflake data warehouse: follow the [access request](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/) process. For example: [confidential Snowflake access request issue](https://gitlab.com/gitlab-com/team-member-epics/access-requests/-/issues/8026).
 1. Dedicated development database in Snowflake: create an issue in the [analytics project](https://gitlab.com/gitlab-data/analytics/-/issues) and `@` mention a person in a role of Senior Manager Data at Gitlab (`@dvanrooijen2` currently). For example: [database setup issue](https://gitlab.com/gitlab-data/analytics/-/issues/9216).
 
 ### Set up
 
-Please follow the [configuration guide](../../../business-technology/data-team/platform/dbt-guide/#configuration) provided by Data team.
-If you've been granted access to the Snowflake data warehouse via Okta SSO, you will not be able to use Docker to set up dbt. Instead, follow the [venv workflow](../../../business-technology/data-team/platform/dbt-guide/#Venv-workflow). You will also need to alter `profiles.yml`.
+Please follow the [configuration guide](/handbook/business-technology/data-team/platform/dbt-guide/#configuration) provided by Data team.
+If you've been granted access to the Snowflake data warehouse via Okta SSO, you will not be able to use Docker to set up dbt. Instead, follow the [venv workflow](/handbook/business-technology/data-team/platform/dbt-guide/#Venv-workflow). You will also need to alter `profiles.yml`.
 replacing `password: YOUR PASSWORD` with `authenticator: externalbrowser`.
 
 ### Contributing to the analytics project
 
-When contributing to the [analytics](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/models) repository, please follow the style and development [guides](../../../business-technology/data-team/platform/dbt-guide/#style-and-usage-guide).
+When contributing to the [analytics](https://gitlab.com/gitlab-data/analytics/-/tree/master/transform/snowflake-dbt/models) repository, please follow the style and development [guides](/handbook/business-technology/data-team/platform/dbt-guide/#style-and-usage-guide).
 
 This [internal video](https://www.youtube.com/watch?v=xCx5ZLrBOQQ) contains a condensed introduction to dbt.
 
