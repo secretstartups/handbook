@@ -133,7 +133,7 @@ Candidates for this position can expect the hiring process to follow the order b
 
 *{add a bulleted list of the hiring process steps here}
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ```
 #### Template 1 Additional Details

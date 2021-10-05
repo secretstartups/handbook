@@ -359,7 +359,7 @@ CXC provides a 12 month contract in these locations, and this can be extended. T
 
 To create the contract:
 
-1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
 1. The Candidate Experience Specialist emails the new team member the Contract Info Request - CXC from GreenHouse.
     -Click “Email CANDIDATE NAME”
     -Select “Contract Info Request-CXC” from dropdown.
@@ -395,7 +395,7 @@ GitLab has partnered with [Safeguard](http://www.safeguardworld.com/) to hire in
 
 To create the contract:
 
-1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
 1. The Candidate Experience Specialist emails the new team member to gather additional details required to generate the contract.
    - From the GreenHouse profile, under tools, click to email the new team member
    - From the template drop down list select: Contract Info Request - Safeguard
@@ -454,7 +454,7 @@ GitLab is working in partnership with [Global Upside](https://globalupside.com) 
 - Chile
 
 The process for creating and sending an agreement is as follows:
-1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
 1. CES sends “Contract Info Request-Global Upside” email to the new hire to collect additional details.
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist will check if there is a probationary period.
@@ -488,7 +488,7 @@ GitLab has partnered with [Remote.com](https://remote.com/) to hire in South Afr
 
 To create the contract:
 
-1. Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
 1. The Candidate Experience Specialist emails the new team member the Contract Info Request - Remote.com from GreenHouse.
     -Click “Email CANDIDATE NAME”
     -Select “Contract Info Request-Remote.com” from dropdown.
@@ -549,7 +549,7 @@ It is important that the start date for German new hires is far enough out that 
 
 A wet signature is required for German employment agreements the following process must be followed:
 
-1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring).
+1. The Offer is made by the recruiter per the [hiring process](/handbook/hiring/).
 1. Ensure the start date is on a Monday, unless Monday is a holiday or the non-Monday date is legally required.
 1. The Candidate Experience Specialist sends the new team member the GreenHouse email template: German Contract Step 1.
 1. The Candidate Experience Specialist generates the German Contract form out of GreenHouse and stages for signature though GreenHouse and DocuSign. The Talent Acquisition Manager or the Senior Director of People Success (as listed on the signatory chart above) signs the German Contract.
