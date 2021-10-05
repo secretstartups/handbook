@@ -91,7 +91,7 @@ The responsibilities of the Data Analyst extend the Junior Data Analyst role and
 * Deep understanding of how data is created and transformed through GitLab products and services provided by [third-parties](/handbook/business-ops/data-team/#-extract-and-load) to help drive product designs or service usage or note impacts to data reporting capabilities
 * Serve as a Subject Matter Expert (SME) in one or more [Data Sources](/handbook/business-technology/data-team/platform/#extract-and-load) and its related Business Subject
 * Provide expertise to all GitLab teams through code reviews, pairing, and training to help deliver optimal queries in Snowflake and in Periscope
-* Approve data model changes as a Data Team [Reviewer](/handbook/business-ops/data-team/how-we-work/duties/#reviewer) and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
+* Approve data model changes as a Data Team Reviewer and [code owner](https://gitlab.com/gitlab-data/analytics/blob/master/CODEOWNERS) for specific database and data model schemas
 
 
 #### Data Analyst (Intermediate) Requirements

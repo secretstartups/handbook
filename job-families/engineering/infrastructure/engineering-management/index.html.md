@@ -30,7 +30,7 @@ The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/
   - Work across sections within engineering
   - Improve the quality, security and performance of the product
   - Work on small changes outside of the critical path
-  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the  [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ### Requirements
 
@@ -73,7 +73,7 @@ The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/
  - Hold regular 1:1's with team members
  - Manage agile projects
  - Work across departments within engineering to improve the quality, security, and performance of the product
-  - Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+  - Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ### Requirements
  - 2-5 years managing software engineering, SRE, DevOps, or similar teams
@@ -124,7 +124,7 @@ The Manager, Infrastructure is a [grade 8](/handbook/total-rewards/compensation/
   - Work across sections within Engineering
   - Improve the scalability of the product
   - Work on small changes outside of the critical path
-  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the  [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ### Requirements
 
@@ -212,7 +212,7 @@ The Senior Engineering Manager, Infrastructure is a [grade 9](/handbook/total-re
 - Generate and implement process improvements, especially cross-team processes
 - Hold regular [1:1s](https://about.gitlab.com/handbook/leadership/1-1/) with team managers and skip-level 1:1s with all members of their team
 - Management mentorship
-  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the  [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+  - Participate in either the [Release Manager rotation](https://gitlab.com/gitlab-org/release/docs/-/tree/master/release_manager#responsibilities) **OR** the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 #### Requirements
 

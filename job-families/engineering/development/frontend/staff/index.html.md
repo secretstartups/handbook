@@ -24,7 +24,7 @@ Frontend Engineers at GitLab work on our product. This includes both the open so
 - Represent GitLab and its values in public communication around broad initiatives, specific projects, and community contributions. Interact with customers and other external stakeholders as a consultant and spokesperson for the work of your team.
 - Provide mentorship for all Engineers on your team to help them grow in their technical responsibilities and remove blockers.
 - Consistently ship large features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
-- Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+- Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 - Professional experience with VueJS **or** another modern JavaScript web framework (React, Angular, Ember, etc.)

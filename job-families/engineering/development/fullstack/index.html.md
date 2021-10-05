@@ -27,7 +27,7 @@ The Staff Fullstack Engineer is a [grade 8](/handbook/total-rewards/compensation
 * Represent GitLab and its values in public communication around specific projects and community contributions.
 * Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.
 * Participate in Tier 2 or Tier 3 weekday and weekend and occasional night [on-call rotations](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html) to assist troubleshooting product operations, security operations, and urgent engineering issues.
-* Staff Fullstack Engineer only - Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-on-call-imoc-responsibilities to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
+* Staff Fullstack Engineer only - Participate in the [Incident Management on-call rotation](/handbook/engineering/infrastructure/incident-management/#incident-manager-responsibilities) to help ensure the availability goals for GitLab.com are met, by working with reliability engineers and development team members.
 
 ## Requirements
 
