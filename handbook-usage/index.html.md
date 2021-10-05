@@ -215,6 +215,12 @@ All team members will have this added to their Okta access when they join the co
 - [Internal Handbook Project](https://gitlab.com/internal-handbook/handbook/-/tree/master/source)
 - [Website](https://internal-handbook.gitlab.io/handbook) 
 
+#### What if I have questions about the internal handbook or want to help with it?
+
+- Questions about what should be in the internal handbook vs in the public handbook?  See the [safe framework](https://about.gitlab.com/handbook/legal/safe-framework/#safe) or ask in `#safe`.
+- Questions about updating the internal handbook or volunteering to help with enhancing it?  Join the `#internal-handbook` channel.
+
+
 ## Moving Pages and Adding Redirects to the Handbook
 
 The handbook is a living document and we'll occasionally need to change URLs or move pages. This is [the process Growth Marketing uses to set up and manage redirects](/handbook/marketing/inbound-marketing/search-marketing/#request-an-aboutgitlabcom-redirect) for about.gitlab.com.
