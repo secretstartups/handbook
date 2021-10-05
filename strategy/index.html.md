@@ -14,7 +14,7 @@ canonical_path: "/company/strategy/"
 
 ## Three Year Strategy
 
-Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy). It also maps to and reflects GitLab's [mission](/company/mission), [vision](/company/vision) and [values](/handbook/values/). It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration) when there is reason to do so.
+Our strategy is looking 3 years out and [fits into our cadences](/company/cadence/#strategy). It also maps to and reflects GitLab's [mission](/company/mission/), [vision](/company/vision/) and [values](/handbook/values/). It is a living strategy, so we will revisit on a regular basis and [iterate](/handbook/values/#iteration) when there is reason to do so.
 
 Along the road to realizing our mission of **everyone can contribute**, our
 strategic goal is to become the leading complete DevOps
@@ -71,7 +71,7 @@ As we execute on our strategy, it is important to use our [financial targets](/h
 1. Seed then nurture: [plant seeds and nurture the product to build out depth](#seed-then-nurture).
 1. Speed: ship every change in the next release to maximize responsiveness and learning.
 1. Life balance: we want people to stay with us for a long time, so it is important to [take time off](/handbook/paid-time-off/) and work on life balance; being [all-remote](/company/culture/#all-remote-work) is a large part of the solution.
-1. Open Source Stewardship: be a good [steward of GitLab](/company/stewardship) and [collaborate with the wider community](/community/contribute/) to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate).
+1. Open Source Stewardship: be a good [steward of GitLab](/company/stewardship/) and [collaborate with the wider community](/community/contribute/) to [improve the product together](/handbook/engineering/development/performance-indicators/#mr-rate).
 
 ### Seed then nurture
 
