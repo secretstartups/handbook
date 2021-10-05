@@ -24,4 +24,3 @@ title: "Prometheus Specialist"
 * Experience developing time-series databases
 * You have contributions in the [Prometheus open source project](https://github.com/prometheus)
 
-In addition, see the [Production Engineer job description](/job-families/engineering/production-engineer).
