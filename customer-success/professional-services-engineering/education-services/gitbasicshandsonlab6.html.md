@@ -14,16 +14,16 @@ This lab uses SAST to identify security vulnerabilities in your code.
 
 ### Enable SAST in your `CI Test` project
 
-1. Navigate to your `CI Test` project and open `.gitlab-ci.yml`
+1. Navigate to your `CI Test` project and open `.gitlab-ci.yml`.
 1. Click **Web IDE** to edit the file.
 1. Pull up the [SAST docs page](https://docs.gitlab.com/ee/user/application_security/sast/) to assist with this lab. This page shows instructions for including SAST in CI/CD pipelines and lists the languages and frameworks that SAST supports.
 1. On the docs page, scroll down to the **Configure SAST manually** header and read that section.
-1. Copy the following line:
+1. Copy the following lines:
 ```yaml
 include:
   - template: Security/SAST.gitlab-ci.yml
 ```
-1. Navigate back to the Web IDE where you were editing `.gitlab-ci.yml`
+1. Navigate back to the Web IDE where you were editing `.gitlab-ci.yml`.
 1. Paste the copied code at the end of that file. Ensure that:
    * there is a blank line above the pasted text
    * the first line of the pasted code is flush-left
@@ -38,13 +38,14 @@ Next, let’s add a file with a known vulnerability and see if SAST detects it.
 ### Add a `main.go` file and view SAST results
 
 1. Navigate away from the Web IDE and back to your project overview page by clicking the **CI Test** project title in the top left of the page.
-1. Near the top left of the page, click the `+` icon to the right of the `main` branch name. Under **This directory**, click **New file**.
-1. Type `main.go` in the **File name** field.
-1. Open this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/1) in a separate tab. Copy the content of that snippet. Paste it into your empty `main.go` file in your original GitLab tab.
-1. Click **Commit changes**.
-1. In the left-hand navigation pane, click **CI/CD > Pipelines**. 
-1. In the top row of the table of pipelines, click the **running** or **passed** status label. Under the **Test** stage, you should see the `gosec-sast` job. This job does SAST scanning for Go code.
-1. Click on the **Vulnerability Report** under the **Security & Compliance** tab near the middle of the left sidebar. Click on the `Errors unhandled` vulnerability to read about a potential security problem detected by SAST scanning.
+2. Near the top left of the page, click the `+` icon to the right of the `main` branch name. Under **This directory**, click **New file**.
+3. In the **File name** field, type `main.go`
+4. Open this [snippet](https://ilt.gitlabtraining.cloud/professional-services-classes/gitlab-with-git-basics/gitlab-flow-demo/-/snippets/1) in a separate tab. Copy the content of that snippet. Paste it into the empty `main.go` file in your original GitLab tab.
+5. Click **Commit changes**.
+6. In the left-hand navigation pane, click **CI/CD > Pipelines**. 
+7. In the top row of the table of pipelines, click the **running** or **passed** status label. Under the **Test** stage, you should see a new `gosec-sast` job. This job does SAST scanning for Go code.
+8. Wait for the pipeline to finish.
+9. In the left navigation pane, click **Security & Compliance > Vulnerability Report**. Click on the `Errors unhandled` vulnerability to read about a potential security problem detected by SAST scanning.
 
 ## Suggestions?
 

@@ -10,7 +10,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 
 ### Create a new project and issue
 1. Navigate to your group.
-1. Click **New project** and **Create blank project**
+1. Click **New project** and **Create blank project**.
 1. Name your project `Second Project`
 1. Make sure the **Visibility Level** is set to **Private**.
 1. Enable the **Initialize repository with a README** checkbox.
@@ -29,7 +29,7 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 ### Edit files on a branch, using GitLab’s Web IDE
 1. In the middle of the merge request page, click **Open in Web IDE**.
 1. Confirm that you are on the branch you just created by looking for the branch name in a dropdown in the top left corner of the page.
-1. In the left-hand file list, click `README.md`
+1. In the left-hand file list, click `README.md`.
 1. On line 3 of the file, type `Edit my README.md file`
 1. Click **Commit...** at the bottom of the screen.
 1. In the **Commit Message** box, type `Updated the README.md file`<br/>
