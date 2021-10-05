@@ -72,7 +72,7 @@ To align our education and enablement with our product, each of the topics below
 ### Create Stage
 ***
 ##### Foundations Level
-- [Create Stage Overview](https://about.gitlab.com/stages-devops-lifecycle/create/")
+- [Create Stage Overview]("https://about.gitlab.com/stages-devops-lifecycle/create/")
 - [Create Stage Direction and Roadmap](https://about.gitlab.com/direction/dev/#create)
 ##### Intermediate Level
 - [Source Code Management Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/source-code-management/)
