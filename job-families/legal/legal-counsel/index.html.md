@@ -23,7 +23,7 @@ The Associate Legal Counsel is a [Grade 5](/handbook/total-rewards/compensation/
 
 ### Associate Legal Counsel Requirements
 
-* Relevant, progressive experience
+* 1 - 3 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience working effectively across business units and internal functions to efficiently resolve business issues
 * Practical yet creative problem-solving approach that emphasizes addressing business needs while protecting GitLab’s interests
@@ -52,7 +52,7 @@ The Legal Counsel (Intermediate) is a [Grade 6](/handbook/total-rewards/compensa
 * Build the necessary processes, systems, and documentation to improve legal department processes and resources
 
 ### Legal Counsel (Intermediate) Requirements
-* Relevant, progressive experience
+* 4 - 8 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience working effectively across business units and internal functions to efficiently resolve business issues
 * Practical yet creative problem-solving approach that emphasizes addressing business needs while protecting GitLab’s interests
@@ -82,7 +82,7 @@ The Legal Counsel (Intermediate II) is a [Grade 7](/handbook/total-rewards/compe
 
 ### Legal Counsel (Intermediate II) Requirements
 
-* Relevant, progressive experience
+* 6 - 10 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience working effectively across business units and internal functions to efficiently resolve business issues
 * Practical yet creative problem-solving approach that emphasizes addressing business needs while protecting GitLab’s interests
@@ -115,7 +115,7 @@ The Senior Legal Counsel is a [Grade 8](/handbook/total-rewards/compensation/com
 
 ### Senior Legal Counsel Requirements
 
-* Relevant, progressive experience
+* 8 - 15 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience identifying and leading  initiatives effectively across business units and internal functions to efficiently and proactively resolve business issues
 * Practical yet creative problem-solving approach that emphasizes addressing business needs while protecting GitLab’s interests
@@ -149,7 +149,7 @@ The Lead Legal Counsel is a [Grade 9](/handbook/total-rewards/compensation/compe
 
 ### Lead Legal Counsel Requirements
 
-* Relevant, progressive experience
+* 10 - 15 years' legal experience, preferably in a multinational company
 * JD/LLB or local law degree equivalent and admission to local governing body
 * Experience identifying and leading  initiatives effectively across business units and internal functions to efficiently and proactively resolve business issues
 * Practical yet creative problem-solving approach that emphasizes addressing business needs while protecting GitLab’s interests
