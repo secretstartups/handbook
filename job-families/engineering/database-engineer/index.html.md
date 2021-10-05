@@ -88,7 +88,7 @@ Candidates for this position can generally expect the hiring process  to follow 
 - Next, candidates will be invited to schedule a 90 minute technical interview with one of our Database Engineers or Backend Engineers
 - Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 - Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
-- Successful candidates will subsequently be made an offer. Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring).
+- Successful candidates will subsequently be made an offer. Additional details about our process can be found on our [hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ## Career Ladder
 
