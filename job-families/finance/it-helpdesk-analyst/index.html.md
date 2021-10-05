@@ -51,7 +51,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule a third interview with one of our Executive Admins
 * Finally, candidates may be asked to interview with our CEO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

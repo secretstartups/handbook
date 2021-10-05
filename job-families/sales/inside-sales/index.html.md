@@ -126,7 +126,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will interview with 2 - 4 Team Members
 * Candidates may be invited to schedule a second interview with our CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ## Compensation
  

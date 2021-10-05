@@ -108,4 +108,4 @@ Candidates for this position can expect the hiring process to follow the order b
 *Next, candidates will be invited to schedule an interview with our Chief Legal Officer
 * Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

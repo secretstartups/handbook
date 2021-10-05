@@ -55,4 +55,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, the candidate  will have a 45 min interview with a peer
 - Lastly, the candidate will have a final 45 min interview with the CRO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

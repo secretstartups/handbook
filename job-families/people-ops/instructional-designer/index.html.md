@@ -118,4 +118,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, our CEO may choose to conduct a final interview.
 * As a final step, candidates will be asked to share a sample examples from their Instructional Design portfolio from previous jobs that include eLearning, Live Learning, and Virtual Instructor Led Training
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

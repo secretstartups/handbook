@@ -149,4 +149,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, candidates will be invited to schedule a 25-minute interview with the Director of Security Engineering and Research.
 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -126,4 +126,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Third round interview is with the Senior Director of Enterprise Applications
 - At final stage candidates will meet with the Principal Accounting Officer and the VP of Business Technology.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

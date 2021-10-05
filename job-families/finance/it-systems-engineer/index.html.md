@@ -97,4 +97,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will also be invited to schedule a Technical interview with two other team members
 * Finally, candidates will interview with our VP, Business Technology
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -64,4 +64,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Director or Vice President of Sales Operations
 * Stakeholder team member (i.e., Product, Marketing, Customer Success, etc.)
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

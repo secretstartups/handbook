@@ -44,4 +44,4 @@ Candidates for this position can expect the hiring process to follow the order b
 *  Next, candidates will be invited to schedule a technical interview with a Solutions Architect, and another interview with the Manager of Product Marketing
 *  Successful candidates will subsequently be made an offer via video or phone call
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

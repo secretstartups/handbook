@@ -58,7 +58,7 @@ To learn more about someone who may be conducting the interview, find their job 
 * Next, candidates will be invited to schedule an interview with our External Tax Advisor
 * Finally, candidates will have a 30min call with either our CEO or a GitLab Audit Committee Member
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder 
 

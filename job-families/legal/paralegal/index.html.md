@@ -190,4 +190,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates are invited to schedule with additional team members.
 * Finally, candidates are invited to interview with the director.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -168,4 +168,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates may be invited to a 30 minute interview with our VP of Recruiting.
 * Finally, our CEO may choose to conduct a final interview.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

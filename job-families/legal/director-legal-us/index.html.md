@@ -109,4 +109,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule interviews with directors and/or executives in relevant functional areas
 * Finally, candidates may be required to meet with the CEO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

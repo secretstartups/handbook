@@ -89,4 +89,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule a 30 minute interview with the Senior Director, Inbound Marketing.
 * Finally, candidates will be invited to schedule a 30 minute follow up interview with the Senior Manager, Digital Experience.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

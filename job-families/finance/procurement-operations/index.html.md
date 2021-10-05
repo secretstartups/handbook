@@ -212,4 +212,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to interview with 2 - 4 Team Members
 - Finally, candidates may be invited for a final inteview if applicable to the leveling of the role.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

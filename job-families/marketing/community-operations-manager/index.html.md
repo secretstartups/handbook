@@ -61,7 +61,7 @@ Candidates for this position can expect the hiring process to follow the order b
  
 * Qualified candidates will be invited to two or three 45 minute interviews with members of the Community Relations Team. During this time the candidate can expect topics on communication, required skills for the job, and GitLab values.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 
 ## Job Family Levels

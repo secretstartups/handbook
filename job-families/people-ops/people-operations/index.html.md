@@ -166,7 +166,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, candidates will be invited to interview with the Director of People Operations
 - Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Senior Manager, People Operations
 
@@ -231,7 +231,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, candidates will be invited to interview with the Director of People Operations
 * Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Director, Global People Operations
 
@@ -287,7 +287,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, candidates will be invited to interview with the Senior Director, People Success
 * Finally, our CPO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

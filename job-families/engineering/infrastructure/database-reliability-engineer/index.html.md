@@ -168,7 +168,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Successful candidates will subsequently be made an offer.
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

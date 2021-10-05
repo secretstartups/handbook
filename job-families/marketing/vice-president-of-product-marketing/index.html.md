@@ -65,4 +65,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * A 45 minute interview with our Chief Executive Officer or Chief Revenue Officer
 * Successful candidates will subsequently be made an offer via email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

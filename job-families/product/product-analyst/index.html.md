@@ -97,4 +97,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to schedule a first interview with the a Data team Leader.
 - Next, candidates will be invited to interview with 1-4 teammates, including hiring manager.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

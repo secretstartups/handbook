@@ -77,7 +77,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule two separate interviews with two  Peers from the Data team
 * Final stage will be with our Senior Director of Data. 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Career Ladder
 

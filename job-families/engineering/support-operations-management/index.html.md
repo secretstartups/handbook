@@ -143,7 +143,7 @@ interview, find their job title on our
 * Successful candidates will subsequently be made an offer via email.
 
 Additional details about our process can be found on our
-[hiring page](https://about.gitlab.com/handbook/hiring).
+[hiring page](https://about.gitlab.com/handbook/hiring/).
 
 ### Compensation Calculator
 

@@ -34,4 +34,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Qualified candidates will then will be scheduled 30 minutes with the hiring manager
 * Qualified candidates will then will be scheduled 30 minutes with 1-3 additional team members
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
