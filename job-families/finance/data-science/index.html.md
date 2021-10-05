@@ -123,4 +123,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule a third interview with the business division DRI
 * Next, candidates will be invited to schedule a fourth interview with a member from our Data team
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

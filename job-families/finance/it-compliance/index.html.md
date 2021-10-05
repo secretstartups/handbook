@@ -123,7 +123,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule a third interview with our VP, IT
 * Then the candidate will be invited to interview with the Director of Risk and Compliance
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

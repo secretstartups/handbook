@@ -167,4 +167,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Finally, our CMO or CEO may choose to conduct a final interview.
 * Successful candidates will subsequently be made an offer via phone, email, or video. 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -101,4 +101,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Successful candidates will subsequently be made an offer via email.
 * Successful completion of a background check is required.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

@@ -163,4 +163,4 @@ Applicants for this position can expect the hiring process to follow the order b
 - Next, candidates will be invited to interview with 2-5 teammates
 - There may be a final executive interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

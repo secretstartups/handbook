@@ -115,7 +115,7 @@ The next step for both individual contributors and managers of people is to move
 
 ## Hiring Process
 
-Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/). Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/). Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 *   Selected candidates will be invited to schedule a screening call with one of our Global Recruiters.
 *   Next, candidates will be invited to schedule a first-round interview with the hiring manager - the Manager, Field Marketing North America.

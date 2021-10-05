@@ -41,7 +41,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule with additional team members of the legal department 
 * Next, candidates will be invited to schedule an interview with our Chief Legal Officer
 * Finally, candidates may be invited to schedule interviews with Directors or team members in relevant functional areas
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Working at GitLab
 GitLab Inc. is a company based on the GitLab open-source project. GitLab is a community project to which over 2,200 people worldwide have contributed. We are an active participant in this community, trying to serve its needs and lead by example. We have one [vision](https://about.gitlab.com/strategy): everyone can contribute to all digital content, and our mission is to change all creative work from read-only to read-write so that everyone can contribute.

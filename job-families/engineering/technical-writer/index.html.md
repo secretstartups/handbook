@@ -140,4 +140,4 @@ Candidates for this position can expect the hiring process to generally follow t
 1. Next, you’ll meet one of our Product Managers, Engineering Managers, or Customer Support representatives for a 45-minute interview. We’ll discuss your experience and why you’re looking to join GitLab. We’ll assess your alignment with our [values](/handbook/values/#credit), and answer any questions you have.
 1. Finally, you’ll meet our Senior Manager, Technical Writing. At this stage, we’ll look to understand your views on how documentation impacts user experience and your experience up to now. You'll have a discussion around technical writing maxims, and the interviewer will answer any questions you have.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

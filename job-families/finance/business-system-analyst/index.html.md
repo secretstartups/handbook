@@ -125,6 +125,6 @@ Candidates for this position can expect the hiring process to follow the order b
 * Then the candidate will be invited to interview with the Director of Enterprise Applications
 * Finally, candidates may be asked to interview with our CFO or CEO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)
 
 

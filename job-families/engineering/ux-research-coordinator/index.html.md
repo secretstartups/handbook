@@ -104,4 +104,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be scheduled for a 45-minute interview with a UX Researcher. 
 * Finally, candidates will be invited to a 1-hour interview with our Director of UX Research.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

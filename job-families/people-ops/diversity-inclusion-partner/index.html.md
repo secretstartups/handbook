@@ -61,7 +61,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - 30 minute interview with someone on the People Success Operations team
 - Final, the candidate may be asked to create a DIB related project/scenario approach
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Diversity, Inclusion, and Belonging Partner
 The Diversity, Inclusion, and Belonging Partner reports to the [Manager, Diversity, Inclusion, and Belonging](#manager-diversity-inclusion-belonging).
@@ -110,7 +110,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Manager, Diversity Inclusion, and Belonging
 The Manager, Diversity Inclusion, and Belonging reports to the [Senior Director, People Success](/job-families/people-ops/people-leadership/#senior-director-people-success).
@@ -154,7 +154,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - After that, the candidate may be invited to interview with our CFO or another member of our executive team
 - Finally, our CEO may choose to conduct a final interview
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 The next step in the Diversity, Inclusion, and Belonging job family is to move to a senior manager role which is not yet defined at GitLab. 

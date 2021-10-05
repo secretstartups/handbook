@@ -62,4 +62,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Meet with VP of Finance for 50 minutes
 * Meet with CFO for 50 minutes
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

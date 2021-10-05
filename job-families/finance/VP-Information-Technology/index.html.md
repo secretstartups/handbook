@@ -50,7 +50,7 @@ Candidates for this position can expect the hiring process to follow the order b
 1. Interview with CEO plus 1-2 board members
 
 Please note that a candidate may declined from the position at any stage of the process.
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

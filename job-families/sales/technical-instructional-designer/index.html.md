@@ -111,4 +111,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Videoconference (or phone) screen interview with a GitLab Talent Acquisition team member
 * Videoconference interviews with 2-3 additional GitLab team members
 * Final videoconference interviews with the Director, Field Enablement and/or VP, Field Operations
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

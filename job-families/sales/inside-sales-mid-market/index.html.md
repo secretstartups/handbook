@@ -51,4 +51,4 @@ Candidates for this position can expect the hiring process to follow the order b
   1. Next, candidates will complete their 50-minute Chronological In-Depth Survey with Worldwide Director of Commercial Mid-Market
   1. Finally, candidates will be invited for a 30-minute interview with an Area Sales Manager
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

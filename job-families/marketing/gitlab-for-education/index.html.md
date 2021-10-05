@@ -173,4 +173,4 @@ Candidates for positions within the GitLab for Education team can expect the hir
 - Finally, our Chief Marketing Office or Sr. Marketing Director(s) may choose to conduct a final interview.
 - Successful candidates will subsequently be made an offer via video, phone, or email.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

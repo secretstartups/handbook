@@ -221,4 +221,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will then be invited to schedule an interview with a regional leader
 * Following successful interviews, candidates will then be invited to complete a final writing assessment
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

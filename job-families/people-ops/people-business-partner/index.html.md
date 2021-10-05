@@ -169,7 +169,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * After that, candidates will be invited to interview with several leaders from the client group you will be supporting.
 * Finally, our CPO may choose to conduct a final interview.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ### Career Ladder
 

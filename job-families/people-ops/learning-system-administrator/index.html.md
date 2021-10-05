@@ -107,4 +107,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - Next, candidates will be asked to submit a short writing sample to answer a question that the Learning and Development team often sees from customers and community members.
 - Next, the candidate will be invited to interview with a member of the Learning & Development team, a team member from our Sales Enablement, Professional Services, and/or Community Relations team. 
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

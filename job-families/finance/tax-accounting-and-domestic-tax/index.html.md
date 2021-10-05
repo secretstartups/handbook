@@ -65,4 +65,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule an interview with our VP, Corporate Controller
 * Finally, candidates will have a 30min call with either our CFO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

@@ -94,4 +94,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Candidates will be invited to schedule an interview with our Senior Director of Revenue Marketing
 * Finally, candidates may be asked to interview with our CMO
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

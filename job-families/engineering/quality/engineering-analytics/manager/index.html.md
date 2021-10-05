@@ -84,7 +84,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule a forth interview with a peer Engineering Manager in the Quality Department.
 * Finally, candidates may be asked to interview with the VP of Quality.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 ## Career Ladder
 

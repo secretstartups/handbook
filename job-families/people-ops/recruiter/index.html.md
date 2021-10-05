@@ -250,7 +250,7 @@ Candidates for this position can expect the hiring process to follow the order b
 - Finally, our CEO may choose to conduct a final interview
 
 As always, the interviews and screening call will be conducted via a video call.
-See more details about our hiring process on the [hiring handbook](/handbook/hiring).
+See more details about our hiring process on the [hiring handbook](/handbook/hiring/).
 
 ## Career Ladder
 

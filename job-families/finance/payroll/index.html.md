@@ -252,4 +252,4 @@ Candidates for this position can expect the hiring process to follow the order b
 - 30 minute interview with our Senior Manager, Total Rewards
 - 45 minute interview with an Executive for any Manager and above role
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring)
+Additional details about our process can be found on our [hiring page](/handbook/hiring/)

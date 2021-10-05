@@ -121,4 +121,4 @@ Candidates for this position can generally expect the hiring process to follow t
 1. Candidates may be asked to schedule a 50 minute final interview with our CEO
 1. Successful candidates will subsequently be made an offer via email
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

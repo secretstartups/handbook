@@ -112,7 +112,7 @@ Candidates for this position can expect the hiring process to follow the order b
 * Final candidates may be asked to complete an assessment, and  meet with the Senior Director of Revenue Marketing again.
 * Successful candidates will subsequently be made an offer via video or phone.
  
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
  
 ### Relevant links
  

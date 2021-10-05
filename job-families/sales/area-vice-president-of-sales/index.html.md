@@ -68,4 +68,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to schedule one or more interviews with Business Partners
 * Finally, candidates may be asked to interview with our CRO.
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).

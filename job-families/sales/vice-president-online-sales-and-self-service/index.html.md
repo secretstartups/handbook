@@ -66,4 +66,4 @@ Candidates for this position can expect the hiring process to follow the order b
 * Next, candidates will be invited to scheduled interviews with members of our Fulfillment and Growth teams 
 * Finally, candidates will be asked to interview with our Chief Revenue Officer
 
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
