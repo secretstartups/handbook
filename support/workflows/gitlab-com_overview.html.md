@@ -27,7 +27,7 @@ Numerous Support team members including all SaaS focused ones also assist with i
 
 ## Legal Context
 
-When signing up, users agree to our [terms](/terms), which means they are bound by them as well.
+When signing up, users agree to our [terms](/terms/), which means they are bound by them as well.
 
 Violation of terms, including DMCA and code of conduct, are taken care of by [Security Operations](https://about.gitlab.com/handbook/engineering/security/operations/).
 
