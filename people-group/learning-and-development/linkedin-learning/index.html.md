@@ -109,12 +109,10 @@ All are outlined under [Continuing Education (CEU)](https://www.linkedin.com/lea
 
 ## How to access LinkedIn Learning
 
-All GitLab Team Members will be sent an invite to LinkedIn Learning during their first week. It is important that the invites to LinkedIn Learning are not sent until the new hire has started as their GitLab email address isn't active until their first day. 
-
-If you did not recieve an invite, please follow this process for requesting access to a license for paid LinkedIn Learning content: 
+Please follow this process for requesting access to a license for paid LinkedIn Learning content: 
 
 1. Ensure your GitLab email address is on your LinkedIn Profile  
-1. Reach out to the Learning & Development team in the `#learninganddevelopment` Slack Channel
+1. Fill out an [access request](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/#individual-or-bulk-access-request)
 1. You will receive an email notification from LinkedIn Learning once you have been added to the system. 
 1. To access LinkedIn Learning content, go to our learning platform, [GitLab Learn](https://gitlab.edcast.com/) and search for skills or topics you want to learn more about. When you select a LinkedIn Learning course it will open a new tab with the course directly on LinkedIn Learning. 
 
