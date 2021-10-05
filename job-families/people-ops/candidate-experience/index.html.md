@@ -36,13 +36,11 @@ The Candidate Experience Specialist is a [grade 5](/handbook/total-rewards/compe
 * Outstanding written and verbal communication skills across all levels
 * Willingness to learn and use software tools including Git and GitLab
 * Organized, efficient, and proactive with a keen sense of urgency
-* Successful completion of a [background check](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/#background-checks)
 * Excellent communication and interpersonal skills
 * Prior experience using an applicant tracking system, Greenhouse experience is a plus
 * Ability to recognize and appropriately handle highly sensitive and confidential information
 * Experience working remotely is a plus
 * Share our [values](/handbook/values/) and work in accordance with those values
-* Ability to learn and use outbound talent outreach practices
 * Ability to use GitLab
 
 ## Senior Candidate Experience Specialist
@@ -55,23 +53,22 @@ The Senior Candidate Experience Specialist is a [grade 6](/handbook/total-reward
 
 ### Responsibilities
 
-* Serve as a mentor to the rest of the team through leading by example, sharing best practices, and a resource for questions and guidance
+* Serve as a mentor to the rest of the team through leading by example, sharing best practices, and acting as a resource
 * Serve as an example of dogfooding Gitlab.com and assist team members with questions
-* Provide insight and feedback for process improvement opportunities
-* Lead by example and performance with the team OKR’s and Performance Indicators
-* Serve as a subject matter expert
-* Consistently provide a great candidate experience by teaching others how to embody the GitLab values
+* Provide insight and feedback to suggest process improvements, and oversee their implementation
+* Take a lead role in helping the team to reach OKR’s and Performance Indicators
+* Consistently provide a great candidate experience in each interaction
+* Act as thought partner to Recruiters and Hiring Managers, suggesting and implementing creative solutions to challenges that impact the candidate experience
 
 ### Requirements
 
-* 3-5 years experience in recruiting/HR/People
+* Experience with high volume and high level recruiting coordination
 * Consistent track record and strong performance
 * Experience working directly with hiring teams
 * High sense of urgency
 * Proven organizational skills with high attention to detail and the ability to prioritize
 * Confidence to learn new technologies and translate that learning to others
 * Experience as mentor, guide, or subject matter expert
-* Ability to guide others on outbound talent outreach practices
 
 ## Candidate Experience Lead
 
@@ -123,7 +120,6 @@ The next step in the Candidate Experience job family is to move to the [Recruite
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](https://about.gitlab.com/company/team/).
 
    * Qualified candidates will be invited to schedule a 30 minute screening call
-   * Then, candidates will be invited to schedule two 45 minute interviews with two separate team members
-   * Finally, candidates will be invited to a 45 minute interview with the Hiring Manager or Department Leader
+   * Then, candidates will be invited to three 45 minute interviews with the Hiring Manager and additional team members
 
 As always, the interviews and screening call will be conducted via a [video call](https://about.gitlab.com/handbook/communication/#video-calls). See more details about our interview process [here](https://about.gitlab.com/handbook/hiring/interviewing/).
