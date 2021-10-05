@@ -63,6 +63,10 @@ If you are new to using a Macbook or switched from another OS such as windows ch
 
 </details>
 
+### Official Apple Training
+
+Apple has official training sessions available every week! These training sessions are great if you are new to using a Macbook or want some tips and insider knowledge on using a Macbook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e)
+
 ### Laptop Setup: Linux
 
 There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! However please feel free to reach out in #Linux slack channel or #it_help for assistance!
