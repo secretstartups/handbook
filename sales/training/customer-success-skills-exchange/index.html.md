@@ -23,7 +23,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Oct 6      |   [How to spin-up GitLab instance in AWS marketplace](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/143)             |    Itzik G.            |
+| Oct 6      |   [GitOps using GitLab Terraform and Terratag](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/143)             |    Itzik G.            |
 | Oct 20       |   [GitOps with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/141)             |  Cesar S.              |
 
 
