@@ -214,7 +214,7 @@ The Backend Engineering Manager role is a [grade 8](/handbook/total-rewards/comp
 For more details on the engineering career ladders, please review the [engineering career development](/handbook/engineering/career-development/#roles) handbook page.
 
 ## Hiring Process
-Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team).
+Candidates for this position can generally expect the hiring process to follow the order below. Note that as candidates indicate preference or aptitude for one or more specialties, the hiring process will be adjusted to suit. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
 For Individual Contributors:
 
@@ -223,7 +223,7 @@ For Individual Contributors:
 * Next, candidates will be invited to schedule a 60 minute interview with one of our Backend Engineering Managers
 * Next, candidates will be invited to schedule a 60 minute interview with our Director of Engineering
 * Successful candidates will subsequently be made an offer.
-Additional details about our process can be found on our [hiring page](/handbook/hiring).
+Additional details about our process can be found on our [hiring page](/handbook/hiring/).
 
 For Managers:
 
