@@ -43,7 +43,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
 <div class="grid-auth-matrix">
   <div class="item-auth-matrix grid-empty"></div>
   <div class="item-auth-matrix" style="grid-column: 2/9"><b>Functional approval</b></div>
-  <div class="item-auth-matrix" style="grid-column: 9/12"><b>Financial approval</b></div>
+  <div class="item-auth-matrix" style="grid-column: 9/13"><b>Financial approval</b></div>
   <div class="item-auth-matrix"></div> 
   <div class="item-auth-matrix"><b>Manager</b></div>  
   <div class="item-auth-matrix"><b>Director</b></div> 
@@ -56,7 +56,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"><b>PAO or VP Finance</b></div>
   <div class="item-auth-matrix"><b>CFO</b></div>
   <div class="item-auth-matrix"><b>CLO</b></div>
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Approving expense<sup>(1)(4)</sup></b></div>  
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Approving expense<sup>(1)(4)</sup></b></div>  
   <div class="item-auth-matrix">>$0K to $25K</div>  
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -141,7 +141,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Approving Payment<sup>(1)</sup></b></div>
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Approving Payment<sup>(1)</sup></b></div>
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
@@ -165,7 +165,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Legal Contracts</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Legal Contracts</b></div>   
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
@@ -237,7 +237,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Bad debt write off</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Bad debt write off</b></div>   
   <div class="item-auth-matrix">Up to $10K</div>  
   <div class="item-auth-matrix">Standard Terms</div>  
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
@@ -275,7 +275,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Compensation/Hiring - non-executive</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Compensation/Hiring - non-executive</b></div>   
   <div class="item-auth-matrix">Initial hiring Budgeted</div>  
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -384,7 +384,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Benefit changes</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Benefit changes</b></div>   
   <div class="item-auth-matrix"></div>  
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -397,8 +397,8 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Employee Travel & Entertainment</b></div>   
-  <div class="item-auth-matrix" style="grid-column: 1/11">Non Billable Expenses</div>  
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Employee Travel & Entertainment</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13">Non Billable Expenses</div>  
   <div class="item-auth-matrix">Up to $5K</div>
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
@@ -435,7 +435,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/11"><b>Transfer of funds among GitLab entities</b></div> 
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Transfer of funds among GitLab entities</b></div> 
   <div class="item-auth-matrix">Up to $500K</div>
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
