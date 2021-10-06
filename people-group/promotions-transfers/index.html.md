@@ -164,6 +164,18 @@ _Interviews are not required role Acting roles as they generally do not end in p
 
 _When the acting period ends, the manager should review the [Criteria For Eligibility](/handbook/total-rewards/compensation/#criteria-for-eligibility) for the [Interim Bonus](/handbook/total-rewards/compensation/#calculation-of-interim-bonus) and [submit an interim bonus request](/handbook/incentives/#process-for-recommending-a-working-group-for-a-bonus-in-bamboohr) for the team member._
 
+### Updating Acting or Interim Movements in BambooHR
+If you recieve a job change or letter of adjustment to an interim or acting role here is how to process the change. 
+1. Save the letter to Documents > Contracts folder - `Share with employee`
+1. Review for compensation change 
+1. Access Level 
+    - Acting roles - No access change
+    - Interim roles - Access changed (if required)
+1. Update Job title (if required)
+1. Update Manager (if required)
+1. Update [Acting/Interim Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Uoz0frqDYEDINeodeeKBGMFVzdTuoe4x63LpHxU9WMo/edit#gid=0)
+1. Update [Transition Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/10O0idnLKcE4MHaNSt9dcvRzTx0Q_G6klKcznvmgrJbY/edit#gid=1366346015) (if required) 
+
 ## For Managers: Requesting a Promotion or Compensation Change
 
 Please note that promotions will [freeze](/handbook/total-rewards/compensation/compensation-review-cycle/#compensation-change-freeze) from 2020-12-01 to 2020-02-01 due to Annual Compensation Review. Please ensure all promotions are submitted to BambooHR by December 1st.
