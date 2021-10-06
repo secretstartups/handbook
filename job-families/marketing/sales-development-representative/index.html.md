@@ -206,7 +206,7 @@ When an SDR qualifies for a promotion, they need to make a copy of the [SDR Prom
 **Required fields in the SDR Promotion Template:
 * Quarterly attainment details
 * List of [Tanuki Tech](/handbook/marketing/revenue-marketing/sdr/tanuki-tech/) courses required for promotion level
-* Examples of the SDR living [GitLab Values](/handbook/values#credit)
+* Examples of the SDR living [GitLab Values](/handbook/values/#credit)
  
 ### SDR Performance Expectations
  
