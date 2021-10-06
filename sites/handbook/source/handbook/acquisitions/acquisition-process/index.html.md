@@ -52,7 +52,7 @@ The process is comprised of four key stages:
 1. Select [code name](#acquisitions-are-confidential) to use instead of target company name. Update Slack channel: `#acq-code_name`.
 1. Sign a mutual NDA as linked on our [legal handbook page](/handbook/legal/).
 1. [Form the acquisition team](#acquisition-team) and add entire team to the channel and documents.
-1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
+1. Confirm internal acquisition champion - every acquisition needs a lead champion; someone who is advocating for the acquisition, helping drive the acquisition rationale, and seeing its successful integration. For most acquisitions that fit our [approach](/handbook/acquisitions/), the champion will come from GitLab's Product team, at the Director level, accompanied by an engineering champion from the GitLab's Engineering team, at the Director level, respectively. For other acquisitions, champions may come from other internal functions.
 1. Preliminary diligence - below is a list of documents to share with GitLab:
     1. Financials:
         1. Balance sheet
