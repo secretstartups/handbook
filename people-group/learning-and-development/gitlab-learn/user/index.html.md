@@ -200,6 +200,18 @@ Managers can see the following metrics on their dashboard for their direct repor
 | Total assigned | Total assigned content to direct reports | Required content totals |
 | In Progress assignments | Number of started but not completed assignments | Reminders may be necessary |
 
+#### Assigning content to team members
+
+If your team have added you as a Manager in GitLab Learn, you are able to assign content that you recommend they complete. Content can be assigned to the whole team, or specific individuals.
+
+1. Identify the piece of content you would like to assign - this can be an individual smartcard, a pathway, or a journey.
+2. In the top of the card, click the `⋮` symbol in the top right corner of the card and click `Assign`.
+3. In the new window, choose the users who you'd like to assign the content to.
+4. If you want to send a message with the Assignment, fill out the `Include Message` field. This will display in the email notification the Assignee receives.
+5. If applicable, enter Start/ Due dates.
+6. Click `Assign`. This will send an email notification and generate a notification in GitLab Learn to let the user know.
+
+Remember, you can review your team's progress with any assigned pieces of content using the Manager Dashboard.
 
 ### User privacy in GitLab Learn
 
