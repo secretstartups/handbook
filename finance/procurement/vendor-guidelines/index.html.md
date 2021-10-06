@@ -10,12 +10,6 @@ title: "Vendor Guidelines"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> Procurement toolkit
-<div class="flex-row" markdown="0" style="height:110px;">
-  <a href="/handbook/finance/procurement/vendor-selection-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Vendor selection process</span></a>  
-  <a href="/handbook/finance/procurement/purchase-request-process/" class="btn cta-btn ghost-purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span>Purchase request process</span></a>
-  <a class="btn cta-btn purple" style="width:250px;margin:5px;display:flex;align-items:center;height:100%;"><span style="margin-left: auto; margin-right: auto;"> YOU ARE HERE: Vendor guidelines</span></a>
-</div>
 
 ## Standard Vendor Terms and Conditions
 
