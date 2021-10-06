@@ -127,18 +127,18 @@ GitLab Profiler DB                                                              
 [Handbook YAML Files](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/gitlab_data_yaml)              ||
 [Handbook MR Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/handbook_mrs_extract.py)     ||
 [Handbook Git Log Data](https://gitlab.com/gitlab-data/analytics/-/blob/master/dags/extract/values_page_extract.py) ||
-[LicenseDot](https://license.gitlab.com/)                                                                           ||
+[LicenseDot](https://license.gitlab.com/)                                                                           | @a_akgun & @jameslopez|
 [Marketo](https://www.marketo.com/software/marketing-automation/)                                                   | FiveTran support |
 [Netsuite](https://www.netsuite.com/portal/home.shtml)                                                              ||
 [PMG](https://www.pmg.com/)                                                                                         ||
-[PTO by Roots](https://www.tryroots.io/pto)                                                                         | @gitlab-com/people-group/peopleops-eng & @droystang|
+[PTO by Roots](https://www.tryroots.io/pto)                                                                         | @gitlab-com/people-group/peopleops-eng & @droystang |
 [Qualtrics](https://www.qualtrics.com/)                                                                             ||
 [SaaS Usage Ping](https://gitlab.com/gitlab-data/analytics/-/tree/master/extract/saas_usage_ping)                   ||
 [Salesforce](https://www.salesforce.com/)                                                                           | Stitch support |
-[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  | Sheet-specific, confirm edit history in sheetload folder|
+[SheetLoad](/handbook/business-technology/data-team/platform/pipelines/#sheetload)                                  | Sheet-specific, confirm edit history in sheetload folder |
 [Snowplow](https://snowplowanalytics.com/)                                                                          ||
 [Thanos](https://thanos-query.ops.gitlab.net/graph)                                                                 ||
-[Version DB](https://version.gitlab.com/users/sign_in)                                                              | Raise an incident with infrastructure|
+[Version DB](https://version.gitlab.com/users/sign_in)                                                              | Raise an incident with infrastructure |
 [Xactly](https://www.xactlycorp.com)                                                                                ||
 [Zendesk](https://www.zendesk.com/)                                                                                 | Stitch support |
 [Zoom](https://zoom.us/)                                                                                            ||
