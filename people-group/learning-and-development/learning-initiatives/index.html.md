@@ -377,14 +377,28 @@ The video below gives an overview of what the Crucial Conversations training loo
   <iframe width="560" height="315" src="https://www.youtube.com/embed/UX-ArZJJJ1U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+A detailed training outline is included below:
+
+**Total program length:** 4 Weeks
+**Time commitment per week:** Approx 2 hours self-paced and 1 hour live practice session
+
+| Week Number | Topic | Commitment |
+| ----- | ----- | ----- |
+| 1 | Get Unstuck, Master my Stories 1, and Master my Stories 2 | 3 hours |
+| 2 | Start with Heart, State my Path | 3 hours |
+| 3 | Make it Safe, Learn to Look, and Seek Mutual Purpose | 3 hours |
+| 4 | Explore Other's Paths, Move to Action | 3 hours |
+
+Training weeks will run Wednesday-Wednesday, with 1 live trainings hosted each week. Upon completion of the 4 week training, you will earn an official Crucical Conversations certification from Crucial Learning.
+
 ### Upcoming Sessions 
 
 If you are a GitLab Team Member and interested in participating in the course, you can fill out our [Crucial Conversations interest form](https://docs.google.com/forms/d/e/1FAIpQLSdqwibbQZs-zL-IX9aq9Yzgozm-y3i0Vwh59T8T1nR74mxmFQ/viewform). 
 
 **FY22** 
 
-- 2021-10 - Exact dates to be confirmed 
-- 2022-01 - Exact dates to be confirmed 
+- 2021-12: Security department course
+- FY23-Q1: Exact dates to be confirmed
 
 ### Setting up the Training 
 
