@@ -380,10 +380,6 @@ GitLab’s Director, Alliances & Channels Solution Architects provides strategic
 
 ### Demo Engineer
 
-While collaborating cross-functionally at GitLab, the Demo Engineer drives efficiency into Solutions Architecture execution through curating, creating, and maintaining Solutions Architecture field-facing artifacts.
-
-The Demo Engineer will have the opportunity to help shape and enhance the way customers experience interaction with GitLab from initial consultation throughout the entire customer journey. The ideal candidate must be self-motivated with a proven track record in software development, systems engineering, and technical sales. The ability to connect technology with measurable business value is critical to this role. You should also have a demonstrated ability to think strategically about business, products, and technical challenges.
-
 #### Demo Engineer Responsibilities
 
 * Work collaboratively with Solutions Architecture, Marketing, Field Enablement, and Product Management to curate, create, and maintain Solutions Architecture lead workshops, demonstrations, and other artifacts leveraged during pre-sales activities
