@@ -258,7 +258,28 @@ The Growth groups regularly run experiments to test product hypothesis.
 GitLab team members are welcome to attend the [Growth Engineering Weekly](#growth-engineering-weekly) meetings
 to connect with growth team members and find out more about running experiments at GitLab.
 
-#### Experiment cadence
+#### Growth deliverables and experiment cadence
+
+The Growth sub-department experiment teams track the number of closed "growth deliverable" issues prioritized by our product managers using the [Growth-Deliverable definition](/handbook/product/growth/#growth-deliverables).
+This metric acts as a target for deliverables based on number of engineers available to the four Growth experiment teams.
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="575" src="<%= signed_periscope_url(chart: 12514149, dashboard: 799224, embed: 'v2') %>">
+  </div>
+<% else %>
+You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
+<% end %>
+
+The following view shows the breakdown of closed Growth issues by type. This highlights the percentage of issues that relate to experiments.
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="575" src="<%= signed_periscope_url(chart: 12619734, dashboard: 799224, embed: 'v2') %>">
+  </div>
+<% else %>
+You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
+<% end %>
 
 The Growth sub-department tracks number of experiments per engineer as a development metric.
 This counts new experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type),
