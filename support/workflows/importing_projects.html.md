@@ -78,7 +78,7 @@ Any request should include a comment on the relevant feature request [#223137](h
 
 #### Other Cases
 
-If you're unsure of whether or not we should perform an import for a specific requestor, get input via #support_escalations Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
+If you're unsure of whether or not we should perform an import for a specific requestor, get input via #spt_managers Slack channel or an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new). If a manager approves, proceed with the import.
 
 ## Stage 2: Offering Import & Preparation
 
