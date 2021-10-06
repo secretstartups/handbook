@@ -85,6 +85,16 @@ Package engineers are focused on creating and maintaining the dependency managem
 * Understanding of how to build instrumented, observable software systems.
 * Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
 
+### Runner
+Runner engineers are primarily responsible for the [GitLab-Runner](https://gitlab.com/gitlab-org/gitlab-runner). The GitLab-Runner service acts as the interface between the rest of GitLab and a user's CI infrastructure, so that whether CI is running on a cluster of Raspberry Pis, a super-computer, or, as in the case with GitLab.com, thousands of virtual machines running in the cloud - it’s the GitLab-Runner that makes this happen. You can learn more about the Runner group on the [Runner product category](/handbook/product/categories/#runner-group) handbook page.
+
+#### Requirements
+* Experience with Ruby on Rails and/or Golang.
+* Experience building highly available and performant business-critical product features.
+* Understanding of how to build instrumented, observable software systems.
+* Desirable: DevOps experience, working with Linux, GCP/AWS, Chef/Ansible/Terraform, Helm/Kubernetes, or similar products.
+* Desirable: Strong experience with observability tools, including metrics (Prometheus is a plus), structured logging and distributed tracing.
+
 ### Protect
 
 Focus on security protection features for GitLab (including container security, container scanning, policy management, network security, and host security). This role will report to and collaborate directly with the Protect Engineering Manager.
