@@ -59,15 +59,15 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 ### Marketing
 
-* [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart)
+* [TD: Marketing Data Mart](/handbook/business-technology/data-team/data-catalog/email-data-mart/)
 * [TD: SDR Performance Dashboard](https://app.periscopedata.com/app/gitlab/894285/TD-SDR-Performance-Dashboard---V1.0)
 
 ### Sales
 
 #### Dashboards
 
-* [TD: Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation)
-* [TD: Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel)
+* [TD: Customer Segmentation](/handbook/business-technology/data-team/data-catalog/customer-segmentation/)
+* [TD: Sales Funnel](/handbook/business-technology/data-team/data-catalog/sales-funnel/)
 * [Manual Usage Data Upload Process](/handbook/business-technology/data-team/data-catalog/manual-data-upload/)
 
 #### Analytics Projects
@@ -76,18 +76,18 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 ### Finance
 
-* [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr)
+* [TD: Finance ARR](/handbook/business-technology/data-team/data-catalog/finance-arr/)
 
 ### Product
 
 #### Dashboards
 
-* [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation)
-* [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing)
+* [TD: Product Geolocation](/handbook/business-technology/data-team/data-catalog/product-geolocation/)
+* [TD: Pricing Analysis](/handbook/business-technology/data-team/data-catalog/pricing/)
 
 #### Data Models and Processes
 
-* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data)
+* [Product Usage Data](/handbook/business-technology/data-team/data-catalog/product-usage-data/)
 * [SaaS Service Ping](/handbook/business-technology/data-team/data-catalog/saas-service-ping-automation/)
 * [SaaS Product Events](/handbook/business-technology/data-team/data-catalog/saas-product-events-data/)
 
@@ -99,7 +99,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 #### Dashboards
 
-* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis)
+* [XMAU Analysis](/handbook/business-technology/data-team/data-catalog/xmau-analysis/)
 * [Growth Dashboards](/direction/growth/#dashboards)
 
 #### Analytics Projects
@@ -125,7 +125,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 * [People Metrics Overview](/handbook/business-technology/data-team/data-catalog/people-analytics/)
 * [PTO By Roots (Slack)](/handbook/business-technology/data-team/data-catalog/people-analytics/pto/pto.html)
-* [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard)
+* [People Key Metrics](/handbook/business-technology/data-team/data-catalog/people_key_metrics_dashboard/)
 * [People KPI Deck](/handbook/business-technology/data-team/data-catalog/people-analytics/people_kpi_deck.htm)
 * [Promotions Report](/handbook/business-technology/data-team/data-catalog/people-analytics/promotions_report.html)
 * [Talent Acquisition Metrics](/handbook/business-ops/data-team/data-catalog/people-analytics/talent-acquisition-metrics.html)
@@ -138,7 +138,7 @@ Please see the [Accessing](/handbook/business-technology/data-team/platform/#war
 
 ## Metrics and Terms Index
 
-* [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary)
+* [Sales Term Glossary](https://about.gitlab.com/handbook/sales/sales-term-glossary/)
 * ARR: [Annual Recurring Revenue](/handbook/sales/sales-term-glossary/arr-in-practice/)
 * ATR: [Available To Renew](/handbook/sales/sales-term-glossary/#available-to-renew-atr)
 * CAC: [Customer Aquisition Cost](/handbook/sales/sales-term-glossary/#customer-acquisition-cost-cac)

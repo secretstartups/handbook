@@ -22,7 +22,7 @@ These three approachs "Ad-Hoc","Business Insights", and "Trusted Data".
 | When To Use | **Directional / Urgent Analysis** | **Routine / Operational Analysis** | **Mission Critical Analysis** | 
 | Visualization using [SiSense](/handbook/business-technology/data-team/platform/periscope) | optional | **required** | **required** |
 | Built Using the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) | optional | optional | **required** |
-| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog) | optional | **required** | **required** |
+| Registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/) | optional | **required** | **required** |
 | Follows [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development) process | optional | optional | **required** |
 | Tested using the [Trusted Data Framework](/handbook/business-technology/data-team/platform/#tdf) | optional | optional | **required** |
 | Auditable w/linkage to source systems |  optional | optional | **required** |
@@ -59,5 +59,5 @@ All Trusted Data solutions must meet the following criteria:
 1. The Dimensional Data Model is designed and integrated into the [Enterprise Dimensional Model Bus Matrix](https://docs.google.com/spreadsheets/d/1j3lHKR29AT1dH_jWeqEwjeO81RAXUfXauIfbZbX_2ME/edit#gid=742713121)
 1. [Trusted Data Tests](https://about.gitlab.com/handbook/business-technology/data-team/platform/dbt-guide/#trusted-data-framework) are created and deployed
 1. The solution enters a User Acceptance Testing phase, including data validations to source systems
-1. The solution is registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog)
+1. The solution is registered in the [Data Catalog](/handbook/business-technology/data-team/data-catalog/)
 1. The solution is deployed, including any required training and user enablement

@@ -35,7 +35,7 @@ description: Business Technology
   </div>
   <div>
     <h5>Data Team</h5>
-    <a href="/handbook/business-technology/data-team" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
+    <a href="/handbook/business-technology/data-team/" class="btn btn-purple" style="width:170px;margin:5px;">Handbook page</a>
     <a href="/handbook/business-technology/data-team/#contact-us" class="btn btn-purple" style="width:170px;margin:5px;">Contact the team</a>
   </div>
 </div>

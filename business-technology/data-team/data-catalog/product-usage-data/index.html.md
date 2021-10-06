@@ -108,7 +108,7 @@ Much of the data within and supporting the Product Usage Data is [Orange](/handb
 1. [GitLab SaaS subscription](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#gitlab-saas-subscription)
 1. [Seat Link](https://docs.gitlab.com/ee/subscriptions/self_managed/#seat-link)
 1. [Product Category, Product Tier, Delivery](/handbook/marketing/strategic-marketing/tiers/#overview)
-1. [Version Check](/handbook/sales/process/version-check)
+1. [Version Check](/handbook/sales/process/version-check/)
 1. Billable Members: [API](https://docs.gitlab.com/ee/api/members.html#list-all-billable-members-of-a-group), [Definition](https://docs.gitlab.com/ee/subscriptions/self_managed/#billable-users), EDM Field Name: `billable_user_count`
 1. Active Users: [Customer Docs](https://docs.gitlab.com/ee/user/admin_area/index.html#users-statistics), [Metric Dictionary](https://docs.gitlab.com/ee/development/usage_ping/dictionary.html#active_user_count), EDM Field Name: `active_user_count`
 
