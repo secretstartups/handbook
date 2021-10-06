@@ -110,7 +110,7 @@ The following table indexes all of the RAW data sources we are loading into the 
 
 | Source | Contact |
 | ------ | ------- |
-[Adaptive](https://www.adaptiveplanning.com/)                                                                       ||
+[Adaptive](https://www.adaptiveplanning.com/)                                                                       | https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml#L27 |
 [Airflow](https://airflow.apache.org/)                                                                              ||
 [BambooHR](https://www.bamboohr.com/)                                                                               ||
 [Clearbit](https://clearbit.com/)                                                                                   ||
@@ -143,7 +143,7 @@ GitLab Profiler DB                                                              
 [Zendesk](https://www.zendesk.com/)                                                                                 | Stitch support |
 [Zoom](https://zoom.us/)                                                                                            ||
 [Zuora](https://www.zuora.com/)                                                                                     | Stitch support |
-[Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    ||
+[Zuora Revenue](https://knowledgecenter.zuora.com/Zuora_Revenue)                                                    | Zuora support |
 
 
 ### Adding new Data Fields
