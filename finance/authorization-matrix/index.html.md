@@ -127,27 +127,25 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Signs</div>  <!-- CFO -->
   <div class="item-auth-matrix" style="grid-column: 1/11"><b>Approving Payment<sup>(1)</sup></b></div>
   <div class="item-auth-matrix">>$0K to $500K</div>  
-  <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
-  <div class="item-auth-matrix"></div>  <!-- Exec Team -->
+  <div class="item-auth-matrix"></div>  <!-- VP -->  
+  <div class="item-auth-matrix"></div>  <!-- Exec Group -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix">X</div>  <!-- PAO -->
+  <div class="item-auth-matrix">X</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
-  <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix">>$500K+</div>  
-  <div class="item-auth-matrix"></div>  <!-- Team Member -->
   <div class="item-auth-matrix"></div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
-  <div class="item-auth-matrix"></div>  <!-- Exec Team -->
+  <div class="item-auth-matrix"></div>  <!-- VP -->  
+  <div class="item-auth-matrix"></div>  <!-- Exec Group -->
   <div class="item-auth-matrix"></div>  <!-- CEO -->
   <div class="item-auth-matrix"></div>  <!-- Board -->
-  <div class="item-auth-matrix"></div>  <!-- PAO -->
+  <div class="item-auth-matrix"></div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix">X</div>  <!-- CFO -->
-  <div class="item-auth-matrix"></div>  <!-- Legal -->
   <div class="item-auth-matrix" style="grid-column: 1/11"><b>Legal Contracts</b></div>   
   <div class="item-auth-matrix">Standard Terms</div>  
   <div class="item-auth-matrix"></div>  <!-- Manager -->
