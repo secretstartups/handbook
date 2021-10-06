@@ -458,22 +458,43 @@ Because our teams are working in separate groups within a single application, th
 
 An example would be a change to user authentication or login, which might impact seemingly unrelated services, such as project management or viewing an issue.
 
-Far-reaching work is work that has a large "blast radius" and includes changes to areas which will:
+Far-reaching work is work that has wide-ranging, diffuse implications, and includes changes to areas which will:
 1. be utilized by a high percentage of users
 1. impact entire services
 1. touch multiple areas of the application
 1. potentially have legal, security, or compliance consequences
 1. potentially impact revenue
 
-If your group, product area, feature, or merge request fits within one of the descriptions above, you must seek to understand your impact and how to reduce it. Your plan might include creating a one-off process for those types of changes, such as:
+If your group, product area, feature, or merge request fits within one of the descriptions above, you must seek to understand your impact and how to reduce it. When releasing far-reaching work, use a [rollout plan](/handbook/engineering/development/processes/rollout-plans). You might additionally need to consider creating a one-off process for those types of changes, such as:
 - [Creating a rollout plan procedure](/handbook/engineering/development/processes/rollout-plans)
    - Consider how to reduce the risk in your rollout plan
    - Document how to monitor the rollout while in progress
    - Describe the metrics you will use to determine the success of the rollout
    - Account for different states of data during rollout, such as cached data or data that was in a previously valid state
-- Requiring feature flag usage
+- Requiring feature flag usage ([example](https://gitlab.com/gitlab-com/www-gitlab-com/-/merge_requests/88298))
 - Changing a recommended process to a required process for this change, such as a domain expert review
 - Requesting manual testing of the work before approval
+
+##### Identified areas
+
+Some areas have already been identified that meet the definition above, and may consider altered approaches in their work:
+
+| Area             | Reason                      | Special workflows (if any) |
+| ---------------- | --------------------------- | -------------------------  |
+| Database migrations, tooling, complex queries, metrics | impact to entire application<br/><br/>The database is a critical component where any severe degradation or outage leads to an S1 incident. | [Documentation](https://docs.gitlab.com/ee/development/database_review.html#general-process) | 
+| Sidekiq changes (adding or removing workers, renaming queues, changing arguments, changing profile of work required)  | impact to multiple services<br/><br/>Sidekiq shards run groups of workers based on their profile of work, eg memory-bound. If a worker fails poorly, it has the potential to halt all work on that shard. | [Documentation](https://docs.gitlab.com/ee/development/sidekiq_style_guide.html#sidekiq-compatibility-across-updates) | 
+| Redis changes    | impact to multiple services<br/><br/>Redis instances are responsible for sets of data that are not grouped by feature category. If one set of data is misconfigured, that Redis instance may fail.  |                            | 
+| Protected Branches, CODEOWNERS, MR Approvals, Gitaly interface | high percentage of traffic share |       |
+| Package product areas            | high percentage of traffic share |       |
+| Gitaly product areas             | high percentage of traffic share |       |
+| Pipeline Execution product areas | high percentage of traffic share |       |
+| Access/Workspace product areas   | touch multiple areas of the application    | [Documentation](/handbook/engineering/development/dev/manage/#code-review) |
+| Compliance product areas | potentially have legal, security, or compliance consequences | |
+| [Specific fulfillment product areas](/handbook/engineering/development/fulfillment/#release-of-revenue-impacting-changes) | potentially impact revenue | |
+| Runtime language updates | impacts to multiple services | |
+
+
+
 
 ## Books
 
