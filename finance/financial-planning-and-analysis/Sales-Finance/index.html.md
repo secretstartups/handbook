@@ -29,10 +29,9 @@ title: "Sales Finance"
 | Name | Function |
 | -------- | ---- |
 | @fkurniadi | Overall |
-| @alcurtis | Consolidation |
-| @laura_newbury | Field Ops |
-| @ysun3 | Professional Services |
-| @daruwajoye | Enterprise Sales, Channels, Alliances |
+| @alcurtis | Consolidation, Enterprise Sales |
+| @laura_newbury | Professional Services, Field Ops |
+| @ysun3 | Channels, Alliances |
 | @kmckern | Commercial Sales, Customer Success |
 
 ## Greenhouse HC Approval SLA (Service Level Agreement)
