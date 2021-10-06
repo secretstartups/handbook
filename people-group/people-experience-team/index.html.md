@@ -446,7 +446,7 @@ Bonus Processing is completed by the Experience Associate who is on that rotatio
 1. The Experience team will receive an email titled `Table Reminder: Referral Bonus` 
 1. From here, the PEA will review the BambooHR profile of the team members in the email to ensure that bonus amount is correct for those they referred
 1. After confirming the bonus amount is correct, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
-1. Aftering adding the information into the payroll spreadsheet, be sure to edit the bonus line in BambooHR and add `Paid` to the beginning of it. 
+1. Afterwards, adding the information into the payroll spreadsheet, be sure to edit the bonus line in BambooHR and add `Paid` to the beginning of it. 
 1. Reply all in the email with "This has been processed." This step is to make the team aware that action has been taken on the `Table Reminder: Referral Bonus` email
 
 #### Discretionary Bonuses 
