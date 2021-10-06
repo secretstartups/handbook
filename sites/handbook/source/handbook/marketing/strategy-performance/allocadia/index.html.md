@@ -42,6 +42,8 @@ This section houses the main grid. This section is more for the Allocadia admin,
 
 Also in this section, you can see where teams are from a forecast to plan standpoint by clicking into the `view-roll up` button. [Video walk through](https://youtu.be/TnY8T9s3o-E) in GitLab Unfiltered.
 
+Home is also where targets are entered annually by quarter for each of the teams. To do so, find the icon next to the team in the Panel column called `Panel` (rollup panel when you hover over) and click to open. Scroll down to enter the top down targets/budget into the Qx Approved Target fields for each. This can only be done by an admin.
+
 ## Activities
 
 The activity planning section is where you add the tactics of your quarterly/annual plan and where can you see quick high level metrics to help you understand your `Investment Target` and your `Plan` vs. `Forecast`. Depending on what view you are in will depend on if you see this data based on the quarter or based on the FY.
@@ -148,7 +150,7 @@ Any line items within a category or subcategory default inherit the details from
 - Start Date - the date the expense begins. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc.
 - End Date - the date the expense ends. This will be used for accruals and can be pulled into reports to show timing of software renewals, etc. If you are unsure of what to use for the start or end dates, please reach out to our Finance Business Partners.
 - GitLab Procurement issue URL - this will auto populate for you if you've created the issue with a click of a button within Allocadia
-- GL Account - will be selected for you based on your input in Spend Type above
+- GL Account - will be selected for you based on your input in Spend Type above. Note that we have three different fields for GL Account - one for FMM, one for Contribute and one for the rest of marketing. If there are any problems with the GL account during integrations, remind support of this fact to expedite a response.
 
 #### 🗓 GitLab Internal Calendars
 
@@ -288,6 +290,9 @@ As mentioned above, there is a listing of available FY22 SFDC campaigns to choos
 When a category or sub-category ID is used, the SFDC Campaign will be auto-tagged to all the line items within that category or sub-category.
 
 Detailed instructions on how to set this synch up, which does have to be done campaign by campaign, can be [found here](/handbook/marketing/marketing-operations/campaigns-and-programs/#marketo-program-and-salesforce-campaign-set-up).
+
+#### Drop down in details panel 
+If you need to add a new value to the drop down selector options, in order for the new options to properly pull through Marketo>SFDC correctly, you need to be sure the new drop down value has been added to Allocadia, Marketo, &  SFDC. Once that's been done, test the systems and you should be good to go! 
 
 ### Okta
 
