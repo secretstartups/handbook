@@ -13,8 +13,8 @@ As a team member responsible for helping to bridge the gap between business and 
 * Build trust in all interactions and with [Trusted Data Development](/handbook/business-technology/data-team/data-development/#trusted-data-development)
 * Serve as the [Directly Responsible Individual](/handbook/people-group/directly-responsible-individuals) for major sections of the [Enterprise Dimensional Model](/handbook/business-ops/data-team/data-edw)
 * Design, develop, and extend [dbt](https://www.getdbt.com/) code to extend the Enterprise Dimensional Model
-* Create and maintain architecture and systems documentation in the [Data Team Handbook](/handbook/business-technology/data-team)
-* Maintain the [Data Catalog](/handbook/business-technology/data-team/data-catalog), a scalable resource to support Self-Service and Single-source-of-truth analytics
+* Create and maintain architecture and systems documentation in the [Data Team Handbook](/handbook/business-technology/data-team/)
+* Maintain the [Data Catalog](/handbook/business-technology/data-team/data-catalog/), a scalable resource to support Self-Service and Single-source-of-truth analytics
 * Document plans and results in either issue, MRs, the [handbook](/handbook/), or READMEs following the GitLab tradition of [handbook first!](/handbook/handbook-usage/#why-handbook-first)
 * Implement the [DataOps](https://en.wikipedia.org/wiki/DataOps) philosophy in everything you do
 * Craft code that meets our internal standards for style, maintainability, and best practices (such as the [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)) for a high-scale database environment. Maintain and advocate for these standards through code review.
