@@ -28,6 +28,7 @@ _The Accounts Receivable Team began in May of 2021. We appreciate your patience 
 - [Sarah McCauley](https://about.gitlab.com/company/team/#s_mccauley) - Director, Billing & Accounts Receivable
 - [Shannon Silmon](https://about.gitlab.com/company/team/#ssilmon) - Accounts Receivable Specialist
 - [Jessica Duenas](https://about.gitlab.com/company/team/#jessyduenas) - Senior Accounts Receivable Specialist
+- [Crystal Kelly](https://about.gitlab.com/company/team/#crystalk) - Accounts Receivable Associate
 
 Accounts Receivable works closely with Sales, Deal Desk, Billing Operations, and Revenue Operations Teams.
 
