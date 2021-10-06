@@ -109,7 +109,7 @@ In the `Pre-Processing` step, Data Analyst prepare and cleanse the data and exam
 
 ### Modeling
 
-In the `Modeling` step, we aim to create new data models in the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw) format for all GitLab team members. We start first with an **Entity Relationship Diagram (ERD)** to ensure that the new data structures reflect accurate business processes. All data models are reviewed by the [Data Engineering Team](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities).
+In the `Modeling` step, we aim to create new data models in the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/) format for all GitLab team members. We start first with an **Entity Relationship Diagram (ERD)** to ensure that the new data structures reflect accurate business processes. All data models are reviewed by the [Data Engineering Team](/handbook/business-technology/data-team/organization/engineering/#data-engineering-responsibilities).
 
 When GitLab reaches **Level (4) Predictive** of the [**Data Capability Model**](/handbook/business-technology/data-team/direction/#data-capability-model), this step will include [Exploratory Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) and Data Feature Engineering, which should include supervised & unsupervised machine learning techniques.
 

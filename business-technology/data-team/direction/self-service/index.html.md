@@ -81,7 +81,7 @@ Access Requests:
 
 ### Self-Service Dashboard Developer
 
-Self-Service Dashboard Developer provides Certified GitLab team members the ability to build their own dashboards using [Sisense Data Discovery](https://dtdocs.sisense.com/article/data-discovery) based on well-defined and validated [Kimball-standard](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) data models powered by the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw).
+Self-Service Dashboard Developer provides Certified GitLab team members the ability to build their own dashboards using [Sisense Data Discovery](https://dtdocs.sisense.com/article/data-discovery) based on well-defined and validated [Kimball-standard](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) data models powered by the [Enterprise Dimensional Model](/handbook/business-technology/data-team/platform/edw/).
 
 Prerequisites:
 
@@ -105,8 +105,8 @@ Prerequisites:
 - [ ] [Intermediate SQL](https://softwareengineering.stackexchange.com/questions/181651/are-these-sql-concepts-for-beginners-intermediate-or-advanced-developers)
 - [ ] Ability to navigate a [data dictionary](https://docs.snowflake.com/en/sql-reference/info-schema.html)
 - [ ] Ability to read [data models](https://www.lucidchart.com/pages/er-diagrams) to write SQL
-- [ ] Adhere to the [Data Team SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
-- [ ] Pass a [Self-Service SQL Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications) from one of the Self-Service-ready Data Subject Areas published in the handbook
+- [ ] Adhere to the [Data Team SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
+- [ ] Pass a [Self-Service SQL Developer Knowledge Assessment](/handbook/people-group/learning-and-development/certifications/) from one of the Self-Service-ready Data Subject Areas published in the handbook
 
 Access Requests:
 
