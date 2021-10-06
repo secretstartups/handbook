@@ -93,6 +93,8 @@ Sales QBRs include account teams, leadership, and delegates from across the busi
    1. Field EBAs*
    1. Field Talent Acquisition Team*
    1. Customer Reference*
+   1. Field Security
+
 
 **ENT Leadership QBR**
 1. Segment Sales VP
