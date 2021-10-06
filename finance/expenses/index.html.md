@@ -57,13 +57,13 @@ For Laptop Purchases/Refreshes, please refer to [IT Ops Laptop](/handbook/busine
 
 In order to prevent issues during the reimbursement of purchases that go above the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page, we recommend getting pre-approval before making a purchase and submitting for a reimbursement. This isn't required for purchases below the guideline price. 
 
-Keep in mind that GitLab won't reimburse items that are included in the [list of non-reimbursable expenses.](#-non-reimbursable-expenses) 
+Keep in mind that GitLab won't reimburse items that are included in the [list of non-reimbursable expenses.](/handbook/finance/expenses/#-non-reimbursable-expenses) 
 
 To obtain pre-approval, post in the #[expense-reporting-inquires](https://gitlab.slack.com/archives/C012ALM8P29) slack channel - the equipment you are purchasing, the cost of the item and the reason why the purchase is above the guideline price (this could be due to higher taxes in your region for example). Tag your manager as well so they are aware of the ask and they can help provide context if needed. Someone from our Accounts Payable team will reply to you with approval. When you are submitting your expense, add a note saying "`Jane Doe (name of approver)` pre-approved this expense".
 
 ### Rejected expenses
 
-Sometimes expenses get rejected by our third party accounting team. Before following the steps below, please ensure your purchases don't fall in our [list of non-reimbursable expenses.](#-non-reimbursable-expenses). An expense might get rejected if it goes above the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page. 
+Sometimes expenses get rejected by our third party accounting team. Before following the steps below, please ensure your purchases don't fall in our [list of non-reimbursable expenses.](/handbook/finance/expenses/#-non-reimbursable-expenses). An expense might get rejected if it goes above the guideline price listed in our [office equipment and supplies](/handbook/finance/procurement/office-equipment-supplies/) handbook page. 
 
 **If you didn't get pre-approval from the accounting team before submitting the expense,** then start a new post in the #[expense-reporting-inquires](https://gitlab.slack.com/archives/C012ALM8P29) slack channel and explain the situation. Follow the same format as described in [requesting pre-approval](#obtaining-pre-approval-from-accounting). Once you get approval, submit your expense again, highlighting that the accounting team has given their thumbs-up to the expense. 
 
