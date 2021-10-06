@@ -562,7 +562,7 @@ out to any of the other [C-level GitLab team members](https://comp-calculator.gi
 
 At GitLab, social calls are considered an important way to foster culture while organically creating connections between team members with similar interests or hobbies.
 
-These calls happen six times a week at varying times to ensure that team members in all timezones are able to take part. We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
+These calls happen three times a month at varying times to ensure that team members in all timezones are able to take part. We currently have one open or random topic room along with three topic specific ones based on the most popular channels within Slack i.e. `#gaming`, `#fitlab` and `#intheparenthood` which team members need not be a part of to join in.
 
 Previously social calls never had a set agenda however participants are now encouraged to document discussion points or questions in the relevant Google Doc - this is to ensure those considering attending have an overview of what to expect along with offering those who were unable to attend an opportunity to scroll back review points of interest.
 
@@ -574,11 +574,11 @@ Social call attendance is not mandatory however the sessions do serve as a great
 
 | Social Call   | Day(s)               | Time       |
 | ------------- | -------------------- | ---------- |
-| **APAC/EMEA** | Tuesday and Thursday | 11:00PM PT |
-| **EMEA/AMER** | Tuesday and Thursday | 06:00AM PT |
-| **AMER/APAC** | Tuesday and Thursday | 15:00PM PT |
+| **APAC/EMEA** | First Tuesday of every month | 11:00PM PT |
+| **EMEA/AMER** | First Tuesday of every month | 06:00AM PT |
+| **AMER/APAC** | First Tuesday of every month | 15:00PM PT |
 
-All social calls are in the Team Meetings Calendar - the sessions are titled GitLab Social Call: Multi-Topic and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.
+All social calls are in the Team Meetings Calendar - the sessions are titled Talkative Tuesdays - GitLab Social Call and once you have opened the invite you will see a brief introduction followed by the three topics all of which have unique links for both Zoom and the respective Google Doc.
 
 Being mindful of those who will be taking part, team members are asked to join on time and mute their microphones when they are not speaking. Social calls are not moderated and with this in mind all those who take part play this role and should feel free to chime in if and when necessary.
 
