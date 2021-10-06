@@ -267,9 +267,9 @@ Check out the ongoing CEO Shadow tasks on the [To Do issue board](https://gitlab
 
 Review the [CEO's calendar](#ceos-calendar) to get an idea of what your upcoming weeks will be like.
 
-#### Review the [CEO Handbook](/handbook/ceo)
+#### Review the [CEO Handbook](/handbook/ceo/)
 
-The CEO has a [section in the handbook](/handbook/ceo) that details processes and workflows specific to him as well as his background, communication style, strengths, and flaws. Take time to invest in your relationship with him upfront by reviewing this part of the handbook. Here are some helpful sections:
+The CEO has a [section in the handbook](/handbook/ceo/) that details processes and workflows specific to him as well as his background, communication style, strengths, and flaws. Take time to invest in your relationship with him upfront by reviewing this part of the handbook. Here are some helpful sections:
 
 1. [Communication](/handbook/ceo/#communication)
 1. [Pointers from direct reports](/handbook/ceo/#pointers-from-ceo-direct-reports)
@@ -278,7 +278,7 @@ The CEO has a [section in the handbook](/handbook/ceo) that details processes an
 
 #### Review acronyms
 
-If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators) handbook page has some useful acronyms as well as concepts you're likely to come across.
+If you're not familiar with some of the business acronyms, take a bit of time to review them. The [Product Performance Indicators](/handbook/product/performance-indicators/) handbook page has some useful acronyms as well as concepts you're likely to come across.
 
 - [KPI (Key Performance Indicator)](/company/kpis/#what-are-kpis)
 - [OKRs (Objectives and Key Results)](/company/okrs/#what-are-okrs)

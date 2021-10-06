@@ -32,7 +32,7 @@ A pronunciation hint for `Sijbrandij`: It’s like when you have seen some disti
 
 ## Related pages
 
-- [CEO shadow program](/handbook/ceo/shadow)
+- [CEO shadow program](/handbook/ceo/shadow/)
 - [CEO Job Description](/job-families/chief-executive-officer/)
 
 ## Favorite Restaurants
