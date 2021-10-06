@@ -99,11 +99,15 @@ file. It will be included by default in the onboarding issue.
 The job then grabs various details of the incoming team member, like country of
 residence, entity through which they are hired, division, department, job title
 etc. For each of these details, it checks for the existence of a task file in
-the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/.gitlab/issue_templates/onboarding_taskss)
+the [`onboarding_tasks` folder](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/tree/master/.gitlab/issue_templates/onboarding_tasks)
 of the `employment` project. These tasks files are of the format
 `country_<country name>.md`, `entity_<entity name>.md`, `division_<division name>.md`,
-`department_<department name>.md`, etc. If such a file is found, it includes
+`department_<department name>.md`, `role_<exact job title>.md`, etc. If such a file is found, it includes
 contents of those files also in the onboarding issue.
+
+Role templates don't take seniority into level. For example SDR 1, 2, or 3 would all receive the SDR template.
+
+If you receive a question from a manager about why a template was not linked in an onboarding issue, be sure to check the naming convention of the template and ensure everything matches up in BambooHR with the entity, division, department, etc. If everything looks like it's matched up, reach out to the People Group Engineer for additional assistance.
 
 Note: If a People Experience Associate needs to create the onboarding issue for interns, they can use the same Slack command.
 
