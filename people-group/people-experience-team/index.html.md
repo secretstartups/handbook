@@ -181,6 +181,12 @@ Wait for People Experience Team to tag you on the team member’s onboarding iss
    * For employees in the US only > Total Rewards > Tick “Total Rewards Analyst” tasks
    * Turn off notifications
 
+#### Referral Bonus Audit
+
+Weekly on a Friday, the People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
+
+The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+
 **Over and above these audits, the Compliance Specialist will perform their own audits to ensure that certain tasks have been completed.**
 
 #### Quarterly Audits
@@ -431,11 +437,38 @@ When a new tool is [added to the Tech Stack](https://about.gitlab.com/handbook/b
 
 - Important to check whether the tool should be in the main offboarding issue or if only a certain department/team will have access to the tool, in which case, this can be added to the specific department template. 
 
-### Referral Bonus Audits
+### Bonus Processing
 
-Weekly on a Friday, the People Experience team will be pinged in the `#peopleops-alerts` Slack channel to complete an audit of whether referral bonuses have been added to the referring team members profile in BambooHR (for referring new hires for the last 3 months). This is part of an [existing automation](https://about.gitlab.com/handbook/people-group/engineering/slack-integrations/#referral-bonus-reminders). 
+Bonus Processing is completed by the Experience Associate who is on that rotation for the week via the issue. Below are the various types of bonuses that need to be processed.
 
-The People Experience Associate will open the Greenhouse entry to confirm whether a referral was made for the new team member. If yes, proceed to the BambooHR profile of the referring team member and verify that a bonus has been added correctly as per the [referral requirements](https://about.gitlab.com/handbook/incentives/#referral-bonuses). 
+#### Referral Bonuses
+
+1. The Experience team will receive an email titled `Table Reminder: Referral Bonus` 
+1. From here, the PEA will review the BambooHR profile of the team members in the email to ensure that bonus amount is correct for those they referred
+1. After confirming the bonus amount is correct, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
+1. Afterwards, adding the information into the payroll spreadsheet, be sure to edit the bonus line in BambooHR and add `Paid` to the beginning of it. 
+1. Reply all in the email with "This has been processed." This step is to make the team aware that action has been taken on the `Table Reminder: Referral Bonus` email
+
+#### Discretionary Bonuses 
+
+1. Discretionary bonuses go through approvals via the Nominator bot. The Experience team will be notified of bonuses that need to be approved in the private slack channel `people-group-nominator-bot`
+1. The PEA should review the nomination based off the criteria [here](https://about.gitlab.com/handbook/incentives/#valid-and-invalid-criteria-for-discretionary-bonuses) and make sure it's an appropriate bonus to approve - if there are any questions, make sure to ask for any clarification in the thread.
+   - If for any reason, the bonus does not meet the criteria - reject the bonus in the slack channel and communicate to the nominator about why.
+1. If the bonus meets the criteria, the PEA will approve the bonus in the slack channel and this feeds into BambooHR. You'll want to double check to make sure everything fed over correctly. 
+1. After confirming everything fed over from the bot to BamboohR, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
+1. Lastly, add a checkmark or any other emoji onto the Approval in the bot to signal that you have in fact completed this nomination and it's been processed.
+
+_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
+
+#### Working Group Bonuses
+
+1. [Working Group bonuses](https://about.gitlab.com/handbook/incentives/#working-group-bonus) are done through BambooHR and not the bot. The Experience team will receive an email from BambooHR saying there is a bonus that needs approval
+1. The PEA will review and approve or deny the bonus in BambooHR 
+1. Next, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
+
+#### Acting Manager Bonuses
+
+1. TBD
 
 ### 1Password Complete Recovery
 
