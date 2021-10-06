@@ -42,8 +42,8 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
 
 <div class="grid-auth-matrix">
   <div class="item-auth-matrix grid-empty"></div>
-  <div class="item-auth-matrix" style="grid-column: 2/8"><b>Functional approval</b></div>
-  <div class="item-auth-matrix" style="grid-column: 8/11"><b>Financial approval</b></div>
+  <div class="item-auth-matrix" style="grid-column: 2/9"><b>Functional approval</b></div>
+  <div class="item-auth-matrix" style="grid-column: 9/11"><b>Financial approval</b></div>
   <div class="item-auth-matrix"></div> 
   <div class="item-auth-matrix"><b>Manager</b></div>  
   <div class="item-auth-matrix"><b>Director</b></div> 
