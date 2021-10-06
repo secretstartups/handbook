@@ -11,9 +11,21 @@ description: "Describes the process for scoping pipeline migrations from other C
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-# CI Migration Details
+# Migrating from Artifactory to GitLab Registry
 
-`:warning: This page is under construction`
+## General Approaches
+1. **Flash Cut** - Migrate all data from Artifactory to gitlab registry and update pipeline files at once. 
+2. **Net New** - Update all pipelines to push to and pull from gitlab registry so that all newly built software packages are stored in GitLab in the build/package stage. Then in the deploy stage they are pulled from gitlab registry. Slowly migrate the dependencies that don't often change to gitlab registry. Graudally phase out Artifactory. 
+
+## Questions to ask a customer during discovery
+
+| Question | Answer | Sample Answer | Rationale for asking|
+| ----- | ----- | ----- | ----- |
+| What artifacts are stored in artifactory? | | built software binaries and docker containers. No dependent libraries - we go out to the internet for these | This will affect the decision on general approaches listed above |
+| How many artifacts are stored in artifactory? | | 1,234 | Shows roughly how large the scope of a migration project will be. |
+| How many artifactory servers do you have? | | 2 | This is a guage of complexity. The more artifactory services, the more complex. |
+| How many software packages/images are pushed to artifactory per Month? |  | 2345 | This shows the customer is measuring this data to be used during the transition process. |
+| How many software packages/images are pulled from artifactory per month? |  | 2345 | This shows the customer is measuring this data to be used during the transition process. |
 
 
 
