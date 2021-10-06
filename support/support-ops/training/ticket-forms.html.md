@@ -57,7 +57,7 @@ From here, you will do the following:
 * what title to show to end users (if the form is editable for end users)
 * What ticket fields to use (and in what order)
 
-After getting all that into plkace, click the blue `Save` button in the bottom
+After getting all that into place, click the blue `Save` button in the bottom
 right-hand side of the page.
 
 From here, you need to edit the _conditions_ the form uses for both agents and
