@@ -39,7 +39,7 @@ graph LR;
 
 ### Step 1: Identify the right service
 
-The SAL/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog). The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
+The SAL/ISR can find the general services the PS team offers on the [services page](/services/) or for more details specific SKU offerings, on the [full catalog](/services/catalog/). The SAL/ISR can pull the SA in for help selecting services needed based on customer requirements.
 
 ### Step 2: Create the opportunity in SFDC
 
@@ -56,7 +56,7 @@ If the customer only needs standard services from the service catalog, the SAL/I
 After following the above process steps, click `Generate PDF` to obtain an Order Form to share with the customer for signature.  The SAL/ISR should meet with the customer to review the service deliverables, duration, and pricing and should confirm no customizations are needed. Again, they can pull in the SA for assistance if needed.
 
 #### Custom-Scoped Services
-If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
+If the SAL/ISR/SA determine that the customer requires additional services outside of those listed in the [full catalog](/services/catalog/), the SA should initiate a scoping engagement with the PS team by opening the [Services Calculator](http://services-calculator.gitlab.io/) and submitting with the information required (customer name, GitLab username and email address). If you don't know the specifics, you can submit with the defaults. This will add an issue to the  PS Engagement Manager's queue to follow up with you on next steps. Check out the [detailed steps below](#custom-scoped-services-detailed-workflow) for custom-scoped engagements for more details.
 
 #### Instructions for creating a Professional Services Quote
 Deal Desk with require a quote for either Service option above.  How to create a quote can be found [here](https://about.gitlab.com/handbook/sales/field-operations/sales-operations/deal-desk/#professional-services-quote).
@@ -111,7 +111,7 @@ Remember to update the SFDC Professional Services Opportunity to **"closed lost"
 
 #### Do we have set SKUs I can use?
 
-Yes - for off the shelf items, we have [SKUs](/services/catalog).
+Yes - for off the shelf items, we have [SKUs](/services/catalog/).
 
 #### What are our daily or hourly rates?
 

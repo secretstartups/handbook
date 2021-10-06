@@ -10,14 +10,14 @@ description: "Solutions Architects are occasionally called on at a moments notic
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes) - [**Education and Enablement**](/handbook/customer-success/education-enablement)
+[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices/) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays/) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources/) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development/) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations/) - [**Processes**](/handbook/customer-success/solutions-architects/processes/) - [**Education and Enablement**](/handbook/customer-success/education-enablement/)
 
 # Demonstrations
 {:.no_toc}
 
 ## Demo Systems Overview and Specific Environments
 
-The [Demo Systems Handbook page](/handbook/customer-success/demo-systems) provides an overview of the demo system infrastructure used for demonstrating GitLab features, value propositions, and workflows.
+The [Demo Systems Handbook page](/handbook/customer-success/demo-systems/) provides an overview of the demo system infrastructure used for demonstrating GitLab features, value propositions, and workflows.
 
 See the [Environments sub-page](/handbook/customer-success/demo-systems/#shared-environments) for specific details on how to access the environments for use in your demos.
 

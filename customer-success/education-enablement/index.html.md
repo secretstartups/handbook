@@ -146,7 +146,7 @@ To align our education and enablement with our product, each of the topics below
 - [Continuous Delivery Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
   - [See verify stage for full list of CI/CD resources](#verify-stage)
 - [Pages Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/pages/)
-  - [Pages Feature Direction and Roadmap](https://about.gitlab.com/direction/release/pages)
+  - [Pages Feature Direction and Roadmap](https://about.gitlab.com/direction/release/pages/)
   - [Pages Feature Docs](https://docs.gitlab.com/ee/user/project/pages/)
 - [Review Apps Feature Overview](https://about.gitlab.com/stages-devops-lifecycle/review-apps/)
   - [YouTube Webcast Feature Overview](https://www.youtube.com/watch?v=CteZol_7pxo&feature=youtu.be)

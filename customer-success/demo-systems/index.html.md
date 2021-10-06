@@ -75,7 +75,7 @@ The <code>gitlab-core.us.gitlabdemo.cloud</code> instance was deprecated on 2021
 * **AWS Account**: See the [instructions](#aws-account-or-gcp-project-sandbox-cloud) for provisioning your own isolated AWS account with the GitLab Sandbox Cloud.
 * **GCP Project**: See the [instructions](#aws-account-or-gcp-project-sandbox-cloud) for provisioning your own isolated GCP project with the GitLab Sandbox Cloud.
 * **AWS Elastic Kubernetes Service (EKS) Cluster:** You can use your AWS account to provision an EKS cluster using the [Adding EKS clusters](https://docs.gitlab.com/ee/user/project/clusters/add_eks_clusters.html) GitLab documentation.
-* **GCP Google Kubernetes Enginge (GKE) Cluster:** Send a message to Jeff Martin with questions about clusters that are in the `group-cs` GCP project. See the tutorial for [configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster) to add your cluster to your GitLab group.
+* **GCP Google Kubernetes Enginge (GKE) Cluster:** Send a message to Jeff Martin with questions about clusters that are in the `group-cs` GCP project. See the tutorial for [configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/) to add your cluster to your GitLab group.
 
 ## How to Get Started
 
@@ -223,8 +223,8 @@ For demo and sandbox use cases requiring an older version, you can deploy a GitL
 
 ## Tutorials
 
-* [Configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster)
-* [Create a Jenkins Pipeline (Deprecated, Educational only)](/handbook/customer-success/demo-systems/tutorials/integrations/create-jenkins-pipeline)
+* [Configuring GitLab with group-level Kubernetes cluster](/handbook/customer-success/demo-systems/tutorials/getting-started/configuring-group-cluster/)
+* [Create a Jenkins Pipeline (Deprecated, Educational only)](/handbook/customer-success/demo-systems/tutorials/integrations/create-jenkins-pipeline/)
 
 ## Sample Data
 
@@ -288,8 +288,8 @@ The Demo Systems v1 repositories can be found in [gitlab.com/gitlab-com/customer
 * [GitLab Sandbox Cloud](https://about.gitlab.com/handbook/infrastructure-standards/realms/sandbox/)
 * [GitLab Infrastructure Standards](https://about.gitlab.com/handbook/infrastructure-standards/)
 * [GitLab Infrastructure Standards - Labels and Tags](https://about.gitlab.com/handbook/infrastructure-standards/labels-tags/)
-* [Demo Systems Kubernetes Architecture Docs](/handbook/customer-success/demo-systems/infrastructure/kubernetes)
-* [Demo Systems Network Architecture and Subnet Docs](/handbook/customer-success/demo-systems/infrastructure/networking)
+* [Demo Systems Kubernetes Architecture Docs](/handbook/customer-success/demo-systems/infrastructure/kubernetes/)
+* [Demo Systems Network Architecture and Subnet Docs](/handbook/customer-success/demo-systems/infrastructure/networking/)
 
 ### Help and Support
 
