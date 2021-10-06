@@ -4,7 +4,7 @@ title: Restoring Deleted Data Requests
 category: GitLab.com
 subcategory:
 description: "Workflow for cases when a customer requests deleted data to be restored on GitLab.com."
-last-reviewed: 2020-11-26
+last-reviewed: 2021-10-06
 ---
 
 ## On this page
@@ -15,23 +15,26 @@ last-reviewed: 2020-11-26
 
 ## Overview
 
-Support frequently receives requests to restore deleted data.
-
-Note: User accounts and contributions can never be restored. Projects and groups follow the procedure below.
+Use this workflow when a customer requests that we restore data from GitLab SaaS that has been deleted. Note that user accounts and contributions can never be restored if deleted. This workflow only pertains to projects and group deletions.
 
 ## Process
 
-Make sure the request fits the [criteria as per the support page](/support#restoration-of-deleted-data).
-For large customers, be sure to check whether the customer has special provisions in their contract that might affect the processing of this request in the org-notes. The best way to maintain this information is being discussed in [support team #2944](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2944).
+1. Check whether the customer has special provisions in their contract that might affect the processing of this request. These provisions are usually located in the notes section of the organization in Zendesk.
+   - >**Note:** The best way to maintain this information is being discussed in [this issue](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/2944).
+1. Ensure that the request meets the necessary [criteria for restoration](https://about.gitlab.com/support/#restoration-of-deleted-data).
 
-If it does not, then you can reply with [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml).
+**If the criteria for restoration is not met:**
 
-If it does, then you can reply with [`Support::SaaS::Restore requests::Meets restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Meets%20criteria.yaml),
-which lets the customer know the limitations and asks them to confirm they want us to go ahead.
+1. Reply to the ticket with the [`Support::SaaS::Restore requests::Does not meet restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Does%20not%20meet%20criteria.yaml) macro.
 
-When you’ve received all the necessary information, open an [infra issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/-/issues) with:
+**If the criteria for restoration is met:**
 
-1. Summary of situation
-1. Link to group or project
-1. Link to ticket
-1. Link to bug (if applicable)
+1. Reply to the ticket with the [`Support::SaaS::Restore requests::Meets restore criteria`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/Support/SaaS/Restore%20requests/Meets%20criteria.yaml) macro, which informs the customer of the limitations of restoration and asks them to confirm that they want us to proceed.
+1. Wait for the customer to reply and confirm.
+1. Once you've received confirmation open an [Infrastructure Issue](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/new?issuable_template=request-gitlab-com) using the `request-gitlab-com` template. Along with any information requested in the template be sure to include:
+
+   - A Summary of the situation.
+   - A link to group or project.
+   - A link to ticket.
+   - A link to bug (if applicable).
+1. Inform the customer that the restoration order has been put in and is in progress.
