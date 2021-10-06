@@ -58,7 +58,7 @@ __This section contains forward-looking content and may not accurately reflect c
 
 ## Success Metrics
 
-- **Accelerate nARR**: nARR vs. plan > 1
+- **Accelerate Self-Service nARR**: nARR vs. plan > 1
     - This is our north star metric
 - **Efficiency**: growth efficiency >= 1.5 by FY’23
 - **Customer Experience**: self-service utilization `target coming soon`
