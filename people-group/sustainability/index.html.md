@@ -16,7 +16,7 @@ twitter_creator: "gitlab"
 
 ## Sustainability at GitLab
 
-As GitLab's reach in the global developer community grows, so does our impact on the environment. While we intentionally operate within our values as part of our operations, we have not yet understood how to apply our values to our business's impact on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. 
+As GitLab's reach in the global developer community grows, so does our impact on the environment. While we intentionally operate within our values as part of our operations, we have not yet understood how to apply our values to our business's impact on the environment. This handbook page will document our growing body of work in aligning our sustainability initiatives with our values. Additional information around how we have quantified transparency and investments to date can be found on our [environmental sustainability page](/handbook/environmental-sustainability/).
 
 ## GitLab's mission can't succeed without sustainability 
 
