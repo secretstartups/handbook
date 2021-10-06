@@ -45,7 +45,7 @@ Key indicators that the opportunity is well-suited include:
 
 ### Education and Commitment
 
-A successful Value Stream Assessment requires a commitment to the exercise by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1kWKZOg3so3u2ph5aLb0bUmVGnDjscb69W-D3TJgN-WI/edit#slide=id.gab2602162f_0_154) by customizing it for the prospect or customer to assist with this step
+A successful Value Stream Assessment requires a commitment to the exercise by the software delivery stakeholders and the personnel experienced with the various processes that constitute their value stream. Without understanding the assessment process and its value to their organization, key participants will lack the commitment to ensure a successful VSA. Educate the prospect or customer on the benefits, process details, and the required commitment. Leverage the [Value Stream Assessment Pitch Deck](https://docs.google.com/presentation/d/1R8RMrXDIaP9Mz3P0_xcevjDQROtvVpSwtEBJgxdsNbw/edit?usp=sharing) by customizing it for the prospect or customer to assist with this step
 
 _While a Value Stream Assessment is an advanced discovery exercise, it's expected that initial [opportunity discovery](/handbook/sales/playbook/discovery/) and [technical discovery](/handbook/customer-success/solutions-architects/processes/technical-discovery) have been conducted._
 
