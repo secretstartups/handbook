@@ -69,12 +69,11 @@ Apple has official training sessions available every week! These training sessio
 
 ### Laptop Setup: Linux
 
-There are no specific instructions to setting up a Linux device as this will depend on the flavor of Linux. Your best friend will be Google in this case! However please feel free to reach out in #Linux slack channel or #it_help for assistance!
+Check out [this detailed page](https://about.gitlab.com/handbook/tools-and-tips/linux/) on setting up your Linux laptop. Also feel free to reach out in #Linux slack channel or #it_help for assistance!
 
 ## Need Help?
 
-If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it-help channel.
-
+If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it_help channel.
 
 ## Extra Setup
 
