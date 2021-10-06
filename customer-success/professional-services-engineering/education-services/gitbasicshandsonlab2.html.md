@@ -11,6 +11,23 @@ description: "This Hands-On Guide walks you through the lab exercises used in th
 *Note: Many of the git commands used in this lab are summarized in GitLab’s helpful [git cheat sheet](
   https://about.gitlab.com/images/press/git-cheat-sheet.pdf).*
 
+### In this lab you will perform the following tasks:
+1. Verify that Git is installed locally
+1. Generate an SSH key
+1. Add an SSH key to your GitLab profile
+1. Clone a project repository to your local machine
+1. Work on a branch
+1. Edit a file
+1. Add `README.md` to the Git staging area
+1. Commit the changes to `README.md`
+1. Push your changes to **temporary_branch** on the remote Git repository on the GitLab instance
+1. Edit, commit, and push the file again
+1. Simulate a change on the remote **temporary_branch**
+1. Get metadata about changes to the remote **temporary_branch**
+1. Pull from the remote (upstream) repository
+1. Merge changes from **temporary_branch** into the **main** branch
+1. Update the remote repository
+
 ### Verify that Git is installed locally
 
 Open a terminal session or shell prompt and type `git version`. If the output prints a version number, Git is installed. If not, consult your instructor on how to install it on your operating system.
