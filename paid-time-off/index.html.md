@@ -33,7 +33,7 @@ As we all work remotely it can sometimes be difficult to know when and how to pl
 
 1. We have a "no ask, must tell" time off policy. This means that:
     * You do not need to ask permission to take time off unless you want to have more than 25 consecutive calendar days (including weekends and holidays) off. The 25-day no ask limit is per vacation, not per year. You can have multiple no ask vacations per year that add up to more than 25 days in total; there is no limit to this.
-    * If your planned leave exceeds the 25 calendars days (including weekends and holidays), please make sure to reach out to your Manager, People Business Partner and the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group) for a special request.
+    * If your planned leave exceeds the 25 calendars days (including weekends and holidays), please make sure to reach out to your Manager, People Business Partner, and the Team Member Relations Team for a special request.
     * What we care about are your results, not how long you work. While you don't need to ask approval for time off, it shouldn’t be at the expense of business getting done. Please coordinate with your team before taking time off, especially during popular or official holidays, so that we can ensure business continuity.  We want to ensure we have adequate coverage and avoid situations where all/most of the team is taking time off at the same time.
     * When taking time off make sure your manager is aware of your absence. Informing your manager can be done by using [PTO by Roots](#pto-by-roots), as it will create an event and notify your manager for you.  Giving your manager and team members a heads up early helps them prioritize work and meet business goals and deadlines.
     * If you're gone for 72 hours without notification, this could be deemed as [Job Abandonment](/handbook/people-policies/#job-abandonment).
@@ -134,12 +134,12 @@ Employees of GitLab Inc. can take off sick time in line with our paid time off p
 Employees of GitLab B.V. have further rights and responsibilities regarding sick time based on Dutch law, as written into their employment [contracts](/handbook/contracts/#employee-contractor-agreements):
 
 - Team members should report sick time via PTO by Roots as aligned above. 
-- If the sick leave extends 8 days it should be reported to Total Rewards via total-rewards@gitlab.com by the Manager and (if possible) team member. 
-- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to Total Rewards and your People Business Partner to discuss.
-- Once Total Rewards has been notified of the sick time they will inform HRSavvy.
+- If the sick leave extends 8 days it should be reported to Team Member Relations via `teammemberrelations@gitlab.com` by the Manager and (if possible) team member. 
+- If team members are reporting multiple instances of sick leave in a 28 day timeframe, please reach out to Team Member Relations and your People Business Partner to discuss.
+- Once Team Member Relations has been notified of the sick time they will inform HRSavvy.
 - HRSavvy will be registering the sick time in their HR portal from the first day of absence (retrospectively).
 - GitLab has engaged with an occupational health and safety centre, called [Zorg van de Zaak](https://www.zorgvandezaak.nl/), to assist employees of GitLab B.V. who may need support while being on long-term sick leave.
-- If the team members is on long-term sick leave (8 days of more), Total Rewards will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
+- If the team members is on long-term sick leave (8 days of more), Team Member Relations will instruct HRSavvy to register the team member at the occupational health and safety service, depending on the situation and agreement with the team member.
 - Zorg van de Zaak's contact details can be found in the People Operations 1Password vault.
 
 #### Doctor's Note
@@ -148,11 +148,11 @@ Please be aware that certain countries require a doctor's note or similar type o
 
 ## Communicating Illness-Related Leave
 
-In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Total Rewards team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Total Rewards team will inform the People Business Partner and Manager on a need-to-know basis. The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
+In the unfortunate event that a team member is dealing with a medical situation, they are under no obligation to reveal details to their manager directly. Instead, you can reach out to the [Team Member Relations team](/handbook/people-group/#how-to-reach-the-right-member-of-the-people-group). The Team Member Relations team will inform the People Business Partner and Manager on a need-to-know basis. The manager should under no circumstances reveal any illness-related leave to other team members to ensure we respect the privacy of the team member affected.
 
 ## Accommodations
 
-If a team member does choose to start the conversation about [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) in the [US](https://www.dol.gov/agencies/odep/topics/accommodations) or [accommodations in the EU](https://ec.europa.eu/social/main.jsp?catId=1473), please have the team member reach out to the [Team Member Relations](/handbook/people-group/team-member-relations/) Specialist, by emailing `teammemberrelations@gitlab.com`. If the team member starts the conversation with the manager, we would ask the manager to reach out to the Team Member Relations Specialist, by emailing `teammemberrelations@gitlab.com`. The Team Member Relations Specialist will keep a log of all accommodation requests and will inform the Total Rewards Team if applicable. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location. 
+If a team member does choose to start the conversation about [reasonable accommodations](/handbook/people-policies/inc-usa/#reasonable-accommodation) in the [US](https://www.dol.gov/agencies/odep/topics/accommodations) or [accommodations in the EU](https://ec.europa.eu/social/main.jsp?catId=1473), please have the team member reach out to the [Team Member Relations](/handbook/people-group/team-member-relations/) Specialist, by emailing `teammemberrelations@gitlab.com`. If the team member starts the conversation with the manager, we would ask the manager to reach out to the Team Member Relations Specialist, by emailing `teammemberrelations@gitlab.com`. The Team Member Relations Specialist will keep a log of all accommodation requests. What can (or must) be accommodated varies from location to location. GitLab will comply with the applicable laws in your specific location. 
 
 ### Communicating Time Off for Emergency Situations
 Emergencies, by definition are unexpected.  They can range from natural disasters, terrorist events, accidents, family deaths, hospitalization and any other unexpected situation.  During these times we ask team members to use their best judgement as well as listen to and adhere to public safety officials when possible.  If an unexpected emergency occurs please contact your manager via Slack or email as soon as possible if you will be unavailable or unable to work.  This will allow your manager to confirm your safety and reassign any critical work during your absence.  If you do not have an emergency contact in BambooHR please go ahead and complete that section.  We will only contact that person if we are unable to reach you via Slack, email or phone.
@@ -165,7 +165,7 @@ Team members may request an unpaid leave of absence by working with their manage
 * Peopleops will confirm with the team member via email that the request has been approved including the start date and end date of the unpaid leave.
 * The team member should contact their manager 2 weeks prior to the unpaid leave of absence ending to confirm the return to work date.  The team member may ask for additional unpaid time off, however the manager has the discretion to deny any additional time off requests.
 * At anytime during the unpaid leave the team member receives a payroll payment, they are to immediately notify their manager and Peopleops via email.  Any funds paid in error are subject to repayment.
-* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the total rewards team (total-rewards@gitlab.com) so the total reward's team can reinstate pay.
+* Once the team member has a confirmed return to work date, they should communicate that date in advance to their manager and to the team member relations team to reinstate pay.
 
 ### Communicating with team members while they are on a leave of absence
 
