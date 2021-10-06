@@ -458,6 +458,8 @@ Bonus Processing is completed by the Experience Associate who is on that rotatio
 1. After confirming everything fed over from the bot to BamboohR, the PEA will add the bonus information to the appropriate payroll changes spreadsheet (US, Non-US, or Canada)
 1. Lastly, add a checkmark or any other emoji onto the Approval in the bot to signal that you have in fact completed this nomination and it's been processed.
 
+_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
+
 #### Working Group Bonuses
 
 1. [Working Group bonuses](https://about.gitlab.com/handbook/incentives/#working-group-bonus) are done through BambooHR and not the bot. The Experience team will receive an email from BambooHR saying there is a bonus that needs approval
