@@ -25,9 +25,9 @@ description: "This page is an overview of the search team alignment and the tale
 | Quality | Rupert Douglas   | Zsuzsanna Kovacs |
 | UX  | Rupert Douglas   | Zsuzsanna Kovacs  |
 | Support | Joanna Michniewicz  |  Joanna Michniewicz |
-| Security | Rupert Douglas  |  Zsuzsanna Kovacs |
+| Security | Nicky Kunstman |  Zsuzsanna Kovacs |
 | Incubation | Rupert Douglas  |  Zsuzsanna Kovacs |
-| Infrastructure   | Matt Allen  | Chris Cruz |
+| Infrastructure   | Josh Barker  | Chris Cruz |
 | Product Management  | Matt Allen | Chris Cruz |
 
 The Candidate Experience Specialist team operates off of a queue style system utilizing a [GitLab Service Desk](/stages-devops-lifecycle/service-desk/).
