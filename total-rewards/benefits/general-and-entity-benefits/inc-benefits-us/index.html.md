@@ -449,7 +449,7 @@ Team members who wish to elect additional life insurance above what is provided 
  
 ##### Evidence of Insurability
  
-If you elect supplemental life insurance greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process and can also access it [here](https://drive.google.com/drive/u/0/folders/1nRgVXeKY2lm0NFjlpuztdQTPCJfDL-ib).
+If you elect supplemental life insurance greater than the guaranteed issue of voluntary life insurance for yourself or dependent, you or your dependent may be required to complete an evidence of insurability (EOI). If required, you will be prompted and provided with the form during the enrollment process and can also access it [here](https://drive.google.com/file/d/1Q1AjhGGia1QT2U_OC7TnMUtTk50ZuLBN/view?usp=sharing).
  
 Please complete this form to the best of your ability, but if you're unsure for any field, please leave it blank. No information needs to be filled out for the ID # field and for security, you may also leave the Social Security Number field blank.
  
