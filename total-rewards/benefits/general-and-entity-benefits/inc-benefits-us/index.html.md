@@ -45,6 +45,8 @@ GitLab covers **100% of team member contributions and 66% for spouse, dependents
  
 More information on the processed deductions in payroll from PlanSource can be found on the [Accounting and Reporting page](/handbook/finance/accounting/).
 
+For questions on benefits, please see the following [PlanSource Video Library](https://videolibrary.plansource.com/). 
+
 ### Logging into PlanSource
 
 You can log into PlanSource [here](https://benefits.plansource.com) with the following information:
