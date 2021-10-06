@@ -37,8 +37,8 @@ When working with views, there are 3 things to keep in mind:
 
 1. the type of view being used.
   * Default - a pre-defined view created by Zendesk
-  * Shared - views created by Zendesk Administrators
-    * These can be globally visible or visible on a group level
+  * Shared - views created by Zendesk Administrators (these can be globally
+    visible or visible on a group level)
   * Personal - views created by agents and only visible to the creator
 1. only the top 12 non-personal views (default and shared) will be shown.
 1. view cannot use criteria that is not "static", meaning it must be selectable
