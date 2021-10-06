@@ -129,14 +129,6 @@ If you received the same nomination twice (for the same person and the same reas
 1. When you decide to reject, click the reject button. The nomination will be updated as `rejected_by_manager`. The bot will ask you to reach out to the nominator as to make sure they understand why the nomination was not approved.
 1. When everyone else has approved, the bot will reach out to you so you can share this with the team member and share it in the [#team-member-updates](https://gitlab.slack.com/archives/CL55Q4U0K) Slack channel.
 
-**People Connect Process**
-1. The Nominator bot will send a Slack DM on `#people-group-nominator-bot` asking to approve or reject the nomination.
-1. Approve the request within `#people-group-nominator-bot` and ensure the date and amount transferred properly to the BambooHR profile.
-1. Notify Payroll of the bonus by updating the proper payroll google sheet based on entity.
-  * United States: "Payroll Changes", Contractors: "Non-US contractor bonus changes", Everyone else: "Monthly payroll changes for non-US international team members".
-
-_Note: If you received the same nomination twice (for the same person and the same reason), you may reject one. When you do this, please reach out to the team member who submitted the nomination to explain, and include the other nominator's name in the #team-member-updates announcement See more details in section for [multiple discretionary bonuses](/handbook/incentives/#multiple-discretionary-bonuses)._
-
 **Approval flow**
 ```mermaid
 graph TD;
