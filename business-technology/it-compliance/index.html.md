@@ -66,12 +66,12 @@ The most common ITGCs:
 * Program change management controls.
 * System and data backup and recovery controls.
 
-#### [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan)
+#### [Business Continuity Plan](/handbook/business-technology/gitlab-business-continuity-plan/)
 
 IT Compliance works closely with our Security Compliance team to ensure that GitLab's Business Continuity Plan is up to date. 
 
-#### [Business Technology Change Management](/handbook/business-technology/change-management)
+#### [Business Technology Change Management](/handbook/business-technology/change-management/)
 
-IT Compliance works closely with our internal business partners for all Enterprise Application Change Management. More information can be found in our [Business Technology Change Management](/handbook/business-technology/change-management) handbook page. 
+IT Compliance works closely with our internal business partners for all Enterprise Application Change Management. More information can be found in our [Business Technology Change Management](/handbook/business-technology/change-management/) handbook page. 
 
 

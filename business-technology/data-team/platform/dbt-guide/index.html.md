@@ -377,7 +377,7 @@ This includes:
 {: #dimensional}
 
 Fact and dimensional tables are abstracted from the source data and represent entities and processes relevant to the business.
-Information on why we're using Dimensional Modeling can be found in the [EDW portion of the handbook](/handbook/business-technology/data-team/platform/edw).
+Information on why we're using Dimensional Modeling can be found in the [EDW portion of the handbook](/handbook/business-technology/data-team/platform/edw/).
 
 ##### Modeling Development Process
 

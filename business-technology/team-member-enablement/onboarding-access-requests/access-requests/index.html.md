@@ -19,9 +19,9 @@ If you have any access requests related questions, please reach out to #it_help 
 
 <div class="flex-row" markdown="0">
   <div>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions" class="btn btn-purple" style="width:170px;margin:5px;">Frequently asked questions</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements" class="btn btn-purple" style="width:170px;margin:5px;">Baseline Entitlements</a>
-    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers" class="btn btn-purple" style="width:170px;margin:5px;">Temporary service providers access requests and onboarding</a>
+    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/frequently-asked-questions/" class="btn btn-purple" style="width:170px;margin:5px;">Frequently asked questions</a>
+    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/" class="btn btn-purple" style="width:170px;margin:5px;">Baseline Entitlements</a>
+    <a href="/handbook/business-technology/team-member-enablement/onboarding-access-requests/temporary-service-providers/" class="btn btn-purple" style="width:170px;margin:5px;">Temporary service providers access requests and onboarding</a>
   </div>
 </div>
 
