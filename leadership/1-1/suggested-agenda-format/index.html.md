@@ -9,7 +9,7 @@ title: "1-1 Suggested Agenda Format"
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-This page describes how [Sid](/handbook/ceo) formats his 1-1 agendas.
+This page describes how [Sid](/handbook/ceo/) formats his 1-1 agendas.
 If you are new to 1-1s or not sure how to make your previous experience with 1-1s work in
 GitLab's culture, this can be a great starting place for you to learn.
 However, remember that 1-1s are private meetings between a manager and their report, so consistency is secondary to effectiveness -
