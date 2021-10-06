@@ -23,9 +23,9 @@ The EBR aims to demonstrate to the [Economic Buyer](/handbook/sales/#capturing-m
 
 For more on the value of EBRs, with customer examples, please watch [this EBR enablement session](https://www.youtube.com/watch?v=1CL5YQeC8Fs).
 
-### How to bring up an EBR with your customers
+## How to bring up an EBR with your customers
 
-To schedule the EBR, the SALSA/TAM meeting or AE/TAM sync is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
+To schedule the EBR, the [account team meeting](/handbook/customer-success/account-team/#account-team-meeting) is the best time to review customers that are due an EBR, and agree on next steps, ensuring the economic buyer and key decision makers are invited and able to attend where possible.
 
 During a cadence call, the TAM should bring up the topic of an EBR. If this is the customer's first EBR with GitLab, explain to them what it is and what value it brings. Ensure they know key stakeholders should attend and ask them to start revewing calendars for an ideal time to schedule the EBR. After the cadence call, follow up with a [written summary of the EBR](#sample-ebr-emails) and reiterate your ask for help in scheduling. It can take up to 3 months to find a good time for stakeholders to all be available to meet with us, so the earlier we can start the conversation the better.
 
@@ -33,56 +33,52 @@ While we always want to include decision-makers and leadership to be involved wi
 
 Please also view our [EBR Playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (internal to GitLab) for more details on how to propose, prepare, and present an EBR. This internal playbook also includes a link to [EBR sell sheets](https://drive.google.com/drive/folders/1MYIIEqOZ_lskuVUt4S-lkz1HR79ZbDjj?usp=sharing), which TAMs can copy and edit to send to their customers to help demonstrate what the customer will get out of the EBR, as well as an "[EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing)" presentation which contains several pointers on the logistics of preparing, such as a suggested timeline, how to prepare and tips on presenting.
 
-#### Sample EBR Emails
+### Sample EBR Emails
 
-##### The following is an example for a TAM sending the email if not broached on a call. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
+#### Initiated by the TAM
 
----
+The following is an example for a TAM sending the email if not broached on a call. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
 
-*I am reaching out to determine the best date and time for our Executive Business Review. As a reminder on the purpose of these strategic bi-annual meetings, we look to cover the following:*
+> I am reaching out to determine the best date and time for our Executive Business Review. As a reminder on the purpose of these strategic bi-annual meetings, we look to cover the following:
+>
+> - Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes
+> - Collect and discuss future goals and desired success measures
+> - Discuss product use cases of interest and/or future roadmap items
+> - Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)
+>
+> We have found significant success in also including key decision makers and will ensure we hit clearly on the progress and successes you and the team have seen.  What would be the best means to invite (insert name of decision maker, influencers)to our review also?
+>
+> The following are some suggested dates and times - if there is a better day or time please let us know and I will get the invite on to the calendar.
 
-- *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
-- *Collect and discuss future goals and desired success measures*
-- *Discuss product use cases of interest and/or future roadmap items*
-- *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
+#### Initiated by GitLab leadership
 
-*We have found significant success in also including key decision makers and will ensure we hit clearly on the progress and successes you and the team have seen.  What would be the best means to invite (insert name of decision maker, influencers)to our review also?*
+The following is an example for when a GitLab senior leader or executive sends the email. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
 
-*The following are some suggested dates and times - if there is a better day or time please let us know and I will get the invite on to the calendar.*
+> Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.
+>
+> (Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:
+>
+> - Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes
+> - Collect and discuss future goals and desired success measures
+> - Discuss product use cases of interest and/or future roadmap items
+> - Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)
+>
+> Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes.
+>
+> Please let me know if you have any questions.
 
-
-
-##### The following is an example for when a GitLab senior leader or executive sends the email. Some language would need to be modified for the specifics of the account (e.g., collect or refine objectives, goals of the meeting, the expected time for EBR). This is intended to be an example, not a cut and paste.
-
----
-
-*Introducing myself, I'm the (insert role) at Gitlab and would like to personally thank you for your business and trust in Gitlab.*
-
-*(Insert TAM name), your TAM, has shared with me several updates regarding our amazing partnership and the rapid adoption of GitLab at Centene.  I would like to personally invite you to an Executive Business Review (EBR) that is a key part of our engagement and collaboration. Some key objectives include:* 
-
-- *Review our combined progress on delivering to your goals and business outcomes, holding us to account to deliver expected value, and celebrating achievements and successes*
-- *Collect and discuss future goals and desired success measures*
-- *Discuss product use cases of interest and/or future roadmap items*
-- *Provide an update on our delivery to your needs (e.g., delivery to your enhancement requests, support cases and SLA)*
-
-*Ultimately, we seek to ensure we're aligned on the path forward to continue delivering to your business needs with the GitLab platform. If you're open to it, we will coordinate with you to find a time that best suits your availability. The EBRs typically take between 90-120 minutes.*
-
-*Please let me know if you have any questions.*
-
----
-
-### EBRs in Gainsight
+## EBRs in Gainsight
 
 A [CTA in Gainsight](/handbook/customer-success/tam/gainsight/#ctas) that will automatically open seven months before renewal, with a due date of 45 days later to give time to schedule, prepare for and conduct the EBR. If doing a more frequent business review, please manually open a CTA, and within this CTA, open the "EBR" playbook. The CTA is where you will track the completion of tasks necessary for a successful EBR.
 
 If no progress has been made on the CTA (no tasks have been completed) and there are less than 2 months before renewal, the CTA will be closed automatically. Alternatively, if you do not plan to hold the EBR within the next quarter, please close the CTA, chosing the appropriate close reason and including additional context in the CTA details.
 
-### How to prepare an EBR
+## How to prepare an EBR
 
-#### EBR Training Certification 
+### EBR Training Certification 
 Follow this link to access the EBR certification on EdCast: [Click here](https://gitlab.edcast.com/pathways/tam-executive-business-reviews)
 
-#### Content
+### Content
 
 EBRs typically consists of the following content:
 
@@ -107,15 +103,16 @@ Also to be considered:
 
 [Usage ping](https://docs.gitlab.com/ee/development/usage_ping/) can provide data to build the usage and growth story. If usage ping is not enabled, a [payload](https://docs.gitlab.com/ee/development/usage_ping/#usage-ping-payload) may be periodically requested from the customer. Extracting the payload is a simple process and only takes about 30 seconds. Some examples included in this data are historical and current user count, and CI build history. Please note usage ping only goes back 6 months, so it's worthwhile to keep old data for comparison in future EBRs.
 
-#### Before the call
+### Before the call
 
 Besides creating the deck, there are a few other items to consider to ensure your EBR will go as smoothly as possible.
 
 1. Ask someone else who will be on the call (e.g. your manager) to take notes and create a Google doc for notes in the customer folder. Having a dedicated notetaker ensures that you're able to effectively lead the conversation as well as focus on your content instead of switching between windows.
 1. There are usually specific product areas that customers have special interest in, and having the Product Manager for that area on the call can be incredibly valuable. Once you've scheduled the EBR and determined which PM would be most appropriate, reach out to the PM to ask if they are available and willing to join the presentation with an overview of recently delivered product functionality, as well as what features will be coming within the next year. Also set expectations for the time commitment expected from them; for example, 15 or 30 minutes at the end of the EBR. Once you've confirmed their availability, add them to the calendar invite and share your deck with them and add a dedicated section of the deck for them to add slides to. Make sure you follow up 48 hours in advance of the EBR if they haven't added their content.
 
-#### EBR Examples
+### EBR Examples
 
 To create the content for the EBR, please review the [EBR Template](https://docs.google.com/presentation/d/1Ubfsa7GgU7XEtr0IuPDaDA9s5dkm64u26T0Me08WP68/edit).  Note this template is aimed at EBRs 60-90 minutes in length, and the account team may want to consider adding or removing elements depending on most relevant content and time allotted. Please watch the [EBR interview](https://www.youtube.com/watch?v=luxIdKtGB_s&ab_channel=GitLabUnfiltered) for a walkthrough of the three major components of an EBR and tips & tricks on successful delivery!
 
 There are also several examples EBR decks and past recordings linked in the [playbook](https://docs.google.com/spreadsheets/d/1nGjXMaeAFWEOGdsm2DPW-yZEIelG4sy46pX9PbX4a78/edit#gid=0) (Internal Only Link) and [EBR in a Box](https://docs.google.com/presentation/d/1V3wzIZ9j6pVUbXpSeJgA_Lk-97C7_vr8NUJWk4J0__s/edit?usp=sharing) (Internal Only Link) for TAMs and other GitLab team members to review and take inspiration from (please keep all customer-specific content confidential).
+
