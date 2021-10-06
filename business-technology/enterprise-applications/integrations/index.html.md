@@ -18,7 +18,7 @@ title: "Enterprise Applications Integrations"
 
 1. [Milestone board](https://gitlab.com/groups/gitlab-com/-/boards/1937586){:target="_blank"}
 1. [Integrations Work tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work/-/issues){:target="_blank"}
-1. [Integrations Platform (Nexus)](./nexus){:target="_blank"}
+1. [Integrations Platform (Platypus)](./platypus){:target="_blank"}
 
 ## How we work
 To learn about our processes please visit the [How We Work](./how-we-work) page
@@ -53,11 +53,11 @@ Slack: `#bt-integrations`
 We are the team that designs, builds and maintains the complex ecosystem of integrations and automations that exist in our Enterprise Applications ecosystem. We do this via the use of a hybrid integrations platform. We also fill a governance role in the organization for system integrations and real-time data flow by applying [standards and conventions](#standards-and-conventions) for all of our Enterprise Application systems and integrations.
 
 ### GitLab's Hybrid Integrations Platform
-At GitLab we have a hybrid integrations platform philosophy. Our core integrations platform is Nexus. It's built with the open source Node.js framework [Nest.js](https://nestjs.com/){:target="_blank"} and maintained by the Integrations Engineering team. In addition to Nexus we also use an IPaaS platform called Workato.
+At GitLab we have a hybrid integrations platform philosophy. Our core integrations platform is Platypus. It's built with the open source Node.js framework [Nest.js](https://nestjs.com/){:target="_blank"} and maintained by the Integrations Engineering team. In addition to Platypus we also use an IPaaS platform called Workato.
 
 <p style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-    <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus" target="_blank">
-        <img style="padding: 5px" src="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/raw/master/logos/logowidecropped.svg" width="400px">
+    <a href="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus" target="_blank">
+        <img style="padding: 5px" src="https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/raw/master/logos/logowidecropped.svg" width="400px">
     </a>
     <i class="fas fa-plus" style="font-size: 2em; margin-top: 10px; margin-bottom: 10px"/>
     <a href="https://www.workato.com/" target="_blank">
@@ -96,7 +96,7 @@ Through our integration with Workato we are able to offer out of the box connect
 We ship logs from all of our integrations to a central location which allows us to quickly and easily debug problems with integrations, as well as trigger automated alerts for system outages and errors.
 
 #### Security
-The Nexus integrations platform provides out of the box solutions for common authentication and authorization requirements that we frequently encounter. We can also provide guarantees about data security at rest and in-flight through regular application security audits as well as CI/CD driven SAST and DAST testing that exposes critical vulnerabilities to us before code reaches production.
+The Platypus integrations platform provides out of the box solutions for common authentication and authorization requirements that we frequently encounter. We can also provide guarantees about data security at rest and in-flight through regular application security audits as well as CI/CD driven SAST and DAST testing that exposes critical vulnerabilities to us before code reaches production.
 
 We are set up to handle [Red, Orange and Yellow data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) so that you don't need to worry about that when we're building out your integrations.
 

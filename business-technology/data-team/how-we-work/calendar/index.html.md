@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Data Team Calendar"
+title: "Data Team Calendar - Meetings"
 description: "GitLab Data Team Calendar"
 ---
 
