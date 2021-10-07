@@ -892,7 +892,7 @@ Note: Completed courses is equal to total completions of Journeys and Pathways i
 
 **Report 7: Courses completed by non-team members**
 
-1. Open [total courses completed by non-team members all time/per month report](https://edcast-536.domo.com/page/2188975)
+1. Open [total courses completed by non-team members all time/per month report](https://edcast-536.domo.com/page/2188975/kpis/details/276276984)
 1. Confirm `Non-GitLab` filter is applied to remove team members from total count
 1. Add total completions for Pathway and Journey for the desired month
 
