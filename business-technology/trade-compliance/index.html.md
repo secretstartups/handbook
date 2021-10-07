@@ -55,7 +55,7 @@ title: "Trade Compliance"
 - IP Addresses from the embargoed country list are [blocked from accessing the portal using Geo location data to nginx](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/7439) and [will see message](https://gitlab.com/gitlab-org/customers-gitlab-com/issues/600)
     > In light of the recent discussions around blocking of US-sanctioned countries, we wanted to remind our customers that GitLab is unable to conduct business with individuals or companies located in US embargoed countries, including Crimea, Cuba, Iran, North Korea, Sudan and Syria.
     > This is required under US Export Regulations, as well as, our status as a federal contractor.
-    > For more information, please visit our [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics) page
+    > For more information, please visit our [Code of Business Conduct & Ethics](/handbook/legal/gitlab-code-of-business-conduct-and-ethics/) page
     >
     > If you feel you have reached this page in error, please contact [GitLab Support](https://support.gitlab.com/hc/en-us)
 

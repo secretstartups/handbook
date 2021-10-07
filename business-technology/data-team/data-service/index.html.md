@@ -14,7 +14,7 @@ description: "Data Team Services"
 
 ## Special Event On-Call
 
-**Special Event On-Call** is a service provided by the Data Team tp provide an expedited rapid response capability when needed for short duration special events, such as an [executive planning session](/company/offsite). Because the On-Call service requires significant effort and coordination to support, it is used rarely. The Data Team may not always be able to fulfill On-Call requests due to existing commitments and staff availability.
+**Special Event On-Call** is a service provided by the Data Team tp provide an expedited rapid response capability when needed for short duration special events, such as an [executive planning session](/company/offsite/). Because the On-Call service requires significant effort and coordination to support, it is used rarely. The Data Team may not always be able to fulfill On-Call requests due to existing commitments and staff availability.
 
 ### How Does It Work?
 

@@ -16,18 +16,18 @@ description: "GitLab Data Team Platform"
 
 ## <i class="fas fa-map-marked-alt fa-fw" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>Quick Links
  
-- [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure)
-- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines)
-- [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs)
-- [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide)
-- [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw)
-- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide)
-- [Permifrost](/handbook/business-technology/data-team/platform/permifrost)
-- [Python Guide](/handbook/business-technology/data-team/platform/python-guide)
-- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope)
-- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide)
-- [Snowplow](/handbook/business-technology/data-team/platform/snowplow)
-- [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide)
+- [Data Infrastructure](/handbook/business-technology/data-team/platform/infrastructure/)
+- [Data pipelines](/handbook/business-technology/data-team/platform/pipelines/)
+- [Data CI Jobs](/handbook/business-technology/data-team/platform/ci-jobs/)
+- [dbt Guide](/handbook/business-technology/data-team/platform/dbt-guide/)
+- [Enterprise Data Warehouse](/handbook/business-technology/data-team/platform/edw/)
+- [Jupyter Guide](/handbook/business-technology/data-team/platform/jupyter-guide/)
+- [Permifrost](/handbook/business-technology/data-team/platform/permifrost/)
+- [Python Guide](/handbook/business-technology/data-team/platform/python-guide/)
+- [Sisense (Periscope)](/handbook/business-technology/data-team/platform/periscope/)
+- [Sisense Style Guide](/handbook/business-technology/data-team/platform/sisense-style-guide/)
+- [Snowplow](/handbook/business-technology/data-team/platform/snowplow/)
+- [SQL Style Guide](/handbook/business-technology/data-team/platform/sql-style-guide/)
 
 ## <i class="fas fa-cubes fa-fw" style="color:rgb(252,109,38); font-size:.85em" aria-hidden="true"></i>Our Data Stack
 
@@ -204,7 +204,7 @@ All SAFE Data are stored in tables within seperate database schemas in Snowflake
 To gain access to SAFE Data:
 
 1. Create an [Access Request](https://gitlab.com/gitlab-com\team-member-epics/access-requests/-/issues\new?issuable_template=Individual_Bulk_Access_Request) and provide your needs and intent.
-2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/data-catalog) in Sisense, that is not older than 60 days. Skip this step and link to the particular AR.
+2. Request approval from your immediate manager, your Departmental VP (or equivalent), and the SAFE Space Owner defined in the [GitLab Dashboard Index](https://app.periscopedata.com/app/gitlab/910238/GitLab-Dashboard-Index) header. Approval is **not needed**, if you have an approval for SAFE Data [access](/handbook/business-technology/data-team/data-catalog/) in Sisense, that is not older than 60 days. Skip this step and link to the particular AR.
 3. Once the request is approved, tag the Snowflake [provisioners](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/tech_stack.yml) and they will process the request.
 4. After processing is complete you will be able to access SAFE Data (schemas) in Snowflake.
 

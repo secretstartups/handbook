@@ -203,14 +203,14 @@ You can view the issues with these labels on the [BT Eng Infra - Managed Service
 <a href="https://gitlab.com/groups/gitlab-com/-/merge_requests?label_name%5B%5D=bt-infra-service%3A%3Ainfra-standards">Epics</a>
 </td>
 </tr>
-<!-- bt-infra-service::nexus -->
+<!-- bt-infra-service::platypus -->
 <tr>
-<td><code>bt-infra-service::nexus</code></td>
-<td><small>Applied to all BT Enterprise Apps Integrations Project Nexus infrastructure related issues.</small></td>
+<td><code>bt-infra-service::platypus</code></td>
+<td><small>Applied to all BT Enterprise Apps Integrations Project Platypus infrastructure related issues.</small></td>
 <td>
-<a href="https://gitlab.com/groups/gitlab-com/-/issues?label_name%5B%5D=bt-infra-service%3A%3Anexus">Issues</a><br />
-<a href="https://gitlab.com/groups/gitlab-com/-/merge_requests?label_name%5B%5D=bt-infra-service%3A%3Anexus">Merge Requests</a><br />
-<a href="https://gitlab.com/groups/gitlab-com/-/merge_requests?label_name%5B%5D=bt-infra-service%3A%3Anexus">Epics</a>
+<a href="https://gitlab.com/groups/gitlab-com/-/issues?label_name%5B%5D=bt-infra-service%3A%3Aplatypus">Issues</a><br />
+<a href="https://gitlab.com/groups/gitlab-com/-/merge_requests?label_name%5B%5D=bt-infra-service%3A%3Aplatypus">Merge Requests</a><br />
+<a href="https://gitlab.com/groups/gitlab-com/-/merge_requests?label_name%5B%5D=bt-infra-service%3A%3Aplatypus">Epics</a>
 </td>
 </tr>
 <!-- bt-infra-service::sandbox-cloud -->

@@ -120,13 +120,13 @@ It is important to distinguish that Access Manager automates the provisioning pr
 * [Handbook Page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/)
 * [Issue Tracker](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/integrations-work)
 * [Project Repositories](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations)
-* [Related - Project Nexus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/nexus/#nexus-distilled)
+* [Related - Project Platypus](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/platypus/#platypus-distilled)
 
-The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Nexus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaas).
+The Enterprise Applications Integrations team designs, builds, and maintains the complex ecosystem of automations that exist in our Enterprise Applications ecosystem using a hybrid of custom developed code in our Platypus codebase (powered by [Nest.js](https://nestjs.com/)) and/or Workato integrations platform-as-a-service (IPaas).
 
-In FY21-Q3, we launched v1.0 of Nexus. This release includes all of the work we’ve done so far to stand up Nexus and get it ready for projects. Going forward release versions will be bumped at the end of our monthly milestones and include the changelog of the work done in that milestone. We are releasing code to production on a daily basis, these versions just serves as a marker to capture a snapshot of the work we’ve done in each milestone. 
+In FY21-Q3, we launched v1.0 of Platypus. This release includes all of the work we’ve done so far to stand up Platypus and get it ready for projects. Going forward release versions will be bumped at the end of our monthly milestones and include the changelog of the work done in that milestone. We are releasing code to production on a daily basis, these versions just serves as a marker to capture a snapshot of the work we’ve done in each milestone. 
 
-You can learn more about Nexus and our capabilities and offerings on our [handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/) or ask in the `#bt-integrations` Slack channel.
+You can learn more about Platypus and our capabilities and offerings on our [handbook page](https://about.gitlab.com/handbook/business-technology/enterprise-applications/integrations/) or ask in the `#bt-integrations` Slack channel.
 
 ## Infrastructure Engineering
 

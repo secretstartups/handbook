@@ -19,7 +19,7 @@ title: "Integrations SDLC Process"
 - [Integration Planning Board](https://gitlab.com/groups/gitlab-com/-/boards/3224617)
 - [Integration Kanban Board](https://gitlab.com/groups/gitlab-com/-/boards/2031131?milestone_title=22%20-%20BT%20EntApps%20-%202021-09-07&label_name%5B%5D=BT%20Integrations%3A%3AKanban)
 - [Backlog filter](https://gitlab.com/groups/gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=BT%20Integrations%3A%3ABacklog)
-- [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus)
+- [Platypus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus)
 
 
 ## SDLC
@@ -47,13 +47,13 @@ Another artifact of this phase would be a UAT plan primarily developed by the te
 > "A user story is a promise for a conversation" - Alistair Cockburn
 
 #### [Phase 2 - Design](../../bsa/#design)
-User stories would be converted into sub-epics of the main project with each specification being documented on the epics. These epics will live in the [Gitlab.com group](https://gitlab.com/gitlab-com). The engineering team will create various design documents and break down the specifications into engineering issues. Issues are the smallest unit of work. They are created in the [Nexus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/issues)
+User stories would be converted into sub-epics of the main project with each specification being documented on the epics. These epics will live in the [Gitlab.com group](https://gitlab.com/gitlab-com). The engineering team will create various design documents and break down the specifications into engineering issues. Issues are the smallest unit of work. They are created in the [Platypus Project](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/issues)
 
-Note: In order to correctly associate changes to their respective projects; merge requests in the Nexus project must have an issue number in their title. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/merge_requests/25)
+Note: In order to correctly associate changes to their respective projects; merge requests in the Platypus project must have an issue number in their title. For example: [WIP: #20 Ship coverage report artifact from tests](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/merge_requests/25)
 
 These issues are then added to the [BT Integrations Planning board](https://gitlab.com/groups/gitlab-com/-/boards/3224617) via label `BT Integrations::Backlog`. Good practice is to use additional labels to define the priority like BT Priority 1, 2, 3 and the nature of work like Field Marketing, Finance Systems or Bug. The board comes in handy while planning for the engineering [milestones](../how-we-work/#3-milestone-process), because we can select backlog items to bring into current or future milestones based on project and issue priority.
 
-The engineers will also deliver a design document, which will be placed in the [team wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/nexus/-/wikis/integrations-list) before this phase is complete.
+The engineers will also deliver a design document, which will be placed in the [team wiki](https://gitlab.com/gitlab-com/business-technology/enterprise-apps/integrations/platypus/-/wikis/integrations-list) before this phase is complete.
 
 A privacy review and Appsec review **MUST** be initiated in this phase at the latest in order for those to be complete before the feature goes live.
 

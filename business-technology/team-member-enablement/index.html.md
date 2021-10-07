@@ -24,12 +24,12 @@ title: "Team Member Enablement"
 #### Access Requests
 
 - For information about the access request policies and security guidelines, please refer to the Security Team's [access request handbook page section](/handbook/engineering/security/#access-management-process).
-- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests).
+- For links to role based access request templates, system access templates, and other general instructions and FAQs, please refer to the [Access Requests page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/).
 
 #### Baseline & Role-Based Entitlements
 
-- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements).
-- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements#how-do-i-create-a-role-based-entitlement-template).
+- For information about baseline entitlements and role-based access, please refer to the [baseline entitlements handbook page](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/).
+- For information on how to create a Role-Based Entitlement, please refer to the [instructions on how to create role-based entitlements](/handbook/business-technology/team-member-enablement/onboarding-access-requests/access-requests/baseline-entitlements/#how-do-i-create-a-role-based-entitlement-template).
 
 #### Automated Group Membership Reports for Managers
 
@@ -52,7 +52,7 @@ Please visit the GitLab Onboarding and machine management [handbook page](/handb
 
 #### Self-help and troubleshooting
 
-Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting)
+Experiencing some issues with your machine, access to systems, 2FA or other IT related issues? Please visit our [self-help and troubleshooting handbook page](/handbook/business-technology/team-member-enablement/self-help-troubleshooting/)
 
 ## <i class="fas fa-rocket" id="biz-tech-icons"></i> Mission Statement
 
