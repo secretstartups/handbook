@@ -112,7 +112,7 @@ In Network:
 | Plan Details               | [Cigna - HSA](https://drive.google.com/file/d/1snzJv2JsItipBS12ueibzedjZMgLjs_e/view?usp=sharing)  | [Cigna EPO (PPO $0)**](https://drive.google.com/file/d/147z46SlhXLGUhoXVjQTxI7Qs5ROL6ZLr/view?usp=sharing) | [Cigna PPO 500***](https://drive.google.com/file/d/1utEEBXzbvIY4guFt0asM86waDWVMdLHQ/view?usp=sharing)       |
 |:---------------------------|:----------------------:|:------------------:|:-----------------:|
 | Deductible (Single/Family) | $2,000 / $2,800        | $0 / $0            | $500 / $1,000     |
-| OOP Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
+| Out of Pocket Max (Single/Family)    | $4,000 / $8,000        | $2,500 / $5,000    | $3,000 / $6,000   |
 | Primary Care Visit         | 20%                    | $20 per visit      | $20 per visit     |
 | Specialist Visit           | 20%                    | $20 per visit      | $20 per visit     |
 | Urgent Care                | 20%                    | $50 per visit      | $50 per visit     |
@@ -124,7 +124,7 @@ In Network:
 | Brand - Non-Preferred      | $50                    | $50                | $50               |
 | Rx Plan^                   | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) | [Standard 3-tier](https://www.cigna.com/static/www-cigna-com/docs/individuals-families/member-resources/prescription/standard-3-tier.pdf) |
  
-** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an OOPM of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.
+** In order for the EPO plan to be compliant in all states, it has been set up as a PPO plan with bad out-of-networks benefits including a deductible of $10k/$20k, an Out of Pocket Max of $20k/$40k, and a coinsurance of 50%. Please do not enroll in this plan if you are intending to use the out-of-networks benefits and instead review the Cigna PPO 500 or Cigna HSA plans.
  
 *** Cigna will provide an extended network PPO Plan for Utah team members which will include the Intermountain Healthcare System.
  
@@ -181,7 +181,7 @@ In addition to the Cigna plans offered above, the following plans are also an op
 | Plan Details               | [HMO 20 NorCal](https://drive.google.com/file/d/1kgJGxaVfAwdN5E2fD0gbzKFWW1eCyU56/view?usp=sharing)       | [HMO 20 SoCal](https://drive.google.com/file/d/1UtnmvtKmn4PKETOphAQ7e54lYu32NGb_/view?usp=sharing)    | [HMO 20 CO](https://drive.google.com/file/d/1MuG9MQumOq3OjAMtwjil33RKkWdNrAa7/view?usp=sharing)     | [HMO 20 HI](https://drive.google.com/file/d/1oLiQJkVcb2YLuvB-adEJPwf4knM1R9J3/view?usp=sharing)       |
 |----------------------------|:--------------------:|:---------------:|:---------------:|:---------------:|
 | Deductible (Single/Family) | $0 / $0              | $0 / $0         | $0 / $0         | $0 / $0         |
-| OOP Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
+| Out Of Pocket Max (Single/Family)    | $1,500 / $3,000      | $1,500 / $3,000 | $2,000 / $4,000 | $2,500 / $7,500 |
 | PCP/Specialist Copay       | $20 / $35            | $20 / $35       | $20 / $35       | $15 / $15       |
 | Emergency Room             | $100                 | $100            | $250            | $100            |
 | Urgent Care                | $20                  | $20             | $50             | $15             |
@@ -232,7 +232,7 @@ When submitting a claim, you can mail it to Cigna Dental PO Box 188037 Chattanoo
  
 | Plan Details                         | [DPPO](https://drive.google.com/file/d/1s8x3BJ36hJ5gU-vn29dQSOFVkhvm1rH4/view?usp=sharing)       | 
 |--------------------------------------|:----------:|
-| Deductible                           | $50 / $150 |
+| Deductible (Single/Family)                          | $50 / $150 |
 | Maximum Benefit                      | $2,000     |
 | Preventive Care CoInsurance (in/out) | 0% / 0%    |
 | Basic Care Coinsurance (in/out)      | 20% / 20%  |
@@ -277,7 +277,7 @@ When submitting a claim, you can mail it to Cigna Vision PO Box 385018 Birmingha
  
 | Plan Details                      | [Vision](https://drive.google.com/file/d/1iqeSHND7WzTouvP-Rzc6kw8THxz2DlDL/view?usp=sharing)       | 
 |-----------------------------------|:------------:|
-| Frequency of Services             | 12 / 12 / 12 |
+| Frequency of Services             | 12 months   |
 | Copay Exam                        | $20          | 
 | Copay Materials                   | -            |
 | Single Vision                     | $0           | 
