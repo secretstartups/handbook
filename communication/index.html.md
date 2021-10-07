@@ -995,7 +995,7 @@ We use it for activities in GitLab, even ones not implemented in software.
 
 By having ubiquitous words to identify concepts we prevent confusion over what is meant, for example we refer to [parts of our organization](/company/team/structure/) as a function, department, or group depending on exactly what is meant.
 
-Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](//handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
+Make sure that domains don't overlap, for example [organization size](/handbook/sales/#organization-size) and [deal size](/handbook/sales/sales-term-glossary/) don't reuse words to prevent overlap.
 
 If a term is ambiguous don't use it, for example our [hiring definitions](/handbook/hiring/vacancies/#definitions) have roles and vacancies but avoid the ambiguous word job.
 
