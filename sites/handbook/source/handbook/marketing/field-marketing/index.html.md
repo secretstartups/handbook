@@ -679,6 +679,7 @@ This section will continue to be fleshed out as we rollout to the global Field M
 The following is the process for when a Field Marketing issue moves from `mktg-status::plan` to `mktg-status::wip`.
 
 - FMM pings the FMC in the main Field Marketing issue and requests the FMC move the issue to WIP and keeps issue label `mktg-status::plan`. **Reminder:** Event Details and FMC Checklist must be filled out in full and line item complete in Allocadia to request moving an issue to WIP.
+- FMC reviews the Allocadia details panel for the tactic (category/sub-category/line item, depending on which will be utilized for creating the SFDC campaign) and makes any changes necessary
 - FMC confirms the campaign tag or Allocadia ID has been created
 - FMC creates the epic and sub-issues utilizing [this list of epics](/handbook/marketing/field-marketing/#field-marketing-campaign-issue-templates-epic-codes-and-progression-status)
 - FMC adds the event to the appropriate events calendar. All events should be added to the internal calendar.
