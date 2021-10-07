@@ -17,63 +17,115 @@ performant configurations.
 ## Reference Architectures
 
 To ensure that self-managed customers have performant, reliable, and scalable on-premise
-configurations, the Quality Department is creating several reference architectures. Our goal is to
-provide tested and verified examples to customers which can be used to ensure good performance and
+configurations, the Quality Department has built and verified [Reference Architectures](https://docs.gitlab.com/ee/administration/reference_architectures/).
+The goal is to provide tested and verified examples to customers which can be used to ensure good performance and
 give insight into what changes need to be made as organizations scale.
 
-| Users | Status           | Link to more info |
-|-------|------------------|-------------------|
-| 2.5k  | To Do (Q4)       | [Issue link](https://gitlab.com/gitlab-org/quality/performance/issues/58) |
-| 10k   | Complete         | [Documentation link](https://docs.gitlab.com/ee/administration/reference_architectures/index.html) |
-| 25k   | In Progress (Q3) | [Issue link](https://gitlab.com/gitlab-org/quality/performance/issues/57) |
-| 50k   | In Progress (Q3) | [Issue link](https://gitlab.com/gitlab-org/quality/performance/issues/66) |
+[Reference Architectures](https://gitlab.com/gitlab-org/quality/reference-architectures) project is used to track all work related
+to GitLab Reference Architectures and [`#reference-architectures`](https://gitlab.slack.com/archives/C015V8PDUSW) Slack channel is used for 
+discussions related to the Reference Architectures.
+
+| Users      | Status            | Link to more info                                                                                                                                                         |
+|------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)                                                                          |
+| 1k hybrid  | In Progress (Q4)  | [Issue link](https://gitlab.com/gitlab-org/quality/reference-architectures/-/issues/19)                                                                                   |
+| 2k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html)                                                                          |
+| 2k hyrbid  | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative)  |
+| 3k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html)                                                                          |
+| 3k hyrbid  | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative)  |
+| 5k         | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/5k_users.html)                                                                          |
+| 5k hyrbid  | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/5k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative)  |
+| 10k        | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html)                                                                         |
+| 10k hyrbid | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) |
+| 25k        | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/25k_users.html)                                                                         |
+| 25k hyrbid | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/25k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) |
+| 50k        | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/50k_users.html)                                                                         |
+| 50k hyrbid | Complete          | [Documentation](https://docs.gitlab.com/ee/administration/reference_architectures/50k_users.html#cloud-native-hybrid-reference-architecture-with-helm-charts-alternative) |
+| 100k       | To Do (on demand) | [Issue link](https://gitlab.com/gitlab-org/quality/reference-architectures/-/issues/6)                                                                                    |
+
 
 ## Performance Tool
 
 We have created the [GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance)
-which measures the performance of various endpoints under load as well as web rendering performance
-using SiteSpeed. This Tool is in use internally within GitLab, but it is also available for
+which measures the performance of various endpoints under load. 
+This Tool is in use internally within GitLab, but it is also available for
 self-managed customers to set up and run in their own environments.
 
 If you have a self-managed instance and you would like to use the Tool to test its performance,
 please take a look at the documentation in the
 [Tool's README file](https://gitlab.com/gitlab-org/quality/performance/blob/master/README.md).
 
-### Daily Testing Process
+More detailed information about the current test list that is run by GPT
+can be viewed at the [Test Details wiki page](https://gitlab.com/gitlab-org/quality/performance/wikis/current-test-details).
 
-Once a day, the GitLab Performance Tool is run against the existing reference architecture using
-a recent or the latest release of GitLab. This allows us to catch and triage degradations early in
+### Testing Process
+
+The GitLab Performance Tool is run against the existing reference architectures using
+the latest Nightly release of GitLab. This allows us to catch and triage degradations early in
 the process so that we can try to implement fixes before a new release is created. If problems are
 found, issues are created for degraded endpoints and are then prioritized during the weekly
-[Availability & Performance Refinement](../../#availability-and-performance-refinement) meeting.
+[Bug Refinement](../#bug-refinement) meeting.
+
+High-level GPT pipeline overview:
+- Update environment job: starts up and updates the target environment from [Quality Config](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit-configs/quality) with the latest Nightly using [GitLab Environment Toolkit](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+- Test job: runs performance [tests](https://gitlab.com/gitlab-org/quality/performance/wikis/current-test-details) against the environment 
+- Report job: publishes results to [GPT Wiki](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) and [`#qa-performance`](https://gitlab.slack.com/archives/CH8J9EG49) Slack channel
+- Stop job: [stops](https://cloud.google.com/compute/docs/instances/stop-start-instance) the target environment instances to save costs
 
 ### Testing Results
 
 The latest results against our various testing environments are automatically posted to
-[a wiki page in the Performance project](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest).
+[a wiki page in the Performance project](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest)
+and [`#qa-performance`](https://gitlab.slack.com/archives/CH8J9EG49) Slack channel.
 
-In Q3, the Quality Department has a goal of automating the testing process so that each new monthly
-release is tested and compared to the release before it. Work on this project is ongoing and is
-prioritized after the creation of the 25k and 50k reference environments described above. You can
-track progress on this quarterly goal using
-[our OKR issue](https://gitlab.com/gitlab-com/www-gitlab-com/issues/4852).
+| Environment                                                                             | GCP project                                                                         | Load                                                                 | Schedule                                                                                | Latest results and server metrics                                                           |
+|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| [1k](https://docs.gitlab.com/ee/administration/reference_architectures/1k_users.html)   | [1k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-1k-0917a1)   | API: 20 RPS, Web: 2 RPS, Git (Pull): 2 RPS, Git (Push): 1 RPS        | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [1k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/1k)   |
+| [2k](https://docs.gitlab.com/ee/administration/reference_architectures/2k_users.html)   | [2k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-2k-ca9f9e)   | API: 40 RPS, Web: 4 RPS, Git (Pull): 4 RPS, Git (Push): 1 RPS        | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [2k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/2k)   |
+| [3k](https://docs.gitlab.com/ee/administration/reference_architectures/3k_users.html)   | [3k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-3k-d0c40c)   | API: 60 RPS, Web: 6 RPS, Git (Pull): 6 RPS, Git (Push): 1 RPS        | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [3k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/3k)   |
+| [5k](https://docs.gitlab.com/ee/administration/reference_architectures/5k_users.html)   | [5k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-5k-0ee8fa)   | API: 100 RPS, Web: 10 RPS, Git (Pull): 10 RPS, Git (Push): 2 RPS     | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [5k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/5k)   |
+| [10k](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) | [10k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-10k-cd77c7) | API: 200 RPS, Web: 20 RPS, Git (Pull): 20 RPS, Git (Push): 4 RPS     | [Every weekday](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules) | [10k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/10k) |
+| [25k](https://docs.gitlab.com/ee/administration/reference_architectures/25k_users.html) | [25k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-25k-bc38fe) | API: 500 RPS, Web: 50 RPS, Git (Pull): 50 RPS, Git (Push): 10 RPS    | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [25k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/25k) |
+| [50k](https://docs.gitlab.com/ee/administration/reference_architectures/50k_users.html) | [50k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-50k-193234) | API: 1000 RPS, Web: 100 RPS, Git (Pull): 100 RPS, Git (Push): 20 RPS | [On Mondays](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules)    | [50k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/Latest/50k) |
+
+### Performance results comparison of different GitLab versions
+
+Every month on the 23rd a comparison [pipeline](https://gitlab.com/gitlab-org/quality/performance/-/pipeline_schedules/39211/edit)
+is triggered that provides peformance results comarison table of the last 5 GitLab versions.
+It builds GitLab docker container with the test data using [performance-images](https://gitlab.com/gitlab-org/quality/performance-images) project,
+runs GPT against the last 5 GitLab versions simultaniously, then it generates performance results summary.
+
+The latest results are automatically posted to [the GitLab versions wiki page](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions)
+in the GPT project and [`#qa-performance`](https://gitlab.slack.com/archives/CH8J9EG49) Slack channel.
 
 ### Expanding the Tool
 
-The endpoint coverage of the load tests in our Tool is not yet comprehensive. We have done a
-review of our common endpoints with an eye towards spotting the most highly used ones as well as the
-slowest ones. Issues have been created for our team to add these to the Tool, and we expect the
-addition of some of these will surface degraded endpoints which we'll need to send through
-performance refinement as defined in the [Daily Testing Process](#daily-testing-process).
+The Quality Department aims to enhance the GPT and performance test coverage.
+One of the goals is to release the GPT v3, you can track its progress in this [epic](https://gitlab.com/groups/gitlab-org/-/epics/4300).
+We plan to further increase the test coverage, especially in more complex areas like CI/CD and Registry.
 
-Additionally, the analysis that was performed was ad-hoc and we would like to define a process for
-conducting a review on some regular cadence, whether that is after every release, once a quarter, or
-some other timing. Because GitLab is constantly expanding and evolving, we need to iterate on our
-coverage in tandem.
+Additionally, we would like to define a process for conducting an endpoint coverage review on some regular cadence, 
+whether that is after every release, once a quarter, or some other timing.
+Because GitLab is constantly expanding and evolving, we need to iterate on our coverage in tandem.
 
 We've created [an epic](https://gitlab.com/groups/gitlab-org/quality/-/epics/10) to track the
 initial expansion as well as the work defining our recurring process for analyzing endpoints and
 verifying our coverage is adequate.
+
+Another area that Quality team would like to explore on is to [shift performance testing left](https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/570).
+
+## Browser Performance Tool
+
+We have created the [GitLab Browser Performance Tool](https://gitlab.com/gitlab-org/quality/performance-sitespeed)
+to specifically test web page frontend performance in browsers. More detailed information about 
+the current test pages list can be viewed at the [Test Details wiki page](https://gitlab.com/gitlab-org/quality/performance-sitespeed/-/wikis/Current-Test-Details).
+
+Testing process is similar to [GPT testing process](#testing-process). After 10k environment is updated to the latest Nightly,
+GBPT is run against the environment and then it's being shut down to save costs.
+
+| Environment                                                                             | GCP project                                                                         | Schedule                                                                                          | Latest results and dashboards                                                                  |
+|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [10k](https://docs.gitlab.com/ee/administration/reference_architectures/10k_users.html) | [10k](https://console.cloud.google.com/home/dashboard?project=gitlab-qa-10k-cd77c7) | [Every weekday](https://gitlab.com/gitlab-org/quality/performance-sitespeed/-/pipeline_schedules) | [10k wiki](https://gitlab.com/gitlab-org/quality/performance/-/wikis/Benchmarks/SiteSpeed/10k) |
 
 ## Performance Playbook
 

@@ -293,12 +293,11 @@ The [`qa/tools` directory](https://gitlab.com/gitlab-org/gitlab/blob/master/qa/q
 
 This script deletes SSH keys for a specific user. It can be executed via the `delete_test_ssh_keys` rake task in the `qa` directory.
 
-The rake task accepts two arguments that can be used to limit the keys that are deleted, and to perform a dry run.
+The rake task accepts three arguments that can be used to limit the keys that are deleted, and to perform a dry run.
 
 - The first argument, `title_portion`, limits keys to be deleted to those that include the string provided.
 - The second argument, `delete_before`, limits keys to be deleted to those that were created before the given date.
-
-There is a similar rake task, `delete_test_ssh_keys_dry_run`, that accepts the same arguments and performs a dry run, which lists all keys and indicates whether each will be deleted.
+- The third optional argument, `dry_run`, determines if the command will be executed as a dry run, summarizing the keys to be deleted. Set to `true` to execute as a dry run.
 
 Two environment variables are also required:
 

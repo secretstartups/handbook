@@ -39,7 +39,7 @@ An issue is considered completely triaged when:
 
 ## Priority
 
-The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, and capacity of the team.
+The priority label is used to indicate the importance and guide the scheduling of the issue. Priority labels are expected to be adjusted by the Product Manager based on the circumstances of the market, product direction, IACV impact, number of impacted users and capacity of the team.
 
 | Priority | Importance | Intention | DRI |
 | -------- | ---------- | --------- | --- |
@@ -56,9 +56,9 @@ The presence of bug category labels `~availability`, `~performance`, `~security`
 | Type of `~bug` | `~severity::1`: Blocker | `~severity::2`: Critical | `~severity::3`: Major  | `~severity::4`: Low | Triage DRI |
 |----------------|--------------------------|---------------------------|-------------------------|----------------------|------------|
 | General bugs   | Broken feature with no workaround. | Broken feature with an unacceptably complex workaround. | Broken feature with a workaround. | Functionality is inconvenient. | |
-| `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
-| `~performance` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
-| `~performance` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/secure-enablement-qe-team/) |
+| `~performance` Response time <br> (API/Web/Git)[^1] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 200ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/sec-enablement-qe-team/) |
+| `~performance` Browser Rendering <br> ([LCP](https://web.dev/lcp/))[^2] | Above 9000ms to timing out | Between 4000ms and 9000ms | Between 3000ms and 4000ms | Between 3000ms and 2500ms | [Enablement Quality Engineering team](/handbook/engineering/quality/sec-enablement-qe-team/) |
+| `~performance` Browser Rendering <br> ([TBT](https://web.dev/tbt/))[^2] | Above 9000ms to timing out | Between 2000ms and 9000ms | Between 1000ms and 2000ms | Between 300ms and 1000ms | [Enablement Quality Engineering team](/handbook/engineering/quality/sec-enablement-qe-team/) |
 | `~UX` User experience problem | "I can't figure this out." Users are blocked (or so confused that they believe they are blocked), and are likely to ask for support. | "I can figure out why this is happening, but it's really painful to solve." Users are significantly delayed by the available workaround. | "This still works, but I have to make small changes to my process." Users are self sufficient in completing the task with the workaround, but may be somewhat delayed. |  "There is a small inconvenience or inconsistency." Usability isn't ideal or there is a small cosmetic issue. | [Product Designers](/handbook/engineering/ux/product-design/) of that Product group |
 | `~availability` of GitLab SaaS | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | See [Availability section](#availability) | |
 | `~security` Security Vulnerability | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | See [Security Prioritization](/handbook/engineering/security/#severity-and-priority-labels-on-security-issues) | AppSec team |
@@ -146,7 +146,8 @@ These product groups also have a high sensitivity to GMAU. This product groups w
 
 #### Merge requests experience prioritization
 
-We need an elevated sense of action in this area. If a bug is related to the merge request experience, priority is tied to severity in the following manner:
+We need an elevated sense of action in this area. If a bug is related to the merge request experience it should have the labels `~UX` `~merge requests`. 
+Priority is tied to severity in the following manner:
 
 | MR UX bug severity | Allowed priorities | **Not-allowed priorities** |
 |-|-|-|

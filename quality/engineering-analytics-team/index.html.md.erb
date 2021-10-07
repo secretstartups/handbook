@@ -49,17 +49,20 @@ The team works on the following items ordered by usual importance
 * Support wider Eng Department with analysis & new metric requests
 * Improve our handbook pages iteratively, ensure that it’s up to date
 
+## Active Quarter OKRs
+
+<iframe src="https://app.ally.io/public/oSQLCGxCQxMUIHd" class="dashboard-embed" height="1000" width="100%" style="border:none;"> </iframe>
 
 ## Team Structure
 
-This new team will be a new function under the Quality Department operating as a team of Data Analysts, led by an Engineering Manager reporting to the Quality Department Leader.
+This new team will be a new function under the Quality Department operating as a team of Engineering Analysts, led by an Engineering Manager reporting to the Quality Department Leader.
 
 ```mermaid
 graph TD
     A[Quality Department]
     A --> B[Engineering Analytics Team]
-    B --> BA[Data Analyst]
-    B --> BB[Data Analyst]
+    B --> BA[Engineering Analyst]
+    B --> BB[Engineering Analyst]
     A --> CA(Quality Engineering teams)
     CA --> CAA[Software Engineer in Test]
     CA --> CAB[Software Engineer in Test]
@@ -71,6 +74,31 @@ graph TD
     style BA fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
     style BB fill:#bbf,stroke:#f66,stroke-width:2px, color:#fff
 ```
+## Key Reviews
+Key Reviews are meetings a department has with other GitLab team members to discuss any progress or updates related to KPIs & OKRs with the rest of the organization. More information can be found on the [Key Review Handbook Page](https://about.gitlab.com/handbook/key-review/)
+
+In Engineering our key reviews are handbook driven. Each department's KPIs are defined in www-gitlab-com repo under data/performance-indicators, & metrics are in handbook with URL structure like engineering/department/performance-indicators. For example, Infrastructure's full URL is https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators.
+
+### Performance Indicator DRI
+The Performance Indicator [DRI](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) is an optional attribute in the PI page `.yml` file that specifies an individual as the DRI for a particular KPI/PI. 
+
+The DRI is responsible for updating the health & health reasons for the metric. In cases where the health is at problem or attention level, the actions being taken to fix the metric should be specified. The DRI is also responsible for verifying the data & if needed talking with an analyst to make sure the metric is ready for the key review.
+
+The DRI is a delegation of responsibility for the things listed above from the respective department head, although the department head is still generally responsible for all of their PIs. 
+
+If no DRI is listed, the default DRI would be the department head.
+
+### Roles & Responsibilities
+
+#### Head of Engineering (CTO)
+This position is responsible for defining the division level PIs that are shared across departments or solely at Engineering Division level. They are also responsible for working with department heads on setting targets for these.
+
+#### Department Heads
+Department Heads in Engineering are generally responsible for their overall PI page & making sure they have what they need for the metrics before & after the key meetings.
+
+#### Engineering Analysts
+Our main role ias engineering analysts is to support department heads or DRI in creating or updating their metrics so that they can use them in the key meetings. 
+Your stable counterpart may also ask to delegate a set of metrics from their department to you so in that case you would also be the DRI for those metrics & assume the responsibilities listed above in DRI section
 
 ## How we Work
 
@@ -80,20 +108,20 @@ While this team operates as a single team reporting to one manager, we emphasize
 
 The team structure will leverage [stable counterpart](https://about.gitlab.com/handbook/leadership/#stable-counterparts) assignees to ensure proper allocation and attention needed to service all Engineering Departments and Leaders and still promote cross-functional collaboration and ownership of an area.
 
-We assign the stable counterpart by Engineering Division’s sub-departments. This is identified by the Engineering Department name assigned to an Analyst title. E.g. `Senior Data Analyst, Development`
+We assign the stable counterpart by Engineering Division’s sub-departments. This is identified by the Engineering Department name assigned to an Engineering Analyst title.
 
 | Eng Department | Analyst                                    | PI Page                                                                                              |
 |----------------|--------------------------------------------|------------------------------------------------------------------------------------------------------|
-| Engineering Org    | Team           |      [Eng PI Page](https://about.gitlab.com/handbook/engineering/performance-indicators) |
+| Engineering    | Team                                       |      [Eng PI Page](https://about.gitlab.com/handbook/engineering/performance-indicators) |
 | Development    | [Lily](https://gitlab.com/lmai1)           |      [Dev PI Page](https://about.gitlab.com/handbook/engineering/development/performance-indicators) |
 | Infrastructure | [Davis](https://gitlab.com/davis_townsend) | [Infra PI Page](https://about.gitlab.com/handbook/engineering/infrastructure/performance-indicators) |
-| Quality        | Team                                       |      [Quality PI Page](https://about.gitlab.com/handbook/engineering/quality/performance-indicators) |
-| Security       | Team                                       |    [Security PI Page](https://about.gitlab.com/handbook/engineering/security/performance-indicators) |
-| Support        | Team                                       |                  [Support PI Page](https://about.gitlab.com/handbook/support/performance-indicators) |
-| UX             | Team                                       |               [UX PI Page](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/) |
-| Incubation             | Team                                       |               [Incubation Page](https://about.gitlab.com/handbook/engineering/incubation/) |
+| Quality        | [Davis](https://gitlab.com/davis_townsend) |      [Quality PI Page](https://about.gitlab.com/handbook/engineering/quality/performance-indicators) |
+| Security       | [Davis](https://gitlab.com/davis_townsend) |    [Security PI Page](https://about.gitlab.com/handbook/engineering/security/performance-indicators) |
+| Support        | [Lily](https://gitlab.com/lmai1)           |                  [Support PI Page](https://about.gitlab.com/handbook/support/performance-indicators) |
+| UX             | [Lily](https://gitlab.com/lmai1)           |               [UX PI Page](https://about.gitlab.com/handbook/engineering/ux/performance-indicators/) |
+| Incubation     | [Lily](https://gitlab.com/lmai1)                                       |               [Incubation Page](https://about.gitlab.com/handbook/engineering/incubation/performance-indicators/) |
 
-Data analysts assigned to one area are experts in that area and may not have the knowledge depth in other areas. As such contributing cross domain expertise will only be limited to Sisense charting and not beyond this data layer.
+Engineering analysts assigned to one area are experts in that area and may not have the knowledge depth in other areas. As such contributing cross domain expertise will only be limited to Sisense charting and not beyond this data layer.
 
 ### Meetings and Scheduled Calls
 
@@ -108,7 +136,7 @@ Each Engineering department has a monthly or bi-monthly key review where e-group
 
 #### Weekly sync with stable counterparts
 
-The Data Analysts will hold weekly meetings with all Engineering department heads to:
+The Engineering Analysts will hold weekly meetings with all Engineering department heads to:
 * Review work prioritization
 * Capture strategic asks
 * Ensure completion of follow up for Key Reviews
@@ -147,6 +175,12 @@ The Engineering Analytics team uses scoped workflow labels to track different st
 | ![Waiting](img/label-waiting.png) | Team is waiting for dependency to complete work to continue progress, or work has been de-prioritized|
 | ![In Review](img/label-in-review.png) | Issue has been completed & work is under review by stakeholder|
 
+#### Prioritization Labels
+Right now we use a simple indicator of re-using the Priority 1 label if there is a high priority request that needs to be completed ASAP, or by the next key meeting.
+
+![Priority Label](img/priority-1.png) 
+
+
 ### How to Engage with Us
 
 Feel free to reach out to us by opening an issue on [Eng-Metric Issue Board](https://gitlab.com/gitlab-com/www-gitlab-com/-/boards/1942495?label_name[]=Engineering%20Metrics) or contacting us in one of the slack channels below
@@ -159,3 +193,12 @@ Feel free to reach out to us by opening an issue on [Eng-Metric Issue Board](htt
 | [eng-data-kpi](https://gitlab.slack.com/archives/C0166JCH85U) | Important Announcements related to Engineering Performance Indicators, & forum for external questions to team. |
 | [infrafin](https://gitlab.slack.com/archives/C013TFXAVAL) | For questions related specifically GitLab.com hosting cost or other general questions that overlap with infrastructure & finance |
 | [development_metrics](https://gitlab.slack.com/archives/C01236LHF1A) | For questions regarding Development Department metrics |
+
+## Performance Indicators
+
+### Engineering Analytics Team Handbook MR Rate
+
+The handbook is essential to working remote successfully, to keeping up our transparency, and to recruiting successfully. Our processes are constantly evolving and we need a way to make sure the handbook is being updated at a regular cadence. This is measured by Merge Requests that update the handbook contents related to the performance indicator pages, our team page, and engineering metrics pages.
+
+(<a href="https://app.periscopedata.com/shared/3b0299cf-1023-4a7a-a728-4b6754ba0077?" target="_blank">Sisense↗</a>)
+<embed width="100%" height="300" src="<%= signed_periscope_url(dashboard: 902602, chart: 12625524, embed: 'v2') %>">

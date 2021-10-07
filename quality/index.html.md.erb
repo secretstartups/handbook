@@ -1,10 +1,8 @@
 ---
 layout: handbook-page-toc
-title: Quality Engineering Department
+title: Quality Department
 description: >-
-  The Quality Engineering Department enables GitLab to achieve world class
-  enterprise grade readiness and empowers product and development teams to ship
-  software at scale without sacrificing quality.
+  The Quality Department in Engineering Division
 ---
 
 ## On this page
@@ -14,53 +12,67 @@ description: >-
 {:toc .hidden-md .hidden-lg}
 
 #### Child Pages
+{:.no_toc}
 
 ##### [On-boarding](/handbook/engineering/quality/onboarding/)
+{:.no_toc}
 
 ##### [Guidelines](/handbook/engineering/quality/guidelines/)
+{:.no_toc}
 
 ##### [Issue triage](/handbook/engineering/quality/issue-triage/)
+{:.no_toc
 
 ##### [Wider Community Merge Request triage](/handbook/engineering/quality/merge-request-triage/)
+{:.no_toc}
 
 ##### [Performance Indicators](/handbook/engineering/quality/performance-indicators/)
+{:.no_toc}
 
 ##### [Performance and Scalability](/handbook/engineering/quality/performance-and-scalability/)
+{:.no_toc}
 
 ##### [Project Management](/handbook/engineering/quality/project-management/)
+{:.no_toc}
 
 ##### [Quad Planning](/handbook/engineering/quality/quad-planning/)
+{:.no_toc}
 
 ##### [Roadmap](/handbook/engineering/quality/roadmap/)
+{:.no_toc}
 
 ##### [Test Engineering](/handbook/engineering/quality/test-engineering/)
+{:.no_toc}
 
 ##### [Triage Operations](/handbook/engineering/quality/triage-operations/)
+{:.no_toc}
 
 ##### [Risk Mapping](/handbook/engineering/quality/risk-mapping/)
+{:.no_toc}
+
+## Mission
+
+GitLab's Quality is everyone's responsibility. The Quality Department ensures that everyone is aware of what the Quality of the product is, empirically.
+In addition, we empower our teams to ship world class enterprise software at scale with quality & velocity.
 
 ## Our principles
 
-GitLab's Quality is everyone's responsibility. The Quality Department ensures that everyone is aware of what the Quality of the product is, empirically.
-
 - **Foster an environment where Quality is Everyone's responsibility.**
     - We enable product teams in baking quality early in the product development flow process.
-    - We are a sounding-board for our end users by making their feedback known to product teams.
-    - We are a champion for better software design, promote proper testing practices and bug prevention strategies.
-- **Drive test coverage and leverage tests at all [levels](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).**
-    - We work to ensure that the right tests are run at the right places.
-    - We enable product teams to be aware of the test coverage in their domain.
-    - We work to enable fast, clear and actionable test reporting.
-- **Ensure that teams are efficient and productive.**
-    - We build automated solutions to improve Engineering workflow and productivity.
-    - We work to ensure reliability in our tooling and tests.
-    - We ensure that continuous integration pipelines are efficient with optimal coverage.
-    - We continuously improve by reducing test duplications and increasing test stability.
-- **We're metrics driven.**
-    - We provide clarity to data regarding defects, test stability, efficiency and team health.
-    - We ensure the data is actionable and is available transparently to the company and our users.
-    - We make metrics-driven optimizations to continuously improve Engineering processes.
-    - We use data to improve our test coverage.
+    - We are a sounding-board for our end users by making feedback known to product teams.
+    - We are a champion of good software design, testing practices and bug prevention strategies.
+- **Improve test coverage and leverage tests at all [levels](https://docs.gitlab.com/ee/development/testing_guide/testing_levels.html).**
+    - We work to ensure that the right tests run at the right places.
+    - We enable product teams' awareness of their test coverage with fast, clear and actionable reporting.
+    - We continuously refine test effiency, refactor duplicate coverage, and increase stability.
+- **Make Engineering teams efficient, engaged and productive.**
+    - We build automated solutions to improve workflow efficiency and productivity.
+    - We ensure reliability in our tooling and tests.
+    - We ensure that continuous integration pipelines are efficient, stable with optimal coverage.
+- **Metrics driven.**
+    - We provide data driven insignts into defects, test stability, efficiency and team execution health.
+    - We ensure the data is actionable and is available transparently to the company and the wider community.
+    - We use data to make informative next steps and continously improve with metrics-driven optimizations.
 
 ## FY22 Direction
 
@@ -95,13 +107,15 @@ The Quality direction for FY22 is to empower GitLab R&D teams and Contributors t
 ### With GitLab Counterparts
 
 #### Development department
+{:.no_toc}
 
 - Make development teams aware of their teams' quality indicators.
 - Foster an environment where development teams are productive in contributing test coverage.
 - Partner with Development to turn [S1 severity level](https://about.gitlab.com/handbook/engineering/quality/issue-triage/#severity) SLO into SLA.
-- Help development teams execute at their best by identifying and mitigating risk in our product development workflow with Quad-planning.
+- Help development teams execute at their best by identifying and mitigating risk in our product development workflow with risk mapping.
 
 #### UX department
+{:.no_toc}
 
 - Partner with UX to prioritize our efforts on time to close of UX bugs and debt.
 - Partner with UX to improve awareness of usability metrics by product area.
@@ -109,23 +123,27 @@ The Quality direction for FY22 is to empower GitLab R&D teams and Contributors t
 - Improve visibility of documentation contribution opportunities.
 
 #### Infrastructure department
+{:.no_toc}
 
 - Be a champion of corrective actions surfaced from [incident reviews](https://about.gitlab.com/handbook/engineering/infrastructure/incident-review/).
 - Ensure timely response in release delivery flow.
 - Partner with Infrastructure to improve awareness of GitLab.com incident trends by product area.
 
 #### Security department
+{:.no_toc}
 
 - Partner with Security to improve awareness and appropriately prioritize vulnerabilities by product area.
 - Impact organizational efforts to shift security left with a focus of proactive AppSec in one product area.
 - Implement strategies to more effectively detect and mitigate vulnerabilities prior to production deploy.
 
 #### Support department
+{:.no_toc}
 
 - Champion feedback from Support to improve our workflow and test coverage.
 - Partner with Support to improve our documentation.
 
 #### Product Division
+{:.no_toc}
 
 - Make informed decisions by aligning to our product north star metrics.
 - Ensure transparency of test-coverage for product management.
@@ -134,16 +152,30 @@ The Quality direction for FY22 is to empower GitLab R&D teams and Contributors t
 - Prioritize test coverage for SaaS based on business growth.
 
 #### Marketing Division
+{:.no_toc}
 
 - Partner with community team to increase the reach and impact of hackathons.
 - Partner with community team in creating MR Coach role specialties.
 
 #### Sales Division
+{:.no_toc}
 
 - Partner with TAM to efficiently track contributions from customers.
 - Enable TAMs to champion and drive-up [MRARR](/handbook/engineering/quality/performance-indicators/#mrarr).
 - Build developer certification program.
 - Partner with SAs to be productive in deploying demo data.
+
+## OKRs
+
+Every quarter, the Quality department commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
+
+### Current quarter
+
+<iframe src="https://app.ally.io/public/LngCHdk3uKSaBuG" class="dashboard-embed" height="1700" width="100%" style="border:none;"> </iframe>
+
+### Previous quarter
+
+<iframe src="https://app.ally.io/public/uKiFyIu7rH6lz7L" class="dashboard-embed" height="1590" width="100%" style="border:none;"> </iframe>
 
 ## Contribution Acceleration Timeline
 
@@ -187,26 +219,30 @@ We aim to increase the focus on our community contributions. Below is a timeline
         - Partner with Community relations team (David P)
         - Maintain a list of known contributors with a mapping to their accounts and the accounts ARR contribution as input to this KPI
 
-## Quality Engineering structure
+## Quality Department structure
 
-### Teams within Quality Engineering
+### [Engineering Analytics team](engineering-analytics-team)
 
-##### [Dev QE team](dev-qe-team)
+### [Engineering Productivity team](engineering-productivity-team)
 
-##### [Ops QE team](ops-qe-team)
+### Quality Engineering Sub-department
 
-##### [Growth QE team](growth-qe-team)
+#### [Dev QE team](dev-qe-team)
 
-##### [Secure & Enablement QE team](secure-enablement-qe-team)
+#### [Ops QE team](ops-qe-team)
 
-##### [Engineering Productivity team](engineering-productivity-team)
+#### [Fulfillment & Growth QE team](fulfillment-growth-qe-team)
+
+#### [Sec & Enablement QE team](sec-enablement-qe-team)
+
+
 
 | Team                           | GitLab.com handle  | Slack channel | Slack handle |
 | ------------------------------ | ------------------ | ------------- | ------------ |
 | [Dev QE team](dev-qe-team)     | [`@gl-quality/dev-qe`](https://gitlab.com/gl-quality/dev-qe) | [#g_qe_dev](https://gitlab.slack.com/archives/CU90UDHC6) | `@dev-qe-team` |
 | [Ops & CI/CD QE team](ops-qe-team) | [`@gl-quality/ops-qe`](https://gitlab.com/gl-quality/ops-qe) | [#g_qe_ops](https://gitlab.slack.com/archives/CUGNRS97V) | `@ops-qe-team` |
-| [Secure & Enablement QE team](secure-enablement-qe-team) | [`@gl-quality/enablement-qe`](https://gitlab.com/gl-quality/enablement-qe) | [#g_qe_enablement_secure](https://gitlab.slack.com/archives/CTP7N0PM4) | `@enablement-secure-qe-team` |
-| [Growth QE team](growth-qe-team) | [`@gl-quality/fulfillment-qe`](https://gitlab.com/gl-quality/fulfillment-qe) | [#g_qe_fulfillment_growth](https://gitlab.slack.com/archives/C014UQAC8JW) |`@growth-defend-qe-team` |
+| [Sec & Enablement QE team](sec-enablement-qe-team) | [`@gl-quality/enablement-qe`](https://gitlab.com/gl-quality/enablement-qe) | [#g_qe_enablement_secure](https://gitlab.slack.com/archives/CTP7N0PM4) | `@enablement-secure-qe-team` |
+| [Fulfillment & Growth QE team](fulfillment-growth-qe-team) | [`@gl-quality/fulfillment-qe`](https://gitlab.com/gl-quality/fulfillment-qe) | [#g_qe_fulfillment_growth](https://gitlab.slack.com/archives/C014UQAC8JW) |`@fulfillment-growth-qe-team` |
 | [Engineering Productivity team](engineering-productivity-team) | [`@gl-quality/eng-prod`](https://gitlab.com/gl-quality/eng-prod) | [#g_qe_engineering_productivity](https://gitlab.slack.com/archives/CMA7DQJRX) |`@eng-productivity-team ` |
 
 ### Department members
@@ -233,11 +269,11 @@ As stable counterparts, SETs should be considered critical members of the core t
 
 - SETs should receive invites and participate in all relevant product group collaborations (meeting recordings, retro issues, planning issues, etc).
 - SETs should operate proactively, not waiting for other stable counterparts to provide them direction.
-The area a Software Engineer in Test is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title in [team org chart](/company/team/org-chart/).
+The area a Software Engineer in Test is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title.
 
 Every Quality Engineering Manager is aligned with an Engineering Director in the Development Department.
 They work at a higher level and align cross-team efforts which maps to a [Development Department section](/handbook/product/categories/#hierarchy).
-The area a Quality Engineering Manager is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title in [team org chart](/company/team/org-chart/).
+The area a Quality Engineering Manager is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title.
 This is with the exception of the Engineering Productivity team which is based on the [span of control](/company/team/structure/#management-group).
 
 Full-stack Engineering Productivity Engineers develop features both internal and external that improves the efficiency of engineers and development processes.
@@ -487,7 +523,7 @@ Moved to [release documentation](https://gitlab.com/gitlab-org/release/docs/).
 
 The Quality department collaborates with the [Security department's compliance team](/handbook/engineering/security/#security-compliance) to handle requests from customers and prospects.
 
-The Risk and Field Security team maintains the current state of answers to these questions, please follow the process to [request completion of assessment questionnaire](/handbook/engineering/security/security-assurance/risk-field-security/customer-security-assessment-process.html).
+The Risk and Field Security team maintains the current state of answers to these questions, please follow the process to [request completion of assessment questionnaire](handbook/engineering/security/security-assurance/field-security/customer-security-assessment-process.html).
 
 If additional input is needed from the Quality team, the DRI for this is the Director of Quality. Tracking of supplemental requests will be via a confidential issue in the [compliance issue tracker](https://gitlab.com/gitlab-com/gl-security/security-assurance/sec-compliance/compliance). Once the additional inputs have been supplied, this is stored in the Compliance team's domain for efficiency.
 
@@ -498,9 +534,9 @@ If additional input is needed from the Quality team, the DRI for this is the Dir
 | Quality Key Review | `@meks` | `@kwiebers` <br>`@tpazitny` | Every 8 weeks | Review meeting |
 | Group conversation | `@meks` | `@at.ramya` <br>`@tpazitny` <br>`@kwiebers` <br>`@jo_shih` <br>`@vincywilson` | Every 8 weeks | [Group Conversations](#group-conversations) |
 | [GitLab SaaS Infrastructure Weekly](/handbook/engineering/infrastructure/#gitlab-saas-infrastructure) | Rotates between `@jo_shih` <br>`@vincywilson` | `@tpazitny` | Weekly | Incident review and corrective action tracking |
-| [Incident management](/handbook/engineering/infrastructure/incident-management/) | Rotates between `@jo_shih`, `@tpazitny`, and `@vincywilson` | All managers | Weekly | Incident monitoring, response, and management as needed to represent Quality |
-| [Self-managed environment triage](/handbook/engineering/quality/secure-enablement-qe-team/#self-managed-environment-triage) | `@tpazitny` | `TBD` | Every 2 weeks | Sync stand-up |
-| [Bug refinement](/handbook/engineering/quality/#performance-issues) | `@at.ramya` | `@tpazitny` <br>`@jo_shih` <br>`@vincywilson` | Every 2 weeks | Review meeting |
+| [Incident management](/handbook/engineering/infrastructure/incident-management/) | Rotates between `@jo_shih`, `@at.ramya`, and `@vincywilson` | All managers | Weekly | Incident monitoring, response, and management as needed to represent Quality |
+| [Self-managed environment triage](/handbook/engineering/quality/secure-enablement-qe-team/#self-managed-environment-triage) | `@tpazitny` | `@vincywilson` | Every 2 weeks | Sync stand-up |
+| [Bug refinement](/handbook/engineering/quality/#performance-issues) | Rotates between `@at.ramya` <br>`@jo_shih` <br>`@vincywilson` | Weekly | Review meeting |
 | Security Vulnerability review | `@meks` | `TBD` | Every 4 weeks | Review meeting |
 | Quality Department Leadership | `@meks` | `TBD` | Weekly | Review meeting |
 | Quality Department Bi-Weekly | All QEMs | `TBD` | Every 2 weeks | Review meeting |
