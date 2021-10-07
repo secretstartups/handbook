@@ -1,12 +1,18 @@
+---
+layout: handbook-page-toc
+title: Product Processes
+description: >-
+  As a Product Organization, we work to create a flexible yet concise product
+  development framework for developing products that customers love and value.
+---
+
 ## On this page
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-``` sse
 <%= partial("handbook/product/product-handbook-links") %>
-```
 
 ## Our Product Process
 
@@ -370,9 +376,7 @@ In general, you should:
 - proactively reach out for input when contemplating new features
 - involve PMM as early as possible with work on important changes
 
-``` sse
 <%= partial "includes/usecase-competitive-content.md" %>
-```
 
 ### Marketing materials
 
@@ -655,7 +659,6 @@ Below are the responsibilities of an Internal Customer DRI:
 1. **Any GitLab team member** can create an issue labeled `Dogfooding` and spur
 a discussion with PM. This label should never be removed so that the
 
-``` sse
 decision-making process gets memorialized on the [Dogfooding board](https://gitlab.com/groups/gitlab-org/-/boards/1212116). When creating a Dogfooding issue, consider using the [Dogfooding Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Dogfooding.md) for existing features that need Dogfooding or the [Feature Proposal template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for new features.
 1. **PMs** will consider the issue, make an explicit decision, and **add** an appropriate label for next steps:
     1. `Dogfooding::Build in GitLab` when a new feature should be built into GitLab
@@ -681,7 +684,6 @@ decision-making process gets memorialized on the [Dogfooding board](https://gitl
     1. Ensure that issues marked as `Dogfooding::Build in GitLab` or `Dogfooding::Rebuild in GitLab` are getting prioritized appropriately
     1. Be aware of new issues marked as `Dogfooding::Keep Outside GitLab` to understand why these features are explicitly staying out of the product
     1. Be aware of new issues marked as `Dogfooding::Use Existing Feature` to help their PMs promote these issues for internal usage
-```
 
 To see all the `Dogfooding` work that is happening, [here is a board that collects all the scoped labels](https://gitlab.com/groups/gitlab-org/-/boards/1212116).
 
@@ -734,7 +736,6 @@ is crisp and concise, and leave the original issue as a post-MVC meta item.
 
 Here are some guidelines to follow when exploring an [MVC](#the-minimal-viable-change-mvc):
 
-``` sse
 - The issue should be based off of the standard [Feature Proposal](https://gitlab.com/gitlab-org/gitlab/issues/new?issuable_template=Feature%20proposal%20-%20detailed) issue template.
 - The issue should be the smallest iteration we can create to address the problem.
 - The MVC should be buildable in one iteration.
@@ -744,7 +745,6 @@ description always reflects the latest decisions at the current point in time.
 previous content, as long as it reflects the latest decisions. If you really
 want to, you can copy old content into the discussion thread for posterity.
 - It's not shipped until it's documented, no matter what the change is.
-```
 
 ![mvc.png](/handbook/product/mvc.png)
 
@@ -987,9 +987,7 @@ The budget should not be used as a floor or a ceiling. Use your judgment to cont
 
 Prioritization guidelines:
 
-``` sse
 <%= partial "includes/master-prioritization-list.md" %>
-```
 
 Please also note the corresponding [Engineering handbook section](/handbook/engineering/#prioritizing-technical-decisions) about the relative importance and prioritization of availability, security, and feature velocity. To ensure we're providing an appropriate focus on security, data loss, and availability, PMs should consider:
 
@@ -1179,7 +1177,6 @@ Together with your Engineering Manager, you will have an important role in ensur
 #### Prioritizing for Predictability
 {: #prioritize-predictability}
 
-<br>
 As a company we emphasize [velocity over predictability](/handbook/engineering/#velocity-over-predictability). As a product manager this means
 you focus on prioritizing, not scheduling issues. Your engineering [stable counterparts](/handbook/leadership/#stable-counterparts) are
 responsible for velocity and delivery. However, there are instances when there is desire for predictability, including:
@@ -1208,7 +1205,6 @@ These information sources may be useful to help you prioritize.
 ### Global Prioritization
 {: #prioritize-global}
 
-<br>
 Individual product managers must consider, and advocate for [global optimizations](/handbook/values/#results)
 within the teams they are assigned to. If your assigned team requires expertise
 (remember [everyone can](/handbook/engineering/#collaboration)
@@ -1545,9 +1541,7 @@ Internal
 1. Leadership [OKRs](/company/okrs/) set the direction for the company
 1. Each PM should be having regular conversations with their [stage groups stable counterparts](/handbook/product/categories/) to discuss their strategy and plan. Share this discussion with the company via our GitLab Unfiltered [YouTube](/handbook/communication/youtube/) channel. PMs should share your next three milestones, year-long plan, strategy, and relevant OKRs (with status) so everyone can contribute feedback.
 
-``` sse
 1. Dialogue with [internal customers](#dogfood-everything), and review of the [internal customer](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=internal%20customer) and [rebuild in GitLab](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name%5B%5D=rebuild%20in%20GitLab) labels
-```
 
 #### Managing Upcoming Releases
 
@@ -1558,7 +1552,6 @@ issues in upcoming releases.
 #### Planning for Future Releases
 {: #planning-future-release}
 
-<br>
 Product Managers assign milestones to issues to indicate when an issue is likely
 to be scheduled and worked on. As we consider more distant milestones, the certainty of
 the scope of their assigned issues and their implementation timelines is increasingly
@@ -2108,7 +2101,8 @@ Reviewing opportunity canvases with leadership provides you with an opportunity 
 1. Contact the Chief Product Officer's EBA to schedule a 25 minute meeting.
 1. The Chief Product Officer, VP of Product and VP of UX should be included as required attendees.
 1. The Product Section Leader, Direct Manager, UX counterpart and Product Operations should be included as optional attendees.
-1. Complete the Opportunity Canvas at least one business day before the meeting to give attendees an opportunity to review content.
+1. Complete the Opportunity Canvas at least one business day before the meeting to give attendees an opportunity to review content.  The attendees will review the canvas in advance and will add questions directly to the canvas document.
+1. During the review, feel free to present anything you'd like, but it's also fine to go straight to Q&A since the attendees should have reviewed the canvas in advance.
 
 **References**:
 
@@ -2305,11 +2299,9 @@ issues.
 
 We have 3 templates PMs can leverage to create issues for features:
 
-``` sse
 1. [Basic proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Proposal%20-%20basic.md) for minor tasks or technical details for tracking larger issues.
 1. [Lean feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20Proposal%20-%20lean.md) and for all feature enhancements that will get proposals and potentially become release post items.
 1. [Feature proposal](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md) for large new features that may require more information or details and will become release post items.
-```
 
 The goal of these different templates is to provide an efficient way of creating new issues and improve cross team collaboration. When appropriate, these templates may be leveraged for creating epic descriptions as well.
 
