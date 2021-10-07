@@ -1,13 +1,13 @@
 ---
 layout: markdown_page
-title: "Omar's README"
+title: "Omar Fernandez's README"
 ---
 
 <!-- This template will help you build out your very own GitLab README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. -->
 
 ## Omar's README
 
-**[Omar Fernandez, Director of Strategy and Operations]**
+**Omar Fernandez, Director of Strategy and Operations**
 
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
 
@@ -17,6 +17,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## Related pages
 
+* [Weekly Priorities](/handbook/ceo/chief-of-staff-team/readmes/ofernandez2/Priorities.md)
 * [GitLab](https://gitlab.com/ofernandez2)
 * [Personal blog](https://omareduardo.com/)
 * [LinkedIn profile](https://www.linkedin.com/in/omareduardo/)
