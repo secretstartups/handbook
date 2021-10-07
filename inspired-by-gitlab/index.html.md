@@ -95,6 +95,8 @@ In this section we list the companies that have been inspired by GitLab with the
    - "GitLab are real leaders in remote working, which is something essential to our business model but that we felt out of our depth on. The [Remote Playbook](http://allremote.info/) has been a great resource for us to makes sure we approach this in a way that leads to success."
 1. [OpenNebula](https://opennebula.io/all-remote-manifesto-opennebula-systems-goes-fully-distributed/)
    - "Inspired by [GitLab and its all-remote movement](/company/culture/all-remote/), we are adopting a fully distributed work policy to improve talent recruitment and retention, employee wellness, and long-term flexibility, adaptability, and scalability. We are starting a journey to build remote fluency in our organization. In the following months, we will be implementing new operational processes to help our people and organization embrace remote work and the future of living.  
+1. [Yembo](https://twitter.com/siddharthm83/status/1446125572036304908)
+   - "We are building our own handbook inspired by Gitlab. Thank you to the entire Gitlab team for open sourcing so much information."
 
 ## Do you know of other companies that were inspired by GitLab but are not listed here?
 
