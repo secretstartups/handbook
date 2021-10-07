@@ -12,7 +12,7 @@ description: "Information and protocols related to GitLab promotions and transfe
 
 ## Introduction
 
-At GitLab, we encourage team members to take control of their own career advancement. We have no minimum time in role requirements for promotions or transfers at GitLab. For all title changes, the team member should first speak with their manager to discuss a personal [professional development plan](/handbook/people-group/learning-and-development/career-development/). If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need.
+At GitLab, we encourage team members to take control of their own career advancement. We have no minimum time in role requirements for promotions or transfers at GitLab with exception of roles in Sales Development where we have a guideline of twelve months tenure prior to promotion or transfer due to the nature of the role and ramping requirements. For all title changes, the team member should first speak with their manager to discuss a personal [professional development plan](/handbook/people-group/learning-and-development/career-development/). If you feel your title is not aligned with your skill level, come prepared with an explanation of how you believe you meet the proposed level and can satisfy the business need.
 
 As a manager, please follow the following processes, discuss any proposed changes with either the People Business Partner or Chief People Officer, and do not make promises to the team member before the approvals are completed.
 
