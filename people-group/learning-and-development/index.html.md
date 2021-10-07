@@ -9,9 +9,37 @@ title: Learning & Development
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-## Introduction
+## Overview
 
-Welcome to the Learning & Development (L&D) page at GitLab! L&D is an essential part of any organization's growth, success, and overall business strategy. We want to support the growth of our GitLab team-members' competencies, skills, and knowledge by providing them with the tools they need and the opportunities to progress their own personal and professional development.  
+### Purpose
+
+_Why we exist_
+
+To guide team members on their career journey by maintaining a culture of learning and development so that GitLab is a great place to work. L&D is here to ensure team members can do their jobs so that GitLab can achieve results that make our customers and people happy. 
+
+### Vision 
+
+_Where are we going_
+
+A future where we are considered a best in class organization for remote learning & development by industry leaders. A future where **everyone can contribute** to a culture of curiosity driven by team members. 
+
+### Mission
+
+_What we do_
+
+We equip & empower team members and people leaders to access self-service learning that role models a culture of development. We do this by: 
+
+- Focusing on skill-based learning 
+- Enable access to resources to improve career mobility 
+- Developing learning journeys for teams throughout the organization
+
+### Objectives
+
+1. Reduce voluntary attrition by 5% each year by measuring exit survey data related to career development
+2. Increase productivity for team members
+3. Increase in 5% each year for the Growth & Development category of the annual engagement survey
+4. Increase in access to career mobility: internal transfers, promotions, job shadows, intern for learning, and professional development
+5. Evidence of best in class remote learning & development
 
 ## How to Communicate with Us
 
