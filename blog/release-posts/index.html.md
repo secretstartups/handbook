@@ -1326,7 +1326,7 @@ A deprecation needs to have an initial announcement in the release post notifyin
 #### Creating a deprecation entry
 
 
-Use the [deprecation** MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
+Use the [deprecation MR template](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/merge_request_templates/Deprecations.md)
 
 
 Create a deprecation notice by adding a new `.yml` file to the [`/data/deprecations`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/data/deprecations) folder of the `gitlab-org/gitlab` project using the template below.
