@@ -23,7 +23,6 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | DATE   | TOPIC    | SPEAKERS                                       |
 |--------|--------------------------------------------------------------------------|-------------------------------------------------|                            
-| Oct 6      |   [GitOps using GitLab Terraform and Terratag](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/143)             |    Itzik G.            |
 | Oct 20       |   [GitOps with GitLab](https://gitlab.com/gitlab-com/sales-team/cs-skills-exchange/-/issues/141)             |  Cesar S.              |
 
 
@@ -33,6 +32,7 @@ To see what training is coming soon, view the [Customer Success Skills Exchange 
 
 | **Date** | **Topic** | **Public or Private** |
 | ------   | ------    | ------                |
+| 2021-10-06      |   **[GitOps using GitLab Terraform and Terratag](https://youtu.be/dMo11PzhVQI)**             |    Public           |
 | 2021-09-15      |   **[Gitlab + DVC for Code and Data Version Control](https://youtu.be/fvwQQbvSyj8)**    |    Private       |
 | 2021-09-01       |  **[Reporting Options/ Metrics with GitLab](https://youtu.be/1nOzwl2vO3k)**             |  Private             |
 | 2021-08-18     |    **[Group Conversation: Demo Repo](https://youtu.be/3j8ypg7TX64)**            |    Private            |
