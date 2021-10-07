@@ -35,7 +35,7 @@ To start development, follow the instructions for the
 ## GitLab Repositories
 
 GitLab consists of many subprojects. A curated list of GitLab Repositories
-can be found at the [GitLab Engineering Projects](/handbook/engineering/projects) page.
+can be found at the [GitLab Engineering Projects](/handbook/engineering/projects/) page.
 
 Almost all repositories are available on both GitLab.com and dev.gitlab.org. We
 also mirror to dev.gitlab.org for availability reasons and [GitHub](https://github.com/gitlabhq)
@@ -46,8 +46,8 @@ All issues should be filed on GitLab.com.
 ## Infrastructure
 
 For everything related to infrastructure, check out the
-[Infrastructure handbook](/handbook/engineering/infrastructure).
-In particular [production architecture](/handbook/engineering/infrastructure/production/architecture) might be useful for onboarding.
+[Infrastructure handbook](/handbook/engineering/infrastructure/).
+In particular [production architecture](/handbook/engineering/infrastructure/production/architecture/) might be useful for onboarding.
 
 If you need a VPS for any reason, it's probably easiest to set one up at DigitalOcean. Ask another developer for access.
 
@@ -58,7 +58,7 @@ If you need a VPS for any reason, it's probably easiest to set one up at Digital
 Please see the [engineering workflow document][eng-wf] in the handbook and read
 the [developer documentation][dev-doc].
 
-[eng-wf]: /handbook/engineering/workflow
+[eng-wf]: /handbook/engineering/workflow/
 [dev-doc]: http://docs.gitlab.com/ee/development/README.html
 
 ### Security
