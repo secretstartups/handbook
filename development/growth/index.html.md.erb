@@ -271,11 +271,11 @@ This metric acts as a target for deliverables based on number of engineers avail
 You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
 <% end %>
 
-The following view shows the breakdown of closed Growth issues by type. This highlights the percentage of issues that relate to experiments.
+The following view shows the breakdown of closed Growth issues by type. This highlights the percentage of issues that relate to experiments or features.
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
-    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12619734, dashboard: 799224, embed: 'v2') %>">
+    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12917708, dashboard: 799224, embed: 'v2') %>">
   </div>
 <% else %>
 You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
