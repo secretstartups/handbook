@@ -21,7 +21,7 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 
 **Before your last day.**
 
-Ensure your laptop is enrolled in Jamf (for Mac’s). If you have a laptop with Linux, please reach out to #it-help in slack to have the Linux laptop enrolled in Drivestrike before your last day.
+Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) (for Mac’s). If you have a laptop with Linux, please reach out to #it-help in slack to have the Linux laptop enrolled in [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) before your last day.
 
 The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe: Calendly links will be provided in your Gitlab Off-boarding Email Packet. 
 - Marc DiSabatino - AMER time zone
@@ -32,7 +32,7 @@ The team member should arrange a meeting with the respective IT Ops team member 
  
 **On your last day.** 
 - Confirm you have a meeting scheduled with an IT team member. 
-- Review the handbook section on how to reinstall macOS after a Jamf wipe.
+- Review the handbook section on [how to reinstall macOS after a Jamf wipe](https://about.gitlab.com/handbook/business-technology/team-member-enablement/self-help-troubleshooting/#reinstalling-mac-os-after-a-jamf-wipe).
 - Join your meeting so an IT team member can confirm your information and wipe your laptop. 
 
  
