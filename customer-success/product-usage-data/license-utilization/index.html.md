@@ -9,7 +9,7 @@ description: "using license Utilization data within Gainsight"
 
 License Utilization is calculated on a subscription level. In Gainsight, we roll up data from all subscriptions under an account and display it at the account level. Billable User Count comes from Operational Metrics for both SaaS and Self-Managed customers (Self-Managed data is limited to customers in version 14.0 or later). Subscription data is brought over from Zuora. 
 
-If you believe there is inaccurate data for an account, see how to [report bad data](/handbook/customer-success/tam/gainsight/license-usage/#reporting-bad-data) below.
+If you believe there is inaccurate data for an account, see how to [report bad data](/handbook/customer-success/product-usage-data/license-utilization/#reporting-bad-data) below.
 
 There are three main fields we use at the Instance and Namespace level (generally subscription-level, too) for License Utilization data:
 
@@ -33,7 +33,7 @@ Please note that there may be situations where fields are blank or don't seem to
 
 * If any one subscription has a blank value in either the Billable User Count or Total Licenses Sold fields, the Account License Utilization % will be N/A, and Billable Users Sum and/or Licensed Users Sum will reflect N/A amount as well since the cumulative calculation cannot be made 
 
-If the data looks good (no missing data), see how to [report bad data](/handbook/customer-success/tam/gainsight/license-usage/#reporting-bad-data) below.
+If the data looks good (no missing data), see how to [report bad data](/handbook/customer-success/product-usage-data/license-utilization/#reporting-bad-data) below.
 
 ### Scorecard
 
