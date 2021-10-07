@@ -9,18 +9,18 @@ title: SA Practices
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes) - [**Education and Enablement**](/handbook/customer-success/education-enablement)
+[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices/) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays/) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources/) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development/) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations/) - [**Processes**](/handbook/customer-success/solutions-architects/processes/) - [**Education and Enablement**](/handbook/customer-success/education-enablement/)
 
 ## SA Practices
 
 Solution Architects have various practices:
 
-[Communities of Practice](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice)
+[Communities of Practice](/handbook/customer-success/solutions-architects/sa-practices/communities-of-practice/)
 
-[Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice)
+[Deliberate Practice](/handbook/customer-success/solutions-architects/sa-practices/deliberate-practice/)
 
-[Effective Objection Handling](/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice)
+[Effective Objection Handling](/handbook/customer-success/solutions-architects/sa-practices/effective-objection-handling-practice/)
 
-[Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias)
+[Recognizing Cognitive Bias](/handbook/customer-success/solutions-architects/sa-practices/recognizing-cognitive-bias/)
 
-[Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments)
+[Value Stream Assessments](/handbook/customer-success/solutions-architects/sa-practices/value-stream-assessments/)

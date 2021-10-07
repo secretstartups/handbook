@@ -8,7 +8,7 @@ title: Solutions Architect Processes
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations) - [**Processes**](/handbook/customer-success/solutions-architects/processes) - [**Education and Enablement**](/handbook/customer-success/education-enablement)
+[**SA Practices**](/handbook/customer-success/solutions-architects/sa-practices/) - [**Sales Plays**](/handbook/customer-success/solutions-architects/sales-plays/) - [**Tools and Resources**](/handbook/customer-success/solutions-architects/tools-and-resources/) - [**Career Development**](/handbook/customer-success/solutions-architects/career-development/) - [**Demonstration**](/handbook/customer-success/solutions-architects/demonstrations/) - [**Processes**](/handbook/customer-success/solutions-architects/processes/) - [**Education and Enablement**](/handbook/customer-success/education-enablement/)
 
 # Solutions Architect Processes
 {:.no_toc}
@@ -36,7 +36,7 @@ To following process maps are best viewed in full screen.  Please note that many
 
 ## SA Activity Capture
 
-Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture) page.
+Solutions Architects record all customer and prospect activity to promote **transparency** and **collaboration**. By consistently capturing our customer facing activity, we can perform analysis for further reporting to establish **efficient** decision making for GitLab's business. More information on this process can be found on the [SA Activity Capture](/handbook/customer-success/solutions-architects/processes/activity-capture/) page.
 
 ## Engaging Professional Services
 

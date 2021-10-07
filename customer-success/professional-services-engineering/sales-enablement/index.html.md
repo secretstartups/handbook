@@ -95,7 +95,7 @@ For custom SOW's, initiate a scoping issue to capture the requirement using the 
 ## Resources
 
 * [Services Categories page](/services/)
-* [Full offering catalog](/services/catalog)
+* [Full offering catalog](/services/catalog/)
 * [Services Calculator for custom SOWs](https://services-calculator.gitlab.io/)
 * [Professional Services Pitch Deck](https://docs.google.com/presentation/d/1CFR8_ZyE9r4Dk_mjoWGe4ZkhtBimSdN0pylIPu-NAeU/edit#slide=id.g3667cdc662_0_1)
 

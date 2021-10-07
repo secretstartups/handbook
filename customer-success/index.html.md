@@ -6,7 +6,7 @@ description: >-
   partners with our customers to deliver value and positive business outcomes throughout
   their journey with GitLab
 ---
-The Customer Success department is part of the [GitLab Sales](/handbook/sales) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
+The Customer Success department is part of the [GitLab Sales](/handbook/sales/) function who partners with our customers to deliver value and positive business outcomes throughout their journey with GitLab.
 
 The team can be reached in [Slack channel](https://gitlab.slack.com/archives/customer-success) (internal only).
 
@@ -28,7 +28,7 @@ To deliver value to all customers by engaging in a consistent, repeatable, scala
 
 ## Vision Page
 
-The ["Customer Success Vision Page"](/handbook/customer-success/vision) provides the long-term view of company wide success to which the customer success will be building in partnership with the value centers of the GitLab organization (i.e., Marketing, Sales, Product/Engineering, Support, Finance and IT).
+The ["Customer Success Vision Page"](/handbook/customer-success/vision/) provides the long-term view of company wide success to which the customer success will be building in partnership with the value centers of the GitLab organization (i.e., Marketing, Sales, Product/Engineering, Support, Finance and IT).
 
 ## Department Initiatives
 
@@ -60,13 +60,13 @@ Utilizing built-in monitoring instrumentation and [a scalable HA architecture](h
 
 ## Customer Success Playbooks
 
-See the [Playbooks Page](/handbook/customer-success/playbooks)
+See the [Playbooks Page](/handbook/customer-success/playbooks/)
 
 ## Customer Terrain Mapping Engagements
 
 Terrain Mapping discovery engagements provide customers with the benefit of GitLab's experience with DevOps methodologies, Git, GitLab, CI, CD and monitoring by brainstorming a high level, first draft discovery of the elements of a success plan to address various challenges. They are also mapped to professional services that can help with some of the elements identified in the engagement.
 
-See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-terrain-mapping)
+See the [Terrain Mapping Engagements Page](/handbook/customer-success/customer-terrain-mapping/)
 
 ## Customer Success Groups
 
@@ -104,7 +104,7 @@ SA owns 1) pre-sales technical evaluation and relationships prior to the initial
 
 ### Education and Enablement
 
-As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
+As a Solutions Architect, Technical Account Manager, or Professional Services Engineer, it is important to be continuously learning more about our product and related industry topics. The [education and enablement handbook page](/handbook/customer-success/education-enablement/) provides a dashboard of aggregated resources that we encourage you to use to get up to speed.
 
 ### Customer Workshops
 
@@ -154,7 +154,7 @@ Anyone can establish a [Community of Practice](initiatives/communities-of-practi
 
 ### Frequently Asked Questions
 
-Customer Success team members maintain a [FAQ](/handbook/customer-success/faq) to keep questions customers ask documented in a place where everyone can view and contribute to.
+Customer Success team members maintain a [FAQ](/handbook/customer-success/faq/) to keep questions customers ask documented in a place where everyone can view and contribute to.
 
 ### Customer Success resource links outside handbook
 

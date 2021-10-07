@@ -14,7 +14,7 @@ description: "Describes the processes for scoping migrations."
 `:warning: This page is under construction` 
 
 # Info for Sales - positioning migrations to SaaS
- - [GitLab self-managed to SaaS migration](SM-to-SaaS)
+ - [GitLab self-managed to SaaS migration](SM-to-SaaS/)
 
 
 

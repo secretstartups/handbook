@@ -13,7 +13,7 @@ description: "Discover how to work with the GitLab Professional Services Team."
 
 ### How to Contact Professional Services
 
-At GitLab, Professional Services (PS) is part of the [Customer Success department](/handbook/customer-success). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
+At GitLab, Professional Services (PS) is part of the [Customer Success department](/handbook/customer-success/). As such, you can engage with PS by following the guidelines for engaging with any [Solutions Architect (SA)](/handbook/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect). This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
 
 #### Slack
 
