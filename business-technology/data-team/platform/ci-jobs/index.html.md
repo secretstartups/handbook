@@ -30,6 +30,8 @@ This page documents the CI jobs used by the data team in Merge Requests in both 
 * The easiest way to do to this is to click the blue run pipeline button as below: 
 ![run_pipeline_button.png](run_pipeline_button.png)
 
+# Analytics pipelines 
+
 ## Stages
 
 CI jobs are grouped by stages.
@@ -232,3 +234,24 @@ These jobs are defined in [`.gitlab-ci.yml`](https://gitlab.com/gitlab-data/anal
 #### clone_stop
 
 Runs automatically when MR is merged or closed. Do not run manually.
+
+
+# Data Test Pipelines 
+
+All of the below run against the Prod DB using the changes provided in the repo. No cloning is needed to run the below. 
+
+#### 🧠 all_tests_prod
+
+Runs through all tests in the analytics & data tests repo. 
+
+#### 💾 data_tests_prod
+
+Runs through all of the data tests in the analytics & data tests repo's. 
+
+#### schema_tests_prod
+
+Runs through all of the schema tests in the analytics & data tests repo's. 
+
+#### specify_tests_prod
+
+Runs specified model tests with the variable `DBT_MODELS`
