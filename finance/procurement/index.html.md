@@ -21,20 +21,16 @@ title: The GitLab Procurement Team
 
 **Exceptions to the PO Policy are:**
 1. Purchases under $5K that are NOT Software
-      - For clarity, ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
+      - ALL Software needs an approved PO in Coupa regardless of dollar value due to security risk requirements.  
 1. Last minute un-planned onsite event needs such as food and rental transactions needed for event.
 1. One-time field marketing and event purchases less than $10K such as booth rentals, AV equipment, catering, etc.
-     - In this instance, the vendor can invoice GitLab and AP will route approvals based on the matrix.
 1. Confidential Legal Fees
 1. Audit and Tax Fees
 1. Benefits & Payroll
 
-## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I contact Procurement?
-- If you have a question, use the #procurement slack channel.
+## <i class="fas fa-stream" id="biz-tech-icons"></i> What are you buying?
 
-## How do I purchase something?
-
-Choose the type of purchase you're making for guidance:
+Choose the type of purchase you're making for the process guidance:
 <div class="flex-row" markdown="0" style="height:110px;justify-content:center">
   <a href="/handbook/finance/procurement/new-software/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">New Software</a>
   <a href="/handbook/finance/procurement/software-renewal/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Software Renewal or add-on</a>
@@ -50,7 +46,10 @@ Includes RFP Templates, scorecards and Vendor Guidelines for doing business with
   <a href="/handbook/finance/procurement/vendor-guidelines/" class="btn btn-purple" style="white-space: initial;min-width: 0;width: auto;margin:5px;display:grid;align-items:center;height:100%;">Vendor guidelines</a>
 </div>
 
-### How do I access Coupa to create a Purchase Request?
+## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I contact Procurement?
+- If you have a question, use the #procurement slack channel.
+
+## <i class="fas fa-stream" id="biz-tech-icons"></i> How do I access Coupa to create a Purchase Request?
 
 Coupa is available via Okta. To access the platform:
 1. Login to your [Okta home page](https://gitlab.okta.com/app/UserHome#).
