@@ -135,7 +135,7 @@ Monthly announcements are shared by the L&D team on the first Tuesday of each mo
 | Month | Video Link | Async AMA | Total Views | Total Comments |
 | ----- | ----- | ----- | ----- | ----- |
 | 2021-09 | [Video](https://www.loom.com/share/a087f45f78134f04a8260fd181cead53) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/305)| 44 | 1 |
-| 2021-10 | - | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/324) | - | - |
+| 2021-10 | [Video](https://www.loom.com/share/eee099e204a54769a050babee0b67c6c) | [Issue](https://gitlab.com/gitlab-com/people-group/learning-development/general/-/issues/324) | 32 | 0 |
 | 2021-11 | - | - | - | - |
 | 2021-12 | - | - | - | - |
 | 2022-01 | - | - | - | - |
