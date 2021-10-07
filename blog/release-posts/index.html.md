@@ -1383,6 +1383,8 @@ _To be added by Product Managers or Engineering Managers and merged by either._
 
 A removal is an announcement in the release post notifying the community that a feature has officially been removed. Do not use the removal template until the feature is actually getting removed. Removals are announced in the release post as a deprecation at least 2 releases prior to the actual release when feature is removed. Note the differences between [deprecations and removals](/handbook/product/gitlab-the-product/#deprecating-and-removing-features).
 
+When creating your removal please review the deprecation announcement to be sure that it is still accurate and the date is reflective of the most current planned removal date.
+
 Create a removal notice by creating one .yml file in the `/data/release_posts/unreleased/` folder, utilizing the following content block for each notice:
 
 
