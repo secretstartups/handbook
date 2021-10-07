@@ -12,6 +12,8 @@ description: "GitLab Inc (US) benefits specific to US based team members."
 
 ----
 
+* Navigate to [Total Rewards Processes & Audits for US Benefits](/handbook/total-rewards/benefits/general-and-entity-benefits/inc-benefits-us/total-rewards-processes/)
+
 ## Specific to US based team members
  
 US based benefits are arranged through Willis Towers Watson and managed on the [PlanSource platform](https://benefits.plansource.com.). The benefits decision discussions are held by Total Rewards, the CFO, and the CEO to elect the next year's benefits by the carrier's deadlines. Total Rewards will notify the team of open enrollment as soon as details become available. 
@@ -86,7 +88,16 @@ Due to IRS guidelines, you cannot make changes to your health insurance benefits
 A QLE is a change in your situation — like getting married, having a baby, etc that can make you eligible for a special enrollment period. You have ***30 days from the date of your qualifying event*** to submit your requested change to PlanSource. 
  
 ##### Process for submitting a QLE
-TODO Add instructions and table of QLEs and acceptable documentation
+
+1. Log into [PlanSource](https://benefits.plansource.com/).
+1. Select `Update My Benefits`.
+1. Select the Life Event that applies to your situation from the list.
+1. Follow the prompts to review your information and make any changes to dependent(s), if applicable.
+1. Customize your benefits package with any changes. Please note that the system will require you to go into each coverage, even if you had previously declined and would like to continue to decline or are similarly making no changes to the coverage. 
+1. Once you have made all  of your changes, please click the button to Review & Check Out.
+1. You will be taken to a screen to review the costs of your benefits and will need to click Checkout again to confirm your changes.
+
+TODO Add QLE documentation info
  
 #### Cigna Medical Plans (2021)
  
@@ -129,7 +140,9 @@ The following costs are monthly rates which would be deducted from your paycheck
 | Team Member + Spouse     | $0  | $234 | $222 |
 | Team Member + Child(ren) | $0  | $180 | $168 |             
 | Family                   | $0  | $402 | $378 |
- 
+
+Note: For the **team member only HSA**, GitLab will contribute $100 per month. For residents of California, Alabama, and New Jersey this additional contribution is taxable on the state level. 
+
 ##### Cigna Infertility Services
  
 Infertility services will be included in both the PPO 500 plan and HSA plan. This includes a $15,000 lifetime infertility benefit for each covered member. More details will be included in the SBCs once available.
@@ -357,20 +370,22 @@ Employer contributions vest according to the following schedule:
 | Three Years but less than Four Years | 75%                |
 | Four or More Years                   | 100%               |
  
-*Employee* contributions are the assets of those team members and are not applicable to this vesting schedule.
+*Team Member* contributions are the assets of those team members and are not applicable to this vesting schedule.
  
 **Vesting example**
  
 To help you understand the math, here is a hypothetical vesting chart showing how much the employeed would get if they left the company.
  
-In this example the employee's salary is $50,000 USD and they max out their match every year. 50,000 * 6% = 3000. 3000 * 50% = 1500 match.
+In this example the team member's salary is $50,000 USD and they max out their match every year. 50,000 * 6% = 3000. 3000 * 50% = 1500 match.
  
 Year 1: Put in 3K, GitLab matches 1500. Leave the company get 3K (none vested)
 Year 2: Put in 3K, GitLab matches 1500. Leave the company get 6K own money + $750 USD vested contribution.   (3K * 0.25)
 Year 3: Put in 3K, GitLab matches 1500. Leave the company get 9K own money + $2250 USD vested contribution. (4500 * 0.50)
 Year 4: Put in 3K, GitLab matches 1500. Leave the company get 12K own money + $4500 USD vested contribution. (6000 * 0.75)
 Year 5: Put in 3K, GitLab matches 1500. Leave the company get 15K own money + $7500 USD (fully vested)
- 
+
+The above example assumed no earnings on the contributions to the team member's 401(k). If the team member has any gains on their own contributions, this would be considered their own money and can be withdrawn when leaving the company. If the team member has any gains on the employer contribution, this would be subject to the vesting schedule. For example, if my employer contribution earns $50 and I leave after year two, I would be 50% vested and be able to leave with $25 of the gains from the employer contribution.
+
 **Administration of the 401(k) Match:**
 * The employer will use the calculation on each check date effective as of January 1, 2019.
 * The team member must have a contribution for a check date to be eligible for the employer match.
@@ -416,16 +431,28 @@ Chair: Principal Accounting Officer (PAO)
 ### WEX (Discovery Benefits) Health Savings Accounts and Flexible Spending Accounts
  
 If you are enrolled in a Health Savings Account (HSA), Flexible Spending Account (FSA), Dependent Care Flexible Spending Account (DCFSA) or commuter benefits, the funds are held through WEX (Discovery Benefits). After your benefit enrollment effective start date, [create an account with WEX (Discovery)](https://benefitslogin.discoverybenefits.com/Login.aspx?ReturnUrl=%2f) to manage your funds. You will only receive one debit card upon enrollment. To obtain a second card (for a dependent, etc.) you will need to login to your account on WEX (Discovery) or call and they will send one to your home of record.
+
+#### Health Savings Account (HSA)
+
+GitLab contributes $100 per month for those enrolled in the **team member only** tier of coverage. There is no contribution for other tiers of coverage.
+
+If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. 
+
+If you would like to adjust your HSA contributions please log into [PlanSource](https://benefits.plansource.com/. 
+
+HSAs roll over completely year-to-year and are 'owned' by the team member. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee.
  
-If you would like to transfer your HSA from a previous account, please contact WEX (Discovery) and request a HSA Transfer funds form. On the form you will put your old HSA provider’s account number and any other required personal information. You will then submit the form to WEX (Discovery), and they will get in contact with your old HSA provider and process the transfer of funds. You can reach WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`. If you would like to adjust your HSA contributions please log into [PlanSource](https://benefits.plansource.com/). HSAs roll over completely year-to-year, and FSAs have a $550 rollover each calendar year. If you leave GitLab and would like to keep your HSA account, GitLab will no longer be responsible for the administration fee. The account holder will become responsible for the $2.50 per month admin fee.
- 
+Domestic Partner Reimbursements: If the team member is not legally married to their domestic partner, the domestic partner's expenses are not eligible for disbursement from the HSA. However, if the domestic partner is covered under the family HDHP through the team member, the domestic partner can open their own HSA and contribute up to the full family contribution maximum. The team member may also contribute up to the full family contribution maximum to their own HSA.
+
+#### Flexible Spending Account (FSA) Plans
+
+FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
+
+FSAs have a $550 rollover each calendar year. This is subject to change as dictated by the IRS.
+
 FSAs are employer-owned accounts. If you leave GitLab, your FSA account will be terminated on your date of termination unless you continue this through COBRA. You are able to use your full FSA amounts up to and on your last day, but not afterwards unless you enroll into COBRA. WEX (Discovery) asks that all claims be submitted up to 90 days after termination date. You can enroll into COBRA FSA if you have spent less out of your account than you have contributed to it. If you decide to enroll, you will be required to continue making your monthly contributions on a post-tax status.  For additional information, please reach out to WEX (Discovery) at 866.451.3399 or `customerservice@discoverybenefits.com`.
  
 FSAs (and Dependent Care FSAs) are subject to annual testing by the Internal Revenue Code guidelines to ensure the pre-tax benefits do not disproportionately benefit highly compensated employees. At the end of each plan year, GitLab will work with WTW to conduct the nondiscrimination testing. If a test returns that highly compensated employees benefit, you may not be able to pre-tax the full amount of your election. This can vary each year and is based upon the dollar amount of non-highly compensated employees’ elections.
- 
-#### Flexible Spending Account (FSA) Plans
- 
-FSAs help you pay for eligible out-of-pocket health care and dependent day care expenses on a pretax basis. You determine your projected expenses for the Plan Year and then elect to set aside a portion of each paycheck into your FSA.
  
 ##### FSA Period to Submit Claims
  
