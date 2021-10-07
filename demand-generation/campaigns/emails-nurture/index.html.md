@@ -67,37 +67,83 @@ In the event of an severity::1 (critical) security vulnerability email communica
 {: #nurture-programs .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
+### Intelligent Email Nurture
+{: #intelligent-email-nurture}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+#### Quick Links
+{: #intellient-email-nurture-quick-links}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [WIP Intelligent Marketo Email Nurture Epic](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+* [MURAL (WIP) of Intelligent Marketo Email Nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1626128789338/8f1cc1f4ff18f63a308032dffdfcc73958541101?sender=jgragnola2053)
+* [Marketo Program](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/MF8561A1)
+* [Notes Doc](https://docs.google.com/document/d/19kB9ntQ8aMPVFdiLJH7jqbN4jI9ax-BsujMtnVhKTOA/edit#)
+
+#### Documentation of Past Nurture Setup
+{: #documentation-past}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [MURAL of experienece prior to intelligent nurture](https://app.mural.co/t/gitlab2474/m/gitlab2474/1625087469029/970807f67b4072c5d9f4cb22d813de3288a2e70a?sender=jgragnola2053)
+* [CTA & UTM documentation experienece prior to intelligent nurturee](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=0)
+
+#### Creating an Email Send Program for Intelligent Nurture
+**The following process is for Verticurl for the inital switch over, and will be updated once the initial recreation of emails is completed.** If you have quesitons, please ask `@jgragnola` in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541).
+
+1. [Clone this template](https://engage-ab.marketo.com/?munchkinId=194-VVC-221#/classic/PG8466A1) and name with the 
+    - Clone into `A Campaign Folder`
+    - Name the program `Type-ShortContentName` (i.e. `ebook-scaledci`)
+    - Folder is `Master Email Programs (Intelligent Nurture)`
+    - Description link to [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541)
+1. Edit Email in the program
+    - DO NOT UPDATE EMAIL CODE or you will break the email from the template.
+    - Copy is indicated in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) with the link to the original in Marketo. 
+    - If the email in the original in Marketo is missing something (i.e. a CTA button because the template is different), please comment in the issue with a link to BOTH 1. the original Marketo email link 2. the new Marketo email program
+1. Add the link to the new email in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QRilUEUGSUlMwwsMa_G11HRmxSskHFgDeWV0STOtLh4/edit#gid=2096477155) in the column named `Link to New Marketo Program`
+1. Check the box in [this issue](https://gitlab.com/gitlab-com/marketing/demand-generation/campaigns/-/issues/1541) for the email that was created, AND link to the new Marketo program
+
+
+#### Reading for those unfamiliar with Marketo
+{: #marketo-nurutre-reading}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+* [Adding a Program to an Engagement Program Stream](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.html?lang=en) - we will be employing this advanced setup
+* [Add People to an Engagement Program](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html?lang=en) - Amy will be managing this in a single automation engine ("air traffic control") to ensure no mailable lead is left behind.
+* [Understanding Engagement Programs](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+
+<!--
 ### Visualization of active nurture streams
 {: #active-nurtures-visualization}
-<!-- DO NOT CHANGE THIS ANCHOR -->
 
 To be updated and documented upon revamp of nurture engine and database nurutring FY22 Q2.
 - [Epic for Marketo database audience stretegy for lifecycle marketing engine](https://gitlab.com/groups/gitlab-com/marketing/-/epics/2022)
 - [Epic for overall nurture strategy - no lead left behind](https://gitlab.com/groups/gitlab-com/marketing/-/epics/1836)
+--->
 
-### Active Nurture Programs
+
+
+#### Trial nurture
+{: #nurture-trial}
+<!-- DO NOT CHANGE THIS ANCHOR -->
+
+* **Goal:** Educate trialers about key features to use during 30 day period.
+* **Delivery System:** Marketo (and Outreach sequences by SDRs)
+* **Trial Key Email:** the self-managed trial sign-up triggers a unique trial key email confirmation before launching the 30 day email series.
+
+<iframe src='https://app.mural.co/embed/40f86b14-b313-48f8-a015-a00dcccfa3b8'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
+
+##### Setup for Trial Nurture
+[Marketo Program]()
+
+UTMs
+
+###
+
+### Active Nurture Programs (Prior to Intelligent Nurture)
 {: #active-nurture-programs}
 <!-- DO NOT CHANGE THIS ANCHOR -->
-
-#### SaaS trial nurture
-{: #nurture-trial-saas}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-SaaS Gold trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
-
-**Goal of the Marketo nurture:** Educate trialers on key features within GitLab Gold SaaS tier.
-
-**Goal of SDR Outreach nurture:** Qualify and meetings setting for SaaS Gold trialers.
-
-**[>> Email copies for SaaS Gold package trial nurture](https://gitlab.com/groups/gitlab-com/marketing/-/epics/98)**
-
-#### Self-hosted trial nurture
-{: #nurture-trial-self-hosted}
-<!-- DO NOT CHANGE THIS ANCHOR -->
-
-Self Hosted Ultimate trial nurture communication are sent via Marketo and Outreach throughout the 30-day free trial period.
-
-**[>> Email copies for Self-hosted Ultimate package nurture](https://docs.google.com/presentation/d/1KSAZFwz3nvSTIXOP8urGWW6dJWhtpawVKFcaoFLDPdg/edit#slide=id.g2ae1ad1112_0_22)**
 
 #### GTM motion nurtures
 {: #gtm-motion-nurtures}
