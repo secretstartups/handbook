@@ -122,9 +122,9 @@ When sending a calendar invite for an in-person meeting at Mission Control, plea
 
 Please remember to reach out to the EBA of the executive you need to schedule for with an agenda, any time preferences, and length of the meeting.
 
-#### [Scheduling with the CEO](/handbook/eba/ceo-scheduling)
-#### [Scheduling with the E-Group](/handbook/eba/e-group-scheduling)
-#### [Scheduling with VPs or Directors](/handbook/eba/vp-scheduling)
+#### [Scheduling with the CEO](/handbook/eba/ceo-scheduling/)
+#### [Scheduling with the E-Group](/handbook/eba/e-group-scheduling/)
+#### [Scheduling with VPs or Directors](/handbook/eba/vp-scheduling/)
 
 
 
