@@ -258,12 +258,32 @@ The Growth groups regularly run experiments to test product hypothesis.
 GitLab team members are welcome to attend the [Growth Engineering Weekly](#growth-engineering-weekly) meetings
 to connect with growth team members and find out more about running experiments at GitLab.
 
-#### Experiment cadence
+### Growth metrics
+
+The Growth sub-department experiment teams track the number of closed "growth deliverable" issues prioritized by our product managers using the [Growth-Deliverable definition](/handbook/product/growth/#growth-deliverables).
+This metric acts as a target for deliverables based on number of engineers available to the four Growth experiment teams.
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12514149, dashboard: 799224, embed: 'v2') %>">
+  </div>
+<% else %>
+You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
+<% end %>
+
+The following view shows the breakdown of closed Growth issues by type. This highlights the percentage of issues that relate to experiments or features.
+
+<% if ENV['PERISCOPE_EMBED_API_KEY'] %>
+  <div>
+    <embed width="100%" height="375" src="<%= signed_periscope_url(chart: 12917708, dashboard: 799224, embed: 'v2') %>">
+  </div>
+<% else %>
+You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
+<% end %>
 
 The Growth sub-department tracks number of experiments per engineer as a development metric.
-This counts new experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type),
-measured against the engineering headcount for the Growth sub-department experiment teams.
-Net experiments shows the total number of experiments in the codebase (pending, active, or concluded and ready to be removed).
+This counts new experiments added to the codebase using [experiment feature flags](https://docs.gitlab.com/ee/development/feature_flags/#experiment-type).
+Current experiments shows the total number of experiments in the codebase (pending, active, or concluded and ready to be removed).
 
 <% if ENV['PERISCOPE_EMBED_API_KEY'] %>
   <div>
@@ -273,10 +293,9 @@ Net experiments shows the total number of experiments in the codebase (pending, 
 You must set a <code>PERISCOPE_EMBED_API_KEY</code> environment variable to render this chart.
 <% end %>
 
-### Team performance indicators
+#### Engineering Metrics
 
-* [Growth engineering metrics]
-* [Growth OKRs]
+* [Growth Section engineering metrics]
 
 ## Growth Engineering Weekly
 
@@ -285,8 +304,8 @@ Discussion topics include how to track experiments, A/B testing, product intelli
 Growth Engineers are encouraged to bring discussion topics to the meeting and add them to the [agenda](https://docs.google.com/document/d/1VMj16-tvJg4m26y6q7A1jSdBD895ImFM2fbXvFXF4yM/edit?usp=sharing).
 
 To get the most time zone coverage, these meetings alternate fortnightly between:
-* Tuesdays 4:30PM UTC for US/EMEA
-* Wednesdays 8:00PM UTC for US/APAC
+* Tuesdays 4:30PM UTC for AMER/EMEA
+* Wednesdays 8:00PM UTC for AMER/APAC
 
 Team members are encouraged to contribute to the agenda async and attend the meeting that matches their time zone.
 
@@ -318,6 +337,6 @@ On occasion we put together a virtual team day to take a break and participate i
 [Growth workflow board]: https://gitlab.com/groups/gitlab-org/-/boards/1158847
 [Growth opportunities]: https://gitlab.com/gitlab-org/growth/product/-/issues
 [Growth meetings and agendas]: https://drive.google.com/drive/search?q=type:document%20title:%22Growth%20Weekly%22
-[Growth engineering metrics]: /handbook/engineering/metrics/growth/
+[Growth section engineering metrics]: /handbook/engineering/metrics/growth/
 [Growth OKRs]: https://gitlab.com/gitlab-com/www-gitlab-com/-/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Growth%20Sub-Department&label_name[]=OKR
 [Product Intelligence issues board]: https://gitlab.com/gitlab-org/product-intelligence/-/issues
