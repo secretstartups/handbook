@@ -1304,7 +1304,7 @@ extras:
 ```
 ### Deprecations, removals and breaking changes
 
-Below you'll find info on how to announce deprecations and removals in the release post and documentation. Please also review GitLab's overall deprecation and removal definition and policies [here](lhttps://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features) before announcing any deprecations or removals. 
+Below you'll find info on how to announce deprecations and removals in the release post and documentation. Please also review GitLab's overall deprecation and removal definition and policies [here](https://about.gitlab.com/handbook/product/gitlab-the-product/#breaking-changes-deprecations-and-removing-features) before announcing any deprecations or removals. 
 
 #### Deprecations
 
