@@ -142,6 +142,7 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
   <div class="item-auth-matrix" style="grid-column: 1/13"><b>Approving Payment<sup>(1)</sup></b></div>
+  <div class="item-auth-matrix">>$0k up to $500k</div> 
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
@@ -165,7 +166,8 @@ Changes or amendments to the authorization matrix is approved by the CEO and CFO
   <div class="item-auth-matrix">Approves/Signs</div>  <!-- PAO or VP Finance -->
   <div class="item-auth-matrix"></div>  <!-- CFO -->
   <div class="item-auth-matrix"></div>  <!-- CLO -->
-  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Legal Contracts</b></div>   
+  <div class="item-auth-matrix" style="grid-column: 1/13"><b>Legal Contracts</b></div> 
+  <div class="item-auth-matrix">Standard Terms</div>  
   <div class="item-auth-matrix">Approves</div>  <!-- Manager -->
   <div class="item-auth-matrix"></div>  <!-- Director --> 
   <div class="item-auth-matrix"></div>  <!-- Sr Director -->  
