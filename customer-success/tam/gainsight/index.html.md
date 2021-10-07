@@ -17,7 +17,7 @@ description: "The key aspects of how Customer Success uses Gainsight to drive su
 
 Gainsight holds a lot of information and is great for reporting, but there can be a learning curve for TAMs to getting a good workflow where they feel productive. Below is a recommended workflow for using Gainsight.
 
-Several TAMs find success by reviewing Gainsight at the beginning and/or end of their day, to see what action items (or [CTAs](/handbook/customer-success/tam/gainsight/ctas)) are due soon, [log their customer calls](/handbook/customer-success/tam/gainsight/timeline/) from the day, and check on the status of their [success plans](/handbook/customer-success/tam/success-plans/).
+Several TAMs find success by reviewing Gainsight at the beginning and/or end of their day, to see what action items (or [CTAs](/handbook/customer-success/tam/gainsight/ctas/)) are due soon, [log their customer calls](/handbook/customer-success/tam/gainsight/timeline/) from the day, and check on the status of their [success plans](/handbook/customer-success/tam/success-plans/).
 
 One of our TAMs created an [8 minute video](https://youtu.be/yk95b6u26So) of her workflow and how she integrates Gainsight into her day to day tasks to reduce the lift and ensure her accounts stay up to date.
 
@@ -33,7 +33,7 @@ When hovering on the far left of the screen, a sidebar will pop up that has a fe
 
 - Home - you're here!
 - Timeline - this [Timeline](/handbook/customer-success/tam/gainsight/timeline/#timeline-view) view shows all customers, rather than an individual customer which can be found on a [Customer 360](#customer-360).
-- Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/tam/gainsight/ctas) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
+- Cockpit - the Cockpit is where [CTAs](/handbook/customer-success/tam/gainsight/ctas/) live; this Cockpit view shows all CTAs for all of your customers, including success plan objectives.
 
 ### Customer 360
 
@@ -47,10 +47,10 @@ The left side panel of the 360 contains the following sections:
 - Success Plan - [success plans](/handbook/customer-success/tam/success-plans/)
 - Account Hierarchy - provides a tree of parent and child account hierarchy if applicable
 - Sponsor Tracking - ability to add your key customer contacts and be notified if they leave the company
-- Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas) for the account
+- Cockpit - holds all of your tasks and [CTAs](/handbook/customer-success/tam/gainsight/ctas/) for the account
 - Contacts - all contacts for the account ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Zendesk Tickets - recent Zendesk tickets ([synced from Zendesk](#salesforce-and-zendesk-syncing))
-- Adoption - [license utilization](/handbook/customer-success/tam/gainsight/license-usage) and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
+- Adoption - [license utilization](/handbook/customer-success/tam/gainsight/license-usage/) and [stage adoption](/handbook/customer-success/tam/stage-adoption/)
 - Subscriptions - GitLab subscription details ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Opportunities - open opportunities ([synced from Salesforce](#salesforce-and-zendesk-syncing))
 - Salesforce Activities - "Activity History" section [from Salesforce](#salesforce-and-zendesk-syncing)

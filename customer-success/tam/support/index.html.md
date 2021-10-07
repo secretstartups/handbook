@@ -89,5 +89,5 @@ In the email notifying TAMs of new tickets, the included Zendesk ticket link cur
 - [Official GitLab Support Documentation](https://about.gitlab.com/support/)
 - [Support Handbook (SLA + Tiers)](/handbook/support/)
 - [GitLab.com Status and Notifications](https://status.gitlab.com/)
-- [Customer Onboarding](/handbook/customer-success/tam/onboarding)
-- [Escalation Process](/handbook/customer-success/tam/escalations)
+- [Customer Onboarding](/handbook/customer-success/tam/onboarding/)
+- [Escalation Process](/handbook/customer-success/tam/escalations/)

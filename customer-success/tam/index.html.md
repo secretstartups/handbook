@@ -65,7 +65,7 @@ Aligning passionate TAMs with customers to ensure their success by...
 - [Customer Renewal Tracking](/handbook/customer-success/tam/renewals/)
 - [Engaging with Partners](/handbook/customer-success/tam/engaging-with-partners/)
 - [Customer Health Assessment and Risk Triage](/handbook/customer-success/tam/health-score-triage/)
-- [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation)
+- [Risk Types, Discovery & Mitigation](/handbook/customer-success/tam/risk-mitigation/)
 
 
 ##### Digital Journey:
@@ -130,10 +130,10 @@ There are various services a Technical Account Manager will provide to ensure th
 
 ## Relationship Management
 
-- Regular [cadence calls](/handbook/customer-success/tam/cadence-calls)
+- Regular [cadence calls](/handbook/customer-success/tam/cadence-calls/)
 - Regular open issue reviews and issue escalations
 - Account [health assessment](/handbook/customer-success/tam/health-score-triage/)
-- [Executive business reviews](/handbook/customer-success/tam/ebr)
+- [Executive business reviews](/handbook/customer-success/tam/ebr/)
 - Success strategy roadmaps - beginning with a 30/60/90 day success plan
 - To act as a key point of contact for guidance, advice and as a liaison between the customer and other GitLab teams
 - Own, manage, and deliver the customer onboarding experience

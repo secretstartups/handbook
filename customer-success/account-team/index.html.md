@@ -53,4 +53,4 @@ Account teams may choose to include the [Sales Development Representative (SDR)]
 To view more information about Account Team Meetings, please refer to the [SALSATAM Page](/handbook/customer-success/account-team/SALSATAM/) 
 ## AE/SA-TAM Account Handoff and Overlap
 
-When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition).
+When an account moves from pre-sales to post-sales, it is [handed off from the Account Executive/Solutions Architect to the Technical Account Manager](/handbook/customer-success/pre-sales-post-sales-transition/).

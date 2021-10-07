@@ -89,7 +89,7 @@ The intention, both of the P.R.O.V.E. components and overall philosophy, is that
 
 ![Customer Health Vision](images/customer-health-score-vision.jpeg)
 
-For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach. 
+For a detailed description of Customer Health and Early Warning System methodology, see [Customer Health Scoring](/handbook/customer-success/customer-health-scoring/). This will include the methodology around how we score the health of accounts, along with how we enable the team toward a proactive renewal approach. 
 
 
 ### Retention and Reasons for Churn

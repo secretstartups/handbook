@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Using Timeline"
+description: "The Timeline view in Gainsight gives us a chronological overview of our activities with the customer. It's a valuable tool to see our interactions and progression on success efforts over time."
 ---
 
 ## On this page
@@ -80,7 +81,7 @@ _Follow the rest of the steps below_
 1. Check off if an executive sponsor attended if applicable
 1. Optionally update the TAM and Product sentiments to reflect [health score](/handbook/customer-success/tam/health-score-triage/)
 1. Add "Milestone Type" if applicable
-1. Add notes (e.g. a link to the Google doc of your [cadence call](/handbook/customer-success/tam/cadence-calls), a summary of health score change, etc.)
+1. Add notes (e.g. a link to the Google doc of your [cadence call](/handbook/customer-success/tam/cadence-calls/), a summary of health score change, etc.)
 1. Add any action items as "tasks"
 
 The other options to log activities are (1) on the Scorecard while recording TAM Sentiment or Product Risk or (2) on the Success Plan to log a Timeline activity specific to the plan.

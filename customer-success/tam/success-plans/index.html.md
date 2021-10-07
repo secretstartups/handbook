@@ -1,6 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Success Plans"
+description: "A success plan is a roadmap that connects a customer's desired business outcomes to GitLab solutions. It is a living document, developed by the TAM."
 ---
 
 ## On this page
@@ -179,7 +180,7 @@ There are two types of objectives: Stage Adoption and ROI.
 
 ##### Open and Categorize a Stage Adoption Objective within a Success Plan in Gainsight
 
-Stage adoption can consist of two different motions: [stage enablement and stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
+Stage adoption can consist of two different motions: [stage enablement and stage expansion](/handbook/customer-success/tam/stage-enablement-and-expansion/), and each belongs in a specific success plan. Understanding the differences and similarities between these motions is key to properly building your success plans and driving stage adoption plays.
 
 Please review this [3-minute video](https://youtu.be/gWW3t45QCFs) (GitLab only) on how to open a stage adoption objective and categorize it correctly in Gainsight to enable reporting on our team's progress; the topics the video includes are:
 
