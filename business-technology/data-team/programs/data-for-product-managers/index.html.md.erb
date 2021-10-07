@@ -115,7 +115,29 @@ We created several snippets that allow you to get quickly without any SQL writin
 
 We have created a dashboard [Usage Ping Exploration](https://app.periscopedata.com/app/gitlab/658340/Usage-Ping-Exploration?) that helps you QA your new Usage Ping counters and tells you which snippets to use.
 
+##### `td_xmau` snippet
 
+You can use the `td_xmau` snippet to quickly create a chart that measures SMAU over time. The chart will measure SaaS, Self-Managed, and the estimated lift for Self-Managed instances. In addition, it will chart your total SMAU as well as your target SMAU. 
+
+With a few minor adjustments, you can edit this snippet to forecast your SMAU growth over time. Check out this [video](https://www.youtube.com/watch?v=NmLb8eI6gtY) on how to get started.
+
+- Edit the chart in SiSense.
+- Below the query, expand the dropdown next to Python 3.7 and select `Predictive Forecast Plot`. 
+- Next you'll need to edit the snippet to update the names of a couple of fields. You can reference the below [query used to forecast Package stage GMAU](https://app.periscopedata.com/app/gitlab/805350/Package:-User-Adoption-and-Growth?widget=12924753&udv=0):
+- Now you are ready to click `Run SQL`
+- Then scroll down and click `Run Python`
+- Save the chart.
+- Happy forecasting!
+
+```
+WITH forecast as ([td_xmau('All', 'GMAU', 'package', 0.1)])
+SELECT  
+  mau_value as y_value,
+  created_month as ds_month
+from forecast
+ where y_value > 0 and stage_name = 'All'
+ ```
+ 
 ##### `feature_usage_this_agg_period_and_growth` Snippet
 The snippet called `feature_usage_this_agg_period_and_growth(feature)` ([SQL source](https://app.periscopedata.com/app/gitlab/snippet/feature_usage_this_agg_period_and_growth/5564f7aad54d4044834b48167e6befd8/edit)) is mainly used for the **old all-time counters** that have been implemented until 2019. Here is a list of the different fields that the snippet produces:
 
