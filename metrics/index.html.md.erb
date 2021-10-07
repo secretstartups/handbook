@@ -48,6 +48,8 @@ These handbook dashboard pages are populated from 5 filterable Sisense dashboard
 #### How to navigate Engineering Metrics Dashboards
 For a section with multiple stages or a stage with multiple groups, these metrics are repeated further down the page to give team members the ability to view these metrics at a section, stage, or group level. To navigate to section metrics, click on the `___ Section Dashboards` link above. To navigate to stage metrics, click on the `___ Stage Dashboard` link above or from the header link in the section dashboards pages. To navigate to the group metrics, find the stage that contains the group and click on the corresponding `___ Stage Dashboards` link above.
 
+Groups are extracted from labels applied on an MR or issue. For example, the `~group::access` label is used to query MRs or issues attached to the Access group. If a group is missing from the filter dropdown in the embedded dashboards above, check if it’s included in this [spreadsheet](https://docs.google.com/spreadsheets/d/1WMS7bUHRoFBEjtP6dVbMn438NoeA-PECBECZNnSbu8E/edit#gid=0). If it’s missing, add a new row with the corresponding stage and section. This spreadsheet flows to our data warehouse once a day so you may not see updates in Sisense until the next day. In order to display this new group in the handbook dashboard pages, please reach out to a member of the [Engineering Analytics Team](https://about.gitlab.com/handbook/engineering/quality/engineering-analytics-team/#how-to-engage-with-us) to get this added to the handbook dashboard page filters.
+
 ### Metrics list
 
 The Engineering Metrics listed here are available for all product group teams. The indicators captured here may or may not roll into an existing KPI/PI.
