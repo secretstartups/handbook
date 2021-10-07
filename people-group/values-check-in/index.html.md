@@ -33,7 +33,7 @@ Values Check-In (Anniversary Milestone)
 
 ### What to Expect
 
-1. Recent hires can anticipate receipt of an [automated email](https://about.gitlab.com/handbook/people-group/engineering/email-automation/#values-check-in-email) from the People Experience Team which includes a link to the values check-in survey at the ninety day or three month mark of their tenure at GitLab.  It is requested that the form is completed within two weeks of receipt and a feedback session between the team member be arranged.
+1. Recent hires can anticipate receipt of an [automated email](https://about.gitlab.com/handbook/people-group/engineering/onboarding/#values-check-in-email) from the People Experience Team which includes a link to the values check-in survey at the ninety day or three month mark of their tenure at GitLab.  It is requested that the form is completed within two weeks of receipt and a feedback session between the team member be arranged.
 
 1. The values check-in for career mobility is housed with the [Career Mobility Issue](https://gitlab.com/gitlab-com/people-group/people-operations/employment-templates/-/blob/master/.gitlab/issue_templates/career_mobility.md) which is geared toward ensuring a seamless transition to a new role. This is one of the first tasks for the team member within the issue as it is important so as to avoid a memory bias i.e. levelling and sharpening.
 
