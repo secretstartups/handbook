@@ -30,7 +30,7 @@ _What we do_
 We equip & empower team members and people leaders to access self-service learning that role models a culture of development. We do this by: 
 
 - Focusing on skill-based learning 
-- Enable access to resources to improve career mobility 
+- Enabling access to resources to improve career mobility 
 - Developing learning journeys for teams throughout the organization
 
 ### Objectives
