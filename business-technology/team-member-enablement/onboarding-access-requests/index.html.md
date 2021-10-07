@@ -22,13 +22,13 @@ This email will include a link to the Notebook Order Form where the new team mem
 
 Team members that live in these countries can be serviced via the IT Laptop Ordering Process:
 
-USA, Canada, Japan, Mexico, all of the EU, Russia, Thailand, China, Philippines, Australia, and New Zealand.
+USA, Canada, Japan, Mexico, all of the EU, Russia, Thailand, China, India (Apple only), Philippines, Australia, and New Zealand.
 
 Please note that we are adding supported countries to this list as we discover our ability to order in them.
 You can test this by going to order a MacBook Pro (or Dell) from the regional Apple store, and seeing if they let you customize a build or alternately refer you to local retailers.
 If the latter, see below.
 
-Team members that do not live in these countries will need to procure their own laptop and submit for reimbursement.
+If your country is not listed above or for any general laptop procurement questions please contact IT-Help@gitlab.com or your Candidate Experience Specialist to discuss alternate options. 
 If the team member desires financial assistance to purchase the hardware, the Company will advance the funds to help facilitate the purchase (see Exception Processes below).
 
 ### Laptop Purchasing and Shipping Process
@@ -94,6 +94,8 @@ Discounts vary depending on the purchase, but it can range anywhere from 2-10%.
 - For Engineers, Support Engineers, Data Analysts, Technical Marketing Managers, Engineering Managers, Product Designers, UX Managers, Product Managers, Technical Writers, Digital Production (MacBook Pro) - [16”  / 512gig SSD / 32gig RAM / i9 or i7 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/16-inch-space-gray-2.6ghz-6-core-processor-512gb)
 
 - Everyone Else (MacBook Pro) - [13” / 512gig SSD / 16gigs RAM / i5 CPU](https://www.apple.com/shop/buy-mac/macbook-pro/13-inch-space-gray-1.4ghz-quad-core-processor-with-turbo-boost-up-to-3.9ghz-256gb)
+
+- 13" Macbook Pro w/ M1, 16Gb, 512GB (avaliable upon request depending on shipping times)
 
 ##### Linux Hardware
 
@@ -183,7 +185,7 @@ Therefore the vendor should be able to handle most if not all shipping requireme
 Team member Laptops can be refreshed after 3 years (of use!) without question. However, if the replacement laptop is outside the standardized specifications listed [here](/handbook/business-technology/team-member-enablement/onboarding-access-requests/#apple-hardware) than manager approval will be required before IT can purchase the replacement laptop.
 If you feel you need a new laptop to be effective at your job before then, reach out to IT and your manager.
 
-Replacement laptops for broken GitLab laptops can be purchased as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
+Replacement laptops for broken GitLab laptops can be requested as needed by [creating an issue](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Replacement) in the Team member Enablement issue tracker project.  Laptops ordered as part of the refresh program use [this template](https://gitlab.com/gitlab-com/business-technology/team-member-enablement/issue-tracker/-/issues/new?issuable_template=Laptop_Refresh_Upgrade).
 
 This process can also be followed for laptops that are not broken but old enough that you are having trouble completing your work.
 Please refer to the [spirit of spending company money](/handbook/spending-company-money/) when deciding whether or not it is appropriate to replace your functioning laptop.
