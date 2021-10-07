@@ -415,10 +415,35 @@ The next steps for the TAM Job Family are to move to the [Manager, Customer Expe
 
 Candidates for this position can expect the hiring process to follow the order below. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
 
-* Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters,
-* Next, candidates will complete an Assessment,  
-* Next, candidates will interview with 2-4 GitLab team members and the hiring manager,
-* Then, candidates will be asked to perform a demonstration, 
-* Finally, candidates may be asked to interview with an executive or the CEO.
+### Recruiter Screening
+
+Qualified candidates will be invited to schedule a 30 minute [screening call](/handbook/hiring/interviewing/#screening-call) with one of our Global Recruiters.
+
+### Written Assessment
+
+The assessment is a written questionnaire, completed and submitted prior to interviews with members of the Technical Account Manager team. The Recruiter working with the candidate will provide the written assessment following a successful [recruiter screening interview](#recruiter-screening).
+
+### Hiring Manager Interview
+
+The hiring manager interview is the first of the interviews with the Technical Account Manager team. This interview is with the manager of the team the candidate is applying to join. It is a 30 minute interview.
+
+### Peer Interview
+
+The peer interview is conducted by an individual contributor who is a member of the team the candidate is applying to join. Peer interviewers are selected by the hiring manager. This is a 30 minute interview.
+
+### Panel Interview
+
+The panel interview consists of several members of the Technical Account Manager team. It typically includes the hiring manager and two other team members. This is a 60 minute interview, with the following format:
+
+- Live demonstration based on the guidance provided ahead of the interview by the recruiter
+- General discussion and questions from the panel
+
+### Executive Interview
+
+Conducted by the [Senior Director of TAMs](/job-families/sales/technical-account-manager/#senior-director-of-tams), this is a discussion with the candidate as a final assessment interview to evaluate the candidate's suitability for the role. This is a 30 minute interview.
+
+### Reference and Background Check
+
+Once the candidate has successfully completed all interview stages with positive recommendations at each stage, GitLab will complete [reference checks](/handbook/hiring/interviewing/#reference-check-process) and a [background check](/handbook/hiring/interviewing/#background-checks).
 
 Additional details about our process can be found on our [hiring page](/handbook/hiring/interviewing/).
