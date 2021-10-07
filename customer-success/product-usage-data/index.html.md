@@ -96,7 +96,7 @@ The benefit to GitLab is based on the premise that customers will renew and expa
 ### Metrics
 
 - [Time-to-First Value](https://about.gitlab.com/handbook/customer-success/vision/#time-to-value-kpis) uses license data and potentially use case data in the future
-- [License Utilization](https://about.gitlab.com/handbook/customer-success/tam/gainsight/license-usage/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
+- [License Utilization](https://about.gitlab.com/handbook/customer-success/product-usage-data/license-utilization/): Assist the customer in determining how well utilized licenses are, how they could be used, and assess their future needs
 - [xMAU](https://about.gitlab.com/handbook/product/performance-indicators/#three-versions-of-xmau) leverages usage data and is a key performance indicator (KPI) for the Product Team
 - Use case expansion playbook success will be measured by customer use case adoption
 - Use case health score will leverage use case adoption (scored as minimum to advanced). This is used to understand which use cases have been adopted and what is the progress on adopting those use cases.
