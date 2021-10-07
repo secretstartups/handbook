@@ -572,7 +572,14 @@ At the highest level, Field Marketing is responsible for helping to create [Sale
 
 Field Marketing Goals for FY22 can be found by searching for the `FY22 Revenue Marketing Goals` shared document in GDrive.
 
+## The Field Marketing Dashboard 
+Our FMM Dashboard lives in the SAFE space within the platform and provides an overview on the performance of the Field Marketing programs. 
+
+- [Field Marketing Dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919247) 
+
 ## Useful Links
+This section provides links to relevant reports that may live outside of the Field Marketing Dashboard. 
+
 - [FY22 GTM Segment SAO reporting](https://gitlab.my.salesforce.com/00O4M000004ajbK)
     * For FY22, this report has been updated to reflect ONLY those SAOs submitted by the SDR organization, as the FMM goals are directly aligned to the SDR goals, also pulls in all order types (New -1st order, Connected, and Growth). The below outlines how our goals align to the GTM Segments listed in the GTM Segment SAO report:
     * Account Centric 1. New First Order = New4300  both Large & MM
@@ -590,7 +597,6 @@ Field Marketing Goals for FY22 can be found by searching for the `FY22 Revenue M
 - [Sales Funnel Target vs. Actuals](https://app.periscopedata.com/app/gitlab/761665/TD:-Sales-Funnel---Target-vs.-Actual)
 - [Linear Attribution Dashboard](https://app.periscopedata.com/app/gitlab/556414/Marketing-Linear-Attribution)
 - [FMM Weighted ARR Contribution](https://gitlab.my.salesforce.com/01Z4M000000oYas) - which will be deprecated once ARR has been updated to both the Linear Attribution & the FMM Dashbord. 
-- [Field Marketing Dashbaord](https://app.periscopedata.com/app/gitlab/823916/WIP:-Field-Marketing-Metrics---New-Visualization)
 - [Digital spend Dashboard via PMG Agency country detail](https://datastudio.google.com/u/0/reporting/1NL1FxHvoXRul4vlQJCVfWWfwsu8Jz1XZ/page/kmnGB)
 - [Field Marketing Specific digital spend Dashboard via PMG agency](https://datastudio.google.com/reporting/17t7s-cbcFUghpBHD1xlU8hBe8P7IHZGK/page/mPgDB)
 - [SAOs accepted by last touch = Field Marketing Campaigns](https://gitlab.my.salesforce.com/00O4M000004FYB0)
