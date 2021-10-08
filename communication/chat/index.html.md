@@ -120,7 +120,8 @@ In addition to weekly company group calls that bring us together, GitLab has Soc
 **Examples:**
 
 * **[`#all-caps`](https://gitlab.slack.com/archives/C01BC085AVB)**: Light-hearted conversation in ALL CAPS.
-* **[`#cats`](https://gitlab.slack.com/archives/cats), [`#dog`](https://gitlab.slack.com/archives/dog), [`#cute-animal-photos`](https://gitlab.slack.com/archives/cute-animal-photos)**: Show us your cutest pics of your pets! We love all pets, but we made special channels for cats and dog(s).
+* **[`#bookclub`](https://gitlab.slack.com/archives/C0GDX6MK6)**: A place for bibliophiles to connect, share recommendations and discuss their latest reads.
+* ** [`#cats`](https://gitlab.slack.com/archives/cats), [`#dog`](https://gitlab.slack.com/archives/dog), [`#cute-animal-photos`](https://gitlab.slack.com/archives/cute-animal-photos)**: Show us your cutest pics of your pets! We love all pets, but we made special channels for cats and dog(s).
 * **[`#cooking`](https://gitlab.slack.com/archives/cooking)**: Share your favorite recipes, and brag about your homemade dishes.
 * **[`#dad_jokes`](https://gitlab.slack.com/archives/dad_jokes)**: Self-explanatory really, give us your best dad jokes!
 * **[`emilys`](https://gitlab.slack.com/archives/emilys)**: For all the Emily/ie/ia/ees at GitLab.
