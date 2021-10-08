@@ -1,6 +1,7 @@
+---
 layout: handbook-page-toc
-title: Entity-Specific Employment Policies
-description: A directory of employment-related policies categorized by entity
+title: "Entity-Specific Employment Policies"
+description: "A directory of employment-related policies categorized by entity"
 ---
 
 ## On this page
@@ -67,4 +68,4 @@ This page will serve as a directory for our team members employed through a GitL
  
 **Fair Employment Practices Policy**
 - [GitLab PTE LTD Fair Employment Practices Policy](https://docs.google.com/document/d/1osJfO9BysOqjpt5iLnqygXX7B5Imb9NXIXA3KBtDCJk/edit?usp=sharing)
-</details>
+</details> 
