@@ -22,7 +22,7 @@ title: Professional Services
 - Do NOT agree to ANY business, legal, and or pricing prior to engaging the procurement team. 
     - This ensures alignment across the multiple functions to make good-faith commitments to vendors and don’t put our company in to possible risk.
 
-## How Do I Submit a Request to Purchase New Software?
+## How Do I Submit a Request for Professional Services/Contractor?
 - Once you've chosen your vendor and have followed the Bid Requirements per above, follow these instructions:
 1. [Login to Coupa](https://about.gitlab.com/handbook/business-technology/enterprise-applications/guides/coupa-guide/#how-to-access-coupa) via Okta.
 1. Go to "Forms" in the upper right of your screen.
@@ -31,13 +31,14 @@ title: Professional Services
         - If this is an existing supplier, skip this step.
 1. If this is an existing supplier (or once your new supplier is in the system) select "Professional Services Request" Form
 1. Enter the required Fields and "Add to Cart"
-5. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
+1. Click on your Cart in the upper right, complete remaining fields. Be prepared to include the following:
     - Whether or not the vendor will have access to [red and/or orange data](https://about.gitlab.com/handbook/engineering/security/data-classification-standard.html#data-classification-levels) 
     - All data and systems the vendor will have access to 
         - Failure to complete this field will significantly delay the review and approval of your request.
     - Vendor’s Security Contact Email (oftentimes this is different from the main contact. Providing the head of security contact info from the vendor’s company will expedite the security review and avoid delays)
     - Upload any contracts you've received.
     - Click "Submit for Approval"
+1. If the answer to any of the questions requires additional review from the GitLab legal team, Procurement will add Labor Law Attorney to the approval flow.
 
 ## What Happens after I submit my Request?
 - The Coupa Req will appear as "Pending Buyer Action", this means it is under review from the procurement team. 
@@ -46,7 +47,7 @@ title: Professional Services
     - If your contract does not require negotiation, the Procurement team will review for accuracy and if questions will ping you directly in the Coupa request.
 - Once neotiation is completed and/or it is determined that negotiation is not needed, your purchase request will be approved by procurement and will advance to the next approver, which is typically fp&a. 
 
-## How Long Does it take to get my New Software Purchase Approved?
+## How Long Does it take to get my contract reviewed and approved?
 - Contracts greater than $25K are typically negotiated by the procurement team, unless you've already done so.
     - The negotiation, review and approval cycle typically takes 2-3 weeks based on the scope of the request. Large and/or complex contracts can take longer to negotiate.
 - Contracts less than $25K do not need to be negotiated by procurement unless there is a business reason to do so. 
