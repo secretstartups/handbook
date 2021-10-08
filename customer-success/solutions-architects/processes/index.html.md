@@ -257,3 +257,5 @@ Alliances SAs are aligned Gitlab gitaly
 
 1. Creation process.
 2. Update process.
+
+Checkout [this document](../commercial2/index.html.md)
