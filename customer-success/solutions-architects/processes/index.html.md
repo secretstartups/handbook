@@ -249,3 +249,11 @@ To be efficient as possible, this is the recommended approach:
     1. Collaborate using the Account Management issue, history, running docs, and shared material
     1. [optional] Suggest an internal team call to coordinate materials and next steps
 1. **Communicate**: Set up a call with the prospect or customer to determine the next best steps.
+
+### Alliances SA Engagement Model
+
+Alliances SAs are aligned blah blah
+
+### Issue Creation Details
+
+1. Creation process.
