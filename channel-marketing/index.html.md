@@ -131,8 +131,9 @@ When requesting support from our team, we commit to responding to your [issue](h
 
 *   **David Duncan**: (aka Dunk) VP of Demand Generation & Partner Marketing
 *   **Coleen Greco**: (aka Greco) Director, Global Channel and Alliances Marketing
-*   **Lisa Rom**: Senior Partner Marketing Manager.  Lisa will be focusing on global alliances and channel marketing initiatives and major channel programs
-*   **Karen Pourshadi**: Senior Partner Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+*   **Lisa Rom**: Senior Partner Channel Manager.  Lisa will be focusing on global alliances and channel marketing initiatives and major channel programs
+*   **Karen Pourshadi**: Senior Channel Marketing Manager.  Karen will be focusing on partner content: enabling our partner marketing resources with major GitLab GTM initiatives and developing turnkey, integrated [Instant Marketing Campaigns](https://about.gitlab.com/handbook/marketing/channel-marketing/campaigns/#what-is-a-partner-instant-marketing-campaign) for GitLab channel partners. 
+*   **Sara Valko**: DMR Channel Marketing Manager.  Sara will be focusing on our DMR channel partners including but not limited to: CDW, SHI and Insight.  She will be partnering with them to develop integrated demand generation campaigns that drive net new logos for GitLab. 
 
 ## The best way to contact our team is through our Slack channels
 
