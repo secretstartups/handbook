@@ -18,7 +18,9 @@ To learn more about Field Ops releases, see the [Field Ops Release Schedule hand
 
 ### 2021-10-11 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/65))
 
+**SOPS: [Removing `Other` Category from Closed-Lost](https://gitlab.com/gitlab-com/sales-team/field-operations/sales-operations/-/issues/2449)**
 
+**Channel Ops: [Google Cloud Revenue Share Change](https://docs.google.com/document/d/1-CH-uH_zr0qaVaV1QbmVZ1rF669DsaUeq9w-q1QiKPE/edit#bookmark=id.f6wy7bn2nd7j)**
 
 ### 2021-09-27 Release ([epic](https://gitlab.com/groups/gitlab-com/sales-team/field-operations/-/epics/62))
 
