@@ -24,9 +24,9 @@ Any team member leaving Gitlab must review this handbook page thoroughly and in 
 Ensure your laptop is enrolled in [Jamf](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) (for Mac’s). If you have a laptop with Linux, please reach out to #it-help in slack to have the Linux laptop enrolled in [Drivestrike](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) before your last day.
 
 The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe: Calendly links will be provided in your Gitlab Off-boarding Email Packet. 
-- Marc DiSabatino - mdisabatino@gitlab.com - AMER time zone
-- Paul Laurinavicius - plaurinavicius@gitlab.com - EMEA time zone
-- Steve Ladgrove - sladgrove@gitlab.com - APAC time zone
+- Marc DiSabatino - AMER time zone
+- Paul Laurinavicius - EMEA time zone
+- Steve Ladgrove - APAC time zone
  
 **Please confirm you have no personal data or files on your laptop before your last day. Once ITOps wipes the laptop any of this information will be permanently deleted.** 
  
@@ -43,10 +43,8 @@ The team member should arrange a meeting with the respective IT Ops team member 
 - You may keep your laptop at no charge after the laptop is wiped by Gitlab IT. 
 - We can provide a Transfer of Ownership document if requested.
  
- 
 **If you’ve had the laptop for less than a year.**
-- You may purchase the laptop from Gitlab at a depreciated market value after the laptop is wiped by Gitlab IT.
-- We can provide a Transfer of Ownership document if requested. 
- 
-**If you’ve had the laptop for less than a year.**
-- During your scheduled meeting with ITOps please let us know if you want to return your laptop. We will arrange a shipment at no cost to yourself for the return. 
+
+After the laptop is wiped by Gitlab IT:
+- You can choose to return your laptop, in which case we will arrange a shipment at no cost to yourself for the return.
+- You may purchase the laptop from Gitlab at a depreciated market value. We can provide a Transfer of Ownership document if requested
