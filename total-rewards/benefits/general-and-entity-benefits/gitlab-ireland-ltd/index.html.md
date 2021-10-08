@@ -41,7 +41,7 @@ Orca has put together the following [video](https://drive.google.com/file/d/1IkV
 
 ### Pension Match
 
-GitLab will match up to 5% of annual base salary of the team member's contributions.
+GitLab will match up to 5% of annual base salary of the team member's contributions. Team members may opt for a higher contribution but GitLab will only match up to 5%.
 
 ### Enrollment
 
