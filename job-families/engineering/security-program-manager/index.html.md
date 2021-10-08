@@ -20,13 +20,13 @@ The Security Program Manager will be responsible for complete overview and drivi
 
 ## Levels
 
-### Security Program Manager
+### Intermediate Security Program Manager
 This position reports to the Vice President of Security at GitLab.
 
-#### Security Program Manager Job Grade
+#### Intermediate Security Program Manager Job Grade
 The role is a [grade 6](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
-#### Security Program Manager Responsibilities
+#### Intermediate Security Program Manager Responsibilities
 All responsibilities listed above (applicalbe to all roles) plus:
 * Identify and coordinate the interdependencies among programs, products and other critical initiatives for a single Security sub-departments
 * Provide insight and suggestions to improving security
