@@ -16,10 +16,10 @@ canonical_path: "/company/team/structure/working-groups/database-scalability/"
 | Property        | Value           |
 |-----------------|-----------------|
 | Date Created    | March 15, 2021 |
-| End Date | September 24, 2021 |
+| End Date | January 21, 2022 |
 | Slack           | [#wg_database-scalability](https://gitlab.slack.com/archives/C01NB475VDF) (only accessible from within the company) |
 | Google Doc      | [Working Group Agenda](https://docs.google.com/document/d/17go_0DWgU5CZXKiXmlU_CUmWfen5typtFzKrD1qv13w/edit#heading=h.mty28tz7llip) (only accessible from within the company) |
-| Issue Board     | TBD             |
+| Issue Board     | [Sharding:Build Board](https://gitlab.com/groups/gitlab-org/-/boards/2594854?scope=all&utf8=%E2%9C%93&label_name[]=group%3A%3Asharding&label_name[]=sharding%3A%3Aactive)             |
 
 ### Glossary
 
@@ -152,32 +152,31 @@ It is important we settle on specific nomenclature. Currently, there is a fair a
 
 ### Work Streams and DRI
 
+#### Decompose GitLab's database to improve scalability
+
+1. Epic/Issue: https://gitlab.com/groups/gitlab-org/-/epics/6168
+1. DRI: Craig Gomes
+
 #### CI/CD Data Model
 
 1. Epic/Issue: https://gitlab.com/gitlab-org/architecture/tasks/-/issues/5
 1. DRI: Grzegorz Bizon
 1. Blueprint: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/52203
 
-#### Data Access Layer
-1. Epic/Issue: TBD
-   1. Related: [Composable Codebase](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/50842)
-1. DRI: Kamil Trzciński
-1. Blueprint: TBD
-
 ## Roles and Responsibilities
 
 | Working Group Role                       | Person                          | Title                                    |
 |------------------------------------------|---------------------------------|------------------------------------------|
 | Executive Stakeholder                    | Eric Johnson                    | Chief Technology Officer |
-| Facilitator/DRI                          | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure |
-| Functional Lead/Data Access Layer DRI    | Kamil Trzciński                 | Distinguished Engineer, Ops and Enablement (Development) |
+| Facilitator/DRI                          | Christopher Lefelhocz           | Cleaner |
+| Functional Lead                          | Kamil Trzciński                 | Distinguished Engineer, Ops and Enablement (Development) |
 | Functional Lead                          | Jose Finotto                    | Staff Database Reliability Engineer (Infrastructure) |
+| Member                                   | Gerardo "Gerir" Lopez-Fernandez | Engineering Fellow, Infrastructure |
 | Member                                   | Stan Hu                         | Engineering Fellow |
 | Member                                   | Andreas Brandl                  | Staff Backend Engineer, Database |
 | Member/CICD Data Model DRI               | Grzegorz Bizon                  | Staff Backend Engineer (Time-decay data `ci_builds` ) |
-| Member                                   | Craig Gomes                     | Backend Engineering Manager (Database and Memory) |
+| Member                                   | Craig Gomes                     | Sr. Engineering Manager, Datastore |
 | Member                                   | Chun Du                         | Director of Engineering, Enablement |
-| Member                                   | Christopher Lefelhocz           | Cleaner |
 | Member                                   | Adam Hegyi                      | Senior Backend Engineer, Manage |
 | Member                                   | Tanya Pazitny                   | Quality Engineering Manager, Enablement & Secure |
 | Member                                   | Nick Westbury                   | Senior Software Engineer in Test, Geo |
