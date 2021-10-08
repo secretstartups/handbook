@@ -18,6 +18,7 @@ The [Security Team](/handbook/engineering/security) is responsible for leading a
 
 - Develop security training and guidance to internal development teams
 - Provide subject matter expertise on architecture, authentication and system security
+- Create and maintain artifacts in a protected repository established as a single source of truth
 - Assess security tools and integrate tools as needed, particularly open-source tools
 - Assist with recruiting activities and administrative work
 - Technical Skills
