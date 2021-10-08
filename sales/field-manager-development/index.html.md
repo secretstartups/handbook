@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Field Manager Development Program"
-description: "The Field Manager Development Program will equip managers with a foundational set of skills & practices for effectively managing remote teams across GitLab’s field organization"
+description: "The Field Manager Development Program equips managers with a foundational set of skills & practices for effectively managing remote teams across GitLab’s field organization"
 ---
 
 {::options parse_block_html="true" /}
@@ -24,7 +24,7 @@ All people managers in the GitLab field organization
 Managers will participate in a series of quarterly training & reinforcement exercises throughout FY22. While there will be formal training elements, a large focus will be on social learning (learning from others) and practical, real-world application to convert knowledge to action.
 - **Q1FY22** (2021-03-22): Program Launch & Recruiting Top Talent (virtual)
 - **Q2FY22** (2021-05-24, 2021-05-26, and 2021-06-02): Field Manager Challenge (virtual)
-- **Q3FY22** (2021-09-18): Field Manager Summit (in-person at Contribute) ([see the FAQs here](https://web.cvent.com/event/aa9c9e95-4dda-4eea-91ec-a1ebecf42e8b/websitePage:8147b15f-0e1c-4daa-93dc-bb71dc089b09))
+- **Q3FY22** (2021-10-04): Recognition, Coaching & Manager Operating Rhythm (virtual)
 
 ## Topics
 This program will leverage content from the [GitLab Manager Challenge](/handbook/people-group/learning-and-development/manager-challenge/) and address multiple learning objectives supporting the following categories:
@@ -32,7 +32,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 1. What is a High Performing Team?
 1. Organizational / Team Health
 1. Performance Management & Giving Feedback
-1. Coaching & Manager Operating Rhythm
+1. Recognition, Coaching & Manager Operating Rhythm
 
 ## Content
 
@@ -110,18 +110,33 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YaXSbLqork" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Coaching & Manager Operating Rhythm
-- [Coaching Handbook page](/handbook/leadership/coaching/)
-    - [GROW Coaching Model](/handbook/leadership/coaching/#grow-model)
-- [Manager Operating Rhythm (MOR)](/handbook/sales/manager-operating-rhythm/)
+### Recognition, Coaching & Manager Operating Rhythm
+- Pre-work: Module 4 of the [Field Manager Development Program journey](https://gitlab.edcast.com/journey/field-manager-development-program-journey)
+- Recognition, Coaching, and Manager Operating Rhythm ([slides](https://docs.google.com/presentation/d/15kMGlgIFym6TzeDwayFjExryrIIbbN2Euk1Si2HfL6U/edit?usp=sharing)) (GitLab internal only)
+-  [Session Intro](https://youtu.be/S4civbLZeLQ) (2 minutes)
+-  [Welcome](https://youtu.be/zHCIEp21Ny8) from Michael McBride (GitLab Chief Revenue Officer) (15 minutes, GitLab internal only)
+-  [CRO Leader Perspectives on Coaching](https://youtu.be/vOEf9g4kIvQ) featuring Michelle Hodges (GitLab VP WW Channel Sales) and Nima Badiey (GitLab VP, Alliances) (11 minutes, GitLab internal only)
+- [Fostering Field Recognition](https://youtu.be/OEU3uMTT35s) featuring Denise Parsonage (Director, People Business Partner) and Monica Jacob (Manager, Field Communications) (15 minutes, GitLab internal only)
+- Recent Photo Ice Breaker
+- [When to Coach Breakout Discussions](https://youtu.be/ukShuN0dJHc) led by Carolyn Bednarz (Director, People Business Partner) (23.5 minutes, GitLab internal only)
+- [Field Manager Spotlight: GROW Model](https://youtu.be/uCuQjwrkNO4) featuring Ed Cepulis (Sr. Director, Channel Programs and Enablement) (11 minutes)
+- [Role Play Breakout Activity: GROW Coaching Model](https://youtu.be/Yagj9t7BDF4) (35 minutes, GitLab internal only))
+- [Manager Operating Rhythm & Closing](https://youtu.be/q2Z6mviXGjg) (5 minutes)
+    - [Manager Operating Rhythm (MOR)](/handbook/sales/manager-operating-rhythm/) Handbook page
+
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K3iJwoydBbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://www.loom.com/embed/61fe084ac83741619a8fc5f3dd01c400" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+<br>
 
 ## Core Team
 - [Carolyn Bednarz](/company/team/#cbednarz) (People Business Partner, Sales)
@@ -134,4 +149,3 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
     - [Michael Leutz](/company/team/#mrleutz) (Manager, Technical Account Managers, EMEA)
     - [Helen Mason](/company/team/#hmason) (Area Sales Manager (SMB), EMEA)
     - [Jacob Potter](/company/team/#jpotter1) (Area Sales Manager, Mid Market First Order)
-
