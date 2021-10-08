@@ -1,6 +1,6 @@
 ---
 layout: handbook-page-toc
-title: "Gitlab IT Onboarding"
+title: "Gitlab IT 101"
 ---
 
 ## On this page
