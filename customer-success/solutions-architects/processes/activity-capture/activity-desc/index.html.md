@@ -23,12 +23,12 @@ Solutions Architects record all customer and prospect activity with accurate act
 When recording prospect/customer activity by SA into `Task` objects within Salesforce based on the `Log a Call` action on an `Opportunity`, one or more than one activity type should be selected to accurately reflect the customer interaction. 
 
 This page describes all activity types available for SAs in 
-- [Enterprise and Commercial](https://cherryhan-master-patch-25716.about.gitlab-review.app/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-enterprise-and-commercial-sa-teams) 
-- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-strategic-field-sa-team), and
-- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#sa-activity-type-description-for-alliancechannel-sa-team)
+- [Enterprise and Commercial](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
+- [Strategic Field](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Strategic-Field-SA-Activity), and
+- [Alliance/Channel](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Alliance/Channel-SA-Activity)
 
 
-### SA Activity Type Description for Enterprise and Commercial SA Teams
+### Description for Enterprise and Commercial SA Activity Type
 
 Select these types when capturing activities by Enterprise and Commercial SA teams.
 
@@ -68,7 +68,7 @@ also refer to insights around the demonstration purpose and area of product walk
 
 - **Professional Service Support** - SA have a clear understanding of the client's available internal skills and capabilities and assist their clients in ways to become successful in a quicker way when skills gaps are identified. As a result of that, GitLab Professionals Services support adds customer value to mitigate risk and accelerate speed to success. Since the SA owns the initiation of the ProServ division at GitLab for our customers outlined here - and a significant amount of follow up and cadence is expected as a SA service to our regional customers.  
 
-### SA Activity Type Description for Strategic Field SA Team
+### Description for Strategic Field SA Activity
 
 Select these [SA] Activity types when capturing activities by the Strategic Field team but other activity types for Enterprise can also be used.
 
@@ -76,7 +76,7 @@ Select these [SA] Activity types when capturing activities by the Strategic Fiel
 
 - **Executive Solution Plan** - Calls with client’s management and executives to discuss, strategize and review DevOps solution for organization wide transformation, develop the trusted advisory relationship with industry thought leadership and guide the enterprise for DevOps adoption with best practices. 
 
-### SA Activity Type Description for Alliance/Channel SA Team
+### Description for Alliance/Channel SA Activity
 
 Select these [SA] Activity types when capturing activities by the Alliance/Channel team but other activity types for Enterprise can also be used.
 
