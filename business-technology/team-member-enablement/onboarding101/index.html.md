@@ -67,15 +67,17 @@ If you are new to using a Macbook or switched from another OS such as windows ch
 
 Apple has official training sessions available every week! These training sessions are great if you are new to using a Macbook or want some tips and insider knowledge on using a Macbook! Please check it out [here](https://events.apple.com/content/events/pst/us/en/default.html?token=xww6uj7woR0X9A3Y9qIMRkNVdH60MurN7MAvJSY75sHQxWqaTEhMjEmalXqC7MMJuZhb5dzJ1P9mLUXaAAfCMipX6qVTaNqFY_njjpamZQfrSbMYEpe-edwBN1r5nI4t-GCxEY8&a=1&l=e)
 
-### Laptop Setup: Linux
+## Laptop Setup: Linux
 
 Check out [this detailed page](https://about.gitlab.com/handbook/tools-and-tips/linux/) on setting up your Linux laptop. Also feel free to reach out in #Linux slack channel or #it_help for assistance!
 
-## Need Help?
-
-If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it_help channel.
-
 ## Extra Setup
+
+### Endpoint Management
+
+Macbook: You are required to install Jamf on your Macbook for security and compliance reasons. Please check [this guide](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/endpoint-management/jamf/#enrolling-in-jamf) for assistance!
+
+Linux: Currently we do not have an endpoint management tool for Linux. However we do have [a tool](https://about.gitlab.com/handbook/business-technology/team-member-enablement/onboarding-access-requests/#fleet-intelligence--remote-lockwipe) that we use to wipe and lock them if needed. 
 
 ### Laptop Encryption
 
@@ -84,3 +86,7 @@ It is essential to encrypt your laptops hard drive using Mac's filevault or Linu
 - [Macbook Encryption](https://about.gitlab.com/handbook/security/#laptop-or-desktop-system-configuration)
 - [Linux Encryption](https://about.gitlab.com/handbook/tools-and-tips/linux/#initial-installation)
 
+
+## Need Help?
+
+If you need further assistance with setting up your Macbook please join our weekly onboarding call scheduled every tuesday (Check your Calendar!) or reach out to us in slack in the #it_help channel.
