@@ -6,7 +6,7 @@ description: "The GitLab Candidate Experience Specialists work to create positiv
 
 ## Candidate Experience Specialist
 
-The GitLab Candidate Experience Specialists work to create positive experiences for GitLab candidates and hiring teams. In a growing fast-paced environment, the Candidate Experience Specialist is a dynamic team member who helps create an amazing candidate experience, improve our existing hiring practices, and deliver exceptional results to our hiring teams. GitLab strives to be a preferred employer and relies on the Candidate Experience Specialists to act as brand ambassadors by embodying the company values during every interaction with potential team members. The Candidate Experience Specialist is enthusiastic about working with high volume and is dedicated to helping GitLab build a qualified, diverse, and motivated team. The Candidate Experience Specialist reports to the Team Lead, Candidate Experience.
+The GitLab Candidate Experience Specialists work to create positive experiences for GitLab candidates and hiring teams. In a growing fast-paced environment, the Candidate Experience Specialist is a dynamic team member who helps create an amazing candidate experience, improve our existing hiring practices, and deliver exceptional results to our hiring teams. GitLab strives to be a preferred employer and relies on the Candidate Experience Specialists to act as brand ambassadors by embodying the company values during every interaction with potential team members. The Candidate Experience Specialist is enthusiastic about working with high volume and is dedicated to helping GitLab build a qualified, diverse, and motivated team. The Candidate Experience Specialist reports to the Associate Manager, Candidate Experience.
 
 ### Job Grade
 
@@ -70,13 +70,13 @@ The Senior Candidate Experience Specialist is a [grade 6](/handbook/total-reward
 * Confidence to learn new technologies and translate that learning to others
 * Experience as mentor, guide, or subject matter expert
 
-## Candidate Experience Lead
+## Associate Manager, Candidate Experience
 
-The Candidate Experience Lead has deep experience in assessing organizational needs and developing a variety of solutions to drive development and growth within the team and department. They provide leadership to build and scale initiatives that focus on team development, strengthening our team members, and continual process improvement to ensure candidates receive an amazing experience.
+The Associate Manager, Candidate Experience has deep experience in assessing organizational needs and developing a variety of solutions to drive development and growth within the team and department. They provide leadership to build and scale initiatives that focus on team development, strengthening our team members, and continual process improvement to ensure candidates receive an amazing experience.
 
 ### Job Grade
 
-The Candidate Experience Lead is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
+The Associate Manager, Candidate Experience is a [grade 7](/handbook/total-rewards/compensation/compensation-calculator/#gitlab-job-grades).
 
 ### Responsibilities
 
