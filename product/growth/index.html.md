@@ -140,7 +140,7 @@ and - like a contribution coming from the wider community - ultimately own the f
 
 ### UX
 #### How UX Works
-We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [UX section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessy measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
+We follow the [Product Designer workflows](/handbook/engineering/ux/product-designer/) and [UX Researcher workflows](/handbook/engineering/ux/ux-research/) described in the [Product Design section](/handbook/engineering/ux/) of the handbook. As Growth designers, we relentlessly measure the impact of our design changes following the [experimentation workflow](/handbook/engineering/development/growth/experimentation/). In addition:
 
 - we have issue boards so we can see what everyone is up to.
     - [by group](https://gitlab.com/groups/gitlab-org/-/boards/1334665?&label_name%5B%5D=UX&label_name%5B%5D=devops%3A%3Agrowth)
@@ -151,7 +151,7 @@ We follow the [Product Designer workflows](/handbook/engineering/ux/ux-designer/
     - PMs provide an [ICE score for experiments](https://docs.google.com/spreadsheets/d/1yvLW0qM0FpvcBzvtnyFrH6O5kAlV1TEFn0TB8KM-Y1s/edit#gid=0) and by using [priority labels](https://docs.gitlab.com/ee/development/contributing/issue_workflow.html#priority-labels) for other issues.
     - The Product Designer applies the milestone in which they plan to deliver the work (1-2 milestones in advance, or backlog for items that are several months out. For example, if an issue is not doable for a designer in the current milestone, they can add the next milestone to the issue, which will communicate to the PM when the work will be delivered.
     - If the PM has any concern about the planned milestone, they will discuss trade-offs with the Product Designer and other Growth PMs.
-- we use [UX issue weights](https://about.gitlab.com/handbook/engineering/ux/ux-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
+- we use [UX issue weights](https://about.gitlab.com/handbook/engineering/ux/product-designer/#ux-issue-weights) in order to better estimate capacity, realistically break down our work, and give PMs a little insight into how much work we can take on in a milestone.
     - Label the issue for UX work with `UX` and assess the issue weight. Issues larger than an **8** should be broken down further.
     - When the UX work is ready to be transitioned into Engineering, apply the workflow lable `workflow::planning breakdown`.
     - The Engineering team can create a new issue or issues with the broken down work, and apply issue weights. These issues should be labeled `Engineering`.
@@ -179,7 +179,7 @@ In addition to the [Validation Phase Outcomes](https://about.gitlab.com/handbook
 
 The engineering team applies the `UX` label to any MR that introduces a visual, interaction or flow change. These MRs can be related to new issues, bugs, followups, or any type of MR. If the engineer isn't sure whether the MR needs UX, they should consult the designer who worked on the related issue, and/or the designer assigned to that stage group, or the UX manager.
 
-Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
+Visual reviews are required for any MR with the `UX` label. When the MR is in `workflow::In review`, the engineer assigns the MR to the designer for a visual review using the [reviewer functionality](https://docs.gitlab.com/ee/development/code_review.html#getting-your-merge-request-reviewed-approved-and-merged) in the sidebar. This can happen in parallel with the maintainer review, but designers should prioritize these reviews to complete them as quickly as possible.
 
 There are times when it isn't possible or practical for a designer to complete their visual review via Review Apps or GDK. At these times the designer and engineer could coordinate a demo or the engineer could record a video of themselves going through the new functionality and add it to the MR. Creating a video is a way to speed up the review process, however it is optional and not always an appropriate stand in for a full review. 
 

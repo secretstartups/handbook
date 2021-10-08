@@ -51,8 +51,8 @@ to triage and begin work on the issue.
 
 | Request Type | Template |
 | --- | --- |
-| Ad hoc / Default request | [Ad Hoc Request](https://gitlab.com/gitlab-data/product-analytics/-/blob/main/.gitlab/issue_templates/Ad%20Hoc%20Request.md) |
-| Experimentation analysis | [Experiment Analysis Request](https://gitlab.com/gitlab-data/product-analytics/-/blob/main/.gitlab/issue_templates/Experiment%20Analysis%20Request.md) |
+| Ad hoc / Default request | [Ad Hoc Request](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Ad%20Hoc%20Request) |
+| Experimentation analysis | [Experiment Analysis Request](https://gitlab.com/gitlab-data/product-analytics/-/issues/new?issuable_template=Experiment%20Analysis%20Request) |
 
 #### Submission Deadline
 

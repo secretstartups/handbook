@@ -17,7 +17,7 @@ There are several stages and teams involved to go from collecting data to making
 | Stage | Description | DRI | Support Teams |
 | ----- | ----------- | --- | ------------- |
 | Privacy Settings | The implementation of our Privacy Policy including data classification, data access, and user settings to control what data is shared with GitLab. | Product Intelligence | Legal, Data |
-| Collection | <span class="colour" style="color:rgb(0, 0, 0)">The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and </span><span class="colour" style="color:rgb(17, 85, 204)"><u>[about.gitlab.com](http://about.gitlab.com/)</u></span><span class="colour" style="color:rgb(0, 0, 0)">. Our current tooling includes Snowplow, Service Ping, and Google Analytics.</span> | Product Intelligence | Infrastructure |
+| Collection | The data collection tools used across all GitLab applications including GitLab SaaS, GitLab self-managed, CustomerDot, LicenseDot, VersionDot, and [about.gitlab.com](http://about.gitlab.com/). Our current tooling includes Snowplow, Service Ping, and Google Analytics. | Product Intelligence | Infrastructure |
 | Extraction | The data extraction tools used to extract data from Product, Infrastructure, Enterprise Apps data sources. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Loading | The data loading tools used to extract data from Product, Infrastructure, Enterprise Apps data sources and to load them into our data warehouse. Our current tooling includes Stitch, Fivetran, and Custom. | Data |  |
 | Orchestration | The orchestration of extraction and loading tooling to move data from sources into the Enterprise Data Warehouse. Our current tooling includes Airflow. | Data |  |
@@ -39,9 +39,9 @@ The systems overview is a simplified diagram showing the interactions between Gi
 
 For Product Intelligence purposes, GitLab Inc has three major components:
 
-1. [Data Infrastructure](https://about.gitlab.com/handbook/business-ops/data-team/platform/infrastructure/): This contains everything managed by our data team including Sisense Dashboards for visualization, Snowflake for Data Warehousing, incoming data sources such as PostgreSQL Pipeline and S3 Bucket, and lastly our data collectors [GitLab.com's Snowplow Collector](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow/) and GitLab's Versions Application.
+1. [Data Infrastructure](/handbook/business-ops/data-team/platform/infrastructure/): This contains everything managed by our data team including Sisense Dashboards for visualization, Snowflake for Data Warehousing, incoming data sources such as PostgreSQL Pipeline and S3 Bucket, and lastly our data collectors [GitLab.com's Snowplow Collector](https://gitlab.com/gitlab-com/gl-infra/readiness/-/tree/master/library/snowplow/) and GitLab's Versions Application.
 1. GitLab.com: This is the production GitLab application which is made up of a Client and Server. On the Client or browser side, a Snowplow JS Tracker (Frontend) is used to track client-side events. On the Server or application side, a Snowplow Ruby Tracker (Backend) is used to track server-side events. The server also contains Service Ping which leverages a PostgreSQL database and a Redis in-memory data store to report on usage data. Lastly, the server also contains System Logs which are generated from running the GitLab application.
-1. [Monitoring infrastructure](https://about.gitlab.com/handbook/engineering/monitoring/): This is the infrastructure used to ensure GitLab.com is operating smoothly. System Logs are sent from GitLab.com to our monitoring infrastructure and collected by a FluentD collector. From FluentD, logs are either sent to long term Google Cloud Services cold storage via Stackdriver, or, they are sent to our Elastic Cluster via Cloud Pub/Sub which can be explored in real-time using Kibana.
+1. [Monitoring infrastructure](/handbook/engineering/monitoring/): This is the infrastructure used to ensure GitLab.com is operating smoothly. System Logs are sent from GitLab.com to our monitoring infrastructure and collected by a FluentD collector. From FluentD, logs are either sent to long term Google Cloud Services cold storage via Stackdriver, or, they are sent to our Elastic Cluster via Cloud Pub/Sub which can be explored in real-time using Kibana.
 
 ### Self-managed
 
@@ -58,43 +58,114 @@ As shown by the green lines, on GitLab.com system logs flow into GitLab Inc's mo
 
 Note (1): Snowplow JS and Snowplow Ruby are available on self-managed, however, the Snowplow Collector endpoint is set to a self-managed Snowplow Collector which GitLab Inc does not have access to.
 
-## Collection
 
-### Types of Data
+## SaaS Data Collection Catalog
 
-#### Event data
+Our SaaS data collection catalog spans both the client (frontend) and server (backend), and uses various tools. We pick-up events and data produced when using the application. By utilizing collected [identifiers](/handbook/product/product-intelligence-guide/#data-used-as-identifiers), we can string these backend and frontend events together to illustrate a GitLab journey at the (1) [user](/handbook/product/product-intelligence-guide/#example-user-journey) (pseudonymized), (2) namespace, and project level.
 
-**Page views**
+The below table explains the types of data we collect from GitLab.com and examples for what it can be used. Below we show example data for each collection types.o
 
-- Number of sessions that visited the /dashboard/groups page
+| Technology                                                                                                                            | Data Type          | Description                                                                                                                                                                                                                           | Aggregation Method                                    |
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| [Snowplow Tracking](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/) (Frontend and Backend) | Event Based Data   | Examples:  - Collects an event on Git pushes - Collects an event on a button click - Collects an event on a successful Pipeline  - Collects an a request to a Rails controller                                                                                            | Event based or grouped by an attribute (e.g. session) |
+| [Service Ping](https://docs.gitlab.com/ee/development/service_ping/)                                                                  | Transactional data | Examples: - Total issues created - Instance settings such as the instance's Git version - Integration settings such as an [external storage provider](https://docs.gitlab.com/ee/administration/static_objects_external_storage.html) | Count based on either total time our given timeframe  |
 
-**UI events**
 
-- Number of sessions that clicked on a button or link
-- Number of sessions that closed a modal
+### Frontend Events
+On the client side, a [Snowplow JS Tracker](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/javascript-trackers/) is used to track events.
 
-UI events are any interface-driven actions from the browser including click data.
+The most up to date schema of the events can be found at https://gitlab.com/gitlab-org/iglu/.
 
-**CRUD or API events**
+#### Collected Data
 
-- Number of Git pushes
-- Number of GraphQL queries
-- Number of requests to a Rails action or controller
+By using the [Snowplow JS Tracker](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/javascript-trackers/) we're tracking user-event data like page views or user interactions like clicks.
 
-These are backend events that include the creation, read, update, deletion of records, and other events that might be triggered from layers other than those available in the interface.
+Examples of what we can gather with this data:
+- Number of events clicked on a button, modal, link
+- Number of page views on a specific page
 
-#### Transactional data
+#### Frontend Event Example Data
 
-**Database records**
-These are raw database records which can be explored using business intelligence tools like Sisense. The full list of available tables can be found in [structure.sql](https://gitlab.com/gitlab-org/gitlab/-/blob/master/db/structure.sql).
+_coming soon_
 
-#### Settings data
+### Backend
 
-**Instance settings**
-These are settings of your instance such as the instance's Git version and if certain features are enabled such as `container_registry_enabled`.
+We use [Snowplow Ruby Tracker](https://docs.snowplowanalytics.com/docs/collecting-data/collecting-from-own-applications/ruby-tracker/) to gather server-side event data. We also utilize [Service Ping](/handbook/product/product-intelligence-guide/#service-ping) to gather aggregated metrics from **PostgreSQL database** and a **Redis in-memory data store**. Lastly, the server also contains **System Logs** which are generated from running the GitLab application.
 
-**Integration settings**
-These are integrations your GitLab instance interacts with such as an [external storage provider](https://docs.gitlab.com/ee/administration/static_objects_external_storage.html) or an [external container registry](https://docs.gitlab.com/ee/administration/packages/container_registry.html#use-an-external-container-registry-with-gitlab-as-an-auth-endpoint). These services must be able to send data back into a GitLab instance for data to be tracked.
+#### Backend Event Example Data
+
+_coming soon_
+
+
+##### Service Ping Example Data
+
+A more detailed example of the service ping payload can be found in [our docs](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload)
+
+```json
+{
+  "uuid": "0000000-0000-0000-0000-000000000000",
+  "hostname": "example.com",
+  "version": "12.10.0-pre",
+  "installation_type": "omnibus-gitlab",
+  "active_user_count": 999,
+  "recorded_at": "2020-04-17T07:43:54.162+00:00",
+  "edition": "EEU",
+  "license_md5": "00000000000000000000000000000000",
+  "license_id": null,
+  "historical_max_users": 999,
+  "licensee": {
+    "Name": "ABC, Inc.",
+    "Email": "email@example.com",
+    "Company": "ABC, Inc."
+  },
+   "license_user_count": 999,
+  "license_starts_at": "2020-01-01",
+  "license_expires_at": "2021-01-01",
+  "license_plan": "ultimate",
+  "license_add_ons": {
+  },
+  "license_trial": false,
+  "counts": {
+    "assignee_lists": 999,
+    "boards": 999,
+    "ci_builds": 999,
+    ...
+  },
+  "container_registry_enabled": true,
+  "dependency_proxy_enabled": false,
+  ...
+}
+```
+
+### Data used as identifiers
+
+In order to create the SaaS usage journeys documented below, we collect various identifiers in our data collection catalog. Where the identifier can be used to personally identify a user by someone without permissions to view that information, we will [pseudonymize](https://www.ucl.ac.uk/data-protection/guidance-staff-students-and-researchers/practical-data-protection-guidance-notices/anonymisation-and#Pseudonymisation) the data via [hashing at the collection layer](https://gitlab.com/groups/gitlab-org/-/epics/6309#hashing-on-the-collector-layer). Follow [this epic](https://gitlab.com/groups/gitlab-org/-/epics/6309) to track our progress on our pseudonymization project.
+
+| |Metric | Example Data Pre-Pseudonymization|Pseudonymize? |Example Data Post-Pseudonymization |Collected?|Estimated Collection Timing|
+|---|---|---|---|---|---|---|
+|1|`user_ID`| `2890431` |Yes|Long hash|No|October 2021|
+|2|`group_ID`|`12813618`| No |`12813618`|No| tbd|
+|3|`group_path`|`golden_path`|Yes |Long hash|No|tbd|
+|4|`group_full_path`|`golden-path`|Yes|Long hash|No|tbd|
+|5|`project_ID`|`27005757`| No |`27005757`|No|September 2021|
+|6|`project_path`|`amanda-rueda-project`|Yes|Long hash|No|tbd|
+|7|`project_path_with_namespace`|`golden-path/amanda-rueda-project`|Yes|Long hash|No|tbd|
+|8|`namespace_ID`|`12174719`|No|`12174719`|No| September 2021|
+|9|`namespace_path`|`amandarueda`|Yes|Long hash|No|tbd|
+|10|`namespace_full_path`|`amandarueda`|Yes|Long hash|No|tbd|
+|11|`namespace_web_url`|`https://gitlab.com/amandarueda`|Yes|`https://gitlab.com/namespace:789`|No|tbd|
+|12|`page_url`|`https://gitlab.com/my-group/my-awesome-project`| Yes|`https://gitlab.com/group:123/project:356`  |tbd|tbd|
+|13|`page_url`|`https://gitlab.com/my-group/my-awesome-project/some_folder/some_file.js` |Yes|`https://gitlab.com/group:123/project:346/:repository_path`  |tbd|tbd|
+|14|`page_url`|`https://gitlab.com/my-group/issues`| Yes|`https://gitlab.com/group:123/issues` |tbd|tbd|
+|15|`page_url`|`https://gitlab.com/checkout`|Yes| `https://gitlab.com/checkout` |tbd|tbd|
+|16|`ip address`|`192.158.1.38`|No |`192.158.1.38`|Yes|n/a|
+
+
+### Example User Journey
+
+A user signups for a free GitLab.com account and creates a group and/or project (Pseudonymized user_id created and associated with group or project ID), they set up their repo and then view CI/CD and decide they want to invite a colleague to set up this functionality. The newly invited user signs up for GitLab (New pseudonymized user_id created and associated with the existing group or project ID) and sets up CI/CD for their team (backend event).
+
+**Why this user journey is valuable to GitLab and our users.** In this example, by being able to connect pseudonymized user actions with backend actions we're are able to understand how often teams utilize this adoption path and at what rate they're successful. This will us know what work to prioritize to maximize improvements within the user experience and ensure we're able to understand how impactful these future iterations are.
 
 ### Which Tooling To Use
 
@@ -133,11 +204,13 @@ For more details, read the [Snowplow](https://docs.gitlab.com/ee/development/sno
 
 Service Ping is a method for GitLab Inc to collect usage data on a GitLab instance. Service Ping is primarily composed of row counts for different tables in the instance’s database. By comparing these counts month over month (or week over week), we can get a rough sense for how an instance is using the different features within the product. This high-level data is used to help our product, support, and sales teams.
 
+With the exception of name and email of the license contact associated with customer instances, service ping does not collect personally identifiable (PII) data about the instances users. Service ping simply increments a number when a code path is executed in the application. It can function without any understanding of who users are.
+
 For more details, read the [Service Ping](https://docs.gitlab.com/ee/development/service_ping/) guide.
 
 ### Database import
 
-Database imports are full imports of data into GitLab's data warehouse. For GitLab.com, the PostgreSQL database is loaded into Snowflake data warehouse every 6 hours. For more details, see the [data team handbook](https://about.gitlab.com/handbook/business-ops/data-team/platform/#extract-and-load).
+Database imports are full imports of data into GitLab's data warehouse. For GitLab.com, the PostgreSQL database is loaded into Snowflake data warehouse every 6 hours. For more details, see the [data team handbook](/handbook/business-ops/data-team/platform/#extract-and-load).
 
 ### Reporting level
 
@@ -213,10 +286,9 @@ The [Service Ping Guide](https://docs.gitlab.com/ee/development/service_ping/) o
 - [What is Service Ping?](https://docs.gitlab.com/ee/development/service_ping/#what-is-usage-ping)
 - [How Service Ping works](https://docs.gitlab.com/ee/development/service_ping/#how-usage-ping-works)
 - [Implementing Service Ping](https://docs.gitlab.com/ee/development/service_ping/#implementing-usage-ping)
-- [Developing and Testing Service Ping](https://docs.gitlab.com/ee/development/service_pind/#developing-and-testing-service-ping)
 - [Example Payload](https://docs.gitlab.com/ee/development/service_ping/#example-service-ping-payload)
 
-Also see the [Product Intelligence Guide](https://about.gitlab.com/handbook/product/product-intelligence-guide/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html).
+Also see the [Product Intelligence Guide](/handbook/product/product-intelligence-guide/) and [Snowplow Guide](https://docs.gitlab.com/ee/development/snowplow/index.html).
 
 **Instructions:**
 
@@ -229,7 +301,7 @@ Plan instrumentation with sufficient lead time for data availability. Ensure you
 
 **Timeline:**
 
-1. [Self-managed releases](https://about.gitlab.com/upcoming-releases/) happen on the 22nd of each month (+30 days)
+1. [Self-managed releases](/upcoming-releases/) happen on the 22nd of each month (+30 days)
 1. Wait one week for customers to upgrade to the new release and for a Service Ping to be generated (+7 days)
 1. Service Pings are collected in the Versions application. The Versions application's database is automatically imported into the Snowflake Data Warehouse every day (+1 day).
 
@@ -250,7 +322,7 @@ Dashboard the metric. This is done by creating a Sisense dashboard. Avoid cumula
 
 We need PMs to self-serve their own dashboards as data team capacity is limited. The data team will be focused on enabling self-service, advising PMs, and working on the more challenging XMAU dashboards.
 
-To learn how to create your own dashboard, see [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
+To learn how to create your own dashboard, see [Data For Product Managers: Creating Charts](/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
 
 To update the SMAU Summary Dashboards: [GitLab.com Postgres SMAU Dashboard (SaaS)](https://app.periscopedata.com/app/gitlab/604621/GitLab.com-Postgres-SMAU) and [Service Ping SMAU Dashboard (SaaS + Self-Managed)](https://app.periscopedata.com/app/gitlab/634200/Usage-Ping-SMAU-Dashboard), please open a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues).
 
@@ -272,17 +344,17 @@ For non-GMAU and non-SMAU data issues:
 
 **Instructions:**
 
-1. Read through [Data For Product Managers: Creating Charts](https://about.gitlab.com/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
+1. Read through [Data For Product Managers: Creating Charts](/handbook/business-ops/data-team/programs/data-for-product-managers/#creating-charts)
 1. Self-serve your dashboard
 1. If you need help, create a [data team issue](https://gitlab.com/gitlab-data/analytics/-/issues) and ask your Section Leader to prioritize.
 
 ### 5. Handbook
 
-There are five Product PI pages: The [Product Team page](https://about.gitlab.com/handbook/product/performance-indicators/) and section pages for [Dev](https://about.gitlab.com/handbook/product/dev-section-performance-indicators/), [Ops](https://about.gitlab.com/handbook/product/ops-section-performance-indicators/), [Sec](https://about.gitlab.com/handbook/product/sec-section-performance-indicators/), [Enablement](https://about.gitlab.com/handbook/product/enablement-section-performance-indicators/).
+There are five Product PI pages: The [Product Team page](/handbook/product/performance-indicators/) and section pages for [Dev](h/handbook/product/dev-section-performance-indicators/), [Ops](/handbook/product/ops-section-performance-indicators/), [Sec](/handbook/product/sec-section-performance-indicators/), [Enablement](/handbook/product/enablement-section-performance-indicators/).
 
 We need all PMs to ensure their PIs are showing on the performance indicator pages. Based off [What we're aiming for](#what-were-aiming-for)
 
-To do so, we need a clear way to communicate to PMs exactly which PIs are remaining. We will be [adding placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906) into the [performance indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) so that all required PIs show in the handbook. Once a PI is implemented, the actual PI will replace the placeholder PI.For more information about how PIs and XMAUs are related to one another, see [PI Structure](https://about.gitlab.com/handbook/product/performance-indicators/#structure).
+To do so, we need a clear way to communicate to PMs exactly which PIs are remaining. We will be [adding placeholder PIs for each section](https://gitlab.com/groups/gitlab-com/-/epics/906) into the [performance indicator file](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/performance_indicators/product.yml) so that all required PIs show in the handbook. Once a PI is implemented, the actual PI will replace the placeholder PI.For more information about how PIs and XMAUs are related to one another, see [PI Structure](/handbook/product/performance-indicators/#structure).
 
 **Instructions:**
 

@@ -151,26 +151,29 @@ Deprecating and removing a feature needs to follow a specific process because it
 
 #### Definitions
 
-**Breaking change** is defined as:
+##### Breaking change
+
 - Change in one part of a software system that causes a disruption to a customer's workflows or tasks
 - Requires action from customer to ensure continuity of function
 
-**Deprecation** is defined as:
+##### Deprecation
 - Will be removed at a specified point in the future
 - Still available with new installations, works as is, but documentation mentions deprecated state
 - No longer receives new features and active development
 - Customer support is available but does not include proactive fixes or functionality enhancements
 - We provide fixes for critical bugs, security issues and regressions
 
-**Removal** is defined as:
+##### Removal
+
 - No longer available in the latest version of the product
 - No longer supported 
 
 #### Process for deprecating and removing a feature
 
-** At least 2 milestones before intended removal:**
-1. Identify if deprecating the feature creates a breaking change. If so, you will need to wait until a XX.0 release to remove it. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
-2. Begin announcing it as a deprecation in [GitLab&apos;s documentation](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) so it will be included in the relevant release post
+**At least 2 milestones before intended removal:**
+1. Make sure the deprecation has an issue leveraging the [deprecation issue template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Deprecations.md)
+1. Identify if deprecating the feature creates a [breaking change](#breaking-change). If so, you will need to wait until a XX.0 major release for removal. (Consider providing a notice as much in advance as you can - especially for features that have large impact.)
+2. Begin announcing it as a deprecation following [guidance on the release post handbook page](https://about.gitlab.com/handbook/marketing/blog/release-posts/#deprecations-removals-and-breaking-changes) so it will be included in the relevant release post
 3. Potentially mention it in the [Kickoff Videos](https://about.gitlab.com/handbook/product/product-processes/#kickoff-meetings). 
 4. Engage the support team to discuss support procedures for deprecated features and update the [Statement of Support](https://about.gitlab.com/support/statement-of-support.html) as necessary
 4. Label the feature accordingly in documentation and the application

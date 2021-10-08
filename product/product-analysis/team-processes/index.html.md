@@ -138,6 +138,8 @@ You should ask a peer to review your code and/or findings if:
 
 * You are new to the team
 * You are new to or unfamiliar with the data set
+* The code is going to be reused or highly-visible (ex: Sisense snippets and dashboards)
+* The code is going to be used to measure an experiment
 * The output is informing a critical business decision
 * You want extra eyes on it! Asking for a review is never a bad thing
 
@@ -148,9 +150,22 @@ Before submitting your code for peer review, please check the following:
 * Code is well-commented and easy to follow
   * This includes comments on `JOIN`s, values used in `WHERE` clauses, etc. When it doubt, add 
     a comment
+  * Consider adding aliases to column names to make references explicit
 * Any specific concerns or areas to focus on are called out
   * Ex: "I want some extra eyes on this `LEFT JOIN`", "these are the two most complex CTEs", etc
   * If portions of the code have already been reviewed, call out what is new and what is unchanged
+
+To request a review, [open an MR in the Product Analysis project](https://gitlab.com/gitlab-data/product-analytics/-/merge_requests/new). 
+
+* Add a new directory under `code_reviews/` and use the issue number for the name
+  * Ex: For a code review of issue # 60, the directory should be `code_reviews/60/`
+* Add the query or code to a file within that new directory
+  * Ex: `code_reviews/60/experiment_events_snippet.sql`
+* Once the MR is opened, reach out to the team to see who has capacity to review
+
+Using MRs for reviews will allow for easy feedback and collaboration. However, the code in that 
+directory will become stale quickly (ex: additional changes may be made to a snippet in a 
+different issue), so the queries should not be considered the SSOT.
 
 #### Checklist for Closing an Issue
 

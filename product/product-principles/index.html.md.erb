@@ -163,8 +163,8 @@ We believe however that more options are not necessarily better, and that our us
 
 #### Inspiration
 
-We admire other convention over configuration tools like [Ruby on](http://rubyonrails.org/)
-Rails (that doctrine of which perfectly describes the [value of integrated systems](http://rubyonrails.org/doctrine#integrated-systems)), [Ember](http://emberjs.com/), and
+We admire other convention over configuration tools like [Ruby on Rails](http://rubyonrails.org/)
+(that doctrine of which perfectly describes the [value of integrated systems](http://rubyonrails.org/doctrine#integrated-systems)), [Ember](http://emberjs.com/), and
 [Heroku](https://www.heroku.com/), and strive to offer the same advantages for a
 continuous delivery of software.
 
@@ -436,7 +436,7 @@ classDiagram
 	Acquistion: Measurement (Insert Metric)
   Activation --|> Retention
 	Activation : Are users applying the feature?
-	Activation: Measurement (Insert Metric) 				
+	Activation: Measurement (Insert Metric)
   Retention --|> Revenue
 	Retention : Are users applying the feature over time?
 	Retention: Measurement (Insert Metric)
@@ -463,15 +463,15 @@ graph TD;
     id1(Create - 99%) --> id2(Plan - 91%)
     id3(Verify - 84%) --> id4(Secure - 36%)
     id1 --> id5(Manage - 35%)
-    id1 ==> |Golden Journey|id3(Verify - 84%)
-    id3 ==> |Golden Journey|id6(Release - 37%)
+    id1 ==> |Golden Journey|id3(Verify - 86%)
+    id3 ==> |Golden Journey|id6(Release - 54%)
     id3 --> id7(Package - 7%)
     id6 --> id9(Monitor - 8%)
     id6 --> id10(Configure - 2%)
     id6 --> id11(Protect - 28%)
 ```
 
-- The percentage here is defined as % of monthly active paid ultimate-tier self-managed instances that adopted that stage. The [data](https://app.periscopedata.com/app/gitlab/869174/WIP-Cross-Stage-Adoption-Dashboard?widget=12251348&udv=1326898) captured is a monthly snapshot.
+- The percentage here is defined as % of monthly active paid ultimate-tier self-managed instances that adopted that stage. The data is captured directly in the [Golden Journey Paths Sisense chart](https://app.periscopedata.com/app/gitlab/897587/Golden-Journey-Paths) (select only Ultimate - Self-Managed).
 - The Golden Journey: The bolded path is the "Golden Journey" where we observe as the most common stages adopted by paid customers and serve as foundation to adopt other stages: it starts from Create, then goes to Verify and Release. If the Golden Journey is complete, all stages of GitLab are available for use. Our biggest opportunity is to improve Verify to Release adoption rate.
 
 Note: There are numerous potential variants to this adoption journey, but it's important to keep this representation simple and consistent. Please check with Scott Williamson first before making any changes to the adoption journey image.

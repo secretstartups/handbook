@@ -166,9 +166,12 @@ You can copy/paste this to make sure you don't miss anything:
 
 ```
 - Link to request:
+- Priority: ~customer priority::   
 - Why interested:
 - Current solution for this problem:
 - Impact to the customer of not having this:
 - Questions:
 - PM to mention:
 ```
+
+The `~customer priority::*` labels are inputs for the prioritization model powering the [user requested issues dashboard](https://app.periscopedata.com/app/gitlab:safe-dashboard/919358/User-Requested-Issues), and represent the relative importance of a given issue to the specific customer. 1 is the lowest priority and 10 is the highest. These can be updated at any point in time and will be reflected in the model within 24 hours. 
