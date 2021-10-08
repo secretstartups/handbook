@@ -70,11 +70,10 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 **If the cost is [$1,000 USD or less](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 
 * Take a screenshot of the issue and follow the [Growth & Development Expensify reimbursement process](/handbook/finance/expenses/#-work-related-online-courses-and-professional-development-certifications).
-* Close the issue once you have submitted your Expensify report.
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
 * For conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
-* Total Rewards will then notify payroll to begin the reimbursement process and close the issue.
+* Total Rewards will then notify payroll to begin the reimbursement process.
 
 ## Recoupment of Growth and Development Reimbursements
 If you voluntarily terminate employment with GitLab prior to completing twelve consecutive months of active employment, expenses of $1,000 USD and over will need to be refunded to GitLab.
