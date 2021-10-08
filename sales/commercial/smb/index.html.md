@@ -77,7 +77,7 @@ Though not mandatory, call preps are a great way to gain a different perspective
 
 #### Qualification Calls
 
-One initiative as an SMB AE is to be connecting with as many current customers as possible to support them in finding ways to utilize more of GitLab. Every time you hold a call with a client to discuss entering into a sales cycle for either uptiering, or increasing user count please include "qual" or "qualification" into the subject line of your logged activity. We should also be submitting "qual" or "qualification during our first IQM (Initial Qualifying Meeting) with all prospects.
+One initiative as an SMB AE is to be connecting with as many current customers as possible to support them in finding ways to utilize more of GitLab. Every time you hold an initial call with a client to discuss entering into a sales cycle for either uptiering, or increasing user count please include "qual" or "qualification" into the subject line of your logged activity. We should also be submitting "qual" or "qualification during our first IQM (Initial Qualifying Meeting) with all prospects.
 
 #### True Ups
 
