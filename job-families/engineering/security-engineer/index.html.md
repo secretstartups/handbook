@@ -289,6 +289,26 @@ Red Team specialists emulate adversary activity to better GitLab’s enterprise 
 * Publish blog posts and present talks at security conferences
 * Contribute to GitLab products by testing and proposing new features
 
+### Security Architect
+
+This role reports directly to the VP of Security. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas.  The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem.  More specifically the responsibilities of this role include:
+
+* Define key architectural patterns, engineering practices and standards and drive them across the organization.
+* Work closely with other teams to develop and promote security architectures to protect microservices, serverless, containers, application development and operations practices
+* Maintain a deep understanding and application of security concepts at a technical level.
+* Responsible for providing security guidance to other team members in their design, implementation and support of new cloud architecture and automation technologies, as well as updates and maintenance of existing cloud and automation systems
+* Advocate, document and define security architecture vision from a strategic perspective, including internal and external platforms, tools, and systems
+* Contributes to the security of enterprise data and systems by developing enterprise information security solutions.
+* Creates and updates a view of IT assets, related attack surfaces, and threat actors to illustrate the flow of data and associated security threats.
+* Research, design, and develop new enterprise technologies, architectures, and security products that will support security requirements for the enterprise and its customers, business partners, and vendors.
+* Drive deep architectural discussions in a collaborative fashion to ensure solutions are designed for successful, automated deployment in the cloud, vendor, and on prem environments
+* Assist in the development of security technology roadmaps and end-of-life technology plans.
+* Contribute to, interpret, and disseminate information security policies, standards, and promote awareness of these artifacts to technical component owners.
+* Ensure compliance to information security practices & standards to reduce the likelihood of breaches, audit findings, regulatory, and legal liabilities
+* Analyzes business impact and exposure based on emerging security threats, vulnerabilities, and risks and contributes to the development and maintenance of information security architecture.
+* Engages with security specialists and other functional area architects to ensure adequate enterprise security solutions are in place to sufficiently mitigate identified risks, and to meet business objectives and regulatory requirements.
+* Responds to escalated cybersecurity issues for enterprise systems; facilitates advanced diagnosis and troubleshooting when necessary.
+
 ## Security Engineer Hiring Process
 
 All interviews are conducted using Zoom video conferencing software. Candidates for Security Engineer roles can expect the hiring process to follow the order below, with modifications to the process as required, based on specific situations. Please keep in mind that candidates can be declined from the position at any stage of the process. To learn more about someone who may be conducting the interview, find their job title on our [team page](/company/team/).
