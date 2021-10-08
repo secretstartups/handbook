@@ -251,10 +251,9 @@ To be efficient as possible, this is the recommended approach:
 1. **Communicate**: Set up a call with the prospect or customer to determine the next best steps.
 
 ### Alliances SA Engagement Model
+Alliances SAs are aligned Gitlab gitaly
 
-Alliances SAs are aligned blah blah
-
-### Issue Management Details
+##### Issue Management Details
 
 1. Creation process.
 2. Update process.
