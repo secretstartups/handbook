@@ -8,15 +8,15 @@ The Security Program Manager will be responsible for complete overview and drivi
 
 ## Responsibilities
 * Communicate successfully with partners and drive accountability across teams to ensure program objectives are met
-* Gather and analyze customer and internal security team needs and opportunities for new information security programs, products and projects
+* Gather and examine customer and internal security team needs and opportunities for new information security programs, products and projects
 * Drive organizational needs cross-functionally with product, engineering and finance including tracking and reporting of progress and metrics
 
 ## Requirements
 * Experience crafting and executing Information Security initiatives, including capturing and redefining requirements into impactful work items
-* Strong experience driving cross-functional initiatives according to plan and timelines
-* Ability to prioritize effectively and multitask efficiently
+* Experience driving cross-functional initiatives according to plan and timelines
+* Prioritize effectively and multitask efficiently
 * Proven track record of successful collaboration with internal and external partners
-* Strong communication, presentation, and documentation skills
+* Communication, presentation, and documentation skills
 
 ## Levels
 
@@ -30,11 +30,11 @@ The role is a [grade 6](/handbook/total-rewards/compensation/compensation-calcul
 All responsibilities listed above (applicalbe to all roles) plus:
 * Identify and coordinate the interdependencies among programs, products and other critical initiatives for a single Security sub-departments
 * Provide insight and suggestions to improving security
-* Ability to research and recommend solutions to security challenges
+* Research and recommend solutions to security concerns and blockers
 * Oversee project planning and management
 * Communicate successfully within the project team and with security leadership
 * build trust with direct stakeholders
-* Develop and lead deployment plans and communication with direct stakeholders
+* Develop and guide deployment plans and communication with direct stakeholders
 
 #### Intermediate Security Program Manager Requirements
 All requirements listed above (applicable to all roles)
@@ -49,16 +49,16 @@ The role is a [grade 7](/handbook/total-rewards/compensation/compensation-calcul
 All responsibilities of previous roles plus:
 * Identify and coordinate the interdependencies among programs, products and other critical initiatives for 1 or more Security sub-departments
 * Provide insight and suggestions to steer security stategy and roadmap
-* Analyze risks associated with programs and prioritize risks accordingly
+* Examine risks associated with programs and prioritize risks accordingly
 * Collaborate on strategy and direction with organizational stakeholders; Oversee project planning and management
-* Communicate successfully within the project team and at multiple levels of management, building trust across the organization, and demonstrating discretion with sensitive information
-* Develop and lead deployment plans and communication with partners
+* Communicate successfully within the project team and at multiple levels of management, building trust across the organization, and demonstrating care with sensitive information
+* Develop and guide deployment plans and communication with partners
 
 #### Senior Security Program Manager Requirements
 All requirements of previous roles plus:
 * Experience influencing others without having direct management authority and motivating them to successfully complete tasks within required timelines
-* Strong risk analysis and problem-solving skills
-* Excellent written and verbal communication skills, building strong relationships with partners.
+* Risk analysis and problem-solving skills
+* Excellent written and verbal communication skills, building relationships with partners.
 
 ### Staff Security Program Manager
 This position reports to the Vice President of Security at GitLab.
@@ -71,14 +71,14 @@ All responsibilities of previous roles plus:
 * Identify and coordinate the interdependencies among programs, products and other critical initiatives across all security sub-departments within our organization
 * Assist defining business requirements and roadmaps in alignment with the overall information security strategy
 * Define acceptance criteria for solutions, value proposition and milestones for execution; Validate prototypes with partners and iterate solutions as needed to deliver value
-* Track and provide reporting and measurements of program effectiveness and develop analysis and reports to senior management
+* Track and provide reporting and measurements of program effectiveness and communicate findings to management
 * Develop repeatable, scalable, efficient, and effective processes
 
 #### Staff Security Program Manager Requirements
 All requirements of previous roles plus:
-* Strong technical skills
-* Strong understanding of application, development and infrastructure frameworks
-* Strong anaytical skills for assessing and making decisions based on data and research
+* Advanced technical
+* Advanced understanding of application, development and infrastructure frameworks
+* Advanced anaytical skills for assessing and recommending solutions based on data and research
 
 ### Principal Security Program Manager
 This position reports to the Vice President of Security at GitLab.
@@ -89,14 +89,14 @@ The role is a [grade 9](/handbook/total-rewards/compensation/compensation-calcul
 #### Principal Security Program Manager Responsibilities
 All responsibilities of previous roles plus:
 * Expanded sphere of influence in driving security initiatives across the company
-* Ownership and individually driving goals and objectives furthering the security strategy and roadmap
+* Ownership and independently driving goals and objectives furthering the security strategy and roadmap
 * Accountable and responsible for overflow responsibilities from senior security leadership (VP and Director level)
 * Identify, define and implement security programs across security and the company
 
 #### Principal Security Program Manager Requirements
 All requirements of previous roles plus:
-* Ability to influence and implement change across the company
-* Ability to confidently speak to and represent GitLab to customers and marketing efforts
+* Influence and implement change across the company
+* Speak to and represent GitLab to customers, media and other external stakeholders
 
 
 ## Segment
