@@ -17,7 +17,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## Related pages
 
-* [Weekly Priorities](/handbook/ceo/chief-of-staff-team/readmes/ofernandez2/index.html.md)
+* [Weekly Priorities](/handbook/ceo/chief-of-staff-team/readmes/ofernandez2/priorities/index.html.md)
 * [GitLab](https://gitlab.com/ofernandez2)
 * [Personal blog](https://omareduardo.com/)
 * [LinkedIn profile](https://www.linkedin.com/in/omareduardo/)
