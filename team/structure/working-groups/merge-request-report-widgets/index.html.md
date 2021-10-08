@@ -64,22 +64,22 @@ The functional leads will be responsible for:
 
 Ideally, the functional lead is someone who is an IC working in the affected groups, but anyone capable of representing a group, department, or sub-department in the fashion mentioned above is welcome.
 
-| Working Group Role    | Person                | Stakeholder Dept. | Title                          |
-|-----------------------|-----------------------|-----------------------|--------------------------------|
-| Executive Sponsor | Tim Zallmann | Dev | Director of Engineering, Dev |
-| Facilitator | André Luís | Dev, Create:Code Review | Frontend Engineering Manager | 
-| Functional Lead | Tim Noah | UX | Senior Product Designer |
-| Functional Lead | Phil Hughes | Create:Code Review | Staff Frontend Engineer |
-| Functional Lead | José Iván Vargas López | Verify:Pipeline Execution | Senior Frontend Engineer |
-| Functional Lead | Scott Hampton | Verify:Testing | Acting Engineering Manager | 
-| Functional Lead | Daniel Tian | Secure:Threat Insights | Senior Frontend Engineer |
-| Functional Lead | Mark Florian | Foundations | Senior Frontend Engineer |
-| Functional Lead | Paul Gascou-Vaillancourt | Secure| Frontend Engineer |
-| Functional Lead | Jeremy Elder | UX | Staff Product Designer |
-| Member | Marcel van Remmerden | UX | Product Design Manager, Create |
-| Member | Kai Armstrong | Product | Sr. Product Manager, Create:Code Review |
-| Member | Rayana Verissimo | UX | Product Design Manager, CI/CD |
-| Member | Payton Burdette | Verify:Pipeline Execution | Senior Frontend Engineer |
-| Member | Pedro Moreira da Silva | UX | Staff Product Designer, Create:Code Review |
-| Member | Tomislav Nikić | Quality | Software Engineer in Test, Create:Code Review |
-| Member | Gina Doyle | UX | Product Designer, Verify:Testing & Runner |
+| Working Group Role | Person                   | Stakeholder Dept.         | Title                                         |
+| ------------------ | ------------------------ | ------------------------- | --------------------------------------------- |
+| Executive Sponsor  | Tim Zallmann             | Dev                       | Director of Engineering, Dev                  |
+| Facilitator        | André Luís               | Dev, Create:Code Review   | Frontend Engineering Manager                  |
+| Functional Lead    | Tim Noah                 | UX                        | Senior Product Designer                       |
+| Functional Lead    | Phil Hughes              | Create:Code Review        | Staff Frontend Engineer                       |
+| Functional Lead    | José Iván Vargas López   | Verify:Pipeline Execution | Senior Frontend Engineer                      |
+| Functional Lead    | Scott Hampton            | Verify:Testing            | Acting Engineering Manager                    |
+| Functional Lead    | Daniel Tian              | Secure:Threat Insights    | Senior Frontend Engineer                      |
+| Functional Lead    | Mark Florian             | Foundations               | Senior Frontend Engineer                      |
+| Functional Lead    | Paul Gascou-Vaillancourt | Secure                    | Senior Frontend Engineer                      |
+| Functional Lead    | Jeremy Elder             | UX                        | Staff Product Designer                        |
+| Member             | Marcel van Remmerden     | UX                        | Product Design Manager, Create                |
+| Member             | Kai Armstrong            | Product                   | Sr. Product Manager, Create:Code Review       |
+| Member             | Rayana Verissimo         | UX                        | Product Design Manager, CI/CD                 |
+| Member             | Payton Burdette          | Verify:Pipeline Execution | Senior Frontend Engineer                      |
+| Member             | Pedro Moreira da Silva   | UX                        | Staff Product Designer, Create:Code Review    |
+| Member             | Tomislav Nikić           | Quality                   | Software Engineer in Test, Create:Code Review |
+| Member             | Gina Doyle               | UX                        | Product Designer, Verify:Testing & Runner     |
