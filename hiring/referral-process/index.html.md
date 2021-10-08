@@ -113,6 +113,7 @@ For details regarding the *Referral Bonus Payout*, please visit [this page](/han
         * In the event of **multiple** *Referrers* claiming ownership on a similar vacancy, it will be up to the *Referrers* to decide how to split the Referral Bonus and inform People Ops of that compromise.
             * When such a situation arises, a People Ops team member will notify the Referrers and what will need to happen next.
 * If you referred the candidate to **dissimilar** vacancy, then you would be named their *Referrer* for that specific vacancy.
+* Referring a candidate to the similar positions within the same department.
 
 Other scenarios to be mindful of:
 
