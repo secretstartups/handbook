@@ -61,7 +61,7 @@ For our digital-only customers, we require a GitLab Admin contact to be added to
 - `New - Connected`
 - `Growth`
 
-Learn more about the GitLab Admin contact role requirement [here](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required)
+Learn more about the GitLab Admin contact role requirement [on the Gainsight Go-To-Market Technical Documentation page](https://about.gitlab.com/handbook/sales/field-operations/sales-systems/gtm-technical-documentation/#gitlab-admin-contact-required).
 
 Programs may also be sent to Sold To contacts, for our web-direct digital-only customers.
 
@@ -132,8 +132,8 @@ You may request new programs, such as an email series, contribute to existing pr
 **To request a new program or update an existing program:**
 
 1. Open a new issue in the [CS Ops Project](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
-1. Select the appropriate template:
 
+1. Select the appropriate template:
    - CS Programs Request
    - CS Programs Update Request
    - Program Webinar Request
@@ -142,21 +142,18 @@ You may request new programs, such as an email series, contribute to existing pr
 
 CS Programs will assign the request. For urgent issues, or questions about the request, make an `@mention` to a Gainsight administrator.
 
-## Request a customer program using the Research Template
+## Request customer program research with the Research Template
 
-TAMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases.
-
-This template is designed to walk you through the questions to ask customers to create the most effective programs.
+TAMs can use the Customer Programs Research Template to research new program oppportunities for different stages and use cases. This template provides suggestions for information we can use to create valuable programs for our customers.
 
 **To create a Program Research issue**:
 
 1. Navigate to the [CS Ops Issue board](https://gitlab.com/gitlab-com/sales-team/field-operations/customer-success-operations/-/issues).
 1. Create a new issue.
 1. Select the `TAM Program Research Template` from the dropdown menu.
-
-This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
-
-Once the issue is assigned, CS Programs and Technical Writing will begin work on the new program.
+1. Use the questions in the template to gather as much information as possible for the stage or use case.
+1. Assign the template to a TAM or TAM manager for peer review. This will be a multi-step process, as you'll need to ask questions of your customers as well as internal sources.
+1. Once TAM peer review is complete, create a new issue [using the appropriate template](#create-or-update-a-program), and relate this issue.
 
 ## Create a CTA with a Digital Program playbook
 
