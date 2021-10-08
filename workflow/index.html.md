@@ -601,6 +601,9 @@ While leaders are available in the [categories page](/handbook/product/categorie
 - Fulfillment - Wayne Haber and Justin Farris
 - Applied ML and Antiabuse - Wayne Haber and Taylor McSastlin
 
+### Conducting a Section Retrospective
+Discretion is provided to Section leaders on how to conduct a section retrospective discussion. A good starting point would be to follow the current [handbook](#retrospective-summary) and [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) recommendations for our R&D wide retrospective. Consider creating section versions of the [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) and [discussion doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing).
+
 ## Milestone Cleanup
 
 Engineering Managers are responsible for capacity planning and scheduling for their respective teams with guidance from their counterpart Product Managers.
