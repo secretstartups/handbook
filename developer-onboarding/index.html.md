@@ -103,11 +103,11 @@ merged sooner.
 
 Unless the change is very minor, or is fixing a bug that was introduced in the
 same version, create a changelog entry using the
-[`bin/changelog` script][changelog-script].
+[`Changelog` Git trailer][changelog-entry].
 Do not include your name in the entry as we only do that to give recognition to
 volunteer contributors.
 
-[changelog-script]: https://docs.gitlab.com/ee/development/changelog.html
+[changelog-entry]: https://docs.gitlab.com/ee/development/changelog.html
 
 ### Working on GitLab EE
 
