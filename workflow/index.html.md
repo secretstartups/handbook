@@ -576,7 +576,7 @@ The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For
 
 ## Retrospective Summary Experiment in FY22 Q4
 
-During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an expirement where we perform Retrospective Summaries at the Section level. Section level leaders in Product and Development are the DRIs for retrofitting the current Retrospective Summary process for their section and documenting their process for doing so.
+During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an experiment where we perform retrospective summaries at the Section level instead of an R&D-wide retrospective summary. Section level leaders in Product and Development are the DRIs for retrofitting the current retrospective summary process for their section and documenting their process for doing so.
 
 ### Experiment Hypothesis
 
