@@ -28,7 +28,7 @@ GitLab does not plan to offer pension benefit at this time as team members regis
 
 ## Life Insurance and Disability
 
-GitLab offers company paid Group Life and Disability Plans through AXA. This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
+GitLab offers company paid [Group Life and Disability Plans](https://drive.google.com/file/d/1IiPEBog1hEK2FSuG-w8OIf6_pfo_vFAR/view?usp=sharing) through AXA. This covers Life Insurance, Accidental Death & Accidental Dismemberment, Short Term Disability and Long Term Disability.
 
 ## Gitlab France S.A.S. Parental Leave
 
