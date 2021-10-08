@@ -48,6 +48,10 @@ SA prospect/customer activity is recorded into `Task` objects within Salesforce 
     - **Persona Functions** (Optional if unknown) - Select the customer/prospect functions represented during the activity (ie. Development, Security, DevOps)
     - **Description** - Enter a summary of the interaction. Two to three sentences are usually sufficient, but more detail is ok. Try to capture the meeting's intent, how it went (the outcome or customer/prospect sentiment), and any prospect/customer perceived next steps. It is highly encouraged that you provide a link to more detailed notes of your meeting. You can use [Google Docs Bookmarks](https://support.google.com/docs/answer/45893) to do so.
 
+#### Activity type description
+
+All activities should fall into one of the categories described in the [activity type descriptions](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc)
+
 #### Example Activity Description
 
 ```
