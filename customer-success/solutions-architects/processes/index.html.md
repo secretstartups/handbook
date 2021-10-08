@@ -254,6 +254,7 @@ To be efficient as possible, this is the recommended approach:
 
 Alliances SAs are aligned blah blah
 
-### Issue Creation Details
+### Issue Management Details
 
 1. Creation process.
+2. Update process.
