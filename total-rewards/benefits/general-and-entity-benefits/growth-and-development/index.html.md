@@ -45,18 +45,22 @@ At GitLab, team members have access to the [Growth and Development benefit](/han
     * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=academic_study) for applications relating to Academic Study
     * Use [this issue template](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/new?issuable_template=other-growth-development) for other types of Growth & Development applications
 
-Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
+* Note: This application process is visible internally. It is preferred and more efficient to create an issue for your application, however, if there is any reason that you would like to keep your application confidential, please send growth-development@gitlab an email with the details of your application (refer to the issue templates for the information required).
 
 3. Request approval on the issue. Manager approval is needed for all applications and Executive Leader approval is needed for applications above $1000 USD. 
 
-**Field organization executive signatures should be routed by the following:**
-- Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
-- Customer Success: David Sakamoto (VP of Customer Success)
-- Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
-- Field Operations: David Hong (VP of Field Operations)
-- Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
+* Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
 
-4. Once the manager has approved, there is no further action to be taken by the manager. They can unassign themselves to the issue if they wish. Total Rewards will update the labels on the issue.
+* **Field organization executive signatures should be routed by the following:**
+  - Enterprise Sales: Mike Pyle (VP of Enterprise Sales)
+  - Customer Success: David Sakamoto (VP of Customer Success)
+  - Commercial Sales: Ryan O'Nell (VP of Commercial Sales)
+  - Field Operations: David Hong (VP of Field Operations)
+  - Worldwide Channels: Michelle Hodges (VP of Worldwide Channels) 
+
+4. Claim for reimbursement: 
+* If you have signed up for academic study, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you receive your grade/transcript (this can be done at the end of each semester if your course is split into semesters or at the end of the program). You may close the issue once you have received reimbursement for the whole program. 
+* For other types of Growth & Development opportunities, you may claim for [reimbursement](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#reimbursements-of-growth-and-development-applications) once you have obtained the reimbursement requirement per the [table below](/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements). You may close the issue once you have gained approval for your application.
 
 ### Your 4th Trimester Applications
 For Your 4th Trimester applications, please notify Total Rewards that you would like to participate in the program by sending an email to `growth-development@gitlab.com`.
@@ -69,7 +73,7 @@ For Your 4th Trimester applications, please notify Total Rewards that you would 
 * Close the issue once you have submitted your Expensify report.
 
 **If the cost is [over $1,000 USD](https://about.gitlab.com/handbook/total-rewards/compensation/#exchange-rates)**
-* for conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
+* For conferences, workshops, professional memberships, please send the invoice to `growth-development@gitlab` once you have signed up. For academic study, send a copy of your grades/transcript and invoice to `growth-development@gitlab`. Please see the Growth & Development [table](https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/growth-and-development/#types-of-growth-and-development-reimbursements) for what additional documentation may be required for reimbursement.
 * Total Rewards will then notify payroll to begin the reimbursement process and close the issue.
 
 ## Recoupment of Growth and Development Reimbursements
