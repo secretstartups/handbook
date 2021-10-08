@@ -137,17 +137,18 @@ The email platform determines many different factors for us.
 {: #customer-comms-email .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
-This section should be used for non-emergency, planned customer communications. As much as possible, we will work across all teams at GitLab to understand upcoming needs to communicate via email to customers. All emergency customer communications need to be approved by the Vice President of Customer Success and Legal or designates (if they are out on PTO or unavailable).
+This section should be used for all customer communications to communicate product or security issues and risks. At minimum, these communications need to be approved in sequence by the head of the department that is leading the communication (e.g., Product, Engineering, Security), Vice President of Customer Success, Legal, or appropriate designates (if they are out on PTO or unavailable).
 
 ### Recommended Format for Customer Emails
-The following is a recommended format for customer emails though this is a general template and may not suite all situations. Consider it a guideline versus the rule. 
+The following is the recommended format for customer emails though tailor it if the communication objective or content requires this. Emails should be clear, crisp, and direct, providing links for details (e.g., details on the issue or risk, procedural details to action). To [maximize reading comprehension](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1709943), remove all extraneous words and language to maximize the probability the email will be read and actioned. 
 
-1.  Why are you (customer) getting this email? 
-1.  What is the issue/change/problem/etc? If it’s an issue, what is the impact? Is it resolved or still being worked? How do you know if you're impacted by the issue?
-1.  What is your call to action? How do you do it? Where do you provide feedback? Where can you get more information?
-1.  Close. If follow-up, project next communication/step.
+The email should answer the following questions:
+1.  Why are you (customer) getting this email? This can be either specific (i.e., we know) or general (i.e., you may be or need to be aware).
+1.  What is the issue/change/problem/etc.? What are the risk and impact? How do you know if you're impacted or potentially impacted by the issue? Is it resolved or still being worked on? 
+1.  What is your call to action? What should you do?
+1.  Where should you go if you need support? If applicable, where do you provide feedback (e.g., forum, issue, other)? If additional updates will be provided, when and how will that information be shared? 
 
-### Epic Code & Issues
+## Epic Code & Issues
 {: #customer-comms-epic-issues .gitlab-purple}
 <!-- DO NOT CHANGE THIS ANCHOR -->
 
