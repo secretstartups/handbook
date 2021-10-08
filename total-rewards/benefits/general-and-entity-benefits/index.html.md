@@ -163,7 +163,7 @@ We encourage parents to take the time they need. GitLab team members will be enc
 
 #### If you haven't been at GitLab for six months
 
-Initially, you can take up to 25 days of paid Parental Leave from the time of birth or adoption event which will count against the 16-week total. Full salary supplementation from GitLab will begin once you hit six months of service for the remaining Parental Leave balance. Depending on where you live, you may be able to receive statutory Parental Leave pay from the government to cover any unpaid time off.
+Initially, you can take up to 25 consectuive calendar days of paid Parental Leave from the time of birth or adoption event which will count against the 16-week total. Full salary supplementation from GitLab will begin once you hit six months of service for the remaining Parental Leave balance. Depending on where you live, you may be able to receive statutory Parental Leave pay from the government to cover any unpaid time off.
 
 ### How to Initiate Your Parental Leave
 
