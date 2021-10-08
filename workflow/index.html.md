@@ -504,6 +504,8 @@ At the end of every release, each team should host their own retrospective. For 
 
 ### Retrospective Summary
 
+Note - we are currently conducting an experiment with [section-based Retrospective Summaries](#retrospective-summary-experiment-in-fy22-q4). During such time we will not be conducting an R&D-wide Retrospective Summary.
+
 The Retrospective Summary is a short pre-recorded video which summarizes the learnings across all [Group Retrospectives](/handbook/engineering/management/team-retrospectives/) ([example video](https://www.youtube.com/watch?v=XdENBhVOSiw&feature=youtu.be), [example presentation](https://docs.google.com/presentation/d/1kH9TwUAXbslM1cac938hS4Y-3mEBojQlwHw_Mm44kDE/edit?usp=sharing)).
 
 Once all Group Retrospectives are completed, each team inputs their learnings into a single publicly-accessible [retro doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing). The  moderator then pre-records a video of the highlights. This video is then announced in the Retrospective planning and execution issue along with the #whats-happening-at-gitlab slack channel. In line with our value of [transparency](/handbook/values/#transparency), we also post this video to our public [GitLab Unfiltered channel](https://www.youtube.com/c/GitLabUnfiltered/videos).
@@ -571,6 +573,36 @@ The Moderator for the Retrospective Summary is chosen on a quarterly basis.  For
 - Q2: [Tanya Pazitny](https://about.gitlab.com/company/team/#tpazitny)
 - Q3: [Kenny Johnston](https://about.gitlab.com/company/team/#kencjohnston)
 - Q4: [Justin Mandell](https://about.gitlab.com/company/team/#jmandell)
+
+## Retrospective Summary Experiment in FY22 Q4
+
+During FY22 Q4 (the 14.4, 14.5, 14.6 Retrospectives) we will conduct an experiment where we perform retrospective summaries at the Section level instead of an R&D-wide retrospective summary. Section level leaders in Product and Development are the DRIs for retrofitting the current retrospective summary process for their section and documenting their process for doing so.
+
+### Experiment Hypothesis
+
+As GitLab has grown, there have become too many layers between a group retrospective and the company-wide retrospective. Performing retrospective summaries at the Section level will increase our rate of learning and encourage broader collaboration between stable counterparts across the R&D organization. 
+
+### Experiment Success Measurements
+
+We'll consider this experiment a success if:
+- All team member cumulative engagement, as measured by issue and agenda doc comments, in all section Retrospective Summary discussions is higher than the current baseline (14.1,14.2,14.3)
+- Stable counterpart engagement, as measured by issue and agenda doc comments, in section Retrospective Summary discussions include team members from an average of more than 4 functions (Security, UX, Quality)
+- The effort to prepare and perform a retrospective summary is deemed by DRIs to be < 4 hours per month
+
+### Experiment Section DRIs
+
+While leaders are available in the [categories page](/handbook/product/categories/) (and subject to change) - we explicitly call out the DRIs for each section in this experiment.
+
+- Dev - Tim Zallman and David Desanto
+- Sec - Todd Stadelhofer and Hillary Benson
+- Ops - Sam Goldstein and Kenny Johnston
+- Enablement - Chun Du and Josh Lambert
+- Growth - Wayne Haber and Hila Qu
+- Fulfillment - Wayne Haber and Justin Farris
+- Applied ML and Antiabuse - Wayne Haber and Taylor McSastlin
+
+### Conducting a Section Retrospective
+Discretion is provided to Section leaders on how to conduct a section retrospective discussion. A good starting point would be to follow the current [handbook](#retrospective-summary) and [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) recommendations for our R&D wide retrospective. Consider creating section versions of the [issue template](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/.gitlab/issue_templates/product-development-retro.md) and [discussion doc](https://docs.google.com/document/d/1ElPkZ90A8ey_iOkTvUs_ByMlwKK6NAB2VOK5835wYK0/edit?usp=sharing).
 
 ## Milestone Cleanup
 
