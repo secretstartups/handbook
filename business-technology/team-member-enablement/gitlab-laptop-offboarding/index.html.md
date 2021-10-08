@@ -40,6 +40,8 @@ The team member should arrange a meeting with the respective IT Ops team member 
 ### After your laptop is wiped. (Personal Ownership, returning, purchasing your Gitlab laptop)**
 
 **If you have had the current laptop for more than a year.**
+
+After the laptop is wiped by Gitlab IT:
 - You may keep your laptop at no charge after the laptop is wiped by Gitlab IT. 
 - We can provide a Transfer of Ownership document if requested.
  
