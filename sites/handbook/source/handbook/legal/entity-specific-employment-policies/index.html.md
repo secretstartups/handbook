@@ -47,9 +47,14 @@ This page will serve as a directory for our team members employed through a GitL
 </details>
 <details>
   <summary markdown="span">GitLab PTY (Australia and New Zealand)</summary>
+
+### New Zealand
+**Health and Safety**
+- [Remote Work Checklist](https://forms.gle/DszZNkBA22Rhy3VW7)
 </details>
 <details>
   <summary markdown="span">GitLab Singapore PTE LTD</summary>
+
 **Health and Safety**
 - [How to Create an Ergonomic Workspace](https://about.gitlab.com/company/culture/all-remote/tips/#create-an-ergonomic-workspace)
 - [Focus your Workspace](https://about.gitlab.com/company/culture/all-remote/getting-started/#focus-your-workspace)
