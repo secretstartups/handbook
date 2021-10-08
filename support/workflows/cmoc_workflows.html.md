@@ -143,6 +143,32 @@ Before you create an incident in Status.io you should join the Zoom call that wi
 
 Your role as CMOC while in this room is to follow along while the incident is worked and make updates to Status.io either when asked or when it's necessary. Oftentimes chatter in this room will be lively, especially in the early stages of an incident while the source of the issue is being discovered. Use your best judgment on when it's appropriate to speak up to avoid vocalizing at inopportune times. You can always ping anyone on the call through Slack if you need to ask a non-urgent question about the situation.
 
+**When first joining**
+
+The first thing you should do is to verify that you can be heard by others in the room. To do this, say something like: 
+
+> "Hi, I'm the CMOC on duty. I intend to send an update, please review this in the Slack thread."
+>
+> "Hi, I'm the CMOC on duty, how can I help?"
+
+Whatever you choose to say, make sure that you receive a verbal acknowledgement directed at you before you move on to focus on other aspects of the incident.
+
+**When CMOC is verbally mentioned or asked to do something**
+
+From time to time, you may be asked to perform some specific tasks in the room. Always verbally acknowledge any such asks by repeating your understanding of the ask back to the requestor. This helps everyone understand that the ask was heard, and also serves to verify that everyone has the same understanding of some action to be taken.
+
+In some cases, the ask may be implicit, rather than explicit. If you're in doubt, always speak up and ask for confirmation. For example:
+
+> **IM:** CMOC is here, we need to roll out a first update.
+
+A good response would be to ask for confirmation that an action was requested:
+
+> **CMOC:** IM, do you want me to send a first update on status.io?
+
+A better response would be to assume that an action was requested, relay your intended course of action in response, and give the requestor the opportunity to provide input:
+
+> **CMOC:** IM, acknowledged, I will draft an update for status.io and ping you in Slack for input.
+
 #### 2. Create the Incident
 
 After logging in to Status.io you should be met with the dashboard that displays various statistics about our current status. A new incident can be created by clicking `New Incident` along the top bar.
