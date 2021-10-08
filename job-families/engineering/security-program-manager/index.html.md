@@ -36,7 +36,7 @@ All responsibilities listed above (applicalbe to all roles) plus:
 * build trust with direct stakeholders
 * Develop and lead deployment plans and communication with direct stakeholders
 
-#### Security Program Manager Requirements
+#### Intermediate Security Program Manager Requirements
 All requirements listed above (applicable to all roles)
 
 ### Senior Security Program Manager
