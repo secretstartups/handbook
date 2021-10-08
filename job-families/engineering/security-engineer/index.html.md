@@ -291,7 +291,7 @@ Red Team specialists emulate adversary activity to better GitLab’s enterprise 
 
 ### Security Architect
 
-This role reports directly to the VP of Security. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas.  The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem.  More specifically the responsibilities of this role include:
+This role reports directly to the VP of Security. Generally we would see this specialty to be filled at the Distinguished level. Distinguished engineers and Fellows have the widest sphere of influence and responsibility at the individual contributor level and as such may be asked to focus on high impacting focus areas. The security architect is a highly technical role responsible for planning, designing, testing, implementing and maintaining security strategy and solutions across the entire GitLab ecosystem. More specifically the responsibilities of this role include:
 
 * Define key architectural patterns, engineering practices and standards and drive them across the organization.
 * Work closely with other teams to develop and promote security architectures to protect microservices, serverless, containers, application development and operations practices
