@@ -513,13 +513,13 @@ Based on the Family and Medical Leave Act, or [FMLA](https://www.dol.gov/agencie
  
 ### Payroll Processing During Parental Leave
  
-**Paternity Leave**
-Paternity Leave is not covered under Short-Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Paternity Leave is also offset for any state eligible payments.
+**Non-Birthing Person Leave**
+Non-Birthing Person leave is not covered under Short-Term Disability, so if the team member is eligible for 100% of pay, payroll would enter 100% of the pay period hours under "Leave with Pay." Non-Birthing person leave is also offset for any state eligible payments.
  
-**Maternity Leave**
-For maternity leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
+**Birthing Person Leave**
+For Birthing Person leave, GitLab will verify 100% of the wages are paid for eligible team members through payroll, Short-term Disability (STD), and state leave pay (where applicable).
  
-GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave.Total Rewards will also notify payroll of any state related payments which may need to be offset.
+GitLab will recieve the Short-Term Disability funds directly from Cigna and keep the GitLab team member paid at 100% of wages via payroll. Total Rewards will notify payroll of the "leave with pay" status using the start and end date of parental leave. Total Rewards will also notify payroll of any state related payments which may need to be offset.
  
 ## State-Specific Allowed Leaves
  
