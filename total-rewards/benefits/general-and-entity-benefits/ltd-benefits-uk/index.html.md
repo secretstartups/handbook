@@ -65,7 +65,28 @@ GitLab will explore adding vision coverage as a future iteration to our health b
 
 ## Life Insurance
 
-GitLab is currently reviewing implementing life insurance and disability in the following [issue](https://gitlab.com/gitlab-com/people-group/total-rewards/-/issues/44).
+Life Insurance provides peace of mind for you and your loved ones with a tax-free lump sum payout in the event of your untimely death, helping to relieve financial concern during a time of grief. GitLab offers Life Insurance via Unum to all team members between age 16 and State Pension Age. The pension benefit is **4x basic annual salary**. 
+
+### Employee Assistance Program (EAP)
+
+As part of the life insurance benefit, Unum also offers an Employee Assistance Program for those based in the United Kingdom. For information on how to use the EAP, please see the following [document in the google drive](https://drive.google.com/file/d/1OEXPZxNOq0alVB1fWmF_dso642_F-Yub/view?usp=sharing). 
+
+### Help @ Hand
+
+As part of the life insurance benefit, Unum also offers [Help@hand](https://drive.google.com/file/d/1Xh7o57jBac-BfHTdWuUMh7yKi5gXdIIr/view?usp=sharing) providing you and your family with fast, direct access to medical experts through one easy-to-use app, including: 
+  * Remote GPs
+  * Physiotherapy
+  * Mental Health Support
+  * Medical Second Opinions
+  * Life, money, and well-being support
+
+## Income Protection
+
+Income Protection provides financial support if you’re unable to work due to illness or injury for a specified length of time, and aims to help you, your family and others who depend on the money you earn. GitLab's policy with Unum will help us to ensure you receive a percentage of your income if you can’t work because of illness or injury. It also includes direct access to expert Vocational Rehabilitation Consultants who can support you while you’re off and ease your return to work. 
+
+All team members (between age 16 and State Pension Age) are enrolled in Income Protection of **66% of base salary payable after you’ve been absent for 13 weeks** effective as of the date of hire. 
+
+Please reach out to Total Rewards for information on how to apply for Income Protection with Unum. Payments are made exactly like your salary, and tax and National Insurance contributions are deducted in the usual way. If you are absent due to illness or injury on the day your cover or an increase in cover is due to begin, you may not be eligible until you return to active work in your usual role. 
 
 ## Pension Introduction
 
