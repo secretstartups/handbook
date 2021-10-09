@@ -27,7 +27,7 @@ Please feel free to contribute to this page by opening a merge request.
 * I'm passionate about a number of social causes. Before getting into technology, I worked for a number of nonprofits in various roles. 
 * My husband and I met on a trip to climb [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite. 
 * I have 2 young children who are the center of my world outside of work. While I look forward to the day when I can get an uninterupted night of sleep, they are pretty awesome. 
-
+* Starting the day with hot coffee brings me great happiness. I grow increasingly articulate as I work my way through the first cup.
 ## How you can help me
 
 * Reach out when you see opportunities for me to do something better and drive greater results. I appreciate any and all feedback. I've been in meetings in which team members have reached out through Slack immediately after to share their impressions--positive or constructive. In all cases, I see it as a gift. I don't want feedback to wait until a 360.
