@@ -117,7 +117,7 @@ This program will leverage content from the [GitLab Manager Challenge](/handbook
 -  [Welcome](https://youtu.be/zHCIEp21Ny8) from Michael McBride (GitLab Chief Revenue Officer) (15 minutes, GitLab internal only)
 -  [CRO Leader Perspectives on Coaching](https://youtu.be/vOEf9g4kIvQ) featuring Michelle Hodges (GitLab VP WW Channel Sales) and Nima Badiey (GitLab VP, Alliances) (11 minutes, GitLab internal only)
 - [Fostering Field Recognition](https://youtu.be/OEU3uMTT35s) featuring Denise Parsonage (Director, People Business Partner) and Monica Jacob (Manager, Field Communications) (15 minutes, GitLab internal only)
-- Recent Photo Ice Breaker
+- [Recent Photo Ice Breaker Activity](https://youtu.be/S08GrUyWT-w) (3.5 minutes)
 - [When to Coach Breakout Discussions](https://youtu.be/ukShuN0dJHc) led by Carolyn Bednarz (Director, People Business Partner) (23.5 minutes, GitLab internal only)
 - [Field Manager Spotlight: GROW Model](https://youtu.be/uCuQjwrkNO4) featuring Ed Cepulis (Sr. Director, Channel Programs and Enablement) (11 minutes)
 - [Role Play Breakout Activity: GROW Coaching Model](https://youtu.be/Yagj9t7BDF4) (35 minutes, GitLab internal only))
