@@ -49,7 +49,7 @@ Please feel free to contribute to this page by opening a merge request.
 
 ## Strengths/Weaknesses
 
-* I care about my work to the degree that I can push myself to the point of running on fumes. I'm mbetter at pushing my team toward work life balance, but I'm not already a great role model.
+* I care about my work to the degree that I can push myself to the point of running on fumes. I'm better at pushing my team toward work life balance, but I'm not always a great role model.
 
 ## Personality tests
 
