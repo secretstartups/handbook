@@ -1,0 +1,63 @@
+---
+layout: markdown_page
+title: "Stella Treas's README"
+---
+
+<!-- This template will help you build out your very own GitLab README, a great tool for transparently letting others know what it's like to work with you, and how you prefer to be communicated with. Each section is optional. You can remove those you aren't comfortable filling out, and add sections that are germane to you. -->
+
+## Stella's README
+
+**Stella treas, Chief of Staff**
+
+This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before.
+
+It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
+
+Please feel free to contribute to this page by opening a merge request.
+
+## Related pages
+
+* [GitLab](https://gitlab.com/streas)
+* [LinkedIn profile](https://www.linkedin.com/in/stellatreas/)
+
+## About me
+
+* I'm from Southern California, but I left home when I was 18. I've since lived in New Hampshire, New York, Boston, Washington, D.C., London, Rwanda, and San Francisco.
+* Before having children, my passion was travel. I've been to over 70 countries and agressively checked off most of the items that had been on a bucket list that I created when I was 18 (swim with dolphins, jumped from a plane, visited mountain gorillas, went on a tiger safari, etc.).
+* I'm passionate about a number of social causes. Before getting into technology, I worked for a number of nonprofits in various roles. 
+* My husband and I met on a trip to climb [Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm) in Yosemite. 
+* I have 2 young children who are the center of my world outside of work. While I look forward to the day when I can get an uninterupted night of sleep, they are pretty awesome. 
+
+## How you can help me
+
+* Reach out when you see opportunities for me to do something better and drive greater results. I appreciate any and all feedback. I've been in meetings in which team members have reached out through Slack immediately after to share their impressions--positive or constructive. In all cases, I see it as a gift. I don't want feedback to wait until a 360.
+
+## My working style
+
+* I work largely within Slack and issues. If it is a busy day, I may not get to email until the evening. 
+* Since I work with folks in China and have young kids, I sometimes don't get online until after 8:30am. I often read GC notes instead of attending synchronously.
+* When inviting me to a meeting, please make it clear in the invite or meeting agenda why my participation is important. This helps me manage my time appropriately among competing priorities.
+* Please try to send meeting invites 2+ days ahead of when you'd like to meet, unless we've agreed to otherwise. It helps me better plan my work and schedule ahead of time.
+
+## What I assume about others
+
+* They also care about their work and are commited to operating in a way that reflects GitLab values.
+
+## What I want to learn
+
+* How to effectively scale a company with strong and unique values
+
+## Strengths/Weaknesses
+
+* I care about my work to the degree that I can push myself to the point of running on fumes. I'm mbetter at pushing my team toward work life balance, but I'm not already a great role model.
+
+## Personality tests
+
+2016 [Five Dynamics by Simpli5](https://www.simpli5.com/): Effortless across 5 dimensions. Spikes in Examine and Execute. 
+
+2007 [Meyers Briggs](https://www.themyersbriggs.com/): ENTP. Since self diagnosed as an E N T P/J
+1. Extrovert
+2. Intuition
+3. Thinking
+4. Prospecting / Judging
+
