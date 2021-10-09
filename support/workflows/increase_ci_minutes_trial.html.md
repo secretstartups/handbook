@@ -13,11 +13,12 @@ category: License and subscription
 
 ##### Overview
 
-Use this temporary workflow when a user reports that they need more than the 400 minutes currently being allocated for Trial subscriptions. In most cases, 10000 minutes should be the target. This is only temporary until [issue #322043](https://gitlab.com/gitlab-org/gitlab/-/issues/322043) has been applied. 
+Use this temporary workflow when a user reports that they need more than the 400 minutes currently being allocated for Trial subscriptions. In most cases, 10000 minutes should be the target. This is only temporary until [issue #322043](https://gitlab.com/gitlab-org/gitlab/-/issues/322043) has been applied.
 
 ______________
 
 ##### Workflow
+
 1. Confirm the namespace that is under a Trial subscription account.
    Note: CI Minutes should reflect 400 minutes.
 1. Confirm the user requesting additional minutes is a member of that namespace.

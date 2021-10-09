@@ -28,6 +28,7 @@ At GitLab, we [avoid Direct Messages in Slack](/handbook/communication/#avoid-di
 **NOTE:** When deciding whether to ping a team member, first consult the internal [Areas of Focus page](https://gitlab-com.gitlab.io/support/team/areas-of-focus.html), because team members allocate their time and expertise differently.
 
 ### How to update your knowledge areas
+
 Knowledge areas, skills, and Areas of Focus are maintained in the [`support-team.yaml`](https://gitlab.com/gitlab-com/support/team/-/blob/master/data/support-team.yaml) page.
 
 Consult the [gitlab-com/support/team project README](https://gitlab.com/gitlab-com/support/team/-/blob/master/README.md) for instructions on updating your entries.

@@ -81,7 +81,7 @@ This is useful to check if emails have been delivered successfully from our end,
 1. Enter the email address to be checked into the search bar, search, and then scan the results to see if mail is being delivered to that address.
     - If email is delayed, respond to the user and ask them to wait.
     - If email is bouncing due to a suppression (evidenced by the message `Not delivering to previously bounced address` in the log) proceed to [Removing a Suppression in Zendesk](#removing-a-suppression-in-zendesk) or [Removing a Suppression in Mailgun](#removing-a-suppression-in-mailgun).
-    - If email is marked as `Delivered` and the response code under `delivery-status` is `"code": 250`, this indicates that the user's mail server acknowledged the receipt, and the email delivery was successful. 
+    - If email is marked as `Delivered` and the response code under `delivery-status` is `"code": 250`, this indicates that the user's mail server acknowledged the receipt, and the email delivery was successful.
 
 #### Removing a Suppression in Mailgun
 
@@ -92,7 +92,6 @@ If the `SaaS Account Ticket Helper` doesn't work for any reason, we can remove s
 1. Ensure that `mg.gitlab.com` is set as the domain at the top of the page.
 1. Enter the email address to be checked into the `Search for recipients` search bar and perform a search.
 1. Click the `Delete` button next to an entry and then confirm your selection to remove the suppression.
-
 
 #### Identifying Multiple Suppressions on a Single Domain
 
@@ -125,5 +124,5 @@ Instruct the user to sign in and trigger a new confirmation email through their 
 
 If the user is unconfirmed, but their primary email address does not match the unconfirmed email address ([see this internal example](https://gitlab.com/gitlab-org/gitlab/-/issues/239098#note_399726260)), then two options:
 
-1.  Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
-2.  File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.
+1. Impersonate the user and click on the "Resend confirmation email" under Email on their Settings > Profile page.
+2. File a [console escalation internal request](https://gitlab.com/gitlab-com/support/internal-requests/-/issues/new?issuable_template=GitLab.com%20Console%20Escalation) to set the `unconfirmed_email` to `nil`.

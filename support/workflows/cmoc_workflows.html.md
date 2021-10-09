@@ -194,7 +194,7 @@ This process should be followed when all of the following are true:
 
 #### 4. Label the GitLab Incident Issue to reflect customer communications status
 
-It is important that we are able to differentiate incidents which included outbound Status page and related notificatons from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
+It is important that we are able to differentiate incidents which included outbound Status page and related notifications from those incidents which were deemed less impactful to our customers. This can be useful both in filtering for active incidents which include outbound notification as well as for after-incident reporting.
 
 Whenever a GitLab service incident includes the use of a Status Page incident this should be identified on the GitLab Incident Issue. See this, and other uses of this scoped label in the [Incident Management section of the handbook](https://about.gitlab.com/handbook/engineering/infrastructure/incident-management/#labeling).
 

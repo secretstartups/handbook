@@ -5,6 +5,7 @@ description: The purpose of this page is to give an overview and outline the exp
 ---
 
 ## On this page
+
 {:.no_toc .hidden-md .hidden-lg}
 
 - TOC
@@ -34,14 +35,14 @@ As a result of our direct interactions with customers, the Support Team occupies
 Just like us, the product teams are spread across the globe. Due to this, it might not always be possible to sync with your counterparts.
 
 - If time zones permit, have an introductory coffee chat with your Product Manager.
-    - Talk about your interest in the group, and why you chose to become an SSC in it. Ask about the team and their day-to-day.
-    - Ask them about their expectations of the SSC. Manage them and align.
+  - Talk about your interest in the group, and why you chose to become an SSC in it. Ask about the team and their day-to-day.
+  - Ask them about their expectations of the SSC. Manage them and align.
 - If you are in non-overlapping time zones, do a handshake via Slack.
 - Establish a regular cadence for communication with them.
-    - Using a living Google document helps, especially for maintaining a regular async communication model. You can make use of [this template](https://docs.google.com/document/d/1m9t-sxPzwie2D40cXTwpjnQ2VxYJb3GoEB5ig38Nkmw/edit?usp=sharing) for it.
+  - Using a living Google document helps, especially for maintaining a regular async communication model. You can make use of [this template](https://docs.google.com/document/d/1m9t-sxPzwie2D40cXTwpjnQ2VxYJb3GoEB5ig38Nkmw/edit?usp=sharing) for it.
 - In the initial introduction,
-    - Get yourself added to their team sync - you can read the agenda doc if you're unable to join the sync call!
-    - Join their Slack channel.
+  - Get yourself added to their team sync - you can read the agenda doc if you're unable to join the sync call!
+  - Join their Slack channel.
 - If the group you chose already has an SSC, schedule a coffee chat with the existing counterpart to learn more!
 - [Section SSC] Schedule a coffee chat with the Support counterparts in the groups within the section.
 
@@ -60,16 +61,16 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 - A monthly communication cadence is recommended. Since your group might not have a lot of updates to share with Support every month, set a cadence that is appropriate for the situation.
 - [Section SSC] Ensure a regular cadence of communication with the group level SSCs to ensure alignment and balance of prioritization of issues.
 - Share announcements through the [SWIR](https://about.gitlab.com/handbook/support/#support-week-in-review) and in relevant Support Slack channels.
-    - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
+  - Use the prefix `[SSC Update: Group_Name: GitLab(Major).(Minor).(Patch)]` for your updates in both SWIR and in relevant slack channels. Having consistency in this will help us measure the success and usefulness of this initiative.
 - Group related updates and announcements can be:
-    - New features added in an upcoming release
-    - Bug fixes in an upcoming release
-    - Issues likely to generate tickets
-    - Issues that may be good contribution opportunities
-    - Major documentation changes
-    - Discovered bugs and applicable workarounds
-    - Any special processes or troubleshooting workflows that might pertain to the features in your group
-    - Any changes in Support's workflows as a result of changes from your group
+  - New features added in an upcoming release
+  - Bug fixes in an upcoming release
+  - Issues likely to generate tickets
+  - Issues that may be good contribution opportunities
+  - Major documentation changes
+  - Discovered bugs and applicable workarounds
+  - Any special processes or troubleshooting workflows that might pertain to the features in your group
+  - Any changes in Support's workflows as a result of changes from your group
 - If you have not had any updates to share in a long time, consider sending out a quick "Nothing major you have to watch out for with this release, all is well!" or "Here is an awesome new unfiltered video on this topic" etc.
 - Catalyze training materials and sessions as needed.
 - [Optional] Consider doing quarterly office hours to chat about your group and share your experiences as an SSC with newer team members.
@@ -77,15 +78,15 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 ### Enable Product with periodic communication relevant to the group
 
 - Share customer feedback from tickets with the Product team.
-    - Loop them in to relevant issues, tickets and Slack threads.
+  - Loop them in to relevant issues, tickets and Slack threads.
 - Be the customers' voice and an influencing agent on product related decisions and future roadmap.
 - [Optional] Help with questions in the Product team's Slack channels.
 
 ### Be available to support and mentor newly onboarded SSCs
 
 - Being an SSC is a different experience based on the group. However, you will have certain tried and tested best practices that will help newly onboarded SSCs. Consider sharing them with the other SSCs in the team.
-     - Use the `@gitlab-com/support/support-stable-counterparts` GitLab group, and `#support-stable-counterparts` Slack channel to share best practices with other SSCs, and to gather input and feedback on process changes, improvements and other discussions.
-        - This Slack channel has both Slackbot's reminder app and Geekbot enabled to encourage channel participants to share periodic updates.
+  - Use the `@gitlab-com/support/support-stable-counterparts` GitLab group, and `#support-stable-counterparts` Slack channel to share best practices with other SSCs, and to gather input and feedback on process changes, improvements and other discussions.
+    - This Slack channel has both Slackbot's reminder app and Geekbot enabled to encourage channel participants to share periodic updates.
 - Iterate on this page and other templates used in this initiative based on what works and what doesn't in the real world. Support Engineers looking to become SSCs will benefit from these.
 
 ### Raise concerns with your manager if unable to set aside required time to be an SSC
@@ -97,16 +98,16 @@ Just like us, the product teams are spread across the globe. Due to this, it mig
 ## Expectations from Managers
 
 - If you are managing a Support Engineer who is also an SSC, it should be a topic of conversation in your 1:1 with them at least once a month.
-    - Enable them in prioritizing and setting aside time for this activity.
-    - Work on resolving concerns if any.
+  - Enable them in prioritizing and setting aside time for this activity.
+  - Work on resolving concerns if any.
 - If a Support Engineer you manage is interested in becoming an SSC, point them to the following section on [How can I enroll and be a counterpart?](#how-can-i-enroll-and-be-a-counterpart).
 - If the SSC is going to be unavailable for a prolonged period of time, or, during an important event related to their group, act as their backfill.
 
 ## Expectations from the Product Teams
 
 - Please be aware of time zone constraints and flex to accommodate the SSC.
-    - Introduce new SSCs to your team and add them to the relevant channels, documents and meetings.
-    - Engage async via a doc or discuss other modes of communication with the SSC.
+  - Introduce new SSCs to your team and add them to the relevant channels, documents and meetings.
+  - Engage async via a doc or discuss other modes of communication with the SSC.
 - Share all [relevant updates](#enable-support-with-periodic-communication-relevant-to-the-group) with the SSC, either sync or async.
 - Each SSC-PM relationship is going to be different, work on finding out what works best for you and them!
 - Share feedback with Support on what is working and what isn't.
@@ -118,20 +119,20 @@ If you're interested in becoming a stable counterpart for a group,
 
 - Discuss with your manager.
 - Open an issue with the [SSC Onboarding template](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/Support%20Stable%20Counterparts%20Basics.md) in the Support Training project.
-    - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
+  - This is a very very short module that walks you through expectations and best practices, and will take less than half a day to complete!
 - Once done, create a handbook merge request:
-    - Add your name to the list on the [/sites/handbook/source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/handbook/source/includes/product/_categories-names.erb) file.
-    - Add your name under 'Support' for the relevant team on [/data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)
-    - Assign the MR to your manager.
+  - Add your name to the list on the [/sites/handbook/source/includes/product/_categories-names.erb](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/sites/handbook/source/includes/product/_categories-names.erb) file.
+  - Add your name under 'Support' for the relevant team on [/data/stages.yml](https://gitlab.com/gitlab-com/www-gitlab-com/-/blob/master/data/stages.yml)
+  - Assign the MR to your manager.
 
 Note: We encourage having more than 1 SSC for a group - so if the group you are interested in already has an SSC, don't let that deter your interest!
 
 ## Non-group specific SSCs
 
-A couple of roles are not product group specific, but involve all the same expections and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
+A couple of roles are not product group specific, but involve all the same expectations and responsibilities with some overlap of the [Support Liaison role](/handbook/support/support-liaisons.html).
 Non-group specific counterparts typically also step in when the related group has questions where there is no SSC currently.
 
 | Section          | Group          | Group Contact       | Support Liaison             | Frequency              |
 |:----------------:|:--------------:|:-------------------:|:---------------------------:|:----------------------:|
-| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockheart | weekly team meeting    |
+| UX               | Tech Writing   | Susan Tacker        | Cynthia Ng & Mike Lockhart  | weekly team meeting    |
 | UX               | UX             | Christie Lenneville | Cynthia Ng                  | bi-weekly team meeting |

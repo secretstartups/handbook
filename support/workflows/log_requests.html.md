@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Log and audit requests
-description: "Overview of agrigated information which GitLab Support may provide to customers, from the gitlab.com logs. Details beyond a summary require a Security request."
+description: "Overview of aggregated information which GitLab Support may provide to customers, from the gitlab.com logs. Details beyond a summary require a Security request."
 category: GitLab.com
 subcategory: Legal
 ---
@@ -27,23 +27,25 @@ Log requests beyond a summary (similar to the examples below) or where logs are 
 ## Who can make a request
 
 Requester must be a Group Owner of a paid namespace.
+
  - Must verify that this is who is making the request.
 
 ## What we can provide
 
 We can provide the following information:
+
 - Information found in the Audit Events Features
 - Information about who has accessed the account/projects that the customers owns.  This can include:
   - number of users
   - number of times accessed
   - number of unique IPs
-  - range of timestamp of occurance
+  - range of timestamp of occurrence
   - project path
 - Provide the above excluding a known list. For example, number of IP addresses not originating from a user's "work office".
 
 ## What we cannot provide
 
-We cannot provide the following information: 
+We cannot provide the following information:
 
 - Information about accounts or projects that the requester does not own.
 - Any information considered [Personally Identifiable Information (PII)](pii_removal_requests.html) that is not about the requester.

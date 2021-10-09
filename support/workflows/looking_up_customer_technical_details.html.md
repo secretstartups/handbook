@@ -23,7 +23,7 @@ There are a few places where you can find this information.
 #### Internal comment with Organization Notes
 
 When a new ticket comes in and there is an organization attach to this ticket,
-there will be a Zendesk automation trigger 
+there will be a Zendesk automation trigger
 ([Ticket::Internal Comment::Organization Info](https://gitlab.com/gitlab-com/support/support-ops/zendesk-triggers/-/blob/master/triggers/active/Ticket/Internal%20Comment/Organization%20Info.yaml))
 that puts an internal comment to the ticket. This internal comment will include
 [organization notes](../support-ops/documentation/zendesk_global_organizations.html#organization-notes)
@@ -36,7 +36,7 @@ about the organization, you can add them by following the
 procedure.
 
 You may also consider updating the Account Management projects
-[within GitLab.com](#within-gitlabcom) describe below. 
+[within GitLab.com](#within-gitlabcom) describe below.
 
 #### Browse previous tickets
 
@@ -71,10 +71,10 @@ To access the app:
 
 ### Within GitLab.com
 
-One other place to check for customer technical details is the 
+One other place to check for customer technical details is the
 [Account Management group](https://gitlab.com/gitlab-com/account-management) on
 GitLab.com. Just search by customer name and in the parent group and you should
-find the customer project. Most, but not all, premium and ultimate customers 
+find the customer project. Most, but not all, premium and ultimate customers
 should have one present.
 
 Please note that these projects are most likely shared with the end customers as

@@ -11,7 +11,6 @@ category: On-call
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-
 ## Overview
 
 In the course of our work as Support Engineers, there are instances where an Emergency may end up being larger than we expect, or unsolvable in one call. If so, this document acts as a guide on how to convert from an Emergency to an Escalation.
@@ -31,13 +30,13 @@ If so, reach out in #support-managers slack first, as a quick touch base. At thi
 
 ## How to start an escalation
 
-At this point, review the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels) to see which best applies. The most important thing for a Support Engineer here is to create a Slack room that will live for the duration of the escalation. If there is a TAM, they will start an escalation document to help manage the escalation internally. If there isn't a TAM, coordinate with the on-call Support Manager to get that document created, as per [the TAM Handbook](/handbook/customer-success/tam/escalations/index.html). 
+At this point, review the [TAM handbook for escalation levels](/handbook/customer-success/tam/escalations/#definitions-of-severity-levels) to see which best applies. The most important thing for a Support Engineer here is to create a Slack room that will live for the duration of the escalation. If there is a TAM, they will start an escalation document to help manage the escalation internally. If there isn't a TAM, coordinate with the on-call Support Manager to get that document created, as per [the TAM Handbook](/handbook/customer-success/tam/escalations/index.html).
 
 ## Expectations during an escalation
 
 As the slack room forms, it's important to note that our role changes from "problem solver" to "problem definer + problem solver". You should be balancing your time between communicating in the Slack room, updating the ticket, and getting on calls with the customer.
 
-Here are a few things to keep in mind 
+Here are a few things to keep in mind
 
 - As the on-call Support Engineer, assign the emergency ticket to yourself. Once assigned, link to the escalation doc and the Slack room in a comment, so anyone who sees the ticket will know how to get caught up on the latest.
 - At the end of your shift, update the next on-call Support Engineer & Manager of the escalation so they can take over.

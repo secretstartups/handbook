@@ -18,7 +18,7 @@ For more information on Zendesk instances, please see
 
 ## Emergency Requests for Zendesk US Federal
 
-Our US Federal Customers will be provided with an email address they can email to in case of emergency. The emergency email triggers an emergency page that our engineers will respond to within the time outlined in our Support Page. 
+Our US Federal Customers will be provided with an email address they can email to in case of emergency. The emergency email triggers an emergency page that our engineers will respond to within the time outlined in our Support Page.
 
 ## Working Tickets in Zendesk US Federal
 

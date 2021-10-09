@@ -10,10 +10,9 @@ description: "Describes the role and responsibilities for the Support Managers r
 
 ----
 
-
 ## Introduction
 
-The Support Manager On-call helps coordinate respones to urgent and important situations that arise within the scope of delivering a quality
+The Support Manager On-call helps coordinate responses to urgent and important situations that arise within the scope of delivering a quality
 experience to GitLab customers.
 
 The Support Manager On-call is one of the rotations that make up [GitLab Support On-call](/handbook/support/on-call/).
@@ -39,7 +38,7 @@ The [Support Engineer on-call](/handbook/support/on-call/) is the first responde
 
 ## Handling customer-related escalations during business hours
 
-[Support Escalations](/handbook/support/internal-support/support-escalations.html) are handled by the Support Manager on-call. 
+[Support Escalations](/handbook/support/internal-support/support-escalations.html) are handled by the Support Manager on-call.
 
 Your responsibilities are as follows:
 
@@ -73,14 +72,14 @@ Some steps of escalation management are handled by bots and auto-responders. The
 ### Rejecting an escalation request
 
 There are times when an escalation request does not meet the threshold for escalation. In such situations, return to the thread in `#support_escalations` and notify the escalation initiator.
-    
+
 ### Resolving an escalation
 
 An escalation is considered resolved when the correct next-step is identified and underway; it does not require the Zendesk ticket to be Solved or Closed.
 
 When an escalation is resolved:
 
-1. Apply a `:green-check-mark:` emoji to the escalation notification in `#support_escalations`. 
+1. Apply a `:green-check-mark:` emoji to the escalation notification in `#support_escalations`.
 1. Update the associated escalation Issue with an appropriate comment, and Close it.
 
 ## Act as a notification point for security incidents
@@ -91,10 +90,10 @@ When GitLab experiences a [security incident](/handbook/engineering/security/sec
 
 [Live upgrade assistance requests](https://about.gitlab.com/support/scheduling-live-upgrade-assistance.html) are currently triaged by engineers as part of the [Working on Tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html) but in some cases the triaging agent(s) may need assistance from Support management.
 
-#### Example situations and potential solutions:
+#### Example situations and potential solutions
 
 - User requesting Live Upgrade Assistance outside of [GitLab Support Hours](/support/#definitions-of-gitlab-global-support-hours)
-   - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accomodate the day/time being requested
+   - Reach out to your reports to determine whether any individuals would be open to shifting their working hours to accommodate the day/time being requested
    - Work with the end user to reschedule for another date/time that is more amenable to support staffing
 - User has provided insufficient [scheduling notice](/support/scheduling-live-upgrade-assistance.html#how-far-in-advance-must-i-open-a-support-request-to-request-live-upgrade-assistance)
    - Evaluate whether the scope of the upgrade may allow for an expedited review within the original timeframe (ie. single minor version upgrade on single node omnibus)
@@ -117,7 +116,7 @@ At times, you may receive an escalation where the customer is reporting a situat
 
 You can trigger a PagerDuty notification by using the [`Support::Managers::Trigger manual emergency`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360074073259) macro in Zendesk.
 
-Alternatively, you can manually trigger a PagerDuty notification through PagerDuty itself. 
+Alternatively, you can manually trigger a PagerDuty notification through PagerDuty itself.
 
 Login to [gitlab.pagerduty.com](https://gitlab.pagerduty.com) and select **+ New Incident** from the upper right corner. Then fill out the form as follows:
 

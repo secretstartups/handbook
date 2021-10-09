@@ -32,13 +32,12 @@ advance of the production upgrade.
 1. If there is missing, incomplete, or erroneous information the Engineer should highlight the deficiencies and provide any insight that may be helpful to correcting them to the user.
     - The engineer may opt to use the `Live Upgrade Request Missing Info` macro in Zendesk to help the user understand that we cannot proceed with scheduling
 until we have the necessary information to review.
-1. Once all the required information has been confirmed and the engineer is ready to schedule the call the engineer (performing the upgrade) should send a personal one time use Calendly link for a 30 minute meeting with a 7 day lead time. 
+1. Once all the required information has been confirmed and the engineer is ready to schedule the call the engineer (performing the upgrade) should send a personal one time use Calendly link for a 30 minute meeting with a 7 day lead time.
     - There is a Calendly event template that is available, navigate to your [event types](https://calendly.com/event_types/user/me), select the downward arrow next to `+ New Event Type` and select `Live Upgrade Assistance - 30 Minute Kick off session`. This event type has a 7 day lead time built in.
     - In the event the user has indicated they would like a weekend upgrade and/or the available times in the individual engineer's calendly link are not favorable for their upgrade timeframe the engineer should reach out in the [#spt_managers](https://gitlab.slack.com/archives/C01F9S37AKT) Slack channel and `@` their manager for visibility. The managers would then be responsible to find another engineer who has availability for the requested date/time.
     - If the reviewing engineer does need to hand off the ticket they **must** sync up with the engineer who will be performing the live assistance to ensure proper handoff.
 1. Once the user has scheduled the upgrade the ticket assignee should put the ticket in an `on-hold` state while waiting to begin the upgrade assistance live session. The ticket owner should also notify the on-call engineer who is scheduled during the upgrade window in Slack and add them as a CC or follower to the ticket.
 1. Post call, the Engineer will comment on the ticket with a post-mortem of sorts. This should detail any issues that occurred or comments that might be relevant for the TAM, the customer, or Support.
-
 
 #### What to do if issues occur during the course of upgrade assistance
 

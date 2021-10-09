@@ -21,9 +21,9 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 ## Process
 
 1. If the account is blocked, look for the admin note on the account to determine why it has been blocked.
-    - The [(GitLab user lookup app](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively - 
+    - The [(GitLab user lookup app](https://about.gitlab.com/handbook/support/support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) in Zendesk will show the admin notes for the user if they have contacted support using the email address associated with their account.  Alternatively -
 	- If you have access to ChatOps you can use the below command in any chatops enabled Slack channel to read admin notes for the user
-		> `/chatops run user find <username or email>`
+	> `/chatops run user find <username or email>`
 1. If the block or complaint is related to access from an embargoed country, use the [`Support::SaaS::Abuse::TOS Section 10 (Embargoed Countries)`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360020523679) macro.
     - If the user provides the requested information, then complete the `Trust and Safety` [Account Reinstatement Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new) template in the Trust and Safety Operations tracker. Otherwise, reaffirm the block cannot be removed.
 1. For all other cases (including if there is *no admin note*), complete the [Account Reinstatement Request](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new) template in the Trust and Safety Operations tracker. A security member of the team will review the request within 24 hours. If the request is urgent, please reach out in the #abuse Slack channel.
@@ -38,15 +38,14 @@ All blocked accounts should have an admin note with a link to a relevant issue.
 1. These criteria are to be taken as examples **only**, and **not** as binding principles.
 1. If the account violates our ToS again within a 12 month period, it could result in being permanently banned.
 
-### An account can be reinstated when;
+### An account can be reinstated when
 
 1. The user agrees to remove the content in question within the requested timeframe.
 1. The user has provided a sufficient use case for violating our Terms of Use.
 1. The user agrees to remove or export the content away from GitLab.com within 24 hours.
 1. The DMCA/Trademark complaint has been resolved.
 
-
-### An account **cannot** be reinstated when;
+### An account **cannot** be reinstated when
 
 1. The user refuses to take corrective measures on the account.
 1. The user continues to violate our ToS.

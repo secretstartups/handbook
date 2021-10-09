@@ -34,10 +34,9 @@ At the very least, you should subscribe to the following labels:
 
 You may want to consider subscribing to [Platform::SaaS](https://gitlab.com/gitlab-com/support/internal-requests/-/labels?subscribed=&search=platform+saas) but be aware this will be noisier.
 
-By subscribing to the labels, you'll recieve notifications on when a request is created. You should try to work them into your regular workflow, ensuring that you are assigning it to yourself like a customer ticket if you decide to take it.
+By subscribing to the labels, you'll receive notifications on when a request is created. You should try to work them into your regular workflow, ensuring that you are assigning it to yourself like a customer ticket if you decide to take it.
 
 If you are interested in servicing internal requests that require console access, consider speaking with your manager about completing the [Gitlab.com Console module](https://gitlab.com/gitlab-com/support/support-training/-/blob/master/.gitlab/issue_templates/GitLab-com%20Console.md).
-
 
 ## General Workflow
 
@@ -62,7 +61,7 @@ graph TD;
 
 ## Activate Trial Runners
 
-For sales assisted trials, only we can override the credit card validation requirement for a namespace. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users. These requests require console access. 
+For sales assisted trials, only we can override the credit card validation requirement for a namespace. Note that there is a [special process](https://gitlab.com/gitlab-com/support/support-team-meta/-/issues/3479#consumption-users) for consumption users. These requests require console access.
 
 ## GitLab.com Trial Change Request
 

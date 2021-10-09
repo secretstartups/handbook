@@ -38,7 +38,7 @@ If a paid user (part of paid group or paid user namespace) is unable to remove 2
 
 While Support typically identifies users by their membership in a paid namespace, there are cases where users cannot be added manually by group owners, such as with [SSO enforcement](https://docs.gitlab.com/ee/user/group/saml_sso/#sso-enforcement) enabled. In these cases:
 
-1. [Owner vouch](#authenticating-an-owner) is required. 
+1. [Owner vouch](#authenticating-an-owner) is required.
 1. Primary email of the account must match the company domain.
 1. User must still prove account ownership following the [workflow](#workflow).
    - Include the paid namespace when determining the data classification level.  
@@ -222,7 +222,6 @@ Wait for the customer to comment on the issue and approve the request to disable
 
 Once the customer has approved the request, disable 2FA on the user's account, add an [Admin Note](admin_note.html) on the user's account, and then close both the support ticket and issue.
 
-
 ## **Authentication For GLGL Reports**
 
 In the event that a customer requests a report of their group's users from [GLGL](https://gitlab.com/gitlab-com/support/toolbox/glgl), consult the [internal-requests wiki](https://gitlab.com/gitlab-com/support/internal-requests/-/wikis/Procedures/GLGL-Report-Authentication) for the process of authenticating the requestor.
@@ -269,4 +268,3 @@ In a paid namespace: If the user elects to have an Owner vouch for their request
 1. If the Owner passes, you may count this towards the account verification challenges.
 
 Please note: Due to this [bug](https://gitlab.com/gitlab-org/gitlab/-/issues/337939) some group owners are not able to create snippets. In that case please verify the owner vouch and proceed with the request.
-

@@ -34,7 +34,6 @@ video.
 
 From the Zendesk [GitLab User Lookup application](../support-ops/documentation/zendesk_global_apps.html#gitlab-user-lookup) you have access to the requester details in SFDC and GitLab.com.
 
-
 ## Within Salesforce
 
 If you are trying to find the ticket requester's organization, you'll have to look it
@@ -161,7 +160,6 @@ and a direct link to the LicenseDot page.
 
 Follow the [instructions](https://gitlab.com/gitlab-com/support/toolbox/license-decoder#gitlab-license-decoder) in the project
 for installation and usage instructions.
-
 
 ### From the Rails console
 

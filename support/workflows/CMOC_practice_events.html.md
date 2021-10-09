@@ -16,6 +16,7 @@ description: "Provides overview of Support Engineering CMOC quarterly practice e
 Support Engineering aims to conduct practice CMOC incident events globally every quarter. The exact date & time of each event (1 per region) will not be known to the CMOC ahead of time. This is to simulate the nature of live events being unexpected.
 
 ### Purpose
+
 The practice events provide an opportunity to practice the activities and processes related to the CMOC responsibility. They are not a test that can be passed or failed, but rather a team exercise to gain experience, and an opportunity to iterate on the process and documentation.
 
 ### Outcomes

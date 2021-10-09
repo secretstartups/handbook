@@ -37,7 +37,7 @@ Please see the product handbook to see [what information product wants us to pro
 Optional:
 
 [Search for Zendesk tickets based on the `GitLab Issues` custom field](https://about.gitlab.com/handbook/support/support-ops/training/searching-in-zendesk.html#searching-by-custom-ticket-field). Copy and add the link to the search query as a comment to the issue, specifying that it's an internal link to a ZenDesk search of related tickets. This will give the PM more insight into how many customers have encountered an open bug, or have requested a certain feature.
- 
+
 **Note:** To obtain the field ID for the `GitLab Issues` field, you can reference [this repository file](https://gitlab.com/gitlab-com/support/support-ops/zendesk-ticket-forms-and-fields/-/blob/master/ticket_fields/active/GitLab%20Issues.yaml).
 
 
@@ -147,4 +147,5 @@ If you create a feature proposal on behalf of a customer, please follow the same
 - Old blog post on [infrastructure](/blog/2016/04/29/look-into-gitlab-infrastructure/)
 
 ## General Product Feedback
+
 In the case where general product feedback is received and it is not clear whether it is related to or belongs in an issue, feel free to convey the feedback to the product team as outlined in our [Product Feedback section](/handbook/support/workflows/feedbacks_and_complaints.html#product-feedback).
