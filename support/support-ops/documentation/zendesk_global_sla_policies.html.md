@@ -107,6 +107,7 @@ This requires an exact process, which is detailed via the
     * Form is Support Ops
     * Ticket Stage is not Needs Org
     * Ticket Stage is not Needs Triage
+    * Tags do not contain `skip_sla`
   * Any
 
 | Target | Urgent | High | Normal | Low |

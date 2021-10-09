@@ -26,7 +26,7 @@ The main situations where action may need to be taken on behalf of the user:
 
 Following our [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq), actions should always be taken by the user whenever possible.
 
-For example, users should be deleting their own projects, but if they encounter an error with every attempt and there are no workarounds, then Support can intervene with permission.
+For example, users should be deleting their own projects, but if they encounter an error with every attempt and there are no workarounds, then Support can intervene [with permission](#asking-permission).
 
 If in doubt, please ask a Support manager to review.
 
@@ -67,6 +67,22 @@ To release an email address for an inactive account:
     - This can be done with Admin access or [via Chatops](./chatops.html#Update-a-Users-Primary-Email)
 1. Add an [Admin Note](admin_note.html) to the user's account.
 
+## How is permission given for troubleshooting?
+
+The Support team will not view any private information unless required to resolve an issue. Typically, the issue is filed by the account holder (for users) or valid members of the namespace (for projects and groups) via a support ticket for troubleshooting purposes as outlined in [Security Policy on "GitLab's Access to Your Private Repositories"](/security/faq).
+
+A Support team member may look at information on pages not explicitly mentioned in the request, but will limit the scope of the review to the minimum access required to solve any issues.
+
+The Support team will only take action from the requester if they:
+- Are a member of the namespace.
+- Have a problem that requires Support to investigate.
+- Provide a link to the namespace.
+  - This link can come from the initial form submission or a response in the ticket.
+
+We expect users to provide specific links in order to focus on the related views and logs while investigating an issue. For example, a request to look into a CI/CD error should include links to the relevant job logs, pipelines, and/or CI YAML file.
+
+Any time user data needs to be downloaded (such as cloning a repository), or where secrets must be revealed (such as [CI/CD Variables](https://docs.gitlab.com/ee/ci/variables/)), to further troubleshoot, requires [explicit permission](#asking-permission) before continuing. Any user data that has been downloaded for reproduction purposes must be deleted when the issue is resolved.
+
 ## Asking Permission
 
 Before any actions are taken, including impersonating a user, please request explicit permission to take the required action. Be as specific as possible so that there is no confusion.
@@ -79,10 +95,12 @@ or
 
 > Could you please confirm that you would like us to ... ?
 
-For example:
+Some examples:
 
-> Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described?
+> Could you please provide permission for Support to re-run one or more pipelines in project `xyz` to investigate the issue you've described? Replying in this ticket stating you provide permission will be sufficient.
 >
-> Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address?
+> Could you please provide permission for our Support Engineers to look at the CI/CD variables in the project so that we confirm they are correct? Replying in this ticket stating you provide permission will be sufficient.
+>
+> Could you please confirm that you would like us to add `example@email.address` to your account and make it the _primary_ email address? Replying in this ticket stating you provide permission will be sufficient.
 
 Once permission is confirmed by the user, then you may proceed.

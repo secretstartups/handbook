@@ -48,8 +48,8 @@ Here's what to do when you're actively working on tickets in Zendesk. Divide you
 #### Main Views
 
 1. My Assigned Tickets - Keep your customers up to date and moving towards solutions
-1. [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360050768099) - all SEs find new tickets here
-1. [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360050768099) - all SEs find new tickets here
+1. [Needs Org / FRT](https://gitlab.zendesk.com/agent/filters/360076150200) - all SEs find new tickets here
+1. [Handover Needed (REGION)](https://gitlab.zendesk.com/agent/filters/360076150280) - all SEs find new tickets here
 1. [SaaS Account](https://gitlab.zendesk.com/agent/filters/360050768099) - SaaS focused SEs find new tickets here
 1. [Free user tickets](https://gitlab.zendesk.com/agent/filters/360038103100) - help when you have capacity
 1. [L&R](https://gitlab.zendesk.com/agent/filters/360038103700) - for L&R focused SEs
