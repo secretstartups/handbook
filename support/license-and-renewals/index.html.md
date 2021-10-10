@@ -94,18 +94,15 @@ To be effective with this work, you'll need access to systems and tools which yo
 might not otherwise encounter working other Support problem types. This list
 supplements the baseline entitlements for the Support Engineer job family.
 
-#### LicenseDot
+#### CustomerDot
 {:.no_toc}
 
-LicenseDot is where all self-managed licenses are generated, stored and email
-notifications sent to the email associated to the license. You'll need access
-to this to view existing customer licenses and manually generate new ones if
-necessary.
+CustomerDot is where all license management is handled. You will need access to this to generate, forward and modify customer information.
 
 * System name:
-  > LicenseDot - admin
+  > CustomerDot - admin
 * Justification for this access:
-  > Support Engineers need LicenseDot admin access to work on customer licensing
+  > Support Engineers need CustomerDot admin access to work on customer licensing and subscriptions
   > issues and to debug issues on the application itself.
 
 #### Salesforce
