@@ -46,13 +46,10 @@ If you require a group of your own to have a paid tier, please submit an [access
 
 ## Testing Environment License
 
-For a test license you can log into LicenseDot with your GitLab login. You can use one of the [shared licenses](https://license.gitlab.com/licenses/) or if you need special add-ons, such as geo, you can generate a new one.
+For a test you will need to make an [internal issue](https://gitlab.com/gitlab-com/support/internal-requests/-/issues) requesting one. You can select `GitLab Team Member License`
 
 Please keep in mind *you can't generate licenses for customers* only for testing
-purposes. To generate a new license, log in to LicenseDot and click on the
-'New License' green button on the right side of the screen. Click on "You can also manually create a license
-without a Zuora subscription" at the bottom of the screen and fill out all non-optional
-fields.
+purposes.
 
 ## Cloud Testing Environments
 

@@ -24,9 +24,10 @@ In general, you should look for customer details in this order:
 1. [GitLab User Lookup app in Zendesk](#gitlab-user-lookup-app-in-zendesk)
 1. Within [Salesforce](#within-salesforce)
 1. Within [customers.gitlab.com](#within-customersgitlabcom)
-1. Within [license.gitlab.com](#within-licensegitlabcom)
+1. Within [licenses in CustomersDot](#within-licenses-in-customersgitlabcom)
+   - See note on [legacy License App](#legacy-license-app)
 
-For an overview and runthrough of manual searching of SFDC, customers.gitlab.com, and license.gitlab.com, watch Amanda Rueda's
+For an overview and runthrough of manual searching of SFDC, customers.gitlab.com, and license.gitlab.com (legacy), watch Amanda Rueda's
 [How to use Salesforce from a support perspective](https://drive.google.com/drive/u/0/search?q=Amanda%27s%20Salesforce%20Class%20parent:1JDdcj2ESdCc_ReG0-n7RyAIxbIFkcQ1K)
 video.
 
@@ -128,24 +129,21 @@ The person responsible for the customer's license renewal is listed under
 that you are not aware of, and there can be large customers with multiple organizations using the same
 domain. Therefore, search by e-mail is more reliable.
 
-## Within license.gitlab.com
+## Within licenses in customers.gitlab.com
 
-All self-managed licenses including trial ones should be available in [LicenseDot](http://license.gitlab.com) portal.
-You should be able to access it with your dev.gitlab.org account.
+All self-managed licenses including trial ones should be available in [CustomerDot Licenses](https://customers.gitlab.com/admin/license).
+Access is provisioned via Okta.
 
 ## When the license ID is provided
 
 If a customer provides you with their license ID, you may need to check for it
-both in [CustomersDot](https://customers.gitlab.com/admin) and [LicenseDot](http://license.gitlab.com).
+in [CustomersDot](https://customers.gitlab.com/admin).
 
 You can do so by appending the ID to the following URLs:
 
 - https://customers.gitlab.com/admin/license/
 
   *e.g.* `https://customers.gitlab.com/admin/license/<LICENSE_ID>`
-- https://license.gitlab.com/licenses/
-
-  *e.g.* `https://license.gitlab.com/licenses/<LICENSE_ID>`
 
 ## When the full license file is provided
 
@@ -157,7 +155,7 @@ script and the other is to use the Rails console on a self-managed instance.
 
 The easiest method is to use the [License Decoder](https://gitlab.com/gitlab-com/support/toolbox/license-decoder) ruby script.
 It outputs nice clean information including links to subscription information
-and a direct link to the LicenseDot page.
+and a direct link to the CustomersDot License page.
 
 Follow the [instructions](https://gitlab.com/gitlab-com/support/toolbox/license-decoder#gitlab-license-decoder) in the project
 for installation and usage instructions.
@@ -178,11 +176,16 @@ Then, from the Rails console on your own self-managed instance:
 
 ```
 license = ::License.new(data: "<paste entire license key without the carriage returns>")
-"https://license.gitlab.com/licenses/".concat(license.license_id.to_s)
+"https://customers.gitlab.com/admin/license/".concat(license.license_id.to_s)
 ```
 
-This will return nice URL that will take you the relevant license in LicenseDot.
+This will return nice URL that will take you the relevant license in CustomersDot.
 
 ```
-=> "https://license.gitlab.com/licenses/<license_id>"
+=> "https://customers.gitlab.com/admin/license/<license_id>"
 ```
+
+## Legacy license app
+
+Historically, [license.gitlab.com](https://license.gitlab.com) was used for creating and managing licenses.  This portal was deprecated mid 2021, and made read-only on October 5, 2021.
+All new and existing licenses are managed in [CustomersDot](https://customers.gitlab.com/admin/license), and this is only noted for posterity.

@@ -143,7 +143,7 @@ an expiration date under the **Trials** column.
 If needed, also check the
 [internal-requests project](https://gitlab.com/gitlab-com/support/internal-requests/issues)
 for manual plan changes.
-- Self-managed: [LicenseDot](http://license.gitlab.com) portal as per [customer info license lookup](looking_up_customer_account_details.html#within-licensegitlabcom).
+- Self-managed: [CustomerDot](http://customers.gitlab.com/admin/license) portal as per [customer info license lookup](looking_up_customer_account_details.html#within-licenses-in-customersgitlabcom).
 
 If you identify a ticket as from a trial user,
 
