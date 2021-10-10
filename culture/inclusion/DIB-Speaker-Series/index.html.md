@@ -11,7 +11,10 @@ This is a series of Speakers, Q&As, Talk and Workshops that the Diversity, Inclu
 
 ### Upcoming Speakers 
 
-- **To be announced**
+- **19th/ 20th of July 2021 - 50 Shades of Bias with Tina and Maribel**
+    - Calendar invites: [EMEA/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmo0ZWVtazVwOWNkNjVoOGkzYm1mbTRtc2EgbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) and [NORAM/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NW1hcjczcHMybmZ2ajhnbG1iZGRvbmxkczggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
+- **18th/19th of November 2021 - Loops of Learning with Tracy Bell** 
+    - Calendar invites: [NORAM/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjNzY2RjazgwOWhzZzVwdXNybnF1ZmNjbDggbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com) and [EMEA/APAC](https://calendar.google.com/event?action=TEMPLATE&tmeid=NGU0MXM2aHFvYW1zNWlmazZoZmtnOXJpN28gbG1jbmFsbHlAZ2l0bGFiLmNvbQ&tmsrc=lmcnally%40gitlab.com)
 
 ### Past Speakers and Events 
 
