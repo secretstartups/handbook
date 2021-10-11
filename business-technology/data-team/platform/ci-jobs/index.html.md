@@ -164,7 +164,7 @@ This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have 
 #### ➕📸🥩🦖specify_l_snapshot
 
 Specify which snapshot to run with the variable `DBT_MODELS`.
-This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
+This jobs runs against the clone of `RAW`, using a large SnowFlake warehouse. Requires the `clone_raw` job to have been run.
 
 ### 🛠 dbt Misc
 
