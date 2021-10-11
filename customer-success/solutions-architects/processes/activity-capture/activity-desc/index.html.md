@@ -20,7 +20,7 @@ Solutions Architects record all customer and prospect activity with accurate act
 
 ## Customer Activity Type with Troops.ai
 
-When recording prospect/customer activity by SA into `Task` objects within Salesforce based on the `Log a Call` action on an `Opportunity`, one or more than one activity type should be selected to accurately reflect the customer interaction. 
+When recording prospect/customer activity by SA into `Task` objects within Salesforce based on the Troops.ai `Log a Call` action on an `Opportunity`, one or more than one activity type should be selected to accurately reflect the customer interaction. 
 
 This page describes all activity types available for SAs in 
 - [Enterprise and Commercial](/handbook/customer-success/solutions-architects/processes/activity-capture/activity-desc/#Description-for-Enterprise-and-Commercial-SA-Activity-Type) 
@@ -38,18 +38,18 @@ Select these types when capturing activities by Enterprise and Commercial SA tea
 delivered to the client. In the [SA] Activity Description field in troops, the SA should 
 also refer to insights around the demonstration purpose and area of product walkthrough. Options could be a full high-level end-to-end GitLab overview, or a specific GitLab stage demonstration, a partial GitLab platform overview or a very specific technical deep dive into the product.
 
-- **Discovery Session** - The SA has the opportunity to record major insights during the initial discovery session with the client. The SA could work with the client in collaboration to understand whether the current environment is restrictive in the project deliverables or whether there is a need to extend the existing platform with our offering. 
+- **Discovery Session** - The SA has the opportunity to record major insights during the initial discovery session with the client. The SA could work with the client in collaboration to understand whether the current environment is restrictive in the project deliverables or whether there is a need to extend the existing platform with our offering. Examples of categorised discovery sessions could be;
   * DevOps discovery discussion
   * Continuous Integration discussion
   * Deployment environment discussion
   * Application front- and back-end discussion
   * Cloud journey and strategy discussion
 
-- **Other** - The SA could utilise this [SA] Activity type to record any activity not listed in the options dropdown and is reserved for all non-anticipated types of SA services. It is imperative when using this activity type to be precise under the [SA] Activity Description field in troops to record the detail of the activity. 
+- **Other** - The SA should utilise this [SA] Activity type to record any activity not listed in the options dropdown and is reserved for all non-anticipated types of SA services. It is imperative when using this activity type to be precise under the [SA] Activity Description field in troops to record the detail of the activity. 
 
 - **Post-sales technical account management** - SA uses this type to record technical account management work for accounts that don’t qualify for TAM and for collaboration with TAM as part of post sales cadence calls. For growth opportunities to expand the account using the cadence calls, log the activity in other appropriate types.
 
-- **PoV related activity** - It is assumed that the client’s indication of a PoV and/or Technical Evaluation would be shared in either a Discovery session or during another [SA] Activity and the PoV related activity would be used by the SA as an activity record pertaining to the preparation, execution and completion of a PoV or a Technical Evaluation.
+- **PoV related activity** - It is assumed that the client’s indication of a PoV and/or Technical Evaluation would be shared in either a Discovery session or during another [SA] Activity and the PoV related activity would be used by the SA as an activity record pertaining to the preparation, execution and completion of a PoV or a Technical Evaluation. Examples of PoV related activities could be;
   * PoV/Technical Evaluation scoping: The SA has the opportunity to record their activity towards engaging with the client on understanding the requirements and work in collaboration to agree on the type of evaluation [PoV or Technical Evaluation] and on the in-scope success criteria. The client on the other hand has the opportunity to define whether a high- or lite-touch PoV is required. Optionally the client may prefer to decide that a self-managed Technical Evaluation is sufficient and the SA assists ad-hoc.
   * Technical Evaluation cadence: The SA has the opportunity to record their activity with their client specific in relation to the Technical Evaluation. Upon agreeing to a plan, specific requirements and the definition of success, a regular or irregular cadence may be set by the SA with collaboration with the customer. 
   * PoV cadence: The SA will often agree to a PoV plan, duration, sign off the in-scope PoV success criteria and work with their client on a regular cadence [weekly, bi-weekly, multi-weekly]. This [SA] Activity is an opportunity to capture the frequency and progress on the PoV. The SA should consider hosting a final cadence session with their client to agree on the sign off of the final completion of the evaluation.
@@ -58,7 +58,7 @@ also refer to insights around the demonstration purpose and area of product walk
   * The SA attended an initial Technical Discovery session with the client and first requirements have been clearly collaborated on with the SA to take initiative to prepare for a presentation.
   * The SA debriefed internally with their SAL/AE/Channels Managers to understand the requirements of a first-time SA connect with the client and the expectation on an initial Presentation / Pitch
 
-- **Security Questionnaire / RFP** - Security Assessment and RFP
+- **Security Questionnaire / RFP** - The SA should use this activity type to record actions related to completing security assessments or progressing opportunities through tender processes. Examples of activities that fit into this category are;
   * Security Assessment: Although technically speaking part of the tendering process, Security Assessment generally involve the SA to interact with GitLab governing divisions ensuring accuracy and legal responses. As such, the SA engages with a GitLab division internally to address those Security specific requirements but ahead of the process, the SAs have a responsibility to attempt in the form of a first attempt to the queries.
   * Procurement / Tender process (RFx): The SA is engaged with the client and an indication has been given that their organisation will be undergoing a public tendering process. Tendering processes could be requesting a proposal, quote, information, expressions of interest and generally result in the SA responding to functional and/or non-functional queries of the GitLab platform as part of a request. Often tendering processes are indicated early, shared fairly with the approaches to take it to market and require a formal process involving the SA addressing technicalities required in form of written artefacts.  
 
