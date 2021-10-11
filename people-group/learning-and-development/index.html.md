@@ -21,7 +21,7 @@ L&D is here to guide team members on their career journey by maintaining a cultu
 
 _Where are we going_
 
-A future where we are considered a best in class organization for remote learning & development by industry leaders. A future where **everyone can contribute** to a culture of curiosity driven by team members. 
+A future where GitLab is best in class organization for remote learning & development, recognized by industry leaders. A future where **everyone contributes** to a culture of curiosity driven by team members. 
 
 ### Mission
 
