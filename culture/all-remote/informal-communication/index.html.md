@@ -192,7 +192,7 @@ You can use the [GitLab org chart](https://comp-calculator.gitlab.net/org_chart)
 
 ### Leadership Coffee Chat with URG Team Members
 
-At the CEOs request, as of 2021-03-01 we are launching an effort `Leadership Coffee Chats with URG Team Members` aimed at driving more conversations and increasing understanding between leadership and URGs. Our goal is to leverage every opportunity to increase allyship and engage with all URGs at GitLab. The first iteration will start with our Black team members. Future iterations will include Coffee Chats with LatinX, Asian, LGBTQ, Women, etc. Anything discussed will remain confidential.
+At the CEOs request, as of 2021-03-01 we are launching an effort `Leadership Coffee Chats with URG Team Members` aimed at driving more conversations and increasing understanding between leadership and Underrepresented Groups (URGs). Our goal is to leverage every opportunity to increase allyship and engage with all URGs at GitLab. The first iteration will start with our Black team members. Future iterations will include Coffee Chats with LatinX, Asian, LGBTQ, Women, etc. Anything discussed will remain confidential.
 
 This format is similar to our regular Coffee Chats, and in this first iteration, the [E-Group](https://about.gitlab.com/company/team/structure/#e-group) and the [All-Directs](https://about.gitlab.com/company/team/structure/#all-directs) layer of leadership will connect with Black team members for coffee chats. To start, we will keep these within the same function as much as possible (i.e. Black team member in Marketing invited for a Coffee Chat with the CMO and an All-Direct Leader in Marketing)
 
