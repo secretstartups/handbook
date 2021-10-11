@@ -166,7 +166,6 @@ This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have 
 Specify which snapshot to run with the variable `DBT_MODELS`.
 This jobs runs against the clone of `RAW`. Requires the `clone_raw` job to have been run.
 
-
 ### 🛠 dbt Misc
 
 These jobs are defined in [`snowflake-dbt-ci.yml`](https://gitlab.com/gitlab-data/analytics/-/blob/master/transform/snowflake-dbt/snowflake-dbt-ci.yml)
