@@ -38,10 +38,9 @@ We equip & empower individual contributors and people leaders to access self-ser
 _Performance indicators_ 
 
 1. Reduce voluntary attrition by 5% each year by measuring [exit survey data](https://docs.google.com/document/d/1kPmaQwAsTujbclFSH2J2Le-OAPT1BP5JitFyCqe1BO8/edit#) related to career development
-2. Increase productivity for team members
-3. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
-4. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/, job shadows, intern for learning, and professional development
-5. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
+2. Increase in 5% each year for the Growth & Development category of the [annual engagement survey](/handbook/people-group/engagement/)
+3. Increase in access to career mobility: internal transfers, [promotions](/handbook/people-group/promotions-transfers/, job shadows, intern for learning, and professional development
+4. Evidence of best in class remote learning & development (i.e. [Brandon Hall Awards](https://www.brandonhall.com/excellenceawards/index.html), Industry Speaking Events, Thought Leadership articles, etc.)
 
 ### Principles
 
