@@ -15,7 +15,7 @@ title: Learning & Development
 
 _Why we exist_
 
-To guide team members on their career journey by maintaining a culture of learning and development so that GitLab is a great place to work. L&D is here to ensure team members can do their jobs so that GitLab can achieve results that make our customers and people happy. 
+L&D is here to guide team members on their career journey by maintaining a culture of learning and development so that GitLab is a great place to work. We ensure team members can do their jobs so that GitLab can achieve results that make our customers and people happy. 
 
 ### Vision 
 
