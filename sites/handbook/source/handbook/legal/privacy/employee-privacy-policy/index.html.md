@@ -175,7 +175,6 @@ We may collect and process your personal information in the Systems for various 
 
  - Other purposes permitted by applicable privacy and data protection legislation including where applicable, legitimate interests pursued by GitLab where this is not overridden by the interests or fundamental rights and freedoms of employees.
 
-Additional information regarding specific processing of personal data may be notified to you by locally.
 
 *Legal Basis for processing*
 
