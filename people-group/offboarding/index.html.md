@@ -93,6 +93,7 @@ If resignation is the only solution after you have discussed your concerns, plea
 1. **Team Member**: Team members are requested to provide an agreed upon notice of their intention to separate from the company to allow a reasonable amount of time to transfer ongoing workloads.
 1. **Team Member** If you are employed via one of our [Professional Employer Organization/ Employer of Record and not a GitLab entity](https://about.gitlab.com/handbook/people-group/employment-solutions/#peo-professional-employer-organization-employer-of-record-and-not-a-gitlab-entity), please forward your resignation to the PEO for their process and record keeping. 
 1. **Team Member**: The team member should provide a written resignation letter or email notification to their manager.
+1. **Team Member**: Please review and action the steps listed on the [Team Member Enablment Offboarding Laptop page](https://about.gitlab.com/handbook/business-technology/team-member-enablement/gitlab-laptop-offboarding/) 
 1. **Team Member**: The team member should arrange a meeting with the respective IT Ops team member on their last day (30-60 minutes before the scheduled offboarding time) to complete the laptop wipe:
     - Marc DiSabatino - AMER time zone
     - Paul Laurinavicius - EMEA time zone
