@@ -17,39 +17,79 @@ title: "Data Team Direction"
 
 ### [FY22-Q1](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/200#data) 
 
-FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with Fusion Teams, the first major release of the Trusted Data solutions and Sales Funnel Dashboard, integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
+#### Planning Bookmarks
 
 - [FY22-Q1 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/259)
 - [FY22-Q1 Report Card](https://gitlab.com/gitlab-data/managers/-/issues/258)
 - [FY22-Q1 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/8281)
 
+#### Key Themes and Results
 
-|  Theme | Objective | Notes and Key Results |
-| :--- | :--- | :--- |
-| Mature the Data Program | Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. | Rolled-out Fusion Teams, XMAU Handbook Page, Gainsight SM Usage Data, and Marketing Data Mart |
-| Level 2-Corporate Intelligence | Objective 2: Improve GTM Performance Management Efficiency | Shipped TD: Sales Funnel dashboard, Shipped Analytics Hub MVC |
-| Level 2-Platform Maturity | Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure | Created v1 of the Quarterly Audit, Shipped Data Pump v1 |
+|  Theme | Notes and Key Results |
+| :--- | :--- |
+| Mature the Data Program: Objective 1: Define FY22 Fusion Teams, support Project Compass, report on internal stakeholder satisfaction with surveys, and make sure we have alignment on priority and deliverables. | Rolled-out Fusion Teams, XMAU Handbook Page, Gainsight SM Usage Data, and Marketing Data Mart |
+| Level 2-Corporate Intelligence: Objective 2: Improve GTM Performance Management Efficiency | Shipped TD: Sales Funnel dashboard, Shipped Analytics Hub MVC |
+| Level 2-Platform Maturity: Objective 3: Expand the Enterprise Data Platform to be more Reliable and Secure | Created v1 of the Quarterly Audit, Shipped Data Pump v1 |
+
+#### End of Quarter Summary
+FY22-Q1 was a very important quarter for the Data Team because the team completed many initiatives started earlier in FY21, including the new organization model with Fusion Teams, the first major release of the Trusted Data solutions and Sales Funnel Dashboard, integration of Product Usage Data into Gainsight, among other things. The Team successfully delivered on all major commitments in the quarter and helped position itself for success and scale heading into Q2.
+
 
 ### [FY22-Q2](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/247#data)
 
-- [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
-- FY22-Q2 Retrospective `Coming Soon`
-- FY22-Q2 Report Card `Coming Soon`
-- FY22-Q2 Handbook Jamboree  `Coming Soon`
+#### Planning Bookmarks
 
-|  Theme | Objective |
-| :--- | :--- | 
+- [FY22-Q2 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/8600)
+- [FY22-Q2 Handbook Jamboree](https://gitlab.com/gitlab-data/analytics/-/issues/9441)
+- [FY22-Q2 Retrospective](https://gitlab.com/gitlab-data/managers/-/issues/262)
+
+#### Key Themes and Results
+
+|  Theme | Notes and Key Results |
+| :--- | :--- |
 | Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
 | Level 2-Corporate Intelligence | Objective 2: Enable GitLab to be a Public Company |
 | Level 2-Platform Maturity | Objective 3: Improve Product Decision Quality and Accuracy with Trusted Data |
 
 ### [FY22-Q3](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/248#data)
 
+#### Process and Planning Improvements
+
+- This quarter we are experimenting with `Release Roundup` - a single issue to collect a list of our most important releases over the course of the quarter.
+- This quarter we are starting our Q4 Planning earlier than ever! As of 2021-10-08 our proposed Q4 OKRs are available for review and feedback.
+https://lucid.app/lucidchart/8902caa4-dca2-4bcb-86eb-3adfd39d72be/edit?invitationId=inv_025539c2-3dc8-4891-b3c7-06f651b40247&page=wi48ICZ942yj#
+
+#### Planning Bookmarks
+ 
+- [FY22-Q3 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
+- [FY22-Q3 Release Roundup](https://gitlab.com/gitlab-data/analytics/-/issues/10090)
+- FY22-Q3 Retrospective `Coming Soon`
+
+#### Key Themes and Results
+
 |  Theme | Objective |
-| :--- | :--- | 
+| :--- | :--- |
 | Level 2-Corporate Intelligence | Objective 1: Accelerate GTM Teams and Project Compass |
 | Level 2-Corporate Intelligence | Objective 2: Public Company Readiness |
 | Level 2-Product & Customer Intelligence | Objective 3: Accelerate R&D Teams with Trusted Data |
+
+### [FY22-Q4](https://gitlab.com/groups/gitlab-com/business-technology/-/epics/248#data)
+
+#### Process and Planning Improvements
+
+- This quarter we are experimenting with `Release Roundup` - a single issue to collect a list of our most important releases over the course of the quarter.
+- This quarter we are starting our Q4 Planning earlier than ever! As of 2021-10-08 our proposed Q4 OKRs are available for review and feedback.
+https://lucid.app/lucidchart/8902caa4-dca2-4bcb-86eb-3adfd39d72be/edit?invitationId=inv_025539c2-3dc8-4891-b3c7-06f651b40247&page=wi48ICZ942yj#
+
+#### Planning Bookmarks
+ 
+- [FY22-Q3 Data Team Handbook Updates](https://gitlab.com/gitlab-data/analytics/-/issues/9868)
+- [FY22-Q4 Data Team Objectives and Planning Drumbeat](https://gitlab.com/gitlab-data/managers/-/issues/264)
+
+|  Theme | Objective |
+| :--- | :--- |
+| TBD | TBD |
+
 
 ## Strategy
 
