@@ -76,7 +76,7 @@ Want to learn more about Onboarding from current team members? View their feedba
 
 GitLab utitilizes Expensify as our team member [expense](https://about.gitlab.com/handbook/finance/expenses/) reimbursement tool. All team members will have access to Expensify within 2 days from their hire date. If you didn't receive an email from Expensify for your access, please contact `ap@gitlab.com`. 
 
-There are a few commonly expensed items amoung new hires that are listed below and a guide to how they can be categorized within Expensify.
+There are a few commonly expensed items among new hires that are listed below and a guide to how they can be categorized within Expensify.
 
 | Item| Expensify Category| 
 |:---------------|:---------------:|
