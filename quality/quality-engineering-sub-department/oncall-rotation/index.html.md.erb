@@ -1,0 +1,171 @@
+---
+layout: handbook-page-toc
+title: Quality Engineering On-call Rotation
+description: >-
+  The Quality Engineering Sub-Department has two on-call rotations: pipeline triage (SET-led) and incident management (QEM-led).
+---
+
+## On this page
+{:.no_toc .hidden-md .hidden-lg}
+
+- TOC
+{:toc .hidden-md .hidden-lg}
+
+## Quality Department pipeline triage on-call rotation
+
+This is a schedule to share the responsibility of debugging/analysing the failures
+in the various scheduled pipelines that run on multiple environments.
+Quality department's on-call does not include work outside GitLab's normal business hours. Weekends and [Family and Friends Days](/company/family-and-friends-day/) are excluded as well.
+In the current iteration, we have a timezone based rotation and triage activities happen during each team member's working hours.
+
+Please refer to the [Debugging Failing tests](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/)
+guidelines for an exhaustive [list of scheduled pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines)
+and for [specific instructions on how to do an appropriate level of investigation and determine next steps for the failing test](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures).
+
+### Responsibility
+
+#### Triage, record, and unblock failures
+
+- The Friday before the new rotation begins, one of the Quality Engineering Managers will create an issue in the [pipeline-triage](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/new?issuable_template=Pipeline%20Triage%20Report) project.
+- The Quality Engineering Manager also assigns the triage issue created to the Primary and Secondary DRIs for the upcoming week.
+- During the scheduled dates, the support tasks related to the test runs become the Directly Responsible Individual's ([DRI]'s) highest priority.
+- Reporting and analyzing the End to End test failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines takes priority over [Nightly](https://gitlab.com/gitlab-org/quality/nightly/pipelines), MR, [GitLab `master`](https://gitlab.com/gitlab-org/gitlab/pipelines) or [GitLab FOSS `master`](https://gitlab.com/gitlab-org/gitlab-foss/pipelines) pipelines.
+- If there is a time constraint, the DRI should report and analyze the failures in [Staging](https://ops.gitlab.net/gitlab-org/quality/staging/pipelines), [Canary](https://ops.gitlab.net/gitlab-org/quality/canary/pipelines) and [Production](https://ops.gitlab.net/gitlab-org/quality/production/pipelines) pipelines just enough to determine if it is an application or an infrastructure problem, and [escalate as appropriate](/handbook/engineering/development/processes/Infra-Dev-Escalation/process.html). All the reported failures in those pipelines should be treated as ~priority::1/~severity::1 until it's determined that they're not. That means they should be investigated ASAP, ideally within 2 hours of the report. If the DRI will not be able to do so, they should delegate any investigation they're unable to complete to the Secondary. If the Secondary is not available or will also not be able to complete the investigations, solicit help in the #quality slack channel.
+- Consider [blocking the release by creating an incident](https://about.gitlab.com/handbook/engineering/releases/#i-found-a-regression-in-the-qa-issue-what-do-i-do-next) if new ~severity::1 regressions are found in non-reliable/smoke specs.
+- It is important that all other failure investigations are completed in a timely manner, ideally within 24 hours of the report. If the DRI is unable to investigate all the reported failures on [all the pipelines](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#scheduled-qa-test-pipelines) on time, they should delegate the remaining work to the Secondary. If the Secondary is not available, solicit help in the #quality slack channel.
+- Cross-cutting issues such as https://gitlab.com/gitlab-org/quality/team-tasks/-/issues/530 are triaged by the on call DRI to determine the next action. Other team-members should notify the DRI if they come across such an issue. The DRI can inform the rest of the department via the #quality channel, if necessary.
+- Everyone in the Quality department should support the on-call DRI and be available to jump on a zoom call or offer help if needed.
+- Every day the APAC/EMEA Primary DRI summarizes the failures found for that day in the triage issue like [this](https://gitlab.com/gitlab-org/quality/pipeline-triage/-/issues/45#note_408358615). This serves as an asynchronous handoff to the DRI in the other timezone.
+- Be aware that failing reliable and smoke specs in staging/canary will block the deployer pipeline and may be treated as production incidents.
+
+#### Other recurring tasks
+
+- There is a weekly reminder in the #quality-weeklystandup channel to check if a new Chrome version was released and update pipelines if necessary. One of the current DRIs should take this on.
+  - Merge request example: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/52008
+- There is a monthly reminder in the #quality-weeklystandup channel to check the Knapsack report and update it if necessary. One of the current DRIs should take this on.
+  - Merge request example: https://gitlab.com/gitlab-org/gitlab/-/merge_requests/61181
+  - The goal of this change is to ensure that tests will be parallelized optimally via [Knapsack](https://knapsackpro.com/). Process automation for this update is being tracked at https://gitlab.com/gitlab-org/gitlab/-/issues/13042, until then this should be done manually:
+    - Navigate to `ee:instance` jobs from the latest [GitLab QA `master` pipeline](https://gitlab.slack.com/archives/CNV2N29DM).
+    - Copy JSON reports that are printed after `Knapsack report was generated. Preview:` in the job logs.
+    - Copy reports to [`qa/knapsack/master_report.json`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/qa/knapsack/master_report.json) file.
+    - Remove the old JSON values for the tests and make sure there is no duplication of tests in the JSON file.
+
+### Schedule
+
+September 2021 - January 2022
+
+| **Start Date** | **[DRI]** | **Secondary** |
+| ---------- | ----- | --------- |
+| 2021-08-23 | AMER: [Désirée Chevalier] <br>EMEA: [Grant Young]        | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić] |
+| 2021-08-30 | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić]             | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis] |
+| 2021-09-06 | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis]        | AMER: [Zeff Morgan] <br>APAC: [Sanad Liaquat] |
+| 2021-09-13 | AMER: [Zeff Morgan] <br>APAC: [Sanad Liaquat]            | AMER: [Richard Chong] <br>APAC: [Anastasia McDonald] |
+| 2021-09-20 | AMER: [Richard Chong] <br>APAC: [Anastasia McDonald]     | AMER: [Dan Davison] <br>EMEA: [Nick Westbury] |
+| 2021-09-27 | AMER: [Dan Davison] <br>EMEA: [Nick Westbury]            | AMER: [Nailia Iskhakova] <br>EMEA: [Will Meek] |
+| 2021-10-04 | AMER: [Nailia Iskhakova] <br>EMEA: [Will Meek]           | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas] |
+| 2021-10-11 | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas]             | AMER: [Tiffany Rea] <br>EMEA: [Grant Young] |
+| 2021-10-18 | AMER: [Tiffany Rea] <br>EMEA: [Grant Young]              | AMER: [Désirée Chevalier] <br>APAC: [John McDonnell] |
+| 2021-10-25 | AMER: [Désirée Chevalier] <br>APAC: [John McDonnell]     | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić] |
+| 2021-11-01 | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić]             | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis] |
+| 2021-11-08 | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis]        | AMER: [Zeff Morgan] <br>APAC: [Sanad Liaquat] |
+| 2021-11-15 | AMER: [Zeff Morgan] <br>APAC: [Sanad Liaquat]            | AMER: [Tiffany Rea] <br>APAC: [Anastasia McDonald] |
+| 2021-11-22 | AMER: [Tiffany Rea] <br>APAC: [Anastasia McDonald]       | AMER: [Dan Davison] <br>EMEA: [Nick Westbury] |
+| 2021-11-29 | AMER: [Dan Davison] <br>EMEA: [Nick Westbury]            | AMER: [Nailia Iskhakova] <br>EMEA: [Will Meek] |
+| 2021-12-06 | AMER: [Nailia Iskhakova] <br>EMEA: [Will Meek]           | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas] |
+| 2021-12-13 | AMER: [Erick Banks] <br>EMEA: [Sofia Vistas]             | AMER: [Richard Chong] <br>APAC: [John McDonnell] |
+| 2021-12-20 | AMER: [Richard Chong] <br>APAC: [John McDonnell]         | AMER: [Désirée Chevalier] <br>APAC: [Sanad Liaquat] |
+| 2021-12-27 | AMER: [Désirée Chevalier] <br>APAC: [Sanad Liaquat]      | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić] |
+| 2022-01-03 | AMER: [Chloe Liu] <br>EMEA: [Tomislav Nikić]             | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis] |
+| 2022-01-10 | APAC: [Mark Lapierre] <br>EMEA: [Andrejs Cunskis]        | AMER: [Zeff Morgan] <br>EMEA: [Grant Young] |
+| 2022-01-17 | AMER: [Zeff Morgan] <br>EMEA: [Grant Young]              | AMER: [Tiffany Rea] <br>APAC: [Anastasia McDonald] |
+| 2022-01-24 | AMER: [Tiffany Rea] <br>APAC: [Anastasia McDonald]       | AMER: [Dan Davison] <br>EMEA: [Nick Westbury] |
+| 2022-01-31 | AMER: [Dan Davison] <br>EMEA: [Nick Westbury]            | AMER: [Nailia Iskhakova] <br>EMEA: [Will Meek] |
+
+### Responsibilities of the DRI and Secondary for scheduled pipelines
+
+- The DRI does the [triage](/handbook/engineering/quality/guidelines/debugging-qa-test-failures/#steps-for-debugging-qa-pipeline-test-failures) and they let the counterpart SET know of the failure.
+- The DRI makes the call whether to fix or quarantine the test.
+- The fix/quarantine MR should be reviewed by either the Secondary or the counterpart SET (based on whoever is available). If both of them are not available immediately, then any other SET can review the MR. In any case, both the Secondary and the counterpart SET are always CC-ed in all communications.
+- The DRI should periodically take a look at [the list of unassigned quarantined issues](https://gitlab.com/gitlab-org/gitlab/issues?state=opened&label_name%5B%5D=QA&label_name%5B%5D=bug) and work on them.
+- If the DRI is not available during their scheduled dates (for more than 2 days), they can swap their schedule with another team member. If the DRI's unavailability during schedule is less than 2 days, the Secondary can help with the tasks.
+
+### Responsibilities of the DRI and Secondary for deployment pipelines
+
+- The DRI helps the delivery team debug test failures that are affecting the release process.
+- The Secondary fills in when the DRI is not available.
+
+### New hire on-call shadowing
+
+To help a new hire prepare for their first on-call rotation, they should spend a few days during their first rotation as Secondary DRI shadowing the Primary DRI. When the new hire is Primary DRI the following week, their Secondary DRI should pair with the new hire for a couple of days to answer questions and help triage/debug test failures.
+
+## Quality Department incident management on-call rotation
+
+This is a schedule to share the responsibility of monitoring, responding to, and mitigating incidents.
+Quality department's on-call does not include work outside GitLab's normal business hours. Weekends and [Family and Friends Days](/company/family-and-friends-day/) are excluded as well.
+In the current iteration, incident management activities happen during each team member's working hours.
+
+### Responsibility
+
+- The Quality Engineering Manager should ensure they have joined the Slack channel `#incident-management`.
+- During the scheduled week, the on-call DRI should monitor the incident management channel, tracking, directly helping, delegating, and raising awareness of incidents within the Quality Department or Quality Engineering Sub-Department as appropriate.
+- Incidents should be passed along to the QEM of the stage impacted.
+    - If the stage QEM is available, then the stage QEM becomes DRI for that specific incident.
+    - If the stage QEM is unavailable, the on-call DRI maintains ownership of the specific incident until/unless the stage DRI becomes available.
+- The current Quality DRI should be clearly noted on the incident issue.
+- If a corrective action is needed, the DRI should create an issue and ensure it is labelled with ~'corrective action'.
+- Everyone in the Quality Engineering Sub-Department should support the on-call DRI and be available to jump on a Zoom call or offer help if needed.
+
+### Schedule
+September 2021 - January 2022
+
+| **Start Date** | **DRI**           |
+|----------------|-------------------|
+| 2021-08-30     | [Joanna Shih]     |
+| 2021-09-06     | [Ramya Authappan] |
+| 2021-09-13     | [Vincy Wilson]    |
+| 2021-09-20     | [Joanna Shih]     |
+| 2021-09-27     | [Ramya Authappan] |
+| 2021-10-04     | [Vincy Wilson]    |
+| 2021-10-11     | [Joanna Shih]     |
+| 2021-10-18     | [Ramya Authappan] |
+| 2021-10-25     | [Vincy Wilson]    |
+| 2021-11-01     | [Joanna Shih]     |
+| 2021-11-08     | [Ramya Authappan] |
+| 2021-11-15     | [Vincy Wilson]    |
+| 2021-11-22     | [Joanna Shih]     |
+| 2021-11-29     | [Ramya Authappan] |
+| 2021-12-06     | [Vincy Wilson]    |
+| 2021-12-13     | [Joanna Shih]     |
+| 2021-12-20     | [Ramya Authappan] |
+| 2021-12-27     | [Vincy Wilson]    |
+| 2022-01-03     | [Joanna Shih]     |
+| 2022-01-10     | [Ramya Authappan] |
+| 2022-01-17     | [Vincy Wilson]    |
+| 2022-01-24     | [Joanna Shih]     |
+| 2022-01-31     | [Ramya Authappan] |
+
+
+[Anastasia McDonald]: https://about.gitlab.com/company/team/#a_mcdonald
+[Andrejs Cunskis]: https://about.gitlab.com/company/team/#acunskis
+[Careem Ahamed]: https://about.gitlab.com/company/team/#cahamed
+[Chloe Liu]: https://about.gitlab.com/company/team/#chloeliu
+[Dan Davison]: https://about.gitlab.com/company/team/#ddavison
+[Désirée Chevalier]: https://about.gitlab.com/company/team/#dchevalier2
+[Erick Banks]: https://about.gitlab.com/company/team/#ebanks
+[Grant Young]: https://about.gitlab.com/company/team/#grantyoung
+[Joanna Shih]: https://about.gitlab.com/company/team/#jo_shih
+[John McDonnell]: https://about.gitlab.com/company/team/#john.mcdonnell
+[Mark Lapierre]: https://about.gitlab.com/company/team/#mlapierre
+[Nailia Iskhakova]: https://about.gitlab.com/company/team/#niskhakova
+[Nick Westbury]: https://about.gitlab.com/company/team/#nwestbury
+[Ramya Authappan]: https://about.gitlab.com/company/team/#at.ramya
+[Richard Chong]: https://about.gitlab.com/company/team/#richard.chong
+[Sanad Liaquat]: https://about.gitlab.com/company/team/#sliaquat
+[Sofia Vistas]: https://about.gitlab.com/company/team/#svistas
+[Tiffany Rea]: https://about.gitlab.com/company/team/#treagitlab
+[Tomislav Nikić]: https://about.gitlab.com/company/team/#tomi
+[Vincy Wilson]: https://about.gitlab.com/company/team/#vincywilson
+[Will Meek]: https://about.gitlab.com/company/team/#willmeek
+[Zeff Morgan]: https://about.gitlab.com/company/team/#zeffmorgan
+
+[DRI]: /handbook/people-group/directly-responsible-individuals/

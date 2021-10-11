@@ -35,19 +35,10 @@ description: >-
 ##### [Project Management](/handbook/engineering/quality/project-management/)
 {:.no_toc}
 
-##### [Quad Planning](/handbook/engineering/quality/quad-planning/)
-{:.no_toc}
-
 ##### [Roadmap](/handbook/engineering/quality/roadmap/)
 {:.no_toc}
 
-##### [Test Engineering](/handbook/engineering/quality/test-engineering/)
-{:.no_toc}
-
 ##### [Triage Operations](/handbook/engineering/quality/triage-operations/)
-{:.no_toc}
-
-##### [Risk Mapping](/handbook/engineering/quality/risk-mapping/)
 {:.no_toc}
 
 ## Mission
@@ -165,7 +156,7 @@ The Quality direction for FY22 is to empower GitLab R&D teams and Contributors t
 - Build developer certification program.
 - Partner with SAs to be productive in deploying demo data.
 
-## OKRs 
+## OKRs
 
 Every quarter, the Quality department commits to [Objectives and Key Results (OKRs)](/company/okrs/). The below shows current and previous quarter OKRs, it updates automatically as the quarter progresses.
 
@@ -225,59 +216,26 @@ We aim to increase the focus on our community contributions. Below is a timeline
 
 ### [Engineering Productivity team](engineering-productivity-team)
 
-### Quality Engineering Sub-department
-
-#### [Dev QE team](dev-qe-team)
-
-#### [Ops QE team](ops-qe-team)
-
-#### [Fulfillment & Growth QE team](fulfillment-growth-qe-team)
-
-#### [Sec & Enablement QE team](sec-enablement-qe-team)
-
-
-
-| Team                           | GitLab.com handle  | Slack channel | Slack handle |
-| ------------------------------ | ------------------ | ------------- | ------------ |
-| [Dev QE team](dev-qe-team)     | [`@gl-quality/dev-qe`](https://gitlab.com/gl-quality/dev-qe) | [#g_qe_dev](https://gitlab.slack.com/archives/CU90UDHC6) | `@dev-qe-team` |
-| [Ops & CI/CD QE team](ops-qe-team) | [`@gl-quality/ops-qe`](https://gitlab.com/gl-quality/ops-qe) | [#g_qe_ops](https://gitlab.slack.com/archives/CUGNRS97V) | `@ops-qe-team` |
-| [Sec & Enablement QE team](sec-enablement-qe-team) | [`@gl-quality/enablement-qe`](https://gitlab.com/gl-quality/enablement-qe) | [#g_qe_enablement_secure](https://gitlab.slack.com/archives/CTP7N0PM4) | `@enablement-secure-qe-team` |
-| [Fulfillment & Growth QE team](fulfillment-growth-qe-team) | [`@gl-quality/fulfillment-qe`](https://gitlab.com/gl-quality/fulfillment-qe) | [#g_qe_fulfillment_growth](https://gitlab.slack.com/archives/C014UQAC8JW) |`@fulfillment-growth-qe-team` |
-| [Engineering Productivity team](engineering-productivity-team) | [`@gl-quality/eng-prod`](https://gitlab.com/gl-quality/eng-prod) | [#g_qe_engineering_productivity](https://gitlab.slack.com/archives/CMA7DQJRX) |`@eng-productivity-team ` |
+### [Quality Engineering Sub-Department](quality-engineering-sub-department)
 
 ### Department members
 
 <%
 vp_role = 'Vice President of Quality'
-director_role = 'Interim Director of Quality Engineering'
-roles_regexp = /(Engineer in Test|Engineering Productivity|Quality Engineering|Staff Infrastructure Analyst|Senior Operations Analyst)/
+director_role = 'Director of Quality Engineering'
+manager_role = /(Quality Engineering Manager|Backend Engineering Manager, Engineering Productivity)/
+roles_regexp = /(Engineer in Test|Engineering Productivity|Staff Infrastructure Analyst|Senior Operations Analyst)/
 %>
 
 #### Management team
 
-<%= shared_team_members(role_regexps: [/(Vice President of Quality|Interim Director of Quality Engineering|Quality Engineering Manager|Engineering Manager, Engineering Productivity)/i]) %>
+<%= shared_team_members(role_regexps: [/(Vice President of Quality|Director of Quality Engineering|Quality Engineering Manager|Engineering Manager, Engineering Productivity)/i]) %>
 
 #### Individual contributors
 
-<%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: director_role) %>
+<%= stable_counterparts(role_regexp: roles_regexp, direct_manager_role: manager_role) %>
 
-### Stable counterparts
 
-Every Software Engineer in Test (SET) takes part in building our product as a DRI in [GitLab's Product Quad DRIs](/handbook/product/product-processes/#pm-em-ux-and-set-quad-dris).
-They work alongside Development, Product, and UX in the [Product Development Workflow](/handbook/product-development-flow/#build-phase-1-plan).
-As stable counterparts, SETs should be considered critical members of the core team between Product Designers, Engineering Managers and Product Managers.
-
-- SETs should receive invites and participate in all relevant product group collaborations (meeting recordings, retro issues, planning issues, etc).
-- SETs should operate proactively, not waiting for other stable counterparts to provide them direction.
-The area a Software Engineer in Test is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title.
-
-Every Quality Engineering Manager is aligned with an Engineering Director in the Development Department.
-They work at a higher level and align cross-team efforts which maps to a [Development Department section](/handbook/product/categories/#hierarchy).
-The area a Quality Engineering Manager is responsible for is defined in the [Product Stages and Groups](/handbook/product/categories/#hierarchy) and part of their title.
-This is with the exception of the Engineering Productivity team which is based on the [span of control](/company/team/structure/#management-group).
-
-Full-stack Engineering Productivity Engineers develop features both internal and external that improves the efficiency of engineers and development processes.
-Their work is separate from the regular release kickoff features per [areas of responsibility](/handbook/engineering/quality/engineering-productivity-team#areas-of-responsibility).
 
 ### Staffing planning
 
@@ -356,12 +314,12 @@ Everyone in the Department is free to join and the agenda is available to everyo
 1. **Quality Department Bi-Weekly**: This is where the whole department comes together once every 2 weeks to discuss our day-to-day challenges, propose automation framework improvements and catchup on important announcements. This meeting happens in 2 parts to accommodate our team members across multiple timezones.
     - Part 1 - Alternate Wednesday's @1330 PDT (PDT because the majority of the attendees are in the US and we follow daylight savings)
     - Part 2 - Alternate Thursday's @0730 UTC
-1. **Quality Engineering Staff Weekly**: This weekly brings together Quality Engineering's management team to discuss directional plans, long-term initiatives, hiring goals and address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
-1. **Quality Department Social Bi-Weekly**: This is where the whole department comes together once every 2 weeks to connect socially with the rest of the department. There is no set agenda and is an open forum for team members to meet and talk freely. This is not mandatory, but is a great way to get to know your fellow team members. This meeting also happens in 2 parts to accommodate our team members across multiple timezones.
+1. **Quality Department Leadership Weekly**: This weekly brings together Quality's management team to discuss directional plans, long-term initiatives, hiring goals, and to address issues that require attention. This meeting is scheduled for every Wednesday at 1430 UTC (adjusts per PDT).
+1. **Quality Bi-Weekly Test Architecture & Coffee**: This is where the whole department comes together once every 2 weeks to take part in demos and discussions. This meeting also happens in 2 parts to accommodate our team members across multiple timezones.
     - Part 1 - Alternate Wednesday's 1330 PDT (PDT because the majority of the attendees are in the US and we follow daylight savings)
     - Part 2 - Alternate Thursday's 0730 UTC
 1. **Engineering Productivity Team Weekly**: The Engineering Productivity team meets weekly to discuss engineering wide process improvements. This meeting is scheduled for every Tuesday at 1300 UTC.
-1. **Team skip-level**: Every team in Quality has a [skip-level 1:1](/handbook/leadership/skip-levels/) with the Director of Quality every 6 weeks. The purpose of this meeting is to help the department leader be a better manager of themselves and direct line managers.
+1. **Team skip-level**: Every team in Quality has a [skip-level 1:1](/handbook/leadership/skip-levels/) every 4-6 weeks. The purpose of this meeting is to help the department or sub-department leader be a better manager of themselves and direct line managers.
 
 ### Engineering-wide retrospective
 
@@ -380,7 +338,7 @@ The purpose of the board is to:
 
 The work effort on Engineering Division and Departments' KPIs/RPIs is currently a shared capacity of the following:
 
-- [Director of Quality](https://gitlab.com/meks)
+- [VP of Quality](https://gitlab.com/meks)
 - [Backend Engineering Manager, Engineering Productivity](https://gitlab.com/kwiebers)
 - [Backend Engineer, Engineering Productivity](https://gitlab.com/markglenfletcher)
 - [Development Senior Operations Analyst](https://gitlab.com/lmai1).

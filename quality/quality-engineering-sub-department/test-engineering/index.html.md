@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: "Test Engineering"
-description: "The Quality Engineering Department helps facilitate the test planning process for all things related to Engineering work."
+description: "The Quality Engineering Sub-Department helps facilitate the test planning process for all things related to Engineering work."
 ---
 
 ## On this page
@@ -10,7 +10,7 @@ description: "The Quality Engineering Department helps facilitate the test plann
 - TOC
 {:toc .hidden-md .hidden-lg}
 
-The Quality Engineering department helps facilitate the test planning process for all things related to Engineering work.
+The Quality Engineering Sub-Department helps facilitate the test planning process for all things related to Engineering work.
 
 ### Test Planning
 
@@ -130,6 +130,8 @@ To summarize, we want to track our tests in a Native Continuous Delivery way.
 Another way to gauge test coverage and mitigation of risks is to use a [risk map](https://about.gitlab.com/blog/2020/09/03/risk-mapping/). Making a risk map will show not only where the product is not tested, but also how severe the impact of a failure in that area is likely to be. Knowing both the risk area and the impact a failure could produce helps guide where to begin implementing future tests.
 
 The [Global Search](https://about.gitlab.com/handbook/engineering/development/enablement/search/) team has undertaken this effort before here: https://gitlab.com/gitlab-org/gitlab/-/issues/229431. If future teams attempt to implement a risk map this documentation may grow over time to reflect their experiences.
+
+Read more on the [risk mapping page](risk-mapping).
 
 ### Test Heuristics
 
