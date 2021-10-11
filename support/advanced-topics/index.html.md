@@ -37,7 +37,7 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 
 ### Deep Dives
 
-The Engineering team, of which Support is a part, has [Deep Dives](/handbook/communication/deep-dives) to share knowledge about particular topics. The Support team is also encouraged to organize and execute topical deep dives, usually with a support-centric focus.
+The Engineering team, of which Support is a part, has [Deep Dives](/handbook/communication/deep-dives/) to share knowledge about particular topics. The Support team is also encouraged to organize and execute topical deep dives, usually with a support-centric focus.
 
 #### Description
 
