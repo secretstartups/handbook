@@ -41,7 +41,7 @@ Data will be archived to `kubesos-<timestamp>.tar.gz`
 
 ### Extracting the archive
 
-Use the `tar` linux ulitity to extract the data into a folder
+Use the `tar` linux utility to extract the data into a folder
 
 ```bash
 tar -zxvf kubesos-<timestamp>.tar.gz
@@ -123,7 +123,7 @@ gitlab-webservice-default-659fdddb9b-cmrbd             2/2     Running     0    
 gitlab-webservice-default-659fdddb9b-hhctp             2/2     Running     0          12m
 ```
 
-Any pod in `pending` status indicates a possible problem which one can confirm by checking the recents events from the `describe_pods` file. If a pod is stuck in `Pending` it means that it can not be scheduled onto a node. This could be due to lack of resources such as CPU or Memory in your cluster. More on this in [Debugging Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#debugging-pods)
+Any pod in `pending` status indicates a possible problem which one can confirm by checking the recent events from the `describe_pods` file. If a pod is stuck in `Pending` it means that it can not be scheduled onto a node. This could be due to lack of resources such as CPU or Memory in your cluster. More on this in [Debugging Pods](https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/#debugging-pods)
 
 ### Services
 
@@ -167,10 +167,10 @@ Ingress exposes HTTP and HTTPS routes from outside the cluster to services withi
 
 ### Deployments
 
-To quickly confirm the applications that are setup, check the following file: 
+To quickly confirm the applications that are setup, check the following file:
 
 ```bash
-% more get_deployments 
+% more get_deployments
 NAME                                   READY   UP-TO-DATE   AVAILABLE   AGE
 gitlab-cainjector                      1/1     1            1           9d
 gitlab-cert-manager                    1/1     1            1           9d
@@ -212,7 +212,7 @@ repo-data-gitlab-gitaly-0       Bound    pvc-af7ca188-  50Gi       RWO         s
 
 ### User supplied values
 
-The `user_supplied_values.yaml` file lists all user supplied values that were set while installing GitLab. This is helpful in confirming if the supplied values are correct and will work as they override the chart defaults. The `all_values.yaml` file has all values that have been used to set up Gitlab. 
+The `user_supplied_values.yaml` file lists all user supplied values that were set while installing GitLab. This is helpful in confirming if the supplied values are correct and will work as they override the chart defaults. The `all_values.yaml` file has all values that have been used to set up Gitlab.
 
 ### Application logs
 

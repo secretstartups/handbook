@@ -39,7 +39,7 @@ To get added to the group account:
 
 This access is also included as part of [support onboarding](/handbook/support/#onboarding) for GitLab Solutions Focus Support Engineers that will be handling tickets for self-managed customers.
 
-### Availability increment.
+### Availability increment
 
 Calendly 60 minute meetings default to an 'availability Increment' of 60 minutes.
 
@@ -68,7 +68,7 @@ To be added to the support call event:
 
 You'll then also be able to generate a single-use link for this event from your browser plugin.
 
-## Support calls in the team calendar.
+## Support calls in the team calendar
 
 We copy customer calls to the *GitLab Support* Google calendar using a [Zapier zap](https://zapier.com/app/editor/33897756?redirect=true). For this to work
 
@@ -90,7 +90,7 @@ your message to the customer.
 
 ![Browser plug-in](assets/calendly.png)
 
-If you do not want to use a supported browser, you can generate a link from your Calendly home page according to [the Calendly documenation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
+If you do not want to use a supported browser, you can generate a link from your Calendly home page according to [the Calendly documentation](https://help.calendly.com/hc/en-us/articles/1500001292022-How-to-create-and-share-a-single-use-link-to-a-specific-event).
 
 Alternatively, you can generate a link to the Team Event using these curl or httpie commands. Replace the
 `<your Calendly API token>` placeholder with an API v2 token you can get
@@ -149,7 +149,6 @@ This will output something like the following:
 
 > https://calendly.com/d/m6we-x8r7/support-call-with-me
 
-
 #### using [httpie](https://github.com/httpie/httpie)
 
 The following uses the same setup, patterns, and output as above.
@@ -204,4 +203,3 @@ Ben Prescott
 > Let me know via the ticket if you have any questions, will need to use a different conference platform, or if you want a link to schedule a 30 minute call instead (which may be available sooner.)
 >
 > Check that your time zone and current time are displayed correctly on this page (below the calendar.)
-

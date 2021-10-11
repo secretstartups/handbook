@@ -27,9 +27,9 @@ If reports of slowness are received on GitLab.com, first take a look at the [Git
 
 #### Degraded Runner Performance
 
-If a customer reports a shared runner running slower than it normally does, it is likely there is a degraded performance happening during the period the customer experienced slowness on the pipeline. 
+If a customer reports a shared runner running slower than it normally does, it is likely there is a degraded performance happening during the period the customer experienced slowness on the pipeline.
 
-Check the [CI Runners Overview](https://dashboards.gitlab.com/d/ci-runners-main/ci-runners-overview?orgId=1) graphs where you will find an increase in queue apdex and latency. 
+Check the [CI Runners Overview](https://dashboards.gitlab.com/d/ci-runners-main/ci-runners-overview?orgId=1) graphs where you will find an increase in queue apdex and latency.
 
 Check on the [#feed_alerts](https://gitlab.slack.com/messages/C12RCNXK5), [#production](https://gitlab.slack.com/messages/C101F3796), and [#incident-management](https://gitlab.slack.com/messages/CB7P5CJS1) Slack channels to ensure this isn't an outage or infrastructure issue.
 
@@ -37,7 +37,7 @@ Check on the [#feed_alerts](https://gitlab.slack.com/messages/C12RCNXK5), [#prod
 
 Before you post to #production or make an issue, here are some helpful ways to capture data that help to narrow down the issue(s):
 
-1. You can add `peformance_bar=flamegraph` query parameter to generate a [CPU flamegraph](https://docs.gitlab.com/ee/development/profiling.html#speedscope-flamegraphs).
+1. You can add `performance_bar=flamegraph` query parameter to generate a [CPU flamegraph](https://docs.gitlab.com/ee/development/profiling.html#speedscope-flamegraphs).
 1. Use the [performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html) by typing `pb` in your browser window.  Reload the page and grab the information from the server side.
 1. If using Chrome, open the Chrome developer tools (View > Developer > Developer Tools), reload the page, and look at the Network tab.  This will show all of the requests and times.
 1. If using Firefox, there is a similar network view under Tools > Web Developer > Network which will show requests and timing.

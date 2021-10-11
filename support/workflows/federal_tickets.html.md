@@ -10,6 +10,7 @@ description: "Support Engineering workflow detailing how to work on US Federal T
 
  - TOC
 {:toc .hidden-md .hidden-lg}
+
 # Working on US Federal Tickets
 
 US Federal Support generally follows the [working on tickets](https://about.gitlab.com/handbook/support/workflows/working-on-tickets.html#what-is-the-working-on-tickets-workflow) flow for global with a few exceptions.
@@ -27,7 +28,7 @@ Only our US Citizen Support Engineers have access to the [US Federal Zendesk Ins
 
 ## Communication Guidelines
 
-Issues relating to tickets received in the US Federal Zendesk Instance may be discussed outside of the US Federal instance with a few key caveats.  Identifying information that includes system names, organization names, customer names, specific infrastructure details (IP address, Hostnames, etc) and logfiles should be limited to internal tickets. Specifics about the technical problem's nature are fine to discuss in chat, issues, and elsewhere publicly but discretion should be used when communicating log snippets, screenshots, and other data to ensure no identifying information is disclosed. When in doubt, ask a manager or the customer's TAM if the information is acceptable to be communicated to non-US citizens. 
+Issues relating to tickets received in the US Federal Zendesk Instance may be discussed outside of the US Federal instance with a few key caveats.  Identifying information that includes system names, organization names, customer names, specific infrastructure details (IP address, Hostnames, etc) and logfiles should be limited to internal tickets. Specifics about the technical problem's nature are fine to discuss in chat, issues, and elsewhere publicly but discretion should be used when communicating log snippets, screenshots, and other data to ensure no identifying information is disclosed. When in doubt, ask a manager or the customer's TAM if the information is acceptable to be communicated to non-US citizens.
 
 For any assistance with log review or confidential information within a ticket it is recommended to directly reach out to other engineers with access to the federal instance within Zendesk using an internal comment to avoid accidental disclosure.
 
@@ -40,7 +41,8 @@ When pairing over video chat, be sure you only pair with engineers that have acc
 
 You may leverage links to records in controlled access systems such as Salesforce or Zendesk in order to securely provide information. Note that if you have Slack link expansion enabled for SFDC records you should immediately remove the expansion after making your comment.
 
-Examples: 
+Examples:
+
 - "This user https://gitlab-federal-support.zendesk.com/users/398443026291/ is struggling with Geo setup..."
 - "The person who submitted the case that got bounced back is a member of this organization: https://gitlab.my.salesforce.com/0014M00001hHHKF"
 

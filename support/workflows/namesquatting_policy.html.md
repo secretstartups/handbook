@@ -16,7 +16,7 @@ subcategory: Accounts
 
 As per the [statement of support](/support/#name-squatting-policy), namespaces may be released when they meet the appropriate criteria.
 
-**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested. 
+**NOTE:** When applying any of the macros ensure to replace the placeholder **“REQUESTEDNAME”** with the namespace requested.
 
 ### Workflow
 
@@ -113,7 +113,6 @@ __________________
 * [`Support::SaaS::Name Squatting Policy::Contact Namespace Owner`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051465059)
 * [`Support::SaaS::Name Squatting Policy::Successful Namespace Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360051569820)
 * [`Support::SaaS::Name Squatting Policy::Cancel Request`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360057441960)
-
 
 **Automations**
 

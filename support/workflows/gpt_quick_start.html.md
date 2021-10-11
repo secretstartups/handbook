@@ -16,7 +16,7 @@ category: Self-managed
 
 [The GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance) (`gpt`) is built and maintained by the GitLab Quality Enablement team to provide performance testing of any GitLab instance. The tool has been built upon the industry-leading open-source tool [k6](https://k6.io/) and provides numerous tests that are designed to effectively performance test GitLab.
 
-GitLab recommends running GPT against your GitLab environment to get an effective performance test. We do not recommend running on a production instance. Only run on production if it’s really required. If so, then run it at the quietest possible time. Depending on your system environment, the test may take up at least 4 hours. 
+GitLab recommends running GPT against your GitLab environment to get an effective performance test. We do not recommend running on a production instance. Only run on production if it’s really required. If so, then run it at the quietest possible time. Depending on your system environment, the test may take up at least 4 hours.
 
 **NOTE**: This quick start was written and adopted based on [documentation for `GPT v2` (2.8.0)](https://gitlab.com/gitlab-org/quality/performance/-/blob/2.8.0/docs/README.md). Please always check the [the official GitLab Project documentation: GitLab Performance Tool](https://gitlab.com/gitlab-org/quality/performance/-/blob/main/docs/README.md) for latest changes.
 
@@ -27,11 +27,11 @@ GitLab recommends running GPT against your GitLab environment to get an effectiv
 
 ## Initializing the environment
 
-On your workstation with Docker installed, please run the following in your terminal: 
+On your workstation with Docker installed, please run the following in your terminal:
 
 ```bash
 # clone the gpt project
-git clone https://gitlab.com/gitlab-org/quality/performance 
+git clone https://gitlab.com/gitlab-org/quality/performance
 cd performance
 mkdir results
 ```
@@ -42,11 +42,11 @@ This will generate the data that will be used for the test later. More details o
 
 1. Create [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#creating-a-personal-access-token) with API scope from an **Admin** user.
    1. In the top-right corner on your GitLab UI, select your avatar.
-   2.  Select **Edit profile**.
-   3.  In the left sidebar, select **Access Tokens**.
-   4.  Enter a name and optional expiry date for the token.
-   5.  Select the [API scopes](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-token-scopes).
-   6.  Select **Create personal access token**.
+   2. Select **Edit profile**.
+   3. In the left sidebar, select **Access Tokens**.
+   4. Enter a name and optional expiry date for the token.
+   5. Select the [API scopes](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html#personal-access-token-scopes).
+   6. Select **Create personal access token**.
    7. Save the personal access token somewhere safe. After you leave the page, you no longer have access to the token.
 
 1. Next, edit your environment file under `./k6/config/environment/`. In this example, we will use the 2k users environment. Hence, it will be the `2k.json`. Replace the values for `"url"` with the URL of your GitLab instance and `"user"` with the username of the Admin user created in the above step.
@@ -70,8 +70,7 @@ This will generate the data that will be used for the test later. More details o
    docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v $(pwd)/results:/results gitlab/gpt-data-generator --environment 2k.json
    ```
 
-   **NOTE:** Replace <TOKEN> with your personal access token created in Step 1. 
-
+   **NOTE:** Replace <TOKEN> with your personal access token created in Step 1.
 
 ## Running the Tests
 
@@ -95,18 +94,18 @@ docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v  $(pwd)/k6
 
 ## Viwewing Test Output and Results
 
-After starting the tool you will see it running each test in order. Once all tests have completed you will be presented with a results summary. As an example, here is a [test summary](https://gitlab.com/gitlab-org/quality/performance/-/blob/main/docs/k6.md#test-output-and-results) you can view. 
+After starting the tool you will see it running each test in order. Once all tests have completed you will be presented with a results summary. As an example, here is a [test summary](https://gitlab.com/gitlab-org/quality/performance/-/blob/main/docs/k6.md#test-output-and-results) you can view.
 
 For your reference, here are the test runs from GitLab:
 
-1.  [Latest Results](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) - Our automated CI pipelines run multiple times each week and will post their result summaries to the wiki here each time.
-2.  [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.
+1. [Latest Results](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/Latest) - Our automated CI pipelines run multiple times each week and will post their result summaries to the wiki here each time.
+2. [GitLab Versions](https://gitlab.com/gitlab-org/quality/performance/wikis/Benchmarks/GitLab-Versions) - A collection of performance test results done against several select release versions of GitLab.
 
-## Cleaning Up 
+## Cleaning Up
 
 This step will delete the test data generated.
 
-Method 1: Run the following Docker command 
+Method 1: Run the following Docker command
 
 ```
 docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v $(pwd)/results:/results gitlab/gpt-data-generator --environment 2k.json --clean-up
@@ -114,4 +113,4 @@ docker run -it -e ACCESS_TOKEN=<TOKEN> -v $(pwd)/k6/config:/config -v $(pwd)/res
 
 Method 2: Delete the top-level group `gpt` (or the unique name you've replaced at your environment json) from GitLab UI.
 
-**NOTE**: There is no preference of one method over the other as both will delete the top-level group. 
+**NOTE**: There is no preference of one method over the other as both will delete the top-level group.

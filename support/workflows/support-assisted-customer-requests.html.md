@@ -11,17 +11,14 @@ category: References
 ## Overview
 
 At times Support may be called on to assist customers in requests which require taking actions that wouldn't be possible within the normal structure of
-the application. 
+the application.
 
-For example:
  - migrating a set of users from one identity provider to another
  - bulk removing 2FA from a set of users
 
 The purpose of this workflow is to demonstrate the structure of a runbook that includes the steps required before, during, and after scheduled customer work.
 
 A **runbook** is an internal document that details how to handle a particular situation in detail. It is highly technical and aimed at the IC doing the action.
-
-
 
 ## Project to store runbooks
 
@@ -30,7 +27,7 @@ Due to the nature of the information on the runbook, the contents will be `confi
 
 ## Runbook structure
 
-###  Header
+### Header
 
 | Runbook name        |   |
 |---------------------|---|
@@ -40,28 +37,32 @@ Due to the nature of the information on the runbook, the contents will be `confi
 | Meeting URL         |   |
 | Gitlab Issue        |   |
 
-
 Runbook name:
 
 #### Runbook name
 
 A name from the runbook. Please use the format: `CUSTOMER` - `REQUESTED TASK`
-So for Acme requesting us to enforce 2FA on all of their groups the name would be: 
+So for Acme requesting us to enforce 2FA on all of their groups the name would be:
 `Acme - Enforce 2FA on All Groups`
 
 #### Runbook description
+
 A small summary of the work to be done, including the expected result from the task.
 
 #### DRI
+
 The owner of the task and main contact for schedule and execution.
 
 #### Schedule at
+
 The agreed date and time to work with the customer on the task. Include the time zone.
 
 #### Meeting URL
+
 The zoom meeting URL to use.
 
 #### GitLab Issue
+
 Link to the GitLab issue created for this request
 
 ### Gitlab - Contacts
@@ -112,7 +113,6 @@ When possible, link the task name with a project, handbook page, which documents
 
 In the rollback plan, we provide a link for the steps to revert the actions performed. If we have a situation where the rollback requires only a simple explanation, it can be added to the runbook directly.
 
-
 ### Post-call checklist
 
 - [ ] Inform on `#support_gitlab-com` or `#support_self-managed` and `#support_manager` slack channel the about the work completion, the current state, and if any follow up is necessary with documentation links.
@@ -128,17 +128,18 @@ In the rollback plan, we provide a link for the steps to revert the actions perf
 | Gitlab Issue        |   `https://gitlab.com/gitlab-com/demo/example/example-project/-/issues/1` |
 
 #### Gitlab Contacts
+
 | Name | Role | Description |
 |-------------|------|-------------|
 | John Doe    |  Technical Execution  | Technical  execution during the change |
 | Jane Smith  |  Communication & Technical assistance  | In charge of updates and to support the `technical execution` role |
 
 #### Customer Contacts
+
 | Name | Role | Description |
 |-------------|------|-------------|
-| Tom Blogs | Systems Enginer | Work verification and support |
+| Tom Blogs | Systems Engineer | Work verification and support |
 | harry Page | IT Manager | Coordination from customer side |
-
 
 #### Pre-call checklist
 
@@ -148,7 +149,7 @@ In the rollback plan, we provide a link for the steps to revert the actions perf
 
 [ ] - Has a dry-run been performed before the call?
 
-    `Dry-run cannot be completed due to change requeriments`
+    `Dry-run cannot be completed due to change requirements`
 
 [x] - Do we have a way to create logs from the actions performed.
 
@@ -159,7 +160,7 @@ In the rollback plan, we provide a link for the steps to revert the actions perf
 | Confirm the users provided state | | |
 | Remove 2FA from user list  | | |
 | Review users with errors   | | |
-| Update issue wuth outcome    | | |
+| Update issue with outcome    | | |
 
 #### Rollback plan
 

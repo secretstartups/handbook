@@ -168,13 +168,10 @@ An IP can become rate-limited if a customer attempts to export or download proje
 
 - `json.path`: `/namespace/project/download_export`
 
-### Handling Gitlab.com "Access Denied" errors 
+### Handling Gitlab.com "Access Denied" errors
 
 As noted above, IP addresses are typically blocked due to rate limiting and are usually released after a few hours. However there may be some instances where IP addresses remain blocked. If this occurs then please contact the customer and request a screenshot of the “Access Denied” page. This will contain two relevant pieces of data: the “Ray ID” and the “Timestamp”, as shown below:
 
 ![Access Denied](/handbook/support/workflows/assets/AccessDenied.png)
 
-Once you obtain this information you should either consult the #infrastructure-lounge Slack channel for further assistance or open a [Cloudfare Firewall issue](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall/-/issues) providing the “Ray ID” and the “Timestamp” to request that the IP address block is removed. 
-
-
-
+Once you obtain this information you should either consult the #infrastructure-lounge Slack channel for further assistance or open a [Cloudfare Firewall issue](https://gitlab.com/gitlab-com/gl-infra/cloudflare-firewall/-/issues) providing the “Ray ID” and the “Timestamp” to request that the IP address block is removed.

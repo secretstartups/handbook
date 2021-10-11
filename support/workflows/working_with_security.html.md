@@ -33,35 +33,35 @@ same caution as any other suspicious email:
 
 Please _do not_ transfer to security and refer to the relevant workflow for the following:
 
-  * [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
-  * [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
-  * [DMCA Requests](/handbook/support/workflows/dmca.html) - Reporters should forward notice to dmca@gitlab.com. 
-  * [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)   
+* [Reinstate Blocked Accounts](/handbook/support/workflows/reinstating-blocked-accounts.html)
+* [Abuse Report Review Request](/handbook/support/workflows/Abuse_Report_Review_Request.html)
+* [DMCA Requests](/handbook/support/workflows/dmca.html) - Reporters should forward notice to dmca@gitlab.com.
+* [Reporting Abuse](https://gitlab.com/gitlab-com/gl-security/security-operations/trust-and-safety/operations/-/issues/new)
 
 For the following, transfer to Security:
 
-  * Reports of phishing or malicious content, regardless of hosting source. Keywords:
-    - malware/malicious
-    - Phish
-    - campaign
-    - Sender claims to be a security related employee at a non-associated company.
+- Reports of phishing or malicious content, regardless of hosting source. Keywords:
+  - malware/malicious
+  - Phish
+  - campaign
+  - Sender claims to be a security related employee at a non-associated company.
 
 ### Risk and Field Security Team
 
--  Security questionnaires or other requests for documentation
+- Security questionnaires or other requests for documentation
 
-   * [Customer Assurance Procedure](handbook/engineering/security/security-assurance/field-security/).
+  - [Customer Assurance Procedure](handbook/engineering/security/security-assurance/field-security/).
 
-### SIRT 
+### SIRT
 
-- [Security Incidents](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html) 
+- [Security Incidents](/handbook/engineering/security/security-operations/sirt/engaging-security-on-call.html)
 - [Other](/handbook/engineering/security/#sirt---security-incident-response-team)
 
 ### Identifying Issues for Transfer to Support
 
- * User is having problems with 2-factor or other authentication on their account.
- * A vulnerability report that has been triaged by the security team as `working as intended`,
- * Requires actions taken by Support to resolve.
+* User is having problems with 2-factor or other authentication on their account.
+* A vulnerability report that has been triaged by the security team as `working as intended`,
+* Requires actions taken by Support to resolve.
 
 ## Workflows
 
@@ -107,7 +107,7 @@ The contents of the confidential issue should not be shared.
 
 #### Triage Workflow
 
-Triage vulnerability reports in a similar manner to our [HackerOne proccess](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html).
+Triage vulnerability reports in a similar manner to our [HackerOne process](/handbook/engineering/security/security-engineering-and-research/application-security/runbooks/hackerone-process.html).
 
 * If the report would be Not Applicable, reply with the reason why and close as "Solved."
 * If the report would be Informative or would be an ~feature, you may ask the requester to
@@ -153,7 +153,7 @@ In the case that something ended up in the Security inbox and was forwarded on v
 
 In order to transfer a ticket from Support to Security:
 
-  * Use the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
+* Use the macro [`General::Forms::Change to Security`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360063373880)
 
 ### Escalate ZenDesk ticket to Security
 

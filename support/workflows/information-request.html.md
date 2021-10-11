@@ -1,7 +1,7 @@
 ---
 layout: handbook-page-toc
 title: Subpoenas, Court Orders and other requests for user information
-description: "Workflow for requests which do not fit other prescribed workflows, and may need inport from our Legal team"
+description: "Workflow for requests which do not fit other prescribed workflows, and may need input from our Legal team"
 category: GitLab.com
 subcategory: Legal
 ---
@@ -13,6 +13,7 @@ subcategory: Legal
 {:toc .hidden-md .hidden-lg}
 
 # Overview
+
 There may be times when a request comes in that seems to need input from our Legal team. This workflow explains how to handle such a request when it does not fit into one of the prescribed workflows.
 
 ## Workflows
@@ -31,8 +32,6 @@ If a subpoena or court order that is not covered by another workflow (e.g. DMCA,
 1. Reach out on the Slack #legal channel to inform the Legal team.
 1. Respond to the ticket with the [`Legal::Subpoena or court order`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759300) macro.
 
-
-
 ### GitLab.com specific support policies
 
 These workflows should be used when a user question is addressed in a [specific Support policy](https://about.gitlab.com/support/#gitlabcom-specific-support-policies).
@@ -41,29 +40,25 @@ These workflows should be used when a user question is addressed in a [specific 
 
 Respond to the ticket with the [`Legal::Namespace and Trademark`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759260) macro.
 
-
-
 #### Ownership Disputes
+
 *Note: This workflow is specifically related to inquiries about disputes on ownership. You can also check other [ownership-related workflows](https://about.gitlab.com/handbook/support/workflows/account_verification.html) to ensure you are using the correct one.*
 
 Respond to the ticket with the [`Legal::Ownership disputes`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759320) macro.
-
-
 
 #### Log Requests
 
 Please see [Log requests workflow](https://about.gitlab.com/handbook/support/workflows/log_requests.html)
 
 ### Other Legal-related Questions
+
 A request may come in that you believe needs legal input but does not fit into one of the prescribed workflows. Follow this workflow in such a situation:
 
 1. Follow the instructions for [contacting Legal](https://about.gitlab.com/handbook/legal/#3-other-legal-requests) based on the specifics of the request.
 1. Respond to the ticket with the [`Legal::General`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056569419) macro
 
-
 1. If ticket has not been resolved within 4 days (when ticket will auto-resurrect), check in with Legal for an answer.
 1. If Legal requests more time, respond to the ticket with the [`Legal::Handover`](https://gitlab.com/search?utf8=%E2%9C%93&group_id=2573624&project_id=17008590&scope=&search_code=true&snippets=false&repository_ref=master&nav_source=navbar&search=id%3A+360056759280) macro.
-
 
 1. Note the above response in the related Legal and Compliance issue.
 1. Close ticket.

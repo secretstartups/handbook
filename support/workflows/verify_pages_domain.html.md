@@ -49,7 +49,7 @@ name with it. Instead they need to be created on a special subdomain, e.g.:
 
 You can check whether a CNAME record is being used by running:
 
-```
+```sh
 $ dig +short cname example.com
 ```
 
@@ -63,14 +63,14 @@ user believes the verification code has been added to DNS correctly. You can
 check the TXT records for a custom domain by running the following commands
 (replacing `example.com` with the correct domain throughout):
 
-```
+```sh
 $ dig +short txt example.com
 $ dig +short txt _gitlab-pages-verification-code.example.com
 ```
 
 One or both of these commands should output a line of this form:
 
-```
+```text
 "gitlab-pages-verification-code=78c8e1eb3311aecb7d6cffd1bc2e0e0f"
 ```
 
@@ -106,6 +106,7 @@ GitLab.com.
 
 **How long these records are cached for is controlled by the domain**
 **owner:**
+
 - If a "negative lookup" has been cached, it will be for a time specified by the
 `MINIMUM` field of the [SOA record](https://en.wikipedia.org/wiki/SOA_record).
 - TXT records containing the incorrect code will be cached for a time specified

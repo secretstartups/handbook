@@ -22,12 +22,12 @@ Mattermost has created a `mattermost-support` account in GitLab for support issu
 When a GitLab EE customer hits a Mattermost issue and you cannot reasonably resolve the issue using existing documentation:
 
 - Do your best effort to make sure there is enough information to reproduce the issue
-- Submit the issue in one of the mentioned projects and apply `mattermost` label. When the label is applied, an email notification is sent 
+- Submit the issue in one of the mentioned projects and apply `mattermost` label. When the label is applied, an email notification is sent
 to the technical support team who answers the question within two business days using the `mattermost-support` account.
-- For Priority support (Premium/Ultimate customers, additionally assign the issue to the `mattermost-support` account. This assignment sends an email notification, 
+- For Priority support (Premium/Ultimate customers, additionally assign the issue to the `mattermost-support` account. This assignment sends an email notification,
 which is automatically escalated to the critical level technical support who answers the question within 4 hours using the `mattermost-support` account.
 
-This information is taken from [Service-Level Agreement (SLA)](https://docs.mattermost.com/process/gitlab-process.html#service-level-agreement-sla) 
+This information is taken from [Service-Level Agreement (SLA)](https://docs.mattermost.com/process/gitlab-process.html#service-level-agreement-sla)
 page of Mattermost docs.
 
 NOTE: **Note:**
@@ -37,5 +37,3 @@ The Mattermost team sometimes uses their personal accounts to respond to issues.
 ### Other resources
 
 - [Mattermost forum](http://forum.mattermost.org/c/general/gitlab) - has over a thousand people registered on the forum and every new question and answer makes thing easier to troubleshoot.
-
-

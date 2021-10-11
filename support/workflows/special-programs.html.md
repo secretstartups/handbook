@@ -22,6 +22,7 @@ Note that our special programs do not include support, but support can be purcha
 ---
 
 ##### GitLab for Education (EDU) Workflow
+
 1. When a customer is looking to apply or renew their existing EDU subscription, send the [`General::EDU Response`](https://gitlab.com/gitlab-com/support/support-ops/zendesk-macros/-/blob/master/macros/active/General/EDU%20Response.yaml) macro.
 
 ##### GitLab for Open Source (OSS) Workflow
