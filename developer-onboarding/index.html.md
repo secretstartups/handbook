@@ -103,7 +103,7 @@ merged sooner.
 
 Unless the change is very minor, or is fixing a bug that was introduced in the
 same version, create a changelog entry using the
-[`Changelog` Git trailer][changelog-entry].
+[`Changelog` Git commit trailer][changelog-entry].
 Do not include your name in the entry as we only do that to give recognition to
 volunteer contributors.
 
