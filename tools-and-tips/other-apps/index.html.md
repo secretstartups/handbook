@@ -141,15 +141,16 @@ The core app is free to download and use, but the paid [Powerpack](https://www.a
 It's a great tool for developers and general productivity enthusiasts alike.
 The clipboard history feature is nicely integrated with many tools, and for example will forget passwords copied from 1Password after they have been pasted.
 
-If you'd like to share your calendar with e.g. your partner you can use the 'Share with specific people' feature and set the permissions to 'See only free/busy (hide details)':
-
+Alfred adds the ability to create custom searches. Here are two to search the docs and the handbook. 
 ```
 https://docs.gitlab.com/search/?q={query}
 ```
 
 ```
-/handbook/#stq={query}&stp=1
+https://about.gitlab.com/handbook/#stq={query}&stp=1
 ```
+
+Read [Searching using Alfred](https://about.gitlab.com/handbook/tools-and-tips/searching/#searching-using-alfred-on-macos) to learn more and be able to automatically add them.
 
 There is also [a repo maintained by GitLab team members](https://gitlab.com/gitlab-org/alfred) with GitLab related workflows.
 
