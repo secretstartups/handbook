@@ -66,12 +66,12 @@ By the week prior to the completion of the current milestone, the scope of the n
 Backlog refinement is the most important step to ensure an issue is ready to move into development
 and that the issue will match everyone's expectations when the work is delivered.
 
-The goal of the refinement process is to:
-*  Identify and resolve outstanding questions or discussions.
-*  Raise any questions, concerns or alternative approaches.
-*  Outline an implementation plan.
-*  Ensure issue is ready to be worked on.
-*  Assign a weight to the issue.
+The goal of the refinement process is to ensure an issue is ready to be worked on by doing this:
+* Identify and resolve outstanding questions or discussions.
+* Identify missing dependencies (e.g. `backend` API).
+* Raise any questions, concerns or alternative approaches.
+* Outline an implementation plan.
+* Assign a weight to the issue.
 
 ### Refinement steps for Engineers:
 
