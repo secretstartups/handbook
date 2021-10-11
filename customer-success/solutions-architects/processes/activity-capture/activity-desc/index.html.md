@@ -80,40 +80,16 @@ Select these [SA] Activity types when capturing activities by the Strategic Fiel
 
 Select these [SA] Activity types when capturing activities by the Alliance/Channel team but other activity types for Enterprise can also be used.
 
-- **Partner Enablement [Alliances][Channel]** - Calls, meetings, workshops, webinars to enable partners on GitLab product and pre-sales. Example activities can be followings:
-  * Initial Discovery discussions
-  * Workshops/Demos
-  * Competitive GitLab positioning
-  * Partner bootcamps / Virtual Partner bootcamps, etc.
-  * Building content (if needed)
-  * Champions building
+- **Partner Enablement [Alliances][Channel]** - Calls, meetings, workshops, webinars to enable partners on GitLab product and pre-sales.
 
 - **Partner Services Attach [Channel]** - Develop partner services catalog and/or SoW for specific services engagements.
-  * SA/Channels SA assisting the business partner with either sub-contracting SoW or SoW specifics to accounts (either GitLab introducing the partner to the customer and/or the partner introducing their engagement to GitLab)
-  * Helping partner create their service catalog offering with GitLab
 
-- **Partner Opportunity** - Work alongside field SA on specific sales opportunities with a partner involvement. This includes being an overlay SME on partner technologies and its joint value proposition with GitLab and/or helping a channel/services partner become successful with the customer.
-  * Alliances SA helping Account teams as SME’s on joint solution & joint value proposition
-  * Helping partner with RFP
-  * Helping partner’s Pro-serve engineers troubleshoot issues (this should not happen, but there are always exception cases). It can be combined with Techical Support activity type.
+- **Partner Opportunity** - Work alongside field SA on specific sales opportunities with a partner involvement. This includes being an overlay SME on partner technologies and its joint value proposition with GitLab and/or helping a channel/services partner become successful with joint customers.
 
-- **Partner Technical Evangelism [Alliances][Channel]** - Partner marketing events and evangelism, including conferences, meetups, webinars, open bootcamps, blogs and customer success stories.
-  * Conference/meetup presentations
-  * Webinars (generic or specific use cases)
-  * Joint bootcamps (open invite) with a partner (target audience is customer/prospects)
-  * Potential 3-way play with Cloud+Channel partners 
-  * Joint Marketing/Blog posts, win stories, etc
+- **Partner Technical Evangelism [Alliances][Channel]** - Partner marketing events and evangelism, including conferences, meetups, webinars, open-invite bootcamps, blogs and customer success stories.
 
-- **Partner Cadence calls [Channel][Alliances]** - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy. Example activities can be one of the followings:
-  * Discussing opportunities, issues, etc.  
+- **Partner Cadence calls [Channel][Alliances]** - Cadence calls with partners for partnership building and pre sales activities on customer opportunities and account strategy.  
 
-- **Partner Solutioning [Alliances]** - Solution architecture work for defining and developing partner solutions and integration with GitLab. Example activities can be followings:
-  * Opinionated demos/solutions showing GitLab integrated with a partner product/platform. Eg: GitLab flows for GCP
-  * Reference Architectures showing GitLab + partner product/platform. 
-  * Joint solution offerings like AWS QuickStart, Runner Vending Machine, Runner on Kubernetes, CloudFormation Auto Deploy w/ Review Apps.
+- **Partner Solutioning [Alliances]** - Solution architecture work for defining and developing partner solutions and integration with GitLab.
 
-- **Internal Enablement and SME Assistance [Alliances]** - Calls, meetings, webinars for internal field SA enablement and assistance.
-Example activities can be followings:
-  * Reference architecture reviews (Quality/Distribution get the request directly).
-  * Internal Webinars and Enablement sessions
-  * Direct Deal Individual Meetings (1 or maybe 2 per deal) to handle deep Platform Partner SME questions and show GitLab has the tech chops on that.  
+- **Internal Enablement and SME Assistance [Alliances]** - Calls, meetings, webinars for internal field SA enablement and assistance.  
