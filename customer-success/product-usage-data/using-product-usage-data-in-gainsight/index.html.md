@@ -77,13 +77,9 @@ There will be several limitations with the MVC deployment; however, as you come 
 
 <br>
 
-Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas.
+Remember, this is an MVC — please [create an issue to suggest new metrics](#requesting-new-metrics), different ways to evaluate the customer's journey, or other ideas. 
 
-| Use Case (Stage)   | Purpose / Adoption Level | Description                                                  |
-| ------------------ | ------------------------ | ------------------------------------------------------------ |
-| SCM (Create)       | Basic Adoption           | Is my customer using the basic toolset? Most customers should adopt these features pretty quickly into their GitLab journey |
-| CI (Verify)        | Product Stickiness       | As part of their continued adoption and customer journey, we want to help our customers adopt CI, as well as helping their central DevOps teams to better understand their organization's adoption of CI. Use these metrics to help determine progress towards adoption |
-| DevSecOps (Secure) | Enablement & Expansion   | Finally, for customers using our security features or who are trialing and wanting to [shift left](https://about.gitlab.com/blog/2020/06/23/efficient-devsecops-nine-tips-shift-left/), use these metrics to help identify adoption and track growth |
+For specifics on Use Cases, see [Use Case Adoption](https://about.gitlab.com/handbook/customer-success/product-usage-data/use-case-adoption/).
 
 <br>
 
